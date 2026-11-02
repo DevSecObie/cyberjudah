@@ -143,13 +143,13 @@ Reading from The seed must die for the plant to grow (article, as titled on air)
 
 **[1 Corinthians 15:36-37](/bible/1-corinthians/15#v36)**  *[[18:54](https://www.youtube.com/watch?v=UdMbCfOIZN8&t=1134s)]*
 
-> <sup>[36](/bible/1-corinthians/15#v36)</sup> Thou fool, that which thou sowest is not quickened, except it die:
->
-> <sup>[37](/bible/1-corinthians/15#v37)</sup> And that which thou sowest, thou sowest not that body that shall be, but bare grain, it may chance of wheat, or of some other grain:
-
 - So now when we go back to Corinthians, remember he said, well, some will say, well, what body are they going to come with? And he had to break this thing down.
 
+> <sup>[36](/bible/1-corinthians/15#v36)</sup> Thou fool, that which thou sowest is not quickened, except it die:
+
 - That which thou sowest is not quickened, except it die: He said, you don't understand what you sow. When you take a seed and you sow it to the earth, it's not changed. It doesn't grow except it die. It goes through a germination process and it leaves behind the shell. You don't understand that.
+
+> <sup>[37](/bible/1-corinthians/15#v37)</sup> And that which thou sowest, thou sowest not that body that shall be, but bare grain, it may chance of wheat, or of some other grain:
 
 - And that which thou sowest, thou sowest not that body that shall be: And what you sowest is not the body; the seed that you put in the ground. The tomato seed. You don't put an actual tomato in the ground. Put a seed. It starts with a seed. So it's not the actual body that you put in the ground. It's the seed that actually grows in the ground.
 
@@ -194,16 +194,16 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*  *[[21:21](https:
 **[1 Corinthians 2:12-14](/bible/1-corinthians/2#v12)**  *[[24:31](https://www.youtube.com/watch?v=UdMbCfOIZN8&t=1471s)]*
 
 > <sup>[12](/bible/1-corinthians/2#v12)</sup> Now we have received, not the spirit of the world, but the spirit which is of God; that we might know the things that are freely given to us of God.
->
-> <sup>[13](/bible/1-corinthians/2#v13)</sup> Which things also we speak, not in the words which man’s wisdom teacheth, but which the Holy Ghost teacheth; comparing spiritual things with spiritual.
->
-> <sup>[14](/bible/1-corinthians/2#v14)</sup> But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned.
 
 - Now we have received, not the spirit of the world, but the spirit which is of God: He said, we didn't receive the spirit of the world. We received the spirit of God.
 
 - That we might know the things that are freely given to us of God: The words of the scriptures, the understanding. These things are freely given to us, and we receive the spirit of God so we can understand it.
 
+> <sup>[13](/bible/1-corinthians/2#v13)</sup> Which things also we speak, not in the words which man’s wisdom teacheth, but which the Holy Ghost teacheth; comparing spiritual things with spiritual.
+
 - Comparing spiritual things with spiritual: Comparing precepts with precepts. We comparing spiritual things with spiritual things.
+
+> <sup>[14](/bible/1-corinthians/2#v14)</sup> But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned.
 
 - But the natural man: But the natural man, if you still caught up in a carnal mind state, in the flesh, your mind is too far in the world. That's a natural man.
 
@@ -217,12 +217,12 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*  *[[21:21](https:
 **[1 Corinthians 15:37-38](/bible/1-corinthians/15#v37)**  *[[27:27](https://www.youtube.com/watch?v=UdMbCfOIZN8&t=1647s)]*
 
 > <sup>[37](/bible/1-corinthians/15#v37)</sup> And that which thou sowest, thou sowest not that body that shall be, but bare grain, it may chance of wheat, or of some other grain:
->
-> <sup>[38](/bible/1-corinthians/15#v38)</sup> But God giveth it a body as it hath pleased him, and to every seed his own body.
 
 - Thou sowest not that body that shall be: You sow not the body that shall be.
 
 - But bare grain: But the seed.
+
+> <sup>[38](/bible/1-corinthians/15#v38)</sup> But God giveth it a body as it hath pleased him, and to every seed his own body.
 
 - But God giveth it a body as it hath pleased him: But God giveth it a body as it had pleased him. God giveth it a body as it had pleased him.
 
@@ -251,12 +251,12 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*  *[[21:21](https:
 > <sup>[28](/bible/luke/9#v28)</sup> And it came to pass about an eight days after these sayings, he took Peter and John and James, and went up into a mountain to pray.
 >
 > <sup>[29](/bible/luke/9#v29)</sup> And as he prayed, the fashion of his countenance was altered, and his raiment was white and glistering.
->
+
+- The fashion of his countenance was altered: So this is when Christ was transfigured in front of him. He said the fashion of his body, his appearance, it was altered.
+
 > <sup>[30](/bible/luke/9#v30)</sup> And, behold, there talked with him two men, which were Moses and Elias:
 >
 > <sup>[31](/bible/luke/9#v31)</sup> Who appeared in glory, and spake of his decease which he should accomplish at Jerusalem.
-
-- The fashion of his countenance was altered: So this is when Christ was transfigured in front of him. He said the fashion of his body, his appearance, it was altered.
 
 - Who appeared in glory: So they appeared in their bodies. And what did Peter see? He saw Christ transfigured in his body. He said it was altered. So they saw this. They witnessed. They was a key witness to this thing. But the two prophets, Moses and Elias, they standing there in their glory.
 
@@ -266,32 +266,20 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*  *[[21:21](https:
 **[John 12:23-33](/bible/john/12#v23)**  *[[31:33](https://www.youtube.com/watch?v=UdMbCfOIZN8&t=1893s)]*
 
 > <sup>[23](/bible/john/12#v23)</sup> And Jesus answered them, saying, The hour is come, that the Son of man should be glorified.
->
+
+- The hour is come, that the Son of man should be glorified: The hour is come that I might be glorified, that he might be crucified.
+
 > <sup>[24](/bible/john/12#v24)</sup> Verily, verily, I say unto you, Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit.
->
+
+- Except a corn of wheat fall into the ground and die, it abideth alone: He said it abideth... Listen, Christ given us some heavy stuff. He said, except a corn of wheat... This is stuff that we should know, that's around us on a daily basis. When you talk about the seed dying: except a corn of wheat fall into the earth and die, it's alone. It's that little seed right there by itself.
+
+- But if it die, it bringeth forth much fruit: But if it die, what happens? It starts to bring forth fruit. It grows and yieldeth more fruit, more seeds. You understand? So that's the process that the Sadducees didn't understand. Those in Corinth didn't understand. That wisdom was above their heads.
+
 > <sup>[25](/bible/john/12#v25)</sup> He that loveth his life shall lose it; and he that hateth his life in this world shall keep it unto life eternal.
 >
 > <sup>[26](/bible/john/12#v26)</sup> If any man serve me, let him follow me; and where I am, there shall also my servant be: if any man serve me, him will my Father honour.
 >
 > <sup>[27](/bible/john/12#v27)</sup> Now is my soul troubled; and what shall I say? Father, save me from this hour: but for this cause came I unto this hour.
->
-> <sup>[28](/bible/john/12#v28)</sup> Father, glorify thy name. Then came there a voice from heaven, saying, I have both glorified it, and will glorify it again.
->
-> <sup>[29](/bible/john/12#v29)</sup> The people therefore, that stood by, and heard it, said that it thundered: others said, An angel spake to him.
->
-> <sup>[30](/bible/john/12#v30)</sup> Jesus answered and said, This voice came not because of me, but for your sakes.
->
-> <sup>[31](/bible/john/12#v31)</sup> Now is the judgment of this world: now shall the prince of this world be cast out.
->
-> <sup>[32](/bible/john/12#v32)</sup> And I, if I be lifted up from the earth, will draw all men unto me.
->
-> <sup>[33](/bible/john/12#v33)</sup> This he said, signifying what death he should die.
-
-- The hour is come, that the Son of man should be glorified: The hour is come that I might be glorified, that he might be crucified.
-
-- Except a corn of wheat fall into the ground and die, it abideth alone: He said it abideth... Listen, Christ given us some heavy stuff. He said, except a corn of wheat... This is stuff that we should know, that's around us on a daily basis. When you talk about the seed dying: except a corn of wheat fall into the earth and die, it's alone. It's that little seed right there by itself.
-
-- But if it die, it bringeth forth much fruit: But if it die, what happens? It starts to bring forth fruit. It grows and yieldeth more fruit, more seeds. You understand? So that's the process that the Sadducees didn't understand. Those in Corinth didn't understand. That wisdom was above their heads.
 
 - Now is my soul troubled: He said, now my soul is troubled.
 
@@ -299,9 +287,21 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*  *[[21:21](https:
 
 - But for this cause came I unto this hour: But that was the whole purpose of him coming into the earth, was to die for the 12 tribes of Israel.
 
+> <sup>[28](/bible/john/12#v28)</sup> Father, glorify thy name. Then came there a voice from heaven, saying, I have both glorified it, and will glorify it again.
+>
+> <sup>[29](/bible/john/12#v29)</sup> The people therefore, that stood by, and heard it, said that it thundered: others said, An angel spake to him.
+>
+> <sup>[30](/bible/john/12#v30)</sup> Jesus answered and said, This voice came not because of me, but for your sakes.
+>
+> <sup>[31](/bible/john/12#v31)</sup> Now is the judgment of this world: now shall the prince of this world be cast out.
+
 - Now is the judgment of this world: Now it is the judgment of this world.
 
+> <sup>[32](/bible/john/12#v32)</sup> And I, if I be lifted up from the earth, will draw all men unto me.
+
 - And I, if I be lifted up from the earth, will draw all men unto me: And if I be lifted up from the earth, I'm going to bring forth much fruit. Lifted up from the earth means he had to be crucified. You understand? Nailed on the cross. He said, once that happens and I die, this fleshly body dies, guess what's going to happen? I'll be glorified in another body, and bring forth much fruit.
+
+> <sup>[33](/bible/john/12#v33)</sup> This he said, signifying what death he should die.
 
 - This he said, signifying what death he should die: And now you got to understand the context, that he's talking about his death that he should die. So he said, listen, once this happened, I'mma start to draw men to me. You going to understand?
 
@@ -309,18 +309,16 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*  *[[21:21](https:
 **[1 Corinthians 15:38-41](/bible/1-corinthians/15#v38)**  *[[34:35](https://www.youtube.com/watch?v=UdMbCfOIZN8&t=2075s)]*
 
 > <sup>[38](/bible/1-corinthians/15#v38)</sup> But God giveth it a body as it hath pleased him, and to every seed his own body.
->
-> <sup>[39](/bible/1-corinthians/15#v39)</sup> All flesh is not the same flesh: but there is one kind of flesh of men, another flesh of beasts, another of fishes, and another of birds.
->
-> <sup>[40](/bible/1-corinthians/15#v40)</sup> There are also celestial bodies, and bodies terrestrial: but the glory of the celestial is one, and the glory of the terrestrial is another.
->
-> <sup>[41](/bible/1-corinthians/15#v41)</sup> There is one glory of the sun, and another glory of the moon, and another glory of the stars: for one star differeth from another star in glory.
 
 - But God giveth it a body as it hath pleased him: So there's a body waiting for us, just like it's a body for Christ. Said it's a body waiting for us in the heavens, and Paul understood it. He said somebody said, what body you coming in? In the same body? No. That which goeth to the earth, that which dieth, you understand? We leave that shell, this flesh, to another body.
 
 - And to every seed his own body: And to every seed, we get our what? Own body. We get our own. Now you might think we talking about a seed, but wisdom is double-fold. So imagine, you get your own body, man. Like our minds can't even wrap... We can't wrap our minds around that right there. For real.
 
+> <sup>[39](/bible/1-corinthians/15#v39)</sup> All flesh is not the same flesh: but there is one kind of flesh of men, another flesh of beasts, another of fishes, and another of birds.
+
 - All flesh is not the same flesh: but there is one kind of flesh of men, another flesh of beasts, another of fishes, and another of birds: Said I got to go more in depth now. All flesh is not the same. You got the flesh of men, this flesh that we possess. You got the flesh of beasts, and the fur, the elephant; they all got different flesh. You got the flesh of fishes, fins, scales. Some of them have, some of them don't. You got the flesh of different birds. None of the flesh are the same.
+
+> <sup>[40](/bible/1-corinthians/15#v40)</sup> There are also celestial bodies, and bodies terrestrial: but the glory of the celestial is one, and the glory of the terrestrial is another.
 
 - There are also celestial bodies, and bodies terrestrial: He said there's also celestial bodies, talking about what? The angel. And there's angelic bodies, and terrestrial, talking about man, earthly bodies.
 
@@ -331,6 +329,8 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*  *[[21:21](https:
     > <sup>[17](/bible/revelation/19#v17)</sup> And I saw an angel standing in the sun; and he cried with a loud voice, saying to all the fowls that fly in the midst of heaven, Come and gather yourselves together unto the supper of the great God;
 
     The glory of the celestial body: what was the power that they possessed? I saw an angel standing in the sun. How the hell you stand in the sun? You got to have a special type of body to stand in the sun. Some of us can't even take the sun now, and we miles away. You understand? And here you are, you got an angel, he's standing in the sun.
+
+> <sup>[41](/bible/1-corinthians/15#v41)</sup> There is one glory of the sun, and another glory of the moon, and another glory of the stars: for one star differeth from another star in glory.
 
 
 **[Tobit 12:1](/bible/tobit/12#v1)**  *[[37:08](https://www.youtube.com/watch?v=UdMbCfOIZN8&t=2228s)]*
@@ -384,16 +384,6 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*  *[[21:21](https:
 > <sup>[24](/bible/genesis/32#v24)</sup> And Jacob was left alone; and there wrestled a man with him until the breaking of the day.
 >
 > <sup>[25](/bible/genesis/32#v25)</sup> And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob’s thigh was out of joint, as he wrestled with him.
->
-> <sup>[26](/bible/genesis/32#v26)</sup> And he said, Let me go, for the day breaketh. And he said, I will not let thee go, except thou bless me.
->
-> <sup>[27](/bible/genesis/32#v27)</sup> And he said unto him, What is thy name? And he said, Jacob.
->
-> <sup>[28](/bible/genesis/32#v28)</sup> And he said, Thy name shall be called no more Jacob, but Israel: for as a prince hast thou power with God and with men, and hast prevailed.
->
-> <sup>[29](/bible/genesis/32#v29)</sup> And Jacob asked him, and said, Tell me, I pray thee, thy name. And he said, Wherefore is it that thou dost ask after my name? And he blessed him there.
->
-> <sup>[30](/bible/genesis/32#v30)</sup> And Jacob called the name of the place Peniel: for I have seen God face to face, and my life is preserved.
 
 - And when he saw that he prevailed not against him: So this is Jacob wrestling what he think is a man.
 
@@ -401,11 +391,21 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*  *[[21:21](https:
 
 - And the hollow of Jacob's thigh was out of joint: Can't no man just touch your thigh and it's out of joint. Wow, this Jacob.
 
+> <sup>[26](/bible/genesis/32#v26)</sup> And he said, Let me go, for the day breaketh. And he said, I will not let thee go, except thou bless me.
+
 - I will not let thee go, except thou bless me: Except you bless me.
+
+> <sup>[27](/bible/genesis/32#v27)</sup> And he said unto him, What is thy name? And he said, Jacob.
+>
+> <sup>[28](/bible/genesis/32#v28)</sup> And he said, Thy name shall be called no more Jacob, but Israel: for as a prince hast thou power with God and with men, and hast prevailed.
 
 - For as a prince hast thou power with God and with men: So he blessed him. He said, as a prince, you got power with who? With God. So who was he wrestling? Who was he wrestling? But we coming here to show you the power of man, the glory in that thing. Jacob had extreme strength right there.
 
+> <sup>[29](/bible/genesis/32#v29)</sup> And Jacob asked him, and said, Tell me, I pray thee, thy name. And he said, Wherefore is it that thou dost ask after my name? And he blessed him there.
+
 - Tell me, I pray thee, thy name: What's your name?
+
+> <sup>[30](/bible/genesis/32#v30)</sup> And Jacob called the name of the place Peniel: for I have seen God face to face, and my life is preserved.
 
 - For I have seen God face to face: He seen who? He said, I understood now. Damn, I was sitting here wrestling with an angel, with the Lord. And he blessed him. He said, listen, man, you the prince of the power with God. So the glory of this flesh, this terrestrial, there's another type of glory.
 
@@ -428,14 +428,14 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*  *[[21:21](https:
 > <sup>[40](/bible/1-corinthians/15#v40)</sup> There are also celestial bodies, and bodies terrestrial: but the glory of the celestial is one, and the glory of the terrestrial is another.
 >
 > <sup>[41](/bible/1-corinthians/15#v41)</sup> There is one glory of the sun, and another glory of the moon, and another glory of the stars: for one star differeth from another star in glory.
->
-> <sup>[42](/bible/1-corinthians/15#v42)</sup> So also is the resurrection of the dead. It is sown in corruption; it is raised in incorruption:
 
 - There is one glory of the sun: So is one glory of the sun. He heat up the day. Light up the day. You understand? Who can hide from his light? The sun.
 
 - And another glory of the moon: Then you got another glory of the moon, that goes through the different phases. That's another glory.
 
 - For one star differeth from another star in glory: He said, and one star different from another. So when you look up and you see the stars, you understand? They not all the same. Said one star different in glory than the other. But wisdom is double. This is going into us and our bodies. We all gonna be different, bro. And we gonna be possessing different, you know what I mean, different powers, bro. You might have the power of fire or something like that. I might have the power of a wind, you know, the X-Men. No, that's the X-Men, bro. They be trying to put this stuff in our face, bro. But this stuff be about us. Healing and all that. Who was that? Wolverine had the power to heal itself. So yeah, bro, he said none of the stars... it said they different in glory from each other.
+
+> <sup>[42](/bible/1-corinthians/15#v42)</sup> So also is the resurrection of the dead. It is sown in corruption; it is raised in incorruption:
 
 - So also is the resurrection of the dead: So also is the resurrection of the dead. It's a different glory. We gonna get different. It's different bodies. You can't have that thought in your mind: well, then what body they gonna come in? So also is the resurrection of the dead.
 
@@ -456,10 +456,10 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*  *[[21:21](https:
 > <sup>[18](/bible/ephesians/1#v18)</sup> The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,
 >
 > <sup>[19](/bible/ephesians/1#v19)</sup> And what is the exceeding greatness of his power to us-ward who believe, according to the working of his mighty power,
->
-> <sup>[20](/bible/ephesians/1#v20)</sup> Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,
 
 - And what is the exceeding greatness of his power to us-ward who believe: He said, what is the exceeding greatness of his power to us which believe?
+
+> <sup>[20](/bible/ephesians/1#v20)</sup> Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,
 
 - Which he wrought in Christ, when he raised him from the dead: Which he raised him from the dead.
 
@@ -548,18 +548,18 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*  *[[21:21](https:
 **[1 Corinthians 15:42-44](/bible/1-corinthians/15#v42)**  *[[58:00](https://www.youtube.com/watch?v=UdMbCfOIZN8&t=3480s)]*
 
 > <sup>[42](/bible/1-corinthians/15#v42)</sup> So also is the resurrection of the dead. It is sown in corruption; it is raised in incorruption:
->
-> <sup>[43](/bible/1-corinthians/15#v43)</sup> It is sown in dishonour; it is raised in glory: it is sown in weakness; it is raised in power:
->
-> <sup>[44](/bible/1-corinthians/15#v44)</sup> It is sown a natural body; it is raised a spiritual body. There is a natural body, and there is a spiritual body.
 
 - So also is the resurrection of the dead: So also is the resurrection of the dead. We come in many bodies. One would say that: okay, hey, what body they going to come in? Listen, you got to understand spiritual things to spiritual things. You're not coming back in this same body. Don't have that in your mindset: damn, we gonna die in this body and we gonna come back in this body. No. This body, this shell, we leaving behind. And we inherited an incorruptible inheritance.
+
+> <sup>[43](/bible/1-corinthians/15#v43)</sup> It is sown in dishonour; it is raised in glory: it is sown in weakness; it is raised in power:
 
 - It is sown in dishonour: It is sown in dishonor, this flesh.
 
 - It is raised in glory: But we going to be glorified. It's raised up in glory.
 
 - It is sown in weakness; it is raised in power: It is sown in weakness, but is raised in that same power, that same power that we read in Ephesians that's working, that raised up Christ.
+
+> <sup>[44](/bible/1-corinthians/15#v44)</sup> It is sown a natural body; it is raised a spiritual body. There is a natural body, and there is a spiritual body.
 
 - It is sown a natural body; it is raised a spiritual body: It's sown a natural body, this earthly body. But what were we raised in? Something spiritual. This going to be a spiritual body. You understand? Adam had that. It's going to explain. It's going to explain.
 
@@ -574,21 +574,21 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*  *[[21:21](https:
 
 **[Romans 7:23-25](/bible/romans/7#v23)**  *[[1:01:07](https://www.youtube.com/watch?v=UdMbCfOIZN8&t=3667s)]*
 
-> <sup>[23](/bible/romans/7#v23)</sup> But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members.
->
-> <sup>[24](/bible/romans/7#v24)</sup> O wretched man that I am! who shall deliver me from the body of this death?
->
-> <sup>[25](/bible/romans/7#v25)</sup> I thank God through Jesus Christ our Lord. So then with the mind I myself serve the law of God; but with the flesh the law of sin.
-
 - When you talk about this flesh that we in, that we all got to bear, watch this.
+
+> <sup>[23](/bible/romans/7#v23)</sup> But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members.
 
 - Warring against the law of my mind: In this natural body, it wars against our minds, our spirit. That spiritual body, it's warring against us.
 
 - And bringing me into captivity to the law of sin which is in my members: So this is something in this body right here, is a war.
 
+> <sup>[24](/bible/romans/7#v24)</sup> O wretched man that I am! who shall deliver me from the body of this death?
+
 - Who shall deliver me from the body of this death?: Who shall redeem me from this body, from this body who is warring against my mindset, the spiritual man, as I'm trying to obtain. I'm running this race, trying to sit up there and obtain a incorruptible crown. I see another law in my members that's warring against my mind, and it's a battle. He's like, man, O wretched man that I am, who is going to deliver me from this body? From this body. Who's going to deliver me from the body of this death? From this flesh. We susceptible to sin. This is that natural man.
 
 - O wretched man that I am! who shall deliver me from the body of this death?: So you got to take accountability. Understand, man, we in our wretchedness, bro. Oh, this body, as long as we in this body, this is a wretched, wretched state that we in. Who's going to deliver us from this body?
+
+> <sup>[25](/bible/romans/7#v25)</sup> I thank God through Jesus Christ our Lord. So then with the mind I myself serve the law of God; but with the flesh the law of sin.
 
 - I thank God through Jesus Christ our Lord: But we have to thank the Father through Christ our Lord, because he resurrected for us. He died for our sins, for us to have the ability not for our sins to be imputed unto us, not to be counted unto us. You understand? So we can repent. He said, I thank God for that thing.
 
@@ -606,10 +606,10 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*  *[[21:21](https:
 **[1 Corinthians 15:44-45](/bible/1-corinthians/15#v44)**  *[[1:05:53](https://www.youtube.com/watch?v=UdMbCfOIZN8&t=3953s)]*
 
 > <sup>[44](/bible/1-corinthians/15#v44)</sup> It is sown a natural body; it is raised a spiritual body. There is a natural body, and there is a spiritual body.
->
-> <sup>[45](/bible/1-corinthians/15#v45)</sup> And so it is written, The first man Adam was made a living soul; the last Adam was made a quickening spirit.
 
 - And there is a spiritual body: But there is also a spiritual body in the heavens.
+
+> <sup>[45](/bible/1-corinthians/15#v45)</sup> And so it is written, The first man Adam was made a living soul; the last Adam was made a quickening spirit.
 
 - The first man Adam was made a living soul: Adam was made a what? Living soul. Because why? He was the son of God. You read in Luke, he was the son of God. He was made a living soul. A body was prepared for Adam and his soul was breathed into the body.
 

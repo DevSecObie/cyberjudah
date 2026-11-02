@@ -294,8 +294,6 @@ Reading from a graphic of a wife at work on her husband  *[[48:32](https://www.y
 **[Ephesians 1:9-10](/bible/ephesians/1#v9)**  *[[52:04](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=3124s)]*
 
 > <sup>[9](/bible/ephesians/1#v9)</sup> Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself:
->
-> <sup>[10](/bible/ephesians/1#v10)</sup> That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:
 
 - Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself: that in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven and which are on earth, even in him. Unity. Unified. He is going to gather all things.
 
@@ -305,15 +303,9 @@ Reading from a graphic of a wife at work on her husband  *[[48:32](https://www.y
 
 - He talks about submission, love, reverence, grace, self-examination. But that is not just for marriage. All those things apply to each and every one of us in this walk. It shows what life is going to be like in the kingdom of heaven. And if you cannot be faithful in those things here on earth, how do you think you can be an heir for those things in the kingdom?
 
-**[Ephesians 5:21-24](/bible/ephesians/5#v21)**  *[[54:28](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=3268s)]*
+> <sup>[10](/bible/ephesians/1#v10)</sup> That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:
 
-> <sup>[21](/bible/ephesians/5#v21)</sup> Submitting yourselves one to another in the fear of God.
->
-> <sup>[22](/bible/ephesians/5#v22)</sup> Wives, submit yourselves unto your own husbands, as unto the Lord.
->
-> <sup>[23](/bible/ephesians/5#v23)</sup> For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body.
->
-> <sup>[24](/bible/ephesians/5#v24)</sup> Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing.
+**[Ephesians 5:21-24](/bible/ephesians/5#v21)**  *[[54:28](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=3268s)]*
 
 - Submitting yourselves one to another in the fear of God. The fear of God part means as God said the responsibilities are. You will hear marriage is not fifty-fifty. I am going to tell you, marriage is fifty-fifty inasmuch as the woman is responsible one hundred percent for what her role is and how God says it — that is her submission to the man — and the man is responsible for his submission to Christ, by following the things that Christ says he is to do in the marriage. So when it says submitting yourselves one to another, the submission that the man does is, I am going to follow what Christ said I need to do and be the husband that Christ said I am to be.
 
@@ -321,11 +313,19 @@ Reading from a graphic of a wife at work on her husband  *[[48:32](https://www.y
 
 - For the husband is the head of the wife. And there he goes again talking about that order, letting you know that verse 21 does not mean your husband has a submission to you, because he now goes and establishes the order.
 
+> <sup>[21](/bible/ephesians/5#v21)</sup> Submitting yourselves one to another in the fear of God.
+>
+> <sup>[22](/bible/ephesians/5#v22)</sup> Wives, submit yourselves unto your own husbands, as unto the Lord.
+>
+> <sup>[23](/bible/ephesians/5#v23)</sup> For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body.
+
 - Even as Christ is the head of the church: and he is the saviour of the body. Remember how I said your desire should be unto him in acknowledgement of his nurturing, his protection, the hedge he provides. He is the saviour of the body, and you need to see it that way. The body he is talking about is you and him together as one flesh, and then your household, which is a reflection of your little nation. That is why Timothy says you cannot rule the church of God if you cannot rule your own house.
 
 - Therefore as the church is subject unto Christ, so let the wives be to their own husbands in everything. The wife is the church in this similitude. The same way the church is subject to Christ, that is the exact same way you need to be subject to your husband.
 
 - In everything. Now I am going to qualify that everything later, because in everything is everything short of sin. Your husband cannot say, okay, do this sin, and that is it. The scripture says you ought to obey God rather than men. But other than that, anything else he tells you to do, you need to be doing it. No rebuttals, no contestation.
+
+> <sup>[24](/bible/ephesians/5#v24)</sup> Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing.
 
 **[Ephesians 5:33](/bible/ephesians/5#v33)**  *[[57:39](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=3459s)]*
 
@@ -439,13 +439,11 @@ Reading from a dictionary entry on cleave  *[[1:08:59](https://www.youtube.com/w
 
 **[Ephesians 5:31-33](/bible/ephesians/5#v31)**  *[[1:11:57](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=4317s)]*
 
+- For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh. So he is basically paraphrasing what we read in Genesis.
+
 > <sup>[31](/bible/ephesians/5#v31)</sup> For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh.
 >
 > <sup>[32](/bible/ephesians/5#v32)</sup> This is a great mystery: but I speak concerning Christ and the church.
->
-> <sup>[33](/bible/ephesians/5#v33)</sup> Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband.
-
-- For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh. So he is basically paraphrasing what we read in Genesis.
 
 - This is a great mystery: but I speak concerning Christ and the church. You have to realise that marriage is not just a social contract like they say. It is a literal symbolism of Christ and the church on the earth. Remember Ephesians is about the unity, everything coming under one in Christ, both kingdoms, northern and southern, and then how we must endeavour to keep that unity. That is what makes the submission on the wife's part so critical.
 
@@ -456,6 +454,8 @@ Reading from a dictionary entry on cleave  *[[1:08:59](https://www.youtube.com/w
 - So it does not mean that the husband can behave however he wants. You still have to fulfil your role as a woman even if he is going off. But it is not a licence for him. There is a big judgment when you take the steps of marriage, for both man and woman, but especially for a man, just by the weight of the responsibility that you have. Just like a leader — you read in James, be not many masters, they have the greater condemnation. That is why it says you are the saviour of the body in Ephesians 5, as the husband, as the father in that household, because your decisions now affect all of them.
 
 - Remember how last week me and Cap were bringing out how the husband and the father can disallow the wife's vows or the daughter's vows. That is the gravity, that is the heaviness of it. It is a position that we hold, just like a rank within the church, and it holds a lot of weight.
+
+> <sup>[33](/bible/ephesians/5#v33)</sup> Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband.
 
 **[1 Peter 3:1-2](/bible/1-peter/3#v1)**  *[[1:14:22](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=4462s)]*
 
@@ -579,13 +579,11 @@ Reading from a dictionary entry on self-discipline  *[[1:32:51](https://www.yout
 
 **[1 Peter 3:5-6](/bible/1-peter/3#v5)**  *[[1:33:44](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=5624s)]*
 
-> <sup>[5](/bible/1-peter/3#v5)</sup> For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in subjection unto their own husbands:
->
-> <sup>[6](/bible/1-peter/3#v6)</sup> Even as Sara obeyed Abraham, calling him lord: whose daughters ye are, as long as ye do well, and are not afraid with any amazement.
-
 - That quality of self-discipline, the meek and quiet spirit, is deeply connected to submission. There is more that goes into it, but he mentions those two because if you focus on those two the rest will follow after it. You know how the scripture says all flesh consorteth according to kind — we know that all spirits like to gather together, righteous spirits move in groups. So if you focus on those two, the meek and quiet spirit, sisters, then the rest will come with it.
 
 - For after this manner in the old time the holy women also, who trusted in God, adorned themselves. You see the key part there? They trusted in God. They did not say, he is my project. They did not say, I am going to change him, I am going to fix him, I am so worried that he is this, that and the other. They trusted in God enough to play their role harder in times of adversity, so that God can then be present in that marriage. God will deal with your husband.
+
+> <sup>[5](/bible/1-peter/3#v5)</sup> For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in subjection unto their own husbands:
 
 - Being in subjection unto their own husbands: even as Sara obeyed Abraham, calling him lord: whose daughters ye are, as long as ye do well, and are not afraid with any amazement. That you are not afraid to submit, that you are not afraid that those things will run you errant. How many of you have just been unyielding in certain situations. And yes, it does not make the things the husband might be doing right, but it does make you right if you stay in that lane with God. And then if you believe and you fear God and you have that confidence in him, then he will show you a path forward to have reconciliation in that division that is in your house.
 
@@ -594,6 +592,8 @@ Reading from a dictionary entry on self-discipline  *[[1:32:51](https://www.yout
 - But understand something. You can never submit to your husband if you do not adapt to your husband. If you are trying to make him adapt to you, you will never be able. You will always have some sort of resentment and bitterness inside of you. Remember what it said in Genesis 3:16, your desire shall be to your husband. That is where submission starts. You adapt to him, not the other way around. He is required to understand, but not excuse.
 
 - So do not think that biblical submission is, I eventually did what he said, because a lot of you hang your head on that. Well, I did it, after so much trifling and arguing, division and hatred. Well, at the end of the day I do it. That is not submission, sisters. You can comply but still be contemptuous. You can comply and be sarcastic. I like sarcasm in the context of us having a funny moment; every other time it is like nails on a chalkboard. That is such a disrespectful manifestation of a serious topic. You can comply and still be hostile. You can comply and still be dismissive. And you can comply and still have a rebellious spirit.
+
+> <sup>[6](/bible/1-peter/3#v6)</sup> Even as Sara obeyed Abraham, calling him lord: whose daughters ye are, as long as ye do well, and are not afraid with any amazement.
 
 <div class="reading">
 
@@ -799,6 +799,18 @@ Reading from a dictionary entry on odious  *[[2:00:18](https://www.youtube.com/w
 
 **[Proverbs 31:10-25](/bible/proverbs/31#v10)**  *[[2:01:28](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=7288s)]*
 
+- Who can find a virtuous woman? for her price is far above rubies. There are a lot of sisters that are flippant about it — well, none of us is going to be that way. There are some that like to say they are in training, but they do not do any of the effort and the things I have spoken about today, because a lot of these scriptures you already know. I am not bringing out anything you have not heard before. Maybe, and this is my aim, I am trying to bring it out in a way where it is a little easier to apply and you have a better understanding of how it manifests itself physically.
+
+- While that price is far above rubies and very difficult to find, in the same chapter they tell you what you need to do to become that. It is like if you want to be a successful athlete and they say you have got to do this, you have got to be disciplined, you are going to arrive early and train this many times — and then if you have the discipline and conviction to do it, you become that. Obviously you have got to have the gifts as well. This virtuous woman is not unobtainable in these last days, because we have the manual right here. All you have got to do is drop your pride, stop being odious, and come back here and see how you model yourself. You can say, well, my mom was a whore and she did not teach me this and there are no good examples around me. You have it right here. So if you cannot see it in someone else, you see it here. It is not that complicated.
+
+- The heart of her husband doth safely trust in her, so that he shall have no need of spoil. She will do him good and not evil all the days of her life. And that does not just mean she is not going to cheat on him. It goes into everything we have spoken about up to this point. For me, if you are married, that should be a given, because it is one and done — you cheat on the man, you are out. So when it says doing good and not evil, everybody likes to stay on that, but it is going into the submission, the meek and quiet spirit, all of this.
+
+- She seeketh wool, and flax, and worketh willingly with her hands. So when she goes to do her woman's job — at this time it was wool and flax, it was a different time, things were obtained differently. Listen, it is the ideal situation that the wife does not work. But it is crazy out here. You cannot survive in a lot of cases without the two incomes, or the man has got to be doing exceptionally well. But that still does not change what the Lord requires of you.
+
+- She is like the merchants' ships; she bringeth her food from afar. So that means if she has got to commute an hour, she is going to commute an hour each way. Because these excuses that have come to us in councils — well, I am not like this because I have got to do this, this and this. No.
+
+- She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens. Meaning she held it down. She woke up early. She took care of her household and her maidens.
+
 > <sup>[10](/bible/proverbs/31#v10)</sup> Who can find a virtuous woman? for her price is far above rubies.
 >
 > <sup>[11](/bible/proverbs/31#v11)</sup> The heart of her husband doth safely trust in her, so that he shall have no need of spoil.
@@ -812,44 +824,24 @@ Reading from a dictionary entry on odious  *[[2:00:18](https://www.youtube.com/w
 > <sup>[15](/bible/proverbs/31#v15)</sup> She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens.
 >
 > <sup>[16](/bible/proverbs/31#v16)</sup> She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard.
->
-> <sup>[17](/bible/proverbs/31#v17)</sup> She girdeth her loins with strength, and strengtheneth her arms.
->
-> <sup>[18](/bible/proverbs/31#v18)</sup> She perceiveth that her merchandise is good: her candle goeth not out by night.
->
-> <sup>[19](/bible/proverbs/31#v19)</sup> She layeth her hands to the spindle, and her hands hold the distaff.
->
-> <sup>[20](/bible/proverbs/31#v20)</sup> She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy.
->
-> <sup>[21](/bible/proverbs/31#v21)</sup> She is not afraid of the snow for her household: for all her household are clothed with scarlet.
->
-> <sup>[22](/bible/proverbs/31#v22)</sup> She maketh herself coverings of tapestry; her clothing is silk and purple.
->
-> <sup>[23](/bible/proverbs/31#v23)</sup> Her husband is known in the gates, when he sitteth among the elders of the land.
->
-> <sup>[24](/bible/proverbs/31#v24)</sup> She maketh fine linen, and selleth it; and delivereth girdles unto the merchant.
->
-> <sup>[25](/bible/proverbs/31#v25)</sup> Strength and honour are her clothing; and she shall rejoice in time to come.
-
-- Who can find a virtuous woman? for her price is far above rubies. There are a lot of sisters that are flippant about it — well, none of us is going to be that way. There are some that like to say they are in training, but they do not do any of the effort and the things I have spoken about today, because a lot of these scriptures you already know. I am not bringing out anything you have not heard before. Maybe, and this is my aim, I am trying to bring it out in a way where it is a little easier to apply and you have a better understanding of how it manifests itself physically.
-
-- While that price is far above rubies and very difficult to find, in the same chapter they tell you what you need to do to become that. It is like if you want to be a successful athlete and they say you have got to do this, you have got to be disciplined, you are going to arrive early and train this many times — and then if you have the discipline and conviction to do it, you become that. Obviously you have got to have the gifts as well. This virtuous woman is not unobtainable in these last days, because we have the manual right here. All you have got to do is drop your pride, stop being odious, and come back here and see how you model yourself. You can say, well, my mom was a whore and she did not teach me this and there are no good examples around me. You have it right here. So if you cannot see it in someone else, you see it here. It is not that complicated.
-
-- The heart of her husband doth safely trust in her, so that he shall have no need of spoil. She will do him good and not evil all the days of her life. And that does not just mean she is not going to cheat on him. It goes into everything we have spoken about up to this point. For me, if you are married, that should be a given, because it is one and done — you cheat on the man, you are out. So when it says doing good and not evil, everybody likes to stay on that, but it is going into the submission, the meek and quiet spirit, all of this.
-
-- She seeketh wool, and flax, and worketh willingly with her hands. So when she goes to do her woman's job — at this time it was wool and flax, it was a different time, things were obtained differently. Listen, it is the ideal situation that the wife does not work. But it is crazy out here. You cannot survive in a lot of cases without the two incomes, or the man has got to be doing exceptionally well. But that still does not change what the Lord requires of you.
-
-- She is like the merchants' ships; she bringeth her food from afar. So that means if she has got to commute an hour, she is going to commute an hour each way. Because these excuses that have come to us in councils — well, I am not like this because I have got to do this, this and this. No.
-
-- She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens. Meaning she held it down. She woke up early. She took care of her household and her maidens.
 
 - She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard. Meaning she has sense. She was able to be out there and make important decisions, and her husband was able to trust in them.
 
 - She girdeth her loins with strength, and strengtheneth her arms. That does not mean she is out there trying to be manly. It means she has built herself up with the scriptures and she knows how to weather the emotional storm that she is inside, so that she can continue to do what she has got to do.
 
+> <sup>[17](/bible/proverbs/31#v17)</sup> She girdeth her loins with strength, and strengtheneth her arms.
+>
+> <sup>[18](/bible/proverbs/31#v18)</sup> She perceiveth that her merchandise is good: her candle goeth not out by night.
+
 - She perceiveth that her merchandise is good: her candle goeth not out by night. That goes into the same thing we read in Ephesians 4, that the sun does not set on your wrath. You do not lose your wisdom because you are out of the spirit. That is not an excuse.
 
 - She layeth her hands to the spindle, and her hands hold the distaff. So she can do fringes and work and buy food and cook the food. I should not bring my shirts and they sit there for two years before they are fringed. When I have some shirts she should not be like, oh my God, what are all these shirts. They get fringed.
+
+> <sup>[19](/bible/proverbs/31#v19)</sup> She layeth her hands to the spindle, and her hands hold the distaff.
+>
+> <sup>[20](/bible/proverbs/31#v20)</sup> She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy.
+>
+> <sup>[21](/bible/proverbs/31#v21)</sup> She is not afraid of the snow for her household: for all her household are clothed with scarlet.
 
 - She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy. She is not afraid of the snow for her household: for all her household are clothed with scarlet. Meaning she made provision. She knows how to handle times — literally weathering the storm.
 
@@ -858,6 +850,14 @@ Reading from a dictionary entry on odious  *[[2:00:18](https://www.youtube.com/w
 - She maketh fine linen, and selleth it; and delivereth girdles unto the merchant. Strength and honour are her clothing. Where it says she girdeth her loins and strengtheneth her arms — here it says strength and honour are her clothing.
 
 - And she shall rejoice in time to come.
+
+> <sup>[22](/bible/proverbs/31#v22)</sup> She maketh herself coverings of tapestry; her clothing is silk and purple.
+>
+> <sup>[23](/bible/proverbs/31#v23)</sup> Her husband is known in the gates, when he sitteth among the elders of the land.
+>
+> <sup>[24](/bible/proverbs/31#v24)</sup> She maketh fine linen, and selleth it; and delivereth girdles unto the merchant.
+>
+> <sup>[25](/bible/proverbs/31#v25)</sup> Strength and honour are her clothing; and she shall rejoice in time to come.
 
 **[1 Samuel 25:32-33](/bible/1-samuel/25#v32)**  *[[2:09:45](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=7785s)]*
 
@@ -880,19 +880,18 @@ Reading from a dictionary entry on odious  *[[2:00:18](https://www.youtube.com/w
 **[Ephesians 5:23-26](/bible/ephesians/5#v23)**  *[[2:11:37](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=7897s)]*
 
 > <sup>[23](/bible/ephesians/5#v23)</sup> For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body.
->
-> <sup>[24](/bible/ephesians/5#v24)</sup> Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing.
->
-> <sup>[25](/bible/ephesians/5#v25)</sup> Husbands, love your wives, even as Christ also loved the church, and gave himself for it;
->
-> <sup>[26](/bible/ephesians/5#v26)</sup> That he might sanctify and cleanse it with the washing of water by the word,
 
 - For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body. Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing.
 
 - Husbands, love your wives, even as Christ also loved the church, and gave himself for it; that he might sanctify and cleanse it with the washing of water by the word. So the husband has accountability. He has to make sure that he dwells with her according to knowledge, that he gives honour to her as the weaker vessel.
 
-
 - So the wife should be asking herself: did I submit, did I reverence, did I govern my spirit, did I speak with wisdom? The husband should say: did I love with the sacrificial love, did I understand, did I honour, did I nourish, did I cherish, and did I lead the way I was supposed to? Neither the husband nor the wife can get that answer by pointing at the spouse. You cannot say, Lord, it is the wife you gave me. And the wife cannot blame the husband.
+
+> <sup>[24](/bible/ephesians/5#v24)</sup> Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing.
+>
+> <sup>[25](/bible/ephesians/5#v25)</sup> Husbands, love your wives, even as Christ also loved the church, and gave himself for it;
+>
+> <sup>[26](/bible/ephesians/5#v26)</sup> That he might sanctify and cleanse it with the washing of water by the word,
 
 <div class="reading">
 

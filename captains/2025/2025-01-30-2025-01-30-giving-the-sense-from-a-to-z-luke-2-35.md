@@ -34,10 +34,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "passover-feasts", "wisdom"]
 **[Luke 2:34-35](/bible/luke/2#v34)**  *[[6:46](https://www.youtube.com/watch?v=Utn1WmdWOMU&t=406s)]*
 
 > <sup>[34](/bible/luke/2#v34)</sup> And Simeon blessed them, and said unto Mary his mother, Behold, this child is set for the fall and rising again of many in Israel; and for a sign which shall be spoken against;
->
-> <sup>[35](/bible/luke/2#v35)</sup> (Yea, a sword shall pierce through thy own soul also,) that the thoughts of many hearts may be revealed.
 
 - Behold, this child is set for the fall and rising again of many in Israel: So now let's go to the Book of Luke chapter 2. So shout out to Zakai, did a phenomenal job yesterday. Zakai did a great job breaking that down yesterday, talking about the fall and the rise again of Israel, meaning the restoration of the 12 tribes of Israel, cuz it's prophesied we were split, destroyed, into slavery, and now we're rising in these latter days.
+
+> <sup>[35](/bible/luke/2#v35)</sup> (Yea, a sword shall pierce through thy own soul also,) that the thoughts of many hearts may be revealed.
 
 - Yea, a sword shall pierce through thy own soul also: So he's prophesying. Simeon is speaking to Mary his mother. It says, and the sword shall pierce through thy own soul also. What is that talking about? When Christ was put to death. But before we jump there, give me Luke chapter 2, verse 19. I want to show y'all something, cuz as Simeon prophesying, Mary is pondering these things in her mind.
 
@@ -73,12 +73,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "passover-feasts", "wisdom"]
 > <sup>[25](/bible/john/19#v25)</sup> Now there stood by the cross of Jesus his mother, and his mother’s sister, Mary the wife of Cleophas, and Mary Magdalene.
 >
 > <sup>[26](/bible/john/19#v26)</sup> When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he saith unto his mother, Woman, behold thy son!
->
-> <sup>[27](/bible/john/19#v27)</sup> Then saith he to the disciple, Behold thy mother! And from that hour that disciple took her unto his own home.
 
 - When Jesus therefore saw his mother, and the disciple standing by, whom he loved: That's John the evangelist.
 
 - Woman, behold thy son: So, woman, behold thy son. Now she sees the purpose of Christ when it said he's going to be a Saviour. Now she's getting it.
+
+> <sup>[27](/bible/john/19#v27)</sup> Then saith he to the disciple, Behold thy mother! And from that hour that disciple took her unto his own home.
 
 - Behold thy mother! And from that hour that disciple took her unto his own home: So he said, behold thy mother, meaning what? Take care of my mom. Look after her as if she's your mother.
 
@@ -86,22 +86,22 @@ tags: ["15 Minutes w/ The Captains", "christ", "passover-feasts", "wisdom"]
 **[Luke 18:31-34](/bible/luke/18#v31)**  *[[11:33](https://www.youtube.com/watch?v=Utn1WmdWOMU&t=693s)]*
 
 > <sup>[31](/bible/luke/18#v31)</sup> Then he took unto him the twelve, and said unto them, Behold, we go up to Jerusalem, and all things that are written by the prophets concerning the Son of man shall be accomplished.
->
-> <sup>[32](/bible/luke/18#v32)</sup> For he shall be delivered unto the Gentiles, and shall be mocked, and spitefully entreated, and spitted on:
->
-> <sup>[33](/bible/luke/18#v33)</sup> And they shall scourge him, and put him to death: and the third day he shall rise again.
->
-> <sup>[34](/bible/luke/18#v34)</sup> And they understood none of these things: and this saying was hid from them, neither knew they the things which were spoken.
 
 - Then he took unto him the twelve: I'm going to show y'all something in the scriptures, that the disciples didn't quite understand the point of Christ, what we're going to read here in Luke 18. So if the disciples didn't have the full understanding at this point that we're picking up, obviously Mary, the mother of Christ, didn't have the full understanding. Like, I mean, again, think about it just from a common sense standpoint, if you know the significance that your child is the Saviour and that he has to lay down his life for the nation, that's a hard thing to carry all them years.
 
 - All things that are written by the prophets concerning the Son of man shall be accomplished: So Christ is letting them know all things that's written in the prophets for the Son of man shall be accomplished.
 
+> <sup>[32](/bible/luke/18#v32)</sup> For he shall be delivered unto the Gentiles, and shall be mocked, and spitefully entreated, and spitted on:
+
 - For he shall be delivered unto the Gentiles: The Romans. By who? His own people.
 
 - And shall be mocked, and spitefully entreated, and spitted on: Damn. That's the thing. It's no way that the Most High could have showed all that to Mary. That thing right there would have been something grievous to really deal with as a mother.
 
+> <sup>[33](/bible/luke/18#v33)</sup> And they shall scourge him, and put him to death: and the third day he shall rise again.
+
 - And they shall scourge him, and put him to death: Damn.
+
+> <sup>[34](/bible/luke/18#v34)</sup> And they understood none of these things: and this saying was hid from them, neither knew they the things which were spoken.
 
 - And they understood none of these things: What? They understood none of these things. The disciples didn't even understand those things at that time, and he walked with them. He was teaching them and edifying them. They didn't understand, because at that point in time, the way the scriptures had to be fulfilled, they couldn't have that understanding, and we're going to show you when they got the understanding.
 
@@ -111,12 +111,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "passover-feasts", "wisdom"]
 **[Luke 24:44-45](/bible/luke/24#v44)**  *[[13:48](https://www.youtube.com/watch?v=Utn1WmdWOMU&t=828s)]*
 
 > <sup>[44](/bible/luke/24#v44)</sup> And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me.
->
-> <sup>[45](/bible/luke/24#v45)</sup> Then opened he their understanding, that they might understand the scriptures,
 
 - These are the words which I spake unto you, while I was yet with you: You see that? While I was yet with you, meaning what? That includes what we read in chapter 18. He was with them.
 
 - That all things must be fulfilled, which were written in the law of Moses, and in the prophets: Remember what we read in Luke 18. Read Luke 18 and 31 again so we can see the correlation here.
+
+> <sup>[45](/bible/luke/24#v45)</sup> Then opened he their understanding, that they might understand the scriptures,
 
 - Then opened he their understanding, that they might understand the scriptures: So at this point Christ has been resurrected, he's walking with them. So now the understanding of the scriptures and what Christ was talking to them has been unlocked. Let's go to Revelation chapter 5, start at verse one, because this is a sequel of events that had to be fulfilled. They couldn't have had that understanding at that time because Christ had to die.
 
@@ -130,7 +130,9 @@ tags: ["15 Minutes w/ The Captains", "christ", "passover-feasts", "wisdom"]
 **[Revelation 5:1-6](/bible/revelation/5#v1)**  *[[15:27](https://www.youtube.com/watch?v=Utn1WmdWOMU&t=927s)]*
 
 > <sup>[1](/bible/revelation/5#v1)</sup> And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals.
->
+
+- A book written within and on the backside, sealed with seven seals: So this is the book. This is talking about the Bible. It was sealed.
+
 > <sup>[2](/bible/revelation/5#v2)</sup> And I saw a strong angel proclaiming with a loud voice, Who is worthy to open the book, and to loose the seals thereof?
 >
 > <sup>[3](/bible/revelation/5#v3)</sup> And no man in heaven, nor in earth, neither under the earth, was able to open the book, neither to look thereon.
@@ -138,10 +140,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "passover-feasts", "wisdom"]
 > <sup>[4](/bible/revelation/5#v4)</sup> And I wept much, because no man was found worthy to open and to read the book, neither to look thereon.
 >
 > <sup>[5](/bible/revelation/5#v5)</sup> And one of the elders saith unto me, Weep not: behold, the Lion of the tribe of Juda, the Root of David, hath prevailed to open the book, and to loose the seven seals thereof.
->
-> <sup>[6](/bible/revelation/5#v6)</sup> And I beheld, and, lo, in the midst of the throne and of the four beasts, and in the midst of the elders, stood a Lamb as it had been slain, having seven horns and seven eyes, which are the seven Spirits of God sent forth into all the earth.
-
-- A book written within and on the backside, sealed with seven seals: So this is the book. This is talking about the Bible. It was sealed.
 
 - And one of the elders saith unto me, Weep not: That one of the elders said unto me, weep not. Watch this.
 
@@ -150,6 +148,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "passover-feasts", "wisdom"]
 - Hath prevailed to open the book, and to loose the seven seals thereof: You see that? But the Lion of the tribe of Judah, Christ, has prevailed and is unworthy to open up the book, to what? Unlock the understanding of the scriptures. That's why he was able to give the disciples at that point in time in Luke chapter 24 the understanding, cuz he had to die. Give me Daniel chapter 7:13, cuz we reading the same thing here in Daniel 7:13. Watch this, cuz remember we reading about the Most High, in his hand sat the book.
 
 - Behold the Lion of the tribe of Juda: That's Christ.
+
+> <sup>[6](/bible/revelation/5#v6)</sup> And I beheld, and, lo, in the midst of the throne and of the four beasts, and in the midst of the elders, stood a Lamb as it had been slain, having seven horns and seven eyes, which are the seven Spirits of God sent forth into all the earth.
 
 - Stood a Lamb as it had been slain: So that's talking about Christ. Give me John 1:29 so they understand what this is talking about. That Lamb is talking about Christ. This is about Christ. When he died, what happened? He unlocked the understanding of the scriptures.
 
@@ -196,28 +196,28 @@ tags: ["15 Minutes w/ The Captains", "christ", "passover-feasts", "wisdom"]
 **[John 11:47-52](/bible/john/11#v47)**  *[[21:14](https://www.youtube.com/watch?v=Utn1WmdWOMU&t=1274s)]*
 
 > <sup>[47](/bible/john/11#v47)</sup> Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles.
->
-> <sup>[48](/bible/john/11#v48)</sup> If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation.
->
-> <sup>[49](/bible/john/11#v49)</sup> And one of them, named Caiaphas, being the high priest that same year, said unto them, Ye know nothing at all,
->
-> <sup>[50](/bible/john/11#v50)</sup> Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not.
->
-> <sup>[51](/bible/john/11#v51)</sup> And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;
->
-> <sup>[52](/bible/john/11#v52)</sup> And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.
 
 - Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles: So look what's about to be revealed about our people at the time, particularly the leaders.
+
+> <sup>[48](/bible/john/11#v48)</sup> If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation.
 
 - If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation: And the who? The Romans. They said, look man, if we don't stop this man, everybody going to believe on him, and the white man going to do what? The Romans shall come and take away both our place and nation. And said, oh man, they going to ask this Dei we got going on, we going to be out of a damn job. But that's what's going on. They more worried about losing their positions and their seats as opposed to having Christ work miracles and heal the people. You see what's being made manifest here? Showing you that our people was wicked as hell.
 
 - If we let him thus alone: So if we leave him alone, let his ministry keep growing, what's going to happen? All men will believe on him. All what? All men will believe on him. Man, the churches is emptying out. That's what they saying about the prophets of God in these days. Hold on, man, we got to come up with something. We got to unleash Vocab Malone, Urban Apologetics, Suburban Apologetics, you understand, anti-Semitism laws, all the foolishness. They going out there to do what? To try to stop this truth. But you can't stop it.
 
+> <sup>[49](/bible/john/11#v49)</sup> And one of them, named Caiaphas, being the high priest that same year, said unto them, Ye know nothing at all,
+
 - And one of them, named Caiaphas, being the high priest that same year, said unto them, Ye know nothing at all: So this man, even though they was wicked as hell, it's going to show you that this man knew the scriptures and knew that Christ was the Messiah.
+
+> <sup>[50](/bible/john/11#v50)</sup> Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not.
 
 - That one man should die for the people, and that the whole nation perish not: It says that the whole nation perish not.
 
+> <sup>[51](/bible/john/11#v51)</sup> And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;
+
 - He prophesied that Jesus should die for that nation: So not just the southern kingdom. Watch this.
+
+> <sup>[52](/bible/john/11#v52)</sup> And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.
 
 - And not for that nation only: But not to the southern kingdom only.
 
@@ -281,14 +281,14 @@ Reading from Definition of redemption (on screen)  *[[28:19](https://www.youtube
 **[Luke 1:68-71](/bible/luke/1#v68)**  *[[30:06](https://www.youtube.com/watch?v=Utn1WmdWOMU&t=1806s)]*
 
 > <sup>[68](/bible/luke/1#v68)</sup> Blessed be the Lord God of Israel; for he hath visited and redeemed his people,
->
+
+- Blessed be the Lord God of Israel; for he hath visited and redeemed his people: You said he has visited and redeemed his people.
+
 > <sup>[69](/bible/luke/1#v69)</sup> And hath raised up an horn of salvation for us in the house of his servant David;
 >
 > <sup>[70](/bible/luke/1#v70)</sup> As he spake by the mouth of his holy prophets, which have been since the world began:
 >
 > <sup>[71](/bible/luke/1#v71)</sup> That we should be saved from our enemies, and from the hand of all that hate us;
-
-- Blessed be the Lord God of Israel; for he hath visited and redeemed his people: You said he has visited and redeemed his people.
 
 - That we should be saved from our enemies: It says that we should be saved from our enemies. Why are we saved from our enemies? Because we fell in the hand of our enemies because of sin. That's the whole point of Christ.
 
@@ -358,38 +358,38 @@ Reading from Definition of redemption (on screen)  *[[28:19](https://www.youtube
 **[Luke 2:43-50](/bible/luke/2#v43)**  *[[38:15](https://www.youtube.com/watch?v=Utn1WmdWOMU&t=2295s)]*
 
 > <sup>[43](/bible/luke/2#v43)</sup> And when they had fulfilled the days, as they returned, the child Jesus tarried behind in Jerusalem; and Joseph and his mother knew not of it.
->
-> <sup>[44](/bible/luke/2#v44)</sup> But they, supposing him to have been in the company, went a day’s journey; and they sought him among their kinsfolk and acquaintance.
->
-> <sup>[45](/bible/luke/2#v45)</sup> And when they found him not, they turned back again to Jerusalem, seeking him.
->
-> <sup>[46](/bible/luke/2#v46)</sup> And it came to pass, that after three days they found him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions.
->
-> <sup>[47](/bible/luke/2#v47)</sup> And all that heard him were astonished at his understanding and answers.
->
-> <sup>[48](/bible/luke/2#v48)</sup> And when they saw him, they were amazed: and his mother said unto him, Son, why hast thou thus dealt with us? behold, thy father and I have sought thee sorrowing.
->
-> <sup>[49](/bible/luke/2#v49)</sup> And he said unto them, How is it that ye sought me? wist ye not that I must be about my Father’s business?
->
-> <sup>[50](/bible/luke/2#v50)</sup> And they understood not the saying which he spake unto them.
 
 - The child Jesus tarried behind in Jerusalem; and Joseph and his mother knew not of it: So Christ stayed behind.
+
+> <sup>[44](/bible/luke/2#v44)</sup> But they, supposing him to have been in the company, went a day’s journey; and they sought him among their kinsfolk and acquaintance.
 
 - But they, supposing him to have been in the company: Because they went up, it was a big group of them that went up to the Passover.
 
 - And they sought him among their kinsfolk and acquaintance: So they looking like, man, where did Jesus go? We looking for him.
 
+> <sup>[45](/bible/luke/2#v45)</sup> And when they found him not, they turned back again to Jerusalem, seeking him.
+
 - They turned back again to Jerusalem: So they went back to Jerusalem. They backtrack.
+
+> <sup>[46](/bible/luke/2#v46)</sup> And it came to pass, that after three days they found him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions.
 
 - And it came to pass, that after three days they found him in the temple: So when they got back to Jerusalem, they was three days looking for him.
 
 - Sitting in the midst of the doctors, both hearing them, and asking them questions: You see that? So Christ in the temple, he amongst the Sanhedrin, asking questions about the scriptures, giving answers out the scriptures, cuz remember it said he was filled with wisdom. That's a whole another level. I know they looking like, what in the world? Where this boy come from? Who is his father?
 
+> <sup>[47](/bible/luke/2#v47)</sup> And all that heard him were astonished at his understanding and answers.
+
 - And all that heard him were astonished at his understanding: You see that? All that heard him was astonished. Remember, they was astonished when he was 12, and when he hit the temple we going to read again how he astonished when he got older.
+
+> <sup>[48](/bible/luke/2#v48)</sup> And when they saw him, they were amazed: and his mother said unto him, Son, why hast thou thus dealt with us? behold, thy father and I have sought thee sorrowing.
 
 - And when they saw him, they were amazed: When they saw him they was amazed.
 
+> <sup>[49](/bible/luke/2#v49)</sup> And he said unto them, How is it that ye sought me? wist ye not that I must be about my Father’s business?
+
 - Wist ye not that I must be about my Father's business?: About my what? About my Father's business.
+
+> <sup>[50](/bible/luke/2#v50)</sup> And they understood not the saying which he spake unto them.
 
 - And they understood not the saying which he spake unto them: They didn't understand it at the time. Well, they was like, he talking about Joseph? No, he was talking about the Most High.
 
@@ -397,14 +397,14 @@ Reading from Definition of redemption (on screen)  *[[28:19](https://www.youtube
 **[Luke 2:51-52](/bible/luke/2#v51)**  *[[40:20](https://www.youtube.com/watch?v=Utn1WmdWOMU&t=2420s)]*
 
 > <sup>[51](/bible/luke/2#v51)</sup> And he went down with them, and came to Nazareth, and was subject unto them: but his mother kept all these sayings in her heart.
->
-> <sup>[52](/bible/luke/2#v52)</sup> And Jesus increased in wisdom and stature, and in favour with God and man.
 
 - And was subject unto them: Meaning what? Subject unto his parents. Give me Exodus 20 and 12, so we understand what does that mean, he was subject unto them. Everything that we read is out the scriptures.
 
 - And was subject unto them: Meaning his parents.
 
 - But his mother kept all these sayings in her heart: You see that? His mother kept all these sayings in her heart. She was doing that from the time she encountered the angel, to the wise men, and now she hearing like, I must be about my Father's business. What is this boy? Like, she just locked that thing away in her mind. That's what we read, that said that the sword shall pierce her through, meaning, and now she understood, man, that's what my son was talking about the entire time. Now I understand the purpose of my son.
+
+> <sup>[52](/bible/luke/2#v52)</sup> And Jesus increased in wisdom and stature, and in favour with God and man.
 
 - And Jesus increased in wisdom and stature, and in favour with God and man: So Jesus increased in wisdom and stature, meaning age, and in favour with God and man. You see that? And with favour with God and men.
 
@@ -417,13 +417,13 @@ Reading from Definition of redemption (on screen)  *[[28:19](https://www.youtube
 
 **[Luke 3:1-2](/bible/luke/3#v1)**  *[[41:51](https://www.youtube.com/watch?v=Utn1WmdWOMU&t=2511s)]*
 
-> <sup>[1](/bible/luke/3#v1)</sup> Now in the fifteenth year of the reign of Tiberius Cesar, Pontius Pilate being governor of Judea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of Iturea and of the region of Trachonitis, and Lysanias the tetrarch of Abilene,
->
-> <sup>[2](/bible/luke/3#v2)</sup> Annas and Caiaphas being the high priests, the word of God came unto John the son of Zacharias in the wilderness.
-
 - Now in the fifteenth year of the reign of Tiberius Caesar: So you look what's going on. We are underneath Roman control.
 
+> <sup>[1](/bible/luke/3#v1)</sup> Now in the fifteenth year of the reign of Tiberius Cesar, Pontius Pilate being governor of Judea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of Iturea and of the region of Trachonitis, and Lysanias the tetrarch of Abilene,
+
 - And Herod being tetrarch of Galilee: So they set up their Herodian dynasty. Those are the ones that was over us, because you had to know the laws of God. This is a Jewish convert that we're reading here. Go back to Luke 1 and 5.
+
+> <sup>[2](/bible/luke/3#v2)</sup> Annas and Caiaphas being the high priests, the word of God came unto John the son of Zacharias in the wilderness.
 
 - Annas and Caiaphas being the high priests, the word of God came unto John the son of Zacharias in the wilderness: So remember we read about Caiaphas and what he knew about Christ in John 11. He said, hold on, don't you know anything? Remember, they was plotting to kill Christ, because he was with those men that wanted to remove Christ out of the way. Remember, to reveal the hearts of many. We see in the scriptures that the high priest set up at that time, we see that their minds were not after the law of the Most High. They were serving Rome.
 
@@ -449,18 +449,18 @@ Reading from Definition of redemption (on screen)  *[[28:19](https://www.youtube
 **[Luke 3:3-6](/bible/luke/3#v3)**  *[[46:31](https://www.youtube.com/watch?v=Utn1WmdWOMU&t=2791s)]*
 
 > <sup>[3](/bible/luke/3#v3)</sup> And he came into all the country about Jordan, preaching the baptism of repentance for the remission of sins;
->
-> <sup>[4](/bible/luke/3#v4)</sup> As it is written in the book of the words of Esaias the prophet, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.
->
-> <sup>[5](/bible/luke/3#v5)</sup> Every valley shall be filled, and every mountain and hill shall be brought low; and the crooked shall be made straight, and the rough ways shall be made smooth;
->
-> <sup>[6](/bible/luke/3#v6)</sup> And all flesh shall see the salvation of God.
 
 - Preaching the baptism of repentance for the remission of sins: You see what John the Baptist was doing? He was preaching the remission of sins.
 
+> <sup>[4](/bible/luke/3#v4)</sup> As it is written in the book of the words of Esaias the prophet, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.
+
 - As it is written in the book of the words of Esaias the prophet, saying, The voice of one crying in the wilderness: So get that in Isaiah 40 and 3.
 
+> <sup>[5](/bible/luke/3#v5)</sup> Every valley shall be filled, and every mountain and hill shall be brought low; and the crooked shall be made straight, and the rough ways shall be made smooth;
+
 - Every valley shall be filled, and every mountain and hill shall be brought low; and the crooked shall be made straight, and the rough ways shall be made smooth: Meaning what? All this is going to take place, the understanding of Christ. The crooked being made straight, we're going to get ourselves together according to the scriptures before. Read verse six.
+
+> <sup>[6](/bible/luke/3#v6)</sup> And all flesh shall see the salvation of God.
 
 - And all flesh shall see the salvation of God: You see what's going on there? This is letting you know that this is a transition from the law of Christ. What's taking place in between: us turning back to Christ, getting ourselves together, then comes the destruction, then comes salvation.
 
@@ -482,12 +482,12 @@ Reading from Definition of redemption (on screen)  *[[28:19](https://www.youtube
 > <sup>[7](/bible/luke/3#v7)</sup> Then said he to the multitude that came forth to be baptized of him, O generation of vipers, who hath warned you to flee from the wrath to come?
 >
 > <sup>[8](/bible/luke/3#v8)</sup> Bring forth therefore fruits worthy of repentance, and begin not to say within yourselves, We have Abraham to our father: for I say unto you, That God is able of these stones to raise up children unto Abraham.
->
-> <sup>[9](/bible/luke/3#v9)</sup> And now also the axe is laid unto the root of the trees: every tree therefore which bringeth not forth good fruit is hewn down, and cast into the fire.
 
 - And begin not to say within yourselves, We have Abraham to our father: Cuz that's what the scribes used to say. Hold on, we got Abraham to our father, brother. We walking in the laws of Moses.
 
 - For I say unto you, That God is able of these stones to raise up children unto Abraham: So John said, we don't care nothing about that. The Lord could raise up stones as the children of Abraham.
+
+> <sup>[9](/bible/luke/3#v9)</sup> And now also the axe is laid unto the root of the trees: every tree therefore which bringeth not forth good fruit is hewn down, and cast into the fire.
 
 - Every tree therefore which bringeth not forth good fruit is hewn down, and cast into the fire: So if you not rolling in the spirit of repentance, you going to be cut down and cast into the fire. Understand that. Every good tree should bring forth good fruit, meaning what? When you repent, you got to bring forth good fruit. Go out there, what? Teach your people. Build the nation back up. If you not doing that, you going to be cut down and cast into the fire. Understand that, because what? The wages of sin is death. That's really what he's saying there.
 
@@ -497,18 +497,18 @@ Reading from Definition of redemption (on screen)  *[[28:19](https://www.youtube
 > <sup>[10](/bible/luke/3#v10)</sup> And the people asked him, saying, What shall we do then?
 >
 > <sup>[11](/bible/luke/3#v11)</sup> He answereth and saith unto them, He that hath two coats, let him impart to him that hath none; and he that hath meat, let him do likewise.
->
-> <sup>[12](/bible/luke/3#v12)</sup> Then came also publicans to be baptized, and said unto him, Master, what shall we do?
->
-> <sup>[13](/bible/luke/3#v13)</sup> And he said unto them, Exact no more than that which is appointed you.
->
-> <sup>[14](/bible/luke/3#v14)</sup> And the soldiers likewise demanded of him, saying, And what shall we do? And he said unto them, Do violence to no man, neither accuse any falsely; and be content with your wages.
 
 - He that hath two coats, let him impart to him that hath none: That's what Christ told the rich young ruler. Sell what you have, meaning what? Show that charity for your people. Be nation minded. A lot of us in these last days, we very selfish. We don't care about the suffering of our people. We say, long as I got mine, I'm saved, my salvation, all these things that we learn here, I'm good, I got my house and all that. But what about your brothers and sisters? So that's what's going on. John is saying, hold on, brother, we teaching repentance and nation building, because we've been destroyed as a people.
 
+> <sup>[12](/bible/luke/3#v12)</sup> Then came also publicans to be baptized, and said unto him, Master, what shall we do?
+
 - Then came also publicans to be baptized: The publicans, they your tax collectors. They was hated, but they came to be baptized.
 
+> <sup>[13](/bible/luke/3#v13)</sup> And he said unto them, Exact no more than that which is appointed you.
+
 - Exact no more than that which is appointed you: Look, make sure you deal honestly and uprightly. Don't deal falsely with your brother. Don't have the covetous spirit. You know, the brother might owe $5, you charge him 15. That's not the spirit.
+
+> <sup>[14](/bible/luke/3#v14)</sup> And the soldiers likewise demanded of him, saying, And what shall we do? And he said unto them, Do violence to no man, neither accuse any falsely; and be content with your wages.
 
 - And the soldiers likewise demanded of him, saying, And what shall we do?: So this show you that we was also serving in the Roman army. The soldiers came up to him. These are men in military and law enforcement. What do we got to do, John?
 
@@ -522,18 +522,18 @@ Reading from Definition of redemption (on screen)  *[[28:19](https://www.youtube
 **[Luke 3:15-17](/bible/luke/3#v15)**  *[[53:41](https://www.youtube.com/watch?v=Utn1WmdWOMU&t=3221s)]*
 
 > <sup>[15](/bible/luke/3#v15)</sup> And as the people were in expectation, and all men mused in their hearts of John, whether he were the Christ, or not;
->
-> <sup>[16](/bible/luke/3#v16)</sup> John answered, saying unto them all, I indeed baptize you with water; but one mightier than I cometh, the latchet of whose shoes I am not worthy to unloose: he shall baptize you with the Holy Ghost and with fire:
->
-> <sup>[17](/bible/luke/3#v17)</sup> Whose fan is in his hand, and he will throughly purge his floor, and will gather the wheat into his garner; but the chaff he will burn with fire unquenchable.
 
 - And as the people were in expectation, and all men mused in their hearts of John: So everybody in their mind thinking like, damn, this brother is teaching with authority. This brother is powerful.
 
 - Whether he were the Christ, or not: That's how you know he was teaching with power. They said, man, is this man the Christ himself? Is this the Saviour that we read about in the scriptures?
 
+> <sup>[16](/bible/luke/3#v16)</sup> John answered, saying unto them all, I indeed baptize you with water; but one mightier than I cometh, the latchet of whose shoes I am not worthy to unloose: he shall baptize you with the Holy Ghost and with fire:
+
 - He shall baptize you with the Holy Ghost: Meaning the law and understanding.
 
 - And with fire: And if you don't get down with the program, that hellfire, that nuke fire.
+
+> <sup>[17](/bible/luke/3#v17)</sup> Whose fan is in his hand, and he will throughly purge his floor, and will gather the wheat into his garner; but the chaff he will burn with fire unquenchable.
 
 - Whose fan is in his hand, and he will throughly purge his floor: And this is going to prove that it's talking about that nuke fire. He's going to thoroughly purge his floor. Go back to Amos: all the sinners of my people shall die by the sword. Let's get that real quick.
 
@@ -541,28 +541,28 @@ Reading from Definition of redemption (on screen)  *[[28:19](https://www.youtube
 **[Amos 9:8-12](/bible/amos/9#v8)**  *[[54:24](https://www.youtube.com/watch?v=Utn1WmdWOMU&t=3264s)]*
 
 > <sup>[8](/bible/amos/9#v8)</sup> Behold, the eyes of the Lord God are upon the sinful kingdom, and I will destroy it from off the face of the earth; saving that I will not utterly destroy the house of Jacob, saith the Lord.
->
-> <sup>[9](/bible/amos/9#v9)</sup> For, lo, I will command, and I will sift the house of Israel among all nations, like as corn is sifted in a sieve, yet shall not the least grain fall upon the earth.
->
-> <sup>[10](/bible/amos/9#v10)</sup> All the sinners of my people shall die by the sword, which say, The evil shall not overtake nor prevent us.
->
-> <sup>[11](/bible/amos/9#v11)</sup> In that day will I raise up the tabernacle of David that is fallen, and close up the breaches thereof; and I will raise up his ruins, and I will build it as in the days of old:
->
-> <sup>[12](/bible/amos/9#v12)</sup> That they may possess the remnant of Edom, and of all the heathen, which are called by my name, saith the Lord that doeth this.
 
 - Behold, the eyes of the Lord GOD are upon the sinful kingdom: That's talking about Babylon the Great. The Lord looking down, his eyes is on the sinful kingdom. He said, look at this wickedness down here: transgenders, men getting together, you got more than two genders, all that. This is the sinful kingdom that his eyes is on.
 
 - Saving that I will not utterly destroy the house of Jacob, saith the LORD: Go back to thoroughly purged the floor. Watch this.
 
+> <sup>[9](/bible/amos/9#v9)</sup> For, lo, I will command, and I will sift the house of Israel among all nations, like as corn is sifted in a sieve, yet shall not the least grain fall upon the earth.
+>
+> <sup>[10](/bible/amos/9#v10)</sup> All the sinners of my people shall die by the sword, which say, The evil shall not overtake nor prevent us.
+
 - All the sinners of my people shall die by the sword: All the sinners. It says all the sinners of my people shall die by the sword. That's letting you know that's talking about that thoroughly purged the floor.
 
 - Which say, The evil shall not overtake nor prevent us: So they gon say, man, America's back, America's great again. That's what's going to be in the minds of our people.
+
+> <sup>[11](/bible/amos/9#v11)</sup> In that day will I raise up the tabernacle of David that is fallen, and close up the breaches thereof; and I will raise up his ruins, and I will build it as in the days of old:
 
 - In that day will I raise up the tabernacle of David: So that's what you seeing going on right now. The tabernacle of David, meaning what? The 12 tribes of Israel being raised back up as in the days of old.
 
 - And close up the breaches thereof: That means what? Bringing northern and southern kingdom back together, the so-called Blacks, Hispanics and Native Americans. Now we have the understanding that we are one nation. We the same people, no longer divided by the foolish byword put upon us.
 
 - And I will build it as in the days of old: You see? I'm going to build it as in the days of old. Watch what we was doing in the days of old.
+
+> <sup>[12](/bible/amos/9#v12)</sup> That they may possess the remnant of Edom, and of all the heathen, which are called by my name, saith the Lord that doeth this.
 
 - That they may possess the remnant of Edom: Hold that. They may do what? Possess the remnant. So back in the days of old, when we had the so-called white man in subjection, the Lord said, I'm bringing y'all back to that day, that y'all going to possess the remnant of Edom, meaning what? The rest of the white folks that's left over after the return of Christ.
 

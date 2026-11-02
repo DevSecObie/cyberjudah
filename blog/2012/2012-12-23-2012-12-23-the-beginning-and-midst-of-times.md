@@ -123,6 +123,14 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "europe-dark-ages"]
 
 **[Job 40:15-24](/bible/job/40#v15)**  *[[11:36](https://www.youtube.com/watch?v=tGn4uDRuiYM&t=696s)]*
 
+- This Behemoth is the Enoch that you read in the book of Esdras. He eats grass like an ox.
+
+- Some Bibles in the center will say possibly an elephant or a hippopotamus. But he moveth his tail like a cedar: a cedar tree is one of the largest trees, you can't put your arm around a cedar tree. Behemoth has a tail that's huge; when it moves, it can knock everything down. A hippopotamus tail, an elephant tail, that's not what the Bible's talking about.
+
+- The sinews, meaning the muscles, of his stones, meaning his balls, are wrapped together. His bones are as strong pieces of brass: this creature is a powerful beast.
+
+- He is the chief of the ways of God; only God that made him can approach Behemoth. This ain't no regular beast you're going to tame and put in a circus. You ain't riding on his back; he ain't eating out of your hand. White people always trying to tame something.
+
 > <sup>[15](/bible/job/40#v15)</sup> Behold now behemoth, which I made with thee; he eateth grass as an ox.
 >
 > <sup>[16](/bible/job/40#v16)</sup> Lo now, his strength is in his loins, and his force is in the navel of his belly.
@@ -140,16 +148,6 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "europe-dark-ages"]
 > <sup>[22](/bible/job/40#v22)</sup> The shady trees cover him with their shadow; the willows of the brook compass him about.
 >
 > <sup>[23](/bible/job/40#v23)</sup> Behold, he drinketh up a river, and hasteth not: he trusteth that he can draw up Jordan into his mouth.
->
-> <sup>[24](/bible/job/40#v24)</sup> He taketh it with his eyes: his nose pierceth through snares.
-
-- This Behemoth is the Enoch that you read in the book of Esdras. He eats grass like an ox.
-
-- Some Bibles in the center will say possibly an elephant or a hippopotamus. But he moveth his tail like a cedar: a cedar tree is one of the largest trees, you can't put your arm around a cedar tree. Behemoth has a tail that's huge; when it moves, it can knock everything down. A hippopotamus tail, an elephant tail, that's not what the Bible's talking about.
-
-- The sinews, meaning the muscles, of his stones, meaning his balls, are wrapped together. His bones are as strong pieces of brass: this creature is a powerful beast.
-
-- He is the chief of the ways of God; only God that made him can approach Behemoth. This ain't no regular beast you're going to tame and put in a circus. You ain't riding on his back; he ain't eating out of your hand. White people always trying to tame something.
 
 - He drinketh up a river and hasteth not: he ain't in a rush when he drinks. He trusteth that he can draw up the whole Jordan River into his mouth by himself. So this ain't an elephant; this ain't a hippopotamus.
 
@@ -160,6 +158,8 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "europe-dark-ages"]
     > <sup>[50](/bible/2-esdras/6#v50)</sup> And didst separate the one from the other: for the seventh part, namely, where the water was gathered together, might not hold them both.
 
     The waters couldn't hold these two creatures together. Those two creatures are powerful; they can't dwell together. One has to stay in water, the other has to dwell on land.
+
+> <sup>[24](/bible/job/40#v24)</sup> He taketh it with his eyes: his nose pierceth through snares.
 
 
 **[Malachi 1:1-3](/bible/malachi/1#v1)**  *[[17:40](https://www.youtube.com/watch?v=tGn4uDRuiYM&t=1060s)]*
@@ -245,17 +245,15 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "europe-dark-ages"]
 
 **[Obadiah 1:1-4](/bible/obadiah/1#v1)**  *[[26:59](https://www.youtube.com/watch?v=tGn4uDRuiYM&t=1619s)]*
 
+- I'm giving you precept upon precept, line upon line, here a little and there a little: Obadiah prophesied about the descendants of Esau, the group of people chased up into the caves of the rocks.
+
+- Edom is made small amongst the nations. The white race is greatly despised; many nations call him the great Satan. Esau has a lot of pride.
+
 > <sup>[1](/bible/obadiah/1#v1)</sup> The vision of Obadiah. Thus saith the Lord God concerning Edom; We have heard a rumour from the Lord, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.
 >
 > <sup>[2](/bible/obadiah/1#v2)</sup> Behold, I have made thee small among the heathen: thou art greatly despised.
 >
 > <sup>[3](/bible/obadiah/1#v3)</sup> The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall bring me down to the ground?
->
-> <sup>[4](/bible/obadiah/1#v4)</sup> Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the Lord.
-
-- I'm giving you precept upon precept, line upon line, here a little and there a little: Obadiah prophesied about the descendants of Esau, the group of people chased up into the caves of the rocks.
-
-- Edom is made small amongst the nations. The white race is greatly despised; many nations call him the great Satan. Esau has a lot of pride.
 
 - Whose habitation is high: that's why they like skyscrapers. Who shall bring me down to the ground? Because now Esau has missile capabilities, nuclear armaments, a Star Wars system.
 
@@ -270,6 +268,8 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "europe-dark-ages"]
     > <sup>[5](/bible/job/30#v5)</sup> They were driven forth from among men, (they cried after them as after a thief;)
 
     In case you didn't know who Job 30 is talking about, I gave you the proper precept: Obadiah tells you they would dwell in the cliffs of the rock, and Job says we chased them like a thief to the caves and the rocks. It wasn't during the time of Genesis, when they were rich; this is prophetic, and goes back to Malachi, when Edom says, We are impoverished.
+
+> <sup>[4](/bible/obadiah/1#v4)</sup> Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the Lord.
 
 
 <div class="reading">
@@ -325,6 +325,8 @@ Reading from *The Thirteenth Tribe* by Arthur Koestler, pages 16, 17 and 39  *[[
 
 **[Job 30:5-10](/bible/job/30#v5)**  *[[36:45](https://www.youtube.com/watch?v=tGn4uDRuiYM&t=2205s)]*
 
+- Under the nettles they were gathered together, looking for food, cracking the lice from their drawers.
+
 > <sup>[5](/bible/job/30#v5)</sup> They were driven forth from among men, (they cried after them as after a thief;)
 >
 > <sup>[6](/bible/job/30#v6)</sup> To dwell in the clifts of the valleys, in caves of the earth, and in the rocks.
@@ -332,12 +334,6 @@ Reading from *The Thirteenth Tribe* by Arthur Koestler, pages 16, 17 and 39  *[[
 > <sup>[7](/bible/job/30#v7)</sup> Among the bushes they brayed; under the nettles they were gathered together.
 >
 > <sup>[8](/bible/job/30#v8)</sup> They were children of fools, yea, children of base men: they were viler than the earth.
->
-> <sup>[9](/bible/job/30#v9)</sup> And now am I their song, yea, I am their byword.
->
-> <sup>[10](/bible/job/30#v10)</sup> They abhor me, they flee far from me, and spare not to spit in my face.
-
-- Under the nettles they were gathered together, looking for food, cracking the lice from their drawers.
 
 - Children of base men: you can't get no lower; that's the bottom of society. They were viler than the earth: that's your Neanderthal, that's your Cro-Magnon man. You wasn't Cro-Magnon man, you wasn't Neanderthal man; you're the Israelites. The Bible is giving you the white man's history.
 
@@ -352,6 +348,10 @@ Reading from *The Thirteenth Tribe* by Arthur Koestler, pages 16, 17 and 39  *[[
     > <sup>[37](/bible/deuteronomy/28#v37)</sup> And thou shalt become an astonishment, a proverb, and a byword, among all nations whither the Lord shall lead thee.
 
     This is when the Israelites would go into slavery, especially under the white man: an astonishment, a proverb and a byword among all nations. You see the correlation, you see the precepts.
+
+> <sup>[9](/bible/job/30#v9)</sup> And now am I their song, yea, I am their byword.
+>
+> <sup>[10](/bible/job/30#v10)</sup> They abhor me, they flee far from me, and spare not to spit in my face.
 
 
 **[Malachi 1:4](/bible/malachi/1#v4)**  *[[39:42](https://www.youtube.com/watch?v=tGn4uDRuiYM&t=2382s)]*

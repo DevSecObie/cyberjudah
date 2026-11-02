@@ -25,10 +25,10 @@ tags: ["IUIC in the ClassRoom", "deceit", "media", "mental-health", "satan"]
 **[Ephesians 6:11-12](/bible/ephesians/6#v11)**  *[[2:52](https://www.youtube.com/watch?v=fS9jmG1zhCI&t=172s)]*
 
 > <sup>[11](/bible/ephesians/6#v11)</sup> Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.
->
-> <sup>[12](/bible/ephesians/6#v12)</sup> For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
 
 - Put on the whole armour of God, that ye may be able to stand against the wiles of the devil: The wiles of the devil are his tricks.
+
+> <sup>[12](/bible/ephesians/6#v12)</sup> For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
 
 - For we wrestle not against flesh and blood: We don't fight flesh and blood. The way we fight is spiritual, which is why we put on the armor of God, the spirit of God. In the spirit God raises up that exceeding great army, with sword, shield and buckler, to fight the spiritual wickedness in high places.
 
@@ -49,12 +49,12 @@ tags: ["IUIC in the ClassRoom", "deceit", "media", "mental-health", "satan"]
 **[Ecclesiastes 1:9-10](/bible/ecclesiastes/1#v9)**  *[[13:00](https://www.youtube.com/watch?v=fS9jmG1zhCI&t=780s)]*
 
 > <sup>[9](/bible/ecclesiastes/1#v9)</sup> The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.
->
-> <sup>[10](/bible/ecclesiastes/1#v10)</sup> Is there any thing whereof it may be said, See, this is new? it hath been already of old time, which was before us.
 
 - The thing that hath been, it is that which shall be: That thing is man, and whatever he did before he will do again. The Gunpowder Plot and the chaplains then, the Office of Religious Affairs now.
 
 - And there is no new thing under the sun: Nothing is new; it has been already, of old time.
+
+> <sup>[10](/bible/ecclesiastes/1#v10)</sup> Is there any thing whereof it may be said, See, this is new? it hath been already of old time, which was before us.
 
 **[Deuteronomy 32:17](/bible/deuteronomy/32#v17)**  *[[13:46](https://www.youtube.com/watch?v=fS9jmG1zhCI&t=826s)]*
 
@@ -65,24 +65,24 @@ tags: ["IUIC in the ClassRoom", "deceit", "media", "mental-health", "satan"]
 **[Habakkuk 1:6,9-11](/bible/habakkuk/1#v6)**  *[[15:15](https://www.youtube.com/watch?v=fS9jmG1zhCI&t=915s)]*
 
 > <sup>[6](/bible/habakkuk/1#v6)</sup> For, lo, I raise up the Chaldeans, that bitter and hasty nation, which shall march through the breadth of the land, to possess the dwellingplaces that are not theirs.
->
-> <sup>[9](/bible/habakkuk/1#v9)</sup> They shall come all for violence: their faces shall sup up as the east wind, and they shall gather the captivity as the sand.
->
-> <sup>[10](/bible/habakkuk/1#v10)</sup> And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it.
->
-> <sup>[11](/bible/habakkuk/1#v11)</sup> Then shall his mind change, and he shall pass over, and offend, imputing this his power unto his god.
 
 - For, lo, I raise up the Chaldeans, that bitter and hasty nation: The Chaldeans were the upper class, the ruling class of the Babylonians.
 
 - Which shall march through the breadth of the land, to possess the dwellingplaces that are not theirs: The land is the Americas.
 
+> <sup>[9](/bible/habakkuk/1#v9)</sup> They shall come all for violence: their faces shall sup up as the east wind, and they shall gather the captivity as the sand.
+
 - They shall come all for violence: their faces shall sup up as the east wind: They came for violence: to kill, rob, murder and destroy. Their faces came from the eastern hemisphere toward the west.
 
 - And they shall gather the captivity as the sand: They gathered us up from Spain, the Netherlands, Denmark and West Africa and brought us over.
 
+> <sup>[10](/bible/habakkuk/1#v10)</sup> And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it.
+
 - And they shall scoff at the kings, and the princes shall be a scorn unto them: We were kings in Africa, in Spain, in France, in England. They took off our garments, jewels and gold and put us in chains.
 
 - For they shall heap dust, and take it: Like throwing dust in a man's eyes before a fight. In the dark ages they joined our militaries and said they would be as us, at peace, and when the time came they took over and shipped us into slavery.
+
+> <sup>[11](/bible/habakkuk/1#v11)</sup> Then shall his mind change, and he shall pass over, and offend, imputing this his power unto his god.
 
 - Then shall his mind change, and he shall pass over: A lot of time passes between verses 10 and 11: destruction, colonization, imperialism, slavery. Once they had conquered us and we lost our identity, name, history, culture and heritage, they decided to be more liberal and nicer, so we would like them and not gather against them.
 
@@ -113,18 +113,18 @@ tags: ["IUIC in the ClassRoom", "deceit", "media", "mental-health", "satan"]
 **[Wisdom of Solomon 7:17-20](/bible/wisdom-of-solomon/7#v17)**  *[[30:33](https://www.youtube.com/watch?v=fS9jmG1zhCI&t=1833s)]*
 
 > <sup>[17](/bible/wisdom-of-solomon/7#v17)</sup> For he hath given me certain knowledge of the things that are, namely, to know how the world was made, and the operation of the elements:
->
-> <sup>[18](/bible/wisdom-of-solomon/7#v18)</sup> The beginning, ending, and midst of the times: the alterations of the turning of the sun, and the change of seasons:
->
-> <sup>[19](/bible/wisdom-of-solomon/7#v19)</sup> The circuits of years, and the positions of stars:
->
-> <sup>[20](/bible/wisdom-of-solomon/7#v20)</sup> The natures of living creatures, and the furies of wild beasts: the violence of winds, and the reasonings of men: the diversities of plants, and the virtues of roots:
 
 - For he hath given me certain knowledge of the things that are, namely, to know how the world was made: The Most High gave Solomon, the wisest man on the planet, knowledge of things. Wisdom rains down skill, and our forefathers like Daniel were wise in science. But there is a wisdom that does not come from God, a counterpart to all of this. God explains in Genesis how he made the world, and then there is Esau's science.
 
 - And the operation of the elements: Science means knowledge. God's knowledge doesn't come with side effects or harm the environment. Esau's destroys the world. That's why it is science falsely so called.
 
+> <sup>[18](/bible/wisdom-of-solomon/7#v18)</sup> The beginning, ending, and midst of the times: the alterations of the turning of the sun, and the change of seasons:
+
 - The alterations of the turning of the sun, and the change of seasons: They get that information from Satan. In certain seasons they keep holidays that counteract the ones God set up, Saturnalia when the sun and stars are in a certain position. Those are their gods.
+
+> <sup>[19](/bible/wisdom-of-solomon/7#v19)</sup> The circuits of years, and the positions of stars:
+>
+> <sup>[20](/bible/wisdom-of-solomon/7#v20)</sup> The natures of living creatures, and the furies of wild beasts: the violence of winds, and the reasonings of men: the diversities of plants, and the virtues of roots:
 
 - And the reasonings of men: They can get into your mind. Psychology: they are given understanding of these things, not by righteous discernment from the scriptures and the commandments, but by witchcraft, sacrifices and wicked experiments. They find out how a man's mind works and program it to go the way they want, and that's what they put on television.
 
@@ -156,15 +156,15 @@ tags: ["IUIC in the ClassRoom", "deceit", "media", "mental-health", "satan"]
 
 **[Wisdom of Solomon 15:4-5](/bible/wisdom-of-solomon/15#v4)**  *[[1:13:03](https://www.youtube.com/watch?v=fS9jmG1zhCI&t=4383s)]*
 
-> <sup>[4](/bible/wisdom-of-solomon/15#v4)</sup> For neither did the mischievous invention of men deceive us, nor an image spotted with divers colours, the painter’s fruitless labour;
->
-> <sup>[5](/bible/wisdom-of-solomon/15#v5)</sup> The sight whereof enticeth fools to lust after it, and so they desire the form of a dead image, that hath no breath.
-
 - These are the wiles of the devil. It used to be YouTube, one video, one person. Now it's swipe, swipe, swipe: a brother who might look at one woman has seen thousands. Your mind is a powerful tool the Lord gave you, and you were never meant to see all that.
+
+> <sup>[4](/bible/wisdom-of-solomon/15#v4)</sup> For neither did the mischievous invention of men deceive us, nor an image spotted with divers colours, the painter’s fruitless labour;
 
 - For neither did the mischievous invention of men deceive us: When we are in the spirit these inventions can't deceive us. Bible open, website closed.
 
 - Nor an image spotted with divers colours, the painter's fruitless labour: The diverse colors are there to attract your eyes, the moving images, the sisters. If you're in the spirit it is fruitless.
+
+> <sup>[5](/bible/wisdom-of-solomon/15#v5)</sup> The sight whereof enticeth fools to lust after it, and so they desire the form of a dead image, that hath no breath.
 
 - The sight whereof enticeth fools to lust after it: If we're not in the spirit, we're foolish, and the commandments are all wisdom. Scroll too long and something comes up to entice your eyes; you linger a second, and that's just enough: the next three videos come, and you're down the rabbit hole of sin.
 
@@ -173,10 +173,10 @@ tags: ["IUIC in the ClassRoom", "deceit", "media", "mental-health", "satan"]
 **[Isaiah 47:12-13](/bible/isaiah/47#v12)**  *[[1:23:54](https://www.youtube.com/watch?v=fS9jmG1zhCI&t=5034s)]*
 
 > <sup>[12](/bible/isaiah/47#v12)</sup> Stand now with thine enchantments, and with the multitude of thy sorceries, wherein thou hast laboured from thy youth; if so be thou shalt be able to profit, if so be thou mayest prevail.
->
-> <sup>[13](/bible/isaiah/47#v13)</sup> Thou art wearied in the multitude of thy counsels. Let now the astrologers, the stargazers, the monthly prognosticators, stand up, and save thee from these things that shall come upon thee.
 
 - Stand now with thine enchantments, and with the multitude of thy sorceries, wherein thou hast laboured from thy youth: From its youth this country used witchcraft; George Washington had chaplains. It started small and kept getting bigger: knowledge shall be increased.
+
+> <sup>[13](/bible/isaiah/47#v13)</sup> Thou art wearied in the multitude of thy counsels. Let now the astrologers, the stargazers, the monthly prognosticators, stand up, and save thee from these things that shall come upon thee.
 
 - Let now the astrologers, the stargazers, the monthly prognosticators, stand up, and save thee from these things that shall come upon thee: They believe their witchcraft, their social media and everything they have, will save them from what is to come. Walk into an Apple store and your phone pings: it knows what phone you have and how many you've had. Information passes from phone to phone as you walk by, and that's how scammers work. Then you put your whole life on social media.
 
@@ -209,10 +209,10 @@ tags: ["IUIC in the ClassRoom", "deceit", "media", "mental-health", "satan"]
 **[2 Corinthians 11:3-4](/bible/2-corinthians/11#v3)**  *[[1:47:09](https://www.youtube.com/watch?v=fS9jmG1zhCI&t=6429s)]*
 
 > <sup>[3](/bible/2-corinthians/11#v3)</sup> But I fear, lest by any means, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Christ.
->
-> <sup>[4](/bible/2-corinthians/11#v4)</sup> For if he that cometh preacheth another Jesus, whom we have not preached, or if ye receive another spirit, which ye have not received, or another gospel, which ye have not accepted, ye might well bear with him.
 
 - As the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Christ: The demon jumps into the brain from a young age, and makes as though it's nice. The simplicity that is in Christ is how he looked and what he actually taught. Many of our people, Christian or Muslim, disbelieve in Christ because they were taught a fairy-tale version of him through the witchcraft in their heads.
+
+> <sup>[4](/bible/2-corinthians/11#v4)</sup> For if he that cometh preacheth another Jesus, whom we have not preached, or if ye receive another spirit, which ye have not received, or another gospel, which ye have not accepted, ye might well bear with him.
 
 - For if he that cometh preacheth another Jesus: There are many ways to preach another Jesus: a video of someone who looks like you saying there is no Jesus, or that science is better, or that he's white. Then a feel-good sermon, then an algorithm that makes you feel your decisions are right when everything you're doing is wrong.
 

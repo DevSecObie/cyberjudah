@@ -144,10 +144,6 @@ So everybody comes in at their own time, but when we come in we have got to make
 **[Matthew 10:34-36](/bible/matthew/10#v34)**  *[[59:36](https://www.youtube.com/watch?v=mbqEWnbrQMs&t=3576s)]*
 
 > <sup>[34](/bible/matthew/10#v34)</sup> Think not that I am come to send peace on earth: I came not to send peace, but a sword.
->
-> <sup>[35](/bible/matthew/10#v35)</sup> For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law.
->
-> <sup>[36](/bible/matthew/10#v36)</sup> And a man’s foes shall be they of his own household.
 
 - Think not that I am come to send peace on earth: I came not to send peace, but a sword. So Christ did not come on earth to send peace. He was here to divide you from these wicked people you call your family. I came to bring a sword to cut through everything, to cut you off from your family. That is what I came to do.
 
@@ -156,6 +152,10 @@ So everybody comes in at their own time, but when we come in we have got to make
 - But now he is sharing our videos. He is proud. My daddy helped me drive to the Passover this year. He met a couple of people, he ran into Captain Barnabas and talked to him. So slowly but surely — this is what I mean by being patient with your family, by your example. When I let my kids go over to their grandparents house they have got specific foods for them. When they buy something they call me and ask, hey listen, is this okay? That is because they reverence how I deal with my kids, and they know if they screw up with my kids they will not see them any more. Straight up. I cannot afford to lose my babies over something my parents did. So I have got to make sure my parents are in order when it comes to dealing with my kids.
 
 - And the daughter against her mother, and the daughter in law against her mother in law. I want to do a class on this, because I had a conversation with a brother at the gym about in-laws. When we come into the body and we talk about marriage, we are one, we are one flesh, and we really do not think about what comes with marriage. We think, okay, those are my parents, those are your parents. And a lot of times, especially when you come into the truth and you are married, you have issues with the mother-in-law and the father-in-law, you have had words with each other, you hate each other. But guess what — those are your parents now. You have got to respect them just as much as your real parents. However you reverence your parents, you have got to do the same thing to them.
+
+> <sup>[35](/bible/matthew/10#v35)</sup> For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law.
+>
+> <sup>[36](/bible/matthew/10#v36)</sup> And a man’s foes shall be they of his own household.
 
 **[Tobit 10:12](/bible/tobit/10#v12)**  *[[1:06:20](https://www.youtube.com/watch?v=mbqEWnbrQMs&t=3980s)]*
 
@@ -349,27 +349,17 @@ So everybody comes in at their own time, but when we come in we have got to make
 
 **[Luke 21:12-19](/bible/luke/21#v12)**  *[[2:02:25](https://www.youtube.com/watch?v=mbqEWnbrQMs&t=7345s)]*
 
-> <sup>[12](/bible/luke/21#v12)</sup> But before all these, they shall lay their hands on you, and persecute you, delivering you up to the synagogues, and into prisons, being brought before kings and rulers for my name’s sake.
->
-> <sup>[13](/bible/luke/21#v13)</sup> And it shall turn to you for a testimony.
->
-> <sup>[14](/bible/luke/21#v14)</sup> Settle it therefore in your hearts, not to meditate before what ye shall answer:
->
-> <sup>[15](/bible/luke/21#v15)</sup> For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist.
->
-> <sup>[16](/bible/luke/21#v16)</sup> And ye shall be betrayed both by parents, and brethren, and kinsfolks, and friends; and some of you shall they cause to be put to death.
->
-> <sup>[17](/bible/luke/21#v17)</sup> And ye shall be hated of all men for my name’s sake.
->
-> <sup>[18](/bible/luke/21#v18)</sup> But there shall not an hair of your head perish.
->
-> <sup>[19](/bible/luke/21#v19)</sup> In your patience possess ye your souls.
-
 - But before all these, they shall lay their hands on you, and persecute you. This is about us going out to camp and teaching, putting our life on the line. Sisters, if you stand next to your husband and he is out teaching, he is putting his brick in, and he is keeping the commandments, and you still look at your husband with disgust — something is wrong with you. You really do not believe that he is a prophet on this earth. A brother gets more respect when he goes out of town than he does in his own household. Brothers and sisters represent him more than his own wife. That is a problem. You should be his biggest fan, his biggest supporter. Seeing your husband change, you should feel great about it, that he is conducting his life in a righteous manner.
 
 - Delivering you up to the synagogues, and into prisons, being brought before kings and rulers for my name's sake. And guess what, your own people will do that to you. Your own people, the other nations — everybody is against us. Everybody is against a righteous black man, Hispanic and Native American man, a brother trying to change his life and keep the commandments. They are going to persecute us, they are going to try to put their hands on us, they are going to try to put us in prison, they are going to bring us up before governments. They are trying to do that already, they put it in place. This stuff is written here for a reason, because it is going to happen.
 
 - And it shall turn to you for a testimony.
+
+> <sup>[12](/bible/luke/21#v12)</sup> But before all these, they shall lay their hands on you, and persecute you, delivering you up to the synagogues, and into prisons, being brought before kings and rulers for my name’s sake.
+>
+> <sup>[13](/bible/luke/21#v13)</sup> And it shall turn to you for a testimony.
+>
+> <sup>[14](/bible/luke/21#v14)</sup> Settle it therefore in your hearts, not to meditate before what ye shall answer:
 
 - Settle it therefore in your hearts, not to meditate before what ye shall answer: for I will give you a mouth and wisdom. Because the Most High God is going to give you the words to speak to the people, regardless. The Most High is a mastermind, he is going to take care of you. That is why you have got to be fearless, that is why you have got to take camp one-on-ones and all of this seriously. The Most High is going to take care of you brothers for going out and teaching the word of God. You just have got to make sure you do your part. You speak his words, and everything else is going to be fine.
 
@@ -384,6 +374,16 @@ So everybody comes in at their own time, but when we come in we have got to make
 - But there shall not an hair of your head perish. You are not going to die. Your spirit is not going to die. It is going to go on, you are going to go to the kingdom, because you are teaching God's word. That fleshly body is nothing, but your spirit is not going anywhere.
 
 - In your patience possess ye your souls. In your patience you possess your soul.
+
+> <sup>[15](/bible/luke/21#v15)</sup> For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist.
+>
+> <sup>[16](/bible/luke/21#v16)</sup> And ye shall be betrayed both by parents, and brethren, and kinsfolks, and friends; and some of you shall they cause to be put to death.
+>
+> <sup>[17](/bible/luke/21#v17)</sup> And ye shall be hated of all men for my name’s sake.
+>
+> <sup>[18](/bible/luke/21#v18)</sup> But there shall not an hair of your head perish.
+>
+> <sup>[19](/bible/luke/21#v19)</sup> In your patience possess ye your souls.
 
 ## In Closing
 

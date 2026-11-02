@@ -58,6 +58,10 @@ Reading from a definition of upbraid, on screen  *[[0:53](https://www.youtube.co
 
 **[John 4:43-50](/bible/john/4#v43)**  *[[3:05](https://www.youtube.com/watch?v=BwBHD-OIrsg&t=185s)]*
 
+- Jesus himself testified that a prophet hath no honour in his own country. Because why? Christ was from the region of Galilee. That's where he grew up, in Nazareth.
+
+- The Galileans received him, having seen all the things he did at Jerusalem at the feast: these Galileans were in Jerusalem, and they witnessed the miracles that he did.
+
 > <sup>[43](/bible/john/4#v43)</sup> Now after two days he departed thence, and went into Galilee.
 >
 > <sup>[44](/bible/john/4#v44)</sup> For Jesus himself testified, that a prophet hath no honour in his own country.
@@ -65,7 +69,11 @@ Reading from a definition of upbraid, on screen  *[[0:53](https://www.youtube.co
 > <sup>[45](/bible/john/4#v45)</sup> Then when he was come into Galilee, the Galileans received him, having seen all the things that he did at Jerusalem at the feast: for they also went unto the feast.
 >
 > <sup>[46](/bible/john/4#v46)</sup> So Jesus came again into Cana of Galilee, where he made the water wine. And there was a certain nobleman, whose son was sick at Capernaum.
->
+
+- Cana of Galilee, where he made the water wine: this is where Christ was doing some of his first miracles. Turning water to wine, off the top right there, should have had everybody repenting. Especially the negro, especially the Israelite. This negro just turned water to wine.
+
+- Except ye see signs and wonders, ye will not believe. This is something that Christ understood about his people. Man, we have got to see signs and wonders; we have got to have extravagant things happen for us to believe.
+
 > <sup>[47](/bible/john/4#v47)</sup> When he heard that Jesus was come out of Judea into Galilee, he went unto him, and besought him that he would come down, and heal his son: for he was at the point of death.
 >
 > <sup>[48](/bible/john/4#v48)</sup> Then said Jesus unto him, Except ye see signs and wonders, ye will not believe.
@@ -73,14 +81,6 @@ Reading from a definition of upbraid, on screen  *[[0:53](https://www.youtube.co
 > <sup>[49](/bible/john/4#v49)</sup> The nobleman saith unto him, Sir, come down ere my child die.
 >
 > <sup>[50](/bible/john/4#v50)</sup> Jesus saith unto him, Go thy way; thy son liveth. And the man believed the word that Jesus had spoken unto him, and he went his way.
-
-- Jesus himself testified that a prophet hath no honour in his own country. Because why? Christ was from the region of Galilee. That's where he grew up, in Nazareth.
-
-- The Galileans received him, having seen all the things he did at Jerusalem at the feast: these Galileans were in Jerusalem, and they witnessed the miracles that he did.
-
-- Cana of Galilee, where he made the water wine: this is where Christ was doing some of his first miracles. Turning water to wine, off the top right there, should have had everybody repenting. Especially the negro, especially the Israelite. This negro just turned water to wine.
-
-- Except ye see signs and wonders, ye will not believe. This is something that Christ understood about his people. Man, we have got to see signs and wonders; we have got to have extravagant things happen for us to believe.
 
 
 **[John 4:52-54](/bible/john/4#v52)**  *[[5:38](https://www.youtube.com/watch?v=BwBHD-OIrsg&t=338s)]*
@@ -117,6 +117,12 @@ Reading from an article from Holy Land Site, on screen  *[[6:23](https://www.you
 
 **[Mark 1:21-28](/bible/mark/1#v21)**  *[[7:53](https://www.youtube.com/watch?v=BwBHD-OIrsg&t=473s)]*
 
+- Familiarity. Here he is in the synagogue in Capernaum, about to heal this man with an unclean spirit, saying, what have we to do with thee, thou Jesus of Nazareth?
+
+- The unclean spirit was able to identify him: this is the son of man. But the negroes around him, because of familiarity, couldn't see it.
+
+- Can you imagine that? This man tormented, the unclean spirit saying, I know you, Jesus of Nazareth, and Christ responds, hold your peace and come out of him. That would have tore some people up. Seeing that should have changed minds right there.
+
 > <sup>[21](/bible/mark/1#v21)</sup> And they went into Capernaum; and straightway on the sabbath day he entered into the synagogue, and taught.
 >
 > <sup>[22](/bible/mark/1#v22)</sup> And they were astonished at his doctrine: for he taught them as one that had authority, and not as the scribes.
@@ -130,44 +136,38 @@ Reading from an article from Holy Land Site, on screen  *[[6:23](https://www.you
 > <sup>[26](/bible/mark/1#v26)</sup> And when the unclean spirit had torn him, and cried with a loud voice, he came out of him.
 >
 > <sup>[27](/bible/mark/1#v27)</sup> And they were all amazed, insomuch that they questioned among themselves, saying, What thing is this? what new doctrine is this? for with authority commandeth he even the unclean spirits, and they do obey him.
->
-> <sup>[28](/bible/mark/1#v28)</sup> And immediately his fame spread abroad throughout all the region round about Galilee.
-
-- Familiarity. Here he is in the synagogue in Capernaum, about to heal this man with an unclean spirit, saying, what have we to do with thee, thou Jesus of Nazareth?
-
-- The unclean spirit was able to identify him: this is the son of man. But the negroes around him, because of familiarity, couldn't see it.
-
-- Can you imagine that? This man tormented, the unclean spirit saying, I know you, Jesus of Nazareth, and Christ responds, hold your peace and come out of him. That would have tore some people up. Seeing that should have changed minds right there.
 
 - With authority commandeth he even the unclean spirits, and they do obey him: this dude is talking to the unclean spirits with all authority, and they're obeying him.
 
 - Immediately his fame spread abroad. So everybody knew. Everybody understood: Christ is going around healing folks, turning water to wine, talking to the unclean spirits, and they're obeying him.
 
+> <sup>[28](/bible/mark/1#v28)</sup> And immediately his fame spread abroad throughout all the region round about Galilee.
+
 
 **[Matthew 4:23-25](/bible/matthew/4#v23)**  *[[10:17](https://www.youtube.com/watch?v=BwBHD-OIrsg&t=617s)]*
 
 > <sup>[23](/bible/matthew/4#v23)</sup> And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people.
->
-> <sup>[24](/bible/matthew/4#v24)</sup> And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them.
->
-> <sup>[25](/bible/matthew/4#v25)</sup> And there followed him great multitudes of people from Galilee, and from Decapolis, and from Jerusalem, and from Judea, and from beyond Jordan.
 
 - Jesus went about all Galilee: we're still in those regions.
+
+> <sup>[24](/bible/matthew/4#v24)</sup> And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them.
 
 - His fame went throughout all Syria, and they brought unto him all sick people: after people heard, they brought the sick and the diseased, and he healed a lot of people. Everybody understood what was going on in this region, in Galilee.
 
 - There followed him great multitudes of people. Galilee was a region, a district if you will, in northern Israel, and these are the three cities he would make rounds and rotation through, teaching in the synagogues.
 
+> <sup>[25](/bible/matthew/4#v25)</sup> And there followed him great multitudes of people from Galilee, and from Decapolis, and from Jerusalem, and from Judea, and from beyond Jordan.
+
 
 **[Isaiah 9:1-2](/bible/isaiah/9#v1)**  *[[11:43](https://www.youtube.com/watch?v=BwBHD-OIrsg&t=703s)]*
 
-> <sup>[1](/bible/isaiah/9#v1)</sup> Nevertheless the dimness shall not be such as was in her vexation, when at the first he lightly afflicted the land of Zebulun and the land of Naphtali, and afterward did more grievously afflict her by the way of the sea, beyond Jordan, in Galilee of the nations.
->
-> <sup>[2](/bible/isaiah/9#v2)</sup> The people that walked in darkness have seen a great light: they that dwell in the land of the shadow of death, upon them hath the light shined.
-
 - It was prophesied this was going to happen. Nazareth was the place where he was raised; remember, he was born in Bethlehem.
 
+> <sup>[1](/bible/isaiah/9#v1)</sup> Nevertheless the dimness shall not be such as was in her vexation, when at the first he lightly afflicted the land of Zebulun and the land of Naphtali, and afterward did more grievously afflict her by the way of the sea, beyond Jordan, in Galilee of the nations.
+
 - Galilee of the nations: he had the afflicted people in this region.
+
+> <sup>[2](/bible/isaiah/9#v2)</sup> The people that walked in darkness have seen a great light: they that dwell in the land of the shadow of death, upon them hath the light shined.
 
 - The people that walked in darkness have seen a great light: it was prophesied that they were going to see a great light, that they were going to see Christ, hear of Christ.
 
@@ -188,8 +188,6 @@ Reading from an article from Holy Land Site, on screen  *[[6:23](https://www.you
 **[John 1:45-46](/bible/john/1#v45)**  *[[13:41](https://www.youtube.com/watch?v=BwBHD-OIrsg&t=821s)]*
 
 > <sup>[45](/bible/john/1#v45)</sup> Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph.
->
-> <sup>[46](/bible/john/1#v46)</sup> And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see.
 
 - We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth: he's from that region, he's doing many miracles. We found this guy. Why? Because we heard of him, the fame, the miracles.
 
@@ -197,10 +195,14 @@ Reading from an article from Holy Land Site, on screen  *[[6:23](https://www.you
 
 - Familiarity breeds death.
 
+> <sup>[46](/bible/john/1#v46)</sup> And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see.
+
 - Come and see: man, come find out for yourself. Don't allow your familiarity. Don't think that because it's in the regions where it's just ghettos and debauchery, a prophet can't rise up out of there. Come see for yourself.
 
 
 **[John 7:41-52](/bible/john/7#v41)**  *[[15:00](https://www.youtube.com/watch?v=BwBHD-OIrsg&t=900s)]*
+
+- Hath not the scripture said that Christ cometh of the seed of David, and out of the town of Bethlehem? So there was a division amongst them. They were confused: we read the scripture, he's supposed to come out of Bethlehem, but he's coming out of Galilee. And we know these negroes in Galilee, we know these negroes in the ghetto. Ain't nothing good coming out of there. Familiarity.
 
 > <sup>[41](/bible/john/7#v41)</sup> Others said, This is the Christ. But some said, Shall Christ come out of Galilee?
 >
@@ -219,16 +221,14 @@ Reading from an article from Holy Land Site, on screen  *[[6:23](https://www.you
 > <sup>[48](/bible/john/7#v48)</sup> Have any of the rulers or of the Pharisees believed on him?
 >
 > <sup>[49](/bible/john/7#v49)</sup> But this people who knoweth not the law are cursed.
->
+
+- This people who knoweth not the law are cursed: here you have the leaders, the ones that rejected, and their minions saying, listen, y'all don't know the laws; that's the only reason you're following that Christ, because you don't know the scriptures. Don't that sound familiar? Things that make you go hmm.
+
 > <sup>[50](/bible/john/7#v50)</sup> Nicodemus saith unto them, (he that came to Jesus by night, being one of them,)
 >
 > <sup>[51](/bible/john/7#v51)</sup> Doth our law judge any man, before it hear him, and know what he doeth?
 >
 > <sup>[52](/bible/john/7#v52)</sup> They answered and said unto him, Art thou also of Galilee? Search, and look: for out of Galilee ariseth no prophet.
-
-- Hath not the scripture said that Christ cometh of the seed of David, and out of the town of Bethlehem? So there was a division amongst them. They were confused: we read the scripture, he's supposed to come out of Bethlehem, but he's coming out of Galilee. And we know these negroes in Galilee, we know these negroes in the ghetto. Ain't nothing good coming out of there. Familiarity.
-
-- This people who knoweth not the law are cursed: here you have the leaders, the ones that rejected, and their minions saying, listen, y'all don't know the laws; that's the only reason you're following that Christ, because you don't know the scriptures. Don't that sound familiar? Things that make you go hmm.
 
 - Search, and look: for out of Galilee ariseth no prophet. Look at the scriptures, search and look: ain't no damn prophets been prophesied to come out of Galilee. But they were deceived, because Isaiah already told them they were going to see a great light. Blinded.
 
@@ -250,6 +250,12 @@ Reading from an article from Holy Land Site, on screen  *[[6:23](https://www.you
 
 **[Mark 6:1-6](/bible/mark/6#v1)**  *[[18:13](https://www.youtube.com/watch?v=BwBHD-OIrsg&t=1093s)]*
 
+- You had people that weren't from the region, and they acknowledged it. But what was the mindset of those who grew up with him?
+
+- Is not this the carpenter? Ain't that the carpenter, the son of Mary, the brother of James? And they were offended at him. We know this young brother. We know his parents. We know his sisters. How dare you come and try to take our place? How dare you come and start teaching the word of God? We know you.
+
+- Don't this sound familiar? This is why I said this class is for you young brothers and sisters. Yes, y'all are repenting. You have got family looking at you crazy, friends looking at you crazy, that don't want to listen to you. They are seeing Christ within you. And that rejection is of old. That familiarity is of old.
+
 > <sup>[1](/bible/mark/6#v1)</sup> And he went out from thence, and came into his own country; and his disciples follow him.
 >
 > <sup>[2](/bible/mark/6#v2)</sup> And when the sabbath day was come, he began to teach in the synagogue: and many hearing him were astonished, saying, From whence hath this man these things? and what wisdom is this which is given unto him, that even such mighty works are wrought by his hands?
@@ -257,20 +263,14 @@ Reading from an article from Holy Land Site, on screen  *[[6:23](https://www.you
 > <sup>[3](/bible/mark/6#v3)</sup> Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him.
 >
 > <sup>[4](/bible/mark/6#v4)</sup> But Jesus said unto them, A prophet is not without honour, but in his own country, and among his own kin, and in his own house.
->
-> <sup>[5](/bible/mark/6#v5)</sup> And he could there do no mighty work, save that he laid his hands upon a few sick folk, and healed them.
->
-> <sup>[6](/bible/mark/6#v6)</sup> And he marvelled because of their unbelief. And he went round about the villages, teaching.
-
-- You had people that weren't from the region, and they acknowledged it. But what was the mindset of those who grew up with him?
-
-- Is not this the carpenter? Ain't that the carpenter, the son of Mary, the brother of James? And they were offended at him. We know this young brother. We know his parents. We know his sisters. How dare you come and try to take our place? How dare you come and start teaching the word of God? We know you.
-
-- Don't this sound familiar? This is why I said this class is for you young brothers and sisters. Yes, y'all are repenting. You have got family looking at you crazy, friends looking at you crazy, that don't want to listen to you. They are seeing Christ within you. And that rejection is of old. That familiarity is of old.
 
 - A prophet is not without honour, but in his own country: he goes outside to Jerusalem, and they acknowledge it quick. Those in Galilee question: oh no, we know his daddy, we know his mama, we know his upbringing. The spirit of the Lord ain't on that man. Who do you think you are?
 
+> <sup>[5](/bible/mark/6#v5)</sup> And he could there do no mighty work, save that he laid his hands upon a few sick folk, and healed them.
+
 - He could there do no mighty work, save that he laid his hands upon a few sick folk: you wonder why only a couple people repent, only a couple people are listening in your family? He said it was only a few people he could help.
+
+> <sup>[6](/bible/mark/6#v6)</sup> And he marvelled because of their unbelief. And he went round about the villages, teaching.
 
 - He marvelled because of their unbelief, and he went round about the villages, teaching: that didn't discourage him from teaching. He just marvelled at the unbelief based off of familiarity.
 
@@ -416,47 +416,47 @@ Reading from a second commentary on "who is their father?" (1 Samuel 10:12), on 
 
 **[2 Esdras 9:1-12](/bible/2-esdras/9#v1)**  *[[34:10](https://www.youtube.com/watch?v=BwBHD-OIrsg&t=2050s)]*
 
+- A lot of people in the world: this is what's going to happen in these last days. Death by familiarity.
+
 > <sup>[1](/bible/2-esdras/9#v1)</sup> He answered me then, and said, Measure thou the time diligently in itself: and when thou seest part of the signs past, which I have told thee before,
 >
 > <sup>[2](/bible/2-esdras/9#v2)</sup> Then shalt thou understand, that it is the very same time, wherein the Highest will begin to visit the world which he made.
 >
 > <sup>[3](/bible/2-esdras/9#v3)</sup> Therefore when there shall be seen earthquakes and uproars of the people in the world:
->
+
+- When there shall be seen earthquakes and uproars of the people: when you start seeing earthquakes in Japan, Indonesia, all these diverse places, he said, this is the time I've been speaking of since before.
+
 > <sup>[4](/bible/2-esdras/9#v4)</sup> Then shalt thou well understand, that the most High spake of those things from the days that were before thee, even from the beginning.
 >
 > <sup>[5](/bible/2-esdras/9#v5)</sup> For like as all that is made in the world hath a beginning and an end, and the end is manifest:
 >
 > <sup>[6](/bible/2-esdras/9#v6)</sup> Even so the times also of the Highest have plain beginnings in wonder and powerful works, and endings in effects and signs.
->
-> <sup>[7](/bible/2-esdras/9#v7)</sup> And every one that shall be saved, and shall be able to escape by his works, and by faith, whereby ye have believed,
->
-> <sup>[8](/bible/2-esdras/9#v8)</sup> Shall be preserved from the said perils, and shall see my salvation in my land, and within my borders: for I have sanctified them for me from the beginning.
->
-> <sup>[9](/bible/2-esdras/9#v9)</sup> Then shall they be in pitiful case, which now have abused my ways: and they that have cast them away despitefully shall dwell in torments.
->
-> <sup>[10](/bible/2-esdras/9#v10)</sup> For such as in their life have received benefits, and have not known me;
->
-> <sup>[11](/bible/2-esdras/9#v11)</sup> And they that have loathed my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised it;
->
-> <sup>[12](/bible/2-esdras/9#v12)</sup> The same must know it after death by pain.
-
-- A lot of people in the world: this is what's going to happen in these last days. Death by familiarity.
-
-- When there shall be seen earthquakes and uproars of the people: when you start seeing earthquakes in Japan, Indonesia, all these diverse places, he said, this is the time I've been speaking of since before.
 
 - The times also of the Highest have plain beginnings: you can see it clearly. Everybody in this world can see these earthquakes ramping up, the instability of the nations ramping up. You're looking at it on the news. These are plain evidence, plain tokens of the Lord visiting the earth.
+
+> <sup>[7](/bible/2-esdras/9#v7)</sup> And every one that shall be saved, and shall be able to escape by his works, and by faith, whereby ye have believed,
 
 - Every one that shall be saved, and shall be able to escape by his works, and by faith: that's how you're going to be saved, by your works and by belief.
 
 - I have sanctified them for me from the beginning. Some of us have been sanctified from the beginning. That's why there's this strong magnetic force pulling you. You weren't looking for the truth, but all of a sudden when you heard it, that fire, that fervency came upon you. Bam, it just drew you to the word, drew you to the brothers and sisters. Then you look up and you've been in the truth 10 years. Where did time go? This is how it works, because you've been sanctified from the beginning.
 
+> <sup>[8](/bible/2-esdras/9#v8)</sup> Shall be preserved from the said perils, and shall see my salvation in my land, and within my borders: for I have sanctified them for me from the beginning.
+>
+> <sup>[9](/bible/2-esdras/9#v9)</sup> Then shall they be in pitiful case, which now have abused my ways: and they that have cast them away despitefully shall dwell in torments.
+
 - Then shall they be in pitiful case, which now have abused my ways: these are those who have familiarity right here, because they have abused the word.
 
 - They that have cast them away despitefully shall dwell in torments: they cast who away? The sanctified, those who have been sent forth to save the unbelieving Israelites, especially here in Babylon. The word is going to be everywhere. There are so many mighty works going on in this region we call Babylon, America. The scripture says there are going to be cities we can't get to. But here you won't have no excuse.
 
+> <sup>[10](/bible/2-esdras/9#v10)</sup> For such as in their life have received benefits, and have not known me;
+
 - Such as in their life have received benefits, and have not known me: you saw the miracles, you've seen the healings, but you didn't know Christ. They that have loathed my law, while they had yet liberty: while liberty was open to you.
 
+> <sup>[11](/bible/2-esdras/9#v11)</sup> And they that have loathed my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised it;
+
 - Understood not, but despised it: they didn't understand the changes that were taking effect in brothers and sisters, but they despised it. They were greatly offended at it, just like the ones around Christ, just like the ones around Saul. Because why? They were familiar.
+
+> <sup>[12](/bible/2-esdras/9#v12)</sup> The same must know it after death by pain.
 
 
 ## In Closing

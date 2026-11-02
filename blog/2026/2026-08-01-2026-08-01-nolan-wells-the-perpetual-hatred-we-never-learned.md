@@ -91,6 +91,8 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 
 **[Genesis 25:20-34](/bible/genesis/25#v20)**  *[[23:40](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=1420s)]*
 
+- Isaac entreated the Lord for his wife, because she was barren; the Lord was intreated of him, and Rebekah conceived. And the children struggled together within her: there was a battle, a fight, a conflict in her womb. There were no sonograms back then; she was in pain and went to inquire of the Lord.
+
 > <sup>[20](/bible/genesis/25#v20)</sup> And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padan–aram, the sister to Laban the Syrian.
 >
 > <sup>[21](/bible/genesis/25#v21)</sup> And Isaac intreated the Lord for his wife, because she was barren: and the Lord was intreated of him, and Rebekah his wife conceived.
@@ -98,7 +100,15 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 > <sup>[22](/bible/genesis/25#v22)</sup> And the children struggled together within her; and she said, If it be so, why am I thus? And she went to enquire of the Lord.
 >
 > <sup>[23](/bible/genesis/25#v23)</sup> And the Lord said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger.
->
+
+- Two nations are in thy womb: nations goes back to races. God placed two different kinds of people in her womb. Most of the time a child is the same kind as its parents; the Lord said, no, this is different. He is a Hebrew, yes, but he is not the same as his brother. These are two distinct people.
+
+- And two manner of people shall be separated from thy bowels: one will look a certain way, behave a certain way, think a certain way, act a certain way; not the same. The teacher has twins: twins normally share looks, voices, mannerisms. Not these two: different thought process, different look, everything.
+
+- The one people shall be stronger than the other people; and the elder shall serve the younger.
+
+- And the first came out red, all over like an hairy garment; and they called his name Esau. The first thing Moses records is what the Lord showed him: this child is red, and hairy all over like he was wearing a carpet. Notice Moses never describes Jacob's features: because Jacob looked like his parents, like everybody else on the planet at that time. The class taught this as the nativity of the first Caucasian man, Esau, carrying the appearance that entered with Cain's curse.
+
 > <sup>[24](/bible/genesis/25#v24)</sup> And when her days to be delivered were fulfilled, behold, there were twins in her womb.
 >
 > <sup>[25](/bible/genesis/25#v25)</sup> And the first came out red, all over like an hairy garment; and they called his name Esau.
@@ -106,32 +116,36 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 > <sup>[26](/bible/genesis/25#v26)</sup> And after that came his brother out, and his hand took hold on Esau’s heel; and his name was called Jacob: and Isaac was threescore years old when she bare them.
 >
 > <sup>[27](/bible/genesis/25#v27)</sup> And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents.
->
+
+- And the boys grew: and Esau was a cunning hunter, a man of the field, just like Cain was a tiller of the ground. And Jacob was a plain man, dwelling in tents: he stayed home and tended the cattle.
+
 > <sup>[28](/bible/genesis/25#v28)</sup> And Isaac loved Esau, because he did eat of his venison: but Rebekah loved Jacob.
->
+
+- And Isaac loved Esau, because he did eat of his venison: Esau brought home the best meat, and Isaac favored him. But Rebekah loved Jacob, because the Lord had told her what he did not tell Isaac.
+
 > <sup>[29](/bible/genesis/25#v29)</sup> And Jacob sod pottage: and Esau came from the field, and he was faint:
 >
 > <sup>[30](/bible/genesis/25#v30)</sup> And Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint: therefore was his name called Edom.
->
+
+- Feed me, I pray thee, with that same red pottage: therefore was his name called Edom, meaning red, because he sought food that matched him. Sometimes a baby comes out pink and the color comes in later; the Lord said, no, he stayed the same: still red, still hairy.
+
 > <sup>[31](/bible/genesis/25#v31)</sup> And Jacob said, Sell me this day thy birthright.
 >
 > <sup>[32](/bible/genesis/25#v32)</sup> And Esau said, Behold, I am at the point to die: and what profit shall this birthright do to me?
->
+
+- Sell me this day thy birthright. And Esau said, behold, I am at the point to die: and what profit shall this birthright do to me? He was the eldest, the heir of Abraham's inheritance, and he did not care, because he was evil and did not care about God's blessings. He sware unto Jacob and sold it; and when he had eaten, he rose up and went his way: thus Esau despised his birthright.
+
 > <sup>[33](/bible/genesis/25#v33)</sup> And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob.
 >
 > <sup>[34](/bible/genesis/25#v34)</sup> Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright.
 
-- Isaac entreated the Lord for his wife, because she was barren; the Lord was intreated of him, and Rebekah conceived. And the children struggled together within her: there was a battle, a fight, a conflict in her womb. There were no sonograms back then; she was in pain and went to inquire of the Lord.
-- Two nations are in thy womb: nations goes back to races. God placed two different kinds of people in her womb. Most of the time a child is the same kind as its parents; the Lord said, no, this is different. He is a Hebrew, yes, but he is not the same as his brother. These are two distinct people.
-- And two manner of people shall be separated from thy bowels: one will look a certain way, behave a certain way, think a certain way, act a certain way; not the same. The teacher has twins: twins normally share looks, voices, mannerisms. Not these two: different thought process, different look, everything.
-- The one people shall be stronger than the other people; and the elder shall serve the younger.
-- And the first came out red, all over like an hairy garment; and they called his name Esau. The first thing Moses records is what the Lord showed him: this child is red, and hairy all over like he was wearing a carpet. Notice Moses never describes Jacob's features: because Jacob looked like his parents, like everybody else on the planet at that time. The class taught this as the nativity of the first Caucasian man, Esau, carrying the appearance that entered with Cain's curse.
-- And the boys grew: and Esau was a cunning hunter, a man of the field, just like Cain was a tiller of the ground. And Jacob was a plain man, dwelling in tents: he stayed home and tended the cattle.
-- And Isaac loved Esau, because he did eat of his venison: Esau brought home the best meat, and Isaac favored him. But Rebekah loved Jacob, because the Lord had told her what he did not tell Isaac.
-- Feed me, I pray thee, with that same red pottage: therefore was his name called Edom, meaning red, because he sought food that matched him. Sometimes a baby comes out pink and the color comes in later; the Lord said, no, he stayed the same: still red, still hairy.
-- Sell me this day thy birthright. And Esau said, behold, I am at the point to die: and what profit shall this birthright do to me? He was the eldest, the heir of Abraham's inheritance, and he did not care, because he was evil and did not care about God's blessings. He sware unto Jacob and sold it; and when he had eaten, he rose up and went his way: thus Esau despised his birthright.
-
 **[Genesis 27:1-45](/bible/genesis/27#v1)**  *[[30:27](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=1827s)]*
+
+- Isaac was old and his eyes were dim; he asked Esau to take his weapons, hunt venison, and make savory meat, that my soul may bless thee before I die. The father would bless the children before he passed on. Esau sold the birthright, but he figured, I can still bank on the blessing.
+
+- Rebekah heard, and commanded Jacob: go fetch me two good kids of the goats, and I will make the savory meat for thy father, such as he loveth, and thou shalt bring it to him, that he may bless thee before his death.
+
+- Jacob protested: Esau my brother is a hairy man, and I am a smooth man; my father peradventure will feel me, and I shall seem to him as a deceiver, and I shall bring a curse upon me, and not a blessing. His mother answered, upon me be thy curse, my son: because the Lord already told her while they were yet in the womb, the elder shall serve the younger. If Esau got the blessing, that word could not stand; she was following God's instructions from the beginning. This is all predestination. It was not Jacob's trickery and it was not his plan; the Most High moved her to do it.
 
 > <sup>[1](/bible/genesis/27#v1)</sup> And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, here am I.
 >
@@ -164,7 +178,9 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 > <sup>[15](/bible/genesis/27#v15)</sup> And Rebekah took goodly raiment of her eldest son Esau, which were with her in the house, and put them upon Jacob her younger son:
 >
 > <sup>[16](/bible/genesis/27#v16)</sup> And she put the skins of the kids of the goats upon his hands, and upon the smooth of his neck:
->
+
+- She put the skins of the kids of the goats upon his hands and upon the smooth of his neck: because Esau had hairy hands and a hairy neck, which means a hairy back, hairy chest, hairy arms; a hairy man from the womb. And note the texture: goat hair, straight and long, not sheep's wool. The mother knows her son.
+
 > <sup>[17](/bible/genesis/27#v17)</sup> And she gave the savoury meat and the bread, which she had prepared, into the hand of her son Jacob.
 >
 > <sup>[18](/bible/genesis/27#v18)</sup> And he came unto his father, and said, My father: and he said, Here am I; who art thou, my son?
@@ -176,7 +192,23 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 > <sup>[21](/bible/genesis/27#v21)</sup> And Isaac said unto Jacob, Come near, I pray thee, that I may feel thee, my son, whether thou be my very son Esau or not.
 >
 > <sup>[22](/bible/genesis/27#v22)</sup> And Jacob went near unto Isaac his father; and he felt him, and said, The voice is Jacob’s voice, but the hands are the hands of Esau.
->
+
+- The voice is Jacob's voice, but the hands are the hands of Esau: they had different voices. Even twins' voices usually sound alike; not these two. Two manner of people, down to the voice. And he discerned him not, because his hands were hairy, as his brother Esau's hands: so he blessed him.
+
+- The blessing itself: God give thee of the dew of heaven: wherever dew falls, and dew falls everywhere; and the fatness of the earth: the best of the earth, the milk, the honey, the crops; and plenty of corn and wine. Let people serve thee, and nations bow down to thee: not be equal to thee; bow down. Be lord over thy brethren, and let thy mother's sons bow down to thee: Esau's children serving Jacob's. Cursed be every one that curseth thee, and blessed be he that blesseth thee.
+
+- Jacob was yet scarce gone out from the presence of Isaac, and Esau came in from his hunting. Look at God. And Isaac trembled very exceedingly: who? where is he that hath taken venison? I have blessed him: yea, and he shall be blessed. It could not be undone.
+
+- Esau cried with a great and exceeding bitter cry. Is not he rightly named Jacob? for he hath supplanted me these two times. Did Jacob supplant him twice? No. He supplanted him once; Esau sold the birthright himself and despised it, but he told his father a pity story: he took away my birthright. No, he did not; he sold it.
+
+- Isaac's answer to Esau: behold, thy dwelling shall be the fatness of the earth, and of the dew of heaven from above: the same agriculture repeated. And by thy sword shalt thou live: how would he acquire it? By the sword. That is not from God; that goes back to what the Lord told Cain: from thy face shall I be hid. Isaac handed him back the same inheritance from Genesis 4: the power to destroy and to make weapons.
+
+- And thou shalt serve thy brother; and it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck: because our people went into sin, Israel was conquered and overthrown, and that is what gave Esau the chance to come out from under dominion and build up his power. And we have served him since: the Greeks, the Romans, the Spanish, the French, the Dutch, the Germans, the Israelis.
+
+- And Esau hated Jacob because of the blessing, and Esau said in his heart, the days of mourning for my father are at hand; then will I slay my brother Jacob. He said it internally, in his mind, and the scripture says those words were told to Rebekah: God was talking to Rebekah; the Lord was dealing with her on a high level.
+
+- Flee thou to Laban my brother to Haran, and tarry with him a few days, until thy brother's fury turn away. And Esau's anger did turn away; but his children's did not. That hatred he had for Jacob remained dormant in him, and he passed it on to his children. That is the perpetual hatred of today's title.
+
 > <sup>[23](/bible/genesis/27#v23)</sup> And he discerned him not, because his hands were hairy, as his brother Esau’s hands: so he blessed him.
 >
 > <sup>[24](/bible/genesis/27#v24)</sup> And he said, Art thou my very son Esau? And he said, I am.
@@ -223,23 +255,14 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 >
 > <sup>[45](/bible/genesis/27#v45)</sup> Until thy brother’s anger turn away from thee, and he forget that which thou hast done to him: then I will send, and fetch thee from thence: why should I be deprived also of you both in one day?
 
-- Isaac was old and his eyes were dim; he asked Esau to take his weapons, hunt venison, and make savory meat, that my soul may bless thee before I die. The father would bless the children before he passed on. Esau sold the birthright, but he figured, I can still bank on the blessing.
-- Rebekah heard, and commanded Jacob: go fetch me two good kids of the goats, and I will make the savory meat for thy father, such as he loveth, and thou shalt bring it to him, that he may bless thee before his death.
-- Jacob protested: Esau my brother is a hairy man, and I am a smooth man; my father peradventure will feel me, and I shall seem to him as a deceiver, and I shall bring a curse upon me, and not a blessing. His mother answered, upon me be thy curse, my son: because the Lord already told her while they were yet in the womb, the elder shall serve the younger. If Esau got the blessing, that word could not stand; she was following God's instructions from the beginning. This is all predestination. It was not Jacob's trickery and it was not his plan; the Most High moved her to do it.
-- She put the skins of the kids of the goats upon his hands and upon the smooth of his neck: because Esau had hairy hands and a hairy neck, which means a hairy back, hairy chest, hairy arms; a hairy man from the womb. And note the texture: goat hair, straight and long, not sheep's wool. The mother knows her son.
-- The voice is Jacob's voice, but the hands are the hands of Esau: they had different voices. Even twins' voices usually sound alike; not these two. Two manner of people, down to the voice. And he discerned him not, because his hands were hairy, as his brother Esau's hands: so he blessed him.
-- The blessing itself: God give thee of the dew of heaven: wherever dew falls, and dew falls everywhere; and the fatness of the earth: the best of the earth, the milk, the honey, the crops; and plenty of corn and wine. Let people serve thee, and nations bow down to thee: not be equal to thee; bow down. Be lord over thy brethren, and let thy mother's sons bow down to thee: Esau's children serving Jacob's. Cursed be every one that curseth thee, and blessed be he that blesseth thee.
-- Jacob was yet scarce gone out from the presence of Isaac, and Esau came in from his hunting. Look at God. And Isaac trembled very exceedingly: who? where is he that hath taken venison? I have blessed him: yea, and he shall be blessed. It could not be undone.
-- Esau cried with a great and exceeding bitter cry. Is not he rightly named Jacob? for he hath supplanted me these two times. Did Jacob supplant him twice? No. He supplanted him once; Esau sold the birthright himself and despised it, but he told his father a pity story: he took away my birthright. No, he did not; he sold it.
-- Isaac's answer to Esau: behold, thy dwelling shall be the fatness of the earth, and of the dew of heaven from above: the same agriculture repeated. And by thy sword shalt thou live: how would he acquire it? By the sword. That is not from God; that goes back to what the Lord told Cain: from thy face shall I be hid. Isaac handed him back the same inheritance from Genesis 4: the power to destroy and to make weapons.
-- And thou shalt serve thy brother; and it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck: because our people went into sin, Israel was conquered and overthrown, and that is what gave Esau the chance to come out from under dominion and build up his power. And we have served him since: the Greeks, the Romans, the Spanish, the French, the Dutch, the Germans, the Israelis.
-- And Esau hated Jacob because of the blessing, and Esau said in his heart, the days of mourning for my father are at hand; then will I slay my brother Jacob. He said it internally, in his mind, and the scripture says those words were told to Rebekah: God was talking to Rebekah; the Lord was dealing with her on a high level.
-- Flee thou to Laban my brother to Haran, and tarry with him a few days, until thy brother's fury turn away. And Esau's anger did turn away; but his children's did not. That hatred he had for Jacob remained dormant in him, and he passed it on to his children. That is the perpetual hatred of today's title.
-
 **[Exodus 17:8-16](/bible/exodus/17#v8)**  *[[49:43](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=2983s)]*
 
 > <sup>[8](/bible/exodus/17#v8)</sup> Then came Amalek, and fought with Israel in Rephidim.
->
+
+- Then came Amalek, and fought with Israel in Rephidim: Amalek is the children of Esau, the dukes, the elite of Esau's line. The battle continues into the next generation.
+
+- Moses stood on the top of the hill with the rod of God in his hand: when Moses held up his hand, Israel prevailed; when he let down his hand, Amalek prevailed. His hands were heavy, so they set a stone under him, and Aaron and Hur stayed up his hands, the one on the one side and the other on the other side, steady until the going down of the sun; and Joshua discomfited Amalek and his people with the edge of the sword.
+
 > <sup>[9](/bible/exodus/17#v9)</sup> And Moses said unto Joshua, Choose us out men, and go out, fight with Amalek: to morrow I will stand on the top of the hill with the rod of God in mine hand.
 >
 > <sup>[10](/bible/exodus/17#v10)</sup> So Joshua did as Moses had said to him, and fought with Amalek: and Moses, Aaron, and Hur went up to the top of the hill.
@@ -251,14 +274,13 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 > <sup>[13](/bible/exodus/17#v13)</sup> And Joshua discomfited Amalek and his people with the edge of the sword.
 >
 > <sup>[14](/bible/exodus/17#v14)</sup> And the Lord said unto Moses, Write this for a memorial in a book, and rehearse it in the ears of Joshua: for I will utterly put out the remembrance of Amalek from under heaven.
->
+
+- Write this for a memorial in a book, and rehearse it in the ears of Joshua: for I will utterly put out the remembrance of Amalek from under heaven.
+
 > <sup>[15](/bible/exodus/17#v15)</sup> And Moses built an altar, and called the name of it JEHOVAH–nissi:
 >
 > <sup>[16](/bible/exodus/17#v16)</sup> For he said, Because the Lord hath sworn that the Lord will have war with Amalek from generation to generation.
 
-- Then came Amalek, and fought with Israel in Rephidim: Amalek is the children of Esau, the dukes, the elite of Esau's line. The battle continues into the next generation.
-- Moses stood on the top of the hill with the rod of God in his hand: when Moses held up his hand, Israel prevailed; when he let down his hand, Amalek prevailed. His hands were heavy, so they set a stone under him, and Aaron and Hur stayed up his hands, the one on the one side and the other on the other side, steady until the going down of the sun; and Joshua discomfited Amalek and his people with the edge of the sword.
-- Write this for a memorial in a book, and rehearse it in the ears of Joshua: for I will utterly put out the remembrance of Amalek from under heaven.
 - Because the Lord hath sworn that the Lord will have war with Amalek from generation to generation: meaning for ever. It is the same thing Malachi said; we read Malachi 1 all the time, but this is in the law. God will war with Esau for ever, through us, and eventually himself when Christ returns.
 
 **[Deuteronomy 23:7](/bible/deuteronomy/23#v7)**  *[[52:34](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=3154s)]*
@@ -271,15 +293,18 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 **[Deuteronomy 25:17-19](/bible/deuteronomy/25#v17)**  *[[53:44](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=3224s)]*
 
 > <sup>[17](/bible/deuteronomy/25#v17)</sup> Remember what Amalek did unto thee by the way, when ye were come forth out of Egypt;
->
-> <sup>[18](/bible/deuteronomy/25#v18)</sup> How he met thee by the way, and smote the hindmost of thee, even all that were feeble behind thee, when thou wast faint and weary; and he feared not God.
->
-> <sup>[19](/bible/deuteronomy/25#v19)</sup> Therefore it shall be, when the Lord thy God hath given thee rest from all thine enemies round about, in the land which the Lord thy God giveth thee for an inheritance to possess it, that thou shalt blot out the remembrance of Amalek from under heaven; thou shalt not forget it.
 
 - Remember what Amalek did unto thee by the way: God does not forget, and God said remember. Exodus 17 gives the battle; here he gives the detail of how they attacked us.
+
+> <sup>[18](/bible/deuteronomy/25#v18)</sup> How he met thee by the way, and smote the hindmost of thee, even all that were feeble behind thee, when thou wast faint and weary; and he feared not God.
+
 - How he met thee by the way, and smote the hindmost of thee, even all that were feeble behind thee, when thou wast faint and weary: in a caravan the strong men walk in the front. Who is in the back? The elderly, the women, the babies, the lame. Rather than attack head on, Amalek crept up and attacked from behind, killing the feeble, and waited until we were tired to do it. And he feared not God: they knew exactly who we were; those are our cousins.
+
 - When the Lord thy God hath given thee rest in the land, thou shalt blot out the remembrance of Amalek from under heaven; thou shalt not forget it. God said do not forget what they did to you. God does not forget; we do. Christianity trains our people to be very forgetful, willfully.
+
 - Picture shown in class: at the trial of Botham Jean's killer, the judge embracing her, his own brother coming behind to hug her, and a court officer combing her hair. God said do not forget.
+
+> <sup>[19](/bible/deuteronomy/25#v19)</sup> Therefore it shall be, when the Lord thy God hath given thee rest from all thine enemies round about, in the land which the Lord thy God giveth thee for an inheritance to possess it, that thou shalt blot out the remembrance of Amalek from under heaven; thou shalt not forget it.
 
 **[Numbers 24:20](/bible/numbers/24#v20)**  *[[56:58](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=3418s)]*
 
@@ -399,38 +424,45 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 
 **[Psalms 50:16-22](/bible/psalms/50#v16)**  *[[1:17:07](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=4627s)]*
 
+- But unto the wicked God saith, what hast thou to do to declare my statutes, or that thou shouldest take my covenant in thy mouth? seeing thou hatest instruction, and castest my words behind thee. This whole passage is God speaking to the wicked.
+
 > <sup>[16](/bible/psalms/50#v16)</sup> But unto the wicked God saith, What hast thou to do to declare my statutes, or that thou shouldest take my covenant in thy mouth?
 >
 > <sup>[17](/bible/psalms/50#v17)</sup> Seeing thou hatest instruction, and castest my words behind thee.
 >
 > <sup>[18](/bible/psalms/50#v18)</sup> When thou sawest a thief, then thou consentedst with him, and hast been partaker with adulterers.
->
-> <sup>[19](/bible/psalms/50#v19)</sup> Thou givest thy mouth to evil, and thy tongue frameth deceit.
->
-> <sup>[20](/bible/psalms/50#v20)</sup> Thou sittest and speakest against thy brother; thou slanderest thine own mother’s son.
->
-> <sup>[21](/bible/psalms/50#v21)</sup> These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes.
->
-> <sup>[22](/bible/psalms/50#v22)</sup> Now consider this, ye that forget God, lest I tear you in pieces, and there be none to deliver.
 
-- But unto the wicked God saith, what hast thou to do to declare my statutes, or that thou shouldest take my covenant in thy mouth? seeing thou hatest instruction, and castest my words behind thee. This whole passage is God speaking to the wicked.
 - When thou sawest a thief, then thou consentedst with him: when Columbus went out, the European nations all gave consent: go conquer, colonize, take. The Berlin Conference carved Africa up in pieces: you take your piece, I take my piece. They all got together and stole together. And hast been partaker with adulterers.
+
+> <sup>[19](/bible/psalms/50#v19)</sup> Thou givest thy mouth to evil, and thy tongue frameth deceit.
+
 - Thou givest thy mouth to evil, and thy tongue frameth deceit: by law, through the judicial system, through the legislatures, through executive orders.
+
+> <sup>[20](/bible/psalms/50#v20)</sup> Thou sittest and speakest against thy brother; thou slanderest thine own mother’s son.
+
 - Thou sittest and speakest against thy brother; thou slanderest thine own mother's son: this is Esau and Jacob, Cain and Abel. They sit and slander us as the violent ones and the criminals. The class answered the slander with the record: most white murder victims die at the hands of other white people; and count the nuclear bombs dropped, the peoples and animals driven to extinction, Black Wall Street bombed, Rosewood burned down, Gaza bombed. The slander does not match the record.
+
 - Video answered in class: a commentator dismissed reparations, claiming white taxpayer dollars already fund EBT, DEI, and scholarships. The guest answered with numbers: white women are the main beneficiaries of DEI programs; over sixty percent of SNAP beneficiaries are white; over fifty percent of tax fraud is committed by whites; over eighty percent of tax cuts go to white families and about one percent to black families. That is thou sittest and speakest against thy brother; the class added that welfare programs stay in place because they are heavily used by the very people who slander us over them.
+
+> <sup>[21](/bible/psalms/50#v21)</sup> These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes.
+
 - These things hast thou done, and I kept silence: God allowed it, because we are in sin. Thou thoughtest that I was altogether such an one as thyself: because God sat back and allowed this man to conquer the earth by blood and warfare, he concludes that God is with him, that God looks like him, that Christ and the angels look like him, that everything good and divine is him. No. But I will reprove thee, and set them in order before thine eyes: and you are watching that order being set now.
+
 - Now consider this, ye that forget God, lest I tear you in pieces, and there be none to deliver.
+
+> <sup>[22](/bible/psalms/50#v22)</sup> Now consider this, ye that forget God, lest I tear you in pieces, and there be none to deliver.
 
 **[1 John 3:10-12](/bible/1-john/3#v10)**  *[[1:21:06](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=4866s)]*
 
 > <sup>[10](/bible/1-john/3#v10)</sup> In this the children of God are manifest, and the children of the devil: whosoever doeth not righteousness is not of God, neither he that loveth not his brother.
->
+
+- In this the children of God are manifest, and the children of the devil: the devil has children. That was Cain's children back then, and it is Esau's children today. Whosoever doeth not righteousness is not of God, neither he that loveth not his brother: did Cain love his brother? Does Esau?
+
+- For this is the message that ye heard from the beginning, that we should love one another. Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother's righteous.
+
 > <sup>[11](/bible/1-john/3#v11)</sup> For this is the message that ye heard from the beginning, that we should love one another.
 >
 > <sup>[12](/bible/1-john/3#v12)</sup> Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother’s righteous.
-
-- In this the children of God are manifest, and the children of the devil: the devil has children. That was Cain's children back then, and it is Esau's children today. Whosoever doeth not righteousness is not of God, neither he that loveth not his brother: did Cain love his brother? Does Esau?
-- For this is the message that ye heard from the beginning, that we should love one another. Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother's righteous.
 
 **[John 8:44](/bible/john/8#v44)**  *[[1:22:33](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=4953s)]*
 
@@ -464,48 +496,58 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 > <sup>[1](/bible/ezekiel/35#v1)</sup> Moreover the word of the Lord came unto me, saying,
 >
 > <sup>[2](/bible/ezekiel/35#v2)</sup> Son of man, set thy face against mount Seir, and prophesy against it,
->
+
+- Son of man, set thy face against mount Seir: Seir is Edom. Behold, O mount Seir, I am against thee; I will make thee most desolate; I will lay thy cities waste; and thou shalt know that I am the Lord.
+
 > <sup>[3](/bible/ezekiel/35#v3)</sup> And say unto it, Thus saith the Lord God; Behold, O mount Seir, I am against thee, and I will stretch out mine hand against thee, and I will make thee most desolate.
 >
 > <sup>[4](/bible/ezekiel/35#v4)</sup> I will lay thy cities waste, and thou shalt be desolate, and thou shalt know that I am the Lord.
 >
 > <sup>[5](/bible/ezekiel/35#v5)</sup> Because thou hast had a perpetual hatred, and hast shed the blood of the children of Israel by the force of the sword in the time of their calamity, in the time that their iniquity had an end:
 
-- Son of man, set thy face against mount Seir: Seir is Edom. Behold, O mount Seir, I am against thee; I will make thee most desolate; I will lay thy cities waste; and thou shalt know that I am the Lord.
 - Because thou hast had a perpetual hatred: the same word Amos used; Amos says his anger did tear perpetually, Ezekiel says a perpetual hatred. And hast shed the blood of the children of Israel by the force of the sword in the time of their calamity, in the time that their iniquity had an end: brought to modern time, the time our iniquity had an end points to the so-called emancipation. So what continued after it had an end? The class then read the record:
+
 - James Byrd Jr., 1998, Jasper, Texas: forty nine years old, walking home late at night, he accepted a ride from three white men in a pickup truck. They beat him, chained him by the ankles to the truck with a logging chain, and dragged him three miles along the asphalt; he was conscious for most of it, until he hit a culvert; they kept driving another mile and a half and dumped what was left in front of a black cemetery. The killers were white supremacists with Klan and Nazi tattoos who bragged about it afterward; two were sentenced to death and executed, and the driver's first parole eligibility is 2038. A modern lynching. Their hatred did tear perpetually.
+
 - Thomas Thistlewood, read in class: an Englishman who came to Savanna la Mar, Jamaica, in 1750 as a plantation overseer and later bought his own plantation. He kept a meticulous diary of ten to fourteen thousand pages documenting over thirty eight hundred rapes of over one hundred thirty eight enslaved women, branding, public whippings, starvation, a severed head kept on a pole, and the torture he named Derby's dose. He documented his own atrocities for over thirty six years until he died in 1786.
+
 - Mary Turner, May 1918, Valdosta, Georgia: after a plantation owner known for abusing his black workers was shot, white mobs began lynching black men without evidence; one was Hayes Turner. His wife Mary, twenty one years old and eight months pregnant, said publicly that she would press charges; the newspapers said she made unwise remarks. On May 19, 1918 the mob hung her upside down from a tree, set her on fire, cut her open so that her unborn child fell to the ground and was stomped to death, and shot her body dozens of times. Not one person was arrested or named; Georgia did not acknowledge her murder until a historical marker in 2008, ninety years later, and that marker has been shot at, vandalized, and torn down.
+
 - A fugitive and a vagabond in the earth: no one arrested, no one served time. That is Cain all over again; that is what the class means by we never learn who we are dealing with.
 
 **[Obadiah 1:1-10](/bible/obadiah/1#v1)**  *[[1:43:51](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=6231s)]*
 
 > <sup>[1](/bible/obadiah/1#v1)</sup> The vision of Obadiah. Thus saith the Lord God concerning Edom; We have heard a rumour from the Lord, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.
->
+
+- The vision of Obadiah. Thus saith the Lord God concerning Edom: behold, I have made thee small among the heathen: thou art greatly despised. The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock: that saith in his heart, who shall bring me down to the ground?
+
 > <sup>[2](/bible/obadiah/1#v2)</sup> Behold, I have made thee small among the heathen: thou art greatly despised.
 >
 > <sup>[3](/bible/obadiah/1#v3)</sup> The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall bring me down to the ground?
 >
 > <sup>[4](/bible/obadiah/1#v4)</sup> Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the Lord.
->
+
+- Though thou exalt thyself as the eagle: Edom's nations take the eagle for their symbol: Rome, Greece, Spain, France, Britain, Russia, America; a violent bird of prey that they themselves nearly killed off. And though thou set thy nest among the stars: he landed in space; the eagle has landed; now the space programs, the space force, the satellites.
+
+- Thence will I bring thee down, saith the Lord: once you reach that height, the bringing down begins. America is now officially two hundred fifty years old, inside its age of decadence, unraveling.
+
+- If thieves came to thee, would they not have stolen till they had enough? if the grapegatherers came, would they not leave some grapes? How are the things of Esau searched out! A thief takes enough and leaves; Esau takes everything: the house, the people inside the house, the land, the race, and the identity.
+
 > <sup>[5](/bible/obadiah/1#v5)</sup> If thieves came to thee, if robbers by night, (how art thou cut off!) would they not have stolen till they had enough? if the grapegatherers came to thee, would they not leave some grapes?
 >
 > <sup>[6](/bible/obadiah/1#v6)</sup> How are the things of Esau searched out! how are his hidden things sought up!
 >
 > <sup>[7](/bible/obadiah/1#v7)</sup> All the men of thy confederacy have brought thee even to the border: the men that were at peace with thee have deceived thee, and prevailed against thee; they that eat thy bread have laid a wound under thee: there is none understanding in him.
->
+
+- All the men of thy confederacy have brought thee even to the border: the men that were at peace with thee have deceived thee, and prevailed against thee. That is happening right now; eventually his own confederacy turns on him, as it did in the world wars.
+
+- Shall I not in that day destroy the wise men out of Edom, and understanding out of the mount of Esau? to the end that every one of the mount of Esau may be cut off by slaughter. For thy violence against thy brother Jacob shame shall cover thee, and thou shalt be cut off for ever. The judgment is written, and the charge on it is the violence against Jacob.
+
 > <sup>[8](/bible/obadiah/1#v8)</sup> Shall I not in that day, saith the Lord, even destroy the wise men out of Edom, and understanding out of the mount of Esau?
 >
 > <sup>[9](/bible/obadiah/1#v9)</sup> And thy mighty men, O Teman, shall be dismayed, to the end that every one of the mount of Esau may be cut off by slaughter.
 >
 > <sup>[10](/bible/obadiah/1#v10)</sup> For thy violence against thy brother Jacob shame shall cover thee, and thou shalt be cut off for ever.
-
-- The vision of Obadiah. Thus saith the Lord God concerning Edom: behold, I have made thee small among the heathen: thou art greatly despised. The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock: that saith in his heart, who shall bring me down to the ground?
-- Though thou exalt thyself as the eagle: Edom's nations take the eagle for their symbol: Rome, Greece, Spain, France, Britain, Russia, America; a violent bird of prey that they themselves nearly killed off. And though thou set thy nest among the stars: he landed in space; the eagle has landed; now the space programs, the space force, the satellites.
-- Thence will I bring thee down, saith the Lord: once you reach that height, the bringing down begins. America is now officially two hundred fifty years old, inside its age of decadence, unraveling.
-- If thieves came to thee, would they not have stolen till they had enough? if the grapegatherers came, would they not leave some grapes? How are the things of Esau searched out! A thief takes enough and leaves; Esau takes everything: the house, the people inside the house, the land, the race, and the identity.
-- All the men of thy confederacy have brought thee even to the border: the men that were at peace with thee have deceived thee, and prevailed against thee. That is happening right now; eventually his own confederacy turns on him, as it did in the world wars.
-- Shall I not in that day destroy the wise men out of Edom, and understanding out of the mount of Esau? to the end that every one of the mount of Esau may be cut off by slaughter. For thy violence against thy brother Jacob shame shall cover thee, and thou shalt be cut off for ever. The judgment is written, and the charge on it is the violence against Jacob.
 
 **[1 Peter 5:8](/bible/1-peter/5#v8)**  *[[1:47:30](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=6450s)]*
 
@@ -563,10 +605,10 @@ Reading from a commentary on the lion of 2 Timothy 4:17  *[[1:48:52](https://www
 **[Psalms 22:20-21](/bible/psalms/22#v20)**  *[[1:50:10](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=6610s)]*
 
 > <sup>[20](/bible/psalms/22#v20)</sup> Deliver my soul from the sword; my darling from the power of the dog.
->
-> <sup>[21](/bible/psalms/22#v21)</sup> Save me from the lion’s mouth: for thou hast heard me from the horns of the unicorns.
 
 - Deliver my soul from the sword; my darling from the power of the dog: the dog is the wicked elders of our own people. Save me from the lion's mouth: this is Christ on the cross. On that cross Christ is in the lion's mouth: the Roman, Edomite authority, with the evil ones of our own people who were in bed with that authority.
+
+> <sup>[21](/bible/psalms/22#v21)</sup> Save me from the lion’s mouth: for thou hast heard me from the horns of the unicorns.
 
 **[Revelation 12:3-10](/bible/revelation/12#v3)**  *[[1:51:09](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=6669s)]*
 
@@ -606,21 +648,24 @@ Reading from a commentary on the lion of 2 Timothy 4:17  *[[1:48:52](https://www
 **[Revelation 13:1-2](/bible/revelation/13#v1)**  *[[1:59:00](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=7140s)]*
 
 > <sup>[1](/bible/revelation/13#v1)</sup> And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
->
-> <sup>[2](/bible/revelation/13#v2)</sup> And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority.
 
 - And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns: the same dragon system from chapter 12, with crowns now on the horns, and upon his heads the name of blasphemy.
+
 - The beast was like unto a leopard: it took on the Greek doctrine, democracy, born in Greece; his feet were as the feet of a bear: Persia; and his mouth as the mouth of a lion: Babylon, and back to the devil again. This last empire incorporates all the ancient empires before it to strengthen itself; America became this powerful in only two hundred fifty years.
+
+> <sup>[2](/bible/revelation/13#v2)</sup> And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority.
+
 - And the dragon gave him his power, and his seat, and great authority: that is the source of the dominance. Not intelligence, not IQ: the dragon gave him his power, and he lives by the sword, exactly as the blessing of Genesis 27 said: the fatness of the earth, obtained by the sword.
 
 **[Ecclesiasticus 12:10-11](/bible/sirach/12#v10)**  *[[2:01:11](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=7271s)]*
 
 > <sup>[10](/bible/sirach/12#v10)</sup> Never trust thine enemy: for like as iron rusteth, so is his wickedness.
->
-> <sup>[11](/bible/sirach/12#v11)</sup> Though he humble himself, and go crouching, yet take good heed and beware of him, and thou shalt be unto him as if thou hadst wiped a lookingglass, and thou shalt know that his rust hath not been altogether wiped away.
 
 - Never trust thine enemy: for like as iron rusteth, so is his wickedness. As he was in the beginning, so is he now; he hides the rust for a season, but rust always comes back up through the surface, in any sword, over time.
+
 - James Byrd made that mistake. Trusted a car full of white folks and they dragged him to his death. Three miles. Then his head and arm come off and they drag him a mile and a half longer. Four and a half miles of being dragged to your death. You know how painful that is? You take your hand and rub it across the carpet fast. That burns. Imagine a street. Trying to hold his head up, trying to survive, his legs burn, his skin being torn off piece by piece. And you forgive that? Y'all is crazy, bro. Crazy. I'm sorry. Y'all crazy, man.
+
+> <sup>[11](/bible/sirach/12#v11)</sup> Though he humble himself, and go crouching, yet take good heed and beware of him, and thou shalt be unto him as if thou hadst wiped a lookingglass, and thou shalt know that his rust hath not been altogether wiped away.
 
 <div class="reading">
 
@@ -855,16 +900,19 @@ Reading from *Wars of the Jews*, page 195  *[[2:20:07](https://www.youtube.com/w
 **[Psalms 140:1-4](/bible/psalms/140#v1)**  *[[2:25:21](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=8721s)]*
 
 > <sup>[1](/bible/psalms/140#v1)</sup> Deliver me, O Lord, from the evil man: preserve me from the violent man;
->
-> <sup>[2](/bible/psalms/140#v2)</sup> Which imagine mischiefs in their heart; continually are they gathered together for war.
->
-> <sup>[3](/bible/psalms/140#v3)</sup> They have sharpened their tongues like a serpent; adders’ poison is under their lips. Selah.
->
-> <sup>[4](/bible/psalms/140#v4)</sup> Keep me, O Lord, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings.
 
 - Deliver me, O Lord, from the evil man: preserve me from the violent man. The Bible calls him the evil man, the violent man, the wicked: that is Edom.
+
+> <sup>[2](/bible/psalms/140#v2)</sup> Which imagine mischiefs in their heart; continually are they gathered together for war.
+
 - Which imagine mischiefs in their heart: to destroy, to take over lands and identities; continually are they gathered together for war.
+
+> <sup>[3](/bible/psalms/140#v3)</sup> They have sharpened their tongues like a serpent; adders’ poison is under their lips. Selah.
+
 - They have sharpened their tongues like a serpent; adders' poison is under their lips: propaganda, lies, whitewashed history, old books destroyed, false doctrines poured out.
+
+> <sup>[4](/bible/psalms/140#v4)</sup> Keep me, O Lord, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings.
+
 - Preserve me from the violent man, who have purposed to overthrow my goings: the same violence Christ described in Matthew 11:12.
 
 **[Matthew 22:7](/bible/matthew/22#v7)**  *[[2:26:28](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=8788s)]*
@@ -890,25 +938,29 @@ Reading from *Wars of the Jews*, page 195  *[[2:20:07](https://www.youtube.com/w
 
 **[2 Esdras 11:40-46](/bible/2-esdras/11#v40)**  *[[2:29:36](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=8976s)]*
 
+- The fourth came, and overcame all the beasts that were past, and held the world with great fearfulness, and over the whole compass of the earth with much wicked oppression. Under the Greeks and Romans it was the old world; as Spain, Portugal, France, and Britain he gained dominion over the fourth part of the earth, the Americas: the whole compass of the earth.
+
 > <sup>[40](/bible/2-esdras/11#v40)</sup> And the fourth came, and overcame all the beasts that were past, and had power over the world with great fearfulness, and over the whole compass of the earth with much wicked oppression; and so long time dwelt he upon the earth with deceit.
 >
 > <sup>[41](/bible/2-esdras/11#v41)</sup> For the earth hast thou not judged with truth.
->
+
+- For the earth hast thou not judged with truth: lies and corruption. Thou hast afflicted the meek, thou hast hurt the peaceable: the peaceable are the Native Americans, who meant him no harm; the same peaceable people Columbus reckoned fifty men could subjugate. Thou hast loved liars, going back to Psalms 50; and destroyed the dwellings of them that brought forth fruit, and hast cast down the walls of such as did thee no harm: the walls of Jerusalem, 70 AD.
+
 > <sup>[42](/bible/2-esdras/11#v42)</sup> For thou hast afflicted the meek, thou hast hurt the peaceable, thou hast loved liars, and destroyed the dwellings of them that brought forth fruit, and hast cast down the walls of such as did thee no harm.
 >
 > <sup>[43](/bible/2-esdras/11#v43)</sup> Therefore is thy wrongful dealing come up unto the Highest, and thy pride unto the Mighty.
 >
 > <sup>[44](/bible/2-esdras/11#v44)</sup> The Highest also hath looked upon the proud times, and, behold, they are ended, and his abominations are fulfilled.
->
-> <sup>[45](/bible/2-esdras/11#v45)</sup> And therefore appear no more, thou eagle, nor thy horrible wings, nor thy wicked feathers nor thy malicious heads, nor thy hurtful claws, nor all thy vain body:
->
-> <sup>[46](/bible/2-esdras/11#v46)</sup> That all the earth may be refreshed, and may return, being delivered from thy violence, and that she may hope for the judgment and mercy of him that made her.
 
-- The fourth came, and overcame all the beasts that were past, and held the world with great fearfulness, and over the whole compass of the earth with much wicked oppression. Under the Greeks and Romans it was the old world; as Spain, Portugal, France, and Britain he gained dominion over the fourth part of the earth, the Americas: the whole compass of the earth.
-- For the earth hast thou not judged with truth: lies and corruption. Thou hast afflicted the meek, thou hast hurt the peaceable: the peaceable are the Native Americans, who meant him no harm; the same peaceable people Columbus reckoned fifty men could subjugate. Thou hast loved liars, going back to Psalms 50; and destroyed the dwellings of them that brought forth fruit, and hast cast down the walls of such as did thee no harm: the walls of Jerusalem, 70 AD.
 - Therefore is thy wrongful dealing come up unto the Highest, and thy pride unto the Mighty. The Highest also hath looked upon the proud times: the injustices, the massacres renamed riots, the lynchings; and behold, they are ended, and his abominations are fulfilled. Your time is up; the times of the Gentiles are being fulfilled.
+
+> <sup>[45](/bible/2-esdras/11#v45)</sup> And therefore appear no more, thou eagle, nor thy horrible wings, nor thy wicked feathers nor thy malicious heads, nor thy hurtful claws, nor all thy vain body:
+
 - And therefore appear no more, thou eagle: the same eagle from Obadiah that exalted itself and set its nest among the stars. Nor thy horrible wings: his kind; nor thy wicked feathers: the European powers; nor thy malicious heads: the leaders; nor thy hurtful claws: the military; nor all thy vain body.
+
 - That all the earth may be refreshed, and may return, being delivered from thy violence, and that she may hope for the judgment and mercy of him that made her. And with that the class closed: twelve tribes.
+
+> <sup>[46](/bible/2-esdras/11#v46)</sup> That all the earth may be refreshed, and may return, being delivered from thy violence, and that she may hope for the judgment and mercy of him that made her.
 
 ## Announcements & References
 

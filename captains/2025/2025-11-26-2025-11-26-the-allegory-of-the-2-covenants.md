@@ -31,20 +31,20 @@ tags: ["15 Minutes w/ The Captains", "captivity", "purpose", "the-law"]
 **[Genesis 16:1-4](/bible/genesis/16#v1)**  *[[1:18](https://www.youtube.com/watch?v=eEyHglgYQJM&t=78s)]*
 
 > <sup>[1](/bible/genesis/16#v1)</sup> Now Sarai Abram’s wife bare him no children: and she had an handmaid, an Egyptian, whose name was Hagar.
->
-> <sup>[2](/bible/genesis/16#v2)</sup> And Sarai said unto Abram, Behold now, the Lord hath restrained me from bearing: I pray thee, go in unto my maid; it may be that I may obtain children by her. And Abram hearkened to the voice of Sarai.
->
-> <sup>[3](/bible/genesis/16#v3)</sup> And Sarai Abram’s wife took Hagar her maid the Egyptian, after Abram had dwelt ten years in the land of Canaan, and gave her to her husband Abram to be his wife.
->
-> <sup>[4](/bible/genesis/16#v4)</sup> And he went in unto Hagar, and she conceived: and when she saw that she had conceived, her mistress was despised in her eyes.
 
 - and she had an handmaid, an Egyptian, whose name was Hagar: so remember, it said he had a son by a bondmaid. Hagar was a handmaid to his wife.
+
+> <sup>[2](/bible/genesis/16#v2)</sup> And Sarai said unto Abram, Behold now, the Lord hath restrained me from bearing: I pray thee, go in unto my maid; it may be that I may obtain children by her. And Abram hearkened to the voice of Sarai.
 
 - I pray thee, go in unto my maid: go in unto my maid.
 
 - it may be that I may obtain children by her: so now if you go into her, I can obtain children by her.
 
+> <sup>[3](/bible/genesis/16#v3)</sup> And Sarai Abram’s wife took Hagar her maid the Egyptian, after Abram had dwelt ten years in the land of Canaan, and gave her to her husband Abram to be his wife.
+
 - took Hagar her maid the Egyptian: her maid, her bondmaid.
+
+> <sup>[4](/bible/genesis/16#v4)</sup> And he went in unto Hagar, and she conceived: and when she saw that she had conceived, her mistress was despised in her eyes.
 
 - And he went in unto Hagar: he did what? He went in unto Hagar.
 
@@ -54,14 +54,14 @@ tags: ["15 Minutes w/ The Captains", "captivity", "purpose", "the-law"]
 **[Genesis 16:11-12](/bible/genesis/16#v11)**  *[[2:38](https://www.youtube.com/watch?v=eEyHglgYQJM&t=158s)]*
 
 > <sup>[11](/bible/genesis/16#v11)</sup> And the angel of the Lord said unto her, Behold, thou art with child, and shalt bear a son, and shalt call his name Ishmael; because the Lord hath heard thy affliction.
->
-> <sup>[12](/bible/genesis/16#v12)</sup> And he will be a wild man; his hand will be against every man, and every man’s hand against him; and he shall dwell in the presence of all his brethren.
 
 - Behold, thou art with child: right. So Hagar is pregnant now. So Hagar, you're with child.
 
 - and shalt call his name Ishmael: and you shall call his name Ishmael.
 
 - because the Lord hath heard thy affliction: right. That's what Ishmael means. Affliction heard. Affliction heard.
+
+> <sup>[12](/bible/genesis/16#v12)</sup> And he will be a wild man; his hand will be against every man, and every man’s hand against him; and he shall dwell in the presence of all his brethren.
 
 - And he will be a wild man: he will be a wild man.
 
@@ -89,16 +89,6 @@ tags: ["15 Minutes w/ The Captains", "captivity", "purpose", "the-law"]
 > <sup>[15](/bible/genesis/17#v15)</sup> And God said unto Abraham, As for Sarai thy wife, thou shalt not call her name Sarai, but Sarah shall her name be.
 >
 > <sup>[16](/bible/genesis/17#v16)</sup> And I will bless her, and give thee a son also of her: yea, I will bless her, and she shall be a mother of nations; kings of people shall be of her.
->
-> <sup>[17](/bible/genesis/17#v17)</sup> Then Abraham fell upon his face, and laughed, and said in his heart, Shall a child be born unto him that is an hundred years old? and shall Sarah, that is ninety years old, bear?
->
-> <sup>[18](/bible/genesis/17#v18)</sup> And Abraham said unto God, O that Ishmael might live before thee!
->
-> <sup>[19](/bible/genesis/17#v19)</sup> And God said, Sarah thy wife shall bear thee a son indeed; and thou shalt call his name Isaac: and I will establish my covenant with him for an everlasting covenant, and with his seed after him.
->
-> <sup>[20](/bible/genesis/17#v20)</sup> And as for Ishmael, I have heard thee: Behold, I have blessed him, and will make him fruitful, and will multiply him exceedingly; twelve princes shall he beget, and I will make him a great nation.
->
-> <sup>[21](/bible/genesis/17#v21)</sup> But my covenant will I establish with Isaac, which Sarah shall bear unto thee at this set time in the next year.
 
 - and give thee a son also of her: so I will bless you and give you a son of her.
 
@@ -106,7 +96,13 @@ tags: ["15 Minutes w/ The Captains", "captivity", "purpose", "the-law"]
 
 - kings of people shall be of her: that's interesting. It says, Kings of people shall be of her, but she only had Isaac. Okay.
 
+> <sup>[17](/bible/genesis/17#v17)</sup> Then Abraham fell upon his face, and laughed, and said in his heart, Shall a child be born unto him that is an hundred years old? and shall Sarah, that is ninety years old, bear?
+>
+> <sup>[18](/bible/genesis/17#v18)</sup> And Abraham said unto God, O that Ishmael might live before thee!
+
 - O that Ishmael might live before thee: so, I'm a hundred, my wife is 90. Like, really? We gonna have children? Lord, I got Ishmael already. I dealt with Hagar. Ishmael is here. Let him be your son.
+
+> <sup>[19](/bible/genesis/17#v19)</sup> And God said, Sarah thy wife shall bear thee a son indeed; and thou shalt call his name Isaac: and I will establish my covenant with him for an everlasting covenant, and with his seed after him.
 
 - Sarah thy wife shall bear thee a son indeed: Sarah, your wife, shall bear you a son indeed.
 
@@ -114,7 +110,11 @@ tags: ["15 Minutes w/ The Captains", "captivity", "purpose", "the-law"]
 
 - for an everlasting covenant, and with his seed after him: so now, an everlasting covenant with him and his seed after him.
 
+> <sup>[20](/bible/genesis/17#v20)</sup> And as for Ishmael, I have heard thee: Behold, I have blessed him, and will make him fruitful, and will multiply him exceedingly; twelve princes shall he beget, and I will make him a great nation.
+
 - and I will make him a great nation: so Ishmael, I'm gonna take care of him. He gonna be all right.
+
+> <sup>[21](/bible/genesis/17#v21)</sup> But my covenant will I establish with Isaac, which Sarah shall bear unto thee at this set time in the next year.
 
 - But my covenant will I establish with Isaac: but my covenant I'm going to establish with Isaac.
 
@@ -124,12 +124,12 @@ tags: ["15 Minutes w/ The Captains", "captivity", "purpose", "the-law"]
 **[Galatians 4:22-23](/bible/galatians/4#v22)**  *[[6:28](https://www.youtube.com/watch?v=eEyHglgYQJM&t=388s)]*
 
 > <sup>[22](/bible/galatians/4#v22)</sup> For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman.
->
-> <sup>[23](/bible/galatians/4#v23)</sup> But he who was of the bondwoman was born after the flesh; but he of the freewoman was by promise.
 
 - the one by a bondmaid: Hagar.
 
 - the other by a freewoman: so the other he had by a free woman, which was who? Sarah was the mother and Isaac was the son.
+
+> <sup>[23](/bible/galatians/4#v23)</sup> But he who was of the bondwoman was born after the flesh; but he of the freewoman was by promise.
 
 - But he who was of the bondwoman was born after the flesh: now what does it mean, after the flesh? Why? Because Sarah couldn't have a child. So she said, Oh, take Hagar and go in unto her. That way I can have children by her.
 
@@ -175,12 +175,12 @@ tags: ["15 Minutes w/ The Captains", "captivity", "purpose", "the-law"]
 **[Galatians 4:23-24](/bible/galatians/4#v23)**  *[[9:48](https://www.youtube.com/watch?v=eEyHglgYQJM&t=588s)]*
 
 > <sup>[23](/bible/galatians/4#v23)</sup> But he who was of the bondwoman was born after the flesh; but he of the freewoman was by promise.
->
-> <sup>[24](/bible/galatians/4#v24)</sup> Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.
 
 - But he who was of the bondwoman was born after the flesh: that's Ishmael.
 
 - but he of the freewoman was by promise: that's Isaac. Watch this.
+
+> <sup>[24](/bible/galatians/4#v24)</sup> Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.
 
 - Which things are an allegory: so now, which goes back to the topic of the lesson. These things, that history, everything that happened in Genesis that we read in chapter 16, chapter 17, Hagar having Ishmael and the Lord promising Sarah to have Isaac, that was an allegory.
 
@@ -214,20 +214,20 @@ tags: ["15 Minutes w/ The Captains", "captivity", "purpose", "the-law"]
 **[Numbers 28:3-6](/bible/numbers/28#v3)**  *[[12:58](https://www.youtube.com/watch?v=eEyHglgYQJM&t=778s)]*
 
 > <sup>[3](/bible/numbers/28#v3)</sup> And thou shalt say unto them, This is the offering made by fire which ye shall offer unto the Lord; two lambs of the first year without spot day by day, for a continual burnt offering.
->
-> <sup>[4](/bible/numbers/28#v4)</sup> The one lamb shalt thou offer in the morning, and the other lamb shalt thou offer at even;
->
-> <sup>[5](/bible/numbers/28#v5)</sup> And a tenth part of an ephah of flour for a meat offering, mingled with the fourth part of an hin of beaten oil.
->
-> <sup>[6](/bible/numbers/28#v6)</sup> It is a continual burnt offering, which was ordained in mount Sinai for a sweet savour, a sacrifice made by fire unto the Lord.
 
 - This is the offering made by fire which ye shall offer unto the Lord: this is an example of the scriptures when it says it gendereth to bondage. Which you shall offer to the Lord.
 
 - without spot day by day, for a continual burnt offering: day by day. For what? You see that? Day by day, for a continual burnt offering. Bondage.
 
+> <sup>[4](/bible/numbers/28#v4)</sup> The one lamb shalt thou offer in the morning, and the other lamb shalt thou offer at even;
+
 - The one lamb shalt thou offer in the morning: so the one you offer in the morning.
 
 - and the other lamb shalt thou offer at even: now you got to come back and offer another one at evening.
+
+> <sup>[5](/bible/numbers/28#v5)</sup> And a tenth part of an ephah of flour for a meat offering, mingled with the fourth part of an hin of beaten oil.
+>
+> <sup>[6](/bible/numbers/28#v6)</sup> It is a continual burnt offering, which was ordained in mount Sinai for a sweet savour, a sacrifice made by fire unto the Lord.
 
 - which was ordained in mount Sinai: in where? This continual burnt offering was ordained in Mount Sinai.
 
@@ -327,14 +327,14 @@ tags: ["15 Minutes w/ The Captains", "captivity", "purpose", "the-law"]
 **[Galatians 4:25-26](/bible/galatians/4#v25)**  *[[22:15](https://www.youtube.com/watch?v=eEyHglgYQJM&t=1335s)]*
 
 > <sup>[25](/bible/galatians/4#v25)</sup> For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children.
->
-> <sup>[26](/bible/galatians/4#v26)</sup> But Jerusalem which is above is free, which is the mother of us all.
 
 - For this Agar is mount Sinai in Arabia: right? You had Israelites that still kept the covenant of animal sacrifice, living in Arabia.
 
 - and answereth to Jerusalem: and they came back to Jerusalem to offer those offerings. Just like we read in Acts chapter 2, they were coming to keep the feast of Pentecost there.
 
 - which now is, and is in bondage with her children: why does it say which now is, and is in bondage with her children? Because the Israelites in Jerusalem also were still doing that. Remember, that goes back to Acts 15. You had certain brothers coming in trying to put that yoke back on the apostles and the people. They were still under that bondage. They didn't have the understanding of Christ yet.
+
+> <sup>[26](/bible/galatians/4#v26)</sup> But Jerusalem which is above is free, which is the mother of us all.
 
 - But Jerusalem which is above is free: but that same Jerusalem that I just spoke about, that's in bondage, Paul says she's free. She's free from the covenant of animal sacrifice.
 
@@ -344,14 +344,14 @@ tags: ["15 Minutes w/ The Captains", "captivity", "purpose", "the-law"]
 **[Hebrews 10:5-7](/bible/hebrews/10#v5)**  *[[23:31](https://www.youtube.com/watch?v=eEyHglgYQJM&t=1411s)]*
 
 > <sup>[5](/bible/hebrews/10#v5)</sup> Wherefore when he cometh into the world, he saith, Sacrifice and offering thou wouldest not, but a body hast thou prepared me:
->
-> <sup>[6](/bible/hebrews/10#v6)</sup> In burnt offerings and sacrifices for sin thou hast had no pleasure.
->
-> <sup>[7](/bible/hebrews/10#v7)</sup> Then said I, Lo, I come (in the volume of the book it is written of me,) to do thy will, O God.
 
 - but a body hast thou prepared me: just to jump on that about us being free. See that? The Lord didn't want sacrifices no more, but he brought Christ onto the scene.
 
+> <sup>[6](/bible/hebrews/10#v6)</sup> In burnt offerings and sacrifices for sin thou hast had no pleasure.
+
 - In burnt offerings and sacrifices for sin thou hast had no pleasure: right? The Lord didn't want that no more.
+
+> <sup>[7](/bible/hebrews/10#v7)</sup> Then said I, Lo, I come (in the volume of the book it is written of me,) to do thy will, O God.
 
 
 **[Hebrews 9:28](/bible/hebrews/9#v28)**  *[[24:16](https://www.youtube.com/watch?v=eEyHglgYQJM&t=1456s)]*

@@ -314,14 +314,14 @@ tags: ["IUIC in the ClassRoom", "angels", "leadership", "sexual-purity", "the-bo
 **[Malachi 2:16-17](/bible/malachi/2#v16)**  *[[2:38:03](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=9483s)]*
 
 > <sup>[16](/bible/malachi/2#v16)</sup> For the Lord, the God of Israel, saith that he hateth putting away: for one covereth violence with his garment, saith the Lord of hosts: therefore take heed to your spirit, that ye deal not treacherously.
->
-> <sup>[17](/bible/malachi/2#v17)</sup> Ye have wearied the Lord with your words. Yet ye say, Wherein have we wearied him? When ye say, Every one that doeth evil is good in the sight of the Lord, and he delighteth in them; or, Where is the God of judgment?
 
 - The Lord, the God of Israel, saith that he hateth putting away: the priests were putting away their wives and the prophet had to check them. For one covereth violence with his garment. Violence is violation, and the garment is Matthew 23:5, the Pharisees who sit in Moses' seat, say and do not, bind heavy burdens, and enlarge the borders of their garments; the borders carry the fringes, and the fringes represent the laws. A man who did evil and then uses a failsafe law to tell the sister they are correct has covered his violence with his garment. Therefore take heed to your spirit, that ye deal not treacherously.
 
 - Ye have wearied the Lord with your words, yet ye say, Wherein have we wearied him? We have Exodus 22:16, it is in the Bible. Deuteronomy 24:1: when a man hath taken a wife and she find no favour in his eyes because he hath found some uncleanness in her, burnt eggs, shoes in the wrong place, he writes her a bill of divorcement, and the grounds go on the paper in her hand for the next man to see. When ye say, every one that doeth evil is good in the sight of the Lord: you weary the Lord by saying the enticement was by the Bible, using his words against righteousness to take the daughter from the father. In my own house, violate me on that level and I never want to see you again.
 
 - This is a warning: do not get caught with any more foolishness; we are not playing. On all the IUIC groups the front-porch standard will be instituted, tested and proven. No more backdoor marriages, no covering the violence of enticing a daughter away from her protection with a garment of long Pharisee fringes. Part two next week.
+
+> <sup>[17](/bible/malachi/2#v17)</sup> Ye have wearied the Lord with your words. Yet ye say, Wherein have we wearied him? When ye say, Every one that doeth evil is good in the sight of the Lord, and he delighteth in them; or, Where is the God of judgment?
 
 
 *[[2:45:13](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=9913s)]* **In The News: A bill of divorce with its grounds: fraud, adultery, abandonment.** — The reason goes on the paper put in her hand so the next man knows why she is not with her husband. Play games and you get stained with that.

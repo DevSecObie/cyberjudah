@@ -113,24 +113,6 @@ Reading from Definition of Egypt, out of a dictionary, p. 183 (read on screen)  
 
 **[Luke 1:67-75](/bible/luke/1#v67)**  *[[38:34](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=2314s)]*
 
-> <sup>[67](/bible/luke/1#v67)</sup> And his father Zacharias was filled with the Holy Ghost, and prophesied, saying,
->
-> <sup>[68](/bible/luke/1#v68)</sup> Blessed be the Lord God of Israel; for he hath visited and redeemed his people,
->
-> <sup>[69](/bible/luke/1#v69)</sup> And hath raised up an horn of salvation for us in the house of his servant David;
->
-> <sup>[70](/bible/luke/1#v70)</sup> As he spake by the mouth of his holy prophets, which have been since the world began:
->
-> <sup>[71](/bible/luke/1#v71)</sup> That we should be saved from our enemies, and from the hand of all that hate us;
->
-> <sup>[72](/bible/luke/1#v72)</sup> To perform the mercy promised to our fathers, and to remember his holy covenant;
->
-> <sup>[73](/bible/luke/1#v73)</sup> The oath which he sware to our father Abraham,
->
-> <sup>[74](/bible/luke/1#v74)</sup> That he would grant unto us, that we being delivered out of the hand of our enemies might serve him without fear,
->
-> <sup>[75](/bible/luke/1#v75)</sup> In holiness and righteousness before him, all the days of our life.
-
 - The willful neglect of our shepherds and pastors: So, now we getting ready to get into it. The willful neglect of our shepherds and pastors. That's what today's title is. The willful neglect of our shepherds. They are willfully neglectful of properly shepherding and pastoring the 12 tribes of Israel. It's a willful neglect. They turn their back. They turn their eyes the other way. They're acting in perfect concert with the oppressor to make sure that we stay destroyed. Y'all all right? We going to play this thumbnail in a minute. We see the huge deliberate policies that lead to our despair and hopelessness. These policies guarantee the racial disparities that we can read about almost everywhere we go, in community centers and hospitals and clinics, especially in the inner cities. They all have statistics posted right there on their bulletin boards posted inside. So it is no mystery about what we are being subjected to. I lived in the city. I know New York. I was born in New York. I've been in New York many, many years. I've seen how the city deals. I've seen all that stuff. And y'all gonna find it out in this class here. All right.
 
 - Two standards of justice: Furthermore, we definitely see that there are two standards of justice, or rather I should say just us. Can you dig it? That's in this country. And the resources that our people need, especially in the inner cities, are not really readily available to our people in the cities. I know this. I've worked in a city for decades. I've seen the disparities on how our people are dealt with in New York particularly. I've seen how our people get treated, especially when they go in the clinics, hospitals, all of that. Seen them in all levels. Our people getting the short end of the stick on all kinds of levels, y'all. All right. So the resources that our people need are not really available to them. So, we're supposed to, as leaders and preachers, if you will, we're supposed to see these disparities and we're supposed to see these injustices and organize the community to solve our own problems. That's what a pastor is supposed to do. That's what a leader is supposed to do. We're supposed to look out and organize the people in righteousness to take them away from the very things that's harming them. The breaking of God's laws that's killing us. Our mothers, unwed mothers, the drugs, the alcohol, all of these things are tearing our people up. And you have leaders that's right there, a church right around the corner that's not even dealing with no level of that at all. Just collecting their tithes, which is not even biblical. That's showing you again, it's an outpost. It's a religious outpost, but I dare to say it's a military outpost, because the actions against us is definitely militaristic.
@@ -143,23 +125,41 @@ Reading from Definition of Egypt, out of a dictionary, p. 183 (read on screen)  
 
 - A prophecy about the captive Israelites: Y'all all right? Give me the Bible. Luke chapter 1 verse 67. We're going to read to 75. I'm going to go through this kind of quick because again I'm going to get to the stuff. I ain't going to just ramble through it. A prophecy about the captive Israelites. That's us in these ghettos, in these inner cities. Even in the rural cities, our brothers and sisters are catching hell. Our people are all over the planet Earth catching hell. But I'm going to direct my attention to the city life, so to speak. Y'all all right? A little bit, because what's going on in the city is going on in the rural areas of this society as well. Okay. I remember I was listening to an interview by Chuck D, actually, you know, Public Enemy. They was going out to Rikers Island and he just made, it was a one-liner, and he said what's going on in the prisons is just basically another method of what they do here in society. The different things that people do in society to make money, exchange, you know, the barter systems and all of the things that we do out here, gambling, you know, have a currency, all of that, they have the same kind of system in prison as well. So, everywhere we go, we have that same kind of system, whether it's in prison, whether it's in the society, whether it's in the inner city, or even if it's in the rural south, as they would say. Y'all all right? Okay. Read 67.
 
+> <sup>[67](/bible/luke/1#v67)</sup> And his father Zacharias was filled with the Holy Ghost, and prophesied, saying,
+
 - And his father Zacharias was filled with the Holy Ghost, and prophesied: This is John the Baptist's father. Come on.
+
+> <sup>[68](/bible/luke/1#v68)</sup> Blessed be the Lord God of Israel; for he hath visited and redeemed his people,
 
 - Blessed be the Lord God of Israel; for he hath visited and redeemed his people: So our people are going to be delivered. The psychological and the mental trauma and all of the things that we suffer. The Most High is going to resurrect our people. That's the reason why we are in the ghettos. That's the reason why we're in the train stations. That's the reason why we on the streets. We're talking to our brothers. We're on the streets, at the bus stops. All of that, everywhere. We going to see us. We going to be out there dealing. Come on, read.
 
+> <sup>[69](/bible/luke/1#v69)</sup> And hath raised up an horn of salvation for us in the house of his servant David;
+
 - And hath raised up an horn of salvation for us: The horn is Christ. Has raised up an horn of salvation. Go ahead.
 
+> <sup>[70](/bible/luke/1#v70)</sup> As he spake by the mouth of his holy prophets, which have been since the world began:
+
 - As he spake by the mouth of his holy prophets: That's what the preacher is supposed to be doing. The preachers ain't saying nothing like this at all. The mouth of his holy prophets is not coming out of those cemeteries called churches. They ain't coming out of there. In other words, dead bones in there. Read that verse again.
+
+> <sup>[71](/bible/luke/1#v71)</sup> That we should be saved from our enemies, and from the hand of all that hate us;
 
 - That we should be saved from our enemies: That's the gospel. That we should be saved from our enemies. Ain't none of these witch covens saying that to the people, brothers and sisters. They don't even know who their enemies are. They're being taken advantage and robbed daily. Even when they're not in church, they're being robbed by a messed up mind that was given to them on Sunday. They get enough dope juice on Sunday to come back home and be doped up the whole week off a doctrine that's against their own selves. They practice self-destruction all week long and get re-energized on Sunday again with more demons. That's what's going on in these so-called churches. Read.
 
 - And from the hand of all that hate us: That's the gospel, that we are looking to be redeemed and we're looking to be saved from the hand of our enemies and from the hand of all that hate us. So, don't let anybody tell you that you're in a hate group or anything like that simply because you're asking what I would call racist questions, which there ain't no such thing. If you're questioning the racism you live in, how in the world is that a racist question? Like, you can't ask it. You're the victims of the very thing that's happening to you, but yet you can't ask questions about it. You're feeling the effects of it, but like I said, it's because they taking things from your backside. You don't see them. But when you say, "Hey, somebody just robbed me," they say, "Oh, you're paranoid. You ain't feeling nothing, such and such." You feel it, and you can ask about it. Somebody telling you you can't ask about it. You can ask about it. You can inquire. And that's what real leaders are supposed to do. We're supposed to seek out the things that seem to be covert, the things that nobody's talking about. We going to dig into those things and see how they using those things against our people. Read.
 
+> <sup>[72](/bible/luke/1#v72)</sup> To perform the mercy promised to our fathers, and to remember his holy covenant;
+
 - To perform the mercy promised to our fathers, and to remember his holy covenant: That's what we looking for, for the Lord to remember his holy covenant with us. But our people need to be told the truth. They need to be waken up to let them know that they themselves are of the covenant of God. These churches are making sure that they stay severed from that understanding. Read.
+
+> <sup>[73](/bible/luke/1#v73)</sup> The oath which he sware to our father Abraham,
+>
+> <sup>[74](/bible/luke/1#v74)</sup> That he would grant unto us, that we being delivered out of the hand of our enemies might serve him without fear,
 
 - That he would grant unto us, that we being delivered: You notice how personal this sounds? You notice how possessive these verses sound? That he may grant unto us, not everybody, unto us. Go ahead. That we being delivered. Not everybody, we being delivered. Let me show how crazy this thing is. How in the world could everybody be the people of God, but yet you asking for deliverance? What in the hell are you asking for deliverance from? If everybody's the people of God, you talking about, I'm looking to be saved. Saved from what? You got to be saved. Just like the Bible said, saved from the hand of those that seek our hurt, to be delivered from our enemies. Like Deuteronomy said, we were sold unto our enemies. That's who we're looking to be saved from. And saved has a D on the end, which means past tense. Ain't nobody saved yet. He that endureth until the end, the same shall be saved. So, we still have work to do. We still have a fight to do, y'all. All right, read on.
 
 - Might serve him without fear: That we might serve our God without fear. Read on.
+
+> <sup>[75](/bible/luke/1#v75)</sup> In holiness and righteousness before him, all the days of our life.
 
 - In holiness: In holiness. This is what we're looking to do. Do you realize that a church is supposed to be setting this kind of thing up for the people to feel free? Not pseudo freedom. Not the kind of freedom that they really don't really feel free, but they act like they free, knowing damn well they still go back home to the same problems, the same issues. Nothing's changed at all. It's a facade. Read that last verse again. 75.
 
@@ -169,22 +169,22 @@ Reading from Definition of Egypt, out of a dictionary, p. 183 (read on screen)  
 **[Habakkuk 3:11-14](/bible/habakkuk/3#v11)**  *[[45:47](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=2747s)]*
 
 > <sup>[11](/bible/habakkuk/3#v11)</sup> The sun and moon stood still in their habitation: at the light of thine arrows they went, and at the shining of thy glittering spear.
->
-> <sup>[12](/bible/habakkuk/3#v12)</sup> Thou didst march through the land in indignation, thou didst thresh the heathen in anger.
->
-> <sup>[13](/bible/habakkuk/3#v13)</sup> Thou wentest forth for the salvation of thy people, even for salvation with thine anointed; thou woundedst the head out of the house of the wicked, by discovering the foundation unto the neck. Selah.
->
-> <sup>[14](/bible/habakkuk/3#v14)</sup> Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing was as to devour the poor secretly.
 
 - At the shining of thy glittering spear: Give me Habakkuk chapter 3. Read verse 11. Moving on. This is when Christ comes back to save us. He getting ready to destroy our enemies at the sight of that glittering spear, of bombs that he's going to bring, them nuclear weapons. Those heavenly weapons that's going to be amplified by Christ's power to completely make straight riddance of our enemies. And we going to see that destruction while we being delivered. But we got to hold on, brothers. Read on verse 12.
 
+> <sup>[12](/bible/habakkuk/3#v12)</sup> Thou didst march through the land in indignation, thou didst thresh the heathen in anger.
+
 - Thou didst thresh the heathen in anger: That's what the Lord going to do. And we're looking for that thing, to be saved from our enemies. These kind of actions need to be done. This is what the gospel is supposed to bring to us. Read on.
+
+> <sup>[13](/bible/habakkuk/3#v13)</sup> Thou wentest forth for the salvation of thy people, even for salvation with thine anointed; thou woundedst the head out of the house of the wicked, by discovering the foundation unto the neck. Selah.
 
 - Thou wentest forth for the salvation of thy people: The Lord went forth for the salvation of his people. Not everybody, the Israelites. Come on.
 
 - Even for salvation with thine anointed: Thine anointed is the Israelites. That's what the real Christians are. The Israelites. That's what anointed, the anointed people of Christ. Christians, the real Christians. Go ahead.
 
 - Thou woundedst the head out of the house of the wicked: The Most High going to put our enemies to death. Come on.
+
+> <sup>[14](/bible/habakkuk/3#v14)</sup> Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing was as to devour the poor secretly.
 
 - They came out as a whirlwind to scatter me: They all going to come together like they're going to take Christ down. All for the fact of trying to keep us in bondage. I want you to really understand what their mobilization to fight against Christ is about. It is to make sure that Christ do not do what he say he going to do, is to relieve his enemies of their slaves. That's what the fight is about. They don't want Christ to redeem us. That's why they lie about Christ. That's what this whole Christianity is about. They tell you that the Christianity is about the Bible by showing you your own Bible, so to speak, but then they lie on it. And you think the lies is the truth. That's deception. Read that statement again.
 
@@ -215,10 +215,10 @@ Reading from Definition of Egypt, out of a dictionary, p. 183 (read on screen)  
 **[Habakkuk 3:15-16](/bible/habakkuk/3#v15)**  *[[52:19](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=3139s)]*
 
 > <sup>[15](/bible/habakkuk/3#v15)</sup> Thou didst walk through the sea with thine horses, through the heap of great waters.
->
-> <sup>[16](/bible/habakkuk/3#v16)</sup> When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he cometh up unto the people, he will invade them with his troops.
 
 - Thou didst walk through the sea with thine horses, through the heap of great waters: He mean he going to walk through the nations, their governments, their cities and all that. That's what he's talking about when he says through their horses, through their military, through their great waters, through the nations. The Most High, Christ and the angels are going to walk and tear this whole system up. Go ahead.
+
+> <sup>[16](/bible/habakkuk/3#v16)</sup> When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he cometh up unto the people, he will invade them with his troops.
 
 - When I heard, my belly trembled: When Habakkuk heard, when he was getting this revelation that the Most High was showing him, what he said when he heard what? My belly trembled. He was shaking in his stomach. You know how you can be so nervous and sick? How many of y'all gotten so sick and you feel like throwing up? Really upset, cuz the thoughts be that heavy. Read that again. All of a sudden you got to go to the bathroom. Y'all know what I'm talking about.
 
@@ -236,16 +236,16 @@ Reading from Definition of Egypt, out of a dictionary, p. 183 (read on screen)  
 **[Psalms 72:1-4](/bible/psalms/72#v1)**  *[[55:13](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=3313s)]*
 
 > <sup>[1](/bible/psalms/72#v1)</sup> Give the king thy judgments, O God, and thy righteousness unto the king’s son.
->
-> <sup>[2](/bible/psalms/72#v2)</sup> He shall judge thy people with righteousness, and thy poor with judgment.
->
-> <sup>[3](/bible/psalms/72#v3)</sup> The mountains shall bring peace to the people, and the little hills, by righteousness.
->
-> <sup>[4](/bible/psalms/72#v4)</sup> He shall judge the poor of the people, he shall save the children of the needy, and shall break in pieces the oppressor.
 
 - Give the king thy judgments, O God: Give me Psalm 72. We coming on down the line. Psalm 72, give me verse 1 to 4.
 
+> <sup>[2](/bible/psalms/72#v2)</sup> He shall judge thy people with righteousness, and thy poor with judgment.
+
 - He shall judge thy people with righteousness: The Most High is going to judge his people. So, we better be in the right space when Christ comes back. We better be getting ourselves prepared today. Right now. Go ahead. This ain't the time to be fainting. No, this ain't the time. The Most High is bringing it down. Read.
+
+> <sup>[3](/bible/psalms/72#v3)</sup> The mountains shall bring peace to the people, and the little hills, by righteousness.
+>
+> <sup>[4](/bible/psalms/72#v4)</sup> He shall judge the poor of the people, he shall save the children of the needy, and shall break in pieces the oppressor.
 
 - He shall save the children of the needy: He going to save all our people that's in total despair in these inner cities, in the rural countries, all over the planet earth. The Most High is going to have mercy, like he said in Isaiah the 14th chapter. For the Lord will have mercy on Jacob. We need mercy, brothers and sisters. Okay, read that statement again.
 
@@ -281,12 +281,12 @@ Reading from Definition of Egypt, out of a dictionary, p. 183 (read on screen)  
 **[Isaiah 60:1-2](/bible/isaiah/60#v1)**  *[[1:03:39](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=3819s)]*
 
 > <sup>[1](/bible/isaiah/60#v1)</sup> Arise, shine; for thy light is come, and the glory of the Lord is risen upon thee.
->
-> <sup>[2](/bible/isaiah/60#v2)</sup> For, behold, the darkness shall cover the earth, and gross darkness the people: but the Lord shall arise upon thee, and his glory shall be seen upon thee.
 
 - Arise, shine; for thy light is come: Give me Isaiah chapter 60 verse 1 and 2. We moving on down the line. This is the message that we're telling our brothers and sisters right there in the ghettos. Right there in New York City, right there in North Carolina, everywhere we go, it is time for our brothers and sisters to wake the hell up. We know that there's plots out there that's trying to kill our people. But our objective is, to hell with all of them. We going to get this word to you anyway. You ain't stopping this. Read.
 
 - And the glory of the Lord is risen upon thee: And the glory of the Lord, it is time for you to wake up. That's what Isaiah 13 is talking about. It's time for you to wake out of sleep. Come on.
+
+> <sup>[2](/bible/isaiah/60#v2)</sup> For, behold, the darkness shall cover the earth, and gross darkness the people: but the Lord shall arise upon thee, and his glory shall be seen upon thee.
 
 - For, behold, the darkness shall cover the earth: So all the people on this planet earth is in darkness, because the Bible tells you that the earth is given into the hand of the wicked. And also in Proverbs 29, the second verse, it says, "When the righteous are in authority, the people rejoice, but when the wicked beareth rule, the people mourn." So the whole earth is mourning in ignorance, is mourning in debauchery. They're in a vortex of spiritual destruction, in a kaleidoscope of confusion. I keep using that word, right? We're in a vortex of complete madness. And our enemies love it that way. Gross darkness is us. But the people are in darkness. Read that again.
 
@@ -312,18 +312,14 @@ Reading from Definition of Egypt, out of a dictionary, p. 183 (read on screen)  
 **[Isaiah 29:10-13](/bible/isaiah/29#v10)**  *[[1:09:00](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=4140s)]*
 
 > <sup>[10](/bible/isaiah/29#v10)</sup> For the Lord hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered.
->
-> <sup>[11](/bible/isaiah/29#v11)</sup> And the vision of all is become unto you as the words of a book that is sealed, which men deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it is sealed:
->
-> <sup>[12](/bible/isaiah/29#v12)</sup> And the book is delivered to him that is not learned, saying, Read this, I pray thee: and he saith, I am not learned.
->
-> <sup>[13](/bible/isaiah/29#v13)</sup> Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:
 
 - For the Lord hath poured out upon you the spirit of deep sleep: Give me Isaiah 29 verse 10. We got to wake our people up, brothers. For the Lord has poured out upon us the spirit of deep sleep. Come on.
 
 - And hath closed your eyes: And have closed our eyes. Go ahead.
 
 - The prophets and your rulers, the seers hath he covered: That's the reason why these pastors can't do anything, because they're wicked as hell. And the spirit of righteousness is not going to dwell in a wicked soul. So they ain't never going to wake up if they don't come out of that foolishness. Come on, read.
+
+> <sup>[11](/bible/isaiah/29#v11)</sup> And the vision of all is become unto you as the words of a book that is sealed, which men deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it is sealed:
 
 - And the vision of all is become unto you as the words of a book that is sealed: They're in church and you got the people in the church, and they don't even recognize that the book that they're reading is actually about the people that's in front of them. But whenever they come and ask the pastor about the condition that's going on right there in the Bronx, right there in Harlem, right there in Charlotte, right there in Augusta, right there in Watts, right there in Los Angeles, right there in Chicago. They're saying, "Why are these issues in Philly? Why these issues and these things happening to us?" These no good, lying, evil preachers can't even go inside the Bible and show them what the Bible is talking about in reference to them. Read that statement again.
 
@@ -339,11 +335,15 @@ Reading from Definition of Egypt, out of a dictionary, p. 183 (read on screen)  
 
 - For it is sealed: For it is sealed. He really can't see.
 
+> <sup>[12](/bible/isaiah/29#v12)</sup> And the book is delivered to him that is not learned, saying, Read this, I pray thee: and he saith, I am not learned.
+
 - And the book is delivered to him that is not learned, saying, Read this, I pray thee: That's the storefront preacher. That's the one that's got a little storefront hole in the wall. Got some pews. Got some drums, and the one thing that he will have in there is that damn Hammond organ. He'll have that in there. That Hammond organ is designed to stir them demons up. Hit that tone wheel and that thing start wobbling. That tambourine start going and all of a sudden you feel the goosebumps. You don't know what the hell happened to you. You catch them coming out, say, "Hey man, how was service?" "I don't know, but it sure was good." That Hammond organ, man, that thing cost like $10,000. Them damn organs is not cheap. The dag on pews is uncomfortable. The Bibles ain't in no good condition or nothing. But that dag on Hammond organ, that box they got in there, is oiled down with Pledge. That thing work.
 
 - That box: Y'all need to do some research on that box, by the way. No, no, no. I'mma get off that. Y'all need to just look it up and look up the psychological effects of what that do to the people. There's literal information on it. The psychological effect of the Hammond organ. You can literally put it in there like that and it'll tell you all kind of things. So the preacher said, "We ain't going to get no tithe money till we get that box in here. And if the wrong person sit down on that organ and he ain't hitting them notes right, they firing him." They said, "Listen, you got to know how to hit the demonic chords to get the people to do their thing." I'm telling you, I've seen it. They said, "The money ain't coming in here, right? Hey, get so and so, call him in. What do you mean he ain't here today? Call him and tell him get in and sit on that seat and hit them dag on notes." And the next thing you know the money start rolling. We've seen this. We've seen this. I was a witness of, a victim of this thing. Me and the brothers, we was in Liberia and we've seen and felt the effects of that thing, man. I said, "Yo, we got to get the hell out of here before they kill us." We were looking for the escape door in the back. It's a funny story. Y'all might hear us talk about it one day. But let me get back to what I was saying. Where am I at?
 
 - And he saith, I am not learned: Because he didn't go to cemetery school. Go ahead.
+
+> <sup>[13](/bible/isaiah/29#v13)</sup> Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:
 
 - But have removed their heart far from me: The reason why they removed their heart far from the Lord, because they're not being taught. That's why it says that in Isaiah 5. Give me that real quick. 5, 13 to 14. This is the reason why the people ain't responding right when it comes to this Bible, because the preachers that's leading them is destroying them.
 
@@ -351,8 +351,6 @@ Reading from Definition of Egypt, out of a dictionary, p. 183 (read on screen)  
 **[Isaiah 5:13-14](/bible/isaiah/5#v13)**  *[[1:16:40](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=4600s)]*
 
 > <sup>[13](/bible/isaiah/5#v13)</sup> Therefore my people are gone into captivity, because they have no knowledge: and their honourable men are famished, and their multitude dried up with thirst.
->
-> <sup>[14](/bible/isaiah/5#v14)</sup> Therefore hell hath enlarged herself, and opened her mouth without measure: and their glory, and their multitude, and their pomp, and he that rejoiceth, shall descend into it.
 
 - Therefore my people are gone into captivity: My people are going into captivity. That's the Israelites. Go ahead.
 
@@ -364,6 +362,8 @@ Reading from Definition of Egypt, out of a dictionary, p. 183 (read on screen)  
 
 - And their multitude dried up with thirst: And the multitude of the people that's listening to these empty pastors, they're dried up with thirst. Why? Because they're not being fed by the preacher that's supposed to be feeding them. So they're dried up with thirst because the preachers are not even feeding them. So the whole church is in a mess. That's what's all over the city. Go ahead.
 
+> <sup>[14](/bible/isaiah/5#v14)</sup> Therefore hell hath enlarged herself, and opened her mouth without measure: and their glory, and their multitude, and their pomp, and he that rejoiceth, shall descend into it.
+
 - Therefore hell hath enlarged herself: Therefore, meaning because of those conditions that we just read. Therefore, what? Our condition of hell has gotten worse. That's what we're going to show you coming up. The condition of our people have gotten worse. That's what the hell is. Crack, unwed mothers, crime, sickness, mental sicknesses, disease, all of these things is happening as a result. Read.
 
 - And opened her mouth without measure: And has opened her mouth, meaning the mouth of hell has gotten so bad, it seemed like we ain't never going to come out of it. And a lot of our people have given up. A lot of our people are losing it, going crazy, being admitted into hospitals, signing themselves out to crime, criminal activity, and throwing their lives away literally, and ended up in jail, and finding out in prison that all of the people that's in jail with him look just like him. And they all took a similar path to get there. They all met in the damn jail. They all met in the psych ward. They all met in the hospital and didn't even know each other before they got there. They all met in the prison because they don't see the traps that led them there. Read that last statement again.
@@ -374,12 +374,12 @@ Reading from Definition of Egypt, out of a dictionary, p. 183 (read on screen)  
 **[Isaiah 29:13-14](/bible/isaiah/29#v13)**  *[[1:19:27](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=4767s)]*
 
 > <sup>[13](/bible/isaiah/29#v13)</sup> Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:
->
-> <sup>[14](/bible/isaiah/29#v14)</sup> Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid.
 
 - But have removed their heart far from me: Because the preachers is making sure that the heart, the mind of the people is far removed from God. That's the reason why those religious outposts are in our cities, to make sure that the people stay disconnected from God. Go ahead. They're literally, in my mind, they're seen as garrisons. I don't see them as righteous at all. Read.
 
 - And their fear toward me is taught by the precept of men: The only thing that they teach in these churches is to fear white people. That's what these pastors do, is to make the people fear white people. Okay. Is that it? There's some more. Read on.
+
+> <sup>[14](/bible/isaiah/29#v14)</sup> Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid.
 
 - I will proceed to do a marvellous work among this people: So what are we talking about? The marvelous work. What is the marvelous work? Put the next slide up there. This is just part of it. If you're reading this, your nation needs you. This is really an internal thing. You got to be inside the congregation to even know where this thing will lead you. So, I'm going just say that and just keep on speaking. But the marvelous work began in 2003 with IUIC. We've been on a mission to take this gospel to levels never seen before since the 60s. And this marvelous work will continue through Christ's mighty salvation. And that will be the amazement by all our enemies when they see how the Lord is going to resurrect us from this mental and spiritual death. So the marvelous work is actually beginning now.
 
@@ -391,8 +391,6 @@ Reading from Definition of Egypt, out of a dictionary, p. 183 (read on screen)  
 **[Isaiah 29:15-16](/bible/isaiah/29#v15)**  *[[1:24:07](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=5047s)]*
 
 > <sup>[15](/bible/isaiah/29#v15)</sup> Woe unto them that seek deep to hide their counsel from the Lord, and their works are in the dark, and they say, Who seeth us? and who knoweth us?
->
-> <sup>[16](/bible/isaiah/29#v16)</sup> Surely your turning of things upside down shall be esteemed as the potter’s clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?
 
 - Woe unto them that seek deep to hide their counsel from the LORD: We're getting ready to get into it now. So that's what I'm dealing with. Woe be unto our enemies who did secret things to destroy us secretly. Y'all, it's coming. Y'all going to get it. To destroy us secretly. And we don't even see it. But inquisitive minds wanted to know. And I'm not the only one. I'm just speaking about what I experienced. Y'all all right? Read.
 
@@ -401,6 +399,8 @@ Reading from Definition of Egypt, out of a dictionary, p. 183 (read on screen)  
 - And they say, Who seeth us?: That's what they say. Who see what we did? Who see that we set up in the colleges, for an example, the universities where they had different experiments? Those experiments was about how they can best use your own mind to work against your own progress. Stanley Milgram's obedience. Y'all think it's about what happened in Nazi Germany. No, it was about training us to be obedient to what you later on would call authority. The Stanford prison experiment was another one that was about how we get certain roles and we get uppity and we look down on our brothers. The prison where they had one side to be prisoners and the other side to be the guards, and they all buddies, and the damn experiment went so wild they had to stop it, because they got so carried away. People got so bigheaded because of their position that they had. Well, they know that if they deprive us of all kinds of things, the moment they give you a little bit of job here, a little such and such, all of a sudden, nobody can't tell you nothing. That's the same situation.
 
 - Who knoweth us?: Y'all understand that everything that they do on this earth is about subduing you. Let me say that again. Don't even think for a moment that there's not anything that's being done anywhere that the ultimate goal is to find a way to subdue you, because we are God's people. You must understand that. So that was obedience, Stanley Milgram's, the prison experiment, and there was another one that I was trying to think, I couldn't remember. Stanford. I said the Stanford, right? Stanford one. All right. Y'all get it. Y'all can look these things up. Even though they'll tell you other things, talking about it was about the authority and Hitler and all that. Skinner box with B. F. Skinner. All of these things. And another one is behavioral sink. They got a whole lot of things. And it was all really about how to keep us subdued, even though they're not telling you that. That's why it says here that they say, "Who seeth us? Who knoweth us?" That's really about you. Read on.
+
+> <sup>[16](/bible/isaiah/29#v16)</sup> Surely your turning of things upside down shall be esteemed as the potter’s clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?
 
 - Surely your turning of things upside down: They think they got it on lock. They think that we are done, permanently done. But surely how they lied and turned everything upside down. What it say?
 

@@ -43,18 +43,18 @@ tags: ["15 Minutes w/ The Captains", "christ"]
 > <sup>[1](/bible/acts/9#v1)</sup> And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest,
 >
 > <sup>[2](/bible/acts/9#v2)</sup> And desired of him letters to Damascus to the synagogues, that if he found any of this way, whether they were men or women, he might bring them bound unto Jerusalem.
->
-> <sup>[3](/bible/acts/9#v3)</sup> And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:
->
-> <sup>[4](/bible/acts/9#v4)</sup> And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me?
->
-> <sup>[5](/bible/acts/9#v5)</sup> And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks.
 
 - If he found any of this way: Meaning what? Any of those following Christ.
 
 - He might bring them bound unto Jerusalem: So, he was going to arrest them and bring them back to Jerusalem.
 
+> <sup>[3](/bible/acts/9#v3)</sup> And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:
+>
+> <sup>[4](/bible/acts/9#v4)</sup> And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me?
+
 - Saul, Saul, why persecutest thou me?: So that's where you get to saying he got knocked off his high horse. So he was on the horse riding and then the Lord knocked him off and said, "Saul, why you persecuting me? Why you persecuting the saints?"
+
+> <sup>[5](/bible/acts/9#v5)</sup> And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks.
 
 - It is hard for thee to kick against the pricks: So imagine kicking against some thorns. It's a hard thing to do. And it's a saying when you touch the king's men, you touch the king. Understand? Paul wasn't persecuting Christ per se, but he was going after the disciples. Those that believed in Christ, Paul was persecuting. Understand that goes for the day. You all that want to lay your hands on the prophets, that you all want to scoff and mock the prophets, y'all ain't mocking us. Understand that. Read what Christ said again to Paul.
 
@@ -88,10 +88,10 @@ tags: ["15 Minutes w/ The Captains", "christ"]
 **[1 Corinthians 1:1-2](/bible/1-corinthians/1#v1)**  *[[11:08](https://www.youtube.com/watch?v=m9iqAx0PJkk&t=668s)]*
 
 > <sup>[1](/bible/1-corinthians/1#v1)</sup> Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,
->
-> <sup>[2](/bible/1-corinthians/1#v2)</sup> Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:
 
 - Through the will of God and Sosthenes our brother: So now go to Acts 18 and 17 real quick. So Sesame was he was the leader of the synagogue in Corinth. So, we're going to just get this real quick because in order to understand Paul's letters, you all have to be familiar with the book of Acts.
+
+> <sup>[2](/bible/1-corinthians/1#v2)</sup> Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:
 
 - Unto the church of God which is at Corinth: So unto the church of God that was at Corinth. Unto the church of God that was at Corinth. So this synagogue was already there before Paul got there. The thought is that Paul went out there and established the synagogue and all that. No, it was already there. So, now we going to go to, I sent over a screenshot. So, I went and asked old chat what was going on in Karen. Let's see what he got to say cuz you got all these scoffers out there.
 
@@ -161,20 +161,20 @@ Reading from Screenshot on screen: GPT answer, evidence of Jews in Corinth (read
 **[Acts 18:1-4](/bible/acts/18#v1)**  *[[17:08](https://www.youtube.com/watch?v=m9iqAx0PJkk&t=1028s)]*
 
 > <sup>[1](/bible/acts/18#v1)</sup> After these things Paul departed from Athens, and came to Corinth;
->
-> <sup>[2](/bible/acts/18#v2)</sup> And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.
->
-> <sup>[3](/bible/acts/18#v3)</sup> And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.
->
-> <sup>[4](/bible/acts/18#v4)</sup> And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks.
 
 - And came to Corinth: So this is on Paul's second mission. He came to Corinth.
+
+> <sup>[2](/bible/acts/18#v2)</sup> And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.
 
 - And found a certain Jew named Aquila, born in Pontus: So it was already Jews in the land.
 
 - Because that Claudius had commanded all Jews to depart from Rome: So he was being kicked out of Rome. So he was in Corinth.
 
+> <sup>[3](/bible/acts/18#v3)</sup> And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.
+
 - For by their occupation they were tentmakers: So he was a tent maker just like Paul.
+
+> <sup>[4](/bible/acts/18#v4)</sup> And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks.
 
 - And persuaded the Jews and the Greeks: Uh oh, they got me. They got me right there, man. They got me. We gonna help y'all out. Pull up that book that I posted in there. We gonna help y'all out. And then we going to get the definition of Greeks too. Pull up that book, though. We just gonna go straight for the dome off the break.
 
@@ -213,12 +213,12 @@ Reading from Jacob, Israel versus Esau, Edom (book shown on air, as named; autho
 **[1 Corinthians 10:1-2](/bible/1-corinthians/10#v1)**  *[[21:23](https://www.youtube.com/watch?v=m9iqAx0PJkk&t=1283s)]*
 
 > <sup>[1](/bible/1-corinthians/10#v1)</sup> Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;
->
-> <sup>[2](/bible/1-corinthians/10#v2)</sup> And were all baptized unto Moses in the cloud and in the sea;
 
 - Moreover, brethren: Moreover, who? Hold up. I got to get the brethren. Give me Romans chapter nine. I got to get the brethren. Y'all already know.
 
 - That all our fathers: All our, our meaning possessive. Fathers did what?
+
+> <sup>[2](/bible/1-corinthians/10#v2)</sup> And were all baptized unto Moses in the cloud and in the sea;
 
 - And were all baptized unto Moses in the cloud and in the sea: And were all baptized unto Moses. In the cloud and in the sea. So, how did Moses baptize them? Give me Exodus 24 real quick. It said they was all baptized. I want Exodus 24 7 and 8.
 
@@ -236,10 +236,10 @@ Reading from Jacob, Israel versus Esau, Edom (book shown on air, as named; autho
 **[Exodus 24:7-8](/bible/exodus/24#v7)**  *[[22:57](https://www.youtube.com/watch?v=m9iqAx0PJkk&t=1377s)]*
 
 > <sup>[7](/bible/exodus/24#v7)</sup> And he took the book of the covenant, and read in the audience of the people: and they said, All that the Lord hath said will we do, and be obedient.
->
-> <sup>[8](/bible/exodus/24#v8)</sup> And Moses took the blood, and sprinkled it on the people, and said, Behold the blood of the covenant, which the Lord hath made with you concerning all these words.
 
 - And he took the book of the covenant, and read in the audience of the people: What did he do?
+
+> <sup>[8](/bible/exodus/24#v8)</sup> And Moses took the blood, and sprinkled it on the people, and said, Behold the blood of the covenant, which the Lord hath made with you concerning all these words.
 
 - Behold the blood of the covenant: The blood of the what? So that's how they was baptized. They got bought into the covenant by the blood.
 
@@ -264,14 +264,14 @@ Reading from Jacob, Israel versus Esau, Edom (book shown on air, continued)  *[[
 **[1 Corinthians 1:2-4](/bible/1-corinthians/1#v2)**  *[[24:37](https://www.youtube.com/watch?v=m9iqAx0PJkk&t=1477s)]*
 
 > <sup>[2](/bible/1-corinthians/1#v2)</sup> Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:
->
-> <sup>[3](/bible/1-corinthians/1#v3)</sup> Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ.
->
-> <sup>[4](/bible/1-corinthians/1#v4)</sup> I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;
 
 - Unto the church of God which is at Corinth: So we understand reading the scriptures. We read 1 Corinthians 10, 1 down to three. We understand that that church, the church of Israelites. The scholars back it up.
 
 - Both theirs and ours: Because there's two nations coming back as one under Christ. It says theirs is talking about the northern kingdom, the Gentiles or the Greeks.
+
+> <sup>[3](/bible/1-corinthians/1#v3)</sup> Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ.
+>
+> <sup>[4](/bible/1-corinthians/1#v4)</sup> I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;
 
 - For the grace of God which is given you by Jesus Christ: So now give me Titus 2 and 11 real quick for the grace. And we going to read all the way down to 14. What is this grace talking about? It's talking about repentance now under Christ. Cuz before Christ, if you got caught breaking the Sabbath, if you got caught in idolatry, if you got caught in witchcraft, if you got caught in homosexuality, you was put to death. It was no repentance for that under the old covenant. So this grace now was talking about repentance under Christ. Let's read and see if that's the case.
 
@@ -279,16 +279,16 @@ Reading from Jacob, Israel versus Esau, Edom (book shown on air, continued)  *[[
 **[Titus 2:11-14](/bible/titus/2#v11)**  *[[26:27](https://www.youtube.com/watch?v=m9iqAx0PJkk&t=1587s)]*
 
 > <sup>[11](/bible/titus/2#v11)</sup> For the grace of God that bringeth salvation hath appeared to all men,
->
-> <sup>[12](/bible/titus/2#v12)</sup> Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;
->
-> <sup>[13](/bible/titus/2#v13)</sup> Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;
->
-> <sup>[14](/bible/titus/2#v14)</sup> Who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, zealous of good works.
 
 - For the grace of God that bringeth salvation hath appeared to all men: So we understand this is talking about all Israelite men. The scholars got this thing documented.
 
+> <sup>[12](/bible/titus/2#v12)</sup> Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;
+
 - Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world: So the grace that Christ gave us, meaning repentance, teaches us to deny these flesh and these ungodly lusts.
+
+> <sup>[13](/bible/titus/2#v13)</sup> Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;
+>
+> <sup>[14](/bible/titus/2#v14)</sup> Who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, zealous of good works.
 
 - That he might redeem us from all iniquity: That he might redeem us from all iniquity. Oh, we going to come and unpack all this.
 
@@ -298,18 +298,18 @@ Reading from Jacob, Israel versus Esau, Edom (book shown on air, continued)  *[[
 **[Luke 1:68-71](/bible/luke/1#v68)**  *[[28:02](https://www.youtube.com/watch?v=m9iqAx0PJkk&t=1682s)]*
 
 > <sup>[68](/bible/luke/1#v68)</sup> Blessed be the Lord God of Israel; for he hath visited and redeemed his people,
->
-> <sup>[69](/bible/luke/1#v69)</sup> And hath raised up an horn of salvation for us in the house of his servant David;
->
-> <sup>[70](/bible/luke/1#v70)</sup> As he spake by the mouth of his holy prophets, which have been since the world began:
->
-> <sup>[71](/bible/luke/1#v71)</sup> That we should be saved from our enemies, and from the hand of all that hate us;
 
 - Blessed be the Lord God of Israel: Blessed be the Lord God of Israel.
 
 - For he hath visited and redeemed his people: And he have visited and redeemed his people.
 
+> <sup>[69](/bible/luke/1#v69)</sup> And hath raised up an horn of salvation for us in the house of his servant David;
+
 - And hath raised up an horn of salvation for us in the house of his servant David: For who? He said, "Raise up a horn of salvation for who?" For us. For us, the children of Israel in the house of his servant David.
+
+> <sup>[70](/bible/luke/1#v70)</sup> As he spake by the mouth of his holy prophets, which have been since the world began:
+>
+> <sup>[71](/bible/luke/1#v71)</sup> That we should be saved from our enemies, and from the hand of all that hate us;
 
 - That we should be saved from our enemies: That we, the children of Israel. From our enemies. That's salvation, to be saved from our enemies.
 
@@ -336,14 +336,14 @@ Reading from Jacob, Israel versus Esau, Edom (book shown on air, continued)  *[[
 **[Exodus 19:5-6](/bible/exodus/19#v5)**  *[[31:26](https://www.youtube.com/watch?v=m9iqAx0PJkk&t=1886s)]*
 
 > <sup>[5](/bible/exodus/19#v5)</sup> Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth is mine:
->
-> <sup>[6](/bible/exodus/19#v6)</sup> And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.
 
 - Now therefore, if ye will obey my voice indeed: So if we obey the voice of the Lord.
 
 - Then ye shall be a peculiar treasure unto me: You shall be a what? We will be a peculiar treasure when we keep the commandments of God. Who were the commandments of God given to? The children of Israel.
 
 - Above all people: for all the earth is mine: The Lord is saying, the children of Israel, we aren't equal to anybody. The Bible says we above all people.
+
+> <sup>[6](/bible/exodus/19#v6)</sup> And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.
 
 - And ye shall be unto me a kingdom of priests: So we going to be in our peculiarity. We going to be a kingdom of priests.
 
@@ -355,14 +355,14 @@ Reading from Jacob, Israel versus Esau, Edom (book shown on air, continued)  *[[
 **[Psalms 135:4-6](/bible/psalms/135#v4)**  *[[32:10](https://www.youtube.com/watch?v=m9iqAx0PJkk&t=1930s)]*
 
 > <sup>[4](/bible/psalms/135#v4)</sup> For the Lord hath chosen Jacob unto himself, and Israel for his peculiar treasure.
->
-> <sup>[5](/bible/psalms/135#v5)</sup> For I know that the Lord is great, and that our Lord is above all gods.
->
-> <sup>[6](/bible/psalms/135#v6)</sup> Whatsoever the Lord pleased, that did he in heaven, and in earth, in the seas, and all deep places.
 
 - For the Lord hath chosen Jacob unto himself: For the Lord have chosen who? Jacob.
 
+> <sup>[5](/bible/psalms/135#v5)</sup> For I know that the Lord is great, and that our Lord is above all gods.
+
 - And that our Lord is above all gods: Meaning what? As the Lord is above all God, so are his people.
+
+> <sup>[6](/bible/psalms/135#v6)</sup> Whatsoever the Lord pleased, that did he in heaven, and in earth, in the seas, and all deep places.
 
 - Whatsoever the Lord pleased, that did he in heaven, and in earth, in the seas, and all deep places: Meaning what? So that thing, no matter if you call, mean what, the children of Israel are here on the earth. Understand that thing. Above all nations. That's it on that. Let's go back to first Corinthians. Let's go back to first Corinthians. So we just established, we went through verse 4 again. So we get the thought why we went through grace, we went through redeemed, then we went through peculiar, because what we read in 1 Corinthians 1 and 4, we went to Titus 2 and 11 to break all that down showing that all those things are talking about the children of Israel.
 
@@ -370,10 +370,10 @@ Reading from Jacob, Israel versus Esau, Edom (book shown on air, continued)  *[[
 **[1 Corinthians 1:4-5](/bible/1-corinthians/1#v4)**  *[[33:50](https://www.youtube.com/watch?v=m9iqAx0PJkk&t=2030s)]*
 
 > <sup>[4](/bible/1-corinthians/1#v4)</sup> I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;
->
-> <sup>[5](/bible/1-corinthians/1#v5)</sup> That in every thing ye are enriched by him, in all utterance, and in all knowledge;
 
 - For the grace of God which is given you by Jesus Christ: So we understand that grace is talking about repentance given to the children of Israel being redeemed by Christ.
+
+> <sup>[5](/bible/1-corinthians/1#v5)</sup> That in every thing ye are enriched by him, in all utterance, and in all knowledge;
 
 - That in every thing ye are enriched by him, in all utterance, and in all knowledge: Meaning what we speak, because the spirit, matter of fact, give me John 14 to 15. I think that's what I want. Said we may be enriched in him given all utterance, mean an understanding of the scriptures. If you love me, keep my commandments. That's what I want.
 
@@ -403,10 +403,10 @@ Reading from Jacob, Israel versus Esau, Edom (book shown on air, continued)  *[[
 **[1 Corinthians 1:5-6](/bible/1-corinthians/1#v5)**  *[[36:38](https://www.youtube.com/watch?v=m9iqAx0PJkk&t=2198s)]*
 
 > <sup>[5](/bible/1-corinthians/1#v5)</sup> That in every thing ye are enriched by him, in all utterance, and in all knowledge;
->
-> <sup>[6](/bible/1-corinthians/1#v6)</sup> Even as the testimony of Christ was confirmed in you:
 
 - That in every thing ye are enriched by him, in all utterance, and in all knowledge: Meaning what? Through the spirit of Christ, the holy spirit to give you that understanding of the scriptures.
+
+> <sup>[6](/bible/1-corinthians/1#v6)</sup> Even as the testimony of Christ was confirmed in you:
 
 - Even as the testimony of Christ was confirmed in you: So even as the testimony of Christ. What's the testimony of Christ? Give me Revelations 19 and 10. Give me Revelations 19 and 10. What is the testimony of Christ?
 
@@ -440,14 +440,14 @@ Reading from Jacob, Israel versus Esau, Edom (book shown on air, continued)  *[[
 **[Acts 3:25-26](/bible/acts/3#v25)**  *[[39:08](https://www.youtube.com/watch?v=m9iqAx0PJkk&t=2348s)]*
 
 > <sup>[25](/bible/acts/3#v25)</sup> Ye are the children of the prophets, and of the covenant which God made with our fathers, saying unto Abraham, And in thy seed shall all the kindreds of the earth be blessed.
->
-> <sup>[26](/bible/acts/3#v26)</sup> Unto you first God, having raised up his Son Jesus, sent him to bless you, in turning away every one of you from his iniquities.
 
 - Ye are the children of the prophets: Give me Acts chapter 3 25 and 26. Understand this thing. We going down deep showing you what was prophesied about Christ. So we are the children of the prophets.
 
 - And of the covenant which God made with our fathers: He said and of the covenant which God made with our fathers. This is talking about the children of Israel. God did not make a covenant with any other nation outside of the children of Israel. Show me where in the scripture where he made a covenant with the Moabite. Show me where he made a covenant with the Ammonite or the Canaanite. You're not gonna show anybody that because he did not make a covenant outside of the children of Israel.
 
 - And in thy seed shall all the kindreds of the earth be blessed: So what is this talking about?
+
+> <sup>[26](/bible/acts/3#v26)</sup> Unto you first God, having raised up his Son Jesus, sent him to bless you, in turning away every one of you from his iniquities.
 
 - Unto you first God, having raised up his Son Jesus, sent him to bless you: Uh oh. So here's the blessing. What's the blessing?
 
@@ -486,10 +486,10 @@ Reading from Jacob, Israel versus Esau, Edom (book shown on air, continued)  *[[
 > <sup>[6](/bible/1-corinthians/1#v6)</sup> Even as the testimony of Christ was confirmed in you:
 >
 > <sup>[7](/bible/1-corinthians/1#v7)</sup> So that ye come behind in no gift; waiting for the coming of our Lord Jesus Christ:
->
-> <sup>[8](/bible/1-corinthians/1#v8)</sup> Who shall also confirm you unto the end, that ye may be blameless in the day of our Lord Jesus Christ.
 
 - So that ye come behind in no gift; waiting for the coming of our Lord Jesus Christ: Meaning what? That you keep the commandments. You get the spirit. You get the Holy Spirit, that you not lacking in any gift, meaning any ability. Paul break down the different gifts in 1 Corinthians chapter 12. But we not going to jump there for time sakes.
+
+> <sup>[8](/bible/1-corinthians/1#v8)</sup> Who shall also confirm you unto the end, that ye may be blameless in the day of our Lord Jesus Christ.
 
 - That ye may be blameless in the day of our Lord Jesus Christ: So now the question is how do you become blameless? How is one made blameless or perfect in the sight of the Lord? Give me Psalms 19 and 7. Because when you listen to these apopathetics, you listen to these Christian pastors telling you you don't have to keep the law, they have no idea what they talking about. So you going to be a axe murderer? You going to be a serial rapist? What? Then you ask him the question, well, is it lawful for me to kill? No. Why not? Because it says in the scriptures, thou shall not kill. That means the law is not done away with, brother. Come on, man. Make it make sense.
 
@@ -508,14 +508,14 @@ Reading from Jacob, Israel versus Esau, Edom (book shown on air, continued)  *[[
 **[2 Timothy 3:16-17](/bible/2-timothy/3#v16)**  *[[45:19](https://www.youtube.com/watch?v=m9iqAx0PJkk&t=2719s)]*
 
 > <sup>[16](/bible/2-timothy/3#v16)</sup> All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:
->
-> <sup>[17](/bible/2-timothy/3#v17)</sup> That the man of God may be perfect, throughly furnished unto all good works.
 
 - All scripture: What? All scripture. No, brother. The New Testament only. All scripture. It says all scripture. Then they say we under the New Testament. That means you can't read the Gospels. You understand what I'm saying? You got to start from Acts on. I mean, it's just foolishness, man.
 
 - Is given by inspiration of God: So why would you want to do away with something that's been given by the inspiration of God? Because you keeping an ungodly doctrine and philosophy. That's why.
 
 - For instruction in righteousness: I'm not the smartest man, but anytime something is profitable, that means it's good for you. You want a profitable business, you want a profitable marriage, you want profitable children. So, the laws of God is what gives you your profitability. Why would you want to do away with that?
+
+> <sup>[17](/bible/2-timothy/3#v17)</sup> That the man of God may be perfect, throughly furnished unto all good works.
 
 - That the man of God may be perfect: That the man of God may be perfect or blameless.
 
@@ -525,12 +525,12 @@ Reading from Jacob, Israel versus Esau, Edom (book shown on air, continued)  *[[
 **[1 Corinthians 1:8-9](/bible/1-corinthians/1#v8)**  *[[46:54](https://www.youtube.com/watch?v=m9iqAx0PJkk&t=2814s)]*
 
 > <sup>[8](/bible/1-corinthians/1#v8)</sup> Who shall also confirm you unto the end, that ye may be blameless in the day of our Lord Jesus Christ.
->
-> <sup>[9](/bible/1-corinthians/1#v9)</sup> God is faithful, by whom ye were called unto the fellowship of his Son Jesus Christ our Lord.
 
 - Who shall also confirm you unto the end: So Christ is the one that's going to confirm us to the end.
 
 - That ye may be blameless in the day of our Lord Jesus Christ: Through what? The laws of God. Applying the commandments of God.
+
+> <sup>[9](/bible/1-corinthians/1#v9)</sup> God is faithful, by whom ye were called unto the fellowship of his Son Jesus Christ our Lord.
 
 - God is faithful, by whom ye were called unto the fellowship of his Son Jesus Christ our Lord: So now remember we already went through who called us, but give me Isaiah 48 and 12 real quick. Give me Isaiah chapter 48 and verse 12 cuz remember what Christ said: ye have not chosen me but I have chosen you. We read that he called Paul. But what nation specifically is being called according to the scriptures?
 
@@ -560,16 +560,10 @@ Reading from Jacob, Israel versus Esau, Edom (book shown on air, continued)  *[[
 **[1 Corinthians 1:9-13](/bible/1-corinthians/1#v9)**  *[[50:59](https://www.youtube.com/watch?v=m9iqAx0PJkk&t=3059s)]*
 
 > <sup>[9](/bible/1-corinthians/1#v9)</sup> God is faithful, by whom ye were called unto the fellowship of his Son Jesus Christ our Lord.
->
-> <sup>[10](/bible/1-corinthians/1#v10)</sup> Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment.
->
-> <sup>[11](/bible/1-corinthians/1#v11)</sup> For it hath been declared unto me of you, my brethren, by them which are of the house of Chloe, that there are contentions among you.
->
-> <sup>[12](/bible/1-corinthians/1#v12)</sup> Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ.
->
-> <sup>[13](/bible/1-corinthians/1#v13)</sup> Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?
 
 - God is faithful, by whom ye were called: Meaning of what we are called. That calling is only for the children of Israel as we read in Isaiah 48:12.
+
+> <sup>[10](/bible/1-corinthians/1#v10)</sup> Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment.
 
 - That ye all speak the same thing: They said, "Now, brothers, you got to speak the same thing."
 
@@ -577,13 +571,19 @@ Reading from Jacob, Israel versus Esau, Edom (book shown on air, continued)  *[[
 
 - And that there be no divisions among you: Why? Watch what's going on in the church.
 
+> <sup>[11](/bible/1-corinthians/1#v11)</sup> For it hath been declared unto me of you, my brethren, by them which are of the house of Chloe, that there are contentions among you.
+
 - By them which are of the house of Chloe, that there are contentions among you: So Paul is getting a report that is divisions from the house of Khloe. This may have been like her servants that was sending a letter to Paul and he reading the letter like, man, what's going on there? Brothers is striving over things. We going to get to that.
+
+> <sup>[12](/bible/1-corinthians/1#v12)</sup> Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ.
 
 - Every one of you saith, I am of Paul: You see that? I'm of Paul. You got one group said I'm of Paul. I'm Paul's disciple.
 
 - And I of Apollos: So Apollos, they saying, hold on. I'm of Apollos, brother. You Pauline brothers, you stay over there.
 
 - And I of Christ: So you got all these divisions. Some brothers saying, "Look, man. I'm rolling in the spirit of Christ."
+
+> <sup>[13](/bible/1-corinthians/1#v13)</sup> Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?
 
 - Is Christ divided?: Hold up. What, is Christ divided? We just read in Ephesians chapter 4, there is no divisions in Christ.
 
@@ -605,32 +605,20 @@ Reading from Jacob, Israel versus Esau, Edom (book shown on air, continued)  *[[
 **[1 Corinthians 3:1-9](/bible/1-corinthians/3#v1)**  *[[54:17](https://www.youtube.com/watch?v=m9iqAx0PJkk&t=3257s)]*
 
 > <sup>[1](/bible/1-corinthians/3#v1)</sup> And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ.
->
-> <sup>[2](/bible/1-corinthians/3#v2)</sup> I have fed you with milk, and not with meat: for hitherto ye were not able to bear it, neither yet now are ye able.
->
-> <sup>[3](/bible/1-corinthians/3#v3)</sup> For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men?
->
-> <sup>[4](/bible/1-corinthians/3#v4)</sup> For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?
->
-> <sup>[5](/bible/1-corinthians/3#v5)</sup> Who then is Paul, and who is Apollos, but ministers by whom ye believed, even as the Lord gave to every man?
->
-> <sup>[6](/bible/1-corinthians/3#v6)</sup> I have planted, Apollos watered; but God gave the increase.
->
-> <sup>[7](/bible/1-corinthians/3#v7)</sup> So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase.
->
-> <sup>[8](/bible/1-corinthians/3#v8)</sup> Now he that planteth and he that watereth are one: and every man shall receive his own reward according to his own labour.
->
-> <sup>[9](/bible/1-corinthians/3#v9)</sup> For we are labourers together with God: ye are God’s husbandry, ye are God’s building.
 
 - And I, brethren, could not speak unto you as unto spiritual: So now Paul said, "Hold on, fam. I didn't baptize any of y'all." But let's jump to chapter 3 real quick. 1 Corinthians chapter 3. I'm going to pull something out of here because that's a very carnal mindset when you get into this ganglike tribal mindset. Yeah, man. I'm of Paul, man. I'm of Apollos. No, man. I rock with Cephas. That is a very carnal, shortsighted, negro, and dangerous mindset. That's what that is.
 
 - But as unto carnal, even as unto babes in Christ: So when Paul got the report, he said, "Man, I can't speak deep things to these brothers. These brothers is simple as hell with these divisions."
+
+> <sup>[2](/bible/1-corinthians/3#v2)</sup> I have fed you with milk, and not with meat: for hitherto ye were not able to bear it, neither yet now are ye able.
 
 - I have fed you with milk: Meaning what? He was building them up with the basics when he was there for a year and a half.
 
 - And not with meat: Meaning what? He didn't go too deep in the scriptures cuz he saw when he was there these brothers weren't at that level at that time.
 
 - For hitherto ye were not able to bear it, neither yet now are ye able: So he said back then y'all couldn't handle the deep things, the mysteries of Christ. Three years later, you brothers is still stuck on stupid. That's what he telling them.
+
+> <sup>[3](/bible/1-corinthians/3#v3)</sup> For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men?
 
 - For ye are yet carnal: You see that? Ye are yet carnal. Meaning what? You brothers is simple as hell. That's what would be said today. You brothers is simple as hell.
 
@@ -640,19 +628,31 @@ Reading from Jacob, Israel versus Esau, Edom (book shown on air, continued)  *[[
 
 - And walk as men: You walk as who? You see that? That's what they doing out there in the streets. You got this gang, that gang. I'm with this set. All that foolishness that was going on in the church.
 
+> <sup>[4](/bible/1-corinthians/3#v4)</sup> For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?
+
 - For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?: So he like, look, you saying you of Paul, this brother saying he of Apollos, brother, you simple as hell.
+
+> <sup>[5](/bible/1-corinthians/3#v5)</sup> Who then is Paul, and who is Apollos, but ministers by whom ye believed, even as the Lord gave to every man?
 
 - Who then is Paul, and who is Apollos, but ministers by whom ye believed: Who am I? We was just teachers, showing y'all the scriptures, showing you Christ in the scriptures.
 
 - Even as the Lord gave to every man: Even as the Lord gave to every man.
 
+> <sup>[6](/bible/1-corinthians/3#v6)</sup> I have planted, Apollos watered; but God gave the increase.
+
 - I have planted, Apollos watered; but God gave the increase: Meaning what? They all working together. Because when you think about it, if you ever had to do any sort of gardening, you got to plant and water. So Paul said, "I was there 18 months planting." Apollos came back and watered what was already sewn. Meaning what? They on the same team. Apollos wasn't digging up the seeds that Paul planted. So he like, "Where the hell am I hearing all these divisions?" Cuz me and Apollos on the same page. You brothers is simple in the mind.
 
+> <sup>[7](/bible/1-corinthians/3#v7)</sup> So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase.
+
 - But God that giveth the increase: You see that? God gives the increase. But that's only if you moving in the spirit. If you carnal minded, you're not going to increase. That's why Paul set up a couple verses, you weren't able to bear the deep stuff in Christ then, no, because the increase wasn't there cuz the brothers was not in the spirit.
+
+> <sup>[8](/bible/1-corinthians/3#v8)</sup> Now he that planteth and he that watereth are one: and every man shall receive his own reward according to his own labour.
 
 - Now he that planteth and he that watereth are one: Are what? You said, that's saying me and Apollos on the same page.
 
 - And every man shall receive his own reward according to his own labour: What? Even though we one, we still both got to work in the vineyard.
+
+> <sup>[9](/bible/1-corinthians/3#v9)</sup> For we are labourers together with God: ye are God’s husbandry, ye are God’s building.
 
 - For we are labourers together with God: Oh, they laborers what? Together. No, by themselves? Together. Against one another? Together. So, we can't bring that Corinthian mindset into the body, fam. Because it divisions fall in the body. Paul is letting us know that's a very carnal mindset. Yeah, I'm down with this captain. I'm down with that cap. No, I'm rolling with the deacon here. I'm rolling with the deacon over there. That's not the spirit. It's no divisions in the leadership. That's why when you get in that ganglike mentality, that's a very carnal base mentality, brother. Understand that thing.
 
@@ -664,12 +664,12 @@ Reading from Jacob, Israel versus Esau, Edom (book shown on air, continued)  *[[
 > <sup>[14](/bible/1-corinthians/1#v14)</sup> I thank God that I baptized none of you, but Crispus and Gaius;
 >
 > <sup>[15](/bible/1-corinthians/1#v15)</sup> Lest any should say that I had baptized in mine own name.
->
+
+- Lest any should say that I had baptized in mine own name: Mean what? He said, man, brother, I was baptized in the name of Paul. Brothers is simple. Brothers is simple. He said I'm glad I didn't do that. Them Christmas and gas, them brothers was in the spirit. You understand that thing? So he said I am glad I didn't baptize any of y'all.
+
 > <sup>[16](/bible/1-corinthians/1#v16)</sup> And I baptized also the household of Stephanas: besides, I know not whether I baptized any other.
 >
 > <sup>[17](/bible/1-corinthians/1#v17)</sup> For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of none effect.
-
-- Lest any should say that I had baptized in mine own name: Mean what? He said, man, brother, I was baptized in the name of Paul. Brothers is simple. Brothers is simple. He said I'm glad I didn't do that. Them Christmas and gas, them brothers was in the spirit. You understand that thing? So he said I am glad I didn't baptize any of y'all.
 
 - For Christ sent me not to baptize, but to preach the gospel: So he said, "The Lord sent me not to baptize." Give me the baptism. Give me Ephesians chapter 5 verse 26. Give me Ephesians chapter 5 verse 26.
 
@@ -711,16 +711,6 @@ Reading from Jacob, Israel versus Esau, Edom (book shown on air, continued)  *[[
 **[Wisdom of Solomon 5:1-6](/bible/wisdom-of-solomon/5#v1)**  *[[1:04:30](https://www.youtube.com/watch?v=m9iqAx0PJkk&t=3870s)]*
 
 > <sup>[1](/bible/wisdom-of-solomon/5#v1)</sup> Then shall the righteous man stand in great boldness before the face of such as have afflicted him, and made no account of his labours.
->
-> <sup>[2](/bible/wisdom-of-solomon/5#v2)</sup> When they see it, they shall be troubled with terrible fear, and shall be amazed at the strangeness of his salvation, so far beyond all that they looked for.
->
-> <sup>[3](/bible/wisdom-of-solomon/5#v3)</sup> And they repenting and groaning for anguish of spirit shall say within themselves, This was he, whom we had sometimes in derision, and a proverb of reproach:
->
-> <sup>[4](/bible/wisdom-of-solomon/5#v4)</sup> We fools accounted his life madness, and his end to be without honour:
->
-> <sup>[5](/bible/wisdom-of-solomon/5#v5)</sup> How is he numbered among the children of God, and his lot is among the saints!
->
-> <sup>[6](/bible/wisdom-of-solomon/5#v6)</sup> Therefore have we erred from the way of truth, and the light of righteousness hath not shined unto us, and the sun of righteousness rose not upon us.
 
 - Then shall the righteous man stand in great boldness: So in that day the righteous man, the brother that was keeping the commandments of God, is going to stand in great boldness.
 
@@ -728,21 +718,31 @@ Reading from Jacob, Israel versus Esau, Edom (book shown on air, continued)  *[[
 
 - And made no account of his labours: They made no account of our labors cuz they said we are foolish for going out there standing on the corner yelling at people.
 
+> <sup>[2](/bible/wisdom-of-solomon/5#v2)</sup> When they see it, they shall be troubled with terrible fear, and shall be amazed at the strangeness of his salvation, so far beyond all that they looked for.
+
 - And shall be amazed at the strangeness of his salvation: So they gonna be like, "Hold on. Them brothers that was yelling and fussing on the corner are being lifted up in the chariots of God." Yes, brother. Yes.
 
 - So far beyond all that they looked for: Cuz they looking for people like Joel Ostein to go flying up, Pastor Pam to go up in the rapture and all that. That's what they looking for. They not going to make it if they don't repent. But Joel Oste ain't going to make it one way or another. But if Pastor Pam stays in that fool, he ain't going to make it.
+
+> <sup>[3](/bible/wisdom-of-solomon/5#v3)</sup> And they repenting and groaning for anguish of spirit shall say within themselves, This was he, whom we had sometimes in derision, and a proverb of reproach:
 
 - This was he, whom we had sometimes in derision: Man, that brother is the one that got saved, who we was mocking, who he called black Hebrew Israelites. That's what they going to be saying to themselves.
 
 - And a proverb of reproach: And a proverb of reproach. They call us BHI, black identity extremist. Hell, domestic terrorist. That's what they labeling us. Then they going to see, man, how much of a fool I was. That's what the scriptures say.
 
+> <sup>[4](/bible/wisdom-of-solomon/5#v4)</sup> We fools accounted his life madness, and his end to be without honour:
+
 - We fools accounted his life madness: You see that? That's what they gonna be saying, "Man, we thought them brothers was off."
 
 - And his end to be without honour: They thought we was going to be burning in the lake of fire. No, brother. That's you.
 
+> <sup>[5](/bible/wisdom-of-solomon/5#v5)</sup> How is he numbered among the children of God, and his lot is among the saints!
+
 - How is he numbered among the children of God: You see that? How are they numbered amongst the children of God? Cuz when they hear that song, when the saints go marching in, they think it's going to be white folk. You understand what I'm saying? They think it's going to be the brother slapping the tambourine with the limp wrist. No, brother. No.
 
 - And his lot is among the saints: They said, "Damn, them brothers was right."
+
+> <sup>[6](/bible/wisdom-of-solomon/5#v6)</sup> Therefore have we erred from the way of truth, and the light of righteousness hath not shined unto us, and the sun of righteousness rose not upon us.
 
 - Therefore have we erred from the way of truth: You see that? Then they going to realize that they erred from the way of truth. And it's too late. It's too late.
 

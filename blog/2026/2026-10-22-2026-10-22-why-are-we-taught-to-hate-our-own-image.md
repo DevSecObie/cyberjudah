@@ -35,12 +35,12 @@ tags: ["IUIC in the ClassRoom", "sabbath"]
 **[Leviticus 13:29-30](/bible/leviticus/13#v29)**  *[[2:38](https://www.youtube.com/watch?v=ber_77e-c-o&t=158s)]*
 
 > <sup>[29](/bible/leviticus/13#v29)</sup> If a man or woman have a plague upon the head or the beard;
->
-> <sup>[30](/bible/leviticus/13#v30)</sup> Then the priest shall see the plague: and, behold, if it be in sight deeper than the skin; and there be in it a yellow thin hair; then the priest shall pronounce him unclean: it is a dry scall, even a leprosy upon the head or beard.
 
 - If a man or woman: We have men that do it, but women do it mostly.
 
 - Have a plague upon the head or the beard: What is a plague? Is that something good? That is something bad.
+
+> <sup>[30](/bible/leviticus/13#v30)</sup> Then the priest shall see the plague: and, behold, if it be in sight deeper than the skin; and there be in it a yellow thin hair; then the priest shall pronounce him unclean: it is a dry scall, even a leprosy upon the head or beard.
 
 - There be in it a yellow thin hair: A blonde hair. It can be red too; some of the sisters and brothers do red, blue, green, orange. But a blonde hair, a yellow thin hair.
 
@@ -96,18 +96,18 @@ tags: ["IUIC in the ClassRoom", "sabbath"]
 **[Exodus 20:8-10](/bible/exodus/20#v8)**  *[[9:35](https://www.youtube.com/watch?v=ber_77e-c-o&t=575s)]*
 
 > <sup>[8](/bible/exodus/20#v8)</sup> Remember the sabbath day, to keep it holy.
->
-> <sup>[9](/bible/exodus/20#v9)</sup> Six days shalt thou labour, and do all thy work:
->
-> <sup>[10](/bible/exodus/20#v10)</sup> But the seventh day is the sabbath of the Lord thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates:
 
 - Remember the sabbath day: It says remember, because you forgot. We are bringing it back to your memory so you can keep it. You say you know the commandments; this is one of them.
 
 - To keep it holy: Holy means separate, separate from all the other days of the week.
 
+> <sup>[9](/bible/exodus/20#v9)</sup> Six days shalt thou labour, and do all thy work:
+
 - Six days shalt thou labour, and do all thy work: You have six days to do everything you want to do, your labour, your work, the gym. Elijah was on his way to the gym and then to work, on the Sabbath. Now you know.
 
 - Ask your boss: I need to keep the Sabbath, I want Saturday off. You can work Saturday night or Sunday morning, however the business runs, all the way through Friday before it gets dark. Once it gets dark on Friday it is the Sabbath, from Friday night to Saturday night. It is easy to do. Just ask.
+
+> <sup>[10](/bible/exodus/20#v10)</sup> But the seventh day is the sabbath of the Lord thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates:
 
 - But the seventh day is the sabbath of the Lord thy God: That is Saturday.
 
@@ -119,8 +119,6 @@ tags: ["IUIC in the ClassRoom", "sabbath"]
 **[Isaiah 58:13-14](/bible/isaiah/58#v13)**  *[[12:30](https://www.youtube.com/watch?v=ber_77e-c-o&t=750s)]*
 
 > <sup>[13](/bible/isaiah/58#v13)</sup> If thou turn away thy foot from the sabbath, from doing thy pleasure on my holy day; and call the sabbath a delight, the holy of the Lord, honourable; and shalt honour him, not doing thine own ways, nor finding thine own pleasure, nor speaking thine own words:
->
-> <sup>[14](/bible/isaiah/58#v14)</sup> Then shalt thou delight thyself in the Lord; and I will cause thee to ride upon the high places of the earth, and feed thee with the heritage of Jacob thy father: for the mouth of the Lord hath spoken it.
 
 - If thou turn away thy foot from the sabbath, from doing thy pleasure on my holy day: Going to the gym is your pleasure. God said, come back.
 
@@ -131,6 +129,8 @@ tags: ["IUIC in the ClassRoom", "sabbath"]
 - Nor finding thine own pleasure: You are going to find more pleasure here, coming back to who you are, being around your family, keeping your own culture. Every other race of people out here has their culture. The Chinese keep to themselves and keep their own way, and they have their own food. That is what we are doing: coming back to ourselves. God said make a delight your culture, but you have to find out what it is first, and the only way is to be amongst the men who are studying and the family that is coming back to its culture.
 
 - If you want, you can be racist like the Most High. Racist just means you love your own people, you love what you have. You don't have to be involved with them. You can have your own food.
+
+> <sup>[14](/bible/isaiah/58#v14)</sup> Then shalt thou delight thyself in the Lord; and I will cause thee to ride upon the high places of the earth, and feed thee with the heritage of Jacob thy father: for the mouth of the Lord hath spoken it.
 
 - Then shalt thou delight thyself in the Lord; and I will cause thee to ride upon the high places of the earth: Do you think we are on high right now above all the other races? We are on low. But if we were on high, would it matter if somebody said they were racist against me? No. I am going to eat my food in my restaurant and wear our clothes.
 

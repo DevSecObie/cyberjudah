@@ -461,7 +461,17 @@ tags: ["IUIC in the ClassRoom", "captivity", "idolatry", "sexual-purity", "youth
 **[Proverbs 1:23-30](/bible/proverbs/1#v23)**  *[[1:50:21](https://www.youtube.com/watch?v=CO-THOc-IhQ&t=6621s)]*
 
 > <sup>[23](/bible/proverbs/1#v23)</sup> Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you.
->
+
+- Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you. He has made his words known to us today, telling us to love each other, to stop the killing, the shooting and the stabbings.
+
+- Because I have called, and ye refused. He calls through the men teaching on the streets and the classes online, telling you to repent, and our people refuse: I want to change, but I have got some ops I want to deal with first. So you wait until one of you dies and then say, okay Lord, I am ready now. That is how the cycle keeps going.
+
+- I also will laugh at your calamity, I will mock when your fear cometh. Everyone is good while they have the upper hand; when the table turns and you are the one being chased, he will laugh and he will mock.
+
+- Then shall they call upon me, but I will not answer. In your hospital bed saying God help me, God save me, when the Lord already tried to save you and told you to repent.
+
+- For that they hated knowledge and did not choose the fear of the Lord. We cannot despise the Lord's correction. We need to fix this and fix our community and come out of this wickedness, and it starts with the things we watch.
+
 > <sup>[24](/bible/proverbs/1#v24)</sup> Because I have called, and ye refused; I have stretched out my hand, and no man regarded;
 >
 > <sup>[25](/bible/proverbs/1#v25)</sup> But ye have set at nought all my counsel, and would none of my reproof:
@@ -475,16 +485,6 @@ tags: ["IUIC in the ClassRoom", "captivity", "idolatry", "sexual-purity", "youth
 > <sup>[29](/bible/proverbs/1#v29)</sup> For that they hated knowledge, and did not choose the fear of the Lord:
 >
 > <sup>[30](/bible/proverbs/1#v30)</sup> They would none of my counsel: they despised all my reproof.
-
-- Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you. He has made his words known to us today, telling us to love each other, to stop the killing, the shooting and the stabbings.
-
-- Because I have called, and ye refused. He calls through the men teaching on the streets and the classes online, telling you to repent, and our people refuse: I want to change, but I have got some ops I want to deal with first. So you wait until one of you dies and then say, okay Lord, I am ready now. That is how the cycle keeps going.
-
-- I also will laugh at your calamity, I will mock when your fear cometh. Everyone is good while they have the upper hand; when the table turns and you are the one being chased, he will laugh and he will mock.
-
-- Then shall they call upon me, but I will not answer. In your hospital bed saying God help me, God save me, when the Lord already tried to save you and told you to repent.
-
-- For that they hated knowledge and did not choose the fear of the Lord. We cannot despise the Lord's correction. We need to fix this and fix our community and come out of this wickedness, and it starts with the things we watch.
 
 
 **[Wisdom of Solomon 14:27](/bible/wisdom-of-solomon/14#v27)**  *[[1:53:38](https://www.youtube.com/watch?v=CO-THOc-IhQ&t=6818s)]*

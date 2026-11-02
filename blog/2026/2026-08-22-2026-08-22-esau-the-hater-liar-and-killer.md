@@ -483,21 +483,21 @@ Reading from article number 27, on how Jewish people got the land of Israel from
 
 **[Malachi 1:1-4](/bible/malachi/1#v1)**  *[[1:50:14](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=6614s)]*
 
+- The burden of the word of the Lord to Israel by Malachi.
+
 > <sup>[1](/bible/malachi/1#v1)</sup> The burden of the word of the Lord to Israel by Malachi.
 >
 > <sup>[2](/bible/malachi/1#v2)</sup> I have loved you, saith the Lord. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob’s brother? saith the Lord: yet I loved Jacob,
->
-> <sup>[3](/bible/malachi/1#v3)</sup> And I hated Esau, and laid his mountains and his heritage waste for the dragons of the wilderness.
->
-> <sup>[4](/bible/malachi/1#v4)</sup> Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the Lord of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the Lord hath indignation for ever.
-
-- The burden of the word of the Lord to Israel by Malachi.
 
 - I have loved you, saith the Lord. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob's brother? saith the Lord: yet I loved Jacob, And I hated Esau. So Esau hated us right back, because God hated him.
 
 - And laid his mountains and his heritage waste for the dragons of the wilderness. Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the Lord of hosts, They shall build, but I will throw down. They shall build, but I will throw down. The Most High is going to destroy them. He has destroyed them before, and this time coming he is going to destroy them for ever.
 
 - And they shall call them, The border of wickedness, and, The people against whom the Lord hath indignation for ever. They are going to call him the border of wickedness. That is why even the Arabs call him the Great Satan. Because no matter where this man goes, what follows? Death. Raping, pillaging. That is his character. He just cannot have enough. But as he is doing all this he claims to be Christian, he claims to be a Jew. But really, where does he get the power from? Satan.
+
+> <sup>[3](/bible/malachi/1#v3)</sup> And I hated Esau, and laid his mountains and his heritage waste for the dragons of the wilderness.
+>
+> <sup>[4](/bible/malachi/1#v4)</sup> Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the Lord of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the Lord hath indignation for ever.
 
 **[Luke 4:5-6](/bible/luke/4#v5)**  *[[1:52:03](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=6723s)]*
 
@@ -704,14 +704,14 @@ Reading from a search on the cop in Florida who said he did not know why he shot
 **[2 Thessalonians 2:3-4](/bible/2-thessalonians/2#v3)**  *[[2:38:02](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=9482s)]*
 
 > <sup>[3](/bible/2-thessalonians/2#v3)</sup> Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
->
-> <sup>[4](/bible/2-thessalonians/2#v4)</sup> Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God.
 
 - Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition. The falling away was us going into captivity.
 
 - And that man of sin be revealed. That is the thing. That man of sin must be revealed. It is our job to reveal that man of sin. That bloody man, that man full of malice, full of hatred, full of lies, that thieving killer. It is our job to reveal him, because everybody took him as God.
 
 - Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God. That is his characteristic. He opposes and exalts himself above everything that is called God. So he made his image to be the image of God, the image of Christ, and the whole world worships him as God.
+
+> <sup>[4](/bible/2-thessalonians/2#v4)</sup> Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God.
 
 <div class="reading">
 

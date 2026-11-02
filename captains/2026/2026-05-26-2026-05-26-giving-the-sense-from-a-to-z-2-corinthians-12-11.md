@@ -44,13 +44,13 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion"]
 
 **[Acts 18:10-11](/bible/acts/18#v10)**  *[[7:24](https://www.youtube.com/watch?v=UvhPV2VLBBE&t=444s)]*
 
-> <sup>[10](/bible/acts/18#v10)</sup> For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city.
->
-> <sup>[11](/bible/acts/18#v11)</sup> And he continued there a year and six months, teaching the word of God among them.
-
 - Paul's letters: Now, let's jump into second Corinthians. So, for those of you that have been following along, you know that Paul's letters are hard to be understood, okay? But when you read the book of Acts and you understand the Old Testament, you're able to follow along in Paul's writings and understand what he's saying. Now, the church in Corinth, give me Acts 18 and verse 10.
 
+> <sup>[10](/bible/acts/18#v10)</sup> For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city.
+
 - For I have much people in this city: This city is Corinth. Okay, this city is Corinth. So he said, I have much people in this city.
+
+> <sup>[11](/bible/acts/18#v11)</sup> And he continued there a year and six months, teaching the word of God among them.
 
 - And he continued there a year and six months, teaching the word of God among them: Right? So Paul stayed in Corinth for 18 months. A year and six months. One year, six months. So he was there for a year and a half teaching these brothers and sisters, building with these brothers and sisters. All right, that's what you have to understand. So a lot of things that Paul is talking about are things that he had already discussed with them during his time there. There's another part that he says in his letters where he talks about how he dealt with them weeping and with tears, constantly trying to warn them. Same thing in Ephesus. He did the same thing in Ephesus. So when we're reading the letters of Paul, you got to understand he actually traveled to these places, had a relationship with these brothers and sisters that was in the congregation and he was steering them in the right direction.
 
@@ -110,16 +110,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion"]
 > <sup>[16](/bible/john/15#v16)</sup> Ye have not chosen me, but I have chosen you, and ordained you, that ye should go and bring forth fruit, and that your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you.
 >
 > <sup>[17](/bible/john/15#v17)</sup> These things I command you, that ye love one another.
->
-> <sup>[18](/bible/john/15#v18)</sup> If the world hate you, ye know that it hated me before it hated you.
->
-> <sup>[19](/bible/john/15#v19)</sup> If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you.
 
 - These things I command you, that ye love one another: Make sure y'all love each other.
+
+> <sup>[18](/bible/john/15#v18)</sup> If the world hate you, ye know that it hated me before it hated you.
 
 - If the world hate you: When it say the world, it mean first and foremost those Israelites, those wicked Israelites. That's first and foremost what it talking about. If the world hate you, those your brothers that's outside of this understanding, that's outside of this light, they in the darkness.
 
 - Ye know that it hated me before it hated you: It hated Christ before it hated you. Our people have always hated the Lord. Some of our people, a remnant of our people, love Christ. But Christ is revealing to us, for centuries there have always been rebellious Israelites that hate him, that just do not want to do what he said. They hated him in the wilderness. They hated him when we went in and out of captivity. Even up until this day, many of our people hate the Lord. You understand? They don't want to do what the Lord says. They don't want to follow his commandments. So he said, “If the world hate you, just know it hated me first.” It's impossible for them to hate us and not hate our father that created us.
+
+> <sup>[19](/bible/john/15#v19)</sup> If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you.
 
 - If ye were of the world, the world would love his own: You was like them, they would love you.
 
@@ -165,16 +165,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion"]
 **[2 Corinthians 12:11-14](/bible/2-corinthians/12#v11)**  *[[27:33](https://www.youtube.com/watch?v=UvhPV2VLBBE&t=1653s)]*
 
 > <sup>[11](/bible/2-corinthians/12#v11)</sup> I am become a fool in glorying; ye have compelled me: for I ought to have been commended of you: for in nothing am I behind the very chiefest apostles, though I be nothing.
->
-> <sup>[12](/bible/2-corinthians/12#v12)</sup> Truly the signs of an apostle were wrought among you in all patience, in signs, and wonders, and mighty deeds.
->
-> <sup>[13](/bible/2-corinthians/12#v13)</sup> For what is it wherein ye were inferior to other churches, except it be that I myself was not burdensome to you? forgive me this wrong.
->
-> <sup>[14](/bible/2-corinthians/12#v14)</sup> Behold, the third time I am ready to come to you; and I will not be burdensome to you: for I seek not yours, but you: for the children ought not to lay up for the parents, but the parents for the children.
 
 - I am become a fool in glorying; ye have compelled me: Right? He said, I am become a fool in glorying, you have compelled me. For I ought to have been commended of you, for in nothing am I behind the very chiefest of apostles, though I be nothing. He said, though I humble myself, don't get it twisted. In nothing am I behind the very chiefest of apostles. In other words, I got understanding. That's what Paul's saying. I got understanding. I understand what I'm reading. I understand the scriptures. Don't get it twisted. But I humble myself. And I thought by humbling myself, y'all would respect it. But obviously, you don't. Obviously, you don't. He always had a problem with the church in Corinth. Brothers and sisters, when you read these letters, you got to understand that, right?
 
+> <sup>[12](/bible/2-corinthians/12#v12)</sup> Truly the signs of an apostle were wrought among you in all patience, in signs, and wonders, and mighty deeds.
+
 - Truly the signs of an apostle were wrought among you in all patience, in signs, and wonders, and mighty deeds: Said truly the signs of an apostle were wrought among you in all patience and signs and wonders and in mighty deeds. He said surely I have to be an apostle based off all the things the Lord used me to do amongst y'all. I obviously have to be an apostle. You know y'all would say that I'm not, or have not respected me as such. But the things that the Lord used me to do amongst you, those are the works of an apostle.
+
+> <sup>[13](/bible/2-corinthians/12#v13)</sup> For what is it wherein ye were inferior to other churches, except it be that I myself was not burdensome to you? forgive me this wrong.
+>
+> <sup>[14](/bible/2-corinthians/12#v14)</sup> Behold, the third time I am ready to come to you; and I will not be burdensome to you: for I seek not yours, but you: for the children ought not to lay up for the parents, but the parents for the children.
 
 - For the children ought not to lay up for the parents, but the parents for the children: Right? So he's saying, “Look, I'm coming to y'all as a father. This time that I come, I'm not going to be burdensome unto you. I don't need nothing from you. I'm coming to you as a father.” The children don't wait on the father. The father is basically saying, “The children are not to lay up for the father, for the parents, but the parents for the children.” Meaning, I am going to prepare y'all for what's to come next. I'm going to give you the wisdom and understanding when I come to prepare y'all for what's coming next. Like a father prepares his children. I'm not looking for y'all to take care of me, because he always had issue with them taking care of him or looking out for him.
 
@@ -197,16 +197,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion"]
 **[2 Corinthians 12:14-19](/bible/2-corinthians/12#v14)**  *[[30:38](https://www.youtube.com/watch?v=UvhPV2VLBBE&t=1838s)]*
 
 > <sup>[14](/bible/2-corinthians/12#v14)</sup> Behold, the third time I am ready to come to you; and I will not be burdensome to you: for I seek not yours, but you: for the children ought not to lay up for the parents, but the parents for the children.
->
-> <sup>[15](/bible/2-corinthians/12#v15)</sup> And I will very gladly spend and be spent for you; though the more abundantly I love you, the less I be loved.
->
-> <sup>[16](/bible/2-corinthians/12#v16)</sup> But be it so, I did not burden you: nevertheless, being crafty, I caught you with guile.
->
-> <sup>[17](/bible/2-corinthians/12#v17)</sup> Did I make a gain of you by any of them whom I sent unto you?
->
-> <sup>[18](/bible/2-corinthians/12#v18)</sup> I desired Titus, and with him I sent a brother. Did Titus make a gain of you? walked we not in the same spirit? walked we not in the same steps?
->
-> <sup>[19](/bible/2-corinthians/12#v19)</sup> Again, think ye that we excuse ourselves unto you? we speak before God in Christ: but we do all things, dearly beloved, for your edifying.
 
 - And I will not be burdensome to you: I'm not going to be burdensome to you.
 
@@ -216,11 +206,21 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion"]
 
 - But the parents for the children: The parents lay up wealth for the children. He said, “So I won't be burdensome to you. I'm not asking y'all for anything. I want to see you.” This some heavy stuff. This right here is the same way the leadership is today, because every time there's a grand opening or a visit from bishops, deacons, captains, what is always the same thing said? Thank you for the gifts, but what's better for us is that the congregation be in good spirits and you grow. Bishop Nathanyel always says the same thing. Bishop Kani, Bishop Yawasap. I've been with them on foreign trips or trips to different schools and I sat there and watched people give them gifts and say how much they love them and want to hug them and take pictures, and they always all say the same thing. We need a sinless congregation. We got to stay focused on the mission. The mission is to get out of here. Thank you for the gifts. Thank you for all of that. Thank you. But the mission is to get out of Babylon. Christ to redeem us. And he only gonna redeem us when he sees us fit. When he sees that we are a blameless church. We trying to get to being blameless. That's it. That's what we trying to get to. Doing things in order. You understand?
 
+> <sup>[15](/bible/2-corinthians/12#v15)</sup> And I will very gladly spend and be spent for you; though the more abundantly I love you, the less I be loved.
+
 - Though the more abundantly I love you, the less I be loved: It seemed like the more I love y'all, the less I'm loved.
+
+> <sup>[16](/bible/2-corinthians/12#v16)</sup> But be it so, I did not burden you: nevertheless, being crafty, I caught you with guile.
 
 - Nevertheless, being crafty, I caught you with guile: He said, but being crafty, I caught you with guile. Y'all lying.
 
+> <sup>[17](/bible/2-corinthians/12#v17)</sup> Did I make a gain of you by any of them whom I sent unto you?
+>
+> <sup>[18](/bible/2-corinthians/12#v18)</sup> I desired Titus, and with him I sent a brother. Did Titus make a gain of you? walked we not in the same spirit? walked we not in the same steps?
+
 - Did Titus make a gain of you? walked we not in the same spirit? walked we not in the same steps?: But he said, “I didn't do wrong by you. I sent Titus.” And Titus didn't do wrong by you either. He moved like I moved. Just like I didn't ask y'all for nothing, Titus didn't ask y'all for nothing. Did I make a gain of you by any of them whom I sent unto you? I desired Titus. And with him I sent a brother. Did Titus make a gain of you? Walked we not in the same spirit? Walked we not in the same steps?
+
+> <sup>[19](/bible/2-corinthians/12#v19)</sup> Again, think ye that we excuse ourselves unto you? we speak before God in Christ: but we do all things, dearly beloved, for your edifying.
 
 - But we do all things, dearly beloved, for your edifying: At the end of the day, everything that we're doing is to edify the church.
 
@@ -228,10 +228,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion"]
 **[2 Corinthians 10:7-8](/bible/2-corinthians/10#v7)**  *[[34:19](https://www.youtube.com/watch?v=UvhPV2VLBBE&t=2059s)]*
 
 > <sup>[7](/bible/2-corinthians/10#v7)</sup> Do ye look on things after the outward appearance? If any man trust to himself that he is Christ’s, let him of himself think this again, that, as he is Christ’s, even so are we Christ’s.
->
-> <sup>[8](/bible/2-corinthians/10#v8)</sup> For though I should boast somewhat more of our authority, which the Lord hath given us for edification, and not for your destruction, I should not be ashamed:
 
 - As he is Christ's, even so are we Christ's: Go back to chapter 10 real quick. Read seven and eight. This is how Paul dealt with the church in Corinth. And watch what he says. As he is Christ's, even so are we Christ's. If you consider Christ to be dealing with you, and we taught you, then must not Christ be dealing with us? That's what Paul is saying.
+
+> <sup>[8](/bible/2-corinthians/10#v8)</sup> For though I should boast somewhat more of our authority, which the Lord hath given us for edification, and not for your destruction, I should not be ashamed:
 
 - For though I should boast somewhat more of our authority, which the Lord hath given us for edification, and not for your destruction, I should not be ashamed: Right? He said I'm not ashamed because Christ gave us this authority over you for your edification, to teach you. It's the same way now. We ain't boasting. And when I say we, I mean leadership, the upper leadership, which is the bishops and the deacons. They don't exalt themselves over men. They don't look down on brothers. I sit there and watch Bishop Kani allow young men, soldiers, young prophets break down scriptures in his class. We done had Bishop Kani do classes where he asked questions and let the young men, the young sons in the congregation stand up and answer the questions, you understand? So it's not exalting ourselves over you. Leadership is not exalting themselves over us. God gave them that authority over us in the scriptures to edify us, to lead us, to teach us. That's what we learning y'all. That's what we learning. That's what we trying to figure out. You understand? So Paul dealing with the church in Corinth the same way. Like listen man, at the end of the day I'm here for your edifying. Okay.
 
@@ -257,10 +257,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion"]
 **[2 Corinthians 13:1-2](/bible/2-corinthians/13#v1)**  *[[41:15](https://www.youtube.com/watch?v=UvhPV2VLBBE&t=2475s)]*
 
 > <sup>[1](/bible/2-corinthians/13#v1)</sup> This is the third time I am coming to you. In the mouth of two or three witnesses shall every word be established.
->
-> <sup>[2](/bible/2-corinthians/13#v2)</sup> I told you before, and foretell you, as if I were present, the second time; and being absent now I write to them which heretofore have sinned, and to all other, that, if I come again, I will not spare:
 
 - In the mouth of two or three witnesses shall every word be established: In the mouth of two or three witnesses shall every word be established.
+
+> <sup>[2](/bible/2-corinthians/13#v2)</sup> I told you before, and foretell you, as if I were present, the second time; and being absent now I write to them which heretofore have sinned, and to all other, that, if I come again, I will not spare:
 
 - If I come again, I will not spare: I'm letting you know the next time I come, if I have to come down there again, I will not spare. I'm coming with the hammer. Meaning what? I'm throwing people out the church, because he wasn't talking about hurting nobody, obviously. For those that may be thinking that the Apostle Paul was speaking carnally, like he's going to whoop some ass. No, he ain't going to whoop no ass.
 
@@ -268,12 +268,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion"]
 **[1 Corinthians 5:11-13](/bible/1-corinthians/5#v11)**  *[[42:42](https://www.youtube.com/watch?v=UvhPV2VLBBE&t=2562s)]*
 
 > <sup>[11](/bible/1-corinthians/5#v11)</sup> But now I have written unto you not to keep company, if any man that is called a brother be a fornicator, or covetous, or an idolater, or a railer, or a drunkard, or an extortioner; with such an one no not to eat.
->
+
+- With such an one no not to eat: Right? With such an one, excuse me, no not to eat.
+
 > <sup>[12](/bible/1-corinthians/5#v12)</sup> For what have I to do to judge them also that are without? do not ye judge them that are within?
 >
 > <sup>[13](/bible/1-corinthians/5#v13)</sup> But them that are without God judgeth. Therefore put away from among yourselves that wicked person.
-
-- With such an one no not to eat: Right? With such an one, excuse me, no not to eat.
 
 - But them that are without God judgeth: But them that are without God judgeth.
 
@@ -283,32 +283,32 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion"]
 **[2 Corinthians 13:3-10](/bible/2-corinthians/13#v3)**  *[[43:34](https://www.youtube.com/watch?v=UvhPV2VLBBE&t=2614s)]*
 
 > <sup>[3](/bible/2-corinthians/13#v3)</sup> Since ye seek a proof of Christ speaking in me, which to you-ward is not weak, but is mighty in you.
->
-> <sup>[4](/bible/2-corinthians/13#v4)</sup> For though he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you.
->
-> <sup>[5](/bible/2-corinthians/13#v5)</sup> Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?
->
-> <sup>[6](/bible/2-corinthians/13#v6)</sup> But I trust that ye shall know that we are not reprobates.
->
-> <sup>[7](/bible/2-corinthians/13#v7)</sup> Now I pray to God that ye do no evil; not that we should appear approved, but that ye should do that which is honest, though we be as reprobates.
->
-> <sup>[8](/bible/2-corinthians/13#v8)</sup> For we can do nothing against the truth, but for the truth.
->
-> <sup>[9](/bible/2-corinthians/13#v9)</sup> For we are glad, when we are weak, and ye are strong: and this also we wish, even your perfection.
->
-> <sup>[10](/bible/2-corinthians/13#v10)</sup> Therefore I write these things being absent, lest being present I should use sharpness, according to the power which the Lord hath given me to edification, and not to destruction.
 
 - Since ye seek a proof of Christ speaking in me: Since you want to know if Christ dealing with me.
 
+> <sup>[4](/bible/2-corinthians/13#v4)</sup> For though he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you.
+
 - But we shall live with him by the power of God toward you: Right? So Christ moving in us to deal with you, to edify the church.
+
+> <sup>[5](/bible/2-corinthians/13#v5)</sup> Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?
 
 - Examine yourselves, whether ye be in the faith: So knowing that, you better examine yourself whether you be in the faith.
 
 - Except ye be reprobates: Right. Examine yourselves whether you be in the faith. Prove your own selves. Know ye not your own selves how that Jesus Christ is in you, except ye be reprobates. Unless you're a reprobate, because if you're a reprobate then obviously Christ ain't dealing with you, because a reprobate mean void of judgment. So now examine yourselves whether Christ is in you, because you're always trying to judge me to see if Christ is in me. When I get there I'mma show it to you. You need to examine yourself whether Christ is in you, because you know yourself, lest you be a reprobate. Because a reprobate, he can't determine it, because he's void of judgment. His mind is gone. He's in a delusion now. So he can't determine whether Christ is dealing with him or not. In his mind he think he good. That's why the scripture say a man's mind sometime want to tell him more than seven watchmen that sit up in a high tower. The mind is powerful. It can become delusional, deranged. You understand? I'm gonna go over that this weekend, Lord's will.
 
+> <sup>[6](/bible/2-corinthians/13#v6)</sup> But I trust that ye shall know that we are not reprobates.
+>
+> <sup>[7](/bible/2-corinthians/13#v7)</sup> Now I pray to God that ye do no evil; not that we should appear approved, but that ye should do that which is honest, though we be as reprobates.
+>
+> <sup>[8](/bible/2-corinthians/13#v8)</sup> For we can do nothing against the truth, but for the truth.
+
 - For we can do nothing against the truth, but for the truth: Nothing can be done against this truth, only for the truth. Okay.
 
+> <sup>[9](/bible/2-corinthians/13#v9)</sup> For we are glad, when we are weak, and ye are strong: and this also we wish, even your perfection.
+
 - For we are glad, when we are weak, and ye are strong: and this also we wish, even your perfection: We hope that in our weakness, meaning times when we lack things or times when we're persecuted, in prison and even put to death, that it makes you stronger, that that spirit of Christ ignites in you, that flame sparks in you to continue unto the end.
+
+> <sup>[10](/bible/2-corinthians/13#v10)</sup> Therefore I write these things being absent, lest being present I should use sharpness, according to the power which the Lord hath given me to edification, and not to destruction.
 
 - Lest being present I should use sharpness: Because I'm writing these things absent, because if I was there, I'll be much sharper, meaning he gonna rebuke sharply. According to the power which the Lord hath given me to edification and not to destruction. I'll have to be mindful of how I speak to y'all, because right now y'all pissing me off. That's basically what he's saying. The Lord gave me power to deal with y'all, but y'all pissing me off the way y'all moving. I'm with Paul. I like Paul. That's my forefather right there. All praise to the most high.
 
@@ -316,14 +316,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion"]
 **[2 Corinthians 13:11-14](/bible/2-corinthians/13#v11)**  *[[47:21](https://www.youtube.com/watch?v=UvhPV2VLBBE&t=2841s)]*
 
 > <sup>[11](/bible/2-corinthians/13#v11)</sup> Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you.
->
+
+- Finally, brethren, farewell: I'm gonna finish this out. Verse 11. Amen. All praises to the most high. So that's second Corinthians chapter 13, and that's also second Corinthians in its entirety. So we are moving on from second Corinthians, or from the letters of the Corinthians. We're moving on past that. All praises to the most high. We'll be moving to the next book.
+
 > <sup>[12](/bible/2-corinthians/13#v12)</sup> Greet one another with an holy kiss.
 >
 > <sup>[13](/bible/2-corinthians/13#v13)</sup> All the saints salute you.
 >
 > <sup>[14](/bible/2-corinthians/13#v14)</sup> The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen. The second epistle to the Corinthians was written from Philippi, a city of Macedonia, by Titus and Lucas.
-
-- Finally, brethren, farewell: I'm gonna finish this out. Verse 11. Amen. All praises to the most high. So that's second Corinthians chapter 13, and that's also second Corinthians in its entirety. So we are moving on from second Corinthians, or from the letters of the Corinthians. We're moving on past that. All praises to the most high. We'll be moving to the next book.
 
 
 ## In Closing

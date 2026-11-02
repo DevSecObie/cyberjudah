@@ -23,6 +23,12 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion"]
 
 **[Jeremiah 23:1-15](/bible/jeremiah/23#v1)**  *[[13:22](https://www.youtube.com/watch?v=QNTH14obhzs&t=802s)]*
 
+- Woe be unto the pastors that destroy and scatter the sheep of my pasture. The sheep are the lost sheep of the house of Israel, the twelve tribes, not every nation. Pastors scatter the flock by dividing our people into Baptists, Methodists and Catholics and driving them from the knowledge of the one true God.
+
+- God will gather the remnant out of all countries whither he drove them, from Assyria and Babylon down to Spain, France, England and America, and set up shepherds who feed them with knowledge and understanding, which Malachi says is the law at the priest's lips.
+
+- The righteous Branch of David is Christ, who shall execute judgment and justice in the earth. That is why the white man does not want Christ back: he has never executed justice, because he would have to start with himself. Our people in the churches do not want it either; read them Revelation 13:10 and they say no, not that Jesus justice, give the white man a pass. Even our righteous ancestors, Daniel, Ezekiel, Mordecai and Esther, went into captivity, so the 'good white folks' are going into captivity too.
+
 > <sup>[1](/bible/jeremiah/23#v1)</sup> Woe be unto the pastors that destroy and scatter the sheep of my pasture! saith the Lord.
 >
 > <sup>[2](/bible/jeremiah/23#v2)</sup> Therefore thus saith the Lord God of Israel against the pastors that feed my people; Ye have scattered my flock, and driven them away, and have not visited them: behold, I will visit upon you the evil of your doings, saith the Lord.
@@ -34,30 +40,6 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion"]
 > <sup>[5](/bible/jeremiah/23#v5)</sup> Behold, the days come, saith the Lord, that I will raise unto David a righteous Branch, and a King shall reign and prosper, and shall execute judgment and justice in the earth.
 >
 > <sup>[6](/bible/jeremiah/23#v6)</sup> In his days Judah shall be saved, and Israel shall dwell safely: and this is his name whereby he shall be called, THE LORD OUR RIGHTEOUSNESS.
->
-> <sup>[7](/bible/jeremiah/23#v7)</sup> Therefore, behold, the days come, saith the Lord, that they shall no more say, The Lord liveth, which brought up the children of Israel out of the land of Egypt;
->
-> <sup>[8](/bible/jeremiah/23#v8)</sup> But, The Lord liveth, which brought up and which led the seed of the house of Israel out of the north country, and from all countries whither I had driven them; and they shall dwell in their own land.
->
-> <sup>[9](/bible/jeremiah/23#v9)</sup> Mine heart within me is broken because of the prophets; all my bones shake; I am like a drunken man, and like a man whom wine hath overcome, because of the Lord, and because of the words of his holiness.
->
-> <sup>[10](/bible/jeremiah/23#v10)</sup> For the land is full of adulterers; for because of swearing the land mourneth; the pleasant places of the wilderness are dried up, and their course is evil, and their force is not right.
->
-> <sup>[11](/bible/jeremiah/23#v11)</sup> For both prophet and priest are profane; yea, in my house have I found their wickedness, saith the Lord.
->
-> <sup>[12](/bible/jeremiah/23#v12)</sup> Wherefore their way shall be unto them as slippery ways in the darkness: they shall be driven on, and fall therein: for I will bring evil upon them, even the year of their visitation, saith the Lord.
->
-> <sup>[13](/bible/jeremiah/23#v13)</sup> And I have seen folly in the prophets of Samaria; they prophesied in Baal, and caused my people Israel to err.
->
-> <sup>[14](/bible/jeremiah/23#v14)</sup> I have seen also in the prophets of Jerusalem an horrible thing: they commit adultery, and walk in lies: they strengthen also the hands of evildoers, that none doth return from his wickedness: they are all of them unto me as Sodom, and the inhabitants thereof as Gomorrah.
->
-> <sup>[15](/bible/jeremiah/23#v15)</sup> Therefore thus saith the Lord of hosts concerning the prophets; Behold, I will feed them with wormwood, and make them drink the water of gall: for from the prophets of Jerusalem is profaneness gone forth into all the land.
-
-- Woe be unto the pastors that destroy and scatter the sheep of my pasture. The sheep are the lost sheep of the house of Israel, the twelve tribes, not every nation. Pastors scatter the flock by dividing our people into Baptists, Methodists and Catholics and driving them from the knowledge of the one true God.
-
-- God will gather the remnant out of all countries whither he drove them, from Assyria and Babylon down to Spain, France, England and America, and set up shepherds who feed them with knowledge and understanding, which Malachi says is the law at the priest's lips.
-
-- The righteous Branch of David is Christ, who shall execute judgment and justice in the earth. That is why the white man does not want Christ back: he has never executed justice, because he would have to start with himself. Our people in the churches do not want it either; read them Revelation 13:10 and they say no, not that Jesus justice, give the white man a pass. Even our righteous ancestors, Daniel, Ezekiel, Mordecai and Esther, went into captivity, so the 'good white folks' are going into captivity too.
 
 - In his days Judah shall be saved and Israel shall dwell safely: not the Baptists or the Catholics. Judah and Israel are named separately because of the two kingdoms. They will no longer say 'the Lord that brought Israel out of Egypt' but 'the Lord that brought the seed of Israel out of the north country,' North America, and from all countries into their own land, which is Jerusalem.
 
@@ -98,6 +80,24 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion"]
     > <sup>[5](/bible/zechariah/11#v5)</sup> Whose possessors slay them, and hold themselves not guilty: and they that sell them say, Blessed be the Lord; for I am rich: and their own shepherds pity them not.
 
     Whose possessors slay them and hold themselves not guilty, and they that sell them say 'Blessed be the Lord, for I am rich,' and their own shepherds pity them not. The white man possesses us, walks free after killing us, took the covenant in his mouth, and our own pastors do not care.
+
+> <sup>[7](/bible/jeremiah/23#v7)</sup> Therefore, behold, the days come, saith the Lord, that they shall no more say, The Lord liveth, which brought up the children of Israel out of the land of Egypt;
+>
+> <sup>[8](/bible/jeremiah/23#v8)</sup> But, The Lord liveth, which brought up and which led the seed of the house of Israel out of the north country, and from all countries whither I had driven them; and they shall dwell in their own land.
+>
+> <sup>[9](/bible/jeremiah/23#v9)</sup> Mine heart within me is broken because of the prophets; all my bones shake; I am like a drunken man, and like a man whom wine hath overcome, because of the Lord, and because of the words of his holiness.
+>
+> <sup>[10](/bible/jeremiah/23#v10)</sup> For the land is full of adulterers; for because of swearing the land mourneth; the pleasant places of the wilderness are dried up, and their course is evil, and their force is not right.
+>
+> <sup>[11](/bible/jeremiah/23#v11)</sup> For both prophet and priest are profane; yea, in my house have I found their wickedness, saith the Lord.
+>
+> <sup>[12](/bible/jeremiah/23#v12)</sup> Wherefore their way shall be unto them as slippery ways in the darkness: they shall be driven on, and fall therein: for I will bring evil upon them, even the year of their visitation, saith the Lord.
+>
+> <sup>[13](/bible/jeremiah/23#v13)</sup> And I have seen folly in the prophets of Samaria; they prophesied in Baal, and caused my people Israel to err.
+>
+> <sup>[14](/bible/jeremiah/23#v14)</sup> I have seen also in the prophets of Jerusalem an horrible thing: they commit adultery, and walk in lies: they strengthen also the hands of evildoers, that none doth return from his wickedness: they are all of them unto me as Sodom, and the inhabitants thereof as Gomorrah.
+>
+> <sup>[15](/bible/jeremiah/23#v15)</sup> Therefore thus saith the Lord of hosts concerning the prophets; Behold, I will feed them with wormwood, and make them drink the water of gall: for from the prophets of Jerusalem is profaneness gone forth into all the land.
 
 
 <div class="reading">
@@ -795,30 +795,16 @@ Reading from an on-screen summary of the Board of Peace  *[[2:27:15](https://www
 > <sup>[1](/bible/psalms/19#v1)</sup> The heavens declare the glory of God; and the firmament sheweth his handywork.
 >
 > <sup>[2](/bible/psalms/19#v2)</sup> Day unto day uttereth speech, and night unto night sheweth knowledge.
->
-> <sup>[3](/bible/psalms/19#v3)</sup> There is no speech nor language, where their voice is not heard.
->
-> <sup>[4](/bible/psalms/19#v4)</sup> Their line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun,
->
-> <sup>[5](/bible/psalms/19#v5)</sup> Which is as a bridegroom coming out of his chamber, and rejoiceth as a strong man to run a race.
->
-> <sup>[6](/bible/psalms/19#v6)</sup> His going forth is from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof.
->
-> <sup>[7](/bible/psalms/19#v7)</sup> The law of the Lord is perfect, converting the soul: the testimony of the Lord is sure, making wise the simple.
->
-> <sup>[8](/bible/psalms/19#v8)</sup> The statutes of the Lord are right, rejoicing the heart: the commandment of the Lord is pure, enlightening the eyes.
->
-> <sup>[9](/bible/psalms/19#v9)</sup> The fear of the Lord is clean, enduring for ever: the judgments of the Lord are true and righteous altogether.
->
-> <sup>[10](/bible/psalms/19#v10)</sup> More to be desired are they than gold, yea, than much fine gold: sweeter also than honey and the honeycomb.
->
-> <sup>[11](/bible/psalms/19#v11)</sup> Moreover by them is thy servant warned: and in keeping of them there is great reward.
 
 - Day unto day uttereth speech and night unto night sheweth knowledge: not the sun and stars but the teachers, teaching day and night. There is no speech nor language where their voice is not heard; their line is gone out through all the earth, and their words to the end of the world. Romans 10:18 proves Paul read it as the sound of the gospel going into all the earth.
 
 - How shall they hear without a preacher, and how shall they preach except they be sent? Prepare yourselves to be sent. Faith cometh by hearing and hearing by the word of God: however old you are, that is how many years of brainwashing you must undo, so once a week will not do it; listen daily and read more than four chapters.
 
 - The line going out through all the earth is repentance for the twelve tribes in the name of Christ, not the doctrines of concubines, or John the Baptist as a wicked Israelite, or animal sacrifice under the old covenant. God has favoured this teaching.
+
+> <sup>[3](/bible/psalms/19#v3)</sup> There is no speech nor language, where their voice is not heard.
+>
+> <sup>[4](/bible/psalms/19#v4)</sup> Their line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun,
 
 - In them hath he set a tabernacle for the sun: sanctuaries for the wisdom of the word in every state and country, fulfilling prophecy. The teacher is as a bridegroom coming out of his chamber and a strong man running a race; if you are boring, sit down.
 
@@ -838,42 +824,24 @@ Reading from an on-screen summary of the Board of Peace  *[[2:27:15](https://www
 
     How shall they hear without a preacher, and how shall they preach except they be sent? Faith cometh by hearing, and hearing by the word of God. Have they not heard? Yes verily, their sound went into all the earth.
 
+> <sup>[5](/bible/psalms/19#v5)</sup> Which is as a bridegroom coming out of his chamber, and rejoiceth as a strong man to run a race.
+>
+> <sup>[6](/bible/psalms/19#v6)</sup> His going forth is from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof.
+>
+> <sup>[7](/bible/psalms/19#v7)</sup> The law of the Lord is perfect, converting the soul: the testimony of the Lord is sure, making wise the simple.
+>
+> <sup>[8](/bible/psalms/19#v8)</sup> The statutes of the Lord are right, rejoicing the heart: the commandment of the Lord is pure, enlightening the eyes.
+>
+> <sup>[9](/bible/psalms/19#v9)</sup> The fear of the Lord is clean, enduring for ever: the judgments of the Lord are true and righteous altogether.
+>
+> <sup>[10](/bible/psalms/19#v10)</sup> More to be desired are they than gold, yea, than much fine gold: sweeter also than honey and the honeycomb.
+>
+> <sup>[11](/bible/psalms/19#v11)</sup> Moreover by them is thy servant warned: and in keeping of them there is great reward.
+
 
 **[Job 5:11-27](/bible/job/5#v11)**  *[[2:40:03](https://www.youtube.com/watch?v=QNTH14obhzs&t=9603s)]*
 
 > <sup>[11](/bible/job/5#v11)</sup> To set up on high those that be low; that those which mourn may be exalted to safety.
->
-> <sup>[12](/bible/job/5#v12)</sup> He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise.
->
-> <sup>[13](/bible/job/5#v13)</sup> He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong.
->
-> <sup>[14](/bible/job/5#v14)</sup> They meet with darkness in the daytime, and grope in the noonday as in the night.
->
-> <sup>[15](/bible/job/5#v15)</sup> But he saveth the poor from the sword, from their mouth, and from the hand of the mighty.
->
-> <sup>[16](/bible/job/5#v16)</sup> So the poor hath hope, and iniquity stoppeth her mouth.
->
-> <sup>[17](/bible/job/5#v17)</sup> Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty:
->
-> <sup>[18](/bible/job/5#v18)</sup> For he maketh sore, and bindeth up: he woundeth, and his hands make whole.
->
-> <sup>[19](/bible/job/5#v19)</sup> He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee.
->
-> <sup>[20](/bible/job/5#v20)</sup> In famine he shall redeem thee from death: and in war from the power of the sword.
->
-> <sup>[21](/bible/job/5#v21)</sup> Thou shalt be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh.
->
-> <sup>[22](/bible/job/5#v22)</sup> At destruction and famine thou shalt laugh: neither shalt thou be afraid of the beasts of the earth.
->
-> <sup>[23](/bible/job/5#v23)</sup> For thou shalt be in league with the stones of the field: and the beasts of the field shall be at peace with thee.
->
-> <sup>[24](/bible/job/5#v24)</sup> And thou shalt know that thy tabernacle shall be in peace; and thou shalt visit thy habitation, and shalt not sin.
->
-> <sup>[25](/bible/job/5#v25)</sup> Thou shalt know also that thy seed shall be great, and thine offspring as the grass of the earth.
->
-> <sup>[26](/bible/job/5#v26)</sup> Thou shalt come to thy grave in a full age, like as a shock of corn cometh in in his season.
->
-> <sup>[27](/bible/job/5#v27)</sup> Lo this, we have searched it, so it is; hear it, and know thou it for thy good.
 
 - To set up on high those that be low, that those which mourn may be exalted to safety: that is us. 1 Samuel 2 says the Lord killeth and maketh alive, maketh poor and maketh rich, raiseth the poor out of the dust and the beggar from the dunghill to set them among princes and inherit the throne of glory. We are the beggars now, begging for reparations and Section 8, and whatever house you have is a dunghill compared to where we came from.
 
@@ -936,6 +904,38 @@ Reading from an on-screen summary of the Board of Peace  *[[2:27:15](https://www
     > <sup>[22](/bible/isaiah/60#v22)</sup> A little one shall become a thousand, and a small one a strong nation: I the Lord will hasten it in his time.
 
     Thy people also shall be all righteous; they shall inherit the land for ever. A little one shall become a thousand: the Lord will bring certain spirits back quickly through marriage and childbearing.
+
+> <sup>[12](/bible/job/5#v12)</sup> He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise.
+>
+> <sup>[13](/bible/job/5#v13)</sup> He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong.
+>
+> <sup>[14](/bible/job/5#v14)</sup> They meet with darkness in the daytime, and grope in the noonday as in the night.
+>
+> <sup>[15](/bible/job/5#v15)</sup> But he saveth the poor from the sword, from their mouth, and from the hand of the mighty.
+>
+> <sup>[16](/bible/job/5#v16)</sup> So the poor hath hope, and iniquity stoppeth her mouth.
+>
+> <sup>[17](/bible/job/5#v17)</sup> Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty:
+>
+> <sup>[18](/bible/job/5#v18)</sup> For he maketh sore, and bindeth up: he woundeth, and his hands make whole.
+>
+> <sup>[19](/bible/job/5#v19)</sup> He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee.
+>
+> <sup>[20](/bible/job/5#v20)</sup> In famine he shall redeem thee from death: and in war from the power of the sword.
+>
+> <sup>[21](/bible/job/5#v21)</sup> Thou shalt be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh.
+>
+> <sup>[22](/bible/job/5#v22)</sup> At destruction and famine thou shalt laugh: neither shalt thou be afraid of the beasts of the earth.
+>
+> <sup>[23](/bible/job/5#v23)</sup> For thou shalt be in league with the stones of the field: and the beasts of the field shall be at peace with thee.
+>
+> <sup>[24](/bible/job/5#v24)</sup> And thou shalt know that thy tabernacle shall be in peace; and thou shalt visit thy habitation, and shalt not sin.
+>
+> <sup>[25](/bible/job/5#v25)</sup> Thou shalt know also that thy seed shall be great, and thine offspring as the grass of the earth.
+>
+> <sup>[26](/bible/job/5#v26)</sup> Thou shalt come to thy grave in a full age, like as a shock of corn cometh in in his season.
+>
+> <sup>[27](/bible/job/5#v27)</sup> Lo this, we have searched it, so it is; hear it, and know thou it for thy good.
 
 
 *[[2:43:26](https://www.youtube.com/watch?v=QNTH14obhzs&t=9806s)]* **In The News: The back of the dollar bill: the unfinished pyramid with the eye, 'Annuit Coeptis' meaning our enterprise succeeds, and 'Novus Ordo Seclorum,' new order of the ages.** — The pyramid is not complete. They have not finished what they set out to do, which is wipe us out, and God disappoints the devices of the crafty so their hands cannot perform their enterprise.
@@ -1010,6 +1010,12 @@ Reading from an on-screen summary of the Board of Peace  *[[2:27:15](https://www
 
 **[Job 20:4-29](/bible/job/20#v4)**  *[[3:00:15](https://www.youtube.com/watch?v=QNTH14obhzs&t=10815s)]*
 
+- Knowest thou not that the triumphing of the wicked is short, and the joy of the hypocrite but for a moment? It seems long, but the Bible says short. Though his excellency mount up to the heavens and his head reach the clouds, the one flying planes and travelling space, he shall perish for ever like his own dung.
+
+- They which have seen him shall say, Where is he? He shall fly away as a dream and be chased away as a vision of the night, a nightmare you wake up from. His children shall seek to please the poor, and his hands shall restore their goods: the Bible already prophesied reparations, so do not worry about them.
+
+- His bones are full of the sin of his youth, all the way back to Cain, not just 1776. Wickedness is sweet in his mouth and he hides it under his tongue: the president and first lady drawn as monkeys, and no apology, and never believe their apologies when they come.
+
 > <sup>[4](/bible/job/20#v4)</sup> Knowest thou not this of old, since man was placed upon earth,
 >
 > <sup>[5](/bible/job/20#v5)</sup> That the triumphing of the wicked is short, and the joy of the hypocrite but for a moment?
@@ -1029,7 +1035,15 @@ Reading from an on-screen summary of the Board of Peace  *[[2:27:15](https://www
 > <sup>[12](/bible/job/20#v12)</sup> Though wickedness be sweet in his mouth, though he hide it under his tongue;
 >
 > <sup>[13](/bible/job/20#v13)</sup> Though he spare it, and forsake it not; but keep it still within his mouth:
->
+
+- Though he spare it and forsake it not: he spared his wickedness for sixty years, from civil rights in 1965 until now, and we squandered the time we had to organize the twelve tribes. Now the mask comes off, Black History Month goes, and he shows you he is the devil. The Most High is allowing it because we played games.
+
+- He hath swallowed down riches and he shall vomit them up again; God shall cast them out of his belly. He shall not see the rivers of honey and butter, the kingdom; he will be a servant there. That which he laboured for shall he restore according to his substance, and restitution is another word for reparations, and he shall not rejoice therein because he oppressed and forsook the poor and took away houses he did not build. Negroes built the White House.
+
+- When he is about to fill his belly, when they say peace and safety, God shall cast the fury of his wrath upon him while he is eating. He shall flee from the iron weapon, the intercontinental ballistic missile, and the bow of steel shall strike him through. A fire not blown, nuclear fire, shall consume him; whoever is left in his tabernacle, the USA, it shall go ill with him; and the heaven shall reveal his iniquity and the earth rise up against him. This is the portion of a wicked man from God.
+
+- The Most High caused him to build the very weapon that ends it. He has the whole scene in his hands.
+
 > <sup>[14](/bible/job/20#v14)</sup> Yet his meat in his bowels is turned, it is the gall of asps within him.
 >
 > <sup>[15](/bible/job/20#v15)</sup> He hath swallowed down riches, and he shall vomit them up again: God shall cast them out of his belly.
@@ -1061,20 +1075,6 @@ Reading from an on-screen summary of the Board of Peace  *[[2:27:15](https://www
 > <sup>[28](/bible/job/20#v28)</sup> The increase of his house shall depart, and his goods shall flow away in the day of his wrath.
 >
 > <sup>[29](/bible/job/20#v29)</sup> This is the portion of a wicked man from God, and the heritage appointed unto him by God.
-
-- Knowest thou not that the triumphing of the wicked is short, and the joy of the hypocrite but for a moment? It seems long, but the Bible says short. Though his excellency mount up to the heavens and his head reach the clouds, the one flying planes and travelling space, he shall perish for ever like his own dung.
-
-- They which have seen him shall say, Where is he? He shall fly away as a dream and be chased away as a vision of the night, a nightmare you wake up from. His children shall seek to please the poor, and his hands shall restore their goods: the Bible already prophesied reparations, so do not worry about them.
-
-- His bones are full of the sin of his youth, all the way back to Cain, not just 1776. Wickedness is sweet in his mouth and he hides it under his tongue: the president and first lady drawn as monkeys, and no apology, and never believe their apologies when they come.
-
-- Though he spare it and forsake it not: he spared his wickedness for sixty years, from civil rights in 1965 until now, and we squandered the time we had to organize the twelve tribes. Now the mask comes off, Black History Month goes, and he shows you he is the devil. The Most High is allowing it because we played games.
-
-- He hath swallowed down riches and he shall vomit them up again; God shall cast them out of his belly. He shall not see the rivers of honey and butter, the kingdom; he will be a servant there. That which he laboured for shall he restore according to his substance, and restitution is another word for reparations, and he shall not rejoice therein because he oppressed and forsook the poor and took away houses he did not build. Negroes built the White House.
-
-- When he is about to fill his belly, when they say peace and safety, God shall cast the fury of his wrath upon him while he is eating. He shall flee from the iron weapon, the intercontinental ballistic missile, and the bow of steel shall strike him through. A fire not blown, nuclear fire, shall consume him; whoever is left in his tabernacle, the USA, it shall go ill with him; and the heaven shall reveal his iniquity and the earth rise up against him. This is the portion of a wicked man from God.
-
-- The Most High caused him to build the very weapon that ends it. He has the whole scene in his hands.
 
 
 *[[3:07:11](https://www.youtube.com/watch?v=QNTH14obhzs&t=11231s)]* **In The News: An Indian scholar rebukes an American woman questioning his country's temples: a descendant of a genocidal people whose nation stands on the dead bodies of Native Americans has no right to sit as judge over anyone's history.** — You have to go overseas to hear common sense. That is the point about the UN and its courts: murderers of millions setting up to decide right and wrong.

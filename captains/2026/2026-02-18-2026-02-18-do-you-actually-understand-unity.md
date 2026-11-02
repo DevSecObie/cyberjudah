@@ -23,6 +23,8 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "discipline", "mental-health", 
 
 **[Genesis 11:1-8](/bible/genesis/11#v1)**  *[[1:28](https://www.youtube.com/watch?v=I-4asQfinAY&t=88s)]*
 
+- Unity out of rebellious. We're going to touch that verse.
+
 > <sup>[1](/bible/genesis/11#v1)</sup> And the whole earth was of one language, and of one speech.
 >
 > <sup>[2](/bible/genesis/11#v2)</sup> And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar; and they dwelt there.
@@ -30,37 +32,35 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "discipline", "mental-health", 
 > <sup>[3](/bible/genesis/11#v3)</sup> And they said one to another, Go to, let us make brick, and burn them throughly. And they had brick for stone, and slime had they for morter.
 >
 > <sup>[4](/bible/genesis/11#v4)</sup> And they said, Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name, lest we be scattered abroad upon the face of the whole earth.
->
+
+- Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name: so all this thing they were doing, that wasn't under the umbrella of God. That was their own counsel.
+
 > <sup>[5](/bible/genesis/11#v5)</sup> And the Lord came down to see the city and the tower, which the children of men builded.
 >
 > <sup>[6](/bible/genesis/11#v6)</sup> And the Lord said, Behold, the people is one, and they have all one language; and this they begin to do: and now nothing will be restrained from them, which they have imagined to do.
 >
 > <sup>[7](/bible/genesis/11#v7)</sup> Go to, let us go down, and there confound their language, that they may not understand one another’s speech.
->
-> <sup>[8](/bible/genesis/11#v8)</sup> So the Lord scattered them abroad from thence upon the face of all the earth: and they left off to build the city.
-
-- Unity out of rebellious. We're going to touch that verse.
-
-- Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name: so all this thing they were doing, that wasn't under the umbrella of God. That was their own counsel.
 
 - Go to, let us go down, and there confound their language, that they may not understand one another's speech: you see that thing? Because that was their own mind, their own counsel, their own self will.
+
+> <sup>[8](/bible/genesis/11#v8)</sup> So the Lord scattered them abroad from thence upon the face of all the earth: and they left off to build the city.
 
 - So the LORD scattered them abroad from thence upon the face of all the earth: and they left off to build the city: because it was out of order. It wasn't in the Lord's will at all.
 
 
 **[Psalms 2:1-3](/bible/psalms/2#v1)**  *[[3:07](https://www.youtube.com/watch?v=I-4asQfinAY&t=187s)]*
 
-> <sup>[1](/bible/psalms/2#v1)</sup> Why do the heathen rage, and the people imagine a vain thing?
->
-> <sup>[2](/bible/psalms/2#v2)</sup> The kings of the earth set themselves, and the rulers take counsel together, against the Lord, and against his anointed, saying,
->
-> <sup>[3](/bible/psalms/2#v3)</sup> Let us break their bands asunder, and cast away their cords from us.
-
 - Unity out of rebellious.
+
+> <sup>[1](/bible/psalms/2#v1)</sup> Why do the heathen rage, and the people imagine a vain thing?
 
 - Why do the heathen rage: out of their own counsel, their own self will, a rebellious unity against God's people.
 
+> <sup>[2](/bible/psalms/2#v2)</sup> The kings of the earth set themselves, and the rulers take counsel together, against the Lord, and against his anointed, saying,
+
 - And the rulers take counsel together, against the LORD: see, they took counsel together against the Lord. So this is unity out of rebellion. Unity with self-will. Unity against the Lord's will. And against his anointed: and against his anointed, Christ.
+
+> <sup>[3](/bible/psalms/2#v3)</sup> Let us break their bands asunder, and cast away their cords from us.
 
 - Let us break their bands asunder, and cast away their cords from us: so this is unity out of rebellious. Unity that have nothing to do with God's laws, that have no counsel from the law. That's two different kind of unity. That's why you see people gossip, that's in their unity. They gossip because they share that sin, that sin and lust together. Every beast consult to his kind. And those kinds are unified together.
 
@@ -90,27 +90,27 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "discipline", "mental-health", 
 > <sup>[1](/bible/judith/2#v1)</sup> And in the eighteenth year, the two and twentieth day of the first month, there was talk in the house of Nabuchodonosor king of the Assyrians that he should, as he said, avenge himself on all the earth.
 >
 > <sup>[2](/bible/judith/2#v2)</sup> So he called unto him all his officers, and all his nobles, and communicated with them his secret counsel, and concluded the afflicting of the whole earth out of his own mouth.
->
-> <sup>[3](/bible/judith/2#v3)</sup> Then they decreed to destroy all flesh, that did not obey the commandment of his mouth.
 
 - And communicated with them his secret counsel, and concluded the afflicting of the whole earth: so they came together in unity to afflict the whole earth. So when you see group of people, they all unified together, but on the what? Some people can be unified in hatred. Some people can be unified by the obedience of God's laws and his truth and his guidance. And some people unify under their own lust.
+
+> <sup>[3](/bible/judith/2#v3)</sup> Then they decreed to destroy all flesh, that did not obey the commandment of his mouth.
 
 - Then they decreed to destroy all flesh, that did not obey the commandment of his mouth: see that? Then they decree, after they were united in that thought.
 
 
 **[1 Maccabees 8:15-16](/bible/1-maccabees/8#v15)**  *[[8:33](https://www.youtube.com/watch?v=I-4asQfinAY&t=513s)]*
 
-> <sup>[15](/bible/1-maccabees/8#v15)</sup> Moreover how they had made for themselves a senate house, wherein three hundred and twenty men sat in council daily, consulting alway for the people, to the end they might be well ordered:
->
-> <sup>[16](/bible/1-maccabees/8#v16)</sup> And that they committed their government to one man every year, who ruled over all their country, and that all were obedient to that one, and that there was neither envy nor emulation among them.
-
 - Just showing you different kind of unity.
+
+> <sup>[15](/bible/1-maccabees/8#v15)</sup> Moreover how they had made for themselves a senate house, wherein three hundred and twenty men sat in council daily, consulting alway for the people, to the end they might be well ordered:
 
 - Wherein three hundred and twenty men sat in council daily: they counseled daily.
 
 - Consulting alway for the people, to the end they might be well ordered: so this is the heathen. How they consult together. And some of this consulting was what, in Psalms 83? To cut us off from being a nation. That's how they do, that crafted council, that think tank.
 
 - And that there was neither envy nor emulation amongst them: so that's a heathen, and that's what they established, and all the thing they established to what? To oppress us. They come together in unity with what? With wicked mind, wicked intent for our people. It haven't changed yet. Same thing that's going on today. It haven't changed.
+
+> <sup>[16](/bible/1-maccabees/8#v16)</sup> And that they committed their government to one man every year, who ruled over all their country, and that all were obedient to that one, and that there was neither envy nor emulation among them.
 
 
 **[Amos 3:3](/bible/amos/3#v3)**  *[[10:00](https://www.youtube.com/watch?v=I-4asQfinAY&t=600s)]*
@@ -147,10 +147,10 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "discipline", "mental-health", 
 > <sup>[6](/bible/deuteronomy/6#v6)</sup> And these words, which I command thee this day, shall be in thine heart:
 >
 > <sup>[7](/bible/deuteronomy/6#v7)</sup> And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.
->
-> <sup>[8](/bible/deuteronomy/6#v8)</sup> And thou shalt bind them for a sign upon thine hand, and they shall be as frontlets between thine eyes.
 
 - And thou shalt teach them diligently unto thy children: unto your children. Why? Because unity must be taught. Unity must be taught. And it starts with what? The laws and identity.
+
+> <sup>[8](/bible/deuteronomy/6#v8)</sup> And thou shalt bind them for a sign upon thine hand, and they shall be as frontlets between thine eyes.
 
 - And thou shalt bind them for a sign upon thine hand: you see that thing? So unity must be taught, Israel.
 
@@ -169,16 +169,16 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "discipline", "mental-health", 
 **[Nehemiah 8:1-3](/bible/nehemiah/8#v1)**  *[[16:47](https://www.youtube.com/watch?v=I-4asQfinAY&t=1007s)]*
 
 > <sup>[1](/bible/nehemiah/8#v1)</sup> And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the Lord had commanded to Israel.
->
-> <sup>[2](/bible/nehemiah/8#v2)</sup> And Ezra the priest brought the law before the congregation both of men and women, and all that could hear with understanding, upon the first day of the seventh month.
->
-> <sup>[3](/bible/nehemiah/8#v3)</sup> And he read therein before the street that was before the water gate from the morning until midday, before the men and the women, and those that could understand; and the ears of all the people were attentive unto the book of the law.
 
 - And all the people gathered themselves together as one man: see, that's unity. As one man. That's unity.
+
+> <sup>[2](/bible/nehemiah/8#v2)</sup> And Ezra the priest brought the law before the congregation both of men and women, and all that could hear with understanding, upon the first day of the seventh month.
 
 - And Ezra the priest brought the law before the congregation both of men and women: men and women is part of that unity, that reunifying the nation of Israel. We got to come with a clear mind. You say you coming to repent, you coming for this unity, your mind got to be right, because what you display will allow people to see if you already have that true unity or not.
 
 - And all that could hear with understanding: because a lot of people talk, talk, talk, but no unity. Talk, talk, but the action show something else. You think Judas Iscariot was unified with Christ and the other 11? No, he wasn't unified, because his mind was not with them. And that's why he betrayed Christ. So unity starts in the mind.
+
+> <sup>[3](/bible/nehemiah/8#v3)</sup> And he read therein before the street that was before the water gate from the morning until midday, before the men and the women, and those that could understand; and the ears of all the people were attentive unto the book of the law.
 
 - And the ears of all the people were attentive unto the book of the law: you see that thing? They were united around understanding. They were united within God's laws, not emotions. That's true unity right there.
 
@@ -223,8 +223,12 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "discipline", "mental-health", 
 
 **[John 17:17-21](/bible/john/17#v17)**  *[[23:06](https://www.youtube.com/watch?v=I-4asQfinAY&t=1386s)]*
 
+- Righteous unity. Let me touch that real quick.
+
 > <sup>[17](/bible/john/17#v17)</sup> Sanctify them through thy truth: thy word is truth.
->
+
+- Sanctify them through thy truth: thy word is truth: you see that? Thy word is truth. Sanctify them in that truth.
+
 > <sup>[18](/bible/john/17#v18)</sup> As thou hast sent me into the world, even so have I also sent them into the world.
 >
 > <sup>[19](/bible/john/17#v19)</sup> And for their sakes I sanctify myself, that they also might be sanctified through the truth.
@@ -232,10 +236,6 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "discipline", "mental-health", 
 > <sup>[20](/bible/john/17#v20)</sup> Neither pray I for these alone, but for them also which shall believe on me through their word;
 >
 > <sup>[21](/bible/john/17#v21)</sup> That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.
-
-- Righteous unity. Let me touch that real quick.
-
-- Sanctify them through thy truth: thy word is truth: you see that? Thy word is truth. Sanctify them in that truth.
 
 - That they all may be one: see that? So this is righteous unity. They sanctified to the truth, which is God's laws. That's that righteous unity. That was the 12. He was letting them know that is righteous unity.
 
@@ -254,10 +254,10 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "discipline", "mental-health", 
 > <sup>[11](/bible/ephesians/4#v11)</sup> And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;
 >
 > <sup>[12](/bible/ephesians/4#v12)</sup> For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:
->
-> <sup>[13](/bible/ephesians/4#v13)</sup> Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:
 
 - For the perfecting of the saints: see that thing? Why all of us are here? Because we all come here to better each other. First of all, come to better ourselves, because this the hospital. And also as we better ourself, we better our brothers and sister in this truth.
+
+> <sup>[13](/bible/ephesians/4#v13)</sup> Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:
 
 - Till we all come in the unity of the faith: see that? Till we all come in the unity of faith.
 

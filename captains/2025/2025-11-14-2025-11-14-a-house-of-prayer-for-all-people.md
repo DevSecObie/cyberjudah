@@ -44,12 +44,12 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "obedience", "prayer", "prop
 > <sup>[6](/bible/isaiah/56#v6)</sup> Also the sons of the stranger, that join themselves to the Lord, to serve him, and to love the name of the Lord, to be his servants, every one that keepeth the sabbath from polluting it, and taketh hold of my covenant;
 >
 > <sup>[7](/bible/isaiah/56#v7)</sup> Even them will I bring to my holy mountain, and make them joyful in my house of prayer: their burnt offerings and their sacrifices shall be accepted upon mine altar; for mine house shall be called an house of prayer for all people.
->
-> <sup>[8](/bible/isaiah/56#v8)</sup> The Lord God which gathereth the outcasts of Israel saith, Yet will I gather others to him, beside those that are gathered unto him.
 
 - every one that keepeth the sabbath from polluting it, and taketh hold of my covenant; Even them will I bring to my holy mountain: You see that? All those strangers, all those Israelites that went off, if they come back and keep the commandments, God say he's going to receive them.
 
 - for mine house shall be called an house of prayer for all people: Ah, you see that? My house going to be a house of prayer for all people.
+
+> <sup>[8](/bible/isaiah/56#v8)</sup> The Lord God which gathereth the outcasts of Israel saith, Yet will I gather others to him, beside those that are gathered unto him.
 
 - The Lord God which gathereth the outcasts of Israel saith, Yet will I gather others to him, beside those that are gathered unto him: So who is the all people and the strangers? The house of Israel. What is he talking about? Southern and northern kingdom. The Lord has only promised throughout the scriptures that he will gather the nation of Israel. I never seen in the scriptures where he said, I'm going to gather the Jebusites, the Moabites, or any other nations. In the scriptures is only the house of Israel. Let's prove it. The Lord only prophesies to gather the nation of Israel.
 
@@ -57,12 +57,12 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "obedience", "prayer", "prop
 **[Isaiah 11:11-12](/bible/isaiah/11#v11)**  *[[3:48](https://www.youtube.com/watch?v=yBrMLTqrL7A&t=228s)]*
 
 > <sup>[11](/bible/isaiah/11#v11)</sup> And it shall come to pass in that day, that the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea.
->
-> <sup>[12](/bible/isaiah/11#v12)</sup> And he shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.
 
 - the Lord shall set his hand again the second time to recover the remnant of his people: You see that? The Lord is going to recover the remnant of his people out of all of these different lands.
 
 - and from the islands of the sea: You see that? The Lord is going to gather all his people that's been scattered on slave ships throughout the whole world because of our transgressions to his law.
+
+> <sup>[12](/bible/isaiah/11#v12)</sup> And he shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.
 
 - and shall assemble the outcasts of Israel: You see that? The outcasts of Israel. So who is the Lord going to gather? He's going to gather all Israel that's been scattered throughout the world for their disobedience to the laws of God. He's not going to gather all nations. And the Lord has said this in many scriptures. The Lord is just repeating himself. He's never promised any other nation that he would gather them. Only the 12 tribes of Israel. Only the 12 tribes of Israel.
 
@@ -72,16 +72,6 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "obedience", "prayer", "prop
 **[Deuteronomy 30:2-7](/bible/deuteronomy/30#v2)**  *[[5:28](https://www.youtube.com/watch?v=yBrMLTqrL7A&t=328s)]*
 
 > <sup>[2](/bible/deuteronomy/30#v2)</sup> And shalt return unto the Lord thy God, and shalt obey his voice according to all that I command thee this day, thou and thy children, with all thine heart, and with all thy soul;
->
-> <sup>[3](/bible/deuteronomy/30#v3)</sup> That then the Lord thy God will turn thy captivity, and have compassion upon thee, and will return and gather thee from all the nations, whither the Lord thy God hath scattered thee.
->
-> <sup>[4](/bible/deuteronomy/30#v4)</sup> If any of thine be driven out unto the outmost parts of heaven, from thence will the Lord thy God gather thee, and from thence will he fetch thee:
->
-> <sup>[5](/bible/deuteronomy/30#v5)</sup> And the Lord thy God will bring thee into the land which thy fathers possessed, and thou shalt possess it; and he will do thee good, and multiply thee above thy fathers.
->
-> <sup>[6](/bible/deuteronomy/30#v6)</sup> And the Lord thy God will circumcise thine heart, and the heart of thy seed, to love the Lord thy God with all thine heart, and with all thy soul, that thou mayest live.
->
-> <sup>[7](/bible/deuteronomy/30#v7)</sup> And the Lord thy God will put all these curses upon thine enemies, and on them that hate thee, which persecuted thee.
 
 - And shalt return unto the Lord thy God: When we return to the Lord our God.
 
@@ -89,13 +79,23 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "obedience", "prayer", "prop
 
 - thou and thy children: You see that? You and your children.
 
+> <sup>[3](/bible/deuteronomy/30#v3)</sup> That then the Lord thy God will turn thy captivity, and have compassion upon thee, and will return and gather thee from all the nations, whither the Lord thy God hath scattered thee.
+
 - That then the Lord thy God will turn thy captivity: You see that? This is the prophecy right here. God say he's going to turn our captivity. Once we return, he's going to turn our captivity.
 
 - and will return and gather thee from all the nations: You see that? There you go again. The Lord has always promised that he's going to gather Israel from all nations where he has scattered us.
 
+> <sup>[4](/bible/deuteronomy/30#v4)</sup> If any of thine be driven out unto the outmost parts of heaven, from thence will the Lord thy God gather thee, and from thence will he fetch thee:
+
 - If any of thine be driven out unto the outmost parts of heaven: A lot of our people in Australia. A lot of our people throughout the earth. Okay. India, the Netherlands, the Bahamas. It don't matter where our people been scattered to. The Lord said, I'm going to gather you.
 
+> <sup>[5](/bible/deuteronomy/30#v5)</sup> And the Lord thy God will bring thee into the land which thy fathers possessed, and thou shalt possess it; and he will do thee good, and multiply thee above thy fathers.
+
 - And the Lord thy God will bring thee into the land which thy fathers possessed: This has been the prophecy the whole time. The Lord is going to gather us and give us our land.
+
+> <sup>[6](/bible/deuteronomy/30#v6)</sup> And the Lord thy God will circumcise thine heart, and the heart of thy seed, to love the Lord thy God with all thine heart, and with all thy soul, that thou mayest live.
+>
+> <sup>[7](/bible/deuteronomy/30#v7)</sup> And the Lord thy God will put all these curses upon thine enemies, and on them that hate thee, which persecuted thee.
 
 - And the Lord thy God will put all these curses upon thine enemies: Ah, you see that? The Lord say all the curses that happened to the biblical Israelites in Deuteronomy chapter 28, God said, I'm going to put all them curses upon thine enemies. God said he's going to put those curses on our enemies. So, is the Lord a just God? Yes. Yes, he is.
 
@@ -189,16 +189,16 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "obedience", "prayer", "prop
 **[Isaiah 40:15-17](/bible/isaiah/40#v15)**  *[[15:56](https://www.youtube.com/watch?v=yBrMLTqrL7A&t=956s)]*
 
 > <sup>[15](/bible/isaiah/40#v15)</sup> Behold, the nations are as a drop of a bucket, and are counted as the small dust of the balance: behold, he taketh up the isles as a very little thing.
->
-> <sup>[16](/bible/isaiah/40#v16)</sup> And Lebanon is not sufficient to burn, nor the beasts thereof sufficient for a burnt offering.
->
-> <sup>[17](/bible/isaiah/40#v17)</sup> All nations before him are as nothing; and they are counted to him less than nothing, and vanity.
 
 - Behold, the nations are as a drop of a bucket: You see what God said about the other nations, the other people? They as a drop in the bucket.
 
 - and are counted as the small dust of the balance: God said they like a small dust on a scale. You don't try to clean that dust off that scale.
 
+> <sup>[16](/bible/isaiah/40#v16)</sup> And Lebanon is not sufficient to burn, nor the beasts thereof sufficient for a burnt offering.
+
 - And Lebanon is not sufficient to burn: God say, Look, you can take all the trees in Lebanon and all the animals there, and it won't be sufficient to burn for these nations.
+
+> <sup>[17](/bible/isaiah/40#v17)</sup> All nations before him are as nothing; and they are counted to him less than nothing, and vanity.
 
 - All nations before him are as nothing: Oh, all nations before the Lord are as nothing. The Lord is only dealing with the 12 tribes of the children of Israel. He's not dealing with any other nation. So the house of prayer that the scripture is talking about is the nation of Israel right there. The all people in that scripture is talking about the 12 tribes of the kingdom of Israel, cuz they was given the covenant. They given an inheritance.
 

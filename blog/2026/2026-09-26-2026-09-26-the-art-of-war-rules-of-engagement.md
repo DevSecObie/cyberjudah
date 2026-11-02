@@ -381,10 +381,6 @@ Reading from an on-screen search result on the key territories of the southwest 
 **[Romans 5:3-5](/bible/romans/5#v3)**  *[[1:10:50](https://www.youtube.com/watch?v=eNMvid6j-qk&t=4250s)]*
 
 > <sup>[3](/bible/romans/5#v3)</sup> And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;
->
-> <sup>[4](/bible/romans/5#v4)</sup> And patience, experience; and experience, hope:
->
-> <sup>[5](/bible/romans/5#v5)</sup> And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.
 
 - Glory in tribulation: pressure either breaks you or forges you, and nobody becomes David or one of his mighty men without going through the fire of adversity.
 
@@ -395,6 +391,10 @@ Reading from an on-screen search result on the key territories of the southwest 
 - Patience brings experience, and experience is why the bishops, deacons and captains can read a situation and counsel, teach and relate; Captain Yahn's prison ministry is that experience at work.
 
 - Experience brings hope, the confidence that this is the truth because you have seen what the Lord can do.
+
+> <sup>[4](/bible/romans/5#v4)</sup> And patience, experience; and experience, hope:
+>
+> <sup>[5](/bible/romans/5#v5)</sup> And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.
 
 
 **[Hebrews 4:15](/bible/hebrews/4#v15)**  *[[1:15:37](https://www.youtube.com/watch?v=eNMvid6j-qk&t=4537s)]*

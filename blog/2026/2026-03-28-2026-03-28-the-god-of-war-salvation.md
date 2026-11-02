@@ -58,22 +58,6 @@ tags: ["IUIC in the ClassRoom", "adversity", "prophecy", "salvation", "the-ameri
 **[Isaiah 43:3-11](/bible/isaiah/43#v3)**  *[[27:39](https://www.youtube.com/watch?v=C25twRrhOd0&t=1659s)]*
 
 > <sup>[3](/bible/isaiah/43#v3)</sup> For I am the Lord thy God, the Holy One of Israel, thy Saviour: I gave Egypt for thy ransom, Ethiopia and Seba for thee.
->
-> <sup>[4](/bible/isaiah/43#v4)</sup> Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life.
->
-> <sup>[5](/bible/isaiah/43#v5)</sup> Fear not: for I am with thee: I will bring thy seed from the east, and gather thee from the west;
->
-> <sup>[6](/bible/isaiah/43#v6)</sup> I will say to the north, Give up; and to the south, Keep not back: bring my sons from far, and my daughters from the ends of the earth;
->
-> <sup>[7](/bible/isaiah/43#v7)</sup> Even every one that is called by my name: for I have created him for my glory, I have formed him; yea, I have made him.
->
-> <sup>[8](/bible/isaiah/43#v8)</sup> Bring forth the blind people that have eyes, and the deaf that have ears.
->
-> <sup>[9](/bible/isaiah/43#v9)</sup> Let all the nations be gathered together, and let the people be assembled: who among them can declare this, and shew us former things? let them bring forth their witnesses, that they may be justified: or let them hear, and say, It is truth.
->
-> <sup>[10](/bible/isaiah/43#v10)</sup> Ye are my witnesses, saith the Lord, and my servant whom I have chosen: that ye may know and believe me, and understand that I am he: before me there was no God formed, neither shall there be after me.
->
-> <sup>[11](/bible/isaiah/43#v11)</sup> I, even I, am the Lord; and beside me there is no saviour.
 
 - I gave Egypt for thy ransom, Ethiopia and Seba for thee: the Lord brought blood and destruction on other nations on our behalf. Your fight is not with them but with getting yourself together, because the Lord has dealt with no other nation, and the fools who want to engraft all nations never ask when they will give back our land.
 
@@ -91,20 +75,28 @@ tags: ["IUIC in the ClassRoom", "adversity", "prophecy", "salvation", "the-ameri
 
     Children are their oppressors and women rule over them: only Israel has that problem, so my people is Israel.
 
+> <sup>[4](/bible/isaiah/43#v4)</sup> Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life.
+>
+> <sup>[5](/bible/isaiah/43#v5)</sup> Fear not: for I am with thee: I will bring thy seed from the east, and gather thee from the west;
+>
+> <sup>[6](/bible/isaiah/43#v6)</sup> I will say to the north, Give up; and to the south, Keep not back: bring my sons from far, and my daughters from the ends of the earth;
+>
+> <sup>[7](/bible/isaiah/43#v7)</sup> Even every one that is called by my name: for I have created him for my glory, I have formed him; yea, I have made him.
+>
+> <sup>[8](/bible/isaiah/43#v8)</sup> Bring forth the blind people that have eyes, and the deaf that have ears.
+>
+> <sup>[9](/bible/isaiah/43#v9)</sup> Let all the nations be gathered together, and let the people be assembled: who among them can declare this, and shew us former things? let them bring forth their witnesses, that they may be justified: or let them hear, and say, It is truth.
+>
+> <sup>[10](/bible/isaiah/43#v10)</sup> Ye are my witnesses, saith the Lord, and my servant whom I have chosen: that ye may know and believe me, and understand that I am he: before me there was no God formed, neither shall there be after me.
+>
+> <sup>[11](/bible/isaiah/43#v11)</sup> I, even I, am the Lord; and beside me there is no saviour.
+
 
 *[[35:07](https://www.youtube.com/watch?v=C25twRrhOd0&t=2107s)]* **In The News: The new supreme leader's three demands at thirty-day increments: American forces out of the region, every sanction since 1979 lifted, and eight hundred billion in reparations, or the strait closes, Russian and Chinese bases open in Iran and a nuclear deterrent is deployed** — America will never meet them, so it goes to war; and it is really about the petrodollar and America's dominance of the world economy, not nuclear weapons. Ten-thousand-dollar drones against million-dollar missiles bankrupts America.
 
 **[Exodus 15:3-7](/bible/exodus/15#v3)**  *[[40:47](https://www.youtube.com/watch?v=C25twRrhOd0&t=2447s)]*
 
 > <sup>[3](/bible/exodus/15#v3)</sup> The Lord is a man of war: the Lord is his name.
->
-> <sup>[4](/bible/exodus/15#v4)</sup> Pharaoh’s chariots and his host hath he cast into the sea: his chosen captains also are drowned in the Red sea.
->
-> <sup>[5](/bible/exodus/15#v5)</sup> The depths have covered them: they sank into the bottom as a stone.
->
-> <sup>[6](/bible/exodus/15#v6)</sup> Thy right hand, O Lord, is become glorious in power: thy right hand, O Lord, hath dashed in pieces the enemy.
->
-> <sup>[7](/bible/exodus/15#v7)</sup> And in the greatness of thine excellency thou hast overthrown them that rose up against thee: thou sentest forth thy wrath, which consumed them as stubble.
 
 - The Lord is a man of war: he loves to see a sword, a shield and blood on a battlefield, an intimate war rather than long-distance shooting. Pharaoh's chariots cast into the sea are nations sacrificed on our behalf, and his right hand dashed the enemy in pieces.
 
@@ -123,6 +115,14 @@ tags: ["IUIC in the ClassRoom", "adversity", "prophecy", "salvation", "the-ameri
     > <sup>[14](/bible/jeremiah/51#v14)</sup> The Lord of hosts hath sworn by himself, saying, Surely I will fill thee with men, as with caterpillers; and they shall lift up a shout against thee.
 
     O thou that dwellest upon many waters, abundant in treasures, thine end is come: America will not step down or meet the demands, so the Lord fills her with men as with caterpillars, the wild and crazy ones.
+
+> <sup>[4](/bible/exodus/15#v4)</sup> Pharaoh’s chariots and his host hath he cast into the sea: his chosen captains also are drowned in the Red sea.
+>
+> <sup>[5](/bible/exodus/15#v5)</sup> The depths have covered them: they sank into the bottom as a stone.
+>
+> <sup>[6](/bible/exodus/15#v6)</sup> Thy right hand, O Lord, is become glorious in power: thy right hand, O Lord, hath dashed in pieces the enemy.
+>
+> <sup>[7](/bible/exodus/15#v7)</sup> And in the greatness of thine excellency thou hast overthrown them that rose up against thee: thou sentest forth thy wrath, which consumed them as stubble.
 
 
 *[[47:55](https://www.youtube.com/watch?v=C25twRrhOd0&t=2875s)]* **In The News: Fuel restrictions by licence plate and the fuel crisis in the Philippines and the countries that depend on the Strait of Hormuz** — Do not think a wave on the other side of the earth will not reach us; that mindset is ignorance of the destruction that comes with our salvation.
@@ -180,15 +180,13 @@ tags: ["IUIC in the ClassRoom", "adversity", "prophecy", "salvation", "the-ameri
 
 **[Revelation 2:9-11](/bible/revelation/2#v9)**  *[[1:06:01](https://www.youtube.com/watch?v=C25twRrhOd0&t=3961s)]*
 
-> <sup>[9](/bible/revelation/2#v9)</sup> I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.
->
-> <sup>[10](/bible/revelation/2#v10)</sup> Fear none of those things which thou shalt suffer: behold, the devil shall cast some of you into prison, that ye may be tried; and ye shall have tribulation ten days: be thou faithful unto death, and I will give thee a crown of life.
->
-> <sup>[11](/bible/revelation/2#v11)</sup> He that hath an ear, let him hear what the Spirit saith unto the churches; He that overcometh shall not be hurt of the second death.
-
 - I know thy works, tribulation and poverty, but thou art rich: we built countries and kingdoms, the real Holocaust was ours, and we are the true inheritors as the lineage of Abraham, Isaac and Jacob. Them which say they are Jews and are not are the synagogue of Satan according to Christ.
 
 - Fear none of those things thou shalt suffer: the devil shall cast some of you into prison, and the detention facilities filled with so-called illegal aliens are ultimately for the twelve tribes. Imagine ten days tortured, your family slain in front of you, to make you say you are not Israel and Christ is not black. Hell no; we are the Punisher ten point zero with nothing to lose and everything to gain.
+
+> <sup>[9](/bible/revelation/2#v9)</sup> I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.
+>
+> <sup>[10](/bible/revelation/2#v10)</sup> Fear none of those things which thou shalt suffer: behold, the devil shall cast some of you into prison, that ye may be tried; and ye shall have tribulation ten days: be thou faithful unto death, and I will give thee a crown of life.
 
 - Be thou faithful unto death and I will give thee a crown of life: nothing they can take can make you betray eternal life, because there is no resurrection for them. He that hath an ear, let him hear; you have to keep the commandments to understand it, and he that overcometh is not hurt of the second death, the death over your soul.
 
@@ -203,6 +201,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "prophecy", "salvation", "the-ameri
     > <sup>[1](/bible/romans/12#v1)</sup> I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.
 
     Present your bodies a living sacrifice: every prophet who goes out to teach does, as John on Patmos and James beheaded did; we are the true martyrs.
+
+> <sup>[11](/bible/revelation/2#v11)</sup> He that hath an ear, let him hear what the Spirit saith unto the churches; He that overcometh shall not be hurt of the second death.
 
 
 *[[1:16:36](https://www.youtube.com/watch?v=C25twRrhOd0&t=4596s)]* **In The News: A woman on a panel answering a man who says Iran hates our freedoms: America overthrew Mosaddegh for BP's oil and imposed the Shah for twenty-six years** — She destroyed that Edomite; that is why the caterpillars are here.
@@ -247,12 +247,12 @@ tags: ["IUIC in the ClassRoom", "adversity", "prophecy", "salvation", "the-ameri
 > <sup>[15](/bible/joel/2#v15)</sup> Blow the trumpet in Zion, sanctify a fast, call a solemn assembly:
 >
 > <sup>[16](/bible/joel/2#v16)</sup> Gather the people, sanctify the congregation, assemble the elders, gather the children, and those that suck the breasts: let the bridegroom go forth of his chamber, and the bride out of her closet.
->
+
+- Blow the trumpet in Zion, sanctify a fast, call a solemn assembly, gather the people: the Lord wants you in a fellowship with leaders in front of you exhorting one another daily, not alone at home on the internet. Let the priests weep and say spare thy people; then will the Lord be jealous for his land and pity his people, and the sanctified will be spared in the day of his judgment.
+
 > <sup>[17](/bible/joel/2#v17)</sup> Let the priests, the ministers of the Lord, weep between the porch and the altar, and let them say, Spare thy people, O Lord, and give not thine heritage to reproach, that the heathen should rule over them: wherefore should they say among the people, Where is their God?
 >
 > <sup>[18](/bible/joel/2#v18)</sup> Then will the Lord be jealous for his land, and pity his people.
-
-- Blow the trumpet in Zion, sanctify a fast, call a solemn assembly, gather the people: the Lord wants you in a fellowship with leaders in front of you exhorting one another daily, not alone at home on the internet. Let the priests weep and say spare thy people; then will the Lord be jealous for his land and pity his people, and the sanctified will be spared in the day of his judgment.
 
 
 **[Acts 2:42-47](/bible/acts/2#v42)**  *[[1:28:44](https://www.youtube.com/watch?v=C25twRrhOd0&t=5324s)]*

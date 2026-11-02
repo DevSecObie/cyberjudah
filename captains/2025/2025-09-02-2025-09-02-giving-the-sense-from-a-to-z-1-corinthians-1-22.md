@@ -183,26 +183,26 @@ tags: ["15 Minutes w/ The Captains", "christ", "greece", "the-law", "wisdom"]
 > <sup>[10](/bible/acts/4#v10)</sup> Be it known unto you all, and to all the people of Israel, that by the name of Jesus Christ of Nazareth, whom ye crucified, whom God raised from the dead, even by him doth this man stand here before you whole.
 >
 > <sup>[11](/bible/acts/4#v11)</sup> This is the stone which was set at nought of you builders, which is become the head of the corner.
->
+
+- This is the stone which was set at nought of you builders: Says this is the what? Right? What does it mean it was set at not? Because it was foolishness unto them. They was like, nah, you only get salvation through animal sacrifice. So Christ crucified, resurrected to bring Israel back together. They like, nah, that's okay, but you get salvation through animal sacrifice. So it was foolishness unto them.
+
 > <sup>[12](/bible/acts/4#v12)</sup> Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.
 >
 > <sup>[13](/bible/acts/4#v13)</sup> Now when they saw the boldness of Peter and John, and perceived that they were unlearned and ignorant men, they marvelled; and they took knowledge of them, that they had been with Jesus.
->
-> <sup>[14](/bible/acts/4#v14)</sup> And beholding the man which was healed standing with them, they could say nothing against it.
->
-> <sup>[15](/bible/acts/4#v15)</sup> But when they had commanded them to go aside out of the council, they conferred among themselves,
->
-> <sup>[16](/bible/acts/4#v16)</sup> Saying, What shall we do to these men? for that indeed a notable miracle hath been done by them is manifest to all them that dwell in Jerusalem; and we cannot deny it.
->
-> <sup>[17](/bible/acts/4#v17)</sup> But that it spread no further among the people, let us straitly threaten them, that they speak henceforth to no man in this name.
-
-- This is the stone which was set at nought of you builders: Says this is the what? Right? What does it mean it was set at not? Because it was foolishness unto them. They was like, nah, you only get salvation through animal sacrifice. So Christ crucified, resurrected to bring Israel back together. They like, nah, that's okay, but you get salvation through animal sacrifice. So it was foolishness unto them.
 
 - Perceived that they were unlearned and ignorant men: Now that point right there, perceived that they were what? They perceived that they were unlearned and ignorant men. Remember the scripture says in Corinthians, but the foolishness of God is wiser than men. So they looked at Christ, and then the apostles, they said these guys is unlearned. They don't know nothing.
 
 - When they saw the boldness of Peter and John: Boldness. When they saw the boldness of Peter and John. They took knowledge because that boldness came from Christ. That spirit that Christ had on him and passed down to the apostles. Now they're showing that boldness when they went out and taught. And that's the same thing with IURC, Israel United Christ. When you see the boldness of the men, it's because the spirit of Christ is resting upon us. But it says, going back to Corinthians, hold that, I just want to quote it, "But the foolishness of God is wiser than men." Christ confounded those men hundreds of times. Remember, he shut them down to the point where, I think, matter of fact, I ain't going to jump ahead because I might get that. I might get it.
 
+> <sup>[14](/bible/acts/4#v14)</sup> And beholding the man which was healed standing with them, they could say nothing against it.
+>
+> <sup>[15](/bible/acts/4#v15)</sup> But when they had commanded them to go aside out of the council, they conferred among themselves,
+>
+> <sup>[16](/bible/acts/4#v16)</sup> Saying, What shall we do to these men? for that indeed a notable miracle hath been done by them is manifest to all them that dwell in Jerusalem; and we cannot deny it.
+
 - We cannot deny it: And you see that? And we cannot deny it. Okay. The foolishness of, what did it say in Corinthians? "But the foolishness of God is wiser than men and the weakness of God is stronger than men." Although they tried to deny Christ and the apostles, saying they were unlearned, they said, "Listen, we can't deny this stuff."
+
+> <sup>[17](/bible/acts/4#v17)</sup> But that it spread no further among the people, let us straitly threaten them, that they speak henceforth to no man in this name.
 
 - But that it spread no further among the people: So we got to shut down. We can't deny it, but we got to shut it down from spreading further. We got to put out propaganda lies. Threaten them.
 
@@ -241,12 +241,12 @@ Reading from Definition of vocation  *[[33:36](https://www.youtube.com/watch?v=v
 **[Ephesians 4:1-3](/bible/ephesians/4#v1)**  *[[37:18](https://www.youtube.com/watch?v=vLoOravXu3g&t=2238s)]*
 
 > <sup>[1](/bible/ephesians/4#v1)</sup> I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,
->
+
+- I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called: Many, many times, like, you have brothers and sisters that come in this truth and y'all take it for a joke, right? You don't realize the scriptures is telling all of us this should be a primary focus 24/7, living up to the standards that the Most High set for us. How to eat, how to walk, how to talk, okay? How to, conflict resolution, how to deal with your wife, how to deal with your brothers, how to move in society, how to rule the planet. Everything is here. Okay.
+
 > <sup>[2](/bible/ephesians/4#v2)</sup> With all lowliness and meekness, with longsuffering, forbearing one another in love;
 >
 > <sup>[3](/bible/ephesians/4#v3)</sup> Endeavouring to keep the unity of the Spirit in the bond of peace.
-
-- I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called: Many, many times, like, you have brothers and sisters that come in this truth and y'all take it for a joke, right? You don't realize the scriptures is telling all of us this should be a primary focus 24/7, living up to the standards that the Most High set for us. How to eat, how to walk, how to talk, okay? How to, conflict resolution, how to deal with your wife, how to deal with your brothers, how to move in society, how to rule the planet. Everything is here. Okay.
 
 - Endeavouring to keep the unity of the Spirit in the bond of peace: So now it says endeavoring to keep the unity of the spirit in the bond of peace. Why? Because this is your primary occupation. This is the vocation wherewith all of us are called right here in this truth. But meanwhile, as soon as something happened, little trial come on, something you don't like, now all of a sudden you bug out and you're gone, because you don't understand what you're called into. Okay.
 
@@ -265,18 +265,14 @@ Reading from Definition of vocation  *[[33:36](https://www.youtube.com/watch?v=v
 > <sup>[45](/bible/john/7#v45)</sup> Then came the officers to the chief priests and Pharisees; and they said unto them, Why have ye not brought him?
 >
 > <sup>[46](/bible/john/7#v46)</sup> The officers answered, Never man spake like this man.
->
-> <sup>[47](/bible/john/7#v47)</sup> Then answered them the Pharisees, Are ye also deceived?
->
-> <sup>[48](/bible/john/7#v48)</sup> Have any of the rulers or of the Pharisees believed on him?
->
-> <sup>[49](/bible/john/7#v49)</sup> But this people who knoweth not the law are cursed.
->
-> <sup>[50](/bible/john/7#v50)</sup> Nicodemus saith unto them, (he that came to Jesus by night, being one of them,)
 
 - Never man spake like this man: Nobody said like Christ. This guy Christ. Remember, remember it said earlier about Peter and John? There was a certain level of boldness they had, and they took notice that these guys been with Christ. So it says the officer said, "Never have man spake like this guy. The boldness, the spirit is in him."
 
+> <sup>[47](/bible/john/7#v47)</sup> Then answered them the Pharisees, Are ye also deceived?
+
 - Are ye also deceived?: So wait a minute. Are y'all deceived too?
+
+> <sup>[48](/bible/john/7#v48)</sup> Have any of the rulers or of the Pharisees believed on him?
 
 - Have any of the rulers or of the Pharisees believed on him?: Have any of the rulers or the Pharisees believed on him? So remember it said earlier, not many mighty, not many noble. These guys were the leaders at that time. Okay? So the majority of them did not believe. That's what they're saying. "Have any of the rules of the Pharisees believed on him? This guy Christ? No, no. We're sticking to animal sacrifice." Okay. So, the majority of the Pharisees, scribes, and whatnot, they did not believe. But there were some of them that did.
 
@@ -291,6 +287,10 @@ Reading from Definition of vocation  *[[33:36](https://www.youtube.com/watch?v=v
     > <sup>[43](/bible/mark/15#v43)</sup> Joseph of Arimathea, an honourable counsellor, which also waited for the kingdom of God, came, and went in boldly unto Pilate, and craved the body of Jesus.
 
     All right. The scripture says not many mighty, not many noble. Some of them will come in though. Called him a honorable counselor. So, Joseph of Arimathaea was a honorable counselor. All right? And he went to beg the body of Jesus when he was crucified. Why? Because it had to be in the ground that day. All right? Matter of fact, that showed he believed, because that was the custom of the Israelites, to bury the body that particular day. So, he knew it had to be done.
+
+> <sup>[49](/bible/john/7#v49)</sup> But this people who knoweth not the law are cursed.
+>
+> <sup>[50](/bible/john/7#v50)</sup> Nicodemus saith unto them, (he that came to Jesus by night, being one of them,)
 
 
 **[John 19:38](/bible/john/19#v38)**  *[[43:25](https://www.youtube.com/watch?v=vLoOravXu3g&t=2605s)]*
@@ -316,10 +316,10 @@ Reading from Definition of vocation  *[[33:36](https://www.youtube.com/watch?v=v
 > <sup>[1](/bible/mark/6#v1)</sup> And he went out from thence, and came into his own country; and his disciples follow him.
 >
 > <sup>[2](/bible/mark/6#v2)</sup> And when the sabbath day was come, he began to teach in the synagogue: and many hearing him were astonished, saying, From whence hath this man these things? and what wisdom is this which is given unto him, that even such mighty works are wrought by his hands?
->
-> <sup>[3](/bible/mark/6#v3)</sup> Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him.
 
 - From whence hath this man these things? and what wisdom is this which is given unto him: So what, where he get this wisdom from? Okay, what the hell's going on here?
+
+> <sup>[3](/bible/mark/6#v3)</sup> Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him.
 
 - Is not this the carpenter: See that? They were offended at him, but they called him the carpenter. It's not just the carpenter. Like, you think about a guy, even now in today's society, somebody that's a carpenter, you just looked at like, ah, you just got a little regular job. You ain't nobody. You know what I'm saying? That's why the scripture says, "But God have chosen the foolish things of the world to confound the wise." People look at your day-to-day job and stuff like that like you got no wisdom. Some brothers might work at, I don't know, fast food, grocery stores, you know, whatever the case. And that might be a prophet of the Lord. The Lord going to use that brother. It might be Zerubbabel or somebody like that coming into the knowledge. You know what I mean? But people look at you, if you don't have high status, you're not a CEO of a company, or like I said, an athlete, movie director, something like that, a politician, they like, "All right, this guy don't know nothing." So the Lord oftentimes use men of, quote unquote, low degree to confound the wise. So it says, "Is not this the carpenter son?"
 
@@ -329,36 +329,36 @@ Reading from Definition of vocation  *[[33:36](https://www.youtube.com/watch?v=v
 > <sup>[35](/bible/matthew/22#v35)</sup> Then one of them, which was a lawyer, asked him a question, tempting him, and saying,
 >
 > <sup>[36](/bible/matthew/22#v36)</sup> Master, which is the great commandment in the law?
->
+
+- Asked him a question, tempting him, and saying, Master, which is the great commandment in the law?: I was thinking about this earlier when I was talking about Christ, so I didn't want to jump ahead. So, we'll get into it now. Notice it says they tempted him, right? Tempting him, saying, "Hey, which is the great commandment in the law?" Good.
+
 > <sup>[37](/bible/matthew/22#v37)</sup> Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.
 >
 > <sup>[38](/bible/matthew/22#v38)</sup> This is the first and great commandment.
->
+
+- This is the first and great commandment: That's the first and great commandment. Love God with all your heart, soul, mind.
+
 > <sup>[39](/bible/matthew/22#v39)</sup> And the second is like unto it, Thou shalt love thy neighbour as thyself.
 >
 > <sup>[40](/bible/matthew/22#v40)</sup> On these two commandments hang all the law and the prophets.
->
+
+- On these two commandments hang all the law and the prophets: On those two commandments hang all the law and all the prophets. So Christ summed up the ten commandments in two. The ten commandments sum up all the hundreds of others in the 10. It's simple. But the Christian will read this verse, or these verses, and say, "Oh, it's only two commandments." That's a dag on lie. It's telling you right there, on these two commandments hang all the law and the prophets. So, how do you love your neighbor as yourself? You don't kill them. You don't commit adultery with their wife or with their husband. You don't steal from them. Okay? You don't covet what they have.
+
 > <sup>[41](/bible/matthew/22#v41)</sup> While the Pharisees were gathered together, Jesus asked them,
 >
 > <sup>[42](/bible/matthew/22#v42)</sup> Saying, What think ye of Christ? whose son is he? They say unto him, The Son of David.
->
+
+- What think ye of Christ? whose son is he? They say unto him, The Son of David: Remember, we're reading this because of Corinthians. God have chosen the foolish things of the world to confound the wise. Watch what Christ said. Okay. Well, you the son of David, Christ.
+
 > <sup>[43](/bible/matthew/22#v43)</sup> He saith unto them, How then doth David in spirit call him Lord, saying,
 >
 > <sup>[44](/bible/matthew/22#v44)</sup> The Lord said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?
 >
 > <sup>[45](/bible/matthew/22#v45)</sup> If David then call him Lord, how is he his son?
->
-> <sup>[46](/bible/matthew/22#v46)</sup> And no man was able to answer him a word, neither durst any man from that day forth ask him any more questions.
-
-- Asked him a question, tempting him, and saying, Master, which is the great commandment in the law?: I was thinking about this earlier when I was talking about Christ, so I didn't want to jump ahead. So, we'll get into it now. Notice it says they tempted him, right? Tempting him, saying, "Hey, which is the great commandment in the law?" Good.
-
-- This is the first and great commandment: That's the first and great commandment. Love God with all your heart, soul, mind.
-
-- On these two commandments hang all the law and the prophets: On those two commandments hang all the law and all the prophets. So Christ summed up the ten commandments in two. The ten commandments sum up all the hundreds of others in the 10. It's simple. But the Christian will read this verse, or these verses, and say, "Oh, it's only two commandments." That's a dag on lie. It's telling you right there, on these two commandments hang all the law and the prophets. So, how do you love your neighbor as yourself? You don't kill them. You don't commit adultery with their wife or with their husband. You don't steal from them. Okay? You don't covet what they have.
-
-- What think ye of Christ? whose son is he? They say unto him, The Son of David: Remember, we're reading this because of Corinthians. God have chosen the foolish things of the world to confound the wise. Watch what Christ said. Okay. Well, you the son of David, Christ.
 
 - If David then call him Lord, how is he his son?: So wait a minute. If David called me Lord, how the hell am I his son?
+
+> <sup>[46](/bible/matthew/22#v46)</sup> And no man was able to answer him a word, neither durst any man from that day forth ask him any more questions.
 
 - And no man was able to answer him a word: You see that? God have chosen the foolish things of the world. Remember, because they, remember the scripture says, the stone that the builders rejected. Okay? They rejected Christ. They like, ah, who's this guy? But it says what again? And no man what? He shut him down. No man was able to answer him a word.
 
@@ -377,16 +377,16 @@ Reading from Definition of vocation  *[[33:36](https://www.youtube.com/watch?v=v
 **[Sirach 11:1-3](/bible/sirach/11#v1)**  *[[53:23](https://www.youtube.com/watch?v=vLoOravXu3g&t=3203s)]*
 
 > <sup>[1](/bible/sirach/11#v1)</sup> Wisdom lifteth up the head of him that is of low degree, and maketh him to sit among great men.
->
-> <sup>[2](/bible/sirach/11#v2)</sup> Commend not a man for his beauty; neither abhor a man for his outward appearance.
->
-> <sup>[3](/bible/sirach/11#v3)</sup> The bee is little among such as fly; but her fruit is the chief of sweet things.
 
 - Wisdom lifteth up the head of him that is of low degree: Scripture say he chose the base things of the world that are despised to make them chosen. Watch this. That's how, right there. How are the base things of the world utilized? Is through God's wisdom. You see that?
 
 - And maketh him to sit among great men: And wisdom will make you to sit among great men. That's how you get at the footsteps of the bishops, the deacons, captains.
 
+> <sup>[2](/bible/sirach/11#v2)</sup> Commend not a man for his beauty; neither abhor a man for his outward appearance.
+
 - Commend not a man for his beauty; neither abhor a man for his outward appearance: Damn, sisters. It says, "Commend not a man for his beauty." "Oh, look. He's tall. He got big feet." It says, "Neither abhor a man for his outward appearance." You trying to tell the sister, "Yeah, you know, it's brother so and so. It's a good brother right here." "Ah, yeah. I don't know. You know, he ain't as tall as I like." But he taller than you.
+
+> <sup>[3](/bible/sirach/11#v3)</sup> The bee is little among such as fly; but her fruit is the chief of sweet things.
 
 - The bee is little among such as fly; but her fruit is the chief of sweet things: Now, this is in comparison, right? It says, "The bee is little among such as fly, but her fruit is what?" That's like us being resurrected, understanding who we are, and getting the wisdom of God.
 
@@ -404,11 +404,19 @@ Reading from Definition of vocation  *[[33:36](https://www.youtube.com/watch?v=v
 **[Psalms 119:97-103](/bible/psalms/119#v97)**  *[[57:44](https://www.youtube.com/watch?v=vLoOravXu3g&t=3464s)]*
 
 > <sup>[97](/bible/psalms/119#v97)</sup> O how love I thy law! it is my meditation all the day.
->
+
+- O how love I thy law!: Oh how I love thy law.
+
 > <sup>[98](/bible/psalms/119#v98)</sup> Thou through thy commandments hast made me wiser than mine enemies: for they are ever with me.
->
+
+- Thou through thy commandments hast made me wiser than mine enemies: Damn. See, they are. So through your commandments, you've made me wiser than mine enemies. Okay? Using base things to confound the wise. Through the commandments, he's made us wiser than our enemies. Think about it right now. We know exactly, generally speaking, we know how this world going to end. We know the prophecies. We know how everything is going to unfold. How? Through the commandments, through the wisdom of God. We're wiser than Esau. They don't know what's going to happen. They know what's going to happen by listening to us. Okay, watch this.
+
 > <sup>[99](/bible/psalms/119#v99)</sup> I have more understanding than all my teachers: for thy testimonies are my meditation.
->
+
+- I have more understanding than all my teachers: Uh oh. I have more understanding than all my teachers.
+
+- For thy testimonies are my meditation: You see that? So y'all may have, you know, like I said, college degrees. You had a bachelor's, a master's, a doctorate, but this wisdom right here is far greater than all of that. Remember the scripture we read in Ephesians about your vocation. Okay? This is our primary focus right here. Watch this.
+
 > <sup>[100](/bible/psalms/119#v100)</sup> I understand more than the ancients, because I keep thy precepts.
 >
 > <sup>[101](/bible/psalms/119#v101)</sup> I have refrained my feet from every evil way, that I might keep thy word.
@@ -416,14 +424,6 @@ Reading from Definition of vocation  *[[33:36](https://www.youtube.com/watch?v=v
 > <sup>[102](/bible/psalms/119#v102)</sup> I have not departed from thy judgments: for thou hast taught me.
 >
 > <sup>[103](/bible/psalms/119#v103)</sup> How sweet are thy words unto my taste! yea, sweeter than honey to my mouth!
-
-- O how love I thy law!: Oh how I love thy law.
-
-- Thou through thy commandments hast made me wiser than mine enemies: Damn. See, they are. So through your commandments, you've made me wiser than mine enemies. Okay? Using base things to confound the wise. Through the commandments, he's made us wiser than our enemies. Think about it right now. We know exactly, generally speaking, we know how this world going to end. We know the prophecies. We know how everything is going to unfold. How? Through the commandments, through the wisdom of God. We're wiser than Esau. They don't know what's going to happen. They know what's going to happen by listening to us. Okay, watch this.
-
-- I have more understanding than all my teachers: Uh oh. I have more understanding than all my teachers.
-
-- For thy testimonies are my meditation: You see that? So y'all may have, you know, like I said, college degrees. You had a bachelor's, a master's, a doctorate, but this wisdom right here is far greater than all of that. Remember the scripture we read in Ephesians about your vocation. Okay? This is our primary focus right here. Watch this.
 
 - How sweet are thy words unto my taste! yea, sweeter than honey to my mouth!: How sweet are thy words unto my taste. Watch this. Sweeter than honey to my mouth. Okay.
 
@@ -440,14 +440,14 @@ Reading from Definition of vocation  *[[33:36](https://www.youtube.com/watch?v=v
 **[Jeremiah 9:23-24](/bible/jeremiah/9#v23)**  *[[1:01:17](https://www.youtube.com/watch?v=vLoOravXu3g&t=3677s)]*
 
 > <sup>[23](/bible/jeremiah/9#v23)</sup> Thus saith the Lord, Let not the wise man glory in his wisdom, neither let the mighty man glory in his might, let not the rich man glory in his riches:
->
-> <sup>[24](/bible/jeremiah/9#v24)</sup> But let him that glorieth glory in this, that he understandeth and knoweth me, that I am the Lord which exercise lovingkindness, judgment, and righteousness, in the earth: for in these things I delight, saith the Lord.
 
 - Let not the wise man glory in his wisdom: Not the what? The wise man glory in his wisdom, his own wisdom. Watch this.
 
 - Neither let the mighty man glory in his might: Don't glory in your might. Okay.
 
 - Let not the rich man glory in his riches: Why? Because these are things, worldly wisdom, worldly riches, worldly might.
+
+> <sup>[24](/bible/jeremiah/9#v24)</sup> But let him that glorieth glory in this, that he understandeth and knoweth me, that I am the Lord which exercise lovingkindness, judgment, and righteousness, in the earth: for in these things I delight, saith the Lord.
 
 - But let him that glorieth glory in this, that he understandeth and knoweth me: Right there. That's our glory. That we understand and know Christ. Right.
 
@@ -457,12 +457,12 @@ Reading from Definition of vocation  *[[33:36](https://www.youtube.com/watch?v=v
 **[1 John 2:3-5](/bible/1-john/2#v3)**  *[[1:02:19](https://www.youtube.com/watch?v=vLoOravXu3g&t=3739s)]*
 
 > <sup>[3](/bible/1-john/2#v3)</sup> And hereby we do know that we know him, if we keep his commandments.
->
+
+- And hereby we do know that we know him, if we keep his commandments: Right? So you only know Christ if you keep the commandments. It's not just confessing with your mouth and that's it. No, no, no, no. It says, "Hereby we do know that we know him if we keep the commandments. He that saith, I know him and keepeth not his commandments is a liar, and the truth is not in him."
+
 > <sup>[4](/bible/1-john/2#v4)</sup> He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him.
 >
 > <sup>[5](/bible/1-john/2#v5)</sup> But whoso keepeth his word, in him verily is the love of God perfected: hereby know we that we are in him.
-
-- And hereby we do know that we know him, if we keep his commandments: Right? So you only know Christ if you keep the commandments. It's not just confessing with your mouth and that's it. No, no, no, no. It says, "Hereby we do know that we know him if we keep the commandments. He that saith, I know him and keepeth not his commandments is a liar, and the truth is not in him."
 
 - But whoso keepeth his word, in him verily is the love of God perfected: See what it says? When you keep the word, that's how the love of God is perfected. It's performance-based.
 

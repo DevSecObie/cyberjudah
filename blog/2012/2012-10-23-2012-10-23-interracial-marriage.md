@@ -70,6 +70,10 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "marriage-family", "repentanc
 
 **[Ruth 1:1-6](/bible/ruth/1#v1)**  *[[5:09](https://www.youtube.com/watch?v=4DrKt9DguwA&t=309s)]*
 
+- The Most High brought a famine in the land because Israel was sinning, because every man did that which was right in his own eyes.
+
+- We already read the law: no interracial marriage, and Moab and Ammon shall not enter the congregation. Why did these two brothers marry women of Moab? Because every man did that which was right in his own eyes.
+
 > <sup>[1](/bible/ruth/1#v1)</sup> Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Beth–lehem–judah went to sojourn in the country of Moab, he, and his wife, and his two sons.
 >
 > <sup>[2](/bible/ruth/1#v2)</sup> And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Beth–lehem–judah. And they came into the country of Moab, and continued there.
@@ -79,16 +83,12 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "marriage-family", "repentanc
 > <sup>[4](/bible/ruth/1#v4)</sup> And they took them wives of the women of Moab; the name of the one was Orpah, and the name of the other Ruth: and they dwelled there about ten years.
 >
 > <sup>[5](/bible/ruth/1#v5)</sup> And Mahlon and Chilion died also both of them; and the woman was left of her two sons and her husband.
->
-> <sup>[6](/bible/ruth/1#v6)</sup> Then she arose with her daughters in law, that she might return from the country of Moab: for she had heard in the country of Moab how that the Lord had visited his people in giving them bread.
-
-- The Most High brought a famine in the land because Israel was sinning, because every man did that which was right in his own eyes.
-
-- We already read the law: no interracial marriage, and Moab and Ammon shall not enter the congregation. Why did these two brothers marry women of Moab? Because every man did that which was right in his own eyes.
 
 - Mahlon and Chilion died also: the two husbands, God killed them.
 
 - The Lord was having mercy on Israel again and giving them bread, so Naomi wanted to return to Israel.
+
+> <sup>[6](/bible/ruth/1#v6)</sup> Then she arose with her daughters in law, that she might return from the country of Moab: for she had heard in the country of Moab how that the Lord had visited his people in giving them bread.
 
 
 **[Ruth 4:10](/bible/ruth/4#v10)**  *[[8:14](https://www.youtube.com/watch?v=4DrKt9DguwA&t=494s)]*
@@ -330,16 +330,6 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "marriage-family", "repentanc
 
 **[Habakkuk 2:5-9](/bible/habakkuk/2#v5)**  *[[45:22](https://www.youtube.com/watch?v=4DrKt9DguwA&t=2722s)]*
 
-> <sup>[5](/bible/habakkuk/2#v5)</sup> Yea also, because he transgresseth by wine, he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:
->
-> <sup>[6](/bible/habakkuk/2#v6)</sup> Shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increaseth that which is not his! how long? and to him that ladeth himself with thick clay!
->
-> <sup>[7](/bible/habakkuk/2#v7)</sup> Shall they not rise up suddenly that shall bite thee, and awake that shall vex thee, and thou shalt be for booties unto them?
->
-> <sup>[8](/bible/habakkuk/2#v8)</sup> Because thou hast spoiled many nations, all the remnant of the people shall spoil thee; because of men’s blood, and for the violence of the land, of the city, and of all that dwell therein.
->
-> <sup>[9](/bible/habakkuk/2#v9)</sup> Woe to him that coveteth an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil!
-
 - Some of you just want to marry all the other nations; you are a rainbow coalition.
 
 - He that transgresses by wine is the so-called white man of the United States of America. The wine is his lies, his political agenda, his Constitution, which says you have certain inalienable rights and can go out and marry whoever you want.
@@ -348,12 +338,28 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "marriage-family", "repentanc
 
 - He gathers unto him all nations and heapeth unto him all people: this is the proof that this is talking about the United States of America, which has all nations here. This ain't talking about Iraq or Kuwait.
 
+> <sup>[5](/bible/habakkuk/2#v5)</sup> Yea also, because he transgresseth by wine, he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:
+>
+> <sup>[6](/bible/habakkuk/2#v6)</sup> Shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increaseth that which is not his! how long? and to him that ladeth himself with thick clay!
+>
+> <sup>[7](/bible/habakkuk/2#v7)</sup> Shall they not rise up suddenly that shall bite thee, and awake that shall vex thee, and thou shalt be for booties unto them?
+
 - Shall they not rise up suddenly that shall bite thee and awake that shall vex thee: what do they call these terrorists laying dormant? Sleeper cells. They're going to take this place down.
 
 - Because America has spoiled many nations and done violence to them, the American Indian, the tribe of Reuben, the tribe of Issachar; the remnant shall spoil thee. Setting his nest on high is when they landed on the moon and said the eagle has landed.
 
+> <sup>[8](/bible/habakkuk/2#v8)</sup> Because thou hast spoiled many nations, all the remnant of the people shall spoil thee; because of men’s blood, and for the violence of the land, of the city, and of all that dwell therein.
+>
+> <sup>[9](/bible/habakkuk/2#v9)</sup> Woe to him that coveteth an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil!
+
 
 **[Revelation 18:1-5](/bible/revelation/18#v1)**  *[[49:07](https://www.youtube.com/watch?v=4DrKt9DguwA&t=2947s)]*
+
+- John sees in a vision Babylon the great, which is the United States of America, fallen. When this place is destroyed it becomes a habitation of devils, just like Isaiah 34 says.
+
+- America's wine is their politics and their religions. All nations are not following China, Africa or Kuwait; all nations are following the United States of America, people dying to get in this country.
+
+- The kings of the earth have politically or religiously joined with America, and all the nations that do buying and trading with America have become rich.
 
 > <sup>[1](/bible/revelation/18#v1)</sup> And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory.
 >
@@ -362,31 +368,15 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "marriage-family", "repentanc
 > <sup>[3](/bible/revelation/18#v3)</sup> For all nations have drunk of the wine of the wrath of her fornication, and the kings of the earth have committed fornication with her, and the merchants of the earth are waxed rich through the abundance of her delicacies.
 >
 > <sup>[4](/bible/revelation/18#v4)</sup> And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues.
->
-> <sup>[5](/bible/revelation/18#v5)</sup> For her sins have reached unto heaven, and God hath remembered her iniquities.
-
-- John sees in a vision Babylon the great, which is the United States of America, fallen. When this place is destroyed it becomes a habitation of devils, just like Isaiah 34 says.
-
-- America's wine is their politics and their religions. All nations are not following China, Africa or Kuwait; all nations are following the United States of America, people dying to get in this country.
-
-- The kings of the earth have politically or religiously joined with America, and all the nations that do buying and trading with America have become rich.
 
 - Come out of her my people: this is the proof that the Israelites are slaves in America, called Babylon the great. God wants us to come out mentally and spiritually and not take part in the sins taking place here, or you shall receive of her plagues.
+
+> <sup>[5](/bible/revelation/18#v5)</sup> For her sins have reached unto heaven, and God hath remembered her iniquities.
 
 - Her sins have reached unto heaven: in 1969 America claimed the moon. That's saying the same thing as Habakkuk 2:9.
 
 
 **[Isaiah 13:12-16](/bible/isaiah/13#v12)**  *[[52:46](https://www.youtube.com/watch?v=4DrKt9DguwA&t=3166s)]*
-
-> <sup>[12](/bible/isaiah/13#v12)</sup> I will make a man more precious than fine gold; even a man than the golden wedge of Ophir.
->
-> <sup>[13](/bible/isaiah/13#v13)</sup> Therefore I will shake the heavens, and the earth shall remove out of her place, in the wrath of the Lord of hosts, and in the day of his fierce anger.
->
-> <sup>[14](/bible/isaiah/13#v14)</sup> And it shall be as the chased roe, and as a sheep that no man taketh up: they shall every man turn to his own people, and flee every one into his own land.
->
-> <sup>[15](/bible/isaiah/13#v15)</sup> Every one that is found shall be thrust through; and every one that is joined unto them shall fall by the sword.
->
-> <sup>[16](/bible/isaiah/13#v16)</sup> Their children also shall be dashed to pieces before their eyes; their houses shall be spoiled, and their wives ravished.
 
 - We're still dealing with interracial marriage. All nations are here, and it says come out from amongst them; you're not supposed to join in their religions, their politics, and definitely not supposed to be marrying these people of other nations.
 
@@ -394,9 +384,19 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "marriage-family", "repentanc
 
 - The chased roe is the people of Babylon the great, the so-called white man, the nation of Edom who rules Babylon the great. No man's gonna take up this man or try to protect him.
 
+> <sup>[12](/bible/isaiah/13#v12)</sup> I will make a man more precious than fine gold; even a man than the golden wedge of Ophir.
+>
+> <sup>[13](/bible/isaiah/13#v13)</sup> Therefore I will shake the heavens, and the earth shall remove out of her place, in the wrath of the Lord of hosts, and in the day of his fierce anger.
+>
+> <sup>[14](/bible/isaiah/13#v14)</sup> And it shall be as the chased roe, and as a sheep that no man taketh up: they shall every man turn to his own people, and flee every one into his own land.
+
 - They shall every man turn to his own people: in this place there's a mixture of all nations, and everybody's going to try to run to their own land.
 
 - Everyone that is joined unto them shall fall by the sword. Remember the Rodney King verdict and Reginald Denny; every black woman holding on to the white man got whooped. This is going to be a step higher than that. You brothers want to marry the white woman, you sisters want to marry the white man: you shall fall by the sword.
+
+> <sup>[15](/bible/isaiah/13#v15)</sup> Every one that is found shall be thrust through; and every one that is joined unto them shall fall by the sword.
+>
+> <sup>[16](/bible/isaiah/13#v16)</sup> Their children also shall be dashed to pieces before their eyes; their houses shall be spoiled, and their wives ravished.
 
 - Their children also shall be dashed to pieces: your biracial baby. Black man that repents, his children are Israelites and can be saved; black woman, your children will be the seed of the white man. We can't change the prophecy.
 
@@ -407,17 +407,15 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "marriage-family", "repentanc
 
 **[2 Corinthians 6:14-17](/bible/2-corinthians/6#v14)**  *[[1:00:50](https://www.youtube.com/watch?v=4DrKt9DguwA&t=3650s)]*
 
+- Let's see if the law changed in the New Testament.
+
+- What concord hath Christ with Belial, or what part hath he that believeth with an infidel? That's all the nations too.
+
 > <sup>[14](/bible/2-corinthians/6#v14)</sup> Be ye not unequally yoked together with unbelievers: for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness?
 >
 > <sup>[15](/bible/2-corinthians/6#v15)</sup> And what concord hath Christ with Belial? or what part hath he that believeth with an infidel?
 >
 > <sup>[16](/bible/2-corinthians/6#v16)</sup> And what agreement hath the temple of God with idols? for ye are the temple of the living God; as God hath said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people.
->
-> <sup>[17](/bible/2-corinthians/6#v17)</sup> Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you,
-
-- Let's see if the law changed in the New Testament.
-
-- What concord hath Christ with Belial, or what part hath he that believeth with an infidel? That's all the nations too.
 
 - Ye are the temple of the living God: you Israelites are the temple of the living God. Come out from among them and be separate is saying the same thing Nehemiah 9:2 said.
 
@@ -432,6 +430,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "marriage-family", "repentanc
     > <sup>[2](/bible/nehemiah/9#v2)</sup> And the seed of Israel separated themselves from all strangers, and stood and confessed their sins, and the iniquities of their fathers.
 
     Read again so we don't forget the thought: the seed of Israel separated themselves from all strangers.
+
+> <sup>[17](/bible/2-corinthians/6#v17)</sup> Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you,
 
 
 **[Deuteronomy 32:7-8](/bible/deuteronomy/32#v7)**  *[[1:03:05](https://www.youtube.com/watch?v=4DrKt9DguwA&t=3785s)]*

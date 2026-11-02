@@ -89,14 +89,16 @@ Reading from Merriam-Webster, on enmity  *[[14:59](https://www.youtube.com/watch
 > <sup>[21](/bible/numbers/14#v21)</sup> But as truly as I live, all the earth shall be filled with the glory of the Lord.
 >
 > <sup>[22](/bible/numbers/14#v22)</sup> Because all those men which have seen my glory, and my miracles, which I did in Egypt and in the wilderness, and have tempted me now these ten times, and have not hearkened to my voice;
->
+
+- All those men which have seen my glory and my miracles: we saw his glory in the way the sea split, we saw the pillar give us light at night, we saw all the plagues when Moses went before Pharaoh.
+
+- And have tempted me now these ten times: in the wilderness we tested God ten times already, and have not hearkened to my voice. Surely they shall not see the land which I sware unto their fathers.
+
+- But my servant Caleb, because he had another spirit with him, and hath followed me fully, him will I bring into the land. Out of all the people that came out of Egypt, only Caleb and Joshua saw that land; the men that came out died in the wilderness and their children went in. That is how rebellious we were, and that is how rebellious we still are.
+
 > <sup>[23](/bible/numbers/14#v23)</sup> Surely they shall not see the land which I sware unto their fathers, neither shall any of them that provoked me see it:
 >
 > <sup>[24](/bible/numbers/14#v24)</sup> But my servant Caleb, because he had another spirit with him, and hath followed me fully, him will I bring into the land whereinto he went; and his seed shall possess it.
-
-- All those men which have seen my glory and my miracles: we saw his glory in the way the sea split, we saw the pillar give us light at night, we saw all the plagues when Moses went before Pharaoh.
-- And have tempted me now these ten times: in the wilderness we tested God ten times already, and have not hearkened to my voice. Surely they shall not see the land which I sware unto their fathers.
-- But my servant Caleb, because he had another spirit with him, and hath followed me fully, him will I bring into the land. Out of all the people that came out of Egypt, only Caleb and Joshua saw that land; the men that came out died in the wilderness and their children went in. That is how rebellious we were, and that is how rebellious we still are.
 
 **[Exodus 14:11-12](/bible/exodus/14#v11)**  *[[28:28](https://www.youtube.com/watch?v=0N1tUWScwMU&t=1708s)]*
 
@@ -110,14 +112,15 @@ Reading from Merriam-Webster, on enmity  *[[14:59](https://www.youtube.com/watch
 
 **[Exodus 15:24-26](/bible/exodus/15#v24)**  *[[30:57](https://www.youtube.com/watch?v=0N1tUWScwMU&t=1857s)]*
 
+- The people murmured against Moses, saying, what shall we drink? He cried unto the Lord, and the Lord showed him a tree which made the waters sweet.
+
 > <sup>[24](/bible/exodus/15#v24)</sup> And the people murmured against Moses, saying, What shall we drink?
 >
 > <sup>[25](/bible/exodus/15#v25)</sup> And he cried unto the Lord; and the Lord shewed him a tree, which when he had cast into the waters, the waters were made sweet: there he made for them a statute and an ordinance, and there he proved them,
->
-> <sup>[26](/bible/exodus/15#v26)</sup> And said, If thou wilt diligently hearken to the voice of the Lord thy God, and wilt do that which is right in his sight, and wilt give ear to his commandments, and keep all his statutes, I will put none of these diseases upon thee, which I have brought upon the Egyptians: for I am the Lord that healeth thee.
 
-- The people murmured against Moses, saying, what shall we drink? He cried unto the Lord, and the Lord showed him a tree which made the waters sweet.
 - There he proved them: if thou wilt diligently hearken to the voice of the Lord thy God, and keep all his statutes, I will put none of these diseases upon thee which I have brought upon the Egyptians. He is talking about those curses. But we did not listen; we complained about everything.
+
+> <sup>[26](/bible/exodus/15#v26)</sup> And said, If thou wilt diligently hearken to the voice of the Lord thy God, and wilt do that which is right in his sight, and wilt give ear to his commandments, and keep all his statutes, I will put none of these diseases upon thee, which I have brought upon the Egyptians: for I am the Lord that healeth thee.
 
 **[Numbers 11:1-10](/bible/numbers/11#v1)**  *[[33:16](https://www.youtube.com/watch?v=0N1tUWScwMU&t=1996s)]*
 
@@ -238,20 +241,23 @@ Reading from Merriam-Webster, on enmity  *[[14:59](https://www.youtube.com/watch
 
 **[Psalms 83:1-5](/bible/psalms/83#v1)**  *[[1:01:34](https://www.youtube.com/watch?v=0N1tUWScwMU&t=3694s)]*
 
+- It is not only white people that hate us; we are the most hated people on the whole planet. Our job as the Israelites is to help our people understand why this thing is happening to us, because the answer is in the scriptures. It is not my opinion or your opinion; it is what God says.
+
 > <sup>[1](/bible/psalms/83#v1)</sup> Keep not thou silence, O God: hold not thy peace, and be not still, O God.
->
+
+- Keep not thou silence, O God: God has been silent for over 400 years. They have done to us evil after evil, and God stayed silent. But what you see right now is the spirit of God back on the earth; the Israelites are waking up, and the nations fear, because they know what they did to us.
+
+- They have taken crafty counsel against thy people. Crafty counsel is them coming together. The UN vote is a perfect example: they have consulted together with one consent. It is not a coincidence that everybody feels the same way about black people no matter what country you travel to; it is a spiritual thing.
+
 > <sup>[2](/bible/psalms/83#v2)</sup> For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.
 >
 > <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
 >
 > <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
->
-> <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
 
-- It is not only white people that hate us; we are the most hated people on the whole planet. Our job as the Israelites is to help our people understand why this thing is happening to us, because the answer is in the scriptures. It is not my opinion or your opinion; it is what God says.
-- Keep not thou silence, O God: God has been silent for over 400 years. They have done to us evil after evil, and God stayed silent. But what you see right now is the spirit of God back on the earth; the Israelites are waking up, and the nations fear, because they know what they did to us.
-- They have taken crafty counsel against thy people. Crafty counsel is them coming together. The UN vote is a perfect example: they have consulted together with one consent. It is not a coincidence that everybody feels the same way about black people no matter what country you travel to; it is a spiritual thing.
 - Let us cut them off from being a nation, that the name of Israel may be no more in remembrance: today nobody knows who the Israelites are, and another people is called Israel in our place.
+
+> <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
 
 <div class="reading">
 
@@ -287,8 +293,16 @@ Reading from on-screen text on reparations and the January 6th fund  *[[1:10:16]
 
 **[Wisdom of Solomon 12:10-18](/bible/wisdom-of-solomon/12#v10)**  *[[1:14:23](https://www.youtube.com/watch?v=0N1tUWScwMU&t=4463s)]*  (Captain's teaching)
 
+- The issue is we look for equality from the wrong people. Habakkuk 2 talks about how their soul is not upright in them. Instead of begging for reparations from your enemy, we have to wait on the Lord to give us that equality.
+
 > <sup>[10](/bible/wisdom-of-solomon/12#v10)</sup> But executing thy judgments upon them by little and little, thou gavest them place of repentance, not being ignorant that they were a naughty generation, and that their malice was bred in them, and that their cogitation would never be changed.
->
+
+- Executing thy judgments upon them by little and little: remember the ten plagues in Egypt; the Lord executed judgment little by little, not being ignorant that they were a naughty generation. Just like today: they are not going to repent for the evil they have done to us.
+
+- Their malice was bred in them, and their cogitation would never be changed: no matter what you do, bribery or service, the way they feel about you is never going to change. For it was a cursed seed from the beginning. The Lord never gave them pardon; a lot of people think the Lord is okay with it, but he never forgave it. It is a matter of time before the Lord brings the recompense.
+
+- Who shall say, what hast thou done? Or who shall withstand thy judgment? No president, no prime minister, no government official is going to be able to stand or speak against the Lord's judgment, because it is going to be just.
+
 > <sup>[11](/bible/wisdom-of-solomon/12#v11)</sup> For it was a cursed seed from the beginning; neither didst thou for fear of any man give them pardon for those things wherein they sinned.
 >
 > <sup>[12](/bible/wisdom-of-solomon/12#v12)</sup> For who shall say, What hast thou done? or who shall withstand thy judgment? or who shall accuse thee for the nations that perish, whom thou made? or who shall come to stand against thee, to be revenged for the unrighteous men?
@@ -305,10 +319,6 @@ Reading from on-screen text on reparations and the January 6th fund  *[[1:10:16]
 >
 > <sup>[18](/bible/wisdom-of-solomon/12#v18)</sup> But thou, mastering thy power, judgest with equity, and orderest us with great favour: for thou mayest use power when thou wilt.
 
-- The issue is we look for equality from the wrong people. Habakkuk 2 talks about how their soul is not upright in them. Instead of begging for reparations from your enemy, we have to wait on the Lord to give us that equality.
-- Executing thy judgments upon them by little and little: remember the ten plagues in Egypt; the Lord executed judgment little by little, not being ignorant that they were a naughty generation. Just like today: they are not going to repent for the evil they have done to us.
-- Their malice was bred in them, and their cogitation would never be changed: no matter what you do, bribery or service, the way they feel about you is never going to change. For it was a cursed seed from the beginning. The Lord never gave them pardon; a lot of people think the Lord is okay with it, but he never forgave it. It is a matter of time before the Lord brings the recompense.
-- Who shall say, what hast thou done? Or who shall withstand thy judgment? No president, no prime minister, no government official is going to be able to stand or speak against the Lord's judgment, because it is going to be just.
 - But thou, mastering thy power, judgest with equity, and orderest us with great favour: when the Lord brings the judgment, it is going to be equal. For all the evil done to us, they get destruction; that is the vengeance of the Lord, and that is real equality. And we are ordered with great favor.
 
 **[Deuteronomy 7:6](/bible/deuteronomy/7#v6)**  *[[1:17:59](https://www.youtube.com/watch?v=0N1tUWScwMU&t=4679s)]*
@@ -321,15 +331,16 @@ Reading from on-screen text on reparations and the January 6th fund  *[[1:10:16]
 **[Psalms 83:5-8](/bible/psalms/83#v5)**  *[[1:19:24](https://www.youtube.com/watch?v=0N1tUWScwMU&t=4764s)]*
 
 > <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
->
+
+- They are confederate against thee: confederate means they all agree; that is what you see at the UN. They all have the same mindset.
+
 > <sup>[6](/bible/psalms/83#v6)</sup> The tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes;
->
+
+- The tabernacles of Edom: do you think it is a coincidence God put Edom first? Edom is the head of the confederacy. And the Ishmaelites: the Arabs. Of Moab, and the Hagarenes: the nations are being described one by one, Gebal, and Ammon, and Amalek. Those are the nations that came together against us.
+
 > <sup>[7](/bible/psalms/83#v7)</sup> Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;
 >
 > <sup>[8](/bible/psalms/83#v8)</sup> Assur also is joined with them: they have holpen the children of Lot. Selah.
-
-- They are confederate against thee: confederate means they all agree; that is what you see at the UN. They all have the same mindset.
-- The tabernacles of Edom: do you think it is a coincidence God put Edom first? Edom is the head of the confederacy. And the Ishmaelites: the Arabs. Of Moab, and the Hagarenes: the nations are being described one by one, Gebal, and Ammon, and Amalek. Those are the nations that came together against us.
 
 **[Amos 3:1-2](/bible/amos/3#v1)**  *[[1:21:25](https://www.youtube.com/watch?v=0N1tUWScwMU&t=4885s)]*
 
@@ -426,9 +437,17 @@ Reading from on-screen text on reparations and the January 6th fund  *[[1:10:16]
 **[Ezekiel 36:24-36](/bible/ezekiel/36#v24)**  *[[1:57:50](https://www.youtube.com/watch?v=0N1tUWScwMU&t=7070s)]*
 
 > <sup>[24](/bible/ezekiel/36#v24)</sup> For I will take you from among the heathen, and gather you out of all countries, and will bring you into your own land.
->
+
+- For I will take you from among the heathen, and gather you out of all countries: he keeps repeating it, because we are scattered all over the earth. And will bring you into your own land: I thought Haiti was my land, I thought America was my land, I thought Jamaica was my land. He said your own land.
+
 > <sup>[25](/bible/ezekiel/36#v25)</sup> Then will I sprinkle clean water upon you, and ye shall be clean: from all your filthiness, and from all your idols, will I cleanse you.
->
+
+- Then will I sprinkle clean water upon you, and ye shall be clean: from all your filthiness, and from all your idols, will I cleanse you. A new heart also will I give you, and a new spirit will I put within you: he takes away the stony heart and puts his spirit within us, causing us to walk in his statutes.
+
+- When you read this, brothers, this should give you hope. Whatever I am going through right now is nothing compared to what is coming.
+
+- Then shall ye remember your own evil ways, and shall lothe yourselves in your own sight for your iniquities. The land that was desolate shall become like the garden of Eden. This prophecy also tells you the people over there now are not the ones it speaks of, because this prophecy has not happened yet; their land does not look like the garden of Eden right now. I the Lord have spoken it, and I will do it.
+
 > <sup>[26](/bible/ezekiel/36#v26)</sup> A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.
 >
 > <sup>[27](/bible/ezekiel/36#v27)</sup> And I will put my spirit within you, and cause you to walk in my statutes, and ye shall keep my judgments, and do them.
@@ -451,31 +470,26 @@ Reading from on-screen text on reparations and the January 6th fund  *[[1:10:16]
 >
 > <sup>[36](/bible/ezekiel/36#v36)</sup> Then the heathen that are left round about you shall know that I the Lord build the ruined places, and plant that that was desolate: I the Lord have spoken it, and I will do it.
 
-- For I will take you from among the heathen, and gather you out of all countries: he keeps repeating it, because we are scattered all over the earth. And will bring you into your own land: I thought Haiti was my land, I thought America was my land, I thought Jamaica was my land. He said your own land.
-- Then will I sprinkle clean water upon you, and ye shall be clean: from all your filthiness, and from all your idols, will I cleanse you. A new heart also will I give you, and a new spirit will I put within you: he takes away the stony heart and puts his spirit within us, causing us to walk in his statutes.
-- When you read this, brothers, this should give you hope. Whatever I am going through right now is nothing compared to what is coming.
-- Then shall ye remember your own evil ways, and shall lothe yourselves in your own sight for your iniquities. The land that was desolate shall become like the garden of Eden. This prophecy also tells you the people over there now are not the ones it speaks of, because this prophecy has not happened yet; their land does not look like the garden of Eden right now. I the Lord have spoken it, and I will do it.
-
 **[Jeremiah 31:31-34](/bible/jeremiah/31#v31)**  *[[2:02:42](https://www.youtube.com/watch?v=0N1tUWScwMU&t=7362s)]*
 
 > <sup>[31](/bible/jeremiah/31#v31)</sup> Behold, the days come, saith the Lord, that I will make a new covenant with the house of Israel, and with the house of Judah:
->
+
+- Behold, the days come, saith the Lord, that I will make a new covenant with the house of Israel, and with the house of Judah: not according to the covenant that I made with their fathers when I brought them out of Egypt, which my covenant they brake.
+
+- I will put my law in their inward parts, and write it in their hearts; and I will be their God, and they shall be my people. They shall teach no more every man his neighbour, saying, Know the Lord: for they shall all know me, from the least of them unto the greatest of them. This is talking about the kingdom: all of us are going to know the law.
+
 > <sup>[32](/bible/jeremiah/31#v32)</sup> Not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which my covenant they brake, although I was an husband unto them, saith the Lord:
 >
 > <sup>[33](/bible/jeremiah/31#v33)</sup> But this shall be the covenant that I will make with the house of Israel; After those days, saith the Lord, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people.
 >
 > <sup>[34](/bible/jeremiah/31#v34)</sup> And they shall teach no more every man his neighbour, and every man his brother, saying, Know the Lord: for they shall all know me, from the least of them unto the greatest of them, saith the Lord: for I will forgive their iniquity, and I will remember their sin no more.
 
-- Behold, the days come, saith the Lord, that I will make a new covenant with the house of Israel, and with the house of Judah: not according to the covenant that I made with their fathers when I brought them out of Egypt, which my covenant they brake.
-- I will put my law in their inward parts, and write it in their hearts; and I will be their God, and they shall be my people. They shall teach no more every man his neighbour, saying, Know the Lord: for they shall all know me, from the least of them unto the greatest of them. This is talking about the kingdom: all of us are going to know the law.
-
 **[Isaiah 49:22-23](/bible/isaiah/49#v22)**  *[[2:04:23](https://www.youtube.com/watch?v=0N1tUWScwMU&t=7463s)]*
 
 > <sup>[22](/bible/isaiah/49#v22)</sup> Thus saith the Lord God, Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people: and they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders.
->
-> <sup>[23](/bible/isaiah/49#v23)</sup> And kings shall be thy nursing fathers, and their queens thy nursing mothers: they shall bow down to thee with their face toward the earth, and lick up the dust of thy feet; and thou shalt know that I am the Lord: for they shall not be ashamed that wait for me.
 
 - I will lift up mine hand to the Gentiles: they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders. Kings shall be thy nursing fathers, and their queens thy nursing mothers: they shall bow down to thee with their face toward the earth, and lick up the dust of thy feet.
+
 - We can hardly fathom these words right now. Who is going to bow down before Israel? People will say you are dreaming. But guess what? That is what the scripture says. Let God be true, and every man a liar.
 
   Precepts:
@@ -484,15 +498,20 @@ Reading from on-screen text on reparations and the January 6th fund  *[[1:10:16]
 
     Behold, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie; behold, I will make them to come and worship before thy feet. That is the bowing down.
 
+> <sup>[23](/bible/isaiah/49#v23)</sup> And kings shall be thy nursing fathers, and their queens thy nursing mothers: they shall bow down to thee with their face toward the earth, and lick up the dust of thy feet; and thou shalt know that I am the Lord: for they shall not be ashamed that wait for me.
+
 **[Isaiah 60:21-22](/bible/isaiah/60#v21)**  *[[2:06:38](https://www.youtube.com/watch?v=0N1tUWScwMU&t=7598s)]*
 
 > <sup>[21](/bible/isaiah/60#v21)</sup> Thy people also shall be all righteous: they shall inherit the land for ever, the branch of my planting, the work of my hands, that I may be glorified.
->
-> <sup>[22](/bible/isaiah/60#v22)</sup> A little one shall become a thousand, and a small one a strong nation: I the Lord will hasten it in his time.
 
 - Thy people also shall be all righteous: they shall inherit the land for ever. All of us are going to be righteous, brothers and sisters. Imagine living in a society where every one of us is righteous; imagine the peace.
+
 - There was a time we were righteous, a time we did not play with breaking God's laws. That is coming back again.
+
+> <sup>[22](/bible/isaiah/60#v22)</sup> A little one shall become a thousand, and a small one a strong nation: I the Lord will hasten it in his time.
+
 - A little one shall become a thousand, and a small one a strong nation: I the Lord will hasten it in his time. The kingdom of Israel is going to grow fast, real fast. So do not worry about the hatred, and do not worry about who got paid what down here. They are talking about reparations; we are not going to ask for reparations. What is coming to us is greater. That fund is a down payment.
+
 - Do not be fooled by the voices saying the black community's problem is finance. We had Black Wall Street; we had Oscarville here in Georgia; nothing changed, because there is no unity without the Bible. Everything we did that never succeeded, this book was not involved. This right here is built around the scriptures; God is behind this, not men.
 
 **[Micah 7:18-19](/bible/micah/7#v18)**  *[[2:17:21](https://www.youtube.com/watch?v=0N1tUWScwMU&t=8241s)]*
@@ -519,11 +538,12 @@ Reading from on-screen text on reparations and the January 6th fund  *[[1:10:16]
 **[Zephaniah 2:1-2](/bible/zephaniah/2#v1)**  *[[2:20:59](https://www.youtube.com/watch?v=0N1tUWScwMU&t=8459s)]*
 
 > <sup>[1](/bible/zephaniah/2#v1)</sup> Gather yourselves together, yea, gather together, O nation not desired;
->
-> <sup>[2](/bible/zephaniah/2#v2)</sup> Before the decree bring forth, before the day pass as the chaff, before the fierce anger of the Lord come upon you, before the day of the Lord’s anger come upon you.
 
 - Gather yourselves together, yea, gather together, O nation not desired: we are the nation nobody desires. Even a comedian's joke made the point: the poorest of them will not trade places with a rich black man. Guess what, brothers? We should have the same resolve: I am going to ride this Israelite thing out, because I know at the end of the tunnel I am getting the kingdom. Whatever a billionaire has is temporary; what I am about to get is eternal.
+
 - Before the decree bring forth, before the fierce anger of the Lord come upon you: God is telling us to come together as one before he brings his judgment on the earth. Unity. Build ourselves up; separate ourselves.
+
+> <sup>[2](/bible/zephaniah/2#v2)</sup> Before the decree bring forth, before the day pass as the chaff, before the fierce anger of the Lord come upon you, before the day of the Lord’s anger come upon you.
 
 **[Zephaniah 3:14-15](/bible/zephaniah/3#v14)**  *[[2:23:25](https://www.youtube.com/watch?v=0N1tUWScwMU&t=8605s)]*
 
@@ -599,7 +619,9 @@ Reading from Josephus, page 30  *[[2:31:54](https://www.youtube.com/watch?v=0N1t
 **[Zephaniah 3:15-20](/bible/zephaniah/3#v15)**  *[[2:38:38](https://www.youtube.com/watch?v=0N1tUWScwMU&t=9518s)]*
 
 > <sup>[15](/bible/zephaniah/3#v15)</sup> The Lord hath taken away thy judgments, he hath cast out thine enemy: the king of Israel, even the Lord, is in the midst of thee: thou shalt not see evil any more.
->
+
+- The Lord hath taken away thy judgments: thou shalt not see evil any more. In that day it shall be said to Jerusalem, Fear thou not: the Lord is going to remove all our fears. The Lord thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing.
+
 > <sup>[16](/bible/zephaniah/3#v16)</sup> In that day it shall be said to Jerusalem, Fear thou not: and to Zion, Let not thine hands be slack.
 >
 > <sup>[17](/bible/zephaniah/3#v17)</sup> The Lord thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing.
@@ -607,12 +629,12 @@ Reading from Josephus, page 30  *[[2:31:54](https://www.youtube.com/watch?v=0N1t
 > <sup>[18](/bible/zephaniah/3#v18)</sup> I will gather them that are sorrowful for the solemn assembly, who are of thee, to whom the reproach of it was a burden.
 >
 > <sup>[19](/bible/zephaniah/3#v19)</sup> Behold, at that time I will undo all that afflict thee: and I will save her that halteth, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame.
->
-> <sup>[20](/bible/zephaniah/3#v20)</sup> At that time will I bring you again, even in the time that I gather you: for I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, saith the Lord.
 
-- The Lord hath taken away thy judgments: thou shalt not see evil any more. In that day it shall be said to Jerusalem, Fear thou not: the Lord is going to remove all our fears. The Lord thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing.
 - Behold, at that time I will undo all that afflict thee: God said he is going to undo all the nations that afflict us. And I will get them praise and fame in every land where they have been put to shame. Where were we put to shame? In America, in Haiti, in Jamaica; all of our lives we have been put to shame. But God says he is going to give us praise and fame: they are going to know your name, and your children's names. You have not seen fame yet.
+
 - For I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, saith the Lord. Among those same nations that hate us today. 12 tribes, worldwide.
+
+> <sup>[20](/bible/zephaniah/3#v20)</sup> At that time will I bring you again, even in the time that I gather you: for I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, saith the Lord.
 
 ## In Closing
 

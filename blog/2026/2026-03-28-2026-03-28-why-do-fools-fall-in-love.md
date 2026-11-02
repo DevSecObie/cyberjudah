@@ -146,12 +146,12 @@ tags: ["IUIC in the ClassRoom", "leadership", "marriage-family", "sexual-purity"
 **[James 1:14-15](/bible/james/1#v14)**  *[[1:04:28](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=3868s)]*
 
 > <sup>[14](/bible/james/1#v14)</sup> But every man is tempted, when he is drawn away of his own lust, and enticed.
->
-> <sup>[15](/bible/james/1#v15)</sup> Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.
 
 - Every man is tempted when he is drawn away of his own lust: the lust to have a wife, to be on the cabin trip and at the Marriage is Honorable event, makes you rush and ignore what God put in front of you, and a year later you are the topic of the cabin trip hiding the weed.
 
 - Lust conceives sin and sin brings forth death. Like the fight you had planned until you got punched, you find out whether you are battle tested only in the situation; slow down, think it through, and call somebody before you do something stupid.
+
+> <sup>[15](/bible/james/1#v15)</sup> Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.
 
 
 **[2 Samuel 13:1-15](/bible/2-samuel/13#v1)**  *[[1:08:52](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=4132s)]*
@@ -196,10 +196,10 @@ tags: ["IUIC in the ClassRoom", "leadership", "marriage-family", "sexual-purity"
 **[Proverbs 6:25-26](/bible/proverbs/6#v25)**  *[[1:15:15](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=4515s)]*
 
 > <sup>[25](/bible/proverbs/6#v25)</sup> Lust not after her beauty in thine heart; neither let her take thee with her eyelids.
->
-> <sup>[26](/bible/proverbs/6#v26)</sup> For by means of a whorish woman a man is brought to a piece of bread: and the adulteress will hunt for the precious life.
 
 - Lust not after her beauty in thine heart: beauty makes men overlook every flaw they could have waited and corrected before marriage. Boundaries, communication and expectations have to be established going in, or you wing it and get chaos, a house where every day is war and neither of you wants to come inside.
+
+> <sup>[26](/bible/proverbs/6#v26)</sup> For by means of a whorish woman a man is brought to a piece of bread: and the adulteress will hunt for the precious life.
 
 
 *[[1:16:46](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=4606s)]* **In The News: Deacon Malachi: the worst thing a man in this truth can do is marry the wrong woman, because it will destroy his spirit and there is no divorce between believers** — Take your time and ask questions; once married you have to work it out, and good luck working it out with a half-believing spouse who fears neither God nor instruction.
@@ -249,10 +249,14 @@ tags: ["IUIC in the ClassRoom", "leadership", "marriage-family", "sexual-purity"
 
 **[Sirach 6:7-13](/bible/sirach/6#v7)**  *[[1:33:46](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=5626s)]*
 
+- If thou wouldest get a friend, prove him first, and be not hasty to credit him; how much more a spouse. Hastiness is what brings sin and backdoor marriages, and sex does not oblige leadership to marry you; in some situations it is fornication and both of you go out of the body.
+
 > <sup>[7](/bible/sirach/6#v7)</sup> If thou wouldest get a friend, prove him first and be not hasty to credit him.
 >
 > <sup>[8](/bible/sirach/6#v8)</sup> For some man is a friend for his own occasion, and will not abide in the day of thy trouble.
->
+
+- Some man is a friend for his own occasion and will not abide in the day of thy trouble: she leaves when it is ramen, or she wanted the trucker's money. A friend turned to enmity will discover thy reproach, the ex-wife with a video about your drawers.
+
 > <sup>[9](/bible/sirach/6#v9)</sup> And there is a friend, who being turned to enmity, and strife will discover thy reproach.
 >
 > <sup>[10](/bible/sirach/6#v10)</sup> Again, some friend is a companion at the table, and will not continue in the day of thy affliction.
@@ -262,10 +266,6 @@ tags: ["IUIC in the ClassRoom", "leadership", "marriage-family", "sexual-purity"
 > <sup>[12](/bible/sirach/6#v12)</sup> If thou be brought low, he will be against thee, and will hide himself from thy face.
 >
 > <sup>[13](/bible/sirach/6#v13)</sup> Separate thyself from thine enemies, and take heed of thy friends.
-
-- If thou wouldest get a friend, prove him first, and be not hasty to credit him; how much more a spouse. Hastiness is what brings sin and backdoor marriages, and sex does not oblige leadership to marry you; in some situations it is fornication and both of you go out of the body.
-
-- Some man is a friend for his own occasion and will not abide in the day of thy trouble: she leaves when it is ramen, or she wanted the trucker's money. A friend turned to enmity will discover thy reproach, the ex-wife with a video about your drawers.
 
 - Separate thyself from thine enemies and take heed of thy friend: all of this is done through proving, and the signs are in front of your face.
 

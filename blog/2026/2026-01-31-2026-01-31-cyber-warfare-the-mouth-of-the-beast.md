@@ -175,17 +175,13 @@ tags: ["IUIC in the ClassRoom", "adversity", "america-babylon", "deceit", "media
 
 **[Psalms 10:6-10](/bible/psalms/10#v6)**  *[[2:16:57](https://www.youtube.com/watch?v=lTBgozGnw30&t=8217s)]*
 
+- He hath said in his heart, I shall not be moved, I shall never be in adversity. His mouth is full of cursing, deceit and fraud. He sitteth in the lurking places, in the secret places doth he murder the innocent: the black sites.
+
 > <sup>[6](/bible/psalms/10#v6)</sup> He hath said in his heart, I shall not be moved: for I shall never be in adversity.
 >
 > <sup>[7](/bible/psalms/10#v7)</sup> His mouth is full of cursing and deceit and fraud: under his tongue is mischief and vanity.
 >
 > <sup>[8](/bible/psalms/10#v8)</sup> He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor.
->
-> <sup>[9](/bible/psalms/10#v9)</sup> He lieth in wait secretly as a lion in his den: he lieth in wait to catch the poor: he doth catch the poor, when he draweth him into his net.
->
-> <sup>[10](/bible/psalms/10#v10)</sup> He croucheth, and humbleth himself, that the poor may fall by his strong ones.
-
-- He hath said in his heart, I shall not be moved, I shall never be in adversity. His mouth is full of cursing, deceit and fraud. He sitteth in the lurking places, in the secret places doth he murder the innocent: the black sites.
 
 - His eyes are privily set against the poor: the eye on the dollar, the surveillance that sees every site you visit and, through the ADL and the police systems, every bank account. He lieth in wait secretly as a lion to catch the poor when he draweth him into his net, and the poor fall by his strong ones, the police and the military.
 
@@ -200,6 +196,10 @@ tags: ["IUIC in the ClassRoom", "adversity", "america-babylon", "deceit", "media
     > <sup>[6](/bible/psalms/56#v6)</sup> They gather themselves together, they hide themselves, they mark my steps, when they wait for my soul.
 
     Every day they wrest my words; they gather themselves together, they hide themselves, they mark my steps, when they wait for my soul. TikTok's new terms track your location and even immigration status.
+
+> <sup>[9](/bible/psalms/10#v9)</sup> He lieth in wait secretly as a lion in his den: he lieth in wait to catch the poor: he doth catch the poor, when he draweth him into his net.
+>
+> <sup>[10](/bible/psalms/10#v10)</sup> He croucheth, and humbleth himself, that the poor may fall by his strong ones.
 
 
 **[Luke 20:20](/bible/luke/20#v20)**  *[[2:23:20](https://www.youtube.com/watch?v=lTBgozGnw30&t=8600s)]*

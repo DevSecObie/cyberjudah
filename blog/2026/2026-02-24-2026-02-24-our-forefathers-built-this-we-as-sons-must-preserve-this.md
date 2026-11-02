@@ -48,15 +48,11 @@ tags: ["IUIC in the ClassRoom", "leadership", "marriage-family", "sexual-purity"
 
 **[Sirach 6:7-10](/bible/sirach/6#v7)**  *[[18:20](https://www.youtube.com/watch?v=r1rk8TpIX_A&t=1100s)]*
 
+- If thou wouldest get a friend, prove him first, and be not hasty to credit him. They understood in the forties that it takes time to know someone's true intentions. Most of you come in grown; the Bible says lord not over the flock, so the captains, officers, and bishop cannot make you do anything, only give fatherly advice, the word of God, and what we have seen.
+
 > <sup>[7](/bible/sirach/6#v7)</sup> If thou wouldest get a friend, prove him first and be not hasty to credit him.
 >
 > <sup>[8](/bible/sirach/6#v8)</sup> For some man is a friend for his own occasion, and will not abide in the day of thy trouble.
->
-> <sup>[9](/bible/sirach/6#v9)</sup> And there is a friend, who being turned to enmity, and strife will discover thy reproach.
->
-> <sup>[10](/bible/sirach/6#v10)</sup> Again, some friend is a companion at the table, and will not continue in the day of thy affliction.
-
-- If thou wouldest get a friend, prove him first, and be not hasty to credit him. They understood in the forties that it takes time to know someone's true intentions. Most of you come in grown; the Bible says lord not over the flock, so the captains, officers, and bishop cannot make you do anything, only give fatherly advice, the word of God, and what we have seen.
 
 - For some man is a friend for his own occasion, and will not abide in the day of thy trouble: some just want sex, and we have them among us, men and women. You are not looking across the room wondering whether she can help with your resume; you are thinking about the curves, the lips, and the perfume. The fear of the Lord teaches it is more than how she looks, and the same for the sisters.
 
@@ -69,6 +65,10 @@ tags: ["IUIC in the ClassRoom", "leadership", "marriage-family", "sexual-purity"
     > <sup>[2](/bible/sirach/11#v2)</sup> Commend not a man for his beauty; neither abhor a man for his outward appearance.
 
     Wisdom lifteth up the head of him that is of low degree, and maketh him to sit among great men; a brother starting from the bottom at a job does not matter. Commend not a man for his beauty, neither abhor a man for his outward appearance. How many sisters were deceived by a good-looking man before the truth? Every woman wants a man, and a woman who says she does not need one goes against nature: her hormones release when she is under her husband, which is why she falls asleep ten minutes into the movie she asked to watch. She is bone of his bone, made in his image, which is why little girls look like their daddy; the body is the portal but the seed comes from the man. Sisters, release the feminism.
+
+> <sup>[9](/bible/sirach/6#v9)</sup> And there is a friend, who being turned to enmity, and strife will discover thy reproach.
+>
+> <sup>[10](/bible/sirach/6#v10)</sup> Again, some friend is a companion at the table, and will not continue in the day of thy affliction.
 
 
 **[Sirach 11:29](/bible/sirach/11#v29)**  *[[25:23](https://www.youtube.com/watch?v=r1rk8TpIX_A&t=1523s)]*

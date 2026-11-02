@@ -41,20 +41,20 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "salvati
 **[James 1:5-8](/bible/james/1#v5)**  *[[3:19](https://www.youtube.com/watch?v=4hHKlVYrNDY&t=199s)]*
 
 > <sup>[5](/bible/james/1#v5)</sup> If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
->
-> <sup>[6](/bible/james/1#v6)</sup> But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.
->
-> <sup>[7](/bible/james/1#v7)</sup> For let not that man think that he shall receive any thing of the Lord.
->
-> <sup>[8](/bible/james/1#v8)</sup> A double minded man is unstable in all his ways.
 
 - If any of you lack wisdom, let him ask of God: Right. So, if we lack wisdom, meaning what? The understanding of the scriptures, it says let us ask. Asking meaning not only praying for it, but also studying. But first and foremost, you got to pray, meaning asking for it.
+
+> <sup>[6](/bible/james/1#v6)</sup> But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.
 
 - But let him ask in faith, nothing wavering: Let him ask in faith. Nothing wavering.
 
 - For he that wavereth is like a wave of the sea driven with the wind and tossed: Meaning you all over the place. You pray for this, but you don't really believe it. You pray for that, but you don't really believe it.
 
+> <sup>[7](/bible/james/1#v7)</sup> For let not that man think that he shall receive any thing of the Lord.
+
 - For let not that man think that he shall receive any thing of the Lord: Right. If you all over the place praying, asking the Lord for something, but you really don't believe it, you're not going to receive anything of the Lord. Okay?
+
+> <sup>[8](/bible/james/1#v8)</sup> A double minded man is unstable in all his ways.
 
 - A double minded man is unstable in all his ways: Right. It says a double-minded man is unstable in all his ways. So, now let's go back to Luke 18. So, that's what it said when Christ says men ought to always pray and not faint, meaning don't waver. Don't be double-minded in your prayers.
 
@@ -69,20 +69,20 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "salvati
 **[Luke 11:5-9](/bible/luke/11#v5)**  *[[7:04](https://www.youtube.com/watch?v=4hHKlVYrNDY&t=424s)]*
 
 > <sup>[5](/bible/luke/11#v5)</sup> And he said unto them, Which of you shall have a friend, and shall go unto him at midnight, and say unto him, Friend, lend me three loaves;
->
-> <sup>[6](/bible/luke/11#v6)</sup> For a friend of mine in his journey is come to me, and I have nothing to set before him?
->
-> <sup>[7](/bible/luke/11#v7)</sup> And he from within shall answer and say, Trouble me not: the door is now shut, and my children are with me in bed; I cannot rise and give thee.
->
-> <sup>[8](/bible/luke/11#v8)</sup> I say unto you, Though he will not rise and give him, because he is his friend, yet because of his importunity he will rise and give him as many as he needeth.
->
-> <sup>[9](/bible/luke/11#v9)</sup> And I say unto you, Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.
 
 - Which of you shall have a friend, and shall go unto him at midnight, and say unto him, Friend, lend me three loaves: So, it says, "Which of you having a friend shall go to him by midnight and say, 'Hey friend, I need three loaves of bread for a friend of mine and his journey is come and I don't have nothing to set before him.'" So, basically you're asking to get some food put in your house for you, you got a guest coming.
 
+> <sup>[6](/bible/luke/11#v6)</sup> For a friend of mine in his journey is come to me, and I have nothing to set before him?
+>
+> <sup>[7](/bible/luke/11#v7)</sup> And he from within shall answer and say, Trouble me not: the door is now shut, and my children are with me in bed; I cannot rise and give thee.
+
 - Trouble me not: the door is now shut, and my children are with me in bed; I cannot rise and give thee: So, he's like, "Listen, man. Bro, it's 1:00 in the morning. You coming over here asking me for bread. You should have called me earlier. My family sleep, everybody sleep, you know, let's do this another day."
 
+> <sup>[8](/bible/luke/11#v8)</sup> I say unto you, Though he will not rise and give him, because he is his friend, yet because of his importunity he will rise and give him as many as he needeth.
+
 - Yet because of his importunity he will rise and give him as many as he needeth: Right. That word importunity means urgent, right? It's the same way you go over and you got to get... Imagine we got the bishops coming in town. And for some reason we forgot to prepare. Things happen. And we like, "Listen, we need this ASAP. This cannot wait till tomorrow. We need it now. You understand?" It says yet because of his importunity, mean him being urgent, persistent asking, "Listen, I need you to get up. I need those three loaves. I got somebody coming." Because of his importunity, he will rise and give him as many as he needed.
+
+> <sup>[9](/bible/luke/11#v9)</sup> And I say unto you, Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.
 
 - Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you: Right, meaning the same thing Christ said in Luke chapter 18, men ought to always pray and not faint. Okay?
 
@@ -90,10 +90,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "salvati
 **[Luke 18:2-3](/bible/luke/18#v2)**  *[[9:34](https://www.youtube.com/watch?v=4hHKlVYrNDY&t=574s)]*
 
 > <sup>[2](/bible/luke/18#v2)</sup> Saying, There was in a city a judge, which feared not God, neither regarded man:
->
-> <sup>[3](/bible/luke/18#v3)</sup> And there was a widow in that city; and she came unto him, saying, Avenge me of mine adversary.
 
 - There was in a city a judge, which feared not God, neither regarded man: So, now there was in a city a judge which feared not God, neither regarded man. Give me that in Isaiah chapter 45 verse five.
+
+> <sup>[3](/bible/luke/18#v3)</sup> And there was a widow in that city; and she came unto him, saying, Avenge me of mine adversary.
 
 
 **[Isaiah 45:5](/bible/isaiah/45#v5)**  *[[9:34](https://www.youtube.com/watch?v=4hHKlVYrNDY&t=574s)]*
@@ -117,12 +117,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "salvati
 **[Isaiah 54:4-5](/bible/isaiah/54#v4)**  *[[11:29](https://www.youtube.com/watch?v=4hHKlVYrNDY&t=689s)]*
 
 > <sup>[4](/bible/isaiah/54#v4)</sup> Fear not; for thou shalt not be ashamed: neither be thou confounded; for thou shalt not be put to shame: for thou shalt forget the shame of thy youth, and shalt not remember the reproach of thy widowhood any more.
->
-> <sup>[5](/bible/isaiah/54#v5)</sup> For thy Maker is thine husband; the Lord of hosts is his name; and thy Redeemer the Holy One of Israel; The God of the whole earth shall he be called.
 
 - For thou shalt forget the shame of thy youth: Y'all shall forget the shame of thy youth.
 
 - And shalt not remember the reproach of thy widowhood any more: And there's going to come a time where you're not going to remember the reproach of thy widowhood. Meaning what? The time we were put away or separated from the most high God.
+
+> <sup>[5](/bible/isaiah/54#v5)</sup> For thy Maker is thine husband; the Lord of hosts is his name; and thy Redeemer the Holy One of Israel; The God of the whole earth shall he be called.
 
 - For thy Maker is thine husband: So for what? For thy maker is thine husband. For thy maker is thy husband. We're going to be restored back to the most high.
 
@@ -130,8 +130,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "salvati
 **[Lamentations 1:1-2](/bible/lamentations/1#v1)**  *[[12:26](https://www.youtube.com/watch?v=4hHKlVYrNDY&t=746s)]*
 
 > <sup>[1](/bible/lamentations/1#v1)</sup> How doth the city sit solitary, that was full of people! how is she become as a widow! she that was great among the nations, and princess among the provinces, how is she become tributary!
->
-> <sup>[2](/bible/lamentations/1#v2)</sup> She weepeth sore in the night, and her tears are on her cheeks: among all her lovers she hath none to comfort her: all her friends have dealt treacherously with her, they are become her enemies.
 
 - How doth the city sit solitary: The book of Lamentations is written by Jeremiah. He's lamenting. He's mourning about what happened to the nation of Israel under the Babylonian captivity. Watch this.
 
@@ -144,6 +142,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "salvati
 - Avenge me of mine adversary: So, now, what adversary? Think about what we just read in... Go back to Lamentations 1 again. Read that again.
 
 - How is she become tributary: Right, because what? We were tributaries under the Babylonians at this time.
+
+> <sup>[2](/bible/lamentations/1#v2)</sup> She weepeth sore in the night, and her tears are on her cheeks: among all her lovers she hath none to comfort her: all her friends have dealt treacherously with her, they are become her enemies.
 
 - Among all her lovers she hath none to comfort her: Right, the other nations that we fell into their idolatry, they cannot comfort us. There's no healing with them.
 
@@ -176,16 +176,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "salvati
 **[Hosea 6:1-3](/bible/hosea/6#v1)**  *[[16:46](https://www.youtube.com/watch?v=4hHKlVYrNDY&t=1006s)]*
 
 > <sup>[1](/bible/hosea/6#v1)</sup> Come, and let us return unto the Lord: for he hath torn, and he will heal us; he hath smitten, and he will bind us up.
->
-> <sup>[2](/bible/hosea/6#v2)</sup> After two days will he revive us: in the third day he will raise us up, and we shall live in his sight.
->
-> <sup>[3](/bible/hosea/6#v3)</sup> Then shall we know, if we follow on to know the Lord: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth.
 
 - For he hath torn, and he will heal us; he hath smitten, and he will bind us up: So, let us return to the Lord. He hath torn, but he will heal us. He hath smitten, but he will bind us. Watch this.
+
+> <sup>[2](/bible/hosea/6#v2)</sup> After two days will he revive us: in the third day he will raise us up, and we shall live in his sight.
 
 - After two days will he revive us: After what? After 2 days, he will revive us. It says, "After 2 days, he will revive us." That's what it says when back in Luke, he would not for a while. Okay. Why? Because our punishment had to be fulfilled. The scriptures had to be fulfilled. Deuteronomy 28 had to be fulfilled.
 
 - In the third day he will raise us up, and we shall live in his sight: So, what are these days going into? It says, "After 2 days, he will revive us." Give me that in 2 Peter chapter 3 verse 8.
+
+> <sup>[3](/bible/hosea/6#v3)</sup> Then shall we know, if we follow on to know the Lord: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth.
 
 
 **[2 Peter 3:8](/bible/2-peter/3#v8)**  *[[17:37](https://www.youtube.com/watch?v=4hHKlVYrNDY&t=1057s)]*
@@ -207,20 +207,20 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "salvati
 **[Isaiah 62:5-7](/bible/isaiah/62#v5)**  *[[19:37](https://www.youtube.com/watch?v=4hHKlVYrNDY&t=1177s)]*
 
 > <sup>[5](/bible/isaiah/62#v5)</sup> For as a young man marrieth a virgin, so shall thy sons marry thee: and as the bridegroom rejoiceth over the bride, so shall thy God rejoice over thee.
->
-> <sup>[6](/bible/isaiah/62#v6)</sup> I have set watchmen upon thy walls, O Jerusalem, which shall never hold their peace day nor night: ye that make mention of the Lord, keep not silence,
->
-> <sup>[7](/bible/isaiah/62#v7)</sup> And give him no rest, till he establish, and till he make Jerusalem a praise in the earth.
 
 - For as a young man marrieth a virgin, so shall thy sons marry thee: You see what that says? Just like a young man will marry a virgin. So thy sons marry thee. Watch this.
 
 - And as the bridegroom rejoiceth over the bride, so shall thy God rejoice over thee: So, the Lord is going to rejoice over us just like a bride will rejoice over his wife.
+
+> <sup>[6](/bible/isaiah/62#v6)</sup> I have set watchmen upon thy walls, O Jerusalem, which shall never hold their peace day nor night: ye that make mention of the Lord, keep not silence,
 
 - I have set watchmen upon thy walls, O Jerusalem, which shall never hold their peace day nor night: The watchmen are the prophets, the teachers, the bishops, deacons, captains, officers, the men that go out and do the work. Teach, right? The watchmen, they watch out for the people. They alarm and they say, "Hey, don't follow Christmas. Don't follow Easter. Stop celebrating your birthdays. Watch out for this doctrine. Watch out for that doctrine."
 
 - Which shall never hold their peace day nor night: Day nor night. Going to be constantly teaching, like now, giving the sense.
 
 - Ye that make mention of the LORD, keep not silence: So, those of you Israelites that make mention of the Lord, keep not silence. Meaning what? Always teach, always pray.
+
+> <sup>[7](/bible/isaiah/62#v7)</sup> And give him no rest, till he establish, and till he make Jerusalem a praise in the earth.
 
 - And give him no rest, till he establish, and till he make Jerusalem a praise in the earth: Right. So, we got to give constant prayer. We have to be constantly sending up prayers to the Lord asking for vengeance. Now, you got to think about this. There's no Christian church, there's no urban apologist, no so-called apologist that's doing what Christ said in Luke chapter 18. They want to stay here. They want to pray for peace for everybody. Okay? Christ is saying, we have to pray for vengeance. So, who's doing that? That's us, the nation of Israel.
 
@@ -237,16 +237,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "salvati
 **[Luke 18:6-8](/bible/luke/18#v6)**  *[[22:59](https://www.youtube.com/watch?v=4hHKlVYrNDY&t=1379s)]*
 
 > <sup>[6](/bible/luke/18#v6)</sup> And the Lord said, Hear what the unjust judge saith.
->
-> <sup>[7](/bible/luke/18#v7)</sup> And shall not God avenge his own elect, which cry day and night unto him, though he bear long with them?
->
-> <sup>[8](/bible/luke/18#v8)</sup> I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth?
 
 - Hear what the unjust judge saith: So now that's... he gave a parable. That's what it said in verse one. So that's an unjust judge saying that, right?
+
+> <sup>[7](/bible/luke/18#v7)</sup> And shall not God avenge his own elect, which cry day and night unto him, though he bear long with them?
 
 - And shall not God avenge his own elect: His own what? His own elect.
 
 - Which cry day and night unto him, though he bear long with them: Right. Give me who the elect are in Isaiah real quick. I think it's right where we just at, 45. Shall not God avenge his own elect? So it's telling you who he's talking about with this precept right here. This is what giving the sense is about. We're not just reading through and just acting like it means something. No. We're letting the Bible explain itself. Watch this.
+
+> <sup>[8](/bible/luke/18#v8)</sup> I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth?
 
 
 **[Isaiah 45:4](/bible/isaiah/45#v4)**  *[[23:41](https://www.youtube.com/watch?v=4hHKlVYrNDY&t=1421s)]*
@@ -272,10 +272,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "salvati
 **[Luke 18:9-10](/bible/luke/18#v9)**  *[[26:16](https://www.youtube.com/watch?v=4hHKlVYrNDY&t=1576s)]*
 
 > <sup>[9](/bible/luke/18#v9)</sup> And he spake this parable unto certain which trusted in themselves that they were righteous, and despised others:
->
-> <sup>[10](/bible/luke/18#v10)</sup> Two men went up into the temple to pray; the one a Pharisee, and the other a publican.
 
 - And he spake this parable unto certain which trusted in themselves that they were righteous, and despised others: So, he spake another parable unto certain which trusted in themselves that they were righteous and despised others.
+
+> <sup>[10](/bible/luke/18#v10)</sup> Two men went up into the temple to pray; the one a Pharisee, and the other a publican.
 
 - Two men went up into the temple to pray; the one a Pharisee, and the other a publican: So now, that's telling us who he's talking about. The one was a Pharisee, the other a publican. Go to Ezekiel chapter 44. And let's read verse 15.
 
@@ -308,24 +308,24 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "salvati
 **[Matthew 22:23-28](/bible/matthew/22#v23)**  *[[29:03](https://www.youtube.com/watch?v=4hHKlVYrNDY&t=1743s)]*
 
 > <sup>[23](/bible/matthew/22#v23)</sup> The same day came to him the Sadducees, which say that there is no resurrection, and asked him,
->
-> <sup>[24](/bible/matthew/22#v24)</sup> Saying, Master, Moses said, If a man die, having no children, his brother shall marry his wife, and raise up seed unto his brother.
->
-> <sup>[25](/bible/matthew/22#v25)</sup> Now there were with us seven brethren: and the first, when he had married a wife, deceased, and, having no issue, left his wife unto his brother:
->
-> <sup>[26](/bible/matthew/22#v26)</sup> Likewise the second also, and the third, unto the seventh.
->
-> <sup>[27](/bible/matthew/22#v27)</sup> And last of all the woman died also.
->
-> <sup>[28](/bible/matthew/22#v28)</sup> Therefore in the resurrection whose wife shall she be of the seven? for they all had her.
 
 - The same day came to him the Sadducees, which say that there is no resurrection: I wasn't going to read all of this, but let's read it again from 23. Right, the sons of Zadok or the seeds of Zadok, Sadducees, which say there is no resurrection. Now, we know there is a resurrection, right? Just like Christ resurrected, there is a resurrection of the dead. Now, they say there is no resurrection. Watch this.
 
+> <sup>[24](/bible/matthew/22#v24)</sup> Saying, Master, Moses said, If a man die, having no children, his brother shall marry his wife, and raise up seed unto his brother.
+
 - Master, Moses said, If a man die, having no children, his brother shall marry his wife, and raise up seed unto his brother: I'm not going to, cuz this ain't the point. I just want to get to a point.
+
+> <sup>[25](/bible/matthew/22#v25)</sup> Now there were with us seven brethren: and the first, when he had married a wife, deceased, and, having no issue, left his wife unto his brother:
 
 - And the first, when he had married a wife, deceased, and, having no issue, left his wife unto his brother: So, now we had a similar case. Okay, the brother died, he left no seed.
 
+> <sup>[26](/bible/matthew/22#v26)</sup> Likewise the second also, and the third, unto the seventh.
+
 - Unto the seventh: Bang. Unto the seventh.
+
+> <sup>[27](/bible/matthew/22#v27)</sup> And last of all the woman died also.
+>
+> <sup>[28](/bible/matthew/22#v28)</sup> Therefore in the resurrection whose wife shall she be of the seven? for they all had her.
 
 - For they all had her: Right, they all had her. So, now, based on that scripture, Christ... They didn't believe in a resurrection anyway, and they're like, in this situation, well, who going to have her?
 
@@ -349,20 +349,20 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "salvati
 **[Luke 10:25-28](/bible/luke/10#v25)**  *[[32:50](https://www.youtube.com/watch?v=4hHKlVYrNDY&t=1970s)]*
 
 > <sup>[25](/bible/luke/10#v25)</sup> And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life?
->
-> <sup>[26](/bible/luke/10#v26)</sup> He said unto him, What is written in the law? how readest thou?
->
-> <sup>[27](/bible/luke/10#v27)</sup> And he answering said, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself.
->
-> <sup>[28](/bible/luke/10#v28)</sup> And he said unto him, Thou hast answered right: this do, and thou shalt live.
 
 - And, behold, a certain lawyer stood up, and tempted him, saying, Master: Remember what Christ... Christ said he spake a parable about certain which trusted in themselves that they were righteous and despised others. So, we read about the Pharisees, the Sadducees. Now, we're reading about a lawyer here.
 
+> <sup>[26](/bible/luke/10#v26)</sup> He said unto him, What is written in the law? how readest thou?
+
 - What is written in the law? how readest thou: So, how do I get the kingdom of heaven? How do I get eternal life? Christ says, what's written. That's where you got to go for the answer.
+
+> <sup>[27](/bible/luke/10#v27)</sup> And he answering said, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself.
 
 - Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind: That's Deuteronomy chapter 6, I believe verse 5. Christ is quoting what the Christian wants to eliminate from the Bible. Okay? The book of Deuteronomy.
 
 - And thy neighbour as thyself: Right. And love your neighbor as yourself, which is Leviticus chapter 19. All right, good.
+
+> <sup>[28](/bible/luke/10#v28)</sup> And he said unto him, Thou hast answered right: this do, and thou shalt live.
 
 - Thou hast answered right: this do, and thou shalt live: Well, excuse me. That wasn't Christ saying that. That was the lawyer. The lawyer was quoting the scripture. So, Christ says, "Yeah, you know what? You're right." He didn't say, "No, no, we're doing away with the Old Testament." That's not what Christ said. He said, "Those laws is how you going to get eternal life." Love your neighbor as yourself. Love God with all your heart. Now, it ain't just those two. Don't be simple, okay? Matter of fact, get that in Matthew 23 real quick. You know what I'm talking about? Start at 40.
 
@@ -377,16 +377,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "salvati
 **[Luke 10:28-30](/bible/luke/10#v28)**  *[[36:06](https://www.youtube.com/watch?v=4hHKlVYrNDY&t=2166s)]*
 
 > <sup>[28](/bible/luke/10#v28)</sup> And he said unto him, Thou hast answered right: this do, and thou shalt live.
->
-> <sup>[29](/bible/luke/10#v29)</sup> But he, willing to justify himself, said unto Jesus, And who is my neighbour?
->
-> <sup>[30](/bible/luke/10#v30)</sup> And Jesus answering said, A certain man went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded him, and departed, leaving him half dead.
 
 - Thou hast answered right: this do, and thou shalt live: Dang. So now, if you apply the commandments, you will get eternal life. How easy is that?
+
+> <sup>[29](/bible/luke/10#v29)</sup> But he, willing to justify himself, said unto Jesus, And who is my neighbour?
 
 - But he, willing to justify himself: You see that? What? This lawyer willing to justify himself. Remember Christ said in Luke 18, he spake a parable unto certain which trusted in themselves that they were righteous and despised others. This lawyer was willing to justify himself.
 
 - And who is my neighbour: Well, "Who is my neighbor then?"
+
+> <sup>[30](/bible/luke/10#v30)</sup> And Jesus answering said, A certain man went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded him, and departed, leaving him half dead.
 
 - A certain man went down from Jerusalem to Jericho: I ain't going to get into the other one cuz it's going to take me forever to read through that one. I want to get back to Luke 18. But the point I wanted is he was willing to justify himself. Okay? Go back to chapter 9, Luke 9, and read 22. Same thing. Going into them trying to justify themselves. Watch this.
 
@@ -410,10 +410,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "salvati
 > <sup>[2](/bible/matthew/23#v2)</sup> Saying, The scribes and the Pharisees sit in Moses’ seat:
 >
 > <sup>[3](/bible/matthew/23#v3)</sup> All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not.
->
-> <sup>[4](/bible/matthew/23#v4)</sup> For they bind heavy burdens and grievous to be borne, and lay them on men’s shoulders; but they themselves will not move them with one of their fingers.
 
 - All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not: Right. So, because they're teaching out of the law, if they read something out of the Bible, that's what you're supposed to do. But, he says, "Don't follow their works because they tell you to do something and they themselves don't do it." Right?
+
+> <sup>[4](/bible/matthew/23#v4)</sup> For they bind heavy burdens and grievous to be borne, and lay them on men’s shoulders; but they themselves will not move them with one of their fingers.
 
 - For they bind heavy burdens and grievous to be borne, and lay them on men's shoulders; but they themselves will not move them with one of their fingers: Right. So, that goes into them despising others. Why would you put a heavy burden on somebody else? Remember the scripture says, "Whatever you want done unto you, do you likewise unto them. Do unto others as you would have them do unto you." These guys said, "Nah, the hell with that. I'mma put a heavy burden on you, but for me, I ain't doing that." That's how they despise others.
 
@@ -423,14 +423,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "salvati
 **[Matthew 23:13-14](/bible/matthew/23#v13)**  *[[40:31](https://www.youtube.com/watch?v=4hHKlVYrNDY&t=2431s)]*
 
 > <sup>[13](/bible/matthew/23#v13)</sup> But woe unto you, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men: for ye neither go in yourselves, neither suffer ye them that are entering to go in.
->
-> <sup>[14](/bible/matthew/23#v14)</sup> Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows’ houses, and for a pretence make long prayer: therefore ye shall receive the greater damnation.
 
 - But woe unto you, scribes and Pharisees, hypocrites: See that? He called them scribes, right?
 
 - For ye shut up the kingdom of heaven against men: for ye neither go in yourselves, neither suffer ye them that are entering to go in: So, imagine that. That's them despising others. It says they shut up the kingdom of heaven unto men, against men. So, remember Christ said in what we just read in Luke, he said, "What do I need to do to inherit eternal life?" Christ says, "Keep the commandments." These guys would not teach the commandments. Okay? They would shut up the kingdom. The brothers and sisters that want to follow Christ, come after Christ and whatnot, they said, "No, no, no. We don't want to follow this Christ guy." That's them shutting up the kingdom of heaven. Trying to uphold sacrificial law.
 
 - Neither suffer ye them that are entering to go in: It says they shut up the kingdom against men, for you neither go in yourselves, you reject the son of God, like we read earlier, neither suffer you them that are entering in to go in. Because what? Remember in Acts 15, they wanted to try to uphold sacrificial law. That's shutting up the kingdom. That's keeping the kingdoms divided. Why? Because the scattered Israelites could never come in. The northern kingdom tribes could never come in. Why? Because they were guilty of idolatry and even some of the southern kingdom tribes were still also guilty of idolatry. So, you couldn't come back from that. Not only idolatry, adultery, okay? Murder, all type of things. Think about it. Paul himself, he wouldn't have been able to come in if he would have tried to uphold sacrificial law. He was guilty of murder. Okay?
+
+> <sup>[14](/bible/matthew/23#v14)</sup> Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows’ houses, and for a pretence make long prayer: therefore ye shall receive the greater damnation.
 
 - For ye devour widows' houses: See that? And for devour widows' houses. This is them despising others. You got a woman that's a widow. She lost her husband, you know, barely getting by, and they go in and destroy the woman. Take resources from her. Abuse the woman.
 
@@ -449,14 +449,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "salvati
 **[Matthew 9:10-14](/bible/matthew/9#v10)**  *[[43:53](https://www.youtube.com/watch?v=4hHKlVYrNDY&t=2633s)]*
 
 > <sup>[10](/bible/matthew/9#v10)</sup> And it came to pass, as Jesus sat at meat in the house, behold, many publicans and sinners came and sat down with him and his disciples.
->
-> <sup>[11](/bible/matthew/9#v11)</sup> And when the Pharisees saw it, they said unto his disciples, Why eateth your Master with publicans and sinners?
->
-> <sup>[12](/bible/matthew/9#v12)</sup> But when Jesus heard that, he said unto them, They that be whole need not a physician, but they that are sick.
->
-> <sup>[13](/bible/matthew/9#v13)</sup> But go ye and learn what that meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance.
->
-> <sup>[14](/bible/matthew/9#v14)</sup> Then came to him the disciples of John, saying, Why do we and the Pharisees fast oft, but thy disciples fast not?
 
 - Many publicans and sinners came and sat down with him and his disciples: So, now we read about in Luke 18. Matter of fact, hold this and go back to Luke 18 real quick. We're going to come right back here. Luke 18 and read verse 9 again.
 
@@ -464,11 +456,19 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "salvati
 
 - Behold, many publicans and sinners came and sat down with him and his disciples: So, now we read in the parable that there was these two different groups. You had one was a Pharisee, the other a publican. Now, here we have publicans and sinners sitting down with Christ.
 
+> <sup>[11](/bible/matthew/9#v11)</sup> And when the Pharisees saw it, they said unto his disciples, Why eateth your Master with publicans and sinners?
+
 - Why eateth your Master with publicans and sinners: You see that? This is them despising others. Why is Christ sitting with these guys? These guys are disgusting. Publicans and sinners.
+
+> <sup>[12](/bible/matthew/9#v12)</sup> But when Jesus heard that, he said unto them, They that be whole need not a physician, but they that are sick.
 
 - They that be whole need not a physician, but they that are sick: See what Christ said? They that be whole don't need a physician. Think about it. If there's nothing wrong with you, what you going to the doctor for? You're perfectly fine, perfectly healthy, what are you going for? You don't go to the doctor. Now, where they do have something called annual checkups, but that ain't what we talking about. Like literally down on your deathbed or you sick, something going on. You got chest pains, constant migraines, you can't see, something going on. That's when you go to the doctor. It says, "They that be whole need not a physician." But what? But they that are sick. They that are sick. Those that are guilty of fornication, adultery, idolatry, okay? Murder, hatred, variance, bitterness, that's who needs a physician. That's who needs Christ.
 
+> <sup>[13](/bible/matthew/9#v13)</sup> But go ye and learn what that meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance.
+
 - I will have mercy, and not sacrifice: See that? I will have mercy and not sacrifice. I came to give repentance to the nation of Israel, healing, not sacrificial law. That was just a conduit, okay? A shadow of things to come, a shadow of me.
+
+> <sup>[14](/bible/matthew/9#v14)</sup> Then came to him the disciples of John, saying, Why do we and the Pharisees fast oft, but thy disciples fast not?
 
 - Then came to him the disciples of John, saying, Why do we and the Pharisees fast oft: I'll stop there for sake of time. But that's going into them despising others, from the Pharisees looking at the brothers sitting with Christ and like, "Hey, why are y'all eating with publicans and sinners? Why is Christ eating with publicans and sinners?" They despise others. Like, if you weren't with them, if you weren't a Pharisee, they said, "The hell with you." Okay?
 
@@ -476,23 +476,23 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "salvati
 **[Luke 18:10-11](/bible/luke/18#v10)**  *[[48:07](https://www.youtube.com/watch?v=4hHKlVYrNDY&t=2887s)]*
 
 > <sup>[10](/bible/luke/18#v10)</sup> Two men went up into the temple to pray; the one a Pharisee, and the other a publican.
->
-> <sup>[11](/bible/luke/18#v11)</sup> The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as other men are, extortioners, unjust, adulterers, or even as this publican.
 
 - Two men went up into the temple to pray; the one a Pharisee, and the other a publican: Now, go to Luke chapter 3. Dealing with John the Baptist. Watch what happened with the publicans in Luke 3. Start at verse 12.
+
+> <sup>[11](/bible/luke/18#v11)</sup> The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as other men are, extortioners, unjust, adulterers, or even as this publican.
 
 
 **[Luke 3:12-14](/bible/luke/3#v12)**  *[[48:07](https://www.youtube.com/watch?v=4hHKlVYrNDY&t=2887s)]*
 
 > <sup>[12](/bible/luke/3#v12)</sup> Then came also publicans to be baptized, and said unto him, Master, what shall we do?
->
-> <sup>[13](/bible/luke/3#v13)</sup> And he said unto them, Exact no more than that which is appointed you.
->
-> <sup>[14](/bible/luke/3#v14)</sup> And the soldiers likewise demanded of him, saying, And what shall we do? And he said unto them, Do violence to no man, neither accuse any falsely; and be content with your wages.
 
 - Master, what shall we do: So, the publicans said, "Listen, what do we need to do? How can I get repentance? What steps do I need to take?" All right?
 
+> <sup>[13](/bible/luke/3#v13)</sup> And he said unto them, Exact no more than that which is appointed you.
+
 - Exact no more than that which is appointed you: So, now, although publicans is a tax collector, so if Rome has commissioned you to take $80 in taxes, I'm just making up a number, $80 in taxes, don't extort your brothers and sisters for $200 and take your cut off to the side. Don't do that. It says, exact no more than that which is appointed you. Okay? Stop robbing your people. Stop stealing from your people. Don't do that anymore.
+
+> <sup>[14](/bible/luke/3#v14)</sup> And the soldiers likewise demanded of him, saying, And what shall we do? And he said unto them, Do violence to no man, neither accuse any falsely; and be content with your wages.
 
 - Do violence to no man, neither accuse any falsely; and be content with your wages: Right. So, go to Matthew 10 and read verse 3. All right. So, the publicans was like, "Listen, what do we got to do? What do we need to do, John?" Watch this.
 
@@ -507,12 +507,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "salvati
 **[Matthew 5:46-47](/bible/matthew/5#v46)**  *[[50:56](https://www.youtube.com/watch?v=4hHKlVYrNDY&t=3056s)]*
 
 > <sup>[46](/bible/matthew/5#v46)</sup> For if ye love them which love you, what reward have ye? do not even the publicans the same?
->
-> <sup>[47](/bible/matthew/5#v47)</sup> And if ye salute your brethren only, what do ye more than others? do not even the publicans so?
 
 - For if ye love them which love you, what reward have ye: I want to deal with another aspect of it real quick. So, if you love them that love you, what's your reward?
 
 - Do not even the publicans the same: This is the wicked group of the publicans. You had some publicans that came and said, "Listen, John, what do we need to do?" You had Matthew which was a publican. He became one of the 12. This sect of them, this other group, it says, "The publicans do the same." So, if you're not rolling with them, they said, "The hell with you." So, you had certain parts of the Pharisees, Sadducees, lawyers, and the publicans that didn't deal with any of the other people of the nation, right?
+
+> <sup>[47](/bible/matthew/5#v47)</sup> And if ye salute your brethren only, what do ye more than others? do not even the publicans so?
 
 - And if ye salute your brethren only, what do ye more than others? do not even the publicans so: So, like again, if you were a publican, these brothers wouldn't even salute you. So, you had certain publicans that was righteous, or that came to repentance under Christ, and some of them that did not, right? Give me John 3. Cuz I dealt with some of the wicked of the Pharisees.
 
@@ -545,10 +545,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "salvati
 **[1 Corinthians 10:12-13](/bible/1-corinthians/10#v12)**  *[[55:11](https://www.youtube.com/watch?v=4hHKlVYrNDY&t=3311s)]*
 
 > <sup>[12](/bible/1-corinthians/10#v12)</sup> Wherefore let him that thinketh he standeth take heed lest he fall.
->
-> <sup>[13](/bible/1-corinthians/10#v13)</sup> There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.
 
 - Wherefore let him that thinketh he standeth take heed lest he fall: See what Christ says, or Paul says? Paul says through the spirit of Christ, "Wherefore, let him that thinketh he stand take heed lest he fall." So, be mindful. You think you good. You think you got it all figured out. Take heed lest you fall.
+
+> <sup>[13](/bible/1-corinthians/10#v13)</sup> There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.
 
 - There hath no temptation taken you but such as is common to man: Okay, I don't want that. Read 12 again.
 
@@ -601,10 +601,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "salvati
 **[Luke 18:13-14](/bible/luke/18#v13)**  *[[1:02:25](https://www.youtube.com/watch?v=4hHKlVYrNDY&t=3745s)]*
 
 > <sup>[13](/bible/luke/18#v13)</sup> And the publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner.
->
-> <sup>[14](/bible/luke/18#v14)</sup> I tell you, this man went down to his house justified rather than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted.
 
 - God be merciful to me a sinner: Meaning you still acknowledge that you have faults and things that you're working on. Lord, continue to help me. Continue to guide me. Like Paul asked. He besought the Lord thrice that he would take that away from him. But Christ says, "Listen, my grace is sufficient. You can overcome it." Continue to fight. We ought to constantly fight.
+
+> <sup>[14](/bible/luke/18#v14)</sup> I tell you, this man went down to his house justified rather than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted.
 
 - I tell you, this man went down to his house justified rather than the other: Right, because why? He humbled himself. He acknowledged that he still had things to work on. He didn't try to justify himself or say that he's righteous. He got everything all figured out. He didn't need Christ. Good.
 

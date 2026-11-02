@@ -67,8 +67,6 @@ tags: ["IUIC in the ClassRoom", "endurance", "faith", "leadership", "prayer", "s
 **[Jeremiah 17:9-10](/bible/jeremiah/17#v9)**  *[[32:45](https://www.youtube.com/watch?v=jW1q4_5PWP0&t=1965s)]*
 
 > <sup>[9](/bible/jeremiah/17#v9)</sup> The heart is deceitful above all things, and desperately wicked: who can know it?
->
-> <sup>[10](/bible/jeremiah/17#v10)</sup> I the Lord search the heart, I try the reins, even to give every man according to his ways, and according to the fruit of his doings.
 
 - The heart is deceitful above all things and desperately wicked: the heart is the mind. It thinks things you do not know the source of, like a woman from twenty years ago surfacing because you talked to an old friend from the world. The grass looks greener until you get there and find it is AstroTurf.
 
@@ -86,14 +84,12 @@ tags: ["IUIC in the ClassRoom", "endurance", "faith", "leadership", "prayer", "s
 
     He that searcheth the hearts knoweth what is the mind of the Spirit. The verse names both the spiritual and the physical man, and that war between them will not end until Christ returns or you die in this.
 
+> <sup>[10](/bible/jeremiah/17#v10)</sup> I the Lord search the heart, I try the reins, even to give every man according to his ways, and according to the fruit of his doings.
+
 
 **[Mark 7:21-23](/bible/mark/7#v21)**  *[[36:43](https://www.youtube.com/watch?v=jW1q4_5PWP0&t=2203s)]*
 
 > <sup>[21](/bible/mark/7#v21)</sup> For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,
->
-> <sup>[22](/bible/mark/7#v22)</sup> Thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness:
->
-> <sup>[23](/bible/mark/7#v23)</sup> All these evil things come from within, and defile the man.
 
 - From within, out of the heart of men, proceed evil thoughts: adulteries, fornications, murders, thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness. All these come from the mind and defile a man.
 
@@ -108,6 +104,10 @@ tags: ["IUIC in the ClassRoom", "endurance", "faith", "leadership", "prayer", "s
     > <sup>[15](/bible/1-john/3#v15)</sup> Whosoever hateth his brother is a murderer: and ye know that no murderer hath eternal life abiding in him.
 
     Whosoever hateth his brother is a murderer. Before the physical act comes the thought, and God counts the thought as breaking thou shalt not kill.
+
+> <sup>[22](/bible/mark/7#v22)</sup> Thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness:
+>
+> <sup>[23](/bible/mark/7#v23)</sup> All these evil things come from within, and defile the man.
 
 
 **[Proverbs 6:23-26](/bible/proverbs/6#v23)**  *[[50:03](https://www.youtube.com/watch?v=jW1q4_5PWP0&t=3003s)]*
@@ -181,7 +181,19 @@ tags: ["IUIC in the ClassRoom", "endurance", "faith", "leadership", "prayer", "s
 **[Joshua 7:1-26](/bible/joshua/7#v1)**  *[[1:39:47](https://www.youtube.com/watch?v=jW1q4_5PWP0&t=5987s)]*
 
 > <sup>[1](/bible/joshua/7#v1)</sup> But the children of Israel committed a trespass in the accursed thing: for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took of the accursed thing: and the anger of the Lord was kindled against the children of Israel.
->
+
+- Israel committed a trespass in the accursed thing: Achan of the tribe of Judah took what Moses commanded be burned, and the anger of the Lord was kindled against all Israel.
+
+- The spies said Ai was few and only two or three thousand men needed to go up. They fled, and thirty-six men died, because of one man's secret sin. There is always that one. It only takes one bad apple.
+
+- The Lord told Joshua that Israel had sinned, stolen and dissembled, and therefore could not stand before their enemies. No man saw Achan, but God did. Joshua investigated tribe by tribe, family by family, man by man, until Achan was taken, and told him to give glory to God and confess.
+
+- In the middle of a war this man found time to covet a Babylonish garment, silver and gold and bury them in his tent. Some brothers today want to give up rank in the middle of warfare because they do not understand it.
+
+- Joshua took Achan with his sons, daughters, animals and tent to the valley of Achor, because the household had to have known and said nothing. Silence is agreement. Israel stoned and burned them and raised a heap of stones. Secret sin cost thirty-six men their lives and wiped out a whole family.
+
+- Why hast thou troubled us? Some of you trouble the camp with your foolishness and hinder the work; you are taking a seat a brother or sister out there could use. The leaders cannot stone anyone, but there is a God who brings judgment, and some would prefer the stones to what he has for them.
+
 > <sup>[2](/bible/joshua/7#v2)</sup> And Joshua sent men from Jericho to Ai, which is beside Beth–aven, on the east side of Beth–el, and spake unto them, saying, Go up and view the country. And the men went up and viewed Ai.
 >
 > <sup>[3](/bible/joshua/7#v3)</sup> And they returned to Joshua, and said unto him, Let not all the people go up; but let about two or three thousand men go up and smite Ai; and make not all the people to labour thither; for they are but few.
@@ -232,20 +244,12 @@ tags: ["IUIC in the ClassRoom", "endurance", "faith", "leadership", "prayer", "s
 >
 > <sup>[26](/bible/joshua/7#v26)</sup> And they raised over him a great heap of stones unto this day. So the Lord turned from the fierceness of his anger. Wherefore the name of that place was called, The valley of Achor, unto this day.
 
-- Israel committed a trespass in the accursed thing: Achan of the tribe of Judah took what Moses commanded be burned, and the anger of the Lord was kindled against all Israel.
-
-- The spies said Ai was few and only two or three thousand men needed to go up. They fled, and thirty-six men died, because of one man's secret sin. There is always that one. It only takes one bad apple.
-
-- The Lord told Joshua that Israel had sinned, stolen and dissembled, and therefore could not stand before their enemies. No man saw Achan, but God did. Joshua investigated tribe by tribe, family by family, man by man, until Achan was taken, and told him to give glory to God and confess.
-
-- In the middle of a war this man found time to covet a Babylonish garment, silver and gold and bury them in his tent. Some brothers today want to give up rank in the middle of warfare because they do not understand it.
-
-- Joshua took Achan with his sons, daughters, animals and tent to the valley of Achor, because the household had to have known and said nothing. Silence is agreement. Israel stoned and burned them and raised a heap of stones. Secret sin cost thirty-six men their lives and wiped out a whole family.
-
-- Why hast thou troubled us? Some of you trouble the camp with your foolishness and hinder the work; you are taking a seat a brother or sister out there could use. The leaders cannot stone anyone, but there is a God who brings judgment, and some would prefer the stones to what he has for them.
-
 
 **[Acts 5:1-11](/bible/acts/5#v1)**  *[[1:52:46](https://www.youtube.com/watch?v=jW1q4_5PWP0&t=6766s)]*
+
+- Ananias sold a possession and kept back part of the price, his wife being privy to it. It is impossible for a husband to do something illegal without the wife knowing; every woman knows what her husband makes and what the house costs. She knew and did not stop it because she was living good, and when Esau shows up everybody goes.
+
+- Why hath Satan filled thine heart to lie to the Holy Ghost? The devil convinced them nobody would know, because they did not look at Peter as a spiritual man, the same way some of you sit at this table and lie to the leaders' faces.
 
 > <sup>[1](/bible/acts/5#v1)</sup> But a certain man named Ananias, with Sapphira his wife, sold a possession,
 >
@@ -254,7 +258,11 @@ tags: ["IUIC in the ClassRoom", "endurance", "faith", "leadership", "prayer", "s
 > <sup>[3](/bible/acts/5#v3)</sup> But Peter said, Ananias, why hath Satan filled thine heart to lie to the Holy Ghost, and to keep back part of the price of the land?
 >
 > <sup>[4](/bible/acts/5#v4)</sup> Whiles it remained, was it not thine own? and after it was sold, was it not in thine own power? why hast thou conceived this thing in thine heart? thou hast not lied unto men, but unto God.
->
+
+- Thou hast not lied unto men, but unto God: for the liars, the ones hiding homosexuality, the adulterers, the idolaters, the thieves. Ananias fell down and gave up the ghost, and great fear came on all that heard. One person dropping dead would end every situation in the camp; the sister would not touch her ex and the brother would take the exit home before the hotel.
+
+- Three hours later Sapphira came in not knowing, Peter asked her the price, she gave the same lie, and she fell down at his feet. They did not even have to lie; it was their own land. They simply did not fear the Most High, and that spirit is in our midst.
+
 > <sup>[5](/bible/acts/5#v5)</sup> And Ananias hearing these words fell down, and gave up the ghost: and great fear came on all them that heard these things.
 >
 > <sup>[6](/bible/acts/5#v6)</sup> And the young men arose, wound him up, and carried him out, and buried him.
@@ -268,14 +276,6 @@ tags: ["IUIC in the ClassRoom", "endurance", "faith", "leadership", "prayer", "s
 > <sup>[10](/bible/acts/5#v10)</sup> Then fell she down straightway at his feet, and yielded up the ghost: and the young men came in, and found her dead, and, carrying her forth, buried her by her husband.
 >
 > <sup>[11](/bible/acts/5#v11)</sup> And great fear came upon all the church, and upon as many as heard these things.
-
-- Ananias sold a possession and kept back part of the price, his wife being privy to it. It is impossible for a husband to do something illegal without the wife knowing; every woman knows what her husband makes and what the house costs. She knew and did not stop it because she was living good, and when Esau shows up everybody goes.
-
-- Why hath Satan filled thine heart to lie to the Holy Ghost? The devil convinced them nobody would know, because they did not look at Peter as a spiritual man, the same way some of you sit at this table and lie to the leaders' faces.
-
-- Thou hast not lied unto men, but unto God: for the liars, the ones hiding homosexuality, the adulterers, the idolaters, the thieves. Ananias fell down and gave up the ghost, and great fear came on all that heard. One person dropping dead would end every situation in the camp; the sister would not touch her ex and the brother would take the exit home before the hotel.
-
-- Three hours later Sapphira came in not knowing, Peter asked her the price, she gave the same lie, and she fell down at his feet. They did not even have to lie; it was their own land. They simply did not fear the Most High, and that spirit is in our midst.
 
 
 **[2 Corinthians 5:7-9](/bible/2-corinthians/5#v7)**  *[[2:02:04](https://www.youtube.com/watch?v=jW1q4_5PWP0&t=7324s)]*
@@ -305,10 +305,10 @@ tags: ["IUIC in the ClassRoom", "endurance", "faith", "leadership", "prayer", "s
 **[Matthew 24:12-13](/bible/matthew/24#v12)**  *[[2:11:03](https://www.youtube.com/watch?v=jW1q4_5PWP0&t=7863s)]*
 
 > <sup>[12](/bible/matthew/24#v12)</sup> And because iniquity shall abound, the love of many shall wax cold.
->
-> <sup>[13](/bible/matthew/24#v13)</sup> But he that shall endure unto the end, the same shall be saved.
 
 - Because iniquity shall abound, the love of many shall wax cold: we kill each other and our own children. But he that shall endure unto the end, the same shall be saved. Enduring to the end is the same as overcoming, and Revelation 2 promises the crown of life to the one who overcomes his personal sin and trial, right here in Babylon the Great.
+
+> <sup>[13](/bible/matthew/24#v13)</sup> But he that shall endure unto the end, the same shall be saved.
 
 
 **[Matthew 10:21-22](/bible/matthew/10#v21)**  *[[2:13:06](https://www.youtube.com/watch?v=jW1q4_5PWP0&t=7986s)]*

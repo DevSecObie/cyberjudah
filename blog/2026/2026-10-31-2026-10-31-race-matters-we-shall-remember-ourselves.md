@@ -59,18 +59,18 @@ tags: ["IUIC in the ClassRoom", "islam-arabs", "mercy"]
 **[Deuteronomy 28:45-48](/bible/deuteronomy/28#v45)**  *[[22:54](https://www.youtube.com/watch?v=1L2IOu7pA84&t=1374s)]*
 
 > <sup>[45](/bible/deuteronomy/28#v45)</sup> Moreover all these curses shall come upon thee, and shall pursue thee, and overtake thee, till thou be destroyed; because thou hearkenedst not unto the voice of the Lord thy God, to keep his commandments and his statutes which he commanded thee:
->
-> <sup>[46](/bible/deuteronomy/28#v46)</sup> And they shall be upon thee for a sign and for a wonder, and upon thy seed for ever.
->
-> <sup>[47](/bible/deuteronomy/28#v47)</sup> Because thou servedst not the Lord thy God with joyfulness, and with gladness of heart, for the abundance of all things;
->
-> <sup>[48](/bible/deuteronomy/28#v48)</sup> Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
 
 - Moreover all these curses shall come upon thee, and shall pursue thee, and overtake thee: Wherever you go, not just in your land, wherever you go, the curses will pursue you.
+
+> <sup>[46](/bible/deuteronomy/28#v46)</sup> And they shall be upon thee for a sign and for a wonder, and upon thy seed for ever.
 
 - And they shall be upon thee for a sign: For what? For a sign, a designator as to who you are and where you'll be and what you'll be in the last days and throughout time. Sign. A sign is a designator, a locator, an identifier. That's what a sign is. Where you are and who you are is what a sign is.
 
 - And upon thy seed for ever: And upon your seed for how long? Forever. Upon your children. Meaning it's generational. What fell upon the fathers will fall upon the children. That's what the Bible says. Not what fell upon your fathers happened one time and that's it. Well, next one. No, it's generational.
+
+> <sup>[47](/bible/deuteronomy/28#v47)</sup> Because thou servedst not the Lord thy God with joyfulness, and with gladness of heart, for the abundance of all things;
+>
+> <sup>[48](/bible/deuteronomy/28#v48)</sup> Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
 
 - Therefore shalt thou serve thine enemies which the Lord shall send against thee: Therefore you shall serve your enemies. The Lord shall send against you. These curses are found everywhere. You find these curses upon us in the Pacific Islands, in the Caribbean Islands, in North America, Central America, South America, throughout Africa, throughout Europe. You will find us in the most decrepit conditions. The curses are an identifier. They are a beacon, a designator as to where and who we are, and our condition throughout our years as to who we are. You will not find Arab ghettos all over the earth. You will not find Japanese ghettos all over the earth. Arab ghettos all over the earth. Russian ghettos. You not find it. Shack towns in, what do you call them, grat, gratos, whatever, you will find all nations in that condition.
 
@@ -227,12 +227,12 @@ Reading from On-screen explanation of Deuteronomy 28:28  *[[38:20](https://www.y
 **[Hosea 1:4-6](/bible/hosea/1#v4)**  *[[53:46](https://www.youtube.com/watch?v=1L2IOu7pA84&t=3226s)]*
 
 > <sup>[4](/bible/hosea/1#v4)</sup> And the Lord said unto him, Call his name Jezreel; for yet a little while, and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel.
->
+
+- And will cause to cease the kingdom of the house of Israel: Cause to cease the kingdom of the house of Israel, northern kingdom. This is the prophecy against the northern kingdom of Israel.
+
 > <sup>[5](/bible/hosea/1#v5)</sup> And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel.
 >
 > <sup>[6](/bible/hosea/1#v6)</sup> And she conceived again, and bare a daughter. And God said unto him, Call her name Lo–ruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away.
-
-- And will cause to cease the kingdom of the house of Israel: Cause to cease the kingdom of the house of Israel, northern kingdom. This is the prophecy against the northern kingdom of Israel.
 
 - And she conceived again, and bare a daughter: So these children of Hosea were all metaphors to the prophecy against northern kingdom. Jezreel represent northern kingdom. Then she got pregnant again and had who?
 
@@ -423,22 +423,22 @@ Reading from On-screen text on the Assyrian policy of deportation and assimilati
 **[Hosea 1:6-9](/bible/hosea/1#v6)**  *[[1:14:12](https://www.youtube.com/watch?v=1L2IOu7pA84&t=4452s)]*
 
 > <sup>[6](/bible/hosea/1#v6)</sup> And she conceived again, and bare a daughter. And God said unto him, Call her name Lo–ruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away.
->
-> <sup>[7](/bible/hosea/1#v7)</sup> But I will have mercy upon the house of Judah, and will save them by the Lord their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen.
->
-> <sup>[8](/bible/hosea/1#v8)</sup> Now when she had weaned Lo–ruhamah, she conceived, and bare a son.
->
-> <sup>[9](/bible/hosea/1#v9)</sup> Then said God, Call his name Lo–ammi: for ye are not my people, and I will not be your God.
 
 - But I will utterly take them away: By Assyria, and make them the lost 10.
+
+> <sup>[7](/bible/hosea/1#v7)</sup> But I will have mercy upon the house of Judah, and will save them by the Lord their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen.
 
 - But I will have mercy upon the house of Judah: That's how we know there's two separate kingdoms. I will not have mercy upon the house of northern kingdom, but I will have mercy upon the house of Judah.
 
 - And will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen: Mean I'm not going to let Assyria do to Judah what he would do to northern kingdom.
 
+> <sup>[8](/bible/hosea/1#v8)</sup> Now when she had weaned Lo–ruhamah, she conceived, and bare a son.
+
 - Now when she had weaned Lo-ruhamah: Lo-ruhamah's around three years old now.
 
 - She conceived, and bare a son: Another son.
+
+> <sup>[9](/bible/hosea/1#v9)</sup> Then said God, Call his name Lo–ammi: for ye are not my people, and I will not be your God.
 
 - Then said God, Call his name Lo-ammi: Call his name Lo-ammi.
 
@@ -483,22 +483,20 @@ Reading from On-screen text on the Assyrian policy of deportation and assimilati
 > <sup>[1](/bible/psalms/83#v1)</sup> Keep not thou silence, O God: hold not thy peace, and be not still, O God.
 >
 > <sup>[2](/bible/psalms/83#v2)</sup> For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.
->
-> <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
->
-> <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
->
-> <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
 
 - For, lo, thine enemies: Lo, who? Lo, thine enemies. What does God have? Enemies. He says thine. Asaph says thine, God, your enemies. Anyone who's an enemy of God's people is an enemy of God by default. An attack on the king's men is an attack on the king, right? Especially if you attack his children.
 
 - And they that hate thee have lifted up the head: They become prideful, arrogant. Gain power.
+
+> <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
 
 - They have taken crafty counsel: Religion, politics, philosophies.
 
 - Against thy people: Against your people.
 
 - And consulted against thy hidden ones: Why are we called hidden ones? Because our identity would be what? Hidden. We'd be called by what? Another name. Hidden ones. It's going to explain what hidden ones means in the following verse. Watch.
+
+> <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
 
 - Come, and let us cut them off from being a nation: How? By dividing us. By integrating us or assimilating us into different cultural societies. That's what we're going to do.
 
@@ -508,6 +506,8 @@ Reading from On-screen text on the Assyrian policy of deportation and assimilati
 
 - That the name of Israel may be no more in remembrance: Because when they bring the South Africans over here, the white ones, no beef. When they brought the Afghanis over here in Chicago by the thousands, secretly, no problem. When they brought the Ukrainians over here, no problem. All the white and Arab immigrants can come over here. East Indians come over here. Chinese come here. No problem. AI is taking all the jobs. Would you play Mexicans? Mexicans don't have a problem, but AI is taking ALL THE JOBS. WHAT JOB WOULD A BLACK PERSON TAKE MEXICANS DO? Mexicans, they work the jobs you never work, for the price they work for. They work for pennies. Black folks won't be caught dead working for that. "Well, how much you pay me? What? $200 for a roof? … please. $200 for a roof? Fixing a roof for $200? $2,000." How much you want for the roof? A thousand. They'll do an excellent job, cuz they ain't supposed to be here. But in actuality, half of America is their land anyway. So how are they illegal? Half of America is theirs. Mexico, Oklahoma, Arizona, Nevada, Utah, CALIFORNIA, TEXAS. THAT'S AZTEC LAND. HOW ARE THEY ILLEGALS? HALF THE COUNTRY IS THEIRS. Gulf of Mexico is called Gulf of America now. Diabolical. But they're the illegals. No, this so-called white man's the illegal, right? He's illegal in Israel. He's illegal in Australia. He's illegal in Africa and he's illegal here. If he in the Caucasus Mountains or Mount Seir, he don't belong there. There's no beef for him. No problems with him. "No, sir, boss. Yes, sir, boss. I make the beans. I cook the rice."
 
+> <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
+
 - For they have consulted together with one consent: they are confederate against thee: They are confederate against you and your children.
 
 - The tabernacles of Edom: So the first ringleader of this conspiracy here is Edom. The so-called white man is the number one nation on God's hit list in this chapter. Edom.
@@ -516,28 +516,20 @@ Reading from On-screen text on the Assyrian policy of deportation and assimilati
 **[1 Maccabees 1:7-15](/bible/1-maccabees/1#v7)**  *[[1:25:04](https://www.youtube.com/watch?v=1L2IOu7pA84&t=5104s)]*
 
 > <sup>[7](/bible/1-maccabees/1#v7)</sup> So Alexander reigned twelve years, and then died.
->
-> <sup>[8](/bible/1-maccabees/1#v8)</sup> And his servants bare rule every one in his place.
->
-> <sup>[9](/bible/1-maccabees/1#v9)</sup> And after his death they all put crowns upon themselves; so did their sons after them many years: and evils were multiplied in the earth.
->
-> <sup>[10](/bible/1-maccabees/1#v10)</sup> And there came out of them a wicked root, Antiochus surnamed Epiphanes, son of Antiochus the king, who had been an hostage at Rome, and he reigned in the hundred and thirty and seventh year of the kingdom of the Greeks.
->
-> <sup>[11](/bible/1-maccabees/1#v11)</sup> In those days went there out of Israel wicked men, who persuaded many, saying, Let us go and make a covenant with the heathen that are round about us: for since we departed from them we have had much sorrow.
->
-> <sup>[12](/bible/1-maccabees/1#v12)</sup> So this device pleased them well.
->
-> <sup>[13](/bible/1-maccabees/1#v13)</sup> Then certain of the people were so forward herein, that they went to the king, who gave them licence to do after the ordinances of the heathen:
->
-> <sup>[14](/bible/1-maccabees/1#v14)</sup> Whereupon they built a place of exercise at Jerusalem according to the customs of the heathen:
->
-> <sup>[15](/bible/1-maccabees/1#v15)</sup> And made themselves uncircumcised, and forsook the holy covenant, and joined themselves to the heathen, and were sold to do mischief.
 
 - So Alexander reigned twelve years, and then died: He conquered the whole known world at 20 years old. He died 32.
 
+> <sup>[8](/bible/1-maccabees/1#v8)</sup> And his servants bare rule every one in his place.
+
 - And his servants bare rule every one in his place: His four generals bear rule.
 
+> <sup>[9](/bible/1-maccabees/1#v9)</sup> And after his death they all put crowns upon themselves; so did their sons after them many years: and evils were multiplied in the earth.
+
 - And evils were multiplied in the earth: So when the so-called white man ascended into power, it says evils were already in the earth, but when they came into power, evil multiplied in the earth. Evil's always been around since the time of the garden. But when the white man came into power, it says, "Evil multiplied in the earth." It was enhanced.
+
+> <sup>[10](/bible/1-maccabees/1#v10)</sup> And there came out of them a wicked root, Antiochus surnamed Epiphanes, son of Antiochus the king, who had been an hostage at Rome, and he reigned in the hundred and thirty and seventh year of the kingdom of the Greeks.
+>
+> <sup>[11](/bible/1-maccabees/1#v11)</sup> In those days went there out of Israel wicked men, who persuaded many, saying, Let us go and make a covenant with the heathen that are round about us: for since we departed from them we have had much sorrow.
 
 - Let us go and make a covenant with the heathen that are round about us: Saying what? These are the …, the Greeks.
 
@@ -545,7 +537,15 @@ Reading from On-screen text on the Assyrian policy of deportation and assimilati
 
 - For since we departed from them we have had much sorrow: This whole thing about Christ, no matter what color Christ is, is all about keeping the white man happy. Don't upset Massa with this black Jesus talk. Just believe in Christ. Just focus on the message of Christ. Focus on Christ being God the Father. Let's argue that every day. Let's argue about that over again. And let's not upset Massa with this we're Jews talk. You're going to piss Massa off and get us all in trouble. This is going to get us beat, because he's saying that you a Jew. He might be listening. This is house … talk. This is house … talk.
 
+> <sup>[12](/bible/1-maccabees/1#v12)</sup> So this device pleased them well.
+>
+> <sup>[13](/bible/1-maccabees/1#v13)</sup> Then certain of the people were so forward herein, that they went to the king, who gave them licence to do after the ordinances of the heathen:
+>
+> <sup>[14](/bible/1-maccabees/1#v14)</sup> Whereupon they built a place of exercise at Jerusalem according to the customs of the heathen:
+
 - Whereupon they built a place of exercise at Jerusalem according to the customs of the heathen: They joined themselves or integrated themselves into Greek philosophies and activities.
+
+> <sup>[15](/bible/1-maccabees/1#v15)</sup> And made themselves uncircumcised, and forsook the holy covenant, and joined themselves to the heathen, and were sold to do mischief.
 
 - And made themselves uncircumcised: Made themselves heathen. Uncircumcised. You can't put the skin back on. They made themselves heathen.
 
@@ -559,32 +559,28 @@ Reading from On-screen text on the Assyrian policy of deportation and assimilati
 > <sup>[41](/bible/1-maccabees/1#v41)</sup> Moreover king Antiochus wrote to his whole kingdom, that all should be one people,
 >
 > <sup>[42](/bible/1-maccabees/1#v42)</sup> And every one should leave his laws: so all the heathen agreed according to the commandment of the king.
->
-> <sup>[43](/bible/1-maccabees/1#v43)</sup> Yea, many also of the Israelites consented to his religion, and sacrificed unto idols, and profaned the sabbath.
->
-> <sup>[44](/bible/1-maccabees/1#v44)</sup> For the king had sent letters by messengers unto Jerusalem and the cities of Juda, that they should follow the strange laws of the land,
->
-> <sup>[45](/bible/1-maccabees/1#v45)</sup> And forbid burnt offerings, and sacrifice, and drink offerings, in the temple; and that they should profane the sabbaths and festival days:
->
-> <sup>[46](/bible/1-maccabees/1#v46)</sup> And pollute the sanctuary and holy people:
->
-> <sup>[47](/bible/1-maccabees/1#v47)</sup> Set up altars, and groves, and chapels of idols, and sacrifice swine’s flesh, and unclean beasts:
->
-> <sup>[48](/bible/1-maccabees/1#v48)</sup> That they should also leave their children uncircumcised, and make their souls abominable with all manner of uncleanness and profanation:
->
-> <sup>[49](/bible/1-maccabees/1#v49)</sup> To the end they might forget the law, and change all the ordinances.
 
 - And every one should leave his laws: Everyone, including us, should leave our laws. The moment Israel leaves our laws, we automatically lose our identity by default.
+
+> <sup>[43](/bible/1-maccabees/1#v43)</sup> Yea, many also of the Israelites consented to his religion, and sacrificed unto idols, and profaned the sabbath.
 
 - Yea, many also of the Israelites consented to his religion: To his what? To his religion. So politics and religion go hand in hand. That's why your boy Pastor Pam is introducing politics into his ideology now, because religion is pretty much the biblical rendition of democracy or republicanism. It's two sides of the same coin. Politics and religion are the same. It's white supremacy in the pulpit or in the White House. It's the same thing.
 
 - And sacrificed unto idols, and profaned the sabbath: You notice, you go to a Christian church, the pastor teaches where? At a podium, where Trump always in front of a podium. It's the same thing. They both preaching. It's just, rather than say preaches, to say it's politics. It's the same thing. Pushing an agenda. White supremacy is the same.
 
+> <sup>[44](/bible/1-maccabees/1#v44)</sup> For the king had sent letters by messengers unto Jerusalem and the cities of Juda, that they should follow the strange laws of the land,
+
 - That they should follow the strange laws of the land: Assimilate, integrate.
+
+> <sup>[45](/bible/1-maccabees/1#v45)</sup> And forbid burnt offerings, and sacrifice, and drink offerings, in the temple; and that they should profane the sabbaths and festival days:
 
 - And that they should profane the sabbaths and festival days: Denounce their laws. The laws of what? Done away with. Christianity.
 
+> <sup>[46](/bible/1-maccabees/1#v46)</sup> And pollute the sanctuary and holy people:
+
 - And pollute the sanctuary and holy people: Bring evil into the temple of God and the people.
+
+> <sup>[47](/bible/1-maccabees/1#v47)</sup> Set up altars, and groves, and chapels of idols, and sacrifice swine’s flesh, and unclean beasts:
 
 - Set up altars, and groves, and chapels of idols: Churches. Set up churches on every corner, every street.
 
@@ -592,7 +588,11 @@ Reading from On-screen text on the Assyrian policy of deportation and assimilati
 
 - And sacrifice swine's flesh, and unclean beasts: That's why negroes will mess around, and I'm not saying all, but many of them will go to prison, and to avoid being raped anally, they will become Muslims, and then come out of prison and be Muslim and sell drugs. And then they say, "Yeah, according to the Quran, I can sell drugs to unbelievers." Where's that in the Quran? Where is it? And then they'll turn the blind eye to the trans-Saharan slave trade going on in Africa right now, secretly, from the 700s all the way to now, under the watchful eye of the Europeans, powers that be. The Arabs have us over there in Africa as slaves. Ethiopians are slaves. People from Liberia, slaves. Sierra Leone, slaves. And what do the black Muslims say? Nothing. Blindness. Madness. I don't see anything. What's the three monkeys? Hear no evil, see no evil, speak no evil. COGNITIVE DISSONANCE. "AH, BUT ALLAH LOVES US ALL." WELL, why has Allah allowed them to have us as slaves? Where is he? What's his answer for that? Because our God explains slavery. He explains to us, you got to put my covenant, I'm going to have you enslaved. What did Allah say about black slavery? What do he say about it? What are his thoughts, or its thoughts? Whatever it is Allah is, or him or her, whatever. What are its thoughts on the Arabs having us as slaves, it being allowed in the Quran? No answer.
 
+> <sup>[48](/bible/1-maccabees/1#v48)</sup> That they should also leave their children uncircumcised, and make their souls abominable with all manner of uncleanness and profanation:
+
 - That they should also leave their children uncircumcised: Become heathen.
+
+> <sup>[49](/bible/1-maccabees/1#v49)</sup> To the end they might forget the law, and change all the ordinances.
 
 - To the end they might forget the law: To the end that what? They might forget the law. Forget the law. Forget their race. Forget their god. Forget their identity.
 
@@ -698,8 +698,6 @@ Reading from Definition of discontinue (read on screen)  *[[1:42:03](https://www
 **[Leviticus 26:1-2](/bible/leviticus/26#v1)**  *[[1:42:59](https://www.youtube.com/watch?v=1L2IOu7pA84&t=6179s)]*
 
 > <sup>[1](/bible/leviticus/26#v1)</sup> Ye shall make you no idols nor graven image, neither rear you up a standing image, neither shall ye set up any image of stone in your land, to bow down unto it: for I am the Lord your God.
->
-> <sup>[2](/bible/leviticus/26#v2)</sup> Ye shall keep my sabbaths, and reverence my sanctuary: I am the Lord.
 
 - Ye shall make you no idols: Now give me Leviticus 26:1. Now understand, our people were here first in the Americas. I'm not talking about them. We came over here. I acknowledge that entirely. Some of y'all in the audience don't know what room you're in. I taught that before you was even born probably, right? But the point I'm making is that the northern kingdom that came to this side of the world, they acknowledged who their people were. They didn't call themselves FBAs and they didn't have a disdain for their people on this side of the world. We were enslaved together. For every three slaves, we have two Native Americans, because Native Americans were cheaper, because they were already here. But the reason why they chose black folks is because black folks didn't know the land. We couldn't run away because we didn't know where to go. Native Americans run the mountains. They good. They run away from the mountains. They safe. They know the land. But Israel brought over here didn't know the land like that. So we were better workers, because we couldn't escape or run away.
 
@@ -708,6 +706,8 @@ Reading from Definition of discontinue (read on screen)  *[[1:42:03](https://www
 - Ye shall make you no idols: Some of y'all, I'm telling you, you said earlier, cognitive dissonance. I'm going to listen for Dickon. Listen to reply, not understand. That's a black man's problem that he learns from the woman. From mommy, with no daddy at home. No home training. Very irrational, emotional. "But we were always here. Native Americans." I know that. We know that already. We're not talking about them. We're referring to the ships. Not the ships we built and came over here. The ones that were built and put us on the bottom of. I'm referring to that. Just sit down. Take notes. Be quiet.
 
 - Neither shall ye set up any image of stone in your land, to bow down unto it: Set up any image of stone in your land to do what? To bow down unto IT. TO DO WHAT? BOW down unto it. That sounds so familiar. Any stone in your LAND TO BOW DOWN UNTO IT. THAT SOUNDS VERY much like Islam, because that was being done back then, long before Muhammad was born. Allah was a god that was around long before Muhammad was around. That's why his father's name was Abdullah. Abdallah, servant of Allah. Who was Allah before Muhammad was around? He was a pagan god. A pagan god. That's what he was. Hubal. That was his name before he was given Allah. Hubal, meaning the god. Because they had a bunch of gods. That god was the god of all the gods. Hubal became Allah later on. The god Hubal, the god of the pantheon. Every day of the week they had a god, 360 gods they had, but one top god of that pantheon was Hubal, who they now call Allah. Allah today, they would shoot seven arrows rather than throw stones at him. Now, they would shoot arrows back then. Hubal is Baal. The Satan of the Bible, Baal. Hubal, the Baal.
+
+> <sup>[2](/bible/leviticus/26#v2)</sup> Ye shall keep my sabbaths, and reverence my sanctuary: I am the Lord.
 
 - Ye shall keep my sabbaths, and reverence my sanctuary: Now his brother says, when the Israelites in America start feeding, clothing, and sheltering, educating, and employing the black Americans, and you all have hopes and dreams... First and foremost, we're doing that. Number one, we are doing that. We are definitely clothing, feeding, and sheltering our people. We have congregations all throughout Africa where we have definitely sheltered our people, fed them, and if brothers want jobs, we have that. We have programs where we can find brothers jobs and give them jobs. We have entrepreneurs in our organization. Some of you brothers in the comments don't know who you're dealing with. You're just talking. How many black Americans have you sheltered and fed, or gave jobs to, or missing persons looked out for, or prison programs, or gang education programs and so forth, gang prevention programs, nonviolence programs? We have. How many of you had? Again, y'all are in the wrong room. Just be quiet. You don't know who you're DEALING WITH.
 
@@ -739,26 +739,26 @@ Reading from Definition of discontinue (read on screen)  *[[1:42:03](https://www
 > <sup>[21](/bible/galatians/4#v21)</sup> Tell me, ye that desire to be under the law, do ye not hear the law?
 >
 > <sup>[22](/bible/galatians/4#v22)</sup> For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman.
->
-> <sup>[23](/bible/galatians/4#v23)</sup> But he who was of the bondwoman was born after the flesh; but he of the freewoman was by promise.
->
-> <sup>[24](/bible/galatians/4#v24)</sup> Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.
->
-> <sup>[25](/bible/galatians/4#v25)</sup> For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children.
->
-> <sup>[26](/bible/galatians/4#v26)</sup> But Jerusalem which is above is free, which is the mother of us all.
 
 - For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman: So one by a bondmaid was Hagar, the free woman was Sarah.
+
+> <sup>[23](/bible/galatians/4#v23)</sup> But he who was of the bondwoman was born after the flesh; but he of the freewoman was by promise.
 
 - But he who was of the bondwoman was born after the flesh: Born what? After the flesh. He that was born of the bondwoman, Ishmael, was born what? After the flesh. He was born after the flesh, meaning he was desired, but God didn't want him around. He was desired by Abraham and Sarah, but the Lord didn't promise him. Ishmael was not promised.
 
 - But he of the freewoman was by promise: Isaac was the promised child, not Ishmael.
 
+> <sup>[24](/bible/galatians/4#v24)</sup> Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.
+
 - The one from the mount Sinai, which gendereth to bondage, which is Agar: She represents bondage. The old covenant. Law of sacrifice, particularly.
+
+> <sup>[25](/bible/galatians/4#v25)</sup> For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children.
 
 - For this Agar is mount Sinai in Arabia: There was a school in Arabia that answered to Jerusalem.
 
 - And is in bondage with her children: Under that old covenant sacrificial law, with her children.
+
+> <sup>[26](/bible/galatians/4#v26)</sup> But Jerusalem which is above is free, which is the mother of us all.
 
 - But Jerusalem which is above is free: So, of promise. Free.
 
@@ -766,20 +766,18 @@ Reading from Definition of discontinue (read on screen)  *[[1:42:03](https://www
 **[Galatians 4:28-31](/bible/galatians/4#v28)**  *[[1:53:08](https://www.youtube.com/watch?v=1L2IOu7pA84&t=6788s)]*
 
 > <sup>[28](/bible/galatians/4#v28)</sup> Now we, brethren, as Isaac was, are the children of promise.
->
-> <sup>[29](/bible/galatians/4#v29)</sup> But as then he that was born after the flesh persecuted him that was born after the Spirit, even so it is now.
->
-> <sup>[30](/bible/galatians/4#v30)</sup> Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman.
->
-> <sup>[31](/bible/galatians/4#v31)</sup> So then, brethren, we are not children of the bondwoman, but of the free.
 
 - Now we, brethren, as Isaac was: As what? Isaac was. What did Paul say to the Galatians? Now we what? Brethren. Isaac called the Galatians brethren.
 
 - Are the children of promise: So the people that Paul was writing to are the children of promise. Who are the children of promise? Well, Isaac was the child of promise.
 
+> <sup>[29](/bible/galatians/4#v29)</sup> But as then he that was born after the flesh persecuted him that was born after the Spirit, even so it is now.
+
 - But as then he that was born after the flesh: Stop. That's Ishmael, born after the flesh.
 
 - Persecuted him that was born after the Spirit: Because Ishmael mocked Isaac.
+
+> <sup>[30](/bible/galatians/4#v30)</sup> Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman.
 
 - Nevertheless what saith the scripture?: Nevertheless, what saith the scripture regarding the situation? Regarding the child of the flesh and the child of promise?
 
@@ -787,13 +785,17 @@ Reading from Definition of discontinue (read on screen)  *[[1:42:03](https://www
 
 - For the son of the bondwoman shall not be heir with the son of the freewoman: Shall not be what? Heir. You can't have two heirs to a throne. We are the heirs to the throne. Ishmael is cast out. And all the children that came out of Abraham are cast out. We'll get that in a few minutes. Cast out. We're the heirs to the throne.
 
+> <sup>[31](/bible/galatians/4#v31)</sup> So then, brethren, we are not children of the bondwoman, but of the free.
+
 - So then, brethren, we are not children of the bondwoman, but of the free: But of the promise.
 
 
 **[Baruch 3:16-23](/bible/baruch/3#v16)**  *[[1:55:27](https://www.youtube.com/watch?v=1L2IOu7pA84&t=6927s)]*
 
 > <sup>[16](/bible/baruch/3#v16)</sup> Where are the princes of the heathen become, and such as ruled the beasts upon the earth;
->
+
+- Where are the princes of the heathen become: Israel says, "I don't believe that. I'm going to make something up. I'm make some story up." Watch this. So the context here is the heathen.
+
 > <sup>[17](/bible/baruch/3#v17)</sup> They that had their pastime with the fowls of the air, and they that hoarded up silver and gold, wherein men trust, and made no end of their getting?
 >
 > <sup>[18](/bible/baruch/3#v18)</sup> For they that wrought in silver, and were so careful, and whose works are unsearchable,
@@ -801,22 +803,20 @@ Reading from Definition of discontinue (read on screen)  *[[1:42:03](https://www
 > <sup>[19](/bible/baruch/3#v19)</sup> They are vanished and gone down to the grave, and others are come up in their steads.
 >
 > <sup>[20](/bible/baruch/3#v20)</sup> Young men have seen light, and dwelt upon the earth: but the way of knowledge have they not known,
->
-> <sup>[21](/bible/baruch/3#v21)</sup> Nor understood the paths thereof, nor laid hold of it: their children were far off from that way.
->
-> <sup>[22](/bible/baruch/3#v22)</sup> It hath not been heard of in Chanaan, neither hath it been seen in Theman.
->
-> <sup>[23](/bible/baruch/3#v23)</sup> The Agarenes that seek wisdom upon earth, the merchants of Meran and of Theman, the authors of fables, and searchers out of understanding; none of these have known the way of wisdom, or remember her paths.
-
-- Where are the princes of the heathen become: Israel says, "I don't believe that. I'm going to make something up. I'm make some story up." Watch this. So the context here is the heathen.
 
 - But the way of knowledge have they not known: That's the heathen. The way of knowledge have the heathen not known. Watch.
 
+> <sup>[21](/bible/baruch/3#v21)</sup> Nor understood the paths thereof, nor laid hold of it: their children were far off from that way.
+
 - Their children were far off from that way: Their children, the heathen's children, were far off from that way, that knowledge that God gave us.
+
+> <sup>[22](/bible/baruch/3#v22)</sup> It hath not been heard of in Chanaan, neither hath it been seen in Theman.
 
 - It hath not been heard of in Chanaan: The Hamites don't have that knowledge.
 
 - Neither hath it been seen in Theman: The … are not given that knowledge.
+
+> <sup>[23](/bible/baruch/3#v23)</sup> The Agarenes that seek wisdom upon earth, the merchants of Meran and of Theman, the authors of fables, and searchers out of understanding; none of these have known the way of wisdom, or remember her paths.
 
 - The Agarenes that seek wisdom upon earth: That's the Arabs. The Agarenes are not given that knowledge.
 
@@ -836,14 +836,14 @@ Reading from Definition of discontinue (read on screen)  *[[1:42:03](https://www
 **[Baruch 3:35-37](/bible/baruch/3#v35)**  *[[1:57:22](https://www.youtube.com/watch?v=1L2IOu7pA84&t=7042s)]*
 
 > <sup>[35](/bible/baruch/3#v35)</sup> This is our God, and there shall none other be accounted of in comparison of him.
->
-> <sup>[36](/bible/baruch/3#v36)</sup> He hath found out all the way of knowledge, and hath given it unto Jacob his servant, and to Israel his beloved.
->
-> <sup>[37](/bible/baruch/3#v37)</sup> Afterward did he shew himself upon earth, and conversed with men.
 
 - This is our God: This is our God.
 
+> <sup>[36](/bible/baruch/3#v36)</sup> He hath found out all the way of knowledge, and hath given it unto Jacob his servant, and to Israel his beloved.
+
 - And hath given it unto Jacob his servant, and to Israel his beloved: He gave us that knowledge. Not the nations. They know nothing.
+
+> <sup>[37](/bible/baruch/3#v37)</sup> Afterward did he shew himself upon earth, and conversed with men.
 
 - Afterward did he shew himself upon earth, and conversed with men: That's Christ.
 
@@ -867,20 +867,6 @@ Reading from Definition of discontinue (read on screen)  *[[1:42:03](https://www
 **[Romans 2:17-24](/bible/romans/2#v17)**  *[[1:58:13](https://www.youtube.com/watch?v=1L2IOu7pA84&t=7093s)]*
 
 > <sup>[17](/bible/romans/2#v17)</sup> Behold, thou art called a Jew, and restest in the law, and makest thy boast of God,
->
-> <sup>[18](/bible/romans/2#v18)</sup> And knowest his will, and approvest the things that are more excellent, being instructed out of the law;
->
-> <sup>[19](/bible/romans/2#v19)</sup> And art confident that thou thyself art a guide of the blind, a light of them which are in darkness,
->
-> <sup>[20](/bible/romans/2#v20)</sup> An instructor of the foolish, a teacher of babes, which hast the form of knowledge and of the truth in the law.
->
-> <sup>[21](/bible/romans/2#v21)</sup> Thou therefore which teachest another, teachest thou not thyself? thou that preachest a man should not steal, dost thou steal?
->
-> <sup>[22](/bible/romans/2#v22)</sup> Thou that sayest a man should not commit adultery, dost thou commit adultery? thou that abhorrest idols, dost thou commit sacrilege?
->
-> <sup>[23](/bible/romans/2#v23)</sup> Thou that makest thy boast of the law, through breaking the law dishonourest thou God?
->
-> <sup>[24](/bible/romans/2#v24)</sup> For the name of God is blasphemed among the Gentiles through you, as it is written.
 
 - Behold, thou art called a Jew: So Paul is writing to the Jews here in Rome. The synagogue in Rome is who Paul's writing to.
 
@@ -888,28 +874,34 @@ Reading from Definition of discontinue (read on screen)  *[[1:42:03](https://www
 
 - And makest thy boast of God: Make your boast of God, being a Jew.
 
+> <sup>[18](/bible/romans/2#v18)</sup> And knowest his will, and approvest the things that are more excellent, being instructed out of the law;
+
 - And knowest his will, and approvest the things that are more excellent, being instructed out of the law: You know his will. So he is speaking to the teachers of the synagogue of Rome.
+
+> <sup>[19](/bible/romans/2#v19)</sup> And art confident that thou thyself art a guide of the blind, a light of them which are in darkness,
 
 - And art confident that thou thyself art a guide of the blind: A guide is a teacher. A guide of the blind.
 
+> <sup>[20](/bible/romans/2#v20)</sup> An instructor of the foolish, a teacher of babes, which hast the form of knowledge and of the truth in the law.
+
 - An instructor of the foolish, a teacher of babes: So he's writing to the Jews of Rome that were the elders, the teachers.
+
+> <sup>[21](/bible/romans/2#v21)</sup> Thou therefore which teachest another, teachest thou not thyself? thou that preachest a man should not steal, dost thou steal?
+>
+> <sup>[22](/bible/romans/2#v22)</sup> Thou that sayest a man should not commit adultery, dost thou commit adultery? thou that abhorrest idols, dost thou commit sacrilege?
+>
+> <sup>[23](/bible/romans/2#v23)</sup> Thou that makest thy boast of the law, through breaking the law dishonourest thou God?
 
 - Thou that makest thy boast of the law: That's the Jew that rests in the law.
 
 - Through breaking the law dishonourest thou God?: Teach the law, to break it while you're teaching it. That's hypocrisy. The context here is hypocrisy.
 
+> <sup>[24](/bible/romans/2#v24)</sup> For the name of God is blasphemed among the Gentiles through you, as it is written.
+
 
 **[Romans 2:25-29](/bible/romans/2#v25)**  *[[2:00:39](https://www.youtube.com/watch?v=1L2IOu7pA84&t=7239s)]*
 
 > <sup>[25](/bible/romans/2#v25)</sup> For circumcision verily profiteth, if thou keep the law: but if thou be a breaker of the law, thy circumcision is made uncircumcision.
->
-> <sup>[26](/bible/romans/2#v26)</sup> Therefore if the uncircumcision keep the righteousness of the law, shall not his uncircumcision be counted for circumcision?
->
-> <sup>[27](/bible/romans/2#v27)</sup> And shall not uncircumcision which is by nature, if it fulfil the law, judge thee, who by the letter and circumcision dost transgress the law?
->
-> <sup>[28](/bible/romans/2#v28)</sup> For he is not a Jew, which is one outwardly; neither is that circumcision, which is outward in the flesh:
->
-> <sup>[29](/bible/romans/2#v29)</sup> But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, and not in the letter; whose praise is not of men, but of God.
 
 - For circumcision verily profiteth: He's saying circumcision verily, truly, profits.
 
@@ -917,9 +909,13 @@ Reading from Definition of discontinue (read on screen)  *[[1:42:03](https://www
 
 - But if thou be a breaker of the law, thy circumcision is made uncircumcision: That's the same thing we read earlier in 1 Maccabees 11:15, where it said they made themselves uncircumcised, following the Greeks. So if you are out here and you're circumcised, teaching God's laws, but you're breaking them while you're teaching them, you might as well be a heathen. Your circumcision is counted as uncircumcision. It means nothing. So Paul is saying being circumcised in hypocrisy profits you nothing. That's the context.
 
+> <sup>[26](/bible/romans/2#v26)</sup> Therefore if the uncircumcision keep the righteousness of the law, shall not his uncircumcision be counted for circumcision?
+
 - Therefore if the uncircumcision keep the righteousness of the law: So someone that's not circumcised keeps the commandments that you're teaching but not doing. They're uncircumcised and they're keeping it and doing it.
 
 - Shall not his uncircumcision be counted for circumcision?: Be better than you, cuz he's keeping the laws that you guys are breaking while circumcised.
+
+> <sup>[27](/bible/romans/2#v27)</sup> And shall not uncircumcision which is by nature, if it fulfil the law, judge thee, who by the letter and circumcision dost transgress the law?
 
 - And shall not uncircumcision which is by nature: Meaning natural. Naturally uncircumcised.
 
@@ -929,9 +925,13 @@ Reading from Definition of discontinue (read on screen)  *[[1:42:03](https://www
 
 - Who by the letter and circumcision dost transgress the law?: Will that make you guys look worse, if you guys are raising the law and you're breaking it? That makes the person that's uncircumcised and keeping the law make your circumcision a waste of time. That's what Paul is saying here to the Jews in the synagogue of Rome.
 
+> <sup>[28](/bible/romans/2#v28)</sup> For he is not a Jew, which is one outwardly; neither is that circumcision, which is outward in the flesh:
+
 - For he is not a Jew, which is one outwardly: What is the conversation here? Outwardly circumcision. THAT'S YOUR PENIS. THAT'S OUTWARDLY. YOU AIN'T circumcised inside. You're circumcised outside. So he's not, you're not a Jew if you're just circumcised and that's it.
 
 - Neither is that circumcision, which is outward in the flesh: So he explains what the outwardly means. So that's what he means by a Jew outwardly. A Jew that's circumcised, and teaching God's laws, but not keeping them. So you're a Jew outwardly. People see you're a Jew. You're circumcised, of fringes. But meanwhile, you're an idolater. You're a thief. You're a murderer. You're a liar. You understand? That's what Paul is talking about.
+
+> <sup>[29](/bible/romans/2#v29)</sup> But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, and not in the letter; whose praise is not of men, but of God.
 
 - But he is a Jew, which is one inwardly: Going back into what? Keeping the commandments. Being circumcised and keeping God's commandments at the same time. Now you're a Jew outwardly and inwardly.
 
@@ -965,24 +965,24 @@ Reading from Definition of discontinue (read on screen)  *[[1:42:03](https://www
 **[Romans 3:1-4](/bible/romans/3#v1)**  *[[2:06:49](https://www.youtube.com/watch?v=1L2IOu7pA84&t=7609s)]*
 
 > <sup>[1](/bible/romans/3#v1)</sup> What advantage then hath the Jew? or what profit is there of circumcision?
->
-> <sup>[2](/bible/romans/3#v2)</sup> Much every way: chiefly, because that unto them were committed the oracles of God.
->
-> <sup>[3](/bible/romans/3#v3)</sup> For what if some did not believe? shall their unbelief make the faith of God without effect?
->
-> <sup>[4](/bible/romans/3#v4)</sup> God forbid: yea, let God be true, but every man a liar; as it is written, That thou mightest be justified in thy sayings, and mightest overcome when thou art judged.
 
 - What advantage then hath the Jew?: So he asked the question. What advantage then has the Jew? Watch.
 
 - Or what profit is there of circumcision?: Or what profit is there being circumcised, based upon the conversation earlier? Watch.
 
+> <sup>[2](/bible/romans/3#v2)</sup> Much every way: chiefly, because that unto them were committed the oracles of God.
+
 - Much every way: Stop. What is it? Much every way. So in every way, much, there is an advantage to being a Jew and there is an advantage to being circumcised. So if there is an advantage for us, then guess what? There is also a disadvantage for those who are what? Not Jews and not circumcised, who are heathens. So there is an advantage to being a Jew.
 
 - Chiefly, because that unto them were committed the oracles of God: Primarily because what? Unto them, the Israelites, were committed the laws of God. That's what gives us the advantage. We have the covenant, not the other nations. That's the advantage other nations don't have.
 
+> <sup>[3](/bible/romans/3#v3)</sup> For what if some did not believe? shall their unbelief make the faith of God without effect?
+
 - For what if some did not believe?: But what if some did not believe that? Cuz some of y'all trying to save Massa and Akmed and Ming Lee and Kuresh. You trying to save them. So what if some did not believe in Christ at all?
 
 - Shall their unbelief make the faith of God without effect?: Shall their unbelief make the faith of God without effect? Would avoid the words of God?
+
+> <sup>[4](/bible/romans/3#v4)</sup> God forbid: yea, let God be true, but every man a liar; as it is written, That thou mightest be justified in thy sayings, and mightest overcome when thou art judged.
 
 - God forbid: Paul said, "No, it don't matter if you believe or not."
 
@@ -992,24 +992,20 @@ Reading from Definition of discontinue (read on screen)  *[[1:42:03](https://www
 **[Romans 9:1-6](/bible/romans/9#v1)**  *[[2:08:30](https://www.youtube.com/watch?v=1L2IOu7pA84&t=7710s)]*
 
 > <sup>[1](/bible/romans/9#v1)</sup> I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,
->
+
+- I say the truth in Christ, I lie not: Now get me what? Romans 9. I want y'all to follow this now.
+
 > <sup>[2](/bible/romans/9#v2)</sup> That I have great heaviness and continual sorrow in my heart.
 >
 > <sup>[3](/bible/romans/9#v3)</sup> For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh:
->
-> <sup>[4](/bible/romans/9#v4)</sup> Who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;
->
-> <sup>[5](/bible/romans/9#v5)</sup> Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen.
->
-> <sup>[6](/bible/romans/9#v6)</sup> Not as though the word of God hath taken none effect. For they are not all Israel, which are of Israel:
-
-- I say the truth in Christ, I lie not: Now get me what? Romans 9. I want y'all to follow this now.
 
 - For I could wish that myself were accursed from Christ: I could die for my, from Christ.
 
 - For my brethren: I can die. Die for my people.
 
 - My kinsmen according to the flesh: My kinsmen what? According to the flesh. His kinsmen according to the what? Flesh. Now in other versions it says race. My kinsmen according to my race. So Paul's referring to his own people here. He's mentioning race here, but I thought that didn't matter in Christ. I thought that race was not salvific. Well, Paul said, I wish I can be a curse to my brethren according to the flesh. He didn't say according to the spirit. He said according to the flesh.
+
+> <sup>[4](/bible/romans/9#v4)</sup> Who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;
 
 - Who are Israelites: He makes it clear who it is. Who are Israelites.
 
@@ -1025,9 +1021,13 @@ Reading from Definition of discontinue (read on screen)  *[[1:42:03](https://www
 
 - And the promises: The promises of Abraham, Isaac, and Jacob. We are the children of promise. Like he said in Galatians, that pertains to us.
 
+> <sup>[5](/bible/romans/9#v5)</sup> Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen.
+
 - Whose are the fathers: Whose belong? Those promises that pertain to the fathers belong to us.
 
 - And of whom as concerning the flesh Christ came: Concerning his race. CHRIST, FLESH AND BLOOD. CHRIST CAME. Christ came for that race of people. Christ came for that flesh and blood of Paul's. And who was Christ? Of that same race.
+
+> <sup>[6](/bible/romans/9#v6)</sup> Not as though the word of God hath taken none effect. For they are not all Israel, which are of Israel:
 
 - Not as though the word of God hath taken none effect: Stop. Remember Romans 3. But what if some do not believe? Will it make the word of God without what? Without effect. It's saying the exact same thing. From unbelievers.
 
@@ -1062,18 +1062,18 @@ Reading from Romans 9:3 in the NIV and a second version (read on screen)  *[[2:1
 **[Sirach 26:19-21](/bible/sirach/26#v19)**  *[[2:13:14](https://www.youtube.com/watch?v=1L2IOu7pA84&t=7994s)]*
 
 > <sup>[19](/bible/sirach/26#v19)</sup> My son, keep the flower of thine age sound; and give not thy strength to strangers.
->
-> <sup>[20](/bible/sirach/26#v20)</sup> When thou hast gotten a fruitful possession through all the field, sow it with thine own seed, trusting in the goodness of thy stock.
->
-> <sup>[21](/bible/sirach/26#v21)</sup> So thy race which thou leavest shall be magnified, having the confidence of their good descent.
 
 - My son, keep the flower of thine age sound: Matter of fact, give me real quick Sirach 26 and 19. Almost forgot. Keep the flower of your age sound.
 
 - And give not thy strength to strangers: Don't do what? Give not thy strength to strangers. Do not give your seed to a strange woman, or your womb to a strange man.
 
+> <sup>[20](/bible/sirach/26#v20)</sup> When thou hast gotten a fruitful possession through all the field, sow it with thine own seed, trusting in the goodness of thy stock.
+
 - Sow it with thine own seed: Do what? Sow it with thine own seed. So the fruitful field is your own woman. Israel women. Sow that with your own seed.
 
 - Trusting in the goodness of thy stock: Trusting in the goodness of your stock.
+
+> <sup>[21](/bible/sirach/26#v21)</sup> So thy race which thou leavest shall be magnified, having the confidence of their good descent.
 
 - So thy race: So your what? RACE. YOUR WHAT? RACE. Your race.
 
@@ -1085,12 +1085,12 @@ Reading from Romans 9:3 in the NIV and a second version (read on screen)  *[[2:1
 **[Romans 9:7-8](/bible/romans/9#v7)**  *[[2:14:47](https://www.youtube.com/watch?v=1L2IOu7pA84&t=8087s)]*
 
 > <sup>[7](/bible/romans/9#v7)</sup> Neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called.
->
-> <sup>[8](/bible/romans/9#v8)</sup> That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed.
 
 - Neither, because they are the seed of Abraham, are they all children: Neither because they are Abraham's seed are they all the children. What children? Children of God.
 
 - But, In Isaac shall thy seed be called: But in Isaac shall the seed that God deals with be called, or chosen. Stop. So the seed be called. He explains what that means in verse eight.
+
+> <sup>[8](/bible/romans/9#v8)</sup> That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed.
 
 - That is, They which are the children of the flesh: They which are the children of the flesh, Abraham's seed. Get it?
 
@@ -1106,7 +1106,9 @@ Reading from Romans 9:3 in the NIV and a second version (read on screen)  *[[2:1
 **[Genesis 25:1-7](/bible/genesis/25#v1)**  *[[2:16:22](https://www.youtube.com/watch?v=1L2IOu7pA84&t=8182s)]*
 
 > <sup>[1](/bible/genesis/25#v1)</sup> Then again Abraham took a wife, and her name was Keturah.
->
+
+- Then again Abraham took a wife, and her name was Keturah: So Abraham had six more children with Keturah after he had Ishmael and Isaac. He had eight children in total.
+
 > <sup>[2](/bible/genesis/25#v2)</sup> And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah.
 >
 > <sup>[3](/bible/genesis/25#v3)</sup> And Jokshan begat Sheba, and Dedan. And the sons of Dedan were Asshurim, and Letushim, and Leummim.
@@ -1114,20 +1116,18 @@ Reading from Romans 9:3 in the NIV and a second version (read on screen)  *[[2:1
 > <sup>[4](/bible/genesis/25#v4)</sup> And the sons of Midian; Ephah, and Epher, and Hanoch, and Abida, and Eldaah. All these were the children of Keturah.
 >
 > <sup>[5](/bible/genesis/25#v5)</sup> And Abraham gave all that he had unto Isaac.
->
-> <sup>[6](/bible/genesis/25#v6)</sup> But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country.
->
-> <sup>[7](/bible/genesis/25#v7)</sup> And these are the days of the years of Abraham’s life which he lived, an hundred threescore and fifteen years.
-
-- Then again Abraham took a wife, and her name was Keturah: So Abraham had six more children with Keturah after he had Ishmael and Isaac. He had eight children in total.
 
 - And Abraham gave all that he had unto Isaac: He did what? Why only Isaac? He had more than just one child. He had, according to this, he had seven here, cuz Ishmael got sent away. Ishmael was sent away at this point. Ishmael is gone. But he gave all unto Isaac.
+
+> <sup>[6](/bible/genesis/25#v6)</sup> But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country.
 
 - But unto the sons of the concubines, which Abraham had: That's Keturah and Hagar.
 
 - Abraham gave gifts: He gave them gifts.
 
 - And sent them away from Isaac his son: He did what? WHOA. ABRAHAM DID WHAT? He sent them. He says, "You can't be my son. My son's the heir. Y'all can't stay here. This belongs to him. Y'all got to go." He got rid of his six kids. They became Arab nations today. Arab nations now. Not the crazy ones that blow themselves up. That's wild Ishmael. But the other Arabic sons he had. That's them right here.
+
+> <sup>[7](/bible/genesis/25#v7)</sup> And these are the days of the years of Abraham’s life which he lived, an hundred threescore and fifteen years.
 
 - An hundred threescore and fifteen years: He lived 175 years. But he got rid of them six sons, though, and gave Isaac all his stuff now. So all these sons here, these six sons he had, were all Abraham's seed. Were they promised? No.
 
@@ -1158,30 +1158,18 @@ Reading from Romans 9:3 in the NIV and a second version (read on screen)  *[[2:1
 **[Romans 9:9-17](/bible/romans/9#v9)**  *[[2:21:33](https://www.youtube.com/watch?v=1L2IOu7pA84&t=8493s)]*
 
 > <sup>[9](/bible/romans/9#v9)</sup> For this is the word of promise, At this time will I come, and Sara shall have a son.
->
-> <sup>[10](/bible/romans/9#v10)</sup> And not only this; but when Rebecca also had conceived by one, even by our father Isaac;
->
-> <sup>[11](/bible/romans/9#v11)</sup> (For the children being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;)
->
-> <sup>[12](/bible/romans/9#v12)</sup> It was said unto her, The elder shall serve the younger.
->
-> <sup>[13](/bible/romans/9#v13)</sup> As it is written, Jacob have I loved, but Esau have I hated.
->
-> <sup>[14](/bible/romans/9#v14)</sup> What shall we say then? Is there unrighteousness with God? God forbid.
->
-> <sup>[15](/bible/romans/9#v15)</sup> For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.
->
-> <sup>[16](/bible/romans/9#v16)</sup> So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy.
->
-> <sup>[17](/bible/romans/9#v17)</sup> For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth.
 
 - For this is the word of promise: Now he explains. He says the children of the promise are counted for the seed, "For this is the word of promise."
 
 - At this time will I come, and Sarah shall have a son: When the Lord, the angels visited Abraham and said to him, "In your old age, you're going to have a son." That child was promised. Ishmael was not promised. He was born out of desire and lust for a child, for an heir. He wasn't promised. He was of the flesh. But the angel came and said, "Yo, both of y'all are old, but you're going to have a son in this certain set time." That's a promise. Isaac was a child of promise.
 
+> <sup>[10](/bible/romans/9#v10)</sup> And not only this; but when Rebecca also had conceived by one, even by our father Isaac;
+
 - And not only this: And not only this word of promise pertain to Sarah.
 
 - Even by our father Isaac: Our father Isaac. The Roman Israelites in Rome: our father Isaac. The same as in Galatians 4, brethren.
+
+> <sup>[11](/bible/romans/9#v11)</sup> (For the children being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;)
 
 - For the children being not yet born: The twins being not yet born.
 
@@ -1193,7 +1181,11 @@ Reading from Romans 9:3 in the NIV and a second version (read on screen)  *[[2:1
 
 - But of him that calleth: Because in Isaac shall thy seed be called, and out of Isaac, Jacob God called. Esau was rejected, like the other seven sons of Abraham were rejected.
 
+> <sup>[12](/bible/romans/9#v12)</sup> It was said unto her, The elder shall serve the younger.
+
 - It was said unto her: He's going to explain what this means. It was said unto who? Rebecca.
+
+> <sup>[13](/bible/romans/9#v13)</sup> As it is written, Jacob have I loved, but Esau have I hated.
 
 - As it is written: As it is written in Malachi.
 
@@ -1201,17 +1193,25 @@ Reading from Romans 9:3 in the NIV and a second version (read on screen)  *[[2:1
 
 - But Esau have I hated: I don't like Esau. I despise him. He's the devil the Bible speaks of.
 
+> <sup>[14](/bible/romans/9#v14)</sup> What shall we say then? Is there unrighteousness with God? God forbid.
+
 - What shall we say then?: So, what shall we say then, now that God chose one over the other?
 
 - Is there unrighteousness with God? God forbid: Is God wrong for hating one and loving the other? So the context does not change.
 
+> <sup>[15](/bible/romans/9#v15)</sup> For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.
+
 - I will have mercy on whom I will have mercy: I will choose a woman. But Moses was married to a heathen woman. The Lord said, "Yeah, I'll bypass that. Don't worry about that. I love Moses." Joseph married a heathen woman. "Don't worry about that. I love Joseph. Don't worry about that. But you don't do that. I chose them. I choose mercy. I have mercy upon, and I judge who I judge. I condemn who I condemn." So then mercy pertains to us.
+
+> <sup>[16](/bible/romans/9#v16)</sup> So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy.
 
 - So then it is not of him that willeth: You can't will it. You cannot will yourself to be a child of God. "I'MMA PRAY REALLY HARD. I'LL BE GOD'S CHILD IF I PRAY AND WILL IT." You can't will that. It's ancestral. It's through ancestry, bloodline.
 
 - Nor of him that runneth: Or you going to try to run and teach it? "WE CAN ALL BE SAVED. ANYBODY CAN BE SAVED." YOU TEACH IT. "YEAH. EVERYONE." NO. NO. NO. Don't run and teach that. It don't work. God said, "Before you were born, I already chose who I chose. Hate who I hate." You can't will or run that, or change that.
 
 - But of God that sheweth mercy: But of God, who God chooses.
+
+> <sup>[17](/bible/romans/9#v17)</sup> For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth.
 
 - For the scripture saith unto Pharaoh: Unto who? Pharaoh. Unto Egyptians. Remember, the context is Esau and Jacob. Paul is writing in code. He's telling the Israelites in Rome who love Massa: God didn't choose them. He chose us. He didn't choose Edom, or the Romans who y'all love. He chose us. The promise is for us. Get out of bed with them people over there.
 
@@ -1221,14 +1221,14 @@ Reading from Romans 9:3 in the NIV and a second version (read on screen)  *[[2:1
 **[Wisdom of Solomon 19:1-4](/bible/wisdom-of-solomon/19#v1)**  *[[2:26:30](https://www.youtube.com/watch?v=1L2IOu7pA84&t=8790s)]*
 
 > <sup>[1](/bible/wisdom-of-solomon/19#v1)</sup> As for the ungodly, wrath came upon them without mercy unto the end: for he knew before what they would do;
->
+
+- As for the ungodly, wrath came upon them without mercy unto the end: Hold real quick. The Egyptians.
+
 > <sup>[2](/bible/wisdom-of-solomon/19#v2)</sup> How that having given them leave to depart, and sent them hastily away, they would repent and pursue them.
 >
 > <sup>[3](/bible/wisdom-of-solomon/19#v3)</sup> For whilst they were yet mourning and making lamentation at the graves of the dead, they added another foolish device, and pursued them as fugitives, whom they had intreated to be gone.
 >
 > <sup>[4](/bible/wisdom-of-solomon/19#v4)</sup> For the destiny, whereof they were worthy, drew them unto this end, and made them forget the things that had already happened, that they might fulfil the punishment which was wanting to their torments:
-
-- As for the ungodly, wrath came upon them without mercy unto the end: Hold real quick. The Egyptians.
 
 - For the destiny: The what? The destiny. The destiny of the Egyptians, or their predestination.
 
@@ -1244,26 +1244,22 @@ Reading from Romans 9:3 in the NIV and a second version (read on screen)  *[[2:1
 **[Romans 9:17-22](/bible/romans/9#v17)**  *[[2:27:58](https://www.youtube.com/watch?v=1L2IOu7pA84&t=8878s)]*
 
 > <sup>[17](/bible/romans/9#v17)</sup> For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth.
->
-> <sup>[18](/bible/romans/9#v18)</sup> Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth.
->
-> <sup>[19](/bible/romans/9#v19)</sup> Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?
->
-> <sup>[20](/bible/romans/9#v20)</sup> Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?
->
-> <sup>[21](/bible/romans/9#v21)</sup> Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?
->
-> <sup>[22](/bible/romans/9#v22)</sup> What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:
 
 - That my name might be declared throughout all the earth: Cuz no one forgot about Egypt. No one forgot that.
+
+> <sup>[18](/bible/romans/9#v18)</sup> Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth.
 
 - Therefore hath he mercy on whom he will have mercy: That's us.
 
 - And whom he will he hardeneth: That's Pharaoh. Edom.
 
+> <sup>[19](/bible/romans/9#v19)</sup> Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?
+
 - Thou wilt say then unto me, Why doth he yet find fault?: So you say to Paul in response to that, well, if God hardens your mind to go against him, then why does he find fault in the person he hardens?
 
 - For who hath resisted his will?: Who can resist God's will if he hardens your heart?
+
+> <sup>[20](/bible/romans/9#v20)</sup> Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?
 
 - Nay but, O man: Paul says, nah, brother, watch your mouth.
 
@@ -1271,9 +1267,13 @@ Reading from Romans 9:3 in the NIV and a second version (read on screen)  *[[2:1
 
 - Shall the thing formed say to him that formed it, Why hast thou made me thus?: That's what the LGBTQ does. "I'm not a man. I'm a goat. I'M NOT A GOAT. I'M A SMURF. I'M A CAN OF SOUP. I'M A MERMAID." The hell is this? Well, God made you, you can't change. You got two balls in a penis, you're a man. You got ovaries and you bleed every month, you're a woman. "Oh, I'm trans. I'm trans." No, no, … You a man. You're a man, Damian. You're a man.
 
+> <sup>[21](/bible/romans/9#v21)</sup> Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?
+
 - Hath not the potter power over the clay: Has not God the power to move the clay the way he wants it, to harden his heart or not? If you're a potter, you mold the clay the way you want it to be molded, rebellious or evil, good or bad.
 
 - Of the same lump to make one vessel unto honour, and another unto dishonour: God made one vessel. Remember the context. One he loved, one he hates. He made one vessel to honor and another one to dishonor.
+
+> <sup>[22](/bible/romans/9#v22)</sup> What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:
 
 - What if God, willing to shew his wrath: WHAT IF GOD, WILLING TO SHOW HOW POWERFUL HE REALLY IS?
 
@@ -1293,10 +1293,6 @@ Reading from Romans 9:3 in the NIV and a second version (read on screen)  *[[2:1
 **[Romans 9:23-25](/bible/romans/9#v23)**  *[[2:30:53](https://www.youtube.com/watch?v=1L2IOu7pA84&t=9053s)]*
 
 > <sup>[23](/bible/romans/9#v23)</sup> And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory,
->
-> <sup>[24](/bible/romans/9#v24)</sup> Even us, whom he hath called, not of the Jews only, but also of the Gentiles?
->
-> <sup>[25](/bible/romans/9#v25)</sup> As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved.
 
 - And that he might make known the riches of his glory on the vessels of mercy: Who are the vessels of mercy?
 
@@ -1304,11 +1300,15 @@ Reading from Romans 9:3 in the NIV and a second version (read on screen)  *[[2:1
 
 - On the vessels of mercy: We are the vessels of mercy. That's us.
 
+> <sup>[24](/bible/romans/9#v24)</sup> Even us, whom he hath called, not of the Jews only, but also of the Gentiles?
+
 - Even us, whom he hath called: Even us whom he hath called. Going back to being vessels of mercy.
 
 - Not of the Jews only: Judah only.
 
 - But also of the Gentiles: As he saith also in Osee. Hosea 1:10, real fast.
+
+> <sup>[25](/bible/romans/9#v25)</sup> As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved.
 
 - As he saith also in Osee: So the Jew and Gentiles, he's quoting Hosea 1 verse 10. Hosea 1:10.
 

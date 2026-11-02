@@ -25,17 +25,15 @@ tags: ["IUIC in the ClassRoom", "endurance", "faith", "passover-feasts"]
 
 **[Leviticus 23:26-28](/bible/leviticus/23#v26)**  *[[10:53](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=653s)]*
 
-> <sup>[26](/bible/leviticus/23#v26)</sup> And the Lord spake unto Moses, saying,
->
-> <sup>[27](/bible/leviticus/23#v27)</sup> Also on the tenth day of this seventh month there shall be a day of atonement: it shall be an holy convocation unto you; and ye shall afflict your souls, and offer an offering made by fire unto the Lord.
->
-> <sup>[28](/bible/leviticus/23#v28)</sup> And ye shall do no work in that same day: for it is a day of atonement, to make an atonement for you before the Lord your God.
-
 - On the tenth day of the seventh month there shall be a day of atonement.
 
 - A just man falleth seven times but getteth back up again: we are going to make mistakes in this truth. The Lord could have easily cast you off and killed you, but he made a specific day for the entire twelve tribes to atone and repent.
 
 - The day of atonement is not a get out of jail free card. Cutting up all year because the day is coming and the Lord has to forgive you is a mindset the Lord has a special place for.
+
+> <sup>[26](/bible/leviticus/23#v26)</sup> And the Lord spake unto Moses, saying,
+>
+> <sup>[27](/bible/leviticus/23#v27)</sup> Also on the tenth day of this seventh month there shall be a day of atonement: it shall be an holy convocation unto you; and ye shall afflict your souls, and offer an offering made by fire unto the Lord.
 
 - It shall be an holy convocation: a lot of brothers and sisters have the ability to be there, because it's a commandment, a holy convocation, not an unholy separation. It should be face to face, not a phone call. Ye shall afflict your souls, and do no work, no buying or selling, in that day.
 
@@ -46,6 +44,8 @@ tags: ["IUIC in the ClassRoom", "endurance", "faith", "passover-feasts"]
     > <sup>[8](/bible/jonah/3#v8)</sup> But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in their hands.
 
     To afflict your soul is to humble down with a broken and contrite heart: not eating, not tasting water, crying mightily unto God and turning from your evil ways. Not eating a huge meal the day before or sleeping through the day of atonement; it shows you can control that flesh.
+
+> <sup>[28](/bible/leviticus/23#v28)</sup> And ye shall do no work in that same day: for it is a day of atonement, to make an atonement for you before the Lord your God.
 
 
 <div class="reading">
@@ -114,6 +114,12 @@ Reading from a dictionary, on the word convocation  *[[23:08](https://www.youtub
 
 **[Matthew 25:1-13](/bible/matthew/25#v1)**  *[[29:42](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=1782s)]*
 
+- The class is the foolish and the faithless because a lot of y'all some damn fools, and a lot of y'all faithless: been here ten, fifteen, twenty years and still not sincere, still take this walk as a game.
+
+- The bridegroom is Christ; the ten virgins are the elect espoused to Christ. The lamps are the commandments and the laws of God; the oil is understanding, wisdom and understanding stored up.
+
+- Five were wise, those that kept the commandments and applied them; five were foolish, the prating fool that took the day of atonement, the feast of tabernacles and the entire walk as a joke.
+
 > <sup>[1](/bible/matthew/25#v1)</sup> Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom.
 >
 > <sup>[2](/bible/matthew/25#v2)</sup> And five of them were wise, and five were foolish.
@@ -123,28 +129,6 @@ Reading from a dictionary, on the word convocation  *[[23:08](https://www.youtub
 > <sup>[4](/bible/matthew/25#v4)</sup> But the wise took oil in their vessels with their lamps.
 >
 > <sup>[5](/bible/matthew/25#v5)</sup> While the bridegroom tarried, they all slumbered and slept.
->
-> <sup>[6](/bible/matthew/25#v6)</sup> And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him.
->
-> <sup>[7](/bible/matthew/25#v7)</sup> Then all those virgins arose, and trimmed their lamps.
->
-> <sup>[8](/bible/matthew/25#v8)</sup> And the foolish said unto the wise, Give us of your oil; for our lamps are gone out.
->
-> <sup>[9](/bible/matthew/25#v9)</sup> But the wise answered, saying, Not so; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves.
->
-> <sup>[10](/bible/matthew/25#v10)</sup> And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut.
->
-> <sup>[11](/bible/matthew/25#v11)</sup> Afterward came also the other virgins, saying, Lord, Lord, open to us.
->
-> <sup>[12](/bible/matthew/25#v12)</sup> But he answered and said, Verily I say unto you, I know you not.
->
-> <sup>[13](/bible/matthew/25#v13)</sup> Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh.
-
-- The class is the foolish and the faithless because a lot of y'all some damn fools, and a lot of y'all faithless: been here ten, fifteen, twenty years and still not sincere, still take this walk as a game.
-
-- The bridegroom is Christ; the ten virgins are the elect espoused to Christ. The lamps are the commandments and the laws of God; the oil is understanding, wisdom and understanding stored up.
-
-- Five were wise, those that kept the commandments and applied them; five were foolish, the prating fool that took the day of atonement, the feast of tabernacles and the entire walk as a joke.
 
 - While the bridegroom tarried they all slumbered and slept: we discontinued from our heritage in captivity and forgot who we were. We went into captivity together, and we are coming out together; sisters, y'all fell asleep too.
 
@@ -210,6 +194,22 @@ Reading from a dictionary, on the word convocation  *[[23:08](https://www.youtub
 
     Watch, for ye know not when the master of the house cometh, lest coming suddenly he find you sleeping. What if Christ came in the midst of the day of atonement? Y'all would be jammed up.
 
+> <sup>[6](/bible/matthew/25#v6)</sup> And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him.
+>
+> <sup>[7](/bible/matthew/25#v7)</sup> Then all those virgins arose, and trimmed their lamps.
+>
+> <sup>[8](/bible/matthew/25#v8)</sup> And the foolish said unto the wise, Give us of your oil; for our lamps are gone out.
+>
+> <sup>[9](/bible/matthew/25#v9)</sup> But the wise answered, saying, Not so; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves.
+>
+> <sup>[10](/bible/matthew/25#v10)</sup> And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut.
+>
+> <sup>[11](/bible/matthew/25#v11)</sup> Afterward came also the other virgins, saying, Lord, Lord, open to us.
+>
+> <sup>[12](/bible/matthew/25#v12)</sup> But he answered and said, Verily I say unto you, I know you not.
+>
+> <sup>[13](/bible/matthew/25#v13)</sup> Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh.
+
 
 **[Matthew 7:21-23](/bible/matthew/7#v21)**  *[[1:02:29](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=3749s)]*
 
@@ -264,16 +264,10 @@ Reading from a dictionary, on the word convocation  *[[23:08](https://www.youtub
 **[2 Thessalonians 3:1-5](/bible/2-thessalonians/3#v1)**  *[[1:16:29](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=4589s)]*
 
 > <sup>[1](/bible/2-thessalonians/3#v1)</sup> Finally, brethren, pray for us, that the word of the Lord may have free course, and be glorified, even as it is with you:
->
-> <sup>[2](/bible/2-thessalonians/3#v2)</sup> And that we may be delivered from unreasonable and wicked men: for all men have not faith.
->
-> <sup>[3](/bible/2-thessalonians/3#v3)</sup> But the Lord is faithful, who shall stablish you, and keep you from evil.
->
-> <sup>[4](/bible/2-thessalonians/3#v4)</sup> And we have confidence in the Lord touching you, that ye both do and will do the things which we command you.
->
-> <sup>[5](/bible/2-thessalonians/3#v5)</sup> And the Lord direct your hearts into the love of God, and into the patient waiting for Christ.
 
 - Pray for us that the word of the Lord may have free course: support the booster club so the prophets can go to and fro through the earth. Papua New Guinea, Japan, China, India: boots are on the ground and brothers and sisters are repenting; the acts of the apostles are continuing right now.
+
+> <sup>[2](/bible/2-thessalonians/3#v2)</sup> And that we may be delivered from unreasonable and wicked men: for all men have not faith.
 
 - That we may be delivered from unreasonable and wicked men: those murdering and enslaving our people and pushing false doctrines wheresoever Israel is scattered.
 
@@ -288,6 +282,12 @@ Reading from a dictionary, on the word convocation  *[[23:08](https://www.youtub
     > <sup>[17](/bible/leviticus/19#v17)</sup> Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
 
     Thou shalt not hate thy brother in thine heart, but rebuke him: those who have the means but will not donate because they cannot go do not want correction to go forth throughout the planet. The Lord don't need y'all; there are more in reserve to take your seat.
+
+> <sup>[3](/bible/2-thessalonians/3#v3)</sup> But the Lord is faithful, who shall stablish you, and keep you from evil.
+>
+> <sup>[4](/bible/2-thessalonians/3#v4)</sup> And we have confidence in the Lord touching you, that ye both do and will do the things which we command you.
+>
+> <sup>[5](/bible/2-thessalonians/3#v5)</sup> And the Lord direct your hearts into the love of God, and into the patient waiting for Christ.
 
 
 *[[1:21:53](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=4913s)]* **In The News: An image of Brandon Tatum** — For all men have not faith: men that hope for our downfall; anybody against this truth does not hate us, he hates Christ.
@@ -359,8 +359,6 @@ Reading from a dictionary, on the word convocation  *[[23:08](https://www.youtub
 **[Psalms 5:5-6](/bible/psalms/5#v5)**  *[[1:39:36](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=5976s)]*
 
 > <sup>[5](/bible/psalms/5#v5)</sup> The foolish shall not stand in thy sight: thou hatest all workers of iniquity.
->
-> <sup>[6](/bible/psalms/5#v6)</sup> Thou shalt destroy them that speak leasing: the Lord will abhor the bloody and deceitful man.
 
 - The foolish shall not stand in thy sight: you cannot be a damn fool and stand in the sight of the Lord. You got a damn dunce hat on.
 
@@ -376,6 +374,8 @@ Reading from a dictionary, on the word convocation  *[[23:08](https://www.youtub
 
     How long will ye love vanity and seek after leasing: the lies of this world and doctrines of devils, the oppressor's agenda, Islam, Buddha, Chinese New Year, Kwanzaa, Christmas and Halloween on the 31st of this month. A lot of y'all have itching ears for pastors but will not seek after the Lord, the history or the whole book of Leviticus.
 
+> <sup>[6](/bible/psalms/5#v6)</sup> Thou shalt destroy them that speak leasing: the Lord will abhor the bloody and deceitful man.
+
 
 <div class="reading">
 
@@ -389,27 +389,23 @@ Reading from *Merriam-Webster's* dictionary, on the word leasing  *[[1:43:43](ht
 
 **[Matthew 16:21-27](/bible/matthew/16#v21)**  *[[1:46:22](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=6382s)]*
 
+- Christ was already preparing the disciples that he must go to Jerusalem, suffer and be killed. At his first Passover, with Captain Amaziah, Captain Shamaya and the deacons, he was told: Christ came to show you how to sacrifice yourselves. We are all walking sacrifices.
+
+- Peter, one of the chiefest apostles, rebuked Christ: doubt, fear and faithlessness, the foolish spirit, jumped on Peter and he forgot the mission. Get thee behind me, Satan.
+
 > <sup>[21](/bible/matthew/16#v21)</sup> From that time forth began Jesus to shew unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day.
 >
 > <sup>[22](/bible/matthew/16#v22)</sup> Then Peter took him, and began to rebuke him, saying, Be it far from thee, Lord: this shall not be unto thee.
 >
 > <sup>[23](/bible/matthew/16#v23)</sup> But he turned, and said unto Peter, Get thee behind me, Satan: thou art an offence unto me: for thou savourest not the things that be of God, but those that be of men.
->
-> <sup>[24](/bible/matthew/16#v24)</sup> Then said Jesus unto his disciples, If any man will come after me, let him deny himself, and take up his cross, and follow me.
->
-> <sup>[25](/bible/matthew/16#v25)</sup> For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it.
->
-> <sup>[26](/bible/matthew/16#v26)</sup> For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?
->
-> <sup>[27](/bible/matthew/16#v27)</sup> For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works.
-
-- Christ was already preparing the disciples that he must go to Jerusalem, suffer and be killed. At his first Passover, with Captain Amaziah, Captain Shamaya and the deacons, he was told: Christ came to show you how to sacrifice yourselves. We are all walking sacrifices.
-
-- Peter, one of the chiefest apostles, rebuked Christ: doubt, fear and faithlessness, the foolish spirit, jumped on Peter and he forgot the mission. Get thee behind me, Satan.
 
 - Thou savourest not the things that be of God: you would rather have the will of the Romans continue than see our people come out of captivity.
 
 - Deny yourself and take up your cross: the death that is coming before you for keeping the commandments. Y'all ain't been through persecution yet; when the tables turn, will you stand, or tuck tail and say I never was with them? Even for a piece of bread a man will transgress.
+
+> <sup>[24](/bible/matthew/16#v24)</sup> Then said Jesus unto his disciples, If any man will come after me, let him deny himself, and take up his cross, and follow me.
+>
+> <sup>[25](/bible/matthew/16#v25)</sup> For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it.
 
 - Whosoever will save his life shall lose it: living YOLO instead of killing the old man. You were bought at a price. What is a man profited if he gain the whole world, the riches the devil gives according to Matthew 4:8, and lose his own soul?
 
@@ -423,26 +419,18 @@ Reading from *Merriam-Webster's* dictionary, on the word leasing  *[[1:43:43](ht
 
     God is not unrighteous to forget your work and labour of love, ministering to the saints. Sisters minister to the prophets, the sick, the expecting mothers and the young Daughters of Sarah; show the same diligence to the full assurance of hope unto the end, and you are not faithless or foolish.
 
+> <sup>[26](/bible/matthew/16#v26)</sup> For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?
+>
+> <sup>[27](/bible/matthew/16#v27)</sup> For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works.
+
 
 **[Sirach 21:13-20](/bible/sirach/21#v13)**  *[[2:02:18](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=7338s)]*
 
 > <sup>[13](/bible/sirach/21#v13)</sup> The knowledge of a wise man shall abound like a flood: and his counsel is like a pure fountain of life.
->
-> <sup>[14](/bible/sirach/21#v14)</sup> The inner parts of a fool are like a broken vessel, and he will hold no knowledge as long as he liveth.
->
-> <sup>[15](/bible/sirach/21#v15)</sup> If a skilful man hear a wise word, he will commend it, and add unto it: but as soon as one of no understanding heareth it, it displeaseth him, and he casteth it behind his back.
->
-> <sup>[16](/bible/sirach/21#v16)</sup> The talking of a fool is like a burden in the way: but grace shall be found in the lips of the wise.
->
-> <sup>[17](/bible/sirach/21#v17)</sup> They enquire at the mouth of the wise man in the congregation, and they shall ponder his words in their heart.
->
-> <sup>[18](/bible/sirach/21#v18)</sup> As is a house that is destroyed, so is wisdom to a fool: and the knowledge of the unwise is as talk without sense.
->
-> <sup>[19](/bible/sirach/21#v19)</sup> Doctrine unto fools is as fetters on the feet, and like manacles on the right hand.
->
-> <sup>[20](/bible/sirach/21#v20)</sup> A fool lifteth up his voice with laughter; but a wise man doth scarce smile a little.
 
 - The knowledge of a wise man shall abound like a flood, and his counsel is like a pure fountain of life: the living water, Christ, in him.
+
+> <sup>[14](/bible/sirach/21#v14)</sup> The inner parts of a fool are like a broken vessel, and he will hold no knowledge as long as he liveth.
 
 - The inner parts of a fool are like a broken vessel, and he will hold no knowledge: all chips and cracks inside the spiritual man or woman, like your mama's pot you tried to super glue back together.
 
@@ -452,7 +440,19 @@ Reading from *Merriam-Webster's* dictionary, on the word leasing  *[[1:43:43](ht
 
 - The wise inquire at the mouth of the wise men in the congregation: wear out the doorsteps of the bishops and the deacons.
 
+> <sup>[15](/bible/sirach/21#v15)</sup> If a skilful man hear a wise word, he will commend it, and add unto it: but as soon as one of no understanding heareth it, it displeaseth him, and he casteth it behind his back.
+>
+> <sup>[16](/bible/sirach/21#v16)</sup> The talking of a fool is like a burden in the way: but grace shall be found in the lips of the wise.
+>
+> <sup>[17](/bible/sirach/21#v17)</sup> They enquire at the mouth of the wise man in the congregation, and they shall ponder his words in their heart.
+>
+> <sup>[18](/bible/sirach/21#v18)</sup> As is a house that is destroyed, so is wisdom to a fool: and the knowledge of the unwise is as talk without sense.
+>
+> <sup>[19](/bible/sirach/21#v19)</sup> Doctrine unto fools is as fetters on the feet, and like manacles on the right hand.
+
 - Doctrine unto fools is as fetters on the feet: to sit down, study and take notes is a chain to them. When can we break bread? I got to go to work.
+
+> <sup>[20](/bible/sirach/21#v20)</sup> A fool lifteth up his voice with laughter; but a wise man doth scarce smile a little.
 
 
 **[Luke 7:29-34](/bible/luke/7#v29)**  *[[2:09:34](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=7774s)]*
@@ -507,13 +507,13 @@ Reading from a dictionary, on the word malevolent  *[[2:16:34](https://www.youtu
 
 **[Proverbs 6:32-33](/bible/proverbs/6#v32)**  *[[2:20:22](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=8422s)]*
 
-> <sup>[32](/bible/proverbs/6#v32)</sup> But whoso committeth adultery with a woman lacketh understanding: he that doeth it destroyeth his own soul.
->
-> <sup>[33](/bible/proverbs/6#v33)</sup> A wound and dishonour shall he get; and his reproach shall not be wiped away.
-
 - Whoso committeth adultery lacketh understanding: men going to massage parlors, then telling their wives they did it and do not want this truth anymore.
 
+> <sup>[32](/bible/proverbs/6#v32)</sup> But whoso committeth adultery with a woman lacketh understanding: he that doeth it destroyeth his own soul.
+
 - He that doeth it destroyeth his own soul: you are your own worst enemy.
+
+> <sup>[33](/bible/proverbs/6#v33)</sup> A wound and dishonour shall he get; and his reproach shall not be wiped away.
 
 - His reproach shall not be wiped away: there is a tab on you and the Lord is coming to collect. Repent.
 
@@ -523,12 +523,6 @@ Reading from a dictionary, on the word malevolent  *[[2:16:34](https://www.youtu
 **[Sirach 15:17-20](/bible/sirach/15#v17)**  *[[2:23:26](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=8606s)]*
 
 > <sup>[17](/bible/sirach/15#v17)</sup> Before man is life and death; and whether him liketh shall be given him.
->
-> <sup>[18](/bible/sirach/15#v18)</sup> For the wisdom of the Lord is great, and he is mighty in power, and beholdeth all things:
->
-> <sup>[19](/bible/sirach/15#v19)</sup> And his eyes are upon them that fear him, and he knoweth every work of man.
->
-> <sup>[20](/bible/sirach/15#v20)</sup> He hath commanded no man to do wickedly, neither hath he given any man licence to sin.
 
 - Before man is life and death: it was already given to you. Choose ye this day, life or death, as Moses said.
 
@@ -545,6 +539,12 @@ Reading from a dictionary, on the word malevolent  *[[2:16:34](https://www.youtu
     > <sup>[3](/bible/deuteronomy/30#v3)</sup> That then the Lord thy God will turn thy captivity, and have compassion upon thee, and will return and gather thee from all the nations, whither the Lord thy God hath scattered thee.
 
     For those that think they can get away with it: when the blessing and the curse are come upon thee among all the nations, and thou return and obey his voice, then the Lord will turn thy captivity.
+
+> <sup>[18](/bible/sirach/15#v18)</sup> For the wisdom of the Lord is great, and he is mighty in power, and beholdeth all things:
+>
+> <sup>[19](/bible/sirach/15#v19)</sup> And his eyes are upon them that fear him, and he knoweth every work of man.
+>
+> <sup>[20](/bible/sirach/15#v20)</sup> He hath commanded no man to do wickedly, neither hath he given any man licence to sin.
 
 
 **[Sirach 21:2](/bible/sirach/21#v2)**  *[[2:25:56](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=8756s)]*
@@ -642,14 +642,14 @@ Reading from an article on the blood knife trap  *[[2:30:57](https://www.youtube
 **[Sirach 17:25-26](/bible/sirach/17#v25)**  *[[2:33:09](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=9189s)]*
 
 > <sup>[25](/bible/sirach/17#v25)</sup> Return unto the Lord, and forsake thy sins, make thy prayer before his face, and offend less.
->
-> <sup>[26](/bible/sirach/17#v26)</sup> Turn again to the most High, and turn away from iniquity: for he will lead thee out of darkness into the light of health, and hate thou abomination vehemently.
 
 - Return unto the Lord and forsake thy sins: make atonement of thy sins.
 
 - Make thy prayer before his face and offend less: we all have a clean slate, Israel.
 
 - Turn again to the most High and turn away from iniquity, for he will lead thee out of darkness into the light of health.
+
+> <sup>[26](/bible/sirach/17#v26)</sup> Turn again to the most High, and turn away from iniquity: for he will lead thee out of darkness into the light of health, and hate thou abomination vehemently.
 
 
 ## Class Questions

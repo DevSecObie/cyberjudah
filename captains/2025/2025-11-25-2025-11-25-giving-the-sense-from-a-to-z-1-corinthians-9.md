@@ -44,13 +44,13 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "leadership", "purpose", 
 
 **[2 Peter 3:15-16](/bible/2-peter/3#v15)**  *[[7:08](https://www.youtube.com/watch?v=oPYGeScbJX8&t=428s)]*
 
-> <sup>[15](/bible/2-peter/3#v15)</sup> And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;
->
-> <sup>[16](/bible/2-peter/3#v16)</sup> As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction.
-
 - 2 Peter 3: Always got to read this before we go into Paul's writings.
 
+> <sup>[15](/bible/2-peter/3#v15)</sup> And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;
+
 - And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you: But the Bible says, and account that the longsuffering of our Lord is salvation, even as our beloved brother Paul, according to the wisdom given unto him have written unto you, as also in all his epistles, speaking in them of these things, in which are some things hard to be understood. Some of the things that Paul wrote were hard to be understood by who? Which those that are unlearned and unstable wrest. Right? That was 2 Peter 3:15-16 we just read.
+
+> <sup>[16](/bible/2-peter/3#v16)</sup> As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction.
 
 - As they do also the other scriptures, unto their own destruction: Some people, they don't understand the other scriptures. So therefore they also twist Paul's writings. And in order for you to understand Paul's writings, you must have an understanding of the Old Testament. Anybody that tells you you can just start at the Gospels and then read Acts and then read the Epistles of Paul, you're going to have a clear understanding, they're lying to you, brothers and sisters. They're lying to you. You must understand the Old Testament.
 
@@ -84,10 +84,10 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "leadership", "purpose", 
 **[1 Corinthians 9:1-2](/bible/1-corinthians/9#v1)**  *[[15:52](https://www.youtube.com/watch?v=oPYGeScbJX8&t=952s)]*
 
 > <sup>[1](/bible/1-corinthians/9#v1)</sup> Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord?
->
-> <sup>[2](/bible/1-corinthians/9#v2)</sup> If I be not an apostle unto others, yet doubtless I am to you: for the seal of mine apostleship are ye in the Lord.
 
 - Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord?: Right? So Paul is saying, "Am I not an apostle? Am I not free? Have I not seen Jesus Christ our Lord? Are not ye my work in the Lord?" Who we talking about? The Corinthian church. Y'all are my work in the Lord. You are proof that I'm an apostle.
+
+> <sup>[2](/bible/1-corinthians/9#v2)</sup> If I be not an apostle unto others, yet doubtless I am to you: for the seal of mine apostleship are ye in the Lord.
 
 - For the seal of mine apostleship are ye in the Lord: You are the seal of mine apostleship. Based off how you have grown in the spirit shows that I am an apostle, that Christ did send me.
 
@@ -95,44 +95,44 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "leadership", "purpose", 
 **[Acts 18:1-11](/bible/acts/18#v1)**  *[[16:40](https://www.youtube.com/watch?v=oPYGeScbJX8&t=1000s)]*
 
 > <sup>[1](/bible/acts/18#v1)</sup> After these things Paul departed from Athens, and came to Corinth;
->
+
+- After these things Paul departed from Athens, and came to Corinth: So Paul left Athens and came to Corinth.
+
 > <sup>[2](/bible/acts/18#v2)</sup> And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.
 >
 > <sup>[3](/bible/acts/18#v3)</sup> And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.
 >
 > <sup>[4](/bible/acts/18#v4)</sup> And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks.
->
-> <sup>[5](/bible/acts/18#v5)</sup> And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews that Jesus was Christ.
->
-> <sup>[6](/bible/acts/18#v6)</sup> And when they opposed themselves, and blasphemed, he shook his raiment, and said unto them, Your blood be upon your own heads; I am clean: from henceforth I will go unto the Gentiles.
->
-> <sup>[7](/bible/acts/18#v7)</sup> And he departed thence, and entered into a certain man’s house, named Justus, one that worshipped God, whose house joined hard to the synagogue.
->
-> <sup>[8](/bible/acts/18#v8)</sup> And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized.
->
-> <sup>[9](/bible/acts/18#v9)</sup> Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace:
->
-> <sup>[10](/bible/acts/18#v10)</sup> For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city.
->
-> <sup>[11](/bible/acts/18#v11)</sup> And he continued there a year and six months, teaching the word of God among them.
-
-- After these things Paul departed from Athens, and came to Corinth: So Paul left Athens and came to Corinth.
 
 - And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks: Right? It said and he reasoned in the synagogue every Sabbath and persuaded the Jews and the Greeks. Now why were Greeks in the synagogue of the Jews? Because those were Greek-speaking Jews. Those are Israelites. Those are the Greeks that was in the synagogue with the Jews. You had the Hebraic Jews that spoke Hebrew. Then you had the Hellenistic Jews that spoke Greek. All right. They were Hellenized. So why were they in the synagogue in Corinth? Because they were all Israelites.
 
+> <sup>[5](/bible/acts/18#v5)</sup> And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews that Jesus was Christ.
+
 - Paul was pressed in the spirit, and testified to the Jews that Jesus was Christ: Out of the Old Testament.
+
+> <sup>[6](/bible/acts/18#v6)</sup> And when they opposed themselves, and blasphemed, he shook his raiment, and said unto them, Your blood be upon your own heads; I am clean: from henceforth I will go unto the Gentiles.
 
 - From henceforth I will go unto the Gentiles: So he warned the Jews first. Why? Why did he warn the Jews first?
 
 - From henceforth I will go unto the Gentiles: Right? From henceforth I will go unto the Gentiles. So he went to those Jews and those Jews rejected him. Not all of them, but some of them. They rejected. And he said, "Okay, well, from here on out, I'm going to the Gentiles." Meaning what? The Israelites that was scattered amongst the Corinthians and scattered amongst Gentile nations, living like Gentiles. So, I'm going to them now. I'm not dealing with you Jews right now. Those of you that don't believe, I'm dusting my feet off of you. But the ones of you that do believe, y'all can stick around. And I'm going to show you that that's true.
 
+> <sup>[7](/bible/acts/18#v7)</sup> And he departed thence, and entered into a certain man’s house, named Justus, one that worshipped God, whose house joined hard to the synagogue.
+
 - Whose house joined hard to the synagogue: So this man house joined hard to the synagogue. Watch this.
+
+> <sup>[8](/bible/acts/18#v8)</sup> And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized.
 
 - And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house: Now notice what it says. It says Crispus was the chief ruler of the synagogue. A Gentile was a chief ruler of the synagogue of the Jews? No, that was a Jew. Crispus was a Jew, the chief ruler of the synagogue. So, all the Jews did not reject what Paul was saying regarding Christ. Some did, some did not. Some did, some did not. Crispus was one of those that did believe.
 
 - And many of the Corinthians hearing believed, and were baptized: And then it says, "And many of the Corinthians." What does it mean? The Corinthians, Israelites in Corinth, Israelites in Corinth, they believed. You understand?
 
+> <sup>[9](/bible/acts/18#v9)</sup> Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace:
+>
+> <sup>[10](/bible/acts/18#v10)</sup> For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city.
+
 - For I have much people in this city: So the Lord told him, I got a lot of people in Corinth. I got a lot of people in this city. Just make sure you stick here. Don't be afraid. Just go teach. I got a lot of people here in this particular city.
+
+> <sup>[11](/bible/acts/18#v11)</sup> And he continued there a year and six months, teaching the word of God among them.
 
 - And he continued there a year and six months, teaching the word of God among them: Right? So Paul spent 18 months in Corinth.
 
@@ -196,11 +196,17 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "leadership", "purpose", 
 > <sup>[14](/bible/1-corinthians/4#v14)</sup> I write not these things to shame you, but as my beloved sons I warn you.
 >
 > <sup>[15](/bible/1-corinthians/4#v15)</sup> For though ye have ten thousand instructors in Christ, yet have ye not many fathers: for in Christ Jesus I have begotten you through the gospel.
->
+
+- For though ye have ten thousand instructors in Christ, yet have ye not many fathers: So the Bible says, for though ye have 10,000 instructors in Christ. The Corinthian church was growing fast, and there were young men coming into the church that were learning the Bible and they could teach. They had the spirit on them. They could teach, but they were not fathers. Just like us. A lot of us can teach. Bishop Nathanyel and the bishops and the deacons have done an excellent job of instructing young men to come into this ministry and to take up the mantle, to do the work, to evangelize, but we are not yet fathers. We are not yet fathers. It take time to become a father in this truth.
+
+- Yet have ye not many fathers: We got the bishops in their 30s in this truth, some of the deacons in their 20s in this truth, which is the age in which men usually have children. Then you got brothers that's 15, 16, 17, 19, 12, 11. These are not fathers. These are not fathers. So, at the end of the day, we don't have a lot of fathers in the truth. That's why we lean on our leadership to help guide us. These young camps that you see going around running their mouth, debating white folks, changing doctrines, them folks right there do not have fathers in this truth. Although they can teach. That's what it says. You have 10,000 instructors in Christ, but you have not many fathers. Y'all think this is new. This ain't new. You think this is new. This is not new. This is ancient. They've been doing this. The spirit's been on the earth. There's no new thing under the sun.
+
 > <sup>[16](/bible/1-corinthians/4#v16)</sup> Wherefore I beseech you, be ye followers of me.
 >
 > <sup>[17](/bible/1-corinthians/4#v17)</sup> For this cause have I sent unto you Timotheus, who is my beloved son, and faithful in the Lord, who shall bring you into remembrance of my ways which be in Christ, as I teach every where in every church.
->
+
+- For this cause have I sent unto you Timotheus, who is my beloved son, and faithful in the Lord: So he sent Timothy, who also was a young man, but he trusted Timothy. So he sent Timothy and it says, "For this cause have I sent you Timotheus, who is my beloved son and faithful in the Lord, who shall bring you into remembrance of my ways which be in Christ, as I teach everywhere in every church." The things that the leadership teaches us, we bring to the congregations just like Paul did with Timothy. There's no difference.
+
 > <sup>[18](/bible/1-corinthians/4#v18)</sup> Now some are puffed up, as though I would not come to you.
 >
 > <sup>[19](/bible/1-corinthians/4#v19)</sup> But I will come to you shortly, if the Lord will, and will know, not the speech of them which are puffed up, but the power.
@@ -208,12 +214,6 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "leadership", "purpose", 
 > <sup>[20](/bible/1-corinthians/4#v20)</sup> For the kingdom of God is not in word, but in power.
 >
 > <sup>[21](/bible/1-corinthians/4#v21)</sup> What will ye? shall I come unto you with a rod, or in love, and in the spirit of meekness?
-
-- For though ye have ten thousand instructors in Christ, yet have ye not many fathers: So the Bible says, for though ye have 10,000 instructors in Christ. The Corinthian church was growing fast, and there were young men coming into the church that were learning the Bible and they could teach. They had the spirit on them. They could teach, but they were not fathers. Just like us. A lot of us can teach. Bishop Nathanyel and the bishops and the deacons have done an excellent job of instructing young men to come into this ministry and to take up the mantle, to do the work, to evangelize, but we are not yet fathers. We are not yet fathers. It take time to become a father in this truth.
-
-- Yet have ye not many fathers: We got the bishops in their 30s in this truth, some of the deacons in their 20s in this truth, which is the age in which men usually have children. Then you got brothers that's 15, 16, 17, 19, 12, 11. These are not fathers. These are not fathers. So, at the end of the day, we don't have a lot of fathers in the truth. That's why we lean on our leadership to help guide us. These young camps that you see going around running their mouth, debating white folks, changing doctrines, them folks right there do not have fathers in this truth. Although they can teach. That's what it says. You have 10,000 instructors in Christ, but you have not many fathers. Y'all think this is new. This ain't new. You think this is new. This is not new. This is ancient. They've been doing this. The spirit's been on the earth. There's no new thing under the sun.
-
-- For this cause have I sent unto you Timotheus, who is my beloved son, and faithful in the Lord: So he sent Timothy, who also was a young man, but he trusted Timothy. So he sent Timothy and it says, "For this cause have I sent you Timotheus, who is my beloved son and faithful in the Lord, who shall bring you into remembrance of my ways which be in Christ, as I teach everywhere in every church." The things that the leadership teaches us, we bring to the congregations just like Paul did with Timothy. There's no difference.
 
 - Shall I come unto you with a rod: That rod is correction. The correction of the scriptures.
 
@@ -242,16 +242,16 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "leadership", "purpose", 
 **[1 Corinthians 9:7-10](/bible/1-corinthians/9#v7)**  *[[31:12](https://www.youtube.com/watch?v=oPYGeScbJX8&t=1872s)]*
 
 > <sup>[7](/bible/1-corinthians/9#v7)</sup> Who goeth a warfare any time at his own charges? who planteth a vineyard, and eateth not of the fruit thereof? or who feedeth a flock, and eateth not of the milk of the flock?
->
-> <sup>[8](/bible/1-corinthians/9#v8)</sup> Say I these things as a man? or saith not the law the same also?
->
-> <sup>[9](/bible/1-corinthians/9#v9)</sup> For it is written in the law of Moses, Thou shalt not muzzle the mouth of the ox that treadeth out the corn. Doth God take care for oxen?
->
-> <sup>[10](/bible/1-corinthians/9#v10)</sup> Or saith he it altogether for our sakes? For our sakes, no doubt, this is written: that he that ploweth should plow in hope; and that he that thresheth in hope should be partaker of his hope.
 
 - Who goeth a warfare any time at his own charges?: Right. So now he's saying if you go to war, you don't go to war with your own money. The money is given to you by the country that you going to war for. You don't bring out your own. You go to war, yet they send you off as a warrior, as a captain, as a leader, but you don't use your own funds. Who go to warfare on his own charges? And who planteth the vineyard and eateth not the fruit thereof? You understand?
 
+> <sup>[8](/bible/1-corinthians/9#v8)</sup> Say I these things as a man? or saith not the law the same also?
+>
+> <sup>[9](/bible/1-corinthians/9#v9)</sup> For it is written in the law of Moses, Thou shalt not muzzle the mouth of the ox that treadeth out the corn. Doth God take care for oxen?
+
 - For it is written in the law of Moses, Thou shalt not muzzle the mouth of the ox that treadeth out the corn: Right, so what is he saying? The law that was written, the law he talking about, is in the book of Deuteronomy. Deuteronomy 25:4.
+
+> <sup>[10](/bible/1-corinthians/9#v10)</sup> Or saith he it altogether for our sakes? For our sakes, no doubt, this is written: that he that ploweth should plow in hope; and that he that thresheth in hope should be partaker of his hope.
 
 - Doth God take care for oxen? Or saith he it altogether for our sakes?: So he said for it is written in the law of Moses, thou shalt not muzzle the mouth of the ox that treadeth out the corn. Doth God take care for oxen, or saith he it altogether for our sake? For our sakes, no doubt this is written, that he that ploweth should plow in hope, and he that thresheth in hope should be partaker of his hope. Meaning what? If I go to war, or if I just use the analogy that the Bible uses regarding an ox: if you got that ox out there plowing in the field and you don't feed him, as he's plowing and walking through the fields, he see all of this food out here, he can't eat none of it. And he doing this work to make sure that you can bring forth plenteous more, and he can't be able to reap nothing from it. Come on, that don't make sense. Paul said, "Look, that ain't just written for the ox. That's written for us." Meaning what? The leadership.
 
@@ -316,28 +316,28 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "leadership", "purpose", 
 > <sup>[10](/bible/1-corinthians/9#v10)</sup> Or saith he it altogether for our sakes? For our sakes, no doubt, this is written: that he that ploweth should plow in hope; and that he that thresheth in hope should be partaker of his hope.
 >
 > <sup>[11](/bible/1-corinthians/9#v11)</sup> If we have sown unto you spiritual things, is it a great thing if we shall reap your carnal things?
->
-> <sup>[12](/bible/1-corinthians/9#v12)</sup> If others be partakers of this power over you, are not we rather? Nevertheless we have not used this power; but suffer all things, lest we should hinder the gospel of Christ.
->
-> <sup>[13](/bible/1-corinthians/9#v13)</sup> Do ye not know that they which minister about holy things live of the things of the temple? and they which wait at the altar are partakers with the altar?
->
-> <sup>[14](/bible/1-corinthians/9#v14)</sup> Even so hath the Lord ordained that they which preach the gospel should live of the gospel.
->
-> <sup>[15](/bible/1-corinthians/9#v15)</sup> But I have used none of these things: neither have I written these things, that it should be so done unto me: for it were better for me to die, than that any man should make my glorying void.
 
 - If we have sown unto you spiritual things, is it a great thing if we shall reap your carnal things?: But we done taught y'all the Bible. We done built you up. We done taught you the things of Christ, things that you never understood. You now understand salvation is for you because of what we taught. And you can't even help us out with some shekels or some coins or a place to stay or funds to get back and forth or funds to help your brothers that also are learning Christ on the other side of the world or the other side of Europe. Come on, man. This is ridiculous.
+
+> <sup>[12](/bible/1-corinthians/9#v12)</sup> If others be partakers of this power over you, are not we rather? Nevertheless we have not used this power; but suffer all things, lest we should hinder the gospel of Christ.
 
 - If others be partakers of this power over you, are not we rather?: Right. He say, "Listen, other men have power over you, and they take advantage. You're helping them out, but you won't help us, the apostles, out that you learn from."
 
 - Nevertheless we have not used this power; but suffer all things, lest we should hinder the gospel of Christ: He said, "You know what? Nevertheless, we have not used this power." They had that power, but they didn't use it. This is honorable what we reading right here, but it's also a shame. It's honorable on the side of Paul, but it's also a shame that these men did not want to help him. You understand? So, he said, but we suffer all things lest we should hinder the gospel of Christ. We're not going to get into it about that because it will hinder the gospel. We're not going to argue with you about y'all want to help us and stuff, because it'll hinder the gospel. It'll stop the work from be done. It's a distraction. We're not going to deal with distraction.
 
+> <sup>[13](/bible/1-corinthians/9#v13)</sup> Do ye not know that they which minister about holy things live of the things of the temple? and they which wait at the altar are partakers with the altar?
+
 - Do ye not know that they which minister about holy things live of the things of the temple?: Talking about the priests.
 
 - And they which wait at the altar are partakers with the altar?: So wait a minute. It says, "And they that wait at the altar are partakers of the altar." What is he talking about? The priest would eat at the altar. You do realize that, right? The priest ate the shewbread. The priest was able to eat of the sacrifices. The Levites didn't have land allotted unto them. They lived amongst all the tribes and the tribes brought forth the tithes to help them and to help the fatherless and the widows. So he giving them some understanding, like you don't understand the law. You don't understand what the laws are saying.
 
+> <sup>[14](/bible/1-corinthians/9#v14)</sup> Even so hath the Lord ordained that they which preach the gospel should live of the gospel.
+
 - Even so hath the Lord ordained that they which preach the gospel should live of the gospel: You hear that? The Lord ordained that they that preach the gospel should live of the gospel. Those that go out and teach the word, those that do the work, the Bible says that they supposed to be helped. This is what the booster club is about. And guess what? These men not pocketing this money. When we get these trips, we going to do the work. When we was just in Nigeria, we up at 7 o'clock every morning. John been with me on trips. We up early going to community cleanups, radio shows, teaching at schools, doing different things, building the men up till late at night, waking up the next morning, going traveling here. I learned that from leadership.
 
 - They which preach the gospel should live of the gospel: My first time traveling with the bishops and deacons and captains out of the country, I was exhausted. Not exhausted because we was partying. I was exhausted because we went to work the whole day, from the time we got up that morning to the time we got back to the hotel and had our food and fellowship for a little while. We was working, and I watched the bishops and deacons go from radio show to radio show to camp to radio show to television show to meeting with this person to going to this church, sit down, to dealing with these pastors, to going to deal with the congregation, to building up. You like, man, these men are machines. How they do this? A full-time job. So imagine as Christ is being spread back at that time, it's a lot of work to be done. So guess what? Even so hath the Lord ordained that they which preach the gospel should live of the gospel. Meaning we not putting this money in our pocket to live lavishly. This money is so that we can travel to do more work. Some of you haven't understood that.
+
+> <sup>[15](/bible/1-corinthians/9#v15)</sup> But I have used none of these things: neither have I written these things, that it should be so done unto me: for it were better for me to die, than that any man should make my glorying void.
 
 - For it were better for me to die, than that any man should make my glorying void: Right. My glorying, his glorying in the Lord. So you're not going to make my glorying void by trying to throw these things in my face that you help me out. I rather just go and just work. I rather just go and just do what I got to do, because I ain't got time for y'all to be spitting in my face constantly trying to remind me, oh yeah, remember that time we helped you? Remember that time we helped you out? He's like, no, I'm good. I rather just do the work. I ain't even using my power. This some good stuff we read right here.
 
@@ -347,34 +347,34 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "leadership", "purpose", 
 **[Philippians 4:10-17](/bible/philippians/4#v10)**  *[[50:03](https://www.youtube.com/watch?v=oPYGeScbJX8&t=3003s)]*
 
 > <sup>[10](/bible/philippians/4#v10)</sup> But I rejoiced in the Lord greatly, that now at the last your care of me hath flourished again; wherein ye were also careful, but ye lacked opportunity.
->
-> <sup>[11](/bible/philippians/4#v11)</sup> Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content.
->
-> <sup>[12](/bible/philippians/4#v12)</sup> I know both how to be abased, and I know how to abound: every where and in all things I am instructed both to be full and to be hungry, both to abound and to suffer need.
->
-> <sup>[13](/bible/philippians/4#v13)</sup> I can do all things through Christ which strengtheneth me.
->
-> <sup>[14](/bible/philippians/4#v14)</sup> Notwithstanding ye have well done, that ye did communicate with my affliction.
->
-> <sup>[15](/bible/philippians/4#v15)</sup> Now ye Philippians know also, that in the beginning of the gospel, when I departed from Macedonia, no church communicated with me as concerning giving and receiving, but ye only.
->
-> <sup>[16](/bible/philippians/4#v16)</sup> For even in Thessalonica ye sent once and again unto my necessity.
->
-> <sup>[17](/bible/philippians/4#v17)</sup> Not because I desire a gift: but I desire fruit that may abound to your account.
 
 - Wherein ye were also careful, but ye lacked opportunity: So the church in Philippi wanted to help Paul, but they could not help him. They lacked opportunity.
+
+> <sup>[11](/bible/philippians/4#v11)</sup> Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content.
 
 - Not that I speak in respect of want: And I'm not saying that because I don't have anything.
 
 - For I have learned, in whatsoever state I am, therewith to be content: Paul said, "Over the years of me traveling and doing this work for Christ, the Lord is always taking care of me." You understand? So, I understand that sometimes you got to be able to be content with what you have all the time.
 
+> <sup>[12](/bible/philippians/4#v12)</sup> I know both how to be abased, and I know how to abound: every where and in all things I am instructed both to be full and to be hungry, both to abound and to suffer need.
+
 - I know both how to be abased, and I know how to abound: So Paul understood how to maneuver. If he had it, he was good. If he didn't have it, he was good. He learned how to be content. So when the brothers couldn't help him, or when the church of Corinth didn't want to help him, Paul found out a way to make it work regardless. That's some good stuff right there. That's some real leadership right there. I'm not going to hinder the gospel by going back and forth with y'all about how much y'all didn't help me, or trying to go back and forth saying that y'all supposed to help me. Even though I'm writing these things, I'm not writing these things so that you'll help me. I'm just letting you know the spirit that you're of, and how as a leader, as apostle, and the works that we're doing for the Lord, we can forbear working, is what he's saying. That's what he's saying. The apostles could forbear working because of the work of the Lord that they did. Just like the Levites couldn't work because they was always doing the work of the Lord. Bam. This some good history right here.
+
+> <sup>[13](/bible/philippians/4#v13)</sup> I can do all things through Christ which strengtheneth me.
 
 - I can do all things through Christ which strengtheneth me: So you see what that scripture talking about? That scripture ain't talking about, oh, I'm trying to hit the game-winning jump shot, I can do all things through Christ Jesus that strengthen me. Oh, I'm trying to have a Fortune 500 company, I can do all things through Christ Jesus that strengthened me. No, Paul was talking about how the church did not want to help him. And he just learned how to get it done. He learned how to make ends meet. He learned whether he was hungry, he could still be able to eat. And if he was abounding, he knew how to deal. He never allowed himself to get too high. Never allowed himself to get low. He was able to still deal with how he needed to deal. You understand? To be content. So I can do all things through Christ Jesus that strengthens me.
 
+> <sup>[14](/bible/philippians/4#v14)</sup> Notwithstanding ye have well done, that ye did communicate with my affliction.
+>
+> <sup>[15](/bible/philippians/4#v15)</sup> Now ye Philippians know also, that in the beginning of the gospel, when I departed from Macedonia, no church communicated with me as concerning giving and receiving, but ye only.
+
 - No church communicated with me as concerning giving and receiving, but ye only: Y'all the only ones that helped me out. Y'all was the only ones that communicated with me regarding giving and receiving. This goes back into the treasury. They were the only church that really communicated with him regarding the treasury.
 
+> <sup>[16](/bible/philippians/4#v16)</sup> For even in Thessalonica ye sent once and again unto my necessity.
+
 - For even in Thessalonica ye sent once and again unto my necessity: You hear that? They sent alms to the Apostle Paul. What are we reading? The Holy Bible. The Holy Bible. They still helped the Apostle Paul. They found a way to help the brother.
+
+> <sup>[17](/bible/philippians/4#v17)</sup> Not because I desire a gift: but I desire fruit that may abound to your account.
 
 - Not because I desire a gift: but I desire fruit that may abound to your account: So he said, "No, I don't desire a gift. I desire fruit that may abound unto your account." What is he saying? That spiritual bank account. He was more concerned with that than the physical riches of the world. This right here is leadership, brothers and sisters. That's what we're reading. We're reading leadership in the Bible from the Apostle Paul. But then a negro got his TikTok page and Instagram page and YouTube page monetized. So he got to keep putting out BS content and gonna say the Apostle Paul was an idol and taught idolatry. He more of a man than you'll ever be. That's what we reading right now.
 
@@ -392,14 +392,14 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "leadership", "purpose", 
 **[1 Corinthians 9:16-17](/bible/1-corinthians/9#v16)**  *[[55:20](https://www.youtube.com/watch?v=oPYGeScbJX8&t=3320s)]*
 
 > <sup>[16](/bible/1-corinthians/9#v16)</sup> For though I preach the gospel, I have nothing to glory of: for necessity is laid upon me; yea, woe is unto me, if I preach not the gospel!
->
-> <sup>[17](/bible/1-corinthians/9#v17)</sup> For if I do this thing willingly, I have a reward: but if against my will, a dispensation of the gospel is committed unto me.
 
 - For though I preach the gospel, I have nothing to glory of: for necessity is laid upon me: My favorite scripture. So he said, for though I preach the gospel, I have nothing to glory of, for necessity is laid upon me. Meaning I'm going through it financially. I'm going through it right now.
 
 - Yea, woe is unto me, if I preach not the gospel!: Say, yea, woe unto me if I preach not the gospel. He said, just because I'm going through it, I can't stop teaching the gospel. Woe unto me if I don't do this. I ain't got nothing to glory of. You heard what he told the Corinthians? The thing that I'm laboring for is fruits to your account. That's it. I'm building up a spiritual bank account with the works that I'm doing. I can't be worried about a physical bank account or amount of money and riches, because if I do that, that's going to derail the work. That's going to derail the gospel, and the gospel is more important. I get my riches in the end. A crown is laid up for me. Paul had enough understanding. Now he's given us understanding that we should be the same way.
 
 - Woe is unto me, if I preach not the gospel: It's my favorite precept, 1 Corinthians 9:16 and 17. Favorite scriptures in the whole Bible. Woe is unto me if I don't preach the gospel. Destruction unto me if I don't do this work.
+
+> <sup>[17](/bible/1-corinthians/9#v17)</sup> For if I do this thing willingly, I have a reward: but if against my will, a dispensation of the gospel is committed unto me.
 
 - For if I do this thing willingly, I have a reward: but if against my will, a dispensation of the gospel is committed unto me: He said, for if I do this thing willingly, I have a reward. But if against my will a dispensation of the gospel is committed unto me. Meaning what? God will only give me this wisdom for a certain time before he removes my candlestick. There's going to come a time, if you do not diligently put forth an effort to continue to grow in this truth and put in works in this truth, if you got to be begged to do the work of the Lord, the Bible says the Lord will eventually take your wisdom.
 
@@ -434,12 +434,12 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "leadership", "purpose", 
 **[1 Corinthians 9:19-21](/bible/1-corinthians/9#v19)**  *[[1:02:00](https://www.youtube.com/watch?v=oPYGeScbJX8&t=3720s)]*
 
 > <sup>[19](/bible/1-corinthians/9#v19)</sup> For though I be free from all men, yet have I made myself servant unto all, that I might gain the more.
->
+
+- Yet have I made myself servant unto all, that I might gain the more: Right? So he said, I made myself servant unto all that I might gain the more. He going to tell you what that means.
+
 > <sup>[20](/bible/1-corinthians/9#v20)</sup> And unto the Jews I became as a Jew, that I might gain the Jews; to them that are under the law, as under the law, that I might gain them that are under the law;
 >
 > <sup>[21](/bible/1-corinthians/9#v21)</sup> To them that are without law, as without law, (being not without law to God, but under the law to Christ,) that I might gain them that are without law.
-
-- Yet have I made myself servant unto all, that I might gain the more: Right? So he said, I made myself servant unto all that I might gain the more. He going to tell you what that means.
 
 - To them that are without law, as without law: So Paul had enough understanding that people were coming into the understanding of Christ from different walks of life. You had brothers that was coming into the understanding of Christ that grew up in the Mosaic laws, that grew up in the ordinances of the temple. You had brothers that was coming into Christ that was from the side of the Gentiles, meaning they were not raised up under the understanding in the laws of Moses. He had enough understanding to know that, right? And that exhortation came to him from the apostles that were over him in the Lord.
 
@@ -458,15 +458,21 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "leadership", "purpose", 
 > <sup>[19](/bible/acts/15#v19)</sup> Wherefore my sentence is, that we trouble not them, which from among the Gentiles are turned to God:
 >
 > <sup>[20](/bible/acts/15#v20)</sup> But that we write unto them, that they abstain from pollutions of idols, and from fornication, and from things strangled, and from blood.
->
+
+- That they abstain from pollutions of idols, and from fornication, and from things strangled, and from blood: So that's the law. All of those things are written in the law. Don't be an idolater. Don't be a fornicator. That's the laws of adultery. The laws of idolatry. That goes into imagery. The first, second commandment, the third commandment, the fourth, all of these things. It's going into all of that. Then it says, "And from things strangled and from blood." That goes into the dietary law.
+
 > <sup>[21](/bible/acts/15#v21)</sup> For Moses of old time hath in every city them that preach him, being read in the synagogues every sabbath day.
->
+
+- For Moses of old time hath in every city them that preach him, being read in the synagogues every sabbath day: So every Sabbath they'll learn the rest of the laws. He's saying when they go to the synagogue on the Sabbath, they'll learn about the new moon. They'll learn about Passover, Pentecost, things of that nature. But at this particular time, these new brothers and sisters that's coming in, the first thing we need to deal with is what they mainly deal with in the areas they're scattered in, which is idolatry, fornication, and eating things sacrificed unto idols, and things that are strangled, and blood. Those are the number one things that they need to learn about. On the Sabbath day, they'll go and they'll learn the rest of the laws of Moses. That's what the apostles understood, right?
+
 > <sup>[22](/bible/acts/15#v22)</sup> Then pleased it the apostles and elders, with the whole church, to send chosen men of their own company to Antioch with Paul and Barnabas; namely, Judas surnamed Barsabas, and Silas, chief men among the brethren:
 >
 > <sup>[23](/bible/acts/15#v23)</sup> And they wrote letters by them after this manner; The apostles and elders and brethren send greeting unto the brethren which are of the Gentiles in Antioch and Syria and Cilicia:
 >
 > <sup>[24](/bible/acts/15#v24)</sup> Forasmuch as we have heard, that certain which went out from us have troubled you with words, subverting your souls, saying, Ye must be circumcised, and keep the law: to whom we gave no such commandment:
->
+
+- Saying, Ye must be circumcised, and keep the law: to whom we gave no such commandment: Right? He said, "We didn't give a commandment for them to tell you that you had to be circumcised after the manner of Moses, and keep the laws and ordinances of the temple."
+
 > <sup>[25](/bible/acts/15#v25)</sup> It seemed good unto us, being assembled with one accord, to send chosen men unto you with our beloved Barnabas and Paul,
 >
 > <sup>[26](/bible/acts/15#v26)</sup> Men that have hazarded their lives for the name of our Lord Jesus Christ.
@@ -474,16 +480,10 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "leadership", "purpose", 
 > <sup>[27](/bible/acts/15#v27)</sup> We have sent therefore Judas and Silas, who shall also tell you the same things by mouth.
 >
 > <sup>[28](/bible/acts/15#v28)</sup> For it seemed good to the Holy Ghost, and to us, to lay upon you no greater burden than these necessary things;
->
-> <sup>[29](/bible/acts/15#v29)</sup> That ye abstain from meats offered to idols, and from blood, and from things strangled, and from fornication: from which if ye keep yourselves, ye shall do well. Fare ye well.
-
-- That they abstain from pollutions of idols, and from fornication, and from things strangled, and from blood: So that's the law. All of those things are written in the law. Don't be an idolater. Don't be a fornicator. That's the laws of adultery. The laws of idolatry. That goes into imagery. The first, second commandment, the third commandment, the fourth, all of these things. It's going into all of that. Then it says, "And from things strangled and from blood." That goes into the dietary law.
-
-- For Moses of old time hath in every city them that preach him, being read in the synagogues every sabbath day: So every Sabbath they'll learn the rest of the laws. He's saying when they go to the synagogue on the Sabbath, they'll learn about the new moon. They'll learn about Passover, Pentecost, things of that nature. But at this particular time, these new brothers and sisters that's coming in, the first thing we need to deal with is what they mainly deal with in the areas they're scattered in, which is idolatry, fornication, and eating things sacrificed unto idols, and things that are strangled, and blood. Those are the number one things that they need to learn about. On the Sabbath day, they'll go and they'll learn the rest of the laws of Moses. That's what the apostles understood, right?
-
-- Saying, Ye must be circumcised, and keep the law: to whom we gave no such commandment: Right? He said, "We didn't give a commandment for them to tell you that you had to be circumcised after the manner of Moses, and keep the laws and ordinances of the temple."
 
 - To lay upon you no greater burden than these necessary things: So he was telling the Gentiles that was scattered amongst them, listen, you don't have to worry about all of those other things regarding the laws of Moses as it pertains to circumcision. Not saying that they wouldn't have to be circumcised, but after the manner of Moses, meaning the eighth day. You 47 years old, it's impossible for you to get circumcised after the manner of Moses. That's impossible. You're a grown man. You just learning Christ in your 50s. You mean to tell me that you got to get circumcised after the manner of Moses, meaning on the eighth day? It's impossible. You're old, you're an adult, nor can your mother, may not even be alive to bring forth the damn sacrifice at the temple. And it's impossible because she had to do that after her uncleanness.
+
+> <sup>[29](/bible/acts/15#v29)</sup> That ye abstain from meats offered to idols, and from blood, and from things strangled, and from fornication: from which if ye keep yourselves, ye shall do well. Fare ye well.
 
 - That ye abstain from meats offered to idols, and from blood, and from things strangled, and from fornication: So all of this stuff that we reading is going back to animal sacrifice and the ordinances that pertain to the temple. That was not needful for those Gentiles that were coming in, those Israelites scattered. They didn't need to know that. They had specific things that they needed to deal with, which was idolatry, pollutions of idols, fornication, blood, and things strangled, which was the dietary law. All those things is what they deal with. And on the Sabbath day, they would go and learn Moses.
 
@@ -538,22 +538,10 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "leadership", "purpose", 
 **[1 Corinthians 9:20-27](/bible/1-corinthians/9#v20)**  *[[1:14:40](https://www.youtube.com/watch?v=oPYGeScbJX8&t=4480s)]*
 
 > <sup>[20](/bible/1-corinthians/9#v20)</sup> And unto the Jews I became as a Jew, that I might gain the Jews; to them that are under the law, as under the law, that I might gain them that are under the law;
->
-> <sup>[21](/bible/1-corinthians/9#v21)</sup> To them that are without law, as without law, (being not without law to God, but under the law to Christ,) that I might gain them that are without law.
->
-> <sup>[22](/bible/1-corinthians/9#v22)</sup> To the weak became I as weak, that I might gain the weak: I am made all things to all men, that I might by all means save some.
->
-> <sup>[23](/bible/1-corinthians/9#v23)</sup> And this I do for the gospel’s sake, that I might be partaker thereof with you.
->
-> <sup>[24](/bible/1-corinthians/9#v24)</sup> Know ye not that they which run in a race run all, but one receiveth the prize? So run, that ye may obtain.
->
-> <sup>[25](/bible/1-corinthians/9#v25)</sup> And every man that striveth for the mastery is temperate in all things. Now they do it to obtain a corruptible crown; but we an incorruptible.
->
-> <sup>[26](/bible/1-corinthians/9#v26)</sup> I therefore so run, not as uncertainly; so fight I, not as one that beateth the air:
->
-> <sup>[27](/bible/1-corinthians/9#v27)</sup> But I keep under my body, and bring it into subjection: lest that by any means, when I have preached to others, I myself should be a castaway.
 
 - To them that are under the law, as under the law, that I might gain them that are under the law: So when he was amongst the Jews he made sacrifices. We just saw it in Acts 21. So it says, and to them that are under the law as under the law, that I might gain them that are under the law. So that's what he did. He wanted to gain the brothers. He wanted to gain the sisters. He wanted them to see that he still was being orderly, but he didn't want to make it seem like he was teaching that they did not have to keep the laws of Moses. That was the mystery.
+
+> <sup>[21](/bible/1-corinthians/9#v21)</sup> To them that are without law, as without law, (being not without law to God, but under the law to Christ,) that I might gain them that are without law.
 
 - Being not without law to God: You see, without law to God.
 
@@ -563,11 +551,23 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "leadership", "purpose", 
 
 - That I might gain them that are without law: You understand? Imagine how scary that would be, or how overwhelming that could be, to have to go back and learn. You never knew these things. Now you got to learn all these ordinances of sacrifice and how things are supposed to be sacrificed, and what if there are no Jews around to help you? So now I got to go into learning when the sacrifices got to be made, how often they got to be made. It was a lot on them. It was a lot on them. The tithe and all these different things. It would have been a lot. The apostles had enough understanding to know that Jerusalem was going to be trodden down of the Gentiles until the times of the Gentiles be fulfilled. They knew that Israel was going to go into captivity in 70 AD, and that the only way we was going be able to serve the Lord is through spirit and truth. They understood all that. So they say, "Okay, the temple's still standing. You Jew want to continue to sacrifice, go ahead. It's not sin. But for those of you that didn't grow up under that, we're not telling you that you're obligated to do those things. Matter of fact, don't even try to go and do those things. Just stick with the liberty that you have in Christ." That's it, brothers and sisters.
 
+> <sup>[22](/bible/1-corinthians/9#v22)</sup> To the weak became I as weak, that I might gain the weak: I am made all things to all men, that I might by all means save some.
+
 - I am made all things to all men, that I might by all means save some: Right. That I may by all means save some.
+
+> <sup>[23](/bible/1-corinthians/9#v23)</sup> And this I do for the gospel’s sake, that I might be partaker thereof with you.
 
 - And this I do for the gospel's sake, that I might be partaker thereof with you: Paul had a hard job, y'all. It wasn't easy. Him and the apostles that rode with him, to go and minister to the northern kingdom and the Israelites that were living amongst Gentiles, they had a big job. They had a huge job. We got a huge job today trying to unravel his writings in your mind so you can get an understanding of it. And some people going to die because they just do not want to accept the truth of Paul's letters. This is what it is.
 
+> <sup>[24](/bible/1-corinthians/9#v24)</sup> Know ye not that they which run in a race run all, but one receiveth the prize? So run, that ye may obtain.
+
 - But one receiveth the prize: One receiveth the prize. You said price. But one receiveth the prize. So run, that ye may obtain.
+
+> <sup>[25](/bible/1-corinthians/9#v25)</sup> And every man that striveth for the mastery is temperate in all things. Now they do it to obtain a corruptible crown; but we an incorruptible.
+>
+> <sup>[26](/bible/1-corinthians/9#v26)</sup> I therefore so run, not as uncertainly; so fight I, not as one that beateth the air:
+>
+> <sup>[27](/bible/1-corinthians/9#v27)</sup> But I keep under my body, and bring it into subjection: lest that by any means, when I have preached to others, I myself should be a castaway.
 
 - Lest that by any means, when I have preached to others, I myself should be a castaway: All praise to the most high. In other words, he's saying he can't be a hypocrite. He got to continue to follow the commandments, showing that he was not teaching them to break the laws.
 

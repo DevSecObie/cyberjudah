@@ -145,19 +145,19 @@ tags: ["15 Minutes w/ The Captains", "anger", "gossip", "justice", "love"]
 
 **[Ephesians 4:26-28](/bible/ephesians/4#v26)**  *[[10:50](https://www.youtube.com/watch?v=BECx_FiADmE&t=650s)]*
 
-> <sup>[26](/bible/ephesians/4#v26)</sup> Be ye angry, and sin not: let not the sun go down upon your wrath:
->
-> <sup>[27](/bible/ephesians/4#v27)</sup> Neither give place to the devil.
->
-> <sup>[28](/bible/ephesians/4#v28)</sup> Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needeth.
-
 - Did they have any reason to be angry with David? Absolutely, yes. But the scripture says this.
+
+> <sup>[26](/bible/ephesians/4#v26)</sup> Be ye angry, and sin not: let not the sun go down upon your wrath:
 
 - Be ye angry, and sin not: you can get angry, but the law says be ye angry, and sin not.
 
 - Let not the sun go down upon your wrath: they let years go by upon their wrath.
 
+> <sup>[27](/bible/ephesians/4#v27)</sup> Neither give place to the devil.
+
 - Neither give place to the devil: now both of them are full of the spirit of the devil. Now they want to kill King David.
+
+> <sup>[28](/bible/ephesians/4#v28)</sup> Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needeth.
 
 
 **[Deuteronomy 22:25](/bible/deuteronomy/22#v25)**  *[[11:34](https://www.youtube.com/watch?v=BECx_FiADmE&t=694s)]*

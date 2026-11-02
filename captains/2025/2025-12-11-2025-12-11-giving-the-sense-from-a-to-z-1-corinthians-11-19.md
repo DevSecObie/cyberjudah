@@ -42,18 +42,18 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "love", "the-body",
 **[Acts 2:41-44](/bible/acts/2#v41)**  *[[8:19](https://www.youtube.com/watch?v=VJ9UiaNuvQA&t=499s)]*
 
 > <sup>[41](/bible/acts/2#v41)</sup> Then they that gladly received his word were baptized: and the same day there were added unto them about three thousand souls.
->
-> <sup>[42](/bible/acts/2#v42)</sup> And they continued stedfastly in the apostles’ doctrine and fellowship, and in breaking of bread, and in prayers.
->
-> <sup>[43](/bible/acts/2#v43)</sup> And fear came upon every soul: and many wonders and signs were done by the apostles.
->
-> <sup>[44](/bible/acts/2#v44)</sup> And all that believed were together, and had all things common;
 
 - Then they that gladly received his word were baptized: These are the ones that gladly received the word of God. They heard the word of God and say, “Okay, then. We got to repent.” Even though we was coming up in these Greek functions or these Greek fashions, listen, we got to repent because why? We received the word of God. That Holy Spirit was working with them.
 
 - And they continued steadfastly in the apostles' doctrine and fellowship, and in breaking of bread: You see that? And they continued. When they received the word of God, they received it with gladness and they kept the doctrine. They kept the doctrine. They kept that same mindset as the disciples. They was all in one mind, one spirit. And how did they show forth that they was in one mind, one spirit? Of the breaking of the bread, coming together and the feasting. This is the pilot as we read down through the rest of the chapter in 1 Corinthians 11. Our forefathers got together and they showed forth the remembrance of Christ by the breaking of the bread.
 
+> <sup>[42](/bible/acts/2#v42)</sup> And they continued stedfastly in the apostles’ doctrine and fellowship, and in breaking of bread, and in prayers.
+>
+> <sup>[43](/bible/acts/2#v43)</sup> And fear came upon every soul: and many wonders and signs were done by the apostles.
+
 - And in prayers. And fear came upon every soul: and many wonders and signs were done by the apostles: And you see when they was all on one and they all in the same mind, same spirit, that the Holy Spirit grew upon them. The Holy Spirit grew. Now they able to do miracles. They're able to go out and bring forth more spirits into the gospel. This is what happens when you're in the same mind and the same spirit with the leadership.
+
+> <sup>[44](/bible/acts/2#v44)</sup> And all that believed were together, and had all things common;
 
 - And all that believed were together, and had all things common: And they had all things common.
 
@@ -98,12 +98,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "love", "the-body",
 **[1 Corinthians 1:10-13](/bible/1-corinthians/1#v10)**  *[[13:51](https://www.youtube.com/watch?v=VJ9UiaNuvQA&t=831s)]*
 
 > <sup>[10](/bible/1-corinthians/1#v10)</sup> Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment.
->
-> <sup>[11](/bible/1-corinthians/1#v11)</sup> For it hath been declared unto me of you, my brethren, by them which are of the house of Chloe, that there are contentions among you.
->
-> <sup>[12](/bible/1-corinthians/1#v12)</sup> Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ.
->
-> <sup>[13](/bible/1-corinthians/1#v13)</sup> Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?
 
 - Now I beseech you, brethren, by the name of our Lord Jesus Christ: This is how Paul started out the letter to Corinth. He's begging. He said, “I beseech you, brother, in the name of the Lord.”
 
@@ -111,9 +105,15 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "love", "the-body",
 
 - And that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment: So this is a warning. Paul's warning the church of Corinth and all the rest of the churches. It's important when you come together that there's no divisions among you. Why would he have to warn them? Because naturally we got an individualized spirit that's in us. We be coming with our own agenda. So when you got these leaders coming together, he's telling you, “Hey, though y'all might had your own agenda in the world, when y'all come together as we establish this church, let it be no divisions among you, be in the same mind and the same spirit, especially as leaders.”
 
+> <sup>[11](/bible/1-corinthians/1#v11)</sup> For it hath been declared unto me of you, my brethren, by them which are of the house of Chloe, that there are contentions among you.
+
 - By them which are of the house of Chloe, that there are contentions among you: So you had people that was in the church writing Paul, letting him know, listen, it's divisions here. It's divisions within the church. At the top is divisions. And it was heavy contentions at the top with the leaders.
 
+> <sup>[12](/bible/1-corinthians/1#v12)</sup> Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ.
+
 - Every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ: Imagine the leaders going around going back and forth. Nah, Apollos taught me. Nah, Peter, Cephas, he taught me. Nah, I learned this from Christ. You understand? Paul think he learned it from Christ. Hell, I learned this from Christ. Imagine the leaders saying this, bickering. What do you think the congregation, what do you think the body, what you think the fruit is going to come from that? If they see that the leaders is divided amongst Christ, what you think the spirit of the body is going to be? It's going to cause more division. So, he had to get on the leaders. It shouldn't be no divisions. I'm hearing this contentions amongst y'all.
+
+> <sup>[13](/bible/1-corinthians/1#v13)</sup> Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?
 
 - Is Christ divided?: And is Christ divided? Christ is not divided. Christ said, “Hey, y'all be in one mind and one spirit.” You understand?
 
@@ -140,10 +140,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "love", "the-body",
 **[1 Corinthians 11:20-21](/bible/1-corinthians/11#v20)**  *[[19:30](https://www.youtube.com/watch?v=VJ9UiaNuvQA&t=1170s)]*
 
 > <sup>[20](/bible/1-corinthians/11#v20)</sup> When ye come together therefore into one place, this is not to eat the Lord’s supper.
->
-> <sup>[21](/bible/1-corinthians/11#v21)</sup> For in eating every one taketh before other his own supper: and one is hungry, and another is drunken.
 
 - When ye come together therefore into one place, this is not to eat the Lord's supper: So when y'all come together, it's not to do in remembrance of what Christ did for us. It's not to eat that supper of the Lord, break bread together like the disciples showed you and their followers when they all had everything in common. Now that Christ is gone, the church is setting up. This is years later. Now you seeing that residue, that chaos come back into the church. And Paul got to write to the Corinthians. Listen, I got to get this thing back in order because when y'all coming together, it's not in the spirit of Christ.
+
+> <sup>[21](/bible/1-corinthians/11#v21)</sup> For in eating every one taketh before other his own supper: and one is hungry, and another is drunken.
 
 - For in eating every one taketh before other his own supper: and one is hungry, and another is drunken: He said, in eating y'all taking before everyone his own supper. Then you got people that's drunken. So you got people that's just worried about themselves. No consideration. Let's get some understanding on it. Bible Hub is good. It serves its purpose, historical. You know, I wouldn't deal with it when you dealing with prophecies, but to understand the pilot that was going on back then, it's good.
 
@@ -188,16 +188,16 @@ Reading from Bible Hub, on 1 Corinthians 11:21  *[[21:02](https://www.youtube.co
 **[1 Timothy 1:5-7](/bible/1-timothy/1#v5)**  *[[25:34](https://www.youtube.com/watch?v=VJ9UiaNuvQA&t=1534s)]*
 
 > <sup>[5](/bible/1-timothy/1#v5)</sup> Now the end of the commandment is charity out of a pure heart, and of a good conscience, and of faith unfeigned:
->
-> <sup>[6](/bible/1-timothy/1#v6)</sup> From which some having swerved have turned aside unto vain jangling;
->
-> <sup>[7](/bible/1-timothy/1#v7)</sup> Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm.
 
 - Now the end of the commandment is charity: This is what a lot of our brothers and sisters was missing and we still missing today. They said the end of the law, after keeping all the laws, the end of it is charity. Damn. Side note, how the hell is the laws done away with? If he's saying that the end of the law is charity, that means the law is still established. Let's get back on track.
 
 - Out of a pure heart, and of a good conscience, and of faith unfeigned: Out of a pure conscience. Faith not fake.
 
+> <sup>[6](/bible/1-timothy/1#v6)</sup> From which some having swerved have turned aside unto vain jangling;
+
 - From which some having swerved have turned aside unto vain jangling: You see that? Which some who dismissed it, now they turned aside to vain talking, jangling.
+
+> <sup>[7](/bible/1-timothy/1#v7)</sup> Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm.
 
 - Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm: And this is that spirit that was in the leadership. This is the spirit that was in the leaders in Corinth. How much the more in the people? They desiring to be teachers. They don't even understand. Listen, Paul said, “Y'all babes. You babes. You want to be a teacher. I'm of Cephas.” Oh, no, Apollos taught me. No, Christ taught me. You don't even know what you saying or affirming to the body and you forgetting that the end of the law is charity.
 
@@ -212,14 +212,14 @@ Reading from Bible Hub, on 1 Corinthians 11:21  *[[21:02](https://www.youtube.co
 **[1 Corinthians 13:4-5](/bible/1-corinthians/13#v4)**  *[[27:01](https://www.youtube.com/watch?v=VJ9UiaNuvQA&t=1621s)]*
 
 > <sup>[4](/bible/1-corinthians/13#v4)</sup> Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,
->
-> <sup>[5](/bible/1-corinthians/13#v5)</sup> Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;
 
 - Charity suffereth long, and is kind: Charity is supposed to suffer long. Charity is kind. This is what the wealthy and the leaders, because the leaders are allowing it. The leaders had to allow that behavior of the wealthy in the congregation for Paul to have to write this letter to them, to sit up there and deal with this. This means that the leaders were allowing this in the church.
 
 - Charity envieth not: And this is what was in the leaders. They was envying one another.
 
 - Charity vaunteth not itself, is not puffed up: You don't vaunt yourself. Puff yourself up.
+
+> <sup>[5](/bible/1-corinthians/13#v5)</sup> Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;
 
 - Doth not behave itself unseemly, seeketh not her own: And that's a heavy point right there. That's something that we got to underline. When it says charity is the end of the law, charity don't seek his own. Charity seeks the welfare, the well-being of those around you. Let me make sure these brothers around you are all right. Let me make sure that they got whatever that they need. Don't sit up there and you getting this glutton spirit, drunken spirit. You eating up all the food, pouring it on. When they come in to the Lord's supper to show forth, you know, their righteousness, their agreeance to the doctrine, their belief in Christ, they get there hungry, empty stomach, already ain't got nothing. Paul said, “This is out of order.” And you know who got that? You know who had that spirit? The spirit that they was rolling in. Get that in John 12, 3-8.
 
@@ -229,18 +229,14 @@ Reading from Bible Hub, on 1 Corinthians 11:21  *[[21:02](https://www.youtube.co
 > <sup>[3](/bible/john/12#v3)</sup> Then took Mary a pound of ointment of spikenard, very costly, and anointed the feet of Jesus, and wiped his feet with her hair: and the house was filled with the odour of the ointment.
 >
 > <sup>[4](/bible/john/12#v4)</sup> Then saith one of his disciples, Judas Iscariot, Simon’s son, which should betray him,
->
-> <sup>[5](/bible/john/12#v5)</sup> Why was not this ointment sold for three hundred pence, and given to the poor?
->
-> <sup>[6](/bible/john/12#v6)</sup> This he said, not that he cared for the poor; but because he was a thief, and had the bag, and bare what was put therein.
->
-> <sup>[7](/bible/john/12#v7)</sup> Then said Jesus, Let her alone: against the day of my burying hath she kept this.
->
-> <sup>[8](/bible/john/12#v8)</sup> For the poor always ye have with you; but me ye have not always.
 
 - Then saith one of his disciples, Judas Iscariot, Simon's son, which should betray him: Oh boy.
 
+> <sup>[5](/bible/john/12#v5)</sup> Why was not this ointment sold for three hundred pence, and given to the poor?
+
 - Why was not this ointment sold for three hundred pence, and given to the poor?: You see the negro? This is the spirit that a lot of these brothers and sisters be rolling in when you don't have charity. Listen to Judas, man. You got this woman anointing Christ, doing what she's supposed to do. He talking about, “Listen, damn. Hold on. That's some expensive-ass oil. Why we ain't selling that and giving it to the poor?” Okay, now you might think that they in the spirit. You might think Judas in the spirit, the same way the wealthy thought. We in the spirit, the leaders, we in the spirit. We coming together. This the Lord's supper.
+
+> <sup>[6](/bible/john/12#v6)</sup> This he said, not that he cared for the poor; but because he was a thief, and had the bag, and bare what was put therein.
 
 - This he said, not that he cared for the poor: He didn't give a damn about the poor.
 
@@ -248,7 +244,11 @@ Reading from Bible Hub, on 1 Corinthians 11:21  *[[21:02](https://www.youtube.co
 
 - And had the bag, and bare what was put therein: Damn. This how you know this is black folks, man. He said he had the bag. I got to get the bag. Ain't nobody talking like this. You understand? These is black folks. He was a thief and his only concern was getting the bag.
 
+> <sup>[7](/bible/john/12#v7)</sup> Then said Jesus, Let her alone: against the day of my burying hath she kept this.
+
 - Then said Jesus, Let her alone: He said, “Leave her alone, bro.”
+
+> <sup>[8](/bible/john/12#v8)</sup> For the poor always ye have with you; but me ye have not always.
 
 - For the poor always ye have with you: What did Christ say? Christ let us know the poor is always going to be amongst you. They always going to be amongst you. Get that law in Deuteronomy. We should always take consideration of the poor.
 
@@ -261,13 +261,13 @@ Reading from Bible Hub, on 1 Corinthians 11:21  *[[21:02](https://www.youtube.co
 
 **[1 Timothy 6:9-10](/bible/1-timothy/6#v9)**  *[[32:14](https://www.youtube.com/watch?v=VJ9UiaNuvQA&t=1934s)]*
 
-> <sup>[9](/bible/1-timothy/6#v9)</sup> But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition.
->
-> <sup>[10](/bible/1-timothy/6#v10)</sup> For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.
-
 - Give me 1 Timothy 6:9 and 10: This is something we always, you got to always remind yourself about.
 
+> <sup>[9](/bible/1-timothy/6#v9)</sup> But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition.
+
 - But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition: You see that thing? The wealthy, they fell into these hurtful lusts and is dragging them into what? Perdition, destruction, because they going on their own agenda. When we get there, we just going to eat. We ain't worried about having charity, consideration for the poor, for the community, of the people. And you know, it's not just them. If the parents is poor, the kids is poor. So you don't care about nothing that's going on around you. Just feeding yourself. That's why the Lord said, “Listen, y'all that are rich, you fall into heavy temptations and a snare, in foolish and hurtful lust.”
+
+> <sup>[10](/bible/1-timothy/6#v10)</sup> For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.
 
 - For the love of money is the root of all evil: Damn.
 
@@ -279,8 +279,6 @@ Reading from Bible Hub, on 1 Corinthians 11:21  *[[21:02](https://www.youtube.co
 **[1 Timothy 6:17-18](/bible/1-timothy/6#v17)**  *[[33:44](https://www.youtube.com/watch?v=VJ9UiaNuvQA&t=2024s)]*
 
 > <sup>[17](/bible/1-timothy/6#v17)</sup> Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who giveth us richly all things to enjoy;
->
-> <sup>[18](/bible/1-timothy/6#v18)</sup> That they do good, that they be rich in good works, ready to distribute, willing to communicate;
 
 - Charge them that are rich in this world: This is why he said this.
 
@@ -290,6 +288,8 @@ Reading from Bible Hub, on 1 Corinthians 11:21  *[[21:02](https://www.youtube.co
 
 - But in the living God, who giveth us richly all things to enjoy: Trusting in the living God.
 
+> <sup>[18](/bible/1-timothy/6#v18)</sup> That they do good, that they be rich in good works, ready to distribute, willing to communicate;
+
 - That they do good, that they be rich in good works: You're supposed to be rich in good works. You're supposed to look out for the people, the poor that's among you.
 
 - Ready to distribute, willing to communicate: Ready to distribute and communicate. That's not what was going on in Corinth. He had to deal with that thing right there, bro.
@@ -298,12 +298,12 @@ Reading from Bible Hub, on 1 Corinthians 11:21  *[[21:02](https://www.youtube.co
 **[1 Corinthians 11:21-22](/bible/1-corinthians/11#v21)**  *[[35:52](https://www.youtube.com/watch?v=VJ9UiaNuvQA&t=2152s)]*
 
 > <sup>[21](/bible/1-corinthians/11#v21)</sup> For in eating every one taketh before other his own supper: and one is hungry, and another is drunken.
->
-> <sup>[22](/bible/1-corinthians/11#v22)</sup> What? have ye not houses to eat and to drink in? or despise ye the church of God, and shame them that have not? What shall I say to you? shall I praise you in this? I praise you not.
 
 - And one is hungry: You see that? You got the poor that's hungry amongst them. This is not the spirit that you supposed to be rolling in. This is what Paul is saying.
 
 - And another is drunken: And another, y'all sitting up there getting drunken. This is not the Lord's supper. This is not what the Lord ordained for y'all to come together and show forth repentance amongst the believers. This is how y'all moving. The rich, y'all supposed to, don't be high-minded. You supposed to be looking out for the poor. You leaders, y'all acting like babes. You supposed to be correcting this thing.
+
+> <sup>[22](/bible/1-corinthians/11#v22)</sup> What? have ye not houses to eat and to drink in? or despise ye the church of God, and shame them that have not? What shall I say to you? shall I praise you in this? I praise you not.
 
 - What? have ye not houses to eat and to drink in?: Y'all ain't got that? Y'all could do this. Y'all can have that level of high-minded, you could go be that at your house. Why you come bringing this into the congregation?
 
@@ -315,10 +315,10 @@ Reading from Bible Hub, on 1 Corinthians 11:21  *[[21:02](https://www.youtube.co
 **[Malachi 3:14-15](/bible/malachi/3#v14)**  *[[38:41](https://www.youtube.com/watch?v=VJ9UiaNuvQA&t=2321s)]*
 
 > <sup>[14](/bible/malachi/3#v14)</sup> Ye have said, It is vain to serve God: and what profit is it that we have kept his ordinance, and that we have walked mournfully before the Lord of hosts?
->
-> <sup>[15](/bible/malachi/3#v15)</sup> And now we call the proud happy; yea, they that work wickedness are set up; yea, they that tempt God are even delivered.
 
 - Ye have said, It is vain to serve God: and what profit is it that we have kept his ordinance: You see this? This is the mindset of the priests. Said it's vain to serve God. What's the profit of keeping these ordinances, without blemish, making sure that you do get right sacrifices? What's the point? Let's just say, man, just offer up any damn thing.
+
+> <sup>[15](/bible/malachi/3#v15)</sup> And now we call the proud happy; yea, they that work wickedness are set up; yea, they that tempt God are even delivered.
 
 - And that we have walked mournfully before the LORD of hosts? And now we call the proud happy: And now what's the result? You call those who break the laws willfully, that's pride. He said now you calling the proud happy. You saying that they in good estate when you bringing these sacrifices where the Lord said don't sacrifice these animals on my altar.
 
@@ -338,14 +338,14 @@ Reading from Bible Hub, on 1 Corinthians 11:21  *[[21:02](https://www.youtube.co
 **[Philippians 3:17-19](/bible/philippians/3#v17)**  *[[40:57](https://www.youtube.com/watch?v=VJ9UiaNuvQA&t=2457s)]*
 
 > <sup>[17](/bible/philippians/3#v17)</sup> Brethren, be followers together of me, and mark them which walk so as ye have us for an ensample.
->
-> <sup>[18](/bible/philippians/3#v18)</sup> (For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:
->
-> <sup>[19](/bible/philippians/3#v19)</sup> Whose end is destruction, whose God is their belly, and whose glory is in their shame, who mind earthly things.)
 
 - Brethren, be followers together of me, and mark them which walk so as ye have us for an ensample: Now you remember he says, listen, it must be heresies amongst you that the approved may be manifest. So now he's telling you, listen, be examples of us, the righteous, the brothers and sisters that's doing the right thing. Be followers of them. Mark those who are causing divisions amongst you. So why? You can be manifest. Okay, I know I can't go that way. Can't follow that example. Now you're manifesting yourself amongst a congregation of heresies.
 
+> <sup>[18](/bible/philippians/3#v18)</sup> (For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:
+
 - That they are the enemies of the cross of Christ: Damn. You see this? And you remember it said in Jude, they feast with you. They feast with you. Clouds without water. Feasting with you, banqueting, the wealthy, getting rich, drunken, and despising the poor. Laughing them to shame. You understand? These are the enemies of the cross of Christ.
+
+> <sup>[19](/bible/philippians/3#v19)</sup> Whose end is destruction, whose God is their belly, and whose glory is in their shame, who mind earthly things.)
 
 - Whose end is destruction: Whose end is perdition. Destruction.
 
@@ -359,18 +359,18 @@ Reading from Bible Hub, on 1 Corinthians 11:21  *[[21:02](https://www.youtube.co
 **[1 Corinthians 11:22-24](/bible/1-corinthians/11#v22)**  *[[43:28](https://www.youtube.com/watch?v=VJ9UiaNuvQA&t=2608s)]*
 
 > <sup>[22](/bible/1-corinthians/11#v22)</sup> What? have ye not houses to eat and to drink in? or despise ye the church of God, and shame them that have not? What shall I say to you? shall I praise you in this? I praise you not.
->
-> <sup>[23](/bible/1-corinthians/11#v23)</sup> For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread:
->
-> <sup>[24](/bible/1-corinthians/11#v24)</sup> And when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me.
 
 - What shall I say to you? shall I praise you in this?: What shall I say to you? You think I'm going to praise you for what? How y'all conducting y'allselves?
 
 - I praise you not: I'm not going to praise you at all, because that's not why the Lord put breaking of the bread in place.
 
+> <sup>[23](/bible/1-corinthians/11#v23)</sup> For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread:
+
 - For I have received of the Lord that which also I delivered unto you: So let me remind you of why we get together, while we break the bread. I received this and this is the things that I'm commanding you, I'm giving you.
 
 - That the Lord Jesus the same night in which he was betrayed took bread: And when he had given thanks, he brake it: He said, I received this of the Lord. This is the Lord, breaking of the bread.
+
+> <sup>[24](/bible/1-corinthians/11#v24)</sup> And when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me.
 
 - Take, eat: this is my body, which is broken for you: this do in remembrance of me: This is what you supposed to do in remembrance of me. What did that body represent? It represented his body, that represented the bread. He was that bread of life. And we can't really go into it in detail, but we got other classes dealing with the breaking of bread and what it all symbolizes. All right, we're just going to hit on a couple scriptures.
 
@@ -402,12 +402,12 @@ Reading from Bible Hub, on 1 Corinthians 11:21  *[[21:02](https://www.youtube.co
 **[1 Corinthians 11:24-25](/bible/1-corinthians/11#v24)**  *[[47:11](https://www.youtube.com/watch?v=VJ9UiaNuvQA&t=2831s)]*
 
 > <sup>[24](/bible/1-corinthians/11#v24)</sup> And when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me.
->
-> <sup>[25](/bible/1-corinthians/11#v25)</sup> After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me.
 
 - Take, eat: this is my body: This is my body.
 
 - This do in remembrance of me: And you know that's heavy right there. This do in remembrance of me. Not celebrate Christmas. Not talking about he was born on December 25th, which is a lie. That's a lie. I'm acknowledging his birthday, I'm remembering. No. The Bible says when you break bread, this ye do in remembrance of me. Where is the confusion at? But those in Corinth, when you was breaking bread, you weren't doing it in remembrance of Christ, to unify the 12 tribes of Israel. Unity, to bring two sticks together. That's not what you doing it for. You're still causing division. So let me remind you.
+
+> <sup>[25](/bible/1-corinthians/11#v25)</sup> After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me.
 
 - This cup is the new testament in my blood: This cup is the what? The New Testament in my blood. Somebody tell the BHI that. Somebody tell the BHI. Damn. Even the Christians ain't confused that we in the New Testament. Lord have mercy. This is the New Testament. This cup is the New Testament in my blood. So the blood represented him dying for us, entering us into a blood covenant in the New Testament. Get that in Matthew 26 right quick. Simple Christian: he was drinking blood. No. Talking about the wine.
 
@@ -415,10 +415,10 @@ Reading from Bible Hub, on 1 Corinthians 11:21  *[[21:02](https://www.youtube.co
 **[Matthew 26:28-29](/bible/matthew/26#v28)**  *[[49:45](https://www.youtube.com/watch?v=VJ9UiaNuvQA&t=2985s)]*
 
 > <sup>[28](/bible/matthew/26#v28)</sup> For this is my blood of the new testament, which is shed for many for the remission of sins.
->
-> <sup>[29](/bible/matthew/26#v29)</sup> But I say unto you, I will not drink henceforth of this fruit of the vine, until that day when I drink it new with you in my Father’s kingdom.
 
 - Which is shed for many for the remission of sins: Which is shed for many. The many is talking about the Israelites, because we were the only ones that was forgiven of sins.
+
+> <sup>[29](/bible/matthew/26#v29)</sup> But I say unto you, I will not drink henceforth of this fruit of the vine, until that day when I drink it new with you in my Father’s kingdom.
 
 - I will not drink henceforth of this fruit of the vine: The fruit of the vine. So it ain't talking about drinking of blood. The fruit of the vine.
 
@@ -428,12 +428,6 @@ Reading from Bible Hub, on 1 Corinthians 11:21  *[[21:02](https://www.youtube.co
 **[2 Corinthians 3:3-6](/bible/2-corinthians/3#v3)**  *[[50:26](https://www.youtube.com/watch?v=VJ9UiaNuvQA&t=3026s)]*
 
 > <sup>[3](/bible/2-corinthians/3#v3)</sup> Forasmuch as ye are manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart.
->
-> <sup>[4](/bible/2-corinthians/3#v4)</sup> And such trust have we through Christ to God-ward:
->
-> <sup>[5](/bible/2-corinthians/3#v5)</sup> Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency is of God;
->
-> <sup>[6](/bible/2-corinthians/3#v6)</sup> Who also hath made us able ministers of the new testament; not of the letter, but of the spirit: for the letter killeth, but the spirit giveth life.
 
 - Written not with ink, but with the Spirit of the living God: Written not with ink, but with the spirit of the living God.
 
@@ -441,9 +435,15 @@ Reading from Bible Hub, on 1 Corinthians 11:21  *[[21:02](https://www.youtube.co
 
 - But in fleshy tables of the heart: But in your mind, the tables of your mind. You're learning Christ.
 
+> <sup>[4](/bible/2-corinthians/3#v4)</sup> And such trust have we through Christ to God-ward:
+>
+> <sup>[5](/bible/2-corinthians/3#v5)</sup> Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency is of God;
+
 - Not that we are sufficient of ourselves to think any thing as of ourselves: Not to be high-minded.
 
 - But our sufficiency is of God: But our sufficiency is of Christ.
+
+> <sup>[6](/bible/2-corinthians/3#v6)</sup> Who also hath made us able ministers of the new testament; not of the letter, but of the spirit: for the letter killeth, but the spirit giveth life.
 
 - Who also hath made us able ministers of the new testament: Who also made us ministers of what testament? The New Testament. So Paul was a minister of what testament? The New Testament. Peter was a teacher of what testament? The New Testament. James was an apostle of what testament? The New Testament. Okay. I'm just saying, hey, if you discredited Paul, somebody tell the BHI that you discredited Paul, you discrediting Peter, James, the 12, because they was all what? Ministers of what? The New Testament. They was all teachers of the New Testament. Makes no sense. He said, “Listen, hey, Peter, you over southern kingdom. Paul, you over the northern kingdom. But Peter, I want you to teach animal sacrifice. Paul, you go teach Christ.” What the hell? What the hell are you talking about? You understand? That's confusion. He made us able ministers of what now? Again? Of the New Testament. He made us able ministers of the New Testament. Lord have mercy. Sometimes you got to take it slow.
 
@@ -458,12 +458,12 @@ Reading from Bible Hub, on 1 Corinthians 11:21  *[[21:02](https://www.youtube.co
 **[1 Corinthians 10:15-16](/bible/1-corinthians/10#v15)**  *[[52:44](https://www.youtube.com/watch?v=VJ9UiaNuvQA&t=3164s)]*
 
 > <sup>[15](/bible/1-corinthians/10#v15)</sup> I speak as to wise men; judge ye what I say.
->
-> <sup>[16](/bible/1-corinthians/10#v16)</sup> The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?
 
 - I speak as to wise men: So I got to speak to wise men. Brothers and sisters that understand this.
 
 - Judge ye what I say: Judge what I'm about to say.
+
+> <sup>[16](/bible/1-corinthians/10#v16)</sup> The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?
 
 - The cup of blessing which we bless, is it not the communion of the blood of Christ?: The cup of what? The cup of blessing. Hey, look up communion for me. What does communion mean? The cup that we bless, is it not for the communion of Christ? Look at just definition.
 
@@ -486,10 +486,10 @@ Reading from Definition of communion (looked up on air)  *[[53:34](https://www.y
 **[1 Corinthians 10:16-17](/bible/1-corinthians/10#v16)**  *[[55:22](https://www.youtube.com/watch?v=VJ9UiaNuvQA&t=3322s)]*
 
 > <sup>[16](/bible/1-corinthians/10#v16)</sup> The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?
->
-> <sup>[17](/bible/1-corinthians/10#v17)</sup> For we being many are one bread, and one body: for we are all partakers of that one bread.
 
 - The bread which we break, is it not the communion of the body of Christ?: Is it not the communion of the body of Christ?
+
+> <sup>[17](/bible/1-corinthians/10#v17)</sup> For we being many are one bread, and one body: for we are all partakers of that one bread.
 
 - For we being many are one bread, and one body: We are what? One bread. For us being many, now we are one bread. Now we are one body. Remember the body represented the bread. We are one bread. One body.
 
@@ -501,10 +501,10 @@ Reading from Definition of communion (looked up on air)  *[[53:34](https://www.y
 > <sup>[25](/bible/1-corinthians/11#v25)</sup> After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me.
 >
 > <sup>[26](/bible/1-corinthians/11#v26)</sup> For as often as ye eat this bread, and drink this cup, ye do shew the Lord’s death till he come.
->
-> <sup>[27](/bible/1-corinthians/11#v27)</sup> Wherefore whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord.
 
 - For as often as ye eat this bread, and drink this cup, ye do shew the Lord's death till he come: We going to get through it. You see that? You showing the Lord's death till he come. This is why it says, get that in Hebrews 10:25. So when y'all breaking bread, y'all have to understand, you're showing that you're all in alignment, on one page, one judgment, one thought with the rest of the body. That's what you're showing. And remembrance of Christ, what he did for us, to unify us, pull us out the world, give us this understanding. When you break bread, you got some that sit up there in the church breaking bread and they know they not with us. That's why he said it must be heresies amongst us. So you can look out and see who the hell is approved, as it manifests. Oh, that negro ain't right. This sister ain't right. It's got to be like that. Yo, that's a hard scripture, bro.
+
+> <sup>[27](/bible/1-corinthians/11#v27)</sup> Wherefore whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord.
 
 
 **[Hebrews 10:25](/bible/hebrews/10#v25)**  *[[57:52](https://www.youtube.com/watch?v=VJ9UiaNuvQA&t=3472s)]*
@@ -521,20 +521,20 @@ Reading from Definition of communion (looked up on air)  *[[53:34](https://www.y
 **[1 Corinthians 11:26-29](/bible/1-corinthians/11#v26)**  *[[58:35](https://www.youtube.com/watch?v=VJ9UiaNuvQA&t=3515s)]*
 
 > <sup>[26](/bible/1-corinthians/11#v26)</sup> For as often as ye eat this bread, and drink this cup, ye do shew the Lord’s death till he come.
->
-> <sup>[27](/bible/1-corinthians/11#v27)</sup> Wherefore whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord.
->
-> <sup>[28](/bible/1-corinthians/11#v28)</sup> But let a man examine himself, and so let him eat of that bread, and drink of that cup.
->
-> <sup>[29](/bible/1-corinthians/11#v29)</sup> For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord’s body.
 
 - Ye do shew the Lord's death till he come: You're showing the Lord's death till he come.
 
 - Wherefore: For this reason.
 
+> <sup>[27](/bible/1-corinthians/11#v27)</sup> Wherefore whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord.
+
 - Whosoever shall eat this bread, and drink this cup of the Lord, unworthily: Not in that right mindset.
 
 - Shall be guilty of the body and blood of the Lord: You guilty of the blood of the Lord, because you not rolling in the unification where we all think. So when you breaking that bread and you really don't believe what everybody else believes, it says you shall be guilty of the blood of the Lord.
+
+> <sup>[28](/bible/1-corinthians/11#v28)</sup> But let a man examine himself, and so let him eat of that bread, and drink of that cup.
+>
+> <sup>[29](/bible/1-corinthians/11#v29)</sup> For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord’s body.
 
 - But let a man examine himself, and so let him eat of that bread, and drink of that cup. For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself: Now you understand why he's saying what he's saying. You know, we read this after every class, and it's showing you there's divisions in the church, and the breaking of the bread is to remind us of the sacrifices of Christ and to remind us we have to be unified. So examine yourself whether you be in the faith, and you eat of that bread and drink of that cup, because if you do it unworthily, meaning not in the right mindset with the body, you're eating and you're drinking damnation to yourself.
 
@@ -544,10 +544,10 @@ Reading from Definition of communion (looked up on air)  *[[53:34](https://www.y
 **[Galatians 6:7-8](/bible/galatians/6#v7)**  *[[1:00:42](https://www.youtube.com/watch?v=VJ9UiaNuvQA&t=3642s)]*
 
 > <sup>[7](/bible/galatians/6#v7)</sup> Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.
->
-> <sup>[8](/bible/galatians/6#v8)</sup> For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting.
 
 - Be not deceived; God is not mocked: Don't be deceived. God is not mocked.
+
+> <sup>[8](/bible/galatians/6#v8)</sup> For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting.
 
 - For whatsoever a man soweth, that shall he also reap. For he that soweth to his flesh shall of the flesh reap corruption: You see this thing? It said, listen, whatever you sow, that's what you going to reap. So if you coming in with the mindset of no unification, no charity, you just eating and drinking and getting drunk, whatever you sow, that's what you going to reap. And what are you going to reap? Corruption.
 
@@ -559,10 +559,10 @@ Reading from Definition of communion (looked up on air)  *[[53:34](https://www.y
 **[1 Corinthians 11:29-30](/bible/1-corinthians/11#v29)**  *[[1:02:54](https://www.youtube.com/watch?v=VJ9UiaNuvQA&t=3774s)]*
 
 > <sup>[29](/bible/1-corinthians/11#v29)</sup> For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord’s body.
->
-> <sup>[30](/bible/1-corinthians/11#v30)</sup> For this cause many are weak and sickly among you, and many sleep.
 
 - Not discerning the Lord's body: Not discerning the Lord's body.
+
+> <sup>[30](/bible/1-corinthians/11#v30)</sup> For this cause many are weak and sickly among you, and many sleep.
 
 - For this cause many are weak and sickly among you, and many sleep: And for this cause is manifested. Listen, if we all examine ourselves, do we have this charitable spirit? Are you looking out for the people that's amongst you? Or are you serving your own belly? Once you start discerning that thing and actually taking inventory, you're going to realize it's a lot of sick people amongst us. It's a lot of sick people. We sick. When we say Israel is sick, this what we talking about. We are sick people. And as many that still sleep, still sleep, still have not woken up to the understanding of Christ. So when you take inventory, you realize this. That's what verse 30 is saying.
 
@@ -583,22 +583,14 @@ Reading from Definition of communion (looked up on air)  *[[53:34](https://www.y
 **[1 Thessalonians 5:4-10](/bible/1-thessalonians/5#v4)**  *[[1:05:08](https://www.youtube.com/watch?v=VJ9UiaNuvQA&t=3908s)]*
 
 > <sup>[4](/bible/1-thessalonians/5#v4)</sup> But ye, brethren, are not in darkness, that that day should overtake you as a thief.
->
-> <sup>[5](/bible/1-thessalonians/5#v5)</sup> Ye are all the children of light, and the children of the day: we are not of the night, nor of darkness.
->
-> <sup>[6](/bible/1-thessalonians/5#v6)</sup> Therefore let us not sleep, as do others; but let us watch and be sober.
->
-> <sup>[7](/bible/1-thessalonians/5#v7)</sup> For they that sleep sleep in the night; and they that be drunken are drunken in the night.
->
-> <sup>[8](/bible/1-thessalonians/5#v8)</sup> But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation.
->
-> <sup>[9](/bible/1-thessalonians/5#v9)</sup> For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,
->
-> <sup>[10](/bible/1-thessalonians/5#v10)</sup> Who died for us, that, whether we wake or sleep, we should live together with him.
 
 - But ye, brethren, are not in darkness, that that day should overtake you as a thief: You see that? We are not in darkness that that day should overtake us as a thief. Meaning you slick, you sleep. Said there's many sick among us and many sleep. And that day, we ain't in darkness that this day should creep up on us while you in the midst of your damn sleep.
 
+> <sup>[5](/bible/1-thessalonians/5#v5)</sup> Ye are all the children of light, and the children of the day: we are not of the night, nor of darkness.
+
 - Ye are all the children of light: You supposed to be the children of light.
+
+> <sup>[6](/bible/1-thessalonians/5#v6)</sup> Therefore let us not sleep, as do others; but let us watch and be sober.
 
 - Therefore let us not sleep: Therefore, let us examine ourselves. Damn. And not sleep.
 
@@ -606,9 +598,17 @@ Reading from Definition of communion (looked up on air)  *[[53:34](https://www.y
 
 - But let us watch and be sober: And watch and do what? Be sober. Let us watch and be sober, sober-minded in our conscience. Let us watch and let us be mindful, charitable.
 
+> <sup>[7](/bible/1-thessalonians/5#v7)</sup> For they that sleep sleep in the night; and they that be drunken are drunken in the night.
+>
+> <sup>[8](/bible/1-thessalonians/5#v8)</sup> But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation.
+
 - Putting on the breastplate of faith and love; and for an helmet, the hope of salvation: You see that? Put the breastplate of faith on, and love, taking care of your brothers and sisters, and a helmet of the hope of salvation. When you come together, we see the day approaching even more. We ain't forsaking the assembly of ourselves.
 
+> <sup>[9](/bible/1-thessalonians/5#v9)</sup> For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,
+
 - For God hath not appointed us to wrath: Cuz we the children of the light.
+
+> <sup>[10](/bible/1-thessalonians/5#v10)</sup> Who died for us, that, whether we wake or sleep, we should live together with him.
 
 - Who died for us: Who did what? Died for us.
 
@@ -618,10 +618,10 @@ Reading from Definition of communion (looked up on air)  *[[53:34](https://www.y
 **[1 Corinthians 11:31-32](/bible/1-corinthians/11#v31)**  *[[1:07:20](https://www.youtube.com/watch?v=VJ9UiaNuvQA&t=4040s)]*
 
 > <sup>[31](/bible/1-corinthians/11#v31)</sup> For if we would judge ourselves, we should not be judged.
->
-> <sup>[32](/bible/1-corinthians/11#v32)</sup> But when we are judged, we are chastened of the Lord, that we should not be condemned with the world.
 
 - For if we would judge ourselves, we should not be judged: If we judge ourselves, we not going to be judged.
+
+> <sup>[32](/bible/1-corinthians/11#v32)</sup> But when we are judged, we are chastened of the Lord, that we should not be condemned with the world.
 
 - But when we are judged, we are chastened of the Lord: But when you are judged, when I got to come correct you, understand this correction is coming from the Lord. Because why? He loves you. This letter ain't to discourage you. It's to correct you. I'm chastening you in the Lord.
 
@@ -631,12 +631,12 @@ Reading from Definition of communion (looked up on air)  *[[53:34](https://www.y
 **[Hebrews 12:5-6](/bible/hebrews/12#v5)**  *[[1:08:51](https://www.youtube.com/watch?v=VJ9UiaNuvQA&t=4131s)]*
 
 > <sup>[5](/bible/hebrews/12#v5)</sup> And ye have forgotten the exhortation which speaketh unto you as unto children, My son, despise not thou the chastening of the Lord, nor faint when thou art rebuked of him:
->
-> <sup>[6](/bible/hebrews/12#v6)</sup> For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth.
 
 - My son, despise not thou the chastening of the Lord: So don't despise the chastening of the Lord. Don't despise this letter.
 
 - Nor faint when thou art rebuked of him: Nor faint when you corrected. Because imagine those in Corinth, when you reading this letter out loud, that might put a spirit on some. It say don't despise the chastening of the Lord, or the rebuke.
+
+> <sup>[6](/bible/hebrews/12#v6)</sup> For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth.
 
 - For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth: Who the Lord love, who he deal with. You see that? Who the Lord loveth he chasteneth. So the mere fact that Paul's writing this letter is showing you that the Lord was dealing with the church. He loved the church, and Paul didn't want them to enter into condemnation. Let me get on the leaders and let me get on the congregation, because there's too many divisions among you.
 
@@ -646,12 +646,12 @@ Reading from Definition of communion (looked up on air)  *[[53:34](https://www.y
 > <sup>[32](/bible/1-corinthians/11#v32)</sup> But when we are judged, we are chastened of the Lord, that we should not be condemned with the world.
 >
 > <sup>[33](/bible/1-corinthians/11#v33)</sup> Wherefore, my brethren, when ye come together to eat, tarry one for another.
->
-> <sup>[34](/bible/1-corinthians/11#v34)</sup> And if any man hunger, let him eat at home; that ye come not together unto condemnation. And the rest will I set in order when I come.
 
 - Wherefore, my brethren, when ye come together to eat: When you come together to eat.
 
 - Tarry one for another: Look out for one another. Have charity. Look out for one another.
+
+> <sup>[34](/bible/1-corinthians/11#v34)</sup> And if any man hunger, let him eat at home; that ye come not together unto condemnation. And the rest will I set in order when I come.
 
 - And if any man hunger, let him eat at home: And if you hunger and you got that mind where you can't wait, do that stuff at home.
 

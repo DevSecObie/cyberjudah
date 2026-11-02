@@ -65,20 +65,16 @@ tags: ["15 Minutes w/ The Captains", "money", "pride", "sabbath"]
 > <sup>[5](/bible/isaiah/53#v5)</sup> But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.
 >
 > <sup>[6](/bible/isaiah/53#v6)</sup> All we like sheep have gone astray; we have turned every one to his own way; and the Lord hath laid on him the iniquity of us all.
->
-> <sup>[7](/bible/isaiah/53#v7)</sup> He was oppressed, and he was afflicted, yet he opened not his mouth: he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth.
->
-> <sup>[8](/bible/isaiah/53#v8)</sup> He was taken from prison and from judgment: and who shall declare his generation? for he was cut off out of the land of the living: for the transgression of my people was he stricken.
->
-> <sup>[9](/bible/isaiah/53#v9)</sup> And he made his grave with the wicked, and with the rich in his death; because he had done no violence, neither was any deceit in his mouth.
->
-> <sup>[10](/bible/isaiah/53#v10)</sup> Yet it pleased the Lord to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see his seed, he shall prolong his days, and the pleasure of the Lord shall prosper in his hand.
 
 - And with his stripes we are healed. All we like sheep have gone astray; we have turned every one to his own way; and the LORD hath laid on him the iniquity of us all: See that? He suffered many things for us. Think about it, his face being marred more than any man. You can't fathom what they did to his face, okay. We know they put the thorny crown on his head, they pierced his side, whipped him, spit on him, mocked him, okay. Unimaginable what our King suffered for us, for us. All we got to do: keep the Commandments and believe on him, okay.
 
 - He was oppressed, and he was afflicted, yet he opened not his mouth (verse seven): So now imagine that: being whipped, spit on, beat, your face jacked up, and he didn't open his mouth in terms of screaming to say stop, don't do that. He didn't do none of that. We'd be screaming out behind off soon as we get here one time. Think about when you watch like these slave movies, you know, 12 Years a Slave, Roots and things like that. Soon as a brother or sister get whipped they start screaming. That didn't happen to Christ. He didn't open his mouth. Only thing he said was, you know, it's finished, at the time when he was about to give up the ghost, like the scripture says. But he didn't scream, in terms of open his mouth in agony and telling him to stop. He didn't do that, okay. Unimaginable. He endured much grief for us, the nation of Israel. I'm going read that again.
 
+> <sup>[7](/bible/isaiah/53#v7)</sup> He was oppressed, and he was afflicted, yet he opened not his mouth: he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth.
+
 - As a sheep before her shearers is dumb, so he openeth not his mouth: You ever seen a sheep get sheared? They literally pull him over, you know, turn him upside down and start shaving them. They don't say nothing.
+
+> <sup>[8](/bible/isaiah/53#v8)</sup> He was taken from prison and from judgment: and who shall declare his generation? for he was cut off out of the land of the living: for the transgression of my people was he stricken.
 
 - He was taken from prison and from judgment: and who shall declare his generation? (verse eight): I ain't going to explain all of this. I'm going to jump back to Luke 9 in terms of the breakdown, but I'm just reading this to deal with him suffering many things.
 
@@ -92,18 +88,22 @@ tags: ["15 Minutes w/ The Captains", "money", "pride", "sabbath"]
 
     Christ said in the New Testament he's only sent to the law she of Israel, okay. John chapter 3:14, he tell you, as the serpent was lifted up, so shall the Son of man be lifted up. That was only for Israel.
 
+> <sup>[9](/bible/isaiah/53#v9)</sup> And he made his grave with the wicked, and with the rich in his death; because he had done no violence, neither was any deceit in his mouth.
+>
+> <sup>[10](/bible/isaiah/53#v10)</sup> Yet it pleased the Lord to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see his seed, he shall prolong his days, and the pleasure of the Lord shall prosper in his hand.
+
 
 **[Psalms 22:16-18](/bible/psalms/22#v16)**  *[[15:56](https://www.youtube.com/watch?v=7zrFly8UQtc&t=956s)]*
 
 > <sup>[16](/bible/psalms/22#v16)</sup> For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.
->
-> <sup>[17](/bible/psalms/22#v17)</sup> I may tell all my bones: they look and stare upon me.
->
-> <sup>[18](/bible/psalms/22#v18)</sup> They part my garments among them, and cast lots upon my vesture.
 
 - For dogs have compassed me: Let me see if I want to get Psalms real quick. Psalms chapter 22, verse 16 says, for dogs have compassed me. Who are the dogs? The Romans, the white man, okay. The so-called white man. The Bible calls him Esau. Prophetically Christ is calling them dogs here. All right, for dogs have compassed me. And this goes with actually Matthew 15. I might read it in a second maybe, but I don't want to get sidetracked.
 
+> <sup>[17](/bible/psalms/22#v17)</sup> I may tell all my bones: they look and stare upon me.
+
 - I may tell all my bones: they look and stare upon me: What is that saying? Some of Christ's bones were showing. His flesh was beat so bad you can see his bones, okay. That's why I said in Isaiah, his Vis was more mar than any man. You could literally see his bones, certain parts of his body. He was beat so bad.
+
+> <sup>[18](/bible/psalms/22#v18)</sup> They part my garments among them, and cast lots upon my vesture.
 
 - They part my garments among them, and cast lots upon my vesture: So let's jump back to Luke chapter 9 and start at 22 again.
 
@@ -238,26 +238,26 @@ tags: ["15 Minutes w/ The Captains", "money", "pride", "sabbath"]
 **[2 Esdras 9:7-11](/bible/2-esdras/9#v7)**  *[[35:31](https://www.youtube.com/watch?v=7zrFly8UQtc&t=2131s)]*
 
 > <sup>[7](/bible/2-esdras/9#v7)</sup> And every one that shall be saved, and shall be able to escape by his works, and by faith, whereby ye have believed,
->
-> <sup>[8](/bible/2-esdras/9#v8)</sup> Shall be preserved from the said perils, and shall see my salvation in my land, and within my borders: for I have sanctified them for me from the beginning.
->
-> <sup>[9](/bible/2-esdras/9#v9)</sup> Then shall they be in pitiful case, which now have abused my ways: and they that have cast them away despitefully shall dwell in torments.
->
-> <sup>[10](/bible/2-esdras/9#v10)</sup> For such as in their life have received benefits, and have not known me;
->
-> <sup>[11](/bible/2-esdras/9#v11)</sup> And they that have lothed my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised it;
 
 - And every one that shall be saved, and shall be able to escape by his works, and by faith: You see that? The only way we're going escape and be saved is by what it says: by works and faith. Works and faith, not faith alone, so-called Christian. Works and faith. I'm going read it again.
 
+> <sup>[8](/bible/2-esdras/9#v8)</sup> Shall be preserved from the said perils, and shall see my salvation in my land, and within my borders: for I have sanctified them for me from the beginning.
+
 - For I have sanctified them for me from the beginning: All right, the Lord knows whose are his. He knows that, and we want to be counted in that number. All right, I'm going keep going actually. Then shall they be in pitiful case. All right, this is 2 Esdras 9:9. I'm going read it again.
+
+> <sup>[9](/bible/2-esdras/9#v9)</sup> Then shall they be in pitiful case, which now have abused my ways: and they that have cast them away despitefully shall dwell in torments.
 
 - And they that have cast them away despitefully shall dwell in torments: Now think about that. Casting them away despitefully. What is that going into? Think about, like, even right now we're online teaching three to four times a day, maybe even five, six times a day, all day, on Clubhouse, biblical smoke, all these different social media platforms, TikTok, Instagram, YouTube, iicv, and the people say, nah, we're not keeping the Commandments. Faith, brother, faith alone. That's them casting them away despitefully, okay. All the mercy that the Lord's pouring out, pouring out mercy, all the teachers coming out: keep the Commandments in the faith of Christ, keep the Commandments in the faith of Christ. And the Christian says, we not doing that, okay, that's the old covenant. Meanwhile Christ said, if you want to enter into life, keep the Commandments, okay. Verse nine again.
 
 - Then shall they be in pitiful case, which now have abused my ways: What is his ways? Grace, mercy. They abused it. And they that have cast them away despitefully shall dwell in torments. You see that? That's them trying to save their life right here. They say, I don't want to do that, I can keep working, you know, God, he ain't got no problem with me wearing pants. I'm a woman, but he ain't got no problem with that. You trying to save your life, okay. You a man: God don't have a problem with me wearing a dress. You trying to save your life. But Christ says here you shall dwell in torments. That's going into you losing your life in that final judgment. I'll read this again.
 
+> <sup>[10](/bible/2-esdras/9#v10)</sup> For such as in their life have received benefits, and have not known me;
+
 - For such as in their life have received benefits, and have not known me: You see that? So you receive certain benefits. Brother, I can make $3,000 in four hours working on Saturday. Okay, God says remember the Sabbath day to keep it holy. You have six days of work, but the seventh day's the Lord's, don't work on that day. I just don't know, I don't, you know, I'm going just pray about it, okay. It says here, for such in their life has received benefits and have not known me. You see that? In this life you seek to save your life. You sought to save it, and you receive those benefits, okay.
 
 - And they that have loathed my law, while they had yet liberty (verse 11): You see that? While they had yet liberty. And when as yet place of repentance was open unto them, understood not, but despised it, the same must know it after death by pain. The same shall know it after death by pain. That's what Christ is saying in Luke chapter nine. I'm going read this again, verse 24: for whosoever will save his life shall lose it, but whosoever will lose his life for my sake shall save it, okay. That goes into both, actually. In 2 Esdras, verse 9 through 12 goes into you trying to save your life in this world. Verse 7 and 8 goes into denying yourself, okay, keeping the Commandments and whatnot. All right, it deals with both aspects there.
+
+> <sup>[11](/bible/2-esdras/9#v11)</sup> And they that have lothed my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised it;
 
 
 **[Luke 9:25](/bible/luke/9#v25)**  *[[41:01](https://www.youtube.com/watch?v=7zrFly8UQtc&t=2461s)]*
@@ -284,18 +284,18 @@ tags: ["15 Minutes w/ The Captains", "money", "pride", "sabbath"]
 > <sup>[10](/bible/luke/3#v10)</sup> And the people asked him, saying, What shall we do then?
 >
 > <sup>[11](/bible/luke/3#v11)</sup> He answereth and saith unto them, He that hath two coats, let him impart to him that hath none; and he that hath meat, let him do likewise.
->
-> <sup>[12](/bible/luke/3#v12)</sup> Then came also publicans to be baptized, and said unto him, Master, what shall we do?
->
-> <sup>[13](/bible/luke/3#v13)</sup> And he said unto them, Exact no more than that which is appointed you.
->
-> <sup>[14](/bible/luke/3#v14)</sup> And the soldiers likewise demanded of him, saying, And what shall we do? And he said unto them, Do violence to no man, neither accuse any falsely; and be content with your wages.
 
 - He that hath two coats, let him impart to him that hath none; and he that hath meat, let him do likewise: You see that? So if you have a bunch of extra stuff that you don't need, stop being covetousness and help somebody else, okay. Watch this, verse 12.
 
+> <sup>[12](/bible/luke/3#v12)</sup> Then came also publicans to be baptized, and said unto him, Master, what shall we do?
+
 - Then came also publicans to be baptized, and said unto him, Master, what shall we do?: So now a publican today is what we call a tax collector, or somebody that works in government, okay. So are we telling you government officials you can't work in government? No, we're not saying that, okay. But this is the response here.
 
+> <sup>[13](/bible/luke/3#v13)</sup> And he said unto them, Exact no more than that which is appointed you.
+
 - Exact no more than that which is appointed you: You see that? Don't be covetous. Don't extort your people, okay. Exact no more than that which is appointed you.
+
+> <sup>[14](/bible/luke/3#v14)</sup> And the soldiers likewise demanded of him, saying, And what shall we do? And he said unto them, Do violence to no man, neither accuse any falsely; and be content with your wages.
 
 - And the soldiers likewise demanded of him, saying, And what shall we do?: So now soldiers, this goes into, you know, obviously law enforcement, military, different branches of security, whatever the case.
 
@@ -307,18 +307,18 @@ tags: ["15 Minutes w/ The Captains", "money", "pride", "sabbath"]
 > <sup>[32](/bible/hebrews/10#v32)</sup> But call to remembrance the former days, in which, after ye were illuminated, ye endured a great fight of afflictions;
 >
 > <sup>[33](/bible/hebrews/10#v33)</sup> Partly, whilst ye were made a gazingstock both by reproaches and afflictions; and partly, whilst ye became companions of them that were so used.
->
-> <sup>[34](/bible/hebrews/10#v34)</sup> For ye had compassion of me in my bonds, and took joyfully the spoiling of your goods, knowing in yourselves that ye have in heaven a better and an enduring substance.
->
-> <sup>[35](/bible/hebrews/10#v35)</sup> Cast not away therefore your confidence, which hath great recompence of reward.
->
-> <sup>[36](/bible/hebrews/10#v36)</sup> For ye have need of patience, that, after ye have done the will of God, ye might receive the promise.
 
 - Whilst ye became companions of them that were so used: So now y'all became companions of those brothers that also were afflicted in Christ. That's what he's telling them here.
+
+> <sup>[34](/bible/hebrews/10#v34)</sup> For ye had compassion of me in my bonds, and took joyfully the spoiling of your goods, knowing in yourselves that ye have in heaven a better and an enduring substance.
 
 - And took joyfully the spoiling of your goods: You see that? You took joyfully the spoiling of your goods. This also is another level of deny yourself. Somebody comes in, okay, to spoil your goods. Are you going to deny Christ just to keep that stuff? No. Take it joyfully, okay. And took joyfully the spoiling of your goods. I'm not saying, you know, just let some random person come bust in your house and rob you. That's not what I'm talking about, okay. So don't be simple. All right, for ye had compassion of me in my bonds, and took joyfully the spoiling of your goods. I'm talking about when the persecution arises, and we going to know when it's on and popping, okay. And it's government officials, FBI, the alphabet boys, whatever the case. We're going to know. I ain't talking about some random person.
 
 - Knowing in yourselves that ye have in heaven a better and an enduring substance: You see that? Again, you don't seek to save your life, but lose it, because if you lose it you're going to save it. That's what this is saying, okay. That ye have in heaven a better and an enduring substance. All right, our real self. How it say it in Luke 9, verse 25: for what is a man advantage if he gain the whole world and lose himself. That lose himself: your real self, your spirit, your soul, okay. What it's going in here: in heaven a better and enduring substance.
+
+> <sup>[35](/bible/hebrews/10#v35)</sup> Cast not away therefore your confidence, which hath great recompence of reward.
+>
+> <sup>[36](/bible/hebrews/10#v36)</sup> For ye have need of patience, that, after ye have done the will of God, ye might receive the promise.
 
 - That, after ye have done the will of God, ye might receive the promise: Now, do I want to keep going? No, I'mma stop there, just in terms of dealing with the affliction and whatnot, okay. I'mma stop there. Let's jump back to Luke, because I ain't even get as far as I thought I was gonna get. Luke chapter 9, time, start at, read 25 again: for what is a man advantage if he gain the whole world and lose himself or be cast away. Okay, I do want to jump back to Hebrews again, something I thought about, I can get more into it. Hebrews 11, and this will go a little bit further into that affliction that we talked about in Hebrews 10. Yeah, I like this better. Verse 35.
 
@@ -326,20 +326,20 @@ tags: ["15 Minutes w/ The Captains", "money", "pride", "sabbath"]
 **[Hebrews 11:35-39](/bible/hebrews/11#v35)**  *[[50:14](https://www.youtube.com/watch?v=7zrFly8UQtc&t=3014s)]*
 
 > <sup>[35](/bible/hebrews/11#v35)</sup> Women received their dead raised to life again: and others were tortured, not accepting deliverance; that they might obtain a better resurrection:
->
-> <sup>[36](/bible/hebrews/11#v36)</sup> And others had trial of cruel mockings and scourgings, yea, moreover of bonds and imprisonment:
->
-> <sup>[37](/bible/hebrews/11#v37)</sup> They were stoned, they were sawn asunder, were tempted, were slain with the sword: they wandered about in sheepskins and goatskins; being destitute, afflicted, tormented;
->
-> <sup>[38](/bible/hebrews/11#v38)</sup> (Of whom the world was not worthy:) they wandered in deserts, and in mountains, and in dens and caves of the earth.
->
-> <sup>[39](/bible/hebrews/11#v39)</sup> And these all, having obtained a good report through faith, received not the promise:
 
 - And others were tortured, not accepting deliverance: That's what we wanted right there. Others were tortured, not accepting deliverance. What is that saying? You did not seek to save your life. Not accepting deliverance, that they might obtain a better resurrection.
 
+> <sup>[36](/bible/hebrews/11#v36)</sup> And others had trial of cruel mockings and scourgings, yea, moreover of bonds and imprisonment:
+
 - And others had trial of cruel mockings and scourgings: Listen to that. And others had trial of cruel mockings and scourgings.
 
+> <sup>[37](/bible/hebrews/11#v37)</sup> They were stoned, they were sawn asunder, were tempted, were slain with the sword: they wandered about in sheepskins and goatskins; being destitute, afflicted, tormented;
+
 - They were sawn asunder: What does sa aunder mean? Cut in half, limbs cut off, okay.
+
+> <sup>[38](/bible/hebrews/11#v38)</sup> (Of whom the world was not worthy:) they wandered in deserts, and in mountains, and in dens and caves of the earth.
+>
+> <sup>[39](/bible/hebrews/11#v39)</sup> And these all, having obtained a good report through faith, received not the promise:
 
 - And these all, having obtained a good report through faith, received not the promise: So we have four fathers and four mothers that went through all of the stuff we just read, but they didn't receive the kingdom as of yet, okay. But they know it's coming. They have faith in it, okay. They didn't deny Christ when these things came upon them. We also have to apply these same things here. That's what Christ is telling us in Luke chapter 9.
 
@@ -356,10 +356,6 @@ tags: ["15 Minutes w/ The Captains", "money", "pride", "sabbath"]
 **[Revelation 20:12-14](/bible/revelation/20#v12)**  *[[52:04](https://www.youtube.com/watch?v=7zrFly8UQtc&t=3124s)]*
 
 > <sup>[12](/bible/revelation/20#v12)</sup> And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works.
->
-> <sup>[13](/bible/revelation/20#v13)</sup> And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works.
->
-> <sup>[14](/bible/revelation/20#v14)</sup> And death and hell were cast into the lake of fire. This is the second death.
 
 - And the books were opened: and another book was opened, which is the book of life: So you have the Bible and books on your life, and they're on one side, the Bible over here and the books on your life on this other side, okay. And another book was open, which is the Book of Life. That's the Bible.
 
@@ -367,7 +363,11 @@ tags: ["15 Minutes w/ The Captains", "money", "pride", "sabbath"]
 
 - According to their works: Okay, so we got to be mindful. We're not getting away with evil. We have to remember that. That's what, when the scripture says fear the Lord, that's what it's going into. You have to think about, everything that we do is being recorded, okay. Everything. So we have to fear the Lord. And I'm going show you this, Matthew 18 real quick, for example. Matthew 18 and 10.
 
+> <sup>[13](/bible/revelation/20#v13)</sup> And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works.
+
 - And the sea gave up the dead which were in it: So all of our brothers and sisters that died in the sea, different things like that, they're going to stand before the Lord as well.
+
+> <sup>[14](/bible/revelation/20#v14)</sup> And death and hell were cast into the lake of fire. This is the second death.
 
 - And death and hell were cast into the lake of fire. This is the second death: That's why I wanted to jump here. And death and hell were cast into the lake of fire, this is the second death. That goes to what we read earlier, when it said the same must know it after death by pain, which is what? The second death, okay.
 

@@ -65,16 +65,14 @@ tags: ["IUIC in the ClassRoom", "faith"]
 > <sup>[1](/bible/psalms/83#v1)</sup> Keep not thou silence, O God: hold not thy peace, and be not still, O God.
 >
 > <sup>[2](/bible/psalms/83#v2)</sup> For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.
->
-> <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
->
-> <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
->
-> <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
 
 - Thine enemies make a tumult, and they that hate thee have lifted up the head: they cannot reach up and strike God, so they come at the ones they can touch.
 
 - They have taken crafty counsel against thy people and consulted against thy hidden ones. The hidden ones are our people with no sense of who they are, hidden because they were cut off from the book.
+
+> <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
+>
+> <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
 
 - Come, and let us cut them off from being a nation, that the name of Israel may be no more in remembrance: cut off from being a nationality, so you do not remember you are of Judah, Ephraim, Manasseh, Simeon, Gad, Naphtali or Asher, because if you did you would change how you think, how you eat and how you treat your neighbour.
 
@@ -108,24 +106,26 @@ tags: ["IUIC in the ClassRoom", "faith"]
 
     The earth is given into the hand of the wicked; he covereth the faces of the judges thereof. He has hidden the true kings of this earth and is holding back the emergence of God's people as long as he can — and Israel is busting out the seams now, which is why the information is being controlled and our pages taken down.
 
+> <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
+
 
 *[[33:44](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=2024s)]* **In The News: A video of a commentator answering Kanye West's claim that black people are of the twelve tribes** — He grants that a large percentage of those sold in the transatlantic slave trade were of Israelite tribes displaced in Africa, then says our people reach false conclusions from a colonised Christian framework and mistranslations of the King James Bible. The information is busting out the seams, so the work now is damage control: admit it, include themselves in it, and steer our people away from Christ. We never needed validation from any nation, only from the Most High and his son, and we had it before they were forced to say it.
 
 **[Joel 3:4-6](/bible/joel/3#v4)**  *[[39:45](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=2385s)]*
 
 > <sup>[4](/bible/joel/3#v4)</sup> Yea, and what have ye to do with me, O Tyre, and Zidon, and all the coasts of Palestine? will ye render me a recompence? and if ye recompense me, swiftly and speedily will I return your recompence upon your own head;
->
-> <sup>[5](/bible/joel/3#v5)</sup> Because ye have taken my silver and my gold, and have carried into your temples my goodly pleasant things:
->
-> <sup>[6](/bible/joel/3#v6)</sup> The children also of Judah and the children of Jerusalem have ye sold unto the Grecians, that ye might remove them far from their border.
 
 - What have ye to do with me, O Tyre and Zidon, and all the coasts of Palestine: Tyre and Zidon are the sons of Ham, the coasts of Palestine the sons of Ishmael.
+
+> <sup>[5](/bible/joel/3#v5)</sup> Because ye have taken my silver and my gold, and have carried into your temples my goodly pleasant things:
 
 - Because ye have taken my silver and my gold, and have carried into your temples my goodly pleasant things: they took the treasures out of our temples, our books and our writings, and put them in theirs.
 
 - The children also of Judah and the children of Jerusalem have ye sold unto the Grecians. This is the southern kingdom, Judah, Benjamin and Levi, sold to white people, and it is a prophecy specifically of the transatlantic slave trade.
 
 - So when they say black people sold black people, we know that, and the Bible said it first. Hamites sold us at places like Fort Ouidah and Ishmaelites sold us at places like Zanzibar, to the white man who came on the boats to the coast to pick us up. What they will not say is that those sellers were not the same people as us.
+
+> <sup>[6](/bible/joel/3#v6)</sup> The children also of Judah and the children of Jerusalem have ye sold unto the Grecians, that ye might remove them far from their border.
 
 
 <div class="reading">
@@ -238,10 +238,26 @@ Reading from a book, *New World Jewry 1493 to 1825*, the highlighted part shown 
 
 **[Joshua 6:1-10](/bible/joshua/6#v1)**  *[[1:03:42](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=3822s)]*
 
+- Jericho was straitly shut up because of the children of Israel; none went out and none came in. That is martial law, and the Canaanites declared it because of us.
+
 > <sup>[1](/bible/joshua/6#v1)</sup> Now Jericho was straitly shut up because of the children of Israel: none went out, and none came in.
 >
 > <sup>[2](/bible/joshua/6#v2)</sup> And the Lord said unto Joshua, See, I have given into thine hand Jericho, and the king thereof, and the mighty men of valour.
->
+
+- See, I have given into thine hand Jericho and the king thereof and the mighty men of valour: the city was given before a wall fell.
+
+- Compass the city, all ye men of war, once a day for six days, seven priests bearing seven trumpets of rams' horns, and seven times on the seventh day.
+
+- Let him that is armed pass on before the ark of the Lord. This was not a prayer team and these were not prayer warriors; the armed men went first. This book is a war book.
+
+  Precepts:
+  - **[Joshua 6:20-21](/bible/joshua/6#v20)**
+    > <sup>[20](/bible/joshua/6#v20)</sup> So the people shouted when the priests blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city.
+    >
+    > <sup>[21](/bible/joshua/6#v21)</sup> And they utterly destroyed all that was in the city, both man and woman, young and old, and ox, and sheep, and ass, with the edge of the sword.
+
+    The people shouted with a great shout and the wall fell down flat, and they went up every man straight before him and took the city. They did not pray the city into their hands; they took it, and utterly destroyed all that was in it, both men and women, young and old, and ox and sheep and ass, with the edge of the sword. This is the part so-called Christians get uncomfortable with. Our fathers did this.
+
 > <sup>[3](/bible/joshua/6#v3)</sup> And ye shall compass the city, all ye men of war, and go round about the city once. Thus shalt thou do six days.
 >
 > <sup>[4](/bible/joshua/6#v4)</sup> And seven priests shall bear before the ark seven trumpets of rams’ horns: and the seventh day ye shall compass the city seven times, and the priests shall blow with the trumpets.
@@ -257,22 +273,6 @@ Reading from a book, *New World Jewry 1493 to 1825*, the highlighted part shown 
 > <sup>[9](/bible/joshua/6#v9)</sup> And the armed men went before the priests that blew with the trumpets, and the rereward came after the ark, the priests going on, and blowing with the trumpets.
 >
 > <sup>[10](/bible/joshua/6#v10)</sup> And Joshua had commanded the people, saying, Ye shall not shout, nor make any noise with your voice, neither shall any word proceed out of your mouth, until the day I bid you shout; then shall ye shout.
-
-- Jericho was straitly shut up because of the children of Israel; none went out and none came in. That is martial law, and the Canaanites declared it because of us.
-
-- See, I have given into thine hand Jericho and the king thereof and the mighty men of valour: the city was given before a wall fell.
-
-- Compass the city, all ye men of war, once a day for six days, seven priests bearing seven trumpets of rams' horns, and seven times on the seventh day.
-
-- Let him that is armed pass on before the ark of the Lord. This was not a prayer team and these were not prayer warriors; the armed men went first. This book is a war book.
-
-  Precepts:
-  - **[Joshua 6:20-21](/bible/joshua/6#v20)**
-    > <sup>[20](/bible/joshua/6#v20)</sup> So the people shouted when the priests blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city.
-    >
-    > <sup>[21](/bible/joshua/6#v21)</sup> And they utterly destroyed all that was in the city, both man and woman, young and old, and ox, and sheep, and ass, with the edge of the sword.
-
-    The people shouted with a great shout and the wall fell down flat, and they went up every man straight before him and took the city. They did not pray the city into their hands; they took it, and utterly destroyed all that was in it, both men and women, young and old, and ox and sheep and ass, with the edge of the sword. This is the part so-called Christians get uncomfortable with. Our fathers did this.
 
 
 **[Numbers 14:6-12](/bible/numbers/14#v6)**  *[[1:08:53](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=4133s)]*
@@ -592,22 +592,6 @@ Reading from a text looked up on the ox goad  *[[1:36:31](https://www.youtube.co
 **[Sirach 46:12-20](/bible/sirach/46#v12)**  *[[1:45:33](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=6333s)]*
 
 > <sup>[12](/bible/sirach/46#v12)</sup> Let their bones flourish out of their place, and let the name of them that were honoured be continued upon their children.
->
-> <sup>[13](/bible/sirach/46#v13)</sup> Samuel, the prophet of the Lord, beloved of his Lord, established a kingdom, and anointed princes over his people.
->
-> <sup>[14](/bible/sirach/46#v14)</sup> By the law of the Lord he judged the congregation, and the Lord had respect unto Jacob.
->
-> <sup>[15](/bible/sirach/46#v15)</sup> By his faithfulness he was found a true prophet, and by his word he was known to be faithful in vision.
->
-> <sup>[16](/bible/sirach/46#v16)</sup> He called upon the mighty Lord, when his enemies pressed upon him on every side, when he offered the sucking lamb.
->
-> <sup>[17](/bible/sirach/46#v17)</sup> And the Lord thundered from heaven, and with a great noise made his voice to be heard.
->
-> <sup>[18](/bible/sirach/46#v18)</sup> And he destroyed the rulers of the Tyrians, and all the princes of the Philistines.
->
-> <sup>[19](/bible/sirach/46#v19)</sup> And before his long sleep he made protestations in the sight of the Lord and his anointed, I have not taken any man’s goods, so much as a shoe: and no man did accuse him.
->
-> <sup>[20](/bible/sirach/46#v20)</sup> And after his death he prophesied, and shewed the king his end, and lifted up his voice from the earth in prophecy, to blot out the wickedness of the people.
 
 - Let their bones flourish out of their place, and let the name of them that were honoured be continued upon their children: that is the blessing on the judges.
 
@@ -626,6 +610,22 @@ Reading from a text looked up on the ox goad  *[[1:36:31](https://www.youtube.co
     > <sup>[2](/bible/1-samuel/1#v2)</sup> And he had two wives; the name of the one was Hannah, and the name of the other Peninnah: and Peninnah had children, but Hannah had no children.
 
     Samuel the son of Elkanah, of Ramathaim-zophim of mount Ephraim; his mother was Hannah, and Elkanah's other wife Peninnah had children while Hannah had none. Put his birth at about 1100 BC, an approximate, and note where he is from; Ramah is the same area.
+
+> <sup>[13](/bible/sirach/46#v13)</sup> Samuel, the prophet of the Lord, beloved of his Lord, established a kingdom, and anointed princes over his people.
+>
+> <sup>[14](/bible/sirach/46#v14)</sup> By the law of the Lord he judged the congregation, and the Lord had respect unto Jacob.
+>
+> <sup>[15](/bible/sirach/46#v15)</sup> By his faithfulness he was found a true prophet, and by his word he was known to be faithful in vision.
+>
+> <sup>[16](/bible/sirach/46#v16)</sup> He called upon the mighty Lord, when his enemies pressed upon him on every side, when he offered the sucking lamb.
+>
+> <sup>[17](/bible/sirach/46#v17)</sup> And the Lord thundered from heaven, and with a great noise made his voice to be heard.
+>
+> <sup>[18](/bible/sirach/46#v18)</sup> And he destroyed the rulers of the Tyrians, and all the princes of the Philistines.
+>
+> <sup>[19](/bible/sirach/46#v19)</sup> And before his long sleep he made protestations in the sight of the Lord and his anointed, I have not taken any man’s goods, so much as a shoe: and no man did accuse him.
+>
+> <sup>[20](/bible/sirach/46#v20)</sup> And after his death he prophesied, and shewed the king his end, and lifted up his voice from the earth in prophecy, to blot out the wickedness of the people.
 
 
 **[1 Samuel 1:9-20](/bible/1-samuel/1#v9)**  *[[1:48:13](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=6493s)]*
@@ -723,12 +723,6 @@ Reading from a text looked up on the ox goad  *[[1:36:31](https://www.youtube.co
 **[1 Samuel 10:1-4](/bible/1-samuel/10#v1)**  *[[1:58:45](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=7125s)]*
 
 > <sup>[1](/bible/1-samuel/10#v1)</sup> Then Samuel took a vial of oil, and poured it upon his head, and kissed him, and said, Is it not because the Lord hath anointed thee to be captain over his inheritance?
->
-> <sup>[2](/bible/1-samuel/10#v2)</sup> When thou art departed from me to day, then thou shalt find two men by Rachel’s sepulchre in the border of Benjamin at Zelzah; and they will say unto thee, The asses which thou wentest to seek are found: and, lo, thy father hath left the care of the asses, and sorroweth for you, saying, What shall I do for my son?
->
-> <sup>[3](/bible/1-samuel/10#v3)</sup> Then shalt thou go on forward from thence, and thou shalt come to the plain of Tabor, and there shall meet thee three men going up to God to Beth–el, one carrying three kids, and another carrying three loaves of bread, and another carrying a bottle of wine:
->
-> <sup>[4](/bible/1-samuel/10#v4)</sup> And they will salute thee, and give thee two loaves of bread; which thou shalt receive of their hands.
 
 - Then Samuel took a vial of oil and poured it upon his head and kissed him: is it not because the Lord hath anointed thee to be captain over his inheritance?
 
@@ -741,6 +735,12 @@ Reading from a text looked up on the ox goad  *[[1:36:31](https://www.youtube.co
     > <sup>[27](/bible/1-samuel/9#v27)</sup> And as they were going down to the end of the city, Samuel said to Saul, Bid the servant pass on before us, (and he passed on,) but stand thou still a while, that I may shew thee the word of God.
 
     Samuel called Saul to the top of the house early in the morning, sent the servant on before them, and told Saul to stand still a while that he might shew him the word of God.
+
+> <sup>[2](/bible/1-samuel/10#v2)</sup> When thou art departed from me to day, then thou shalt find two men by Rachel’s sepulchre in the border of Benjamin at Zelzah; and they will say unto thee, The asses which thou wentest to seek are found: and, lo, thy father hath left the care of the asses, and sorroweth for you, saying, What shall I do for my son?
+>
+> <sup>[3](/bible/1-samuel/10#v3)</sup> Then shalt thou go on forward from thence, and thou shalt come to the plain of Tabor, and there shall meet thee three men going up to God to Beth–el, one carrying three kids, and another carrying three loaves of bread, and another carrying a bottle of wine:
+>
+> <sup>[4](/bible/1-samuel/10#v4)</sup> And they will salute thee, and give thee two loaves of bread; which thou shalt receive of their hands.
 
 
 **[1 Samuel 16:13](/bible/1-samuel/16#v13)**  *[[1:59:33](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=7173s)]*
@@ -755,7 +755,11 @@ Reading from a text looked up on the ox goad  *[[1:36:31](https://www.youtube.co
 **[1 Samuel 3:1-12](/bible/1-samuel/3#v1)**  *[[2:00:28](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=7228s)]*
 
 > <sup>[1](/bible/1-samuel/3#v1)</sup> And the child Samuel ministered unto the Lord before Eli. And the word of the Lord was precious in those days; there was no open vision.
->
+
+- The child Samuel ministered unto the Lord before Eli, and the word of the Lord was precious in those days: there was no open vision.
+
+- Three times the Lord called him and three times he ran to Eli saying, here am I, for thou calledst me, because Samuel did not yet know the Lord, neither was the word of the Lord yet revealed unto him. Then Eli perceived that it was the Lord calling the child and told him to answer, speak, Lord, for thy servant heareth.
+
 > <sup>[2](/bible/1-samuel/3#v2)</sup> And it came to pass at that time, when Eli was laid down in his place, and his eyes began to wax dim, that he could not see;
 >
 > <sup>[3](/bible/1-samuel/3#v3)</sup> And ere the lamp of God went out in the temple of the Lord, where the ark of God was, and Samuel was laid down to sleep;
@@ -775,14 +779,10 @@ Reading from a text looked up on the ox goad  *[[1:36:31](https://www.youtube.co
 > <sup>[10](/bible/1-samuel/3#v10)</sup> And the Lord came, and stood, and called as at other times, Samuel, Samuel. Then Samuel answered, Speak; for thy servant heareth.
 >
 > <sup>[11](/bible/1-samuel/3#v11)</sup> And the Lord said to Samuel, Behold, I will do a thing in Israel, at which both the ears of every one that heareth it shall tingle.
->
-> <sup>[12](/bible/1-samuel/3#v12)</sup> In that day I will perform against Eli all things which I have spoken concerning his house: when I begin, I will also make an end.
-
-- The child Samuel ministered unto the Lord before Eli, and the word of the Lord was precious in those days: there was no open vision.
-
-- Three times the Lord called him and three times he ran to Eli saying, here am I, for thou calledst me, because Samuel did not yet know the Lord, neither was the word of the Lord yet revealed unto him. Then Eli perceived that it was the Lord calling the child and told him to answer, speak, Lord, for thy servant heareth.
 
 - Behold, I will do a thing in Israel at which both the ears of every one that heareth it shall tingle: in that day I will perform against Eli all things which I have spoken concerning his house, and when I begin, I will also make an end. Samuel had to carry that word to Eli, who knew exactly what evil was going on in his own house with his sons.
+
+> <sup>[12](/bible/1-samuel/3#v12)</sup> In that day I will perform against Eli all things which I have spoken concerning his house: when I begin, I will also make an end.
 
 
 **[1 Samuel 7:3-13](/bible/1-samuel/7#v3)**  *[[2:02:47](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=7367s)]*

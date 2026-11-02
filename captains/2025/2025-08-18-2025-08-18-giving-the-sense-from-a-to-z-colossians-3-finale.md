@@ -52,26 +52,26 @@ tags: ["15 Minutes w/ The Captains", "obedience", "the-law"]
 **[Exodus 24:3-8](/bible/exodus/24#v3)**  *[[6:48](https://www.youtube.com/watch?v=aAxAUqCGwCU&t=408s)]*
 
 > <sup>[3](/bible/exodus/24#v3)</sup> And Moses came and told the people all the words of the Lord, and all the judgments: and all the people answered with one voice, and said, All the words which the Lord hath said will we do.
->
-> <sup>[4](/bible/exodus/24#v4)</sup> And Moses wrote all the words of the Lord, and rose up early in the morning, and builded an altar under the hill, and twelve pillars, according to the twelve tribes of Israel.
->
-> <sup>[5](/bible/exodus/24#v5)</sup> And he sent young men of the children of Israel, which offered burnt offerings, and sacrificed peace offerings of oxen unto the Lord.
->
-> <sup>[6](/bible/exodus/24#v6)</sup> And Moses took half of the blood, and put it in basons; and half of the blood he sprinkled on the altar.
->
-> <sup>[7](/bible/exodus/24#v7)</sup> And he took the book of the covenant, and read in the audience of the people: and they said, All that the Lord hath said will we do, and be obedient.
->
-> <sup>[8](/bible/exodus/24#v8)</sup> And Moses took the blood, and sprinkled it on the people, and said, Behold the blood of the covenant, which the Lord hath made with you concerning all these words.
 
 - And all the people answered with one voice and said, All the words which the Lord hath said will we do: What is that? That's an agreement, which is another word for covenant. They agreed that all the words which Moses said unto them from the Lord they will do. Go ahead.
 
+> <sup>[4](/bible/exodus/24#v4)</sup> And Moses wrote all the words of the Lord, and rose up early in the morning, and builded an altar under the hill, and twelve pillars, according to the twelve tribes of Israel.
+
 - And twelve pillars, according to the twelve tribes of Israel: According to the what? According to the 12 tribes of Israel. All right. Come on.
 
+> <sup>[5](/bible/exodus/24#v5)</sup> And he sent young men of the children of Israel, which offered burnt offerings, and sacrificed peace offerings of oxen unto the Lord.
+
 - And he sent young men of the children of Israel, which offered burnt offerings: Read that verse one more time. Of the who? Come on.
+
+> <sup>[6](/bible/exodus/24#v6)</sup> And Moses took half of the blood, and put it in basons; and half of the blood he sprinkled on the altar.
+>
+> <sup>[7](/bible/exodus/24#v7)</sup> And he took the book of the covenant, and read in the audience of the people: and they said, All that the Lord hath said will we do, and be obedient.
 
 - And he took the book of the covenant: The book of the what? The book of the covenant. Read.
 
 - All that the Lord hath said will we do, and be obedient: So remember Psalms 50, my saints who made a covenant with me by sacrifice.
+
+> <sup>[8](/bible/exodus/24#v8)</sup> And Moses took the blood, and sprinkled it on the people, and said, Behold the blood of the covenant, which the Lord hath made with you concerning all these words.
 
 - And Moses took the blood, and sprinkled it on the people: On what people? Come on.
 
@@ -83,20 +83,20 @@ tags: ["15 Minutes w/ The Captains", "obedience", "the-law"]
 **[Deuteronomy 33:2-5](/bible/deuteronomy/33#v2)**  *[[9:16](https://www.youtube.com/watch?v=aAxAUqCGwCU&t=556s)]*
 
 > <sup>[2](/bible/deuteronomy/33#v2)</sup> And he said, The Lord came from Sinai, and rose up from Seir unto them; he shined forth from mount Paran, and he came with ten thousands of saints: from his right hand went a fiery law for them.
->
-> <sup>[3](/bible/deuteronomy/33#v3)</sup> Yea, he loved the people; all his saints are in thy hand: and they sat down at thy feet; every one shall receive of thy words.
->
-> <sup>[4](/bible/deuteronomy/33#v4)</sup> Moses commanded us a law, even the inheritance of the congregation of Jacob.
->
-> <sup>[5](/bible/deuteronomy/33#v5)</sup> And he was king in Jeshurun, when the heads of the people and the tribes of Israel were gathered together.
 
 - From his right hand went a fiery law for them: Watch this.
+
+> <sup>[3](/bible/deuteronomy/33#v3)</sup> Yea, he loved the people; all his saints are in thy hand: and they sat down at thy feet; every one shall receive of thy words.
 
 - Yea, he loved the people: The who? What people was in the wilderness? The Israelites. Watch this.
 
 - All his saints are in thy hand: All his what? Who were the people that he loved? So the people that he had a fiery law for, that he gave the fiery law to, that he loved, were the Israelites, which were his saints. Come on.
 
+> <sup>[4](/bible/deuteronomy/33#v4)</sup> Moses commanded us a law, even the inheritance of the congregation of Jacob.
+
 - Even the inheritance of the congregation of Jacob: The congregation of who? Of Jacob. The Israelites. Come on.
+
+> <sup>[5](/bible/deuteronomy/33#v5)</sup> And he was king in Jeshurun, when the heads of the people and the tribes of Israel were gathered together.
 
 - When the heads of the people and the tribes of Israel were gathered together: The what? They was what? Gather my saints unto me, which made a covenant with me by sacrifice. Psalms 148:14.
 
@@ -180,12 +180,12 @@ Reading from On-screen text on Colossi  *[[17:27](https://www.youtube.com/watch?
 **[1 Peter 1:1-2](/bible/1-peter/1#v1)**  *[[18:15](https://www.youtube.com/watch?v=aAxAUqCGwCU&t=1095s)]*
 
 > <sup>[1](/bible/1-peter/1#v1)</sup> Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,
->
-> <sup>[2](/bible/1-peter/1#v2)</sup> Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied.
 
 - To the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia: Now Asia would include Colosse. So let's see about these strangers scattered. Verse two.
 
 - Elect: So these strangers that are scattered are what? Come on.
+
+> <sup>[2](/bible/1-peter/1#v2)</sup> Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied.
 
 - Through sanctification of the Spirit, unto obedience: And this is off topic, but it says through sanctification of the spirit unto obedience. Christianity never talks about that. If you receive the Holy Spirit, you're not gonna run around babbling and gyrating and on the floor passed out. The spirit causes you to obey. You understand? The spirit is unto obedience. When the Holy Spirit enters into you, you begin to reap the fruits of the spirit, which is love, which according to the Bible, love is what? They're keeping other commandments. You understand? But anyhow, let's deal with elect. Give me that real quick. Isaiah 45 and 4.
 
@@ -219,14 +219,14 @@ Reading from On-screen text on Colossi  *[[17:27](https://www.youtube.com/watch?
 **[Romans 11:1-2](/bible/romans/11#v1)**  *[[22:48](https://www.youtube.com/watch?v=aAxAUqCGwCU&t=1368s)]*
 
 > <sup>[1](/bible/romans/11#v1)</sup> I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin.
->
-> <sup>[2](/bible/romans/11#v2)</sup> God hath not cast away his people which he foreknew. Wot ye not what the scripture saith of Elias? how he maketh intercession to God against Israel, saying,
 
 - I say then, Hath God cast away his people: Cast away who? His people. And remember his people and his saints was always synonymous. You understand? Have God cast away his people? Who are they? Go ahead.
 
 - For I also am an Israelite: What? An Israelite. So who are God's people? Thus saith the Lord. In the New Testament, the Israelites. Come on.
 
 - Of the tribe of Benjamin: Southern kingdom to be exact. Come on.
+
+> <sup>[2](/bible/romans/11#v2)</sup> God hath not cast away his people which he foreknew. Wot ye not what the scripture saith of Elias? how he maketh intercession to God against Israel, saying,
 
 - God hath not cast away his people which he foreknew: Which he what? So again, who is that elect according to the foreknowledge of God? The Israelites. That's the people who he, verse 28.
 
@@ -267,16 +267,16 @@ Reading from On-screen text on Colossi  *[[17:27](https://www.youtube.com/watch?
 **[Exodus 21:1-3](/bible/exodus/21#v1)**  *[[27:52](https://www.youtube.com/watch?v=aAxAUqCGwCU&t=1672s)]*
 
 > <sup>[1](/bible/exodus/21#v1)</sup> Now these are the judgments which thou shalt set before them.
->
-> <sup>[2](/bible/exodus/21#v2)</sup> If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing.
->
-> <sup>[3](/bible/exodus/21#v3)</sup> If he came in by himself, he shall go out by himself: if he were married, then his wife shall go out with him.
 
 - Now these are the judgments which thou shalt set before them: So in Exodus chapter 20, you're reading about God giving the Ten Commandments to the nation of Israel. They was on the mount. They got scared. They were like, "Lord, we want Moses, we want to deal with you. We scared of God." You understand? So the first verse of the following chapter, after he gave the commandments, he's talking about judgments. You understand? Because what happens if you don't keep the commandments? There's judgments involved.
 
 - Shout out to Bishop Kani. It was a few tabernacles ago. I want to say 2021, where he went over this in depth, and it really, you know, it put things into a much better perspective. When we think of Deuteronomy 28, when we think about the curses, we mainly think of captivity. But prior, even within the curses, prior to captivity, the Lord will say, "Look, I'm going to judge your land. I'm going to make y'all sick." So on and so forth. And then it goes into war. And then you read about captivity. Y'all going to lose the war and become prisoners of war, which Bishop Nathanyel hit on this past Sabbath. Right? So Deuteronomy 28 is essentially a buildup of judgments. It'll start with you right there in your land. You still don't hearken, right? I'm going see your enemies. Y'all going to lose to them. They going to take you captive. You understand? So on and so forth. But before we even get to the curses in Deuteronomy 28, this is what you read about while we in the land. Watch this. Verse two.
 
+> <sup>[2](/bible/exodus/21#v2)</sup> If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing.
+
 - If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing: So how in the hell, we just got delivered out of Egypt from being bond servants, right? The Lord has given us a land flowing with milk and honey, meaning resources. You understand? Land, an inheritance. How could a brother end up in a position as a Hebrew servant? Huh? Read verse three.
+
+> <sup>[3](/bible/exodus/21#v3)</sup> If he came in by himself, he shall go out by himself: if he were married, then his wife shall go out with him.
 
 - If he were married, then his wife shall go out with him: If he was married when he became your servant, go ahead. Now, give me Proverbs 13:18. Like I said, these are judgments right here. So how could a brother have ended up being a Hebrew servant after the Lord just delivered us out of servitude? Read what you got.
 
@@ -291,14 +291,6 @@ Reading from On-screen text on Colossi  *[[17:27](https://www.youtube.com/watch?
 **[Leviticus 25:39-43](/bible/leviticus/25#v39)**  *[[31:14](https://www.youtube.com/watch?v=aAxAUqCGwCU&t=1874s)]*
 
 > <sup>[39](/bible/leviticus/25#v39)</sup> And if thy brother that dwelleth by thee be waxen poor, and be sold unto thee; thou shalt not compel him to serve as a bondservant:
->
-> <sup>[40](/bible/leviticus/25#v40)</sup> But as an hired servant, and as a sojourner, he shall be with thee, and shall serve thee unto the year of jubile:
->
-> <sup>[41](/bible/leviticus/25#v41)</sup> And then shall he depart from thee, both he and his children with him, and shall return unto his own family, and unto the possession of his fathers shall he return.
->
-> <sup>[42](/bible/leviticus/25#v42)</sup> For they are my servants, which I brought forth out of the land of Egypt: they shall not be sold as bondmen.
->
-> <sup>[43](/bible/leviticus/25#v43)</sup> Thou shalt not rule over him with rigour; but shalt fear thy God.
 
 - And if thy brother that dwelleth by thee be waxen poor, and be sold unto thee: Right. So again, and this is a testament to the Lord's mercy. Like I said, a lot of people so dumb. Well, well, not dumb. They are dumb, but the dumb ones are more so willingly ignorant. But all of our people prior to the knowledge of the truth are very ignorant. You understand? We ignorant of history and really putting things into perspective. God is merciful. Captivity by way of slave ships and other nations and chatter slave, that was last resort. That was God's last resort. You understand? When we was in our land and we started tripping and you doing stuff, this would be the first thing that will happen to you. You understand? The first major sign of judgment from God, you will have to be sold to your damn brother. You understand? Which is not child slavery. That's not somebody whipping your nationality out of you. That ain't that. That's the mercy of the Lord. You understand?
 
@@ -306,7 +298,15 @@ Reading from On-screen text on Colossi  *[[17:27](https://www.youtube.com/watch?
 
 - Thou shalt not compel him to serve as a bondservant: but as an hired servant, and as a sojourner: until the year of jubile: Until the year of release. So you're not going to treat him how you treat a bondservant. The bondservants are described starting at verse 44, dealing with the other nations. We treated the other nations with force. You understand? Our brothers, we couldn't deal with them like that. We dealt with them as hired servants, like employees. Go ahead.
 
+> <sup>[40](/bible/leviticus/25#v40)</sup> But as an hired servant, and as a sojourner, he shall be with thee, and shall serve thee unto the year of jubile:
+>
+> <sup>[41](/bible/leviticus/25#v41)</sup> And then shall he depart from thee, both he and his children with him, and shall return unto his own family, and unto the possession of his fathers shall he return.
+>
+> <sup>[42](/bible/leviticus/25#v42)</sup> For they are my servants, which I brought forth out of the land of Egypt: they shall not be sold as bondmen.
+
 - For they are my servants, which I brought forth out of the land of Egypt: they shall not be sold as bondmen: Right? So this how you know this is not child slavery. This ain't that. This ain't Deuteronomy 28:68. You going to be sold unto your enemies for bondmen and bondwomen. This ain't that. This is more like an employee contract type of thing. You understand? Like Jeffrey in damn bair, right? Come on.
+
+> <sup>[43](/bible/leviticus/25#v43)</sup> Thou shalt not rule over him with rigour; but shalt fear thy God.
 
 - Thou shalt not rule over him with rigour; but shalt fear thy God: So remember we read in Romans 3, right? Paul saying, no, we don't make void the law through faith. We establish the law. So Leviticus 25:43, "Thou shalt not rule over him with rigor, but fear thy God." Go to Colossians 4:1.
 
@@ -329,12 +329,12 @@ Reading from On-screen text on Colossi  *[[17:27](https://www.youtube.com/watch?
 **[Sirach 33:30-31](/bible/sirach/33#v30)**  *[[36:20](https://www.youtube.com/watch?v=aAxAUqCGwCU&t=2180s)]*
 
 > <sup>[30](/bible/sirach/33#v30)</sup> If thou have a servant, let him be unto thee as thyself, because thou hast bought him with a price.
->
-> <sup>[31](/bible/sirach/33#v31)</sup> If thou have a servant, entreat him as a brother: for thou hast need of him, as of thine own soul: if thou entreat him evil, and he run from thee, which way wilt thou go to seek him?
 
 - If thou have a servant: So remember this apocrypha. This is before the New Testament. So a Christian can't sit up here and say this talking about slavery and all nations and Roman servants. No. This is talking about Hebrew with Hebrew. You understand? So if you as an Israelite have a servant that is an Israelite, which is your brother that is wax and poor, come on.
 
 - Let him be unto thee as thyself: Let him what? Meaning Leviticus 19:17 and 18 applies to your servants. Just because poverty and shame overtook him doesn't make him less than you as a brother. You understand? Make sure you love him as you love thyself. Come on.
+
+> <sup>[31](/bible/sirach/33#v31)</sup> If thou have a servant, entreat him as a brother: for thou hast need of him, as of thine own soul: if thou entreat him evil, and he run from thee, which way wilt thou go to seek him?
 
 - If thou have a servant, entreat him as a brother: Deal with him as a brother. Read.
 
@@ -358,12 +358,6 @@ Reading from On-screen text on Colossi  *[[17:27](https://www.youtube.com/watch?
 **[Deuteronomy 15:12-15](/bible/deuteronomy/15#v12)**  *[[38:02](https://www.youtube.com/watch?v=aAxAUqCGwCU&t=2282s)]*
 
 > <sup>[12](/bible/deuteronomy/15#v12)</sup> And if thy brother, an Hebrew man, or an Hebrew woman, be sold unto thee, and serve thee six years; then in the seventh year thou shalt let him go free from thee.
->
-> <sup>[13](/bible/deuteronomy/15#v13)</sup> And when thou sendest him out free from thee, thou shalt not let him go away empty:
->
-> <sup>[14](/bible/deuteronomy/15#v14)</sup> Thou shalt furnish him liberally out of thy flock, and out of thy floor, and out of thy winepress: of that wherewith the Lord thy God hath blessed thee thou shalt give unto him.
->
-> <sup>[15](/bible/deuteronomy/15#v15)</sup> And thou shalt remember that thou wast a bondman in the land of Egypt, and the Lord thy God redeemed thee: therefore I command thee this thing to day.
 
 - And if thy brother, an Hebrew man: A what? If thy brother, a Hebrew man, come on.
 
@@ -371,7 +365,13 @@ Reading from On-screen text on Colossi  *[[17:27](https://www.youtube.com/watch?
 
 - Then in the seventh year thou shalt let him go free from thee: That's the year of release. Go ahead.
 
+> <sup>[13](/bible/deuteronomy/15#v13)</sup> And when thou sendest him out free from thee, thou shalt not let him go away empty:
+>
+> <sup>[14](/bible/deuteronomy/15#v14)</sup> Thou shalt furnish him liberally out of thy flock, and out of thy floor, and out of thy winepress: of that wherewith the Lord thy God hath blessed thee thou shalt give unto him.
+
 - Thou shalt furnish him liberally out of thy flock, and out of thy floor: But so look this, see, this the kicker, right? They use the Bible to justify slavery. But Paul was referencing these laws. When the hell did the white man do that to us in slavery? When did the white man furnish us liberally after serving for six years? Hell no. Daddy, that's how you know Colossians 3 ain't talking about that. They butchered that to brainwash us and indoctrinate. They Satanized the damn scripture. Like when you watch the show Them, that season finale, it show you how Satan took over their damn mind and made them treat us evil to enforce Deuteronomy 28 up on Negro. They show you that in the show. They literally show you Satan taking over the white man to ensure that Deuteronomy 28 was carried out upon Negroes. Literally. The show made it plain. You understand? You ain't even got to watch the whole damn show. Just go watch the season one finale. It tell you all you need to know. But anyway, come on.
+
+> <sup>[15](/bible/deuteronomy/15#v15)</sup> And thou shalt remember that thou wast a bondman in the land of Egypt, and the Lord thy God redeemed thee: therefore I command thee this thing to day.
 
 - And thou shalt remember that thou wast a bondman in the land of Egypt, and the Lord thy God redeemed thee: Right? So whenever you got a brother that's serving you, remember how you was in Egypt, stressed out and crying to the Lord because of your bondage. Let that be a reminder. Let that be on your conscience in terms of how you deal with your brother that's now in servitude to you. Don't become no damn Pharaoh … You understand? Give him that which is just and equal. All right. Go to Serak 7 to 21. So it said when you let him go, furnish him liberally out of your flock. Read that.
 
@@ -390,48 +390,48 @@ Reading from On-screen text on Colossi  *[[17:27](https://www.youtube.com/watch?
 **[Philemon 1:10-19](/bible/philemon/1#v10)**  *[[42:07](https://www.youtube.com/watch?v=aAxAUqCGwCU&t=2527s)]*
 
 > <sup>[10](/bible/philemon/1#v10)</sup> I beseech thee for my son Onesimus, whom I have begotten in my bonds:
->
-> <sup>[11](/bible/philemon/1#v11)</sup> Which in time past was to thee unprofitable, but now profitable to thee and to me:
->
-> <sup>[12](/bible/philemon/1#v12)</sup> Whom I have sent again: thou therefore receive him, that is, mine own bowels:
->
-> <sup>[13](/bible/philemon/1#v13)</sup> Whom I would have retained with me, that in thy stead he might have ministered unto me in the bonds of the gospel:
->
-> <sup>[14](/bible/philemon/1#v14)</sup> But without thy mind would I do nothing; that thy benefit should not be as it were of necessity, but willingly.
->
-> <sup>[15](/bible/philemon/1#v15)</sup> For perhaps he therefore departed for a season, that thou shouldest receive him for ever;
->
-> <sup>[16](/bible/philemon/1#v16)</sup> Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more unto thee, both in the flesh, and in the Lord?
->
-> <sup>[17](/bible/philemon/1#v17)</sup> If thou count me therefore a partner, receive him as myself.
->
-> <sup>[18](/bible/philemon/1#v18)</sup> If he hath wronged thee, or oweth thee ought, put that on mine account;
->
-> <sup>[19](/bible/philemon/1#v19)</sup> I Paul have written it with mine own hand, I will repay it: albeit I do not say to thee how thou owest unto me even thine own self besides.
 
 - I beseech thee for my son Onesimus: Right. So this is Paul writing a letter to a brother Filimon. Filimon had a young servant named Onimus, and Onimus ran away from Filimon and got in contact with Paul and became, basically went under Paul's wing. Paul took him under his wing. So Paul is writing to Filimon on behalf of Onimus, right? Like, look bro, I beseech you for my brother. Go ahead.
+
+> <sup>[11](/bible/philemon/1#v11)</sup> Which in time past was to thee unprofitable, but now profitable to thee and to me:
 
 - Which in time past was to thee unprofitable: In time past he was unto thee unprofitable. Meaning, like when you read later, we going to get to the verses, but basically Onimus, when he ran away, he ain't run away empty. He stole something. You know what I'm saying? He one of them servants. He took something from Filimma, mad. You know what I'm saying? That little … ran off with my stuff. Ran off on the club twice. So Paul, like, I know in past time, right, he was unto thee unprofitable. Go ahead.
 
 - But now profitable to thee and to me: Right? But now he's profitable. I didn't taught him the gospel. The brother repented. The brother didn't got his mind right. You understand? Come on.
 
+> <sup>[12](/bible/philemon/1#v12)</sup> Whom I have sent again: thou therefore receive him, that is, mine own bowels:
+
 - Whom I have sent again: thou therefore receive him: So right now he on the way to you right now. So I'm sending this letter to proceed him so you can receive him. He's a changed man now. Come on.
+
+> <sup>[13](/bible/philemon/1#v13)</sup> Whom I would have retained with me, that in thy stead he might have ministered unto me in the bonds of the gospel:
 
 - Whom I would have retained with me: Right. I would have had him stay with me. Go ahead.
 
 - That in thy stead he might have ministered unto me in the bonds of the gospel: Right? Since I ain't got you, then he, because believe it or not, he got a lot of your ways, and he could have ministered unto me in your stead. Go ahead.
 
+> <sup>[14](/bible/philemon/1#v14)</sup> But without thy mind would I do nothing; that thy benefit should not be as it were of necessity, but willingly.
+
 - But without thy mind would I do nothing: But without your permit, I ain't just going to, you know, keep your servant. You know what I'm saying? I ain't going to keep that. That brother supposed to be with you. So without your consent, I wouldn't just go to keep the brother. Go ahead.
 
 - That thy benefit should not be as it were of necessity, but willingly: Right? I rather you willingly be like, "No, go ahead. Take that. Take that brother. Keep that brother. Go ahead."
 
+> <sup>[15](/bible/philemon/1#v15)</sup> For perhaps he therefore departed for a season, that thou shouldest receive him for ever;
+
 - For perhaps he therefore departed for a season, that thou shouldest receive him for ever: Right? And I love this scripture because, and I'm kind of going off topic for a split second, but some brothers and sisters deal with like rebellious teenage kids, or kids that get, you know, the 18, 19, you know, whatever. And some kids, I'm sorry, are not the elect. Some of our kids is not the elect. You understand? Some of them just ain't right and ain't going to be right. Some of them are, but they got to learn the hard way. Like you read in Luke 15, a prodigal son, he had to go waste his goods with riders living and go through it and damn eat with the damn pigs. You understand? He had to see that it wasn't nothing for him in the world but pain. You understand? And he took his ass back home to his daddy. That was kind of what Paul's saying dealing with Onimus. He departed from you for a season so he can learn his lesson and return unto thee forever. You understand? Now he got his mind right. Come on. Verse 16.
+
+> <sup>[16](/bible/philemon/1#v16)</sup> Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more unto thee, both in the flesh, and in the Lord?
 
 - Not now as a servant, but above a servant, a brother beloved: Right? So when you receive him, don't receive him as a servant. He more than a servant. Now he your brother in Christ. Come on.
 
+> <sup>[17](/bible/philemon/1#v17)</sup> If thou count me therefore a partner, receive him as myself.
+
 - If thou count me therefore a partner, receive him as myself: If you respect me, bro, receive him like you will receive me. I'm vouching. Read.
 
+> <sup>[18](/bible/philemon/1#v18)</sup> If he hath wronged thee, or oweth thee ought, put that on mine account;
+
 - If he hath wronged thee, or oweth thee ought, put that on mine account: You see that? So that's how you know, that's why, what I was saying, in past times I'm profitable unto you. You know, you probably, you know, lost some property to me, probably took something. But whatever he took from you, put it on my account. I got it. Don't worry about it. I cover it. Come on.
+
+> <sup>[19](/bible/philemon/1#v19)</sup> I Paul have written it with mine own hand, I will repay it: albeit I do not say to thee how thou owest unto me even thine own self besides.
 
 - I Paul have written it with mine own hand, I will repay it: Come on.
 
@@ -452,20 +452,20 @@ Reading from On-screen text on Colossi  *[[17:27](https://www.youtube.com/watch?
 **[1 Peter 2:18-20](/bible/1-peter/2#v18)**  *[[48:55](https://www.youtube.com/watch?v=aAxAUqCGwCU&t=2935s)]*
 
 > <sup>[18](/bible/1-peter/2#v18)</sup> Servants, be subject to your masters with all fear; not only to the good and gentle, but also to the froward.
->
-> <sup>[19](/bible/1-peter/2#v19)</sup> For this is thankworthy, if a man for conscience toward God endure grief, suffering wrongfully.
->
-> <sup>[20](/bible/1-peter/2#v20)</sup> For what glory is it, if, when ye be buffeted for your faults, ye shall take it patiently? but if, when ye do well, and suffer for it, ye take it patiently, this is acceptable with God.
 
 - Servants, be subject to your masters with all fear; not only to the good and gentle: Right? Not only to the good and gentle masters, the good bosses. Go ahead.
 
 - But also to the froward: But also to the forward, to the meanies. Go ahead.
+
+> <sup>[19](/bible/1-peter/2#v19)</sup> For this is thankworthy, if a man for conscience toward God endure grief, suffering wrongfully.
 
 - For this is thankworthy: For this is what?
 
 - If a man for conscience toward God endure grief: A man for what? That's why he said not with eye service as men pleasers, as a servant. Remember, going way back to the history of Exodus 21. For you to even get in that position, brother, that means you had to have been an error against God. You was refusing some instruction from God to even be in that predicament. You understand? So you in that predicament is to humble you. So you remain humble as a servant to that brother. You understand that you remain humble whether he mean or nice, because you're serving with conscience toward God. God is the one that's going to show favor, or put the spirit of favor on him to show unto you. You understand? You ain't being a man pleaser. You serving God. Your conscience is toward God. Come on.
 
 - Suffering wrongfully: Suffering wrongfully. Go ahead.
+
+> <sup>[20](/bible/1-peter/2#v20)</sup> For what glory is it, if, when ye be buffeted for your faults, ye shall take it patiently? but if, when ye do well, and suffer for it, ye take it patiently, this is acceptable with God.
 
 - For what glory is it, if, when ye be buffeted for your faults, ye shall take it patiently: Right. So if you did something wrong, it ain't no glory and you taking that and taking no punishment. You did wrong. What the hell? Come on.
 
@@ -497,14 +497,12 @@ Reading from On-screen text on Colossi  *[[17:27](https://www.youtube.com/watch?
 **[1 Corinthians 7:21-23](/bible/1-corinthians/7#v21)**  *[[53:04](https://www.youtube.com/watch?v=aAxAUqCGwCU&t=3184s)]*
 
 > <sup>[21](/bible/1-corinthians/7#v21)</sup> Art thou called being a servant? care not for it: but if thou mayest be made free, use it rather.
->
-> <sup>[22](/bible/1-corinthians/7#v22)</sup> For he that is called in the Lord, being a servant, is the Lord’s freeman: likewise also he that is called, being free, is Christ’s servant.
->
-> <sup>[23](/bible/1-corinthians/7#v23)</sup> Ye are bought with a price; be not ye the servants of men.
 
 - Art thou called being a servant? care not for it: Right? So was you called being a servant? You wax poor and you had to serve your brother. Don't worry about it. Go ahead.
 
 - But if thou mayest be made free, use it rather: But if you got a time or release coming, don't worry about that. Hell, focus on serving the Lord and make you free. Come on.
+
+> <sup>[22](/bible/1-corinthians/7#v22)</sup> For he that is called in the Lord, being a servant, is the Lord’s freeman: likewise also he that is called, being free, is Christ’s servant.
 
 - For he that is called in the Lord, being a servant: So if you was called while you was a servant, go ahead.
 
@@ -513,6 +511,8 @@ Reading from On-screen text on Colossi  *[[17:27](https://www.youtube.com/watch?
 - Likewise also he that is called, being free: And if you was called being free, like Paul, go ahead.
 
 - Is Christ's servant: Is Christ servant, or a prisoner? Paul said, "I'm a prisoner of the Lord." Come on.
+
+> <sup>[23](/bible/1-corinthians/7#v23)</sup> Ye are bought with a price; be not ye the servants of men.
 
 - Ye are bought with a price: You are bought with a price. Meaning with Christ's blood. Read.
 
@@ -549,18 +549,18 @@ Reading from On-screen text on Colossi  *[[17:27](https://www.youtube.com/watch?
 **[Hebrews 6:10-12](/bible/hebrews/6#v10)**  *[[57:18](https://www.youtube.com/watch?v=aAxAUqCGwCU&t=3438s)]*
 
 > <sup>[10](/bible/hebrews/6#v10)</sup> For God is not unrighteous to forget your work and labour of love, which ye have shewed toward his name, in that ye have ministered to the saints, and do minister.
->
-> <sup>[11](/bible/hebrews/6#v11)</sup> And we desire that every one of you do shew the same diligence to the full assurance of hope unto the end:
->
-> <sup>[12](/bible/hebrews/6#v12)</sup> That ye be not slothful, but followers of them who through faith and patience inherit the promises.
 
 - For God is not unrighteous to forget your work and labour of love: To forget your work and labor of love, meaning of sincerity. Go ahead.
 
 - Which ye have shewed toward his name, in that ye have ministered to the saints, and do minister: Right? So the work that you do, the labor that you do, is to his name, meaning to the Lord. But it's shown, it's reflected in what you do to the saints, meaning the fellow brothers and sisters in the gospel. You understand? Because we can't see Christ. How do you know you serving Christ? By you serving your brothers and sisters in Christ. That's the ministry. Come on. Verse 11.
 
+> <sup>[11](/bible/hebrews/6#v11)</sup> And we desire that every one of you do shew the same diligence to the full assurance of hope unto the end:
+
 - And we desire that every one of you do shew the same diligence: That's that singleness of heart. Go ahead.
 
 - To the full assurance of hope unto the end: Right? That hope unto the end. Going back to receiving that inheritance. Come on.
+
+> <sup>[12](/bible/hebrews/6#v12)</sup> That ye be not slothful, but followers of them who through faith and patience inherit the promises.
 
 - That ye be not slothful: That you be not what? That's why he said, "Whatever you do, do it heartily." Don't be slothful. You understand? Read.
 
@@ -570,12 +570,12 @@ Reading from On-screen text on Colossi  *[[17:27](https://www.youtube.com/watch?
 **[Romans 12:10-11](/bible/romans/12#v10)**  *[[58:49](https://www.youtube.com/watch?v=aAxAUqCGwCU&t=3529s)]*
 
 > <sup>[10](/bible/romans/12#v10)</sup> Be kindly affectioned one to another with brotherly love; in honour preferring one another;
->
-> <sup>[11](/bible/romans/12#v11)</sup> Not slothful in business; fervent in spirit; serving the Lord;
 
 - Be kindly affectioned one to another with brotherly love: Whether you the master or the servant. Go ahead.
 
 - In honour preferring one another: In honor, preferring one another. Read on.
+
+> <sup>[11](/bible/romans/12#v11)</sup> Not slothful in business; fervent in spirit; serving the Lord;
 
 - Not slothful in business: Not slothful in business. Cuz I'm telling you, brother, man, that's the worst thing that could happen in this truth. Brothers and sisters in this truth going to business together, especially in a type of situation where you helping a brother out, brother wax and poor, and you look out for him, and their brother do wrong by you, man. That's, I hate that. You understand? So don't be slothful in business, man. For real. Especially mainly the Lord's business. But in any business dealing with the saints, don't be slothful in business. Come on.
 
@@ -594,10 +594,10 @@ Reading from On-screen text on Colossi  *[[17:27](https://www.youtube.com/watch?
 **[Romans 2:6-7](/bible/romans/2#v6)**  *[[1:00:31](https://www.youtube.com/watch?v=aAxAUqCGwCU&t=3631s)]*
 
 > <sup>[6](/bible/romans/2#v6)</sup> Who will render to every man according to his deeds:
->
-> <sup>[7](/bible/romans/2#v7)</sup> To them who by patient continuance in well doing seek for glory and honour and immortality, eternal life:
 
 - Who will render to every man according to his deeds: So God going to render unto us, every man according to our deeds. Read.
+
+> <sup>[7](/bible/romans/2#v7)</sup> To them who by patient continuance in well doing seek for glory and honour and immortality, eternal life:
 
 - To them who by patient continuance in well doing: By patient continuance in what? In well doing. Read.
 
@@ -650,28 +650,28 @@ Reading from On-screen text on Colossi  *[[17:27](https://www.youtube.com/watch?
 **[Matthew 24:46-51](/bible/matthew/24#v46)**  *[[1:04:48](https://www.youtube.com/watch?v=aAxAUqCGwCU&t=3888s)]*
 
 > <sup>[46](/bible/matthew/24#v46)</sup> Blessed is that servant, whom his lord when he cometh shall find so doing.
->
-> <sup>[47](/bible/matthew/24#v47)</sup> Verily I say unto you, That he shall make him ruler over all his goods.
->
-> <sup>[48](/bible/matthew/24#v48)</sup> But and if that evil servant shall say in his heart, My lord delayeth his coming;
->
-> <sup>[49](/bible/matthew/24#v49)</sup> And shall begin to smite his fellowservants, and to eat and drink with the drunken;
->
-> <sup>[50](/bible/matthew/24#v50)</sup> The lord of that servant shall come in a day when he looketh not for him, and in an hour that he is not aware of,
->
-> <sup>[51](/bible/matthew/24#v51)</sup> And shall cut him asunder, and appoint him his portion with the hypocrites: there shall be weeping and gnashing of teeth.
 
 - Blessed is that servant: That what? Read.
 
+> <sup>[47](/bible/matthew/24#v47)</sup> Verily I say unto you, That he shall make him ruler over all his goods.
+
 - Verily I say unto you, That he shall make him ruler over all his goods: So this is the good servant. That's why again you got to be the conscience toward God. You serving heartily as unto the Lord. The Lord said he going to make you ruler over all his goods. Come on.
+
+> <sup>[48](/bible/matthew/24#v48)</sup> But and if that evil servant shall say in his heart, My lord delayeth his coming;
 
 - But and if that evil servant shall say in his heart: Read it again. That what? That evil servant, go ahead.
 
 - My lord delayeth his coming: My lord delayeth his coming. I got time. Come on.
 
+> <sup>[49](/bible/matthew/24#v49)</sup> And shall begin to smite his fellowservants, and to eat and drink with the drunken;
+
 - And shall begin to smite his fellowservants: You abuse the fellow saints.
 
 - And to eat and drink with the drunken: Right. Your worldly. You in sin. Go ahead.
+
+> <sup>[50](/bible/matthew/24#v50)</sup> The lord of that servant shall come in a day when he looketh not for him, and in an hour that he is not aware of,
+>
+> <sup>[51](/bible/matthew/24#v51)</sup> And shall cut him asunder, and appoint him his portion with the hypocrites: there shall be weeping and gnashing of teeth.
 
 - And appoint him his portion with the hypocrites: For the unbelievers. That's Matthew 7. Depart from me, you workers of iniquity. I never knew you. Go ahead.
 
@@ -687,12 +687,6 @@ Reading from On-screen text on Colossi  *[[17:27](https://www.youtube.com/watch?
 **[Romans 2:8-11](/bible/romans/2#v8)**  *[[1:06:33](https://www.youtube.com/watch?v=aAxAUqCGwCU&t=3993s)]*
 
 > <sup>[8](/bible/romans/2#v8)</sup> But unto them that are contentious, and do not obey the truth, but obey unrighteousness, indignation and wrath,
->
-> <sup>[9](/bible/romans/2#v9)</sup> Tribulation and anguish, upon every soul of man that doeth evil, of the Jew first, and also of the Gentile;
->
-> <sup>[10](/bible/romans/2#v10)</sup> But glory, honour, and peace, to every man that worketh good, to the Jew first, and also to the Gentile:
->
-> <sup>[11](/bible/romans/2#v11)</sup> For there is no respect of persons with God.
 
 - But unto them that are contentious: Read again. If you got a problem with the law that's established in Christ, you understand, by the elders, you contentious. Go ahead.
 
@@ -702,9 +696,15 @@ Reading from On-screen text on Colossi  *[[17:27](https://www.youtube.com/watch?
 
 - Indignation and wrath: You're going to what? That's what you're going to receive. Indignation and wrath. If you want to obey unrighteousness, you're going to receive indignation, meaning righteous anger from God, and wrath. Read.
 
+> <sup>[9](/bible/romans/2#v9)</sup> Tribulation and anguish, upon every soul of man that doeth evil, of the Jew first, and also of the Gentile;
+
 - Tribulation and anguish, upon every soul of man that doeth evil: Or doeth wrong.
 
 - Of the Jew first, and also of the Gentile: Right. The Hebrews and the Colossians and the Galatians. All y'all. Come on.
+
+> <sup>[10](/bible/romans/2#v10)</sup> But glory, honour, and peace, to every man that worketh good, to the Jew first, and also to the Gentile:
+>
+> <sup>[11](/bible/romans/2#v11)</sup> For there is no respect of persons with God.
 
 - For there is no respect of persons with God: Same thing we read in Colossians 3. Same thought, you understand?
 

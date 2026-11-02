@@ -55,23 +55,23 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "false-religion", "media", "t
 
 **[Proverbs 1:20-23](/bible/proverbs/1#v20)**  *[[38:00](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=2280s)]*
 
+- Wisdom crying without is the wisdom of Christ and of the most high God, not the wisdom of this world.
+
+- The chief place of concourse and the openings of the gates is where we cry out: the streets, the barber shops, the high schools, the community centres, social media and Clubhouse. In the majority of the major cities on this earth the gospel is being heard, because our leaders are not just sitting in Harlem or Jersey or LA or Chicago talking about preaching the gospel.
+
 > <sup>[20](/bible/proverbs/1#v20)</sup> Wisdom crieth without; she uttereth her voice in the streets:
 >
 > <sup>[21](/bible/proverbs/1#v21)</sup> She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, saying,
 >
 > <sup>[22](/bible/proverbs/1#v22)</sup> How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?
->
-> <sup>[23](/bible/proverbs/1#v23)</sup> Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you.
-
-- Wisdom crying without is the wisdom of Christ and of the most high God, not the wisdom of this world.
-
-- The chief place of concourse and the openings of the gates is where we cry out: the streets, the barber shops, the high schools, the community centres, social media and Clubhouse. In the majority of the major cities on this earth the gospel is being heard, because our leaders are not just sitting in Harlem or Jersey or LA or Chicago talking about preaching the gospel.
 
 - How long, ye simple ones: when are black Christians going to wake up? How many captivities is it going to take? Out of Egypt we went right back to sin, out of Babylon right back to sin, then Persia and Media, then Greece, where they made us become Greeks or put us to death, then Rome — and every time the Lord had to send prophets and deliverers to bring us out with a mighty hand.
 
 - Loving simplicity is America's white supremacist system: you know a bunny does not lay eggs, you know Thanksgiving is about the pilgrims killing the Indians, you know you have no money, and you still shop on Black Friday for children who have been bad all year.
 
 - Turn you at my reproof is the correction. That is what we are here to do: get the black church to see that what we are doing is correct, even if you do not like us.
+
+> <sup>[23](/bible/proverbs/1#v23)</sup> Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you.
 
 
 *[[48:39](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=2919s)]* **In The News: A video of three boys stealing in a store, one of them dressed and carrying on like his mother, with the shopkeeper locking the door on them while they curse her and threaten to break the glass** — This is what the black Christian church is raising, and what the apologetics want our children to go back to so badly. You can tell where those kids come from, because when one of them gets shot for stealing they are carried straight back to the first Baptist church or the church of God in Christ. We have our young men in formation being taught thou shalt not steal, taught to be masculine, and our young girls taught to be feminine, and they hate that.
@@ -162,10 +162,6 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "false-religion", "media", "t
 **[1 John 4:1-3](/bible/1-john/4#v1)**  *[[1:24:11](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=5051s)]*
 
 > <sup>[1](/bible/1-john/4#v1)</sup> Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.
->
-> <sup>[2](/bible/1-john/4#v2)</sup> Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God:
->
-> <sup>[3](/bible/1-john/4#v3)</sup> And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof ye have heard that it should come; and even now already is it in the world.
 
 - Believe not every spirit: black people have been tricked into believing this spirit, because behind a false image is a false spirit.
 
@@ -176,6 +172,10 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "false-religion", "media", "t
 - Confessing that he is come in the flesh means confessing he had skin on him, and part of that confession is what he looked like. If you cannot confess it you are not of God; you are rolling in the spirit of white supremacy and the spirit of antichrist.
 
 - Nobody had a problem for centuries while the white man said his son was white; say black and now we have to prove it. No — you prove to us that he was white.
+
+> <sup>[2](/bible/1-john/4#v2)</sup> Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God:
+>
+> <sup>[3](/bible/1-john/4#v3)</sup> And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof ye have heard that it should come; and even now already is it in the world.
 
 
 *[[1:26:30](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=5190s)]* **In The News: A video of a woman doing the whole saved, sanctified, fire-baptised, filled-with-the-Holy-Ghost performance** — They know how to do all of that. The Bible says try the spirit. Ask them one simple thing first — what colour is Christ — and see whether they are of God.

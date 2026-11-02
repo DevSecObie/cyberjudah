@@ -71,11 +71,9 @@ However, from time to time this doctrine pops up. And it is so stupid, but it ha
 
 **[Acts 13:21-22](/bible/acts/13#v21)**  *[[7:45](https://www.youtube.com/watch?v=wqRVYBKpnVk&t=465s)]*
 
-> <sup>[21](/bible/acts/13#v21)</sup> And afterward they desired a king: and God gave unto them Saul the son of Cis, a man of the tribe of Benjamin, by the space of forty years.
->
-> <sup>[22](/bible/acts/13#v22)</sup> And when he had removed him, he raised up unto them David to be their king; to whom also he gave testimony, and said, I have found David the son of Jesse, a man after mine own heart, which shall fulfil all my will.
-
 - Now, why is it that the Lord established David to be over his people, David to establish the sovereign kingdom of Israel? Why is that? So you want to be sovereign, there is one way to that. That is a one-way road, and there is one victory. There is one end of that road and that is the kingdom of heaven. There is one way to get it.
+
+> <sup>[21](/bible/acts/13#v21)</sup> And afterward they desired a king: and God gave unto them Saul the son of Cis, a man of the tribe of Benjamin, by the space of forty years.
 
 - And afterward they desired a king: and God gave unto them Saul the son of Cis, a man of the tribe of Benjamin, by the space of forty years. So this is who the Lord established, because of what we wanted. So even though we wanted a king, it was still the Lord that had to establish that.
 
@@ -92,6 +90,8 @@ However, from time to time this doctrine pops up. And it is so stupid, but it ha
     > <sup>[8](/bible/psalms/40#v8)</sup> I delight to do thy will, O my God: yea, thy law is within my heart.
 
     I delight to do thy will, O my God: yea, thy law is within my heart. So what is the will of God? The laws of God. So what is it that pleased God in David, to the point that he established David as ruler over not only his sovereign country but his people as a sovereign government? He pleased the Lord in keeping God's commandments. He kept the commandments. He kept the testimonies.
+
+> <sup>[22](/bible/acts/13#v22)</sup> And when he had removed him, he raised up unto them David to be their king; to whom also he gave testimony, and said, I have found David the son of Jesse, a man after mine own heart, which shall fulfil all my will.
 
 **[Revelation 12:14](/bible/revelation/12#v14)**  *[[11:05](https://www.youtube.com/watch?v=wqRVYBKpnVk&t=665s)]*
 

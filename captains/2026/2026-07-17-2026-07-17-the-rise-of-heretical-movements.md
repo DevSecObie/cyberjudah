@@ -164,12 +164,12 @@ Reading from a video clip of a preacher on speaking in tongues, played on screen
 **[Acts 23:6-8](/bible/acts/23#v6)**  *[[12:19](https://www.youtube.com/watch?v=EHLBeqB5MeA&t=739s)]*
 
 > <sup>[6](/bible/acts/23#v6)</sup> But when Paul perceived that the one part were Sadducees, and the other Pharisees, he cried out in the council, Men and brethren, I am a Pharisee, the son of a Pharisee: of the hope and resurrection of the dead I am called in question.
->
+
+- I am a Pharisee, the son of a Pharisee: Paul confessed he was the son of a Pharisee, a Benjamite from the tribe of Benjamin. He noticed that the crowd was Pharisees and Sadducees, so he took advantage of that and said, hey, I'm a Pharisee, and that's what caused a split amongst the council.
+
 > <sup>[7](/bible/acts/23#v7)</sup> And when he had so said, there arose a dissension between the Pharisees and the Sadducees: and the multitude was divided.
 >
 > <sup>[8](/bible/acts/23#v8)</sup> For the Sadducees say that there is no resurrection, neither angel, nor spirit: but the Pharisees confess both.
-
-- I am a Pharisee, the son of a Pharisee: Paul confessed he was the son of a Pharisee, a Benjamite from the tribe of Benjamin. He noticed that the crowd was Pharisees and Sadducees, so he took advantage of that and said, hey, I'm a Pharisee, and that's what caused a split amongst the council.
 
 - The Sadducees say that there is no resurrection, neither angel, nor spirit: but the Pharisees confess both. That's what caused the split and the confusion between the two.
 
@@ -193,12 +193,16 @@ Reading from a video clip of a preacher on speaking in tongues, played on screen
 
 **[1 Corinthians 15:12-22](/bible/1-corinthians/15#v12)**  *[[15:08](https://www.youtube.com/watch?v=EHLBeqB5MeA&t=908s)]*
 
+- If Christ be preached that he rose from the dead, how say some among you that there is no resurrection of the dead? Some of these Corinthians followed after the Sadducees. That's the doctrine of no resurrection.
+
 > <sup>[12](/bible/1-corinthians/15#v12)</sup> Now if Christ be preached that he rose from the dead, how say some among you that there is no resurrection of the dead?
 >
 > <sup>[13](/bible/1-corinthians/15#v13)</sup> But if there be no resurrection of the dead, then is Christ not risen:
 >
 > <sup>[14](/bible/1-corinthians/15#v14)</sup> And if Christ be not risen, then is our preaching vain, and your faith is also vain.
->
+
+- Then is our preaching vain: he's saying all this is a waste of time if that's not true. And your faith is also vain.
+
 > <sup>[15](/bible/1-corinthians/15#v15)</sup> Yea, and we are found false witnesses of God; because we have testified of God that he raised up Christ: whom he raised not up, if so be that the dead rise not.
 >
 > <sup>[16](/bible/1-corinthians/15#v16)</sup> For if the dead rise not, then is not Christ raised:
@@ -206,22 +210,18 @@ Reading from a video clip of a preacher on speaking in tongues, played on screen
 > <sup>[17](/bible/1-corinthians/15#v17)</sup> And if Christ be not raised, your faith is vain; ye are yet in your sins.
 >
 > <sup>[18](/bible/1-corinthians/15#v18)</sup> Then they also which are fallen asleep in Christ are perished.
->
-> <sup>[19](/bible/1-corinthians/15#v19)</sup> If in this life only we have hope in Christ, we are of all men most miserable.
->
-> <sup>[20](/bible/1-corinthians/15#v20)</sup> But now is Christ risen from the dead, and become the firstfruits of them that slept.
->
-> <sup>[21](/bible/1-corinthians/15#v21)</sup> For since by man came death, by man came also the resurrection of the dead.
->
-> <sup>[22](/bible/1-corinthians/15#v22)</sup> For as in Adam all die, even so in Christ shall all be made alive.
-
-- If Christ be preached that he rose from the dead, how say some among you that there is no resurrection of the dead? Some of these Corinthians followed after the Sadducees. That's the doctrine of no resurrection.
-
-- Then is our preaching vain: he's saying all this is a waste of time if that's not true. And your faith is also vain.
 
 - Then they also which are fallen asleep in Christ are perished: he's going down a line of things. If all this is not true, then it's a waste of time. People who died in Christ are perished; they died for nothing; they're not going to be resurrected. He's giving line upon line of examples against believing there's no resurrection.
 
+> <sup>[19](/bible/1-corinthians/15#v19)</sup> If in this life only we have hope in Christ, we are of all men most miserable.
+>
+> <sup>[20](/bible/1-corinthians/15#v20)</sup> But now is Christ risen from the dead, and become the firstfruits of them that slept.
+
 - But now is Christ risen from the dead, and become the firstfruits of them that slept: of those that died in Christ.
+
+> <sup>[21](/bible/1-corinthians/15#v21)</sup> For since by man came death, by man came also the resurrection of the dead.
+>
+> <sup>[22](/bible/1-corinthians/15#v22)</sup> For as in Adam all die, even so in Christ shall all be made alive.
 
 
 **[Revelation 1:5](/bible/revelation/1#v5)**  *[[17:11](https://www.youtube.com/watch?v=EHLBeqB5MeA&t=1031s)]*
@@ -242,17 +242,17 @@ Reading from a video clip of a preacher on speaking in tongues, played on screen
 
 **[2 Timothy 2:17-19](/bible/2-timothy/2#v17)**  *[[18:02](https://www.youtube.com/watch?v=EHLBeqB5MeA&t=1082s)]*
 
+- Hymenaeus and Philetus, who concerning the truth have erred: this is another example of a false doctrine.
+
 > <sup>[17](/bible/2-timothy/2#v17)</sup> And their word will eat as doth a canker: of whom is Hymeneus and Philetus;
 >
 > <sup>[18](/bible/2-timothy/2#v18)</sup> Who concerning the truth have erred, saying that the resurrection is past already; and overthrow the faith of some.
->
-> <sup>[19](/bible/2-timothy/2#v19)</sup> Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity.
-
-- Hymenaeus and Philetus, who concerning the truth have erred: this is another example of a false doctrine.
 
 - Saying that the resurrection is past already: these individuals rose up in the church saying the resurrection already passed, that Christ already cracked the sky, redeemed them and came back. No, he did not.
 
 - And overthrow the faith of some: and some simple ones followed after that false doctrine.
+
+> <sup>[19](/bible/2-timothy/2#v19)</sup> Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity.
 
 - Let every one that nameth the name of Christ depart from iniquity: depart from sin. Meaning don't listen to these heretical pastors, as it is today: Pastor Pam, Michael Todd and that other northern kingdom pastor, all these so-called pastors, even these self-proclaimed prophetess women. They are all Jezebels; they are not prophetesses, because God said a woman should learn in silence in the churches.
 

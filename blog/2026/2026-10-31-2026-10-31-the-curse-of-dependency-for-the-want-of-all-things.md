@@ -28,10 +28,6 @@ Listen, the Most High say in their affliction they will seek me early. Good. We 
 **[Genesis 1:26-28](/bible/genesis/1#v26)**  *[[17:51](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=1071s)]*
 
 > <sup>[26](/bible/genesis/1#v26)</sup> And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
->
-> <sup>[27](/bible/genesis/1#v27)</sup> So God created man in his own image, in the image of God created he him; male and female created he them.
->
-> <sup>[28](/bible/genesis/1#v28)</sup> And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.
 
 - Let us make man in our image, after our likeness, and let them have dominion: So, what I want to stand out in this verse is a few things. One, image, likeness, and dominion. Image, likeness, and dominion. So remember those words as we read it again from the top.
 
@@ -48,6 +44,10 @@ Listen, the Most High say in their affliction they will seek me early. Good. We 
 - After our likeness: When I said that when you read likeness, we at first go straight to his image, but it's more than just image. It's the character of a man that's abiding in the laws of God.
 
 - And let them have dominion over every creeping thing that creepeth upon the earth: It says that this man that's moving righteously, he was to have dominion over every animal, insect, bug, any living thing on earth. This righteous man was to have dominion or control over that. That was us at one time. There was nothing high in this earth over us and we traded it in because we saw seeking to do what the other nations doing. We're in these conditions based on our own doing and we have to accept the punishment that we're going through. And now as I'm talking it just irks me to my core is that I am dependent to nurse off of America to survive. It is humiliating anytime one of these nations talk slick to me. Oh gosh. I just be, Lord, I just keep these commandments and hold on. I just want payback.
+
+> <sup>[27](/bible/genesis/1#v27)</sup> So God created man in his own image, in the image of God created he him; male and female created he them.
+>
+> <sup>[28](/bible/genesis/1#v28)</sup> And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.
 
 - Be fruitful, and multiply, and replenish the earth, and subdue it: And subdue the earth. Listen what he says. I want you, after I'm making you after my likeness and image, to have dominion over earth. And then I want you to subdue. The word subdue is to bring under control everything. Everything that lives you subdue and put them under control and subdue it.
 
@@ -69,12 +69,12 @@ Listen, the Most High say in their affliction they will seek me early. Good. We 
 > <sup>[2](/bible/psalms/47#v2)</sup> For the Lord most high is terrible; he is a great King over all the earth.
 >
 > <sup>[3](/bible/psalms/47#v3)</sup> He shall subdue the people under us, and the nations under our feet.
->
-> <sup>[4](/bible/psalms/47#v4)</sup> He shall choose our inheritance for us, the excellency of Jacob whom he loved. Selah.
 
 - He shall subdue the people under us: So let's deal with the subdue real quick. Give me Psalms. We're going to come right back here. Who is the us? God is going to subdue the people under the ones made after his likeness and his image and righteousness. That can only be us because the laws were only given to us. He has not dealt so with any other nation.
 
 - And the nations under our feet: So if you're confused what he's talking about, every creeping thing, every living thing, the nations are going to be subdued underneath us.
+
+> <sup>[4](/bible/psalms/47#v4)</sup> He shall choose our inheritance for us, the excellency of Jacob whom he loved. Selah.
 
 - He shall choose our inheritance for us, the excellency of Jacob whom he loved: He said he shall choose our inheritance for us. The excellency of what? The excellency of Jacob is who God loved. That is the 12 tribes of Israel. That is the so-called Negroes, Hispanic, Native American Indians that are scattered throughout the earth. That's the Bible. That is the mission.
 
@@ -93,12 +93,12 @@ Listen, the Most High say in their affliction they will seek me early. Good. We 
 **[Wisdom of Solomon 7:24-25](/bible/wisdom-of-solomon/7#v24)**  *[[29:16](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=1756s)]*
 
 > <sup>[24](/bible/wisdom-of-solomon/7#v24)</sup> For wisdom is more moving than any motion: she passeth and goeth through all things by reason of her pureness.
->
-> <sup>[25](/bible/wisdom-of-solomon/7#v25)</sup> For she is the breath of the power of God, and a pure influence flowing from the glory of the Almighty: therefore can no defiled thing fall into her.
 
 - For wisdom is more moving than any motion: In Genesis 2 it said breath. Wisdom is found in everything you can think of. God's wisdom is in his creation of everything. The plants, the trees, the clothes we wear, everything. The hair on the head. It's God's wisdom. Him manipulating the elements to make man, to make tables, to make anything you could think of. Wisdom flows through everything.
 
 - She passeth and goeth through all things by reason of her pureness: Wisdom is found in all creations.
+
+> <sup>[25](/bible/wisdom-of-solomon/7#v25)</sup> For she is the breath of the power of God, and a pure influence flowing from the glory of the Almighty: therefore can no defiled thing fall into her.
 
 - For she is the breath of the power of God: So when he breathed the breath of life into us, he breathed into us what? Wisdom, being made after his likeness. Cuz he is the embodiment of wisdom. And in that wisdom, now we have dominion, or we had dominion. We're not going to regain dominion until we first gain wisdom on how to move.
 
@@ -108,10 +108,10 @@ Listen, the Most High say in their affliction they will seek me early. Good. We 
 **[2 Esdras 6:53-54](/bible/2-esdras/6#v53)**  *[[33:20](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=2000s)]*
 
 > <sup>[53](/bible/2-esdras/6#v53)</sup> Upon the sixth day thou gavest commandment unto the earth, that before thee it should bring forth beasts, cattle, and creeping things:
->
-> <sup>[54](/bible/2-esdras/6#v54)</sup> And after these, Adam also, whom thou madest lord of all thy creatures: of him come we all, and the people also whom thou hast chosen.
 
 - Upon the sixth day thou gavest commandment unto the earth: So, real quick, in Second Esdras, they're explaining the creation that we read about in Genesis 1. I'm not going to start now, but when you have a chance, you can start in verse 38 on down and it gives you the same history.
+
+> <sup>[54](/bible/2-esdras/6#v54)</sup> And after these, Adam also, whom thou madest lord of all thy creatures: of him come we all, and the people also whom thou hast chosen.
 
 - And after these, Adam also, whom thou madest lord of all thy creatures: of him come we all: Now it's referring back to Adam. After these Adam also whom thou madest lord of all creatures. Lord, or have dominion of all creatures. Of him come we all. All people come out of Adam, all nations. So when he says like us being a shade of brown, well everybody was a shade of brown, but not everybody had wisdom. Not everybody had the breath of life in them. It was to Adam and the chosen that was coming. That's why I said you can't get around these scriptures. There's no other way to read this.
 
@@ -180,11 +180,19 @@ Listen, the Most High say in their affliction they will seek me early. Good. We 
 **[2 Esdras 1:17-23](/bible/2-esdras/1#v17)**  *[[50:28](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=3028s)]*
 
 > <sup>[17](/bible/2-esdras/1#v17)</sup> Where are the benefits that I have done for you? when ye were hungry and thirsty in the wilderness, did ye not cry unto me,
->
+
+- Where are the benefits that I have done for you?: Look what the Lord said. That's a valid question. I can understand it. Lord said, "Where are the benefits for all that I've done for you?"
+
 > <sup>[18](/bible/2-esdras/1#v18)</sup> Saying, Why hast thou brought us into this wilderness to kill us? it had been better for us to have served the Egyptians, than to die in this wilderness.
->
+
+- It had been better for us to have served the Egyptians, than to die in this wilderness: We are so shortsighted as people. That's how you got to hit right ahead, Cap. That's how you know we the people of this Bible. Like, who's this dumb? The power, Yahawah, the power parted the sea, killed the firstborn Egyptians. "Let us starve." We seeking to go back to Egypt where we were slaves at. That's like a lot of people here. They don't want to come out this captivity. They like it. Even poor, they like it. So once they get their little weed, their little drink, little … or whatever they doing, they buy into the system. We can't visualize ourselves as having the nations underneath us. We don't think that we're worthy enough. Well, I do. I don't suffer from that. That ain't my problem. I know where they belong. I'm just waiting. I'm all right with that. But he's asking, "Where's the benefits after all I've done for you?" And you're looking to go back that way.
+
 > <sup>[19](/bible/2-esdras/1#v19)</sup> Then had I pity upon your mournings, and gave you manna to eat; so ye did eat angels’ bread.
->
+
+- Then had I pity upon your mournings, and gave you manna to eat; so ye did eat angels' bread: He said, "I fed you angel's bread. I gave you water. I gave you clothing. And you looking to go back?" It was me. The Lord said you depended on me. Now I'mma make your dependency a curse. I'll make you go depend on the nations. And then you're going to find people with no soul. No soul. They'll kill us in the street. They don't care. It means nothing to them. It moves on as regular everyday life.
+
+- What shall I do more for you? saith the Lord: The Lord said, "What else? I mean, what else more can I do for you?" I fed you. I gave you drink. I destroyed the nations out the land. Yeah, Lord. We are ungrateful people. That's what we are. He said, "You know what? There's nothing more I can do for you." Now you got to go serve your enemies. You got to go to them because they got to punish you and you're going to realize I was your best option. Really, I was your only option. But you thought you knew better.
+
 > <sup>[20](/bible/2-esdras/1#v20)</sup> When ye were thirsty, did I not cleave the rock, and waters flowed out to your fill? for the heat I covered you with the leaves of the trees.
 >
 > <sup>[21](/bible/2-esdras/1#v21)</sup> I divided among you a fruitful land, I cast out the Canaanites, the Pherezites, and the Philistines, before you: what shall I yet do more for you? saith the Lord.
@@ -192,14 +200,6 @@ Listen, the Most High say in their affliction they will seek me early. Good. We 
 > <sup>[22](/bible/2-esdras/1#v22)</sup> Thus saith the Almighty Lord, When ye were in the wilderness, in the river of the Amorites, being athirst, and blaspheming my name,
 >
 > <sup>[23](/bible/2-esdras/1#v23)</sup> I gave you not fire for your blasphemies, but cast a tree in the water, and made the river sweet.
-
-- Where are the benefits that I have done for you?: Look what the Lord said. That's a valid question. I can understand it. Lord said, "Where are the benefits for all that I've done for you?"
-
-- It had been better for us to have served the Egyptians, than to die in this wilderness: We are so shortsighted as people. That's how you got to hit right ahead, Cap. That's how you know we the people of this Bible. Like, who's this dumb? The power, Yahawah, the power parted the sea, killed the firstborn Egyptians. "Let us starve." We seeking to go back to Egypt where we were slaves at. That's like a lot of people here. They don't want to come out this captivity. They like it. Even poor, they like it. So once they get their little weed, their little drink, little … or whatever they doing, they buy into the system. We can't visualize ourselves as having the nations underneath us. We don't think that we're worthy enough. Well, I do. I don't suffer from that. That ain't my problem. I know where they belong. I'm just waiting. I'm all right with that. But he's asking, "Where's the benefits after all I've done for you?" And you're looking to go back that way.
-
-- Then had I pity upon your mournings, and gave you manna to eat; so ye did eat angels' bread: He said, "I fed you angel's bread. I gave you water. I gave you clothing. And you looking to go back?" It was me. The Lord said you depended on me. Now I'mma make your dependency a curse. I'll make you go depend on the nations. And then you're going to find people with no soul. No soul. They'll kill us in the street. They don't care. It means nothing to them. It moves on as regular everyday life.
-
-- What shall I do more for you? saith the Lord: The Lord said, "What else? I mean, what else more can I do for you?" I fed you. I gave you drink. I destroyed the nations out the land. Yeah, Lord. We are ungrateful people. That's what we are. He said, "You know what? There's nothing more I can do for you." Now you got to go serve your enemies. You got to go to them because they got to punish you and you're going to realize I was your best option. Really, I was your only option. But you thought you knew better.
 
 - But cast a tree in the water, and made the river sweet: Right? Because you know, … like Kool-Aid. I got to make it sweet for you diabetic. We couldn't drink regular water. It had been sweet, Lord. I need. Okay, here sweet water. And you still turn your back. We still turn them back on them. That's how I know we the people of the Bible also.
 
@@ -241,10 +241,6 @@ Reading from Definitions of "special" and "particular" (dictionary, as read on a
 **[1 Peter 2:9-11](/bible/1-peter/2#v9)**  *[[59:06](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=3546s)]*
 
 > <sup>[9](/bible/1-peter/2#v9)</sup> But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:
->
-> <sup>[10](/bible/1-peter/2#v10)</sup> Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy.
->
-> <sup>[11](/bible/1-peter/2#v11)</sup> Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;
 
 - A peculiar people: That ye should shew forth the praises of him who hath called you out of darkness into his marvellous light: Right? He's called us out of darkness into his marvelous light. Now, watch this. I want you to read verse two.
 
@@ -253,6 +249,10 @@ Reading from Definitions of "special" and "particular" (dictionary, as read on a
 - How many been on the cruises before? I was asking, "What are you guys?" You know, "We're anthropologist." I don't know who came up with that one, but I love that. I don't know what an anthropologist is, bro. But that's what I am. Damn it. I'm an anthropologist. I was hoping somebody would ask me, "So, what's anthropologist?" Because I couldn't tell you. It's a scientist. God damn it. That's special, right?
 
 - That ye may grow thereby: You want to grow thereby.
+
+> <sup>[10](/bible/1-peter/2#v10)</sup> Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy.
+>
+> <sup>[11](/bible/1-peter/2#v11)</sup> Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;
 
 - Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts: That's what's going to make you a peculiar people because we're not trying to go to the strip club. I don't have an Only Fans. I can't speak for everybody else here. I know I don't have one. Okay, there was three people that don't have, rest of y'all nasty. They're lying. You … lying. Oh, you lying.
 
@@ -284,10 +284,10 @@ Reading from Definitions of "special" and "particular" (dictionary, as read on a
 **[Deuteronomy 11:24-25](/bible/deuteronomy/11#v24)**  *[[1:07:09](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=4029s)]*
 
 > <sup>[24](/bible/deuteronomy/11#v24)</sup> Every place whereon the soles of your feet shall tread shall be yours: from the wilderness and Lebanon, from the river, the river Euphrates, even unto the uttermost sea shall your coast be.
->
-> <sup>[25](/bible/deuteronomy/11#v25)</sup> There shall no man be able to stand before you: for the Lord your God shall lay the fear of you and the dread of you upon all the land that ye shall tread upon, as he hath said unto you.
 
 - Every place whereon the soles of your feet shall tread shall be yours: from the wilderness and Lebanon, from the river, the river Euphrates, even unto the uttermost sea shall your coast be: Shall be your coast. Wherever your foot is, you put your foot there. That's why he said we made the earth. God, you made the earth for our sakes. So what do we decide we want is ours.
+
+> <sup>[25](/bible/deuteronomy/11#v25)</sup> There shall no man be able to stand before you: for the Lord your God shall lay the fear of you and the dread of you upon all the land that ye shall tread upon, as he hath said unto you.
 
 - There shall no man be able to stand before you: That's why he said, and you go subdue the earth, cuz no nations could stand before us at one time.
 
@@ -301,12 +301,12 @@ Reading from Definitions of "special" and "particular" (dictionary, as read on a
 **[1 Samuel 4:8-9](/bible/1-samuel/4#v8)**  *[[1:11:12](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=4272s)]*
 
 > <sup>[8](/bible/1-samuel/4#v8)</sup> Woe unto us! who shall deliver us out of the hand of these mighty Gods? these are the Gods that smote the Egyptians with all the plagues in the wilderness.
->
-> <sup>[9](/bible/1-samuel/4#v9)</sup> Be strong, and quit yourselves like men, O ye Philistines, that ye be not servants unto the Hebrews, as they have been to you: quit yourselves like men, and fight.
 
 - Who shall deliver us out of the hand of these mighty Gods?: You see how the nations one time was worried? Who is going to deliver us from the hand? We were the gods they were worrying about.
 
 - These are the Gods that smote the Egyptians with all the plagues in the wilderness: These are the gods. They refer to us as gods. They knew what we were capable of doing when we was tapped in with God. That's why they make mockery of us now, because we're so dependent on them.
+
+> <sup>[9](/bible/1-samuel/4#v9)</sup> Be strong, and quit yourselves like men, O ye Philistines, that ye be not servants unto the Hebrews, as they have been to you: quit yourselves like men, and fight.
 
 - Be strong, and quit yourselves like men, O ye Philistines, that ye be not servants unto the Hebrews, as they have been to you: The word quit means to behave. Oh you Philistines, that you be not servants unto the Hebrews, as they have been to you. Quit yourself and be like men. Because at one time in the book of Judges, we were slaves and servants to all these other nations. Time and time again, we went into captivity. Time again. We are hard neck people.
 
@@ -321,12 +321,12 @@ Reading from Definitions of "special" and "particular" (dictionary, as read on a
 **[2 Esdras 6:56-57](/bible/2-esdras/6#v56)**  *[[1:15:22](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=4522s)]*
 
 > <sup>[56](/bible/2-esdras/6#v56)</sup> As for the other people, which also come of Adam, thou hast said that they are nothing, but be like unto spittle: and hast likened the abundance of them unto a drop that falleth from a vessel.
->
-> <sup>[57](/bible/2-esdras/6#v57)</sup> And now, O Lord, behold, these heathen, which have ever been reputed as nothing, have begun to be lords over us, and to devour us.
 
 - As for the other people, which also come of Adam, thou hast said that they are nothing: God, you said they are nothing. God, this is God's word. He says, and the other people that have no soul, God said, you told us, God, they are nothing. Well, that makes sense of why they hate us. God said they are nothing to him. They hold no value.
 
 - But be like unto spittle: and hast likened the abundance of them unto a drop that falleth from a vessel: He said they're insignificant. They hold no value to him. They're like a drop that comes from a vessel. Means nothing. We are the apple of God's eye. That's why they drilled that St. John 3:16 in our minds. For God so loved the world that he gave his own begotten. I remember my grandmother used to. Oh God. Jimmy Swaggart used to play in my house. Never forget my grandmother, she had a little change, to Jimmy. Just send a little envelope to Jimmy Swaggart.
+
+> <sup>[57](/bible/2-esdras/6#v57)</sup> And now, O Lord, behold, these heathen, which have ever been reputed as nothing, have begun to be lords over us, and to devour us.
 
 - These heathen, which have ever been reputed as nothing, have begun to be lords over us, and to devour us: They became lords over us. And to devour means to destroy us, to kill us off. Not just to be over us, but to kill us off. Devour means to destroy. They don't want us to survive. They don't want none of us left on this earth. If they could, they would kill us off.
 
@@ -369,17 +369,17 @@ Reading from Definitions of "special" and "particular" (dictionary, as read on a
 
 **[Zechariah 2:8-11](/bible/zechariah/2#v8)**  *[[1:26:14](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=5174s)]*
 
+- For, lo, I come, and I will dwell in the midst of thee, saith the Lord (verse 10): God said he's going to dwell in the midst of. Why? Go to verse eight.
+
 > <sup>[8](/bible/zechariah/2#v8)</sup> For thus saith the Lord of hosts; After the glory hath he sent me unto the nations which spoiled you: for he that toucheth you toucheth the apple of his eye.
->
+
+- For he that toucheth you toucheth the apple of his eye: Right? Because with the apple of his eye. Now, jump on down to verse 11. I want to see if y'all can explain this now.
+
 > <sup>[9](/bible/zechariah/2#v9)</sup> For, behold, I will shake mine hand upon them, and they shall be a spoil to their servants: and ye shall know that the Lord of hosts hath sent me.
 >
 > <sup>[10](/bible/zechariah/2#v10)</sup> Sing and rejoice, O daughter of Zion: for, lo, I come, and I will dwell in the midst of thee, saith the Lord.
 >
 > <sup>[11](/bible/zechariah/2#v11)</sup> And many nations shall be joined to the Lord in that day, and shall be my people: and I will dwell in the midst of thee, and thou shalt know that the Lord of hosts hath sent me unto thee.
-
-- For, lo, I come, and I will dwell in the midst of thee, saith the Lord (verse 10): God said he's going to dwell in the midst of. Why? Go to verse eight.
-
-- For he that toucheth you toucheth the apple of his eye: Right? Because with the apple of his eye. Now, jump on down to verse 11. I want to see if y'all can explain this now.
 
 - And many nations shall be joined to the Lord in that day, and shall be my people: Wait a second. It says, "And many nations shall be joined unto the Lord in that day." So, how would you explain that? Because I thought he was a God of Israel and none else. He said, "Many nations are going to be joined unto the Lord in that day and shall be what? My people." Somebody try to explain that for me.
 
@@ -412,12 +412,12 @@ Reading from Definitions of "special" and "particular" (dictionary, as read on a
 **[Baruch 3:35-37](/bible/baruch/3#v35)**  *[[1:32:50](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=5570s)]*
 
 > <sup>[35](/bible/baruch/3#v35)</sup> This is our God, and there shall none other be accounted of in comparison of him.
->
+
+- This is our God, and there shall none other be accounted of in comparison of him: He hath found out all the way of knowledge, and hath given it unto Jacob his servant, and to Israel his beloved: He gave us the breath of life. He didn't give it to all nations. There's no God in comparison to him because there's no other God but one God and we're his chosen people in which he gave his word to us.
+
 > <sup>[36](/bible/baruch/3#v36)</sup> He hath found out all the way of knowledge, and hath given it unto Jacob his servant, and to Israel his beloved.
 >
 > <sup>[37](/bible/baruch/3#v37)</sup> Afterward did he shew himself upon earth, and conversed with men.
-
-- This is our God, and there shall none other be accounted of in comparison of him: He hath found out all the way of knowledge, and hath given it unto Jacob his servant, and to Israel his beloved: He gave us the breath of life. He didn't give it to all nations. There's no God in comparison to him because there's no other God but one God and we're his chosen people in which he gave his word to us.
 
 - Afterward did he shew himself upon earth, and conversed with men: And he showed himself on earth and conversed with us. How did God converse with us here? He gave us understanding. That's how God has conversed with us. We're able to open this book and explain God.
 
@@ -425,20 +425,20 @@ Reading from Definitions of "special" and "particular" (dictionary, as read on a
 **[Baruch 3:10-14](/bible/baruch/3#v10)**  *[[1:33:51](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=5631s)]*
 
 > <sup>[10](/bible/baruch/3#v10)</sup> How happeneth it, Israel, that thou art in thine enemies’ land, that thou art waxen old in a strange country, that thou art defiled with the dead,
->
-> <sup>[11](/bible/baruch/3#v11)</sup> That thou art counted with them that go down into the grave?
->
-> <sup>[12](/bible/baruch/3#v12)</sup> Thou hast forsaken the fountain of wisdom.
->
-> <sup>[13](/bible/baruch/3#v13)</sup> For if thou hadst walked in the way of God, thou shouldest have dwelled in peace for ever.
->
-> <sup>[14](/bible/baruch/3#v14)</sup> Learn where is wisdom, where is strength, where is understanding; that thou mayest know also where is length of days, and life, where is the light of the eyes, and peace.
 
 - How happeneth it, Israel, that thou art in thine enemies' land, that thou art waxen old in a strange country: The question: how did this happen then that we ended up here in captivity in a strange land? What happened?
 
+> <sup>[11](/bible/baruch/3#v11)</sup> That thou art counted with them that go down into the grave?
+>
+> <sup>[12](/bible/baruch/3#v12)</sup> Thou hast forsaken the fountain of wisdom.
+
 - Thou hast forsaken the fountain of wisdom: When I gave you the breath of life, you forsaken the fountain of wisdom. That's how you ended up in this situation. That's how we ended up here.
 
+> <sup>[13](/bible/baruch/3#v13)</sup> For if thou hadst walked in the way of God, thou shouldest have dwelled in peace for ever.
+
 - For if thou hadst walked in the way of God, thou shouldest have dwelled in peace for ever: Right? If we would have walked in the way of God, we would have dwelt in peace forever.
+
+> <sup>[14](/bible/baruch/3#v14)</sup> Learn where is wisdom, where is strength, where is understanding; that thou mayest know also where is length of days, and life, where is the light of the eyes, and peace.
 
 - Learn where is wisdom: Listen to what he's saying. Had we walked in the laws of God, we would have dwelt in peace. We wouldn't be worried about police killing us. We would not be in a strange land. We would be in over land, tethered, keeping God's commandments, all nations subdued underneath us. But then he comes back and says what? Learn where is wisdom.
 
@@ -461,16 +461,6 @@ Reading from Definitions of "special" and "particular" (dictionary, as read on a
 **[Baruch 2:30-35](/bible/baruch/2#v30)**  *[[1:38:21](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=5901s)]*
 
 > <sup>[30](/bible/baruch/2#v30)</sup> For I knew that they would not hear me, because it is a stiffnecked people: but in the land of their captivities they shall remember themselves,
->
-> <sup>[31](/bible/baruch/2#v31)</sup> And shall know that I am the Lord their God: for I will give them an heart, and ears to hear:
->
-> <sup>[32](/bible/baruch/2#v32)</sup> And they shall praise me in the land of their captivity, and think upon my name,
->
-> <sup>[33](/bible/baruch/2#v33)</sup> And return from their stiff neck, and from their wicked deeds: for they shall remember the way of their fathers, which sinned before the Lord.
->
-> <sup>[34](/bible/baruch/2#v34)</sup> And I will bring them again into the land which I promised with an oath unto their fathers, Abraham, Isaac, and Jacob, and they shall be lords of it: and I will increase them, and they shall not be diminished.
->
-> <sup>[35](/bible/baruch/2#v35)</sup> And I will make an everlasting covenant with them to be their God, and they shall be my people: and I will no more drive my people of Israel out of the land that I have given them.
 
 - For I knew that they would not hear me, because it is a stiffnecked people: but in the land of their captivities they shall remember themselves: So, don't worry. I know these are hard-headed people, but I'm in the land of the captivity, I'm going to afflict them so much, they're going to remember who I am. They're going to remember themselves. They're going to line themselves up with that Bible and realize I'm talking to them. If you be think yourself in the land whether you were carried captive and repent. So they're going to remember slavery that we went through. It's going to come back to you. I'mma teach you my word. I'mma put light in your eyes, that when you look at this Bible.
 
@@ -478,13 +468,23 @@ Reading from Definitions of "special" and "particular" (dictionary, as read on a
 
 - Anyway, I know how to read. I knew history. I knew slavery. I understood that. I know your generation don't know, you young ones back there. And I'm reading. I'm like, "Wait a second. It said ships. It said iron yokes." Who that happened to? I knew that only happened to us for the most. Sold children. Made me double back. My eyes was open in my captivity. That's all of us stories. We all have the same story. The whole family think we in a cult, whatever. But we learned. God opened our eyes. He let us see clearly truth. We're being reconnected. Now, we got to take in this wisdom, we have to apply to our lives. And once we have that, then we rule again. Until then, we stay where we at.
 
+> <sup>[31](/bible/baruch/2#v31)</sup> And shall know that I am the Lord their God: for I will give them an heart, and ears to hear:
+
 - For I will give them an heart, and ears to hear: He said, "I'm going to give them a what? A heart and ears to hear." He said, "I'm going to open up their level of understanding that they can know. I'm going to change the way they think." Some of us learn on the street. Some of us learn by video. But in that day when it happened to each one of us, something clicked in our head. "Wait a second. Wait a second." That was that day when God decided to wake you up, wake me up, wake all of us up so we can stop depending on Esau.
 
 - And I mean, how many times can you vote? Who you voting for, the devil or Satan? Neither one, none of them worked. Show me which one worked for us ever in history. Show me any time in history where we voted and it worked in our favor. What was the big thing? "Oh, we got to sit on the front of the bus." Okay. Still pay the same bus fare, man. Going in the same direction. Drink out the same water fountain. That was the progress we wanted? Hell no. We want rulership, and I don't want to share.
 
+> <sup>[32](/bible/baruch/2#v32)</sup> And they shall praise me in the land of their captivity, and think upon my name,
+
 - And they shall praise me in the land of their captivity, and think upon my name: You know how we praise them in our captivity? We out there in the corners teaching. We praising them right now, showing the people who they are. They know we a little different. We ain't like the other group. Nah, we on them corners. "Christ is black. The Jews are black. Northern kingdom is Israel. Native American Indians, they're Israel. And the rest of you is going to die. Thus saith the Lord."
 
+> <sup>[33](/bible/baruch/2#v33)</sup> And return from their stiff neck, and from their wicked deeds: for they shall remember the way of their fathers, which sinned before the Lord.
+>
+> <sup>[34](/bible/baruch/2#v34)</sup> And I will bring them again into the land which I promised with an oath unto their fathers, Abraham, Isaac, and Jacob, and they shall be lords of it: and I will increase them, and they shall not be diminished.
+
 - And I will bring them again into the land which I promised with an oath unto their fathers, Abraham, Isaac, and Jacob, and they shall be lords of it: He said he's going to bring us back to the land they promised us, to do what? To subdue and have dominion over. We're going to be lords over the lands. Can somebody look up the word lord? Give me synonyms or definition.
+
+> <sup>[35](/bible/baruch/2#v35)</sup> And I will make an everlasting covenant with them to be their God, and they shall be my people: and I will no more drive my people of Israel out of the land that I have given them.
 
 - And I will no more drive my people of Israel out of the land that I have given them: Right? Because the earth was made for all sakes. That's what we're trying to get back to.
 
@@ -510,26 +510,26 @@ Reading from Definition of "lord" (dictionary, as read on air)  *[[1:45:37](http
 **[Hebrews 6:13-18](/bible/hebrews/6#v13)**  *[[1:47:48](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=6468s)]*
 
 > <sup>[13](/bible/hebrews/6#v13)</sup> For when God made promise to Abraham, because he could swear by no greater, he sware by himself,
->
-> <sup>[14](/bible/hebrews/6#v14)</sup> Saying, Surely blessing I will bless thee, and multiplying I will multiply thee.
->
-> <sup>[15](/bible/hebrews/6#v15)</sup> And so, after he had patiently endured, he obtained the promise.
->
-> <sup>[16](/bible/hebrews/6#v16)</sup> For men verily swear by the greater: and an oath for confirmation is to them an end of all strife.
->
-> <sup>[17](/bible/hebrews/6#v17)</sup> Wherein God, willing more abundantly to shew unto the heirs of promise the immutability of his counsel, confirmed it by an oath:
->
-> <sup>[18](/bible/hebrews/6#v18)</sup> That by two immutable things, in which it was impossible for God to lie, we might have a strong consolation, who have fled for refuge to lay hold upon the hope set before us:
 
 - For when God made promise to Abraham, because he could swear by no greater, he sware by himself: So when God made a promise to Abraham, because he could swear by no greater, he swore by himself. So he made a promise and then on top of it he swore.
 
+> <sup>[14](/bible/hebrews/6#v14)</sup> Saying, Surely blessing I will bless thee, and multiplying I will multiply thee.
+>
+> <sup>[15](/bible/hebrews/6#v15)</sup> And so, after he had patiently endured, he obtained the promise.
+
 - And so, after he had patiently endured, he obtained the promise: Now here is who? After he patiently endured. Somebody just say the name. Abraham. Just keep in mind Abraham patiently endured something. Well, can I ask you, what did Abraham patiently endure? Who can answer the question? Well, one second. You read a different Bible for me. He never killed Isaac. Prepare. Okay. Good. Good. Yes, your answer is correct, but there's a little more behind it we're going to put to in a second.
 
+> <sup>[16](/bible/hebrews/6#v16)</sup> For men verily swear by the greater: and an oath for confirmation is to them an end of all strife.
+
 - For men verily swear by the greater: and an oath for confirmation is to them an end of all strife: Right? Because when you make an oath, it will end all strife. Me and you have a conversation. I said, "Listen, I'm going to do this." But I don't know. You said, "Listen, I swear." Today people's word don't mean jack to most people today when they use their word. People making promises that you already know a man who don't hold to his word. You know, if there was any dispute, "I promise you I'm gonna take it." "I swear to you, I'mma do it." If a man speaks like that, well, if you make a promise, you should hold it. But when you put a square, it should end all strife because we're all honorable men.
+
+> <sup>[17](/bible/hebrews/6#v17)</sup> Wherein God, willing more abundantly to shew unto the heirs of promise the immutability of his counsel, confirmed it by an oath:
 
 - Wherein God, willing more abundantly to shew unto the heirs of promise: Now, stop. Wherein God willing more abundantly. Somebody explain. Wherein God more abundantly. Y'all want me to explain it or does somebody want to try it? It's just a word that's thrown you off. What was more abundant than the promise? The oath. The oath is what sealed it. Wherein God was willing more abundantly.
 
 - The immutability of his counsel, confirmed it by an oath: What does the word immobility means? Who knows what that means? Can you look it up for me real quick? Unchangeable. That's what it means. So it says the immobility of his counsel confirmed it by oath. I promise and I don't change. But just to make sure you understand, I swear. God said, he promised us and then he swore on top of it.
+
+> <sup>[18](/bible/hebrews/6#v18)</sup> That by two immutable things, in which it was impossible for God to lie, we might have a strong consolation, who have fled for refuge to lay hold upon the hope set before us:
 
 - That by two immutable things, in which it was impossible for God to lie, we might have a strong consolation, who have fled for refuge to lay hold upon the hope set before us: The hope that was set before us was Christ. That was the hope, that we have a chance of reconciliation. And in reconciliation to Christ comes rulership, dominion, power. We become gods again. Right now we African-Americans, Puerto Ricans, Dominicans, Mexicans. But in that day, in that time, because he promised us by oath, we will rule once again.
 
@@ -543,10 +543,10 @@ Reading from Definition of "lord" (dictionary, as read on air)  *[[1:45:37](http
 > <sup>[2](/bible/genesis/12#v2)</sup> And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing:
 >
 > <sup>[3](/bible/genesis/12#v3)</sup> And I will bless them that bless thee, and curse him that curseth thee: and in thee shall all families of the earth be blessed.
->
-> <sup>[4](/bible/genesis/12#v4)</sup> So Abram departed, as the Lord had spoken unto him; and Lot went with him: and Abram was seventy and five years old when he departed out of Haran.
 
 - And in thee shall all families of the earth be blessed: He told him, "And in thee shall all the families of the earth be blessed." Abram.
+
+> <sup>[4](/bible/genesis/12#v4)</sup> So Abram departed, as the Lord had spoken unto him; and Lot went with him: and Abram was seventy and five years old when he departed out of Haran.
 
 - And Abram was seventy and five years old when he departed out of Haran: So he promised Abraham, "In thee shall all the nations of the earth be blessed." And Abraham was how old?
 
@@ -556,18 +556,18 @@ Reading from Definition of "lord" (dictionary, as read on air)  *[[1:45:37](http
 > <sup>[1](/bible/genesis/15#v1)</sup> After these things the word of the Lord came unto Abram in a vision, saying, Fear not, Abram: I am thy shield, and thy exceeding great reward.
 >
 > <sup>[2](/bible/genesis/15#v2)</sup> And Abram said, Lord God, what wilt thou give me, seeing I go childless, and the steward of my house is this Eliezer of Damascus?
->
+
+- Lord God, what wilt thou give me, seeing I go childless: He says, "Well, Lord, how's this going to happen if I go childless?" How old was Abraham when he spoke to him before? "I don't have no children. You told me in thee shall all the nations of earth be blessed."
+
 > <sup>[3](/bible/genesis/15#v3)</sup> And Abram said, Behold, to me thou hast given no seed: and, lo, one born in my house is mine heir.
 >
 > <sup>[4](/bible/genesis/15#v4)</sup> And, behold, the word of the Lord came unto him, saying, This shall not be thine heir; but he that shall come forth out of thine own bowels shall be thine heir.
 >
 > <sup>[5](/bible/genesis/15#v5)</sup> And he brought him forth abroad, and said, Look now toward heaven, and tell the stars, if thou be able to number them: and he said unto him, So shall thy seed be.
->
-> <sup>[6](/bible/genesis/15#v6)</sup> And he believed in the Lord; and he counted it to him for righteousness.
-
-- Lord God, what wilt thou give me, seeing I go childless: He says, "Well, Lord, how's this going to happen if I go childless?" How old was Abraham when he spoke to him before? "I don't have no children. You told me in thee shall all the nations of earth be blessed."
 
 - So shall thy seed be: So he told him, "No, no, no, no, no. Your heir is coming from your seed, Abraham. That's where it's coming from. Don't worry about that. Oh, you 75, but it's coming from you."
+
+> <sup>[6](/bible/genesis/15#v6)</sup> And he believed in the Lord; and he counted it to him for righteousness.
 
 
 **[Genesis 17:15-18](/bible/genesis/17#v15)**  *[[1:57:13](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=7033s)]*
@@ -577,10 +577,10 @@ Reading from Definition of "lord" (dictionary, as read on air)  *[[1:45:37](http
 > <sup>[16](/bible/genesis/17#v16)</sup> And I will bless her, and give thee a son also of her: yea, I will bless her, and she shall be a mother of nations; kings of people shall be of her.
 >
 > <sup>[17](/bible/genesis/17#v17)</sup> Then Abraham fell upon his face, and laughed, and said in his heart, Shall a child be born unto him that is an hundred years old? and shall Sarah, that is ninety years old, bear?
->
-> <sup>[18](/bible/genesis/17#v18)</sup> And Abraham said unto God, O that Ishmael might live before thee!
 
 - Shall a child be born unto him that is an hundred years old? and shall Sarah, that is ninety years old, bear?: How much time has passed now? 24, 25 is when he has the child born. That's him patiently enduring, waiting for this promise. He said, "Now, you told me this 24 years ago. So she don't get pregnant now that when I'm 100 years." Come on, Lord. Back then they wasn't taking no peptides. What's that thing they had, the blue chew? There was none of that stuff back then. "Lord, how this is going to work?"
+
+> <sup>[18](/bible/genesis/17#v18)</sup> And Abraham said unto God, O that Ishmael might live before thee!
 
 - O that Ishmael might live before thee!: Ah, drop that. So we understand she was up in age, right?
 
@@ -612,14 +612,14 @@ Reading from Definition of "lord" (dictionary, as read on air)  *[[1:45:37](http
 **[Genesis 22:16-18](/bible/genesis/22#v16)**  *[[2:00:55](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=7255s)]*
 
 > <sup>[16](/bible/genesis/22#v16)</sup> And said, By myself have I sworn, saith the Lord, for because thou hast done this thing, and hast not withheld thy son, thine only son:
->
-> <sup>[17](/bible/genesis/22#v17)</sup> That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore; and thy seed shall possess the gate of his enemies;
->
-> <sup>[18](/bible/genesis/22#v18)</sup> And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.
 
 - By myself have I sworn, saith the Lord, for because thou hast done this thing, and hast not withheld thy son, thine only son: That's the oath. He promised him, and then he swore to him. Those are the two immutable things that he gave. A promise and an oath. He said, "Because I've sworn."
 
+> <sup>[17](/bible/genesis/22#v17)</sup> That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore; and thy seed shall possess the gate of his enemies;
+
 - And thy seed shall possess the gate of his enemies: Well, that's talking about us, bro. Wherever our foot is at, we going to possess the gates. That promise is still here. How do I know? Cuz he went back and explained it in Hebrews 6, the New Testament.
+
+> <sup>[18](/bible/genesis/22#v18)</sup> And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.
 
 - Because thou hast obeyed my voice: And that's what the Lord said, because that you obeyed that voice. So for us, we have to obey that voice. Obey. Don't lose focus on the prize. This class going to something else. I wasn't going through this today, but I'm going to try to stare back to where I was going. Just don't lose focus, bro. Stay focused. Don't let the noise of this world distract you. Women, drugs, whatever. Do not let it be the distraction to you. We're on a mission. At the end of this, we win. We can't lose. The only way you lose is you have to work at losing. We're slated to win. You just got to endure it to the end.
 
@@ -662,10 +662,10 @@ Reading from Definition of "lord" (dictionary, as read on air)  *[[1:45:37](http
 **[Isaiah 32:1-2](/bible/isaiah/32#v1)**  *[[2:09:52](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=7792s)]*
 
 > <sup>[1](/bible/isaiah/32#v1)</sup> Behold, a king shall reign in righteousness, and princes shall rule in judgment.
->
-> <sup>[2](/bible/isaiah/32#v2)</sup> And a man shall be as an hiding place from the wind, and a covert from the tempest; as rivers of water in a dry place, as the shadow of a great rock in a weary land.
 
 - Behold, a king shall reign in righteousness, and princes shall rule in judgment: You hear that? You hear that? Now we got to get you to believe it. But we take baby steps. We'll go with what we got right now. I ain't trying to sound ungrateful. Let's read again. I want to see if they get a lot louder than that. Come on, Sac. They got me believing now. Hey, Austin, you heard that? I want to hear you ladies like that signing off.
+
+> <sup>[2](/bible/isaiah/32#v2)</sup> And a man shall be as an hiding place from the wind, and a covert from the tempest; as rivers of water in a dry place, as the shadow of a great rock in a weary land.
 
 - And a man shall be as an hiding place from the wind, and a covert from the tempest: Hey, if y'all are faking, shame on y'all. Cuz y'all got me over here grinning. Got me over here emotional.
 
@@ -751,16 +751,16 @@ Reading from Definition of "lord" (dictionary, as read on air)  *[[1:45:37](http
 **[Isaiah 3:6-9](/bible/isaiah/3#v6)**  *[[2:23:07](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=8587s)]*
 
 > <sup>[6](/bible/isaiah/3#v6)</sup> When a man shall take hold of his brother of the house of his father, saying, Thou hast clothing, be thou our ruler, and let this ruin be under thy hand:
->
-> <sup>[7](/bible/isaiah/3#v7)</sup> In that day shall he swear, saying, I will not be an healer; for in my house is neither bread nor clothing: make me not a ruler of the people.
->
-> <sup>[8](/bible/isaiah/3#v8)</sup> For Jerusalem is ruined, and Judah is fallen: because their tongue and their doings are against the Lord, to provoke the eyes of his glory.
->
-> <sup>[9](/bible/isaiah/3#v9)</sup> The shew of their countenance doth witness against them; and they declare their sin as Sodom, they hide it not. Woe unto their soul! for they have rewarded evil unto themselves.
 
 - Be thou our ruler, and let this ruin be under thy hand: Everything is destroyed. "Listen, be a ruler over us. Guide us." Everything is ruined now, bro. Ain't nothing to guide.
 
+> <sup>[7](/bible/isaiah/3#v7)</sup> In that day shall he swear, saying, I will not be an healer; for in my house is neither bread nor clothing: make me not a ruler of the people.
+
 - For in my house is neither bread nor clothing: That's why the woman said, "We don't want no clothes. We don't want no food." Because in that day, the clothing we do have is for those that gathered together, not for the other people that didn't want to listen.
+
+> <sup>[8](/bible/isaiah/3#v8)</sup> For Jerusalem is ruined, and Judah is fallen: because their tongue and their doings are against the Lord, to provoke the eyes of his glory.
+>
+> <sup>[9](/bible/isaiah/3#v9)</sup> The shew of their countenance doth witness against them; and they declare their sin as Sodom, they hide it not. Woe unto their soul! for they have rewarded evil unto themselves.
 
 - And they declare their sin as Sodom: Right? They are prideful, unapologetic, take no accountability. Their sins are like the sins of Sodom and Gomorrah because they was openly sitting in Sodom and Gomorrah. For all people who do not want to change, nah, we can't help you.
 
@@ -768,10 +768,10 @@ Reading from Definition of "lord" (dictionary, as read on air)  *[[1:45:37](http
 **[Isaiah 4:1-2](/bible/isaiah/4#v1)**  *[[2:24:40](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=8680s)]*
 
 > <sup>[1](/bible/isaiah/4#v1)</sup> And in that day seven women shall take hold of one man, saying, We will eat our own bread, and wear our own apparel: only let us be called by thy name, to take away our reproach.
->
-> <sup>[2](/bible/isaiah/4#v2)</sup> In that day shall the branch of the Lord be beautiful and glorious, and the fruit of the earth shall be excellent and comely for them that are escaped of Israel.
 
 - Only let us be called by thy name, to take away our reproach: Right? We're that hedge. Isaiah 32. Men and women going to be looking for us, to be under the authority. So if you got a husband in this truth and he's out here doing the work, fall underneath his hedge. If you don't have a husband, fall on the hedge of the leadership here. Stay right because in that day, in that time, got no help for you.
+
+> <sup>[2](/bible/isaiah/4#v2)</sup> In that day shall the branch of the Lord be beautiful and glorious, and the fruit of the earth shall be excellent and comely for them that are escaped of Israel.
 
 - Comely for them that are escaped of Israel: For them that are escaped from the destruction. Only will our eyes will we see the destruction for the godly. But in that day, guess what?
 
@@ -793,10 +793,10 @@ Reading from Definition of "lord" (dictionary, as read on air)  *[[1:45:37](http
 **[Psalms 2:8-9](/bible/psalms/2#v8)**  *[[2:27:52](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=8872s)]*
 
 > <sup>[8](/bible/psalms/2#v8)</sup> Ask of me, and I shall give thee the heathen for thine inheritance, and the uttermost parts of the earth for thy possession.
->
-> <sup>[9](/bible/psalms/2#v9)</sup> Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter’s vessel.
 
 - Ask of me, and I shall give thee the heathen for thine inheritance, and the uttermost parts of the earth for thy possession: Ah, yes.
+
+> <sup>[9](/bible/psalms/2#v9)</sup> Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter’s vessel.
 
 - Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter's vessel: All right, let's go back in the chapter. Let's start with verse one now.
 
@@ -866,10 +866,10 @@ Reading from Definition of "lord" (dictionary, as read on air)  *[[1:45:37](http
 **[Baruch 4:4-5](/bible/baruch/4#v4)**  *[[2:49:13](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=10153s)]*
 
 > <sup>[4](/bible/baruch/4#v4)</sup> O Israel, happy are we: for things that are pleasing to God are made known unto us.
->
-> <sup>[5](/bible/baruch/4#v5)</sup> Be of good cheer, my people, the memorial of Israel.
 
 - O Israel, happy are we: for things that are pleasing to God are made known unto us: We have the recipe. We know what's pleasing to God.
+
+> <sup>[5](/bible/baruch/4#v5)</sup> Be of good cheer, my people, the memorial of Israel.
 
 - Be of good cheer, my people, the memorial of Israel: And he comes back, says, "Be of good cheer." And the reason why I wanted to end on be of good cheer is because we understand the problem. We know the keys to the solution. I've said it many times in class. When the prophets spoke, they would tell you of impending danger. They would tell you what's happening in live time. And they would project the future and forecast. And the future always forecasts for us that we will rise again if we're godly. Because if it wasn't that message, there'll be no reason for us to change life, if it means that we just stay like this forever. The prophets always told us that the Lord said, "If you but think yourself in a land whether you carry captive and repent, I will deliver you." We understand that if we be patient, there is a prize and a reward for us, and that's what we have to stay focused on, and that's breaking that mind of being dependent.
 

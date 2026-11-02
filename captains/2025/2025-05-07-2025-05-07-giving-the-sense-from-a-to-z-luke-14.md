@@ -34,10 +34,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "health", "sabbath", "the-law", "
 > <sup>[1](/bible/luke/14#v1)</sup> And it came to pass, as he went into the house of one of the chief Pharisees to eat bread on the sabbath day, that they watched him.
 >
 > <sup>[2](/bible/luke/14#v2)</sup> And, behold, there was a certain man before him which had the dropsy.
->
-> <sup>[3](/bible/luke/14#v3)</sup> And Jesus answering spake unto the lawyers and Pharisees, saying, Is it lawful to heal on the sabbath day?
 
 - There was a certain man before him which had the dropsy: which is a sickness.
+
+> <sup>[3](/bible/luke/14#v3)</sup> And Jesus answering spake unto the lawyers and Pharisees, saying, Is it lawful to heal on the sabbath day?
 
 - Is it lawful to heal on the Sabbath day?: So this not this one but the one in Matthew chapter 12. This is one of the scriptures that once again Christians misuse because they don't know what the hell they talking about when it comes to the Bible. All right. So he said, "Is it lawful to heal on the Sabbath day?" All right. Now, there's nowhere in the scriptures that says that it's unlawful to heal on the Sabbath day. Otherwise, everybody would have had spiritual powers just like Christ and there would have been laws on how to use those spiritual powers. But they didn't have those things, right?
 
@@ -87,18 +87,18 @@ tags: ["15 Minutes w/ The Captains", "christ", "health", "sabbath", "the-law", "
 **[2 Esdras 7:66-69](/bible/2-esdras/7#v66)**  *[[14:14](https://www.youtube.com/watch?v=6xG_FWvEDfU&t=854s)]*
 
 > <sup>[66](/bible/2-esdras/7#v66)</sup> And that he is of great mercy, for he multiplieth more and more mercies to them that are present, and that are past, and also to them which are to come.
->
-> <sup>[67](/bible/2-esdras/7#v67)</sup> For if he shall not multiply his mercies, the world would not continue with them that inherit therein.
->
-> <sup>[68](/bible/2-esdras/7#v68)</sup> And he pardoneth; for if he did not so of his goodness, that they which have committed iniquities might be eased of them, the ten thousandth part of men should not remain living.
->
-> <sup>[69](/bible/2-esdras/7#v69)</sup> And being judge, if he should not forgive them that are cured with his word, and put out the multitude of contentions,
 
 - That he is of great mercy, for he multiplieth more and more mercies to them that are present and that are past, and also to them which are to come: So in the time of Esdras, he was saying that he was going to multiply mercies to them that are passed, the ones that are here, and the ones that are to come. Guess what? Some of that mercy was Christ healing people on the Sabbath.
 
+> <sup>[67](/bible/2-esdras/7#v67)</sup> For if he shall not multiply his mercies, the world would not continue with them that inherit therein.
+
 - For if he shall not multiply his mercies, the world would not continue with them that inherit therein: So if he didn't multiply his mercies even right now, we wouldn't be here. We wouldn't be here online going over the scriptures. We would not have congregations. We would not be here because we would have been completely destroyed.
 
+> <sup>[68](/bible/2-esdras/7#v68)</sup> And he pardoneth; for if he did not so of his goodness, that they which have committed iniquities might be eased of them, the ten thousandth part of men should not remain living.
+
 - The ten thousandth part of men should not remain living: if he did not forgive us for our sins. We would not be alive. We would not be alive if he did not forgive us for our sins. Why? Next verse says it.
+
+> <sup>[69](/bible/2-esdras/7#v69)</sup> And being judge, if he should not forgive them that are cured with his word, and put out the multitude of contentions,
 
 - If he should not forgive them that are cured with his word: Contentions. What are you cured with? His word. So when Christ was healing, who was doing the healing? The word. So was it lawful for Christ to heal on the Sabbath? Yes, it was because he was the word. And you're cured with the word. That's what the Pharisees did not get. They did not get. They was blinded to that fact. Blinded.
 
@@ -110,8 +110,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "health", "sabbath", "the-law", "
 > <sup>[4](/bible/luke/14#v4)</sup> And they held their peace. And he took him, and healed him, and let him go;
 >
 > <sup>[5](/bible/luke/14#v5)</sup> And answered them, saying, Which of you shall have an ass or an ox fallen into a pit, and will not straightway pull him out on the sabbath day?
->
-> <sup>[6](/bible/luke/14#v6)</sup> And they could not answer him again to these things.
 
 - Which of you shall have an ass or an ox fallen into a pit, and will not straightway pull him out on the sabbath day?: So he asked them, "Yo, which one of y'all wouldn't help your axe or your ass if it fell into a pit on the Sabbath?" And they couldn't answer them. You want to know why? Because they knew that they would do it. They knew also that they had done things way worse on the Sabbath. They had done things way worse. Period.
 
@@ -129,28 +127,30 @@ tags: ["15 Minutes w/ The Captains", "christ", "health", "sabbath", "the-law", "
 
     Let's go to Jude right quick. Jude verse 20. It says, "Building up yourselves, we got to build ourselves up."
 
+> <sup>[6](/bible/luke/14#v6)</sup> And they could not answer him again to these things.
+
 
 **[Matthew 13:10-15](/bible/matthew/13#v10)**  *[[20:19](https://www.youtube.com/watch?v=6xG_FWvEDfU&t=1219s)]*
 
 > <sup>[10](/bible/matthew/13#v10)</sup> And the disciples came, and said unto him, Why speakest thou unto them in parables?
->
-> <sup>[11](/bible/matthew/13#v11)</sup> He answered and said unto them, Because it is given unto you to know the mysteries of the kingdom of heaven, but to them it is not given.
->
-> <sup>[12](/bible/matthew/13#v12)</sup> For whosoever hath, to him shall be given, and he shall have more abundance: but whosoever hath not, from him shall be taken away even that he hath.
->
-> <sup>[13](/bible/matthew/13#v13)</sup> Therefore speak I to them in parables: because they seeing see not; and hearing they hear not, neither do they understand.
->
-> <sup>[14](/bible/matthew/13#v14)</sup> And in them is fulfilled the prophecy of Esaias, which saith, By hearing ye shall hear, and shall not understand; and seeing ye shall see, and shall not perceive:
->
-> <sup>[15](/bible/matthew/13#v15)</sup> For this people’s heart is waxed gross, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes, and hear with their ears, and should understand with their heart, and should be converted, and I should heal them.
 
 - Why speakest thou unto them in parables?: The healing of God's word was not meant for everybody. You got to understand that off the bat. So when they say, "Well, all people could be saved." No. No. All people can't be saved cuz all people not even going to understand the word. So how everybody going to be saved and everybody ain't even going to understand fully?
 
+> <sup>[11](/bible/matthew/13#v11)</sup> He answered and said unto them, Because it is given unto you to know the mysteries of the kingdom of heaven, but to them it is not given.
+
 - But to them it is not given: Everybody is not given the mysteries to the kingdom of heaven. Everybody is not given the grace and the mercy to understand this Bible. Everybody's not given that. That's not everybody's thing because everybody is not going to be saved. Everybody's not going to choose to keep the commandments. Everybody's not going to choose to follow Christ, the Christ of this Bible, the Messiah, you know, the one that's black with willy hair, the one whose image they changed in the entire world. That one, that guy, the savior. Everybody's not going to follow that.
+
+> <sup>[12](/bible/matthew/13#v12)</sup> For whosoever hath, to him shall be given, and he shall have more abundance: but whosoever hath not, from him shall be taken away even that he hath.
+>
+> <sup>[13](/bible/matthew/13#v13)</sup> Therefore speak I to them in parables: because they seeing see not; and hearing they hear not, neither do they understand.
 
 - Because they seeing see not; and hearing they hear not, neither do they understand: They're going to hear the prophets. They're going to see the prophets. They're going to hear these scriptures. They're going to hear the word. They're going to see. They're going to see men that were in the hood. Drug dealers, murderers, fornicators, people that had their lives all out of order, in and out of jail. They going to see these same people change their life and they're going to actually be on the street teaching with the Bible. They're going to see it and they're not going to understand. They're not going to see that as the power of God. You know what they're going to see it as? Oh, these dudes in a cult.
 
 - Nobody said anybody was in a cult when they was smoking weed, when they was doing drugs, when they was doing all type of evil in the hood, in the ghettos, when they was in colleges frolicking and doing whatever they was doing out there. When they was in all manner of wickedness, nobody said that anybody was in a cult. But soon as you start actually following what the Bible says, now you're in a cult. Now you part of the people that call themselves Jews and they're not. Now that's us when we ain't never called ourselves Jews in no point in history, well modern history, should I say. All throughout slavery wasn't calling ourselves Jews. We called ourselves whatever the white man called us. If they called us something, guess what? That's what we was.
+
+> <sup>[14](/bible/matthew/13#v14)</sup> And in them is fulfilled the prophecy of Esaias, which saith, By hearing ye shall hear, and shall not understand; and seeing ye shall see, and shall not perceive:
+>
+> <sup>[15](/bible/matthew/13#v15)</sup> For this people’s heart is waxed gross, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes, and hear with their ears, and should understand with their heart, and should be converted, and I should heal them.
 
 - And should be converted, and I should heal them: He don't want to heal everybody. He don't want to heal everybody. He want those who he wants to hear to hear. That's why he said my sheep hear my voice. Those of us that heard the word, we heard it and we changed our lives. We converted. They got a lot of people that heard the word and they didn't convert. And some of them ain't going to convert because it's not meant for them to do so.
 
@@ -158,16 +158,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "health", "sabbath", "the-law", "
 **[Luke 14:7-11](/bible/luke/14#v7)**  *[[24:39](https://www.youtube.com/watch?v=6xG_FWvEDfU&t=1479s)]*
 
 > <sup>[7](/bible/luke/14#v7)</sup> And he put forth a parable to those which were bidden, when he marked how they chose out the chief rooms; saying unto them,
->
-> <sup>[8](/bible/luke/14#v8)</sup> When thou art bidden of any man to a wedding, sit not down in the highest room; lest a more honourable man than thou be bidden of him;
->
-> <sup>[9](/bible/luke/14#v9)</sup> And he that bade thee and him come and say to thee, Give this man place; and thou begin with shame to take the lowest room.
->
-> <sup>[10](/bible/luke/14#v10)</sup> But when thou art bidden, go and sit down in the lowest room; that when he that bade thee cometh, he may say unto thee, Friend, go up higher: then shalt thou have worship in the presence of them that sit at meat with thee.
->
-> <sup>[11](/bible/luke/14#v11)</sup> For whosoever exalteth himself shall be abased; and he that humbleth himself shall be exalted.
 
 - When he marked how they chose out the chief rooms: So these are people, remember, this is one of the houses of the chief priests. And when the Pharisees came in, they automatically went to the chief room. They automatically went to where the prestigious people go, where the higherups go. They automatically went there. Let's see what Christ said.
+
+> <sup>[8](/bible/luke/14#v8)</sup> When thou art bidden of any man to a wedding, sit not down in the highest room; lest a more honourable man than thou be bidden of him;
 
 - Sit not down in the highest room: This is called etiquette. Christ taught etiquette because the Bible teaches etiquette. When you invited to somewhere, don't go sit in the most highest room that you can. No, that's not what you're supposed to do.
 
@@ -175,9 +169,15 @@ tags: ["15 Minutes w/ The Captains", "christ", "health", "sabbath", "the-law", "
 
 - When the disciples were among Christ, there was a differentiation in the disciples. When all of the disciples were around in the time of Acts, you had the 12 and then you had the rest of the disciples. Even Paul knew that there was a differentiation. Why? Because that's order and structure. Something that black people hate. We as a people hate order and structure except when it come to your job. You work for your position. You'll never let somebody just coming in the door try to take your position and do your job. But people want to do it here in the truth. We know that there's a differentiation with degrees that you get. Somebody may get a bachelor's degree. That don't make you equal to somebody with a master's degree. That person with a master's degree, that don't make you equal to somebody with a PhD. Y'all are not equal. A nurse is not equal to a surgeon. Nowhere in life do you find this type of equality that people swear up and down exists. It don't. It don't exist. Get your mind on that.
 
+> <sup>[9](/bible/luke/14#v9)</sup> And he that bade thee and him come and say to thee, Give this man place; and thou begin with shame to take the lowest room.
+
 - And thou begin with shame to take the lowest room: That's what was said in Proverbs. You going to look bad in front of the princes who your eyes have seen. You understand?
 
+> <sup>[10](/bible/luke/14#v10)</sup> But when thou art bidden, go and sit down in the lowest room; that when he that bade thee cometh, he may say unto thee, Friend, go up higher: then shalt thou have worship in the presence of them that sit at meat with thee.
+
 - Friend, go up higher: It's better for you to get told, "Hey, come on up here." than for you to take it upon yourself like, "Yeah, I'm just going to go up there." No, you're not. Those of us that have been around the leaders, you know, you ask, "Hey, can I come up there? Can I come up there with y'all?" You don't take it upon yourself to just walk up in some stuff. No, you don't do that. We didn't do that as kids. You don't insert yourself in the Bible. I mean, in grown folks business, as young children, we knew that you don't insert yourself in grown folks business. You wait for them. Hey, what you got to say? Come say it. You understand?
+
+> <sup>[11](/bible/luke/14#v11)</sup> For whosoever exalteth himself shall be abased; and he that humbleth himself shall be exalted.
 
 - For whosoever exalteth himself shall be abased; and he that humbleth himself shall be exalted: So this was another shot at the Pharisees. Why? Let's go back up to verse 7. It says, "And he put forth a parable to those which were bidden when he marked how they chose out the chief rooms." So even in the midst of this parable, he was correcting them. Christ was correcting him. He was like, "Look, you see how they going up there to the chief rooms acting like they exalting themselves and stuff like that? No, don't do that." He used them as an example for us of what not to do. Now we got to see damn, I lost my train of thought. Anyway, I'm going to read verse 11 again.
 
@@ -192,39 +192,39 @@ tags: ["15 Minutes w/ The Captains", "christ", "health", "sabbath", "the-law", "
 
 **[Matthew 23:5-13](/bible/matthew/23#v5)**  *[[33:26](https://www.youtube.com/watch?v=6xG_FWvEDfU&t=2006s)]*
 
-> <sup>[5](/bible/matthew/23#v5)</sup> But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments,
->
-> <sup>[6](/bible/matthew/23#v6)</sup> And love the uppermost rooms at feasts, and the chief seats in the synagogues,
->
-> <sup>[7](/bible/matthew/23#v7)</sup> And greetings in the markets, and to be called of men, Rabbi, Rabbi.
->
-> <sup>[8](/bible/matthew/23#v8)</sup> But be not ye called Rabbi: for one is your Master, even Christ; and all ye are brethren.
->
-> <sup>[9](/bible/matthew/23#v9)</sup> And call no man your father upon the earth: for one is your Father, which is in heaven.
->
-> <sup>[10](/bible/matthew/23#v10)</sup> Neither be ye called masters: for one is your Master, even Christ.
->
-> <sup>[11](/bible/matthew/23#v11)</sup> But he that is greatest among you shall be your servant.
->
-> <sup>[12](/bible/matthew/23#v12)</sup> And whosoever shall exalt himself shall be abased; and he that shall humble himself shall be exalted.
->
-> <sup>[13](/bible/matthew/23#v13)</sup> But woe unto you, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men: for ye neither go in yourselves, neither suffer ye them that are entering to go in.
-
 - Because the scribes and the Pharisees, they was getting chewed out by Christ constantly. Constantly.
 
 - They make broad deflactories, and enlarge the borders of their garments: They have them big blowing in the wind fringes.
 
+> <sup>[5](/bible/matthew/23#v5)</sup> But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments,
+>
+> <sup>[6](/bible/matthew/23#v6)</sup> And love the uppermost rooms at feasts, and the chief seats in the synagogues,
+
 - And love the uppermost rooms at feasts, and the chief seats in the synagogues: So Christ, man, Christ was getting on them in Matthew 23. Why? Because when you go to Luke 14, this is the actions that they were doing. He said they love the uppermost rooms. They love the chief seats in the synagogues. Why? Because that's where everybody see them at. They could just sit with their head high like, "Yeah, yeah. What? What you need? What you need, young fella?" All right. No, we're not supposed to act like that. We ain't supposed to act like that.
+
+> <sup>[7](/bible/matthew/23#v7)</sup> And greetings in the markets, and to be called of men, Rabbi, Rabbi.
 
 - And to be called of men, Rabbi, Rabbi: which means master. But be ye not called rabbi. Be ye not called rabbi. How is it that the people that claim to be the chosen are calling themselves rabbis? Christ Jesus Christ the black Messiah said, "Do not call yourself rabbi."
 
+> <sup>[8](/bible/matthew/23#v8)</sup> But be not ye called Rabbi: for one is your Master, even Christ; and all ye are brethren.
+
 - For one is your Master, even Christ; and all ye are brethren: One is our master. One is our rabbi. That's Christ. Christ is the rabbi. Not anybody else. Damn shall not know no Amalekite, no Edomite, no none of that.
+
+> <sup>[9](/bible/matthew/23#v9)</sup> And call no man your father upon the earth: for one is your Father, which is in heaven.
 
 - And call no man your father upon the earth: Now they got the guy that died over there calling himself the vicor of Christ. And everybody calls him father in that religion. And Christ said, "Don't call no man your father." He just said that. And no, he not talking about your actual birth father. The man that gave birth to you. Yes, that's your father. That's who put you inside your mama. That's where you came from. Ain't talking about that. He talking about as a term of reverence. That term of reverence, father goes to one person, the father. That term rabbi goes to one person, Christ. That's your master. That's our master.
 
+> <sup>[10](/bible/matthew/23#v10)</sup> Neither be ye called masters: for one is your Master, even Christ.
+>
+> <sup>[11](/bible/matthew/23#v11)</sup> But he that is greatest among you shall be your servant.
+
 - But he that is greatest among you shall be your servant: meaning and Bishop Kani says this all the time. I'm here to serve you. I'm here to serve you. What do you need from me? I'm here to serve you. Why? Because the greatest of us serve everybody else. Who are they going to go to with their problems? The leadership. Who they going to go to if they need counsel? The leadership. They go to the leaders because the leaders are there to guide them in the right direction which makes the leaders the servant of the people. You don't get these titles and then you just kick your feet up. No, you got more work to do. You understand?
 
+> <sup>[12](/bible/matthew/23#v12)</sup> And whosoever shall exalt himself shall be abased; and he that shall humble himself shall be exalted.
+
 - And whosoever shall exalt himself shall be abased; and he that shall humble himself shall be exalted: This is all geared toward the scribes and Pharisees. All geared toward the scribes and Pharisees. Why? Because they were doing things to exalt themselves. They were not humble. They were not full of humility. Nothing. Nothing. What they were doing was looking for the eyes of men.
+
+> <sup>[13](/bible/matthew/23#v13)</sup> But woe unto you, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men: for ye neither go in yourselves, neither suffer ye them that are entering to go in.
 
 - For ye neither go in yourselves, neither suffer ye them that are entering to go in: Meaning they don't do what they supposed to do in order to get the kingdom of heaven. They not keeping the commandments. They being hypocrites, but then they want to judge somebody else. Like the woman caught in adultery, they caught the woman in adultery. They said she was caught in the very act. Meaning she was on top of the brother or the brother was on top of her. She was caught in the very act. So why they only brought her? The law said bring both of them. Both of them got to go. Why they only brought her? Because they had poor judgment. There was hypocrites in judgment. These are the things that Christ was getting on them about.
 
@@ -253,10 +253,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "health", "sabbath", "the-law", "
 **[Luke 14:12-13](/bible/luke/14#v12)**  *[[42:57](https://www.youtube.com/watch?v=6xG_FWvEDfU&t=2577s)]*
 
 > <sup>[12](/bible/luke/14#v12)</sup> Then said he also to him that bade him, When thou makest a dinner or a supper, call not thy friends, nor thy brethren, neither thy kinsmen, nor thy rich neighbours; lest they also bid thee again, and a recompence be made thee.
->
-> <sup>[13](/bible/luke/14#v13)</sup> But when thou makest a feast, call the poor, the maimed, the lame, the blind:
 
 - Lest they also bid thee again, and a recompence be made thee: cuz yeah, I want to pay you back cuz you threw a party last time. I'mma throw a party this time. I'mma invite you. Okay, that's not really much of a recompense or a payback.
+
+> <sup>[13](/bible/luke/14#v13)</sup> But when thou makest a feast, call the poor, the maimed, the lame, the blind:
 
 - But when thou makest a feast, call the poor, the maimed, the lame, the blind: Why? Why call them? You making a big old feast. Why call them? Why call the poor and those that may not have it, why call them?
 
@@ -281,6 +281,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "health", "sabbath", "the-law", "
 
 **[Matthew 19:16-22](/bible/matthew/19#v16)**  *[[45:57](https://www.youtube.com/watch?v=6xG_FWvEDfU&t=2757s)]*
 
+- That's what that rich young ruler didn't understand. Christ said, "Go and sell all that, not all that you have, but go and sell that you have and give to the poor."
+
 > <sup>[16](/bible/matthew/19#v16)</sup> And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life?
 >
 > <sup>[17](/bible/matthew/19#v17)</sup> And he said unto him, Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments.
@@ -288,20 +290,18 @@ tags: ["15 Minutes w/ The Captains", "christ", "health", "sabbath", "the-law", "
 > <sup>[18](/bible/matthew/19#v18)</sup> He saith unto him, Which? Jesus said, Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness,
 >
 > <sup>[19](/bible/matthew/19#v19)</sup> Honour thy father and thy mother: and, Thou shalt love thy neighbour as thyself.
->
-> <sup>[20](/bible/matthew/19#v20)</sup> The young man saith unto him, All these things have I kept from my youth up: what lack I yet?
->
-> <sup>[21](/bible/matthew/19#v21)</sup> Jesus said unto him, If thou wilt be perfect, go and sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come and follow me.
->
-> <sup>[22](/bible/matthew/19#v22)</sup> But when the young man heard that saying, he went away sorrowful: for he had great possessions.
-
-- That's what that rich young ruler didn't understand. Christ said, "Go and sell all that, not all that you have, but go and sell that you have and give to the poor."
 
 - Thou shalt love thy neighbour as thyself: These are the things that Christ said and love your neighbor as you love yourself is not in the ten commandments. All of them that we just read is in the ten commandments except love your neighbor as you love yourself. That's in Leviticus 19 verse 20.
 
+> <sup>[20](/bible/matthew/19#v20)</sup> The young man saith unto him, All these things have I kept from my youth up: what lack I yet?
+
 - All these things have I kept from my youth up: what lack I yet?: That is you trying to justify yourself. I mean, I do all of that. I don't lie. Wait, wait. I don't murder. I don't commit adultery. I don't steal. I don't bear false witness. I honor my mother and my father. And I love my neighbor as I love myself. I mean, what else I got to do? Cuz I've been doing that since I was young. I got years of experience with all of them. Everything that you just said, I got years of experience with all of that. Let's see what Christ said.
 
+> <sup>[21](/bible/matthew/19#v21)</sup> Jesus said unto him, If thou wilt be perfect, go and sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come and follow me.
+
 - If thou wilt be perfect: if you will be perfect, because that's what you saying. You saying you perfect. You got a lot. You got a lot. You say you've been keeping these commandments since you was young. Okay, since you think you perfect, since you so perfect, if you want to really be perfect, go sell the stuff that you have and give it to the poor and come and follow me. You going to have treasure in heaven. Let's see what he said.
+
+> <sup>[22](/bible/matthew/19#v22)</sup> But when the young man heard that saying, he went away sorrowful: for he had great possessions.
 
 - He went away sorrowful: for he had great possessions: He loved his possessions and his status more than he loved his people. You can't have both. You can't serve God in mammon. Understand that. You can't say, "Oh, I've been keeping this since I was young." But then you don't want to go sell your stuff and then give it to the poor. They got poor people that don't have half as a quarter of what you have. And you don't want to sell nothing to give to them so that they can have. You don't want to set some of your poor people up so that they can actually have something. You don't want to do that.
 
@@ -330,30 +330,30 @@ tags: ["15 Minutes w/ The Captains", "christ", "health", "sabbath", "the-law", "
 **[Sirach 12:1-6](/bible/sirach/12#v1)**  *[[54:28](https://www.youtube.com/watch?v=6xG_FWvEDfU&t=3268s)]*
 
 > <sup>[1](/bible/sirach/12#v1)</sup> When thou wilt do good, know to whom thou doest it; so shalt thou be thanked for thy benefits.
->
-> <sup>[2](/bible/sirach/12#v2)</sup> Do good to the godly man, and thou shalt find a recompence; and if not from him, yet from the most High.
->
-> <sup>[3](/bible/sirach/12#v3)</sup> There can no good come to him that is always occupied in evil, nor to him that giveth no alms.
->
-> <sup>[4](/bible/sirach/12#v4)</sup> Give to the godly man, and help not a sinner.
->
-> <sup>[5](/bible/sirach/12#v5)</sup> Do well unto him that is lowly, but give not to the ungodly: hold back thy bread, and give it not unto him, lest he overmaster thee thereby: for else thou shalt receive twice as much evil for all the good thou shalt have done unto him.
->
-> <sup>[6](/bible/sirach/12#v6)</sup> For the most High hateth sinners, and will repay vengeance unto the ungodly, and keepeth them against the mighty day of their punishment.
 
 - When thou wilt do good know to whom thou doest it; so shalt thou be thanked for thy benefits: When you want to do good, you got to know who you helping. Because a lot of people say, "Oh, well, y'all don't go and do soup kitchens and y'all don't give to the poor and y'all don't give food drive." Actually, we do. We've done community cleanups where we have supplied hot dogs and hamburgers for the people. We've given away things for back to school drives. We've done all of those things without even wanting nothing back. But you can't go through our life, especially in this truth, just helping people willy-nilly.
 
 - I remember one time I helped a brother I was working with. And he was stressed out and I think payday was like I think it was like Tuesday, payday was Friday and he was running low on money and he was like, "Yo, can I borrow $10?" And I'm like, "All right, I guess so." You know what I'm saying? Like, I'm thinking cuz we about to go to lunch. I'm thinking he going to go and get the $10 and buy something to eat. So, I'm like, "Look, I'mma go over here and I'm going to get something from Subway." Like, "All right, I'mma go up in here in the corner store." I'm thinking he about to get, you know, cuz the corner store they sell things, you know, hot food and stuff like that. And he come out and he got a pack of cigarettes in his hand. He got in the car said, "Bro, when you get paid, give me my $10 and don't ever ask me for no money no more. If I would have known you was going to buy cigarettes with that $10, bro, I wouldn't have gave you nothing." And he was like, "Damn, yeah, I'm serious. I wouldn't have gave you that money if I knew you was about to buy cigarettes." But I was young in the truth. And I thought, hey, I'm just help my people out. Don't you do it. When thou wilt do good, know to whom thou doest it, so thou shalt be thanked for thy benefits. You got to know the person you helping.
 
+> <sup>[2](/bible/sirach/12#v2)</sup> Do good to the godly man, and thou shalt find a recompence; and if not from him, yet from the most High.
+
 - Do good to the godly man, and thou shalt find a recompence; and if not from him, yet from the most High: That's what he was saying in Luke chapter 14 and 14. He said, you're going to be blessed. You're going to find a recompense. They can't recompense you. They can't pay you back. But you will find a payback from the Lord.
+
+> <sup>[3](/bible/sirach/12#v3)</sup> There can no good come to him that is always occupied in evil, nor to him that giveth no alms.
 
 - There can no good come to him that is always occupied in evil, nor to him that giveth no alms: Like I said before, they got some people that's poor because it's judgment. They got some people that's going through something because it's judgment. A lot of people, they got these self-inflicted punishments on themselves and they thinking, "Oh, well, the Lord, I'mma pray to the Lord to get me out of this." No, you got yourself in this from your sins. You need to repent and ask for forgiveness and change.
 
+> <sup>[4](/bible/sirach/12#v4)</sup> Give to the godly man, and help not a sinner.
+
 - Give to the godly man, and help not a sinner: Give to the godly man and help not a sinner. Don't help the people that you know is not following God's laws. Those rebellious ones, don't do it. The Bible backs you up on that. You ain't got to feel guilty. Do good to the godly man and help not a sinner.
+
+> <sup>[5](/bible/sirach/12#v5)</sup> Do well unto him that is lowly, but give not to the ungodly: hold back thy bread, and give it not unto him, lest he overmaster thee thereby: for else thou shalt receive twice as much evil for all the good thou shalt have done unto him.
 
 - Lest he overmaster thee thereby: When it says overmaster thee, it's talking about trick you, run game on you, outsmart you like the brother did me. His ass outsmarted me cuz I ain't ask no questions now. I'll be asking all kind of questions. What you need money for? For what? What you going to get? I'll buy it for you. I ain't going to just give you no that's not how I'm operating out no more. If you need something what you need, I'll get it for you. You need cash for what? You got a toll to pay. You got something that you got to what's the cash for? Yes, I'm nosy because the Bible says when I will do good, know to whom I'm doing it. I got to know why I'm doing it, lest I get overmastered or outsmarted.
 
 - Or else thou shalt receive twice as much evil for all the good thou shalt have done unto him: Cuz you never know, you may be giving somebody $5 and they go buy a nickel bag of weed and next thing you know, you've contributed to your brother committing sin and then you get judged for it. That's also happened before. Or we helping a brother out and left and right congregation going through this congregation like damn what the hell going on we fasting we praying and all the while this fool is in the midst of sin all manner of wickedness going throughout the body the body getting smacked left and right all the while he's the cause for all of the wickedness going on in the body then when he get found out his sin get found out he get put out now the body starts to get cuz we helping him not knowing that he in the midst of wickedness and we getting twice as much evil for the good that we think we doing. It's a shame. It's a shame.
+
+> <sup>[6](/bible/sirach/12#v6)</sup> For the most High hateth sinners, and will repay vengeance unto the ungodly, and keepeth them against the mighty day of their punishment.
 
 
 ## In Closing

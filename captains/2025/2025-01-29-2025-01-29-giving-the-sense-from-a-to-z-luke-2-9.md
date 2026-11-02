@@ -25,12 +25,12 @@ tags: ["15 Minutes w/ The Captains", "angels", "nations", "purpose", "the-law"]
 **[Luke 2:7-9](/bible/luke/2#v7)**  *[[2:54](https://www.youtube.com/watch?v=euB-YtGZ8a0&t=174s)]*
 
 > <sup>[7](/bible/luke/2#v7)</sup> And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.
->
+
+- No room for them in the inn: So that inn is talking about like a hotel or something, right? There was no room for them there, right?
+
 > <sup>[8](/bible/luke/2#v8)</sup> And there were in the same country shepherds abiding in the field, keeping watch over their flock by night.
 >
 > <sup>[9](/bible/luke/2#v9)</sup> And, lo, the angel of the Lord came upon them, and the glory of the Lord shone round about them: and they were sore afraid.
-
-- No room for them in the inn: So that inn is talking about like a hotel or something, right? There was no room for them there, right?
 
 - And they were sore afraid: So, it says that when the angel came they were so afraid. Right? So, now when we see pictures of angels, right? You see little babies. They naked. You know what I'm saying? They floating around with little... Nobody's afraid of that. Right? If that little angel appeared you might get startled like, "Oh, there's a little baby flying around." But then you're not going to be so afraid. But let's see why they were so afraid cuz we got to get the understanding. When we reading we got to really put ourselves in the mix like get in between the lines. Right? So, let's get the book of Judges chapter 13, y'all.
 
@@ -40,22 +40,20 @@ tags: ["15 Minutes w/ The Captains", "angels", "nations", "purpose", "the-law"]
 > <sup>[1](/bible/judges/13#v1)</sup> And the children of Israel did evil again in the sight of the Lord; and the Lord delivered them into the hand of the Philistines forty years.
 >
 > <sup>[2](/bible/judges/13#v2)</sup> And there was a certain man of Zorah, of the family of the Danites, whose name was Manoah; and his wife was barren, and bare not.
->
-> <sup>[3](/bible/judges/13#v3)</sup> And the angel of the Lord appeared unto the woman, and said unto her, Behold now, thou art barren, and bearest not: but thou shalt conceive, and bear a son.
->
-> <sup>[4](/bible/judges/13#v4)</sup> Now therefore beware, I pray thee, and drink not wine nor strong drink, and eat not any unclean thing:
->
-> <sup>[5](/bible/judges/13#v5)</sup> For, lo, thou shalt conceive, and bear a son; and no razor shall come on his head: for the child shall be a Nazarite unto God from the womb: and he shall begin to deliver Israel out of the hand of the Philistines.
->
-> <sup>[6](/bible/judges/13#v6)</sup> Then the woman came and told her husband, saying, A man of God came unto me, and his countenance was like the countenance of an angel of God, very terrible: but I asked him not whence he was, neither told he me his name:
->
-> <sup>[7](/bible/judges/13#v7)</sup> But he said unto me, Behold, thou shalt conceive, and bear a son; and now drink no wine nor strong drink, neither eat any unclean thing: for the child shall be a Nazarite to God from the womb to the day of his death.
 
 - His wife was barren, and bare not: Right? So, this man named Zorah, his wife couldn't have any children. But it said he was from the tribe of Dan. Right? That's why it says of the Danites. Right? He was from the tribe of Dan. So, Dan, right now when you look you don't see the tribe of Dan anymore. Right? Dan was assimilated into the tribe of Benjamin. All right? That's a different class. Lord's will we'll go over that at some point. I know Bishop Cannady did a class a lot of years ago about that. But it may be something that we probably have to touch again, right? So, the tribe of Dan was assimilated into the tribe of Benjamin and maybe sprinkled within a few other tribes, all right?
 
+> <sup>[3](/bible/judges/13#v3)</sup> And the angel of the Lord appeared unto the woman, and said unto her, Behold now, thou art barren, and bearest not: but thou shalt conceive, and bear a son.
+
 - And the angel of the LORD appeared unto the woman: Right? So, remember the angel appeared unto those shepherds back in Luke chapter two and what? They were so afraid, right? So, check this out. So, the angel came and told her she going to bear a son.
 
+> <sup>[4](/bible/judges/13#v4)</sup> Now therefore beware, I pray thee, and drink not wine nor strong drink, and eat not any unclean thing:
+
 - Drink not wine nor strong drink: So, now this is really talking about Samson, right? But when I went over Leviticus chapter one, I'm sorry, Luke chapter one, we were talking about John the Baptist. Remember he had the same situation. I'm going to jump there real quick. Y'all ain't got to turn there. Remember it was Luke chapter one and verse 15. If y'all want to get a refresher, it says, "For he shall be great in the sight of the Lord and shall drink neither wine nor strong drink." Right? So, when you see with Samson, right? It says, "drink not wine nor strong drink or any unclean thing," right? Because this was the vow of the Nazarite. So, I forgot to bring that out in Luke chapter one. I meant to do that after I was done. I was like, "Damn, I meant to tell y'all about that." That's the part that I missed. So, all praise to the Lord, it came out anyway, right?
+
+> <sup>[5](/bible/judges/13#v5)</sup> For, lo, thou shalt conceive, and bear a son; and no razor shall come on his head: for the child shall be a Nazarite unto God from the womb: and he shall begin to deliver Israel out of the hand of the Philistines.
+>
+> <sup>[6](/bible/judges/13#v6)</sup> Then the woman came and told her husband, saying, A man of God came unto me, and his countenance was like the countenance of an angel of God, very terrible: but I asked him not whence he was, neither told he me his name:
 
 - Very terrible: A man of God came unto me. Meaning that angel. So, she said that his countenance was terrible, right? Now, that means what? A couple of things, that he actually looks scary because it's not going to be nothing normal. When you look at Ezekiel chapter 1 real quick. Let's get there real quick before we go back. They said that that angel looked terrible. He ain't coming down here to play with people and look like a little baby with his little butt out and little wings and kissing people like Cupid? No. Hell no. Right?
 
@@ -65,26 +63,28 @@ tags: ["15 Minutes w/ The Captains", "angels", "nations", "purpose", "the-law"]
 
     Remember it was Luke chapter one and verse 15. If y'all want to get a refresher. Because this was the vow of the Nazarite.
 
+> <sup>[7](/bible/judges/13#v7)</sup> But he said unto me, Behold, thou shalt conceive, and bear a son; and now drink no wine nor strong drink, neither eat any unclean thing: for the child shall be a Nazarite to God from the womb to the day of his death.
+
 
 **[Ezekiel 1:5-10](/bible/ezekiel/1#v5)**  *[[8:18](https://www.youtube.com/watch?v=euB-YtGZ8a0&t=498s)]*
 
 > <sup>[5](/bible/ezekiel/1#v5)</sup> Also out of the midst thereof came the likeness of four living creatures. And this was their appearance; they had the likeness of a man.
 >
 > <sup>[6](/bible/ezekiel/1#v6)</sup> And every one had four faces, and every one had four wings.
->
+
+- Every one had four faces, and every one had four wings: So, these angels had four different faces on one head. You think you're not going to be terrified if you see something like that? No, this is not Cupid. All right?
+
 > <sup>[7](/bible/ezekiel/1#v7)</sup> And their feet were straight feet; and the sole of their feet was like the sole of a calf’s foot: and they sparkled like the colour of burnished brass.
->
+
+- The sole of a calf's foot: So, they had calves' feet. This is what you're looking at.
+
+- The colour of burnished brass: And they were brown, right? Real brown, right? Black. I'm just making you understand what these particular angels look like. So, when angels come around, ain't nobody going to be like, "Oh my god, look how beautiful." No, you're going to be scared to death, right?
+
 > <sup>[8](/bible/ezekiel/1#v8)</sup> And they had the hands of a man under their wings on their four sides; and they four had their faces and their wings.
 >
 > <sup>[9](/bible/ezekiel/1#v9)</sup> Their wings were joined one to another; they turned not when they went; they went every one straight forward.
 >
 > <sup>[10](/bible/ezekiel/1#v10)</sup> As for the likeness of their faces, they four had the face of a man, and the face of a lion, on the right side: and they four had the face of an ox on the left side; they four also had the face of an eagle.
-
-- Every one had four faces, and every one had four wings: So, these angels had four different faces on one head. You think you're not going to be terrified if you see something like that? No, this is not Cupid. All right?
-
-- The sole of a calf's foot: So, they had calves' feet. This is what you're looking at.
-
-- The colour of burnished brass: And they were brown, right? Real brown, right? Black. I'm just making you understand what these particular angels look like. So, when angels come around, ain't nobody going to be like, "Oh my god, look how beautiful." No, you're going to be scared to death, right?
 
 - As for the likeness of their faces: This is what I want. An eagle, a lion, an ox, and a human face. You think you going to look at that and be like, "Oh yeah, I want to hug them." You ain't going to want to do no hugs, kisses, nothing. You scared to death. I just wanted to jump on that and show why they were so afraid. They were startled. Plus, the angels look scary as hell.
 
@@ -101,24 +101,24 @@ tags: ["15 Minutes w/ The Captains", "angels", "nations", "purpose", "the-law"]
 **[2 Samuel 5:1-7](/bible/2-samuel/5#v1)**  *[[10:57](https://www.youtube.com/watch?v=euB-YtGZ8a0&t=657s)]*
 
 > <sup>[1](/bible/2-samuel/5#v1)</sup> Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we are thy bone and thy flesh.
->
+
+- Behold, we are thy bone and thy flesh: Right? Meaning what? All the tribes they came together, right? And showed that what? We all one. Why? Because Israel was in a war against each other. It was Judah versus all the other tribes. Okay, Benjamin was leading the other tribes and Judah for about 7 years they were fighting, right? This is after King Saul got put to death, right?
+
 > <sup>[2](/bible/2-samuel/5#v2)</sup> Also in time past, when Saul was king over us, thou wast he that leddest out and broughtest in Israel: and the Lord said to thee, Thou shalt feed my people Israel, and thou shalt be a captain over Israel.
->
+
+- Thou wast he that leddest out and broughtest in Israel: Meaning when King Saul was the king still, King David was still the number one guy when it came to war. So although Saul was the boss, King David was his general. Was his guy that he sent out there to do damage. So the people knew David, he had a reputation.
+
 > <sup>[3](/bible/2-samuel/5#v3)</sup> So all the elders of Israel came to the king to Hebron; and king David made a league with them in Hebron before the Lord: and they anointed David king over Israel.
 >
 > <sup>[4](/bible/2-samuel/5#v4)</sup> David was thirty years old when he began to reign, and he reigned forty years.
 >
 > <sup>[5](/bible/2-samuel/5#v5)</sup> In Hebron he reigned over Judah seven years and six months: and in Jerusalem he reigned thirty and three years over all Israel and Judah.
->
+
+- In Hebron he reigned over Judah seven years: Right? So he was the king of Judah for 7 years. This 7 years was the time that he was fighting against all the other tribes, right? So that's when Benjamin told the rest of the tribes, "Listen, we got to put ourselves underneath King David." And that's when they all came together and then from there David reigned another 33 years. So altogether was 40-year reign, right? Over Israel and Judah.
+
 > <sup>[6](/bible/2-samuel/5#v6)</sup> And the king and his men went to Jerusalem unto the Jebusites, the inhabitants of the land: which spake unto David, saying, Except thou take away the blind and the lame, thou shalt not come in hither: thinking, David cannot come in hither.
 >
 > <sup>[7](/bible/2-samuel/5#v7)</sup> Nevertheless David took the strong hold of Zion: the same is the city of David.
-
-- Behold, we are thy bone and thy flesh: Right? Meaning what? All the tribes they came together, right? And showed that what? We all one. Why? Because Israel was in a war against each other. It was Judah versus all the other tribes. Okay, Benjamin was leading the other tribes and Judah for about 7 years they were fighting, right? This is after King Saul got put to death, right?
-
-- Thou wast he that leddest out and broughtest in Israel: Meaning when King Saul was the king still, King David was still the number one guy when it came to war. So although Saul was the boss, King David was his general. Was his guy that he sent out there to do damage. So the people knew David, he had a reputation.
-
-- In Hebron he reigned over Judah seven years: Right? So he was the king of Judah for 7 years. This 7 years was the time that he was fighting against all the other tribes, right? So that's when Benjamin told the rest of the tribes, "Listen, we got to put ourselves underneath King David." And that's when they all came together and then from there David reigned another 33 years. So altogether was 40-year reign, right? Over Israel and Judah.
 
 - The same is the city of David: So, I wanted to read through 7, y'all. All right. Give me a break, y'all. So, I messed up on that. I thought we just going down to verse 5, but we're going to verse 7. All right. So, when he took that city, when he grabbed hold on to Zion, it was called the city of David. All right. So, all praises to the Lord. Right. So, now when you see the city of David written anywhere, you're going to know that's Zion. Right. That's Israel. All right.
 
@@ -137,9 +137,13 @@ tags: ["15 Minutes w/ The Captains", "angels", "nations", "purpose", "the-law"]
 > <sup>[14](/bible/luke/2#v14)</sup> Glory to God in the highest, and on earth peace, good will toward men.
 >
 > <sup>[15](/bible/luke/2#v15)</sup> And it came to pass, as the angels were gone away from them into heaven, the shepherds said one to another, Let us now go even unto Bethlehem, and see this thing which is come to pass, which the Lord hath made known unto us.
->
+
+- Let us now go even unto Bethlehem: So now they wanted to go and see. They wanted to go see Christ cuz they said, "Listen, the angel came and told us we're going to go check this out," right?
+
 > <sup>[16](/bible/luke/2#v16)</sup> And they came with haste, and found Mary, and Joseph, and the babe lying in a manger.
->
+
+- The babe lying in a manger: Cuz that was the sign. So right away they saw that, "This is Jesus right here."
+
 > <sup>[17](/bible/luke/2#v17)</sup> And when they had seen it, they made known abroad the saying which was told them concerning this child.
 >
 > <sup>[18](/bible/luke/2#v18)</sup> And all they that heard it wondered at those things which were told them by the shepherds.
@@ -149,10 +153,6 @@ tags: ["15 Minutes w/ The Captains", "angels", "nations", "purpose", "the-law"]
 > <sup>[20](/bible/luke/2#v20)</sup> And the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told unto them.
 >
 > <sup>[21](/bible/luke/2#v21)</sup> And when eight days were accomplished for the circumcising of the child, his name was called JESUS, which was so named of the angel before he was conceived in the womb.
-
-- Let us now go even unto Bethlehem: So now they wanted to go and see. They wanted to go see Christ cuz they said, "Listen, the angel came and told us we're going to go check this out," right?
-
-- The babe lying in a manger: Cuz that was the sign. So right away they saw that, "This is Jesus right here."
 
 - Before he was conceived in the womb: It says it again that he was named already before he was conceived in the womb. Right?
 
@@ -185,20 +185,20 @@ tags: ["15 Minutes w/ The Captains", "angels", "nations", "purpose", "the-law"]
 > <sup>[3](/bible/leviticus/12#v3)</sup> And in the eighth day the flesh of his foreskin shall be circumcised.
 >
 > <sup>[4](/bible/leviticus/12#v4)</sup> And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled.
->
-> <sup>[5](/bible/leviticus/12#v5)</sup> But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days.
->
-> <sup>[6](/bible/leviticus/12#v6)</sup> And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:
->
-> <sup>[7](/bible/leviticus/12#v7)</sup> Who shall offer it before the Lord, and make an atonement for her; and she shall be cleansed from the issue of her blood. This is the law for her that hath born a male or a female.
->
-> <sup>[8](/bible/leviticus/12#v8)</sup> And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean.
 
 - Three and thirty days: Right? So, she has to be purified for 40 days. Why? Because when she have a male child, the woman can't be touched for 40 days, right?
 
+> <sup>[5](/bible/leviticus/12#v5)</sup> But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days.
+
 - If she bear a maid child: Which is a girl.
 
+> <sup>[6](/bible/leviticus/12#v6)</sup> And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:
+
 - When the days of her purifying are fulfilled: For a son or for a daughter, right? Now, listen close. Now, check verse eight, y'all.
+
+> <sup>[7](/bible/leviticus/12#v7)</sup> Who shall offer it before the Lord, and make an atonement for her; and she shall be cleansed from the issue of her blood. This is the law for her that hath born a male or a female.
+>
+> <sup>[8](/bible/leviticus/12#v8)</sup> And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean.
 
 - Two turtles, or two young pigeons: Right? So, that's what we see back in Luke chapter two. It talks about what? A pair of turtle doves or two young pigeons. Right? So, what we want to show is that what? Mary and Joseph were keeping the law 100%. They were righteous. All right? They were righteous, and that's why Christ came through that line because they was really holding it down. All right?
 
@@ -232,13 +232,13 @@ tags: ["15 Minutes w/ The Captains", "angels", "nations", "purpose", "the-law"]
 
 **[Acts 10:1-2](/bible/acts/10#v1)**  *[[23:02](https://www.youtube.com/watch?v=euB-YtGZ8a0&t=1382s)]*
 
-> <sup>[1](/bible/acts/10#v1)</sup> There was a certain man in Cesarea called Cornelius, a centurion of the band called the Italian band,
->
-> <sup>[2](/bible/acts/10#v2)</sup> A devout man, and one that feared God with all his house, which gave much alms to the people, and prayed to God alway.
-
 - Caesarea: We didn't go over this per se, but we did kind of touch it on the Sabbath showing that Caesarea, right? Israel was there in Caesarea.
 
+> <sup>[1](/bible/acts/10#v1)</sup> There was a certain man in Cesarea called Cornelius, a centurion of the band called the Italian band,
+
 - The band called the Italian band: It says he's part of the Italian band. What does that mean? That's the name of his platoon or whatever, right? He was part of the Italian band. He was a centurion.
+
+> <sup>[2](/bible/acts/10#v2)</sup> A devout man, and one that feared God with all his house, which gave much alms to the people, and prayed to God alway.
 
 - A devout man, and one that feared God with all his house: Right? That's what's being devout. He had the fear of the Lord. That's called devout, right? Fear God. Remember what it says in Ecclesiastes 12, right? What is the whole duty of man? To fear God and keep his commandments. Same thing. Right?
 
@@ -246,12 +246,12 @@ tags: ["15 Minutes w/ The Captains", "angels", "nations", "purpose", "the-law"]
 **[Luke 2:22-24](/bible/luke/2#v22)**  *[[24:40](https://www.youtube.com/watch?v=euB-YtGZ8a0&t=1480s)]*
 
 > <sup>[22](/bible/luke/2#v22)</sup> And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present him to the Lord;
->
+
+- When the days of her purification: Wait a minute. I missed something, y'all. Y'all got to get this. We're about to back it up a bit. Now, I'm going back to verse 22, y'all. This was important. I wanted to really get this. And there's something I wanted to bring out to y'all, all right? I want y'all to go to Galatians 4. Almost forgot to bring this up. Now, y'all going to have a more understanding of what you read here. I'm going to start at verse 1 just to get the understanding and keep it in context, but it has something to do with what we just read. Right?
+
 > <sup>[23](/bible/luke/2#v23)</sup> (As it is written in the law of the Lord, Every male that openeth the womb shall be called holy to the Lord;)
 >
 > <sup>[24](/bible/luke/2#v24)</sup> And to offer a sacrifice according to that which is said in the law of the Lord, A pair of turtledoves, or two young pigeons.
-
-- When the days of her purification: Wait a minute. I missed something, y'all. Y'all got to get this. We're about to back it up a bit. Now, I'm going back to verse 22, y'all. This was important. I wanted to really get this. And there's something I wanted to bring out to y'all, all right? I want y'all to go to Galatians 4. Almost forgot to bring this up. Now, y'all going to have a more understanding of what you read here. I'm going to start at verse 1 just to get the understanding and keep it in context, but it has something to do with what we just read. Right?
 
 
 **[Galatians 4:1-5](/bible/galatians/4#v1)**  *[[25:24](https://www.youtube.com/watch?v=euB-YtGZ8a0&t=1524s)]*
@@ -259,20 +259,20 @@ tags: ["15 Minutes w/ The Captains", "angels", "nations", "purpose", "the-law"]
 > <sup>[1](/bible/galatians/4#v1)</sup> Now I say, That the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all;
 >
 > <sup>[2](/bible/galatians/4#v2)</sup> But is under tutors and governors until the time appointed of the father.
->
-> <sup>[3](/bible/galatians/4#v3)</sup> Even so we, when we were children, were in bondage under the elements of the world:
->
-> <sup>[4](/bible/galatians/4#v4)</sup> But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,
->
-> <sup>[5](/bible/galatians/4#v5)</sup> To redeem them that were under the law, that we might receive the adoption of sons.
 
 - Under tutors and governors: Right? So, you would have a young boy. Maybe he was the heir to the throne. His father was the king. He passed away. Now, he's actually the king, but he don't know how to rule. So, he's underneath tutors. Right? He got all of the other men making decisions and all that, and he's under them learning all these years before he takes over. I believe it was King Josiah was like that, right? I think he became king when he was 8 years old. I believe that's what it is, y'all. Lord willing, I'm not saying the wrong name. I think it was King Josiah. He started when he was 8 years old.
 
+> <sup>[3](/bible/galatians/4#v3)</sup> Even so we, when we were children, were in bondage under the elements of the world:
+
 - In bondage under the elements of the world: Meaning what? The tutors of us was what? The law of sacrifice. All right? So, now the law of sacrifice is being... It's like an analogy, right? Being compared to being a king as a young king, a young boy being under tutors, right? So, the law of sacrifice was our tutor guiding us to what? To when we supposed to get in here and really take care of business, right? So to speak, right?
+
+> <sup>[4](/bible/galatians/4#v4)</sup> But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,
 
 - God sent forth his Son: Right? Now his son, Christ, which is what? Who died, right? Who was the perfect sacrifice, is now taken over from what? Those tutors, which is the law of sacrifice. Now we got Christ. There's no need for sacrificial law anymore. That's what that's going into, right? So, that's why I was giving the analogy of the king coming up under tutors.
 
 - Made of a woman, made under the law: But this is what I want to get to in verse four. What does it mean made under the law? Exactly what we read in Luke chapter two and one. She had sex with Joseph. They were married, right? Boom. And it's engaged to be married. They had the child. And then what? Under the law meaning what? He got the circumcision on the eighth day. They had the sacrifices, all of that. They did everything that needed to be done under the law.
+
+> <sup>[5](/bible/galatians/4#v5)</sup> To redeem them that were under the law, that we might receive the adoption of sons.
 
 - To redeem them that were under the law: Why? Look at this. Who was under the law? The Israelites were under the law. No other people were under the law. This is why Christ came.
 
@@ -306,24 +306,24 @@ tags: ["15 Minutes w/ The Captains", "angels", "nations", "purpose", "the-law"]
 > <sup>[25](/bible/luke/2#v25)</sup> And, behold, there was a man in Jerusalem, whose name was Simeon; and the same man was just and devout, waiting for the consolation of Israel: and the Holy Ghost was upon him.
 >
 > <sup>[26](/bible/luke/2#v26)</sup> And it was revealed unto him by the Holy Ghost, that he should not see death, before he had seen the Lord’s Christ.
->
+
+- He should not see death, before he had seen the Lord's Christ: Right? So he got a chance to see Christ before he died. Right? Cuz it was revealed to him many years back.
+
 > <sup>[27](/bible/luke/2#v27)</sup> And he came by the Spirit into the temple: and when the parents brought in the child Jesus, to do for him after the custom of the law,
->
+
+- After the custom of the law: Right? Which was the sacrifices and everything else, right?
+
 > <sup>[28](/bible/luke/2#v28)</sup> Then took he him up in his arms, and blessed God, and said,
 >
 > <sup>[29](/bible/luke/2#v29)</sup> Lord, now lettest thou thy servant depart in peace, according to thy word:
->
+
+- Now lettest thou thy servant depart in peace: Meaning, "Let me die in peace. I've seen everything." You know what I mean?
+
 > <sup>[30](/bible/luke/2#v30)</sup> For mine eyes have seen thy salvation,
 >
 > <sup>[31](/bible/luke/2#v31)</sup> Which thou hast prepared before the face of all people;
 >
 > <sup>[32](/bible/luke/2#v32)</sup> A light to lighten the Gentiles, and the glory of thy people Israel.
-
-- He should not see death, before he had seen the Lord's Christ: Right? So he got a chance to see Christ before he died. Right? Cuz it was revealed to him many years back.
-
-- After the custom of the law: Right? Which was the sacrifices and everything else, right?
-
-- Now lettest thou thy servant depart in peace: Meaning, "Let me die in peace. I've seen everything." You know what I mean?
 
 - A light to lighten the Gentiles, and the glory of thy people Israel: Right? So, now let's deal with that. All right? Let's get Isaiah chapter 16 verse 1. Let's get Isaiah 60 real quick, y'all. We going to jump around a little bit. All right?
 
@@ -339,7 +339,9 @@ tags: ["15 Minutes w/ The Captains", "angels", "nations", "purpose", "the-law"]
 **[Genesis 1:3-19](/bible/genesis/1#v3)**  *[[33:15](https://www.youtube.com/watch?v=euB-YtGZ8a0&t=1995s)]*
 
 > <sup>[3](/bible/genesis/1#v3)</sup> And God said, Let there be light: and there was light.
->
+
+- Let there be light: Right? But the light there, right? When you look, let's jump to verse 13. No, verse 14.
+
 > <sup>[4](/bible/genesis/1#v4)</sup> And God saw the light, that it was good: and God divided the light from the darkness.
 >
 > <sup>[5](/bible/genesis/1#v5)</sup> And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.
@@ -361,22 +363,20 @@ tags: ["15 Minutes w/ The Captains", "angels", "nations", "purpose", "the-law"]
 > <sup>[13](/bible/genesis/1#v13)</sup> And the evening and the morning were the third day.
 >
 > <sup>[14](/bible/genesis/1#v14)</sup> And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:
->
+
+- Let there be lights in the firmament of the heaven to divide the day from the night: Remember, the light came and it was called day, and the darkness was called night. But now, there's some lights coming here that's saying divide the night from the day. What are we talking about?
+
 > <sup>[15](/bible/genesis/1#v15)</sup> And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.
 >
 > <sup>[16](/bible/genesis/1#v16)</sup> And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.
->
+
+- The greater light to rule the day: Which is the sun.
+
 > <sup>[17](/bible/genesis/1#v17)</sup> And God set them in the firmament of the heaven to give light upon the earth,
 >
 > <sup>[18](/bible/genesis/1#v18)</sup> And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good.
 >
 > <sup>[19](/bible/genesis/1#v19)</sup> And the evening and the morning were the fourth day.
-
-- Let there be light: Right? But the light there, right? When you look, let's jump to verse 13. No, verse 14.
-
-- Let there be lights in the firmament of the heaven to divide the day from the night: Remember, the light came and it was called day, and the darkness was called night. But now, there's some lights coming here that's saying divide the night from the day. What are we talking about?
-
-- The greater light to rule the day: Which is the sun.
 
 - The fourth day: So, what are we looking at over here then? In verse three. Right? In verse three, it says that let there be light and it was the first day. This light here is talking about Christ. That's what it's talking about here. Right? Let there be light. This is it. This is called the book of Genesis, the beginning. Right? Of what? God's creation, all of the nations. Right? Always keep that in mind. Not just the beginning. Y'all might think, "Oh, Genesis means the beginning of the Bible." No, it means the beginning of nations, the beginning of Lord God's the most highest creation, which was Christ. And then Christ went and created everything else. All right? So, Lord's will, y'all good with that.
 
@@ -384,7 +384,9 @@ tags: ["15 Minutes w/ The Captains", "angels", "nations", "purpose", "the-law"]
 **[Isaiah 42:1-6](/bible/isaiah/42#v1)**  *[[35:36](https://www.youtube.com/watch?v=euB-YtGZ8a0&t=2136s)]*
 
 > <sup>[1](/bible/isaiah/42#v1)</sup> Behold my servant, whom I uphold; mine elect, in whom my soul delighteth; I have put my spirit upon him: he shall bring forth judgment to the Gentiles.
->
+
+- He shall bring forth judgment to the Gentiles: Right?
+
 > <sup>[2](/bible/isaiah/42#v2)</sup> He shall not cry, nor lift up, nor cause his voice to be heard in the street.
 >
 > <sup>[3](/bible/isaiah/42#v3)</sup> A bruised reed shall he not break, and the smoking flax shall he not quench: he shall bring forth judgment unto truth.
@@ -394,8 +396,6 @@ tags: ["15 Minutes w/ The Captains", "angels", "nations", "purpose", "the-law"]
 > <sup>[5](/bible/isaiah/42#v5)</sup> Thus saith God the Lord, he that created the heavens, and stretched them out; he that spread forth the earth, and that which cometh out of it; he that giveth breath unto the people upon it, and spirit to them that walk therein:
 >
 > <sup>[6](/bible/isaiah/42#v6)</sup> I the Lord have called thee in righteousness, and will hold thine hand, and will keep thee, and give thee for a covenant of the people, for a light of the Gentiles;
-
-- He shall bring forth judgment to the Gentiles: Right?
 
 - For a light of the Gentiles: Right? A light of the Gentiles. All right? Now, we all know that in verse 1, behold my servant whom I uphold, mine elect. Right? The elect of God is Israel, right? We know that in Isaiah 45 and 4, right? Y'all could just write that down, right?
 
@@ -411,9 +411,13 @@ tags: ["15 Minutes w/ The Captains", "angels", "nations", "purpose", "the-law"]
 **[Luke 1:68-79](/bible/luke/1#v68)**  *[[38:29](https://www.youtube.com/watch?v=euB-YtGZ8a0&t=2309s)]*
 
 > <sup>[68](/bible/luke/1#v68)</sup> Blessed be the Lord God of Israel; for he hath visited and redeemed his people,
->
+
+- Hath visited and redeemed his people: It's important we read this part.
+
 > <sup>[69](/bible/luke/1#v69)</sup> And hath raised up an horn of salvation for us in the house of his servant David;
->
+
+- Hath raised up an horn of salvation for us: Who's us? The Israelites. And the horn of his salvation is Christ. All right?
+
 > <sup>[70](/bible/luke/1#v70)</sup> As he spake by the mouth of his holy prophets, which have been since the world began:
 >
 > <sup>[71](/bible/luke/1#v71)</sup> That we should be saved from our enemies, and from the hand of all that hate us;
@@ -433,10 +437,6 @@ tags: ["15 Minutes w/ The Captains", "angels", "nations", "purpose", "the-law"]
 > <sup>[78](/bible/luke/1#v78)</sup> Through the tender mercy of our God; whereby the dayspring from on high hath visited us,
 >
 > <sup>[79](/bible/luke/1#v79)</sup> To give light to them that sit in darkness and in the shadow of death, to guide our feet into the way of peace.
-
-- Hath visited and redeemed his people: It's important we read this part.
-
-- Hath raised up an horn of salvation for us: Who's us? The Israelites. And the horn of his salvation is Christ. All right?
 
 - To give light to them that sit in darkness and in the shadow of death: Who? Christ, to give light to them that sit in darkness and in the shadow of death. Let's jump on that real quick. The shadow of death. All right? Go to Psalms 107 real quick y'all. Psalms 107 and 10. Cuz this is going to let you know that it's talking about only Israel. We see that in Psalms 23 as well, right? Though I walk through the valley of the shadow of death... You know what I mean?
 
@@ -501,12 +501,10 @@ tags: ["15 Minutes w/ The Captains", "angels", "nations", "purpose", "the-law"]
 > <sup>[32](/bible/luke/2#v32)</sup> A light to lighten the Gentiles, and the glory of thy people Israel.
 >
 > <sup>[33](/bible/luke/2#v33)</sup> And Joseph and his mother marvelled at those things which were spoken of him.
->
-> <sup>[34](/bible/luke/2#v34)</sup> And Simeon blessed them, and said unto Mary his mother, Behold, this child is set for the fall and rising again of many in Israel; and for a sign which shall be spoken against;
->
-> <sup>[35](/bible/luke/2#v35)</sup> (Yea, a sword shall pierce through thy own soul also,) that the thoughts of many hearts may be revealed.
 
 - Joseph and his mother marvelled: Remember, they're hearing this. He's just a baby. And they're like, "Oh my god, he is the savior of the world." They're like, "What's going on here?" Even though the angel spoke to her, she's not taking it that deep. But now more people are prophesying, right?
+
+> <sup>[34](/bible/luke/2#v34)</sup> And Simeon blessed them, and said unto Mary his mother, Behold, this child is set for the fall and rising again of many in Israel; and for a sign which shall be spoken against;
 
 - This child is set for the fall and rising again of many in Israel: Listen close, y'all. For the fall and the rising again of many in Israel for a sign which shall be spoken against. That the thoughts of many hearts may be revealed, right? Pierced through the heart. We don't need that part right there. Now, I want to get Isaiah chapter 8. Okay, we don't got much more to go, but make sure y'all write this down.
 
@@ -518,24 +516,14 @@ tags: ["15 Minutes w/ The Captains", "angels", "nations", "purpose", "the-law"]
 
     Talking about Christ, to both the houses of Israel. Both houses of Israel is Judah and Israel. Okay? Judah and Israel, southern kingdom, northern kingdom, right? Why? We going to get there.
 
+> <sup>[35](/bible/luke/2#v35)</sup> (Yea, a sword shall pierce through thy own soul also,) that the thoughts of many hearts may be revealed.
+
 
 **[Romans 11:11-17](/bible/romans/11#v11)**  *[[47:43](https://www.youtube.com/watch?v=euB-YtGZ8a0&t=2863s)]*
 
-> <sup>[11](/bible/romans/11#v11)</sup> I say then, Have they stumbled that they should fall? God forbid: but rather through their fall salvation is come unto the Gentiles, for to provoke them to jealousy.
->
-> <sup>[12](/bible/romans/11#v12)</sup> Now if the fall of them be the riches of the world, and the diminishing of them the riches of the Gentiles; how much more their fulness?
->
-> <sup>[13](/bible/romans/11#v13)</sup> For I speak to you Gentiles, inasmuch as I am the apostle of the Gentiles, I magnify mine office:
->
-> <sup>[14](/bible/romans/11#v14)</sup> If by any means I may provoke to emulation them which are my flesh, and might save some of them.
->
-> <sup>[15](/bible/romans/11#v15)</sup> For if the casting away of them be the reconciling of the world, what shall the receiving of them be, but life from the dead?
->
-> <sup>[16](/bible/romans/11#v16)</sup> For if the firstfruit be holy, the lump is also holy: and if the root be holy, so are the branches.
->
-> <sup>[17](/bible/romans/11#v17)</sup> And if some of the branches be broken off, and thou, being a wild olive tree, wert graffed in among them, and with them partakest of the root and fatness of the olive tree;
-
 - Romans 11: Remember what we read. It said that this child is set for the fall and the rising of many in Israel. Keep that. Make sure we remember that. Isaiah 8 talked about the stumble, fall, broken, right? Good. We going to get right to it because Romans 11 is a deep chapter, very heavy. We going to get what we need out of there just to get the understanding of what we read in Luke chapter 2 and 34. Right?
+
+> <sup>[11](/bible/romans/11#v11)</sup> I say then, Have they stumbled that they should fall? God forbid: but rather through their fall salvation is come unto the Gentiles, for to provoke them to jealousy.
 
 - Have they stumbled that they should fall: You see, here we go with the stumbling and the falling. They talking about the southern kingdom, the priests, the Levitical priesthood, all of that, right? Scribes and all of that. Have they stumbled that they should fall? The southern kingdom. Remember it said in Luke chapter 2 that this child is set for the fall and the rising again. We dealing with it right here.
 
@@ -547,21 +535,33 @@ tags: ["15 Minutes w/ The Captains", "angels", "nations", "purpose", "the-law"]
 
 - For to provoke them to jealousy (again): Right? Why? Because now when they see the northern kingdom coming back under Christ, they're going to be like, "Hold up. I thought they was cut off." They weren't getting along. When you read in John chapter 4 the woman at the well said, "Hey, how you going to give me water when we... You know what I'm saying? I'm a Samaritan. You a Jew." Meaning, they were family, but they didn't deal with each other. She said, "Deal with one of another nation." And all of that. They were two separate nations at this point. They had been split for a long time. It was a civil war, pretty much. And they didn't have no love for each other, right? So to speak.
 
+> <sup>[12](/bible/romans/11#v12)</sup> Now if the fall of them be the riches of the world, and the diminishing of them the riches of the Gentiles; how much more their fulness?
+
 - How much more their fulness: Meaning what? Once the Gentiles come up, then through the jealousy, they're going to want to... And that's the point, bringing them back together, right? But let's take a look at a couple things.
 
 - The riches of the world: Now, if the fall of them be the riches of the world. What is the riches? What is that? Just jump to verse 33. Oh, the depth of the riches, both of the wisdom and knowledge of God. That's the riches. How unsearchable are his judgments and his ways past finding out. Right? Now, if the fall of them, I'm back in 12, be the riches of the world, meaning the knowledge, the understanding, the laws, understanding judgment, all of that be the riches of the world. Come on, y'all. Y'all know this. Yo, John 18 and 20. This is us forever.
 
 - If the fall of them be the riches of the world: So, when we look at Romans 11, let's go back. Romans 11 and 12. Now, if the fall of them, the southern kingdom, be the riches of the world, meaning the understanding everything of the whole nation of Israel, because of their fall, the whole entire nation is going to be able to get back together due to the fact now that the northern kingdom is now being brought back. That had to happen in order for all of them to be brought back. That's why it says, "If the fall of them be the riches of the world and the diminishing of them be the riches of the Gentiles." So, now the Gentiles get a chance to come back.
 
+> <sup>[13](/bible/romans/11#v13)</sup> For I speak to you Gentiles, inasmuch as I am the apostle of the Gentiles, I magnify mine office:
+
 - I am the apostle of the Gentiles, I magnify mine office: You're going to read about that in Galatians, right? Where Paul is now what? He's the apostle to the northern kingdom, right?
 
+> <sup>[14](/bible/romans/11#v14)</sup> If by any means I may provoke to emulation them which are my flesh, and might save some of them.
+
 - Them which are my flesh: What does that mean? When you read in Romans 9, he says that all Israel is his flesh. But here, why is he saying it? Just jump to verse one. Right? So, he's a Benjamite from the southern kingdom. That's why he's saying, "I would like to bring emulation." I'm about to mess it up, y'all. I'm right here. By any means I may provoke to emulation them which are my flesh, meaning the southern kingdom, and might save some of them. Right?
+
+> <sup>[15](/bible/romans/11#v15)</sup> For if the casting away of them be the reconciling of the world, what shall the receiving of them be, but life from the dead?
 
 - The reconciling of the world: What does the word reconcile mean? Right? How the hell you want to reconcile something that was never together? The nations and Israel was never a thing. So, there's no such thing as reconcile. Reconcile means we have broke up and now we're back together. Right? You see that out in the world. Oh, the couple has reconciled. Or even sometimes in here, you know, there might be a separation of a husband and wife. They had some beef. Nothing serious. They beefing about something. They separated for a time and then they what? They reconciled. That's what that's talking about. We're reconciling. You can't reconcile with nobody you was never with. If you just meet somebody for the first time, how the hell you reconciled with that? Come on, man. Let us read and understand, man. Back in the days they had something called RIF. Reading is fundamental. You know what I'm saying? So, tell these Christians read. It's very fundamental and you will understand the Bible. Right? For if the casting away of them be the reconciling of the world, which is Israel, cuz they was split, the reconciling, the bringing back together of Israel.
 
 - Life from the dead: Because what? Again, Proverbs 21:16, real quick. I know we jumping around a bit, but just hold this down. Write these scriptures down. It's important that we understand Romans 11. It's a little heavy, but it's important that we understand it. All right? Remember what we read? Knowledge, wisdom, understanding, and all that. That's the riches of the world. Right? That's how we going to live. But if you won't have that, you dead. Right? You dead. Romans 11. Right? That's why it says in 15, but what shall the receiving of them be but life from the dead? Right? Cool. Pretty sure y'all got what you need on that.
 
+> <sup>[16](/bible/romans/11#v16)</sup> For if the firstfruit be holy, the lump is also holy: and if the root be holy, so are the branches.
+
 - If the root be holy, so are the branches: Remember our point. Our point is Luke chapter 2 34 talking about the fall and the rising of many in Israel. That's the point of what we're proving here. All right? Meaning what? If Christ is holy, he's the root, if we the branches, then we going to be holy, right?
+
+> <sup>[17](/bible/romans/11#v17)</sup> And if some of the branches be broken off, and thou, being a wild olive tree, wert graffed in among them, and with them partakest of the root and fatness of the olive tree;
 
 - If some of the branches be broken off: Remember what we read before, some is going to be broken, remember that?
 
@@ -605,30 +605,30 @@ tags: ["15 Minutes w/ The Captains", "angels", "nations", "purpose", "the-law"]
 **[Ezekiel 37:16-22](/bible/ezekiel/37#v16)**  *[[1:00:24](https://www.youtube.com/watch?v=euB-YtGZ8a0&t=3624s)]*
 
 > <sup>[16](/bible/ezekiel/37#v16)</sup> Moreover, thou son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and for all the house of Israel his companions:
->
-> <sup>[17](/bible/ezekiel/37#v17)</sup> And join them one to another into one stick; and they shall become one in thine hand.
->
-> <sup>[18](/bible/ezekiel/37#v18)</sup> And when the children of thy people shall speak unto thee, saying, Wilt thou not shew us what thou meanest by these?
->
-> <sup>[19](/bible/ezekiel/37#v19)</sup> Say unto them, Thus saith the Lord God; Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they shall be one in mine hand.
->
-> <sup>[20](/bible/ezekiel/37#v20)</sup> And the sticks whereon thou writest shall be in thine hand before their eyes.
->
-> <sup>[21](/bible/ezekiel/37#v21)</sup> And say unto them, Thus saith the Lord God; Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land:
->
-> <sup>[22](/bible/ezekiel/37#v22)</sup> And I will make them one nation in the land upon the mountains of Israel; and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all:
 
 - Take thee one stick: See, now we talking about wood.
 
 - The stick of Ephraim: So, you got the southern kingdom, right? The olive tree that was standing there. And then you have what? The wild olive tree, which is Ephraim. Right?
 
+> <sup>[17](/bible/ezekiel/37#v17)</sup> And join them one to another into one stick; and they shall become one in thine hand.
+
 - Join them one to another into one stick: Grafted in. That's what it's talking about, y'all. Grafted in.
+
+> <sup>[18](/bible/ezekiel/37#v18)</sup> And when the children of thy people shall speak unto thee, saying, Wilt thou not shew us what thou meanest by these?
+>
+> <sup>[19](/bible/ezekiel/37#v19)</sup> Say unto them, Thus saith the Lord God; Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they shall be one in mine hand.
 
 - They shall be one in mine hand: Y'all heard that? And now they're going to be one because they grafted back in. Even on the 12 tribes chart, if you recognize this, you might not notice it right away, but we try to make it look like it's written on a piece of wood. That's what we try to make it look like. So, if y'all probably never paid attention to that, that's why we did it like that, because it says here, people going to see it and say, "What do you mean by these?" Cuz now we can explain to them their tribe, right?
 
+> <sup>[20](/bible/ezekiel/37#v20)</sup> And the sticks whereon thou writest shall be in thine hand before their eyes.
+
 - The sticks whereon thou writest: Cuz remember, chapter 37 is about what? Building back Israel. Remember, you had the fall and you had the rising, right? You had the dry bones that were dead in the congregation of the dead. That's what we read in Romans 11, right? About they're going to come back from the dead, right? Because now they got the breath of life, you know, they're getting the commandments and they're coming back up. That's why I'm saying now that what? They're coming back together, right? As one.
 
+> <sup>[21](/bible/ezekiel/37#v21)</sup> And say unto them, Thus saith the Lord God; Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land:
+
 - From among the heathen, whither they be gone: Right? Because they were spread out all over the world, right? And doing as the nations do. The Lord said, "I'm going to get them from amongst them." Right?
+
+> <sup>[22](/bible/ezekiel/37#v22)</sup> And I will make them one nation in the land upon the mountains of Israel; and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all:
 
 - I will make them one nation: Y'all heard that?
 

@@ -245,10 +245,10 @@ tags: ["IUIC in the ClassRoom", "adversity", "leadership", "prayer", "purpose", 
 **[John 5:14-15](/bible/john/5#v14)**  *[[1:39:43](https://www.youtube.com/watch?v=k68LEa5wIdY&t=5983s)]*
 
 > <sup>[14](/bible/john/5#v14)</sup> Afterward Jesus findeth him in the temple, and said unto him, Behold, thou art made whole: sin no more, lest a worse thing come unto thee.
->
-> <sup>[15](/bible/john/5#v15)</sup> The man departed, and told the Jews that it was Jesus, which had made him whole.
 
 - Behold, thou art made whole: sin no more, lest a worse thing come unto thee. A Christian said once Christ casts the demon out they never sin again; Christ himself said otherwise. The sister who left stripping two years ago and wants to go back for the money is not going back to the same world; every year sin multiplies and different demons jump on people.
+
+> <sup>[15](/bible/john/5#v15)</sup> The man departed, and told the Jews that it was Jesus, which had made him whole.
 
 
 **[Matthew 9:22-34](/bible/matthew/9#v22)**  *[[1:41:22](https://www.youtube.com/watch?v=k68LEa5wIdY&t=6082s)]*

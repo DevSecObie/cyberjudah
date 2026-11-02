@@ -87,7 +87,21 @@ Later in class, videos on the cost of living: seven dollars for ten slices of ch
 **[Matthew 24:4-8](/bible/matthew/24#v4)**  *[[50:56](https://www.youtube.com/watch?v=ycwlj8bXhh8&t=3056s)]*
 
 > <sup>[4](/bible/matthew/24#v4)</sup> And Jesus answered and said unto them, Take heed that no man deceive you.
->
+
+- Take heed that no man deceive you: do not let the media deceive you, do not let the pastors deceive you. Many shall come in my name and shall deceive many. A lot of you will get deceived; some of you will walk out of this truth and go back to the Christian church when it gets hot. Some of you brothers are going to leave when your wife says, I did not sign up for this, let's go, and you will follow her right out the door.
+
+- Ye shall hear of wars and rumours of wars. What is a rumour? I am going to send them back to the stone age; I am going to wipe out a whole population. See that ye be not troubled, for all these things must come to pass. Millions of people are going to die, brothers; it is through that that your deliverance comes. I am not praying for it to stop. There will be no peace on earth until the Israelites take over.
+
+- But the end is not yet. What you see in the Middle East right now is not even the beginning of World War III yet; I see it as the beginning of the gathering into the valley of Jehoshaphat in the book of Joel. Nation shall rise against nation: America against Iran, Iran against Israel, Russia against Ukraine, people dying in Sudan and the DR Congo. And there shall be famines.
+
+- Videos played on the price of food. You might say, deacon, that is not fair, there is food in the store. There are two types of famine: a famine where you cannot find it, and a famine where it is there and you cannot afford it. It is still famine either way; you still die hungry. A hundred dollars used to shop for the whole week; now it cannot shop for two days. And they did not give you a raise; they cut your hours. Go to your boss Monday and ask for a raise because a pound of beef is thirty dollars; he will laugh in your face.
+
+- Six years ago the bishop told you to buy these things and put them in storage, and you laughed him to scorn: this is America, this will never happen here. Six years ago that item was two dollars; now it is fifteen. The problem is some of you think you are smarter than everybody else. Fine, brother, I cannot teach you anything; I will teach the humble brother next to you.
+
+- The video on people sleeping in cars: I am showing you the connection between the war and what is happening to the whole world. This kingdom is falling. After all they put our people through, payback time has not even started yet; this is very small.
+
+- And pestilences, and earthquakes in divers places. All these are the beginning of sorrows.
+
 > <sup>[5](/bible/matthew/24#v5)</sup> For many shall come in my name, saying, I am Christ; and shall deceive many.
 >
 > <sup>[6](/bible/matthew/24#v6)</sup> And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.
@@ -95,14 +109,6 @@ Later in class, videos on the cost of living: seven dollars for ten slices of ch
 > <sup>[7](/bible/matthew/24#v7)</sup> For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.
 >
 > <sup>[8](/bible/matthew/24#v8)</sup> All these are the beginning of sorrows.
-
-- Take heed that no man deceive you: do not let the media deceive you, do not let the pastors deceive you. Many shall come in my name and shall deceive many. A lot of you will get deceived; some of you will walk out of this truth and go back to the Christian church when it gets hot. Some of you brothers are going to leave when your wife says, I did not sign up for this, let's go, and you will follow her right out the door.
-- Ye shall hear of wars and rumours of wars. What is a rumour? I am going to send them back to the stone age; I am going to wipe out a whole population. See that ye be not troubled, for all these things must come to pass. Millions of people are going to die, brothers; it is through that that your deliverance comes. I am not praying for it to stop. There will be no peace on earth until the Israelites take over.
-- But the end is not yet. What you see in the Middle East right now is not even the beginning of World War III yet; I see it as the beginning of the gathering into the valley of Jehoshaphat in the book of Joel. Nation shall rise against nation: America against Iran, Iran against Israel, Russia against Ukraine, people dying in Sudan and the DR Congo. And there shall be famines.
-- Videos played on the price of food. You might say, deacon, that is not fair, there is food in the store. There are two types of famine: a famine where you cannot find it, and a famine where it is there and you cannot afford it. It is still famine either way; you still die hungry. A hundred dollars used to shop for the whole week; now it cannot shop for two days. And they did not give you a raise; they cut your hours. Go to your boss Monday and ask for a raise because a pound of beef is thirty dollars; he will laugh in your face.
-- Six years ago the bishop told you to buy these things and put them in storage, and you laughed him to scorn: this is America, this will never happen here. Six years ago that item was two dollars; now it is fifteen. The problem is some of you think you are smarter than everybody else. Fine, brother, I cannot teach you anything; I will teach the humble brother next to you.
-- The video on people sleeping in cars: I am showing you the connection between the war and what is happening to the whole world. This kingdom is falling. After all they put our people through, payback time has not even started yet; this is very small.
-- And pestilences, and earthquakes in divers places. All these are the beginning of sorrows.
 
 **[Matthew 24:10](/bible/matthew/24#v10)**  *[[1:07:17](https://www.youtube.com/watch?v=ycwlj8bXhh8&t=4037s)]*
 

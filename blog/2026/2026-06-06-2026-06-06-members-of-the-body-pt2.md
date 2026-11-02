@@ -170,19 +170,16 @@ This class continues last week's topic on the members in the body. Last week we 
 
 **[1 Corinthians 12:7-11](/bible/1-corinthians/12#v7)**  *[[1:01:23](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=3683s)]*
 
+- But the manifestation of the Spirit is given to every man to profit withal. Everyone has a gift, but it is going toward the same goal in unison. It is not just for you.
+
 > <sup>[7](/bible/1-corinthians/12#v7)</sup> But the manifestation of the Spirit is given to every man to profit withal.
 >
 > <sup>[8](/bible/1-corinthians/12#v8)</sup> For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit;
->
-> <sup>[9](/bible/1-corinthians/12#v9)</sup> To another faith by the same Spirit; to another the gifts of healing by the same Spirit;
->
-> <sup>[10](/bible/1-corinthians/12#v10)</sup> To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues:
->
-> <sup>[11](/bible/1-corinthians/12#v11)</sup> But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will.
 
-- But the manifestation of the Spirit is given to every man to profit withal. Everyone has a gift, but it is going toward the same goal in unison. It is not just for you.
 - To one is given by the Spirit the word of wisdom: these are the wise brothers that can tell you, if you do that, this is what is going to happen. How many times have we gone against wisdom and found out the hard way, wishing we would have listened? A hard head makes a soft behind. To another the word of knowledge by the same Spirit: some people have that retention, near photographic memory for where every scripture is. That is a gift.
+
 - To another faith by the same Spirit. There are people in the body whose faith benefits you. The Deacon got personal: when Bishop was going through his health battle, having lost his own mother to cancer, he was scared inside. Another Deacon looked him in the eye and said, you think the Lord is going to let him go this way right now? No. Have faith. That spirit of faith was for him too, so he would not be around Bishop with doom and gloom. Spirits like that drag everybody down; we got to keep each other in check.
+
 - All these worketh that one and the selfsame Spirit, dividing to every man severally as he will. God has divided to every man as he wanted. Everyone has received something. New brothers and sisters, you are trying to discover what the Lord wants you to do here, because you woke up in this time period for a reason. What are you bringing to the table? How are you going to benefit your people and carry this truth to the next level? Sisters, the same: this is not just about the brothers, it is about a nation.
 
   Precepts:
@@ -202,6 +199,12 @@ This class continues last week's topic on the members in the body. Last week we 
     > <sup>[8](/bible/romans/12#v8)</sup> Or he that exhorteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness.
 
     Whether prophecy, let us prophesy according to the proportion of faith; or ministry, let us wait on our ministry; or he that teacheth, on teaching. Everybody staying in their lane, working within the gift and skill set you have been given, not trying to force things that are not you. At camp, you cannot put the brother that is 105 pounds at the front sentry; he might be the fire teacher, or real good on flyers, but the wind will carry him off and we will not have a front sentry. When you operate outside your character, things get messy, and the person that should be in that position cannot operate the way the body needs, so we lack in different areas. Years ago a certain brother was put over the bills; one Sabbath the lights were off, and we learned that day he is not the one to put over the bills. We found where he belongs, and he is operating within his place now. Everybody does not belong everywhere.
+
+> <sup>[9](/bible/1-corinthians/12#v9)</sup> To another faith by the same Spirit; to another the gifts of healing by the same Spirit;
+>
+> <sup>[10](/bible/1-corinthians/12#v10)</sup> To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues:
+>
+> <sup>[11](/bible/1-corinthians/12#v11)</sup> But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will.
 
 **[Exodus 31:1-11](/bible/exodus/31#v1)**  *[[1:18:13](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=4693s)]*
 
@@ -261,10 +264,9 @@ This class continues last week's topic on the members in the body. Last week we 
 **[1 Corinthians 12:12-13](/bible/1-corinthians/12#v12)**  *[[1:26:10](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=5170s)]*
 
 > <sup>[12](/bible/1-corinthians/12#v12)</sup> For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ.
->
-> <sup>[13](/bible/1-corinthians/12#v13)</sup> For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit.
 
 - For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ. The brothers were asked for precepts, and they brought them.
+
 - For by one Spirit are we all baptized into one body. A video of a church baptism in a filthy pond was shown, and the teachers had some fun with it, but this verse is not talking about getting dunked in water. Baptized means cleanse; write that down and look it up yourself. Baptized does not automatically mean dipped in water; that is what a lot of Southern Baptists think.
 
   Precepts:
@@ -305,6 +307,8 @@ This class continues last week's topic on the members in the body. Last week we 
 
     Says the same thing. You want the baptism of the spirit, because the fire is coming to clean up everything else. Whose fan is in his hand, and he will throughly purge his floor; the chaff he will burn with fire unquenchable. That is talking about judgment.
 
+> <sup>[13](/bible/1-corinthians/12#v13)</sup> For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit.
+
 **[Galatians 3:28](/bible/galatians/3#v28)**  *[[1:38:52](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=5932s)]*
 
 > <sup>[28](/bible/galatians/3#v28)</sup> There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.
@@ -312,6 +316,8 @@ This class continues last week's topic on the members in the body. Last week we 
 - There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus. This is another one they pull, not understanding what Paul is talking about. When you bring the history, they are going to start singing and clapping and try to overtalk you so you cannot bring them back to what the Bible is actually talking about.
 
 **[Ezekiel 37:15-23](/bible/ezekiel/37#v15)**  *[[1:39:35](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=5975s)]*
+
+- One stick written for Judah: the southern kingdom, Judah, Benjamin, Levi. Another stick for Joseph, the stick of Ephraim, and all the house of Israel his companions: the northern kingdom. And join them one to another into one stick; and they shall become one in mine hand. The kingdom was split under Rehoboam, Solomon's son, and Jeroboam, when the northern kingdom said, what portion have we in David? See to thine own house. Christ is the one making us one again.
 
 > <sup>[15](/bible/ezekiel/37#v15)</sup> The word of the Lord came again unto me, saying,
 >
@@ -326,14 +332,14 @@ This class continues last week's topic on the members in the body. Last week we 
 > <sup>[20](/bible/ezekiel/37#v20)</sup> And the sticks whereon thou writest shall be in thine hand before their eyes.
 >
 > <sup>[21](/bible/ezekiel/37#v21)</sup> And say unto them, Thus saith the Lord God; Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land:
->
+
+- Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land: and I will make them one nation, and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all. No more division.
+
+- Neither shall they defile themselves any more with their idols. That is what the northern kingdom was doing: idolatry, living like heathens, like the other nations. But I will save them out of all their dwellingplaces, wherein they have sinned, and will cleanse them: so shall they be my people, and I will be their God. This tells you it is a specific people.
+
 > <sup>[22](/bible/ezekiel/37#v22)</sup> And I will make them one nation in the land upon the mountains of Israel; and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all:
 >
 > <sup>[23](/bible/ezekiel/37#v23)</sup> Neither shall they defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions: but I will save them out of all their dwellingplaces, wherein they have sinned, and will cleanse them: so shall they be my people, and I will be their God.
-
-- One stick written for Judah: the southern kingdom, Judah, Benjamin, Levi. Another stick for Joseph, the stick of Ephraim, and all the house of Israel his companions: the northern kingdom. And join them one to another into one stick; and they shall become one in mine hand. The kingdom was split under Rehoboam, Solomon's son, and Jeroboam, when the northern kingdom said, what portion have we in David? See to thine own house. Christ is the one making us one again.
-- Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land: and I will make them one nation, and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all. No more division.
-- Neither shall they defile themselves any more with their idols. That is what the northern kingdom was doing: idolatry, living like heathens, like the other nations. But I will save them out of all their dwellingplaces, wherein they have sinned, and will cleanse them: so shall they be my people, and I will be their God. This tells you it is a specific people.
 
 **[Ephesians 2:11-22](/bible/ephesians/2#v11)**  *[[1:44:29](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=6269s)]*
 
@@ -418,19 +424,22 @@ This class continues last week's topic on the members in the body. Last week we 
 **[1 Corinthians 12:21-25](/bible/1-corinthians/12#v21)**  *[[2:06:15](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=7575s)]*
 
 > <sup>[21](/bible/1-corinthians/12#v21)</sup> And the eye cannot say unto the hand, I have no need of thee: nor again the head to the feet, I have no need of you.
->
+
+- The eye cannot say unto the hand, I have no need of thee: nor again the head to the feet, I have no need of you. Imagine somebody saying to another member, your job is not that important. You are not in the spirit of the Lord. Anything you remove, the whole body feels the change.
+
+- Nay, much more those members of the body, which seem to be more feeble, are necessary. What seems feeble? The janitorial work, the kids corner, the offices that never get seen, like the brothers back there hitting the buttons on the screen; yet the buttons sometimes bring clarity to the class. When we are at camp and a point is made, everybody sounds off, and that makes a person really consider what was said. It may seem small, but nothing we do in this body is small; everything has a purpose.
+
+- Our uncomely parts have more abundant comeliness. The class named uncomely parts of the physical body, and the point stood: let the most uncomely part of your body close down and you will die within days. The uncomely parts make the world go round just like everything else. The counsel you give in secret is not for vainglory; you are truly trying to help somebody, and even though it is in secret, it matters, all the time.
+
 > <sup>[22](/bible/1-corinthians/12#v22)</sup> Nay, much more those members of the body, which seem to be more feeble, are necessary:
 >
 > <sup>[23](/bible/1-corinthians/12#v23)</sup> And those members of the body, which we think to be less honourable, upon these we bestow more abundant honour; and our uncomely parts have more abundant comeliness.
 >
 > <sup>[24](/bible/1-corinthians/12#v24)</sup> For our comely parts have no need: but God hath tempered the body together, having given more abundant honour to that part which lacked:
->
-> <sup>[25](/bible/1-corinthians/12#v25)</sup> That there should be no schism in the body; but that the members should have the same care one for another.
 
-- The eye cannot say unto the hand, I have no need of thee: nor again the head to the feet, I have no need of you. Imagine somebody saying to another member, your job is not that important. You are not in the spirit of the Lord. Anything you remove, the whole body feels the change.
-- Nay, much more those members of the body, which seem to be more feeble, are necessary. What seems feeble? The janitorial work, the kids corner, the offices that never get seen, like the brothers back there hitting the buttons on the screen; yet the buttons sometimes bring clarity to the class. When we are at camp and a point is made, everybody sounds off, and that makes a person really consider what was said. It may seem small, but nothing we do in this body is small; everything has a purpose.
-- Our uncomely parts have more abundant comeliness. The class named uncomely parts of the physical body, and the point stood: let the most uncomely part of your body close down and you will die within days. The uncomely parts make the world go round just like everything else. The counsel you give in secret is not for vainglory; you are truly trying to help somebody, and even though it is in secret, it matters, all the time.
 - But God hath tempered the body together, having given more abundant honour to that part which lacked: that there should be no schism in the body.
+
+> <sup>[25](/bible/1-corinthians/12#v25)</sup> That there should be no schism in the body; but that the members should have the same care one for another.
 
 **[John 16:33](/bible/john/16#v33)**  *[[2:12:18](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=7938s)]*
 
@@ -440,15 +449,17 @@ This class continues last week's topic on the members in the body. Last week we 
 
 **[2 Esdras 7:57-59](/bible/2-esdras/7#v57)**  *[[2:13:22](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=8002s)]*
 
+- This is the condition of the battle, which man that is born upon the earth shall fight. This is the reality we live in. Pain, sorrow, tribulation, struggle, poverty, and death are waiting for every man the moment we are born, and all of us are going to deal with it.
+
 > <sup>[57](/bible/2-esdras/7#v57)</sup> Then answered he me, and said, This is the condition of the battle, which man that is born upon the earth shall fight;
 >
 > <sup>[58](/bible/2-esdras/7#v58)</sup> That, if he be overcome, he shall suffer as thou hast said: but if he get the victory, he shall receive the thing that I say.
->
-> <sup>[59](/bible/2-esdras/7#v59)</sup> For this is the life whereof Moses spake unto the people while he lived, saying, Choose thee life, that thou mayest live.
 
-- This is the condition of the battle, which man that is born upon the earth shall fight. This is the reality we live in. Pain, sorrow, tribulation, struggle, poverty, and death are waiting for every man the moment we are born, and all of us are going to deal with it.
 - If he be overcome, he shall suffer as thou hast said: but if he get the victory, he shall receive the thing that I say. Getting the victory means you endure until the end. You keep fighting, you never give up, you continue to endeavor to keep the unity.
+
 - This is the life whereof Moses spake unto the people while he lived, saying, Choose thee life, that thou mayest live. We all have to deal with this battle and we all got to choose. Look around this room: you are not going to see everybody in here ten years from now. There will be a grand story in their mind as to why they left, but the truth of the matter is they did not want to fight; they allowed Satan to overcome them. All you can do is make sure you do what you got to do and endure until the end.
+
+> <sup>[59](/bible/2-esdras/7#v59)</sup> For this is the life whereof Moses spake unto the people while he lived, saying, Choose thee life, that thou mayest live.
 
 **[2 Timothy 3:12](/bible/2-timothy/3#v12)**  *[[2:16:59](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=8219s)]*
 

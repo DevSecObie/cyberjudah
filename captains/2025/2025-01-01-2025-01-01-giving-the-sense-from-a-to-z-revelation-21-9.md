@@ -61,22 +61,22 @@ tags: ["15 Minutes w/ The Captains", "marriage-family"]
 **[2 Esdras 14:3-6](/bible/2-esdras/14#v3)**  *[[9:38](https://www.youtube.com/watch?v=6NRHO63txKk&t=578s)]*
 
 > <sup>[3](/bible/2-esdras/14#v3)</sup> Then said he unto me, In the bush I did manifestly reveal myself unto Moses, and talked with him, when my people served in Egypt:
->
-> <sup>[4](/bible/2-esdras/14#v4)</sup> And I sent him, and led my people out of Egypt, and brought him up to the mount of Sinai, where I held him by me a long season,
->
-> <sup>[5](/bible/2-esdras/14#v5)</sup> And told him many wondrous things, and shewed him the secrets of the times, and the end; and commanded him, saying,
->
-> <sup>[6](/bible/2-esdras/14#v6)</sup> These words shalt thou declare, and these shalt thou hide.
 
 - In the bush I did manifestly reveal myself unto Moses: Right, so we talking about Moses. That's the topic. Go ahead.
 
+> <sup>[4](/bible/2-esdras/14#v4)</sup> And I sent him, and led my people out of Egypt, and brought him up to the mount of Sinai, where I held him by me a long season,
+
 - Where I held him by me a long season: What was that long season? Those 40 days and those 40 nights. The Lord held Moses by him on Mount Sinai for 40 days and 40 nights. Go ahead.
+
+> <sup>[5](/bible/2-esdras/14#v5)</sup> And told him many wondrous things, and shewed him the secrets of the times, and the end; and commanded him, saying,
 
 - And told him many wondrous things, and shewed him the secrets of the times: Read. And showed him the secrets of the times. No, he just gave him Ten Commandments in 40 days, and showed him the secrets of the times. He show Moses the secrets of the times. I heard a negro say the other day, well, if Moses was born in Exodus chapter 2, then how in the world could he have wrote Genesis? You are not knowing the scriptures. You're in error, not knowing the scriptures. That's why you have to be taught. The best thing for you to do is to be quiet so that you can be taught. Ask questions, fine, but when you ask your questions you have to be open to the answer. Don't ask questions and walk away. That's what Christians do. Hey, Moses, when was Moses born? You say okay, he born in Exodus, in Egypt. Okay, but how he wrote Genesis? And they walk away like they just stun the crowd. You're disingenuous. You don't really want to know the answer. You didn't really ask me that so I can give you the answer. You asked me that because you don't believe in the Bible and you want the people around to not believe in it also. That's your way of trying to get one up on us, which is childish, by the way.
 
 - The secrets of the times: So what we doing is we going into the depths of the scripture to get understanding. Moses was on the Mount Sinai with the Lord for 40 days and 40 nights and he saw many wondrous things and the secrets of the times, meaning past, present and future. Moses saw it all. So that's how he was able to write Genesis 1 and 1 on down, because he had to understand, and the Lord showed it to him. Go ahead. And showed him the secrets of the times and the end. He showed Moses destruction. Read.
 
 - These words shalt thou declare openly, and these shalt thou hide: Whoa, whoa, whoa. Read it again. You hear that? Some things Moses, I wanted to be declared. I give you an example of something being declared: Remember the Sabbath day to keep it holy. That's declared. Easy. Thou shall not commit adultery. Easy. Love your neighbor as yourself. Easy. Easy to understand. Thou shall not lie with mankind as with womankind, it is an abomination. Very easy. But Genesis 49 ain't easy. Deuteronomy 32 and 33, that ain't easy. Many things that Moses wrote, and you read it and it's a parable, you're like, I don't understand quite what it's saying. Genesis 1, 2, 3, 4, 5 and 6, very hard to understand. All right.
+
+> <sup>[6](/bible/2-esdras/14#v6)</sup> These words shalt thou declare, and these shalt thou hide.
 
 
 **[Revelation 21:9](/bible/revelation/21#v9)**  *[[12:37](https://www.youtube.com/watch?v=6NRHO63txKk&t=757s)]*
@@ -226,10 +226,6 @@ tags: ["15 Minutes w/ The Captains", "marriage-family"]
 > <sup>[11](/bible/revelation/21#v11)</sup> Having the glory of God: and her light was like unto a stone most precious, even like a jasper stone, clear as crystal;
 >
 > <sup>[12](/bible/revelation/21#v12)</sup> And had a wall great and high, and had twelve gates, and at the gates twelve angels, and names written thereon, which are the names of the twelve tribes of the children of Israel:
->
-> <sup>[13](/bible/revelation/21#v13)</sup> On the east three gates; on the north three gates; on the south three gates; and on the west three gates.
->
-> <sup>[14](/bible/revelation/21#v14)</sup> And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb.
 
 - And had a wall great and high: So New Jerusalem going to have a wall great and high.
 
@@ -241,7 +237,11 @@ tags: ["15 Minutes w/ The Captains", "marriage-family"]
 
 - The names of the twelve tribes of the children of Israel: Which is what that is. That righteous nation. Go ahead.
 
+> <sup>[13](/bible/revelation/21#v13)</sup> On the east three gates; on the north three gates; on the south three gates; and on the west three gates.
+
 - On the east three gates; on the north three gates; on the south three gates; and on the west three gates: On the east, you got three gates. On the north, you got three gates. On the south, you got three gates. And on the west, you got three gates. Go ahead.
+
+> <sup>[14](/bible/revelation/21#v14)</sup> And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb.
 
 - And in them the names of the twelve apostles of the Lamb: You know what's beautiful about this? John is writing this and he see his name up there. That's some fire right there. That's fire. The names of the 12 apostles is etched in the foundation of this kingdom. Go to Ephesians 2 and 20.
 
@@ -291,16 +291,16 @@ tags: ["15 Minutes w/ The Captains", "marriage-family"]
 **[Revelation 21:14-16](/bible/revelation/21#v14)**  *[[41:13](https://www.youtube.com/watch?v=6NRHO63txKk&t=2473s)]*
 
 > <sup>[14](/bible/revelation/21#v14)</sup> And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb.
->
-> <sup>[15](/bible/revelation/21#v15)</sup> And he that talked with me had a golden reed to measure the city, and the gates thereof, and the wall thereof.
->
-> <sup>[16](/bible/revelation/21#v16)</sup> And the city lieth foursquare, and the length is as large as the breadth: and he measured the city with the reed, twelve thousand furlongs. The length and the breadth and the height of it are equal.
 
 - And in them the names of the twelve apostles of the Lamb: Damn. Go ahead.
+
+> <sup>[15](/bible/revelation/21#v15)</sup> And he that talked with me had a golden reed to measure the city, and the gates thereof, and the wall thereof.
 
 - And he that talked with me had a golden reed to measure the city: When it say a golden reed, this is what they would use back in the day to measure. They would cut like these sticks, these reeds, and that's how they would do measurement. You had different measurements. They didn't have a tape measure back then and things of that nature. But this reed is golden, right. Get Revelation 11:1. This reed is golden. They would use that to measure the walls of the city. All right, so he saw an angel doing that. Read.
 
 - And the gates thereof: So when it say outside, the dogs are outside the kingdom. You understand? Or the Gentiles. Don't measure that, because it's given to the Gentiles. The dogs won't get in. That's the other nations. Go back to Revelation 21.
+
+> <sup>[16](/bible/revelation/21#v16)</sup> And the city lieth foursquare, and the length is as large as the breadth: and he measured the city with the reed, twelve thousand furlongs. The length and the breadth and the height of it are equal.
 
 - And he measured the city with the reed, twelve thousand furlongs: 12,000 furlongs equals 1500 miles. The kingdom of heaven is 1500 miles. Meaning what? The kingdom of heaven is going to be into space. It's going to be into space. Because you know how when you get on the plane they say, we have reached 30,000 ft, you can now use your electronic devices and so on and so forth. You know that's only six miles, right? When your plane says, hey, you can use your electronic devices, you have now reached 6,000, or you reached 30,000 miles, that's only 30,000 ft, that's six miles. Brothers and sisters, the kingdom of heaven is 500. You going to see the kingdom from other planets. You going to be on other planets, other G gxes, and you going to see this kingdom on earth. That's right. Beautiful. And it's only for the 12 tribes. Oh, ain't God good. Give me 2 Esdras chapter 10 verse 54. 2 Esdras chapter 10 verse 54. Let's get some understanding.
 
@@ -378,9 +378,13 @@ tags: ["15 Minutes w/ The Captains", "marriage-family"]
 **[Revelation 21:16-22](/bible/revelation/21#v16)**  *[[55:50](https://www.youtube.com/watch?v=6NRHO63txKk&t=3350s)]*
 
 > <sup>[16](/bible/revelation/21#v16)</sup> And the city lieth foursquare, and the length is as large as the breadth: and he measured the city with the reed, twelve thousand furlongs. The length and the breadth and the height of it are equal.
->
+
+- The length and the breadth and the height of it are equal: Come on.
+
 > <sup>[17](/bible/revelation/21#v17)</sup> And he measured the wall thereof, an hundred and forty and four cubits, according to the measure of a man, that is, of the angel.
->
+
+- According to the measure of a man, that is, of the angel: So when he measure, he ain't measuring like a man, right? Cuz these cubits, far as a man is concerned, you might say, well, that's not that high. He's measuring at the measuring of an angel, and the angels can change their stature. They could be 500 feet tall and they could be 7 feet tall. They can do that because they have control of the elements. They have power. Go ahead, verse 18.
+
 > <sup>[18](/bible/revelation/21#v18)</sup> And the building of the wall of it was of jasper: and the city was pure gold, like unto clear glass.
 >
 > <sup>[19](/bible/revelation/21#v19)</sup> And the foundations of the wall of the city were garnished with all manner of precious stones. The first foundation was jasper; the second, sapphire; the third, a chalcedony; the fourth, an emerald;
@@ -388,14 +392,10 @@ tags: ["15 Minutes w/ The Captains", "marriage-family"]
 > <sup>[20](/bible/revelation/21#v20)</sup> The fifth, sardonyx; the sixth, sardius; the seventh, chrysolite; the eighth, beryl; the ninth, a topaz; the tenth, a chrysoprasus; the eleventh, a jacinth; the twelfth, an amethyst.
 >
 > <sup>[21](/bible/revelation/21#v21)</sup> And the twelve gates were twelve pearls; every several gate was of one pearl: and the street of the city was pure gold, as it were transparent glass.
->
-> <sup>[22](/bible/revelation/21#v22)</sup> And I saw no temple therein: for the Lord God Almighty and the Lamb are the temple of it.
-
-- The length and the breadth and the height of it are equal: Come on.
-
-- According to the measure of a man, that is, of the angel: So when he measure, he ain't measuring like a man, right? Cuz these cubits, far as a man is concerned, you might say, well, that's not that high. He's measuring at the measuring of an angel, and the angels can change their stature. They could be 500 feet tall and they could be 7 feet tall. They can do that because they have control of the elements. They have power. Go ahead, verse 18.
 
 - And the street of the city was pure gold, as it were transparent glass: It said, oh man, wait. So you seeing yourself in these golden streets. You can see your reflection in it. Transparent glass. Go ahead.
+
+> <sup>[22](/bible/revelation/21#v22)</sup> And I saw no temple therein: for the Lord God Almighty and the Lamb are the temple of it.
 
 - For the Lord God Almighty and the Lamb are the temple of it: Wait. I thought they were the same entity. I thought God, Christ and the Holy Spirit was all one, meaning one entity, and that Christ came down to the earth and he also was sitting on the throne and he also was in the spiritual realm as the Holy Spirit. That's what I thought. That's what the Christian church teach. But the Lord said no, they're two different entities. Christ, the Lamb, and his father, God. Skip down to verse 3, get down verse, chapter 22:3.
 
@@ -429,10 +429,6 @@ tags: ["15 Minutes w/ The Captains", "marriage-family"]
 > <sup>[22](/bible/revelation/21#v22)</sup> And I saw no temple therein: for the Lord God Almighty and the Lamb are the temple of it.
 >
 > <sup>[23](/bible/revelation/21#v23)</sup> And the city had no need of the sun, neither of the moon, to shine in it: for the glory of God did lighten it, and the Lamb is the light thereof.
->
-> <sup>[24](/bible/revelation/21#v24)</sup> And the nations of them which are saved shall walk in the light of it: and the kings of the earth do bring their glory and honour into it.
->
-> <sup>[25](/bible/revelation/21#v25)</sup> And the gates of it shall not be shut at all by day: for there shall be no night there.
 
 - And the city had no need of the sun: The city ain't going to have no need for the sun. Neither of the moon.
 
@@ -440,7 +436,11 @@ tags: ["15 Minutes w/ The Captains", "marriage-family"]
 
 - And the city had no need of the sun, neither of the moon, to shine in it: Now why is it interesting that the kingdom of heaven not going to have need of the sun and the moon? So when you go back to Revelation chapter 21, I think he was at verse 24 or 25, something like that. Why did they have no need of the sun and the moon to shine in it? Because Christ was on the seen in his celestial angelic form, and he was the true light from the beginning. The sun and the moon was created after him. So we don't need that no more, because we got the true light with us now. Damn. Go ahead.
 
+> <sup>[24](/bible/revelation/21#v24)</sup> And the nations of them which are saved shall walk in the light of it: and the kings of the earth do bring their glory and honour into it.
+
 - And the kings of the earth do bring their glory and honour into it: We just showed you that earlier. Read.
+
+> <sup>[25](/bible/revelation/21#v25)</sup> And the gates of it shall not be shut at all by day: for there shall be no night there.
 
 - For there shall be no night there: There going to be no night there. Give me that real quick in Isaiah, is it 30 and 27? The moon going to shine 10 times brighter and all that.
 

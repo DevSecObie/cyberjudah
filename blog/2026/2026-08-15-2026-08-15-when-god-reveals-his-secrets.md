@@ -317,6 +317,22 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 
 **[Job 11:1-20](/bible/job/11#v1)**  *[[1:02:40](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=3760s)]*
 
+- Because we have got to understand how secrets get revealed unto us. I like this, what they were saying here when Job was going back and forth with his friends, and he was telling Job, do not think that you are better than God.
+
+- Then answered Zophar the Naamathite, and said, Should not the multitude of words be answered? and should a man full of talk be justified? Should thy lies make men hold their peace? and when thou mockest, shall no man make thee ashamed? Meaning, when you say something stupid concerning God, there should be men of God there to check you.
+
+- For thou hast said, My doctrine is pure, and I am clean in thine eyes. That is how Job was acting, like I did not do nothing wrong.
+
+- But oh that God would speak, and open his lips against thee; and that he would shew thee the secrets of wisdom. He said, I wish God would speak to you and show you the secrets of wisdom, because we believe in our mind that we are not wrong, that what God is doing to us we do not deserve. So he said, I wish God could come to you personally and tell you what is going on, because you are trying to justify yourself.
+
+- That they are double to that which is. What you think you know is double, is more. So that is why we search the scriptures and we find that the things written are twofold. It is not just what you think it is right there. Like when Deacon Malachi just brought out — although he was speaking to them there and warning them, the conditions written in Deuteronomy are the future prophecy of what is going to happen to the United States of America. It will be uninhabitable. That is double meaning. He was telling them right there what was going on. And he was telling them, when you go to spiritual Egypt, it is going to be destroyed and uninhabitable. So that is an example of things being double in meaning.
+
+- Know therefore that God exacteth of thee less than thine iniquity deserveth. Whatever we are complaining about, we could be dead. God is taking it easy on us. Because we do not deserve, after we gave God the finger, to be living the way we are living right now. You disrespected him, and the best way for payback is to just take you out. He told Job — remember what happened to Job? He lost his servants. His wife told him, Curse God and die. His children died. He was so sick that he looked deformed. And his friend told him, God went easy on you, he did not really touch you. If you really sit down and ponder about this God, you do not understand how magnificent, how great he is, how merciful he is to us.
+
+- Canst thou by searching find out God? Can you search and figure out God? Canst thou find out the Almighty unto perfection? You cannot find out the perfection of him no matter how long you sit down. The stuff we learned, the white man did not teach it to us. People are telling you, you all are reading the white man's book. The white man does not know what we know. We know the Bible. They do not know the Bible. They are afraid of us, of what we are learning, because the secret things belong to us. They have been delivered to us. They took the Bible away from us and were not even smart enough to say, you know what, we need to just get rid of this book, we need to write something new, there is nothing good in this book that we want these negroes to look at and find out.
+
+- It is as high as heaven; what canst thou do? deeper than hell; what canst thou know? The measure thereof is longer than the earth, and broader than the sea. If he cut off, and shut up, or gather together, then who can hinder him? Nobody can stop God from doing what he wants to do. And that is what he is telling Job. How dare you question him. He went easy on you.
+
 > <sup>[1](/bible/job/11#v1)</sup> Then answered Zophar the Naamathite, and said,
 >
 > <sup>[2](/bible/job/11#v2)</sup> Should not the multitude of words be answered? and should a man full of talk be justified?
@@ -338,40 +354,6 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 > <sup>[10](/bible/job/11#v10)</sup> If he cut off, and shut up, or gather together, then who can hinder him?
 >
 > <sup>[11](/bible/job/11#v11)</sup> For he knoweth vain men: he seeth wickedness also; will he not then consider it?
->
-> <sup>[12](/bible/job/11#v12)</sup> For vain man would be wise, though man be born like a wild ass’s colt.
->
-> <sup>[13](/bible/job/11#v13)</sup> If thou prepare thine heart, and stretch out thine hands toward him;
->
-> <sup>[14](/bible/job/11#v14)</sup> If iniquity be in thine hand, put it far away, and let not wickedness dwell in thy tabernacles.
->
-> <sup>[15](/bible/job/11#v15)</sup> For then shalt thou lift up thy face without spot; yea, thou shalt be stedfast, and shalt not fear:
->
-> <sup>[16](/bible/job/11#v16)</sup> Because thou shalt forget thy misery, and remember it as waters that pass away:
->
-> <sup>[17](/bible/job/11#v17)</sup> And thine age shall be clearer than the noonday; thou shalt shine forth, thou shalt be as the morning.
->
-> <sup>[18](/bible/job/11#v18)</sup> And thou shalt be secure, because there is hope; yea, thou shalt dig about thee, and thou shalt take thy rest in safety.
->
-> <sup>[19](/bible/job/11#v19)</sup> Also thou shalt lie down, and none shall make thee afraid; yea, many shall make suit unto thee.
->
-> <sup>[20](/bible/job/11#v20)</sup> But the eyes of the wicked shall fail, and they shall not escape, and their hope shall be as the giving up of the ghost.
-
-- Because we have got to understand how secrets get revealed unto us. I like this, what they were saying here when Job was going back and forth with his friends, and he was telling Job, do not think that you are better than God.
-
-- Then answered Zophar the Naamathite, and said, Should not the multitude of words be answered? and should a man full of talk be justified? Should thy lies make men hold their peace? and when thou mockest, shall no man make thee ashamed? Meaning, when you say something stupid concerning God, there should be men of God there to check you.
-
-- For thou hast said, My doctrine is pure, and I am clean in thine eyes. That is how Job was acting, like I did not do nothing wrong.
-
-- But oh that God would speak, and open his lips against thee; and that he would shew thee the secrets of wisdom. He said, I wish God would speak to you and show you the secrets of wisdom, because we believe in our mind that we are not wrong, that what God is doing to us we do not deserve. So he said, I wish God could come to you personally and tell you what is going on, because you are trying to justify yourself.
-
-- That they are double to that which is. What you think you know is double, is more. So that is why we search the scriptures and we find that the things written are twofold. It is not just what you think it is right there. Like when Deacon Malachi just brought out — although he was speaking to them there and warning them, the conditions written in Deuteronomy are the future prophecy of what is going to happen to the United States of America. It will be uninhabitable. That is double meaning. He was telling them right there what was going on. And he was telling them, when you go to spiritual Egypt, it is going to be destroyed and uninhabitable. So that is an example of things being double in meaning.
-
-- Know therefore that God exacteth of thee less than thine iniquity deserveth. Whatever we are complaining about, we could be dead. God is taking it easy on us. Because we do not deserve, after we gave God the finger, to be living the way we are living right now. You disrespected him, and the best way for payback is to just take you out. He told Job — remember what happened to Job? He lost his servants. His wife told him, Curse God and die. His children died. He was so sick that he looked deformed. And his friend told him, God went easy on you, he did not really touch you. If you really sit down and ponder about this God, you do not understand how magnificent, how great he is, how merciful he is to us.
-
-- Canst thou by searching find out God? Can you search and figure out God? Canst thou find out the Almighty unto perfection? You cannot find out the perfection of him no matter how long you sit down. The stuff we learned, the white man did not teach it to us. People are telling you, you all are reading the white man's book. The white man does not know what we know. We know the Bible. They do not know the Bible. They are afraid of us, of what we are learning, because the secret things belong to us. They have been delivered to us. They took the Bible away from us and were not even smart enough to say, you know what, we need to just get rid of this book, we need to write something new, there is nothing good in this book that we want these negroes to look at and find out.
-
-- It is as high as heaven; what canst thou do? deeper than hell; what canst thou know? The measure thereof is longer than the earth, and broader than the sea. If he cut off, and shut up, or gather together, then who can hinder him? Nobody can stop God from doing what he wants to do. And that is what he is telling Job. How dare you question him. He went easy on you.
 
 - For he knoweth vain men: he seeth wickedness also. He knows what a vain person is like and he sees the wickedness. We have got to figure out that things are wicked. Because think, before you came into this truth and you were eating on them ham hocks and shrimp and crab and pork and lobster, then you read in the Bible it is evil — you did not feel nothing was wrong with it. Think about when you were adulterers and adulteresses. You did not think nothing was wrong with it, until we read in the word of God and we understand now why it is evil.
 
@@ -389,6 +371,18 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 
 - Because thou shalt forget thy misery, and remember it as waters that pass away. Why? Because you are walking in righteousness. And that is how you bring the Lord on your side. That is how you get God to reveal mysteries to you. You cannot be evil and stand before God as his people. That makes no sense.
 
+> <sup>[12](/bible/job/11#v12)</sup> For vain man would be wise, though man be born like a wild ass’s colt.
+>
+> <sup>[13](/bible/job/11#v13)</sup> If thou prepare thine heart, and stretch out thine hands toward him;
+>
+> <sup>[14](/bible/job/11#v14)</sup> If iniquity be in thine hand, put it far away, and let not wickedness dwell in thy tabernacles.
+>
+> <sup>[15](/bible/job/11#v15)</sup> For then shalt thou lift up thy face without spot; yea, thou shalt be stedfast, and shalt not fear:
+>
+> <sup>[16](/bible/job/11#v16)</sup> Because thou shalt forget thy misery, and remember it as waters that pass away:
+>
+> <sup>[17](/bible/job/11#v17)</sup> And thine age shall be clearer than the noonday; thou shalt shine forth, thou shalt be as the morning.
+
 - And thine age shall be clearer than the noonday: thou shalt shine forth, thou shalt be as the morning. Because the wisdom is a light. Jesus Christ is the light. We are supposed to be comparable to that.
 
 - And thou shalt be secure, because there is hope; yea, thou shalt dig about thee, and thou shalt take thy rest in safety. Why? Because we cleansed our heart. We got rid of the spot. We opened our hands. We cleansed ourselves of evil.
@@ -397,7 +391,25 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 
 - Yea, many shall make suit unto thee. But the eyes of the wicked shall fail. The eyes of the wicked shall fail because God is not going to reveal the secrets to them. And they shall not escape, and their hope shall be as the giving up of the ghost. That is their hope: to die. We hope for everlasting life. That is a secret to them, that you could keep God's commandments and you could get everlasting life. So what is their hope? As the giving up of the ghost, to just die. All they are doing is waiting to live on this earth and then just die. This ministry is not doing that. We know that if we die before the great day of judgment, God is going to resurrect our spirit. That is a secret. But the church ain't teaching that. The church does not know nothing about that. The people that are wicked, all they are thinking about is, let me do what I could do before I die.
 
+> <sup>[18](/bible/job/11#v18)</sup> And thou shalt be secure, because there is hope; yea, thou shalt dig about thee, and thou shalt take thy rest in safety.
+>
+> <sup>[19](/bible/job/11#v19)</sup> Also thou shalt lie down, and none shall make thee afraid; yea, many shall make suit unto thee.
+>
+> <sup>[20](/bible/job/11#v20)</sup> But the eyes of the wicked shall fail, and they shall not escape, and their hope shall be as the giving up of the ghost.
+
 **[Sirach 3:19-31](/bible/sirach/3#v19)**  *[[1:12:16](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=4336s)]*
+
+- Many are in high place, and of renown. You have got people that are in powerful positions on this earth, and they are famous. But mysteries are revealed unto the meek. To the meek. Where are the meek of the earth? The Israelites. The mysteries of God have been revealed unto us. You have got people in high tech positions, high government, high as celebrity, basketball players, athletes. But mysteries are revealed unto the meek. God is dealing with us. He is going to reveal his stuff to us.
+
+- For the power of the Lord is great, and he is honoured of the lowly. Seek not out things that are too hard for thee, neither search the things that are above thy strength. But what is commanded thee, think thereupon with reverence. He commanded us to keep the commandments and keep his covenant. Do we have to go no higher than that? He will give us everything else.
+
+- For it is not needful for thee to see with thine eyes the things that are in secret. There are things that God has to himself that are secret. We do not need to see it. That is why some of you all are into tarot cards. You all are into brujeria, chango, voodoo. Whatever it is in your island, wherever you come from, you want to see secret spiritual things. And all you have to do is just keep the commandments, keep the covenant. It is not needful to dig into that spiritual realm, because we have a God, the creator of all things, that will give you whatever you want.
+
+- Be not curious in unnecessary matters. Like Eve was in the garden. She was already in paradise, and Satan came and whispered something into her ear, and now she was curious. Maybe God lied to us. Maybe there is better than this. How could you look in paradise, you live in paradise, and you are saying, maybe there is something else? You are in paradise. You do not have none of the stuff to deal with that we are dealing with. And one day you wake up and you are like that.
+
+- For more things are shewed unto thee than men understand. We do not even understand the stuff that we see with our eyes, and you all are looking for deeper stuff to find out. That is why I laugh when people start bringing up the Illuminati and the secret societies. I do not care about that. It is going to burn when we get our turn. The Bible is the only thing we are supposed to learn. I do not care about no secret society. I do not care what the government is doing. The Lord is going to reveal everything and destroy them. We know something they do not know.
+
+- For many are deceived by their own vain opinion. Your own vain opinion is when you deviate from what is written in the scriptures. And an evil suspicion hath overthrown their judgment. That is what happened with Eve in the garden. She had an evil suspicion of God. Satan told her, if you go against God's instruction, your eyes will be opened and you will be wise.
 
 > <sup>[19](/bible/sirach/3#v19)</sup> Many are in high place, and of renown: but mysteries are revealed unto the meek.
 >
@@ -412,30 +424,6 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 > <sup>[24](/bible/sirach/3#v24)</sup> For many are deceived by their own vain opinion; and an evil suspicion hath overthrown their judgment.
 >
 > <sup>[25](/bible/sirach/3#v25)</sup> Without eyes thou shalt want light: profess not the knowledge therefore that thou hast not.
->
-> <sup>[26](/bible/sirach/3#v26)</sup> A stubborn heart shall fare evil at the last; and he that loveth danger shall perish therein.
->
-> <sup>[27](/bible/sirach/3#v27)</sup> An obstinate heart shall be laden with sorrows; and the wicked man shall heap sin upon sin.
->
-> <sup>[28](/bible/sirach/3#v28)</sup> In the punishment of the proud there is no remedy; for the plant of wickedness hath taken root in him.
->
-> <sup>[29](/bible/sirach/3#v29)</sup> The heart of the prudent will understand a parable; and an attentive ear is the desire of a wise man.
->
-> <sup>[30](/bible/sirach/3#v30)</sup> Water will quench a flaming fire; and alms maketh an atonement for sins.
->
-> <sup>[31](/bible/sirach/3#v31)</sup> And he that requiteth good turns is mindful of that which may come hereafter; and when he falleth, he shall find a stay.
-
-- Many are in high place, and of renown. You have got people that are in powerful positions on this earth, and they are famous. But mysteries are revealed unto the meek. To the meek. Where are the meek of the earth? The Israelites. The mysteries of God have been revealed unto us. You have got people in high tech positions, high government, high as celebrity, basketball players, athletes. But mysteries are revealed unto the meek. God is dealing with us. He is going to reveal his stuff to us.
-
-- For the power of the Lord is great, and he is honoured of the lowly. Seek not out things that are too hard for thee, neither search the things that are above thy strength. But what is commanded thee, think thereupon with reverence. He commanded us to keep the commandments and keep his covenant. Do we have to go no higher than that? He will give us everything else.
-
-- For it is not needful for thee to see with thine eyes the things that are in secret. There are things that God has to himself that are secret. We do not need to see it. That is why some of you all are into tarot cards. You all are into brujeria, chango, voodoo. Whatever it is in your island, wherever you come from, you want to see secret spiritual things. And all you have to do is just keep the commandments, keep the covenant. It is not needful to dig into that spiritual realm, because we have a God, the creator of all things, that will give you whatever you want.
-
-- Be not curious in unnecessary matters. Like Eve was in the garden. She was already in paradise, and Satan came and whispered something into her ear, and now she was curious. Maybe God lied to us. Maybe there is better than this. How could you look in paradise, you live in paradise, and you are saying, maybe there is something else? You are in paradise. You do not have none of the stuff to deal with that we are dealing with. And one day you wake up and you are like that.
-
-- For more things are shewed unto thee than men understand. We do not even understand the stuff that we see with our eyes, and you all are looking for deeper stuff to find out. That is why I laugh when people start bringing up the Illuminati and the secret societies. I do not care about that. It is going to burn when we get our turn. The Bible is the only thing we are supposed to learn. I do not care about no secret society. I do not care what the government is doing. The Lord is going to reveal everything and destroy them. We know something they do not know.
-
-- For many are deceived by their own vain opinion. Your own vain opinion is when you deviate from what is written in the scriptures. And an evil suspicion hath overthrown their judgment. That is what happened with Eve in the garden. She had an evil suspicion of God. Satan told her, if you go against God's instruction, your eyes will be opened and you will be wise.
 
 - Without eyes thou shalt want light: profess not the knowledge therefore that thou hast not. Satan came to her with knowledge that was not necessary for her. All she had to do was be obedient to the Lord.
 
@@ -459,55 +447,19 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 
 - And he that requiteth good turns is mindful of that which may come hereafter; and when he falleth, he shall find a stay. When you fall, you will find a stay. Because the Most High will look and he will say, you know what — like with Manasseh. Remember Manasseh did much evil, but Manasseh still helped his people, so the Lord delivered him.
 
-**[Joshua 2:1-24](/bible/joshua/2#v1)**  *[[1:21:56](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=4916s)]*
+> <sup>[26](/bible/sirach/3#v26)</sup> A stubborn heart shall fare evil at the last; and he that loveth danger shall perish therein.
+>
+> <sup>[27](/bible/sirach/3#v27)</sup> An obstinate heart shall be laden with sorrows; and the wicked man shall heap sin upon sin.
+>
+> <sup>[28](/bible/sirach/3#v28)</sup> In the punishment of the proud there is no remedy; for the plant of wickedness hath taken root in him.
+>
+> <sup>[29](/bible/sirach/3#v29)</sup> The heart of the prudent will understand a parable; and an attentive ear is the desire of a wise man.
+>
+> <sup>[30](/bible/sirach/3#v30)</sup> Water will quench a flaming fire; and alms maketh an atonement for sins.
+>
+> <sup>[31](/bible/sirach/3#v31)</sup> And he that requiteth good turns is mindful of that which may come hereafter; and when he falleth, he shall find a stay.
 
-> <sup>[1](/bible/joshua/2#v1)</sup> And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot’s house, named Rahab, and lodged there.
->
-> <sup>[2](/bible/joshua/2#v2)</sup> And it was told the king of Jericho, saying, Behold, there came men in hither to night of the children of Israel to search out the country.
->
-> <sup>[3](/bible/joshua/2#v3)</sup> And the king of Jericho sent unto Rahab, saying, Bring forth the men that are come to thee, which are entered into thine house: for they be come to search out all the country.
->
-> <sup>[4](/bible/joshua/2#v4)</sup> And the woman took the two men, and hid them, and said thus, There came men unto me, but I wist not whence they were:
->
-> <sup>[5](/bible/joshua/2#v5)</sup> And it came to pass about the time of shutting of the gate, when it was dark, that the men went out: whither the men went I wot not: pursue after them quickly; for ye shall overtake them.
->
-> <sup>[6](/bible/joshua/2#v6)</sup> But she had brought them up to the roof of the house, and hid them with the stalks of flax, which she had laid in order upon the roof.
->
-> <sup>[7](/bible/joshua/2#v7)</sup> And the men pursued after them the way to Jordan unto the fords: and as soon as they which pursued after them were gone out, they shut the gate.
->
-> <sup>[8](/bible/joshua/2#v8)</sup> And before they were laid down, she came up unto them upon the roof;
->
-> <sup>[9](/bible/joshua/2#v9)</sup> And she said unto the men, I know that the Lord hath given you the land, and that your terror is fallen upon us, and that all the inhabitants of the land faint because of you.
->
-> <sup>[10](/bible/joshua/2#v10)</sup> For we have heard how the Lord dried up the water of the Red sea for you, when ye came out of Egypt; and what ye did unto the two kings of the Amorites, that were on the other side Jordan, Sihon and Og, whom ye utterly destroyed.
->
-> <sup>[11](/bible/joshua/2#v11)</sup> And as soon as we had heard these things, our hearts did melt, neither did there remain any more courage in any man, because of you: for the Lord your God, he is God in heaven above, and in earth beneath.
->
-> <sup>[12](/bible/joshua/2#v12)</sup> Now therefore, I pray you, swear unto me by the Lord, since I have shewed you kindness, that ye will also shew kindness unto my father’s house, and give me a true token:
->
-> <sup>[13](/bible/joshua/2#v13)</sup> And that ye will save alive my father, and my mother, and my brethren, and my sisters, and all that they have, and deliver our lives from death.
->
-> <sup>[14](/bible/joshua/2#v14)</sup> And the men answered her, Our life for yours, if ye utter not this our business. And it shall be, when the Lord hath given us the land, that we will deal kindly and truly with thee.
->
-> <sup>[15](/bible/joshua/2#v15)</sup> Then she let them down by a cord through the window: for her house was upon the town wall, and she dwelt upon the wall.
->
-> <sup>[16](/bible/joshua/2#v16)</sup> And she said unto them, Get you to the mountain, lest the pursuers meet you; and hide yourselves there three days, until the pursuers be returned: and afterward may ye go your way.
->
-> <sup>[17](/bible/joshua/2#v17)</sup> And the men said unto her, We will be blameless of this thine oath which thou hast made us swear.
->
-> <sup>[18](/bible/joshua/2#v18)</sup> Behold, when we come into the land, thou shalt bind this line of scarlet thread in the window which thou didst let us down by: and thou shalt bring thy father, and thy mother, and thy brethren, and all thy father’s household, home unto thee.
->
-> <sup>[19](/bible/joshua/2#v19)</sup> And it shall be, that whosoever shall go out of the doors of thy house into the street, his blood shall be upon his head, and we will be guiltless: and whosoever shall be with thee in the house, his blood shall be on our head, if any hand be upon him.
->
-> <sup>[20](/bible/joshua/2#v20)</sup> And if thou utter this our business, then we will be quit of thine oath which thou hast made us to swear.
->
-> <sup>[21](/bible/joshua/2#v21)</sup> And she said, According unto your words, so be it. And she sent them away, and they departed: and she bound the scarlet line in the window.
->
-> <sup>[22](/bible/joshua/2#v22)</sup> And they went, and came unto the mountain, and abode there three days, until the pursuers were returned: and the pursuers sought them throughout all the way, but found them not.
->
-> <sup>[23](/bible/joshua/2#v23)</sup> So the two men returned, and descended from the mountain, and passed over, and came to Joshua the son of Nun, and told him all things that befell them:
->
-> <sup>[24](/bible/joshua/2#v24)</sup> And they said unto Joshua, Truly the Lord hath delivered into our hands all the land; for even all the inhabitants of the country do faint because of us.
+**[Joshua 2:1-24](/bible/joshua/2#v1)**  *[[1:21:56](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=4916s)]*
 
 - I want to digress for a minute, because there are a lot of you heathen that are watching us, or Gentiles that are watching us, and this comes up a lot when we say that the Bible is exclusive for the Israelites. They always bring up Rahab the harlot. So next time you all are in the street teaching and people bring up, what about Rahab — because in the New Testament they mention her faith, but they never say why they mention her faith.
 
@@ -515,11 +467,21 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 
 - And it was told the king of Jericho, saying, Behold, there came men in hither to night of the children of Israel to search out the country. So somebody saw those two men and said, there are these guys that came here, they are foreigners and they were searching out our land.
 
+> <sup>[1](/bible/joshua/2#v1)</sup> And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot’s house, named Rahab, and lodged there.
+>
+> <sup>[2](/bible/joshua/2#v2)</sup> And it was told the king of Jericho, saying, Behold, there came men in hither to night of the children of Israel to search out the country.
+>
+> <sup>[3](/bible/joshua/2#v3)</sup> And the king of Jericho sent unto Rahab, saying, Bring forth the men that are come to thee, which are entered into thine house: for they be come to search out all the country.
+
 - And the king of Jericho sent unto Rahab, saying, Bring forth the men that are come to thee, which are entered into thine house: for they be come to search out all the country. So the king said, I want those men, bring them to me.
 
 - And the woman took the two men, and hid them. What did she do? And hid them. It is going to tell you why she hid them. Because in the New Testament it speaks about her faith. But listen to why she hid them.
 
 - And said thus, There came men unto me, but I wist not whence they were. She said, look, these men came, and I did not tell them who you were or where you were at.
+
+> <sup>[4](/bible/joshua/2#v4)</sup> And the woman took the two men, and hid them, and said thus, There came men unto me, but I wist not whence they were:
+>
+> <sup>[5](/bible/joshua/2#v5)</sup> And it came to pass about the time of shutting of the gate, when it was dark, that the men went out: whither the men went I wot not: pursue after them quickly; for ye shall overtake them.
 
 - And it came to pass about the time of shutting of the gate, when it was dark, that the men went out: whither the men went I wot not: pursue after them quickly; for ye shall overtake them. So they are looking for these men, and she misled them. She lied.
 
@@ -539,9 +501,29 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 
 - Now therefore, I pray you, swear unto me by the Lord, since I have shewed you kindness. Since I did not let my people get you. That ye will also shew kindness unto my father's house. Do not kill me and my family. That is all this is about. Because based on what she saw concerning the God of Israel, she believed, this could happen to me. He destroyed the Egyptians. He destroyed the Amorites. He destroyed these other nations. And I know you all came here, you all mean business. Make a deal with me. I will not tell the people where you are, if you do not kill me and my parents.
 
+> <sup>[6](/bible/joshua/2#v6)</sup> But she had brought them up to the roof of the house, and hid them with the stalks of flax, which she had laid in order upon the roof.
+>
+> <sup>[7](/bible/joshua/2#v7)</sup> And the men pursued after them the way to Jordan unto the fords: and as soon as they which pursued after them were gone out, they shut the gate.
+>
+> <sup>[8](/bible/joshua/2#v8)</sup> And before they were laid down, she came up unto them upon the roof;
+>
+> <sup>[9](/bible/joshua/2#v9)</sup> And she said unto the men, I know that the Lord hath given you the land, and that your terror is fallen upon us, and that all the inhabitants of the land faint because of you.
+>
+> <sup>[10](/bible/joshua/2#v10)</sup> For we have heard how the Lord dried up the water of the Red sea for you, when ye came out of Egypt; and what ye did unto the two kings of the Amorites, that were on the other side Jordan, Sihon and Og, whom ye utterly destroyed.
+>
+> <sup>[11](/bible/joshua/2#v11)</sup> And as soon as we had heard these things, our hearts did melt, neither did there remain any more courage in any man, because of you: for the Lord your God, he is God in heaven above, and in earth beneath.
+>
+> <sup>[12](/bible/joshua/2#v12)</sup> Now therefore, I pray you, swear unto me by the Lord, since I have shewed you kindness, that ye will also shew kindness unto my father’s house, and give me a true token:
+
 - And give me a true token: and that ye will save alive my father, and my mother, and my brethren, and my sisters, and all that they have, and deliver our lives from death. Do not kill us. That was the faith of Rahab: that if I go on the mercy of these Israelite men, they will spare me. Because you people, now, who God is for, you will not ask the Lord for mercy to spare you from what is going on here. But a heathen, a Gentile, when they saw the works of the Lord and they knew — look, whatever I have got to do, because your God is so great, is so marvellous, if it means getting all my people killed to spare my life and my house, could we work a deal out, please?
 
 - And the men answered her, Our life for yours, if ye utter not this our business. And it shall be, when the Lord hath given us the land, that we will deal kindly and truly with thee. We will not wipe your whole family out.
+
+> <sup>[13](/bible/joshua/2#v13)</sup> And that ye will save alive my father, and my mother, and my brethren, and my sisters, and all that they have, and deliver our lives from death.
+>
+> <sup>[14](/bible/joshua/2#v14)</sup> And the men answered her, Our life for yours, if ye utter not this our business. And it shall be, when the Lord hath given us the land, that we will deal kindly and truly with thee.
+>
+> <sup>[15](/bible/joshua/2#v15)</sup> Then she let them down by a cord through the window: for her house was upon the town wall, and she dwelt upon the wall.
 
 - Then she let them down by a cord through the window: for her house was upon the town wall, and she dwelt upon the wall. And she said unto them, Get you to the mountain, lest the pursuers meet you; and hide yourselves there three days, until the pursuers be returned: and afterward may ye go your way.
 
@@ -553,9 +535,25 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 
 - And it shall be, that whosoever shall go out of the doors of thy house into the street, his blood shall be upon his head. Do not let none of your family members step outside. Their blood is going to get spilled.
 
+> <sup>[16](/bible/joshua/2#v16)</sup> And she said unto them, Get you to the mountain, lest the pursuers meet you; and hide yourselves there three days, until the pursuers be returned: and afterward may ye go your way.
+>
+> <sup>[17](/bible/joshua/2#v17)</sup> And the men said unto her, We will be blameless of this thine oath which thou hast made us swear.
+>
+> <sup>[18](/bible/joshua/2#v18)</sup> Behold, when we come into the land, thou shalt bind this line of scarlet thread in the window which thou didst let us down by: and thou shalt bring thy father, and thy mother, and thy brethren, and all thy father’s household, home unto thee.
+>
+> <sup>[19](/bible/joshua/2#v19)</sup> And it shall be, that whosoever shall go out of the doors of thy house into the street, his blood shall be upon his head, and we will be guiltless: and whosoever shall be with thee in the house, his blood shall be on our head, if any hand be upon him.
+
 - And we will be guiltless: and whosoever shall be with thee in the house, his blood shall be on our head, if any hand be upon him. And if thou utter this our business, then we will be quit of thine oath which thou hast made us to swear.
 
+> <sup>[20](/bible/joshua/2#v20)</sup> And if thou utter this our business, then we will be quit of thine oath which thou hast made us to swear.
+>
+> <sup>[21](/bible/joshua/2#v21)</sup> And she said, According unto your words, so be it. And she sent them away, and they departed: and she bound the scarlet line in the window.
+
 - And she said, According unto your words, so be it. And she sent them away, and they departed: and she bound the scarlet line in the window. And they went, and came unto the mountain, and abode there three days, until the pursuers were returned: and the pursuers sought them throughout all the way, but found them not.
+
+> <sup>[22](/bible/joshua/2#v22)</sup> And they went, and came unto the mountain, and abode there three days, until the pursuers were returned: and the pursuers sought them throughout all the way, but found them not.
+>
+> <sup>[23](/bible/joshua/2#v23)</sup> So the two men returned, and descended from the mountain, and passed over, and came to Joshua the son of Nun, and told him all things that befell them:
 
 - So the two men returned, and descended from the mountain, and passed over, and came to Joshua the son of Nun, and told him all things that befell them: and they said unto Joshua, Truly the Lord hath delivered into our hands all the land. This is going to be easy, to kill everybody. For even all the inhabitants of the country do faint because of us. That woman told them the reason why you are going to win is because everybody is afraid. And then she kept it a secret. She said, I am not going to tell them.
 
@@ -563,51 +561,25 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 
 - So that is for you heathen that are watching, you Gentiles that are watching, that are thinking that God's hand is not going to go according to plan. Because you all keep asking, what can we do? Do like Rahab did. Do like Rahab did and hold us down, so you can spare your town.
 
+> <sup>[24](/bible/joshua/2#v24)</sup> And they said unto Joshua, Truly the Lord hath delivered into our hands all the land; for even all the inhabitants of the country do faint because of us.
+
 **[Genesis 12:1-3](/bible/genesis/12#v1)**  *[[1:32:00](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=5520s)]*
 
-> <sup>[1](/bible/genesis/12#v1)</sup> Now the Lord had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will shew thee:
->
-> <sup>[2](/bible/genesis/12#v2)</sup> And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing:
->
-> <sup>[3](/bible/genesis/12#v3)</sup> And I will bless them that bless thee, and curse him that curseth thee: and in thee shall all families of the earth be blessed.
-
 - We are going to give you some examples of the secrets of the Most High.
+
+> <sup>[1](/bible/genesis/12#v1)</sup> Now the Lord had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will shew thee:
 
 - Now the Lord had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father's house, unto a land that I will shew thee: and I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing.
 
 - And I will bless them that bless thee, and curse him that curseth thee. That is why I read that with Rahab. Because people try to say that God just wants to kill everybody. No. If you are on our side, you could come along for the ride. He said, I will bless them that bless you and curse them that curse you. And some of you all think that you all are going to curse us and get away with it with no consequences.
 
+> <sup>[2](/bible/genesis/12#v2)</sup> And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing:
+>
+> <sup>[3](/bible/genesis/12#v3)</sup> And I will bless them that bless thee, and curse him that curseth thee: and in thee shall all families of the earth be blessed.
+
 **[Genesis 18:1-15](/bible/genesis/18#v1)**  *[[1:33:48](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=5628s)]*
 
 > <sup>[1](/bible/genesis/18#v1)</sup> And the Lord appeared unto him in the plains of Mamre: and he sat in the tent door in the heat of the day;
->
-> <sup>[2](/bible/genesis/18#v2)</sup> And he lift up his eyes and looked, and, lo, three men stood by him: and when he saw them, he ran to meet them from the tent door, and bowed himself toward the ground,
->
-> <sup>[3](/bible/genesis/18#v3)</sup> And said, My Lord, if now I have found favour in thy sight, pass not away, I pray thee, from thy servant:
->
-> <sup>[4](/bible/genesis/18#v4)</sup> Let a little water, I pray you, be fetched, and wash your feet, and rest yourselves under the tree:
->
-> <sup>[5](/bible/genesis/18#v5)</sup> And I will fetch a morsel of bread, and comfort ye your hearts; after that ye shall pass on: for therefore are ye come to your servant. And they said, So do, as thou hast said.
->
-> <sup>[6](/bible/genesis/18#v6)</sup> And Abraham hastened into the tent unto Sarah, and said, Make ready quickly three measures of fine meal, knead it, and make cakes upon the hearth.
->
-> <sup>[7](/bible/genesis/18#v7)</sup> And Abraham ran unto the herd, and fetcht a calf tender and good, and gave it unto a young man; and he hasted to dress it.
->
-> <sup>[8](/bible/genesis/18#v8)</sup> And he took butter, and milk, and the calf which he had dressed, and set it before them; and he stood by them under the tree, and they did eat.
->
-> <sup>[9](/bible/genesis/18#v9)</sup> And they said unto him, Where is Sarah thy wife? And he said, Behold, in the tent.
->
-> <sup>[10](/bible/genesis/18#v10)</sup> And he said, I will certainly return unto thee according to the time of life; and, lo, Sarah thy wife shall have a son. And Sarah heard it in the tent door, which was behind him.
->
-> <sup>[11](/bible/genesis/18#v11)</sup> Now Abraham and Sarah were old and well stricken in age; and it ceased to be with Sarah after the manner of women.
->
-> <sup>[12](/bible/genesis/18#v12)</sup> Therefore Sarah laughed within herself, saying, After I am waxed old shall I have pleasure, my lord being old also?
->
-> <sup>[13](/bible/genesis/18#v13)</sup> And the Lord said unto Abraham, Wherefore did Sarah laugh, saying, Shall I of a surety bear a child, which am old?
->
-> <sup>[14](/bible/genesis/18#v14)</sup> Is any thing too hard for the Lord? At the time appointed I will return unto thee, according to the time of life, and Sarah shall have a son.
->
-> <sup>[15](/bible/genesis/18#v15)</sup> Then Sarah denied, saying, I laughed not; for she was afraid. And he said, Nay; but thou didst laugh.
 
 - And the Lord appeared unto him in the plains of Mamre: and he sat in the tent door in the heat of the day; and he lift up his eyes and looked, and, lo, three men stood by him. So listen to what it said. It said the Lord appeared unto him in Mamre, and then who came? Three men stood by him. So it was not physically the Most High God or the Messiah. The Lord could appear as men.
 
@@ -641,7 +613,51 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 
 - So the lie that Sarah told — I do not want to say a white lie, because it is still a lie, but she was afraid. She lied out of fear. Like Deacon Malachi said, in one of the schools we had a girl lie on one of the men. We had to go back and rewind the tape. She said that he touched her, and when we rewound the tape he was nowhere in her vicinity. That is the type of lie that Deacon Malachi is talking about. That is a wicked, despicable woman. When we rewound the tape, it was nothing like how she was saying. So you know that a seed of evil has been planted inside of you, if you sat down and you thought that up: I am going to tell them he touched me even though he did not touch me. And there are cameras all over to prove her wrong. That is a wicked person.
 
+> <sup>[2](/bible/genesis/18#v2)</sup> And he lift up his eyes and looked, and, lo, three men stood by him: and when he saw them, he ran to meet them from the tent door, and bowed himself toward the ground,
+>
+> <sup>[3](/bible/genesis/18#v3)</sup> And said, My Lord, if now I have found favour in thy sight, pass not away, I pray thee, from thy servant:
+>
+> <sup>[4](/bible/genesis/18#v4)</sup> Let a little water, I pray you, be fetched, and wash your feet, and rest yourselves under the tree:
+>
+> <sup>[5](/bible/genesis/18#v5)</sup> And I will fetch a morsel of bread, and comfort ye your hearts; after that ye shall pass on: for therefore are ye come to your servant. And they said, So do, as thou hast said.
+>
+> <sup>[6](/bible/genesis/18#v6)</sup> And Abraham hastened into the tent unto Sarah, and said, Make ready quickly three measures of fine meal, knead it, and make cakes upon the hearth.
+>
+> <sup>[7](/bible/genesis/18#v7)</sup> And Abraham ran unto the herd, and fetcht a calf tender and good, and gave it unto a young man; and he hasted to dress it.
+>
+> <sup>[8](/bible/genesis/18#v8)</sup> And he took butter, and milk, and the calf which he had dressed, and set it before them; and he stood by them under the tree, and they did eat.
+>
+> <sup>[9](/bible/genesis/18#v9)</sup> And they said unto him, Where is Sarah thy wife? And he said, Behold, in the tent.
+>
+> <sup>[10](/bible/genesis/18#v10)</sup> And he said, I will certainly return unto thee according to the time of life; and, lo, Sarah thy wife shall have a son. And Sarah heard it in the tent door, which was behind him.
+>
+> <sup>[11](/bible/genesis/18#v11)</sup> Now Abraham and Sarah were old and well stricken in age; and it ceased to be with Sarah after the manner of women.
+>
+> <sup>[12](/bible/genesis/18#v12)</sup> Therefore Sarah laughed within herself, saying, After I am waxed old shall I have pleasure, my lord being old also?
+>
+> <sup>[13](/bible/genesis/18#v13)</sup> And the Lord said unto Abraham, Wherefore did Sarah laugh, saying, Shall I of a surety bear a child, which am old?
+>
+> <sup>[14](/bible/genesis/18#v14)</sup> Is any thing too hard for the Lord? At the time appointed I will return unto thee, according to the time of life, and Sarah shall have a son.
+>
+> <sup>[15](/bible/genesis/18#v15)</sup> Then Sarah denied, saying, I laughed not; for she was afraid. And he said, Nay; but thou didst laugh.
+
 **[Genesis 18:16-33](/bible/genesis/18#v16)**  *[[1:42:07](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=6127s)]*
+
+- And the men rose up from thence, and looked toward Sodom, and Abraham went with them to bring them on the way. And the Lord said, Shall I hide from Abraham that thing which I do? Listen. The Lord came to tell Abraham that a child was going to be born at a hundred years old. But then they asked, shall I hide from Abraham that thing which I do? Destruction was coming. And they said, should we tell Abraham? Should we let him in on the secret? Because nobody knew that destruction was coming.
+
+- Seeing that Abraham shall surely become a great and mighty nation, and all the nations of the earth shall be blessed in him? For I know him. He said, I know him.
+
+- That he will command his children and his household after him. He is going to keep his house in order. The reason why the Lord said, yeah, you could tell him what is going on, is: he is righteous, I know him, he is going to have his house in order, you can let him in on the secret. He is not going to let no wickedness go on in his house. So that is why we are the way we are with your families. The angels that came to his house had to ask the Lord, should we let him know the secret of what is about to go down? And the answer was, this guy is good, he keeps his house in order, he is going to command his family, I know him.
+
+- How many of you can say that God knows you, and that information should be revealed unto you based on your walk and how you talk? That God should reveal secrets unto you.
+
+- And they shall keep the way of the Lord, to do justice and judgment; that the Lord may bring upon Abraham that which he hath spoken of him.
+
+- And the Lord said, Because the cry of Sodom and Gomorrah is great, and because their sin is very grievous; I will go down now, and see whether they have done altogether according to the cry of it, which is come unto me; and if not, I will know. And the men turned their faces from thence, and went toward Sodom. So they walked away from Abraham to go to Sodom.
+
+- But Abraham stood yet before the Lord. And Abraham drew near, and said, Wilt thou also destroy the righteous with the wicked? So they did not give him the information that everybody was going to get wiped out. And Abraham said, you are going to kill righteous people in the city also with the wicked?
+
+- Peradventure there be fifty righteous within the city. There are probably fifty people there that are walking in righteousness. The point that I am bringing out is, it is the same thing with us right now. We do not know who is keeping the commandments. We do not know who is in wickedness. Abraham thought that there were righteous people in the city, and there were none.
 
 > <sup>[16](/bible/genesis/18#v16)</sup> And the men rose up from thence, and looked toward Sodom: and Abraham went with them to bring them on the way.
 >
@@ -662,62 +678,36 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 > <sup>[24](/bible/genesis/18#v24)</sup> Peradventure there be fifty righteous within the city: wilt thou also destroy and not spare the place for the fifty righteous that are therein?
 >
 > <sup>[25](/bible/genesis/18#v25)</sup> That be far from thee to do after this manner, to slay the righteous with the wicked: and that the righteous should be as the wicked, that be far from thee: Shall not the Judge of all the earth do right?
->
-> <sup>[26](/bible/genesis/18#v26)</sup> And the Lord said, If I find in Sodom fifty righteous within the city, then I will spare all the place for their sakes.
->
-> <sup>[27](/bible/genesis/18#v27)</sup> And Abraham answered and said, Behold now, I have taken upon me to speak unto the Lord, which am but dust and ashes:
->
-> <sup>[28](/bible/genesis/18#v28)</sup> Peradventure there shall lack five of the fifty righteous: wilt thou destroy all the city for lack of five? And he said, If I find there forty and five, I will not destroy it.
->
-> <sup>[29](/bible/genesis/18#v29)</sup> And he spake unto him yet again, and said, Peradventure there shall be forty found there. And he said, I will not do it for forty’s sake.
->
-> <sup>[30](/bible/genesis/18#v30)</sup> And he said unto him, Oh let not the Lord be angry, and I will speak: Peradventure there shall thirty be found there. And he said, I will not do it, if I find thirty there.
->
-> <sup>[31](/bible/genesis/18#v31)</sup> And he said, Behold now, I have taken upon me to speak unto the Lord: Peradventure there shall be twenty found there. And he said, I will not destroy it for twenty’s sake.
->
-> <sup>[32](/bible/genesis/18#v32)</sup> And he said, Oh let not the Lord be angry, and I will speak yet but this once: Peradventure ten shall be found there. And he said, I will not destroy it for ten’s sake.
->
-> <sup>[33](/bible/genesis/18#v33)</sup> And the Lord went his way, as soon as he had left communing with Abraham: and Abraham returned unto his place.
-
-- And the men rose up from thence, and looked toward Sodom, and Abraham went with them to bring them on the way. And the Lord said, Shall I hide from Abraham that thing which I do? Listen. The Lord came to tell Abraham that a child was going to be born at a hundred years old. But then they asked, shall I hide from Abraham that thing which I do? Destruction was coming. And they said, should we tell Abraham? Should we let him in on the secret? Because nobody knew that destruction was coming.
-
-- Seeing that Abraham shall surely become a great and mighty nation, and all the nations of the earth shall be blessed in him? For I know him. He said, I know him.
-
-- That he will command his children and his household after him. He is going to keep his house in order. The reason why the Lord said, yeah, you could tell him what is going on, is: he is righteous, I know him, he is going to have his house in order, you can let him in on the secret. He is not going to let no wickedness go on in his house. So that is why we are the way we are with your families. The angels that came to his house had to ask the Lord, should we let him know the secret of what is about to go down? And the answer was, this guy is good, he keeps his house in order, he is going to command his family, I know him.
-
-- How many of you can say that God knows you, and that information should be revealed unto you based on your walk and how you talk? That God should reveal secrets unto you.
-
-- And they shall keep the way of the Lord, to do justice and judgment; that the Lord may bring upon Abraham that which he hath spoken of him.
-
-- And the Lord said, Because the cry of Sodom and Gomorrah is great, and because their sin is very grievous; I will go down now, and see whether they have done altogether according to the cry of it, which is come unto me; and if not, I will know. And the men turned their faces from thence, and went toward Sodom. So they walked away from Abraham to go to Sodom.
-
-- But Abraham stood yet before the Lord. And Abraham drew near, and said, Wilt thou also destroy the righteous with the wicked? So they did not give him the information that everybody was going to get wiped out. And Abraham said, you are going to kill righteous people in the city also with the wicked?
-
-- Peradventure there be fifty righteous within the city. There are probably fifty people there that are walking in righteousness. The point that I am bringing out is, it is the same thing with us right now. We do not know who is keeping the commandments. We do not know who is in wickedness. Abraham thought that there were righteous people in the city, and there were none.
 
 - Wilt thou also destroy and not spare the place for the fifty righteous that are therein? That be far from thee to do after this manner, to slay the righteous with the wicked: and that the righteous should be as the wicked, that be far from thee: Shall not the Judge of all the earth do right?
 
 - And the Lord said, If I find in Sodom fifty righteous within the city, then I will spare all the place for their sakes. He said, I will not kill nobody if you could bring me fifty righteous.
 
+> <sup>[26](/bible/genesis/18#v26)</sup> And the Lord said, If I find in Sodom fifty righteous within the city, then I will spare all the place for their sakes.
+>
+> <sup>[27](/bible/genesis/18#v27)</sup> And Abraham answered and said, Behold now, I have taken upon me to speak unto the Lord, which am but dust and ashes:
+
 - And Abraham answered and said, Behold now, I have taken upon me to speak unto the Lord, which am but dust and ashes: Peradventure there shall lack five of the fifty righteous: wilt thou destroy all the city for lack of five? And he said, If I find there forty and five, I will not destroy it. I will save it for forty-five people.
 
 - And he spake unto him yet again, and said, Peradventure there shall be forty found there. And he said, I will not do it for forty's sake. Notice he keeps lowering the number, and lowering the number.
 
+> <sup>[28](/bible/genesis/18#v28)</sup> Peradventure there shall lack five of the fifty righteous: wilt thou destroy all the city for lack of five? And he said, If I find there forty and five, I will not destroy it.
+>
+> <sup>[29](/bible/genesis/18#v29)</sup> And he spake unto him yet again, and said, Peradventure there shall be forty found there. And he said, I will not do it for forty’s sake.
+>
+> <sup>[30](/bible/genesis/18#v30)</sup> And he said unto him, Oh let not the Lord be angry, and I will speak: Peradventure there shall thirty be found there. And he said, I will not do it, if I find thirty there.
+
 - And he said unto him, Oh let not the Lord be angry, and I will speak: Peradventure there shall thirty be found there. And he said, I will not do it, if I find thirty there. And he said, Behold now, I have taken upon me to speak unto the Lord: Peradventure there shall be twenty found there. And he said, I will not destroy it for twenty's sake.
+
+> <sup>[31](/bible/genesis/18#v31)</sup> And he said, Behold now, I have taken upon me to speak unto the Lord: Peradventure there shall be twenty found there. And he said, I will not destroy it for twenty’s sake.
+>
+> <sup>[32](/bible/genesis/18#v32)</sup> And he said, Oh let not the Lord be angry, and I will speak yet but this once: Peradventure ten shall be found there. And he said, I will not destroy it for ten’s sake.
 
 - And he said, Oh let not the Lord be angry, and I will speak yet but this once: Peradventure ten shall be found there. And he said, I will not destroy it for ten's sake. And the Lord went his way, as soon as he had left communing with Abraham: and Abraham returned unto his place.
 
-**[Isaiah 13:1-5](/bible/isaiah/13#v1)**  *[[1:46:42](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=6402s)]*
+> <sup>[33](/bible/genesis/18#v33)</sup> And the Lord went his way, as soon as he had left communing with Abraham: and Abraham returned unto his place.
 
-> <sup>[1](/bible/isaiah/13#v1)</sup> The burden of Babylon, which Isaiah the son of Amoz did see.
->
-> <sup>[2](/bible/isaiah/13#v2)</sup> Lift ye up a banner upon the high mountain, exalt the voice unto them, shake the hand, that they may go into the gates of the nobles.
->
-> <sup>[3](/bible/isaiah/13#v3)</sup> I have commanded my sanctified ones, I have also called my mighty ones for mine anger, even them that rejoice in my highness.
->
-> <sup>[4](/bible/isaiah/13#v4)</sup> The noise of a multitude in the mountains, like as of a great people; a tumultuous noise of the kingdoms of nations gathered together: the Lord of hosts mustereth the host of the battle.
->
-> <sup>[5](/bible/isaiah/13#v5)</sup> They come from a far country, from the end of heaven, even the Lord, and the weapons of his indignation, to destroy the whole land.
+**[Isaiah 13:1-5](/bible/isaiah/13#v1)**  *[[1:46:42](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=6402s)]*
 
 - Because this is when God overthrew Sodom and Gomorrah, and the Bible keeps making reference to that.
 
@@ -727,53 +717,35 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 
 - I have commanded my sanctified ones. We have been sanctified with the word. I have also called my mighty ones, which are the angels. Because we do not have no might. We have been cleaned up. Angels do not have to be cleaned up. We were sanctified, and God called his mighty ones. For mine anger. God is angry at the way things are. Even them that rejoice in my highness.
 
+> <sup>[1](/bible/isaiah/13#v1)</sup> The burden of Babylon, which Isaiah the son of Amoz did see.
+>
+> <sup>[2](/bible/isaiah/13#v2)</sup> Lift ye up a banner upon the high mountain, exalt the voice unto them, shake the hand, that they may go into the gates of the nobles.
+>
+> <sup>[3](/bible/isaiah/13#v3)</sup> I have commanded my sanctified ones, I have also called my mighty ones for mine anger, even them that rejoice in my highness.
+>
+> <sup>[4](/bible/isaiah/13#v4)</sup> The noise of a multitude in the mountains, like as of a great people; a tumultuous noise of the kingdoms of nations gathered together: the Lord of hosts mustereth the host of the battle.
+
 - The noise of a multitude in the mountains, like as of a great people; a tumultuous noise of the kingdoms of nations gathered together: the Lord of hosts mustereth the host of the battle. God is gathering all the nations together to destroy them.
 
+> <sup>[5](/bible/isaiah/13#v5)</sup> They come from a far country, from the end of heaven, even the Lord, and the weapons of his indignation, to destroy the whole land.
+
 **[Isaiah 13:19-21](/bible/isaiah/13#v19)**  *[[1:48:28](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=6508s)]*
+
+- And Babylon, the glory of kingdoms, the beauty of the Chaldees' excellency, shall be as when God overthrew Sodom and Gomorrah. Because he burned that place up. America is modern-day Babylon. America is going to get burned up when God turns it up. And they do not know it. They are clueless. This is a secret. We understand this. We understand that there was an ancient Babylon taken over by the Persians and the Medes. Now there is a spiritual Babylon that is going to be just like when God overthrew Sodom and Gomorrah. He burned them up with fire.
 
 > <sup>[19](/bible/isaiah/13#v19)</sup> And Babylon, the glory of kingdoms, the beauty of the Chaldees’ excellency, shall be as when God overthrew Sodom and Gomorrah.
 >
 > <sup>[20](/bible/isaiah/13#v20)</sup> It shall never be inhabited, neither shall it be dwelt in from generation to generation: neither shall the Arabian pitch tent there; neither shall the shepherds make their fold there.
->
-> <sup>[21](/bible/isaiah/13#v21)</sup> But wild beasts of the desert shall lie there; and their houses shall be full of doleful creatures; and owls shall dwell there, and satyrs shall dance there.
-
-- And Babylon, the glory of kingdoms, the beauty of the Chaldees' excellency, shall be as when God overthrew Sodom and Gomorrah. Because he burned that place up. America is modern-day Babylon. America is going to get burned up when God turns it up. And they do not know it. They are clueless. This is a secret. We understand this. We understand that there was an ancient Babylon taken over by the Persians and the Medes. Now there is a spiritual Babylon that is going to be just like when God overthrew Sodom and Gomorrah. He burned them up with fire.
 
 - It shall never be inhabited, neither shall it be dwelt in from generation to generation: neither shall the Arabian pitch tent there; neither shall the shepherds make their fold there. But wild beasts of the desert shall lie there. It will be uninhabitable. America. Even Christ makes mention of that.
+
+> <sup>[21](/bible/isaiah/13#v21)</sup> But wild beasts of the desert shall lie there; and their houses shall be full of doleful creatures; and owls shall dwell there, and satyrs shall dance there.
 
 **[Luke 17:22-37](/bible/luke/17#v22)**  *[[1:53:15](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=6795s)]*
 
 > <sup>[22](/bible/luke/17#v22)</sup> And he said unto the disciples, The days will come, when ye shall desire to see one of the days of the Son of man, and ye shall not see it.
 >
 > <sup>[23](/bible/luke/17#v23)</sup> And they shall say to you, See here; or, see there: go not after them, nor follow them.
->
-> <sup>[24](/bible/luke/17#v24)</sup> For as the lightning, that lighteneth out of the one part under heaven, shineth unto the other part under heaven; so shall also the Son of man be in his day.
->
-> <sup>[25](/bible/luke/17#v25)</sup> But first must he suffer many things, and be rejected of this generation.
->
-> <sup>[26](/bible/luke/17#v26)</sup> And as it was in the days of Noe, so shall it be also in the days of the Son of man.
->
-> <sup>[27](/bible/luke/17#v27)</sup> They did eat, they drank, they married wives, they were given in marriage, until the day that Noe entered into the ark, and the flood came, and destroyed them all.
->
-> <sup>[28](/bible/luke/17#v28)</sup> Likewise also as it was in the days of Lot; they did eat, they drank, they bought, they sold, they planted, they builded;
->
-> <sup>[29](/bible/luke/17#v29)</sup> But the same day that Lot went out of Sodom it rained fire and brimstone from heaven, and destroyed them all.
->
-> <sup>[30](/bible/luke/17#v30)</sup> Even thus shall it be in the day when the Son of man is revealed.
->
-> <sup>[31](/bible/luke/17#v31)</sup> In that day, he which shall be upon the housetop, and his stuff in the house, let him not come down to take it away: and he that is in the field, let him likewise not return back.
->
-> <sup>[32](/bible/luke/17#v32)</sup> Remember Lot’s wife.
->
-> <sup>[33](/bible/luke/17#v33)</sup> Whosoever shall seek to save his life shall lose it; and whosoever shall lose his life shall preserve it.
->
-> <sup>[34](/bible/luke/17#v34)</sup> I tell you, in that night there shall be two men in one bed; the one shall be taken, and the other shall be left.
->
-> <sup>[35](/bible/luke/17#v35)</sup> Two women shall be grinding together; the one shall be taken, and the other left.
->
-> <sup>[36](/bible/luke/17#v36)</sup> Two men shall be in the field; the one shall be taken, and the other left.
->
-> <sup>[37](/bible/luke/17#v37)</sup> And they answered and said unto him, Where, Lord? And he said unto them, Wheresoever the body is, thither will the eagles be gathered together.
 
 - And he said unto the disciples, The days will come, when ye shall desire to see one of the days of the Son of man, and ye shall not see it. And they shall say to you, See here; or, see there: go not after them, nor follow them. People are going to try and mislead you in finding Christ. That is these religious denominations. They are trying to lead you down different paths to find Christ. We know he is the black Messiah that is going to set this earth on fire. So he is warning you, people are going to try to mislead you concerning Christ.
 
@@ -793,6 +765,22 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 
 - Even thus shall it be in the day when the Son of man is revealed. That is what we are waiting for. The Lord is telling us in advance that destruction is coming. He is letting us into his secret. He has got it written down in the Bible and people cannot see it. Only we can see it.
 
+> <sup>[24](/bible/luke/17#v24)</sup> For as the lightning, that lighteneth out of the one part under heaven, shineth unto the other part under heaven; so shall also the Son of man be in his day.
+>
+> <sup>[25](/bible/luke/17#v25)</sup> But first must he suffer many things, and be rejected of this generation.
+>
+> <sup>[26](/bible/luke/17#v26)</sup> And as it was in the days of Noe, so shall it be also in the days of the Son of man.
+>
+> <sup>[27](/bible/luke/17#v27)</sup> They did eat, they drank, they married wives, they were given in marriage, until the day that Noe entered into the ark, and the flood came, and destroyed them all.
+>
+> <sup>[28](/bible/luke/17#v28)</sup> Likewise also as it was in the days of Lot; they did eat, they drank, they bought, they sold, they planted, they builded;
+>
+> <sup>[29](/bible/luke/17#v29)</sup> But the same day that Lot went out of Sodom it rained fire and brimstone from heaven, and destroyed them all.
+>
+> <sup>[30](/bible/luke/17#v30)</sup> Even thus shall it be in the day when the Son of man is revealed.
+>
+> <sup>[31](/bible/luke/17#v31)</sup> In that day, he which shall be upon the housetop, and his stuff in the house, let him not come down to take it away: and he that is in the field, let him likewise not return back.
+
 - In that day, he which shall be upon the housetop, and his stuff in the house, let him not come down to take it away: and he that is in the field, let him likewise not return back. Remember Lot's wife. Whosoever shall seek to save his life shall lose it.
 
 - She was not prepared. She did not even have time to wrap her mind around it. Imagine you wake up from one day to the next and there are people telling you, look, I am going to burn up this entire city, I am going to give you some time to get out. I know what you all are going to be thinking. Let me call my mother, my auntie, let me call my friend. The angels are like, no. They are not giving them no time to prepare nothing. It is just like the military. Remember I told you to watch the movie House of Dynamite. Did those people have time to warn anybody? The woman just got on the phone and she said, honey, where are the kids? Just get in the car and just drive. He was like, what are you talking about? She just hung up the phone on him. Destruction was coming. And all she did was call her husband and say, get the child and get in the car and leave. That is the same thing that happened with Lot. He did not have no time to prepare. Abraham was let in on the secret, but Lot was not. The angel just came and got him because he was Abraham's nephew.
@@ -808,6 +796,18 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 - This is the biggest secret on the earth, that a nuclear war is coming and millions of people are going to die. The world will never be the same. And you know that secret, because you all take this ministry for a joke. You all take it like, oh, you are just an Israelite, you put some fringes on, you grew your beard, you are just going through the motions until this day comes.
 
 - And they answered and said unto him, Where, Lord? They said, where is this going to happen? And he said unto them, Wheresoever the body is, thither will the eagles be gathered together. Because remember, in Revelation it said there is going to be a big feast to clean up the dead. That is America. Christ was talking about America being uninhabitable. America is going to get all the nukes. The disciples said, where is this going to happen? And it tells us in Revelation that the eagles are going to have a great feast in Babylon. That is America. That is where this is going to take place. And these are the secrets that the Most High is revealing to us for being a part of this ministry.
+
+> <sup>[32](/bible/luke/17#v32)</sup> Remember Lot’s wife.
+>
+> <sup>[33](/bible/luke/17#v33)</sup> Whosoever shall seek to save his life shall lose it; and whosoever shall lose his life shall preserve it.
+>
+> <sup>[34](/bible/luke/17#v34)</sup> I tell you, in that night there shall be two men in one bed; the one shall be taken, and the other shall be left.
+>
+> <sup>[35](/bible/luke/17#v35)</sup> Two women shall be grinding together; the one shall be taken, and the other left.
+>
+> <sup>[36](/bible/luke/17#v36)</sup> Two men shall be in the field; the one shall be taken, and the other left.
+>
+> <sup>[37](/bible/luke/17#v37)</sup> And they answered and said unto him, Where, Lord? And he said unto them, Wheresoever the body is, thither will the eagles be gathered together.
 
 **[2 Peter 2:1-5](/bible/2-peter/2#v1)**  *[[1:59:59](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=7199s)]*
 
@@ -837,6 +837,16 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 
 **[Genesis 6:1-14](/bible/genesis/6#v1)**  *[[2:04:29](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=7469s)]*
 
+- And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them, that the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose. They started to lust after the women. How do we know? Look what was written next.
+
+- And the Lord said, My spirit shall not always strive with man. When we go against God's spirit, he causes strife. For that he also is flesh. In the flesh we want to do what feels best. They were lusting after the women and not following the spiritual instructions of the Most High to multiply.
+
+- Yet his days shall be an hundred and twenty years. So God cut our lifespan short there. The age limit now was a hundred and twenty. If you read before that, we were living five hundred, six hundred, seven hundred. Methuselah was the oldest documented age, nine hundred plus.
+
+- And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually. And it repented the Lord that he had made man on the earth, and it grieved him at his heart. And the Lord said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them.
+
+- But Noah found grace in the eyes of the Lord. Noah was exceptional.
+
 > <sup>[1](/bible/genesis/6#v1)</sup> And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,
 >
 > <sup>[2](/bible/genesis/6#v2)</sup> That the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose.
@@ -854,26 +864,6 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 > <sup>[8](/bible/genesis/6#v8)</sup> But Noah found grace in the eyes of the Lord.
 >
 > <sup>[9](/bible/genesis/6#v9)</sup> These are the generations of Noah: Noah was a just man and perfect in his generations, and Noah walked with God.
->
-> <sup>[10](/bible/genesis/6#v10)</sup> And Noah begat three sons, Shem, Ham, and Japheth.
->
-> <sup>[11](/bible/genesis/6#v11)</sup> The earth also was corrupt before God, and the earth was filled with violence.
->
-> <sup>[12](/bible/genesis/6#v12)</sup> And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth.
->
-> <sup>[13](/bible/genesis/6#v13)</sup> And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.
->
-> <sup>[14](/bible/genesis/6#v14)</sup> Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.
-
-- And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them, that the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose. They started to lust after the women. How do we know? Look what was written next.
-
-- And the Lord said, My spirit shall not always strive with man. When we go against God's spirit, he causes strife. For that he also is flesh. In the flesh we want to do what feels best. They were lusting after the women and not following the spiritual instructions of the Most High to multiply.
-
-- Yet his days shall be an hundred and twenty years. So God cut our lifespan short there. The age limit now was a hundred and twenty. If you read before that, we were living five hundred, six hundred, seven hundred. Methuselah was the oldest documented age, nine hundred plus.
-
-- And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually. And it repented the Lord that he had made man on the earth, and it grieved him at his heart. And the Lord said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them.
-
-- But Noah found grace in the eyes of the Lord. Noah was exceptional.
 
 - These are the generations of Noah: Noah was a just man and perfect in his generations. He was keeping the commandments. And Noah walked with God. And Noah begat three sons, Shem, Ham, and Japheth.
 
@@ -891,7 +881,31 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 
 - And the earth was filled with violence. But we always have got to put emphasis on that violence. People were marrying and giving in marriage and so forth, yes. But there was violence, wars taking place, and the Lord said, this is too much, I have got to intervene.
 
+> <sup>[10](/bible/genesis/6#v10)</sup> And Noah begat three sons, Shem, Ham, and Japheth.
+>
+> <sup>[11](/bible/genesis/6#v11)</sup> The earth also was corrupt before God, and the earth was filled with violence.
+>
+> <sup>[12](/bible/genesis/6#v12)</sup> And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth.
+>
+> <sup>[13](/bible/genesis/6#v13)</sup> And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.
+>
+> <sup>[14](/bible/genesis/6#v14)</sup> Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.
+
 **[Genesis 19:1-22](/bible/genesis/19#v1)**  *[[2:11:57](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=7917s)]*
+
+- And there came two angels to Sodom at even; and Lot sat in the gate of Sodom. We just read about that with Abraham. The same thing happened with Lot. Two angels now come to him.
+
+- And Lot seeing them rose up to meet them; and he bowed himself with his face toward the ground. They just popped up. Lot knew who they were. Same thing with Abraham. Abraham knew who they were, told his wife, go get a calf, come on, let us feed them.
+
+- And he said, Behold now, my lords, turn in, I pray you, into your servant's house, and tarry all night, and wash your feet, and ye shall rise up early, and go on your ways. And they said, Nay; but we will abide in the street all night. And he pressed upon them greatly; and they turned in unto him, and entered into his house; and he made them a feast, and did bake unleavened bread, and they did eat.
+
+- But before they lay down, the men of the city, even the men of Sodom, compassed the house round. Could you imagine all the men surrounding the house, and you just brought these angels into your house to sit down and eat? Both old and young, all the people from every quarter.
+
+- And they called unto Lot, and said unto him, Where are the men which came in to thee this night? bring them out unto us, that we may know them. Just like America is turning into the same thing. You are seeing them young, you are seeing them old. They were watching to see who came into the man of God's house, and they wanted to have sex with them. They saw the angels, and they said, we are going to rape these angels. That is some wicked stuff right there.
+
+- Now guess what, the same spirit is alive here in America. You brothers better work out. You know how they rape women, how women get took out back. From time to time you hear about women getting raped. You are going to start to hear that dudes are getting raped. That is how bad the time we are living in is. So make sure you work out and get them muscles up. That spirit is back. You do not hear none of the churches bringing it out or pointing it out. They say we are evil for explaining this to our people.
+
+- And Lot went out at the door unto them, and shut the door after him, and said, I pray you, brethren, do not so wickedly. Behold now, I have two daughters which have not known man; let me, I pray you, bring them out unto you, and do ye to them as is good in your eyes. Every man wants to be with a virgin. They said, no, we do not want that.
 
 > <sup>[1](/bible/genesis/19#v1)</sup> And there came two angels to Sodom at even; and Lot sat in the gate of Sodom: and Lot seeing them rose up to meet them; and he bowed himself with his face toward the ground;
 >
@@ -910,13 +924,29 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 > <sup>[8](/bible/genesis/19#v8)</sup> Behold now, I have two daughters which have not known man; let me, I pray you, bring them out unto you, and do ye to them as is good in your eyes: only unto these men do nothing; for therefore came they under the shadow of my roof.
 >
 > <sup>[9](/bible/genesis/19#v9)</sup> And they said, Stand back. And they said again, This one fellow came in to sojourn, and he will needs be a judge: now will we deal worse with thee, than with them. And they pressed sore upon the man, even Lot, and came near to break the door.
->
+
+- Only unto these men do nothing; for therefore came they under the shadow of my roof. And they said, Stand back. And they said again, This one fellow came in to sojourn, and he will needs be a judge: now will we deal worse with thee, than with them. They said, we are going to do worse to you than what we were going to do to the angels.
+
+- This is how sick that spirit is. That sodomite spirit is crazy. When you see people like that, they are not normal. There is something else behind it. This level of violence comes behind it. Because that is not what man was made for. God did not design it to be that way. So you have to have on your mind some level of aggression and evil to say you want to commence with that.
+
+- And they pressed sore upon the man, even Lot, and came near to break the door. They were ready to break the door down.
+
+- But the men put forth their hand, and pulled Lot into the house to them, and shut to the door. And they smote the men that were at the door of the house with blindness. The angels had to put blindness on them so they could not find the door. Both small and great: so that they wearied themselves to find the door. They would not go home. You would think after they could not get in they would leave. No. That is an evil spirit, to want to go after men that badly. Something is mentally wrong with you.
+
 > <sup>[10](/bible/genesis/19#v10)</sup> But the men put forth their hand, and pulled Lot into the house to them, and shut to the door.
 >
 > <sup>[11](/bible/genesis/19#v11)</sup> And they smote the men that were at the door of the house with blindness, both small and great: so that they wearied themselves to find the door.
 >
 > <sup>[12](/bible/genesis/19#v12)</sup> And the men said unto Lot, Hast thou here any besides? son in law, and thy sons, and thy daughters, and whatsoever thou hast in the city, bring them out of this place:
->
+
+- And the men said unto Lot, Hast thou here any besides? son in law, and thy sons, and thy daughters, and whatsoever thou hast in the city, bring them out of this place: for we will destroy this place, because the cry of them is waxen great before the face of the Lord; and the Lord hath sent us to destroy it.
+
+- And Lot went out, and spake unto his sons in law, which married his daughters, and said, Up, get you out of this place; for the Lord will destroy this city. But he seemed as one that mocked unto his sons in law. They mocked him. They were like, God is not going to destroy it. You will have people around you in your house that do not see what you see spiritually, and they are not going to take you seriously. Do not assume that everybody is as spiritual as you are.
+
+- And when the morning arose, then the angels hastened Lot, saying, Arise, take thy wife, and thy two daughters, which are here; lest thou be consumed in the iniquity of the city. And while he lingered — Lot was taking his time, it said while he lingered — the men laid hold upon his hand. They snatched him up. And upon the hand of his wife, and upon the hand of his two daughters; the Lord being merciful unto him: and they brought him forth, and set him without the city.
+
+- And it came to pass, when they had brought them forth abroad, that he said, Escape for thy life; look not behind thee, neither stay thou in all the plain; escape to the mountain, lest thou be consumed.
+
 > <sup>[13](/bible/genesis/19#v13)</sup> For we will destroy this place, because the cry of them is waxen great before the face of the Lord; and the Lord hath sent us to destroy it.
 >
 > <sup>[14](/bible/genesis/19#v14)</sup> And Lot went out, and spake unto his sons in law, which married his daughters, and said, Up, get you out of this place; for the Lord will destroy this city. But he seemed as one that mocked unto his sons in law.
@@ -928,7 +958,13 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 > <sup>[17](/bible/genesis/19#v17)</sup> And it came to pass, when they had brought them forth abroad, that he said, Escape for thy life; look not behind thee, neither stay thou in all the plain; escape to the mountain, lest thou be consumed.
 >
 > <sup>[18](/bible/genesis/19#v18)</sup> And Lot said unto them, Oh, not so, my Lord:
->
+
+- And Lot said unto them, Oh, not so, my Lord: behold now, thy servant hath found grace in thy sight, and thou hast magnified thy mercy, which thou hast shewed unto me in saving my life; and I cannot escape to the mountain, lest some evil take me, and I die. Behold now, this city is near to flee unto, and it is a little one: Oh, let me escape thither, and my soul shall live.
+
+- And he said unto him, See, I have accepted thee concerning this thing also, that I will not overthrow this city, for the which thou hast spoken. Haste thee, escape thither; for I cannot do any thing till thou be come thither.
+
+- So again, he had exclusive information to help him with salvation. Get your wife and your daughters and go, I am about to burn this place up. He did not warn anybody else in the city. Same thing with Abraham. The angel said, could we tell him what is about to happen? So that is how the Lord works. So for us today, in this day and age, we know that this place is going to be destroyed, for the same things that we read about in Noah's time, the same thing that we read about in Abraham's time, the same thing that was going on in the city of Lot. You are in a secret place of the Most High. And that is a beautiful place to be. So do not take this Bible or this ministry for a joke.
+
 > <sup>[19](/bible/genesis/19#v19)</sup> Behold now, thy servant hath found grace in thy sight, and thou hast magnified thy mercy, which thou hast shewed unto me in saving my life; and I cannot escape to the mountain, lest some evil take me, and I die:
 >
 > <sup>[20](/bible/genesis/19#v20)</sup> Behold now, this city is near to flee unto, and it is a little one: Oh, let me escape thither, (is it not a little one?) and my soul shall live.
@@ -937,43 +973,17 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 >
 > <sup>[22](/bible/genesis/19#v22)</sup> Haste thee, escape thither; for I cannot do any thing till thou be come thither. Therefore the name of the city was called Zoar.
 
-- And there came two angels to Sodom at even; and Lot sat in the gate of Sodom. We just read about that with Abraham. The same thing happened with Lot. Two angels now come to him.
-
-- And Lot seeing them rose up to meet them; and he bowed himself with his face toward the ground. They just popped up. Lot knew who they were. Same thing with Abraham. Abraham knew who they were, told his wife, go get a calf, come on, let us feed them.
-
-- And he said, Behold now, my lords, turn in, I pray you, into your servant's house, and tarry all night, and wash your feet, and ye shall rise up early, and go on your ways. And they said, Nay; but we will abide in the street all night. And he pressed upon them greatly; and they turned in unto him, and entered into his house; and he made them a feast, and did bake unleavened bread, and they did eat.
-
-- But before they lay down, the men of the city, even the men of Sodom, compassed the house round. Could you imagine all the men surrounding the house, and you just brought these angels into your house to sit down and eat? Both old and young, all the people from every quarter.
-
-- And they called unto Lot, and said unto him, Where are the men which came in to thee this night? bring them out unto us, that we may know them. Just like America is turning into the same thing. You are seeing them young, you are seeing them old. They were watching to see who came into the man of God's house, and they wanted to have sex with them. They saw the angels, and they said, we are going to rape these angels. That is some wicked stuff right there.
-
-- Now guess what, the same spirit is alive here in America. You brothers better work out. You know how they rape women, how women get took out back. From time to time you hear about women getting raped. You are going to start to hear that dudes are getting raped. That is how bad the time we are living in is. So make sure you work out and get them muscles up. That spirit is back. You do not hear none of the churches bringing it out or pointing it out. They say we are evil for explaining this to our people.
-
-- And Lot went out at the door unto them, and shut the door after him, and said, I pray you, brethren, do not so wickedly. Behold now, I have two daughters which have not known man; let me, I pray you, bring them out unto you, and do ye to them as is good in your eyes. Every man wants to be with a virgin. They said, no, we do not want that.
-
-- Only unto these men do nothing; for therefore came they under the shadow of my roof. And they said, Stand back. And they said again, This one fellow came in to sojourn, and he will needs be a judge: now will we deal worse with thee, than with them. They said, we are going to do worse to you than what we were going to do to the angels.
-
-- This is how sick that spirit is. That sodomite spirit is crazy. When you see people like that, they are not normal. There is something else behind it. This level of violence comes behind it. Because that is not what man was made for. God did not design it to be that way. So you have to have on your mind some level of aggression and evil to say you want to commence with that.
-
-- And they pressed sore upon the man, even Lot, and came near to break the door. They were ready to break the door down.
-
-- But the men put forth their hand, and pulled Lot into the house to them, and shut to the door. And they smote the men that were at the door of the house with blindness. The angels had to put blindness on them so they could not find the door. Both small and great: so that they wearied themselves to find the door. They would not go home. You would think after they could not get in they would leave. No. That is an evil spirit, to want to go after men that badly. Something is mentally wrong with you.
-
-- And the men said unto Lot, Hast thou here any besides? son in law, and thy sons, and thy daughters, and whatsoever thou hast in the city, bring them out of this place: for we will destroy this place, because the cry of them is waxen great before the face of the Lord; and the Lord hath sent us to destroy it.
-
-- And Lot went out, and spake unto his sons in law, which married his daughters, and said, Up, get you out of this place; for the Lord will destroy this city. But he seemed as one that mocked unto his sons in law. They mocked him. They were like, God is not going to destroy it. You will have people around you in your house that do not see what you see spiritually, and they are not going to take you seriously. Do not assume that everybody is as spiritual as you are.
-
-- And when the morning arose, then the angels hastened Lot, saying, Arise, take thy wife, and thy two daughters, which are here; lest thou be consumed in the iniquity of the city. And while he lingered — Lot was taking his time, it said while he lingered — the men laid hold upon his hand. They snatched him up. And upon the hand of his wife, and upon the hand of his two daughters; the Lord being merciful unto him: and they brought him forth, and set him without the city.
-
-- And it came to pass, when they had brought them forth abroad, that he said, Escape for thy life; look not behind thee, neither stay thou in all the plain; escape to the mountain, lest thou be consumed.
-
-- And Lot said unto them, Oh, not so, my Lord: behold now, thy servant hath found grace in thy sight, and thou hast magnified thy mercy, which thou hast shewed unto me in saving my life; and I cannot escape to the mountain, lest some evil take me, and I die. Behold now, this city is near to flee unto, and it is a little one: Oh, let me escape thither, and my soul shall live.
-
-- And he said unto him, See, I have accepted thee concerning this thing also, that I will not overthrow this city, for the which thou hast spoken. Haste thee, escape thither; for I cannot do any thing till thou be come thither.
-
-- So again, he had exclusive information to help him with salvation. Get your wife and your daughters and go, I am about to burn this place up. He did not warn anybody else in the city. Same thing with Abraham. The angel said, could we tell him what is about to happen? So that is how the Lord works. So for us today, in this day and age, we know that this place is going to be destroyed, for the same things that we read about in Noah's time, the same thing that we read about in Abraham's time, the same thing that was going on in the city of Lot. You are in a secret place of the Most High. And that is a beautiful place to be. So do not take this Bible or this ministry for a joke.
-
 **[Numbers 12:1-9](/bible/numbers/12#v1)**  *[[2:21:40](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=8500s)]*
+
+- We covered Abraham, Noah, Lot. Now we are going to do Moses real quick.
+
+- And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married. It was in the law not to be with the heathen. For he had married an Ethiopian woman.
+
+- And they said, Hath the Lord indeed spoken only by Moses? They thought they were on the same level as Moses. Hath he not spoken also by us? And the Lord heard it.
+
+- Now the man Moses was very meek, above all the men which were upon the face of the earth. Meaning whatever God said to do, he would do it. Moses did not go against God. That is what meek means.
+
+- And the Lord spake suddenly unto Moses, and unto Aaron, and unto Miriam, Come out ye three unto the tabernacle of the congregation. And they three came out. And the Lord came down in the pillar of the cloud, and stood in the door of the tabernacle, and called Aaron and Miriam: and they both came forth.
 
 > <sup>[1](/bible/numbers/12#v1)</sup> And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.
 >
@@ -986,26 +996,14 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 > <sup>[5](/bible/numbers/12#v5)</sup> And the Lord came down in the pillar of the cloud, and stood in the door of the tabernacle, and called Aaron and Miriam: and they both came forth.
 >
 > <sup>[6](/bible/numbers/12#v6)</sup> And he said, Hear now my words: If there be a prophet among you, I the Lord will make myself known unto him in a vision, and will speak unto him in a dream.
->
-> <sup>[7](/bible/numbers/12#v7)</sup> My servant Moses is not so, who is faithful in all mine house.
->
-> <sup>[8](/bible/numbers/12#v8)</sup> With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the similitude of the Lord shall he behold: wherefore then were ye not afraid to speak against my servant Moses?
->
-> <sup>[9](/bible/numbers/12#v9)</sup> And the anger of the Lord was kindled against them; and he departed.
-
-- We covered Abraham, Noah, Lot. Now we are going to do Moses real quick.
-
-- And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married. It was in the law not to be with the heathen. For he had married an Ethiopian woman.
-
-- And they said, Hath the Lord indeed spoken only by Moses? They thought they were on the same level as Moses. Hath he not spoken also by us? And the Lord heard it.
-
-- Now the man Moses was very meek, above all the men which were upon the face of the earth. Meaning whatever God said to do, he would do it. Moses did not go against God. That is what meek means.
-
-- And the Lord spake suddenly unto Moses, and unto Aaron, and unto Miriam, Come out ye three unto the tabernacle of the congregation. And they three came out. And the Lord came down in the pillar of the cloud, and stood in the door of the tabernacle, and called Aaron and Miriam: and they both came forth.
 
 - And he said, Hear now my words: If there be a prophet among you, I the Lord will make myself known unto him in a vision, and will speak unto him in a dream. My servant Moses is not so. I do not deal with Moses the way I deal with you. The other prophets, I send them visions and dreams. Moses is in an exclusive place with me.
 
 - Who is faithful in all mine house. With him will I speak mouth to mouth. If Moses is with that woman, I okayed it. Me and him speak mouth to mouth.
+
+> <sup>[7](/bible/numbers/12#v7)</sup> My servant Moses is not so, who is faithful in all mine house.
+>
+> <sup>[8](/bible/numbers/12#v8)</sup> With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the similitude of the Lord shall he behold: wherefore then were ye not afraid to speak against my servant Moses?
 
 - Even apparently, and not in dark speeches; and the similitude of the Lord shall he behold: wherefore then were ye not afraid to speak against my servant Moses? And the anger of the Lord was kindled against them; and he departed.
 
@@ -1013,7 +1011,19 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 
 - It is the same thing with the Israelite camps. The Lord ain't dealing with all the Israelite camps the same. He reveals some information to some, and all he lets the other ones know is, you are an Israelite. They do not understand no prophecy. Same thing with all these religious denominations that you see out here. Methodists, Baptists, Catholic, Jehovah's. They do not know no prophecy. They do not know nothing spiritual about the Bible. That is why they teach theology and prosperity teaching. Now they are challenging us because the Most High blessed our teachers, our leaders. He opened up their eyes and showed us the secrets of the Bible, and now we are starting to rise. So now they are mad at us, because the God of Abraham, Isaac and Jacob showed us the secrets. And now people are questioning where they are in these religious organisations.
 
+> <sup>[9](/bible/numbers/12#v9)</sup> And the anger of the Lord was kindled against them; and he departed.
+
 **[1 Samuel 3:1-18](/bible/1-samuel/3#v1)**  *[[2:24:46](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=8686s)]*
+
+- And the child Samuel ministered unto the Lord before Eli. And the word of the Lord was precious in those days; there was no open vision. So the priests were not seeing visions. He said there was no open vision.
+
+- And it came to pass at that time, when Eli was laid down in his place, and his eyes began to wax dim, that he could not see; and ere the lamp of God went out in the temple of the Lord, where the ark of God was, and Samuel was laid down to sleep; that the Lord called Samuel: and he answered, Here am I.
+
+- And he ran unto Eli, and said, Here am I; for thou calledst me. And he said, I called not; lie down again. And he went and lay down. And the Lord called yet again, Samuel. And Samuel arose and went to Eli, and said, Here am I; for thou didst call me. And he answered, I called not, my son; lie down again.
+
+- Now Samuel did not yet know the Lord, neither was the word of the Lord yet revealed unto him. And the Lord called Samuel again the third time. And he arose and went to Eli, and said, Here am I; for thou didst call me. And Eli perceived that the Lord had called the child. So Samuel kept thinking that Eli was calling him. No, it was the Lord calling him. So Eli the priest said, the Most High is dealing with him.
+
+- Remember, Samuel's mom, Hannah, sent him to the priest with priestly clothing as a little kid. Samuel is a grown man now. And it took him a while to be a part of the priesthood for God to start dealing directly with him in an exclusive place, like he did with Moses.
 
 > <sup>[1](/bible/1-samuel/3#v1)</sup> And the child Samuel ministered unto the Lord before Eli. And the word of the Lord was precious in those days; there was no open vision.
 >
@@ -1032,34 +1042,6 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 > <sup>[8](/bible/1-samuel/3#v8)</sup> And the Lord called Samuel again the third time. And he arose and went to Eli, and said, Here am I; for thou didst call me. And Eli perceived that the Lord had called the child.
 >
 > <sup>[9](/bible/1-samuel/3#v9)</sup> Therefore Eli said unto Samuel, Go, lie down: and it shall be, if he call thee, that thou shalt say, Speak, Lord; for thy servant heareth. So Samuel went and lay down in his place.
->
-> <sup>[10](/bible/1-samuel/3#v10)</sup> And the Lord came, and stood, and called as at other times, Samuel, Samuel. Then Samuel answered, Speak; for thy servant heareth.
->
-> <sup>[11](/bible/1-samuel/3#v11)</sup> And the Lord said to Samuel, Behold, I will do a thing in Israel, at which both the ears of every one that heareth it shall tingle.
->
-> <sup>[12](/bible/1-samuel/3#v12)</sup> In that day I will perform against Eli all things which I have spoken concerning his house: when I begin, I will also make an end.
->
-> <sup>[13](/bible/1-samuel/3#v13)</sup> For I have told him that I will judge his house for ever for the iniquity which he knoweth; because his sons made themselves vile, and he restrained them not.
->
-> <sup>[14](/bible/1-samuel/3#v14)</sup> And therefore I have sworn unto the house of Eli, that the iniquity of Eli’s house shall not be purged with sacrifice nor offering for ever.
->
-> <sup>[15](/bible/1-samuel/3#v15)</sup> And Samuel lay until the morning, and opened the doors of the house of the Lord. And Samuel feared to shew Eli the vision.
->
-> <sup>[16](/bible/1-samuel/3#v16)</sup> Then Eli called Samuel, and said, Samuel, my son. And he answered, Here am I.
->
-> <sup>[17](/bible/1-samuel/3#v17)</sup> And he said, What is the thing that the Lord hath said unto thee? I pray thee hide it not from me: God do so to thee, and more also, if thou hide any thing from me of all the things that he said unto thee.
->
-> <sup>[18](/bible/1-samuel/3#v18)</sup> And Samuel told him every whit, and hid nothing from him. And he said, It is the Lord: let him do what seemeth him good.
-
-- And the child Samuel ministered unto the Lord before Eli. And the word of the Lord was precious in those days; there was no open vision. So the priests were not seeing visions. He said there was no open vision.
-
-- And it came to pass at that time, when Eli was laid down in his place, and his eyes began to wax dim, that he could not see; and ere the lamp of God went out in the temple of the Lord, where the ark of God was, and Samuel was laid down to sleep; that the Lord called Samuel: and he answered, Here am I.
-
-- And he ran unto Eli, and said, Here am I; for thou calledst me. And he said, I called not; lie down again. And he went and lay down. And the Lord called yet again, Samuel. And Samuel arose and went to Eli, and said, Here am I; for thou didst call me. And he answered, I called not, my son; lie down again.
-
-- Now Samuel did not yet know the Lord, neither was the word of the Lord yet revealed unto him. And the Lord called Samuel again the third time. And he arose and went to Eli, and said, Here am I; for thou didst call me. And Eli perceived that the Lord had called the child. So Samuel kept thinking that Eli was calling him. No, it was the Lord calling him. So Eli the priest said, the Most High is dealing with him.
-
-- Remember, Samuel's mom, Hannah, sent him to the priest with priestly clothing as a little kid. Samuel is a grown man now. And it took him a while to be a part of the priesthood for God to start dealing directly with him in an exclusive place, like he did with Moses.
 
 - Therefore Eli said unto Samuel, Go, lie down: and it shall be, if he call thee, that thou shalt say, Speak, Lord; for thy servant heareth. So Samuel went and lay down in his place. And the Lord came, and stood, and called as at other times, Samuel, Samuel. Then Samuel answered, Speak; for thy servant heareth.
 
@@ -1077,11 +1059,31 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 
 - And Samuel lay until the morning, and opened the doors of the house of the Lord. And Samuel feared to shew Eli the vision. He was scared to tell him what the Lord had just revealed to him.
 
+> <sup>[10](/bible/1-samuel/3#v10)</sup> And the Lord came, and stood, and called as at other times, Samuel, Samuel. Then Samuel answered, Speak; for thy servant heareth.
+>
+> <sup>[11](/bible/1-samuel/3#v11)</sup> And the Lord said to Samuel, Behold, I will do a thing in Israel, at which both the ears of every one that heareth it shall tingle.
+>
+> <sup>[12](/bible/1-samuel/3#v12)</sup> In that day I will perform against Eli all things which I have spoken concerning his house: when I begin, I will also make an end.
+>
+> <sup>[13](/bible/1-samuel/3#v13)</sup> For I have told him that I will judge his house for ever for the iniquity which he knoweth; because his sons made themselves vile, and he restrained them not.
+>
+> <sup>[14](/bible/1-samuel/3#v14)</sup> And therefore I have sworn unto the house of Eli, that the iniquity of Eli’s house shall not be purged with sacrifice nor offering for ever.
+>
+> <sup>[15](/bible/1-samuel/3#v15)</sup> And Samuel lay until the morning, and opened the doors of the house of the Lord. And Samuel feared to shew Eli the vision.
+>
+> <sup>[16](/bible/1-samuel/3#v16)</sup> Then Eli called Samuel, and said, Samuel, my son. And he answered, Here am I.
+>
+> <sup>[17](/bible/1-samuel/3#v17)</sup> And he said, What is the thing that the Lord hath said unto thee? I pray thee hide it not from me: God do so to thee, and more also, if thou hide any thing from me of all the things that he said unto thee.
+
 - Then Eli called Samuel, and said, Samuel, my son. And he answered, Here am I. And he said, What is the thing that the Lord hath said unto thee? I pray thee hide it not from me: God do so to thee, and more also, if thou hide any thing from me of all the things that he said unto thee.
+
+> <sup>[18](/bible/1-samuel/3#v18)</sup> And Samuel told him every whit, and hid nothing from him. And he said, It is the Lord: let him do what seemeth him good.
 
 - And Samuel told him every whit, and hid nothing from him. And he said, It is the Lord: let him do what seemeth him good. So he is ready to die because he did not correct his kids. He said, this is of God, just let him do it. I would have given my sons an exclusive whooping after I heard what Samuel said. You just heard from another priest, your God is about to tear your house up. So this was just crazy to me when I read it, when he already was speaking to Eli and he would not listen. Then he told Samuel, look, I am going to go and do this to him. And then Samuel was scared to tell him what he heard. The Most High will deal with men exclusively, in a place where he does not deal with somebody else the same way.
 
 **[Daniel 2:1-9](/bible/daniel/2#v1)**  *[[2:33:02](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=9182s)]*
+
+- And in the second year of the reign of Nebuchadnezzar, Nebuchadnezzar dreamed dreams, wherewith his spirit was troubled, and his sleep brake from him. Then the king commanded to call the magicians, and the astrologers, and the sorcerers, and the Chaldeans, for to shew the king his dreams. So they came and stood before the king.
 
 > <sup>[1](/bible/daniel/2#v1)</sup> And in the second year of the reign of Nebuchadnezzar Nebuchadnezzar dreamed dreams, wherewith his spirit was troubled, and his sleep brake from him.
 >
@@ -1090,22 +1092,14 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 > <sup>[3](/bible/daniel/2#v3)</sup> And the king said unto them, I have dreamed a dream, and my spirit was troubled to know the dream.
 >
 > <sup>[4](/bible/daniel/2#v4)</sup> Then spake the Chaldeans to the king in Syriack, O king, live for ever: tell thy servants the dream, and we will shew the interpretation.
->
-> <sup>[5](/bible/daniel/2#v5)</sup> The king answered and said to the Chaldeans, The thing is gone from me: if ye will not make known unto me the dream, with the interpretation thereof, ye shall be cut in pieces, and your houses shall be made a dunghill.
->
-> <sup>[6](/bible/daniel/2#v6)</sup> But if ye shew the dream, and the interpretation thereof, ye shall receive of me gifts and rewards and great honour: therefore shew me the dream, and the interpretation thereof.
->
-> <sup>[7](/bible/daniel/2#v7)</sup> They answered again and said, Let the king tell his servants the dream, and we will shew the interpretation of it.
->
-> <sup>[8](/bible/daniel/2#v8)</sup> The king answered and said, I know of certainty that ye would gain the time, because ye see the thing is gone from me.
->
-> <sup>[9](/bible/daniel/2#v9)</sup> But if ye will not make known unto me the dream, there is but one decree for you: for ye have prepared lying and corrupt words to speak before me, till the time be changed: therefore tell me the dream, and I shall know that ye can shew me the interpretation thereof.
-
-- And in the second year of the reign of Nebuchadnezzar, Nebuchadnezzar dreamed dreams, wherewith his spirit was troubled, and his sleep brake from him. Then the king commanded to call the magicians, and the astrologers, and the sorcerers, and the Chaldeans, for to shew the king his dreams. So they came and stood before the king.
 
 - And the king said unto them, I have dreamed a dream, and my spirit was troubled to know the dream. Then spake the Chaldeans to the king in Syriack, O king, live for ever: tell thy servants the dream, and we will shew the interpretation.
 
+> <sup>[5](/bible/daniel/2#v5)</sup> The king answered and said to the Chaldeans, The thing is gone from me: if ye will not make known unto me the dream, with the interpretation thereof, ye shall be cut in pieces, and your houses shall be made a dunghill.
+
 - The king answered and said to the Chaldeans, The thing is gone from me: if ye will not make known unto me the dream, with the interpretation thereof, ye shall be cut in pieces, and your houses shall be made a dunghill. The king says, if you cannot tell me what my dream was, I am going to kill all of you.
+
+> <sup>[6](/bible/daniel/2#v6)</sup> But if ye shew the dream, and the interpretation thereof, ye shall receive of me gifts and rewards and great honour: therefore shew me the dream, and the interpretation thereof.
 
 - But if ye shew the dream, and the interpretation thereof, ye shall receive of me gifts and rewards and great honour: therefore shew me the dream, and the interpretation thereof. They answered again and said, Let the king tell his servants the dream, and we will shew the interpretation of it.
 
@@ -1113,14 +1107,30 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 
 - So it is the same thing here. He said, I do not remember the dream. You are trying to buy time. If you are who you are, you astrologers, you magicians, you better tell me my dream.
 
+> <sup>[7](/bible/daniel/2#v7)</sup> They answered again and said, Let the king tell his servants the dream, and we will shew the interpretation of it.
+>
+> <sup>[8](/bible/daniel/2#v8)</sup> The king answered and said, I know of certainty that ye would gain the time, because ye see the thing is gone from me.
+>
+> <sup>[9](/bible/daniel/2#v9)</sup> But if ye will not make known unto me the dream, there is but one decree for you: for ye have prepared lying and corrupt words to speak before me, till the time be changed: therefore tell me the dream, and I shall know that ye can shew me the interpretation thereof.
+
 - But if ye will not make known unto me the dream, there is but one decree for you: for ye have prepared lying and corrupt words to speak before me, till the time be changed.
 
 **[Daniel 2:13-19](/bible/daniel/2#v13)**  *[[2:35:18](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=9318s)]*
 
+- And the decree went forth that the wise men should be slain; and they sought Daniel and his fellows to be slain.
+
 > <sup>[13](/bible/daniel/2#v13)</sup> And the decree went forth that the wise men should be slain; and they sought Daniel and his fellows to be slain.
 >
 > <sup>[14](/bible/daniel/2#v14)</sup> Then Daniel answered with counsel and wisdom to Arioch the captain of the king’s guard, which was gone forth to slay the wise men of Babylon:
->
+
+- Then Daniel answered with counsel and wisdom to Arioch the captain of the king's guard, which was gone forth to slay the wise men of Babylon: he answered and said to Arioch the king's captain, Why is the decree so hasty from the king? Then Arioch made the thing known to Daniel. So Daniel was like, slow down. What are you going to kill everybody for? Let me go talk to God. Why are you so hasty to kill everybody?
+
+- Then Daniel went in, and desired of the king that he would give him time, and that he would shew the king the interpretation.
+
+- Then Daniel went to his house, and made the thing known to Hananiah, Mishael, and Azariah, his companions. His partners. That they would desire mercies of the God of heaven concerning this secret. We need to figure out what is going on. So he told his boys, let us ask God to reveal this to us.
+
+- That Daniel and his fellows should not perish with the rest of the wise men of Babylon. Then was the secret revealed unto Daniel in a night vision. Then Daniel blessed the God of heaven.
+
 > <sup>[15](/bible/daniel/2#v15)</sup> He answered and said to Arioch the king’s captain, Why is the decree so hasty from the king? Then Arioch made the thing known to Daniel.
 >
 > <sup>[16](/bible/daniel/2#v16)</sup> Then Daniel went in, and desired of the king that he would give him time, and that he would shew the king the interpretation.
@@ -1130,16 +1140,6 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 > <sup>[18](/bible/daniel/2#v18)</sup> That they would desire mercies of the God of heaven concerning this secret; that Daniel and his fellows should not perish with the rest of the wise men of Babylon.
 >
 > <sup>[19](/bible/daniel/2#v19)</sup> Then was the secret revealed unto Daniel in a night vision. Then Daniel blessed the God of heaven.
-
-- And the decree went forth that the wise men should be slain; and they sought Daniel and his fellows to be slain.
-
-- Then Daniel answered with counsel and wisdom to Arioch the captain of the king's guard, which was gone forth to slay the wise men of Babylon: he answered and said to Arioch the king's captain, Why is the decree so hasty from the king? Then Arioch made the thing known to Daniel. So Daniel was like, slow down. What are you going to kill everybody for? Let me go talk to God. Why are you so hasty to kill everybody?
-
-- Then Daniel went in, and desired of the king that he would give him time, and that he would shew the king the interpretation.
-
-- Then Daniel went to his house, and made the thing known to Hananiah, Mishael, and Azariah, his companions. His partners. That they would desire mercies of the God of heaven concerning this secret. We need to figure out what is going on. So he told his boys, let us ask God to reveal this to us.
-
-- That Daniel and his fellows should not perish with the rest of the wise men of Babylon. Then was the secret revealed unto Daniel in a night vision. Then Daniel blessed the God of heaven.
 
 **[Daniel 2:31-32](/bible/daniel/2#v31)**  *[[2:37:28](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=9448s)]*
 
@@ -1175,17 +1175,17 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 
 **[2 Esdras 12:36-38](/bible/2-esdras/12#v36)**  *[[2:41:24](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=9684s)]*
 
+- Look what the Lord said about Ezra.
+
 > <sup>[36](/bible/2-esdras/12#v36)</sup> Thou only hast been meet to know this secret of the Highest.
 >
 > <sup>[37](/bible/2-esdras/12#v37)</sup> Therefore write all these things that thou hast seen in a book, and hide them:
->
-> <sup>[38](/bible/2-esdras/12#v38)</sup> And teach them to the wise of the people, whose hearts thou knowest may comprehend and keep these secrets.
-
-- Look what the Lord said about Ezra.
 
 - Thou only hast been meet to know this secret of the Highest. Therefore write all these things that thou hast seen in a book, and hide them: and teach them to the wise of the people, whose hearts thou knowest may comprehend and keep these secrets.
 
 - So the Lord will show exclusive information to teachers, and then will give it to the other people that are worthy.
+
+> <sup>[38](/bible/2-esdras/12#v38)</sup> And teach them to the wise of the people, whose hearts thou knowest may comprehend and keep these secrets.
 
 **[2 Esdras 14:26](/bible/2-esdras/14#v26)**  *[[2:42:20](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=9740s)]*
 
@@ -1242,7 +1242,11 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 **[Psalms 78:1-8](/bible/psalms/78#v1)**  *[[2:44:55](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=9895s)]*
 
 > <sup>[1](/bible/psalms/78#v1)</sup> Give ear, O my people, to my law: incline your ears to the words of my mouth.
->
+
+- Give ear, O my people, to my law: incline your ears to the words of my mouth. I will open my mouth in a parable — which is what Christ did — I will utter dark sayings of old: which we have heard and known, and our fathers have told us. We will not hide them from their children. Because the generation to come needs to understand this Bible. The Lord revealed it to this generation. And what is the secret? Destruction is coming. We are the Israelites. We are not supposed to hide this from our children.
+
+- Shewing to the generation to come the praises of the Lord, and his strength, and his wonderful works that he hath done. For he established a testimony in Jacob. The testimony is: you are in a covenant with me as my chosen people. And appointed a law in Israel. And he gave us the covenant.
+
 > <sup>[2](/bible/psalms/78#v2)</sup> I will open my mouth in a parable: I will utter dark sayings of old:
 >
 > <sup>[3](/bible/psalms/78#v3)</sup> Which we have heard and known, and our fathers have told us.
@@ -1250,16 +1254,6 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 > <sup>[4](/bible/psalms/78#v4)</sup> We will not hide them from their children, shewing to the generation to come the praises of the Lord, and his strength, and his wonderful works that he hath done.
 >
 > <sup>[5](/bible/psalms/78#v5)</sup> For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children:
->
-> <sup>[6](/bible/psalms/78#v6)</sup> That the generation to come might know them, even the children which should be born; who should arise and declare them to their children:
->
-> <sup>[7](/bible/psalms/78#v7)</sup> That they might set their hope in God, and not forget the works of God, but keep his commandments:
->
-> <sup>[8](/bible/psalms/78#v8)</sup> And might not be as their fathers, a stubborn and rebellious generation; a generation that set not their heart aright, and whose spirit was not stedfast with God.
-
-- Give ear, O my people, to my law: incline your ears to the words of my mouth. I will open my mouth in a parable — which is what Christ did — I will utter dark sayings of old: which we have heard and known, and our fathers have told us. We will not hide them from their children. Because the generation to come needs to understand this Bible. The Lord revealed it to this generation. And what is the secret? Destruction is coming. We are the Israelites. We are not supposed to hide this from our children.
-
-- Shewing to the generation to come the praises of the Lord, and his strength, and his wonderful works that he hath done. For he established a testimony in Jacob. The testimony is: you are in a covenant with me as my chosen people. And appointed a law in Israel. And he gave us the covenant.
 
 - Which he commanded our fathers, that they should make them known to their children: that the generation to come might know them. Because we went into captivity, we were not keeping the laws. Now a new generation is coming and we are teaching them the laws. You all have kids that are being married the way the scriptures say, that never ate shrimp, crab, pork, lobster. They never put a razor to their face. They never celebrated Christmas. They never dealt with Halloween. They never put on a Halloween costume. So he said, I am going to open my mouth in parables so you could teach it to your children for the generation.
 
@@ -1270,6 +1264,12 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 - That they might set their hope in God, and not forget the works of God. So we could only learn that through the secret, because the church ain't teaching that. You are not going to learn that as no Christian, no Methodist, no Baptist, no Jehovah's Witness.
 
 - And might not be as their fathers, a stubborn and rebellious generation. So the Lord showed us the secret so we would not be like our forefathers. They were stubborn and rebellious. Now the scriptures tell us to tell it to our children so we could bring forth this righteous name. We know the secrets of God. We know where things went wrong. So now we could raise up children, a new generation that is strong.
+
+> <sup>[6](/bible/psalms/78#v6)</sup> That the generation to come might know them, even the children which should be born; who should arise and declare them to their children:
+>
+> <sup>[7](/bible/psalms/78#v7)</sup> That they might set their hope in God, and not forget the works of God, but keep his commandments:
+>
+> <sup>[8](/bible/psalms/78#v8)</sup> And might not be as their fathers, a stubborn and rebellious generation; a generation that set not their heart aright, and whose spirit was not stedfast with God.
 
 **[Mark 4:33-34](/bible/mark/4#v33)**  *[[2:48:39](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=10119s)]*
 
@@ -1285,19 +1285,29 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 
 **[Romans 16:25-27](/bible/romans/16#v25)**  *[[2:50:15](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=10215s)]*
 
-> <sup>[25](/bible/romans/16#v25)</sup> Now to him that is of power to stablish you according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret since the world began,
->
-> <sup>[26](/bible/romans/16#v26)</sup> But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:
->
-> <sup>[27](/bible/romans/16#v27)</sup> To God only wise, be glory through Jesus Christ for ever. Amen. Written to the Romans from Corinthus, and sent by Phebe servant of the church at Cenchrea.
-
 - Now to him that is of power to stablish you according to my gospel, and the preaching of Jesus Christ. We are established to understand that Jesus Christ, the black Messiah, died to save us from our sins.
 
 - According to the revelation of the mystery, which was kept secret since the world began. People do not know this. We were the first ones to tell you Christ died exclusively for the Israelites, and you have got to keep the commandments to show that you love him. He said, if you love me, keep my commandments. Everything we are teaching you was a secret since the world began. Now the Most High is revealing his plan.
 
+> <sup>[25](/bible/romans/16#v25)</sup> Now to him that is of power to stablish you according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret since the world began,
+>
+> <sup>[26](/bible/romans/16#v26)</sup> But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:
+
 - But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith: to God only wise, be glory through Jesus Christ for ever. Amen. That is because the Lord put the spirit on us to preach. And we are going everywhere, throughout the world and to all nations, telling them the Israelites, the twelve tribes. We are doing what Christ said: go and find the lost sheep of the house of Israel, and as you go, preach, saying the kingdom is at hand. No other ministry is teaching that. None of them. They are teaching you philosophy, ideology, theology and prosperity teaching.
 
+> <sup>[27](/bible/romans/16#v27)</sup> To God only wise, be glory through Jesus Christ for ever. Amen. Written to the Romans from Corinthus, and sent by Phebe servant of the church at Cenchrea.
+
 **[1 Corinthians 2:1-7](/bible/1-corinthians/2#v1)**  *[[2:51:54](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=10314s)]*
+
+- And I, brethren, when I came to you, came not with excellency of speech. Like they do in the Christian church. They try to speak all proper and they try to use big words.
+
+- Or of wisdom, declaring unto you the testimony of God. For I determined not to know any thing among you, save Jesus Christ, and him crucified. That is all Paul was teaching them. Christ died for your sins. Repent and believe on Jesus Christ as your saviour.
+
+- And I was with you in weakness, and in fear, and in much trembling. Why? Because they were being persecuted by Rome.
+
+- And my speech and my preaching was not with enticing words. I am not trying to say stuff to make you come and join us. In the church they try to give you enticing words. Of man's wisdom, but in demonstration of the Spirit and of power. Because there is spirit and power in teaching about the black Messiah that died to save the twelve tribes of Israel.
+
+- That your faith should not stand in the wisdom of men, but in the power of God. Christian philosophy, Methodist, Baptist, Catholic — that is wisdom of man. That is not according to God's plan.
 
 > <sup>[1](/bible/1-corinthians/2#v1)</sup> And I, brethren, when I came to you, came not with excellency of speech or of wisdom, declaring unto you the testimony of God.
 >
@@ -1310,18 +1320,6 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 > <sup>[5](/bible/1-corinthians/2#v5)</sup> That your faith should not stand in the wisdom of men, but in the power of God.
 >
 > <sup>[6](/bible/1-corinthians/2#v6)</sup> Howbeit we speak wisdom among them that are perfect: yet not the wisdom of this world, nor of the princes of this world, that come to nought:
->
-> <sup>[7](/bible/1-corinthians/2#v7)</sup> But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:
-
-- And I, brethren, when I came to you, came not with excellency of speech. Like they do in the Christian church. They try to speak all proper and they try to use big words.
-
-- Or of wisdom, declaring unto you the testimony of God. For I determined not to know any thing among you, save Jesus Christ, and him crucified. That is all Paul was teaching them. Christ died for your sins. Repent and believe on Jesus Christ as your saviour.
-
-- And I was with you in weakness, and in fear, and in much trembling. Why? Because they were being persecuted by Rome.
-
-- And my speech and my preaching was not with enticing words. I am not trying to say stuff to make you come and join us. In the church they try to give you enticing words. Of man's wisdom, but in demonstration of the Spirit and of power. Because there is spirit and power in teaching about the black Messiah that died to save the twelve tribes of Israel.
-
-- That your faith should not stand in the wisdom of men, but in the power of God. Christian philosophy, Methodist, Baptist, Catholic — that is wisdom of man. That is not according to God's plan.
 
 - Howbeit we speak wisdom among them that are perfect: yet not the wisdom of this world. We are not telling you Christian ideologies or these religious denominations. That is the wisdom of this world. That is all made up. Nor of the princes of this world. The princes of this world are the ideologies and the thoughts that they give you to keep you away from God, to keep you in debt to them, to make you look up to them. That come to nought. Those people are going to come to nothing.
 
@@ -1329,25 +1327,17 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 
 - They never heard it before. This is wisdom. It is a mystery to them. Even the hidden wisdom, which God ordained before the world unto our glory. The secrets are given to us for our glory. We are telling God's story.
 
+> <sup>[7](/bible/1-corinthians/2#v7)</sup> But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:
+
 **[1 Corinthians 4:1-8](/bible/1-corinthians/4#v1)**  *[[2:54:58](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=10498s)]*
+
+- Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God. That is who we are. We are declaring the mysteries of God. We are the stewards.
 
 > <sup>[1](/bible/1-corinthians/4#v1)</sup> Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God.
 >
 > <sup>[2](/bible/1-corinthians/4#v2)</sup> Moreover it is required in stewards, that a man be found faithful.
 >
 > <sup>[3](/bible/1-corinthians/4#v3)</sup> But with me it is a very small thing that I should be judged of you, or of man’s judgment: yea, I judge not mine own self.
->
-> <sup>[4](/bible/1-corinthians/4#v4)</sup> For I know nothing by myself; yet am I not hereby justified: but he that judgeth me is the Lord.
->
-> <sup>[5](/bible/1-corinthians/4#v5)</sup> Therefore judge nothing before the time, until the Lord come, who both will bring to light the hidden things of darkness, and will make manifest the counsels of the hearts: and then shall every man have praise of God.
->
-> <sup>[6](/bible/1-corinthians/4#v6)</sup> And these things, brethren, I have in a figure transferred to myself and to Apollos for your sakes; that ye might learn in us not to think of men above that which is written, that no one of you be puffed up for one against another.
->
-> <sup>[7](/bible/1-corinthians/4#v7)</sup> For who maketh thee to differ from another? and what hast thou that thou didst not receive? now if thou didst receive it, why dost thou glory, as if thou hadst not received it?
->
-> <sup>[8](/bible/1-corinthians/4#v8)</sup> Now ye are full, now ye are rich, ye have reigned as kings without us: and I would to God ye did reign, that we also might reign with you.
-
-- Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God. That is who we are. We are declaring the mysteries of God. We are the stewards.
 
 - Moreover it is required in stewards, that a man be found faithful. But with me it is a very small thing that I should be judged of you, or of man's judgment: yea, I judge not mine own self. For I know nothing by myself; yet am I not hereby justified: but he that judgeth me is the Lord.
 
@@ -1361,7 +1351,31 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 
 - For who maketh thee to differ from another? and what hast thou that thou didst not receive? now if thou didst receive it, why dost thou glory, as if thou hadst not received it? Now ye are full, now ye are rich, ye have reigned as kings without us: and I would to God ye did reign, that we also might reign with you. Because when you do good, we do good. And that is what Paul was saying. Even though we are stewards of God and these mysteries, these secrets, have been given to each other, we are all on the same level. If I do not know something, I am going to tell you.
 
+> <sup>[4](/bible/1-corinthians/4#v4)</sup> For I know nothing by myself; yet am I not hereby justified: but he that judgeth me is the Lord.
+>
+> <sup>[5](/bible/1-corinthians/4#v5)</sup> Therefore judge nothing before the time, until the Lord come, who both will bring to light the hidden things of darkness, and will make manifest the counsels of the hearts: and then shall every man have praise of God.
+>
+> <sup>[6](/bible/1-corinthians/4#v6)</sup> And these things, brethren, I have in a figure transferred to myself and to Apollos for your sakes; that ye might learn in us not to think of men above that which is written, that no one of you be puffed up for one against another.
+>
+> <sup>[7](/bible/1-corinthians/4#v7)</sup> For who maketh thee to differ from another? and what hast thou that thou didst not receive? now if thou didst receive it, why dost thou glory, as if thou hadst not received it?
+>
+> <sup>[8](/bible/1-corinthians/4#v8)</sup> Now ye are full, now ye are rich, ye have reigned as kings without us: and I would to God ye did reign, that we also might reign with you.
+
 **[Isaiah 48:1-20](/bible/isaiah/48#v1)**  *[[2:59:58](https://www.youtube.com/watch?v=e_p4gPwtBGA&t=10798s)]*
+
+- Hear ye this, O house of Jacob, which are called by the name of Israel, and are come forth out of the waters of Judah, which swear by the name of the Lord, and make mention of the God of Israel, but not in truth, nor in righteousness. For they call themselves of the holy city, and stay themselves upon the God of Israel; The Lord of hosts is his name.
+
+- I have declared the former things from the beginning — through prophecy — and they went forth out of my mouth, and I shewed them; I did them suddenly, and they came to pass. What is written came to pass. That is what we look at in the scriptures, because we are a prophetic ministry.
+
+- Because I knew that thou art obstinate. So God said, I knew you people. I know how you all are. You all are obstinate. And thy neck is an iron sinew, and thy brow brass; I have even from the beginning declared it to thee. Before it came to pass, he said, I had you write it down and I showed it to you.
+
+- Lest thou shouldest say, Mine idol hath done them. Because you all will give credit to another god. And my graven image, and my molten image, hath commanded them. Because you all do not believe in the God of Abraham, Isaac and Jacob, you will give credit to another god. Just like people who come and listen to us, but they will not leave their ministry, and they will act like they already knew what we showed them.
+
+- Thou hast heard, see all this; and will not ye declare it? I have shewed thee new things from this time, even hidden things, and thou didst not know them. You did not know the stuff that we were telling you. You all did not know nothing about no Israelites. You all knew nothing about no Passover. You know nothing about no Feast of Tabernacles coming up in October. You all did not know nothing about that. There were no black people getting in tents and going camping and sitting around a fire and talking about God. The Lord put a spirit on us. He showed us these secret things. And now look how our lives changed drastically. There were no black people piling into church on a Saturday with fringes, their women with skirts, saying shalom to each other. These were secret things that the Lord showed unto us.
+
+- They are created now, and not from the beginning; even before the day when thou heardest them not; lest thou shouldest say, Behold, I knew them. Because that is how black people are. It makes me sick when they come and they say, I always knew I was an Israelite, I always knew Christ was black. Sit down. You did not know until you watched us bring it out. You saw us teaching. You saw us with the books. So that is what God is talking about here. That is how black people are. They will act like they already knew this instead of giving God the glory.
+
+- Yea, thou heardest not; yea, thou knewest not. You never knew this until the Lord revealed his secret unto us. And now you see men with their beards. You see men with fringes on their shirts, and people looking at us weird. The Lord revealed it to us. Numbers 15:38 — put fringes and a border of blue on your shirt. Put your women in skirts. Have their head wraps. Throw out unclean food. Do not bother with no Christmas tree.
 
 > <sup>[1](/bible/isaiah/48#v1)</sup> Hear ye this, O house of Jacob, which are called by the name of Israel, and are come forth out of the waters of Judah, which swear by the name of the Lord, and make mention of the God of Israel, but not in truth, nor in righteousness.
 >
@@ -1378,21 +1392,39 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 > <sup>[7](/bible/isaiah/48#v7)</sup> They are created now, and not from the beginning; even before the day when thou heardest them not; lest thou shouldest say, Behold, I knew them.
 >
 > <sup>[8](/bible/isaiah/48#v8)</sup> Yea, thou heardest not; yea, thou knewest not; yea, from that time that thine ear was not opened: for I knew that thou wouldest deal very treacherously, and wast called a transgressor from the womb.
->
+
+- Yea, from that time that thine ear was not opened: for I knew that thou wouldest deal very treacherously, and wast called a transgressor from the womb. For my name's sake will I defer mine anger, and for my praise will I refrain for thee, that I cut thee not off. Behold, I have refined thee, but not with silver; I have chosen thee in the furnace of affliction.
+
+- He has chosen us while we are getting beaten up. He is refining us. He said, I am going to defer my anger. The furnace of affliction is this captivity we are in. And he said, I still chose you. I still reveal my secrets unto you. I am still raising you up to be a great nation.
+
 > <sup>[9](/bible/isaiah/48#v9)</sup> For my name’s sake will I defer mine anger, and for my praise will I refrain for thee, that I cut thee not off.
 >
 > <sup>[10](/bible/isaiah/48#v10)</sup> Behold, I have refined thee, but not with silver; I have chosen thee in the furnace of affliction.
 >
 > <sup>[11](/bible/isaiah/48#v11)</sup> For mine own sake, even for mine own sake, will I do it: for how should my name be polluted? and I will not give my glory unto another.
->
+
+- For mine own sake, even for mine own sake, will I do it: for how should my name be polluted? and I will not give my glory unto another. Hearken unto me, O Jacob and Israel, my called; I am he; I am the first, I also am the last. Mine hand also hath laid the foundation of the earth. So we have got to give God the glory as we bring forth this story, as he is revealing these secrets to us.
+
 > <sup>[12](/bible/isaiah/48#v12)</sup> Hearken unto me, O Jacob and Israel, my called; I am he; I am the first, I also am the last.
 >
 > <sup>[13](/bible/isaiah/48#v13)</sup> Mine hand also hath laid the foundation of the earth, and my right hand hath spanned the heavens: when I call unto them, they stand up together.
->
+
+- And my right hand hath spanned the heavens: when I call unto them, they stand up together. All ye, assemble yourselves, and hear; which among them hath declared these things? Nobody ever told us what we know right now. These are the secrets of the Most High.
+
 > <sup>[14](/bible/isaiah/48#v14)</sup> All ye, assemble yourselves, and hear; which among them hath declared these things? The Lord hath loved him: he will do his pleasure on Babylon, and his arm shall be on the Chaldeans.
->
+
+- The Lord hath loved him: he will do his pleasure on Babylon, and his arm shall be on the Chaldeans. Because he is talking about America. He is going to do his pleasure on them. Why? He is revealing these things to us and he is making his name known to us, and he is bringing us our glory while we are in the furnace of affliction. He is talking about, I am going to destroy America.
+
 > <sup>[15](/bible/isaiah/48#v15)</sup> I, even I, have spoken; yea, I have called him: I have brought him, and he shall make his way prosperous.
->
+
+- I, even I, have spoken; yea, I have called him: I have brought him, and he shall make his way prosperous. Come ye near unto me, hear ye this; I have not spoken in secret from the beginning; from the time that it was, there am I: and now the Lord God, and his Spirit, hath sent me. Thus saith the Lord, thy Redeemer, the Holy One of Israel. That is who this Bible is for. That is who these secrets are for. To redeem the Israelites.
+
+- I am the Lord thy God which teacheth thee to profit, which leadeth thee by the way that thou shouldest go. Because we were going in the wrong path. Now he is leading us in the way that we need to go.
+
+- O that thou hadst hearkened to my commandments! Which is what he told us from the beginning, when he brought us into a covenant. Then had thy peace been as a river. We would have been in peace right now. And thy righteousness as the waves of the sea: thy seed also had been as the sand, and the offspring of thy bowels like the gravel thereof. Our children that came forth from us. His name should not have been cut off nor destroyed from before me.
+
+- Go ye forth of Babylon, flee ye from the Chaldeans, with a voice of singing declare ye, tell this, utter it even to the end of the earth. Which is what we are doing with the secret that has been given to us. We are the Israelites in captivity. The Lord wants us to utter it to the ends of the earth. Say ye, The Lord hath redeemed his servant Jacob.
+
 > <sup>[16](/bible/isaiah/48#v16)</sup> Come ye near unto me, hear ye this; I have not spoken in secret from the beginning; from the time that it was, there am I: and now the Lord God, and his Spirit, hath sent me.
 >
 > <sup>[17](/bible/isaiah/48#v17)</sup> Thus saith the Lord, thy Redeemer, the Holy One of Israel; I am the Lord thy God which teacheth thee to profit, which leadeth thee by the way that thou shouldest go.
@@ -1402,38 +1434,6 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 > <sup>[19](/bible/isaiah/48#v19)</sup> Thy seed also had been as the sand, and the offspring of thy bowels like the gravel thereof; his name should not have been cut off nor destroyed from before me.
 >
 > <sup>[20](/bible/isaiah/48#v20)</sup> Go ye forth of Babylon, flee ye from the Chaldeans, with a voice of singing declare ye, tell this, utter it even to the end of the earth; say ye, The Lord hath redeemed his servant Jacob.
-
-- Hear ye this, O house of Jacob, which are called by the name of Israel, and are come forth out of the waters of Judah, which swear by the name of the Lord, and make mention of the God of Israel, but not in truth, nor in righteousness. For they call themselves of the holy city, and stay themselves upon the God of Israel; The Lord of hosts is his name.
-
-- I have declared the former things from the beginning — through prophecy — and they went forth out of my mouth, and I shewed them; I did them suddenly, and they came to pass. What is written came to pass. That is what we look at in the scriptures, because we are a prophetic ministry.
-
-- Because I knew that thou art obstinate. So God said, I knew you people. I know how you all are. You all are obstinate. And thy neck is an iron sinew, and thy brow brass; I have even from the beginning declared it to thee. Before it came to pass, he said, I had you write it down and I showed it to you.
-
-- Lest thou shouldest say, Mine idol hath done them. Because you all will give credit to another god. And my graven image, and my molten image, hath commanded them. Because you all do not believe in the God of Abraham, Isaac and Jacob, you will give credit to another god. Just like people who come and listen to us, but they will not leave their ministry, and they will act like they already knew what we showed them.
-
-- Thou hast heard, see all this; and will not ye declare it? I have shewed thee new things from this time, even hidden things, and thou didst not know them. You did not know the stuff that we were telling you. You all did not know nothing about no Israelites. You all knew nothing about no Passover. You know nothing about no Feast of Tabernacles coming up in October. You all did not know nothing about that. There were no black people getting in tents and going camping and sitting around a fire and talking about God. The Lord put a spirit on us. He showed us these secret things. And now look how our lives changed drastically. There were no black people piling into church on a Saturday with fringes, their women with skirts, saying shalom to each other. These were secret things that the Lord showed unto us.
-
-- They are created now, and not from the beginning; even before the day when thou heardest them not; lest thou shouldest say, Behold, I knew them. Because that is how black people are. It makes me sick when they come and they say, I always knew I was an Israelite, I always knew Christ was black. Sit down. You did not know until you watched us bring it out. You saw us teaching. You saw us with the books. So that is what God is talking about here. That is how black people are. They will act like they already knew this instead of giving God the glory.
-
-- Yea, thou heardest not; yea, thou knewest not. You never knew this until the Lord revealed his secret unto us. And now you see men with their beards. You see men with fringes on their shirts, and people looking at us weird. The Lord revealed it to us. Numbers 15:38 — put fringes and a border of blue on your shirt. Put your women in skirts. Have their head wraps. Throw out unclean food. Do not bother with no Christmas tree.
-
-- Yea, from that time that thine ear was not opened: for I knew that thou wouldest deal very treacherously, and wast called a transgressor from the womb. For my name's sake will I defer mine anger, and for my praise will I refrain for thee, that I cut thee not off. Behold, I have refined thee, but not with silver; I have chosen thee in the furnace of affliction.
-
-- He has chosen us while we are getting beaten up. He is refining us. He said, I am going to defer my anger. The furnace of affliction is this captivity we are in. And he said, I still chose you. I still reveal my secrets unto you. I am still raising you up to be a great nation.
-
-- For mine own sake, even for mine own sake, will I do it: for how should my name be polluted? and I will not give my glory unto another. Hearken unto me, O Jacob and Israel, my called; I am he; I am the first, I also am the last. Mine hand also hath laid the foundation of the earth. So we have got to give God the glory as we bring forth this story, as he is revealing these secrets to us.
-
-- And my right hand hath spanned the heavens: when I call unto them, they stand up together. All ye, assemble yourselves, and hear; which among them hath declared these things? Nobody ever told us what we know right now. These are the secrets of the Most High.
-
-- The Lord hath loved him: he will do his pleasure on Babylon, and his arm shall be on the Chaldeans. Because he is talking about America. He is going to do his pleasure on them. Why? He is revealing these things to us and he is making his name known to us, and he is bringing us our glory while we are in the furnace of affliction. He is talking about, I am going to destroy America.
-
-- I, even I, have spoken; yea, I have called him: I have brought him, and he shall make his way prosperous. Come ye near unto me, hear ye this; I have not spoken in secret from the beginning; from the time that it was, there am I: and now the Lord God, and his Spirit, hath sent me. Thus saith the Lord, thy Redeemer, the Holy One of Israel. That is who this Bible is for. That is who these secrets are for. To redeem the Israelites.
-
-- I am the Lord thy God which teacheth thee to profit, which leadeth thee by the way that thou shouldest go. Because we were going in the wrong path. Now he is leading us in the way that we need to go.
-
-- O that thou hadst hearkened to my commandments! Which is what he told us from the beginning, when he brought us into a covenant. Then had thy peace been as a river. We would have been in peace right now. And thy righteousness as the waves of the sea: thy seed also had been as the sand, and the offspring of thy bowels like the gravel thereof. Our children that came forth from us. His name should not have been cut off nor destroyed from before me.
-
-- Go ye forth of Babylon, flee ye from the Chaldeans, with a voice of singing declare ye, tell this, utter it even to the end of the earth. Which is what we are doing with the secret that has been given to us. We are the Israelites in captivity. The Lord wants us to utter it to the ends of the earth. Say ye, The Lord hath redeemed his servant Jacob.
 
 ## In Closing
 

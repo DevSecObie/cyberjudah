@@ -127,14 +127,14 @@ Reading from an on-screen list of countries closed to Americans  *[[4:38](https:
 **[Isaiah 60:4-5](/bible/isaiah/60#v4)**  *[[9:17](https://www.youtube.com/watch?v=WmoY8T8qb1k&t=557s)]*
 
 > <sup>[4](/bible/isaiah/60#v4)</sup> Lift up thine eyes round about, and see: all they gather themselves together, they come to thee: thy sons shall come from far, and thy daughters shall be nursed at thy side.
->
-> <sup>[5](/bible/isaiah/60#v5)</sup> Then thou shalt see, and flow together, and thine heart shall fear, and be enlarged; because the abundance of the sea shall be converted unto thee, the forces of the Gentiles shall come unto thee.
 
 - Thy sons shall come from far: that is what we just read in chapter 43.
 
 - The sons and daughters are going to be nursed.
 
 - The abundance of the sea shall be converted unto thee, and the forces of the Gentiles shall come unto thee.
+
+> <sup>[5](/bible/isaiah/60#v5)</sup> Then thou shalt see, and flow together, and thine heart shall fear, and be enlarged; because the abundance of the sea shall be converted unto thee, the forces of the Gentiles shall come unto thee.
 
 
 **[Isaiah 60:9](/bible/isaiah/60#v9)**  *[[10:07](https://www.youtube.com/watch?v=WmoY8T8qb1k&t=607s)]*
@@ -153,8 +153,6 @@ Reading from an on-screen list of countries closed to Americans  *[[4:38](https:
 > <sup>[18](/bible/isaiah/66#v18)</sup> For I know their works and their thoughts: it shall come, that I will gather all nations and tongues; and they shall come, and see my glory.
 >
 > <sup>[19](/bible/isaiah/66#v19)</sup> And I will set a sign among them, and I will send those that escape of them unto the nations, to Tarshish, Pul, and Lud, that draw the bow, to Tubal, and Javan, to the isles afar off, that have not heard my fame, neither have seen my glory; and they shall declare my glory among the Gentiles.
->
-> <sup>[20](/bible/isaiah/66#v20)</sup> And they shall bring all your brethren for an offering unto the Lord out of all nations upon horses, and in chariots, and in litters, and upon mules, and upon swift beasts, to my holy mountain Jerusalem, saith the Lord, as the children of Israel bring an offering in a clean vessel into the house of the Lord.
 
 - I will send those that escape of them unto the nations, to Tarshish: the same thing we read in chapter 60 and verse 9, the ships of Tarshish. Tarshish is modern-day Spain.
 
@@ -163,6 +161,8 @@ Reading from an on-screen list of countries closed to Americans  *[[4:38](https:
 - That have not heard my fame: they didn't get to hear the prophets, they didn't get to hear the gospel.
 
 - They shall bring all your brethren for an offering unto the Lord out of all nations. Our lost people that are not going to be able to hear the gospel, the Lord has a plan for them: the nations are going to bring them as offerings to the Lord.
+
+> <sup>[20](/bible/isaiah/66#v20)</sup> And they shall bring all your brethren for an offering unto the Lord out of all nations upon horses, and in chariots, and in litters, and upon mules, and upon swift beasts, to my holy mountain Jerusalem, saith the Lord, as the children of Israel bring an offering in a clean vessel into the house of the Lord.
 
 
 **[Isaiah 49:13](/bible/isaiah/49#v13)**  *[[13:00](https://www.youtube.com/watch?v=WmoY8T8qb1k&t=780s)]*
@@ -174,27 +174,27 @@ Reading from an on-screen list of countries closed to Americans  *[[4:38](https:
 
 **[Isaiah 49:19-23](/bible/isaiah/49#v19)**  *[[13:26](https://www.youtube.com/watch?v=WmoY8T8qb1k&t=806s)]*
 
-> <sup>[19](/bible/isaiah/49#v19)</sup> For thy waste and thy desolate places, and the land of thy destruction, shall even now be too narrow by reason of the inhabitants, and they that swallowed thee up shall be far away.
->
-> <sup>[20](/bible/isaiah/49#v20)</sup> The children which thou shalt have, after thou hast lost the other, shall say again in thine ears, The place is too strait for me: give place to me that I may dwell.
->
-> <sup>[21](/bible/isaiah/49#v21)</sup> Then shalt thou say in thine heart, Who hath begotten me these, seeing I have lost my children, and am desolate, a captive, and removing to and fro? and who hath brought up these? Behold, I was left alone; these, where had they been?
->
-> <sup>[22](/bible/isaiah/49#v22)</sup> Thus saith the Lord God, Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people: and they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders.
->
-> <sup>[23](/bible/isaiah/49#v23)</sup> And kings shall be thy nursing fathers, and their queens thy nursing mothers: they shall bow down to thee with their face toward the earth, and lick up the dust of thy feet; and thou shalt know that I am the Lord: for they shall not be ashamed that wait for me.
-
 - Right now Israel is the land of our destruction, trodden down by the Gentiles. But when the times of refreshing come from Christ, it shall even now be too narrow by reason of the inhabitants.
 
+> <sup>[19](/bible/isaiah/49#v19)</sup> For thy waste and thy desolate places, and the land of thy destruction, shall even now be too narrow by reason of the inhabitants, and they that swallowed thee up shall be far away.
+
 - They that swallowed thee up shall be far away: the Gentiles, the other nations that swallowed us up, are going to be far away. It is not talking about it being packed and crowded because we have got all the damn races. They are going to be far away, but the land is going to be too narrow by reason of the inhabitants.
+
+> <sup>[20](/bible/isaiah/49#v20)</sup> The children which thou shalt have, after thou hast lost the other, shall say again in thine ears, The place is too strait for me: give place to me that I may dwell.
 
 - The children which thou shalt have after thou hast lost the other: after we have lost two-thirds of wicked Jacob.
 
 - Who hath begotten me these? This is what we are going to say. We have been teaching and trying to gather and scrape up all the Israelites we can. Where did these Israelites come from? Where has this great multitude of Israelites been?
 
+> <sup>[21](/bible/isaiah/49#v21)</sup> Then shalt thou say in thine heart, Who hath begotten me these, seeing I have lost my children, and am desolate, a captive, and removing to and fro? and who hath brought up these? Behold, I was left alone; these, where had they been?
+>
+> <sup>[22](/bible/isaiah/49#v22)</sup> Thus saith the Lord God, Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people: and they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders.
+
 - They shall bring thy sons in their arms: that is what we read in chapter 66, they are going to bring our brethren for an offering to the Lord. Kings shall be thy nursing fathers goes back to chapter 60, your daughters are going to be nursed. And bowing down with their face toward the earth goes back to Revelation 3:9.
 
 - They shall not be ashamed that wait for me. We have got millions of Israelites waiting on the Lord's mercy.
+
+> <sup>[23](/bible/isaiah/49#v23)</sup> And kings shall be thy nursing fathers, and their queens thy nursing mothers: they shall bow down to thee with their face toward the earth, and lick up the dust of thy feet; and thou shalt know that I am the Lord: for they shall not be ashamed that wait for me.
 
 
 ## In Closing

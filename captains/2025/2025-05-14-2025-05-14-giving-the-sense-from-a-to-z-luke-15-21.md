@@ -32,8 +32,6 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 **[Luke 15:11-12](/bible/luke/15#v11)**  *[[4:39](https://www.youtube.com/watch?v=UAvAIkBWCO4&t=279s)]*
 
 > <sup>[11](/bible/luke/15#v11)</sup> And he said, A certain man had two sons:
->
-> <sup>[12](/bible/luke/15#v12)</sup> And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living.
 
 - A certain man had two sons: Right? And the younger of them said to his father, Father, give me the portion of goods that fall to me. And he divided unto them his living. Right? So, he had these two sons. The one son wanted to leave. This is a parable. Now, the one son didn't want to stick around and wait till pops passed away. He wanted his bread right now. So he said, Pops, give me this bread. Let me go do what I got to do. You know what I'm saying? I ain't hanging around here no more. He was out.
 
@@ -41,18 +39,12 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 
 - So when you jump now to verse 21, And the son said unto him, Father, I have sinned against heaven and in thy sight and am no more worthy to be called thy son: He's saying when he left, right? Remember the northern kingdom, they went off idolatry and everything else. So now as they're coming back, right, remember this is the analogy that's being given, right? The parable that now what? He done spent his money, right? Just like somebody had take their inheritance, they went spent the money on laying up with all type of women and so on and so forth and spending it cause everything else. He's broke, spiritually broken. Now he's coming home and he's telling the father, listen, matter of fact, I'mma get that for y'all real quick before we move on. Just in case y'all didn't listen to yesterday, I just want to catch y'all up.
 
+> <sup>[12](/bible/luke/15#v12)</sup> And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living.
+
 
 **[Luke 15:14-18](/bible/luke/15#v14)**  *[[6:41](https://www.youtube.com/watch?v=UAvAIkBWCO4&t=401s)]*
 
 > <sup>[14](/bible/luke/15#v14)</sup> And when he had spent all, there arose a mighty famine in that land; and he began to be in want.
->
-> <sup>[15](/bible/luke/15#v15)</sup> And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine.
->
-> <sup>[16](/bible/luke/15#v16)</sup> And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him.
->
-> <sup>[17](/bible/luke/15#v17)</sup> And when he came to himself, he said, How many hired servants of my father’s have bread enough and to spare, and I perish with hunger!
->
-> <sup>[18](/bible/luke/15#v18)</sup> I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,
 
 - And when he had spent all: Spent all what? All of the money that his father gave him.
 
@@ -60,18 +52,26 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 
 - He sent him into his fields to feed swine. And he would fain have filled his belly with the husk that the swine did eat and no man gave unto him: So he was broke out there dealing with all idolatry and he was eating what the damn pigs was eating. Meaning what? That he was eating of, now again this parable, but talking about him doing everything outside of the laws of God. Right? That's really what it's talking about.
 
+> <sup>[15](/bible/luke/15#v15)</sup> And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine.
+>
+> <sup>[16](/bible/luke/15#v16)</sup> And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him.
+>
+> <sup>[17](/bible/luke/15#v17)</sup> And when he came to himself, he said, How many hired servants of my father’s have bread enough and to spare, and I perish with hunger!
+
 - And when he came to himself: I'm sorry, verse 17 y'all. And when he came to himself, meaning when he remembered who he was, right? Beth thinking himself, right? Now, this is the part I want to get to before we jump. How many hired servants of my fathers have bred enough and to spare and I perish? I perish with hunger. So, he started saying to himself, why am I out here when I could just go back to my father? He got, even his servants got enough to give me just a little bit and I'll be all right.
 
 - It says in verse 18: He went back to his father and said, Listen, I'm not even worthy to be called your son. You know what I'm saying? Just let me be here as a servant. Right? So that's what it's saying in regards to the northern kingdom coming back and saying, Lord, just let me back in. Right? This is the parable, right? Of when the northern kingdom was being brought back into the fold. That's for those who didn't see yesterday. For those who did see yesterday, I apologize for having to go back, but we have to get the understanding, right? Well, what we going to read is going to sound crazy.
+
+> <sup>[18](/bible/luke/15#v18)</sup> I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,
 
 
 **[Luke 15:21-22](/bible/luke/15#v21)**  *[[8:38](https://www.youtube.com/watch?v=UAvAIkBWCO4&t=518s)]*
 
 > <sup>[21](/bible/luke/15#v21)</sup> And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son.
->
-> <sup>[22](/bible/luke/15#v22)</sup> But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet:
 
 - And the son said unto him, Father, I have sinned against heaven and in thy sight and am no more worthy to be called thy son: He's saying the same thing again.
+
+> <sup>[22](/bible/luke/15#v22)</sup> But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet:
 
 - But the father said to his servants, Bring forth the best robe and put it on him and put a ring on his hand and shoes on his feet: So when he went to his father and say, Hey pops, I'm not, listen, I can't even be called your son. I'm disgusted. I'm ashamed for taking your money, going out there, spending all the bread, and now I'm coming home like a poor but nothing to show for it. I'm a demon out there. Lord, just let me be a servant. Father, just let me lay on the floor something. You know what I mean? That's what he's saying. But the father said, No. Told the servants, Get the best robe. Get this and put it on him. What is this talking about?
 
@@ -91,6 +91,12 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 
 **[Ephesians 6:10-17](/bible/ephesians/6#v10)**  *[[10:46](https://www.youtube.com/watch?v=UAvAIkBWCO4&t=646s)]*
 
+- Let's get some more on that: Y'all get Ephesians. We gonna beat this up a little bit. Get Ephesians chapter 6. Y'all know how we do. We gonna kill a fly with a sledgehammer. I mean, we could go all day with just that alone. That's a whole class. That's a whole class. Just talking about being clothed in righteousness. That's a whole class. But we ain't going to do that right now because that's not the point. But we going to get a few. All right. So, let's get this. This is Ephesians chapter 6. We going to start in verse 10. We going to read down to 17.
+
+- Put on the whole armor of God that you may be able to stand against the wiles of the devil: Right? So when you getting that robe and you putting Christ on, that's what's happening. You're putting on Christ and you're able to withstand the wiles of the devil. This is what happened when the northern kingdom come back. Now what? Remember Paul was doing what? He was teaching them the law and he was teaching them Christ. That's what was going on. All right, y'all. So y'all have to think of it in that spiritual sense and then using the physical showing you in the parable, putting on his clothing, putting on the law, right? Putting on Christ, right?
+
+- Stand therefore, having your loins gird about with truth, and having on the breastplate of righteousness: Right? So that robe is a breastplate, putting on all of the righteousness is doing what? To withstand in that evil day. So when them times come, you're able to remember the laws of God, right? And keep yourself out of sin, right?
+
 > <sup>[10](/bible/ephesians/6#v10)</sup> Finally, my brethren, be strong in the Lord, and in the power of his might.
 >
 > <sup>[11](/bible/ephesians/6#v11)</sup> Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.
@@ -102,41 +108,19 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 > <sup>[14](/bible/ephesians/6#v14)</sup> Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness;
 >
 > <sup>[15](/bible/ephesians/6#v15)</sup> And your feet shod with the preparation of the gospel of peace;
->
-> <sup>[16](/bible/ephesians/6#v16)</sup> Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked.
->
-> <sup>[17](/bible/ephesians/6#v17)</sup> And take the helmet of salvation, and the sword of the Spirit, which is the word of God:
-
-- Let's get some more on that: Y'all get Ephesians. We gonna beat this up a little bit. Get Ephesians chapter 6. Y'all know how we do. We gonna kill a fly with a sledgehammer. I mean, we could go all day with just that alone. That's a whole class. That's a whole class. Just talking about being clothed in righteousness. That's a whole class. But we ain't going to do that right now because that's not the point. But we going to get a few. All right. So, let's get this. This is Ephesians chapter 6. We going to start in verse 10. We going to read down to 17.
-
-- Put on the whole armor of God that you may be able to stand against the wiles of the devil: Right? So when you getting that robe and you putting Christ on, that's what's happening. You're putting on Christ and you're able to withstand the wiles of the devil. This is what happened when the northern kingdom come back. Now what? Remember Paul was doing what? He was teaching them the law and he was teaching them Christ. That's what was going on. All right, y'all. So y'all have to think of it in that spiritual sense and then using the physical showing you in the parable, putting on his clothing, putting on the law, right? Putting on Christ, right?
-
-- Stand therefore, having your loins gird about with truth, and having on the breastplate of righteousness: Right? So that robe is a breastplate, putting on all of the righteousness is doing what? To withstand in that evil day. So when them times come, you're able to remember the laws of God, right? And keep yourself out of sin, right?
 
 - And your feet shod with the preparation of the gospel of peace: Because that's what he said. Bring those shoes. Right? He said bring the shoes and put it on his feet. That's what we read.
 
+> <sup>[16](/bible/ephesians/6#v16)</sup> Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked.
+
 - Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked: I love that.
+
+> <sup>[17](/bible/ephesians/6#v17)</sup> And take the helmet of salvation, and the sword of the Spirit, which is the word of God:
 
 - And take the helmet of salvation and the sword of the spirit, which is the word of God: Right? So, that's really what that's going into in Luke, right? It's just saying you're going to put on Christ. And generally you're going to see that robes or put on the armor, so on and so forth. But putting on that what? That immortality. We gonna get to it.
 
 
 **[Ezekiel 16:7-14](/bible/ezekiel/16#v7)**  *[[13:20](https://www.youtube.com/watch?v=UAvAIkBWCO4&t=800s)]*
-
-> <sup>[7](/bible/ezekiel/16#v7)</sup> I have caused thee to multiply as the bud of the field, and thou hast increased and waxen great, and thou art come to excellent ornaments: thy breasts are fashioned, and thine hair is grown, whereas thou wast naked and bare.
->
-> <sup>[8](/bible/ezekiel/16#v8)</sup> Now when I passed by thee, and looked upon thee, behold, thy time was the time of love; and I spread my skirt over thee, and covered thy nakedness: yea, I sware unto thee, and entered into a covenant with thee, saith the Lord God, and thou becamest mine.
->
-> <sup>[9](/bible/ezekiel/16#v9)</sup> Then washed I thee with water; yea, I throughly washed away thy blood from thee, and I anointed thee with oil.
->
-> <sup>[10](/bible/ezekiel/16#v10)</sup> I clothed thee also with broidered work, and shod thee with badgers’ skin, and I girded thee about with fine linen, and I covered thee with silk.
->
-> <sup>[11](/bible/ezekiel/16#v11)</sup> I decked thee also with ornaments, and I put bracelets upon thy hands, and a chain on thy neck.
->
-> <sup>[12](/bible/ezekiel/16#v12)</sup> And I put a jewel on thy forehead, and earrings in thine ears, and a beautiful crown upon thine head.
->
-> <sup>[13](/bible/ezekiel/16#v13)</sup> Thus wast thou decked with gold and silver; and thy raiment was of fine linen, and silk, and broidered work; thou didst eat fine flour, and honey, and oil: and thou wast exceeding beautiful, and thou didst prosper into a kingdom.
->
-> <sup>[14](/bible/ezekiel/16#v14)</sup> And thy renown went forth among the heathen for thy beauty: for it was perfect through my comeliness, which I had put upon thee, saith the Lord God.
 
 - Let's get a couple more: Oh, I love this one. I think I read this to y'all before for something else, but I just love this scripture. So, we just going to go to it. Ezekiel chapter 16. I love this scripture right here because it talks about what the Lord did for us, right? Physically, right? But this goes perfectly with what's happening spiritually because the Lord uses the same type of verbiage. Right? So Ezekiel 16, we're gonna start in verse 7.
 
@@ -148,9 +132,25 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 
 - I clothe thee also with embroidered work and shod thee with badger skin: See, here we go with the clothing. So he said, Yo, I put on you fur coats. That's the badger skin. That's why I love this y'all. All right. I love this. You know, a lot of y'all from the warm cities, you know what I'm saying? In New York, you know what I'm saying? We throwing the furs and the leathers. You know what I'm saying? We into that foolishness over there, right?
 
+> <sup>[7](/bible/ezekiel/16#v7)</sup> I have caused thee to multiply as the bud of the field, and thou hast increased and waxen great, and thou art come to excellent ornaments: thy breasts are fashioned, and thine hair is grown, whereas thou wast naked and bare.
+>
+> <sup>[8](/bible/ezekiel/16#v8)</sup> Now when I passed by thee, and looked upon thee, behold, thy time was the time of love; and I spread my skirt over thee, and covered thy nakedness: yea, I sware unto thee, and entered into a covenant with thee, saith the Lord God, and thou becamest mine.
+>
+> <sup>[9](/bible/ezekiel/16#v9)</sup> Then washed I thee with water; yea, I throughly washed away thy blood from thee, and I anointed thee with oil.
+>
+> <sup>[10](/bible/ezekiel/16#v10)</sup> I clothed thee also with broidered work, and shod thee with badgers’ skin, and I girded thee about with fine linen, and I covered thee with silk.
+
 - And I girded thee about with fine linen and I covered thee with silk: He telling you about all the clothing that he put on you, right? That's what the father said. I'mma put on you, hey, get him the best robe. Get him the shoes to put on his feet. Get this, what the Lord is saying. Look what I did for you. I put you silk, embroidered works, this and that.
 
 - And I put bracelets upon thine hands and a chain on your neck: I love that. He said, I put a chain on your neck. Right? And I always say the same thing. We see our people, we big into the jewelry. That's why the Lord had already put that on our spirit, right? He said, I put a chain on your neck, bracelets. I put ornaments on you.
+
+> <sup>[11](/bible/ezekiel/16#v11)</sup> I decked thee also with ornaments, and I put bracelets upon thy hands, and a chain on thy neck.
+>
+> <sup>[12](/bible/ezekiel/16#v12)</sup> And I put a jewel on thy forehead, and earrings in thine ears, and a beautiful crown upon thine head.
+>
+> <sup>[13](/bible/ezekiel/16#v13)</sup> Thus wast thou decked with gold and silver; and thy raiment was of fine linen, and silk, and broidered work; thou didst eat fine flour, and honey, and oil: and thou wast exceeding beautiful, and thou didst prosper into a kingdom.
+>
+> <sup>[14](/bible/ezekiel/16#v14)</sup> And thy renown went forth among the heathen for thy beauty: for it was perfect through my comeliness, which I had put upon thee, saith the Lord God.
 
 - And thy renown went forth among the heathen for thy beauty: Right? So now it's talking about Israel on a physical level. We went forth amongst all the nations for our beauty, our style. Still to this day, our style is what runs the whole world, right? Whatever we wear, everybody wears. Whatever style we put together, they wear it because they keep an eye on that. You know, back when we was coming up, you know, we knew people in the fashion industry and all that in New York. And they would say that those companies was always looking at the urban community, black and Hispanic neighborhoods, generally Judah, they really looking at Judah to see what Judah's doing. So, as soon as Judah starts to make moves, they're like, Okay, yeah, do this.
 
@@ -170,23 +170,23 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 
 **[2 Esdras 2:42-47](/bible/2-esdras/2#v42)**  *[[19:23](https://www.youtube.com/watch?v=UAvAIkBWCO4&t=1163s)]*
 
+- Second Esdras: Sorry to beat y'all in the head, but we got to do it. We got to do it. All right. And there's a lot more. There's a lot more. And I think I meant to put one more in here. And I don't see it. So, I think I might have forgot it. Or maybe it's coming later. But look at this y'all. 2 Esdras chapter 2 and verse 42. All right. We going to start there. Y'all have seen this before, but I'm just connecting the dots. That's all we doing, right?
+
 > <sup>[42](/bible/2-esdras/2#v42)</sup> I Esdras saw upon the mount Sion a great people, whom I could not number, and they all praised the Lord with songs.
 >
 > <sup>[43](/bible/2-esdras/2#v43)</sup> And in the midst of them there was a young man of a high stature, taller than all the rest, and upon every one of their heads he set crowns, and was more exalted; which I marvelled at greatly.
->
-> <sup>[44](/bible/2-esdras/2#v44)</sup> So I asked the angel, and said, Sir, what are these?
->
-> <sup>[45](/bible/2-esdras/2#v45)</sup> He answered and said unto me, These be they that have put off the mortal clothing, and put on the immortal, and have confessed the name of God: now are they crowned, and receive palms.
->
-> <sup>[46](/bible/2-esdras/2#v46)</sup> Then said I unto the angel, What young person is it that crowneth them, and giveth them palms in their hands?
->
-> <sup>[47](/bible/2-esdras/2#v47)</sup> So he answered and said unto me, It is the Son of God, whom they have confessed in the world. Then began I greatly to commend them that stood so stiffly for the name of the Lord.
-
-- Second Esdras: Sorry to beat y'all in the head, but we got to do it. We got to do it. All right. And there's a lot more. There's a lot more. And I think I meant to put one more in here. And I don't see it. So, I think I might have forgot it. Or maybe it's coming later. But look at this y'all. 2 Esdras chapter 2 and verse 42. All right. We going to start there. Y'all have seen this before, but I'm just connecting the dots. That's all we doing, right?
 
 - And upon every one of their heads he set crowns: Right? We just read about that in Revelation where they had what? White robes and crowns. Right? Now, we're getting the detail description of what actually was going on and who was doing it. Right? This person that's taller than everybody else, that's Christ. We going to read that.
 
+> <sup>[44](/bible/2-esdras/2#v44)</sup> So I asked the angel, and said, Sir, what are these?
+>
+> <sup>[45](/bible/2-esdras/2#v45)</sup> He answered and said unto me, These be they that have put off the mortal clothing, and put on the immortal, and have confessed the name of God: now are they crowned, and receive palms.
+
 - These be they that have put off the mortal clothing: Y'all understand that? That have put off the mortal clothing, right? Like we was reading before, the mortal clothing. That was the physical thing we was reading about in Ezekiel. Put off the mortal clothing, meaning what? That sin, and put on the immortal, right? That's that best robe, the white robe.
+
+> <sup>[46](/bible/2-esdras/2#v46)</sup> Then said I unto the angel, What young person is it that crowneth them, and giveth them palms in their hands?
+>
+> <sup>[47](/bible/2-esdras/2#v47)</sup> So he answered and said unto me, It is the Son of God, whom they have confessed in the world. Then began I greatly to commend them that stood so stiffly for the name of the Lord.
 
 - Then began I greatly to commend them that stood so stiffly for the name of the Lord: Right? So that's what it is. All right. So I just wanted to give y'all that. We connected some dots and there's much more. We probably going to touch on a little something else that's going to connect to another part of what we, we got to move on. I'm taking a lot of time talking. Y'all can't help it. Forgive me, y'all.
 
@@ -194,10 +194,10 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 **[Luke 15:23-24](/bible/luke/15#v23)**  *[[21:22](https://www.youtube.com/watch?v=UAvAIkBWCO4&t=1282s)]*
 
 > <sup>[23](/bible/luke/15#v23)</sup> And bring hither the fatted calf, and kill it; and let us eat, and be merry:
->
-> <sup>[24](/bible/luke/15#v24)</sup> For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry.
 
 - And bring hither the fatted calf and kill it and let us eat and be merry: Right. So now after he said, Bring the robe, bring everything. Now he's having a party for his son. So he's saying, Get the fatted calf. Meaning one of the best calfs you have. We're going to kill that calf. Slay it. We're going to roast it. We going to eat it. We going to have a party, right? Eat and be merry.
+
+> <sup>[24](/bible/luke/15#v24)</sup> For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry.
 
 - For this my son was dead and is alive again: All right. He was saying that the son, meaning what? The northern kingdom, right? Which is being represented as a son here in a parable was dead and is alive again.
 
@@ -226,20 +226,36 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 
 **[Acts 10:1-11](/bible/acts/10#v1)**  *[[23:41](https://www.youtube.com/watch?v=UAvAIkBWCO4&t=1421s)]*
 
+- Let's take a look at Acts chapter 10: We going to do a little bit of reading. Right? We going to do a little reading. Get a little bit of understanding. And we going to start in verse one, y'all.
+
+- There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band: Right? So now this centurion, right, called Cornelius was in Caesarea. Now when you look into this place, Caesarea, and it says Italian band. So in the Christian church, right, in the Christian church, they teach you that what? That this guy is Italian. But it just said he was part of the Italian band. Why? Because the Romans had what? They had like a sort of a city there when they took over and they came and, remember, they took over the whole world. So they had, it's just like how America is, they have bases all over. So one of their bases was in Caesarea. Our people were part of their army. That's just what it was. Our people were part of their army and this is Cornelius who was part of the army. Okay. And Caesarea is found in Israel. Okay. It's just the name sounds Italian or is Greek but the places in Jerusalem, in Israel y'all.
+
+- A devout man and one that feared God with all his house, which gave much arms to the people and prayed to God always: Right? So, that's already given it away. He's a devout man. You can't be devout and be of another nation. We're going to get to that, right?
+
 > <sup>[1](/bible/acts/10#v1)</sup> There was a certain man in Cesarea called Cornelius, a centurion of the band called the Italian band,
 >
 > <sup>[2](/bible/acts/10#v2)</sup> A devout man, and one that feared God with all his house, which gave much alms to the people, and prayed to God alway.
 >
 > <sup>[3](/bible/acts/10#v3)</sup> He saw in a vision evidently about the ninth hour of the day an angel of God coming in to him, and saying unto him, Cornelius.
->
+
+- He saw in a vision evidently about the ninth hour of the day: The 9th hour of the day is about 3:00, all right.
+
 > <sup>[4](/bible/acts/10#v4)</sup> And when he looked on him, he was afraid, and said, What is it, Lord? And he said unto him, Thy prayers and thine alms are come up for a memorial before God.
 >
 > <sup>[5](/bible/acts/10#v5)</sup> And now send men to Joppa, and call for one Simon, whose surname is Peter:
->
+
+- And now send men to Joppa and call for one Simon whose surname is Peter: So he said, Go send some men and go find Peter. This man's name is Peter. Go find that man. Right?
+
 > <sup>[6](/bible/acts/10#v6)</sup> He lodgeth with one Simon a tanner, whose house is by the sea side: he shall tell thee what thou oughtest to do.
 >
 > <sup>[7](/bible/acts/10#v7)</sup> And when the angel which spake unto Cornelius was departed, he called two of his household servants, and a devout soldier of them that waited on him continually;
->
+
+- He called two of his household servants and a devout soldier of them that waited on him continually: Right? So Cornelius was the head of this crew. He was the head of that particular band called the Italian band. He was the head.
+
+- Peter went up upon the house to pray about the sixth hour: Right? And he became very hungry. So now Peter went up there around the sixth hour, which is around noon. Okay? And he became very hungry and would have eaten. But while they made ready, he fell into a trance. And then I want y'all to pay attention to verse 11.
+
+- And he saw heaven opened and a certain vessel descending unto him as it had been a great sheet knit at the four corners and let down to the earth: Right? So when we read something like that, we're saying what the hell was Peter dreaming about? What was he in his trance about? Let's go to Hosea 8 and verse 8. Remember what it says here. He saw heaven opened up and a certain vessel descending.
+
 > <sup>[8](/bible/acts/10#v8)</sup> And when he had declared all these things unto them, he sent them to Joppa.
 >
 > <sup>[9](/bible/acts/10#v9)</sup> On the morrow, as they went on their journey, and drew nigh unto the city, Peter went up upon the housetop to pray about the sixth hour:
@@ -247,22 +263,6 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 > <sup>[10](/bible/acts/10#v10)</sup> And he became very hungry, and would have eaten: but while they made ready, he fell into a trance,
 >
 > <sup>[11](/bible/acts/10#v11)</sup> And saw heaven opened, and a certain vessel descending unto him, as it had been a great sheet knit at the four corners, and let down to the earth:
-
-- Let's take a look at Acts chapter 10: We going to do a little bit of reading. Right? We going to do a little reading. Get a little bit of understanding. And we going to start in verse one, y'all.
-
-- There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band: Right? So now this centurion, right, called Cornelius was in Caesarea. Now when you look into this place, Caesarea, and it says Italian band. So in the Christian church, right, in the Christian church, they teach you that what? That this guy is Italian. But it just said he was part of the Italian band. Why? Because the Romans had what? They had like a sort of a city there when they took over and they came and, remember, they took over the whole world. So they had, it's just like how America is, they have bases all over. So one of their bases was in Caesarea. Our people were part of their army. That's just what it was. Our people were part of their army and this is Cornelius who was part of the army. Okay. And Caesarea is found in Israel. Okay. It's just the name sounds Italian or is Greek but the places in Jerusalem, in Israel y'all.
-
-- A devout man and one that feared God with all his house, which gave much arms to the people and prayed to God always: Right? So, that's already given it away. He's a devout man. You can't be devout and be of another nation. We're going to get to that, right?
-
-- He saw in a vision evidently about the ninth hour of the day: The 9th hour of the day is about 3:00, all right.
-
-- And now send men to Joppa and call for one Simon whose surname is Peter: So he said, Go send some men and go find Peter. This man's name is Peter. Go find that man. Right?
-
-- He called two of his household servants and a devout soldier of them that waited on him continually: Right? So Cornelius was the head of this crew. He was the head of that particular band called the Italian band. He was the head.
-
-- Peter went up upon the house to pray about the sixth hour: Right? And he became very hungry. So now Peter went up there around the sixth hour, which is around noon. Okay? And he became very hungry and would have eaten. But while they made ready, he fell into a trance. And then I want y'all to pay attention to verse 11.
-
-- And he saw heaven opened and a certain vessel descending unto him as it had been a great sheet knit at the four corners and let down to the earth: Right? So when we read something like that, we're saying what the hell was Peter dreaming about? What was he in his trance about? Let's go to Hosea 8 and verse 8. Remember what it says here. He saw heaven opened up and a certain vessel descending.
 
 
 **[Hosea 8:8](/bible/hosea/8#v8)**  *[[27:20](https://www.youtube.com/watch?v=UAvAIkBWCO4&t=1640s)]*
@@ -301,15 +301,25 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 **[Acts 10:12-22](/bible/acts/10#v12)**  *[[31:05](https://www.youtube.com/watch?v=UAvAIkBWCO4&t=1865s)]*
 
 > <sup>[12](/bible/acts/10#v12)</sup> Wherein were all manner of fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air.
->
+
+- Wherein were all manner of fourfooted beasts of the earth and wild beasts and creeping things and fowls of the air: I'm sorry, verse 12. So now when we read these two together, is he just having a random dream? Let's read.
+
+- But Peter said, Not so, Lord, for I have never eaten anything that is common or unclean: So when Peter is looking at this in his vision, right? He's seeing a bunch of unclean animals coming down in this niche sheet. And he's like, Lord, I'm not eating this. I don't eat no pork. I don't eat animals that don't chew the cud. I don't eat, you know what I mean? I don't eat shrimp, lobster, all of that. Whatever it might be. He's looking at it as a dietary thing, which a lot of Christians believe that that's what this was talking about. That, oh no, you can eat anything you want. Look what Peter said. That's not what this is talking about. We know that it's talking about our people, the northern kingdom, who did what? Went off into madness and idolatry. Why do you think this is being talking about with Cornelius coming back? This is the beginning of it. Right?
+
 > <sup>[13](/bible/acts/10#v13)</sup> And there came a voice to him, Rise, Peter; kill, and eat.
 >
 > <sup>[14](/bible/acts/10#v14)</sup> But Peter said, Not so, Lord; for I have never eaten any thing that is common or unclean.
->
+
+- Common or unclean: When you look in the book of John, right, Christ was the first one to approach the northern kingdom when he dealt with the system in John 4. He was the first one. He had to keep that order. They wasn't going to go before him and deal with the northern kingdom. Christ went first and he dealt with him. That's why he told the disciples, No, don't go anywhere where the Gentiles at because he was going to go there first. He went there, handled that, then allowed them to go handle that because he had to keep the order. So now Peter's doing what? He's now dealing with the Gentiles right here. He's about to. He doesn't know. But this is the vision that's being shown to him to prepare him to deal with who? Cornelius.
+
 > <sup>[15](/bible/acts/10#v15)</sup> And the voice spake unto him again the second time, What God hath cleansed, that call not thou common.
->
+
+- What God hath cleansed, that call not thou common: Hold on. Let me make sure I ain't going too far. I want to see where I got y'all going to. All right. We're gonna keep going, y'all.
+
 > <sup>[16](/bible/acts/10#v16)</sup> This was done thrice: and the vessel was received up again into heaven.
->
+
+- This was done thrice: Meaning three times, and the vessel was received up again into heaven.
+
 > <sup>[17](/bible/acts/10#v17)</sup> Now while Peter doubted in himself what this vision which he had seen should mean, behold, the men which were sent from Cornelius had made enquiry for Simon’s house, and stood before the gate,
 >
 > <sup>[18](/bible/acts/10#v18)</sup> And called, and asked whether Simon, which was surnamed Peter, were lodged there.
@@ -317,22 +327,12 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 > <sup>[19](/bible/acts/10#v19)</sup> While Peter thought on the vision, the Spirit said unto him, Behold, three men seek thee.
 >
 > <sup>[20](/bible/acts/10#v20)</sup> Arise therefore, and get thee down, and go with them, doubting nothing: for I have sent them.
->
+
+- Behold, three men seek thee. Arise therefore, and get thee down, and go with them, doubting nothing, for I have sent them: So now, he saw the vision. These three men are there. So now the spirit is telling him, I got to deal with those three because I sent them to you. He just had that vision, y'all. I want y'all to make sure y'all make that connection. This vision wasn't sent to him for no reason. And then randomly three people come up there trying to sell him a vacuum or sell him something at the door, some Girl Scout cookies. This was dealing with, bro, what I just showed you in this vision, apply that to who you about to talk to. All right, that's the best way I can explain it as we about to read further.
+
 > <sup>[21](/bible/acts/10#v21)</sup> Then Peter went down to the men which were sent unto him from Cornelius; and said, Behold, I am he whom ye seek: what is the cause wherefore ye are come?
 >
 > <sup>[22](/bible/acts/10#v22)</sup> And they said, Cornelius the centurion, a just man, and one that feareth God, and of good report among all the nation of the Jews, was warned from God by an holy angel to send for thee into his house, and to hear words of thee.
-
-- Wherein were all manner of fourfooted beasts of the earth and wild beasts and creeping things and fowls of the air: I'm sorry, verse 12. So now when we read these two together, is he just having a random dream? Let's read.
-
-- But Peter said, Not so, Lord, for I have never eaten anything that is common or unclean: So when Peter is looking at this in his vision, right? He's seeing a bunch of unclean animals coming down in this niche sheet. And he's like, Lord, I'm not eating this. I don't eat no pork. I don't eat animals that don't chew the cud. I don't eat, you know what I mean? I don't eat shrimp, lobster, all of that. Whatever it might be. He's looking at it as a dietary thing, which a lot of Christians believe that that's what this was talking about. That, oh no, you can eat anything you want. Look what Peter said. That's not what this is talking about. We know that it's talking about our people, the northern kingdom, who did what? Went off into madness and idolatry. Why do you think this is being talking about with Cornelius coming back? This is the beginning of it. Right?
-
-- Common or unclean: When you look in the book of John, right, Christ was the first one to approach the northern kingdom when he dealt with the system in John 4. He was the first one. He had to keep that order. They wasn't going to go before him and deal with the northern kingdom. Christ went first and he dealt with him. That's why he told the disciples, No, don't go anywhere where the Gentiles at because he was going to go there first. He went there, handled that, then allowed them to go handle that because he had to keep the order. So now Peter's doing what? He's now dealing with the Gentiles right here. He's about to. He doesn't know. But this is the vision that's being shown to him to prepare him to deal with who? Cornelius.
-
-- What God hath cleansed, that call not thou common: Hold on. Let me make sure I ain't going too far. I want to see where I got y'all going to. All right. We're gonna keep going, y'all.
-
-- This was done thrice: Meaning three times, and the vessel was received up again into heaven.
-
-- Behold, three men seek thee. Arise therefore, and get thee down, and go with them, doubting nothing, for I have sent them: So now, he saw the vision. These three men are there. So now the spirit is telling him, I got to deal with those three because I sent them to you. He just had that vision, y'all. I want y'all to make sure y'all make that connection. This vision wasn't sent to him for no reason. And then randomly three people come up there trying to sell him a vacuum or sell him something at the door, some Girl Scout cookies. This was dealing with, bro, what I just showed you in this vision, apply that to who you about to talk to. All right, that's the best way I can explain it as we about to read further.
 
 - Cornelius the centurion, a just man, and one that feareth God: Right? So now when we reading and it says, A just man, right? Because remember before it said devout, this one saying a just man, right? So now let's get that. Let's make sure that we dealing with an Israelite here. Because now people might be thinking, Oh, we just dealing with some random Italian guy. Some white guy and now he just loves God. No, no. Come on, y'all. Let's go to Ezekiel. Precept must be upon precept. Precept must be upon precept.
 
@@ -365,6 +365,8 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 
 **[Acts 10:23-28](/bible/acts/10#v23)**  *[[35:47](https://www.youtube.com/watch?v=UAvAIkBWCO4&t=2147s)]*
 
+- Then call he them in and lodged them. And on the morrow Peter went away with them, and certain brethren from Joppa accompanied him: So Peter went with these brothers that Cornelius sent and some of Peter's people came with him.
+
 > <sup>[23](/bible/acts/10#v23)</sup> Then called he them in, and lodged them. And on the morrow Peter went away with them, and certain brethren from Joppa accompanied him.
 >
 > <sup>[24](/bible/acts/10#v24)</sup> And the morrow after they entered into Cesarea. And Cornelius waited for them, and had called together his kinsmen and near friends.
@@ -372,18 +374,16 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 > <sup>[25](/bible/acts/10#v25)</sup> And as Peter was coming in, Cornelius met him, and fell down at his feet, and worshipped him.
 >
 > <sup>[26](/bible/acts/10#v26)</sup> But Peter took him up, saying, Stand up; I myself also am a man.
->
-> <sup>[27](/bible/acts/10#v27)</sup> And as he talked with him, he went in, and found many that were come together.
->
-> <sup>[28](/bible/acts/10#v28)</sup> And he said unto them, Ye know how that it is an unlawful thing for a man that is a Jew to keep company, or come unto one of another nation; but God hath shewed me that I should not call any man common or unclean.
-
-- Then call he them in and lodged them. And on the morrow Peter went away with them, and certain brethren from Joppa accompanied him: So Peter went with these brothers that Cornelius sent and some of Peter's people came with him.
 
 - But Peter took him up, saying, Stand up. I myself also am a man: Right? I myself also am a man. Where am I? I'm sorry y'all, took my eyes off the thing for a second.
+
+> <sup>[27](/bible/acts/10#v27)</sup> And as he talked with him, he went in, and found many that were come together.
 
 - And as he talked with him, he went in and found many that were come together: So now Peter's talking to him outside. As they go inside, there's a lot of people up in there. They all waiting for Peter's arrival because they want to hear the word. They all coming back to the word. Remember, these are northern kingdom, mainly northern kingdom, Israel, and some of the scattered southern, right? Who was strictly doing the ways of the Greeks, right? And now they want to hear. They want to come back. This is what the prodical son is talking about, y'all. That's why we went here to Acts to show you what that prodical son is talking about. Right?
 
 - Ye know how that is that it is an unlawful thing for a man that is a Jew to keep company or come unto one of another nation: Right? But God has showed me that I should not call any man common or unclean. Remember his dream was talking about beasts. So why would he say a man? Because he understood from Hosea that what? The northern kingdom was going to be what? A vessel wherein there's no pleasure among the Gentiles. So that's why he's saying, why he say nation. That's why you got a lot of the confused Christians and I hope maybe some of them is on and they going to watch at some point. We always got to, you know, think for others and maybe some of us who's now coming to the truth but you don't fully understand. That's fine. That's fine. There's no problem in that. Learn, right? You're going to learn today. You're going to learn every day when we got these classes going on.
+
+> <sup>[28](/bible/acts/10#v28)</sup> And he said unto them, Ye know how that it is an unlawful thing for a man that is a Jew to keep company, or come unto one of another nation; but God hath shewed me that I should not call any man common or unclean.
 
 - One of another nation: Right? That when he says another nation, he's not talking about just any nation. There's a reason why he said it. He said that what? It's unlawful for a Jew, meaning a man of the kingdom of Judah, to deal with one of another nation. What is that nation talking about? We gonna get the understanding, y'all. We going to get the understanding. Why? Because we love one another. So, we got to do it, right? Let's get it. Get Ezekiel chapter 37. And let's get the understanding on one of another nation because he went in there and he realized who's in there. It was the Northern Kingdom brothers up in there. He was like, Oh shoot, damn. Everybody coming back. Okay, they trying to learn. But he said, Damn, you know, it's unlawful.
 
@@ -393,12 +393,6 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 **[Ezekiel 37:19-22](/bible/ezekiel/37#v19)**  *[[40:00](https://www.youtube.com/watch?v=UAvAIkBWCO4&t=2400s)]*
 
 > <sup>[19](/bible/ezekiel/37#v19)</sup> Say unto them, Thus saith the Lord God; Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they shall be one in mine hand.
->
-> <sup>[20](/bible/ezekiel/37#v20)</sup> And the sticks whereon thou writest shall be in thine hand before their eyes.
->
-> <sup>[21](/bible/ezekiel/37#v21)</sup> And say unto them, Thus saith the Lord God; Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land:
->
-> <sup>[22](/bible/ezekiel/37#v22)</sup> And I will make them one nation in the land upon the mountains of Israel; and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all:
 
 - Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows: That's the northern kingdom, y'all.
 
@@ -406,9 +400,15 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 
 - And make them one stick, and they shall be one in my hand: Meaning I'mma put the two tribes back. I'mma put the 12 back together. That's what it's talking about.
 
+> <sup>[20](/bible/ezekiel/37#v20)</sup> And the sticks whereon thou writest shall be in thine hand before their eyes.
+>
+> <sup>[21](/bible/ezekiel/37#v21)</sup> And say unto them, Thus saith the Lord God; Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land:
+
 - Behold, I will take the children of Israel from among the heathen: Remember that they gonna be in what? They going to be a vessel wherein is no pleasure among the Gentiles. And we know the southern kingdom as well, but at that time, just showing y'all what was going on at the time, right? We using that for reference.
 
 - And I will make them one nation in the land upon the mountains of Israel, and one king shall be the king to them all, and they shall be no more two nations: Y'all understand that? So when he's saying that it's unlawful for a Jew to deal with one of another nation, he's talking about the nation of Israel. That's what he's talking about. The nation of Judah, don't play with the nation of Israel. That's what he's saying. That's what he was talking about. And we see the proof right here. We going to get a couple more pieces for some proof, right?
+
+> <sup>[22](/bible/ezekiel/37#v22)</sup> And I will make them one nation in the land upon the mountains of Israel; and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all:
 
 - Neither shall they be divided into two kingdoms any more at all: So, there's not going to be no division between the northern and southern kingdom anymore.
 
@@ -492,6 +492,10 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 
 **[Luke 15:24-28](/bible/luke/15#v24)**  *[[51:22](https://www.youtube.com/watch?v=UAvAIkBWCO4&t=3082s)]*
 
+- For this my son was dead and is alive again. He was lost and is found and they began to be married. Now his elder son was in the field: Right. The elder son is what? Regarding, is talking about Judah, right?
+
+- And he called one of the servants and asked him what these things meant: He said, Yo, what's going on here? What's all this partying going on? And I don't know damn thing about it. Right?
+
 > <sup>[24](/bible/luke/15#v24)</sup> For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry.
 >
 > <sup>[25](/bible/luke/15#v25)</sup> Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing.
@@ -499,14 +503,10 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 > <sup>[26](/bible/luke/15#v26)</sup> And he called one of the servants, and asked what these things meant.
 >
 > <sup>[27](/bible/luke/15#v27)</sup> And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound.
->
-> <sup>[28](/bible/luke/15#v28)</sup> And he was angry, and would not go in: therefore came his father out, and intreated him.
-
-- For this my son was dead and is alive again. He was lost and is found and they began to be married. Now his elder son was in the field: Right. The elder son is what? Regarding, is talking about Judah, right?
-
-- And he called one of the servants and asked him what these things meant: He said, Yo, what's going on here? What's all this partying going on? And I don't know damn thing about it. Right?
 
 - Thy brother is come and thy father hath killed the fatted calf because he hath received him safe and sound: And so he said, Your pops, your brother came home. He's alive. He's in good condition. He a little beat up and broke, but he's home. And your pops is super happy. So he threw a party.
+
+> <sup>[28](/bible/luke/15#v28)</sup> And he was angry, and would not go in: therefore came his father out, and intreated him.
 
 - And he was angry and would not go in: Judah was angry. Said, What? And would not go in. He ain't want to go. Yo, we all been there. You know what I'm saying? He ain't get invited. He felt like he ain't get invited. He like, Yo, how y'all throwing a party? I'm out here working. Y'all throwing a party? I ain't going to listen. I ain't even going in there. He said, The hell with your party. This is crazy. He said, The hell with your party. Right? I'm sorry, y'all.
 
@@ -515,21 +515,13 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 
 **[Romans 11:6-11](/bible/romans/11#v6)**  *[[53:29](https://www.youtube.com/watch?v=UAvAIkBWCO4&t=3209s)]*
 
-> <sup>[6](/bible/romans/11#v6)</sup> And if by grace, then is it no more of works: otherwise grace is no more grace. But if it be of works, then is it no more grace: otherwise work is no more work.
->
-> <sup>[7](/bible/romans/11#v7)</sup> What then? Israel hath not obtained that which he seeketh for; but the election hath obtained it, and the rest were blinded
->
-> <sup>[8](/bible/romans/11#v8)</sup> (According as it is written, God hath given them the spirit of slumber, eyes that they should not see, and ears that they should not hear;) unto this day.
->
-> <sup>[9](/bible/romans/11#v9)</sup> And David saith, Let their table be made a snare, and a trap, and a stumblingblock, and a recompence unto them:
->
-> <sup>[10](/bible/romans/11#v10)</sup> Let their eyes be darkened, that they may not see, and bow down their back alway.
->
-> <sup>[11](/bible/romans/11#v11)</sup> I say then, Have they stumbled that they should fall? God forbid: but rather through their fall salvation is come unto the Gentiles, for to provoke them to jealousy.
-
 - Romans 11: We'll start in verse 6. All right. The point. Why is Judah mad that northern kingdom came home? Why is he mad?
 
+> <sup>[6](/bible/romans/11#v6)</sup> And if by grace, then is it no more of works: otherwise grace is no more grace. But if it be of works, then is it no more grace: otherwise work is no more work.
+
 - And if by grace, then is it no more of works: Right? What is this talking about? When Christ came in giving grace and taking away the animal sacrifice, right?
+
+> <sup>[7](/bible/romans/11#v7)</sup> What then? Israel hath not obtained that which he seeketh for; but the election hath obtained it, and the rest were blinded
 
 - What then? Israel hath not obtained that which he seeketh for, but the election hath obtained it, and the rest were blinded: Watch this. According as it is written, God hath given them the spirit of slumber, eyes that they should not see, and ears that they should not hear until this day. Watch this. Let's go to Isaiah 29 and 10. Okay, we coming right back to Romans. Why was Judah mad?
 
@@ -537,7 +529,15 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 
 - And David saith, Let their table be made a snare and a trap and a stumbling block and a recompense unto them: We back in Romans 11, where I want to pick up from, verse 10, no, verse nine. Meaning what? It says, Let the table. Meaning what? What's the table? Habakkuk 2 and 2 real quick, y'all. And we coming right back to Romans. Just hold Romans. We coming back. So we know what the hell we reading. All right? Because I'll be in the streets teaching the Christians about Romans 11. They don't know what the hell's going on in there. They going crazy. Talking about other people could be grafted into the, no, that's not what it's talking about.
 
+> <sup>[8](/bible/romans/11#v8)</sup> (According as it is written, God hath given them the spirit of slumber, eyes that they should not see, and ears that they should not hear;) unto this day.
+>
+> <sup>[9](/bible/romans/11#v9)</sup> And David saith, Let their table be made a snare, and a trap, and a stumblingblock, and a recompence unto them:
+
 - Let their table be made a snare: So now let's go back to Romans 11, we in verse 9 now. And David saith, Let their table be made a snare. Meaning what? When they read it, let it be a snare to them. They don't understand it. Right? Why is that? We're gonna find out. And a trap and a stumbling block and a recompense unto them. Let their eyes be darkened that they may not see and bow down their back always.
+
+> <sup>[10](/bible/romans/11#v10)</sup> Let their eyes be darkened, that they may not see, and bow down their back alway.
+>
+> <sup>[11](/bible/romans/11#v11)</sup> I say then, Have they stumbled that they should fall? God forbid: but rather through their fall salvation is come unto the Gentiles, for to provoke them to jealousy.
 
 - I say then, Have they stumbled that they should fall: This is the key. Has Judah stumbled that they should totally fall? Watch this. God forbid me to know. But rather through their fall salvation is come unto the Gentiles, for to provoke them to jealousy. Was that not what we just read? The first son Judah got jealous. That was jealousy. We all know that. We understand that it was jealousy, right?
 
@@ -579,33 +579,33 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 > <sup>[28](/bible/luke/15#v28)</sup> And he was angry, and would not go in: therefore came his father out, and intreated him.
 >
 > <sup>[29](/bible/luke/15#v29)</sup> And he answering said to his father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends:
->
-> <sup>[30](/bible/luke/15#v30)</sup> But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf.
 
 - And yet thou never gavest me a kid, that I might make merry with my friends: Meaning what? A fatted lamb, a fatted calf. He said, You ain't never did that for me. But what this is talking about, as the captain went over yesterday, that what? Remember Israel, the southern kingdom was Judah and Benjamin, and all Levi came down to the southern kingdom. It was what? Still keeping the law. They were still doing their thing. So this is what he's saying. Like I, we stayed doing it. Now we know Judah went off at some point, was messing up. But the point of it was they kept it. The northern kingdom was gone. You know what I'm saying? There was some northern kingdom amongst the southern kingdom, but most of them was gone. So this is what the parable is saying. We kept it for the most part. I was holding it down. You ain't never throw no party for me.
+
+> <sup>[30](/bible/luke/15#v30)</sup> But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf.
 
 - But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf: Meaning as soon as Ephraim came home, which hath devoured thy living, meaning have all your, what you worked for and inheritance you gave to him, he spent it on harlots, thou has killed for him the fatted calf. You went had a party for this after he done had prostitutes and doing all manner of evil and you throw him a party after I was holding it down and you ain't throwing me no party.
 
 
 **[Jeremiah 3:1-3](/bible/jeremiah/3#v1)**  *[[1:01:28](https://www.youtube.com/watch?v=UAvAIkBWCO4&t=3688s)]*
 
-> <sup>[1](/bible/jeremiah/3#v1)</sup> They say, If a man put away his wife, and she go from him, and become another man’s, shall he return unto her again? shall not that land be greatly polluted? but thou hast played the harlot with many lovers; yet return again to me, saith the Lord.
->
-> <sup>[2](/bible/jeremiah/3#v2)</sup> Lift up thine eyes unto the high places, and see where thou hast not been lien with. In the ways hast thou sat for them, as the Arabian in the wilderness; and thou hast polluted the land with thy whoredoms and with thy wickedness.
->
-> <sup>[3](/bible/jeremiah/3#v3)</sup> Therefore the showers have been withholden, and there hath been no latter rain; and thou hadst a whore’s forehead, thou refusedst to be ashamed.
-
 - Let's go to Jeremiah: It's talking about he was living with harlots and all of that. Let's get it. Jeremiah 3, y'all. We ain't got that much longer to go. And we start at verse one, right?
+
+> <sup>[1](/bible/jeremiah/3#v1)</sup> They say, If a man put away his wife, and she go from him, and become another man’s, shall he return unto her again? shall not that land be greatly polluted? but thou hast played the harlot with many lovers; yet return again to me, saith the Lord.
 
 - If a man put away his wife and she go from him and become another man's, shall he return unto her again? Shall not that land be greatly polluted: Right? So this is the analogy that the Lord has given, that what? In the law if a woman go outside and lay up with another man, that man is not supposed to go back to her at no point in time. Is not that land greatly polluted? And those of y'all who seen Scarface, y'all seen that: your woman is so polluted I can't even have a little kid get with her. Now they probably got that from here, right?
 
 - But thou hast played the harlot with many lovers: Right? That's all idolatry. Okay. Yet return again to me, saith the Lord.
+
+> <sup>[2](/bible/jeremiah/3#v2)</sup> Lift up thine eyes unto the high places, and see where thou hast not been lien with. In the ways hast thou sat for them, as the Arabian in the wilderness; and thou hast polluted the land with thy whoredoms and with thy wickedness.
 
 - Lift up thine eyes unto the high places: That's where all of the idols were. And see where thou hast not been lying with.
 
 - In the ways hast thou sat for them, as the Arabian in the wilderness: That's talking about, you know, Islam and all that, right? And thou hast polluted the land with thy whoredoms and with thy wickedness.
 
 - Therefore the showers have been withholding and there have been no latter rain: And thou has a forehead. I refuse to be ashamed. Say, Yo, you had a forehead. You refuse to be ashamed. Meaning what? No matter what's being told to you, you like, Oh, no. I'm sleeping with this one. I don't give a damn. And you had a forehead. I think I want to go a little further there. I'm going just read verse eight for y'all. But that whole thing is connected. I'm just, for time sake.
+
+> <sup>[3](/bible/jeremiah/3#v3)</sup> Therefore the showers have been withholden, and there hath been no latter rain; and thou hadst a whore’s forehead, thou refusedst to be ashamed.
 
 
 **[Jeremiah 3:8](/bible/jeremiah/3#v8)**  *[[1:03:35](https://www.youtube.com/watch?v=UAvAIkBWCO4&t=3815s)]*
@@ -638,15 +638,15 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 
 **[Acts 13:44-46](/bible/acts/13#v44)**  *[[1:06:14](https://www.youtube.com/watch?v=UAvAIkBWCO4&t=3974s)]*
 
+- Go to Acts 13 real quick: All right, this will give you some more understanding on that. And this is the stuff you got to always study, right? Because you ain't going to remember it all the time, but you study and study until you get it. Acts 13, we're going to start in verse 44.
+
 > <sup>[44](/bible/acts/13#v44)</sup> And the next sabbath day came almost the whole city together to hear the word of God.
 >
 > <sup>[45](/bible/acts/13#v45)</sup> But when the Jews saw the multitudes, they were filled with envy, and spake against those things which were spoken by Paul, contradicting and blaspheming.
->
-> <sup>[46](/bible/acts/13#v46)</sup> Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing ye put it from you, and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles.
-
-- Go to Acts 13 real quick: All right, this will give you some more understanding on that. And this is the stuff you got to always study, right? Because you ain't going to remember it all the time, but you study and study until you get it. Acts 13, we're going to start in verse 44.
 
 - But when the Jews saw the multitudes, they were filled with envy: You see what I'm saying? When they saw the multitudes, they were filled with envy. Just like it was saying, the Lord said, I'm gonna bring them to jealousy with a nation that is not a people, right? With a foolish nation, right?
+
+> <sup>[46](/bible/acts/13#v46)</sup> Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing ye put it from you, and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles.
 
 - It was necessary that the word of God should first have been spoken to you: Meaning that we had to come to y'all first. Right? Out of order's sake, right?
 
@@ -655,28 +655,28 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 
 **[Romans 11:13-15](/bible/romans/11#v13)**  *[[1:08:11](https://www.youtube.com/watch?v=UAvAIkBWCO4&t=4091s)]*
 
+- For I speak unto you, Gentiles, in as much as I am the apostle of the Gentiles, I magnify my office: Remember what we read in Galatians. Remember, he said the office of the Gentiles was given unto me, as Peter was given to what? To Judah, right?
+
 > <sup>[13](/bible/romans/11#v13)</sup> For I speak to you Gentiles, inasmuch as I am the apostle of the Gentiles, I magnify mine office:
 >
 > <sup>[14](/bible/romans/11#v14)</sup> If by any means I may provoke to emulation them which are my flesh, and might save some of them.
->
-> <sup>[15](/bible/romans/11#v15)</sup> For if the casting away of them be the reconciling of the world, what shall the receiving of them be, but life from the dead?
-
-- For I speak unto you, Gentiles, in as much as I am the apostle of the Gentiles, I magnify my office: Remember what we read in Galatians. Remember, he said the office of the Gentiles was given unto me, as Peter was given to what? To Judah, right?
 
 - If by any means I may provoke to emulation them which are my flesh, and might save some of them: That's the point. He's gonna provoke them to emulation. Why? Because he's teaching. Remember Paul is from the southern kingdom. He's from the tribe of Benjamin. So he's now trying to do what? Make the southern kingdom emulate what the northern kingdom is doing. Meaning what? Believe on Christ and keep the law. Right?
+
+> <sup>[15](/bible/romans/11#v15)</sup> For if the casting away of them be the reconciling of the world, what shall the receiving of them be, but life from the dead?
 
 - For if the casting away of them be the reconciling of the world, what shall the receiving of them be, but life from the dead: Right. Watch this y'all real quick. Real quick. Go to Romans 5.
 
 
 **[Romans 5:9-10](/bible/romans/5#v9)**  *[[1:08:49](https://www.youtube.com/watch?v=UAvAIkBWCO4&t=4129s)]*
 
-> <sup>[9](/bible/romans/5#v9)</sup> Much more then, being now justified by his blood, we shall be saved from wrath through him.
->
-> <sup>[10](/bible/romans/5#v10)</sup> For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life.
-
 - Much more than being now justified by his blood, we shall be saved from wrath through him: Right? Now, when it talks about being justified, I know we going a little bit long, but when it talks about being justified, real quick, go to Isaiah 45:25. I got to show y'all this precept so y'all understand exactly what that justification is going into. All right, we're not going to be much longer. We ain't going to be much longer, but I got to give it to you.
 
+> <sup>[9](/bible/romans/5#v9)</sup> Much more then, being now justified by his blood, we shall be saved from wrath through him.
+
 - Being now justified by his blood: Now, write that next to what we got in Romans 5:9. Let's go back. I'm read it again and then we're going to read verse 10, y'all. Much more than being now justified by his blood, we shall be saved from wrath through him. Why? Because you going to keep the command. You're not going to get the second death. That's what it's talking about.
+
+> <sup>[10](/bible/romans/5#v10)</sup> For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life.
 
 - For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life: Being what? We going to be reconciled back. Because what? God was an enemy to us at one time. But now through what? Through Christ. Now we're going to be reconciled. Right? How you going to be reconciled? If you was never together, you can't be reconciled. That's why the nations was never with God. So they cannot be reconciled with him. No, we are reconciled because we were together at one time. And now we going to reconcile. Just like a marriage, or we're separated, or we're going to reconcile. How the hell you going to reconcile with a woman as a man? You can't reconcile with a woman you never met. You just met the woman on the street and say, Oh, yeah. We are not reconciled. She like, Nigga, what are you talking about? I don't know you. All right. I'm sorry for the n-words, y'all. Terrible. Some things are hard to shake, y'all.
 
@@ -710,14 +710,14 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 **[Amos 9:11-12](/bible/amos/9#v11)**  *[[1:13:08](https://www.youtube.com/watch?v=UAvAIkBWCO4&t=4388s)]*
 
 > <sup>[11](/bible/amos/9#v11)</sup> In that day will I raise up the tabernacle of David that is fallen, and close up the breaches thereof; and I will raise up his ruins, and I will build it as in the days of old:
->
-> <sup>[12](/bible/amos/9#v12)</sup> That they may possess the remnant of Edom, and of all the heathen, which are called by my name, saith the Lord that doeth this.
 
 - In that day: All right. Now just one more and we out of here. All right. I want to show y'all this. Amos chapter 9 and verse 11. In that day, in what day? In the day when Christ returned, right?
 
 - Will I raise up the tabernacle of David that is fallen, and close up the breaches thereof: Right? The breaches is what? The breach between the northern and southern kingdom. Okay. The breach between the northern and southern kingdom.
 
 - And I will raise up his ruins, and I will build it as in the days of old: I will build it. What? The 12 tribes back together like in the days of old.
+
+> <sup>[12](/bible/amos/9#v12)</sup> That they may possess the remnant of Edom, and of all the heathen, which are called by my name, saith the Lord that doeth this.
 
 - That they may possess the remnant of Edom, and of all the heathen, which are called by my name, saith the LORD that doeth this: All Amalek and all of that, that they going to go into slavery underneath the Israelites. All right. So with that, that what? Build back the ruins of old, the 12 tribes back together again.
 

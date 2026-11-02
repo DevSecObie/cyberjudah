@@ -898,6 +898,10 @@ Reading from a definition of clairvoyance  *[[2:15:12](https://www.youtube.com/w
 
 **[1 Samuel 3:4-12](/bible/1-samuel/3#v4)**  *[[2:22:22](https://www.youtube.com/watch?v=kw1RCi6Wuzk&t=8542s)]*
 
+- I hope you all read your four chapters a day, because you would know what it's talking about. All right, read on.
+
+- So he thought Eli was calling him. Read on.
+
 > <sup>[4](/bible/1-samuel/3#v4)</sup> That the Lord called Samuel: and he answered, Here am I.
 >
 > <sup>[5](/bible/1-samuel/3#v5)</sup> And he ran unto Eli, and said, Here am I; for thou calledst me. And he said, I called not; lie down again. And he went and lay down.
@@ -907,7 +911,11 @@ Reading from a definition of clairvoyance  *[[2:15:12](https://www.youtube.com/w
 > <sup>[7](/bible/1-samuel/3#v7)</sup> Now Samuel did not yet know the Lord, neither was the word of the Lord yet revealed unto him.
 >
 > <sup>[8](/bible/1-samuel/3#v8)</sup> And the Lord called Samuel again the third time. And he arose and went to Eli, and said, Here am I; for thou didst call me. And Eli perceived that the Lord had called the child.
->
+
+- Eli perceived: oh no, the Lord is calling him. That's that clairaudience. That's a spiritual level of a sixth sense. Read on.
+
+- So Samuel finally said, yes, Lord, I'm here. I hear you. That was an inner hearing, a spiritual hearing. It was no voice uttering, but he heard it in here. That's his conscience. Watch this real quick. Go to 1 Kings 19, 19 and 10.
+
 > <sup>[9](/bible/1-samuel/3#v9)</sup> Therefore Eli said unto Samuel, Go, lie down: and it shall be, if he call thee, that thou shalt say, Speak, Lord; for thy servant heareth. So Samuel went and lay down in his place.
 >
 > <sup>[10](/bible/1-samuel/3#v10)</sup> And the Lord came, and stood, and called as at other times, Samuel, Samuel. Then Samuel answered, Speak; for thy servant heareth.
@@ -915,14 +923,6 @@ Reading from a definition of clairvoyance  *[[2:15:12](https://www.youtube.com/w
 > <sup>[11](/bible/1-samuel/3#v11)</sup> And the Lord said to Samuel, Behold, I will do a thing in Israel, at which both the ears of every one that heareth it shall tingle.
 >
 > <sup>[12](/bible/1-samuel/3#v12)</sup> In that day I will perform against Eli all things which I have spoken concerning his house: when I begin, I will also make an end.
-
-- I hope you all read your four chapters a day, because you would know what it's talking about. All right, read on.
-
-- So he thought Eli was calling him. Read on.
-
-- Eli perceived: oh no, the Lord is calling him. That's that clairaudience. That's a spiritual level of a sixth sense. Read on.
-
-- So Samuel finally said, yes, Lord, I'm here. I hear you. That was an inner hearing, a spiritual hearing. It was no voice uttering, but he heard it in here. That's his conscience. Watch this real quick. Go to 1 Kings 19, 19 and 10.
 
 **[1 Kings 19:10-14](/bible/1-kings/19#v10)**  *[[2:24:06](https://www.youtube.com/watch?v=kw1RCi6Wuzk&t=8646s)]*
 

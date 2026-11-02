@@ -95,15 +95,15 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "nations", "prophecy", "repen
 
 **[Habakkuk 2:1-3](/bible/habakkuk/2#v1)**  *[[38:37](https://www.youtube.com/watch?v=mjYPN6fe6DY&t=2317s)]*
 
+- I will stand upon my watch and set me upon the tower and watch to see what he will say unto me. The watchman is awake and paying attention to the signs of the times. The world is scared and people are dropping dead wanting to know what will happen; let us see what the Lord says.
+
 > <sup>[1](/bible/habakkuk/2#v1)</sup> I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved.
 >
 > <sup>[2](/bible/habakkuk/2#v2)</sup> And the Lord answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it.
->
-> <sup>[3](/bible/habakkuk/2#v3)</sup> For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry.
-
-- I will stand upon my watch and set me upon the tower and watch to see what he will say unto me. The watchman is awake and paying attention to the signs of the times. The world is scared and people are dropping dead wanting to know what will happen; let us see what the Lord says.
 
 - Write the vision and make it plain upon tables, that he may run that readeth it: run to teach and warn. The vision is for an appointed time, but at the end it shall speak and not lie; though it tarry, wait for it, it will surely come.
+
+> <sup>[3](/bible/habakkuk/2#v3)</sup> For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry.
 
 
 **[2 Esdras 15:20-21](/bible/2-esdras/15#v20)**  *[[41:03](https://www.youtube.com/watch?v=mjYPN6fe6DY&t=2463s)]*

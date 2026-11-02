@@ -261,7 +261,15 @@ Reading from a search on Kush in the Bible · read by Captain Uri  *[[50:57](htt
 **[Genesis 11:1-10](/bible/genesis/11#v1)**  *[[53:56](https://www.youtube.com/watch?v=JLhHPemmiSk&t=3236s)]*
 
 > <sup>[1](/bible/genesis/11#v1)</sup> And the whole earth was of one language, and of one speech.
->
+
+- The whole earth was of one language and of one speech: everybody pronounced every word the same. They journeyed to a plain in the land of Shinar: this is Babylon.
+
+- Let us build us a city and a tower, whose top may reach unto heaven. What was their intent? Remember, Nimrod was a mighty hunter before the Lord: they were against God. They wanted to build a tower to heaven thinking they might be able to destroy God and escape any destruction that comes. Let us make us a name, lest we be scattered abroad: they already knew in the spirit realm what would happen.
+
+- Behold, the people is one, and they have all one language, and now nothing will be restrained from them which they have imagined to do. That lets you know the Kushites, the Hamites, were not a dumb, ignorant race of people; the opposite, they were very intelligent, and they dealt in the spirit realm.
+
+- Therefore is the name of it called Babel, because the Lord did there confound the language of all the earth. Babel means confusion, and from thence did the Lord scatter them abroad upon the face of all the earth.
+
 > <sup>[2](/bible/genesis/11#v2)</sup> And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar; and they dwelt there.
 >
 > <sup>[3](/bible/genesis/11#v3)</sup> And they said one to another, Go to, let us make brick, and burn them throughly. And they had brick for stone, and slime had they for morter.
@@ -280,24 +288,22 @@ Reading from a search on Kush in the Bible · read by Captain Uri  *[[50:57](htt
 >
 > <sup>[10](/bible/genesis/11#v10)</sup> These are the generations of Shem: Shem was an hundred years old, and begat Arphaxad two years after the flood:
 
-- The whole earth was of one language and of one speech: everybody pronounced every word the same. They journeyed to a plain in the land of Shinar: this is Babylon.
-- Let us build us a city and a tower, whose top may reach unto heaven. What was their intent? Remember, Nimrod was a mighty hunter before the Lord: they were against God. They wanted to build a tower to heaven thinking they might be able to destroy God and escape any destruction that comes. Let us make us a name, lest we be scattered abroad: they already knew in the spirit realm what would happen.
-- Behold, the people is one, and they have all one language, and now nothing will be restrained from them which they have imagined to do. That lets you know the Kushites, the Hamites, were not a dumb, ignorant race of people; the opposite, they were very intelligent, and they dealt in the spirit realm.
-- Therefore is the name of it called Babel, because the Lord did there confound the language of all the earth. Babel means confusion, and from thence did the Lord scatter them abroad upon the face of all the earth.
-
 **[Obadiah 1:1-4](/bible/obadiah/1#v1)**  *[[58:25](https://www.youtube.com/watch?v=JLhHPemmiSk&t=3505s)]*
+
+- The vision of Obadiah, concerning Edom: E D O M, which means red, the red people. An ambassador is sent among the heathen: we are seeing ambassadors pop up trying to organize and rally the nations against America, but nobody has fit the bill as of yet. Arise ye, and let us rise up against her in battle: this is going to happen.
 
 > <sup>[1](/bible/obadiah/1#v1)</sup> The vision of Obadiah. Thus saith the Lord God concerning Edom; We have heard a rumour from the Lord, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.
 >
 > <sup>[2](/bible/obadiah/1#v2)</sup> Behold, I have made thee small among the heathen: thou art greatly despised.
->
+
+- Behold, I have made thee small among the heathen: although they call us minorities, God says they are the smallest of all nations. Thou art greatly despised: America and these white people have to do so much evil in the earth that everybody hates them. Are we not seeing that now? All kinds of nations getting mad at them, hating America and hating the Israelis.
+
 > <sup>[3](/bible/obadiah/1#v3)</sup> The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall bring me down to the ground?
->
+
+- The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock: originally they dwelt in Mount Seir, which today they call Petra, and in the Caucasus Mountains during the dark ages. They love the high buildings; that is why they have skyscrapers.
+
 > <sup>[4](/bible/obadiah/1#v4)</sup> Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the Lord.
 
-- The vision of Obadiah, concerning Edom: E D O M, which means red, the red people. An ambassador is sent among the heathen: we are seeing ambassadors pop up trying to organize and rally the nations against America, but nobody has fit the bill as of yet. Arise ye, and let us rise up against her in battle: this is going to happen.
-- Behold, I have made thee small among the heathen: although they call us minorities, God says they are the smallest of all nations. Thou art greatly despised: America and these white people have to do so much evil in the earth that everybody hates them. Are we not seeing that now? All kinds of nations getting mad at them, hating America and hating the Israelis.
-- The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock: originally they dwelt in Mount Seir, which today they call Petra, and in the Caucasus Mountains during the dark ages. They love the high buildings; that is why they have skyscrapers.
 - Though thou exalt thyself as the eagle: what is the symbol of America? The eagle. Ancient Greece, Rome, Spain, Britain, and Germany at one time all had the eagle; they love that bird of prey. And though thou set thy nest among the stars: who is doing space travel? They just sent up Artemis 2 to the moon the day before yesterday. Thence will I bring thee down, saith the Lord. Esau is doing the same thing that Babylon, the original, did.
 
 **[Jeremiah 51:53](/bible/jeremiah/51#v53)**  *[[1:02:18](https://www.youtube.com/watch?v=JLhHPemmiSk&t=3738s)]*
@@ -308,36 +314,26 @@ Reading from a search on Kush in the Bible · read by Captain Uri  *[[50:57](htt
 
 **[Habakkuk 2:1-12](/bible/habakkuk/2#v1)**  *[[1:03:01](https://www.youtube.com/watch?v=JLhHPemmiSk&t=3781s)]*
 
+- Habakkuk was in the Babylonian captivity, around 606 BC. The princes and the king got taken away; Habakkuk was left because he was a poor prophet, and he was complaining about what ancient Babylon did to us under Nebuchadnezzar.
+
 > <sup>[1](/bible/habakkuk/2#v1)</sup> I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved.
 >
 > <sup>[2](/bible/habakkuk/2#v2)</sup> And the Lord answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it.
->
-> <sup>[3](/bible/habakkuk/2#v3)</sup> For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry.
->
-> <sup>[4](/bible/habakkuk/2#v4)</sup> Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith.
->
-> <sup>[5](/bible/habakkuk/2#v5)</sup> Yea also, because he transgresseth by wine, he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:
->
-> <sup>[6](/bible/habakkuk/2#v6)</sup> Shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increaseth that which is not his! how long? and to him that ladeth himself with thick clay!
->
-> <sup>[7](/bible/habakkuk/2#v7)</sup> Shall they not rise up suddenly that shall bite thee, and awake that shall vex thee, and thou shalt be for booties unto them?
->
-> <sup>[8](/bible/habakkuk/2#v8)</sup> Because thou hast spoiled many nations, all the remnant of the people shall spoil thee; because of men’s blood, and for the violence of the land, of the city, and of all that dwell therein.
->
-> <sup>[9](/bible/habakkuk/2#v9)</sup> Woe to him that coveteth an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil!
->
-> <sup>[10](/bible/habakkuk/2#v10)</sup> Thou hast consulted shame to thy house by cutting off many people, and hast sinned against thy soul.
->
-> <sup>[11](/bible/habakkuk/2#v11)</sup> For the stone shall cry out of the wall, and the beam out of the timber shall answer it.
->
-> <sup>[12](/bible/habakkuk/2#v12)</sup> Woe to him that buildeth a town with blood, and stablisheth a city by iniquity!
 
-- Habakkuk was in the Babylonian captivity, around 606 BC. The princes and the king got taken away; Habakkuk was left because he was a poor prophet, and he was complaining about what ancient Babylon did to us under Nebuchadnezzar.
 - Write the vision, and make it plain upon tables: the book is what we call the Bible today. That he may run that readeth it: there would be a famine of hearing the words of the Lord, and people would run to and fro seeking it. From the time after Christ and the disciples died, there was no truth being taught in the earth: by the time of Constantine around 325 AD the churches were worshiping idols, Tertullian created the Trinity, and the crusades went here and there trying to find the cup and the cross, running to and fro for some glimpse of understanding.
+
+> <sup>[3](/bible/habakkuk/2#v3)</sup> For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry.
+
 - For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it. Sometimes you read prophecy and want it to happen in your lifetime, but God says it is for a later date. We are in that time period now.
+
+> <sup>[4](/bible/habakkuk/2#v4)</sup> Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith.
+
 - Behold, his soul which is lifted up is not upright in him: this man raised up in the last days is proud, he transgresseth by wine, meaning philosophies and lies, and neither keepeth at home. Does America keep at home? They are in everybody's country, with over 850 bases worldwide. Who enlargeth his desire as hell: when he takes your land he introduces democracy and Christianity, and your whole society gets turned to hell. And cannot be satisfied, but gathereth unto him all nations: he destabilizes your country, bombs your country, then says, I will let a remnant of you come to the United States. That is why America is called the great melting pot.
+
 - Shall not all these take up a parable against him? Woe to him that increaseth that which is not his: did you forget about Venezuela already? He took Venezuela; he took the oil. Shall they not rise up suddenly that shall bite thee? There are sleeper cells here; the remnants of the nations whose countries were destroyed shall awake and vex them. Because thou hast spoiled many nations, all the remnant of the people shall spoil thee.
+
 - Woe to him that coveteth an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil. Is that not what Nimrod and them were doing? Before we get scattered, let us build a tower and get up to heaven. Today's Babylon has the same characteristics and attributes.
+
 - Woe to him that buildeth a town with blood, and stablisheth a city by iniquity. America was built with blood: the schools, the churches, and the courthouses are on the bones and blood of our brothers and sisters. Did not Cain establish a city by iniquity? There is no new thing under the sun.
   Precepts:
   - **[Isaiah 30:8](/bible/isaiah/30#v8)**
@@ -370,6 +366,22 @@ Reading from a search on Kush in the Bible · read by Captain Uri  *[[50:57](htt
 
     I will exalt my throne above the stars of God: space travel. I will sit also upon the mount of the congregation, in the sides of the north: that is us, in North America. I will ascend above the heights of the clouds: airplanes. How could that part be true, because you see it, but the verse above it about the stars be fake?
 
+> <sup>[5](/bible/habakkuk/2#v5)</sup> Yea also, because he transgresseth by wine, he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:
+>
+> <sup>[6](/bible/habakkuk/2#v6)</sup> Shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increaseth that which is not his! how long? and to him that ladeth himself with thick clay!
+>
+> <sup>[7](/bible/habakkuk/2#v7)</sup> Shall they not rise up suddenly that shall bite thee, and awake that shall vex thee, and thou shalt be for booties unto them?
+>
+> <sup>[8](/bible/habakkuk/2#v8)</sup> Because thou hast spoiled many nations, all the remnant of the people shall spoil thee; because of men’s blood, and for the violence of the land, of the city, and of all that dwell therein.
+>
+> <sup>[9](/bible/habakkuk/2#v9)</sup> Woe to him that coveteth an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil!
+>
+> <sup>[10](/bible/habakkuk/2#v10)</sup> Thou hast consulted shame to thy house by cutting off many people, and hast sinned against thy soul.
+>
+> <sup>[11](/bible/habakkuk/2#v11)</sup> For the stone shall cry out of the wall, and the beam out of the timber shall answer it.
+>
+> <sup>[12](/bible/habakkuk/2#v12)</sup> Woe to him that buildeth a town with blood, and stablisheth a city by iniquity!
+
 <div class="reading">
 
 Reading from a search on plans to colonize the moon · read by Captain Uri  *[[1:15:46](https://www.youtube.com/watch?v=JLhHPemmiSk&t=4546s)]*
@@ -394,6 +406,8 @@ Reading from an on-screen note on Mars · read by Captain Uri  *[[1:18:00](https
 
 **[Numbers 24:1-25](/bible/numbers/24#v1)**  *[[1:19:47](https://www.youtube.com/watch?v=JLhHPemmiSk&t=4787s)]*
 
+- Balaam dealt with enchantments, which lets us know he is a witch, a soothsayer, a diviner. When it says the spirit of God came upon him, notice the little s: this is on the left hand side; it is not the Holy Spirit coming on Balaam.
+
 > <sup>[1](/bible/numbers/24#v1)</sup> And when Balaam saw that it pleased the Lord to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness.
 >
 > <sup>[2](/bible/numbers/24#v2)</sup> And Balaam lifted up his eyes, and he saw Israel abiding in his tents according to their tribes; and the spirit of God came upon him.
@@ -407,7 +421,11 @@ Reading from an on-screen note on Mars · read by Captain Uri  *[[1:18:00](https
 > <sup>[6](/bible/numbers/24#v6)</sup> As the valleys are they spread forth, as gardens by the river’s side, as the trees of lign aloes which the Lord hath planted, and as cedar trees beside the waters.
 >
 > <sup>[7](/bible/numbers/24#v7)</sup> He shall pour the water out of his buckets, and his seed shall be in many waters, and his king shall be higher than Agag, and his kingdom shall be exalted.
->
+
+- His king shall be higher than Agag: Agag was a tall Edomite. There will be no question in the kingdom which one is the Son of God; it is going to be astronomically clear. He shall eat up the nations his enemies: Balaam saw Christ destroying the nations. Blessed is he that blesseth thee, and cursed is he that curseth thee.
+
+- Balak's anger was kindled against Balaam because he wanted Balaam to curse us, and Balaam blessed us three times. Balaam said, If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the Lord: Balaam knew it was the Lord sending that spirit upon him. Come, and I will advertise thee what this people shall do to thy people in the latter days.
+
 > <sup>[8](/bible/numbers/24#v8)</sup> God brought him forth out of Egypt; he hath as it were the strength of an unicorn: he shall eat up the nations his enemies, and shall break their bones, and pierce them through with his arrows.
 >
 > <sup>[9](/bible/numbers/24#v9)</sup> He couched, he lay down as a lion, and as a great lion: who shall stir him up? Blessed is he that blesseth thee, and cursed is he that curseth thee.
@@ -427,28 +445,17 @@ Reading from an on-screen note on Mars · read by Captain Uri  *[[1:18:00](https
 > <sup>[16](/bible/numbers/24#v16)</sup> He hath said, which heard the words of God, and knew the knowledge of the most High, which saw the vision of the Almighty, falling into a trance, but having his eyes open:
 >
 > <sup>[17](/bible/numbers/24#v17)</sup> I shall see him, but not now: I shall behold him, but not nigh: there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel, and shall smite the corners of Moab, and destroy all the children of Sheth.
->
+
+- I shall see him, but not now: I shall behold him, but not nigh. Balaam the witch revealed to the king, I am going to see Christ in the last days, but not near, because he is not an Israelite, but he will witness what is going on. There shall come a Star out of Jacob, and a Sceptre shall rise out of Israel: this is Christ, the star of Jacob, the king that shall rise out of Israel.
+
+- He shall smite the corners of Moab, and destroy all the children of Sheth: anybody that worships the Egyptian god Seth. And Edom shall be a possession: Edom shall become servants to this people, and Israel shall do valiantly.
+
 > <sup>[18](/bible/numbers/24#v18)</sup> And Edom shall be a possession, Seir also shall be a possession for his enemies; and Israel shall do valiantly.
 >
 > <sup>[19](/bible/numbers/24#v19)</sup> Out of Jacob shall come he that shall have dominion, and shall destroy him that remaineth of the city.
 >
 > <sup>[20](/bible/numbers/24#v20)</sup> And when he looked on Amalek, he took up his parable, and said, Amalek was the first of the nations; but his latter end shall be that he perish for ever.
->
-> <sup>[21](/bible/numbers/24#v21)</sup> And he looked on the Kenites, and took up his parable, and said, Strong is thy dwellingplace, and thou puttest thy nest in a rock.
->
-> <sup>[22](/bible/numbers/24#v22)</sup> Nevertheless the Kenite shall be wasted, until Asshur shall carry thee away captive.
->
-> <sup>[23](/bible/numbers/24#v23)</sup> And he took up his parable, and said, Alas, who shall live when God doeth this!
->
-> <sup>[24](/bible/numbers/24#v24)</sup> And ships shall come from the coast of Chittim, and shall afflict Asshur, and shall afflict Eber, and he also shall perish for ever.
->
-> <sup>[25](/bible/numbers/24#v25)</sup> And Balaam rose up, and went and returned to his place: and Balak also went his way.
 
-- Balaam dealt with enchantments, which lets us know he is a witch, a soothsayer, a diviner. When it says the spirit of God came upon him, notice the little s: this is on the left hand side; it is not the Holy Spirit coming on Balaam.
-- His king shall be higher than Agag: Agag was a tall Edomite. There will be no question in the kingdom which one is the Son of God; it is going to be astronomically clear. He shall eat up the nations his enemies: Balaam saw Christ destroying the nations. Blessed is he that blesseth thee, and cursed is he that curseth thee.
-- Balak's anger was kindled against Balaam because he wanted Balaam to curse us, and Balaam blessed us three times. Balaam said, If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the Lord: Balaam knew it was the Lord sending that spirit upon him. Come, and I will advertise thee what this people shall do to thy people in the latter days.
-- I shall see him, but not now: I shall behold him, but not nigh. Balaam the witch revealed to the king, I am going to see Christ in the last days, but not near, because he is not an Israelite, but he will witness what is going on. There shall come a Star out of Jacob, and a Sceptre shall rise out of Israel: this is Christ, the star of Jacob, the king that shall rise out of Israel.
-- He shall smite the corners of Moab, and destroy all the children of Sheth: anybody that worships the Egyptian god Seth. And Edom shall be a possession: Edom shall become servants to this people, and Israel shall do valiantly.
 - When he looked on Amalek: that is what you call the Israelis today. Amalek was the first of the nations that fought against us, but his latter end shall be that he perish for ever. The Kenites shall be wasted until Asshur, the Assyrians, carry them away captive; Judges 1:16 tells you about the Kenites. Ships shall come from the coast of Chittim, and shall afflict Asshur, and shall afflict Eber: write down 1 Maccabees 1:1 and 8:5.
 
   Precepts:
@@ -470,17 +477,29 @@ Reading from an on-screen note on Mars · read by Captain Uri  *[[1:18:00](https
 
     Balaam also the son of Beor, the soothsayer, did the children of Israel slay with the sword. God got tired of him and had him put to death.
 
+> <sup>[21](/bible/numbers/24#v21)</sup> And he looked on the Kenites, and took up his parable, and said, Strong is thy dwellingplace, and thou puttest thy nest in a rock.
+>
+> <sup>[22](/bible/numbers/24#v22)</sup> Nevertheless the Kenite shall be wasted, until Asshur shall carry thee away captive.
+>
+> <sup>[23](/bible/numbers/24#v23)</sup> And he took up his parable, and said, Alas, who shall live when God doeth this!
+>
+> <sup>[24](/bible/numbers/24#v24)</sup> And ships shall come from the coast of Chittim, and shall afflict Asshur, and shall afflict Eber, and he also shall perish for ever.
+>
+> <sup>[25](/bible/numbers/24#v25)</sup> And Balaam rose up, and went and returned to his place: and Balak also went his way.
+
 **[Daniel 8:23-25](/bible/daniel/8#v23)**  *[[1:29:07](https://www.youtube.com/watch?v=JLhHPemmiSk&t=5347s)]*
 
 > <sup>[23](/bible/daniel/8#v23)</sup> And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up.
->
-> <sup>[24](/bible/daniel/8#v24)</sup> And his power shall be mighty, but not by his own power: and he shall destroy wonderfully, and shall prosper, and practise, and shall destroy the mighty and the holy people.
->
-> <sup>[25](/bible/daniel/8#v25)</sup> And through his policy also he shall cause craft to prosper in his hand; and he shall magnify himself in his heart, and by peace shall destroy many: he shall also stand up against the Prince of princes; but he shall be broken without hand.
 
 - In the latter time of their kingdom: scholars like to keep it back with Antiochus Epiphanes, but it goes beyond Antiochus. A king of fierce countenance, and understanding dark sentences, shall stand up: just like Balaam, in the last days there are certain people and administrations who understand dark sentences in the Bible, and use prophecy itself to justify destroying Iran and the Arabs.
+
+> <sup>[24](/bible/daniel/8#v24)</sup> And his power shall be mighty, but not by his own power: and he shall destroy wonderfully, and shall prosper, and practise, and shall destroy the mighty and the holy people.
+
 - His power shall be mighty, but not by his own power: Satan gave him the insight, just like Balaam. And he shall destroy wonderfully, and shall destroy the mighty and the holy people: we are the mighty and holy people, and we have already been destroyed. Look at every corner, every strip club, every other prison; you will see our people there.
+
 - You know, I was watching a documentary on Che Guevara. He used to work with Fidel Castro.
+
+> <sup>[25](/bible/daniel/8#v25)</sup> And through his policy also he shall cause craft to prosper in his hand; and he shall magnify himself in his heart, and by peace shall destroy many: he shall also stand up against the Prince of princes; but he shall be broken without hand.
 
 <div class="reading">
 
@@ -506,23 +525,26 @@ Reading from a search on Che Guevara and the Congo  *[[1:37:35](https://www.yout
 **[Matthew 24:21-27](/bible/matthew/24#v21)**  *[[1:41:31](https://www.youtube.com/watch?v=JLhHPemmiSk&t=6091s)]*
 
 > <sup>[21](/bible/matthew/24#v21)</sup> For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be.
->
+
+- Then shall be great tribulation, such as was not since the beginning of the world: that is talking about World War II; this type of war is on another level. Except those days should be shortened, there should no flesh be saved: but for the elect's sake those days shall be shortened.
+
 > <sup>[22](/bible/matthew/24#v22)</sup> And except those days should be shortened, there should no flesh be saved: but for the elect’s sake those days shall be shortened.
 >
 > <sup>[23](/bible/matthew/24#v23)</sup> Then if any man shall say unto you, Lo, here is Christ, or there; believe it not.
 >
 > <sup>[24](/bible/matthew/24#v24)</sup> For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if it were possible, they shall deceive the very elect.
->
+
+- Then if any man shall say unto you, Lo, here is Christ, or there; believe it not. For there shall arise false Christs, and false prophets, and shall shew great signs and wonders: it is talking about technology. Insomuch that, if it were possible, they shall deceive the very elect: they are going to do something so astronomical it might be possible to deceive the elect.
+
+- Video played in class on Project Blue Beam: in the 1990s the Canadian journalist Serge Monast claimed that powerful groups were preparing staged events using advanced holographic technology to project giant religious figures or alien ships into the sky, to erase the major religions and unite the nations under a single global faith and totalitarian world government. He died suddenly in December 1996. Watching that video: you see how real the art department's thumbnails look, and Esau has technology we have not seen. If there is war going on and a white Jesus comes out of the sky ending war, you know some people would be gone immediately. That is why Christ kept stressing it: if they say, Behold, he is in the desert, go not forth; behold, he is in the secret chambers, believe it not.
+
+- For as the lightning cometh out of the east, and shineth even unto the west, so shall also the coming of the Son of man be. When he comes it is going to be like lightning; he is not going to be in any secret chambers.
+
 > <sup>[25](/bible/matthew/24#v25)</sup> Behold, I have told you before.
 >
 > <sup>[26](/bible/matthew/24#v26)</sup> Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, he is in the secret chambers; believe it not.
 >
 > <sup>[27](/bible/matthew/24#v27)</sup> For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be.
-
-- Then shall be great tribulation, such as was not since the beginning of the world: that is talking about World War II; this type of war is on another level. Except those days should be shortened, there should no flesh be saved: but for the elect's sake those days shall be shortened.
-- Then if any man shall say unto you, Lo, here is Christ, or there; believe it not. For there shall arise false Christs, and false prophets, and shall shew great signs and wonders: it is talking about technology. Insomuch that, if it were possible, they shall deceive the very elect: they are going to do something so astronomical it might be possible to deceive the elect.
-- Video played in class on Project Blue Beam: in the 1990s the Canadian journalist Serge Monast claimed that powerful groups were preparing staged events using advanced holographic technology to project giant religious figures or alien ships into the sky, to erase the major religions and unite the nations under a single global faith and totalitarian world government. He died suddenly in December 1996. Watching that video: you see how real the art department's thumbnails look, and Esau has technology we have not seen. If there is war going on and a white Jesus comes out of the sky ending war, you know some people would be gone immediately. That is why Christ kept stressing it: if they say, Behold, he is in the desert, go not forth; behold, he is in the secret chambers, believe it not.
-- For as the lightning cometh out of the east, and shineth even unto the west, so shall also the coming of the Son of man be. When he comes it is going to be like lightning; he is not going to be in any secret chambers.
 
 <div class="reading">
 
@@ -595,15 +617,18 @@ Reading from a news article on the Euphrates  *[[1:53:30](https://www.youtube.co
 
 **[Jeremiah 3:1-3](/bible/jeremiah/3#v1)**  *[[2:01:39](https://www.youtube.com/watch?v=JLhHPemmiSk&t=7299s)]*
 
+- If a man put away his wife, and she go from him, and become another man's, shall he return unto her again? The law is Deuteronomy 24:3, write that down. But thou hast played the harlot with many lovers; yet return again to me, saith the Lord: the Israelites played the harlot with many nations, but the Lord says return to me.
+
+- In the ways hast thou sat for them, as the Arabian in the wilderness. When did we sit for the Arabians in the wilderness? Around the time of Muhammad, when they went on a venture to conquer and enforce Islam on our people throughout North Africa. That is why the bulk of North Africa is Arab and Muslim today.
+
 > <sup>[1](/bible/jeremiah/3#v1)</sup> They say, If a man put away his wife, and she go from him, and become another man’s, shall he return unto her again? shall not that land be greatly polluted? but thou hast played the harlot with many lovers; yet return again to me, saith the Lord.
 >
 > <sup>[2](/bible/jeremiah/3#v2)</sup> Lift up thine eyes unto the high places, and see where thou hast not been lien with. In the ways hast thou sat for them, as the Arabian in the wilderness; and thou hast polluted the land with thy whoredoms and with thy wickedness.
->
+
+- Thou hast polluted the land with thy whoredoms and with thy wickedness: when they forced Islam on us, we went back and forced Islam on our people too. Go throughout Africa and ask: how did you become Muslim? I do not know; my great grandparents were Muslim. Do you know the story of Muhammad? No.
+
 > <sup>[3](/bible/jeremiah/3#v3)</sup> Therefore the showers have been withholden, and there hath been no latter rain; and thou hadst a whore’s forehead, thou refusedst to be ashamed.
 
-- If a man put away his wife, and she go from him, and become another man's, shall he return unto her again? The law is Deuteronomy 24:3, write that down. But thou hast played the harlot with many lovers; yet return again to me, saith the Lord: the Israelites played the harlot with many nations, but the Lord says return to me.
-- In the ways hast thou sat for them, as the Arabian in the wilderness. When did we sit for the Arabians in the wilderness? Around the time of Muhammad, when they went on a venture to conquer and enforce Islam on our people throughout North Africa. That is why the bulk of North Africa is Arab and Muslim today.
-- Thou hast polluted the land with thy whoredoms and with thy wickedness: when they forced Islam on us, we went back and forced Islam on our people too. Go throughout Africa and ask: how did you become Muslim? I do not know; my great grandparents were Muslim. Do you know the story of Muhammad? No.
 - Thou hadst a whore's forehead, thou refusedst to be ashamed: images were shown of the dark prayer mark on the forehead from bowing with the forehead to the ground.
 
 <div class="reading">
@@ -933,13 +958,15 @@ Reading from *The Rise of Christendom*, written in 1890 by Edwin Johnson  *[[2:4
 **[1 Timothy 4:1-3](/bible/1-timothy/4#v1)**  *[[2:47:55](https://www.youtube.com/watch?v=JLhHPemmiSk&t=10075s)]*
 
 > <sup>[1](/bible/1-timothy/4#v1)</sup> Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils;
->
-> <sup>[2](/bible/1-timothy/4#v2)</sup> Speaking lies in hypocrisy; having their conscience seared with a hot iron;
->
-> <sup>[3](/bible/1-timothy/4#v3)</sup> Forbidding to marry, and commanding to abstain from meats, which God hath created to be received with thanksgiving of them which believe and know the truth.
 
 - Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith: we are in the latter times now. Some of you men and women listening will depart from this faith; some of you are going to see signs and wonders and depart, some of you are going to get persecuted and depart. It is already written.
+
+> <sup>[2](/bible/1-timothy/4#v2)</sup> Speaking lies in hypocrisy; having their conscience seared with a hot iron;
+
 - Giving heed to seducing spirits, and doctrines of devils; speaking lies in hypocrisy: they have the Bible, but they are hypocrites. Having their conscience seared with a hot iron: you cannot wake them up.
+
+> <sup>[3](/bible/1-timothy/4#v3)</sup> Forbidding to marry, and commanding to abstain from meats, which God hath created to be received with thanksgiving of them which believe and know the truth.
+
 - Forbidding to marry, and commanding to abstain from meats: that is Roman Catholicism. They forbid the men to marry, and they command you to abstain from meats during Lent.
 
   Precepts:
@@ -968,16 +995,18 @@ Reading from *The Rise of Christendom*, written in 1890 by Edwin Johnson  *[[2:4
 
 **[Daniel 11:36-39](/bible/daniel/11#v36)**  *[[2:52:58](https://www.youtube.com/watch?v=JLhHPemmiSk&t=10378s)]*
 
+- The king shall do according to his will; and he shall exalt himself, and magnify himself above every god. He magnifies himself against Islam, Judaism, Buddhism, whatever it is: he magnifies himself as God. That is the white Jesus.
+
 > <sup>[36](/bible/daniel/11#v36)</sup> And the king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak marvellous things against the God of gods, and shall prosper till the indignation be accomplished: for that that is determined shall be done.
 >
 > <sup>[37](/bible/daniel/11#v37)</sup> Neither shall he regard the God of his fathers, nor the desire of women, nor regard any god: for he shall magnify himself above all.
->
+
+- Neither shall he regard the God of his fathers, nor the desire of women: this man did not care about women. But in his estate shall he honour the God of forces: munitions, weapons, destruction, the sword.
+
 > <sup>[38](/bible/daniel/11#v38)</sup> But in his estate shall he honour the God of forces: and a god whom his fathers knew not shall he honour with gold, and silver, and with precious stones, and pleasant things.
 >
 > <sup>[39](/bible/daniel/11#v39)</sup> Thus shall he do in the most strong holds with a strange god, whom he shall acknowledge and increase with glory: and he shall cause them to rule over many, and shall divide the land for gain.
 
-- The king shall do according to his will; and he shall exalt himself, and magnify himself above every god. He magnifies himself against Islam, Judaism, Buddhism, whatever it is: he magnifies himself as God. That is the white Jesus.
-- Neither shall he regard the God of his fathers, nor the desire of women: this man did not care about women. But in his estate shall he honour the God of forces: munitions, weapons, destruction, the sword.
 - Thus shall he do in the most strong holds with a strange god: the strange god is the white Jesus. And shall divide the land for gain: this white man divided Africa for gain; they call that the Berlin conference.
 
   Precepts:
@@ -1189,25 +1218,29 @@ Reading from an on-screen page, "Origin of Month Names" · read by Captain Uri  
 
 **[Jeremiah 31:31-37](/bible/jeremiah/31#v31)**  *[[3:18:39](https://www.youtube.com/watch?v=JLhHPemmiSk&t=11919s)]*
 
+- Behold, the days come, saith the Lord, that I will make a new covenant with the house of Israel, and with the house of Judah. The new covenant has nothing to do with all nations; just as the old covenant, it is only for the twelve tribes of Israel.
+
+- Not according to the covenant that I made with their fathers when I brought them out of the land of Egypt, which my covenant they brake: we broke the covenant of animal sacrifice. Although I was an husband unto them: God said he was married to us.
+
 > <sup>[31](/bible/jeremiah/31#v31)</sup> Behold, the days come, saith the Lord, that I will make a new covenant with the house of Israel, and with the house of Judah:
 >
 > <sup>[32](/bible/jeremiah/31#v32)</sup> Not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which my covenant they brake, although I was an husband unto them, saith the Lord:
 >
 > <sup>[33](/bible/jeremiah/31#v33)</sup> But this shall be the covenant that I will make with the house of Israel; After those days, saith the Lord, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people.
->
+
+- I will put my law in their inward parts, and write it in their hearts: that is the kingdom. I will forgive their iniquity, and I will remember their sin no more: because of what Christ did for us.
+
 > <sup>[34](/bible/jeremiah/31#v34)</sup> And they shall teach no more every man his neighbour, and every man his brother, saying, Know the Lord: for they shall all know me, from the least of them unto the greatest of them, saith the Lord: for I will forgive their iniquity, and I will remember their sin no more.
 >
 > <sup>[35](/bible/jeremiah/31#v35)</sup> Thus saith the Lord, which giveth the sun for a light by day, and the ordinances of the moon and of the stars for a light by night, which divideth the sea when the waves thereof roar; The Lord of hosts is his name:
->
+
+- Thus saith the Lord, which giveth the sun for a light by day, and the ordinances of the moon and of the stars for a light by night: if those ordinances depart from before me, then the seed of Israel also shall cease from being a nation before me for ever. This is how the Lord loves us: if you can get rid of the sun, the moon, and the stars, then the Israelites will not be his people. But nobody can get rid of the sun, the moon, or the stars.
+
+- If heaven above can be measured, and the foundations of the earth searched out beneath, I will also cast off all the seed of Israel. The white man has been trying to measure the deep, and dying trying to get down there.
+
 > <sup>[36](/bible/jeremiah/31#v36)</sup> If those ordinances depart from before me, saith the Lord, then the seed of Israel also shall cease from being a nation before me for ever.
 >
 > <sup>[37](/bible/jeremiah/31#v37)</sup> Thus saith the Lord; If heaven above can be measured, and the foundations of the earth searched out beneath, I will also cast off all the seed of Israel for all that they have done, saith the Lord.
-
-- Behold, the days come, saith the Lord, that I will make a new covenant with the house of Israel, and with the house of Judah. The new covenant has nothing to do with all nations; just as the old covenant, it is only for the twelve tribes of Israel.
-- Not according to the covenant that I made with their fathers when I brought them out of the land of Egypt, which my covenant they brake: we broke the covenant of animal sacrifice. Although I was an husband unto them: God said he was married to us.
-- I will put my law in their inward parts, and write it in their hearts: that is the kingdom. I will forgive their iniquity, and I will remember their sin no more: because of what Christ did for us.
-- Thus saith the Lord, which giveth the sun for a light by day, and the ordinances of the moon and of the stars for a light by night: if those ordinances depart from before me, then the seed of Israel also shall cease from being a nation before me for ever. This is how the Lord loves us: if you can get rid of the sun, the moon, and the stars, then the Israelites will not be his people. But nobody can get rid of the sun, the moon, or the stars.
-- If heaven above can be measured, and the foundations of the earth searched out beneath, I will also cast off all the seed of Israel. The white man has been trying to measure the deep, and dying trying to get down there.
 
 **[Jeremiah 33:23-26](/bible/jeremiah/33#v23)**  *[[3:21:17](https://www.youtube.com/watch?v=JLhHPemmiSk&t=12077s)]*
 

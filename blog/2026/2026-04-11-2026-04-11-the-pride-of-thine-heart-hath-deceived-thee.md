@@ -28,13 +28,23 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 **[Isaiah 14:4-19](/bible/isaiah/14#v4)**  *[[9:22](https://www.youtube.com/watch?v=hlZo30CYViE&t=562s)]*
 
 > <sup>[4](/bible/isaiah/14#v4)</sup> That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased!
->
+
+- Thou shalt take up this proverb against the king of Babylon: Babylon is the United States of America, and this is what is going to happen to its king.
+
 > <sup>[5](/bible/isaiah/14#v5)</sup> The Lord hath broken the staff of the wicked, and the sceptre of the rulers.
 >
 > <sup>[6](/bible/isaiah/14#v6)</sup> He who smote the people in wrath with a continual stroke, he that ruled the nations in anger, is persecuted, and none hindereth.
->
+
+- He who smote the people in wrath with a continual stroke: that is how they got to where they are, by smiting people in wrath. This land was taken with bloodshed, violence, and force: the indigenous people massacred and pushed onto reservations, and then Negroes dragged here against their will for hundreds of years of free labor. A hundred years after slavery was abolished, they put a bullet in Martin Luther King's head while he was asking to be judged by the content of his character. And when we point out the conditions they created, they turn around and call us the racists.
+
+- He that ruled the nations in anger: that is what you are seeing now, as they help bomb the Gaza Strip and declare war on Iran, with his own officials asking why. As soon as he got in office he put tariffs; he did not hurt one country with the tariffs; he hurt his own people. Prices went up on everything and mom and pop shops shut down, and he did it in pride.
+
 > <sup>[7](/bible/isaiah/14#v7)</sup> The whole earth is at rest, and is quiet: they break forth into singing.
->
+
+- The whole earth is at rest, and is quiet: they break forth into singing. When America goes down, the nations are going to sing. Yea, the fir trees rejoice at thee: even the trees will be happy, because no feller is come up against us; they clear whole forests for their luxury and do not care about nature.
+
+- Hell from beneath is moved for thee to meet thee at thy coming. Hell is a real place of torment, and it is the destiny of the prideful chief ones of the earth. There has to be a punishment that is extreme for the people who disregard life; if there were no place of suffering, God would not be feared.
+
 > <sup>[8](/bible/isaiah/14#v8)</sup> Yea, the fir trees rejoice at thee, and the cedars of Lebanon, saying, Since thou art laid down, no feller is come up against us.
 >
 > <sup>[9](/bible/isaiah/14#v9)</sup> Hell from beneath is moved for thee to meet thee at thy coming: it stirreth up the dead for thee, even all the chief ones of the earth; it hath raised up from their thrones all the kings of the nations.
@@ -44,11 +54,19 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 > <sup>[11](/bible/isaiah/14#v11)</sup> Thy pomp is brought down to the grave, and the noise of thy viols: the worm is spread under thee, and the worms cover thee.
 >
 > <sup>[12](/bible/isaiah/14#v12)</sup> How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!
->
+
+- How art thou fallen from heaven, O Lucifer, son of the morning: America right now is in its heaven; heaven is rulership, but the Bible says they are going to fall, because they weakened the nations: robbing, stealing, killing, plundering, enslaving, and destroying.
+
 > <sup>[13](/bible/isaiah/14#v13)</sup> For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north:
->
+
+- For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: we are the stars of God, and their throne is sitting on us. They know that once we open our eyes, we rise. I will sit also upon the mount of the congregation, in the sides of the north: the bulk of the Israelites are here in America; that is why the truth started here, and from here the bishop sent it to our brothers and sisters scattered all over the world.
+
 > <sup>[14](/bible/isaiah/14#v14)</sup> I will ascend above the heights of the clouds; I will be like the most High.
->
+
+- I will be like the Most High: that is the picture he posted; he presents himself as the Messiah with spiritual power and healing, because he has no respect for the Most High God and his son.
+
+- Yet thou shalt be brought down to hell, to the sides of the pit. They that see thee shall narrowly look upon thee, saying, Is this the man that made the earth to tremble, that did shake kingdoms? The nations are already answering back without fear. Is this the man that made the world as a wilderness, that opened not the house of his prisoners? The countries of the earth are held like prisoners: if you do not play, they make you pay.
+
 > <sup>[15](/bible/isaiah/14#v15)</sup> Yet thou shalt be brought down to hell, to the sides of the pit.
 >
 > <sup>[16](/bible/isaiah/14#v16)</sup> They that see thee shall narrowly look upon thee, and consider thee, saying, Is this the man that made the earth to tremble, that did shake kingdoms;
@@ -59,15 +77,6 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 >
 > <sup>[19](/bible/isaiah/14#v19)</sup> But thou art cast out of thy grave like an abominable branch, and as the raiment of those that are slain, thrust through with a sword, that go down to the stones of the pit; as a carcase trodden under feet.
 
-- Thou shalt take up this proverb against the king of Babylon: Babylon is the United States of America, and this is what is going to happen to its king.
-- He who smote the people in wrath with a continual stroke: that is how they got to where they are, by smiting people in wrath. This land was taken with bloodshed, violence, and force: the indigenous people massacred and pushed onto reservations, and then Negroes dragged here against their will for hundreds of years of free labor. A hundred years after slavery was abolished, they put a bullet in Martin Luther King's head while he was asking to be judged by the content of his character. And when we point out the conditions they created, they turn around and call us the racists.
-- He that ruled the nations in anger: that is what you are seeing now, as they help bomb the Gaza Strip and declare war on Iran, with his own officials asking why. As soon as he got in office he put tariffs; he did not hurt one country with the tariffs; he hurt his own people. Prices went up on everything and mom and pop shops shut down, and he did it in pride.
-- The whole earth is at rest, and is quiet: they break forth into singing. When America goes down, the nations are going to sing. Yea, the fir trees rejoice at thee: even the trees will be happy, because no feller is come up against us; they clear whole forests for their luxury and do not care about nature.
-- Hell from beneath is moved for thee to meet thee at thy coming. Hell is a real place of torment, and it is the destiny of the prideful chief ones of the earth. There has to be a punishment that is extreme for the people who disregard life; if there were no place of suffering, God would not be feared.
-- How art thou fallen from heaven, O Lucifer, son of the morning: America right now is in its heaven; heaven is rulership, but the Bible says they are going to fall, because they weakened the nations: robbing, stealing, killing, plundering, enslaving, and destroying.
-- For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: we are the stars of God, and their throne is sitting on us. They know that once we open our eyes, we rise. I will sit also upon the mount of the congregation, in the sides of the north: the bulk of the Israelites are here in America; that is why the truth started here, and from here the bishop sent it to our brothers and sisters scattered all over the world.
-- I will be like the Most High: that is the picture he posted; he presents himself as the Messiah with spiritual power and healing, because he has no respect for the Most High God and his son.
-- Yet thou shalt be brought down to hell, to the sides of the pit. They that see thee shall narrowly look upon thee, saying, Is this the man that made the earth to tremble, that did shake kingdoms? The nations are already answering back without fear. Is this the man that made the world as a wilderness, that opened not the house of his prisoners? The countries of the earth are held like prisoners: if you do not play, they make you pay.
 - But thou art cast out of thy grave like an abominable branch: this is the future of the pride of America.
 
   Precepts:
@@ -123,17 +132,20 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 
 **[Psalms 10:1-4](/bible/psalms/10#v1)**  *[[51:29](https://www.youtube.com/watch?v=hlZo30CYViE&t=3089s)]*
 
+- Why standest thou afar off, O Lord? That is how we feel sometimes, like God is not with us; but he said in affliction they will seek him early.
+
 > <sup>[1](/bible/psalms/10#v1)</sup> Why standest thou afar off, O Lord? why hidest thou thyself in times of trouble?
 >
 > <sup>[2](/bible/psalms/10#v2)</sup> The wicked in his pride doth persecute the poor: let them be taken in the devices that they have imagined.
->
+
+- The wicked in his pride doth persecute the poor: let them be taken in the devices that they have imagined. Whatever he is imagining to do to us is going to happen to him. But understand: things are going to get bad for us before they get better.
+
+- For the wicked boasteth of his heart's desire, and blesseth the covetous, whom the Lord abhorreth. That is why he keeps yes men around him.
+
 > <sup>[3](/bible/psalms/10#v3)</sup> For the wicked boasteth of his heart’s desire, and blesseth the covetous, whom the Lord abhorreth.
 >
 > <sup>[4](/bible/psalms/10#v4)</sup> The wicked, through the pride of his countenance, will not seek after God: God is not in all his thoughts.
 
-- Why standest thou afar off, O Lord? That is how we feel sometimes, like God is not with us; but he said in affliction they will seek him early.
-- The wicked in his pride doth persecute the poor: let them be taken in the devices that they have imagined. Whatever he is imagining to do to us is going to happen to him. But understand: things are going to get bad for us before they get better.
-- For the wicked boasteth of his heart's desire, and blesseth the covetous, whom the Lord abhorreth. That is why he keeps yes men around him.
 - The wicked, through the pride of his countenance, will not seek after God: God is not in all his thoughts. Even when the Pope tells him to look for a way toward peace, he will not hear it. Video played in class: asked why he attacked Pope Leo on his platform, the president called the Pope weak and liberal and answered with talk about COVID arrests and crime; his own advisers asked how you disrespect the Pope, the first president in history to do it.
 
 **[Psalms 31:19-20](/bible/psalms/31#v19)**  *[[54:26](https://www.youtube.com/watch?v=hlZo30CYViE&t=3266s)]*
@@ -148,11 +160,12 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 **[Ecclesiasticus 10:7-8](/bible/sirach/10#v7)**  *[[57:04](https://www.youtube.com/watch?v=hlZo30CYViE&t=3424s)]*
 
 > <sup>[7](/bible/sirach/10#v7)</sup> Pride is hateful before God and man: and by both doth one commit iniquity.
->
-> <sup>[8](/bible/sirach/10#v8)</sup> Because of unrighteous dealings, injuries, and riches got by deceit, the kingdom is translated from one people to another.
 
 - Pride is hateful before God and man: God hates it and man hates it. When you meet somebody prideful, even though you do not say it, you feel it.
+
 - Because of unrighteous dealings, injuries, and riches got by deceit, the kingdom is translated from one people to another. The riches gotten by deceit was enslaving the children of Israel; almost all these countries were established on the blood, sweat, and tears of slaves. That is why all the kingdoms of the earth are going to lose their dominion, and the one kingdom that will stand is the kingdom of the twelve tribes of Israel.
+
+> <sup>[8](/bible/sirach/10#v8)</sup> Because of unrighteous dealings, injuries, and riches got by deceit, the kingdom is translated from one people to another.
 
 **[Jeremiah 30:16](/bible/jeremiah/30#v16)**  *[[59:48](https://www.youtube.com/watch?v=hlZo30CYViE&t=3588s)]*
 
@@ -178,33 +191,38 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 **[Ecclesiasticus 32:12-17](/bible/sirach/32#v12)**  *[[1:05:12](https://www.youtube.com/watch?v=hlZo30CYViE&t=3912s)]*
 
 > <sup>[12](/bible/sirach/32#v12)</sup> There take thy pastime, and do what thou wilt: but sin not by proud speech.
->
+
+- There take thy pastime, and do what thou wilt: but sin not by proud speech. You can have your fun on this earth, but God listens to your speech. For all these things bless him that made thee: always remember you have a creator; do not turn into a hater.
+
+- Whoso feareth the Lord will receive his discipline. God is correcting us right now: the president is in a position to make our lives miserable because we are being corrected by God. It is important to see this as discipline from God. And they that seek him early shall find favour: do not wait until the whole world is falling apart to seek God.
+
 > <sup>[13](/bible/sirach/32#v13)</sup> And for these things bless him that made thee, and hath replenished thee with his good things.
 >
 > <sup>[14](/bible/sirach/32#v14)</sup> Whoso feareth the Lord will receive his discipline; and they that seek him early shall find favour.
 >
 > <sup>[15](/bible/sirach/32#v15)</sup> He that seeketh the law shall be filled therewith: but the hypocrite will be offended thereat.
->
+
+- He that seeketh the law shall be filled therewith: that is why we teach you to follow God's laws, and the denominations call us legalists. But the hypocrite will be offended thereat. They that fear the Lord shall find judgment, and shall kindle justice as a light: we cannot bring forth justice on our own; we do not need bombs or a military; all we need is to be filled with the law. Fringes, skirts and head coverings, beards, the Sabbath: you are not doing anything evil, but it bothers people.
+
+- A sinful man will not be reproved, but findeth an excuse according to his will. There is nothing you can tell them; in their heart they believe they can sin and win. It is the same in the congregation and in your house: you show them every scripture and they give you every excuse. After a while, do not chase them, replace them.
+
 > <sup>[16](/bible/sirach/32#v16)</sup> They that fear the Lord shall find judgment, and shall kindle justice as a light.
 >
 > <sup>[17](/bible/sirach/32#v17)</sup> A sinful man will not be reproved, but findeth an excuse according to his will.
 
-- There take thy pastime, and do what thou wilt: but sin not by proud speech. You can have your fun on this earth, but God listens to your speech. For all these things bless him that made thee: always remember you have a creator; do not turn into a hater.
-- Whoso feareth the Lord will receive his discipline. God is correcting us right now: the president is in a position to make our lives miserable because we are being corrected by God. It is important to see this as discipline from God. And they that seek him early shall find favour: do not wait until the whole world is falling apart to seek God.
-- He that seeketh the law shall be filled therewith: that is why we teach you to follow God's laws, and the denominations call us legalists. But the hypocrite will be offended thereat. They that fear the Lord shall find judgment, and shall kindle justice as a light: we cannot bring forth justice on our own; we do not need bombs or a military; all we need is to be filled with the law. Fringes, skirts and head coverings, beards, the Sabbath: you are not doing anything evil, but it bothers people.
-- A sinful man will not be reproved, but findeth an excuse according to his will. There is nothing you can tell them; in their heart they believe they can sin and win. It is the same in the congregation and in your house: you show them every scripture and they give you every excuse. After a while, do not chase them, replace them.
-
 **[James 4:1-3](/bible/james/4#v1)**  *[[1:19:01](https://www.youtube.com/watch?v=hlZo30CYViE&t=4741s)]*
+
+- From whence come wars and fightings among you? Come they not hence, even of your lusts that war in your members? Something inside is making the conflict come up all the time. Whether it is the government, the congregation, your house, or your marriage, be honest about where the trouble starts. That is why we do counsel and hear both sides: once you let them speak enough, you can say, you are the reason there is no peace.
 
 > <sup>[1](/bible/james/4#v1)</sup> From whence come wars and fightings among you? come they not hence, even of your lusts that war in your members?
 >
 > <sup>[2](/bible/james/4#v2)</sup> Ye lust, and have not: ye kill, and desire to have, and cannot obtain: ye fight and war, yet ye have not, because ye ask not.
->
-> <sup>[3](/bible/james/4#v3)</sup> Ye ask, and receive not, because ye ask amiss, that ye may consume it upon your lusts.
 
-- From whence come wars and fightings among you? Come they not hence, even of your lusts that war in your members? Something inside is making the conflict come up all the time. Whether it is the government, the congregation, your house, or your marriage, be honest about where the trouble starts. That is why we do counsel and hear both sides: once you let them speak enough, you can say, you are the reason there is no peace.
 - Ye lust, and have not: ye kill, and desire to have, and cannot obtain. No matter how much you fight, you have nothing. He has everything and it is not enough for him.
+
 - Ye ask, and receive not, because ye ask amiss, that ye may consume it upon your lusts. There is a way to ask according to the Lord; and some people you are not going to have peace with. People with no peace inside of them cause conflict; they only feel comfortable starting trouble. If the scripture cannot fix them, there is nothing you can do for them: examine the life of the person, send them on their way, and guard your peace.
+
+> <sup>[3](/bible/james/4#v3)</sup> Ye ask, and receive not, because ye ask amiss, that ye may consume it upon your lusts.
 
 **[Proverbs 16:5](/bible/proverbs/16#v5)**  *[[1:30:05](https://www.youtube.com/watch?v=hlZo30CYViE&t=5405s)]*
 
@@ -222,23 +240,31 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 **[Ecclesiasticus 3:28-31](/bible/sirach/3#v28)**  *[[1:36:37](https://www.youtube.com/watch?v=hlZo30CYViE&t=5797s)]*
 
 > <sup>[28](/bible/sirach/3#v28)</sup> In the punishment of the proud there is no remedy; for the plant of wickedness hath taken root in him.
->
+
+- In the punishment of the proud there is no remedy: for the plant of wickedness hath taken root in him. Some people, there is no scripture and no picture you can paint to show them they need to stop. You can discipline them, fine them, take things away: they cannot see that they are the cause.
+
+- The heart of the prudent will understand a parable; and an attentive ear is the desire of a wise man. That is why we tell you to get your pen and notebook out and write scriptures. The ones looking around not paying attention, you already see what spirit is on them.
+
+- He that requiteth good turns is mindful of that which may come hereafter; and when he falleth, he shall find a stay. We are all going to make mistakes, but if you keep a certain heart with God, when things go bad the Lord will sustain you. Never get to that place of pride where God says you are on your own.
+
 > <sup>[29](/bible/sirach/3#v29)</sup> The heart of the prudent will understand a parable; and an attentive ear is the desire of a wise man.
 >
 > <sup>[30](/bible/sirach/3#v30)</sup> Water will quench a flaming fire; and alms maketh an atonement for sins.
 >
 > <sup>[31](/bible/sirach/3#v31)</sup> And he that requiteth good turns is mindful of that which may come hereafter; and when he falleth, he shall find a stay.
 
-- In the punishment of the proud there is no remedy: for the plant of wickedness hath taken root in him. Some people, there is no scripture and no picture you can paint to show them they need to stop. You can discipline them, fine them, take things away: they cannot see that they are the cause.
-- The heart of the prudent will understand a parable; and an attentive ear is the desire of a wise man. That is why we tell you to get your pen and notebook out and write scriptures. The ones looking around not paying attention, you already see what spirit is on them.
-- He that requiteth good turns is mindful of that which may come hereafter; and when he falleth, he shall find a stay. We are all going to make mistakes, but if you keep a certain heart with God, when things go bad the Lord will sustain you. Never get to that place of pride where God says you are on your own.
-
 **[Ecclesiasticus 16:6-11](/bible/sirach/16#v6)**  *[[1:39:49](https://www.youtube.com/watch?v=hlZo30CYViE&t=5989s)]*
+
+- In the congregation of the ungodly shall a fire be kindled; and in a rebellious nation wrath is set on fire. In the beginning, when there was a congregation of the ungodly, he drowned them.
 
 > <sup>[6](/bible/sirach/16#v6)</sup> In the congregation of the ungodly shall a fire be kindled; and in a rebellious nation wrath is set on fire.
 >
 > <sup>[7](/bible/sirach/16#v7)</sup> He was not pacified toward the old giants, who fell away in the strength of their foolishness.
->
+
+- He was not pacified toward the old giants, who fell away in the strength of their foolishness: they were giants, but they were foolish, and people feel strong in their foolishness. Neither spared he the place where Lot sojourned, but abhorred them for their pride.
+
+- He pitied not the people of perdition, nor the six hundred thousand footmen, who were gathered together in the hardness of their hearts. How long are you going to keep using somebody's rough life story to excuse the one who refuses correction? If they will not listen to the scripture, stop making excuses for them.
+
 > <sup>[8](/bible/sirach/16#v8)</sup> Neither spared he the place where Lot sojourned, but abhorred them for their pride.
 >
 > <sup>[9](/bible/sirach/16#v9)</sup> He pitied not the people of perdition, who were taken away in their sins:
@@ -247,9 +273,6 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 >
 > <sup>[11](/bible/sirach/16#v11)</sup> And if there be one stiffnecked among the people, it is marvel if he escape unpunished: for mercy and wrath are with him; he is mighty to forgive, and to pour out displeasure.
 
-- In the congregation of the ungodly shall a fire be kindled; and in a rebellious nation wrath is set on fire. In the beginning, when there was a congregation of the ungodly, he drowned them.
-- He was not pacified toward the old giants, who fell away in the strength of their foolishness: they were giants, but they were foolish, and people feel strong in their foolishness. Neither spared he the place where Lot sojourned, but abhorred them for their pride.
-- He pitied not the people of perdition, nor the six hundred thousand footmen, who were gathered together in the hardness of their hearts. How long are you going to keep using somebody's rough life story to excuse the one who refuses correction? If they will not listen to the scripture, stop making excuses for them.
 - And if there be one stiffnecked among the people, it is marvel if he escape unpunished: one stiffnecked person in the congregation, and it would be a marvel if God lets it go. For mercy and wrath are with him: he is mighty to forgive, and to pour out displeasure. That is why the saying God is good all the time is not scriptural: the same God drowned the whole earth, swallowed rebels alive, and left a generation in the wilderness for forty years. God is good all the time to the people that keep his commandments.
 
 **[2 Esdras 9:7-12](/bible/2-esdras/9#v7)**  *[[1:46:24](https://www.youtube.com/watch?v=hlZo30CYViE&t=6384s)]*
@@ -257,18 +280,17 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 > <sup>[7](/bible/2-esdras/9#v7)</sup> And every one that shall be saved, and shall be able to escape by his works, and by faith, whereby ye have believed,
 >
 > <sup>[8](/bible/2-esdras/9#v8)</sup> Shall be preserved from the said perils, and shall see my salvation in my land, and within my borders: for I have sanctified them for me from the beginning.
->
+
+- Every one that shall be saved, and shall be able to escape by his works, and by faith, whereby ye have believed, shall be preserved from the said perils, and shall see my salvation in my land, and within my borders: for I have sanctified them for me from the beginning. You are here because God cares about you; you are not here by accident.
+
+- Then shall they be in pitiful case, which now have abused my ways. You come into the school and we tell you God's ways, and now you are mad; and they that have cast them away despitefully shall dwell in torments.
+
 > <sup>[9](/bible/2-esdras/9#v9)</sup> Then shall they be in pitiful case, which now have abused my ways: and they that have cast them away despitefully shall dwell in torments.
 >
 > <sup>[10](/bible/2-esdras/9#v10)</sup> For such as in their life have received benefits, and have not known me;
->
-> <sup>[11](/bible/2-esdras/9#v11)</sup> And they that have loathed my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised it;
->
-> <sup>[12](/bible/2-esdras/9#v12)</sup> The same must know it after death by pain.
 
-- Every one that shall be saved, and shall be able to escape by his works, and by faith, whereby ye have believed, shall be preserved from the said perils, and shall see my salvation in my land, and within my borders: for I have sanctified them for me from the beginning. You are here because God cares about you; you are not here by accident.
-- Then shall they be in pitiful case, which now have abused my ways. You come into the school and we tell you God's ways, and now you are mad; and they that have cast them away despitefully shall dwell in torments.
 - For such as in their life have received benefits, and have not known me: you will see people prospering in their pride with the house and the car, and they do not know God. And they that have loathed my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised it. The liberty is us in the streets going all over the world opening the door of repentance; the brothers at camp are running up to people with flyers and they throw them down.
+
 - The same must know it after death by pain. This is a God that will kill you and still have pain awaiting. So do not let anybody tell you the place of torment was made up by a church; these scriptures are in the book.
 
   Precepts:
@@ -276,6 +298,10 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
     > <sup>[5](/bible/jeremiah/1#v5)</sup> Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations.
 
     Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee. Where did he know us? In the spirit, before our parents brought us forth. There is something in your spirit that God said, I need to fix you, so that when the time comes you come back to me and not to your pride.
+
+> <sup>[11](/bible/2-esdras/9#v11)</sup> And they that have loathed my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised it;
+>
+> <sup>[12](/bible/2-esdras/9#v12)</sup> The same must know it after death by pain.
 
 **[2 Kings 18:17-37](/bible/2-kings/18#v17)**  *[[1:54:43](https://www.youtube.com/watch?v=hlZo30CYViE&t=6883s)]*
 
@@ -491,6 +517,8 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 
 **[2 Maccabees 9:1-28](/bible/2-maccabees/9#v1)**  *[[2:32:42](https://www.youtube.com/watch?v=hlZo30CYViE&t=9162s)]*
 
+- The fourth example, and the teacher's favorite: Antiochus came with dishonor out of Persia after being put to flight at Persepolis, heard what had happened to Nicanor, and swelling with anger, thought to avenge upon the Jews the disgrace done unto him. He commanded his chariot to drive without ceasing, the judgment of God now following him, for he had spoken proudly, that he would come to Jerusalem and make it a common burying place of the Jews.
+
 > <sup>[1](/bible/2-maccabees/9#v1)</sup> About that time came Antiochus with dishonour out of the country of Persia
 >
 > <sup>[2](/bible/2-maccabees/9#v2)</sup> For he had entered the city called Persepolis, and went about to rob the temple, and to hold the city; whereupon the multitude running to defend themselves with their weapons put them to flight; and so it happened, that Antiochus being put to flight of the inhabitants returned with shame.
@@ -500,7 +528,19 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 > <sup>[4](/bible/2-maccabees/9#v4)</sup> Then swelling with anger. he thought to avenge upon the Jews the disgrace done unto him by those that made him flee. Therefore commanded he his chariotman to drive without ceasing, and to dispatch the journey, the judgment of God now following him. For he had spoken proudly in this sort, That he would come to Jerusalem and make it a common burying place of the Jews.
 >
 > <sup>[5](/bible/2-maccabees/9#v5)</sup> But the Lord Almighty, the God of Israel, smote him with an incurable and invisible plague: or as soon as he had spoken these words, a pain of the bowels that was remediless came upon him, and sore torments of the inner parts;
->
+
+- But the Lord Almighty, the God of Israel, smote him with an incurable and invisible plague: a pain of the bowels that was remediless, and sore torments of the inner parts; and that most justly, for he had tormented other men's bowels with many and strange torments. The same things you do to other people, God makes you feel.
+
+- Howbeit he nothing at all ceased from his bragging, but still was filled with pride, breathing out fire in his rage against the Jews, and commanding to haste the journey. Everything is going wrong around him and he is still running his mouth. Then he fell down from his chariot, carried violently, so that all the members of his body were much pained.
+
+- And thus he that a little afore thought he might command the waves of the sea, so proud was he beyond the condition of man, and weigh the high mountains in a balance, was now cast on the ground and carried in an horselitter, shewing forth unto all the manifest power of God.
+
+- The worms rose up out of the body of this wicked man; his flesh fell away, and the filthiness of his smell was noisome to all his army, so that no man could endure to carry him for his intolerable stink. The man that thought he could reach to the stars of heaven, nobody could even come near him.
+
+- Being plagued, he began to leave off his great pride, and to come to the knowledge of himself by the scourge of God, his pain increasing every moment. He said, It is meet to be subject unto God, and that a man that is mortal should not proudly think of himself, as if he were God. Some people get touched once and straighten up; some have to be brought this low to know where they need to go.
+
+- This wicked person vowed unto the Lord, who now no more would have mercy upon him: he promised to set the holy city at liberty, make the Jews equals to the citizens of Athens, garnish the temple with goodly gifts, pay for the sacrifices out of his own revenue, yea, and become a Jew himself, and go through all the world preaching the power of God. When that torment touched him, all of a sudden he wanted to be God's friend.
+
 > <sup>[6](/bible/2-maccabees/9#v6)</sup> And that most justly: for he had tormented other men’s bowels with many and strange torments.
 >
 > <sup>[7](/bible/2-maccabees/9#v7)</sup> Howbeit he nothing at all ceased from his bragging, but still was filled with pride, breathing out fire in his rage against the Jews, and commanding to haste the journey: but it came to pass that he fell down from his chariot, carried violently; so that having a sore fall, all the members of his body were much pained.
@@ -526,7 +566,9 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 > <sup>[17](/bible/2-maccabees/9#v17)</sup> Yea, and that also he would become a Jew himself, and go through all the world that was inhabited, and declare the power of God.
 >
 > <sup>[18](/bible/2-maccabees/9#v18)</sup> But for all this his pains would not cease: for the just judgment of God was come upon him: therefore despairing of his health, he wrote unto the Jews the letter underwritten, containing the form of a supplication, after this manner:
->
+
+- But for all this his pains would not cease: for the just judgment of God was come upon him. He wrote the Jews a flattering letter, to the good Jews his citizens, blaming circumstance and commending his son. Thus the murderer and blasphemer, having suffered most grievously, as he entreated other men, so died he a miserable death in a strange country in the mountains. All praises to the Most High God of Israel.
+
 > <sup>[19](/bible/2-maccabees/9#v19)</sup> Antiochus, king and governor, to the good Jews his citizens wisheth much joy, health, and prosperity:
 >
 > <sup>[20](/bible/2-maccabees/9#v20)</sup> If ye and your children fare well, and your affairs be to your contentment, I give very great thanks to God, having my hope in heaven.
@@ -547,15 +589,6 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 >
 > <sup>[28](/bible/2-maccabees/9#v28)</sup> Thus the murderer and blasphemer having suffered most grievously, as he entreated other men, so died he a miserable death in a strange country in the mountains.
 
-- The fourth example, and the teacher's favorite: Antiochus came with dishonor out of Persia after being put to flight at Persepolis, heard what had happened to Nicanor, and swelling with anger, thought to avenge upon the Jews the disgrace done unto him. He commanded his chariot to drive without ceasing, the judgment of God now following him, for he had spoken proudly, that he would come to Jerusalem and make it a common burying place of the Jews.
-- But the Lord Almighty, the God of Israel, smote him with an incurable and invisible plague: a pain of the bowels that was remediless, and sore torments of the inner parts; and that most justly, for he had tormented other men's bowels with many and strange torments. The same things you do to other people, God makes you feel.
-- Howbeit he nothing at all ceased from his bragging, but still was filled with pride, breathing out fire in his rage against the Jews, and commanding to haste the journey. Everything is going wrong around him and he is still running his mouth. Then he fell down from his chariot, carried violently, so that all the members of his body were much pained.
-- And thus he that a little afore thought he might command the waves of the sea, so proud was he beyond the condition of man, and weigh the high mountains in a balance, was now cast on the ground and carried in an horselitter, shewing forth unto all the manifest power of God.
-- The worms rose up out of the body of this wicked man; his flesh fell away, and the filthiness of his smell was noisome to all his army, so that no man could endure to carry him for his intolerable stink. The man that thought he could reach to the stars of heaven, nobody could even come near him.
-- Being plagued, he began to leave off his great pride, and to come to the knowledge of himself by the scourge of God, his pain increasing every moment. He said, It is meet to be subject unto God, and that a man that is mortal should not proudly think of himself, as if he were God. Some people get touched once and straighten up; some have to be brought this low to know where they need to go.
-- This wicked person vowed unto the Lord, who now no more would have mercy upon him: he promised to set the holy city at liberty, make the Jews equals to the citizens of Athens, garnish the temple with goodly gifts, pay for the sacrifices out of his own revenue, yea, and become a Jew himself, and go through all the world preaching the power of God. When that torment touched him, all of a sudden he wanted to be God's friend.
-- But for all this his pains would not cease: for the just judgment of God was come upon him. He wrote the Jews a flattering letter, to the good Jews his citizens, blaming circumstance and commending his son. Thus the murderer and blasphemer, having suffered most grievously, as he entreated other men, so died he a miserable death in a strange country in the mountains. All praises to the Most High God of Israel.
-
 **[1 Peter 5:6-8](/bible/1-peter/5#v6)**  *[[2:46:43](https://www.youtube.com/watch?v=hlZo30CYViE&t=10003s)]*
 
 > <sup>[6](/bible/1-peter/5#v6)</sup> Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:
@@ -571,16 +604,19 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 **[Obadiah 1:1-4](/bible/obadiah/1#v1)**  *[[2:47:45](https://www.youtube.com/watch?v=hlZo30CYViE&t=10065s)]*
 
 > <sup>[1](/bible/obadiah/1#v1)</sup> The vision of Obadiah. Thus saith the Lord God concerning Edom; We have heard a rumour from the Lord, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.
->
+
+- The vision of Obadiah: thus saith the Lord God concerning Edom. We have heard a rumour from the Lord, and an ambassador is sent among the heathen: Arise ye, and let us rise up against her in battle. That is why the nations of the earth are aligning against the United States of America.
+
 > <sup>[2](/bible/obadiah/1#v2)</sup> Behold, I have made thee small among the heathen: thou art greatly despised.
->
+
+- Behold, I have made thee small among the heathen: thou art greatly despised. The other nations hate them; God said it, so stop saying we are the racists for reading it.
+
+- The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall bring me down to the ground? That is the title of the class, and that is the boast you hear: the strongest military, the ultimatums, the threats. And the ones being threatened answer back without fear.
+
 > <sup>[3](/bible/obadiah/1#v3)</sup> The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall bring me down to the ground?
 >
 > <sup>[4](/bible/obadiah/1#v4)</sup> Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the Lord.
 
-- The vision of Obadiah: thus saith the Lord God concerning Edom. We have heard a rumour from the Lord, and an ambassador is sent among the heathen: Arise ye, and let us rise up against her in battle. That is why the nations of the earth are aligning against the United States of America.
-- Behold, I have made thee small among the heathen: thou art greatly despised. The other nations hate them; God said it, so stop saying we are the racists for reading it.
-- The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall bring me down to the ground? That is the title of the class, and that is the boast you hear: the strongest military, the ultimatums, the threats. And the ones being threatened answer back without fear.
 - Though thou exalt thyself as the eagle: the eagle is on their military, on their mail trucks, on the back of their dollar bill; the eagle has landed on the moon. And though thou set thy nest among the stars, thence will I bring thee down, saith the Lord.
 
 ## In Closing

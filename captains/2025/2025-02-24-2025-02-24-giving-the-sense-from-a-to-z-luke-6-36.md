@@ -78,10 +78,10 @@ tags: ["15 Minutes w/ The Captains", "justice", "mercy", "persecution", "the-law
 **[Luke 6:37-38](/bible/luke/6#v37)**  *[[10:57](https://www.youtube.com/watch?v=og7TE2c_KxY&t=657s)]*
 
 > <sup>[37](/bible/luke/6#v37)</sup> Judge not, and ye shall not be judged: condemn not, and ye shall not be condemned: forgive, and ye shall be forgiven:
->
-> <sup>[38](/bible/luke/6#v38)</sup> Give, and it shall be given unto you; good measure, pressed down, and shaken together, and running over, shall men give into your bosom. For with the same measure that ye mete withal it shall be measured to you again.
 
 - Judge not: So remember I told y'all Christ is going to hit on this later, right? So the very next verse. He talks about mercy in 36, now he's talking about the other weighty matter of the law that he mentioned in Matthew 23: judgment. Right now, Christians take this scripture and say, 'Only God can judge me.' That ain't what he's saying, and we going to prove it as we read on.
+
+> <sup>[38](/bible/luke/6#v38)</sup> Give, and it shall be given unto you; good measure, pressed down, and shaken together, and running over, shall men give into your bosom. For with the same measure that ye mete withal it shall be measured to you again.
 
 - For with the same measure that ye mete withal it shall be measured to you again: So these two verses go together. Right now, let me say this with judging and condemning, right, in the scriptures. Before we do anything, get Sirach 45, last verse. The Lord does not permit us to throw our opinions on people as it relates to heavenly matters. What do I mean by that? What I mean by that is you cannot cast your opinion on somebody as if that opinion holds weight in the day of judgment for that person. Meaning I'm looking at a brother, I'm like, 'Nah, that brother ain't got the spirit on him, he going to die.' I can't do that. I'm not God. What the hell? You understand? So that's what the Lord is telling us to be mindful of. It's not saying that you see somebody in sin and you go to the scripture and you show them, 'Hey, you not applying this, you need to apply this.' You ain't judging them, you're showing them God's judgment, and God ordained us to do such judging, right, passing his judgment, not for the condemnation of anyone, but to help, to rebuke, to correct, to exhort our brothers and sisters that are in error.
 
@@ -119,22 +119,22 @@ tags: ["15 Minutes w/ The Captains", "justice", "mercy", "persecution", "the-law
 **[Matthew 7:1-5](/bible/matthew/7#v1)**  *[[18:42](https://www.youtube.com/watch?v=og7TE2c_KxY&t=1122s)]*
 
 > <sup>[1](/bible/matthew/7#v1)</sup> Judge not, that ye be not judged.
->
-> <sup>[2](/bible/matthew/7#v2)</sup> For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.
->
-> <sup>[3](/bible/matthew/7#v3)</sup> And why beholdest thou the mote that is in thy brother’s eye, but considerest not the beam that is in thine own eye?
->
-> <sup>[4](/bible/matthew/7#v4)</sup> Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and, behold, a beam is in thine own eye?
->
-> <sup>[5](/bible/matthew/7#v5)</sup> Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother’s eye.
 
 - Judge not, that ye be not judged: Right, Christians read that verse and close the book. But keep reading.
 
+> <sup>[2](/bible/matthew/7#v2)</sup> For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.
+
 - For with what judgment ye judge, ye shall be judged: That's what we read in Luke 6. And with what measure ye mete, it shall be measured to you again: That's what we read in Luke 6.
+
+> <sup>[3](/bible/matthew/7#v3)</sup> And why beholdest thou the mote that is in thy brother’s eye, but considerest not the beam that is in thine own eye?
 
 - And why beholdest thou the mote that is in thy brother's eye: Right, the small error in your brother's eye. But considerest not the beam that is in thine own eye: But you dealing with something major, but you got the nerve to spite out the small error in your brother.
 
+> <sup>[4](/bible/matthew/7#v4)</sup> Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and, behold, a beam is in thine own eye?
+
 - Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and, behold, a beam is in thine own eye: Right, so how does that look? Not right. What the hell? How is you telling me? That's like somebody trying to give you a Band-Aid but they got blood gushing at they damn neck or something. To hell with my little score. Hell, you got to go to the ER. The hell is this? Call 911. Right, so before judgment, examine thyself.
+
+> <sup>[5](/bible/matthew/7#v5)</sup> Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother’s eye.
 
 - Thou hypocrite: Thou what? Hypocrite. First cast out the beam out of thine own eye: Right, the demons you dealing with.
 
@@ -153,28 +153,28 @@ tags: ["15 Minutes w/ The Captains", "justice", "mercy", "persecution", "the-law
 **[Romans 2:17-23](/bible/romans/2#v17)**  *[[22:27](https://www.youtube.com/watch?v=og7TE2c_KxY&t=1347s)]*
 
 > <sup>[17](/bible/romans/2#v17)</sup> Behold, thou art called a Jew, and restest in the law, and makest thy boast of God,
->
-> <sup>[18](/bible/romans/2#v18)</sup> And knowest his will, and approvest the things that are more excellent, being instructed out of the law;
->
-> <sup>[19](/bible/romans/2#v19)</sup> And art confident that thou thyself art a guide of the blind, a light of them which are in darkness,
->
-> <sup>[20](/bible/romans/2#v20)</sup> An instructor of the foolish, a teacher of babes, which hast the form of knowledge and of the truth in the law.
->
-> <sup>[21](/bible/romans/2#v21)</sup> Thou therefore which teachest another, teachest thou not thyself? thou that preachest a man should not steal, dost thou steal?
->
-> <sup>[22](/bible/romans/2#v22)</sup> Thou that sayest a man should not commit adultery, dost thou commit adultery? thou that abhorrest idols, dost thou commit sacrilege?
->
-> <sup>[23](/bible/romans/2#v23)</sup> Thou that makest thy boast of the law, through breaking the law dishonourest thou God?
 
 - Behold, thou art called a Jew, and restest in the law, and makest thy boast of God: So this is talking about the scribes and Pharisees. That's who Paul is addressing in this verse.
 
+> <sup>[18](/bible/romans/2#v18)</sup> And knowest his will, and approvest the things that are more excellent, being instructed out of the law;
+>
+> <sup>[19](/bible/romans/2#v19)</sup> And art confident that thou thyself art a guide of the blind, a light of them which are in darkness,
+
 - And art confident that thou thyself art a guide of the blind: Remember this verse. You are confident that you are a god of the blind.
 
+> <sup>[20](/bible/romans/2#v20)</sup> An instructor of the foolish, a teacher of babes, which hast the form of knowledge and of the truth in the law.
+
 - Which hast the form of knowledge and of the truth in the law: Remember this verse too: which has the form of knowledge and of truth in the law.
+
+> <sup>[21](/bible/romans/2#v21)</sup> Thou therefore which teachest another, teachest thou not thyself? thou that preachest a man should not steal, dost thou steal?
 
 - Thou therefore which teachest another, teachest thou not thyself: So thou therefore that teaches another, don't you teach yourself?
 
 - Thou that preachest a man should not steal, dost thou steal: So the scribes and Pharisees taught the law of Moses, which in there it says thou shalt not steal, but look what they was doing. Dost thou steal? They was stealing. They was hypocrites.
+
+> <sup>[22](/bible/romans/2#v22)</sup> Thou that sayest a man should not commit adultery, dost thou commit adultery? thou that abhorrest idols, dost thou commit sacrilege?
+>
+> <sup>[23](/bible/romans/2#v23)</sup> Thou that makest thy boast of the law, through breaking the law dishonourest thou God?
 
 - Thou that makest thy boast of the law, through breaking the law dishonourest thou God: Right, so that's where the condemnation come in, brothers and sisters. Hypocrisy. So that's what Christ was teaching us to be mindful about. All right, James 4:1, James 4:1.
 
@@ -235,10 +235,10 @@ tags: ["15 Minutes w/ The Captains", "justice", "mercy", "persecution", "the-law
 **[Sirach 1:29-30](/bible/sirach/1#v29)**  *[[31:43](https://www.youtube.com/watch?v=og7TE2c_KxY&t=1903s)]*
 
 > <sup>[29](/bible/sirach/1#v29)</sup> Be not an hypocrite in the sight of men, and take good heed what thou speakest.
->
-> <sup>[30](/bible/sirach/1#v30)</sup> Exalt not thyself, lest thou fall, and bring dishonour upon thy soul, and so God discover thy secrets, and cast thee down in the midst of the congregation, because thou camest not in truth to the fear of the Lord, but thy heart is full of deceit.
 
 - Be not an hypocrite in the sight of men, and take good heed what thou speakest: So this is going into what? You have not took the beam out of your eye, but you always got something to say about somebody else and what they do or what they did, but you got a beam in your eye. The Lord said uh-uh, don't be that brother, cuz what's going to happen? Verse 30.
+
+> <sup>[30](/bible/sirach/1#v30)</sup> Exalt not thyself, lest thou fall, and bring dishonour upon thy soul, and so God discover thy secrets, and cast thee down in the midst of the congregation, because thou camest not in truth to the fear of the Lord, but thy heart is full of deceit.
 
 - Exalt not thyself, lest thou fall: Notice it says exalt not thyself. That's what James was talking about, that person that's not a doer of the law but a judge. You're judging the law: 'I don't — that don't apply to me. I can say what I want to say about this brother or sister.' But when it happened unto you, you a victim, you understand. You feel like you're better than that brother or sister, therefore you don't have to love them as yourself. You don't have to do unto them as you would want them to do unto you. You're above that. The Lord said when you operate like that,
 
@@ -272,12 +272,12 @@ tags: ["15 Minutes w/ The Captains", "justice", "mercy", "persecution", "the-law
 **[Matthew 23:15-16](/bible/matthew/23#v15)**  *[[35:22](https://www.youtube.com/watch?v=og7TE2c_KxY&t=2122s)]*
 
 > <sup>[15](/bible/matthew/23#v15)</sup> Woe unto you, scribes and Pharisees, hypocrites! for ye compass sea and land to make one proselyte, and when he is made, ye make him twofold more the child of hell than yourselves.
->
-> <sup>[16](/bible/matthew/23#v16)</sup> Woe unto you, ye blind guides, which say, Whosoever shall swear by the temple, it is nothing; but whosoever shall swear by the gold of the temple, he is a debtor!
 
 - Woe unto you, scribes and Pharisees, hypocrites: What? Hypocrites.
 
 - For ye compass sea and land to make one proselyte, and when he is made, ye make him twofold more the child of hell than yourselves: So look at what Christ said in Luke 6: can the blind lead the blind? They will both fall into the ditch. The Pharisees, which were hypocrites, would compass sea and land. They would travel far to convert one brother back to the old covenant, only to make that person twofold of a child of hell than them. Meaning what? They both fall into the ditch. Watch this, verse 16.
+
+> <sup>[16](/bible/matthew/23#v16)</sup> Woe unto you, ye blind guides, which say, Whosoever shall swear by the temple, it is nothing; but whosoever shall swear by the gold of the temple, he is a debtor!
 
 - Woe unto you, ye blind guides: You what? Ye blind guides. So we just read in Romans 2. What did Paul tell them? You're confident that you're a guide of the blind. But they themselves, they are guides, but they are blind guides. So where are they guiding the blind? The blind is leading them blind. They are guiding them into the ditch, which go back to verse 15: you making that person that you're guiding more, a twofold of a child of hell than you are, you understand. So watch this, go to Isaiah 9:16, about the blind leading the blind, they both fall into the ditch.
 
@@ -307,10 +307,10 @@ tags: ["15 Minutes w/ The Captains", "justice", "mercy", "persecution", "the-law
 **[Matthew 10:24-25](/bible/matthew/10#v24)**  *[[38:33](https://www.youtube.com/watch?v=og7TE2c_KxY&t=2313s)]*
 
 > <sup>[24](/bible/matthew/10#v24)</sup> The disciple is not above his master, nor the servant above his lord.
->
-> <sup>[25](/bible/matthew/10#v25)</sup> It is enough for the disciple that he be as his master, and the servant as his lord. If they have called the master of the house Beelzebub, how much more shall they call them of his household?
 
 - The disciple is not above his master, nor the servant above his lord: Watch this.
+
+> <sup>[25](/bible/matthew/10#v25)</sup> It is enough for the disciple that he be as his master, and the servant as his lord. If they have called the master of the house Beelzebub, how much more shall they call them of his household?
 
 - It is enough for the disciple that he be as his master, and the servant as his lord: Right, meaning what? Whatever your master goes through, you, as the student — the reason why you're the student, you're learning, you're preparing to go through the same things. You cannot see your master experience things and expect not to go through the same. If that was the case, then you're above him. 'Oh, I mean, that's — yeah, Christ only went and had to deny sin and deny temptation and get beat up and get betrayed and suffer and get killed and get slandered. That's all Christ stuff. I'm just getting the precepts.' No, that means that you above him. You can get all the wisdom but not have to go through any of the hardship? No. You have to be as a master. Watch this, the rest of the verse.
 
@@ -320,14 +320,14 @@ tags: ["15 Minutes w/ The Captains", "justice", "mercy", "persecution", "the-law
 **[1 Peter 4:12-14](/bible/1-peter/4#v12)**  *[[40:29](https://www.youtube.com/watch?v=og7TE2c_KxY&t=2429s)]*
 
 > <sup>[12](/bible/1-peter/4#v12)</sup> Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you:
->
-> <sup>[13](/bible/1-peter/4#v13)</sup> But rejoice, inasmuch as ye are partakers of Christ’s sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy.
->
-> <sup>[14](/bible/1-peter/4#v14)</sup> If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified.
 
 - Beloved, think it not strange concerning the fiery trial which is to try you: Which is to try you. It's not anything that you can avoid. The fiery trial is to try you. As though some strange thing happened unto you.
 
+> <sup>[13](/bible/1-peter/4#v13)</sup> But rejoice, inasmuch as ye are partakers of Christ’s sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy.
+
 - But rejoice, inasmuch as ye are partakers of Christ's sufferings: Right, because the disciple is not above his master, the servant is not above his lord. We are all partakers of his suffering. So for you to think it strange, that goes back to you thinking that you above him: 'Why I gotta go — why am I going through this? I'm just a Israelite United in Christ. Why do I have to go through with Christ went through? I'm better than that.' That's what you're saying, inadvertently, you understand. But no, this fiery child will try us, because we are partakers of his sufferings. That, when his glory shall be revealed, ye may be glad also with exceeding joy.
+
+> <sup>[14](/bible/1-peter/4#v14)</sup> If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified.
 
 - If ye be reproached for the name of Christ: If you be spoken evil of, like he was called Beelzebub, for the name of Christ. Happy are ye: You should be happy.
 
@@ -341,10 +341,10 @@ tags: ["15 Minutes w/ The Captains", "justice", "mercy", "persecution", "the-law
 > <sup>[18](/bible/john/15#v18)</sup> If the world hate you, ye know that it hated me before it hated you.
 >
 > <sup>[19](/bible/john/15#v19)</sup> If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you.
->
-> <sup>[20](/bible/john/15#v20)</sup> Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also.
 
 - If the world hate you, ye know that it hated me before it hated you. If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you.
+
+> <sup>[20](/bible/john/15#v20)</sup> Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also.
 
 - Remember the word that I said unto you, The servant is not greater than his lord: So in the context of what he just said, he wants them to bring into remembrance something that he's taught them already, which is what? The servant is not greater than his lord. Y'all see that?
 
@@ -355,17 +355,17 @@ tags: ["15 Minutes w/ The Captains", "justice", "mercy", "persecution", "the-law
 
 **[Matthew 20:20-23](/bible/matthew/20#v20)**  *[[44:17](https://www.youtube.com/watch?v=og7TE2c_KxY&t=2657s)]*
 
+- Then came to him the mother of Zebedee's children with her sons, worshipping him, and desiring a certain thing of him. And he said unto her, What wilt thou? She saith unto him, Grant that these my two sons may sit, the one on thy right hand, and the other on the left, in thy kingdom: Right, that's talking about Boanerges, right, the sons of thunder, James and John. Verse 22.
+
 > <sup>[20](/bible/matthew/20#v20)</sup> Then came to him the mother of Zebedee’s children with her sons, worshipping him, and desiring a certain thing of him.
 >
 > <sup>[21](/bible/matthew/20#v21)</sup> And he said unto her, What wilt thou? She saith unto him, Grant that these my two sons may sit, the one on thy right hand, and the other on the left, in thy kingdom.
 >
 > <sup>[22](/bible/matthew/20#v22)</sup> But Jesus answered and said, Ye know not what ye ask. Are ye able to drink of the cup that I shall drink of, and to be baptized with the baptism that I am baptized with? They say unto him, We are able.
->
-> <sup>[23](/bible/matthew/20#v23)</sup> And he saith unto them, Ye shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: but to sit on my right hand, and on my left, is not mine to give, but it shall be given to them for whom it is prepared of my Father.
-
-- Then came to him the mother of Zebedee's children with her sons, worshipping him, and desiring a certain thing of him. And he said unto her, What wilt thou? She saith unto him, Grant that these my two sons may sit, the one on thy right hand, and the other on the left, in thy kingdom: Right, that's talking about Boanerges, right, the sons of thunder, James and John. Verse 22.
 
 - Are ye able to drink of the cup that I shall drink of, and to be baptized with the baptism that I am baptized with: Right, so is it talking about drinking wine, like he did in John chapter 2? Is he talking about getting dipped in water, like he did in Matthew chapter 3? Is that what he talking about? Read on.
+
+> <sup>[23](/bible/matthew/20#v23)</sup> And he saith unto them, Ye shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: but to sit on my right hand, and on my left, is not mine to give, but it shall be given to them for whom it is prepared of my Father.
 
 - Ye shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: So he can't be talking about drinking wine. They didn't — they didn't drunk wine with Christ already. He can't be talking about being dipped in water. A good handful of them was John's disciples before they was Christ's disciples. They had already been dipped in water. So Christ is talking about what? Persecution. Ultimately death, being put to death. That's what Christ is talking about. He's telling them you will drink of my cup and be baptized with my baptism, meaning you going to die for this truth. You going to suffer great persecution for this is true.
 
@@ -384,12 +384,12 @@ tags: ["15 Minutes w/ The Captains", "justice", "mercy", "persecution", "the-law
 **[1 John 2:5-6](/bible/1-john/2#v5)**  *[[47:09](https://www.youtube.com/watch?v=og7TE2c_KxY&t=2829s)]*
 
 > <sup>[5](/bible/1-john/2#v5)</sup> But whoso keepeth his word, in him verily is the love of God perfected: hereby know we that we are in him.
->
-> <sup>[6](/bible/1-john/2#v6)</sup> He that saith he abideth in him ought himself also so to walk, even as he walked.
 
 - But whoso keepeth his word: Whoso keepeth his word, meaning you keep his commandments.
 
 - In him verily is the love of God perfected: In him, in that brother or sister, is the love of God perfected. Remember we just read he that is perfect shall be as his master. When we come into the truth, we all must go through the things Christ went through, and it starts with being — speaking evil of, people saying you in a cult, your family turning their back on you, all of that, right. But that's all entry-level stuff. But him that's going to be as his master, right, is them that stand the test of time, you understand. That's in whom the love of God is perfected. You keep his word. Watch this. Hereby know we that we are in him.
+
+> <sup>[6](/bible/1-john/2#v6)</sup> He that saith he abideth in him ought himself also so to walk, even as he walked.
 
 - He that saith he abideth in him: If you say that you're in Christ, ought himself also so to walk, even as he walked: So I ain't going to lie, this scripture right here, this was one of my favorite scriptures, like, my first year in the truth, cuz it was like, bro, Christianity, bro, what the hell? What you — you can't say you saved and all of that, and 'he died for my sin so I could do what I —' No. If you say that you in Christ, you must walk as he walked, meaning what? He was tempted in all points as we were, yet without sin, you understand. He denied his worldly lust and all of that, and kept the commandments of God. And it goes deeper than that. It goes deeper than that. Go to John 13, John 13:5.
 
@@ -397,10 +397,10 @@ tags: ["15 Minutes w/ The Captains", "justice", "mercy", "persecution", "the-law
 **[John 13:15-16](/bible/john/13#v15)**  *[[49:10](https://www.youtube.com/watch?v=og7TE2c_KxY&t=2950s)]*
 
 > <sup>[15](/bible/john/13#v15)</sup> For I have given you an example, that ye should do as I have done to you.
->
-> <sup>[16](/bible/john/13#v16)</sup> Verily, verily, I say unto you, The servant is not greater than his lord; neither he that is sent greater than he that sent him.
 
 - For I have given you an example, that ye should do as I have done to you: Right, so Christ left an example, not only, right, the adherence to God's commandments as it pertains to, you know, the dos and don'ts, but the manner of love which he had for his people. He left us an example.
+
+> <sup>[16](/bible/john/13#v16)</sup> Verily, verily, I say unto you, The servant is not greater than his lord; neither he that is sent greater than he that sent him.
 
 - Verily, verily, I say unto you, The servant is not greater than his lord: See, it's all coming full circle. Neither he that is sent greater than he that sent him. Go to 1 Peter 2:21, 1 Peter 2:21. So we must keep the commandments. We must be willing to die, put our life on the line for our people, as he did. Have a fervent brotherly love for one another, as well as stand the test of persecution.
 
@@ -408,12 +408,12 @@ tags: ["15 Minutes w/ The Captains", "justice", "mercy", "persecution", "the-law
 **[1 Peter 2:21-23](/bible/1-peter/2#v21)**  *[[50:11](https://www.youtube.com/watch?v=og7TE2c_KxY&t=3011s)]*
 
 > <sup>[21](/bible/1-peter/2#v21)</sup> For even hereunto were ye called: because Christ also suffered for us, leaving us an example, that ye should follow his steps:
->
+
+- For even hereunto were ye called: because Christ also suffered for us, leaving us an example, that ye should follow his steps: Who did no sin: Kept God's laws. Neither was guile found in his mouth.
+
 > <sup>[22](/bible/1-peter/2#v22)</sup> Who did no sin, neither was guile found in his mouth:
 >
 > <sup>[23](/bible/1-peter/2#v23)</sup> Who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed himself to him that judgeth righteously:
-
-- For even hereunto were ye called: because Christ also suffered for us, leaving us an example, that ye should follow his steps: Who did no sin: Kept God's laws. Neither was guile found in his mouth.
 
 - Who, when he was reviled: When he was spoken evil of. Reviled not again: He did not respond with that same energy.
 
@@ -425,16 +425,16 @@ tags: ["15 Minutes w/ The Captains", "justice", "mercy", "persecution", "the-law
 **[1 John 3:1-3](/bible/1-john/3#v1)**  *[[52:12](https://www.youtube.com/watch?v=og7TE2c_KxY&t=3132s)]*
 
 > <sup>[1](/bible/1-john/3#v1)</sup> Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.
->
-> <sup>[2](/bible/1-john/3#v2)</sup> Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.
->
-> <sup>[3](/bible/1-john/3#v3)</sup> And every man that hath this hope in him purifieth himself, even as he is pure.
 
 - Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.
+
+> <sup>[2](/bible/1-john/3#v2)</sup> Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.
 
 - Beloved, now are we the sons of God, and it doth not yet appear what we shall be: Right, they don't see us as the rulers of this earth, right, with 12 thrones and, you know what I'm saying, a holy city. They don't see all of that. It doesn't yet appear.
 
 - But we know that, when he shall appear, we shall be like him: We shall what? Be like him. We shall be like him. We going to be glorified with that same glory, that same glorious body. For we shall see him as he is.
+
+> <sup>[3](/bible/1-john/3#v3)</sup> And every man that hath this hope in him purifieth himself, even as he is pure.
 
 - And every man that hath this hope in him purifieth himself, even as he is pure: Every man that believes that. Y'all see that? Everyone that is perfect shall be as his master. You're not going to — that's Christianity: 'Yeah, we going to get all that,' even though I'm going to the club, even though I'm on them hoes, even though I'm getting wasted off the Casamigo every weekend. No. If you believe that Christ is going to redeem us from his mortal body and grant us immortality, while you still in this body you're going to purify yourself and prepare yourself for the persecution to come. Everyone that is perfect shall be as his master.
 
@@ -451,10 +451,10 @@ tags: ["15 Minutes w/ The Captains", "justice", "mercy", "persecution", "the-law
 **[2 Timothy 2:11-12](/bible/2-timothy/2#v11)**  *[[55:58](https://www.youtube.com/watch?v=og7TE2c_KxY&t=3358s)]*
 
 > <sup>[11](/bible/2-timothy/2#v11)</sup> It is a faithful saying: For if we be dead with him, we shall also live with him:
->
-> <sup>[12](/bible/2-timothy/2#v12)</sup> If we suffer, we shall also reign with him: if we deny him, he also will deny us:
 
 - It is a faithful saying: For if we be dead with him: Right, if we die. We shall also live with him: So if we die in Christ, we going to be raised with Christ. We going to be raised first.
+
+> <sup>[12](/bible/2-timothy/2#v12)</sup> If we suffer, we shall also reign with him: if we deny him, he also will deny us:
 
 - If we suffer: If we what? If we suffer. If we suffer like he suffered. We shall also reign with him: We're going to be as our master.
 
@@ -481,15 +481,15 @@ tags: ["15 Minutes w/ The Captains", "justice", "mercy", "persecution", "the-law
 
 **[Psalms 1:1-3](/bible/psalms/1#v1)**  *[[58:47](https://www.youtube.com/watch?v=og7TE2c_KxY&t=3527s)]*
 
+- Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.
+
 > <sup>[1](/bible/psalms/1#v1)</sup> Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.
 >
 > <sup>[2](/bible/psalms/1#v2)</sup> But his delight is in the law of the Lord; and in his law doth he meditate day and night.
->
-> <sup>[3](/bible/psalms/1#v3)</sup> And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.
-
-- Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.
 
 - But his delight is in the law of the LORD; and in his law doth he meditate day and night: If you meditate in the law day and night, right, that's where your judgment is going to come from. It's not going to come from your own vain opinion, you understand. And you're also going to do what the word of God says: thoroughly examine before you rebuke, meaning examine yourself in the matter before you jump to conclusions, you understand. Watch this. Read verse 3.
+
+> <sup>[3](/bible/psalms/1#v3)</sup> And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.
 
 - And he shall be like a tree planted by the rivers of water: So this is that good tree, that good tree planted by rivers of water. That water is talking about the word of God in verse 2.
 
@@ -542,18 +542,18 @@ tags: ["15 Minutes w/ The Captains", "justice", "mercy", "persecution", "the-law
 **[1 Timothy 6:3-5](/bible/1-timothy/6#v3)**  *[[1:05:03](https://www.youtube.com/watch?v=og7TE2c_KxY&t=3903s)]*
 
 > <sup>[3](/bible/1-timothy/6#v3)</sup> If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness;
->
-> <sup>[4](/bible/1-timothy/6#v4)</sup> He is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, railings, evil surmisings,
->
-> <sup>[5](/bible/1-timothy/6#v5)</sup> Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself.
 
 - If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ: Right, meaning what? The scriptures. And to the doctrine which is according to godliness: The scriptures. So if a man don't consent to the scriptures,
+
+> <sup>[4](/bible/1-timothy/6#v4)</sup> He is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, railings, evil surmisings,
 
 - He is proud: Because he got pride on them. We done read all the scriptures for years about he that hateth his brother is a murderer, and a murderer have no eternal life abiding in them. Bishop prayed for the brothers on one of the biggest Passovers yet, for the whole world to see, and them brothers still curse Israel United in Christ every chance they get. You can't make this up. Why? Why? Why can't they just humble down and love the brethren? Read verse 4. He is proud. Pride. Pride is the beginning of all abomination. It's when your heart depart from your maker.
 
 - Knowing nothing, but doting about questions and strifes of words: Knowing nothing, meaning he don't meditate in the law day and night. He don't know a damn thing. Doting about questions and strifes of words: trying to debate.
 
 - Whereof cometh envy, strife, railings, evil surmisings: These are all works of the flesh, not fruits of the spirit. So this is that corrupt fruit, corrupt communication. Verse 5.
+
+> <sup>[5](/bible/1-timothy/6#v5)</sup> Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself.
 
 - Perverse disputings of men: Like we just read in Proverbs 15:4: but perverseness therein is a breach in the spirit. Of corrupt minds: Men of what? Corrupt minds. Corrupt trees. This is that corrupt fruit that they will bring forth. It's listed in verse 4, you understand.
 
@@ -565,26 +565,26 @@ tags: ["15 Minutes w/ The Captains", "justice", "mercy", "persecution", "the-law
 **[2 Timothy 3:5-9](/bible/2-timothy/3#v5)**  *[[1:07:51](https://www.youtube.com/watch?v=og7TE2c_KxY&t=4071s)]*
 
 > <sup>[5](/bible/2-timothy/3#v5)</sup> Having a form of godliness, but denying the power thereof: from such turn away.
->
-> <sup>[6](/bible/2-timothy/3#v6)</sup> For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,
->
-> <sup>[7](/bible/2-timothy/3#v7)</sup> Ever learning, and never able to come to the knowledge of the truth.
->
-> <sup>[8](/bible/2-timothy/3#v8)</sup> Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith.
->
-> <sup>[9](/bible/2-timothy/3#v9)</sup> But they shall proceed no further: for their folly shall be manifest unto all men, as theirs also was.
 
 - Having a form of godliness: Having a what? A form of godliness. Having a form of godliness. We read that in Romans 2 earlier, having a form of knowledge and truth. But what did Christ call them? Hypocrites. So these people have a form of godliness, but denying the power thereof: from such turn away. From such withdraw thyself.
 
+> <sup>[6](/bible/2-timothy/3#v6)</sup> For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,
+
 - For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts: Right, cuz you got to — how do these damn bums be having multiple wives? It's silly women laden with divers lusts. A lot of them sisters want to lick on other sisters, so they don't mind being multiple wife, cuz they — let me stop.
 
+> <sup>[7](/bible/2-timothy/3#v7)</sup> Ever learning, and never able to come to the knowledge of the truth.
+
 - Ever learning: Ever learning, meaning they read the Bible, they be watching Bishop. And never able to come to the knowledge of the truth: But never repent and stop the hatred and stop the envy and stop — they never repent.
+
+> <sup>[8](/bible/2-timothy/3#v8)</sup> Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith.
 
 - Now as Jannes and Jambres withstood Moses: Those are the names of two of the witch or magicians that you read about in Exodus, when Moses and Aaron would go and drop the staff and it turn into a Stak. Them will be the ones that try to retaliate with another miracle. So as those magicians withstood Moses,
 
 - So do these also resist the truth: It don't matter which scripture we bring out. It could be a fixtion face skit, it could be a Bishop Yawasap precept in class. It could be delivered in so many different ways, but they always find a way to avoid it and not take accountability, and continue to hate and slender the brethren. Can't make this up.
 
 - Men of corrupt minds: Men of what? Corrupt minds. Corrupt trees. They cannot bring forth good fruit. Be like, 'Damn, I know this class, that prayer, something is going to change this time.' No, they men of corrupt minds. They cannot bring forth good fruit. Reprobate concerning the faith: Damn.
+
+> <sup>[9](/bible/2-timothy/3#v9)</sup> But they shall proceed no further: for their folly shall be manifest unto all men, as theirs also was.
 
 - But they shall proceed no further: for their folly shall be manifest unto all men, as theirs also was: Just like the Pharaoh's magicians, it was manifested. Y'all are not of — y'all cannot overthrow the power of God. The power of God will prevail. So go to Luke 6:44. Damn, I was supposed to be done at this time and I'm not. Let me speed it up.
 
@@ -599,10 +599,10 @@ tags: ["15 Minutes w/ The Captains", "justice", "mercy", "persecution", "the-law
 **[James 3:12-13](/bible/james/3#v12)**  *[[1:10:46](https://www.youtube.com/watch?v=og7TE2c_KxY&t=4246s)]*
 
 > <sup>[12](/bible/james/3#v12)</sup> Can the fig tree, my brethren, bear olive berries? either a vine, figs? so can no fountain both yield salt water and fresh.
->
-> <sup>[13](/bible/james/3#v13)</sup> Who is a wise man and endued with knowledge among you? let him shew out of a good conversation his works with meekness of wisdom.
 
 - Can the fig tree, my brethren, bear olive berries? either a vine, figs? so can no fountain both yield salt water and fresh: Right, so this is in a context, when you read James 3, is talking about blessing your brother and cursing your brother. You can't do both and say that you in the truth, you understand.
+
+> <sup>[13](/bible/james/3#v13)</sup> Who is a wise man and endued with knowledge among you? let him shew out of a good conversation his works with meekness of wisdom.
 
 - Who is a wise man and endued with knowledge among you: So how can you tell if a brother has wisdom and knowledge?
 
@@ -652,15 +652,15 @@ tags: ["15 Minutes w/ The Captains", "justice", "mercy", "persecution", "the-law
 
 **[Matthew 7:21-23](/bible/matthew/7#v21)**  *[[1:16:18](https://www.youtube.com/watch?v=og7TE2c_KxY&t=4578s)]*
 
+- Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.
+
 > <sup>[21](/bible/matthew/7#v21)</sup> Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.
 >
 > <sup>[22](/bible/matthew/7#v22)</sup> Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works?
->
-> <sup>[23](/bible/matthew/7#v23)</sup> And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.
-
-- Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.
 
 - Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works: So it's going to be people that be like, 'Look, I got videos, I didn't — I didn't talk, you know what I'm saying, classes, I didn't did all of that, I didn't done much work. I had been on a No Jumper podcast. Look at that, Lord. I did the work.'
+
+> <sup>[23](/bible/matthew/7#v23)</sup> And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.
 
 - And then will I profess unto them, I never knew you: Damn. Depart from me, ye that work iniquity: Ye that work iniquity. Go to 2 Timothy 2:19.
 
@@ -686,8 +686,6 @@ tags: ["15 Minutes w/ The Captains", "justice", "mercy", "persecution", "the-law
 **[Luke 6:47-48](/bible/luke/6#v47)**  *[[1:18:59](https://www.youtube.com/watch?v=og7TE2c_KxY&t=4739s)]*
 
 > <sup>[47](/bible/luke/6#v47)</sup> Whosoever cometh to me, and heareth my sayings, and doeth them, I will shew you to whom he is like:
->
-> <sup>[48](/bible/luke/6#v48)</sup> He is like a man which built an house, and digged deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it: for it was founded upon a rock.
 
 - Whosoever cometh to me, and heareth my sayings, and doeth them, I will shew you to whom he is like: He is like a man which built an house, and digged deep, and laid the foundation on a rock: And laid the what? The foundation on a rock. Let's get that real quick, 1 Corinthians 10 and 4, the rock.
 
@@ -700,6 +698,8 @@ tags: ["15 Minutes w/ The Captains", "justice", "mercy", "persecution", "the-law
     > <sup>[11](/bible/1-corinthians/3#v11)</sup> For other foundation can no man lay than that is laid, which is Jesus Christ.
 
     For other foundation can no man lay than that is laid, which is Jesus Christ: That's the foundation, you understand. So the foundation — if your foundation is Christ, that means you're going to hear his words and do them, meaning let everyone that names the name of Christ depart from iniquity. So go back — well, not go to Isaiah 59 — no, no, no. Yeah, go back to that verse, Luke 6:48.
+
+> <sup>[48](/bible/luke/6#v48)</sup> He is like a man which built an house, and digged deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it: for it was founded upon a rock.
 
 
 **[Luke 6:48](/bible/luke/6#v48)**  *[[1:19:54](https://www.youtube.com/watch?v=og7TE2c_KxY&t=4794s)]*

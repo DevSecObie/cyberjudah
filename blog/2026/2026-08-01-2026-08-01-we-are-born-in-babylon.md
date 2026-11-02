@@ -25,26 +25,20 @@ We are born in Babylon: that is today's lesson title. You know how this thing is
 
 **[Genesis 25:21-28](/bible/genesis/25#v21)**  *[[17:25](https://www.youtube.com/watch?v=FpEHxWGgai8&t=1045s)]*
 
+- Isaac intreated the Lord for his wife, because she was barren, meaning she could not have babies; and the Lord was intreated of him, and Rebekah conceived. The children struggled together within her, and she said, if I be blessed by God, why am I having so much trouble in this childbirth? And she went to inquire of the Lord.
+
 > <sup>[21](/bible/genesis/25#v21)</sup> And Isaac intreated the Lord for his wife, because she was barren: and the Lord was intreated of him, and Rebekah his wife conceived.
 >
 > <sup>[22](/bible/genesis/25#v22)</sup> And the children struggled together within her; and she said, If it be so, why am I thus? And she went to enquire of the Lord.
 >
 > <sup>[23](/bible/genesis/25#v23)</sup> And the Lord said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger.
->
-> <sup>[24](/bible/genesis/25#v24)</sup> And when her days to be delivered were fulfilled, behold, there were twins in her womb.
->
-> <sup>[25](/bible/genesis/25#v25)</sup> And the first came out red, all over like an hairy garment; and they called his name Esau.
->
-> <sup>[26](/bible/genesis/25#v26)</sup> And after that came his brother out, and his hand took hold on Esau’s heel; and his name was called Jacob: and Isaac was threescore years old when she bare them.
->
-> <sup>[27](/bible/genesis/25#v27)</sup> And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents.
->
-> <sup>[28](/bible/genesis/25#v28)</sup> And Isaac loved Esau, because he did eat of his venison: but Rebekah loved Jacob.
 
-- Isaac intreated the Lord for his wife, because she was barren, meaning she could not have babies; and the Lord was intreated of him, and Rebekah conceived. The children struggled together within her, and she said, if I be blessed by God, why am I having so much trouble in this childbirth? And she went to inquire of the Lord.
 - Two nations are in thy womb: this is the beginning of two nations. The word Genesis means beginning. Two manner of people shall be separated from thy bowels: two different types. The one people shall be stronger than the other people, stronger mentally and physically; and the elder shall serve the younger: the elder was prophesied to be a servant to the younger.
+
 - There were twins in her womb, but those twins were not identical, because it said two manner of people shall be separated. They looked different.
+
 - The first came out red, all over like an hairy garment, and they called his name Esau. Write this down: Esau means wasted away, meaning his melanin was wasted away. Clip shown from the heat wave in France: when they are in the sun they get red. Down south we call them rednecks, but it is not just their neck that gets red. Look how red them people are; do not tell me they are white. They are Esau; these are their children.
+
 - And after that came his brother out, and his hand took hold on Esau's heel. That is very important, because there is a lot of symbolism behind that.
 
   Precepts:
@@ -60,6 +54,12 @@ We are born in Babylon: that is today's lesson title. You know how this thing is
 
     What shall be the parting asunder of the times? or when shall be the end of the first, and the beginning of it that followeth? Meaning when shall be the end of this world, and when shall the new world come in? From Abraham unto Isaac, when Jacob and Esau were born of him, Jacob's hand held first the heel of Esau. For Esau is the end of the world, and Jacob is the beginning of it that followeth: that is what it symbolized when Jacob was holding Esau's heel. The hand of man is betwixt the heel and the hand: all the other nations are like extras in the movie. Moab is an extra; Ishmael is an extra. Christians do not know what that means at all.
 
+> <sup>[24](/bible/genesis/25#v24)</sup> And when her days to be delivered were fulfilled, behold, there were twins in her womb.
+>
+> <sup>[25](/bible/genesis/25#v25)</sup> And the first came out red, all over like an hairy garment; and they called his name Esau.
+>
+> <sup>[26](/bible/genesis/25#v26)</sup> And after that came his brother out, and his hand took hold on Esau’s heel; and his name was called Jacob: and Isaac was threescore years old when she bare them.
+
 - His name was called Jacob, and Isaac was threescore years old when she bare them: Isaac was 60 when Rebekah gave birth to Esau and Jacob. They did not mention Jacob's color, because Jacob looked just like his mother and father; in fact Jacob looked like everybody from the time of Adam. The only color differential was Esau; that is why the scribes had to write down Esau's color: he was starkly different.
 
   Precepts:
@@ -68,7 +68,12 @@ We are born in Babylon: that is today's lesson title. You know how this thing is
 
     The Lord God formed man of the dust of the ground: the dust of the ground is different shades of brown; the deeper you dig, the darker it gets. That is what Adam looked like, and Eve, and everybody that came from them. Cain's line was cursed with a lack of melanin; the flood came and killed them all off, and God brought them all back through Noah's three sons. So when you move up the generational line to Isaac and Rebekah, Esau is the return of Cain's lineage, and Jacob is the return of Seth.
 
+> <sup>[27](/bible/genesis/25#v27)</sup> And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents.
+
 - And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents. When you examine the two, remember it said two manner of people: Jacob was plain, he dwelt in tents, he herded the sheep and the goats. Esau was not like that; he liked to go out and hunt, he liked that adrenaline rush.
+
+> <sup>[28](/bible/genesis/25#v28)</sup> And Isaac loved Esau, because he did eat of his venison: but Rebekah loved Jacob.
+
 - And Isaac loved Esau, because he did eat of his venison: he hunted the food and learned how to cook it from Rebekah. But Rebekah loved Jacob.
 
 **[Hebrews 12:16-17](/bible/hebrews/12#v16)**  *[[25:14](https://www.youtube.com/watch?v=FpEHxWGgai8&t=1514s)]*
@@ -102,18 +107,20 @@ We are born in Babylon: that is today's lesson title. You know how this thing is
 **[Genesis 25:30-34](/bible/genesis/25#v30)**  *[[32:01](https://www.youtube.com/watch?v=FpEHxWGgai8&t=1921s)]*
 
 > <sup>[30](/bible/genesis/25#v30)</sup> And Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint: therefore was his name called Edom.
->
+
+- Feed me, I pray thee, with that same red pottage; for I am faint: he came from the field faint from hunting in that hot sun, saying I feel like I am about to die. Therefore was his name called Edom: Edom meaning red. So his name was also called Edom.
+
 > <sup>[31](/bible/genesis/25#v31)</sup> And Jacob said, Sell me this day thy birthright.
 >
 > <sup>[32](/bible/genesis/25#v32)</sup> And Esau said, Behold, I am at the point to die: and what profit shall this birthright do to me?
->
+
+- And Jacob said, Sell me this day thy birthright. And Esau said, Behold, I am at the point to die: and what profit shall this birthright do to me? I do not give a damn about a birthright if I am about to die. And he sware unto him: and he sold his birthright unto Jacob. This is what made him profane: the birthright meant a lot, and he could not care less about it.
+
+- Then Jacob gave Esau bread and pottage of lentiles, and in those lentiles was raw meat; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright.
+
 > <sup>[33](/bible/genesis/25#v33)</sup> And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob.
 >
 > <sup>[34](/bible/genesis/25#v34)</sup> Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright.
-
-- Feed me, I pray thee, with that same red pottage; for I am faint: he came from the field faint from hunting in that hot sun, saying I feel like I am about to die. Therefore was his name called Edom: Edom meaning red. So his name was also called Edom.
-- And Jacob said, Sell me this day thy birthright. And Esau said, Behold, I am at the point to die: and what profit shall this birthright do to me? I do not give a damn about a birthright if I am about to die. And he sware unto him: and he sold his birthright unto Jacob. This is what made him profane: the birthright meant a lot, and he could not care less about it.
-- Then Jacob gave Esau bread and pottage of lentiles, and in those lentiles was raw meat; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright.
 
 **[Genesis 27:38-40](/bible/genesis/27#v38)**  *[[33:03](https://www.youtube.com/watch?v=FpEHxWGgai8&t=1983s)]*
 
@@ -165,18 +172,22 @@ Reading from a text on Edom and the destruction of the first temple · read by C
 
 **[Obadiah 1:11-14](/bible/obadiah/1#v11)**  *[[39:50](https://www.youtube.com/watch?v=FpEHxWGgai8&t=2390s)]*
 
+- Verse 1 read for context: the vision of Obadiah. Thus saith the Lord God concerning Edom: this whole chapter is about Edom and what they did.
+
 > <sup>[11](/bible/obadiah/1#v11)</sup> In the day that thou stoodest on the other side, in the day that the strangers carried away captive his forces, and foreigners entered into his gates, and cast lots upon Jerusalem, even thou wast as one of them.
->
+
+- In the day that the strangers carried away captive his forces, and foreigners entered into his gates, and cast lots upon Jerusalem, even thou wast as one of them: even thou, Edom, was as one of them.
+
 > <sup>[12](/bible/obadiah/1#v12)</sup> But thou shouldest not have looked on the day of thy brother in the day that he became a stranger; neither shouldest thou have rejoiced over the children of Judah in the day of their destruction; neither shouldest thou have spoken proudly in the day of distress.
->
+
+- Thou shouldest not have looked on the day of thy brother in the day that he became a stranger: the twelve tribes did become strangers. Neither shouldest thou have rejoiced over the children of Judah in the day of their destruction: they rejoiced when we got destroyed. Neither shouldest thou have spoken proudly in the day of distress.
+
+- Thou shouldest not have entered into the gate of my people in the day of their calamity, nor have laid hands on their substance: they laid hands on us; they were robbing us too.
+
 > <sup>[13](/bible/obadiah/1#v13)</sup> Thou shouldest not have entered into the gate of my people in the day of their calamity; yea, thou shouldest not have looked on their affliction in the day of their calamity, nor have laid hands on their substance in the day of their calamity;
 >
 > <sup>[14](/bible/obadiah/1#v14)</sup> Neither shouldest thou have stood in the crossway, to cut off those of his that did escape; neither shouldest thou have delivered up those of his that did remain in the day of distress.
 
-- Verse 1 read for context: the vision of Obadiah. Thus saith the Lord God concerning Edom: this whole chapter is about Edom and what they did.
-- In the day that the strangers carried away captive his forces, and foreigners entered into his gates, and cast lots upon Jerusalem, even thou wast as one of them: even thou, Edom, was as one of them.
-- Thou shouldest not have looked on the day of thy brother in the day that he became a stranger: the twelve tribes did become strangers. Neither shouldest thou have rejoiced over the children of Judah in the day of their destruction: they rejoiced when we got destroyed. Neither shouldest thou have spoken proudly in the day of distress.
-- Thou shouldest not have entered into the gate of my people in the day of their calamity, nor have laid hands on their substance: they laid hands on us; they were robbing us too.
 - Neither shouldest thou have stood in the crossway, to cut off those of his that did escape: when we were escaping, Edom blocked our way, held us in, and gave us up to the Babylonians.
 
   Precepts:
@@ -289,29 +300,32 @@ Reading from *Light and Truth* by R. B. Lewis · read by Captain Uri  *[[50:36](
 
 **[Psalms 137:7-9](/bible/psalms/137#v7)**  *[[55:23](https://www.youtube.com/watch?v=FpEHxWGgai8&t=3323s)]*
 
+- Remember, O Lord, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof. Rase it means destroy it. Think about it: this is King David; when he ruled, Babylon was not in power, but he saw a vision of the destruction of the nation of Israel. That is what the … did when they burned down that temple.
+
 > <sup>[7](/bible/psalms/137#v7)</sup> Remember, O Lord, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof.
 >
 > <sup>[8](/bible/psalms/137#v8)</sup> O daughter of Babylon, who art to be destroyed; happy shall he be, that rewardeth thee as thou hast served us.
->
+
+- O daughter of Babylon, who art to be destroyed: I want you to see that he calls Edom the daughter of Babylon, because they assisted the Cushite Babylonians. The prophecy is that the daughter of Babylon is to be destroyed.
+
 > <sup>[9](/bible/psalms/137#v9)</sup> Happy shall he be, that taketh and dasheth thy little ones against the stones.
 
-- Remember, O Lord, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof. Rase it means destroy it. Think about it: this is King David; when he ruled, Babylon was not in power, but he saw a vision of the destruction of the nation of Israel. That is what the … did when they burned down that temple.
-- O daughter of Babylon, who art to be destroyed: I want you to see that he calls Edom the daughter of Babylon, because they assisted the Cushite Babylonians. The prophecy is that the daughter of Babylon is to be destroyed.
 - Happy shall he be, that taketh and dasheth thy little ones against the stones: that is what they did to our children.
 
 **[Zechariah 2:6-9](/bible/zechariah/2#v6)**  *[[57:06](https://www.youtube.com/watch?v=FpEHxWGgai8&t=3426s)]*
 
 > <sup>[6](/bible/zechariah/2#v6)</sup> Ho, ho, come forth, and flee from the land of the north, saith the Lord: for I have spread you abroad as the four winds of the heaven, saith the Lord.
->
+
+- Ho, ho, come forth, and flee from the land of the north: North America. For I have spread you abroad as the four winds of the heaven, saith the Lord.
+
+- Deliver thyself, O Zion, that dwellest with the daughter of Babylon. That Zion is Judah: Benjamin does not dwell with the daughter of Babylon; they are on a nice, pleasant island. Levi does not dwell with the daughter of Babylon. That is why all the tribes joke with Judah: we have places to go back to when we want to run; you have no place to go. Why? Because Judah dwells with the daughter of Babylon, with Edom, in North America.
+
 > <sup>[7](/bible/zechariah/2#v7)</sup> Deliver thyself, O Zion, that dwellest with the daughter of Babylon.
 >
 > <sup>[8](/bible/zechariah/2#v8)</sup> For thus saith the Lord of hosts; After the glory hath he sent me unto the nations which spoiled you: for he that toucheth you toucheth the apple of his eye.
->
-> <sup>[9](/bible/zechariah/2#v9)</sup> For, behold, I will shake mine hand upon them, and they shall be a spoil to their servants: and ye shall know that the Lord of hosts hath sent me.
 
-- Ho, ho, come forth, and flee from the land of the north: North America. For I have spread you abroad as the four winds of the heaven, saith the Lord.
-- Deliver thyself, O Zion, that dwellest with the daughter of Babylon. That Zion is Judah: Benjamin does not dwell with the daughter of Babylon; they are on a nice, pleasant island. Levi does not dwell with the daughter of Babylon. That is why all the tribes joke with Judah: we have places to go back to when we want to run; you have no place to go. Why? Because Judah dwells with the daughter of Babylon, with Edom, in North America.
 - For he that toucheth you toucheth the apple of his eye: he that touches you touches my favorite. For, behold, I will shake mine hand upon them, and they shall be a spoil to their servants: Edom shall be a spoil to us; we are the servants here. And ye shall know that the Lord of hosts hath sent me.
+
 - Understand this: all Judah is not in North America, just like all Levi is not on the island of Haiti, and all Benjamin is not on Jamaica or Trinidad. Israel and Judah were scattered worldwide; Zechariah is pointing out a remnant of Judah that is in North America. And what is so special about this group here? The house of David is here. You are going to find that thing out.
 
   Precepts:
@@ -323,6 +337,8 @@ Reading from *Light and Truth* by R. B. Lewis · read by Captain Uri  *[[50:36](
     > <sup>[12](/bible/isaiah/11#v12)</sup> And he shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.
 
     He shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth. Israel and Judah were scattered worldwide.
+
+> <sup>[9](/bible/zechariah/2#v9)</sup> For, behold, I will shake mine hand upon them, and they shall be a spoil to their servants: and ye shall know that the Lord of hosts hath sent me.
 
 <div class="reading">
 
@@ -515,6 +531,14 @@ Reading from a text on the Persian king's bodyguards  *[[1:25:06](https://www.yo
 
 **[1 Esdras 4:13-50](/bible/1-esdras/4#v13)**  *[[1:29:51](https://www.youtube.com/watch?v=FpEHxWGgai8&t=5391s)]*
 
+- Then the third, who had spoken of women and of the truth, this was Zerubbabel, began to speak: O ye men, it is not the great king, nor the multitude of men, neither is it wine, that excelleth; who is it then that ruleth them? are they not women? When the first said wine is the strongest, and the second said the king, they wanted brownie points; Zerubbabel cut both down. And when he said it is not women either, that is for the brothers who say the woman is the goddess of the earth, the mother goddess; that is brown nosing, and these women fall for it.
+
+- Women have borne the king and all the people that bear rule by sea and land; they nourished them up that planted the vineyards; these also make garments for men. So sisters, if you have no sewing skills, why not learn? These bring glory unto men; and without women cannot men be.
+
+- Do they not love a woman which is comely in favour and beauty? Sisters, do not let yourself fall apart; some of you get married and just let yourself go. Take care of yourselves.
+
+- A man leaveth his own father that brought him up, and his own country, and cleaveth unto his wife. Brothers, in order to do that, what do you have to have? A job. We were talking to the young men last night: you want to get married, but you keep getting fired? Then you cannot get married.
+
 > <sup>[13](/bible/1-esdras/4#v13)</sup> Then the third, who had spoken of women, and of the truth, (this was Zorobabel) began to speak.
 >
 > <sup>[14](/bible/1-esdras/4#v14)</sup> O ye men, it is not the great king, nor the multitude of men, neither is it wine, that excelleth; who is it then that ruleth them, or hath the lordship over them? are they not women?
@@ -534,7 +558,15 @@ Reading from a text on the Persian king's bodyguards  *[[1:25:06](https://www.yo
 > <sup>[21](/bible/1-esdras/4#v21)</sup> He sticketh not to spend his life with his wife. and remembereth neither father, nor mother, nor country.
 >
 > <sup>[22](/bible/1-esdras/4#v22)</sup> By this also ye must know that women have dominion over you: do ye not labour and toil, and give and bring all to the woman?
->
+
+- By this also ye must know that women have dominion over you: do ye not labour and toil, and give and bring all to the woman? A man can have a little mean cottage and be content; it is the woman that wants the three bedroom, the two bathroom, the king size bed, the drapes.
+
+- Yea, a man taketh his sword, and goeth his way to rob and to steal, to sail upon the sea and upon rivers; and looketh upon a lion; and when he hath stolen, spoiled, and robbed, he bringeth it to his love. Men rob and steal for women. Sisters, ask yourself why brothers get in the drug game: money, power, respect; and that is how they get the woman. And when the cops come, she plays innocent: I did not know he was a drug dealer. How did he get all those vehicles with no job? You knew.
+
+- Wherefore a man loveth his wife better than father or mother. Yea, many there be that have run out of their wits for women, and become servants for their sakes; many also have perished, have erred, and sinned, for women. What kind of man is that, brothers? Many men have died for women, erred for women, sinned for women, and a lot of them are in jail today.
+
+- Yet did I see him and Apame the king's concubine, the daughter of the admirable Bartacus, sitting at the right hand of the king, and taking the crown from the king's head, and setting it upon her own head; she also struck the king with her left hand. And yet for all this the king gaped and gazed upon her with open mouth: if she laughed upon him, he laughed also; but if she took any displeasure at him, the king was fain to flatter, that she might be reconciled to him again. O ye men, how can it be but women should be strong, seeing they do thus?
+
 > <sup>[23](/bible/1-esdras/4#v23)</sup> Yea, a man taketh his sword, and goeth his way to rob and to steal, to sail upon the sea and upon rivers;
 >
 > <sup>[24](/bible/1-esdras/4#v24)</sup> And looketh upon a lion, and goeth in the darkness; and when he hath stolen, spoiled, and robbed, he bringeth it to his love.
@@ -556,7 +588,13 @@ Reading from a text on the Persian king's bodyguards  *[[1:25:06](https://www.yo
 > <sup>[32](/bible/1-esdras/4#v32)</sup> O ye men, how can it be but women should be strong, seeing they do thus?
 >
 > <sup>[33](/bible/1-esdras/4#v33)</sup> Then the king and the princes looked one upon another: so he began to speak of the truth.
->
+
+- Then the king and the princes looked one upon another: they were shocked; he insulted the king; he told everybody, that woman over there smacked you and took the crown off your head. You are not supposed to talk like that, but Zerubbabel did. So he began to speak of the truth.
+
+- O ye men, are not women strong? great is the earth, high is the heaven, swift is the sun in his course; is he not great that maketh these things? Therefore great is the truth, and stronger than all things. All the earth calleth upon the truth, and the heaven blesseth it: all works shake and tremble at it, and with it is no unrighteous thing.
+
+- Wine is wicked, the king is wicked, women are wicked, all the children of men are wicked; and there is no truth in them; in their unrighteousness also they shall perish. Now he calls the king wicked to his face. There is no truth in the king, no truth in wine, no truth in men, no truth in women.
+
 > <sup>[34](/bible/1-esdras/4#v34)</sup> O ye men, are not women strong? great is the earth, high is the heaven, swift is the sun in his course, for he compasseth the heavens round about, and fetcheth his course again to his own place in one day.
 >
 > <sup>[35](/bible/1-esdras/4#v35)</sup> Is he not great that maketh these things? therefore great is the truth, and stronger than all things.
@@ -568,7 +606,13 @@ Reading from a text on the Persian king's bodyguards  *[[1:25:06](https://www.yo
 > <sup>[38](/bible/1-esdras/4#v38)</sup> As for the truth, it endureth, and is always strong; it liveth and conquereth for evermore.
 >
 > <sup>[39](/bible/1-esdras/4#v39)</sup> With her there is no accepting of persons or rewards; but she doeth the things that are just, and refraineth from all unjust and wicked things; and all men do well like of her works.
->
+
+- As for the truth, it endureth, and is always strong; it liveth and conquereth for evermore. With her there is no accepting of persons or rewards: that is why he was so bold to tell a king, you are not the strongest. He was not partial; he said, I am going to tell you like it is. She doeth the things that are just, and she is the strength, kingdom, power, and majesty, of all ages. Blessed be the God of truth.
+
+- And with that he held his peace, and all the people then shouted, and said, Great is Truth, and mighty above all things. Then said the king, Ask what thou wilt more than is appointed in the writing, and we will give it thee, because thou art found wisest; and thou shalt sit next me, and shalt be called my cousin.
+
+- Notice how noble our forefather was: he asked nothing for himself. He said, Remember thy vow, which thou hast vowed to build Jerusalem, and to send away all the vessels that were taken away out of Jerusalem, which Cyrus set apart when he vowed to destroy Babylon. Thou also hast vowed to build up the temple, which the Edomites burned when Judea was made desolate by the Chaldees. He did not say give me silver, give me gold, give me this woman to marry; he thought about his people and the temple. That should be our mentality. That is why I said, to be of the king's guard you had to be of a special sort, and Zerubbabel was that top guy.
+
 > <sup>[40](/bible/1-esdras/4#v40)</sup> Neither in her judgment is any unrighteousness; and she is the strength, kingdom, power, and majesty, of all ages. Blessed be the God of truth.
 >
 > <sup>[41](/bible/1-esdras/4#v41)</sup> And with that he held his peace. And all the people then shouted, and said, Great is Truth, and mighty above all things.
@@ -584,29 +628,16 @@ Reading from a text on the Persian king's bodyguards  *[[1:25:06](https://www.yo
 > <sup>[46](/bible/1-esdras/4#v46)</sup> And now, O lord the king, this is that which I require, and which I desire of thee, and this is the princely liberality proceeding from thyself: I desire therefore that thou make good the vow, the performance whereof with thine own mouth thou hast vowed to the King of heaven.
 >
 > <sup>[47](/bible/1-esdras/4#v47)</sup> Then Darius the king stood up, and kissed him, and wrote letters for him unto all the treasurers and lieutenants and captains and governors, that they should safely convey on their way both him, and all those that go up with him to build Jerusalem.
->
+
+- Then Darius the king stood up, and kissed him: on the cheek; that was the custom in the east. And he wrote letters for him unto all the treasurers and lieutenants and captains and governors, that they should safely convey on their way both him, and all those that go up with him to build Jerusalem; and letters unto the lieutenants in Celosyria and Phenice, and unto them in Libanus, to bring cedar wood from Libanus unto Jerusalem, and build the city with him.
+
 > <sup>[48](/bible/1-esdras/4#v48)</sup> He wrote letters also unto the lieutenants that were in Celosyria and Phenice, and unto them in Libanus, that they should bring cedar wood from Libanus unto Jerusalem, and that they should build the city with him.
 >
 > <sup>[49](/bible/1-esdras/4#v49)</sup> Moreover he wrote for all the Jews that went out of his realm up into Jewry, concerning their freedom, that no officer, no ruler, no lieutenant, nor treasurer, should forcibly enter into their doors;
->
-> <sup>[50](/bible/1-esdras/4#v50)</sup> And that all the country which they hold should be free without tribute; and that the Edomites should give over the villages of the Jews which then they held:
 
-- Then the third, who had spoken of women and of the truth, this was Zerubbabel, began to speak: O ye men, it is not the great king, nor the multitude of men, neither is it wine, that excelleth; who is it then that ruleth them? are they not women? When the first said wine is the strongest, and the second said the king, they wanted brownie points; Zerubbabel cut both down. And when he said it is not women either, that is for the brothers who say the woman is the goddess of the earth, the mother goddess; that is brown nosing, and these women fall for it.
-- Women have borne the king and all the people that bear rule by sea and land; they nourished them up that planted the vineyards; these also make garments for men. So sisters, if you have no sewing skills, why not learn? These bring glory unto men; and without women cannot men be.
-- Do they not love a woman which is comely in favour and beauty? Sisters, do not let yourself fall apart; some of you get married and just let yourself go. Take care of yourselves.
-- A man leaveth his own father that brought him up, and his own country, and cleaveth unto his wife. Brothers, in order to do that, what do you have to have? A job. We were talking to the young men last night: you want to get married, but you keep getting fired? Then you cannot get married.
-- By this also ye must know that women have dominion over you: do ye not labour and toil, and give and bring all to the woman? A man can have a little mean cottage and be content; it is the woman that wants the three bedroom, the two bathroom, the king size bed, the drapes.
-- Yea, a man taketh his sword, and goeth his way to rob and to steal, to sail upon the sea and upon rivers; and looketh upon a lion; and when he hath stolen, spoiled, and robbed, he bringeth it to his love. Men rob and steal for women. Sisters, ask yourself why brothers get in the drug game: money, power, respect; and that is how they get the woman. And when the cops come, she plays innocent: I did not know he was a drug dealer. How did he get all those vehicles with no job? You knew.
-- Wherefore a man loveth his wife better than father or mother. Yea, many there be that have run out of their wits for women, and become servants for their sakes; many also have perished, have erred, and sinned, for women. What kind of man is that, brothers? Many men have died for women, erred for women, sinned for women, and a lot of them are in jail today.
-- Yet did I see him and Apame the king's concubine, the daughter of the admirable Bartacus, sitting at the right hand of the king, and taking the crown from the king's head, and setting it upon her own head; she also struck the king with her left hand. And yet for all this the king gaped and gazed upon her with open mouth: if she laughed upon him, he laughed also; but if she took any displeasure at him, the king was fain to flatter, that she might be reconciled to him again. O ye men, how can it be but women should be strong, seeing they do thus?
-- Then the king and the princes looked one upon another: they were shocked; he insulted the king; he told everybody, that woman over there smacked you and took the crown off your head. You are not supposed to talk like that, but Zerubbabel did. So he began to speak of the truth.
-- O ye men, are not women strong? great is the earth, high is the heaven, swift is the sun in his course; is he not great that maketh these things? Therefore great is the truth, and stronger than all things. All the earth calleth upon the truth, and the heaven blesseth it: all works shake and tremble at it, and with it is no unrighteous thing.
-- Wine is wicked, the king is wicked, women are wicked, all the children of men are wicked; and there is no truth in them; in their unrighteousness also they shall perish. Now he calls the king wicked to his face. There is no truth in the king, no truth in wine, no truth in men, no truth in women.
-- As for the truth, it endureth, and is always strong; it liveth and conquereth for evermore. With her there is no accepting of persons or rewards: that is why he was so bold to tell a king, you are not the strongest. He was not partial; he said, I am going to tell you like it is. She doeth the things that are just, and she is the strength, kingdom, power, and majesty, of all ages. Blessed be the God of truth.
-- And with that he held his peace, and all the people then shouted, and said, Great is Truth, and mighty above all things. Then said the king, Ask what thou wilt more than is appointed in the writing, and we will give it thee, because thou art found wisest; and thou shalt sit next me, and shalt be called my cousin.
-- Notice how noble our forefather was: he asked nothing for himself. He said, Remember thy vow, which thou hast vowed to build Jerusalem, and to send away all the vessels that were taken away out of Jerusalem, which Cyrus set apart when he vowed to destroy Babylon. Thou also hast vowed to build up the temple, which the Edomites burned when Judea was made desolate by the Chaldees. He did not say give me silver, give me gold, give me this woman to marry; he thought about his people and the temple. That should be our mentality. That is why I said, to be of the king's guard you had to be of a special sort, and Zerubbabel was that top guy.
-- Then Darius the king stood up, and kissed him: on the cheek; that was the custom in the east. And he wrote letters for him unto all the treasurers and lieutenants and captains and governors, that they should safely convey on their way both him, and all those that go up with him to build Jerusalem; and letters unto the lieutenants in Celosyria and Phenice, and unto them in Libanus, to bring cedar wood from Libanus unto Jerusalem, and build the city with him.
 - Moreover he wrote for all the Jews that went out of his realm up into Jewry, concerning their freedom: they got freed from captivity because of this. No officer, no ruler, no lieutenant, nor treasurer should forcibly enter into their doors; all the country which they hold should be free without tribute, no taxes; and the Edomites should give over the villages of the Jews which then they held. Pay attention to that: after Edom burned down the temple, they took over the land, and now the decree was to give it back.
+
+> <sup>[50](/bible/1-esdras/4#v50)</sup> And that all the country which they hold should be free without tribute; and that the Edomites should give over the villages of the Jews which then they held:
 
 <div class="reading">
 
@@ -642,15 +673,16 @@ Reading from a text on the Persian king's bodyguards  *[[1:52:28](https://www.yo
 
 **[Zechariah 3:8-10](/bible/zechariah/3#v8)**  *[[1:55:54](https://www.youtube.com/watch?v=FpEHxWGgai8&t=6954s)]*
 
-> <sup>[8](/bible/zechariah/3#v8)</sup> Hear now, O Joshua the high priest, thou, and thy fellows that sit before thee: for they are men wondered at: for, behold, I will bring forth my servant the BRANCH.
->
-> <sup>[9](/bible/zechariah/3#v9)</sup> For behold the stone that I have laid before Joshua; upon one stone shall be seven eyes: behold, I will engrave the graving thereof, saith the Lord of hosts, and I will remove the iniquity of that land in one day.
->
-> <sup>[10](/bible/zechariah/3#v10)</sup> In that day, saith the Lord of hosts, shall ye call every man his neighbour under the vine and under the fig tree.
-
 - During the Persian captivity you had Joshua the high priest, of the tribe of Levi, and Zerubbabel the governor, of the tribe of Judah.
+
+> <sup>[8](/bible/zechariah/3#v8)</sup> Hear now, O Joshua the high priest, thou, and thy fellows that sit before thee: for they are men wondered at: for, behold, I will bring forth my servant the BRANCH.
+
 - Hear now, O Joshua the high priest, thou, and thy fellows that sit before thee: for they are men wondered at: for, behold, I will bring forth my servant the BRANCH. The Branch is Christ.
+
+> <sup>[9](/bible/zechariah/3#v9)</sup> For behold the stone that I have laid before Joshua; upon one stone shall be seven eyes: behold, I will engrave the graving thereof, saith the Lord of hosts, and I will remove the iniquity of that land in one day.
+
 - For behold the stone that I have laid before Joshua; upon one stone shall be seven eyes: those are the angels. And I will remove the iniquity of that land in one day: that is Christ dying on the cross.
+
 - In that day shall ye call every man his neighbour under the vine and under the fig tree: that is in the kingdom.
 
   Precepts:
@@ -670,6 +702,8 @@ Reading from a text on the Persian king's bodyguards  *[[1:52:28](https://www.yo
     > <sup>[10](/bible/genesis/49#v10)</sup> The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be.
 
     The sceptre shall not depart from Judah: the kingship shall not depart from Judah; nor a lawgiver from between his feet: that is the priesthood, letting you know Christ would come from the rod; there is no immaculate anything, that is Egyptian and Babylonian make believe; until Shiloh come: that is the Messiah, Christ; and unto him shall the gathering of the people be.
+
+> <sup>[10](/bible/zechariah/3#v10)</sup> In that day, saith the Lord of hosts, shall ye call every man his neighbour under the vine and under the fig tree.
 
 **[Matthew 1:12-16](/bible/matthew/1#v12)**  *[[1:59:54](https://www.youtube.com/watch?v=FpEHxWGgai8&t=7194s)]*
 
@@ -694,17 +728,16 @@ Reading from a text on the Persian king's bodyguards  *[[1:52:28](https://www.yo
 
 **[Zechariah 4:6-9](/bible/zechariah/4#v6)**  *[[2:02:26](https://www.youtube.com/watch?v=FpEHxWGgai8&t=7346s)]*
 
+- Not by might, nor by power, but by my spirit, saith the Lord of hosts. Now we know why the Lord said that to Zerubbabel: he was of the king's bodyguard, one of the top fighters. He is telling him, no, this has nothing to do with your fighting skills, Zerubbabel; we know you can break bones, but that is not what is going to overcome everything. The spirit of the Lord is what is going to do it.
+
 > <sup>[6](/bible/zechariah/4#v6)</sup> Then he answered and spake unto me, saying, This is the word of the Lord unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the Lord of hosts.
 >
 > <sup>[7](/bible/zechariah/4#v7)</sup> Who art thou, O great mountain? before Zerubbabel thou shalt become a plain: and he shall bring forth the headstone thereof with shoutings, crying, Grace, grace unto it.
->
-> <sup>[8](/bible/zechariah/4#v8)</sup> Moreover the word of the Lord came unto me, saying,
->
-> <sup>[9](/bible/zechariah/4#v9)</sup> The hands of Zerubbabel have laid the foundation of this house; his hands shall also finish it; and thou shalt know that the Lord of hosts hath sent me unto you.
 
-- Not by might, nor by power, but by my spirit, saith the Lord of hosts. Now we know why the Lord said that to Zerubbabel: he was of the king's bodyguard, one of the top fighters. He is telling him, no, this has nothing to do with your fighting skills, Zerubbabel; we know you can break bones, but that is not what is going to overcome everything. The spirit of the Lord is what is going to do it.
 - Who art thou, O great mountain? before Zerubbabel thou shalt become a plain: the great mountain is Babylon the great, and it shall be flattened.
+
 - And he shall bring forth the headstone thereof with shoutings, crying, Grace, grace unto it. Not only would Christ come from Zerubbabel's lineage; Zerubbabel shall bring forth the headstone.
+
 - The hands of Zerubbabel have laid the foundation of this house; his hands shall also finish it. His hands started the foundation of the temple, and he did finish the temple. However, this goes deeper than that: verses 6 through 9 are also going into the last days.
 
   Precepts:
@@ -712,6 +745,10 @@ Reading from a text on the Persian king's bodyguards  *[[1:52:28](https://www.yo
     > <sup>[22](/bible/psalms/118#v22)</sup> The stone which the builders refused is become the head stone of the corner.
 
     The stone which the builders refused is become the head stone of the corner. Who is that, brothers? That is Christ; he is the headstone.
+
+> <sup>[8](/bible/zechariah/4#v8)</sup> Moreover the word of the Lord came unto me, saying,
+>
+> <sup>[9](/bible/zechariah/4#v9)</sup> The hands of Zerubbabel have laid the foundation of this house; his hands shall also finish it; and thou shalt know that the Lord of hosts hath sent me unto you.
 
 **[Ezra 6:14-15](/bible/ezra/6#v14)**  *[[2:05:57](https://www.youtube.com/watch?v=FpEHxWGgai8&t=7557s)]*
 
@@ -724,29 +761,8 @@ Reading from a text on the Persian king's bodyguards  *[[1:52:28](https://www.yo
 
 **[Haggai 1:1-11](/bible/haggai/1#v1)**  *[[2:07:46](https://www.youtube.com/watch?v=FpEHxWGgai8&t=7666s)]*
 
-> <sup>[1](/bible/haggai/1#v1)</sup> In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the Lord by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,
->
-> <sup>[2](/bible/haggai/1#v2)</sup> Thus speaketh the Lord of hosts, saying, This people say, The time is not come, the time that the Lord’s house should be built.
->
-> <sup>[3](/bible/haggai/1#v3)</sup> Then came the word of the Lord by Haggai the prophet, saying,
->
-> <sup>[4](/bible/haggai/1#v4)</sup> Is it time for you, O ye, to dwell in your cieled houses, and this house lie waste?
->
-> <sup>[5](/bible/haggai/1#v5)</sup> Now therefore thus saith the Lord of hosts; Consider your ways.
->
-> <sup>[6](/bible/haggai/1#v6)</sup> Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages to put it into a bag with holes.
->
-> <sup>[7](/bible/haggai/1#v7)</sup> Thus saith the Lord of hosts; Consider your ways.
->
-> <sup>[8](/bible/haggai/1#v8)</sup> Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it, and I will be glorified, saith the Lord.
->
-> <sup>[9](/bible/haggai/1#v9)</sup> Ye looked for much, and, lo, it came to little; and when ye brought it home, I did blow upon it. Why? saith the Lord of hosts. Because of mine house that is waste, and ye run every man unto his own house.
->
-> <sup>[10](/bible/haggai/1#v10)</sup> Therefore the heaven over you is stayed from dew, and the earth is stayed from her fruit.
->
-> <sup>[11](/bible/haggai/1#v11)</sup> And I called for a drought upon the land, and upon the mountains, and upon the corn, and upon the new wine, and upon the oil, and upon that which the ground bringeth forth, and upon men, and upon cattle, and upon all the labour of the hands.
-
 - In the second year of Darius the king came the word of the Lord by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest.
+
 - This people say, The time is not come, the time that the Lord's house should be built. Why were they saying that? Everybody was discouraged with the other nations hindering them; they said, maybe this is not the time for the temple to be built. This is why it is important, brothers, to read your four chapters a day; captains, make sure your soldiers are reading, so they can graduate properly by the end of the year having read the whole Bible.
 
   Precepts:
@@ -758,6 +774,7 @@ Reading from a text on the Persian king's bodyguards  *[[1:52:28](https://www.yo
     But the heathen of the land, lying heavy upon the inhabitants of Judea, and holding them strait, hindered their building; and by their secret plots, and popular persuasions and commotions, they hindered the finishing of the building all the time that king Cyrus lived: so they were hindered from building for the space of two years, until the reign of Darius. See that: secret plots, persuading the multitude against them, causing commotions.
 
 - Is it time for you, O ye, to dwell in your cieled houses, and this house lie waste? Hey Zerubbabel, is it time for you to live in your nice house with the new roof, while the Lord's house is a shambles?
+
 - Now therefore thus saith the Lord of hosts; Consider your ways. You know what consider your ways means? Examine yourself. And do not say that is only for Zerubbabel; it is not.
 
   Precepts:
@@ -766,10 +783,35 @@ Reading from a text on the Persian king's bodyguards  *[[1:52:28](https://www.yo
 
     Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates? If you do not know Christ is in you, you are reprobate. That is what all of us have to do: examine ourselves day by day.
 
+> <sup>[1](/bible/haggai/1#v1)</sup> In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the Lord by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,
+>
+> <sup>[2](/bible/haggai/1#v2)</sup> Thus speaketh the Lord of hosts, saying, This people say, The time is not come, the time that the Lord’s house should be built.
+>
+> <sup>[3](/bible/haggai/1#v3)</sup> Then came the word of the Lord by Haggai the prophet, saying,
+>
+> <sup>[4](/bible/haggai/1#v4)</sup> Is it time for you, O ye, to dwell in your cieled houses, and this house lie waste?
+>
+> <sup>[5](/bible/haggai/1#v5)</sup> Now therefore thus saith the Lord of hosts; Consider your ways.
+>
+> <sup>[6](/bible/haggai/1#v6)</sup> Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages to put it into a bag with holes.
+
 - Ye have sown much, and bring in little: you have worked a lot with little profit to show for it. Ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages to put it into a bag with holes. I just worked 48, 52 hours and I do not have enough money to show for it. Not only was that going on with Zerubbabel: that is why many of us in here are always struggling, because God is always second or third in your life, just like Zerubbabel.
+
 - Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it, and I will be glorified, saith the Lord.
+
 - Ye looked for much, and, lo, it came to little; and when ye brought it home, I did blow upon it. Why? saith the Lord of hosts. Because of mine house that is waste, and ye run every man unto his own house. You are not looking after God's house first.
+
+> <sup>[7](/bible/haggai/1#v7)</sup> Thus saith the Lord of hosts; Consider your ways.
+>
+> <sup>[8](/bible/haggai/1#v8)</sup> Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it, and I will be glorified, saith the Lord.
+>
+> <sup>[9](/bible/haggai/1#v9)</sup> Ye looked for much, and, lo, it came to little; and when ye brought it home, I did blow upon it. Why? saith the Lord of hosts. Because of mine house that is waste, and ye run every man unto his own house.
+>
+> <sup>[10](/bible/haggai/1#v10)</sup> Therefore the heaven over you is stayed from dew, and the earth is stayed from her fruit.
+
 - Therefore the heaven over you is stayed from dew, and the earth is stayed from her fruit: you are not getting blessings in your crops. And I called for a drought upon the land, and upon the mountains, and upon the corn, and upon the new wine, and upon the oil, and upon men, and upon cattle, and upon all the labour of the hands.
+
+> <sup>[11](/bible/haggai/1#v11)</sup> And I called for a drought upon the land, and upon the mountains, and upon the corn, and upon the new wine, and upon the oil, and upon that which the ground bringeth forth, and upon men, and upon cattle, and upon all the labour of the hands.
 
 **[Haggai 1:12-15](/bible/haggai/1#v12)**  *[[2:13:02](https://www.youtube.com/watch?v=FpEHxWGgai8&t=7982s)]*
 
@@ -941,15 +983,16 @@ Reading from *Who Is Esau-Edom?* by Charles A. Weisman · read by Captain Uri  *
 **[Mark 13:1-4](/bible/mark/13#v1)**  *[[2:28:11](https://www.youtube.com/watch?v=FpEHxWGgai8&t=8891s)]*
 
 > <sup>[1](/bible/mark/13#v1)</sup> And as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings are here!
->
+
+- Master, see what manner of stones and what buildings are here: Herod made that thing look so good the disciples marveled at it. And Jesus answering said unto him, Seest thou these great buildings? there shall not be left one stone upon another, that shall not be thrown down.
+
+- And as he sat upon the mount of Olives over against the temple, Peter and James and John and Andrew asked him privately, Tell us, when shall these things be? and what shall be the sign when all these things shall be fulfilled? Their question was: when will this temple be destroyed, when shall the end come?
+
 > <sup>[2](/bible/mark/13#v2)</sup> And Jesus answering said unto him, Seest thou these great buildings? there shall not be left one stone upon another, that shall not be thrown down.
 >
 > <sup>[3](/bible/mark/13#v3)</sup> And as he sat upon the mount of Olives over against the temple, Peter and James and John and Andrew asked him privately,
 >
 > <sup>[4](/bible/mark/13#v4)</sup> Tell us, when shall these things be? and what shall be the sign when all these things shall be fulfilled?
-
-- Master, see what manner of stones and what buildings are here: Herod made that thing look so good the disciples marveled at it. And Jesus answering said unto him, Seest thou these great buildings? there shall not be left one stone upon another, that shall not be thrown down.
-- And as he sat upon the mount of Olives over against the temple, Peter and James and John and Andrew asked him privately, Tell us, when shall these things be? and what shall be the sign when all these things shall be fulfilled? Their question was: when will this temple be destroyed, when shall the end come?
 <div class="reading">
 
 Reading from *The Temples That Jerusalem Forgot* by Ernest L. Martin  *[[2:29:02](https://www.youtube.com/watch?v=FpEHxWGgai8&t=8942s)]*
@@ -973,12 +1016,14 @@ Reading from *The Temples That Jerusalem Forgot* by Ernest L. Martin  *[[2:29:02
 **[Revelation 11:1-2](/bible/revelation/11#v1)**  *[[2:31:42](https://www.youtube.com/watch?v=FpEHxWGgai8&t=9102s)]*
 
 > <sup>[1](/bible/revelation/11#v1)</sup> And there was given me a reed like unto a rod: and the angel stood, saying, Rise, and measure the temple of God, and the altar, and them that worship therein.
->
-> <sup>[2](/bible/revelation/11#v2)</sup> But the court which is without the temple leave out, and measure it not; for it is given unto the Gentiles: and the holy city shall they tread under foot forty and two months.
 
 - And there was given me a reed like unto a rod: and the angel stood, saying, Rise, and measure the temple of God, and the altar, and them that worship therein.
+
 - But the court which is without the temple leave out, and measure it not; for it is given unto the Gentiles. Diagram shown with the courts color coded: the court of the Gentiles, the women's court, the men's court, the priests' court. That outer court is where the other nations went; Herod added it in, and it was not part of the original temple.
+
 - The argument is always, God is for everybody. God said do not even measure the Gentile court. God is not for everybody. Everybody see that.
+
+> <sup>[2](/bible/revelation/11#v2)</sup> But the court which is without the temple leave out, and measure it not; for it is given unto the Gentiles: and the holy city shall they tread under foot forty and two months.
 
 **[John 2:19-20](/bible/john/2#v19)**  *[[2:33:28](https://www.youtube.com/watch?v=FpEHxWGgai8&t=9208s)]*
 
@@ -1010,21 +1055,26 @@ Reading from *The Temples That Jerusalem Forgot* by Ernest L. Martin  *[[2:29:02
 
 **[1 Peter 2:1-5](/bible/1-peter/2#v1)**  *[[2:35:55](https://www.youtube.com/watch?v=FpEHxWGgai8&t=9355s)]*
 
+- Question to the class: how do we grow in this truth? How do we grow individually, as a congregation, in our marriage? Everybody jumps to the milk and misses verse one: wherefore laying aside all malice, and all guile (guile means deceit), and hypocrisies, and envies (jealousies), and all evil speakings (murmurings and complainings). You have to put away first all that is within you.
+
+- As newborn babes, desire the sincere milk of the word, that ye may grow thereby. The sincere milk of the word is God's laws. What is Peter saying? We have to be drinking the laws of God like a baby drinks milk: that is not once a month, that is not once a week; that is every other hour, be in that Bible study. That is the only way you are going to grow.
+
+- A lot of brothers get demoted. We had a brother demoted last week for lying over a simple thing. Most of the time when we ask, we already know the answer; when you give another answer and we have witnesses, we call the brother and verify. Now you are found out to be a liar and deceitful, not worthy of your rank. That is why some brothers do not come to the war room.
+
 > <sup>[1](/bible/1-peter/2#v1)</sup> Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,
 >
 > <sup>[2](/bible/1-peter/2#v2)</sup> As newborn babes, desire the sincere milk of the word, that ye may grow thereby:
 >
 > <sup>[3](/bible/1-peter/2#v3)</sup> If so be ye have tasted that the Lord is gracious.
->
+
+- If so be ye have tasted that the Lord is gracious: if you know this word is true. To whom coming, as unto a living stone, disallowed indeed of men: rejected of men, the scribes and Pharisees; but chosen of God, and precious.
+
 > <sup>[4](/bible/1-peter/2#v4)</sup> To whom coming, as unto a living stone, disallowed indeed of men, but chosen of God, and precious,
 >
 > <sup>[5](/bible/1-peter/2#v5)</sup> Ye also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.
 
-- Question to the class: how do we grow in this truth? How do we grow individually, as a congregation, in our marriage? Everybody jumps to the milk and misses verse one: wherefore laying aside all malice, and all guile (guile means deceit), and hypocrisies, and envies (jealousies), and all evil speakings (murmurings and complainings). You have to put away first all that is within you.
-- As newborn babes, desire the sincere milk of the word, that ye may grow thereby. The sincere milk of the word is God's laws. What is Peter saying? We have to be drinking the laws of God like a baby drinks milk: that is not once a month, that is not once a week; that is every other hour, be in that Bible study. That is the only way you are going to grow.
-- A lot of brothers get demoted. We had a brother demoted last week for lying over a simple thing. Most of the time when we ask, we already know the answer; when you give another answer and we have witnesses, we call the brother and verify. Now you are found out to be a liar and deceitful, not worthy of your rank. That is why some brothers do not come to the war room.
-- If so be ye have tasted that the Lord is gracious: if you know this word is true. To whom coming, as unto a living stone, disallowed indeed of men: rejected of men, the scribes and Pharisees; but chosen of God, and precious.
 - Ye also, as lively stones, are built up a spiritual house: that is the real temple right there; wherever our congregation is, that is a spiritual house. An holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ. Lively meaning the laws percolate within you, meaning have some kind of zeal and passion about yourself. We need men with fire when they teach; I do not have to speak the language to read a boring spirit on a screen.
+
 - Remember, Zerubbabel got to that position not just for his fighting skills; it said he was of noble character, understanding truth and moral discipline. We all should walk in the footsteps of Zerubbabel: not deceitful with one another, not envious, not hateful, not filled with guile.
 <div class="reading">
 
@@ -1126,31 +1176,28 @@ Reading from a quote of Frederick Douglass · read by Captain Uri  *[[2:41:31](h
 **[Haggai 2:4-9](/bible/haggai/2#v4)**  *[[2:59:23](https://www.youtube.com/watch?v=FpEHxWGgai8&t=10763s)]*
 
 > <sup>[4](/bible/haggai/2#v4)</sup> Yet now be strong, O Zerubbabel, saith the Lord; and be strong, O Joshua, son of Josedech, the high priest; and be strong, all ye people of the land, saith the Lord, and work: for I am with you, saith the Lord of hosts:
->
+
+- Yet now be strong, O Zerubbabel, saith the Lord; and be strong, O Joshua, son of Josedech, the high priest; and be strong, all ye people of the land, saith the Lord, and work: for I am with you, saith the Lord of hosts.
+
 > <sup>[5](/bible/haggai/2#v5)</sup> According to the word that I covenanted with you when ye came out of Egypt, so my spirit remaineth among you: fear ye not.
->
+
+- According to the word that I covenanted with you when ye came out of Egypt, so my spirit remaineth among you: fear ye not. That is why Christ said, I will never leave you nor forsake you, even unto the end of the world.
+
 > <sup>[6](/bible/haggai/2#v6)</sup> For thus saith the Lord of hosts; Yet once, it is a little while, and I will shake the heavens, and the earth, and the sea, and the dry land;
 >
 > <sup>[7](/bible/haggai/2#v7)</sup> And I will shake all nations, and the desire of all nations shall come: and I will fill this house with glory, saith the Lord of hosts.
->
+
+- For thus saith the Lord of hosts; Yet once, it is a little while, and I will shake the heavens, and the earth, and the sea, and the dry land; and I will shake all nations, and the desire of all nations shall come: and I will fill this house with glory. The silver is mine, and the gold is mine, saith the Lord of hosts.
+
 > <sup>[8](/bible/haggai/2#v8)</sup> The silver is mine, and the gold is mine, saith the Lord of hosts.
 >
 > <sup>[9](/bible/haggai/2#v9)</sup> The glory of this latter house shall be greater than of the former, saith the Lord of hosts: and in this place will I give peace, saith the Lord of hosts.
 
-- Yet now be strong, O Zerubbabel, saith the Lord; and be strong, O Joshua, son of Josedech, the high priest; and be strong, all ye people of the land, saith the Lord, and work: for I am with you, saith the Lord of hosts.
-- According to the word that I covenanted with you when ye came out of Egypt, so my spirit remaineth among you: fear ye not. That is why Christ said, I will never leave you nor forsake you, even unto the end of the world.
-- For thus saith the Lord of hosts; Yet once, it is a little while, and I will shake the heavens, and the earth, and the sea, and the dry land; and I will shake all nations, and the desire of all nations shall come: and I will fill this house with glory. The silver is mine, and the gold is mine, saith the Lord of hosts.
 - The glory of this latter house shall be greater than of the former: the house that Christ builds is going to be greater than the former house that Solomon built.
 
 **[Malachi 3:1-4](/bible/malachi/3#v1)**  *[[3:00:47](https://www.youtube.com/watch?v=FpEHxWGgai8&t=10847s)]*
 
 > <sup>[1](/bible/malachi/3#v1)</sup> Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the Lord of hosts.
->
-> <sup>[2](/bible/malachi/3#v2)</sup> But who may abide the day of his coming? and who shall stand when he appeareth? for he is like a refiner’s fire, and like fullers’ soap:
->
-> <sup>[3](/bible/malachi/3#v3)</sup> And he shall sit as a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the Lord an offering in righteousness.
->
-> <sup>[4](/bible/malachi/3#v4)</sup> Then shall the offering of Judah and Jerusalem be pleasant unto the Lord, as in the days of old, and as in former years.
 
 - Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in. Now, you may think initially it is talking about John the Baptist; that is a good thought, but it is actually talking about the John the Baptist work in the last days.
 
@@ -1175,6 +1222,10 @@ Reading from a quote of Frederick Douglass · read by Captain Uri  *[[2:41:31](h
 
     This is what the refiner's fire and the soap mean. And it shall come to pass, that in all the land, saith the Lord, two parts therein shall be cut off and die: two out of every three of our people shall be cut off. But the third shall be left therein; and I will bring the third part through the fire, and will refine them as silver is refined, and will try them as gold is tried: they shall call on my name, and I will hear them: I will say, It is my people; and they shall say, The Lord is my God. That is the wilderness right there.
 
+> <sup>[2](/bible/malachi/3#v2)</sup> But who may abide the day of his coming? and who shall stand when he appeareth? for he is like a refiner’s fire, and like fullers’ soap:
+>
+> <sup>[3](/bible/malachi/3#v3)</sup> And he shall sit as a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the Lord an offering in righteousness.
+
 - And he shall sit as a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the Lord an offering in righteousness. Then shall the offering of Judah and Jerusalem be pleasant unto the Lord, as in the days of old, and as in former years.
 
   Precepts:
@@ -1182,6 +1233,8 @@ Reading from a quote of Frederick Douglass · read by Captain Uri  *[[2:41:31](h
     > <sup>[11](/bible/malachi/1#v11)</sup> For from the rising of the sun even unto the going down of the same my name shall be great among the Gentiles; and in every place incense shall be offered unto my name, and a pure offering: for my name shall be great among the heathen, saith the Lord of hosts.
 
     For from the rising of the sun even unto the going down of the same my name shall be great among the Gentiles; and in every place incense shall be offered unto my name, and a pure offering: for my name shall be great among the heathen, saith the Lord of hosts. That is the offering of Judah and Jerusalem.
+
+> <sup>[4](/bible/malachi/3#v4)</sup> Then shall the offering of Judah and Jerusalem be pleasant unto the Lord, as in the days of old, and as in former years.
 
 **[Malachi 3:5-6](/bible/malachi/3#v5)**  *[[3:04:22](https://www.youtube.com/watch?v=FpEHxWGgai8&t=11062s)]*
 

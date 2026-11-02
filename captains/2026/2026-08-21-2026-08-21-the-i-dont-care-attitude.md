@@ -115,18 +115,6 @@ But we are going to see: did our forefathers move like that?
 
 **[Ephesians 4:22-27](/bible/ephesians/4#v22)**  *[[11:40](https://www.youtube.com/watch?v=PB8tcDPkvCk&t=700s)]*
 
-> <sup>[22](/bible/ephesians/4#v22)</sup> That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;
->
-> <sup>[23](/bible/ephesians/4#v23)</sup> And be renewed in the spirit of your mind;
->
-> <sup>[24](/bible/ephesians/4#v24)</sup> And that ye put on the new man, which after God is created in righteousness and true holiness.
->
-> <sup>[25](/bible/ephesians/4#v25)</sup> Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another.
->
-> <sup>[26](/bible/ephesians/4#v26)</sup> Be ye angry, and sin not: let not the sun go down upon your wrath:
->
-> <sup>[27](/bible/ephesians/4#v27)</sup> Neither give place to the devil.
-
 - That ye put off concerning the former conversation. You come into this truth, you repent, you have got to put off that old man, that old woman. You have got to leave all of that stuff behind.
 
 - The old man, which is corrupt. That old man or old woman, that I don't care, is corrupt. You should care.
@@ -139,13 +127,25 @@ But we are going to see: did our forefathers move like that?
 
 - Wherefore putting away lying. You see that? Now you have got to change all of that. Put away lying.
 
+> <sup>[22](/bible/ephesians/4#v22)</sup> That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;
+>
+> <sup>[23](/bible/ephesians/4#v23)</sup> And be renewed in the spirit of your mind;
+>
+> <sup>[24](/bible/ephesians/4#v24)</sup> And that ye put on the new man, which after God is created in righteousness and true holiness.
+>
+> <sup>[25](/bible/ephesians/4#v25)</sup> Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another.
+
 - Speak every man truth with his neighbour: for we are members one of another. Speak truth to your neighbour.
+
+> <sup>[26](/bible/ephesians/4#v26)</sup> Be ye angry, and sin not: let not the sun go down upon your wrath:
 
 - Be ye angry, and sin not: let not the sun go down upon your wrath. Meaning do not sin because you get mad.
 
 - Neither give place to the devil. Do not give place to the devil. I am telling you, if you have got that I don't care attitude, you are giving place to the devil. You do not want to change. You are stubborn. That is a prideful spirit. You need to let that go. And if the leadership is putting programmes in place to better you, to better our people, our people need to look at things spiritually and move on, and get better.
 
 - But if you continue to have that I don't care attitude, it will hinder your growth in the truth, and you will not grow, and you will stay stagnant. And a stagnant spirit is a death spirit.
+
+> <sup>[27](/bible/ephesians/4#v27)</sup> Neither give place to the devil.
 
 ## In Closing
 

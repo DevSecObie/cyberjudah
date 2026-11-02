@@ -27,6 +27,10 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 
 **[Genesis 25:19-26](/bible/genesis/25#v19)**  *[[9:27](https://www.youtube.com/watch?v=IyYFXp99olM&t=567s)]*
 
+- Isaac entreated the Lord for his wife because she was barren, as all husbands should do: pray for your wives. The Lord was entreated of him, and Rebekah conceived.
+
+- The children struggled together within her, and she went to inquire of the Lord. The Lord said unto her: two nations are in thy womb, and two manner of people shall be separated from thy bowels. With that alone you know these children are not the same. They are in the same womb, but they are two different nations.
+
 > <sup>[19](/bible/genesis/25#v19)</sup> And these are the generations of Isaac, Abraham’s son: Abraham begat Isaac:
 >
 > <sup>[20](/bible/genesis/25#v20)</sup> And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padan–aram, the sister to Laban the Syrian.
@@ -36,17 +40,16 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 > <sup>[22](/bible/genesis/25#v22)</sup> And the children struggled together within her; and she said, If it be so, why am I thus? And she went to enquire of the Lord.
 >
 > <sup>[23](/bible/genesis/25#v23)</sup> And the Lord said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger.
->
+
+- The one people shall be stronger than the other people: that one people is us, the so-called blacks, Latinos, and Native Americans under the line of Jacob. And the elder shall serve the younger.
+
+- The first came out red, all over like an hairy garment, and they called his name Esau. The second child is not described, because Jacob was a normal child. Only Rebekah knew the prophecy, because the Lord had told her.
+
 > <sup>[24](/bible/genesis/25#v24)</sup> And when her days to be delivered were fulfilled, behold, there were twins in her womb.
 >
 > <sup>[25](/bible/genesis/25#v25)</sup> And the first came out red, all over like an hairy garment; and they called his name Esau.
 >
 > <sup>[26](/bible/genesis/25#v26)</sup> And after that came his brother out, and his hand took hold on Esau’s heel; and his name was called Jacob: and Isaac was threescore years old when she bare them.
-
-- Isaac entreated the Lord for his wife because she was barren, as all husbands should do: pray for your wives. The Lord was entreated of him, and Rebekah conceived.
-- The children struggled together within her, and she went to inquire of the Lord. The Lord said unto her: two nations are in thy womb, and two manner of people shall be separated from thy bowels. With that alone you know these children are not the same. They are in the same womb, but they are two different nations.
-- The one people shall be stronger than the other people: that one people is us, the so-called blacks, Latinos, and Native Americans under the line of Jacob. And the elder shall serve the younger.
-- The first came out red, all over like an hairy garment, and they called his name Esau. The second child is not described, because Jacob was a normal child. Only Rebekah knew the prophecy, because the Lord had told her.
 
 **[2 Esdras 6:7-10](/bible/2-esdras/6#v7)**  *[[13:10](https://www.youtube.com/watch?v=IyYFXp99olM&t=790s)]*
 
@@ -64,6 +67,8 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 
 **[Genesis 25:27-34](/bible/genesis/25#v27)**  *[[15:51](https://www.youtube.com/watch?v=IyYFXp99olM&t=951s)]*
 
+- Esau was a cunning hunter, a man of the field; Jacob was a plain man, dwelling in tents. Isaac loved Esau because he did eat of his venison; but Rebekah loved Jacob, because Rebekah knew what the Lord had told her.
+
 > <sup>[27](/bible/genesis/25#v27)</sup> And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents.
 >
 > <sup>[28](/bible/genesis/25#v28)</sup> And Isaac loved Esau, because he did eat of his venison: but Rebekah loved Jacob.
@@ -71,7 +76,9 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 > <sup>[29](/bible/genesis/25#v29)</sup> And Jacob sod pottage: and Esau came from the field, and he was faint:
 >
 > <sup>[30](/bible/genesis/25#v30)</sup> And Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint: therefore was his name called Edom.
->
+
+- Feed me, I pray thee, with that same red pottage: red pottage with red meat in it, not cooked all the way. Therefore was his name called Edom, which means red.
+
 > <sup>[31](/bible/genesis/25#v31)</sup> And Jacob said, Sell me this day thy birthright.
 >
 > <sup>[32](/bible/genesis/25#v32)</sup> And Esau said, Behold, I am at the point to die: and what profit shall this birthright do to me?
@@ -79,9 +86,6 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 > <sup>[33](/bible/genesis/25#v33)</sup> And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob.
 >
 > <sup>[34](/bible/genesis/25#v34)</sup> Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright.
-
-- Esau was a cunning hunter, a man of the field; Jacob was a plain man, dwelling in tents. Isaac loved Esau because he did eat of his venison; but Rebekah loved Jacob, because Rebekah knew what the Lord had told her.
-- Feed me, I pray thee, with that same red pottage: red pottage with red meat in it, not cooked all the way. Therefore was his name called Edom, which means red.
 
 <div class="reading">
 
@@ -196,6 +200,10 @@ Reading from *Modern Judaism*, 1830  *[[19:20](https://www.youtube.com/watch?v=I
 
 **[Genesis 27:30-41](/bible/genesis/27#v30)**  *[[33:42](https://www.youtube.com/watch?v=IyYFXp99olM&t=2022s)]*
 
+- Esau came in from his hunting, and Isaac trembled very exceedingly: who? Where is he that hath taken venison? I have eaten of all before thou camest, and have blessed him; yea, and he shall be blessed. Whatever I told that man, he is going to get blessed.
+
+- Esau cried with a great and exceeding bitter cry: bless me, even me also, O my father. Thy brother came with subtilty, and hath taken away thy blessing. Is not he rightly named Jacob? For he hath supplanted me these two times: the birthright, and this moment right here.
+
 > <sup>[30](/bible/genesis/27#v30)</sup> And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting.
 >
 > <sup>[31](/bible/genesis/27#v31)</sup> And he also had made savoury meat, and brought it unto his father, and said unto his father, Let my father arise, and eat of his son’s venison, that thy soul may bless me.
@@ -211,7 +219,15 @@ Reading from *Modern Judaism*, 1830  *[[19:20](https://www.youtube.com/watch?v=I
 > <sup>[36](/bible/genesis/27#v36)</sup> And he said, Is not he rightly named Jacob? for he hath supplanted me these two times: he took away my birthright; and, behold, now he hath taken away my blessing. And he said, Hast thou not reserved a blessing for me?
 >
 > <sup>[37](/bible/genesis/27#v37)</sup> And Isaac answered and said unto Esau, Behold, I have made him thy lord, and all his brethren have I given to him for servants; and with corn and wine have I sustained him: and what shall I do now unto thee, my son?
->
+
+- Isaac answered: behold, I have made him thy lord, and all his brethren have I given to him for servants. That is how the elder shall serve the younger.
+
+- Then comes the blessing Esau has today: behold, thy dwelling shall be the fatness of the earth, and of the dew of heaven from above. They would conquer nations and have the best lands, and whatever lands were not in their possession, they would find a way to get them. And by thy sword shalt thou live: Esau, Edom, Idumea lives fighting. And shalt serve thy brother: at the end of everything, the blessing is limited, and it returns to Jacob forever.
+
+- And it shall come to pass when thou shalt have the dominion, when you become the world superpower, that thou shalt break his yoke from off thy neck: after you take him out of slavery.
+
+- And Esau hated Jacob because of the blessing. He said in his heart, the days of mourning for my father are at hand; then will I slay my brother Jacob. This is the beginning of the perpetual hatred.
+
 > <sup>[38](/bible/genesis/27#v38)</sup> And Esau said unto his father, Hast thou but one blessing, my father? bless me, even me also, O my father. And Esau lifted up his voice, and wept.
 >
 > <sup>[39](/bible/genesis/27#v39)</sup> And Isaac his father answered and said unto him, Behold, thy dwelling shall be the fatness of the earth, and of the dew of heaven from above;
@@ -220,24 +236,19 @@ Reading from *Modern Judaism*, 1830  *[[19:20](https://www.youtube.com/watch?v=I
 >
 > <sup>[41](/bible/genesis/27#v41)</sup> And Esau hated Jacob because of the blessing wherewith his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob.
 
-- Esau came in from his hunting, and Isaac trembled very exceedingly: who? Where is he that hath taken venison? I have eaten of all before thou camest, and have blessed him; yea, and he shall be blessed. Whatever I told that man, he is going to get blessed.
-- Esau cried with a great and exceeding bitter cry: bless me, even me also, O my father. Thy brother came with subtilty, and hath taken away thy blessing. Is not he rightly named Jacob? For he hath supplanted me these two times: the birthright, and this moment right here.
-- Isaac answered: behold, I have made him thy lord, and all his brethren have I given to him for servants. That is how the elder shall serve the younger.
-- Then comes the blessing Esau has today: behold, thy dwelling shall be the fatness of the earth, and of the dew of heaven from above. They would conquer nations and have the best lands, and whatever lands were not in their possession, they would find a way to get them. And by thy sword shalt thou live: Esau, Edom, Idumea lives fighting. And shalt serve thy brother: at the end of everything, the blessing is limited, and it returns to Jacob forever.
-- And it shall come to pass when thou shalt have the dominion, when you become the world superpower, that thou shalt break his yoke from off thy neck: after you take him out of slavery.
-- And Esau hated Jacob because of the blessing. He said in his heart, the days of mourning for my father are at hand; then will I slay my brother Jacob. This is the beginning of the perpetual hatred.
-
 **[Hebrews 12:15-17](/bible/hebrews/12#v15)**  *[[37:42](https://www.youtube.com/watch?v=IyYFXp99olM&t=2262s)]*
 
+- How can a man fail of the grace of God? When God says something and you refuse to do it. Esau despised his birthright; that is when you fall from the grace of God.
+
 > <sup>[15](/bible/hebrews/12#v15)</sup> Looking diligently lest any man fail of the grace of God; lest any root of bitterness springing up trouble you, and thereby many be defiled;
->
+
+- Lest any root of bitterness springing up trouble you: Esau became bitter after that, and thereby many were defiled.
+
+- Lest there be any fornicator, or profane person, as Esau, who for one morsel of meat sold his birthright. When he would have inherited the blessing, he was rejected: for he found no place of repentance, though he sought it carefully with tears. He wept before his father, but the deed was already done and the Lord's will was done.
+
 > <sup>[16](/bible/hebrews/12#v16)</sup> Lest there be any fornicator, or profane person, as Esau, who for one morsel of meat sold his birthright.
 >
 > <sup>[17](/bible/hebrews/12#v17)</sup> For ye know how that afterward, when he would have inherited the blessing, he was rejected: for he found no place of repentance, though he sought it carefully with tears.
-
-- How can a man fail of the grace of God? When God says something and you refuse to do it. Esau despised his birthright; that is when you fall from the grace of God.
-- Lest any root of bitterness springing up trouble you: Esau became bitter after that, and thereby many were defiled.
-- Lest there be any fornicator, or profane person, as Esau, who for one morsel of meat sold his birthright. When he would have inherited the blessing, he was rejected: for he found no place of repentance, though he sought it carefully with tears. He wept before his father, but the deed was already done and the Lord's will was done.
 
 **[Genesis 36:1](/bible/genesis/36#v1)**  *[[44:36](https://www.youtube.com/watch?v=IyYFXp99olM&t=2676s)]*
 
@@ -284,38 +295,46 @@ Reading from a web page on Edom  *[[44:54](https://www.youtube.com/watch?v=IyYFX
 > <sup>[10](/bible/romans/9#v10)</sup> And not only this; but when Rebecca also had conceived by one, even by our father Isaac;
 >
 > <sup>[11](/bible/romans/9#v11)</sup> (For the children being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;)
->
-> <sup>[12](/bible/romans/9#v12)</sup> It was said unto her, The elder shall serve the younger.
->
-> <sup>[13](/bible/romans/9#v13)</sup> As it is written, Jacob have I loved, but Esau have I hated.
 
 - The children being not yet born, neither having done any good or evil: these babies did nothing wrong; they were in their mother's womb doing nothing but fighting. People ask, how can God just choose like that? Because he is God. He will have mercy on whom he will have mercy.
+
 - That the purpose of God according to election might stand, not of works, but of him that calleth.
+
+> <sup>[12](/bible/romans/9#v12)</sup> It was said unto her, The elder shall serve the younger.
+
 - It was said unto her: not unto him. God told Rebekah how he wanted this thing to go down. The elder shall serve the younger.
+
 - As it is written, Jacob have I loved, but Esau have I hated. It is not of anything good or evil that was done; it is through election.
+
+> <sup>[13](/bible/romans/9#v13)</sup> As it is written, Jacob have I loved, but Esau have I hated.
 
 **[Malachi 1:2-4](/bible/malachi/1#v2)**  *[[51:19](https://www.youtube.com/watch?v=IyYFXp99olM&t=3079s)]*
 
+- I have loved you, saith the Lord. Yet ye say, wherein hast thou loved us? That is us right now: police brutality, ICE, what is going on in Sudan, the Jones Act in Puerto Rico and the massacres in Ponce and Utuado, the atrocities in the Congo under Belgium, Shark Island in Namibia, and now the trafficking scandals of our day. How does God love us with all this garbage happening around us?
+
+- All these things have to happen, and while they are happening we are supposed to be going to the Lord, repenting, looking in our book, and doing what God says, because the reason we are in these conditions is that we broke God's commandments.
+
 > <sup>[2](/bible/malachi/1#v2)</sup> I have loved you, saith the Lord. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob’s brother? saith the Lord: yet I loved Jacob,
->
+
+- Was not Esau Jacob's brother? saith the Lord: yet I loved Jacob, and I hated Esau, and laid his mountains and his heritage waste. He is the eldest; he should have had the blessings, but God did not set it up that way. He set it up so we get the blessings forever. That is how he loves us.
+
 > <sup>[3](/bible/malachi/1#v3)</sup> And I hated Esau, and laid his mountains and his heritage waste for the dragons of the wilderness.
 >
 > <sup>[4](/bible/malachi/1#v4)</sup> Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the Lord of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the Lord hath indignation for ever.
 
-- I have loved you, saith the Lord. Yet ye say, wherein hast thou loved us? That is us right now: police brutality, ICE, what is going on in Sudan, the Jones Act in Puerto Rico and the massacres in Ponce and Utuado, the atrocities in the Congo under Belgium, Shark Island in Namibia, and now the trafficking scandals of our day. How does God love us with all this garbage happening around us?
-- All these things have to happen, and while they are happening we are supposed to be going to the Lord, repenting, looking in our book, and doing what God says, because the reason we are in these conditions is that we broke God's commandments.
-- Was not Esau Jacob's brother? saith the Lord: yet I loved Jacob, and I hated Esau, and laid his mountains and his heritage waste. He is the eldest; he should have had the blessings, but God did not set it up that way. He set it up so we get the blessings forever. That is how he loves us.
 - Whereas Edom saith, we are impoverished, but we will return and build the desolate places: they were driven into the mountains, they rebuilt, and now they are the superpower in the world. But how they became the superpower is a record of abuse.
+
 - They shall build, but I will throw down; and they shall call them the border of wickedness, and the people against whom the Lord hath indignation for ever.
 
 **[Obadiah 1:1-2](/bible/obadiah/1#v1)**  *[[57:20](https://www.youtube.com/watch?v=IyYFXp99olM&t=3440s)]*
 
 > <sup>[1](/bible/obadiah/1#v1)</sup> The vision of Obadiah. Thus saith the Lord God concerning Edom; We have heard a rumour from the Lord, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.
->
-> <sup>[2](/bible/obadiah/1#v2)</sup> Behold, I have made thee small among the heathen: thou art greatly despised.
 
 - The vision of Obadiah: thus saith the Lord God concerning Edom. Behold, I have made thee small among the heathen: thou art greatly despised. That is the title of this class.
+
 - How is Esau greatly despised? They seem nice: good morning, good afternoon, sometimes they give you food, some advice, a motivational speech. But the record answers the question.
+
+> <sup>[2](/bible/obadiah/1#v2)</sup> Behold, I have made thee small among the heathen: thou art greatly despised.
 
 <div class="reading">
 
@@ -643,7 +662,9 @@ Reading from a web page on Friar Alonso de Ojeda and the Inquisition in Seville 
 **[Isaiah 23:1-8](/bible/isaiah/23#v1)**  *[[2:11:55](https://www.youtube.com/watch?v=IyYFXp99olM&t=7915s)]*
 
 > <sup>[1](/bible/isaiah/23#v1)</sup> The burden of Tyre. Howl, ye ships of Tarshish; for it is laid waste, so that there is no house, no entering in: from the land of Chittim it is revealed to them.
->
+
+- The burden of Tyre: this is a prophecy of Esau. She is a mart of nations: that is America, a marketplace of nations. Is this your joyous city, whose antiquity is of ancient days? America is an extension of Rome.
+
 > <sup>[2](/bible/isaiah/23#v2)</sup> Be still, ye inhabitants of the isle; thou whom the merchants of Zidon, that pass over the sea, have replenished.
 >
 > <sup>[3](/bible/isaiah/23#v3)</sup> And by great waters the seed of Sihor, the harvest of the river, is her revenue; and she is a mart of nations.
@@ -658,8 +679,8 @@ Reading from a web page on Friar Alonso de Ojeda and the Inquisition in Seville 
 >
 > <sup>[8](/bible/isaiah/23#v8)</sup> Who hath taken this counsel against Tyre, the crowning city, whose merchants are princes, whose traffickers are the honourable of the earth?
 
-- The burden of Tyre: this is a prophecy of Esau. She is a mart of nations: that is America, a marketplace of nations. Is this your joyous city, whose antiquity is of ancient days? America is an extension of Rome.
 - The crowning city, whose merchants are princes: the corporations here are like royalty. Whose traffickers are the honourable of the earth: that sounds like the trafficking scandals of our day, businessmen and celebrities, the honorable of the earth as the traffickers. And before that, we had the transatlantic slave trade; and slave trading still goes on in parts of Arabia, in Sudan, in the Congo.
+
 - Video played from a mission field report: sitting on the ruins of a synagogue built in 1685, the first completed synagogue built in the Americas, beside a coffee plantation where our northern and southern kingdom brothers were enslaved, and a cemetery where our people were buried after being worked to death. The traffickers were counted the honorable of the earth.
 
 **[Ezekiel 28:1-5](/bible/ezekiel/28#v1)**  *[[2:15:08](https://www.youtube.com/watch?v=IyYFXp99olM&t=8108s)]*
@@ -667,17 +688,20 @@ Reading from a web page on Friar Alonso de Ojeda and the Inquisition in Seville 
 > <sup>[1](/bible/ezekiel/28#v1)</sup> The word of the Lord came again unto me, saying,
 >
 > <sup>[2](/bible/ezekiel/28#v2)</sup> Son of man, say unto the prince of Tyrus, Thus saith the Lord God; Because thine heart is lifted up, and thou hast said, I am a God, I sit in the seat of God, in the midst of the seas; yet thou art a man, and not God, though thou set thine heart as the heart of God:
->
+
+- Say unto the prince of Tyrus: because thine heart is lifted up, and thou hast said, I am a God, I sit in the seat of God, in the midst of the seas. You sit in the seat of God because you are in space, in rulership, the superpower in the midst of the nations, like the woman in Revelation that sits upon many waters. Yet thou art a man, and not God: a man made of dust, water, and blood, no matter the crown and the seal. Even the president talking reckless is only fulfilling the prophecy of making himself small among the heathen.
+
 > <sup>[3](/bible/ezekiel/28#v3)</sup> Behold, thou art wiser than Daniel; there is no secret that they can hide from thee:
->
+
+- Behold, thou art wiser than Daniel; there is no secret that they can hide from thee: with wisdom and understanding they got riches, gold and silver into their treasures. Look at the Native American treaties the United States made and broke, like the Treaty of Fort Laramie of 1868, violated the minute gold was discovered. They know geology; they know where the gold is, and that is why the forts sit where they sit. By thy great wisdom and by thy traffick hast thou increased thy riches: by the way they traded slaves is how they became who they are today.
+
+- Video shown: a Polish member of parliament displayed an altered Israeli flag in parliament and compared the present war to the worst of the last century. Out of nowhere, from a country that never talks like that. Israel is a problem and America is a problem, and they are one and the same.
+
+- Another reason why America is greatly despised is the CIA coups in the Cold War, like the Congo crisis, Patrice Lumumba. Lumumba was assassinated, with declassified documents showing US involvement. Jaime Roldos Aguilera was given a plane by economic hitmen, and somehow that plane crashed, with him, his wife, and some of his officials aboard. The first thing people look for in a plane that crashes is the black box, and it did not have a black box.
+
 > <sup>[4](/bible/ezekiel/28#v4)</sup> With thy wisdom and with thine understanding thou hast gotten thee riches, and hast gotten gold and silver into thy treasures:
 >
 > <sup>[5](/bible/ezekiel/28#v5)</sup> By thy great wisdom and by thy traffick hast thou increased thy riches, and thine heart is lifted up because of thy riches:
-
-- Say unto the prince of Tyrus: because thine heart is lifted up, and thou hast said, I am a God, I sit in the seat of God, in the midst of the seas. You sit in the seat of God because you are in space, in rulership, the superpower in the midst of the nations, like the woman in Revelation that sits upon many waters. Yet thou art a man, and not God: a man made of dust, water, and blood, no matter the crown and the seal. Even the president talking reckless is only fulfilling the prophecy of making himself small among the heathen.
-- Behold, thou art wiser than Daniel; there is no secret that they can hide from thee: with wisdom and understanding they got riches, gold and silver into their treasures. Look at the Native American treaties the United States made and broke, like the Treaty of Fort Laramie of 1868, violated the minute gold was discovered. They know geology; they know where the gold is, and that is why the forts sit where they sit. By thy great wisdom and by thy traffick hast thou increased thy riches: by the way they traded slaves is how they became who they are today.
-- Video shown: a Polish member of parliament displayed an altered Israeli flag in parliament and compared the present war to the worst of the last century. Out of nowhere, from a country that never talks like that. Israel is a problem and America is a problem, and they are one and the same.
-- Another reason why America is greatly despised is the CIA coups in the Cold War, like the Congo crisis, Patrice Lumumba. Lumumba was assassinated, with declassified documents showing US involvement. Jaime Roldos Aguilera was given a plane by economic hitmen, and somehow that plane crashed, with him, his wife, and some of his officials aboard. The first thing people look for in a plane that crashes is the black box, and it did not have a black box.
 
 <div class="reading">
 

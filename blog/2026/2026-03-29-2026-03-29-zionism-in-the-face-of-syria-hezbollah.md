@@ -805,12 +805,20 @@ Reading from a text on Ahmed al-Sharaa, on the screen  *[[1:57:04](https://www.y
 
 **[2 Esdras 15:14-21](/bible/2-esdras/15#v14)**  *[[2:10:53](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=7853s)]*
 
+- Woe to the world, for one people shall stand up to fight against another; sedition, insurrection against government, and invading one another: we are living it.
+
 > <sup>[14](/bible/2-esdras/15#v14)</sup> Woe to the world and them that dwell therein!
 >
 > <sup>[15](/bible/2-esdras/15#v15)</sup> For the sword and their destruction draweth nigh, and one people shall stand up and fight against another, and swords in their hands.
 >
 > <sup>[16](/bible/2-esdras/15#v16)</sup> For there shall be sedition among men, and invading one another; they shall not regard their kings nor princes, and the course of their actions shall stand in their power.
->
+
+- They shall not regard their kings nor princes: the crown princes of Saudi Arabia, Qatar and Bahrain are in bed with America and Israel, and the masses under them will revolt for not helping their fellow Muslims.
+
+- A man shall have no pity on his neighbour but destroy his house and spoil his goods for lack of bread and great tribulation: it is hitting India, the Philippines and China with a four-day week since the strait closed, and when America's buffet runs short there is only enough for white people. Store non-perishables, not cookies you throw out at Passover, and eat your unleavened bread with your meals; and your unbelieving relatives who raid your pantry will be at your door.
+
+- God calls together all the kings of the earth from the south, the east and Libanus, Lebanon, to turn one against another and repay what they have done: as they do yet unto my chosen, so will I do and recompense in their bosom. These wars are the big payback for what the nations did to the Israelites, and you feel sorry for the people who destroyed you.
+
 > <sup>[17](/bible/2-esdras/15#v17)</sup> A man shall desire to go into a city, and shall not be able.
 >
 > <sup>[18](/bible/2-esdras/15#v18)</sup> For because of their pride the cities shall be troubled, the houses shall be destroyed, and men shall be afraid.
@@ -820,14 +828,6 @@ Reading from a text on Ahmed al-Sharaa, on the screen  *[[1:57:04](https://www.y
 > <sup>[20](/bible/2-esdras/15#v20)</sup> Behold, saith God, I will call together all the kings of the earth to reverence me, which are from the rising of the sun, from the south, from the east, and Libanus; to turn themselves one against another, and repay the things that they have done to them.
 >
 > <sup>[21](/bible/2-esdras/15#v21)</sup> Like as they do yet this day unto my chosen, so will I do also, and recompense in their bosom. Thus saith the Lord God;
-
-- Woe to the world, for one people shall stand up to fight against another; sedition, insurrection against government, and invading one another: we are living it.
-
-- They shall not regard their kings nor princes: the crown princes of Saudi Arabia, Qatar and Bahrain are in bed with America and Israel, and the masses under them will revolt for not helping their fellow Muslims.
-
-- A man shall have no pity on his neighbour but destroy his house and spoil his goods for lack of bread and great tribulation: it is hitting India, the Philippines and China with a four-day week since the strait closed, and when America's buffet runs short there is only enough for white people. Store non-perishables, not cookies you throw out at Passover, and eat your unleavened bread with your meals; and your unbelieving relatives who raid your pantry will be at your door.
-
-- God calls together all the kings of the earth from the south, the east and Libanus, Lebanon, to turn one against another and repay what they have done: as they do yet unto my chosen, so will I do and recompense in their bosom. These wars are the big payback for what the nations did to the Israelites, and you feel sorry for the people who destroyed you.
 
 
 <div class="reading">
@@ -898,6 +898,12 @@ Reading from a list on Hay'at Tahrir al-Sham's terror network in Syria  *[[2:29:
 
 **[Zechariah 9:1-8](/bible/zechariah/9#v1)**  *[[2:31:20](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=9080s)]*
 
+- The burden in the land of Hadrach and Damascus, Syria, when the eyes of all the tribes of Israel are toward the Lord: we have no might against this great company, neither know we what to do, but our eyes are upon thee.
+
+- Tyrus and Zidon, though it be very wise, built herself a stronghold and heaped up silver: Lebanon was a merchant city, and today it is America with forty to fifty thousand troops in the region and forces operating around Lebanon. The Lord will cast her out and smite her power in the sea, and she shall be devoured with fire.
+
+- Ashkelon shall see it and fear, Gaza be sorrowful, the king perish from Gaza and Ashkelon not be inhabited, and a bastard shall dwell in Ashdod: when we say it we are racist; God calls them bastards.
+
 > <sup>[1](/bible/zechariah/9#v1)</sup> The burden of the word of the Lord in the land of Hadrach, and Damascus shall be the rest thereof: when the eyes of man, as of all the tribes of Israel, shall be toward the Lord.
 >
 > <sup>[2](/bible/zechariah/9#v2)</sup> And Hamath also shall border thereby; Tyrus, and Zidon, though it be very wise.
@@ -911,14 +917,6 @@ Reading from a list on Hay'at Tahrir al-Sham's terror network in Syria  *[[2:29:
 > <sup>[6](/bible/zechariah/9#v6)</sup> And a bastard shall dwell in Ashdod, and I will cut off the pride of the Philistines.
 >
 > <sup>[7](/bible/zechariah/9#v7)</sup> And I will take away his blood out of his mouth, and his abominations from between his teeth: but he that remaineth, even he, shall be for our God, and he shall be as a governor in Judah, and Ekron as a Jebusite.
->
-> <sup>[8](/bible/zechariah/9#v8)</sup> And I will encamp about mine house because of the army, because of him that passeth by, and because of him that returneth: and no oppressor shall pass through them any more: for now have I seen with mine eyes.
-
-- The burden in the land of Hadrach and Damascus, Syria, when the eyes of all the tribes of Israel are toward the Lord: we have no might against this great company, neither know we what to do, but our eyes are upon thee.
-
-- Tyrus and Zidon, though it be very wise, built herself a stronghold and heaped up silver: Lebanon was a merchant city, and today it is America with forty to fifty thousand troops in the region and forces operating around Lebanon. The Lord will cast her out and smite her power in the sea, and she shall be devoured with fire.
-
-- Ashkelon shall see it and fear, Gaza be sorrowful, the king perish from Gaza and Ashkelon not be inhabited, and a bastard shall dwell in Ashdod: when we say it we are racist; God calls them bastards.
 
 - I will take away his blood out of his mouth and his abominations from between his teeth: no soul of Israel eats blood, not even blood sausage from Santo Domingo, while the mohel sucks the blood from the baby's wound with his mouth and spreads herpes, the vampire nation living on blood.
 
@@ -955,6 +953,8 @@ Reading from a list on Hay'at Tahrir al-Sham's terror network in Syria  *[[2:29:
     > <sup>[25](/bible/exodus/2#v25)</sup> And God looked upon the children of Israel, and God had respect unto them.
 
     God looked upon the children of Israel and had respect unto them.
+
+> <sup>[8](/bible/zechariah/9#v8)</sup> And I will encamp about mine house because of the army, because of him that passeth by, and because of him that returneth: and no oppressor shall pass through them any more: for now have I seen with mine eyes.
 
 
 <div class="reading">
@@ -1021,13 +1021,11 @@ Reading from an article on Jeffrey Epstein and the DOJ files  *[[2:41:28](https:
 
 **[Zechariah 9:9-11](/bible/zechariah/9#v9)**  *[[2:49:25](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=10165s)]*
 
+- Rejoice greatly, O daughter of Zion, thy king cometh, just and having salvation, lowly and riding upon an ass: the colt Christ sent for in Mark 11, so do not say Christ is not in the Old Testament.
+
 > <sup>[9](/bible/zechariah/9#v9)</sup> Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.
 >
 > <sup>[10](/bible/zechariah/9#v10)</sup> And I will cut off the chariot from Ephraim, and the horse from Jerusalem, and the battle bow shall be cut off: and he shall speak peace unto the heathen: and his dominion shall be from sea even to sea, and from the river even to the ends of the earth.
->
-> <sup>[11](/bible/zechariah/9#v11)</sup> As for thee also, by the blood of thy covenant I have sent forth thy prisoners out of the pit wherein is no water.
-
-- Rejoice greatly, O daughter of Zion, thy king cometh, just and having salvation, lowly and riding upon an ass: the colt Christ sent for in Mark 11, so do not say Christ is not in the Old Testament.
 
 - I will cut off the chariot from Ephraim and the horse from Jerusalem: we will have no military in that day. His dominion from sea to sea and from the river to the ends of the earth: they are scared of from the river to the sea, but the Bible says it, and it is not that little strip but the whole planet.
 
@@ -1052,6 +1050,8 @@ Reading from an article on Jeffrey Epstein and the DOJ files  *[[2:41:28](https:
     > <sup>[20](/bible/hebrews/13#v20)</sup> Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant,
 
     The blood of the everlasting covenant is Christ dying on the cross.
+
+> <sup>[11](/bible/zechariah/9#v11)</sup> As for thee also, by the blood of thy covenant I have sent forth thy prisoners out of the pit wherein is no water.
 
 
 **[Zechariah 9:12](/bible/zechariah/9#v12)**  *[[2:54:39](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=10479s)]*

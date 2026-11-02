@@ -400,7 +400,11 @@ Reading from *Ecclesiasticus*, the prologue made by an uncertain author  *[[1:34
 **[Sirach 24:3-8](/bible/sirach/24#v3)**  *[[1:36:22](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=5782s)]*
 
 > <sup>[3](/bible/sirach/24#v3)</sup> I came out of the mouth of the most High, and covered the earth as a cloud.
->
+
+- I came out of the mouth of the most High: when the Father spoke, his Son was made, which is why he is called the word of God.
+
+- The throne in a cloudy pillar settles that Christ had a throne, and in every people and nation I got a possession is the inheritance he was promised.
+
 > <sup>[4](/bible/sirach/24#v4)</sup> I dwelt in high places, and my throne is in a cloudy pillar.
 >
 > <sup>[5](/bible/sirach/24#v5)</sup> I alone compassed the circuit of heaven, and walked in the bottom of the deep.
@@ -410,10 +414,6 @@ Reading from *Ecclesiasticus*, the prologue made by an uncertain author  *[[1:34
 > <sup>[7](/bible/sirach/24#v7)</sup> With all these I sought rest: and in whose inheritance shall I abide?
 >
 > <sup>[8](/bible/sirach/24#v8)</sup> So the Creator of all things gave me a commandment, and he that made me caused my tabernacle to rest, and said, Let thy dwelling be in Jacob, and thine inheritance in Israel.
-
-- I came out of the mouth of the most High: when the Father spoke, his Son was made, which is why he is called the word of God.
-
-- The throne in a cloudy pillar settles that Christ had a throne, and in every people and nation I got a possession is the inheritance he was promised.
 
 - He that made me caused my tabernacle to rest, and said, Let thy dwelling be in Jacob: he was made, and the rest he was given was a body.
 
@@ -570,8 +570,6 @@ Reading from *Ecclesiasticus*, the prologue made by an uncertain author  *[[1:34
 **[Sirach 24:9-10](/bible/sirach/24#v9)**  *[[2:13:53](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=8033s)]*
 
 > <sup>[9](/bible/sirach/24#v9)</sup> He created me from the beginning before the world, and I shall never fail.
->
-> <sup>[10](/bible/sirach/24#v10)</sup> In the holy tabernacle I served before him; and so was I established in Sion.
 
 - He created me from the beginning before the world, and I shall never fail: made, and made first.
 
@@ -582,6 +580,8 @@ Reading from *Ecclesiasticus*, the prologue made by an uncertain author  *[[1:34
     > <sup>[11](/bible/matthew/13#v11)</sup> He answered and said unto them, Because it is given unto you to know the mysteries of the kingdom of heaven, but to them it is not given.
 
     It is given unto you to know the mysteries of the kingdom of heaven, but to them it is not given: he spoke in parables because the audience was selective.
+
+> <sup>[10](/bible/sirach/24#v10)</sup> In the holy tabernacle I served before him; and so was I established in Sion.
 
 
 **[John 16:25](/bible/john/16#v25)**  *[[2:15:32](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=8132s)]*
@@ -653,19 +653,19 @@ Reading from *Ecclesiasticus*, the prologue made by an uncertain author  *[[1:34
 
 **[Galatians 4:22-24,30](/bible/galatians/4#v22)**  *[[2:25:00](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=8700s)]*
 
+- Paul calls the history of Abraham's two sons the law, which tells you what the law is and that the Old Testament is layers.
+
 > <sup>[22](/bible/galatians/4#v22)</sup> For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman.
 >
 > <sup>[23](/bible/galatians/4#v23)</sup> But he who was of the bondwoman was born after the flesh; but he of the freewoman was by promise.
 >
 > <sup>[24](/bible/galatians/4#v24)</sup> Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.
->
-> <sup>[30](/bible/galatians/4#v30)</sup> Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman.
-
-- Paul calls the history of Abraham's two sons the law, which tells you what the law is and that the Old Testament is layers.
 
 - Which things are an allegory: another word for a parable, a proverb, a dark saying, a similitude.
 
 - The bondwoman is the old covenant and the freewoman the new, so our wisdom is spoken of as two women; and the son of the bondwoman shall not be heir with the son of the freewoman.
+
+> <sup>[30](/bible/galatians/4#v30)</sup> Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman.
 
 
 **[1 Kings 4:32](/bible/1-kings/4#v32)**  *[[2:30:03](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=9003s)]*
@@ -700,15 +700,15 @@ Reading from *Ecclesiasticus*, the prologue made by an uncertain author  *[[1:34
 
 **[Sirach 24:11-13](/bible/sirach/24#v11)**  *[[2:36:21](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=9381s)]*
 
+- Wisdom glories in the midst of her people, so wisdom has a people and an ethnicity, and refers to someone and not something.
+
 > <sup>[11](/bible/sirach/24#v11)</sup> Likewise in the beloved city he gave me rest, and in Jerusalem was my power.
 >
 > <sup>[12](/bible/sirach/24#v12)</sup> And I took root in an honourable people, even in the portion of the Lord’s inheritance.
->
-> <sup>[13](/bible/sirach/24#v13)</sup> I was exalted like a cedar in Libanus, and as a cypress tree upon the mountains of Hermon.
-
-- Wisdom glories in the midst of her people, so wisdom has a people and an ethnicity, and refers to someone and not something.
 
 - In the beloved city he gave me rest and in Jerusalem was my power, and I took root in an honourable people: that runs into David's line and into Solomon.
+
+> <sup>[13](/bible/sirach/24#v13)</sup> I was exalted like a cedar in Libanus, and as a cypress tree upon the mountains of Hermon.
 
 
 **[Genesis 2:18,20-23](/bible/genesis/2#v18)**  *[[2:41:54](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=9714s)]*
@@ -741,24 +741,22 @@ Reading from *Ecclesiasticus*, the prologue made by an uncertain author  *[[1:34
 
 **[2 Esdras 6:53-55](/bible/2-esdras/6#v53)**  *[[2:46:35](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=9995s)]*
 
+- Adam was made on the sixth day, after the beasts and the cattle and the creeping things, not the fifth and not the fourth.
+
 > <sup>[53](/bible/2-esdras/6#v53)</sup> Upon the sixth day thou gavest commandment unto the earth, that before thee it should bring forth beasts, cattle, and creeping things:
 >
 > <sup>[54](/bible/2-esdras/6#v54)</sup> And after these, Adam also, whom thou madest lord of all thy creatures: of him come we all, and the people also whom thou hast chosen.
->
-> <sup>[55](/bible/2-esdras/6#v55)</sup> All this have I spoken before thee, O Lord, because thou madest the world for our sakes
-
-- Adam was made on the sixth day, after the beasts and the cattle and the creeping things, not the fifth and not the fourth.
 
 - Of him come we all, and the people also whom thou hast chosen: a chosen people came out of Adam first, out of Seth's children, called the sons of God.
 
 - Down that line came Abraham, Isaac and Jacob, called the sons of God again, so there was always a chosen people.
 
+> <sup>[55](/bible/2-esdras/6#v55)</sup> All this have I spoken before thee, O Lord, because thou madest the world for our sakes
+
 
 **[Wisdom of Solomon 10:1-2](/bible/wisdom-of-solomon/10#v1)**  *[[2:49:11](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=10151s)]*
 
 > <sup>[1](/bible/wisdom-of-solomon/10#v1)</sup> She preserved the first formed father of the world, that was created alone, and brought him out of his fall,
->
-> <sup>[2](/bible/wisdom-of-solomon/10#v2)</sup> And gave him power to rule all things.
 
 - She preserved the first formed father of the world, that was created alone: that is Adam, and there are layers in that one verse.
 
@@ -769,6 +767,8 @@ Reading from *Ecclesiasticus*, the prologue made by an uncertain author  *[[1:34
     > <sup>[38](/bible/luke/3#v38)</sup> Which was the son of Enos, which was the son of Seth, which was the son of Adam, which was the son of God.
 
     Which was the son of Adam, which was the son of God: Adam is the son of God, our father up there and our father down here.
+
+> <sup>[2](/bible/wisdom-of-solomon/10#v2)</sup> And gave him power to rule all things.
 
 
 **[Revelation 3:14](/bible/revelation/3#v14)**  *[[2:52:56](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=10376s)]*
@@ -835,12 +835,12 @@ Reading from *Ecclesiasticus*, the prologue made by an uncertain author  *[[1:34
 **[John 15:1,5](/bible/john/15#v1)**  *[[3:11:52](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=11512s)]*
 
 > <sup>[1](/bible/john/15#v1)</sup> I am the true vine, and my Father is the husbandman.
->
-> <sup>[5](/bible/john/15#v5)</sup> I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.
 
 - I am the true vine and my Father is the husbandman: the Father planted him in the earth.
 
 - Ye are the branches is us coming out of that vine, the same way Eve was part of Adam before she was taken out.
+
+> <sup>[5](/bible/john/15#v5)</sup> I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.
 
 
 **[Ezekiel 31:3-6,8-9](/bible/ezekiel/31#v3)**  *[[3:12:39](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=11559s)]*
@@ -910,8 +910,6 @@ Reading from *Ecclesiasticus*, the prologue made by an uncertain author  *[[1:34
 **[Ephesians 1:17-18](/bible/ephesians/1#v17)**  *[[4:27:13](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=16033s)]*
 
 > <sup>[17](/bible/ephesians/1#v17)</sup> That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:
->
-> <sup>[18](/bible/ephesians/1#v18)</sup> The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,
 
 - The God of our Lord Jesus Christ: Christ has a God, and Christ is our Lord, and both halves of that matter.
 
@@ -924,6 +922,8 @@ Reading from *Ecclesiasticus*, the prologue made by an uncertain author  *[[1:34
     > <sup>[9](/bible/wisdom-of-solomon/9#v9)</sup> And wisdom was with thee: which knoweth thy works, and was present when thou madest the world, and knew what was acceptable in thy sight, and right in thy commandments.
 
     Wisdom was with thee, which knoweth thy works, and was present when thou madest the world: that is the let us make man in our image.
+
+> <sup>[18](/bible/ephesians/1#v18)</sup> The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,
 
 
 **[Sirach 24:18](/bible/sirach/24#v18)**  *[[4:34:28](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=16468s)]*
@@ -1322,12 +1322,10 @@ Reading from a definition of the word predestinate  *[[6:28:26](https://www.yout
 **[Ephesians 1:3-5](/bible/ephesians/1#v3)**  *[[6:36:25](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=23785s)]*
 
 > <sup>[3](/bible/ephesians/1#v3)</sup> Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:
->
-> <sup>[4](/bible/ephesians/1#v4)</sup> According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:
->
-> <sup>[5](/bible/ephesians/1#v5)</sup> Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,
 
 - Blessed be the God and Father of our Lord Jesus Christ: our Christ has a God, said plainly at the head of the letter.
+
+> <sup>[4](/bible/ephesians/1#v4)</sup> According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:
 
 - He hath chosen us in him before the foundation of the world: where Eve was before she was taken out of Adam is where we were, in Christ, which makes us the firstborn.
 
@@ -1338,6 +1336,8 @@ Reading from a definition of the word predestinate  *[[6:28:26](https://www.yout
     > <sup>[14](/bible/psalms/148#v14)</sup> He also exalteth the horn of his people, the praise of all his saints; even of the children of Israel, a people near unto him. Praise ye the Lord.
 
     The praise of all his saints, even of the children of Israel, a people near unto him: the saints at Ephesus are his people.
+
+> <sup>[5](/bible/ephesians/1#v5)</sup> Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,
 
 
 **[John 10:16](/bible/john/10#v16)**  *[[6:42:29](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=24149s)]*
@@ -1631,12 +1631,12 @@ Reading from a definition of the word predestinate  *[[6:28:26](https://www.yout
 **[John 6:45-46](/bible/john/6#v45)**  *[[7:32:25](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=27145s)]*
 
 > <sup>[45](/bible/john/6#v45)</sup> It is written in the prophets, And they shall be all taught of God. Every man therefore that hath heard, and hath learned of the Father, cometh unto me.
->
-> <sup>[46](/bible/john/6#v46)</sup> Not that any man hath seen the Father, save he which is of God, he hath seen the Father.
 
 - They shall be all taught of God: the God who came down and taught the disciples and taught us how to keep and magnify the commandments is Christ.
 
 - Every man that hath heard and learned of the Father cometh unto me, so you learn of the Father through the Son.
+
+> <sup>[46](/bible/john/6#v46)</sup> Not that any man hath seen the Father, save he which is of God, he hath seen the Father.
 
 - Not that any man hath seen the Father, save he which is of God: he is the only one who has seen him and the only one who has heard his voice.
 
@@ -1649,17 +1649,17 @@ Reading from a definition of the word predestinate  *[[6:28:26](https://www.yout
 
 **[Exodus 20:18-20](/bible/exodus/20#v18)**  *[[7:37:52](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=27472s)]*
 
-> <sup>[18](/bible/exodus/20#v18)</sup> And all the people saw the thunderings, and the lightnings, and the noise of the trumpet, and the mountain smoking: and when the people saw it, they removed, and stood afar off.
->
-> <sup>[19](/bible/exodus/20#v19)</sup> And they said unto Moses, Speak thou with us, and we will hear: but let not God speak with us, lest we die.
->
-> <sup>[20](/bible/exodus/20#v20)</sup> And Moses said unto the people, Fear not: for God is come to prove you, and that his fear may be before your faces, that ye sin not.
-
 - The people saw the thunderings and the lightnings and the mountain smoking, and they removed and stood afar off.
 
 - The ten commandments are the spoken commandments, the words God spoke out loud himself, which Israel heard and could not bear to hear any more.
 
+> <sup>[18](/bible/exodus/20#v18)</sup> And all the people saw the thunderings, and the lightnings, and the noise of the trumpet, and the mountain smoking: and when the people saw it, they removed, and stood afar off.
+>
+> <sup>[19](/bible/exodus/20#v19)</sup> And they said unto Moses, Speak thou with us, and we will hear: but let not God speak with us, lest we die.
+
 - Speak thou with us, and we will hear, but let not God speak with us, lest we die: God came to prove them, that his fear would be before their faces.
+
+> <sup>[20](/bible/exodus/20#v20)</sup> And Moses said unto the people, Fear not: for God is come to prove you, and that his fear may be before your faces, that ye sin not.
 
 
 **[Hebrews 12:25-27,29](/bible/hebrews/12#v25)**  *[[7:40:02](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=27602s)]*
@@ -1683,19 +1683,19 @@ Reading from a definition of the word predestinate  *[[6:28:26](https://www.yout
 
 **[1 Corinthians 10:2-4,9](/bible/1-corinthians/10#v2)**  *[[7:44:50](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=27890s)]*
 
+- All our fathers were baptized unto Moses in the cloud and in the sea, which was not Moses dipping millions of people in water.
+
+- The same spiritual meat and the same spiritual drink are the laws of God, the peculiar commandments given to them.
+
 > <sup>[2](/bible/1-corinthians/10#v2)</sup> And were all baptized unto Moses in the cloud and in the sea;
 >
 > <sup>[3](/bible/1-corinthians/10#v3)</sup> And did all eat the same spiritual meat;
 >
 > <sup>[4](/bible/1-corinthians/10#v4)</sup> And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ.
->
-> <sup>[9](/bible/1-corinthians/10#v9)</sup> Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents.
-
-- All our fathers were baptized unto Moses in the cloud and in the sea, which was not Moses dipping millions of people in water.
-
-- The same spiritual meat and the same spiritual drink are the laws of God, the peculiar commandments given to them.
 
 - They drank of that spiritual Rock that followed them, and that Rock was Christ: the Rock that fed them and followed them is the God of the wilderness.
+
+> <sup>[9](/bible/1-corinthians/10#v9)</sup> Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents.
 
 - Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents: so the one Israel tempted in the wilderness was Christ.
 
@@ -1781,8 +1781,6 @@ Reading from a definition of the word predestinate  *[[6:28:26](https://www.yout
 **[Exodus 23:20-21](/bible/exodus/23#v20)**  *[[8:14:02](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=29642s)]*
 
 > <sup>[20](/bible/exodus/23#v20)</sup> Behold, I send an Angel before thee, to keep thee in the way, and to bring thee into the place which I have prepared.
->
-> <sup>[21](/bible/exodus/23#v21)</sup> Beware of him, and obey his voice, provoke him not; for he will not pardon your transgressions: for my name is in him.
 
 - Behold, I send an Angel before thee: the same angel that spoke to Moses out of the bush, to be obeyed and not provoked.
 
@@ -1793,6 +1791,8 @@ Reading from a definition of the word predestinate  *[[6:28:26](https://www.yout
     > <sup>[18](/bible/deuteronomy/18#v18)</sup> I will raise them up a Prophet from among their brethren, like unto thee, and will put my words in his mouth; and he shall speak unto them all that I shall command him.
 
     I will raise them up a Prophet from among their brethren, and will put my words in his mouth: called an angel in one book and the prophet in another, and both are Christ.
+
+> <sup>[21](/bible/exodus/23#v21)</sup> Beware of him, and obey his voice, provoke him not; for he will not pardon your transgressions: for my name is in him.
 
 
 **[Genesis 19:24](/bible/genesis/19#v24)**  *[[8:15:45](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=29745s)]*

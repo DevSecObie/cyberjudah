@@ -223,19 +223,19 @@ tags: ["IUIC in the ClassRoom", "christ", "gossip", "sexual-purity"]
 
 **[Matthew 24:29-31](/bible/matthew/24#v29)**  *[[36:21](https://www.youtube.com/watch?v=2KpqOAuQTFY&t=2181s)]*
 
-> <sup>[29](/bible/matthew/24#v29)</sup> Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:
->
-> <sup>[30](/bible/matthew/24#v30)</sup> And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.
->
-> <sup>[31](/bible/matthew/24#v31)</sup> And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.
-
 - This is the same thing Christ said; here's the precept.
 
 - It's talking about war. When it says the stars shall fall from heaven, it's referring to the satellites they have around the earth, because if actual stars hit the earth the earth would blow up. It's the hardware that America, Russia, China, Japan have throughout the global atmosphere around the earth; those are the stars that will fall from heaven.
 
+> <sup>[29](/bible/matthew/24#v29)</sup> Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:
+>
+> <sup>[30](/bible/matthew/24#v30)</sup> And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.
+
 - Then shall all the tribes of the earth mourn: that's us.
 
 - He shall send his angels and gather together his elect from one end of heaven to the other: that's what we just read in Ezekiel 20. We're not going to be delivered on boats and planes; the Lord said I'm going to send my angels. That's why this deliverance will be the greatest deliverance that earth has ever seen, greater than from the time of Moses.
+
+> <sup>[31](/bible/matthew/24#v31)</sup> And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.
 
 
 **[Ezekiel 20:34-35](/bible/ezekiel/20#v34)**  *[[38:33](https://www.youtube.com/watch?v=2KpqOAuQTFY&t=2313s)]*

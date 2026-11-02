@@ -522,17 +522,17 @@ tags: ["IUIC in the ClassRoom", "deceit", "war"]
 
 **[Romans 11:26-29](/bible/romans/11#v26)**  *[[2:38:12](https://www.youtube.com/watch?v=EUL_omVPaWc&t=9492s)]*
 
+- All Israel shall be saved, southern and northern kingdom. There shall come out of Zion the Deliverer, Christ, and shall turn away ungodliness from Jacob; this is my covenant when I take away their sins. Start at verse 26 on the street, because it explains the whole chapter.
+
 > <sup>[26](/bible/romans/11#v26)</sup> And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:
 >
 > <sup>[27](/bible/romans/11#v27)</sup> For this is my covenant unto them, when I shall take away their sins.
 >
 > <sup>[28](/bible/romans/11#v28)</sup> As concerning the gospel, they are enemies for your sakes: but as touching the election, they are beloved for the fathers’ sakes.
->
-> <sup>[29](/bible/romans/11#v29)</sup> For the gifts and calling of God are without repentance.
-
-- All Israel shall be saved, southern and northern kingdom. There shall come out of Zion the Deliverer, Christ, and shall turn away ungodliness from Jacob; this is my covenant when I take away their sins. Start at verse 26 on the street, because it explains the whole chapter.
 
 - As concerning the gospel they are enemies for your sakes: the ones who made a covenant with Rome and Babylon, religious or political. But as touching the election they are beloved for the fathers' sakes, because they can still repent. The gifts and calling of God are without repentance; he died for us before we were there.
+
+> <sup>[29](/bible/romans/11#v29)</sup> For the gifts and calling of God are without repentance.
 
 
 **[Jeremiah 30:1-7](/bible/jeremiah/30#v1)**  *[[2:39:42](https://www.youtube.com/watch?v=EUL_omVPaWc&t=9582s)]*
@@ -626,16 +626,6 @@ tags: ["IUIC in the ClassRoom", "deceit", "war"]
 **[2 Esdras 16:68-73](/bible/2-esdras/16#v68)**  *[[2:53:05](https://www.youtube.com/watch?v=EUL_omVPaWc&t=10385s)]*
 
 > <sup>[68](/bible/2-esdras/16#v68)</sup> For, behold, the burning wrath of a great multitude is kindled over you, and they shall take away certain of you, and feed you, being idle, with things offered unto idols.
->
-> <sup>[69](/bible/2-esdras/16#v69)</sup> And they that consent unto them shall be had in derision and in reproach, and trodden under foot.
->
-> <sup>[70](/bible/2-esdras/16#v70)</sup> For there shall be in every place, and in the next cities, a great insurrection upon those that fear the Lord.
->
-> <sup>[71](/bible/2-esdras/16#v71)</sup> They shall be like mad men, sparing none, but still spoiling and destroying those that fear the Lord.
->
-> <sup>[72](/bible/2-esdras/16#v72)</sup> For they shall waste and take away their goods, and cast them out of their houses.
->
-> <sup>[73](/bible/2-esdras/16#v73)</sup> Then shall they be known, who are my chosen; and they shall be tried as the gold in the fire.
 
 - The burning wrath of a great multitude is kindled over you, and they shall take away certain of you and feed you, being idle, with things offered unto idols: Christianity and Roman Catholicism. Idle means you do not study, so when persecution comes and you cannot pay bills or buy food, you give up.
 
@@ -656,6 +646,16 @@ tags: ["IUIC in the ClassRoom", "deceit", "war"]
     > <sup>[3](/bible/1-timothy/4#v3)</sup> Forbidding to marry, and commanding to abstain from meats, which God hath created to be received with thanksgiving of them which believe and know the truth.
 
     In the latter times some shall depart from the faith, giving heed to seducing spirits and doctrines of devils, speaking lies in hypocrisy, forbidding to marry and commanding to abstain from meats. Forbidding to marry is Catholicism; abstaining from meat is Lent. That is the food offered to idols.
+
+> <sup>[69](/bible/2-esdras/16#v69)</sup> And they that consent unto them shall be had in derision and in reproach, and trodden under foot.
+>
+> <sup>[70](/bible/2-esdras/16#v70)</sup> For there shall be in every place, and in the next cities, a great insurrection upon those that fear the Lord.
+>
+> <sup>[71](/bible/2-esdras/16#v71)</sup> They shall be like mad men, sparing none, but still spoiling and destroying those that fear the Lord.
+>
+> <sup>[72](/bible/2-esdras/16#v72)</sup> For they shall waste and take away their goods, and cast them out of their houses.
+>
+> <sup>[73](/bible/2-esdras/16#v73)</sup> Then shall they be known, who are my chosen; and they shall be tried as the gold in the fire.
 
 
 **[Deuteronomy 4:27-31](/bible/deuteronomy/4#v27)**  *[[2:58:53](https://www.youtube.com/watch?v=EUL_omVPaWc&t=10733s)]*

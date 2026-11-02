@@ -24,12 +24,12 @@ tags: ["15 Minutes w/ The Captains", "leadership", "the-body", "wisdom"]
 **[1 Timothy 3:1-2](/bible/1-timothy/3#v1)**  *[[2:05](https://www.youtube.com/watch?v=SJzKXoDT7mw&t=125s)]*
 
 > <sup>[1](/bible/1-timothy/3#v1)</sup> This is a true saying, If a man desire the office of a bishop, he desireth a good work.
->
-> <sup>[2](/bible/1-timothy/3#v2)</sup> A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach;
 
 - If a man desire the office of a bishop: all the men should want to be leaders. Bishop Yawasap said all the time, we're men, we got a brain in our heads, and we're not willing to use it to better our nation, to teach our nation? That's our whole purpose, to raise up the 12 tribes.
 
 - He desireth a good work: that's a good work, to want to be a leader unto your nation.
+
+> <sup>[2](/bible/1-timothy/3#v2)</sup> A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach;
 
 - Apt to teach: blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, all those things is great. You need those things to be a righteous example unto the people. But the thing we're harping on today is apt to teach. If thou wilt, thou shalt be taught. If you have that willing spirit, you will be taught.
 
@@ -84,19 +84,9 @@ Reading from a definition of prudent, on screen  *[[5:13](https://www.youtube.co
 
 **[Sirach 6:32-37](/bible/sirach/6#v32)**  *[[10:18](https://www.youtube.com/watch?v=SJzKXoDT7mw&t=618s)]*
 
-> <sup>[32](/bible/sirach/6#v32)</sup> My son, if thou wilt, thou shalt be taught: and if thou wilt apply thy mind, thou shalt be prudent.
->
-> <sup>[33](/bible/sirach/6#v33)</sup> If thou love to hear, thou shalt receive understanding: and if thou bow thine ear, thou shalt be wise,
->
-> <sup>[34](/bible/sirach/6#v34)</sup> Stand in the multitude of the elders; and cleave unto him that is wise.
->
-> <sup>[35](/bible/sirach/6#v35)</sup> Be willing to hear every godly discourse; and let not the parables of understanding escape thee.
->
-> <sup>[36](/bible/sirach/6#v36)</sup> And if thou seest a man of understanding, get thee betimes unto him, and let thy foot wear the steps of his door.
->
-> <sup>[37](/bible/sirach/6#v37)</sup> Let thy mind be upon the ordinances of the Lord and meditate continually in his commandments: he shall establish thine heart, and give thee wisdom at thine owns desire.
-
 - So how do we do these things? Where do you begin? First and foremost, like it say in Psalms 111 and 10, the fear of the Lord is the beginning of wisdom. Keep the commandments: that shows you that you fear the Lord, and you will gain understanding.
+
+> <sup>[32](/bible/sirach/6#v32)</sup> My son, if thou wilt, thou shalt be taught: and if thou wilt apply thy mind, thou shalt be prudent.
 
 - My son, if thou wilt, thou shalt be taught: that's the title right there. If is a small word, but a heavy meaning. You either going to want to learn, or you're going to be the opposite of that and not want to do nothing, going to be slothful, not studying, and it's going to show in your teachings. Brothers don't even want to come up to you, because they already know that they not going to get any edification from you.
 
@@ -104,21 +94,31 @@ Reading from a definition of prudent, on screen  *[[5:13](https://www.youtube.co
 
 - And if thou wilt apply thy mind, thou shalt be prudent: there go that word prudent again, the care and the thought of the future. When you teaching something, you're teaching it so that they can retain what you're explaining, and later on they could teach it to somebody else. That's how you keep growing. That's how you keep strengthening.
 
+> <sup>[33](/bible/sirach/6#v33)</sup> If thou love to hear, thou shalt receive understanding: and if thou bow thine ear, thou shalt be wise,
+
 - If thou love to hear, thou shalt receive understanding: some of us don't love to hear. Some of us can't wait for the class to be over. The leadership be right there next to you, and you don't even try to get at the foot of the leadership. Running from it, cuz you got something in your spirit that you hiding, and you scared that if you get around leadership they going to figure that thing out. But that's why the scriptures say confess your faults, so your brothers can pray for you.
 
 - Ain't nobody here in this truth trying to tear nobody down. If we tear you down to where you fall out this truth, that's another person we got to get to replace you in order to get the hell out of this captivity. When correction come around, it's only to build you up.
+
+> <sup>[34](/bible/sirach/6#v34)</sup> Stand in the multitude of the elders; and cleave unto him that is wise.
 
 - Stand in the multitude of the elders: we must be around the leadership, the men that sacrificed their mind, their body, getting rid of all of these worldly ways and learning the scriptures so they can teach us. It ain't going to come out of osmosis and all of a sudden you're the grand poobah of the scriptures.
 
 - And cleave unto him that is wise: these elders that got 30, 40 plus years in this truth. If you combine them all together, it's hundreds of years.
 
+> <sup>[35](/bible/sirach/6#v35)</sup> Be willing to hear every godly discourse; and let not the parables of understanding escape thee.
+
 - Be willing to hear every godly discourse: it's a problem that a lot of these brothers have. It don't say some. It don't say when it's convenient for you. It don't say, oh, cuz I got a headache right now. It said every godly discourse.
 
 - And let not the parables of understanding escape thee: when you around them, you're going to learn how to move, how to teach, judgment, how to deal with brothers and sisters going through certain situations. We here to judge the nation. How you going to learn how to be a judge and you ain't never around the judges that was here before you?
 
+> <sup>[36](/bible/sirach/6#v36)</sup> And if thou seest a man of understanding, get thee betimes unto him, and let thy foot wear the steps of his door.
+
 - And if thou seest a man of understanding, get thee betimes unto him: if the bishops or the deacons are around, they teaching, they got a whole circle around them, and you find yourself on the outskirts, in your room, doing something else, that means you don't think that they are men of understanding. So then what the hell you here for? You need to examine yourself. You may be wasting your time and wasting everybody else's time.
 
 - And let thy foot wear the steps of his door: every chance you get, you hitting up the leadership. When you studying and you have a question, write that thing down so you don't forget it, and when you get around leadership, ask that question. Even if you wrong, somebody else listening may have had that same thought, and it gets fixed right there because you brought it out. Like Sirach 33:17 said, I labour not for myself only. You got to eradicate that pride. Pride comes before destruction.
+
+> <sup>[37](/bible/sirach/6#v37)</sup> Let thy mind be upon the ordinances of the Lord and meditate continually in his commandments: he shall establish thine heart, and give thee wisdom at thine owns desire.
 
 - Let thy mind be upon the ordinances of the Lord, and meditate continually in his commandments: constantly meditating in that thing.
 
@@ -129,17 +129,17 @@ Reading from a definition of prudent, on screen  *[[5:13](https://www.youtube.co
 
 **[Wisdom of Solomon 6:9-11](/bible/wisdom-of-solomon/6#v9)**  *[[20:39](https://www.youtube.com/watch?v=SJzKXoDT7mw&t=1239s)]*
 
-> <sup>[9](/bible/wisdom-of-solomon/6#v9)</sup> Unto you therefore, O kings, do I speak, that ye may learn wisdom, and not fall away.
->
-> <sup>[10](/bible/wisdom-of-solomon/6#v10)</sup> For they that keep holiness holily shall be judged holy: and they that have learned such things shall find what to answer.
->
-> <sup>[11](/bible/wisdom-of-solomon/6#v11)</sup> Wherefore set your affection upon my words; desire them, and ye shall be instructed.
-
 - This is going into that desire. That ye may learn wisdom: but you must be willing to sit at the feet of the elders, wear out their doorsteps, willing to hear every godly discourse. That's how you get wisdom.
+
+> <sup>[9](/bible/wisdom-of-solomon/6#v9)</sup> Unto you therefore, O kings, do I speak, that ye may learn wisdom, and not fall away.
 
 - And not fall away: sometimes people have that zeal in the beginning, but somewhere down the line you got battle fatigue and you fell away from it. No, don't fall away.
 
+> <sup>[10](/bible/wisdom-of-solomon/6#v10)</sup> For they that keep holiness holily shall be judged holy: and they that have learned such things shall find what to answer.
+
 - And they that have learned such things shall find what to answer: how did you learn those things? Cuz you was willing to be around every godly discourse. Then when the men come up to you with questions, you have the answers because you learned it from your elders. Christ taught the disciples. That's how they got it. The disciples taught other disciples.
+
+> <sup>[11](/bible/wisdom-of-solomon/6#v11)</sup> Wherefore set your affection upon my words; desire them, and ye shall be instructed.
 
 - Set your affection upon my words: everything you do should be about the Lord's words. Like Matthew 4 and 4, man can't live by bread alone, but by every word of the Lord. Some of us too worried about feeding their flesh. No, you need to feed your spirit. You need to be around the leadership, so your spirit can continue to burn and be on fire.
 

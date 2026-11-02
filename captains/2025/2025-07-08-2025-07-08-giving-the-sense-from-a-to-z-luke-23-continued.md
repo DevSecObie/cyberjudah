@@ -48,17 +48,17 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy"]
 
 **[Luke 23:23-25](/bible/luke/23#v23)**  *[[5:48](https://www.youtube.com/watch?v=YERICqJxPmw&t=348s)]*
 
-> <sup>[23](/bible/luke/23#v23)</sup> And they were instant with loud voices, requiring that he might be crucified. And the voices of them and of the chief priests prevailed.
->
-> <sup>[24](/bible/luke/23#v24)</sup> And Pilate gave sentence that it should be as they required.
->
-> <sup>[25](/bible/luke/23#v25)</sup> And he released unto them him that for sedition and murder was cast into prison, whom they had desired; but he delivered Jesus to their will.
-
 - Now let's go to Luke chapter 23. Captain Matt got to Luke 23:23. So that's what we going to pick up at.
+
+> <sup>[23](/bible/luke/23#v23)</sup> And they were instant with loud voices, requiring that he might be crucified. And the voices of them and of the chief priests prevailed.
 
 - And the voices of them and of the chief priests prevailed: Right? So they coming to Pontius Pilate to get Jesus Christ crucified. That's what we reading. We're reading about the black Jews, the Israelites wanting their black king crucified because the scribes and the Pharisees and the chief priests and the elders had hatred for him.
 
+> <sup>[24](/bible/luke/23#v24)</sup> And Pilate gave sentence that it should be as they required.
+
 - And Pilate gave sentence that it should be as they required: Right? So Pilate, the white man, said, "Okay, go ahead then."
+
+> <sup>[25](/bible/luke/23#v25)</sup> And he released unto them him that for sedition and murder was cast into prison, whom they had desired; but he delivered Jesus to their will.
 
 - And he released unto them him that for sedition and murder was cast into prison, whom they had desired, but he delivered Jesus to their will: So he that was of sedition is Barabbus.
 
@@ -66,16 +66,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy"]
 **[John 18:38-40](/bible/john/18#v38)**  *[[7:19](https://www.youtube.com/watch?v=YERICqJxPmw&t=439s)]*
 
 > <sup>[38](/bible/john/18#v38)</sup> Pilate saith unto him, What is truth? And when he had said this, he went out again unto the Jews, and saith unto them, I find in him no fault at all.
->
-> <sup>[39](/bible/john/18#v39)</sup> But ye have a custom, that I should release unto you one at the passover: will ye therefore that I release unto you the King of the Jews?
->
-> <sup>[40](/bible/john/18#v40)</sup> Then cried they all again, saying, Not this man, but Barabbas. Now Barabbas was a robber.
 
 - I find in him no fault at all: But the white man said, I don't see nothing wrong. I find no fault in him. He ain't broke no laws.
+
+> <sup>[39](/bible/john/18#v39)</sup> But ye have a custom, that I should release unto you one at the passover: will ye therefore that I release unto you the King of the Jews?
 
 - But ye have a custom that I should release unto you one at the Passover: Now, I want to show you this real quick because a lot of times the first thing people are say is, "Oh, it was the scribes and the Pharisees. It was his own that gave him up." And are you right about that? Yes, you're right about that. It was his own that gave him up. But I want to show you how the white man found a loophole to fulfill it. Because he could have just said, "Look, y'all get out of my face. I don't see nothing wrong. Leave him alone. Christ, go about your way." He could have did that. He had the power to do that. But he found a stipulation. He said, "But y'all do have a law or a custom where I do release unto you a prisoner every year. So even though I don't find no fault with him, y'all can still take him prison and crucify him if you want to." So that show you he not innocent. He the devil. He not innocent.
 
 - And then guess what? The same thing going to happen in these last days. They not going to have no evil to really pin on us, but they'll find stipulations and loopholes and stuff within their laws to turn us in to the police. I'm telling you, it's going to happen. You can already see it happening. These folks, there is no depth that Satan won't go to to stop this gospel from reaching the four corners of the earth. Because with this gospel reaching the four corners of the earth, it is the end of his kingdom. Why would the ruling power just sit by and just let you conquer them? That makes no sense. Nobody just sit there and let you just destroy them and their kingdom. No, they going to fight back. They going to fight back. And how they going to fight back? It's not going to be able to be physical at first. It's going to have to be systemic. And it's going to have to be through religion and lies and slander and on social media. That's why on every social media platform you look, we are the black Hebrew Israelites. Even though for years we said, "Look, don't call us that. We don't call ourselves that. We call ourselves the Israelites." And they consistently black Hebrew Israelites. Black Hebrew Israelites. It's all about propaganda and slander. You tell a lie long enough, it becomes truth in your mind. So he found a way to cast Christ into prison.
+
+> <sup>[40](/bible/john/18#v40)</sup> Then cried they all again, saying, Not this man, but Barabbas. Now Barabbas was a robber.
 
 - Not this man, but Barabbas: Now Barabbus was a robber. So they want a real criminal. So Barabbas was a real criminal. They rather have the real criminal than to have the son of God.
 
@@ -83,10 +83,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy"]
 **[John 19:14-15](/bible/john/19#v14)**  *[[11:06](https://www.youtube.com/watch?v=YERICqJxPmw&t=666s)]*
 
 > <sup>[14](/bible/john/19#v14)</sup> And it was the preparation of the passover, and about the sixth hour: and he saith unto the Jews, Behold your King!
->
-> <sup>[15](/bible/john/19#v15)</sup> But they cried out, Away with him, away with him, crucify him. Pilate saith unto them, Shall I crucify your King? The chief priests answered, We have no king but Cesar.
 
 - And he saith unto the Jews, Behold your King: He told the king. He told the Jews. So he knew. He said, "Behold your king."
+
+> <sup>[15](/bible/john/19#v15)</sup> But they cried out, Away with him, away with him, crucify him. Pilate saith unto them, Shall I crucify your King? The chief priests answered, We have no king but Cesar.
 
 - But they cried out, Away with him: Damn. Away with him.
 
@@ -98,10 +98,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy"]
 **[Luke 23:25-26](/bible/luke/23#v25)**  *[[12:34](https://www.youtube.com/watch?v=YERICqJxPmw&t=754s)]*
 
 > <sup>[25](/bible/luke/23#v25)</sup> And he released unto them him that for sedition and murder was cast into prison, whom they had desired; but he delivered Jesus to their will.
->
-> <sup>[26](/bible/luke/23#v26)</sup> And as they led him away, they laid hold upon one Simon, a Cyrenian, coming out of the country, and on him they laid the cross, that he might bear it after Jesus.
 
 - But he delivered Jesus to their will: He delivered Jesus to their will.
+
+> <sup>[26](/bible/luke/23#v26)</sup> And as they led him away, they laid hold upon one Simon, a Cyrenian, coming out of the country, and on him they laid the cross, that he might bear it after Jesus.
 
 - And as they led him away, they laid hold upon one Simon, a Cyrenian: I'm going show you how wicked Esau is. I'm going show you how the so-called white man the devil. Cyrene is North Africa, okay? In Libya. So they'll say, "Well, Jesus wasn't black, but the man that carried the cross from him was, cuz he was from Africa." No, Jesus was black, too. Jesus was black. That brother that was holding the cross was black. Barabbas was black. All of the apostles, all of the prophets, the chiefs, priests, the scribe, all them was black. Judea was black. Were no white folks in Judea other than the Herodians and Pilate, the people, the client kings, the people that Rome put over judicial plants basically throughout Judea and Samaria and so on and so forth. But them was all black folks. The natural inhabitants of the land were black. Stop the cap. This is ridiculous.
 
@@ -120,23 +120,23 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy"]
 
 **[Isaiah 53:5-8](/bible/isaiah/53#v5)**  *[[15:51](https://www.youtube.com/watch?v=YERICqJxPmw&t=951s)]*
 
-> <sup>[5](/bible/isaiah/53#v5)</sup> But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.
->
-> <sup>[6](/bible/isaiah/53#v6)</sup> All we like sheep have gone astray; we have turned every one to his own way; and the Lord hath laid on him the iniquity of us all.
->
-> <sup>[7](/bible/isaiah/53#v7)</sup> He was oppressed, and he was afflicted, yet he opened not his mouth: he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth.
->
-> <sup>[8](/bible/isaiah/53#v8)</sup> He was taken from prison and from judgment: and who shall declare his generation? for he was cut off out of the land of the living: for the transgression of my people was he stricken.
-
 - Now in Luke 23 and 26 it says, "And as they led him away, they laid hold upon one Simon and Cyrene coming out of the country and they laid the cross that he might bear after Jesus." Now watch this. It says, "When they led him away," watch this. Here's the prophecy of Christ being crucified.
+
+> <sup>[5](/bible/isaiah/53#v5)</sup> But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.
 
 - But he was wounded for our transgressions: When Christ was stricken, when Christ was afflicted, it was for the transgressions of the nation of Israel. You got people that are looking at this and say, "No, that's talking about the nation of Israel." So the nation of Israel was wounded for the nation of Israel. That don't make no sense. So who is the he? The he was Israel. So the he is all Israel. So all Israel was wounded for all Israel's transgressions. He meaning all Israel was bruised for our iniquities. That don't make no sense. That's two different persons. The chastisement of our, meaning Israel's, peace was upon him. So the chastisement of ours peace was upon us. That don't make sense. What are y'all reading?
 
 - And with his stripes we are healed: We're healed with the stripes of Jesus the Christ. We're not healed with the stripes of some random man in Israel being beaten. Okay? Because when we got wounded, it was because of our sins. We talking about a man taking hold or taking on our sins to cleanse us. God putting it all on him. We reading that in the book of Luke chapter 23 and now we reading it in Isaiah 53.
 
+> <sup>[6](/bible/isaiah/53#v6)</sup> All we like sheep have gone astray; we have turned every one to his own way; and the Lord hath laid on him the iniquity of us all.
+
 - And the Lord hath laid on him the iniquity of us all: All of our iniquities was laid on Christ.
 
+> <sup>[7](/bible/isaiah/53#v7)</sup> He was oppressed, and he was afflicted, yet he opened not his mouth: he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth.
+
 - He was oppressed, and he was afflicted, yet he opened not his mouth: Right? It said he was oppressed. He was afflicted yet he opened not his mouth. He has brought as a lamb to the slaughter and as a sheep before her sheerers is dumb. So he opened not his mouth. Christ didn't open his mouth. He didn't stop. He didn't call legion of angels to come down. He understood that he had to fulfill the will of his father, the most high God, in dying for the nation of Israel and being afflicted for the nation of Israel. He understood that. So now in what we reading is he was led away.
+
+> <sup>[8](/bible/isaiah/53#v8)</sup> He was taken from prison and from judgment: and who shall declare his generation? for he was cut off out of the land of the living: for the transgression of my people was he stricken.
 
 - And who shall declare his generation: Who going to declare his generation?
 
@@ -165,41 +165,41 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy"]
 > <sup>[21](/bible/luke/21#v21)</sup> Then let them which are in Judea flee to the mountains; and let them which are in the midst of it depart out; and let not them that are in the countries enter thereinto.
 >
 > <sup>[22](/bible/luke/21#v22)</sup> For these be the days of vengeance, that all things which are written may be fulfilled.
->
-> <sup>[23](/bible/luke/21#v23)</sup> But woe unto them that are with child, and to them that give suck, in those days! for there shall be great distress in the land, and wrath upon this people.
 
 - For these be the days of vengeance, that all things which are written may be fulfilled: Right? These be the days of vengeance, that all things that are written may be fulfilled.
+
+> <sup>[23](/bible/luke/21#v23)</sup> But woe unto them that are with child, and to them that give suck, in those days! for there shall be great distress in the land, and wrath upon this people.
 
 - But woe unto them that are with child, and to them that give suck, in those days: Right? It said, but woe unto them that are with child, and to them that give suck in those days, for there shall be great distress in the land, and wrath upon this people. There's going to be great wrath upon the children of Israel during the time of 70 AD. That's what Christ is telling the apostles is going to happen after his death. And guess what? In 70 AD, it actually took place.
 
 
 **[Deuteronomy 28:52-57](/bible/deuteronomy/28#v52)**  *[[22:18](https://www.youtube.com/watch?v=YERICqJxPmw&t=1338s)]*
 
-> <sup>[52](/bible/deuteronomy/28#v52)</sup> And he shall besiege thee in all thy gates, until thy high and fenced walls come down, wherein thou trustedst, throughout all thy land: and he shall besiege thee in all thy gates throughout all thy land, which the Lord thy God hath given thee.
->
-> <sup>[53](/bible/deuteronomy/28#v53)</sup> And thou shalt eat the fruit of thine own body, the flesh of thy sons and of thy daughters, which the Lord thy God hath given thee, in the siege, and in the straitness, wherewith thine enemies shall distress thee:
->
-> <sup>[54](/bible/deuteronomy/28#v54)</sup> So that the man that is tender among you, and very delicate, his eye shall be evil toward his brother, and toward the wife of his bosom, and toward the remnant of his children which he shall leave:
->
-> <sup>[55](/bible/deuteronomy/28#v55)</sup> So that he will not give to any of them of the flesh of his children whom he shall eat: because he hath nothing left him in the siege, and in the straitness, wherewith thine enemies shall distress thee in all thy gates.
->
-> <sup>[56](/bible/deuteronomy/28#v56)</sup> The tender and delicate woman among you, which would not adventure to set the sole of her foot upon the ground for delicateness and tenderness, her eye shall be evil toward the husband of her bosom, and toward her son, and toward her daughter,
->
-> <sup>[57](/bible/deuteronomy/28#v57)</sup> And toward her young one that cometh out from between her feet, and toward her children which she shall bear: for she shall eat them for want of all things secretly in the siege and straitness, wherewith thine enemy shall distress thee in thy gates.
-
 - Remember, he said, "These be the days of vengeance where all things that are written may be fulfilled." When was it written? Deuteronomy chapter 28.
+
+> <sup>[52](/bible/deuteronomy/28#v52)</sup> And he shall besiege thee in all thy gates, until thy high and fenced walls come down, wherein thou trustedst, throughout all thy land: and he shall besiege thee in all thy gates throughout all thy land, which the Lord thy God hath given thee.
 
 - And he shall besiege thee in all thy gates: So to besiege you in all your gates is what we just read in the book of Luke where it says that he was going to basically cause Jerusalem to be surrounded by armies. When an army surrounds a city, it stops food from coming in and food from going out. Stop water from coming in, water from coming out. You're stuck inside there. Well, guess what's going to happen? You going to self-destruct in there because you can't get outside to get the proper goods that you need. You understand? Why you think the United States of America put tariffs on other countries? Because they know that those goods can't come in and out unless they'll allow them to. So they put tariffs on and say, "Okay, you want to bring your goods here, it's going to cost you x amount of dollars." And if you want to make your money, that is what it is. Donald Trump and the United States government understand that. It's the same thing here. The people want to get their product in and out of Jerusalem, they wouldn't allow it to happen.
 
+> <sup>[53](/bible/deuteronomy/28#v53)</sup> And thou shalt eat the fruit of thine own body, the flesh of thy sons and of thy daughters, which the Lord thy God hath given thee, in the siege, and in the straitness, wherewith thine enemies shall distress thee:
+
 - And thou shalt eat the fruit of thine own body, the flesh of thy sons and of thy daughters: Right? So that's why the Bible says, "Woe to them that give suck in those days." There's going to come a time where Christ told us you going to wish that women didn't have children. Why? Because there's going to come a time where you're not going to eat. All right? And then it's going to be like, okay, well, what are we supposed to do? Well, let's eat our children. Let's eat the most vulnerable amongst us. That actually happened. That happened during 70 AD. I can show you where it happened during the time of the kings. During the time of Isaiah, obviously, which was during the time of the kings. The famine got that real to where Israel was eating their own children. Israel was eating their own children. These be the days of vengeance which all things that are written may be fulfilled.
 
+> <sup>[54](/bible/deuteronomy/28#v54)</sup> So that the man that is tender among you, and very delicate, his eye shall be evil toward his brother, and toward the wife of his bosom, and toward the remnant of his children which he shall leave:
+
 - So that the man that is tender among you, and very delicate, his eye shall be evil toward his brother: Right? So he's describing how bad it's going to get. The man that is tender and very delicate among you, meaning the man that's not prepared, the man that don't have wisdom, the man that's not strong. He going to look at his brother and have an evil eye towards him during the time. He going to look at his wife, have an evil eye towards her. He going to look at his children, he going to have an evil eye towards the mall during that time because it's going to be a dog eat dog world, they say either I'm going to eat or you going to eat or we going to eat you. That's how it's going to be. That's what he's saying during the time of 70 AD. That's how bad the famine got.
+
+> <sup>[55](/bible/deuteronomy/28#v55)</sup> So that he will not give to any of them of the flesh of his children whom he shall eat: because he hath nothing left him in the siege, and in the straitness, wherewith thine enemies shall distress thee in all thy gates.
 
 - So that he will not give to any of them of the flesh of his children whom he shall eat: Right. He going to do it on his own. He going to eat him on his own.
 
 - Because he hath nothing left him in the siege: You know what this prove? We the children of Israel, because this happened during 70 AD. This proves that we them guys, we the people, cuz you couple this with Deuteronomy 28, Deuteronomy 28:68, Deuteronomy 28, 48, 64, 15 all the way down. You just look through all those scriptures, you say, "Okay, all right. Now, who did this happen to?" Then when you go back and look at the history, you see books like Rudolph R. Wins's book. You see various other documents that show that the Jews in Jerusalem during the time of 70 AD were black. They were black. And if you don't know that by now, you've been living under a rock for the last 20 years. Okay? You've been living from under a rock if you don't understand that the Jews is black.
 
 - Let me break it down. I say in the last five years, with this social media uptick after co, when social media became even more prevalent than it's ever been, this truth is everywhere. There's no way that you still think that them people over there in Israel is the Jews. Especially after they over there bombing little babies and hospitals and daycares and schools. You still think the people of God? Come on, man. The Bible say it's going to be rest in the land when the true children of Israel are there. We ain't there. That's why it's war. Okay. So the man that is tender and delicate among you, he gonna eat his own children and not allow anybody else to.
+
+> <sup>[56](/bible/deuteronomy/28#v56)</sup> The tender and delicate woman among you, which would not adventure to set the sole of her foot upon the ground for delicateness and tenderness, her eye shall be evil toward the husband of her bosom, and toward her son, and toward her daughter,
+>
+> <sup>[57](/bible/deuteronomy/28#v57)</sup> And toward her young one that cometh out from between her feet, and toward her children which she shall bear: for she shall eat them for want of all things secretly in the siege and straitness, wherewith thine enemy shall distress thee in thy gates.
 
 - For she shall eat them for want of all things secretly: Right. She going to eat secretly. All things secretly.
 
@@ -215,18 +215,18 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy"]
 > <sup>[18](/bible/matthew/24#v18)</sup> Neither let him which is in the field return back to take his clothes.
 >
 > <sup>[19](/bible/matthew/24#v19)</sup> And woe unto them that are with child, and to them that give suck in those days!
->
-> <sup>[20](/bible/matthew/24#v20)</sup> But pray ye that your flight be not in the winter, neither on the sabbath day:
->
-> <sup>[21](/bible/matthew/24#v21)</sup> For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be.
->
-> <sup>[22](/bible/matthew/24#v22)</sup> And except those days should be shortened, there should no flesh be saved: but for the elect’s sake those days shall be shortened.
 
 - And woe unto them that are with child, and to them that give suck in those days: Oh, this is what we were just reading in Luke 21.
 
+> <sup>[20](/bible/matthew/24#v20)</sup> But pray ye that your flight be not in the winter, neither on the sabbath day:
+
 - But pray ye that your flight be not in the winter, neither on the sabbath day: Right? He said, when you fleeing, pray that when you fleeing away is not in the winter. When it's very cold and you're traveling with children and women and elderly and so on and so forth. But watch this. It's going to transition.
 
+> <sup>[21](/bible/matthew/24#v21)</sup> For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be.
+
 - For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be: So that ain't 70 AD right there. That's going further into the future. Now he said for then shall be great tribulation such as were not since the beginning of the world to this time no nor ever shall be. So that's not talking about 70 AD because I can show you in the book of Kings where they besieged us. I can show you in Isaiah where they besieged us and we had to eat our own flesh and our own children and so on and so forth. So it ain't just talking about that. It's going further into the future. And when it goes further into the future, it's talking about World War II and the persecution that comes before it. Jacob's trouble. We're reading about Jacob's trouble right now.
+
+> <sup>[22](/bible/matthew/24#v22)</sup> And except those days should be shortened, there should no flesh be saved: but for the elect’s sake those days shall be shortened.
 
 - And except those days should be shortened: It's going to be so bad that the days will have to be shortened. God can't put too much on us in this time cuz if he put too much on us, he'll destroy us all. That's why it's saying that.
 
@@ -243,23 +243,17 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy"]
 
 **[Joel 2:15-20](/bible/joel/2#v15)**  *[[31:23](https://www.youtube.com/watch?v=YERICqJxPmw&t=1883s)]*
 
+- It's going to get real real bad for the Israelites on this earth and then it's going to get real real bad for everybody on this earth.
+
 > <sup>[15](/bible/joel/2#v15)</sup> Blow the trumpet in Zion, sanctify a fast, call a solemn assembly:
 >
 > <sup>[16](/bible/joel/2#v16)</sup> Gather the people, sanctify the congregation, assemble the elders, gather the children, and those that suck the breasts: let the bridegroom go forth of his chamber, and the bride out of her closet.
->
-> <sup>[17](/bible/joel/2#v17)</sup> Let the priests, the ministers of the Lord, weep between the porch and the altar, and let them say, Spare thy people, O Lord, and give not thine heritage to reproach, that the heathen should rule over them: wherefore should they say among the people, Where is their God?
->
-> <sup>[18](/bible/joel/2#v18)</sup> Then will the Lord be jealous for his land, and pity his people.
->
-> <sup>[19](/bible/joel/2#v19)</sup> Yea, the Lord will answer and say unto his people, Behold, I will send you corn, and wine, and oil, and ye shall be satisfied therewith: and I will no more make you a reproach among the heathen:
->
-> <sup>[20](/bible/joel/2#v20)</sup> But I will remove far off from you the northern army, and will drive him into a land barren and desolate, with his face toward the east sea, and his hinder part toward the utmost sea, and his stink shall come up, and his ill savour shall come up, because he hath done great things.
-
-- It's going to get real real bad for the Israelites on this earth and then it's going to get real real bad for everybody on this earth.
 
 - Let the bridegroom go forth of his chamber, and the bride out of her closet: Right? During this time ain't nobody going to be talking about marriage. Ain't going to be no wedding feast. We trying to eat. You understand? We trying to eat. Our children trying to eat. We being persecuted and afflicted. Brothers ain't worried about getting no woman. Brothers ain't worried about at this particular time trying to go into the marriage chambers. Like look, if we ain't get married before this time, look, we ain't get married, baby. It is what it is. All right. How long will I see you on the other side? You keep the commandments, cuz I'm going to keep the commandment, cuz it's going to get real. We going to be focusing on praying and fasting in that day, not getting married.
 
 - I'm just telling you what it is cuz I know some of y'all that's the lot. Some of y'all really only join the truth cuz you want a husband. Some of y'all only join the truth cuz you want a woman. And at the end of the day, during this time, it's going to reveal if you really with God or not. Because at the end of the day, that ain't going to be what it's about in that time. Is marriage honorable? Absolutely. Is that your focus when this time period come? No. Because the Bible say, "Hey, let the bridegroom go forth of his chamber and the bride out of her closet." Don't be in there trying to put on makeup and lipstick and all these different wardrobe and stuff like that. Bring your behind over here. Let us fast for the nation of Israel. And it's going to tell you why you going to have to fast.
+
+> <sup>[17](/bible/joel/2#v17)</sup> Let the priests, the ministers of the Lord, weep between the porch and the altar, and let them say, Spare thy people, O Lord, and give not thine heritage to reproach, that the heathen should rule over them: wherefore should they say among the people, Where is their God?
 
 - Let the priests, the ministers of the Lord, weep between the porch and the altar: Right? He said the priest and the ministers going to be weeping. Why they crying? What they crying for? What they crying for? They going to be weeping before the porch and the altar saying, "Spare thy people, O Lord." But what is that telling you during this time is happening to us? We being persecuted. And when I say persecuted, I mean we getting put to death. We going to be getting put to death during that time. Brothers ain't going to be worried about getting no nookie. It is what it is. They worried about trying to live. Sisters supposed to be worried about trying to live in that day. Y'all understand. I'm telling you because some of you is going to be revealing who you really are in that time because you going to be more focused on, why am I, well, you supposed to have my wedding feast today. You don't see what's happening. The United States government done released the National Guard on us and you talking about getting married, but ain't nobody going to come to the school for my wedding feast, and I'm worried about that right now. That's what the Bible is telling you is going to take place.
 
@@ -267,7 +261,13 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy"]
 
 - Wherefore should they say among the people, Where is their God: And the heathen going to be doing evil to us and say, "Where y'all God at? I thought you black Hebrew Israelites had a God. No, I thought God only loved y'all. I thought Christ only loved y'all. I thought he hated the white man. Why he let the white man do this to you?" The same pride that Rome had is the same pride this white man going to have in the last days. And the Lord said that the elders, the leaders at that time, some of us may be dead. You still may have a whole bunch of captains, officers, Bishop Dickens around. Some of us going to be dead during that time. Some of us going to be in prison during that time. But whoever is able to gather the people to pray for them. The Lord said, "Whomever the elders are, gather the people and pray to me for your people that I spare them, that the heathen does not continue to have rulership over them."
 
+> <sup>[18](/bible/joel/2#v18)</sup> Then will the Lord be jealous for his land, and pity his people.
+>
+> <sup>[19](/bible/joel/2#v19)</sup> Yea, the Lord will answer and say unto his people, Behold, I will send you corn, and wine, and oil, and ye shall be satisfied therewith: and I will no more make you a reproach among the heathen:
+
 - Behold, I will send you corn: Send you corn.
+
+> <sup>[20](/bible/joel/2#v20)</sup> But I will remove far off from you the northern army, and will drive him into a land barren and desolate, with his face toward the east sea, and his hinder part toward the utmost sea, and his stink shall come up, and his ill savour shall come up, because he hath done great things.
 
 - But I will remove far off from you the northern army: Right. You break it up a little bit. So it says, "But I will remove far off from you the Northern Army." What? The Northern Army? What is it talking about? The United States military, their National Guard, their police force, their top level police force. I wouldn't be surprised if some of the msad from over there in Israel get a hand in it. You know, they hate us. They going to be bringing evil on us. That's what the Bible is saying. This is Jacob's trouble.
 
@@ -313,28 +313,28 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy"]
 **[Wisdom of Solomon 2:16-21](/bible/wisdom-of-solomon/2#v16)**  *[[43:20](https://www.youtube.com/watch?v=YERICqJxPmw&t=2600s)]*
 
 > <sup>[16](/bible/wisdom-of-solomon/2#v16)</sup> We are esteemed of him as counterfeits: he abstaineth from our ways as from filthiness: he pronounceth the end of the just to be blessed, and maketh his boast that God is his father.
->
-> <sup>[17](/bible/wisdom-of-solomon/2#v17)</sup> Let us see if his words be true: and let us prove what shall happen in the end of him.
->
-> <sup>[18](/bible/wisdom-of-solomon/2#v18)</sup> For if the just man be the son of God, he will help him, and deliver him from the hand of his enemies.
->
-> <sup>[19](/bible/wisdom-of-solomon/2#v19)</sup> Let us examine him with despitefulness and torture, that we may know his meekness, and prove his patience.
->
-> <sup>[20](/bible/wisdom-of-solomon/2#v20)</sup> Let us condemn him with a shameful death: for by his own saying he shall be respected.
->
-> <sup>[21](/bible/wisdom-of-solomon/2#v21)</sup> Such things they did imagine, and were deceived: for their own wickedness hath blinded them.
 
 - We are esteemed of him as counterfeits: I want y'all to pay attention to this cuz this is talking about Jesus and it's also talking about us. This is talking about Jesus and it's also talking about us. It says we are esteemed of him as counterfeits. Who are they talking about? They talking about Christ. Christ was showing y'all not really the sons of God. Y'all the sons of the devil. Those that hate me and want me to die. Yes, you an Israelite, but you not the sons of God. Yes, you got Israelite blood through your vein, but you not the children of Abraham. You the children of the devil because of the spirit that's in you. In these last days, we telling everybody that the Jewish man ain't the real Jew. He a counterfeit. And guess what? We ain't wearing no G filter fish. We ain't following no damn cabala. We ain't following the towel mud. We ain't following none of that. Y'all counterfeits. You is not the people of God. We going to tell you straight up to your face. And they know that.
 
 - And maketh his boast that God is his father: And they said, "He boasteth that God is his father." Christ did it and we doing it. They hate us for it, too.
 
+> <sup>[17](/bible/wisdom-of-solomon/2#v17)</sup> Let us see if his words be true: and let us prove what shall happen in the end of him.
+
 - Let us see if his words be true: Let's see what's going to happen to him.
+
+> <sup>[18](/bible/wisdom-of-solomon/2#v18)</sup> For if the just man be the son of God, he will help him, and deliver him from the hand of his enemies.
 
 - For if the just man be the son of God, he will help him, and deliver him from the hand of his enemies: It said if he be the son of God, the Lord going to help him and deliver him from his enemies. But that's not God's will. It's not God's will to deliver us at that time. Him allowing us to be martyred is him delivering us by giving us eternal life. Y'all don't know how the Lord work. And that's why you got to read your Bible. When you read your Bible, you understand why the apostles was killed, why Christ was killed. These men had to leave this earth. These men had to be martyred for Christ. They had to be martyred for the Lord.
 
+> <sup>[19](/bible/wisdom-of-solomon/2#v19)</sup> Let us examine him with despitefulness and torture, that we may know his meekness, and prove his patience.
+
 - Let us examine him with despitefulness and torture, that we may know his meekness, and prove his patience: Let's prove he's patient enough. Let's see how meek he is. Let's examine him with despitefulness and torture. See what happened.
 
+> <sup>[20](/bible/wisdom-of-solomon/2#v20)</sup> Let us condemn him with a shameful death: for by his own saying he shall be respected.
+
 - Let us condemn him with a shameful death: Right. A shameful death mean they want to embarrass you. They did things to embarrass Christ. Guess what? They going to do things to embarrass us. That's what it's saying.
+
+> <sup>[21](/bible/wisdom-of-solomon/2#v21)</sup> Such things they did imagine, and were deceived: for their own wickedness hath blinded them.
 
 - For their own wickedness hath blinded them: For their own wickedness have blinded them. So if we be the son of God, God going to help us. That's what he's saying. They're saying the same thing.
 
@@ -373,12 +373,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy"]
 **[Luke 23:42-43](/bible/luke/23#v42)**  *[[49:19](https://www.youtube.com/watch?v=YERICqJxPmw&t=2959s)]*
 
 > <sup>[42](/bible/luke/23#v42)</sup> And he said unto Jesus, Lord, remember me when thou comest into thy kingdom.
->
-> <sup>[43](/bible/luke/23#v43)</sup> And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise.
 
 - Lord, remember me when thou comest into thy kingdom: If he didn't know who Christ was, remember a lot of people deemed him a regular man. If he didn't know who Christ was, why would he say, "Lord, when thou comest into thy kingdom?" You heard the other Jews say, "We have no king but Caesar." They thought that Rome was going to rule forever and they was just going to get the crumbs from the master's table. They had accepted their position in society as being at the bottom. They had forgot that all the scriptures say that Israel supposed to rule. They were living good and they wanted to continue to live good in their captivity like some of you negroes do today. But this brother said, "Lord, when you come into your kingdom, remember me." Why would he say that if he never followed Christ?
 
 - This was a cult following. You know, they were calling Christ following a cult. When you read throughout the New Testament in Acts, they say this sect or this way. When you go into different translations, it uses the word cult. They were calling Christ and the apostles cult leaders. They were calling Paul a leader of the sect or cult of the Nazarenes. They was calling him cult leaders. So when you call us a cult today, we don't even really trip about it. That's the same thing they called the apostles.
+
+> <sup>[43](/bible/luke/23#v43)</sup> And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise.
 
 
 **[Acts 24:14](/bible/acts/24#v14)**  *[[50:42](https://www.youtube.com/watch?v=YERICqJxPmw&t=3042s)]*
@@ -433,10 +433,10 @@ Reading from Acts 24:14, New International Version and New Living Translation (o
 > <sup>[9](/bible/revelation/6#v9)</sup> And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held:
 >
 > <sup>[10](/bible/revelation/6#v10)</sup> And they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth?
->
-> <sup>[11](/bible/revelation/6#v11)</sup> And white robes were given unto every one of them; and it was said unto them, that they should rest yet for a little season, until their fellowservants also and their brethren, that should be killed as they were, should be fulfilled.
 
 - How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth: So these souls are talking. They able to talk. John saw him alive and they were saying, "How long, oh Lord, will thou not avenge our blood on them that dwell on the earth?" They speaking.
+
+> <sup>[11](/bible/revelation/6#v11)</sup> And white robes were given unto every one of them; and it was said unto them, that they should rest yet for a little season, until their fellowservants also and their brethren, that should be killed as they were, should be fulfilled.
 
 - And white robes were given unto every one of them: They not asleep, because he seen them receive robes.
 
@@ -457,22 +457,34 @@ Reading from Acts 24:14, New International Version and New Living Translation (o
 
 **[Luke 23:44-56](/bible/luke/23#v44)**  *[[59:18](https://www.youtube.com/watch?v=YERICqJxPmw&t=3558s)]*
 
+- So that's why Christ told the brother, "Today you will be with me in paradise."
+
 > <sup>[44](/bible/luke/23#v44)</sup> And it was about the sixth hour, and there was a darkness over all the earth until the ninth hour.
 >
 > <sup>[45](/bible/luke/23#v45)</sup> And the sun was darkened, and the veil of the temple was rent in the midst.
->
+
+- And the sun was darkened, and the veil of the temple was rent in the midst: Right. That's a solar eclipse, by the way.
+
 > <sup>[46](/bible/luke/23#v46)</sup> And when Jesus had cried with a loud voice, he said, Father, into thy hands I commend my spirit: and having said thus, he gave up the ghost.
->
+
+- And having said thus, he gave up the ghost: Right? He gave up his life for the Lord.
+
 > <sup>[47](/bible/luke/23#v47)</sup> Now when the centurion saw what was done, he glorified God, saying, Certainly this was a righteous man.
->
+
+- Now when the centurion saw what was done, he glorified God, saying, Certainly this was a righteous man: So the centurion, he looked up. He said, "Wait a minute. It's a solar eclipse for three whole hours. And now I hear this man yell out, 'Father, into thy hands I commend my spirit.' And then he died." The Roman guard said, "Hold up, wait a minute." And this is an Israelite, by the way. The centurion said, "Wait, wait, wait, wait. This man was really righteous and he believed."
+
 > <sup>[48](/bible/luke/23#v48)</sup> And all the people that came together to that sight, beholding the things which were done, smote their breasts, and returned.
->
+
+- And all the people that came together to that sight, beholding the things which were done, smote their breasts, and returned: You know what it mean to smoke your breast? That what it mean to smoke your breath? Like, they was taken back like, man, wait a minute. Wait a minute. He really was who he said he was. When you ever heard of a man being capital punishment, whether it's hung, put in electric chair. Imagine if you was going to see a guy get electrocuted, electric chair. You a lawyer or some type of judge or something and you put this guy in prison, they say, "Okay, we want you, you got to come to an execution. As a judge, you got to come to an execution." And he claimed to be some religious cult leader or something like that. And you pull up and you see them put all the stuff on him like, I think it's John Coffee in Green Mile, and you see them hit that lever. And when they hit that lever to shock him, everything outside just go black. It's middle of the daytime. Everything outside just go black for 3 hours. You hear him yell out, "Father, receive me." He leave and then you going to say, "Wait a minute. Hold up. This man must have really had some power for real." How the hell the damn sun go dark in the middle of the day? How the hell's a solar eclipse when he died all of a sudden? No. They saw great things. They saw earthquakes when he died. People rose up out of their grave and went to go knock on their mama door. You understand? When Christ died, they like, "Yo, he really the guy that he said he was." People couldn't believe it. You ain't never heard nobody dying in that he happened.
+
 > <sup>[49](/bible/luke/23#v49)</sup> And all his acquaintance, and the women that followed him from Galilee, stood afar off, beholding these things.
 >
 > <sup>[50](/bible/luke/23#v50)</sup> And, behold, there was a man named Joseph, a counsellor; and he was a good man, and a just:
 >
 > <sup>[51](/bible/luke/23#v51)</sup> (The same had not consented to the counsel and deed of them;) he was of Arimathea, a city of the Jews: who also himself waited for the kingdom of God.
->
+
+- Who also himself waited for the kingdom of God: So, Joseph believed. He didn't agree with, because Joseph was also a Pharisee, but he didn't agree with them. You'll read different parts of the gospels, and it'll tell you how he kind of contended with them as it pertained to Christ. Like, look, we don't judge a man before we hear him. Like, the law don't say that. He was going back and forth with them a little bit.
+
 > <sup>[52](/bible/luke/23#v52)</sup> This man went unto Pilate, and begged the body of Jesus.
 >
 > <sup>[53](/bible/luke/23#v53)</sup> And he took it down, and wrapped it in linen, and laid it in a sepulchre that was hewn in stone, wherein never man before was laid.
@@ -483,18 +495,6 @@ Reading from Acts 24:14, New International Version and New Living Translation (o
 >
 > <sup>[56](/bible/luke/23#v56)</sup> And they returned, and prepared spices and ointments; and rested the sabbath day according to the commandment.
 
-- So that's why Christ told the brother, "Today you will be with me in paradise."
-
-- And the sun was darkened, and the veil of the temple was rent in the midst: Right. That's a solar eclipse, by the way.
-
-- And having said thus, he gave up the ghost: Right? He gave up his life for the Lord.
-
-- Now when the centurion saw what was done, he glorified God, saying, Certainly this was a righteous man: So the centurion, he looked up. He said, "Wait a minute. It's a solar eclipse for three whole hours. And now I hear this man yell out, 'Father, into thy hands I commend my spirit.' And then he died." The Roman guard said, "Hold up, wait a minute." And this is an Israelite, by the way. The centurion said, "Wait, wait, wait, wait. This man was really righteous and he believed."
-
-- And all the people that came together to that sight, beholding the things which were done, smote their breasts, and returned: You know what it mean to smoke your breast? That what it mean to smoke your breath? Like, they was taken back like, man, wait a minute. Wait a minute. He really was who he said he was. When you ever heard of a man being capital punishment, whether it's hung, put in electric chair. Imagine if you was going to see a guy get electrocuted, electric chair. You a lawyer or some type of judge or something and you put this guy in prison, they say, "Okay, we want you, you got to come to an execution. As a judge, you got to come to an execution." And he claimed to be some religious cult leader or something like that. And you pull up and you see them put all the stuff on him like, I think it's John Coffee in Green Mile, and you see them hit that lever. And when they hit that lever to shock him, everything outside just go black. It's middle of the daytime. Everything outside just go black for 3 hours. You hear him yell out, "Father, receive me." He leave and then you going to say, "Wait a minute. Hold up. This man must have really had some power for real." How the hell the damn sun go dark in the middle of the day? How the hell's a solar eclipse when he died all of a sudden? No. They saw great things. They saw earthquakes when he died. People rose up out of their grave and went to go knock on their mama door. You understand? When Christ died, they like, "Yo, he really the guy that he said he was." People couldn't believe it. You ain't never heard nobody dying in that he happened.
-
-- Who also himself waited for the kingdom of God: So, Joseph believed. He didn't agree with, because Joseph was also a Pharisee, but he didn't agree with them. You'll read different parts of the gospels, and it'll tell you how he kind of contended with them as it pertained to Christ. Like, look, we don't judge a man before we hear him. Like, the law don't say that. He was going back and forth with them a little bit.
-
 - And rested the sabbath day according to the commandment: And they were still keeping the Sabbath after Christ died, for those of you that's, you got to keep the Sabbath. They were keeping the Sabbath directly after Christ died. You understand?
 
 - So, that's Luke chapter 23. I hope y'all brothers and sisters was able to get something from it. We started at verse 23 and we got all the way down to 56. So, we did get a chance to finish the chapter out. So, tomorrow one of the captains will come on. I don't know who scheduled, and they'll pick up at chapter 24.
@@ -502,19 +502,19 @@ Reading from Acts 24:14, New International Version and New Living Translation (o
 
 **[Matthew 10:40-42](/bible/matthew/10#v40)**  *[[1:04:46](https://www.youtube.com/watch?v=YERICqJxPmw&t=3886s)]*
 
-> <sup>[40](/bible/matthew/10#v40)</sup> He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me.
->
-> <sup>[41](/bible/matthew/10#v41)</sup> He that receiveth a prophet in the name of a prophet shall receive a prophet’s reward; and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man’s reward.
->
-> <sup>[42](/bible/matthew/10#v42)</sup> And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward.
-
 - Let me just say something about that real quick. Let me show you something. Matthew chapter 10 about those that contribute to this truth.
 
+> <sup>[40](/bible/matthew/10#v40)</sup> He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me.
+
 - He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me: Right? Cuz you ain't met Christ in person. But Christ sent the prophets and you meet the prophets and you deal with us, right?
+
+> <sup>[41](/bible/matthew/10#v41)</sup> He that receiveth a prophet in the name of a prophet shall receive a prophet’s reward; and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man’s reward.
 
 - He that receiveth a prophet in the name of a prophet shall receive a prophet's reward: You see that, you receive a prophet in the name of a prophet. So we coming in the name of Christ and you receive us into your homes. You receive us into your city. You help us with donations.
 
 - And he that receiveth a righteous man in the name of a righteous man shall receive a righteous man's reward: You'll get a reward for that.
+
+> <sup>[42](/bible/matthew/10#v42)</sup> And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward.
 
 - And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward: You hear that? So some of you may not be able to make the connection, but let me make the connection. Our bishops, deacons, they come before us. They've been teaching this word for a long time. They taught us. And you, some of you've never met them. Some of you may not meet them in person. I don't know. But the Lord will send out the captains, the officers, the soldiers, men that come and build up these different schools and congregations. And because you believe in Christ and you see the works being done, because you see the works that our leaders have done over the years, when you see the younger men coming, you receive us, you help us. The Bible says you going to receive a reward. You will not lose it. So when you help out, like I said, you may not be able to be in the school with us. Some of you may be celebrities watching from a burn account. I know how it go. Some of you in that professional realm where you can't really show your allegiance or show your belief. But let me show you another scripture on that real quick.
 

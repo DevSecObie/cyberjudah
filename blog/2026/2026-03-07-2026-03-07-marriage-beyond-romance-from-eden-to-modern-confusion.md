@@ -224,6 +224,10 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "women"]
 
 **[Tobit 8:4-8](/bible/tobit/8#v4)**  *[[1:33:32](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=5612s)]*
 
+- The pattern so far: Adam and Eve, divine creation and order; Abraham and Sarah, covenant and mission; Isaac and Rebekah, ordained and then love; Jacob and Rachel, attraction and complication. The Bible rarely describes the beauty of wives; Rebekah is known for hospitality and faith, Zipporah's looks are never mentioned, and Elisabeth is called righteous. Sarah's beauty is mentioned only for external threats. Proverbs 31 never says her price is above rubies because she is a baddie. Social media validates sisters with likes and breeds a subtle vanity; be presentable, but do not put status on appearance.
+
+- Tobias rose out of the bed and said, Sister, arise, and let us pray. Blessed art thou, O God of our fathers; thou madest Adam, and gavest him Eve his wife for an helper and stay: of them came mankind. That is the foundation, a nation. His brief prayer speaks volumes about what Tobit taught him; married or unmarried, meditate on these words and do not let them fall.
+
 > <sup>[4](/bible/tobit/8#v4)</sup> And after that they were both shut in together, Tobias rose out of the bed, and said, Sister, arise, and let us pray that God would have pity on us.
 >
 > <sup>[5](/bible/tobit/8#v5)</sup> Then began Tobias to say, Blessed art thou, O God of our fathers, and blessed is thy holy and glorious name for ever; let the heavens bless thee, and all thy creatures.
@@ -231,12 +235,6 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "women"]
 > <sup>[6](/bible/tobit/8#v6)</sup> Thou madest Adam, and gavest him Eve his wife for an helper and stay: of them came mankind: thou hast said, It is not good that man should be alone; let us make unto him an aid like unto himself.
 >
 > <sup>[7](/bible/tobit/8#v7)</sup> And now, O Lord, I take not this my sister for lust but uprightly: therefore mercifully ordain that we may become aged together.
->
-> <sup>[8](/bible/tobit/8#v8)</sup> And she said with him, Amen.
-
-- The pattern so far: Adam and Eve, divine creation and order; Abraham and Sarah, covenant and mission; Isaac and Rebekah, ordained and then love; Jacob and Rachel, attraction and complication. The Bible rarely describes the beauty of wives; Rebekah is known for hospitality and faith, Zipporah's looks are never mentioned, and Elisabeth is called righteous. Sarah's beauty is mentioned only for external threats. Proverbs 31 never says her price is above rubies because she is a baddie. Social media validates sisters with likes and breeds a subtle vanity; be presentable, but do not put status on appearance.
-
-- Tobias rose out of the bed and said, Sister, arise, and let us pray. Blessed art thou, O God of our fathers; thou madest Adam, and gavest him Eve his wife for an helper and stay: of them came mankind. That is the foundation, a nation. His brief prayer speaks volumes about what Tobit taught him; married or unmarried, meditate on these words and do not let them fall.
 
 - Thou hast said, It is not good that man should be alone; let us make unto him an aid like unto himself. And now, O Lord, I take not this my sister for lust, but uprightly: not for attraction or romance; he already said why he takes her. Therefore mercifully ordain that we may become aged together. And she said with him, Amen, because her mind is of her lord, with no what about the house, what about the gifts.
 
@@ -269,6 +267,8 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "women"]
     > <sup>[24](/bible/sirach/36#v24)</sup> He that getteth a wife beginneth a possession, a help like unto himself, and a pillar of rest.
 
     He that getteth a wife beginneth a possession, a help like unto himself, and a pillar of rest. Partnership and support, stability and wisdom over emotional intensity, which comes as a byproduct.
+
+> <sup>[8](/bible/tobit/8#v8)</sup> And she said with him, Amen.
 
 
 *[[1:37:42](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=5862s)]* **In The News: A definition of aged together, put up by the tech team.** — The long-term intertwined journey of partners growing old side by side, shared history, mutual support through life's changes, accepting the natural aging process, and navigating challenges as a team. Aged means refined, like wine and cheese. Everything else gets established first or the romance is fleeting.

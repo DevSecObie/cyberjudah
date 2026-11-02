@@ -90,13 +90,23 @@ Reading from a definition of subtle, looked up in class  *[[16:14](https://www.y
 **[Matthew 24:6-14](/bible/matthew/24#v6)**  *[[18:48](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=1128s)]*
 
 > <sup>[6](/bible/matthew/24#v6)</sup> And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.
->
+
+- Ye shall hear of wars and rumours of wars: we are in that time now. See that ye be not troubled by what you are seeing on the news. Nation shall rise against nation, and kingdom against kingdom. All these are the beginning of sorrows.
+
 > <sup>[7](/bible/matthew/24#v7)</sup> For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.
 >
 > <sup>[8](/bible/matthew/24#v8)</sup> All these are the beginning of sorrows.
 >
 > <sup>[9](/bible/matthew/24#v9)</sup> Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name’s sake.
->
+
+- Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name's sake. And then shall many be offended, and shall betray one another, and shall hate one another. What is happening now is the transition: Israelites slowly transitioning into Christianity or into the world, while trying to keep elements of Israelite doctrine at the same time.
+
+- Christ said you cannot serve two masters. So over time, because the nation salvation doctrine is a doctrine that serves the oppressor, you start to include more things: no more feast days, no more beard, no more fringes. It cannot be done outright; it has to be gradual. The twelve tribes chart is wrong now, because the man who taught it went off. The seals have not opened yet. America is not really Babylon. That is the transition over time into Christianity, because they want the world.
+
+- And many false prophets shall rise, and shall deceive many. And because iniquity shall abound, the love of many shall wax cold. The laws of God will be persecuted against; they are already passing laws, covertly and overtly, to silence and suppress this truth. Many Israelites who do not like us but watch our classes are paying attention to that, and they are positioning themselves so that when the persecution comes, they think they will be safe. You teach that only Israelites are going to be saved, that is racism; I teach everybody is going to be saved, there are some good ones. Transition: that is the beginning stage of betrayal.
+
+- But he that shall endure unto the end, the same shall be saved.
+
 > <sup>[10](/bible/matthew/24#v10)</sup> And then shall many be offended, and shall betray one another, and shall hate one another.
 >
 > <sup>[11](/bible/matthew/24#v11)</sup> And many false prophets shall rise, and shall deceive many.
@@ -106,12 +116,6 @@ Reading from a definition of subtle, looked up in class  *[[16:14](https://www.y
 > <sup>[13](/bible/matthew/24#v13)</sup> But he that shall endure unto the end, the same shall be saved.
 >
 > <sup>[14](/bible/matthew/24#v14)</sup> And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.
-
-- Ye shall hear of wars and rumours of wars: we are in that time now. See that ye be not troubled by what you are seeing on the news. Nation shall rise against nation, and kingdom against kingdom. All these are the beginning of sorrows.
-- Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name's sake. And then shall many be offended, and shall betray one another, and shall hate one another. What is happening now is the transition: Israelites slowly transitioning into Christianity or into the world, while trying to keep elements of Israelite doctrine at the same time.
-- Christ said you cannot serve two masters. So over time, because the nation salvation doctrine is a doctrine that serves the oppressor, you start to include more things: no more feast days, no more beard, no more fringes. It cannot be done outright; it has to be gradual. The twelve tribes chart is wrong now, because the man who taught it went off. The seals have not opened yet. America is not really Babylon. That is the transition over time into Christianity, because they want the world.
-- And many false prophets shall rise, and shall deceive many. And because iniquity shall abound, the love of many shall wax cold. The laws of God will be persecuted against; they are already passing laws, covertly and overtly, to silence and suppress this truth. Many Israelites who do not like us but watch our classes are paying attention to that, and they are positioning themselves so that when the persecution comes, they think they will be safe. You teach that only Israelites are going to be saved, that is racism; I teach everybody is going to be saved, there are some good ones. Transition: that is the beginning stage of betrayal.
-- But he that shall endure unto the end, the same shall be saved.
 
 **[Acts 8:1](/bible/acts/8#v1)**  *[[23:50](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=1430s)]*
 
@@ -143,15 +147,16 @@ Reading from a definition of subtle, looked up in class  *[[16:14](https://www.y
 > <sup>[35](/bible/romans/8#v35)</sup> Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?
 >
 > <sup>[36](/bible/romans/8#v36)</sup> As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.
->
+
+- Who shall separate us from the love of Christ? Shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword? As it is written, for thy sake we are killed all the day long: that is to be expected. Nay, in all these things we are more than conquerors through him that loved us. Nothing shall be able to separate us from the love of God.
+
+- In this truth you have to prepare your mind and your body for persecution and tribulation. A lot of Israelites do not want that, so they try to make captivity home: we are going to be here forever, America is not Babylon, no other captivity is coming. Based on that doctrine, we are here until the end. That is what they are trying to avoid by playing it safe.
+
 > <sup>[37](/bible/romans/8#v37)</sup> Nay, in all these things we are more than conquerors through him that loved us.
 >
 > <sup>[38](/bible/romans/8#v38)</sup> For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,
 >
 > <sup>[39](/bible/romans/8#v39)</sup> Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.
-
-- Who shall separate us from the love of Christ? Shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword? As it is written, for thy sake we are killed all the day long: that is to be expected. Nay, in all these things we are more than conquerors through him that loved us. Nothing shall be able to separate us from the love of God.
-- In this truth you have to prepare your mind and your body for persecution and tribulation. A lot of Israelites do not want that, so they try to make captivity home: we are going to be here forever, America is not Babylon, no other captivity is coming. Based on that doctrine, we are here until the end. That is what they are trying to avoid by playing it safe.
 
 **[2 Corinthians 12:10](/bible/2-corinthians/12#v10)**  *[[35:59](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=2159s)]*
 
@@ -174,6 +179,24 @@ Reading from a definition of subtle, looked up in class  *[[16:14](https://www.y
 
 **[Isaiah 28:6-15](/bible/isaiah/28#v6)**  *[[41:00](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=2460s)]*
 
+- Isaiah is prophesying against the rulers of his time. They have erred through wine, and through strong drink are out of the way: the priest and the prophet have erred through strong drink, they err in vision, they stumble in judgment. This is not about them literally getting drunk; the wine and strong drink are the falsehoods and lies, the doctrines they push.
+
+  Precepts:
+  - **[Micah 2:11](/bible/micah/2#v11)**
+    > <sup>[11](/bible/micah/2#v11)</sup> If a man walking in the spirit and falsehood do lie, saying, I will prophesy unto thee of wine and of strong drink; he shall even be the prophet of this people.
+
+    If a man walking in the spirit and falsehood do lie, saying, I will prophesy unto thee of wine and of strong drink; he shall even be the prophet of this people. The wine and strong drink are the lies. That is what Isaiah 28 is talking about.
+
+- Whom shall he teach knowledge? and whom shall he make to understand doctrine? Them that are weaned from the milk, and drawn from the breasts. The milk is the word of God, as you read in 1 Peter 2:2; the breast it comes from is the Old and New Testament, the Bible.
+
+- For precept must be upon precept, line upon line, here a little, and there a little. You have Israelites who say that is not what that means. That is exactly what it means. Each prophet the Most High dealt with was given a piece of the puzzle, and you put it together. Paul did it all the time: he pulled from Psalms, from Isaiah, from Hosea, and put the letters together. They did not have the Bible compiled like we do; they had hundreds of scrolls, and Paul had it in his head because he was well learned. Even in the law of Moses it is here a little, there a little: the prophet of Deuteronomy 18 is the angel of Exodus 23:20; Genesis 49 goes with Numbers 24; Exodus 20 goes with Deuteronomy 5.
+
+- It does not say precept upon commentary. A lot of Israelites are starting to listen to commentaries and adopt apologetic teaching methods: exegesis, hermeneutics, eight and nine different Bibles. It is confusion; they are adopting the doctrine of the oppressor because they are getting fearful of being confounded in the Greek and Hebrew. You can handle a question with the precepts quickly. They will say, in the Hebrew the word world is not in Isaiah 45:17, it says ages. Fine: when Christ spoke to the world in John, was that ages too? When the Pharisees said the world is gone after him, was that ages? Precepts on top of precepts; they cannot argue that. The precept is what you use to destroy every lie. If a Bible you use helps you understand the King James, use it; but if it goes against it, no. The King James and the precepts go hand in hand. In the old days they were shutting Times Square down with precepts alone.
+
+- For with stammering lips and another tongue will he speak to this people. Meaning the Lord will bring his word in different languages. It was fulfilled in Acts, where the spirit came on the disciples to speak the word in the languages of the people who came to keep the feast. If the original language were truly a necessity, why did the Lord not put the spirit on the foreign Jews to speak Hebrew instead? That would have been the miracle. Instead the Lord said, you are going to hear my word in all the places you are scattered: in Creole, in Chichewa, in Twi, in French, in Spanish, in Swahili, in Portuguese, in Amharic. But Israel harps on the Hebrew and gets confounded.
+
+- The word of the Lord was unto them precept upon precept, line upon line; that they might go, and fall backward, and be broken, and snared, and taken. It was done that way on purpose, to confound the wicked rulers of our people. That is why the Bible is written in parables in some instances.
+
 > <sup>[6](/bible/isaiah/28#v6)</sup> And for a spirit of judgment to him that sitteth in judgment, and for strength to them that turn the battle to the gate.
 >
 > <sup>[7](/bible/isaiah/28#v7)</sup> But they also have erred through wine, and through strong drink are out of the way; the priest and the prophet have erred through strong drink, they are swallowed up of wine, they are out of the way through strong drink; they err in vision, they stumble in judgment.
@@ -191,23 +214,10 @@ Reading from a definition of subtle, looked up in class  *[[16:14](https://www.y
 > <sup>[13](/bible/isaiah/28#v13)</sup> But the word of the Lord was unto them precept upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little; that they might go, and fall backward, and be broken, and snared, and taken.
 >
 > <sup>[14](/bible/isaiah/28#v14)</sup> Wherefore hear the word of the Lord, ye scornful men, that rule this people which is in Jerusalem.
->
-> <sup>[15](/bible/isaiah/28#v15)</sup> Because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves:
 
-- Isaiah is prophesying against the rulers of his time. They have erred through wine, and through strong drink are out of the way: the priest and the prophet have erred through strong drink, they err in vision, they stumble in judgment. This is not about them literally getting drunk; the wine and strong drink are the falsehoods and lies, the doctrines they push.
-
-  Precepts:
-  - **[Micah 2:11](/bible/micah/2#v11)**
-    > <sup>[11](/bible/micah/2#v11)</sup> If a man walking in the spirit and falsehood do lie, saying, I will prophesy unto thee of wine and of strong drink; he shall even be the prophet of this people.
-
-    If a man walking in the spirit and falsehood do lie, saying, I will prophesy unto thee of wine and of strong drink; he shall even be the prophet of this people. The wine and strong drink are the lies. That is what Isaiah 28 is talking about.
-
-- Whom shall he teach knowledge? and whom shall he make to understand doctrine? Them that are weaned from the milk, and drawn from the breasts. The milk is the word of God, as you read in 1 Peter 2:2; the breast it comes from is the Old and New Testament, the Bible.
-- For precept must be upon precept, line upon line, here a little, and there a little. You have Israelites who say that is not what that means. That is exactly what it means. Each prophet the Most High dealt with was given a piece of the puzzle, and you put it together. Paul did it all the time: he pulled from Psalms, from Isaiah, from Hosea, and put the letters together. They did not have the Bible compiled like we do; they had hundreds of scrolls, and Paul had it in his head because he was well learned. Even in the law of Moses it is here a little, there a little: the prophet of Deuteronomy 18 is the angel of Exodus 23:20; Genesis 49 goes with Numbers 24; Exodus 20 goes with Deuteronomy 5.
-- It does not say precept upon commentary. A lot of Israelites are starting to listen to commentaries and adopt apologetic teaching methods: exegesis, hermeneutics, eight and nine different Bibles. It is confusion; they are adopting the doctrine of the oppressor because they are getting fearful of being confounded in the Greek and Hebrew. You can handle a question with the precepts quickly. They will say, in the Hebrew the word world is not in Isaiah 45:17, it says ages. Fine: when Christ spoke to the world in John, was that ages too? When the Pharisees said the world is gone after him, was that ages? Precepts on top of precepts; they cannot argue that. The precept is what you use to destroy every lie. If a Bible you use helps you understand the King James, use it; but if it goes against it, no. The King James and the precepts go hand in hand. In the old days they were shutting Times Square down with precepts alone.
-- For with stammering lips and another tongue will he speak to this people. Meaning the Lord will bring his word in different languages. It was fulfilled in Acts, where the spirit came on the disciples to speak the word in the languages of the people who came to keep the feast. If the original language were truly a necessity, why did the Lord not put the spirit on the foreign Jews to speak Hebrew instead? That would have been the miracle. Instead the Lord said, you are going to hear my word in all the places you are scattered: in Creole, in Chichewa, in Twi, in French, in Spanish, in Swahili, in Portuguese, in Amharic. But Israel harps on the Hebrew and gets confounded.
-- The word of the Lord was unto them precept upon precept, line upon line; that they might go, and fall backward, and be broken, and snared, and taken. It was done that way on purpose, to confound the wicked rulers of our people. That is why the Bible is written in parables in some instances.
 - Wherefore hear the word of the Lord, ye scornful men, that rule this people: because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves. That is the play-it-safe doctrine: I teach everybody can be saved, I teach the captors are not our adversary in prophecy, so I am safe; the scourge will pass me by. They have made lies their refuge.
+
+> <sup>[15](/bible/isaiah/28#v15)</sup> Because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves:
 
 **[1 Maccabees 1:11, 15](/bible/1-maccabees/1#v11)**  *[[53:15](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=3195s)]*
 
@@ -238,15 +248,17 @@ Reading from a definition of subtle, looked up in class  *[[16:14](https://www.y
 
 **[Mark 4:17-19](/bible/mark/4#v17)**  *[[1:03:14](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=3794s)]*
 
+- This type of Israelite has no root in himself: he does not study, does not apply, and so endures but for a time. When affliction or persecution ariseth for the word's sake, immediately they are offended.
+
 > <sup>[17](/bible/mark/4#v17)</sup> And have no root in themselves, and so endure but for a time: afterward, when affliction or persecution ariseth for the word’s sake, immediately they are offended.
 >
 > <sup>[18](/bible/mark/4#v18)</sup> And these are they which are sown among thorns; such as hear the word,
->
-> <sup>[19](/bible/mark/4#v19)</sup> And the cares of this world, and the deceitfulness of riches, and the lusts of other things entering in, choke the word, and it becometh unfruitful.
 
-- This type of Israelite has no root in himself: he does not study, does not apply, and so endures but for a time. When affliction or persecution ariseth for the word's sake, immediately they are offended.
 - These are they which are sown among thorns: they are in the world, around the wicked, dabbling in the world. You have some who are Israelite on one hand and gang affiliated on the other, pushing street culture on one side and Israel on the other. You cannot serve both.
+
 - The cares of this world, and the deceitfulness of riches, and the lusts of other things entering in, choke the word, and it becometh unfruitful. Deceitfulness of riches: sold to do mischief. The lust of other things: women, fame, to be well spoken of in this captivity. It chokes the word, and they go right back into the world.
+
+> <sup>[19](/bible/mark/4#v19)</sup> And the cares of this world, and the deceitfulness of riches, and the lusts of other things entering in, choke the word, and it becometh unfruitful.
 
 **[2 Peter 2:1-3, 10-15](/bible/2-peter/2#v1)**  *[[1:05:14](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=3914s)]*
 
@@ -285,16 +297,18 @@ Reading from a definition of subtle, looked up in class  *[[16:14](https://www.y
 
 **[Jude 1:8-11](/bible/jude/1#v8)**  *[[1:20:31](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=4831s)]*
 
+- These filthy dreamers defile the flesh, despise dominion, and speak evil of dignities. They do not respect the elders. I was taught by my elders to respect my elders, and it goes a long way. The understanding back then was not where it is now, but what they had back then, we utilized and built upon. The truth was small then; now it has grown so much it is nearly a trend to be an Israelite. But it started with those men, regardless of their mistakes. The Lord is our foundation first and foremost, but he used those men.
+
 > <sup>[8](/bible/jude/1#v8)</sup> Likewise also these filthy dreamers defile the flesh, despise dominion, and speak evil of dignities.
 >
 > <sup>[9](/bible/jude/1#v9)</sup> Yet Michael the archangel, when contending with the devil he disputed about the body of Moses, durst not bring against him a railing accusation, but said, The Lord rebuke thee.
 >
 > <sup>[10](/bible/jude/1#v10)</sup> But these speak evil of those things which they know not: but what they know naturally, as brute beasts, in those things they corrupt themselves.
->
+
+- Yet Michael the archangel, when contending with the devil he disputed about the body of Moses, durst not bring against him a railing accusation, but said, The Lord rebuke thee. But these speak evil of those things which they know not: what they know naturally, as brute beasts, in those things they corrupt themselves.
+
 > <sup>[11](/bible/jude/1#v11)</sup> Woe unto them! for they have gone in the way of Cain, and ran greedily after the error of Balaam for reward, and perished in the gainsaying of Core.
 
-- These filthy dreamers defile the flesh, despise dominion, and speak evil of dignities. They do not respect the elders. I was taught by my elders to respect my elders, and it goes a long way. The understanding back then was not where it is now, but what they had back then, we utilized and built upon. The truth was small then; now it has grown so much it is nearly a trend to be an Israelite. But it started with those men, regardless of their mistakes. The Lord is our foundation first and foremost, but he used those men.
-- Yet Michael the archangel, when contending with the devil he disputed about the body of Moses, durst not bring against him a railing accusation, but said, The Lord rebuke thee. But these speak evil of those things which they know not: what they know naturally, as brute beasts, in those things they corrupt themselves.
 - Woe unto them! for they have gone in the way of Cain: they hate their brothers and sisters. And ran greedily after the error of Balaam for reward: money. And perished in the gainsaying of Core: they want position, they want rank, they want preeminence.
 
 <div class="reading">
@@ -436,7 +450,9 @@ Reading from an SPLC article  *[[1:42:12](https://www.youtube.com/watch?v=j2FoUS
 **[Galatians 5:1-13](/bible/galatians/5#v1)**  *[[1:58:20](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=7100s)]*
 
 > <sup>[1](/bible/galatians/5#v1)</sup> Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.
->
+
+- Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage: sacrifice. If ye be circumcised after the manner of Moses, Christ shall profit you nothing; every man that is circumcised that way is a debtor to do the whole law. Whosoever of you are justified by that law, ye are fallen from grace: if animal sacrifice saves you, then Christ died for nothing.
+
 > <sup>[2](/bible/galatians/5#v2)</sup> Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing.
 >
 > <sup>[3](/bible/galatians/5#v3)</sup> For I testify again to every man that is circumcised, that he is a debtor to do the whole law.
@@ -446,13 +462,17 @@ Reading from an SPLC article  *[[1:42:12](https://www.youtube.com/watch?v=j2FoUS
 > <sup>[5](/bible/galatians/5#v5)</sup> For we through the Spirit wait for the hope of righteousness by faith.
 >
 > <sup>[6](/bible/galatians/5#v6)</sup> For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.
->
+
+- In Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love: faith working by keeping God's commandments.
+
 > <sup>[7](/bible/galatians/5#v7)</sup> Ye did run well; who did hinder you that ye should not obey the truth?
 >
 > <sup>[8](/bible/galatians/5#v8)</sup> This persuasion cometh not of him that calleth you.
 >
 > <sup>[9](/bible/galatians/5#v9)</sup> A little leaven leaveneth the whole lump.
->
+
+- Ye did run well; who did hinder you that ye should not obey the truth? This persuasion cometh not of him that calleth you. A little leaven leaveneth the whole lump: someone infiltrating the church. He that troubleth you shall bear his judgment, whosoever he be.
+
 > <sup>[10](/bible/galatians/5#v10)</sup> I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be.
 >
 > <sup>[11](/bible/galatians/5#v11)</sup> And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased.
@@ -461,9 +481,6 @@ Reading from an SPLC article  *[[1:42:12](https://www.youtube.com/watch?v=j2FoUS
 >
 > <sup>[13](/bible/galatians/5#v13)</sup> For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another.
 
-- Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage: sacrifice. If ye be circumcised after the manner of Moses, Christ shall profit you nothing; every man that is circumcised that way is a debtor to do the whole law. Whosoever of you are justified by that law, ye are fallen from grace: if animal sacrifice saves you, then Christ died for nothing.
-- In Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love: faith working by keeping God's commandments.
-- Ye did run well; who did hinder you that ye should not obey the truth? This persuasion cometh not of him that calleth you. A little leaven leaveneth the whole lump: someone infiltrating the church. He that troubleth you shall bear his judgment, whosoever he be.
 - Brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh: do not use this grace to do what you want and sin. But by love serve one another.
 
 **[2 Thessalonians 1:5-7](/bible/2-thessalonians/1#v5)**  *[[2:00:31](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=7231s)]*
@@ -479,10 +496,10 @@ Reading from an SPLC article  *[[1:42:12](https://www.youtube.com/watch?v=j2FoUS
 **[1 John 2:18-19](/bible/1-john/2#v18)**  *[[2:01:35](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=7295s)]*
 
 > <sup>[18](/bible/1-john/2#v18)</sup> Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time.
->
-> <sup>[19](/bible/1-john/2#v19)</sup> They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us: but they went out, that they might be made manifest that they were not all of us.
 
 - Little children, it is the last time: even now are there many antichrists. They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us. People leave out of here for no real reason at all: I am angry, I do not know why, I am leaving. They went out, that they might be made manifest that they were not all of us. They did not believe.
+
+> <sup>[19](/bible/1-john/2#v19)</sup> They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us: but they went out, that they might be made manifest that they were not all of us.
 
 **[Matthew 27:27-31](/bible/matthew/27#v27)**  *[[2:02:40](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=7360s)]*
 
@@ -520,32 +537,37 @@ Reading from an SPLC article  *[[1:42:12](https://www.youtube.com/watch?v=j2FoUS
 
 **[Luke 6:22-25](/bible/luke/6#v22)**  *[[2:09:58](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=7798s)]*
 
+- Blessed are ye, when men shall hate you, and when they shall separate you from their company, and shall reproach you, and cast out your name as evil, for the Son of man's sake. Not loved and liked and accepted by everybody. You are a cult, you are hate mongers, you are racist: cast out your name as evil.
+
 > <sup>[22](/bible/luke/6#v22)</sup> Blessed are ye, when men shall hate you, and when they shall separate you from their company, and shall reproach you, and cast out your name as evil, for the Son of man’s sake.
 >
 > <sup>[23](/bible/luke/6#v23)</sup> Rejoice ye in that day, and leap for joy: for, behold, your reward is great in heaven: for in the like manner did their fathers unto the prophets.
->
+
+- Rejoice ye in that day, and leap for joy: for, behold, your reward is great in heaven: for in the like manner did their fathers unto the prophets. What happens to us today happened to our prophets yesterday.
+
+- But woe unto you that are rich! for ye have received your consolation. Woe unto you that are full! Woe unto you that laugh now! for ye shall mourn and weep. In this truth you are supposed to accept and face opposition, mockery, and misuse. I know bitterness when I hear it, and that is what is being spoken from.
+
 > <sup>[24](/bible/luke/6#v24)</sup> But woe unto you that are rich! for ye have received your consolation.
 >
 > <sup>[25](/bible/luke/6#v25)</sup> Woe unto you that are full! for ye shall hunger. Woe unto you that laugh now! for ye shall mourn and weep.
 
-- Blessed are ye, when men shall hate you, and when they shall separate you from their company, and shall reproach you, and cast out your name as evil, for the Son of man's sake. Not loved and liked and accepted by everybody. You are a cult, you are hate mongers, you are racist: cast out your name as evil.
-- Rejoice ye in that day, and leap for joy: for, behold, your reward is great in heaven: for in the like manner did their fathers unto the prophets. What happens to us today happened to our prophets yesterday.
-- But woe unto you that are rich! for ye have received your consolation. Woe unto you that are full! Woe unto you that laugh now! for ye shall mourn and weep. In this truth you are supposed to accept and face opposition, mockery, and misuse. I know bitterness when I hear it, and that is what is being spoken from.
-
 **[Jude 1:17-20](/bible/jude/1#v17)**  *[[2:17:39](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=8259s)]*
 
+- Now the third group: the individualites, the wandering stars who want the camps gone. Video shown in class: a lone online teacher ranking the "most dangerous Hebrew Israelite camps to examine," listing this organization among them for strict doctrine, discipline, a large following, and global outreach. When did strict doctrine, discipline, and global outreach become dangerous? And the same page sells shirts with fringes on the borders, a practice these teachers learned from watching the camps they condemn. You will bad-mouth camps as dangerous, but sit down, learn from them, and sell what they taught.
+
 > <sup>[17](/bible/jude/1#v17)</sup> But, beloved, remember ye the words which were spoken before of the apostles of our Lord Jesus Christ;
->
+
+- Remember ye the words which were spoken before of the apostles: there should be mockers in the last time, who should walk after their own ungodly lusts. These be they who separate themselves, sensual, having not the Spirit. People who say, that is why I am not joining any camp, while they sit there engaged, watching and taking notes: you are joining them; you may not be with them physically, but you are learning from them.
+
+- Why do they want camps gone? Since camps have been around, the truth has grown so much that the world now recognizes an Israelite when it sees one, and the ones still doing worldly things get asked, are you not an Israelite? They cannot hide anymore. They want camps gone so they can blend back into the world and keep doing what they do.
+
+- But ye, beloved, building up yourselves on your most holy faith.
+
 > <sup>[18](/bible/jude/1#v18)</sup> How that they told you there should be mockers in the last time, who should walk after their own ungodly lusts.
 >
 > <sup>[19](/bible/jude/1#v19)</sup> These be they who separate themselves, sensual, having not the Spirit.
 >
 > <sup>[20](/bible/jude/1#v20)</sup> But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost,
-
-- Now the third group: the individualites, the wandering stars who want the camps gone. Video shown in class: a lone online teacher ranking the "most dangerous Hebrew Israelite camps to examine," listing this organization among them for strict doctrine, discipline, a large following, and global outreach. When did strict doctrine, discipline, and global outreach become dangerous? And the same page sells shirts with fringes on the borders, a practice these teachers learned from watching the camps they condemn. You will bad-mouth camps as dangerous, but sit down, learn from them, and sell what they taught.
-- Remember ye the words which were spoken before of the apostles: there should be mockers in the last time, who should walk after their own ungodly lusts. These be they who separate themselves, sensual, having not the Spirit. People who say, that is why I am not joining any camp, while they sit there engaged, watching and taking notes: you are joining them; you may not be with them physically, but you are learning from them.
-- Why do they want camps gone? Since camps have been around, the truth has grown so much that the world now recognizes an Israelite when it sees one, and the ones still doing worldly things get asked, are you not an Israelite? They cannot hide anymore. They want camps gone so they can blend back into the world and keep doing what they do.
-- But ye, beloved, building up yourselves on your most holy faith.
 
 **[Hebrews 10:23-25](/bible/hebrews/10#v23)**  *[[2:20:02](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=8402s)]*
 
@@ -609,20 +631,25 @@ Reading from an SPLC article  *[[1:42:12](https://www.youtube.com/watch?v=j2FoUS
 **[Romans 13:11-14](/bible/romans/13#v11)**  *[[2:26:50](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=8810s)]*
 
 > <sup>[11](/bible/romans/13#v11)</sup> And that, knowing the time, that now it is high time to awake out of sleep: for now is our salvation nearer than when we believed.
->
+
+- Now it is high time to awake out of sleep: for now is our salvation nearer than when we believed. The night is far spent, the day is at hand: the day of the Lord. Let us therefore cast off the works of darkness, and let us put on the armour of light.
+
+- Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying. But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof.
+
 > <sup>[12](/bible/romans/13#v12)</sup> The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light.
 >
 > <sup>[13](/bible/romans/13#v13)</sup> Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying.
 >
 > <sup>[14](/bible/romans/13#v14)</sup> But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof.
 
-- Now it is high time to awake out of sleep: for now is our salvation nearer than when we believed. The night is far spent, the day is at hand: the day of the Lord. Let us therefore cast off the works of darkness, and let us put on the armour of light.
-- Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying. But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof.
-
 **[1 Corinthians 4:9-13](/bible/1-corinthians/4#v9)**  *[[2:27:43](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=8863s)]*
 
 > <sup>[9](/bible/1-corinthians/4#v9)</sup> For I think that God hath set forth us the apostles last, as it were appointed to death: for we are made a spectacle unto the world, and to angels, and to men.
->
+
+- God hath set forth us the apostles last, as it were appointed to death: for we are made a spectacle unto the world. That is what the hiders do not want: they want to be Israelites in the background. No; if you are in this truth, you are a light that shines on a mountaintop. You cannot blend in. That is why they want the camps gone, because the camps put this truth in the forefront. You are going to die in the background too.
+
+- We are fools for Christ's sake; we are weak; we are despised; being reviled, we bless; being persecuted, we suffer it: being defamed, we intreat. Reviled means slandered and lied on; defamed is being labeled hateful and phobic. We are made as the filth of the world, the offscouring of all things unto this day. Rejected, but the Lord does not reject us; the Lord has our back.
+
 > <sup>[10](/bible/1-corinthians/4#v10)</sup> We are fools for Christ’s sake, but ye are wise in Christ; we are weak, but ye are strong; ye are honourable, but we are despised.
 >
 > <sup>[11](/bible/1-corinthians/4#v11)</sup> Even unto this present hour we both hunger, and thirst, and are naked, and are buffeted, and have no certain dwellingplace;
@@ -630,9 +657,6 @@ Reading from an SPLC article  *[[1:42:12](https://www.youtube.com/watch?v=j2FoUS
 > <sup>[12](/bible/1-corinthians/4#v12)</sup> And labour, working with our own hands: being reviled, we bless; being persecuted, we suffer it:
 >
 > <sup>[13](/bible/1-corinthians/4#v13)</sup> Being defamed, we intreat: we are made as the filth of the world, and are the offscouring of all things unto this day.
-
-- God hath set forth us the apostles last, as it were appointed to death: for we are made a spectacle unto the world. That is what the hiders do not want: they want to be Israelites in the background. No; if you are in this truth, you are a light that shines on a mountaintop. You cannot blend in. That is why they want the camps gone, because the camps put this truth in the forefront. You are going to die in the background too.
-- We are fools for Christ's sake; we are weak; we are despised; being reviled, we bless; being persecuted, we suffer it: being defamed, we intreat. Reviled means slandered and lied on; defamed is being labeled hateful and phobic. We are made as the filth of the world, the offscouring of all things unto this day. Rejected, but the Lord does not reject us; the Lord has our back.
 
 **[Hebrews 10:33](/bible/hebrews/10#v33)**  *[[2:29:25](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=8965s)]*
 

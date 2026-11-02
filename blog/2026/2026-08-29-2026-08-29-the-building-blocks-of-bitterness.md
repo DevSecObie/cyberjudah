@@ -63,8 +63,6 @@ The definitions on the screen:
 **[1 Corinthians 6:9-10](/bible/1-corinthians/6#v9)**  *[[27:45](https://www.youtube.com/watch?v=d9CXnvRB7es&t=1665s)]*
 
 > <sup>[9](/bible/1-corinthians/6#v9)</sup> Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,
->
-> <sup>[10](/bible/1-corinthians/6#v10)</sup> Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God.
 
 - Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind.
 
@@ -73,6 +71,8 @@ The definitions on the screen:
 - The definition of a reviler: a person who uses cruel, insulting or abusive language to attack the character or reputation of someone else. To attack. So as you can see, everything else was dealing with idolatry, adultery, being effeminate, abusers of themselves with mankind, going into sodomy. You have covetousness, drunkards, extortioners. All these things we are pretty familiar with. But then it says revilers. And you are like, wait a minute. Can bitterness cause you to do this, sisters? Right.
 
 - So save this portion, because we are going to unpack it later. The unrighteous shall not inherit the kingdom of God. And one of those unrighteous that is listed is revilers. Remember that.
+
+> <sup>[10](/bible/1-corinthians/6#v10)</sup> Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God.
 
 **[2 Corinthians 12:20-21](/bible/2-corinthians/12#v20)**  *[[30:47](https://www.youtube.com/watch?v=d9CXnvRB7es&t=1847s)]*
 
@@ -199,10 +199,10 @@ The definitions on the screen:
 **[Leviticus 19:17-18](/bible/leviticus/19#v17)**  *[[1:02:57](https://www.youtube.com/watch?v=d9CXnvRB7es&t=3777s)]*
 
 > <sup>[17](/bible/leviticus/19#v17)</sup> Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
->
-> <sup>[18](/bible/leviticus/19#v18)</sup> Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord.
 
 - Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
+
+> <sup>[18](/bible/leviticus/19#v18)</sup> Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord.
 
 - Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord.
 
@@ -237,10 +237,6 @@ The definitions on the screen:
 **[1 Samuel 10:5-7](/bible/1-samuel/10#v5)**  *[[1:08:04](https://www.youtube.com/watch?v=d9CXnvRB7es&t=4084s)]*
 
 > <sup>[5](/bible/1-samuel/10#v5)</sup> After that thou shalt come to the hill of God, where is the garrison of the Philistines: and it shall come to pass, when thou art come thither to the city, that thou shalt meet a company of prophets coming down from the high place with a psaltery, and a tabret, and a pipe, and a harp, before them; and they shall prophesy:
->
-> <sup>[6](/bible/1-samuel/10#v6)</sup> And the Spirit of the Lord will come upon thee, and thou shalt prophesy with them, and shalt be turned into another man.
->
-> <sup>[7](/bible/1-samuel/10#v7)</sup> And let it be, when these signs are come unto thee, that thou do as occasion serve thee; for God is with thee.
 
 - After that thou shalt come to the hill of God, where is the garrison of the Philistines: and it shall come to pass, when thou art come thither to the city, that thou shalt meet a company of prophets coming down from the high place with a psaltery, and a tabret, and a pipe, and a harp, before them; and they shall prophesy. And they shall prophesy. Meaning they were already prophesying. This is what they do.
 
@@ -253,6 +249,10 @@ The definitions on the screen:
 - And shalt be turned into another man. All praises to the Most High God. All praises for being turned into another man. Or did you? That is the question.
 
 - And let it be, when these signs are come unto thee, that thou do as occasion serve thee; for God is with thee. So God is with you.
+
+> <sup>[6](/bible/1-samuel/10#v6)</sup> And the Spirit of the Lord will come upon thee, and thou shalt prophesy with them, and shalt be turned into another man.
+>
+> <sup>[7](/bible/1-samuel/10#v7)</sup> And let it be, when these signs are come unto thee, that thou do as occasion serve thee; for God is with thee.
 
 **[1 Samuel 10:10-12](/bible/1-samuel/10#v10)**  *[[1:12:56](https://www.youtube.com/watch?v=d9CXnvRB7es&t=4376s)]*
 
@@ -277,16 +277,16 @@ The definitions on the screen:
 **[1 Samuel 15:1-3](/bible/1-samuel/15#v1)**  *[[1:16:34](https://www.youtube.com/watch?v=d9CXnvRB7es&t=4594s)]*
 
 > <sup>[1](/bible/1-samuel/15#v1)</sup> Samuel also said unto Saul, The Lord sent me to anoint thee to be king over his people, over Israel: now therefore hearken thou unto the voice of the words of the Lord.
->
-> <sup>[2](/bible/1-samuel/15#v2)</sup> Thus saith the Lord of hosts, I remember that which Amalek did to Israel, how he laid wait for him in the way, when he came up from Egypt.
->
-> <sup>[3](/bible/1-samuel/15#v3)</sup> Now go and smite Amalek, and utterly destroy all that they have, and spare them not; but slay both man and woman, infant and suckling, ox and sheep, camel and ass.
 
 - Samuel also said unto Saul, The Lord sent me to anoint thee to be king over his people, over Israel: now therefore hearken thou unto the voice of the words of the Lord.
 
 - Thus saith the Lord of hosts, I remember that which Amalek did to Israel, how he laid wait for him in the way, when he came up from Egypt.
 
 - Now go and smite Amalek, and utterly destroy all that they have, and spare them not; but slay both man and woman, infant and suckling, ox and sheep, camel and ass. So the Lord told King Saul to slaughter everything.
+
+> <sup>[2](/bible/1-samuel/15#v2)</sup> Thus saith the Lord of hosts, I remember that which Amalek did to Israel, how he laid wait for him in the way, when he came up from Egypt.
+>
+> <sup>[3](/bible/1-samuel/15#v3)</sup> Now go and smite Amalek, and utterly destroy all that they have, and spare them not; but slay both man and woman, infant and suckling, ox and sheep, camel and ass.
 
 **[1 Samuel 15:8](/bible/1-samuel/15#v8)**  *[[1:17:31](https://www.youtube.com/watch?v=d9CXnvRB7es&t=4651s)]*
 
@@ -377,8 +377,6 @@ The definitions on the screen:
 **[1 Samuel 17:36-37](/bible/1-samuel/17#v36)**  *[[1:33:51](https://www.youtube.com/watch?v=d9CXnvRB7es&t=5631s)]*
 
 > <sup>[36](/bible/1-samuel/17#v36)</sup> Thy servant slew both the lion and the bear: and this uncircumcised Philistine shall be as one of them, seeing he hath defied the armies of the living God.
->
-> <sup>[37](/bible/1-samuel/17#v37)</sup> David said moreover, The Lord that delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me out of the hand of this Philistine. And Saul said unto David, Go, and the Lord be with thee.
 
 - Thy servant slew both the lion and the bear: and this uncircumcised Philistine shall be as one of them, seeing he hath defied the armies of the living God. When you read verse 16 it tells you that Goliath presented himself for forty days. He would come out every day, call out Israel, talk smack. They had no challengers. He would go back. Tomorrow he would come out and do the same thing. For forty days he did this. So this is a progression, until the point where David presents himself right now.
 
@@ -387,6 +385,8 @@ The definitions on the screen:
 - David said moreover, The Lord that delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me out of the hand of this Philistine. So now David is dropping his resume that no one knew about. David was killing lions and bears on the low. Imagine you are just walking one day on the dirt road and you see a lion torn up on the side. You are like, what happened to the lion? You see a bear mangled. What happened to the bear? David is sitting there with a bear skin coat on at the house. You do not know how he got it. You are thinking he bought it at the swap meet or the mall. Nah, he made that.
 
 - And Saul said unto David, Go, and the Lord be with thee. So once David dropped his resume, Saul was like, okay, I did see a couple of dead carcasses on the way here. Well, that was you. Okay, you know what, go ahead, do your thing, young man. Because David was a young man.
+
+> <sup>[37](/bible/1-samuel/17#v37)</sup> David said moreover, The Lord that delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me out of the hand of this Philistine. And Saul said unto David, Go, and the Lord be with thee.
 
 **[1 Samuel 17:40](/bible/1-samuel/17#v40)**  *[[1:36:05](https://www.youtube.com/watch?v=d9CXnvRB7es&t=5765s)]*
 
@@ -446,25 +446,25 @@ The definitions on the screen:
 
 **[1 Samuel 18:6-9](/bible/1-samuel/18#v6)**  *[[1:42:23](https://www.youtube.com/watch?v=d9CXnvRB7es&t=6143s)]*
 
-> <sup>[6](/bible/1-samuel/18#v6)</sup> And it came to pass as they came, when David was returned from the slaughter of the Philistine, that the women came out of all cities of Israel, singing and dancing, to meet king Saul, with tabrets, with joy, and with instruments of musick.
->
-> <sup>[7](/bible/1-samuel/18#v7)</sup> And the women answered one another as they played, and said, Saul hath slain his thousands, and David his ten thousands.
->
-> <sup>[8](/bible/1-samuel/18#v8)</sup> And Saul was very wroth, and the saying displeased him; and he said, They have ascribed unto David ten thousands, and to me they have ascribed but thousands: and what can he have more but the kingdom?
->
-> <sup>[9](/bible/1-samuel/18#v9)</sup> And Saul eyed David from that day and forward.
-
 - And it came to pass as they came, when David was returned from the slaughter of the Philistine, that the women came out of all cities of Israel, singing and dancing, to meet king Saul, with tabrets, with joy, and with instruments of musick. So now all the sisters came out of all the cities to see King Saul. So Saul is like, okay, I know everybody likes David, but look, they love me.
 
 - And the women answered one another as they played, and said, Saul hath slain his thousands, and David his ten thousands. Stop. I want you to see how this could be perceived. Everyone likes David at this point. Saul's servants, Saul's son, all Israel, they love David. Then as the war with the Philistines dissipated, Saul is now returning. Imagine, as far as the eye can see, sisters dressed lovely, and they are coming and yelling, King Saul, King Saul. You start feeling yourself. You are like, maybe the Lord did not reject me. Maybe I still have got it. Then you actually hear what they were singing.
 
 - And Saul was very wroth, and the saying displeased him. Remember, everyone loves this brother, the sisters. Now it says all the women from all the cities of Israel were all singing, praising Saul initially, but then that shifted to someone better than Saul. And Saul was very wroth. What do they call it? Hot. Fire hot. And their songs, that he was initially excited about until he began to pay attention to the words, displeased him. It angered him.
 
+> <sup>[6](/bible/1-samuel/18#v6)</sup> And it came to pass as they came, when David was returned from the slaughter of the Philistine, that the women came out of all cities of Israel, singing and dancing, to meet king Saul, with tabrets, with joy, and with instruments of musick.
+>
+> <sup>[7](/bible/1-samuel/18#v7)</sup> And the women answered one another as they played, and said, Saul hath slain his thousands, and David his ten thousands.
+>
+> <sup>[8](/bible/1-samuel/18#v8)</sup> And Saul was very wroth, and the saying displeased him; and he said, They have ascribed unto David ten thousands, and to me they have ascribed but thousands: and what can he have more but the kingdom?
+
 - And he said, They have ascribed unto David ten thousands, and to me they have ascribed but thousands: and what can he have more but the kingdom? He says, what else can you give David? He has all the praise of the people. All the sisters love him. All my servants, even my own son. What are you going to give him next? The kingdom.
 
 - So instead of Saul considering what God had already told him through Samuel, that he was choosing one of his brethren, one that is better than he. He did not subscribe to the fact that he rejected God and God rejected him. I want y'all to see what spirit, how that spirit can take you.
 
 - And Saul eyed David from that day and forward. So David is now the problem. It is not Saul. Saul is not the problem. He is not disobedient. He is not the one that rejected God. He is not the one in evil, in witchcraft, in stubbornness and rebellion. Saul is not addressing any of that. He said, nah, the problem is David. Showing what? There are building blocks of bitterness. Bitterness does not just come about. There are other things.
+
+> <sup>[9](/bible/1-samuel/18#v9)</sup> And Saul eyed David from that day and forward.
 
 **[Mark 7:21-23](/bible/mark/7#v21)**  *[[1:48:39](https://www.youtube.com/watch?v=d9CXnvRB7es&t=6519s)]*
 
@@ -502,17 +502,11 @@ The definitions on the screen:
 
 **[1 Samuel 18:10-13](/bible/1-samuel/18#v10)**  *[[1:53:28](https://www.youtube.com/watch?v=d9CXnvRB7es&t=6808s)]*
 
-> <sup>[10](/bible/1-samuel/18#v10)</sup> And it came to pass on the morrow, that the evil spirit from God came upon Saul, and he prophesied in the midst of the house: and David played with his hand, as at other times: and there was a javelin in Saul’s hand.
->
-> <sup>[11](/bible/1-samuel/18#v11)</sup> And Saul cast the javelin; for he said, I will smite David even to the wall with it. And David avoided out of his presence twice.
->
-> <sup>[12](/bible/1-samuel/18#v12)</sup> And Saul was afraid of David, because the Lord was with him, and was departed from Saul.
->
-> <sup>[13](/bible/1-samuel/18#v13)</sup> Therefore Saul removed him from him, and made him his captain over a thousand; and he went out and came in before the people.
-
 - And it came to pass on the morrow, that the evil spirit from God came upon Saul. So because Saul now has an evil eye towards the man that the Lord has chosen, one that is better than him, he is now looking at David with an evil eye. What did God do? On the morrow. The very next day after he had an evil eye towards David.
 
 - It is showing that Saul was already battling some things in chapter 16, because an evil spirit was on him. The Lord rejected him. An evil spirit from the Lord had taken him. The prophet said, listen, you need to find someone who plays cunningly on a harp and that spirit will leave you. Saul did that, the spirit left him, and he was refreshed. He was like, man, I needed that. He was back in the spirit again. Now he has an evil eye towards David, meaning he is ready to perform harm to David. That evil spirit returned.
+
+> <sup>[10](/bible/1-samuel/18#v10)</sup> And it came to pass on the morrow, that the evil spirit from God came upon Saul, and he prophesied in the midst of the house: and David played with his hand, as at other times: and there was a javelin in Saul’s hand.
 
 - And he prophesied in the midst of the house: and David played with his hand, as at other times. So David has already done this for him. He played music for him already.
 
@@ -525,6 +519,12 @@ The definitions on the screen:
 - And Saul was afraid of David, because the Lord was with him, and was departed from Saul. So now this progression is crazy to me. The hatred built. First Saul rejected the Lord. He is in the midst of idolatry and witchcraft. Then David is there sent for his benefit, because the oppressor that the Lord raised Saul up to save Israel from, David just dealt with. Remember, the Lord chose King Saul, a goodly man, and there was none goodlier than him, to be that saviour for Israel against the Philistines. Now David is under King Saul and a humble servant of King Saul. Whithersoever Saul sent him, David went. That man was sent for Saul's benefit. Saul could not see that. So he had an evil eye towards David, attempted to kill David, but the Lord was dealing with David so much that he caused David to avoid Saul. And Saul said, oh snap, the Lord is really dealing with this guy. So now Saul realizes the Lord left him already, and now he realizes who the Lord chose that is better than him.
 
 - Therefore Saul removed him from him, and made him his captain over a thousand; and he went out and came in before the people. Because Saul knew that the Lord was dealing with David and not him any more, he took David off that office of ruling over all the men, and made him captain over a thousand. He only put him over a thousand men, meaning he shrank the company that David was over. I want you to see the progression.
+
+> <sup>[11](/bible/1-samuel/18#v11)</sup> And Saul cast the javelin; for he said, I will smite David even to the wall with it. And David avoided out of his presence twice.
+>
+> <sup>[12](/bible/1-samuel/18#v12)</sup> And Saul was afraid of David, because the Lord was with him, and was departed from Saul.
+>
+> <sup>[13](/bible/1-samuel/18#v13)</sup> Therefore Saul removed him from him, and made him his captain over a thousand; and he went out and came in before the people.
 
 **[1 Samuel 18:14-15](/bible/1-samuel/18#v14)**  *[[2:01:16](https://www.youtube.com/watch?v=d9CXnvRB7es&t=7276s)]*
 
@@ -548,13 +548,11 @@ The definitions on the screen:
 
 **[1 Samuel 24:2-4](/bible/1-samuel/24#v2)**  *[[2:03:04](https://www.youtube.com/watch?v=d9CXnvRB7es&t=7384s)]*
 
+- Then Saul took three thousand chosen men out of all Israel, and went to seek David and his men upon the rocks of the wild goats.
+
 > <sup>[2](/bible/1-samuel/24#v2)</sup> Then Saul took three thousand chosen men out of all Israel, and went to seek David and his men upon the rocks of the wild goats.
 >
 > <sup>[3](/bible/1-samuel/24#v3)</sup> And he came to the sheepcotes by the way, where was a cave; and Saul went in to cover his feet: and David and his men remained in the sides of the cave.
->
-> <sup>[4](/bible/1-samuel/24#v4)</sup> And the men of David said unto him, Behold the day of which the Lord said unto thee, Behold, I will deliver thine enemy into thine hand, that thou mayest do to him as it shall seem good unto thee. Then David arose, and cut off the skirt of Saul’s robe privily.
-
-- Then Saul took three thousand chosen men out of all Israel, and went to seek David and his men upon the rocks of the wild goats.
 
 - And he came to the sheepcotes by the way, where was a cave; and Saul went in to cover his feet: and David and his men remained in the sides of the cave.
 
@@ -566,13 +564,15 @@ The definitions on the screen:
 
 - So when you read about David killing thousands at a time, look. The Lord made his feet like hinds' feet. He was able to leap over walls. David was not a regular dude with a beer belly and bad feet.
 
+> <sup>[4](/bible/1-samuel/24#v4)</sup> And the men of David said unto him, Behold the day of which the Lord said unto thee, Behold, I will deliver thine enemy into thine hand, that thou mayest do to him as it shall seem good unto thee. Then David arose, and cut off the skirt of Saul’s robe privily.
+
 **[1 Samuel 24:17-18](/bible/1-samuel/24#v17)**  *[[2:06:56](https://www.youtube.com/watch?v=d9CXnvRB7es&t=7616s)]*
 
 > <sup>[17](/bible/1-samuel/24#v17)</sup> And he said to David, Thou art more righteous than I: for thou hast rewarded me good, whereas I have rewarded thee evil.
->
-> <sup>[18](/bible/1-samuel/24#v18)</sup> And thou hast shewed this day how that thou hast dealt well with me: forasmuch as when the Lord had delivered me into thine hand, thou killedst me not.
 
 - And he said to David, Thou art more righteous than I: for thou hast rewarded me good, whereas I have rewarded thee evil. What did King Saul say? When David showed him, hey Saul, I have got a piece of your coat. Saul looks and checks, sees where David cut it off privily, and he was not even aware. Meaning David could have killed him. So now Saul says, thou art more righteous than I. Because if the shoe was on the other foot, Saul would have killed David.
+
+> <sup>[18](/bible/1-samuel/24#v18)</sup> And thou hast shewed this day how that thou hast dealt well with me: forasmuch as when the Lord had delivered me into thine hand, thou killedst me not.
 
 - And thou hast shewed this day how that thou hast dealt well with me: forasmuch as when the Lord had delivered me into thine hand, thou killedst me not. So Saul acknowledges that David is more righteous than him.
 
@@ -591,14 +591,14 @@ The definitions on the screen:
 **[2 Samuel 11:2-4](/bible/2-samuel/11#v2)**  *[[2:10:54](https://www.youtube.com/watch?v=d9CXnvRB7es&t=7854s)]*
 
 > <sup>[2](/bible/2-samuel/11#v2)</sup> And it came to pass in an eveningtide, that David arose from off his bed, and walked upon the roof of the king’s house: and from the roof he saw a woman washing herself; and the woman was very beautiful to look upon.
->
-> <sup>[3](/bible/2-samuel/11#v3)</sup> And David sent and enquired after the woman. And one said, Is not this Bath–sheba, the daughter of Eliam, the wife of Uriah the Hittite?
->
-> <sup>[4](/bible/2-samuel/11#v4)</sup> And David sent messengers, and took her; and she came in unto him, and he lay with her; for she was purified from her uncleanness: and she returned unto her house.
 
 - And it came to pass in an eveningtide, that David arose from off his bed, and walked upon the roof of the king's house: and from the roof he saw a woman washing herself; and the woman was very beautiful to look upon.
 
 - And David sent and enquired after the woman. And one said, Is not this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?
+
+> <sup>[3](/bible/2-samuel/11#v3)</sup> And David sent and enquired after the woman. And one said, Is not this Bath–sheba, the daughter of Eliam, the wife of Uriah the Hittite?
+>
+> <sup>[4](/bible/2-samuel/11#v4)</sup> And David sent messengers, and took her; and she came in unto him, and he lay with her; for she was purified from her uncleanness: and she returned unto her house.
 
 - And David sent messengers, and took her; and she came in unto him, and he lay with her; for she was purified from her uncleanness: and she returned unto her house.
 
@@ -615,24 +615,10 @@ The definitions on the screen:
 **[2 Samuel 16:5-13](/bible/2-samuel/16#v5)**  *[[2:14:11](https://www.youtube.com/watch?v=d9CXnvRB7es&t=8051s)]*
 
 > <sup>[5](/bible/2-samuel/16#v5)</sup> And when king David came to Bahurim, behold, thence came out a man of the family of the house of Saul, whose name was Shimei, the son of Gera: he came forth, and cursed still as he came.
->
-> <sup>[6](/bible/2-samuel/16#v6)</sup> And he cast stones at David, and at all the servants of king David: and all the people and all the mighty men were on his right hand and on his left.
->
-> <sup>[7](/bible/2-samuel/16#v7)</sup> And thus said Shimei when he cursed, Come out, come out, thou bloody man, and thou man of Belial:
->
-> <sup>[8](/bible/2-samuel/16#v8)</sup> The Lord hath returned upon thee all the blood of the house of Saul, in whose stead thou hast reigned; and the Lord hath delivered the kingdom into the hand of Absalom thy son: and, behold, thou art taken in thy mischief, because thou art a bloody man.
->
-> <sup>[9](/bible/2-samuel/16#v9)</sup> Then said Abishai the son of Zeruiah unto the king, Why should this dead dog curse my lord the king? let me go over, I pray thee, and take off his head.
->
-> <sup>[10](/bible/2-samuel/16#v10)</sup> And the king said, What have I to do with you, ye sons of Zeruiah? so let him curse, because the Lord hath said unto him, Curse David. Who shall then say, Wherefore hast thou done so?
->
-> <sup>[11](/bible/2-samuel/16#v11)</sup> And David said to Abishai, and to all his servants, Behold, my son, which came forth of my bowels, seeketh my life: how much more now may this Benjamite do it? let him alone, and let him curse; for the Lord hath bidden him.
->
-> <sup>[12](/bible/2-samuel/16#v12)</sup> It may be that the Lord will look on mine affliction, and that the Lord will requite me good for his cursing this day.
->
-> <sup>[13](/bible/2-samuel/16#v13)</sup> And as David and his men went by the way, Shimei went along on the hill’s side over against him, and cursed as he went, and threw stones at him, and cast dust.
 
 - And when king David came to Bahurim, behold, thence came out a man of the family of the house of Saul, whose name was Shimei, the son of Gera: he came forth, and cursed still as he came.
+
+> <sup>[6](/bible/2-samuel/16#v6)</sup> And he cast stones at David, and at all the servants of king David: and all the people and all the mighty men were on his right hand and on his left.
 
 - And he cast stones at David, and at all the servants of king David: and all the people and all the mighty men were on his right hand and on his left.
 
@@ -648,6 +634,16 @@ The definitions on the screen:
 
 - And the king said, What have I to do with you, ye sons of Zeruiah? so let him curse, because the Lord hath said unto him, Curse David. Who shall then say, Wherefore hast thou done so? So King David said, you know what, let this man curse me out. Now David is a king. His mighty men are ready to put this dude to death. But he says, let him be. He said it had to be the Lord that spoke unto him and told him to come and curse me.
 
+> <sup>[7](/bible/2-samuel/16#v7)</sup> And thus said Shimei when he cursed, Come out, come out, thou bloody man, and thou man of Belial:
+>
+> <sup>[8](/bible/2-samuel/16#v8)</sup> The Lord hath returned upon thee all the blood of the house of Saul, in whose stead thou hast reigned; and the Lord hath delivered the kingdom into the hand of Absalom thy son: and, behold, thou art taken in thy mischief, because thou art a bloody man.
+>
+> <sup>[9](/bible/2-samuel/16#v9)</sup> Then said Abishai the son of Zeruiah unto the king, Why should this dead dog curse my lord the king? let me go over, I pray thee, and take off his head.
+>
+> <sup>[10](/bible/2-samuel/16#v10)</sup> And the king said, What have I to do with you, ye sons of Zeruiah? so let him curse, because the Lord hath said unto him, Curse David. Who shall then say, Wherefore hast thou done so?
+>
+> <sup>[11](/bible/2-samuel/16#v11)</sup> And David said to Abishai, and to all his servants, Behold, my son, which came forth of my bowels, seeketh my life: how much more now may this Benjamite do it? let him alone, and let him curse; for the Lord hath bidden him.
+
 - And David said to Abishai, and to all his servants, Behold, my son, which came forth of my bowels, seeketh my life: how much more now may this Benjamite do it? let him alone, and let him curse; for the Lord hath bidden him. Now King David is in his repentant state. He said, let him curse, because the Lord sent him to curse me.
 
 - It may be that the Lord will look on mine affliction, and that the Lord will requite me good for his cursing this day. And my hope is that in this man cursing me for the evil I did, I pray he will have mercy. This is why David is a man after the Lord's heart, because he was able to acknowledge his errors. He is able to acknowledge his faults, his shortcomings, his sins, and always go to the Lord asking for mercy.
@@ -655,6 +651,10 @@ The definitions on the screen:
 - And as David and his men went by the way, Shimei went along on the hill's side over against him, and cursed as he went, and threw stones at him, and cast dust. So as they are walking, this man went up on the hillside above them, following them, throwing stones at them.
 
 - So David saw this as an opportunity to turn back to the Lord, repenting for what he did to Uriah. But what I want you to see is, whether it be lust and covetousness, then came about the hatred to the point where you wanted to put that brother to death, and did. The same exact way envy, jealousy, rebellion against God caused King Saul to do it to King David. So everyone has their path, but that icing on the cake is bitterness for everyone.
+
+> <sup>[12](/bible/2-samuel/16#v12)</sup> It may be that the Lord will look on mine affliction, and that the Lord will requite me good for his cursing this day.
+>
+> <sup>[13](/bible/2-samuel/16#v13)</sup> And as David and his men went by the way, Shimei went along on the hill’s side over against him, and cursed as he went, and threw stones at him, and cast dust.
 
 **[Sirach 37:19-20](/bible/sirach/37#v19)**  *[[2:20:20](https://www.youtube.com/watch?v=d9CXnvRB7es&t=8420s)]*
 

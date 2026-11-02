@@ -47,32 +47,32 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "the-word"]
 **[Matthew 13:10-16](/bible/matthew/13#v10)**  *[[6:42](https://www.youtube.com/watch?v=qOOJj7k1f3M&t=402s)]*
 
 > <sup>[10](/bible/matthew/13#v10)</sup> And the disciples came, and said unto him, Why speakest thou unto them in parables?
->
-> <sup>[11](/bible/matthew/13#v11)</sup> He answered and said unto them, Because it is given unto you to know the mysteries of the kingdom of heaven, but to them it is not given.
->
-> <sup>[12](/bible/matthew/13#v12)</sup> For whosoever hath, to him shall be given, and he shall have more abundance: but whosoever hath not, from him shall be taken away even that he hath.
->
-> <sup>[13](/bible/matthew/13#v13)</sup> Therefore speak I to them in parables: because they seeing see not; and hearing they hear not, neither do they understand.
->
-> <sup>[14](/bible/matthew/13#v14)</sup> And in them is fulfilled the prophecy of Esaias, which saith, By hearing ye shall hear, and shall not understand; and seeing ye shall see, and shall not perceive:
->
-> <sup>[15](/bible/matthew/13#v15)</sup> For this people’s heart is waxed gross, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes, and hear with their ears, and should understand with their heart, and should be converted, and I should heal them.
->
-> <sup>[16](/bible/matthew/13#v16)</sup> But blessed are your eyes, for they see: and your ears, for they hear.
 
 - Why speakest thou unto them in parables?: So, every time Christ talked to somebody, he spoke in a parable. He spoke very plainly to the disciples. He didn't speak to everybody plainly. He spoke to everybody else in a parable. Why?
+
+> <sup>[11](/bible/matthew/13#v11)</sup> He answered and said unto them, Because it is given unto you to know the mysteries of the kingdom of heaven, but to them it is not given.
 
 - It is given unto you to know the mysteries of the kingdom of heaven: It is given unto you, meaning the disciples, who were Israelites. It's given to us in these last days to understand the mysteries of God.
 
 - But to them it is not given: To them? To everybody else, it is not given unto them to understand.
 
+> <sup>[12](/bible/matthew/13#v12)</sup> For whosoever hath, to him shall be given, and he shall have more abundance: but whosoever hath not, from him shall be taken away even that he hath.
+
 - Whosoever hath not, from him shall be taken away even that he hath: Why? Because there are a lot of people that have gained status in this world and now they no longer need the word of God. So, whatever spirit that they did have before, take that talent and give it to somebody else who's going to help push forward the kingdom of heaven.
+
+> <sup>[13](/bible/matthew/13#v13)</sup> Therefore speak I to them in parables: because they seeing see not; and hearing they hear not, neither do they understand.
 
 - Because they seeing see not; and hearing they hear not, neither do they understand: Why? Because it's easy. I am not sent but unto the lost sheep of the house of Israel. People will literally see that. They will hear it being read and will fight against it. No, I don't see why God would do that. How could God only love just one people? Because he's God. Because that's what he said to do. That's what he said he wanted.
 
+> <sup>[14](/bible/matthew/13#v14)</sup> And in them is fulfilled the prophecy of Esaias, which saith, By hearing ye shall hear, and shall not understand; and seeing ye shall see, and shall not perceive:
+
 - In them is fulfilled the prophecy of Esaias: So, that was prophesied by Isaiah. Hearing they would hear and not understand. Seeing they would see but not perceive. Meaning they wouldn't even understand what they're looking at. They won't understand what they're reading.
 
+> <sup>[15](/bible/matthew/13#v15)</sup> For this people’s heart is waxed gross, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes, and hear with their ears, and should understand with their heart, and should be converted, and I should heal them.
+
 - Lest at any time they should see with their eyes and hear with their ears and should understand with their heart and should be converted and I should heal them: Because Christ doesn't want to heal everybody. Maybe a hard pill to swallow, but that's the truth. That's why the next verse says what it says. But blessed are your eyes, for they see and your ears, for they hear.
+
+> <sup>[16](/bible/matthew/13#v16)</sup> But blessed are your eyes, for they see: and your ears, for they hear.
 
 - But blessed are your eyes, for they see: and your ears, for they hear: That's why we know that we're the ones that's blessed because we understand we're the Israelites according to the prophecies of the Bible. We know exactly what we have to do in order to get the kingdom of heaven. We know what's to come in the future. We can watch and pray and understand the things that are going on in the earth, this Bible prophecy. We can look at it and see everything plain as day. Not everybody is meant to do that. That's why we are accounted as the stewards of the oracles of God. Because we go forth and show the people what they should do to get the kingdom of heaven and what they should observe to avoid punishment.
 

@@ -52,14 +52,14 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "idolatry", "money", "passover-
 **[Sirach 43:6-8](/bible/sirach/43#v6)**  *[[9:07](https://www.youtube.com/watch?v=VBLrob9DcMs&t=547s)]*
 
 > <sup>[6](/bible/sirach/43#v6)</sup> He made the moon also to serve in her season for a declaration of times, and a sign of the world.
->
-> <sup>[7](/bible/sirach/43#v7)</sup> From the moon is the sign of feasts, a light that decreaseth in her perfection.
->
-> <sup>[8](/bible/sirach/43#v8)</sup> The month is called after her name, increasing wonderfully in her changing, being an instrument of the armies above, shining in the firmament of heaven;
 
 - He made the moon also to serve in her season for a declaration of times: See that? He made the moon also to serve in her season for a declaration of times. The moon declares times. Before this truth, none of us knew what the purpose of the moon in the sky was. Without this Bible, nobody has any clue what the moon is for. Okay. Why is it up there in the sky and it's bright and it changes and it goes back and forth? Nobody has any clue, right? It says it here. He made the moon also to serve in her seasons for a declaration of times and a sign of the world.
 
+> <sup>[7](/bible/sirach/43#v7)</sup> From the moon is the sign of feasts, a light that decreaseth in her perfection.
+
 - From the moon is the sign of feasts: From the moon is the sign of feast. That's what we want right there. From the moon is the sign of feast. A light that decreases in her perfection. So now when the moon is full, that's when it's perfect. Okay? So when it's perfect, we observe it like the scripture says, observe the month of a bib and keep the Passover. Okay?
+
+> <sup>[8](/bible/sirach/43#v8)</sup> The month is called after her name, increasing wonderfully in her changing, being an instrument of the armies above, shining in the firmament of heaven;
 
 - The month is called after her name, increasing wonderfully in her changing: I'll continue with this, verse 8. Sirach 43 and 8. Okay, notice what it says. Shining in the firmament of heaven. The moon is a light. That's how we observe it. For you Israelites that may still observe what's called the dark moon. Okay, the scriptures is telling us here it's perfect when it's light, in its perfection, when it's bright. Okay, so now again, from the moon is a sign of feast.
 
@@ -69,14 +69,14 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "idolatry", "money", "passover-
 > <sup>[2](/bible/exodus/12#v2)</sup> This month shall be unto you the beginning of months: it shall be the first month of the year to you.
 >
 > <sup>[3](/bible/exodus/12#v3)</sup> Speak ye unto all the congregation of Israel, saying, In the tenth day of this month they shall take to them every man a lamb, according to the house of their fathers, a lamb for an house:
->
+
+- In the tenth day of this month they shall take to them every man a lamb: So now we would see the moon. We would observe it being full in its perfection. Then we would count 10 days after that and we have to take a lamb, right?
+
 > <sup>[4](/bible/exodus/12#v4)</sup> And if the household be too little for the lamb, let him and his neighbour next unto his house take it according to the number of the souls; every man according to his eating shall make your count for the lamb.
 >
 > <sup>[5](/bible/exodus/12#v5)</sup> Your lamb shall be without blemish, a male of the first year: ye shall take it out from the sheep, or from the goats:
 >
 > <sup>[6](/bible/exodus/12#v6)</sup> And ye shall keep it up until the fourteenth day of the same month: and the whole assembly of the congregation of Israel shall kill it in the evening.
-
-- In the tenth day of this month they shall take to them every man a lamb: So now we would see the moon. We would observe it being full in its perfection. Then we would count 10 days after that and we have to take a lamb, right?
 
 - Ye shall keep it up until the fourteenth day of the same month: Okay? So now again, you observe that month or that moon, that first month of the year, which is the first moon in springtime, first full moon. We would count 10 days after that. We would go get the lamb, keep it, keep it separated from the other lamb and whatnot. Keep it from eating certain things, let it fast, drink water, cleanse its system out. Then we would kill it in the 14th day of that same month at evening, which is what? The 15th day.
 
@@ -119,30 +119,30 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "idolatry", "money", "passover-
 **[Luke 11:39-46](/bible/luke/11#v39)**  *[[18:29](https://www.youtube.com/watch?v=VBLrob9DcMs&t=1109s)]*
 
 > <sup>[39](/bible/luke/11#v39)</sup> And the Lord said unto him, Now do ye Pharisees make clean the outside of the cup and the platter; but your inward part is full of ravening and wickedness.
->
+
+- Now do ye Pharisees make clean the outside of the cup and the platter; but your inward part is full of ravening and wickedness: Now, let's go back, Luke 22. You know what? Let me get Luke 12. Let's go to Luke chapter 12. And you know what? I'm going to go to chapter 11. Luke chapter 11, and we'll read 39. Dealing with the Pharisees, the scribes, the chief priests, and all that. See that? That's all in your spirit is ravening and wickedness.
+
 > <sup>[40](/bible/luke/11#v40)</sup> Ye fools, did not he that made that which is without make that which is within also?
 >
 > <sup>[41](/bible/luke/11#v41)</sup> But rather give alms of such things as ye have; and, behold, all things are clean unto you.
 >
 > <sup>[42](/bible/luke/11#v42)</sup> But woe unto you, Pharisees! for ye tithe mint and rue and all manner of herbs, and pass over judgment and the love of God: these ought ye to have done, and not to leave the other undone.
->
-> <sup>[43](/bible/luke/11#v43)</sup> Woe unto you, Pharisees! for ye love the uppermost seats in the synagogues, and greetings in the markets.
->
-> <sup>[44](/bible/luke/11#v44)</sup> Woe unto you, scribes and Pharisees, hypocrites! for ye are as graves which appear not, and the men that walk over them are not aware of them.
->
-> <sup>[45](/bible/luke/11#v45)</sup> Then answered one of the lawyers, and said unto him, Master, thus saying thou reproachest us also.
->
-> <sup>[46](/bible/luke/11#v46)</sup> And he said, Woe unto you also, ye lawyers! for ye lade men with burdens grievous to be borne, and ye yourselves touch not the burdens with one of your fingers.
-
-- Now do ye Pharisees make clean the outside of the cup and the platter; but your inward part is full of ravening and wickedness: Now, let's go back, Luke 22. You know what? Let me get Luke 12. Let's go to Luke chapter 12. And you know what? I'm going to go to chapter 11. Luke chapter 11, and we'll read 39. Dealing with the Pharisees, the scribes, the chief priests, and all that. See that? That's all in your spirit is ravening and wickedness.
 
 - And pass over judgment and the love of God: So you see that they pass over judgment and the love of God. How about loving God and loving your neighbor as yourself? But instead, they had a spirit of covetousness. They only wanted the people to themselves for monetary gain and whatnot. Christ come on the scene doing many miracles and they want to kill the brother on the feast.
 
+> <sup>[43](/bible/luke/11#v43)</sup> Woe unto you, Pharisees! for ye love the uppermost seats in the synagogues, and greetings in the markets.
+
 - Ye love the uppermost seats in the synagogues, and greetings in the markets: That's why they had such a big problem with Christ because now they saw like, wait a minute, people following this brother, now all of a sudden they not the center of attention. Okay.
+
+> <sup>[44](/bible/luke/11#v44)</sup> Woe unto you, scribes and Pharisees, hypocrites! for ye are as graves which appear not, and the men that walk over them are not aware of them.
 
 - For ye are as graves which appear not, and the men that walk over them are not aware of them: That's like a pit. Like you walking over a field with a bunch of leaves and whatnot, not knowing that there's an actual pit. If you step in that one spot, you're going to fall into a pit. That's what the Pharisees were. You just think it's just an open field with leaves. No, no, no, no. They're like pits. Okay. Christ said they're as graves which appear not and men that walk over them are not aware of them. You follow these guys, you're bound to destruction. All right.
 
+> <sup>[45](/bible/luke/11#v45)</sup> Then answered one of the lawyers, and said unto him, Master, thus saying thou reproachest us also.
+
 - Master, thus saying thou reproachest us also: So he's cutting them, right? Now, I'm going to jump down, not to read this whole thing here, but just want to deal with, you know, the spirit these brothers had on them.
+
+> <sup>[46](/bible/luke/11#v46)</sup> And he said, Woe unto you also, ye lawyers! for ye lade men with burdens grievous to be borne, and ye yourselves touch not the burdens with one of your fingers.
 
 
 **[Luke 12:1](/bible/luke/12#v1)**  *[[20:52](https://www.youtube.com/watch?v=VBLrob9DcMs&t=1252s)]*
@@ -157,12 +157,12 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "idolatry", "money", "passover-
 > <sup>[2](/bible/luke/22#v2)</sup> And the chief priests and scribes sought how they might kill him; for they feared the people.
 >
 > <sup>[3](/bible/luke/22#v3)</sup> Then entered Satan into Judas surnamed Iscariot, being of the number of the twelve.
->
+
+- Then entered Satan into Judas surnamed Iscariot, being of the number of the twelve: So now it says Satan entered into Judas Iscariot. Now I want to read Mark, the book of Mark chapter 4. When you read Mark chapter 4, it's what we call the four type of Israelites. The four type of Israelites.
+
 > <sup>[4](/bible/luke/22#v4)</sup> And he went his way, and communed with the chief priests and captains, how he might betray him unto them.
 >
 > <sup>[5](/bible/luke/22#v5)</sup> And they were glad, and covenanted to give him money.
-
-- Then entered Satan into Judas surnamed Iscariot, being of the number of the twelve: So now it says Satan entered into Judas Iscariot. Now I want to read Mark, the book of Mark chapter 4. When you read Mark chapter 4, it's what we call the four type of Israelites. The four type of Israelites.
 
 - And they were glad, and covenanted to give him money: Now Judas, I'll read that again. I read forward with it. So now Judas linked up with these wicked brothers, chief priests, elders, Pharisees, and whatnot, how to betray Christ. Now, which type of Israelite was he? Let's go to Mark 4, and I'll just get to the point. I'll get to the point with verse 18, right? 18 and 19. So there's three different types. Like I said, 14 and 15 is one type, 16 and 17 is another type, 18 and 19 is another.
 
@@ -194,12 +194,12 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "idolatry", "money", "passover-
 > <sup>[3](/bible/john/12#v3)</sup> Then took Mary a pound of ointment of spikenard, very costly, and anointed the feet of Jesus, and wiped his feet with her hair: and the house was filled with the odour of the ointment.
 >
 > <sup>[4](/bible/john/12#v4)</sup> Then saith one of his disciples, Judas Iscariot, Simon’s son, which should betray him,
->
+
+- Then saith one of his disciples, Judas Iscariot, Simon's son, which should betray him: So she put the ointment on Christ, and it filled the house with the odor. Right? Then what Simon say? I mean, what Judah say? It says verse 5, “Why was not this ointment sold for 300 pence and given to the poor?”
+
 > <sup>[5](/bible/john/12#v5)</sup> Why was not this ointment sold for three hundred pence, and given to the poor?
 >
 > <sup>[6](/bible/john/12#v6)</sup> This he said, not that he cared for the poor; but because he was a thief, and had the bag, and bare what was put therein.
-
-- Then saith one of his disciples, Judas Iscariot, Simon's son, which should betray him: So she put the ointment on Christ, and it filled the house with the odor. Right? Then what Simon say? I mean, what Judah say? It says verse 5, “Why was not this ointment sold for 300 pence and given to the poor?”
 
 - This he said, not that he cared for the poor: You see that? He did not care for the poor. Hey, we could have took this ointment and we could have sold it and given it to the poor. He didn't give a damn about that. This he said, not that he cared for the poor, but because he was a thief and he had the bag and bear what was put therein.
 
@@ -226,20 +226,20 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "idolatry", "money", "passover-
 **[Genesis 3:1-5](/bible/genesis/3#v1)**  *[[29:24](https://www.youtube.com/watch?v=VBLrob9DcMs&t=1764s)]*
 
 > <sup>[1](/bible/genesis/3#v1)</sup> Now the serpent was more subtil than any beast of the field which the Lord God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?
->
-> <sup>[2](/bible/genesis/3#v2)</sup> And the woman said unto the serpent, We may eat of the fruit of the trees of the garden:
->
-> <sup>[3](/bible/genesis/3#v3)</sup> But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die.
->
-> <sup>[4](/bible/genesis/3#v4)</sup> And the serpent said unto the woman, Ye shall not surely die:
->
-> <sup>[5](/bible/genesis/3#v5)</sup> For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.
 
 - Now the serpent was more subtil than any beast of the field: Now, I'mma show y'all something. And even with the sisters, watch this. Genesis 3. Genesis 3 and 1.
 
+> <sup>[2](/bible/genesis/3#v2)</sup> And the woman said unto the serpent, We may eat of the fruit of the trees of the garden:
+>
+> <sup>[3](/bible/genesis/3#v3)</sup> But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die.
+
 - Ye shall not eat of it, neither shall ye touch it, lest ye die: Right? So, she repeated that. Listen, we can eat the fruit and whatnot. But this thing in the midst of the garden, we're not supposed to partake in that, okay? Because we'll die.
 
+> <sup>[4](/bible/genesis/3#v4)</sup> And the serpent said unto the woman, Ye shall not surely die:
+
 - Ye shall not surely die: So, no, you're not going to die. I mean, come on. You're not going to die. You shall surely not die.
+
+> <sup>[5](/bible/genesis/3#v5)</sup> For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.
 
 - And ye shall be as gods, knowing good and evil: So, what is Satan using here against the woman? Okay. Her lust for power, her lust to be equal with her man, her lust for authority. So, Satan's devices is whatever you got in you, he'll use that against you. Okay? Now, generically speaking, we always say curiosity and doubt. Obviously, curiosity, he says, “You're not going to die.” So, wait a minute. Hm. If I partake in this, I ain't going to die. Satan used that curiosity and her lust for power. Okay. Now all the women got menstros, labor pain, and all that stuff that y'all got to deal with on a monthly basis, annual basis, whatever the case. Why? Because of curiosity. The lust that was in her.
 
@@ -279,10 +279,10 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "idolatry", "money", "passover-
 > <sup>[4](/bible/luke/22#v4)</sup> And he went his way, and communed with the chief priests and captains, how he might betray him unto them.
 >
 > <sup>[5](/bible/luke/22#v5)</sup> And they were glad, and covenanted to give him money.
->
-> <sup>[6](/bible/luke/22#v6)</sup> And he promised, and sought opportunity to betray him unto them in the absence of the multitude.
 
 - And covenanted to give him money: Now we'll go back to Luke 22 so we can get a little bit further on. 22 and 4 again. Covenanted mean obviously they agreed. Okay. Well, what do you want? Such and such and such and such. They agreed. Okay, we'll give you this. And he agreed to it.
+
+> <sup>[6](/bible/luke/22#v6)</sup> And he promised, and sought opportunity to betray him unto them in the absence of the multitude.
 
 - In the absence of the multitude: Now notice what it says. In the absence of the multitude. In Christianity they, again, when I started out the lesson I made a point that if you're not learning the Bible from the Israelites it's going to be twisted. The scripture is going to be manipulated and you're not going to get the understanding thereof. There's a scripture that's always quoted, he came unto his own but his own received him not. Talking about the majority of the Israelites. Okay? That's talking about the chief priests, the scribes, the Pharisees, the leaders, the elders of that time. That's what it's talking about. All right. And I'm going to prove it with a couple of scriptures.
 
@@ -318,18 +318,18 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "idolatry", "money", "passover-
 > <sup>[6](/bible/luke/22#v6)</sup> And he promised, and sought opportunity to betray him unto them in the absence of the multitude.
 >
 > <sup>[7](/bible/luke/22#v7)</sup> Then came the day of unleavened bread, when the passover must be killed.
->
+
+- Then came the day of unleavened bread, when the passover must be killed: Luke 22. Let me see something real quick. Okay. Luke 22 and six. Remember that it must be killed on what day? The 14th day at even. All right, as we read in Exodus 12. All right. And Leviticus 23.
+
 > <sup>[8](/bible/luke/22#v8)</sup> And he sent Peter and John, saying, Go and prepare us the passover, that we may eat.
 >
 > <sup>[9](/bible/luke/22#v9)</sup> And they said unto him, Where wilt thou that we prepare?
 >
 > <sup>[10](/bible/luke/22#v10)</sup> And he said unto them, Behold, when ye are entered into the city, there shall a man meet you, bearing a pitcher of water; follow him into the house where he entereth in.
->
-> <sup>[11](/bible/luke/22#v11)</sup> And ye shall say unto the goodman of the house, The Master saith unto thee, Where is the guestchamber, where I shall eat the passover with my disciples?
-
-- Then came the day of unleavened bread, when the passover must be killed: Luke 22. Let me see something real quick. Okay. Luke 22 and six. Remember that it must be killed on what day? The 14th day at even. All right, as we read in Exodus 12. All right. And Leviticus 23.
 
 - There shall a man meet you, bearing a pitcher of water: So imagine that Christ said, “Yeah, go into the city. You're going to meet somebody with a picture. Follow him to his house. Ask him this.”
+
+> <sup>[11](/bible/luke/22#v11)</sup> And ye shall say unto the goodman of the house, The Master saith unto thee, Where is the guestchamber, where I shall eat the passover with my disciples?
 
 - The Master saith unto thee: Now, the master, I'm going to get that. Y'all should know who that is. But again, giving the sense, right? Matthew 23. Again, dealing with the damn scribes, Pharisees, and whatnot. So our master is Christ. That's the point. So when he said over here, and you shall say unto the good man of the house, the master saith unto thee, meaning Christ is saying unto you, where is the guest chamber where I shall eat the Passover with my disciples.
 
@@ -349,14 +349,14 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "idolatry", "money", "passover-
 > <sup>[14](/bible/luke/22#v14)</sup> And when the hour was come, he sat down, and the twelve apostles with him.
 >
 > <sup>[15](/bible/luke/22#v15)</sup> And he said unto them, With desire I have desired to eat this passover with you before I suffer:
->
+
+- With desire I have desired to eat this passover with you before I suffer: For I say unto you, I will not anymore eat thereof until it be fulfilled in the kingdom of God. So I have desired to eat, but I'm not going to do it until it be fulfilled in the kingdom of God. All right.
+
 > <sup>[16](/bible/luke/22#v16)</sup> For I say unto you, I will not any more eat thereof, until it be fulfilled in the kingdom of God.
 >
 > <sup>[17](/bible/luke/22#v17)</sup> And he took the cup, and gave thanks, and said, Take this, and divide it among yourselves:
 >
 > <sup>[18](/bible/luke/22#v18)</sup> For I say unto you, I will not drink of the fruit of the vine, until the kingdom of God shall come.
-
-- With desire I have desired to eat this passover with you before I suffer: For I say unto you, I will not anymore eat thereof until it be fulfilled in the kingdom of God. So I have desired to eat, but I'm not going to do it until it be fulfilled in the kingdom of God. All right.
 
 - I will not drink of the fruit of the vine, until the kingdom of God shall come: So Christ said, I ain't going to drink, okay? Until the kingdom of God shall come.
 
@@ -364,10 +364,10 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "idolatry", "money", "passover-
 **[Luke 22:19-20](/bible/luke/22#v19)**  *[[43:28](https://www.youtube.com/watch?v=VBLrob9DcMs&t=2608s)]*
 
 > <sup>[19](/bible/luke/22#v19)</sup> And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me.
->
-> <sup>[20](/bible/luke/22#v20)</sup> Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you.
 
 - This do in remembrance of me: Right? This do in remembrance of me. Not wear a cross, okay, around your neck. That's not a holy symbol. Not putting a cross on your forehead on what they call Ash Wednesday. That's not holy. Christ didn't say do that in remembrance of him. He said, “Drink the wine. Break the bread. Break the bread in remembrance of him.” That's why we do it every time we come together, particularly on the feast days and the Sabbaths. Okay, I'll read it again.
+
+> <sup>[20](/bible/luke/22#v20)</sup> Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you.
 
 - This cup is the new testament in my blood, which is shed for you: All right. This is the cup of the new testament in my blood which is shed for you. What are these brothers reading when they say we're not under the New Testament? Okay. What Bible are they reading? It was established right here.
 
@@ -375,7 +375,9 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "idolatry", "money", "passover-
 **[Luke 22:21-27](/bible/luke/22#v21)**  *[[44:18](https://www.youtube.com/watch?v=VBLrob9DcMs&t=2658s)]*
 
 > <sup>[21](/bible/luke/22#v21)</sup> But, behold, the hand of him that betrayeth me is with me on the table.
->
+
+- But, behold, the hand of him that betrayeth me is with me on the table: So he said, “The damn wicked that betrayeth me is right here amongst us.” Okay?
+
 > <sup>[22](/bible/luke/22#v22)</sup> And truly the Son of man goeth, as it was determined: but woe unto that man by whom he is betrayed!
 >
 > <sup>[23](/bible/luke/22#v23)</sup> And they began to enquire among themselves, which of them it was that should do this thing.
@@ -385,12 +387,10 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "idolatry", "money", "passover-
 > <sup>[25](/bible/luke/22#v25)</sup> And he said unto them, The kings of the Gentiles exercise lordship over them; and they that exercise authority upon them are called benefactors.
 >
 > <sup>[26](/bible/luke/22#v26)</sup> But ye shall not be so: but he that is greatest among you, let him be as the younger; and he that is chief, as he that doth serve.
->
-> <sup>[27](/bible/luke/22#v27)</sup> For whether is greater, he that sitteth at meat, or he that serveth? is not he that sitteth at meat? but I am among you as he that serveth.
-
-- But, behold, the hand of him that betrayeth me is with me on the table: So he said, “The damn wicked that betrayeth me is right here amongst us.” Okay?
 
 - But he that is greatest among you, let him be as the younger; and he that is chief, as he that doth serve: All right? So that's what the job of all of us is, is to be servants among the people. Servants to the people. Now, I got a couple of more minutes, but I'm going to stop there. All right, I'mma stop there.
+
+> <sup>[27](/bible/luke/22#v27)</sup> For whether is greater, he that sitteth at meat, or he that serveth? is not he that sitteth at meat? but I am among you as he that serveth.
 
 
 ## In Closing

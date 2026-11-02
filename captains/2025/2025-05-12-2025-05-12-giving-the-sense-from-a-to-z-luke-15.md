@@ -125,21 +125,21 @@ tags: ["15 Minutes w/ The Captains", "health", "leadership", "purpose", "repenta
 
 **[John 10:24-27](/bible/john/10#v24)**  *[[17:47](https://www.youtube.com/watch?v=SAVX_r6r9z4&t=1067s)]*
 
-> <sup>[24](/bible/john/10#v24)</sup> Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly.
->
-> <sup>[25](/bible/john/10#v25)</sup> Jesus answered them, I told you, and ye believed not: the works that I do in my Father’s name, they bear witness of me.
->
-> <sup>[26](/bible/john/10#v26)</sup> But ye believe not, because ye are not of my sheep, as I said unto you.
->
-> <sup>[27](/bible/john/10#v27)</sup> My sheep hear my voice, and I know them, and they follow me:
-
 - If thou be Christ, tell us plainly: So a lot of the time, Christ did not make himself known to the people. He didn't make himself known because it wasn't for them to know. The spirit of God that was on them at the time would have revealed this is the Christ just like it did with Peter. He said flesh and blood didn't tell you that but my father which is in heaven hath revealed it to you.
 
 - I told you and ye believe not: Like I already told y'all that I was the Christ. I told y'all I was he who was sent. I told y'all that and y'all didn't believe me.
 
+> <sup>[24](/bible/john/10#v24)</sup> Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly.
+>
+> <sup>[25](/bible/john/10#v25)</sup> Jesus answered them, I told you, and ye believed not: the works that I do in my Father’s name, they bear witness of me.
+
 - The works that I do in my father's name, they bear witness of me: Why? Because the poor received the gospel. He gave sight to the blind. He gave hearing to the deaf. He let it be known cuz this is John chapter 10. He had already went to Samaria. He let it be known among Ephraim that hey, y'all can come back. Y'all can get this living water. He already made it known. But they did not believe him.
 
+> <sup>[26](/bible/john/10#v26)</sup> But ye believe not, because ye are not of my sheep, as I said unto you.
+
 - Ye believe not because ye are not of my sheep: Not everybody is the sheep of Christ. Even Israel. Not everybody is going to hear Christ. It's why you got a lot of our people that fight us because we say that Christ is a black man. They fight and fight and fight. Some of us actually got stoned for it back then and today. That's how you know the prophets is back on the earth. They stoned us. Why? Because we're teaching Christ. They hated Christ. Why? Because he was teaching the word of God and actually backing it up with action. That's why he said, "Everything that I do, my works speak for me. My works show you that I am the Christ." But you still don't believe it. The works that the prophets do always go unnoticed until it's too late.
+
+> <sup>[27](/bible/john/10#v27)</sup> My sheep hear my voice, and I know them, and they follow me:
 
 - My sheep hear my voice and I know them and they follow me: So it says when he said in Luke 15:4, "What man of you having a hundred sheep if he lose one of them does not leave the 90 and nine in the wilderness and go after that which is lost until he find it?" He's talking about us. When you go look for your sheep, you're not doing it quietly. You're not doing it in silence. You're calling out to your sheep. You're calling out calling out calling out. And when your sheep hear your voice, they immediately come running. They immediately come running. Why? Because they know that voice. Oh, that's my shepherd. That's my shepherd.
 
@@ -247,18 +247,18 @@ tags: ["15 Minutes w/ The Captains", "health", "leadership", "purpose", "repenta
 > <sup>[10](/bible/luke/18#v10)</sup> Two men went up into the temple to pray; the one a Pharisee, and the other a publican.
 >
 > <sup>[11](/bible/luke/18#v11)</sup> The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as other men are, extortioners, unjust, adulterers, or even as this publican.
->
-> <sup>[12](/bible/luke/18#v12)</sup> I fast twice in the week, I give tithes of all that I possess.
->
-> <sup>[13](/bible/luke/18#v13)</sup> And the publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner.
->
-> <sup>[14](/bible/luke/18#v14)</sup> I tell you, this man went down to his house justified rather than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted.
 
 - God, I thank thee that I am not as other men are: Now, just imagine that you and the Pharisees was black. The publican was black. All right? These was black people in the temple. And he goes up and prays, "Lord, I'm glad that I'm not unjust. I'm not a wicked sinner. I'm not like this publican right here." How you sending up prayers, boasting yourself, exalting yourself above somebody else that's still sitting there looking for prayer as well. Both of y'all came looking for prayer, but you think you better than him because his sin is readily identifiable. You probably know that he's doing some wickedness. Your sin is very well hidden. Nobody can readily just pick out that you in some sin because yours is secret. Nobody can just say, "Oh, this is what you dealing with cuz yours is secret." Meanwhile, you beating this brother or this sister down because they sick.
 
 - They that be whole need not a physician: That's why he said, "They that behold need not a physician, but they that are sick." This is the hospital. We are the doctors. You're going to come in sick. Our people are going to come in sick. It's our job to gather in the flock, not scatter them. We give them the medicine. Some people when they take medicine, they throw up. Some people when they take medicine, their face get all screwed up. So what? The medicine is here to heal you. Take the medicine. Those of y'all that grew up on castor oil, you know what it is.
 
+> <sup>[12](/bible/luke/18#v12)</sup> I fast twice in the week, I give tithes of all that I possess.
+>
+> <sup>[13](/bible/luke/18#v13)</sup> And the publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner.
+
 - Would not lift up so much as his eyes unto heaven: D was so ashamed he didn't even lift up his eyes to pray. I don't know about y'all. When I first came in, and still to this day, a lot of times when your head is down and you sending their prayers, you really want the Lord to forgive you for the things that you do, have done, and might do in the future. And you know what you do. That's why you have to say what you're doing. Somebody walk up to you and say, "Hey, I apologize." The first thing you're going to say is apologize for what? That's what we got to do with the Lord. We can't just go to the Lord. Hey Lord, forgive me for my sins. What sins? What did you do? Confess them. That's the point.
+
+> <sup>[14](/bible/luke/18#v14)</sup> I tell you, this man went down to his house justified rather than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted.
 
 
 **[James 5:20](/bible/james/5#v20)**  *[[41:46](https://www.youtube.com/watch?v=SAVX_r6r9z4&t=2506s)]*
@@ -303,15 +303,15 @@ tags: ["15 Minutes w/ The Captains", "health", "leadership", "purpose", "repenta
 
 **[Ezekiel 3:18-19](/bible/ezekiel/3#v18)**  *[[50:54](https://www.youtube.com/watch?v=SAVX_r6r9z4&t=3054s)]*
 
-> <sup>[18](/bible/ezekiel/3#v18)</sup> When I say unto the wicked, Thou shalt surely die; and thou givest him not warning, nor speakest to warn the wicked from his wicked way, to save his life; the same wicked man shall die in his iniquity; but his blood will I require at thine hand.
->
-> <sup>[19](/bible/ezekiel/3#v19)</sup> Yet if thou warn the wicked, and he turn not from his wickedness, nor from his wicked way, he shall die in his iniquity; but thou hast delivered thy soul.
-
 - Ezekiel 3:18: Because there's a lot that goes into us teaching the word. There's a lot that goes into us making sure that people return from their sins. We're not out there telling people return from your sins, stop doing this, stop doing that because we want to just do it. No, we're doing it for a reason. The more people repent, the closer we get to the kingdom of heaven. The more people that start keeping the commandments, the more sins get forgiven in the nation of Israel. If you repent, you get forgiven for your sins. You start keeping the commandments. Whoever taught you, they get forgiven for some of their sins. It's a domino effect. Sins get wiped away. Righteousness starts to rise up. The kingdom gets ever closer. And this is the importance of it.
+
+> <sup>[18](/bible/ezekiel/3#v18)</sup> When I say unto the wicked, Thou shalt surely die; and thou givest him not warning, nor speakest to warn the wicked from his wicked way, to save his life; the same wicked man shall die in his iniquity; but his blood will I require at thine hand.
 
 - To warn the wicked from his wicked way to save his life: That's why we out there. And a lot of times people don't look at it as we're out there trying to save people lives is because you're not in immediate physical danger right now. If there was a bus about to hit you and I tackled you to get you out of the way of that bus, you would probably end up with a hurt arm, maybe a hip scraping on your elbow or whatever. You'll probably be bleeding or something like that, but you would be thankful, bro. You say, "Hey, these little scratches ain't nothing compared to what that bus was going to do to me. I'm still alive." A lot of our people can't really see it like that when we out there teaching on the street because the danger that's set before you is not necessarily tangibly physical. It's spiritual. And if you move against the spirit of God that's coming out to you, you're going to activate spirits of vengeance toward you. We're trying to stop that. We want the spirit of grace and supplication to come to you, not nothing else. We got enough judgments against our people as is. So now our purpose is to save his life.
 
 - His blood will I require at thine hand: Why? Because we did not teach them. We got the keys to the kingdom of heaven. We have the medicine for the sick people and we see them being sick. We see them needing help and we just don't do it. We keep our mouth shut. We don't say nothing. When they die, God is going to look at us like, "Hey, you had an opportunity to teach this person and you didn't do it. Why? You had an opportunity to give them the word of God and you didn't." Their blood is going to be on our hands.
+
+> <sup>[19](/bible/ezekiel/3#v19)</sup> Yet if thou warn the wicked, and he turn not from his wickedness, nor from his wicked way, he shall die in his iniquity; but thou hast delivered thy soul.
 
 - But thou hast delivered thy soul: If brothers and sisters hear the word from the prophets and they don't change, it's no longer on us. Our hands are clean. It's no longer on us. It's now on you because we told you what the right thing to do was. We told you, hey, you're going off. Hey, the Bible say this. This is what you're doing. You need to stop. You give us the finger and keep on pushing. Okay. At the end of the day, you can't say you didn't know. You can't say that you didn't know. Can't say that you didn't know. And a lot of people, they're going to try it.
 
@@ -326,21 +326,21 @@ tags: ["15 Minutes w/ The Captains", "health", "leadership", "purpose", "repenta
 
 **[2 Esdras 7:6-9](/bible/2-esdras/7#v6)**  *[[56:24](https://www.youtube.com/watch?v=SAVX_r6r9z4&t=3384s)]*
 
-> <sup>[6](/bible/2-esdras/7#v6)</sup> There is also another thing; A city is builded, and set upon a broad field, and is full of all good things:
->
-> <sup>[7](/bible/2-esdras/7#v7)</sup> The entrance thereof is narrow, and is set in a dangerous place to fall, like as if there were a fire on the right hand, and on the left a deep water:
->
-> <sup>[8](/bible/2-esdras/7#v8)</sup> And one only path between them both, even between the fire and the water, so small that there could but one man go there at once.
->
-> <sup>[9](/bible/2-esdras/7#v9)</sup> If this city now were given unto a man for an inheritance, if he never shall pass the danger set before it, how shall he receive this inheritance?
-
 - 2 Esdras 7:6: I've been having this poster in my house. hell for the past 12 years. This is why it's important for us to take heed to the word of God being said and being spoken and being taught to us. And it's important for us to actually learn the word of God so we can teach it to others. All right? Because we all trying to make it to the same kingdom. We all trying to make it to the same kingdom. But there's a way to get there.
+
+> <sup>[6](/bible/2-esdras/7#v6)</sup> There is also another thing; A city is builded, and set upon a broad field, and is full of all good things:
 
 - A city is builded and set upon a broad field and is full of all good things: This is the kingdom of heaven. This is the end all be all for what we all trying to do.
 
 - The entrance thereof is narrow and set in a dangerous place to fall: So there's a narrow path to this broad city. A narrow path. On the left you got fire, on the right you got a deep water. Well, you got fire on the right and on the left you got a deep water. You understand? You lean a little bit too far over, you get burned. You lean a little bit too far over, you start to drown. You got to keep yourself on that straight narrow path.
 
+> <sup>[7](/bible/2-esdras/7#v7)</sup> The entrance thereof is narrow, and is set in a dangerous place to fall, like as if there were a fire on the right hand, and on the left a deep water:
+>
+> <sup>[8](/bible/2-esdras/7#v8)</sup> And one only path between them both, even between the fire and the water, so small that there could but one man go there at once.
+
 - So small that there could but one man go there at once: One man go there at once. That's why in Philippians 2, it says that you have to work out your own salvation with fear and trembling. Can't nobody else work it out for you. Can't nobody else work it out for you. We can't keep these commandments for you. We keep these commandments with you. So when we go through this narrow path between the fire and the water, only one person can go there at a time. You're not walking hand in hand with your wife. You're not walking hand in hand with your kids. Your kids are not walking hand in hand with their siblings. One person at a time. We all got to go through the fire and the water in order to get to that city.
+
+> <sup>[9](/bible/2-esdras/7#v9)</sup> If this city now were given unto a man for an inheritance, if he never shall pass the danger set before it, how shall he receive this inheritance?
 
 - If he never shall pass the danger set before it, how shall he receive this inheritance?: Meaning, you got to go through the fire. You got to go through the water. You got to go through it. If you never go through the fire and through the water, how you going to get the inheritance? How you going to get the kingdom and you ain't never did no work in this truth or you do very minimal work in this truth acting as if I already know the Bible. I know the scriptures. You acting just like the Pharisees. I already know the scriptures. I already know what that say. You might know what it say. You very well could know every scripture in the Bible. But how many do you apply?
 

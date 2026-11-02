@@ -41,10 +41,10 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "money", "the-body"]
 **[2 Corinthians 8:1-2](/bible/2-corinthians/8#v1)**  *[[5:26](https://www.youtube.com/watch?v=74GzHqgu_ts&t=326s)]*
 
 > <sup>[1](/bible/2-corinthians/8#v1)</sup> Moreover, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia;
->
-> <sup>[2](/bible/2-corinthians/8#v2)</sup> How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality.
 
 - We do you to wit of the grace of God bestowed on the churches of Macedonia: We're going to come back to that word, grace.
+
+> <sup>[2](/bible/2-corinthians/8#v2)</sup> How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality.
 
 - Their deep poverty abounded unto the riches of their liberality: So, even though the church of Macedonia was dealing with financial hardships, issues, they were still generous. They still were liberal with their finances. Why is that coming about? Well, the church of Corinth had an issue with that, with the charitable spirit, right? And so now, in verse 9, Paul is using that same word, grace, yet he's relating it to Christ. Let's read it again.
 
@@ -121,16 +121,16 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "money", "the-body"]
 **[Ephesians 1:6-8](/bible/ephesians/1#v6)**  *[[12:26](https://www.youtube.com/watch?v=74GzHqgu_ts&t=746s)]*
 
 > <sup>[6](/bible/ephesians/1#v6)</sup> To the praise of the glory of his grace, wherein he hath made us accepted in the beloved.
->
-> <sup>[7](/bible/ephesians/1#v7)</sup> In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;
->
-> <sup>[8](/bible/ephesians/1#v8)</sup> Wherein he hath abounded toward us in all wisdom and prudence;
 
 - Wherein he hath made us accepted in the beloved: That grace that Christ gave unto us freely, that we didn't have to pay for, it made us acceptable in the eyes of God. That's how we became rich. Right?
 
 - According to the riches of his grace (verse 7): The riches of his grace. So if we are able to have the opportunity, the glimpse, the possibility of getting the kingdom of heaven, and the man that offered that unto us didn't require anything from us, hm, then how should we deal with our brothers and our sisters? If we're following in his footsteps, if we truly are walking as he walked, right?
 
 - So we're going to go one more, Revelation chapter 21 and verse 7. So we're figuring out why would Paul mention Christ in the scenario of being willing to minister to the saints.
+
+> <sup>[7](/bible/ephesians/1#v7)</sup> In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;
+>
+> <sup>[8](/bible/ephesians/1#v8)</sup> Wherein he hath abounded toward us in all wisdom and prudence;
 
 
 **[Revelation 21:7](/bible/revelation/21#v7)**  *[[13:30](https://www.youtube.com/watch?v=74GzHqgu_ts&t=810s)]*
@@ -195,10 +195,10 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "money", "the-body"]
 > <sup>[2](/bible/2-corinthians/8#v2)</sup> How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality.
 >
 > <sup>[3](/bible/2-corinthians/8#v3)</sup> For to their power, I bear record, yea, and beyond their power they were willing of themselves;
->
-> <sup>[4](/bible/2-corinthians/8#v4)</sup> Praying us with much intreaty that we would receive the gift, and take upon us the fellowship of the ministering to the saints.
 
 - They were willing of themselves: To do what?
+
+> <sup>[4](/bible/2-corinthians/8#v4)</sup> Praying us with much intreaty that we would receive the gift, and take upon us the fellowship of the ministering to the saints.
 
 - The fellowship of the ministering to the saints: This is talking about alms, financial care to take care of the congregation. So, in verse 10, when he's saying this is expedient and needful for you, he's saying the same way that Christ gave, we should give. Because we are beneficiaries now of that gift. So, you need to give. And a year ago, you were in the mindset to do it, but as I write unto you this letter, you have not done it yet.
 
@@ -208,10 +208,6 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "money", "the-body"]
 **[1 Corinthians 16:1-3](/bible/1-corinthians/16#v1)**  *[[20:02](https://www.youtube.com/watch?v=74GzHqgu_ts&t=1202s)]*
 
 > <sup>[1](/bible/1-corinthians/16#v1)</sup> Now concerning the collection for the saints, as I have given order to the churches of Galatia, even so do ye.
->
-> <sup>[2](/bible/1-corinthians/16#v2)</sup> Upon the first day of the week let every one of you lay by him in store, as God hath prospered him, that there be no gatherings when I come.
->
-> <sup>[3](/bible/1-corinthians/16#v3)</sup> And when I come, whomsoever ye shall approve by your letters, them will I send to bring your liberality unto Jerusalem.
 
 - Now concerning the collection for the saints: I gave order to the church of Galatia to do a collection for the saints. You know what the collection is, brothers and sisters? Where's it at? Right here. The Donate Donate Donate. The Booster Club. Send the prophets all over the world. Help the congregation, those that are in need. You have no idea how far your ministering to the saints goes. We have no idea. The Lord knows. The Lord understands. All we have to do is be willing participants. Willing vessels.
 
@@ -220,6 +216,10 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "money", "the-body"]
 - The Christian church ain't doing none of that. Easter yesterday was, not probably, was the most lucrative day of the year for the Christian church. How much of that is going to benefit the people? What leaders in the church said, all right, now that we collected this billion dollars, let's go in the hoods where the churches are and let's make sure that they all right. Not nan penny. Not nan one. Right?
 
 - Them will I send to bring your liberality unto Jerusalem (verse 3): That's an important part cuz that's going to play a role later on. This is setting things in order. He identified the need of the congregations. He identified who can facilitate that need because Corinth was a wealthy island. Corinth had means. It had a port, import, export. The Corinth wasn't poor. So, he's like, your liberality can help the body. By your abundance, you take care of yourself first, and then whatever you have left over, disseminate, right? That was the second stage. The third, we going to take this bag of money, you going to take this bread with a trusted man, someone that's known, someone that has integrity, and he's going to bring it to Jerusalem to help the congregation there. That's what leaders think about. That's how leaders move. Right? And if you are in the spirit, you should have no problem participating in the ministering to the rest of the body, right?
+
+> <sup>[2](/bible/1-corinthians/16#v2)</sup> Upon the first day of the week let every one of you lay by him in store, as God hath prospered him, that there be no gatherings when I come.
+>
+> <sup>[3](/bible/1-corinthians/16#v3)</sup> And when I come, whomsoever ye shall approve by your letters, them will I send to bring your liberality unto Jerusalem.
 
 
 **[2 Corinthians 8:10](/bible/2-corinthians/8#v10)**  *[[23:30](https://www.youtube.com/watch?v=74GzHqgu_ts&t=1410s)]*
@@ -269,18 +269,18 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "money", "the-body"]
 **[Sirach 12:1-4](/bible/sirach/12#v1)**  *[[29:00](https://www.youtube.com/watch?v=74GzHqgu_ts&t=1740s)]*
 
 > <sup>[1](/bible/sirach/12#v1)</sup> When thou wilt do good know to whom thou doest it; so shalt thou be thanked for thy benefits.
->
-> <sup>[2](/bible/sirach/12#v2)</sup> Do good to the godly man, and thou shalt find a recompence; and if not from him, yet from the most High.
->
-> <sup>[3](/bible/sirach/12#v3)</sup> There can no good come to him that is always occupied in evil, nor to him that giveth no alms.
->
-> <sup>[4](/bible/sirach/12#v4)</sup> Give to the godly man, and help not a sinner.
 
 - So shalt thou be thanked for thy benefits: Because it's a blessing to see, when we got international things going on, brothers and sisters giving out of their abundance. Yo, my wife be couponing. We got mad toothbrushes, toothpastes, deodorants, socks, shirts, fringes, whatever. We bought so much. And out of your abundance, you give. Donate. It cost you nothing. You don't feel the impact at all. Your household is stocked to the brim. Right? And you get a response, a letter back, a video back. Thank you. We needed this. Now we can move forward with the mission. Now we can have a good Passover. Now we can have a good Tabernacle. Y'all donated equipment. Y'all donated this, that, that. You really in the spirit not to do something for you. You be thankful for your benefits.
 
 - Do good to the godly man, and thou shalt find a recompence; and if not from him (verse 2): Say you never get no response. You never get no pat on the back, no kudos. Yet from the Most High. So, this is the opposite of the Gentile mindset. The Gentile mindset is me and mine, nobody else. You know, if I ain't got it, don't nobody got it. No, that's not how we should be, right?
 
 - Give to the godly man, and help not a sinner (verse 4): These weren't sinners that were benefiting from the alms and the ministering and the grace, cuz that grace was the finances. Grace eases up the pain and the suffering. Grace eases up the trials and the tribulations. Because it wasn't any effort of the person, it was somebody else bearing the burden for them, right?
+
+> <sup>[2](/bible/sirach/12#v2)</sup> Do good to the godly man, and thou shalt find a recompence; and if not from him, yet from the most High.
+>
+> <sup>[3](/bible/sirach/12#v3)</sup> There can no good come to him that is always occupied in evil, nor to him that giveth no alms.
+>
+> <sup>[4](/bible/sirach/12#v4)</sup> Give to the godly man, and help not a sinner.
 
 
 **[Ezra 9:8](/bible/ezra/9#v8)**  *[[30:33](https://www.youtube.com/watch?v=74GzHqgu_ts&t=1833s)]*
@@ -311,17 +311,17 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "money", "the-body"]
 
 **[Proverbs 11:24-26](/bible/proverbs/11#v24)**  *[[34:25](https://www.youtube.com/watch?v=74GzHqgu_ts&t=2065s)]*
 
-> <sup>[24](/bible/proverbs/11#v24)</sup> There is that scattereth, and yet increaseth; and there is that withholdeth more than is meet, but it tendeth to poverty.
->
-> <sup>[25](/bible/proverbs/11#v25)</sup> The liberal soul shall be made fat: and he that watereth shall be watered also himself.
->
-> <sup>[26](/bible/proverbs/11#v26)</sup> He that withholdeth corn, the people shall curse him: but blessing shall be upon the head of him that selleth it.
-
 - Paul was saying all of this in just a few words. He was saying all of this, but they knew. They knew exactly where he was coming from.
+
+> <sup>[24](/bible/proverbs/11#v24)</sup> There is that scattereth, and yet increaseth; and there is that withholdeth more than is meet, but it tendeth to poverty.
 
 - There is that scattereth, and yet increaseth: Hm? You toss it out away from you, yet you increase. How does that work? Well, seeds. Seeds work like that. You throw out all of the abundance that you have to anywhere, to everywhere, to those that need, those that don't have, so on and so forth, and it comes back to you. In what? Harvest, crop. You reap what you sow. You reap the reward if you don't get weary in well doggone doing. Hm?
 
 - And there is that withholdeth more than is meet, but it tendeth to poverty: You, instead of being willing, the church of Corinth, instead of being willing, it tended to poverty. Now this goes to a lot of things. But we don't use it for what we using it for. Do you want the poverty of, I'mma show you. I'mma show you. Hm. Matthew chapter 25 and verse 34.
+
+> <sup>[25](/bible/proverbs/11#v25)</sup> The liberal soul shall be made fat: and he that watereth shall be watered also himself.
+>
+> <sup>[26](/bible/proverbs/11#v26)</sup> He that withholdeth corn, the people shall curse him: but blessing shall be upon the head of him that selleth it.
 
 
 **[Matthew 25:34-40](/bible/matthew/25#v34)**  *[[35:31](https://www.youtube.com/watch?v=74GzHqgu_ts&t=2131s)]*
@@ -331,14 +331,6 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "money", "the-body"]
 > <sup>[35](/bible/matthew/25#v35)</sup> For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:
 >
 > <sup>[36](/bible/matthew/25#v36)</sup> Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.
->
-> <sup>[37](/bible/matthew/25#v37)</sup> Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed thee? or thirsty, and gave thee drink?
->
-> <sup>[38](/bible/matthew/25#v38)</sup> When saw we thee a stranger, and took thee in? or naked, and clothed thee?
->
-> <sup>[39](/bible/matthew/25#v39)</sup> Or when saw we thee sick, or in prison, and came unto thee?
->
-> <sup>[40](/bible/matthew/25#v40)</sup> And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.
 
 - I was in prison, and ye came unto me: Huh? That sound like those that scattered, and yet increase. How they increase? The king gave them this message right here. Right? But verse 37.
 
@@ -352,22 +344,30 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "money", "the-body"]
 
     That's the king in Matthew 25. Huh?
 
+> <sup>[37](/bible/matthew/25#v37)</sup> Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed thee? or thirsty, and gave thee drink?
+>
+> <sup>[38](/bible/matthew/25#v38)</sup> When saw we thee a stranger, and took thee in? or naked, and clothed thee?
+>
+> <sup>[39](/bible/matthew/25#v39)</sup> Or when saw we thee sick, or in prison, and came unto thee?
+>
+> <sup>[40](/bible/matthew/25#v40)</sup> And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.
+
 
 **[Proverbs 11:24-26](/bible/proverbs/11#v24)**  *[[38:31](https://www.youtube.com/watch?v=74GzHqgu_ts&t=2311s)]*
 
 > <sup>[24](/bible/proverbs/11#v24)</sup> There is that scattereth, and yet increaseth; and there is that withholdeth more than is meet, but it tendeth to poverty.
->
-> <sup>[25](/bible/proverbs/11#v25)</sup> The liberal soul shall be made fat: and he that watereth shall be watered also himself.
->
-> <sup>[26](/bible/proverbs/11#v26)</sup> He that withholdeth corn, the people shall curse him: but blessing shall be upon the head of him that selleth it.
 
 - But it tendeth to poverty: How is it poverty? Because you lost the opportunity to feed, clothe, visit, and tend to the king. By doing it to your brothers and your sisters.
 
 - The liberal soul shall be made fat (verse 25): You are liberal with your resources. You are liberal with the things that you have. The liberal soul shall be made fat. Well, how so? If I'm scattering and I'm giving and I'm donating from my abundance, from the things that I have.
 
+> <sup>[25](/bible/proverbs/11#v25)</sup> The liberal soul shall be made fat: and he that watereth shall be watered also himself.
+
 - And he that watereth shall be watered also himself: If not from the person that you are helping, from God himself. And if not right now, in the kingdom to come. You don't win, it's a win-win-win-win. So what is Paul infusing into the spirit of his brothers and the sisters? Love your nation. Unify with your people. Don't forget the importance of the liberalness of Christ, what he did for you; it holds the same weight as you doing good unto your brothers, ministering unto the saints.
 
 - He that withholdeth corn, the people shall curse him (verse 26): Give of your resources, right? Now, in verse 25, it says the liberal soul. Let's see that word liberal back in 2 Corinthians chapter 8 and verse 2.
+
+> <sup>[26](/bible/proverbs/11#v26)</sup> He that withholdeth corn, the people shall curse him: but blessing shall be upon the head of him that selleth it.
 
 
 **[2 Corinthians 8:2](/bible/2-corinthians/8#v2)**  *[[40:37](https://www.youtube.com/watch?v=74GzHqgu_ts&t=2437s)]*
@@ -391,19 +391,19 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "money", "the-body"]
 
 **[2 Corinthians 8:12-14](/bible/2-corinthians/8#v12)**  *[[41:35](https://www.youtube.com/watch?v=74GzHqgu_ts&t=2495s)]*
 
-> <sup>[12](/bible/2-corinthians/8#v12)</sup> For if there be first a willing mind, it is accepted according to that a man hath, and not according to that he hath not.
->
-> <sup>[13](/bible/2-corinthians/8#v13)</sup> For I mean not that other men be eased, and ye burdened:
->
-> <sup>[14](/bible/2-corinthians/8#v14)</sup> But by an equality, that now at this time your abundance may be a supply for their want, that their abundance also may be a supply for your want: that there may be equality:
-
 - Now, we're going to skip down a little bit and we'll come back up. Let me just read straight down. Verse 12.
+
+> <sup>[12](/bible/2-corinthians/8#v12)</sup> For if there be first a willing mind, it is accepted according to that a man hath, and not according to that he hath not.
 
 - For if there be first a willing mind, it is accepted according to that a man hath, and not according to that he hath not: That's the point. It is accepted based on your situation. Is there a biblical example of that? Mark chapter 12 and verse 42. You give out of what you can give. Nobody's saying to enter into poverty or penury. No.
 
 - She of her want did cast in all that she had (Mark 12:44): She did that because she desired to do that. That's what she wanted to do, and the Lord took note of it and said, this is a willing spirit above the Pharisees or others that give little still even though they could do much more. They give out of their abundance, but she gave of a willing mindset, right? Of a willing spirit.
 
 - For I mean not that other men be eased, and ye burdened (verse 13): Paul's not saying we going to collect money and we're going to collect ministering of the saints or resources so that other men can just take a family vacation and now you're in trouble. Now you're in need. Now you're in lack. No.
+
+> <sup>[13](/bible/2-corinthians/8#v13)</sup> For I mean not that other men be eased, and ye burdened:
+>
+> <sup>[14](/bible/2-corinthians/8#v14)</sup> But by an equality, that now at this time your abundance may be a supply for their want, that their abundance also may be a supply for your want: that there may be equality:
 
 - But by an equality: So the way that things are being distributed, there shall be an equality across the board. Everybody is walking away from the situation balanced. I'm not giving the last, now my pocket is rabbit ears and your drawers fat and falling out the pocket. You dripping money down the street. Like, damn, I could have sure used that. It says that in Sirach, the scripture keeps crossing my mind. Lord, help me find it. I'm going to find it.
 
@@ -425,12 +425,6 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "money", "the-body"]
 **[Acts 4:32-35](/bible/acts/4#v32)**  *[[46:34](https://www.youtube.com/watch?v=74GzHqgu_ts&t=2794s)]*
 
 > <sup>[32](/bible/acts/4#v32)</sup> And the multitude of them that believed were of one heart and of one soul: neither said any of them that ought of the things which he possessed was his own; but they had all things common.
->
-> <sup>[33](/bible/acts/4#v33)</sup> And with great power gave the apostles witness of the resurrection of the Lord Jesus: and great grace was upon them all.
->
-> <sup>[34](/bible/acts/4#v34)</sup> Neither was there any among them that lacked: for as many as were possessors of lands or houses sold them, and brought the prices of the things that were sold,
->
-> <sup>[35](/bible/acts/4#v35)</sup> And laid them down at the apostles’ feet: and distribution was made unto every man according as he had need.
 
 - Were of one heart and of one soul: Unified, and of one soul, unified.
 
@@ -457,6 +451,12 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "money", "the-body"]
     > <sup>[24](/bible/sirach/32#v24)</sup> He that believeth in the Lord taketh heed to the commandment; and he that trusteth in him shall fare never the worse.
 
     So what did the church in Acts believe in? Keeping the commandments. Thou shalt not steal.
+
+> <sup>[33](/bible/acts/4#v33)</sup> And with great power gave the apostles witness of the resurrection of the Lord Jesus: and great grace was upon them all.
+>
+> <sup>[34](/bible/acts/4#v34)</sup> Neither was there any among them that lacked: for as many as were possessors of lands or houses sold them, and brought the prices of the things that were sold,
+>
+> <sup>[35](/bible/acts/4#v35)</sup> And laid them down at the apostles’ feet: and distribution was made unto every man according as he had need.
 
 
 **[2 Corinthians 8:15](/bible/2-corinthians/8#v15)**  *[[52:46](https://www.youtube.com/watch?v=74GzHqgu_ts&t=3166s)]*

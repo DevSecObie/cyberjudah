@@ -49,28 +49,28 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 **[2 Corinthians 11:22-28](/bible/2-corinthians/11#v22)**  *[[9:13](https://www.youtube.com/watch?v=Aa19K56gGL0&t=553s)]*
 
 > <sup>[22](/bible/2-corinthians/11#v22)</sup> Are they Hebrews? so am I. Are they Israelites? so am I. Are they the seed of Abraham? so am I.
->
+
+- Are they Israelites? so am I: He just told you the Corinthians are Israelites. When a Christian says the Corinthians weren't Israelites, keep 2 Corinthians 11:22 in your back pocket and pull it out. Same as Romans 9, my kinsmen according to the flesh, who are Israelites: in his letters Paul tells you the men and women he is writing to were Israelites.
+
 > <sup>[23](/bible/2-corinthians/11#v23)</sup> Are they ministers of Christ? (I speak as a fool) I am more; in labours more abundant, in stripes above measure, in prisons more frequent, in deaths oft.
->
+
+- In labours more abundant, in stripes above measure, in prisons more frequent, in deaths oft: Everywhere he went he was facing death and prisons. He got stripes. Always putting in work. He dedicated his life to Christ.
+
 > <sup>[24](/bible/2-corinthians/11#v24)</sup> Of the Jews five times received I forty stripes save one.
->
+
+- Of the Jews five times received I forty stripes save one: In perils by his own countrymen, in perils by the heathen, in perils among false brethren. Paul was going through it. That is the thorn in the flesh: he battled the infirmities of his flesh, but he was also constantly travelling and labouring, putting his life on the line for Christ.
+
 > <sup>[25](/bible/2-corinthians/11#v25)</sup> Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck, a night and a day I have been in the deep;
 >
 > <sup>[26](/bible/2-corinthians/11#v26)</sup> In journeyings often, in perils of waters, in perils of robbers, in perils by mine own countrymen, in perils by the heathen, in perils in the city, in perils in the wilderness, in perils in the sea, in perils among false brethren;
 >
 > <sup>[27](/bible/2-corinthians/11#v27)</sup> In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness.
->
-> <sup>[28](/bible/2-corinthians/11#v28)</sup> Beside those things that are without, that which cometh upon me daily, the care of all the churches.
-
-- Are they Israelites? so am I: He just told you the Corinthians are Israelites. When a Christian says the Corinthians weren't Israelites, keep 2 Corinthians 11:22 in your back pocket and pull it out. Same as Romans 9, my kinsmen according to the flesh, who are Israelites: in his letters Paul tells you the men and women he is writing to were Israelites.
-
-- In labours more abundant, in stripes above measure, in prisons more frequent, in deaths oft: Everywhere he went he was facing death and prisons. He got stripes. Always putting in work. He dedicated his life to Christ.
-
-- Of the Jews five times received I forty stripes save one: In perils by his own countrymen, in perils by the heathen, in perils among false brethren. Paul was going through it. That is the thorn in the flesh: he battled the infirmities of his flesh, but he was also constantly travelling and labouring, putting his life on the line for Christ.
 
 - In weariness and painfulness, in watchings often: Weariness and painfulness go into trauma, psychological defects, overthinking, all of it. Christ constraineth us, 2 Corinthians 5: he knew he was bound to do this work; this was his lot. Regardless of what he was going through emotionally, mentally, physically or spiritually, he had to continue. The Lord could have put him to death and he could have missed out on the kingdom, but the Lord gave him an opportunity.
 
 - In hunger and thirst, in fastings often, in cold and nakedness: Always fasting, always hungry, always thirsty.
+
+> <sup>[28](/bible/2-corinthians/11#v28)</sup> Beside those things that are without, that which cometh upon me daily, the care of all the churches.
 
 - That which cometh upon me daily, the care of all the churches: On top of all that he had to take care of all the churches, with no telegram, no social media, no emails; writing letters on house arrest and trusting men to carry them to the churches correctly.
 
@@ -89,10 +89,10 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 **[Sirach 6:34-35](/bible/sirach/6#v34)**  *[[14:28](https://www.youtube.com/watch?v=Aa19K56gGL0&t=868s)]*
 
 > <sup>[34](/bible/sirach/6#v34)</sup> Stand in the multitude of the elders; and cleave unto him that is wise.
->
-> <sup>[35](/bible/sirach/6#v35)</sup> Be willing to hear every godly discourse; and let not the parables of understanding escape thee.
 
 - Stand in the multitude of the elders: That is why we are supposed to be in the war rooms, as men, around men that have been in the truth longer than us. The grey-haired man is the unspotted life: men that have been doing this a long time.
+
+> <sup>[35](/bible/sirach/6#v35)</sup> Be willing to hear every godly discourse; and let not the parables of understanding escape thee.
 
 - Be willing to hear every godly discourse: There it is. That is why the class is named Godly Discourse. Y'all think we sit around doing who knows what; we be talking about the Bible, how to improve each other.
 
@@ -104,10 +104,10 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 **[Proverbs 27:5-6](/bible/proverbs/27#v5)**  *[[18:26](https://www.youtube.com/watch?v=Aa19K56gGL0&t=1106s)]*
 
 > <sup>[5](/bible/proverbs/27#v5)</sup> Open rebuke is better than secret love.
->
-> <sup>[6](/bible/proverbs/27#v6)</sup> Faithful are the wounds of a friend; but the kisses of an enemy are deceitful.
 
 - Open rebuke is better than secret love: That is the hot seat.
+
+> <sup>[6](/bible/proverbs/27#v6)</sup> Faithful are the wounds of a friend; but the kisses of an enemy are deceitful.
 
 - Faithful are the wounds of a friend: A true friend is going to look at you and tell you, brother, you need to fix yourself.
 
@@ -118,44 +118,44 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 
 **[Sirach 20:1-3](/bible/sirach/20#v1)**  *[[21:05](https://www.youtube.com/watch?v=Aa19K56gGL0&t=1265s)]*
 
-> <sup>[1](/bible/sirach/20#v1)</sup> There is a reproof that is not comely: again, some man holdeth his tongue, and he is wise.
->
-> <sup>[2](/bible/sirach/20#v2)</sup> It is much better to reprove, than to be angry secretly: and he that confesseth his fault shall be preserved from hurt.
->
-> <sup>[3](/bible/sirach/20#v3)</sup> How good is it, when thou art reproved, to shew repentance! for so shalt thou escape wilful sin.
-
 - This is what men experience. Sisters, y'all's seat don't barely be warm, much less hot.
+
+> <sup>[1](/bible/sirach/20#v1)</sup> There is a reproof that is not comely: again, some man holdeth his tongue, and he is wise.
 
 - There is a reproof that is not comely: It gets ugly. It gets bad. Tabernacles, the bonfire.
 
 - Some man holdeth his tongue, and he is wise: When you are getting corrected, shh. You look a lot better if you just shut up and receive the understanding, receive the correction, that love.
 
+> <sup>[2](/bible/sirach/20#v2)</sup> It is much better to reprove, than to be angry secretly: and he that confesseth his fault shall be preserved from hurt.
+
 - It is much better to reprove, than to be angry secretly: Bring it out and get corrected. Don't be fake, I love you, I love you, holding it in. That is why there is no sisterhood; it is brotherhood. Hidden hatred turns into murmuring and backbiting.
 
 - He that confesseth his fault shall be preserved from hurt: Acknowledge your fault and you will be preserved from destruction.
+
+> <sup>[3](/bible/sirach/20#v3)</sup> How good is it, when thou art reproved, to shew repentance! for so shalt thou escape wilful sin.
 
 - How good is it, when thou art reproved, to shew repentance! for so shalt thou escape wilful sin: When you are corrected in front of everybody you have two options, because so many witnesses saw you receive it: fix it, or be in wilful sin. That is your choice. The only way to truly improve is to be on display, to see yourself; a lot of times we don't have the integrity to look in the mirror, so we need people to point things out. That is why the Bishops and Deacons tell us to come together in our cities on Friday nights.
 
 
 **[Hebrews 12:11-14](/bible/hebrews/12#v11)**  *[[24:29](https://www.youtube.com/watch?v=Aa19K56gGL0&t=1469s)]*
 
-> <sup>[11](/bible/hebrews/12#v11)</sup> Now no chastening for the present seemeth to be joyous, but grievous: nevertheless afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby.
->
-> <sup>[12](/bible/hebrews/12#v12)</sup> Wherefore lift up the hands which hang down, and the feeble knees;
->
-> <sup>[13](/bible/hebrews/12#v13)</sup> And make straight paths for your feet, lest that which is lame be turned out of the way; but let it rather be healed.
->
-> <sup>[14](/bible/hebrews/12#v14)</sup> Follow peace with all men, and holiness, without which no man shall see the Lord:
-
 - The numbers just pulled up are right here.
+
+> <sup>[11](/bible/hebrews/12#v11)</sup> Now no chastening for the present seemeth to be joyous, but grievous: nevertheless afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby.
 
 - No chastening for the present seemeth to be joyous, but grievous: In that seat at that moment, of course it doesn't feel good. But you have to be able to take it, and the more it happens, the more you learn.
 
 - Afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby: After the correction, after the hot seat, the correction makes you walk right. That is the 77 percent. Amongst everyone, when the correction comes out, you cannot fake it no more. But you must be exercised thereby: the correction has to happen and you have to apply it.
 
+> <sup>[12](/bible/hebrews/12#v12)</sup> Wherefore lift up the hands which hang down, and the feeble knees;
+
 - Lift up the hands which hang down, and the feeble knees: That is the grievous part; lift up is the repentance.
 
+> <sup>[13](/bible/hebrews/12#v13)</sup> And make straight paths for your feet, lest that which is lame be turned out of the way; but let it rather be healed.
+
 - Let it rather be healed: The faithful wounds of a friend. Let it be healed through the correction.
+
+> <sup>[14](/bible/hebrews/12#v14)</sup> Follow peace with all men, and holiness, without which no man shall see the Lord:
 
 - Follow peace with all men, and holiness, without which no man shall see the Lord: Why say that after the correction? Because if you don't apply it and you wind up in that other twenty-some percent, you start to hate your brothers. A root of bitterness.
 
@@ -186,12 +186,12 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 **[Psalms 133:1-2](/bible/psalms/133#v1)**  *[[30:52](https://www.youtube.com/watch?v=Aa19K56gGL0&t=1852s)]*
 
 > <sup>[1](/bible/psalms/133#v1)</sup> Behold, how good and how pleasant it is for brethren to dwell together in unity!
->
-> <sup>[2](/bible/psalms/133#v2)</sup> It is like the precious ointment upon the head, that ran down upon the beard, even Aaron’s beard: that went down to the skirts of his garments;
 
 - How good and how pleasant it is for brethren to dwell together in unity: Black men together, not fighting, not cursing each other out, not laying hands on each other, but humble amongst each other, with the humility to take correction from each other.
 
 - Watch how the Deacons move: you never see them disrespect each other, especially not in front of us. If something should not be discussed in front of younger men, they finish it later. Total respect, and transparency. That is the brotherhood the Bible is talking about.
+
+> <sup>[2](/bible/psalms/133#v2)</sup> It is like the precious ointment upon the head, that ran down upon the beard, even Aaron’s beard: that went down to the skirts of his garments;
 
 - It is like the precious ointment upon the head, that ran down upon the beard, even Aaron's beard: It goes back to the oil of 1 Samuel 16, and to oil lubricating things so they flow. It is comparing brotherhood to that ointment that could not be duplicated.
 
@@ -213,18 +213,18 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 **[1 Corinthians 7:3-5](/bible/1-corinthians/7#v3)**  *[[38:10](https://www.youtube.com/watch?v=Aa19K56gGL0&t=2290s)]*
 
 > <sup>[3](/bible/1-corinthians/7#v3)</sup> Let the husband render unto the wife due benevolence: and likewise also the wife unto the husband.
->
-> <sup>[4](/bible/1-corinthians/7#v4)</sup> The wife hath not power of her own body, but the husband: and likewise also the husband hath not power of his own body, but the wife.
->
-> <sup>[5](/bible/1-corinthians/7#v5)</sup> Defraud ye not one the other, except it be with consent for a time, that ye may give yourselves to fasting and prayer; and come together again, that Satan tempt you not for your incontinency.
 
 - Let the husband render unto the wife due benevolence: Maybe she gained weight after the children, maybe her attitude is stank and he is turned off; the scriptures say what they say. Brothers, grow up. As long as it ain't sin, no evil, debaucherous pornography, if that is what your wife likes, do what you got to do.
 
 - And likewise also the wife unto the husband: Sisters, the scriptures are clear. Headache, my head hurt, I'm tired: it is your duty.
 
+> <sup>[4](/bible/1-corinthians/7#v4)</sup> The wife hath not power of her own body, but the husband: and likewise also the husband hath not power of his own body, but the wife.
+
 - The wife hath not power of her own body, but the husband: We belong to each other; my body is not only mine, it is yours. Sex is not the only thing in marriage, finances, children, goals, respect, not being bitter towards one another all matter, but it is a big part. I have dedicated my life to you, so we have to spice it up and have fun together; get somebody you trust to keep the kids one night.
 
 - And likewise also the husband hath not power of his own body, but the wife: Why does God say it both ways? In one instance the husband is initiating; sometimes the wife needs to be initiating. God is telling you right here, sometimes it is on you.
+
+> <sup>[5](/bible/1-corinthians/7#v5)</sup> Defraud ye not one the other, except it be with consent for a time, that ye may give yourselves to fasting and prayer; and come together again, that Satan tempt you not for your incontinency.
 
 - Defraud ye not one the other: Defraud is cheating each other out of what is rightfully yours. Your body is mine and my body is yours, and you are going to deprive me of it? That is going to cause issues: now he is thinking, who is she talking to? A woman thinks the same when her husband stops wanting it: is he watching porn, who is he talking to at his job? Withholding is out of order. You cannot use a conversation from two weeks ago to defraud him for two weeks. Have the conversation, ask for marriage counselling; but going a month, a year without it is destroying your marriage from the inside.
 
@@ -297,15 +297,15 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 
 **[Isaiah 11:11-12](/bible/isaiah/11#v11)**  *[[1:17:07](https://www.youtube.com/watch?v=Aa19K56gGL0&t=4627s)]*
 
-> <sup>[11](/bible/isaiah/11#v11)</sup> And it shall come to pass in that day, that the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea.
->
-> <sup>[12](/bible/isaiah/11#v12)</sup> And he shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.
-
 - Because a Kushite helped Jeremiah, he is part of the twelve tribes? There are Israelites living amongst Kush. The chart is ever evolving and expanding until Christ comes, because the Lord continues to open our understanding of where his chosen people are.
+
+> <sup>[11](/bible/isaiah/11#v11)</sup> And it shall come to pass in that day, that the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea.
 
 - From Assyria: Turkey. And from Egypt: literal Egypt. And from Pathros: Sudan, originally part of Egypt, the tower of Syene in Ezekiel; very tall, very dark-skinned Nilotic people, the ancient Egyptians from the time of Moses. And from Cush: Ethiopia. And from Elam: India to Iran. And from Shinar: Iraq. And from Hamath: Syria. And from the islands of the sea: God's people are everywhere.
 
 - God's people are in Ethiopia: Beta Israel, whom they call the Falasha Jews. Amalek saw they keep the Torah and commissioned an Edomite to take five or six young up-and-coming leaders to Paris, teach them Yiddish and Amalekite customs, and send them back; that is why many wear that prayer shawl. Anytime Amalek shows up in Africa saying these people are Jews, it is because he knows they are the real Israelites and wants to dilute them to his form of Judaism before we get there. It is propaganda, the flood.
+
+> <sup>[12](/bible/isaiah/11#v12)</sup> And he shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.
 
 - And shall assemble the outcasts of Israel: The Kushite who helped Jeremiah was Ham, but the ones in Ethiopia that are the outcasts of Israel are Israelites living amongst the Kushites.
 
@@ -334,7 +334,9 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 **[Revelation 7:4-8](/bible/revelation/7#v4)**  *[[1:27:10](https://www.youtube.com/watch?v=Aa19K56gGL0&t=5230s)]*
 
 > <sup>[4](/bible/revelation/7#v4)</sup> And I heard the number of them which were sealed: and there were sealed an hundred and forty and four thousand of all the tribes of the children of Israel.
->
+
+- There were sealed an hundred and forty and four thousand of all the tribes of the children of Israel: All these men from these tribes have to be sealed before Christ returns. If nobody knows where the twelve tribes are, how are you going to seal them? Who is going to go teach them? Christ is not coming down here to seal them himself; he told us to go out and teach them.
+
 > <sup>[5](/bible/revelation/7#v5)</sup> Of the tribe of Juda were sealed twelve thousand. Of the tribe of Reuben were sealed twelve thousand. Of the tribe of Gad were sealed twelve thousand.
 >
 > <sup>[6](/bible/revelation/7#v6)</sup> Of the tribe of Aser were sealed twelve thousand. Of the tribe of Nepthalim were sealed twelve thousand. Of the tribe of Manasses were sealed twelve thousand.
@@ -342,8 +344,6 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 > <sup>[7](/bible/revelation/7#v7)</sup> Of the tribe of Simeon were sealed twelve thousand. Of the tribe of Levi were sealed twelve thousand. Of the tribe of Issachar were sealed twelve thousand.
 >
 > <sup>[8](/bible/revelation/7#v8)</sup> Of the tribe of Zabulon were sealed twelve thousand. Of the tribe of Joseph were sealed twelve thousand. Of the tribe of Benjamin were sealed twelve thousand.
-
-- There were sealed an hundred and forty and four thousand of all the tribes of the children of Israel: All these men from these tribes have to be sealed before Christ returns. If nobody knows where the twelve tribes are, how are you going to seal them? Who is going to go teach them? Christ is not coming down here to seal them himself; he told us to go out and teach them.
 
 - Of the tribe of Joseph were sealed twelve thousand: That is Ephraim.
 
@@ -374,15 +374,15 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 
 **[Matthew 16:18-19](/bible/matthew/16#v18)**  *[[1:36:11](https://www.youtube.com/watch?v=Aa19K56gGL0&t=5771s)]*
 
-> <sup>[18](/bible/matthew/16#v18)</sup> And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it.
->
-> <sup>[19](/bible/matthew/16#v19)</sup> And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall be loosed in heaven.
-
 - Show us the twelve tribes since you are so educated. Show us the marriages taking place in Israel of God, where you are helping brothers and sisters heal from their past trauma. If the wisdom is with you, you use it to heal God's people; if not, you talk about the men that are using it. IUIC doesn't talk; we show up, confident, because the Lord gave us these keys.
+
+> <sup>[18](/bible/matthew/16#v18)</sup> And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it.
 
 - Upon this rock I will build my church: That is Christ he is going to build it on.
 
 - And the gates of hell shall not prevail against it: They will slander us and put us in the media negatively. It is not going to work.
+
+> <sup>[19](/bible/matthew/16#v19)</sup> And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall be loosed in heaven.
 
 - Whatsoever thou shalt bind on earth shall be bound in heaven: When the leadership came up with the twelve tribes chart from what they saw in the scriptures, Christ is with that.
 
@@ -392,18 +392,18 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 > <sup>[15](/bible/ezekiel/37#v15)</sup> The word of the Lord came again unto me, saying,
 >
 > <sup>[16](/bible/ezekiel/37#v16)</sup> Moreover, thou son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and for all the house of Israel his companions:
->
-> <sup>[17](/bible/ezekiel/37#v17)</sup> And join them one to another into one stick; and they shall become one in thine hand.
->
-> <sup>[18](/bible/ezekiel/37#v18)</sup> And when the children of thy people shall speak unto thee, saying, Wilt thou not shew us what thou meanest by these?
->
-> <sup>[19](/bible/ezekiel/37#v19)</sup> Say unto them, Thus saith the Lord God; Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they shall be one in mine hand.
 
 - Take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim: Ezekiel 37 explains the twelve tribes chart. In Ezekiel's time they were split; this is the northern kingdom. There is a picture from 1975: the brothers were already on the streets teaching the chart, and it is true, and now more tribes and nations have been added.
 
+> <sup>[17](/bible/ezekiel/37#v17)</sup> And join them one to another into one stick; and they shall become one in thine hand.
+
 - And join them one to another into one stick: The Lord said, make the chart.
 
+> <sup>[18](/bible/ezekiel/37#v18)</sup> And when the children of thy people shall speak unto thee, saying, Wilt thou not shew us what thou meanest by these?
+
 - Wilt thou not shew us what thou meanest by these?: When people ask why you have this display with these names on it.
+
+> <sup>[19](/bible/ezekiel/37#v19)</sup> Say unto them, Thus saith the Lord God; Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they shall be one in mine hand.
 
 - And make them one stick, and they shall be one in mine hand: The Lord is bringing the twelve tribes together and sending us out to gather them. Your daddy is Puerto Rican? You are from the tribe of Ephraim, brother. How many times a brother or sister starts crying on the street because nobody ever told them they were an Israelite. That is the grafting in of Romans 11.
 
@@ -485,22 +485,20 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 **[Romans 11:17-21](/bible/romans/11#v17)**  *[[1:54:27](https://www.youtube.com/watch?v=Aa19K56gGL0&t=6867s)]*
 
 > <sup>[17](/bible/romans/11#v17)</sup> And if some of the branches be broken off, and thou, being a wild olive tree, wert graffed in among them, and with them partakest of the root and fatness of the olive tree;
->
-> <sup>[18](/bible/romans/11#v18)</sup> Boast not against the branches. But if thou boast, thou bearest not the root, but the root thee.
->
-> <sup>[19](/bible/romans/11#v19)</sup> Thou wilt say then, The branches were broken off, that I might be graffed in.
->
-> <sup>[20](/bible/romans/11#v20)</sup> Well; because of unbelief they were broken off, and thou standest by faith. Be not highminded, but fear:
->
-> <sup>[21](/bible/romans/11#v21)</sup> For if God spared not the natural branches, take heed lest he also spare not thee.
 
 - And if some of the branches be broken off: They are not all Israel which are of Israel. Some Israelites say to hell with Christ, I'm going to do my own thing; okay, you broke off.
 
 - And with them partakest of the root and fatness of the olive tree: Partakers of the root means partakers in Christ, because Christ came and died for all twelve, to bring peace between us.
 
+> <sup>[18](/bible/romans/11#v18)</sup> Boast not against the branches. But if thou boast, thou bearest not the root, but the root thee.
+
 - Boast not against the branches. But if thou boast, thou bearest not the root, but the root thee: He is telling the northern kingdom not to boast against the southern kingdom because some of them fell off. Christ holds you up.
 
 - The branches were broken off, that I might be grafted in: The northern kingdom may say, Judah broke off so God would deal with me now. Well; because of unbelief they were broken off, and thou standest by faith, the faith in Christ.
+
+> <sup>[19](/bible/romans/11#v19)</sup> Thou wilt say then, The branches were broken off, that I might be graffed in.
+>
+> <sup>[20](/bible/romans/11#v20)</sup> Well; because of unbelief they were broken off, and thou standest by faith. Be not highminded, but fear:
 
 - Be not highminded, but fear: For if God spared not the natural branches, take heed lest he also spare not thee. If God did not spare Judah, the natural branches.
 
@@ -534,12 +532,12 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 
     Jesus said to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed. People forget the disciples were Jews; Peter was a Jew, Paul was a Jew. Stop listening to Christian pastors and to so-called black Hebrew Israelites that are unlearning Paul's letters because they hate IUIC and are afraid of persecution. Don't counsel with a fearful man in matters of war: teaching what God is going to do to the nations is declaring war, and the coward would sooner go back to massa.
 
+> <sup>[21](/bible/romans/11#v21)</sup> For if God spared not the natural branches, take heed lest he also spare not thee.
+
 
 **[Romans 11:26-27](/bible/romans/11#v26)**  *[[2:01:08](https://www.youtube.com/watch?v=Aa19K56gGL0&t=7268s)]*
 
 > <sup>[26](/bible/romans/11#v26)</sup> And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:
->
-> <sup>[27](/bible/romans/11#v27)</sup> For this is my covenant unto them, when I shall take away their sins.
 
 - And so all Israel shall be saved: That is the conclusion of Romans 11.
 
@@ -563,6 +561,8 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 
     Twelve gates, and the names written thereon of the twelve tribes of the children of Israel. Not one gate: they only know about the Jews and not the other eleven tribes. That is the planting.
 
+> <sup>[27](/bible/romans/11#v27)</sup> For this is my covenant unto them, when I shall take away their sins.
+
 
 *[[2:03:38](https://www.youtube.com/watch?v=Aa19K56gGL0&t=7418s)]* **In The News: A woman on a podcast debate: Christ "came only for the lost sheep of Israel", "and with that you get to get grafted in"; he could only do so much in three years, and his goal was for all nations to be saved** — Women should not be on the platform debating. If he came only for Israel, how are the nations grafted in? That is fear: they feel the persecution coming. It is racial self-censorship and white-centred framing: holding back what you say about race because you expect to be banned and blacklisted. She conceded her own prompt. They learned they were Israel, learned a few scriptures, and ran to social media. Later, answering how the Bible identifies the Israelites, she did all right: Deuteronomy 28, sent into slavery by ships, forgetting our heritage, our language, our name and our God, and then awakening in the land of captivity. Nobody has an answer for that.
 
@@ -585,12 +585,10 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 **[Acts 15:14-16](/bible/acts/15#v14)**  *[[2:09:55](https://www.youtube.com/watch?v=Aa19K56gGL0&t=7795s)]*
 
 > <sup>[14](/bible/acts/15#v14)</sup> Simeon hath declared how God at the first did visit the Gentiles, to take out of them a people for his name.
->
-> <sup>[15](/bible/acts/15#v15)</sup> And to this agree the words of the prophets; as it is written,
->
-> <sup>[16](/bible/acts/15#v16)</sup> After this I will return, and will build again the tabernacle of David, which is fallen down; and I will build again the ruins thereof, and I will set it up:
 
 - God at the first did visit the Gentiles, to take out of them a people for his name: Peter went to Cornelius.
+
+> <sup>[15](/bible/acts/15#v15)</sup> And to this agree the words of the prophets; as it is written,
 
 - To this agree the words of the prophets: The apostles saw how the Lord moved the spirit of the lead apostle to go amongst the Gentiles and bring out a people for his name, and they said, this is Bible prophecy.
 
@@ -607,6 +605,8 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
     > <sup>[9](/bible/amos/9#v9)</sup> For, lo, I will command, and I will sift the house of Israel among all nations, like as corn is sifted in a sieve, yet shall not the least grain fall upon the earth.
 
     I will sift the house of Israel among all nations, like as corn is sifted in a sieve, yet shall not the least grain fall upon the earth. The house of Israel is the tabernacle of David, in the midst of all nations: that is what Acts 15 is talking about. To sift is to take out what is most important: the elect. The negroes talking about the chart not being right are going to die.
+
+> <sup>[16](/bible/acts/15#v16)</sup> After this I will return, and will build again the tabernacle of David, which is fallen down; and I will build again the ruins thereof, and I will set it up:
 
 
 *[[2:19:00](https://www.youtube.com/watch?v=Aa19K56gGL0&t=8340s)]* **In The News: A white man asking whether, from ISUPK's perspective, he will go to heaven, and a commentator calling Esau as the white man "a bad reading of what it means in Romans"** — That is not in Romans; it is Hebrews 12. He does not know the Bible. They get on these platforms and try to talk without scripture. The Bible says Esau has a perpetual hatred for Jacob, and that Esau is the end of the world and Jacob the beginning of it that followeth.
@@ -647,21 +647,21 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 
 **[Deuteronomy 19:15-19](/bible/deuteronomy/19#v15)**  *[[2:32:40](https://www.youtube.com/watch?v=Aa19K56gGL0&t=9160s)]*
 
+- There is a saying on this show we haven't used tonight: don't listen to black women. They lie.
+
 > <sup>[15](/bible/deuteronomy/19#v15)</sup> One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established.
->
+
+- At the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established: One witness is not enough.
+
 > <sup>[16](/bible/deuteronomy/19#v16)</sup> If a false witness rise up against any man to testify against him that which is wrong;
 >
 > <sup>[17](/bible/deuteronomy/19#v17)</sup> Then both the men, between whom the controversy is, shall stand before the Lord, before the priests and the judges, which shall be in those days;
 >
 > <sup>[18](/bible/deuteronomy/19#v18)</sup> And the judges shall make diligent inquisition: and, behold, if the witness be a false witness, and hath testified falsely against his brother;
->
-> <sup>[19](/bible/deuteronomy/19#v19)</sup> Then shall ye do unto him, as he had thought to have done unto his brother: so shalt thou put the evil away from among you.
-
-- There is a saying on this show we haven't used tonight: don't listen to black women. They lie.
-
-- At the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established: One witness is not enough.
 
 - And the judges shall make diligent inquisition: You have to examine the matter, cross-examine the witnesses, provide evidence.
+
+> <sup>[19](/bible/deuteronomy/19#v19)</sup> Then shall ye do unto him, as he had thought to have done unto his brother: so shalt thou put the evil away from among you.
 
 - Then shall ye do unto him, as he had thought to have done unto his brother: They probably just let her go; they should have locked her wicked behind up.
 
@@ -677,22 +677,22 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 **[Proverbs 23:26-30](/bible/proverbs/23#v26)**  *[[2:38:30](https://www.youtube.com/watch?v=Aa19K56gGL0&t=9510s)]*
 
 > <sup>[26](/bible/proverbs/23#v26)</sup> My son, give me thine heart, and let thine eyes observe my ways.
->
-> <sup>[27](/bible/proverbs/23#v27)</sup> For a whore is a deep ditch; and a strange woman is a narrow pit.
->
-> <sup>[28](/bible/proverbs/23#v28)</sup> She also lieth in wait as for a prey, and increaseth the transgressors among men.
->
-> <sup>[29](/bible/proverbs/23#v29)</sup> Who hath woe? who hath sorrow? who hath contentions? who hath babbling? who hath wounds without cause? who hath redness of eyes?
->
-> <sup>[30](/bible/proverbs/23#v30)</sup> They that tarry long at the wine; they that go to seek mixed wine.
 
 - Let thine eyes observe my ways: Be careful.
 
+> <sup>[27](/bible/proverbs/23#v27)</sup> For a whore is a deep ditch; and a strange woman is a narrow pit.
+
 - A strange woman is a narrow pit: Bishop did a class on this a long time ago, and it covers women just like the harlot in that video.
+
+> <sup>[28](/bible/proverbs/23#v28)</sup> She also lieth in wait as for a prey, and increaseth the transgressors among men.
 
 - She also lieth in wait as for a prey: For you simple brothers who always go after beauty. She might have a record you don't know about, and she trapped you.
 
 - And increaseth the transgressors among men: Now she has you trapped and you wind up doing something because of it.
+
+> <sup>[29](/bible/proverbs/23#v29)</sup> Who hath woe? who hath sorrow? who hath contentions? who hath babbling? who hath wounds without cause? who hath redness of eyes?
+>
+> <sup>[30](/bible/proverbs/23#v30)</sup> They that tarry long at the wine; they that go to seek mixed wine.
 
 - They that tarry long at the wine: Why? Because they are stressed out by that evil woman. She drives a brother to drinking.
 
@@ -700,12 +700,12 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 **[1 Timothy 5:14-15](/bible/1-timothy/5#v14)**  *[[2:44:03](https://www.youtube.com/watch?v=Aa19K56gGL0&t=9843s)]*
 
 > <sup>[14](/bible/1-timothy/5#v14)</sup> I will therefore that the younger women marry, bear children, guide the house, give none occasion to the adversary to speak reproachfully.
->
-> <sup>[15](/bible/1-timothy/5#v15)</sup> For some are already turned aside after Satan.
 
 - I will therefore that the younger women marry: You see what comes first? Marriage.
 
 - Bear children: Then bearing children. A lot of us grew up in the world and did it backwards. But when you come into the truth your mindset has to change. Sisters with children coming into the truth: slow down, stop looking for a man so quickly, get your spirit right with the Lord first. Sisters still married to a man not in the truth, six months in and already asking if they can remarry if he leaves: you have the wrong mindset.
+
+> <sup>[15](/bible/1-timothy/5#v15)</sup> For some are already turned aside after Satan.
 
 - For some are already turned aside after Satan: Some of our women have already done it backwards, and we understand that. But repent in Christ and become a new creature. Remember Anna the prophetess in Luke 2: her husband died seven years after they married, and for 84 years she had no husband and dedicated her life to Christ.
 
@@ -735,13 +735,13 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 
 **[Ezekiel 16:44-45](/bible/ezekiel/16#v44)**  *[[2:55:09](https://www.youtube.com/watch?v=Aa19K56gGL0&t=10509s)]*
 
-> <sup>[44](/bible/ezekiel/16#v44)</sup> Behold, every one that useth proverbs shall use this proverb against thee, saying, As is the mother, so is her daughter.
->
-> <sup>[45](/bible/ezekiel/16#v45)</sup> Thou art thy mother’s daughter, that lotheth her husband and her children; and thou art the sister of thy sisters, which lothed their husbands and their children: your mother was an Hittite, and your father an Amorite.
-
 - These sisters go on national platforms and say the absence of their father damaged their life, then on the same show condone women leaving the men they are with, creating the same environment. Even if he was no good, your mother had a hand in it: she slept with him and brought you into the world knowing he was no good.
 
+> <sup>[44](/bible/ezekiel/16#v44)</sup> Behold, every one that useth proverbs shall use this proverb against thee, saying, As is the mother, so is her daughter.
+
 - As is the mother, so is her daughter: Thou art thy mother's daughter, that lotheth her husband. They hate the father, so they always want to blame the father. Single women that hate the man they had a baby with project that spirit onto their daughters; the daughters hate the father, and when they marry, they hate their husband. It is a revolving cycle.
+
+> <sup>[45](/bible/ezekiel/16#v45)</sup> Thou art thy mother’s daughter, that lotheth her husband and her children; and thou art the sister of thy sisters, which lothed their husbands and their children: your mother was an Hittite, and your father an Amorite.
 
 - And her children: And they hate their children too.
 

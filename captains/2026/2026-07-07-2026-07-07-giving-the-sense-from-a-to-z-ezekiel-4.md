@@ -84,14 +84,14 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "egypt"]
 **[Jeremiah 6:1-3](/bible/jeremiah/6#v1)**  *[[14:49](https://www.youtube.com/watch?v=DS-0a0VStXo&t=889s)]*
 
 > <sup>[1](/bible/jeremiah/6#v1)</sup> O ye children of Benjamin, gather yourselves to flee out of the midst of Jerusalem, and blow the trumpet in Tekoa, and set up a sign of fire in Beth–haccerem: for evil appeareth out of the north, and great destruction.
->
-> <sup>[2](/bible/jeremiah/6#v2)</sup> I have likened the daughter of Zion to a comely and delicate woman.
->
-> <sup>[3](/bible/jeremiah/6#v3)</sup> The shepherds with their flocks shall come unto her; they shall pitch their tents against her round about; they shall feed every one in his place.
 
 - Set up a sign of fire in Beth-haccerem: A house of a vineyard.
 
 - For evil appeareth out of the north: That's the point I wanted right there. For evil appeareth out of the north.
+
+> <sup>[2](/bible/jeremiah/6#v2)</sup> I have likened the daughter of Zion to a comely and delicate woman.
+>
+> <sup>[3](/bible/jeremiah/6#v3)</sup> The shepherds with their flocks shall come unto her; they shall pitch their tents against her round about; they shall feed every one in his place.
 
 - They shall pitch their tents against her round about: They shall pitch their tents against her round about.
 
@@ -105,10 +105,10 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "egypt"]
 > <sup>[1](/bible/ezekiel/17#v1)</sup> And the word of the Lord came unto me, saying,
 >
 > <sup>[2](/bible/ezekiel/17#v2)</sup> Son of man, put forth a riddle, and speak a parable unto the house of Israel;
->
-> <sup>[3](/bible/ezekiel/17#v3)</sup> And say, Thus saith the Lord God; A great eagle with great wings, longwinged, full of feathers, which had divers colours, came unto Lebanon, and took the highest branch of the cedar:
 
 - Son of man, put forth a riddle, and speak a parable unto the house of Israel: Hm. It's the same thing. It says, "Put forth a riddle and speak a parable unto the house of Israel." Remember he had Ezekiel portray Jerusalem on a tablet or on a tile.
+
+> <sup>[3](/bible/ezekiel/17#v3)</sup> And say, Thus saith the Lord God; A great eagle with great wings, longwinged, full of feathers, which had divers colours, came unto Lebanon, and took the highest branch of the cedar:
 
 - A great eagle with great wings, longwinged, full of feathers, which had divers colours, came unto Lebanon, and took the highest branch of the cedar: So, a great eagle with great wings, long-winged, full of feathers, which had diverse colors, came unto Lebanon and took the highest branch of the cedar. Took the highest branch of the cedar. This goes back to what we read in Jeremiah 6, where it says, "Hew down trees." Hew down trees. What does it mean he took the highest branch of the cedars?
 
@@ -138,14 +138,14 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "egypt"]
 **[Jeremiah 4:6-7](/bible/jeremiah/4#v6)**  *[[20:26](https://www.youtube.com/watch?v=DS-0a0VStXo&t=1226s)]*
 
 > <sup>[6](/bible/jeremiah/4#v6)</sup> Set up the standard toward Zion: retire, stay not: for I will bring evil from the north, and a great destruction.
->
-> <sup>[7](/bible/jeremiah/4#v7)</sup> The lion is come up from his thicket, and the destroyer of the Gentiles is on his way; he is gone forth from his place to make thy land desolate; and thy cities shall be laid waste, without an inhabitant.
 
 - For I will bring evil from the north, and a great destruction: So now, all of this is saying the same thing. It's all saying the same thing. Remember we read in Ezekiel the 17th chapter that the king of Babylon will come and take, what it mentioned, a parable in verse 2. It said an eagle with long wings full of feathers will come and take the highest branch of the cedar. Then we jump down to verse 12, it says that that means that he would take the king and the princes thereof. This here is saying that he will bring evil from the north. Evil from the north.
 
 - Evil from the north: Why does it say from the north? Right, I see Wake from the dead 144 said the Babylonian captivity. But the question is, why is it saying evil from the north? Because when you look at a map, essentially Babylon is east from Jerusalem. Why does it say evil from the north? Does anybody know in the comments why does it say evil from the north? Read that again, officer, while we give them a chance to answer that.
 
 - I will bring evil from the north and a great destruction: I will bring evil from the north and a great destruction.
+
+> <sup>[7](/bible/jeremiah/4#v7)</sup> The lion is come up from his thicket, and the destroyer of the Gentiles is on his way; he is gone forth from his place to make thy land desolate; and thy cities shall be laid waste, without an inhabitant.
 
 - The lion is come up from his thicket: Now it says the lion. The lion has come up from his thicket. Ezekiel 17 mentioned an eagle with full of feathers.
 
@@ -175,10 +175,10 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "egypt"]
 **[Jeremiah 46:1-2](/bible/jeremiah/46#v1)**  *[[26:33](https://www.youtube.com/watch?v=DS-0a0VStXo&t=1593s)]*
 
 > <sup>[1](/bible/jeremiah/46#v1)</sup> The word of the Lord which came to Jeremiah the prophet against the Gentiles;
->
-> <sup>[2](/bible/jeremiah/46#v2)</sup> Against Egypt, against the army of Pharaoh–necho king of Egypt, which was by the river Euphrates in Carchemish, which Nebuchadrezzar king of Babylon smote in the fourth year of Jehoiakim the son of Josiah king of Judah.
 
 - The word of the Lord which came to Jeremiah the prophet against the Gentiles: Against the Gentiles. Remember we read Jeremiah 4 and I think it was 6. It said the destroyer of the Gentiles is on his way, right? I remember we read it earlier. So, this is the prophecy right here.
+
+> <sup>[2](/bible/jeremiah/46#v2)</sup> Against Egypt, against the army of Pharaoh–necho king of Egypt, which was by the river Euphrates in Carchemish, which Nebuchadrezzar king of Babylon smote in the fourth year of Jehoiakim the son of Josiah king of Judah.
 
 - Against the army of Pharaoh-necho king of Egypt: Pharaoh Necho, king of Egypt.
 
@@ -190,14 +190,14 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "egypt"]
 **[2 Chronicles 35:20-21](/bible/2-chronicles/35#v20)**  *[[29:23](https://www.youtube.com/watch?v=DS-0a0VStXo&t=1763s)]*
 
 > <sup>[20](/bible/2-chronicles/35#v20)</sup> After all this, when Josiah had prepared the temple, Necho king of Egypt came up to fight against Carchemish by Euphrates: and Josiah went out against him.
->
-> <sup>[21](/bible/2-chronicles/35#v21)</sup> But he sent ambassadors to him, saying, What have I to do with thee, thou king of Judah? I come not against thee this day, but against the house wherewith I have war: for God commanded me to make haste: forbear thee from meddling with God, who is with me, that he destroy thee not.
 
 - Necho king of Egypt came up to fight against Carchemish by Euphrates: and Josiah went out against him: See that? And Josiah went out against him. So, now this is the same thing we read about in Jeremiah 46.
 
 - Necho king of Egypt: Pharaoh Neco, same person. Neco or Pharaoh Neco went what?
 
 - And Josiah went out against him: And Josiah went out against him. So, now it was already prophesied that that battle would happen. That's what we read about in Jeremiah the 46th chapter. All right, that he wanted Egypt to go up and fight so he could destroy Egypt. That was the intent. Now, here go Josiah meddling in matters he don't got nothing to do with. Keep going. It's going to say it. Watch.
+
+> <sup>[21](/bible/2-chronicles/35#v21)</sup> But he sent ambassadors to him, saying, What have I to do with thee, thou king of Judah? I come not against thee this day, but against the house wherewith I have war: for God commanded me to make haste: forbear thee from meddling with God, who is with me, that he destroy thee not.
 
 - What have I to do with thee, thou king of Judah? I come not against thee this day: Pharaoh Necho was like, "Listen, I'm not coming to fight against you."
 
@@ -213,7 +213,9 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "egypt"]
 **[Jeremiah 46:2-11](/bible/jeremiah/46#v2)**  *[[31:56](https://www.youtube.com/watch?v=DS-0a0VStXo&t=1916s)]*
 
 > <sup>[2](/bible/jeremiah/46#v2)</sup> Against Egypt, against the army of Pharaoh–necho king of Egypt, which was by the river Euphrates in Carchemish, which Nebuchadrezzar king of Babylon smote in the fourth year of Jehoiakim the son of Josiah king of Judah.
->
+
+- Against Egypt, against the army of Pharaoh-necho king of Egypt, which was by the river Euphrates in Carchemish, which Nebuchadrezzar king of Babylon smote: Right, meaning what? Nebuchadnezzar whooped Pharaoh Neco's behind at the Battle of Carchemish, which Josiah tried to get in the way of.
+
 > <sup>[3](/bible/jeremiah/46#v3)</sup> Order ye the buckler and shield, and draw near to battle.
 >
 > <sup>[4](/bible/jeremiah/46#v4)</sup> Harness the horses; and get up, ye horsemen, and stand forth with your helmets; furbish the spears, and put on the brigandines.
@@ -221,30 +223,28 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "egypt"]
 > <sup>[5](/bible/jeremiah/46#v5)</sup> Wherefore have I seen them dismayed and turned away back? and their mighty ones are beaten down, and are fled apace, and look not back: for fear was round about, saith the Lord.
 >
 > <sup>[6](/bible/jeremiah/46#v6)</sup> Let not the swift flee away, nor the mighty man escape; they shall stumble, and fall toward the north by the river Euphrates.
->
-> <sup>[7](/bible/jeremiah/46#v7)</sup> Who is this that cometh up as a flood, whose waters are moved as the rivers?
->
-> <sup>[8](/bible/jeremiah/46#v8)</sup> Egypt riseth up like a flood, and his waters are moved like the rivers; and he saith, I will go up, and will cover the earth; I will destroy the city and the inhabitants thereof.
->
-> <sup>[9](/bible/jeremiah/46#v9)</sup> Come up, ye horses; and rage, ye chariots; and let the mighty men come forth; the Ethiopians and the Libyans, that handle the shield; and the Lydians, that handle and bend the bow.
->
-> <sup>[10](/bible/jeremiah/46#v10)</sup> For this is the day of the Lord God of hosts, a day of vengeance, that he may avenge him of his adversaries: and the sword shall devour, and it shall be satiate and made drunk with their blood: for the Lord God of hosts hath a sacrifice in the north country by the river Euphrates.
->
-> <sup>[11](/bible/jeremiah/46#v11)</sup> Go up into Gilead, and take balm, O virgin, the daughter of Egypt: in vain shalt thou use many medicines; for thou shalt not be cured.
-
-- Against Egypt, against the army of Pharaoh-necho king of Egypt, which was by the river Euphrates in Carchemish, which Nebuchadrezzar king of Babylon smote: Right, meaning what? Nebuchadnezzar whooped Pharaoh Neco's behind at the Battle of Carchemish, which Josiah tried to get in the way of.
 
 - They shall stumble, and fall toward the north by the river Euphrates: Uh-oh, they shall do what? They shall stumble toward the north. It said, "No, they shall stumble and fall toward the north by the river Euphrates."
 
+> <sup>[7](/bible/jeremiah/46#v7)</sup> Who is this that cometh up as a flood, whose waters are moved as the rivers?
+
 - Who is this that cometh up as a flood, whose waters are moved as the rivers?: Mhm, the armies. That's his armies coming up to fight.
+
+> <sup>[8](/bible/jeremiah/46#v8)</sup> Egypt riseth up like a flood, and his waters are moved like the rivers; and he saith, I will go up, and will cover the earth; I will destroy the city and the inhabitants thereof.
 
 - Egypt riseth up like a flood: And Egypt rises up like a flood. Egypt is coming up to fight. I want Egypt to go up and fight.
 
+> <sup>[9](/bible/jeremiah/46#v9)</sup> Come up, ye horses; and rage, ye chariots; and let the mighty men come forth; the Ethiopians and the Libyans, that handle the shield; and the Lydians, that handle and bend the bow.
+
 - The Ethiopians and the Libyans, that handle the shield; and the Lydians, that handle and bend the bow: So, bring some of your other, you know, Hamitic allies.
+
+> <sup>[10](/bible/jeremiah/46#v10)</sup> For this is the day of the Lord God of hosts, a day of vengeance, that he may avenge him of his adversaries: and the sword shall devour, and it shall be satiate and made drunk with their blood: for the Lord God of hosts hath a sacrifice in the north country by the river Euphrates.
 
 - And the sword shall devour, and it shall be satiate and made drunk with their blood: Damn. And made drunk with their blood.
 
 - For the Lord God of hosts hath a sacrifice in the north country by the river Euphrates: The Lord have a sacrifice in the north country by the river Euphrates.
+
+> <sup>[11](/bible/jeremiah/46#v11)</sup> Go up into Gilead, and take balm, O virgin, the daughter of Egypt: in vain shalt thou use many medicines; for thou shalt not be cured.
 
 - Go up into Gilead, and take balm, O virgin, the daughter of Egypt: in vain shalt thou use many medicines: As she says, go ahead, take balm, but in vain you're going to use medicine. It ain't going to help you.
 
@@ -263,12 +263,6 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "egypt"]
 **[2 Chronicles 35:21-24](/bible/2-chronicles/35#v21)**  *[[36:22](https://www.youtube.com/watch?v=DS-0a0VStXo&t=2182s)]*
 
 > <sup>[21](/bible/2-chronicles/35#v21)</sup> But he sent ambassadors to him, saying, What have I to do with thee, thou king of Judah? I come not against thee this day, but against the house wherewith I have war: for God commanded me to make haste: forbear thee from meddling with God, who is with me, that he destroy thee not.
->
-> <sup>[22](/bible/2-chronicles/35#v22)</sup> Nevertheless Josiah would not turn his face from him, but disguised himself, that he might fight with him, and hearkened not unto the words of Necho from the mouth of God, and came to fight in the valley of Megiddo.
->
-> <sup>[23](/bible/2-chronicles/35#v23)</sup> And the archers shot at king Josiah; and the king said to his servants, Have me away; for I am sore wounded.
->
-> <sup>[24](/bible/2-chronicles/35#v24)</sup> His servants therefore took him out of that chariot, and put him in the second chariot that he had; and they brought him to Jerusalem, and he died, and was buried in one of the sepulchres of his fathers. And all Judah and Jerusalem mourned for Josiah.
 
 - But he sent ambassadors to him, saying, What have I to do with thee, thou king of Judah?: This is Pharaoh Neco talking to Josiah. He's like, "Listen, I'm not coming to fight you. I'm going to try to defeat Nebuchadnezzar." Although he wasn't going to win, we just read that in Jeremiah 46, right?
 
@@ -276,9 +270,15 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "egypt"]
 
 - Forbear thee from meddling with God: You see what it says? He told Josiah, "Forbear thee from meddling with God." Notice, Jeremiah had already prophesied that he wanted Pharaoh to go up and get his behind kicked. Now, it's happening and Josiah's intervening. He's like, "Listen, don't meddle with God."
 
+> <sup>[22](/bible/2-chronicles/35#v22)</sup> Nevertheless Josiah would not turn his face from him, but disguised himself, that he might fight with him, and hearkened not unto the words of Necho from the mouth of God, and came to fight in the valley of Megiddo.
+
 - And hearkened not unto the words of Necho from the mouth of God: Damn. So, he hearkened not unto what? From the mouth of God. Cuz God commanded him, "You going to go up there, you going to get your behind kicked. I don't want to tell you that, but you going to go up there and fight. All right?"
 
 - And came to fight in the valley of Megiddo: Megiddo. Now, when you look Megiddo up, that's before, that's in Jerusalem territory. All right? That's before you get all the way up north, okay, to Carchemish. So, now, as Pharaoh was traveling up to fight against Nebuchadnezzar in Carchemish, Josiah tried to stop him in Megiddo before he got there.
+
+> <sup>[23](/bible/2-chronicles/35#v23)</sup> And the archers shot at king Josiah; and the king said to his servants, Have me away; for I am sore wounded.
+>
+> <sup>[24](/bible/2-chronicles/35#v24)</sup> His servants therefore took him out of that chariot, and put him in the second chariot that he had; and they brought him to Jerusalem, and he died, and was buried in one of the sepulchres of his fathers. And all Judah and Jerusalem mourned for Josiah.
 
 - And all Judah and Jerusalem mourned for Josiah: And all Judah and Jerusalem mourned for Josiah. Meddling in matters that didn't have anything to do with him.
 
@@ -288,14 +288,14 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "egypt"]
 > <sup>[28](/bible/2-kings/23#v28)</sup> Now the rest of the acts of Josiah, and all that he did, are they not written in the book of the chronicles of the kings of Judah?
 >
 > <sup>[29](/bible/2-kings/23#v29)</sup> In his days Pharaoh–nechoh king of Egypt went up against the king of Assyria to the river Euphrates: and king Josiah went against him; and he slew him at Megiddo, when he had seen him.
->
-> <sup>[30](/bible/2-kings/23#v30)</sup> And his servants carried him in a chariot dead from Megiddo, and brought him to Jerusalem, and buried him in his own sepulchre. And the people of the land took Jehoahaz the son of Josiah, and anointed him, and made him king in his father’s stead.
 
 - In his days: The verse above it. Read 28. So, we can see, in his days, who is the, in his days? Watch.
 
 - Pharaoh-nechoh king of Egypt went up against the king of Assyria to the river Euphrates: You see where it says the king of Egypt went up. He went up against the king of Assyria, which again would actually be Nebuchadnezzar, cuz remember Nebuchadnezzar had began to conquer. Now, he went up to try to help the remnants of Assyria fight against Nebuchadnezzar.
 
 - And he slew him at Megiddo, when he had seen him: Right. So, Josiah got killed at Megiddo.
+
+> <sup>[30](/bible/2-kings/23#v30)</sup> And his servants carried him in a chariot dead from Megiddo, and brought him to Jerusalem, and buried him in his own sepulchre. And the people of the land took Jehoahaz the son of Josiah, and anointed him, and made him king in his father’s stead.
 
 - And made him king in his father's stead: Okay. So, now I think that's it. The point is I was making a point showing y'all why. Go back to Jeremiah again so they can see it again.
 
@@ -344,10 +344,6 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "egypt"]
 **[Jeremiah 39:5-7](/bible/jeremiah/39#v5)**  *[[46:52](https://www.youtube.com/watch?v=DS-0a0VStXo&t=2812s)]*
 
 > <sup>[5](/bible/jeremiah/39#v5)</sup> But the Chaldeans’ army pursued after them, and overtook Zedekiah in the plains of Jericho: and when they had taken him, they brought him up to Nebuchadnezzar king of Babylon to Riblah in the land of Hamath, where he gave judgment upon him.
->
-> <sup>[6](/bible/jeremiah/39#v6)</sup> Then the king of Babylon slew the sons of Zedekiah in Riblah before his eyes: also the king of Babylon slew all the nobles of Judah.
->
-> <sup>[7](/bible/jeremiah/39#v7)</sup> Moreover he put out Zedekiah’s eyes, and bound him with chains, to carry him to Babylon.
 
 - But the Chaldeans' army pursued after them, and overtook Zedekiah in the plains of Jericho: Listen to what it says there. Listen to what it said. They overtook Zedekiah in the plains of Jericho.
 
@@ -355,7 +351,11 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "egypt"]
 
 - Where he gave judgment upon him: Where he gave judgment upon Zedekiah. Watch this.
 
+> <sup>[6](/bible/jeremiah/39#v6)</sup> Then the king of Babylon slew the sons of Zedekiah in Riblah before his eyes: also the king of Babylon slew all the nobles of Judah.
+
 - Then the king of Babylon slew the sons of Zedekiah in Riblah before his eyes: In Riblah. That's Hamath. That's Syria.
+
+> <sup>[7](/bible/jeremiah/39#v7)</sup> Moreover he put out Zedekiah’s eyes, and bound him with chains, to carry him to Babylon.
 
 - Moreover he put out Zedekiah's eyes, and bound him with chains, to carry him to Babylon: Okay, so that's it. That was just another one. Okay, again, further tracking his path. All right. Assyria, Carchemish, and Euphrates. Now, in Syria, and then he went further down, okay, to conquer Jerusalem. This is what we're reading about in Ezekiel chapter 4.
 
@@ -371,8 +371,6 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "egypt"]
 > <sup>[1](/bible/ezekiel/4#v1)</sup> Thou also, son of man, take thee a tile, and lay it before thee, and pourtray upon it the city, even Jerusalem:
 >
 > <sup>[2](/bible/ezekiel/4#v2)</sup> And lay siege against it, and build a fort against it, and cast a mount against it; set the camp also against it, and set battering rams against it round about.
->
-> <sup>[3](/bible/ezekiel/4#v3)</sup> Moreover take thou unto thee an iron pan, and set it for a wall of iron between thee and the city: and set thy face against it, and it shall be besieged, and thou shalt lay siege against it. This shall be a sign to the house of Israel.
 
 - And build a fort against it, and cast a mount against it: All that was the mount of Babylon. It said set a fort against it and cast a mount on it.
 
@@ -381,6 +379,8 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "egypt"]
 - Battering rams: So, right. Normally, I see somebody put a tool to break doors. Right. Typically, that's what we think about. Which it goes into that, too. But, you got to have men to do that. You know what I'm saying? So, they went in, they came in to conquer with their different engines and weapons and whatnot as well, but I just wanted y'all to see that they didn't mention chief leaders there. So, again, y'all could put Jeremiah 39. Was it three, officer, with all the weird names? Just so we have it.
 
 - Set battering rams against it round about: Set battering rams against it round about.
+
+> <sup>[3](/bible/ezekiel/4#v3)</sup> Moreover take thou unto thee an iron pan, and set it for a wall of iron between thee and the city: and set thy face against it, and it shall be besieged, and thou shalt lay siege against it. This shall be a sign to the house of Israel.
 
 - This shall be a sign to the house of Israel: This shall be a sign to the house of Israel. Okay. Take this clay, this little tablet, this tile, portray Jerusalem, set battering rams, besiege it, do all this stuff to the city. Now, it says take an iron pan, set it for a wall between thee and the city, set thy face against it, and it shall be besieged. This shall be a sign to the house of Israel.
 
@@ -406,18 +406,18 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "egypt"]
 **[Ezekiel 4:4-6](/bible/ezekiel/4#v4)**  *[[55:02](https://www.youtube.com/watch?v=DS-0a0VStXo&t=3302s)]*
 
 > <sup>[4](/bible/ezekiel/4#v4)</sup> Lie thou also upon thy left side, and lay the iniquity of the house of Israel upon it: according to the number of the days that thou shalt lie upon it thou shalt bear their iniquity.
->
-> <sup>[5](/bible/ezekiel/4#v5)</sup> For I have laid upon thee the years of their iniquity, according to the number of the days, three hundred and ninety days: so shalt thou bear the iniquity of the house of Israel.
->
-> <sup>[6](/bible/ezekiel/4#v6)</sup> And when thou hast accomplished them, lie again on thy right side, and thou shalt bear the iniquity of the house of Judah forty days: I have appointed thee each day for a year.
 
 - Lie thou also upon thy left side, and lay the iniquity of the house of Israel upon it: So, every day you lay on your side is according to the number of days thou shalt lie. Well, read it again. I messed it up.
 
 - According to the number of the days that thou shalt lie upon it thou shalt bear their iniquity: Thou shalt bear their iniquity. The same number days you got to lie on your side is the days of their iniquity. Watch this.
 
+> <sup>[5](/bible/ezekiel/4#v5)</sup> For I have laid upon thee the years of their iniquity, according to the number of the days, three hundred and ninety days: so shalt thou bear the iniquity of the house of Israel.
+
 - For I have laid upon thee the years of their iniquity, according to the number of the days: Damn. I've laid upon thee the years of their iniquity according to the number of days.
 
 - Three hundred and ninety days: so shalt thou bear the iniquity of the house of Israel: So, mhm, that's northern kingdom, the house of Israel. It says 390 days, so shall thou bear the iniquity of the house of Israel. But, it said at the beginning of the verse five, "For I have laid upon thee the years of their iniquity." So, 390 years of iniquity, now Ezekiel has to lie on his side being symbolic for the wickedness of northern kingdom.
+
+> <sup>[6](/bible/ezekiel/4#v6)</sup> And when thou hast accomplished them, lie again on thy right side, and thou shalt bear the iniquity of the house of Judah forty days: I have appointed thee each day for a year.
 
 - And when thou hast accomplished them, lie again on thy right side: So, when you accomplish the 390 days on your left side, now you're going to lie on your right side.
 
@@ -442,10 +442,10 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "egypt"]
 **[Isaiah 52:9-10](/bible/isaiah/52#v9)**  *[[1:00:39](https://www.youtube.com/watch?v=DS-0a0VStXo&t=3639s)]*
 
 > <sup>[9](/bible/isaiah/52#v9)</sup> Break forth into joy, sing together, ye waste places of Jerusalem: for the Lord hath comforted his people, he hath redeemed Jerusalem.
->
-> <sup>[10](/bible/isaiah/52#v10)</sup> The Lord hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.
 
 - For the Lord hath comforted his people, he hath redeemed Jerusalem: This is the flip side. This is the Lord redeeming Jerusalem. Watch this.
+
+> <sup>[10](/bible/isaiah/52#v10)</sup> The Lord hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.
 
 - The Lord hath made bare his holy arm: He had done what? He had made bare his holy arm, meaning his arm is uncovered.
 
@@ -457,14 +457,14 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "egypt"]
 **[Isaiah 13:2-3](/bible/isaiah/13#v2)**  *[[1:02:29](https://www.youtube.com/watch?v=DS-0a0VStXo&t=3749s)]*
 
 > <sup>[2](/bible/isaiah/13#v2)</sup> Lift ye up a banner upon the high mountain, exalt the voice unto them, shake the hand, that they may go into the gates of the nobles.
->
-> <sup>[3](/bible/isaiah/13#v3)</sup> I have commanded my sanctified ones, I have also called my mighty ones for mine anger, even them that rejoice in my highness.
 
 - Lift ye up a banner upon the high mountain: So, when it says lift ye a banner upon the high mountain, the banner is the Bible, the high mountain is Babylon or these governments that we're in, okay? Correct them. Show them where they going off. Show them the Lord is going to judge them for what they did unto us.
 
 - Exalt the voice unto them, shake the hand: Says, "Lift you a banner upon the high mountain, exalt the voice, shake the hand." What's the shaking of the hand? That's correction. Correction, making bare your arm, okay? Correcting them, sparing not.
 
 - That they may go into the gates of the nobles: That's our people and, you know, other nations, were not going into the gates of the nobles to say, "Hey, we got to create legislation to stop them from doing what they're doing."
+
+> <sup>[3](/bible/isaiah/13#v3)</sup> I have commanded my sanctified ones, I have also called my mighty ones for mine anger, even them that rejoice in my highness.
 
 - I have commanded my sanctified ones, I have also called my mighty ones for mine anger: Okay, so the sanctified ones are the priests, the prophets, the mighty ones are the angels. Anytime we go out and teach and prophesy, we activate the angels.
 

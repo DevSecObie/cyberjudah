@@ -65,28 +65,28 @@ tags: ["15 Minutes w/ The Captains", "angels", "health", "heaven-hell", "salvati
 **[Sirach 24:25-31](/bible/sirach/24#v25)**  *[[29:54](https://www.youtube.com/watch?v=Fc1YwkZoIp8&t=1794s)]*
 
 > <sup>[25](/bible/sirach/24#v25)</sup> He filleth all things with his wisdom, as Phison and as Tigris in the time of the new fruits.
->
-> <sup>[26](/bible/sirach/24#v26)</sup> He maketh the understanding to abound like Euphrates, and as Jordan in the time of the harvest.
->
-> <sup>[27](/bible/sirach/24#v27)</sup> He maketh the doctrine of knowledge appear as the light, and as Geon in the time of vintage.
->
-> <sup>[28](/bible/sirach/24#v28)</sup> The first man knew her not perfectly: no more shall the last find her out.
->
-> <sup>[29](/bible/sirach/24#v29)</sup> For her thoughts are more than the sea, and her counsels profounder than the great deep.
->
-> <sup>[30](/bible/sirach/24#v30)</sup> I also came out as a brook from a river, and as a conduit into a garden.
->
-> <sup>[31](/bible/sirach/24#v31)</sup> I said, I will water my best garden, and will water abundantly my garden bed: and, lo, my brook became a river, and my river became a sea.
 
 - He filleth all things with his wisdom: So God fills all things with his wisdom. So think about that, right, to fill something with your wisdom. Now remember in 15 it just said the water of wisdom, right. Think about a picture, think about a tub, think about a pool, you understand. Those things are filled, right, with liquid, with water. So God filling all things with wisdom, he likens his wisdom to water, you understand. Watch this.
 
 - As Phison and as Tigris in the time of the new fruit: That's talking about the rivers when you read the book of Genesis, you understand, white now, blue now, all of that.
 
+> <sup>[26](/bible/sirach/24#v26)</sup> He maketh the understanding to abound like Euphrates, and as Jordan in the time of the harvest.
+
 - He maketh the understanding to abound like Euphrates: So his wisdom, his word, abounds like the Euphrates River. And as Jordan in the time of the harvest: As the Jordan River in the time of harvest.
+
+> <sup>[27](/bible/sirach/24#v27)</sup> He maketh the doctrine of knowledge appear as the light, and as Geon in the time of vintage.
+>
+> <sup>[28](/bible/sirach/24#v28)</sup> The first man knew her not perfectly: no more shall the last find her out.
+>
+> <sup>[29](/bible/sirach/24#v29)</sup> For her thoughts are more than the sea, and her counsels profounder than the great deep.
 
 - For her thoughts are more than the sea: So wisdom's thoughts are more than the sea. What? Sea, a large body of water. And her counsels profounder than the great deep: And the counsels of wisdom are more profound than the great deep sea.
 
+> <sup>[30](/bible/sirach/24#v30)</sup> I also came out as a brook from a river, and as a conduit into a garden.
+
 - I also came out as a brook from a river, and as a conduit into a garden: Right, so it starts out as a small body of water and then it, what's the word I'm looking for, overlaps, or, you understand, turns into a larger body water.
+
+> <sup>[31](/bible/sirach/24#v31)</sup> I said, I will water my best garden, and will water abundantly my garden bed: and, lo, my brook became a river, and my river became a sea.
 
 - I said, I will water my best garden: Watch this. And lo, my brook, my small body of water, became a what? Became a river. Became a river. Watch this. And my river: My what? My river. My river became a sea. Meaning what? The water rose or expanded, you understand. That's the same thing that's going to happen in the Kingdom, and starting now, you understand. But we going to get taught face to face by Christ, and by the time we in that pure water of the river of life we going to be with the Father. We going to read that, you understand. And there's going to be new understandings coming out every month. We going to read that too.
 
@@ -96,24 +96,24 @@ tags: ["15 Minutes w/ The Captains", "angels", "health", "heaven-hell", "salvati
 > <sup>[1](/bible/ezekiel/47#v1)</sup> Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward: for the forefront of the house stood toward the east, and the waters came down from under from the right side of the house, at the south side of the altar.
 >
 > <sup>[2](/bible/ezekiel/47#v2)</sup> Then brought he me out of the way of the gate northward, and led me about the way without unto the utter gate by the way that looketh eastward; and, behold, there ran out waters on the right side.
->
-> <sup>[3](/bible/ezekiel/47#v3)</sup> And when the man that had the line in his hand went forth eastward, he measured a thousand cubits, and he brought me through the waters; the waters were to the ankles.
->
-> <sup>[4](/bible/ezekiel/47#v4)</sup> Again he measured a thousand, and brought me through the waters; the waters were to the knees. Again he measured a thousand, and brought me through; the waters were to the loins.
->
-> <sup>[5](/bible/ezekiel/47#v5)</sup> Afterward he measured a thousand; and it was a river that I could not pass over: for the waters were risen, waters to swim in, a river that could not be passed over.
->
-> <sup>[6](/bible/ezekiel/47#v6)</sup> And he said unto me, Son of man, hast thou seen this? Then he brought me, and caused me to return to the brink of the river.
 
 - Behold, there ran out waters on the right side: So waters is coming out the house. They flowing out from different directions.
 
+> <sup>[3](/bible/ezekiel/47#v3)</sup> And when the man that had the line in his hand went forth eastward, he measured a thousand cubits, and he brought me through the waters; the waters were to the ankles.
+
 - The waters were to the ankles: Right, so the water was at ankle level at first. Watch this.
+
+> <sup>[4](/bible/ezekiel/47#v4)</sup> Again he measured a thousand, and brought me through the waters; the waters were to the knees. Again he measured a thousand, and brought me through; the waters were to the loins.
 
 - The waters were to the knees: And then the water rose to the knees. An example, leadership bring it out all the time, right. At first, right, when you see the early videos of Bishop Nathanyel in the truth, when he was under the seven Elders, they were still teaching with their head covered, you understand. They didn't had a full understanding of the Sabbath. They didn't had the full understanding of wearing the fringes throughout your day-to-day, putting on all your clothing, you understand, all your shirts. The new moon: when I first came into the truth we was celebrating a new moon when we walked outside, we couldn't see that man, we couldn't see, you understand. And then one year later, Tabernacle 2016, Bishop brought the water rose, you understand. So that's what we reading in the scripture. The Lord said that's how he was going to do it.
 
 - The waters were to the loins: Then the waters rose up to the stomach level, the waist level.
 
+> <sup>[5](/bible/ezekiel/47#v5)</sup> Afterward he measured a thousand; and it was a river that I could not pass over: for the waters were risen, waters to swim in, a river that could not be passed over.
+
 - It was a river that I could not pass over: That's what we reading about in Revelation 22, the pure river of the water of life. For the waters were risen, waters to swim in, a river that could not be passed over: That's what we reading about, that river in the city of God.
+
+> <sup>[6](/bible/ezekiel/47#v6)</sup> And he said unto me, Son of man, hast thou seen this? Then he brought me, and caused me to return to the brink of the river.
 
 - Then he brought me, and caused me to return to the brink of the river: So let's go back to Revelation 22 for now.
 
@@ -134,14 +134,14 @@ tags: ["15 Minutes w/ The Captains", "angels", "health", "heaven-hell", "salvati
 **[Psalms 1:1-3](/bible/psalms/1#v1)**  *[[36:46](https://www.youtube.com/watch?v=Fc1YwkZoIp8&t=2206s)]*
 
 > <sup>[1](/bible/psalms/1#v1)</sup> Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.
->
-> <sup>[2](/bible/psalms/1#v2)</sup> But his delight is in the law of the Lord; and in his law doth he meditate day and night.
->
-> <sup>[3](/bible/psalms/1#v3)</sup> And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.
 
 - Blessed is the man: Let's see what that's talking about, many trees on either side of the river.
 
+> <sup>[2](/bible/psalms/1#v2)</sup> But his delight is in the law of the Lord; and in his law doth he meditate day and night.
+
 - But his delight is in the law of the Lord: In the what? In the law of the Lord. In the law of the Lord. And in his law doth he meditate day and night: Right, in his law does he meditate day and night.
+
+> <sup>[3](/bible/psalms/1#v3)</sup> And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.
 
 - And he shall be like a tree: So he, that man, shall be like a what? A tree. A what tree? Planted by what? Planted by the rivers of water. What water? Verse 2, the law, you understand, the word of God, the wisdom of God. That's what them trees is talking about, you understand. It's talking about us, and the King, if you know, those that get the kingdom, Lord's will, is us, me and you, right.
 
@@ -151,14 +151,14 @@ tags: ["15 Minutes w/ The Captains", "angels", "health", "heaven-hell", "salvati
 **[Ezekiel 47:7-9](/bible/ezekiel/47#v7)**  *[[38:29](https://www.youtube.com/watch?v=Fc1YwkZoIp8&t=2309s)]*
 
 > <sup>[7](/bible/ezekiel/47#v7)</sup> Now when I had returned, behold, at the bank of the river were very many trees on the one side and on the other.
->
-> <sup>[8](/bible/ezekiel/47#v8)</sup> Then said he unto me, These waters issue out toward the east country, and go down into the desert, and go into the sea: which being brought forth into the sea, the waters shall be healed.
->
-> <sup>[9](/bible/ezekiel/47#v9)</sup> And it shall come to pass, that every thing that liveth, which moveth, whithersoever the rivers shall come, shall live: and there shall be a very great multitude of fish, because these waters shall come thither: for they shall be healed; and every thing shall live whither the river cometh.
 
 - Behold, at the bank of the river were very many trees on the one side and on the other: Right, that's talking about men of understanding in the Kingdom.
 
+> <sup>[8](/bible/ezekiel/47#v8)</sup> Then said he unto me, These waters issue out toward the east country, and go down into the desert, and go into the sea: which being brought forth into the sea, the waters shall be healed.
+
 - The waters shall be healed: The water shall be what? Healed. Shall be healed.
+
+> <sup>[9](/bible/ezekiel/47#v9)</sup> And it shall come to pass, that every thing that liveth, which moveth, whithersoever the rivers shall come, shall live: and there shall be a very great multitude of fish, because these waters shall come thither: for they shall be healed; and every thing shall live whither the river cometh.
 
 - And there shall be a very great multitude of fish: So understand, Ezekiel 47 is a parable. So you don't read that verse and think Bikini Bottom, damn, it's going to be a whole lot of fish. No.
 
@@ -166,12 +166,6 @@ tags: ["15 Minutes w/ The Captains", "angels", "health", "heaven-hell", "salvati
 **[Matthew 13:47-50](/bible/matthew/13#v47)**  *[[39:15](https://www.youtube.com/watch?v=Fc1YwkZoIp8&t=2355s)]*
 
 > <sup>[47](/bible/matthew/13#v47)</sup> Again, the kingdom of heaven is like unto a net, that was cast into the sea, and gathered of every kind:
->
-> <sup>[48](/bible/matthew/13#v48)</sup> Which, when it was full, they drew to shore, and sat down, and gathered the good into vessels, but cast the bad away.
->
-> <sup>[49](/bible/matthew/13#v49)</sup> So shall it be at the end of the world: the angels shall come forth, and sever the wicked from among the just,
->
-> <sup>[50](/bible/matthew/13#v50)</sup> And shall cast them into the furnace of fire: there shall be wailing and gnashing of teeth.
 
 - The kingdom of heaven is like unto a net: Like. So the Kingdom of Heaven is like unto. That's what we reading, brothers and sisters, right: Revelation 22, Ezekiel 47, these are similitudes, parables, you understand, allegories, right. Like unto. The Kingdom of Heaven is what we actually discussing, but the Lord is using things that is like unto, rivers, trees, leaves, fruits, is actually talking about the spirits of men and their spiritual understanding, you understand.
 
@@ -179,9 +173,15 @@ tags: ["15 Minutes w/ The Captains", "angels", "health", "heaven-hell", "salvati
 
 - And gathered of every kind: Every kind of what? Every kind of fish, right. And this goes with, in the same chapter, when you read about the tears with the, you understand, there going to be some people, right, that, you know, claim to be believers, but the angel is going to separate them. No, that's not Israel, that's not Israel, that's not Israel. That's why it says it's gathered of every kind. It ain't talking about gold fish, yellow fish, blue fish, piranha, you know, tilapia, you understand. It's talking about every kind of man.
 
+> <sup>[48](/bible/matthew/13#v48)</sup> Which, when it was full, they drew to shore, and sat down, and gathered the good into vessels, but cast the bad away.
+
 - Which, when it was full: When that fishing net was full.
 
+> <sup>[49](/bible/matthew/13#v49)</sup> So shall it be at the end of the world: the angels shall come forth, and sever the wicked from among the just,
+
 - So shall it be at the end of the world: At the what? End of the world. At the end of the world. The angels shall come forth, and sever the wicked from among the just: Right, the wicked, the wicked nations and the wicked of our people.
+
+> <sup>[50](/bible/matthew/13#v50)</sup> And shall cast them into the furnace of fire: there shall be wailing and gnashing of teeth.
 
 - And shall cast them into the furnace of fire: Right, so we went there to show that us in the Kingdom of Heaven is likened unto fish, you understand, fish caught up in the net, and the angel separate the wicked from the just. So those fishes that are healed in the river of life is talking about the souls that are saved.
 
@@ -189,12 +189,12 @@ tags: ["15 Minutes w/ The Captains", "angels", "health", "heaven-hell", "salvati
 **[Ezekiel 47:10-11](/bible/ezekiel/47#v10)**  *[[42:00](https://www.youtube.com/watch?v=Fc1YwkZoIp8&t=2520s)]*
 
 > <sup>[10](/bible/ezekiel/47#v10)</sup> And it shall come to pass, that the fishers shall stand upon it from En–gedi even unto En–eglaim; they shall be a place to spread forth nets; their fish shall be according to their kinds, as the fish of the great sea, exceeding many.
->
-> <sup>[11](/bible/ezekiel/47#v11)</sup> But the miry places thereof and the marishes thereof shall not be healed; they shall be given to salt.
 
 - Their fish shall be according to their kinds, as the fish of the great sea, exceeding many: Right, remember how it say there going to be 12 gates with the names written their own of the 12 tribes of Israel. That's what it's talking about, fish shall be according to their kinds.
 
 - But the myy places thereof: But the my replaces, the mighty replaces. I'm trying to do a little Jamaican act, I fail. That was terrible. Could edit that out, but you can't cuz it's Li. But damn.
+
+> <sup>[11](/bible/ezekiel/47#v11)</sup> But the miry places thereof and the marishes thereof shall not be healed; they shall be given to salt.
 
 - And the marishes thereof shall not be healed: Shall what? Not be healed. So the Mary places shall not be healed.
 
@@ -244,8 +244,6 @@ tags: ["15 Minutes w/ The Captains", "angels", "health", "heaven-hell", "salvati
 **[Revelation 5:9-10](/bible/revelation/5#v9)**  *[[48:02](https://www.youtube.com/watch?v=Fc1YwkZoIp8&t=2882s)]*
 
 > <sup>[9](/bible/revelation/5#v9)</sup> And they sung a new song, saying, Thou art worthy to take the book, and to open the seals thereof: for thou wast slain, and hast redeemed us to God by thy blood out of every kindred, and tongue, and people, and nation;
->
-> <sup>[10](/bible/revelation/5#v10)</sup> And hast made us unto our God kings and priests: and we shall reign on the earth.
 
 - For thou wast slain: For Christ was slain.
 
@@ -269,32 +267,34 @@ tags: ["15 Minutes w/ The Captains", "angels", "health", "heaven-hell", "salvati
 
     Just to weed out any doubt, you understand, dissolve the doubts. And appointed a law in Israel: A law where? In Israel. A law where? In Israel.
 
+> <sup>[10](/bible/revelation/5#v10)</sup> And hast made us unto our God kings and priests: and we shall reign on the earth.
+
 
 **[2 Esdras 5:23-27](/bible/2-esdras/5#v23)**  *[[52:49](https://www.youtube.com/watch?v=Fc1YwkZoIp8&t=3169s)]*
 
 > <sup>[23](/bible/2-esdras/5#v23)</sup> And said, O Lord that bearest rule, of every wood of the earth, and of all the trees thereof, thou hast chosen thee one only vine:
->
-> <sup>[24](/bible/2-esdras/5#v24)</sup> And of all lands of the whole world thou hast chosen thee one pit: and of all the flowers thereof one lily:
->
-> <sup>[25](/bible/2-esdras/5#v25)</sup> And of all the depths of the sea thou hast filled thee one river: and of all builded cities thou hast hallowed Sion unto thyself:
->
-> <sup>[26](/bible/2-esdras/5#v26)</sup> And of all the fowls that are created thou hast named thee one dove: and of all the cattle that are made thou hast provided thee one sheep:
->
-> <sup>[27](/bible/2-esdras/5#v27)</sup> And among all the multitudes of peoples thou hast gotten thee one people: and unto this people, whom thou lovedst, thou gavest a law that is approved of all.
 
 - Of every wood of the earth, and of all the trees thereof, thou hast chosen thee one only vine: Right, so out of his favorite trees or whatever, he like the vine.
+
+> <sup>[24](/bible/2-esdras/5#v24)</sup> And of all lands of the whole world thou hast chosen thee one pit: and of all the flowers thereof one lily:
 
 - And of all lands of the whole world thou hast chosen thee one pit: His favorite land form is the pit.
 
 - And of all the flowers thereof one lily: The Lord's favorite flower is the lily. You might like the dandelion. It is what it is.
 
+> <sup>[25](/bible/2-esdras/5#v25)</sup> And of all the depths of the sea thou hast filled thee one river: and of all builded cities thou hast hallowed Sion unto thyself:
+
 - And of all the depths of the sea thou hast filled thee one river: Right, the Lord favorite water, body of water, is the river.
 
 - And of all builded cities: That's right.
 
+> <sup>[26](/bible/2-esdras/5#v26)</sup> And of all the fowls that are created thou hast named thee one dove: and of all the cattle that are made thou hast provided thee one sheep:
+
 - And of all the fowls that are created thou hast named thee one dove: So God got a favorite bird. It ain't the damn eagle, that's damn show. All right, but his favorite bird is the dove.
 
 - And of all the cattle that are made thou hast provided thee one sheep: Right, he loves sheep. That's why he call his chosen children the sheep of the house of Israel.
+
+> <sup>[27](/bible/2-esdras/5#v27)</sup> And among all the multitudes of peoples thou hast gotten thee one people: and unto this people, whom thou lovedst, thou gavest a law that is approved of all.
 
 - And among all the multitudes of peoples: So hold on. So he got all the, everything he created, and all his creation, he got favorites. Why the Christian don't see? God, no, God, you know, that's preposterous, he doesn't, he loves everybody the same, why would he make people and have a favorite? Well, don't you got a favorite show? Don't you got a favorite team? You got favorites. What's wrong with you, guy? Got a favorite bird, a favorite land form, a favorite body of water, you understand, a favorite cattle. And guess what, he got a favorite nation, and that's the children of Israel. You know, it is what it is. Can the lake say to the river, no, I don't like that, change, God? No, it is what it is. He prefer the river, you understand. So yes, Edomite, Ishmaelite, Hittite, whatever the hell you is, you ain't no Israelite. I'm sorry, well, I'm not, I'm sorry, not sorry. God favorite people is the Israelites.
 
@@ -304,16 +304,16 @@ tags: ["15 Minutes w/ The Captains", "angels", "health", "heaven-hell", "salvati
 **[Acts 2:5-8](/bible/acts/2#v5)**  *[[55:32](https://www.youtube.com/watch?v=Fc1YwkZoIp8&t=3332s)]*
 
 > <sup>[5](/bible/acts/2#v5)</sup> And there were dwelling at Jerusalem Jews, devout men, out of every nation under heaven.
->
-> <sup>[6](/bible/acts/2#v6)</sup> Now when this was noised abroad, the multitude came together, and were confounded, because that every man heard them speak in his own language.
->
-> <sup>[7](/bible/acts/2#v7)</sup> And they were all amazed and marvelled, saying one to another, Behold, are not all these which speak Galileans?
->
-> <sup>[8](/bible/acts/2#v8)</sup> And how hear we every man in our own tongue, wherein we were born?
 
 - Jews, devout men, out of every nation under heaven: So these are Jews, these are Israelites, out of where? Every nation. Out of where? Every nation. Out of where? Every nation under heaven.
 
+> <sup>[6](/bible/acts/2#v6)</sup> Now when this was noised abroad, the multitude came together, and were confounded, because that every man heard them speak in his own language.
+
 - Because that every man heard them speak in his own language: In his what? Own language. So verse 5 tell you they was all Jews, they was all the same race, but they came from different nations, and by that they had what? Different languages.
+
+> <sup>[7](/bible/acts/2#v7)</sup> And they were all amazed and marvelled, saying one to another, Behold, are not all these which speak Galileans?
+>
+> <sup>[8](/bible/acts/2#v8)</sup> And how hear we every man in our own tongue, wherein we were born?
 
 - Wherein we were born: Wherein we were what? Born. Cuz remember Jeremiah 2:14 said, Is Israel a homeborn slave? So we were scattered through all these different places, and throughout the Syrian captivity, Babylonian captivity, Persian me captivity, the Greek captivity, you understand. By the time we got to the Roman captivity we was spread all over this giant. So wherever you was born at, that's the language that you grew up speaking, but you were still a Jew, you still a Israelite, you understand.
 
@@ -327,23 +327,23 @@ tags: ["15 Minutes w/ The Captains", "angels", "health", "heaven-hell", "salvati
 **[Revelation 5:9-10](/bible/revelation/5#v9)**  *[[57:31](https://www.youtube.com/watch?v=Fc1YwkZoIp8&t=3451s)]*
 
 > <sup>[9](/bible/revelation/5#v9)</sup> And they sung a new song, saying, Thou art worthy to take the book, and to open the seals thereof: for thou wast slain, and hast redeemed us to God by thy blood out of every kindred, and tongue, and people, and nation;
->
-> <sup>[10](/bible/revelation/5#v10)</sup> And hast made us unto our God kings and priests: and we shall reign on the earth.
 
 - For thou wast slain, and hast redeemed us to God: Christ was slain, and has redeemed us to God. Has redeemed them that was under the law, under the first testament.
 
 - Out of every kindred, and tongue, and people, and nation: Because we were scattered. Acts 2 proves that those were Israelites from every nation under heaven.
 
+> <sup>[10](/bible/revelation/5#v10)</sup> And hast made us unto our God kings and priests: and we shall reign on the earth.
+
 
 **[Revelation 7:9-10](/bible/revelation/7#v9)**  *[[58:24](https://www.youtube.com/watch?v=Fc1YwkZoIp8&t=3504s)]*
 
 > <sup>[9](/bible/revelation/7#v9)</sup> After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands;
->
-> <sup>[10](/bible/revelation/7#v10)</sup> And cried with a loud voice, saying, Salvation to our God which sitteth upon the throne, and unto the Lamb.
 
 - After this I beheld, and, lo, a great multitude, which no man could number, of all nations: We still dealing with the healing of the nations, letting you know it's only talking about the Israelites. Of what? All nations. Of all nations. Christians: see, see. All right, let's see, let's see about this multitude.
 
 - Clothed with white robes, and palms in their hands: So they was clothed with white robes, right.
+
+> <sup>[10](/bible/revelation/7#v10)</sup> And cried with a loud voice, saying, Salvation to our God which sitteth upon the throne, and unto the Lamb.
 
 - And cried with a loud voice, saying, Salvation: Let me deal with something real quick. This multitude, it say lo a great multitude which no man can number.
 
@@ -369,12 +369,12 @@ tags: ["15 Minutes w/ The Captains", "angels", "health", "heaven-hell", "salvati
 **[Revelation 7:9-10](/bible/revelation/7#v9)**  *[[1:02:55](https://www.youtube.com/watch?v=Fc1YwkZoIp8&t=3775s)]*
 
 > <sup>[9](/bible/revelation/7#v9)</sup> After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands;
->
-> <sup>[10](/bible/revelation/7#v10)</sup> And cried with a loud voice, saying, Salvation to our God which sitteth upon the throne, and unto the Lamb.
 
 - After this I beheld, and, lo, a great multitude, which no man could number: So we know, precept of precept, multiable witnesses, that's talking about Israel prophetically.
 
 - Of all nations, and kindreds, and people, and tongues, stood before the throne: And that was the design that God chose to cause us to multiply to that multitude that couldn't be numbered. We will be scattered all throughout the earth, all right, through captivity. That's why, keep reading, watch this.
+
+> <sup>[10](/bible/revelation/7#v10)</sup> And cried with a loud voice, saying, Salvation to our God which sitteth upon the throne, and unto the Lamb.
 
 - And cried with a loud voice, saying, Salvation to our God: Saying what? Salvation to our God. So this great multitude clothed in white robes cried salvation unto our God, meaning what? These people received salvation, you understand. Salvation from what? The hands of the enemies. Who is salvation for, biblically? Give me a Bible verse to say salvation for all. I can give you a verse though, in the New Testament, in Paul letters, in Romans 11:26. What do Christians do with this? Spiritual Israel, they got to, cuz what do you do?
 
@@ -388,10 +388,10 @@ tags: ["15 Minutes w/ The Captains", "angels", "health", "heaven-hell", "salvati
 **[Revelation 7:13-14](/bible/revelation/7#v13)**  *[[1:04:44](https://www.youtube.com/watch?v=Fc1YwkZoIp8&t=3884s)]*
 
 > <sup>[13](/bible/revelation/7#v13)</sup> And one of the elders answered, saying unto me, What are these which are arrayed in white robes? and whence came they?
->
-> <sup>[14](/bible/revelation/7#v14)</sup> And I said unto him, Sir, thou knowest. And he said to me, These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb.
 
 - What are these which are arrayed in white robes? and whence came they?: Right, so who are these in these white robes? All right, bring it out, angel.
+
+> <sup>[14](/bible/revelation/7#v14)</sup> And I said unto him, Sir, thou knowest. And he said to me, These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb.
 
 - These are they which came out of great tribulation: So these in these white robes that cried salvation unto their God, this great multitude out of all nations, these are they which what? Came out of great tribulation. They came out of great tribulation. What nation came out of great tribulation?
 
@@ -405,18 +405,18 @@ tags: ["15 Minutes w/ The Captains", "angels", "health", "heaven-hell", "salvati
 **[Deuteronomy 4:27-30](/bible/deuteronomy/4#v27)**  *[[1:05:36](https://www.youtube.com/watch?v=Fc1YwkZoIp8&t=3936s)]*
 
 > <sup>[27](/bible/deuteronomy/4#v27)</sup> And the Lord shall scatter you among the nations, and ye shall be left few in number among the heathen, whither the Lord shall lead you.
->
-> <sup>[28](/bible/deuteronomy/4#v28)</sup> And there ye shall serve gods, the work of men’s hands, wood and stone, which neither see, nor hear, nor eat, nor smell.
->
-> <sup>[29](/bible/deuteronomy/4#v29)</sup> But if from thence thou shalt seek the Lord thy God, thou shalt find him, if thou seek him with all thy heart and with all thy soul.
->
-> <sup>[30](/bible/deuteronomy/4#v30)</sup> When thou art in tribulation, and all these things are come upon thee, even in the latter days, if thou turn to the Lord thy God, and shalt be obedient unto his voice;
 
 - And the Lord shall scatter you among the nations: That's why it said this multitude was of all nations, cuz Israel will be scattered among the nations.
 
 - And ye shall be left few in number among the heathen, whither the Lord shall lead you: Right, because they going to genocide, lynching, depopulation tactics, abortion, all these different antics to try to erase us.
 
+> <sup>[28](/bible/deuteronomy/4#v28)</sup> And there ye shall serve gods, the work of men’s hands, wood and stone, which neither see, nor hear, nor eat, nor smell.
+
 - And there ye shall serve: Right, we going to go through a dispensation of time under a deep sleep, to where we serve other gods, different religions.
+
+> <sup>[29](/bible/deuteronomy/4#v29)</sup> But if from thence thou shalt seek the Lord thy God, thou shalt find him, if thou seek him with all thy heart and with all thy soul.
+>
+> <sup>[30](/bible/deuteronomy/4#v30)</sup> When thou art in tribulation, and all these things are come upon thee, even in the latter days, if thou turn to the Lord thy God, and shalt be obedient unto his voice;
 
 - When thou art in tribulation: When thou, Israel, are what? In tribulation. In tribulation is starting from verse 27, being scattered among the nations in captivity, forced the serve their gods, you understand. That's transatlantic slave trade, that's Indian Ocean slave trade, that's, what's the other jint, the Arab slave trade, you understand. That's what that's talking about. Those that came from that, when thou are in tribulation, in captivity.
 
@@ -583,14 +583,14 @@ tags: ["15 Minutes w/ The Captains", "angels", "health", "heaven-hell", "salvati
 **[Revelation 22:7-9](/bible/revelation/22#v7)**  *[[1:24:53](https://www.youtube.com/watch?v=Fc1YwkZoIp8&t=5093s)]*
 
 > <sup>[7](/bible/revelation/22#v7)</sup> Behold, I come quickly: blessed is he that keepeth the sayings of the prophecy of this book.
->
-> <sup>[8](/bible/revelation/22#v8)</sup> And I John saw these things, and heard them. And when I had heard and seen, I fell down to worship before the feet of the angel which shewed me these things.
->
-> <sup>[9](/bible/revelation/22#v9)</sup> Then saith he unto me, See thou do it not: for I am thy fellowservant, and of thy brethren the prophets, and of them which keep the sayings of this book: worship God.
 
 - Behold, I come quickly: We at 7 now. We going to break down the last little piece.
 
+> <sup>[8](/bible/revelation/22#v8)</sup> And I John saw these things, and heard them. And when I had heard and seen, I fell down to worship before the feet of the angel which shewed me these things.
+
 - I fell down to worship before the feet of the angel which shewed me these things: So the angel stopped him, cuz after the angel told him and showed them all of these things, think it's hard to just kind of go through that, because it's like he told him and showed them. But anyway, after that angel had this ability, he like, I got to worship this guy. So let's see the angel's response.
+
+> <sup>[9](/bible/revelation/22#v9)</sup> Then saith he unto me, See thou do it not: for I am thy fellowservant, and of thy brethren the prophets, and of them which keep the sayings of this book: worship God.
 
 - See thou do it not: Don't worship me, John. For I am thy fellow servant: Because I'm your fellow servant.
 

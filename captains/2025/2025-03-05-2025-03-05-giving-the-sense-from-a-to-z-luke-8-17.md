@@ -25,10 +25,10 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word"]
 **[Luke 8:15-16](/bible/luke/8#v15)**  *[[3:37](https://www.youtube.com/watch?v=QohU8zdfA4w&t=217s)]*
 
 > <sup>[15](/bible/luke/8#v15)</sup> But that on the good ground are they, which in an honest and good heart, having heard the word, keep it, and bring forth fruit with patience.
->
-> <sup>[16](/bible/luke/8#v16)</sup> No man, when he hath lighted a candle, covereth it with a vessel, or putteth it under a bed; but setteth it on a candlestick, that they which enter in may see the light.
 
 - But that on the good ground are they which in an honest and good heart, having heard the word, keep it, and bring forth fruit with patience: Right.
+
+> <sup>[16](/bible/luke/8#v16)</sup> No man, when he hath lighted a candle, covereth it with a vessel, or putteth it under a bed; but setteth it on a candlestick, that they which enter in may see the light.
 
 - No man, when he hath lighted a candle, covereth it with a vessel, or putteth it under a bed; but setteth it on a candlestick, that they which enter in may see the light: Right, so the same thing with us, right? When we show the light to the world, we wear fringes, we keep the commandments, so on and so forth, we out there teaching, because we showing them the light. We not hiding it, right?
 
@@ -52,6 +52,10 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word"]
 
 **[2 Esdras 14:1-6](/bible/2-esdras/14#v1)**  *[[5:00](https://www.youtube.com/watch?v=QohU8zdfA4w&t=300s)]*
 
+- Let's go to Second Esdras 14: Matter of fact, let's get that real quick. Let's get Mark, I think it's Mark, I think that's what I want. Hold on, let me check real quick before I make y'all go there. I didn't really had this in a lesson, but no, that's not what I want, that's not what I want. No, we'll skip that, we'll skip that. Let's go to Second Esdras 14. All right, y'all may know this one, Second Esdras 14. All right, because what? The Lord is going to give his word to us and we supposed to do what? Go teach it. And the one who's not teaching, you got to show yourself, you have to be that example, right? So again, the fringes, how you conduct yourself. As a sister, how you moving, you wearing your skirts, you doing what you got to do, you talking to the people, letting them know, okay, this is what I do, so on and so forth. You ain't going to be on your job going crazy about it, right, but they see, right? You showing your light.
+
+- And it came to pass upon the third day, I sat under an oak, and, behold, there came a voice out of a bush over against me, and said, Esdras, Esdras. And I said, Here am I, Lord. And I stood up upon my feet. Then said he unto me, In the bush I did manifestly reveal myself unto Moses, and talked with him, when my people served in Egypt: So this is Christ here dealing with Ezra, and he's telling him, when I was dealing with Moses, that was me that was in the bush. Now I'm talking with you.
+
 > <sup>[1](/bible/2-esdras/14#v1)</sup> And it came to pass upon the third day, I sat under an oak, and, behold, there came a voice out of a bush over against me, and said, Esdras, Esdras.
 >
 > <sup>[2](/bible/2-esdras/14#v2)</sup> And I said, Here am I, Lord. And I stood up upon my feet.
@@ -59,16 +63,12 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word"]
 > <sup>[3](/bible/2-esdras/14#v3)</sup> Then said he unto me, In the bush I did manifestly reveal myself unto Moses, and talked with him, when my people served in Egypt:
 >
 > <sup>[4](/bible/2-esdras/14#v4)</sup> And I sent him, and led my people out of Egypt, and brought him up to the mount of Sinai, where I held him by me a long season,
->
+
+- And I sent him and led my people out of Egypt, and brought him up to the mount of Sinai, where I held him by me a long season: Right, it's important. And told him many wondrous things, and shewed him the secrets of the times, and the end; and commanded him, saying. Right, so he showed them the secrets of the times in the end, right? The whole, from the beginning to the end, right, he showed Moses. He said what? That I held him by me a long season. So y'all know that Moses was up there for 40 days, right? 40 days, 40 nights. He held by him a long season. So in that long season he didn't just write Ten Commandments and send them on his way. That's not what was going on. He sent them the Commandments, he had all the statutes, right? So the Commandment, the law, every other law subservient to that law, all of that was in there. Every, you see, was in there. That's how come he had him a long season. How did he write the Book of Genesis when he wasn't alive? Because the Lord had him there: this is what happened, so and so forth, boom. This is what I want, this is what I want told to the people, and this is what I don't want told to the people, right? We'll read that in the next verse.
+
 > <sup>[5](/bible/2-esdras/14#v5)</sup> And told him many wondrous things, and shewed him the secrets of the times, and the end; and commanded him, saying,
 >
 > <sup>[6](/bible/2-esdras/14#v6)</sup> These words shalt thou declare, and these shalt thou hide.
-
-- Let's go to Second Esdras 14: Matter of fact, let's get that real quick. Let's get Mark, I think it's Mark, I think that's what I want. Hold on, let me check real quick before I make y'all go there. I didn't really had this in a lesson, but no, that's not what I want, that's not what I want. No, we'll skip that, we'll skip that. Let's go to Second Esdras 14. All right, y'all may know this one, Second Esdras 14. All right, because what? The Lord is going to give his word to us and we supposed to do what? Go teach it. And the one who's not teaching, you got to show yourself, you have to be that example, right? So again, the fringes, how you conduct yourself. As a sister, how you moving, you wearing your skirts, you doing what you got to do, you talking to the people, letting them know, okay, this is what I do, so on and so forth. You ain't going to be on your job going crazy about it, right, but they see, right? You showing your light.
-
-- And it came to pass upon the third day, I sat under an oak, and, behold, there came a voice out of a bush over against me, and said, Esdras, Esdras. And I said, Here am I, Lord. And I stood up upon my feet. Then said he unto me, In the bush I did manifestly reveal myself unto Moses, and talked with him, when my people served in Egypt: So this is Christ here dealing with Ezra, and he's telling him, when I was dealing with Moses, that was me that was in the bush. Now I'm talking with you.
-
-- And I sent him and led my people out of Egypt, and brought him up to the mount of Sinai, where I held him by me a long season: Right, it's important. And told him many wondrous things, and shewed him the secrets of the times, and the end; and commanded him, saying. Right, so he showed them the secrets of the times in the end, right? The whole, from the beginning to the end, right, he showed Moses. He said what? That I held him by me a long season. So y'all know that Moses was up there for 40 days, right? 40 days, 40 nights. He held by him a long season. So in that long season he didn't just write Ten Commandments and send them on his way. That's not what was going on. He sent them the Commandments, he had all the statutes, right? So the Commandment, the law, every other law subservient to that law, all of that was in there. Every, you see, was in there. That's how come he had him a long season. How did he write the Book of Genesis when he wasn't alive? Because the Lord had him there: this is what happened, so and so forth, boom. This is what I want, this is what I want told to the people, and this is what I don't want told to the people, right? We'll read that in the next verse.
 
 - These words shalt thou declare, and these shalt thou hide: Right, so some of the stuff, that's how we learn it. So plainly, notice how some of the scriptures we got to really go deep in precept to get the understanding, because the Lord said, no, I don't want that so easily readily available. That's what we just read in Luke 18, remember, I'm sorry, Luke 8, when all of those, remember, it was given as a parable to the disciples. The disciples said, why is this given as a parable? The Lord said, because I don't want everybody to know it, I don't want everybody to get it. So this is why it's written like that. Some of y'all might say, man, that's foul, why the Lord doing that? Because that's how he do, because this ain't for everybody. All right, this ain't for everybody.
 
@@ -118,48 +118,48 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word"]
 **[Luke 19:15-27](/bible/luke/19#v15)**  *[[13:42](https://www.youtube.com/watch?v=QohU8zdfA4w&t=822s)]*
 
 > <sup>[15](/bible/luke/19#v15)</sup> And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading.
->
-> <sup>[16](/bible/luke/19#v16)</sup> Then came the first, saying, Lord, thy pound hath gained ten pounds.
->
-> <sup>[17](/bible/luke/19#v17)</sup> And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities.
->
-> <sup>[18](/bible/luke/19#v18)</sup> And the second came, saying, Lord, thy pound hath gained five pounds.
->
-> <sup>[19](/bible/luke/19#v19)</sup> And he said likewise to him, Be thou also over five cities.
->
-> <sup>[20](/bible/luke/19#v20)</sup> And another came, saying, Lord, behold, here is thy pound, which I have kept laid up in a napkin:
->
-> <sup>[21](/bible/luke/19#v21)</sup> For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow.
->
-> <sup>[22](/bible/luke/19#v22)</sup> And he saith unto him, Out of thine own mouth will I judge thee, thou wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow:
->
-> <sup>[23](/bible/luke/19#v23)</sup> Wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury?
->
-> <sup>[24](/bible/luke/19#v24)</sup> And he said unto them that stood by, Take from him the pound, and give it to him that hath ten pounds.
->
-> <sup>[25](/bible/luke/19#v25)</sup> (And they said unto him, Lord, he hath ten pounds.)
->
-> <sup>[26](/bible/luke/19#v26)</sup> For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him.
->
-> <sup>[27](/bible/luke/19#v27)</sup> But those mine enemies, which would not that I should reign over them, bring hither, and slay them before me.
 
 - And it came to pass, that when he was returned: So now let's go back, Luke 19, and we're gonna start in verse 15, y'all. All right, pay close attention. All right, we gonna read all the way down to 27. What are we trying to prove? What we read up in Luke 8, where it says, whosoever hath not, that will be taken from him, whosoever shall have, that shall be given to him. All right, so this is going to give you a little more understanding on that, right?
 
 - To whom he had given the money: Verse 15: And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money. That's the pounds, right? That he might know how much every man had gained by trading.
 
+> <sup>[16](/bible/luke/19#v16)</sup> Then came the first, saying, Lord, thy pound hath gained ten pounds.
+
 - Lord, thy pound hath gained ten pounds: Then came the first, saying, Lord, thy pound hath gained ten pounds. So he gave one brother one pound, and his brother did what he had to do and gained ten, right? That was an investment, if you want to look at it like that, right? They called it money here, but what is it? It's talking about the truth. It's talking about giving the laws, Commandments, the truth. He went out and did what he had to do and brought in fruit, meaning other people repented based on how he was handling his business, right? He was teaching, whether he was just being an example, he was putting himself out there and the people were repentant.
+
+> <sup>[17](/bible/luke/19#v17)</sup> And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities.
 
 - Have thou authority over ten cities: Okay, verse 17: And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities. That part is going to be real. Talks about that in the Book of Matthew, how the disciples going to be ruling over cities and lands, right? And the second came, saying, Lord, thy pound hath gained five pounds. And he said likewise to him, Be thou also over five cities.
 
+> <sup>[18](/bible/luke/19#v18)</sup> And the second came, saying, Lord, thy pound hath gained five pounds.
+>
+> <sup>[19](/bible/luke/19#v19)</sup> And he said likewise to him, Be thou also over five cities.
+>
+> <sup>[20](/bible/luke/19#v20)</sup> And another came, saying, Lord, behold, here is thy pound, which I have kept laid up in a napkin:
+
 - Which I have kept laid up in a napkin: And another came, saying, Lord, behold, here is thy pound, which I have kept laid up in a napkin. So this guy, when he got given the pound, he put it in the napkin. He didn't go out and do what he needed to do to what? Gain more money off of that pound. Watch this. He said, I laid it up in a napkin, for I feared thee, because thou art an austere man, meaning Christ was a fierce man, right? That he was very strict, right?
+
+> <sup>[21](/bible/luke/19#v21)</sup> For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow.
 
 - Thou takest up that thou layedst not down, and reapest that thou didst not sow: I'm going to read that again: For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow. What does that mean? That means that when Christ comes to gather the 12 tribes, he personally did not go and teach the people. We were teaching the people. So he's coming to reap what he did not sow, meaning he taught us, now we're going to go out and sow the seeds, and then he's going to come and reap what we put out there. Y'all understand that? Same thing like how y'all got a boss and y'all go work for the boss, y'all produce, the boss is making money off of your production. That's how it go. That's what that means, okay? That he's coming to reap what he didn't sow.
 
+> <sup>[22](/bible/luke/19#v22)</sup> And he saith unto him, Out of thine own mouth will I judge thee, thou wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow:
+
 - Out of thine own mouth will I judge thee, thou wicked servant: Verse 22: And he saith unto him, Out of thine own mouth will I judge thee, thou wicked servant. So he called him a wicked servant for not going out and teaching and being that example to the people. The Lord said, you a wicked servant, right? Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow: wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury? So the Lord said, you knew I was a tough guy, you knew I was hard, you knew I was austere, you knew I was straight, so why did you not take my money and put it in the bank so I can get some interest? Meaning, if you knew all of this, why you didn't go out, teach the word and bring the people to repentance, so when I show up, Israel is ready for me to gather them? That's what it's talking about, y'all.
+
+> <sup>[23](/bible/luke/19#v23)</sup> Wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury?
+>
+> <sup>[24](/bible/luke/19#v24)</sup> And he said unto them that stood by, Take from him the pound, and give it to him that hath ten pounds.
 
 - Take from him the pound, and give it to him that hath ten pounds: All right, and he said unto them that stood by, Take from him the pound, and give it to him that hath ten pounds. You see that? So what we read in Luke chapter 8, when it says, to him that hath not, it will be taken from him, right? So when we have the gift, when the Lord, remember, the scripture talks about, if you take your hand off the plow and you don't do the work of the Lord no more, that you put Christ to an open shame and sacrificed the fresh. I paraphrase that, I messed that up a little bit, but the point is, is that when you're not doing your job after you know the Commandments, you not shining your light before men. Because that's what Luke 8 is going into: if you're not shining your light before men, you being a wicked servant.
 
+> <sup>[25](/bible/luke/19#v25)</sup> (And they said unto him, Lord, he hath ten pounds.)
+>
+> <sup>[26](/bible/luke/19#v26)</sup> For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him.
+
 - Unto every one which hath shall be given: Verse 24: And he said unto them that stood by, Take from him the pound, and give it to him that hath ten pounds. And they said unto him, Lord, he hath ten pounds already. For I say unto you, That unto every one which hath shall be given. That's what we just read. And from him that hath not, even that he hath shall be taken away from him.
+
+> <sup>[27](/bible/luke/19#v27)</sup> But those mine enemies, which would not that I should reign over them, bring hither, and slay them before me.
 
 - But those mine enemies, which would not that I should reign over them, bring hither, and slay them before me: Y'all understand that? That's going to be in the wilderness. That's when it talks about in the wilderness, Ezekiel 20, we went over that not too long ago, that he's going to destroy the rebels. A lot of brothers and sisters going to be brought over and saved, to be brought over into the wilderness to be made an example, you understand? So when you not shining your light before men, just, you about to be smashed, just know that. All right, so all praise to the Lord, Lord's will y'all got something out of that.
 
@@ -176,16 +176,16 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word"]
 **[Matthew 13:54-56](/bible/matthew/13#v54)**  *[[19:11](https://www.youtube.com/watch?v=QohU8zdfA4w&t=1151s)]*
 
 > <sup>[54](/bible/matthew/13#v54)</sup> And when he was come into his own country, he taught them in their synagogue, insomuch that they were astonished, and said, Whence hath this man this wisdom, and these mighty works?
->
-> <sup>[55](/bible/matthew/13#v55)</sup> Is not this the carpenter’s son? is not his mother called Mary? and his brethren, James, and Joses, and Simon, and Judas?
->
-> <sup>[56](/bible/matthew/13#v56)</sup> And his sisters, are they not all with us? Whence then hath this man all these things?
 
 - Whence hath this man this wisdom, and these mighty works: All right, go to Matthew 13, y'all, Matthew 13, let's go to Matthew 13, and let's go 54, 54. All right, watch this, y'all, Matthew chapter 13 and verse 54: And when he was come into his own country, he taught them in their synagogue, insomuch that they were astonished, and said, Whence hath this man this wisdom, and these mighty works? So they saying, where he come from with this? He ain't study underneath, you know what I'm saying, the scribes and the Pharisees and the Sadducees and them.
+
+> <sup>[55](/bible/matthew/13#v55)</sup> Is not this the carpenter’s son? is not his mother called Mary? and his brethren, James, and Joses, and Simon, and Judas?
 
 - Is not this the carpenter's son: All right, so Matthew 13 and 54, I'm read that again. And when he was come into his own country, he taught them in their synagogue, insomuch that they were astonished, and said, Whence hath this man this wisdom, and these mighty works? Is not this the carpenter's son? So they knew this was Joseph's son. There was never any talk about him being immaculately concepted or none of that garbage was going on. They knew his father. They said, is not this the carpenter's son?
 
 - And his brethren, James, and Joses, and Simon, and Judas: Is not his mother called Mary? and his brethren, James, and Joseph, and Simon, and Judas? Right, so Judas, that's the Greek for Judah. That's just, it just means Judah, not Judas Iscariot, y'all. Because Judas Iscariot, his name is really Judah. All right, but this is Judas, Christ brother, literal blood brother.
+
+> <sup>[56](/bible/matthew/13#v56)</sup> And his sisters, are they not all with us? Whence then hath this man all these things?
 
 - And his sisters, are they not all with us: 56: And his sisters, are they not all with us? So he got sisters. Christ had brothers and sisters made of his mother and father on the earth, y'all. Whence then hath this man all these things? All right, so they knew his family.
 
@@ -193,10 +193,10 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word"]
 **[Matthew 1:1-2](/bible/matthew/1#v1)**  *[[21:32](https://www.youtube.com/watch?v=QohU8zdfA4w&t=1292s)]*
 
 > <sup>[1](/bible/matthew/1#v1)</sup> The book of the generation of Jesus Christ, the son of David, the son of Abraham.
->
-> <sup>[2](/bible/matthew/1#v2)</sup> Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren;
 
 - The book of the generation of Jesus Christ: Okay, now let's go back, let's go to, matter of fact, let's stay there for a second. I just want to, you know, we like to kill a fly with a sledgehammer, right? So what we about to do, let's go touch on a little genealogy, just in case y'all need to battle at some time, right? Because again, we outside, it is what it is. We went to the NBA All-Star game, I think I mentioned that maybe a couple weeks back. We had the NBA All-Star game, teaching some Christians out there, and some damn Moabites, and you know, different heads, and we started to get into this conversation. So I had to show them something, and they admitted that they learned something after this, you know what I'm saying. I'm glad they did. That not that they getting the kingdom, but at least they got to know when they see Israel United in Christ, they gotta go sit down somewhere. We don't got time for games, right?
+
+> <sup>[2](/bible/matthew/1#v2)</sup> Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren;
 
 - And Jacob begat Judas and his brethren: So yo, Matthew chapter 1, we gonna read 1 through 2. Watch this. We've read this many times. Watch this: The book of the generation of Jesus Christ, the son of David, the son of Abraham. Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren, meaning Judah and the rest of Israel, right? The rest of the tribes. It's saying Judas and not mentioning all the other tribes because what? This is Christ genealogy. He came from the tribe of Judah, right?
 
@@ -239,10 +239,10 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word"]
 **[Luke 8:20-21](/bible/luke/8#v20)**  *[[26:36](https://www.youtube.com/watch?v=QohU8zdfA4w&t=1596s)]*
 
 > <sup>[20](/bible/luke/8#v20)</sup> And it was told him by certain which said, Thy mother and thy brethren stand without, desiring to see thee.
->
-> <sup>[21](/bible/luke/8#v21)</sup> And he answered and said unto them, My mother and my brethren are these which hear the word of God, and do it.
 
 - Thy mother and thy brethren stand without, desiring to see thee: All right, let's go Luke chapter 8, let's go back, verse 20. All right, Luke chapter 8 and verse 20, y'all. All right: And it was told him by certain which said, Thy mother and thy brethren stand without, desiring to see thee. Right, so now remember, they can't get through. The crowd is too big, they cannot get through. Luke chapter 8, and we at verse 20, y'all. Hopefully I'm not going too fast. All right, I'm read it again. And it was told him by certain which said, Thy mother and thy brethren stand without, desiring to see thee. Right, because remember we talked about that big crowd that was there. They could not cut through the crowd, so they saw one of the brothers: hey, let Jesus know we here, right?
+
+> <sup>[21](/bible/luke/8#v21)</sup> And he answered and said unto them, My mother and my brethren are these which hear the word of God, and do it.
 
 - My mother and my brethren are these which hear the word of God, and do it: And he answered and said unto them, My mother and my brethren are these which hear the word of God, and do it. So when they start, oh, your mom's is out there and your brother, he's like, yo, listen man, I'm teaching right now. Don't talk to me about my mother and my brother. Whoever's listening and keeping it, that's who my mother and brother is. Don't come to me with this again, you know what I'm saying. He want to hear that, he had business to handle, right? But let's talk about that a little bit.
 
@@ -250,16 +250,16 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word"]
 **[James 1:22-25](/bible/james/1#v22)**  *[[27:54](https://www.youtube.com/watch?v=QohU8zdfA4w&t=1674s)]*
 
 > <sup>[22](/bible/james/1#v22)</sup> But be ye doers of the word, and not hearers only, deceiving your own selves.
->
-> <sup>[23](/bible/james/1#v23)</sup> For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:
->
-> <sup>[24](/bible/james/1#v24)</sup> For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was.
->
-> <sup>[25](/bible/james/1#v25)</sup> But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.
 
 - But be ye doers of the word, and not hearers only, deceiving your own selves: All right, let's get to James chapter 1, right? That's why we got these scriptures here, y'all. James chapter 1. All right, and you know where we starting at, it's going to be 22. James chapter 1 and verse 22, y'all: But be ye doers of the word, and not hearers only, deceiving your own selves. Right, that's why Christ said, whoever's hearing and doing, that's my family, right? That's how we all family, we all together, based on the Bible. Without this Bible we probably wouldn't have known each other, you know what I'm saying. We probably, maybe some of us would have met in wickedness, but we together now because what we hear in this word and we're doing it, right?
 
+> <sup>[23](/bible/james/1#v23)</sup> For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:
+
 - For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass: Verse 23: For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass: for he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was. Right, so after he gets this knowledge, he's looking in the mirror, oh yeah, I'm repenting. Then he leaves and forget what the hell he was supposed to do, because he just heard the word. He heard it and then never applied it. When he heard it, it sounded good, like, oh man, yeah, this is me, and then he left and it was just forgot all about it, went right back to the world of foolishness. That's what it's talking about.
+
+> <sup>[24](/bible/james/1#v24)</sup> For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was.
+>
+> <sup>[25](/bible/james/1#v25)</sup> But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.
 
 - But whoso looketh into the perfect law of liberty, and continueth therein: All right, but whoso looketh into the perfect law of liberty, meaning what? The New Covenant, right? Christ understanding, right? Having faith, no sacrificial law, right? Into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, meaning you don't just hear and don't do, but you hear it and do it, but a doer of the work, this man shall be blessed in his deed. Y'all see that? I think that's where I wanted to go to, just verse 25. Now remember what it says: forgetful. Remember why we even keep the fringes on, is to remember, right? That was always the thing, to remember. Hear and remember, y'all. All right, all Praises.
 
@@ -273,16 +273,16 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word"]
 **[Luke 8:22-25](/bible/luke/8#v22)**  *[[30:03](https://www.youtube.com/watch?v=QohU8zdfA4w&t=1803s)]*
 
 > <sup>[22](/bible/luke/8#v22)</sup> Now it came to pass on a certain day, that he went into a ship with his disciples: and he said unto them, Let us go over unto the other side of the lake. And they launched forth.
->
-> <sup>[23](/bible/luke/8#v23)</sup> But as they sailed he fell asleep: and there came down a storm of wind on the lake; and they were filled with water, and were in jeopardy.
->
-> <sup>[24](/bible/luke/8#v24)</sup> And they came to him, and awoke him, saying, Master, master, we perish. Then he arose, and rebuked the wind and the raging of the water: and they ceased, and there was a calm.
->
-> <sup>[25](/bible/luke/8#v25)</sup> And he said unto them, Where is your faith? And they being afraid wondered, saying one to another, What manner of man is this! for he commandeth even the winds and water, and they obey him.
 
 - He went into a ship with his disciples: All right, now let's get back to Luke chapter 8, y'all, Luke chapter 8. All right, and we're going to start at verse 22: Now it came to pass on a certain day, that he went into a ship, meaning Christ, with his disciples: and he said unto them, Let us go over unto the other side of the lake. And they launched forth.
 
+> <sup>[23](/bible/luke/8#v23)</sup> But as they sailed he fell asleep: and there came down a storm of wind on the lake; and they were filled with water, and were in jeopardy.
+>
+> <sup>[24](/bible/luke/8#v24)</sup> And they came to him, and awoke him, saying, Master, master, we perish. Then he arose, and rebuked the wind and the raging of the water: and they ceased, and there was a calm.
+
 - Master, master, we perish: But as they sailed he fell asleep: and there came down a storm of wind on the lake; and they were filled with water, and were in jeopardy. And they came to him, and awoke him, saying, Master, master, we perish. They was like, damn, we about to die, and Christ is sleeping, right? Christ is sleeping, and they like, yo, we about to die.
+
+> <sup>[25](/bible/luke/8#v25)</sup> And he said unto them, Where is your faith? And they being afraid wondered, saying one to another, What manner of man is this! for he commandeth even the winds and water, and they obey him.
 
 - What manner of man is this: Then he arose, and rebuked the wind and the raging of the water: and they ceased, and there was a calm. And he said unto them, Where is your faith? And they being afraid wondered, saying one to another, What manner of man is this! for he commandeth even the winds and water, and they obey him. Right, so yo, y'all, I know sometimes we forget, but the disciples were only with Christ for about three years, right? So when all this stuff is going on, they're still amazed at the things that they're seeing, right? So they saying, what kind of man is this? Y'all may be saying, that's the disciples talking like that? Because they recognize this man just talk to the elements, like the rain stopped, like everything calmed down. He was asleep, the rain was going crazy, he woke up: y'all ain't got no faith, boom, and it stopped. But let's talk about that a little bit, because that's some heavy stuff. Things like this we just read past, right? But let's get a little bit more into that.
 
@@ -290,37 +290,37 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word"]
 **[Job 38:1-7](/bible/job/38#v1)**  *[[31:38](https://www.youtube.com/watch?v=QohU8zdfA4w&t=1898s)]*
 
 > <sup>[1](/bible/job/38#v1)</sup> Then the Lord answered Job out of the whirlwind, and said,
->
+
+- Then the LORD answered Job out of the whirlwind: Let's get Job, all right? Obviously we gonna come back to Luke, but let's get Job chapter 38, let's get that, y'all. Let's get Job chapter 38. Some incredible stuff in here, y'all. Scriptures is crazy, scriptures is crazy. All praises to the Lord, man, all Praises that we got called into this. But we have to remain diligent so we can be chosen, y'all. That's the key. Many are called, few are chosen. That's what this Luke 8 is getting into. We have to be chosen, we got to show ourselves approved, okay? There's a job to be done. Just like Christ had to go and die for the people. If he didn't go die for the people, he wasn't getting the kingdom, just that simple. That was his Commandments. Our Commandments, we just keep these laws, that's it. Keep these laws and endure, that's it. I know it sounds, because we all going through it, so it's like, damn, this endurance is hard. It is, but it ain't that hard. Let's do it.
+
 > <sup>[2](/bible/job/38#v2)</sup> Who is this that darkeneth counsel by words without knowledge?
 >
 > <sup>[3](/bible/job/38#v3)</sup> Gird up now thy loins like a man; for I will demand of thee, and answer thou me.
->
+
+- Gird up now thy loins like a man; for I will demand of thee, and answer thou me: All right, so Job chapter 38, and we going to start in verse 1, y'all. Verse 1: Then the LORD answered Job out of the whirlwind, and said, Who is this that darkeneth counsel by words without knowledge? Gird up now thy loins like a man; for I will demand of thee, and answer thou me. Right, he said, now I'mma ask you some questions. Because you know, Job is like, oh, what happened to this, why is this going on? You know, obviously, right, he was going through it. The Lord said, gird up your loins like a man, I will demand of thee and answer you me, right?
+
 > <sup>[4](/bible/job/38#v4)</sup> Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding.
->
+
+- Where wast thou when I laid the foundations of the earth: Watch this: Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding. Where were you when I was doing all of that? Who hath laid the measures thereof, if thou knowest? or who hath stretched the line upon it? Whereupon are the foundations thereof fastened? or who laid the corner stone thereof; when the morning stars sang together, and all the sons of God shouted for joy? Y'all recognize what he's telling them? Who fastened the universe together? Y'all understand why Christ is a carpenter on the earth, right? Because he's a carpenter in the universe. So it's the same thing. He just came to Earth, he was a carpenter. That alone is a parable. They said Christ spoke in parables, and he moved in a parable: oh yeah, let me be a carpenter when I'm on the earth, so y'all can understand who built it. That's what we got to understand. So he built the universe. He said, who fastened it? Yo, this is sick. Who laid the corner stone thereof, when the morning stars sang together, and all the sons of God shouted for joy?
+
 > <sup>[5](/bible/job/38#v5)</sup> Who hath laid the measures thereof, if thou knowest? or who hath stretched the line upon it?
 >
 > <sup>[6](/bible/job/38#v6)</sup> Whereupon are the foundations thereof fastened? or who laid the corner stone thereof;
 >
 > <sup>[7](/bible/job/38#v7)</sup> When the morning stars sang together, and all the sons of God shouted for joy?
 
-- Then the LORD answered Job out of the whirlwind: Let's get Job, all right? Obviously we gonna come back to Luke, but let's get Job chapter 38, let's get that, y'all. Let's get Job chapter 38. Some incredible stuff in here, y'all. Scriptures is crazy, scriptures is crazy. All praises to the Lord, man, all Praises that we got called into this. But we have to remain diligent so we can be chosen, y'all. That's the key. Many are called, few are chosen. That's what this Luke 8 is getting into. We have to be chosen, we got to show ourselves approved, okay? There's a job to be done. Just like Christ had to go and die for the people. If he didn't go die for the people, he wasn't getting the kingdom, just that simple. That was his Commandments. Our Commandments, we just keep these laws, that's it. Keep these laws and endure, that's it. I know it sounds, because we all going through it, so it's like, damn, this endurance is hard. It is, but it ain't that hard. Let's do it.
-
-- Gird up now thy loins like a man; for I will demand of thee, and answer thou me: All right, so Job chapter 38, and we going to start in verse 1, y'all. Verse 1: Then the LORD answered Job out of the whirlwind, and said, Who is this that darkeneth counsel by words without knowledge? Gird up now thy loins like a man; for I will demand of thee, and answer thou me. Right, he said, now I'mma ask you some questions. Because you know, Job is like, oh, what happened to this, why is this going on? You know, obviously, right, he was going through it. The Lord said, gird up your loins like a man, I will demand of thee and answer you me, right?
-
-- Where wast thou when I laid the foundations of the earth: Watch this: Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding. Where were you when I was doing all of that? Who hath laid the measures thereof, if thou knowest? or who hath stretched the line upon it? Whereupon are the foundations thereof fastened? or who laid the corner stone thereof; when the morning stars sang together, and all the sons of God shouted for joy? Y'all recognize what he's telling them? Who fastened the universe together? Y'all understand why Christ is a carpenter on the earth, right? Because he's a carpenter in the universe. So it's the same thing. He just came to Earth, he was a carpenter. That alone is a parable. They said Christ spoke in parables, and he moved in a parable: oh yeah, let me be a carpenter when I'm on the earth, so y'all can understand who built it. That's what we got to understand. So he built the universe. He said, who fastened it? Yo, this is sick. Who laid the corner stone thereof, when the morning stars sang together, and all the sons of God shouted for joy?
-
 
 **[Job 38:8-11](/bible/job/38#v8)**  *[[34:26](https://www.youtube.com/watch?v=QohU8zdfA4w&t=2066s)]*
 
 > <sup>[8](/bible/job/38#v8)</sup> Or who shut up the sea with doors, when it brake forth, as if it had issued out of the womb?
->
+
+- Or who shut up the sea with doors, when it brake forth, as if it had issued out of the womb: Right, so he said all them waters was issuing out. Remember, we're now reading this based on what we read about Christ controlling the elements. Christ is saying here, who shut up the sea with doors when it brake forth, as if it had issued out of the womb, right?
+
 > <sup>[9](/bible/job/38#v9)</sup> When I made the cloud the garment thereof, and thick darkness a swaddlingband for it,
 >
 > <sup>[10](/bible/job/38#v10)</sup> And brake up for it my decreed place, and set bars and doors,
 >
 > <sup>[11](/bible/job/38#v11)</sup> And said, Hitherto shalt thou come, but no further: and here shall thy proud waves be stayed?
-
-- Or who shut up the sea with doors, when it brake forth, as if it had issued out of the womb: Right, so he said all them waters was issuing out. Remember, we're now reading this based on what we read about Christ controlling the elements. Christ is saying here, who shut up the sea with doors when it brake forth, as if it had issued out of the womb, right?
 
 - Hitherto shalt thou come, but no further: and here shall thy proud waves be stayed: Jump down to verse 11: And said, Hitherto shalt thou come, but no further: and here shall thy proud waves be stayed. Yo, let's read it again, this is stupid. I'm going read from verse 8, I'm going read all the way through. Or who shut up the sea with doors, when it brake forth, as if it had issued out of the womb? When I made the cloud the garment thereof, and thick darkness a swaddlingband for it, and brake up for it my decreed place, and set bars and doors, and said, Hitherto shalt thou come, but no further. He's telling the waters, you going to come this far but no further. And here shall thy proud waves be stayed. So them waves that's come, the Lord said, okay, yeah, you're proud waves, this as far as you gonna come. That's the beach. We never think, how come the water just don't keep coming and keep coming and keep coming? Because the Lord gave it a commandment. Everything has a commandment. The sun, it talk about the sun and the circuits and the moons in the circuits, and the water, right, coming to a certain place. It said that proud waves be stayed, meaning you gonna stay right there. This is a beautiful thing. So when we know this, we understand what we're reading in Luke 8 when the storm stopped, because the Lord has power over that. He has power over it. Why? Because he made it. He made it, he gave the Commandment to it. So that's why when he's speaking, that voice is heard: oh, that's it, we stopping. We gonna come back to Job.
 
@@ -328,7 +328,9 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word"]
 **[Proverbs 8:23-29](/bible/proverbs/8#v23)**  *[[35:57](https://www.youtube.com/watch?v=QohU8zdfA4w&t=2157s)]*
 
 > <sup>[23](/bible/proverbs/8#v23)</sup> I was set up from everlasting, from the beginning, or ever the earth was.
->
+
+- I was set up from everlasting, from the beginning, or ever the earth was: I want to jump to something real quick. Let's go to Proverbs 8. Let me do the Deon, let me do the Bishop Yawasap, y'all. All right, all Praises. Proverbs 8, we gonna start in verse 23, y'all. Proverbs chapter 8 and verse 23: I was set up from everlasting, from the beginning, or ever the earth was. Remember what we read in Job 38: were you there when I fastened the universe and all that? Remember that. I was set up from everlasting, from the beginning, or ever the earth was. When there were no depths, I was brought forth; when there were no fountains abounding with water. Right, remember that, he was saying when the water came, then he created the doors for the water to flow, like it was coming out of the womb. We're hearing it from Christ's mouth right here. He's saying when he was what? Let me read that. When he was set up, meaning what? The Most High set him up, right?
+
 > <sup>[24](/bible/proverbs/8#v24)</sup> When there were no depths, I was brought forth; when there were no fountains abounding with water.
 >
 > <sup>[25](/bible/proverbs/8#v25)</sup> Before the mountains were settled, before the hills was I brought forth:
@@ -338,12 +340,10 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word"]
 > <sup>[27](/bible/proverbs/8#v27)</sup> When he prepared the heavens, I was there: when he set a compass upon the face of the depth:
 >
 > <sup>[28](/bible/proverbs/8#v28)</sup> When he established the clouds above: when he strengthened the fountains of the deep:
->
-> <sup>[29](/bible/proverbs/8#v29)</sup> When he gave to the sea his decree, that the waters should not pass his commandment: when he appointed the foundations of the earth:
-
-- I was set up from everlasting, from the beginning, or ever the earth was: I want to jump to something real quick. Let's go to Proverbs 8. Let me do the Deon, let me do the Bishop Yawasap, y'all. All right, all Praises. Proverbs 8, we gonna start in verse 23, y'all. Proverbs chapter 8 and verse 23: I was set up from everlasting, from the beginning, or ever the earth was. Remember what we read in Job 38: were you there when I fastened the universe and all that? Remember that. I was set up from everlasting, from the beginning, or ever the earth was. When there were no depths, I was brought forth; when there were no fountains abounding with water. Right, remember that, he was saying when the water came, then he created the doors for the water to flow, like it was coming out of the womb. We're hearing it from Christ's mouth right here. He's saying when he was what? Let me read that. When he was set up, meaning what? The Most High set him up, right?
 
 - When he strengthened the fountains of the deep: Read 24 again: When there were no depths, I was brought forth; when there were no fountains abounding with water. Before the mountains were settled, before the hills was I brought forth: while as yet he had not made the earth, nor the fields, nor the highest part of the dust of the world. When he prepared the heavens, I was there: when he set a compass upon the face of the depth: when he established the clouds above: when he strengthened the fountains of the deep. Y'all heard that? The fountains of the deep, that's all the waters and the rivers and all that, that's what that's talking about, right?
+
+> <sup>[29](/bible/proverbs/8#v29)</sup> When he gave to the sea his decree, that the waters should not pass his commandment: when he appointed the foundations of the earth:
 
 - When he gave to the sea his decree, that the waters should not pass his commandment: When he gave to the sea his decree, that the waters should not pass his commandment: when he appointed the foundations of the earth. That's when he said, I stayed the waves. That's what that's saying right there in Proverbs. All right, we got to pay attention. Precept must be upon precept, y'all.
 
@@ -351,25 +351,35 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word"]
 **[Job 38:22-35](/bible/job/38#v22)**  *[[38:13](https://www.youtube.com/watch?v=QohU8zdfA4w&t=2293s)]*
 
 > <sup>[22](/bible/job/38#v22)</sup> Hast thou entered into the treasures of the snow? or hast thou seen the treasures of the hail,
->
+
+- Hast thou entered into the treasures of the snow: All right, let's go back to Job. This Job is crazy right now, this Job is crazy. All right, Job chapter 38, we going to start from 22, y'all. Job 38 and 22. It says, Hast thou entered into the treasures of the snow? Oh man, I had to get that out. We found our point with the waters and all that, but we got to keep going because this chapter. Hast thou entered into the treasures of the snow? or hast thou seen the treasures of the hail? Do you understand? He got warehouses full of snow and hail. Some of y'all who worked in the warehouse before, you know, they got the SKU numbers. They like, yo, get the fiery hail, pull that out, we using that tomorrow. That's what's happening, y'all. Let's pay attention, this is crazy.
+
 > <sup>[23](/bible/job/38#v23)</sup> Which I have reserved against the time of trouble, against the day of battle and war?
->
+
+- Which I have reserved against the time of trouble, against the day of battle and war: Verse 23: Which I have reserved against the time of trouble, against the day of battle and war? You understand that? By what way is the light parted, which scattereth the east wind upon the earth? Who hath divided a watercourse for the overflowing of waters, or a way for the lightning of thunder? Right, so the Lord is doing what? He created all the lightning. All of them have Commandments, all of them have their blueprint on how they have to operate. This is crazy.
+
 > <sup>[24](/bible/job/38#v24)</sup> By what way is the light parted, which scattereth the east wind upon the earth?
 >
 > <sup>[25](/bible/job/38#v25)</sup> Who hath divided a watercourse for the overflowing of waters, or a way for the lightning of thunder;
 >
 > <sup>[26](/bible/job/38#v26)</sup> To cause it to rain on the earth, where no man is; on the wilderness, wherein there is no man;
->
+
+- To cause it to rain on the earth, where no man is; on the wilderness, wherein there is no man: So it's even raining where nobody's living at. The Lord is still what? Still raining on that place, still giving light and still giving thunder, still doing what he got to do for that particular place, right?
+
 > <sup>[27](/bible/job/38#v27)</sup> To satisfy the desolate and waste ground; and to cause the bud of the tender herb to spring forth?
 >
 > <sup>[28](/bible/job/38#v28)</sup> Hath the rain a father? or who hath begotten the drops of dew?
->
+
+- Hath the rain a father: We're going to read down to 35. To satisfy the desolate and waste ground; and to cause the bud of the tender herb to spring forth? Hath the rain a father? or who hath begotten the drops of dew? Right, he said, that's me. Out of whose womb came the ice? Oh man, come on, y'all, come on, the verbiage is insane right now. Out of whose womb came the ice? and the hoary frost of heaven, who hath gendered it? The waters are hid as with a stone, and the face of the deep is frozen.
+
 > <sup>[29](/bible/job/38#v29)</sup> Out of whose womb came the ice? and the hoary frost of heaven, who hath gendered it?
 >
 > <sup>[30](/bible/job/38#v30)</sup> The waters are hid as with a stone, and the face of the deep is frozen.
 >
 > <sup>[31](/bible/job/38#v31)</sup> Canst thou bind the sweet influences of Pleiades, or loose the bands of Orion?
->
+
+- Canst thou bind the sweet influences of Pleiades, or loose the bands of Orion: Now he talking about planets and solar systems and what. Canst thou bind the sweet influences of Pleiades, or loose the bands of Orion? Come on, man, come on, this right here, this is outrageous. He's telling Job, what can you do? Anything? Do you know what even going on? No. Job, just be quiet and endure. That's what we got to do, we have to endure. That's what he telling Job. Canst thou bring forth Mazzaroth in his season? or canst thou guide Arcturus with his sons? Yo. Knowest thou the ordinances of heaven? canst thou set the dominion thereof in the earth? Canst thou lift up thy voice to the clouds, that abundance of waters may cover thee?
+
 > <sup>[32](/bible/job/38#v32)</sup> Canst thou bring forth Mazzaroth in his season? or canst thou guide Arcturus with his sons?
 >
 > <sup>[33](/bible/job/38#v33)</sup> Knowest thou the ordinances of heaven? canst thou set the dominion thereof in the earth?
@@ -378,36 +388,26 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word"]
 >
 > <sup>[35](/bible/job/38#v35)</sup> Canst thou send lightnings, that they may go, and say unto thee, Here we are?
 
-- Hast thou entered into the treasures of the snow: All right, let's go back to Job. This Job is crazy right now, this Job is crazy. All right, Job chapter 38, we going to start from 22, y'all. Job 38 and 22. It says, Hast thou entered into the treasures of the snow? Oh man, I had to get that out. We found our point with the waters and all that, but we got to keep going because this chapter. Hast thou entered into the treasures of the snow? or hast thou seen the treasures of the hail? Do you understand? He got warehouses full of snow and hail. Some of y'all who worked in the warehouse before, you know, they got the SKU numbers. They like, yo, get the fiery hail, pull that out, we using that tomorrow. That's what's happening, y'all. Let's pay attention, this is crazy.
-
-- Which I have reserved against the time of trouble, against the day of battle and war: Verse 23: Which I have reserved against the time of trouble, against the day of battle and war? You understand that? By what way is the light parted, which scattereth the east wind upon the earth? Who hath divided a watercourse for the overflowing of waters, or a way for the lightning of thunder? Right, so the Lord is doing what? He created all the lightning. All of them have Commandments, all of them have their blueprint on how they have to operate. This is crazy.
-
-- To cause it to rain on the earth, where no man is; on the wilderness, wherein there is no man: So it's even raining where nobody's living at. The Lord is still what? Still raining on that place, still giving light and still giving thunder, still doing what he got to do for that particular place, right?
-
-- Hath the rain a father: We're going to read down to 35. To satisfy the desolate and waste ground; and to cause the bud of the tender herb to spring forth? Hath the rain a father? or who hath begotten the drops of dew? Right, he said, that's me. Out of whose womb came the ice? Oh man, come on, y'all, come on, the verbiage is insane right now. Out of whose womb came the ice? and the hoary frost of heaven, who hath gendered it? The waters are hid as with a stone, and the face of the deep is frozen.
-
-- Canst thou bind the sweet influences of Pleiades, or loose the bands of Orion: Now he talking about planets and solar systems and what. Canst thou bind the sweet influences of Pleiades, or loose the bands of Orion? Come on, man, come on, this right here, this is outrageous. He's telling Job, what can you do? Anything? Do you know what even going on? No. Job, just be quiet and endure. That's what we got to do, we have to endure. That's what he telling Job. Canst thou bring forth Mazzaroth in his season? or canst thou guide Arcturus with his sons? Yo. Knowest thou the ordinances of heaven? canst thou set the dominion thereof in the earth? Canst thou lift up thy voice to the clouds, that abundance of waters may cover thee?
-
 - Canst thou send lightnings, that they may go, and say unto thee, Here we are: Oh man, wow, that's stupid, that's stupid. So this is what Christ is saying. He's saying, I'm telling the lightning to go and say, oh, here we are. I'm telling the rain to do XYZ. So there's nothing, when we read in Luke chapter 8, the disciples didn't know this just quite yet. They didn't know it quite yet, you understand? So this is why they reacted like that. All right, so all praise to the Lord, man, that's a beautiful thing.
 
 
 **[John 8:54-58](/bible/john/8#v54)**  *[[41:24](https://www.youtube.com/watch?v=QohU8zdfA4w&t=2484s)]*
 
 > <sup>[54](/bible/john/8#v54)</sup> Jesus answered, If I honour myself, my honour is nothing: it is my Father that honoureth me; of whom ye say, that he is your God:
->
-> <sup>[55](/bible/john/8#v55)</sup> Yet ye have not known him; but I know him: and if I should say, I know him not, I shall be a liar like unto you: but I know him, and keep his saying.
->
-> <sup>[56](/bible/john/8#v56)</sup> Your father Abraham rejoiced to see my day: and he saw it, and was glad.
->
-> <sup>[57](/bible/john/8#v57)</sup> Then said the Jews unto him, Thou art not yet fifty years old, and hast thou seen Abraham?
->
-> <sup>[58](/bible/john/8#v58)</sup> Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.
 
 - It is my Father that honoureth me: Hey, real quick, let me add this one. Go to Book of John, go to John, y'all, and I hope y'all writing that stuff down. Go to John chapter 8, we gonna start in 54. John chapter 8 and verse 54. And just because I said that that was Christ back there, just so y'all know that that was really Christ, right? We in John chapter 8 verse 54. It says, Jesus answered, If I honour myself, my honour is nothing: it is my Father that honoureth me. Right, we read that in Proverbs where he said I was set up, you know what I'm saying, from the beginning, right? Of whom ye say, that he is your God.
 
+> <sup>[55](/bible/john/8#v55)</sup> Yet ye have not known him; but I know him: and if I should say, I know him not, I shall be a liar like unto you: but I know him, and keep his saying.
+
 - I shall be a liar like unto you: but I know him, and keep his saying: Yet ye have not known him; but I know him: and if I should say, I know him not, I shall be a liar like unto you: but I know him, and keep his saying. So he said, if I say I don't know my father, then I'm lying like you, like y'all be lying, because y'all say y'all know him, but y'all don't keep no Commandments. But I know and I'm keeping the Commandments, right?
 
+> <sup>[56](/bible/john/8#v56)</sup> Your father Abraham rejoiced to see my day: and he saw it, and was glad.
+
 - Your father Abraham rejoiced to see my day: Verse 56: Your father Abraham rejoiced to see my day: and he saw it, and was glad. Right, how Abraham saw that thing, was glad. All right, then said the Jews unto him, Thou art not yet fifty years old, and hast thou seen Abraham? He said, how the hell, y'all took, bro, you young, you 30 something years old, you 30, you a new jack, what? How the hell you talking about you seen Abraham?
+
+> <sup>[57](/bible/john/8#v57)</sup> Then said the Jews unto him, Thou art not yet fifty years old, and hast thou seen Abraham?
+>
+> <sup>[58](/bible/john/8#v58)</sup> Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.
 
 - Before Abraham was, I am: Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am. Right, so that's who we reading about the entire time. So when we reading in Job and all of that, about who created this, who did that, remember you read in Proverbs, it said before, he was talking about his father the Most High, before he established everything, right? Because he gave Christ the blueprint on what to do, how to do it, and then Christ had to carry everything out. That's why Christ is known as the Alpha and Omega. He's the first thing that was made by the Most High and the last thing that was made by the Most High. After that, Christ created everything. All right, so keep that in mind as well, right? When people start spouting off the Alpha and Omega, you go ask some Christians and all that, when they start saying Alpha and Omega, ask him: what does that actually mean? Why does he say he's Alpha and Omega? Just ask him.
 
@@ -417,35 +417,35 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word"]
 > <sup>[26](/bible/luke/8#v26)</sup> And they arrived at the country of the Gadarenes, which is over against Galilee.
 >
 > <sup>[27](/bible/luke/8#v27)</sup> And when he went forth to land, there met him out of the city a certain man, which had devils long time, and ware no clothes, neither abode in any house, but in the tombs.
->
-> <sup>[28](/bible/luke/8#v28)</sup> When he saw Jesus, he cried out, and fell down before him, and with a loud voice said, What have I to do with thee, Jesus, thou Son of God most high? I beseech thee, torment me not.
 
 - A certain man, which had devils long time, and ware no clothes: All right, what we got? Let's go back to Luke 8, y'all, let's go back to Luke 8. I love that thing. Luke chapter 8, and we gonna do verse 26, y'all. Luke 8 and verse 26, we gonna read to 28. All right: And they arrived at the country of the Gadarenes, which is over against Galilee. And when he went forth to land, there met him out of the city a certain man, which had devils long time, and ware no clothes, neither abode in any house, but in the tombs. So this guy was possessed of what? He had spirits on him, possessed with them spirits. He didn't wear any clothes, he was naked, and he was running around in the tombs, in the cemetery, right?
+
+> <sup>[28](/bible/luke/8#v28)</sup> When he saw Jesus, he cried out, and fell down before him, and with a loud voice said, What have I to do with thee, Jesus, thou Son of God most high? I beseech thee, torment me not.
 
 - Jesus, thou Son of God most high: When he saw Jesus, he cried out, and fell down before him, and with a loud voice said, What have I to do with thee, Jesus, thou Son of God most high? I beseech thee, torment me not. Right, now I found this very interesting in verse 28, right? I found this interesting in verse 28, which was lovely, because here you have the devils, they're saying, Jesus, thou Son of God the Most High. They know that he's the son of the Most High, but yet we got people on Earth that don't understand that Christ and the Most High is different person. And they're reading the same Bible, and the devils is telling whoever is reading that Jesus and the Most High are different. Let's read it again: What have I to do with thee, Jesus, thou Son of God most high? What we don't understand that, right? I beseech thee, torment me not. Right, all right, cool.
 
 
 **[Revelation 12:7-12](/bible/revelation/12#v7)**  *[[45:52](https://www.youtube.com/watch?v=QohU8zdfA4w&t=2752s)]*
 
+- Why would he say that, torment me not: Let's go to Revelation chapter 12. Revelation 12, y'all, Revelation 12, we're gonna start in verse 7. Why would he say that, torment me not? Revelation 12, y'all, hope y'all got there. Revelation 12, we're going to start in verse 7, we're going to read down to 12. All right: And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels. Right, so now we know this is the time of the end. This is why they saying, oh, don't torment me, you know what I'm saying. I beseech you, don't torment me. And another scripture says, torment me not before the time, right?
+
 > <sup>[7](/bible/revelation/12#v7)</sup> And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels,
 >
 > <sup>[8](/bible/revelation/12#v8)</sup> And prevailed not; neither was their place found any more in heaven.
->
-> <sup>[9](/bible/revelation/12#v9)</sup> And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.
->
-> <sup>[10](/bible/revelation/12#v10)</sup> And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night.
->
-> <sup>[11](/bible/revelation/12#v11)</sup> And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death.
->
-> <sup>[12](/bible/revelation/12#v12)</sup> Therefore rejoice, ye heavens, and ye that dwell in them. Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time.
-
-- Why would he say that, torment me not: Let's go to Revelation chapter 12. Revelation 12, y'all, Revelation 12, we're gonna start in verse 7. Why would he say that, torment me not? Revelation 12, y'all, hope y'all got there. Revelation 12, we're going to start in verse 7, we're going to read down to 12. All right: And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels. Right, so now we know this is the time of the end. This is why they saying, oh, don't torment me, you know what I'm saying. I beseech you, don't torment me. And another scripture says, torment me not before the time, right?
 
 - Neither was their place found any more in heaven: And prevailed not; neither was their place found any more in heaven. This is not talking about heaven where the Lord is at, where the Father is. This is talking about the governments, the top governments, the rulership on Earth. That's what it's talking about, meaning that Esau, Satan, they will not have any more rulership. That's what it's talking about, right?
 
+> <sup>[9](/bible/revelation/12#v9)</sup> And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.
+
 - That old serpent, called the Devil, and Satan, which deceiveth the whole world: And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world. You see that? The devil and Satan: devil, Esau, and Satan, which deceiveth the whole world. He was cast out into the earth, and his angels were cast out with him. And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night.
 
+> <sup>[10](/bible/revelation/12#v10)</sup> And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night.
+>
+> <sup>[11](/bible/revelation/12#v11)</sup> And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death.
+
 - And they loved not their lives unto the death: And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death. Right, they went all out. They wasn't trying to hide what they learned. They wasn't keeping the candlestick under the bushel or under the bed. The light was out there, right? What was heard in the ear was spoken on the rooftop, right?
+
+> <sup>[12](/bible/revelation/12#v12)</sup> Therefore rejoice, ye heavens, and ye that dwell in them. Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time.
 
 - Because he knoweth that he hath but a short time: Verse 12: Therefore rejoice, ye heavens, and ye that dwell in them. Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time. Right, because when that time is up, not only is Esau done, Satan is bound, all his whole crew is bound, right? Because Satan has a team, y'all. Hope y'all remember that scripture. Some of y'all who might be new don't know that Satan has a team that the Lord put together, the evil angels. All right, they're part of the whole thing, but they're only here for a time, right? They have a time. So they got work to do. That's why they said, damn, you come to torment me before the time, right?
 
@@ -462,16 +462,16 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word"]
 **[1 Kings 22:19-22](/bible/1-kings/22#v19)**  *[[48:44](https://www.youtube.com/watch?v=QohU8zdfA4w&t=2924s)]*
 
 > <sup>[19](/bible/1-kings/22#v19)</sup> And he said, Hear thou therefore the word of the Lord: I saw the Lord sitting on his throne, and all the host of heaven standing by him on his right hand and on his left.
->
+
+- I saw the LORD sitting on his throne, and all the host of heaven standing by him on his right hand and on his left: All right, so now let us go to, just to get that real quick, let's go to Second Kings, right? 2 Kings 22, right, just to bring it home. All right, all Praises, y'all. Second Kings 22 verse 19. 2 Kings 22 and verse 19, we'll start there. Watch this, y'all: And he said, Hear thou therefore the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing by him on his right hand and on his left. I want y'all to pay attention to that: the whole host of heaven, on his right and on his left hand.
+
+- Who shall persuade Ahab, that he may go up and fall at Ramothgilead: All right, and the LORD said, Who shall persuade Ahab, that he may go up and fall at Ramothgilead? And one said on this manner, and another said on that manner. So Christ is saying, hey, we got to get Ahab killed. Who got an idea on how to kill this man? Hey, this is what's happening, this is what's going on every day. The Lord is asking the left side, which one of y'all gonna kill him? And it said one said, I could do this. Another one said, why don't we do this. Another one said, why don't we do that.
+
 > <sup>[20](/bible/1-kings/22#v20)</sup> And the Lord said, Who shall persuade Ahab, that he may go up and fall at Ramoth–gilead? And one said on this manner, and another said on that manner.
 >
 > <sup>[21](/bible/1-kings/22#v21)</sup> And there came forth a spirit, and stood before the Lord, and said, I will persuade him.
 >
 > <sup>[22](/bible/1-kings/22#v22)</sup> And the Lord said unto him, Wherewith? And he said, I will go forth, and I will be a lying spirit in the mouth of all his prophets. And he said, Thou shalt persuade him, and prevail also: go forth, and do so.
-
-- I saw the LORD sitting on his throne, and all the host of heaven standing by him on his right hand and on his left: All right, so now let us go to, just to get that real quick, let's go to Second Kings, right? 2 Kings 22, right, just to bring it home. All right, all Praises, y'all. Second Kings 22 verse 19. 2 Kings 22 and verse 19, we'll start there. Watch this, y'all: And he said, Hear thou therefore the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing by him on his right hand and on his left. I want y'all to pay attention to that: the whole host of heaven, on his right and on his left hand.
-
-- Who shall persuade Ahab, that he may go up and fall at Ramothgilead: All right, and the LORD said, Who shall persuade Ahab, that he may go up and fall at Ramothgilead? And one said on this manner, and another said on that manner. So Christ is saying, hey, we got to get Ahab killed. Who got an idea on how to kill this man? Hey, this is what's happening, this is what's going on every day. The Lord is asking the left side, which one of y'all gonna kill him? And it said one said, I could do this. Another one said, why don't we do this. Another one said, why don't we do that.
 
 - I will be a lying spirit in the mouth of all his prophets: I'm sorry, y'all, verse 21: And there came forth a spirit, and stood before the LORD, and said, I will persuade him. And the LORD said unto him, Wherewith? meaning how. And he said, I will go forth, and I will be a lying spirit in the mouth of all his prophets. And he said, Thou shalt persuade him, and prevail also: go forth, and do so. So the Lord said, yo, you know what, that's a good one right there. Go ahead, set up all the prophets to start lying. That's going to make him feel comfortable, he going to go to the war, and then he's going to be slain.
 
@@ -498,8 +498,6 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word"]
 > <sup>[28](/bible/luke/8#v28)</sup> When he saw Jesus, he cried out, and fell down before him, and with a loud voice said, What have I to do with thee, Jesus, thou Son of God most high? I beseech thee, torment me not.
 >
 > <sup>[29](/bible/luke/8#v29)</sup> (For he had commanded the unclean spirit to come out of the man. For oftentimes it had caught him: and he was kept bound with chains and in fetters; and he brake the bands, and was driven of the devil into the wilderness.)
->
-> <sup>[30](/bible/luke/8#v30)</sup> And Jesus asked him, saying, What is thy name? And he said, Legion: because many devils were entered into him.
 
 - For he had commanded the unclean spirit to come out of the man: Let's go back to Luke chapter 8 and verse 29. Luke 8 and 29. All right, we almost done, y'all. Luke 8 and 29: For he had commanded the unclean spirit to come out of the man. Right, let me, I'm sorry, I'm going to read from 28, because I had went back. Let me just get the end of 28, right: I beseech thee, torment me not. Remember, the devil's asking, don't torment us. For he had commanded the unclean spirit to come out of the man. For oftentimes it had caught him: and he was kept bound with chains and in fetters; and he brake the bands, and was driven of the devil into the wilderness. So they used to put chains on him and all that. He used to break the chains, run off, go in the wilderness and all that, right?
 
@@ -507,16 +505,18 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word"]
 
 - Running around naked in the streets: And there's still some people like that who's running around naked in the streets. That happened to us one time, we was teaching in the Bronx. It was a dude down there almost naked, and I'm teaching on the mic, and I'm thinking, and I'm like, yo, we got brothers losing their mind, they down there running. And homeboy see me, turned around and started running towards us in the camp. I said, oh my God, what I did, y'all? Lord, you gave me too much courage with this Bible, now I got a nut job running at me. And homeboy ran up, and the whole camp is like, oh damn, this man coming up here almost naked. He's sweaty, nobody want to touch that. You don't even want to fight nobody like that. So came up there, but you know, we ready for action, but we don't really want that problem. And he came up there, he's like, were you talking to me? I said, oh God, come on, yes brother, I was talking to you. But he started talking normal. Yo, y'all, I ain't making it up, he started talking normal, like if he was regular, like, no, I understand the Bible. You can't make it up. All right, but our people still play that out sometimes, y'all. All right, I don't mean to make a joke about it, but it was crazy when it happened. I was scared as hell. I was like, please don't let this man do a body dive on us, and he just sweaty, we got get all his nasty sweat on us, you know what I mean. It was looking wild. It was like the movies: you see a man turn around, you think he, you talking trash, yeah, and you ain't nothing, all of a sudden he turned around, you like, oh my God, he coming his way. We almost felt like running. And that was in a damn crazy Bronx. All right, the Bronx, New York, just mayhem, you know what I'm saying. That's why we had to walk through there the other day and show the people we could be unified there. Nothing but crazy out there, man, wild place. If y'all ain't never been to the Bronx in New York City, if y'all ain't go, y'all need to take a trip, you know what I mean. New York is a different place.
 
+> <sup>[30](/bible/luke/8#v30)</sup> And Jesus asked him, saying, What is thy name? And he said, Legion: because many devils were entered into him.
+
 
 **[Matthew 12:43-45](/bible/matthew/12#v43)**  *[[57:31](https://www.youtube.com/watch?v=QohU8zdfA4w&t=3451s)]*
 
 > <sup>[43](/bible/matthew/12#v43)</sup> When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest, and findeth none.
->
+
+- When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest, and findeth none: Yo, let's go to Matthew 12, y'all, let's go to Matthew 12. All right, so Matthew chapter 12 and verse 43, all right, watch this, check this out, y'all: When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest, and findeth none. Then he saith, I will return into my house from whence I came out; and when he is come, he findeth it empty, swept, and garnished. Right, so now this unclean spirit, that's in us, right? Remember Satan would come, even what he did to Christ, it said he would come by the season. He would come, leave, and come check him another season. Same thing with y'all. Sometimes y'all running smooth, and all of a sudden you got some temptations, you got this going on, that going on. Why? Because now Satan come to try you again. Be like, yo man, yeah, you know, whatever your problems are, he coming to bring it back to you, right? So that's what this is illustrating: that what? That spirit has left, but he's running around out there, he's touching a few people, but there's no place like home, you know what I mean? Ain't no place like you, so he coming back to you, right?
+
 > <sup>[44](/bible/matthew/12#v44)</sup> Then he saith, I will return into my house from whence I came out; and when he is come, he findeth it empty, swept, and garnished.
 >
 > <sup>[45](/bible/matthew/12#v45)</sup> Then goeth he, and taketh with himself seven other spirits more wicked than himself, and they enter in and dwell there: and the last state of that man is worse than the first. Even so shall it be also unto this wicked generation.
-
-- When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest, and findeth none: Yo, let's go to Matthew 12, y'all, let's go to Matthew 12. All right, so Matthew chapter 12 and verse 43, all right, watch this, check this out, y'all: When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest, and findeth none. Then he saith, I will return into my house from whence I came out; and when he is come, he findeth it empty, swept, and garnished. Right, so now this unclean spirit, that's in us, right? Remember Satan would come, even what he did to Christ, it said he would come by the season. He would come, leave, and come check him another season. Same thing with y'all. Sometimes y'all running smooth, and all of a sudden you got some temptations, you got this going on, that going on. Why? Because now Satan come to try you again. Be like, yo man, yeah, you know, whatever your problems are, he coming to bring it back to you, right? So that's what this is illustrating: that what? That spirit has left, but he's running around out there, he's touching a few people, but there's no place like home, you know what I mean? Ain't no place like you, so he coming back to you, right?
 
 - Then goeth he, and taketh with himself seven other spirits more wicked than himself: Watch this, verse 45: Then goeth he, and taketh with himself seven other spirits more wicked than himself. Why? Because you didn't keep the Commandments. While the spirit went off from you, what you did was go back into the world, start playing games, meddling with your sin. So now he came back with what? Seven more wicked demons, more wicked than the one you already had. Came seven more. And that seven is not talking about actual seven, it's talking about a lot of wicked spirits, a complete number of whatever the Lord wanted to send your way, right? So the same thing, what we reading about the brother with all the demons on him and Legion. A lot of us is walking around with Legion, we just not looking at it like that, because we not running around naked and all that. But we got Legion on us when we in the world. That's why you see, when we teach, sometimes you seeing people fighting against the truth, like, damn, what's wrong with these people? Like, they can't understand what's going on. No, because they got Legion on them right now. The Lord got to lift that veil for them to see. A lot of us had Legion on us, but we still heard the word. It was our time, right? We answered the call, and Lord's will, we make it, right?
 
@@ -526,16 +526,16 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word"]
 **[Luke 8:31-33](/bible/luke/8#v31)**  *[[1:00:12](https://www.youtube.com/watch?v=QohU8zdfA4w&t=3612s)]*
 
 > <sup>[31](/bible/luke/8#v31)</sup> And they besought him that he would not command them to go out into the deep.
->
-> <sup>[32](/bible/luke/8#v32)</sup> And there was there an herd of many swine feeding on the mountain: and they besought him that he would suffer them to enter into them. And he suffered them.
->
-> <sup>[33](/bible/luke/8#v33)</sup> Then went the devils out of the man, and entered into the swine: and the herd ran violently down a steep place into the lake, and were choked.
 
 - That he would not command them to go out into the deep: So now let's go back to Luke 8, go back to Luke 8, y'all, and verse 31: And they besought him that he would not command them to go out into the deep. Right, so remember they said their name is Legion, right, and it was many devils, and they besought Christ saying, all right, if we go out, we want to go out in a certain way. They ask him for some type of, what's the word, concession, right?
+
+> <sup>[32](/bible/luke/8#v32)</sup> And there was there an herd of many swine feeding on the mountain: and they besought him that he would suffer them to enter into them. And he suffered them.
 
 - That he would suffer them to enter into them: Watch this: And there was there an herd of many swine feeding on the mountain: and they besought him that he would suffer them to enter into them. And he suffered them. So they asked, they said, Lord, this is the devils. Now they still got to call him Lord, because he made them, at the end of the day. I hope y'all understand that, right? Lord, can we enter into those swine? Right, remember, these is unclean spirits, and what is the swine? It's unclean. They asked to go into the swine. That's why nobody could ever say that the dietary law is done away with. It's clear. This alone will give you an understanding on what's going on here. It's an unclean meat, an unclean animal. You might say, why is there a herd of swine there? Because the swine has its purpose. It does have its purpose: it's a garbage disposal, right? And we're going to get into that in just a couple more scriptures, I'm going show y'all something, right?
 
 - And he suffered them: Verse 32 again: And there was there an herd of many swine feeding on the mountain: and they besought him that he would suffer them to enter into them. And he suffered them. Right, meaning that suffered mean he allowed them, right?
+
+> <sup>[33](/bible/luke/8#v33)</sup> Then went the devils out of the man, and entered into the swine: and the herd ran violently down a steep place into the lake, and were choked.
 
 - And the herd ran violently down a steep place into the lake, and were choked: Then went the devils out of the man, and entered into the swine: and the herd ran violently down a steep place into the lake, and were choked. Drowned. Choked, that's what it meant, choked with the water, they were drowned, right?
 
@@ -552,16 +552,16 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word"]
 **[2 Maccabees 6:18-21](/bible/2-maccabees/6#v18)**  *[[1:03:03](https://www.youtube.com/watch?v=QohU8zdfA4w&t=3783s)]*
 
 > <sup>[18](/bible/2-maccabees/6#v18)</sup> Eleazar, one of the principal scribes, an aged man, and of a well favoured countenance, was constrained to open his mouth, and to eat swine’s flesh.
->
-> <sup>[19](/bible/2-maccabees/6#v19)</sup> But he, choosing rather to die gloriously, than to live stained with such an abomination, spit it forth, and came of his own accord to the torment,
->
-> <sup>[20](/bible/2-maccabees/6#v20)</sup> As it behoved them to come, that are resolute to stand out against such things, as are not lawful for love of life to be tasted.
->
-> <sup>[21](/bible/2-maccabees/6#v21)</sup> But they that had the charge of that wicked feast, for the old acquaintance they had with the man, taking him aside, besought him to bring flesh of his own provision, such as was lawful for him to use, and make as if he did eat of the flesh taken from the sacrifice commanded by the king;
 
 - Eleazar, one of the principal scribes: Let me see, we got a couple minutes. I just want to read something. Go to Second Maccabees real quick, right? Because there's something that happened in Second Maccabees, right? And the Lord allowed this brother to be an example for us. He's not going to now turn around and then say, no, don't worry about it, you get pork. Now watch this, Second Maccabees chapter 6 and verse 18, watch this: Eleazar, one of the principal scribes, an aged man, and of a well favoured countenance, was constrained to open his mouth, and to eat swine's flesh. So now the Greeks was trying to make this man eat swine's flesh, because what? He was a principal scribe, an aged man, he was well known amongst our people, right? He was a devout man, and a man of honor, right?
 
+> <sup>[19](/bible/2-maccabees/6#v19)</sup> But he, choosing rather to die gloriously, than to live stained with such an abomination, spit it forth, and came of his own accord to the torment,
+
 - Choosing rather to die gloriously, than to live stained with such an abomination: But he, choosing rather to die gloriously, than to live stained with such an abomination, spit it forth, and came of his own accord to the torment. He said, man, y'all might as well kill me. As it behoved them to come, that are resolute to stand out against such things, as are not lawful for love of life to be tasted.
+
+> <sup>[20](/bible/2-maccabees/6#v20)</sup> As it behoved them to come, that are resolute to stand out against such things, as are not lawful for love of life to be tasted.
+>
+> <sup>[21](/bible/2-maccabees/6#v21)</sup> But they that had the charge of that wicked feast, for the old acquaintance they had with the man, taking him aside, besought him to bring flesh of his own provision, such as was lawful for him to use, and make as if he did eat of the flesh taken from the sacrifice commanded by the king;
 
 - Make as if he did eat of the flesh taken from the sacrifice: But they that had the charge of that wicked feast, for the old acquaintance they had with the man, taking him aside, besought him to bring flesh of his own provision, such as was lawful for him to use, and make as if he did eat of the flesh taken from the sacrifice commanded by the king. So they said, yo, why don't you just go eat something that you like, you know what I'm saying, like chicken or whatever, and then act like you're eating pork, so that everybody can know that you're eating of our feast? That's like eating it. Y'all don't ever do that. Look what this man is doing: he's setting an example for us. There's no way now that Christ is saying you can eat pork after all this, right?
 

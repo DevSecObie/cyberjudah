@@ -416,10 +416,9 @@ Reading from definitions of bound and bondage  *[[1:30:14](https://www.youtube.c
 **[Proverbs 5:18-19](/bible/proverbs/5#v18)**  *[[1:45:23](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=6323s)]*
 
 > <sup>[18](/bible/proverbs/5#v18)</sup> Let thy fountain be blessed: and rejoice with the wife of thy youth.
->
-> <sup>[19](/bible/proverbs/5#v19)</sup> Let her be as the loving hind and pleasant roe; let her breasts satisfy thee at all times; and be thou ravished always with her love.
 
 - Let thy fountain be blessed: and rejoice with the wife of thy youth. Hands went up around the room for marriages of five, ten, fifteen, twenty, twenty five years, and Bishop has been married thirty six years. These are the examples we have right here.
+
 - Those of you married a long time are supposed to still be able to look at your wife or your husband and see when you were young. That is why people who have that can be content: as you get older, both of you change, both of you get old, but you remember. Let her breast satisfy thee at all times; and be thou ravished always with her love. Her body will change with the years, but she is yours, brother, and that bond cannot be broken if you are in the Lord.
 
   Precepts:
@@ -427,6 +426,8 @@ Reading from definitions of bound and bondage  *[[1:30:14](https://www.youtube.c
     > <sup>[7](/bible/tobit/8#v7)</sup> And now, O Lord, I take not this my sister for lust but uprightly: therefore mercifully ordain that we may become aged together.
 
     I take not this my sister for lust, but uprightly: therefore mercifully ordain that we may become aged together. We pray we see our older years together. Some of us make it there and some do not; let it be because of passing, not because you would not apply the scriptures. The prophecy classes are dope, but you have to have the same zeal for these classes on marriage and repentance, or your marriage falls apart and then you look at us like it was our fault.
+
+> <sup>[19](/bible/proverbs/5#v19)</sup> Let her be as the loving hind and pleasant roe; let her breasts satisfy thee at all times; and be thou ravished always with her love.
 
 **[Ephesians 5:31-32](/bible/ephesians/5#v31)**  *[[1:50:55](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=6655s)]*
 
@@ -561,8 +562,12 @@ Reading from a definition of help  *[[2:11:27](https://www.youtube.com/watch?v=T
 
 **[2 Timothy 3:1-6](/bible/2-timothy/3#v1)**  *[[2:22:07](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=8527s)]*
 
+- There is an attack to destroy the household. Satan and his people know that in order to destroy us they have to attack our foundation, and the foundation is the home. We are building a nation, and if we are not strong on the home front, we are not going to get up off the ground.
+
 > <sup>[1](/bible/2-timothy/3#v1)</sup> This know also, that in the last days perilous times shall come.
->
+
+- In the last days perilous times shall come: lovers of their own selves, covetous, boasters, proud, truce breakers, false accusers, fierce, traitors, lovers of pleasures more than lovers of God. All of these are types sent out to destroy.
+
 > <sup>[2](/bible/2-timothy/3#v2)</sup> For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
 >
 > <sup>[3](/bible/2-timothy/3#v3)</sup> Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,
@@ -570,14 +575,14 @@ Reading from a definition of help  *[[2:11:27](https://www.youtube.com/watch?v=T
 > <sup>[4](/bible/2-timothy/3#v4)</sup> Traitors, heady, highminded, lovers of pleasures more than lovers of God;
 >
 > <sup>[5](/bible/2-timothy/3#v5)</sup> Having a form of godliness, but denying the power thereof: from such turn away.
->
-> <sup>[6](/bible/2-timothy/3#v6)</sup> For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,
 
-- There is an attack to destroy the household. Satan and his people know that in order to destroy us they have to attack our foundation, and the foundation is the home. We are building a nation, and if we are not strong on the home front, we are not going to get up off the ground.
-- In the last days perilous times shall come: lovers of their own selves, covetous, boasters, proud, truce breakers, false accusers, fierce, traitors, lovers of pleasures more than lovers of God. All of these are types sent out to destroy.
 - Having a form of godliness, but denying the power thereof: these are your social media influencers big-heading our women, making them think they are greater than us. From such turn away.
+
 - For of this sort are they which creep into houses, and lead captive silly women laden with sins. This is how you get infiltrated: through the phone, through conversation, through whoever is influencing them. Sisters, your algorithm is jacked up: if you keep watching that woman-power, men-are-worthless content, that is all you will see, and then you look at your husband sideways because of your algorithm.
+
 - Word given in class to the sisters deep in social media: the men in your DMs do not want to marry you. If the Most High put your marriage together, you are not going to find better than that, because God put that together. Once you leave that, the protection of God is no longer on you; you are on your own. A case was told in class of a wife who degraded herself online for small cash payments from strangers and refused her husband's correction; that path leaves a family of three children behind for nothing. If that is where a wife is, she is already gone. The Tyler Perry movie Temptation was referenced: he convinces her to leave her husband, and watch what happens.
+
+> <sup>[6](/bible/2-timothy/3#v6)</sup> For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,
 
 **[1 Peter 3:1](/bible/1-peter/3#v1)**  *[[2:30:19](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=9019s)]*
 
@@ -651,10 +656,10 @@ Reading from a definition of help  *[[2:11:27](https://www.youtube.com/watch?v=T
 > <sup>[6](/bible/titus/2#v6)</sup> Young men likewise exhort to be sober minded.
 >
 > <sup>[7](/bible/titus/2#v7)</sup> In all things shewing thyself a pattern of good works: in doctrine shewing uncorruptness, gravity, sincerity,
->
-> <sup>[8](/bible/titus/2#v8)</sup> Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.
 
 - Young men likewise exhort to be sober minded. In all things shewing thyself a pattern of good works: in doctrine shewing uncorruptness, gravity, sincerity, sound speech that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you. These are the examples of how men are supposed to conduct themselves, with one another and with our wives.
+
+> <sup>[8](/bible/titus/2#v8)</sup> Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.
 
 **[1 Timothy 3:1-5](/bible/1-timothy/3#v1)**  *[[2:47:41](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=10061s)]*
 
@@ -773,6 +778,8 @@ Reading from slides, things husbands do that destroy marriages  *[[3:01:42](http
 
 **[Proverbs 31:10-28](/bible/proverbs/31#v10)**  *[[3:12:13](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=11533s)]*
 
+- Who can find a virtuous woman? for her price is far above rubies. The heart of her husband doth safely trust in her. This woman has shown this to her husband; he has observed her and he has no worries. Brothers, do you not want that? Sisters, do you not want to give that to your husband?
+
 > <sup>[10](/bible/proverbs/31#v10)</sup> Who can find a virtuous woman? for her price is far above rubies.
 >
 > <sup>[11](/bible/proverbs/31#v11)</sup> The heart of her husband doth safely trust in her, so that he shall have no need of spoil.
@@ -784,7 +791,15 @@ Reading from slides, things husbands do that destroy marriages  *[[3:01:42](http
 > <sup>[14](/bible/proverbs/31#v14)</sup> She is like the merchants’ ships; she bringeth her food from afar.
 >
 > <sup>[15](/bible/proverbs/31#v15)</sup> She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens.
->
+
+- She riseth also while it is yet night, and giveth meat to her household: she is up early preparing for her household. She considereth a field, and buyeth it: she is investing for the household. She stretcheth out her hand to the poor. She is not afraid of the snow for her household: for all her household are clothed with scarlet. She is prepared.
+
+- She openeth her mouth with wisdom; and in her tongue is the law of kindness. She looketh well to the ways of her household, and eateth not the bread of idleness. Her household is her business and she is not idle.
+
+- Her children arise up, and call her blessed; her husband also, and he praiseth her. Who has to institute that in the house? The husband. You teach the children to honor their mother.
+
+- She will do him good and not evil all the days of her life. Teaching from the table: if a man at her job puts a hand on her, a virtuous wife handles that herself right there; she does not carry it home as a spark for her husband to catch a case over. Bishop's account: a brother called saying he was on his way to his wife's job to fight a man who grabbed her hand. The counsel: turn around, call your wife, and tell her she had better handle that; that is her job. Of course, if it is an assault she cannot stop, that is different; everybody understands that. But she will do him good and not evil means there are things she is supposed to shut down herself.
+
 > <sup>[16](/bible/proverbs/31#v16)</sup> She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard.
 >
 > <sup>[17](/bible/proverbs/31#v17)</sup> She girdeth her loins with strength, and strengtheneth her arms.
@@ -810,12 +825,6 @@ Reading from slides, things husbands do that destroy marriages  *[[3:01:42](http
 > <sup>[27](/bible/proverbs/31#v27)</sup> She looketh well to the ways of her household, and eateth not the bread of idleness.
 >
 > <sup>[28](/bible/proverbs/31#v28)</sup> Her children arise up, and call her blessed; her husband also, and he praiseth her.
-
-- Who can find a virtuous woman? for her price is far above rubies. The heart of her husband doth safely trust in her. This woman has shown this to her husband; he has observed her and he has no worries. Brothers, do you not want that? Sisters, do you not want to give that to your husband?
-- She riseth also while it is yet night, and giveth meat to her household: she is up early preparing for her household. She considereth a field, and buyeth it: she is investing for the household. She stretcheth out her hand to the poor. She is not afraid of the snow for her household: for all her household are clothed with scarlet. She is prepared.
-- She openeth her mouth with wisdom; and in her tongue is the law of kindness. She looketh well to the ways of her household, and eateth not the bread of idleness. Her household is her business and she is not idle.
-- Her children arise up, and call her blessed; her husband also, and he praiseth her. Who has to institute that in the house? The husband. You teach the children to honor their mother.
-- She will do him good and not evil all the days of her life. Teaching from the table: if a man at her job puts a hand on her, a virtuous wife handles that herself right there; she does not carry it home as a spark for her husband to catch a case over. Bishop's account: a brother called saying he was on his way to his wife's job to fight a man who grabbed her hand. The counsel: turn around, call your wife, and tell her she had better handle that; that is her job. Of course, if it is an assault she cannot stop, that is different; everybody understands that. But she will do him good and not evil means there are things she is supposed to shut down herself.
 
 **[Titus 2:3-5](/bible/titus/2#v3)**  *[[3:19:43](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=11983s)]*
 
@@ -922,17 +931,19 @@ Reading from questions sent in for the marriage event  *[[3:35:07](https://www.y
 
 **[Colossians 3:12-15](/bible/colossians/3#v12)**  *[[3:52:10](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=13930s)]*
 
+- Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering. We have to put all these things on; this gets rid of a lot of the nonsense we deal with.
+
 > <sup>[12](/bible/colossians/3#v12)</sup> Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering;
 >
 > <sup>[13](/bible/colossians/3#v13)</sup> Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.
->
+
+- Forbearing one another, and forgiving one another: too many marriages suffer because one spouse will not forgive the other. You have to forgive and move past it, and allow the other person to grow. If you keep hanging things over their head, you will never come out of it.
+
+- And above all these things put on charity, which is the bond of perfectness. And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful. Just like in the household: you are one flesh.
+
 > <sup>[14](/bible/colossians/3#v14)</sup> And above all these things put on charity, which is the bond of perfectness.
 >
 > <sup>[15](/bible/colossians/3#v15)</sup> And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful.
-
-- Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering. We have to put all these things on; this gets rid of a lot of the nonsense we deal with.
-- Forbearing one another, and forgiving one another: too many marriages suffer because one spouse will not forgive the other. You have to forgive and move past it, and allow the other person to grow. If you keep hanging things over their head, you will never come out of it.
-- And above all these things put on charity, which is the bond of perfectness. And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful. Just like in the household: you are one flesh.
 
 ## In Closing
 

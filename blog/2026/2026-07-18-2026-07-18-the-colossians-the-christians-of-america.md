@@ -717,11 +717,12 @@ Reading from *The Religious Instruction of the Negroes in the United States*, pp
 **[Isaiah 14:1-2](/bible/isaiah/14#v1)**  *[[2:07:12](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=7632s)]*
 
 > <sup>[1](/bible/isaiah/14#v1)</sup> For the Lord will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob.
->
-> <sup>[2](/bible/isaiah/14#v2)</sup> And the people shall take them, and bring them to their place: and the house of Israel shall possess them in the land of the Lord for servants and handmaids: and they shall take them captives, whose captives they were; and they shall rule over their oppressors.
 
 - For the Lord will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob.
+
 - The people shall take them, and bring them to their place. God's chosen people are going to take the strangers and put them in their own place, back to their own dwelling. And the house of Israel shall possess them in the land of the Lord for servants and handmaids, and they shall take them captives, whose captives they were; and they shall rule over their oppressors. That is the role the Lord appointed, and the scripture already said for how long: for ever.
+
+> <sup>[2](/bible/isaiah/14#v2)</sup> And the people shall take them, and bring them to their place: and the house of Israel shall possess them in the land of the Lord for servants and handmaids: and they shall take them captives, whose captives they were; and they shall rule over their oppressors.
 
 **[Revelation 1:11](/bible/revelation/1#v11)**  *[[2:10:15](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=7815s)]*
 

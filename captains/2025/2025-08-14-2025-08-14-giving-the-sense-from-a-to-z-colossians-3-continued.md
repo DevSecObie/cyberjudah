@@ -103,10 +103,6 @@ Reading from Definition of charity (read on air; source not named)  *[[11:57](ht
 **[1 Timothy 1:5-7](/bible/1-timothy/1#v5)**  *[[12:50](https://www.youtube.com/watch?v=_aDCv9UsNao&t=770s)]*
 
 > <sup>[5](/bible/1-timothy/1#v5)</sup> Now the end of the commandment is charity out of a pure heart, and of a good conscience, and of faith unfeigned:
->
-> <sup>[6](/bible/1-timothy/1#v6)</sup> From which some having swerved have turned aside unto vain jangling;
->
-> <sup>[7](/bible/1-timothy/1#v7)</sup> Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm.
 
 - Now the end of the commandment is charity: Now the end of the commandment is what? The end of the commandment is charity.
 
@@ -114,7 +110,11 @@ Reading from Definition of charity (read on air; source not named)  *[[11:57](ht
 
 - And of a good conscience, and of faith unfeigned: And you got to have a good conscience. And you got to have faith that's unfamed. Fame means fake. So to be unfamed that means you sincere. You understand? You ain't fake. You understand? You that's that voluntary help in everything that you're doing. Are you sincere about what you doing? You understand? Watch this. Read down to seven for me.
 
+> <sup>[6](/bible/1-timothy/1#v6)</sup> From which some having swerved have turned aside unto vain jangling;
+
 - From which some having swerved have turned aside unto vain jangling: You see that? Some gave that that good conscience up, that charitable up, that self-denial up, and they turned aside to vain talking. That's what jangling mean. Vain them talking.
+
+> <sup>[7](/bible/1-timothy/1#v7)</sup> Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm.
 
 - Desiring to be teachers of the law: And what they want to do? They desire to be teachers.
 
@@ -139,28 +139,20 @@ Reading from Definition of charity (read on air; source not named)  *[[11:57](ht
 **[1 Corinthians 13:1-8](/bible/1-corinthians/13#v1)**  *[[15:46](https://www.youtube.com/watch?v=_aDCv9UsNao&t=946s)]*
 
 > <sup>[1](/bible/1-corinthians/13#v1)</sup> Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.
->
-> <sup>[2](/bible/1-corinthians/13#v2)</sup> And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.
->
-> <sup>[3](/bible/1-corinthians/13#v3)</sup> And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing.
->
-> <sup>[4](/bible/1-corinthians/13#v4)</sup> Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,
->
-> <sup>[5](/bible/1-corinthians/13#v5)</sup> Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;
->
-> <sup>[6](/bible/1-corinthians/13#v6)</sup> Rejoiceth not in iniquity, but rejoiceth in the truth;
->
-> <sup>[7](/bible/1-corinthians/13#v7)</sup> Beareth all things, believeth all things, hopeth all things, endureth all things.
->
-> <sup>[8](/bible/1-corinthians/13#v8)</sup> Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away.
 
 - Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass: Paul right here in this chapter, he goes in depth to what charity is, what it looks like. Damn. He said, though I speak with the tongues of men, I can speak all these different languages. He said, listen, but if I don't have charity, I don't have empathy for my brother, I'm just somebody that's just making noise. I'm just somebody just making noise. You just talking. You talk a good game.
 
 - Or a tinkling cymbal: You just You're just like a tinkling damn cymbal. That's what you are. Ding for nothing. Damn. What you you heard that? Stop it. It's good for nothing.
 
+> <sup>[2](/bible/1-corinthians/13#v2)</sup> And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.
+
 - And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing: You see that? And this work, these are the things that Paul exhibited. He had prophecy. He understood prophecy. He understood the mysteries. Paul could dive deep into the Old Testament. He was showing you different things out of the law that you thought was pertaining to animals. He said, "No, surely surely that law was for the prophets." Talking about the ox. Surely that's for the prophets. You understand? So the mysteries Paul was able to dive deep in that thing. He said, "Yeah, I know that. I got all knowledge." Imagine being taught by Christ. Imagine the battery in your back when you talk by taught by Christ. A lot of us, we feel that way when, you know what I'm saying, you got the relationship with the bishops, the deacons, the captains. You got the relationship and you getting them parables. Them parables they just dropping. They in conversation just dropping things. Oh, I know this now. You understand? That put a whole battery in your back. Imagine Christ teaching you. But he humbled himself and said, "Though I know all these things, these mysteries, the knowledge, if I don't have charity, I'm nothing." That's how important charity is.
 
+> <sup>[3](/bible/1-corinthians/13#v3)</sup> And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing.
+
 - And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing: If I have not charity. It profited me nothing. You understand? A lot of people be just doing the work. They think doing the work. Okay. Hey, I'm over here doing this. I'm over there. I'm doing that. I'm over here putting this brick in. But you don't have charity for your brethren. You don't have charity for your household. You don't have charity for your wife, for your kids. You understand? For the people around you. You don't have that empathy, the scripture says, man, you nothing. It's going to catch up with you. You understand? And this is what Paul is, this is what he's getting into when we go back to Colossians, the setting up the order of the churches.
+
+> <sup>[4](/bible/1-corinthians/13#v4)</sup> Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,
 
 - Charity suffereth long: Charity suffereth long. Read that again. So you can't be damn temperant. It said charity suffereth long because brothers and sisters, they gonna be doing the same thing over and over. Sometimes it gonna be pissing you the hell off. But she said, "No, when you have charity, you got to suffer long. You got to suffer patiently." Damn. We got to build this spirit up. We got to build that spirit up. You understand? This spirit is struggling. Let me suffer patiently. You understand? Let me suffer long.
 
@@ -170,17 +162,25 @@ Reading from Definition of charity (read on air; source not named)  *[[11:57](ht
 
 - Charity vaunteth not itself: And it don't vaunted itself. You ain't walking around boasting yourself, thinking you holier than thou. You greater than the next brother, knowing damn well we all going through the same things. We all fighting the same thoughts. You understand? We all going through the same temptations. So when you charity, you don't vault yourself. Put yourself on a pedestal. The scripture says, "He that humble himself shall be exalted. He that exalteth himself, you will be humbled." Watch this.
 
+> <sup>[5](/bible/1-corinthians/13#v5)</sup> Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;
+
 - Seeketh not her own: Seek not your own will.
 
 - Is not easily provoked: You know how to sit back and just analyze things cuz you not easily provoked. Now, this take time to build yourself up to that.
 
 - Thinketh no evil: Did this person say this? Why she say it like that? Why he say it like this? You understand? Thinketh no evil. Watch.
 
+> <sup>[6](/bible/1-corinthians/13#v6)</sup> Rejoiceth not in iniquity, but rejoiceth in the truth;
+
 - Rejoiceth not in iniquity: You don't rejoice in iniquity.
 
 - But rejoiceth in the truth: But you do what? You see that when you have charity, you rejoice in the truth. You rejoice in things moving the way Christ set it up. You rejoice in the truth. Watch this.
 
+> <sup>[7](/bible/1-corinthians/13#v7)</sup> Beareth all things, believeth all things, hopeth all things, endureth all things.
+
 - Beareth all things, believeth all things: You bearing all things. Believing.
+
+> <sup>[8](/bible/1-corinthians/13#v8)</sup> Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away.
 
 - Charity never faileth: And that's why cuz it's the binding element. It never fails.
 
@@ -219,14 +219,14 @@ Reading from Definition of charity (read on air; source not named)  *[[11:57](ht
 **[2 Timothy 2:20-21](/bible/2-timothy/2#v20)**  *[[24:12](https://www.youtube.com/watch?v=_aDCv9UsNao&t=1452s)]*
 
 > <sup>[20](/bible/2-timothy/2#v20)</sup> But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour.
->
-> <sup>[21](/bible/2-timothy/2#v21)</sup> If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master’s use, and prepared unto every good work.
 
 - But in a great house there are not only vessels of gold and of silver, but also of wood and of earth: You see that? Every great house you get these elements.
 
 - And some to honour: Some to honor.
 
 - And some to dishonour: But he bring all those elements in. Some of them they come in they to honor. And then some of them they come in just to dishonor. You got to know that. And you got to be in perfect peace with that. How he set it up.
+
+> <sup>[21](/bible/2-timothy/2#v21)</sup> If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master’s use, and prepared unto every good work.
 
 - If a man therefore purge himself from these: Then you got to purge yourself.
 
@@ -256,14 +256,14 @@ Reading from Definition of charity (read on air; source not named)  *[[11:57](ht
 **[Romans 5:3-5](/bible/romans/5#v3)**  *[[30:08](https://www.youtube.com/watch?v=_aDCv9UsNao&t=1808s)]*
 
 > <sup>[3](/bible/romans/5#v3)</sup> And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;
->
-> <sup>[4](/bible/romans/5#v4)</sup> And patience, experience; and experience, hope:
->
-> <sup>[5](/bible/romans/5#v5)</sup> And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.
 
 - And not only so, but we glory in tribulations: You got to glory. You got to get to the point where you glory in tribulations.
 
+> <sup>[4](/bible/romans/5#v4)</sup> And patience, experience; and experience, hope:
+
 - Knowing that tribulation worketh patience; and patience, experience: You see that? Tribulations worketh what? Patience and experience. Now, based off of what you went through, how you got through it, you can help another brother. You understand? Now, you that vessel that's fit for the master's use.
+
+> <sup>[5](/bible/romans/5#v5)</sup> And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.
 
 - And experience, hope; and hope maketh not ashamed: And now you're not ashamed of the things that you're going through. You understand? So everything when you understand that element when you understand that, you're not going to be moved. He going to keep you in perfect peace. All right, let's go back. Got to get through.
 
@@ -291,10 +291,10 @@ Reading from Definition of charity (read on air; source not named)  *[[11:57](ht
 > <sup>[15](/bible/romans/3#v15)</sup> Their feet are swift to shed blood:
 >
 > <sup>[16](/bible/romans/3#v16)</sup> Destruction and misery are in their ways:
->
-> <sup>[17](/bible/romans/3#v17)</sup> And the way of peace have they not known:
 
 - Their feet are swift to shed blood; destruction and misery are in their ways: Destruction because remember the scribes and the Pharisees was persecuting those the followers of Christ. They didn't want northern kingdom to be grafted back in. You understand? They were fighting against that thing. He said their feet was quick to shed blood. Destruction and misery was definitely in their way. Watch this. Read.
+
+> <sup>[17](/bible/romans/3#v17)</sup> And the way of peace have they not known:
 
 - And the way of peace have they not known: And the way of Christ, the way of peace. They didn't understand that. They didn't understand that Christ was spoken about in the Old Testament. They didn't understand that he was come and set to die. Not all of them. Some of them did, but not the majority of them did not know. They didn't understand. They were blinded. But that was a necessity. That was necessary to graft northern kingdom back in. So we bring it here just to show you that way of peace. That peace is Christ the Messiah. Go back to Colossians.
 
@@ -330,10 +330,10 @@ Reading from Definition of charity (read on air; source not named)  *[[11:57](ht
 **[Colossians 3:15-16](/bible/colossians/3#v15)**  *[[35:22](https://www.youtube.com/watch?v=_aDCv9UsNao&t=2122s)]*
 
 > <sup>[15](/bible/colossians/3#v15)</sup> And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful.
->
-> <sup>[16](/bible/colossians/3#v16)</sup> Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
 
 - And be ye thankful: Go ahead, read 15 one more time. Be thankful for that thing.
+
+> <sup>[16](/bible/colossians/3#v16)</sup> Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
 
 - Let the word of Christ dwell in you richly: You see that? He's saying the same thing right there. Let the word of Christ dwell in you richly. Growing. You got to look at that thing as a treasure right there. Let the word of Christ dwell in you richly.
 
@@ -345,12 +345,12 @@ Reading from Definition of charity (read on air; source not named)  *[[11:57](ht
 **[John 1:1-3](/bible/john/1#v1)**  *[[36:48](https://www.youtube.com/watch?v=_aDCv9UsNao&t=2208s)]*
 
 > <sup>[1](/bible/john/1#v1)</sup> In the beginning was the Word, and the Word was with God, and the Word was God.
->
+
+- In the beginning was the Word: In the beginning was the word.
+
 > <sup>[2](/bible/john/1#v2)</sup> The same was in the beginning with God.
 >
 > <sup>[3](/bible/john/1#v3)</sup> All things were made by him; and without him was not any thing made that was made.
-
-- In the beginning was the Word: In the beginning was the word.
 
 - And the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by him; and without him was not any thing made that was made: Jump down to verse 14.
 
@@ -365,16 +365,16 @@ Reading from Definition of charity (read on air; source not named)  *[[11:57](ht
 **[Revelation 19:11-13](/bible/revelation/19#v11)**  *[[37:32](https://www.youtube.com/watch?v=_aDCv9UsNao&t=2252s)]*
 
 > <sup>[11](/bible/revelation/19#v11)</sup> And I saw heaven opened, and behold a white horse; and he that sat upon him was called Faithful and True, and in righteousness he doth judge and make war.
->
-> <sup>[12](/bible/revelation/19#v12)</sup> His eyes were as a flame of fire, and on his head were many crowns; and he had a name written, that no man knew, but he himself.
->
-> <sup>[13](/bible/revelation/19#v13)</sup> And he was clothed with a vesture dipped in blood: and his name is called The Word of God.
 
 - And I saw heaven opened, and behold a white horse: This is John. He's seeing a vision right now in the spirit. He said, "I saw heaven open and behold a white horse."
 
 - And he that sat upon him was called Faithful and True: These are the elements that we got to follow. Christ was faithful and he was true.
 
 - And in righteousness he doth judge and make war: And in righteousness, he judge and make war. In righteousness, he judge and make war. We following after Christ. This is an example. In righteousness, we looking at the scriptures down. You put he that leadeth in captivity, you got to go into captivity. You kill with a sword, you got to be killed with a sword. That's righteous judgment. We making war. We got to cast down every imagination that exalted himself. That's righteous judgment before damnation come. Give our people a warning. Watch this. Read.
+
+> <sup>[12](/bible/revelation/19#v12)</sup> His eyes were as a flame of fire, and on his head were many crowns; and he had a name written, that no man knew, but he himself.
+>
+> <sup>[13](/bible/revelation/19#v13)</sup> And he was clothed with a vesture dipped in blood: and his name is called The Word of God.
 
 - And his name is called The Word of God: What's his name? You see that his name, his title was the word of God. Was the word of God. So Christ was that word of God made flesh and came and dwelt among us. Because why? That was written of the father of that was his lot. It was necessary. Get that in John 15 right quick. John 15 and 7. It was necessary that he had to fulfill his lot, come and die for us for a reason. That's how we able to get the the spirit and break down these scriptures the way that we doing it. It ain't by us. It ain't on our terms. No, this is Christ. Go ahead. Give me that.
 
@@ -400,12 +400,12 @@ Reading from Definition of charity (read on air; source not named)  *[[11:57](ht
 **[Luke 24:44-45](/bible/luke/24#v44)**  *[[40:44](https://www.youtube.com/watch?v=_aDCv9UsNao&t=2444s)]*
 
 > <sup>[44](/bible/luke/24#v44)</sup> And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me.
->
-> <sup>[45](/bible/luke/24#v45)</sup> Then opened he their understanding, that they might understand the scriptures,
 
 - That all things must be fulfilled: All things have to be fulfilled.
 
 - Which were written in the law of Moses, and in the prophets, and in the psalms, concerning me: You see what did Christ fulfilled? Everything that was written concerning him. Not the law. Everything that was written in the law of Moses and the law of the prophets and in the Psalms that was concerning his lot to do on this earth. It had to be fulfilled. That's when he came down there and fulfilled the things that were written. Somebody tell a Christian that, bro. Somebody tell these damn ap how you say it, bro? Say it in the mic, bro. Apollopathetics. You pathetic apologists. Somebody tell them that Christ fulfilled the things that were written pertaining to him, his lot when he had to come and dwell amongst us.
+
+> <sup>[45](/bible/luke/24#v45)</sup> Then opened he their understanding, that they might understand the scriptures,
 
 - Then opened he their understanding: And when he left, it was expedient for him to go away. He did what? Then he opened their understanding. He opened our understanding.
 
@@ -415,10 +415,10 @@ Reading from Definition of charity (read on air; source not named)  *[[11:57](ht
 **[1 Thessalonians 1:5-6](/bible/1-thessalonians/1#v5)**  *[[42:17](https://www.youtube.com/watch?v=_aDCv9UsNao&t=2537s)]*
 
 > <sup>[5](/bible/1-thessalonians/1#v5)</sup> For our gospel came not unto you in word only, but also in power, and in the Holy Ghost, and in much assurance; as ye know what manner of men we were among you for your sake.
->
-> <sup>[6](/bible/1-thessalonians/1#v6)</sup> And ye became followers of us, and of the Lord, having received the word in much affliction, with joy of the Holy Ghost:
 
 - But also in power, and in the Holy Ghost: And in the what? The Holy Ghost is the Holy Spirit is the comforter. One and the same. Read it again. And in the Holy Spirit.
+
+> <sup>[6](/bible/1-thessalonians/1#v6)</sup> And ye became followers of us, and of the Lord, having received the word in much affliction, with joy of the Holy Ghost:
 
 - And ye became followers of us, and of the Lord: And of the Lord.
 
@@ -430,16 +430,16 @@ Reading from Definition of charity (read on air; source not named)  *[[11:57](ht
 **[Colossians 3:16-18](/bible/colossians/3#v16)**  *[[43:43](https://www.youtube.com/watch?v=_aDCv9UsNao&t=2623s)]*
 
 > <sup>[16](/bible/colossians/3#v16)</sup> Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
->
-> <sup>[17](/bible/colossians/3#v17)</sup> And whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him.
->
-> <sup>[18](/bible/colossians/3#v18)</sup> Wives, submit yourselves unto your own husbands, as it is fit in the Lord.
 
 - Teaching and admonishing one another: Teaching and admonishing, not debating, not debating. Different doctors, you got all I'm telling you, all these camps, y'all sitting up here debating. What you doing is causing confusion. You causing confusion. Hear a new spirit come, they log in. Damn. Do we believe this? Do we believe that? Bro, get it. Build something. Get your doctrine. However you see it in the scriptures, build up on it. And we'll let Christ figure this out as it is written. He said he's going to give the understanding as it we ain't going to see eye to eye. You got negroes debating … Edomites. You would never ever ever ever ever ever see us on a platform and come debate a Edomite. Anytime we talking to an Edomite, they have walked into the lion's den. They have stumbled into the lion's to the safari and they don't know where the hell they are. The one long gazelle. And you've seen how that Discovery Channel happened. We all watch the Discovery Channel. You understand? A lot of squealing. You understand? Read it again, bro.
 
 - In psalms and hymns: In psalms and hymns. Do you understand? You brothers that's doing music. And psalms and hymns. Psalms got the ability to heal. Esau flipped it. He used it for evil. But Psalms, songs, and hymns, it has the ability to refresh the spirit, to heal the spirit. When you think about remember Saul, he had this evil spirit on him. What the scripture say? You had David who sit up there and play music and it refreshed his spirit. So that's why you brothers and sisters, y'all get, you know, y'all get your minds right. Quality music, man, that we doing right now. And that's refreshing the spirit. We admonishing. We teaching one another. You understand? Read.
 
+> <sup>[17](/bible/colossians/3#v17)</sup> And whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him.
+
 - And whatsoever ye do in word or deed, do all in the name of the Lord Jesus: It says, "Whatever you do in word and deed, just do it to the Lord Jesus." Do it unto the Lord.
+
+> <sup>[18](/bible/colossians/3#v18)</sup> Wives, submit yourselves unto your own husbands, as it is fit in the Lord.
 
 - Wives, submit yourselves unto your own husbands: What did it say? You see how he had to set it up? You see how he had to set it up? Let this perfect peace, let first of all, let Christ reign in your minds because I'm about to hit you with something. Let Christ reign in your minds. Admonish one another. Forgive one another. You understand? Let this thing dwell in you richly with all wisdom. And whatever you do, do it as unto the Lord, not to what you see on the surface. Do it as unto the Lord. And the first thing he said was what? Read it again. Wives submit yourselves. You got to read just that submit right there, bro.
 
@@ -469,18 +469,10 @@ Reading from Definition of reverence (shown on screen; source not named)  *[[50:
 **[Sirach 26:13-18](/bible/sirach/26#v13)**  *[[52:31](https://www.youtube.com/watch?v=_aDCv9UsNao&t=3151s)]*
 
 > <sup>[13](/bible/sirach/26#v13)</sup> The grace of a wife delighteth her husband, and her discretion will fatten his bones.
->
-> <sup>[14](/bible/sirach/26#v14)</sup> A silent and loving woman is a gift of the Lord; and there is nothing so much worth as a mind well instructed.
->
-> <sup>[15](/bible/sirach/26#v15)</sup> A shamefaced and faithful woman is a double grace, and her continent mind cannot be valued.
->
-> <sup>[16](/bible/sirach/26#v16)</sup> As the sun when it ariseth in the high heaven; so is the beauty of a good wife in the ordering of her house.
->
-> <sup>[17](/bible/sirach/26#v17)</sup> As the clear light is upon the holy candlestick; so is the beauty of the face in ripe age.
->
-> <sup>[18](/bible/sirach/26#v18)</sup> As the golden pillars are upon the sockets of silver; so are the fair feet with a constant heart.
 
 - And her discretion will fatten his bones: Her discretion. The way that she her the way she used her words, the nonverbal and verbal communication about a woman. He said her discretion. It fatten the bones. When you see your wife moving in the elements, in the parameters that God set up, that fatten your bones. It make you sit back. Damn, man. I got something good. I know I be complaining. You know, I'll be complaining, but I wouldn't trade mine for nothing, bro. No. No. I wouldn't trade mine. No, no, no, no, no, no, no, no. Cuz I didn't seen I seen the other side of the fence. You know what I'm saying? Hell to the knob. It say her discretion it fatten the bones, bro.
+
+> <sup>[14](/bible/sirach/26#v14)</sup> A silent and loving woman is a gift of the Lord; and there is nothing so much worth as a mind well instructed.
 
 - A silent and loving woman: A silent and loving woman. Somebody that know how to just be quiet. Know how to just love. Know when your husband's irritated. Know when he don't want maybe he don't want to talk right now. You should know that. A silent and loving woman.
 
@@ -488,11 +480,19 @@ Reading from Definition of reverence (shown on screen; source not named)  *[[50:
 
 - And there is nothing so much worth as a mind well instructed: It's nothing, bro. You put that in a balance. A mind is well instructed. She know her. You know what I mean? She know how to move. What the scriptures say about a wife. It says, bro, it's nothing. You can't compare nothing to that thing right there.
 
+> <sup>[15](/bible/sirach/26#v15)</sup> A shamefaced and faithful woman is a double grace, and her continent mind cannot be valued.
+
 - A shamefaced and faithful woman is a double grace, and her continent mind cannot be valued: I want down to what'd I say 18. Okay. You see that? You can't value that thing. Being content. You can't value that thing. Let me get it. Let me get it and read it with you, bro. Brothers need to read this chapter, man. You brothers has proven this. What you need to look for, man. A woman whose mind is well instructed. She listen to counsel. You understand? Watch this. Read.
+
+> <sup>[16](/bible/sirach/26#v16)</sup> As the sun when it ariseth in the high heaven; so is the beauty of a good wife in the ordering of her house.
 
 - As the sun when it ariseth in the high heaven; so is the beauty of a good wife in the ordering of her house: Look what he comparing her to. Look what he comparing a shamefaced and faithful woman. It said as the sun when it arise. You know you get mesmerized when you see the damn sunrise. Stop you in your tracks. Read it again. You know sometime you got to just sit back. Damn. Okay. You all right? You get on my damn nerves, but you all right there. You like the damn, you know what I'm saying? Cuz sometimes the sun get too hot. It be hot outside. Got to have a balance, brother. Got to have a balance. But it said, it said, "Damn, here you are ordering the house. She in the spirit." That's comparable to the sunrise, bro. You brothers has proven this is what you need, bro. You understand? Don't just tell. No, I don't want you to I don't want you to figure out my curtains. I don't want you to figure out this rug. I don't want you to put this. You know, brothers, it's crazy out here, man. Shots fired.
 
+> <sup>[17](/bible/sirach/26#v17)</sup> As the clear light is upon the holy candlestick; so is the beauty of the face in ripe age.
+
 - So is the beauty of the face in ripe age: Damn, y'all grow old together. You understand?
+
+> <sup>[18](/bible/sirach/26#v18)</sup> As the golden pillars are upon the sockets of silver; so are the fair feet with a constant heart.
 
 - As the golden pillars are upon the sockets of silver; so are the fair feet with a constant heart: You see that? Where the woman is always supportive. Think about look at all the things. That's how beautiful it is, man. He beautified. He's telling his son like that's the importance of finding a good spouse, bro. That's a gift from the Lord right there. He said like gold pillars. You look at them gold pillars and look at the sockets. That's what that's what hold Can you look that up? That's what hold the pillars up right there. They put the gold pillars in the socket. It keep it stationary. You understand? We the pillars. We the pillars. And if you have a a good damn the socket is is that at the bottom. It says if you have a good socket, a good found, man. Listen, bro. You could do wonders in here. But if you got a damn dragon in the corner of the house, you scared to go over there. What the hell benefit you going to do to the nation? Because she don't want to submit. Can't make it up, man. Let's go back. Colossians, bro. We got to get done, bro.
 
@@ -500,8 +500,6 @@ Reading from Definition of reverence (shown on screen; source not named)  *[[50:
 **[Colossians 3:18-19](/bible/colossians/3#v18)**  *[[57:53](https://www.youtube.com/watch?v=_aDCv9UsNao&t=3473s)]*
 
 > <sup>[18](/bible/colossians/3#v18)</sup> Wives, submit yourselves unto your own husbands, as it is fit in the Lord.
->
-> <sup>[19](/bible/colossians/3#v19)</sup> Husbands, love your wives, and be not bitter against them.
 
 - Wives, submit yourselves unto your own husbands: So you got to submit yourselves to your own husbands. Submit yourselves to your own husbands.
 
@@ -510,6 +508,8 @@ Reading from Definition of reverence (shown on screen; source not named)  *[[50:
 - Wives, submit yourselves: Some wives got to go get whole new Bibles. They didn't took a black highlighter to it. They got to go get a whole new one, bro. Damn. Kermit the Frog. You just sip your tea. Read, bro.
 
 - As it is fit in the Lord: That's fit for the Lord.
+
+> <sup>[19](/bible/colossians/3#v19)</sup> Husbands, love your wives, and be not bitter against them.
 
 - Husbands, love your wives: Husbands, we got to love our wives.
 
@@ -546,10 +546,10 @@ Reading from Definition of reverence (shown on screen; source not named)  *[[50:
 **[Colossians 3:19-20](/bible/colossians/3#v19)**  *[[1:03:24](https://www.youtube.com/watch?v=_aDCv9UsNao&t=3804s)]*
 
 > <sup>[19](/bible/colossians/3#v19)</sup> Husbands, love your wives, and be not bitter against them.
->
-> <sup>[20](/bible/colossians/3#v20)</sup> Children, obey your parents in all things: for this is well pleasing unto the Lord.
 
 - Husbands, love your wives, and be not bitter against them: Don't be bitter against them.
+
+> <sup>[20](/bible/colossians/3#v20)</sup> Children, obey your parents in all things: for this is well pleasing unto the Lord.
 
 - Children, obey your parents: Children, you see the order he's setting. Children, obey your parents.
 
@@ -559,12 +559,12 @@ Reading from Definition of reverence (shown on screen; source not named)  *[[50:
 **[Sirach 3:1-2](/bible/sirach/3#v1)**  *[[1:04:10](https://www.youtube.com/watch?v=_aDCv9UsNao&t=3850s)]*
 
 > <sup>[1](/bible/sirach/3#v1)</sup> Hear me your father, O children, and do thereafter, that ye may be safe.
->
-> <sup>[2](/bible/sirach/3#v2)</sup> For the Lord hath given the father honour over the children, and hath confirmed the authority of the mother over the sons.
 
 - Hear me your father, O children, and do thereafter, that ye may be safe: That you may be what? Hey, you see that? When we sit up there and we listen to our parents, that's safety in that. So, think about we was coming up, we didn't listen to our parents. And think about all the stuff that we was exposed to. Some of we still dealing with some of the stuff we was exposed to mentally. Can't shake it. Says sin is a double-edged sword. All because you didn't listen to your parents' guidance. Now, your parents might have not been, you know, the best examples, but a lot of our parents was surely telling us right. You like the scribes and the Pharisees. They might was doing something different, but they was telling us right. Do as I say, not as I do. You know, that was Yeah, that's heavy right there. Do as I say, not as I do. Bam. But now we reversing that thing. You understand? This is that's the beauty of it. Read that again. Three and one here.
 
 - And do thereafter: Do thereafter.
+
+> <sup>[2](/bible/sirach/3#v2)</sup> For the Lord hath given the father honour over the children, and hath confirmed the authority of the mother over the sons.
 
 - For the Lord hath given the father honour over the children: Read that again. Y'all see that, wives? The Lord hath given the father honor over the children. You supposed to honor your husband over your children. We know. We ain't taught that in society. We go straight to the kids. No, the Bible says you honor your husband over the children. There's order.
 
@@ -574,14 +574,14 @@ Reading from Definition of reverence (shown on screen; source not named)  *[[50:
 **[Sirach 3:7-8](/bible/sirach/3#v7)**  *[[1:06:24](https://www.youtube.com/watch?v=_aDCv9UsNao&t=3984s)]*
 
 > <sup>[7](/bible/sirach/3#v7)</sup> He that feareth the Lord will honour his father, and will do service unto his parents, as to his masters.
->
-> <sup>[8](/bible/sirach/3#v8)</sup> Honour thy father and mother both in word and deed, that a blessing may come upon thee from them.
 
 - He that feareth the Lord will honour his father: If you fear the Lord, you going to honor your father.
 
 - And will do service unto his parents: You see that? If you fear the Lord, you going to do service to your parents. You're going to take care of your parents.
 
 - As to his masters: As to his masters. Watch this. Read.
+
+> <sup>[8](/bible/sirach/3#v8)</sup> Honour thy father and mother both in word and deed, that a blessing may come upon thee from them.
 
 - Honour thy father and mother both in word and deed: You see that? Honor your father and mother in word and in your actions. Honor them in word, the things that come out of your mouth and in your actions. We supposed to. That's how you honor your father and your mother. How you carry yourself. How you conduct yourself. Your speech when they not around you. You're representing your father and your mother. You're honoring your father and your mother. You got to have these conversations with your kids.
 

@@ -62,10 +62,10 @@ tags: ["15 Minutes w/ The Captains", "angels", "money", "satan"]
 **[Luke 11:9-10](/bible/luke/11#v9)**  *[[10:00](https://www.youtube.com/watch?v=nPBT-JNVgbM&t=600s)]*
 
 > <sup>[9](/bible/luke/11#v9)</sup> And I say unto you, Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.
->
-> <sup>[10](/bible/luke/11#v10)</sup> For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.
 
 - Ask and it shall be given you: So, this is Christ talking to his disciples. He's telling them like listen, the things that you are asking for, the things that you want, the things that you desire, they'll be given to you if you ask in faith, right?
+
+> <sup>[10](/bible/luke/11#v10)</sup> For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.
 
 
 **[Luke 11:11-13](/bible/luke/11#v11)**  *[[10:47](https://www.youtube.com/watch?v=nPBT-JNVgbM&t=647s)]*
@@ -118,10 +118,10 @@ tags: ["15 Minutes w/ The Captains", "angels", "money", "satan"]
 **[Luke 11:14-15](/bible/luke/11#v14)**  *[[18:04](https://www.youtube.com/watch?v=nPBT-JNVgbM&t=1084s)]*
 
 > <sup>[14](/bible/luke/11#v14)</sup> And he was casting out a devil, and it was dumb. And it came to pass, when the devil was gone out, the dumb spake; and the people wondered.
->
-> <sup>[15](/bible/luke/11#v15)</sup> But some of them said, He casteth out devils through Beelzebub the chief of the devils.
 
 - It was dumb: So, that spirit that was in or this devil that was in this person said that it was dumb, meaning it caused the person to be like a mental retardation or wasn't able to speak, whatever the case may be. So, when you see people like that, that be a unclean spirit that's within them. The Lord can heal that spirit if he wants. The Lord can remove that spirit if he wants in his time. But Christ was on the scene when Christ was on the scene, he could actually deliver you from that spirit. He could take that spirit from you.
+
+> <sup>[15](/bible/luke/11#v15)</sup> But some of them said, He casteth out devils through Beelzebub the chief of the devils.
 
 - He casteth out devils through Beelzebub the chief of the devils: So they said this dude is a Beelzebub. Now Beelzebub would be going to what we know as the lord of the flies. But it says it's a prince of the devils. So at that time when you would hear Beelzebub, it was to refer to someone that had an evil spirit, an unclean spirit. They were a devil, a demonic spirit. So they're saying that this is Christ. Christ is able to heal people of devils with a devil, cuz he is the devil. That's what they say. He's the devil, that's why he's able to heal devils, which is foolish.
 
@@ -131,10 +131,10 @@ tags: ["15 Minutes w/ The Captains", "angels", "money", "satan"]
 > <sup>[16](/bible/luke/11#v16)</sup> And others, tempting him, sought of him a sign from heaven.
 >
 > <sup>[17](/bible/luke/11#v17)</sup> But he, knowing their thoughts, said unto them, Every kingdom divided against itself is brought to desolation; and a house divided against a house falleth.
->
-> <sup>[18](/bible/luke/11#v18)</sup> If Satan also be divided against himself, how shall his kingdom stand? because ye say that I cast out devils through Beelzebub.
 
 - Every kingdom divided against itself is brought to desolation: So it said every kingdom that is divided against itself is brought to desolation. And a house divided against a house falleth.
+
+> <sup>[18](/bible/luke/11#v18)</sup> If Satan also be divided against himself, how shall his kingdom stand? because ye say that I cast out devils through Beelzebub.
 
 - If Satan also be divided against himself, how shall his kingdom stand: So how is Christ's kingdom going to stand if he's a devil, I mean? And Satan can't cast out Satan. How does that work?
 
@@ -175,16 +175,16 @@ tags: ["15 Minutes w/ The Captains", "angels", "money", "satan"]
 **[Luke 11:21-23](/bible/luke/11#v21)**  *[[26:32](https://www.youtube.com/watch?v=nPBT-JNVgbM&t=1592s)]*
 
 > <sup>[21](/bible/luke/11#v21)</sup> When a strong man armed keepeth his palace, his goods are in peace:
->
-> <sup>[22](/bible/luke/11#v22)</sup> But when a stronger than he shall come upon him, and overcome him, he taketh from him all his armour wherein he trusted, and divideth his spoils.
->
-> <sup>[23](/bible/luke/11#v23)</sup> He that is not with me is against me: and he that gathereth not with me scattereth.
 
 - When a strong man armed keepeth his palace: So, Christ said when a strong man So, you can read about this same parable in the book of Matthew chapter 12. And when you read it in Matthew chapter 12, and you read verse 29.
 
 - Except he first bind the strong man: So, how do you bind a strong man? This man is strong. How do you bind him? With his weaknesses. What is he weak in? He's strong. You can't just run up on him, right? He's strong enough to fight his way out. So, what do you have to do? You have to find in terms of comic books and superheroes and things of that nature, you got to find his kryptonite. And our kryptonite is sin, and all the nations around us know that. So, in order to bind us, they have to keep us in sin. All right?
 
 - So, when you get with holding with your cord, you get bound. You're a strong man, but you still got the sin that's hovering over you. That's this elephant in the room that you're not willing to address. It will cause you to fall. Why will you fall? Because the sin is in you and you never overcome it.
+
+> <sup>[22](/bible/luke/11#v22)</sup> But when a stronger than he shall come upon him, and overcome him, he taketh from him all his armour wherein he trusted, and divideth his spoils.
+>
+> <sup>[23](/bible/luke/11#v23)</sup> He that is not with me is against me: and he that gathereth not with me scattereth.
 
 - He that is not with me is against me; and he that gathereth not with me scattereth: Luke 11 again. Let's move on. Luke 11:23. This go back to let me show you something. And this go back to these Christians, you know, these urban apologetics and things of that nature. These guys are not of God. And they scattering God's sheep because God is trying to call his people back to the scriptures, right? And people that are in these sects or these churches and these different religious sects and things of that nature. Their whole agenda is to keep you away from God's commandments, especially the urban apologetics. These dudes love paganism. They love America. They love paganism. They love idolatrous practices. They not about God's people. They not about teaching these young men how to better themselves.
 
@@ -226,18 +226,16 @@ tags: ["15 Minutes w/ The Captains", "angels", "money", "satan"]
 > <sup>[1](/bible/ezekiel/34#v1)</sup> And the word of the Lord came unto me, saying,
 >
 > <sup>[2](/bible/ezekiel/34#v2)</sup> Son of man, prophesy against the shepherds of Israel, prophesy, and say unto them, Thus saith the Lord God unto the shepherds; Woe be to the shepherds of Israel that do feed themselves! should not the shepherds feed the flocks?
->
-> <sup>[3](/bible/ezekiel/34#v3)</sup> Ye eat the fat, and ye clothe you with the wool, ye kill them that are fed: but ye feed not the flock.
->
-> <sup>[4](/bible/ezekiel/34#v4)</sup> The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up that which was broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them.
->
-> <sup>[5](/bible/ezekiel/34#v5)</sup> And they were scattered, because there is no shepherd: and they became meat to all the beasts of the field, when they were scattered.
 
 - Should not the shepherds feed the flocks: See, this is the church. The church don't feed the flock. The people in the church is hungry. Not hungry physically only, but a lot of people are hungry for the word of God. A lot of people when they go to church, they do be wanting to hear the scriptures. But when they get there, they not hearing no scriptures. Then they come to our clubhouse room and they like, "Man, I learned more tonight than I have learned in 50 years in the church. I learned more just listening to you brother speak here right now. I've heard more scriptures than I've heard in 20 years inside the church." And they're astonished. They're baffled. You understand?
 
 - Brother Darren said, "Debating is not going to save us." They don't understand it. They don't understand it. It is what it is. They do not understand it.
 
+> <sup>[3](/bible/ezekiel/34#v3)</sup> Ye eat the fat, and ye clothe you with the wool, ye kill them that are fed: but ye feed not the flock.
+
 - Ye eat the fat: But so, these shepherds, they eat good. You know what I'm saying? But they not feeding the people.
+
+> <sup>[4](/bible/ezekiel/34#v4)</sup> The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up that which was broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them.
 
 - With force and with cruelty have ye ruled them: That's the church.
 
@@ -256,6 +254,8 @@ tags: ["15 Minutes w/ The Captains", "angels", "money", "satan"]
 - And any of the brothers they got the spirit on them to travel and do the work like what you've been seeing brothers do with their own money for years. I used to spend my own money to travel the world. Like all the time. Like if you saw me with the leadership when I was an officer, more than likely 99.999% I paid my own way. I paid for my own food. I paid for my own flight, my own hotel. You feel me? So, I guarantee you if Bishop N had 150 million dollars, I would be not sitting in my law office right now in North Carolina. I would be on the other side of the world doing his work. That's a guarantee. Because unlike your pastor, our Bishop is about this work. He's about establishing God's kingdom on this earth. To hell with you if you don't believe it. And to hell with you if you're that stupid to believe that he had that much money and we all be sitting around here broke going to our 9:00 to 5:00. You're crazy. But hey, it is what it is.
 
 - Look at him. The dude right here, the bald-headed one right over his left shoulder. He looking like $40,000. Shoot, we need What is it? Daddy need a new pair of shoes. The hell? She talking about 40,000. So, you about to get 40 bands? And watch what he said at the beginning, y'all. He's talking about to sit up there at the top up there. To sit behind a false prophet and be seen on camera? It ain't like they got no You know, when you do advertisement, people will pay you money to have their billboard on your stadium or something like that. It ain't like they up there with a billboard. Ain't nobody watching Marvin Sapp. The hell? He never would have made it. Come on, man. Stop it. I forgot that he was even still preaching. This is ridiculous. Oh God. All right. Y'all have mercy on me now. Y'all have mercy on me, bro.
+
+> <sup>[5](/bible/ezekiel/34#v5)</sup> And they were scattered, because there is no shepherd: and they became meat to all the beasts of the field, when they were scattered.
 
 - And they were scattered, because there is no shepherd: So, verse five now. Ezekiel 34:5. Who scattered them? It's the false prophets. The false prophets scattered them.
 

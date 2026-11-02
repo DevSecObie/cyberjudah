@@ -35,48 +35,68 @@ A lot of our people is dying from heart attacks and from cancer and from a lot o
 
 **[1 Peter 3:7-12](/bible/1-peter/3#v7)**  *[[13:29](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=809s)]*
 
+- Likewise, ye husbands, dwell with them according to knowledge. So the Lord says that you brothers that's married, you got to deal with them, your wife, according to knowledge. The knowledge is the knowledge of the scriptures.
+
 > <sup>[7](/bible/1-peter/3#v7)</sup> Likewise, ye husbands, dwell with them according to knowledge, giving honour unto the wife, as unto the weaker vessel, and as being heirs together of the grace of life; that your prayers be not hindered.
->
+
+- Giving honour unto the wife: the honor you giving unto her is understanding that she is weaker than you. She the weaker vessel. God created a woman and the woman is the weaker vessel. What does that mean? It mean not just her body alone. We as men we got muscles, we are strong, our bodies build different; and a woman is soft and tender and delicate, and she can't lift heavy stuff like how we can lift heavy stuff. She are weaker in all aspect. A woman was created weaker than a man.
+
+- That's the physical aspect, but also the spiritual aspect of it is that mentally woman is weaker than men. Woman works on their emotions. A woman's weakness is her emotions. Woman is easily manipulated. Satan manipulated Eve; Eve manipulated Adam. So God says in dealing with your woman, you got to understand she's weaker than you. She's not as strong as you mentally. That's why it's your job as a man to protect her and to rule over her, to guide her and so forth. Why? She is not like you. Something happen, she bug out, she get all emotional, like it's the end of the world. You sisters, your weakness is your emotions. You all have to learn to control your emotions; your emotions make you say things and do things that is not right. You react out of emotions.
+
+- The problem with you men is that some of y'all put your wife on the same level as you, so you expect her to think like you. No. I know some of these sisters online right now might be getting offended: what you talking about, I'm equal, I'm equal to my man. No, you are not.
+
+- And is your job to protect her and to build her up. When Satan jump on her, is your job to guide her and correct her.
+
+- And as being heirs together of the grace of life: both of us is working to get the kingdom of heaven together. I'm not working by myself, she's not working by herself. We are working together.
+
+- That your prayers be not hindered: let me tell you brothers and sisters something. You married couple, a lot of times you pray to God and he don't listen to you, because you all are not dealing right with each other. So your prayers become hindered. If you are not dealing right with each other and you all are not on one accord, God is not going to listen to your prayers. He hearing your prayers like, why am I listening to you? Look at you all. Look how you all dealing with each other. You all are not trying to be heirs together.
+
 > <sup>[8](/bible/1-peter/3#v8)</sup> Finally, be ye all of one mind, having compassion one of another, love as brethren, be pitiful, be courteous:
->
+
+- Finally, be ye all of one mind: the husband and the wife, you must be of one mind. Having compassion one of another: brothers, when your woman do and say dumb, stupid stuff, you got to sometime show compassion, be like, man, she just don't know. Love as brethren: you got to love her like a friend, like a brethren. Be pitiful, be courteous.
+
+- Definition read in class: courteous means being polite, respectful, and kind to other people. So guess what, sisters, brothers, you're supposed to be polite to each other. This is in the marriage. Meaning sisters, you must respect your husband. The scripture refer to your husband as your lord. He's your lord, he's your head. And the man's lord and the man's head is who? Christ. Sisters, whatever you saying to your husband, if you're not going to say it to Christ, you shouldn't say it to your husband. Would you talk back to Christ? Would you mouth over? If you ain't going to do that to the Lord, why should you do that to your husband? That's how you got to look at it. Some of you brothers and sisters, y'all are not kind to each other in your marriages.
+
 > <sup>[9](/bible/1-peter/3#v9)</sup> Not rendering evil for evil, or railing for railing: but contrariwise blessing; knowing that ye are thereunto called, that ye should inherit a blessing.
->
+
+- Not rendering evil for evil, or railing for railing: what is that going into? It's going into strife and arguments. Your wife said something evil to you, so you say back something evil to her, and it's tit for tat, you and her in the house cursing each other out, speaking evil to each other. And guess who see all of that? The children. Your kids see all of that; your kids calling up sisters, oh, my mom and dad is here fighting and arguing and calling each other all type of nasty names. And then you come up in here Saturday talking about shalom, shalom, brothers and sisters, with the low bow, when during the week you and your husband cursing each other out nasty.
+
+- Brothers, do not argue with your woman. Does Christ argue with us? So why the hell are you arguing with your woman? Men of God don't roll like that. I'm not arguing with no woman. You tell her what it is and that's it. That's it, I don't want to hear nothing else, I'm not arguing with you. But you in the house going back and forth, rendering evil for evil, railing for railing. Listen, that's Satan. Satan is in the mix of that marriage right there. And when you do that, you affect your kids. Your kids will grow up and they will think that's okay. That's not okay. That's unhealthy.
+
+- A lot of you all say you're serving God, but you all got to learn how to fight Satan when you serving God. You sisters too, learn to control your damn emotions. Stop getting emotional and throwing tantrums in your house.
+
+- As a brother, if your wife says some evil stuff, you check her and you keep it moving. Don't tell her back something evil. Why the hell you going to make her pull you out of the spirit to start saying evil stuff to her? You know, I should have never marry you: that hurt right there.
+
+- But contrariwise, blessing: you almost bless each other. When you get up in the morning, your wife supposed to bless you. She's supposed to say, Most High Christ bless you, my king, my lord. If she ain't bless you and you let that slide, man, come on. You sisters got to learn to do that. When you see your husband, you bless him. That's going to help you to look at him as who he really is. The Israelite men that repented, we are the sons of God. And if you admire your husband and you look at him as who God say he is, you going to bless him every morning.
+
+- Knowing that ye are thereunto called, that ye should inherit a blessing: all of us is called to inherit that blessing, the husband and the wife. We both want that blessing. But in order to get that blessing, we have to deal right with each other. We have to work with each other, we got to love each other and deal right. You can't be evil with each other and think you married couple. Satan will come to test your marriage. When he come, sisters, you all got to learn to see him and shake him off. You got to learn to spot Satan and fight him off. Don't give in to him. He whispering things in your ears: oh, your husband, I don't think he love you anymore. You don't find that suspicious? Dude getting up, working every day, taking care, and all of a sudden that thought come in your mind, I don't feel love anymore. Stop it. I don't feel like you show me affection or you care. Sister, stop listening to Satan.
+
 > <sup>[10](/bible/1-peter/3#v10)</sup> For he that will love life, and see good days, let him refrain his tongue from evil, and his lips that they speak no guile:
->
+
+- For he that will love life, and see good days, let him refrain his tongue from evil: you got to refrain your tongue from evil. The evil here is going into marriage, y'all speaking evil to each other, husband and wife. And that's happening with some of you all. I keep hearing reports. You sisters and brothers, fix your stuff. Stop being evil with each other. We keep dealing with you all and you all can't get it right. You all gonna got to watch online. Why come here and you can't love each other? Sisters, you can't respect your husband, you can't love him; and you brothers, you can't love your wife. If the word of God can't change you, why are you here? I'm going to talk to you all once, twice, and then you all got to watch online.
+
+- Control your damn mouth. Watch what you say to each other. Stop saying hurtful stuff towards your spouse.
+
 > <sup>[11](/bible/1-peter/3#v11)</sup> Let him eschew evil, and do good; let him seek peace, and ensue it.
->
+
+- And his lips that they speak no guile. Let him eschew evil: you got to hate evil. And do good to each other.
+
+- Let him seek peace, and ensue it: you supposed to be seeking peace. Some of you sisters, you just in the house, you catch a damn attitude. Your husband did something and you ain't telling what the hell is bothering you. You just in the house with a damn attitude: I'm mad, I'm angry. God says you got to seek peace. How the hell you expect me to read your mind? Sisters, we are not mind readers. We did something to you, you probably don't like it, just say something. Just say, yo, you did this to me and it hurt me and I don't like it. Don't walk around the house for days with a damn attitude and acting mad, and we asking you, everything okay, and you're like, yes, everything okay. But we as men, we know something's not right with her; she acting different. We are not mind readers. You supposed to know what you did? I don't know. Men doesn't think like that. If we did something that hurt you, just come to your husband: yo, you did this to me and it hurt me. And then your husband going to be like, yo, my bad, I didn't mean to do it. Or if it's some dumb stupid stuff you did, he gonna be like, man, I did it because of that dumb stupid stuff. So get over it. But at least you get it out of the way. Your husband is not a mind reader; we not Professor X up in here.
+
 > <sup>[12](/bible/1-peter/3#v12)</sup> For the eyes of the Lord are over the righteous, and his ears are open unto their prayers: but the face of the Lord is against them that do evil.
 
-- Likewise, ye husbands, dwell with them according to knowledge. So the Lord says that you brothers that's married, you got to deal with them, your wife, according to knowledge. The knowledge is the knowledge of the scriptures.
-- Giving honour unto the wife: the honor you giving unto her is understanding that she is weaker than you. She the weaker vessel. God created a woman and the woman is the weaker vessel. What does that mean? It mean not just her body alone. We as men we got muscles, we are strong, our bodies build different; and a woman is soft and tender and delicate, and she can't lift heavy stuff like how we can lift heavy stuff. She are weaker in all aspect. A woman was created weaker than a man.
-- That's the physical aspect, but also the spiritual aspect of it is that mentally woman is weaker than men. Woman works on their emotions. A woman's weakness is her emotions. Woman is easily manipulated. Satan manipulated Eve; Eve manipulated Adam. So God says in dealing with your woman, you got to understand she's weaker than you. She's not as strong as you mentally. That's why it's your job as a man to protect her and to rule over her, to guide her and so forth. Why? She is not like you. Something happen, she bug out, she get all emotional, like it's the end of the world. You sisters, your weakness is your emotions. You all have to learn to control your emotions; your emotions make you say things and do things that is not right. You react out of emotions.
-- The problem with you men is that some of y'all put your wife on the same level as you, so you expect her to think like you. No. I know some of these sisters online right now might be getting offended: what you talking about, I'm equal, I'm equal to my man. No, you are not.
-- And is your job to protect her and to build her up. When Satan jump on her, is your job to guide her and correct her.
-- And as being heirs together of the grace of life: both of us is working to get the kingdom of heaven together. I'm not working by myself, she's not working by herself. We are working together.
-- That your prayers be not hindered: let me tell you brothers and sisters something. You married couple, a lot of times you pray to God and he don't listen to you, because you all are not dealing right with each other. So your prayers become hindered. If you are not dealing right with each other and you all are not on one accord, God is not going to listen to your prayers. He hearing your prayers like, why am I listening to you? Look at you all. Look how you all dealing with each other. You all are not trying to be heirs together.
-- Finally, be ye all of one mind: the husband and the wife, you must be of one mind. Having compassion one of another: brothers, when your woman do and say dumb, stupid stuff, you got to sometime show compassion, be like, man, she just don't know. Love as brethren: you got to love her like a friend, like a brethren. Be pitiful, be courteous.
-- Definition read in class: courteous means being polite, respectful, and kind to other people. So guess what, sisters, brothers, you're supposed to be polite to each other. This is in the marriage. Meaning sisters, you must respect your husband. The scripture refer to your husband as your lord. He's your lord, he's your head. And the man's lord and the man's head is who? Christ. Sisters, whatever you saying to your husband, if you're not going to say it to Christ, you shouldn't say it to your husband. Would you talk back to Christ? Would you mouth over? If you ain't going to do that to the Lord, why should you do that to your husband? That's how you got to look at it. Some of you brothers and sisters, y'all are not kind to each other in your marriages.
-- Not rendering evil for evil, or railing for railing: what is that going into? It's going into strife and arguments. Your wife said something evil to you, so you say back something evil to her, and it's tit for tat, you and her in the house cursing each other out, speaking evil to each other. And guess who see all of that? The children. Your kids see all of that; your kids calling up sisters, oh, my mom and dad is here fighting and arguing and calling each other all type of nasty names. And then you come up in here Saturday talking about shalom, shalom, brothers and sisters, with the low bow, when during the week you and your husband cursing each other out nasty.
-- Brothers, do not argue with your woman. Does Christ argue with us? So why the hell are you arguing with your woman? Men of God don't roll like that. I'm not arguing with no woman. You tell her what it is and that's it. That's it, I don't want to hear nothing else, I'm not arguing with you. But you in the house going back and forth, rendering evil for evil, railing for railing. Listen, that's Satan. Satan is in the mix of that marriage right there. And when you do that, you affect your kids. Your kids will grow up and they will think that's okay. That's not okay. That's unhealthy.
-- A lot of you all say you're serving God, but you all got to learn how to fight Satan when you serving God. You sisters too, learn to control your damn emotions. Stop getting emotional and throwing tantrums in your house.
-- As a brother, if your wife says some evil stuff, you check her and you keep it moving. Don't tell her back something evil. Why the hell you going to make her pull you out of the spirit to start saying evil stuff to her? You know, I should have never marry you: that hurt right there.
-- But contrariwise, blessing: you almost bless each other. When you get up in the morning, your wife supposed to bless you. She's supposed to say, Most High Christ bless you, my king, my lord. If she ain't bless you and you let that slide, man, come on. You sisters got to learn to do that. When you see your husband, you bless him. That's going to help you to look at him as who he really is. The Israelite men that repented, we are the sons of God. And if you admire your husband and you look at him as who God say he is, you going to bless him every morning.
-- Knowing that ye are thereunto called, that ye should inherit a blessing: all of us is called to inherit that blessing, the husband and the wife. We both want that blessing. But in order to get that blessing, we have to deal right with each other. We have to work with each other, we got to love each other and deal right. You can't be evil with each other and think you married couple. Satan will come to test your marriage. When he come, sisters, you all got to learn to see him and shake him off. You got to learn to spot Satan and fight him off. Don't give in to him. He whispering things in your ears: oh, your husband, I don't think he love you anymore. You don't find that suspicious? Dude getting up, working every day, taking care, and all of a sudden that thought come in your mind, I don't feel love anymore. Stop it. I don't feel like you show me affection or you care. Sister, stop listening to Satan.
-- For he that will love life, and see good days, let him refrain his tongue from evil: you got to refrain your tongue from evil. The evil here is going into marriage, y'all speaking evil to each other, husband and wife. And that's happening with some of you all. I keep hearing reports. You sisters and brothers, fix your stuff. Stop being evil with each other. We keep dealing with you all and you all can't get it right. You all gonna got to watch online. Why come here and you can't love each other? Sisters, you can't respect your husband, you can't love him; and you brothers, you can't love your wife. If the word of God can't change you, why are you here? I'm going to talk to you all once, twice, and then you all got to watch online.
-- Control your damn mouth. Watch what you say to each other. Stop saying hurtful stuff towards your spouse.
-- And his lips that they speak no guile. Let him eschew evil: you got to hate evil. And do good to each other.
-- Let him seek peace, and ensue it: you supposed to be seeking peace. Some of you sisters, you just in the house, you catch a damn attitude. Your husband did something and you ain't telling what the hell is bothering you. You just in the house with a damn attitude: I'm mad, I'm angry. God says you got to seek peace. How the hell you expect me to read your mind? Sisters, we are not mind readers. We did something to you, you probably don't like it, just say something. Just say, yo, you did this to me and it hurt me and I don't like it. Don't walk around the house for days with a damn attitude and acting mad, and we asking you, everything okay, and you're like, yes, everything okay. But we as men, we know something's not right with her; she acting different. We are not mind readers. You supposed to know what you did? I don't know. Men doesn't think like that. If we did something that hurt you, just come to your husband: yo, you did this to me and it hurt me. And then your husband going to be like, yo, my bad, I didn't mean to do it. Or if it's some dumb stupid stuff you did, he gonna be like, man, I did it because of that dumb stupid stuff. So get over it. But at least you get it out of the way. Your husband is not a mind reader; we not Professor X up in here.
 - For the eyes of the Lord are over the righteous: this is why, because God is watching what you're doing. God is watching how you are dealing with each other. And his ears are open unto their prayers. But the face of the Lord is against them that do evil. So you do evil and you deal evil with each other, the Lord is going to be against you. I'm not going to deal evil with my wife. You know why? Because God watching me, and God going to judge me. It should be the same thing with you damn sisters. Judgment going to come to your black behind if you keep dealing evil with your husband and keep running your damn mouth and being disrespectful. God sees you.
+
 - So brothers and sisters, y'all don't be in the house calling each other names. Don't be dealing evil with each other and fooling yourself thinking that you serving God. Stop arguing in front of your damn kids and saying hurtful stuff to each other in front of your kids.
 
 **[Psalms 64:2-3](/bible/psalms/64#v2)**  *[[38:10](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=2290s)]*
 
-> <sup>[2](/bible/psalms/64#v2)</sup> Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:
->
-> <sup>[3](/bible/psalms/64#v3)</sup> Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:
-
 - Hide me from the secret counsel of the wicked. So guess what, brothers and sisters: there is no such thing as, oh, that's a conspiracy. There is secret counsel of the wicked. The wicked here is talking about white people. There is secret counsel that white people have set up to destroy us, to destroy the people of God, to destroy blacks and Hispanics worldwide.
+
 - Some of y'all might think the wicked is talking about Tyrone on the corner that robbed you last week. No. It's talking about the people that destroying the earth, the people that conquer nations and killed, the genocidal maniacs that murdered millions of people on this earth, the people that unleashed COVID 19 and kill millions of people, that experimenting with bat disease, that creating diseases to annihilate. That's the wicked.
+
+> <sup>[2](/bible/psalms/64#v2)</sup> Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:
+
 - From the insurrection of the workers of iniquity: who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words: that they may shoot in secret at the perfect. At the perfect they shoot in secret; they trying to destroy us.
 
   Precepts:
@@ -85,20 +105,26 @@ A lot of our people is dying from heart attacks and from cancer and from a lot o
 
     The earth is given into the hand of the wicked; he covereth the faces of the judges thereof. So who is ruling on the earth today? Esau, he's the one ruling. He's the wicked. The white man is the wicked.
 
+> <sup>[3](/bible/psalms/64#v3)</sup> Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:
+
 **[Psalms 83:1-4](/bible/psalms/83#v1)**  *[[38:10](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=2290s)]*
 
 > <sup>[1](/bible/psalms/83#v1)</sup> Keep not thou silence, O God: hold not thy peace, and be not still, O God.
->
-> <sup>[2](/bible/psalms/83#v2)</sup> For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.
->
-> <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
->
-> <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
 
 - Keep not thou silence, O God: hold not thy peace, and be not still. For, lo, thine enemies make a tumult: so God have enemies, and God's enemies is the wicked, is all nations. A tumult, a loud gathering.
+
+> <sup>[2](/bible/psalms/83#v2)</sup> For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.
+
 - And they that hate thee have lifted up the head: meaning they that hate God is ruling the earth today.
+
+> <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
+
 - They have taken crafty counsel against thy people: this is the part that I want. Now the crafty counsel goes into many different things that they got set up to destroy us as a people. The educational system, that's crafty counsel. Religious systems, that's crafty counsel. But guess what is also crafty counsel? The medical system. The medical system was also set up to destroy us, and the food system was also set up to destroy us. And that's what I'm going to show you all. The FDA.
+
+> <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
+
 - And consulted against thy hidden ones. They have said, Come, and let us cut them off from being a nation: so that's what they want to do. They want to cut us off. They want to kill us. They've been massacring us for hundreds of years. How much millions of North American Indians they kill over here to this day? How much Taino Indians and Puerto Ricans, how much millions of them they kill? How much millions of us they killed in Africa? They literally trying to kill us.
+
 - That the name of Israel may be no more in remembrance: so they did that through colonization, through slavery, and through a lot of murders. But also, they doing it through the food and through the medical industry. Through the Food and Drug Administration, they doing the same thing.
 
   Precepts:
@@ -231,23 +257,25 @@ Reading in class: petroleum and medication. "Petroleum works with medication as 
 
 **[Ezekiel 4:9-13](/bible/ezekiel/4#v9)**  *[[1:55:02](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=6902s)]*
 
+- Take thou also unto thee wheat, and barley, and beans, and lentiles, and millet, and fitches, and put them in one vessel, and make thee bread thereof. Put them all in one bowl, take all this wheat and flour and put it in one bowl and make some bread.
+
 > <sup>[9](/bible/ezekiel/4#v9)</sup> Take thou also unto thee wheat, and barley, and beans, and lentiles, and millet, and fitches, and put them in one vessel, and make thee bread thereof, according to the number of the days that thou shalt lie upon thy side, three hundred and ninety days shalt thou eat thereof.
 >
 > <sup>[10](/bible/ezekiel/4#v10)</sup> And thy meat which thou shalt eat shall be by weight, twenty shekels a day: from time to time shalt thou eat it.
->
+
+- Three hundred and ninety days shalt thou eat thereof. And thy meat which thou shalt eat shall be by weight, twenty shekels a day: from time to time shalt thou eat it. Thou shalt drink also water by measure, the sixth part of an hin.
+
 > <sup>[11](/bible/ezekiel/4#v11)</sup> Thou shalt drink also water by measure, the sixth part of an hin: from time to time shalt thou drink.
 >
 > <sup>[12](/bible/ezekiel/4#v12)</sup> And thou shalt eat it as barley cakes, and thou shalt bake it with dung that cometh out of man, in their sight.
->
-> <sup>[13](/bible/ezekiel/4#v13)</sup> And the Lord said, Even thus shall the children of Israel eat their defiled bread among the Gentiles, whither I will drive them.
 
-- Take thou also unto thee wheat, and barley, and beans, and lentiles, and millet, and fitches, and put them in one vessel, and make thee bread thereof. Put them all in one bowl, take all this wheat and flour and put it in one bowl and make some bread.
-- Three hundred and ninety days shalt thou eat thereof. And thy meat which thou shalt eat shall be by weight, twenty shekels a day: from time to time shalt thou eat it. Thou shalt drink also water by measure, the sixth part of an hin.
 - And thou shalt eat it as barley cakes, and thou shalt bake it with dung that cometh out of man, in their sight: bake the bread with human. In everybody's sight.
+
 - And the Lord said, Even thus shall the children of Israel eat their defiled bread among the Gentiles. You all understand what that is saying. That was a prophecy for today. The food we eat is. It's defiled. There's all type of chemicals in the food that give you cancer, pesticides they spraying on the food. There's no nutrients in the food. God says, Ezekiel, I want you to make bread and knead it with human in front of everybody, and let them know that's how they going to eat their food in the future when they are enslaved and scattered amongst the Gentiles. So God prophesied us eating all that filth that we eating today that get us sick. And who is behind all of this? The wicked. The white man. Now he messing with the chicken. He cloning everything.
 
-
 - So they giving us lab grown food to eat right now. They growing animals and lab grown beef and all type of stuff. The Lord says we going to eat our food defiled amongst the Gentiles. And why is it like that? Because Esau is behind all of that. The food and drug is trying to assassinate us, and they work hand in hand. The food got no nutrients; the food get you sick; then they create the drug to treat the sickness, and then they kill you. That's how they kill us.
+
+> <sup>[13](/bible/ezekiel/4#v13)</sup> And the Lord said, Even thus shall the children of Israel eat their defiled bread among the Gentiles, whither I will drive them.
 
 **[Psalms 64:2](/bible/psalms/64#v2)** (read again)  *[[1:59:46](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=7186s)]*
 
@@ -262,9 +290,13 @@ Reading in class: petroleum and medication. "Petroleum works with medication as 
 > <sup>[8](/bible/revelation/6#v8)</sup> And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth.
 
 - And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see. And I looked, and behold a pale horse: so this pale horse is talking about America. And his name that sat on him was Death, and Hell followed with him. This is talking about America.
+
 - And power was given unto them over the fourth part of the earth: the fourth part of the earth is talking about America, the western hemisphere. Who got power over here in the western hemisphere? America.
+
 - To kill with sword: so he killed with sword, through war. And with hunger: with famine. And with death. And with the beasts of the earth.
+
 - Definition read in class: zoonosis is an infectious disease that spreads naturally from animals to humans, caused by germs like viruses, bacteria, parasites, and fungi; common examples include rabies. Zoonosis is when Esau take them diseases that animals got, like COVID 19, that's a bat disease; they took it and they make it where humans could contract it, and they turn it into a bioweapon.
+
 - Definition read in class: gain of function research is scientific experimentation that genetically alters an organism to give it new or enhanced biological traits, such as increased virulence, transmissibility, or a broader host range. Its primary goals are understanding disease mechanisms, improving pandemic preparedness, and developing effective vaccines and treatments.
 
 **[Isaiah 14:20](/bible/isaiah/14#v20)**  *[[2:04:13](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=7453s)]*
@@ -328,39 +360,49 @@ Reading in class: petroleum and medication. "Petroleum works with medication as 
 **[Ecclesiasticus 38:1-5](/bible/sirach/38#v1)**  *[[2:29:31](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=8971s)]*
 
 > <sup>[1](/bible/sirach/38#v1)</sup> Honour a physician with the honour due unto him for the uses which ye may have of him: for the Lord hath created him.
->
+
+- Honour a physician with the honour due unto him, for the uses which ye may have of him: for the Lord hath created him. For of the Most High cometh healing: that's where healing first and foremost come from, the Most High God. And he shall receive honour of the king. The skill of the physician shall lift up his head: and in the sight of great men he shall be in admiration.
+
 > <sup>[2](/bible/sirach/38#v2)</sup> For of the most High cometh healing, and he shall receive honour of the king.
 >
 > <sup>[3](/bible/sirach/38#v3)</sup> The skill of the physician shall lift up his head: and in the sight of great men he shall be in admiration.
 >
 > <sup>[4](/bible/sirach/38#v4)</sup> The Lord hath created medicines out of the earth; and he that is wise will not abhor them.
->
-> <sup>[5](/bible/sirach/38#v5)</sup> Was not the water made sweet with wood, that the virtue thereof might be known?
 
-- Honour a physician with the honour due unto him, for the uses which ye may have of him: for the Lord hath created him. For of the Most High cometh healing: that's where healing first and foremost come from, the Most High God. And he shall receive honour of the king. The skill of the physician shall lift up his head: and in the sight of great men he shall be in admiration.
 - The Lord hath created medicines out of the earth: where did God create medicine? Out of the earth. Did it say from petroleum? Out of the earth. So what the hell is these white people talking about, herbal medicine is quackery? The scripture says God created medicine out of the earth. So medicine comes from the earth, it come from the plants, it come from the food we eat.
+
 - And he that is wise will not abhor them: you're not going to hate them. Didn't the white man say, to hell with all these medicine that came from the earth, we going to make our pharmaceutical and petroleum, and we going to condemn anyone that use the medicine from the earth? That's how this whole medical system is set up, that a lot of you brothers and sisters trust in. You trust in the white man's system. But it's okay, cuz the white man did a job on us and then he destroyed all our doctors that really knew how to do these things, so we had no other choice but to depend on him. So you get a headache right now, you like, damn man, I got to go take a Tylenol. They ask me, yo, Deacon, should I take a Tylenol? Man, go take a damn Tylenol. But just know that the Tylenol affect your kidney. Keep taking it all the time, it's a chemical, it will affect your kidney. And guess what? You got a headache because something else is wrong with you. That's why your head hurting.
+
 - Was not the water made sweet with wood, that the virtue thereof might be known?
 
+> <sup>[5](/bible/sirach/38#v5)</sup> Was not the water made sweet with wood, that the virtue thereof might be known?
+
 **[Ecclesiasticus 37:27-31](/bible/sirach/37#v27)**  *[[2:33:45](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=9225s)]*
+
+- My son, prove thy soul in thy life, and see what is evil for it, and give not that unto it. Prove what your soul want and prove what is evil for it, the things that you should not be eating or consuming.
 
 > <sup>[27](/bible/sirach/37#v27)</sup> My son, prove thy soul in thy life, and see what is evil for it, and give not that unto it.
 >
 > <sup>[28](/bible/sirach/37#v28)</sup> For all things are not profitable for all men, neither hath every soul pleasure in every thing.
->
+
+- For all things are not profitable for all men: everybody can't eat everything. Some people eat chocolate and they break out. Me, I love chocolate, but I try not to eat it too much; I cut it down to once a month now.
+
+- Neither hath every soul pleasure in every thing: everybody don't like the same things.
+
 > <sup>[29](/bible/sirach/37#v29)</sup> Be not unsatiable in any dainty thing, nor too greedy upon meats:
->
+
+- Be not unsatiable in any dainty thing: like sweets, don't be unsatiable, meaning you eat a lot of sweets. Now Esau is coming out: oh, sugar, too much sugar give you cancer. God tell us not to eat too much sugar, because he know what it does to your body. Now the white man is saying it, now you want to slow down.
+
+- Nor too greedy upon meat: don't eat too much meat. God says not to eat too much meat. We not supposed to be eating meat every day. For excess of meats bringeth sickness: so you going to get sick if you keep eating beef and chicken every day. That's what God says. Y'all could take it or leave it.
+
 > <sup>[30](/bible/sirach/37#v30)</sup> For excess of meats bringeth sickness, and surfeiting will turn into choler.
->
+
+- And surfeiting will turn into choler: surfeiting meaning excess going to turn into choler, meaning to sickness.
+
 > <sup>[31](/bible/sirach/37#v31)</sup> By surfeiting have many perished; but he that taketh heed prolongeth his life.
 
-- My son, prove thy soul in thy life, and see what is evil for it, and give not that unto it. Prove what your soul want and prove what is evil for it, the things that you should not be eating or consuming.
-- For all things are not profitable for all men: everybody can't eat everything. Some people eat chocolate and they break out. Me, I love chocolate, but I try not to eat it too much; I cut it down to once a month now.
-- Neither hath every soul pleasure in every thing: everybody don't like the same things.
-- Be not unsatiable in any dainty thing: like sweets, don't be unsatiable, meaning you eat a lot of sweets. Now Esau is coming out: oh, sugar, too much sugar give you cancer. God tell us not to eat too much sugar, because he know what it does to your body. Now the white man is saying it, now you want to slow down.
-- Nor too greedy upon meat: don't eat too much meat. God says not to eat too much meat. We not supposed to be eating meat every day. For excess of meats bringeth sickness: so you going to get sick if you keep eating beef and chicken every day. That's what God says. Y'all could take it or leave it.
-- And surfeiting will turn into choler: surfeiting meaning excess going to turn into choler, meaning to sickness.
 - By surfeiting have many perished: by excess, many people perish. You eat too much sweets, you eat too much meat, now you sick and you died. So the Lord tell us how to deal with even food; he says not to have it in excess.
+
 - But he that taketh heed prolongeth his life: you're going to live longer. You're not going to die from colon cancer, you're not going to get diabetes by eating too much sugar. You're going to prolong your life if you take heed. Back then our forefathers understood these things, and we live long and we live healthy. Too much of nothing is good for you.
 
 **[Proverbs 25:27](/bible/proverbs/25#v27)**  *[[2:33:45](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=9225s)]*
@@ -378,11 +420,13 @@ Reading in class: petroleum and medication. "Petroleum works with medication as 
 **[Isaiah 29:15-16](/bible/isaiah/29#v15)**  *[[2:38:18](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=9498s)]*
 
 > <sup>[15](/bible/isaiah/29#v15)</sup> Woe unto them that seek deep to hide their counsel from the Lord, and their works are in the dark, and they say, Who seeth us? and who knoweth us?
->
-> <sup>[16](/bible/isaiah/29#v16)</sup> Surely your turning of things upside down shall be esteemed as the potter’s clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?
 
 - Woe unto them that seek deep to hide their counsel from the Lord, and their works are in the dark: so everything the Rockefellers and all of them did is in the dark.
+
 - And they say, Who seeth us? They say, who see us? But guess what? We see them and God see them. And who knoweth us? And who know we set up the whole medical industry and what we did to destroy people, and to destroy the natural way for people to heal themselves?
+
+> <sup>[16](/bible/isaiah/29#v16)</sup> Surely your turning of things upside down shall be esteemed as the potter’s clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?
+
 - Surely your turning of things upside down shall be esteemed as the potter's clay: you turn everything upside down. The whole medical industry is turned upside down. When Christ return, there will be no more Tylenol. There will be no more of these crap that they use today. The whole medical practice that you see they practice today, when Christ return, all of that is done. It's gone. No more pharmaceutical, no more petroleum chemicals that you going to be using. The Lord going to turn everything back the way it's supposed to be.
 
 ## In Closing

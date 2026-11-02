@@ -55,16 +55,16 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 > <sup>[11](/bible/2-kings/24#v11)</sup> And Nebuchadnezzar king of Babylon came against the city, and his servants did besiege it.
 >
 > <sup>[12](/bible/2-kings/24#v12)</sup> And Jehoiachin the king of Judah went out to the king of Babylon, he, and his mother, and his servants, and his princes, and his officers: and the king of Babylon took him in the eighth year of his reign.
->
-> <sup>[13](/bible/2-kings/24#v13)</sup> And he carried out thence all the treasures of the house of the Lord, and the treasures of the king’s house, and cut in pieces all the vessels of gold which Solomon king of Israel had made in the temple of the Lord, as the Lord had said.
->
-> <sup>[14](/bible/2-kings/24#v14)</sup> And he carried away all Jerusalem, and all the princes, and all the mighty men of valour, even ten thousand captives, and all the craftsmen and smiths: none remained, save the poorest sort of the people of the land.
 
 - Jehoiachin the king of Judah went out to the king of Babylon, he, and his mother, and his servants: You see that? So this is what we read in the history of those. So Nebuchadnezzar, which was a king of Babylon, took Jehoiachin, he was a king of Judah at the time, took him into captivity, him and his servants and his mother. Read on.
+
+> <sup>[13](/bible/2-kings/24#v13)</sup> And he carried out thence all the treasures of the house of the Lord, and the treasures of the king’s house, and cut in pieces all the vessels of gold which Solomon king of Israel had made in the temple of the Lord, as the Lord had said.
 
 - And he carried out thence all the treasures of the house of the LORD: So, and then not only that, but he pillaged the whole land of Jerusalem. And he took the treasures and the goodly things out of the temple of God. Read on.
 
 - Cut in pieces all the vessels of gold which Solomon king of Israel had made: So now this is when Judah was, remember Babylon came in stages. This is when Babylon started taking down Judah. But by this time Assyria already took the northern kingdom. Okay, read on.
+
+> <sup>[14](/bible/2-kings/24#v14)</sup> And he carried away all Jerusalem, and all the princes, and all the mighty men of valour, even ten thousand captives, and all the craftsmen and smiths: none remained, save the poorest sort of the people of the land.
 
 - He carried away all Jerusalem, and all the princes, and all the mighty men of valour: So when you read this, this is actually the second wave when Babylon came. Jump up to verse one. This is the first wave. That's why I said Nebuchadnezzar, when he came, he came in stages. This is the second wave when he came. So Nebuchadnezzar didn't come one time and gather all Judah and Benjamin. He didn't take them all at once. It was in stages. So this is the second one. So jump up to verse one so we can read about the first time Nebuchadnezzar came against Babylon. It was against Jehoiachin's father who was king at the time. Read that.
 
@@ -72,14 +72,10 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 **[2 Kings 24:1-4](/bible/2-kings/24#v1)**  *[[28:18](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=1698s)]*
 
 > <sup>[1](/bible/2-kings/24#v1)</sup> In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant three years: then he turned and rebelled against him.
->
-> <sup>[2](/bible/2-kings/24#v2)</sup> And the Lord sent against him bands of the Chaldees, and bands of the Syrians, and bands of the Moabites, and bands of the children of Ammon, and sent them against Judah to destroy it, according to the word of the Lord, which he spake by his servants the prophets.
->
-> <sup>[3](/bible/2-kings/24#v3)</sup> Surely at the commandment of the Lord came this upon Judah, to remove them out of his sight, for the sins of Manasseh, according to all that he did;
->
-> <sup>[4](/bible/2-kings/24#v4)</sup> And also for the innocent blood that he shed: for he filled Jerusalem with innocent blood; which the Lord would not pardon.
 
 - Then he turned and rebelled against him: This is why then Nebuchadnezzar did what he did. The Lord moved his spirit to put Judah in subjection because this is the judgment of God. Okay, read on.
+
+> <sup>[2](/bible/2-kings/24#v2)</sup> And the Lord sent against him bands of the Chaldees, and bands of the Syrians, and bands of the Moabites, and bands of the children of Ammon, and sent them against Judah to destroy it, according to the word of the Lord, which he spake by his servants the prophets.
 
 - And the LORD sent against him bands of the Chaldees, and bands of the Syrians: Notice what it says. And the Lord sent against who? Jehoiakim. Okay, read on. King of Judah. Read on.
 
@@ -91,14 +87,18 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 
     Okay. Now jump down to verse eight.
 
+> <sup>[3](/bible/2-kings/24#v3)</sup> Surely at the commandment of the Lord came this upon Judah, to remove them out of his sight, for the sins of Manasseh, according to all that he did;
+>
+> <sup>[4](/bible/2-kings/24#v4)</sup> And also for the innocent blood that he shed: for he filled Jerusalem with innocent blood; which the Lord would not pardon.
+
 
 **[2 Kings 24:8-9](/bible/2-kings/24#v8)**  *[[29:42](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=1782s)]*
 
 > <sup>[8](/bible/2-kings/24#v8)</sup> Jehoiachin was eighteen years old when he began to reign, and he reigned in Jerusalem three months. And his mother’s name was Nehushta, the daughter of Elnathan of Jerusalem.
->
-> <sup>[9](/bible/2-kings/24#v9)</sup> And he did that which was evil in the sight of the Lord, according to all that his father had done.
 
 - And his mother's name was Nehushta, the daughter of Elnathan of Jerusalem: Okay. And then he too rebelled. Okay. Read verse 9.
+
+> <sup>[9](/bible/2-kings/24#v9)</sup> And he did that which was evil in the sight of the Lord, according to all that his father had done.
 
 - And he did that which was evil in the sight of the LORD: Jump down to verse 14.
 
@@ -106,10 +106,10 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 **[2 Kings 24:14-15](/bible/2-kings/24#v14)**  *[[30:28](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=1828s)]*
 
 > <sup>[14](/bible/2-kings/24#v14)</sup> And he carried away all Jerusalem, and all the princes, and all the mighty men of valour, even ten thousand captives, and all the craftsmen and smiths: none remained, save the poorest sort of the people of the land.
->
-> <sup>[15](/bible/2-kings/24#v15)</sup> And he carried away Jehoiachin to Babylon, and the king’s mother, and the king’s wives, and his officers, and the mighty of the land, those carried he into captivity from Jerusalem to Babylon.
 
 - None remained, save the poorest sort of the people of the land: Now see the second wave. The Lord made most of all Judah get taken in and then none was left but the poorest of the land. Read the next verse.
+
+> <sup>[15](/bible/2-kings/24#v15)</sup> And he carried away Jehoiachin to Babylon, and the king’s mother, and the king’s wives, and his officers, and the mighty of the land, those carried he into captivity from Jerusalem to Babylon.
 
 - Those carried he into captivity from Jerusalem to Babylon: From Jerusalem to Babylon. Now remember it said he also carried all the princes and all the mighty men of valour. So these are not regular dudes. Hold that. Go 2 Kings 20 and we going to jump up a little. We going a little history. 2 Kings 20 and read verse 16 because Isaiah prophesied about that thing.
 
@@ -119,10 +119,10 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 > <sup>[16](/bible/2-kings/20#v16)</sup> And Isaiah said unto Hezekiah, Hear the word of the Lord.
 >
 > <sup>[17](/bible/2-kings/20#v17)</sup> Behold, the days come, that all that is in thine house, and that which thy fathers have laid up in store unto this day, shall be carried into Babylon: nothing shall be left, saith the Lord.
->
-> <sup>[18](/bible/2-kings/20#v18)</sup> And of thy sons that shall issue from thee, which thou shalt beget, shall they take away; and they shall be eunuchs in the palace of the king of Babylon.
 
 - Nothing shall be left: Nothing shall be left. So we reading now about it taking place in 2 Kings 24, where God prophesied about it through Isaiah. Read on.
+
+> <sup>[18](/bible/2-kings/20#v18)</sup> And of thy sons that shall issue from thee, which thou shalt beget, shall they take away; and they shall be eunuchs in the palace of the king of Babylon.
 
 - And they shall be eunuchs in the palace of the king of Babylon: You see that? Those are the princes that God was talking about in 2 Kings 24. That's Daniel and them. They shall be eunuchs. Daniel was a eunuch in Babylon. He is the prince that we're referring to. Those are the sons of Hezekiah. King Hezekiah. Now, let's go back to 2 Kings 24. Let's read verse 14 again.
 
@@ -130,20 +130,20 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 **[2 Kings 24:14-17](/bible/2-kings/24#v14)**  *[[32:05](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=1925s)]*
 
 > <sup>[14](/bible/2-kings/24#v14)</sup> And he carried away all Jerusalem, and all the princes, and all the mighty men of valour, even ten thousand captives, and all the craftsmen and smiths: none remained, save the poorest sort of the people of the land.
->
-> <sup>[15](/bible/2-kings/24#v15)</sup> And he carried away Jehoiachin to Babylon, and the king’s mother, and the king’s wives, and his officers, and the mighty of the land, those carried he into captivity from Jerusalem to Babylon.
->
-> <sup>[16](/bible/2-kings/24#v16)</sup> And all the men of might, even seven thousand, and craftsmen and smiths a thousand, all that were strong and apt for war, even them the king of Babylon brought captive to Babylon.
->
-> <sup>[17](/bible/2-kings/24#v17)</sup> And the king of Babylon made Mattaniah his father’s brother king in his stead, and changed his name to Zedekiah.
 
 - And all the princes, and all the mighty men of valour: No, we just read that the princes is Hezekiah's son that will be going to captivities as eunuchs. This is your Daniel. Okay, read on.
 
 - None remained: None remained. That's what we just read in the prophecy. Read on.
 
+> <sup>[15](/bible/2-kings/24#v15)</sup> And he carried away Jehoiachin to Babylon, and the king’s mother, and the king’s wives, and his officers, and the mighty of the land, those carried he into captivity from Jerusalem to Babylon.
+
 - And he carried away Jehoiachin to Babylon, and the king's mother: He also took Jehoiachin to Babylon. And his mother.
 
 - Those carried he into captivity from Jerusalem to Babylon: He carried him from Jerusalem to Babylon. Now jump down to verse 17.
+
+> <sup>[16](/bible/2-kings/24#v16)</sup> And all the men of might, even seven thousand, and craftsmen and smiths a thousand, all that were strong and apt for war, even them the king of Babylon brought captive to Babylon.
+>
+> <sup>[17](/bible/2-kings/24#v17)</sup> And the king of Babylon made Mattaniah his father’s brother king in his stead, and changed his name to Zedekiah.
 
 - And the king of Babylon made Mattaniah his father's brother king in his stead: So when he took Jehoiachin into captivity, Nebuchadnezzar set up Jehoiachin's uncle to in place him in Judah, in the land. Okay, read on.
 
@@ -153,10 +153,10 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 **[2 Kings 25:1-2](/bible/2-kings/25#v1)**  *[[33:36](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=2016s)]*
 
 > <sup>[1](/bible/2-kings/25#v1)</sup> And it came to pass in the ninth year of his reign, in the tenth month, in the tenth day of the month, that Nebuchadnezzar king of Babylon came, he, and all his host, against Jerusalem, and pitched against it; and they built forts against it round about.
->
-> <sup>[2](/bible/2-kings/25#v2)</sup> And the city was besieged unto the eleventh year of king Zedekiah.
 
 - He, and all his host, against Jerusalem: Against Jerusalem. Read.
+
+> <sup>[2](/bible/2-kings/25#v2)</sup> And the city was besieged unto the eleventh year of king Zedekiah.
 
 - And the city was besieged unto the eleventh year of king Zedekiah: Of King Zedekiah. Jump down to verse nine.
 
@@ -180,18 +180,18 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 **[2 Kings 25:27-30](/bible/2-kings/25#v27)**  *[[36:03](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=2163s)]*
 
 > <sup>[27](/bible/2-kings/25#v27)</sup> And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the seven and twentieth day of the month, that Evil–merodach king of Babylon in the year that he began to reign did lift up the head of Jehoiachin king of Judah out of prison;
->
-> <sup>[28](/bible/2-kings/25#v28)</sup> And he spake kindly to him, and set his throne above the throne of the kings that were with him in Babylon;
->
-> <sup>[29](/bible/2-kings/25#v29)</sup> And changed his prison garments: and he did eat bread continually before him all the days of his life.
->
-> <sup>[30](/bible/2-kings/25#v30)</sup> And his allowance was a continual allowance given him of the king, a daily rate for every day, all the days of his life.
 
 - In the seven and thirtieth year of the captivity of Jehoiachin: And the captivity of what? Now, we get into what we just read, and hold. Yeah, we coming back here. Go back to Ezekiel chapter 1 and verse two. Now we get into the captivity of Jehoiachin. Go back, read that verse two, and we going to come back to 2 Kings.
 
 - Ezekiel 1:2, the fifth year of king Jehoiachin's captivity: Now let's go back to 2 Kings 25 and 27. This is Jehoiachin's captivity, when Babylon took Jehoiachin and bound him as well. Read that.
 
 - Evil-merodach king of Babylon in the year that he began to reign did lift up the head of Jehoiachin king of Judah out of prison: So King Merodach was releasing him out of prison. Read on.
+
+> <sup>[28](/bible/2-kings/25#v28)</sup> And he spake kindly to him, and set his throne above the throne of the kings that were with him in Babylon;
+>
+> <sup>[29](/bible/2-kings/25#v29)</sup> And changed his prison garments: and he did eat bread continually before him all the days of his life.
+>
+> <sup>[30](/bible/2-kings/25#v30)</sup> And his allowance was a continual allowance given him of the king, a daily rate for every day, all the days of his life.
 
 - And his allowance was a continual allowance given him of the king: He gave him money. He not only changes his prison apparel, but he also start giving him money. Read on.
 
@@ -201,18 +201,18 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 **[Matthew 1:11-13](/bible/matthew/1#v11)**  *[[38:20](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=2300s)]*
 
 > <sup>[11](/bible/matthew/1#v11)</sup> And Josias begat Jechonias and his brethren, about the time they were carried away to Babylon:
->
-> <sup>[12](/bible/matthew/1#v12)</sup> And after they were brought to Babylon, Jechonias begat Salathiel; and Salathiel begat Zorobabel;
->
-> <sup>[13](/bible/matthew/1#v13)</sup> And Zorobabel begat Abiud; and Abiud begat Eliakim; and Eliakim begat Azor;
 
 - And Josias begat Jechonias and his brethren: Now a little bit about Josiah. Josiah was one of the righteous kings of Judah. So he said he begot who? Begot Jechonias and his brethren. Jechonias is a Greek word for Jehoiachin. Okay. Read on.
 
 - About the time they were carried away to Babylon: About the time. There you go. About the time they were carried away unto Babylon. Read on.
 
+> <sup>[12](/bible/matthew/1#v12)</sup> And after they were brought to Babylon, Jechonias begat Salathiel; and Salathiel begat Zorobabel;
+
 - Jechonias begat Salathiel: Salathiel. So Jechonias, which is again, write this down, is Jehoiachin. So now he begat Salathiel. Read.
 
 - And Salathiel begat Zorobabel: So that tell you Jehoiachin was the great grandfather, I believe. Oh yeah. Grandfather of Zerubbabel. That's why his name Zerubbabel, meaning born in Babylon. Okay. So we giving you some history. All right, read on.
+
+> <sup>[13](/bible/matthew/1#v13)</sup> And Zorobabel begat Abiud; and Abiud begat Eliakim; and Eliakim begat Azor;
 
 - And Zorobabel begat Abiud; and Abiud begat Eliakim: That's all I want. I just want to show you Jechonias was in the New Testament. He's in the genealogy of Christ. This is a king of Judah. Get 1 Chronicles 3:17 real quick to show you the various names of Jechonias, or Jehoiachin. Start at verse 16.
 
@@ -220,16 +220,16 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 **[1 Chronicles 3:16-18](/bible/1-chronicles/3#v16)**  *[[40:14](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=2414s)]*
 
 > <sup>[16](/bible/1-chronicles/3#v16)</sup> And the sons of Jehoiakim: Jeconiah his son, Zedekiah his son.
->
-> <sup>[17](/bible/1-chronicles/3#v17)</sup> And the sons of Jeconiah; Assir, Salathiel his son,
->
-> <sup>[18](/bible/1-chronicles/3#v18)</sup> Malchiram also, and Pedaiah, and Shenazar, Jecamiah, Hoshama, and Nedabiah.
 
 - And the sons of Jehoiakim: Jeconiah his son: You remember we read that earlier in 2 Kings 24. Jehoiakim was the father of Jehoiachin. Okay. Read on.
 
 - Zedekiah his son: Zedekiah. Now mind you, it says Jeconiah. That's the same name we read in the New Testament. And I said it mentioned him, how does it pronounce it? It says Jechonias is Jeconiah as well as Jehoiachin. All these are the same person. Read on.
 
+> <sup>[17](/bible/1-chronicles/3#v17)</sup> And the sons of Jeconiah; Assir, Salathiel his son,
+
 - And the sons of Jeconiah; Assir, Salathiel his son: There you go. Salathiel. That's how we know this is the same Jehoiachin, or Jechonias, in Matthew 1:11, cuz he had the son Salathiel. His son. Okay. Read on.
+
+> <sup>[18](/bible/1-chronicles/3#v18)</sup> Malchiram also, and Pedaiah, and Shenazar, Jecamiah, Hoshama, and Nedabiah.
 
 - Malchiram also: That's all I want. Go back to Ezekiel now. Ezekiel 1 and verse two again.
 
@@ -239,10 +239,10 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 > <sup>[2](/bible/ezekiel/1#v2)</sup> In the fifth day of the month, which was the fifth year of king Jehoiachin’s captivity,
 >
 > <sup>[3](/bible/ezekiel/1#v3)</sup> The word of the Lord came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the Lord was there upon him.
->
-> <sup>[4](/bible/ezekiel/1#v4)</sup> And I looked, and, behold, a whirlwind came out of the north, a great cloud, and a fire infolding itself, and a brightness was about it, and out of the midst thereof as the colour of amber, out of the midst of the fire.
 
 - The word of the LORD came expressly unto Ezekiel the priest, the son of Buzi: So now when he says the priest, that's evident, is telling you that Ezekiel was a Levite. That's who the priests were. Priests were Levites. Okay. Read on.
+
+> <sup>[4](/bible/ezekiel/1#v4)</sup> And I looked, and, behold, a whirlwind came out of the north, a great cloud, and a fire infolding itself, and a brightness was about it, and out of the midst thereof as the colour of amber, out of the midst of the fire.
 
 - Behold, a whirlwind came out of the north, a great cloud: Okay, hold on. Get Psalms 104 about the cloud. You know what I want? Psalms 104. Let me look at it. 104 and three. Cuz it's not talking about an actual cloud. Leave that image in the screen so we can know. We need some imagery to show them what we talking about. Give me Psalms 104 and three.
 
@@ -310,26 +310,22 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 **[Ezekiel 1:7-12](/bible/ezekiel/1#v7)**  *[[51:54](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=3114s)]*
 
 > <sup>[7](/bible/ezekiel/1#v7)</sup> And their feet were straight feet; and the sole of their feet was like the sole of a calf’s foot: and they sparkled like the colour of burnished brass.
->
-> <sup>[8](/bible/ezekiel/1#v8)</sup> And they had the hands of a man under their wings on their four sides; and they four had their faces and their wings.
->
-> <sup>[9](/bible/ezekiel/1#v9)</sup> Their wings were joined one to another; they turned not when they went; they went every one straight forward.
->
-> <sup>[10](/bible/ezekiel/1#v10)</sup> As for the likeness of their faces, they four had the face of a man, and the face of a lion, on the right side: and they four had the face of an ox on the left side; they four also had the face of an eagle.
->
-> <sup>[11](/bible/ezekiel/1#v11)</sup> Thus were their faces: and their wings were stretched upward; two wings of every one were joined one to another, and two covered their bodies.
->
-> <sup>[12](/bible/ezekiel/1#v12)</sup> And they went every one straight forward: whither the spirit was to go, they went; and they turned not when they went.
 
 - And they sparkled like the colour of burnished brass: They sparkled like color of burnished brass. We just showed you brass. It's brown. Read on.
+
+> <sup>[8](/bible/ezekiel/1#v8)</sup> And they had the hands of a man under their wings on their four sides; and they four had their faces and their wings.
 
 - And they had the hands of a man under their wings on their four sides: Give me some angels with wings on it. Now we showed they had wings. We showed some images. Show some more. Yeah, show the one next after, with the multiple pictures with the prophets. There's an angel in the top. Not that one. The third image. Oh, no, not the third image. But after the book, you had a tablet on. Yeah. Yeah. Put that one up. Read that again.
 
 - And they four had their faces and their wings: See that? You see that angel in the top left? Yep. Their wings. Notice these are different imageries in these books. Show the title of the book. Go back to the book, the cover. That's the book we looking at right there. So, you got to get that, cuz it shows you the image of the angels with wings. That's what we seeing. Okay. All right. Read on.
 
+> <sup>[9](/bible/ezekiel/1#v9)</sup> Their wings were joined one to another; they turned not when they went; they went every one straight forward.
+
 - They turned not when they went; they went every one straight forward: You can imagine it explaining that. Meaning, you see how we got to turn left and turn right to walk? They didn't have to do that. They had four faces on each side of their head, where if they decided to just go right, they went right. Put me on the screen. I'm going show you. You have a head here, a face here, face here, and face here. If they decided to go back, they just go back. They wanted to go left, they went left. They wanted to go right, they went right. Meaning, they didn't have to turn like how we got to turn and walk right, or we got to turn and walk left. They didn't have to do that. That's what Ezekiel is explaining, how he's seen how they move. They just zoop zoop zoop zoop zoop. That's how they move. They didn't have to turn and waste time like we do. You're like, "You want to go left? Okay, I got to..." You know what I'm saying? That's not how they move. Read that again.
 
 - They went every one straight forward: They went everyone straight forward. Read.
+
+> <sup>[10](/bible/ezekiel/1#v10)</sup> As for the likeness of their faces, they four had the face of a man, and the face of a lion, on the right side: and they four had the face of an ox on the left side; they four also had the face of an eagle.
 
 - They four had the face of a man: They have face of a man. That's what we seen in those images we showed you. That's why they had two legs and stood up. Okay. Read on.
 
@@ -341,7 +337,11 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 
 - They four also had the face of an eagle: And the face of an eagle. That's what you see, the last one with the wings over there. All of them have wings and they all black. Read on.
 
+> <sup>[11](/bible/ezekiel/1#v11)</sup> Thus were their faces: and their wings were stretched upward; two wings of every one were joined one to another, and two covered their bodies.
+
 - And two covered their bodies: And two covered their body. That's why you see in the image, they did the best they can to describe it: two wings hanging up, the other two is leveled next to them to cover their bodies. And both the man and the lion as well as the ox and the eagle. Read on.
+
+> <sup>[12](/bible/ezekiel/1#v12)</sup> And they went every one straight forward: whither the spirit was to go, they went; and they turned not when they went.
 
 - And they went every one straight forward: Straight. They went everyone straight forward. Meaning, imagine this image we see there on this book, this image all in one body, with the heads thereof, with those various wings, and they went straight forward. Meaning wherever direction, let's say the direction that's facing the eagle, the eagle would just lead, or the direction the lion is facing, they'll lead. So that's what they mean by lead straight forward, meaning they didn't have to turn like you and I have to do today. Read on.
 
@@ -377,7 +377,11 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 **[Ezekiel 1:10-14](/bible/ezekiel/1#v10)**  *[[1:00:15](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=3615s)]*
 
 > <sup>[10](/bible/ezekiel/1#v10)</sup> As for the likeness of their faces, they four had the face of a man, and the face of a lion, on the right side: and they four had the face of an ox on the left side; they four also had the face of an eagle.
->
+
+- And they four had the face of an ox on the left side: All right. Show that image of that angel you had up. The image we have. Okay. Read on.
+
+- They four also had the face of an eagle: Okay, jump down to verse 13.
+
 > <sup>[11](/bible/ezekiel/1#v11)</sup> Thus were their faces: and their wings were stretched upward; two wings of every one were joined one to another, and two covered their bodies.
 >
 > <sup>[12](/bible/ezekiel/1#v12)</sup> And they went every one straight forward: whither the spirit was to go, they went; and they turned not when they went.
@@ -385,10 +389,6 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 > <sup>[13](/bible/ezekiel/1#v13)</sup> As for the likeness of the living creatures, their appearance was like burning coals of fire, and like the appearance of lamps: it went up and down among the living creatures; and the fire was bright, and out of the fire went forth lightning.
 >
 > <sup>[14](/bible/ezekiel/1#v14)</sup> And the living creatures ran and returned as the appearance of a flash of lightning.
-
-- And they four had the face of an ox on the left side: All right. Show that image of that angel you had up. The image we have. Okay. Read on.
-
-- They four also had the face of an eagle: Okay, jump down to verse 13.
 
 - And the living creatures ran and returned as the appearance of a flash of lightning: That's the speed. The flash of lightning mean that's speed. That's fast. Show me the other image with the angel with the sword. Meaning they move rapidly. They move with a blink of light. You know how the light just flash? That's how fast they was moving. No, no, no. The one you had earlier, the one we have from our archives, not the ones I sent you, the very first image you showed me with the sword. Okay, read that again. Verse 13.
 
@@ -398,8 +398,6 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 **[Judges 13:6-7](/bible/judges/13#v6)**  *[[1:02:25](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=3745s)]*
 
 > <sup>[6](/bible/judges/13#v6)</sup> Then the woman came and told her husband, saying, A man of God came unto me, and his countenance was like the countenance of an angel of God, very terrible: but I asked him not whence he was, neither told he me his name:
->
-> <sup>[7](/bible/judges/13#v7)</sup> But he said unto me, Behold, thou shalt conceive, and bear a son; and now drink no wine nor strong drink, neither eat any unclean thing: for the child shall be a Nazarite to God from the womb to the day of his death.
 
 - His countenance was like the countenance of an angel of God, very terrible: The angel of God was what? Very terrible. He said what? Very terrible. It wasn't a pleasant sight. Jump up the verse. Who is this?
 
@@ -414,6 +412,8 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 - Very terrible: Very what? Very terrible. Meaning it was not pleasant. It's not a pleasant sight. It was scary to look upon. Okay, read on.
 
 - But I asked him not whence he was: She asked him not whence he was. Read.
+
+> <sup>[7](/bible/judges/13#v7)</sup> But he said unto me, Behold, thou shalt conceive, and bear a son; and now drink no wine nor strong drink, neither eat any unclean thing: for the child shall be a Nazarite to God from the womb to the day of his death.
 
 - For the child shall be a Nazarite to God: Right? This is the mother of Samson. That's who that was. Okay, perfect. That's Samson's mother, who the angel came to tell her that she would give birth to a son that would be a Nazarite. Okay, read on.
 
@@ -431,10 +431,10 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 **[Ezekiel 1:14-15](/bible/ezekiel/1#v14)**  *[[1:05:26](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=3926s)]*
 
 > <sup>[14](/bible/ezekiel/1#v14)</sup> And the living creatures ran and returned as the appearance of a flash of lightning.
->
-> <sup>[15](/bible/ezekiel/1#v15)</sup> Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces.
 
 - And the living creatures ran and returned as the appearance of a flash of lightning: Mean they move fast. Read.
+
+> <sup>[15](/bible/ezekiel/1#v15)</sup> Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces.
 
 - Behold one wheel upon the earth by the living creatures: You got the video? Okay, put the video up. I'm going to tell you what very terrible looked like. This is the reaction of a man that witnessed and seen a very terrible creature. He was scared. Play that.
 
@@ -471,13 +471,9 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 
 **[Isaiah 47:1-3](/bible/isaiah/47#v1)**  *[[1:13:39](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=4419s)]*
 
-> <sup>[1](/bible/isaiah/47#v1)</sup> Come down, and sit in the dust, O virgin daughter of Babylon, sit on the ground: there is no throne, O daughter of the Chaldeans: for thou shalt no more be called tender and delicate.
->
-> <sup>[2](/bible/isaiah/47#v2)</sup> Take the millstones, and grind meal: uncover thy locks, make bare the leg, uncover the thigh, pass over the rivers.
->
-> <sup>[3](/bible/isaiah/47#v3)</sup> Thy nakedness shall be uncovered, yea, thy shame shall be seen: I will take vengeance, and I will not meet thee as a man.
-
 - Thy nakedness shall be uncovered, yea, thy shame shall be seen (verse 3): Now get Isaiah 47 and verse three. He said they looked like they was confident, angry. Why? Cuz this is what. Get Isaiah 47:3. Their shame, talking about Babylon. When you read verse one, it's talking about daughter, talking about Amalek as well as America. Read verse one and we going to jump. Matter of fact, let's read verse one.
+
+> <sup>[1](/bible/isaiah/47#v1)</sup> Come down, and sit in the dust, O virgin daughter of Babylon, sit on the ground: there is no throne, O daughter of the Chaldeans: for thou shalt no more be called tender and delicate.
 
 - O virgin daughter of Babylon: America.
 
@@ -491,6 +487,8 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 
 - For thou shalt no more be called tender and delicate: You won't be called Christian no more. Because right now America, they call themselves a Christian country. You won't be called delicate no more. Christian. No. You going to be exposed to who you truly are. Okay. Read verse two. Just read down.
 
+> <sup>[2](/bible/isaiah/47#v2)</sup> Take the millstones, and grind meal: uncover thy locks, make bare the leg, uncover the thigh, pass over the rivers.
+
 - Take the millstones, and grind meal: Meaning you going to be going into slavery. Grinding meal and millstone is hard labor. Read on.
 
 - Uncover thy locks: Take the head wrap off you. So this is a figure of speech. A woman should have her head covered. So the Lord is describing America, Babylon, as a woman. So a woman uncovering her hair is a form of a shame that's being taken place. Read on.
@@ -498,6 +496,8 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 - Make bare the leg: That's the point. How do you make bare the leg? Cuz a woman that wears a dress, like you see. Get that Statue of Liberty. Let's give some imagery. Get the Statue of Liberty, cuz you see in New York. It's in New York, right? The Statue of Liberty. To make bare your leg mean a woman got to lift up her dress to show her legs, which is a form of shame. That's why we said a woman shouldn't be wearing pants or spandex or shorts or short skirts above the knee, because it's a shame to be dressed like that. Okay. Read on.
 
 - Uncover the thigh, pass over the rivers: Uncover. So not only that you make bare your legs, but God said lift up the dress as far as up to reveal your thigh. Now notice, Statue of Liberty, this woman had a dress on. So God is saying, I'm exposing the shame of America, revealing her sins. What sins? Under the Obama administration they passed homosexuality. This is Sodom. This is spiritually Sodom and Gomorrah. Read on.
+
+> <sup>[3](/bible/isaiah/47#v3)</sup> Thy nakedness shall be uncovered, yea, thy shame shall be seen: I will take vengeance, and I will not meet thee as a man.
 
 - Thy nakedness shall be uncovered: Thy nakedness shall be uncovered. Read.
 
@@ -586,10 +586,6 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 **[Ezekiel 1:26-28](/bible/ezekiel/1#v26)**  *[[1:26:20](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=5180s)]*
 
 > <sup>[26](/bible/ezekiel/1#v26)</sup> And above the firmament that was over their heads was the likeness of a throne, as the appearance of a sapphire stone: and upon the likeness of the throne was the likeness as the appearance of a man above upon it.
->
-> <sup>[27](/bible/ezekiel/1#v27)</sup> And I saw as the colour of amber, as the appearance of fire round about within it, from the appearance of his loins even upward, and from the appearance of his loins even downward, I saw as it were the appearance of fire, and it had brightness round about.
->
-> <sup>[28](/bible/ezekiel/1#v28)</sup> As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the brightness round about. This was the appearance of the likeness of the glory of the Lord. And when I saw it, I fell upon my face, and I heard a voice of one that spake.
 
 - Above the firmament that was over their heads was the likeness of a throne: Was the likeness of a throne. Now this is Ezekiel now. He's saying above the firmament, he said, was the likeness of a throne. Read on.
 
@@ -599,20 +595,20 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 
 - Above upon it: Get Revelations 4. Ezekiel saw the same thing John saw here, in Revelations 4 and verse three.
 
+> <sup>[27](/bible/ezekiel/1#v27)</sup> And I saw as the colour of amber, as the appearance of fire round about within it, from the appearance of his loins even upward, and from the appearance of his loins even downward, I saw as it were the appearance of fire, and it had brightness round about.
+>
+> <sup>[28](/bible/ezekiel/1#v28)</sup> As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the brightness round about. This was the appearance of the likeness of the glory of the Lord. And when I saw it, I fell upon my face, and I heard a voice of one that spake.
+
 
 **[Revelation 4:1-4](/bible/revelation/4#v1)**  *[[1:27:53](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=5273s)]*
 
-> <sup>[1](/bible/revelation/4#v1)</sup> After this I looked, and, behold, a door was opened in heaven: and the first voice which I heard was as it were of a trumpet talking with me; which said, Come up hither, and I will shew thee things which must be hereafter.
->
-> <sup>[2](/bible/revelation/4#v2)</sup> And immediately I was in the spirit: and, behold, a throne was set in heaven, and one sat on the throne.
->
-> <sup>[3](/bible/revelation/4#v3)</sup> And he that sat was to look upon like a jasper and a sardine stone: and there was a rainbow round about the throne, in sight like unto an emerald.
->
-> <sup>[4](/bible/revelation/4#v4)</sup> And round about the throne were four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold.
-
 - He that sat was to look upon like a jasper and a sardine stone (verse 3): And a sardine stone. So this is John saying the one that sat. Start at verse two. Start at verse one.
 
+> <sup>[1](/bible/revelation/4#v1)</sup> After this I looked, and, behold, a door was opened in heaven: and the first voice which I heard was as it were of a trumpet talking with me; which said, Come up hither, and I will shew thee things which must be hereafter.
+
 - And the first voice which I heard was as it were of a trumpet talking with me: So Ezekiel said the voice he heard was the voice of the Almighty, the voice of speech and noise. It sound like many waters. So he heard a loud voice. Now here John is describing the voice. Y'all put that up there. Yep. Now John, he's describing the voice, he saw, sounded like a trumpet. So meaning this is a loud sound that both are hearing. Read on.
+
+> <sup>[2](/bible/revelation/4#v2)</sup> And immediately I was in the spirit: and, behold, a throne was set in heaven, and one sat on the throne.
 
 - And, behold, a throne was set in heaven: A throne was set in heaven. That's why when you see Ezekiel described this throne, he says, "And there was a voice from the firmament." Firmament is in the heavens. Was over their heads. That's same thing what Ezekiel said, and we just read in verse 25. Ezekiel 1 and 25, here Revelations 4 and verse 2. He's seeing something that's far above in heaven. Read it again. Verse two.
 
@@ -622,9 +618,13 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 
 - And one sat on the throne: And that one that sat, Ezekiel told us it was a man. Read on. And he, the man that sat, read.
 
+> <sup>[3](/bible/revelation/4#v3)</sup> And he that sat was to look upon like a jasper and a sardine stone: and there was a rainbow round about the throne, in sight like unto an emerald.
+
 - Was to look upon like a jasper and a sardine stone: Now, let's look up there. You put that image back up there. What does a jasper and a sardis stone look like? Black, brown. This image he saw sitting on the throne was this Most High God, the Father. Understand that. Read on.
 
 - And there was a rainbow round about the throne, in sight like unto an emerald: Remember Ezekiel described the fire. He said he seen fire. He seen beryl, which is green. Various colors in around that throne. So John here is describing it as a rainbow because it was colorful from the fire. Had blue, green, etc. Okay. Read on.
+
+> <sup>[4](/bible/revelation/4#v4)</sup> And round about the throne were four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold.
 
 - And upon the seats I saw four and twenty elders: And he saw four and twenty elders. Okay. These are angels. These are angelic. This is not on earth. He's seeing something in heaven. This is in heaven. Read on.
 
@@ -640,12 +640,10 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 **[Ezekiel 1:26-28](/bible/ezekiel/1#v26)**  *[[1:31:58](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=5518s)]*
 
 > <sup>[26](/bible/ezekiel/1#v26)</sup> And above the firmament that was over their heads was the likeness of a throne, as the appearance of a sapphire stone: and upon the likeness of the throne was the likeness as the appearance of a man above upon it.
->
-> <sup>[27](/bible/ezekiel/1#v27)</sup> And I saw as the colour of amber, as the appearance of fire round about within it, from the appearance of his loins even upward, and from the appearance of his loins even downward, I saw as it were the appearance of fire, and it had brightness round about.
->
-> <sup>[28](/bible/ezekiel/1#v28)</sup> As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the brightness round about. This was the appearance of the likeness of the glory of the Lord. And when I saw it, I fell upon my face, and I heard a voice of one that spake.
 
 - And upon the likeness of the throne was the likeness as the appearance of a man above upon it: So he's saying a man was sitting on the throne. Read. That's the Father. Read.
+
+> <sup>[27](/bible/ezekiel/1#v27)</sup> And I saw as the colour of amber, as the appearance of fire round about within it, from the appearance of his loins even upward, and from the appearance of his loins even downward, I saw as it were the appearance of fire, and it had brightness round about.
 
 - And I saw as the colour of amber: Of amber. We looked up amber. Cuz John described as a sardine stone, and amber. He said amber. John said he saw, I forget the words. I don't want to misquote them. John said he saw a jasper and a sardine stone. Here Ezekiel said, I saw as the color of a amber. Okay. Read on.
 
@@ -654,6 +652,8 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 - From the appearance of his loins: Where's that famous image of God sitting on the throne? You ain't got that? Yeah. Put that amber on there. So you think it's different, cuz you see, oh wait, John said jasper and sardine, which is brown. But here Ezekiel said amber, which is also brown. So all these stones are the same color. So they see the same image. You know what image I'm talking about? That famous image of God sitting on the throne. Okay. All right. Read on, verse 27 again.
 
 - And it had brightness round about: Mean it was bright. Read.
+
+> <sup>[28](/bible/ezekiel/1#v28)</sup> As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the brightness round about. This was the appearance of the likeness of the glory of the Lord. And when I saw it, I fell upon my face, and I heard a voice of one that spake.
 
 - As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the brightness round about: So a bow, he said like a rainbow. That bow represents the rainbow. So just like John said, he called it a rainbow, a colorful rainbow. So he said it's just like how you see a bow in the clouds when it's about to rain. That's how colorful and bright it was, like we see rainbows today in the sky. Read on.
 

@@ -49,17 +49,15 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution"]
 
 **[Luke 9:22-25](/bible/luke/9#v22)**  *[[5:23](https://www.youtube.com/watch?v=ZzgWbcO3c5A&t=323s)]*
 
+- So, let's go to Luke. Luke chapter 9. I believe Captain Josiah stopped at verse 26. Wait, he read 25. And so, I'm going to start at 26. I may have to read 25 to give you the context. Let me start at verse 23. I'm just read it. I'm going to start at 22. Luke 9:20 22.
+
 > <sup>[22](/bible/luke/9#v22)</sup> Saying, The Son of man must suffer many things, and be rejected of the elders and chief priests and scribes, and be slain, and be raised the third day.
->
+
+- The Son of man must suffer many things and be rejected of the elders and chief priests and scribes: So, it wasn't all Israel that rejected Christ. Okay? It was not all Israel. Contrary to popular belief or popular lies, it was not all Israel that rejected Christ. It was these men in particular, the chief priests, the elders, and the scribes.
+
 > <sup>[23](/bible/luke/9#v23)</sup> And he said to them all, If any man will come after me, let him deny himself, and take up his cross daily, and follow me.
 >
 > <sup>[24](/bible/luke/9#v24)</sup> For whosoever will save his life shall lose it: but whosoever will lose his life for my sake, the same shall save it.
->
-> <sup>[25](/bible/luke/9#v25)</sup> For what is a man advantaged, if he gain the whole world, and lose himself, or be cast away?
-
-- So, let's go to Luke. Luke chapter 9. I believe Captain Josiah stopped at verse 26. Wait, he read 25. And so, I'm going to start at 26. I may have to read 25 to give you the context. Let me start at verse 23. I'm just read it. I'm going to start at 22. Luke 9:20 22.
-
-- The Son of man must suffer many things and be rejected of the elders and chief priests and scribes: So, it wasn't all Israel that rejected Christ. Okay? It was not all Israel. Contrary to popular belief or popular lies, it was not all Israel that rejected Christ. It was these men in particular, the chief priests, the elders, and the scribes.
 
 - Whosoever will save his life shall lose it: So, what does it mean when it says, "For whosoever will save his life shall lose it"? But whosoever will lose his life for my sake, the same shall save it. So, Christ is saying, "If you want to save this world, your life in this world." What I mean by that is the current life that you're living before you understand who you are, right? You're afraid to stand up for God because you might lose your job. You're afraid to stand up for God because your wife might leave you. You're afraid to stand up for God because you might not get the endorsements that you once got. All right? You rather live deliciously in this world, to live comfortably in this world. You rather live like that than compromise those things for the word of God. And it will be a compromise because God's word is against this world. So, you're going to have to say, "Look, I'm going to walk with the Lord or I'm going to walk with the world." Right?
 
@@ -72,6 +70,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution"]
     > <sup>[24](/bible/matthew/6#v24)</sup> No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.
 
     So, we read that in the Old Testament. Now, we're going to read it in the New Testament. The Lord is asking for you, or not asking, demanding of you that you make a decision. You going to serve him or you going to serve Baal, which is the devil, Satan. You cannot serve God and mammon. Mammon meaning money, riches, wealth, finances. All right? Your position in this world. Your life in this world. You cannot serve both cuz God is against your world that you live in. And the world that you live in and that you prosper in in this particular time is against God. So, the Lord is saying, "Look, you going to either choose one of the two. Either you going to serve me wholeheartedly or you going to serve the devil." There is no I agree to disagree. There is no I'm going to play the middle. I'm going to ride the fence. No. No. No. No. The Lord don't play like that. The Lord don't play like that.
+
+> <sup>[25](/bible/luke/9#v25)</sup> For what is a man advantaged, if he gain the whole world, and lose himself, or be cast away?
 
 
 **[Revelation 3:15-16](/bible/revelation/3#v15)**  *[[9:48](https://www.youtube.com/watch?v=ZzgWbcO3c5A&t=588s)]*
@@ -162,10 +162,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution"]
 **[Mark 4:18-19](/bible/mark/4#v18)**  *[[22:49](https://www.youtube.com/watch?v=ZzgWbcO3c5A&t=1369s)]*
 
 > <sup>[18](/bible/mark/4#v18)</sup> And these are they which are sown among thorns; such as hear the word,
->
-> <sup>[19](/bible/mark/4#v19)</sup> And the cares of this world, and the deceitfulness of riches, and the lusts of other things entering in, choke the word, and it becometh unfruitful.
 
 - These are they which are sown among thorns: So, some people are going to come into this truth and because they're sown among thorns, those thorns are those lusts and those desires like riches, wealth. Hey, you know what? All praise to the Most High. This go with what Paul was bringing out in 2 Corinthians chapter 12 about having that thorn in the flesh. I never looked at it like that, but I see it now. All praise to the Most High. And these are they which are sown among thorns. That thorn is that thorn in the flesh that Paul was talking about. And he's going to tell you what those are. "Such as hear the word, and the cares of this world." So, that thorn is the cares of this world, "and the deceitfulness of riches." That's the thorn. "And the lust of other things entering in choke the word."
+
+> <sup>[19](/bible/mark/4#v19)</sup> And the cares of this world, and the deceitfulness of riches, and the lusts of other things entering in, choke the word, and it becometh unfruitful.
 
 - Choke the word, and it becometh unfruitful: So, when a plant is overcome by thorns, it cannot fully grow to its potential. The thorns choke it, and it does not get the nutrients that it needs, and it eventually dies. Christ is comparing us to that, the Israelites. He said, "Listen, if you're not rooted, or if you allow these cares of the world to come in, deceitfulness of riches, and so on and so forth, you're going to become unfruitful. No fruit will grow, and you will eventually die. You will not reach your purpose. You will not reach your full potential." Mhm. That's some heavy stuff right there. What is Bible beautiful? You learn something every day. Mhm. All praise to the Most High.
 
@@ -222,19 +222,19 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution"]
 
 **[Luke 9:30-33](/bible/luke/9#v30)**  *[[28:53](https://www.youtube.com/watch?v=ZzgWbcO3c5A&t=1733s)]*
 
+- Behold, here talked with him two men, which were Moses and Elias, who appeared in glory: Go back to Luke 9. Let's get to it. So, Moses and Elias, excuse me, which is Elijah, appeared to him. It said, "Who appeared in glory." So, he saw Moses and Elias in their heavenly form. I wonder if they had a different skin color than they did when they walked the earth. And how did they know that it was Moses and Elijah? How did they know that these were their ancestors? We talking about what, 30, 38, 30 AD or something like that? I don't know. The time that Christ walked the earth, right? We talking about the time that Christ walked the earth, but you seen Elijah and Moses, and yet the apostles, who had not seen them in person because they lived way before their time, knew exactly who they were.
+
 > <sup>[30](/bible/luke/9#v30)</sup> And, behold, there talked with him two men, which were Moses and Elias:
 >
 > <sup>[31](/bible/luke/9#v31)</sup> Who appeared in glory, and spake of his decease which he should accomplish at Jerusalem.
->
-> <sup>[32](/bible/luke/9#v32)</sup> But Peter and they that were with him were heavy with sleep: and when they were awake, they saw his glory, and the two men that stood with him.
->
-> <sup>[33](/bible/luke/9#v33)</sup> And it came to pass, as they departed from him, Peter said unto Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elias: not knowing what he said.
-
-- Behold, here talked with him two men, which were Moses and Elias, who appeared in glory: Go back to Luke 9. Let's get to it. So, Moses and Elias, excuse me, which is Elijah, appeared to him. It said, "Who appeared in glory." So, he saw Moses and Elias in their heavenly form. I wonder if they had a different skin color than they did when they walked the earth. And how did they know that it was Moses and Elijah? How did they know that these were their ancestors? We talking about what, 30, 38, 30 AD or something like that? I don't know. The time that Christ walked the earth, right? We talking about the time that Christ walked the earth, but you seen Elijah and Moses, and yet the apostles, who had not seen them in person because they lived way before their time, knew exactly who they were.
 
 - And spake of his decease which he should accomplish at Jerusalem: So they were talking about how Christ was supposed to die. Cuz the angels of heaven and the prophets of old, they all knew that Christ had to come and die. They speaking about his decease in that moment.
 
+> <sup>[32](/bible/luke/9#v32)</sup> But Peter and they that were with him were heavy with sleep: and when they were awake, they saw his glory, and the two men that stood with him.
+
 - When they were awake, they saw his glory and the two men that stood with him: So these men, Moses and Elijah, all three of these men, Moses, Elijah, and the son of God, Jesus the Christ, the black Messiah, were all in their heavenly glory.
+
+> <sup>[33](/bible/luke/9#v33)</sup> And it came to pass, as they departed from him, Peter said unto Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elias: not knowing what he said.
 
 - Let us make three tabernacles, one for thee and one for Moses and one for Elias, not knowing what he said: But he knew who they were. And they were in their glory, but yet he knew his ancestors. But a Christian will tell you ain't nobody ever seen Jesus in his heavenly form other than John on the island of Patmos. No. They saw him before. That was not their first time seeing him like that. So stop listening to a Christian, man, for real. Some of y'all be listening to these Christians and they be having your mind gone. You be like, "Well, what about this scripture?" And I'm like, "You've been talking to a Christian. I can tell because of the stuff you're asking." But we'll answer it. We don't have a problem answering it. And we ain't going to kick you out because you heard a scripture from a Christian and you were confused, cuz you're still learning. We're just going to debunk the crap. Because that's what Christianity is. It's crap. It's the destruction of our race. Real, though.
 
@@ -264,14 +264,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution"]
 **[Luke 9:39-42](/bible/luke/9#v39)**  *[[33:40](https://www.youtube.com/watch?v=ZzgWbcO3c5A&t=2020s)]*
 
 > <sup>[39](/bible/luke/9#v39)</sup> And, lo, a spirit taketh him, and he suddenly crieth out; and it teareth him that he foameth again, and bruising him hardly departeth from him.
->
+
+- And lo, a spirit taketh him: Verse 40, and I besought thy disciples, excuse me, verse 39.
+
 > <sup>[40](/bible/luke/9#v40)</sup> And I besought thy disciples to cast him out; and they could not.
 >
 > <sup>[41](/bible/luke/9#v41)</sup> And Jesus answering said, O faithless and perverse generation, how long shall I be with you, and suffer you? Bring thy son hither.
 >
 > <sup>[42](/bible/luke/9#v42)</sup> And as he was yet a coming, the devil threw him down, and tare him. And Jesus rebuked the unclean spirit, and healed the child, and delivered him again to his father.
-
-- And lo, a spirit taketh him: Verse 40, and I besought thy disciples, excuse me, verse 39.
 
 - Jesus rebuked the unclean spirit and healed the child: Now some people will try to negate this. They'll say, "Oh well, no, science says that it's bacteria, and it's some type of mental something going on with his mental capacity. It's chemical imbalance." They'll just try to come up with something to why a person is a schizophrenic, or why a person has this thing happening to them, right? A mental disorder. They try to classify it as a disorder, something wrong with him. It's out of order. But the Bible says it's a spirit. So we going to roll with God. God said these things are unclean spirits. And guess what? They enter into man and they cause issues. They cause issues in man, right?
 
@@ -283,12 +283,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution"]
 > <sup>[28](/bible/matthew/8#v28)</sup> And when he was come to the other side into the country of the Gergesenes, there met him two possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way.
 >
 > <sup>[29](/bible/matthew/8#v29)</sup> And, behold, they cried out, saying, What have we to do with thee, Jesus, thou Son of God? art thou come hither to torment us before the time?
->
+
+- Art thou come hither to torment us before the time: So these unclean spirits had a question for Christ. They said, "Are you coming to torment us before the time?" Listen, brothers and sisters. There's a time period where unclean spirits will be tormented. These unclean spirits that are sent out by the devil, by Satan, that are dispatched by Satan to enter into men to cause issues, mental, physical issues, things of that nature, these spirits one day will be tormented in the lake of fire. They knew that their time to come was ending, or was supposed to end. They were saying, "It ain't time yet. I know I got a little bit more time now. I'm supposed to be able to do what I'm doing now. Why is it that you're allowing this, you know, why you coming now?" Cuz it seemed like you're going to do something. Right?
+
 > <sup>[30](/bible/matthew/8#v30)</sup> And there was a good way off from them an herd of many swine feeding.
 >
 > <sup>[31](/bible/matthew/8#v31)</sup> So the devils besought him, saying, If thou cast us out, suffer us to go away into the herd of swine.
-
-- Art thou come hither to torment us before the time: So these unclean spirits had a question for Christ. They said, "Are you coming to torment us before the time?" Listen, brothers and sisters. There's a time period where unclean spirits will be tormented. These unclean spirits that are sent out by the devil, by Satan, that are dispatched by Satan to enter into men to cause issues, mental, physical issues, things of that nature, these spirits one day will be tormented in the lake of fire. They knew that their time to come was ending, or was supposed to end. They were saying, "It ain't time yet. I know I got a little bit more time now. I'm supposed to be able to do what I'm doing now. Why is it that you're allowing this, you know, why you coming now?" Cuz it seemed like you're going to do something. Right?
 
 
 **[Revelation 18:2](/bible/revelation/18#v2)**  *[[36:51](https://www.youtube.com/watch?v=ZzgWbcO3c5A&t=2211s)]*
@@ -324,6 +324,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution"]
 
 **[Luke 9:42-49](/bible/luke/9#v42)**  *[[41:17](https://www.youtube.com/watch?v=ZzgWbcO3c5A&t=2477s)]*
 
+- Then there arose a reasoning among them which of them should be the greatest: So, now they get to arguing about who going to be the greatest of their disciples.
+
+- And Jesus, perceiving the thought of their hearts: So, Christ can hear that. This is crazy. Christ could perceive the thoughts of their heart. He could understand what they were thinking.
+
 > <sup>[42](/bible/luke/9#v42)</sup> And as he was yet a coming, the devil threw him down, and tare him. And Jesus rebuked the unclean spirit, and healed the child, and delivered him again to his father.
 >
 > <sup>[43](/bible/luke/9#v43)</sup> And they were all amazed at the mighty power of God. But while they wondered every one at all things which Jesus did, he said unto his disciples,
@@ -337,12 +341,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution"]
 > <sup>[47](/bible/luke/9#v47)</sup> And Jesus, perceiving the thought of their heart, took a child, and set him by him,
 >
 > <sup>[48](/bible/luke/9#v48)</sup> And said unto them, Whosoever shall receive this child in my name receiveth me: and whosoever shall receive me receiveth him that sent me: for he that is least among you all, the same shall be great.
->
-> <sup>[49](/bible/luke/9#v49)</sup> And John answered and said, Master, we saw one casting out devils in thy name; and we forbad him, because he followeth not with us.
-
-- Then there arose a reasoning among them which of them should be the greatest: So, now they get to arguing about who going to be the greatest of their disciples.
-
-- And Jesus, perceiving the thought of their hearts: So, Christ can hear that. This is crazy. Christ could perceive the thoughts of their heart. He could understand what they were thinking.
 
 - Whosoever shall receive this child in my name receiveth me: Now, before I get into that, Christ told the brothers, "Whosoever shall receive this child in my name receiveth me. And whosoever shall receive me receiveth him that sent me. For he that is least among you shall be the greatest." So, he said, "You got to receive this little child as you receive in Christ." Watch this. Go to Luke 10 real quick. Cuz some of y'all get discouraged when you be teaching, or when you be trying to get your family members to understand, and they bucking. They don't hear it. They ain't trying to hear it, y'all. They're not trying to hear it. So, you get emotional. You get offended. "Ah, my mama don't believe. What scripture can I give my mama?" No, listen. Mama might not believe. It is what it is. Lord willing she do, but she might not. It is what it is.
 
@@ -355,6 +353,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution"]
     > <sup>[8](/bible/1-thessalonians/4#v8)</sup> He therefore that despiseth, despiseth not man, but God, who hath also given unto us his holy Spirit.
 
     There's no scripture that you can give your mother to just make her automatically believe. It's the spirit of God. Christ's spirit has to enter into your mama or your daddy or your uncles or your family members or your coworkers. God got to answer. When I'm on the job, I don't even say nothing about this truth. A lot of them know who I am. They see me on social media. They come up, "I be seeing you on social media." I said, "Oh, okay." I keep it rolling. I don't say nothing. All right, well, you know, all right. And I keep on pushing. Cuz then they get to asking questions, and then you can't go in depth, cuz if you go in depth, I'm guaranteeing you they going to get offended. If they really want to know more, they'll come to the school. They'll reach out online. They'll get the phone number. I mean, if they really want to know, they'll go just like we all did. They'll do the proper research. So, I don't go back and forth with people in my job, and when people don't believe, they just don't believe. It is what it is. Ain't got time. All right, we want them to believe. We want them to come into the truth, but it ain't our job to force them to do it. God has to give the increase. That come from the Lord. So, the Lord gave us his holy spirit. And when the person sees you keeping the word of God, teaching the word of God, applying it to your life, and they despise you, it's because they despise the father. They despise you, which means they despise God, or despise Christ, who gave you that holy spirit, and they despise Christ's father because Christ's father gave you him. So, we all the same. We all in one accord. But, we're not the same entity, Christians. Crazy seal.
+
+> <sup>[49](/bible/luke/9#v49)</sup> And John answered and said, Master, we saw one casting out devils in thy name; and we forbad him, because he followeth not with us.
 
 
 **[Luke 9:49-50](/bible/luke/9#v49)**  *[[45:31](https://www.youtube.com/watch?v=ZzgWbcO3c5A&t=2731s)]*
@@ -375,22 +375,22 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution"]
 > <sup>[51](/bible/luke/9#v51)</sup> And it came to pass, when the time was come that he should be received up, he stedfastly set his face to go to Jerusalem,
 >
 > <sup>[52](/bible/luke/9#v52)</sup> And sent messengers before his face: and they went, and entered into a village of the Samaritans, to make ready for him.
->
-> <sup>[53](/bible/luke/9#v53)</sup> And they did not receive him, because his face was as though he would go to Jerusalem.
->
-> <sup>[54](/bible/luke/9#v54)</sup> And when his disciples James and John saw this, they said, Lord, wilt thou that we command fire to come down from heaven, and consume them, even as Elias did?
->
-> <sup>[55](/bible/luke/9#v55)</sup> But he turned, and rebuked them, and said, Ye know not what manner of spirit ye are of.
->
-> <sup>[56](/bible/luke/9#v56)</sup> For the Son of man is not come to destroy men’s lives, but to save them. And they went to another village.
 
 - Entered into a village of the Samaritans: All right, that's northern kingdom.
+
+> <sup>[53](/bible/luke/9#v53)</sup> And they did not receive him, because his face was as though he would go to Jerusalem.
 
 - They did not receive him because his face was as though he would go to Jerusalem: And cuz you know there was a beef between northern and southern kingdom.
 
 - Lord, wouldst thou that we command fire to come down from heaven and consume them, even as Elijah did: So, they said, "You want us to burn these dudes for this?" These brothers, hey, that's why they call them the sons of thunder. That's why we chose that name for the fire group. You come with that fire. You feel me? Like we say, Boanerges, right? Fire from heaven. Okay? Excuse me. Boanerges, five from heaven. So, these men, James and John, they were ready to bring fire from heaven literally.
 
 - Ye know not what manner of spirit you are of: He said, "You don't know what spirit on y'all right now. Y'all got the devil on you."
+
+> <sup>[54](/bible/luke/9#v54)</sup> And when his disciples James and John saw this, they said, Lord, wilt thou that we command fire to come down from heaven, and consume them, even as Elias did?
+>
+> <sup>[55](/bible/luke/9#v55)</sup> But he turned, and rebuked them, and said, Ye know not what manner of spirit ye are of.
+>
+> <sup>[56](/bible/luke/9#v56)</sup> For the Son of man is not come to destroy men’s lives, but to save them. And they went to another village.
 
 - For the Son of man is not come to destroy men's lives, but to save them: So, he said, look, "Y'all ain't in the right spirit, man. We ain't here to destroy our brothers. We here to save our brothers." It's the same thing today we keep trying to tell y'all. We're not here to destroy the brothers. We here to build them up. All right, if they won't building up, obviously they don't want to be built up, then you know it's only so much that you can do. But that's what Christ sent us here, right?
 
@@ -408,12 +408,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution"]
 **[2 Timothy 2:24-26](/bible/2-timothy/2#v24)**  *[[51:11](https://www.youtube.com/watch?v=ZzgWbcO3c5A&t=3071s)]*
 
 > <sup>[24](/bible/2-timothy/2#v24)</sup> And the servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient,
->
+
+- The servant of the Lord must not strive, but be gentle unto all men, apt to teach, patient: So, in this particular instance where we saw James and John, they wanted to bring fire down from heaven, okay? Cuz the brothers, they felt like the brothers were disrespecting Christ, they were being contentious, and they wanted to destroy them. But the servant of the Lord must not strive, but be gentle unto all men, apt to teach. Meaning willing to sit down and go over the scriptures. Patient. Them brothers, they ain't have no patience. That's why they Boanerges, the sons of thunder. They will bring that fire on your behind, all right? They were ready to get it in.
+
 > <sup>[25](/bible/2-timothy/2#v25)</sup> In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth;
 >
 > <sup>[26](/bible/2-timothy/2#v26)</sup> And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will.
-
-- The servant of the Lord must not strive, but be gentle unto all men, apt to teach, patient: So, in this particular instance where we saw James and John, they wanted to bring fire down from heaven, okay? Cuz the brothers, they felt like the brothers were disrespecting Christ, they were being contentious, and they wanted to destroy them. But the servant of the Lord must not strive, but be gentle unto all men, apt to teach. Meaning willing to sit down and go over the scriptures. Patient. Them brothers, they ain't have no patience. That's why they Boanerges, the sons of thunder. They will bring that fire on your behind, all right? They were ready to get it in.
 
 - Who are taken captive by him at his will: So, go back to what we were showing, how Satan can bound you. The devil has taken many of our brothers and sisters captive at his will. Anytime that urge to be promiscuous come upon you, you take it. Anytime that urge to smoke weed come upon you, you take it. Anytime that urge come upon you to do, you know, crack cocaine or drugs, whatever it may be, you take it. You take the opportunity. You seize the opportunity to do wickedness. You seize it. And that's not according to scripture. That's not the way we supposed to move.
 
@@ -473,12 +473,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution"]
 **[Luke 9:59-60](/bible/luke/9#v59)**  *[[57:38](https://www.youtube.com/watch?v=ZzgWbcO3c5A&t=3458s)]*
 
 > <sup>[59](/bible/luke/9#v59)</sup> And he said unto another, Follow me. But he said, Lord, suffer me first to go and bury my father.
->
-> <sup>[60](/bible/luke/9#v60)</sup> Jesus said unto him, Let the dead bury their dead: but go thou and preach the kingdom of God.
 
 - Lord, suffer me first to go and bury my father: This brother right here, Christ said, "Follow me. Come be my disciple." And he said, "But yeah, yeah, I'll be there, but let me go bury my daddy real quick. You know, my daddy passed and we're going to do the whole ceremony and stuff. I'll be a few days with the family and stuff like that." Christ said, "No. Let the dead bury their dead. You go preach the kingdom of God." Damn. That's some heavy stuff.
 
 - I'm saying it like this because you have to make it plain, because a lot of our brothers and sisters, especially those that are new in the truth, they struggle with that. It's the Sabbath. Or you got a planned trip to go out the country to do the work and a family member pass away. And you said, "Well, can y'all hold off on having a funeral until I get back? I'm going to go out the country to teach the Bible." So, you going to miss burying your mama, your uncle, your daddy, your brother, your grandfather, grandma, you going to miss out on their funeral, pay respect to them, all they did for you, because you want to go preach that Bible? Yes. Yeah. That's exactly what I'm saying. Oh, you done changed. You in a cult. Man, well, explain this. Cuz I'm just doing what the Bible say. Explain this.
+
+> <sup>[60](/bible/luke/9#v60)</sup> Jesus said unto him, Let the dead bury their dead: but go thou and preach the kingdom of God.
 
 - Let the dead bury their dead, but go thou and preach the kingdom of God: Verse 60. Christ said it's more important for you to preach the kingdom. Didn't just sit around, you know, crying over somebody that didn't keep the commandments. This is some heavy stuff. It's a hard lesson. It's a hard lesson, but you got to take up your cross and you got to follow Christ.
 
@@ -486,12 +486,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution"]
 **[Luke 9:61-62](/bible/luke/9#v61)**  *[[59:48](https://www.youtube.com/watch?v=ZzgWbcO3c5A&t=3588s)]*
 
 > <sup>[61](/bible/luke/9#v61)</sup> And another also said, Lord, I will follow thee; but let me first go bid them farewell, which are at home at my house.
->
-> <sup>[62](/bible/luke/9#v62)</sup> And Jesus said unto him, No man, having put his hand to the plough, and looking back, is fit for the kingdom of God.
 
 - Let me first go bid them farewell, which are at home at my house: Verse 61, we almost done with the chapter. Let me see what time it is. Okay, I'm right on time. I'm going to spend a few minutes on verse 62. So, he said, "I'm going to follow you, but let me go tell my mother and my wife and my children. Let me go kiss them bye." Watch this.
 
 - No man having put his hand to the plow and looketh back is fit for the kingdom of God: What is Christ saying? You got a mission. And you cannot go backwards trying to go back and, you know, right wrongs and all. No, no, no, no. It's time for you to do this work. It's time for you to move forward and do this work. If you looking backwards, if you looking back at that world where you used to be, and that is symbolic of us looking back to the world, to what we used to be, and our old friends and family and stuff like that that hate God. They hate the Lord. Lord said, "No. Mhm, mhm, mhm. Don't go back." Here's an example. Luke 17.
+
+> <sup>[62](/bible/luke/9#v62)</sup> And Jesus said unto him, No man, having put his hand to the plough, and looking back, is fit for the kingdom of God.
 
 
 **[Luke 17:29-32](/bible/luke/17#v29)**  *[[1:00:35](https://www.youtube.com/watch?v=ZzgWbcO3c5A&t=3635s)]*
@@ -538,19 +538,19 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution"]
 
 **[Hebrews 10:28-31](/bible/hebrews/10#v28)**  *[[1:04:27](https://www.youtube.com/watch?v=ZzgWbcO3c5A&t=3867s)]*
 
+- Have done despite unto the spirit of grace: Why is the Bible saying this? Because a lot of people will come into this truth and learn that they're Israelites and start to apply the commandments to their life at one point or another, and they're going to look back. And they're going to do it despite the spirit of grace. They were given grace. Christ died for them. Christ shed his blood for them. The Holy Spirit was given to them. They understood who they are, or understood it at one time, and they fell away from it. And you see that happen time and time again.
+
 > <sup>[28](/bible/hebrews/10#v28)</sup> He that despised Moses’ law died without mercy under two or three witnesses:
 >
 > <sup>[29](/bible/hebrews/10#v29)</sup> Of how much sorer punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace?
->
-> <sup>[30](/bible/hebrews/10#v30)</sup> For we know him that hath said, Vengeance belongeth unto me, I will recompense, saith the Lord. And again, The Lord shall judge his people.
->
-> <sup>[31](/bible/hebrews/10#v31)</sup> It is a fearful thing to fall into the hands of the living God.
-
-- Have done despite unto the spirit of grace: Why is the Bible saying this? Because a lot of people will come into this truth and learn that they're Israelites and start to apply the commandments to their life at one point or another, and they're going to look back. And they're going to do it despite the spirit of grace. They were given grace. Christ died for them. Christ shed his blood for them. The Holy Spirit was given to them. They understood who they are, or understood it at one time, and they fell away from it. And you see that happen time and time again.
 
 - Of how much sorer punishment, suppose ye, shall he be thought worthy: The Bible says they're going to get a sorer punishment than when Moses and the people that were with him would just stone someone for not believing. You understand? Or stone someone for sinning, excuse me. So, make sure that you're preparing your hearts for what's to come and you're not trying to look back to that world. You're not trying to go back to that world. There's nothing there, y'all. There's nothing there but death and bloodshed and a lot of persecution to come. This world going to get persecuted.
 
 - I've been reading the scriptures. I've been studying in the scriptures, and I've been looking, as I be putting these classes together and stuff, I've been looking like, "Okay, every time a person betrayed his people and ran to the white man, the white man ended up killing him." Or something ended up happening to them. It was never a long life. Never lives a long good life. They always end up getting chopped down eventually. And it's the same way in the Bible. Don't look back. Do not look back.
+
+> <sup>[30](/bible/hebrews/10#v30)</sup> For we know him that hath said, Vengeance belongeth unto me, I will recompense, saith the Lord. And again, The Lord shall judge his people.
+>
+> <sup>[31](/bible/hebrews/10#v31)</sup> It is a fearful thing to fall into the hands of the living God.
 
 
 **[2 Peter 2:20-22](/bible/2-peter/2#v20)**  *[[1:06:37](https://www.youtube.com/watch?v=ZzgWbcO3c5A&t=3997s)]*

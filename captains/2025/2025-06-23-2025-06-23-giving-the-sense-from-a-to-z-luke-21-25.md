@@ -87,8 +87,6 @@ Reading from Gamal Abdel Nasser, statement on screen (source not named on air)  
 **[Luke 21:25-26](/bible/luke/21#v25)**  *[[7:21](https://www.youtube.com/watch?v=D9_-lHlA25E&t=441s)]*
 
 > <sup>[25](/bible/luke/21#v25)</sup> And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring;
->
-> <sup>[26](/bible/luke/21#v26)</sup> Men’s hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.
 
 - Upon the earth distress of nations, with perplexity: It said the distress of nations with perplexity. You can see the nations being in distress right now. There's wars, there's rumors of wars. Let's go to Matthew chapter 24. Wars and rumors of wars and all of these different things is happening. Why? Because these are the signs of the coming of the end. All right? No, we don't know the exact day and time, but we do have signs to follow.
 
@@ -97,6 +95,8 @@ Reading from Gamal Abdel Nasser, statement on screen (source not named on air)  
     > <sup>[29](/bible/matthew/24#v29)</sup> Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:
 
     I'mma start at verse 29. After the tribulation goes to after the Israelites are persecuted. All right? And the moon shall not give her light, the stars shall fall from heaven and the powers of the heavens shall be shaken. What is this talking about? Thermonuclear destruction. You see that they bombing countries right now. Other countries is talking about retaliation. You see the signs of the times. You see the things are starting to come to pass. We got to get right, Israel. The stuff that's written right here in Luke the 21st chapter, Matthew the 24th chapter, it's all going to come to pass. It has to happen. Let's go to 2 Peter.
+
+> <sup>[26](/bible/luke/21#v26)</sup> Men’s hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.
 
 
 **[2 Peter 3:9](/bible/2-peter/3#v9)**  *[[9:20](https://www.youtube.com/watch?v=D9_-lHlA25E&t=560s)]*
@@ -145,26 +145,26 @@ Reading from Gamal Abdel Nasser, statement on screen (source not named on air)  
 **[Luke 1:68-73](/bible/luke/1#v68)**  *[[17:40](https://www.youtube.com/watch?v=D9_-lHlA25E&t=1060s)]*
 
 > <sup>[68](/bible/luke/1#v68)</sup> Blessed be the Lord God of Israel; for he hath visited and redeemed his people,
->
-> <sup>[69](/bible/luke/1#v69)</sup> And hath raised up an horn of salvation for us in the house of his servant David;
->
-> <sup>[70](/bible/luke/1#v70)</sup> As he spake by the mouth of his holy prophets, which have been since the world began:
->
-> <sup>[71](/bible/luke/1#v71)</sup> That we should be saved from our enemies, and from the hand of all that hate us;
->
-> <sup>[72](/bible/luke/1#v72)</sup> To perform the mercy promised to our fathers, and to remember his holy covenant;
->
-> <sup>[73](/bible/luke/1#v73)</sup> The oath which he sware to our father Abraham,
 
 - Blessed be the Lord God of Israel; for he hath visited and redeemed his people: Who are his people? Israel.
 
+> <sup>[69](/bible/luke/1#v69)</sup> And hath raised up an horn of salvation for us in the house of his servant David;
+
 - And hath raised up an horn of salvation for us in the house of his servant David: Who's the us? Israel. Where did David come from? Israel.
 
+> <sup>[70](/bible/luke/1#v70)</sup> As he spake by the mouth of his holy prophets, which have been since the world began:
+
 - As he spake by the mouth of his holy prophets, which have been since the world began: Where were the holy prophets from? Israel.
+
+> <sup>[71](/bible/luke/1#v71)</sup> That we should be saved from our enemies, and from the hand of all that hate us;
 
 - That we should be saved from our enemies, and from the hand of all that hate us: That we, Israel, should be saved from our enemies. We should be saved from our enemies. And from the hand of all that hate us. We're the ones that's hated. We're the ones that need saving from our enemies. Who are our enemies you might ask? The same people that are telling us we don't have to keep the laws of God. The same people that are telling us that now that we're bringing out the truth of the color of Christ, that's racial idolatry. The same people that are telling us that Israel is not our homeland. The same people that are telling us that we just need to go ahead and back to worshipping white Jesus. We hated you hey. We hated worldwide. Not just in America. We're hated worldwide.
 
 - From the hand of all that hate us: Brothers was reading the Bible. Reading the Bible. And got shut down in France. For reading the scriptures. But I thought we was all Christians. I thought we were globally. I thought we were serving the same God. We're not. We're serving their God. And whenever we start to serve their God, they have no problem. When we start to serve our God, the way that he intended us to worship him, now it's a problem. Now it's a problem. So he said we should be saved from our enemies and from the hand of all that hate us.
+
+> <sup>[72](/bible/luke/1#v72)</sup> To perform the mercy promised to our fathers, and to remember his holy covenant;
+>
+> <sup>[73](/bible/luke/1#v73)</sup> The oath which he sware to our father Abraham,
 
 - To perform the mercy promised to our fathers, and to remember his holy covenant; the oath which he sware to our father Abraham: He didn't give this promise to everybody. Ishmael don't have the promise. The sons of Keturah don't have the promise. Isaac got the promise. Esau didn't get the promise. Jacob got the promise. So how could this be for everybody and the promise was given to Abraham. And Abraham's promise hasn't come to fruition yet. Not the whole totality of it. Yes, his seed is at the sands of the sea, but now they're trying to tell his seed that is the sands of the sea that they're nothing. That they're nobody. That they're not his seed. That's what they're trying to say. It ain't going to work. It ain't going to work.
 
@@ -328,32 +328,32 @@ Reading from Gamal Abdel Nasser, statement on screen (source not named on air)  
 **[Psalms 91:1-7](/bible/psalms/91#v1)**  *[[43:59](https://www.youtube.com/watch?v=D9_-lHlA25E&t=2639s)]*
 
 > <sup>[1](/bible/psalms/91#v1)</sup> He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.
->
-> <sup>[2](/bible/psalms/91#v2)</sup> I will say of the Lord, He is my refuge and my fortress: my God; in him will I trust.
->
-> <sup>[3](/bible/psalms/91#v3)</sup> Surely he shall deliver thee from the snare of the fowler, and from the noisome pestilence.
->
-> <sup>[4](/bible/psalms/91#v4)</sup> He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler.
->
-> <sup>[5](/bible/psalms/91#v5)</sup> Thou shalt not be afraid for the terror by night; nor for the arrow that flieth by day;
->
-> <sup>[6](/bible/psalms/91#v6)</sup> Nor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noonday.
->
-> <sup>[7](/bible/psalms/91#v7)</sup> A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee.
 
 - He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty: I'm going to start at one. The secret place is this Bible. The shadow of the almighty is this Bible.
+
+> <sup>[2](/bible/psalms/91#v2)</sup> I will say of the Lord, He is my refuge and my fortress: my God; in him will I trust.
 
 - I will say of the LORD, He is my refuge and my fortress: my God; in him will I trust: That's the key when Christ says, "He that endureth unto the end shall be saved." That's the key, trusting in God. Trusting in God until death. Matter of fact, he told us that in Revelations chapter two. I know I'm jumping around a lot, but it's a lot to explain. It's a lot to go over.
 
 - In him will I trust: We're supposed to be faithful unto death, meaning trust in God. Trust in him. Trust in him because we're not going to get out of it. When you read Fox's Book of Martyrs, there was a guy that was being executed. One guy, he was executed, kept the faith until death. Another guy, he got put in the stirrups, started to feel some pain, gave up everything, renounced to the faith, renounced everything. They let him go. He was dead before he hit the ground. He still died. If you're still going to die, you're still going to get ruined. You're still going to go through tribulation. Why not have the faith? Why not hold fast? You're in it. There ain't no getting out of it. That's it. Ain't nobody coming save you. Death is your salvation. That's what it is. That's what leadership has been preparing us in our mind to think and to believe and to understand.
 
+> <sup>[3](/bible/psalms/91#v3)</sup> Surely he shall deliver thee from the snare of the fowler, and from the noisome pestilence.
+
 - Surely he shall deliver thee from the snare of the fowler, and from the noisome pestilence: Verse 3. What is the noisome pestilence? That destruction is coming to this country. That's the noisome pestilence. It said the heaven shall pass away with a great noise. A great noise.
+
+> <sup>[4](/bible/psalms/91#v4)</sup> He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler.
 
 - His truth shall be thy shield and buckler: That's why we hold fast to God's laws. That's the truth. That is the truth according to the Bible, the laws of God, according to Psalms 119:142. That's the truth that's going to be our shield. That's the truth that we have to endure in. That's the truth that we have to trust in. Don't let nobody tell you God's laws is done away with. Oh, you commit adultery all you want. You can eat pork all you want, but the doctor tell you not to eat pork. When you go to the doctor and you got health issues, you say, "Hey, man, need to lay off the pork and you need to lay off the shellfish." It's the first thing they tell you not to do. But them lying Christian pastors that had you believing that it's okay for you.
 
+> <sup>[5](/bible/psalms/91#v5)</sup> Thou shalt not be afraid for the terror by night; nor for the arrow that flieth by day;
+
 - Thou shalt not be afraid for the terror by night; nor for the arrow that flieth by day: Verse five. What's the arrow that flieth by day? That missile. What is a regular bow and arrow going to do to you if it flies by day? Nothing. But what is one of those... It looks like an arrow from far away. The apostles, David, prophets, they never saw missiles before. They don't know what that is. They could only compare it to what they see in that time. That's the only thing they could compare it to.
 
+> <sup>[6](/bible/psalms/91#v6)</sup> Nor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noonday.
+
 - Nor for the destruction that wasteth at noonday: The destruction that wasteth at noonday. What is that destruction that's going to waste? Nuclear destruction. And we have to be prepared for it. We got to be prepared for it.
+
+> <sup>[7](/bible/psalms/91#v7)</sup> A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee.
 
 - A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee: How? How's a thousand going to fall over here, 10,000 over here, but it's not going to come near us? Because we're going to walk through that fire. Yes. We're going to walk through that fire. So, why he said, "Look up for your redemption draweth nigh." We're going to walk through that fire. And guess what's going to happen when we walk through that fire. I got to hold that. What is going to happen when we walk through that fire? Wisdom of Solomon chapter 5 verse 1.
 
@@ -371,24 +371,24 @@ Reading from Gamal Abdel Nasser, statement on screen (source not named on air)  
 **[Wisdom of Solomon 5:1-5](/bible/wisdom-of-solomon/5#v1)**  *[[49:36](https://www.youtube.com/watch?v=D9_-lHlA25E&t=2976s)]*
 
 > <sup>[1](/bible/wisdom-of-solomon/5#v1)</sup> Then shall the righteous man stand in great boldness before the face of such as have afflicted him, and made no account of his labours.
->
-> <sup>[2](/bible/wisdom-of-solomon/5#v2)</sup> When they see it, they shall be troubled with terrible fear, and shall be amazed at the strangeness of his salvation, so far beyond all that they looked for.
->
-> <sup>[3](/bible/wisdom-of-solomon/5#v3)</sup> And they repenting and groaning for anguish of spirit shall say within themselves, This was he, whom we had sometimes in derision, and a proverb of reproach:
->
-> <sup>[4](/bible/wisdom-of-solomon/5#v4)</sup> We fools accounted his life madness, and his end to be without honour:
->
-> <sup>[5](/bible/wisdom-of-solomon/5#v5)</sup> How is he numbered among the children of God, and his lot is among the saints!
 
 - Then shall the righteous man stand in great boldness before the face of such as have afflicted him, and made no account of his labours: They make no account of us studying the Bible. They make no account of us marrying our women. They make no account of us cleaning up the neighborhoods. No account of us on the corners teaching. Keeping the high holy days. Going to our passovers. Our feast of dedications. Our Pentecost. They make no account of those things.
 
+> <sup>[2](/bible/wisdom-of-solomon/5#v2)</sup> When they see it, they shall be troubled with terrible fear, and shall be amazed at the strangeness of his salvation, so far beyond all that they looked for.
+
 - And shall be amazed at the strangeness of his salvation, so far beyond all that they looked for: What's the strangeness of our salvation? The fact that there's nuclear destruction going around everybody and we're walking through it unharmed. That's the strangeness of our salvation. Negroes flying through the sky into what looks like UFOs. Are you serious? That's our salvation. That's what the strangeness looks like. It's not normal.
+
+> <sup>[3](/bible/wisdom-of-solomon/5#v3)</sup> And they repenting and groaning for anguish of spirit shall say within themselves, This was he, whom we had sometimes in derision, and a proverb of reproach:
 
 - This was he, whom we had sometimes in derision, and a proverb of reproach: Verse 3. Oh, y'all some purple Power Rangers. Come up with something new. Oh, and by the way, a lot of y'all used to love the Power Rangers. That was your heroes back then. So, you call us purple Power Rangers, you're really looking at your heroes that you wish you were. But, you could be just like us. You could be just like us. All you got to do is repent. That's all. All you got to do is repent. Come on down and over to the Power Rangers side. Since that's what we look like to you, we look like heroes. And you're trying to use that as some sort of way to insult us, but it's not insulting at all. It really ain't. It is not insulting at all. Cuz you love us. You love us. We are the ones that you love to hate.
 
 - In derision, and a proverb of reproach: Ask the Christians. Many of them follow us religiously. They watch more classes than most of y'all. They love us. They love to hear what we say. They love when we break down the scriptures. They love it. They love when I lead it. They love to see our leadership face. It brightens their day. If our leadership did not teach a class, they would be distraught. They would be looking for it. They themselves are addicted to the word. They don't even know it.
 
+> <sup>[4](/bible/wisdom-of-solomon/5#v4)</sup> We fools accounted his life madness, and his end to be without honour:
+
 - We fools accounted his life madness, and his end to be without honour: Verse four. They would see us get put to death and say, "See, I knew they was wicked." What are you talking about? The revelation said that we would get put to death for the word of God. They took us and saw it and thought our end there was without honor. We know what's honorable. Those of us that see the end of the righteous, we know what's honorable. We know it. We see it.
+
+> <sup>[5](/bible/wisdom-of-solomon/5#v5)</sup> How is he numbered among the children of God, and his lot is among the saints!
 
 - How is he numbered among the children of God, and his lot is among the saints: They're going to see, "Well, is it? This dude didn't even graduate high school. He got a GED when he was 25. And he breaking down the scriptures better than most anybody I know." You want to know why? Because that's the Holy Spirit. That's the Holy Spirit. We got to understand something, y'all. These things that are written in this Bible, all of them ain't finished. All of them ain't finished. Matter of fact, let's see this video right quick.
 

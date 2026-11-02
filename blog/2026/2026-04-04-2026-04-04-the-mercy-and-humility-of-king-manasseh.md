@@ -267,15 +267,11 @@ tags: ["IUIC in the ClassRoom", "mercy", "prayer", "pride", "purpose", "repentan
 
 **[2 Esdras 16:76-78](/bible/2-esdras/16#v76)**  *[[54:02](https://www.youtube.com/watch?v=5tWDINEq3UI&t=3242s)]*
 
-> <sup>[76](/bible/2-esdras/16#v76)</sup> And the guide of them who keep my commandments and precepts, saith the Lord God: let not your sins weigh you down, and let not your iniquities lift up themselves.
->
-> <sup>[77](/bible/2-esdras/16#v77)</sup> Woe be unto them that are bound with their sins, and covered with their iniquities like as a field is covered over with bushes, and the path thereof covered with thorns, that no man may travel through!
->
-> <sup>[78](/bible/2-esdras/16#v78)</sup> It is left undressed, and is cast into the fire to be consumed therewith.
-
 - Many of us came into the school guilty of things too shameful to confess, and some are still doing them; if you do not confess it weighs on your spirit and you cannot function, and after a while it shows on you.
 
 - Some brothers will not come into the building because they will not humble themselves; watching online on the outskirts is wandering from the herd, and the lion takes the one that wanders. Brothers who post questions with the answer already in them, to look deep in the comments, are that same haughty spirit, and that is why they get no answer.
+
+> <sup>[76](/bible/2-esdras/16#v76)</sup> And the guide of them who keep my commandments and precepts, saith the Lord God: let not your sins weigh you down, and let not your iniquities lift up themselves.
 
 - Let not your sins weigh you down: sin feels good, and when the pleasure is gone the guilt rolls in and becomes a burden. Let not your iniquities lift up themselves means do not let them overthrow you.
 
@@ -288,6 +284,10 @@ tags: ["IUIC in the ClassRoom", "mercy", "prayer", "pride", "purpose", "repentan
     > <sup>[1](/bible/hebrews/12#v1)</sup> Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us,
 
     Lay aside every weight and the sin which so easily besets us and run the race with patience: you cannot win a race on a timer while carrying weights, and walking it is not winning at all.
+
+> <sup>[77](/bible/2-esdras/16#v77)</sup> Woe be unto them that are bound with their sins, and covered with their iniquities like as a field is covered over with bushes, and the path thereof covered with thorns, that no man may travel through!
+>
+> <sup>[78](/bible/2-esdras/16#v78)</sup> It is left undressed, and is cast into the fire to be consumed therewith.
 
 
 **[Sirach 17:25](/bible/sirach/17#v25)**  *[[1:04:46](https://www.youtube.com/watch?v=5tWDINEq3UI&t=3886s)]*
@@ -477,6 +477,14 @@ tags: ["IUIC in the ClassRoom", "mercy", "prayer", "pride", "purpose", "repentan
 
 **[Psalms 51:1-19](/bible/psalms/51#v1)**  *[[1:44:57](https://www.youtube.com/watch?v=5tWDINEq3UI&t=6297s)]*
 
+- Written when Nathan came to him after Bathsheba: David saw her from his roof, took her, sent Uriah home to cover the pregnancy, and when the loyal man would not go in, put him in the hottest battle to be killed. The Lord said, you killed him, and evil never left David's house.
+
+- He kept the promise of Psalm 32: I acknowledge my transgressions and my sin is ever before me. Shapen in iniquity and conceived in sin means we are all prone to sin and all flawed.
+
+- Purge me with hyssop, a strong cleaning agent, and wash me whiter than snow is a washed soul. The bones thou hast broken are his humbling, the confrontation and the consequences.
+
+- Create in me a clean heart and renew a right spirit, because his spirit had grown evil; cast me not away and take not thy Holy Spirit from me, because the Lord can make a man reprobate.
+
 > <sup>[1](/bible/psalms/51#v1)</sup> Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.
 >
 > <sup>[2](/bible/psalms/51#v2)</sup> Wash me throughly from mine iniquity, and cleanse me from my sin.
@@ -502,26 +510,6 @@ tags: ["IUIC in the ClassRoom", "mercy", "prayer", "pride", "purpose", "repentan
 > <sup>[12](/bible/psalms/51#v12)</sup> Restore unto me the joy of thy salvation; and uphold me with thy free spirit.
 >
 > <sup>[13](/bible/psalms/51#v13)</sup> Then will I teach transgressors thy ways; and sinners shall be converted unto thee.
->
-> <sup>[14](/bible/psalms/51#v14)</sup> Deliver me from bloodguiltiness, O God, thou God of my salvation: and my tongue shall sing aloud of thy righteousness.
->
-> <sup>[15](/bible/psalms/51#v15)</sup> O Lord, open thou my lips; and my mouth shall shew forth thy praise.
->
-> <sup>[16](/bible/psalms/51#v16)</sup> For thou desirest not sacrifice; else would I give it: thou delightest not in burnt offering.
->
-> <sup>[17](/bible/psalms/51#v17)</sup> The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.
->
-> <sup>[18](/bible/psalms/51#v18)</sup> Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem.
->
-> <sup>[19](/bible/psalms/51#v19)</sup> Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar.
-
-- Written when Nathan came to him after Bathsheba: David saw her from his roof, took her, sent Uriah home to cover the pregnancy, and when the loyal man would not go in, put him in the hottest battle to be killed. The Lord said, you killed him, and evil never left David's house.
-
-- He kept the promise of Psalm 32: I acknowledge my transgressions and my sin is ever before me. Shapen in iniquity and conceived in sin means we are all prone to sin and all flawed.
-
-- Purge me with hyssop, a strong cleaning agent, and wash me whiter than snow is a washed soul. The bones thou hast broken are his humbling, the confrontation and the consequences.
-
-- Create in me a clean heart and renew a right spirit, because his spirit had grown evil; cast me not away and take not thy Holy Spirit from me, because the Lord can make a man reprobate.
 
 - Then will I teach transgressors thy ways: once he has been through it and learned it he can teach others, and sinners will be converted. Deliver me from blood guiltiness is Uriah.
 
@@ -536,6 +524,18 @@ tags: ["IUIC in the ClassRoom", "mercy", "prayer", "pride", "purpose", "repentan
     > <sup>[17](/bible/sirach/35#v17)</sup> The prayer of the humble pierceth the clouds: and till it come nigh, he will not be comforted; and will not depart, till the most High shall behold to judge righteously, and execute judgment.
 
     The prayer of the humble pierces the clouds, and the Lord hears it.
+
+> <sup>[14](/bible/psalms/51#v14)</sup> Deliver me from bloodguiltiness, O God, thou God of my salvation: and my tongue shall sing aloud of thy righteousness.
+>
+> <sup>[15](/bible/psalms/51#v15)</sup> O Lord, open thou my lips; and my mouth shall shew forth thy praise.
+>
+> <sup>[16](/bible/psalms/51#v16)</sup> For thou desirest not sacrifice; else would I give it: thou delightest not in burnt offering.
+>
+> <sup>[17](/bible/psalms/51#v17)</sup> The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.
+>
+> <sup>[18](/bible/psalms/51#v18)</sup> Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem.
+>
+> <sup>[19](/bible/psalms/51#v19)</sup> Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar.
 
 
 **[Jeremiah 14:20](/bible/jeremiah/14#v20)**  *[[1:53:49](https://www.youtube.com/watch?v=5tWDINEq3UI&t=6829s)]*
@@ -707,12 +707,12 @@ tags: ["IUIC in the ClassRoom", "mercy", "prayer", "pride", "purpose", "repentan
 **[Revelation 2:4-5](/bible/revelation/2#v4)**  *[[2:13:32](https://www.youtube.com/watch?v=5tWDINEq3UI&t=8012s)]*
 
 > <sup>[4](/bible/revelation/2#v4)</sup> Nevertheless I have somewhat against thee, because thou hast left thy first love.
->
-> <sup>[5](/bible/revelation/2#v5)</sup> Remember therefore from whence thou art fallen, and repent, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou repent.
 
 - Thou hast left thy first love: everyone comes into this truth on fire telling the whole world, then it becomes yeah, yeah, keep the Sabbath, and Sabbath sickness sets in.
 
 - Remember from whence thou art fallen, repent and do the first works, or the candlestick, the wisdom and Holy Spirit, is removed, except thou repent, just as Luke 13 said.
+
+> <sup>[5](/bible/revelation/2#v5)</sup> Remember therefore from whence thou art fallen, and repent, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou repent.
 
 
 **[Revelation 3:17-19](/bible/revelation/3#v17)**  *[[2:15:43](https://www.youtube.com/watch?v=5tWDINEq3UI&t=8143s)]*

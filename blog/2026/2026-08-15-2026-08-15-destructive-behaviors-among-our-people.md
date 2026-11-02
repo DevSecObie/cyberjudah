@@ -78,12 +78,6 @@ The self-destructive cycle.
 **[2 Esdras 15:28-31](/bible/2-esdras/15#v28)**  *[[15:14](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=914s)]*
 
 > <sup>[28](/bible/2-esdras/15#v28)</sup> Behold an horrible vision, and the appearance thereof from the east:
->
-> <sup>[29](/bible/2-esdras/15#v29)</sup> Where the nations of the dragons of Arabia shall come out with many chariots, and the multitude of them shall be carried as the wind upon earth, that all they which hear them may fear and tremble.
->
-> <sup>[30](/bible/2-esdras/15#v30)</sup> Also the Carmanians raging in wrath shall go forth as the wild boars of the wood, and with great power shall they come, and join battle with them, and shall waste a portion of the land of the Assyrians.
->
-> <sup>[31](/bible/2-esdras/15#v31)</sup> And then shall the dragons have the upper hand, remembering their nature; and if they shall turn themselves, conspiring together in great power to persecute them,
 
 - Behold an horrible vision, and the appearance thereof from the east: where the nations of the dragons of Arabia shall come out with many chariots. The dragons of Arabia is the Arabs.
 
@@ -92,6 +86,12 @@ The self-destructive cycle.
 - Also the Carmanians raging in wrath shall go forth as the wild boars of the wood. The Carmanians is Iran. Notice Iran is not on that Arab list. Iran is a Muslim country, but Iran is Persian. India and Pakistan, those are Persians. So when these countries rise up, Iran is going to join them. That is what this is saying. And what is it talking about? That is talking about the world war.
 
 - And with great power shall they come, and join battle with them, and shall waste a portion of the land of the Assyrians. With great power. Believe it or not, Iran will get a chemical weapon. I do not care what Trump says. I do not care what your social media says. I do not care what the white man says. They will get it, and there is nothing you can do about it. That is what the scripture says. And shall join battle with them: with the dragons of Arabia, the Arabs. And the Assyrians here is Amalek, the Israelis. They are going to destroy that country.
+
+> <sup>[29](/bible/2-esdras/15#v29)</sup> Where the nations of the dragons of Arabia shall come out with many chariots, and the multitude of them shall be carried as the wind upon earth, that all they which hear them may fear and tremble.
+>
+> <sup>[30](/bible/2-esdras/15#v30)</sup> Also the Carmanians raging in wrath shall go forth as the wild boars of the wood, and with great power shall they come, and join battle with them, and shall waste a portion of the land of the Assyrians.
+>
+> <sup>[31](/bible/2-esdras/15#v31)</sup> And then shall the dragons have the upper hand, remembering their nature; and if they shall turn themselves, conspiring together in great power to persecute them,
 
 **[Proverbs 4:23](/bible/proverbs/4#v23)**  *[[43:56](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=2636s)]*
 
@@ -102,12 +102,12 @@ The self-destructive cycle.
 **[Psalms 139:23-24](/bible/psalms/139#v23)**  *[[44:33](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=2673s)]*
 
 > <sup>[23](/bible/psalms/139#v23)</sup> Search me, O God, and know my heart: try me, and know my thoughts:
->
-> <sup>[24](/bible/psalms/139#v24)</sup> And see if there be any wicked way in me, and lead me in the way everlasting.
 
 - Search me, O God, and know my heart: try me, and know my thoughts. Search me, Lord, and know my mind. Because remember the scripture said all evil thoughts start with the mind. Try me means prove me. Prove me, know my thoughts.
 
 - And see if there be any wicked way in me, and lead me in the way everlasting. So you ask the Most High to try you. Look at my thoughts. See if I have any evil in me. And lead me in the way everlasting. What is that talking about? That is talking about repenting, about changing.
+
+> <sup>[24](/bible/psalms/139#v24)</sup> And see if there be any wicked way in me, and lead me in the way everlasting.
 
 **[Psalms 19:7](/bible/psalms/19#v7)**  *[[45:55](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=2755s)]*
 
@@ -168,22 +168,18 @@ The self-destructive cycle.
 **[2 Chronicles 26:16-21](/bible/2-chronicles/26#v16)**  *[[1:01:58](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=3718s)]*
 
 > <sup>[16](/bible/2-chronicles/26#v16)</sup> But when he was strong, his heart was lifted up to his destruction: for he transgressed against the Lord his God, and went into the temple of the Lord to burn incense upon the altar of incense.
->
-> <sup>[17](/bible/2-chronicles/26#v17)</sup> And Azariah the priest went in after him, and with him fourscore priests of the Lord, that were valiant men:
->
-> <sup>[18](/bible/2-chronicles/26#v18)</sup> And they withstood Uzziah the king, and said unto him, It appertaineth not unto thee, Uzziah, to burn incense unto the Lord, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for thou hast trespassed; neither shall it be for thine honour from the Lord God.
->
-> <sup>[19](/bible/2-chronicles/26#v19)</sup> Then Uzziah was wroth, and had a censer in his hand to burn incense: and while he was wroth with the priests, the leprosy even rose up in his forehead before the priests in the house of the Lord, from beside the incense altar.
->
-> <sup>[20](/bible/2-chronicles/26#v20)</sup> And Azariah the chief priest, and all the priests, looked upon him, and, behold, he was leprous in his forehead, and they thrust him out from thence; yea, himself hasted also to go out, because the Lord had smitten him.
->
-> <sup>[21](/bible/2-chronicles/26#v21)</sup> And Uzziah the king was a leper unto the day of his death, and dwelt in a several house, being a leper; for he was cut off from the house of the Lord: and Jotham his son was over the king’s house, judging the people of the land.
 
 - But when he was strong, his heart was lifted up to his destruction: for he transgressed against the Lord his God, and went into the temple of the Lord to burn incense upon the altar of incense. So Uzziah became strong. He is not thinking his Most High God was doing this thing, he is thinking he himself is doing this thing. So he becomes very prideful. Now he starts getting big-headed. And he sinned against God, and went into the temple to burn incense. Who was supposed to burn incense? Was it Judah? Levi. So this guy is so prideful and big-headed that he got inside the temple and tried to burn incense.
 
+> <sup>[17](/bible/2-chronicles/26#v17)</sup> And Azariah the priest went in after him, and with him fourscore priests of the Lord, that were valiant men:
+
 - And Azariah the priest went in after him, and with him fourscore priests of the Lord, that were valiant men: and they withstood Uzziah the king. All the priests said, what are you doing? They withstood him.
 
+> <sup>[18](/bible/2-chronicles/26#v18)</sup> And they withstood Uzziah the king, and said unto him, It appertaineth not unto thee, Uzziah, to burn incense unto the Lord, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for thou hast trespassed; neither shall it be for thine honour from the Lord God.
+
 - And said unto him, It appertaineth not unto thee, Uzziah, to burn incense unto the Lord, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for thou hast trespassed; neither shall it be for thine honour from the Lord God. That is not your job to burn incense unto the Lord, that is the priests' job.
+
+> <sup>[19](/bible/2-chronicles/26#v19)</sup> Then Uzziah was wroth, and had a censer in his hand to burn incense: and while he was wroth with the priests, the leprosy even rose up in his forehead before the priests in the house of the Lord, from beside the incense altar.
 
 - Then Uzziah was wroth, and had a censer in his hand to burn incense: and while he was wroth with the priests, the leprosy even rose up in his forehead before the priests in the house of the Lord, from beside the incense altar. So the priests are telling him, get out of here, you are not supposed to be in here burning incense, that is the priests' job. And because he was the king he got angry. And look what the Most High did to him. He covered his body with leprosy.
 
@@ -192,6 +188,10 @@ The self-destructive cycle.
 - And Uzziah the king was a leper unto the day of his death. He died a leper. All because of pride. You see what pride can get you?
 
 - Write this down: success can test your character as much as hardship.
+
+> <sup>[20](/bible/2-chronicles/26#v20)</sup> And Azariah the chief priest, and all the priests, looked upon him, and, behold, he was leprous in his forehead, and they thrust him out from thence; yea, himself hasted also to go out, because the Lord had smitten him.
+>
+> <sup>[21](/bible/2-chronicles/26#v21)</sup> And Uzziah the king was a leper unto the day of his death, and dwelt in a several house, being a leper; for he was cut off from the house of the Lord: and Jotham his son was over the king’s house, judging the people of the land.
 
 **[Proverbs 14:29](/bible/proverbs/14#v29)**  *[[1:05:07](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=3907s)]*
 
@@ -230,8 +230,6 @@ The self-destructive cycle.
 **[Ephesians 4:26-27](/bible/ephesians/4#v26)**  *[[1:22:55](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=4975s)]*
 
 > <sup>[26](/bible/ephesians/4#v26)</sup> Be ye angry, and sin not: let not the sun go down upon your wrath:
->
-> <sup>[27](/bible/ephesians/4#v27)</sup> Neither give place to the devil.
 
 - Be ye angry, and sin not: let not the sun go down upon your wrath. You can get angry, but it says sin not. Give me an example of being angry and sinning not, between you and your wife. You could be angry with your wife by correcting her, you could argue with her, but do not put your hands on her. That is a great example. Some of you cannot control yourselves. Learn how to keep your hands to yourself. That is one thing we do not tolerate here in IUIC. That putting hands on your wife thing, brother, you are in the wrong place. You have brothers who are giving their daughters to you. I am going to let that brother whip you. Some of you have some evil spirit on you. Nothing a sister says means you should put hands on a sister. If you have that spirit from the world, you had better leave that spirit outside that door once she walks in here. Sisters too. Some sisters put hands on their husbands. We are not going to tolerate that either.
 
@@ -242,6 +240,8 @@ The self-destructive cycle.
 - And you know what is so crazy? You and your wife, both of you come in front of us for forgiveness. Both of you in the same house. Both of you have to forgive. But you are holding a grudge against your wife, holding a grudge against your husband, and both of you are saying, yeah Lord, forgive me. Why do you not forgive your wife sitting next to you first? Why do you not forgive your husband sitting next to you first, then come to me?
 
 - Neither give place to the devil. You see what happens when you hold grudges. You see what happens when you cannot forgive. You give place for Satan to come in.
+
+> <sup>[27](/bible/ephesians/4#v27)</sup> Neither give place to the devil.
 
 **[Hebrews 12:14-15](/bible/hebrews/12#v14)**  *[[1:29:46](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=5386s)]*
 
@@ -293,23 +293,17 @@ The self-destructive cycle.
 
 **[1 Samuel 18:6-11](/bible/1-samuel/18#v6)**  *[[1:50:51](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=6651s)]*
 
-> <sup>[6](/bible/1-samuel/18#v6)</sup> And it came to pass as they came, when David was returned from the slaughter of the Philistine, that the women came out of all cities of Israel, singing and dancing, to meet king Saul, with tabrets, with joy, and with instruments of musick.
->
-> <sup>[7](/bible/1-samuel/18#v7)</sup> And the women answered one another as they played, and said, Saul hath slain his thousands, and David his ten thousands.
->
-> <sup>[8](/bible/1-samuel/18#v8)</sup> And Saul was very wroth, and the saying displeased him; and he said, They have ascribed unto David ten thousands, and to me they have ascribed but thousands: and what can he have more but the kingdom?
->
-> <sup>[9](/bible/1-samuel/18#v9)</sup> And Saul eyed David from that day and forward.
->
-> <sup>[10](/bible/1-samuel/18#v10)</sup> And it came to pass on the morrow, that the evil spirit from God came upon Saul, and he prophesied in the midst of the house: and David played with his hand, as at other times: and there was a javelin in Saul’s hand.
->
-> <sup>[11](/bible/1-samuel/18#v11)</sup> And Saul cast the javelin; for he said, I will smite David even to the wall with it. And David avoided out of his presence twice.
-
 - And it came to pass as they came, when David was returned from the slaughter of the Philistine, that the women came out of all cities of Israel, singing and dancing, to meet king Saul, with tabrets, with joy, and with instruments of musick. So they come from war, the people are singing and dancing, everybody is enjoying themselves, they are happy because they won.
 
 - And the women answered one another as they played, and said, Saul hath slain his thousands, and David his ten thousands. At this time who was the king? Saul was the king. David was in the military, David was under Saul. So if I go to war and I am the deacon and you are the captain, and the people say you killed more people than me, why should I get mad? I am over you. So by you looking good, you make me look good. A lot of us do not understand that.
 
 - Today when you go to camp with a brother and the brother breaks a scripture, he breaks it so well, you say, hey bro, good job at camp, the way you broke that scripture today, I like that, continue the good work, young man. Who did this young man learn from? He learned from me. Why should I get mad at this young man? I should be happy. I should walk in here with a smile on my face that this young man who came to me for years was able to break that scripture like that. But that was not Saul.
+
+> <sup>[6](/bible/1-samuel/18#v6)</sup> And it came to pass as they came, when David was returned from the slaughter of the Philistine, that the women came out of all cities of Israel, singing and dancing, to meet king Saul, with tabrets, with joy, and with instruments of musick.
+>
+> <sup>[7](/bible/1-samuel/18#v7)</sup> And the women answered one another as they played, and said, Saul hath slain his thousands, and David his ten thousands.
+>
+> <sup>[8](/bible/1-samuel/18#v8)</sup> And Saul was very wroth, and the saying displeased him; and he said, They have ascribed unto David ten thousands, and to me they have ascribed but thousands: and what can he have more but the kingdom?
 
 - And Saul was very wroth, and the saying displeased him; and he said, They have ascribed unto David ten thousands, and to me they have ascribed but thousands: and what can he have more but the kingdom? And Saul eyed David from that day and forward. Do you know that was the farthest thing from David's mind? David loved Saul. David just wanted to be around him. But Saul did not understand that.
 
@@ -317,9 +311,15 @@ The self-destructive cycle.
 
 - I always said a leader never raises another leader to be like himself. A leader raises other leaders to be greater than himself. The young men you see walking around here, fifteen, sixteen, nineteen, twenty years old, those are the future leaders. As the older brothers, you have to make sure that young man is better than you. How many of you have sons? A lot of you want your son to be better than you. I have heard some of you say, I do not want my kids to struggle like I struggled. So I am going to prepare something, so when I am gone my kids can have that. It should be the same way when it comes to this. That young man that sits next to you, those are your sons. We are the going leaders. They are the coming leaders. Our job is to prepare them for the fight that is coming.
 
+> <sup>[9](/bible/1-samuel/18#v9)</sup> And Saul eyed David from that day and forward.
+>
+> <sup>[10](/bible/1-samuel/18#v10)</sup> And it came to pass on the morrow, that the evil spirit from God came upon Saul, and he prophesied in the midst of the house: and David played with his hand, as at other times: and there was a javelin in Saul’s hand.
+
 - And it came to pass on the morrow, that the evil spirit from God came upon Saul, and he prophesied in the midst of the house: and David played with his hand, as at other times: and there was a javelin in Saul's hand. And Saul cast the javelin; for he said, I will smite David even to the wall with it. And David avoided out of his presence twice. Saul tried to kill him. Just because the people said David killed ten thousand and Saul killed a thousand, when in reality David made Saul look good. But Saul could not accept that. Some of you have that spirit. Me, me, me, why can it not be me? This is not about you. This is bigger than you. This truth is bigger than you. Anybody who walks in here from the street, you are responsible for them. You are sent to wake up the twelve tribes. Do your job.
 
 - And you know how I know some of you have that selfish spirit? Some of you bring your wife here, your children are here, and then you go and do something stupid, and now we are putting you out. You did not consider that your wife is close to the sisters and that is all she has. You did not consider that your children are close to my children and that is all they have. You destroy her, you destroy your children, you destroy your whole family, because you have that spirit.
+
+> <sup>[11](/bible/1-samuel/18#v11)</sup> And Saul cast the javelin; for he said, I will smite David even to the wall with it. And David avoided out of his presence twice.
 
 **[Philippians 2:14](/bible/philippians/2#v14)**  *[[2:02:14](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=7334s)]*
 
@@ -379,19 +379,11 @@ The self-destructive cycle.
 
 **[James 3:5-10](/bible/james/3#v5)**  *[[2:31:45](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=9105s)]*
 
+- Even so the tongue is a little member, and boasteth great things. Behold, how great a matter a little fire kindleth!
+
 > <sup>[5](/bible/james/3#v5)</sup> Even so the tongue is a little member, and boasteth great things. Behold, how great a matter a little fire kindleth!
 >
 > <sup>[6](/bible/james/3#v6)</sup> And the tongue is a fire, a world of iniquity: so is the tongue among our members, that it defileth the whole body, and setteth on fire the course of nature; and it is set on fire of hell.
->
-> <sup>[7](/bible/james/3#v7)</sup> For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and hath been tamed of mankind:
->
-> <sup>[8](/bible/james/3#v8)</sup> But the tongue can no man tame; it is an unruly evil, full of deadly poison.
->
-> <sup>[9](/bible/james/3#v9)</sup> Therewith bless we God, even the Father; and therewith curse we men, which are made after the similitude of God.
->
-> <sup>[10](/bible/james/3#v10)</sup> Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not so to be.
-
-- Even so the tongue is a little member, and boasteth great things. Behold, how great a matter a little fire kindleth!
 
 - And the tongue is a fire, a world of iniquity: so is the tongue among our members, that it defileth the whole body, and setteth on fire the course of nature; and it is set on fire of hell.
 
@@ -402,6 +394,14 @@ The self-destructive cycle.
 - Therewith bless we God, even the Father; and therewith curse we men, which are made after the similitude of God. So with that same mouth you bless God and ask for forgiveness. And with that same mouth you curse that brother, that sister, that sits next to you. And that brother that sits next to you was made after the image of God.
 
 - Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not so to be. So what is that saying? The tongue is the most powerful tool. You can destroy a brother with it or you can build a brother with it. So if I were you, I would pick building a brother with it.
+
+> <sup>[7](/bible/james/3#v7)</sup> For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and hath been tamed of mankind:
+>
+> <sup>[8](/bible/james/3#v8)</sup> But the tongue can no man tame; it is an unruly evil, full of deadly poison.
+>
+> <sup>[9](/bible/james/3#v9)</sup> Therewith bless we God, even the Father; and therewith curse we men, which are made after the similitude of God.
+>
+> <sup>[10](/bible/james/3#v10)</sup> Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not so to be.
 
 **[Colossians 3:13](/bible/colossians/3#v13)**  *[[2:33:16](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=9196s)]*
 

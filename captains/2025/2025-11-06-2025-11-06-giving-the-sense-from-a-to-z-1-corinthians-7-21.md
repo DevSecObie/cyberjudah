@@ -117,12 +117,12 @@ tags: ["15 Minutes w/ The Captains", "marriage-family", "women"]
 **[1 Corinthians 7:22-23](/bible/1-corinthians/7#v22)**  *[[27:52](https://www.youtube.com/watch?v=MGCps1y5By4&t=1672s)]*
 
 > <sup>[22](/bible/1-corinthians/7#v22)</sup> For he that is called in the Lord, being a servant, is the Lord’s freeman: likewise also he that is called, being free, is Christ’s servant.
->
-> <sup>[23](/bible/1-corinthians/7#v23)</sup> Ye are bought with a price; be not ye the servants of men.
 
 - Is the Lord's freeman: You are the Lord's freeman. He pulled you. He rolls you up from the condition that you are, being free, having the liberties to do what? Go out and preach the word. Go out and set up these churches. This is what Paul's ministry was all about. Something that the apostles weren't able to do. He left them in Jerusalem. He sent Paul, Barnabas out to build up the men. Build up all the congregations.
 
 - Being free, is Christ's servant: So it does. You're one and the same. Either you a servant or you being free, y'all one in the same. Y'all one in Christ.
+
+> <sup>[23](/bible/1-corinthians/7#v23)</sup> Ye are bought with a price; be not ye the servants of men.
 
 - Ye are bought with a price: We are all bought with a price. When it says ye are all bought with a price, meaning Christ died for us.
 
@@ -151,13 +151,9 @@ tags: ["15 Minutes w/ The Captains", "marriage-family", "women"]
 
 **[Jeremiah 2:31-33](/bible/jeremiah/2#v31)**  *[[35:26](https://www.youtube.com/watch?v=MGCps1y5By4&t=2126s)]*
 
-> <sup>[31](/bible/jeremiah/2#v31)</sup> O generation, see ye the word of the Lord. Have I been a wilderness unto Israel? a land of darkness? wherefore say my people, We are lords; we will come no more unto thee?
->
-> <sup>[32](/bible/jeremiah/2#v32)</sup> Can a maid forget her ornaments, or a bride her attire? yet my people have forgotten me days without number.
->
-> <sup>[33](/bible/jeremiah/2#v33)</sup> Why trimmest thou thy way to seek love? therefore hast thou also taught the wicked ones thy ways.
-
 - Remember Jeremiah. I just thought about it. Jeremiah chapter 2. Seek love. Start up where the thought starts. Watch this. This is when you in the condition of pleasing man. You understand?
+
+> <sup>[31](/bible/jeremiah/2#v31)</sup> O generation, see ye the word of the Lord. Have I been a wilderness unto Israel? a land of darkness? wherefore say my people, We are lords; we will come no more unto thee?
 
 - O generation, see ye the word of the Lord: Notice what the Lord is saying. He said, 'O generation, see ye the word of the Lord.' Go study the history. Study the history. Go back and read the conditions in the wilderness. Go back and read the conditions coming out of Egypt. See ye the word of the Lord.
 
@@ -171,11 +167,15 @@ tags: ["15 Minutes w/ The Captains", "marriage-family", "women"]
 
 - We will come no more unto thee: There's no need for us to go to Christ.
 
+> <sup>[32](/bible/jeremiah/2#v32)</sup> Can a maid forget her ornaments, or a bride her attire? yet my people have forgotten me days without number.
+
 - Can a maid forget her ornaments: A sister know about this. What sister do you know? We done seen all the marriages. What sister do you know come out in her gown with no ornaments, no jewelry, none of that? Have you seen it? I haven't seen it one time. Matter of fact, she will hold up the marriage: 'I got to get this. Oh, it's coming. It'll be here soon. It'll be here shortly. Five minutes, 10 minutes. I gotta be right.' You understand? You know what I mean? Imagine my sister coming out without her headpiece, without her ornaments. You understand? That's the day.
 
 - Or a bride her attire: IMAGINE THEM COMING out just in regular clothes on your wedding day. That's not happening, bro. That's not happening. You see marriages, you'll be at the damn wedding. God forbid somebody iron something and burn a hole in the attire. What's going to happen, bro? You got to move the wedding around. Or somebody got to come in, sew that thing up, get it back right, to the best of the ability. There's no way you're just going to tell her, 'Hey, go to the closet, pick out a normal... pick out just this regular dress right here. Go on to the marriage.' That's not going to happen. So he's saying if that's the condition in the common mindset, why the hell are my people forgetting me?
 
 - Yet my people have forgotten me days without number: Damn. He said, 'Yet my people,' we forgot him days without number.
+
+> <sup>[33](/bible/jeremiah/2#v33)</sup> Why trimmest thou thy way to seek love? therefore hast thou also taught the wicked ones thy ways.
 
 - Why trimmest thou thy way to seek love? Therefore hast thou also taught the wicked ones thy ways: And that's what happens when you are a men pleaser. When you a men pleaser, when you formulate your thoughts, your conversation to appease men, you're trying to seek love. You trying to seek love. You understand? And you teach the wicked ones their ways. So, this is what Paul is warning us not to do. Don't do these things.
 

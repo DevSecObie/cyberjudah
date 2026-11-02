@@ -268,11 +268,9 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "islam-arabs", "nations", "pe
 
 **[Matthew 24:29-30](/bible/matthew/24#v29)**  *[[2:20:09](https://www.youtube.com/watch?v=HcXv7k6Zk5k&t=8409s)]*
 
-> <sup>[29](/bible/matthew/24#v29)</sup> Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:
->
-> <sup>[30](/bible/matthew/24#v30)</sup> And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.
-
 - Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light. With bombs dropping everywhere you will not see sun or moon, like the Canada wildfire smoke over New York two years ago.
+
+> <sup>[29](/bible/matthew/24#v29)</sup> Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:
 
 - And the stars shall fall from heaven: the prophets saw intercontinental ballistic missiles and nuclear weapons falling, Iran shooting missiles, and the powers of the heavens shaken. Then shall appear the sign of the Son of man in heaven, and all the tribes of the earth shall mourn and see him coming. Christ comes in the midst of the third war, right behind the stars hitting Babylon; that is why Job says we laugh at destruction.
 
@@ -289,6 +287,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "islam-arabs", "nations", "pe
     > <sup>[5](/bible/2-esdras/5#v5)</sup> And blood shall drop out of wood, and the stone shall give his voice, and the people shall be troubled:
 
     The day shall come that they which dwell upon earth shall be taken in a great number, billions in the third woe; the way of truth, who the Israelites are, shall be hidden; the land shall be barren of faith, and iniquity increased above that which now thou seest. The land that thou seest now to have root shalt thou see wasted suddenly: the land of Israel, by the Persians and the Arabs, the waster of Isaiah 54:16. If the Most High grant thee to live, thou shalt see after the third trumpet that the sun shall suddenly shine again in the night, a nuclear bomb at night, and the moon thrice in the day, three bombs by day at Ekron, Ashdod, and Ashkelon. And blood shall drop out of wood.
+
+> <sup>[30](/bible/matthew/24#v30)</sup> And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.
 
 
 ## Class Questions

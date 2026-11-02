@@ -26,22 +26,22 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "idolatry"]
 > <sup>[14](/bible/deuteronomy/4#v14)</sup> And the Lord commanded me at that time to teach you statutes and judgments, that ye might do them in the land whither ye go over to possess it.
 >
 > <sup>[15](/bible/deuteronomy/4#v15)</sup> Take ye therefore good heed unto yourselves; for ye saw no manner of similitude on the day that the Lord spake unto you in Horeb out of the midst of the fire:
->
-> <sup>[16](/bible/deuteronomy/4#v16)</sup> Lest ye corrupt yourselves, and make you a graven image, the similitude of any figure, the likeness of male or female,
->
-> <sup>[17](/bible/deuteronomy/4#v17)</sup> The likeness of any beast that is on the earth, the likeness of any winged fowl that flieth in the air,
->
-> <sup>[18](/bible/deuteronomy/4#v18)</sup> The likeness of any thing that creepeth on the ground, the likeness of any fish that is in the waters beneath the earth:
->
-> <sup>[19](/bible/deuteronomy/4#v19)</sup> And lest thou lift up thine eyes unto heaven, and when thou seest the sun, and the moon, and the stars, even all the host of heaven, shouldest be driven to worship them, and serve them, which the Lord thy God hath divided unto all nations under the whole heaven.
 
 - for ye saw no manner of similitude on the day that the Lord spake unto you in Horeb: And I'm going to try to keep it within 15 minutes. So you saw no sign or imagery of anything in particular.
+
+> <sup>[16](/bible/deuteronomy/4#v16)</sup> Lest ye corrupt yourselves, and make you a graven image, the similitude of any figure, the likeness of male or female,
 
 - Lest ye corrupt yourselves: Because if the Lord had showed the children of Israel a particular item, being structure, animal, man, whatever the case may be, the Bible says we would have corrupted ourselves in idolatry.
 
 - and make you a graven image, the similitude of any figure: So you would have made that graven image in the similitude of any figure.
 
+> <sup>[17](/bible/deuteronomy/4#v17)</sup> The likeness of any beast that is on the earth, the likeness of any winged fowl that flieth in the air,
+
 - the likeness of any winged fowl that flieth in the air: So if God had showed himself as man, as animal, as bird, we would have made an imagery in order to observe or follow the Lord according to what we saw. So the Lord said, I didn't come to you in that manner.
+
+> <sup>[18](/bible/deuteronomy/4#v18)</sup> The likeness of any thing that creepeth on the ground, the likeness of any fish that is in the waters beneath the earth:
+>
+> <sup>[19](/bible/deuteronomy/4#v19)</sup> And lest thou lift up thine eyes unto heaven, and when thou seest the sun, and the moon, and the stars, even all the host of heaven, shouldest be driven to worship them, and serve them, which the Lord thy God hath divided unto all nations under the whole heaven.
 
 - which the Lord thy God hath divided unto all nations under the whole heaven: So the Lord says you can see the sun, the moon, the stars, all of these various hosts of heaven, and it says you would be driven to worship them. But what did the Lord give it for? Did the Lord give it for the purpose of worship? No. The Lord gave the ordinances of heaven for light. It's for light. He divided it unto all nations. All nations can see the sun, the moon, and the stars, for light. That's the purpose. It was not for worship. That's why we started at verse 14. He did not give us any similitude that we should make a graven image behind it. It has nothing to do with worship, right?
 
@@ -49,10 +49,10 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "idolatry"]
 **[Jeremiah 10:1-2](/bible/jeremiah/10#v1)**  *[[4:05](https://www.youtube.com/watch?v=9BoV38778Rw&t=245s)]*
 
 > <sup>[1](/bible/jeremiah/10#v1)</sup> Hear ye the word which the Lord speaketh unto you, O house of Israel:
->
-> <sup>[2](/bible/jeremiah/10#v2)</sup> Thus saith the Lord, Learn not the way of the heathen, and be not dismayed at the signs of heaven; for the heathen are dismayed at them.
 
 - O house of Israel: O house of Israel.
+
+> <sup>[2](/bible/jeremiah/10#v2)</sup> Thus saith the Lord, Learn not the way of the heathen, and be not dismayed at the signs of heaven; for the heathen are dismayed at them.
 
 - and be not dismayed at the signs of heaven: Be not dismayed at the signs of heaven, or the host of heaven.
 
@@ -95,12 +95,12 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "idolatry"]
 **[Job 9:7-9](/bible/job/9#v7)**  *[[9:46](https://www.youtube.com/watch?v=9BoV38778Rw&t=586s)]*
 
 > <sup>[7](/bible/job/9#v7)</sup> Which commandeth the sun, and it riseth not; and sealeth up the stars.
->
+
+- Which commandeth the sun, and it riseth not; and sealeth up the stars: So Job is talking about the Lord and his power, just like we just read in Amos. The prophets is all saying the same thing.
+
 > <sup>[8](/bible/job/9#v8)</sup> Which alone spreadeth out the heavens, and treadeth upon the waves of the sea.
 >
 > <sup>[9](/bible/job/9#v9)</sup> Which maketh Arcturus, Orion, and Pleiades, and the chambers of the south.
-
-- Which commandeth the sun, and it riseth not; and sealeth up the stars: So Job is talking about the Lord and his power, just like we just read in Amos. The prophets is all saying the same thing.
 
 - Which maketh Arcturus, Orion: Orion. There it is again. So Job is talking about Orion. Amos is talking about Orion. The prophets of God is talking about the constellations, in form of what God created. They're all saying the same thing. God created these things for what? For light. For observation of seasons, for us to know when the feast days come around. That's what they created for. They were never created to be worshiped. What's the first commandment?
 

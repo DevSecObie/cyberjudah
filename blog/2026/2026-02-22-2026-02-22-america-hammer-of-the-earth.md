@@ -204,7 +204,29 @@ Reading from *African Americans: A Concise History*, third edition, read in a vi
 **[Jeremiah 50:1-20](/bible/jeremiah/50#v1)**  *[[1:07:39](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=4059s)]*
 
 > <sup>[1](/bible/jeremiah/50#v1)</sup> The word that the Lord spake against Babylon and against the land of the Chaldeans by Jeremiah the prophet.
->
+
+- The word that the Lord spake against Babylon and against the land of the Chaldeans: the Bible splits them because ancient Babylon were Cushites and the Chaldeans Shemites, so Babylon is America and the Chaldeans are the educated ones over in Israel. Declare among the nations, publish, and conceal not: Babylon is taken, Bel is confounded, Merodach, the eagle god, is broken in pieces. Out of the north there cometh up a nation against her: NATO and Russia are north of Israel. None shall dwell therein: Daniel 5:30-31 says Darius the Median took the kingdom and dwelt in the palace, so this is not ancient Babylon but this place, prophetically.
+
+- In those days the children of Israel and Judah together shall go weeping to seek the Lord their God, asking the way to Zion, saying, come and let us join ourselves to the Lord in a perpetual covenant. That is what is happening now; it is Daniel 2:44. My people hath been lost sheep; their shepherds have caused them to go astray, from mountain to hill, from one religion to another; they have forgotten their restingplace, the word of God. All that found them have devoured them, and their adversaries said, We offend not, because they have sinned against the Lord.
+
+- Remove out of the midst of Babylon, and be as the he goats before the flocks: lead the people out, because Jacob's trouble is coming. 2 Esdras 16:40-46: make you ready to the battle and be as pilgrims upon the earth; he that buildeth as he that shall not dwell therein, for strangers shall reap their fruits and spoil their goods, and take their children captives, occupying their merchandise with robbery; when famine hits they are coming for the food in your house. 2 Esdras 16:70: in every place a great insurrection upon those that fear the Lord. Not if, but when.
+
+- I will cause to come up against Babylon an assembly of great nations from the north country; their arrows, missiles, shall be as of a mighty expert man, none shall return in vain, and Chaldea shall be a spoil too; little Israel does not get away. Because ye were glad, O ye destroyers of mine heritage, Esau, first and most instrumental of all the nations in destroying the twelve tribes, your mother, Great Britain, shall be sore confounded, and it shall not be inhabited, but wholly desolate, which never happened under the Medes. Put yourselves in array against Babylon, spare no arrows, for she hath sinned against the Lord; as she hath done, do unto her: Revelation 18:6, reward her double according to her works.
+
+- For fear of the oppressing sword they shall turn every one to his people and flee to his own land: a time of nationalism, and the interracial stuff ends because it is not of the Lord. Israel is a scattered sheep; Assyria devoured the northern kingdom and Nebuchadrezzar broke his bones; I will punish the king of Babylon as I punished the king of Assyria. In those days the iniquity of Israel shall be sought for, and there shall be none, and the sins of Judah shall not be found, for I will pardon them whom I reserve. That did not happen under Cyrus, when Ezra and Nehemiah found interracial marriages; it is future. Romans 8:1, no condemnation to them in Christ; Revelation 14:5, without fault before the throne; Micah 7:19, he will cast all their sins into the depths of the sea; Isaiah 14:1, the Lord will have mercy on Jacob and will yet choose Israel, in the midst of our sin, and nobody has anything to say about it. He is not pardoning all nations.
+
+  Precepts:
+  - **[Luke 5:36-39](/bible/luke/5#v36)**
+    > <sup>[36](/bible/luke/5#v36)</sup> And he spake also a parable unto them; No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was taken out of the new agreeth not with the old.
+    >
+    > <sup>[37](/bible/luke/5#v37)</sup> And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish.
+    >
+    > <sup>[38](/bible/luke/5#v38)</sup> But new wine must be put into new bottles; and both are preserved.
+    >
+    > <sup>[39](/bible/luke/5#v39)</sup> No man also having drunk old wine straightway desireth new: for he saith, The old is better.
+
+    No man putteth a piece of a new garment upon an old; new wine, the new covenant in Christ, must be put into new bottles, new men and women born again, and both are preserved. No man having drunk old wine straightway desireth new, for he saith, the old is better. The Pharisees were not ready for animal sacrifice to be replaced by Christ, and so it is today: our people love their old traditions and do not want the new covenant of keeping the commandments.
+
 > <sup>[2](/bible/jeremiah/50#v2)</sup> Declare ye among the nations, and publish, and set up a standard; publish, and conceal not: say, Babylon is taken, Bel is confounded, Merodach is broken in pieces; her idols are confounded, her images are broken in pieces.
 >
 > <sup>[3](/bible/jeremiah/50#v3)</sup> For out of the north there cometh up a nation against her, which shall make her land desolate, and none shall dwell therein: they shall remove, they shall depart, both man and beast.
@@ -242,28 +264,6 @@ Reading from *African Americans: A Concise History*, third edition, read in a vi
 > <sup>[19](/bible/jeremiah/50#v19)</sup> And I will bring Israel again to his habitation, and he shall feed on Carmel and Bashan, and his soul shall be satisfied upon mount Ephraim and Gilead.
 >
 > <sup>[20](/bible/jeremiah/50#v20)</sup> In those days, and in that time, saith the Lord, the iniquity of Israel shall be sought for, and there shall be none; and the sins of Judah, and they shall not be found: for I will pardon them whom I reserve.
-
-- The word that the Lord spake against Babylon and against the land of the Chaldeans: the Bible splits them because ancient Babylon were Cushites and the Chaldeans Shemites, so Babylon is America and the Chaldeans are the educated ones over in Israel. Declare among the nations, publish, and conceal not: Babylon is taken, Bel is confounded, Merodach, the eagle god, is broken in pieces. Out of the north there cometh up a nation against her: NATO and Russia are north of Israel. None shall dwell therein: Daniel 5:30-31 says Darius the Median took the kingdom and dwelt in the palace, so this is not ancient Babylon but this place, prophetically.
-
-- In those days the children of Israel and Judah together shall go weeping to seek the Lord their God, asking the way to Zion, saying, come and let us join ourselves to the Lord in a perpetual covenant. That is what is happening now; it is Daniel 2:44. My people hath been lost sheep; their shepherds have caused them to go astray, from mountain to hill, from one religion to another; they have forgotten their restingplace, the word of God. All that found them have devoured them, and their adversaries said, We offend not, because they have sinned against the Lord.
-
-- Remove out of the midst of Babylon, and be as the he goats before the flocks: lead the people out, because Jacob's trouble is coming. 2 Esdras 16:40-46: make you ready to the battle and be as pilgrims upon the earth; he that buildeth as he that shall not dwell therein, for strangers shall reap their fruits and spoil their goods, and take their children captives, occupying their merchandise with robbery; when famine hits they are coming for the food in your house. 2 Esdras 16:70: in every place a great insurrection upon those that fear the Lord. Not if, but when.
-
-- I will cause to come up against Babylon an assembly of great nations from the north country; their arrows, missiles, shall be as of a mighty expert man, none shall return in vain, and Chaldea shall be a spoil too; little Israel does not get away. Because ye were glad, O ye destroyers of mine heritage, Esau, first and most instrumental of all the nations in destroying the twelve tribes, your mother, Great Britain, shall be sore confounded, and it shall not be inhabited, but wholly desolate, which never happened under the Medes. Put yourselves in array against Babylon, spare no arrows, for she hath sinned against the Lord; as she hath done, do unto her: Revelation 18:6, reward her double according to her works.
-
-- For fear of the oppressing sword they shall turn every one to his people and flee to his own land: a time of nationalism, and the interracial stuff ends because it is not of the Lord. Israel is a scattered sheep; Assyria devoured the northern kingdom and Nebuchadrezzar broke his bones; I will punish the king of Babylon as I punished the king of Assyria. In those days the iniquity of Israel shall be sought for, and there shall be none, and the sins of Judah shall not be found, for I will pardon them whom I reserve. That did not happen under Cyrus, when Ezra and Nehemiah found interracial marriages; it is future. Romans 8:1, no condemnation to them in Christ; Revelation 14:5, without fault before the throne; Micah 7:19, he will cast all their sins into the depths of the sea; Isaiah 14:1, the Lord will have mercy on Jacob and will yet choose Israel, in the midst of our sin, and nobody has anything to say about it. He is not pardoning all nations.
-
-  Precepts:
-  - **[Luke 5:36-39](/bible/luke/5#v36)**
-    > <sup>[36](/bible/luke/5#v36)</sup> And he spake also a parable unto them; No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was taken out of the new agreeth not with the old.
-    >
-    > <sup>[37](/bible/luke/5#v37)</sup> And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish.
-    >
-    > <sup>[38](/bible/luke/5#v38)</sup> But new wine must be put into new bottles; and both are preserved.
-    >
-    > <sup>[39](/bible/luke/5#v39)</sup> No man also having drunk old wine straightway desireth new: for he saith, The old is better.
-
-    No man putteth a piece of a new garment upon an old; new wine, the new covenant in Christ, must be put into new bottles, new men and women born again, and both are preserved. No man having drunk old wine straightway desireth new, for he saith, the old is better. The Pharisees were not ready for animal sacrifice to be replaced by Christ, and so it is today: our people love their old traditions and do not want the new covenant of keeping the commandments.
 
 
 *[[1:12:19](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=4339s)]* **In The News: Pastor Mike Todd on gay men: I wish there was an option of other in the kingdom; I do not know.** — Their shepherds have caused them to go astray, Jeremiah 50:6.
@@ -394,7 +394,15 @@ Reading from an article from *The Guardian*  *[[1:55:39](https://www.youtube.com
 **[Isaiah 21:1-17](/bible/isaiah/21#v1)**  *[[2:09:26](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=7766s)]*
 
 > <sup>[1](/bible/isaiah/21#v1)</sup> The burden of the desert of the sea. As whirlwinds in the south pass through; so it cometh from the desert, from a terrible land.
->
+
+- The burden of the desert of the sea: the treacherous dealer dealeth treacherously, and the spoiler spoileth. America invites you to peace talks and bombs your country, as it did Iran, then tells every nation to take the deal: only white folks may have nuclear weapons. Go up, O Elam, Iran and Pakistan and India; besiege, O Media; all the sighing thereof have I made to cease. They are in a sighing period now, bases destroyed and generals killed by drones, building up the arsenal and waiting.
+
+- Therefore are my loins filled with pain, as the pangs of a woman that travaileth; I was bowed down at the hearing of it and dismayed at the seeing of it. Isaiah was not watching a screen; the Most High put him in the midst of the destruction. Prepare the table, watch in the watchtower, eat, drink: a watchman on the palace tower keeps food and drink to last the night shift, not sleeping like the presidential security we saw in Uganda. Arise, ye princes, and anoint the shield: prepare for war.
+
+- Go, set a watchman, let him declare what he seeth. He saw a chariot with a couple of horsemen, a chariot of asses and of camels, and cried, A lion: I stand continually upon the watchtower in the daytime and am set in my ward whole nights. And he answered, Babylon is fallen, is fallen, and all the graven images of her gods he hath broken unto the ground. Is fallen twice, because Israel falls too. Cesare Borgia, Santa Claus, the Thanksgiving turkey, the Easter bunny, and the Greek statues everywhere, finished.
+
+- The burden of Dumah, a son of Ishmael, Genesis 25:14, calling out of Seir, Petra, where Arabs live today: watchman, what of the night? The burden upon Arabia, Saudi Arabia: the travelling companies of Dedanim, sons of Keturah, Genesis 25:3, and the inhabitants of Tema, Ishmael's son, Genesis 25:15, all Arabs.
+
 > <sup>[2](/bible/isaiah/21#v2)</sup> A grievous vision is declared unto me; the treacherous dealer dealeth treacherously, and the spoiler spoileth. Go up, O Elam: besiege, O Media; all the sighing thereof have I made to cease.
 >
 > <sup>[3](/bible/isaiah/21#v3)</sup> Therefore are my loins filled with pain: pangs have taken hold upon me, as the pangs of a woman that travaileth: I was bowed down at the hearing of it; I was dismayed at the seeing of it.
@@ -426,14 +434,6 @@ Reading from an article from *The Guardian*  *[[1:55:39](https://www.youtube.com
 > <sup>[16](/bible/isaiah/21#v16)</sup> For thus hath the Lord said unto me, Within a year, according to the years of an hireling, and all the glory of Kedar shall fail:
 >
 > <sup>[17](/bible/isaiah/21#v17)</sup> And the residue of the number of archers, the mighty men of the children of Kedar, shall be diminished: for the Lord God of Israel hath spoken it.
-
-- The burden of the desert of the sea: the treacherous dealer dealeth treacherously, and the spoiler spoileth. America invites you to peace talks and bombs your country, as it did Iran, then tells every nation to take the deal: only white folks may have nuclear weapons. Go up, O Elam, Iran and Pakistan and India; besiege, O Media; all the sighing thereof have I made to cease. They are in a sighing period now, bases destroyed and generals killed by drones, building up the arsenal and waiting.
-
-- Therefore are my loins filled with pain, as the pangs of a woman that travaileth; I was bowed down at the hearing of it and dismayed at the seeing of it. Isaiah was not watching a screen; the Most High put him in the midst of the destruction. Prepare the table, watch in the watchtower, eat, drink: a watchman on the palace tower keeps food and drink to last the night shift, not sleeping like the presidential security we saw in Uganda. Arise, ye princes, and anoint the shield: prepare for war.
-
-- Go, set a watchman, let him declare what he seeth. He saw a chariot with a couple of horsemen, a chariot of asses and of camels, and cried, A lion: I stand continually upon the watchtower in the daytime and am set in my ward whole nights. And he answered, Babylon is fallen, is fallen, and all the graven images of her gods he hath broken unto the ground. Is fallen twice, because Israel falls too. Cesare Borgia, Santa Claus, the Thanksgiving turkey, the Easter bunny, and the Greek statues everywhere, finished.
-
-- The burden of Dumah, a son of Ishmael, Genesis 25:14, calling out of Seir, Petra, where Arabs live today: watchman, what of the night? The burden upon Arabia, Saudi Arabia: the travelling companies of Dedanim, sons of Keturah, Genesis 25:3, and the inhabitants of Tema, Ishmael's son, Genesis 25:15, all Arabs.
 
 <div class="reading">
 
@@ -497,12 +497,12 @@ Reading from the *Zondervan Bible Dictionary*, on Ishmaelite  *[[2:19:42](https:
 **[Psalms 41:9-11](/bible/psalms/41#v9)**  *[[2:36:51](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=9411s)]*
 
 > <sup>[9](/bible/psalms/41#v9)</sup> Yea, mine own familiar friend, in whom I trusted, which did eat of my bread, hath lifted up his heel against me.
->
+
+- Mine own familiar friend, in whom I trusted, which did eat of my bread, hath lifted up his heel against me: Judas Iscariot, a traitor. Every IUIC sanctuary must have an inner circle of three to five loyal, faithful brothers who know the scriptures and fear God, not a circle of partiality of brothers who kiss your behind, or when Jacob's trouble comes you all fall. Traitors will be dealt with.
+
 > <sup>[10](/bible/psalms/41#v10)</sup> But thou, O Lord, be merciful unto me, and raise me up, that I may requite them.
 >
 > <sup>[11](/bible/psalms/41#v11)</sup> By this I know that thou favourest me, because mine enemy doth not triumph over me.
-
-- Mine own familiar friend, in whom I trusted, which did eat of my bread, hath lifted up his heel against me: Judas Iscariot, a traitor. Every IUIC sanctuary must have an inner circle of three to five loyal, faithful brothers who know the scriptures and fear God, not a circle of partiality of brothers who kiss your behind, or when Jacob's trouble comes you all fall. Traitors will be dealt with.
 
 <div class="reading">
 

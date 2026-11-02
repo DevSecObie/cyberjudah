@@ -241,12 +241,12 @@ Video played from the Soft White Underbelly interviews: a man about 50 years old
 **[Psalms 73:26-28](/bible/psalms/73#v26)**  *[[1:57:52](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=7072s)]*
 
 > <sup>[26](/bible/psalms/73#v26)</sup> My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever.
->
+
+- My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever. They that are far from thee shall perish. But it is good for me to draw near to God: I have put my trust in the Lord God. Brothers, let the alcohol go. Sisters, let the alcohol go.
+
 > <sup>[27](/bible/psalms/73#v27)</sup> For, lo, they that are far from thee shall perish: thou hast destroyed all them that go a whoring from thee.
 >
 > <sup>[28](/bible/psalms/73#v28)</sup> But it is good for me to draw near to God: I have put my trust in the Lord God, that I may declare all thy works.
-
-- My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever. They that are far from thee shall perish. But it is good for me to draw near to God: I have put my trust in the Lord God. Brothers, let the alcohol go. Sisters, let the alcohol go.
 
 **[1 Kings 2:1-3](/bible/1-kings/2#v1)**  *[[1:58:57](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=7137s)]*
 

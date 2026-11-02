@@ -137,18 +137,18 @@ The tethering.
 **[Deuteronomy 28:30-32](/bible/deuteronomy/28#v30)**  *[[28:31](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=1711s)]*
 
 > <sup>[30](/bible/deuteronomy/28#v30)</sup> Thou shalt betroth a wife, and another man shall lie with her: thou shalt build an house, and thou shalt not dwell therein: thou shalt plant a vineyard, and shalt not gather the grapes thereof.
->
-> <sup>[31](/bible/deuteronomy/28#v31)</sup> Thine ox shall be slain before thine eyes, and thou shalt not eat thereof: thine ass shall be violently taken away from before thy face, and shall not be restored to thee: thy sheep shall be given unto thine enemies, and thou shalt have none to rescue them.
->
-> <sup>[32](/bible/deuteronomy/28#v32)</sup> Thy sons and thy daughters shall be given unto another people, and thine eyes shall look, and fail with longing for them all the day long: and there shall be no might in thine hand.
 
 - Thou shalt betroth a wife, and another man shall lie with her: thou shalt build an house, and thou shalt not dwell therein: thou shalt plant a vineyard, and shalt not gather the grapes thereof. Our women got raped in front of us. We built America. We built the foundation of America. We built the White House, the Capitol, the monuments. Benjamin Banneker was instrumental in the construction of the Capitol. We built it, but we were not living in it. Not until Obama got there was a person of colour allowed to sit in there with status.
 
 - Thou shalt plant a vineyard and shalt not gather the grapes thereof. That goes back to working in the fields, and it also goes into colonisation. You have to grow your own crops for somebody else that does not belong in your land.
 
+> <sup>[31](/bible/deuteronomy/28#v31)</sup> Thine ox shall be slain before thine eyes, and thou shalt not eat thereof: thine ass shall be violently taken away from before thy face, and shall not be restored to thee: thy sheep shall be given unto thine enemies, and thou shalt have none to rescue them.
+
 - Thine ox shall be slain before thine eyes, and thou shalt not eat thereof: thine ass shall be violently taken away from before thy face, and shall not be restored to thee. The forty acres and your mule. The ass is a mule that will be taken from you. Native Americans requested two mules and forty acres. The white man said no. The black man requested one. He said no. And shall not be restored to thee: you are not getting it back. Restore goes back to reparations. You are not getting it. You have Trump walking around dropping a million dollars a bomb on Iran, but he is not giving you anything. They have no money, but they can drop bombs upon bombs upon bombs on Iran who did nothing to them.
 
 - Thy sheep shall be given unto thine enemies, and thou shalt have none to rescue them. Your sheep, your resources, your land, shall be given to your enemies, not to you.
+
+> <sup>[32](/bible/deuteronomy/28#v32)</sup> Thy sons and thy daughters shall be given unto another people, and thine eyes shall look, and fail with longing for them all the day long: and there shall be no might in thine hand.
 
 - Thy sons and thy daughters shall be given unto another people, and thine eyes shall look, and fail with longing for them all the day long: and there shall be no might in thine hand. Our children were snatched out of our arms on auction blocks and given to somebody else against our will. We cried for them, we mourned for them, and never saw them again. If you watch Roots, when they took Kizzy away, it is the same exact thing. You watch 12 Years a Slave, the sister Eliza had her son and daughter taken away and she cried almost the entire time she was in the movie. And that was based on actual events, an actual book that Solomon Northup wrote.
 
@@ -160,21 +160,21 @@ The tethering.
 
 **[Deuteronomy 28:43-46](/bible/deuteronomy/28#v43)**  *[[38:29](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=2309s)]*
 
+- The stranger that is within thee shall get up above thee very high; and thou shalt come down very low. That is the Berlin Conference, the carving up of Africa. The Portuguese arrived there. How did they get there? Did they walk there? Maybe they flew there, because there were no ships, right?
+
 > <sup>[43](/bible/deuteronomy/28#v43)</sup> The stranger that is within thee shall get up above thee very high; and thou shalt come down very low.
 >
 > <sup>[44](/bible/deuteronomy/28#v44)</sup> He shall lend to thee, and thou shalt not lend to him: he shall be the head, and thou shalt be the tail.
->
-> <sup>[45](/bible/deuteronomy/28#v45)</sup> Moreover all these curses shall come upon thee, and shall pursue thee, and overtake thee, till thou be destroyed; because thou hearkenedst not unto the voice of the Lord thy God, to keep his commandments and his statutes which he commanded thee:
->
-> <sup>[46](/bible/deuteronomy/28#v46)</sup> And they shall be upon thee for a sign and for a wonder, and upon thy seed for ever.
-
-- The stranger that is within thee shall get up above thee very high; and thou shalt come down very low. That is the Berlin Conference, the carving up of Africa. The Portuguese arrived there. How did they get there? Did they walk there? Maybe they flew there, because there were no ships, right?
 
 - He shall lend to thee, and thou shalt not lend to him: he shall be the head, and thou shalt be the tail. He shall be the head, ruling over you, and you will be the tail, on the bottom. Wherever you are, he will be ruling over you.
 
 - Moreover all these curses shall come upon thee, and shall pursue thee, and overtake thee, till thou be destroyed; because thou hearkenedst not unto the voice of the Lord thy God, to keep his commandments and his statutes which he commanded thee. Wherever we run to, these curses follow behind us. We ran to Europe, they follow us. We ran to Africa, they follow us. We ran to the Americas, they follow us.
 
 - And they shall be upon thee for a sign and for a wonder, and upon thy seed for ever. These curses will be upon us for a sign, to show who we are in these last days, these latter days. A designation as to who and where God's people are. When you travel you will find these curses on our people wherever we go. And upon thy seed for ever: these will be generational curses. These are not one-time-only curses. It says upon your children for ever, until God says it is enough.
+
+> <sup>[45](/bible/deuteronomy/28#v45)</sup> Moreover all these curses shall come upon thee, and shall pursue thee, and overtake thee, till thou be destroyed; because thou hearkenedst not unto the voice of the Lord thy God, to keep his commandments and his statutes which he commanded thee:
+>
+> <sup>[46](/bible/deuteronomy/28#v46)</sup> And they shall be upon thee for a sign and for a wonder, and upon thy seed for ever.
 
 **[Deuteronomy 28:47-48](/bible/deuteronomy/28#v47)**  *[[48:55](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=2935s)]*
 
@@ -344,13 +344,11 @@ The tethering.
 
 **[Baruch 3:8-10](/bible/baruch/3#v8)**  *[[1:48:00](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=6480s)]*
 
+- Behold, we are yet this day in our captivity, where thou hast scattered us, for a reproach and a curse, and to be subject to payments, according to all the iniquities of our fathers, which departed from the Lord our God. Even now.
+
 > <sup>[8](/bible/baruch/3#v8)</sup> Behold, we are yet this day in our captivity, where thou hast scattered us, for a reproach and a curse, and to be subject to payments, according to all the iniquities of our fathers, which departed from the Lord our God.
 >
 > <sup>[9](/bible/baruch/3#v9)</sup> Hear, Israel, the commandments of life: give ear to understand wisdom.
->
-> <sup>[10](/bible/baruch/3#v10)</sup> How happeneth it Israel, that thou art in thine enemies’ land, that thou art waxen old in a strange country, that thou art defiled with the dead,
-
-- Behold, we are yet this day in our captivity, where thou hast scattered us, for a reproach and a curse, and to be subject to payments, according to all the iniquities of our fathers, which departed from the Lord our God. Even now.
 
 - Hear, Israel, the commandments of life: give ear to understand wisdom.
 
@@ -358,31 +356,17 @@ The tethering.
 
 - Ask a young Negro today, who is Kwame Nkrumah? Who is Jean-Jacques Dessalines? Who is Medgar Evers? Who is Stokely Carmichael? They will not know. They do not care. But you know who LeBron is. You know all the athletes. You know all the rappers. NBA YoungBoy. J. Cole. Kendrick.
 
+> <sup>[10](/bible/baruch/3#v10)</sup> How happeneth it Israel, that thou art in thine enemies’ land, that thou art waxen old in a strange country, that thou art defiled with the dead,
+
 - In a strange country: America is a strange country, a land of darkness as darkness itself. That thou art defiled with the dead: we are a spiritually dead people. We are zombies out here. We are lost. Displaced anger, ignorance. We were always here, there were no slave ships. That is a stupid mindset to have. That means you do not read. You read nothing to come to that conclusion.
 
 **[Ezekiel 37:1-10](/bible/ezekiel/37#v1)**  *[[1:52:43](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=6763s)]*
 
+- The hand of the Lord was upon me, and carried me out in the spirit of the Lord, and set me down in the midst of the valley which was full of bones. The valley which is full of bones. A valley full of bones is called a graveyard. That is what it is. Earlier Baruch said you wax old and are defiled with the dead in a strange land. It is the same place.
+
 > <sup>[1](/bible/ezekiel/37#v1)</sup> The hand of the Lord was upon me, and carried me out in the spirit of the Lord, and set me down in the midst of the valley which was full of bones,
 >
 > <sup>[2](/bible/ezekiel/37#v2)</sup> And caused me to pass by them round about: and, behold, there were very many in the open valley; and, lo, they were very dry.
->
-> <sup>[3](/bible/ezekiel/37#v3)</sup> And he said unto me, Son of man, can these bones live? And I answered, O Lord God, thou knowest.
->
-> <sup>[4](/bible/ezekiel/37#v4)</sup> Again he said unto me, Prophesy upon these bones, and say unto them, O ye dry bones, hear the word of the Lord.
->
-> <sup>[5](/bible/ezekiel/37#v5)</sup> Thus saith the Lord God unto these bones; Behold, I will cause breath to enter into you, and ye shall live:
->
-> <sup>[6](/bible/ezekiel/37#v6)</sup> And I will lay sinews upon you, and will bring up flesh upon you, and cover you with skin, and put breath in you, and ye shall live; and ye shall know that I am the Lord.
->
-> <sup>[7](/bible/ezekiel/37#v7)</sup> So I prophesied as I was commanded: and as I prophesied, there was a noise, and behold a shaking, and the bones came together, bone to his bone.
->
-> <sup>[8](/bible/ezekiel/37#v8)</sup> And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but there was no breath in them.
->
-> <sup>[9](/bible/ezekiel/37#v9)</sup> Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord God; Come from the four winds, O breath, and breathe upon these slain, that they may live.
->
-> <sup>[10](/bible/ezekiel/37#v10)</sup> So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.
-
-- The hand of the Lord was upon me, and carried me out in the spirit of the Lord, and set me down in the midst of the valley which was full of bones. The valley which is full of bones. A valley full of bones is called a graveyard. That is what it is. Earlier Baruch said you wax old and are defiled with the dead in a strange land. It is the same place.
 
 - And caused me to pass by them round about: and, behold, there were very many in the open valley; and, lo, they were very dry. So Ezekiel was told to walk around these bones. Very dry: no nourishment, no understanding, no water.
 
@@ -393,6 +377,16 @@ The tethering.
 - Thus saith the Lord God unto these bones; Behold, I will cause breath to enter into you, and ye shall live. Breath is the word of God.
 
 - And I will lay sinews upon you, and will bring up flesh upon you, and cover you with skin, and put breath in you, and ye shall live; and ye shall know that I am the Lord. I will give you your identity, because your flesh is your identity: how you look, who you are. When you hear the word of God you will learn your identity. You will bethink, or remember, yourselves. The word of God will grant you understanding of who you are. Nothing else outside of that.
+
+> <sup>[3](/bible/ezekiel/37#v3)</sup> And he said unto me, Son of man, can these bones live? And I answered, O Lord God, thou knowest.
+>
+> <sup>[4](/bible/ezekiel/37#v4)</sup> Again he said unto me, Prophesy upon these bones, and say unto them, O ye dry bones, hear the word of the Lord.
+>
+> <sup>[5](/bible/ezekiel/37#v5)</sup> Thus saith the Lord God unto these bones; Behold, I will cause breath to enter into you, and ye shall live:
+>
+> <sup>[6](/bible/ezekiel/37#v6)</sup> And I will lay sinews upon you, and will bring up flesh upon you, and cover you with skin, and put breath in you, and ye shall live; and ye shall know that I am the Lord.
+>
+> <sup>[7](/bible/ezekiel/37#v7)</sup> So I prophesied as I was commanded: and as I prophesied, there was a noise, and behold a shaking, and the bones came together, bone to his bone.
 
 - So I prophesied as I was commanded: and as I prophesied, there was a noise, and behold a shaking, and the bones came together, bone to his bone. And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but there was no breath in them. That goes into that time in the sixties, the turbulent sixties, where our people were seeking identity and unifying and coming together, but not through the word of God. So we did have flesh upon us and sinews upon us, but there was no breath in us yet.
 
@@ -407,6 +401,12 @@ The tethering.
     > <sup>[16](/bible/proverbs/21#v16)</sup> The man that wandereth out of the way of understanding shall remain in the congregation of the dead.
 
     The man that wandereth out of the way of understanding shall remain in the congregation of the dead. So our people, when we got conquered and overthrown and colonised by our oppressors over the course of time up until now, we wandered out of understanding and now we are the congregation of the dead. We are a spiritually dead people, alive and well, but inside we are dead, destroyed, divisive, self-defeating, self-hating, self-detrimental.
+
+> <sup>[8](/bible/ezekiel/37#v8)</sup> And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but there was no breath in them.
+>
+> <sup>[9](/bible/ezekiel/37#v9)</sup> Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord God; Come from the four winds, O breath, and breathe upon these slain, that they may live.
+>
+> <sup>[10](/bible/ezekiel/37#v10)</sup> So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.
 
 **[Isaiah 42:7](/bible/isaiah/42#v7)**  *[[1:58:41](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=7121s)]*
 
@@ -425,42 +425,42 @@ The tethering.
 **[Isaiah 49:8-9](/bible/isaiah/49#v8)**  *[[2:00:23](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=7223s)]*
 
 > <sup>[8](/bible/isaiah/49#v8)</sup> Thus saith the Lord, In an acceptable time have I heard thee, and in a day of salvation have I helped thee: and I will preserve thee, and give thee for a covenant of the people, to establish the earth, to cause to inherit the desolate heritages;
->
-> <sup>[9](/bible/isaiah/49#v9)</sup> That thou mayest say to the prisoners, Go forth; to them that are in darkness, Shew yourselves. They shall feed in the ways, and their pastures shall be in all high places.
 
 - Thus saith the Lord, In an acceptable time have I heard thee, and in a day of salvation have I helped thee: and I will preserve thee, and give thee for a covenant of the people, to establish the earth, to cause to inherit the desolate heritages. To establish the earth: God is going to use us to establish law and order on this earth. To cause to inherit the desolate heritages: our land mass, our land back.
 
 - That thou mayest say to the prisoners, Go forth; to them that are in darkness, Shew yourselves. They shall feed in the ways, and their pastures shall be in all high places. Meaning we shall get the kingdom. It goes into us getting the kingdom, coming out of prison and getting the kingdom.
 
+> <sup>[9](/bible/isaiah/49#v9)</sup> That thou mayest say to the prisoners, Go forth; to them that are in darkness, Shew yourselves. They shall feed in the ways, and their pastures shall be in all high places.
+
 **[Ezekiel 34:1-8](/bible/ezekiel/34#v1)**  *[[2:09:09](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=7749s)]*
+
+- And the word of the Lord came unto me, saying, Son of man, prophesy against the shepherds of Israel, prophesy, and say unto them, Thus saith the Lord God unto the shepherds; Woe be to the shepherds of Israel that do feed themselves! should not the shepherds feed the flocks? That get rich, make money and feed themselves.
 
 > <sup>[1](/bible/ezekiel/34#v1)</sup> And the word of the Lord came unto me, saying,
 >
 > <sup>[2](/bible/ezekiel/34#v2)</sup> Son of man, prophesy against the shepherds of Israel, prophesy, and say unto them, Thus saith the Lord God unto the shepherds; Woe be to the shepherds of Israel that do feed themselves! should not the shepherds feed the flocks?
 >
 > <sup>[3](/bible/ezekiel/34#v3)</sup> Ye eat the fat, and ye clothe you with the wool, ye kill them that are fed: but ye feed not the flock.
->
-> <sup>[4](/bible/ezekiel/34#v4)</sup> The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up that which was broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them.
->
-> <sup>[5](/bible/ezekiel/34#v5)</sup> And they were scattered, because there is no shepherd: and they became meat to all the beasts of the field, when they were scattered.
->
-> <sup>[6](/bible/ezekiel/34#v6)</sup> My sheep wandered through all the mountains, and upon every high hill: yea, my flock was scattered upon all the face of the earth, and none did search or seek after them.
->
-> <sup>[7](/bible/ezekiel/34#v7)</sup> Therefore, ye shepherds, hear the word of the Lord;
->
-> <sup>[8](/bible/ezekiel/34#v8)</sup> As I live, saith the Lord God, surely because my flock became a prey, and my flock became meat to every beast of the field, because there was no shepherd, neither did my shepherds search for my flock, but the shepherds fed themselves, and fed not my flock;
-
-- And the word of the Lord came unto me, saying, Son of man, prophesy against the shepherds of Israel, prophesy, and say unto them, Thus saith the Lord God unto the shepherds; Woe be to the shepherds of Israel that do feed themselves! should not the shepherds feed the flocks? That get rich, make money and feed themselves.
 
 - Ye eat the fat, and ye clothe you with the wool, ye kill them that are fed: but ye feed not the flock. You eat well, you live well, you dress in fancy clothes. You have an abundance of food and resources, but you do not feed the flock. You do not do it for your own people.
 
 - The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up that which was broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them. That which was driven away: scattered, conquered.
+
+> <sup>[4](/bible/ezekiel/34#v4)</sup> The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up that which was broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them.
+>
+> <sup>[5](/bible/ezekiel/34#v5)</sup> And they were scattered, because there is no shepherd: and they became meat to all the beasts of the field, when they were scattered.
 
 - And they were scattered, because there is no shepherd: and they became meat to all the beasts of the field, when they were scattered. No leader. We were scattered because there was no leader, and we got conquered and overthrown.
 
 - And my sheep wandered through all the mountains, and upon every high hill: yea, my flock was scattered upon all the face of the earth, and none did search or seek after them. None did search or seek after them. It is the shepherd's job to go out and search and seek his sheep, to search and seek his people all over the world if possible.
 
 - Therefore, ye shepherds, hear the word of the Lord; As I live, saith the Lord God, surely because my flock became a prey, and my flock became meat to every beast of the field, because there was no shepherd, neither did my shepherds search for my flock, but the shepherds fed themselves, and fed not my flock. That is your pastor today. They do not feed their people. They are trying to find Israel in one place, feeding themselves. You have to search and seek your people who are scattered. That is what it is. That is a revolution. A global revolution.
+
+> <sup>[6](/bible/ezekiel/34#v6)</sup> My sheep wandered through all the mountains, and upon every high hill: yea, my flock was scattered upon all the face of the earth, and none did search or seek after them.
+>
+> <sup>[7](/bible/ezekiel/34#v7)</sup> Therefore, ye shepherds, hear the word of the Lord;
+>
+> <sup>[8](/bible/ezekiel/34#v8)</sup> As I live, saith the Lord God, surely because my flock became a prey, and my flock became meat to every beast of the field, because there was no shepherd, neither did my shepherds search for my flock, but the shepherds fed themselves, and fed not my flock;
 
 **[Exodus 19:6](/bible/exodus/19#v6)**  *[[2:14:38](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=8078s)]*
 
@@ -471,10 +471,10 @@ The tethering.
 **[John 10:15-16](/bible/john/10#v15)**  *[[2:15:30](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=8130s)]*
 
 > <sup>[15](/bible/john/10#v15)</sup> As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep.
->
-> <sup>[16](/bible/john/10#v16)</sup> And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.
 
 - As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep.
+
+> <sup>[16](/bible/john/10#v16)</sup> And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.
 
 - And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd. Other sheep I have which are not of this fold: Israel scattered abroad. Christ did not just deal with his own people, Judah, which is African-Americans today. Christ did not say, I am only going to save Judah and deal with Judah only, I am going to delineate myself from the other tribes. Christ said, other sheep I have, them also I must bring. I must unite all the twelve, not just one tribe in America because we are mad at words.
 
@@ -482,19 +482,19 @@ The tethering.
 
 **[John 11:49-52](/bible/john/11#v49)**  *[[2:17:00](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=8220s)]*
 
+- And one of them, named Caiaphas, being the high priest that same year, said unto them, Ye know nothing at all, nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not. That is Christ, so the whole nation does not die. Because Christ dealt with the whole nation.
+
 > <sup>[49](/bible/john/11#v49)</sup> And one of them, named Caiaphas, being the high priest that same year, said unto them, Ye know nothing at all,
 >
 > <sup>[50](/bible/john/11#v50)</sup> Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not.
 >
 > <sup>[51](/bible/john/11#v51)</sup> And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;
->
-> <sup>[52](/bible/john/11#v52)</sup> And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.
-
-- And one of them, named Caiaphas, being the high priest that same year, said unto them, Ye know nothing at all, nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not. That is Christ, so the whole nation does not die. Because Christ dealt with the whole nation.
 
 - And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation.
 
 - And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad. Not for Judah, or African-Americans, or FBA only. But that also he should gather together in one the children of God that were scattered abroad. Christ had to bring about all Israel scattered abroad. That is a global nationalist. That is black global nationalism, revolutionism. That is what this is.
+
+> <sup>[52](/bible/john/11#v52)</sup> And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.
 
 **[2 Esdras 13:40-45](/bible/2-esdras/13#v40)**  *[[2:18:26](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=8306s)]*
 
@@ -557,34 +557,34 @@ The tethering.
 **[Numbers 11:4-6](/bible/numbers/11#v4)**  *[[2:22:57](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=8577s)]*
 
 > <sup>[4](/bible/numbers/11#v4)</sup> And the mixt multitude that was among them fell a lusting: and the children of Israel also wept again, and said, Who shall give us flesh to eat?
->
-> <sup>[5](/bible/numbers/11#v5)</sup> We remember the fish, which we did eat in Egypt freely; the cucumbers, and the melons, and the leeks, and the onions, and the garlick:
->
-> <sup>[6](/bible/numbers/11#v6)</sup> But now our soul is dried away: there is nothing at all, beside this manna, before our eyes.
 
 - And the mixt multitude that was among them fell a lusting: and the children of Israel also wept again, and said, Who shall give us flesh to eat? The mixed multitude are heathens that came amongst us, that ran out of Egypt after us. And the children of Israel also wept again, following behind the other nations. Who is going to feed us? Remember, we were eating already.
 
 - We remember the fish, which we did eat in Egypt freely; the cucumbers, and the melons, and the leeks, and the onions, and the garlick. Freely. Remember, they were not free. But they are saying here we ate freely. No you did not. You were working with rigour. That shows you the slave mind was still there. They started to reminisce about slavery and how good they ate while in bondage. Foundational black Egyptians.
 
+> <sup>[5](/bible/numbers/11#v5)</sup> We remember the fish, which we did eat in Egypt freely; the cucumbers, and the melons, and the leeks, and the onions, and the garlick:
+>
+> <sup>[6](/bible/numbers/11#v6)</sup> But now our soul is dried away: there is nothing at all, beside this manna, before our eyes.
+
 - But now our soul is dried away: there is nothing at all, beside this manna, before our eyes.
 
 **[Numbers 14:1-4](/bible/numbers/14#v1)**  *[[2:23:41](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=8621s)]*
 
+- And all the congregation lifted up their voice, and cried; and the people wept that night.
+
 > <sup>[1](/bible/numbers/14#v1)</sup> And all the congregation lifted up their voice, and cried; and the people wept that night.
 >
 > <sup>[2](/bible/numbers/14#v2)</sup> And all the children of Israel murmured against Moses and against Aaron: and the whole congregation said unto them, Would God that we had died in the land of Egypt! or would God we had died in this wilderness!
->
-> <sup>[3](/bible/numbers/14#v3)</sup> And wherefore hath the Lord brought us unto this land, to fall by the sword, that our wives and our children should be a prey? were it not better for us to return into Egypt?
->
-> <sup>[4](/bible/numbers/14#v4)</sup> And they said one to another, Let us make a captain, and let us return into Egypt.
-
-- And all the congregation lifted up their voice, and cried; and the people wept that night.
 
 - And all the children of Israel murmured against Moses and against Aaron: and the whole congregation said unto them, Would God that we had died in the land of Egypt! or would God we had died in this wilderness! They got free, and they say, we should have died in slavery.
 
 - And wherefore hath the Lord brought us unto this land, to fall by the sword, that our wives and our children should be a prey? were it not better for us to return into Egypt? We should go back to slavery. Let us go back to massa. Stockholm syndrome.
 
 - And they said one to another, Let us make a captain, and let us return into Egypt. Let us find a Brandon Tatum. Let us find a Jason Whitlock. And return back to slavery. That goes back to being destroyed. It is the same thing with us here. We will tell brothers America is Babylon the great, and they will say no it is not, we have always been here, we are Americans, we eat good, we live good, we dress good. It is the same mentality.
+
+> <sup>[3](/bible/numbers/14#v3)</sup> And wherefore hath the Lord brought us unto this land, to fall by the sword, that our wives and our children should be a prey? were it not better for us to return into Egypt?
+>
+> <sup>[4](/bible/numbers/14#v4)</sup> And they said one to another, Let us make a captain, and let us return into Egypt.
 
 **[Jeremiah 2:13-14](/bible/jeremiah/2#v13)**  *[[2:25:16](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=8716s)]*
 

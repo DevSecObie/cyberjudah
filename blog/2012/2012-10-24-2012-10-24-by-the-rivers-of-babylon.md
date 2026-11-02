@@ -189,11 +189,9 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "unity"]
 
 **[Psalms 137:3-4](/bible/psalms/137#v3)**  *[[21:28](https://www.youtube.com/watch?v=1MpZdjyuUS4&t=1288s)]*
 
-> <sup>[3](/bible/psalms/137#v3)</sup> For there they that carried us away captive required of us a song; and they that wasted us required of us mirth, saying, Sing us one of the songs of Zion.
->
-> <sup>[4](/bible/psalms/137#v4)</sup> How shall we sing the Lord’s song in a strange land?
-
 - That's why we went to all those precepts: they that wasted us. They required of us mirth; mirth means laughter. They wanted us to sing and make them laugh.
+
+> <sup>[3](/bible/psalms/137#v3)</sup> For there they that carried us away captive required of us a song; and they that wasted us required of us mirth, saying, Sing us one of the songs of Zion.
 
 - Sing us one of the songs of Zion: they wanted to mock us.
 
@@ -201,13 +199,23 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "unity"]
 
 - How shall we sing the Lord's song in a strange land? Because for us to sing one of the songs of Zion, the white man would laugh at us, they would mock us.
 
+> <sup>[4](/bible/psalms/137#v4)</sup> How shall we sing the Lord’s song in a strange land?
+
 
 **[Psalms 149:1-9](/bible/psalms/149#v1)**  *[[22:14](https://www.youtube.com/watch?v=1MpZdjyuUS4&t=1334s)]*
+
+- Some of you get angry when we speak against your lying Christian gospel songs. I'm going to prove to you right now that not one of your churches is singing the songs of Zion; here's one of the songs of Zion.
 
 > <sup>[1](/bible/psalms/149#v1)</sup> Praise ye the Lord. Sing unto the Lord a new song, and his praise in the congregation of saints.
 >
 > <sup>[2](/bible/psalms/149#v2)</sup> Let Israel rejoice in him that made him: let the children of Zion be joyful in their King.
->
+
+- Let Israel rejoice in him that made him: we rejoice in him by keeping his laws, his statutes, his commandments, his high holy days, his festival days. Whose holidays are you celebrating? Christmas, Halloween, Thanksgiving; I challenge any of you, give us the scripture and verse.
+
+- The Lord taketh pleasure in his people, not in all races. He will beautify the meek with salvation, because Christ said the meek shall inherit the earth.
+
+- The high praises of God in our mouth are the laws, the commandments of the Bible. Some say the two-edged sword is the Bible, like Hebrews 4, but no: the Bible is in our mouth, so what's in our hand is a literal sword, to execute vengeance upon the heathen, which means the nations.
+
 > <sup>[3](/bible/psalms/149#v3)</sup> Let them praise his name in the dance: let them sing praises unto him with the timbrel and harp.
 >
 > <sup>[4](/bible/psalms/149#v4)</sup> For the Lord taketh pleasure in his people: he will beautify the meek with salvation.
@@ -219,18 +227,10 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "unity"]
 > <sup>[7](/bible/psalms/149#v7)</sup> To execute vengeance upon the heathen, and punishments upon the people;
 >
 > <sup>[8](/bible/psalms/149#v8)</sup> To bind their kings with chains, and their nobles with fetters of iron;
->
-> <sup>[9](/bible/psalms/149#v9)</sup> To execute upon them the judgment written: this honour have all his saints. Praise ye the Lord.
-
-- Some of you get angry when we speak against your lying Christian gospel songs. I'm going to prove to you right now that not one of your churches is singing the songs of Zion; here's one of the songs of Zion.
-
-- Let Israel rejoice in him that made him: we rejoice in him by keeping his laws, his statutes, his commandments, his high holy days, his festival days. Whose holidays are you celebrating? Christmas, Halloween, Thanksgiving; I challenge any of you, give us the scripture and verse.
-
-- The Lord taketh pleasure in his people, not in all races. He will beautify the meek with salvation, because Christ said the meek shall inherit the earth.
-
-- The high praises of God in our mouth are the laws, the commandments of the Bible. Some say the two-edged sword is the Bible, like Hebrews 4, but no: the Bible is in our mouth, so what's in our hand is a literal sword, to execute vengeance upon the heathen, which means the nations.
 
 - To bind their kings with chains and their nobles with fetters of iron: that's vengeance, because our enemies put yokes of iron on our necks. Are you singing that in Sunday school, at your lying Gospel Fest? Show me one Christian church that's singing about vengeance on their enemies.
+
+> <sup>[9](/bible/psalms/149#v9)</sup> To execute upon them the judgment written: this honour have all his saints. Praise ye the Lord.
 
 - To execute upon them the judgment written: everything this Bible says to do upon the nations, the true Israelites shall fulfill it. You effeminate, christianized, chocolate-covered Hebraic Sunday-Sabbath-worship Israelites that say Yah wants us to love all nations, you're still stuck in Christianity; that's why when we hear your stupid phone calls we dismiss you immediately.
 
@@ -362,6 +362,10 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "unity"]
 
 **[Obadiah 1:8-14](/bible/obadiah/1#v8)**  *[[41:15](https://www.youtube.com/watch?v=1MpZdjyuUS4&t=2475s)]*
 
+- Everyone from the mount of Esau shall be cut off by slaughter, because of their violence against their brother Jacob, against us. Shame shall cover all Esau's descendants, and they shall be cut off forever.
+
+- When the Babylonians came against us, they stood on the other side. The strangers carried away our forces, took away our riches, destroyed and robbed our temples, and cast lots upon Jerusalem, and Edom was as one of them: the brothers to the 12 tribes of Israel helped the nations destroy us.
+
 > <sup>[8](/bible/obadiah/1#v8)</sup> Shall I not in that day, saith the Lord, even destroy the wise men out of Edom, and understanding out of the mount of Esau?
 >
 > <sup>[9](/bible/obadiah/1#v9)</sup> And thy mighty men, O Teman, shall be dismayed, to the end that every one of the mount of Esau may be cut off by slaughter.
@@ -371,18 +375,14 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "unity"]
 > <sup>[11](/bible/obadiah/1#v11)</sup> In the day that thou stoodest on the other side, in the day that the strangers carried away captive his forces, and foreigners entered into his gates, and cast lots upon Jerusalem, even thou wast as one of them.
 >
 > <sup>[12](/bible/obadiah/1#v12)</sup> But thou shouldest not have looked on the day of thy brother in the day that he became a stranger; neither shouldest thou have rejoiced over the children of Judah in the day of their destruction; neither shouldest thou have spoken proudly in the day of distress.
->
-> <sup>[13](/bible/obadiah/1#v13)</sup> Thou shouldest not have entered into the gate of my people in the day of their calamity; yea, thou shouldest not have looked on their affliction in the day of their calamity, nor have laid hands on their substance in the day of their calamity;
->
-> <sup>[14](/bible/obadiah/1#v14)</sup> Neither shouldest thou have stood in the crossway, to cut off those of his that did escape; neither shouldest thou have delivered up those of his that did remain in the day of distress.
-
-- Everyone from the mount of Esau shall be cut off by slaughter, because of their violence against their brother Jacob, against us. Shame shall cover all Esau's descendants, and they shall be cut off forever.
-
-- When the Babylonians came against us, they stood on the other side. The strangers carried away our forces, took away our riches, destroyed and robbed our temples, and cast lots upon Jerusalem, and Edom was as one of them: the brothers to the 12 tribes of Israel helped the nations destroy us.
 
 - In the day that he became a stranger: proving that the Israelites became strangers to the one true God when we went into slavery.
 
 - God is letting them know through Obadiah: you should not have done the evil that you did, and because you did that evil you're going to be cut off in the future, you're going to be destroyed as a people.
+
+> <sup>[13](/bible/obadiah/1#v13)</sup> Thou shouldest not have entered into the gate of my people in the day of their calamity; yea, thou shouldest not have looked on their affliction in the day of their calamity, nor have laid hands on their substance in the day of their calamity;
+>
+> <sup>[14](/bible/obadiah/1#v14)</sup> Neither shouldest thou have stood in the crossway, to cut off those of his that did escape; neither shouldest thou have delivered up those of his that did remain in the day of distress.
 
 - Stood in the crossway to cut off those of his that did escape: when the Israelites found a way to escape, they circled our land, cut us off, trapped us, and brought us to Babylon.
 
@@ -416,25 +416,15 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "unity"]
 **[Psalms 137:8-9](/bible/psalms/137#v8)**  *[[45:41](https://www.youtube.com/watch?v=1MpZdjyuUS4&t=2741s)]*
 
 > <sup>[8](/bible/psalms/137#v8)</sup> O daughter of Babylon, who art to be destroyed; happy shall he be, that rewardeth thee as thou hast served us.
->
-> <sup>[9](/bible/psalms/137#v9)</sup> Happy shall he be, that taketh and dasheth thy little ones against the stones.
 
 - O daughter of Babylon, who art to be destroyed: the daughter of Babylon is the children of Esau.
 
 - Happy shall he be that taketh thy little ones, meaning your little babies, and dasheth them against the stones. What is David seeing in the spirit? The prophet Isaiah saw a prophecy for Babylon.
 
+> <sup>[9](/bible/psalms/137#v9)</sup> Happy shall he be, that taketh and dasheth thy little ones against the stones.
+
 
 **[Isaiah 13:13-17](/bible/isaiah/13#v13)**  *[[46:31](https://www.youtube.com/watch?v=1MpZdjyuUS4&t=2791s)]*
-
-> <sup>[13](/bible/isaiah/13#v13)</sup> Therefore I will shake the heavens, and the earth shall remove out of her place, in the wrath of the Lord of hosts, and in the day of his fierce anger.
->
-> <sup>[14](/bible/isaiah/13#v14)</sup> And it shall be as the chased roe, and as a sheep that no man taketh up: they shall every man turn to his own people, and flee every one into his own land.
->
-> <sup>[15](/bible/isaiah/13#v15)</sup> Every one that is found shall be thrust through; and every one that is joined unto them shall fall by the sword.
->
-> <sup>[16](/bible/isaiah/13#v16)</sup> Their children also shall be dashed to pieces before their eyes; their houses shall be spoiled, and their wives ravished.
->
-> <sup>[17](/bible/isaiah/13#v17)</sup> Behold, I will stir up the Medes against them, which shall not regard silver; and as for gold, they shall not delight in it.
 
 - This Babylon is not talking about ancient Babylon, but the future Babylon, called the daughter of Babylon, called Babylon the great in the book of Revelation.
 
@@ -444,9 +434,19 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "unity"]
 
 - Everyone that is found, every white man found in that day, shall be thrust through, meaning killed, and everyone that is joined unto them, meaning married to them, shall fall by the sword. Some of you at home look for scriptures to justify being married to the other nations; you're going to get punished in that day.
 
+> <sup>[13](/bible/isaiah/13#v13)</sup> Therefore I will shake the heavens, and the earth shall remove out of her place, in the wrath of the Lord of hosts, and in the day of his fierce anger.
+>
+> <sup>[14](/bible/isaiah/13#v14)</sup> And it shall be as the chased roe, and as a sheep that no man taketh up: they shall every man turn to his own people, and flee every one into his own land.
+>
+> <sup>[15](/bible/isaiah/13#v15)</sup> Every one that is found shall be thrust through; and every one that is joined unto them shall fall by the sword.
+>
+> <sup>[16](/bible/isaiah/13#v16)</sup> Their children also shall be dashed to pieces before their eyes; their houses shall be spoiled, and their wives ravished.
+
 - Their children also shall be dashed to pieces before their eyes: my little biracial baby. You black women don't realize the seed comes through the man. Some of you say you don't want a nappy-head baby, big nose, big lip baby; you want that very light-skinned, blue-eyed, straight-hair baby. It's not our word, this is what God says.
 
 - A lot of you black women that want to marry outside your race because you hate your fathers took the sins of a father, an uncle, a grandfather, and put it on a whole race of us. You're going to rue the day. If you were reading the Bible you'd see the most high is raising up great black men.
+
+> <sup>[17](/bible/isaiah/13#v17)</sup> Behold, I will stir up the Medes against them, which shall not regard silver; and as for gold, they shall not delight in it.
 
 - Behold, I will stir up the Medes against them: the Lord is still dealing with the nations that are going to come against Babylon the great. It's written as a metaphor.
 

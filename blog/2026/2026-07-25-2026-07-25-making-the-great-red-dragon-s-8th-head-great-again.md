@@ -45,15 +45,19 @@ This is what Trump is basically saying; he's just out pronouncing it. But this h
 **[Ecclesiastes 10:5-7](/bible/ecclesiastes/10#v5)**  *[[12:53](https://www.youtube.com/watch?v=Oas2Tg98VMA&t=773s)]*
 
 > <sup>[5](/bible/ecclesiastes/10#v5)</sup> There is an evil which I have seen under the sun, as an error which proceedeth from the ruler:
->
-> <sup>[6](/bible/ecclesiastes/10#v6)</sup> Folly is set in great dignity, and the rich sit in low place.
->
-> <sup>[7](/bible/ecclesiastes/10#v7)</sup> I have seen servants upon horses, and princes walking as servants upon the earth.
 
 - There is an evil which I have seen under the sun: the Most High showed him the visions of where this planet is going. As an error which proceedeth from the ruler: meaning the wrong people are ruling. The wrong type of rulership is on this planet now.
+
+> <sup>[6](/bible/ecclesiastes/10#v6)</sup> Folly is set in great dignity, and the rich sit in low place.
+
 - Folly is set in great dignity: a fool is set as a judge. That's crazy. A fool is ruling. Pollute the only air you can breathe, pollute the only water you can drink. It's a complete mess. Now the people's minds: a man doesn't even know if he's a man; a woman don't even know if she's a woman. People's minds is all polluted.
+
 - And the rich sit in low place: we're the rich and we sit in low place. We sitting like we're the bums, and we are the princes of God. That's what Israel mean. He is the prince of the Most High. But yet we're sitting like servants.
+
+> <sup>[7](/bible/ecclesiastes/10#v7)</sup> I have seen servants upon horses, and princes walking as servants upon the earth.
+
 - I have seen servants upon horses, and princes walking as servants upon the earth: the man that's in the power seat is a servant to you. And the princes, the Israelites, the twelve tribes of Israel, walking as servants upon the earth.
+
 - Image shown: the statue that was in front of the Museum of Natural History on 81st Street; they took it down. The man on the horse is Teddy Roosevelt. The Bible says that that's a servant; he's sitting up in the power seat like he's in rulership, but meanwhile the servants are on the side: Gad on the right side, and Judah on the left side. You can zoom in and see the sight on the barrel of the musket; that's indicating that the negro is so brainwashed he will fight for the man on a horse. There was a lot of thinking that went into putting this together. Damn, Judah, he sleep; he got the dag on gun like, I'm going to fight for the man on the horse. Now go on the other side: this is Gad. He got the gun pointed down in defiance like, you're on my land, I'm not fighting for you. For this to even be put up, that means the sculptor has to know the psychology of the negro and the psychology of Gad. Now they took it down; you can't even go look it up or research it or nothing. Thank God for pictures.
 
 **[Psalms 82:5](/bible/psalms/82#v5)**  *[[17:13](https://www.youtube.com/watch?v=Oas2Tg98VMA&t=1033s)]*

@@ -74,24 +74,24 @@ tags: ["15 Minutes w/ The Captains", "health", "substance-abuse", "the-law"]
 > <sup>[29](/bible/proverbs/23#v29)</sup> Who hath woe? who hath sorrow? who hath contentions? who hath babbling? who hath wounds without cause? who hath redness of eyes?
 >
 > <sup>[30](/bible/proverbs/23#v30)</sup> They that tarry long at the wine; they that go to seek mixed wine.
->
-> <sup>[31](/bible/proverbs/23#v31)</sup> Look not thou upon the wine when it is red, when it giveth his colour in the cup, when it moveth itself aright.
->
-> <sup>[32](/bible/proverbs/23#v32)</sup> At the last it biteth like a serpent, and stingeth like an adder.
->
-> <sup>[33](/bible/proverbs/23#v33)</sup> Thine eyes shall behold strange women, and thine heart shall utter perverse things.
->
-> <sup>[34](/bible/proverbs/23#v34)</sup> Yea, thou shalt be as he that lieth down in the midst of the sea, or as he that lieth upon the top of a mast.
->
-> <sup>[35](/bible/proverbs/23#v35)</sup> They have stricken me, shalt thou say, and I was not sick; they have beaten me, and I felt it not: when shall I awake? I will seek it yet again.
 
 - Who hath redness of eyes? They that tarry long at the wine: they tarry long at the wine. Constantly drinking. They go to sleep. They wake up. They just constantly, they get one drink, then they got another one. They get another one. Eyes red, bloodshot red, you slurring at the mouth. All these things happen.
 
+> <sup>[31](/bible/proverbs/23#v31)</sup> Look not thou upon the wine when it is red, when it giveth his colour in the cup, when it moveth itself aright.
+>
+> <sup>[32](/bible/proverbs/23#v32)</sup> At the last it biteth like a serpent, and stingeth like an adder.
+
 - At the last it biteth like a serpent: you just drinking whatever, but next thing you know, it starts sneaking up on you and it bite you in the behind. You went from one drink, now you at drink 10. It came and bit you in the behind, because you don't know how to control your intake of alcohol or wine or whatever the case may be. Strong drink, all the same. You don't know how to control yourself. It keeps you from being disciplined. You end up lacking the judgment. It destroys your judgment, your discipline, when you overdrink, when you're not being conscious of what you consuming. You got to be mindful of that.
+
+> <sup>[33](/bible/proverbs/23#v33)</sup> Thine eyes shall behold strange women, and thine heart shall utter perverse things.
 
 - Thine eyes shall behold strange women: and that's what happened. You get bold, too. You get bold at the eyes. You be drinking now. Hey, what's up? Everything that you've once thought of somebody, it end up coming out. That's what happened when you're drinking. The real you come out. You start seeing stuff. I'm telling you, all that stuff come out. The real you show up. The representative is no longer there. It's you.
 
 - And thine heart shall utter perverse things: and then you start saying crazy things, nasty stuff. You see a sister, you could do that in here in the body. You had a few drinks, we hang, you having a good time. You say something crazy. Somebody's wife. You know what I'm saying? What the hell is wrong with you? Get your ass whooped. Talking to somebody wife like that. What the hell is wrong with you? It happens. Don't get it twisted. It happens. So you got to be mindful of that.
+
+> <sup>[34](/bible/proverbs/23#v34)</sup> Yea, thou shalt be as he that lieth down in the midst of the sea, or as he that lieth upon the top of a mast.
+>
+> <sup>[35](/bible/proverbs/23#v35)</sup> They have stricken me, shalt thou say, and I was not sick; they have beaten me, and I felt it not: when shall I awake? I will seek it yet again.
 
 - They have stricken me, shalt thou say, and I was not sick: I wasn't sick. I wasn't drunk.
 
@@ -116,12 +116,12 @@ tags: ["15 Minutes w/ The Captains", "health", "substance-abuse", "the-law"]
 **[Sirach 19:1-2](/bible/sirach/19#v1)**  *[[18:30](https://www.youtube.com/watch?v=wAbD6jwnU38&t=1110s)]*
 
 > <sup>[1](/bible/sirach/19#v1)</sup> A labouring man that is given to drunkenness shall not be rich: and he that contemneth small things shall fall by little and little.
->
-> <sup>[2](/bible/sirach/19#v2)</sup> Wine and women will make men of understanding to fall away: and he that cleaveth to harlots will become impudent.
 
 - Is given to drunkenness shall not be rich: shall not be rich. You know why? Because what did he do? You've worked all day. And what happens when you get off? You go right to the damn liquor store. You drink one bottle, one pint, and you go get another one, or you do it before you went to work. You know what I'm saying? Just constantly. And work is related to it. You stressed at work. You working all day. You stressed out. Boss get on your nerves. What you want to do? You pissed off. You want to go get the drink. Then you don't want to go home. Why? Cuz your wife is nagging you all the time. She need this, this, and that. Then you go to the bar. Next thing you know, you at a whole strip club doing some crazy stuff. Who knows? You throwing all your money. You know what I'm saying? Meaning, you're not going to make wise decisions. You laboring all day, but you're still not making wise decisions.
 
 - And he that contemneth small things shall fall by little and little: when you despise small things, you fall little by little. But guess what? It goes hand in hand with things.
+
+> <sup>[2](/bible/sirach/19#v2)</sup> Wine and women will make men of understanding to fall away: and he that cleaveth to harlots will become impudent.
 
 - Wine and women will make men of understanding to fall away: like I was mentioning earlier, wine and women, it goes hand in hand. It can go hand in hand and vice versa. So we got to be mindful of that. Your mind start going other ways. You start looking at people a different way and all this stuff. Then you get the courage. What do they call that? You get that liquid courage. That's what you get. The liquid courage. And liquid courage will get you in some trouble. I'm telling you, you don't want them problems.
 
@@ -129,10 +129,10 @@ tags: ["15 Minutes w/ The Captains", "health", "substance-abuse", "the-law"]
 **[Sirach 31:29-30](/bible/sirach/31#v29)**  *[[20:37](https://www.youtube.com/watch?v=wAbD6jwnU38&t=1237s)]*
 
 > <sup>[29](/bible/sirach/31#v29)</sup> But wine drunken with excess maketh bitterness of the mind, with brawling and quarrelling.
->
-> <sup>[30](/bible/sirach/31#v30)</sup> Drunkenness increaseth the rage of a fool till he offend: it diminisheth strength, and maketh wounds.
 
 - But wine drunken with excess maketh bitterness of the mind: it maketh bitterness of the mind. Make your mind not clear.
+
+> <sup>[30](/bible/sirach/31#v30)</sup> Drunkenness increaseth the rage of a fool till he offend: it diminisheth strength, and maketh wounds.
 
 - Drunkenness increaseth the rage of a fool till he offend: it increases him. I'm telling you, it gives you that liquid courage we just talking about. When you one of them brothers that get angry, or you indulge yourself. You're going through some things and you just choose to over drink. What happens? You start to build up that old anger from something, that stuff in deep that you ain't fix come out. And what happens? It shows up. It shows that rage. You go out and you take it out on your wife. You got to take it out on your kids, other people. They ain't got nothing to do with your problems. But you do that.
 
@@ -149,13 +149,13 @@ tags: ["15 Minutes w/ The Captains", "health", "substance-abuse", "the-law"]
 
 **[Deuteronomy 28:47-48](/bible/deuteronomy/28#v47)**  *[[24:50](https://www.youtube.com/watch?v=wAbD6jwnU38&t=1490s)]*
 
-> <sup>[47](/bible/deuteronomy/28#v47)</sup> Because thou servedst not the Lord thy God with joyfulness, and with gladness of heart, for the abundance of all things;
->
-> <sup>[48](/bible/deuteronomy/28#v48)</sup> Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
-
 - But all this happened because we broke God's commandments. At the end of the day, we broke God's commandments.
 
+> <sup>[47](/bible/deuteronomy/28#v47)</sup> Because thou servedst not the Lord thy God with joyfulness, and with gladness of heart, for the abundance of all things;
+
 - Because thou servedst not the Lord thy God with joyfulness, and with gladness of heart: we didn't want to serve the Lord. We did not want to serve the Lord. Throughout history, ain't just now, but throughout history, we had a problem with serving the Lord with gladness.
+
+> <sup>[48](/bible/deuteronomy/28#v48)</sup> Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
 
 - Therefore shalt thou serve thine enemies: and with that, we going to serve our enemies. And with that, our oppressor is going to use strong drink and wine to destroy the nation of Israel. And he's done it for centuries.
 

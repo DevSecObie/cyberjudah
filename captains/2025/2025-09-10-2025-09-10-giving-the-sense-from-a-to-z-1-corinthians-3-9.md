@@ -49,19 +49,19 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 
 **[1 Corinthians 3:1-4](/bible/1-corinthians/3#v1)**  *[[7:36](https://www.youtube.com/watch?v=iDrCjOY7Wak&t=456s)]*
 
-> <sup>[1](/bible/1-corinthians/3#v1)</sup> And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ.
->
-> <sup>[2](/bible/1-corinthians/3#v2)</sup> I have fed you with milk, and not with meat: for hitherto ye were not able to bear it, neither yet now are ye able.
->
-> <sup>[3](/bible/1-corinthians/3#v3)</sup> For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men?
->
-> <sup>[4](/bible/1-corinthians/3#v4)</sup> For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?
-
 - Recap: Okay, so let's go back to 1 Corinthians chapter 3. So, yesterday we started off in 1 Corinthians 3. We started off in verse 1 and I think we ended off in verse 9. I'm going to do a quick recap of chapter 3.
+
+> <sup>[1](/bible/1-corinthians/3#v1)</sup> And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ.
 
 - I, brethren, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ: Right. So, Paul dealing with the Corinthian church. In chapter 2, he spoke to them about getting understanding, getting wisdom, okay? But in dealing with spiritual things, but then when you get to chapter 3, he said, "I would like to deal with y'all on a spiritual level to give y'all more wisdom and understanding, but you're not able to bear it because you're carnal. You're as babes in Christ. So, I'm dealing with you as carnal and not as spiritual."
 
+> <sup>[2](/bible/1-corinthians/3#v2)</sup> I have fed you with milk, and not with meat: for hitherto ye were not able to bear it, neither yet now are ye able.
+
 - I have fed you with milk, and not with meat: Right. They was dealing with milk and not meat. And the reason for that is because they were carnal. If they had been spiritual, he could have dealt with them on a little spiritual level. He could have dealt with them more in-depth as it pertains to the scriptures, but he could not go to those levels because they were still carnal. They still had divisions amongst them and envy and strife and so on and so forth. So, he said, "I can't deal with y'all with meat because meat's too strong for you, all right? You're not strong enough to bear it. You need milk. You need the basics."
+
+> <sup>[3](/bible/1-corinthians/3#v3)</sup> For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men?
+>
+> <sup>[4](/bible/1-corinthians/3#v4)</sup> For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?
 
 - For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?: Right. So, he said, "Y'all still carnal. And I'mma prove how you carnal. One of you say you have a Paul and one of you say you have Apollos. That's carnality." Why is that carnal? Because Paul and Apollos was in the same spirit. Just two different brothers that the Lord was using to edify the nation of Israel, but they had no against one another. They weren't against each other in teaching different doctrines. They were teaching the same thing, but the people had favorite teachers and who they like more than others and he like, "Y'all still carnal. Y'all fighting over basic stuff. I can't deal with you on a spiritual level right now. We got to deal with these basics."
 
@@ -82,7 +82,9 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 **[Acts 9:3-7](/bible/acts/9#v3)**  *[[10:27](https://www.youtube.com/watch?v=iDrCjOY7Wak&t=627s)]*
 
 > <sup>[3](/bible/acts/9#v3)</sup> And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:
->
+
+- There shined round about him a light from heaven: Right. This is Paul on his way to Damascus to persecute the followers of Christ, all right? They called it the way. And there be any man of this way. So, he was sent and commissioned by the chief priests and the scribes and so on and so forth to deal with these brothers and these sisters in Damascus. So, now it says, "While this happened, a bright light from heaven came down."
+
 > <sup>[4](/bible/acts/9#v4)</sup> And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me?
 >
 > <sup>[5](/bible/acts/9#v5)</sup> And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks.
@@ -90,8 +92,6 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 > <sup>[6](/bible/acts/9#v6)</sup> And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord said unto him, Arise, and go into the city, and it shall be told thee what thou must do.
 >
 > <sup>[7](/bible/acts/9#v7)</sup> And the men which journeyed with him stood speechless, hearing a voice, but seeing no man.
-
-- There shined round about him a light from heaven: Right. This is Paul on his way to Damascus to persecute the followers of Christ, all right? They called it the way. And there be any man of this way. So, he was sent and commissioned by the chief priests and the scribes and so on and so forth to deal with these brothers and these sisters in Damascus. So, now it says, "While this happened, a bright light from heaven came down."
 
 
 **[Acts 9:17-20](/bible/acts/9#v17)**  *[[12:06](https://www.youtube.com/watch?v=iDrCjOY7Wak&t=726s)]*
@@ -121,18 +121,16 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 **[1 Corinthians 3:5-9](/bible/1-corinthians/3#v5)**  *[[15:09](https://www.youtube.com/watch?v=iDrCjOY7Wak&t=909s)]*
 
 > <sup>[5](/bible/1-corinthians/3#v5)</sup> Who then is Paul, and who is Apollos, but ministers by whom ye believed, even as the Lord gave to every man?
->
-> <sup>[6](/bible/1-corinthians/3#v6)</sup> I have planted, Apollos watered; but God gave the increase.
->
-> <sup>[7](/bible/1-corinthians/3#v7)</sup> So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase.
->
-> <sup>[8](/bible/1-corinthians/3#v8)</sup> Now he that planteth and he that watereth are one: and every man shall receive his own reward according to his own labour.
->
-> <sup>[9](/bible/1-corinthians/3#v9)</sup> For we are labourers together with God: ye are God’s husbandry, ye are God’s building.
 
 - Even as the Lord gave to every man: Right, even as the Lord gave to every man. He put the spirit on them.
 
+> <sup>[6](/bible/1-corinthians/3#v6)</sup> I have planted, Apollos watered; but God gave the increase.
+
 - I have planted, Apollos watered; but God gave the increase: Right. Paul planted the original seed in Corinthians. We went over this yesterday. And then later on in Acts 18, Apollos came about. All right, it was sent to Corinth to build those brothers and those sisters up. Okay? But at the end of the day, neither Paul nor Apollos brought people into the congregation. It was the spirit of God that gave the increase.
+
+> <sup>[7](/bible/1-corinthians/3#v7)</sup> So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase.
+>
+> <sup>[8](/bible/1-corinthians/3#v8)</sup> Now he that planteth and he that watereth are one: and every man shall receive his own reward according to his own labour.
 
 - Now he that planteth and he that watereth are one: Right, we on the same accord. We brothers. We got the same mission.
 
@@ -164,14 +162,16 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 
     So at the end of the day the spirit of Christ is in us all to do this work.
 
+> <sup>[9](/bible/1-corinthians/3#v9)</sup> For we are labourers together with God: ye are God’s husbandry, ye are God’s building.
+
 
 **[1 Corinthians 3:8-9](/bible/1-corinthians/3#v8)**  *[[20:30](https://www.youtube.com/watch?v=iDrCjOY7Wak&t=1230s)]*
 
 > <sup>[8](/bible/1-corinthians/3#v8)</sup> Now he that planteth and he that watereth are one: and every man shall receive his own reward according to his own labour.
->
-> <sup>[9](/bible/1-corinthians/3#v9)</sup> For we are labourers together with God: ye are God’s husbandry, ye are God’s building.
 
 - Every man shall receive his own reward according to his own labour: Right. So you receive your reward according to your labor, the work you put in.
+
+> <sup>[9](/bible/1-corinthians/3#v9)</sup> For we are labourers together with God: ye are God’s husbandry, ye are God’s building.
 
 - For we are labourers together with God: So he that planteth and he that watereth are on one accord, and are fellow laborers with God. Okay? He that planteth, meaning the prophets that go out and teach, he that watereth, are on one accord with God. We doing God's work, God's bidding on this earth. That's what we doing. He going to get an increase at the end of the day.
 
@@ -244,14 +244,14 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 **[2 Timothy 2:19-21](/bible/2-timothy/2#v19)**  *[[28:21](https://www.youtube.com/watch?v=iDrCjOY7Wak&t=1701s)]*
 
 > <sup>[19](/bible/2-timothy/2#v19)</sup> Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity.
->
-> <sup>[20](/bible/2-timothy/2#v20)</sup> But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour.
->
-> <sup>[21](/bible/2-timothy/2#v21)</sup> If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master’s use, and prepared unto every good work.
 
 - Let every one that nameth the name of Christ depart from iniquity: Right. That's how you strive lawfully, by departing from iniquity. So, now when you skip down to chapter 2 verse 19 of Timothy, he said, "The foundation of God standeth sure, having this seal. Let him that nameth the name of Christ depart from iniquity." That's why he wrote to the Corinthian church and those leaders in Corinth, he said, "Look, I already laid the foundation which is Christ Jesus. But be careful how you build on that foundation." Meaning make sure you doing it lawfully, make sure you doing it for the love of the people, make sure you're striving to come out of your sins.
 
+> <sup>[20](/bible/2-timothy/2#v20)</sup> But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour.
+
 - Some to honour, and some to dishonour: Right. Some people amongst us, some people that call themselves leaders or want to be leaders, they don't want to build upon the foundation properly. Like the Apostle Paul talked about. They want to build upon the foundation their way, which is against the scriptures. I don't want to wear fringes. Oh, I'mma wear the tzitzit. Oh, I'mma wear a fitted cap while I'm teaching. Oh, I'mma wear a mitre while I'm teaching. I'mma wear a star of Remphan and call it the star of David. That's all cap. That's all crap. That's BS. That's not biblical. For real. That's not biblical.
+
+> <sup>[21](/bible/2-timothy/2#v21)</sup> If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master’s use, and prepared unto every good work.
 
 - If a man therefore purge himself from these, he shall be a vessel unto honour: That's why the Lord can't use some of these camps. That's why he can't use some of these brothers. Because they have become vessels unto dishonor. Why? Because they're earth and wood. They have not departed from iniquity. They're not striving lawfully. That's what they don't get. They need to go and read 2 Timothy chapter 2. Matter of fact, read both of the letters of Timothy. Paul telling Timothy how to be a leader, bro. How to lead. These men not willing to do that. Right?
 
@@ -259,20 +259,20 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 **[Matthew 7:23-27](/bible/matthew/7#v23)**  *[[31:20](https://www.youtube.com/watch?v=iDrCjOY7Wak&t=1880s)]*
 
 > <sup>[23](/bible/matthew/7#v23)</sup> And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.
->
-> <sup>[24](/bible/matthew/7#v24)</sup> Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:
->
-> <sup>[25](/bible/matthew/7#v25)</sup> And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock.
->
-> <sup>[26](/bible/matthew/7#v26)</sup> And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:
->
-> <sup>[27](/bible/matthew/7#v27)</sup> And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it.
 
 - I never knew you: depart from me, ye that work iniquity: Right. Christ said he going to tell those that claim that they prophesy in his name, depart from me, I never knew you, them that work iniquity. You work iniquity, get out of here. That's what the Lord is saying. Depart from me. You're not getting the kingdom. But watch this.
 
+> <sup>[24](/bible/matthew/7#v24)</sup> Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:
+
 - I will liken him unto a wise man, which built his house upon a rock: Right. That rock is Christ. We read it earlier. Therefore, whosoever heareth these sayings of mine, and doeth them, that's the will of God. That's the commandment. Whosoever keepeth the commandments, I will liken him unto a wise man, which built his house upon a rock.
 
+> <sup>[25](/bible/matthew/7#v25)</sup> And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock.
+
 - And it fell not: for it was founded upon a rock: So, this house is you and I. Built upon the foundation of Christ, keeping the commandments of God. And then when we do that, when the wind comes, meaning different doctrines, when the flood comes, when the rain comes, our trials and our tribulations come, we endure to the end. We able to make it through. Why? Because we built on a rock. We understand that the reason that we are alive is because Christ called us into this ministry, or else we would be in the world dead. We understand that. So, we get our feelings hurt sometimes, we get corrected, we get checked, but we suck it up like men. We suck it up like women, say, "Okay, you know what? Let me get myself together." Men and women of God, I mean. And put the BS to the side. Ain't got time for the BS and the back and forth.
+
+> <sup>[26](/bible/matthew/7#v26)</sup> And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:
+>
+> <sup>[27](/bible/matthew/7#v27)</sup> And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it.
 
 - And great was the fall of it: I'm telling you, when you fall away from this truth, that's a great fall. When you fall away from God's truth, and you go back into the world, that's a great fall. To one day be teaching that we the Israelites, we must keep the commandments, we must have a beard, we must command our household in authority, we must do the work of the Lord, we must go out here and travel to foreign countries, put our life on the line for this gospel. Then in the midst of a 2 years, no beard, you back in the church, you back celebrating Christmas, you back celebrating Thanksgiving and Halloween, and got your kids dressing like Superman and Spider-Man, all that stuff like that.
 
@@ -298,17 +298,17 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 
 **[Sirach 10:1-3](/bible/sirach/10#v1)**  *[[36:35](https://www.youtube.com/watch?v=iDrCjOY7Wak&t=2195s)]*
 
+- A wise judge will instruct his people... As the judge of the people is himself, so are his officers: Right. So if you the type of leader that you're on time and you always on time, you ain't no hypocrite. You always early. The men around you are going to be convicted and say, "You know what? Cap always here on time. And he always getting on us about being late. And we getting corrected for being late. And we getting wrote up for being late." Whatever the case may be. Brothers going to start to take on your spirit.
+
 > <sup>[1](/bible/sirach/10#v1)</sup> A wise judge will instruct his people; and the government of a prudent man is well ordered.
 >
 > <sup>[2](/bible/sirach/10#v2)</sup> As the judge of the people is himself, so are his officers; and what manner of man the ruler of the city is, such are all they that dwell therein.
->
-> <sup>[3](/bible/sirach/10#v3)</sup> An unwise king destroyeth his people; but through the prudence of them which are in authority the city shall be inhabited.
-
-- A wise judge will instruct his people... As the judge of the people is himself, so are his officers: Right. So if you the type of leader that you're on time and you always on time, you ain't no hypocrite. You always early. The men around you are going to be convicted and say, "You know what? Cap always here on time. And he always getting on us about being late. And we getting corrected for being late. And we getting wrote up for being late." Whatever the case may be. Brothers going to start to take on your spirit.
 
 - So are his officers: I give you an example. Deacon Eythan, I'm going to use Deacon Eythan for an example cuz it just came to my mind. Captain Joel, Officer Jedidiah, Officer Abednego, all the men that he got on the show with him, Our Hidden History. All those men are heavy into history. But telling you, it's because of Deacon. Deacon is heavy into history, heavy into the books. So, the men around him take on that spirit. Now, I'm with Officer Jezreel and shoot, let me not know something. "Hey, Officer Jezreel, what's that book such and such?" "Oh, that's such and such, page such and such." His mind is amazing. I'm like, "Yo, this brother's mind is amazing. How the hell you remember that?" But, Captain Joel the same way. Captain Joel, Deacon Isaac, Bishop Nathanyel, those are special spirits that the Lord has given the discernment and understanding as it pertains to history. But, I'm telling you it's because of what Deacon Eythan does, the example that he sets. You understand?
 
 - A wise judge will instruct his people. As is the judge, so are his officers: If you late and never on time, if you slothful, if you skip camp 101, if you don't eat right, the men under you going to take the same spirit on. If you're not festive, you don't enjoy the feast days, you just sit around and mope, the men around you going to do the same thing. If you a liar, if you're covetous, if you're small-minded with no vision, the men around you going to be the same. Men take on the spirit of their leaders. If the leader a go-getter, they going to be a go-getter. If the leader mamby-pamby, the men around it goes, "Well, I guess it ain't no," until the Lord remove that spirit and bring in a spirit that come in, that fire the men up in the Lord, then the men get up and say, "Oh, shoot. Hey, we got to do this work. The hell we been doing these last two three years?" So, as is the judge, so are his officers.
+
+> <sup>[3](/bible/sirach/10#v3)</sup> An unwise king destroyeth his people; but through the prudence of them which are in authority the city shall be inhabited.
 
 - An unwise king destroyeth his people; but through the prudence of them which are in authority the city shall be inhabited: Right. It said, "Through the prudence of them that are in authority, the city shall be inhabited, but an unwise king destroyeth his people." That's why the Bible says, go back to 1 Timothy 3. This is yesterday we read this. It said, an unwise king will destroy his people. This is what the Apostle Paul saying in 1 Corinthians. Be careful how you build upon that foundation. You better strive lawfully.
 
@@ -361,10 +361,10 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 **[1 Peter 4:12-13](/bible/1-peter/4#v12)**  *[[44:32](https://www.youtube.com/watch?v=iDrCjOY7Wak&t=2672s)]*
 
 > <sup>[12](/bible/1-peter/4#v12)</sup> Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you:
->
-> <sup>[13](/bible/1-peter/4#v13)</sup> But rejoice, inasmuch as ye are partakers of Christ’s sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy.
 
 - Think it not strange concerning the fiery trial which is to try you: Right. He said, "Don't think it strange concerning the fiery trial which is to try you as though some strange thing happened unto you." It says, "but rejoice in as much as you are partakers of Christ's suffering." So, it's talking about suffering. And why would you suffer? Read verse one.
+
+> <sup>[13](/bible/1-peter/4#v13)</sup> But rejoice, inasmuch as ye are partakers of Christ’s sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy.
 
 
 **[1 Peter 4:1](/bible/1-peter/4#v1)**  *[[45:18](https://www.youtube.com/watch?v=iDrCjOY7Wak&t=2718s)]*
@@ -378,21 +378,21 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 
 **[1 Corinthians 3:12-16](/bible/1-corinthians/3#v12)**  *[[49:54](https://www.youtube.com/watch?v=iDrCjOY7Wak&t=2994s)]*
 
+- Every man's work shall be made manifest... the fire shall try every man's work of what sort it is: So, everybody going to get tried and it's going to prove if your leadership actually prepared you for the tough times to come.
+
 > <sup>[12](/bible/1-corinthians/3#v12)</sup> Now if any man build upon this foundation gold, silver, precious stones, wood, hay, stubble;
 >
 > <sup>[13](/bible/1-corinthians/3#v13)</sup> Every man’s work shall be made manifest: for the day shall declare it, because it shall be revealed by fire; and the fire shall try every man’s work of what sort it is.
 >
 > <sup>[14](/bible/1-corinthians/3#v14)</sup> If any man’s work abide which he hath built thereupon, he shall receive a reward.
->
-> <sup>[15](/bible/1-corinthians/3#v15)</sup> If any man’s work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire.
->
-> <sup>[16](/bible/1-corinthians/3#v16)</sup> Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?
-
-- Every man's work shall be made manifest... the fire shall try every man's work of what sort it is: So, everybody going to get tried and it's going to prove if your leadership actually prepared you for the tough times to come.
 
 - If any man's work abide which he hath built thereupon, he shall receive a reward: And when a man go through his trial, if he bounce back, that mean that the leader that taught him prepared him for the tough times to come. Prepared him for the trial and tribulations. And he was able to win. The Lord chastised him. He went through that fire, this brother was able to overcome it. All praises to the most high. You understand? And that leader will receive a reward for that.
 
+> <sup>[15](/bible/1-corinthians/3#v15)</sup> If any man’s work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire.
+
 - If any man's work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire: Say a leader doesn't properly prepare a brother for what's to come, or he set bad habits for the brother. And when a brother trial come, the brother fail his trial and he leave his truth. But the leader that taught him, he don't leave his truth. He take his judgment, he go through his tribulation, whatever it may be, and he bounce back. So, he's still around. But what he built got burned. So, he suffered a loss because it got burned. But he himself is still going to be saved even though he get tried by fire. That's what that's saying.
+
+> <sup>[16](/bible/1-corinthians/3#v16)</sup> Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?
 
 - Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?: So, we always use that in an individual sense, meaning you are the temple of God. Because you are. You, me, our body is God's temple. All right? He dwells in us. We shouldn't be smoking no weed. We shouldn't be eating unclean food. We shouldn't be having an improper diet. We shouldn't be doing cocaine. We shouldn't be consuming too much alcohol. That's all defiling God's temple on a physical level. And let me give you a few scriptures on the physical, then we'll deal with the spiritual real quick.
 
@@ -400,20 +400,20 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 **[Sirach 31:16-20](/bible/sirach/31#v16)**  *[[52:11](https://www.youtube.com/watch?v=iDrCjOY7Wak&t=3131s)]*
 
 > <sup>[16](/bible/sirach/31#v16)</sup> Eat as it becometh a man, those things which are set before thee; and devour note, lest thou be hated.
->
-> <sup>[17](/bible/sirach/31#v17)</sup> Leave off first for manners’ sake; and be not unsatiable, lest thou offend.
->
-> <sup>[18](/bible/sirach/31#v18)</sup> When thou sittest among many, reach not thine hand out first of all.
->
-> <sup>[19](/bible/sirach/31#v19)</sup> A very little is sufficient for a man well nurtured, and he fetcheth not his wind short upon his bed.
->
-> <sup>[20](/bible/sirach/31#v20)</sup> Sound sleep cometh of moderate eating: he riseth early, and his wits are with him: but the pain of watching, and choler, and pangs of the belly, are with an unsatiable man.
 
 - Eat as it becometh a man, those things which are set before thee; and devour not, lest thou be hated: Right. Eat as it becometh a man those things which are set before thee and devour not lest thou be hated. Meaning don't overindulge in food. All right? Some people views food as a coping mechanism to cope with their stress and things that they're going through. But that's not what food is for. Food is for the nourishing of the body. Okay? The nurturing of the body to fuel you so that you will be able to have enough energy to get through your day.
 
 - Devour not: But there are times where you won't eat for two or three days and have more energy than when you do eat. It's called fasting. Sometimes when you get to a fast, especially like at the end of the first day of the fast, you start looking around like, "The only reason I'm eating is because the fast is technically over, but I could literally keep going." Like sometimes you feel like, "Man, I can keep going. I can go another day. Cuz I'm not even hungry right now." That's the beautiful thing about fasting, especially when you get used to it. But, let me say eat to live. Don't live to eat. That's part of defiling the temple.
 
+> <sup>[17](/bible/sirach/31#v17)</sup> Leave off first for manners’ sake; and be not unsatiable, lest thou offend.
+>
+> <sup>[18](/bible/sirach/31#v18)</sup> When thou sittest among many, reach not thine hand out first of all.
+>
+> <sup>[19](/bible/sirach/31#v19)</sup> A very little is sufficient for a man well nurtured, and he fetcheth not his wind short upon his bed.
+
 - A very little is sufficient for a man well nurtured: Right. If you well nurtured, you don't need that much.
+
+> <sup>[20](/bible/sirach/31#v20)</sup> Sound sleep cometh of moderate eating: he riseth early, and his wits are with him: but the pain of watching, and choler, and pangs of the belly, are with an unsatiable man.
 
 - Sound sleep cometh of moderate eating: he riseth early, and his wits are with him: but the pain of watching, and choler, and pangs of the belly, are with an unsatiable man: Right. If you're unsatiable, you're going to have pains in your belly. You're going to have drowsiness. You're not going to be able to properly think when you wake up in the morning. Your wits not going to be with you. You're going to have to, "Don't talk to me. I got to have my coffee. I ain't have my coffee yet." It's like coffee and the caffeine is not meant to counteract the night that you had before. So, you stayed up late and got drunk or whatever it was, drinking too much, eating too much, and you feel a certain type of way where you can't get up and go to work. So, when you get up the next morning, you try to use the coffee to combat your lifestyle or the things that you did the night before.
 
@@ -476,10 +476,10 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 **[1 Corinthians 3:17-18](/bible/1-corinthians/3#v17)**  *[[1:01:28](https://www.youtube.com/watch?v=iDrCjOY7Wak&t=3688s)]*
 
 > <sup>[17](/bible/1-corinthians/3#v17)</sup> If any man defile the temple of God, him shall God destroy; for the temple of God is holy, which temple ye are.
->
-> <sup>[18](/bible/1-corinthians/3#v18)</sup> Let no man deceive himself. If any man among you seemeth to be wise in this world, let him become a fool, that he may be wise.
 
 - For the temple of God is holy, which temple ye are: Which temple ye are.
+
+> <sup>[18](/bible/1-corinthians/3#v18)</sup> Let no man deceive himself. If any man among you seemeth to be wise in this world, let him become a fool, that he may be wise.
 
 - If any man among you seemeth to be wise in this world, let him become a fool, that he may be wise: Right. If you want to be wise in this world, you must become a fool that you may become wise. Watch this. Go back two chapters. Go back to chapter 1 verse 20.
 
@@ -519,10 +519,6 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 **[1 Corinthians 3:19-21](/bible/1-corinthians/3#v19)**  *[[1:07:39](https://www.youtube.com/watch?v=iDrCjOY7Wak&t=4059s)]*
 
 > <sup>[19](/bible/1-corinthians/3#v19)</sup> For the wisdom of this world is foolishness with God. For it is written, He taketh the wise in their own craftiness.
->
-> <sup>[20](/bible/1-corinthians/3#v20)</sup> And again, The Lord knoweth the thoughts of the wise, that they are vain.
->
-> <sup>[21](/bible/1-corinthians/3#v21)</sup> Therefore let no man glory in men. For all things are yours;
 
 - For the wisdom of this world is foolishness with God: Right. When people try to run the language, "Oh, I need to go to see what that says in the Septuagint. Let me go to the Hebrew translation. Let me read one scripture in five different translations until I see what I perceive to be correct to make these Israelites seem wrong." It's the same spirit. It's the same spirit. The wisdom of this world is foolishness with God. Just the basic things of the scriptures will always confound the foolishness of these people. They'll always be confounded. They will not be able to stand before you.
 
@@ -532,7 +528,11 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 
 - He taketh the wise in their own craftiness: And that's what you're going to see happen to a lot of these people that are always following us and they're trying to slander us and trying to speak evil of us. They're going to be taken in their own craftiness. It's just a matter of time for the Lord to, but the Lord does it, you know, and I'm going to applaud when he does.
 
+> <sup>[20](/bible/1-corinthians/3#v20)</sup> And again, The Lord knoweth the thoughts of the wise, that they are vain.
+
 - The Lord knoweth the thoughts of the wise, that they are vain: God knoweth the thoughts of the wise that they are vain, right? That's when you read it like in Psalms 2 and in Acts 4, it says, "Why do the heathen rage and the people imagine a vain thing?" Those that consider themselves wise and think that they know what's taking place in the spiritual realm have no idea. That's what the Bible is telling them. They have no idea. They don't know what's going on. They don't know what's taking place. God is doing something excellent on this earth by raising up the Israelites. Israel United in Christ will not be stopped by one fat apologetic Edomite that don't know the Bible and does a podcast while his mom is painting his toenails. You'll never stop this. It will never stop.
+
+> <sup>[21](/bible/1-corinthians/3#v21)</sup> Therefore let no man glory in men. For all things are yours;
 
 - Therefore let no man glory in men. For all things are yours: Right. Let no man glory in men for all things are yours. What does it mean don't glory in men? Go back two chapters, excuse me. Read 29 through 31. What does it mean let no man glory in man? Watch this.
 
@@ -564,18 +564,18 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 **[Isaiah 61:5-8](/bible/isaiah/61#v5)**  *[[1:13:15](https://www.youtube.com/watch?v=iDrCjOY7Wak&t=4395s)]*
 
 > <sup>[5](/bible/isaiah/61#v5)</sup> And strangers shall stand and feed your flocks, and the sons of the alien shall be your plowmen and your vinedressers.
->
-> <sup>[6](/bible/isaiah/61#v6)</sup> But ye shall be named the Priests of the Lord: men shall call you the Ministers of our God: ye shall eat the riches of the Gentiles, and in their glory shall ye boast yourselves.
->
-> <sup>[7](/bible/isaiah/61#v7)</sup> For your shame ye shall have double; and for confusion they shall rejoice in their portion: therefore in their land they shall possess the double: everlasting joy shall be unto them.
->
-> <sup>[8](/bible/isaiah/61#v8)</sup> For I the Lord love judgment, I hate robbery for burnt offering; and I will direct their work in truth, and I will make an everlasting covenant with them.
 
 - And strangers shall stand and feed your flocks, and the sons of the alien shall be your plowmen and your vinedressers: Right. This is going into the other nations. They going to work for us. They going to be our slaves.
+
+> <sup>[6](/bible/isaiah/61#v6)</sup> But ye shall be named the Priests of the Lord: men shall call you the Ministers of our God: ye shall eat the riches of the Gentiles, and in their glory shall ye boast yourselves.
 
 - But ye shall be named the Priests of the LORD: But the Israelites shall be named the priest of the Lord.
 
 - Ye shall eat the riches of the Gentiles, and in their glory shall ye boast yourselves: Uh-oh. Yeah, all this stuff they stole. We don't want no reparations. We want everything that y'all took. It's coming back. Watch this.
+
+> <sup>[7](/bible/isaiah/61#v7)</sup> For your shame ye shall have double; and for confusion they shall rejoice in their portion: therefore in their land they shall possess the double: everlasting joy shall be unto them.
+>
+> <sup>[8](/bible/isaiah/61#v8)</sup> For I the Lord love judgment, I hate robbery for burnt offering; and I will direct their work in truth, and I will make an everlasting covenant with them.
 
 - For I the LORD love judgment: You hear that? Remember he said he glorifies in judgment and righteousness? It said, "I the Lord love judgment."
 
@@ -589,8 +589,6 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 > <sup>[21](/bible/1-corinthians/3#v21)</sup> Therefore let no man glory in men. For all things are yours;
 >
 > <sup>[22](/bible/1-corinthians/3#v22)</sup> Whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are yours;
->
-> <sup>[23](/bible/1-corinthians/3#v23)</sup> And ye are Christ’s; and Christ is God’s.
 
 - Whether Paul, or Apollos, or Cephas, or the world: Wait a minute. Woah, woah, woah, woah. Woah. It says, whether Paul or Apollos or Cephas or the world. So, he said don't glory in man. Okay? Don't glory in Paul. Let's go back to what we've been reading this entire time. It's a whole vein of this chapter. Cuz they were dealing with that spirit of trying to exalt one leader next to the other. They had divisions amongst them. I'm of Paul. I'm of Apollos. That's what the whole thing is going into.
 
@@ -605,6 +603,8 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 - All are yours (after Isaiah 54:3): Woah, woah, woah, woah, woah. Thy seed shall inherit the Gentiles. So the scripture said the heathen going to be our inheritance. That we may inherit the Gentiles. They going to be our possession, right? It look like, I think he left the chat. I think he got too hot for me. The scriptures. He's ignoring me. He won't debate me.
 
 - All are yours (after Amos 9:12): Right, all you then and other nations that call yourself Christians or Jews, you will be a possession to the Israelites. The Israelites will possess you according to the scriptures. That's why the scripture said he that leadeth into captivity shall go into captivity. He that killeth with the sword must be killed with the sword. Here's the patience and faith of the saints.
+
+> <sup>[23](/bible/1-corinthians/3#v23)</sup> And ye are Christ’s; and Christ is God’s.
 
 - And ye are Christ's; and Christ is God's: Right, you are Christ's and Christ is God's. That mean they not the same. God and Christ are not the same. God the Father is the God to, which is Jesus Christ.
 

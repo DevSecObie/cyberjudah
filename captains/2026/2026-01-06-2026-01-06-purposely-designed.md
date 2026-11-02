@@ -38,12 +38,12 @@ tags: ["15 Minutes w/ The Captains", "anger", "faith", "mercy", "purpose", "the-
 **[Proverbs 16:4-5](/bible/proverbs/16#v4)**  *[[2:12](https://www.youtube.com/watch?v=3kRYOKwAaLU&t=132s)]*
 
 > <sup>[4](/bible/proverbs/16#v4)</sup> The Lord hath made all things for himself: yea, even the wicked for the day of evil.
->
-> <sup>[5](/bible/proverbs/16#v5)</sup> Every one that is proud in heart is an abomination to the Lord: though hand join in hand, he shall not be unpunished.
 
 - The Lord hath made all things for himself: so the Lord hath made all things for himself. Watch this.
 
 - yea, even the wicked for the day of evil: even the what? Even the wicked for the day of evil. So the Lord made all things for himself, even the wicked for the day of evil.
+
+> <sup>[5](/bible/proverbs/16#v5)</sup> Every one that is proud in heart is an abomination to the Lord: though hand join in hand, he shall not be unpunished.
 
 - though hand join in hand, he shall not be unpunished: although you want to save and try to interlock with your oppressor, it says he shall not be unpunished. They're going to get punished.
 
@@ -58,22 +58,22 @@ tags: ["15 Minutes w/ The Captains", "anger", "faith", "mercy", "purpose", "the-
 **[Romans 9:19-22](/bible/romans/9#v19)**  *[[4:31](https://www.youtube.com/watch?v=3kRYOKwAaLU&t=271s)]*
 
 > <sup>[19](/bible/romans/9#v19)</sup> Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?
->
-> <sup>[20](/bible/romans/9#v20)</sup> Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?
->
-> <sup>[21](/bible/romans/9#v21)</sup> Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?
->
-> <sup>[22](/bible/romans/9#v22)</sup> What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:
 
 - Why doth he yet find fault? For who hath resisted his will: so you would think, well, why do you find fault? So if God created the wicked, why does he find fault?
+
+> <sup>[20](/bible/romans/9#v20)</sup> Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?
 
 - Nay but, O man, who art thou that repliest against God: who are you to reply against God?
 
 - Shall the thing formed say to him that formed it, Why hast thou made me thus: so now the nations can't turn to God, the so-called white man can't turn to God and say, Hey, why you make me to be evil?
 
+> <sup>[21](/bible/romans/9#v21)</sup> Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?
+
 - Hath not the potter power over the clay: the potter has power over the clay.
 
 - and another unto dishonour: right? Because he created, like we read earlier in verse 13, he says Jacob I love, Esau I hate.
+
+> <sup>[22](/bible/romans/9#v22)</sup> What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:
 
 - endured with much longsuffering the vessels of wrath: he endured with much long suffering the vessels of wrath. God created them to channel his wrath through.
 
@@ -97,18 +97,18 @@ tags: ["15 Minutes w/ The Captains", "anger", "faith", "mercy", "purpose", "the-
 **[Wisdom of Solomon 3:8-10](/bible/wisdom-of-solomon/3#v8)**  *[[7:28](https://www.youtube.com/watch?v=3kRYOKwAaLU&t=448s)]*
 
 > <sup>[8](/bible/wisdom-of-solomon/3#v8)</sup> They shall judge the nations, and have dominion over the people, and their Lord shall reign for ever.
->
-> <sup>[9](/bible/wisdom-of-solomon/3#v9)</sup> They that put their trust in him shall understand the truth: and such as be faithful in love shall abide with him: for grace and mercy is to his saints, and he hath care for his elect.
->
-> <sup>[10](/bible/wisdom-of-solomon/3#v10)</sup> But the ungodly shall be punished according to their own imaginations, which have neglected the righteous, and forsaken the Lord.
 
 - and their Lord shall reign for ever: right? It's the Israelites.
+
+> <sup>[9](/bible/wisdom-of-solomon/3#v9)</sup> They that put their trust in him shall understand the truth: and such as be faithful in love shall abide with him: for grace and mercy is to his saints, and he hath care for his elect.
 
 - and such as be faithful in love shall abide with him: such that be faithful in keeping the commandments.
 
 - for grace and mercy is to his saints: grace and mercy, those vessels of honor, are to his saints.
 
 - and he hath care for his elect: he has care for his elect. The elect of God is what he loves and never hates.
+
+> <sup>[10](/bible/wisdom-of-solomon/3#v10)</sup> But the ungodly shall be punished according to their own imaginations, which have neglected the righteous, and forsaken the Lord.
 
 - But the ungodly shall be punished: the ungodly shall be punished. Remember we read in Romans 9, it says the vessels of wrath fitted to destruction. So he has certain things created for his exact purpose. That's the point.
 
@@ -129,14 +129,14 @@ tags: ["15 Minutes w/ The Captains", "anger", "faith", "mercy", "purpose", "the-
 **[2 Peter 1:1-3](/bible/2-peter/1#v1)**  *[[10:43](https://www.youtube.com/watch?v=3kRYOKwAaLU&t=643s)]*
 
 > <sup>[1](/bible/2-peter/1#v1)</sup> Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:
->
-> <sup>[2](/bible/2-peter/1#v2)</sup> Grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord,
->
-> <sup>[3](/bible/2-peter/1#v3)</sup> According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue:
 
 - to them that have obtained like precious faith with us: to those who have obtained like precious faith with us, with us the Israelites.
 
+> <sup>[2](/bible/2-peter/1#v2)</sup> Grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord,
+
 - Grace and peace be multiplied unto you: grace and mercy be multiplied unto you.
+
+> <sup>[3](/bible/2-peter/1#v3)</sup> According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue:
 
 - According as his divine power hath given unto us all things that pertain unto life and godliness: according as his divine power have given us all things. Divine purpose. He created us for righteousness.
 
@@ -153,16 +153,16 @@ tags: ["15 Minutes w/ The Captains", "anger", "faith", "mercy", "purpose", "the-
 **[Wisdom of Solomon 11:24-26](/bible/wisdom-of-solomon/11#v24)**  *[[12:23](https://www.youtube.com/watch?v=3kRYOKwAaLU&t=743s)]*
 
 > <sup>[24](/bible/wisdom-of-solomon/11#v24)</sup> For thou lovest all the things that are, and abhorrest nothing which thou hast made: for never wouldest thou have made any thing, if thou hadst hated it.
->
-> <sup>[25](/bible/wisdom-of-solomon/11#v25)</sup> And how could any thing have endured, if it had not been thy will? or been preserved, if not called by thee?
->
-> <sup>[26](/bible/wisdom-of-solomon/11#v26)</sup> But thou sparest all: for they are thine, O Lord, thou lover of souls.
 
 - and abhorrest nothing which thou hast made: and you don't hate anything that you made.
+
+> <sup>[25](/bible/wisdom-of-solomon/11#v25)</sup> And how could any thing have endured, if it had not been thy will? or been preserved, if not called by thee?
 
 - And how could any thing have endured, if it had not been thy will: that's the point. How could anything have endured if it had not been thy will? So like we read, he created the evil, the wicked, and all that for his sword. How can we be put on slave ships if that wasn't his will? He said in Deuteronomy 28:68, You shall go into Egypt again with ships. It was God's will to punish us for our evil.
 
 - or been preserved, if not called by thee: nothing could have been preserved if it wasn't called by him. Think about it. How did they ship millions of us across the planet earth and we were preserved through that? That was the Lord's will too.
+
+> <sup>[26](/bible/wisdom-of-solomon/11#v26)</sup> But thou sparest all: for they are thine, O Lord, thou lover of souls.
 
 - for they are thine, O Lord, thou lover of souls: they are thine. Who is thine? The elect of God, the Israelites.
 

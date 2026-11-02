@@ -37,19 +37,19 @@ Reading from An article on African-American railroad workers  *[[21:27](https://
 
 **[Isaiah 60:10-12](/bible/isaiah/60#v10)**  *[[37:42](https://www.youtube.com/watch?v=DO6KijJECVI&t=2262s)]*
 
-> <sup>[10](/bible/isaiah/60#v10)</sup> And the sons of strangers shall build up thy walls, and their kings shall minister unto thee: for in my wrath I smote thee, but in my favour have I had mercy on thee.
->
-> <sup>[11](/bible/isaiah/60#v11)</sup> Therefore thy gates shall be open continually; they shall not be shut day nor night; that men may bring unto thee the forces of the Gentiles, and that their kings may be brought.
->
-> <sup>[12](/bible/isaiah/60#v12)</sup> For the nation and kingdom that will not serve thee shall perish; yea, those nations shall be utterly wasted.
-
 - When our people left Egypt we didn't leave empty-handed, and in prophecy it's going to be the same thing again. For them to turn over all the money would make us equal to them, and that's something they're not going to allow to happen.
 
 - The sons of strangers are the other nations, particularly the Europeans who took us into slavery, and beyond, because we were enslaved all over the world. They're going to build up our walls; they're going to build our kingdom.
 
+> <sup>[10](/bible/isaiah/60#v10)</sup> And the sons of strangers shall build up thy walls, and their kings shall minister unto thee: for in my wrath I smote thee, but in my favour have I had mercy on thee.
+
 - In my wrath I smote thee: the Lord put his hands on the Israelites, the so-called black Americans, West Indians, Haitians and so-called Hispanics.
 
 - Thy gates shall be open continually so that men may bring the forces of the Gentiles: they're going to be bringing back all the money, the jewelry, all the things they stole. And the nations that did this to you are going to serve you and recognize you as the top nation on earth. This is the gospel.
+
+> <sup>[11](/bible/isaiah/60#v11)</sup> Therefore thy gates shall be open continually; they shall not be shut day nor night; that men may bring unto thee the forces of the Gentiles, and that their kings may be brought.
+>
+> <sup>[12](/bible/isaiah/60#v12)</sup> For the nation and kingdom that will not serve thee shall perish; yea, those nations shall be utterly wasted.
 
 
 **[Isaiah 42:22](/bible/isaiah/42#v22)**  *[[47:09](https://www.youtube.com/watch?v=DO6KijJECVI&t=2829s)]*
@@ -84,13 +84,13 @@ Reading from An article on African-American railroad workers  *[[21:27](https://
 
 **[Micah 2:1-2](/bible/micah/2#v1)**  *[[1:00:08](https://www.youtube.com/watch?v=DO6KijJECVI&t=3608s)]*
 
-> <sup>[1](/bible/micah/2#v1)</sup> Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand.
->
-> <sup>[2](/bible/micah/2#v2)</sup> And they covet fields, and take them by violence; and houses, and take them away: so they oppress a man and his house, even a man and his heritage.
-
 - Woe means destruction to them that devise sin, a particular people: they wake up every day thinking about new ways to keep us in that sin.
 
+> <sup>[1](/bible/micah/2#v1)</sup> Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand.
+
 - It is in the power of their hand: they run the government and control laws and bills, even from behind the scenes.
+
+> <sup>[2](/bible/micah/2#v2)</sup> And they covet fields, and take them by violence; and houses, and take them away: so they oppress a man and his house, even a man and his heritage.
 
 - They covet fields and take them by violence: everywhere they went they saw land that wasn't theirs and took it, destroying our people, the Native American Indians. There were already houses, reservoirs and sewer systems here when they came.
 
@@ -214,21 +214,21 @@ Reading from An article on African-American railroad workers  *[[21:27](https://
 
 **[Psalms 58:3-6](/bible/psalms/58#v3)**  *[[1:53:42](https://www.youtube.com/watch?v=DO6KijJECVI&t=6822s)]*
 
-> <sup>[3](/bible/psalms/58#v3)</sup> The wicked are estranged from the womb: they go astray as soon as they be born, speaking lies.
->
-> <sup>[4](/bible/psalms/58#v4)</sup> Their poison is like the poison of a serpent: they are like the deaf adder that stoppeth her ear;
->
-> <sup>[5](/bible/psalms/58#v5)</sup> Which will not hearken to the voice of charmers, charming never so wisely.
->
-> <sup>[6](/bible/psalms/58#v6)</sup> Break their teeth, O God, in their mouth: break out the great teeth of the young lions, O Lord.
-
 - If this entity of people had a conscience this thing might work, but God knows what he made: they go astray as soon as they be born, speaking lies.
 
 - A hundred years ago the signs said I am a man; today we're saying black lives matter. We've been trying to talk to this people for years, and the pattern is lies and broken treaties.
 
+> <sup>[3](/bible/psalms/58#v3)</sup> The wicked are estranged from the womb: they go astray as soon as they be born, speaking lies.
+>
+> <sup>[4](/bible/psalms/58#v4)</sup> Their poison is like the poison of a serpent: they are like the deaf adder that stoppeth her ear;
+
 - Like the deaf adder: you cannot reason with this people, you cannot vote your way out with this people. They will not hearken no matter how sweetly or craftily we talk.
 
 - God made this entity to punish you for breaking his laws and put them over you for a time. Your exit ticket is to keep his law.
+
+> <sup>[5](/bible/psalms/58#v5)</sup> Which will not hearken to the voice of charmers, charming never so wisely.
+>
+> <sup>[6](/bible/psalms/58#v6)</sup> Break their teeth, O God, in their mouth: break out the great teeth of the young lions, O Lord.
 
 
 **[Obadiah 1:5-6](/bible/obadiah/1#v5)**  *[[1:56:08](https://www.youtube.com/watch?v=DO6KijJECVI&t=6968s)]*

@@ -36,14 +36,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "sabbath"]
 **[Luke 6:1-3](/bible/luke/6#v1)**  *[[7:16](https://www.youtube.com/watch?v=uNeQjopOUfk&t=436s)]*
 
 > <sup>[1](/bible/luke/6#v1)</sup> And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing them in their hands.
->
-> <sup>[2](/bible/luke/6#v2)</sup> And certain of the Pharisees said unto them, Why do ye that which is not lawful to do on the sabbath days?
->
-> <sup>[3](/bible/luke/6#v3)</sup> And Jesus answering them said, Have ye not read so much as this, what David did, when himself was an hungred, and they which were with him;
 
 - And did eat, rubbing them in their hands: You know how Jake do. We eating, they rubbing their hands going through the field. You know, you got to rub the corn off there. And so they talking with Christ.
 
+> <sup>[2](/bible/luke/6#v2)</sup> And certain of the Pharisees said unto them, Why do ye that which is not lawful to do on the sabbath days?
+
 - And certain of the Pharisees said unto them: Hold up, what? Certain of the Pharisees. Every time you turn around, you doing good works, you doing something, haters got to come out of nowhere. So the Pharisees come out. What they talking about?
+
+> <sup>[3](/bible/luke/6#v3)</sup> And Jesus answering them said, Have ye not read so much as this, what David did, when himself was an hungred, and they which were with him;
 
 - Why do ye that which is not lawful to do on the sabbath days? And Jesus answering them said: So they came and accused Christ, said hold on, hold on, you doing unlawful activity on the Sabbath. Let's see. Let's go to the law concerning going through the field of corn. Let's see if Christ was out of order, or was this slander. Give me Deuteronomy 23:2, Deuteronomy chapter 23:2.
 
@@ -62,12 +62,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "sabbath"]
 **[Leviticus 19:9-10](/bible/leviticus/19#v9)**  *[[9:30](https://www.youtube.com/watch?v=uNeQjopOUfk&t=570s)]*
 
 > <sup>[9](/bible/leviticus/19#v9)</sup> And when ye reap the harvest of your land, thou shalt not wholly reap the corners of thy field, neither shalt thou gather the gleanings of thy harvest.
->
-> <sup>[10](/bible/leviticus/19#v10)</sup> And thou shalt not glean thy vineyard, neither shalt thou gather every grape of thy vineyard; thou shalt leave them for the poor and stranger: I am the Lord your God.
 
 - Thou shalt not wholly reap the corners of thy field: So don't go like Esau. When you see Esau, if you ever look at their industrial agriculture, they get everything up off the field. They don't leave a section undone, understand. They pick every ear corn in that field.
 
 - Neither shalt thou gather the gleanings of thy harvest: So you supposed to leave something.
+
+> <sup>[10](/bible/leviticus/19#v10)</sup> And thou shalt not glean thy vineyard, neither shalt thou gather every grape of thy vineyard; thou shalt leave them for the poor and stranger: I am the Lord your God.
 
 - Thou shalt leave them for the poor and stranger: Thou shalt do what? Leave them for the poor and stranger. I am the Lord your God. So now go back to Deuteronomy 23 and 25, and then we're going to go back to Luke 6:1. So let's read Deuteronomy 23 and 25, we understand what's going on here.
 
@@ -86,12 +86,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "sabbath"]
 **[Luke 6:1-2](/bible/luke/6#v1)**  *[[11:45](https://www.youtube.com/watch?v=uNeQjopOUfk&t=705s)]*
 
 > <sup>[1](/bible/luke/6#v1)</sup> And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing them in their hands.
->
-> <sup>[2](/bible/luke/6#v2)</sup> And certain of the Pharisees said unto them, Why do ye that which is not lawful to do on the sabbath days?
 
 - And his disciples plucked the ears of corn: Right, so we read Deuteronomy 23 and 35, we read Leviticus 19:9 and 10. This was a lawful activity, but this is they was trying to accuse him of.
 
 - Why do ye that which is not lawful to do on the sabbath days? So they was accused them working. So now let's get the law on the Sabbath. This was the accusation. Give me Exodus 20 and 10, Exodus chapter 20 verse 10.
+
+> <sup>[2](/bible/luke/6#v2)</sup> And certain of the Pharisees said unto them, Why do ye that which is not lawful to do on the sabbath days?
 
 
 **[Exodus 20:10](/bible/exodus/20#v10)**  *[[11:45](https://www.youtube.com/watch?v=uNeQjopOUfk&t=705s)]*
@@ -113,14 +113,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "sabbath"]
 **[John 11:47-48](/bible/john/11#v47)**  *[[14:04](https://www.youtube.com/watch?v=uNeQjopOUfk&t=844s)]*
 
 > <sup>[47](/bible/john/11#v47)</sup> Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles.
->
-> <sup>[48](/bible/john/11#v48)</sup> If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation.
 
 - Then gathered the chief priests and the Pharisees a council: So we dealing with the Pharisees. Watch this.
 
 - What do we? So what we going to do, man? They making reaction videos, they doing the blitz, you understand. They got the church blitz, they teaching on every corner. What we got to do to shut them down?
 
 - For this man doeth many miracles: So these brothers out there getting people out the church, they getting people to understand the scriptures.
+
+> <sup>[48](/bible/john/11#v48)</sup> If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation.
 
 - If we let him thus alone, all men will believe on him: Man, if we leave Christ alone, or today we leave the resurrection of the 12 tribes alone. Watch this: all men will believe on him. And that's what it's about, because they want to get paid, like it says in Isaiah.
 
@@ -132,10 +132,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "sabbath"]
 > <sup>[2](/bible/luke/6#v2)</sup> And certain of the Pharisees said unto them, Why do ye that which is not lawful to do on the sabbath days?
 >
 > <sup>[3](/bible/luke/6#v3)</sup> And Jesus answering them said, Have ye not read so much as this, what David did, when himself was an hungred, and they which were with him;
->
-> <sup>[4](/bible/luke/6#v4)</sup> How he went into the house of God, and did take and eat the shewbread, and gave also to them that were with him; which it is not lawful to eat but for the priests alone?
 
 - Have ye not read so much as this, what David did: So Christ said hold on, haven't you read, watch this, what David did. So now he took it back to the forefather David.
+
+> <sup>[4](/bible/luke/6#v4)</sup> How he went into the house of God, and did take and eat the shewbread, and gave also to them that were with him; which it is not lawful to eat but for the priests alone?
 
 - How he went into the house of God: So hold on, what Christ did is no different, what y'all might see on Clubhouse. When somebody asks a question, we'll turn and say hold on, brother, we'll turn around and ask a question. Christ move, we moving in the same spirit as Christ, hitting them with the scriptures: haven't y'all read? We do the same thing, Clubhouse, on the corner, wherever we at teaching this gospel. We moving in the spirit of Christ.
 
@@ -145,20 +145,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "sabbath"]
 **[1 Samuel 21:1-6](/bible/1-samuel/21#v1)**  *[[17:00](https://www.youtube.com/watch?v=uNeQjopOUfk&t=1020s)]*
 
 > <sup>[1](/bible/1-samuel/21#v1)</sup> Then came David to Nob to Ahimelech the priest: and Ahimelech was afraid at the meeting of David, and said unto him, Why art thou alone, and no man with thee?
->
-> <sup>[2](/bible/1-samuel/21#v2)</sup> And David said unto Ahimelech the priest, The king hath commanded me a business, and hath said unto me, Let no man know any thing of the business whereabout I send thee, and what I have commanded thee: and I have appointed my servants to such and such a place.
->
-> <sup>[3](/bible/1-samuel/21#v3)</sup> Now therefore what is under thine hand? give me five loaves of bread in mine hand, or what there is present.
->
-> <sup>[4](/bible/1-samuel/21#v4)</sup> And the priest answered David, and said, There is no common bread under mine hand, but there is hallowed bread; if the young men have kept themselves at least from women.
->
-> <sup>[5](/bible/1-samuel/21#v5)</sup> And David answered the priest, and said unto him, Of a truth women have been kept from us about these three days, since I came out, and the vessels of the young men are holy, and the bread is in a manner common, yea, though it were sanctified this day in the vessel.
->
-> <sup>[6](/bible/1-samuel/21#v6)</sup> So the priest gave him hallowed bread: for there was no bread there but the shewbread, that was taken from before the Lord, to put hot bread in the day when it was taken away.
 
 - Then came David to Nob to Ahimelech the priest: and Ahimelech was afraid at the meeting of David: Right, because he knew something was going on, because obviously knew that Saul was trying to kill David. He was aware that, so he thinking, man, I might get caught up aiding and abetting a felon, you know, bringing it up to today's terms.
 
 - Why art thou alone? So he already knew something was wrong, 'cause David rolled with a whole company of men at all times. Said hold on, why is David rolling alone? When David rolled, he had a whole company of men with him.
+
+> <sup>[2](/bible/1-samuel/21#v2)</sup> And David said unto Ahimelech the priest, The king hath commanded me a business, and hath said unto me, Let no man know any thing of the business whereabout I send thee, and what I have commanded thee: and I have appointed my servants to such and such a place.
 
 - The king hath commanded me a business, and hath said unto me, Let no man know any thing of the business whereabout I send thee: Right, so he didn't throw King Saul under the bus, say this dude trying to kill me. What? He used wisdom. Matter of fact, give me Proverbs 16:20. He used wisdom here and how he answered the priest. He didn't speak evil or throw the king under the bus, you understand, that King Saul at that time was trying to kill King David.
 
@@ -166,7 +158,15 @@ tags: ["15 Minutes w/ The Captains", "christ", "sabbath"]
 
 - Now therefore what is under thine hand? So he ask him what's under your hand.
 
+> <sup>[3](/bible/1-samuel/21#v3)</sup> Now therefore what is under thine hand? give me five loaves of bread in mine hand, or what there is present.
+>
+> <sup>[4](/bible/1-samuel/21#v4)</sup> And the priest answered David, and said, There is no common bread under mine hand, but there is hallowed bread; if the young men have kept themselves at least from women.
+
 - There is no common bread under mine hand, but there is hallowed bread: So he told him there's no common bread under my hand. There's the hallowed, the showbread that had to be laid on the table. Y'all know what I'm talking about.
+
+> <sup>[5](/bible/1-samuel/21#v5)</sup> And David answered the priest, and said unto him, Of a truth women have been kept from us about these three days, since I came out, and the vessels of the young men are holy, and the bread is in a manner common, yea, though it were sanctified this day in the vessel.
+>
+> <sup>[6](/bible/1-samuel/21#v6)</sup> So the priest gave him hallowed bread: for there was no bread there but the shewbread, that was taken from before the Lord, to put hot bread in the day when it was taken away.
 
 - So the priest gave him hallowed bread: So the priest gave King David the hallowed bread.
 
@@ -224,10 +224,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "sabbath"]
 > <sup>[1](/bible/genesis/2#v1)</sup> Thus the heavens and the earth were finished, and all the host of them.
 >
 > <sup>[2](/bible/genesis/2#v2)</sup> And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.
->
-> <sup>[3](/bible/genesis/2#v3)</sup> And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.
 
 - And on the seventh day God ended his work which he had made; and he rested on the seventh day: So the Lord rested on the seventh day from all his work which he had made.
+
+> <sup>[3](/bible/genesis/2#v3)</sup> And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.
 
 - Because that in it he had rested from all his work which God created and made: All right, so now let's go to Hebrews chapter 4, dealing with the Sabbath and that rest. What is this going into?
 
@@ -257,10 +257,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "sabbath"]
 **[Revelation 21:1-2](/bible/revelation/21#v1)**  *[[24:12](https://www.youtube.com/watch?v=uNeQjopOUfk&t=1452s)]*
 
 > <sup>[1](/bible/revelation/21#v1)</sup> And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea.
->
-> <sup>[2](/bible/revelation/21#v2)</sup> And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband.
 
 - And there was no more sea: And that's going in the nations, but we'll touch on that later.
+
+> <sup>[2](/bible/revelation/21#v2)</sup> And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband.
 
 - And I John saw the holy city: Hold on, John saw what? The holy city. That's the same city that the prophet Ezra saw.
 
@@ -294,16 +294,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "sabbath"]
 **[Hebrews 4:3-5](/bible/hebrews/4#v3)**  *[[26:36](https://www.youtube.com/watch?v=uNeQjopOUfk&t=1596s)]*
 
 > <sup>[3](/bible/hebrews/4#v3)</sup> For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world.
->
-> <sup>[4](/bible/hebrews/4#v4)</sup> For he spake in a certain place of the seventh day on this wise, And God did rest the seventh day from all his works.
->
-> <sup>[5](/bible/hebrews/4#v5)</sup> And in this place again, If they shall enter into my rest.
 
 - For we which have believed do enter into rest: So in order to enter into rest you must believe in Christ. You must keep the commandments and the faith in Christ, understand that.
 
 - If they shall enter into my rest: So it's a stipulation about entering into the rest, is keeping the commandments.
 
+> <sup>[4](/bible/hebrews/4#v4)</sup> For he spake in a certain place of the seventh day on this wise, And God did rest the seventh day from all his works.
+
 - For he spake in a certain place of the seventh day: So it said he spake of a certain place in the seventh day. This already letting you know this talking about the kingdom, paradise.
+
+> <sup>[5](/bible/hebrews/4#v5)</sup> And in this place again, If they shall enter into my rest.
 
 - And in this place again: It says and in this place again. Let's get an counter the first time. Give me 2 Esdras chapter 9, I want 18 and 19. This place again. Hold on, man, what's going on? 'Cause Paul talk about the redemption of our body. In order to redeem something it had the first belong to you. But that's another class. But it says in this place again. Let's read about what took place prior.
 
@@ -311,8 +311,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "sabbath"]
 **[2 Esdras 9:18-19](/bible/2-esdras/9#v18)**  *[[28:18](https://www.youtube.com/watch?v=uNeQjopOUfk&t=1698s)]*
 
 > <sup>[18](/bible/2-esdras/9#v18)</sup> And now when I prepared the world, which was not yet made, even for them to dwell in that now live, no man spake against me.
->
-> <sup>[19](/bible/2-esdras/9#v19)</sup> For then every one obeyed: but now the manners of them which are created in this world that is made are corrupted by a perpetual seed, and by a law which is unsearchable rid themselves.
 
 - And now when I prepared the world: So this is going back to the beginning, the creation.
 
@@ -328,6 +326,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "sabbath"]
 
 - No man spake against me: We didn't speak against the creation of that time. We was up there. We was the heavenly host up there. This some heavy stuff.
 
+> <sup>[19](/bible/2-esdras/9#v19)</sup> For then every one obeyed: but now the manners of them which are created in this world that is made are corrupted by a perpetual seed, and by a law which is unsearchable rid themselves.
+
 - For then every one obeyed: Hold on, for what? Everyone obey. It said for then, before the world, while it was being formed, everyone obeyed.
 
 - And by a law which is unsearchable rid themselves: So now that's going in the sin. So now let's go back to Hebrews chapter 4, Hebrews chapter 4 verse 5.
@@ -336,12 +336,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "sabbath"]
 **[Hebrews 4:5-7](/bible/hebrews/4#v5)**  *[[29:58](https://www.youtube.com/watch?v=uNeQjopOUfk&t=1798s)]*
 
 > <sup>[5](/bible/hebrews/4#v5)</sup> And in this place again, If they shall enter into my rest.
->
+
+- And in this place again, If they shall enter into my rest: So that's talking about paradise.
+
 > <sup>[6](/bible/hebrews/4#v6)</sup> Seeing therefore it remaineth that some must enter therein, and they to whom it was first preached entered not in because of unbelief:
 >
 > <sup>[7](/bible/hebrews/4#v7)</sup> Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts.
-
-- And in this place again, If they shall enter into my rest: So that's talking about paradise.
 
 - Harden not your hearts: As in Psalms 95. But jump down to verse 11.
 
@@ -360,12 +360,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "sabbath"]
 > <sup>[6](/bible/luke/6#v6)</sup> And it came to pass also on another sabbath, that he entered into the synagogue and taught: and there was a man whose right hand was withered.
 >
 > <sup>[7](/bible/luke/6#v7)</sup> And the scribes and Pharisees watched him, whether he would heal on the sabbath day; that they might find an accusation against him.
->
-> <sup>[8](/bible/luke/6#v8)</sup> But he knew their thoughts, and said to the man which had the withered hand, Rise up, and stand forth in the midst. And he arose and stood forth.
->
-> <sup>[9](/bible/luke/6#v9)</sup> Then said Jesus unto them, I will ask you one thing; Is it lawful on the sabbath days to do good, or to do evil? to save life, or to destroy it?
->
-> <sup>[10](/bible/luke/6#v10)</sup> And looking round about upon them all, he said unto the man, Stretch forth thy hand. And he did so: and his hand was restored whole as the other.
 
 - And the scribes and Pharisees watched him: So look, the haters is always watching. You notice in the scriptures they always watching Christ, seeing what moves he making. They not doing no works, they sitting back there watching, just like the brothers. Every time you turn around, the Bishop pop up somewhere, hit a new country, they watch and they put a reaction video, hating. It's the same damn spirit. You don't never read about the scribes doing work. Their work is watching Christ do the work. No different than the day you got brothers sitting back, that's supposed to be brothers in the truth, watching: man, where them purple brothers going now? Brother, why don't you get out there and get on the work, get on the grind, rebuild the nation? Read that again, what the Pharisees was doing, man.
 
@@ -375,9 +369,15 @@ tags: ["15 Minutes w/ The Captains", "christ", "sabbath"]
 
 - That they might find an accusation against him: So they looking for anything. That's why you got Magic School Buses, you got whatever the foolishness is out there. You got witchcraft and teleportation. We got our own jets.
 
+> <sup>[8](/bible/luke/6#v8)</sup> But he knew their thoughts, and said to the man which had the withered hand, Rise up, and stand forth in the midst. And he arose and stood forth.
+
 - But he knew their thoughts, and said to the man which had the withered hand: So he wasn't worried about them, but he said to the man that needed the help, that needed the healing. You see, Christ didn't waste his time with the haters. He went to the brother with the issues. He was out in the streets with the people.
 
+> <sup>[9](/bible/luke/6#v9)</sup> Then said Jesus unto them, I will ask you one thing; Is it lawful on the sabbath days to do good, or to do evil? to save life, or to destroy it?
+
 - I will ask you one thing: So Christ said I'm going ask you one thing: is it lawful on the Sabbath days to do good? He said is it lawful on the Sabbath day to do good, or to do evil? To save life, to save a life, or to destroy it, or to destroy a life? Fried them up.
+
+> <sup>[10](/bible/luke/6#v10)</sup> And looking round about upon them all, he said unto the man, Stretch forth thy hand. And he did so: and his hand was restored whole as the other.
 
 - And looking round about upon them all: You know why he was looking? 'Cause they had a dumb look on their face, 'cause they couldn't answer. They sitting there looking dumb and stupid.
 
@@ -408,16 +408,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "sabbath"]
 > <sup>[10](/bible/luke/6#v10)</sup> And looking round about upon them all, he said unto the man, Stretch forth thy hand. And he did so: and his hand was restored whole as the other.
 >
 > <sup>[11](/bible/luke/6#v11)</sup> And they were filled with madness; and communed one with another what they might do to Jesus.
->
-> <sup>[12](/bible/luke/6#v12)</sup> And it came to pass in those days, that he went out into a mountain to pray, and continued all night in prayer to God.
->
-> <sup>[13](/bible/luke/6#v13)</sup> And when it was day, he called unto him his disciples: and of them he chose twelve, whom also he named apostles;
 
 - And they were filled with madness: You see that? They was filled with madness. That's how hateful them brothers was. They was just totally triggered.
 
 - And communed one with another what they might do to Jesus: You see that? So they started plotting on how they going to kill Christ. They said man, we got to come up with something to get this man out of the way. That's their concern. Their concern isn't teaching the gospel to the people, it's what can we do to get IUIC out the way. It's the same spirit, not putting your hand to the plow to get into fight to deliver your people from captivity. They fight against us to keep us here. It's the same spirit.
 
+> <sup>[12](/bible/luke/6#v12)</sup> And it came to pass in those days, that he went out into a mountain to pray, and continued all night in prayer to God.
+
 - And continued all night in prayer to God: That's what you have leadership tell us, to pray three times a day, man. Study, pray, apply. We got to move in the spirit of Christ.
+
+> <sup>[13](/bible/luke/6#v13)</sup> And when it was day, he called unto him his disciples: and of them he chose twelve, whom also he named apostles;
 
 - Whom also he named apostles: So these aren't regular men, understand that. Give me Matthew chapter 19:28, 'cause we read in Revelation chapter 21:1 and 2 and verse 12 about the 12 gates, you understand. So let's read this about these 12 that Christ chose.
 
@@ -440,14 +440,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "sabbath"]
 > <sup>[15](/bible/luke/6#v15)</sup> Matthew and Thomas, James the son of Alpheus, and Simon called Zelotes,
 >
 > <sup>[16](/bible/luke/6#v16)</sup> And Judas the brother of James, and Judas Iscariot, which also was the traitor.
->
-> <sup>[17](/bible/luke/6#v17)</sup> And he came down with them, and stood in the plain, and the company of his disciples, and a great multitude of people out of all Judea and Jerusalem, and from the sea coast of Tyre and Sidon, which came to hear him, and to be healed of their diseases;
->
-> <sup>[18](/bible/luke/6#v18)</sup> And they that were vexed with unclean spirits: and they were healed.
 
 - And Judas Iscariot, which also was the traitor: You see that? Christ already knew that Judas was the traitor. He wasn't caught off God. So you understand what's going on here, 'cause he had to play that part. Read verse 17.
 
+> <sup>[17](/bible/luke/6#v17)</sup> And he came down with them, and stood in the plain, and the company of his disciples, and a great multitude of people out of all Judea and Jerusalem, and from the sea coast of Tyre and Sidon, which came to hear him, and to be healed of their diseases;
+
 - Which came to hear him, and to be healed: So they came to learn and to be healed. That's what we read in Luke 4, what Christ came to do.
+
+> <sup>[18](/bible/luke/6#v18)</sup> And they that were vexed with unclean spirits: and they were healed.
 
 - And they that were vexed with unclean spirits: and they were healed: You see that? So the healing is in the word of God. That's why we got to study, pray, apply, fast, to get these spirits off of us. That's what we have to do, 'cause we coming here, we coming out of an unclean world, an unclean society. Give me that Micah 2 and 10, 'cause repentance is a prop. You ain't just going to say oh, I'm an Israelite, and you cleaned up from all the filth. No, it takes time to wash our minds out, to be renewed in the spirit. That's why it says to be renewed in the spirit, understand that.
 
@@ -470,12 +470,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "sabbath"]
 **[Luke 6:18-19](/bible/luke/6#v18)**  *[[41:51](https://www.youtube.com/watch?v=uNeQjopOUfk&t=2511s)]*
 
 > <sup>[18](/bible/luke/6#v18)</sup> And they that were vexed with unclean spirits: and they were healed.
->
-> <sup>[19](/bible/luke/6#v19)</sup> And the whole multitude sought to touch him: for there went virtue out of him, and healed them all.
 
 - And they that were vexed with unclean spirits: See that? The pollution: polluted spirits or unclean spirits, it's the same thing. How do we get the spirits? Walking in the ways and customs of Babylon here. That's how all of us that's come into this knowledge that we are Israelites, we all were polluted and are polluted. That's why we must get our minds right with the word of the Most High.
 
 - And they were healed: And they what? They were healed. So guess what, as we apply the scriptures we can be healed of these different spirits that we have.
+
+> <sup>[19](/bible/luke/6#v19)</sup> And the whole multitude sought to touch him: for there went virtue out of him, and healed them all.
 
 - For there went virtue out of him: Hold on, there went what? There went virtue out of him. That virtue is talking about power. Let me see something, let me see if I can send you over something real quick to show you what that virtue was talking about. So now we going to show you what that virtue is, man, the power of Christ, man. That's some heavy stuff there. So it said the virtue went out from him. So read that again for me, soldier, Luke chapter 6 verse 19.
 
@@ -511,12 +511,12 @@ Reading from On-screen text on Luke 6:19  *[[43:23](https://www.youtube.com/watc
 **[Luke 6:19-20](/bible/luke/6#v19)**  *[[45:22](https://www.youtube.com/watch?v=uNeQjopOUfk&t=2722s)]*
 
 > <sup>[19](/bible/luke/6#v19)</sup> And the whole multitude sought to touch him: for there went virtue out of him, and healed them all.
->
-> <sup>[20](/bible/luke/6#v20)</sup> And he lifted up his eyes on his disciples, and said, Blessed be ye poor: for yours is the kingdom of God.
 
 - For there went virtue out of him: So there went power out of Christ.
 
 - And healed them all: And healed them all.
+
+> <sup>[20](/bible/luke/6#v20)</sup> And he lifted up his eyes on his disciples, and said, Blessed be ye poor: for yours is the kingdom of God.
 
 - Blessed be ye poor: Hold on, blessed be ye who? Ye poor. Is that talking about the homeless guy, the homeless Edomite on the corner shaking a cup, talking spread some cheddar on this cracker? Get the poor in Isaiah 14:32, man.
 
@@ -535,10 +535,10 @@ Reading from On-screen text on Luke 6:19  *[[43:23](https://www.youtube.com/watc
 > <sup>[20](/bible/luke/6#v20)</sup> And he lifted up his eyes on his disciples, and said, Blessed be ye poor: for yours is the kingdom of God.
 >
 > <sup>[21](/bible/luke/6#v21)</sup> Blessed are ye that hunger now: for ye shall be filled. Blessed are ye that weep now: for ye shall laugh.
->
-> <sup>[22](/bible/luke/6#v22)</sup> Blessed are ye, when men shall hate you, and when they shall separate you from their company, and shall reproach you, and cast out your name as evil, for the Son of man’s sake.
 
 - Blessed are ye that weep now: So the Bible says blessed are ye that weep now. For ye shall laugh: For ye shall laugh.
+
+> <sup>[22](/bible/luke/6#v22)</sup> Blessed are ye, when men shall hate you, and when they shall separate you from their company, and shall reproach you, and cast out your name as evil, for the Son of man’s sake.
 
 - Blessed are ye, when men shall hate you, and when they shall separate you from their company: You see that? That's what's going on: when men shall hate you and separate you from their company. You see that? When you come into the truth, like, damn, hold on, I'm just keeping the commandments. Now nobody want to rock with you no more, you understand. They not dealing with you. I'm going to show you why. Give me that... is that 2 Corinthians, about that our savour, we smell like death under them? Yeah, we are the savour of death. That's 2 Corinthians 2 and 15, that's what it is. 2 Corinthians 2:15. I'm going show you why they separate.
 
@@ -546,10 +546,10 @@ Reading from On-screen text on Luke 6:19  *[[43:23](https://www.youtube.com/watc
 **[2 Corinthians 2:15-16](/bible/2-corinthians/2#v15)**  *[[47:43](https://www.youtube.com/watch?v=uNeQjopOUfk&t=2863s)]*
 
 > <sup>[15](/bible/2-corinthians/2#v15)</sup> For we are unto God a sweet savour of Christ, in them that are saved, and in them that perish:
->
-> <sup>[16](/bible/2-corinthians/2#v16)</sup> To the one we are the savour of death unto death; and to the other the savour of life unto life. And who is sufficient for these things?
 
 - For we are unto God a sweet savour of Christ: You see that? The people from the world going to separate us, 'cause we a sweet smell under God in Christ.
+
+> <sup>[16](/bible/2-corinthians/2#v16)</sup> To the one we are the savour of death unto death; and to the other the savour of life unto life. And who is sufficient for these things?
 
 - To the one we are the savour of death: So to the people that's not keeping the commandments, we smell like death. That's why they don't want to deal with us. That's why they separate themselves.
 
@@ -559,8 +559,6 @@ Reading from On-screen text on Luke 6:19  *[[43:23](https://www.youtube.com/watc
 **[Luke 6:22-23](/bible/luke/6#v22)**  *[[48:26](https://www.youtube.com/watch?v=uNeQjopOUfk&t=2906s)]*
 
 > <sup>[22](/bible/luke/6#v22)</sup> Blessed are ye, when men shall hate you, and when they shall separate you from their company, and shall reproach you, and cast out your name as evil, for the Son of man’s sake.
->
-> <sup>[23](/bible/luke/6#v23)</sup> Rejoice ye in that day, and leap for joy: for, behold, your reward is great in heaven: for in the like manner did their fathers unto the prophets.
 
 - Blessed are ye, when men shall hate you: That's right, 'cause this a interview, somebody always trying to stop the movement gets asked the question: what do you ha about the Israelites? The Bible said we blessed. Thank you for the blessing, brother.
 
@@ -569,6 +567,8 @@ Reading from On-screen text on Luke 6:19  *[[43:23](https://www.youtube.com/watc
 - And cast out your name as evil: Hold on, what does reproach mean? Cast out your name as evil. They like, they speak much evil about us. Hold on, these brothers is cleaning up the community, looking for missing persons, doing youth violence conflict resolutions. What evil are we doing? We not embezzling money through the USAID, you understand. We not out there burning crosses in people's yards. What evil are we doing? It's all slander, folks.
 
 - For the Son of man's sake: For what? For the Son of man's sake. Right, so they calling us all manners of evil for the Son of man, for Christ's sake.
+
+> <sup>[23](/bible/luke/6#v23)</sup> Rejoice ye in that day, and leap for joy: for, behold, your reward is great in heaven: for in the like manner did their fathers unto the prophets.
 
 - Rejoice ye in that day: Hold on, we got to do what? Rejoice ye in that day. We got to get our minds right to rejoice in that. A lot of times you see people hating, you see the slander, it get you mad, it get up under your skin. We got to get our minds to do what? Read it from the top. Rejoice ye in that day. We have to. That's the next level of growth, when we see that, we got to rejoice in that.
 
@@ -600,10 +600,10 @@ Reading from On-screen text on Luke 6:19  *[[43:23](https://www.youtube.com/watc
 **[Luke 6:24-25](/bible/luke/6#v24)**  *[[52:44](https://www.youtube.com/watch?v=uNeQjopOUfk&t=3164s)]*
 
 > <sup>[24](/bible/luke/6#v24)</sup> But woe unto you that are rich! for ye have received your consolation.
->
-> <sup>[25](/bible/luke/6#v25)</sup> Woe unto you that are full! for ye shall hunger. Woe unto you that laugh now! for ye shall mourn and weep.
 
 - For ye have received your consolation: That's your reward. You want to be rich in this world, that's your reward.
+
+> <sup>[25](/bible/luke/6#v25)</sup> Woe unto you that are full! for ye shall hunger. Woe unto you that laugh now! for ye shall mourn and weep.
 
 - Woe unto you that are full! for ye shall hunger: So everybody, oh, y'all know everything now? Guess what, you going to be hungry in that day.
 
@@ -628,10 +628,10 @@ Reading from On-screen text on Luke 6:19  *[[43:23](https://www.youtube.com/watc
 **[Luke 6:25-26](/bible/luke/6#v25)**  *[[54:22](https://www.youtube.com/watch?v=uNeQjopOUfk&t=3262s)]*
 
 > <sup>[25](/bible/luke/6#v25)</sup> Woe unto you that are full! for ye shall hunger. Woe unto you that laugh now! for ye shall mourn and weep.
->
-> <sup>[26](/bible/luke/6#v26)</sup> Woe unto you, when all men shall speak well of you! for so did their fathers to the false prophets.
 
 - Woe unto you that laugh now! for ye shall mourn and weep: 'Cause guess what, they say... what is it now, something about laughing last? Y'all know the parable out there. But keep reading, though. Yeah, he who laughs last laughs the loudest, or something like that. But let's keep it moving now.
+
+> <sup>[26](/bible/luke/6#v26)</sup> Woe unto you, when all men shall speak well of you! for so did their fathers to the false prophets.
 
 - Woe unto you, when all men shall speak well of you: You see that? The Bible says woe unto you when all men shall speak well of you.
 
@@ -641,10 +641,6 @@ Reading from On-screen text on Luke 6:19  *[[43:23](https://www.youtube.com/watc
 **[John 15:19-21](/bible/john/15#v19)**  *[[55:14](https://www.youtube.com/watch?v=uNeQjopOUfk&t=3314s)]*
 
 > <sup>[19](/bible/john/15#v19)</sup> If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you.
->
-> <sup>[20](/bible/john/15#v20)</sup> Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also.
->
-> <sup>[21](/bible/john/15#v21)</sup> But all these things will they do unto you for my name’s sake, because they know not him that sent me.
 
 - If ye were of the world, the world would love his own: So if you of the world, the world loves their own. We didn't separate ourselves... We not doing Christmas, so guess what, you get hate, you get the evil eye. We not doing birthdays, you get all of hate, because we not of the world.
 
@@ -652,11 +648,15 @@ Reading from On-screen text on Luke 6:19  *[[43:23](https://www.youtube.com/watc
 
 - Therefore the world hateth you: Hold on, what? The world hateth you. You see that? The world hates us because we've been separated by Christ. No, no, no, keep reading, brother. Verse 20.
 
+> <sup>[20](/bible/john/15#v20)</sup> Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also.
+
 - The servant is not greater than his lord: So the Lord is giving us, he putting us on game here. He said hold on, y'all my servants, y'all not greater than your lord, meaning me, Christ. That's what he's telling them.
 
 - If they have persecuted me, they will also persecute you: Christ said they persecuted me. So that's, look, if you a follower of Christ, that's going to come. We got to get persecuted. It has to come, because they persecuted Christ.
 
 - If they have kept my saying, they will keep yours also: You see that? And if they kept the says of Christ, when the prophets out there teaching, they going to keep the commandments.
+
+> <sup>[21](/bible/john/15#v21)</sup> But all these things will they do unto you for my name’s sake, because they know not him that sent me.
 
 - But all these things will they do unto you for my name's sake: But all the evil things they going to do unto us. Right, not because we doing any evil in the earth, because we following Christ. Understand that thing.
 
@@ -679,10 +679,10 @@ Reading from On-screen text on Luke 6:19  *[[43:23](https://www.youtube.com/watc
 **[Exodus 23:4-5](/bible/exodus/23#v4)**  *[[57:41](https://www.youtube.com/watch?v=uNeQjopOUfk&t=3461s)]*
 
 > <sup>[4](/bible/exodus/23#v4)</sup> If thou meet thine enemy’s ox or his ass going astray, thou shalt surely bring it back to him again.
->
-> <sup>[5](/bible/exodus/23#v5)</sup> If thou see the ass of him that hateth thee lying under his burden, and wouldest forbear to help him, thou shalt surely help with him.
 
 - If thou meet thine enemy's ox: Hold on, if thou meet thine what? Thine enemies' ox.
+
+> <sup>[5](/bible/exodus/23#v5)</sup> If thou see the ass of him that hateth thee lying under his burden, and wouldest forbear to help him, thou shalt surely help with him.
 
 - If thou see the ass of him that hateth thee: Hold, if thou seest the what? The ass of him that hateth thee. So if you see the donkey of him that hates you.
 
@@ -694,14 +694,14 @@ Reading from On-screen text on Luke 6:19  *[[43:23](https://www.youtube.com/watc
 > <sup>[28](/bible/luke/6#v28)</sup> Bless them that curse you, and pray for them which despitefully use you.
 >
 > <sup>[29](/bible/luke/6#v29)</sup> And unto him that smiteth thee on the one cheek offer also the other; and him that taketh away thy cloke forbid not to take thy coat also.
->
-> <sup>[30](/bible/luke/6#v30)</sup> Give to every man that asketh of thee; and of him that taketh away thy goods ask them not again.
->
-> <sup>[31](/bible/luke/6#v31)</sup> And as ye would that men should do to you, do ye also to them likewise.
 
 - And unto him that smiteth thee on the one cheek offer also the other: That's not going to... you get slapped and then you turn around and say hold on, brother, you missed the cheek, get me on this side. No, this is talking about forgiveness, man.
 
+> <sup>[30](/bible/luke/6#v30)</sup> Give to every man that asketh of thee; and of him that taketh away thy goods ask them not again.
+
 - Give to every man that asketh of thee: So this how we know this is going in the charity. Help your brothers, help this truth.
+
+> <sup>[31](/bible/luke/6#v31)</sup> And as ye would that men should do to you, do ye also to them likewise.
 
 - And as ye would that men should do to you, do ye also to them likewise: So now let's go to the law, because some people get silly and very foolish when it come, when they read this part of the scripture, like you supposed to get slapped, robbed and all. This is going into forgiveness. That's why he said as ye would that men do to you, do ye also to them likewise. What is Christ basing that off of? Give me Leviticus 19, man. Yeah, Leviticus 19, they call the Golden Rule. Leviticus chapter 19:17.
 
@@ -709,8 +709,6 @@ Reading from On-screen text on Luke 6:19  *[[43:23](https://www.youtube.com/watc
 **[Leviticus 19:17-18](/bible/leviticus/19#v17)**  *[[1:00:05](https://www.youtube.com/watch?v=uNeQjopOUfk&t=3605s)]*
 
 > <sup>[17](/bible/leviticus/19#v17)</sup> Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
->
-> <sup>[18](/bible/leviticus/19#v18)</sup> Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord.
 
 - Thou shalt not hate thy brother in thine heart: Thou shalt not hate thy brother in thy heart, in thy mind.
 
@@ -719,6 +717,8 @@ Reading from On-screen text on Luke 6:19  *[[43:23](https://www.youtube.com/watc
 - Thou shalt in any wise rebuke thy neighbour: Meaning correct your neighbor. Your neighbor is your brother of your people, your kindred.
 
 - And not suffer sin upon him: And not allow your brother to be in sin. That's why we out there on the corn is teaching, 'cause we see the sins of our people. We understand that the wages of sin is death, so we telling our people repent, keep the commandments of God, man.
+
+> <sup>[18](/bible/leviticus/19#v18)</sup> Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord.
 
 - Thou shalt not avenge: Thou shalt not what? Not avenge. So that go in a turning the other cheek. Not literally you just getting slapped and you just keep getting slapped. This is going into forgiveness, man. Read it again. So if a brother do you wrong, you don't turn around and do him wrong.
 
@@ -732,18 +732,18 @@ Reading from On-screen text on Luke 6:19  *[[43:23](https://www.youtube.com/watc
 > <sup>[31](/bible/luke/6#v31)</sup> And as ye would that men should do to you, do ye also to them likewise.
 >
 > <sup>[32](/bible/luke/6#v32)</sup> For if ye love them which love you, what thank have ye? for sinners also love those that love them.
->
-> <sup>[33](/bible/luke/6#v33)</sup> And if ye do good to them which do good to you, what thank have ye? for sinners also do even the same.
->
-> <sup>[34](/bible/luke/6#v34)</sup> And if ye lend to them of whom ye hope to receive, what thank have ye? for sinners also lend to sinners, to receive as much again.
->
-> <sup>[35](/bible/luke/6#v35)</sup> But love ye your enemies, and do good, and lend, hoping for nothing again; and your reward shall be great, and ye shall be the children of the Highest: for he is kind unto the unthankful and to the evil.
 
 - For sinners also love those that love them: What is Christ saying? That we got to have love for our people, whether they hate us or like us. Understand that. That's what Christ is teaching. Christ is the embodiment of charity, man, of that true love one for another.
 
+> <sup>[33](/bible/luke/6#v33)</sup> And if ye do good to them which do good to you, what thank have ye? for sinners also do even the same.
+
 - For sinners also do even the same: So how you different than a man that's in the midst of sin, if you only going to do for those that love you? They saying sinners do the same thing. Remember, we've been called to separate ourselves. We got to move in another level and on another spiritual plane.
 
+> <sup>[34](/bible/luke/6#v34)</sup> And if ye lend to them of whom ye hope to receive, what thank have ye? for sinners also lend to sinners, to receive as much again.
+
 - And if ye lend to them of whom ye hope to receive: So if you given to somebody where you know they good to pay you back. Watch this: what think have ye? What think have... That don't mean you just going out there just giving out all your money. It's wisdom in there, but Christ is showing us the mindset of how we must deal and operate with our people.
+
+> <sup>[35](/bible/luke/6#v35)</sup> But love ye your enemies, and do good, and lend, hoping for nothing again; and your reward shall be great, and ye shall be the children of the Highest: for he is kind unto the unthankful and to the evil.
 
 - But love ye your enemies: But we understand who the enemies are, is talking about our brothers, our people.
 

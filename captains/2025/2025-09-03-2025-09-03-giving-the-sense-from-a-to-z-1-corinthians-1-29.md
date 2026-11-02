@@ -54,22 +54,22 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "the-law", "wisdom"]
 **[Colossians 2:20-23](/bible/colossians/2#v20)**  *[[5:39](https://www.youtube.com/watch?v=FqhCoA0ITn0&t=339s)]*
 
 > <sup>[20](/bible/colossians/2#v20)</sup> Wherefore if ye be dead with Christ from the rudiments of the world, why, as though living in the world, are ye subject to ordinances,
->
-> <sup>[21](/bible/colossians/2#v21)</sup> (Touch not; taste not; handle not;
->
-> <sup>[22](/bible/colossians/2#v22)</sup> Which all are to perish with the using;) after the commandments and doctrines of men?
->
-> <sup>[23](/bible/colossians/2#v23)</sup> Which things have indeed a shew of wisdom in will worship, and humility, and neglecting of the body; not in any honour to the satisfying of the flesh.
 
 - Why, as though living in the world, are ye subject to ordinances: What ordinances was these talking about? This was talking about the ordinances of animal sacrifice, things that were pertaining to the temple. All right, I'm going to show you that in Hebrews chapter 9. Okay. In Hebrews chapter 9, it gives the sense on why Colossians is saying, "Why are you going back to ordinances?"
 
 - Wherefore if ye be dead with Christ from the rudiments of the world: meaning you're not giving animals sacrifice anymore. Why? Because Christ was the lamb of God. He was that perfect sacrifice.
 
+> <sup>[21](/bible/colossians/2#v21)</sup> (Touch not; taste not; handle not;
+
 - Touch not; taste not; handle not: Touch not, taste not, handle not. All go back to the law of sacrifice.
+
+> <sup>[22](/bible/colossians/2#v22)</sup> Which all are to perish with the using;) after the commandments and doctrines of men?
 
 - After the commandments and doctrines of men: Why? Because that's why it was called the law of Moses. Animal sacrifice came with Moses. But the laws had been in place long before that. Let me show you that in Genesis chapter 26. The laws of God had been in place long before Moses was on the scene. With Moses came a written law that we now could look at and read on solid paper and animal sacrifice.
 
 - Which all are to perish with the using: Why? Because those sacrifices were done once you use them after the commandments and doctrines of men.
+
+> <sup>[23](/bible/colossians/2#v23)</sup> Which things have indeed a shew of wisdom in will worship, and humility, and neglecting of the body; not in any honour to the satisfying of the flesh.
 
 - Which things have indeed a shew of wisdom in will worship, and humility: So under the law of Moses, those things did have a form of wisdom. There was a show of wisdom. Why? Because you atoned for your sins. We had the day of atonement. We had sacrifices for sins. We had free will offerings. We had fasting. All of that stuff came with a show of wisdom. But now, who is wisdom to us?
 
@@ -104,14 +104,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "the-law", "wisdom"]
 **[Romans 3:23-25](/bible/romans/3#v23)**  *[[10:54](https://www.youtube.com/watch?v=FqhCoA0ITn0&t=654s)]*
 
 > <sup>[23](/bible/romans/3#v23)</sup> For all have sinned, and come short of the glory of God;
->
-> <sup>[24](/bible/romans/3#v24)</sup> Being justified freely by his grace through the redemption that is in Christ Jesus:
->
-> <sup>[25](/bible/romans/3#v25)</sup> Whom God hath set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God;
 
 - For all have sinned, and come short of the glory of God: Who is this talking about? Who is the all that sinned and came short of the glory of God? Well, let's see in verse one who this is talking about.
 
 - Unto them were committed the oracles of God: To the Jews were committed the oracles of God. To all Israel was committed the oracles of God. Therefore, when it said, "For all have sinned." In order to sin, you have to transgress the law of God. In order to do that, you have to be given the laws of God. Everybody wasn't given God's laws. Everybody was not given God's law. So sinning against God in this context pertain to Israel.
+
+> <sup>[24](/bible/romans/3#v24)</sup> Being justified freely by his grace through the redemption that is in Christ Jesus:
 
 - Being justified freely by his grace through the redemption that is in Christ Jesus: So what was the thing that gave us redemption in the past? What was the thing that gave us propitiation in the past? What was the thing that gave us forgiveness of sins in the past? Animal sacrifice. You sinned against God. You gave a sacrifice. All right. When it comes down to under Christ, Christ's blood now gives us that redemption. Christ's blood now gives us that righteousness. It's not animal sacrifice. It's according to the blood of Christ, you keeping the commandments and the faith of Christ.
 
@@ -126,6 +124,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "the-law", "wisdom"]
     > <sup>[11](/bible/daniel/9#v11)</sup> Yea, all Israel have transgressed thy law, even by departing, that they might not obey thy voice; therefore the curse is poured upon us, and the oath that is written in the law of Moses the servant of God, because we have sinned against him.
 
     Yea, all Israel have transgressed thy law... because we have sinned against him. Who was that that was doing that? Israel, we sinned against God.
+
+> <sup>[25](/bible/romans/3#v25)</sup> Whom God hath set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God;
 
 
 **[1 Corinthians 1:30](/bible/1-corinthians/1#v30)**  *[[13:55](https://www.youtube.com/watch?v=FqhCoA0ITn0&t=835s)]*
@@ -260,12 +260,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "the-law", "wisdom"]
 > <sup>[17](/bible/acts/17#v17)</sup> Therefore disputed he in the synagogue with the Jews, and with the devout persons, and in the market daily with them that met with him.
 >
 > <sup>[18](/bible/acts/17#v18)</sup> Then certain philosophers of the Epicureans, and of the Stoicks, encountered him. And some said, What will this babbler say? other some, He seemeth to be a setter forth of strange gods: because he preached unto them Jesus, and the resurrection.
->
-> <sup>[19](/bible/acts/17#v19)</sup> And they took him, and brought him unto Areopagus, saying, May we know what this new doctrine, whereof thou speakest, is?
->
-> <sup>[20](/bible/acts/17#v20)</sup> For thou bringest certain strange things to our ears: we would know therefore what these things mean.
->
-> <sup>[21](/bible/acts/17#v21)</sup> (For all the Athenians and strangers which were there spent their time in nothing else, but either to tell, or to hear some new thing.)
 
 - Then certain philosophers of the Epicureans, and of the Stoicks, encountered him: They were all wise. They was philosophers in the time of Paul. That was the time of philosophy. They loved wisdom. Whatever that they could know and whatever that they can find out, they loved it.
 
@@ -274,6 +268,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "the-law", "wisdom"]
 - What will this babbler say: Same thing with a lot of our people today. They don't believe Christ. I'm going to say 95% of the reason why they don't believe this Bible is because of Christianity. It is what it is. And I say that on my own behalf because at one time I didn't believe the Bible and it was because of Christianity.
 
 - Strange gods: But now look at what they have. That's why he said in first Corinthians, the preaching of the cross is to them that perish foolishness. But to us, it's the power of God. Like, oh man, there's life after this life. I can live forever. I have a whole another body that I'm going to get. I'm never going to get sick anymore. That's something to look forward to. Wait, all I have to do is what's written. When this Bible says do it, I do it. If it says don't do it, I don't do it. That's what I have to do in order to get eternal life. Bet. But to them with all of this wisdom, that was foolishness to them.
+
+> <sup>[19](/bible/acts/17#v19)</sup> And they took him, and brought him unto Areopagus, saying, May we know what this new doctrine, whereof thou speakest, is?
+>
+> <sup>[20](/bible/acts/17#v20)</sup> For thou bringest certain strange things to our ears: we would know therefore what these things mean.
+>
+> <sup>[21](/bible/acts/17#v21)</sup> (For all the Athenians and strangers which were there spent their time in nothing else, but either to tell, or to hear some new thing.)
 
 - Spent their time in nothing else, but either to tell, or to hear some new thing: That's what they do. That's what our people do today. They'll sit there and they'll listen to the word of God. They'll listen to us break down scriptures and be like, "Man, man, y'all brother speaking some powerful stuff." Hey, so you start following this? "I don't know about all that. Hey, but keep doing what you're doing though. Keep doing what you're doing. I like what you're doing. I ain't going to do it. But you know, keep doing what you doing. You stay cool like how you be cool." That's what they teach us. That's what they tell us. That's not how it's supposed to be. You supposed to hear this and it's supposed to be the power of God to you.
 
@@ -311,16 +311,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "the-law", "wisdom"]
 > <sup>[2](/bible/acts/18#v2)</sup> And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.
 >
 > <sup>[3](/bible/acts/18#v3)</sup> And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.
->
-> <sup>[4](/bible/acts/18#v4)</sup> And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks.
->
-> <sup>[5](/bible/acts/18#v5)</sup> And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews that Jesus was Christ.
->
-> <sup>[6](/bible/acts/18#v6)</sup> And when they opposed themselves, and blasphemed, he shook his raiment, and said unto them, Your blood be upon your own heads; I am clean: from henceforth I will go unto the Gentiles.
 
 - For by their occupation they were tentmakers: So Paul had a job. Paul had a job. Why the pastors ain't got no damn job? Anyway, my bad.
 
+> <sup>[4](/bible/acts/18#v4)</sup> And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks.
+
 - And persuaded the Jews and the Greeks: The Greeks were the scattered Israelites. They were Hellenized. They were called Greeks because they were cast off from being God's people.
+
+> <sup>[5](/bible/acts/18#v5)</sup> And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews that Jesus was Christ.
+>
+> <sup>[6](/bible/acts/18#v6)</sup> And when they opposed themselves, and blasphemed, he shook his raiment, and said unto them, Your blood be upon your own heads; I am clean: from henceforth I will go unto the Gentiles.
 
 - And when they opposed themselves, and blasphemed: So when he was among them, there wasn't like, "No, I don't believe that." No, they was being violent. Remember Paul got stoned for preaching the gospel. Paul got stoned. That's why Christ said we were going to be hated of all nations for his name's sake. Why? Because we're going to be correcting people. Let me show you that. Amos 5. When we start correcting people and we start telling people that what they're doing is wrong, that God doesn't like it, you think they're just going to sit there and they're just going to take it and they're not going to say anything. They're not going to do anything. Nah, they're going to get very violent. Why? Because of what the scriptures say.
 
@@ -336,12 +336,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "the-law", "wisdom"]
 > <sup>[14](/bible/acts/18#v14)</sup> And when Paul was now about to open his mouth, Gallio said unto the Jews, If it were a matter of wrong or wicked lewdness, O ye Jews, reason would that I should bear with you:
 >
 > <sup>[15](/bible/acts/18#v15)</sup> But if it be a question of words and names, and of your law, look ye to it; for I will be no judge of such matters.
->
+
+- But if it be a question of words and names, and of your law, look ye to it: So they tried to bring Paul to the judgment seat of Gallo. Yalia was like, "Look, if this was against Roman law, all right, I could say something, but if y'all talking about different names of this person and that person and things in your law, like I ain't got nothing to do with that. Y'all see to that. I ain't got nothing to do with me."
+
 > <sup>[16](/bible/acts/18#v16)</sup> And he drave them from the judgment seat.
 >
 > <sup>[17](/bible/acts/18#v17)</sup> Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat him before the judgment seat. And Gallio cared for none of those things.
-
-- But if it be a question of words and names, and of your law, look ye to it: So they tried to bring Paul to the judgment seat of Gallo. Yalia was like, "Look, if this was against Roman law, all right, I could say something, but if y'all talking about different names of this person and that person and things in your law, like I ain't got nothing to do with that. Y'all see to that. I ain't got nothing to do with me."
 
 - And beat him before the judgment seat: Sust was one of the brothers that was laboring with Paul and those were the things that they had to go through. He got beat before the judgment seat. Same thing with Paul got stoned. He got beat. He got whooped. He got thrown in jail. He got done much things just for preaching the gospel. Because when it says that the preaching of the word is to them that perish foolishness. When it's foolishness to somebody, they're going to do foolishness. They're going to act foolish. And most of the time is going to be violence toward the prophets.
 
@@ -391,8 +391,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "the-law", "wisdom"]
 **[1 Corinthians 2:6-7](/bible/1-corinthians/2#v6)**  *[[46:21](https://www.youtube.com/watch?v=FqhCoA0ITn0&t=2781s)]*
 
 > <sup>[6](/bible/1-corinthians/2#v6)</sup> Howbeit we speak wisdom among them that are perfect: yet not the wisdom of this world, nor of the princes of this world, that come to nought:
->
-> <sup>[7](/bible/1-corinthians/2#v7)</sup> But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:
 
 - We speak wisdom among them that are perfect: So when it says we speak wisdom among them that are perfect, how do you be perfect? Because Christianity will tell you, you can't be perfect. There's nobody perfect but God. There was nobody perfect but Jesus. Well, if we can't be perfect, then go to Matthew 5:48 and explain why Christ told us this.
 
@@ -410,14 +408,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "the-law", "wisdom"]
 
     The law of the Lord is perfect, converting the soul. The testimony of the Lord is sure, making wise the simple. God's law is perfect. That converts our soul.
 
+> <sup>[7](/bible/1-corinthians/2#v7)</sup> But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:
+
 
 **[1 Kings 8:46-47](/bible/1-kings/8#v46)**  *[[48:33](https://www.youtube.com/watch?v=FqhCoA0ITn0&t=2913s)]*
 
 > <sup>[46](/bible/1-kings/8#v46)</sup> If they sin against thee, (for there is no man that sinneth not,) and thou be angry with them, and deliver them to the enemy, so that they carry them away captives unto the land of the enemy, far or near;
->
-> <sup>[47](/bible/1-kings/8#v47)</sup> Yet if they shall bethink themselves in the land whither they were carried captives, and repent, and make supplication unto thee in the land of them that carried them captives, saying, We have sinned, and have done perversely, we have committed wickedness;
 
 - So that they carry them away captives unto the land of the enemy, far or near: which we were. We were carried away captives to the land of our enemies far which is on the western hemisphere and near which some of us are still in Africa and in Asia and in Europe and in the Levant area what they call the Middle East. Some of us are near to Jerusalem. Some of us are far from Jerusalem.
+
+> <sup>[47](/bible/1-kings/8#v47)</sup> Yet if they shall bethink themselves in the land whither they were carried captives, and repent, and make supplication unto thee in the land of them that carried them captives, saying, We have sinned, and have done perversely, we have committed wickedness;
 
 - We have sinned, and have done perversely, we have committed wickedness: So it's talking about us repenting, coming back to the father. Why? Jump over to verse 60.
 
@@ -444,12 +444,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "the-law", "wisdom"]
 **[1 Corinthians 2:6-7](/bible/1-corinthians/2#v6)**  *[[52:29](https://www.youtube.com/watch?v=FqhCoA0ITn0&t=3149s)]*
 
 > <sup>[6](/bible/1-corinthians/2#v6)</sup> Howbeit we speak wisdom among them that are perfect: yet not the wisdom of this world, nor of the princes of this world, that come to nought:
->
-> <sup>[7](/bible/1-corinthians/2#v7)</sup> But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:
 
 - We speak wisdom among them that are perfect: meaning them that understand God's laws, that use it for reproof, correction, instruction, and righteousness, that keep the commandments of God. We speak the mysteries to them that are perfect.
 
 - Yet not the wisdom of this world, nor of the princes of this world, that come to nought: meaning the mighty, the wise, the noble that he was talking about in chapter one. They're not speaking to them. They speak the wisdom of God to them that are perfect, not to them that are off in this world.
+
+> <sup>[7](/bible/1-corinthians/2#v7)</sup> But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:
 
 - We speak the wisdom of God in a mystery, even the hidden wisdom: So when we speak the wisdom of God, let's go to Matthew chapter 13. When you speak the wisdom of God, what is we talking about? Let's see.
 
@@ -481,12 +481,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "the-law", "wisdom"]
 **[Ephesians 1:9-11](/bible/ephesians/1#v9)**  *[[55:32](https://www.youtube.com/watch?v=FqhCoA0ITn0&t=3332s)]*
 
 > <sup>[9](/bible/ephesians/1#v9)</sup> Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself:
->
+
+- Having made known unto us the mystery of his will: We read in Ephesians chapter 1:7 earlier that he gave us redemption. What's the mystery of his will? That the children of Israel be gathered back together because he made a promise unto our forefather Abraham. That promise still hasn't come to pass yet. That one man ruling over all nations with the Israelites underneath him. Christ being that man that's going to rule the world and Israel is going to be ruling right along with him, heirs according to the grace of God. That's the mystery.
+
 > <sup>[10](/bible/ephesians/1#v10)</sup> That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:
 >
 > <sup>[11](/bible/ephesians/1#v11)</sup> In whom also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will:
-
-- Having made known unto us the mystery of his will: We read in Ephesians chapter 1:7 earlier that he gave us redemption. What's the mystery of his will? That the children of Israel be gathered back together because he made a promise unto our forefather Abraham. That promise still hasn't come to pass yet. That one man ruling over all nations with the Israelites underneath him. Christ being that man that's going to rule the world and Israel is going to be ruling right along with him, heirs according to the grace of God. That's the mystery.
 
 - Being predestinated according to the purpose of him: So we are predestined to get these things. When it says predestined, it means destined before time. Destined before.
 
@@ -513,8 +513,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "the-law", "wisdom"]
 **[1 Corinthians 2:6-7](/bible/1-corinthians/2#v6)**  *[[59:24](https://www.youtube.com/watch?v=FqhCoA0ITn0&t=3564s)]*
 
 > <sup>[6](/bible/1-corinthians/2#v6)</sup> Howbeit we speak wisdom among them that are perfect: yet not the wisdom of this world, nor of the princes of this world, that come to nought:
->
-> <sup>[7](/bible/1-corinthians/2#v7)</sup> But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:
 
 - Nor of the princes of this world: The princes of this world were the scribes and the Pharisees. Let me show you that real quick. The elders, should I say, I going to say just the scribes and Pharisees, the elders of Israel. Those were the princes.
 
@@ -537,6 +535,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "the-law", "wisdom"]
     > <sup>[28](/bible/1-corinthians/1#v28)</sup> And base things of the world, and things which are despised, hath God chosen, yea, and things which are not, to bring to nought things that are:
 
     And base things of the world, and things which are despised, hath God chosen, yea, and things which are not, to bring to nought things that are. The things that are were the princes of this world.
+
+> <sup>[7](/bible/1-corinthians/2#v7)</sup> But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:
 
 
 **[1 Corinthians 2:7-8](/bible/1-corinthians/2#v7)**  *[[1:01:15](https://www.youtube.com/watch?v=FqhCoA0ITn0&t=3675s)]*

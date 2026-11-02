@@ -191,15 +191,17 @@ Reading from an on-screen note on what the temple collections were for · read b
 
 **[Ecclesiasticus 7:7-9](/bible/sirach/7#v7)**  *[[35:29](https://www.youtube.com/watch?v=Qw2v07pohR4&t=2129s)]*
 
+- Offend not against the multitude of a city. What Simon of the tribe of Benjamin did was an offense to the city: you run to the other nations and tell them there is money, money that was meant for the widows, the orphans, the strangers, and the Levites.
+
 > <sup>[7](/bible/sirach/7#v7)</sup> Offend not against the multitude of a city, and then thou shalt not cast thyself down among the people.
 >
 > <sup>[8](/bible/sirach/7#v8)</sup> Bind not one sin upon another; for in one thou shalt not be unpunished.
->
-> <sup>[9](/bible/sirach/7#v9)</sup> Say not, God will look upon the multitude of my oblations, and when I offer to the most high God, he will accept it.
 
-- Offend not against the multitude of a city. What Simon of the tribe of Benjamin did was an offense to the city: you run to the other nations and tell them there is money, money that was meant for the widows, the orphans, the strangers, and the Levites.
 - Bind not one sin upon another: for in one thou shalt not be unpunished. In today's lesson you are going to see how it is never just one sin; it is like dominoes, one hits the next, and it goes all around. That is how sin works.
+
 - Say not, God will look upon the multitude of my oblations. You think you can purposely do evil and God is going to forgive you anyway? Rather than help his own people, Simon would rather help the Greeks.
+
+> <sup>[9](/bible/sirach/7#v9)</sup> Say not, God will look upon the multitude of my oblations, and when I offer to the most high God, he will accept it.
 
 **[2 Maccabees 3:7-40](/bible/2-maccabees/3#v7)**  *[[37:17](https://www.youtube.com/watch?v=Qw2v07pohR4&t=2237s)]*
 
@@ -422,6 +424,16 @@ Reading from an on-screen saying  *[[1:07:55](https://www.youtube.com/watch?v=Qw
 
 **[2 Maccabees 4:7-17](/bible/2-maccabees/4#v7)**  *[[1:31:04](https://www.youtube.com/watch?v=Qw2v07pohR4&t=5464s)]*
 
+- After the death of Seleucus, when Antiochus called Epiphanes took the kingdom, Jason the brother of Onias laboured underhand to be high priest. This is his own blood brother. Not only does Onias have to deal with Simon of the tribe of Benjamin; his own blood brother is trying to take the priesthood from him. Put yourself in his sandals: his good friend Simon turned on him, and now his brother.
+
+- Jason promised the king by intercession three hundred and threescore talents of silver, and of another revenue fourscore talents. That is called bribery. And the priesthood goes through bloodline. Sometimes it is not good enough for a brother to be the support brother; Jason said, I think I can do a better job, plus have access to all that money. You got to look at a man's motives.
+
+- Beside this, he promised to assign an hundred and fifty more, if he might have licence to set him up a place for exercise, and for the training up of youth in the fashions of the heathen. He convinced the king: I can get these Israelites to join your Olympics and become Hellenized. Onias wasn't rolling like that, but his brother said, I'll be the one to do it.
+
+- When he had gotten the rule into his hand, he forthwith brought his own nation to the Greekish fashion; he put down the governments which were according to the law and brought up new customs against the law; he built gladly a place of exercise, brought the chief young men under his subjection, and made them wear a hat: the hat of Hermes, shown in class alongside the discus statue. Such was the height of Greek fashions and increase of heathenish manners, through the exceeding profaneness of Jason, that ungodly wretch, and no high priest. Though he had the rule, the writer says he is not the true high priest.
+
+- The priests had no courage to serve any more at the altar, but despising the temple and neglecting the sacrifices, hastened to be partakers of the unlawful allowance in the place of exercise, after the game of Discus called them forth; not setting by the honours of their fathers, but liking the glory of the Grecians best of all. We see that same thing today: our people love white society more than their own forefathers. Go to the colleges; they love Greek society greater than anything else on the planet, and some of them will come against you for pointing out the injustice.
+
 > <sup>[7](/bible/2-maccabees/4#v7)</sup> But after the death of Seleucus, when Antiochus, called Epiphanes, took the kingdom, Jason the brother of Onias laboured underhand to be high priest,
 >
 > <sup>[8](/bible/2-maccabees/4#v8)</sup> Promising unto the king by intercession three hundred and threescore talents of silver, and of another revenue eighty talents:
@@ -441,15 +453,9 @@ Reading from an on-screen saying  *[[1:07:55](https://www.youtube.com/watch?v=Qw
 > <sup>[15](/bible/2-maccabees/4#v15)</sup> Not setting by the honours of their fathers, but liking the glory of the Grecians best of all.
 >
 > <sup>[16](/bible/2-maccabees/4#v16)</sup> By reason whereof sore calamity came upon them: for they had them to be their enemies and avengers, whose custom they followed so earnestly, and unto whom they desired to be like in all things.
->
-> <sup>[17](/bible/2-maccabees/4#v17)</sup> For it is not a light thing to do wickedly against the laws of God: but the time following shall declare these things.
 
-- After the death of Seleucus, when Antiochus called Epiphanes took the kingdom, Jason the brother of Onias laboured underhand to be high priest. This is his own blood brother. Not only does Onias have to deal with Simon of the tribe of Benjamin; his own blood brother is trying to take the priesthood from him. Put yourself in his sandals: his good friend Simon turned on him, and now his brother.
-- Jason promised the king by intercession three hundred and threescore talents of silver, and of another revenue fourscore talents. That is called bribery. And the priesthood goes through bloodline. Sometimes it is not good enough for a brother to be the support brother; Jason said, I think I can do a better job, plus have access to all that money. You got to look at a man's motives.
-- Beside this, he promised to assign an hundred and fifty more, if he might have licence to set him up a place for exercise, and for the training up of youth in the fashions of the heathen. He convinced the king: I can get these Israelites to join your Olympics and become Hellenized. Onias wasn't rolling like that, but his brother said, I'll be the one to do it.
-- When he had gotten the rule into his hand, he forthwith brought his own nation to the Greekish fashion; he put down the governments which were according to the law and brought up new customs against the law; he built gladly a place of exercise, brought the chief young men under his subjection, and made them wear a hat: the hat of Hermes, shown in class alongside the discus statue. Such was the height of Greek fashions and increase of heathenish manners, through the exceeding profaneness of Jason, that ungodly wretch, and no high priest. Though he had the rule, the writer says he is not the true high priest.
-- The priests had no courage to serve any more at the altar, but despising the temple and neglecting the sacrifices, hastened to be partakers of the unlawful allowance in the place of exercise, after the game of Discus called them forth; not setting by the honours of their fathers, but liking the glory of the Grecians best of all. We see that same thing today: our people love white society more than their own forefathers. Go to the colleges; they love Greek society greater than anything else on the planet, and some of them will come against you for pointing out the injustice.
 - By reason whereof sore calamity came upon them: for they had them to be their enemies and avengers, whose custom they followed so earnestly, and unto whom they desired to be like in all things. Imagine: at one time they were our enemies; now we go to them as our avengers. All you men that teach on the street must know this history; this is what Paul was constantly referencing when he says there is neither Jew nor Greek.
+
 - For it is not a light thing to do wickedly against the laws of God. Sometimes we take the laws of the Most High for granted with the mentality, I can sin and God won't do nothing.
 
   Precepts:
@@ -503,6 +509,8 @@ Reading from an on-screen saying  *[[1:07:55](https://www.youtube.com/watch?v=Qw
     > <sup>[12](/bible/2-esdras/9#v12)</sup> The same must know it after death by pain.
 
     Then shall they be in pitiful case, which now have abused my ways, and they that have cast them away despitefully shall dwell in torments. For such as in their life have received benefits, and have not known me, and they that have loathed my law, while they had yet liberty, and when as yet place of repentance was open unto them, understood not, but despised it; the same must know it after death by pain. Discussed in class: a commentator who said he is not oppressed because he makes ten million dollars a year; that is a benefit received while not knowing God. He once posted Revelation 3:9 with no commentary, got attacked for it, and quickly deleted it. Who says when you die you don't get punished? Nobody escapes.
+
+> <sup>[17](/bible/2-maccabees/4#v17)</sup> For it is not a light thing to do wickedly against the laws of God: but the time following shall declare these things.
 
 **[2 Maccabees 4:23-38](/bible/2-maccabees/4#v23)**  *[[1:49:37](https://www.youtube.com/watch?v=Qw2v07pohR4&t=6577s)]*
 
@@ -598,6 +606,12 @@ Reading from an on-screen web page shown with the map of Daphne · read by Capta
 
 **[2 Maccabees 5:1-14](/bible/2-maccabees/5#v1)**  *[[2:03:57](https://www.youtube.com/watch?v=Qw2v07pohR4&t=7437s)]*
 
+- Through all the city, for the space almost of forty days, there were seen horsemen running in the air, in cloth of gold, and armed with lances; and every man prayed that the apparition might turn to good.
+
+- When there was gone forth a false rumour, as though Antiochus had been dead, Jason took at the least a thousand men and suddenly made an assault upon the city, and Menelaus fled into the castle. Now Menelaus is running from his one-time friend Jason, whose priesthood he took. But Jason slew his own citizens without mercy, thinking they had been his enemies, and not his countrymen, because he despised his own people.
+
+- Howbeit for all this he obtained not the principality, but at the last received shame for the reward of his treason, and fled again into the country of the Ammonites. You think you can be a traitor and be honored and respected? Nobody likes a traitor; even in Rise of the Planet of the Apes, they spray painted the word donkey on the traitor apes. That is the brothers that left in 2018 and the brothers that just bugged out in LA. You cannot be trusted.
+
 > <sup>[1](/bible/2-maccabees/5#v1)</sup> About the same time Antiochus prepared his second voyage into Egypt:
 >
 > <sup>[2](/bible/2-maccabees/5#v2)</sup> And then it happened, that through all the city, for the space almost of forty days, there were seen horsemen running in the air, in cloth of gold, and armed with lances, like a band of soldiers,
@@ -613,25 +627,13 @@ Reading from an on-screen web page shown with the map of Daphne · read by Capta
 > <sup>[7](/bible/2-maccabees/5#v7)</sup> Howbeit for all this he obtained not the principality, but at the last received shame for the reward of his treason, and fled again into the country of the Ammonites.
 >
 > <sup>[8](/bible/2-maccabees/5#v8)</sup> In the end therefore he had an unhappy return, being accused before Aretas the king of the Arabians, fleeing from city to city, pursued of all men, hated as a forsaker of the laws, and being had in abomination as an open enemy of his country and countrymen, he was cast out into Egypt.
->
-> <sup>[9](/bible/2-maccabees/5#v9)</sup> Thus he that had driven many out of their country perished in a strange land, retiring to the Lacedemonians, and thinking there to find succour by reason of his kindred:
->
-> <sup>[10](/bible/2-maccabees/5#v10)</sup> And he that had cast out many unburied had none to mourn for him, nor any solemn funerals at all, nor sepulchre with his fathers.
->
-> <sup>[11](/bible/2-maccabees/5#v11)</sup> Now when this that was done came to the king’s car, he thought that Judea had revolted: whereupon removing out of Egypt in a furious mind, he took the city by force of arms,
->
-> <sup>[12](/bible/2-maccabees/5#v12)</sup> And commanded his men of war not to spare such as they met, and to slay such as went up upon the houses.
->
-> <sup>[13](/bible/2-maccabees/5#v13)</sup> Thus there was killing of young and old, making away of men, women, and children, slaying of virgins and infants.
->
-> <sup>[14](/bible/2-maccabees/5#v14)</sup> And there were destroyed within the space of three whole days fourscore thousand, whereof forty thousand were slain in the conflict; and no fewer sold than slain.
 
-- Through all the city, for the space almost of forty days, there were seen horsemen running in the air, in cloth of gold, and armed with lances; and every man prayed that the apparition might turn to good.
-- When there was gone forth a false rumour, as though Antiochus had been dead, Jason took at the least a thousand men and suddenly made an assault upon the city, and Menelaus fled into the castle. Now Menelaus is running from his one-time friend Jason, whose priesthood he took. But Jason slew his own citizens without mercy, thinking they had been his enemies, and not his countrymen, because he despised his own people.
-- Howbeit for all this he obtained not the principality, but at the last received shame for the reward of his treason, and fled again into the country of the Ammonites. You think you can be a traitor and be honored and respected? Nobody likes a traitor; even in Rise of the Planet of the Apes, they spray painted the word donkey on the traitor apes. That is the brothers that left in 2018 and the brothers that just bugged out in LA. You cannot be trusted.
 - In the end therefore he had an unhappy return: accused before Aretas the king of the Arabians, fleeing from city to city, pursued of all men, hated as a forsaker of the laws, and being had in abomination as an open enemy of his country and countrymen, he was cast out into Egypt. Thus he that had driven many out of their country perished in a strange land, retired to the Lacedemonians; and he that had cast out many unburied had none to mourn for him, nor any solemn funerals at all, nor sepulchre with his fathers. All that evil he did came back on him.
+
 - When these doings came to the king's ear, he thought that Judea had revolted; he took the city by force of arms, and there were destroyed within the space of three whole days fourscore thousand, whereof forty thousand were slain in the conflict, and no fewer sold than slain.
+
 - Yet was he not content with this, but presumed to go into the most holy temple of all the world; Menelaus, that traitor to the laws, and to his own country, being his guide. An Israelite guided Esau on what to do. And besides Menelaus, the governors he left were worse than all the rest, bearing a heavy hand over the citizens, having a malicious mind against his countrymen the Jews. That is why to this day they look for those who will be harder on us than Esau, because they have something to prove.
+
 - Apollonius, pretending peace, forbare till the holy day of the Sabbath, and taking the Jews keeping holy day, commanded his men to arm themselves, and slew all them that were gone to the celebrating of the Sabbath. But Judas Maccabeus with nine others withdrew himself into the wilderness, and lived in the mountains after the manner of beasts, and fed on herbs continually, lest they should be partakers of the pollution.
 
   Precepts:
@@ -643,6 +645,18 @@ Reading from an on-screen web page shown with the map of Daphne · read by Capta
     > <sup>[24](/bible/matthew/26#v24)</sup> The Son of man goeth as it is written of him: but woe unto that man by whom the Son of man is betrayed! it had been good for that man if he had not been born.
 
     Woe unto that man by whom the Son of man is betrayed! it had been good for that man if he had not been born. That is what the scripture says about the betrayer.
+
+> <sup>[9](/bible/2-maccabees/5#v9)</sup> Thus he that had driven many out of their country perished in a strange land, retiring to the Lacedemonians, and thinking there to find succour by reason of his kindred:
+>
+> <sup>[10](/bible/2-maccabees/5#v10)</sup> And he that had cast out many unburied had none to mourn for him, nor any solemn funerals at all, nor sepulchre with his fathers.
+>
+> <sup>[11](/bible/2-maccabees/5#v11)</sup> Now when this that was done came to the king’s car, he thought that Judea had revolted: whereupon removing out of Egypt in a furious mind, he took the city by force of arms,
+>
+> <sup>[12](/bible/2-maccabees/5#v12)</sup> And commanded his men of war not to spare such as they met, and to slay such as went up upon the houses.
+>
+> <sup>[13](/bible/2-maccabees/5#v13)</sup> Thus there was killing of young and old, making away of men, women, and children, slaying of virgins and infants.
+>
+> <sup>[14](/bible/2-maccabees/5#v14)</sup> And there were destroyed within the space of three whole days fourscore thousand, whereof forty thousand were slain in the conflict; and no fewer sold than slain.
 
 <div class="reading">
 
@@ -656,6 +670,10 @@ Reading from an on-screen definition of Lacedonia  *[[2:11:16](https://www.youtu
 
 **[2 Maccabees 13:3-8](/bible/2-maccabees/13#v3)**  *[[2:18:38](https://www.youtube.com/watch?v=Qw2v07pohR4&t=8318s)]*
 
+- You don't find out what happened to Menelaus until chapter 13. Menelaus joined himself with them, and with great dissimulation encouraged Antiochus, not for the safeguard of the country, but because he thought to have been made ruler. If I can't be high priest again, I'll be governor.
+
+- But the King of kings moved Antiochus's mind against this wicked wretch: one day you are friends, and the Most High says, no, that is not your friend. Lysias informed the king that this man was the cause of all mischief, so the king commanded to bring him unto Berea and to put him to death: a tower of fifty cubits high, full of ashes, into which men thrust whosoever was condemned of sacrilege.
+
 > <sup>[3](/bible/2-maccabees/13#v3)</sup> Menelaus also joined himself with them, and with great dissimulation encouraged Antiochus, not for the safeguard of the country, but because he thought to have been made governor.
 >
 > <sup>[4](/bible/2-maccabees/13#v4)</sup> But the King of kings moved Antiochus’ mind against this wicked wretch, and Lysias informed the king that this man was the cause of all mischief, so that the king commanded to bring him unto Berea, and to put him to death, as the manner is in that place.
@@ -665,12 +683,10 @@ Reading from an on-screen definition of Lacedonia  *[[2:11:16](https://www.youtu
 > <sup>[6](/bible/2-maccabees/13#v6)</sup> And whosoever was condemned of sacrilege, or had committed any other grievous crime, there did all men thrust him unto death.
 >
 > <sup>[7](/bible/2-maccabees/13#v7)</sup> Such a death it happened that wicked man to die, not having so much as burial in the earth; and that most justly:
->
-> <sup>[8](/bible/2-maccabees/13#v8)</sup> For inasmuch as he had committed many sins about the altar, whose fire and ashes were holy, he received his death in ashes.
 
-- You don't find out what happened to Menelaus until chapter 13. Menelaus joined himself with them, and with great dissimulation encouraged Antiochus, not for the safeguard of the country, but because he thought to have been made ruler. If I can't be high priest again, I'll be governor.
-- But the King of kings moved Antiochus's mind against this wicked wretch: one day you are friends, and the Most High says, no, that is not your friend. Lysias informed the king that this man was the cause of all mischief, so the king commanded to bring him unto Berea and to put him to death: a tower of fifty cubits high, full of ashes, into which men thrust whosoever was condemned of sacrilege.
 - Such a death it happened that wicked man to die, not having so much as burial in the earth; and that most justly: for inasmuch as he had committed many sins about the altar, whose fire and ashes were holy, he received his death in ashes. He got his just reward.
+
+> <sup>[8](/bible/2-maccabees/13#v8)</sup> For inasmuch as he had committed many sins about the altar, whose fire and ashes were holy, he received his death in ashes.
 
 **[2 Corinthians 13:5](/bible/2-corinthians/13#v5)**  *[[2:21:00](https://www.youtube.com/watch?v=Qw2v07pohR4&t=8460s)]*
 
@@ -694,16 +710,18 @@ Reading from an on-screen definition of Lacedonia  *[[2:11:16](https://www.youtu
 > <sup>[36](/bible/matthew/22#v36)</sup> Master, which is the great commandment in the law?
 >
 > <sup>[37](/bible/matthew/22#v37)</sup> Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.
->
+
+- Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind: this is the first and great commandment.
+
 > <sup>[38](/bible/matthew/22#v38)</sup> This is the first and great commandment.
 >
 > <sup>[39](/bible/matthew/22#v39)</sup> And the second is like unto it, Thou shalt love thy neighbour as thyself.
->
-> <sup>[40](/bible/matthew/22#v40)</sup> On these two commandments hang all the law and the prophets.
 
-- Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind: this is the first and great commandment.
 - And the second is like unto it: thou shalt love thy neighbour as thyself.
+
 - On these two commandments hang all the law and the prophets. What we read in Maccabees today pertains to those two great commandments.
+
+> <sup>[40](/bible/matthew/22#v40)</sup> On these two commandments hang all the law and the prophets.
 
 <div class="reading">
 

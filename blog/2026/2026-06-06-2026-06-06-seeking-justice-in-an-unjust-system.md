@@ -78,12 +78,14 @@ Seeing what was going on this week, the teacher put this lesson together. Our pe
 **[Deuteronomy 19:4-5](/bible/deuteronomy/19#v4)**  *[[1:19:17](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=4757s)]*
 
 > <sup>[4](/bible/deuteronomy/19#v4)</sup> And this is the case of the slayer, which shall flee thither, that he may live: Whoso killeth his neighbour ignorantly, whom he hated not in time past;
->
-> <sup>[5](/bible/deuteronomy/19#v5)</sup> As when a man goeth into the wood with his neighbour to hew wood, and his hand fetcheth a stroke with the axe to cut down the tree, and the head slippeth from the helve, and lighteth upon his neighbour, that he die; he shall flee unto one of those cities, and live:
 
 - This is the case of the slayer, which shall flee thither, that he may live: whoso killeth his neighbour ignorantly, whom he hated not in time past. Under God's law there were cities of refuge for the one who killed accidentally: what we call manslaughter.
+
 - The key is that you hated him not in time past: it was not premeditated. You got into a fight, you got jumped, you were defending yourself, and a life was lost that you never intended to take. Righteous judgment under God's law says the judgment for that should not be stiff; your life should not be taken away, because your intent was not to kill.
+
 - The Carmelo Anthony trial was followed in class, with an eyewitness account of the recording: he was under the tent minding his business, four came and surrounded him, an immediate attack, he tried to back out and get away, was grabbed and put in a headlock while the rest were still hitting, and in defending himself with a knife the other young man died. He was threatened; he was a small dude; he defended himself. Even so, a life was still lost, and the family of the young man that died is feeling it too; that is why you have to be careful with things like this.
+
+> <sup>[5](/bible/deuteronomy/19#v5)</sup> As when a man goeth into the wood with his neighbour to hew wood, and his hand fetcheth a stroke with the axe to cut down the tree, and the head slippeth from the helve, and lighteth upon his neighbour, that he die; he shall flee unto one of those cities, and live:
 
 **[Leviticus 19:15](/bible/leviticus/19#v15)**  *[[1:24:00](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=5040s)]*
 
@@ -104,15 +106,19 @@ Seeing what was going on this week, the teacher put this lesson together. Our pe
 **[Isaiah 30:20-22](/bible/isaiah/30#v20)**  *[[1:50:18](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=6618s)]*
 
 > <sup>[20](/bible/isaiah/30#v20)</sup> And though the Lord give you the bread of adversity, and the water of affliction, yet shall not thy teachers be removed into a corner any more, but thine eyes shall see thy teachers:
->
+
+- Though the Lord give you the bread of adversity, and the water of affliction: the bread of adversity is this injustice, this unjust system, our people killed in the street, our brothers put in prison at a high rate, the school to prison pipeline. The water of affliction is the tears coming down from mothers' eyes.
+
+- Yet shall not thy teachers be removed into a corner any more, but thine eyes shall see thy teachers. When our people are afflicted, that is when the teachers have to rise up. That is how a wise man gets mad: he goes out and teaches when he sees the oppression of his people. Our job is not to hide when these things happen; we have to teach on it and show people why these things are happening: because you trust in oppression.
+
+- And thine ears shall hear a word behind thee, saying, This is the way, walk ye in it. We tell them: you are Israelites; keep God's commandments; come out of Christianity. God brings the affliction because that is the only time our people will listen.
+
+- When we do march, we march to bring awareness, because after every march we set up camp and teach. We are not marching for justice from this system, thinking this system will help us.
+
 > <sup>[21](/bible/isaiah/30#v21)</sup> And thine ears shall hear a word behind thee, saying, This is the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left.
 >
 > <sup>[22](/bible/isaiah/30#v22)</sup> Ye shall defile also the covering of thy graven images of silver, and the ornament of thy molten images of gold: thou shalt cast them away as a menstruous cloth; thou shalt say unto it, Get thee hence.
 
-- Though the Lord give you the bread of adversity, and the water of affliction: the bread of adversity is this injustice, this unjust system, our people killed in the street, our brothers put in prison at a high rate, the school to prison pipeline. The water of affliction is the tears coming down from mothers' eyes.
-- Yet shall not thy teachers be removed into a corner any more, but thine eyes shall see thy teachers. When our people are afflicted, that is when the teachers have to rise up. That is how a wise man gets mad: he goes out and teaches when he sees the oppression of his people. Our job is not to hide when these things happen; we have to teach on it and show people why these things are happening: because you trust in oppression.
-- And thine ears shall hear a word behind thee, saying, This is the way, walk ye in it. We tell them: you are Israelites; keep God's commandments; come out of Christianity. God brings the affliction because that is the only time our people will listen.
-- When we do march, we march to bring awareness, because after every march we set up camp and teach. We are not marching for justice from this system, thinking this system will help us.
 - Ye shall defile also the covering of thy graven images of silver: our people will change and cast the idols away, but affliction comes first.
 
 **[Jeremiah 3:15](/bible/jeremiah/3#v15)**  *[[1:57:32](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=7052s)]*
@@ -166,30 +172,35 @@ Seeing what was going on this week, the teacher put this lesson together. Our pe
 **[2 Esdras 9:1-4](/bible/2-esdras/9#v1)**  *[[2:27:31](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=8851s)]*
 
 > <sup>[1](/bible/2-esdras/9#v1)</sup> He answered me then, and said, Measure thou the time diligently in itself: and when thou seest part of the signs past, which I have told thee before,
->
+
+- Measure thou the time diligently in itself: and when thou seest part of the signs past, then shalt thou understand that it is the very same time wherein the Highest will begin to visit the world which he made. That is the time we are living in right now.
+
 > <sup>[2](/bible/2-esdras/9#v2)</sup> Then shalt thou understand, that it is the very same time, wherein the Highest will begin to visit the world which he made.
 >
 > <sup>[3](/bible/2-esdras/9#v3)</sup> Therefore when there shall be seen earthquakes and uproars of the people in the world:
->
-> <sup>[4](/bible/2-esdras/9#v4)</sup> Then shalt thou well understand, that the most High spake of those things from the days that were before thee, even from the beginning.
 
-- Measure thou the time diligently in itself: and when thou seest part of the signs past, then shalt thou understand that it is the very same time wherein the Highest will begin to visit the world which he made. That is the time we are living in right now.
 - When there shall be seen earthquakes: there was an earthquake in the Philippines this week. And uproars of the people in the world: the white man is rising up all over Europe and all over America saying he does not want black people around him anymore. We are seeing uproars all over the earth, civil unrest, just as God said from the days that were before.
+
 - Videos were shown of what is stirring: a preacher overseas rejecting democracy outright and telling his children they must fight and resist because migrants have the same rights; crowds giving fascist salutes again; and riots in Belfast this week, where after a Sudanese asylum seeker was arrested and charged in a horrific attack, mobs went door to door hunting migrants, burning homes, buses, and shops, and beating any black person they saw on the street. The man arrested should go to jail and face charges, but they used it to show how much they hate black people. And one of the richest men on earth told white people plainly: you either fight back or you die. Our people are clueless to what is coming.
+
 - The last time these people turned into their real nature was World War II: over 80 million people died. This time it is going to be billions. After 1945 they had time to reflect, decided to change their image to the world, gave the slaves some rights, set up a system they called justice and equality, and opened their countries to the people they had colonized and oppressed. Decades later they are saying they should never have let any of them in. That is what you see happening in Europe and in America.
 
+> <sup>[4](/bible/2-esdras/9#v4)</sup> Then shalt thou well understand, that the most High spake of those things from the days that were before thee, even from the beginning.
+
 **[Daniel 2:40-43](/bible/daniel/2#v40)**  *[[2:31:50](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=9110s)]*
+
+- The fourth kingdom shall be strong as iron. The image runs Babylon, Persia and Media, Greece, Rome; and America and Europe are the extension of Rome, the iron, the feet and toes. This fourth kingdom broke in pieces and bruised and subjugated all nations, just as Rome did.
 
 > <sup>[40](/bible/daniel/2#v40)</sup> And the fourth kingdom shall be strong as iron: forasmuch as iron breaketh in pieces and subdueth all things: and as iron that breaketh all these, shall it break in pieces and bruise.
 >
 > <sup>[41](/bible/daniel/2#v41)</sup> And whereas thou sawest the feet and toes, part of potters’ clay, and part of iron, the kingdom shall be divided; but there shall be in it of the strength of the iron, forasmuch as thou sawest the iron mixed with miry clay.
->
+
+- The feet and toes, part of potters' clay and part of iron: the kingdom shall be divided. Europe is divided and America is divided, partly strong and partly broken, because the same people they colonized and destroyed, they brought to live among them. Trump is trying to fix the system, and Europe is trying to fix the system, but it is too late.
+
 > <sup>[42](/bible/daniel/2#v42)</sup> And as the toes of the feet were part of iron, and part of clay, so the kingdom shall be partly strong, and partly broken.
 >
 > <sup>[43](/bible/daniel/2#v43)</sup> And whereas thou sawest iron mixed with miry clay, they shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay.
 
-- The fourth kingdom shall be strong as iron. The image runs Babylon, Persia and Media, Greece, Rome; and America and Europe are the extension of Rome, the iron, the feet and toes. This fourth kingdom broke in pieces and bruised and subjugated all nations, just as Rome did.
-- The feet and toes, part of potters' clay and part of iron: the kingdom shall be divided. Europe is divided and America is divided, partly strong and partly broken, because the same people they colonized and destroyed, they brought to live among them. Trump is trying to fix the system, and Europe is trying to fix the system, but it is too late.
 - They shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay. The iron mingled itself with the seed of men after 1945: Britain opened itself to its colonies, and America opened after civil rights. But God says they will not cleave one to another. White people and everybody else are not going to get along. That is what you see going on in Europe and in America.
 
   Precepts:
@@ -201,6 +212,16 @@ Seeing what was going on this week, the teacher put this lesson together. Our pe
     Never trust thine enemy: for like as iron rusteth, so is his wickedness. Who is the iron? That fourth kingdom. In the 50s and the 1800s you understood who your enemy was. As iron rusts, the rust will always come back: even though he said we changed, we gave you civil rights, you see the wickedness coming back now. Though he humble himself, and go crouching, yet take good heed and beware of him, and thou shalt be unto him as if thou hadst wiped a lookingglass, and thou shalt know that his rust hath not been altogether wiped away. He did not change; he is the same person, and you are seeing it today.
 
 **[2 Esdras 11:37-46](/bible/2-esdras/11#v37)**  *[[2:43:08](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=9788s)]*
+
+- A roaring lion chased out of the wood, sending a man's voice unto the eagle: the roaring lion is the spirit of Christ in the prophets, and the eagle is the fourth kingdom of Daniel 2.
+
+- Art not thou it that remainest of the four beasts, whom I made to reign in my world, that the end of their times might come through them? The end comes through them because they have created weapons that can destroy everybody on this earth, and they will use them on themselves.
+
+- The fourth came and overcame all the beasts that were past, and had power over the world with great fearfulness, and over all the compass of the earth with much wicked oppression. That is how this kingdom rules, dwelling in the seat acting like a righteous Christian nation.
+
+- For the earth hast thou not judged with truth. They say justice is blind; this kingdom does not judge with truth. It is not just America: Patrice Lumumba and Thomas Sankara were executed because they stood against this unjust system, and there has never been justice for that. Look at what is going on in Palestine, in Lebanon, in the Congo: who is bringing forth righteous judgment on the earth?
+
+- Thou hast afflicted the meek, thou hast hurt the peaceable, thou hast loved liars, and destroyed the dwellings of them that brought forth fruit, and hast cast down the walls of such as did thee no harm. God is describing this people.
 
 > <sup>[37](/bible/2-esdras/11#v37)</sup> And I beheld, and lo, as it were a roaring lion chased out of the wood: and I saw that he sent out a man’s voice unto the eagle, and said,
 >
@@ -215,19 +236,14 @@ Seeing what was going on this week, the teacher put this lesson together. Our pe
 > <sup>[42](/bible/2-esdras/11#v42)</sup> For thou hast afflicted the meek, thou hast hurt the peaceable, thou hast loved liars, and destroyed the dwellings of them that brought forth fruit, and hast cast down the walls of such as did thee no harm.
 >
 > <sup>[43](/bible/2-esdras/11#v43)</sup> Therefore is thy wrongful dealing come up unto the Highest, and thy pride unto the Mighty.
->
+
+- Therefore is thy wrongful dealing come up unto the Highest: the Highest hath looked upon the proud times, and, behold, they are ended, and his abominations are fulfilled. And therefore appear thou no more, thou eagle. What is the symbol of America?
+
 > <sup>[44](/bible/2-esdras/11#v44)</sup> The Highest also hath looked upon the proud times, and, behold, they are ended, and his abominations are fulfilled.
 >
 > <sup>[45](/bible/2-esdras/11#v45)</sup> And therefore appear no more, thou eagle, nor thy horrible wings, nor thy wicked feathers nor thy malicious heads, nor thy hurtful claws, nor all thy vain body:
 >
 > <sup>[46](/bible/2-esdras/11#v46)</sup> That all the earth may be refreshed, and may return, being delivered from thy violence, and that she may hope for the judgment and mercy of him that made her.
-
-- A roaring lion chased out of the wood, sending a man's voice unto the eagle: the roaring lion is the spirit of Christ in the prophets, and the eagle is the fourth kingdom of Daniel 2.
-- Art not thou it that remainest of the four beasts, whom I made to reign in my world, that the end of their times might come through them? The end comes through them because they have created weapons that can destroy everybody on this earth, and they will use them on themselves.
-- The fourth came and overcame all the beasts that were past, and had power over the world with great fearfulness, and over all the compass of the earth with much wicked oppression. That is how this kingdom rules, dwelling in the seat acting like a righteous Christian nation.
-- For the earth hast thou not judged with truth. They say justice is blind; this kingdom does not judge with truth. It is not just America: Patrice Lumumba and Thomas Sankara were executed because they stood against this unjust system, and there has never been justice for that. Look at what is going on in Palestine, in Lebanon, in the Congo: who is bringing forth righteous judgment on the earth?
-- Thou hast afflicted the meek, thou hast hurt the peaceable, thou hast loved liars, and destroyed the dwellings of them that brought forth fruit, and hast cast down the walls of such as did thee no harm. God is describing this people.
-- Therefore is thy wrongful dealing come up unto the Highest: the Highest hath looked upon the proud times, and, behold, they are ended, and his abominations are fulfilled. And therefore appear thou no more, thou eagle. What is the symbol of America?
 
 **[Ecclesiasticus 16:22](/bible/sirach/16#v22)**  *[[2:48:25](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=10105s)]*
 

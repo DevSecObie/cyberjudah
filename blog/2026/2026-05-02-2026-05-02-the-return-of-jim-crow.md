@@ -85,15 +85,17 @@ Sabbath class from the New York school, taught by Deacon. Happy new moon: the ne
 
 **[Job 14:5-7](/bible/job/14#v5)**  *[[20:50](https://www.youtube.com/watch?v=Qd8NC9s9670&t=1250s)]*
 
+- Seeing his days are determined, the number of his months are with thee, thou hast appointed his bounds that he cannot pass. Our days on this earth are determined; there is a day and an hour that every one of us has to die, already ordained by God, and we cannot pass that bound. Though the scriptures show that if you fast and pray and really go in, the Lord can add years.
+
+- Till he shall accomplish, as an hireling, his day. A hireling is somebody you give work for a certain amount of time. God sends us on this earth with a job to do and a certain amount of time to do it, and once the job is finished and the time is up, he takes you back. The same with Abraham, Isaac, Jacob, David, Judah Maccabee and his brothers, Mattathias, Elijah: God has a purpose and a job for every one of us.
+
 > <sup>[5](/bible/job/14#v5)</sup> Seeing his days are determined, the number of his months are with thee, thou hast appointed his bounds that he cannot pass;
 >
 > <sup>[6](/bible/job/14#v6)</sup> Turn from him, that he may rest, till he shall accomplish, as an hireling, his day.
->
-> <sup>[7](/bible/job/14#v7)</sup> For there is hope of a tree, if it be cut down, that it will sprout again, and that the tender branch thereof will not cease.
 
-- Seeing his days are determined, the number of his months are with thee, thou hast appointed his bounds that he cannot pass. Our days on this earth are determined; there is a day and an hour that every one of us has to die, already ordained by God, and we cannot pass that bound. Though the scriptures show that if you fast and pray and really go in, the Lord can add years.
-- Till he shall accomplish, as an hireling, his day. A hireling is somebody you give work for a certain amount of time. God sends us on this earth with a job to do and a certain amount of time to do it, and once the job is finished and the time is up, he takes you back. The same with Abraham, Isaac, Jacob, David, Judah Maccabee and his brothers, Mattathias, Elijah: God has a purpose and a job for every one of us.
 - Turn from him, that he may rest: that rest is going back to paradise if you are righteous. For there is hope of a tree, if it be cut down, that it will sprout again: our hope for immortality is that tree; a class for another day.
+
+> <sup>[7](/bible/job/14#v7)</sup> For there is hope of a tree, if it be cut down, that it will sprout again, and that the tender branch thereof will not cease.
 
 **[Romans 14:8](/bible/romans/14#v8)**  *[[26:29](https://www.youtube.com/watch?v=Qd8NC9s9670&t=1589s)]*
 
@@ -196,15 +198,18 @@ Reading from a write-up sent in for class on what Jim Crow is  *[[33:26](https:/
 **[Habakkuk 1:9-11](/bible/habakkuk/1#v9)**  *[[42:31](https://www.youtube.com/watch?v=Qd8NC9s9670&t=2551s)]*
 
 > <sup>[9](/bible/habakkuk/1#v9)</sup> They shall come all for violence: their faces shall sup up as the east wind, and they shall gather the captivity as the sand.
->
+
+- They shall come all for violence: when the white man came to America, he came for violence; he murdered, he killed, and he took. They shall gather the captivity as the sand: the captivity is the twelve tribes of Israel. They shall scoff at the kings, and the princes shall be a scorn unto them: they enslaved our kings, and our chiefs were a scorn to them, here in America, in Puerto Rico, and in Africa.
+
+- They shall deride every stronghold: every stronghold in the western hemisphere was taken, whether the Aztecs, the Mayans, the Incas, the Zulu, the Ashanti, or the North American Indians.
+
+- Then shall his mind change, and he shall pass over, and offend, imputing this his power unto his god. After he murdered and took every stronghold, he starts teaching Christianity: in God we trust, God bless America. He imputes his power to his god, the white image of Christ, and calls himself a God fearing country.
+
+- When and why did his mind really change? After 1945, when America became the superpower. America could not push democracy in Africa and around the world and act like a loving, God fearing people about rights and justice while it still had segregation and Jim Crow laws at home. The other countries said, you have no moral standing; look how you treat the black people in your country. So he changed his image: I am going to keep oppressing, but in a slick way, not openly before the world. That is what happened in 1965 with civil rights. It was not because the white man loved you; it was international pressure. Lyndon Johnson is even quoted saying that if they give us these things, we will be voting for his party for the next hundred years.
+
 > <sup>[10](/bible/habakkuk/1#v10)</sup> And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it.
 >
 > <sup>[11](/bible/habakkuk/1#v11)</sup> Then shall his mind change, and he shall pass over, and offend, imputing this his power unto his god.
-
-- They shall come all for violence: when the white man came to America, he came for violence; he murdered, he killed, and he took. They shall gather the captivity as the sand: the captivity is the twelve tribes of Israel. They shall scoff at the kings, and the princes shall be a scorn unto them: they enslaved our kings, and our chiefs were a scorn to them, here in America, in Puerto Rico, and in Africa.
-- They shall deride every stronghold: every stronghold in the western hemisphere was taken, whether the Aztecs, the Mayans, the Incas, the Zulu, the Ashanti, or the North American Indians.
-- Then shall his mind change, and he shall pass over, and offend, imputing this his power unto his god. After he murdered and took every stronghold, he starts teaching Christianity: in God we trust, God bless America. He imputes his power to his god, the white image of Christ, and calls himself a God fearing country.
-- When and why did his mind really change? After 1945, when America became the superpower. America could not push democracy in Africa and around the world and act like a loving, God fearing people about rights and justice while it still had segregation and Jim Crow laws at home. The other countries said, you have no moral standing; look how you treat the black people in your country. So he changed his image: I am going to keep oppressing, but in a slick way, not openly before the world. That is what happened in 1965 with civil rights. It was not because the white man loved you; it was international pressure. Lyndon Johnson is even quoted saying that if they give us these things, we will be voting for his party for the next hundred years.
 
 **[Isaiah 28:15](/bible/isaiah/28#v15)**  *[[53:01](https://www.youtube.com/watch?v=Qd8NC9s9670&t=3181s)]*
 
@@ -228,15 +233,18 @@ Reading from a write-up sent in for class on what Jim Crow is  *[[33:26](https:/
 **[Isaiah 28:16-18](/bible/isaiah/28#v16)**  *[[57:37](https://www.youtube.com/watch?v=Qd8NC9s9670&t=3457s)]*
 
 > <sup>[16](/bible/isaiah/28#v16)</sup> Therefore thus saith the Lord God, Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner stone, a sure foundation: he that believeth shall not make haste.
->
+
+- Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner stone, a sure foundation: that is Christ.
+
+- Judgment also will I lay to the line, and righteousness to the plummet. The line is a plumb line, a tool to build a wall straight; the church of Christ is going to be built right. It also goes into teaching, like Psalms 19 where their line went out through all the earth.
+
+- The hail shall sweep away the refuge of lies, and the waters shall overflow the hiding place. The hail is destruction sweeping away all the lies our people trust in: Christ born December 25th, Easter, white Jesus. The waters are the word of God, revealing every secret thing they have done and tearing down every lie with the scriptures.
+
+- And your covenant with death shall be disannulled, and your agreement with hell shall not stand. The covenant black America made in 1964 and 1965, the civil rights, the Voting Rights Act, the integration, all of it is going to fall apart, and you are seeing it happen right now before your eyes. When the overflowing scourge shall pass through, then ye shall be trodden down by it: judgment is coming to this place.
+
 > <sup>[17](/bible/isaiah/28#v17)</sup> Judgment also will I lay to the line, and righteousness to the plummet: and the hail shall sweep away the refuge of lies, and the waters shall overflow the hiding place.
 >
 > <sup>[18](/bible/isaiah/28#v18)</sup> And your covenant with death shall be disannulled, and your agreement with hell shall not stand; when the overflowing scourge shall pass through, then ye shall be trodden down by it.
-
-- Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner stone, a sure foundation: that is Christ.
-- Judgment also will I lay to the line, and righteousness to the plummet. The line is a plumb line, a tool to build a wall straight; the church of Christ is going to be built right. It also goes into teaching, like Psalms 19 where their line went out through all the earth.
-- The hail shall sweep away the refuge of lies, and the waters shall overflow the hiding place. The hail is destruction sweeping away all the lies our people trust in: Christ born December 25th, Easter, white Jesus. The waters are the word of God, revealing every secret thing they have done and tearing down every lie with the scriptures.
-- And your covenant with death shall be disannulled, and your agreement with hell shall not stand. The covenant black America made in 1964 and 1965, the civil rights, the Voting Rights Act, the integration, all of it is going to fall apart, and you are seeing it happen right now before your eyes. When the overflowing scourge shall pass through, then ye shall be trodden down by it: judgment is coming to this place.
 
 **[Micah 2:10](/bible/micah/2#v10)**  *[[1:02:53](https://www.youtube.com/watch?v=Qd8NC9s9670&t=3773s)]*
 
@@ -288,23 +296,28 @@ Reading from an article on the rescheduling of marijuana  *[[1:45:45](https://ww
 
 **[Isaiah 32:5-10](/bible/isaiah/32#v5)**  *[[1:58:43](https://www.youtube.com/watch?v=Qd8NC9s9670&t=7123s)]*
 
+- The vile person shall be no more called liberal. In 1965 we made the covenant with the vile person that calls himself a liberal. For the vile person will speak villany, and his heart will work iniquity, to practise hypocrisy: they say we love black people, then sign laws and set things up to destroy our people. The Democrats are not your defense from the Republicans; the Democrats are villains too.
+
 > <sup>[5](/bible/isaiah/32#v5)</sup> The vile person shall be no more called liberal, nor the churl said to be bountiful.
 >
 > <sup>[6](/bible/isaiah/32#v6)</sup> For the vile person will speak villany, and his heart will work iniquity, to practise hypocrisy, and to utter error against the Lord, to make empty the soul of the hungry, and he will cause the drink of the thirsty to fail.
->
+
+- To make empty the soul of the hungry, and he will cause the drink of the thirsty to fail: our people hungry and thirsty for the word of God are not being fed following these politicians.
+
 > <sup>[7](/bible/isaiah/32#v7)</sup> The instruments also of the churl are evil: he deviseth wicked devices to destroy the poor with lying words, even when the needy speaketh right.
->
+
+- The instruments also of the churl are evil: Section 8 with the father out of the house, welfare, food stamps, the independent woman that does not need a man. He deviseth wicked devices to destroy the poor with lying words. One of those devices was civil rights itself. There was never any real integration; we were assimilated. We no longer own our own farms, our own businesses, our own banks. They took away our power; that is what happened in the civil rights movement.
+
+- But the liberal deviseth liberal things; and by liberal things shall he stand. And all those liberal things are going to fail.
+
+- Rise up, ye women that are at ease; hear my voice, ye careless daughters. Why does God address the women at ease? Because the liberal things were set up around the black woman, to keep the house divided: Section 8 as long as the man is not around, food stamps as long as the man is not around, the career woman message. Now over 200,000 women in high positions have lost their jobs, the nursing funding is being cut, and even child support enforcement is being turned into a trap. All of it is failing, because God said it would.
+
 > <sup>[8](/bible/isaiah/32#v8)</sup> But the liberal deviseth liberal things; and by liberal things shall he stand.
 >
 > <sup>[9](/bible/isaiah/32#v9)</sup> Rise up, ye women that are at ease; hear my voice, ye careless daughters; give ear unto my speech.
 >
 > <sup>[10](/bible/isaiah/32#v10)</sup> Many days and years shall ye be troubled, ye careless women: for the vintage shall fail, the gathering shall not come.
 
-- The vile person shall be no more called liberal. In 1965 we made the covenant with the vile person that calls himself a liberal. For the vile person will speak villany, and his heart will work iniquity, to practise hypocrisy: they say we love black people, then sign laws and set things up to destroy our people. The Democrats are not your defense from the Republicans; the Democrats are villains too.
-- To make empty the soul of the hungry, and he will cause the drink of the thirsty to fail: our people hungry and thirsty for the word of God are not being fed following these politicians.
-- The instruments also of the churl are evil: Section 8 with the father out of the house, welfare, food stamps, the independent woman that does not need a man. He deviseth wicked devices to destroy the poor with lying words. One of those devices was civil rights itself. There was never any real integration; we were assimilated. We no longer own our own farms, our own businesses, our own banks. They took away our power; that is what happened in the civil rights movement.
-- But the liberal deviseth liberal things; and by liberal things shall he stand. And all those liberal things are going to fail.
-- Rise up, ye women that are at ease; hear my voice, ye careless daughters. Why does God address the women at ease? Because the liberal things were set up around the black woman, to keep the house divided: Section 8 as long as the man is not around, food stamps as long as the man is not around, the career woman message. Now over 200,000 women in high positions have lost their jobs, the nursing funding is being cut, and even child support enforcement is being turned into a trap. All of it is failing, because God said it would.
 - Many days and years shall ye be troubled: affliction is coming here in Babylon, and everything the white man gave is going to be taken. God says rise up and hear my voice: it is the word of God you are hearing, and the time is now.
 
 **[Hosea 5:15](/bible/hosea/5#v15)**  *[[2:08:31](https://www.youtube.com/watch?v=Qd8NC9s9670&t=7711s)]*

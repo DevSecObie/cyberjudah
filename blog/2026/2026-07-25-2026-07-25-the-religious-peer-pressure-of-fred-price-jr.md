@@ -127,6 +127,14 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 
 **[Ezekiel 35:2-15](/bible/ezekiel/35#v2)**  *[[47:58](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=2878s)]*
 
+- The Lord told Ezekiel to set his face against Mount Seir and prophesy against it. When the Bible prophesies against Seir, it is prophesying against Esau. That is what we are doing today.
+
+  Precepts:
+  - **[Genesis 36:8](/bible/genesis/36#v8)**
+    > <sup>[8](/bible/genesis/36#v8)</sup> Thus dwelt Esau in mount Seir: Esau is Edom.
+
+    Thus dwelt Esau in mount Seir: Esau is Edom. Now we have context; no one can say we are making it up.
+
 > <sup>[2](/bible/ezekiel/35#v2)</sup> Son of man, set thy face against mount Seir, and prophesy against it,
 >
 > <sup>[3](/bible/ezekiel/35#v3)</sup> And say unto it, Thus saith the Lord God; Behold, O mount Seir, I am against thee, and I will stretch out mine hand against thee, and I will make thee most desolate.
@@ -134,7 +142,19 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 > <sup>[4](/bible/ezekiel/35#v4)</sup> I will lay thy cities waste, and thou shalt be desolate, and thou shalt know that I am the Lord.
 >
 > <sup>[5](/bible/ezekiel/35#v5)</sup> Because thou hast had a perpetual hatred, and hast shed the blood of the children of Israel by the force of the sword in the time of their calamity, in the time that their iniquity had an end:
->
+
+- Because thou hast had a perpetual hatred: a hatred that has gone on for centuries, from Esau their father to his children toward us. That is why the atrocities against our people have been so cruel. A historical lynching account was summarized in class: a pregnant woman who sought justice after her husband was murdered was herself lynched along with her unborn child; the account was told to show what a perpetual hatred looks like, and that there is no equivalent record of our people ever doing such a thing in return. Haiti was retaliation against enslavers; this was done to the innocent.
+
+- That envy goes back to the birthright. Esau was the firstborn and felt it was not fair that God chose Jacob; that envy is what fuels the perpetual hatred, and God will do to Edom according to his anger and according to his envy.
+
+- Because these two nations and these two countries shall be mine, and we will possess it. The two nations are Judah and Israel; the two countries back then were Judea and Samaria, and in prophecy the lands of the regathering. They took one as Romans and later as Israelis, and the other they took as Christians, as conquistadors.
+
+- And that I have heard all thy blasphemies. Remember Revelation 2:9: the blasphemy of them which say they are Jews and are not. Ezekiel 35 is a direct precept to Revelation 2:9 and 3:9: possess the land, and profess to be the people that belong there.
+
+- Thus with your mouth ye have boasted against me. This has been said to our faces: yes, you are the real Jews, but the land is ours now. They know; the world does not.
+
+- When the whole earth rejoiceth, I will make thee desolate. As long as that nation runs the earth there is no peace for us. And all Idumea, even all of it: the judgment the Most High pronounces on Edom is complete, with no exceptions and no partiality.
+
 > <sup>[6](/bible/ezekiel/35#v6)</sup> Therefore, as I live, saith the Lord God, I will prepare thee unto blood, and blood shall pursue thee: sith thou hast not hated blood, even blood shall pursue thee.
 >
 > <sup>[7](/bible/ezekiel/35#v7)</sup> Thus will I make mount Seir most desolate, and cut off from it him that passeth out and him that returneth.
@@ -155,22 +175,15 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 >
 > <sup>[15](/bible/ezekiel/35#v15)</sup> As thou didst rejoice at the inheritance of the house of Israel, because it was desolate, so will I do unto thee: thou shalt be desolate, O mount Seir, and all Idumea, even all of it: and they shall know that I am the Lord.
 
-- The Lord told Ezekiel to set his face against Mount Seir and prophesy against it. When the Bible prophesies against Seir, it is prophesying against Esau. That is what we are doing today.
-
-  Precepts:
-  - **[Genesis 36:8](/bible/genesis/36#v8)**
-    > <sup>[8](/bible/genesis/36#v8)</sup> Thus dwelt Esau in mount Seir: Esau is Edom.
-
-    Thus dwelt Esau in mount Seir: Esau is Edom. Now we have context; no one can say we are making it up.
-
-- Because thou hast had a perpetual hatred: a hatred that has gone on for centuries, from Esau their father to his children toward us. That is why the atrocities against our people have been so cruel. A historical lynching account was summarized in class: a pregnant woman who sought justice after her husband was murdered was herself lynched along with her unborn child; the account was told to show what a perpetual hatred looks like, and that there is no equivalent record of our people ever doing such a thing in return. Haiti was retaliation against enslavers; this was done to the innocent.
-- That envy goes back to the birthright. Esau was the firstborn and felt it was not fair that God chose Jacob; that envy is what fuels the perpetual hatred, and God will do to Edom according to his anger and according to his envy.
-- Because these two nations and these two countries shall be mine, and we will possess it. The two nations are Judah and Israel; the two countries back then were Judea and Samaria, and in prophecy the lands of the regathering. They took one as Romans and later as Israelis, and the other they took as Christians, as conquistadors.
-- And that I have heard all thy blasphemies. Remember Revelation 2:9: the blasphemy of them which say they are Jews and are not. Ezekiel 35 is a direct precept to Revelation 2:9 and 3:9: possess the land, and profess to be the people that belong there.
-- Thus with your mouth ye have boasted against me. This has been said to our faces: yes, you are the real Jews, but the land is ours now. They know; the world does not.
-- When the whole earth rejoiceth, I will make thee desolate. As long as that nation runs the earth there is no peace for us. And all Idumea, even all of it: the judgment the Most High pronounces on Edom is complete, with no exceptions and no partiality.
-
 **[Wisdom of Solomon 2:10-21](/bible/wisdom-of-solomon/2#v10)**  *[[1:00:49](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=3649s)]*
+
+- Solomon is prophesying of the wicked elders of our people, the Pharisees, Sadducees, scribes, and chief priests. After Rome overthrew them, that leadership class fled toward the Caucasus and taught the Khazars Babylonian Talmudism, and those converts learned from us how to be Jews and became us. So the prophecy is twofold: the wicked of our people then, and the impostors today, because the Israeli today upholds the same doctrine as the corrupt elders Christ rebuked.
+
+- Let our strength be the law of justice. Who controls the legal system, the banking system, the real estate, the media, the fashion, the music? They control who is in office. Even the I Have a Dream speech was shaped by their pen; King's mountaintop speech, where he told Harry Belafonte he feared he had integrated his people into a burning house, was his own.
+
+- Therefore let us lie in wait for the righteous, because he is not for our turn, and he is clean contrary to our doings. They pass laws quietly to thwart, imprison, and exile the righteous.
+
+- He professeth to have the knowledge of God, and he calleth himself the child of the Lord. We call ourselves Israelites, the children of God, and we were made to reprove their thoughts: when the wicked arise, the Lord sends the righteous to correct them.
 
 > <sup>[10](/bible/wisdom-of-solomon/2#v10)</sup> Let us oppress the poor righteous man, let us not spare the widow, nor reverence the ancient gray hairs of the aged.
 >
@@ -183,7 +196,11 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 > <sup>[14](/bible/wisdom-of-solomon/2#v14)</sup> He was made to reprove our thoughts.
 >
 > <sup>[15](/bible/wisdom-of-solomon/2#v15)</sup> He is grievous unto us even to behold: for his life is not like other men’s, his ways are of another fashion.
->
+
+- He is grievous unto us, even to behold: they cannot stand how we look. Our life is not like other men's; we do not follow their ways or their media.
+
+- Let us prove what shall happen in the end of him. Why do they say that? Because they plan to be responsible for the end of him. Let us see if he meets an accident; if the just man be the son of God, he will help him. Let us examine him with despitefulness and torture; let us condemn him with a shameful death. Such things they did imagine, and were deceived, for their own wickedness hath blinded them: God has other plans for us. The most fearsome Israelite to this system is a righteous one who cannot be bought, bribed, slandered, or destroyed, and the resurrection means they can never be rid of us.
+
 > <sup>[16](/bible/wisdom-of-solomon/2#v16)</sup> We are esteemed of him as counterfeits: he abstaineth from our ways as from filthiness: he pronounceth the end of the just to be blessed, and maketh his boast that God is his father.
 >
 > <sup>[17](/bible/wisdom-of-solomon/2#v17)</sup> Let us see if his words be true: and let us prove what shall happen in the end of him.
@@ -196,20 +213,12 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 >
 > <sup>[21](/bible/wisdom-of-solomon/2#v21)</sup> Such things they did imagine, and were deceived: for their own wickedness hath blinded them.
 
-- Solomon is prophesying of the wicked elders of our people, the Pharisees, Sadducees, scribes, and chief priests. After Rome overthrew them, that leadership class fled toward the Caucasus and taught the Khazars Babylonian Talmudism, and those converts learned from us how to be Jews and became us. So the prophecy is twofold: the wicked of our people then, and the impostors today, because the Israeli today upholds the same doctrine as the corrupt elders Christ rebuked.
-- Let our strength be the law of justice. Who controls the legal system, the banking system, the real estate, the media, the fashion, the music? They control who is in office. Even the I Have a Dream speech was shaped by their pen; King's mountaintop speech, where he told Harry Belafonte he feared he had integrated his people into a burning house, was his own.
-- Therefore let us lie in wait for the righteous, because he is not for our turn, and he is clean contrary to our doings. They pass laws quietly to thwart, imprison, and exile the righteous.
-- He professeth to have the knowledge of God, and he calleth himself the child of the Lord. We call ourselves Israelites, the children of God, and we were made to reprove their thoughts: when the wicked arise, the Lord sends the righteous to correct them.
-- He is grievous unto us, even to behold: they cannot stand how we look. Our life is not like other men's; we do not follow their ways or their media.
-- Let us prove what shall happen in the end of him. Why do they say that? Because they plan to be responsible for the end of him. Let us see if he meets an accident; if the just man be the son of God, he will help him. Let us examine him with despitefulness and torture; let us condemn him with a shameful death. Such things they did imagine, and were deceived, for their own wickedness hath blinded them: God has other plans for us. The most fearsome Israelite to this system is a righteous one who cannot be bought, bribed, slandered, or destroyed, and the resurrection means they can never be rid of us.
-
 **[Isaiah 29:20-21](/bible/isaiah/29#v20)**  *[[1:09:14](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=4154s)]*
 
 > <sup>[20](/bible/isaiah/29#v20)</sup> For the terrible one is brought to nought, and the scorner is consumed, and all that watch for iniquity are cut off:
->
-> <sup>[21](/bible/isaiah/29#v21)</sup> That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought.
 
 - The terrible one is brought to nought: Edom is the terrible one, doing terrible things to nations behind the scenes to maintain power, and he will be destroyed as Ezekiel 35 said.
+
 - They make a man an offender for a word: say certain things and you face jail time, imprisonment, exile, fines, firing. And they lay a snare for him that reproveth in the gate: traps for the ones teaching in the streets.
 
   Precepts:
@@ -217,6 +226,8 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
     > <sup>[10](/bible/amos/5#v10)</sup> They hate him that rebuketh in the gate, and they abhor him that speaketh uprightly.
 
     They hate him that rebuketh in the gate, and they abhor him that speaketh uprightly. So they will pass laws to make the reprover an offender for his words: hate speech, terrorism, treason, unpatriotic. Lock him up. They will do it because they can.
+
+> <sup>[21](/bible/isaiah/29#v21)</sup> That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought.
 
 **[James 1:8](/bible/james/1#v8)**  *[[1:13:12](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=4392s)]*
 
@@ -364,14 +375,16 @@ Reading from the *Jewish Encyclopedia*, on the Khazars  *[[1:19:14](https://www.
 **[Isaiah 11:10-12](/bible/isaiah/11#v10)**  *[[1:41:48](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=6108s)]*
 
 > <sup>[10](/bible/isaiah/11#v10)</sup> And in that day there shall be a root of Jesse, which shall stand for an ensign of the people; to it shall the Gentiles seek: and his rest shall be glorious.
->
+
+- In that day there shall be a root of Jesse: that is Christ, the ensign. To it shall the Gentiles seek, and his rest shall be glorious. Read the context before you make the Gentiles here the heathen nations: the ones who need rest are the ones in captivity.
+
+- The Lord shall set his hand again the second time to recover the remnant of his people from Assyria, from Egypt, from Pathros, from Cush, from Elam, from Shinar, from Hamath, and from the islands of the sea: our people scattered through those lands and the islands of the oceans.
+
+- Verse 12 defines the nations of the prophecy: he shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth. That is who is gathered the second time to receive the glorious rest. That is context.
+
 > <sup>[11](/bible/isaiah/11#v11)</sup> And it shall come to pass in that day, that the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea.
 >
 > <sup>[12](/bible/isaiah/11#v12)</sup> And he shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.
-
-- In that day there shall be a root of Jesse: that is Christ, the ensign. To it shall the Gentiles seek, and his rest shall be glorious. Read the context before you make the Gentiles here the heathen nations: the ones who need rest are the ones in captivity.
-- The Lord shall set his hand again the second time to recover the remnant of his people from Assyria, from Egypt, from Pathros, from Cush, from Elam, from Shinar, from Hamath, and from the islands of the sea: our people scattered through those lands and the islands of the oceans.
-- Verse 12 defines the nations of the prophecy: he shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth. That is who is gathered the second time to receive the glorious rest. That is context.
 
 **[Deuteronomy 28:64, 68](/bible/deuteronomy/28#v64)**  *[[1:45:17](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=6317s)]*
 
@@ -471,7 +484,17 @@ Reading from the *Jewish Encyclopedia*, on the Khazars  *[[1:19:14](https://www.
 **[Isaiah 29:9-16](/bible/isaiah/29#v9)**  *[[2:06:10](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=7570s)]*
 
 > <sup>[9](/bible/isaiah/29#v9)</sup> Stay yourselves, and wonder; cry ye out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink.
->
+
+- They are drunken, but not with wine: drunk on religion. The Lord hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers hath he covered.
+
+- The Bible is harmonious. Israel was in their land, rebelled against their God, was cast out and scattered; from where we were scattered we repent, are put back in our land, and rule again. When Israel went against their God, the nations ruled over us; when Israel was ruling, we ruled over the nations. Daniel was not wicked and went into captivity; Ezekiel was not wicked and went into captivity. God did not spare the good of his own people in judgment, so the doctrine that he will simply spare the good heathens while Israel suffered does not reconcile with the book.
+
+- The vision of all is become as the words of a book that is sealed. Men hand the learned man the book and say, read this, I pray thee, and he saith, I cannot, for it is sealed. That is the video: the seminary trained man cannot resolve it. I see what they are saying, but I agree with the history and not the theology. He cannot, because his fear toward God is taught by the precept of men: the seminary schools, the doctrine of men.
+
+- Therefore I will proceed to do a marvellous work among this people: the wisdom of their wise men shall perish. It is happening now; the pastors have no answers.
+
+- Woe unto them that seek deep to hide their counsel from the Lord, and their works are in the dark, and they say, Who seeth us? The same interests that fund the councils of churches educate these pastors to keep our people ignorant of who they are according to this Bible. Your turning of things upside down shall be esteemed as the potter's clay: what they turn upside down, God turns right side up.
+
 > <sup>[10](/bible/isaiah/29#v10)</sup> For the Lord hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered.
 >
 > <sup>[11](/bible/isaiah/29#v11)</sup> And the vision of all is become unto you as the words of a book that is sealed, which men deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it is sealed:
@@ -485,12 +508,6 @@ Reading from the *Jewish Encyclopedia*, on the Khazars  *[[1:19:14](https://www.
 > <sup>[15](/bible/isaiah/29#v15)</sup> Woe unto them that seek deep to hide their counsel from the Lord, and their works are in the dark, and they say, Who seeth us? and who knoweth us?
 >
 > <sup>[16](/bible/isaiah/29#v16)</sup> Surely your turning of things upside down shall be esteemed as the potter’s clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?
-
-- They are drunken, but not with wine: drunk on religion. The Lord hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers hath he covered.
-- The Bible is harmonious. Israel was in their land, rebelled against their God, was cast out and scattered; from where we were scattered we repent, are put back in our land, and rule again. When Israel went against their God, the nations ruled over us; when Israel was ruling, we ruled over the nations. Daniel was not wicked and went into captivity; Ezekiel was not wicked and went into captivity. God did not spare the good of his own people in judgment, so the doctrine that he will simply spare the good heathens while Israel suffered does not reconcile with the book.
-- The vision of all is become as the words of a book that is sealed. Men hand the learned man the book and say, read this, I pray thee, and he saith, I cannot, for it is sealed. That is the video: the seminary trained man cannot resolve it. I see what they are saying, but I agree with the history and not the theology. He cannot, because his fear toward God is taught by the precept of men: the seminary schools, the doctrine of men.
-- Therefore I will proceed to do a marvellous work among this people: the wisdom of their wise men shall perish. It is happening now; the pastors have no answers.
-- Woe unto them that seek deep to hide their counsel from the Lord, and their works are in the dark, and they say, Who seeth us? The same interests that fund the councils of churches educate these pastors to keep our people ignorant of who they are according to this Bible. Your turning of things upside down shall be esteemed as the potter's clay: what they turn upside down, God turns right side up.
 
 **[Isaiah 34:16](/bible/isaiah/34#v16)**  *[[2:19:49](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=8389s)]*
 

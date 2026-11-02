@@ -437,25 +437,25 @@ tags: ["IUIC in the ClassRoom", "christ", "idolatry", "mercy", "purpose", "the-a
 
 **[Romans 11:18-21](/bible/romans/11#v18)**  *[[36:28](https://www.youtube.com/watch?v=Fj_EW4mMTzQ&t=2188s)]*
 
-> <sup>[18](/bible/romans/11#v18)</sup> Boast not against the branches. But if thou boast, thou bearest not the root, but the root thee.
->
-> <sup>[19](/bible/romans/11#v19)</sup> Thou wilt say then, The branches were broken off, that I might be graffed in.
->
-> <sup>[20](/bible/romans/11#v20)</sup> Well; because of unbelief they were broken off, and thou standest by faith. Be not highminded, but fear:
->
-> <sup>[21](/bible/romans/11#v21)</sup> For if God spared not the natural branches, take heed lest he also spare not thee.
-
 - If you magnify yourself, if you boast, you don't bear Christ up: the root, the Christ, is the one that holds you up. Christ is the one that died for your sins so that you could be grafted back into this truth. That's the message Paul gave to the northern kingdom of Israel.
 
 - Thou wilt say then, you of the northern kingdom of Israel: the branches were broken off according to prophecy, Jeremiah 11:16 and 17, because of Judah. You had many rebellious scribes, Sadducees and Pharisees.
 
 - That I might be grafted in: that Ephraim of the northern kingdom might be grafted in. Ephraim and the other tribes went into idolatry, but the scripture says they're going to be grafted in again.
 
+> <sup>[18](/bible/romans/11#v18)</sup> Boast not against the branches. But if thou boast, thou bearest not the root, but the root thee.
+>
+> <sup>[19](/bible/romans/11#v19)</sup> Thou wilt say then, The branches were broken off, that I might be graffed in.
+>
+> <sup>[20](/bible/romans/11#v20)</sup> Well; because of unbelief they were broken off, and thou standest by faith. Be not highminded, but fear:
+
 - Because of unbelief they were broken off: who had unbelief? Of Judah, the scribes, the Pharisees, the Sadducees, many of the Levitical priests. They rejected Christ. And you and the other tribes of Israel stand by faith: you stand by Christ.
 
 - Be not highminded: don't magnify yourselves against Judah, don't boast against Judah.
 
 - Why is he calling Judah the natural branches? When you read in the New Testament, who was dealing with the laws of Moses? The kingdom of Judah. They were raised in the law, like Peter and Paul and them, whereas Ephraim and the other tribes were not.
+
+> <sup>[21](/bible/romans/11#v21)</sup> For if God spared not the natural branches, take heed lest he also spare not thee.
 
 
 **[1 Corinthians 12:2](/bible/1-corinthians/12#v2)**  *[[38:43](https://www.youtube.com/watch?v=Fj_EW4mMTzQ&t=2323s)]*
@@ -498,27 +498,27 @@ tags: ["IUIC in the ClassRoom", "christ", "idolatry", "mercy", "purpose", "the-a
 
 **[Ezekiel 37:15-19](/bible/ezekiel/37#v15)**  *[[42:50](https://www.youtube.com/watch?v=Fj_EW4mMTzQ&t=2570s)]*
 
-> <sup>[15](/bible/ezekiel/37#v15)</sup> The word of the Lord came again unto me, saying,
->
-> <sup>[16](/bible/ezekiel/37#v16)</sup> Moreover, thou son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and for all the house of Israel his companions:
->
-> <sup>[17](/bible/ezekiel/37#v17)</sup> And join them one to another into one stick; and they shall become one in thine hand.
->
-> <sup>[18](/bible/ezekiel/37#v18)</sup> And when the children of thy people shall speak unto thee, saying, Wilt thou not shew us what thou meanest by these?
->
-> <sup>[19](/bible/ezekiel/37#v19)</sup> Say unto them, Thus saith the Lord God; Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they shall be one in mine hand.
-
 - Where is Paul getting the analogy from? Ezekiel explains the grafting in right here. Write these scriptures down, brothers and sisters.
 
 - Who were the companions of Judah? Benjamin and Levi. You can read about that in the book of Kings: after Solomon died, the only tribes that stayed with Judah was Levi and Benjamin.
 
 - The stick of Ephraim, of the northern kingdom, and all the house of Israel his companions: with Ephraim you had 10 tribes. When Jeroboam became king, with Ephraim you had Manasseh, Gad, Reuben, Zebulun, Asher, Naphtali, Issachar.
 
+> <sup>[15](/bible/ezekiel/37#v15)</sup> The word of the Lord came again unto me, saying,
+>
+> <sup>[16](/bible/ezekiel/37#v16)</sup> Moreover, thou son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and for all the house of Israel his companions:
+>
+> <sup>[17](/bible/ezekiel/37#v17)</sup> And join them one to another into one stick; and they shall become one in thine hand.
+
 - Join them one to another into one stick: this is the grafting in.
 
 - That's why we got the 12 tribes sign: a big piece of wood, and we put Judah, Benjamin and Levi together with Ephraim, Manasseh, Gad, Reuben, Naphtali, Issachar and so forth. And what do the Israelites say when they walk by? Wilt thou not show us what thou meanest by these. That's what we hear in the street: what do you mean the American blacks is with the Haitians and the West Indian blacks, and Puerto Ricans, Native American Indians?
 
 - According to 2 Esdras 13:40-45, those are our people, those are the 10 tribes of Israel. When the white man came against us we fled for sanctuary and the American Indians helped us. The rest of them always fighting us, always against us: those are your brethren. You must get over your hatred one for another.
+
+> <sup>[18](/bible/ezekiel/37#v18)</sup> And when the children of thy people shall speak unto thee, saying, Wilt thou not shew us what thou meanest by these?
+>
+> <sup>[19](/bible/ezekiel/37#v19)</sup> Say unto them, Thus saith the Lord God; Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they shall be one in mine hand.
 
 
 **[Isaiah 11:13](/bible/isaiah/11#v13)**  *[[46:48](https://www.youtube.com/watch?v=Fj_EW4mMTzQ&t=2808s)]*
@@ -560,7 +560,19 @@ tags: ["IUIC in the ClassRoom", "christ", "idolatry", "mercy", "purpose", "the-a
 **[Romans 11:26-36](/bible/romans/11#v26)**  *[[51:28](https://www.youtube.com/watch?v=Fj_EW4mMTzQ&t=3088s)]*
 
 > <sup>[26](/bible/romans/11#v26)</sup> And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:
->
+
+- And so all Israel shall be saved: verse 26 is explaining the whole chapter to you. All 12 tribes shall be saved; ain't nobody getting left behind, ain't nobody going to be lost. If you was confused from verse 1 to 25, verse 26 clears it up for you.
+
+- This chapter ain't talking about the white man, it ain't talking about the African man, it ain't talking about the Arab man, it ain't talking about the Chinese. He shall turn away ungodliness from Jacob; it didn't say the Arabs.
+
+- Who is the enemies? The scribes, the Sadducees, the Pharisees, because they was killing the Israelites that followed Christ. Paul started out as an enemy to Christ, an enemy to Israel, and he repented and became chosen and elect.
+
+- The gifts and calling of God are without repentance, because the Most High ain't going to repent for what he did from the beginning: the gospel, the scriptures, the Bible was only for the 12 tribes of Israel. He ain't changing his mind.
+
+- As you Ephraimites and the rest, Manasseh, Gad, Reuben, Naphtali, Issachar, in time past didn't believe God, now you've obtained mercy through the unbelief of Judah. Because Judah didn't believe, he had mercy on Ephraim, and the same way all Israel's getting that mercy.
+
+- God concluded all 12 tribes in unbelief, that he might have mercy upon all. That's what the sacrifice of Christ is all about: no matter what kingdom you come from, the kingdom of Judah or the kingdom of Ephraim, we all having mercy in Christ, every last one of us. Romans 11 is about the two kingdoms of Israel.
+
 > <sup>[27](/bible/romans/11#v27)</sup> For this is my covenant unto them, when I shall take away their sins.
 >
 > <sup>[28](/bible/romans/11#v28)</sup> As concerning the gospel, they are enemies for your sakes: but as touching the election, they are beloved for the fathers’ sakes.
@@ -580,18 +592,6 @@ tags: ["IUIC in the ClassRoom", "christ", "idolatry", "mercy", "purpose", "the-a
 > <sup>[35](/bible/romans/11#v35)</sup> Or who hath first given to him, and it shall be recompensed unto him again?
 >
 > <sup>[36](/bible/romans/11#v36)</sup> For of him, and through him, and to him, are all things: to whom be glory for ever. Amen.
-
-- And so all Israel shall be saved: verse 26 is explaining the whole chapter to you. All 12 tribes shall be saved; ain't nobody getting left behind, ain't nobody going to be lost. If you was confused from verse 1 to 25, verse 26 clears it up for you.
-
-- This chapter ain't talking about the white man, it ain't talking about the African man, it ain't talking about the Arab man, it ain't talking about the Chinese. He shall turn away ungodliness from Jacob; it didn't say the Arabs.
-
-- Who is the enemies? The scribes, the Sadducees, the Pharisees, because they was killing the Israelites that followed Christ. Paul started out as an enemy to Christ, an enemy to Israel, and he repented and became chosen and elect.
-
-- The gifts and calling of God are without repentance, because the Most High ain't going to repent for what he did from the beginning: the gospel, the scriptures, the Bible was only for the 12 tribes of Israel. He ain't changing his mind.
-
-- As you Ephraimites and the rest, Manasseh, Gad, Reuben, Naphtali, Issachar, in time past didn't believe God, now you've obtained mercy through the unbelief of Judah. Because Judah didn't believe, he had mercy on Ephraim, and the same way all Israel's getting that mercy.
-
-- God concluded all 12 tribes in unbelief, that he might have mercy upon all. That's what the sacrifice of Christ is all about: no matter what kingdom you come from, the kingdom of Judah or the kingdom of Ephraim, we all having mercy in Christ, every last one of us. Romans 11 is about the two kingdoms of Israel.
 
 
 **[Malachi 3:6](/bible/malachi/3#v6)**  *[[55:17](https://www.youtube.com/watch?v=Fj_EW4mMTzQ&t=3317s)]*

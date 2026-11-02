@@ -272,8 +272,6 @@ What inspired the class.
 **[Isaiah 29:9-10](/bible/isaiah/29#v9)**  *[[46:20](https://www.youtube.com/watch?v=qTVrCZZKzes&t=2780s)]*
 
 > <sup>[9](/bible/isaiah/29#v9)</sup> Stay yourselves, and wonder; cry ye out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink.
->
-> <sup>[10](/bible/isaiah/29#v10)</sup> For the Lord hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered.
 
 - Stay yourselves, and wonder; cry ye out, and cry: they are drunken. They are drunken. Our people are drunk. Let us see what they are drunk with. But not with wine. Our people are drunk not with wine. They wake up at eight o'clock in the morning, go to a church building. They do not have any liquor in them. And I am going to show you how they act in a second.
 
@@ -290,6 +288,8 @@ What inspired the class.
 - The clip: seventeen people under the sound of my voice that are releasing, like this man of God that flew all the way from Houston releasing a ten thousand dollar seed. I want those seventeen people to obey God. The Lord says, I am not asking you to, I am telling you to. I am not asking you to, I am telling you to. I want everybody to get your offering so fast that you cannot even explain what has taken over your life.
 
 - You see that? This is the spirit that is in the Christian church.
+
+> <sup>[10](/bible/isaiah/29#v10)</sup> For the Lord hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered.
 
 **[Micah 3:11](/bible/micah/3#v11)**  *[[51:10](https://www.youtube.com/watch?v=qTVrCZZKzes&t=3070s)]*
 
@@ -602,18 +602,14 @@ What inspired the class.
 **[Psalms 83:1-4](/bible/psalms/83#v1)**  *[[1:51:45](https://www.youtube.com/watch?v=qTVrCZZKzes&t=6705s)]*
 
 > <sup>[1](/bible/psalms/83#v1)</sup> Keep not thou silence, O God: hold not thy peace, and be not still, O God.
->
-> <sup>[2](/bible/psalms/83#v2)</sup> For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.
->
-> <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
->
-> <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
 
 - Keep not thou silence, O God: hold not thy peace, and be not still, O God. For, lo, thine enemies make a tumult. So now I am showing you the Bible speaks about these things. We are not just complaining about everything that is going on with no solutions or reasons. We know exactly what is going on. You all ain't fooling us.
 
 - That is why, you pastors, just listen. You all do not know the Bible. You need to humble down. Like the white man said, you all do not need to find a good white church. You need to find a good Israelite church, a good Israelite leader that keeps the commandments. You ain't got to join us if you do not want to. That is fine. But you need to find an Israelite that keeps the commandments and the faith of Christ.
 
 - Because the white man put you in the situation that you are in. They complain that there are no black leaders. They are teaching what you taught them. Those black pastors, they all went to seminary school. They all go to your teachings. They pay for your lectures, and that is what you all taught them. So no, they do not need to find a good white man. They need to go to Shout Out Tuesday for the last ten years and let it play. You are going to get history, precepts, prophecy for years. And when you are done with that, go to IUIC in the ClassRoom. When you are done with that, go to 15 Minutes with the Captains. And guess what, it is all free. We have got an online seminary school right now for free.
+
+> <sup>[2](/bible/psalms/83#v2)</sup> For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.
 
 - For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head. They have taken crafty counsel. What have they done? They have taken crafty counsel. The crafty counsel is to divide us as a people.
 
@@ -622,6 +618,10 @@ What inspired the class.
 - They have said, Come, and let us cut them off from being a nation. You see that? Now Guide Logic will not deal with that. They want to cut us off from being a nation. That is why it does not matter what nation — what the Bible says is they are trying to cut us off from who we are. And you are sitting there regurgitating the same thing that Christ, that the apostles, the disciples already told us was going to happen. And now you are following the white man.
 
 - That the name of Israel may be no more in remembrance. That is why they are so mad about it. They never want you to remember that you are an Israelite. They do not want you to remember that. They want you to be black. They want you to be a Gentile. They want you to be Asiatic. They want you to be Zulu. They want you to be all these different things. But the second you say you are an Israelite, it is a problem. Why? Because they understand the true Jews, the true Israelites, when they come together in unity, it is a problem. The whole world crumbles instantly when we are together.
+
+> <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
+>
+> <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
 
 **[Exodus 1:9-11](/bible/exodus/1#v9)**  *[[1:55:31](https://www.youtube.com/watch?v=qTVrCZZKzes&t=6931s)]*
 
@@ -722,12 +722,12 @@ What inspired the class.
 **[Tobit 4:12-13](/bible/tobit/4#v12)**  *[[2:13:49](https://www.youtube.com/watch?v=qTVrCZZKzes&t=8029s)]*
 
 > <sup>[12](/bible/tobit/4#v12)</sup> Beware of all whoredom, my son, and chiefly take a wife of the seed of thy fathers, and take not a strange woman to wife, which is not of thy father’s tribe: for we are the children of the prophets, Noe, Abraham, Isaac, and Jacob: remember, my son, that our fathers from the beginning, even that they all married wives of their own kindred, and were blessed in their children, and their seed shall inherit the land.
->
-> <sup>[13](/bible/tobit/4#v13)</sup> Now therefore, my son, love thy brethren, and despise not in thy heart thy brethren, the sons and daughters of thy people, in not taking a wife of them: for in pride is destruction and much trouble, and in lewdness is decay and great want: for lewdness is the mother of famine.
 
 - Beware of all whoredom, my son, and chiefly take a wife of the seed of thy fathers, and take not a strange woman to wife, which is not of thy father's tribe: for we are the children of the prophets, Noe, Abraham, Isaac, and Jacob: remember, my son, that our fathers from the beginning, even that they all married wives of their own kindred. What did they do? Married wives of their own kindred. And were blessed in their children, and their seed shall inherit the land.
 
 - Now therefore, my son, love thy brethren. Do what? Love thy brethren. Unity is when you love your own people. When you marry your own people.
+
+> <sup>[13](/bible/tobit/4#v13)</sup> Now therefore, my son, love thy brethren, and despise not in thy heart thy brethren, the sons and daughters of thy people, in not taking a wife of them: for in pride is destruction and much trouble, and in lewdness is decay and great want: for lewdness is the mother of famine.
 
 - And despise not in thy heart thy brethren, the sons and daughters of thy people, in not taking a wife of them: for in pride is destruction and much trouble, and in lewdness is decay and great want: for lewdness is the mother of famine.
 
@@ -759,21 +759,21 @@ What inspired the class.
 
 **[1 Maccabees 2:19-22](/bible/1-maccabees/2#v19)**  *[[2:17:47](https://www.youtube.com/watch?v=qTVrCZZKzes&t=8267s)]*
 
+- So the first thing we must do is we must marry ourselves. The second thing is we must separate ourselves in faith. We must all have the same faith to really be unified. To really be unified, we must have the same faith. What is our faith?
+
+- Then Mattathias answered and spake with a loud voice, Though all the nations that are under the king's dominion obey him, and fall away every one from the religion of their fathers. From what? From the religion of their fathers. We have a religion, you all. We have a religion. Anybody still saying this ain't a religion? You do not know what you are talking about. Let us see what our religion is.
+
 > <sup>[19](/bible/1-maccabees/2#v19)</sup> Then Mattathias answered and spake with a loud voice, Though all the nations that are under the king’s dominion obey him, and fall away every one from the religion of their fathers, and give consent to his commandments:
->
+
+- And give consent to his commandments: yet will I and my sons and my brethren walk in the covenant of our fathers. God forbid that we should forsake the law and the ordinances. You see that? God forbid that we should forsake the law and the ordinances. That is the religion of our fathers.
+
+- We will not hearken to the king's words, to go from our religion, either on the right hand, or the left. To do what? Go from our religion. When you leave the law, statutes and commandments, you are leaving the religion that was given unto you. You cannot unite under any other banner, under any other religion. Our religion is the faith of Christ and the commandments. Understand that.
+
 > <sup>[20](/bible/1-maccabees/2#v20)</sup> Yet will I and my sons and my brethren walk in the covenant of our fathers.
 >
 > <sup>[21](/bible/1-maccabees/2#v21)</sup> God forbid that we should forsake the law and the ordinances.
 >
 > <sup>[22](/bible/1-maccabees/2#v22)</sup> We will not hearken to the king’s words, to go from our religion, either on the right hand, or the left.
-
-- So the first thing we must do is we must marry ourselves. The second thing is we must separate ourselves in faith. We must all have the same faith to really be unified. To really be unified, we must have the same faith. What is our faith?
-
-- Then Mattathias answered and spake with a loud voice, Though all the nations that are under the king's dominion obey him, and fall away every one from the religion of their fathers. From what? From the religion of their fathers. We have a religion, you all. We have a religion. Anybody still saying this ain't a religion? You do not know what you are talking about. Let us see what our religion is.
-
-- And give consent to his commandments: yet will I and my sons and my brethren walk in the covenant of our fathers. God forbid that we should forsake the law and the ordinances. You see that? God forbid that we should forsake the law and the ordinances. That is the religion of our fathers.
-
-- We will not hearken to the king's words, to go from our religion, either on the right hand, or the left. To do what? Go from our religion. When you leave the law, statutes and commandments, you are leaving the religion that was given unto you. You cannot unite under any other banner, under any other religion. Our religion is the faith of Christ and the commandments. Understand that.
 
 **[Baruch 4:1](/bible/baruch/4#v1)**  *[[2:19:21](https://www.youtube.com/watch?v=qTVrCZZKzes&t=8361s)]*
 

@@ -25,15 +25,15 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion"]
 
 **[Wisdom of Solomon 14:16-17](/bible/wisdom-of-solomon/14#v16)**  *[[18:13](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=1093s)]*
 
-> <sup>[16](/bible/wisdom-of-solomon/14#v16)</sup> Thus in process of time an ungodly custom grown strong was kept as a law, and graven images were worshipped by the commandments of kings.
->
-> <sup>[17](/bible/wisdom-of-solomon/14#v17)</sup> Whom men could not honour in presence, because they dwelt far off, they took the counterfeit of his visage from far, and made an express image of a king whom they honoured, to the end that by this their forwardness they might flatter him that was absent, as if he were present.
-
 - Thus, in process of time, an ungodly custom grown strong was kept as a law, and graven images were worshiped by the commandments of kings: So graven images, the worship of graven images became a law throughout the world. And it started around the time of Nimrod all the way up to today. Ain't nothing changed.
+
+> <sup>[16](/bible/wisdom-of-solomon/14#v16)</sup> Thus in process of time an ungodly custom grown strong was kept as a law, and graven images were worshipped by the commandments of kings.
 
 - Thus in process of time: Process of time, in centuries gone by.
 
 - Graven images were worshiped by the commandments of kings: Them graven images that are worshiped by the commandment of kings break the first, second, third, and fourth commandment. Thou shalt have no other gods before me. No idols, no images. Don't take the name of the Lord thy God in vain, and remember the Sabbath day to keep it holy. Because every god has a day where they want their believers to worship them on. The only true God says worship him on the seventh day Sabbath. That's remember the Sabbath day to keep it holy. White Jesus for some reason says Sunday, the first day of the week. So it breaks those first four commandments.
+
+> <sup>[17](/bible/wisdom-of-solomon/14#v17)</sup> Whom men could not honour in presence, because they dwelt far off, they took the counterfeit of his visage from far, and made an express image of a king whom they honoured, to the end that by this their forwardness they might flatter him that was absent, as if he were present.
 
 - They took the counterfeit of his visage from far: So the counterfeit of his image they put up from far, from Spain, from Rome.
 
@@ -74,14 +74,14 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion"]
 **[Revelation 13:7-8](/bible/revelation/13#v7)**  *[[24:56](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=1496s)]*
 
 > <sup>[7](/bible/revelation/13#v7)</sup> And it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations.
->
-> <sup>[8](/bible/revelation/13#v8)</sup> And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world.
 
 - And it was given unto him to make war with the saints: We are the saints. So the white man under Pope Nicholas V orchestrated war against the 12 tribes of Israel, starting in Spain and Portugal, followed throughout Africa and then the Americas and worldwide.
 
 - And to overcome them: They overcame us. They enslaved us.
 
 - And power was given him over all kindreds and tongues and nations: Power was given him. He had all kind of weaponry.
+
+> <sup>[8](/bible/revelation/13#v8)</sup> And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world.
 
 - And all that dwell upon the earth shall worship him: As a result of him conquering the Israelites, everybody now worships the white man.
 
@@ -229,22 +229,22 @@ Reading from On-screen: ChatGPT answer on Ebony magazine, March 1969, "The Quest
 **[Galatians 1:6-9](/bible/galatians/1#v6)**  *[[43:39](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=2619s)]*
 
 > <sup>[6](/bible/galatians/1#v6)</sup> I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:
->
-> <sup>[7](/bible/galatians/1#v7)</sup> Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.
->
-> <sup>[8](/bible/galatians/1#v8)</sup> But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.
->
-> <sup>[9](/bible/galatians/1#v9)</sup> As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed.
 
 - I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel: So Paul said, I'm shocked at you Galatians. You're leaving this truth to go into another gospel. So this another gospel is what Paul was dealing with in 2 Corinthians.
+
+> <sup>[7](/bible/galatians/1#v7)</sup> Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.
 
 - Which is not another: It's not another cuz they use the same scriptures. But one thing they do with those scriptures is what, Yuri?
 
 - And would pervert the gospel of Christ: They pervert the gospel of Christ. That's what they do. 'No, it's not just for Israelites. It's not for the oppressed Israelites. It's for everybody.' That's what they do, right?
 
+> <sup>[8](/bible/galatians/1#v8)</sup> But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.
+
 - But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you: Like your pastors.
 
 - Let him be accursed: The Bible says he's a curse. Let him be accursed.
+
+> <sup>[9](/bible/galatians/1#v9)</sup> As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed.
 
 - As we said before: Let me repeat it again in case you didn't hear me.
 
@@ -382,10 +382,6 @@ Reading from *Chosen People from the Caucasus* by Michael Bradley, p. 197  *[[1:
 **[Isaiah 59:11-13](/bible/isaiah/59#v11)**  *[[1:14:10](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=4450s)]*
 
 > <sup>[11](/bible/isaiah/59#v11)</sup> We roar all like bears, and mourn sore like doves: we look for judgment, but there is none; for salvation, but it is far off from us.
->
-> <sup>[12](/bible/isaiah/59#v12)</sup> For our transgressions are multiplied before thee, and our sins testify against us: for our transgressions are with us; and as for our iniquities, we know them;
->
-> <sup>[13](/bible/isaiah/59#v13)</sup> In transgressing and lying against the Lord, and departing away from our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood.
 
 - We roar all like bears: We cry in the streets yelling and screaming.
 
@@ -393,9 +389,13 @@ Reading from *Chosen People from the Caucasus* by Michael Bradley, p. 197  *[[1:
 
 - We look for judgment, but there is none; for salvation, but it is far off from us: So we look for judgment. We look for salvation. But because we act like we have no eyes, it's far off from us.
 
+> <sup>[12](/bible/isaiah/59#v12)</sup> For our transgressions are multiplied before thee, and our sins testify against us: for our transgressions are with us; and as for our iniquities, we know them;
+
 - For our transgressions are multiplied before thee: Our transgressions are multiplied before the Most High God. Transgressions like what? Like God loves everybody, he don't just love the 12 tribes. That's a transgression. When we say Jesus is white or he has no color, that's another transgression. Now you can add on top of that Easter, Christmas. You can add on top of that adultery, murder, and things of that nature.
 
 - As for our iniquities, we know them: Our people know that they're in the midst of sin.
+
+> <sup>[13](/bible/isaiah/59#v13)</sup> In transgressing and lying against the Lord, and departing away from our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood.
 
 - In transgressing and lying against the Lord: See that? Remember I said earlier that Christians love to lie. They have no fear against lying. It says in transgressing and lying against the Lord.
 
@@ -408,21 +408,21 @@ Reading from *Chosen People from the Caucasus* by Michael Bradley, p. 197  *[[1:
 
 **[Revelation 4:2-4](/bible/revelation/4#v2)**  *[[1:16:32](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=4592s)]*
 
-> <sup>[2](/bible/revelation/4#v2)</sup> And immediately I was in the spirit: and, behold, a throne was set in heaven, and one sat on the throne.
->
-> <sup>[3](/bible/revelation/4#v3)</sup> And he that sat was to look upon like a jasper and a sardine stone: and there was a rainbow round about the throne, in sight like unto an emerald.
->
-> <sup>[4](/bible/revelation/4#v4)</sup> And round about the throne were four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold.
-
 - Give me Revelation 4, one down for the dumb negroes out there. I want you to give me the color of a jasper and a sardine stone.
 
+> <sup>[2](/bible/revelation/4#v2)</sup> And immediately I was in the spirit: and, behold, a throne was set in heaven, and one sat on the throne.
+
 - And immediately I was in the spirit, and behold, a throne was set in heaven: So, we're talking about heaven. John saw a throne in heaven.
+
+> <sup>[3](/bible/revelation/4#v3)</sup> And he that sat was to look upon like a jasper and a sardine stone: and there was a rainbow round about the throne, in sight like unto an emerald.
 
 - And he that sat was to look upon like a jasper and a sardine stone: Do y'all see what a jasper and sardine stone looks like? Those are brown stones. That's another one right there.
 
 - And there was a rainbow round about the throne: Wait a minute. There was a rainbow in heaven, but Christians say there's no color in heaven. The Bible says there's a rainbow over the throne of God.
 
 - In sight like unto an emerald: Emeralds are green.
+
+> <sup>[4](/bible/revelation/4#v4)</sup> And round about the throne were four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold.
 
 - Clothed in white raiment; and they had on their heads crowns of gold: So Christians don't know what the hell they're talking about.
 
@@ -474,10 +474,10 @@ Reading from On-screen: definition of "cuck" · read by Captain Uri  *[[1:24:47]
 **[Psalms 44:15-16](/bible/psalms/44#v15)**  *[[1:27:34](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=5254s)]*
 
 > <sup>[15](/bible/psalms/44#v15)</sup> My confusion is continually before me, and the shame of my face hath covered me,
->
-> <sup>[16](/bible/psalms/44#v16)</sup> For the voice of him that reproacheth and blasphemeth; by reason of the enemy and avenger.
 
 - My confusion is continually before me, and the shame of my face hath covered me: See that? My confusion is continually before me.
+
+> <sup>[16](/bible/psalms/44#v16)</sup> For the voice of him that reproacheth and blasphemeth; by reason of the enemy and avenger.
 
 
 **[Daniel 9:7](/bible/daniel/9#v7)**  *[[1:28:24](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=5304s)]*
@@ -582,12 +582,12 @@ Reading from On-screen: the KKK and Christianity · read by Captain Uri  *[[1:35
 **[Psalms 44:20-21](/bible/psalms/44#v20)**  *[[1:41:28](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=6088s)]*
 
 > <sup>[20](/bible/psalms/44#v20)</sup> If we have forgotten the name of our God, or stretched out our hands to a strange god;
->
-> <sup>[21](/bible/psalms/44#v21)</sup> Shall not God search this out? for he knoweth the secrets of the heart.
 
 - If we have forgotten the name of our God: Now, when it says, 'If we have forgotten the name of our God,' it goes back to Revelation 19:13. His name is called what, brothers? The word of God.
 
 - Or stretched out our hands to a strange god: Stretched out our hand to a strange god.
+
+> <sup>[21](/bible/psalms/44#v21)</sup> Shall not God search this out? for he knoweth the secrets of the heart.
 
 - Shall not God search this out? for he knoweth the secrets of the heart: See that? So, put Cesare back on the screen. Put the little black girl right there. I like the little black girl. Stretch out our hands to a strange god. This a god that does not even favor you, that does not look like you. That's a strange god.
 
@@ -639,28 +639,28 @@ Reading from On-screen: the KKK and Christianity · read by Captain Uri  *[[1:35
 **[Psalms 140:1-5](/bible/psalms/140#v1)**  *[[1:46:59](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=6419s)]*
 
 > <sup>[1](/bible/psalms/140#v1)</sup> Deliver me, O Lord, from the evil man: preserve me from the violent man;
->
-> <sup>[2](/bible/psalms/140#v2)</sup> Which imagine mischiefs in their heart; continually are they gathered together for war.
->
-> <sup>[3](/bible/psalms/140#v3)</sup> They have sharpened their tongues like a serpent; adders’ poison is under their lips. Selah.
->
-> <sup>[4](/bible/psalms/140#v4)</sup> Keep me, O Lord, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings.
->
-> <sup>[5](/bible/psalms/140#v5)</sup> The proud have hid a snare for me, and cords; they have spread a net by the wayside; they have set gins for me. Selah.
 
 - Deliver me, O Lord, from the evil man: And if you didn't know who the evil man is by this time, I can't help you. We can't help you. The evil man here in this context is your friendly neighborhood white man.
 
 - Preserve me from the violent man: And they got a strong propaganda. They bomb Hiroshima and Nagasaki, but the Japanese hate black people. You can't make this stuff up. They kick all the Mexicans out. What do we do to you? What the freak is going on here? You can't make this stuff up. They will bomb Arab after Arab. Then the Arabs come over here, open up liquor stores and grocery store and hate negroes. Hate us, like we did something to them. Like what the hell is going on here? The white man's propaganda is strong. That's why it's very important: our propaganda, which is true, the truth must be pushed. That's why the AI department, the video is very, very important. They don't realize their importance. Visuals is very important.
 
+> <sup>[2](/bible/psalms/140#v2)</sup> Which imagine mischiefs in their heart; continually are they gathered together for war.
+
 - Which imagine mischiefs in their heart: They wanted to lynch that dude on a tree.
 
 - Continually are they gathered together for war: The white man is a war criminal. He loves war. They always talking about Pooky and Ray Ray and black-on-black crime. They don't stop. Black-on-black crime don't compare to genocide. They annihilate whole nation. Hundreds, close to millions of people murdered, not just in Iran or Palestine, Gaza. What about over there in Somalia? What about over there in Yemen? The Congo, Afghanistan. All kind of bombs. And them bombs kill millions of civilians. And they don't talk about that. But they'll talk about Pooky and Ray Ray. They say, 'Oh, y'all destroy yourself.' Man, you can't talk about black-on-black crime with what you've been doing in the earth. Find me that article, 2016, what Barack Obama did: bomb seven countries. 2016, USA bombed seven countries. Find me the article.
+
+> <sup>[3](/bible/psalms/140#v3)</sup> They have sharpened their tongues like a serpent; adders’ poison is under their lips. Selah.
 
 - They have sharpened their tongues like a serpent: See that part right there? They have sharpened their tongue like a serpent. That's propaganda.
 
 - Adders' poison is under their lips: That's propaganda. Their philosophies, their religions, their politics.
 
+> <sup>[4](/bible/psalms/140#v4)</sup> Keep me, O Lord, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings.
+
 - Who have purposed to overthrow my goings: See that part right there? Who have purposed to overthrow my goings. That's their purpose: to overthrow the 12 tribes of Israel. I hope everybody understands that. And I pray this is not falling on deaf ears. You don't get no more violent than a white man. There's no more violent than them. None.
+
+> <sup>[5](/bible/psalms/140#v5)</sup> The proud have hid a snare for me, and cords; they have spread a net by the wayside; they have set gins for me. Selah.
 
 
 <div class="reading">
@@ -759,12 +759,12 @@ Reading from On-screen: NBC News on the 2016 US bombings, and a search on Presid
 > <sup>[3](/bible/habakkuk/3#v3)</sup> God came from Teman, and the Holy One from mount Paran. Selah. His glory covered the heavens, and the earth was full of his praise.
 >
 > <sup>[4](/bible/habakkuk/3#v4)</sup> And his brightness was as the light; he had horns coming out of his hand: and there was the hiding of his power.
->
-> <sup>[5](/bible/habakkuk/3#v5)</sup> Before him went the pestilence, and burning coals went forth at his feet.
 
 - And his brightness was as the light; he had horns coming out of his hand: When it says he had horns coming out of his hands, the number 10 there says, if you got it in your Bible, or bright beams out of his side, meaning light. That's where your Avengers, your X-Men, they get that from the Bible. They saw an image of God shooting power from his hands. That's what it's talking about.
 
 - And there was the hiding of his power: When it says there was the hiding of his power, meaning he had to hold some back. This is the return of Christ being described here.
+
+> <sup>[5](/bible/habakkuk/3#v5)</sup> Before him went the pestilence, and burning coals went forth at his feet.
 
 - Before him went the pestilence, and burning coals went forth at his feet: Before Christ went the pestilence and burning coals went forth at his feet.
 
@@ -786,10 +786,6 @@ Reading from On-screen: NBC News on the 2016 US bombings, and a search on Presid
 > <sup>[5](/bible/habakkuk/3#v5)</sup> Before him went the pestilence, and burning coals went forth at his feet.
 >
 > <sup>[6](/bible/habakkuk/3#v6)</sup> He stood, and measured the earth: he beheld, and drove asunder the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways are everlasting.
->
-> <sup>[7](/bible/habakkuk/3#v7)</sup> I saw the tents of Cushan in affliction: and the curtains of the land of Midian did tremble.
->
-> <sup>[8](/bible/habakkuk/3#v8)</sup> Was the Lord displeased against the rivers? was thine anger against the rivers? was thy wrath against the sea, that thou didst ride upon thine horses and thy chariots of salvation?
 
 - He stood, and measured the earth: Christ will stand upon the earth and measure it.
 
@@ -797,9 +793,13 @@ Reading from On-screen: NBC News on the 2016 US bombings, and a search on Presid
 
 - The perpetual hills did bow: Smaller governments.
 
+> <sup>[7](/bible/habakkuk/3#v7)</sup> I saw the tents of Cushan in affliction: and the curtains of the land of Midian did tremble.
+
 - I saw the tents of Cushan in affliction: That's Ethiopia. Kusan is Ethiopia. The nyotes over there. Habbec said, 'I saw them in a vision in affliction.'
 
 - And the curtains of the land of Midian did tremble: That's the Arab neighbors.
+
+> <sup>[8](/bible/habakkuk/3#v8)</sup> Was the Lord displeased against the rivers? was thine anger against the rivers? was thy wrath against the sea, that thou didst ride upon thine horses and thy chariots of salvation?
 
 - Was the Lord displeased against the rivers: When it says, 'Was the Lord displeased against the rivers?' Isaiah 17:12 and 13. What does it mean? He's not coming down mad at water. Nope. It ain't talking about water.
 
@@ -821,10 +821,6 @@ Reading from On-screen: NBC News on the 2016 US bombings, and a search on Presid
 **[Habakkuk 3:9-11](/bible/habakkuk/3#v9)**  *[[2:04:50](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=7490s)]*
 
 > <sup>[9](/bible/habakkuk/3#v9)</sup> Thy bow was made quite naked, according to the oaths of the tribes, even thy word. Selah. Thou didst cleave the earth with rivers.
->
-> <sup>[10](/bible/habakkuk/3#v10)</sup> The mountains saw thee, and they trembled: the overflowing of the water passed by: the deep uttered his voice, and lifted up his hands on high.
->
-> <sup>[11](/bible/habakkuk/3#v11)</sup> The sun and moon stood still in their habitation: at the light of thine arrows they went, and at the shining of thy glittering spear.
 
 - Thy bow was made quite naked: Now when it says thy bow was made quite naked, what does it mean?
 
@@ -834,11 +830,15 @@ Reading from On-screen: NBC News on the 2016 US bombings, and a search on Presid
 
 - Thou didst cleave the earth with rivers: Thou didst cleave the earth with nations.
 
+> <sup>[10](/bible/habakkuk/3#v10)</sup> The mountains saw thee, and they trembled: the overflowing of the water passed by: the deep uttered his voice, and lifted up his hands on high.
+
 - The mountains saw thee, and they trembled: The governments saw thee, and they trembled.
 
 - The deep uttered his voice: The deep of the oceans uttered his voice.
 
 - And lifted up his hands on high: The ocean split.
+
+> <sup>[11](/bible/habakkuk/3#v11)</sup> The sun and moon stood still in their habitation: at the light of thine arrows they went, and at the shining of thy glittering spear.
 
 - The sun and moon stood still in their habitation: Just like during the time of Joshua, when Joshua prayed the Lord and said, 'Hold back. Hold the sun.' And it said the day stood still. Same thing's going to happen again.
 
@@ -858,12 +858,12 @@ Reading from On-screen: NBC News on the 2016 US bombings, and a search on Presid
 **[Habakkuk 3:12-13](/bible/habakkuk/3#v12)**  *[[2:07:57](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=7677s)]*
 
 > <sup>[12](/bible/habakkuk/3#v12)</sup> Thou didst march through the land in indignation, thou didst thresh the heathen in anger.
->
-> <sup>[13](/bible/habakkuk/3#v13)</sup> Thou wentest forth for the salvation of thy people, even for salvation with thine anointed; thou woundedst the head out of the house of the wicked, by discovering the foundation unto the neck. Selah.
 
 - Thou didst march through the land in indignation: Indignation means righteous anger.
 
 - Thou didst thresh the heathen in anger: Christ is going to thresh, meaning beat, the heathen in anger. Not in love, in peace. In anger.
+
+> <sup>[13](/bible/habakkuk/3#v13)</sup> Thou wentest forth for the salvation of thy people, even for salvation with thine anointed; thou woundedst the head out of the house of the wicked, by discovering the foundation unto the neck. Selah.
 
 - Thou wentest forth for the salvation of thy people: I thought he was coming for the salvation of all races on the planet Earth.
 
@@ -871,8 +871,6 @@ Reading from On-screen: NBC News on the 2016 US bombings, and a search on Presid
 **[Habakkuk 3:13-14](/bible/habakkuk/3#v13)**  *[[2:08:45](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=7725s)]*
 
 > <sup>[13](/bible/habakkuk/3#v13)</sup> Thou wentest forth for the salvation of thy people, even for salvation with thine anointed; thou woundedst the head out of the house of the wicked, by discovering the foundation unto the neck. Selah.
->
-> <sup>[14](/bible/habakkuk/3#v14)</sup> Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing was as to devour the poor secretly.
 
 - Thou wentest forth for the salvation of thy people: Thy people is possessed. Matthew 2:6, I think that's it. Thy people. 'That's anybody that believes in Jesus.' Really? Word.
 
@@ -883,6 +881,8 @@ Reading from On-screen: NBC News on the 2016 US bombings, and a search on Presid
 - Thou woundedst the head: The head is America. America is the head nation.
 
 - By discovering the foundation unto the neck: And they going to get shut down. Cut down.
+
+> <sup>[14](/bible/habakkuk/3#v14)</sup> Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing was as to devour the poor secretly.
 
 - Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: So the nations, they're not going to be happy when Christ returned. They're going to come out with their jets and missiles to try to scatter the Son of God.
 
@@ -906,10 +906,6 @@ Reading from On-screen: NBC News on the 2016 US bombings, and a search on Presid
 **[Psalms 64:2-4](/bible/psalms/64#v2)**  *[[2:11:44](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=7904s)]*
 
 > <sup>[2](/bible/psalms/64#v2)</sup> Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:
->
-> <sup>[3](/bible/psalms/64#v3)</sup> Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:
->
-> <sup>[4](/bible/psalms/64#v4)</sup> That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.
 
 - Hide me from the secret counsel of the wicked: There we go. Wait, there we go again. Hide me from the secret counsel of the wicked. 'Oh, y'all conspiracy theorists. They're not doing anything secretly against black folks and Latinos.' Yes, they are. God is saying they do this stuff secretly.
 
@@ -919,9 +915,13 @@ Reading from On-screen: NBC News on the 2016 US bombings, and a search on Presid
 
 - From the insurrection of the workers of iniquity: That's right.
 
+> <sup>[3](/bible/psalms/64#v3)</sup> Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:
+
 - Who whet their tongue like a sword: When it says who wet their tongue like a sword, that's propaganda.
 
 - And bend their bows to shoot their arrows, even bitter words: Even bitter words. Black people are the bane of society. They are the root cause and problem of everything. Especially black men. Now they got black women against black men. Y'all don't see this. They got all nations. Every problem in the world is you black brothers. We are the problem of all the world.
+
+> <sup>[4](/bible/psalms/64#v4)</sup> That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.
 
 
 *[[2:13:24](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=8004s)]* **In The News: On-screen article: "Louisiana missionary charged with sexually abusing Haitian boys. Advocates ask how systems keep making it possible"** — Cuz they keep sending white folks over there to do quote unquote missionary work. Hey, listen. Hey, Captain Amaziah. He must didn't follow protocol, because they've been sending missionaries over there and they're successfully raping the hell out of everybody, but they don't get reported. So, he must have broke code. He must have did something that they didn't like. So said, 'Well, we going to tell on you.'
@@ -931,16 +931,16 @@ Reading from On-screen: NBC News on the 2016 US bombings, and a search on Presid
 **[Habakkuk 3:14-16](/bible/habakkuk/3#v14)**  *[[2:17:27](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=8247s)]*
 
 > <sup>[14](/bible/habakkuk/3#v14)</sup> Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing was as to devour the poor secretly.
->
-> <sup>[15](/bible/habakkuk/3#v15)</sup> Thou didst walk through the sea with thine horses, through the heap of great waters.
->
-> <sup>[16](/bible/habakkuk/3#v16)</sup> When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he cometh up unto the people, he will invade them with his troops.
 
 - Their rejoicing was as to devour the poor secretly: Secretly. Secret plots.
+
+> <sup>[15](/bible/habakkuk/3#v15)</sup> Thou didst walk through the sea with thine horses, through the heap of great waters.
 
 - Thou didst walk through the sea with thine horses: Thou didst walk through the nations with your chariots.
 
 - Through the heap of great waters: Through the heap of great nations.
+
+> <sup>[16](/bible/habakkuk/3#v16)</sup> When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he cometh up unto the people, he will invade them with his troops.
 
 - When I heard: Habbec said, when I heard this.
 
@@ -960,10 +960,6 @@ Reading from On-screen: NBC News on the 2016 US bombings, and a search on Presid
 **[Habakkuk 3:17-19](/bible/habakkuk/3#v17)**  *[[2:20:44](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=8444s)]*
 
 > <sup>[17](/bible/habakkuk/3#v17)</sup> Although the fig tree shall not blossom, neither shall fruit be in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and there shall be no herd in the stalls:
->
-> <sup>[18](/bible/habakkuk/3#v18)</sup> Yet I will rejoice in the Lord, I will joy in the God of my salvation.
->
-> <sup>[19](/bible/habakkuk/3#v19)</sup> The Lord God is my strength, and he will make my feet like hinds’ feet, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.
 
 - Although the fig tree shall not blossom: So now remember, Habach lived during the time of Babylon. So he goes back. Remember they took all of the princes of Israel out. They took the nobles of Israel out, and they left the poorest of the people in the land. So verse 17 down, he talks about that.
 
@@ -971,7 +967,11 @@ Reading from On-screen: NBC News on the 2016 US bombings, and a search on Presid
 
 - Although the fig tree shall not blossom: So now let's go back to Habac 3. So again, verse 17, he's reflecting back on his condition. What was happening?
 
+> <sup>[18](/bible/habakkuk/3#v18)</sup> Yet I will rejoice in the Lord, I will joy in the God of my salvation.
+
 - Yet I will rejoice in the Lord, I will joy in the God of my salvation: Why? Cuz he saw that vision of Christ return.
+
+> <sup>[19](/bible/habakkuk/3#v19)</sup> The Lord God is my strength, and he will make my feet like hinds’ feet, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.
 
 - The Lord God is my strength, and he will make my feet like hinds' feet: What does that mean? That he knew Christ would give him power.
 
@@ -996,17 +996,17 @@ Reading from On-screen: NBC News on the 2016 US bombings, and a search on Presid
 
 **[Psalms 105:13-15](/bible/psalms/105#v13)**  *[[2:23:13](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=8593s)]*
 
+- Now, April of last year, Captain Mattathias was touching on this yesterday, they banned IUIC from France.
+
 > <sup>[13](/bible/psalms/105#v13)</sup> When they went from one nation to another, from one kingdom to another people;
 >
 > <sup>[14](/bible/psalms/105#v14)</sup> He suffered no man to do them wrong: yea, he reproved kings for their sakes;
->
-> <sup>[15](/bible/psalms/105#v15)</sup> Saying, Touch not mine anointed, and do my prophets no harm.
-
-- Now, April of last year, Captain Mattathias was touching on this yesterday, they banned IUIC from France.
 
 - When they went from one nation to another, from one kingdom to another people; he suffered no man to do them wrong: So when we went from nation to nation as slaves, God suffered nobody to do what's wrong.
 
 - Yea, he reproved kings for their sakes: He reproved kings for our sakes.
+
+> <sup>[15](/bible/psalms/105#v15)</sup> Saying, Touch not mine anointed, and do my prophets no harm.
 
 - Saying, Touch not mine anointed, and do my prophets no harm: Touch not mine anointed. Well, guess what? France did touch the prophets. They shut the prophets down.
 
@@ -1015,11 +1015,9 @@ Reading from On-screen: NBC News on the 2016 US bombings, and a search on Presid
 
 **[Romans 8:7-8](/bible/romans/8#v7)**  *[[2:32:15](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=9135s)]*
 
-> <sup>[7](/bible/romans/8#v7)</sup> Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be.
->
-> <sup>[8](/bible/romans/8#v8)</sup> So then they that are in the flesh cannot please God.
-
 - We're almost done. Now, Romans 8 is a heavy chapter. I do love it. So, I'm going just pull out some key verses.
+
+> <sup>[7](/bible/romans/8#v7)</sup> Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be.
 
 - Because the carnal mind is enmity against God: The word carnal mind is sinful mind. The carnal mind is the sinful mind. Can we look up enmity? This is Christianity right here. I'm speaking of these religions. Christianity. Islam. Yes. Islam too.
 
@@ -1030,6 +1028,8 @@ Reading from On-screen: NBC News on the 2016 US bombings, and a search on Presid
 - For it is not subject to the law of God: See that? You thought the Christian mind was loving God. It said the Christian mind has hatred and is not subject to the law of God.
 
 - Neither indeed can be: And you can't get these Christians to keep God's law. They will always fight against you and say, 'No, God's law is done away with. We ain't got to keep God's law.' Why? Because they have great immunity against God.
+
+> <sup>[8](/bible/romans/8#v8)</sup> So then they that are in the flesh cannot please God.
 
 - So then they that are in the flesh cannot please God: So then they that are in the flesh cannot please God.
 
@@ -1048,20 +1048,12 @@ Reading from On-screen: definition of "enmity" · read by Captain Uri  *[[2:32:1
 **[Romans 8:14-19](/bible/romans/8#v14)**  *[[2:33:59](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=9239s)]*
 
 > <sup>[14](/bible/romans/8#v14)</sup> For as many as are led by the Spirit of God, they are the sons of God.
->
-> <sup>[15](/bible/romans/8#v15)</sup> For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father.
->
-> <sup>[16](/bible/romans/8#v16)</sup> The Spirit itself beareth witness with our spirit, that we are the children of God:
->
-> <sup>[17](/bible/romans/8#v17)</sup> And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.
->
-> <sup>[18](/bible/romans/8#v18)</sup> For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us.
->
-> <sup>[19](/bible/romans/8#v19)</sup> For the earnest expectation of the creature waiteth for the manifestation of the sons of God.
 
 - For as many as are led by the Spirit of God: For as many as are led by the spirit of God, which is Christ, the Holy Spirit.
 
 - They are the sons of God: They are the sons of God.
+
+> <sup>[15](/bible/romans/8#v15)</sup> For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father.
 
 - For ye have not received the spirit of bondage again to fear: The spirit of bondage again to fear is the old covenant of animal sacrifice.
 
@@ -1071,17 +1063,25 @@ Reading from On-screen: definition of "enmity" · read by Captain Uri  *[[2:32:1
 
 - Whereby we cry, Abba, Father: Whereby ye cried, 'Abba, Father.'
 
+> <sup>[16](/bible/romans/8#v16)</sup> The Spirit itself beareth witness with our spirit, that we are the children of God:
+
 - The Spirit itself beareth witness with our spirit: The spirit itself, meaning the word of God, bears witness with what? With our spirit.
 
 - That we are the children of God: That we, brothers and sisters, are the children of God.
+
+> <sup>[17](/bible/romans/8#v17)</sup> And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.
 
 - And if children, then heirs: And if we are the children of God, then we're heirs of God. We are heirs of God.
 
 - And joint-heirs with Christ: And we're joint heirs with Christ.
 
+> <sup>[18](/bible/romans/8#v18)</sup> For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us.
+
 - For I reckon that the sufferings of this present time: The sufferings that we receive in this world.
 
 - Are not worthy to be compared with the glory which shall be revealed in us: Are not worthy to be compared with the glory which shall be revealed in us. That's the power that we're going to receive.
+
+> <sup>[19](/bible/romans/8#v19)</sup> For the earnest expectation of the creature waiteth for the manifestation of the sons of God.
 
 - For the earnest expectation of the creature waiteth for the manifestation of the sons of God: Everybody's waiting for the manifestation of the sons of God, brother.
 
@@ -1119,10 +1119,6 @@ Reading from On-screen: definition of "enmity" · read by Captain Uri  *[[2:32:1
 **[John 10:33-35](/bible/john/10#v33)**  *[[2:37:10](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=9430s)]*
 
 > <sup>[33](/bible/john/10#v33)</sup> The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God.
->
-> <sup>[34](/bible/john/10#v34)</sup> Jesus answered them, Is it not written in your law, I said, Ye are gods?
->
-> <sup>[35](/bible/john/10#v35)</sup> If he called them gods, unto whom the word of God came, and the scripture cannot be broken;
 
 - The Jews answered him, saying, For a good work we stone thee not: They wanted to stone Christ.
 
@@ -1130,9 +1126,13 @@ Reading from On-screen: definition of "enmity" · read by Captain Uri  *[[2:32:1
 
 - Makest thyself God: You making yourself God.
 
+> <sup>[34](/bible/john/10#v34)</sup> Jesus answered them, Is it not written in your law, I said, Ye are gods?
+
 - Jesus answered them, Is it not written in your law: What did he say? Isn't it written in your law?
 
 - I said, Ye are gods: I said ye are gods.
+
+> <sup>[35](/bible/john/10#v35)</sup> If he called them gods, unto whom the word of God came, and the scripture cannot be broken;
 
 - And the scripture cannot be broken: The scripture can't be changed, brothers and sisters.
 
@@ -1140,20 +1140,6 @@ Reading from On-screen: definition of "enmity" · read by Captain Uri  *[[2:32:1
 **[Psalms 82:1-8](/bible/psalms/82#v1)**  *[[2:38:03](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=9483s)]*
 
 > <sup>[1](/bible/psalms/82#v1)</sup> God standeth in the congregation of the mighty; he judgeth among the gods.
->
-> <sup>[2](/bible/psalms/82#v2)</sup> How long will ye judge unjustly, and accept the persons of the wicked? Selah.
->
-> <sup>[3](/bible/psalms/82#v3)</sup> Defend the poor and fatherless: do justice to the afflicted and needy.
->
-> <sup>[4](/bible/psalms/82#v4)</sup> Deliver the poor and needy: rid them out of the hand of the wicked.
->
-> <sup>[5](/bible/psalms/82#v5)</sup> They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.
->
-> <sup>[6](/bible/psalms/82#v6)</sup> I have said, Ye are gods; and all of you are children of the most High.
->
-> <sup>[7](/bible/psalms/82#v7)</sup> But ye shall die like men, and fall like one of the princes.
->
-> <sup>[8](/bible/psalms/82#v8)</sup> Arise, O God, judge the earth: for thou shalt inherit all nations.
 
 - God standeth in the congregation of the mighty; he judgeth among the gods: The Israelites are the mighty. The Israelites are the gods he's talking about.
 
@@ -1161,17 +1147,25 @@ Reading from On-screen: definition of "enmity" · read by Captain Uri  *[[2:32:1
 
 - He judgeth among the gods: We are the gods he judges among.
 
+> <sup>[2](/bible/psalms/82#v2)</sup> How long will ye judge unjustly, and accept the persons of the wicked? Selah.
+
 - How long will ye judge unjustly: But as a people, we judge unjustly.
 
 - And accept the persons of the wicked? Selah: And we began to accept the persons of the wicked. Selah, it's true.
+
+> <sup>[3](/bible/psalms/82#v3)</sup> Defend the poor and fatherless: do justice to the afflicted and needy.
 
 - Defend the poor and fatherless: Tells us as gods to defend the poor and fatherless.
 
 - Do justice to the afflicted and needy: That's called collection.
 
+> <sup>[4](/bible/psalms/82#v4)</sup> Deliver the poor and needy: rid them out of the hand of the wicked.
+
 - Deliver the poor and needy: He commands us to deliver the poor and needy.
 
 - Rid them out of the hand of the wicked: He commands us as gods to rid the poor out of the hand of the wicked.
+
+> <sup>[5](/bible/psalms/82#v5)</sup> They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.
 
 - They know not, neither will they understand: Our people don't understand.
 
@@ -1179,13 +1173,19 @@ Reading from On-screen: definition of "enmity" · read by Captain Uri  *[[2:32:1
 
 - All the foundations of the earth are out of course: Everything in the world is out of course.
 
+> <sup>[6](/bible/psalms/82#v6)</sup> I have said, Ye are gods; and all of you are children of the most High.
+
 - I have said, Ye are gods: What did he say? Ye are gods. That's the law Christ was making reference to. I have said ye are gods.
 
 - And all of you are children of the most High: But what happened to us?
 
+> <sup>[7](/bible/psalms/82#v7)</sup> But ye shall die like men, and fall like one of the princes.
+
 - But ye shall die like men: Because we didn't take heed to the warnings.
 
 - And fall like one of the princes: Now here we are in America, in Babylon, as mortal men, as nothing.
+
+> <sup>[8](/bible/psalms/82#v8)</sup> Arise, O God, judge the earth: for thou shalt inherit all nations.
 
 - Arise, O God: Now we say unto the Lord, arise, O God.
 
@@ -1196,11 +1196,9 @@ Reading from On-screen: definition of "enmity" · read by Captain Uri  *[[2:32:1
 
 **[Philippians 2:15-16](/bible/philippians/2#v15)**  *[[2:40:10](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=9610s)]*
 
-> <sup>[15](/bible/philippians/2#v15)</sup> That ye may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom ye shine as lights in the world;
->
-> <sup>[16](/bible/philippians/2#v16)</sup> Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain.
-
 - We're almost done. I know I keep saying it, but we are. Watch this. Watch this. Watch this.
+
+> <sup>[15](/bible/philippians/2#v15)</sup> That ye may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom ye shine as lights in the world;
 
 - That ye may be blameless and harmless: That ye may be blameless, brothers, and harmless, brothers.
 
@@ -1210,6 +1208,8 @@ Reading from On-screen: definition of "enmity" · read by Captain Uri  *[[2:32:1
 
 - Among whom ye shine as lights in the world: Among whom we shine as lights in the world.
 
+> <sup>[16](/bible/philippians/2#v16)</sup> Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain.
+
 - Holding forth the word of life: Holding forth the Bible.
 
 - That I may rejoice in the day of Christ: That I may rejoice in the day of Christ.
@@ -1218,8 +1218,6 @@ Reading from On-screen: definition of "enmity" · read by Captain Uri  *[[2:32:1
 **[1 John 3:1-2](/bible/1-john/3#v1)**  *[[2:40:55](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=9655s)]*
 
 > <sup>[1](/bible/1-john/3#v1)</sup> Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.
->
-> <sup>[2](/bible/1-john/3#v2)</sup> Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.
 
 - Behold, what manner of love the Father hath bestowed upon us: What? What? What did he do?
 
@@ -1228,6 +1226,8 @@ Reading from On-screen: definition of "enmity" · read by Captain Uri  *[[2:32:1
 - Therefore the world knoweth us not: Therefore the world knoweth us not.
 
 - Because it knew him not: Because it did not know Christ.
+
+> <sup>[2](/bible/1-john/3#v2)</sup> Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.
 
 - Beloved, now are we the sons of God: Now are we the sons of God.
 

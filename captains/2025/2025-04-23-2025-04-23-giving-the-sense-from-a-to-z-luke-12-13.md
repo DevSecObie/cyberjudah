@@ -41,10 +41,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "idolatry", "pride"]
 **[Luke 12:7-8](/bible/luke/12#v7)**  *[[4:03](https://www.youtube.com/watch?v=W1Df2roFEs8&t=243s)]*
 
 > <sup>[7](/bible/luke/12#v7)</sup> But even the very hairs of your head are all numbered. Fear not therefore: ye are of more value than many sparrows.
->
-> <sup>[8](/bible/luke/12#v8)</sup> Also I say unto you, Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God:
 
 - But even the very hairs of your head are all numbered. Fear not therefore: ye are of more value than many sparrows: Right? So the Lord Jesus the Christ is letting the multitude know how precious the Israelites are in his sight. All right? He says in verse 7, it says, "But even the very hairs of your head are all numbered." You know, that's remarkable in itself. All the hair follicles. The Lord knows every last hair follicle you have in your head.
+
+> <sup>[8](/bible/luke/12#v8)</sup> Also I say unto you, Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God:
 
 - Whosoever shall confess me before men: Now Christ is saying, whosoever shall not be ashamed of him, whosoever is bold enough to confess him before men, watch this, him shall the son of man also confess before the angels of God. So Christ has given them, he's given them eternal life, he's given them the promises of the kingdom. All right? He's letting it be known as long as you stay faithful, as long as you endure. You understand? All right. The Lord said that he will confess you before God and his angels.
 
@@ -52,10 +52,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "idolatry", "pride"]
 **[Luke 12:13-14](/bible/luke/12#v13)**  *[[4:51](https://www.youtube.com/watch?v=W1Df2roFEs8&t=291s)]*
 
 > <sup>[13](/bible/luke/12#v13)</sup> And one of the company said unto him, Master, speak to my brother, that he divide the inheritance with me.
->
-> <sup>[14](/bible/luke/12#v14)</sup> And he said unto him, Man, who made me a judge or a divider over you?
 
 - Master, speak to my brother, that he divide the inheritance with me: You see that? You see that mindset? It's very black. You understand? In the midst of all of that, Christ is letting you know is that, hey, all you got to do is this. Understand that all you got to do is trust in the Lord. All right? You endure to the end. Deny me before men and I won't deny you before God and the angels. And he says, "Hey, Christ. Hey, my brother, he tripping. You know, our daddy, he just died. And I need you to judge this matter about the inheritance money." See that? That's how black people think. Focused on what? Themselves. Covetousness. When the Lord is literally giving you the keys to the kingdom of heaven.
+
+> <sup>[14](/bible/luke/12#v14)</sup> And he said unto him, Man, who made me a judge or a divider over you?
 
 - Man, who made me a judge or a divider over you?: So Christ is say, "Hey, I didn't come here for that." You understand? All right. He said, "Who has made me a judge or a divider over you?" Remember, give me Matthew 18. All right. Give me Matthew 18 real quick. I just want verse 11. Because when Christ came on the scene, is that what Christ came to do? No. All right. They were treating Christ like he was one of the Pharisees and one of the magistrates that would judge such a matter. No. Christ only had a certain amount of time that he was with us. All right. And he was there for a particular purpose.
 
@@ -117,16 +117,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "idolatry", "pride"]
 **[2 Esdras 8:50-52](/bible/2-esdras/8#v50)**  *[[12:26](https://www.youtube.com/watch?v=W1Df2roFEs8&t=746s)]*
 
 > <sup>[50](/bible/2-esdras/8#v50)</sup> For many great miseries shall be done to them that in the latter time shall dwell in the world, because they have walked in great pride.
->
-> <sup>[51](/bible/2-esdras/8#v51)</sup> But understand thou for thyself, and seek out the glory for such as be like thee.
->
-> <sup>[52](/bible/2-esdras/8#v52)</sup> For unto you is paradise opened, the tree of life is planted, the time to come is prepared, plenteousness is made ready, a city is builded, and rest is allowed, yea, perfect goodness and wisdom.
 
 - For many great miseries shall be done to them that in the latter time shall dwell in the world: Watch this. Give me 2 Esdras 8. Let me get there with you real quick. Give me 2 Esdras chapter 8. And get and hold Matthew 6. All right. So excuse me, 2 Esdras chapter 8. We going to read verse 50 down a little bit. And then let's get Matthew 6 and 19 ready.
 
 - Because they have walked in great pride: Right. They have walked in great pride. You know what can make you prideful? Riches, wealth, abundance. Okay? Because now you're trusting in those things over the Lord.
 
+> <sup>[51](/bible/2-esdras/8#v51)</sup> But understand thou for thyself, and seek out the glory for such as be like thee.
+
 - But understand thou for thyself, and seek out the glory for such as be like thee: So it says, "But understand thou for thyself." All right, get an understanding for yourself. And then it says, "And seek out the glory for such as be like thee." Find other brothers and sisters who are sincere about serving the Lord. All right, that's what it's talking about.
+
+> <sup>[52](/bible/2-esdras/8#v52)</sup> For unto you is paradise opened, the tree of life is planted, the time to come is prepared, plenteousness is made ready, a city is builded, and rest is allowed, yea, perfect goodness and wisdom.
 
 - For unto you is paradise opened: You see that? The kingdom of heaven is for who? We're going to make it more clear. Jump up to verse 45.
 
@@ -143,10 +143,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "idolatry", "pride"]
 **[1 Peter 1:3-4](/bible/1-peter/1#v3)**  *[[14:42](https://www.youtube.com/watch?v=W1Df2roFEs8&t=882s)]*
 
 > <sup>[3](/bible/1-peter/1#v3)</sup> Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,
->
-> <sup>[4](/bible/1-peter/1#v4)</sup> To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you,
 
 - Blessed be the God and Father of our Lord Jesus Christ: Hold that. Let's get First Peter. We'll come right back to this. 1 Peter 1. 1 Peter chapter 1 and verse three. Then we go back to 2 Esdras. So it says, "Blessed be the God and Father of our Lord Jesus Christ."
+
+> <sup>[4](/bible/1-peter/1#v4)</sup> To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you,
 
 - To an inheritance incorruptible: You see that? It says to an inheritance incorruptible. Meaning what? This inheritance is going to be eternal. It's going to be forever. It's not talking about, well, your father left you the house or the car or this amount of money. That can be corrupted. All right? Those things can be corrupted and they will pass away. But the Lord is letting us know that we have an inheritance that is incorruptible. Read verse four again.
 
@@ -177,12 +177,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "idolatry", "pride"]
 **[2 Esdras 16:46-47](/bible/2-esdras/16#v46)**  *[[17:45](https://www.youtube.com/watch?v=W1Df2roFEs8&t=1065s)]*
 
 > <sup>[46](/bible/2-esdras/16#v46)</sup> For strangers shall reap their fruits, and spoil their goods, overthrow their houses, and take their children captives, for in captivity and famine shall they get children.
->
-> <sup>[47](/bible/2-esdras/16#v47)</sup> And they that occupy their merchandise with robbery, the more they deck their cities, their houses, their possessions, and their own persons:
 
 - For strangers shall reap their fruits: It says what? Strangers shall reap their fruits. It says strangers shall reap our fruits. You understand that thing right there? That could be what? That garden. Okay. All right. That you worked years upon years preparing for, and guess what? It could be taken away just like that. So at the end of the day, are you going to trust in your garden or are you going to trust in the Lord? That's the type of mindset we have to have. And that's why Christ responded like that. And that's why he's going to get into that parable when we get back to Luke 12.
 
 - And spoil their goods, overthrow their houses: Overthrow their what? Their houses. Overthrow their houses, because sometime what? Your parents may leave you a house as an inheritance. But guess what the Lord is saying? Hey, that's not promised to you. But that paradise, the kingdom, which is an inheritance that fadeth not away.
+
+> <sup>[47](/bible/2-esdras/16#v47)</sup> And they that occupy their merchandise with robbery, the more they deck their cities, their houses, their possessions, and their own persons:
 
 - The more they deck their cities, their houses, their possessions, and their own persons: You see that thing right there? So that's when you jump down to verse, let's read verse 70.
 
@@ -201,12 +201,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "idolatry", "pride"]
 **[2 Esdras 8:50-52](/bible/2-esdras/8#v50)**  *[[19:52](https://www.youtube.com/watch?v=W1Df2roFEs8&t=1192s)]*
 
 > <sup>[50](/bible/2-esdras/8#v50)</sup> For many great miseries shall be done to them that in the latter time shall dwell in the world, because they have walked in great pride.
->
+
+- For many great miseries shall be done to them that in the latter time shall dwell in the world: Now go back to 2 chapter 8 verse 50. 2 chapter 8 and verse 50. Jump down to verse 52.
+
 > <sup>[51](/bible/2-esdras/8#v51)</sup> But understand thou for thyself, and seek out the glory for such as be like thee.
 >
 > <sup>[52](/bible/2-esdras/8#v52)</sup> For unto you is paradise opened, the tree of life is planted, the time to come is prepared, plenteousness is made ready, a city is builded, and rest is allowed, yea, perfect goodness and wisdom.
-
-- For many great miseries shall be done to them that in the latter time shall dwell in the world: Now go back to 2 chapter 8 verse 50. 2 chapter 8 and verse 50. Jump down to verse 52.
 
 - And rest is allowed: You see that? We ain't got to be in fear. We ain't got to wake up early to go to work. It say that rest is allowed. This inheritance sounds much better than any inheritance on this earth.
 
@@ -216,14 +216,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "idolatry", "pride"]
 **[Matthew 6:19-20](/bible/matthew/6#v19)**  *[[20:41](https://www.youtube.com/watch?v=W1Df2roFEs8&t=1241s)]*
 
 > <sup>[19](/bible/matthew/6#v19)</sup> Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:
->
-> <sup>[20](/bible/matthew/6#v20)</sup> But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:
 
 - Lay not up for yourselves treasures upon earth: You see that? So Christ lets us know it's not about laying treasures upon earth.
 
 - Where moth and rust doth corrupt: You see that thing right there? We read earlier and Peter's, that what? That inheritance is an incorruptible inheritance. An inheritance that does not fade away.
 
 - And where thieves break through and steal: Now you know that. Read that part again. Right. Where thieves break through and steal. Where did we just read that at? 2 Esdras 16.
+
+> <sup>[20](/bible/matthew/6#v20)</sup> But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:
 
 - But lay up for yourselves treasures in heaven: Right. Lay up for yourselves treasures in heaven.
 
@@ -233,12 +233,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "idolatry", "pride"]
 **[2 Esdras 8:53-54](/bible/2-esdras/8#v53)**  *[[21:25](https://www.youtube.com/watch?v=W1Df2roFEs8&t=1285s)]*
 
 > <sup>[53](/bible/2-esdras/8#v53)</sup> The root of evil is sealed up from you, weakness and the moth is hid from you, and corruption is fled into hell to be forgotten:
->
-> <sup>[54](/bible/2-esdras/8#v54)</sup> Sorrows are passed, and in the end is shewed the treasure of immortality.
 
 - Weakness and the moth is hid from you: You see that? It says weakness and the what? And the moth is hid from you. You see that? Remember we just read moth does corrupt. You understand? It says in this inheritance, in this kingdom, it says the moth's going to be hid from you.
 
 - And corruption is fled into hell to be forgotten: To be forgotten.
+
+> <sup>[54](/bible/2-esdras/8#v54)</sup> Sorrows are passed, and in the end is shewed the treasure of immortality.
 
 - And in the end is shewed the treasure of immortality: So we should what? We should aspire to want this inheritance right here. Don't worry about the material things because they'll come and go. But the Lord is letting us know, Matthew 6 parallels with Luke 12. The Lord is letting us know to seek ye first the kingdom of heaven and everything else will be added unto you. That's the key.
 
@@ -250,10 +250,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "idolatry", "pride"]
 > <sup>[17](/bible/luke/12#v17)</sup> And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits?
 >
 > <sup>[18](/bible/luke/12#v18)</sup> And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods.
->
-> <sup>[19](/bible/luke/12#v19)</sup> And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry.
 
 - I will pull down my barns, and build greater: So this man, his field was so plenteous with his crops, all right, that he didn't have enough room to store his crops. So he said, "You know what? I'mma tear down my barn that I got. I'mma build an even bigger one so I can have all of my crops in there and I could be good."
+
+> <sup>[19](/bible/luke/12#v19)</sup> And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry.
 
 - Take thine ease, eat, drink, and be merry: You see that thing right there? He says, I'mma be good for years to come. All right. What's that? Micah 2:10. Let me hear that, please. Micah chapter 2 verse 10. Because that's a dangerous thing. Whenever you already know what it is. Give me Sirach 33 and 27. Whenever you at ease, whenever you're comfortable, whenever you have time to relax, guess what happens? What typically happens? Here comes Satan, right? Here comes Satan to destroy you when you at ease, cuz you're not looking for him. You understand? You think you good to go.
 
@@ -281,14 +281,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "idolatry", "pride"]
 > <sup>[19](/bible/luke/12#v19)</sup> And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry.
 >
 > <sup>[20](/bible/luke/12#v20)</sup> But God said unto him, Thou fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?
->
-> <sup>[21](/bible/luke/12#v21)</sup> So is he that layeth up treasure for himself, and is not rich toward God.
 
 - Thou fool, this night thy soul shall be required of thee: Thou fool. You see that thing right there? You say you good, but you forgot that your soul... that Ezekiel 18, your soul belongs to the Lord. And then we're going to Wisdom of Solomon right after.
 
 - This night thy soul shall be required of thee: Required of thee, demanded of thee.
 
 - Then whose shall those things be, which thou hast provided?: Meaning what? Those, that inheritance that you've been working on for so long, that carnal inheritance, who is that going to go to now? Cuz it's not going to be you, because you will no longer be alive to enjoy it. So the Lord is letting us know, hey, our mind's got to be focused on the right things, family.
+
+> <sup>[21](/bible/luke/12#v21)</sup> So is he that layeth up treasure for himself, and is not rich toward God.
 
 - And is not rich toward God: And is what? Is not rich toward God. All right, we'll end on these last two. Give me Ezekiel chapter 7. And I want verse 19, and then we'll end with Tobit 4. All right. So it says, "He who is not rich towards God."
 

@@ -25,10 +25,10 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word", "war"]
 **[Nehemiah 8:8-9](/bible/nehemiah/8#v8)**  *[[1:37](https://www.youtube.com/watch?v=P8qrLqBo5_s&t=97s)]*
 
 > <sup>[8](/bible/nehemiah/8#v8)</sup> So they read in the book in the law of God distinctly, and gave the sense, and caused them to understand the reading.
->
-> <sup>[9](/bible/nehemiah/8#v9)</sup> And Nehemiah, which is the Tirshatha, and Ezra the priest the scribe, and the Levites that taught the people, said unto all the people, This day is holy unto the Lord your God; mourn not, nor weep. For all the people wept, when they heard the words of the law.
 
 - So they read in the book in the law of God distinctly, and gave the sense, and caused them to understand the reading: You got to go into the Bible and cause the people you're teaching to understand. You have to be able to go into the scriptures and rightly divide it and make it relatable. The people feel the work. The reason our people hearken to the word of God in the Bible is because what was being told to them and what was being shown to them, they were living it. The reason you haven't been able to connect with the Bible your entire life, many of you, is because you have not seen yourself and your struggle in it. What makes the Bible so relatable to us is that we feel it. Like we like, yo, I feel that, because I'm going through that right now. Right, I'll give an example. Let me show you something.
+
+> <sup>[9](/bible/nehemiah/8#v9)</sup> And Nehemiah, which is the Tirshatha, and Ezra the priest the scribe, and the Levites that taught the people, said unto all the people, This day is holy unto the Lord your God; mourn not, nor weep. For all the people wept, when they heard the words of the law.
 
 - And Nehemiah, which is the Tirshatha: Which means governor. And Ezra the priest the scribe, and the Levites that taught the people, said unto the people, This day is holy unto the Lord your God; mourn not, nor weep. For all the people wept, when they heard the words of the law: Why did they weep when they heard the words of the law? Because the things that were contained in the Bible, they weren't following it, and they start to realize, yo, this is why we struggling. I see it, this is why we struggling, because we not doing what God says. They were able to realize that, and once they realized that, the Bible became relatable unto them.
 
@@ -40,14 +40,14 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word", "war"]
 **[Acts 8:29-31](/bible/acts/8#v29)**  *[[4:55](https://www.youtube.com/watch?v=P8qrLqBo5_s&t=295s)]*
 
 > <sup>[29](/bible/acts/8#v29)</sup> Then the Spirit said unto Philip, Go near, and join thyself to this chariot.
->
-> <sup>[30](/bible/acts/8#v30)</sup> And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou readest?
->
-> <sup>[31](/bible/acts/8#v31)</sup> And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him.
 
 - Then the Spirit said unto Philip, Go near, and join thyself to this chariot: Now let's go to Acts. I love to read Acts as well with this. Acts chapter 8, we going read about the Ethiopian unit who was in Israel, by the way, Israelite from Ethiopia. I'm gonna get straight to the point.
 
+> <sup>[30](/bible/acts/8#v30)</sup> And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou readest?
+
 - And heard him read the prophet Esaias, and said, Understandest thou what thou readest?: So Philip asked the young man, hey, you understand what it is that you're reading, right?
+
+> <sup>[31](/bible/acts/8#v31)</sup> And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him.
 
 - And he said, How can I, except some man should guide me?: This is the Ethiopian brother. And he desired Philip that he would come and sit with him. So these people that say, oh, I just opened up the book and read it for myself and I just got, no. You need somebody to teach you. You need somebody that's more experience, that's more studied, that's more learned, that is actually living what the Bible says. Those are your teaching, those are your leaders. Okay, not somebody that goes to theology school and gets a degree. That don't make them your teacher, they don't make them your leader. They are continuing to uphold white supremacy. It is what it is. I know some of y'all get mad, jump out the live or whatever. It is what it is.
 
@@ -228,19 +228,9 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word", "war"]
 
 **[Isaiah 63:1-6](/bible/isaiah/63#v1)**  *[[31:16](https://www.youtube.com/watch?v=P8qrLqBo5_s&t=1876s)]*
 
-> <sup>[1](/bible/isaiah/63#v1)</sup> Who is this that cometh from Edom, with dyed garments from Bozrah? this that is glorious in his apparel, travelling in the greatness of his strength? I that speak in righteousness, mighty to save.
->
-> <sup>[2](/bible/isaiah/63#v2)</sup> Wherefore art thou red in thine apparel, and thy garments like him that treadeth in the winefat?
->
-> <sup>[3](/bible/isaiah/63#v3)</sup> I have trodden the winepress alone; and of the people there was none with me: for I will tread them in mine anger, and trample them in my fury; and their blood shall be sprinkled upon my garments, and I will stain all my raiment.
->
-> <sup>[4](/bible/isaiah/63#v4)</sup> For the day of vengeance is in mine heart, and the year of my redeemed is come.
->
-> <sup>[5](/bible/isaiah/63#v5)</sup> And I looked, and there was none to help; and I wondered that there was none to uphold: therefore mine own arm brought salvation unto me; and my fury, it upheld me.
->
-> <sup>[6](/bible/isaiah/63#v6)</sup> And I will tread down the people in mine anger, and make them drunk in my fury, and I will bring down their strength to the earth.
-
 - Isaiah 63, which I love so very much, by the way. One of my favorite chapters in the entire Bible, Isaiah 63. You never hear Christians go over this type of stuff, never.
+
+> <sup>[1](/bible/isaiah/63#v1)</sup> Who is this that cometh from Edom, with dyed garments from Bozrah? this that is glorious in his apparel, travelling in the greatness of his strength? I that speak in righteousness, mighty to save.
 
 - Who is this that cometh from Edom, with dyed garments from Bozrah?: Wait a minute. It says he's coming from Edom with dyed garments of Bozrah. Bozrah is the modern day Jordan area, in the area of the Jordan. The Bible calls it the land of, or the area of Megiddo, the great battle of Armageddon. Christ gonna be there. Jesus Christ is gonna be there. He's telling you who his name Target is: Edom. He gonna deal with all the nations, but Edom, go get it. Who is Edom? Your friendly neighborhood white man. I know it hurt, it stab you in your chest, but you gonna be all right. You gonna be okay.
 
@@ -250,7 +240,11 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word", "war"]
 
 - Somebody said, but Deuteronomy 28 says that they your brother, not to abore. How am I aboring when Christ is the one that going to do the damage? It ain't going to be me. Well, let's just say Christ going to start it off, then he gonna give his servants a little piece of that, but we just gonna deal with Jesus for now. Christ the one that gonna deal. So you can't use that on us. You can't say, oh yeah, well, you guys have hatred for so-called white people. No, we don't. I know white people. Some of my basketball coaches in the world was white people. Some of my friends in the world was white people before I knew the truth, you understand. Got no problem with him. I see them and deal with them at my job every day. It is what it is, you understand. But we know that he coming from Edom with dyed garments of Bozrah. We know that.
 
+> <sup>[2](/bible/isaiah/63#v2)</sup> Wherefore art thou red in thine apparel, and thy garments like him that treadeth in the winefat?
+
 - Wherefore art thou red in thine apparel, and thy garments like him that treadeth in the winefat?: So Isaiah's asked him a question, say, why are you red? Why are you red in your apparel? Why your clothes look like that? Remember, a wine fat is where they would crush the grapes. They would step on the grapes, that's how they would make the wine. They would press down on the grapes. So he's saying, your garment look like you was pressing and stepping on grapes to make wine or something.
+
+> <sup>[3](/bible/isaiah/63#v3)</sup> I have trodden the winepress alone; and of the people there was none with me: for I will tread them in mine anger, and trample them in my fury; and their blood shall be sprinkled upon my garments, and I will stain all my raiment.
 
 - I have trodden the winepress alone; and of the people there was none with me: Now he gets an answer from the person he's seeing. Meaning I was by myself.
 
@@ -258,7 +252,13 @@ tags: ["15 Minutes w/ The Captains", "angels", "the-word", "war"]
 
 - And their blood shall be sprinkled upon my garments, and I will stain all my raiment: You hear that? Wait a minute. So Jesus is answering him and saying, that ain't wine that's on me. That ain't grapes that got my garment looking like this. That's blood. That's blood that you see on me, not grapes. Cause he said, look like you tread the winepress. I ain't treading no winepress. Christ going to stomp people with his feet, you understand. Y'all better learn. I'm telling you, you better learn the word of God, brothers and sisters, I'm telling you.
 
+> <sup>[4](/bible/isaiah/63#v4)</sup> For the day of vengeance is in mine heart, and the year of my redeemed is come.
+
 - For the day of vengeance is in mine heart, and the year of my redeemed is come: And I looked, and there was none to help; and I wondered that there was none to uphold: therefore mine own arm brought salvation unto me; and my fury, it upheld me. And I will tread down the people in mine anger, and make them drunk in my fury, and I will bring down their strength to the earth. You hear this? This is Christ speaking. He said, I'm gonna bring these people down. They going to get it. Y'all don't know Jesus. You don't know Jesus. You know what you think Jesus is, based off the ideology you've been taught in Christianity, but you don't know Jesus.
+
+> <sup>[5](/bible/isaiah/63#v5)</sup> And I looked, and there was none to help; and I wondered that there was none to uphold: therefore mine own arm brought salvation unto me; and my fury, it upheld me.
+>
+> <sup>[6](/bible/isaiah/63#v6)</sup> And I will tread down the people in mine anger, and make them drunk in my fury, and I will bring down their strength to the earth.
 
 
 **[Revelation 19:13](/bible/revelation/19#v13)**  *[[37:20](https://www.youtube.com/watch?v=P8qrLqBo5_s&t=2240s)]*
@@ -339,27 +339,27 @@ Reading from *Fire and Brimstone* (song lyrics shown on screen)  *[[43:38](https
 
 **[2 Esdras 13:5-11](/bible/2-esdras/13#v5)**  *[[48:36](https://www.youtube.com/watch?v=P8qrLqBo5_s&t=2916s)]*
 
+- Let's go to the book of Second Esdras chapter 13 right quick. Second Esdras chapter 13, and I'm gonna just get to the point. Verse 37, well, let me read 13 and 5 real quick first.
+
 > <sup>[5](/bible/2-esdras/13#v5)</sup> And after this I beheld, and, lo, there was gathered together a multitude of men, out of number, from the four winds of the heaven, to subdue the man that came out of the sea.
->
+
+- And after this I beheld, and, lo, there was gathered together a multitude of men, out of number, from the four winds of the heaven, to subdue the man that came out of the sea: The sea in this context is not talking about the ocean. It's talking about the water that's above the firmament, out of what the world calls space. That's water up there. That's why the Lord made a firmament. He separated the waters that was on the earth from the waters that was in space. He separated the two. He put a firmament here, or what the world calls an atmosphere, and it's basically like a dome that keeps us inside, where water of the above can't affect us. That's why the Bible says he has to open the windows of heaven, so the water can come through. That's where rain comes from, and he allows it to happen in certain parts of the world whenever he wants it to. That's God. So now the Bible is saying that this man coming out of the sea, meaning space, it said all of these armies and multitude of men are gonna prepare to fight against the man that comes out of space. Okay.
+
 > <sup>[6](/bible/2-esdras/13#v6)</sup> But I beheld, and, lo, he had graved himself a great mountain, and flew up upon it.
->
+
+- But I beheld, and, lo, he had graved himself a great mountain, and flew up upon it: That mountain is the Mount of Olives.
+
 > <sup>[7](/bible/2-esdras/13#v7)</sup> But I would have seen the region or place whereout the hill was graven, and I could not.
 >
 > <sup>[8](/bible/2-esdras/13#v8)</sup> And after this I beheld, and, lo, all they which were gathered together to subdue him were sore afraid, and yet durst fight.
->
+
+- All they which were gathered together to subdue him were sore afraid, and yet durst fight: What does it mean? They was afraid because they seen his power. He flying from the sky. You ain't gonna mess with this man. So they say, you know what, I'm afraid, but I'm gonna still fight, because the prophecies say they had to fight. We're reading the prophecy in the Book of Revelation 19.
+
 > <sup>[9](/bible/2-esdras/13#v9)</sup> And, lo, as he saw the violence of the multitude that came, he neither lifted up his hand, nor held sword, nor any instrument of war:
 >
 > <sup>[10](/bible/2-esdras/13#v10)</sup> But only I saw that he sent out of his mouth as it had been a blast of fire, and out of his lips a flaming breath, and out of his tongue he cast out sparks and tempests.
 >
 > <sup>[11](/bible/2-esdras/13#v11)</sup> And they were all mixed together; the blast of fire, the flaming breath, and the great tempest; and fell with violence upon the multitude which was prepared to fight, and burned them up every one, so that upon a sudden of an innumerable multitude nothing was to be perceived, but only dust and smell of smoke: when I saw this I was afraid.
-
-- Let's go to the book of Second Esdras chapter 13 right quick. Second Esdras chapter 13, and I'm gonna just get to the point. Verse 37, well, let me read 13 and 5 real quick first.
-
-- And after this I beheld, and, lo, there was gathered together a multitude of men, out of number, from the four winds of the heaven, to subdue the man that came out of the sea: The sea in this context is not talking about the ocean. It's talking about the water that's above the firmament, out of what the world calls space. That's water up there. That's why the Lord made a firmament. He separated the waters that was on the earth from the waters that was in space. He separated the two. He put a firmament here, or what the world calls an atmosphere, and it's basically like a dome that keeps us inside, where water of the above can't affect us. That's why the Bible says he has to open the windows of heaven, so the water can come through. That's where rain comes from, and he allows it to happen in certain parts of the world whenever he wants it to. That's God. So now the Bible is saying that this man coming out of the sea, meaning space, it said all of these armies and multitude of men are gonna prepare to fight against the man that comes out of space. Okay.
-
-- But I beheld, and, lo, he had graved himself a great mountain, and flew up upon it: That mountain is the Mount of Olives.
-
-- All they which were gathered together to subdue him were sore afraid, and yet durst fight: What does it mean? They was afraid because they seen his power. He flying from the sky. You ain't gonna mess with this man. So they say, you know what, I'm afraid, but I'm gonna still fight, because the prophecies say they had to fight. We're reading the prophecy in the Book of Revelation 19.
 
 - When I saw this I was afraid: So the same fear that we saw Habakkuk had when he saw the destruction is the same fear that Esdras is describing. Esdras said, when I saw this I was afraid, because I ain't never seen nobody just open their mouth and fire come out of their mouth, and when the smoke clears, everybody that was in front of them is completely gone. Y'all playing with the Son of God. Y'all playing with the Son of God, right?
 
@@ -376,13 +376,13 @@ Reading from *Fire and Brimstone* (song lyrics shown on screen)  *[[43:38](https
 
 **[Revelation 19:15-16](/bible/revelation/19#v15)**  *[[52:38](https://www.youtube.com/watch?v=P8qrLqBo5_s&t=3158s)]*
 
-> <sup>[15](/bible/revelation/19#v15)</sup> And out of his mouth goeth a sharp sword, that with it he should smite the nations: and he shall rule them with a rod of iron: and he treadeth the winepress of the fierceness and wrath of Almighty God.
->
-> <sup>[16](/bible/revelation/19#v16)</sup> And he hath on his vesture and on his thigh a name written, KING OF KINGS, AND LORD OF LORDS.
-
 - Let's go back to Revelation chapter 19. I may not finish it today. I said I was going to finish it. I'm gonna get through as much as I can, though.
 
+> <sup>[15](/bible/revelation/19#v15)</sup> And out of his mouth goeth a sharp sword, that with it he should smite the nations: and he shall rule them with a rod of iron: and he treadeth the winepress of the fierceness and wrath of Almighty God.
+
 - And out of his mouth goeth a sharp sword, that with it he should smite the nations: The nations, the nations, the nations. Not the Israelites, the nations. And he shall rule them with a rod of iron: and he treadeth the winepress of the fierceness and wrath of Almighty God.
+
+> <sup>[16](/bible/revelation/19#v16)</sup> And he hath on his vesture and on his thigh a name written, KING OF KINGS, AND LORD OF LORDS.
 
 - And he hath on his vesture and on his thigh a name written, KING OF KINGS, AND LORD OF LORDS: What makes Christ the King of kings, and who are the kings that he's the king of? Let's see.
 
@@ -484,8 +484,6 @@ Reading from *Fire and Brimstone* (song lyrics shown on screen)  *[[43:38](https
 **[Revelation 19:20-21](/bible/revelation/19#v20)**  *[[1:04:10](https://www.youtube.com/watch?v=P8qrLqBo5_s&t=3850s)]*
 
 > <sup>[20](/bible/revelation/19#v20)</sup> And the beast was taken, and with him the false prophet that wrought miracles before him, with which he deceived them that had received the mark of the beast, and them that worshipped his image. These both were cast alive into a lake of fire burning with brimstone.
->
-> <sup>[21](/bible/revelation/19#v21)</sup> And the remnant were slain with the sword of him that sat upon the horse, which sword proceeded out of his mouth: and all the fowls were filled with their flesh.
 
 - And the beast was taken, and with him the false prophet: The false prophet is the Roman Catholic Church. All of Christianity gonna get it. All y'all spewing Christianity, if you stay in that religion, you gonna get it. It is what it is. That's what the Bible is saying. The false prophet is the one that came on the earth teaching lies about Jesus.
 
@@ -518,6 +516,8 @@ Reading from *Fire and Brimstone* (song lyrics shown on screen)  *[[43:38](https
     > <sup>[6](/bible/ezekiel/9#v6)</sup> Slay utterly old and young, both maids, and little children, and women: but come not near any man upon whom is the mark; and begin at my sanctuary. Then they began at the ancient men which were before the house.
 
     We almost done, y'all. I'm going to finish Revelation 19 so the next brothers can go to chapter 20. And the LORD said unto him, Go through the midst of the city, through the midst of Jerusalem, and set a mark upon the foreheads of the men that sigh and that cry for all the abominations that be done in the midst thereof. And to the others he said in mine hearing, Go ye after him through the city, and smite: let not your eye spare, neither have ye pity: Slay utterly old and young, both maids, and little children, and women: but come not near any man upon whom is the mark: So in this context, the person that had the mark was the person that you were not supposed to come against. That's the same thing you read about the seal in Isaiah 8 and Revelation chapter 7. So they wouldn't touch those that had the seal or the mark in this particular context. And begin at my sanctuary. Then they began at the ancient men which were before the house.
+
+> <sup>[21](/bible/revelation/19#v21)</sup> And the remnant were slain with the sword of him that sat upon the horse, which sword proceeded out of his mouth: and all the fowls were filled with their flesh.
 
 
 ## In Closing

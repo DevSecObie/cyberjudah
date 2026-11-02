@@ -51,14 +51,14 @@ tags: ["15 Minutes w/ The Captains", "health", "mercy"]
 **[Matthew 4:13-15](/bible/matthew/4#v13)**  *[[13:46](https://www.youtube.com/watch?v=KORpjp3lWvw&t=826s)]*
 
 > <sup>[13](/bible/matthew/4#v13)</sup> And leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast, in the borders of Zabulon and Nephthalim:
->
-> <sup>[14](/bible/matthew/4#v14)</sup> That it might be fulfilled which was spoken by Esaias the prophet, saying,
->
-> <sup>[15](/bible/matthew/4#v15)</sup> The land of Zabulon, and the land of Nephthalim, by the way of the sea, beyond Jordan, Galilee of the Gentiles;
 
 - And leaving Nazareth: All right, that's what we just read about: they thrust him out of the city. And leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast, in the borders of Zabulon and Nephthalim. So now y'all see it says he came to Capernaum which is upon the sea coast. What sea coast is on the screen? All right, the Sea of Galilee, and y'all see Capernaum right there. All right, now I got another map, let me find this other one. Give me one second. Check this one out here. Okay, so y'all see Naphtali there, you see Zebulun and the Sea of Galilee right there. If you look right below Naphtali, you see Capernaum there, okay.
 
 - That it might be fulfilled which was spoken by Isaiah the prophet: So I read this again. And leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast, in the borders of Zabulon and Nephthalim: that it might be fulfilled which was spoken by Isaiah the prophet, saying, The land of Zabulon, and the land of Nephthalim, by the way of the sea, beyond Jordan, Galilee of the Gentiles. All right, so this was prophesied by Isaiah, that Christ would go and teach the quote unquote Gentiles, the Northern Kingdom of Israel, our scattered brothers and sisters. All right, so that's what we're beginning to read about here in Luke chapter 7, why he came to Capernaum.
+
+> <sup>[14](/bible/matthew/4#v14)</sup> That it might be fulfilled which was spoken by Esaias the prophet, saying,
+>
+> <sup>[15](/bible/matthew/4#v15)</sup> The land of Zabulon, and the land of Nephthalim, by the way of the sea, beyond Jordan, Galilee of the Gentiles;
 
 
 **[Luke 7:1-2](/bible/luke/7#v1)**  *[[15:42](https://www.youtube.com/watch?v=KORpjp3lWvw&t=942s)]*
@@ -91,10 +91,10 @@ tags: ["15 Minutes w/ The Captains", "health", "mercy"]
 > <sup>[3](/bible/luke/7#v3)</sup> And when he heard of Jesus, he sent unto him the elders of the Jews, beseeching him that he would come and heal his servant.
 >
 > <sup>[4](/bible/luke/7#v4)</sup> And when they came to Jesus, they besought him instantly, saying, That he was worthy for whom he should do this:
->
-> <sup>[5](/bible/luke/7#v5)</sup> For he loveth our nation, and he hath built us a synagogue.
 
 - That he was worthy for whom he should do this: Back to Luke 7 verse 2 again. And a certain centurion's servant, who was dear unto him, was sick, and ready to die. And when he had heard of Jesus, he sent unto him the elders of the Jews, beseeching him that he would come and heal his servant. And when they came to Jesus, they besought him instantly, saying, That he was worthy of whom he should do this. So they like, yo, this centurion, this brother right here, Christ, this dude is worthy, okay. He's a mighty man, honorable, respectful and what not. He's respected, okay.
+
+> <sup>[5](/bible/luke/7#v5)</sup> For he loveth our nation, and he hath built us a synagogue.
 
 - For he loveth our nation: Verse five: for he loveth our nation. That's the key. Listen to that: for he loveth our nation. They're talking to Christ. It's telling you right here. Read verse three again: and when he had heard of Jesus, he sent unto him the elders of the Jews. So now the elders of the Jews are going to Christ, and in verse five: for he loveth our nation, and he have built us a synagogue. You see that? So this brother was an Israelite. All right, the centurion was an Israelite. It's the same thing with, matter of fact, we'll go to Acts, Acts chapter 10 real quick. Acts 10, we'll start at one.
 
@@ -130,10 +130,10 @@ tags: ["15 Minutes w/ The Captains", "health", "mercy"]
 **[1 Timothy 6:17-18](/bible/1-timothy/6#v17)**  *[[21:51](https://www.youtube.com/watch?v=KORpjp3lWvw&t=1311s)]*
 
 > <sup>[17](/bible/1-timothy/6#v17)</sup> Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who giveth us richly all things to enjoy;
->
-> <sup>[18](/bible/1-timothy/6#v18)</sup> That they do good, that they be rich in good works, ready to distribute, willing to communicate;
 
 - Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches: So brothers and sisters, you all that are watching online, you may be in the congregation, you may have accumulated a decent amount of wealth before you came into the truth, or you're doing it while you're in the truth. All right, it says charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who giveth us richly all things to enjoy. Watch this: that they do good, that they be rich in good works. See that? You must be rich in good works, okay. If you can afford to give, you know, a lot of money to the booster club, do so. It's much work to be done. Matter of fact, right here, you can scan this little QR code right here.
+
+> <sup>[18](/bible/1-timothy/6#v18)</sup> That they do good, that they be rich in good works, ready to distribute, willing to communicate;
 
 - Ready to distribute: All right, I'm going to read the scripture again, so we got the QR code there. It says charge them that are rich in this world, that they be not high-minded, nor trust in uncertain riches, but in the living God, who giveth us richly all things to enjoy; that they do good, that they be rich in good works, ready to distribute. You see that? Ready to distribute, just like the centurion in Luke chapter 7, just like Cornelius in Acts chapter 10. Ready to distribute, okay. Help us do this work. Much work to be done, okay. You may not be able to be out on the forefront. You may have a certain particular status in this world, and it's not in your best interest to have your face on the screen or be on the front line, as they say. Help us, okay, we'll do it.
 
@@ -145,10 +145,10 @@ tags: ["15 Minutes w/ The Captains", "health", "mercy"]
 > <sup>[3](/bible/luke/7#v3)</sup> And when he heard of Jesus, he sent unto him the elders of the Jews, beseeching him that he would come and heal his servant.
 >
 > <sup>[4](/bible/luke/7#v4)</sup> And when they came to Jesus, they besought him instantly, saying, That he was worthy for whom he should do this:
->
-> <sup>[5](/bible/luke/7#v5)</sup> For he loveth our nation, and he hath built us a synagogue.
 
 - That he was worthy for whom he should do this: So let's go back. I'll start at 3 again. Luke 7:3. And when he had heard of Jesus, he sent unto him the elders of the Jews, beseeching him that he would come and heal his servant. And when they came to Jesus, they besought him instantly, saying, That he was worthy for whom he should do this: for he loveth our nation, and he have built us a synagogue. So obviously this brother had a good name, which is what we want to accumulate in this truth, every last one of us, okay: a good name. I want to get a couple scriptures on that while we on that point.
+
+> <sup>[5](/bible/luke/7#v5)</sup> For he loveth our nation, and he hath built us a synagogue.
 
 - For he loveth our nation: Now let's go back to Luke 7:5 again. All right, this particular brother, his name preceded him. They like, yo, he love our people, he built a synagogue, he's worthy, he's honorable. If you can help him, if you can help anybody, that's the guy, Christ, that you need to help right there, okay. If we all make a mistake and fall and whatnot, or we need some assistance, everybody should have the same report about every one of us: like, that's a good brother, that's a good sister, we need to help them, okay. If we can do anything to help, let's do it.
 
@@ -179,10 +179,10 @@ tags: ["15 Minutes w/ The Captains", "health", "mercy"]
 **[Luke 7:6-7](/bible/luke/7#v6)**  *[[29:32](https://www.youtube.com/watch?v=KORpjp3lWvw&t=1772s)]*
 
 > <sup>[6](/bible/luke/7#v6)</sup> Then Jesus went with them. And when he was now not far from the house, the centurion sent friends to him, saying unto him, Lord, trouble not thyself: for I am not worthy that thou shouldest enter under my roof:
->
-> <sup>[7](/bible/luke/7#v7)</sup> Wherefore neither thought I myself worthy to come unto thee: but say in a word, and my servant shall be healed.
 
 - Lord, trouble not thyself: for I am not worthy that thou shouldest enter under my roof: Luke 7 again, going back to verse 6. Then Jesus went with them. And when he was now not far from the house, the centurion sent friends to him, saying unto him, Lord, trouble not thyself: for I am not worthy that thou shouldest enter under my roof. He like, Christ, brothers, tell him, listen, that mighty man Christ, I'm not even worthy for him to step foot under my roof. Now think about all the stuff already said about him already. Number one, he's a centurion, high ranking man. He has status in the world, okay. Obviously had some sort of wealth. He helped them build a synagogue and whatnot. He had a good name. Everybody's like, yo, this is the guy we need to help, okay. But he says to Christ, I'm not even worthy for you to step foot in my house, okay. So what did he have? The spirit of humility, okay. Another attribute that we can take from this brother and apply it to ourselves.
+
+> <sup>[7](/bible/luke/7#v7)</sup> Wherefore neither thought I myself worthy to come unto thee: but say in a word, and my servant shall be healed.
 
 - Wherefore neither thought I myself worthy to come unto thee: Okay, I'll read that again. Then Jesus went with them. And when he was now not far from the house, the centurion sent friends to him, saying unto him, Lord, trouble not thyself: for I am not worthy that thou shouldest enter under my roof: wherefore neither thought I myself worthy to come unto thee. So he's like, listen, I'm not worthy of you to enter under my roof, and I didn't even think I was honorable enough to even come to you, to even step to you, Christ, and ask you for help. That's why he said earlier he sent the elders of the Jews, okay.
 
@@ -292,8 +292,6 @@ tags: ["15 Minutes w/ The Captains", "health", "mercy"]
 > <sup>[12](/bible/luke/7#v12)</sup> Now when he came nigh to the gate of the city, behold, there was a dead man carried out, the only son of his mother, and she was a widow: and much people of the city was with her.
 >
 > <sup>[13](/bible/luke/7#v13)</sup> And when the Lord saw her, he had compassion on her, and said unto her, Weep not.
->
-> <sup>[14](/bible/luke/7#v14)</sup> And he came and touched the bier: and they that bare him stood still. And he said, Young man, I say unto thee, Arise.
 
 - When the Lord saw her, he had compassion on her: All right, go back to Luke 7 verse 2 again. And when he came nigh to the gate of the city, behold, there was a dead man carried out, the only son of his mother, and she was a widow: and much people of the city was with her. And when the Lord saw her, he had compassion on her, and said unto her, Weep not. And he came and touched the buyer: and they that bare him stood still. And he said, Young man, I say unto thee, Arise. Now I want to make a point. It said in verse 13, when the Lord saw her, he had compassion on her. All right, he had compassion on her. So let's get Matthew, Matthew chapter 14. These attributes, again, I just want to touch on these little points, because we don't want to just read past them. These are things we have to get in our spirits, okay, so we can apply them ourselves.
 
@@ -302,6 +300,8 @@ tags: ["15 Minutes w/ The Captains", "health", "mercy"]
     > <sup>[14](/bible/matthew/14#v14)</sup> And Jesus went forth, and saw a great multitude, and was moved with compassion toward them, and he healed their sick.
 
     And Jesus went forth, and saw a great multitude, and was moved with compassion toward them, and he healed their sick. You see that? And when Jesus went forth he saw a great multitude, and was moved with compassion towards them. Let's think about it. Think about it in yourself: when you see your people, is there a level of compassion that comes upon you? Or do we still have the mindset, I can't stand, I hate? We can't do that. We have to have compassion towards our people. Our people are sick, all right, spiritually, physically, mentally. We're sick people, okay. We have to have compassion one towards another.
+
+> <sup>[14](/bible/luke/7#v14)</sup> And he came and touched the bier: and they that bare him stood still. And he said, Young man, I say unto thee, Arise.
 
 
 **[Luke 7:14](/bible/luke/7#v14)**  *[[51:10](https://www.youtube.com/watch?v=KORpjp3lWvw&t=3070s)]*
@@ -386,23 +386,23 @@ tags: ["15 Minutes w/ The Captains", "health", "mercy"]
 **[Isaiah 8:8-10](/bible/isaiah/8#v8)**  *[[1:03:27](https://www.youtube.com/watch?v=KORpjp3lWvw&t=3807s)]*
 
 > <sup>[8](/bible/isaiah/8#v8)</sup> And he shall pass through Judah; he shall overflow and go over, he shall reach even to the neck; and the stretching out of his wings shall fill the breadth of thy land, O Immanuel.
->
+
+- O Immanuel: And he shall pass through Judah; he shall overflow and go over, he shall reach even to the neck; and the stretching out of his wings shall fill the breath of thy land, O Emmanuel. So O Emmanuel is going to be interpreted in verse 10 at the bottom. Watch: take counsel together, and it shall come to nought; speak the word, and it shall not stand: for God is with us. That's what Emmanuel means: God is with us, okay. Emmanuel means God is with us. Which is why it said in chapter 7:14, therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and shall bear a son, and shall call his name Emmanuel, okay.
+
 > <sup>[9](/bible/isaiah/8#v9)</sup> Associate yourselves, O ye people, and ye shall be broken in pieces; and give ear, all ye of far countries: gird yourselves, and ye shall be broken in pieces; gird yourselves, and ye shall be broken in pieces.
 >
 > <sup>[10](/bible/isaiah/8#v10)</sup> Take counsel together, and it shall come to nought; speak the word, and it shall not stand: for God is with us.
-
-- O Immanuel: And he shall pass through Judah; he shall overflow and go over, he shall reach even to the neck; and the stretching out of his wings shall fill the breath of thy land, O Emmanuel. So O Emmanuel is going to be interpreted in verse 10 at the bottom. Watch: take counsel together, and it shall come to nought; speak the word, and it shall not stand: for God is with us. That's what Emmanuel means: God is with us, okay. Emmanuel means God is with us. Which is why it said in chapter 7:14, therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and shall bear a son, and shall call his name Emmanuel, okay.
 
 
 **[Luke 7:16-17](/bible/luke/7#v16)**  *[[1:04:22](https://www.youtube.com/watch?v=KORpjp3lWvw&t=3862s)]*
 
 > <sup>[16](/bible/luke/7#v16)</sup> And there came a fear on all: and they glorified God, saying, That a great prophet is risen up among us; and, That God hath visited his people.
->
-> <sup>[17](/bible/luke/7#v17)</sup> And this rumour of him went forth throughout all Judea, and throughout all the region round about.
 
 - And that God hath visited his people: Now go back to Luke 7, and we're going to read verse 16 again. Watch this. And there came a fear on all: and they glorified God, saying, That a great prophet is risen among us; and, That God hath visited his people. All right, that's what Emmanuel is, okay. How much time I got? I got a few minutes.
 
 - And this rumour of him went forth throughout all Judaea: And this rumour of him went forth throughout all Judaea, and throughout all the region round about. Yeah, let me get something on that. Luke chapter 5. This dude, you got to think about what happened here. He just spoke the word, or the centurion say, hey, just speak the word, I know my servant to be healed. They got back, his servant was healed. Then he said, hey, young man, arise. They're like, yo, this is a great prophet, God is with us. All right, Luke chapter 5 verse 15: but so much the more went there, yeah, I want 15, but let me see if I want more. Yeah, I'm going to read 13.
+
+> <sup>[17](/bible/luke/7#v17)</sup> And this rumour of him went forth throughout all Judea, and throughout all the region round about.
 
 
 **[Luke 5:13-15](/bible/luke/5#v13)**  *[[1:05:29](https://www.youtube.com/watch?v=KORpjp3lWvw&t=3929s)]*

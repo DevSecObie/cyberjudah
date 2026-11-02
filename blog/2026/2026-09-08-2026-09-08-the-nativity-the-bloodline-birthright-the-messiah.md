@@ -590,17 +590,17 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "edom-esau", "women"]
 
 **[2 Samuel 7:12-14](/bible/2-samuel/7#v12)**  *[[4:55:33](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=17733s)]*
 
-> <sup>[12](/bible/2-samuel/7#v12)</sup> And when thy days be fulfilled, and thou shalt sleep with thy fathers, I will set up thy seed after thee, which shall proceed out of thy bowels, and I will establish his kingdom.
->
-> <sup>[13](/bible/2-samuel/7#v13)</sup> He shall build an house for my name, and I will stablish the throne of his kingdom for ever.
->
-> <sup>[14](/bible/2-samuel/7#v14)</sup> I will be his father, and he shall be my son. If he commit iniquity, I will chasten him with the rod of men, and with the stripes of the children of men:
-
 - I will set up thy seed after thee, which shall proceed out of thy bowels; seed proceeding out of the bowels is sperm.
+
+> <sup>[12](/bible/2-samuel/7#v12)</sup> And when thy days be fulfilled, and thou shalt sleep with thy fathers, I will set up thy seed after thee, which shall proceed out of thy bowels, and I will establish his kingdom.
 
 - I will establish his kingdom: when David died it became Solomon's kingdom, Solomon built the house for the Lord's name, and his throne is established forever; Zerubbabel built the second temple, not the first.
 
 - I will be his father and he shall be my son, and if he commit iniquity I will chasten him with the rod of men; twofold, but the first fulfillment is Solomon.
+
+> <sup>[13](/bible/2-samuel/7#v13)</sup> He shall build an house for my name, and I will stablish the throne of his kingdom for ever.
+>
+> <sup>[14](/bible/2-samuel/7#v14)</sup> I will be his father, and he shall be my son. If he commit iniquity, I will chasten him with the rod of men, and with the stripes of the children of men:
 
 
 **[1 Chronicles 28:4-5](/bible/1-chronicles/28#v4)**  *[[5:03:26](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=18206s)]*
@@ -791,6 +791,14 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "edom-esau", "women"]
 
 **[Luke 1:31-37](/bible/luke/1#v31)**  *[[5:55:17](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=21317s)]*
 
+- In the sixth month of Elisabeth the same Gabriel came to Nazareth to a virgin espoused to Joseph of the house of David, Solomon's line; he came in and talked to her, nothing more.
+
+- Thou shalt conceive in thy womb and bring forth a son and call his name Jesus is the same word said of Elisabeth and the same form of words said to Zacharias; to conceive takes seed, as Ruth conceived when Boaz went in unto her.
+
+- The Lord shall give him the throne of his father David and he shall reign over the house of Jacob forever: that is Solomon's kingdom, and it comes through Joseph.
+
+- How shall this be, seeing I know not a man, is the same question Zacharias asked, when will this happen; she was espoused but had not yet come together with Joseph.
+
 > <sup>[31](/bible/luke/1#v31)</sup> And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS.
 >
 > <sup>[32](/bible/luke/1#v32)</sup> He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David:
@@ -800,18 +808,6 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "edom-esau", "women"]
 > <sup>[34](/bible/luke/1#v34)</sup> Then said Mary unto the angel, How shall this be, seeing I know not a man?
 >
 > <sup>[35](/bible/luke/1#v35)</sup> And the angel answered and said unto her, The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the Son of God.
->
-> <sup>[36](/bible/luke/1#v36)</sup> And, behold, thy cousin Elisabeth, she hath also conceived a son in her old age: and this is the sixth month with her, who was called barren.
->
-> <sup>[37](/bible/luke/1#v37)</sup> For with God nothing shall be impossible.
-
-- In the sixth month of Elisabeth the same Gabriel came to Nazareth to a virgin espoused to Joseph of the house of David, Solomon's line; he came in and talked to her, nothing more.
-
-- Thou shalt conceive in thy womb and bring forth a son and call his name Jesus is the same word said of Elisabeth and the same form of words said to Zacharias; to conceive takes seed, as Ruth conceived when Boaz went in unto her.
-
-- The Lord shall give him the throne of his father David and he shall reign over the house of Jacob forever: that is Solomon's kingdom, and it comes through Joseph.
-
-- How shall this be, seeing I know not a man, is the same question Zacharias asked, when will this happen; she was espoused but had not yet come together with Joseph.
 
 - The Holy Ghost shall come upon thee and the power of the Highest shall overshadow thee: to overshadow is to lead, guide and defend, as the cloud shadowed the camp and led Israel through the sea, so the Lord would guide her to her husband.
 
@@ -845,6 +841,10 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "edom-esau", "women"]
 
     Man's goings are of the Lord, how can a man then understand his own way; Mary could not understand her way, and the Lord guided her, as he guided every one of us here.
 
+> <sup>[36](/bible/luke/1#v36)</sup> And, behold, thy cousin Elisabeth, she hath also conceived a son in her old age: and this is the sixth month with her, who was called barren.
+>
+> <sup>[37](/bible/luke/1#v37)</sup> For with God nothing shall be impossible.
+
 
 **[Luke 1:41-45](/bible/luke/1#v41)**  *[[6:10:35](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=22235s)]*
 
@@ -867,21 +867,21 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "edom-esau", "women"]
 
 **[Luke 2:4-7](/bible/luke/2#v4)**  *[[6:18:15](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=22695s)]*
 
+- Caesar's taxing sent everyone to his own city; Joseph went up from Nazareth, where Mary had returned and where they were together, to Bethlehem, because he was of the house and lineage of David.
+
+- He went to be taxed there because he held taxable property in Bethlehem, land from his own family, as well as Mary's father's land in Nazareth; Roman censuses registered a man where he held property.
+
 > <sup>[4](/bible/luke/2#v4)</sup> And Joseph also went up from Galilee, out of the city of Nazareth, into Judea, unto the city of David, which is called Bethlehem; (because he was of the house and lineage of David:)
 >
 > <sup>[5](/bible/luke/2#v5)</sup> To be taxed with Mary his espoused wife, being great with child.
 >
 > <sup>[6](/bible/luke/2#v6)</sup> And so it was, that, while they were there, the days were accomplished that she should be delivered.
->
-> <sup>[7](/bible/luke/2#v7)</sup> And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.
-
-- Caesar's taxing sent everyone to his own city; Joseph went up from Nazareth, where Mary had returned and where they were together, to Bethlehem, because he was of the house and lineage of David.
-
-- He went to be taxed there because he held taxable property in Bethlehem, land from his own family, as well as Mary's father's land in Nazareth; Roman censuses registered a man where he held property.
 
 - The days were accomplished that she should be delivered: a full nine months, and she brought forth her firstborn son, the first of several.
 
 - If Christ were born without a father he still grew nine months in a sinful womb; if the sperm is evil and the egg is holy, Mary has to be made sinless too, which is why Rome invented the immaculate conception and made a second savior; it is religious feminism.
+
+> <sup>[7](/bible/luke/2#v7)</sup> And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.
 
 
 *[[6:19:43](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=22783s)]* **In The News: A search result on why Joseph travelled to Bethlehem for the census** — Roman censuses registered people where they lived or where they held taxable property, which is why Joseph had to go to Bethlehem: he had land there as well as in Nazareth.

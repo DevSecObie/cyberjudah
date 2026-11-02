@@ -53,16 +53,6 @@ tags: ["IUIC in the ClassRoom", "adversity", "endurance", "faith", "marriage-fam
 
 **[1 Peter 4:12-16](/bible/1-peter/4#v12)**  *[[3:31](https://www.youtube.com/watch?v=8IzkF68aBC4&t=211s)]*
 
-> <sup>[12](/bible/1-peter/4#v12)</sup> Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you:
->
-> <sup>[13](/bible/1-peter/4#v13)</sup> But rejoice, inasmuch as ye are partakers of Christ’s sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy.
->
-> <sup>[14](/bible/1-peter/4#v14)</sup> If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified.
->
-> <sup>[15](/bible/1-peter/4#v15)</sup> But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men’s matters.
->
-> <sup>[16](/bible/1-peter/4#v16)</sup> Yet if any man suffer as a Christian, let him not be ashamed; but let him glorify God on this behalf.
-
 - A fiery trial: that's another term for temptation.
 
 - You're coming to this truth, things is going wrong in your life. You're like, what's going on? I realize I'm an Israelite, what's going on in my life now? I never had these problems before, why am I going through this now?
@@ -70,6 +60,14 @@ tags: ["IUIC in the ClassRoom", "adversity", "endurance", "faith", "marriage-fam
 - You come into this truth and you get all obstacles, trials against you because of this truth. On their part he is evil spoken of: it might be your mother, your father, your husband, your wife. Oh, you some Israelite now, now you keeping the Commandments, please. Oh, you don't keep Christmas no more? Come on, that's the time we all get together. You hear afflictions, verbal afflictions.
 
 - Now that's normal when coming to this truth, but Peter says, let none of you suffer as a murderer or a thief or an evildoer. Don't come in this truth and you've not repented of your sins. Oh, I'm an Israelite, but you're still a thief, you're still a liar, you're a drug dealer, a prostitute. No, you should not be like that.
+
+> <sup>[12](/bible/1-peter/4#v12)</sup> Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you:
+>
+> <sup>[13](/bible/1-peter/4#v13)</sup> But rejoice, inasmuch as ye are partakers of Christ’s sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy.
+>
+> <sup>[14](/bible/1-peter/4#v14)</sup> If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified.
+>
+> <sup>[15](/bible/1-peter/4#v15)</sup> But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men’s matters.
 
 - Or as a busybody in other men's matters: and mainly you sisters, don't come in this truth being busybodies, all in the business in every man's affairs.
 
@@ -80,6 +78,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "endurance", "faith", "marriage-fam
     > <sup>[26](/bible/acts/11#v26)</sup> And when he had found him, he brought him unto Antioch. And it came to pass, that a whole year they assembled themselves with the church, and taught much people. And the disciples were called Christians first in Antioch.
 
     What's the origin behind this word Christian? The disciples were called Christians first in Antioch. That term Christian means anointed. Who was called the anointed? The Israelites that followed Christ.
+
+> <sup>[16](/bible/1-peter/4#v16)</sup> Yet if any man suffer as a Christian, let him not be ashamed; but let him glorify God on this behalf.
 
 
 **[Leviticus 19:17-18](/bible/leviticus/19#v17)**  *[[6:32](https://www.youtube.com/watch?v=8IzkF68aBC4&t=392s)]*
@@ -97,29 +97,13 @@ tags: ["IUIC in the ClassRoom", "adversity", "endurance", "faith", "marriage-fam
 
 **[Sirach 2:1-10](/bible/sirach/2#v1)**  *[[7:58](https://www.youtube.com/watch?v=8IzkF68aBC4&t=478s)]*
 
-> <sup>[1](/bible/sirach/2#v1)</sup> My son, if thou come to serve the Lord, prepare thy soul for temptation.
->
-> <sup>[2](/bible/sirach/2#v2)</sup> Set thy heart aright, and constantly endure, and make not haste in time of trouble.
->
-> <sup>[3](/bible/sirach/2#v3)</sup> Cleave unto him, and depart not away, that thou mayest be increased at thy last end.
->
-> <sup>[4](/bible/sirach/2#v4)</sup> Whatsoever is brought upon thee take cheerfully, and be patient when thou art changed to a low estate.
->
-> <sup>[5](/bible/sirach/2#v5)</sup> For gold is tried in the fire, and acceptable men in the furnace of adversity.
->
-> <sup>[6](/bible/sirach/2#v6)</sup> Believe in him, and he will help thee; order thy way aright, and trust in him.
->
-> <sup>[7](/bible/sirach/2#v7)</sup> Ye that fear the Lord, wait for his mercy; and go not aside, lest ye fall.
->
-> <sup>[8](/bible/sirach/2#v8)</sup> Ye that fear the Lord, believe him; and your reward shall not fail.
->
-> <sup>[9](/bible/sirach/2#v9)</sup> Ye that fear the Lord, hope for good, and for everlasting joy and mercy.
->
-> <sup>[10](/bible/sirach/2#v10)</sup> Look at the generations of old, and see; did ever any trust in the Lord, and was confounded? or did any abide in his fear, and was forsaken? or whom did he ever despise, that called upon him?
-
 - Get your pens, papers, your Bibles, your Apocrypha, and take careful notes. There's going to be three levels of temptation in everyone's life: that personal temptation, that personal trial, that personal tribulation; then that marital trial, that marital tribulation, the brother or sister that's married; then you may start to gather together with believers, and you're going to have that congregational trial, problems in the congregation. Personal, marital and congregation.
 
 - Set thy heart aright, meaning set your mind according to God's laws. Constantly endure: when each trial comes your way, when tribulation, the temptations come your way, constantly endure.
+
+> <sup>[1](/bible/sirach/2#v1)</sup> My son, if thou come to serve the Lord, prepare thy soul for temptation.
+>
+> <sup>[2](/bible/sirach/2#v2)</sup> Set thy heart aright, and constantly endure, and make not haste in time of trouble.
 
 - Make not haste in time of trouble: trials come your way, I'm leaving this truth because I never had that problem before when I was a nigger in the world. The Bible says no, don't make haste in time of trouble.
 
@@ -136,6 +120,22 @@ tags: ["IUIC in the ClassRoom", "adversity", "endurance", "faith", "marriage-fam
 - Why does it say wait for his mercy? Because weeping may endure for a night, but joy cometh in the morning. No matter what comes your way, be patient and wait for his mercy. Go not aside: don't go aside from the Most High's commandments, from the Most High's laws.
 
 - Your reward shall not fail. What's the reward we all want? We want salvation, we want liberation, we want a kingdom upon the earth.
+
+> <sup>[3](/bible/sirach/2#v3)</sup> Cleave unto him, and depart not away, that thou mayest be increased at thy last end.
+>
+> <sup>[4](/bible/sirach/2#v4)</sup> Whatsoever is brought upon thee take cheerfully, and be patient when thou art changed to a low estate.
+>
+> <sup>[5](/bible/sirach/2#v5)</sup> For gold is tried in the fire, and acceptable men in the furnace of adversity.
+>
+> <sup>[6](/bible/sirach/2#v6)</sup> Believe in him, and he will help thee; order thy way aright, and trust in him.
+>
+> <sup>[7](/bible/sirach/2#v7)</sup> Ye that fear the Lord, wait for his mercy; and go not aside, lest ye fall.
+>
+> <sup>[8](/bible/sirach/2#v8)</sup> Ye that fear the Lord, believe him; and your reward shall not fail.
+>
+> <sup>[9](/bible/sirach/2#v9)</sup> Ye that fear the Lord, hope for good, and for everlasting joy and mercy.
+>
+> <sup>[10](/bible/sirach/2#v10)</sup> Look at the generations of old, and see; did ever any trust in the Lord, and was confounded? or did any abide in his fear, and was forsaken? or whom did he ever despise, that called upon him?
 
 - Look at the generations of old: look at your forefathers, look at Adam, Abraham, Isaac and Jacob, David, Solomon, Isaiah, Ezekiel, Christ, Peter and Paul, James and John. Even our foremothers: Sarah, Rebecca, Esther, Judith, Mary, Martha. Did the Most High confound any of them that trusted in him? The answer is no. He never put none of them to shame, and he never forsook any of our foreparents.
 
@@ -157,15 +157,9 @@ tags: ["IUIC in the ClassRoom", "adversity", "endurance", "faith", "marriage-fam
 
 **[James 1:1-4](/bible/james/1#v1)**  *[[18:13](https://www.youtube.com/watch?v=8IzkF68aBC4&t=1093s)]*
 
-> <sup>[1](/bible/james/1#v1)</sup> James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.
->
-> <sup>[2](/bible/james/1#v2)</sup> My brethren, count it all joy when ye fall into divers temptations;
->
-> <sup>[3](/bible/james/1#v3)</sup> Knowing this, that the trying of your faith worketh patience.
->
-> <sup>[4](/bible/james/1#v4)</sup> But let patience have her perfect work, that ye may be perfect and entire, wanting nothing.
-
 - The Most High is going to make that man out of you, that woman out of you; he's going to make an Israelite indeed out of you.
+
+> <sup>[1](/bible/james/1#v1)</sup> James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.
 
 - To the twelve tribes which are scattered abroad: this Bible is not written to other nations. It's only written to the twelve tribes of Israel.
 
@@ -179,14 +173,16 @@ tags: ["IUIC in the ClassRoom", "adversity", "endurance", "faith", "marriage-fam
 
 - Wanting nothing, meaning lacking nothing. Coming out of a Negro, Latino state of mind takes a lot of work for the Most High to bring us to the image of Christ, the mind of Christ. A lot of us come from a world of sin; you can't get rid of it like that, because it's still in your mind.
 
+> <sup>[2](/bible/james/1#v2)</sup> My brethren, count it all joy when ye fall into divers temptations;
+>
+> <sup>[3](/bible/james/1#v3)</sup> Knowing this, that the trying of your faith worketh patience.
+>
+> <sup>[4](/bible/james/1#v4)</sup> But let patience have her perfect work, that ye may be perfect and entire, wanting nothing.
+
 
 **[Romans 5:3-5](/bible/romans/5#v3)**  *[[21:59](https://www.youtube.com/watch?v=8IzkF68aBC4&t=1319s)]*
 
 > <sup>[3](/bible/romans/5#v3)</sup> And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;
->
-> <sup>[4](/bible/romans/5#v4)</sup> And patience, experience; and experience, hope:
->
-> <sup>[5](/bible/romans/5#v5)</sup> And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.
 
 - We glory in tribulation: now that's easier said than done. Paul says this because he understood in the spirit of Christ the purpose of tribulation.
 
@@ -195,6 +191,10 @@ tags: ["IUIC in the ClassRoom", "adversity", "endurance", "faith", "marriage-fam
 - As you're being tried in your tribulation you're learning patience, and patience worketh experience in you, because a lot of you lack experience in how to deal with brothers and sisters, family members, how to deal with yourself when it comes to sin.
 
 - Experience builds hope, because it shows you're able to counsel that brother or sister that comes in new to the faith. You've been there already, you've done that already, and now you're able to counsel them in the Bible, not on how you feel or what you think, but on what thus saith the Lord.
+
+> <sup>[4](/bible/romans/5#v4)</sup> And patience, experience; and experience, hope:
+>
+> <sup>[5](/bible/romans/5#v5)</sup> And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.
 
 
 **[Sirach 1:23](/bible/sirach/1#v23)**  *[[24:16](https://www.youtube.com/watch?v=8IzkF68aBC4&t=1456s)]*
@@ -208,14 +208,26 @@ tags: ["IUIC in the ClassRoom", "adversity", "endurance", "faith", "marriage-fam
 
 **[James 1:5-13](/bible/james/1#v5)**  *[[25:06](https://www.youtube.com/watch?v=8IzkF68aBC4&t=1506s)]*
 
+- A lot of us coming out of that low Negro, Latino state of mind, we lack wisdom. Let's call it straight: we coming out of a dumb state of mind, a white man's frame of mind. You got to fall on your knees and ask the Most High to open your understanding to this Bible.
+
 > <sup>[5](/bible/james/1#v5)</sup> If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
->
+
+- That giveth to all men: all men is all Israelite men. Liberally, meaning freely.
+
+- You got to ask for wisdom in faith. You can't just say, oh Lord give me wisdom; it don't come like that.
+
 > <sup>[6](/bible/james/1#v6)</sup> But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.
->
+
+- He that wavereth is like a wave of the sea: I don't know if he's going to do it for me, should I keep the Commandments, let me ask my grandma, let me ask my aunt. You run to T.D. Jakes on one side, then you run to the Israelites on the next. You're not going to receive things from the Lord.
+
 > <sup>[7](/bible/james/1#v7)</sup> For let not that man think that he shall receive any thing of the Lord.
 >
 > <sup>[8](/bible/james/1#v8)</sup> A double minded man is unstable in all his ways.
->
+
+- Double-minded: one side you for the truth, the other side you're not sure if it's the truth. You got to take a stand in what this Bible says.
+
+- The brother of low degree is exalted because he is not double-minded. He's standing firm no matter what came his way: I'mma stay in this truth regardless; my wife left me, my kids left me, I lost my job, my house burned down, I'm staying fervent in this truth. Our lives is like grass.
+
 > <sup>[9](/bible/james/1#v9)</sup> Let the brother of low degree rejoice in that he is exalted:
 >
 > <sup>[10](/bible/james/1#v10)</sup> But the rich, in that he is made low: because as the flower of the grass he shall pass away.
@@ -223,20 +235,6 @@ tags: ["IUIC in the ClassRoom", "adversity", "endurance", "faith", "marriage-fam
 > <sup>[11](/bible/james/1#v11)</sup> For the sun is no sooner risen with a burning heat, but it withereth the grass, and the flower thereof falleth, and the grace of the fashion of it perisheth: so also shall the rich man fade away in his ways.
 >
 > <sup>[12](/bible/james/1#v12)</sup> Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.
->
-> <sup>[13](/bible/james/1#v13)</sup> Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:
-
-- A lot of us coming out of that low Negro, Latino state of mind, we lack wisdom. Let's call it straight: we coming out of a dumb state of mind, a white man's frame of mind. You got to fall on your knees and ask the Most High to open your understanding to this Bible.
-
-- That giveth to all men: all men is all Israelite men. Liberally, meaning freely.
-
-- You got to ask for wisdom in faith. You can't just say, oh Lord give me wisdom; it don't come like that.
-
-- He that wavereth is like a wave of the sea: I don't know if he's going to do it for me, should I keep the Commandments, let me ask my grandma, let me ask my aunt. You run to T.D. Jakes on one side, then you run to the Israelites on the next. You're not going to receive things from the Lord.
-
-- Double-minded: one side you for the truth, the other side you're not sure if it's the truth. You got to take a stand in what this Bible says.
-
-- The brother of low degree is exalted because he is not double-minded. He's standing firm no matter what came his way: I'mma stay in this truth regardless; my wife left me, my kids left me, I lost my job, my house burned down, I'm staying fervent in this truth. Our lives is like grass.
 
 - Blessed is the man that endureth temptation: this is what we wanted to get to. You must endure whatever tribulation comes your way. Just like in Luke 4:13, after Satan had tempted Christ for forty days and forty nights he left Christ for a season, because he was coming back to try all over again. The Lord has promised a crown to you Israelites if you endure the temptation.
 
@@ -247,6 +245,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "endurance", "faith", "marriage-fam
     > <sup>[10](/bible/psalms/111#v10)</sup> The fear of the Lord is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.
 
     You lack wisdom, you want wisdom: this is the starting point. In order to get this wisdom you got to show the Most High your faith. A good understanding have all they that do his commandments.
+
+> <sup>[13](/bible/james/1#v13)</sup> Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:
 
 
 **[Job 1:6-12](/bible/job/1#v6)**  *[[29:34](https://www.youtube.com/watch?v=8IzkF68aBC4&t=1774s)]*
@@ -354,16 +354,6 @@ tags: ["IUIC in the ClassRoom", "adversity", "endurance", "faith", "marriage-fam
 **[Ephesians 5:27-32](/bible/ephesians/5#v27)**  *[[40:44](https://www.youtube.com/watch?v=8IzkF68aBC4&t=2444s)]*
 
 > <sup>[27](/bible/ephesians/5#v27)</sup> That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.
->
-> <sup>[28](/bible/ephesians/5#v28)</sup> So ought men to love their wives as their own bodies. He that loveth his wife loveth himself.
->
-> <sup>[29](/bible/ephesians/5#v29)</sup> For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church:
->
-> <sup>[30](/bible/ephesians/5#v30)</sup> For we are members of his body, of his flesh, and of his bones.
->
-> <sup>[31](/bible/ephesians/5#v31)</sup> For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh.
->
-> <sup>[32](/bible/ephesians/5#v32)</sup> This is a great mystery: but I speak concerning Christ and the church.
 
 - That he might present it: the it is the marriage. The Lord wants to present your marriage.
 
@@ -376,6 +366,16 @@ tags: ["IUIC in the ClassRoom", "adversity", "endurance", "faith", "marriage-fam
 - Be joined to his wife, meaning take her as yours. You two come together in one mind.
 
 - Marriage is a great mystery; a lot of you don't understand it. Marriage represents Christ and the nation of Israel. So you brothers, you sisters that say you repent, you got to get your minds right: coming into a marriage, understand what the marriage represents.
+
+> <sup>[28](/bible/ephesians/5#v28)</sup> So ought men to love their wives as their own bodies. He that loveth his wife loveth himself.
+>
+> <sup>[29](/bible/ephesians/5#v29)</sup> For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church:
+>
+> <sup>[30](/bible/ephesians/5#v30)</sup> For we are members of his body, of his flesh, and of his bones.
+>
+> <sup>[31](/bible/ephesians/5#v31)</sup> For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh.
+>
+> <sup>[32](/bible/ephesians/5#v32)</sup> This is a great mystery: but I speak concerning Christ and the church.
 
 
 **[Sirach 25:18-20](/bible/sirach/25#v18)**  *[[44:22](https://www.youtube.com/watch?v=8IzkF68aBC4&t=2662s)]*
@@ -510,21 +510,21 @@ tags: ["IUIC in the ClassRoom", "adversity", "endurance", "faith", "marriage-fam
 
 **[Acts 20:28-31](/bible/acts/20#v28)**  *[[56:53](https://www.youtube.com/watch?v=8IzkF68aBC4&t=3413s)]*
 
-> <sup>[28](/bible/acts/20#v28)</sup> Take heed therefore unto yourselves, and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the church of God, which he hath purchased with his own blood.
->
-> <sup>[29](/bible/acts/20#v29)</sup> For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
->
-> <sup>[30](/bible/acts/20#v30)</sup> Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.
->
-> <sup>[31](/bible/acts/20#v31)</sup> Therefore watch, and remember, that by the space of three years I ceased not to warn every one night and day with tears.
-
 - That's dealing with the congregation, and this is what Paul warned us about.
 
 - You brothers are the overseers. You men are the overseers, just like in your house; the church is an extension of your house. You the leaders. Your job is to feed the church of God with the laws of the Most High.
 
 - Paul warned you that after his departure grievous wolves would enter amongst the congregation, not sparing the flock, the followers of Christ.
 
+> <sup>[28](/bible/acts/20#v28)</sup> Take heed therefore unto yourselves, and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the church of God, which he hath purchased with his own blood.
+>
+> <sup>[29](/bible/acts/20#v29)</sup> For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
+>
+> <sup>[30](/bible/acts/20#v30)</sup> Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.
+
 - Of your own selves: you overseers, you leaders, watch one another, because some of you might get the devil on you. Their purpose is to draw away disciples after themselves.
+
+> <sup>[31](/bible/acts/20#v31)</sup> Therefore watch, and remember, that by the space of three years I ceased not to warn every one night and day with tears.
 
 
 ## In Closing

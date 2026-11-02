@@ -62,20 +62,10 @@ tags: ["IUIC in the ClassRoom", "faith", "media", "purpose", "the-body", "unity"
 **[Wisdom of Solomon 3:1-7](/bible/wisdom-of-solomon/3#v1)**  *[[14:48](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=888s)]*
 
 > <sup>[1](/bible/wisdom-of-solomon/3#v1)</sup> But the souls of the righteous are in the hand of God, and there shall no torment touch them.
->
-> <sup>[2](/bible/wisdom-of-solomon/3#v2)</sup> In the sight of the unwise they seemed to die: and their departure is taken for misery,
->
-> <sup>[3](/bible/wisdom-of-solomon/3#v3)</sup> And their going from us to be utter destruction: but they are in peace.
->
-> <sup>[4](/bible/wisdom-of-solomon/3#v4)</sup> For though they be punished in the sight of men, yet is their hope full of immortality.
->
-> <sup>[5](/bible/wisdom-of-solomon/3#v5)</sup> And having been a little chastised, they shall be greatly rewarded: for God proved them, and found them worthy for himself.
->
-> <sup>[6](/bible/wisdom-of-solomon/3#v6)</sup> As gold in the furnace hath he tried them, and received them as a burnt offering.
->
-> <sup>[7](/bible/wisdom-of-solomon/3#v7)</sup> And in the time of their visitation they shall shine, and run to and fro like sparks among the stubble.
 
 - But the souls of the righteous are in the hand of God: We're going to read verse 1 to 8. Pay attention to the words, what Most High God is telling you here. That's the true you. Are you the righteous? He said the soul of the righteous is in the hand of Most High. Satan have no power over you. The soul of the righteous is in the hand of Most High.
+
+> <sup>[2](/bible/wisdom-of-solomon/3#v2)</sup> In the sight of the unwise they seemed to die: and their departure is taken for misery,
 
 - In the sight of the unwise: Who is the unwise? The unwise is not us in here. You should not be the unwise. You should be the wise one. What does that mean, to be wise? To know what the scripture say. To know the law. The unwise is those outside of this door. Unbelievers.
 
@@ -83,13 +73,19 @@ tags: ["IUIC in the ClassRoom", "faith", "media", "purpose", "the-body", "unity"
 
 - And their departure is taken for misery: Their departure is what? It's taken for misery.
 
+> <sup>[3](/bible/wisdom-of-solomon/3#v3)</sup> And their going from us to be utter destruction: but they are in peace.
+
 - But they are in peace: You see, what you got to understand is the chosen one. Most is not going to lose the chosen one. Remember Christ said, "I lose none of them." Remember that scripture? Most High is not going to lose the chosen one. In other words, some brothers and sisters, Most High God is taking them right now because of what's coming. Because Most High understand what's coming. Some sisters not be able to bury it. So he's taking them right now. Those are the seal one. They already seal. He's taking them right now cuz he ain't going to lose them. That's what, when you see those thing happen, that's what you got to look at. That's what you got to think about. Don't look at it as, "Oh, this blood was evil. This was evil." Nope. That's not true. Most High God is taking them because of what's coming. The destruction that's coming. Some of us won't be able to hold on to it. That's why the scripture say, if it was possible, it could deceive the very elect, if it were possible.
 
 - But they are in peace: So a lot of time when you see this thing happen, because it's not only older brothers, older sisters that pass, we got young brothers, young sisters just passed. Why I'm talking about young brothers, young sisters is because of the destruction, what's about to happen. Most High say, "Uh-uh, they're not going to be able to bury it." But they at what? They are in peace.
 
+> <sup>[4](/bible/wisdom-of-solomon/3#v4)</sup> For though they be punished in the sight of men, yet is their hope full of immortality.
+
 - For though they be punished in the sight of men: And the unbelievers and the unwise, they look like it was a punishment.
 
 - Yet is their hope full of immortality: You know what the word immortality mean? Immortality mean you never die. That's what that mean. That mean your spirit live forever. That's what that mean.
+
+> <sup>[5](/bible/wisdom-of-solomon/3#v5)</sup> And having been a little chastised, they shall be greatly rewarded: for God proved them, and found them worthy for himself.
 
 - And having been a little chastised: And you see, no matter what you see going on with us right now, is a little chastised. When you look at what happened to us in slavery, when you look at what happened to us today, still today in 2026. I was watching a video. There's a sister. She's one of the sisters that's lost her job, there's 600 something thousand black women that lost her job. She said, "Listen, white people continue underestimate black people." She said, "Listen, I'm in my 50s. I'm ready to start all over again." You see, the thing with us is we use not to have anything, nothing. We live on very little. So when you see this thing happening all over, white people are shocked that we ain't saying nothing. They're shocked, because let me tell you something: one thing you ain't going to see about black people, we ain't going to kill ourself because we have nothing. Because we never have nothing anyway. That's the thing. No matter what they did to us, we always find a way to rise back up again. Why? Because we are the chosen one.
 
@@ -105,9 +101,13 @@ tags: ["IUIC in the ClassRoom", "faith", "media", "purpose", "the-body", "unity"
 
 - And found them worthy for himself: That's a heavy scripture right here. When you see that blood, that sister be taken away, God had proved them and God found them worthy, worthy for himself. That's a heavy scripture right there. Now you got to ask yourself, are you worthy? Are you ready? Think about it. If you pass away right now, are you 100% sure you worthy? You 100% sure you're worthy? I cannot answer that. You have to answer that.
 
+> <sup>[6](/bible/wisdom-of-solomon/3#v6)</sup> As gold in the furnace hath he tried them, and received them as a burnt offering.
+
 - As gold in the furnace hath he tried them: You try it so you can come out pure.
 
 - And received them as a burnt offering: So God received these brothers and sisters as a burnt offering.
+
+> <sup>[7](/bible/wisdom-of-solomon/3#v7)</sup> And in the time of their visitation they shall shine, and run to and fro like sparks among the stubble.
 
 - And in the time of their visitation they shall shine: You know the time of the visitation is time of the kingdom. They shall what? They're going to shine.
 
@@ -118,19 +118,19 @@ tags: ["IUIC in the ClassRoom", "faith", "media", "purpose", "the-body", "unity"
 
 **[Luke 11:17-18](/bible/luke/11#v17)**  *[[30:43](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=1843s)]*
 
-> <sup>[17](/bible/luke/11#v17)</sup> But he, knowing their thoughts, said unto them, Every kingdom divided against itself is brought to desolation; and a house divided against a house falleth.
->
-> <sup>[18](/bible/luke/11#v18)</sup> If Satan also be divided against himself, how shall his kingdom stand? because ye say that I cast out devils through Beelzebub.
-
 - One body, one mission: Let me have the title of the class. Many members, one body, one mission. So one body, many members, one body, one mission. One body, one mission. All of us should have one mission. One mission. One mission. The mission is to wake up the 12 tribes of Israel so we can get the hell out of here. That's the mission. One mission.
 
 - One body, one mission: However, I just don't want your brothers to underestimate the enemy. Never underestimate your enemy. The problem with black people in America, all over the world, yes, in America, we really underestimate the enemy. We really underestimate. I know all of us say the white man is the devil. The white is the devil. But I don't think you understand what you're saying. I really don't. Cuz you continue to underestimate this man. Some of you, you really underestimate how evil these people can be. You really underestimate that. You know why you underestimated that? Because some of you still got in your mind all of them is not that bad. Believe it or not, some brother and sister with us right now think all of them is not that bad. Some of you think that.
+
+> <sup>[17](/bible/luke/11#v17)</sup> But he, knowing their thoughts, said unto them, Every kingdom divided against itself is brought to desolation; and a house divided against a house falleth.
 
 - But he, knowing their thoughts, said unto them: I got some video I want to show you. But before I go there, this is what I want you to tell me what Christ said. As this is not only for the whole world, but this is also for the Israelite. I want you Israelite to remember this verse as we go into this class. Always remember that verse. What is he saying? Listen to what Christ said to them. This is what Christ said to us. Listen to what Christ said to us, because he is talking to us. These last days, this is talking about us. I want you guys to remember what this say as we go to this class. Remember that verse right here.
 
 - Every kingdom divided against itself is brought to desolation: Any nation, every nation that divide against itself is brought to what? Desolation. To destruction. That's also go with the 12 tribes. That's go with the 12 tribes. If we divide among ourself, is going to brought to nothing, destruction. That's what he's saying.
 
 - And a house divided against a house falleth: So this is a house. He said a house divided against a house will fall.
+
+> <sup>[18](/bible/luke/11#v18)</sup> If Satan also be divided against himself, how shall his kingdom stand? because ye say that I cast out devils through Beelzebub.
 
 - If Satan also be divided against himself: So can Satan divide against himself? No. No. You know who's Satan here? That's Esau. Christ said, "Can Satan divide against himself?" The answer is no. No. You see, this is the problem with us. We said, "I'm a Democrat. I'm a Republican. I'm a Christian. I'm a Catholic." They all come from the same branch. They all come from the same branch. You think there's a different? No, there is no different. They all got one mission: to destroy the children of Israel. That's the mission. That's the mission. And if you think I'm lying, I'm going to show it to you today, because some of you, I'm telling you, some of you is in La La Land, boy. Some of you is in La La Land. I'm going to show you what Donald Trump said out of his own mouth. I'm going to show you.
 
@@ -233,12 +233,6 @@ Reading from Definition of insanity, read again (on screen)  *[[52:36](https://w
 **[Isaiah 30:1-4](/bible/isaiah/30#v1)**  *[[56:39](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=3399s)]*
 
 > <sup>[1](/bible/isaiah/30#v1)</sup> Woe to the rebellious children, saith the Lord, that take counsel, but not of me; and that cover with a covering, but not of my spirit, that they may add sin to sin:
->
-> <sup>[2](/bible/isaiah/30#v2)</sup> That walk to go down into Egypt, and have not asked at my mouth; to strengthen themselves in the strength of Pharaoh, and to trust in the shadow of Egypt!
->
-> <sup>[3](/bible/isaiah/30#v3)</sup> Therefore shall the strength of Pharaoh be your shame, and the trust in the shadow of Egypt your confusion.
->
-> <sup>[4](/bible/isaiah/30#v4)</sup> For his princes were at Zoan, and his ambassadors came to Hanes.
 
 - Woe to the rebellious children: We are the rebellious children. Our people is hardheaded. We are rebellious as hell. We refuse to do what this Bible say.
 
@@ -248,6 +242,8 @@ Reading from Definition of insanity, read again (on screen)  *[[52:36](https://w
 
 - That they may add sin to sin: Yes. Evil to evil, sin to sin.
 
+> <sup>[2](/bible/isaiah/30#v2)</sup> That walk to go down into Egypt, and have not asked at my mouth; to strengthen themselves in the strength of Pharaoh, and to trust in the shadow of Egypt!
+
 - That walk to go down into Egypt: They knew Egypt today is America. America is a new Egypt today.
 
 - To trust in the shadow of Egypt: Listen, right now, right now people is going crazy right now, because if I'm not mistaken, what's this date? I think a week and a half from now is so-called vote. So election, right? Listen, people is going crazy. People is losing their mind. Democrat is going to take power again. Let me tell you guys something. Let me tell you guys something. Mark my word. God forbid if I pass away tomorrow, remember I told you this: if Donald Trump left office today, leave office today, they put a Democrat, they're going to do the same thing Donald Trump is doing right now. You see, this is the thing with social media. Social media wants you to believe Donald Trump is the worst president that ever had.
@@ -255,6 +251,10 @@ Reading from Definition of insanity, read again (on screen)  *[[52:36](https://w
 - To trust in the shadow of Egypt: Social media want you to believe Donald Trump deported more of our people than ever. That's not true. Believe it or not, Donald Trump is not even close to the amount of people Obama deported. If you think I'm lying, go do the research. Go do the research. If you think I'm lying, Donald Trump is not even close. You see those people get arrested by ICE. You know why you think Donald Trump is the worst? Because Donald Trump put it clear. He put the ICE in the street. Obama didn't do that. Obama didn't put ICE. But Obama deported more people than any president in history of America. And Obama was black. So you tell me, you tell me what going to change. Nothing going to change. Nothing going to change.
 
 - To trust in the shadow of Egypt: We still, some of us, that's why I say some of us. You see Obama, he said 2.75 to over 3 million people he deported. Look at Donald Trump. Look at Donald Trump right now. 2025, 425,000, 452,000. And people want you to believe Donald Trump is the worst. No, Donald Trump sitting in the same chair Obama was sitting in. Same exact chair, same office, same White House, same place. They're starting the same policies. Don't let nobody fool you. Same thing. The same way you vote do not count on Obama, you vote do not count on Donald Trump either. You see, our people so stupid. We keep, you know what? You know what we are?
+
+> <sup>[3](/bible/isaiah/30#v3)</sup> Therefore shall the strength of Pharaoh be your shame, and the trust in the shadow of Egypt your confusion.
+>
+> <sup>[4](/bible/isaiah/30#v4)</sup> For his princes were at Zoan, and his ambassadors came to Hanes.
 
 - For his princes were at Zoan, and his ambassadors came to Hanes: The problem with us is we are what you call a person that keep doing the same thing over and over again, got the same result. Equal insanity. You guys know that, right? That's what it's called. You keep doing it over, same result. Same result. I always say it's like a pig that in the dirt. You took that pig, you shower it, you lotion everything, you put a bow tie suit in that pig. You not even turn around, the pig go back to the dirt. Same result. That's called insanity. That's what some of us are. We insane. That's insanity.
 
@@ -314,8 +314,6 @@ Reading from Quote on J. Edgar Hoover (read on screen)  *[[1:18:32](https://www.
 **[Amos 3:3-4](/bible/amos/3#v3)**  *[[1:24:40](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=5080s)]*
 
 > <sup>[3](/bible/amos/3#v3)</sup> Can two walk together, except they be agreed?
->
-> <sup>[4](/bible/amos/3#v4)</sup> Will a lion roar in the forest, when he hath no prey? will a young lion cry out of his den, if he have taken nothing?
 
 - Can two walk together, except they be agreed?: So now we was talking about the gender war, right? I'm going to move fast. So the scripture said two cannot walk together lest they agree. The black man was created for the black woman. I mean, the black woman was created for the black man. So it's the opposite. In other words, we belong together. That's how it is. Stop falling for social media. Stop it, brothers. We have to continue teach family unity. Unity. Unity. No, you cannot build a nation without families. Family take husband and wife. I'm going to repeat that again. Family take husband and wife. Go back to that sister number two. Play that for me.
 
@@ -323,18 +321,20 @@ Reading from Quote on J. Edgar Hoover (read on screen)  *[[1:18:32](https://www.
 
 - Can two walk together: This gender war, they make you believe that. Listen, let me tell you something, right? When you look at the study, the studies show the percentage of black men that marry black women is higher than anything social media are going to tell you. "Oh no, the black men hate the black woman." That's not true. That is not true. We have some … in the midst of us. Absolutely. Listen, every nation have … in the midst of them. Every nation got knuckleheads. Yes, we do. But guess what? Majority of black men, the percentage is high, that married to black women, is very high. And guess what? Black men don't file for divorce. The black women file for divorce. So what that's saying: black men want to save their family. Is the black women who always get up. "Hey, why you divorce him?" "I don't know. I just woke up today. I don't like him." So, stop let social media propaganda telling you, "Oh no, this woman is better." Let me tell you guys something, right? The best, the greatest relationship, marriage, family in the planet Earth is between a black man and a black woman. I'm telling you right now, that's the strongest. That's the best. You know why it's the best? Let's go to Genesis.
 
+> <sup>[4](/bible/amos/3#v4)</sup> Will a lion roar in the forest, when he hath no prey? will a young lion cry out of his den, if he have taken nothing?
+
 
 **[Genesis 2:21-24](/bible/genesis/2#v21)**  *[[1:30:46](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=5446s)]*
 
 > <sup>[21](/bible/genesis/2#v21)</sup> And the Lord God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;
->
+
+- And the Lord God caused a deep sleep to fall upon Adam: Come on. I didn't have no time to do this, but let's go. We read earlier, can two walk together. I'm not going to stay in Genesis, but let's read one or two verse.
+
 > <sup>[22](/bible/genesis/2#v22)</sup> And the rib, which the Lord God had taken from man, made he a woman, and brought her unto the man.
 >
 > <sup>[23](/bible/genesis/2#v23)</sup> And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man.
 >
 > <sup>[24](/bible/genesis/2#v24)</sup> Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.
-
-- And the Lord God caused a deep sleep to fall upon Adam: Come on. I didn't have no time to do this, but let's go. We read earlier, can two walk together. I'm not going to stay in Genesis, but let's read one or two verse.
 
 - Therefore shall a man leave his father and his mother, and shall cleave unto his wife: I want verse 24. That's what I want.
 
@@ -452,8 +452,6 @@ Reading from Definition of endeavor (read on screen)  *[[1:48:20](https://www.yo
 **[Philippians 3:14-15](/bible/philippians/3#v14)**  *[[1:52:16](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=6736s)]*
 
 > <sup>[14](/bible/philippians/3#v14)</sup> I press toward the mark for the prize of the high calling of God in Christ Jesus.
->
-> <sup>[15](/bible/philippians/3#v15)</sup> Let us therefore, as many as be perfect, be thus minded: and if in any thing ye be otherwise minded, God shall reveal even this unto you.
 
 - I press toward the mark for the prize of the high calling: So this is a high calling. Every day you supposed to press towards that mark, every day. How you press towards the mark? By studying. That's how you press towards the mark: by praying three times a day. That's how you keep pressing toward the mark. Because what you try to do is keep yourself from getting into all the filthiness out there. Continue pressing towards the mark. You cannot press towards the mark if you don't study, you don't put the work in. You got to press towards the mark. And Saturday when you come here fellowshipping, press towards the mark. That's what Paul say. I continue to press towards the mark, because this is not over until you close your eyes or Christ come back a new time. That's when this is over. Continue pressing the mark. There's a brother who just passed away. At the end he was continue pressing the mark. All of us should have that spirit.
 
@@ -465,6 +463,8 @@ Reading from Definition of endeavor (read on screen)  *[[1:48:20](https://www.yo
 
 - In Christ Jesus: High calling. Holy calling.
 
+> <sup>[15](/bible/philippians/3#v15)</sup> Let us therefore, as many as be perfect, be thus minded: and if in any thing ye be otherwise minded, God shall reveal even this unto you.
+
 - Let us therefore, as many as be perfect, be thus minded: So the scripture say be minded. Be mindful. Be mindful the thing you say, the thing you do. Be mindful.
 
 - And if in any thing ye be otherwise minded: So in other words, be mindful of the law. That's what he's saying. Be mindful of the law.
@@ -473,16 +473,12 @@ Reading from Definition of endeavor (read on screen)  *[[1:48:20](https://www.yo
 **[Hebrews 3:1-4](/bible/hebrews/3#v1)**  *[[1:57:31](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=7051s)]*
 
 > <sup>[1](/bible/hebrews/3#v1)</sup> Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;
->
-> <sup>[2](/bible/hebrews/3#v2)</sup> Who was faithful to him that appointed him, as also Moses was faithful in all his house.
->
-> <sup>[3](/bible/hebrews/3#v3)</sup> For this man was counted worthy of more glory than Moses, inasmuch as he who hath builded the house hath more honour than the house.
->
-> <sup>[4](/bible/hebrews/3#v4)</sup> For every house is builded by some man; but he that built all things is God.
 
 - Partakers of the heavenly calling: Partaker of the heavenly calling. Of the holy calling. We are partakers of the holy calling. Consider the apostles and the high priest. Go ahead.
 
 - Of our profession, Christ Jesus: Of our profession, Christ Jesus.
+
+> <sup>[2](/bible/hebrews/3#v2)</sup> Who was faithful to him that appointed him, as also Moses was faithful in all his house.
 
 - Who was faithful to him: So Christ was faithful to him. Who's the him? The father. Christ was faithful to the father.
 
@@ -490,9 +486,13 @@ Reading from Definition of endeavor (read on screen)  *[[1:48:20](https://www.yo
 
 - As also Moses was faithful in all his house: Guess what? Same way Moses was appointed, and Moses was faithful in all his house.
 
+> <sup>[3](/bible/hebrews/3#v3)</sup> For this man was counted worthy of more glory than Moses, inasmuch as he who hath builded the house hath more honour than the house.
+
 - For this man was counted worthy of more glory than Moses: So Christ was counted worthy of more glory than Moses.
 
 - Inasmuch as he who hath builded the house hath more honour than the house: You hear what it said? Has more honor than the house.
+
+> <sup>[4](/bible/hebrews/3#v4)</sup> For every house is builded by some man; but he that built all things is God.
 
 - For every house is builded by some man; but he that built all things is God: Every house is builded by some man. Every house is built by some man. Remember the scripture, Christ give a compassion, compared to a man who build a house on sand and a man who build a house on rocks. Brothers, I pray none of you build your house on sand, cuz I'm telling you right now, the flood is coming. Make no mistake about it, the flood is coming. When the flood come, do not say we didn't warn you of you building your house on sand. Your house should build on the rock, which is, that rock is Christ. Do not build your house on that men that sit next to you. Do not build your house on your wife. Do not build your house on your husband, sisters. Do not build your house on leadership. Leadership is still man. Leadership can make mistake. Build your house. Make sure your house build on Christ, because when the flood come, when tribulation come, that you don't fall. Always remember that. Build your house on Christ.
 
@@ -507,14 +507,6 @@ Reading from Definition of endeavor (read on screen)  *[[1:48:20](https://www.yo
 **[Ephesians 4:1-5](/bible/ephesians/4#v1)**  *[[2:01:29](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=7289s)]*
 
 > <sup>[1](/bible/ephesians/4#v1)</sup> I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,
->
-> <sup>[2](/bible/ephesians/4#v2)</sup> With all lowliness and meekness, with longsuffering, forbearing one another in love;
->
-> <sup>[3](/bible/ephesians/4#v3)</sup> Endeavouring to keep the unity of the Spirit in the bond of peace.
->
-> <sup>[4](/bible/ephesians/4#v4)</sup> There is one body, and one Spirit, even as ye are called in one hope of your calling;
->
-> <sup>[5](/bible/ephesians/4#v5)</sup> One Lord, one faith, one baptism,
 
 - I therefore, the prisoner of the Lord: We're almost done. I'm not keeping you guys long. We almost done. We're going to start at verse one.
 
@@ -526,19 +518,27 @@ Reading from Definition of endeavor (read on screen)  *[[1:48:20](https://www.yo
 
 - That ye walk worthy of the vocation: This is a hospital. You are the patient. We are the patient. I'm a patient, too. We are the patient. We here to get ourself better. This is the medication right here. The problem is some of you don't want to take this. You don't apply the medication. You know what I realized? It doesn't matter how many class we leadership teach, cuz we might be the doctor, we say, "Hey, this is the medication." You say, "Ah, whatever. I ain't taking that." What is the purpose of you coming here then? Cuz this is a hospital. We didn't come here because all of us was righteous. You come here to get better. Is that what Christ said? Christ, "I come to call those that's insane." I'm butcher it. You know what Christ said? Christ, "I come to call those who know they are sick." Cuz some of you say, "I ain't sick." Then why you here? You wasting our time. You taking a seat. Why you here anyway?
 
+> <sup>[2](/bible/ephesians/4#v2)</sup> With all lowliness and meekness, with longsuffering, forbearing one another in love;
+
 - With all lowliness and meekness: All loneliness, meekness.
 
 - With longsuffering: Longsuffering.
 
 - Forbearing one another in love: Forbearing what? Forbearing one another in love. Be patient each other.
 
+> <sup>[3](/bible/ephesians/4#v3)</sup> Endeavouring to keep the unity of the Spirit in the bond of peace.
+
 - Endeavouring to keep the unity of the Spirit in the bond of peace: There go that word again. Endeavoring to do what? Endeavoring to keep the unity and the spirit of the bond of peace. Do whatever you have to to keep that unity, because the enemy do not want us to unite. Stop listen to social media. Stop listen to the propaganda. No, the black men and the black women do not hate each other. The Hispanic men and the Hispanic women do not hate each other. They do not. We do not hate each other. We love each other, because he start with us. And guess what? He's going to finish with us. Cuz everybody want to copy us. Everybody want to copy the negro, but nobody want to be a negro.
 
 - Endeavouring to keep the unity of the Spirit: You know what I find so fascinating? I'm sorry. I know this is not to do with the subject. I find it so fascinating how the so-called African American here, Judah in this part of the world, how they built this place. They built this place called America. And when they was building this place, I find it fascinating that nobody call them lazy. And now all of a sudden, now they got to get paid for their labor, now they're lazy. I find it fascinating. The same people who build this place, now all of a sudden now they're lazy. So what, they was not lazy back then, when they were building this place? They was not lazy. It's all propaganda. Stop now. "Haitian. Oh, American is lazy." "Oh, Haitian is no good." "Oh, Jamaican come here." "Oh yeah, American is lazy." Shut up. Just shut the hell up. … Shut up. It's all propaganda to divide us, to put hatred between us. At the end of the day, we are the 12 trials. We are the same people. Same people. Keep that in mind. The enemy, the enemy bring division and hatred.
 
+> <sup>[4](/bible/ephesians/4#v4)</sup> There is one body, and one Spirit, even as ye are called in one hope of your calling;
+
 - There is one body, and one Spirit: One body, one spirit. That's the body of Christ.
 
 - Even as ye are called in one hope of your calling: One hope of your calling. One body, one spirit. The body is the body of Christ. One spirit, the spirit of Christ. One hope of your calling.
+
+> <sup>[5](/bible/ephesians/4#v5)</sup> One Lord, one faith, one baptism,
 
 - One Lord, one faith: One Lord, which is the Lord Jesus Christ. One faith, which is Christ.
 
@@ -575,12 +575,6 @@ Reading from Definition of endeavor (read on screen)  *[[1:48:20](https://www.yo
 **[1 Corinthians 12:12-15](/bible/1-corinthians/12#v12)**  *[[2:13:14](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=7994s)]*
 
 > <sup>[12](/bible/1-corinthians/12#v12)</sup> For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ.
->
-> <sup>[13](/bible/1-corinthians/12#v13)</sup> For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit.
->
-> <sup>[14](/bible/1-corinthians/12#v14)</sup> For the body is not one member, but many.
->
-> <sup>[15](/bible/1-corinthians/12#v15)</sup> If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?
 
 - For as the body is one: Watch this. As the body is one. What the body? The body is Christ. As the body is one.
 
@@ -592,32 +586,30 @@ Reading from Definition of endeavor (read on screen)  *[[1:48:20](https://www.yo
 
 - Being many, are one body: One body.
 
+> <sup>[13](/bible/1-corinthians/12#v13)</sup> For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit.
+
 - Whether we be Jews or Gentiles: Whether we be northern kingdom or southern kingdom. That's what that say when you say Jews or Gentile.
 
 - And have been all made to drink into one Spirit: One spirit.
 
+> <sup>[14](/bible/1-corinthians/12#v14)</sup> For the body is not one member, but many.
+
 - For the body is not one member, but many: So the body of Christ is not one member, but many. But what? Many. But many, many. There is million of us. There's million of us. Many.
+
+> <sup>[15](/bible/1-corinthians/12#v15)</sup> If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?
 
 
 **[Romans 12:4-10](/bible/romans/12#v4)**  *[[2:16:41](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=8201s)]*
 
 > <sup>[4](/bible/romans/12#v4)</sup> For as we have many members in one body, and all members have not the same office:
->
-> <sup>[5](/bible/romans/12#v5)</sup> So we, being many, are one body in Christ, and every one members one of another.
->
-> <sup>[6](/bible/romans/12#v6)</sup> Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith;
->
-> <sup>[7](/bible/romans/12#v7)</sup> Or ministry, let us wait on our ministering: or he that teacheth, on teaching;
->
-> <sup>[8](/bible/romans/12#v8)</sup> Or he that exhorteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness.
->
-> <sup>[9](/bible/romans/12#v9)</sup> Let love be without dissimulation. Abhor that which is evil; cleave to that which is good.
->
-> <sup>[10](/bible/romans/12#v10)</sup> Be kindly affectioned one to another with brotherly love; in honour preferring one another;
 
 - For as we have many members in one body, and all members have not the same office: Keep on showing those pictures. So all our members, what you look at in this room right now, in this room right now, all these brothers do not have the same office.
 
+> <sup>[5](/bible/romans/12#v5)</sup> So we, being many, are one body in Christ, and every one members one of another.
+
 - So we, being many, are one body in Christ: We being many, but we are one body in Christ.
+
+> <sup>[6](/bible/romans/12#v6)</sup> Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith;
 
 - Having then gifts differing according to the grace that is given to us: Has different gifts. All of us got different gifts. Different according to the grace that's given to us.
 
@@ -625,9 +617,13 @@ Reading from Definition of endeavor (read on screen)  *[[1:48:20](https://www.yo
 
 - Let us prophesy according to the proportion of faith: According to what Most High give you. According to you proportion.
 
+> <sup>[7](/bible/romans/12#v7)</sup> Or ministry, let us wait on our ministering: or he that teacheth, on teaching;
+
 - Or ministry: That's another gift.
 
 - Or he that teacheth: That's another gift.
+
+> <sup>[8](/bible/romans/12#v8)</sup> Or he that exhorteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness.
 
 - Or he that exhorteth: That's another gift. You know, some brothers know how to exalt other brothers. Somebody know how to exalt people. Not everybody got that gifts.
 
@@ -637,11 +633,15 @@ Reading from Definition of endeavor (read on screen)  *[[1:48:20](https://www.yo
 
 - He that sheweth mercy, with cheerfulness: That's another gift.
 
+> <sup>[9](/bible/romans/12#v9)</sup> Let love be without dissimulation. Abhor that which is evil; cleave to that which is good.
+
 - Let love be without dissimulation: What is the word dissimulation mean?
 
 - Abhor that which is evil: Hate evil.
 
 - Cleave to that which is good: Cleave to that which is good. Brothers, cleave to that which is good. Sisters.
+
+> <sup>[10](/bible/romans/12#v10)</sup> Be kindly affectioned one to another with brotherly love; in honour preferring one another;
 
 - Be kindly affectioned one to another: That's one thing we cannot do on each other. That's what it's called. It's called unity, brothers. Be kind to one another. Be kind. You want to be kind to other nations. No. Be kind to your own people. Be kind to one another. Stop being mean. Stop being mean. I said, stop being mean to each other.
 
@@ -653,10 +653,6 @@ Reading from Definition of endeavor (read on screen)  *[[1:48:20](https://www.yo
 **[Romans 15:4-6](/bible/romans/15#v4)**  *[[2:21:13](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=8473s)]*
 
 > <sup>[4](/bible/romans/15#v4)</sup> For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.
->
-> <sup>[5](/bible/romans/15#v5)</sup> Now the God of patience and consolation grant you to be likeminded one toward another according to Christ Jesus:
->
-> <sup>[6](/bible/romans/15#v6)</sup> That ye may with one mind and one mouth glorify God, even the Father of our Lord Jesus Christ.
 
 - For whatsoever things were written aforetime were written for our learning: Give me one last verse. One last verse. Whatsoever was written before time was written for what? Our learning.
 
@@ -664,11 +660,15 @@ Reading from Definition of endeavor (read on screen)  *[[1:48:20](https://www.yo
 
 - That we through patience and comfort of the scriptures might have hope: When you come here, whatever mean you have, leave it. Leave it outside. I'm telling you right now, leave it outside. Leave it outside. When you shalom, my brother, shalom, sisters, have some type of smile in your face. Well, I'm not saying laughing where there is no joke. That's not what I'm saying to you. I'm saying have some type of joy. That's what I'm looking for. Some type of joy that you're happy to be here. You're happy to see your brothers. You're happy to see that sister. Stop mean-spirited. It's not going to do any. Listen, say shalom. Have some type of joy spirit on you. Listen, it's a good thing. You the same someone who was going to the damn Christian church every Sunday, and you never get nothing out of it.
 
+> <sup>[5](/bible/romans/15#v5)</sup> Now the God of patience and consolation grant you to be likeminded one toward another according to Christ Jesus:
+
 - Now the God of patience and consolation: Read it slowly. I want it to sink in. The God of patience and consolation.
 
 - Grant you to be likeminded one toward another: To be like-minded. Likeminded what? You are one brother and sisters that's like-minded like you. The people in Egypt is not like-minded like you. He's not like-minded. No. Now you are one brother and sisters right here, likeminded. We believe the same thing. Same faith, one mind, one body, one spirit. One mission. One mission.
 
 - According to Christ Jesus: According to Christ Jesus.
+
+> <sup>[6](/bible/romans/15#v6)</sup> That ye may with one mind and one mouth glorify God, even the Father of our Lord Jesus Christ.
 
 - That ye may with one mind: With what? With what? One mind. One mind. One spirit. One body, one mission.
 

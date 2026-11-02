@@ -93,12 +93,12 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "love"]
 **[1 John 2:20-21](/bible/1-john/2#v20)**  *[[21:23](https://www.youtube.com/watch?v=82pXYTvNmkU&t=1283s)]*
 
 > <sup>[20](/bible/1-john/2#v20)</sup> But ye have an unction from the Holy One, and ye know all things.
->
-> <sup>[21](/bible/1-john/2#v21)</sup> I have not written unto you because ye know not the truth, but because ye know it, and that no lie is of the truth.
 
 - But ye have an unction from the Holy One: Right. An unction. Can somebody give me that definition? Unction. What does unction mean? All right. Because it said earlier in 1 Thessalonians 4 that we are taught of God. Cuz someone can use that precept and say, "I ain't got to listen to you negroes. God teaches me. He speaks to me directly."
 
 - And ye know all things: That doesn't mean you know every precept in the Bible. Uh-uh. But you do know what is right and you know what's wrong.
+
+> <sup>[21](/bible/1-john/2#v21)</sup> I have not written unto you because ye know not the truth, but because ye know it, and that no lie is of the truth.
 
 - And that no lie is of the truth: And no lie is of the truth. All right. Why did he have to say this? Because you had those Pharisees crept in unawares. Okay. And they did what? They denied Christ. So if you have an unction, an anointing, a calling by Christ, when you see somebody else teaching otherwise or when you see someone that does not want to gather, you know good and well that what? That ain't right. I as a captain, I just shouldn't have to tell y'all here in Tallahassee that that's not right. You in this truth, too, right? Brothers and sisters alike. Y'all know what's right and you know what's wrong. I shouldn't have to tell you that. That's all that Paul is saying right there.
 
@@ -162,10 +162,6 @@ Reading from Definition of unction (read on screen)  *[[22:06](https://www.youtu
 **[Titus 3:3-5](/bible/titus/3#v3)**  *[[28:55](https://www.youtube.com/watch?v=82pXYTvNmkU&t=1735s)]*
 
 > <sup>[3](/bible/titus/3#v3)</sup> For we ourselves also were sometimes foolish, disobedient, deceived, serving divers lusts and pleasures, living in malice and envy, hateful, and hating one another.
->
-> <sup>[4](/bible/titus/3#v4)</sup> But after that the kindness and love of God our Saviour toward man appeared,
->
-> <sup>[5](/bible/titus/3#v5)</sup> Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;
 
 - For we ourselves also were sometimes foolish: The reason why we want to go to Titus 3 and 3 is because guess what? A lot of us, like I mentioned just a moment ago, a lot of us were caught up in all manner of sin. You understand? All manner of debauchery, all manner of hatred, malice. Okay? But the Lord, guess what? He saw fit to call us, to put an unction on us, an anointing on us, to call us into this truth. We sometimes what? We were walking the walking dead, walking zombies at one time.
 
@@ -181,6 +177,10 @@ Reading from Definition of unction (read on screen)  *[[22:06](https://www.youtu
 
 - Living in malice and envy: Living in malice and envy. That's that hatred, man. We come from a hateful nation of people. All right. That's in our communities every day. Jealousy, envy, hatred, malice.
 
+> <sup>[4](/bible/titus/3#v4)</sup> But after that the kindness and love of God our Saviour toward man appeared,
+>
+> <sup>[5](/bible/titus/3#v5)</sup> Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;
+
 - According to his mercy he saved us: Right? He saved us. He called us into this truth.
 
   Precepts:
@@ -193,12 +193,12 @@ Reading from Definition of unction (read on screen)  *[[22:06](https://www.youtu
 **[Proverbs 18:1-2](/bible/proverbs/18#v1)**  *[[35:47](https://www.youtube.com/watch?v=82pXYTvNmkU&t=2147s)]*
 
 > <sup>[1](/bible/proverbs/18#v1)</sup> Through desire a man, having separated himself, seeketh and intermeddleth with all wisdom.
->
-> <sup>[2](/bible/proverbs/18#v2)</sup> A fool hath no delight in understanding, but that his heart may discover itself.
 
 - Through desire a man, having separated himself: Let's get that in, I think it's Proverbs 18. This one just came to mind. Having what? Separated himself.
 
 - Seeketh and intermeddleth with all wisdom: He want to find out all other wisdom. He want to trust in what he thinks is right. He want to go on ChatGPT and convince himself that that's better than the Bible. But what is he really doing? He's separating himself from God and his people. Why? Because the spirit of Christ has left THE BUILDING. OKAY? Christ has left the building.
+
+> <sup>[2](/bible/proverbs/18#v2)</sup> A fool hath no delight in understanding, but that his heart may discover itself.
 
 - A fool hath no delight in understanding: Hey, this is something we got to meditate on, when there's scriptures coming out all day every day and you find yourself, for example, we know that tabernacles, some people got duties and things of that. We get it. We understand that. We're not talking about that. I don't want to HEAR, OH CAP, I HAD TO DO. I AIN'T TALKING TO YOU. ALL right. I heard you, I heard you out there. Ain't talking to you. But who we are talking about is those who dodge the circle and find something else to do because they don't have a LOVE FOR THE SCRIPTURES, OKAY? They make themselves busy with something that ain't got nothing to, nobody needs you to do that right now. That's going to be all right. That can wait till two days from now, but you just, oh, I got to do this. I got to do this right now. No, it's really an internal battle. It's really an internal battle.
 
@@ -244,10 +244,6 @@ Reading from Definition of unction (read on screen)  *[[22:06](https://www.youtu
 **[Hebrews 3:12-14](/bible/hebrews/3#v12)**  *[[45:52](https://www.youtube.com/watch?v=82pXYTvNmkU&t=2752s)]*
 
 > <sup>[12](/bible/hebrews/3#v12)</sup> Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God.
->
-> <sup>[13](/bible/hebrews/3#v13)</sup> But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin.
->
-> <sup>[14](/bible/hebrews/3#v14)</sup> For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end;
 
 - Take heed, brethren: You'd be like, why, excuse me, why wouldn't people want to come together? Why would people want to be in this truth and just not be nice to people? I asked that question when I first came in, but I understand it now. Bible's a true book. All right? Cuz we all got to be approved, made manifest of who we really are. Okay? You may be talking today, but let two or three instances happen. You might not be talking tomorrow. If you allow Satan to overcome you. It says what? Take heed. It's time to listen up.
 
@@ -259,11 +255,15 @@ Reading from Definition of unction (read on screen)  *[[22:06](https://www.youtu
 
 - In departing from the living God: And that's what you're doing. You think that you're avoiding that person. You think that you're avoiding the circle. No, you're departing from God. That's what you're doing. Cuz Satan has now convinced you what? Satan has now convinced you that it's them and it's not you. Satan has now convinced you that you are all righteous and then what they're saying is wrong. This can't happen to me. They can't talk. Uh-uh. Now you departed from who? You departed from God.
 
+> <sup>[13](/bible/hebrews/3#v13)</sup> But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin.
+
 - But exhort one another daily: We got to do what? Exhort one another daily.
 
 - While it is called To day: Right? While we have time, family, while we still got time today. Christ could come. It's coming back soon. But our lives ain't promised to us, y'all. That's the thing we be forgetting sometime, right? Yeah, I see. Oh, man. We living in the greatest times, man. I know the Lord's about to return, but we be forgetting. Like you do realize we could drop at any time, right? This flesh and blood, it wasn't created to live forever. Like this was lent to us, right?
 
 - Lest any of you be hardened through the deceitfulness of sin: There it is. There it is right there. Guess what? Avoiding people creates resentment. And guess what? Guess what happens to your heart now? You become hardened. And now who's deceiving you? Satan. Now Satan's saying, "Now you're doing the right thing. You're doing the right thing by staying away." Because if you was there with him, bad things can happen. So you just need to keep staying away from them. And that's really going to fix your issue. And it sounds good. It sounds like, yeah, you're right. CUZ MAN, I would, it's like, damn. Well, that definitely shows what? You still abiding in death. Cuz a key indicator would be what? That's how we know that we came from death into life. If we do what? Love the brethren. Right? Okay. Don't worry. I'm cutting up myself too. I ain't just talking to you. I'm cutting myself too. All right. These are the things that we all have to go through and examine ourselves based off of these scriptures RIGHT HERE.
+
+> <sup>[14](/bible/hebrews/3#v14)</sup> For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end;
 
 - If we hold the beginning of our confidence stedfast unto the end: Right? Endure unto the end. Not endure for 5, 10 years. Pause and just say, "I'mma just keep coming. But I hate you …" No. No. No. Uh-uh. That's not what it is. No, you cannot do that and still get the kingdom. It's stipulations. We got to do what? We got to work through our problems.
 
@@ -434,12 +434,12 @@ Reading from Graphic on self-isolating (read on screen)  *[[1:10:46](https://www
 **[2 Corinthians 6:1-2](/bible/2-corinthians/6#v1)**  *[[1:12:30](https://www.youtube.com/watch?v=82pXYTvNmkU&t=4350s)]*
 
 > <sup>[1](/bible/2-corinthians/6#v1)</sup> We then, as workers together with him, beseech you also that ye receive not the grace of God in vain.
->
-> <sup>[2](/bible/2-corinthians/6#v2)</sup> (For he saith, I have heard thee in a time accepted, and in the day of salvation have I succoured thee: behold, now is the accepted time; behold, now is the day of salvation.)
 
 - We then, as workers together with him: As workers together with who? Christ. Right? As workers together with him. We build and we what? Battle. Remember, you got Christ who is the chief cornerstone, right? And then you have the apostles and then everybody else is built upon that foundation. We're all working together. But Satan can convince you, nah, they're working against you. Or Satan can convince you that your, oh nah, they're working against you. No, no, no, that's not the case. Just say Satan has entered the building. That's all that is. Remember it says we shouldn't be ignorant of his devices. We got to know that what? The spirit of Christ does what? Gathers. The spirit of Christ does what? Gathers. Gathers. So what you think Satan's going to do? Separate. Self-isolate. You understand?
 
 - That ye receive not the grace of God in vain: Right. In vain. Meaning the grace of God is Christ. So we've been called. We got this unction. We got that anointing. Right? The Lord called us. But now we don't want to work through the issues. We don't want to seek Christ when we going through hard times. We want to go to this outlet. We want to go to mama. We want to go to sister, brother. We want to go to everywhere else except the Bible to get our solution. So that means what? Now you've been called in vain.
+
+> <sup>[2](/bible/2-corinthians/6#v2)</sup> (For he saith, I have heard thee in a time accepted, and in the day of salvation have I succoured thee: behold, now is the accepted time; behold, now is the day of salvation.)
 
 - I have heard thee in a time accepted: The Lord said, I've heard thee in a time accepted.
 
@@ -478,18 +478,18 @@ Reading from Graphic on self-isolating (read on screen)  *[[1:10:46](https://www
 **[Psalms 139:13-16](/bible/psalms/139#v13)**  *[[1:19:16](https://www.youtube.com/watch?v=82pXYTvNmkU&t=4756s)]*
 
 > <sup>[13](/bible/psalms/139#v13)</sup> For thou hast possessed my reins: thou hast covered me in my mother’s womb.
->
-> <sup>[14](/bible/psalms/139#v14)</sup> I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.
->
-> <sup>[15](/bible/psalms/139#v15)</sup> My substance was not hid from thee, when I was made in secret, and curiously wrought in the lowest parts of the earth.
->
-> <sup>[16](/bible/psalms/139#v16)</sup> Thine eyes did see my substance, yet being unperfect; and in thy book all my members were written, which in continuance were fashioned, when as yet there was none of them.
 
 - Thou hast covered me in my mother's womb: This is, the Lord did this. Remember Jeremiah 10:5? How the Lord already knew us before we came to the earth. All right. This is the same thing right here. The Lord formed us in our mother's womb.
+
+> <sup>[14](/bible/psalms/139#v14)</sup> I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.
 
 - I will praise thee; for I am fearfully and wonderfully made: Right? Think about it. We in somebody's stomach for 9 months. That's a phenomenon. That's crazy. And then we come through the birth canal and now we a living being. That is wonderful, cuz we see it often. Yeah. We see it often. You get nonchalant. I know when I was in the birthing room, my first son. Yeah. When HE CAME OUT, my reaction was crazy. I think I was looking at my wife and then he had came out. I WAS LIKE, "OH." Like emotion. I was like, "Oh, snap." Like I know the baby's about to come out. I get that. I've seen it before. But this is like really happening right here. I was like, what? This is amazing. It is wonderful. An actual life, a living being, is just now, he wasn't here seconds ago. Now he's here and he just, STILL, LOOK AT HIM. LOOK AT HIM WALK AROUND JUST RIGHT THERE. It's amazing. Wonderfully made. Right.
 
 - I will praise thee; for I am fearfully and wonderfully made: It says fearfully cuz what? Child birth, the baby can die too. It's very intense. The woman can die. Life is very very precious. So you got to look at both sides of that.
+
+> <sup>[15](/bible/psalms/139#v15)</sup> My substance was not hid from thee, when I was made in secret, and curiously wrought in the lowest parts of the earth.
+>
+> <sup>[16](/bible/psalms/139#v16)</sup> Thine eyes did see my substance, yet being unperfect; and in thy book all my members were written, which in continuance were fashioned, when as yet there was none of them.
 
 - Yet being unperfect: Yet being what? Unperfect. Yet being unperfect. What's going to make us perfect? Christ. You understand? We were made unperfect. GOD KNOW THAT he created us. You remember? So why you think he created his son? You understand? So we can have a chance at perfection through him. But if you deny him, if you separate yourself from him, you remain unperfect.
 
@@ -514,23 +514,21 @@ Reading from Definition of learned helplessness (read on screen)  *[[1:27:02](ht
 **[2 Timothy 2:3-5](/bible/2-timothy/2#v3)**  *[[1:27:51](https://www.youtube.com/watch?v=82pXYTvNmkU&t=5271s)]*
 
 > <sup>[3](/bible/2-timothy/2#v3)</sup> Thou therefore endure hardness, as a good soldier of Jesus Christ.
->
+
+- Thou therefore endure hardness, as a good soldier of Jesus Christ: So understand, hey, this is a battle. That's why he refers to us as soldiers. It's a war. It's a battle.
+
 > <sup>[4](/bible/2-timothy/2#v4)</sup> No man that warreth entangleth himself with the affairs of this life; that he may please him who hath chosen him to be a soldier.
 >
 > <sup>[5](/bible/2-timothy/2#v5)</sup> And if a man also strive for masteries, yet is he not crowned, except he strive lawfully.
-
-- Thou therefore endure hardness, as a good soldier of Jesus Christ: So understand, hey, this is a battle. That's why he refers to us as soldiers. It's a war. It's a battle.
 
 
 **[1 Timothy 1:18-20](/bible/1-timothy/1#v18)**  *[[1:28:36](https://www.youtube.com/watch?v=82pXYTvNmkU&t=5316s)]*
 
 > <sup>[18](/bible/1-timothy/1#v18)</sup> This charge I commit unto thee, son Timothy, according to the prophecies which went before on thee, that thou by them mightest war a good warfare;
->
-> <sup>[19](/bible/1-timothy/1#v19)</sup> Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck:
->
-> <sup>[20](/bible/1-timothy/1#v20)</sup> Of whom is Hymeneus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme.
 
 - That thou by them mightest war a good warfare: Right. We got to war a good warfare. We're at battle. We're in a fight.
+
+> <sup>[19](/bible/1-timothy/1#v19)</sup> Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck:
 
 - Holding faith, and a good conscience: It says holding on to what? Faith, right? Holding on to the spirit of Christ. Faith, endurance. Remember, the spirit of Christ gathers. Hold on to that. Keep that close cuz believe it or not, that's what's going to get us through those hard times. Family, don't be so quick to bail. Don't be so quick to backpedal and revert to the old man or the old woman. Okay? This is what's going to, the feast days, the high holy days, the Sabbath. You understand? That camaraderie, that brotherhood, that unity, that's what's going to get us through the hard times.
 
@@ -552,6 +550,8 @@ Reading from Definition of learned helplessness (read on screen)  *[[1:27:02](ht
 
     That's what it's talking about right there. Because if you got a grudge with a brother, you can't have a good conscience with God. You understand? It's impossible. You say you love God but hate your brother who you see every day, but you haven't seen God. It don't work like that.
 
+> <sup>[20](/bible/1-timothy/1#v20)</sup> Of whom is Hymeneus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme.
+
 
 **[2 Timothy 4:10](/bible/2-timothy/4#v10)**  *[[1:32:33](https://www.youtube.com/watch?v=82pXYTvNmkU&t=5553s)]*
 
@@ -567,12 +567,12 @@ Reading from Definition of learned helplessness (read on screen)  *[[1:27:02](ht
 > <sup>[10](/bible/matthew/15#v10)</sup> And he called the multitude, and said unto them, Hear, and understand:
 >
 > <sup>[11](/bible/matthew/15#v11)</sup> Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man.
->
+
+- Not that which goeth into the mouth defileth a man: Right? Remember you had the Pharisees, they trying to put false burdens on the people. All right? Trying to bring their traditions and teach them as his law. All right? So this is the topic that's taking place right here in the chapter.
+
 > <sup>[12](/bible/matthew/15#v12)</sup> Then came his disciples, and said unto him, Knowest thou that the Pharisees were offended, after they heard this saying?
 >
 > <sup>[13](/bible/matthew/15#v13)</sup> But he answered and said, Every plant, which my heavenly Father hath not planted, shall be rooted up.
-
-- Not that which goeth into the mouth defileth a man: Right? Remember you had the Pharisees, they trying to put false burdens on the people. All right? Trying to bring their traditions and teach them as his law. All right? So this is the topic that's taking place right here in the chapter.
 
 - Every plant, which my heavenly Father hath not planted, shall be rooted up: Shall be rooted up. So brothers and sisters, we got to understand, we got to be rooted in this thing. If you're offended at Christ, if you're offended at the commandments or at the scriptures, that should be a problem within your spirit. If somebody's correcting you out of the Bible and now you feel some type of way, you should be like, you know what? I need to fast. I need to pray because something is wrong with me. Something is going on. Like this ain't right.
 
@@ -737,7 +737,9 @@ Reading from Graphic on learned helplessness, continued (on screen)  *[[1:44:44]
 > <sup>[14](/bible/john/6#v14)</sup> Then those men, when they had seen the miracle that Jesus did, said, This is of a truth that prophet that should come into the world.
 >
 > <sup>[15](/bible/john/6#v15)</sup> When Jesus therefore perceived that they would come and take him by force, to make him a king, he departed again into a mountain himself alone.
->
+
+- He departed again into a mountain himself alone: Right? So he didn't come to get the glory. Remember, all the praise and glory went to the father. So he said, "Oh, they're going to try to make me a king." He disappeared.
+
 > <sup>[16](/bible/john/6#v16)</sup> And when even was now come, his disciples went down unto the sea,
 >
 > <sup>[17](/bible/john/6#v17)</sup> And entered into a ship, and went over the sea toward Capernaum. And it was now dark, and Jesus was not come to them.
@@ -745,7 +747,9 @@ Reading from Graphic on learned helplessness, continued (on screen)  *[[1:44:44]
 > <sup>[18](/bible/john/6#v18)</sup> And the sea arose by reason of a great wind that blew.
 >
 > <sup>[19](/bible/john/6#v19)</sup> So when they had rowed about five and twenty or thirty furlongs, they see Jesus walking on the sea, and drawing nigh unto the ship: and they were afraid.
->
+
+- And they were afraid: Right? You don't see people walking on water every day. Okay? So Christ is out there walking on the water and they were afraid. They were like, "What is this? Never seen nothing like this before."
+
 > <sup>[20](/bible/john/6#v20)</sup> But he saith unto them, It is I; be not afraid.
 >
 > <sup>[21](/bible/john/6#v21)</sup> Then they willingly received him into the ship: and immediately the ship was at the land whither they went.
@@ -759,14 +763,10 @@ Reading from Graphic on learned helplessness, continued (on screen)  *[[1:44:44]
 > <sup>[25](/bible/john/6#v25)</sup> And when they had found him on the other side of the sea, they said unto him, Rabbi, when camest thou hither?
 >
 > <sup>[26](/bible/john/6#v26)</sup> Jesus answered them and said, Verily, verily, I say unto you, Ye seek me, not because ye saw the miracles, but because ye did eat of the loaves, and were filled.
->
-> <sup>[27](/bible/john/6#v27)</sup> Labour not for the meat which perisheth, but for that meat which endureth unto everlasting life, which the Son of man shall give unto you: for him hath God the Father sealed.
-
-- He departed again into a mountain himself alone: Right? So he didn't come to get the glory. Remember, all the praise and glory went to the father. So he said, "Oh, they're going to try to make me a king." He disappeared.
-
-- And they were afraid: Right? You don't see people walking on water every day. Okay? So Christ is out there walking on the water and they were afraid. They were like, "What is this? Never seen nothing like this before."
 
 - Ye seek me, not because ye saw the miracles, but because ye did eat of the loaves, and were filled: Right? So Christ cut through the BS. He knows that what? There's a lot of people that's with us because we serve food on the new moon. You understand? We have food at different functions. The family day, stuff like that. I'm going to go get me this free plate real quick, because when it comes time to really do the work, you never there. So Christ, he see the same thing. It's like, y'all not, bro, y'all not following because you believe, you just want something to eat. And these Israelites, right? Just like today. Okay. Everybody's not here for the right reasons. All right? And a lot of us do see that, but at the end of the day, we pray that our people can get themselves right. You understand? They meditate on the classes. They read the four chapters. They study, pray, and ply. They get the counsel that they need to heal and to help them cope with their various situations. Not continuing to run away. Not continuing to act like you're not dealing with what you're dealing with. You understand? We got people with us 5, 10 years ain't done nothing yet. You understand? And we pray they get their mind right, but we understand that everybody is not here for the same reason. And Christ identified it right there as well. I know this ain't your typical traitor class. I didn't want it to be, cuz I want to be a little different today.
+
+> <sup>[27](/bible/john/6#v27)</sup> Labour not for the meat which perisheth, but for that meat which endureth unto everlasting life, which the Son of man shall give unto you: for him hath God the Father sealed.
 
 - Labour not for the meat which perisheth: It says what? Labor not for the meat which perisheth. That's going into carnal things. All right. He said, "Hey, don't follow me because you going to get something to eat."
 
@@ -776,16 +776,16 @@ Reading from Graphic on learned helplessness, continued (on screen)  *[[1:44:44]
 **[John 2:23-25](/bible/john/2#v23)**  *[[1:57:35](https://www.youtube.com/watch?v=82pXYTvNmkU&t=7055s)]*
 
 > <sup>[23](/bible/john/2#v23)</sup> Now when he was in Jerusalem at the passover, in the feast day, many believed in his name, when they saw the miracles which he did.
->
-> <sup>[24](/bible/john/2#v24)</sup> But Jesus did not commit himself unto them, because he knew all men,
->
-> <sup>[25](/bible/john/2#v25)</sup> And needed not that any should testify of man: for he knew what was in man.
 
 - Many believed in his name, when they saw the miracles which he did: Stop. They saw the miracles. What did he do? He changed water into wine at the wedding, right? Wait, wait. Read that part again. He was at the Passover. Right? Now, after that, cuz he already did the miracles at the wedding, changing the water into wine.
+
+> <sup>[24](/bible/john/2#v24)</sup> But Jesus did not commit himself unto them, because he knew all men,
 
 - But Jesus did not commit himself unto them: But Christ didn't commit himself unto everybody. Wow. He was like, "Some of y'all ain't right up in here." You understand? Some of y'all ain't right. Who created us, y'all? Christ. Christ created us. You understand? So, when he came on the scene, he was like, "Yeah, I did this miracle, but some of y'all, I know y'all not around for the right reasons. So, I'm not going to commit myself to you cuz I know what's in you."
 
 - Because he knew all men: Right? Because he knew all men.
+
+> <sup>[25](/bible/john/2#v25)</sup> And needed not that any should testify of man: for he knew what was in man.
 
 - For he knew what was in man: Right. He knew what was in man. So just like he said, "Hey, I know half of y'all, y'all just around cuz y'all want something to eat. Y'all not fooling me." And sometimes that has to be said openly so people can understand. It's like, "Hey, damn. How you able to see that?" Cuz Christ is in here. You understand? Christ is in here. He established all of this. You understand? And so don't think it far-fetched when the prophets of the Lord can see right through the BS from some individuals, cuz it didn't say all, but it said there are some that forsake the assembly. You understand? And there are some that have made shipwreck of the faith. You understand?
 
@@ -818,12 +818,12 @@ Reading from Graphic on learned helplessness, continued (on screen)  *[[1:44:44]
 **[John 12:37-39](/bible/john/12#v37)**  *[[2:01:03](https://www.youtube.com/watch?v=82pXYTvNmkU&t=7263s)]*
 
 > <sup>[37](/bible/john/12#v37)</sup> But though he had done so many miracles before them, yet they believed not on him:
->
+
+- Yet they believed not on him: But yet they believe not on him.
+
 > <sup>[38](/bible/john/12#v38)</sup> That the saying of Esaias the prophet might be fulfilled, which he spake, Lord, who hath believed our report? and to whom hath the arm of the Lord been revealed?
 >
 > <sup>[39](/bible/john/12#v39)</sup> Therefore they could not believe, because that Esaias said again,
-
-- Yet they believed not on him: But yet they believe not on him.
 
 - Therefore they could not believe, because that Esaias said again: Right? They couldn't believe it cuz it was prophesied. All right. It was prophesied.
 
@@ -837,10 +837,10 @@ Reading from Graphic on learned helplessness, continued (on screen)  *[[1:44:44]
 **[John 13:10-11](/bible/john/13#v10)**  *[[2:02:32](https://www.youtube.com/watch?v=82pXYTvNmkU&t=7352s)]*
 
 > <sup>[10](/bible/john/13#v10)</sup> Jesus saith to him, He that is washed needeth not save to wash his feet, but is clean every whit: and ye are clean, but not all.
->
-> <sup>[11](/bible/john/13#v11)</sup> For he knew who should betray him; therefore said he, Ye are not all clean.
 
 - Ye are clean, but not all: Remember, Christ ain't roll by himself. He had the disciples with him. Okay? And even amongst that crew, he could see who was who. Okay?
+
+> <sup>[11](/bible/john/13#v11)</sup> For he knew who should betray him; therefore said he, Ye are not all clean.
 
 - For he knew who should betray him: You see that? REMEMBER CHRIST, HE ALREADY KNEW what was in all men anyway. So he knew even in the midst of his closest circle, he already knew the man that was going to betray him.
 
@@ -904,10 +904,10 @@ Reading from Graphic on learned helplessness, continued (on screen)  *[[1:44:44]
 > <sup>[39](/bible/john/6#v39)</sup> And this is the Father’s will which hath sent me, that of all which he hath given me I should lose nothing, but should raise it up again at the last day.
 >
 > <sup>[40](/bible/john/6#v40)</sup> And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day.
->
-> <sup>[41](/bible/john/6#v41)</sup> The Jews then murmured at him, because he said, I am the bread which came down from heaven.
 
 - And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: May have everlasting life.
+
+> <sup>[41](/bible/john/6#v41)</sup> The Jews then murmured at him, because he said, I am the bread which came down from heaven.
 
 - The Jews then murmured at him: You see that? They murmured at him. Why would you, if you believe, why would you murmur? Oh, like tabernacles, right? All praise to the Most High for his feast, right? And at tabernacles, guess what? We out there in the wilderness, right? We're out there with the elements, right? Y'all all right? We out there with the elements and anything can happen. And y'all don't think that was the same situation with our forefathers, 40 years in the wilderness? Y'all don't think they was out there with the elements, the insects and the rain and the weather, right? And some of our forefathers and foremothers murmured, right? And what happened? They got put to death.
 
@@ -1044,12 +1044,12 @@ Reading from Graphic on learned helplessness, continued (on screen)  *[[1:44:44]
 **[1 John 2:18-19](/bible/1-john/2#v18)**  *[[2:25:16](https://www.youtube.com/watch?v=82pXYTvNmkU&t=8716s)]*
 
 > <sup>[18](/bible/1-john/2#v18)</sup> Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time.
->
-> <sup>[19](/bible/1-john/2#v19)</sup> They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us: but they went out, that they might be made manifest that they were not all of us.
 
 - Even now are there many antichrists: Right. Even right now in our congregation I see there's many antichrist right now. They don't have the spirit of Christ right now.
 
 - Whereby we know that it is the last time: Right. We know that we living in the last days. It's the last time, y'all. The last captivity.
+
+> <sup>[19](/bible/1-john/2#v19)</sup> They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us: but they went out, that they might be made manifest that they were not all of us.
 
 - They went out from us: They went out from us. They may have wore the purple and gold. All right. They may have left. And there's going to be more people that's going to leave.
 

@@ -34,10 +34,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "media", "wisdom"]
 **[Acts 8:30-31](/bible/acts/8#v30)**  *[[4:36](https://www.youtube.com/watch?v=v7XuSjiu9TI&t=276s)]*
 
 > <sup>[30](/bible/acts/8#v30)</sup> And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou readest?
->
-> <sup>[31](/bible/acts/8#v31)</sup> And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him.
 
 - Understandest thou what thou readest: I always like to read this. So, he's asking the Ethiopian eunuch. He said, "You understand what you reading?"
+
+> <sup>[31](/bible/acts/8#v31)</sup> And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him.
 
 - How can I, except some man should guide me: Right. So, he said, "How can I?" So, this is humility right here. The Ethiopian eunuch understood that, "Yeah, I'm reading the Bible, but I don't really understand what I'm reading right now." That's why Philip asked him, "You understand what you reading?" And he says, "How can I unless some man should guide me?" So, you do need a guide. You know, you hear people say, "Oh, I learned I was an Israelite. God showed it to me. I was reading Deuteronomy 28 and he just opened it up to me." No, you got a teacher. Somebody, you heard somebody. You may have read the scripture, but somebody confirmed to you what it meant. Okay? Because you have to have someone to guide you. And the person that guides you has to be learned. Okay? It has to be an example of the scriptures and that's how you able to understand it.
 
@@ -68,18 +68,18 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "media", "wisdom"]
 **[Acts 18:3-6](/bible/acts/18#v3)**  *[[8:03](https://www.youtube.com/watch?v=v7XuSjiu9TI&t=483s)]*
 
 > <sup>[3](/bible/acts/18#v3)</sup> And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.
->
-> <sup>[4](/bible/acts/18#v4)</sup> And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks.
->
-> <sup>[5](/bible/acts/18#v5)</sup> And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews that Jesus was Christ.
->
-> <sup>[6](/bible/acts/18#v6)</sup> And when they opposed themselves, and blasphemed, he shook his raiment, and said unto them, Your blood be upon your own heads; I am clean: from henceforth I will go unto the Gentiles.
 
 - By their occupation they were tentmakers: Right. So, Aquila and Priscilla were tentmakers just like Paul. So, he dwelt with them when he came to Corinth after they were exiled out of Rome.
 
+> <sup>[4](/bible/acts/18#v4)</sup> And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks.
+
 - He reasoned in the synagogue every Sabbath, and persuaded the Jews and the Greeks: Wait a minute. In Corinth, there was a synagogue to which Jews and Greeks were there. This is what you got to think about. In Corinth, there was a synagogue where Jews and Greeks were. A synagogue where Jews and Greeks were.
 
+> <sup>[5](/bible/acts/18#v5)</sup> And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews that Jesus was Christ.
+
 - Testified to the Jews that Jesus was Christ: And it say he testified to the Jews that Jesus was Christ. Now, why would he need to testify to the Jews that Jesus was Christ? Cuz many, many Jews grew up under the law of Moses. They did not understand Christ. They only understood Moses. So, now he's testifying to them, "This is the Christ. This is the Messiah that you've been reading about in your old covenant."
+
+> <sup>[6](/bible/acts/18#v6)</sup> And when they opposed themselves, and blasphemed, he shook his raiment, and said unto them, Your blood be upon your own heads; I am clean: from henceforth I will go unto the Gentiles.
 
 - From henceforth I will go unto the Gentiles: Right, from henceforth, I will go unto the Gentiles. Watch this, go to the book of Acts, I mean John 7:35 real quick. Christ had to do the same thing. Because a lot of the Jews did not want to accept Christ as being the Messiah. A lot of the Jews, and this is going to get into actually what we about to read in 1 Corinthians 1 and 18. All right, but so many of the Jews did not want to accept Christ as being the Messiah. Okay, watch this.
 
@@ -94,14 +94,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "media", "wisdom"]
 **[Hosea 1:9-11](/bible/hosea/1#v9)**  *[[10:59](https://www.youtube.com/watch?v=v7XuSjiu9TI&t=659s)]*
 
 > <sup>[9](/bible/hosea/1#v9)</sup> Then said God, Call his name Lo–ammi: for ye are not my people, and I will not be your God.
->
-> <sup>[10](/bible/hosea/1#v10)</sup> Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God.
->
-> <sup>[11](/bible/hosea/1#v11)</sup> Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel.
 
 - Ye are not my people, and I will not be your God: Right, it say, "You are not my people, and I will not be your God." He's talking to the northern kingdom of Israel.
 
+> <sup>[10](/bible/hosea/1#v10)</sup> Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God.
+
 - There it shall be said unto them, Ye are the sons of the living God: Right, so where it was said unto them, "At one time you are not my people," there, meaning in the future they're going to be taught, "You are the sons of the living God." Yes, there was a time period where God wasn't dealing with you, but now you are the sons of the living God. Watch this, he's going to tell you, verse 11.
+
+> <sup>[11](/bible/hosea/1#v11)</sup> Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel.
 
 - Appoint themselves one head: Great shall be the day of Jezreel. So, it said they're going to appoint themselves one head, meaning all 12 was going to accept Christ. That's that one head.
 
@@ -165,18 +165,18 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "media", "wisdom"]
 **[Acts 15:14-17](/bible/acts/15#v14)**  *[[18:02](https://www.youtube.com/watch?v=v7XuSjiu9TI&t=1082s)]*
 
 > <sup>[14](/bible/acts/15#v14)</sup> Simeon hath declared how God at the first did visit the Gentiles, to take out of them a people for his name.
->
+
+- How God at the first did visit the Gentiles, to take out of them a people for his name: So wait a minute. Simeon have declared how God at the first did visit the Gentiles to take out of them a people for his name. And to this agree the words of the prophets. So, what Simeon is saying about how God at the first did visit the Gentiles to take out of them a people for his name, the prophets' prophecy would agree with that same thing.
+
 > <sup>[15](/bible/acts/15#v15)</sup> And to this agree the words of the prophets; as it is written,
 >
 > <sup>[16](/bible/acts/15#v16)</sup> After this I will return, and will build again the tabernacle of David, which is fallen down; and I will build again the ruins thereof, and I will set it up:
->
-> <sup>[17](/bible/acts/15#v17)</sup> That the residue of men might seek after the Lord, and all the Gentiles, upon whom my name is called, saith the Lord, who doeth all these things.
-
-- How God at the first did visit the Gentiles, to take out of them a people for his name: So wait a minute. Simeon have declared how God at the first did visit the Gentiles to take out of them a people for his name. And to this agree the words of the prophets. So, what Simeon is saying about how God at the first did visit the Gentiles to take out of them a people for his name, the prophets' prophecy would agree with that same thing.
 
 - I will return, and will build again the tabernacle of David, which is fallen down: Wait a minute. But in verse 14, it says that God did visit the Gentile to take out of them a people for his name, but then the prophet said, "Yeah, but that goes with the prophecy that was written in the book of Amos," that all 12 tribes, the tabernacle of David which is fallen, would have to be lifted up and then they will possess Edom. But ain't Edom a part of the Gentiles? Ain't Edom a part of the Gentiles? So, how is Edom going to possess Edom? That don't make sense. That don't make sense.
 
 - So, the Gentiles that we read about in verse 14 and throughout this whole chapter are Israelites that were cut off, that fell away. The tabernacle which is fallen mean they fell away from the tribe of Judah. They fell away from Jerusalem and they began to serve idols in Samaria and in other places, eventually went into captivity, were broken off. God told the southern kingdom not to deal with them. Okay? I hope that makes sense for y'all.
+
+> <sup>[17](/bible/acts/15#v17)</sup> That the residue of men might seek after the Lord, and all the Gentiles, upon whom my name is called, saith the Lord, who doeth all these things.
 
 - That the residue of men might seek after the Lord, and all the Gentiles, upon whom my name is called: Right, all those nations going into captivity. That's what they're saying. All those nations going into captivity. Especially those that take God's name for themselves, saying that they Christian and they Jews.
 
@@ -222,10 +222,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "media", "wisdom"]
 **[2 Corinthians 2:15-16](/bible/2-corinthians/2#v15)**  *[[25:55](https://www.youtube.com/watch?v=v7XuSjiu9TI&t=1555s)]*
 
 > <sup>[15](/bible/2-corinthians/2#v15)</sup> For we are unto God a sweet savour of Christ, in them that are saved, and in them that perish:
->
-> <sup>[16](/bible/2-corinthians/2#v16)</sup> To the one we are the savour of death unto death; and to the other the savour of life unto life. And who is sufficient for these things?
 
 - We are unto God a sweet savour of Christ, in them that are saved, and in them that perish: Right. So, it's talking about us, those that follow after Christ and are living our lives and putting our life on the line for him. It says, "For we are unto God a sweet savor of Christ in them that are saved and in them that perish." Watch this.
+
+> <sup>[16](/bible/2-corinthians/2#v16)</sup> To the one we are the savour of death unto death; and to the other the savour of life unto life. And who is sufficient for these things?
 
 - To the one we are the savour of death unto death: Right. So, the one we are the savior of death unto death. Meaning when they see us, they see death. Why? Because they don't want to change their lives. When they see us, they see an example of followers of Christ and they say, "I don't want to do that. So, I got to find a way to discredit that. I got to find a way to speak against that and to blaspheme that." And that's what you saw going on in the book of Acts, where they was filled with envy and wrath and they would oftentimes blaspheme the things that the apostles were speaking about. They would try to go against the things that Paul and the rest of the apostles doing.
 
@@ -235,18 +235,18 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "media", "wisdom"]
 **[John 3:18-21](/bible/john/3#v18)**  *[[27:26](https://www.youtube.com/watch?v=v7XuSjiu9TI&t=1646s)]*
 
 > <sup>[18](/bible/john/3#v18)</sup> He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God.
->
+
+- He that believeth not is condemned already: Right. Who is he talking about? The Israelites. The Israelites, and in particular the Jews that did not believe on Christ. He said, "They condemned already." That's them that perish.
+
 > <sup>[19](/bible/john/3#v19)</sup> And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.
 >
 > <sup>[20](/bible/john/3#v20)</sup> For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved.
->
-> <sup>[21](/bible/john/3#v21)</sup> But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God.
-
-- He that believeth not is condemned already: Right. Who is he talking about? The Israelites. The Israelites, and in particular the Jews that did not believe on Christ. He said, "They condemned already." That's them that perish.
 
 - Neither cometh to the light, lest his deeds should be reproved: See that? He don't want to come to the light because he going to have to change. And that's in today's time, too. The Christians that come against us, the other Israelite brothers that's constantly got IUIC name in their mouth. "We doing this wrong. We ain't saying the name." No, they don't want to change. That's what it all boil down to. They don't want to change. They want to continue in their sin. They want to be around people that condone their sin. That's what it all boil down to.
 
 - So, don't let them fool you when they say, "Oh, yeah, IUYVC this and IUYVC that. Bishop used to be a police officer." And all that blah blah blah blah. That's all foolishness. They don't want to come to the light because their deeds going to be reproved. If they come amongst us, we going to call out their sin. And they don't want that. Okay? They don't want that. They want to stay in that darkness cuz can't nobody see them in that darkness. But the Lord see them.
+
+> <sup>[21](/bible/john/3#v21)</sup> But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God.
 
 - That they are wrought in God: That they are wrought in God. Go to Acts 13. I was reading this earlier today as I was in meditation. Now, I want to show you something.
 
@@ -265,22 +265,22 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "media", "wisdom"]
 > <sup>[6](/bible/acts/13#v6)</sup> And when they had gone through the isle unto Paphos, they found a certain sorcerer, a false prophet, a Jew, whose name was Bar–jesus:
 >
 > <sup>[7](/bible/acts/13#v7)</sup> Which was with the deputy of the country, Sergius Paulus, a prudent man; who called for Barnabas and Saul, and desired to hear the word of God.
->
-> <sup>[8](/bible/acts/13#v8)</sup> But Elymas the sorcerer (for so is his name by interpretation) withstood them, seeking to turn away the deputy from the faith.
->
-> <sup>[9](/bible/acts/13#v9)</sup> Then Saul, (who also is called Paul,) filled with the Holy Ghost, set his eyes on him,
->
-> <sup>[10](/bible/acts/13#v10)</sup> And said, O full of all subtilty and all mischief, thou child of the devil, thou enemy of all righteousness, wilt thou not cease to pervert the right ways of the Lord?
->
-> <sup>[11](/bible/acts/13#v11)</sup> And now, behold, the hand of the Lord is upon thee, and thou shalt be blind, not seeing the sun for a season. And immediately there fell on him a mist and a darkness; and he went about seeking some to lead him by the hand.
->
-> <sup>[12](/bible/acts/13#v12)</sup> Then the deputy, when he saw what was done, believed, being astonished at the doctrine of the Lord.
 
 - Sergius Paulus, a prudent man; who called for Barnabas and Saul, and desired to hear the word of God: Right, so obviously Sergius Paulus was an Israelite. Obviously. Because why else would he want to hear these scriptures? You understand? Why else would he want to hear about Christ? Okay? So now, Bar-jesus, he was a false prophet and a Jew. He was friends with the deputy of the country. The deputy of the country called Barnabas and Saul and wanted to hear the words.
 
+> <sup>[8](/bible/acts/13#v8)</sup> But Elymas the sorcerer (for so is his name by interpretation) withstood them, seeking to turn away the deputy from the faith.
+
 - Seeking to turn away the deputy from the faith: You hear what he did? He was seeking to turn away the deputy from the faith. That's why it says, to them that perish, the preaching of the cross of Christ is foolishness. This dude right here, Elymas the sorcerer, for so is his name by interpretation, withstood them, seeking to turn away the deputy from the faith.
 
+> <sup>[9](/bible/acts/13#v9)</sup> Then Saul, (who also is called Paul,) filled with the Holy Ghost, set his eyes on him,
+>
+> <sup>[10](/bible/acts/13#v10)</sup> And said, O full of all subtilty and all mischief, thou child of the devil, thou enemy of all righteousness, wilt thou not cease to pervert the right ways of the Lord?
+
 - Thou child of the devil, thou enemy of all righteousness: You hear this? He called this brother the child of the devil. This is an Israelite. He said, "You the child of the devil, man. You are the enemy of all righteousness. Wilt thou not cease to pervert the right ways of the Lord?"
+
+> <sup>[11](/bible/acts/13#v11)</sup> And now, behold, the hand of the Lord is upon thee, and thou shalt be blind, not seeing the sun for a season. And immediately there fell on him a mist and a darkness; and he went about seeking some to lead him by the hand.
+>
+> <sup>[12](/bible/acts/13#v12)</sup> Then the deputy, when he saw what was done, believed, being astonished at the doctrine of the Lord.
 
 - Then the deputy, when he saw what was done, believed: Right. So the deputy believed. Sergius Paulus started to believe based on what he saw. He saw the Apostle Paul, because this guy didn't believe and he was blaspheming and contradicting. He said, "Yo, you'll be blind for that, for speaking against righteousness, you child of the devil." And that was an Israelite he was talking to. He said, "You got to go." You understand? That's why Christ said in the book of John chapter 8, "Ye are of your father the devil and the lust of your father you will do. He was a liar from the beginning." That's the same spirit. So when you go back to 1 Corinthians 1:18 again, this is what Paul is also dealing with in this context. You ready, Cap?
 
@@ -295,10 +295,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "media", "wisdom"]
 **[Revelation 2:26-27](/bible/revelation/2#v26)**  *[[34:07](https://www.youtube.com/watch?v=v7XuSjiu9TI&t=2047s)]*
 
 > <sup>[26](/bible/revelation/2#v26)</sup> And he that overcometh, and keepeth my works unto the end, to him will I give power over the nations:
->
-> <sup>[27](/bible/revelation/2#v27)</sup> And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers: even as I received of my Father.
 
 - To him will I give power over the nations: Even as I received of my father. So, it says, "And he that overcometh and keepeth my works unto the end, to him will I give power over the nations." That's what the Apostle Paul is speaking about in 1 Corinthians chapter 1. It's unto us that are saved, it is the power of God. The cross of Christ is the power of God, meaning through our belief in Christ, we shall never perish. We will be eternal, and we will get power over the nations.
+
+> <sup>[27](/bible/revelation/2#v27)</sup> And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers: even as I received of my Father.
 
 
 **[2 Timothy 1:7](/bible/2-timothy/1#v7)**  *[[35:01](https://www.youtube.com/watch?v=v7XuSjiu9TI&t=2101s)]*
@@ -311,10 +311,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "media", "wisdom"]
 **[1 Corinthians 2:4-5](/bible/1-corinthians/2#v4)**  *[[35:48](https://www.youtube.com/watch?v=v7XuSjiu9TI&t=2148s)]*
 
 > <sup>[4](/bible/1-corinthians/2#v4)</sup> And my speech and my preaching was not with enticing words of man’s wisdom, but in demonstration of the Spirit and of power:
->
-> <sup>[5](/bible/1-corinthians/2#v5)</sup> That your faith should not stand in the wisdom of men, but in the power of God.
 
 - In demonstration of the Spirit and of power: Demonstration of the spirit and of power. We ain't just running our mouths. We going to show you power when we pull up to your neighborhood. We going to show you power when we pull up to your country. We going to show you power when we pull up to your synagogue or to your church to teach the word of God. You going to see power in these men. You're not going to see weak, soft, effeminate men. Even the Christian... I did a video on my Instagram. One of the big time Christian social media influencers. He's like, "Man, look at all these masculine men. I don't want to join it, but look at all these masculine men though. This is what the church need. We need these men in the church." No, we ain't going back to the church. Cuz the power ain't there. The power is here. Keep reading.
+
+> <sup>[5](/bible/1-corinthians/2#v5)</sup> That your faith should not stand in the wisdom of men, but in the power of God.
 
 - That your faith should not stand in the wisdom of men, but in the power of God: You see that? That your faith should not stand in the wisdom of men, but in the power of God. Go back to 1 Corinthians 1:24.
 
@@ -340,14 +340,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "media", "wisdom"]
 > <sup>[14](/bible/john/7#v14)</sup> Now about the midst of the feast Jesus went up into the temple, and taught.
 >
 > <sup>[15](/bible/john/7#v15)</sup> And the Jews marvelled, saying, How knoweth this man letters, having never learned?
->
-> <sup>[16](/bible/john/7#v16)</sup> Jesus answered them, and said, My doctrine is not mine, but his that sent me.
->
-> <sup>[17](/bible/john/7#v17)</sup> If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself.
 
 - How knoweth this man letters, having never learned: How does man know letters if he never learned? He wasn't in our schools. He wasn't in our, you know, prestigious sons of the prophets and all these different places where we would learn the Bible, we would learn Moses, we would learn this and that. Jesus wasn't there. So, how is it that he understand these words? How understand he the understanding of Isaiah and Jeremiah and the laws and things of that nature? He went in the church, or he went in the school to learn that? So, how he know that? That's what they're asking. Go ahead. Verse 17. Excuse me, verse 16.
 
+> <sup>[16](/bible/john/7#v16)</sup> Jesus answered them, and said, My doctrine is not mine, but his that sent me.
+
 - My doctrine is not mine, but his that sent me: Right, the doctrine that I'm coming with, it ain't mine. It's him that sent me. That's the doctrine of the Lord.
+
+> <sup>[17](/bible/john/7#v17)</sup> If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself.
 
 - If any man will do his will, he shall know of the doctrine: Right. It said, "If any man will do his will, he shall know of the doctrine." If you kept the commandments, you would know the doctrine. What is the doctrine? Give me that. You know what I want. If you kept the commandments, you would know the doctrine. That's what Christ said. But you don't keep the commandments, so you don't know if I'm coming on my own words or if I'm coming from the Lord. That's the thing. When people see us, they say they coming with their own stuff. They saying that Christ only came for the nation of Israel, but that's in the Bible. If you knew the laws, if you knew the understanding of the Old Testament, you knew the history, you would understand what the Apostle Paul was saying. You understand what we saying.
 
@@ -365,14 +365,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "media", "wisdom"]
 > <sup>[2](/bible/matthew/23#v2)</sup> Saying, The scribes and the Pharisees sit in Moses’ seat:
 >
 > <sup>[3](/bible/matthew/23#v3)</sup> All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not.
->
+
+- For they say, and do not: They say and do not. They'll tell you, "Hey, the law say you do this," but they themselves wouldn't do it. They wouldn't do it. So, Paul is saying the Lord had to come and destroy the wisdom of the world, the wisdom of these scribes and Pharisees that thought they knew something. Christ had to come and show them, "You don't truly know the law. You don't truly know the commandments. You understand? You haven't truly learned Christ." Keep reading the next verse real quick.
+
 > <sup>[4](/bible/matthew/23#v4)</sup> For they bind heavy burdens and grievous to be borne, and lay them on men’s shoulders; but they themselves will not move them with one of their fingers.
 >
 > <sup>[5](/bible/matthew/23#v5)</sup> But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments,
 >
 > <sup>[6](/bible/matthew/23#v6)</sup> And love the uppermost rooms at feasts, and the chief seats in the synagogues,
-
-- For they say, and do not: They say and do not. They'll tell you, "Hey, the law say you do this," but they themselves wouldn't do it. They wouldn't do it. So, Paul is saying the Lord had to come and destroy the wisdom of the world, the wisdom of these scribes and Pharisees that thought they knew something. Christ had to come and show them, "You don't truly know the law. You don't truly know the commandments. You understand? You haven't truly learned Christ." Keep reading the next verse real quick.
 
 - And love the uppermost rooms at feasts, and the chief seats in the synagogues: Always beware of that, for young leaders coming up. Beware of just wanting to be seen. You know, you want to eat first, you want the uppermost room. Listen, that ain't the spirit. You understand? The spirit is to be a servant for the people. We have to serve the people of God as leaders. Don't ever get that spirit on you to start thinking that it's all about me. I need to be seen. I need to be in the forefront. I need to speak. No, you use your tools.
 
@@ -389,12 +389,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "media", "wisdom"]
 **[John 5:46-47](/bible/john/5#v46)**  *[[43:35](https://www.youtube.com/watch?v=v7XuSjiu9TI&t=2615s)]*
 
 > <sup>[46](/bible/john/5#v46)</sup> For had ye believed Moses, ye would have believed me: for he wrote of me.
->
-> <sup>[47](/bible/john/5#v47)</sup> But if ye believe not his writings, how shall ye believe my words?
 
 - For had ye believed Moses, ye would have believed me: for he wrote of me: Oh, this is some heavy stuff. So Christ is saying, you've been reading the Old Testament the whole time, but you've been missing me in it the whole time. You think you have eternal life when you search the scriptures, but they are they which testify of me. For had you believed Moses, you would have believed me, for he wrote of me. But if you believe not his words, or not his writings, how shall you believe my words? Christ is saying, I was there the whole time and y'all couldn't see me. That's why he had to come and show them a better way, that they didn't have understanding that they thought they had.
 
 - That's why oftentimes they would shut up when they would be around him. Because he would confound them. They was like, "Man, you know what? Let me just be quiet. Cuz I know if I say this, then he going to say that. Man, you know what? Let me just shut the hell up. Let's just find a way to kill him." That's what they did. Let's just find a way to kill him.
+
+> <sup>[47](/bible/john/5#v47)</sup> But if ye believe not his writings, how shall ye believe my words?
 
 
 **[Acts 13:27](/bible/acts/13#v27)**  *[[45:07](https://www.youtube.com/watch?v=v7XuSjiu9TI&t=2707s)]*
@@ -416,10 +416,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "media", "wisdom"]
 **[Isaiah 29:13-14](/bible/isaiah/29#v13)**  *[[46:39](https://www.youtube.com/watch?v=v7XuSjiu9TI&t=2799s)]*
 
 > <sup>[13](/bible/isaiah/29#v13)</sup> Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:
->
-> <sup>[14](/bible/isaiah/29#v14)</sup> Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid.
 
 - Their fear toward me is taught by the precept of men: Right. The fear towards God was taught by the precept of men. That's why they were adding traditions. Then those traditions many times would cancel out the instructions they were given in the law of Moses.
+
+> <sup>[14](/bible/isaiah/29#v14)</sup> Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid.
 
 - The wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid: Christ was confounding their wise men. The apostles were confounding their wise men. They were becoming confounded. They were showing them in the law Jesus was the Christ. And they rejected it. Many of them, not all of them, but many of them rejected it. Therefore, behold, I will proceed to do a marvelous work among this people, even a marvelous work and a wonder. For the wisdom of their wise men shall perish and the understanding of their prudent men shall be hid. The Lord destroyed the wisdom of this world. When Christ came on the scene, he destroyed the wisdom of this world. You understand?
 
@@ -429,10 +429,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "media", "wisdom"]
 > <sup>[19](/bible/1-corinthians/1#v19)</sup> For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent.
 >
 > <sup>[20](/bible/1-corinthians/1#v20)</sup> Where is the wise? where is the scribe? where is the disputer of this world? hath not God made foolish the wisdom of this world?
->
-> <sup>[21](/bible/1-corinthians/1#v21)</sup> For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe.
 
 - Where is the disputer of this world: Where is the wise? Where is the scribe? Where is the disputer of this world? Who can dispute for this world? Who can stand up for this world and the evil that's in it? You couldn't. Nobody could. Christ had to come and condemn it. You understand? I'm sorry. Let me not use the word condemn, cuz somebody go to the scripture: the son of man didn't come to condemn the world. I know what they'll say. Christ came to destroy the wisdom that they thought they had concerning him and concerning the scriptures. Okay?
+
+> <sup>[21](/bible/1-corinthians/1#v21)</sup> For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe.
 
 - It pleased God by the foolishness of preaching to save them that believe: Right. It's the same thing today. Many people think because of their education that somehow that's going to save our people, and that ain't the case. Give me the book of Sirach real quick, 19:22. People think that the wisdom of this world, them having a PhD, doctorate, masters, whatever. You know, the technologically advanced, you understand the IT and all this stuff like that. They understand how to use AI. Yeah, that's going to really stop the hatred that the so-called white man got for us. That's really going to stop the medical apartheid we've gone through. That's really going to stop the miseducation of us as a race of people. The lies we've been taught, that we're not the people of God. The lies that we've been taught regarding Jesus Christ, when he will return, if those people over there on the land of Israel are actually the people of God. Yeah, getting a doctorate is really going to change that. Come on, man. Read that.
 
@@ -465,7 +465,13 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "media", "wisdom"]
 **[Proverbs 1:20-26](/bible/proverbs/1#v20)**  *[[53:40](https://www.youtube.com/watch?v=v7XuSjiu9TI&t=3220s)]*
 
 > <sup>[20](/bible/proverbs/1#v20)</sup> Wisdom crieth without; she uttereth her voice in the streets:
->
+
+- Wisdom crieth without; she uttereth her voice in the streets: Right. So, the Lord telling them... Listen, this is some heavy stuff right here. The Bible is saying that wisdom is going to be found in the streets. Wisdom ain't just found on YouTube or on social media. I know that's how a lot of our people watch us or learn. But there's going to come a time where you going to have to go and see the prophets face-to-face. Where they going to start removing the stuff off social media. They banning, man, I can't get back on Facebook right now. You understand? A lot of us getting our pages taken down. Bishop Nathanyel's first page, Nathaniel's 7, was taken down back in the day. Had all kind of wisdom on there. The internet said, "Oh hell no." YouTube said, "Oh hell no." For real though.
+
+- So, the scriptures is very clear. They're very plain. They're very real. You have to go into the understanding of the Bible. And you only get that from going out and seeing the brothers, you understand, teaching on the streets. That's where it come from. It start on the streets. YouTube is good, social media is good, but you going to get to a local congregation eventually. The street ministry is to bring the people in so that God's house will be filled. We go out there and teach on the streets and then the Lord send people. They say, "Okay, well, where y'all at then? Let me come and visit y'all." And then we say, "Okay, well, here go the address." They go to school. You're learning? Okay, now come in.
+
+- But, learning online, there going to come a day where you not going to be able to find us online. You going to have to go and recycle old videos that you recorded. I'm just telling you. Cuz it's going to get real. They going to start persecuting the prophets on the streets. But, the Lord said he is going to save them by the foolishness of preaching. What everybody else say: "Y'all foolish for going out there and teaching on the street. Why y'all out here? What y'all doing out here?" You understand? That's how the Lord going to save his people.
+
 > <sup>[21](/bible/proverbs/1#v21)</sup> She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, saying,
 >
 > <sup>[22](/bible/proverbs/1#v22)</sup> How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?
@@ -478,12 +484,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "media", "wisdom"]
 >
 > <sup>[26](/bible/proverbs/1#v26)</sup> I also will laugh at your calamity; I will mock when your fear cometh;
 
-- Wisdom crieth without; she uttereth her voice in the streets: Right. So, the Lord telling them... Listen, this is some heavy stuff right here. The Bible is saying that wisdom is going to be found in the streets. Wisdom ain't just found on YouTube or on social media. I know that's how a lot of our people watch us or learn. But there's going to come a time where you going to have to go and see the prophets face-to-face. Where they going to start removing the stuff off social media. They banning, man, I can't get back on Facebook right now. You understand? A lot of us getting our pages taken down. Bishop Nathanyel's first page, Nathaniel's 7, was taken down back in the day. Had all kind of wisdom on there. The internet said, "Oh hell no." YouTube said, "Oh hell no." For real though.
-
-- So, the scriptures is very clear. They're very plain. They're very real. You have to go into the understanding of the Bible. And you only get that from going out and seeing the brothers, you understand, teaching on the streets. That's where it come from. It start on the streets. YouTube is good, social media is good, but you going to get to a local congregation eventually. The street ministry is to bring the people in so that God's house will be filled. We go out there and teach on the streets and then the Lord send people. They say, "Okay, well, where y'all at then? Let me come and visit y'all." And then we say, "Okay, well, here go the address." They go to school. You're learning? Okay, now come in.
-
-- But, learning online, there going to come a day where you not going to be able to find us online. You going to have to go and recycle old videos that you recorded. I'm just telling you. Cuz it's going to get real. They going to start persecuting the prophets on the streets. But, the Lord said he is going to save them by the foolishness of preaching. What everybody else say: "Y'all foolish for going out there and teaching on the street. Why y'all out here? What y'all doing out here?" You understand? That's how the Lord going to save his people.
-
 
 **[Ezekiel 3:11](/bible/ezekiel/3#v11)**  *[[56:21](https://www.youtube.com/watch?v=v7XuSjiu9TI&t=3381s)]*
 
@@ -495,10 +495,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "media", "wisdom"]
 **[Isaiah 30:20-21](/bible/isaiah/30#v20)**  *[[56:21](https://www.youtube.com/watch?v=v7XuSjiu9TI&t=3381s)]*
 
 > <sup>[20](/bible/isaiah/30#v20)</sup> And though the Lord give you the bread of adversity, and the water of affliction, yet shall not thy teachers be removed into a corner any more, but thine eyes shall see thy teachers:
->
-> <sup>[21](/bible/isaiah/30#v21)</sup> And thine ears shall hear a word behind thee, saying, This is the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left.
 
 - But thine eyes shall see thy teachers: It say your eyes going to see them. I'm not talking about social media. This is a buffer between us. I'm not with you right now. You seeing me, but you really just seeing me on the screen. Okay? You're not seeing me in person. The Bible say your eyes going to see your teachers. You going to see them in person. You going to be able to reach out and touch the person. You understand?
+
+> <sup>[21](/bible/isaiah/30#v21)</sup> And thine ears shall hear a word behind thee, saying, This is the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left.
 
 - And thine ears shall hear a word behind thee, saying, This is the way, walk ye in it: This is physical. This ain't internet. This ain't prophecy of the internet. This is physical. You're physically going to see your teachers. You're physically going to hear the words of God. You understand? That's how it's always been and that's how it's always going to be. You're going to physically hear the word of God. Yes, you got social media now, but that's coming to an end.
 
@@ -508,26 +508,26 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "media", "wisdom"]
 **[Romans 10:14-19](/bible/romans/10#v14)**  *[[58:22](https://www.youtube.com/watch?v=v7XuSjiu9TI&t=3502s)]*
 
 > <sup>[14](/bible/romans/10#v14)</sup> How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?
->
-> <sup>[15](/bible/romans/10#v15)</sup> And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!
->
-> <sup>[16](/bible/romans/10#v16)</sup> But they have not all obeyed the gospel. For Esaias saith, Lord, who hath believed our report?
->
-> <sup>[17](/bible/romans/10#v17)</sup> So then faith cometh by hearing, and hearing by the word of God.
->
-> <sup>[18](/bible/romans/10#v18)</sup> But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world.
->
-> <sup>[19](/bible/romans/10#v19)</sup> But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you.
 
 - How shall they hear without a preacher: So, it say, excuse me, "How shall they call on him whom they not believe? How shall they believe on him of whom they have not heard? And how shall they hear without a preacher?" Somebody got to teach them. Somebody got to teach the people. And it's a whole bunch of false doctrine going on right now on social media. I mean, from Israelites, I'm talking about from Egyptologists, from Christians, for sure. They've been teaching the false doctrine forever. It's false doctrines all on this earth right now. You can just pull it up right now and just watch all kind of BS and filth that is not biblical. You understand? So, the scripture say, "Well, how they going to understand? Who going to preach? Who going to teach them?" Verse 15 again.
 
+> <sup>[15](/bible/romans/10#v15)</sup> And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!
+
 - How shall they preach, except they be sent: Right. They can only preach by being sent. Somebody got to send them. Who's sending them? Jesus the Christ. Jesus the Christ is dispatching these men all over the world to teach the word of God. We travel all over the four corners of the earth to teach the word of God, to check on our brothers and sisters that are scattered abroad, to make sure they got what they need so they can continue the mission. That's what we doing here.
+
+> <sup>[16](/bible/romans/10#v16)</sup> But they have not all obeyed the gospel. For Esaias saith, Lord, who hath believed our report?
 
 - But they have not all obeyed the gospel: Right. There's a lot of Israelites that's going to say, "I ain't going teaching on the street. I'm only going to teach you on Twitch and TikTok. I'm only going to teach on Instagram. I'm only going to just argue with Christians online, or argue with Christians downtown, wherever they be at." That's their whole objective. That ain't helping. You got to go to the lost of the house of Israel, those that are downtrodden, those that are going through poverty, those that are going through oppression. It's our job to go and uplift them, teach them that they are the Israelites. The reason they suffer the condition that they suffer is because of their sin. And the only way to come out of their conditions is to turn back to God. That's the mission. But the Bible says, "But who have believed our report?" Who believe that that's the truth?
 
+> <sup>[17](/bible/romans/10#v17)</sup> So then faith cometh by hearing, and hearing by the word of God.
+
 - So then faith cometh by hearing, and hearing by the word of God: Some of these brothers don't study, and they don't hear the word of God. Therefore, they can't see the value in hitting the streets.
 
+> <sup>[18](/bible/romans/10#v18)</sup> But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world.
+
 - Their sound went into all the earth, and their words unto the ends of the world: Right, their sound went into all the earth, and their words unto the ends of the world. We got to go teach to the ends of the world, not just on social media. We got to go and do it. There's parts of the world where our people don't have no idea who we are. They've never seen a Instagram, TikTok, social media, nothing. They ain't seen us not one time. It's only when we pop up in their country with flyers and purple and gold and black cargo pants and black boots, preaching the word of God over loudspeaker, or exalting our voice, then they say, "Hey, you guys are the servants of the most high God. You guys are the prophets sent here to teach us."
+
+> <sup>[19](/bible/romans/10#v19)</sup> But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you.
 
 - I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you: And that's why the Lord sent us out to go teach. Because the Jews that you see in Harlem, and in Raleigh, North Carolina, and Jackson, Mississippi, and Los Angeles, California, a lot of these Negroes, they gone. Their mindset is solely focused on making money and selling merchandise and having multiple hoes. I mean, wives. I mean, hoes. That's their only focus. But the main brothers, the prophets, IUIC, we going to teach all our people scattered abroad, and they getting jealous. A lot of these brothers is jealous of them. "Man, why they going out there? Ain't no Israelites in Kenya. Ain't no Israelites in here. Ain't no Israelites there." You don't worry about it. You just let us do the work. You just sit back and watch. Scratch your balls. You understand? Eat cheese puffs. Have it all over your beard. We over there teaching because we know our people there.
 

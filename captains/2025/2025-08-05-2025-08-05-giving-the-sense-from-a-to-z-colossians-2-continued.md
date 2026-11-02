@@ -27,10 +27,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "faith", "purpose", "th
 > <sup>[1](/bible/colossians/2#v1)</sup> For I would that ye knew what great conflict I have for you, and for them at Laodicea, and for as many as have not seen my face in the flesh;
 >
 > <sup>[2](/bible/colossians/2#v2)</sup> That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Christ;
->
-> <sup>[3](/bible/colossians/2#v3)</sup> In whom are hid all the treasures of wisdom and knowledge.
 
 - And unto all riches: Paul was writing to these different churches. Like I said, Cathman broke that down.
+
+> <sup>[3](/bible/colossians/2#v3)</sup> In whom are hid all the treasures of wisdom and knowledge.
 
 
 **[Colossians 2:4](/bible/colossians/2#v4)**  *[[4:59](https://www.youtube.com/watch?v=be5nA8ZewWw&t=299s)]*
@@ -69,17 +69,15 @@ Reading from Colossians 2:4 in various translations on Bible hub (NIV, NLT, ESV)
 
 **[Sirach 34:9-11](/bible/sirach/34#v9)**  *[[8:36](https://www.youtube.com/watch?v=be5nA8ZewWw&t=516s)]*
 
-> <sup>[9](/bible/sirach/34#v9)</sup> A man that hath travelled knoweth many things; and he that hath much experience will declare wisdom.
->
-> <sup>[10](/bible/sirach/34#v10)</sup> He that hath no experience knoweth little: but he that hath travelled is full of prudence.
->
-> <sup>[11](/bible/sirach/34#v11)</sup> When I travelled, I saw many things; and I understand more than I can express.
-
 - Lest any man should beguile you with enticing words (Colossians 2:4 read again): So, how will Paul know this? How would he know that there was begalment going on with persuasive arguments, with plausible arguments, with well-crafted arguments? You know this, get this in Sirach right quick. Sirach 34 9-11.
 
 - A man that hath traveled knoweth many things: Paul was a traveler. He was a traveler and he was setting up these churches in various locations. Somebody that traveled, you know, you encounter many things.
 
+> <sup>[9](/bible/sirach/34#v9)</sup> A man that hath travelled knoweth many things; and he that hath much experience will declare wisdom.
+
 - And he that hath much experience will declare wisdom: And if you got much experience in these various churches and these people, the saints in these churches are bringing up these arguments. "Hey, we got this scribe or this Pharisee that's saying, 'Hey, we got to go back to circumcision.' We got this scribe and this Pharisee, we got to go back to water baptism. We got this brother over here in this congregation. He's bringing up this argument, Paul." So Paul is receiving all these letters. You that's sitting at these churches, you might not have that insight. But Paul going to the various places, he has this insight. "Well, wait a minute. There's some begalment going on. There's some persuasion going on. And they're using enticing words. So now I got to send letters forth to warn the people."
+
+> <sup>[10](/bible/sirach/34#v10)</sup> He that hath no experience knoweth little: but he that hath travelled is full of prudence.
 
 - He that hath no experience knoweth little: But if you have no experience, if you not traveling, if you just sitting in one location.
 
@@ -89,28 +87,30 @@ Reading from Colossians 2:4 in various translations on Bible hub (NIV, NLT, ESV)
 
 - And I understood more than I can express: And he said, "I understood more than I can express."
 
+> <sup>[11](/bible/sirach/34#v11)</sup> When I travelled, I saw many things; and I understand more than I can express.
+
 
 **[Galatians 3:1-3](/bible/galatians/3#v1)**  *[[11:34](https://www.youtube.com/watch?v=be5nA8ZewWw&t=694s)]*
-
-> <sup>[1](/bible/galatians/3#v1)</sup> O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?
->
-> <sup>[2](/bible/galatians/3#v2)</sup> This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?
->
-> <sup>[3](/bible/galatians/3#v3)</sup> Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh?
 
 - Give me Galatians 3 1-3: This is one of the things that he experienced. He encountered with the Galatians. Those of Galatia.
 
 - Oh foolish Galatians, who hath bewitched you: Who have bewitched you? So it was some bewitching going on with the church in Galatia. He said, you foolish Galatians, who the hell bewitched you? Who tricked you?
 
+> <sup>[1](/bible/galatians/3#v1)</sup> O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?
+
 - That ye should not obey the truth: Because now you're not obeying the truth about Christ, the true understanding of Christ, which I taught you.
 
 - Before whose eyes Jesus Christ has been evidently set forth, crucified among you: So when it says he's evidently set forth, that means he taught, Paul taught Christ to the Galatians. You understand? He sat there to open up the scriptures and let them know, hey, when you reading about in Isaiah 53, when you reading about it through the Old Testament in Numbers chapter 24, Deuteronomy 18, when you reading about these things, you're reading about Christ. You're reading about the understanding of Christ. No different from when you reading in the book of Acts chapter 8 when it said Philillip, he ran up to the unic and he was reading Isaiah. He said, "Listen, I started at the same scriptures and I taught him who Christ." So this is why it says who have begiled you before whose eyes Christ have evidently set forth, he was crucified amongst you. He was taught amongst you.
+
+> <sup>[2](/bible/galatians/3#v2)</sup> This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?
 
 - This only would I learn of you: It said this. He said there's only one thing I want to hear from you.
 
 - Received ye the spirit by the works of the law: Did you receive the spirit by animal sacrificing? Because you are Galatians. You wasn't sacrificing. This is northern kingdom. You weren't sacrificing. So, did you receive this Holy Spirit, this Holy Ghost by the works of the law by going up to Jerusalem? No, you wasn't traveling up there. They weren't allowing you up there. So, no, you didn't receive that spirit. But this is like a rhetorical question. Did you receive the spirit by the works of the law?
 
 - Or by the hearing of faith: Or was it by the hearing of God's word? So, who tricked you? Who begowed you to go back into animal sacrifice? Because that was the plot. That was the craftiness that the scribes and the Pharisees was trying to use. So who tricked you? Who beged you? Who bewitched you?
+
+> <sup>[3](/bible/galatians/3#v3)</sup> Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh?
 
 - Are ye so foolish: How some you got to talk to negroes like that? Are you foolish? How you let somebody come in here behind the things that I set forth when I taught you Christ? They come in here with enticing word and begal you. Only a fool would do that. You understand? A wise man won't let that happen. He's going to be steadfast. He's going to be knitted together. This is the warning when you over these different congregations and you see these different things popping up. Damn, we send letters to this kind. "Listen, I seen this over here. I seen this dealing with the Galatians. I seen this dealing with those at Ephesus. So you at Colass, I'm warning you. Don't be beg by enticing words."
 
@@ -119,13 +119,9 @@ Reading from Colossians 2:4 in various translations on Bible hub (NIV, NLT, ESV)
 
 **[1 Corinthians 7:18-20](/bible/1-corinthians/7#v18)**  *[[15:04](https://www.youtube.com/watch?v=be5nA8ZewWw&t=904s)]*
 
-> <sup>[18](/bible/1-corinthians/7#v18)</sup> Is any man called being circumcised? let him not become uncircumcised. Is any called in uncircumcision? let him not be circumcised.
->
-> <sup>[19](/bible/1-corinthians/7#v19)</sup> Circumcision is nothing, and uncircumcision is nothing, but the keeping of the commandments of God.
->
-> <sup>[20](/bible/1-corinthians/7#v20)</sup> Let every man abide in the same calling wherein he was called.
-
 - Lest any man should beguile you with enticing words (Colossians 2:4 read again): So now this is the craftiness. So one of is two scriptures that always say that when you dealing with Paul's letters, you want to lock these things in your mind. That's 1 Corinthians 7, what is it, 18 and 19. You want to lock that scripture in your mind. Lock the understanding. Get the understanding of that scripture. This is just a sidebar. This is just a sidebar just to help you with Paul's letters.
+
+> <sup>[18](/bible/1-corinthians/7#v18)</sup> Is any man called being circumcised? let him not become uncircumcised. Is any called in uncircumcision? let him not be circumcised.
 
 - Is any man called being circumcised? Let him not become uncircumcised: He said, "Are you called being circumcised? Don't become uncircumcised." Who was called being circumcised? The circumcision that was pertaining to who? The southern kingdom, the Jews. They were the ones that were under the law of circumcision. This is important to know when you dealing with Paul's letters. They were the ones that that law protect the Levitical law. Leviticus 12, we gonna get that. Just hold that. They were the ones that were actually keeping that law. So it says if you called into the understanding of Christ under that law, let him not become what? Let him not become uncircumcised.
 
@@ -135,28 +131,32 @@ Reading from Colossians 2:4 in various translations on Bible hub (NIV, NLT, ESV)
 
 - Is any man called being circumcised? Let him not become uncircumcised (read again after Acts 11 and Romans 3): So it's cleared up now. If you call under the law of circumcision, meaning you're sacrificing, don't stop sacrificing. If you're called not sacrificing, if you get this understanding in a gentile state of mind, do not go start sacrificing. You already heard the word.
 
+> <sup>[19](/bible/1-corinthians/7#v19)</sup> Circumcision is nothing, and uncircumcision is nothing, but the keeping of the commandments of God.
+
 - Circumcision is nothing, and uncircumcision is nothing, but the keeping of the commandments of God: That's what it's all about. Keeping the commandments. Keeping the commandments.
+
+> <sup>[20](/bible/1-corinthians/7#v20)</sup> Let every man abide in the same calling wherein he was called.
 
 - Let every man abide in the same calling: Let every man abide. Cuz I wasn't looking at it, but you know, those are the precepts that you got to resonate in your mind. Let every man abide in whatever the same calling that you was called in. All right. So, now let's go back to Colossians. That's just a sidebar. Let's get back on track.
 
 
 **[Acts 11:1-3](/bible/acts/11#v1)**  *[[17:02](https://www.youtube.com/watch?v=be5nA8ZewWw&t=1022s)]*
 
-> <sup>[1](/bible/acts/11#v1)</sup> And the apostles and brethren that were in Judea heard that the Gentiles had also received the word of God.
->
-> <sup>[2](/bible/acts/11#v2)</sup> And when Peter was come up to Jerusalem, they that were of the circumcision contended with him,
->
-> <sup>[3](/bible/acts/11#v3)</sup> Saying, Thou wentest in to men uncircumcised, and didst eat with them.
-
 - Give me that Acts 11 right quick: We coming right back here. This is just a sidebar. These are the things you want to just sharpen your spirit with.
+
+> <sup>[1](/bible/acts/11#v1)</sup> And the apostles and brethren that were in Judea heard that the Gentiles had also received the word of God.
 
 - And the apostles and brethren that were in Judea: In Jerusalem. These are southern kingdom.
 
 - Heard that the Gentiles had also received the word of God: You see what he called them? They heard that the Gentiles in the northern kingdom, they received the word of God.
 
+> <sup>[2](/bible/acts/11#v2)</sup> And when Peter was come up to Jerusalem, they that were of the circumcision contended with him,
+
 - They that were of the circumcision: They who? The Jews, he called them circumcision.
 
 - Contended with him: He said contended with him.
+
+> <sup>[3](/bible/acts/11#v3)</sup> Saying, Thou wentest in to men uncircumcised, and didst eat with them.
 
 - Saying, Thou wentest in to men uncircumcised: Thou wentest in to men uncircumcised. That goes back to the previous chapter. When Peter went to Cornelius, they were the Gentiles. These were northern kingdom of our people, Israelites. He said, "You, I'm contending with you, Peter, of the southern kingdom because you went to the Gentiles." And he called them, he identified them as uncircumcised. Y'all understand that?
 
@@ -173,11 +173,9 @@ Reading from Colossians 2:4 in various translations on Bible hub (NIV, NLT, ESV)
 
 **[Acts 15:1-2](/bible/acts/15#v1)**  *[[21:38](https://www.youtube.com/watch?v=be5nA8ZewWw&t=1298s)]*
 
-> <sup>[1](/bible/acts/15#v1)</sup> And certain men which came down from Judea taught the brethren, and said, Except ye be circumcised after the manner of Moses, ye cannot be saved.
->
-> <sup>[2](/bible/acts/15#v2)</sup> When therefore Paul and Barnabas had no small dissension and disputation with them, they determined that Paul and Barnabas, and certain other of them, should go up to Jerusalem unto the apostles and elders about this question.
-
 - And this I say, lest any man should beguile you with enticing words (Colossians 2:4 read again): So now let's get an example of the enticing, how they were beguiling the people with enticing words. This is another precept that you want to keep in your back pocket dealing with Paul's letters. Acts chapter 15 verse one. Listen to the craftiness.
+
+> <sup>[1](/bible/acts/15#v1)</sup> And certain men which came down from Judea taught the brethren, and said, Except ye be circumcised after the manner of Moses, ye cannot be saved.
 
 - And certain men which came down from Judea: For these certain men who are coming down from Judea, these are the scribes and Pharisees. Y'all remember in Matthew 23 when it says you go over land and sea to make one proelite. So these Pharisees were traveling. They were traveling over the world during that time in that region trying to proilize the people, trying to bring them back under the law of Moses.
 
@@ -186,6 +184,8 @@ Reading from Colossians 2:4 in various translations on Bible hub (NIV, NLT, ESV)
 - And said, Except ye be circumcised after the manner of Moses, ye cannot be saved: You see that? Except you be circumcised after the manner of Moses, you cannot be saved. So now you got to think about the craftiness in that. Now just think about this. Do you have to be circumcised? Yes. That's a law.
 
 - Except ye be circumcised after the manner of Moses, ye cannot be saved (read again after Leviticus 12): Ye cannot be saved. That was not the case.
+
+> <sup>[2](/bible/acts/15#v2)</sup> When therefore Paul and Barnabas had no small dissension and disputation with them, they determined that Paul and Barnabas, and certain other of them, should go up to Jerusalem unto the apostles and elders about this question.
 
 - When therefore Paul and Barnabas had no small dissension and disputation with them: And you want to know how you know that? That was just pertaining to the law of Moses speaking about the law of animal sacrifice. Let's hold this. I just thought about this. Acts 16.
 
@@ -218,15 +218,15 @@ Reading from Colossians 2:4 in various translations on Bible hub (NIV, NLT, ESV)
 
 **[Acts 15:19-20](/bible/acts/15#v19)**  *[[28:06](https://www.youtube.com/watch?v=be5nA8ZewWw&t=1686s)]*
 
-> <sup>[19](/bible/acts/15#v19)</sup> Wherefore my sentence is, that we trouble not them, which from among the Gentiles are turned to God:
->
-> <sup>[20](/bible/acts/15#v20)</sup> But that we write unto them, that they abstain from pollutions of idols, and from fornication, and from things strangled, and from blood.
-
 - Should go up to Jerusalem unto the apostles and elders about this question (Acts 15:2 read again): About, "Hey, you go ask the elders, do they need to bring animal sacrifice?" About that question. Watch what they responded. Jump down to verse 19 just for time sake.
+
+> <sup>[19](/bible/acts/15#v19)</sup> Wherefore my sentence is, that we trouble not them, which from among the Gentiles are turned to God:
 
 - Wherefore my sentence is: This is James. These are the apostles. They heard the matter and they put the judgment on it. This is the sentence.
 
 - That we trouble not them: Said don't trouble them to sacrifice.
+
+> <sup>[20](/bible/acts/15#v20)</sup> But that we write unto them, that they abstain from pollutions of idols, and from fornication, and from things strangled, and from blood.
 
 - But that we write unto them, that they abstain from pollutions: He said don't trouble them with animal sacrifice. All I want y'all to do is abstain from pollutions. These are the things that they were dealing with. Pollutions of idols.
 
@@ -237,15 +237,15 @@ Reading from Colossians 2:4 in various translations on Bible hub (NIV, NLT, ESV)
 
 **[Colossians 1:21-22](/bible/colossians/1#v21)**  *[[29:28](https://www.youtube.com/watch?v=be5nA8ZewWw&t=1768s)]*
 
-> <sup>[21](/bible/colossians/1#v21)</sup> And you, that were sometime alienated and enemies in your mind by wicked works, yet now hath he reconciled
->
-> <sup>[22](/bible/colossians/1#v22)</sup> In the body of his flesh through death, to present you holy and unblameable and unreproveable in his sight:
-
 - Give me Colossians 1 21 and 22: And you know that's the trickery when you don't know. Just to show you the mindset of those at Coloss.
+
+> <sup>[21](/bible/colossians/1#v21)</sup> And you, that were sometime alienated and enemies in your mind by wicked works, yet now hath he reconciled
 
 - And you: And you brothers, you saints in Coloss.
 
 - That were sometime alienated and enemies in your mind by wicked works: You see that? At one time they were alienated. They were alienated because of the wicked works. And that's why James said, "Don't trouble them. Just deal with the things that are pertaining to you now that you coming back into this understanding."
+
+> <sup>[22](/bible/colossians/1#v22)</sup> In the body of his flesh through death, to present you holy and unblameable and unreproveable in his sight:
 
 - Yet now hath he reconciled in the body of his flesh through death: You see that? Now he reconciled by giving his body for a living sacrifice. He replaced the sacrifices. So it'll be easy to begal them if they didn't know different things pertaining within the law. If somebody's coming behind them using crafty words, enticing words, the same as these pastors, they use enticing words and well orators and speeches put together and you're like, "Oh yeah, that makes sense." You understand? But if you challenge them, if you run into somebody like Paul and his mighty man he rolling with, Barnabas, they're like, "Oh, hell no. That's not according to the scriptures." Now you tying them up. You understand?
 
