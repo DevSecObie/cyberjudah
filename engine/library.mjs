@@ -216,7 +216,19 @@ export function loadLibrary(ROOT) {
   // quoted, then his line about it. Both ends are kept: the chapter opened learns the
   // precepts, and the precept's chapter learns where it was opened.
   const linked = new Map(); // "Book|ch" -> [{verses, kind, ref, text, note, ts}]
-  const link = (r, row) => { const k = `${r.book}|${r.chapter}`; if (!linked.has(k)) linked.set(k, []); linked.get(k).push({ verses: r.verses || "", ...row }); };
+  // A precept's own KJV words, so the commentary can show the scripture under its reference
+  // without the reader leaving the page. Only a short precept (four verses or fewer) carries them.
+  const kjvOf = (r) => {
+    const texts = bible[r.book]?.[r.chapter] ?? [], out = [];
+    for (const part of String(r.verses || "").split(",")) {
+      const [a, b] = part.split("-").map(Number); if (!a) return "";
+      for (let v = a; v <= (b || a); v++) { if (!texts[v - 1]) return ""; out.push(texts[v - 1]); }
+    }
+    return out.length && out.length <= 4 ? out.join(" ") : "";
+  };
+  const link = (r, row) => {
+    if (row.kind === "precept" && row.ref) { const kjv = kjvOf(row.ref); if (kjv) row = { ...row, kjv }; }
+    const k = `${r.book}|${r.chapter}`; if (!linked.has(k)) linked.set(k, []); linked.get(k).push({ verses: r.verses || "", ...row }); };
   const HEAD = /^\*\*\[([^\]]+)\]\(\/bible\/([a-z0-9-]+)\/(\d+)(?:#v(\d+))?\)\*\*(?:\s+\*\[\[?([\d:]+)\]?\(([^)]*)\)\]\*)?/;
   // The moments a class read a scripture: the verses, the class, and its recording at that
   // second, so the Bible can link a verse straight to where it was taught.
