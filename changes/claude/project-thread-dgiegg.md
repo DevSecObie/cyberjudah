@@ -7,3 +7,9 @@
   - 26 more class notes named from their artwork, title or intro (e.g. Captain Kemuel, Captain Pallu, Captain Tazayawan, Officer Seir for The Revolutionaries of Gad, Captain Aryeh for Kill or Be Killed); Secrets of History chapters 5-9 are Deacon Eythan; Perilous Times is Captain Yadaya; two Power Hour / Escaping the Plantation notes marked only "Officer" are left blank.
   - data/sources/rank-teachers.tsv names 25 more scriptures credited only to "Deacon" or "Captain". A class can now carry one row per bare rank (engine/class-metadata.mjs, with a test).
   - data/sources/class-teachers.tsv: 61 recordings without notes, named from their titles (e.g. Walking in Elijah's Footsteps, Deacon Eythan) or left blank as street teachings.
+- Obie's answers from the caption-names tab (2026-11-02, "use what we have now and backlog the others"):
+  - data/sources/class-teachers.tsv: 154 recordings without notes take the teacher Obie picked for the name the captions heard (e.g. Bishop Nathaniel/Nathanael to Bishop Nathanyel, 16 recordings that are really Deacon Eythan, Bishop "Yahweh" to Bishop Yawasap, Captain Shem & Captain Matt). Two recordings whose class outline names Captain Shem keep the outline name.
+  - "Officer Jeremiah" (answered "PSR") is held until Obie names the teacher.
+  - Deacon Labachaa is the official spelling (leadership page and outlines); Labaacha and Labaaca are now listed as variants in data/names.tsv, and one recording is respelled.
+  - data/sources/rank-teachers.tsv: three more scriptures credited only to "Deacon" or "Captain" are Bishop Yawasap.
+  - The 526 rows not yet answered (mostly IUIC Raleigh recordings, many of them street teachings) stay as they are and are backlogged in the review page.
