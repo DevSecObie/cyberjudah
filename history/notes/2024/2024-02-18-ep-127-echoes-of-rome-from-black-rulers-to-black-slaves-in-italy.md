@@ -18,9 +18,9 @@ tags: ["Our Hidden History", "captivity", "rome"]
 
 ## Introduction
 
-*[[21:18](https://www.youtube.com/watch?v=eRxU8lK57Aw&t=1278s)]* Shalom, shalom. Welcome back to Our Hidden History. You're now tuned into Our Hidden History radio. All praises, all praises. All right, so as you see what the title is: Echoes of Rome. What was the title again, guys? Oh snap. From black rulers to black slaves in Italy. From what? Black rulers. Right, from black rulers to black slaves in Italy.
+*[[21:18](https://www.youtube.com/watch?v=eRxU8lK57Aw&t=1278s)]* You're now tuned into Our Hidden History radio. All right, so as you see what the title is: Echoes of Rome. From black rulers to black slaves in Italy. From what? Black rulers. Right, from black rulers to black slaves in Italy.
 
-So today's segment, we're going to focus on Italy, us in Italy. As you know, I had the honor, all praise the Most High, me and another officer, we was able to go out to Italy, to Rome, with the leadership. So all praise the Most High, get that honor to be amongst leadership and break ground in Rome. That's right. All praises, all praises.
+So today's segment, we're going to focus on Italy, us in Italy. As you know, I had the honor, all praise the Most High, me and another officer, we was able to go out to Italy, to Rome, with the leadership. So all praise the Most High, get that honor to be amongst leadership and break ground in Rome. That's right.
 
 *[[22:19](https://www.youtube.com/watch?v=eRxU8lK57Aw&t=1339s)]* So now when we was in Rome, as you see the Bishop, all praises to the Bishop's class yesterday, fire class, he went over to Twelve Feathers. And as you see what he was bringing out as far as Rome, I'm going to kind of lay back off the Bishop a little bit as far as some of the stuff he brought out in Rome. He's going into the Colosseums and stuff and so forth, and with the gladiators, so we gonna go into that a little more. But I want to focus the attention in Italy, in Rome: us, our presence in Italy, in Rome and Naples and all over Italy, Sicily and stuff like that. So that segment will be geared towards that today.
 
@@ -46,7 +46,7 @@ Reading from a dictionary definition of glossolalia · read by an officer  *[[24
 
 > The phenomenon of apparently speaking in an unknown language, especially in religious worship.
 
-- So it's the phenomenon, apparently speaking in an unknown language, huh? Right. Especially in religious worship.
+- So it's the phenomenon, apparently speaking in an unknown language, huh? Especially in religious worship.
 
 > It is practiced especially by Pentecostal and charismatic Christians.
 
@@ -90,7 +90,7 @@ Reading from a dictionary definition of glossolalia · read by an officer  *[[24
 
 - See what Christ called that type of spirit? It's a dumb and deaf spirit.
 
-- All right, so that's all I want. So that's a dumb and deaf spirit that these churches have on them, talking about they speaking in tongues. Right? They got the damn devil on them.
+- All right, so that's all I want. So that's a dumb and deaf spirit that these churches have on them, talking about they speaking in tongues. They got the damn devil on them.
 
 - **An officer:** Our people make provisions for this spirit, to the point where they invite it into their bodies. And they also are prepared for it, because they have the cloth to cover the women when they fall on the ground, they have men surrounding them just to make sure they don't hurt themselves. So they make provisions for the spirit, cuz they're inviting it in them, and they're just entertaining it. It's like a ritual.
 
@@ -98,7 +98,7 @@ Reading from a dictionary definition of glossolalia · read by an officer  *[[24
 
 - **An officer:** They're basically establishing their own righteousness, and they're not worshiping the Lord as he commanded us to worship him.
 
-- **Deacon Eythan:** Right. Yep. All right, go back to Acts chapter 2. Where was you at? Verse four. Verse four.
+- **Deacon Eythan:** Yep. All right, go back to Acts chapter 2. Where was you at? Verse four. Verse four.
 
 **[Acts 2:4-10](/bible/acts/2#v4)**  *[[30:01](https://www.youtube.com/watch?v=eRxU8lK57Aw&t=1801s)]*
 
@@ -108,7 +108,7 @@ Reading from a dictionary definition of glossolalia · read by an officer  *[[24
 >
 > <sup>[6](/bible/acts/2#v6)</sup> Now when this was noised abroad, the multitude came together, and were confounded, because that every man heard them speak in his own language.
 
-- You see that? In his own language. That's your tongues.
+- In his own language. That's your tongues.
 
 > <sup>[7](/bible/acts/2#v7)</sup> And they were all amazed and marvelled, saying one to another, Behold, are not all these which speak Galileans?
 >
@@ -122,9 +122,9 @@ Reading from a dictionary definition of glossolalia · read by an officer  *[[24
 
 > <sup>[10](/bible/acts/2#v10)</sup> Phrygia, and Pamphylia, in Egypt, and in the parts of Libya about Cyrene, and strangers of Rome, Jews and proselytes,
 
-- Strangers of Rome. Strangers of Rome. So what I'm showing you: we was under every nation. Okay? But we want to focus on strangers in Rome. We were in Rome. We was always in Rome.
+- Strangers of Rome. Strangers of Rome. So what I'm showing you: we was under every nation. But we want to focus on strangers in Rome. We were in Rome. We was always in Rome.
 
-- Okay. Give me Acts 18, book of Acts chapter 18. Hey, get me, give me Early Christians in Rome. Now there's a page where they talk about us being kicked out of Rome. It goes a little in detail why we got kicked out of Rome. You go ahead and read the book of Acts chapter 18 and verse one.
+- Give me Acts 18, book of Acts chapter 18. Hey, get me, give me Early Christians in Rome. Now there's a page where they talk about us being kicked out of Rome. It goes a little in detail why we got kicked out of Rome. You go ahead and read the book of Acts chapter 18 and verse one.
 
 **[Acts 18:1-2](/bible/acts/18#v1)**  *[[32:05](https://www.youtube.com/watch?v=eRxU8lK57Aw&t=1925s)]*
 
@@ -134,7 +134,7 @@ Reading from a dictionary definition of glossolalia · read by an officer  *[[24
 
 - Lately come from where? Italy. Lately came from Italy.
 
-- Right. So Claudius banned us from Rome. Now let me see, go through the pages real quick. Keep going. I think it's like page eight, it's like page eight or something. Do you have like page eight? Maybe no. Okay, let's go through the pages real quick, I want to see if I can find this, when they banished us from Rome. All right, so that's on the Nero, that's the fire. Keep going, keep going, keep going. Man, I thought I gave you that page. Keep going. Let me see. Nope. All right, all right, you drop it.
+- So Claudius banned us from Rome. Now let me see, go through the pages real quick. I think it's like page eight, it's like page eight or something. Do you have like page eight? Maybe no. Okay, let's go through the pages real quick, I want to see if I can find this, when they banished us from Rome. All right, so that's on the Nero, that's the fire. Man, I thought I gave you that page. Nope. All right, all right, you drop it.
 
 - Hey, now give me, let's deal with Hannibal. Let's deal with Hannibal, let's deal with Hannibal. Give me that page, literary. We brought this book out before. We're dealing with Hannibal, and you should have Caesar and Christ too as well. Yeah, you can go through there. Go back, go back. Blow that up, blow that up. We can start here, you can start at the Semitic genius.
 
@@ -152,15 +152,15 @@ Reading from a book brought out before, on the Semitic genius and Hannibal's jes
 
 > The Roman historians tell us that after the return of Regulus to Carthage, the Carthaginians, wrought up to the most furious rage at his conduct in breaking off the negotiations for peace, resolved to punish him with the most cruel torture. After cutting off his eyelids and putting him into a dungeon, they exposed his naked eyes to the burning sun,
 
-- Now listen, we already went into Hannibal. I'm just briefly going in. Remember the title: we going into the rulers of Italy. So just focus there: the rulers of Italy, and us going into slavery. All right? The blacks that ruled Italy. So we dealing with Hannibal right now.
+- Now listen, we already went into Hannibal. I'm just briefly going in. Remember the title: we going into the rulers of Italy. So just focus there: the rulers of Italy, and us going into slavery. The blacks that ruled Italy. So we dealing with Hannibal right now.
 
-- Right. Hey, so this is Regulus. We tortured Regulus by cutting off his eyelids and exposing, so think about it: your eyelids is gone, you can't blink, you can't close your eyes, you can't get no sleep. So his eyes just open, and we turned them towards the sun. So his eyes just burning from the sun.
+- Hey, so this is Regulus. We tortured Regulus by cutting off his eyelids and exposing, so think about it: your eyelids is gone, you can't blink, you can't close your eyes, you can't get no sleep. So his eyes just open, and we turned them towards the sun. So his eyes just burning from the sun.
 
 > and then put him into a cast set all around with sharp spikes, where he died in prolonged agony.
 
-- Damn. So now you see why Esau, they torture us, man. Because we, listen, we was torturing them. We was torturing Esau. Okay.
+- Damn. So now you see why Esau, they torture us, man. Because we, listen, we was torturing them. We was torturing Esau.
 
-- From there, get me, go to the one, the literary arts, that page. I want that page. No, no, no, before you get that, give me Caesar and Christ, page 37. Caesar and Christ. Yeah, you should have all those pages. Yep, yep, yep. 37. All right, let me get 40. Let me see. Show the cover too. Read that cover.
+- From there, get me, go to the one, the literary arts, that page. I want that page. No, no, no, before you get that, give me Caesar and Christ, page 37. Caesar and Christ. Yeah, you should have all those pages. Yep, yep, yep. 37. All right, let me get 40. Show the cover too. Read that cover.
 
 </div>
 
@@ -170,15 +170,13 @@ Reading from *Caesar and Christ* by Will Durant, from page 37, on Carthage · re
 
 > Caesar and Christ: A History of Roman Civilization and of Christianity from Their Beginnings to A.D. 325.
 
-- By who? By Will Durant. So this book is by Will Durant. What year? 1944. So this is 1944. Very good book, very good book. All right, go to the next page real quick. Let me see. Yeah, you can read that, you can read that, probably lead into it.
+- By who? By Will Durant. So this book is by Will Durant. What year? 1944. So this is 1944. Very good book, very good book. All right, go to the next page real quick. Yeah, you can read that, you can read that, probably lead into it.
 
 > Probably it was the rich merchants, rather than the aristocratic landowners, who provided the funds for those armies and navies which transformed Carthage from a trading post into an empire.
 
 > The African coast except Utica was conquered to Gibraltar and beyond. Tartessus, Gades and other Spanish towns were captured, and Carthage grew wealthy from the gold, silver, iron and copper of Spain.
 
-- Read that part again.
-
-- Right. So Carthage grew wealthy from all of these metals, precious metals.
+- So Carthage grew wealthy from all of these metals, precious metals.
 
 > It took the Balearic Islands and reached out even to Madeira. It conquered Malta, Sardinia, Corsica and the western half of Sicily. It treated these subject lands with varying degrees of severity,
 
@@ -188,11 +186,11 @@ Reading from *Caesar and Christ* by Will Durant, from page 37, on Carthage · re
 
 > We may judge the wealth of these dependencies from the fact that the town of Leptis Minor paid 365 talents, or 1,314,000, a year into the Carthaginian treasury. The exploitation of this empire and trade made Carthage, in the third century B.C., the richest of Mediterranean cities.
 
-- Hey, so Carthage became the richest of the Mediterranean world. All right? Of the Mediterranean cities. Okay. Carthage was ruled by us. We ruled Carthage. The book, Nahum Slouschz, Travels in North Africa, said that you had Asher and Zebulon that was there, all right, in Carthage. Okay. Next page. Did you finish that? Where you at? The second line of that paragraph. All right, read on.
+- Hey, so Carthage became the richest of the Mediterranean world. Of the Mediterranean cities. Carthage was ruled by us. We ruled Carthage. The book, Nahum Slouschz, Travels in North Africa, said that you had Asher and Zebulon that was there, all right, in Carthage. Did you finish that? Where you at? The second line of that paragraph.
 
 > Tariffs and tribute brought her annually 12,000 talents, twenty times the revenue of Athens at her zenith. The upper classes lived in palaces, wore costly robes, and ate exotic delicacies. The city, crowded with a quarter of a million inhabitants, became famous for its gleaming temples, its public baths, above all for its secure harbors and spacious docks. Each of the 220 docks was faced with two Ionic pillars, so that the inner harbor presented a majestic circle of 440 marble columns.
 
-- Right. Hey, hold that. Watch this. Hey, play that clip real quick. Let me show you something about Carthage. The Elder sent me this. Let me show you something about Carthage. Blow that up. Watch this. Run it back, we can't hear nothing. Can you hit the unmute button? Go ahead.
+- Hey, hold that. Hey, play that clip real quick. Let me show you something about Carthage. The Elder sent me this. Let me show you something about Carthage. Blow that up. Run it back, we can't hear nothing. Can you hit the unmute button?
 
 </div>
 
@@ -208,13 +206,13 @@ Reading from a clip on the Carthaginian shipyards, sent by the Elder  *[[42:34](
 
 > This helped them dominate the Mediterranean. When the Romans were finally able to capture one of the Punic ships intact, they studied it and quickly realized that all the parts were labeled. This meant that
 
-- Wait, stop, stop, stop, stop. What? All the parts were labeled. We knew, it was like an assembly line. This is like the first assembly line. Everything was labeled, so when they study it they like, damn, it's like a puzzle, you could just put it together. Just like how you get a model, a model plane or a car, everything is labeled, the manual, you know how to put it together. This is how we had it, on a large scale, like an assembly line. Go ahead.
+- Wait, stop, stop, stop, stop. What? All the parts were labeled. We knew, it was like an assembly line. This is like the first assembly line. Everything was labeled, so when they study it they like, damn, it's like a puzzle, you could just put it together. Just like how you get a model, a model plane or a car, everything is labeled, the manual, you know how to put it together. This is how we had it, on a large scale, like an assembly line.
 
 > each part was built separately in a different location by an expert and then assembled at the dock. It is the first recorded use of mass production technique and assembly line method, the same method that we use to build cars today. So yes, Africans invented mass production and the assembly line.
 
 - Damn.
 
-- So wait, officer, Henry Ford didn't come up with the assembly line? Nah, nah, not at all. Henry Ford was just the one that had mass production. Yeah, he was the first mass produced cars, but that all came from us, man. All right, so go back to the page. Yeah, so shout out to the Elder, man, that was bad.
+- So wait, officer, Henry Ford didn't come up with the assembly line? Nah, nah, not at all. Henry Ford was just the one that had mass production. Yeah, he was the first mass produced cars, but that all came from us, man. All right, so go back to the page.
 
 - Go back to the page. We read that, the exploitation, yeah, we read that. All right, go to the next page. The second paragraph. The Carthaginians were Semites.
 
@@ -226,11 +224,11 @@ Reading from *Caesar and Christ* by Will Durant, on the Carthaginians as Semites
 
 > The Carthaginians were Semites,
 
-- So remember, remember, it said Hannibal said he was of Semitic lineage. Okay? Now it says the Carthaginians were Semites. Now I'm taking a long route. I'm building up. All right, I'm taking a long route. Read it again. So the Carthaginians were Semites, right.
+- So remember, remember, it said Hannibal said he was of Semitic lineage. Now it says the Carthaginians were Semites. Now I'm taking a long route. I'm building up. All right, I'm taking a long route. So the Carthaginians were Semites, right.
 
 > akin in blood and features to the ancient Jews.
 
-- You see that? All right. Like I said, it was Asher and Zebulon, majority of Asher and Zebulon, that was in Carthage when we ruled in Carthage.
+- Like I said, it was Asher and Zebulon, majority of Asher and Zebulon, that was in Carthage when we ruled in Carthage.
 
 > Their language now and then struck a Hebraic note, as when it called the chief magistrates, the Hebrew, or judges. The men grew beards, but usually shaved the upper lip with bronze razors.
 
@@ -242,7 +240,7 @@ Reading from *Caesar and Christ* by Will Durant, on the Carthaginians as Semites
 
 > The women led for the most part a veiled and secluded life. They could rise to high place in the priesthoods, but otherwise had to be contended with the sovereignty of their charms.
 
-- Go down, go down. Let me see if I want anything else. The bottom paragraph.
+- Let me see if I want anything else. The bottom paragraph.
 
 > The Carthaginians appear at their worst in their religion,
 
@@ -250,9 +248,7 @@ Reading from *Caesar and Christ* by Will Durant, on the Carthaginians as Semites
 
 > which again we know only from their enemies. Their ancestors in Phoenicia had worshiped Baal, Moloch and Astarte as personifying the male and female principles in nature, and the sun and moon in the sky. The Carthaginians addressed similar devotions to corresponding deities, Baal Hammon and Tanith.
 
-- Okay. Read that part again.
-
-- Right, right. So we get it, of course we get it from, remember, we was around Tyre and Sidon. All right, so we was around them. They worshiped that, so of course we took after them.
+- So we get it, of course we get it from, remember, we was around Tyre and Sidon. All right, so we was around them. They worshiped that, so of course we took after them.
 
 - All right, give me Matthew 4:15. Hey, go to, do you have Travels in North Africa? Tell me you have that. Travels in North Africa, Nahum Slouschz. If you don't have it, let me see. Y'all want to say something real quick? A couple stuff popping up in my head.
 
@@ -264,9 +260,9 @@ Reading from a post on Frederick Douglas Patterson, sent by the Elder  *[[48:42]
 
 > Frederick Douglas Patterson was the first African-American to build motorized cars.
 
-- Hey, also I'm all over the place. Hey, pull this up. The Elder just sent this. Yeah, right there. Cuz remember, going back to what we said about the first that came up with the concept of the car, right? Watch this.
+- Hey, also I'm all over the place. Hey, pull this up. The Elder just sent this. Yeah, right there. Cuz remember, going back to what we said about the first that came up with the concept of the car, right?
 
-- Damn. Read that again, read that again.
+- Damn.
 
 > Frederick Douglas Patterson was the first African-American to build motorized cars. His father, Charles Rich Patterson, a former enslaved person, created C.R. Patterson and Sons company, located in Greenfield, Ohio, beginning in 1865.
 
@@ -274,7 +270,7 @@ Reading from a post on Frederick Douglas Patterson, sent by the Elder  *[[48:42]
 
 > The company built fashionable carriages.
 
-- Damn. So Frederick Douglas Patterson was the first African-American to build a motorized car. Officer, wasn't that the so-called first year we were freed from slavery? Right. So the first year we came out, we invented vehicles.
+- Damn. So Frederick Douglas Patterson was the first African-American to build a motorized car. Officer, wasn't that the so-called first year we were freed from slavery? So the first year we came out, we invented vehicles.
 
 - **An officer:** Yeah, we invented cars. Hey, that's why Esau tried so hard to keep us down, man. They tried their hardest to suppress our intellect. They want to keep us doing menial jobs, doing dumb stuff, you know, keep us on the plantation, because our minds, they couldn't, listen, once they freed us, they know our mind's a weapon. So it's like Deuteronomy 28:48 says: you're going to have a yoke of iron upon you until thou be destroyed. When our minds destroyed, they know they can remove that yoke of iron, because their true weapon, their mind, is destroyed, and they have no knowledge of themselves or their God. As long as we keep their mind in check, they're not going to go anywhere.
 
@@ -282,7 +278,7 @@ Reading from a post on Frederick Douglas Patterson, sent by the Elder  *[[48:42]
 
 - **An officer:** So once we start waking up, our mind start waking up, and we keeping these commandments, and we believe who we are, we know who we are, that's when the persecution is really going to come down. They're going to try to put us back in check by persecuting the body. But the Lord said, don't be afraid of those that could harm the body, right, but be afraid of him that could destroy the body and the soul in what? In hellfire.
 
-- **Deacon Eythan:** So hey, there was another TikTok. It was a sister who invented the HVAC system, coming out of, like, all praises for her for real. I think it was back in like 1890s or something like that, but she invented the HVAC system. God bless her soul. Oh, crazy. Hold on one second. Y'all want to say something? Officer, want to read that for you? 28. Yeah, read that. I'm trying to look for something real quick, man. Hold on. We sidebar a little bit, but it's all right.
+- **Deacon Eythan:** So hey, there was another TikTok. It was a sister who invented the HVAC system, coming out of, like, all praises for her for real. I think it was back in like 1890s or something like that, but she invented the HVAC system. God bless her soul. Oh, crazy. Y'all want to say something? Officer, want to read that for you? 28. Yeah, read that. I'm trying to look for something real quick, man. We sidebar a little bit, but it's all right.
 
 </div>
 
@@ -306,7 +302,7 @@ Reading from a post on Frederick Douglas Patterson, sent by the Elder  *[[48:42]
 
 - **An officer:** Into captivity every thought to the obedience of Christ. Not to the obedience of Esau, not to the obedience of our enemies, but to the obedience of Christ, our master, our Lord and our savior. We're supposed to be thinking upon him and the things he did, and how to follow him in keeping these commandments. That's what we're supposed to do. That's what he commanded us, all the way in Deuteronomy 10:12.
 
-- **Deacon Eythan:** Yeah, you ready, officer? I'm about to send it, I'm about to send it. One second.
+- **Deacon Eythan:** Yeah, you ready, officer? I'm about to send it, I'm about to send it.
 
 - **An officer:** 10:12, then I'll wrap it, finish. It's nothing new. This is nothing new. People think the New Testament is actually something new, but it's not. All of this been alluded to in the Old.
 
@@ -318,7 +314,7 @@ Reading from a post on Frederick Douglas Patterson, sent by the Elder  *[[48:42]
 
 - **An officer:** You see, we got to do these things, but at the same time we also have to serve him with our mind, with our heart, with our soul. It's not enough just going through the motions. We actually have to meditate on his laws day and night. That's what the Pharisees were doing: they were doing these things outwardly, but in their mind there was malice, there was hatred, there was fornications, there was adulteries. So here you are doing these things, coming to the Sabbath, you have fringes on, but then in your mind you got hatred for your brother, right? You're looking at your sister in lust, you're committing adultery, you're doing this, doing that. We're supposed to serve him in body and in spirit, with our mind. We're supposed to be meditating on these things all the time. It's not enough just doing them outwardly. You'll be a hypocrite just like the Pharisees. And he says if your righteousness doesn't surpass the righteousness of the Pharisees, you're not going anywhere. So you better take heed. We all should take heed.
 
-- **Deacon Eythan:** My bad. Hey, before, hey, shout out to Hezron for sending me, let me, hey, you all right? Let me share it real quick. He found a sister. I said HVAC. Yeah, yeah. Hey, read that real quick. Watch this.
+- **Deacon Eythan:** Hey, before, hey, shout out to Hezron for sending me, let me, hey, you all right? Let me share it real quick. He found a sister. I said HVAC. Yeah, yeah. Hey, read that real quick.
 
 <div class="reading">
 
@@ -326,7 +322,7 @@ Reading from an article on Alice H. Parker, sent by Hezron · read by an officer
 
 > Alice H. Parker, 1895 to 1920, was an African-American inventor who was active in the early 1900s. She is most widely recognized for her patent filed for a gas furnace,
 
-- So she invented the gas furnace. You know it's cold as hell. So remember, we used to use wood, wood logs and stuff like that, but that will only heat up but so far. She invented a whole gas furnace. Read on.
+- So she invented the gas furnace. You know it's cold as hell. So remember, we used to use wood, wood logs and stuff like that, but that will only heat up but so far. She invented a whole gas furnace.
 
 > which served as the basis for the development of modern heating systems in use today.
 
@@ -338,7 +334,7 @@ Reading from an article on Alice H. Parker, sent by Hezron · read by an officer
 
 > At the time, central gas heating had yet to be developed, so people relied on burning coal or wood as their main source of heating.
 
-- Right. If you've been to Tabernacles or whatever, you got to get around, you got to get up close. Yeah, right.
+- If you've been to Tabernacles or whatever, you got to get around, you got to get up close. Yeah, right.
 
 > While furnaces and the concept of central heating have been around since the Roman Empire, the science hardly advanced in the years that followed, and the heating methods utilized by the end of the 19th century were still relatively primitive in nature. Parker felt that the fireplace alone was not enough to keep her and her home warm during the cold New Jersey winter.
 
@@ -350,7 +346,7 @@ Reading from an article on Alice H. Parker, sent by Hezron · read by an officer
 
 - **An officer:** Enough is enough. Yo, it's similar to, in our affliction we going to seek him early. Like, yo, we going to seek the Lord now. And also, if you don't mind, when we done reading, I have scripture.
 
-- **Deacon Eythan:** Yes sir. Yes sir. All right, go ahead.
+- **Deacon Eythan:** Yes sir. Yes sir.
 
 </div>
 
@@ -372,7 +368,7 @@ Reading from a quote on hard times  *[[59:05](https://www.youtube.com/watch?v=eR
 
 > Weak men create hard times.
 
-- Yeah, weak men. So mind you, that gas furnace is global now. Global. Used global. It's not just here in America, it's global. And it's high as hell, the bill, high as hell, soon as you turn it on too. But anyway, good times create weak men, because we didn't know where that come from. Now you can just turn it, you got a thermostat, you just hit the button and turn it on. You ain't got to do nothing. Right? But she created the gas furnace, man, in hard times. All right, so that's a feat. Even though coming out of slavery and so forth, and the things we was going through, like the brother that created the car. So a lot of inventions and stuff was happening during slavery, coming out of slavery and so forth. So, you know, all praises.
+- Yeah, weak men. So mind you, that gas furnace is global now. Global. Used global. It's not just here in America, it's global. And it's high as hell, the bill, high as hell, soon as you turn it on too. But anyway, good times create weak men, because we didn't know where that come from. Now you can just turn it, you got a thermostat, you just hit the button and turn it on. You ain't got to do nothing. But she created the gas furnace, man, in hard times. All right, so that's a feat. Even though coming out of slavery and so forth, and the things we was going through, like the brother that created the car. So a lot of inventions and stuff was happening during slavery, coming out of slavery and so forth. So, you know, all praises.
 
 - **An officer:** Damn right. Hey, can we get Ecclesiastes 1 really quick? Because it's always been known in the scripture, even during that time, that Israelites were known for creating inventions. Like we talked about with the brother, sorry, not the brother, the Carthaginians that made the navies. Remember, King Solomon had a navy that went out three times in a year to get apes, peacocks and all those things. So those are things that are done over and over again. We create different inventions, but it's always done with wisdom. Read that really quick. Ecclesiastes 1, verse 9.
 
@@ -432,7 +428,7 @@ Reading from a quote on hard times  *[[59:05](https://www.youtube.com/watch?v=eR
 
 - **An officer:** Yep. Now we telling you, we telling time all the way back. Back when, I think, even the North Star used to be called the Phoenician star. We were the first ones to actually use it for navigation.
 
-- **Deacon Eythan:** Yeah, yeah. Damn. I look that up. Go ahead, read that.
+- **Deacon Eythan:** Yeah, yeah. Damn. I look that up.
 
 **[Isaiah 38:7-8](/bible/isaiah/38#v7)**  *[[1:06:10](https://www.youtube.com/watch?v=eRxU8lK57Aw&t=3970s)]*
 
@@ -440,7 +436,7 @@ Reading from a quote on hard times  *[[59:05](https://www.youtube.com/watch?v=eR
 >
 > <sup>[8](/bible/isaiah/38#v8)</sup> Behold, I will bring again the shadow of the degrees, which is gone down in the sun dial of Ahaz, ten degrees backward. So the sun returned ten degrees, by which degrees it was gone down.
 
-- You see that? So we had a sundial. All right, look, look, this is the sundial right here. So we told time by the sun. Read that, sundial.
+- So we had a sundial. All right, look, look, this is the sundial right here. So we told time by the sun. Read that, sundial.
 
 <div class="reading">
 
@@ -448,7 +444,7 @@ Reading from a definition of sundial · read by an officer  *[[1:06:48](https://
 
 > A sundial is a horological device that tells the time of day, referred to as civil time in modern usage, when direct sunlight shines, by the apparent position
 
-- Now hold on. Now this time, hey, in Isaiah, the Most High brought back the day before. He went back in time. He went back in time one day. Go ahead.
+- Now hold on. Now this time, hey, in Isaiah, the Most High brought back the day before. He went back in time. He went back in time one day.
 
 > when direct sunlight shines, by the apparent position of the sun in the sky. In the sense of the word, it consists of a flat plate, the dial. As the sun appears to move through the sky, the shadow aligns with different hour lines, which are marked on the dial to indicate the time of day.
 
@@ -456,7 +452,7 @@ Reading from a definition of sundial · read by an officer  *[[1:06:48](https://
 
 - Hey, oh my, hey, officer, remember, remember we just read in Ecclesiastes 1 that there's nothing new under the sun. We do the same things over and over again. Who created the clock in America? Benjamin Banneker, a black man. So it's the Israelites. Has always been used by the Lord to create the inventions that people need in the world.
 
-- Right. … Hey, sorry. But we started trying to tell time to get off the plantation, right? Like, yo, look, I got to get out of here. Where's the sun? It's break time. You know what I mean? So, but yeah, man. Hey, let's get back on track. All praise, all praises. Go now. Oh yeah, I wanted, give me that page, the first page I had before. Yep, blow that up. This is Travels in North Africa, Nahum Slouschz, 1927. Read that.
+- … Hey, sorry. But we started trying to tell time to get off the plantation, right? Like, yo, look, I got to get out of here. Where's the sun? It's break time. You know what I mean? So, but yeah, man. Hey, let's get back on track. Go now. Oh yeah, I wanted, give me that page, the first page I had before. Yep, blow that up. This is Travels in North Africa, Nahum Slouschz, 1927.
 
 </div>
 
@@ -478,19 +474,19 @@ Reading from *Travels in North Africa* by Nahum Slouschz, 1927, on the Carthagin
 
 > and of Zebulon lived in Carthage ever since the foundation of the city.
 
-- You see that? So we were in Carthage. All right? Primarily the tribes of Asher and Zebulon. I said primarily because, you know, probably remnants of the other tribes of us was there too. So primarily Asher and Zebulon. All right, that they were called Punic, from Phoenician, right? Punic. Okay. Read on.
+- So we were in Carthage. Primarily the tribes of Asher and Zebulon. I said primarily because, you know, probably remnants of the other tribes of us was there too. So primarily Asher and Zebulon. All right, that they were called Punic, from Phoenician, right? Punic.
 
 > On the most beautiful sarcophagus found among the ruins of Carthage there is a seal which bears a Hebrew inscription, such as were common in Jerusalem, to Joab. It is well known that this name is composed of two parts, and Jehovah is Father. A great lord of Carthage therefore bore the name of a Jew faithful to God. Equally surprising is the fact that the same name, that of David's general, figures in the folklore of Africa as the conqueror of that country.
 
-- Damn. Read that again, read that again.
+- Damn.
 
 > Equally surprising is the fact that the same name Joab, that of David's general, figures in the folklore of Africa as the conqueror of that country. This name may be met with at Tebessa. Other Phoenician inscriptions bear the theophoric forms of the name Jehovah, such as Joaz, Joel, etc.
 
-- So these names were found in Carthage. You had names like David, Joab, Joaz, Joel. So you had these names in Carthage. Now give me Matthew. Oh, you got something? I'm sorry.
+- So these names were found in Carthage. You had names like David, Joab, Joaz, Joel. So you had these names in Carthage. Now give me Matthew. Oh, you got something?
 
 - **An officer:** I was just going to mention what you just said, what it just said there about the same name Joab, that of David's general, figures in the folklore of Africa as the conqueror of that country. Remember, it was some stories in Kings and Chronicles where David would just send out Joab to go and take a city or country, and he would tell David, come before I take the city, so your name can be upon it. So David would send out Joab, and Joab would take a lot of the countries over by himself with his army. He's a one-man army himself. Remember the …, they feared, they said, yo, we're not coming back into the land until we found out David and Joab.
 
-- **Deacon Eythan:** Yo, in that same book, Nahum Slouschz, it said that the Philistines, the Philistines, we pushed them into North Africa, and they said Goliath, they know they descend from Goliath. And they said that when you mention the name David or Joab, anything like that, so much hatred come upon them. Like, you can't be amongst them and mention those names, because of the hatred they have for our forefathers, for we whipped they behind. All right.
+- **Deacon Eythan:** Yo, in that same book, Nahum Slouschz, it said that the Philistines, the Philistines, we pushed them into North Africa, and they said Goliath, they know they descend from Goliath. And they said that when you mention the name David or Joab, anything like that, so much hatred come upon them. Like, you can't be amongst them and mention those names, because of the hatred they have for our forefathers, for we whipped they behind.
 
 - **An officer:** It's like Columbus to the natives.
 
@@ -502,9 +498,9 @@ Reading from *Travels in North Africa* by Nahum Slouschz, 1927, on the Carthagin
 
 > <sup>[15](/bible/matthew/4#v15)</sup> The land of Zabulon, and the land of Nephthalim, by the way of the sea, beyond Jordan, Galilee of the Gentiles;
 
-- Galilee of the Gentiles. Hey, we have a map where Asher and Zebulon dwelt. Galilee. Why are they called Gentiles? Because guess what, they were following Baal, idolatry. So they became Gentiles. The northern kingdom became Gentiles, so they were called Gentiles. Blow that up. Yep. So you see that Asher dwelt right near the sea, near Tyre and Sidon, and then you have Zebulon right below. Okay.
+- Galilee of the Gentiles. Hey, we have a map where Asher and Zebulon dwelt. Galilee. Why are they called Gentiles? Because guess what, they were following Baal, idolatry. So they became Gentiles. The northern kingdom became Gentiles, so they were called Gentiles. Blow that up. Yep. So you see that Asher dwelt right near the sea, near Tyre and Sidon, and then you have Zebulon right below.
 
-- All right, you can take that down. All right, now give me, go back to Caesar and Christ. Go back to Caesar and Christ. Let's get back to Hannibal. Remember, it said Hannibal was of Semitic lineage. Semitic lineage. Next page. Hey, read this part right here. I'm trying to find another book that go along with that. The second paragraph.
+- All right, you can take that down. All right, now give me, go back to Caesar and Christ. Go back to Caesar and Christ. Let's get back to Hannibal. Remember, it said Hannibal was of Semitic lineage. Semitic lineage. Hey, read this part right here. I'm trying to find another book that go along with that. The second paragraph.
 
 <div class="reading">
 
@@ -512,11 +508,11 @@ Reading from *Caesar and Christ* by Will Durant, on the libraries of Carthage an
 
 > When the Romans destroyed Carthage, they presented the libraries they found there to their African allies.
 
-- So listen. When Rome destroyed Carthage, the libraries that we had, they gave it to Ham. They gave it to Ham. So you think Ham don't know? They have all. Ham, they look, they shared our records amongst themselves. All right? There's another book, that's the older book, 1670, it said that they destroyed a lot of our records. They burnt a lot of our, said the Romans burnt the Punic records. So they were burning some stuff, then they were giving some stuff over to Ham. All right? So they were sharing our records amongst themselves. Okay. Give me next page. Let's get to Hannibal, let's get to Hannibal real quick. Yep, yep, yep. Let me see. Next page. Read that.
+- So listen. When Rome destroyed Carthage, the libraries that we had, they gave it to Ham. They gave it to Ham. So you think Ham don't know? They have all. Ham, they look, they shared our records amongst themselves. There's another book, that's the older book, 1670, it said that they destroyed a lot of our records. They burnt a lot of our, said the Romans burnt the Punic records. So they were burning some stuff, then they were giving some stuff over to Ham. So they were sharing our records amongst themselves. Give me next page. Let's get to Hannibal, let's get to Hannibal real quick. Yep, yep, yep.
 
 > The Punic leader was now twenty-eight years old, at his prime in body and mind. In addition to a Carthaginian gentleman's schooling in the languages, literatures and history of Phoenicia and Greece, he had received a soldier's training through nineteen years in camp.
 
-- Right. Hey, so remember, the Spartans did the same thing. They call it the agoge, where you would go away to like a soldier's training, like a camp, to become a man, learn how to fight, all of that. So this, we was doing the same thing here.
+- Hey, so remember, the Spartans did the same thing. They call it the agoge, where you would go away to like a soldier's training, like a camp, to become a man, learn how to fight, all of that. So this, we was doing the same thing here.
 
 > He had disciplined his body to hardship, his appetite to moderation,
 
@@ -536,7 +532,7 @@ Reading from *Caesar and Christ* by Will Durant, on the libraries of Carthage an
 
 > The recruits liked him because he wore no distinctive dress, never rested till he had provided for his army's needs, and shared with them all sufferings and gains.
 
-- Right. Go to the next page. Let's skip around, get to the point. Go down. Yep, let's read here. I just want to get to where he conquered Italy. Hannibal conquering.
+- Go to the next page. Let's skip around, get to the point. Yep, let's read here. I just want to get to where he conquered Italy. Hannibal conquering.
 
 > Hannibal led his troops north toward Vienna, and then struck eastward into the Alps. Celtic hordes had crossed those ranges before him, and he too might have done it without extraordinary hardship, had it not been for the hostility of the Alpine tribes and the difficulty of getting his elephants through narrow or precipitous passages. Early in September, after a climb of nine days, he reached the summit and found it covered with snow. There he let his men and animals rest for two days, and then began the downward march, through passes steeper than the ascent, over roads sometimes buried by landslides and often paved with ice. Many soldiers and beasts lost their footing or tumbled to their deaths. Hannibal spurred on his despairing forces by pointing out to them in the distant south the green fields and sparkling streams of Italy,
 
@@ -548,7 +544,7 @@ Reading from *Caesar and Christ* by Will Durant, on the libraries of Carthage an
 
 > After seventeen days in the Alps
 
-- Go down, go down, go down. Let's start skipping around. Yep. Go down a little bit. Right there.
+- Let's start skipping around. Yep. Right there.
 
 > Hannibal now controlled all northern Italy,
 
@@ -556,7 +552,7 @@ Reading from *Caesar and Christ* by Will Durant, on the libraries of Carthage an
 
 > but he knew that he was still outnumbered ten to one by a resolute foe. His only hope laying in persuading
 
-- All right, so that's all you had? Right. Yeah, give me Wikipedia. How long, just put in, how long Hannibal ruled Italy. Some of y'all may already know this, because like I said, we went into it time past, but we may have some new people online, so we just going back over it, touching it briefly, about Hannibal. Blow that up. Read that.
+- All right, so that's all you had? Yeah, give me Wikipedia. How long, just put in, how long Hannibal ruled Italy. Some of y'all may already know this, because like I said, we went into it time past, but we may have some new people online, so we just going back over it, touching it briefly, about Hannibal. Blow that up.
 
 </div>
 
@@ -574,7 +570,7 @@ Reading from Wikipedia, on Hannibal in Italy · read by an officer  *[[1:19:32](
 
 > instead waging a war of attrition, the Fabian strategy. Carthaginian defeats in Hispania prevented Hannibal from being reinforced, and he was unable to win a decisive victory.
 
-- It says Carthaginian defeats in Hispania prevented Hannibal. His brother, Hasdrubal, was over in Spain. He had a war going on over there, so his brother wasn't able to come to his aid and help him. So with that happening, he was unable to win a decisive victory and keep ruling Italy. All right?
+- It says Carthaginian defeats in Hispania prevented Hannibal. His brother, Hasdrubal, was over in Spain. He had a war going on over there, so his brother wasn't able to come to his aid and help him. So with that happening, he was unable to win a decisive victory and keep ruling Italy.
 
 - **An officer:** So this is like, they were world powers during this time.
 
@@ -596,8 +592,6 @@ Reading from *The Black Man and His Antecedents*, the highlighted line on Hannib
 
 > Hanno, the father of Hamilcar and grandfather of Hannibal, was a Negro.
 
-- Read that again.
-
 - These are the antecedents. These are the antecedents. Hey, look up that word, antecedents. That's not an ordinary Negro word. Look that up real quick. Antecedents. So they know Hannibal was a Negro, a black man of Semitic lineage, because they know we are the Jews. They know that.
 
 - **An officer:** Damn. Whole lineage.
@@ -612,7 +606,7 @@ Reading from a definition of antecedent · read by an officer  *[[1:22:58](https
 
 > Antecedent: a thing or event that existed before
 
-- Go down, go down. Yeah. Okay, go to synonyms. Yeah, right there.
+- Yeah. Okay, go to synonyms. Yeah, right there.
 
 > Synonyms: precursor, forerunner, predecessor.
 
@@ -630,7 +624,7 @@ Reading from *The Black Man and His Antecedents* side by side with the page on t
 
 > Hanno, the father of Hamilcar and grandfather of Hannibal, was a Negro.
 
-- Hey, hey, pull up the other page again, that he was of Semitic lineage. Pull that page up. That's why we do what's called cross reference. You got to cross reference the books. Y'all lost that too, huh? Yep, there you go. Can you do a side by side? Yeah, do a side by side real quick. Oh, damn, I doubted y'all. I got it. Wow. Hold up. Yep. Bam. Read the Semitic genius first. Read that first.
+- Hey, hey, pull up the other page again, that he was of Semitic lineage. Pull that page up. That's why we do what's called cross reference. You got to cross reference the books. Y'all lost that too, huh? Yep, there you go. Can you do a side by side? Yeah, do a side by side real quick. Oh, damn, I doubted y'all. I got it. Yep. Bam. Read the Semitic genius first. Read that first.
 
 > The Semitic genius is grand, poetic, fierce, but it is destitute of humor. We know but of one celebrated man of Semitic lineage
 
@@ -642,17 +636,17 @@ Reading from *The Black Man and His Antecedents* side by side with the page on t
 
 > Hanno, the father of Hamilcar and grandfather of Hannibal, was a Negro.
 
-- Was a what? A Negro. He was an Israelite. Hannibal was a black man of Semitic lineage. They know that he was an Israelite. Read on. Watch this.
+- Was a what? A Negro. He was an Israelite. Hannibal was a black man of Semitic lineage. They know that he was an Israelite.
 
 > These are antecedents of the enslaved blacks on this continent.
 
-- Damn, damn. They know we all Israelites. Damn. All praises, all praises. All right, so you can drop that. You could drop that.
+- Damn, damn. They know we all Israelites. Damn. All right, so you can drop that. You could drop that.
 
 - We going to take a, should we take a break? Let's keep moving. Yeah, might as well. Yeah, let's keep moving. Give me Septimius Severus. We still dealing with the blacks that ruled Italy. Septimius Severus. Do y'all have that page? Septimius Severus. Y'all should, we went over it. Y'all should have it. It's been a while though. Caesar and Christ. Y'all may have, y'all may not.
 
 - **An officer:** While we waiting, get Job 8 and 8, my man.
 
-- **Deacon Eythan:** There it is. Oh, you got it. Never mind. Yeah, yeah, yeah, let's read that. This is chapter 29. Just go to Collapse of the Empire. Go to Collapse of the Empire.
+- **Deacon Eythan:** Oh, you got it. Never mind. Yeah, yeah, yeah, let's read that. This is chapter 29. Just go to Collapse of the Empire. Go to Collapse of the Empire.
 
 </div>
 
@@ -662,7 +656,7 @@ Reading from *Caesar and Christ* by Will Durant, chapter 29, The Collapse of the
 
 > The Collapse of the Empire, A.D. 193 to 305.
 
-- That was 29. All praises.
+- That was 29.
 
 > A Semitic dynasty.
 
@@ -670,11 +664,11 @@ Reading from *Caesar and Christ* by Will Durant, chapter 29, The Collapse of the
 
 > On January 1, 193, a few hours after the assassination of Commodus, the Senate met in a transport of happiness and chose as emperor one of its most respected members, whose just administration as prefect of the city had continued the finest traditions of the Antonines.
 
-- Take your time, take your time. All right, go down, go down, go down. Let's get to the point here. Next page. Let me see. Wait, wait, go back, go back, go back. Yeah, right here.
+- Take your time, take your time. Let's get to the point here. Wait, wait, go back, go back, go back. Yeah, right here.
 
 > Africa, which was at this time providing Christianity with its ablest defenders, gave birth, 146, and early schooling to Septimius. Brought up in a family of Punic-speaking Phoenicians, he studied literature and philosophy in Athens,
 
-- Right. So they let you know he's Israelite. He was a Punic-speaking Phoenician, right? Same as Hannibal.
+- So they let you know he's Israelite. He was a Punic-speaking Phoenician, right? Same as Hannibal.
 
 > and practiced law in Rome,
 
@@ -682,7 +676,7 @@ Reading from *Caesar and Christ* by Will Durant, chapter 29, The Collapse of the
 
 > despite the Semitic accent of his Latin. He was among the best educated Romans of his time, and liked to surround himself with poets and philosophers, but he did not allow philosophy to impede his wars, or poetry to soften his character. He was a man of handsome features, strong physique, and simple dress; hardy in hardship, clever in strategy, fearless in battle, ruthless in victory. He conversed with wit, judged with penetration, lied without scruple, loved money more than honor, and governed with cruelty and competence.
 
-- That's it on that. Hey, sir, see if you got the page now where it says that Septimius Severus was black. See, y'all know what I'm talking about? All right, hold on, hold on, hold on. Let me see. It's an old book. It's a real old book. Very old book. All right, all right, I'm sending it to you. Hold on, I'm sending it to you right now. One second. Officer, go ahead. You about to bring something out, right?
+- That's it on that. Hey, sir, see if you got the page now where it says that Septimius Severus was black. See, y'all know what I'm talking about? It's an old book. It's a real old book. Very old book. All right, all right, I'm sending it to you. Hold on, I'm sending it to you right now. Officer, go ahead. You about to bring something out, right?
 
 - **An officer:** Yeah, yeah. Get Job 8:8. Just touching on, because it's a lot of history that we going over, with the Carthaginians, the Holy Roman Empire, with Septimius, all this stuff. You hear these things, and it's a shocker when you hear them for the first time, for the first time listeners out there. That's why the scripture says this. Read that, Job chapter 8 and verse 8.
 
@@ -700,7 +694,7 @@ Reading from *Caesar and Christ* by Will Durant, chapter 29, The Collapse of the
 
 - **An officer:** We are but of yesterday. It doesn't matter what education you've been through. Some of you have been to college, that's your highest education. Some of you, your highest education was high school. Some of you have done many years in college. But guess what? We know nothing.
 
-- **Deacon Eythan:** Right, right, right. That's it? All praise. Hey, this book right here is from the 1700s. It's called The History of the Ancient Surnames of Buchanan. All right, so a book like this is just about ancient surnames, so you wouldn't think much is in it, right? Watch this. Start at the wall. The wall is the whole gist of what was being talked about here. Watch this.
+- **Deacon Eythan:** That's it? Hey, this book right here is from the 1700s. It's called The History of the Ancient Surnames of Buchanan. All right, so a book like this is just about ancient surnames, so you wouldn't think much is in it, right? Start at the wall. The wall is the whole gist of what was being talked about here.
 
 <div class="reading">
 
@@ -708,7 +702,7 @@ Reading from *The History of the Ancient Surnames of Buchanan*, a book from the 
 
 > So that from that adventure, that wall is said to have obtained the denomination, retained as yet, of Graham's Dyke; which denomination others assert to be taken from Emperor Severus,
 
-- All right, so now he says: so that from that adventure that wall is said to have obtained the denomination, retained as yet, of Graham's Dyke, which denomination others assert to be taken from Emperor Severus. Watch this. Read on.
+- All right, so now he says: so that from that adventure that wall is said to have obtained the denomination, retained as yet, of Graham's Dyke, which denomination others assert to be taken from Emperor Severus.
 
 > who repaired that wall,
 
@@ -716,7 +710,7 @@ Reading from *The History of the Ancient Surnames of Buchanan*, a book from the 
 
 > which was first begun by Julius Agricola,
 
-- So the wall was first begun by Julius Agricola. Right.
+- So the wall was first begun by Julius Agricola.
 
 > in the reign of the Emperor Domitian.
 
@@ -730,7 +724,7 @@ Reading from *The History of the Ancient Surnames of Buchanan*, a book from the 
 
 - Damn. Black as hell. And remember, he was a Punic Phoenician. He was an Israelite, right? The same as Hannibal.
 
-- Now, now, the Elder just sent me something else. Pull it. Go back to the page. Let me show you what Septimius Severus did. Go back. Yeah, right. Yep, those two right here. Watch this. Blow it up.
+- Now, now, the Elder just sent me something else. Pull it. Go back to the page. Let me show you what Septimius Severus did. Go back. Yeah, right. Yep, those two right here. Blow it up.
 
 </div>
 
@@ -748,15 +742,15 @@ Reading from Wikipedia, on Septimius Severus, sent by the Elder · read by an of
 
 > He was born in Leptis Magna, present day Libya, in the Roman province of Africa. As a young man he advanced through the customary succession of offices under the reigns of Marcus Aurelius and Commodus.
 
-- So he came up under Marcus Aurelius and Commodus. They were emperor. All right, read.
+- So he came up under Marcus Aurelius and Commodus. They were emperor.
 
 > Severus seized power after the death of the emperor Pertinax in 193, during the Year of the Five Emperors.
 
-- So he seized power and became emperor. Okay. He seized power in 193 A.D. All right. I think right before him it was Didius Julius, something like that, I forgot his name. All right, but it, that was the Year of the Five Emperors, but he was the one that seized power. He brought in, he ushered in the Dark Ages. Listen. The four emperors, but it said the year of the five. Five, yeah. So Septimius Severus is the one that ushered in the Dark Ages. It started with him, a black man. All right, watch this.
+- So he seized power and became emperor. He seized power in 193 A.D. I think right before him it was Didius Julius, something like that, I forgot his name. All right, but it, that was the Year of the Five Emperors, but he was the one that seized power. He brought in, he ushered in the Dark Ages. The four emperors, but it said the year of the five. Five, yeah. So Septimius Severus is the one that ushered in the Dark Ages. It started with him, a black man.
 
 > Pertinax's successor in Rome,
 
-- Hold on, hold on. Go up, go up. Is this all right? That's the other one I sent you, right? All right, go ahead. In Rome. We dealing with Rome, Italy.
+- Is this all right? That's the other one I sent you, right? In Rome. We dealing with Rome, Italy.
 
 > Didius Julianus, had bought the emperorship in an auction.
 
@@ -772,7 +766,7 @@ Reading from Wikipedia, on Septimius Severus, sent by the Elder · read by an of
 
 > The legions of Syria had proclaimed Pescennius … emperor. At the same time, Severus felt it reasonable to offer Clodius Albinus, the powerful governor of Britannia, who had probably supported Didius against him, the rank of Caesar, which implied some claim to the succession.
 
-- Now listen, listen. The fact of the matter is, we focusing on the fact that it was black men that ruled Italy, that ruled Rome. Okay? Now, we was in much evil at this time. Much, much evil. Now he, this Septimius Severus, ushered in the Dark Ages, but we still keeping the pagan customs of Rome. We were still doing the same thing as Rome. We were still being persecuted, okay? Those of us that was still trying to spread the gospel at that time was still being persecuted, even by him and other Negroes that came after him, all right, that ruled the Holy Roman Empire, as it was called. Okay. There was some evil. Even though it was black men that ruled, we was evil as hell in rulership.
+- Now listen, listen. The fact of the matter is, we focusing on the fact that it was black men that ruled Italy, that ruled Rome. Now, we was in much evil at this time. Much, much evil. Now he, this Septimius Severus, ushered in the Dark Ages, but we still keeping the pagan customs of Rome. We were still doing the same thing as Rome. We were still being persecuted, okay? Those of us that was still trying to spread the gospel at that time was still being persecuted, even by him and other Negroes that came after him, all right, that ruled the Holy Roman Empire, as it was called. There was some evil. Even though it was black men that ruled, we was evil as hell in rulership.
 
 > With his rear safe, he moved to the East and crushed Niger's forces at the Battle of Issus, 194. While campaigning against Byzantium, he ordered that the tomb of his fellow Carthaginian Hannibal be covered with fine marble.
 
@@ -780,11 +774,11 @@ Reading from Wikipedia, on Septimius Severus, sent by the Elder · read by an of
 
 > He devoted the following year to suppressing Mesopotamia and other Parthian vassals who had backed Niger. Afterwards, Severus declared his son Caracalla as his successor, which caused Albinus to be hailed emperor by his troops and to invade Gaul. After a short stay in Rome, Severus moved north to meet him. On 19th of February, 197,
 
-- Scroll down a little bit. I think that's it. Okay.
+- I think that's it.
 
 - You keep saying Niger …. You know you're scared to say it. Niger, Niger. Go ahead, say it. Go ahead, say it real quick. Say … …. The only way he know how to say it. You had to ask, get permission. Yeah, you got to get permission. I wonder if it's okay, can I say it for Massa? Damn.
 
-- All right, so what we showing you thus far is that Hannibal, a black man of Semitic lineage, ruled Italy 15 years. Then we brought up to Septimius Severus, 193 A.D., ushered in the Dark Ages, ruled Italy, ruled Rome. Okay? Black, of Semitic lineage, a black man. These were Israelites that ruled Italy. All right.
+- All right, so what we showing you thus far is that Hannibal, a black man of Semitic lineage, ruled Italy 15 years. Then we brought up to Septimius Severus, 193 A.D., ushered in the Dark Ages, ruled Italy, ruled Rome. Black, of Semitic lineage, a black man. These were Israelites that ruled Italy.
 
 </div>
 
@@ -794,15 +788,15 @@ Reading from *Sex and Race*, volume one, by J. A. Rogers, on the Moors in Italy 
 
 > Italy. The Moors also dominated parts of Italy.
 
-- Now let's move on to the Moors. Let's move on to the Moors. Very good book, it's volume one. Go down, go down. Yep, Italy right there.
+- Now let's move on to the Moors. Let's move on to the Moors. Very good book, it's volume one. Yep, Italy right there.
 
-- So we also dominated parts of Italy. Okay. What time period?
+- So we also dominated parts of Italy. What time period?
 
 > In 846 A.D. they laid siege to Rome.
 
 - Hey, hey, do y'all have, can you play a, there's a video, there's a movie called True Romance. The Elder always play it. True Romance. It's a movie clip, it's a scene with Christopher Walken. He got the one Edomite tied up, and he about to go into the history of the Moors in Sicily. That's it. Hey, make sure this not the clean version. Everyone says Niger. Hey, first off, go finish reading. Go back to the page, and then we'll play it.
 
-- Once again we was, all, listen, we was in Rome, ruling, and then we going to get into, we were slaves. All right? But we dominated Italy. We dominated Rome.
+- Once again we was, all, listen, we was in Rome, ruling, and then we going to get into, we were slaves. But we dominated Italy. We dominated Rome.
 
 > In 878 they captured Sicily from the Normans,
 
@@ -814,7 +808,7 @@ Reading from *Sex and Race*, volume one, by J. A. Rogers, on the Moors in Italy 
 
 > who at this period had a large infusion of German blood, due to the invasion of the Goths and Vandals.
 
-- So at this time you had brown babies. You know the brown babies of Germany from World War II? Well, look, this was an incidence of brown babies here in Italy, at this time, during when we was reigning, we was ruling. All right. For now, let's play the movie clip real quick. Y'all got the, y'all know what I'm talking about. All right.
+- So at this time you had brown babies. You know the brown babies of Germany from World War II? Well, look, this was an incidence of brown babies here in Italy, at this time, during when we was reigning, we was ruling. For now, let's play the movie clip real quick. Y'all got the, y'all know what I'm talking about.
 
 </div>
 
@@ -824,15 +818,15 @@ Reading from a clip from the movie *True Romance*, the scene on the Moors in Sic
 
 > I have one of those Chesterfields now. Oh no, no, don't bother. You're Sicilian, huh?
 
-- So he said, you a Sicilian, huh? Go ahead.
+- So he said, you a Sicilian, huh?
 
 > You know, I read a lot, especially about things about history. I find that … fascinating.
 
-- Oh, oh, stop it, stop it. So he said, I read a lot. He said, especially about history, and I find it fascinating. Go ahead.
+- Oh, oh, stop it, stop it. So he said, I read a lot. He said, especially about history, and I find it fascinating.
 
 > Here's a fact. I don't know whether you know or not. Sicilians were spawned by ….
 
-- That's how you say it. Not …. Niger …. …, the niggas. He said Sicilians was spawned by …. Go ahead. Yo, wait, look at my man's face. He don't know what to say. Like, oh snap.
+- That's how you say it. Not …. Niger …. …, the niggas. He said Sicilians was spawned by …. Yo, wait, look at my man's face. He don't know what to say. Like, oh snap.
 
 > You see, Sicilians have black blood pumping through their hearts. And if you don't believe me, you can look it up. Hundreds and hundreds of years ago, you see, the Moors conquered Sicily. And the Moors are …. You see, way back then, Sicilians were like wops from northern Italy. They all had blonde hair and blue eyes. But, well, then the Moors moved in there, and, well, they changed the whole country. They did so much … with Sicilian women, huh, that they changed the whole bloodline forever. That's why blonde hair and blue eyes became black hair and dark skin. You know, it's absolutely amazing to me to think that to this day, hundreds of years later, that Sicilians still carry that … gene.
 
@@ -842,7 +836,7 @@ Reading from a clip from the movie *True Romance*, the scene on the Moors in Sic
 
 > Your ancestors are …. Yeah. And your great great great great grandmother … the …. Yeah. And she had a half nigga kid. Now, if that's a fact, tell me, am I lying? Cuz you, you part eggplant. You're a cantaloupe.
 
-- Hey, hey, hold on, hold on. Pause. You see him taking a gun? He never shot no one himself before, but after he heard this, watch. He going to say it.
+- Hey, hey, hold on, hold on. You see him taking a gun? He never shot no one himself before, but after he heard this, watch. He going to say it.
 
 > I haven't killed anybody since 1984.
 
@@ -856,7 +850,7 @@ Reading from *Nature Knows No Color-Line* by J. A. Rogers, on Negroes in Italy �
 
 > Much Negro strain also came into Greece and Turkey through Arabia, whose people for many centuries have been much more mulatto than white. The same is true of Egypt and other parts of North Africa which were once under Turkish rule. Sir Richard Burton, Lawrence of Arabia and others tell of the absence of color prejudice among the Arabs, and of leaders who were, quote unquote, coal black. The inflow of Negroes into Italy, which had taken place under the Romans and the Moors, continued into the 17th century.
 
-- Right. So it says the inflow of Negroes into Italy, which had taken place under the Romans and the Moors, continued into the 17th century.
+- So it says the inflow of Negroes into Italy, which had taken place under the Romans and the Moors, continued into the 17th century.
 
 > The slavery of the whites and blacks extended from Constantinople to Rome. The Phoenicians and the Venetians and Genoese, great slave traders, brought Negroes in number to Italy, where they were used as soldiers,
 
@@ -872,11 +866,11 @@ Reading from *Nature Knows No Color-Line* by J. A. Rogers, on Negroes in Italy �
 
 - **An officer:** No, I'm not traumatized. That's, you know, I'm proud of that. I knew you was saying that was a good name at that time.
 
-- **Deacon Eythan:** But this, when it says pets of noble ladies. They call us pets of noble ladies. All right, this is Lucrezia Borgia. All right, Cesare Borgia's sister. Look who she has next to her: a young child. A young child, young Israelite black child. Yep. Okay. They looked at us as pets, man. And I didn't bring the book, Image of the Black in Western Art. I'll bring it next show. But I wanted to show, they said that they was having fun. They was having fun with us. Remember, they still do that today. They adopt these young black children, and then you find out they've been sexually abused, or they make the boys wear dresses and all this other stuff. They do that today. Hey, who the, is it Madonna? Madonna, she adopted, and the other one, Charlize Theron. Yeah, she's a true African-American. And, oh man, Angelina Jolie. Yes, that's what I think of. Yeah, they, young boys, but then they dress them up as girls. They having fun, man. They doing everything. Look at this. They have like a gay couple, yeah, like two men adopt these black children, and they sodomize.
+- **Deacon Eythan:** But this, when it says pets of noble ladies. They call us pets of noble ladies. All right, this is Lucrezia Borgia. All right, Cesare Borgia's sister. Look who she has next to her: a young child. A young child, young Israelite black child. Yep. They looked at us as pets, man. And I didn't bring the book, Image of the Black in Western Art. I'll bring it next show. But I wanted to show, they said that they was having fun. They was having fun with us. Remember, they still do that today. They adopt these young black children, and then you find out they've been sexually abused, or they make the boys wear dresses and all this other stuff. They do that today. Hey, who the, is it Madonna? Madonna, she adopted, and the other one, Charlize Theron. Yeah, she's a true African-American. And, oh man, Angelina Jolie. Yes, that's what I think of. Yeah, they, young boys, but then they dress them up as girls. They having fun, man. They doing everything. Look at this. They have like a gay couple, yeah, like two men adopt these black children, and they sodomize.
 
-- **An officer:** Wow. You got to think, why the hell they go all the way to Africa to get kids? You know, Africa, Haiti. They go to Haiti, they go all over, poor countries. They travel that far to get, they lust. That's what they want, them black kids.
+- **An officer:** You got to think, why the hell they go all the way to Africa to get kids? You know, Africa, Haiti. They go to Haiti, they go all over, poor countries. They travel that far to get, they lust. That's what they want, them black kids.
 
-- **Deacon Eythan:** So that same thing held true here. It started here. Go back to the page. Read on. Pets for noble ladies.
+- **Deacon Eythan:** So that same thing held true here. It started here. Go back to the page. Pets for noble ladies.
 
 > Three of the latter were Lucrezia Borgia, Isabella of Mantua, and Queen Isabella of Aragon. The latter wrote her agent in Venice asking him to send her a Negro blacker in color than the previous one.
 
@@ -884,7 +878,7 @@ Reading from *Nature Knows No Color-Line* by J. A. Rogers, on Negroes in Italy �
 
 > Unmixed Negroes were generally preferred in the courts and households of the rich to those with a white strain. In Sicily most of the slaves brought in were unmixed Negroes, accounting in part for the present dark color of its population. Levy, in an article on domestic slavery in the Middle Ages and its importance in anthropology, says the Negroes came from Bornu, and were therefore of the purest African strain. Along with these blacks were Saracens,
 
-- Right, so they called us, so now we getting into the part of us being enslaved. So understand: one, we ruled as Hannibal, Septimius Severus, then as the Moors. We also ruled Italy, right? But remember, Esau came back into power during the Renaissance. Okay. Give me that in Revelation. I should have pulled that before I started reading about Septimius Severus. Revelation 13, and I think you can start at verse one. The Bishop pulled it last night.
+- Right, so they called us, so now we getting into the part of us being enslaved. So understand: one, we ruled as Hannibal, Septimius Severus, then as the Moors. We also ruled Italy, right? But remember, Esau came back into power during the Renaissance. Give me that in Revelation. I should have pulled that before I started reading about Septimius Severus. Revelation 13, and I think you can start at verse one. The Bishop pulled it last night.
 
 </div>
 
@@ -894,21 +888,21 @@ Reading from *Nature Knows No Color-Line* by J. A. Rogers, on Negroes in Italy �
 
 > <sup>[2](/bible/revelation/13#v2)</sup> And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority.
 
-- Right. Satan gave Esau his power. His seat, and great authority.
+- Satan gave Esau his power. His seat, and great authority.
 
 > <sup>[3](/bible/revelation/13#v3)</sup> And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast.
 
-- So the head that was wounded to death was Rome, 193 A.D. That's when Septimius Severus came into the power. He ushered in the Dark Ages. Okay. That's when blacks, that we ruled for nearly hundreds and hundreds of years. All right. No, no, read verse three from the top again.
+- So the head that was wounded to death was Rome, 193 A.D. That's when Septimius Severus came into the power. He ushered in the Dark Ages. That's when blacks, that we ruled for nearly hundreds and hundreds of years. No, no, read verse three from the top again.
 
 - So that's the Roman Empire, wounded to death, all right, by Septimius Severus. Rome fell under Septimius Severus.
 
-- Now his deadly wound was healed, because Rome came back into power, the Renaissance. They came back into power during the Renaissance. Okay.
+- Now his deadly wound was healed, because Rome came back into power, the Renaissance. They came back into power during the Renaissance.
 
 > <sup>[4](/bible/revelation/13#v4)</sup> And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who is like unto the beast? who is able to make war with him?
 
-- Who is able to make war with him? Why? Because they have power. They have power: economic power and military power. All right. So ancient Rome fell. The ancient Roman Empire fell under Septimius Severus, 193 A.D. Then Rome, Rome's deadly wound was healed. They came back into power during the Renaissance period. All right. So now that's when they started expelling us from Spain, Portugal, Italy and so forth, and then they brought us back as slaves into these areas in Europe. All right. So that's what we reading now. We going into the part where we became slaves.
+- Who is able to make war with him? Why? Because they have power. They have power: economic power and military power. So ancient Rome fell. The ancient Roman Empire fell under Septimius Severus, 193 A.D. Then Rome, Rome's deadly wound was healed. They came back into power during the Renaissance period. So now that's when they started expelling us from Spain, Portugal, Italy and so forth, and then they brought us back as slaves into these areas in Europe. So that's what we reading now. We going into the part where we became slaves.
 
-- Hey, did y'all get that other page? The one that you had to log into. Was y'all able to get it? Ah, all right. I'll try to get it. Go back to Nature Knows No Color Line. Read it. Along with these blacks were Saracens.
+- Hey, did y'all get that other page? The one that you had to log into. Was y'all able to get it? Ah, all right. I'll try to get it. Go back to Nature Knows No Color Line. Along with these blacks were Saracens.
 
 <div class="reading">
 
@@ -916,7 +910,7 @@ Reading from *Nature Knows No Color-Line* by J. A. Rogers, continued · read by 
 
 > Along with these blacks were Saracens, who might have been of any color from black to white. White Saracen slaves were common too. Negro soldiers served beside white ones. It was a Negro who killed the Marquis de Pescara, French commander, at Castel Nuovo, Italy, in 1496. De Pescara had bribed the Negro to let him enter the castle, but the latter tricked him. In Venice, Negroes were gondoliers.
 
-- Right. So like I said, I left my book, but gondoliers were, they were like the boats. Yeah, they rode the boats, stood on them with the long sticks. Yep, that's what that was.
+- So like I said, I left my book, but gondoliers were, they were like the boats. Yeah, they rode the boats, stood on them with the long sticks. Yep, that's what that was.
 
 > The famous printer Aldo Manuzio had a Negro in his print shop, from whom came the phrase printer's devil.
 
@@ -932,9 +926,9 @@ Reading from *Nature Knows No Color-Line* by J. A. Rogers, continued · read by 
 
 - **An officer:** Get Psalms 106, verse 34.
 
-- **Deacon Eythan:** Got it. I posted the PDF for that thing they trying to get. Just like with, you download it. All praise. I'm over here struggling trying to pull it up. Hey, pull that up. We need that, we definitely need that. Go ahead, officer.
+- **Deacon Eythan:** Got it. I posted the PDF for that thing they trying to get. Just like with, you download it. I'm over here struggling trying to pull it up. Hey, pull that up. We need that, we definitely need that.
 
-- **An officer:** Just like when in Job it says we have to search out the acts of our forefathers, search out the ages. Well, what happened here is that we didn't remember what happened to our forefathers back then. Read. Psalms 106:34.
+- **An officer:** Just like when in Job it says we have to search out the acts of our forefathers, search out the ages. Well, what happened here is that we didn't remember what happened to our forefathers back then. Psalms 106:34.
 
 </div>
 
@@ -970,7 +964,7 @@ Reading from *Nature Knows No Color-Line* by J. A. Rogers, continued · read by 
 
 - **An officer:** And now we're servants unto them, instead of them being servants unto us. There you go, officer.
 
-- **Deacon Eythan:** All right. All praise, all praises. Hey, oh, all right, a break. I forgot. Yeah, I forgot about that. We almost done. Hey, read that. American Journal of Philology. I don't know if this is it. What is this? This it? Yeah. All right, go ahead.
+- **Deacon Eythan:** Hey, oh, all right, a break. I forgot. Yeah, I forgot about that. We almost done. Hey, read that. American Journal of Philology. I don't know if this is it. What is this? This it? Yeah.
 
 <div class="reading">
 
@@ -978,7 +972,7 @@ Reading from *Negroes in Classical Italy* by Frank Snowden, in the *American Jou
 
 > American Journal of Philology.
 
-- Oh snap. Yo, congratulations. … I heard you reading. Your brother told us how you be all in reading and …. My man, congratulations. American Journal of Philology. All right, all right, let's get to the point. Next page. Come on, come on, come on. Next one, next one. Keep going, keep going. Come on, bro, you're not even clicking the next page. All right, I'll tell you to stop. I forgot exactly what page it is, but right here. Go back. Yes. Blow that up, blow it up, blow it up. All right, good.
+- Oh snap. Yo, congratulations. … I heard you reading. Your brother told us how you be all in reading and …. My man, congratulations. American Journal of Philology. All right, all right, let's get to the point. Come on, bro, you're not even clicking the next page. All right, I'll tell you to stop. I forgot exactly what page it is, but right here. Go back. Yes. Blow that up, blow it up, blow it up. All right, good.
 
 > Provenance of Negro slaves in Italy. That most of the Negroes arrived in Italy as slaves is evident from the literary references to Ethiopian servants. The existence of well-established commercial relations between Italy and Africa would naturally point to certain African cities as the sources from which the Romans imported Negro slaves.
 
@@ -988,7 +982,7 @@ Reading from *Negroes in Classical Italy* by Frank Snowden, in the *American Jou
 
 - What you doing? What y'all doing, man? He wasn't done right there.
 
-- So remember, they had us as slaves. All right.
+- So remember, they had us as slaves.
 
 > The history of the Negro in classical Italy. The earliest mention of the Negroid type in Roman literature occurs in Plautus' description of a nurse. In the Eunuchus of Terence, an Ethiopian slave girl is one of two valuable gifts
 
@@ -1000,7 +994,7 @@ Reading from *Negroes in Classical Italy* by Frank Snowden, in the *American Jou
 
 > The Negro appears more frequently in the literature of the Empire than in Republican literature.
 
-- Go down, go down. Let me see. Oh, oh, hold on, hold on, hold on. During the principate of Tiberius. Read that.
+- During the principate of Tiberius.
 
 > During the principate of Tiberius, two Ethiopians carried the draped bier of a famed talking raven. Ethiopians were among those who enacted scenes from the lower world at nocturnal performances under Caligula.
 
@@ -1016,9 +1010,9 @@ Reading from *Negroes in Classical Italy* by Frank Snowden, in the *American Jou
 
 > Negro dancers are known also from a figure found in Campania. To approximately the same period belong the Negro participants in the worship of Isis.
 
-- So right here it says, during a gladiatorial exhibition which Nero gave to entertain, only Ethiopians, men, women and children, entered the theater. Okay. Meaning we were the only ones that was fighting against each other.
+- So right here it says, during a gladiatorial exhibition which Nero gave to entertain, only Ethiopians, men, women and children, entered the theater. Meaning we were the only ones that was fighting against each other.
 
-- Now give me the book real quick. Give me that book real quick, real quick, real quick. Ain't got much time. Imperial Rome. Imperial Rome. Old book that the Bishop brought out, way back, way back. Imperial Rome. All right, go to the page. Next page. Who do you see here? That's us. All right. That's an Israelite right there. It's a black man fighting a lion, and obviously the lion got the best of him. But you see the woolly hair. Okay. Next page. Read that.
+- Now give me the book real quick. Give me that book real quick, real quick, real quick. Ain't got much time. Imperial Rome. Imperial Rome. Old book that the Bishop brought out, way back, way back. Imperial Rome. All right, go to the page. Who do you see here? That's us. That's an Israelite right there. It's a black man fighting a lion, and obviously the lion got the best of him. But you see the woolly hair.
 
 </div>
 
@@ -1028,11 +1022,9 @@ Reading from *Imperial Rome*, an old book the Bishop brought out, on the games f
 
 > Bizarre games for gladiators.
 
-- Bizarre games. So I'm just laying back off of the Bishop's class, about the Colosseum and the gladiators and so forth. Watch this. Bizarre games for gladiators. And then go back to that page.
+- Bizarre games. So I'm just laying back off of the Bishop's class, about the Colosseum and the gladiators and so forth. Bizarre games for gladiators. And then go back to that page.
 
 > Hail, Emperor, those who are about to die salute you. With this solemn address, the gladiators scheduled to fight filed past the imperial box. Most of them were prisoners of war, slaves or criminals, sent through stern training schools. The night before, they had been feted at a lavish banquet, where fans came to eye favorites and gamblers to estimate odds. Now in the stands, peddlers hawked cold drinks, buns and sausages. The more unusual the contest, the better the Romans liked it.
-
-- Watch this.
 
 > Gladiators often fought with mismatched weapons. Negroes,
 
@@ -1040,17 +1032,17 @@ Reading from *Imperial Rome*, an old book the Bishop brought out, on the games f
 
 > a rare sight in Rome, were matched with each other.
 
-- We wasn't a rare sight in Rome. We was in Rome as the Jews. But they had us fighting each other. Okay. Now they gonna say, oh, Negroes, a rare sight in Rome. That's how they throw you off. Like we was just a rare sight, like it was one or two of us. No, we were the slaves there. Read that again.
+- We wasn't a rare sight in Rome. We was in Rome as the Jews. But they had us fighting each other. Now they gonna say, oh, Negroes, a rare sight in Rome. That's how they throw you off. Like we was just a rare sight, like it was one or two of us. No, we were the slaves there.
 
 > Negroes, a rare sight in Rome, were matched with each other.
 
-- Were what? Matched with each other. Oh gosh. Read it again.
+- Were what? Matched with each other. Oh gosh.
 
-- There you go. All right, so let's see some of the pictures here. Move it over. Yep, right there. Look, look at this. Black men, trumpeters and so forth. Go over, go over, move it over. Okay, there, there we are, gladiators. Go to the next page. Look at this. All right, so they still got these artifacts over in Rome. All right, now go back to the page. Go back to the Negroes in Classical Italy, by Frank Snowden. That book, by the way, is by Frank Snowden. I'm sorry, I ain't mentioned the title. Frank Snowden.
+- All right, so let's see some of the pictures here. Move it over. Yep, right there. Look, look at this. Black men, trumpeters and so forth. Go over, go over, move it over. Okay, there, there we are, gladiators. Go to the next page. Look at this. All right, so they still got these artifacts over in Rome. All right, now go back to the page. Go back to the Negroes in Classical Italy, by Frank Snowden. That book, by the way, is by Frank Snowden. I'm sorry, I ain't mentioned the title. Frank Snowden.
 
 - **An officer:** It don't make sense to say rare. They got so many photos of it. It don't make sense, bro. It don't make sense at all.
 
-- **Deacon Eythan:** They try to, you know, throw you off. The book, from the one we just reading, Classical Italy. Yeah. Come on, come on, come on. All right, Juvenal. Start at during a gladiatorial exhibition. We going to have to end it here.
+- **Deacon Eythan:** They try to, you know, throw you off. The book, from the one we just reading, Classical Italy. Yeah. All right, Juvenal. Start at during a gladiatorial exhibition. We going to have to end it here.
 
 </div>
 
@@ -1068,7 +1060,7 @@ Reading from *Negroes in Classical Italy* by Frank Snowden, continued · read by
 
 > Since Martial was a rather accurate observer of the passing scene, we may safely assume that Negroes were not uncommon in the Empire.
 
-- Thank you. They talking about we was a rare sight in Rome. No, we were not uncommon in the Empire. We were the slaves. All right.
+- They talking about we was a rare sight in Rome. No, we were not uncommon in the Empire. We were the slaves.
 
 > Aethiopes were present at the opening of the Colosseum in sufficient numbers to have attracted the attention of the poet. In addition to the references cited elsewhere in this paper, Martial mentions also
 >
@@ -1080,7 +1072,7 @@ Reading from *Negroes in Classical Italy* by Frank Snowden, continued · read by
 
 ## In Closing
 
-*[[2:15:10](https://www.youtube.com/watch?v=eRxU8lK57Aw&t=8110s)]* So we going to end it right there. We going to end it right there. Yo, we forgot to go to break to play the commercials. Damn. So we go play it now? We got time. Why don't we do the announcements and then just play it at the end. Yeah, yeah. All right, go ahead. All right, Israel, let's give a hand to the leadership for that class. All praise the Most High. Shout out to the leadership traveling out in Rome. Big moves, big moves right there. All praises. Let's get those announcements.
+*[[2:15:10](https://www.youtube.com/watch?v=eRxU8lK57Aw&t=8110s)]* So we going to end it right there. We going to end it right there. Yo, we forgot to go to break to play the commercials. Damn. So we go play it now? We got time. Why don't we do the announcements and then just play it at the end. Yeah, yeah. All right, Israel, let's give a hand to the leadership for that class. Big moves, big moves right there. Let's get those announcements.
 
 *[[2:18:00](https://www.youtube.com/watch?v=eRxU8lK57Aw&t=8280s)]* Hey, I would like to give a shout out: excellent job. And then I'd like to give a shout out also to the sister that made the wonderful breakfast this morning. All praise for that. So hey, tune in, Our Hidden History, live, next week. Hey, I still haven't gotten into the Arabs. We still haven't made that move yet. I still want to deal with, you know, since we went out to Rome, I wanted to touch on our people still being in Italy to this day. So next week we probably gonna continue that, so just tune in. All right, with that, we're going to say shalom, shalom.
 

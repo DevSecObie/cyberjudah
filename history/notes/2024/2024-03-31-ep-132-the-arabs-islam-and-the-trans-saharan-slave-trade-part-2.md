@@ -18,11 +18,11 @@ tags: ["Our Hidden History", "africa-moors", "edom-esau", "false-religion", "ido
 
 ## Introduction
 
-*[[14:38](https://www.youtube.com/watch?v=2V0QnBD64uA&t=878s)]* Shalom, shalom. Welcome back to another episode of Our Hidden History. You're now tuned into Our Hidden History radio show. All praises, all praises. So as the title, like I said before, we doing the Arabs, Islam and the Saharan slave trade. So we dealing with the Arabs, Islam and the Saharan slave trade. That's starting the new series that we're doing now. We going into the Arabs.
+*[[14:38](https://www.youtube.com/watch?v=2V0QnBD64uA&t=878s)]* You're now tuned into Our Hidden History radio show. So as the title, like I said before, we doing the Arabs, Islam and the Saharan slave trade. So we dealing with the Arabs, Islam and the Saharan slave trade. That's starting the new series that we're doing now. We going into the Arabs.
 
 But last week we… hey, shame on our people that's out there celebrating Easter, this pagan nonsense. Shame on you. Shame on you. You thinking Christ rose in two days? What they got, Good Friday.
 
-*[[15:29](https://www.youtube.com/watch?v=2V0QnBD64uA&t=929s)]* Pull that up. Pull up Good Friday, bring it out. I said I wasn't going to touch it, but the Spirit led. Good Friday, pull it up, Wikipedia.
+*[[15:29](https://www.youtube.com/watch?v=2V0QnBD64uA&t=929s)]* I said I wasn't going to touch it, but the Spirit led. Good Friday, pull it up, Wikipedia.
 
 ## Readings and Scriptures
 
@@ -40,7 +40,7 @@ Reading from the Wikipedia article on Good Friday · read by a brother  *[[15:35
 
 > According to the Church's ancient tradition, Good Friday is the only day in the whole year where Mass is not celebrated, because no consecration of the Eucharist takes place. It is also known as Holy Friday, Great Friday, Good Friday of the Passion of the Lord, Great and Holy Friday, also Holy and Great Friday.
 
-- Go down, go down. Because they say Christ died on Good Friday. That's what modern Christianity is saying. Now go to Easter, and put in Ishtar. Easter going into Ishtar, Astarte. We gonna show you where that come from. This is a righteous rant. Go to Easter Sunday first.
+- Because they say Christ died on Good Friday. That's what modern Christianity is saying. Now go to Easter, and put in Ishtar. Easter going into Ishtar, Astarte. We gonna show you where that come from. This is a righteous rant. Go to Easter Sunday first.
 
 </div>
 
@@ -84,7 +84,7 @@ Reading from the Wikipedia article on Easter · read by a brother  *[[17:58](htt
 
 > <sup>[8](/bible/matthew/12#v8)</sup> For the Son of man is Lord even of the sabbath day.
 
-- So the Lord Christ said, I'm the lord of the Sabbath. You understand? Christ say, I'm the lord of the Sabbath. So it makes sense that he will rise on the Sabbath, right? So three days and three nights from the Sabbath will give you what?
+- So the Lord Christ said, I'm the lord of the Sabbath. Christ say, I'm the lord of the Sabbath. So it makes sense that he will rise on the Sabbath, right? So three days and three nights from the Sabbath will give you what?
 
 - **A brother:** Wednesday.
 
@@ -100,7 +100,7 @@ Reading from the Ancient Origins article *The Ancient Pagan Origins of Easter* �
 
 > The date upon which Easter is held varies from year to year. It corresponds with the first Sunday following the full moon after the March equinox. It occurs on different dates around the world, since Western churches use the Gregorian calendar, while Eastern churches use the Julian calendar. While Easter as we know it today was never a pagan festival, its roots and many of its traditions have associated with ancient pagan customs and beliefs.
 
-- Go down, let me see, get some key points. Go down, go down. Yep, here we go. Resurrection as a symbol of rebirth. This is what y'all celebrating today. Watch this.
+- Go down, let me see, get some key points. Yep, here we go. Resurrection as a symbol of rebirth. This is what y'all celebrating today.
 
 > Resurrection as a symbol of rebirth. One theory that has been put forward is that the Easter story of crucifixion and resurrection is symbolic of rebirth and renewal and retells the cycle of the seasons, the death and return of the sun.
 
@@ -120,7 +120,7 @@ Reading from the Ancient Origins article *The Ancient Pagan Origins of Easter* �
 
 - There sat women weeping for who? For Tammuz. This was our women weeping for Tammuz. So we always been celebrating Tammuz. Tammuz represent the sun. That's who he represents. It all goes back to Nimrod. All this nonsense go back to Nimrod and Semiramis, the Queen of Heaven. That's all these pagan holidays go back to.
 
-- Go down to Easter. You see it says Section II, Easter, right there. Page 91. Go to the next page, I'm looking for where it started at Easter. Next page. Well, until you get it, give me Colossians 2 and 8.
+- Go down to Easter. You see it says Section II, Easter, right there. Page 91. Go to the next page, I'm looking for where it started at Easter. Well, until you get it, give me Colossians 2 and 8.
 
 **[Colossians 2:8](/bible/colossians/2#v8)**  *[[27:25](https://www.youtube.com/watch?v=2V0QnBD64uA&t=1645s)]*
 
@@ -150,7 +150,7 @@ Reading from *The Two Babylons* by Alexander Hislop, Section II, Easter · read 
 
 - **A brother:** Straight up. She's like, I'm still going, I'm still going, how I was raised up.
 
-- **Deacon Eythan:** She said, that's how I was raised up. Tradition. Read that again.
+- **Deacon Eythan:** She said, that's how I was raised up. Tradition.
 
 > Then look at Easter. What means the term Easter itself? It is not a Christian name. It bears its Chaldean origin on its very forehead. Easter is nothing else than Astarte, one of the titles of the Queen of Heaven, whose name, as pronounced by the people of Nineveh, was evidently identical with that now in common use in this country. That name, as found by Layard on the Assyrian monuments, is Ishtar.
 
@@ -166,11 +166,11 @@ Reading from *The Two Babylons* by Alexander Hislop, Section II, Easter · read 
 
 - Wait, these brothers knew their wives burning incense and they ain't checked them.
 
-- Hey, hold on. I'm sorry. That's just, it's the same thing today. Look at it. It's the same thing today. Who leads the black man to the church? The woman. It's the women, right? They dress us up, put you on your Easter suit, and the grandma lead you right to the church. You really don't want to go, but grandma or your mom, whoever is leading, leading you right to the church.
+- Hey, hold on. That's just, it's the same thing today. Look at it. It's the same thing today. Who leads the black man to the church? The woman. It's the women, right? They dress us up, put you on your Easter suit, and the grandma lead you right to the church. You really don't want to go, but grandma or your mom, whoever is leading, leading you right to the church.
 
 - **A brother:** Why? You got to show off your suit.
 
-- **Deacon Eythan:** You got to show that suit off. You know how much money I spent on that suit? You got to go get your Easter basket. Read it again.
+- **Deacon Eythan:** You got to show that suit off. You know how much money I spent on that suit? You got to go get your Easter basket.
 
 - They ain't said nothing. They knew that they wives is doing this. Just like today you got our men, brothers in the world, that know their wives is going to the church today. They know that, and they following right behind them to worship this nonsense.
 
@@ -184,7 +184,7 @@ Reading from *The Two Babylons* by Alexander Hislop, Section II, Easter · read 
 
 - **A brother:** Venus, Ishtar.
 
-- **Deacon Eythan:** Okay. Mother Nature, as the Queen of Heaven.
+- **Deacon Eythan:** Mother Nature, as the Queen of Heaven.
 
 - So go back to the book now.
 
@@ -230,7 +230,7 @@ Reading from *The Two Babylons* by Alexander Hislop, Section II, Easter, continu
 
 > <sup>[4](/bible/1-samuel/7#v4)</sup> Then the children of Israel did put away Baalim and Ashtaroth, and served the Lord only.
 
-- You see that? Remember Baal. Like in the book he said, if we was celebrating Baal, then we were celebrating Ashtaroth as well. They went hand in hand. You wasn't going to celebrate Baal and not celebrate Ashtaroth. They went hand in hand, because Ashtaroth was Baal's consort. Tammuz and the Queen of Heaven, they go hand in hand.
+- Remember Baal. Like in the book he said, if we was celebrating Baal, then we were celebrating Ashtaroth as well. They went hand in hand. You wasn't going to celebrate Baal and not celebrate Ashtaroth. They went hand in hand, because Ashtaroth was Baal's consort. Tammuz and the Queen of Heaven, they go hand in hand.
 
 - So Ashtaroth was the goddess of fertility. Go to Wikipedia, type in Ashtaroth real quick. And that's the spirit of feminism we have today. That's all it is. Today is women's day, basically. Today is women's day.
 
@@ -240,7 +240,7 @@ Reading from Wikipedia, on Astaroth and Astarte · read by a brother  *[[39:07](
 
 > Astaroth, also Asteroth, Astarot or Asteroth, in demonology, is known to be the Great Duke of Hell in the first hierarchy with Beelzebub and Lucifer. He is part of the evil trinity. He is known to be a male figure.
 
-- Wait, what the hell is this? Go down. Did you type in the right name? You see where it says not to be confused with Astarte?
+- Wait, what the hell is this? Did you type in the right name? You see where it says not to be confused with Astarte?
 
 - **A brother:** This must be something you be looking at on the weekdays or something. It was in the search history.
 
@@ -248,7 +248,7 @@ Reading from Wikipedia, on Astaroth and Astarte · read by a brother  *[[39:07](
 
 > Astarte is the Hellenized form
 
-- Go down. Name, let me see something. Name. Go down, go down, all the way down. Because she had many names. All right, that's all I want. Give me Psalm 64, and make a diligent search.
+- Name, let me see something. Name. Go down, go down, all the way down. Because she had many names. All right, that's all I want. Give me Psalm 64, and make a diligent search.
 
 </div>
 
@@ -256,7 +256,7 @@ Reading from Wikipedia, on Astaroth and Astarte · read by a brother  *[[39:07](
 
 > <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
 
-- You see that? So Esau. This is going into Esau. They search out sin, and they do what? They accomplish a diligent search. So that goes into the archaeology and so forth.
+- So Esau. This is going into Esau. They search out sin, and they do what? They accomplish a diligent search. So that goes into the archaeology and so forth.
 
 - Both the inward thought of every one of them. So their minds. And the heart is deep. So they are ten steps ahead. They think deep. When they researching this stuff, they go deep. Think about it: Easter. They conglomerate everything, with bunnies, and bunnies laying eggs, and all that nonsense, with Astarte, Ishtar, all that go back to Tammuz. They think deep, and they put all this stuff together, and then they give it to us, and now we out here celebrating it. Traditions of men. Here's the new way to worship the devil. That's all you're doing, worshipping the devil.
 
@@ -324,7 +324,7 @@ Reading from Wikipedia, on Astaroth and Astarte · read by a brother  *[[39:07](
 >
 > <sup>[10](/bible/genesis/16#v10)</sup> And the angel of the Lord said unto her, I will multiply thy seed exceedingly, that it shall not be numbered for multitude.
 
-- What verse you at? Verse 10. Read it again.
+- What verse you at? Verse 10.
 
 > <sup>[11](/bible/genesis/16#v11)</sup> And the angel of the Lord said unto her, Behold, thou art with child, and shalt bear a son, and shalt call his name Ishmael; because the Lord hath heard thy affliction.
 
@@ -358,9 +358,9 @@ Reading from Wikipedia, on Astaroth and Astarte · read by a brother  *[[39:07](
 
 - So that's the thing that's disturbing, or it takes away peace. When Hagar had brought an heir in, and Sarai couldn't, it took away peace and tranquility in the household. Therefore the hatred started to occur.
 
-- One second, I'm trying to pull this page up. Hey, it's a book called *Bible History*. Type in *Bible History*, volume one. Pull it up real quick. Go to books. There's no tab for books? Damn. Okay. While we wait for that, get Genesis 21 and 9.
+- One second, I'm trying to pull this page up. Hey, it's a book called *Bible History*. Type in *Bible History*, volume one. Go to books. There's no tab for books? Damn. While we wait for that, get Genesis 21 and 9.
 
-- Let me see. That's Genesis 21:9, right? Start up above a little bit. Start at verse one.
+- That's Genesis 21:9, right? Start up above a little bit. Start at verse one.
 
 **[Genesis 21:1-21](/bible/genesis/21#v1)**  *[[56:33](https://www.youtube.com/watch?v=2V0QnBD64uA&t=3393s)]*
 
@@ -426,7 +426,7 @@ Reading from Wikipedia, on Astaroth and Astarte · read by a brother  *[[39:07](
 
 > <sup>[20](/bible/genesis/17#v20)</sup> And as for Ishmael, I have heard thee: Behold, I have blessed him, and will make him fruitful, and will multiply him exceedingly; twelve princes shall he beget, and I will make him a great nation.
 
-- So the Lord say he's going to multiply Ishmael exceedingly. Twelve princes. How many? Twelve princes. So the Lord say he's going to make Ishmael a great nation. Twelve princes shall he have, and he's going to make him a great nation. But watch this. Read on.
+- So the Lord say he's going to multiply Ishmael exceedingly. Twelve princes. How many? Twelve princes. So the Lord say he's going to make Ishmael a great nation. Twelve princes shall he have, and he's going to make him a great nation. But watch this.
 
 - But the covenant with Isaac. Only with Isaac. But the Lord did say, look, I'mma bless Ishmael too. I'm going to give him 12 princes. He's gonna become a great nation. He's going to be blessed. But my covenant is with Isaac. And in Isaac thy seed. Go back to that part.
 
@@ -434,7 +434,7 @@ Reading from Wikipedia, on Astaroth and Astarte · read by a brother  *[[39:07](
 
 > <sup>[12](/bible/genesis/21#v12)</sup> And God said unto Abraham, Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah hath said unto thee, hearken unto her voice; for in Isaac shall thy seed be called.
 
-- You see that? For in Isaac shall thy seed be called. Now go back to Genesis 25.
+- For in Isaac shall thy seed be called. Now go back to Genesis 25.
 
 **[Genesis 25:12-18](/bible/genesis/25#v12)**  *[[1:02:40](https://www.youtube.com/watch?v=2V0QnBD64uA&t=3760s)]*
 
@@ -442,7 +442,7 @@ Reading from Wikipedia, on Astaroth and Astarte · read by a brother  *[[39:07](
 >
 > <sup>[13](/bible/genesis/25#v13)</sup> And these are the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebajoth; and Kedar, and Adbeel, and Mibsam,
 
-- Nebajoth. Go ahead. And Kedar.
+- Nebajoth. And Kedar.
 
 > <sup>[14](/bible/genesis/25#v14)</sup> And Mishma, and Dumah, and Massa,
 >
@@ -450,7 +450,7 @@ Reading from Wikipedia, on Astaroth and Astarte · read by a brother  *[[39:07](
 >
 > <sup>[16](/bible/genesis/25#v16)</sup> These are the sons of Ishmael, and these are their names, by their towns, and by their castles; twelve princes according to their nations.
 
-- These are the sons of Ishmael, and these are their names, by their towns and by their castles. Twelve princes. How many? Twelve princes, according to their nations. You see that? So Ishmael did have 12 princes, according to their nations.
+- These are the sons of Ishmael, and these are their names, by their towns and by their castles. Twelve princes. How many? Twelve princes, according to their nations. So Ishmael did have 12 princes, according to their nations.
 
 > <sup>[17](/bible/genesis/25#v17)</sup> And these are the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered unto his people.
 
@@ -462,7 +462,7 @@ Reading from Wikipedia, on Astaroth and Astarte · read by a brother  *[[39:07](
 
 - Read that again, and we going to check out this map. They dwelt from Havilah. So there's Havilah. So Ishmael's sons, the 12 princes, they dwelt from Havilah right here, unto Shur. Before Egypt. As thou goest toward Assyria. Go back up to Assyria. So that whole area, the whole area on down, which is now today known as what? Arabia. Saudi Arabia. So that's Arabia today, Saudi Arabia.
 
-- Now give me Josephus. I put it on the Telegram. Josephus, page 39. There's many translations of Josephus, I mean different editions, but this one is 1701. Damn. So it's a 1701 edition. Give me the next page, page 39. Blow it up. That's chapter 12.
+- Now give me Josephus. Josephus, page 39. There's many translations of Josephus, I mean different editions, but this one is 1701. Damn. So it's a 1701 edition. Give me the next page, page 39. Blow it up. That's chapter 12.
 
 <div class="reading">
 
@@ -484,7 +484,7 @@ Reading from Josephus, a 1701 edition, page 39, chapter 12 · read by a brother 
 
 > <sup>[25](/bible/genesis/17#v25)</sup> And Ishmael his son was thirteen years old, when he was circumcised in the flesh of his foreskin.
 
-- You see that? So Ishmael was circumcised when he was 13 years old. Hence, go back now. But the Arabians circumcised not till the age of 13 years. So they following their ancestor Ishmael, because Ishmael their ancestor.
+- So Ishmael was circumcised when he was 13 years old. Hence, go back now. But the Arabians circumcised not till the age of 13 years. So they following their ancestor Ishmael, because Ishmael their ancestor.
 
 <div class="reading">
 
@@ -524,7 +524,7 @@ Reading from Josephus, a 1701 edition, page 39, chapter 12, continued · read by
 
 > Abdel, Dumis, Masmus, Theman, Jetur, Nafis, Kasas, all which inhabit the lands which are between Euphrates and the Red Sea, the name of which country is Nabathea.
 
-- Right. So that's what we going to deal with after the break.
+- So that's what we going to deal with after the break.
 
 > These are they that began and made famous the nation of the Arabians, as well in respect of their prowess as of the dignity of Abraham.
 
@@ -534,7 +534,7 @@ Reading from Josephus, a 1701 edition, page 39, chapter 12, continued · read by
 
 *[[1:11:35](https://www.youtube.com/watch?v=2V0QnBD64uA&t=4295s)]* The break. A bishop speaks: some of you call me the general, and I appreciate that. The gospel hasn't been preached everywhere as yet; there's much work to be done. As we know, the 12 tribes of Israel, like James 1:1 said, were scattered throughout all nations. I need some volunteers. I need some of you mighty men to stand up: you deacons, captains, officers, soldiers. Stand up. I need volunteers to go on this mission. With Passover right around the corner, IUIC will now be presenting Passover Boom Cards, the ideal tool used to teach our princes and princesses the biblical history of Passover. They are also available in English and Spanish, so don't hesitate to grab your very own Boom Cards at boomlearning.com.
 
-Shalom family, Most High and Christ bless you. Bishop Kani: we're here, South by Southwest in Austin, Texas. The streets are full of people; we have some listen, some reject, but guess what, the word of God. Let's go. My expectations for the film is to leave with us a visual imprint on why we need to continue to make more films like what you see coming out of IUIC. Joseph's Dream was another good example. It gives the visual imagery. That's very important. We must be able to see things in our mind before we can act upon it. So what these films do, it actually puts a vision in our mind, and it gives us something to step towards, rather than somebody just, quote unquote, telling the story. Now we got visual aid that helps us in our tenacious drive towards the truth of the Bible, and that's good for our children as well.
+Shalom family, Most High and Christ bless you. Bishop Kani: we're here, South by Southwest in Austin, Texas. The streets are full of people; we have some listen, some reject, but guess what, the word of God. My expectations for the film is to leave with us a visual imprint on why we need to continue to make more films like what you see coming out of IUIC. Joseph's Dream was another good example. It gives the visual imagery. That's very important. We must be able to see things in our mind before we can act upon it. So what these films do, it actually puts a vision in our mind, and it gives us something to step towards, rather than somebody just, quote unquote, telling the story. Now we got visual aid that helps us in our tenacious drive towards the truth of the Bible, and that's good for our children as well.
 
 To the 12 tribes which are scattered abroad, greetings. So the same mission the disciples had is our mission today. Our mission is unlike any other mission throughout the world. I want everybody to understand that. There's no group on earth who has undertaken the true mission of the disciples of Christ: to resurrect and gather the 12 tribes of Israel, which have been scattered abroad. You may call it the diaspora today; the Bible uses other words, the scattered. But it's the same thing: our people, who suffered during the time of colonialization, forced migration, the sub-Saharan slave trade, the transatlantic slave trade. And it seems like our people have been forgotten about, but you are not forgotten. It's you who don't know. It's you Afro-Syrians who don't know your history. Going to the other side of India, you see the Dalits. Same thing on the Eastern Hemisphere: mass incarceration, police brutality, lynching. You brothers and sisters in South Sudan, your heritage goes far deeper than where you live. You are the children of God. Israel United in Christ, from the four corners of the countries, gather the 12 tribes of Israel. We going to take the world back.
 
@@ -542,23 +542,23 @@ From Australia and Indonesia: Shalom brothers and sisters, Most High in Christ b
 
 Solomon say, I am black. Tall, dark and handsome. This image came to the Congo, and this is what's happened to the people. We never backing down. We the new era of men, and we standing up.
 
-Then a clip from inside a basilica. Ask Malachi what happened. A black brother got mad and tried to attack Deacon Malachi. We're inside the basilica, nothing but … around. The only Israelite there besides us is a brother that's deceived by the false image of Christ, and he has a picture up there of Caesar. He's on the ground, so we go to take pictures, so Deacon Malachi goes up to him and says, hey bro, you know Jesus ain't white, right? Excuse me. Don't blaspheme here. How dare you come here to blaspheme the name of Jesus inside the tabernacle. Who are you? He's not white, man. Get out, get away. He get mad, and get up and push Deacon out, get mad and get angry. So we had to jump in between them. Whole scuffle going on. Edomites running out, they scared. Deep, man. Deep. All praise the Most High. The spirit was on him, man.
+Then a clip from inside a basilica. Ask Malachi what happened. A black brother got mad and tried to attack Deacon Malachi. We're inside the basilica, nothing but … around. The only Israelite there besides us is a brother that's deceived by the false image of Christ, and he has a picture up there of Caesar. He's on the ground, so we go to take pictures, so Deacon Malachi goes up to him and says, hey bro, you know Jesus ain't white, right? Excuse me. Don't blaspheme here. How dare you come here to blaspheme the name of Jesus inside the tabernacle. Who are you? He's not white, man. Get out, get away. He get mad, and get up and push Deacon out, get mad and get angry. So we had to jump in between them. Whole scuffle going on. Edomites running out, they scared. Deep, man. Deep. The spirit was on him, man.
 
 There will come a time when black people wake up and become intellectually independent enough to think for themselves, as other humans are intellectually independent enough to think for themselves. Then the black man will feel for other black people, and this new thinking and feeling will cause black people to stick together. And then at that point you'll have a situation where, when you attack one black man, you are attacking all black men. The word Gentiles means nations.
 
-*[[1:25:32](https://www.youtube.com/watch?v=2V0QnBD64uA&t=5132s)]* Hey, shalom. We back. We back from the break. Hey, put the number up real quick. Remember, you could call us or you could text us. All right, Israel, so getting back. Go back to Genesis 21 and verse 9. You got the Bible Hub? All right.
+*[[1:25:32](https://www.youtube.com/watch?v=2V0QnBD64uA&t=5132s)]* Hey, shalom. We back. We back from the break. Hey, put the number up real quick. Remember, you could call us or you could text us. All right, Israel, so getting back. Go back to Genesis 21 and verse 9. You got the Bible Hub?
 
 **[Genesis 21:9](/bible/genesis/21#v9)**  *[[1:29:18](https://www.youtube.com/watch?v=2V0QnBD64uA&t=5358s)]*
 
 > <sup>[9](/bible/genesis/21#v9)</sup> And Sarah saw the son of Hagar the Egyptian, which she had born unto Abraham, mocking.
 
-- So here it doesn't really explain in this verse of the chapter what the mocking meant. We knew it was something bad, because why? Abraham and Sarah, they kicked them out. They kicked Hagar and Ishmael out. Now give me Galatians 4:29. Shout out to Officer Manny. Give me Galatians 4:29.
+- So here it doesn't really explain in this verse of the chapter what the mocking meant. We knew it was something bad, because why? Abraham and Sarah, they kicked them out. They kicked Hagar and Ishmael out. Now give me Galatians 4:29. Give me Galatians 4:29.
 
 **[Galatians 4:29](/bible/galatians/4#v29)**  *[[1:30:00](https://www.youtube.com/watch?v=2V0QnBD64uA&t=5400s)]*
 
 > <sup>[29](/bible/galatians/4#v29)</sup> But as then he that was born after the flesh persecuted him that was born after the Spirit, even so it is now.
 
-- You see that? Read it again. He that was born after the flesh persecuted. Persecuted. Persecuted him that was born after the spirit. You see that? So he that was born after the flesh persecuted him that was born after the spirit. So saying what? Ishmael persecuted Isaac. That was the mocking. That was the mocking. Now give me the definition of mocking.
+- He that was born after the flesh persecuted. Persecuted. Persecuted him that was born after the spirit. So he that was born after the flesh persecuted him that was born after the spirit. So saying what? Ishmael persecuted Isaac. That was the mocking. That was the mocking. Now give me the definition of mocking.
 
 - **A brother:** We have a text, sir.
 
@@ -574,7 +574,7 @@ So they always called us negro. That's why they differentiated. In the Zondervan
 
 **Deacon Eythan:** They're letting you know, like, look, I'm not, because they know what black and negro means. It means us. So when you call them, I've seen multiple videos. So from Ethiopia to the West Coast, from the north to the south, they get offended when you give them those epithets. So you're correct. It was used to describe all of us that was in sub-Saharan Africa. That's what it was used to describe, all of us Negroes. But in the Zondervan, yes, under Ham it says being the father of the dark nations, not the Negroes, because that's talking about us. What you read is that Esau know who you are. That's what you read. Esau know that you are not of Ham. You come from Shem. He let you know the Negroes in America are from Shem. The Negroes that came over on slave ships are from Shem. He let you know you are Israelite. That's what you read.
 
-*[[1:34:00](https://www.youtube.com/watch?v=2V0QnBD64uA&t=5640s)]* Hey, give him the map. You got the map, you pulled it up? Do you have the one with the Kingdom of Judah? Because Esau always knew where we were, and even though they knew we from the tribe of Judah, they still called us Negroes. They still termed us Negroes. Pull up the one that says Negroland, so we get back to the class. So you see the maps here. These are old maps, these from the 1700s. You see it says Kingdom of Judah, Slave Coast. They knew that the Jews was there, but they still called us Negroes. You understand? So they knew the tribe of Judah was there, but they still termed us Negroes. As you can see, it says Negroland. Why? Because we was all in that area. We was all concentrated in that area. So in the Zondervan Bible dictionary under Ham, they know what they talking about. The scholars know what they're talking about. They know who we are.
+*[[1:34:00](https://www.youtube.com/watch?v=2V0QnBD64uA&t=5640s)]* Hey, give him the map. You got the map, you pulled it up? Do you have the one with the Kingdom of Judah? Because Esau always knew where we were, and even though they knew we from the tribe of Judah, they still called us Negroes. They still termed us Negroes. Pull up the one that says Negroland, so we get back to the class. So you see the maps here. These are old maps, these from the 1700s. You see it says Kingdom of Judah, Slave Coast. They knew that the Jews was there, but they still called us Negroes. So they knew the tribe of Judah was there, but they still termed us Negroes. As you can see, it says Negroland. Why? Because we was all in that area. We was all concentrated in that area. So in the Zondervan Bible dictionary under Ham, they know what they talking about. The scholars know what they're talking about. They know who we are.
 
 Also over here, the Native Americans, Gad, was also called Negroes. They know who to call Negroes. When it comes to Jacob, the 12 tribes, they call all of us Negroes. They call them tree … You look in the movie *The Revenant* with Leonardo DiCaprio, that's what he called them. And also, a couple of shows ago, I went into: even in ancient Rome they call us Negroes. Same thing, carry the same connotation. It means black. And they gave us that term there in ancient Rome as well. They called us Negroes. So they always differentiate. They always called us Negroes.
 
@@ -582,7 +582,7 @@ All right, so what's the next question?
 
 **Text:** Also, recently Hamite is used by … to describe Edomite and Ishmaelite invaders of North Africa. Are there any literary sources that go into the difference between real black Hamites and Semitic Negroes that fled into Africa?
 
-**Deacon Eythan:** *[[1:36:58](https://www.youtube.com/watch?v=2V0QnBD64uA&t=5818s)]* I'm going to deal with that later on in this episode. I'm going to go into that. We actually dealt with it, the Elder dealt with that already, went into the Berbers. Oh, I read it wrong, let me see that. I'm thinking of Ham, going in North, fleeing to Africa. Read it again. Oh, no, no. Never heard of that. I'm going to deal with Ham later on. We get into that. But nah, Esau never used that to describe Esau and Ishmael together. Esau and Ishmael, they did mix. They did mix in North Africa: Ishmael and Esau, and the Ottoman Turks. So you had the Ottoman Turks and you had Ishmaelites mixing, which was Esau and the Arabs. So yes, that did happen, but they wasn't called Hamites. No, that wasn't called Hamites. But like I said, I'm going to deal with that later on in the episode, with Ham fleeing into North Africa, and the Arabs as well. That's the only question? All right, let's get back. Go to the definition of mocking. Mock. Damn, I read that whole thing.
+**Deacon Eythan:** *[[1:36:58](https://www.youtube.com/watch?v=2V0QnBD64uA&t=5818s)]* I'm going to deal with that later on in this episode. I'm going to go into that. We actually dealt with it, the Elder dealt with that already, went into the Berbers. Oh, I read it wrong, let me see that. I'm thinking of Ham, going in North, fleeing to Africa. Oh, no, no. Never heard of that. I'm going to deal with Ham later on. We get into that. But nah, Esau never used that to describe Esau and Ishmael together. Esau and Ishmael, they did mix. They did mix in North Africa: Ishmael and Esau, and the Ottoman Turks. So you had the Ottoman Turks and you had Ishmaelites mixing, which was Esau and the Arabs. So yes, that did happen, but they wasn't called Hamites. No, that wasn't called Hamites. But like I said, I'm going to deal with that later on in the episode, with Ham fleeing into North Africa, and the Arabs as well. That's the only question? All right, let's get back. Go to the definition of mocking. Mock. Damn, I read that whole thing.
 
 <div class="reading">
 
@@ -622,7 +622,7 @@ Reading from a dictionary definition of mock · read by a brother  *[[1:38:40](h
 
 - Israel suffers violence. Those born after the spirit suffers violence. Those born after the spirit are being persecuted by those of the flesh, just like Ishmael was mocking Isaac. The same thing happens over and over and over again. But our people, without knowledge and understanding, want to serve under their oppressor. They want to keep following these idolatrous acts, these idol feasts. They want to keep doing all these nasty, wicked things, without knowing that these are our enemies, and we're supposed to be above them. But until we get ourselves right and realize who we are, that's not going to happen.
 
-- Give me the Bible Hub real quick. Go down to commentary. Go down, go down. Right there.
+- Give me the Bible Hub real quick. Go down to commentary. Right there.
 
 <div class="reading">
 
@@ -630,7 +630,7 @@ Reading from a commentary on Genesis 21:9 on Bible Hub · read by a brother  *[[
 
 > Mocking. The verb used here is the same as that rendered to laugh in Genesis 21:6, but in an intensive conjugation.
 
-- Hold on. It says mocking, the verb used here is the same as that rendered to laugh. Mocking, to laugh, in Genesis 21:6. But in an intensive conjugation.
+- It says mocking, the verb used here is the same as that rendered to laugh. Mocking, to laugh, in Genesis 21:6. But in an intensive conjugation.
 
 > What exactly Ishmael was doing is not said,
 
@@ -664,13 +664,13 @@ Reading from a commentary on Genesis 21:9 on Bible Hub · read by a brother  *[[
 
 - **Deacon Eythan:** You trying to take him out. You see a lot of videos: when the second child is born, the first child is jealous and trying to take the second child away from the parents and trying to get the attention. So imagine 14 years of being the only child, and now you're being disinherited. Now your younger brother is the rightful heir.
 
-- **A brother:** Hey, this a little sidebar, but I seen a video. This is Esau. These … went out on a date, and they left the five-year-old with the one-year-old at home. They went on a date. That five-year-old put the one-year-old in the oven, and turn that joint all the way up. So when they came back home, they say they smelt like burnt meat. It was the baby in the oven. But at five, he probably had hatred for that one-year-old. You understand? So that's why I brought that up. So now imagine 14 years difference.
+- **A brother:** Hey, this a little sidebar, but I seen a video. This is Esau. These … went out on a date, and they left the five-year-old with the one-year-old at home. They went on a date. That five-year-old put the one-year-old in the oven, and turn that joint all the way up. So when they came back home, they say they smelt like burnt meat. It was the baby in the oven. But at five, he probably had hatred for that one-year-old. So that's why I brought that up. So now imagine 14 years difference.
 
 - **Deacon Eythan:** Yeah. That was crazy. That's not the first time I heard that. I think they left a five-year-old and some other siblings by themselves. I don't know what it is about the kids putting them in the oven and turning that thing on, man, but that's like the second time I heard that. But yeah, you have him at 14. Just imagine what he's doing.
 
 > and by word and gesture derided and ridiculed him.
 
-- You see that? By word and gesture derided and ridiculed him. So it might have been something hidden going on. We don't know, it wasn't said. But we know he did persecute him.
+- By word and gesture derided and ridiculed him. So it might have been something hidden going on. We don't know, it wasn't said. But we know he did persecute him.
 
 - And you know, it kind of remind me of a Cain and Abel type of situation. Because you know how, say you out playing in the back, the parents is not looking or whatever, but your older brother, you about to do something. You got some evil in you.
 
@@ -690,7 +690,7 @@ Reading from a commentary on Genesis 21:9 on Bible Hub · read by a brother  *[[
 
 - Damn. That was heavy. That's why you supposed to have one wife, like the Bible says. The Lord said one wife. That's it. That's all you need to handle. You damn sure can't handle that today, trying to have multiple.
 
-- All right, so get out of that. Let's go to Nebajoth. Give me the Wikipedia, Nebajoth. Check the Telegram. Damn, I ain't send that to you. Go to Wikipedia then, and type in, I'll spell it out for you. No, you know what I want? Give me the book. Go to Telegram, page 255, you'll see it. It's called *An Exposition of the Whole Old Testament*. Pull that up.
+- All right, so get out of that. Let's go to Nebajoth. Give me the Wikipedia, Nebajoth. Damn, I ain't send that to you. Go to Wikipedia then, and type in, I'll spell it out for you. No, you know what I want? Give me the book. Go to Telegram, page 255, you'll see it. It's called *An Exposition of the Whole Old Testament*.
 
 - So that mocking goes into persecuting. That mocking was a little deeper than we thought it was. Like in the Bible Hub it says ridicule and gesture. So it was a lot going on. It wasn't just words, especially for Sarah to want Abraham to send Hagar and Ishmael away a second time.
 
@@ -712,7 +712,7 @@ Reading from *An Exposition of the Whole Old Testament, Critical, Doctrinal and 
 
 - So the Nabathaeans. This is Ishmael's firstborn, Nebajoth. I know I'm tearing his name, I'm saying it all crazy. Nebajoth, his posterity is the Nabataeans, the descendants today. The Arabs. Now it says that they inhabited Petra. So when did the Arabs get into Petra? Because there was a doctrine that says Esau is the Arabs. But that's not true. But watch this. When did they get into Petra?
 
-- Give me Nabathaeans, page 2114, on the Telegram. When did the Arabs get into Petra? Because Esau held Petra. That was Esau's capital. Read the bottom part here. Go up. That little dark highlight right there. Read that. Watch this. Captain Joel brought this out episodes ago, when we going over Herod and the Amalekites.
+- Give me Nabathaeans, page 2114, on the Telegram. When did the Arabs get into Petra? Because Esau held Petra. That was Esau's capital. Read the bottom part here. That little dark highlight right there. Captain Joel brought this out episodes ago, when we going over Herod and the Amalekites.
 
 </div>
 
@@ -764,7 +764,7 @@ Reading from a further book on the descendants of Esau · read by a brother  *[[
 
 > founded Rome and the Roman Empire.
 
-- So they founded Rome and the Roman Empire. Drop that. Go to the next page real quick. Hold on, hold on. Give me the *History of Rome* real quick, page 12. Go down to the bottom. I just want that first line, that first couple lines.
+- So they founded Rome and the Roman Empire. Drop that. Go to the next page real quick. Give me the *History of Rome* real quick, page 12. Go down to the bottom. I just want that first line, that first couple lines.
 
 </div>
 
@@ -774,9 +774,9 @@ Reading from *History of Rome*, page 12 · read by a brother  *[[1:59:41](https:
 
 > The ruins of Petra, the capital of the … or Idumeans.
 
-- You see that? Petra was the capital of the …, or who? Or Idumeans. Because Idumea is Greek for Edom. So Petra, before the Nabathaeans came in there, was the capital of Esau. It was the capital of the … and Idumeans. But once Esau left and subjugated Italy and spread, once we went into captivity and they subjugated Italy and spread their colonies far and wide, then the Nabathaeans came in. The Arabs came in and took Petra.
+- Petra was the capital of the …, or who? Or Idumeans. Because Idumea is Greek for Edom. So Petra, before the Nabathaeans came in there, was the capital of Esau. It was the capital of the … and Idumeans. But once Esau left and subjugated Italy and spread, once we went into captivity and they subjugated Italy and spread their colonies far and wide, then the Nabathaeans came in. The Arabs came in and took Petra.
 
-- Next page. Give me the dictionary now, of Amalekites. Watch this.
+- Give me the dictionary now, of Amalekites.
 
 </div>
 
@@ -786,7 +786,7 @@ Reading from a dictionary entry on the Amalekites · read by a brother  *[[2:00:
 
 > Amalekites. A tradition prevails that a small number of the Amalekites colonized a part of Greece, and were the stock whence the Macedonians and Spartans sprung.
 
-- You see that? So a tradition. No, read everything. Read the whole thing.
+- So a tradition. No, read everything. Read the whole thing.
 
 > Amalekites, a powerful people who dwelt in Arabia Deserta, between the Red and Dead Seas.
 
@@ -798,7 +798,7 @@ Reading from a dictionary entry on the Amalekites · read by a brother  *[[2:00:
 
 > and were the stock whence the Macedonians and Spartans sprung.
 
-- So he let you know that the Macedonians were Amalek. That's what he let you know. Like I said, Captain Joel brought that out a couple of shows ago. Drop that. Now give me where this whole thing started from. Give me Herod now. Because they shy to say Herod is a Nabataean. That's where it comes from. Wikipedia. Let me see. You know what, drop that. Go straight to Nabataean. Petra, Wikipedia. Watch this.
+- So he let you know that the Macedonians were Amalek. That's what he let you know. Like I said, Captain Joel brought that out a couple of shows ago. Drop that. Now give me where this whole thing started from. Give me Herod now. Because they shy to say Herod is a Nabataean. That's where it comes from. Wikipedia. You know what, drop that. Go straight to Nabataean. Petra, Wikipedia.
 
 </div>
 
@@ -808,7 +808,7 @@ Reading from the Wikipedia article on Petra · read by a brother  *[[2:02:40](ht
 
 > Petra is a historic and archaeological city, famous for its rock-cut architecture and water conduit system. Petra is also called the Rose City because of the colour of the sandstone from which it is carved. It was famously called a rose-red city half as old as time in an 1845 poem by John Burgon.
 
-- Go down, go down. I don't want all that. Go up, you missed something. I want the beginning of this paragraph. Right here.
+- I don't want all that. Go up, you missed something. I want the beginning of this paragraph.
 
 > The area around Petra has been inhabited from as early as 7000 BC, and the Nabataeans might have settled in what would become the capital city of their kingdom as early as the 4th century BC.
 
@@ -838,7 +838,7 @@ Reading from the Wikipedia article on Petra · read by a brother  *[[2:02:40](ht
 
 - **Deacon Eythan:** That's why I'm about to go to it. I'm about to squash the confusion.
 
-- **A brother:** Can I bring out a scripture on that real quick, concerning Edom? Can I get Revelation 12:9? Because what Esau like to do is play head games, and they have washed up history so much, where they've whitewashed everything. They got everybody believing that they're everything and everyone. They literally have confused and deceived the whole world, and the Bible says this. Watch this.
+- **A brother:** Can I bring out a scripture on that real quick, concerning Edom? Can I get Revelation 12:9? Because what Esau like to do is play head games, and they have washed up history so much, where they've whitewashed everything. They got everybody believing that they're everything and everyone. They literally have confused and deceived the whole world, and the Bible says this.
 
 </div>
 
@@ -866,7 +866,7 @@ Reading from a table of the Herods · read by a brother  *[[2:08:09](https://www
 
 - **A brother:** After you finish with the Wikipedia, I got an Instagram video I just posted. It go along with this.
 
-- **Deacon Eythan:** All right. We going to show you the confusion in this Wikipedia. Because I remember a captain brought it out: Wikipedia, they go in and they change stuff. You understand? They got the ability to do that. So they go in, they make changes and confuse you. Watch this.
+- **Deacon Eythan:** We going to show you the confusion in this Wikipedia. Because I remember a captain brought it out: Wikipedia, they go in and they change stuff. They got the ability to do that. So they go in, they make changes and confuse you.
 
 </div>
 
@@ -876,7 +876,7 @@ Reading from the Wikipedia article on Herod the Great · read by a brother  *[[2
 
 > Herod I, or Herod the Great, 72 BCE to 4 BCE, was a Roman Jewish client king of the Herodian kingdom of Judea. He is known for his colossal building projects throughout Judea. Among these works are the rebuilding of the Second Temple of Jerusalem and the expansion of its base, the Western Wall being part of it. Vital details of his life are recorded in the works of the first-century CE Roman Jewish historian Josephus.
 
-- Go down, go down, go down. Yep, right there. Watch this nonsense. This is confusion.
+- Yep, right there. Watch this nonsense. This is confusion.
 
 > Biography. Herod was born around 72 BCE in Idumea, south of Judea. He was the second son of Antipater the Idumean,
 
@@ -884,7 +884,7 @@ Reading from the Wikipedia article on Herod the Great · read by a brother  *[[2
 
 > a high-ranking official under ethnarch Hyrcanus II, and Cypros, an Arab princess from Petra, in present-day Jordan. Herod's father was by descent an Edomite;
 
-- There you go. Right there. Watch this. They give you the answer right there. Herod was an Edomite. That's true.
+- Right there. They give you the answer right there. Herod was an Edomite. That's true.
 
 > his ancestors had converted to Judaism. Herod was raised as a Jew. Strabo, a contemporary of Herod, held that the Idumeans, whom he identified as of Nabataean origin,
 
@@ -912,13 +912,13 @@ Reading from a commentary on Acts 12, the imprisonment and deliverance of Peter 
 
 > Imprisonment and deliverance of Peter. Death of Herod. Acts 12. Herod the king. This was Herod Agrippa I. He was the son of Aristobulus, grandson of Herod the Great, and nephew of Herod Antipas. He was born about 10 BC, and was educated at Rome in the court of the emperor Tiberius. He was an Idumean, or Amalekite.
 
-- Read that again. He was an Idumean, or Amalekite. Can't get around that. Cannot. Can't get around that. Esau. Herod was an Amalekite. That's it. And Idumean are Amalekite. Let you know that Idumea is Amalek, Esau. Same people. Same people.
+- He was an Idumean, or Amalekite. Can't get around that. Cannot. Can't get around that. Esau. Herod was an Amalekite. That's it. And Idumean are Amalekite. Let you know that Idumea is Amalek, Esau. Same people. Same people.
 
 > One of the hereditary enemies of the Jewish people.
 
 - Dang. And he was ruling over us. Rome gave him authority to rule over us. Like you said, the … is over us. They was over us at that time. They over us now. They got the same position. Same thing. No new thing under the sun. Hey, that video downloaded?
 
-- If it ain't finished, we got to end it. All right, go ahead, play it.
+- If it ain't finished, we got to end it.
 
 </div>
 
@@ -932,19 +932,19 @@ Reading from a video on the Khazarian Empire and the name stealers, played on ai
 >
 > We have that same expression arising from Europe in 800 AD. That was when it was written down, in 800 AD, in Europe: watch out for the name stealers. Don't have anything to do with them, all of this kind of stuff. You're just going to get into trouble.
 
-- Hold on. So they turned Esau name stealers. Moab and us. In Europe we called them name stealers. But he's going to say why.
+- So they turned Esau name stealers. Moab and us. In Europe we called them name stealers. But he's going to say why.
 
 > And the name stealers referenced in China, that goes back even further than that. Now this was written down in 800 AD; they may have had it for a thousand years before that as part of their heritage. In the *Codex Orinda*, this is where I'm referencing it, but it's written down in other literature. I think even Chaucer had a little bit of an allusion to it. But in any event, so it goes back some period of time, and these are the name stealers, because the Khazarians were this group.
 >
 > Now in China they described it as: if you go far enough west, you will run into these people that will invite you into their village as a traveler. They will feed you, you will have a nice drink, you have a great night, they put you in the best bed in the inn, and then they kill you. Then they kill you. They take all of your possessions and they steal your name. Now while you're having dinner with them, and they're getting you drunk and stuff, and they're drugging you up, they were known to really use drugs and be black magic kind of people.
 
-- A lot of black magic. Hey, don't that sound like what's happening in the music industry? They use drugs and black magic. That's what they do. Keep going.
+- A lot of black magic. Hey, don't that sound like what's happening in the music industry? They use drugs and black magic. That's what they do.
 
 > They are known for doing this kind of stuff. It is associated with the ability to know how certain drugs will affect the mind, et cetera, et cetera, and you can introduce them into food. So mostly a lot of magic per se is dealing with drug states for the mind. In that aside, the Chinese had the saying, or had the understanding, that if you went there, they would get your story. They would steal your name and your story. And so the Khazarians were known by the Chinese.
 >
 > But it was known on both sides. So if you were over here and you were going to try and do business with the Chinese, and you went through there, you might run into one of these groups of the Khazarians that would kill you after learning everything they could about you. They would steal your story, then they would go to China, pretend to be you, make the deal, and then go back, and the deal never happened. So they're … both, really. That was the thing. These were truly evil people. Now both sides of the trade equation understood that there were nasty people, and in the *Codex Orinda* they're described as being to the East, and the Chinese are describing them as being to the West.
 
-- Wow. Worse than a thief. They take everything. They take your story. They oppress a man and his heritage.
+- Worse than a thief. They take everything. They take your story. They oppress a man and his heritage.
 
 - **A brother:** So they know. That's all they do. They have nothing of their own, so they go and steal everything they got.
 
@@ -958,9 +958,9 @@ Reading from a video on the Khazarian Empire and the name stealers, played on ai
 
 *[[2:20:45](https://www.youtube.com/watch?v=2V0QnBD64uA&t=8445s)]* All right, hey, so look, we're going to end it there. So all praises the Most High. Next week we still going to be dealing with the Arabs. We're going to be going into the history: the different captivities that we were in, and who the Arabs were, and how they affected us.
 
-*[[2:21:07](https://www.youtube.com/watch?v=2V0QnBD64uA&t=8467s)]* **A brother:** All praises. Let's give a round of applause for yet another good radio show. Amazing radio show. Went over the history today. Got history on the Arab slave trade, got history on Easter. So like he said, next week we're gonna be back again, Lord's will, life last.
+*[[2:21:07](https://www.youtube.com/watch?v=2V0QnBD64uA&t=8467s)]* **A brother:** Let's give a round of applause for yet another good radio show. Amazing radio show. Went over the history today. Got history on the Arab slave trade, got history on Easter. So like he said, next week we're gonna be back again, Lord's will, life last.
 
-*[[2:22:50](https://www.youtube.com/watch?v=2V0QnBD64uA&t=8570s)]* **Deacon Eythan:** You done did good. You done good, I'm proud of you, man. All praises. Hey, I want to give a shout out to IT, man. All praises. And the sisters that made the breakfast. Who we got back there? Officer Amos, right? All praises. And shout out to the sisters for the breakfast. Hey, we ain't eat it yet, but we about to dig in. So shout out to them. All right, next week, life last, OHH. We'll see you then. Shalom, shalom.
+*[[2:22:50](https://www.youtube.com/watch?v=2V0QnBD64uA&t=8570s)]* **Deacon Eythan:** You done did good. You done good, I'm proud of you, man. Hey, I want to give a shout out to IT, man. And the sisters that made the breakfast. Who we got back there? Officer Amos, right? Hey, we ain't eat it yet, but we about to dig in. All right, next week, life last, OHH. We'll see you then. Shalom, shalom.
 
 ## Announcements & References
 

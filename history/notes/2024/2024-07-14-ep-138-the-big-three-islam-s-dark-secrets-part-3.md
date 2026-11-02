@@ -18,7 +18,7 @@ tags: ["Our Hidden History", "captivity", "islam-arabs", "nations"]
 
 ## Introduction
 
-*[[12:40](https://www.youtube.com/watch?v=g0JX4blJp1w&t=760s)]* Shalom, shalom. We're back, we're back, we're back. Out here, history. We're back on. My mind is all over right now, but bear with us. You are now tuned into Our Hidden History radio show. We're back.
+*[[12:40](https://www.youtube.com/watch?v=g0JX4blJp1w&t=760s)]* You are now tuned into Our Hidden History radio show.
 
 *[[13:00](https://www.youtube.com/watch?v=g0JX4blJp1w&t=780s)]* So let's begin. We're still with the trans-Saharan slave trade. Get me Psalms 60 verse 8. Let's just open up with it. Let's just jump right into it. A lot of reading today, a lot of reading today, so bear with us.
 
@@ -54,7 +54,7 @@ Reading from the Wikipedia article on the trans-Saharan slave trade  *[[14:49](h
 
 > And the trans-Saharan trade routes conveyed a significant number of this total, with one estimate tallying around 7.2 million slaves crossing the Sahara from the mid 7th century until the 20th century, when it was abolished.
 
-- Wait, wait. It says what? What century was it abolished?
+- It says what? What century was it abolished?
 
 - 7.2 million slaves from the Sahara, from the mid 7th century until the 20th century when it was abolished. That's a long time, and that's very recent.
 
@@ -62,7 +62,7 @@ Reading from the Wikipedia article on the trans-Saharan slave trade  *[[14:49](h
 
 - Berbers in the modern sense were Arabs and Hamites. Well, Arabs, primarily Arabs. But earlier, the original Berbers were our people that lived there first.
 
-- All right, so now go to... find in the early slave trade, I should say. Let me see. Okay, we'll start at early slave trade, and we're going to end at desert.
+- All right, so now go to... find in the early slave trade, I should say. Okay, we'll start at early slave trade, and we're going to end at desert.
 
 > In the early Roman Empire, the city of Leptis established a slave market to buy and sell slaves from the African interior.
 
@@ -84,13 +84,13 @@ Reading from the Wikipedia article on the trans-Saharan slave trade  *[[14:49](h
 
 > However, the slave trade through the Sahara in antiquity may have been small and rare, as Saharan trade didn't reach large dimensions until the Arabs and Berbers introduced large numbers of camels into the desert.
 
-- Right. So Romans started off, and then the Arabs came on. Go to Paul. We should find Paul. Paul Lovejoy, and we're going to end at countries.
+- So Romans started off, and then the Arabs came on. Go to Paul. We should find Paul. Paul Lovejoy, and we're going to end at countries.
 
 - Now you see here, trans-Saharan slave trade in the Middle Ages, and you see the map here, main slave trade routes in the medieval age. You see it in the bottom left right there, you see the Arabs. So they're selling us off. You see West Africa there. The top, on top up there, Algiers, Tunisia. Tunisia, that's all us there. People today, they have slaves, are called the Haratin. Haratin, that's Moors. That's us. So read on.
 
 > Paul Lovejoy estimates that around six million black slaves were transported across the Sahara between the years 650 AD and 1500 AD. The trans-Saharan slave trade, established in antiquity, continued during the Middle Ages. Following the early 8th century conquest of North Africa,
 
-- The 8th century conquest of North Africa. Because the Arabs conquered the whole top half of Africa, from the northeast to the northwest, all the way into Palestine. Okay.
+- The 8th century conquest of North Africa. Because the Arabs conquered the whole top half of Africa, from the northeast to the northwest, all the way into Palestine.
 
 > Arabs, Berbers and other ethnic groups ventured into sub-Saharan Africa, first along the Nile Valley towards Nubia, and also across the Sahara towards West Africa. They were interested in the trans-Saharan trade, especially in slaves, as there was a constant demand for slaves in the Eastern Arab nations and Constantinople.
 
@@ -98,15 +98,13 @@ Reading from the Wikipedia article on the trans-Saharan slave trade  *[[14:49](h
 
 > The Muslim slave traders distinguished themselves from the peoples on the other side of the Sahara,
 
-- Watch this.
-
 > referring to these African populations as Zanj, meaning black.
 
 - That's where the term Sudanese come from. Sudanese is black, or Blackanese.
 
 > Arabs would routinely acquire slaves through violent raiding,
 
-- So they called us Zanj, and they would acquire slaves oftentimes through violent raiding. Violent raiding was called... what they call it? Hold on. I'm trying to think what they called it. The Arabs called it... yeah, they called it the holy war. What you call it again? Jihad. Jihad, thank you. Jihad. They call it a jihad, holy war. They were violent raiding.
+- So they called us Zanj, and they would acquire slaves oftentimes through violent raiding. Violent raiding was called... what they call it? I'm trying to think what they called it. The Arabs called it... yeah, they called it the holy war. What you call it again? Jihad. Jihad, thank you. Jihad. They call it a jihad, holy war. They were violent raiding.
 
 > through violent raiding, followed by capturing them and sending them on dangerous forced marches across the Sahara
 
@@ -126,11 +124,11 @@ Reading from the Wikipedia article on the trans-Saharan slave trade  *[[14:49](h
 
 > the majority of slaves were Europeans, taken along European beaches during conflicts.
 
-- Now the Europeans were what? During the top of the Arabs ruling, they had … as slaves. They did. And then once the … gained power, they had to stop taking them as slaves. Okay. And those white, or European, slaves became known as Mamluks. Right, the Mamluk Empire. Mamluks. So they had Edomite and they had Jake slaves. Once the …, once they were unable to acquire Edomite slaves, they start to go heavy on the black slaves.
+- Now the Europeans were what? During the top of the Arabs ruling, they had … as slaves. They did. And then once the … gained power, they had to stop taking them as slaves. And those white, or European, slaves became known as Mamluks. Right, the Mamluk Empire. Mamluks. So they had Edomite and they had Jake slaves. Once the …, once they were unable to acquire Edomite slaves, they start to go heavy on the black slaves.
 
 - So basically the Mamluks became the largest, like a very long lasting empire. The Mamluks were, if not one of the longest lasting empires above all other empires. They lasted very long, because the average nation, empire, is usually on average 250 years. They were almost 300 plus. All right, so the Mamluks, a lot of those are … that became, you know, Muslim, or Arabised, whatever.
 
-- Where we stop at? Read on. Let's keep going. It should say countries.
+- Where we stop at? Let's keep going. It should say countries.
 
 > Aside from raiding, slaves could also be obtained by purchasing them from local black rulers. The 9th century Arab historian states, They, the Arabs, exported black slaves belonging to the Marawa and other black races who are near to them and whom they capture. I hear that the black kings sell blacks without pretext and without war.
 
@@ -144,13 +142,13 @@ Reading from the Wikipedia article on the trans-Saharan slave trade  *[[14:49](h
 
 > The 12th century Arab geographer al-Idrisi noted that black Africans would also participate in slave raiding, stating that the people of Lamlam are perpetually being invaded by their neighbors, who take them as slaves and carry them off to their own lands to sell them by the dozens to the merchants. Every year great numbers of them are sent off to the western Maghreb.
 
-- Read it again. The people of Lamlam. The people of Lamlam. Keep that in mind, the people of Lamlam. This is a very important place to remember, because Lamlam is where the Israelites were living, and they were constantly invading Lamlam. Read again.
+- The people of Lamlam. The people of Lamlam. Keep that in mind, the people of Lamlam. This is a very important place to remember, because Lamlam is where the Israelites were living, and they were constantly invading Lamlam. Read again.
 
 > The people of Lamlam are perpetually being invaded by their neighbors, who take them as slaves and carry them off to their own lands to sell them by the dozens to the merchants. Every year great numbers of them are sent off to the western Maghreb.
 
-- That's why Lamlam, it said it was once a Jewish colony, but no longer. Why? Because it was constantly being raided by the Arabs. Constantly, constantly being raided by the Arabs. All right. Open season. Open season.
+- That's why Lamlam, it said it was once a Jewish colony, but no longer. Why? Because it was constantly being raided by the Arabs. Constantly, constantly being raided by the Arabs. Open season. Open season.
 
-- So keep that place in mind: Lamlam. Zanj and Lamlam, those are key words you want to remember. Zanj people, Lamlam. Read on.
+- So keep that place in mind: Lamlam. Zanj and Lamlam, those are key words you want to remember. Zanj people, Lamlam.
 
 > Al-Idrisi would also describe the different methods Muslim merchants were used to enslave blacks,
 
@@ -164,7 +162,7 @@ Reading from the Wikipedia article on the trans-Saharan slave trade  *[[14:49](h
 
 - It's talking about... it's not adults. It's the children they would snatch up. Hey, come here. Look, come here. You know, like Esau kidnap the children with lollipops and candy, into the van, and drive off with them.
 
-- Read it again. It says al-Idrisi would also describe the different methods. Al-Idrisi, keep that in mind. We're going to eventually deal with him too.
+- It says al-Idrisi would also describe the different methods. Al-Idrisi, keep that in mind. We're going to eventually deal with him too.
 
 > Would also describe the different methods Muslim merchants would use to enslave blacks, recording that some would steal the children of the Zanj using dates, lure them with dates, and lead them from place to place until they seize them, take them out of the country and transport them to their own country.
 
@@ -178,17 +176,15 @@ Reading from the Wikipedia article on the trans-Saharan slave trade  *[[14:49](h
 
 > wrote that traders from Morocco would bring horses, European cloth, clothing, sugar, books and brass vessels to Sudan, in order to exchange them for slaves, civets and gold. According to Africanus, the sultan will accept payment for slaves only in horses, with an exchange rate up to one slave per 20 horses.
 
-- Wow. So they sold us for horses.
+- So they sold us for horses.
 
-- All right. So get me Deuteronomy 28:37. Deuteronomy 28 verse 37, regarding being called Zanj.
+- So get me Deuteronomy 28:37. Deuteronomy 28 verse 37, regarding being called Zanj.
 
 </div>
 
 **[Deuteronomy 28:37](/bible/deuteronomy/28#v37)**  *[[30:15](https://www.youtube.com/watch?v=g0JX4blJp1w&t=1815s)]*
 
 > <sup>[37](/bible/deuteronomy/28#v37)</sup> And thou shalt become an astonishment, a proverb, and a byword, among all nations whither the Lord shall lead thee.
-
-- Read it again.
 
 - So Zanj is a byword. It's a name. It means black. Sudan means black. These are bywords. That's bywords, not our biblical names. But we found those names during slavery under the Arabs.
 
@@ -252,7 +248,7 @@ Reading from *Ellicott's Commentary for English Readers*, on Joel 3:3, on Bible 
 
 - The boys and the girls. Drinking wine. That they might drink.
 
-- Read on. Jump down. They have cast lots. Go down. Right there. Read that.
+- Jump down. They have cast lots. Right there.
 
 </div>
 
@@ -272,19 +268,19 @@ Reading from a second commentary on Joel 3:3, further down the same page  *[[37:
 
 > They have cast lots for our people. It was customary for conquerors in those days to divide the captives
 
-- Wait. Customary with who? It was customary with conquerors. Conquerors. Keep that in mind. Conquerors, not the devil. This is war.
+- Customary with who? It was customary with conquerors. Conquerors. Keep that in mind. Conquerors, not the devil. This is war.
 
 - In those days to divide the captives. The captives, which is the Israelites. Taken in war. Taken in what? War. So we was fighting them. They didn't just come and grab us. We fought, because we lost our power. The Lord turned his back on us because of our sin, so we lose the war. So we war captives.
 
 > among themselves by lot, and so did these enemies of the Jews.
 
-- And so did these enemies. What? These enemies. He said here, enemies. No, that's the conquerors. Enemies. The Arabs, and the …, those are our enemies. And Ishmael too, and Esau. Right. The enemies of the Jews. So not Satan. Right. Exactly.
+- And so did these enemies. What? These enemies. He said here, enemies. No, that's the conquerors. Enemies. The Arabs, and the …, those are our enemies. And Ishmael too, and Esau. The enemies of the Jews. So not Satan. Exactly.
 
 </div>
 
-*[[39:27](https://www.youtube.com/watch?v=g0JX4blJp1w&t=2367s)]* Get me the PDF I sent you regarding the Zanj, Lamlam. Same thing: where were the Zanj taken by the Arabs? Where were they taken? Where were we taken to? Go to the Telegram real quick. I sent you a PDF. Okay, cool.
+*[[39:27](https://www.youtube.com/watch?v=g0JX4blJp1w&t=2367s)]* Get me the PDF I sent you regarding the Zanj, Lamlam. Same thing: where were the Zanj taken by the Arabs? Where were they taken? Where were we taken to? I sent you a PDF.
 
-*[[40:32](https://www.youtube.com/watch?v=g0JX4blJp1w&t=2432s)]* Sino-Platonic Papers. Blow it up. Sino-Platonic Papers. That's China. Sino was China. Sinim, Isaiah 49. You had this for a minute, huh? You've had this for a while. So now it's time to use it. Read that.
+*[[40:32](https://www.youtube.com/watch?v=g0JX4blJp1w&t=2432s)]* Sino-Platonic Papers. Blow it up. Sino-Platonic Papers. That's China. Sino was China. Sinim, Isaiah 49. You had this for a minute, huh? You've had this for a while. So now it's time to use it.
 
 <div class="reading">
 
@@ -298,7 +294,7 @@ Reading from *Sino-Platonic Papers*, *The Magical Kunlun and Devil Slaves: Chine
 
 - How do we get to China? We go off the trans-Saharan slave trade. That's how we got to China. That's how we got to Japan. That's how Yasuke got there: because of those Arabs, Ishmael. If you find Islam in China, they brought Islam along with the slaves to China.
 
-- Read on. Let's go. Give me Isaiah 49 real quick, regarding Sino, why it's called Sino. Isaiah 49, was it 12? Yes, sir. Get that, regarding our people over there.
+- Give me Isaiah 49 real quick, regarding Sino, why it's called Sino. Isaiah 49, was it 12? Yes, sir. Get that, regarding our people over there.
 
 </div>
 
@@ -322,7 +318,7 @@ Reading from *Sino-Platonic Papers*, *The Magical Kunlun and Devil Slaves*, the 
 
 - These dynasties had black slaves. Tang, Ming, and another one. It was three: Song, Tang and Ming had us as slaves. Those dynasties. And during that time frame, the Great Wall of China, we refortified it. Our slave labor was used to refortify the Great Wall of China.
 
-- All right. You watch the movie The Mummy, the last one, which is terrible? They show slaves that were buried under the wall, and they resurrected them as zombies. But that was us. That was us, as mummies. That was us. All right. Mockery of us.
+- You watch the movie The Mummy, the last one, which is terrible? They show slaves that were buried under the wall, and they resurrected them as zombies. But that was us. That was us, as mummies. That was us. Mockery of us.
 
 > 1368 to 1644, to analyze the shifts in Chinese perceptions of people with dark skin, and Chinese knowledge of Africa and Africans. Beginning in the Tang Dynasty,
 
@@ -346,7 +342,7 @@ Reading from *Sino-Platonic Papers*, *The Magical Kunlun and Devil Slaves*, the 
 
 > 960 to 1275. The Tang Shu, Former Tang History, mentions that the Arabs sent delegates to the Chinese court in 651, marking the first recorded official contact between the Chinese government and the Arab caliphate. By the 9th century, a community of Arabs lived in Guangzhou,
 
-- Guangzhou is where they have Negroes living today. When Covid hit, they were kicking us out of that area there, saying that we brought Covid over there. They are mistreating us over there, those of us who are from America, or primarily from Africa, that moved to China. They make sure they make us live in Guangzhou, because that's where the slaves were initially brought to live. They lived in Guangzhou Province, and to this very day they allow the Africans, quote unquote, our people over there in China, to live in this area here, Guangzhou Province. Okay. As a mockery.
+- Guangzhou is where they have Negroes living today. When Covid hit, they were kicking us out of that area there, saying that we brought Covid over there. They are mistreating us over there, those of us who are from America, or primarily from Africa, that moved to China. They make sure they make us live in Guangzhou, because that's where the slaves were initially brought to live. They lived in Guangzhou Province, and to this very day they allow the Africans, quote unquote, our people over there in China, to live in this area here, Guangzhou Province. As a mockery.
 
 > and the local residents could have seen African slaves on trading ships and in Arab homes.
 
@@ -386,7 +382,7 @@ Reading from *Sino-Platonic Papers*, *The Magical Kunlun and Devil Slaves*, the 
 
 > <sup>[68](/bible/deuteronomy/28#v68)</sup> And the Lord shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you.
 
-- With ships. The slave ships of America, Atlantic Ocean, was the cargo slave ships. The slave ships of the Arabs are called dhows. D-H-O-W-S. Dhows. Those are Arab slave ships, for you stupid … that say slave ships never existed. We can't find them? We can't find your brain either, but we know it's there. I say it forever: the Negro mind is the hospice where common sense goes to die. There's no sense with these …. None. I'm sorry. Negroes.
+- With ships. The slave ships of America, Atlantic Ocean, was the cargo slave ships. The slave ships of the Arabs are called dhows. D-H-O-W-S. Dhows. Those are Arab slave ships, for you stupid … that say slave ships never existed. We can't find them? We can't find your brain either, but we know it's there. I say it forever: the Negro mind is the hospice where common sense goes to die. There's no sense with these …. None. Negroes.
 
 - **A brother:** The highest level of disrespect I heard on this show today. This went dark real quick.
 
@@ -400,7 +396,7 @@ Reading from *Sino-Platonic Papers*, *The Magical Kunlun and Devil Slaves*, the 
 
 - For bondmen, slave men, and bondwomen, slave women. And no man shall buy you: no man will be able to buy you out of that condition. Because during that time, in Israel, in the slavery, we had the ability to buy ourselves, or get ourselves redeemed out of slavery, when our brother bought us out of it. But if we're all slaves, we can't redeem each other, can we?
 
-- So now go back to the article. It's going to be a long time before I decide to eat donuts, ever. My mind, it messed me up. Read that. Where we at?
+- So now go back to the article. It's going to be a long time before I decide to eat donuts, ever. My mind, it messed me up. Where we at?
 
 <div class="reading">
 
@@ -408,7 +404,7 @@ Reading from *Sino-Platonic Papers*, *The Magical Kunlun and Devil Slaves*, the 
 
 > The first chapter of this paper seeks to explain how Chinese people perceived these black slaves by analyzing representations of people with dark skin in fictional and non-fiction sources from the fifth century through the Song Dynasty,
 
-- So oftentimes what Moab would do is, Moab would put us in, like, mythical stories. But the mythical stories are based upon actual... it's literal. Okay. Moab is more open with them having us as slaves. They're more open. Ammon, they hide it more. Ammon's more hidden. Moab is like, hey, we had slaves, so what? But Ammon hides it more.
+- So oftentimes what Moab would do is, Moab would put us in, like, mythical stories. But the mythical stories are based upon actual... it's literal. Moab is more open with them having us as slaves. They're more open. Ammon, they hide it more. Ammon's more hidden. Moab is like, hey, we had slaves, so what? But Ammon hides it more.
 
 - But you know, if slaves were in China, we definitely in Japan. That's just by default. That's common sense. There's no way you have slaves in China and they didn't get to Japan. That don't make no sense.
 
@@ -448,7 +444,7 @@ Reading from a search on how fast a hind runs  *[[57:27](https://www.youtube.com
 
 - Dang. That's hinds' feet: 40 miles an hour. Usain runs 10 miles less than that an hour. 10 miles less. And that's short bursts, and maintain the speed, 25 miles an hour. They maintain the speed too. That's fast. Very fast. Even the movie Apocalypto, where Jaguar Paw was running through the woods, that's through trees, dipping through trees. You know that's fast.
 
-- Read on. He maketh my feet like hinds' feet, and setteth me upon my high places. Verse 29.
+- He maketh my feet like hinds' feet, and setteth me upon my high places. Verse 29.
 
 </div>
 
@@ -462,7 +458,7 @@ Reading from a search on how fast a hind runs  *[[57:27](https://www.youtube.com
 
 - **A brother:** Hey Deacon, he pulled that quick. Josephus.
 
-- **Deacon Eythan:** So it's not a game here. We were a problem. Blow that up. Go down.
+- **Deacon Eythan:** So it's not a game here. We were a problem. Blow that up.
 
 <div class="reading">
 
@@ -542,11 +538,11 @@ Reading from *Sino-Platonic Papers*, *The Magical Kunlun and Devil Slaves*, the 
 
 > Were these Tang and Song images of the Kunlun based on direct contact?
 
-- Let's get past this. Next page. Let me see.
+- Let's get past this.
 
 > Song, however, they reveal Chinese historians' and geographers' increasing knowledge of Africa and Africans. This new knowledge allowed the Chinese to make a connection between the Kunlun slaves in China and the East African slave trade.
 
-- East African slave trade was run by the Arabs. The Arabs, the Arabs, the Arabs. Okay. Let's go down. Jump down. Someone go into Zanj eventually. I'm trying to get there. Go to the next page. All right, read that.
+- East African slave trade was run by the Arabs. The Arabs, the Arabs, the Arabs. Let's go down. Jump down. Someone go into Zanj eventually. I'm trying to get there. Go to the next page.
 
 > The Jin history describes Empress Li, a concubine of the Emperor,
 
@@ -558,7 +554,7 @@ Reading from *Sino-Platonic Papers*, *The Magical Kunlun and Devil Slaves*, the 
 
 > All the people in the palace used to call her Kunlun.
 
-- They called her Kunlun. Okay. So it's not a myth here.
+- They called her Kunlun. So it's not a myth here.
 
 > The term Kunlun, synonymous with dark skin.
 
@@ -566,7 +562,7 @@ Reading from *Sino-Platonic Papers*, *The Magical Kunlun and Devil Slaves*, the 
 
 > This anecdote comes from a history of 265 to 420, before African slaves had been imported into China, and before the Chinese had made significant contacts with Southeast Asian countries. So when and why did the term Kunlun take on this meaning? The origins of the word Kunlun are unclear, and like many terms, its meaning has shifted over time.
 
-- Regardless, it pertained to us. Go down. Go down. Page seven. Okay. Wait, go back. Although we do not know. Read that.
+- Regardless, it pertained to us. Page seven. Wait, go back. Although we do not know.
 
 > Although we do not know who read the histories and other non-fiction accounts, these fictional tales were widely read at the time of their publication, revealing common images of the Kunlun that reflect popular perceptions of people with dark skin. Finally, this section will examine representations of the Kunlun and foreign devil slaves in a non-fiction source from the Song.
 
@@ -582,11 +578,11 @@ Reading from *Sino-Platonic Papers*, *The Magical Kunlun and Devil Slaves*, the 
 
 > and even the highest-ranking ministers feared his venom. Among fictional and nonfictional portrayals of the Kunlun, this instance is the only depiction of a Kunlun person surnamed Bai, which means white. Perhaps the slave's name of white reveals the author's attempt at humor, since the term Kunlun had a connotation of dark skin.
 
-- Let's go over. Next page. I'm just going to read the top real quick. Later tales about the superhuman strength of the Kunlun. Damn. There you go. Damn, there you go.
+- Let's go over. I'm just going to read the top real quick. Later tales about the superhuman strength of the Kunlun. Damn. Damn, there you go.
 
 > These histories of the fourth and fifth centuries, however, were not actually recorded until the Tang Dynasty, when the term … was better known due to the popularity of fictional tales about the Kunlun.
 
-- Let's go down. Read that.
+- Let's go down.
 
 > The meanings of the word Kunlun expanded during the Tang to include the races, countries and languages of Southeast Asia. The Former Tang History described the homeland of the Kunlun people, the people living to the south, present-day Vietnam,
 
@@ -622,27 +618,27 @@ Reading from *Sino-Platonic Papers*, *The Magical Kunlun and Devil Slaves*, the 
 
 > <sup>[27](/bible/deuteronomy/4#v27)</sup> And the Lord shall scatter you among the nations, and ye shall be left few in number among the heathen, whither the Lord shall lead you.
 
-- **A brother:** Right. So what we reading right now, we are seeing that prophecy being fulfilled, that we read about: our people going to China, how the Arabs was taking us to all the different slave trade routes, in East Africa, the Mediterranean. Because we all know about the Americas. We know a lot about the Americas. But a little known fact is that we was in Europe, Turkey, China. We was all over.
+- **A brother:** So what we reading right now, we are seeing that prophecy being fulfilled, that we read about: our people going to China, how the Arabs was taking us to all the different slave trade routes, in East Africa, the Mediterranean. Because we all know about the Americas. We know a lot about the Americas. But a little known fact is that we was in Europe, Turkey, China. We was all over.
 
-- **Deacon Eythan:** Yes. All right. Okay, so read that again. And the Lord shall scatter you among the nations. Right. So for breaking God's laws, the Lord scattered us among all nations on the earth. We are everywhere. Not just places... places we haven't even probably reached yet, we're there. Trust me, we there.
+- **Deacon Eythan:** Yes. Okay, so read that again. And the Lord shall scatter you among the nations. So for breaking God's laws, the Lord scattered us among all nations on the earth. We are everywhere. Not just places... places we haven't even probably reached yet, we're there. Trust me, we there.
 
 - **A brother:** And ye shall be left few in number among the heathen. And you know it's our people because, guess what, we living in the same conditions. The conditions we live in here in America, we living in those conditions in China. We living in those same conditions in Europe, in Russia, Turkey. So everywhere we go, we know it's our people because why? They're being oppressed. India. We all in the same situation, man. All over.
 
-*[[1:29:09](https://www.youtube.com/watch?v=g0JX4blJp1w&t=5349s)]* Get that map again. In the meantime, another map: the Africa map. Let me show something real quick. Blow it up some. Go up to the top. Go down a little bit.
+*[[1:29:09](https://www.youtube.com/watch?v=g0JX4blJp1w&t=5349s)]* Get that map again. In the meantime, another map: the Africa map. Let me show something real quick. Blow it up some. Go up to the top.
 
-*[[1:29:51](https://www.youtube.com/watch?v=g0JX4blJp1w&t=5391s)]* You see right there, it says Aqaba. It says they embark for India. See right there on the right: they embark for India. That's the Jews embarking for India. That's good stuff right there too. Go down. You have Yathrib. That's Yathrib, which became Medina. Before the Arabs conquered us, they conquered that place called Yathrib, but we were living there, and they ended up naming it Medina. All right. I sent that on Telegram. Go over to the left again. I'm trying to find it. I'm going to find that thing. Hold on. Go over. I know it's on this map. Right there we go. Go over some. Right here.
+*[[1:29:51](https://www.youtube.com/watch?v=g0JX4blJp1w&t=5391s)]* You see right there, it says Aqaba. It says they embark for India. See right there on the right: they embark for India. That's the Jews embarking for India. That's good stuff right there too. You have Yathrib. That's Yathrib, which became Medina. Before the Arabs conquered us, they conquered that place called Yathrib, but we were living there, and they ended up naming it Medina. Go over to the left again. I'm trying to find it. I'm going to find that thing. Go over. I know it's on this map. Right there we go. Go over some.
 
 *[[1:30:45](https://www.youtube.com/watch?v=g0JX4blJp1w&t=5445s)]* Lamlam. Lamlam. See it? Lamlam. Once a Jewish colony. Once a Jewish colony. Remember, it said it was constantly raided by the Arabs. Constantly raided by the Arabs. And they had us walk across the Sahara Desert. See, Sahara Desert right there. Made us walk all the way across the desert, all the way to the other side, to be sold off in the East African slave trade, that they embark for India and so forth. They made us walk thousands of miles. So Lamlam was once a Jewish colony. Either to the trans-Saharan, the Pacific Ocean or the Atlantic Ocean, they made us walk. But they constantly raided Lamlam, because Israelites were living there.
 
-*[[1:31:45](https://www.youtube.com/watch?v=g0JX4blJp1w&t=5505s)]* Now you got the map. Let's see. He mentioned the Kunlun countries. He mentioned Cochin. We're going to dive into that too. We're going to dive into that history as well. It's sideways. Screenshot that thing and just turn it around. Go to the Telegram real quick and pull up the page.
+*[[1:31:45](https://www.youtube.com/watch?v=g0JX4blJp1w&t=5505s)]* Now you got the map. Let's see. He mentioned the Kunlun countries. He mentioned Cochin. We're going to dive into that too. We're going to dive into that history as well. It's sideways. Screenshot that thing and just turn it around.
 
 *[[1:32:43](https://www.youtube.com/watch?v=g0JX4blJp1w&t=5563s)]* Since you just went into it, it's still in the same vein of us being sold off. So they attack Lamlam, Jewish colony. Keep that map too. That map is fire. Keep that too. We're going to need that map. Remember, the Arabs had the slave called the Zanj, or they called Sudan. Remember that. Keep that in mind. Hold that map on the side. File that map; don't use that. That's going to be very important. Page 140, 141. Next time I'll probably use that map. Let me come back, because I don't want to jump ahead. I'm jumping ahead. I'm getting too excited. I'm going to fall back. But that map is important.
 
-*[[1:34:24](https://www.youtube.com/watch?v=g0JX4blJp1w&t=5664s)]* All right, here we go. So this is the same book we read out of. This book is very, very rare, if you can find it at all. You can find the PDF, but not find the book itself. Allen H. Godbey of Duke University. He brought out a whole bunch of history about Israelites, where they were, where they are. So here you have Arabia. You see Arabia to the left; you got all kind of Jews living there. Matter of fact, this is the other side of the other map. That's the whole map. Another part of the map shows Europe too. So go over. That's Arabia there. Jews there, before it was renamed Medina by Muhammad the psychopath. Let's move it over. Aden. Persia. Go down. Here we go. India. Here we go. It's a little pixelated, but Cochin is right there in the bottom. You see Bene Israel, black Jews, to the left. Go up to the top. Bene Israel, black Jews. That's us there in India. That's the Kunlun country. Go down. You see right there, Cochin. Circle that. Cochin Jews, or Bene Israel, black Jews. Kunlun countries. That's what they're talking about. That's what they're referring to.
+*[[1:34:24](https://www.youtube.com/watch?v=g0JX4blJp1w&t=5664s)]* All right, here we go. So this is the same book we read out of. This book is very, very rare, if you can find it at all. You can find the PDF, but not find the book itself. Allen H. Godbey of Duke University. He brought out a whole bunch of history about Israelites, where they were, where they are. So here you have Arabia. You see Arabia to the left; you got all kind of Jews living there. Matter of fact, this is the other side of the other map. That's the whole map. Another part of the map shows Europe too. So go over. That's Arabia there. Jews there, before it was renamed Medina by Muhammad the psychopath. Let's move it over. Aden. Persia. Here we go. India. Here we go. It's a little pixelated, but Cochin is right there in the bottom. You see Bene Israel, black Jews, to the left. Go up to the top. Bene Israel, black Jews. That's us there in India. That's the Kunlun country. You see right there, Cochin. Circle that. Cochin Jews, or Bene Israel, black Jews. Kunlun countries. That's what they're talking about. That's what they're referring to.
 
 **A brother:** Hey Deacon, in Cochin there's a city called Jew Town. I believe in Vietnam they call that place Cochin too. And they have, like, oral history, that a lot of them settled in that part of Kerala, which is the state, during King Solomon's trade with India.
 
-**Deacon Eythan:** Wow. Malabar Coast. Go over. Let me see some more of that line. Go over to the right. Where's that line going? Here you go. That's Ceylon right there. Sumatra. We over here. This whole thing here, red line. Phoenicia. It says BC, 850 BC; I can't tell the number. I'll get the book myself and see what number it is. But most likely us as well. Go up. Let me see anything else. Canton Jews, Chinese Jews, old synagogues recorded there. So you had Israelites in China. We're going to dive more into this. Let me see if I find Guangzhou. Go up. Is Guangzhou in the south of China? I'm not sure. Mongolia: Genghis Khan had a Jewish army. Had us as an army. Chinese Turkestan. I thought Guangzhou was on here. It probably is.
+**Deacon Eythan:** Malabar Coast. Go over. Let me see some more of that line. Go over to the right. Where's that line going? Here you go. That's Ceylon right there. Sumatra. We over here. This whole thing here, red line. Phoenicia. It says BC, 850 BC; I can't tell the number. I'll get the book myself and see what number it is. But most likely us as well. Let me see anything else. Canton Jews, Chinese Jews, old synagogues recorded there. So you had Israelites in China. We're going to dive more into this. Let me see if I find Guangzhou. Is Guangzhou in the south of China? I'm not sure. Mongolia: Genghis Khan had a Jewish army. Had us as an army. Chinese Turkestan. I thought Guangzhou was on here. It probably is.
 
 **A brother:** *[[1:38:08](https://www.youtube.com/watch?v=g0JX4blJp1w&t=5888s)]* Hey Deacon, that article you read earlier, about the Chinese having history of the Kunlun having superpowers and stuff like that, that will explain why Ammon and Moab have so much anime that relates to the stories in the Bible.
 
@@ -654,11 +650,9 @@ Reading from *Sino-Platonic Papers*, *The Magical Kunlun and Devil Slaves*, page
 
 > The word Gulun appears in several sources about the Kunlun, and appears to be an alternative pronunciation of Kunlun.
 
-- Okay. So Gulun and Kunlun is the same.
+- So Gulun and Kunlun is the same.
 
 > Although Yijing might have listed a specific Kunlun island, his contemporaries applied the term Kunlun to anyone from Southeast Asia, since the term included a group of islands. Yijing also mentioned that he met with the owner of a Persian trading ship in Guangdong in 671, implying that he knew about China's trade with the Near East, but did not link it to the term Kunlun.
-
-- Right.
 
 > Tang sources do not categorize all people with dark skin as Kunlun, however. The Former Tang History reports that the residents of the Southeast Asian country of Dandan have black coloring, yet the inhabitants are not called Kunlun, unlike other descriptions of people from Southeast Asian countries in the same chapter. Another word used to describe people with black or dark skin during the Tang is Zingi, transliterations of Zanj,
 
@@ -678,7 +672,7 @@ Reading from *Sino-Platonic Papers*, *The Magical Kunlun and Devil Slaves*, page
 
 > Although the meaning of the word Kunlun expanded during the Tang to include the African Zingi as well as Southeast Asians, it is unclear when the term came to link Arab Zingi slaves with the different Kunlun peoples. The New Tang History records that the country of Java brought Zingi slaves to the Chinese court during the Tang, in the eighth year of the Yuanhe, 813 AD. This account does not specify whether these slaves were dark-skinned local Southeast Asian slaves, or Zingi slaves imported from East Africa by Arab traders. Even if the slave was originally from East Africa, the Chinese may not have known where they came from, and labeled them Zingi simply because they had dark skin.
 
-- Right. So the point of this is the Arabs, over to China and Japan. That's the point. And all these are Israelites. Okay, Israelites. Now let's go out of this. That's all I want for now.
+- So the point of this is the Arabs, over to China and Japan. That's the point. And all these are Israelites. Okay, Israelites. Now let's go out of this. That's all I want for now.
 
 - **A brother:** Hey, somebody just threw us something in the comments. You remember Iron Fist, from the Marvel? Kunlun. He visited Kunlun.
 
@@ -690,11 +684,11 @@ Reading from *Sino-Platonic Papers*, *The Magical Kunlun and Devil Slaves*, page
 
 > Numerous myths about the magical superhuman powers of the Kunlun appear in the 978 fiction compendium, the Taiping guangji, Extensive Gleanings of the Reign of Great Tranquility. Although this work was published early in the Song Dynasty, 960 to 1275, the anthology is compiled from tales written during the Tang, thus reflecting Tang attitudes and customs.
 
-- Keep going. Yes, it's good. Keep going.
+- Yes, it's good.
 
 > The Taiping guangji presents a curious mixture of Kunlun characters, incorporating familiar images of black skin and the ability to dive deep into the sea.
 
-- I said it earlier. To dive deep into the sea. That's it. Keep going.
+- I said it earlier. To dive deep into the sea. That's it.
 
 > Although these fantastic tales do not describe what actual black slaves did in China, these stories were widely read in the Tang. These recurring images of the Kunlun are significant because they reflect popular perceptions of people with dark skin, rather than the views of a few historians or geographers.
 
@@ -722,7 +716,7 @@ Reading from *Sino-Platonic Papers*, *The Magical Kunlun and Devil Slaves*, page
 
 > <sup>[5](/bible/romans/9#v5)</sup> Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen.
 
-- Whose are the fathers. And of whom as concerning the flesh, Christ came. Christ came for the Israelites. Come on.
+- Whose are the fathers. And of whom as concerning the flesh, Christ came. Christ came for the Israelites.
 
 > <sup>[6](/bible/romans/9#v6)</sup> Not as though the word of God hath taken none effect. For they are not all Israel, which are of Israel:
 
@@ -736,7 +730,7 @@ Reading from *Sino-Platonic Papers*, *The Magical Kunlun and Devil Slaves*, page
 
 - Ishmael is children of the flesh. Moab are children of the flesh. Edom are children of the flesh. Now Moab is not Abraham's seed, but Ishmael and Edom are. They're children of the flesh, and not the children of the promise. That's why those two nations especially got together to destroy us, because those are our opps, basically. Our older siblings, pretty much. God didn't choose Ishmael, between Isaac and Ishmael. God didn't choose Esau, between Esau and Jacob. So both of them have a vendetta against us. Both of them. They were instrumental to our destruction, both of them.
 
-- And Moab also, because Moab was Lot's child, and Lot was Abraham's, basically, his right-hand man. His nephew. God didn't choose Lot's kids either. So they all got beef with us. They all have it out for us. Okay. Read verse eight again.
+- And Moab also, because Moab was Lot's child, and Lot was Abraham's, basically, his right-hand man. His nephew. God didn't choose Lot's kids either. So they all got beef with us. They all have it out for us. Read verse eight again.
 
 - **A brother:** Remember the law, that Moab cannot enter.
 
@@ -758,7 +752,7 @@ Reading from *Sino-Platonic Papers*, *The Magical Kunlun and Devil Slaves*, page
 
 > <sup>[24](/bible/galatians/4#v24)</sup> Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.
 
-- Which things are an allegory. Come on. The law: sacrifice. Which is Agar. She gendereth to bondage.
+- Which things are an allegory. The law: sacrifice. Which is Agar. She gendereth to bondage.
 
 > <sup>[25](/bible/galatians/4#v25)</sup> For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children.
 
@@ -788,11 +782,11 @@ Reading from *Sino-Platonic Papers*, *The Magical Kunlun and Devil Slaves*, page
 
 - Cast out the bondwoman and her son. That's what Christ going to do. He going to cast them out of our land. Going to get them out of there.
 
-- You will not be heirs together with the Israelites. Even if Ishmael is the oldest, he ain't the heir. Right. The child of the promise is the heir. Isaac is the heir. His descendants are the heir. We're the heir. Right. And they know this. But they in our land: oh, we're Palestinians. No, you're not. You're colonizers. And even the Palestinians, while they getting bombed, they're still persecuting us.
+- You will not be heirs together with the Israelites. Even if Ishmael is the oldest, he ain't the heir. The child of the promise is the heir. Isaac is the heir. His descendants are the heir. We're the heir. And they know this. But they in our land: oh, we're Palestinians. No, you're not. You're colonizers. And even the Palestinians, while they getting bombed, they're still persecuting us.
 
 - **A brother:** Even bombed by Esau, getting killed by Esau, still putting their foot in our ass in these different lands.
 
-- **Deacon Eythan:** I feel no way about it. I feel no ways about those nations, either one. I don't care. Look at that. I feel no ways about these Arabs. I feel no ways about them crying: your head, baby's head's missing. I don't care, because y'all did the same thing. What was being done to you, you did to us, in Africa. And now they want sympathy. Now you want us to feel bad for you. What you're doing to us now, secretly, is what Edom is doing to you now: destroying your towns and cities, taking your women and children, ruining your families. What's being done to you is happening; you did to us. That's why, from northeast Africa to northwest Africa, that's what y'all doing to us. What's the expression? The chickens have come home to roost. That's what happened. Read on.
+- **Deacon Eythan:** I feel no way about it. I feel no ways about those nations, either one. I don't care. Look at that. I feel no ways about these Arabs. I feel no ways about them crying: your head, baby's head's missing. I don't care, because y'all did the same thing. What was being done to you, you did to us, in Africa. And now they want sympathy. Now you want us to feel bad for you. What you're doing to us now, secretly, is what Edom is doing to you now: destroying your towns and cities, taking your women and children, ruining your families. What's being done to you is happening; you did to us. That's why, from northeast Africa to northwest Africa, that's what y'all doing to us. What's the expression? The chickens have come home to roost. That's what happened.
 
 > <sup>[31](/bible/galatians/4#v31)</sup> So then, brethren, we are not children of the bondwoman, but of the free.
 
@@ -800,7 +794,7 @@ Reading from *Sino-Platonic Papers*, *The Magical Kunlun and Devil Slaves*, page
 
 - **A brother:** Hey Deacon, that's why it keeps saying in the scripture, and ye shall not be ashamed. Because those people that wasn't chosen, they tried to make us ashamed by being the chosen people. Just like a favorite child. The favorite child usually gets bullied. That's what was happening with Ishmael and Isaac. That's what happened, symbolically, with Joseph.
 
-- **Deacon Eythan:** Yep. There go. Here comes this dreamer. Here he goes. The envy was there. Who he get sold to? Arabs. That was always involving some slave trading, all the time. Ishmael and Midian. Always Abraham's kids of the flesh. The rejects. Right. Second Esdras 6 verse 8.
+- **Deacon Eythan:** Yep. There go. Here comes this dreamer. Here he goes. The envy was there. Who he get sold to? Arabs. That was always involving some slave trading, all the time. Ishmael and Midian. Always Abraham's kids of the flesh. The rejects. Second Esdras 6 verse 8.
 
 **[2 Esdras 6:8-10](/bible/2-esdras/6#v8)**  *[[1:55:58](https://www.youtube.com/watch?v=g0JX4blJp1w&t=6958s)]*
 
@@ -810,7 +804,7 @@ Reading from *Sino-Platonic Papers*, *The Magical Kunlun and Devil Slaves*, page
 
 > <sup>[9](/bible/2-esdras/6#v9)</sup> For Esau is the end of the world, and Jacob is the beginning of it that followeth.
 
-- Esau, his heel, is the end of the world. Like the feet in Daniel 2. That's Esau's feet. That's why he's the toes. He's the feet and toes. That's why Jacob grabbed his ankle, his foot. Read it again.
+- Esau, his heel, is the end of the world. Like the feet in Daniel 2. That's Esau's feet. That's why he's the toes. He's the feet and toes. That's why Jacob grabbed his ankle, his foot.
 
 - That's why Jacob grabbed his heel, right? Because he's the bottom of the nations. He's the last to go. Those feet. The iron, the toes of miry clay. That's Esau's feet. Damn. That's who it is, that the stone will smash. That's who it is.
 
@@ -824,7 +818,7 @@ Reading from *Sino-Platonic Papers*, *The Magical Kunlun and Devil Slaves*, page
 
 - Where we at? How much time I got left? 10 minutes. All right, so get me History of the Jews, volume three. I ain't got much time, but I'm going to get through what I can. History of the Jews by Graetz, volume three. I want page 60 and 61.
 
-- You nations are background noise. That's what you are, between the battle of Esau and Jacob. You guys are like the back... what they call them? Extras. There you go. Extras, that's you. Verse 10 says that, right? The hand of man is betwixt the heel and the hand.
+- You nations are background noise. That's what you are, between the battle of Esau and Jacob. You guys are like the back... what they call them? Extras. Extras, that's you. Verse 10 says that, right? The hand of man is betwixt the heel and the hand.
 
 - **A brother:** Between the heel and the hand. Exactly.
 
@@ -890,25 +884,25 @@ Reading from *History of the Jews* by Graetz, volume three, pages 60 and 61, on 
 
 > As they had practised circumcision while heathen, their conversion to Judaism was particularly easy.
 
-- Right. They already practice it, because of Ishmael.
+- They already practice it, because of Ishmael.
 
 > The members of a family among the Arabs were indissolubly bound to one another, and according to their constitution, the individuals identified themselves with the tribe. This brought about that, when a chieftain became a Jew, his whole clan at once followed him into the fold of Judaism. It is expressly recorded about several Arabian tribes that they were converted to Judaism: a warlike, quarrelsome clan, related to the most respected Koreishites of Mecca, and several other families of the tribes.
 
 - Koreishites is the family that Muhammad came from. The Koreishites of Mecca.
 
-- Right. So it was peace. We shared Judaism with them, and it was peace between us at that time. So we're going to eventually go into how the peace turned into war.
+- So it was peace. We shared Judaism with them, and it was peace between us at that time. So we're going to eventually go into how the peace turned into war.
 
 </div>
 
 ## In Closing
 
-*[[2:04:09](https://www.youtube.com/watch?v=g0JX4blJp1w&t=7449s)]* With that, we're going to wrap it up. Hope you guys got some understanding. Lord's will, next time you can call in. And also the Zoom calls now. All praise to the Lord. So we're stepping it up. So all praises for that. All right.
+*[[2:04:09](https://www.youtube.com/watch?v=g0JX4blJp1w&t=7449s)]* With that, we're going to wrap it up. Hope you guys got some understanding. Lord's will, next time you can call in. And also the Zoom calls now. All praise to the Lord. So we're stepping it up. So all praises for that.
 
-**A brother:** All praise Most High. Let's give Deacon another hand for that class. All praises. Hey, shout out to the brothers for the new shirts. I know y'all see the new shirt on the deacons, the burgundy. Looking sharp, looking sharp. I like it. And for the multimedia team, the sisters, that put together the intro video. I know everybody comment about that. All praise Most High. Great work.
+**A brother:** All praise Most High. Let's give Deacon another hand for that class. I know y'all see the new shirt on the deacons, the burgundy. Looking sharp, looking sharp. I like it. And for the multimedia team, the sisters, that put together the intro video. I know everybody comment about that. All praise Most High. Great work.
 
-*[[2:07:20](https://www.youtube.com/watch?v=g0JX4blJp1w&t=7640s)]* **Deacon Eythan:** All right. Shalom. See y'all, Lord's will. In a couple of weeks I'll be away, but Lord's will, hold you guys down. Shalom. Most High bless.
+*[[2:07:20](https://www.youtube.com/watch?v=g0JX4blJp1w&t=7640s)]* **Deacon Eythan:** Shalom. See y'all, Lord's will. In a couple of weeks I'll be away, but Lord's will, hold you guys down. Shalom. Most High bless.
 
-*[[2:07:49](https://www.youtube.com/watch?v=g0JX4blJp1w&t=7669s)]* Shout out to the sisters for the breakfast. Shout out to the breakfast team. Shout outs to the brothers, man. Excellent job. All praise to the Most High. See y'all next time. Shalom. Most High Christ bless. Shalom, shalom. Christ bless.
+*[[2:07:49](https://www.youtube.com/watch?v=g0JX4blJp1w&t=7669s)]* Excellent job. See y'all next time. Shalom. Most High Christ bless. Shalom, shalom. Christ bless.
 
 ## Announcements & References
 
