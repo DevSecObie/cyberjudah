@@ -2,7 +2,7 @@
 title: "What Did Christ Fulfill?"
 slug: "2026/2026-01-09-what-did-christ-fulfill"
 date: "2026-01-09"
-teacher: "Captain Naam"
+teacher: "Captain Nahshon"
 description: "15 Minutes w/ The Captains · 2026-01-09"
 tags: ["15 Minutes w/ The Captains", "christ", "the-law"]
 ---

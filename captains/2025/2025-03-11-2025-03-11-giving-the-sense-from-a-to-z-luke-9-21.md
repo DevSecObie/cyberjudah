@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "money", "pride", "sabbath"]
 
 ## Introduction
 
-*[[5:43](https://www.youtube.com/watch?v=7zrFly8UQtc&t=343s)]* Shalom family, let me know if y'all can hear me. Most High and Christ bless. Welcome back, we back, we back. All right, welcome back Israel, this is another edition of Giving The Sense From A to Z. I'm your host today, Captain Josiah, out of IUIC Raleigh, and we're gonna get right in. Today's lesson, it's a continuation of Luke chapter nine. Captain Emmanuel was on yesterday, and I think he stopped at verse 20, okay. But I'mma just jump up to 18. I'm not going to break down 18 through 20, and I'm going start at 22 officially.
+*[[5:43](https://www.youtube.com/watch?v=7zrFly8UQtc&t=343s)]* Shalom family, let me know if y'all can hear me. Most High and Christ bless. Welcome back, we back, we back. All right, welcome back Israel, this is another edition of Giving The Sense From A to Z. I'm your host today, Captain Josiah, out of IUIC Raleigh, and we're gonna get right in. Today's lesson, it's a continuation of Luke chapter nine. Captain Immanuel was on yesterday, and I think he stopped at verse 20, okay. But I'mma just jump up to 18. I'm not going to break down 18 through 20, and I'm going start at 22 officially.
 
 ## Scriptures Opened
 

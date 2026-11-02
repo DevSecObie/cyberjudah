@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 15:24"
 slug: "2026/2026-02-17-giving-the-sense-from-a-to-z-1-corinthians-15-24"
 date: "2026-02-17"
-teacher: "Captain Matt"
+teacher: "Captain Matthew"
 description: "Giving The Sense From A to Z · 2026-02-17"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "edom-esau", "salvation"]

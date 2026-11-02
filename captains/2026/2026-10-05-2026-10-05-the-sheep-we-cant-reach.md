@@ -2,7 +2,7 @@
 title: "The Sheep We Can't Reach"
 slug: "2026/2026-10-05-the-sheep-we-cant-reach"
 date: "2026-10-05"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "15 Minutes w/ The Captains · 2026-10-05"
 tags: ["15 Minutes w/ The Captains", "mercy"]
 ---
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "mercy"]
 
 ## Introduction
 
-*[[0:15](https://www.youtube.com/watch?v=WmoY8T8qb1k&t=15s)]* Captain Emmanuel of IUIC Arkansas, and today the topic is the sheep we can't reach. Christ revealed that we are not going to reach every city where our people are by the time he comes back, but the Lord has a plan for the Israelites the prophets are not able to reach.
+*[[0:15](https://www.youtube.com/watch?v=WmoY8T8qb1k&t=15s)]* Captain Immanuel of IUIC Arkansas, and today the topic is the sheep we can't reach. Christ revealed that we are not going to reach every city where our people are by the time he comes back, but the Lord has a plan for the Israelites the prophets are not able to reach.
 
 ## Scriptures Opened
 

@@ -2,7 +2,7 @@
 title: "Handling Matters With Wisdom"
 slug: "2025/2025-10-07-handling-matters-with-wisdom"
 date: "2025-10-07"
-teacher: "Captain Matt"
+teacher: "Captain Matthew"
 description: "15 Minutes w/ The Captains · 2025-10-07"
 tags: ["15 Minutes w/ The Captains", "christ", "love", "repentance", "wisdom"]
 ---

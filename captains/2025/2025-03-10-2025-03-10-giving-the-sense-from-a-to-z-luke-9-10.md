@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 9:10"
 slug: "2025/2025-03-10-giving-the-sense-from-a-to-z-luke-9-10"
 date: "2025-03-10"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "Giving The Sense From A to Z · 2025-03-10"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "health", "leadership", "salvation"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-03-10 · Captain Emmanuel</p>
+<p class="taught">Giving The Sense From A to Z · 2025-03-10 · Captain Immanuel</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Luke 9](/bible/luke/9) · [Mark 6](/bible/mark/6) · [Ezek 37](/bible/ezekiel/37) · [2 Kgs 4](/bible/2-kings/4) · [Matt 16](/bible/matthew/16) · [2 Macc 15](/bible/2-maccabees/15) · [2 Esdras 2](/bible/2-esdras/2) · [John 1](/bible/john/1) · [2 Esdras 7](/bible/2-esdras/7)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "health", "leadership", "salvatio
 
 ## Introduction
 
-*[[3:01](https://www.youtube.com/watch?v=RN0FM7YgHOk&t=181s)]* Shalom, shalom family. Most High and Christ bless. Welcome to another edition of Giving The Sense From A to Z. Today you got Captain Emmanuel of IUIC Arkansas, and today we going to continue with Luke chapter 9. All right, let's open up with Nehemiah chapter 8 verse 8.
+*[[3:01](https://www.youtube.com/watch?v=RN0FM7YgHOk&t=181s)]* Shalom, shalom family. Most High and Christ bless. Welcome to another edition of Giving The Sense From A to Z. Today you got Captain Immanuel of IUIC Arkansas, and today we going to continue with Luke chapter 9. All right, let's open up with Nehemiah chapter 8 verse 8.
 
 ## Scriptures Opened
 

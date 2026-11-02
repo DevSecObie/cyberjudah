@@ -2,7 +2,7 @@
 title: "When No One Watching"
 slug: "2026/2026-03-02-when-no-one-watching"
 date: "2026-03-02"
-teacher: "Captain Yahoshua"
+teacher: "Captain Yehoshua"
 description: "15 Minutes w/ The Captains · 2026-03-02"
 tags: ["15 Minutes w/ The Captains", "angels", "persecution", "the-law", "wisdom"]
 ---
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "angels", "persecution", "the-law", "wisdom
 
 ## Introduction
 
-*[[0:35](https://www.youtube.com/watch?v=ABhs0iJ-XrU&t=35s)]* Shalom Israel. Most High Christ bless. It's another episode of 15 minutes with the captains. I'm your captain for the day, Captain Yahoshua. All praise to the Most High. We got a quick lesson for you today called when no one is watching. This class today is all about those secret sins. Those things that we deal with that nobody knows about. We're going to address those things today. So what you got to remember, somebody's always watching. The Lord gave us ethics. He gave us a moral code called his laws, statutes, commandments. And what we have to give God in return, we've got to give him integrity. Which is the discipline to keep his laws, statutes, and commandments when nobody's watching. Whether it's nobody's looking or whether it's under persecution, we must still uphold our moral code, which is God's laws.
+*[[0:35](https://www.youtube.com/watch?v=ABhs0iJ-XrU&t=35s)]* Shalom Israel. Most High Christ bless. It's another episode of 15 minutes with the captains. I'm your captain for the day, Captain Yehoshua. All praise to the Most High. We got a quick lesson for you today called when no one is watching. This class today is all about those secret sins. Those things that we deal with that nobody knows about. We're going to address those things today. So what you got to remember, somebody's always watching. The Lord gave us ethics. He gave us a moral code called his laws, statutes, commandments. And what we have to give God in return, we've got to give him integrity. Which is the discipline to keep his laws, statutes, and commandments when nobody's watching. Whether it's nobody's looking or whether it's under persecution, we must still uphold our moral code, which is God's laws.
 
 ## Scriptures Opened
 
@@ -160,7 +160,7 @@ tags: ["15 Minutes w/ The Captains", "angels", "persecution", "the-law", "wisdom
 
 ## In Closing
 
-*[[21:10](https://www.youtube.com/watch?v=ABhs0iJ-XrU&t=1270s)]* I'm Captain Yahoshua. This is 15 minutes with the Captains. Shalom.
+*[[21:10](https://www.youtube.com/watch?v=ABhs0iJ-XrU&t=1270s)]* I'm Captain Yehoshua. This is 15 minutes with the Captains. Shalom.
 
 ---
 

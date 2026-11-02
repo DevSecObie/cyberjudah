@@ -2,7 +2,7 @@
 title: "Is Promotion In The Bible??"
 slug: "2025/2025-12-19-is-promotion-in-the-bible"
 date: "2025-12-19"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "15 Minutes w/ The Captains · 2025-12-19"
 tags: ["15 Minutes w/ The Captains", "leadership", "the-body"]
 ---
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "leadership", "the-body"]
 
 ## Introduction
 
-*[[0:18](https://www.youtube.com/watch?v=4lO97R50BuI&t=18s)]* Shalom. Most High in Christ bless. Welcome to another edition of 15 minutes with the captains. Today you got myself, Captain Emmanuel of IUIC Arkansas. And today's topic is: is promotion in the Bible? A lot of brothers and sisters, oftentimes, unfortunately, when they're butt hurt and they leave, and people just on the outside looking in that have never seen a movement such as this, one of their many criticisms is, yeah, they do promotions and they got ranking. The Bible ain't about ranking. We're all one in Christ Jesus. So we going to cover: is promotion in the Bible?
+*[[0:18](https://www.youtube.com/watch?v=4lO97R50BuI&t=18s)]* Shalom. Most High in Christ bless. Welcome to another edition of 15 minutes with the captains. Today you got myself, Captain Immanuel of IUIC Arkansas. And today's topic is: is promotion in the Bible? A lot of brothers and sisters, oftentimes, unfortunately, when they're butt hurt and they leave, and people just on the outside looking in that have never seen a movement such as this, one of their many criticisms is, yeah, they do promotions and they got ranking. The Bible ain't about ranking. We're all one in Christ Jesus. So we going to cover: is promotion in the Bible?
 
 ## Scriptures Opened
 

@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 2 Corinthians 7"
 slug: "2026/2026-03-30-giving-the-sense-from-a-to-z-2-corinthians-7"
 date: "2026-03-30"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "Giving The Sense From A to Z · 2026-03-30"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "leadership", "the-law", "the-word"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2026-03-30 · Captain Emmanuel</p>
+<p class="taught">Giving The Sense From A to Z · 2026-03-30 · Captain Immanuel</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [2 Cor 7](/bible/2-corinthians/7) · [2 Cor 6](/bible/2-corinthians/6) · [Jer 31](/bible/jeremiah/31) · [Jer 32](/bible/jeremiah/32) · [Ezek 11](/bible/ezekiel/11) · [Rom 9](/bible/romans/9) · [Heb 8](/bible/hebrews/8) · [Rev 21](/bible/revelation/21)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "leadership", "the-law", "the-word"]
 
 ## Introduction
 
-*[[15:39](https://www.youtube.com/watch?v=ajiZAMpCVlY&t=939s)]* Shalom. Shalom. Most High Christ bless. Welcome to another edition of Giving the Sense From A to Z. Today you got myself, Captain Emmanuel of IUIC Arkansas. And today we are going over 2 Corinthians the 7th chapter. All right. Let's open up with Nehemiah chapter 8 and verse 8.
+*[[15:39](https://www.youtube.com/watch?v=ajiZAMpCVlY&t=939s)]* Shalom. Shalom. Most High Christ bless. Welcome to another edition of Giving the Sense From A to Z. Today you got myself, Captain Immanuel of IUIC Arkansas. And today we are going over 2 Corinthians the 7th chapter. All right. Let's open up with Nehemiah chapter 8 and verse 8.
 
 ## Scriptures Opened
 

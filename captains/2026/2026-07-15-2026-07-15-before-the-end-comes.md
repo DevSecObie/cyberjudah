@@ -2,7 +2,7 @@
 title: "Before The End Comes"
 slug: "2026/2026-07-15-before-the-end-comes"
 date: "2026-07-15"
-teacher: "Captain Yahoshua"
+teacher: "Captain Yehoshua"
 description: "15 Minutes w/ The Captains · 2026-07-15"
 tags: ["15 Minutes w/ The Captains", "adversity", "christ", "heaven-hell", "prophecy", "war"]
 ---

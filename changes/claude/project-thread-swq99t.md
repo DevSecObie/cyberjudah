@@ -1,1 +1,4 @@
-- 15 Minutes w/ The Captains: corrected the teacher on 7 episodes (data only). Five episodes tagged Captain Mattathias are Captain Matt: the host introduces himself as "Captain Matt" (Baton Rouge on 2026-06-10), and the 2026-09-28 thumbnail shows the same artwork credit. Two episodes heard as "Captain Yochanan" (2026-09-02) and "Captain Yanathan" (2026-01-21) are Captain Yawanathan, as each thumbnail is signed.
+- 15 Minutes w/ The Captains: Obie's answers from the Captain Name Check page (2026-11-02), data only.
+  - Captain Matthew and Captain Matt are different men: 22 episodes whose thumbnail or lower third says "Captain Matthew" now say Captain Matthew (including the 5 that #782 set to Captain Matt).
+  - 2026-06-01 Social Media is Captain Tobias; 2026-01-09 What Did Christ Fulfill? is Captain Nahshon; 2026-10-21 PRIDE is Captain Neariah; 2026-10-26 How To Prove Part 1 is Captain Yadayah; 2020-08-06 Centurion Contradiction is Deacon Isaac.
+  - Spellings follow his thumbnails: Captain Yehoshua (was Yahoshua) and Captain Immanuel (was Emmanuel), in every note and data file; names.tsv now lists Immanuel first.

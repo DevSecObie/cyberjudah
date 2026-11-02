@@ -2,13 +2,13 @@
 title: "MAN UP MONDAYS: Social Media Influencers VS God's Influence"
 slug: "2023/2023-08-07-man-up-mondays-social-media-influencers-vs-god-s-influence"
 date: "2023-08-07"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "Man Up Mondays · 2023-08-07"
 collection: "Man Up Mondays"
 tags: ["IUIC in the ClassRoom", "media", "prophecy", "wisdom", "youth"]
 ---
 
-<p class="taught">Man Up Mondays · 2023-08-07 · Captain Emmanuel</p>
+<p class="taught">Man Up Mondays · 2023-08-07 · Captain Immanuel</p>
 
 <span class="opens"><b>Opens</b> [Eccl 10](/bible/ecclesiastes/10) · [Prov 15](/bible/proverbs/15) · [Exod 23](/bible/exodus/23) · [Sir 26](/bible/sirach/26) · [Titus 1](/bible/titus/1) · [Luke 7](/bible/luke/7) · [Isa 3](/bible/isaiah/3) · [Sir 17](/bible/sirach/17) · [Wis 4](/bible/wisdom-of-solomon/4) · [Wis 2](/bible/wisdom-of-solomon/2) · [1 Cor 1](/bible/1-corinthians/1) · [Wis 7](/bible/wisdom-of-solomon/7) · [Rev 11](/bible/revelation/11) · [2 Esdras 1](/bible/2-esdras/1) · [Acts 2](/bible/acts/2) · [Acts 17](/bible/acts/17) · <i>and 2 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["IUIC in the ClassRoom", "media", "prophecy", "wisdom", "youth"]
 
 ## Introduction
 
-*[[7:00](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=420s)]* Man Up Mondays with Captain Emmanuel of IUIC Arkansas, filling in for the captain, on social media influencers versus God's influence. The class starts from the riot in New York's Union Square at Twitch streamer Kai Cenat's giveaway: influencers are "the most trending modern occupation in 2023", and the Bible shows why folly is set in great dignity, what it does to our children's minds, and the pure influence of the Almighty that counteracts it.
+*[[7:00](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=420s)]* Man Up Mondays with Captain Immanuel of IUIC Arkansas, filling in for the captain, on social media influencers versus God's influence. The class starts from the riot in New York's Union Square at Twitch streamer Kai Cenat's giveaway: influencers are "the most trending modern occupation in 2023", and the Bible shows why folly is set in great dignity, what it does to our children's minds, and the pure influence of the Almighty that counteracts it.
 
 ## Scriptures Opened
 

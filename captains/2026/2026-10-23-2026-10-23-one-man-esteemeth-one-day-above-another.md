@@ -2,7 +2,7 @@
 title: "One Man Esteemeth One Day Above Another"
 slug: "2026/2026-10-23-one-man-esteemeth-one-day-above-another"
 date: "2026-10-23"
-teacher: "Captain Yahoshua"
+teacher: "Captain Yehoshua"
 description: "15 Minutes w/ The Captains · 2026-10-23"
 tags: ["15 Minutes w/ The Captains", "christ", "false-religion", "passover-feasts", "purpose", "sabbath"]
 ---
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "false-religion", "passover-feast
 
 ## Introduction
 
-*[[0:15](https://www.youtube.com/watch?v=hVIpx4WkiJY&t=15s)]* Captain Yahoshua with 15 Minutes with the Captains, and Officer Nehemiah reading. Today we deal with the Apostle Paul. Something he said in Romans 14 got Christians all jacked up: Christianity has perverted the understanding of Paul's epistles, but the prophets are here to give you a clear understanding. One man esteemeth one day above another: what is Paul talking about?
+*[[0:15](https://www.youtube.com/watch?v=hVIpx4WkiJY&t=15s)]* Captain Yehoshua with 15 Minutes with the Captains, and Officer Nehemiah reading. Today we deal with the Apostle Paul. Something he said in Romans 14 got Christians all jacked up: Christianity has perverted the understanding of Paul's epistles, but the prophets are here to give you a clear understanding. One man esteemeth one day above another: what is Paul talking about?
 
 ## Scriptures Opened
 
@@ -170,7 +170,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "false-religion", "passover-feast
 
 ## In Closing
 
-*[[16:27](https://www.youtube.com/watch?v=hVIpx4WkiJY&t=987s)]* Christianity has perverted the minds of our brothers and sisters by giving us a false understanding of Paul's epistles. Paul was never saying you don't have to keep the Sabbath, or the Day of Atonement. We see examples all throughout the New Testament of Christ, the apostles, the disciples and various Christians that kept the feast days, and we are to continue keeping the feast days in the faith of Christ. At this time historically, Paul tells us not to let contention be inside the church about something we know is coming to an end in 70 AD. I'm Captain Yahoshua. Shalom. Most High Christ bless you all.
+*[[16:27](https://www.youtube.com/watch?v=hVIpx4WkiJY&t=987s)]* Christianity has perverted the minds of our brothers and sisters by giving us a false understanding of Paul's epistles. Paul was never saying you don't have to keep the Sabbath, or the Day of Atonement. We see examples all throughout the New Testament of Christ, the apostles, the disciples and various Christians that kept the feast days, and we are to continue keeping the feast days in the faith of Christ. At this time historically, Paul tells us not to let contention be inside the church about something we know is coming to an end in 70 AD. I'm Captain Yehoshua. Shalom. Most High Christ bless you all.
 
 ---
 

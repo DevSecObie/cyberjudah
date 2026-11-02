@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 6:36"
 slug: "2025/2025-02-24-giving-the-sense-from-a-to-z-luke-6-36"
 date: "2025-02-24"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "Giving The Sense From A to Z · 2025-02-24"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "justice", "mercy", "persecution", "the-law", "wisdom"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-02-24 · Captain Emmanuel</p>
+<p class="taught">Giving The Sense From A to Z · 2025-02-24 · Captain Immanuel</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Luke 6](/bible/luke/6) · [Sir 28](/bible/sirach/28) · [James 2](/bible/james/2) · [Sir 18](/bible/sirach/18) · [Matt 7](/bible/matthew/7) · [Rom 2](/bible/romans/2) · [James 4](/bible/james/4) · [Gal 6](/bible/galatians/6) · [Sir 1](/bible/sirach/1) · [1 Cor 11](/bible/1-corinthians/11) · [Matt 23](/bible/matthew/23) · [Isa 9](/bible/isaiah/9) · [Matt 10](/bible/matthew/10) · [1 Pet 4](/bible/1-peter/4) · [John 15](/bible/john/15) · <i>and 21 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "justice", "mercy", "persecution", "the-law
 
 ## Introduction
 
-*[[3:57](https://www.youtube.com/watch?v=og7TE2c_KxY&t=237s)]* Shalom, shalom Israel. Most High and Christ bless. Welcome to another edition of Giving The Sense From A to Z. Today you got Captain Emmanuel of Arkansas, and Lord willing, today we'll be wrapping up Luke chapter 6. All right, let's open up with Nehemiah 8 verse 8.
+*[[3:57](https://www.youtube.com/watch?v=og7TE2c_KxY&t=237s)]* Shalom, shalom Israel. Most High and Christ bless. Welcome to another edition of Giving The Sense From A to Z. Today you got Captain Immanuel of Arkansas, and Lord willing, today we'll be wrapping up Luke chapter 6. All right, let's open up with Nehemiah 8 verse 8.
 
 ## Scriptures Opened
 

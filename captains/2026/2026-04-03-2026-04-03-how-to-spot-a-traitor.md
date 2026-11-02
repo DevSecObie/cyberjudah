@@ -2,7 +2,7 @@
 title: "How To Spot A Traitor"
 slug: "2026/2026-04-03-how-to-spot-a-traitor"
 date: "2026-04-03"
-teacher: "Captain Yahoshua"
+teacher: "Captain Yehoshua"
 description: "15 Minutes w/ The Captains · 2026-04-03"
 tags: ["15 Minutes w/ The Captains", "betrayal", "christ", "deceit", "discipline", "justice", "money"]
 ---
@@ -165,7 +165,7 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "christ", "deceit", "discipline
 
 ## In Closing
 
-*[[16:19](https://www.youtube.com/watch?v=oh0jav3N2mw&t=979s)]* I'm Captain Yahoshua with 15 minutes with the captains. Shalom, Most High Christ bless.
+*[[16:19](https://www.youtube.com/watch?v=oh0jav3N2mw&t=979s)]* I'm Captain Yehoshua with 15 minutes with the captains. Shalom, Most High Christ bless.
 
 ---
 

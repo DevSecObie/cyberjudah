@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 11:26 Continued"
 slug: "2025/2025-04-16-giving-the-sense-from-a-to-z-luke-11-26-continued"
 date: "2025-04-16"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "Giving The Sense From A to Z · 2025-04-16"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-04-16 · Captain Emmanuel</p>
+<p class="taught">Giving The Sense From A to Z · 2025-04-16 · Captain Immanuel</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Luke 11](/bible/luke/11) · [2 Macc 7](/bible/2-maccabees/7) · [2 Esdras 8](/bible/2-esdras/8) · [Isa 49](/bible/isaiah/49) · [Luke 2](/bible/luke/2) · [Matt 12](/bible/matthew/12) · [Deut 32](/bible/deuteronomy/32) · [Tobit 1](/bible/tobit/1) · [Tobit 14](/bible/tobit/14) · [Jonah 1](/bible/jonah/1) · [Jonah 2](/bible/jonah/2) · [Ps 16](/bible/psalms/16) · [Acts 2](/bible/acts/2) · [Rev 1](/bible/revelation/1) · [Eph 4](/bible/ephesians/4) · <i>and 11 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 
 ## Introduction
 
-*[[10:01](https://www.youtube.com/watch?v=jYXIMyN6g5s&t=601s)]* Shalom. Shalom. Israel. Most high in Christ bless. Welcome to another edition of Giving Sense from A to Z. Today you got Captain Emmanuel of IUIC Arkansas. All right. Oh, praise to the most high. We going to continue in Luke chapter 11. Let's open up with Nehemiah chapter 8 verse 8.
+*[[10:01](https://www.youtube.com/watch?v=jYXIMyN6g5s&t=601s)]* Shalom. Shalom. Israel. Most high in Christ bless. Welcome to another edition of Giving Sense from A to Z. Today you got Captain Immanuel of IUIC Arkansas. All right. Oh, praise to the most high. We going to continue in Luke chapter 11. Let's open up with Nehemiah chapter 8 verse 8.
 
 ## Scriptures Opened
 

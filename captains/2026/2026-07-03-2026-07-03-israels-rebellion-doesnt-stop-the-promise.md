@@ -2,7 +2,7 @@
 title: "Israel's Rebellion Doesn't Stop the Promise!!"
 slug: "2026/2026-07-03-israels-rebellion-doesnt-stop-the-promise"
 date: "2026-07-03"
-teacher: "Captain Matt"
+teacher: "Captain Matthew"
 description: "15 Minutes w/ The Captains · 2026-07-03"
 tags: ["15 Minutes w/ The Captains", "anger", "heaven-hell", "mercy", "salvation"]
 ---

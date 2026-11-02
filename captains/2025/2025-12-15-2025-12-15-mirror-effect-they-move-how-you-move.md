@@ -2,7 +2,7 @@
 title: "Mirror Effect: They Move How You Move"
 slug: "2025/2025-12-15-mirror-effect-they-move-how-you-move"
 date: "2025-12-15"
-teacher: "Captain Matt"
+teacher: "Captain Matthew"
 description: "15 Minutes w/ The Captains · 2025-12-15"
 tags: ["15 Minutes w/ The Captains", "discipline", "heaven-hell", "women"]
 ---

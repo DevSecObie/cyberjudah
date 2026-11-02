@@ -2,7 +2,7 @@
 title: "The 5 Keys of Discipline"
 slug: "2026/2026-02-13-the-5-keys-of-discipline"
 date: "2026-02-13"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "15 Minutes w/ The Captains · 2026-02-13"
 tags: ["15 Minutes w/ The Captains", "discipline", "heaven-hell", "wisdom"]
 ---
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "discipline", "heaven-hell", "wisdom"]
 
 ## Introduction
 
-*[[0:14](https://www.youtube.com/watch?v=IRZrok8BO_Q&t=14s)]* Shalom most high. Christ bless. Welcome to another edition of 15 minutes with the captains. Today you got Captain Emmanuel of IUIC Arkansas. And today we going to talk about five keys of discipline. And I ain't saying these the only five, but these may be the top five.
+*[[0:14](https://www.youtube.com/watch?v=IRZrok8BO_Q&t=14s)]* Shalom most high. Christ bless. Welcome to another edition of 15 minutes with the captains. Today you got Captain Immanuel of IUIC Arkansas. And today we going to talk about five keys of discipline. And I ain't saying these the only five, but these may be the top five.
 
 ## Scriptures Opened
 

@@ -2,7 +2,7 @@
 title: "Do You Want Conversation Or Counsel??"
 slug: "2025/2025-10-08-do-you-want-conversation-or-counsel"
 date: "2025-10-08"
-teacher: "Captain Matt"
+teacher: "Captain Matthew"
 description: "15 Minutes w/ The Captains · 2025-10-08"
 tags: ["15 Minutes w/ The Captains", "discipline", "heaven-hell", "salvation"]
 ---

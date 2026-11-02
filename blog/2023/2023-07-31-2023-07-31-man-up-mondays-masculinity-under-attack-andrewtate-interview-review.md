@@ -2,13 +2,13 @@
 title: "MAN UP MONDAYS: Masculinity Under Attack! #AndrewTate Interview Review"
 slug: "2023/2023-07-31-man-up-mondays-masculinity-under-attack-andrewtate-interview-review"
 date: "2023-07-31"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "Man Up Mondays · 2023-07-31"
 collection: "Man Up Mondays"
 tags: ["IUIC in the ClassRoom", "adversity", "mental-health", "satan", "wisdom", "women"]
 ---
 
-<p class="taught">Man Up Mondays · 2023-07-31 · Captain Emmanuel</p>
+<p class="taught">Man Up Mondays · 2023-07-31 · Captain Immanuel</p>
 
 <span class="opens"><b>Opens</b> [1 Cor 11](/bible/1-corinthians/11) · [Wis 9](/bible/wisdom-of-solomon/9) · [Prov 8](/bible/proverbs/8) · [Ezek 34](/bible/ezekiel/34) · [2 Esdras 10](/bible/2-esdras/10) · [2 Esdras 14](/bible/2-esdras/14) · [2 Tim 3](/bible/2-timothy/3) · [2 Thess 2](/bible/2-thessalonians/2) · [2 Cor 11](/bible/2-corinthians/11) · [Gen 3](/bible/genesis/3) · [Hos 10](/bible/hosea/10) · [Nah 3](/bible/nahum/3) · [Isa 3](/bible/isaiah/3) · [Sir 33](/bible/sirach/33) · [Wis 4](/bible/wisdom-of-solomon/4) · [Eph 6](/bible/ephesians/6) · <i>and 15 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["IUIC in the ClassRoom", "adversity", "mental-health", "satan", "wisdom",
 
 ## Introduction
 
-*[[17:20](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=1040s)]* Man Up Mondays with Captain Emmanuel of IUIC Arkansas, filling in for the regular host, on masculinity under attack, reviewing Candace Owens' interview with Andrew Tate. God's order is God, Christ, man, woman; Satan's order is the opposite, and the man of sin, whose coming is after the working of Satan, rules the same way the serpent did in the garden: through the woman, by removing the warrior spirit from the man.
+*[[17:20](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=1040s)]* Man Up Mondays with Captain Immanuel of IUIC Arkansas, filling in for the regular host, on masculinity under attack, reviewing Candace Owens' interview with Andrew Tate. God's order is God, Christ, man, woman; Satan's order is the opposite, and the man of sin, whose coming is after the working of Satan, rules the same way the serpent did in the garden: through the woman, by removing the warrior spirit from the man.
 
 ## Scriptures Opened
 

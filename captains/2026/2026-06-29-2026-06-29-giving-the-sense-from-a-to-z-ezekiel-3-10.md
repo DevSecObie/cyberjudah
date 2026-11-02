@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Ezekiel 3:10"
 slug: "2026/2026-06-29-giving-the-sense-from-a-to-z-ezekiel-3-10"
 date: "2026-06-29"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "Giving The Sense From A to Z · 2026-06-29"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "captivity", "the-word"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2026-06-29 · Captain Emmanuel</p>
+<p class="taught">Giving The Sense From A to Z · 2026-06-29 · Captain Immanuel</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Ezek 3](/bible/ezekiel/3) · [Ezek 1](/bible/ezekiel/1) · [2 Kgs 24](/bible/2-kings/24) · [Jer 29](/bible/jeremiah/29) · [Jer 24](/bible/jeremiah/24) · [2 Esdras 5](/bible/2-esdras/5) · [Ezek 33](/bible/ezekiel/33)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "captivity", "the-word"]
 
 ## Introduction
 
-*[[19:02](https://www.youtube.com/watch?v=WHc14b0lpLA&t=1142s)]* Shalom Israel, most high in Christ bless. Welcome to another edition of Giving the Sense from A to Z. Today you got myself, Captain Emmanuel, Arkansas. And today we going to pick up in Ezekiel chapter 3. All right, let's open up with Nehemiah 8:8.
+*[[19:02](https://www.youtube.com/watch?v=WHc14b0lpLA&t=1142s)]* Shalom Israel, most high in Christ bless. Welcome to another edition of Giving the Sense from A to Z. Today you got myself, Captain Immanuel, Arkansas. And today we going to pick up in Ezekiel chapter 3. All right, let's open up with Nehemiah 8:8.
 
 ## Scriptures Opened
 

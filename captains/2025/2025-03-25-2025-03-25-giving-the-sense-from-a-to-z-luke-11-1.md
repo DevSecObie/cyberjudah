@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 11:1"
 slug: "2025/2025-03-25-giving-the-sense-from-a-to-z-luke-11-1"
 date: "2025-03-25"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "Giving The Sense From A to Z · 2025-03-25"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "repentance"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-03-25 · Captain Emmanuel</p>
+<p class="taught">Giving The Sense From A to Z · 2025-03-25 · Captain Immanuel</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Luke 11](/bible/luke/11) · [1 Kgs 8](/bible/1-kings/8) · [Luke 3](/bible/luke/3) · [Matt 11](/bible/matthew/11) · [Luke 1](/bible/luke/1) · [Heb 1](/bible/hebrews/1) · [Rev 1](/bible/revelation/1) · [Ps 33](/bible/psalms/33) · [Sir 23](/bible/sirach/23) · [Dan 2](/bible/daniel/2) · [Dan 7](/bible/daniel/7) · [2 Esdras 10](/bible/2-esdras/10) · [Ps 40](/bible/psalms/40) · [Isa 2](/bible/isaiah/2) · [Rev 21](/bible/revelation/21)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "repenta
 
 ## Introduction
 
-*[[20:18](https://www.youtube.com/watch?v=18Q2VuVS0zI&t=1218s)]* Hey, shalom, shalom family. Most High and Christ bless. Welcome to another edition of Giving The Sense From A to Z. Today you got Captain Emmanuel of IUIC Arkansas, and today we're going to pick up at Luke chapter 11. All praise to the Most High.
+*[[20:18](https://www.youtube.com/watch?v=18Q2VuVS0zI&t=1218s)]* Hey, shalom, shalom family. Most High and Christ bless. Welcome to another edition of Giving The Sense From A to Z. Today you got Captain Immanuel of IUIC Arkansas, and today we're going to pick up at Luke chapter 11. All praise to the Most High.
 
 ## Scriptures Opened
 

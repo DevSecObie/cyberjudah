@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 2:1"
 slug: "2025/2025-01-28-giving-the-sense-from-a-to-z-luke-2-1"
 date: "2025-01-28"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "Giving The Sense From A to Z · 2025-01-28"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "captivity", "rome"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-01-28 · Captain Emmanuel</p>
+<p class="taught">Giving The Sense From A to Z · 2025-01-28 · Captain Immanuel</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Luke 2](/bible/luke/2) · [2 Esdras 12](/bible/2-esdras/12) · [Acts 5](/bible/acts/5) · [Matt 17](/bible/matthew/17) · [Wis 7](/bible/wisdom-of-solomon/7)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "captivity", "rome"]
 
 ## Introduction
 
-*[[15:46](https://www.youtube.com/watch?v=zjL9F48C_Vg&t=946s)]* Shalom, Most High Christ bless. Welcome to another edition of Giving the Sense from A to Z. Today you got myself, Captain Emmanuel of Arkansas, and today we're going to continue in the Book of Luke, Luke chapter 2.
+*[[15:46](https://www.youtube.com/watch?v=zjL9F48C_Vg&t=946s)]* Shalom, Most High Christ bless. Welcome to another edition of Giving the Sense from A to Z. Today you got myself, Captain Immanuel of Arkansas, and today we're going to continue in the Book of Luke, Luke chapter 2.
 
 ## Scriptures Opened
 

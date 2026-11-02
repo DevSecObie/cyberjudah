@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 8:1"
 slug: "2025/2025-11-19-giving-the-sense-from-a-to-z-1-corinthians-8-1"
 date: "2025-11-19"
-teacher: "Captain Matt"
+teacher: "Captain Matthew"
 description: "Giving The Sense From A to Z · 2025-11-19"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "idolatry", "love", "the-law"]
