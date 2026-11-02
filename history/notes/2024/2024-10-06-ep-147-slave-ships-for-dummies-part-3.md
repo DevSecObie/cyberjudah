@@ -18,32 +18,11 @@ tags: ["Our Hidden History", "africa-moors", "captivity", "spain-inquisition"]
 
 ## Introduction
 
-*[[4:42](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=282s)]* Hey, welcome back, welcome back, welcome back to the show. That's right. All praise to the Most High. You are now tuned into Our Hidden History radio show.
-
-**Captain Yahn:** Deep, I'm still recovering because of what I experienced last night.
-
-**Deacon Eythan:** What you talking about?
-
-**Captain Yahn:** Most High, Christ bless you all. It's an honor to be on Our Hidden History, but we got to make a statement before we start the show. Last night, look: Philly, y'all can have it. New York don't want it. Y'all can have it. Brothers was partying, dancing at six, in the six, in the seven in the morning. What's going on?
-
-**Deacon Eythan:** That's right. Who, New York? We take a break.
-
-**Captain Yahn:** You didn't tell me Philly's like that.
-
-**Deacon Eythan:** Yeah, Philly is terrible. Tabernacles. I didn't even say shalom, I just left. Yeah, you just leave. You got to go to work, anything, just go. Just go.
-
-**Captain Yahn:** So I woke up... we stopped at 7:00 in the morning, so I only got four hours of sleep. So it's all right. It's all right.
-
-**Deacon Eythan:** So the weather's still nice too. Weather's very nice. Beautiful. See, wearing short sleeves. You're not wearing no coats and jumpsuits and all that.
-
-**Captain Yahn:** Well, I wore a long sleeve because I was told that it's real cold.
-
-**Deacon Eythan:** Yes, yes. So, yes, I overprepared. Yes, overdressed.
+*[[4:42](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=282s)]* You are now tuned into Our Hidden History radio show.
 
 *[[6:21](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=381s)]* So we're going to open up with a very special figure that I want to bring up in this portion of the lesson. It's a very, very intelligent brother, intellectual brother, that many of you people who deny slave ships would be very impressed with. So open up that video real quick if you can. Many of you brothers and sisters who are denying the slave ships, this brother right here might be a monumental figure for you. In fact, you remind me of him. He should remind you of you. All right, we just going to get that video real quick. Let's jump into it real fast.
 
 ## Readings and Scriptures
-
 
 <div class="reading">
 
@@ -51,7 +30,7 @@ Reading from a clip of the In Living Color character Oswald Bates  *[[7:12](http
 
 > First of all, we must internalize the flatulation of the matter by transmitting the effervescence of the Indonesian proximity in order to further segregate the crux of my infection. If I may retain my liquids here for one moment, I'd like to continue the redundance of my, quote unquote, intestinal tract. See, because to prude on the issue, world domination would only circumvent, excuse me, circumcise the revelation that reflects the Afro-destic symptoms which now perpetrates the Jericho's activation. Do not misinterpret, because a mind is a terrible thing to develop without help. Allow me to expose my colon. Once the ramification inflicted on the incision placed within the fallopian cavities serves to be holistic, taken from the Latin word jalapeño.
 
-- So now I want to show you guys the actual people that this character in Living Color is based on. Give me the next video. Oswald Bates is real. Real person. He comes in the male, he comes as a female. In real life, which is very sad, but it's very true.
+- So now I want to show you guys the actual people that this character in Living Color is based on. Oswald Bates is real. Real person. He comes in the male, he comes as a female. In real life, which is very sad, but it's very true.
 
 </div>
 
@@ -99,8 +78,7 @@ Reading from another video of a man denying the slave ships  *[[9:41](https://ww
 
 - **Deacon Eythan:** Yeah, so the artifacts are still there. Yeah, the pictures of us working in the plantations in Egypt, it's on the walls. They're drawn on the walls. We have the books, we have the artifacts.
 
-*[[15:55](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=955s)]* So go back to Deuteronomy 28 again, Deuteronomy chapter 28 and 68. And the Lord shall bring thee into Egypt again with ships. With ships: bring you into slavery or bondage again with ships. By the way whereof I spake unto thee: thou shalt see it no more again. It is Egypt. You shall see literal Egypt no more again. Israel, all twelve tribes, never return to Egypt as slaves again. So as a nation we would see it no more again. And there, in this particular Egypt or bondage, you shall be sold unto your enemies, for bondmen, slave men, and bondwomen, slave women. And no man shall buy you. No man shall buy, meaning no man shall redeem you. Redeem you, as in him. Because under Moses, whenever a brother fell in hard times, he would put himself into bondage, indentured servitude, and try to work off his debt. But there was a way, according to the law, your brother, his family can come along, or kin can come along, and buy him out of that bondage and pay off his debt, or redeem him. That's why it says no man shall buy you, or no man shall redeem you from that. That's why it said you shall be bondmen and bondwomen. Hold that. Get Exodus 21 real quick. I'm going to show you the difference between a bondman and a manservant and maidservant. There's a difference. Exodus 21, and we're going to read verse one.
-
+*[[15:55](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=955s)]* So go back to Deuteronomy 28 again, Deuteronomy chapter 28 and 68. And the Lord shall bring thee into Egypt again with ships. With ships: bring you into slavery or bondage again with ships. By the way whereof I spake unto thee: thou shalt see it no more again. It is Egypt. You shall see literal Egypt no more again. Israel, all twelve tribes, never return to Egypt as slaves again. So as a nation we would see it no more again. And there, in this particular Egypt or bondage, you shall be sold unto your enemies, for bondmen, slave men, and bondwomen, slave women. And no man shall buy you. No man shall buy, meaning no man shall redeem you. Redeem you, as in him. Because under Moses, whenever a brother fell in hard times, he would put himself into bondage, indentured servitude, and try to work off his debt. But there was a way, according to the law, your brother, his family can come along, or kin can come along, and buy him out of that bondage and pay off his debt, or redeem him. That's why it says no man shall buy you, or no man shall redeem you from that. That's why it said you shall be bondmen and bondwomen. Get Exodus 21 real quick. I'm going to show you the difference between a bondman and a manservant and maidservant. There's a difference. Exodus 21, and we're going to read verse one.
 
 **[Exodus 21:1-2](/bible/exodus/21#v1)**  *[[17:46](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=1066s)]*
 
@@ -110,7 +88,7 @@ Reading from another video of a man denying the slave ships  *[[9:41](https://ww
 
 - If you buy an Hebrew servant: this is a manservant.
 
-- So a brother, if you fell on hard times, he would put himself into servitude to work off a debt, but by the seventh year, whether he paid his debt off or not, or worked it off or not, he was allowed to go free. Okay, so he cannot exceed six years. He can work six years, but the seventh year he can go free. Now, if he chose to stay longer, laws are instituted that allow him to stay forever, but based upon his own desire. Not against his will, like us by the white man and the Arab man and the Chinese man, Japanese man. So let me jump down. Hold on. Go down to verse seven.
+- So a brother, if you fell on hard times, he would put himself into servitude to work off a debt, but by the seventh year, whether he paid his debt off or not, or worked it off or not, he was allowed to go free. Okay, so he cannot exceed six years. He can work six years, but the seventh year he can go free. Now, if he chose to stay longer, laws are instituted that allow him to stay forever, but based upon his own desire. Not against his will, like us by the white man and the Arab man and the Chinese man, Japanese man. So let me jump down. Go down to verse seven.
 
 **[Exodus 21:7](/bible/exodus/21#v7)**  *[[18:51](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=1131s)]*
 
@@ -130,7 +108,7 @@ Reading from another video of a man denying the slave ships  *[[9:41](https://ww
 
 > <sup>[46](/bible/leviticus/25#v46)</sup> And ye shall take them as an inheritance for your children after you, to inherit them for a possession; they shall be your bondmen for ever: but over your brethren the children of Israel, ye shall not rule one over another with rigour.
 
-- Come on. To inherit them for a possession. You watch this: they shall be your bondmen forever. Forever. That's the distinction. That's why the Lord said to Israel, you shall be bondmen and bondwomen, because that slavery for us became perpetual.
+- To inherit them for a possession. You watch this: they shall be your bondmen forever. Forever. That's the distinction. That's why the Lord said to Israel, you shall be bondmen and bondwomen, because that slavery for us became perpetual.
 
 - With rigour: fierce bondage. Don't be rough on your people when they serve you. The other nations, however, it is what it is. So the other nations, they were our bondmen and women. But when the Most High told us to keep the commandments of God, and we violated that covenant, he said, now you're going to be slaves now perpetually, you and your children. As your servants once were under you, now they're going to be over you.
 
@@ -150,7 +128,7 @@ Reading from another video of a man denying the slave ships  *[[9:41](https://ww
 
 - All right, so the rulers was being very evil and wicked. There was the feeble ones, that was the poor people that was in Israel.
 
-- So Nehemiah started setting up orders. Read on.
+- So Nehemiah started setting up orders.
 
 > <sup>[8](/bible/nehemiah/5#v8)</sup> And I said unto them, We after our ability have redeemed our brethren the Jews, which were sold unto the heathen; and will ye even sell your brethren? or shall they be sold unto us? Then held they their peace, and found nothing to answer.
 
@@ -161,7 +139,6 @@ Reading from another video of a man denying the slave ships  *[[9:41](https://ww
 *[[23:23](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=1403s)]* All right, now give me the book I want: *A Pictorial History of the Negro in America*. Unlike you Negroes who teach prisdom on YouTube. Prison wisdom on YouTube. Prisdom, I call it. That's when they go to jail and their butthole becomes mysteriously enlarged, and their brain somehow shrinks in the process. How, I do not know. How, I know not, and I will say not. But you got the idea. I gave her that book. You got to have it: *Pictorial History of the Negro in America*. I think it's a big blue cover.
 
 *[[24:07](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=1447s)]* So while they're doing that: it's very important that we gain a certain level of pride and dignity in who and what we are, and not only in our own eyes but in the sight of the Lord. Because that was one of the things that Israel had a problem with. Israel had a problem with who they were. Israel desired to be the nations so bad, man. They want to be everything but what they are. And everybody wants to be you. Everybody try to dance like us, and cook like us, and walk like us, and talk like us, and dress like us. We are the salt of the earth. But our people don't acknowledge the flavor that we bring to this earth. We don't acknowledge it. We just walk around just lost and stupid, and try to run from who we are, and our culture and our history. It's a very, very sad time we're living in. It's a terrible thing. Give me, real quick, Jeremiah 2. I read this all the time. Jeremiah 2, and read verse 25.
-
 
 **[Jeremiah 2:25](/bible/jeremiah/2#v25)**  *[[25:43](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=1543s)]*
 
@@ -185,10 +162,9 @@ Reading from another video of a man denying the slave ships  *[[9:41](https://ww
 
 - Of a strange vine unto me. We become strange, because what? We went after strangers, because we love them.
 
-*[[28:24](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=1704s)]* Page 12 I want, page 12 and 13. Wait, wait, wait. That's not it. That's not it. Come on, man. Y'all can't find it? I sent y'all the book. Come on. Bring 1 Timothy chapter 6, verse 3. You found it? 1 Timothy 6, verse 3.
+*[[28:24](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=1704s)]* Page 12 I want, page 12 and 13. That's not it. That's not it. Y'all can't find it? I sent y'all the book. Bring 1 Timothy chapter 6, verse 3. You found it? 1 Timothy 6, verse 3.
 
 *[[28:58](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=1738s)]* What I realize with some brothers, when we out teaching at camp: well, not only are our people dumb as hell, our people don't know anything. A lot of our people, you going to realize, they just want to argue. They just want to argue. They confused, they lost, they want to argue. That's it. There is no winning some souls over. So brothers, what y'all got to realize: some brothers are a waste of time. In the beginning I talk to them: hey, go to the scripture, go to that scripture. Then after a while you realize, you know what, some brothers, there is no convincing them. They're contrarians. Common sense is gone. They're contrarians. Just be difficult, right? Watch what Paul said about these type of spirits. Watch, 1 Timothy 6:3.
-
 
 **[1 Timothy 6:3-5](/bible/1-timothy/6#v3)**  *[[29:55](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=1795s)]*
 
@@ -218,8 +194,7 @@ Reading from another video of a man denying the slave ships  *[[9:41](https://ww
 
 - From such withdraw thyself. Withdraw thyself from that brother coming to the camp. Because in your mind you're thinking, you know what, let me just embarrass him. No. We can embarrass him, but understand, he just wants to take away the crowd. That's all. So that's it.
 
-*[[33:24](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=2004s)]* Got the book now. All praises. Give me page 12. Okay, page 12, there we go. Blow it up. Black Gold. Get that there. Wait, wait, go up, go to the top: "Slave traffic on the coast of Africa." Now you see, this is one of the most popular pictures we have. You got Ishmael there, Ham and Edom all together. Okay, this is Joel 3 in full effect here. Joel 3 and 6 in full effect. Now we going to go there soon, but let's go down to the paragraph there. Do that, Black Gold.
-
+*[[33:24](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=2004s)]* Got the book now. Give me page 12. Okay, page 12, there we go. Blow it up. Black Gold. Get that there. Wait, wait, go up, go to the top: "Slave traffic on the coast of Africa." Now you see, this is one of the most popular pictures we have. You got Ishmael there, Ham and Edom all together. Okay, this is Joel 3 in full effect here. Joel 3 and 6 in full effect. Now we going to go there soon, but let's go down to the paragraph there. Do that, Black Gold.
 
 <div class="reading">
 
@@ -227,7 +202,7 @@ Reading from *A Pictorial History of the Negro in America*, page 12, "Black Gold
 
 > By the middle of the 16th century, more than 10,000 Africans a year were being sold to the European colonists in the West Indies. Portuguese ships were the first to engage in the slave traffic.
 
-- Right. The Portuguese are the first to engage in the slave traffic of the Atlantic Ocean. Okay. But the Arabs were already doing it back and forth.
+- The Portuguese are the first to engage in the slave traffic of the Atlantic Ocean. But the Arabs were already doing it back and forth.
 
 > But it was not long before Spanish, French, Dutch and English slavers took it up. The English colonists in the New World imported white indentured workers at first,
 
@@ -235,11 +210,11 @@ Reading from *A Pictorial History of the Negro in America*, page 12, "Black Gold
 
 > but found there weren't enough of them. The Indians in America refused to work, or in the main proved to be poorly fitted for long hours of hard labor. In the long run the Europeans find it easier and cheaper to import Africans as slaves. Thus, by the 17th century, the African slave trade was booming in the Americas.
 
-- Right. But it was even cheaper to have Native Americans, because Native Americans are already there. But they died faster, because they weren't really used to that labor. Well, so they say. But read on.
+- But it was even cheaper to have Native Americans, because Native Americans are already there. But they died faster, because they weren't really used to that labor. Well, so they say. But read on.
 
 > To compete with the Dutch and French, the King of England in 1672
 
-- What year? 1672. What would that be? 17th century. Yes sir, 17th century. That idiot. Go ahead.
+- What year? 1672. What would that be? 17th century. Yes sir, 17th century. That idiot.
 
 > chartered the Royal African Company, which soon dominated the entire slave trade. The slave dealers made so much money from their human cargoes that soon Africans came to be known as Black Gold.
 
@@ -252,8 +227,6 @@ Reading from *A Pictorial History of the Negro in America*, page 12, "Black Gold
 > chained together and allowed on deck only a few minutes per day for fresh air and exercise. In bad weather they got neither. The food was often spoiled, the water stagnant, their quarters filthy. For each five slaves delivered safely to the Americas, historians estimate that one perished on the way.
 
 > Some slaves committed suicide by jumping into the water, or even by swallowing their own tongues.
-
-- Wow.
 
 > Those who rebelled were often shot down or beaten to death on shipboard. Most of the Africans imported to the Americas came from Gambia, the Gold Coast, Guinea. The natives of Senegal, who were often skilled artisans, brought the highest prices. On the other hand, the Ibos from Calabar
 
@@ -269,9 +242,9 @@ Reading from *A Pictorial History of the Negro in America*, page 12, "Black Gold
 
 > when the slave trade became one of the world's great businesses.
 
-- So here's a vessel here. It says: "Section of a vessel showing the way in which slaves were stowed on board." Go up some, go up to the top. Another picture. This guy, that image right here: oh, this is fake. Your brain is fake. "Loading plan of a slave ship, with the irons used for shackling the cargo." Go up. See, shackles. Those are shackles right there.
+- So here's a vessel here. It says: "Section of a vessel showing the way in which slaves were stowed on board." Go up some, go up to the top. Another picture. This guy, that image right here: oh, this is fake. Your brain is fake. "Loading plan of a slave ship, with the irons used for shackling the cargo." See, shackles. Those are shackles right there.
 
-- Now, there's a brother we spoke to, Mr. Ragsdale. He had a museum, Lest We Forget, and he actually has the slave chains, to look just like this, in the top right. Okay, rusty. He had also a noose with the blood still burnt into the rope, of hanging the brother and burning him. His DNA and blood are still burned on the rope. Okay. You want to say something, Cap?
+- Now, there's a brother we spoke to, Mr. Ragsdale. He had a museum, Lest We Forget, and he actually has the slave chains, to look just like this, in the top right. Okay, rusty. He had also a noose with the blood still burnt into the rope, of hanging the brother and burning him. His DNA and blood are still burned on the rope. You want to say something, Cap?
 
 - **Captain Yahn:** Yes sir. No, you in the spirit. I was thinking the same thing. We've been in communication with him for years. We do family trips there, and he collected all of these for years. And since you were talking about the ship and the cruelty that took place in the ship: Mr. Ragsdale brought out, with many of the slave ships, you could smell it when it was miles off the coast.
 
@@ -279,15 +252,15 @@ Reading from *A Pictorial History of the Negro in America*, page 12, "Black Gold
 
 - **Captain Yahn:** Well, we built Wall Street, to block out the smell.
 
-- **Deacon Eythan:** He's referring to when the ships docked into New York, on the harbor in Manhattan. Okay. We taught there years ago, years, years ago. When you go to Wall Street, the stock exchange area, when you go there, that spirit is there.
+- **Deacon Eythan:** He's referring to when the ships docked into New York, on the harbor in Manhattan. We taught there years ago, years, years ago. When you go to Wall Street, the stock exchange area, when you go there, that spirit is there.
 
 - **Captain Yahn:** I went there. We went there. Remember, we did camp on there.
 
 - **Deacon Eythan:** We did camp on the auction block. They were selling black Americans on the same spot, with George Washington's statue right there. And you get an eerie... if you in the spirit anyway, you get an eerie feeling, like a weird... like you've been there before. The streets are cobblestone. Old school cobblestone. So they didn't change nothing. Nothing changed. It's how it was, and how it's going to be.
 
-- **Captain Yahn:** Okay. I used to work there. I used to work over there too, doing messenger, and the trades that they be doing. Sometime I be looking at the envelope. Back then, I was younger, the minimum was like $3.35 an hour. I was transporting $65 millions to a billion dollar check, because you used to have the check in your hand when they're doing the transaction. I'm like, what the hell in my hand? I'm taking one check from this company, bring it to the other company. A billion dollars, $600 million, $550 million. That was crazy.
+- **Captain Yahn:** I used to work there. I used to work over there too, doing messenger, and the trades that they be doing. Sometime I be looking at the envelope. Back then, I was younger, the minimum was like $3.35 an hour. I was transporting $65 millions to a billion dollar check, because you used to have the check in your hand when they're doing the transaction. I'm like, what the hell in my hand? I'm taking one check from this company, bring it to the other company. A billion dollars, $600 million, $550 million. That was crazy.
 
-- **Captain Yahn:** I just said something, because remember, you just mentioned that the book says black gold, and they were selling us for $150 in the 17th century. Put that up. Y'all see it on Telegram. This the Google right here. See that right there: black gold. Read that.
+- **Captain Yahn:** I just said something, because remember, you just mentioned that the book says black gold, and they were selling us for $150 in the 17th century. This the Google right here. See that right there: black gold.
 
 </div>
 
@@ -303,7 +276,7 @@ Reading from a search result on the value of $150 then, in 2024, posted by Capta
 
 - **Deacon Eythan:** The water from West Africa, the current is towards the west. So if you on a ship, and let's say you lose your way, automatically you're going to sail to the Americas. Automatically. You don't go nowhere else. End up in the Americas. The current is westward. And sharks change their course, right, toward that way, because our bodies are thrown overboard. So the sharks, they traverse that same route, based upon the bodies thrown overboard as well.
 
-- **Captain Yahn:** Drop a bomb. Come on, man. Sharks change their course because so many bodies of our brothers were being thrown off. He brought that out too, Mr. Ragsdale. He brought out a lot of history.
+- **Captain Yahn:** Drop a bomb. Sharks change their course because so many bodies of our brothers were being thrown off. He brought that out too, Mr. Ragsdale. He brought out a lot of history.
 
 - **Deacon Eythan:** You said 28 and 2. Read this, Isaiah 28:2.
 
@@ -365,14 +338,13 @@ Reading from a search result on the value of $150 then, in 2024, posted by Capta
 
 *[[51:05](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=3065s)]* Now give me the next book, *The Voyages of Diogo Cão*. It's a very thin brown book. Another old book. I bring out old books. I bring out books that we weren't allowed to have in our libraries. Any book I had that's 1960 or earlier than that was in a white-people-only library. Remember, during that time you had segregation. You had black libraries and white ones, right? So if the book goes to 1950, most likely it wasn't in our library. This is not in our library at all. This book goes back... it's early, early. *The Voyages of Diogo Cão and Bartholomeu Dias*, Portuguese, 1482 to 88. Give me page 11. Blow it up.
 
-
 <div class="reading">
 
 Reading from *The Voyages of Diogo Cão and Bartholomeu Dias, 1482 to 88*, page 11  *[[51:56](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=3116s)]*
 
 > It may be presumed that Cão, in the course of this second voyage, gained a fuller knowledge of the coast first discovered by him to the north of the Congo.
 
-- So this is a book going into the history of the Portuguese navigation, their travels along the sea coast of Africa, in their travels and their explorations. Okay.
+- So this is a book going into the history of the Portuguese navigation, their travels along the sea coast of Africa, in their travels and their explorations.
 
 > He may thus have visited and named the bay called Golfo de Judeo,
 
@@ -386,7 +358,7 @@ Reading from *The Voyages of Diogo Cão and Bartholomeu Dias, 1482 to 88*, page 
 
 > either because there was a Jew on board his vessel,
 
-- BS. So they're going to say the reason why he called the whole area Jews Bay is because of a Jew on his ship. No, that's not why. Read on.
+- BS. So they're going to say the reason why he called the whole area Jews Bay is because of a Jew on his ship. No, that's not why.
 
 > or, what is less likely,
 
@@ -408,7 +380,7 @@ Reading from *The Voyages of Diogo Cão and Bartholomeu Dias*, page 27, the note
 
 > Praia de Judeo.
 
-- Now read that there. Wait, wait, where the marks at? Blow it up some more. A little bit more. Go up. Right here, you see: Praia de Judeo. Praia is Portuguese for bay also. It's either golfo or praia. So on the Earth Apple, one of the oldest maps, or oldest globes, ever made, they have this term here, Praia de Judeo. Okay, which means Bay of Judah, or Bay of the Jews. Now go down to the bottom right there. Read that.
+- Now read that there. Wait, wait, where the marks at? Blow it up some more. A little bit more. Right here, you see: Praia de Judeo. Praia is Portuguese for bay also. It's either golfo or praia. So on the Earth Apple, one of the oldest maps, or oldest globes, ever made, they have this term here, Praia de Judeo. Okay, which means Bay of Judah, or Bay of the Jews. Now go down to the bottom right there.
 
 > Golfo de Judeo, Jews Bay.
 
@@ -418,7 +390,7 @@ Reading from *The Voyages of Diogo Cão and Bartholomeu Dias*, page 27, the note
 
 > The Jew later on was converted into an Indian,
 
-- So they changed the term. They changed it from Jews Bay to Indian Bay. Okay. Now, I can't say for certain, but I believe that they brought northern kingdom over that side of the world. They brought northern kingdom back to Congo, to work plantations, and named it Indian Bay. Okay. Go ahead. Wait, wait, wait. Converted into Indian. Oh, I'm sorry. Go ahead. I lost myself.
+- So they changed the term. They changed it from Jews Bay to Indian Bay. Now, I can't say for certain, but I believe that they brought northern kingdom over that side of the world. They brought northern kingdom back to Congo, to work plantations, and named it Indian Bay. Converted into Indian. I lost myself.
 
 > and hence already, on a chart of 1520, the bay is called Golfo de Indio.
 
@@ -430,8 +402,7 @@ Reading from *The Voyages of Diogo Cão and Bartholomeu Dias*, page 27, the note
 
 </div>
 
-*[[57:24](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=3444s)]* Go back to page 11 again. Page 11, where we started from. Go to the bottom of the page. Let me see something. Go up real quick. You should see a cross somewhere. A cross right there, see? Right there, neighbors. The cross there in the bottom. Read that again: or, what is less likely. What is less likely? The lie. Read the lie.
-
+*[[57:24](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=3444s)]* Go back to page 11 again. Page 11, where we started from. Go to the bottom of the page. Let me see something. You should see a cross somewhere. A cross right there, see? Right there, neighbors. The cross there in the bottom. Read that again: or, what is less likely. What is less likely? The lie. Read the lie.
 
 <div class="reading">
 
@@ -451,8 +422,7 @@ Reading from *The Voyages of Diogo Cão and Bartholomeu Dias*, page 11 again, th
 
 *[[59:19](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=3559s)]* And also, Israel: support. Support, support, support us. Donate, donate, donate. You know we know how we do. We're very, very thorough in what we do. Donate to the land fund, to the Booster Club. You see what we do with the money. You see where the funds go. We're very transparent with our actions regarding the funds, of where they go, what we do with them. We're not riding around in Bentleys and Maseratis and personal jets. Okay, we out here doing the work of the Lord. So support. Donate what you can, when you can. We don't want to tithe your money either. We don't do tithing here. All right, be a cheerful giver.
 
-*[[1:00:01](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=3601s)]* You got what I want? No, because he's spelling it wrong. Oh God. L-O-A-N. And take out Wiki. Take Wiki out. Just put Loango Bay. L-O-A-N-G-O B-A-Y. Please spell bay properly. Jesus Christ. Don't spell bay with an E or I. Oh God, he got an N. Yo, listen: take it out, take it out, take it out. Wow, wow. All right, so L-O-A-N-G-O. Philadelphia. We got to pay for the schools in Philadelphia, man. There you go. Remember that song, "Speak Your Truth"? Play that song for yourselves.
-
+*[[1:00:01](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=3601s)]* You got what I want? No, because he's spelling it wrong. Oh God. L-O-A-N. And take out Wiki. Take Wiki out. Just put Loango Bay. L-O-A-N-G-O B-A-Y. Please spell bay properly. Jesus Christ. Don't spell bay with an E or I. Oh God, he got an N. Yo, listen: take it out, take it out, take it out. All right, so L-O-A-N-G-O. Philadelphia. We got to pay for the schools in Philadelphia, man. Remember that song, "Speak Your Truth"? Play that song for yourselves.
 
 <div class="reading">
 
@@ -460,7 +430,7 @@ Reading from a search result on the Loango Slave Harbor  *[[1:00:59](https://www
 
 > Loango Slave Harbor
 
-- Loango slave harbor was once called what? Jews Bay. They got Jews from there, and a very, very large amount of them from here. Read on.
+- Loango slave harbor was once called what? Jews Bay. They got Jews from there, and a very, very large amount of them from here.
 
 > is a Republic of the Congo cultural site included in the World Heritage Tentative List.
 
@@ -472,7 +442,7 @@ Reading from a search result on the Loango Slave Harbor  *[[1:00:59](https://www
 
 > is a Republic of the Congo cultural site included in the World Heritage Tentative List. Loango Slave Harbor is part of the Hinda district.
 
-- Let's go down. History. Go down to history. Read that.
+- Let's go down. History. Go down to history.
 
 > From 1500 to 1867, the vessels in the Atlantic slave trade moved nearly 12.5 million African slaves from the coast of Africa to the Americas and the Caribbean.
 
@@ -480,7 +450,7 @@ Reading from a search result on the Loango Slave Harbor  *[[1:00:59](https://www
 
 - **Captain Yahn:** Hey, also, do we have *Babylon to Timbuktu*? Because he goes in depth about Loango as well.
 
-- **Deacon Eythan:** Go down real quick. Right there. Read here. Show the whole thing. Right there. Read that.
+- **Deacon Eythan:** Right there. Read here. Show the whole thing. Right there.
 
 > Loango Coast and Angola Coast. Boarding.
 
@@ -488,7 +458,7 @@ Reading from a search result on the Loango Slave Harbor  *[[1:00:59](https://www
 
 > 5,694,574. Percentage: 45.48%.
 
-- That's almost 50% of us are brought over here from that port. The majority of slaves brought to this side of the world, in the Caribbean, came from Loango. Jews Bay. Jews Bay. 5,694,574, 45.48% of us, just from there alone. That's a lot of bodies. That's a lot of black gold, right? Yes sir. Next one.
+- That's almost 50% of us are brought over here from that port. The majority of slaves brought to this side of the world, in the Caribbean, came from Loango. Jews Bay. Jews Bay. 5,694,574, 45.48% of us, just from there alone. That's a lot of bodies. That's a lot of black gold, right? Yes sir.
 
 > The Bight of Benin: 1,999,060. 15.97%.
 
@@ -496,7 +466,7 @@ Reading from a search result on the Loango Slave Harbor  *[[1:00:59](https://www
 
 > The Bight of Biafra and other islands of the Gulf of Guinea: 12.73%. The Gold Coast: 9.66%. Senegambia: 755,713, 6.04%. East coast and Indian Ocean islands
 
-- Whoa, whoa, whoa. I know that was even in here. I know that was even there. East coast and Indian Ocean islands. Go ahead.
+- Whoa, whoa, whoa. I know that was even in here. I know that was even there. East coast and Indian Ocean islands.
 
 > 542,000.
 
@@ -510,7 +480,6 @@ Reading from a search result on the Loango Slave Harbor  *[[1:00:59](https://www
 
 *[[1:05:52](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=3952s)]* Give me the Atlantic slave trade atlas. That's a good book, this atlas right here. Make yourselves acquainted with it: the *Atlas of the Atlantic Slave Trade*. Let me see it. No, not that one. That's not it. It's the *Atlas of the Atlantic Slave Trade*. It's a big book I brought to y'all. It's big and brown. Big brown book, *The Atlas of the Atlantic Slave Trade*. There we go. That's the one I want. Let me see it on my screen. Those of you watching, those of you on here, write this book down. This book is bad. This book is fire. It has everything in it. Everything regarding the slave trade. Okay, don't believe in Negroes. Believe the books. Believe the history records. All right, Negroes will just talk, with no facts, no evidence of any kind. Give me page 142. Still dealing with Loango. *Babylon to Timbuktu*, I got it already. I want to drop the gun on that. Page 142 of this book. Put that number up real quick, the black number. Get what Captain want real quick, until y'all find the page.
 
-
 *[[1:07:10](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=4030s)]* **Captain Yahn:** In the 17th century, that's how much money there was made. Oh my God, man.
 
 **Deacon Eythan:** $150 billion. That was in the 1700s. $150 billion. That's why they call it black gold. $150 billion in black gold. Old money. That's old money. That's so-called Jewish money. Old money.
@@ -523,30 +492,29 @@ Reading from a search result on the Loango Slave Harbor  *[[1:00:59](https://www
 
 **Deacon Eythan:** Yeah, yeah, yeah. It's a magazine right here. What year is this? 1892. Okay, top. January 1892.
 
-
 <div class="reading">
 
 Reading from the *Pacific Rural Press*, January 1892, the highlighted portion posted by Captain Yahn  *[[1:09:38](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=4178s)]*
 
 > At the beginning of this century, many who passed as respectable men
 
-- So it's saying at the beginning of the century, meaning at the beginning of the 1800s, in the very beginning, those respectable men, those that were looked upon at high esteem during that society at the time. Right. Read.
+- So it's saying at the beginning of the century, meaning at the beginning of the 1800s, in the very beginning, those respectable men, those that were looked upon at high esteem during that society at the time.
 
 > retired from business on from two to five hundred thousand dollars,
 
-- Two to five hundred thousand dollars. They retired during that time, meaning that's a lot of money at the beginning of the 1800s. A lot of money. So these respectable men retired from business during that time. Let's see what they retire from. Read.
+- Two to five hundred thousand dollars. They retired during that time, meaning that's a lot of money at the beginning of the 1800s. A lot of money. So these respectable men retired from business during that time. Let's see what they retire from.
 
 > which were then considered enormous fortunes.
 
-- Of course. We seen the numbers. We could do the numbers now; it was going to be millions upon millions of dollars. Read.
+- Of course. We seen the numbers. We could do the numbers now; it was going to be millions upon millions of dollars.
 
 > Those men, when asked by what means they had accumulated such fortunes, replied, with jovial expression of countenance,
 
-- Meaning they were happy to tell the people what did they retire from. So they were happy to tell them, this is what I retired from. Let's see what they retire from. Read.
+- Meaning they were happy to tell the people what did they retire from. So they were happy to tell them, this is what I retired from. Let's see what they retire from.
 
 > "Oh, wool and ivory,"
 
-- Oh, I traded wool and ivory. That's what I did. Read.
+- Oh, I traded wool and ivory. That's what I did.
 
 > which everybody understood to mean piracy and the slave trade.
 
@@ -572,17 +540,17 @@ Reading from the *Pacific Rural Press*, January 1892, the highlighted portion po
 
 - Here you go. That's the merchandise. That's the wool and ivory. Evil merchants. Go back to the book now.
 
-- **Captain Yahn:** Deacon, what we're reading about is how America became Babylon the Great. Because Ezekiel says, through thy traffic thou hast gotten great riches. Right? So we're reading about how all the nations came to look to America as the power on the earth. We're the reason behind the greatness of Babylon. We're behind his greatness.
+- **Captain Yahn:** Deacon, what we're reading about is how America became Babylon the Great. Because Ezekiel says, through thy traffic thou hast gotten great riches. So we're reading about how all the nations came to look to America as the power on the earth. We're the reason behind the greatness of Babylon. We're behind his greatness.
 
-- **Deacon Eythan:** Read that. The page I want, you found it? 142? You don't have 142? Come on, man.
+- **Deacon Eythan:** The page I want, you found it? 142? You don't have 142?
 
-- **Captain Yahn:** Hey, and you know what's so heavy about what's coming out: this is why it's so important to homeschool. This is why it's important to homeschool our children. Because all of these books we bringing out, they not in the Board of Ed. They not in the Board of Ed. The Board of Ed is using what? Textbooks owned by Pearson. That's a British-owned company. Out of the 14 chapters, maybe one deals with the slave trade. I remember in school, think about high school, when your teacher had to touch on the slave trade, especially if he was an Edomite, that topic was barely addressed. Why? Because you have the enemy teaching our children. That's why we got to homeschool. Why? Because guess what: there is no cap on what to bring. We could bring out all of this. You understand? Get Sirach 12 and 10. That's why, if you can, we got to homeschool our kids. Ecclesiasticus 12:10.
+- **Captain Yahn:** Hey, and you know what's so heavy about what's coming out: this is why it's so important to homeschool. This is why it's important to homeschool our children. Because all of these books we bringing out, they not in the Board of Ed. They not in the Board of Ed. The Board of Ed is using what? Textbooks owned by Pearson. That's a British-owned company. Out of the 14 chapters, maybe one deals with the slave trade. I remember in school, think about high school, when your teacher had to touch on the slave trade, especially if he was an Edomite, that topic was barely addressed. Why? Because you have the enemy teaching our children. That's why we got to homeschool. Why? Because guess what: there is no cap on what to bring. We could bring out all of this. Get Sirach 12 and 10. That's why, if you can, we got to homeschool our kids. Ecclesiasticus 12:10.
 
 **[Sirach 12:10](/bible/sirach/12#v10)**  *[[1:14:31](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=4471s)]*
 
 > <sup>[10](/bible/sirach/12#v10)</sup> Never trust thine enemy: for like as iron rusteth, so is his wickedness.
 
-- **Captain Yahn:** Never trust thine enemy. The Bible says never trust thine enemy. So when we're sending our kids to a school system that was designed... this is what we're doing. When our kids go to these schools, these schools were designed by white supremacists. They were designed by white supremacists. There is nothing good your child is going to get from the school system. He's going there to learn how to be a slave. So you have all the advantage in homeschooling. Read it again.
+- **Captain Yahn:** Never trust thine enemy. The Bible says never trust thine enemy. So when we're sending our kids to a school system that was designed... this is what we're doing. When our kids go to these schools, these schools were designed by white supremacists. They were designed by white supremacists. There is nothing good your child is going to get from the school system. He's going there to learn how to be a slave. So you have all the advantage in homeschooling.
 
 - **Captain Yahn:** Never trust thine enemy. For like as iron rusteth, so is his wickedness. So that's what the school system is about. And now what's the new thing they pushed in the school system? LGBT, drag story time. The school system is corrupt. But all these books we bring... that's why we bring these books out. You know how shocked our brothers are? What book is that? Where did you get that book? All the books they use in the school system, you know that was specifically chosen. They chose specific authors. Why? Because they don't want our people to go and start looking for their history. That was it, Deep.
 
@@ -594,8 +562,7 @@ Reading from the *Pacific Rural Press*, January 1892, the highlighted portion po
 
 **A brother:** Hey Deep, even with what Captain Yahn was bringing out about how we have to homeschool our children: it's the same thing the past revolutionaries understood. Like Malcolm X said, only a fool will allow his enemy to teach their children. But that's why Deuteronomy said, when you have to learn the former days, it says ask thy fathers, not the other nations. Because you're going to find out a lie about yourself.
 
-**Deacon Eythan:** You got it here. Let me see it. Blow it up on my screen, please. All right, all praises. Read that. This should be good.
-
+**Deacon Eythan:** You got it here. Let me see it. Blow it up on my screen, please. This should be good.
 
 <div class="reading">
 
@@ -603,65 +570,65 @@ Reading from *From Babylon to Timbuktu* by Rudolph R. Windsor, page 127, on the 
 
 > When David Livingstone was in Africa, he discovered a settlement of educated blacks about the year 1847.
 
-- David Livingstone has his own book that we read all the time. This is the Edomite that traveled into Africa. Him among others. Him, Mungo Park. Okay. These guys traveled throughout Africa, spent time among the Africans, well, so-called Africans, and learned and explored them, and documented their culture and things of that nature. So he spent time among... he came across a settlement of educated blacks in the year 1847. Now, we received the Emancipation Proclamation in 1865. So during his time doing this, we were slaves over here. Read on.
+- David Livingstone has his own book that we read all the time. This is the Edomite that traveled into Africa. Him among others. Him, Mungo Park. These guys traveled throughout Africa, spent time among the Africans, well, so-called Africans, and learned and explored them, and documented their culture and things of that nature. So he spent time among... he came across a settlement of educated blacks in the year 1847. Now, we received the Emancipation Proclamation in 1865. So during his time doing this, we were slaves over here.
 
 > They were located inland, about 200 miles from the Loanda coast, and are known as the Jews of Angola.
 
-- Known as what? The Jews of Angola. Remember, the bulk of slaves were taken from Loango and Angola. It was called Jews Bay. That is the reason why. They knew who they were shipping over. Read on.
+- Known as what? The Jews of Angola. Remember, the bulk of slaves were taken from Loango and Angola. It was called Jews Bay. That is the reason why. They knew who they were shipping over.
 
 > These black Jews were active in commerce, eager to learn, and possessed much knowledge of Portuguese history and law.
 
-- Because these are the slaves they did not get. We were further inland. The Hamites didn't conquer us in this area here. So he traveled further inland. He discovered us there, chilling, keeping our laws, being educated. Okay. And it says that we had knowledge of Portuguese history and law. Why do these black people in Angola have knowledge of Portuguese history and law? Read on. It's going to say why.
+- Because these are the slaves they did not get. We were further inland. The Hamites didn't conquer us in this area here. So he traveled further inland. He discovered us there, chilling, keeping our laws, being educated. And it says that we had knowledge of Portuguese history and law. Why do these black people in Angola have knowledge of Portuguese history and law? It's going to say why.
 
 > In their commercial enterprises these Jews penetrated inland hundreds of miles from the coast,
 
-- These Jews of Angola, Africa. Hundreds of miles from where? From the coast. So they couldn't get us. Those who were on the coast got caught up by the Portuguese, the Arabs and Hamites and so forth, and were sold off. Those of us who were further inland were... I guess you were safer, so they didn't get a hold of them. But they could have... with Belgian Congo, they got us. Then they got us. Go ahead.
+- These Jews of Angola, Africa. Hundreds of miles from where? From the coast. So they couldn't get us. Those who were on the coast got caught up by the Portuguese, the Arabs and Hamites and so forth, and were sold off. Those of us who were further inland were... I guess you were safer, so they didn't get a hold of them. But they could have... with Belgian Congo, they got us. Then they got us.
 
 > and were known also as clerks and writers. Livingstone considered these Jews to be deportees from Portugal.
 
-- What? Livingstone considered these Jews to be deportees from Portugal. During the Spanish Inquisition our people fled into Angola, into Congo. During the Spanish Inquisition. That's why they were so educated in what? Portuguese law and history, and language also. Go ahead.
+- What? Livingstone considered these Jews to be deportees from Portugal. During the Spanish Inquisition our people fled into Angola, into Congo. During the Spanish Inquisition. That's why they were so educated in what? Portuguese law and history, and language also.
 
 > St. Paul de Loanda began, like São Tomé, as a penal colony for the punishment of criminals.
 
-- The punishment colony. Penal colony for the punishment of criminals. Right, they shipped us off to St. Paul de Loanda. Began like St. Thomas, St. Thomas Island, as a penal colony for punishment of criminals, meaning what? Those who refused to accept white man's Jesus was shipped off as slaves to Loanda, and to St. Thomas Island, and Cape Verde, and the Canary Islands, and Madeira Islands, and the Seychelles Islands. Seychelles, however you pronounce that thing. Go ahead.
+- The punishment colony. Penal colony for the punishment of criminals. Right, they shipped us off to St. Paul de Loanda. Began like St. Thomas, St. Thomas Island, as a penal colony for punishment of criminals, meaning what? Those who refused to accept white man's Jesus was shipped off as slaves to Loanda, and to St. Thomas Island, and Cape Verde, and the Canary Islands, and Madeira Islands, and the Seychelles Islands. Seychelles, however you pronounce that thing.
 
 > In Portugal, many of these black Jews were considered criminals
 
-- Also, by the Catholic Church. Go ahead.
+- Also, by the Catholic Church.
 
 > also. Many of these black Jews
 
-- Of these what? Black Jews. Now he calls them black Jews, because he knows who they are, or who they were. Go ahead.
+- Of these what? Black Jews. Now he calls them black Jews, because he knows who they are, or who they were.
 
 > of the land of Angola, it is said, came from São Tomé Island.
 
-- A lot of us, over time, we snuck our way out of St. Thomas Island and back to Angola. Okay. We escaped.
+- A lot of us, over time, we snuck our way out of St. Thomas Island and back to Angola. We escaped.
 
 > All available evidence indicates that the Jews of the Angola coast were Portuguese Jewish outcasts.
 
-- All available evidence indicates that the Jews of the Angola coast, or Loango Bay, were Portuguese Jewish outcasts. So they named the port Loango Bay, or Jews Bay, Golfo de Judeo, because they encountered these same people there, and sold them off. That's what happened. Go up, go up. Let me see. You want to read that? Read that.
+- All available evidence indicates that the Jews of the Angola coast, or Loango Bay, were Portuguese Jewish outcasts. So they named the port Loango Bay, or Jews Bay, Golfo de Judeo, because they encountered these same people there, and sold them off. That's what happened. You want to read that?
 
 > Many black Jews were established inland and along the coast of Angola, the Congo, and Gaboon.
 
-- What's on the screen? Read it again.
+- What's on the screen?
 
-- Many black Jews were established inland and along the coast of Angola, the Congo and Gaboon. That's why it was called the Jews Bay. Golfo de Judeo. The coast of the Jews. Coast of Angola, coast of Congo, coast of Gabon. One of the slaves that was shipped over to Mexico, his name was Jasper Yanga. He was Gabonese. Jasper Yanga. Okay. He built one of the first black free towns in Mexico. He was Gabonese, of royalty there. Go ahead.
+- Many black Jews were established inland and along the coast of Angola, the Congo and Gaboon. That's why it was called the Jews Bay. Golfo de Judeo. The coast of the Jews. Coast of Angola, coast of Congo, coast of Gabon. One of the slaves that was shipped over to Mexico, his name was Jasper Yanga. He was Gabonese. Jasper Yanga. He built one of the first black free towns in Mexico. He was Gabonese, of royalty there.
 
 > Frederick Ratzel writes that the tribes on the Loango coast, north of the Congo River, were once Christianized.
 
-- Why? Because they fled from Spain and Portugal. Go ahead.
+- Why? Because they fled from Spain and Portugal.
 
 > Ratzel observed a ceremony of baptism followed by circumcision.
 
-- So they merged Judaism and Christianity together among themselves. Go ahead.
+- So they merged Judaism and Christianity together among themselves.
 
 > However, these tribes were Jewish in origin.
 
-- Makes it clear: these tribes were Israelites in origin. Go ahead.
+- Makes it clear: these tribes were Israelites in origin.
 
 > The Christianity Ratzel saw among them was a disguise.
 
-- Why? Because they knew if white folks show up here: just pretend we're Christians, they won't enslave us. So he said these guys are fake. These aren't real Christians. They're faking it. They're keeping Israelite customs, because they learned that from... in Spain and Portugal. Go ahead.
+- Why? Because they knew if white folks show up here: just pretend we're Christians, they won't enslave us. So he said these guys are fake. These aren't real Christians. They're faking it. They're keeping Israelite customs, because they learned that from... in Spain and Portugal.
 
 > The circumcision practice among them is of Jewish derivation.
 
@@ -673,31 +640,31 @@ Reading from *From Babylon to Timbuktu* by Rudolph R. Windsor, page 127, on the 
 
 > whenever the Jews were in Spain, Portugal, or their colonial possessions, they disguised themselves as Christians in outward form, but practiced Judaism in secret. Many of these new Christians
 
-- New Christians. Right, because we were Israelites. We knew the Bible better than them. Go ahead.
+- New Christians. Right, because we were Israelites. We knew the Bible better than them.
 
 > In the year 1547, the papal office authorized the establishment of the system of the Inquisition in Portugal. The word Inquisition means inquiry or investigation.
 
-- That law was passed just for us. To find out: these guys are keeping the Jewish law. Enslave them or kill them. Go ahead.
+- That law was passed just for us. To find out: these guys are keeping the Jewish law. Enslave them or kill them.
 
 > The Inquisition consisted of a tribunal of religious judges. … Its purpose was to investigate and purge out heretical Christians, persons who question certain Christian principles.
 
-- Read again. Its purpose was to investigate and purge out heretical Christians, persons who question certain Christian principles. We would challenge Christianity. Challenged white Jesus. We challenged Easter. We challenged Christmas. We challenged that Eucharist cookie, baby Jesus. If you challenged it, you were either incarcerated, or you were enslaved, or killed. That's what the Inquisition is all about. Go ahead.
+- Read again. Its purpose was to investigate and purge out heretical Christians, persons who question certain Christian principles. We would challenge Christianity. Challenged white Jesus. We challenged Easter. We challenged Christmas. We challenged that Eucharist cookie, baby Jesus. If you challenged it, you were either incarcerated, or you were enslaved, or killed. That's what the Inquisition is all about.
 
 > Although some white Portuguese Christians suffered at the hands of the Inquisition,
 
-- Some white Portuguese. Means these are the converts. These are the so-called Khazars, that converted. Some of them suffered from the hands of the Inquisition. Go ahead.
+- Some white Portuguese. Means these are the converts. These are the so-called Khazars, that converted. Some of them suffered from the hands of the Inquisition.
 
 > this system was mainly directed against the new Christians, the secret black Jews.
 
-- So they didn't target the converts. They didn't target the converts, the Israelis. They targeted the black Jews. So if the white Jews are keeping the laws: we ain't going to mess with you. You're our people. You'll be all right. Well, we might step in the... ah, don't do that no more. But you, we going to put you in a slave ship. We're going to enslave and kill you, and take your land and confiscate your goods. That's what happened. They became plantation owners. They became planters. Yes, they became planters, and colonists too. Go ahead.
+- So they didn't target the converts. They didn't target the converts, the Israelis. They targeted the black Jews. So if the white Jews are keeping the laws: we ain't going to mess with you. You're our people. You'll be all right. Well, we might step in the... ah, don't do that no more. But you, we going to put you in a slave ship. We're going to enslave and kill you, and take your land and confiscate your goods. That's what happened. They became plantation owners. They became planters. Yes, they became planters, and colonists too.
 
 > The Inquisition were persistent, gruesome and ruthless in the totality of their procedures. They interfered in the private affairs of individuals. They intimidated and coerced individuals to inform on their neighbors.
 
-- Coerced to snitch on their own people when they were keeping the laws of God. They call it meritorious manumission. We'll reward you, Negro, if you're telling on your people who's trying to keep the laws of God. Tell on them and get rewarded for it. That's what happened. And Blade called them familiars. That's what Blade said in the movie. That's what they are. Deacon Frost's boy. Informants. Like some of y'all have been here. Coons. Coons. Go ahead.
+- Coerced to snitch on their own people when they were keeping the laws of God. They call it meritorious manumission. We'll reward you, Negro, if you're telling on your people who's trying to keep the laws of God. Tell on them and get rewarded for it. That's what happened. And Blade called them familiars. That's what Blade said in the movie. That's what they are. Deacon Frost's boy. Informants. Like some of y'all have been here. Coons. Coons.
 
 > They employed a wide variety of continuous horrendous tortures, including public shows of burning human beings at the stake. They called this auto-da-fé, act of faith,
 
-- And they wore the same hood you see the KKK wear. They wore the exact same suit, KKK suit, at the burnings, and called it auto-da-fé, act of faith. Burning us alive at the stake publicly. Not the white ones; the black ones. I'm going to prove it to y'all too. Read on. The white ones got some jail time. The black ones got enslaved forever, and shipped off, and lost their children. Read on.
+- And they wore the same hood you see the KKK wear. They wore the exact same suit, KKK suit, at the burnings, and called it auto-da-fé, act of faith. Burning us alive at the stake publicly. Not the white ones; the black ones. I'm going to prove it to y'all too. The white ones got some jail time. The black ones got enslaved forever, and shipped off, and lost their children.
 
 > and in order to satisfy their desires for the punishment of heretics, they sought out not only the living, but also the dead.
 
@@ -705,7 +672,7 @@ Reading from *From Babylon to Timbuktu* by Rudolph R. Windsor, page 127, on the 
 
 - **A brother:** Exactly. Organs. They're taking the organs and they sell them.
 
-- **A brother:** Hey Deep, let me add to what you was just bringing out. It says the same thing. Get the book of 2 Maccabees 6, verse 10. And this was done by white people, Caucasians. … Look at this history. 2 Maccabees chapter 6:10. Now, to be specific, this was done by the Greeks. Watch. Read.
+- **A brother:** Hey Deep, let me add to what you was just bringing out. It says the same thing. Get the book of 2 Maccabees 6, verse 10. And this was done by white people, Caucasians. … Look at this history. 2 Maccabees chapter 6:10. Now, to be specific, this was done by the Greeks. Watch.
 
 </div>
 
@@ -713,17 +680,17 @@ Reading from *From Babylon to Timbuktu* by Rudolph R. Windsor, page 127, on the 
 
 > <sup>[10](/bible/2-maccabees/6#v10)</sup> For there were two women brought, who had circumcised their children; whom when they had openly led round about the city, the babes hanging at their breasts, they cast them down headlong from the wall.
 
-- These are two black women, Jews, who had circumcised their children. They circumcised their children. They went against the king's orders, Antiochus. They said no, we still going to circumcise our children. Read.
+- These are two black women, Jews, who had circumcised their children. They circumcised their children. They went against the king's orders, Antiochus. They said no, we still going to circumcise our children.
 
 - They cast them down headlong from the wall.
 
 > <sup>[11](/bible/2-maccabees/6#v11)</sup> And others, that had run together into caves near by, to keep the sabbath day secretly, being discovered by Philip, were all burnt together, because they made a conscience to help themselves for the honour of the most sacred day.
 
-- And other black Jews that had ran together into caves nearby. Why? To keep the Sabbath day secretly. What did the book say earlier? These were Jews practicing it in secret. We did the same thing during the time of the Greeks. Antiochus put an order out: no Jews are to observe their religion. He set up governors. Philip was one of the governors over this area. This was a white man. What did he do? Read.
+- And other black Jews that had ran together into caves nearby. Why? To keep the Sabbath day secretly. What did the book say earlier? These were Jews practicing it in secret. We did the same thing during the time of the Greeks. Antiochus put an order out: no Jews are to observe their religion. He set up governors. Philip was one of the governors over this area. This was a white man. What did he do?
 
 - Were all burnt together. Didn't we just read it in this book? Tortures, including public shows of burning human beings at the stake. They did the same thing during the time of the Greeks. Now you see why the white man took the Maccabees out the Bible. He didn't want you to remember this history.
 
-- Because they made a conscience to help themselves for the honour of the most sacred day. All praises to the Most High.
+- Because they made a conscience to help themselves for the honour of the most sacred day.
 
 > <sup>[12](/bible/2-maccabees/6#v12)</sup> Now I beseech those that read this book, that they be not discouraged for these calamities, but that they judge those punishments not to be for destruction, but for a chastening of our nation.
 
@@ -745,18 +712,17 @@ Reading from *From Babylon to Timbuktu* by Rudolph R. Windsor, page 127, on the 
 >
 > <sup>[16](/bible/2-maccabees/6#v16)</sup> And therefore he never withdraweth his mercy from us: and though he punish with adversity, yet doth he never forsake his people.
 
-- Stop. Therefore he never withdraws his mercy from us. He'll chasten us. You think it's terrible: oh my God, slave ships, yokes of iron, the rape, the murder, the castration, the scattering. That was terrible. God said, that's true, but I do love you. I have mercy. I have mercy on you after a while. Read on.
+- Stop. Therefore he never withdraws his mercy from us. He'll chasten us. You think it's terrible: oh my God, slave ships, yokes of iron, the rape, the murder, the castration, the scattering. That was terrible. God said, that's true, but I do love you. I have mercy. I have mercy on you after a while.
 
 - We're reading right here, we're reading about our adversities. We're reading about it. He will never forsake his people. Read the next verse.
 
 > <sup>[17](/bible/2-maccabees/6#v17)</sup> But let this that we have spoken be for a warning unto us. And now will we come to the declaring of the matter in a few words.
 
-- Be a what? Be for a warning unto us. Meaning what? Don't play with God. Don't play with him. Let this be a warning for us. Why? Because all this right here we're reading is going to happen again. That's what he's saying. Read on.
+- Be a what? Be for a warning unto us. Meaning what? Don't play with God. Don't play with him. Let this be a warning for us. Why? Because all this right here we're reading is going to happen again. That's what he's saying.
 
 - Meaning an abbreviation. Because the author of Maccabees left a lot of things out, because it was too much. It would have scared us out the Bible. I ain't reading that no more. He had to balance it out.
 
-*[[1:35:38](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=5738s)]* Now go back to *Babylon to Timbuktu*. We on page what? We may have good news. They may have found the page. I gave the page. Wow. 142? Did you have it all along? You found it. You found it. Research. Now me, Dad's number one, and you're number two. He's not as bad as he looks, man. He's good. That's cold. That dancing last night. All praise. That's what I wanted. So blow it up there. That's what I want, man.
-
+*[[1:35:38](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=5738s)]* Now go back to *Babylon to Timbuktu*. We on page what? We may have good news. They may have found the page. I gave the page. Wow. 142? Did you have it all along? You found it. You found it. Research. Now me, Dad's number one, and you're number two. He's not as bad as he looks, man. He's good. That's cold. That dancing last night. That's what I wanted. So blow it up there. That's what I want, man.
 
 <div class="reading">
 
@@ -764,15 +730,15 @@ Reading from *The Atlas of the Atlantic Slave Trade*, page 142, map 99, Loango  
 
 > Loango: destinations of slaves and home ports of vessels carrying them, 1556 to 1807.
 
-- Map 99, Loango. Vessels: Revelation 18, vessels of ivory. Carrying them from 1556 to 1807. Now, the Inquisition started around 1492, 1493. Inquisition started. So this is right after that. So go over there. Go down to Africa, right there. Blow it up. Loango, right there. Now bring it out some, so we can see more of the page. Go down.
+- Map 99, Loango. Vessels: Revelation 18, vessels of ivory. Carrying them from 1556 to 1807. Now, the Inquisition started around 1492, 1493. Inquisition started. So this is right after that. So go over there. Go down to Africa, right there. Blow it up. Loango, right there. Now bring it out some, so we can see more of the page.
 
 > 400,000 documented embarkations, and disembarkations 106,000.
 
-- It's a lot of people. So go to the map. You see Loango; Río de la Plata; you got Salvador da Bahia; Recife; Amazonia; French Guiana; Dutch Guiana; going to be Honduras; Trinidad and Tobago. Go up, that's the islands there. You got West Indies. Come back, come back. Puerto Rico, Santo Domingo. You got Jamaica, Spanish mainland, Cuba. Go up: you got Gulf Coast, Carolinas, Georgia, Charleston, Chesapeake, northern US. They brought the Congolese all throughout the Americas, man. That's what I wanted y'all to see.
+- It's a lot of people. So go to the map. You see Loango; Río de la Plata; you got Salvador da Bahia; Recife; Amazonia; French Guiana; Dutch Guiana; going to be Honduras; Trinidad and Tobago. Go up, that's the islands there. You got West Indies. Puerto Rico, Santo Domingo. You got Jamaica, Spanish mainland, Cuba. Go up: you got Gulf Coast, Carolinas, Georgia, Charleston, Chesapeake, northern US. They brought the Congolese all throughout the Americas, man. That's what I wanted y'all to see.
 
 - **A brother:** Hey Deep, real quick: those Congolese that was brought to Charleston, South Carolina. Look up the Stono Rebellion. Stono Rebellion.
 
-- **Deacon Eythan:** Remember, they were Jews. These were Jews that escaped from the Inquisition, but dwelt in the ports. They got caught up. The ones who dwelt further inland, they was good, until of course the Berlin Conference came about, and King Leopold came through and destroyed us. Cut our hands off for rubber. All right.
+- **Deacon Eythan:** Remember, they were Jews. These were Jews that escaped from the Inquisition, but dwelt in the ports. They got caught up. The ones who dwelt further inland, they was good, until of course the Berlin Conference came about, and King Leopold came through and destroyed us. Cut our hands off for rubber.
 
 </div>
 
@@ -782,25 +748,25 @@ Reading from a search result on the Stono Rebellion  *[[1:39:24](https://www.you
 
 > The Stono Rebellion was a slave revolt that began on September 9th, 1739, in the colony of South Carolina. It was the largest slave rebellion in the southern colonial era, with 25 colonists and 35 to 50 African slaves killed. The uprising's leaders were likely from the central African Kingdom of Kongo, as they were Catholic and some spoke Portuguese.
 
-- Those the Jews. They were Catholic and spoke Portuguese. Why? Because they were the Israelites. They were Jews. Go down, go down, go down some more. I'll tell you to stop. Keep going. They won't tell you why they spoke Portuguese. They say they spoke Portuguese. Stop here.
+- Those the Jews. They were Catholic and spoke Portuguese. Why? Because they were the Israelites. They were Jews. Go down, go down, go down some more. I'll tell you to stop. They won't tell you why they spoke Portuguese. They say they spoke Portuguese. Stop here.
 
 > African background. Jimmy, the leader of the revolt, was a literate slave
 
 - **A brother:** Literate. He can read. He was a literate slave, Deacon. He knew Portuguese history.
 
-- **Deacon Eythan:** He knew. Yeah, and the laws. Go ahead.
+- **Deacon Eythan:** He knew. Yeah, and the laws.
 
 > described in an eyewitness account as Angolan. Historian John K. Thornton has noted that he was more likely from the Kingdom of Kongo, as were a cohort of 20 slaves that joined him. The slaves were Catholic and some spoke Portuguese, both of which point to Kongo. A lengthy trade relationship with the Portuguese had led to the adoption of Catholicism and learning of the Portuguese language in the kingdom.
 
-- They know it already. Go ahead.
+- They know it already.
 
 > The leaders of the Kingdom of Kongo had voluntarily converted in 1491, followed by their people. By the 18th century, the religion was a fundamental part of its citizens' identity.
 
-- Their religion became their identity. They became Portuguese, basically. Catholic. Go ahead.
+- Their religion became their identity. They became Portuguese, basically. Catholic.
 
 > The nation had independent relations with Rome. Slavery was present in the region, and it was regulated by Kongo.
 
-- That's all I wanted. Crazy, crazy, crazy. We about to go to *Babylon to Timbuktu* again. We at page what was it, 130, 129. We never finish. What page you want? Come on. Put it on Deacon's screen. Here we go. Read that there.
+- That's all I wanted. Crazy, crazy, crazy. We about to go to *Babylon to Timbuktu* again. We at page what was it, 130, 129. We never finish. What page you want? Put it on Deacon's screen. Here we go. Read that there.
 
 </div>
 
@@ -810,15 +776,15 @@ Reading from *From Babylon to Timbuktu*, continued, on the Inquisition against t
 
 > Garcia de Orta, a Jew of Portugal, was discovered to have been a secret Jew. His body was dug up out of his grave and burned by the Inquisition.
 
-- When they found out later, they found out after he died he was a Jew keeping the commandments, they dug him up and burned his dead body. Esau is petty, bro. Esau is petty. They robbed his body. They robbed them first, then they burned them. Go ahead.
+- When they found out later, they found out after he died he was a Jew keeping the commandments, they dug him up and burned his dead body. Esau is petty, bro. Esau is petty. They robbed his body. They robbed them first, then they burned them.
 
 > In another case, a Jewish woman was indicted and tortured for two years in order to elicit a confession from her.
 
-- They tortured her for two years, to force her to confess. Go ahead.
+- They tortured her for two years, to force her to confess.
 
 > The charges against her were not eating pork
 
-- She refused to eat pork. Go ahead.
+- She refused to eat pork.
 
 > and putting on clean linen on Saturdays. According to this woman, these charges were not heretical practices.
 
@@ -826,15 +792,15 @@ Reading from *From Babylon to Timbuktu*, continued, on the Inquisition against t
 
 > Whenever the Christian Jews could escape from Spain and Portugal beyond the reach of the Inquisition, they threw off the guise of Christianity and practiced Judaism openly, as they did in Turkey. However, the unfortunate new Christians, nominal Christians,
 
-- Nominal means the fake Christians. Go ahead.
+- Nominal means the fake Christians.
 
 > in Portuguese possessions in western Africa, India and elsewhere could not throw off the disguise of Christianity.
 
-- Wait, wait, wait. In the Portuguese possessions in western Africa and India and elsewhere, cannot throw off the disguise of Christianity. Because you had our people in India, and you had our people in Africa, trying to pretend to be Christians. But they were not, and they were not good at pretending, some of them. Go ahead.
+- In the Portuguese possessions in western Africa and India and elsewhere, cannot throw off the disguise of Christianity. Because you had our people in India, and you had our people in Africa, trying to pretend to be Christians. But they were not, and they were not good at pretending, some of them.
 
 > The Inquisition even dispatched its inquisitorial agents
 
-- They sent Christian Catholic police after us. Catholic cops after us. Go ahead.
+- They sent Christian Catholic police after us. Catholic cops after us.
 
 > to the Canary Islands,
 
@@ -862,19 +828,19 @@ Reading from *From Babylon to Timbuktu*, continued, on the Inquisition against t
 
 > From 1561 to 1623, about 3,800 individuals were tried. Many of them were Christian Jews of São Tomé Island.
 
-- Letting you know they were black ones. Go ahead.
+- Letting you know they were black ones.
 
 > They were charged with maintaining Jewish principles.
 
-- Charged with maintaining biblical principles. Go ahead.
+- Charged with maintaining biblical principles.
 
 > Roth wrote that Christian Jews immigrated to the Portuguese colony of Angola in West Africa, where agents of the Inquisition were sent to hunt them out in 1626.
 
-- Right. And the ones that did not escape, that were on the coast. The ones that were safe from that were further, hundreds of miles inland. Who David Livingstone came across, in the book we read earlier. Read on.
+- And the ones that did not escape, that were on the coast. The ones that were safe from that were further, hundreds of miles inland. Who David Livingstone came across, in the book we read earlier.
 
 > Now we can understand why writers like Frederick Ratzel considered the tribes along the Loango coast Christians. These Jews had to maintain a Christian guise, and particularly so in the presence of white people. Any European could have been an agent of the Inquisition. It is certain that many black Jews of Portugal and São Tomé and Angola who became victims of the Inquisition and Portuguese persecutions were sold in the slave trade.
 
-- Wow. There you go. Was sold. Come on.
+- Was sold.
 
 > This Atlantic slave trade lasted more than 400 years,
 
@@ -882,7 +848,7 @@ Reading from *From Babylon to Timbuktu*, continued, on the Inquisition against t
 
 > from 1444 to about 1880, in some parts of South America.
 
-- There you go. Now get me the next page. Go over 130. Give me page 132, only the highlighted parts. Okay, I make this up: give me 2 Maccabees real quick, 6 and 18, regarding the sister being charged. Why she ain't eating pork. 2 Maccabees chapter 6. We was up there earlier.
+- Now get me the next page. Go over 130. Give me page 132, only the highlighted parts. Okay, I make this up: give me 2 Maccabees real quick, 6 and 18, regarding the sister being charged. Why she ain't eating pork. 2 Maccabees chapter 6. We was up there earlier.
 
 </div>
 
@@ -902,7 +868,7 @@ Reading from *From Babylon to Timbuktu*, continued, on the Inquisition against t
 
 > <sup>[19](/bible/lamentations/4#v19)</sup> Our persecutors are swifter than the eagles of the heaven: they pursued us upon the mountains, they laid wait for us in the wilderness.
 
-- There you go. Swifter than the eagles. What was the symbol of Rome, the Greeks, United States? Same thing. Spain, Portugal, French.
+- Swifter than the eagles. What was the symbol of Rome, the Greeks, United States? Same thing. Spain, Portugal, French.
 
 - They pursued us upon the mountains. See, wherever we go, they pursue. They're pursuing us. They laid wait for us in the wilderness. That's it. Read down to verse 21.
 
@@ -920,9 +886,9 @@ Reading from *From Babylon to Timbuktu*, continued, on the Inquisition against t
 
 - You know what? The punishment of thine iniquity is accomplished. Like earlier in 2 Maccabees: when their sins come to the fullness. It's the same thing we're reading here. Read again: the punishment of thine iniquity is accomplished. Your sins have reached fullness.
 
-- Watch this. He will visit thine iniquity, O daughter of Edom. He will discover thy sins. That's what we're doing right now. We are discovering and revealing his sins and evil towards our people.
+- He will visit thine iniquity, O daughter of Edom. He will discover thy sins. That's what we're doing right now. We are discovering and revealing his sins and evil towards our people.
 
-- Give me the next book. Go back to that page. What page is that one? 129? Now we passed this, right? I said 132. Yep, right there. Read that.
+- Give me the next book. Go back to that page. What page is that one? 129? Now we passed this, right? I said 132. Yep, right there.
 
 <div class="reading">
 
@@ -934,15 +900,15 @@ Reading from *From Babylon to Timbuktu*, page 132, on Dr. Allen H. Godbey  *[[1:
 
 > and that the Jews were driven to this area from central Sudan by Muslim propagandism.
 
-- By Islam. Islam forced us further into the west coast. Go ahead.
+- By Islam. Islam forced us further into the west coast.
 
 > Having a knowledge of the black Jews in the United States, Dr. Godbey arrived at this conclusion: These facts have peculiar significance when the presence of Judaism among American Negroes is to be considered. Hundreds of thousands of slaves were brought to America from western Africa during the days of the traffic, beginning nearly 400 years ago. How much more of Judaism survived among West African Negroes in that earlier time? As persecuted communities, they were rather more in danger than other Negroes of being raided by war parties and sold as slaves.
 
-- What's he saying here? Godbey's saying that the American Negroes are the Israelites. That's what he's saying. Next page. Read that there. Wait, wait, wait. Let me see. Go to the conclusion. Go down, down. Right there. Read that.
+- What's he saying here? Godbey's saying that the American Negroes are the Israelites. That's what he's saying. Read that there. Go to the conclusion. Go down, down. Right there.
 
 > As the historical evidence indicates, the black Hebrews were snatched from the west coast of Africa and sold into captivity.
 
-- There you go. As historical evidences indicate, the black Hebrews were snatched from West Africa and were sold into captivity, into the Americas, all throughout different parts of the world.
+- As historical evidences indicate, the black Hebrews were snatched from West Africa and were sold into captivity, into the Americas, all throughout different parts of the world.
 
 - Now give me what I want. Gullah Geechee. I should have saved that Stono Rebellion for that time. Gullah Geechee. You want to get that? You can get that if you want.
 
@@ -952,7 +918,7 @@ Reading from *From Babylon to Timbuktu*, page 132, on Dr. Allen H. Godbey  *[[1:
 
 - **A brother:** They had a cartoon called *Gullah Island*.
 
-- **Deacon Eythan:** A cartoon called *Gullah Island*, based upon this people here. Read that.
+- **Deacon Eythan:** A cartoon called *Gullah Island*, based upon this people here.
 
 </div>
 
@@ -962,13 +928,13 @@ Reading from a search result on the Gullah  *[[1:52:02](https://www.youtube.com/
 
 > The Gullah are an African-American ethnic group that live in the Lowcountry region of the United States, of South Carolina, North Carolina, Georgia and Florida. They are descendants of enslaved Africans from west and central Africa who were brought to America in the 1700s and 1800s.
 
-- They were descendants of enslaved Africans in west and central Africa who were brought to America during the 1700s and 1800s. Did they walk here? Did they fly? Did they use a kite? A plane? A tunnel? They dig under there and walk here? Go ahead.
+- They were descendants of enslaved Africans in west and central Africa who were brought to America during the 1700s and 1800s. Did they walk here? Did they fly? Did they use a kite? A plane? A tunnel? They dig under there and walk here?
 
 > The Gullahs are known for preserving more of their African linguistic and cultural heritage than any other African-American community in the United States.
 
 - Maintained the language and traditions of what they were doing while they were in Africa. They were not always here. That right there alone destroys the doctrine of there being no slave ships. It doesn't make any sense. They were from Angola, correct? Yes sir. Go to Wikipedia. Let me see what we got there. It might say where they came from. Because the word Gullah stems from the word Angola, which goes back to the Jews of Portugal.
 
-- **A brother:** Hey, also, can we bring that map? Remember that 1588 map? The land of the Jews, in that same region. Get that map. The old map, right here. Blow it up. Zoom out first, so you can see the whole area what we talking about. All right, so circle around the Terra... Circle around it. Zooming in. See, right there: so that whole area is Angola, Loango, what Deacon was just going over. Right. And in Latin it's called Judum Terra, meaning the kingdom of Judah.
+- **A brother:** Hey, also, can we bring that map? Remember that 1588 map? The land of the Jews, in that same region. Get that map. The old map, right here. Blow it up. Zoom out first, so you can see the whole area what we talking about. All right, so circle around the Terra... Circle around it. Zooming in. See, right there: so that whole area is Angola, Loango, what Deacon was just going over. And in Latin it's called Judum Terra, meaning the kingdom of Judah.
 
 - **Deacon Eythan:** Land of the Jews. Land of the Jews, right. Judum Terra is land of the Jews. That old area is land of the Jews. That's an old map, 1588. Old maps in high-def, for free. We ain't buying nothing, unless we have to buy it. That's the last resort.
 
@@ -976,15 +942,15 @@ Reading from a search result on the Gullah  *[[1:52:02](https://www.youtube.com/
 
 > The Gullah are a subgroup of the African-American ethnic group who predominantly live in the Lowcountry region of the US states of South Carolina, North Carolina, Georgia and Florida, within the coastal plain and the Sea Islands. Their language and culture have preserved a significant influence of Africanisms as a result of their historical geographic isolation and the community's relation to their shared history.
 
-- Go down to etymology of Gullah. Here we go. Read that.
+- Go down to etymology of Gullah. Here we go.
 
 > Etymology. The original word Gullah can be traced to the Kongo language spoken around the Congo River's mouth,
 
-- They came from the Congo. They came from the Congo. Read it again.
+- They came from the Congo. They came from the Congo.
 
 > The original word Gullah can be traced to the Kongo language spoken around the Congo River's mouth, from which the Gullah language dialect spoken by black Americans today
 
-- The Geechee speak the Congolese language, or Jews Bay language. Go ahead.
+- The Geechee speak the Congolese language, or Jews Bay language.
 
 > Some scholars suggest that it may be a cognate with the name Angola, where the ancestors of many of the Gullah people originated. Shipping records from the Port of Charleston revealed that Angolans accounted for 9% of all enslaved Africans shipped to the port.
 
@@ -996,8 +962,7 @@ Reading from a search result on the Gullah  *[[1:52:02](https://www.youtube.com/
 
 </div>
 
-*[[1:56:46](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=7006s)]* Now get me *Critical Review*. I want page 139. *Critical Review*. This book is very, very old. How old is this book? Go to how old the book is. Go back. It says Roman numerals: 1783. 1783. We were still slaves when this book was put together. Let me look at it. But I want this Guinea. It's underlined. Read that.
-
+*[[1:56:46](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=7006s)]* Now get me *Critical Review*. I want page 139. *Critical Review*. This book is very, very old. How old is this book? Go to how old the book is. Go back. It says Roman numerals: 1783. 1783. We were still slaves when this book was put together. Let me look at it. But I want this Guinea. It's underlined.
 
 <div class="reading">
 
@@ -1005,43 +970,43 @@ Reading from the *Critical Review*, 1783, page 139 onward, on the slave trade  *
 
 > The scene of the slave trade extends far beyond Guinea, though that coast furnishes the Europeans with the greater number of slaves for their American and West Indian colonies. The Portuguese indeed still procure slaves from their East African settlements,
 
-- It says still, because this book was published in what? 1783. The author telling you that the Portuguese were still dealing in the slave trade when this book was published. That's why we say old books are the best books. This is not for black eyes. We were on the ships. We couldn't read this anyway. They wouldn't allow us to read this. Go ahead.
+- It says still, because this book was published in what? 1783. The author telling you that the Portuguese were still dealing in the slave trade when this book was published. That's why we say old books are the best books. This is not for black eyes. We were on the ships. We couldn't read this anyway. They wouldn't allow us to read this.
 
 > especially Mozambique,
 
-- Especially Mozambique. Go ahead.
+- Especially Mozambique.
 
 > and the French transport a small number of slaves from Madagascar to the Isle of France and Bourbon.
 
-- Go down, go down. Let me see. Stop there. It's about the Arabs. This goes into the Arabs. Not now. I'll go back to this. Next page. Wait. See, the Arabs. You can read that.
+- Stop there. It's about the Arabs. This goes into the Arabs. Not now. I'll go back to this. See, the Arabs. You can read that.
 
 > The first rivals of the Arabs for the slaving trade were the Portuguese, since 1445,
 
-- 1445. Go ahead.
+- 1445.
 
 > whose preceding voyages were made merely in continuation of the war against the Arabs,
 
-- So the Arabs and Portuguese were warring with each other over slaves. Go ahead.
+- So the Arabs and Portuguese were warring with each other over slaves.
 
 > whom King Alfonso III had expelled from his dominions. The kidnapping pursuits of the Portuguese were favored by papal donation of the new discovered country,
 
-- So the Portuguese were kidnapping our children and shipping them off. On the coast earlier, at Angola, Jews Bay, they conned that area and they sold us. Go ahead.
+- So the Portuguese were kidnapping our children and shipping them off. On the coast earlier, at Angola, Jews Bay, they conned that area and they sold us.
 
 > till Prince Henry, who meant to improve the discovery in Africa to other purposes, forbade the kidnapping to his navigators.
 
-- They didn't care. Read that.
+- They didn't care.
 
 > Pope Nicholas, in that famous bull by which he granted the unknown world to the Portuguese and Spaniards, expressly permitted and ordered the Christians to reduce all infidels into slavery,
 
-- All of us, and the black Jews. Go ahead.
+- All of us, and the black Jews.
 
 > and the order was zealously executed by both these nations.
 
-- Go down, go down. Read here.
+- Read here.
 
 > The professor divides the history of the Negro trade carried on by Christians into two principal periods: the first from 1443 to 1645, and the second from 1645 to the present times.
 
-- To now. To the time when this book was put together. To the present time. Go ahead.
+- To now. To the time when this book was put together. To the present time.
 
 > The first period is the time of its increase, during which not only its founders, the Portuguese, but the English, the Dutch and the French dealt in Negro slaves,
 
@@ -1053,39 +1018,37 @@ Reading from the *Critical Review*, 1783, page 139 onward, on the slave trade  *
 
 > and, since 1778, with the Spaniards.
 
-- Go down. Try to find where it mentions the islands I want to mention. Go down. Guinea. Coast of Guinea. Go down. Right here, right here. Here we go. Read that.
+- Try to find where it mentions the islands I want to mention. Guinea. Coast of Guinea. Here we go.
 
 > The discovery of the Gold Coast served indeed yet more to enlarge the sphere of the navigation of the Portuguese than the slave trade, but it forced them also to extend themselves on the coast, and to settle colonies in Congo and Angola, and other places, which they had till then neglected. Prince Henry's colonies were enlarged by his successors. King John II, in 1492, expelled all the Jews to the island of St. Thomas,
 
-- Remember that earlier. These black Jews that Livingstone came across were knowledgeable in Portuguese law and history. Read.
+- Remember that earlier. These black Jews that Livingstone came across were knowledgeable in Portuguese law and history.
 
 > which had been discovered in 1471, and to other Portuguese settlements on the continent of Africa. And from these banished Jews
 
-- These banished Jews. Go ahead.
+- These banished Jews.
 
 > the black Portuguese, as they are called,
 
-- So the banished Jews of Portugal were called the black Portuguese. Go ahead.
+- So the banished Jews of Portugal were called the black Portuguese.
 
 > and the Jews in Loango,
 
-- Or Loango Bay. Go ahead.
+- Or Loango Bay.
 
 > who are despised even by the very Negroes, are descended.
 
-- We are descended from the Jews of Loango. Go down. Read on. Jump down to these.
+- We are descended from the Jews of Loango. Jump down to these.
 
 > These Negroes
 
-- These what? These Negroes. So the black Jews, or the black Portuguese, are later on called what? Negro. That's us today. These Negroes. Go ahead.
+- These what? These Negroes. So the black Jews, or the black Portuguese, are later on called what? Negro. That's us today. These Negroes.
 
 > were purchased in Guinea, Congo and Manicongo,
 
-- Go ahead.
-
 > and the colonists had plantations furnished with from 15 to 3,000 Negro slaves.
 
-- 3,000 Negro slaves. Of the Jews. Go ahead.
+- 3,000 Negro slaves. Of the Jews.
 
 > In the beginning of the 16th century, the Spaniards and Portuguese began to transport Negroes
 
@@ -1093,27 +1056,27 @@ Reading from the *Critical Review*, 1783, page 139 onward, on the slave trade  *
 
 > for similar labor to the West Indies and Brazils, by which the Negro trade was rapidly increased.
 
-- I showed you guys the map earlier, on the atlas, pointing to all those places. Including the Gullah, the Geechee. That's them. Go ahead.
+- I showed you guys the map earlier, on the atlas, pointing to all those places. Including the Gullah, the Geechee. That's them.
 
 > The Spaniards, on their first settlement in the globe, according to the Pope's instruction, divided them by families or districts among themselves as slaves.
 
-- They divided them by families or districts, because they knew who was who, who was what. Go ahead. Psalms 83. Go ahead.
+- They divided them by families or districts, because they knew who was who, who was what. Psalms 83.
 
 > The poor Indians
 
-- Then he says the poor Native Americans. The poor Indians. Go ahead.
+- Then he says the poor Native Americans. The poor Indians.
 
 > were now forced to dive for pearls,
 
-- And so are we. Go ahead.
+- And so are we.
 
 > to wash gold sand,
 
-- To wash gold sand, meaning they washed it out. Go ahead.
+- To wash gold sand, meaning they washed it out.
 
 > and to work gold and silver mines for their new masters. They were often carried far from their native homes.
 
-- They were carried far from their homes, on ships, and were brought back to Africa. Go ahead.
+- They were carried far from their homes, on ships, and were brought back to Africa.
 
 > And in short, they were so miserably fed and used that in a short time these countries were entirely depopulated.
 
@@ -1137,27 +1100,25 @@ Reading from *Nautical Magazine*, 1870, page 529, on the Loango family  *[[2:05:
 
 > Loango family. The inhabitants of Loango do not differ materially from those of the Gaboon and Cape Lopez. It is probable that the Jewish type of character above mentioned forms a larger element of population here than it does on the Pongo coast, and this it was, doubtless, which led the Roman Catholic missionaries
 
-- These are the inquisitorial agents. These were the inquisitorial agents, of Roman Catholic missionaries. Go ahead.
+- These are the inquisitorial agents. These were the inquisitorial agents, of Roman Catholic missionaries.
 
 > who labored here during the 16th and 17th centuries, to the conclusion that they had found black Jews in Loango.
 
-- They found black Jews in Loango, who escaped the Inquisition earlier on. Go ahead.
+- They found black Jews in Loango, who escaped the Inquisition earlier on.
 
 > This type of character, combined with the practice of circumcision, naturally enough led to this opinion. But this rite is nearly universal throughout the country, whilst this particular cast of countenance is only one out of a good many varieties that cannot be accounted for. Barbot states that in the reign of Don John II, and about the close of the 15th century, large numbers of Jews were expelled from Portugal and taken to the coast of Southern Guinea,
 
-- Were taken to the coast of Guinea, because it became a Portuguese plantation. Go ahead.
+- Were taken to the coast of Guinea, because it became a Portuguese plantation.
 
 > that the island of St. Thomas, which is not more than 100 miles from the mainland, was populated by mulattoes descended from the Jewish exiles.
 
-- Being from black Moors, or Jews, Israelites, and white women. We had married. Go ahead.
+- Being from black Moors, or Jews, Israelites, and white women. We had married.
 
 > The Jewish type of character noticed at the Gaboon and Loango may have originated from this source,
 
-- The same people. What source? The source of Jews that fled, that were brought over from Portugal and were settled in southern Guinea. The Gabonese and the Loango, or Congolese, were Israelites. That's what it's saying here. Go ahead.
+- The same people. What source? The source of Jews that fled, that were brought over from Portugal and were settled in southern Guinea. The Gabonese and the Loango, or Congolese, were Israelites. That's what it's saying here.
 
 > but if so, it is unknown to the present inhabitants of the country, and it would have been somewhat singular if the Roman Catholic missionaries at Loango had not detected this circumstance, instead of regarding them as a pure African family of Jews.
-
-- Come on.
 
 > Congo and Angola, or Dongo, people. There have been so many of the Congos and Angolas brought to this country in former years, while still greater numbers have been imported into Brazil of late as slaves, that it scarcely seems necessary to give a very minute account of them in this place. It is important to remark, however, that these families in Africa cannot be fairly estimated by such specimens of the nation as have been brought to America, for the subjects of the slave trade have almost invariably been gathered either from certain degraded clans that are interspersed among the more powerful tribes
 
@@ -1171,9 +1132,9 @@ Reading from *Nautical Magazine*, 1870, page 529, on the Loango family  *[[2:05:
 
 > <sup>[10](/bible/zephaniah/3#v10)</sup> From beyond the rivers of Ethiopia my suppliants, even the daughter of my dispersed, shall bring mine offering.
 
-- Read it again. So, beyond the rivers of Ethiopia, my suppliants, even the daughter of my dispersed. Israel is along the Nile. Israel always placed ourselves along the rivers, along the Nile. Along the Nile, so the White Nile or Blue Nile. Israel was scattered all through here. Especially Sudan; there was a heavy slave port in Sudan. Nigeria. All throughout Uganda. We were found all along the Nile. Okay, so that's the point I want to bring to y'all. Israel was found along that area.
+- So, beyond the rivers of Ethiopia, my suppliants, even the daughter of my dispersed. Israel is along the Nile. Israel always placed ourselves along the rivers, along the Nile. Along the Nile, so the White Nile or Blue Nile. Israel was scattered all through here. Especially Sudan; there was a heavy slave port in Sudan. Nigeria. All throughout Uganda. We were found all along the Nile. Okay, so that's the point I want to bring to y'all. Israel was found along that area.
 
-- Now get me the atlas again. I want page one. Jesus Christ, please have page one. The atlas again, the same atlas. I want page one. Oh, never mind, they got it. Read that. Bottom, bottom. You see the bottom? Yes, yes. Give me the top first, to get an idea what's going on.
+- Now get me the atlas again. I want page one. Jesus Christ, please have page one. The atlas again, the same atlas. I want page one. Oh, never mind, they got it. Bottom, bottom. You see the bottom? Yes, yes. Give me the top first, to get an idea what's going on.
 
 <div class="reading">
 
@@ -1189,11 +1150,11 @@ Reading from *The Atlas of the Atlantic Slave Trade*, page one  *[[2:11:16](http
 
 > Both buyers, Europeans, and sellers, Africans, saw the people traded into captivity on the African coast as outsiders.
 
-- Stop. Read again. Both buyers, Europeans, and sellers, Africans: Europeans … and Hamites. Saw who? Saw the people traded into captivity on the African coast as what? As outsiders. As outsiders, meaning what? Hamites were not selling their own people into slavery. They were selling outsiders, meaning people who are not their own people, into the hands of Europeans. Go ahead.
+- Stop. Read again. Both buyers, Europeans, and sellers, Africans: Europeans … and Hamites. Saw who? Saw the people traded into captivity on the African coast as what? As outsiders. As outsiders, meaning what? Hamites were not selling their own people into slavery. They were selling outsiders, meaning people who are not their own people, into the hands of Europeans.
 
 > Although the identities that made trading possible did not remain constant over time.
 
-- Give me the book real quick, *Encyclopedia Americana*, and give me Joel 3. Hamites are not selling Hamites into slavery. Hamites are selling Israelites into slavery. Right. That's what y'all don't understand. You're not selling each other into slavery.
+- Give me the book real quick, *Encyclopedia Americana*, and give me Joel 3. Hamites are not selling Hamites into slavery. Hamites are selling Israelites into slavery. That's what y'all don't understand. You're not selling each other into slavery.
 
 - Now, were there instances where our people were involved in the trade? In some instances, yes, they were. There were instances where you have people who were greedy, and they were menstealers, middlemen. And you have kingdoms where, if we went to war... Say me and Cap had a kingdom. I had a kingdom, he had a kingdom. We war with each other, and I win, and I take him captive and his people captive. I would sell them off. … So I didn't know that the slavery that I had was different from theirs. Their slavery was perpetual. His slavery was: he owed me a debt for war. That's how we did it. If we went to war and I captured him, he would have to work off his debt, like the Bible says to do. So we thought, okay, we're going to sell off our people to them, and that'll be it. But that was on a small scale, because we knew selling our own people as a whole to somebody else would destroy us. That's detrimental. That makes no damn sense. You weren't stupid.
 
@@ -1243,7 +1204,7 @@ Reading from the *Encyclopedia Americana*, the international reference work, on 
 >
 > <sup>[4](/bible/joel/3#v4)</sup> Yea, and what have ye to do with me, O Tyre, and Zidon, and all the coasts of Palestine? will ye render me a recompence? and if ye recompense me, swiftly and speedily will I return your recompence upon your own head;
 
-- Tyre and Zidon are Hamites. The Hamite nation. Zidon is the Canaanites that resided in that portion of Africa. When we fled from Spain and Portugal, we ran into the hands of the Arabs, or into the hands of the Hamites. Read on.
+- Tyre and Zidon are Hamites. The Hamite nation. Zidon is the Canaanites that resided in that portion of Africa. When we fled from Spain and Portugal, we ran into the hands of the Arabs, or into the hands of the Hamites.
 
 - Palestine is the Arabs. That's why it's written that way. Palestine is referring to them.
 
@@ -1265,15 +1226,15 @@ Reading from the *Encyclopedia Americana*, the international reference work, on 
 
 ## In Closing
 
-*[[2:21:06](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=8466s)]* All right, so all praise to the Most High. Hope you guys enjoyed this lesson. We will continue into this, part four. Thank you guys for coming out here. Got an audience out, live audience out here. That's a very first. Shout outs to Captain Yahn for coming through. Captain Yahn, give a round of applause for him for being here. Give it up for the live audience also that could make it out here. Very first. Give it up, give it up, give it up. Let's go, let's go. There you go. We partying all night. Beautiful day today too. All praise to the Most High, man.
+*[[2:21:06](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=8466s)]* All right, so all praise to the Most High. Hope you guys enjoyed this lesson. We will continue into this, part four. Thank you guys for coming out here. Got an audience out, live audience out here. That's a very first. Captain Yahn, give a round of applause for him for being here. Give it up for the live audience also that could make it out here. Very first. Give it up, give it up, give it up. We partying all night. Beautiful day today too. All praise to the Most High, man.
 
 *[[2:22:03](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=8523s)]* So all praises for that. Also, don't forget, again, don't forget to donate to the Booster Club. All right, donate to the Booster Club. Donate to the land fund as well. We want to keep these kind of feast days in our own land. We got this place to ourselves, which is great, but we want to make certain that we eventually have this type of opportunity, of experience, in our own land, our own tents, our own things, so we can do whatever we want. We can spend every feast day in our own land. So donate, donate, donate. Don't forget.
 
 **Captain Yahn:** Hey Deep, but this is very close. It's still a lot better than other... this is a lot closer and better than other places. We have it to ourselves. No curfew. So definitely, all praise to the Most High for that. No intruders amongst us. Got the whole thing for ourselves. So this does come very close. So we're trying to get this for ourselves, and better.
 
-**Deacon Eythan:** All right. So, all praises. You got it?
+**Deacon Eythan:** So, all praises. You got it?
 
-**A brother:** Yes sir. Hey, let's give it up one more time for the Deacon. All praise the Most High. Give it up, give it up. Our Hidden History, Tabernacles edition.
+**A brother:** Yes sir. Hey, let's give it up one more time for the Deacon. Give it up, give it up. Our Hidden History, Tabernacles edition.
 
 ## Announcements & References
 

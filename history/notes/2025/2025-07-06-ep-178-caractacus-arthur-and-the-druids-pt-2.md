@@ -18,7 +18,7 @@ tags: ["Our Hidden History", "nations", "the-americas"]
 
 ## Introduction
 
-*[[2:10](https://www.youtube.com/watch?v=UVontELjUaQ&t=130s)]* Hey, we're back. We're back. Sorry for the delay. Sorry for the delay. Technical difficulties. Shalom. You are now tuned into Our Hidden History radio show. All right, man. All right, we're back. It's been a minute. It's been a minute. Want to jump right into it, man. I got a lot to cover today, and I do not want to... let's just jump into it, man.
+*[[2:10](https://www.youtube.com/watch?v=UVontELjUaQ&t=130s)]* You are now tuned into Our Hidden History radio show. Want to jump right into it, man. I got a lot to cover today, and I do not want to... let's just jump into it, man.
 
 *[[3:14](https://www.youtube.com/watch?v=UVontELjUaQ&t=194s)]* So, we left off with King Arthur. Many of you, it may be your first time hearing about this King Arthur being a real person. Yes, he was a real person. We also learned the fact that he came from a tribe of people known as the Silurians that were black. And we read about how they were short people and so forth. Now, in some instances maybe, but we left out the fact that there's other books that kind of contest that. Because oftentimes whenever we read about our people in terms of the notable black folks or notable black figures in history, what scholars, white scholars, tend to do is they tend to downplay or they tend to belittle... like for example, they say Thorin the ugly, he was black and ugly. All that stuff. Our physical characteristics. They tend to downplay or dismiss or disrespect our physical characteristics. So, we're going to just really quick jump into that real quick with this book here.
 
@@ -31,8 +31,6 @@ tags: ["Our Hidden History", "nations", "the-americas"]
 Reading from a very rare book on the Israelite soldier, on courage, armor and tactical formations · read by a brother  *[[4:51](https://www.youtube.com/watch?v=UVontELjUaQ&t=291s)]*
 
 > Courage, armor and tactical formations. Compared to his enemies, the Hebrew soldier was a lightly armored fighter. And this was to hold true from the first battles with the Canaanites to the last struggles with Romans and Byzantines. But what he lacked in body armor he made up by individual courage and ferocity. Even the Roman soldier, perhaps the greatest infantryman that has ever existed, was often bested by his Judean opponents in hand-to-hand combat.
-
-- **A brother:** Wow. Wow.
 
 - **Deacon Eythan:** So, we was able to beat the Romans hand to hand, bro. They couldn't handle us. We had them hands, the Ali hands, the Tyson hands. Romans couldn't fight us one-on-one. That's why, you know what we got to do? We got to create guns, cuz they ain't fighters. They're not fighters. You might find a few here and there, a few unicorns among them, Irish and Russian, you know, you got the McGregor, all that, but even them, they can't really hold weight to us, man. McGregor ain't beating Mayweather, bro. It's not happening. It is how it is. Jacob, we hand to hand, we a problem.
 
@@ -48,7 +46,7 @@ Reading from a very rare book on the Israelite soldier, on courage, armor and ta
 
 > In close hand-to-hand combat, the Jews counted on their superior physical strength,
 
-- Damn. They ain't them guys over there today in Israel. They ain't them. Ain't no superior physical strength to them dudes at all. Humping a wall, looking on baby genitals. Ain't no physical strength behind that. Barbie doll curls, crying anti-semitism. I ain't talking about you. Go ahead. I'm sorry.
+- Damn. They ain't them guys over there today in Israel. They ain't them. Ain't no superior physical strength to them dudes at all. Humping a wall, looking on baby genitals. Ain't no physical strength behind that. Barbie doll curls, crying anti-semitism. I ain't talking about you.
 
 > enthusiasm and fanatic dedication to God and homeland, as opposed to the Roman legionnaire, who had courage and discipline but no real ideology to sustain him. Additionally, most Romans were rather short though muscular, while the Judeans of classical times were tall and extremely powerful men. Many indeed were near giants.
 
@@ -77,7 +75,7 @@ Reading from the old book on the Silurians read from last week, on Gower and the
 
 > ...the people of East Glamorgan, when speaking of Gower and his people,
 
-- So the point is the word Gwyr, because we came across that word, I believe, in the Cambrian Biography, in people's names. Like the Silurian names. In the Cambrian Biography we read before about Chief Arthur's father's name, like Meurig ap Tewdrig, Tewdrig ap Meurig, and Arthur, Arthwys or Arthuros or Andros ap Tewdrig, right? The name Gwyr or Gwer is in there among their names. Gwyn, Gwerven. Read on. See where the word Gwyr comes from.
+- So the point is the word Gwyr, because we came across that word, I believe, in the Cambrian Biography, in people's names. Like the Silurian names. In the Cambrian Biography we read before about Chief Arthur's father's name, like Meurig ap Tewdrig, Tewdrig ap Meurig, and Arthur, Arthwys or Arthuros or Andros ap Tewdrig, right? The name Gwyr or Gwer is in there among their names. Gwyn, Gwerven. See where the word Gwyr comes from.
 
 > ...say Oar-wire, pronounced O-wire, which means the people of yonder land, and he believes that there is a close affinity between the word Oar-wire and the word Hebrew, both words referring to the original inhabitants
 
@@ -93,7 +91,7 @@ Reading from the old book on the Silurians read from last week, on Gower and the
 
 > Before leaving this subject, we may emphasize once more the fact that sometimes Gower was described as Mini Gwyr. The most probable meaning of the two words is the stones of the heroes.
 
-- Wow. The stones of Mini Gwyr are the stones of the heroes.
+- The stones of Mini Gwyr are the stones of the heroes.
 
 > The early Silurians
 
@@ -112,7 +110,7 @@ Reading from the old book on the Silurians read from last week, page 59, the spe
 
 > My brave warriors, in the name of the Silurian nation, I address you. I speak to you as a father, as the father of a family, and as one who can appeal to you, brave soldiers, having hearths and families and homes to defend. Fellow soldiers, we have for long years fought side by side against a foreign foe. This foe came from beyond the sea, from Italy. You know the enemy well. He has felt the shock of your onslaught,
 
-- Damn. He felt the shock... we read earlier about the giants, the physical prowess of the Israelites. He said they felt the onslaught. Read it again.
+- Damn. He felt the shock... we read earlier about the giants, the physical prowess of the Israelites. He said they felt the onslaught.
 
 > You know the enemy well. He has felt the shock of your onslaught, as he has quailed before your war chariots, which have so often scattered his legions, mowing down his foot soldiers as the scythe the corn.
 
@@ -124,7 +122,7 @@ Reading from the old book on the Silurians read from last week, page 59, the spe
 
 > Why have they stolen our silver and decimated our armies? Why covet they the land of our forefathers?
 
-- There you go. Why covet they the land of our forefathers? This is northern kingdom primarily over here in Britain. But the white man stole Britain. He stole America the same way. America is an extension of Rome. So Rome took America too. Rome took Britain. Rome took everything.
+- Why covet they the land of our forefathers? This is northern kingdom primarily over here in Britain. But the white man stole Britain. He stole America the same way. America is an extension of Rome. So Rome took America too. Rome took Britain. Rome took everything.
 
 - Micah 2:1. Let's just get that first. These guys just come and take, take what they want.
 
@@ -145,7 +143,7 @@ Reading from the old book on the Silurians read from last week, page 59, the spe
 
 - **A brother:** They had blacks and Native Americans in the same boarding schools.
 
-- **Deacon Eythan:** Native Americans and the slaves. They had both of us in slavery together and in boarding schools together. And a lot of you … ain't Native Americans, Native American yourself. You do understand that, right? The Native Americans that passed, they reclassified them as Negroes and put them in slavery. You know that, right? You know that Native Americans are heathens, in the comment board. What I did on my past class yesterday, in the comments: "Oh, Native Americans are heathens." Oh, come on then. Really? Okay. Y'all have fun with that thought process. Let's read on.
+- **Deacon Eythan:** Native Americans and the slaves. They had both of us in slavery together and in boarding schools together. And a lot of you … ain't Native Americans, Native American yourself. You do understand that, right? The Native Americans that passed, they reclassified them as Negroes and put them in slavery. You know that, right? You know that Native Americans are heathens, in the comment board. What I did on my past class yesterday, in the comments: "Oh, Native Americans are heathens." Really? Y'all have fun with that thought process. Let's read on.
 <div class="reading">
 
 Reading from the old book on the Silurians read from last week, page 59, the speech of Caractacus, continued · read by a brother  *[[21:02](https://www.youtube.com/watch?v=UVontELjUaQ&t=1262s)]*
@@ -206,14 +204,14 @@ Reading from the old book on the Silurians read from last week, page 57, Caracta
 
 - So, real quick, go to what I sent y'all about the Caractacus family. It's probably way up there up top. If not, I'll send it to you again.
 
-- Hey, go back to that book on the Silurians. I think we missed a page. Page 55. Go up. Just wanted to show that the Silurians, they were like the Spartans in their warlike characteristics. The page where it said he had the strength like a lion. You know what I'm talking about? Agility of a lion. On the right hand side. Right there. The muscular development. Read from there. Go to the bottom, just to give you a little bit more of the character.
+- Hey, go back to that book on the Silurians. I think we missed a page. Page 55. Just wanted to show that the Silurians, they were like the Spartans in their warlike characteristics. The page where it said he had the strength like a lion. You know what I'm talking about? Agility of a lion. On the right hand side. Right there. The muscular development. Read from there. Go to the bottom, just to give you a little bit more of the character.
 <div class="reading">
 
 Reading from the old book on the Silurians read from last week, page 55, the Silurian warrior · read by a brother  *[[28:13](https://www.youtube.com/watch?v=UVontELjUaQ&t=1693s)]*
 
 > In the king's storehouses and factories, where the instruments of war were made, there were thousands of war chariots ready for an emergency,
 
-- Right. So we made our own war chariots and so forth.
+- So we made our own war chariots and so forth.
 
 > and weapons,
 
@@ -225,15 +223,15 @@ Reading from the old book on the Silurians read from last week, page 55, the Sil
 
 > bows and arrows, slings and javelins and blades,
 
-- Right? All these things was made in that factory.
+- All these things was made in that factory.
 
 > Every citizen on attaining his majority became a soldier and was duly enrolled as ready for the king's service.
 
-- Right? Just like, remember, the Spartans had the same setup pretty much, right? So by the time you became a certain age, you were enrolled in the army.
+- Just like, remember, the Spartans had the same setup pretty much, right? So by the time you became a certain age, you were enrolled in the army.
 
 - **A brother:** They called it the agoge, right?
 
-- **Deacon Eythan:** The agoge. Agape is love. Agoge. Yes. Right. I was going to say it. Read on.
+- **Deacon Eythan:** The agoge. Agape is love. Agoge. Yes. I was going to say it.
 
 > Like the Spartan race, the Silurian had from the cradle been trained to endure hardships
 
@@ -253,7 +251,7 @@ Reading from the old book on the Silurians read from last week, page 55, the Sil
 
 > as to cover the body and ward off a shower of arrows.
 
-- Whoa. Read that again. Damn.
+- Whoa. Damn.
 
 > Using the shield so dexterously as to cover the body and ward off a shower of arrows. These were contests which made the soldier a formidable, if not an invincible, antagonist.
 
@@ -272,7 +270,7 @@ He gives him a speech, like Caractacus does. "We are lions." They banging the sh
 
 Here's his man: "I am so and so, destroyer of worlds." He got shot with the arrow. He ain't do well. He didn't get trained well enough. He got it in his leg. Let's fast forward a little bit. He getting killed. Move it some. Here we go. Right there, that's a phalanx. That's the phalanx that you read about earlier. Then when they start walking, I think that's a turtle. They're going to bunch up together. That's still a phalanx. But the Romans walked around in a circle, walking forward. Let's keep going.
 
-There's a man right there, big hammer. That's Ajax. That boy with the hammer. He's done. That was us. Black people. "I am Ajax." Ain't no one hearing this guy, man. Keep going. It's coming up. I don't want to skip it.
+There's a man right there, big hammer. That's Ajax. That boy with the hammer. He's done. That was us. Black people. "I am Ajax." Ain't no one hearing this guy, man. It's coming up. I don't want to skip it.
 
 Here we go. He gets to the temple of Apollo. Bow. You got to rewind it. Pay attention to the shield. They shot at the shield in the front first. Watch. Boom. See that? You see what he did? He put it behind him. That's what he was doing. But way faster, and we look better doing it. You know how we do. We look good doing the things we do.
 
@@ -298,13 +296,13 @@ Here we go. He gets to the temple of Apollo. Bow. You got to rewind it. Pay atte
 
 - He gets under the elephant. He stabs the elephant under, in the guts. The elephant fell flat on top of him, and he died. But the king wasn't on the elephant though, unfortunately.
 
-- But I'm just showing you these things. Rewind it again. We watch these things and we're like, "Oh, wow. Look at Brad Pitt. Look what he's doing." Nah. That's all Jacob doing that. Look at the white man in his glory. No. And you see his armor is light. That's how he dressed. That's the light armor there. Arms out, chest covered, the helmet on. Look at this. This dude is whipping ass. But that was us. They can't even touch him. Remember the young boy came to him and said so and so want to fight you? Watch this right here. He stabs this dude. He cuts that guy's leg off. Done. Kills him. Mows him down. This the best part. He going to spin around in a circle, do some crazy joint. Bow. That's it. That's all I want. That guy ain't going back home. You got to go to the doctor and get surgery for that eyeball. Anyway, that's all I want.
+- But I'm just showing you these things. Rewind it again. We watch these things and we're like, "Oh, wow. Look at Brad Pitt. Look what he's doing." Nah. That's all Jacob doing that. Look at the white man in his glory. No. And you see his armor is light. That's how he dressed. That's the light armor there. Arms out, chest covered, the helmet on. Look at this. This dude is whipping ass. But that was us. They can't even touch him. Remember the young boy came to him and said so and so want to fight you? He stabs this dude. He cuts that guy's leg off. Done. Kills him. Mows him down. This the best part. He going to spin around in a circle, do some crazy joint. Bow. That's it. That's all I want. That guy ain't going back home. You got to go to the doctor and get surgery for that eyeball. Anyway, that's all I want.
 
 - So these are the things we were doing. It says that the Silurians were mowing the Romans down. That's the same thing we were doing to them. The exact same thing. Hannibal was doing it. The Silurians were doing it. The Spartans were doing it. And they were all Jacob. We showed you that statue earlier of the Spartan with the braids under his helmet. The Spartans had the exact same armor on and the helmet on, with the braids. They had long hair, and you think, "Oh, they got long hair. You can pull it." No, you ain't pulling that hair. They will break your bones. So, we were a problem. And again, that's still captivity, by the way. This is Rome at the time. We weren't in our glory at all. But even in our exile, we were a problem. In our exile now, we are a problem.
 
 - Where we at now? It says this muscular development gave the Silurian the strength and agility of a lion. One of the guys said in the movie, lions. This muscular development. And that's why the wives is happy, man. That's why we had so many babies. We coming home all diesel, like, "Let's go upstairs." That's a wrap, man. Ain't no way you ain't having no babies built like that. And the women was in shape, too. Don't think they wasn't in shape. Brothers and sisters, they was built. The Spartan women said, "Only Spartan women give birth to real men." That's a real quote. And the guy said, "Damn, the way you guys fight, we should have brought our women here." That's what he told Xerxes in 300. "Man, the way you guys is fighting, we are better off bringing our wives to fight y'all. You guys is weak." Because the women were heavily in gymnastics. They were trained in gymnastics, the Spartan women.
 
-- And there was one time, this sister, her son ran from the war. He ran away. He was scared. So she's like, "Yo, what you doing back here?" He's like, "Oh, I came back from the war." She said, "Oh, you're back here and your men are out there in war dying, and you're back home alive." Okay. She went and took a piece of the roof and she smashed his face in. Cuz the word is, you either come back with your shield or on it. You don't come back home alive while your men are out there dying. Your brother's out there dying. That's how this works. You come back on your shield, meaning they carry you back dead, or with it, meaning you come back alive with your shield. He came back home with no shield. So she smashed his face in with a piece of the roof.
+- And there was one time, this sister, her son ran from the war. He ran away. He was scared. So she's like, "Yo, what you doing back here?" He's like, "Oh, I came back from the war." She said, "Oh, you're back here and your men are out there in war dying, and you're back home alive." She went and took a piece of the roof and she smashed his face in. Cuz the word is, you either come back with your shield or on it. You don't come back home alive while your men are out there dying. Your brother's out there dying. That's how this works. You come back on your shield, meaning they carry you back dead, or with it, meaning you come back alive with your shield. He came back home with no shield. So she smashed his face in with a piece of the roof.
 
 - **A brother:** "Come back with your shield or on it" is a famous quote attributed to Spartan mothers sending their sons off to war.
 
@@ -319,7 +317,7 @@ Here we go. He gets to the temple of Apollo. Bow. You got to rewind it. Pay atte
 
 - Damn. See that? Go home for what? We came out here to die. Cuz death to us was nothing. Death to us is going back home. Death was nothing to us. We understood where the great beyond was. We understood it. Oh, we going back home to the fathers, man. I'll be back anyway. It don't make a difference to me. See, the Romans had no ideology. Mars, Jupiter. They had no damn god at all. They had no motivation. But our God is a real God. So we knew what our God had in store for us. Dying in glory. These Romans is just a bunch of atheists fighting. They just fighting us, following orders. We following God. They following orders. Big difference.
 
-- That's bad. That's good, man. Some good stuff. All praises. Praise God.
+- That's bad. That's good, man. Some good stuff. Praise God.
 <div class="reading">
 
 Reading from the old book on the Silurians read from last week, page 55, continued · read by a brother  *[[44:34](https://www.youtube.com/watch?v=UVontELjUaQ&t=2674s)]*
@@ -337,7 +335,7 @@ Reading from the old book on the Silurians read from last week, page 55, continu
 
 > <sup>[21](/bible/philippians/1#v21)</sup> For to me to live is Christ, and to die is gain.
 
-- Damn. To live is Christ, but to die is gain, cuz I gain. I gain that new body. I get the kingdom. I get that glory, that honor. Let's go.
+- Damn. To live is Christ, but to die is gain, cuz I gain. I gain that new body. I get the kingdom. I get that glory, that honor.
 *[[46:35](https://www.youtube.com/watch?v=UVontELjUaQ&t=2795s)]* Caractacus' father... this is AI here now. Remember I told you before, when I use AI, and I do use AI, I use AI for a living, for work and so forth, based upon what I do. But when it comes to AI you got to be careful, because you have to fact check your AI, or you have to use other AIs. Because sometimes this particular AI here, it pulls from whatever is input. So people go in there and put these things in there, and it borrows from whatever people put in there. But you have other AI that pulls from older outside sources. Other AI pulls from like old books. I use that AI. So I fact check this AI with that one, because that one's more broad. It reaches the outside. It's not internal, it's more external. Hope you understand what I'm saying. So, let's read this here about Caractacus. Now, we found this in books of course, but this just simplifies it. So I'm just going to get through it.
 
 <div class="reading">
@@ -408,7 +406,7 @@ Reading from an AI write-up, "Caractacus, father of Linus" · read by a brother
 
 - So Linus and King Arthur are of the same line, same family. Well, we all are pretty much. We're all Israel. They're Hebrews. But the point of the matter is that it's rumored historically, through tradition, that Linus, Pudens and Claudia are in fact the line of Caractacus.
 
-- Okay. So now, where do we want to get to? Genesis 28:14 and Isaiah 43:5.
+- So now, where do we want to get to? Genesis 28:14 and Isaiah 43:5.
 
 </div>
 **[Genesis 28:14](/bible/genesis/28#v14)**  *[[52:30](https://www.youtube.com/watch?v=UVontELjUaQ&t=3150s)]*
@@ -481,11 +479,11 @@ Reading from an AI write-up, "Caractacus, father of Linus" · read by a brother
 - What we got? We got a text now. Load it up for us to see. Zoom in a little more.
 **Text:** Shalom, Most High Christ bless. I just read the book called Judah's Sceptre, and I read on page six, it goes into the migration period of the Zerah lineage, to find the places of Troy, Sparta, Athens, and later migrating to Scandinavia. Just wanted to share that Judah was always the top dog where they went.
 
-**Deacon Eythan:** Yeah, I've heard. We might touch on that. Only thing with that particular record is that I think they go by the mother. That's what makes it a bit shaky. That's why I didn't touch it. We have, in an old book, I will eventually bring it, a whole big folded up map in a book. The book is old. It shows the same thing, with Zerah and how they came over to Britain and they mingled around. But I don't want to jump ahead. That's some good stuff, what you're bringing out. We're going to go into that as well. But we got to be mindful, because it's based upon a matrilineal thing as opposed to patrilineal, and the Bible goes by the father. So we kind of got to be careful with it. But Judah was over there, yes. But that line with Zerah, they go by the woman, which is not biblical. But yes, that's some good stuff there. You do have some books that align with that particular book you're referring to. All praises. Yes, sir.
+**Deacon Eythan:** Yeah, I've heard. We might touch on that. Only thing with that particular record is that I think they go by the mother. That's what makes it a bit shaky. That's why I didn't touch it. We have, in an old book, I will eventually bring it, a whole big folded up map in a book. The book is old. It shows the same thing, with Zerah and how they came over to Britain and they mingled around. But I don't want to jump ahead. That's some good stuff, what you're bringing out. We're going to go into that as well. But we got to be mindful, because it's based upon a matrilineal thing as opposed to patrilineal, and the Bible goes by the father. So we kind of got to be careful with it. But Judah was over there, yes. But that line with Zerah, they go by the woman, which is not biblical. But yes, that's some good stuff there. You do have some books that align with that particular book you're referring to. Yes, sir.
 
 *[[1:12:40](https://www.youtube.com/watch?v=UVontELjUaQ&t=4360s)]* Give me this next AI thing I looked up. Now this is ChatGPT, one of the AIs I use from time to time. Not always reliable, but you got to backtrack it. So I was looking into the Druids. I have books on Druids. Remember I showed you guys earlier how the Druids were the high priests of the Britons. They went to them for counsel. They did sacrifices. They were advisers of the law. They passed it on to their children. They had to go by memory. That was weeks ago I went over that. If you guys remember, go back maybe two parts and watch it, where I go into the Druids and how they didn't put things in writing. It was all up here. And they were like the priests of the people. They were the high priests that handled controversies among the people. And there was a particular... you guys are on point today... there were particular details regarding the Druids and their interactions with the people, and their time, that correlate with the Levites, as I was alluding to.
 
-So the reason why I titled it hypocrisy is because one minute it told me no, there's no similarities there. That's just folklore. That's British Israelism. Don't believe it. If you don't ask the right questions, you ain't getting the right answers. So I had to dig, dig, dig, and ask the right questions. Then it was like, oh yeah, there is. You see that? That's why you can't fully rely on AI like that, because if you ask the wrong question, you'll get the wrong answer. If you don't ask a detailed question with certain sources and put it into the AI, it's not going to find anything you want. So you got to challenge the AI, right? Cuz Esau controls it. If you're not esoteric, if you don't have a deep understanding of history: "I don't know what he's talking about." But if you ask, "Oh yeah, I know," it does what Esau does. If you don't know: I don't know. If you know: okay, I'll tell you. Read that.
+So the reason why I titled it hypocrisy is because one minute it told me no, there's no similarities there. That's just folklore. That's British Israelism. Don't believe it. If you don't ask the right questions, you ain't getting the right answers. So I had to dig, dig, dig, and ask the right questions. Then it was like, oh yeah, there is. That's why you can't fully rely on AI like that, because if you ask the wrong question, you'll get the wrong answer. If you don't ask a detailed question with certain sources and put it into the AI, it's not going to find anything you want. So you got to challenge the AI, right? Cuz Esau controls it. If you're not esoteric, if you don't have a deep understanding of history: "I don't know what he's talking about." But if you ask, "Oh yeah, I know," it does what Esau does. If you don't know: I don't know. If you know: okay, I'll tell you.
 
 <div class="reading">
 
@@ -493,7 +491,7 @@ Reading from an AI write-up, "Druid hypocrisy from ChatGPT" · read by a brother
 
 > Druid hypocrisy from ChatGPT. The claim that Druids referred to themselves as the people of Jehovah comes from the book The Bible in Britain, 1869, by Reverend George W. Barber. In this book, Barber suggests that the ancient Druids were monotheistic and worshiped a singular deity, which he controversially equates with Jehovah, the God of the Bible. Barber's theory aligns with 19th century attempts to link Celtic traditions with biblical history.
 
-- Right. They're trying to say it goes back to British Israelism, where you have white folks that say that the white European nations are the Israelites. And the so-called Israelis today are Amalek. That's what they say. So, British Israelism arose around, I believe, the middle 1900s. I believe this book was around the 1800s. So I think it predates that movement. So a lot of times, when I was looking for some form of correlation between the Britons and the Israelites, it's like, oh, that's British Israelism. So when I asked the right question, it's like, oh yeah, there is some correlation, based upon this source, that source. That's why I showed you that old book on the Silurians. It says that the Gwyr goes back to Hebrews, which is Britons, which are Silurians, which are the Phoenicians. I had to take you guys around the world, because when I asked ChatGPT it was like no, but the books I have say yes. So I'm going to show you the hypocrisy. Watch this.
+- They're trying to say it goes back to British Israelism, where you have white folks that say that the white European nations are the Israelites. And the so-called Israelis today are Amalek. That's what they say. So, British Israelism arose around, I believe, the middle 1900s. I believe this book was around the 1800s. So I think it predates that movement. So a lot of times, when I was looking for some form of correlation between the Britons and the Israelites, it's like, oh, that's British Israelism. So when I asked the right question, it's like, oh yeah, there is some correlation, based upon this source, that source. That's why I showed you that old book on the Silurians. It says that the Gwyr goes back to Hebrews, which is Britons, which are Silurians, which are the Phoenicians. I had to take you guys around the world, because when I asked ChatGPT it was like no, but the books I have say yes. So I'm going to show you the hypocrisy.
 
 > Barber's theory aligns with 19th century attempts to link Celtic traditions with biblical history,
 
@@ -509,7 +507,7 @@ Reading from an AI write-up, "Druid hypocrisy from ChatGPT" · read by a brother
 
 > and did not use the name Jehovah, which is derived from a Latinized version of the Hebrew text, Yahweh. Would you like more details on this or other Druid beliefs?
 
-- Right. So I put the question: Levites and Druids similar? Had to ask that question. Watch. Yes, there are some intriguing parallels between the two. You see what's happening? It said earlier there's no evidence supporting that those two are the same. Then I asked this question, Levites and Druids similar: yes, there are similarities. But you just said in the few paragraphs above there wasn't. Read. I'm going to show you.
+- So I put the question: Levites and Druids similar? Had to ask that question. Watch. Yes, there are some intriguing parallels between the two. You see what's happening? It said earlier there's no evidence supporting that those two are the same. Then I asked this question, Levites and Druids similar: yes, there are similarities. But you just said in the few paragraphs above there wasn't. I'm going to show you.
 
 > Yes, there are some intriguing parallels between the Druids of the ancient Celtic world and the Levitical priesthood of ancient Israel, though they existed in different cultural and religious contexts. One, both were priestly castes.
 
@@ -529,32 +527,30 @@ Reading from an AI write-up, "Druid hypocrisy from ChatGPT" · read by a brother
 
 > The Levites were the guardians of the Torah, responsible for teaching the laws of God to the people of Israel.
 
-- Right.
-
 > Three, both performed sacrificial rituals. Druids are said to have offered sacrifices, sometimes even human sacrifices, to appease their deities. Levites performed animal sacrifices in the temple of Jerusalem as part of atonement for sin.
 
 - So it says the Druids went into paganism, into human sacrifice.
 
 - **A brother:** Is that a Zoom call coming in?
 
-- **Deacon Eythan:** All right. Let him on, man. Let him on.
+- **Deacon Eythan:** Let him on, man. Let him on.
 
 </div>
 **Caller:** Shalom, man. How we doing? Listen, I know you're talking about Caractacus and the Druids and everything right now, but when you have a second, man, check your text messages. Bishop had asked you a question about a report that came out of Philly. I just wanted to make sure you knew it was there. But yeah, man, you're doing a great job, man. It's history, man. This is crazy, bro. You done go deep. Real deep. But yeah, when you get a chance, man, check that text message.
 
-**Deacon Eythan:** Okay. All right. I'm not sure what's going on. I'm not from Philadelphia. I'm of Philadelphia. I'm not from Philadelphia. It's a big difference. You got to put these things behind us, man. I put all things in Christ. All things become new. Okay. You called in the show to remind me to look at a report? Is that what you just did? You called in to remind me to look at a text message about a report. Is that what we're doing today?
+**Deacon Eythan:** I'm not sure what's going on. I'm not from Philadelphia. I'm of Philadelphia. I'm not from Philadelphia. It's a big difference. You got to put these things behind us, man. I put all things in Christ. All things become new. You called in the show to remind me to look at a report? Is that what you just did? You called in to remind me to look at a text message about a report. Is that what we're doing today?
 
 **Caller:** Just making sure you seen it. I didn't know if you had seen it or not, man.
 
-**Deacon Eythan:** You threw me off, man. Now I can't focus, dog. I'm more interested in the report than I am in the class. Thank you. I appreciate you, man. I thank you for calling to remind me of what's going on. Oh, man. That's so helpful.
+**Deacon Eythan:** You threw me off, man. Now I can't focus, dog. I'm more interested in the report than I am in the class. I appreciate you, man. I thank you for calling to remind me of what's going on. Oh, man. That's so helpful.
 
 **Caller:** I'm here for you, bro. I'm here for you, man.
 
-**Deacon Eythan:** Yeah. In the worst way. I appreciate it, man. Thank you for calling in and reminding me of the misery I have to face when I get off the show. Thank you. Appreciate you.
+**Deacon Eythan:** Yeah. In the worst way. I appreciate it, man. Thank you for calling in and reminding me of the misery I have to face when I get off the show. Appreciate you.
 
 **Caller:** I'm going to let y'all get back to it, man.
 
-**Deacon Eythan:** Thanks for calling. All praise to the Lord. Going to go back to the show now. Depression. All right. Most High bless. Shalom. Oh, God. That didn't go well. All right. Where we at? I don't know where I'm at anymore. I don't even care. God. All right.
+**Deacon Eythan:** Thanks for calling. All praise to the Lord. Going to go back to the show now. Depression. Most High bless. Shalom. Oh, God. That didn't go well. Where we at? I don't know where I'm at anymore. I don't even care. God.
 
 **A brother:** Continue, man. Four.
 
@@ -574,7 +570,7 @@ Reading from an AI write-up, "Druid hypocrisy from ChatGPT" · read by a brother
 
 - We forgot our maker. And buildeth temples. So what are we sacrificing in those temples? Children, human flesh, eating hearts out, like the Aztecs and Incas. Same thing. Druids doing the same thing. Building temples.
 
-- So the Lord made it clear that the temples we built are not in honor of the Lord, but in honor of some other deity, some other gods. So that goes back to the Druids as well. The Aztecs, Incas, Mayans, Druids. They were keeping some laws. But I showed y'all yesterday how Gad primarily was the main one upholding law and order among the people. That's why they were the last ones to be defeated by the so-called white man here in the Americas. Okay. So let's go back to this now.
+- So the Lord made it clear that the temples we built are not in honor of the Lord, but in honor of some other deity, some other gods. So that goes back to the Druids as well. The Aztecs, Incas, Mayans, Druids. They were keeping some laws. But I showed y'all yesterday how Gad primarily was the main one upholding law and order among the people. That's why they were the last ones to be defeated by the so-called white man here in the Americas. So let's go back to this now.
 <div class="reading">
 
 Reading from the AI write-up on the Druids and the Levites, continued · read by a brother  *[[1:23:51](https://www.youtube.com/watch?v=UVontELjUaQ&t=5031s)]*
@@ -613,7 +609,7 @@ Reading from the AI write-up on the Druids and the Levites, continued · read by
 
 > which some believe is connected to Yahweh, Jehovah of the Bible. The ancient Druid triad symbol, three rays of light, is also oddly similar to the Hebrew letter shin, which represents the name of God, El Shaddai.
 
-- El Shaddai. Go ahead.
+- El Shaddai.
 
 > The lost tribe theory.
 
@@ -687,18 +683,18 @@ Reading from the book on our descent, page 11, the ten tribes as the Sacae and S
 
 > <sup>[5](/bible/2-kings/17#v5)</sup> Then the king of Assyria came up throughout all the land, and went up to Samaria, and besieged it three years.
 
-- Besieged the land. Went up to Samaria and besieged it three years. Watch this.
+- Besieged the land. Went up to Samaria and besieged it three years.
 
 > <sup>[6](/bible/2-kings/17#v6)</sup> In the ninth year of Hoshea the king of Assyria took Samaria, and carried Israel away into Assyria, and placed them in Halah and in Habor by the river of Gozan, and in the cities of the Medes.
 
-- He carried Ephraim away, and northern kingdom away into Assyria. Placed them in Halah. And in Habor. By the river of Gozan. Watch this. And in the cities of the Medes. That would be like Iran, in that area over there. Russia, Black Sea. That's the cities of the Medes. All in that area there. That's what that's going into. So now I read it for a reason. Now read this here. Next bullet point.
+- He carried Ephraim away, and northern kingdom away into Assyria. Placed them in Halah. And in Habor. By the river of Gozan. And in the cities of the Medes. That would be like Iran, in that area over there. Russia, Black Sea. That's the cities of the Medes. All in that area there. That's what that's going into. So now I read it for a reason. Now read this here. Next bullet point.
 <div class="reading">
 
 Reading from the book on our descent, page 11, continued · read by a brother  *[[1:30:49](https://www.youtube.com/watch?v=UVontELjUaQ&t=5449s)]*
 
 > Two. Herodotus,
 
-- Herodotus is long before British Israelism. That's why I'm reading this here. Herodotus was before British Israelism. Watch. Read on.
+- Herodotus is long before British Israelism. That's why I'm reading this here. Herodotus was before British Israelism. Watch.
 
 > Diodorus,
 
@@ -730,11 +726,11 @@ Reading from the book on our descent, page 11, continued · read by a brother  *
 
 > Four. Pliny says the Sacae were amongst the most distinguished people of Scythia, who settled in Armenia and were called Sacae Sani.
 
-- Read it again. Number four again.
+- Number four again.
 
 > Pliny says the Sacae were among the most distinguished people of Scythia, who settled in Armenia and were called Sacae Sani.
 
-- Sacasani. Now, why would they distinguish people? Hold on, let me get it. This is why they would distinguish, because they maintained some form of godliness, even though, again, they mingled it around with paganism. But watch this. I wrote the precept in Colossians... no, it's in Maccabees. Second Maccabees 4:47. Why don't I write that down? Double check. That's it. Read that.
+- Sacasani. Now, why would they distinguish people? Hold on, let me get it. This is why they would distinguish, because they maintained some form of godliness, even though, again, they mingled it around with paganism. But watch this. I wrote the precept in Colossians... no, it's in Maccabees. Second Maccabees 4:47. Why don't I write that down? Double check. That's it.
 
 </div>
 **[2 Maccabees 4:47](/bible/2-maccabees/4#v47)**  *[[1:34:09](https://www.youtube.com/watch?v=UVontELjUaQ&t=5649s)]*
@@ -790,7 +786,7 @@ Reading from the book on our descent, page 11, continued · read by a brother  *
 
 > <sup>[11](/bible/amos/7#v11)</sup> For thus Amos saith, Jeroboam shall die by the sword, and Israel shall surely be led away captive out of their own land.
 
-- That's northern kingdom, the house of Isaac. Come on, watch.
+- That's northern kingdom, the house of Isaac.
 
 > <sup>[12](/bible/amos/7#v12)</sup> Also Amaziah said unto Amos, O thou seer, go, flee thee away into the land of Judah, and there eat bread, and prophesy there:
 
@@ -815,8 +811,6 @@ Reading from the book on our descent, continued · read by a brother  *[[1:41:18
 
 > Seven. Ptolemy mentions a Scythian people sprung from the Sacae by the name of Saxons. British History Traced from Egypt and Palestine, Roberts, page 105, quoting Sharon Turner. Eight. The self-liberated ten tribes,
 
-- There you go.
-
 > after leaving Media,
 
 - After leaving Media.
@@ -835,7 +829,7 @@ Reading from the book on our descent, continued · read by a brother  *[[1:41:18
 
 > Nine. Sharon Turner. Of the various Scythian nations which have been recorded, the Sacae or Sakai are the people from whom the descent of the Saxons may be inferred with the least violation of probability. Saca-suna, or the sons of the Sacae, abbreviated into Saxon,
 
-- There you go. The sons of the Sacae, abbreviated: Sac-son, or sons of Isaac. Saxon.
+- The sons of the Sacae, abbreviated: Sac-son, or sons of Isaac. Saxon.
 
 > which is the same word as Saxon, seems a reasonable etymology of the word Saxon. The Sakai, who in Latin are called Sacae, were an important branch of the Scythian nation.
 
@@ -875,7 +869,7 @@ Reading from the book on our descent, continued · read by a brother  *[[1:41:18
 
 > It is generally admitted that some of the people who had settled in Ireland came at an early period into Scotland
 
-- Whoa. Read it again.
+- Whoa.
 
 > It is generally admitted that some of the people who had settled in Ireland came at an early period into Scotland, and were known as the Scoti, a name probably derived from Scythian.
 
@@ -928,7 +922,7 @@ Reading from the book on our descent, continued · read by a brother  *[[1:41:18
 - They speaking Hebrew. I'm telling you. You know what we're talking about.
 
 </div>
-*[[1:47:30](https://www.youtube.com/watch?v=UVontELjUaQ&t=6450s)]* You got it? Go down. No. It says about the Berbers, North Africa, them being the Berbers. That's good too, we can read that, but there's another one. It says old world Anglo-Saxons and new world. It's entitled... something in art. Search it, you should find it. Something in art. Portraits, pictures in art, passions of art... Essays of art. Thank you. I was way off. That's the one. Blow it up real quick. Regarding the Scoti again. No, that's not the one. Yep, that's it. Right here. Read this here.
+*[[1:47:30](https://www.youtube.com/watch?v=UVontELjUaQ&t=6450s)]* You got it? No. It says about the Berbers, North Africa, them being the Berbers. That's good too, we can read that, but there's another one. It says old world Anglo-Saxons and new world. It's entitled... something in art. Search it, you should find it. Something in art. Portraits, pictures in art, passions of art... Essays of art. I was way off. That's the one. Blow it up real quick. Regarding the Scoti again. No, that's not the one. Yep, that's it. Read this here.
 
 <div class="reading">
 
@@ -940,11 +934,11 @@ Reading from another book, on the Berbers, the Iberians and the Scoti · read by
 
 > and the dark-skinned Iberians of Western Europe
 
-- So the Berbers of North Africa and the dark-skinned Iberians of Western Europe. Watch this.
+- So the Berbers of North Africa and the dark-skinned Iberians of Western Europe.
 
 > belong to the same race.
 
-- Were the same people. Watch. Hold on. Jump down to this part.
+- Were the same people. Watch. Jump down to this part.
 
 > This Iberian population passed into Spain by this primeval isthmus, and then diffused themselves over western Europe and its isles.
 
@@ -952,7 +946,7 @@ Reading from another book, on the Berbers, the Iberians and the Scoti · read by
 
 > Whether this were actually the case, it is hard to say. But it is important to note that Sallust, quoting the Punic books which were ascribed to King Hiempsal, exactly reverses the course of migration, and states that the progenitors of the African Moors
 
-- There you go. There you go. It says the Punic books, that's Hannibal and them, which were ascribed to King Hiempsal, exactly reverses the course of migration. Watch this. And states that the progenitors of the African Moors. That's black folks.
+- It says the Punic books, that's Hannibal and them, which were ascribed to King Hiempsal, exactly reverses the course of migration. And states that the progenitors of the African Moors. That's black folks.
 
 > were a people from Media and Persia
 
@@ -980,7 +974,7 @@ Reading from another book, on the Berbers, the Iberians and the Scoti · read by
 
 > and those of the new.
 
-- White folks. Watch this.
+- White folks.
 
 > But there is reason to believe that the Scoti of Ireland, the Iberians of Spain, and the Berbers of Africa belong to a fundamentally identical race.
 
@@ -993,7 +987,7 @@ Reading from a passage highlighted in blue, on the Scythians, Getae, Thracians a
 
 > The Scythians, Getae, Thracians, and Goths having thus been traced to one common origin, or as being rather different names for the same people, there can be no reasonable doubt but that these represented the descendants of the ten tribes who had escaped from the Assyrian captivity. It has also been seen that some of these migrated into Asia,
 
-- Asia, where Paul wrote to. Watch this.
+- Asia, where Paul wrote to.
 
 > and thus joined the Greco-Israelites
 
@@ -1014,7 +1008,7 @@ Reading from the book on our descent, continued, on the Vikings, the Cimmerians 
 
 > declares: a careful perusal of the sagas will enable us, with the help of the ancient Greek and Latin writers, and without any serious break in the chain of events, to make out a fairly continuous history, which throws considerable light on the progenitors of the English-speaking peoples, their migrations northward from their old home on the shores of the Black Sea, their religion, and their settlement of Scandinavia and of England.
 
-- I'm sorry. Go back. It says their old home on the shores of the Black Sea, their religion, and the settlement of Scandinavia and of England. Going back to that brother's point in the text earlier about them being in Scandinavia. Same thing.
+- Go back. It says their old home on the shores of the Black Sea, their religion, and the settlement of Scandinavia and of England. Going back to that brother's point in the text earlier about them being in Scandinavia. Same thing.
 
 > Nineteen. There is no higher authority in these matters than Sir Henry Rawlinson,
 
@@ -1028,15 +1022,15 @@ Reading from the book on our descent, continued, on the Vikings, the Cimmerians 
 
 - And the Gimiri part here goes back to that word Gwyr or Gimmer we read earlier, which goes back to Hebrews. It's the same word.
 
-- What page is this? Page 12. All right. Go down. That was 13. All right. Read 14. No, I don't want this. That's too much. Go down. Let me see. Saxons. I don't need all that. Give me page 17.
+- What page is this? Page 12. That was 13. Read 14. No, I don't want this. That's too much. Saxons. I don't need all that. Give me page 17.
 
 - **A brother:** It went to 18 from 16.
 
-- **Deacon Eythan:** That's weird. Okay, I'll bring it next week then. Let me see that. That's fine. It's meant to be. Crania Britannica. Read that.
+- **Deacon Eythan:** That's weird. Okay, I'll bring it next week then. Let me see that. That's fine. It's meant to be. Crania Britannica.
 
 > In Crania Britannica we are told of a cist or barrow at Stonehenge
 
-- Where? Stonehenge. You know that big structure, one of the known ones of the world. The big old stones in a circle. Oo, spooky Stonehenge. And remember about the stones: King Arthur's buried under a stone. All that stuff. You heard about that before. Watch this.
+- Where? Stonehenge. You know that big structure, one of the known ones of the world. The big old stones in a circle. Oo, spooky Stonehenge. And remember about the stones: King Arthur's buried under a stone. All that stuff. You heard about that before.
 
 > in which were the remains of a Druid perfectly clad in his sacred garments,
 
@@ -1048,7 +1042,7 @@ Reading from the book on our descent, continued, on the Vikings, the Cimmerians 
 
 > The worship of the Druids consisted of three great acts. First, the laying of his offence on the victim, a bullock, sheep, or goat. Second, the offering up of the life of that victim. Third, the expiation, as he believed, thereby effected.
 
-- Go down. Read incense burners.
+- Read incense burners.
 
 > Eleven incense burners of clay are in the British Museum.
 
@@ -1124,7 +1118,7 @@ Reading from the book on our descent, continued, on the Vikings, the Cimmerians 
 
 - **A brother:** Hey, that scripture in Amos we was reading, Amos 7, where we just read about that priest that was talking to Amos, telling him to get out. That priest was Dan, because he was a priest of Beth-el. That's why the next chapter says they swear by the sin, "Thy god, O Dan, liveth." So that was Dan that was saying that to him.
 
-- **Deacon Eythan:** Wow. That's right. That's right. Well, give me 28:37 first. Because these names I read about, Getae, Saxons, Sacae, Goths, Scythians, this is all going back to the scriptures of the curses we fell under when we got scattered throughout the four corners of the earth. Britons, Bretons, Berbers. These are all bywords.
+- **Deacon Eythan:** That's right. That's right. Well, give me 28:37 first. Because these names I read about, Getae, Saxons, Sacae, Goths, Scythians, this is all going back to the scriptures of the curses we fell under when we got scattered throughout the four corners of the earth. Britons, Bretons, Berbers. These are all bywords.
 
 </div>
 **[Deuteronomy 28:37](/bible/deuteronomy/28#v37)**  *[[2:02:39](https://www.youtube.com/watch?v=UVontELjUaQ&t=7359s)]*
@@ -1149,12 +1143,12 @@ Reading from the book on our descent, continued, on the Vikings, the Cimmerians 
 
 > <sup>[11](/bible/genesis/35#v11)</sup> And God said unto him, I am God Almighty: be fruitful and multiply; a nation and a company of nations shall be of thee, and kings shall come out of thy loins;
 
-- Watch this. A nation. So he starts off saying, you are going to be a nation. That's going into Judah. Go slow. A nation: Judah. And a company of nations. Nation, and company of nations or heathen, the same thing. Company of nations goes back to what? Northern kingdom, undergoing all these different names. Aztecs, Mayans, Incas, Briton, Breton. It's all the same.
+- A nation. So he starts off saying, you are going to be a nation. That's going into Judah. Go slow. A nation: Judah. And a company of nations. Nation, and company of nations or heathen, the same thing. Company of nations goes back to what? Northern kingdom, undergoing all these different names. Aztecs, Mayans, Incas, Briton, Breton. It's all the same.
 
 - Kings shall come out of thy loins. Like Caractacus, like Meurig, like David, Solomon, Hezekiah, Josiah. You had kings in Africa: Mansa Musa, another one. You had Shaka Zulu, another one. King Prempeh, another one, of Ghana. Ganga Zumba, Gaspar Yanga. A bunch of names, different names, but these are all our people under different names. A nation and a company of nations will come out of you. Jacob didn't father all nations. He fathered one nation of people, but they became a company of nations, and found a company of different names and bywords. That's what happened. That's prophecy.
 
 - Now give me what I sent you. ChatGPT. I had to ask the AI again.
-*[[2:07:52](https://www.youtube.com/watch?v=UVontELjUaQ&t=7672s)]* Now, I read books earlier, just to show that I don't just use AI. I don't do that. I just use AI to find more things for me to see. Read that.
+*[[2:07:52](https://www.youtube.com/watch?v=UVontELjUaQ&t=7672s)]* Now, I read books earlier, just to show that I don't just use AI. I don't do that. I just use AI to find more things for me to see.
 
 <div class="reading">
 
@@ -1174,7 +1168,7 @@ Reading from an AI write-up, "ChatGPT confirms connection: Saxons and Goths, Isr
 
 > The core argument. Authors like Roberts and Waddell argued that the Getae and Sacae were actually lost tribes of Israel, who migrated north and became known as the Goths, Getae, and the Saxons, Sacae, or Saka, sons of Isaac. Evidence for connection. One, etymology, name origins. Getae, pronounced Geta, Goths.
 
-- So it's pronounced Getha. Wow. I didn't know that. So Geta is not pronounced Geta. It's pronounced Getha. Goths.
+- So it's pronounced Getha. I didn't know that. So Geta is not pronounced Geta. It's pronounced Getha. Goths.
 
 > Sacae, pronounced Sax, Saxons. The word Saka or Sakai was used by the Persians and Greeks to refer to the Scythians, a nomadic people from the northern regions of Iran and central Asia. The Sacae were later called Saxons when they migrated west into Europe.
 
@@ -1186,7 +1180,7 @@ Reading from an AI write-up, "ChatGPT confirms connection: Saxons and Goths, Isr
 
 > Herodotus, fifth century BC, said the Sacae Scythians were descendants of the Israelites who had been exiled by the Assyrians.
 
-- How about that, bro? So this is not British Israelism. Herodotus wrote in the fifth century. They call him the father of history. So these guys who are called Scythians are Israelites. And guess who confirmed this before him? Paul. Paul was writing to Israelites. Greco-Israelites. Colossians 3:11. Read on.
+- How about that, bro? So this is not British Israelism. Herodotus wrote in the fifth century. They call him the father of history. So these guys who are called Scythians are Israelites. And guess who confirmed this before him? Paul. Paul was writing to Israelites. Greco-Israelites. Colossians 3:11.
 
 > Strabo, Greek historian, called the Getae the bravest of the Thracians and mentioned their monotheistic belief in a single god, similar to Hebrew beliefs. Jordanes, a Gothic historian, sixth century AD, called the Getae and Goths the same people. Three, lost tribe theory. When the ten tribes of Israel were exiled by the Assyrians around 722 BC, they migrated north through the Caucasus mountains and became known as the Sacae and Getae.
 
@@ -1210,15 +1204,13 @@ Reading from an AI write-up, "ChatGPT confirms connection: Saxons and Goths, Isr
 
 > Two, Gothic runic alphabet
 
-- Gothic runic. That's the Druids' runic alphabet. Which the white man makes into magic spells and runes in movies. Like Scarlet Witch. She would use runes and cast spells with her fingers, making it all mystical, magical. Like the Native Americans: they're mystical people. Ooh, Indians. Ooh, they like unicorns. It's the same thing. I got dumb negroes today saying, we Native American. No, you're not Native American at all. Read that.
+- Gothic runic. That's the Druids' runic alphabet. Which the white man makes into magic spells and runes in movies. Like Scarlet Witch. She would use runes and cast spells with her fingers, making it all mystical, magical. Like the Native Americans: they're mystical people. Ooh, Indians. Ooh, they like unicorns. It's the same thing. I got dumb negroes today saying, we Native American. No, you're not Native American at all.
 
 > Two. Gothic runic alphabet, ancient Hebrew alphabet. The Gothic runes are identical to ancient Paleo-Hebrew letters. The Hebrew letter gimel, Gothic G.
 
 - Ancient writers who knew this ancient story. And I'm going to give respect where it's due to our elders. Our elders' elders. They taught this long before us. I'm playing catch up with them. The Israelites that were around before me, the old school elders. They touched on this, and they didn't have AI. They didn't have Google. They went to the library and they rented books and read them on their own. I still have not caught up to them. So I give respect. Those guys are my predecessors. They pretty much were the ones who led me to this history, to learn it and want to study it and retain it. Their minds are way beyond mine. Them guys are on a different level. God used them guys, in terms of history, on a higher level than me. But all praise to the Most High for them regardless, despite where they are now. The Most High used these men to build the foundation of history that we were never taught in school. So I give respect to those elders regardless.
 
 > Ancient writers who knew this. Herodotus, fifth century BC: the Sacae were Scythian Israelites.
-
-- There you go.
 
 > Strabo, first century BC: the Getae were one of the most ancient and pure races. Jordanes, sixth century AD: the Getae were the same as the Goths. Sharon Turner, 1790 AD: the Saxons are the sons of Isaac, Isaac's sons. Even the British royal family knows this.
 
@@ -1262,7 +1254,7 @@ Reading from an AI write-up, "ChatGPT confirms connection: Saxons and Goths, Isr
 
 > Conclusion. While the hypothesis that the Getae and Sacae were precursors to the Goths and Saxons is intriguing, it remains speculative. Current historical and archaeological evidence does not definitively support this,
 
-- But it does. We showed them earlier. Is there more? That's it. All right. So, praise to the Most High. I think I'm going to stop right there. Give me Isaiah 65 and 15. Just to go into these names. Getha, Berbers. It's all the same.
+- But it does. We showed them earlier. Is there more? That's it. So, praise to the Most High. I think I'm going to stop right there. Give me Isaiah 65 and 15. Just to go into these names. Getha, Berbers. It's all the same.
 
 </div>
 **[Isaiah 65:15](/bible/isaiah/65#v15)**  *[[2:18:40](https://www.youtube.com/watch?v=UVontELjUaQ&t=8320s)]*
@@ -1271,18 +1263,18 @@ Reading from an AI write-up, "ChatGPT confirms connection: Saxons and Goths, Isr
 
 - What the Lord told Jacob: you change your name from Jacob, Jacob is Israel. So the same thing happened to us. We left our name too. The Lord renamed Jacob. But we fell under curses and our name was changed. The Lord shall slay you and call your servants by another name. Saxons, Getae. Same thing. Another name.
 
-- Now, what you guys got there? Blow it up. Read that.
+- Now, what you guys got there? Blow it up.
 <div class="reading">
 
 Reading from a news article, "Racist image in Coburg divides small German town" · read by a brother  *[[2:19:29](https://www.youtube.com/watch?v=UVontELjUaQ&t=8369s)]*
 
 > Racist image in Coburg divides small German town.
 
-- So, this is a racist image in Coburg. Remember that name that Elizabeth II claimed to have? Saxe-Coburg. Read that.
+- So, this is a racist image in Coburg. Remember that name that Elizabeth II claimed to have? Saxe-Coburg.
 
 > Tensions are running high in a debate over the coat of arms in the northern Bavarian town of Coburg. Two women in faraway Berlin have launched a campaign saying it's a racist image with no place in today's world.
 
-- So what is this image here? Look at it. A black man with armor on, in Coburg, Bavaria. Well, why is that? This is 2020. They said this does not belong in today's world. An image of a black man, a coat of arms, does not belong in today's world. But where does it belong? Read on.
+- So what is this image here? Look at it. A black man with armor on, in Coburg, Bavaria. Well, why is that? This is 2020. They said this does not belong in today's world. An image of a black man, a coat of arms, does not belong in today's world. But where does it belong?
 
 > It's a sunny day in Coburg. Central Market Square is a study in harmony and order. The long sides of the square boast the prettily restored facades of town houses. One of the shorter ends features the town hall with its stately facade to round off the scene. The tranquil sound of fountains splashing can be heard from around the paved square.
 
@@ -1290,11 +1282,11 @@ Reading from a news article, "Racist image in Coburg divides small German town" 
 
 > A beautiful summer's day indeed. But something is amiss. Bitter controversy over Coburg's coat of arms has divided opinion in the quaint town.
 
-- Remember that name. Coburg. Go back to the book please. The Elizabeth II. Right there. Read that.
+- Remember that name. Coburg. Go back to the book please. The Elizabeth II. Right there.
 
 - **A brother:** The Saxe-Coburg and Gotha dynasty, Queen Elizabeth II's original family name.
 
-- **Deacon Eythan:** The original family name of that line is the Saxe-Coburg and Gotha dynasty. So you have a Coburg family coat of arms in that area. Go back to the article again. They got a black man's coat of arms under the Coburg family. Read on.
+- **Deacon Eythan:** The original family name of that line is the Saxe-Coburg and Gotha dynasty. So you have a Coburg family coat of arms in that area. Go back to the article again. They got a black man's coat of arms under the Coburg family.
 
 > Critics are arguing that the crest includes a racist depiction.
 
@@ -1363,9 +1355,9 @@ Reading from a news article, "Racist image in Coburg divides small German town" 
 </div>
 ## In Closing
 
-*[[2:26:22](https://www.youtube.com/watch?v=UVontELjUaQ&t=8782s)]* Like I said before, y'all, Lord willing, I'm going to open the vault. Cuz when Putin opened the vault, that vault was tiny. We got a freaking museum. We got a museum full of things for y'all to see. So y'all ain't seen nothing. Putin showed y'all a piece of what we have. So y'all stay tuned. We got more for y'all. I'm going to end it on that, because I don't want to get too much. So I'm going to just fall back. All right. So all praise to the Most High. Shalom. Hope you guys enjoyed the lesson. Went a little over, but all praise to the Most High anyway. Most High bless. All right, Israel, give it up. Give it up. All praises.
+*[[2:26:22](https://www.youtube.com/watch?v=UVontELjUaQ&t=8782s)]* Like I said before, y'all, Lord willing, I'm going to open the vault. Cuz when Putin opened the vault, that vault was tiny. We got a freaking museum. We got a museum full of things for y'all to see. So y'all ain't seen nothing. Putin showed y'all a piece of what we have. So y'all stay tuned. We got more for y'all. I'm going to end it on that, because I don't want to get too much. So I'm going to just fall back. So all praise to the Most High. Shalom. Hope you guys enjoyed the lesson. Went a little over, but all praise to the Most High anyway. Most High bless. All right, Israel, give it up. Give it up.
 
-*[[2:29:03](https://www.youtube.com/watch?v=UVontELjUaQ&t=8943s)]* All right, that's it. All praise to the Most High. So, we'll see y'all again. Hope you guys enjoyed the lesson. We got more for y'all, some more stuff for y'all. So, stay tuned for that. Shalom. Most High bless. See y'all again. Shalom.
+*[[2:29:03](https://www.youtube.com/watch?v=UVontELjUaQ&t=8943s)]* All right, that's it. So, we'll see y'all again. Hope you guys enjoyed the lesson. We got more for y'all, some more stuff for y'all. So, stay tuned for that. Shalom. Most High bless. See y'all again. Shalom.
 
 ## Announcements & References
 
