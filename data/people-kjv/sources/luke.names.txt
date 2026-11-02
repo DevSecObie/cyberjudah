@@ -49,7 +49,7 @@ jordan | | Jordan | * | + |
 isaiah | | Esaias | * | + |
 herodias | | Herodias | * | + |
 # The genealogy (3:23-38): "Jesus ... being (as was supposed) the son of Joseph, which was the son of Heli"
-heli-l | Heli | Heli | * | M | "Joseph, which was the son of Heli", the son of Matthat (Luke 3:23-24)
+heli-l | Heli | Heli | * | M | A forefather of Mary: Luke 3 is the lineage of Mary, as the classes teach; the son of Matthat (Luke 3:23-24)
 matthat-24 | Matthat | Matthat | 3:24 | M | The son of Levi, father of Heli (Luke 3:23-24)
 levi-24 | Levi | Levi | 3:24 | M | The son of Melchi, father of Matthat (Luke 3:24)
 melchi-24 | Melchi | Melchi | 3:24 | M | The son of Janna, father of Levi (Luke 3:24)

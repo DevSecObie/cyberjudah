@@ -14,7 +14,7 @@ anna-p & asher | 2:36 | "Of the tribe of Aser"
 philip-t ~ herod-t | 3:1 | "Herod being tetrarch of Galilee, and his brother Philip tetrarch of Iturea"
 philip-h ~ herod-t | 3:19 | "Herodias his brother Philip's wife"
 herodias = philip-h | 3:19 | "Herodias his brother Philip's wife"
-joseph-m ^ heli-l | 3:23 | "Joseph, which was the son of Heli"; Matthew 1:16 says "Jacob begat Joseph the husband of Mary"
+mary ^ heli-l | 3:23 | Luke 3 is the lineage of Mary: "if you want to read the lineage of Mary, you go to Luke 3"; Joseph's is Matthew 1 ("Jacob begat Joseph the husband of Mary", Matthew 1:16) | history | 15 Minutes with the Captains: Virgin Birth? Well Explain These Scriptures <https://www.youtube.com/watch?v=BtV89tzRRz8&t=483s>
 heli-l < matthat-24 | 3:23,3:24
 matthat-24 < levi-24 | 3:24
 levi-24 < melchi-24 | 3:24
