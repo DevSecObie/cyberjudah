@@ -50,7 +50,7 @@ const API = path.join(OUT, "api");
 const SEARCH = path.join(OUT, "search");
 
 const L = loadLibrary(ROOT);
-const { BOOKS, CHAPTERS, bible, bookSlug, testament, chapterUrl, bookUrl, handbook, sectionUrl, partUrl, sortedPrecepts, preceptUrl, cases, ERAS, caseUrl, isBlessing, notes, classNotes, captainNotes, cited, uniqueCitations, linked, moments, commentary } = L;
+const { BOOKS, CHAPTERS, bible, bookSlug, testament, chapterUrl, bookUrl, handbook, sectionUrl, partUrl, sortedPrecepts, preceptUrl, cases, ERAS, caseUrl, isBlessing, notes, classNotes, captainNotes, cited, uniqueCitations, linked, moments, commentary, redOf } = L;
 
 // A note of one of the shows (data/shows.json) carries the show's name as its collection, read
 // from its title unless its frontmatter names one, so it is shown as that show and not as a
@@ -145,7 +145,7 @@ for (const b of BOOKS) {
   for (const c of chs) {
     const verses = bible[b][String(c)] ?? [];
     const tags = strongsTags(bookSlug[b]);
-    writeJson(path.join(API, "kjv", bookSlug[b], `${c}.json`), { book: b, chapter: c, translation: "KJV", url: chapterUrl(b, c), ...(c === chs[0] && L.prologues[b] ? { prologue: L.prologues[b] } : {}), verses: verses.map((t, i) => ({ verse: i + 1, text: t, ...(tags?.[String(c)]?.[String(i + 1)] ? { words: tags[String(c)][String(i + 1)] } : {}) })).filter((v) => v.text) });
+    writeJson(path.join(API, "kjv", bookSlug[b], `${c}.json`), { book: b, chapter: c, translation: "KJV", url: chapterUrl(b, c), ...(c === chs[0] && L.prologues[b] ? { prologue: L.prologues[b] } : {}), verses: verses.map((t, i) => ({ verse: i + 1, text: t, ...(tags?.[String(c)]?.[String(i + 1)] ? { words: tags[String(c)][String(i + 1)] } : {}), ...(redOf(b, c, i + 1).length ? { red: redOf(b, c, i + 1) } : {}) })).filter((v) => v.text) });
     // Emitted for every chapter, cited or not: an uncited chapter is an empty list, not a 404.
     writeJson(path.join(API, "concordance", bookSlug[b], `${c}.json`), { book: b, chapter: c, cited_by: uniqueCitations(cited.get(`${b}|${c}`) ?? []), precepts: linked.get(`${b}|${c}`) ?? [], moments: moments.get(`${b}|${c}`) ?? [], commentary: commentary.get(`${b}|${c}`) ?? [], people: namedIn.get(`${bookSlug[b]}|${c}`) ?? {}, places: placedIn.get(`${bookSlug[b]}|${c}`) ?? {}, read: readings[String(c)] ?? {} });
     readingsTotal += Object.values(readings[String(c)] ?? {}).reduce((a, r) => a + r.length, 0);
