@@ -26,6 +26,8 @@ STREAMS = ("## Scriptures Opened", "## Readings and Scriptures")
 NEWS = "## In The News"
 SECONDS = re.compile(r"[?&]t=(\d+)s")
 STAMP = re.compile(r"^\*\[(?:\[)?(\d+(?::\d\d){1,2})")
+STAMP_ANY = re.compile(r"\*\[(?:\[)?(\d+(?::\d\d){1,2})")
+NEWS_PARA = re.compile(r"^\*\[.*?\]\*\s+\*\*In The News")
 
 
 def seconds_of(text):
@@ -33,7 +35,7 @@ def seconds_of(text):
     m = SECONDS.search(text)
     if m:
         return int(m.group(1))
-    m = STAMP.match(text.strip())
+    m = STAMP.match(text.strip()) or STAMP_ANY.search(text)
     if m:
         parts = [int(x) for x in m.group(1).split(":")]
         total = 0
@@ -101,7 +103,8 @@ def units(section):
     out, cur = [], []
     lead = []
     for line in section[1:]:
-        starts = line.startswith("**[") or line.startswith('<div class="reading">')
+        starts = (line.startswith("**[") or line.startswith('<div class="reading">')
+                  or NEWS_PARA.match(line) is not None)
         if starts:
             cur = [line]
             out.append(cur)
