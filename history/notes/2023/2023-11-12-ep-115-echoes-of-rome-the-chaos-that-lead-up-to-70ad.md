@@ -18,14 +18,13 @@ tags: ["Our Hidden History", "betrayal", "deceit", "rome", "war"]
 
 ## Introduction
 
-*[[8:54](https://www.youtube.com/watch?v=cUubbnXbaZA&t=534s)]* Hey, shalom, shalom. Welcome back to another episode of Our Hidden History. You now tuned in to Our Hidden History radio show. All right, all right, let's get into it. Last week we dealt with the martyrdom. We just went into a couple of brothers that were martyred, and how they were martyred, and how Esau, the Roman Empire at that time, how they was putting us to death and how they treated us.
+*[[8:54](https://www.youtube.com/watch?v=cUubbnXbaZA&t=534s)]* You now tuned in to Our Hidden History radio show. Last week we dealt with the martyrdom. We just went into a couple of brothers that were martyred, and how they were martyred, and how Esau, the Roman Empire at that time, how they was putting us to death and how they treated us.
 
 *[[9:29](https://www.youtube.com/watch?v=cUubbnXbaZA&t=569s)]* Remember, we under the emperor Nero right now. We are dealing with the sixth feather. So with Nero, remember how, with the fire, how he accused us. We already had a bad light as followers of Christ at that time, but when the fire happened he blamed it on us, because they already hated us. So after that, that gave us more notoriety. Because remember, one of the books that we went over, it said that it was like 30 years that we went unnoticed. We was under the radar for 30 years right after Christ. Under the radar. But once the fire happened, then that put us in that light, and then they started setting laws and regulations.
 
-*[[10:14](https://www.youtube.com/watch?v=cUubbnXbaZA&t=614s)]* Get the page where they say we was an empire within the empire. You remember, you know what I'm talking about. Empire within the empire. Now I'm just recapping. What we going to do this show right here, we're going to deal with what was going on, what led up to the event, what led up to 70 AD. What led up to it. All right? And you will see it's nothing but … that was going on in the land.
+*[[10:14](https://www.youtube.com/watch?v=cUubbnXbaZA&t=614s)]* Get the page where they say we was an empire within the empire. You remember, you know what I'm talking about. Empire within the empire. Now I'm just recapping. What we going to do this show right here, we're going to deal with what was going on, what led up to the event, what led up to 70 AD. What led up to it. And you will see it's nothing but … that was going on in the land.
 
 ## Readings and Scriptures
-
 
 <div class="reading">
 
@@ -33,7 +32,7 @@ Reading from a book on the history of the Christians in early Rome, a book from 
 
 > For the first time the Imperial government saw with whom they had to do.
 
-- So I just wanted to go back into this page to refresh. Remember, these things happened in ancient Rome; they're happening all over again today. All right?
+- So I just wanted to go back into this page to refresh. Remember, these things happened in ancient Rome; they're happening all over again today.
 
 - So for the first time the Imperial government saw with whom they had to do. Who they had to deal with, who they had to focus on.
 
@@ -77,9 +76,9 @@ Reading from a book on the history of the Christians in early Rome, a book from 
 
 - So this is talking about Esau. So the Lord said, these things hast thou done, and he kept silence. Things like what? The rape, the rob, the pillage, the murder of our people. What's happening to our people even now up to today, with the Rasheem Carters. Give me some names. Ahmaud Arbery. You got the Michael Browns, you got Botham Jean. All these lynches and so forth that's happening to our people even today.
 
-- Thou thoughtest that I was altogether such an one as thyself. Right. Because Esau think the Lord is going to be on their side for the things that they're doing to us. They said, the Lord is on our side, we doing God's work right now.
+- Thou thoughtest that I was altogether such an one as thyself. Because Esau think the Lord is going to be on their side for the things that they're doing to us. They said, the Lord is on our side, we doing God's work right now.
 
-- But I will reprove thee. But what? But I will reprove thee. The Lord say he will reprove them. And set them in order before thine eyes. And that's what's happening. That's what happened back then; same thing is happening right now as we speak. The Lord is setting us in order right before the enemy's eyes, man. Okay.
+- But I will reprove thee. But what? But I will reprove thee. The Lord say he will reprove them. And set them in order before thine eyes. And that's what's happening. That's what happened back then; same thing is happening right now as we speak. The Lord is setting us in order right before the enemy's eyes, man.
 
 <div class="reading">
 
@@ -87,11 +86,11 @@ Reading from the same book on the Christians in early Rome, the bottom of the pa
 
 > It found in the Christian community a living embodiment of this tendency which hitherto Rome has succeeded in crushing. It found that in their midst, in the capital and in the provinces, an extra-Imperial unity was fast growing up, an Empire within the Empire.
 
-- So as Rome is going throughout their foreign policy, they go to war with the different nations, which was us, over in different lands, up in Spain and so forth, Britain, Gaul. All right. So as Rome is out going to war, back home they was like, yo, we need to deal with the issue back home. There's an empire that's grown within our empire that we got to deal with, and they forming a fast growing unity.
+- So as Rome is going throughout their foreign policy, they go to war with the different nations, which was us, over in different lands, up in Spain and so forth, Britain, Gaul. So as Rome is out going to war, back home they was like, yo, we need to deal with the issue back home. There's an empire that's grown within our empire that we got to deal with, and they forming a fast growing unity.
 
-- Same thing happening. It's going to happen all over again. All right? You see what's happening over in the so-called Middle East? Guess what: they're going to turn their faces back home towards us. All right. That's when the persecution going to start. Same thing happened back then, likewise today. All right. Remember, history repeats itself. History repeats itself. All right. Nothing new under the sun.
+- Same thing happening. It's going to happen all over again. You see what's happening over in the so-called Middle East? Guess what: they're going to turn their faces back home towards us. That's when the persecution going to start. Same thing happened back then, likewise today. Remember, history repeats itself. History repeats itself. Nothing new under the sun.
 
-- So now from there, now we're going to get into what led up to 70 AD. So there's different events that was taking place as 70 AD was approaching. Okay. So we going to get into the different sects that was out at that time in Judea. All right. So give me the Wikipedia. Give me the Zealots.
+- So now from there, now we're going to get into what led up to 70 AD. So there's different events that was taking place as 70 AD was approaching. So we going to get into the different sects that was out at that time in Judea. So give me the Wikipedia. Give me the Zealots.
 
 </div>
 
@@ -109,11 +108,11 @@ Reading from Wikipedia, on the Zealots · read by an officer  *[[18:07](https://
 
 > most notably during the First Jewish–Roman War, 66 to 70. Zealotry was the term used by Josephus for a fourth sect or fourth Jewish philosophy during this period.
 
-- Right. Go to the etymology.
+- Go to the etymology.
 
 > The term Zealot, the common translation of the Hebrew, frequently used in plural form, means one who is zealous on behalf of God. The term derives from Greek zelotes, emulator, zealous admirer or follower.
 
-- Right. Hold that. Hold that. Give me the apostle Simon. Simon Zelotes. I know what I want. Somebody look it up. Luke 6:15.
+- Give me the apostle Simon. Simon Zelotes. I know what I want. Somebody look it up. Luke 6:15.
 
 </div>
 
@@ -129,31 +128,31 @@ Reading from Wikipedia, on the Zealots, continued · read by an officer  *[[20:3
 
 > The term Zealot, the common translation of the Hebrew, frequently used in plural form, means one who is zealous on behalf of God. The term derives from Greek zelotes, emulator, zealous admirer or follower.
 
-- Go down. So it was said that Simon Zelotes, one of the twelve, before he started following Christ, he was a Zealot. He was a Zealot. All right.
+- So it was said that Simon Zelotes, one of the twelve, before he started following Christ, he was a Zealot. He was a Zealot.
 
 > Others have also argued that the group was not so clearly marked out before the first war of 66 to 70 as some have thought. Simon the Zealot was listed among the apostles selected by Jesus in the Gospel of Luke and in the Acts of the Apostles; he is called Cananaean in Mark and Matthew, Matthew 10:4, Mark 3:18.
 
-- Right. Go up. Did we miss something? Go up.
+- Did we miss something?
 
 > According to the Jewish Encyclopedia article on Zealots, Judah is regarded as the founder of the Zealots,
 
-- So that's Judas of Galilee. Judas of Galilee. So he's the founder of the Zealots, and we going to get into that. All right. So what we going to do is get the origin of the Zealots, and what part they played in the leading up to 70 AD.
+- So that's Judas of Galilee. Judas of Galilee. So he's the founder of the Zealots, and we going to get into that. So what we going to do is get the origin of the Zealots, and what part they played in the leading up to 70 AD.
 
 > who are identified as the proponents of the fourth philosophy.
 
-- Right. And we went over this, I think we went over this a couple episodes ago anyway, but we just going to go into it a little deeper.
+- And we went over this, I think we went over this a couple episodes ago anyway, but we just going to go into it a little deeper.
 
 > In the original sources, however, no such identification is anywhere clearly made, and the question is hardly raised of the relationship between the Sicarii, the upholders of the fourth philosophy, and the Zealots. Josephus himself, in his general survey of the various groups of freedom fighters, War 7.268 to 70, enumerates the Sicarii first, whereas he mentions the Zealots last.
 
-- All right. Go down. Let me see if I want anything else.
+- Let me see if I want anything else.
 
 > The Zealots had the leading role in the First Jewish–Roman War, 66 to 73 CE. The Zealots objected to Roman rule and violently sought to eradicate it by generally targeting Romans and Greeks. Another group, likely related, were the Sicarii, who raided Jewish habitations and killed Jews they considered apostate and collaborators,
 
-- Right. We going to get into the Sicarii too.
+- We going to get into the Sicarii too.
 
 > while also urging Jews to fight Romans and other Jews for the cause. Josephus paints a very bleak picture of their activities, as they instituted what he characterized as a murderous reign of terror prior to the Jewish Temple's destruction.
 
-- So as we get into this history, you going to see it's like Chi-Raq, all in Jerusalem. All right. It's just, it's a gang war. It's like Bloods and Crips and Gangster Disciples. It's a whole war of us just fighting each other before 70 AD. Okay. So we're going to get into all of that. You'll see, when we relate it up to today, how things was happening back then, same thing today. All right.
+- So as we get into this history, you going to see it's like Chi-Raq, all in Jerusalem. It's just, it's a gang war. It's like Bloods and Crips and Gangster Disciples. It's a whole war of us just fighting each other before 70 AD. So we're going to get into all of that. You'll see, when we relate it up to today, how things was happening back then, same thing today.
 
 - So from there, give me the page, War of the Jews, real quick.
 
@@ -165,11 +164,11 @@ Reading from *War of the Jews*, a book from the early 1900s, "The Great Zealot W
 
 > The Great Zealot War. The new Roman Emperor Caligula, 37 to 41, appointed his friend Agrippa as the new Judean king. His father was Aristobulus, a prince assassinated by Herod, and his grandmother was the Hasmonean princess Mariamne.
 
-- So remember, Caligula was the fourth. He was the fourth feather. All right.
+- So remember, Caligula was the fourth. He was the fourth feather.
 
 > His Herodian-Hasmonean blood and his friendship with Caligula was no help when the mad Roman insisted that Jews, like the Greeks of the realm, worship him and his likeness. The Jewish refusal to worship the Imperial cult brought on anti-Jewish riots in Alexandria, while an altar to the emperor
 
-- Hey, do me a favor: look up the Imperial cult. Look up the Imperial cult real quick, because we read that a lot. Imperial cult. And as we get into this history more and more, you'll see that we was getting put to death for not worshipping the Imperial cult. All right. So as Rome and the emperors, as they were interrogating us, they was bringing us in, trying to make us informants and so forth. They will have us try to turn away from our faith, following Christ, and to worship the Imperial cult.
+- Hey, do me a favor: look up the Imperial cult. Look up the Imperial cult real quick, because we read that a lot. Imperial cult. And as we get into this history more and more, you'll see that we was getting put to death for not worshipping the Imperial cult. So as Rome and the emperors, as they were interrogating us, they was bringing us in, trying to make us informants and so forth. They will have us try to turn away from our faith, following Christ, and to worship the Imperial cult.
 
 </div>
 
@@ -179,21 +178,21 @@ Reading from Wikipedia, on the Roman Imperial cult · read by an officer  *[[25:
 
 > The Roman Imperial cult identify emperors and some members of their families with the divinely sanctioned authority of the Roman State.
 
-- So they were pretty much trying to call themselves the god kings. All right. So they were lifting themselves up as a deity.
+- So they were pretty much trying to call themselves the god kings. So they were lifting themselves up as a deity.
 
 > Its framework was based on Roman and Greek precedents, and was formulated during the early Principate of Augustus. It was rapidly established throughout the Empire and its provinces, with marked local variations in its reception and expression.
 
-- So as we get into this history, you're going to see that we didn't want to worship the Imperial cult, which was Caesar. That's the Imperial cult. All right. Back then it was, yo, do you want to worship Christ, or you want to worship Caesar? So they was torturing us, trying to force us to worship Caesar. All right. Just like... they going to do the same: either you going to worship Christ or Cesare Borgia. That's what was happening. So Caesar was a Cesare Borgia at that time.
+- So as we get into this history, you're going to see that we didn't want to worship the Imperial cult, which was Caesar. That's the Imperial cult. Back then it was, yo, do you want to worship Christ, or you want to worship Caesar? So they was torturing us, trying to force us to worship Caesar. Just like... they going to do the same: either you going to worship Christ or Cesare Borgia. That's what was happening. So Caesar was a Cesare Borgia at that time.
 
-- Go back. Let me see if there's any more on that. Go down.
+- Go back. Let me see if there's any more on that.
 
 > A deceased emperor held worthy of the honor could be voted a state divinity.
 
-- Go down. Go back up. All right.
+- Go back up.
 
 > Augustus's reforms transform Rome's Republican system of government to a de facto monarchy, couched in traditional Roman practices and Republican values. The princeps, emperor, was expected to balance the interests of the Roman military, Senate and people, and to maintain peace, security and prosperity throughout an ethnically diverse empire. The official offer of cultus to a living emperor acknowledged his office and rule as divinely approved and constitutional.
 
-- You see that? So the official offer of cultus to a living emperor acknowledged his office and rule as divinely approved and constitutional.
+- So the official offer of cultus to a living emperor acknowledged his office and rule as divinely approved and constitutional.
 
 > His Principate should therefore demonstrate pious respect for traditional Republican deities and mores. A deceased emperor held worthy of the honor could be voted as a state divinity, divus, by the Senate and elevated as such in an act of apotheosis.
 
@@ -201,7 +200,7 @@ Reading from Wikipedia, on the Roman Imperial cult · read by an officer  *[[25:
 
 > The granting of apotheosis served religious, political and moral judgment on Imperial rulers, and allowed living emperors to associate themselves with a well-regarded lineage of Imperial divi from which unpopular or unworthy predecessors
 
-- Go down. Go down. Go to Imperial cult. Let me see.
+- Go to Imperial cult.
 
 > The Imperial cult was inseparable from that of Rome's official deities,
 
@@ -209,7 +208,7 @@ Reading from Wikipedia, on the Roman Imperial cult · read by an officer  *[[25:
 
 > whose cult was essential to Rome's survival and whose neglect was therefore treasonous.
 
-- So now you see why we was being put up on charges of treason. Because we was preaching that Christ was the king, that Christ was our King. But that went against their laws as far as the Imperial cult. So that's why they said it was treason against Rome. All right. Because we didn't want to worship their Imperial cult. We didn't want to worship their gods.
+- So now you see why we was being put up on charges of treason. Because we was preaching that Christ was the king, that Christ was our King. But that went against their laws as far as the Imperial cult. So that's why they said it was treason against Rome. Because we didn't want to worship their Imperial cult. We didn't want to worship their gods.
 
 > Traditional cult was a focus of Imperial revivalist legislation under Decius and Diocletian.
 
@@ -217,7 +216,7 @@ Reading from Wikipedia, on the Roman Imperial cult · read by an officer  *[[25:
 
 > Roman background. For five centuries the Roman Republic did not give worship to any historic figure or any living man. Although surrounded by divine monarchies, Rome's legendary kings have been its masters. With their removal, Republican Romans could identify Romulus, the founder of the city, with the god Quirinus, and still retain Republican liberty.
 
-- Right. Go down. All right, that's all I want on that. So now go back to where we was at, the page.
+- All right, that's all I want on that. So now go back to where we was at, the page.
 
 - **Officer:** Can we read a scripture real quick? John 19:12 to 15, to prove what we were just reading about the Imperial cult. Because that was a charge Christ was charged with. Remember when he was killed, it said King of the Jews. So it was a treasonous act to even proclaim yourself to be a king.
 
@@ -227,7 +226,7 @@ Reading from Wikipedia, on the Roman Imperial cult · read by an officer  *[[25:
 
 > <sup>[12](/bible/john/19#v12)</sup> And from thenceforth Pilate sought to release him: but the Jews cried out, saying, If thou let this man go, thou art not Cesar’s friend: whosoever maketh himself a king speaketh against Cesar.
 
-- **Officer:** You see? You're speaking against the Imperial cult if you say you're King. Because that's what we were proclaiming: that Christ is King.
+- **Officer:** You're speaking against the Imperial cult if you say you're King. Because that's what we were proclaiming: that Christ is King.
 
 > <sup>[13](/bible/john/19#v13)</sup> When Pilate therefore heard that saying, he brought Jesus forth, and sat down in the judgment seat in a place that is called the Pavement, but in the Hebrew, Gabbatha.
 >
@@ -237,7 +236,7 @@ Reading from Wikipedia, on the Roman Imperial cult · read by an officer  *[[25:
 
 - **Officer:** You see, they were adhering to the Imperial cult, and they were using that law in order to crucify Christ and to kill Christ. He's not our King; our only King is Caesar. So that was what they were using to get Christ crucified and killed. And then obviously, if it's happening to Christ, it's going to happen to us. They're going to use the same thing. As we've been reading throughout the weeks, that's what was happening to us: we were going against the Imperial cult. They were getting us on treason, whether we were innocent or not, it didn't matter.
 
-- **Deacon Eythan:** Hey, we going against the Imperial cult today. Yes. Right. Which is Cesare Borgia. That's the Imperial cult today. Okay. And Christianity. All right. And Muhammad, with Islam. Okay. Give me Deuteronomy 28:64 real quick.
+- **Deacon Eythan:** Hey, we going against the Imperial cult today. Yes. Which is Cesare Borgia. That's the Imperial cult today. And Christianity. And Muhammad, with Islam. Give me Deuteronomy 28:64 real quick.
 
 - **Officer:** It said, if anybody says anyone but Caesar is King, you're going against him. Just the fact that we're saying Christ is black, we have a black Messiah according to the scriptures, you're automatically going against the Imperial cult.
 
@@ -245,7 +244,7 @@ Reading from Wikipedia, on the Roman Imperial cult · read by an officer  *[[25:
 
 > <sup>[64](/bible/deuteronomy/28#v64)</sup> And the Lord shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other gods, which neither thou nor thy fathers have known, even wood and stone.
 
-- Those other gods are the Imperial cults of today. Even wood and stone: Christianity, Cesare Borgia. All right. And then you got Islam, with the cobblestone and Muhammad. Okay. So those are today. These will be your Imperial cults that we're standing up against right now. All right. So go back to the page. That sound bite threw me off. Start from the top again.
+- Those other gods are the Imperial cults of today. Even wood and stone: Christianity, Cesare Borgia. And then you got Islam, with the cobblestone and Muhammad. So those are today. These will be your Imperial cults that we're standing up against right now. So go back to the page. That sound bite threw me off. Start from the top again.
 
 <div class="reading">
 
@@ -255,7 +254,7 @@ Reading from *War of the Jews*, "The Great Zealot War", read again · read by an
 
 - Now hold on, hold on, hold on. So read the part again where it says his father was Aristobulus.
 
-- So hold on: it says his Herodian-Hasmonean blood and his friendship with Caligula was no help when the mad Roman insisted that Jews, like the Greeks of the realm, worship him and his likeness. You see that? Why? Because that's what Caligula... he lifted himself up as an Imperial cult, as a god. All right. So that's what was happening at that time. Okay.
+- So hold on: it says his Herodian-Hasmonean blood and his friendship with Caligula was no help when the mad Roman insisted that Jews, like the Greeks of the realm, worship him and his likeness. Why? Because that's what Caligula... he lifted himself up as an Imperial cult, as a god. So that's what was happening at that time.
 
 - Now the thing is this: this is ancient Rome. This is the Roman Empire. Remember with Daniel, same thing happened with Daniel. I think it's Daniel 3. We were always put in a situation where we had to choose. They always put us in a situation where they want us to choose between our God and their gods. And this happened in every captivity. Start at verse one, so we know what's going on.
 
@@ -277,9 +276,9 @@ Reading from *War of the Jews*, "The Great Zealot War", read again · read by an
 >
 > <sup>[6](/bible/daniel/3#v6)</sup> And whoso falleth not down and worshippeth shall the same hour be cast into the midst of a burning fiery furnace.
 
-- Put that up. You can put that up, whatever.
+- You can put that up, whatever.
 
-- Right. So now this is the furnace of adversity right here.
+- So now this is the furnace of adversity right here.
 
 - **Officer:** They do the same thing now with the national anthem.
 
@@ -297,7 +296,7 @@ Reading from *War of the Jews*, "The Great Zealot War", read again · read by an
 
 > <sup>[12](/bible/daniel/3#v12)</sup> There are certain Jews whom thou hast set over the affairs of the province of Babylon, Shadrach, Meshach, and Abed–nego; these men, O king, have not regarded thee: they serve not thy gods, nor worship the golden image which thou hast set up.
 
-- They don't give a damn about you, King. They don't give a damn about you, you know. He ain't just said it like... you know, the Bible's abbreviated, but just imagine how he went to the king. He had to butter that thing up, man, so the king kill us. Right. These men, O king, have not regarded thee; they serve not thy gods. Listen, man: you set that image up; these dudes right here, they don't care nothing about this god. They don't give a damn.
+- They don't give a damn about you, King. They don't give a damn about you, you know. He ain't just said it like... you know, the Bible's abbreviated, but just imagine how he went to the king. He had to butter that thing up, man, so the king kill us. These men, O king, have not regarded thee; they serve not thy gods. Listen, man: you set that image up; these dudes right here, they don't care nothing about this god. They don't give a damn.
 
 > <sup>[13](/bible/daniel/3#v13)</sup> Then Nebuchadnezzar in his rage and fury commanded to bring Shadrach, Meshach, and Abed–nego. Then they brought these men before the king.
 >
@@ -317,7 +316,7 @@ Reading from *War of the Jews*, "The Great Zealot War", read again · read by an
 >
 > <sup>[18](/bible/daniel/3#v18)</sup> But if not, be it known unto thee, O king, that we will not serve thy gods, nor worship the golden image which thou hast set up.
 
-- But if not. So whether the Lord deliver us or not, I'm not bowing down to your king, to your image. That's right. It's not happening. All right. So go back to the page. Some good history right there. Hey, we got to put on that spirit of our forefathers, man. We got to roll like our forefathers, man. We got to get built up the way they move. We got to aspire to move just like them. Right.
+- But if not. So whether the Lord deliver us or not, I'm not bowing down to your king, to your image. That's right. It's not happening. So go back to the page. Some good history right there. Hey, we got to put on that spirit of our forefathers, man. We got to roll like our forefathers, man. We got to get built up the way they move. We got to aspire to move just like them.
 
 <div class="reading">
 
@@ -325,11 +324,11 @@ Reading from *War of the Jews*, "The Great Zealot War", continued · read by an 
 
 > The new Roman Emperor Caligula, 37 to 41, appointed his friend Agrippa as the new Judean king. His father was Aristobulus, a prince assassinated by Herod, and his grandmother was the Hasmonean princess Mariamne. His Herodian-Hasmonean blood and his friendship with Caligula was no help when the mad Roman insisted that Jews, like the Greeks of the realm, worship him and his likeness.
 
-- So the same thing that happened in Babylon, same thing that happened in Persia, same thing happened in Greece, the same thing happened in Rome, same thing today. All right. So we was always being persecuted for not bowing down to their Imperial cults, their gods. All right.
+- So the same thing that happened in Babylon, same thing that happened in Persia, same thing happened in Greece, the same thing happened in Rome, same thing today. So we was always being persecuted for not bowing down to their Imperial cults, their gods.
 
 > The Jewish refusal to worship the Imperial cult brought on anti-Jewish riots in Alexandria.
 
-- You see that? So us refusing to worship their Imperial cult brought on what? Anti-Jewish riots in Alexandria. Alexandria is in Egypt. So they was rioting over there in Egypt.
+- So us refusing to worship their Imperial cult brought on what? Anti-Jewish riots in Alexandria. Alexandria is in Egypt. So they was rioting over there in Egypt.
 
 > While an altar to the emperor was torn down.
 
@@ -339,7 +338,7 @@ Reading from *War of the Jews*, "The Great Zealot War", continued · read by an 
 
 - Now I want to focus on Judas, Judas the Galilean. Now give me Acts real quick. The book of Acts chapter 5; you can start at 34. Who was Judas the Galilean? Remember, we starting to lead up to the different factions, the different gangs, the different sects that rose up, that started the events that led up to 70 AD.
 
-- One second before you read that. Let me see what other page. Go back to War of the Jews; go to the next page. Blow it up. All right. Yep. Leave that there. Go ahead, read Acts chapter 5 and verse 34.
+- One second before you read that. Let me see what other page. Go back to War of the Jews; go to the next page. Blow it up. Yep. Leave that there. Go ahead, read Acts chapter 5 and verse 34.
 
 </div>
 
@@ -349,7 +348,7 @@ Reading from *War of the Jews*, "The Great Zealot War", continued · read by an 
 >
 > <sup>[35](/bible/acts/5#v35)</sup> And said unto them, Ye men of Israel, take heed to yourselves what ye intend to do as touching these men.
 
-- Right. So now he's saying... Gamaliel was one of the doctors of the law at that time. He was considered a good teacher of the law. All right.
+- So now he's saying... Gamaliel was one of the doctors of the law at that time. He was considered a good teacher of the law.
 
 > <sup>[36](/bible/acts/5#v36)</sup> For before these days rose up Theudas, boasting himself to be somebody; to whom a number of men, about four hundred, joined themselves: who was slain; and all, as many as obeyed him, were scattered, and brought to nought.
 
@@ -359,7 +358,7 @@ Reading from *War of the Jews*, "The Great Zealot War", continued · read by an 
 
 - So this is the Judas of Galilee right here we reading about.
 
-- So even his group broke apart. So we got Theudas, and you have Judas of Galilee. Now Judas of Galilee is who we want to focus on. Because why? He was the originator of the Zealots. Okay. The Zealots spawned from him. All right. Now the tax that he was talking about: go to Luke. The time of the taxation, the census. Luke chapter 2, verse one.
+- So even his group broke apart. So we got Theudas, and you have Judas of Galilee. Now Judas of Galilee is who we want to focus on. Because why? He was the originator of the Zealots. The Zealots spawned from him. Now the tax that he was talking about: go to Luke. The time of the taxation, the census. Luke chapter 2, verse one.
 
 **[Luke 2:1-4](/bible/luke/2#v1)**  *[[47:48](https://www.youtube.com/watch?v=cUubbnXbaZA&t=2868s)]*
 
@@ -373,7 +372,7 @@ Reading from *War of the Jews*, "The Great Zealot War", continued · read by an 
 
 > <sup>[4](/bible/luke/2#v4)</sup> And Joseph also went up from Galilee, out of the city of Nazareth, into Judea, unto the city of David, which is called Bethlehem; (because he was of the house and lineage of David:)
 
-- Now at the same time that Joseph went to go be taxed, you got Judas of Galilee rising up, saying nah. He building an army, a revolt against the taxation that was happening right here. So you see, Joseph said no, ain't getting involved in that. Joseph went and got taxed. Joseph obeyed the law of the land. But Judas of Galilee said, nah, we shouldn't get taxed. So he revolted against it. All right. Now give me the page.
+- Now at the same time that Joseph went to go be taxed, you got Judas of Galilee rising up, saying nah. He building an army, a revolt against the taxation that was happening right here. So you see, Joseph said no, ain't getting involved in that. Joseph went and got taxed. Joseph obeyed the law of the land. But Judas of Galilee said, nah, we shouldn't get taxed. So he revolted against it. Now give me the page.
 
 - **Officer:** Hey, Officer, what we reading in Acts is basically like Gamaliel going over black history, like we do today. We talk about Martin, Malcolm X, we talk about Marcus Garvey, how all those things came to naught eventually, because it wasn't of the Lord. The Black Panther movement.
 
@@ -385,7 +384,7 @@ Reading from *War of the Jews*, on Judea's renaissance and the procurators · re
 
 > Judea's renaissance came to a crashing halt with Agrippa's sudden death in 41 CE. The Judean dynasty was cut by Claudius, who annexed Palestine outright and placed her under the misrule of procurators, governors who answered to the governor in Damascus. The anti-Jewish procurators tampered with the high priesthood, beheaded religious troublemakers like the false prophet Theudas,
 
-- Theudas. Right.
+- Theudas.
 
 > and crucified potential rebel leaders like the sons of Judas the Galilean.
 
@@ -401,15 +400,15 @@ Reading from *War of the Jews*, on Judea's renaissance and the procurators · re
 
 > The British Mandate of Palestine would have continued on indefinitely had the British not likewise sided with those who massacred Jews at will. Sensing trouble, Claudius gave the late king's son, Agrippa II, control of the Temple Mount and the high priesthood. The newest procurator, Felix, was also guilty of fanning the hatred of the growing Zealot camp with harsh reactions to discontent. The Zealots stepped up the resistance by assassinating Roman sympathizers, among them the corrupt high priest Jonathan.
 
-- So the Zealots, they were killing and assassinating those that sympathized with Rome. Okay. Whoever was supporters of Rome, or the Herodians, the Zealots wasn't having that. They was murdering them.
+- So the Zealots, they were killing and assassinating those that sympathized with Rome. Whoever was supporters of Rome, or the Herodians, the Zealots wasn't having that. They was murdering them.
 
 > The patriotic terrorists, akin to the Stern Gang in Palestine of the 1940s, would strike imperialist foes with concealed daggers and then melt into the alleyways of Jerusalem. Their leaders were the grandson and nephew of Zealot leader Judas the Galilean.
 
-- You see that? So Judas the Galilean, he started the Zealots. All right. That's where... and possibly Simon Zelotes was a part of the Zealots, of Judas the Galilean, who did not want to conform to paying taxes.
+- So Judas the Galilean, he started the Zealots. That's where... and possibly Simon Zelotes was a part of the Zealots, of Judas the Galilean, who did not want to conform to paying taxes.
 
-- There's a page I think I had given to y'all. Y'all got the page, 240 and 241, about Theudas, the blowing down the wall. Get that real quick. Bring that up. History of the Jews.
+- There's a page I think I had given to y'all. Y'all got the page, 240 and 241, about Theudas, the blowing down the wall. Get that real quick. History of the Jews.
 
-- **Officer:** There's another; it tells you about how there were some people from Galilee trying to go to Jerusalem for a feast, and they had to walk through Samaria. They got into a fight with the Samaritans and got killed. Right. So then the Zealots, the Sicarii, went into Samaria and started murking a whole bunch of Samaritans, getting revenge.
+- **Officer:** There's another; it tells you about how there were some people from Galilee trying to go to Jerusalem for a feast, and they had to walk through Samaria. They got into a fight with the Samaritans and got killed. So then the Zealots, the Sicarii, went into Samaria and started murking a whole bunch of Samaritans, getting revenge.
 
 - **Deacon Eythan:** It's gang wars. Gang wars. As we get into this history, you'll see it was a gang war. You'll see the same Bloods and Crips all over this. It was happening here; likewise today. It was a bunch of … running rampant.
 
@@ -443,7 +442,7 @@ Reading from *History of the Jews*, pages 240 and 241, on the false messiahs and
 
 - **Officer:** I was going to say, that's exactly why... Rome is the same thing as America. Why J. Edgar Hoover is like, we have to stop the rise of a black Messiah. Because all these people were rising up because of oppression during that time. Same thing. Looking for hope. We're looking for hope. Remember, the scripture says that we are the prisoners of hope. So by J. Edgar Hoover saying we have to stop the rise of a black Messiah, they know that they're oppressing us. Because they know if they let that Messiah rise, that they're going to be done for.
 
-- **Deacon Eythan:** So guess what: our people, you looking for somebody to follow that's about rising up their people. Right. You understand? So that's our people at this time. Same thing. But these was Negroes right here. False prophets. False prophet, antichrist.
+- **Deacon Eythan:** So guess what: our people, you looking for somebody to follow that's about rising up their people. So that's our people at this time. Same thing. But these was Negroes right here. False prophets. False prophet, antichrist.
 
 </div>
 
@@ -451,7 +450,7 @@ Reading from *History of the Jews*, pages 240 and 241, on the false messiahs and
 
 > <sup>[12](/bible/zechariah/9#v12)</sup> Turn you to the strong hold, ye prisoners of hope: even to day do I declare that I will render double unto thee;
 
-- Right. So turn you to the stronghold. We are the prisoners of hope, man. America is a prison house. That's what America is. It's a prison. We're here to serve captivity. We here to serve a sentence for breaking God's laws. All right. So we're the prisoners of hope.
+- So turn you to the stronghold. We are the prisoners of hope, man. America is a prison house. That's what America is. It's a prison. We're here to serve captivity. We here to serve a sentence for breaking God's laws. So we're the prisoners of hope.
 
 - So we not here to be celebrating Thanksgiving. What we giving thanks for? We not here to be celebrating Christmas. We not here to have fun and have a good time. We here to get ourselves together. Matter of fact, give me First Kings 8. This is what we here for.
 
@@ -463,15 +462,15 @@ Reading from *History of the Jews*, pages 240 and 241, on the false messiahs and
 >
 > <sup>[47](/bible/1-kings/8#v47)</sup> Yet if they shall bethink themselves in the land whither they were carried captives, and repent, and make supplication unto thee in the land of them that carried them captives, saying, We have sinned, and have done perversely, we have committed wickedness;
 
-- So this is our purpose here in America: serving our captivity. We supposed to be here trying to bethink ourselves. Okay. We supposed to be remembering who we are. What happened to us? What did we do? Why are we in this situation? Why are we in these conditions?
+- So this is our purpose here in America: serving our captivity. We supposed to be here trying to bethink ourselves. We supposed to be remembering who we are. What happened to us? What did we do? Why are we in this situation? Why are we in these conditions?
 
 - And repent. And do what? And repent. So as we are bethinking ourselves, as we coming back to the understanding that we are the Israelites according to the Bible, we have to repent. It's not just knowing that we the Israelites. It's not just knowing you from the tribe of Judah. No. God requires us to keep his laws. That's why we here.
 
-- So that's what we supposed to be doing. We supposed to be here saying, look, we sinned, we committed wickedness. All right. We not here to have a good time. We not here to have no fun. You understand? That's not what we here to do, man. We here to repent. Get ourselves together, so we get the kingdom of heaven, so we get up out of our captivity. Right. But our people got things screwed, thinking, oh, Thanksgiving for us, Christmas is for us, New Year is for us. Nah. These holidays are not us. The Bible says, the Lord says for us to separate from the unclean thing, and touch not the unclean thing. All right.
+- So that's what we supposed to be doing. We supposed to be here saying, look, we sinned, we committed wickedness. We not here to have a good time. We not here to have no fun. That's not what we here to do, man. We here to repent. Get ourselves together, so we get the kingdom of heaven, so we get up out of our captivity. But our people got things screwed, thinking, oh, Thanksgiving for us, Christmas is for us, New Year is for us. Nah. These holidays are not us. The Bible says, the Lord says for us to separate from the unclean thing, and touch not the unclean thing.
 
 - **Officer:** This is exactly what Daniel did. When you read Daniel chapter 9, he searched the scriptures, found out he's going to be there for 70 years, and he repented. Everything we read in First Kings 8, he did everything listed there. And he separated from the unclean thing, because he said, I don't want to take part in the king's meat.
 
-- **Deacon Eythan:** Yes, exactly. You know. So we supposed to be likewise doing the same thing. All right. Go back.
+- **Deacon Eythan:** Yes, exactly. You know. So we supposed to be likewise doing the same thing. Go back.
 
 <div class="reading">
 
@@ -493,13 +492,13 @@ Reading from *History of the Jews*, page 241, the Messianic hopes, read again ·
 
 - So freedom from the yoke of Rome was the one great aim of all these enthusiasts. That's all they wanted. They wanted freedom from the yoke of Rome.
 
-- **Officer:** That's Luke 1:68 on down. Right. They knew the Messiah was going to come and save us from our enemies. So they took up that same mission, but it wasn't the right one. But this time wasn't the time.
+- **Officer:** That's Luke 1:68 on down. They knew the Messiah was going to come and save us from our enemies. So they took up that same mission, but it wasn't the right one. But this time wasn't the time.
 
-- **Deacon Eythan:** No, it wasn't. But they're going by it the wrong way. Right. So these enthusiasts, like, look, I'mma act like it's the time. I'mma gain some followers. I'm going to let them know this is the time. And Christ warned us about that in Matthew 24: for many shall say, I am Christ, and shall deceive many. You understand? Give me Job, where with the Lord is the deceived and the deceiver.
+- **Deacon Eythan:** No, it wasn't. But they're going by it the wrong way. So these enthusiasts, like, look, I'mma act like it's the time. I'mma gain some followers. I'm going to let them know this is the time. And Christ warned us about that in Matthew 24: for many shall say, I am Christ, and shall deceive many. Give me Job, where with the Lord is the deceived and the deceiver.
 
 - **Officer:** And those that aren't studying, they're going to get fooled. Those that aren't reading, those that aren't applying, those are the ones that are getting fooled into these false movements.
 
-- **Officer:** One enthusiast today is, what's his name, Billy Carson. That's an enthusiast right there. Nothing in his hand. No Bible, no book. Okay. He just is talking, but he got a lot of followers. You understand?
+- **Officer:** One enthusiast today is, what's his name, Billy Carson. That's an enthusiast right there. Nothing in his hand. No Bible, no book. He just is talking, but he got a lot of followers.
 
 </div>
 
@@ -509,9 +508,9 @@ Reading from *History of the Jews*, page 241, the Messianic hopes, read again ·
 
 - **Officer:** See, back then there was no social media. Back then you have to actually go out and follow. You know, these are men that was actually on the streets acting like they were the Messiah. False prophets today, all you got to do is click, set your account up, hit start live, and start talking some nonsense on TikTok.
 
-- **Officer:** Get a $15 webcam. Sitting, you know, and chill, and just talk some nonsense, with no proof, with an incandescent bulb. Right. The setup is like five.
+- **Officer:** Get a $15 webcam. Sitting, you know, and chill, and just talk some nonsense, with no proof, with an incandescent bulb. The setup is like five.
 
-- **Deacon Eythan:** Read it again. Right. So with the Lord is the deceived and the deceiver. It's the Lord doing that thing. If he wants you to be deceived, look, it is what it is. So he has the deceiver set up to deceive you. Let's get Second Thessalonians, as far as those that are being deceived. You can start at nine.
+- **Deacon Eythan:** So with the Lord is the deceived and the deceiver. It's the Lord doing that thing. If he wants you to be deceived, look, it is what it is. So he has the deceiver set up to deceive you. Let's get Second Thessalonians, as far as those that are being deceived. You can start at nine.
 
 **[2 Thessalonians 2:9-12](/bible/2-thessalonians/2#v9)**  *[[1:03:45](https://www.youtube.com/watch?v=cUubbnXbaZA&t=3825s)]*
 
@@ -519,7 +518,7 @@ Reading from *History of the Jews*, page 241, the Messianic hopes, read again ·
 >
 > <sup>[10](/bible/2-thessalonians/2#v10)</sup> And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved.
 
-- So those that are being deceived are those that don't receive the love of the truth. Keep reading.
+- So those that are being deceived are those that don't receive the love of the truth.
 
 > <sup>[11](/bible/2-thessalonians/2#v11)</sup> And for this cause God shall send them strong delusion, that they should believe a lie:
 
@@ -527,9 +526,9 @@ Reading from *History of the Jews*, page 241, the Messianic hopes, read again ·
 
 > <sup>[12](/bible/2-thessalonians/2#v12)</sup> That they all might be damned who believed not the truth, but had pleasure in unrighteousness.
 
-- You see? Who believed not. Because they already didn't believe the truth. So they're fooling themselves.
+- Who believed not. Because they already didn't believe the truth. So they're fooling themselves.
 
-- But had pleasure in unrighteousness. They have pleasure in their sins, and their lasciviousness, and their hatred towards one another, and their covetousness. Which is the same thing today. Right. So we reading about that right now, being deceived. Watch. Read on. Start the Messianic again.
+- But had pleasure in unrighteousness. They have pleasure in their sins, and their lasciviousness, and their hatred towards one another, and their covetousness. Which is the same thing today. So we reading about that right now, being deceived. Watch. Start the Messianic again.
 
 <div class="reading">
 
@@ -537,7 +536,7 @@ Reading from *History of the Jews*, page 241, Theudas · read by an officer  *[[
 
 > Messianic hopes were rifer among the people now than they had been even during the time of the first Roman governors, and these hopes stirred up enthusiasts who proclaimed themselves to be prophets, Messiahs, and who inspired belief and obtained followers. Freedom from the yoke of Rome was the one great aim of all these enthusiasts. What the disciples of Judas attempted to bring about by force of arms, the disciples of Theudas hoped to accomplish without fighting,
 
-- So you got Judas, you got one sect. This is Judas the Zealot, the originator of the Zealots. He wanted to bring about with force of arms. Weapons. Right.
+- So you got Judas, you got one sect. This is Judas the Zealot, the originator of the Zealots. He wanted to bring about with force of arms. Weapons.
 
 > having recourse only to signs and miracles.
 
@@ -549,7 +548,7 @@ Reading from *History of the Jews*, page 241, Theudas · read by an officer  *[[
 
 > and there promised to overthrow the walls of Jerusalem with the breath of his mouth,
 
-- So you got to imagine. Read it again, read it again.
+- So you got to imagine.
 
 - So he's up there acting like he's Christ, promising to overthrow the walls of Jerusalem with the breath of his mouth.
 
@@ -561,13 +560,13 @@ Reading from *History of the Jews*, page 241, Theudas · read by an officer  *[[
 
 - Hey, I want you to notice something. Read it over again from these he summoned.
 
-- So his whole plan... he was not the only one who, carried away by the fervor of desire, prophesied the approach of better times. Remember, Christ said he didn't come for peace; he came to send the sword. But here you got these enthusiasts rising up; they trying to preach about a better time. There wasn't no better time coming at that time. We about to get martyred. Right. We was being martyred. So our people at that time, they should have sensed that, yo, this is not the man. You understand? But our people, they were deceived.
+- So his whole plan... he was not the only one who, carried away by the fervor of desire, prophesied the approach of better times. Remember, Christ said he didn't come for peace; he came to send the sword. But here you got these enthusiasts rising up; they trying to preach about a better time. There wasn't no better time coming at that time. We about to get martyred. We was being martyred. So our people at that time, they should have sensed that, yo, this is not the man. But our people, they were deceived.
 
-- **Officer:** That's the same thing that was happening in Jeremiah's time. Remember, he had him walk around with the bands on his hand, and then another prophet came and broke it and said, look, God has broken our chains. That's when he said, look, if it's of peace, then we should see peace in the land. Right.
+- **Officer:** That's the same thing that was happening in Jeremiah's time. Remember, he had him walk around with the bands on his hand, and then another prophet came and broke it and said, look, God has broken our chains. That's when he said, look, if it's of peace, then we should see peace in the land.
 
-- **Deacon Eythan:** Yep. Same thing. And our people, our people, our people: they want to hear good things. They don't want to hear the bad things. You understand? So whoever got the best itching ear, that's who our people going to draw to. So at that time, Theudas had more followers than Judas. Why? Because Judas talking about war. This dude talking about, look, I'm just going to show you some signs and miracles, that I'm the Christ, and we going to get out of here. You understand? So our people tend to draw to that. They don't want to war. I'm not trying to go to war against Rome. You understand?
+- **Deacon Eythan:** Yep. Same thing. And our people, our people, our people: they want to hear good things. They don't want to hear the bad things. So whoever got the best itching ear, that's who our people going to draw to. So at that time, Theudas had more followers than Judas. Why? Because Judas talking about war. This dude talking about, look, I'm just going to show you some signs and miracles, that I'm the Christ, and we going to get out of here. So our people tend to draw to that. They don't want to war. I'm not trying to go to war against Rome.
 
-- Hold on. Give me the scripture. Isaiah 30. This is our people right here, back then, likewise today. Smooth things.
+- Give me the scripture. Isaiah 30. This is our people right here, back then, likewise today. Smooth things.
 
 </div>
 
@@ -577,13 +576,13 @@ Reading from *History of the Jews*, page 241, Theudas · read by an officer  *[[
 
 - So that's what Theudas was doing. He was prophesying smooth things unto the people: that he was the Messiah, that he was going to be able to knock down a wall, and we going to be good. And when I knock down that wall, that's going to destroy the Roman soldiers, and we out of here.
 
-- Prophesy deceits. So that's what our people want to hear. They want to hear deceit. Likewise in the church today. Our people want to hear something good. Okay. Something that going to make their ear itch, man. Something they want to listen to.
+- Prophesy deceits. So that's what our people want to hear. They want to hear deceit. Likewise in the church today. Our people want to hear something good. Something that going to make their ear itch, man. Something they want to listen to.
 
 - **Officer:** Shoot, even right now, in the midst of war everywhere, the pastor still saying prosperity is coming.
 
 - **Officer:** Make sure you plant your seed, right.
 
-- **Deacon Eythan:** Can't make it up. Right. Go back. Keep reading.
+- **Deacon Eythan:** Can't make it up. Go back.
 
 <div class="reading">
 
@@ -591,7 +590,7 @@ Reading from *History of the Jews*, page 241, continued · read by an officer  *
 
 > And well may those enthusiasts have found acceptance among the people. A nation that had enjoyed so rich a past, and look forward even to a more glorious future
 
-- Oh, read that again. A nation that had enjoyed so rich a past, and look forward even to a more glorious future. And we did. We did look forward to a more glorious future.
+- A nation that had enjoyed so rich a past, and look forward even to a more glorious future. And we did. We did look forward to a more glorious future.
 
 > might allow itself into forgetfulness
 
@@ -607,15 +606,15 @@ Reading from *History of the Jews*, page 241, continued · read by an officer  *
 
 > These visions and prophecies, harmless enough in themselves, derived a sad importance from the bitter and savage animosity with which they inspired the Roman governors. If the people, jealous of any interference with their religion, looked upon the slightest offense to it as an attack upon Judaism itself, and made the governors, the emperor and the Roman State responsible for the delinquency, the Imperial officials in Judea were not less acceptable, for they treated the most trivial agitation among the people as an insult to the majesty of Rome and the emperor, and punished with equal severity the innocent and the guilty.
 
-- Right. So that's saying, at the time, any little thing... we were all walking on eggshells. Whether the Romans did something to us, whether we did something to them, it blew up out of control. Everybody just got it. Everybody got murked, basically.
+- So that's saying, at the time, any little thing... we were all walking on eggshells. Whether the Romans did something to us, whether we did something to them, it blew up out of control. Everybody just got it. Everybody got murked, basically.
 
 - **Officer:** At this time was birth pains too.
 
-- **Deacon Eythan:** At this time, before it erupted to 70 AD. All right. So there was contractions before it really popped off. All right. Go to the next page. Let me see what else we got. Oh, keep reading, keep reading.
+- **Deacon Eythan:** At this time, before it erupted to 70 AD. So there was contractions before it really popped off. Go to the next page. Let me see what else we got.
 
 > Vain was the favor shown to the Judean nation by the emperors Claudius and Nero. The procurator constantly overstepped the limit of his authority, and, urged on by greed and the love of power, acted the part of tyrant.
 
-- So this is during Claudius and Nero. Nero is the one we're talking about now, the sixth feather. So before Nero this was happening, and now during Nero the same thing. The governors of Judea, the Romans, they were, for any little thing, they were very heavy-handed. They were tyrants. And for any little thing they would just get everybody, you know, either in jail, killed, or whatever it may be. Right.
+- So this is during Claudius and Nero. Nero is the one we're talking about now, the sixth feather. So before Nero this was happening, and now during Nero the same thing. The governors of Judea, the Romans, they were, for any little thing, they were very heavy-handed. They were tyrants. And for any little thing they would just get everybody, you know, either in jail, killed, or whatever it may be.
 
 > Judea had the misfortune to be almost always governed by depraved creatures who owed their position to the reckless favorites who ruled at court. They rivaled one another in acts of wickedness and cruelty, thus ever increasing the discontent and provoking the wrath of the people. Cumanus, who succeeded Tiberius Alexander, about 48 to 52,
 
@@ -629,7 +628,7 @@ Reading from *History of the Jews*, page 242, Cumanus and the Passover crush · 
 
 > was the governor of Judea who first excited the resentment of the people. Jealous suspicion of any great concourse of people assembled in the Temple, a suspicion which since the revolt at the time of the census had become traditional among the Roman governors, induced Cumanus, at the time of the Passover, to place an armed cohort in the colonnade of the Temple to watch the throngs which gathered there during that festival.
 
-- **Officer:** I wouldn't be surprised if Judas was like one of the starters of those revolts during the census. On Passover, it says it was a custom now, that when the census came along during Passover, there was always a... Read again. Go up a little bit.
+- **Officer:** I wouldn't be surprised if Judas was like one of the starters of those revolts during the census. On Passover, it says it was a custom now, that when the census came along during Passover, there was always a... Read again.
 
 > It was the governor of Judea who first excited the resentment of the people. Jealous suspicion of any great concourse of people assembled in the Temple, a suspicion which since the revolt at the time of the census had become
 
@@ -653,7 +652,7 @@ Reading from *History of the Jews*, page 242, Cumanus and the Passover crush · 
 
 - Hey, read it slow.
 
-- So he might have put up a middle finger or something. We don't know what he did. Right.
+- So he might have put up a middle finger or something. We don't know what he did.
 
 > which the people interpreted as an insult to their Temple.
 
@@ -663,9 +662,9 @@ Reading from *History of the Jews*, page 242, Cumanus and the Passover crush · 
 
 - Damn. That's crazy.
 
-- Damn. This is what was happening, man. These are events leading up to 70 AD. It was mayhem and chaos in Jerusalem. And meanwhile the Zealots and Sicarii are killing people left and right. Right. Let me see. Go down, next page.
+- Damn. This is what was happening, man. These are events leading up to 70 AD. It was mayhem and chaos in Jerusalem. And meanwhile the Zealots and Sicarii are killing people left and right.
 
-- Hey, let's take a break real quick, and then we'll continue. All right. So we're going to take a break, and we'll be back. You can call us or you can text us. All right. We going to take a break. Shalom.
+- Hey, let's take a break real quick, and then we'll continue. So we're going to take a break, and we'll be back. You can call us or you can text us. We going to take a break. Shalom.
 
 </div>
 
@@ -683,13 +682,13 @@ Reading from *History of the Jews*, the next page, the Galileans murdered in Sam
 
 > Another occurrence took a more serious form and led to strife and bloodshed. Some Galileans who were on their way to a festival at Jerusalem passed through Samaria, and whilst in the town on the southeastern end of the plain of Jezreel, they were murdered in an affray with the hostile Samaritans.
 
-- You see that? So northern kingdom... with the Issachar and Judah. Right. Issachar and Judah. Read that again.
+- So northern kingdom... with the Issachar and Judah. Issachar and Judah.
 
-- So some Galileans who were on their way to a festival at Jerusalem, they're just walking by, passed through Samaria, and they were murdered in an affray with the hostile Samaritans. So what that make you think of? Why was this still going on? Because remember, there was still a beef between northern kingdom and southern kingdom. It was still a beef going on. Okay. The vexing. Right. The vexing. Give me that Isaiah.
+- So some Galileans who were on their way to a festival at Jerusalem, they're just walking by, passed through Samaria, and they were murdered in an affray with the hostile Samaritans. So what that make you think of? Why was this still going on? Because remember, there was still a beef between northern kingdom and southern kingdom. It was still a beef going on. The vexing. The vexing. Give me that Isaiah.
 
-- There was still a beef going on, because remember, the beef went all the way back to the split that happened. Shoot, even before the split, when David came over to Gilead, they was like, yo, how he don't have his setup here. Right. And remember when Christ was talking to the Samaritan woman, which was northern kingdom, she said, yo, the Jews have no dealings with the Samaritans. You understand? So it was that split that we had. We didn't deal with one another. We didn't pass through. You know, just like Bloods and Crips: you didn't go through the territory. Don't come on this block. You know what I'm saying? So that's what was going on.
+- There was still a beef going on, because remember, the beef went all the way back to the split that happened. Shoot, even before the split, when David came over to Gilead, they was like, yo, how he don't have his setup here. And remember when Christ was talking to the Samaritan woman, which was northern kingdom, she said, yo, the Jews have no dealings with the Samaritans. So it was that split that we had. We didn't deal with one another. We didn't pass through. You know, just like Bloods and Crips: you didn't go through the territory. Don't come on this block. You know what I'm saying? So that's what was going on.
 
-- So what happened: you had some southern kingdom passing through trying to get to Jerusalem, and you had northern kingdom like, yo, what? Y'all know not to come through here, on the south side of Jezreel. Yeah, you know where you at, Blood. You on the south side of Jezreel. So that's what was happening. Okay. Nothing new under the sun.
+- So what happened: you had some southern kingdom passing through trying to get to Jerusalem, and you had northern kingdom like, yo, what? Y'all know not to come through here, on the south side of Jezreel. Yeah, you know where you at, Blood. You on the south side of Jezreel. So that's what was happening. Nothing new under the sun.
 
 </div>
 
@@ -697,7 +696,7 @@ Reading from *History of the Jews*, the next page, the Galileans murdered in Sam
 
 > <sup>[13](/bible/isaiah/11#v13)</sup> The envy also of Ephraim shall depart, and the adversaries of Judah shall be cut off: Ephraim shall not envy Judah, and Judah shall not vex Ephraim.
 
-- Right. So that's the prophecy of what's going to happen. All right. But at this time, when we was in our land leading up to 70 AD, it was still going down. That beef was still there. Okay. Read it again, the page.
+- So that's the prophecy of what's going to happen. But at this time, when we was in our land leading up to 70 AD, it was still going down. That beef was still there.
 
 <div class="reading">
 
@@ -709,7 +708,7 @@ Reading from *History of the Jews*, the Galileans and the Samaritans, read again
 
 - **Officer:** There was a great class on the Samaritan going into John 4. Very detailed and clear.
 
-- **Deacon Eythan:** Right. All praises. All praises. Start from verse five.
+- **Deacon Eythan:** Start from verse five.
 
 </div>
 
@@ -753,7 +752,7 @@ Reading from *History of the Jews*, the Galileans and the Samaritans, read again
 
 - So now again she says, our fathers worshipped in this mountain.
 
-- So she said, hold on: our fathers, meaning her and Christ's fathers, worshipped in the mountain that she was referring to. But she's saying now, you saying we must go to Jerusalem. Read that again.
+- So she said, hold on: our fathers, meaning her and Christ's fathers, worshipped in the mountain that she was referring to. But she's saying now, you saying we must go to Jerusalem.
 
 > <sup>[21](/bible/john/4#v21)</sup> Jesus saith unto her, Woman, believe me, the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father.
 
@@ -763,11 +762,11 @@ Reading from *History of the Jews*, the Galileans and the Samaritans, read again
 
 > <sup>[9](/bible/isaiah/7#v9)</sup> And the head of Ephraim is Samaria, and the head of Samaria is Remaliah’s son. If ye will not believe, surely ye shall not be established.
 
-- So the capital of Ephraim is Samaria. Okay. The capital of Ephraim is Samaria. So they were called Samaritans. They were called Samaritans. Even Christ had a parable about the Good Samaritan. Okay. That was our brothers, northern kingdom. All right. So let's go back to the page.
+- So the capital of Ephraim is Samaria. The capital of Ephraim is Samaria. So they were called Samaritans. They were called Samaritans. Even Christ had a parable about the Good Samaritan. That was our brothers, northern kingdom. So let's go back to the page.
 
-- **Officer:** I mean, she's very clear, because she said, are you greater than our father Jacob, who gave us this well? When you read verse five in chapter 4, it says that Jacob gave Joseph the well. So she's letting you know where she comes from. Right. Specific tribe. Our father Jacob that gave us this well.
+- **Officer:** I mean, she's very clear, because she said, are you greater than our father Jacob, who gave us this well? When you read verse five in chapter 4, it says that Jacob gave Joseph the well. So she's letting you know where she comes from. Specific tribe. Our father Jacob that gave us this well.
 
-- **Deacon Eythan:** That gave us this well. Go ahead. Start all the way from the top.
+- **Deacon Eythan:** That gave us this well. Start all the way from the top.
 
 <div class="reading">
 
@@ -775,7 +774,7 @@ Reading from *History of the Jews*, the Galileans and the Samaritans, and Cumanu
 
 > Another occurrence took a more serious form and led to strife and bloodshed. Some Galileans who were on their way to a festival at Jerusalem passed through Samaria, and whilst in the town on the southeastern end of the plain of Jezreel, they were murdered in an affray with the hostile Samaritans. Was this only an accidental mischance, or the result of the burning hatred which existed between the Judeans and the Samaritans?
 
-- You see that? Was this only an accidental mischance, or the result of the burning hatred which existed between the Judeans and the Samaritans? It was the burning hatred that existed.
+- Was this only an accidental mischance, or the result of the burning hatred which existed between the Judeans and the Samaritans? It was the burning hatred that existed.
 
 > In either case, the representatives of Galilee were justified in demanding vengeance at the hands of the governor upon the murderers. But Cumanus treated the affair with contemptuous indifference, and thus obliged the Judeans to deal with the matter themselves.
 
@@ -791,7 +790,7 @@ Reading from *History of the Jews*, the Galileans and the Samaritans, and Cumanu
 
 - **Officer:** And let them kill each other. Yeah. Let them kill each other. Y'all take the matter in your own hands.
 
-- **Deacon Eythan:** Okay. So everybody's trying to appeal to the governor, like, yo, did you see what just happened? Our people just murdered. Everybody trying to go to the governor, to appeal to him to help, to do something about it. He said, nah, how about y'all handle it yourselves.
+- **Deacon Eythan:** So everybody's trying to appeal to the governor, like, yo, did you see what just happened? Our people just murdered. Everybody trying to go to the governor, to appeal to him to help, to do something about it. He said, nah, how about y'all handle it yourselves.
 
 - **Officer:** You can't tell Negroes to handle something themselves. You just can't do that. And the same thing happens today, when you have these gang wars, or black-on-black crime, and there's no investigation on who kills who. That's basically the governor saying, yo, do what you got to do. Because there's no recourse. There's no repercussions or any kind of discipline for what happened. So they're going to keep doing what they're doing. There's no deterrent.
 
@@ -799,11 +798,11 @@ Reading from *History of the Jews*, the Galileans and the Samaritans, and Cumanu
 
 - **Deacon Eythan:** They did the same thing with the drugs. They put the drugs in the community and say, yo, let them destroy themselves.
 
-- **Officer:** They let us make the choice. Because in actuality, we could have just said, you know what, we're not going to retaliate, we'll leave it be. Right. But we decided to go and kill our brothers. Just like today: they put the guns and the drugs in our community. It's up to us whether we're going to use it to kill ourselves or get it out of the way.
+- **Officer:** They let us make the choice. Because in actuality, we could have just said, you know what, we're not going to retaliate, we'll leave it be. But we decided to go and kill our brothers. Just like today: they put the guns and the drugs in our community. It's up to us whether we're going to use it to kill ourselves or get it out of the way.
 
 - **Officer:** I was going to say also, it's just like, remember when the Edomite saw David go into the temple. Everybody came, didn't say nothing, but the Edomite: hey, I know where David's at. And David said, look, I knew he was going to say something as soon as I saw him. He's going to instigate everything.
 
-- **Deacon Eythan:** Right. So that's what was going on. Read that again. That's heavy.
+- **Deacon Eythan:** So that's what was going on. That's heavy.
 
 > The Samaritans appealed to Cumanus for redress for this attack upon their province, and he gave them permission to take up arms, sending at the same time Roman troops to assist them.
 
@@ -819,11 +818,11 @@ Reading from *History of the Jews*, the Galileans and the Samaritans, and Cumanu
 
 > in a fearful massacre.
 
-- So this dude, he put us against each other. That's what he was doing. Next page.
+- So this dude, he put us against each other. That's what he was doing.
 
 > This proof, as they considered it, of the partisanship of the Emperor's officials roused the anger of the inhabitants of Jerusalem to such a degree that, spurred on among others by Doris, a man of some position,
 
-- Right. Go down. Let me see, is there anything else on this page. Not this page; let's go to the next one, 245. We got 245 and 246. The bottom. Go down.
+- Let me see, is there anything else on this page. Not this page; let's go to the next one, 245. We got 245 and 246. The bottom.
 
 </div>
 
@@ -855,15 +854,15 @@ Reading from Wikipedia, on the Sicarii · read by an officer  *[[1:46:39](https:
 
 > and attempted to expel them and their sympathizers from the area. The Sicarii carried sicae, or small daggers, concealed in their cloaks.
 
-- Hey, somebody put up a picture of Assassin's Creed. So those of you that seen Assassin's Creed, all right, the blade that was coming from under their sleeves: they got that from the Sicarii. They got it from us, during that time. All right. That's who this is right here. Assassin's Creed.
+- Hey, somebody put up a picture of Assassin's Creed. So those of you that seen Assassin's Creed, all right, the blade that was coming from under their sleeves: they got that from the Sicarii. They got it from us, during that time. That's who this is right here. Assassin's Creed.
 
 - **Officer:** Actually, one of the Assassin's Creed, it was in Jerusalem, and you see prophets. They had prophets teaching on the corners in Jerusalem. I think the first Assassin's Creed.
 
-- **Deacon Eythan:** I never played it personally, but they took this from the Sicarii. All right. You can drop that. So they carried daggers under their cloaks.
+- **Deacon Eythan:** I never played it personally, but they took this from the Sicarii. You can drop that. So they carried daggers under their cloaks.
 
 > The Sicarii carried sicae, or small daggers, concealed in their cloaks. At public gatherings they pulled out these daggers to attack Romans and alleged Roman sympathizers alike, blending into the crowd after the deed to escape detection. The Sicarii are regarded as one of the earliest known organized assassination units of cloak and daggers, predating the Islamic Hashashin and Japanese ninjas by centuries.
 
-- So we predated the ninjas and the Islamic Hashashin. Okay. They took after us. They took after us. Of all things, they took after us. The Sicarii.
+- So we predated the ninjas and the Islamic Hashashin. They took after us. They took after us. Of all things, they took after us. The Sicarii.
 
 > The derived Spanish term sicario is used in contemporary Latin America to describe a hitman.
 
@@ -871,7 +870,7 @@ Reading from Wikipedia, on the Sicarii · read by an officer  *[[1:46:39](https:
 
 > Etymology. In Latin, sicarii is the plural form of sicarius, dagger-man, dagger-wielder. Sica, probably from Proto-Albanian, from Proto-Indo-European, to sharpen.
 
-- All right. Go down. History. Let me see. Go down.
+- History.
 
 > At the beginning of the First Jewish–Roman War, the Sicarii and possibly Zealot helpers, Josephus differentiated between the two but did not explain the main differences in depth, gained access to Jerusalem and committed a series of atrocities in an attempt to incite the population into war against Rome.
 
@@ -879,7 +878,7 @@ Reading from Wikipedia, on the Sicarii · read by an officer  *[[1:46:39](https:
 
 > In one account given in the Talmud, they destroyed the city's food supply, using starvation to force the people to fight against the Roman siege instead of negotiating peace. Their leaders, including Menahem ben Yehuda and Eleazar ben Ya'ir, were notable figures in the war, and the group fought in many battles against the Romans as soldiers.
 
-- Hey, let me show you something. Give me page 25, War of the Jews. It said we fought many battles against the Roman soldiers. Watch this. Page 25, War of the Jews. I pulled it up last week. It should be in your files. Page 25. You scanned it. Right there. Blow it up. Read the underline. Matter of fact, you can just read on. Courage, armor and tactical formations. So these are the things that we wore, how we went to war.
+- Hey, let me show you something. Give me page 25, War of the Jews. It said we fought many battles against the Roman soldiers. Page 25, War of the Jews. I pulled it up last week. It should be in your files. Page 25. You scanned it. Right there. Blow it up. Read the underline. Matter of fact, you can just read on. Courage, armor and tactical formations. So these are the things that we wore, how we went to war.
 
 </div>
 
@@ -893,19 +892,17 @@ Reading from *War of the Jews*, page 25, courage, armor and tactical formations 
 
 > perhaps the greatest infantryman that has ever existed, was often bested by his Judean opponents in hand-to-hand combat.
 
-- Read that again.
-
 - Was often bested. Often. By his Judean opponents in hand-to-hand combat. So they couldn't stop us with the hands. When it came to hand-to-hand combat, look, we whip their behind.
 
 - **Officer:** We were reading in History of the Jews how the Roman soldiers were inferior. They talking about us: they were inferior to us. Because they were on edge. Remember when they were around the temple, and he made an offensive gesture. It says here, on that occasion a soldier, with the recklessness often exhibited by the inferior Roman troops. So they were inferior to us. That's why they were on edge, like, yo, these guys can murk us.
 
-- **Deacon Eythan:** Yo. The Zealots and the Sicarii, they were highly skilled assassins at that time. You got to fight and you got to kill. So I wouldn't be surprised, we probably had them as bodyguards. But we going to get the other page. But read that again, and then go down to the next underline.
+- **Deacon Eythan:** Yo. The Zealots and the Sicarii, they were highly skilled assassins at that time. You got to fight and you got to kill. So I wouldn't be surprised, we probably had them as bodyguards. But we going to get the other page.
 
-- **Officer:** And they considered the Roman soldiers the greatest infantrymen to ever exist, and they were scared of us, and they were considered inferior compared to us. Come on. Hand-to-hand combat.
+- **Officer:** And they considered the Roman soldiers the greatest infantrymen to ever exist, and they were scared of us, and they were considered inferior compared to us. Hand-to-hand combat.
 
-- **Deacon Eythan:** This ain't talk. Because the Romans, they fought with... it's going to explain. Read on. It's going to explain how they fought, what their best war tactic was.
+- **Deacon Eythan:** This ain't talk. Because the Romans, they fought with... it's going to explain. It's going to explain how they fought, what their best war tactic was.
 
-- **Officer:** The Most High said one shall be stronger than the other. Right. That's what it is. And they know all the history of the Maccabees and Spartans. They like, yo, we can't give them this information.
+- **Officer:** The Most High said one shall be stronger than the other. That's what it is. And they know all the history of the Maccabees and Spartans. They like, yo, we can't give them this information.
 
 > Even the Roman soldier, perhaps the greatest infantryman that has ever existed, was often bested by his Judean opponents in hand-to-hand combat. This is not to say that Greek or Roman soldiers lacked courage.
 
@@ -917,11 +914,11 @@ Reading from *War of the Jews*, page 25, courage, armor and tactical formations 
 
 > but they were disciplined, trained to fight in formation.
 
-- There you go. They were trained to fight in formation. That's why when it came to hand-to-hand combat, we was whipping they ass. Couldn't stop us in hand-to-hand combat. They was trained to fight in formation.
+- They were trained to fight in formation. That's why when it came to hand-to-hand combat, we was whipping they ass. Couldn't stop us in hand-to-hand combat. They was trained to fight in formation.
 
 > The Macedonians and Greeks of the Hellenistic world fought in a phalanx.
 
-- Right. That was their style.
+- That was their style.
 
 > The Romans' formation was the turtle.
 
@@ -933,7 +930,7 @@ Reading from *War of the Jews*, page 25, courage, armor and tactical formations 
 
 > with those on the outside holding their shields locked together, while those in the center held their shields aloft.
 
-- **Officer:** A good example of that is 300, and Troy. They did it in Troy too. Remember when they hopped off the ship, they all came into, I think that's a phalanx, when they all put their shields together. But they can still see and move at the same time. All right. Against any arrows, anything like that that's coming towards them.
+- **Officer:** A good example of that is 300, and Troy. They did it in Troy too. Remember when they hopped off the ship, they all came into, I think that's a phalanx, when they all put their shields together. But they can still see and move at the same time. Against any arrows, anything like that that's coming towards them.
 
 - **Deacon Eythan:** And then they would break off into hand-to-hand combat, with one-on-ones.
 
@@ -955,7 +952,7 @@ Reading from *War of the Jews*, page 25, courage, armor and tactical formations 
 
 > and fanatic dedication to God and homeland, as opposed to the Roman legionnaire, who had courage and discipline but no real ideology to sustain him.
 
-- So they was scared as hell. Once we had them break that formation, there was no power in the Imperial cult they believed in. Right. There was no power. They had no power. So us, our God sustained us. All right. So we had the ideology and so forth, like he said, to sustain us.
+- So they was scared as hell. Once we had them break that formation, there was no power in the Imperial cult they believed in. There was no power. They had no power. So us, our God sustained us. So we had the ideology and so forth, like he said, to sustain us.
 
 > Additionally, most Romans were rather short,
 
@@ -989,7 +986,7 @@ Reading from *History of the Jews*, page 141, the Jews famed for their fighting 
 
 > and were hired as soldiers in various armies.
 
-- They hired us as soldiers in various armies. Meaning what? Bodyguards. Okay. They hired our forefather Zerubbabel, during the Assyrian captivity. They hired us as bodyguards. Okay. So we were famed for our fighting qualities.
+- They hired us as soldiers in various armies. Meaning what? Bodyguards. They hired our forefather Zerubbabel, during the Assyrian captivity. They hired us as bodyguards. So we were famed for our fighting qualities.
 
 > This was true especially
 
@@ -997,15 +994,15 @@ Reading from *History of the Jews*, page 141, the Jews famed for their fighting 
 
 > for several centuries following the Maccabean wars, when everyone knew how well the Jews had fought.
 
-- So this was true: everybody knew how well we fought. It's a lost art now or whatever, but they knew how well we fought, even up until the Sicarii and the Zealots and so forth. All right. So following several centuries after the Maccabean war, everybody knew how well we fought. That's why Rome was scared as hell. Even with Hannibal, … was like, yo, we can't do nothing with this dude. But obviously Rome was favored to win. We all know that was of the Most High. All right. Hey, what's that you said from yesterday?
+- So this was true: everybody knew how well we fought. It's a lost art now or whatever, but they knew how well we fought, even up until the Sicarii and the Zealots and so forth. So following several centuries after the Maccabean war, everybody knew how well we fought. That's why Rome was scared as hell. Even with Hannibal, … was like, yo, we can't do nothing with this dude. But obviously Rome was favored to win. We all know that was of the Most High. Hey, what's that you said from yesterday?
 
 - **Officer:** The statement you said about Hannibal: there's another book I have where it says that the way that Hannibal and the Carthaginians fought against Rome, and the things they did against Rome, any other nation or any other people would have been wiped off the map and wiped off of history. But for some reason Rome kept pushing, and they won. That's what the book said. Like, for some reason they just didn't fall. But we know why. Because that was his sword. Rome was the Most High's sword. Carthage wasn't fighting against Rome; they were fighting against the Most High. Because Rome had to be used for prophecy.
 
-- **Deacon Eythan:** Right. So that's why the Most High... you couldn't get rid of them.
+- **Deacon Eythan:** So that's why the Most High... you couldn't get rid of them.
 
 - **Officer:** But they said, like, yo, I don't know. The author was like, I don't understand why they didn't fall, because any other people, any other nation would have been destroyed and wiped off the map.
 
-- **Deacon Eythan:** Damn. All right. From there, now give me the other page. History of the Jews. What page you have? 239. Get 239.
+- **Deacon Eythan:** Damn. From there, now give me the other page. History of the Jews. What page you have? 239. Get 239.
 
 - **Officer:** Let's go to 246. I sent that on the group first, for how they would be hired to do assassinations, still dealing with the Sicarii, the first assassins. And then we'll go to 239.
 
@@ -1031,11 +1028,11 @@ Reading from *History of the Jews*, page 239, the Sicarii · read by an officer 
 
 > Another band of Zealots, grown wild and savage, forgot the original aim of liberating their country, and turned their attacks upon the foes of the latter, and profit for themselves. They were called Sicarii, from the short dagger, sica,
 
-- So that name comes from a short dagger called sica. All right. It's like a curved dagger that they put under their sleeves, and they was able to retract it in and out, where it could just stab you, and you wouldn't even know, because they'll retract it back under the sleeve.
+- So that name comes from a short dagger called sica. It's like a curved dagger that they put under their sleeves, and they was able to retract it in and out, where it could just stab you, and you wouldn't even know, because they'll retract it back under the sleeve.
 
 > which they wore concealed under their cloaks, and with which, either openly or insidiously, they struck and killed their enemies. The Sicarii belonged to the very refuse of the Zealots. Later they acknowledged the grandsons of Judas of Galilee, and Eleazar ben Jair, as their leaders, but at the commencement of this epoch they were under no discipline whatever.
 
-- Right. So Judas, remember, these were the leaders of the Zealots. So they broke off from them, and they were disorderly. They were disorderly. Like today, you got these gangs, these young men, this younger generation: they're disorderly. Wild. Just wild and going crazy, man. It says the refuse of the Zealots. The worst of the worst of the Zealots. No discipline, no order whatsoever.
+- So Judas, remember, these were the leaders of the Zealots. So they broke off from them, and they were disorderly. They were disorderly. Like today, you got these gangs, these young men, this younger generation: they're disorderly. Wild. Just wild and going crazy, man. It says the refuse of the Zealots. The worst of the worst of the Zealots. No discipline, no order whatsoever.
 
 > They wandered about the country without any defined object, lending their assistance to those who either offered them a reward or an opportunity for satisfying their thirst for revenge.
 
@@ -1043,7 +1040,7 @@ Reading from *History of the Jews*, page 239, the Sicarii · read by an officer 
 
 > Armed with daggers, they wandered among the various groups that thronged the colonnade of the Temple during the festivals, and, unperceived, struck down those they had marked out as their victims. These murders were committed with such extraordinary rapidity and skill that for a long time the assassins remained undiscovered.
 
-- Read that again. This how bad they were. They just seen bodies dropped. They're like, what the hell killed them? Like, standing right next to you. Damn, damn, damn. What happened to the brother? Gone.
+- This how bad they were. They just seen bodies dropped. They're like, what the hell killed them? Like, standing right next to you. Damn, damn, damn. What happened to the brother? Gone.
 
 - **Officer:** And it says sometimes, after they did it, they would act like they were bystanders. Like, yo. You know what I mean? They joined in to see what was going on.
 
@@ -1057,7 +1054,7 @@ Reading from *History of the Jews*, page 239, the Sicarii · read by an officer 
 
 > It may have been about this time that the Great Sanhedrin, which witnessed with intense grief the constant increase of lawlessness and immorality, gave up its functions and transferred its place of meeting from the hewn-stone hall to the commercial hall in Bethany, an act which seemed to imply its dissolution.
 
-- So they couldn't handle the people anymore. So, like, yo, we got to move from here. We got to get out of here, man. This is getting wild. Same thing going on today. You see these different gangs, gang warfare that's going on, murders not being solved and so forth. Lawless zones. You know, cops won't even go in certain areas. They just stay on the perimeter, on the outside. Hey, you see when we was in Chicago? You see the young boys in the gate, like, nah, y'all can't come in. They running that joint. They running that whole perimeter out there. You understand? But guess what: we went down there. Right. We went down in it.
+- So they couldn't handle the people anymore. So, like, yo, we got to move from here. We got to get out of here, man. This is getting wild. Same thing going on today. You see these different gangs, gang warfare that's going on, murders not being solved and so forth. Lawless zones. You know, cops won't even go in certain areas. They just stay on the perimeter, on the outside. Hey, you see when we was in Chicago? You see the young boys in the gate, like, nah, y'all can't come in. They running that joint. They running that whole perimeter out there. But guess what: we went down there. We went down in it.
 
 - **Officer:** Hey, Officer, you mind if I show something concerning what you said about Assassin's Creed?
 
@@ -1081,7 +1078,7 @@ Reading from Wikipedia, on the first *Assassin's Creed* game  *[[2:08:20](https:
 
 > the ability to use crowds of people and the environment to hide from enemies,
 
-- **Officer:** That's what you were just saying. So as soon as you, boop, you just dip off into the crowd. Right. Keep reading.
+- **Officer:** That's what you were just saying. So as soon as you, boop, you just dip off into the crowd.
 
 > and a large open world comprising various regions of the Holy Land,
 
@@ -1095,7 +1092,7 @@ Reading from Wikipedia, on the first *Assassin's Creed* game  *[[2:08:20](https:
 
 - **Officer:** The Haitian revolution, yeah, the Haitian revolution. So they use these games... it's all based on Israel, basically. All those games are based on Israel.
 
-- **Deacon Eythan:** That's it. All right. So from there. I don't know if I gave y'all this page, but go ahead.
+- **Deacon Eythan:** That's it. So from there. I don't know if I gave y'all this page, but go ahead.
 
 - **Officer:** I'm saying: now we're talking about all this, but 2 Corinthians 10. We learning a war today, but not the same way we were doing it back then. This is what the scriptures say.
 
@@ -1105,7 +1102,7 @@ Reading from Wikipedia, on the first *Assassin's Creed* game  *[[2:08:20](https:
 
 > <sup>[4](/bible/2-corinthians/10#v4)</sup> (For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)
 
-- **Officer:** That's how we're warring today. We're not using the sica. We're not using shields. We're not using swords. Our weapon are the scriptures. This Bible: this is our sword. This is what we're wielding. This is what we're going to destroy the high things that are in the minds of our people with: the lies, the refuge of lies that is in the mind of our people. We're using these words that are in this Bible to pull down those strongholds. Today we're not using guns, AK-47s, AR-15s, the Glock, whatever it may be. We're not using none of that. All right.
+- **Officer:** That's how we're warring today. We're not using the sica. We're not using shields. We're not using swords. Our weapon are the scriptures. This Bible: this is our sword. This is what we're wielding. This is what we're going to destroy the high things that are in the minds of our people with: the lies, the refuge of lies that is in the mind of our people. We're using these words that are in this Bible to pull down those strongholds. Today we're not using guns, AK-47s, AR-15s, the Glock, whatever it may be. We're not using none of that.
 
 > <sup>[5](/bible/2-corinthians/10#v5)</sup> Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;
 
@@ -1123,7 +1120,7 @@ Reading from Wikipedia, on the first *Assassin's Creed* game  *[[2:08:20](https:
 
 > <sup>[6](/bible/psalms/44#v6)</sup> For I will not trust in my bow, neither shall my sword save me.
 
-- **Officer:** I will what? Not trust in my bow. David didn't trust in his bow. The mighty men we read about, the Maccabees: remember, it said that they showed up to the army having no thought of weaponry. Right. We will not trust in our bow.
+- **Officer:** I will what? Not trust in my bow. David didn't trust in his bow. The mighty men we read about, the Maccabees: remember, it said that they showed up to the army having no thought of weaponry. We will not trust in our bow.
 
 > <sup>[7](/bible/psalms/44#v7)</sup> But thou hast saved us from our enemies, and hast put them to shame that hated us.
 
@@ -1139,15 +1136,13 @@ Reading from Wikipedia, on the first *Assassin's Creed* game  *[[2:08:20](https:
 
 > <sup>[27](/bible/2-maccabees/15#v27)</sup> So that fighting with their hands, and praying unto God with their hearts, they slew no less than thirty and five thousand men: for through the appearance of God they were greatly cheered.
 
-- **Officer:** You see? Through the appearance of God they were greatly cheered. Because what did they do? They encountered their enemies with invocation and prayer. That was the first thing that came to mind. It wasn't, oh, what weapon I'm going to use, what technique I'mma use. No, it wasn't none of that. It was like, you know what, Lord, put this in your power, that we destroy your enemies. That's it. That's why David said the Lord teaches my hands to war. It's not me; it's the Lord. Right.
-
-- **Deacon Eythan:** All praises. All praise.
+- **Officer:** Through the appearance of God they were greatly cheered. Because what did they do? They encountered their enemies with invocation and prayer. That was the first thing that came to mind. It wasn't, oh, what weapon I'm going to use, what technique I'mma use. No, it wasn't none of that. It was like, you know what, Lord, put this in your power, that we destroy your enemies. That's it. That's why David said the Lord teaches my hands to war. It's not me; it's the Lord.
 
 ## In Closing
 
-*[[2:14:54](https://www.youtube.com/watch?v=cUubbnXbaZA&t=8094s)]* Hey, so we going to end it there. Next show, Lord's will... like we said, we leading up to the events, we leading up to 70 AD. So we talking about the events that transpired before 70 AD popped off. All right. So, Lord's will, next week we actually hit 70 AD. All right.
+*[[2:14:54](https://www.youtube.com/watch?v=cUubbnXbaZA&t=8094s)]* Hey, so we going to end it there. Next show, Lord's will... like we said, we leading up to the events, we leading up to 70 AD. So we talking about the events that transpired before 70 AD popped off. So, Lord's will, next week we actually hit 70 AD.
 
-**Officer:** Hey, Israel, let's give a hand to the leadership for that class, man. All praise the Most High. Very, very much needed. Very, very much needed. Let's get those announcements up.
+**Officer:** Hey, Israel, let's give a hand to the leadership for that class, man. Very, very much needed. Very, very much needed. Let's get those announcements up.
 
 ## Announcements & References
 
