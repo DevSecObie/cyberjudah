@@ -622,6 +622,17 @@ const noteByVideo = new Map();
     writeJson(path.join(API, "library", slug, "book.json"), { ...book, cover, chapters, figures, reads: reads.map(({ said, ...r }) => r), classes });
     libraryIndex.push({ slug, title: book.title, subtitle: book.subtitle, author: book.author, year: book.year, pages: book.pages, volumes: book.volumes ?? 1, chapters: chapters.length, figures: figures.length, cover, reads: reads.length, classes });
   }
+  // Every book the classes bring up (scripts/library/class_books.py): where to read it in full,
+  // and the moments the classes spoke about it, linked to the class's note when it has one.
+  const classBooksFile = path.join(LIB, "class-books.json");
+  if (fs.existsSync(classBooksFile)) {
+    const classBooks = JSON.parse(fs.readFileSync(classBooksFile, "utf8")).map((b) => ({
+      ...b,
+      moments: b.moments.map((m) => { const n = noteByVideo.get(m.video.toLowerCase()); return { ...m, title: n?.title ?? m.title, date: n?.date ?? m.date ?? null, teacher: n?.teacher ?? "", url: n?.url ?? null }; }),
+    }));
+    writeJson(path.join(API, "library", "class-books.json"), classBooks);
+    console.error(`library: ${classBooks.length} class books on the shelf`);
+  }
 }
 writeJson(path.join(API, "library", "index.json"), libraryIndex);
 console.error(`library: ${libraryIndex.length} book(s), ${libraryIndex.reduce((a, b) => a + b.reads, 0)} class readings, ${libraryIndex.reduce((a, b) => a + b.figures, 0)} pictures`);
