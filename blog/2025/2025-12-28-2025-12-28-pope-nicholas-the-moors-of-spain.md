@@ -2,7 +2,7 @@
 title: "Pope Nicholas & the Moors of Spain"
 slug: "2025/2025-12-28-pope-nicholas-the-moors-of-spain"
 date: "2025-12-28"
-teacher: ""
+teacher: "Bishop Nathanyel"
 description: "IUIC in the ClassRoom · 2025-12-28"
 tags: ["IUIC in the ClassRoom", "africa-moors", "captivity", "europe-dark-ages", "islam-arabs", "passover-feasts", "spain-inquisition"]
 ---

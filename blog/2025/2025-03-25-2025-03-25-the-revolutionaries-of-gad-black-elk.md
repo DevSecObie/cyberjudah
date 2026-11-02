@@ -2,7 +2,7 @@
 title: "The Revolutionaries Of Gad: Black Elk"
 slug: "2025/2025-03-25-the-revolutionaries-of-gad-black-elk"
 date: "2025-03-25"
-teacher: ""
+teacher: "Officer Seir"
 description: "The Revolutionaries of Gad · 2025-03-25"
 collection: "The Revolutionaries of Gad"
 tags: ["IUIC in the ClassRoom"]

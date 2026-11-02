@@ -69,3 +69,12 @@ test('a recording takes its outline teacher, in our spelling, and its date when 
   assert.equal(outlinedClass({ title: 'T', date: '2025-12-19', teacher: '' }, o, 'AAAAAAAAAAA').date, '2025-12-19');
   assert.deepEqual(outlinedClass({ title: 'T', date: '', teacher: 'x' }, o, 'ZZZZZZZZZZZ'), { title: 'T', date: '', teacher: 'x' });
 });
+
+test('a class can name its bare "Deacon" and its bare "Captain" passages separately', async () => {
+  const { parseRankTeachers, namedTeacher, RANK_HEADER } = await import('./class-metadata.mjs');
+  const ranks = parseRankTeachers(`${RANK_HEADER}\nxa6eyWlShws\tDeacon Malachiyah\nxa6eyWlShws\tDeacon Malachiyah\tCaptain\n`);
+  assert.equal(namedTeacher('Deacon', 'xa6eyWlShws', ranks), 'Deacon Malachiyah');
+  assert.equal(namedTeacher('Captain', 'xa6eyWlShws', ranks), 'Deacon Malachiyah');
+  assert.equal(namedTeacher('Bishop', 'xa6eyWlShws', ranks), 'Bishop');
+  assert.throws(() => parseRankTeachers(`${RANK_HEADER}\nxa6eyWlShws\tDeacon Malachiyah\nxa6eyWlShws\tDeacon Isaac\n`));
+});

@@ -2,7 +2,7 @@
 title: "The Revolutionaries Of Gad: Navajo Code Talkers"
 slug: "2025/2025-04-29-the-revolutionaries-of-gad-navajo-code-talkers"
 date: "2025-04-29"
-teacher: ""
+teacher: "Officer Seir"
 description: "The Revolutionaries of Gad · 2025-04-29"
 collection: "The Revolutionaries of Gad"
 tags: ["IUIC in the ClassRoom"]

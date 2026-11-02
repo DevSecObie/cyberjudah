@@ -2,7 +2,7 @@
 title: "The Revolutionaries Of Gad: Crazy Horse"
 slug: "2025/2025-01-13-the-revolutionaries-of-gad-crazy-horse"
 date: "2025-01-13"
-teacher: ""
+teacher: "Officer Seir"
 description: "The Revolutionaries of Gad · 2025-01-13"
 collection: "The Revolutionaries of Gad"
 tags: ["IUIC in the ClassRoom", "america-babylon", "the-americas", "war"]

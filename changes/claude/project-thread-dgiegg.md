@@ -3,3 +3,7 @@
   - 41 class notes take their outline teacher: 35 that had none (e.g. The Mercy and Humility of King Manasseh, Deacon Eythan), Deacon Yashua to Deacon Yoshua (4), Captain Shemiah to Captain Shemaiah, and Cyber Warfare: The Mouth of the Beast from Deacon Malachi to Deacon Malachiyah (its artwork and outline both say Malachiyah).
   - Note dates are unchanged: they match the YouTube broadcast, while an outline is often saved a day or a week after the class.
 - data/names.tsv: Deacon Yashua and Deacon Yeshua are Deacon Yoshua; Captain Gedaliyah is Captain Gedaliah; Captain Zaccai is Zakai. Nine notes respelled by `node scripts/fix-names.mjs`.
+- Obie's answers from the teacher-names review page (2026-11-02):
+  - 26 more class notes named from their artwork, title or intro (e.g. Captain Kemuel, Captain Pallu, Captain Tazayawan, Officer Seir for The Revolutionaries of Gad, Captain Aryeh for Kill or Be Killed); Secrets of History chapters 5-9 are Deacon Eythan; Perilous Times is Captain Yadaya; two Power Hour / Escaping the Plantation notes marked only "Officer" are left blank.
+  - data/sources/rank-teachers.tsv names 25 more scriptures credited only to "Deacon" or "Captain". A class can now carry one row per bare rank (engine/class-metadata.mjs, with a test).
+  - data/sources/class-teachers.tsv: 61 recordings without notes, named from their titles (e.g. Walking in Elijah's Footsteps, Deacon Eythan) or left blank as street teachings.
