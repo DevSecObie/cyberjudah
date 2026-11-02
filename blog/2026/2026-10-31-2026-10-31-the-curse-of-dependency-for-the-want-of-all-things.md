@@ -17,7 +17,7 @@ tags: ["IUIC in the ClassRoom", "money"]
 
 ## Introduction
 
-*[[8:24](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=504s)]* Today we going to talk about your friendly neighborhood white man. I do want to say today's class is entitled The Curse of Dependency for the Wants of All Things. We know in Deuteronomy 28, the Lord said we're going to serve our enemies for the wants of all things. And that's because we did not appreciate the God that we have. He gave us all. He gave us dominion over everything and we still went looking someplace else. He said, "Okay, I'mma fix you all. And now we are dependent on the other nations to survive. And it's humiliating. I mean, I look at the videos. We were once kings on this earth, gods on this earth. Everything was under our subjection. And we lost it. And now we here in Texas and Sacramento and all these places still struggling. But it's for all good. We just got to endure through this and come out to the other end and rule one day. We understand that we are dependent in poverty. Old people and we've been like this as long as we've been in captivity, just getting by. But what has fooled us for so long is the Christian lies of the church and the white Jesus and all the foolishness that we've bought into. We were gods on this earth. All nations served us. And we going to read it in the Bible. And now look at us. This cannot be the end for us, bro. We have to come back to a rightful place. So, the curse of dependency is because we did not want to serve the Most High God. He said, "Well, I'm going to make you serve your enemies."
+*[[8:24](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=504s)]* Today we going to talk about your friendly neighborhood white man. I do want to say today's class is entitled The Curse of Dependency for the Wants of All Things. We know in Deuteronomy 28, the Lord said we're going to serve our enemies for the wants of all things. And that's because we did not appreciate the God that we have. He gave us all. He gave us dominion over everything and we still went looking someplace else. He said, "Okay, I'mma fix you all." And now we are dependent on the other nations to survive. And it's humiliating. I mean, I look at the videos. We were once kings on this earth, gods on this earth. Everything was under our subjection. And we lost it. And now we here in Texas and Sacramento and all these places still struggling. But it's for all good. We just got to endure through this and come out to the other end and rule one day. We understand that we are dependent in poverty. Old people and we've been like this as long as we've been in captivity, just getting by. But what has fooled us for so long is the Christian lies of the church and the white Jesus and all the foolishness that we've bought into. We were gods on this earth. All nations served us. And we going to read it in the Bible. And now look at us. This cannot be the end for us, bro. We have to come back to a rightful place. So, the curse of dependency is because we did not want to serve the Most High God. He said, "Well, I'm going to make you serve your enemies."
 
 ## Scriptures Opened
 
@@ -31,7 +31,7 @@ tags: ["IUIC in the ClassRoom", "money"]
 
 - Let us make man in our image, after our likeness, and let them have dominion: So, what I want to stand out in this verse is a few things. One, image, likeness, and dominion. Image, likeness, and dominion.
 
-- Let us make man in our image: He says, "Let us make man after our image. What is he referring to?
+- Let us make man in our image: He says, "Let us make man after our image." What is he referring to?
 
 - In our image: So, we were made after the image of God. Literally after his image. But it's more than just what you look like. Because back then, everybody was of color. So he's being specific because in that verse he says image, likeness and he said dominion. Not all nations had dominion. So everybody at that time were people of color. We didn't get that change until a little later on.
 
@@ -39,7 +39,7 @@ tags: ["IUIC in the ClassRoom", "money"]
   - **[Ephesians 4:24](/bible/ephesians/4#v24)**
     > <sup>[24](/bible/ephesians/4#v24)</sup> And that ye put on the new man, which after God is created in righteousness and true holiness.
 
-    That we put on the new man which after God is created in righteousness. That's the image. The image we're supposed to put on is the image of Christ and God being righteous. So he says, "Let us make man in our own image. It's deeper than just the color of your skin.
+    That we put on the new man which after God is created in righteousness. That's the image. The image we're supposed to put on is the image of Christ and God being righteous. So he says, "Let us make man in our own image." It's deeper than just the color of your skin.
 
 - Let us make man in our own image: Because you got some black devils out here, too. Just because I said the white man, don't get fooled by that. You got some black people out here that's evil as hell.
 
@@ -152,7 +152,7 @@ tags: ["IUIC in the ClassRoom", "money"]
 
 > <sup>[3](/bible/2-esdras/3#v3)</sup> And my spirit was sore moved, so that I began to speak words full of fear to the most High, and said,
 
-- And my spirit was sore moved, so that I began to speak words full of fear to the most High: So now watch this. He began to have this prayer, Ezra, after he saw the desolation of Zion and the wealth of Babylon. So he's there witnessing all that Babylon has. So if Babylon has the wealth and Jerusalem is destroyed, that means all people in poverty. And he sees this and he's saying, "Look Lord, you gave us everything and we lost it.
+- And my spirit was sore moved, so that I began to speak words full of fear to the most High: So now watch this. He began to have this prayer, Ezra, after he saw the desolation of Zion and the wealth of Babylon. So he's there witnessing all that Babylon has. So if Babylon has the wealth and Jerusalem is destroyed, that means all people in poverty. And he sees this and he's saying, "Look Lord, you gave us everything and we lost it."
 
 
 **[2 Esdras 2:45](/bible/2-esdras/2#v45)**  *[[43:51](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=2631s)]*
@@ -216,7 +216,7 @@ tags: ["IUIC in the ClassRoom", "money"]
   - **[Deuteronomy 7:6](/bible/deuteronomy/7#v6)**
     > <sup>[6](/bible/deuteronomy/7#v6)</sup> For thou art an holy people unto the Lord thy God: the Lord thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth.
 
-    He said he chose us to be a special people unto him. Special. But anyway, he says, "I chose you to be a special people unto the Lord, a chosen people above all nations. Above all nations. Above all nations. There's no equality in the Bible. It's just that we're on the wrong end of it. So, I understand why Esau thinks the way he thinks and other nations, they think they're better than us. Because we at one time knew we were better than them and they know that. That's why they steady trying to kill us off, trying to keep us in sin. Because once we reconnect with the word of God, our power activates real quick.
+    He said he chose us to be a special people unto him. Special. But anyway, he says, "I chose you to be a special people unto the Lord, a chosen people above all nations." Above all nations. Above all nations. There's no equality in the Bible. It's just that we're on the wrong end of it. So, I understand why Esau thinks the way he thinks and other nations, they think they're better than us. Because we at one time knew we were better than them and they know that. That's why they steady trying to kill us off, trying to keep us in sin. Because once we reconnect with the word of God, our power activates real quick.
 
 
 <div class="reading">
@@ -242,7 +242,7 @@ Reading from Definitions of "special" and "particular" (dictionary, as read on a
 
 - A peculiar people: That ye should shew forth the praises of him who hath called you out of darkness into his marvellous light: Right? He's called us out of darkness into his marvelous light.
 
-- As newborn babes, desire the sincere milk of the word (1 Peter 2:2): That's the only way you're gonna become that peculiar people. You got to desire the sincere milk of the word. If this is not your desire, if this is not important to you, you're not going to be peculiar. That's what makes us. That's why you say, you know, "You guys are different. I can't put my finger on you. What is it about you guys? It's God's, the breath of life that was breathed into us. That's why we move different. That's why we talk different. We go to cruise ship, we just sitting in the corner reading Bible. Why? We're not drinking. We're not smoking drugs. We're not stealing. We're not yelling, arguing. But they know, oh, there's something different about them.
+- As newborn babes, desire the sincere milk of the word (1 Peter 2:2): That's the only way you're gonna become that peculiar people. You got to desire the sincere milk of the word. If this is not your desire, if this is not important to you, you're not going to be peculiar. That's what makes us. That's why you say, you know, "You guys are different. I can't put my finger on you. What is it about you guys?" It's God's, the breath of life that was breathed into us. That's why we move different. That's why we talk different. We go to cruise ship, we just sitting in the corner reading Bible. Why? We're not drinking. We're not smoking drugs. We're not stealing. We're not yelling, arguing. But they know, oh, there's something different about them.
 
 - That ye may grow thereby: You want to grow thereby.
 
@@ -345,7 +345,7 @@ Reading from Definitions of "special" and "particular" (dictionary, as read on a
   - **[Zechariah 1:15](/bible/zechariah/1#v15)**
     > <sup>[15](/bible/zechariah/1#v15)</sup> And I am very sore displeased with the heathen that are at ease: for I was but a little displeased, and they helped forward the affliction.
 
-    He helped forward the affliction. They didn't have no mercy. God said, "I sent you all to punish them. But guess what? They went above and beyond. But you know why they did that? Because of their hatred and envy. Because God chose us. Listen, I'mma put you out there to punish them. But y'all went too far.
+    He helped forward the affliction. They didn't have no mercy. God said, "I sent you all to punish them." But guess what? They went above and beyond. But you know why they did that? Because of their hatred and envy. Because God chose us. Listen, I'mma put you out there to punish them. But y'all went too far.
   - **[Psalms 69:26](/bible/psalms/69#v26)**
     > <sup>[26](/bible/psalms/69#v26)</sup> For they persecute him whom thou hast smitten; and they talk to the grief of those whom thou hast wounded.
 
@@ -400,7 +400,7 @@ Reading from Definitions of "special" and "particular" (dictionary, as read on a
 
 - You only have I known of all the families of the earth: therefore I will punish you for all your iniquities: All right, let's go back. I'm the God of Israel, none else. He said, therefore, I will punish you for all your iniquities. Out of all the families of the earth, I'm going to punish you because you have sinned against me. I'm going to send you into the hand of your enemies to serve captivity, to be dependent on him to provide for you. And I'm going to say to a people without a soul who does not regard young or old, who does not care. And while he's afflicting you, I'm going to raise up the prophets that's going to warn you and show you, and that's us today, showing the people that we're the people of the Bible. We're the people that's afflicted.
 
-- You only have I known: But the point says, "I only knew you. You know something? When we say that, we're racist. That's what they coined us as, racist. When Amalek says that, because he believes he's God's chosen, I don't know how he believe that, but he believe he's God's chosen. It's prophetic. It's to the point that he got Christian, white Christians here believing that the white man over there in Israel is God's chosen people. And what they're doing with this genocide is divine war said by God to bring about the Mashiach.
+- You only have I known: But the point says, "I only knew you." You know something? When we say that, we're racist. That's what they coined us as, racist. When Amalek says that, because he believes he's God's chosen, I don't know how he believe that, but he believe he's God's chosen. It's prophetic. It's to the point that he got Christian, white Christians here believing that the white man over there in Israel is God's chosen people. And what they're doing with this genocide is divine war said by God to bring about the Mashiach.
 
 
 **[Baruch 3:35-37](/bible/baruch/3#v35)**  *[[1:32:50](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=5570s)]*
@@ -458,9 +458,9 @@ Reading from Definitions of "special" and "particular" (dictionary, as read on a
 
 - For I knew that they would not hear me, because it is a stiffnecked people: but in the land of their captivities they shall remember themselves: So, don't worry. I know these are hard-headed people, but I'm in the land of the captivity, I'm going to afflict them so much, they're going to remember who I am. They're going to remember themselves. They're going to line themselves up with that Bible and realize I'm talking to them. If you be think yourself in the land whether you were carried captive and repent. So they're going to remember slavery that we went through. It's going to come back to you. I'mma teach you my word. I'mma put light in your eyes, that when you look at this Bible.
 
-- They shall remember themselves: How many of us was in the churches before this truth? Most of us. Now, guess what? Now, when you look at the Bible, you're looking from a whole different vantage point. Things you read before, you would even like marvel. When I first heard this truth, I was like, "God so loved the world. What are you talking about? Somebody explain to me. Wait a second. So you're telling me God only has a chosen people? So what about everybody else? God doesn't care? Stop. This is a cult.
+- They shall remember themselves: How many of us was in the churches before this truth? Most of us. Now, guess what? Now, when you look at the Bible, you're looking from a whole different vantage point. Things you read before, you would even like marvel. When I first heard this truth, I was like, "God so loved the world." What are you talking about? Somebody explain to me. Wait a second. So you're telling me God only has a chosen people? So what about everybody else? God doesn't care? Stop. This is a cult.
 
-- And I'm reading. I'm like, "Wait a second. It said ships. It said iron yokes. Who that happened to? I knew that only happened to us for the most. Sold children. Made me double back. My eyes was open in my captivity. That's all of us stories. We all have the same story. The whole family think we in a cult, whatever. But we learned. God opened our eyes. He let us see clearly truth. We're being reconnected. Now, we got to take in this wisdom, we have to apply to our lives. And once we have that, then we rule again. Until then, we stay where we at.
+- And I'm reading. I'm like, "Wait a second." It said ships. It said iron yokes. Who that happened to? I knew that only happened to us for the most. Sold children. Made me double back. My eyes was open in my captivity. That's all of us stories. We all have the same story. The whole family think we in a cult, whatever. But we learned. God opened our eyes. He let us see clearly truth. We're being reconnected. Now, we got to take in this wisdom, we have to apply to our lives. And once we have that, then we rule again. Until then, we stay where we at.
 
 > <sup>[31](/bible/baruch/2#v31)</sup> And shall know that I am the Lord their God: for I will give them an heart, and ears to hear:
 
@@ -570,7 +570,7 @@ Reading from Definition of "lord" (dictionary, as read on air)  *[[1:45:37](http
 >
 > <sup>[17](/bible/genesis/17#v17)</sup> Then Abraham fell upon his face, and laughed, and said in his heart, Shall a child be born unto him that is an hundred years old? and shall Sarah, that is ninety years old, bear?
 
-- Shall a child be born unto him that is an hundred years old? and shall Sarah, that is ninety years old, bear?: How much time has passed now? 24, 25 is when he has the child born. That's him patiently enduring, waiting for this promise. He said, "Now, you told me this 24 years ago. So she don't get pregnant now that when I'm 100 years. Come on, Lord. "Lord, how this is going to work?"
+- Shall a child be born unto him that is an hundred years old? and shall Sarah, that is ninety years old, bear?: How much time has passed now? 24, 25 is when he has the child born. That's him patiently enduring, waiting for this promise. He said, "Now, you told me this 24 years ago. So she don't get pregnant now that when I'm 100 years." Come on, Lord. "Lord, how this is going to work?"
 
 > <sup>[18](/bible/genesis/17#v18)</sup> And Abraham said unto God, O that Ishmael might live before thee!
 
@@ -596,7 +596,7 @@ Reading from Definition of "lord" (dictionary, as read on air)  *[[1:45:37](http
 >
 > <sup>[2](/bible/genesis/22#v2)</sup> And he said, Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of.
 
-- Take now thy son, thine only son Isaac, whom thou lovest, and offer him there for a burnt offering: And so now after he waited 25 years to have him, he said, "Go ahead. Now we're going to go kill him. If that ain't patiently enduring. And what did he do? He took him up there. That shows a level of faith.
+- Take now thy son, thine only son Isaac, whom thou lovest, and offer him there for a burnt offering: And so now after he waited 25 years to have him, he said, "Go ahead. Now we're going to go kill him." If that ain't patiently enduring. And what did he do? He took him up there. That shows a level of faith.
 
 
 **[Genesis 22:16-18](/bible/genesis/22#v16)**  *[[2:00:55](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=7255s)]*
@@ -642,7 +642,7 @@ Reading from Definition of "lord" (dictionary, as read on air)  *[[1:45:37](http
   - **[1 Timothy 1:1](/bible/1-timothy/1#v1)**
     > <sup>[1](/bible/1-timothy/1#v1)</sup> Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope;
 
-    And Lord Jesus Christ, which is our hope: Which is our hope that is set before us. That's the refuge. Christ said, "Come unto me all you that's heavy laden and I'll give you rest. He's our refuge. He's our comfort. And ladies, let me bring you up on speed. We are your refuge. You need us like we need Christ.
+    And Lord Jesus Christ, which is our hope: Which is our hope that is set before us. That's the refuge. Christ said, "Come unto me all you that's heavy laden and I'll give you rest." He's our refuge. He's our comfort. And ladies, let me bring you up on speed. We are your refuge. You need us like we need Christ.
 
 
 **[Isaiah 32:1-2](/bible/isaiah/32#v1)**  *[[2:09:52](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=7792s)]*
@@ -806,7 +806,7 @@ Reading from Definition of "lord" (dictionary, as read on air)  *[[1:45:37](http
 
 *[[2:40:52](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=9652s)]* **In The News: Video on how Ronald Reagan, as governor of California and as president, cut education funding and ended free college tuition** — So, all that was part of the counsel.
 
-*[[2:42:24](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=9744s)]* Now, stop. Now, these protests was taking place in the colleges. And he's being specific to California. Why? Because you had black men and women going to Berkeley. That's where it started at. That's what said you radicalize the youth. That's the movement with these young ones. They just need to be guided with the word of God. But they say, "You know what, the … is turning up and they are intelligent. We don't need an intelligent … We just need a working … We don't need them with ideas of giving aspirations to the young people to show them direction in life. So what we'll do, we'll make them buffoons. We'll make them rappers and basketball players. They'll make music where they just disrespect their women, disrespect themselves, talk about nonsense, and we'll pay a few of them millions of dollars to destroy the masses. Our black leaders are comedians that cross stress. If it wasn't for us, we in trouble.
+*[[2:42:24](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=9744s)]* Now, stop. Now, these protests was taking place in the colleges. And he's being specific to California. Why? Because you had black men and women going to Berkeley. That's where it started at. That's what said you radicalize the youth. That's the movement with these young ones. They just need to be guided with the word of God. But they say, "You know what, the … is turning up and they are intelligent." We don't need an intelligent … We just need a working … We don't need them with ideas of giving aspirations to the young people to show them direction in life. So what we'll do, we'll make them buffoons. We'll make them rappers and basketball players. They'll make music where they just disrespect their women, disrespect themselves, talk about nonsense, and we'll pay a few of them millions of dollars to destroy the masses. Our black leaders are comedians that cross stress. If it wasn't for us, we in trouble.
 
 *[[2:44:01](https://www.youtube.com/watch?v=uuA0OmtQ6Fo&t=9841s)]* College tuition was free here before Ronald Reagan, before 1967 or 68. It was free, and then blacks, that's how they end up in Berkeley, because you think we had money to go to Berkeley? We had no money like that. But we went and got an education. But you know something? When times was harder, we worked harder. Things got easier and we slacked. My generation, they start dropping a ball, and then the next generation, forget it. Education was free in California.
 
