@@ -2,7 +2,7 @@
 title: "THE BOOK OF THE WARS OF THE LORD"
 slug: "2026/2026-04-18-the-book-of-the-wars-of-the-lord"
 date: "2026-04-18"
-teacher: ""
+teacher: "Deacon Malachiyah"
 description: "IUIC in the ClassRoom · 2026-04-18"
 tags: ["IUIC in the ClassRoom", "egypt", "heaven-hell", "war"]
 ---

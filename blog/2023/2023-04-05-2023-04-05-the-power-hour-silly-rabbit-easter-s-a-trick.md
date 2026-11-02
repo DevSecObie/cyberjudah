@@ -2,7 +2,7 @@
 title: "The Power Hour: Silly Rabbit, Easter's a Trick!"
 slug: "2023/2023-04-05-the-power-hour-silly-rabbit-easter-s-a-trick"
 date: "2023-04-05"
-teacher: "Officer"
+teacher: ""
 description: "The Power Hour · 2023-04-05"
 collection: "The Power Hour"
 tags: ["IUIC in the ClassRoom", "false-religion", "idolatry", "passover-feasts", "purpose"]

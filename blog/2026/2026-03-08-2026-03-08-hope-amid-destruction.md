@@ -2,7 +2,7 @@
 title: "Hope Amid Destruction"
 slug: "2026/2026-03-08-hope-amid-destruction"
 date: "2026-03-08"
-teacher: ""
+teacher: "Bishop Nathanyel"
 description: "IUIC in the ClassRoom · 2026-03-08"
 tags: ["IUIC in the ClassRoom", "false-religion", "justice", "prayer", "substance-abuse"]
 ---

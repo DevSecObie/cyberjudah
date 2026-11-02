@@ -180,7 +180,7 @@ Reading from *Atkinson's Casket*, volume 10, on the voyages of Solomon's fleets;
 
 - Right. So go back to the map again. So when Solomon's fleet, when they sailed from Ezion-geber, there you see Israel right there. Sinai right there. You see Sinai right there? Now just go into the water. What is the border? It borders Africa. So Solomon's fleet, we sailed into the Red Sea. We sailed in there. The Red Sea borders Africa. Remember, Israel left and went through the Red Sea and we got into the promised land, which would be, you see, like Saudi Arabia right there. All that stuff. We went through there. All right? Or the Gulf of Aqaba, whatever. That's in the wilderness of Sin, all of that stuff, which we'll be going back there again, too. That's off the topic.
 
-- So it borders Africa. So when Solomon's fleet and Hiram's fleet sailed together, they stopped off and they docked off in Africa and got the animals from there, Sudan, whatever. Got the monkeys from there, peacocks from there, whatever. From Africa, okay? But that doesn't say 3 years. Now real quick, give me 1 Kings 10 and 22. Watch this. Shout out to Deacon Yashua for bringing this to my attention. This is some good stuff he brought to me last night in our conversation.
+- So it borders Africa. So when Solomon's fleet and Hiram's fleet sailed together, they stopped off and they docked off in Africa and got the animals from there, Sudan, whatever. Got the monkeys from there, peacocks from there, whatever. From Africa, okay? But that doesn't say 3 years. Now real quick, give me 1 Kings 10 and 22. Watch this. Shout out to Deacon Yoshua for bringing this to my attention. This is some good stuff he brought to me last night in our conversation.
 
 </div>
 

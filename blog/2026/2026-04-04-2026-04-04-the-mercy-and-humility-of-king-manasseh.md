@@ -2,7 +2,7 @@
 title: "The Mercy and Humility of King Manasseh"
 slug: "2026/2026-04-04-the-mercy-and-humility-of-king-manasseh"
 date: "2026-04-04"
-teacher: ""
+teacher: "Deacon Eythan"
 description: "IUIC in the ClassRoom · 2026-04-04"
 tags: ["IUIC in the ClassRoom", "mercy", "prayer", "pride", "purpose", "repentance"]
 ---

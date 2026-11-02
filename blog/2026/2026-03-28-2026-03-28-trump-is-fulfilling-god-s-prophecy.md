@@ -2,7 +2,7 @@
 title: "Trump Is Fulfilling God's Prophecy"
 slug: "2026/2026-03-28-trump-is-fulfilling-god-s-prophecy"
 date: "2026-03-28"
-teacher: ""
+teacher: "Deacon Malachiyah"
 description: "IUIC in the ClassRoom · 2026-03-28"
 tags: ["IUIC in the ClassRoom", "america-babylon", "anger", "leadership", "nations", "prophecy", "war"]
 ---

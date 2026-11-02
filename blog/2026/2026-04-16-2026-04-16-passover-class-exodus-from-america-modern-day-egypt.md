@@ -2,7 +2,7 @@
 title: "Passover Class: Exodus From America Modern Day Egypt"
 slug: "2026/2026-04-16-passover-class-exodus-from-america-modern-day-egypt"
 date: "2026-04-16"
-teacher: ""
+teacher: "Deacon Malachiyah"
 description: "IUIC in the ClassRoom · 2026-04-16"
 tags: ["IUIC in the ClassRoom", "adversity", "america-babylon", "captivity", "egypt", "passover-feasts"]
 ---

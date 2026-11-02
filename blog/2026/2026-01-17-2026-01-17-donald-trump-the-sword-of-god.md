@@ -2,7 +2,7 @@
 title: "Donald Trump: the Sword of God"
 slug: "2026/2026-01-17-donald-trump-the-sword-of-god"
 date: "2026-01-17"
-teacher: ""
+teacher: "Captain Amaziah"
 description: "IUIC in the ClassRoom · 2026-01-17"
 tags: ["IUIC in the ClassRoom", "america-babylon", "repentance"]
 ---

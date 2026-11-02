@@ -2,7 +2,7 @@
 title: "The Revolutionaries Of Gad: Chief Red Cloud"
 slug: "2025/2025-02-04-the-revolutionaries-of-gad-chief-red-cloud"
 date: "2025-02-04"
-teacher: ""
+teacher: "Officer Seir"
 description: "The Revolutionaries of Gad · 2025-02-04"
 collection: "The Revolutionaries of Gad"
 tags: ["IUIC in the ClassRoom", "war"]

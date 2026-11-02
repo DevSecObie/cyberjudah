@@ -2,7 +2,7 @@
 title: "Secrets of History: The Two Promised Lands, Chapter 8"
 slug: "2020/2020-10-18-secrets-of-history-the-two-promised-lands-chapter-8"
 date: "2020-10-18"
-teacher: "Deacon"
+teacher: "Deacon Eythan"
 description: "Secrets of History · 2020-10-18"
 collection: "Secrets of History"
 tags: ["IUIC in the ClassRoom", "america-babylon", "persia-medes", "prophecy", "spain-inquisition", "the-americas"]

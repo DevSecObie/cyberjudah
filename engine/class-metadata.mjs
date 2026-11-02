@@ -43,15 +43,18 @@ export function classCatalog(videos, notes, overrides) {
 export const RANK_HEADER = 'video\tteacher';
 const RANK = /^(bishop|deacon|captain|elder)$/i;
 export function parseRankTeachers(text) {
-  const lines = text.replace(/^﻿/, '').replace(/\r\n/g, '\n').split('\n').filter(l => l && !l.startsWith('#'));
+  const lines = text.replace(/^\uFEFF/, '').replace(/\r\n/g, '\n').split('\n').filter(l => l && !l.startsWith('#'));
   if (lines.shift() !== RANK_HEADER) throw new Error('rank-teachers.tsv must start with video and teacher columns');
   const rows = new Map();
   for (const [i, line] of lines.entries()) {
     // An optional third column names the bare rank the class wrote when it differs from the
-    // teacher's own title (Obie: the "Deacon" of 6Zr0mBGRnyU is Elder Labachaa).
+    // teacher's own title (Obie: the "Deacon" of 6Zr0mBGRnyU is Elder Labachaa). A class may have
+    // one row per bare rank (its "Deacon" and its "Captain" passages), never two for the same rank.
     const cells = line.split('\t'), [video, teacher, rank] = cells;
-    if (cells.length < 2 || cells.length > 3 || !/^[\w-]{11}$/.test(video) || !/^(Bishop|Deacon|Captain|Elder) \S.{0,100}$/.test(teacher ?? '') || (cells.length === 3 && !RANK.test(rank)) || rows.has(video)) throw new Error(`rank-teachers.tsv row ${i + 1}: invalid or repeated row`);
-    rows.set(video, rank ? { teacher, rank } : teacher);
+    if (cells.length < 2 || cells.length > 3 || !/^[\w-]{11}$/.test(video) || !/^(Bishop|Deacon|Captain|Elder) \S.{0,100}$/.test(teacher ?? '') || (cells.length === 3 && !RANK.test(rank))) throw new Error(`rank-teachers.tsv row ${i + 1}: invalid row`);
+    const forRank = (rank ?? teacher.split(' ')[0]).toLowerCase(), list = rows.get(video) ?? [];
+    if (list.some(r => r.rank.toLowerCase() === forRank)) throw new Error(`rank-teachers.tsv row ${i + 1}: repeated row`);
+    rows.set(video, [...list, { teacher, rank: forRank }]);
   }
   return rows;
 }
@@ -60,8 +63,48 @@ export function loadRankTeachers(root) {
   return fs.existsSync(file) ? parseRankTeachers(fs.readFileSync(file, 'utf8')) : new Map();
 }
 export function namedTeacher(teacher, video, ranks) {
-  const own = String(teacher ?? '').trim(), row = video ? ranks.get(video) : undefined;
-  if (!RANK.test(own) || !row) return teacher;
-  if (typeof row === 'object') return row.rank.toLowerCase() === own.toLowerCase() ? row.teacher : teacher;
-  return row.toLowerCase().startsWith(own.toLowerCase() + ' ') ? row : teacher;
+  const own = String(teacher ?? '').trim(), list = video ? ranks.get(video) : undefined;
+  if (!RANK.test(own) || !list) return teacher;
+  return list.find(r => r.rank === own.toLowerCase())?.teacher ?? teacher;
+}
+/** The spelling data/names.tsv gives a leader (name, then ";"-separated variants), by lower-cased
+ * variant; a name it does not list is returned as given. */
+export function parseNames(text) {
+  const map = new Map();
+  for (const line of text.replace(/^﻿/, '').replace(/\r\n/g, '\n').split('\n')) {
+    if (!line || line.startsWith('#') || line.startsWith('name\t')) continue;
+    const [name, variants = ''] = line.split('\t');
+    for (const v of [name, ...variants.split(';')]) if (v.trim()) map.set(v.trim().toLowerCase(), name);
+  }
+  return map;
+}
+export const officialName = (names, name) => names.get(String(name ?? '').trim().toLowerCase()) ?? name;
+/** Who taught a recording, and when, by the class outlines in the sabbath-classes-images R2 bucket:
+ * data/sources/r2-class-teachers.tsv (date, file_date, video, teacher, ...). Obie 2026-11-02: the
+ * outline names and dates are accurate. A recording filed under two teachers is left out. */
+export function parseOutlineTeachers(text, names = new Map()) {
+  const lines = text.replace(/^﻿/, '').replace(/\r\n/g, '\n').split('\n').filter(l => l && !l.startsWith('#'));
+  const head = (lines.shift() ?? '').split('\t'), v = head.indexOf('video'), t = head.indexOf('teacher'), d = head.indexOf('date');
+  if (v < 0 || t < 0 || d < 0) throw new Error('r2-class-teachers.tsv must have date, video and teacher columns');
+  const seen = new Map();
+  for (const line of lines) {
+    const c = line.split('\t'), video = c[v], teacher = officialName(names, c[t] ?? '').trim(), date = c[d] ?? '';
+    if (!/^[\w-]{11}$/.test(video ?? '') || !teacher) continue;
+    const row = seen.get(video);
+    if (row === null) continue;
+    if (row && row.teacher !== teacher) { seen.set(video, null); continue; }
+    seen.set(video, row ?? { teacher, date: /^\d{4}-\d{2}-\d{2}$/.test(date) ? date : '' });
+  }
+  return new Map([...seen].filter(([, r]) => r));
+}
+export function loadOutlineTeachers(root) {
+  const nf = path.join(root, 'data/names.tsv'), f = path.join(root, 'data/sources/r2-class-teachers.tsv');
+  const names = fs.existsSync(nf) ? parseNames(fs.readFileSync(nf, 'utf8')) : new Map();
+  return fs.existsSync(f) ? parseOutlineTeachers(fs.readFileSync(f, 'utf8'), names) : new Map();
+}
+/** A recording without a note: its outline names the teacher (over a name heard in the captions)
+ * and gives the date when the recording has none. An admin correction is applied after this. */
+export function outlinedClass(record, outlines, video) {
+  const o = outlines.get(video);
+  return o ? { ...record, teacher: o.teacher, date: record.date || o.date } : record;
 }

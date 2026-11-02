@@ -2,7 +2,7 @@
 title: "The Divine Orchestration and Purpose of the People You Encounter"
 slug: "2026/2026-03-15-the-divine-orchestration-and-purpose-of-the-people-you-encounter"
 date: "2026-03-15"
-teacher: ""
+teacher: "Bishop Yawasap"
 description: "IUIC in the ClassRoom · 2026-03-15"
 tags: ["IUIC in the ClassRoom", "angels", "discipline", "obedience", "prophecy", "purpose", "war", "women"]
 ---

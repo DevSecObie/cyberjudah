@@ -1,6 +1,6 @@
 import { loadKjvPeople, validateKjvPeople, validateKjvPlaces, EVIDENCE } from "./people-kjv.mjs";
 
-import { correctedClass, classCatalog, loadClassBroadcasts } from "./class-metadata.mjs";
+import { correctedClass, classCatalog, loadClassBroadcasts, loadOutlineTeachers, outlinedClass } from "./class-metadata.mjs";
 // The CyberJudah content engine.
 //
 //   node engine/build.mjs [--out dist] [--site https://cyberjudah.io] [--no-thumbs]
@@ -112,7 +112,8 @@ const strongsTags = (slug) => {
 // note lends the note's title, date, teacher and url; the rest carry what the transcript says.
 const READINGS = path.join(ROOT, "data", "precepts", "readings");
 const readVideos = fs.existsSync(path.join(READINGS, "videos.json")) ? JSON.parse(fs.readFileSync(path.join(READINGS, "videos.json"), "utf8")) : {};
-for (const [video, row] of Object.entries(readVideos)) readVideos[video] = correctedClass(row, L.classMetadata, video);
+const outlines = loadOutlineTeachers(ROOT);
+for (const [video, row] of Object.entries(readVideos)) readVideos[video] = correctedClass(outlinedClass(row, outlines, video), L.classMetadata, video);
 writeJson(path.join(API, "classes", "metadata.json"), classCatalog(readVideos, notes, L.classMetadata));
 writeJson(path.join(API, "classes", "corrections.json"), Object.fromEntries(L.classMetadata));
 writeJson(path.join(API, "classes", "broadcasts.json"), loadClassBroadcasts(ROOT));

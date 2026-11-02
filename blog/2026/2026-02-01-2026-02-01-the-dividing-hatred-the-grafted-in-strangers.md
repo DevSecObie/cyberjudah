@@ -2,7 +2,7 @@
 title: "The Dividing Hatred: the Grafted in Strangers"
 slug: "2026/2026-02-01-the-dividing-hatred-the-grafted-in-strangers"
 date: "2026-02-01"
-teacher: ""
+teacher: "Deacon Eythan"
 description: "IUIC in the ClassRoom · 2026-02-01"
 tags: ["IUIC in the ClassRoom", "anger", "love", "mercy"]
 ---

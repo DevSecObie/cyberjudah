@@ -1,0 +1,15 @@
+- Teacher names from the class outlines (Obie 2026-11-02: "Use all of the names used in the outline along with their dates, those are accurate"):
+  - Recordings without notes (the "read in class" moments under each verse) now take the teacher from the class outline in data/sources/r2-class-teachers.tsv, over a name the captions picked up, and the outline's date when the recording has none. A recording filed under two teachers is left alone, and an admin row in class-teachers.tsv still wins. Spellings follow data/names.tsv.
+  - 41 class notes take their outline teacher: 35 that had none (e.g. The Mercy and Humility of King Manasseh, Deacon Eythan), Deacon Yashua to Deacon Yoshua (4), Captain Shemiah to Captain Shemaiah, and Cyber Warfare: The Mouth of the Beast from Deacon Malachi to Deacon Malachiyah (its artwork and outline both say Malachiyah).
+  - Note dates are unchanged: they match the YouTube broadcast, while an outline is often saved a day or a week after the class.
+- data/names.tsv: Deacon Yashua and Deacon Yeshua are Deacon Yoshua; Captain Gedaliyah is Captain Gedaliah; Captain Zaccai is Zakai. Nine notes respelled by `node scripts/fix-names.mjs`.
+- Obie's answers from the teacher-names review page (2026-11-02):
+  - 26 more class notes named from their artwork, title or intro (e.g. Captain Kemuel, Captain Pallu, Captain Tazayawan, Officer Seir for The Revolutionaries of Gad, Captain Aryeh for Kill or Be Killed); Secrets of History chapters 5-9 are Deacon Eythan; Perilous Times is Captain Yadaya; two Power Hour / Escaping the Plantation notes marked only "Officer" are left blank.
+  - data/sources/rank-teachers.tsv names 25 more scriptures credited only to "Deacon" or "Captain". A class can now carry one row per bare rank (engine/class-metadata.mjs, with a test).
+  - data/sources/class-teachers.tsv: 61 recordings without notes, named from their titles (e.g. Walking in Elijah's Footsteps, Deacon Eythan) or left blank as street teachings.
+- Obie's answers from the caption-names tab (2026-11-02, "use what we have now and backlog the others"):
+  - data/sources/class-teachers.tsv: 154 recordings without notes take the teacher Obie picked for the name the captions heard (e.g. Bishop Nathaniel/Nathanael to Bishop Nathanyel, 16 recordings that are really Deacon Eythan, Bishop "Yahweh" to Bishop Yawasap, Captain Shem & Captain Matt). Two recordings whose class outline names Captain Shem keep the outline name.
+  - "Officer Jeremiah" (answered "PSR") is held until Obie names the teacher.
+  - Deacon Labachaa is the official spelling (leadership page and outlines); Labaacha and Labaaca are now listed as variants in data/names.tsv, and one recording is respelled.
+  - data/sources/rank-teachers.tsv: three more scriptures credited only to "Deacon" or "Captain" are Bishop Yawasap.
+  - The 526 rows not yet answered (mostly IUIC Raleigh recordings, many of them street teachings) stay as they are and are backlogged in the review page.

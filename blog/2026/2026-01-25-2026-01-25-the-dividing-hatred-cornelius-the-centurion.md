@@ -2,7 +2,7 @@
 title: "The Dividing Hatred: Cornelius the Centurion"
 slug: "2026/2026-01-25-the-dividing-hatred-cornelius-the-centurion"
 date: "2026-01-25"
-teacher: ""
+teacher: "Deacon Eythan"
 description: "IUIC in the ClassRoom · 2026-01-25"
 tags: ["IUIC in the ClassRoom", "mercy", "passover-feasts"]
 ---

@@ -2,7 +2,7 @@
 title: "The Storm Before the Kingdom"
 slug: "2026/2026-03-14-the-storm-before-the-kingdom"
 date: "2026-03-14"
-teacher: ""
+teacher: "Deacon Malachi"
 description: "IUIC in the ClassRoom · 2026-03-14"
 tags: ["IUIC in the ClassRoom", "america-babylon", "discipline", "endurance", "islam-arabs", "media", "war"]
 ---

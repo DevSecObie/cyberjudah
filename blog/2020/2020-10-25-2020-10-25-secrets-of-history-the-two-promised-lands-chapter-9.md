@@ -2,7 +2,7 @@
 title: "Secrets of History: The Two Promised Lands, Chapter 9"
 slug: "2020/2020-10-25-secrets-of-history-the-two-promised-lands-chapter-9"
 date: "2020-10-25"
-teacher: "Deacon"
+teacher: "Deacon Eythan"
 description: "Secrets of History · 2020-10-25"
 collection: "Secrets of History"
 tags: ["IUIC in the ClassRoom", "edom-esau", "spain-inquisition"]

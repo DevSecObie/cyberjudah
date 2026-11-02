@@ -2,7 +2,7 @@
 title: "Secrets of History: The Two Promised Lands, Chapter 5"
 slug: "2020/2020-09-27-secrets-of-history-the-two-promised-lands-chapter-5"
 date: "2020-09-27"
-teacher: "Deacon"
+teacher: "Deacon Eythan"
 description: "Secrets of History · 2020-09-27"
 collection: "Secrets of History"
 tags: ["IUIC in the ClassRoom", "passover-feasts", "the-americas"]

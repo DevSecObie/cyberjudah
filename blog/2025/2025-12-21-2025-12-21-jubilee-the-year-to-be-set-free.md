@@ -2,7 +2,7 @@
 title: "Jubilee: The Year To Be Set Free"
 slug: "2025/2025-12-21-jubilee-the-year-to-be-set-free"
 date: "2025-12-21"
-teacher: ""
+teacher: "Bishop Nathanyel"
 description: "IUIC in the ClassRoom · 2025-12-21"
 tags: ["IUIC in the ClassRoom", "captivity", "passover-feasts", "sabbath"]
 ---

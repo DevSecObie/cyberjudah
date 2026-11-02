@@ -2,7 +2,7 @@
 title: "WE ARE BORN IN BABYLON"
 slug: "2026/2026-08-01-we-are-born-in-babylon"
 date: "2026-08-01"
-teacher: ""
+teacher: "Bishop Nathanyel"
 description: "IUIC in the ClassRoom · 2026-08-01"
 tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "persia-medes"]
 ---
