@@ -1,0 +1,129 @@
+# Where to read each class book in full. Each row names a book in data/books.tsv by its title and author.
+# title<TAB>author<TAB>status<TAB>archive.org identifier
+# status: public-domain (a free scan we may host and show in full) or borrow (still in copyright: archive.org lends it,
+# and we show only the classes' own words about it). Found with archive.org's search on 2026-11-02; fix a row by hand
+# when a better edition turns up. scripts/library/class_books.py reads this file.
+The Jews: A Study of Race and Environment	Maurice Fishberg	public-domain	jewsstudyofracee00fish
+Description of Africa	Leo Africanus	public-domain	historydescripti93leoa
+The History of the Yorubas	Samuel Johnson	public-domain	historyofyorubas00john
+The Martyrdom of Man	Winwood Reade	public-domain	martyrdomofman72read
+A Tribute for the Negro	Wilson Armistead	public-domain	tributefornegrob00armi
+The Solomon Islands and Their Natives	H. B. Guppy	public-domain	solomonislandsth00gupprich
+The Twelve Caesars	Suetonius	public-domain	livesoftwelvecae0000suet_o9f1
+The Jews and Moors in Spain	Joseph Krauskopf	public-domain	jewsmoorsinspain00krauuoft
+Christopher Columbus and the Participation of the Jews in the Spanish and Portuguese Discoveries	Meyer Kayserling	public-domain	cu31924020409656
+Eternal Rome	Grant Showerman	public-domain	eternalromevolum005578mbp
+Easton's Bible Dictionary	M. G. Easton	public-domain	illustratedbible00east
+The Book of Enoch		public-domain	ethiopicversiono00charuoft
+The Book of Jubilees		public-domain	cu31924060029984
+The First Book of Adam and Eve		public-domain	forgotten-books-of-eden-the
+History of the Hebrew Commonwealth	Johann Jahn	public-domain	historyofhebrewc02jahnuoft
+The Flying Roll	James Jershom Jezreel	public-domain	extractsfromflyi00jezriala
+Surnames of the United Kingdom	Henry Harrison	public-domain	cu31924092512635
+Phoenician Ireland	Joachim Laurence Villanueva	public-domain	phnicianireland00vill
+Jewish Life in the Middle Ages	Israel Abrahams	public-domain	jewishlifeinthem008412mbp
+Africa	John Ogilby	public-domain	bim_early-english-books-1641-1700_africa-being-an-accurat_ogilby-john_1670
+From Superman to Man	J. A. Rogers	public-domain	fromsupermantoma00roge
+A Star in the West	Elias Boudinot	public-domain	starinwestorhumb00boudarch
+The Origin of the English Nation	H. Munro Chadwick	public-domain	cu31924027951510
+Race Traits and Tendencies of the American Negro	Frederick L. Hoffman	public-domain	racetraitstenden00hoff
+Harriet, the Moses of Her People	Sarah H. Bradford	public-domain	harrietmosesofh00brad
+Missionary Travels and Researches in South Africa	David Livingstone	public-domain	missionarytrave00livi
+The History of the Decline and Fall of the Roman Empire	Edward Gibbon	public-domain	romanempire05gibbuoft
+Ancient and Modern Britons	David MacRitchie	public-domain	ancientandmodernbritons
+A Biblical and Theological Dictionary	Richard Watson	public-domain	abiblicalandthe01banggoog
+Ireland: Ur of the Chaldees	Anna Wilkes	public-domain	irelandurofchald00wilkuoft
+The Souls of Black Folk	W. E. B. Du Bois	public-domain	cu31924024920492
+Twelve Years a Slave	Solomon Northup	public-domain	12yearsaslave00nortrich
+The Prince	Niccolo Machiavelli	public-domain	princemac00machuoft
+The Art of War	Sun Tzu	public-domain	artofwaroldestmi00suntuoft
+The Egyptian Book of the Dead		public-domain	hieroglyphicvoca00budg
+The Histories	Herodotus	public-domain	historyofherodot02herouoft
+The Annals and Histories	Tacitus	public-domain	annalstacitustr00brodgoog
+Natural History	Pliny the Elder	public-domain	naturalhistoryof03plin
+Geography	Strabo	public-domain	geographyofstrab01strarich
+Church History	Eusebius	public-domain	ecclesiasticalhi00euse
+The Septuagint		public-domain	septuagintversio1879bren
+The Geneva Bible		public-domain	ost-english-bible00lond
+The Quran		public-domain	thekoran00unknuoft
+The Talmud		public-domain	babyloniantalmud01unknuoft
+The Book of Mormon		public-domain	bookofmormon00lamo
+Orthodoxy	G. K. Chesterton	public-domain	orthodoxy00chesuoft
+The Holy Cities of Arabia	Eldon Rutter	public-domain	in.ernet.dli.2015.70025
+Israel Redivivus	Frederick Charles Danvers	public-domain	israelredivivus0000danv
+The British History Traced from Egypt and Palestine	L. G. A. Roberts	public-domain	roberts-lawrence-graeme-allan-british-history-traced-from-egypt-palestine_202012
+The Travels and Extraordinary Adventures of Baron Trump	Ingersoll Lockwood	public-domain	travelsadventure00lock
+Commentary on the Holy Scriptures	John Peter Lange	public-domain	CommentaryOnTheHolyScripturesCriticalDoctrinalAndHomilectical.Lange
+Antiquities of Mexico	Lord Kingsborough	public-domain	AntiquitiesMexi6King
+Encyclopaedia Britannica		public-domain	newencyclopaedia0007unse
+The Black Codes		public-domain	blackcodes18651800good
+Sex and Race	J. A. Rogers	borrow	sexracenegrocauc0003roge
+From Babylon to Timbuktu	Rudolph R. Windsor	borrow	frombabylontotim0000rudo
+Lost Tribes and Promised Lands	Ronald Sanders	borrow	losttribespromis0000sand
+The Story of Civilization	Will Durant	borrow	storyofcivilizat0001dura
+Whence the "Black Irish" of Jamaica?	Joseph J. Williams	borrow	bwb_S0-CJE-366
+The Thirteenth Tribe	Arthur Koestler	borrow	thirteenthtribek0000koes
+The Invention of the Jewish People	Shlomo Sand	borrow	inventionofjewis0000sand
+Pictorial History of Israel	Jacob A. Rubin and Meyer Barkai	borrow	pictorialhistory0000unse_e4i0
+The Jewish Mystique	Ernest van den Haag	borrow	jewishmystique00vand
+Black Indians: A Hidden Heritage	William Loren Katz	borrow	blackindianshidd00katz
+Before the Mayflower	Lerone Bennett Jr.	borrow	beforemayflowerh0000benn_r8k9
+The Temples That Jerusalem Forgot	Ernest L. Martin	borrow	templesthatjerus0000mart
+Racial Matters: The FBI's Secret File on Black America	Kenneth O'Reilly	borrow	racialmattersfbi00orei
+The New Testament World in Pictures	William H. Stephens	borrow	newtestamentworl0000step
+The History of Indigenous Slavery in Ghana	Akosua Adoma Perbi	borrow	historyofindigen0000perb
+Confessions of an Economic Hit Man	John Perkins	borrow	confessionsofeco0000perk
+Black Macho and the Myth of the Superwoman	Michele Wallace	borrow	blackmachomyth00wall
+The Universal Jewish Encyclopedia		borrow	universaljewishe0004unse
+Encyclopaedia Judaica		borrow	encyclopaediajud0000unse
+Encyclopedia Americana		borrow	1959encyclopediaamer03newy
+Harper's Bible Dictionary		borrow	harpersbibledict0000made
+Unger's Bible Dictionary	Merrill F. Unger	borrow	ungersbibledicti0000merr_p5e1
+Holman Bible Atlas		borrow	holmanbibleatlas0000bris
+Webster's Dictionary	Merriam-Webster	borrow	webstersdictiona0000vari_j4a9
+Oxford English Dictionary		borrow	oxfordenglishdic01oxfo
+The Gospel of Thomas		borrow	gospelofthomaswi0000unse
+Black Men: Obsolete, Single, Dangerous?	Haki R. Madhubuti	borrow	blackmenobsolete0000madh
+Early Spanish Manuscript Illumination	John Williams	borrow	earlyspanishmanu0000will
+Exterminate All the Brutes	Sven Lindqvist	borrow	exterminateallbr00lind
+The Great Father: The United States Government and the American Indians	Francis Paul Prucha	borrow	greatfatherun01pruc
+Imperial Rome	Moses Hadas (Time-Life)	borrow	imperialrome0000hada
+African Presence in Early Europe	Ivan Van Sertima	borrow	africanpresencei00vans
+Picture History of Jewish Civilization	Bezalel Narkiss	borrow	bwb_T5-AOV-106
+The Conquest of Brazil	Roy Nash	borrow	conquestofbrazil0000royn
+Black Rednecks and White Liberals	Thomas Sowell	borrow	blackredneckswhi00thom
+The War Against the Weak	Edwin Black	borrow	isbn_9781568582580
+American Holocaust	David E. Stannard	borrow	americanholocaus00stan
+The Atlas of Jewish History	Martin Gilbert	borrow	atlasofjewishhis00mart
+The Image of the Black in Western Art		borrow	imageofblackin00hono
+National Sunday Law	Jan Marcussen	borrow	nationalsundayla00marc
+A Short History of Western Civilization	John B. Harrison and Richard E. Sullivan	borrow	shorthistoryofwe00sull
+The New Jewish Encyclopedia		borrow	newjewishencyclo0000unse_z8b2
+Stranger Than Science	Frank Edwards	borrow	strangerthanscie00edwa
+The Upside of Down	Thomas Homer-Dixon	borrow	upsideofdowncata00home
+War at Home: Covert Action Against U.S. Activists	Brian Glick	borrow	warathomecoverta0000glic
+The Jewish Onslaught	Tony Martin	borrow	jewishonslaughtd00mart
+Moses and Monotheism	Sigmund Freud	borrow	mosesmonotheism00freurich
+To Die for the People	Huey P. Newton	borrow	isbn_9780863163272
+They Stole It, But You Must Return It	Richard Williams	borrow	theystoleitbutyo0000will
+The Zohar		borrow	zohar0000unse
+A History of the Jews	Solomon Grayzel	borrow	historyofjewsfro00gray
+A History of the Jews	Abram Leon Sachar	borrow	historyofjews00sach
+Holman QuickSource Bible Atlas		borrow	holmanquicksourc0000unse_k1d3
+Vine's Expository Dictionary	W. E. Vine	borrow	vinesexpositoryd0000wevi
+The Invention of the White Race	Theodore W. Allen	borrow	inventionofwhite0000alle
+Matthew Henry's Commentary	Matthew Henry	borrow	bwb_W8-AJS-658
+The Isis Papers	Frances Cress Welsing	borrow	isisyssispapers0000wels
+Message to the Blackman in America	Elijah Muhammad	borrow	messagetoblackma0000elij
+Uncle Tom's Cabin	Harriet Beecher Stowe	borrow	uncletomscabin0000harr_r1b3
+The Iceman Inheritance	Michael Bradley	borrow	icemaninheritanc0000brad
+Rich Dad Poor Dad	Robert Kiyosaki	borrow	richdadpoordadwh0000kiyo_t8n6
+The Dead Sea Scrolls		borrow	deadseascrollsne0000unse
+The Satanic Bible	Anton LaVey	borrow	satanicbible0000anto_e0w6
+The Mishnah		borrow	mishnahnewtransl0000unse
+The Vedas		borrow	vedas0000unse
+The Bhagavad Gita		borrow	bhagavadgita00john
+The Catechism of the Catholic Church		borrow	catechismofcatho0000unse_o6o8
+The Scofield Reference Bible	C. I. Scofield	borrow	firstscoieldrefe0000revc
+Codex Sinaiticus		borrow	codexsinaiticus0000unse_u3r7
+The Iliad	Homer	borrow	iliad0000home_q8a9
