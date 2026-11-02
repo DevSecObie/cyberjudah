@@ -1,0 +1,1 @@
+- Precepts in the concordance carry their own KJV words (`kjv`, for a precept of four verses or fewer), so the Bishops' commentary can show the scripture under each precept without leaving the page.
