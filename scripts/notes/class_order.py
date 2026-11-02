@@ -27,7 +27,8 @@ NEWS = "## In The News"
 SECONDS = re.compile(r"[?&]t=(\d+)s")
 STAMP = re.compile(r"^\*\[(?:\[)?(\d+(?::\d\d){1,2})")
 STAMP_ANY = re.compile(r"\*\[(?:\[)?(\d+(?::\d\d){1,2})")
-NEWS_PARA = re.compile(r"^\*\[.*?\]\*\s+\*\*In The News")
+# a paragraph of its own moment in the stream: a news item, or teaching that opened no scripture
+NEWS_PARA = re.compile(r"^\*\[\[?\d+(?::\d\d){1,2}")
 
 
 def seconds_of(text):

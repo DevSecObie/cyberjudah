@@ -227,20 +227,90 @@ def ask_model(t, text, refs, who):
             time.sleep(5)
 
 
+def _precepts(items):
+    """The precepts that resolve, as lib.P renders them under the bullet before them; '' if none."""
+    good = []
+    for p in items or []:
+        try: lib.parse(p["ref"]); good.append((p["ref"], p["note"].strip()))
+        except SystemExit as e: print(f"  dropped precept {p.get('ref')!r}: {e}", flush=True)
+    return lib.P(good) if good else ""
+
+
+def _norm(text):
+    return " ".join(re.sub(r"[^a-z ]", " ", text.lower().replace("\u2019", "'").replace("'", "")).split())
+
+
+def _verses_of(point, book, ch, vs):
+    """The verse (or run of verses) a point opens on, from the verse words before its first colon."""
+    if not isinstance(point, str) or ": " not in point[:240]:
+        return None
+    phrase = _norm(point.split(": ", 1)[0])
+    if len(phrase.split()) < 2:
+        return None
+    body = lib.chapters(book)[str(ch)]
+    text = {v: _norm(body[v - 1]) for v in vs}
+    for size in range(1, len(vs) + 1):
+        for k in range(len(vs) - size + 1):
+            run = vs[k:k + size]
+            if phrase in " ".join(text[v] for v in run):
+                return (run[0], run[-1])
+    return None
+
+
+def _span(a, b):
+    return str(a) if a == b else f"{a}-{b}"
+
+
 def block(ref, ts, points, precepts):
-    """A passage as lib.S renders it, a bad reference dropped rather than guessed."""
+    """A passage walked the way it was read: each verse, or the verses read straight through,
+    quoted, then what he said on it, in the order he said it.
+
+    A point that opens with the words of a verse ("Lay siege against it: ...") goes under that
+    verse; a point that does not stays with the verse before it. A verse that drew no word of its
+    own is quoted with the next one, read straight through. A point may be a precept ({"ref",
+    "note"}): it nests under the bullet before it, where the class brought it in. Precepts given
+    in "precepts" nest under the last point, as before. A bad reference is dropped, not guessed."""
     try:
-        s = lib.S(ref, ts, points)
+        book, ch, vs, spec = lib.parse(ref)
+        lib.quote(book, ch, vs)
     except SystemExit as e:
         print(f"  dropped {ref!r}: {e}", flush=True); return None
-    good = []
-    for p in precepts or []:
-        try: lib.parse(p["ref"]); good.append((p["ref"], p["note"]))
-        except SystemExit as e: print(f"  dropped precept {p.get('ref')!r}: {e}", flush=True)
-    if good:
-        # the precepts nest under the last point of the passage
-        s = s.rstrip("\n") + "\n\n" + lib.P(good)
-    return s
+    head = f"**[{book} {ch}:{spec}](/bible/{lib.SLUG[book]}/{ch}#v{vs[0]})**" + (f"  *[{ts}]*" if ts else "")
+    steps = []  # [(first, last) or None, [points]]
+    for p in list(points) + list(precepts or []):
+        at = _verses_of(p, book, ch, vs)
+        if at and (not steps or steps[-1][0] != at):
+            steps.append([at, [p]])
+        elif steps:
+            steps[-1][1].append(p)
+        else:
+            steps.append([None, [p]])
+    if not any(at for at, _ in steps):
+        steps = [[(vs[0], vs[-1]), [p for _, items in steps for p in items]]]
+    parts, quoted = [head], set()
+    for at, items in steps:
+        if at:
+            a, b = at
+            # verses read before this one and not yet quoted were read straight through to it
+            while a - 1 in vs and a - 1 not in quoted and a - 1 > max(quoted, default=vs[0] - 1):
+                a -= 1
+            parts.append(lib.quote(book, ch, [v for v in vs if a <= v <= b]))
+            quoted.update(range(a, b + 1))
+        run = []
+        for p in items:
+            if isinstance(p, dict):
+                run.append(p); continue
+            if run: parts.append(_precepts(run).rstrip("\n")); run = []
+            if p.strip(): parts.append(f"- {p.strip()}")
+        if run: parts.append(_precepts(run).rstrip("\n"))
+    rest = [v for v in vs if v not in quoted and v > max(quoted, default=0)]
+    if rest:
+        parts.append(lib.quote(book, ch, rest))
+    left = [v for v in vs if v not in quoted and v not in rest]
+    if left:
+        # verses that drew nothing and sit between ones that did: quote them where they fall
+        print(f"  {ref}: verses {left} drew no comment", flush=True)
+    return "\n\n".join(x for x in parts if x) + "\n"
 
 
 def render(t, d, feed):
@@ -268,7 +338,13 @@ def render(t, d, feed):
                     for w in p.get("walk", [])]
             if any(r for r, _ in walk): out += [lib.R(p["reading"].strip(), p.get("ts"), walk, reader=p.get("reader")), ""]
             continue
-        s = block(p.get("ref", ""), p.get("ts"), [x.strip() for x in p.get("points", []) if x.strip()], p.get("precepts"))
+        if p.get("said"):
+            # teaching that opened no scripture, in its place in the class
+            label = f"**{p['label'].strip()}** — " if p.get("label") else ""
+            out += [f"*[{p.get('ts', '')}]* {label}{p['said'].strip()}", ""]
+            continue
+        s = block(p.get("ref", ""), p.get("ts"), [x if isinstance(x, dict) else x.strip() for x in p.get("points", [])
+                                                 if isinstance(x, dict) or x.strip()], p.get("precepts"))
         if s: out += [s, ""]; kept += 1
     if not kept: raise SystemExit("no passage resolved; the note is not written")
     if d.get("questions"):
