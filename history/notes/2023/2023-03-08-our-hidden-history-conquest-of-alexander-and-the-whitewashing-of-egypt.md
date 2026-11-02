@@ -129,7 +129,7 @@ Reading from the next article (not named on air), on the Etruscans, the ruins of
 
 > the colonnades, the tombs of the most elaborate workmanship, arranged with such symmetry as to form picturesque cities of the dead, meet the eye on all sides, and are equally familiar to the tourist in Etruria. A general opinion prevails amongst the Jews of the present day that their conqueror Titus was of Etruscan extraction, and thus fulfilled the old prophecy that Jacob should be
 
-- You ask a question: why are they saying Titus was a Etruscan? Hey, can you get the book with Titus? So you got to ask yourself a question: why they say Titus was of Etruscan extraction? Based upon the monuments, the sepulchers, the carved out works, exactly that of Petra. So he's saying Titus was of Etruscan origins. Why is that? It's saying the same thing: how they say Esau, the so-called white man, the Caucasian, are Japhetic origins. That's the confusion, if you can't trace the steps back of Esau and how he made his conquest: from Petra, leading to southern Palestine, to Hebron, to the west, subjugated Etruria, then Latium, Italy, from there all over Europe. The Gauls; you have Ireland; you have Gog, Magog. They subjugated that whole Europe. It became everybody. And not just Europe: they also subjugated Egypt. And that's the conversation that we're having today: who's the Egyptians? So this white man has become everybody. You got that? Bring that up.
+- You ask a question: why are they saying Titus was a Etruscan? Hey, can you get the book with Titus? So you got to ask yourself a question: why they say Titus was of Etruscan extraction? Based upon the monuments, the sepulchers, the carved out works, exactly that of Petra. So he's saying Titus was of Etruscan origins. Why is that? It's saying the same thing: how they say Esau, the so-called white man, the Caucasian, are Japhetic origins. That's the confusion, if you can't trace the steps back of Esau and how he made his conquest: from Petra, leading to southern Palestine, to Hebron, to the west, subjugated Etruria, then Latium, Italy, from there all over Europe. The Gauls; you have Ireland; you have Gog, Magog. They subjugated that whole Europe. It became everybody. And not just Europe: they also subjugated Egypt. And that's the conversation that we're having today: who's the Egyptians? So this white man has become everybody. You got that?
 
 </div>
 
@@ -195,7 +195,7 @@ Reading from a reference entry on the Amalekites (not named on air) · read by a
 
 > <sup>[6](/bible/esther-greek/12#v6)</sup> Howbeit Aman the son of Amadathus the Agagite, who was in great honour with the king, sought to molest Mardocheus and his people because of the two eunuchs of the king.
 
-- So Aman. Read that again.
+- So Aman.
 
 - So it says Aman the Agagite. So Haman was a descendant of the Agagites. Can you give me 1 Samuel chapter 15 verse 8?
 
@@ -233,13 +233,13 @@ Reading from a reference entry on the Amalekites (not named on air) · read by a
 
 - **Officer:** You know, it's like black people: you give them an ass whooping and they keep on coming back with their boys.
 
-- **Captain Joel:** Yeah, they win. It's never a fair fight. We gonna let that one slide. You're gonna feel these words, you're gonna feel these hands. All right, you got it. So Haman. Keep reading.
+- **Captain Joel:** Yeah, they win. It's never a fair fight. We gonna let that one slide. You're gonna feel these words, you're gonna feel these hands. All right, you got it. So Haman.
 
 > <sup>[13](/bible/esther-greek/16#v13)</sup> Having by manifold and cunning deceits sought of us the destruction, as well of Mardocheus, who saved our life, and continually procured our good, as also of blameless Esther, partaker of our kingdom, with their whole nation.
 >
 > <sup>[14](/bible/esther-greek/16#v14)</sup> For by these means he thought, finding us destitute of friends to have translated the kingdom of the Persians to the Macedonians.
 
-- So Haman's ulterior agenda was to translate the kingdom to the Macedonians. So there was a plot in place, because Haman was around, what, about 480? Right. Blow it up, blow it up. Put that so everybody can see it on the screen.
+- So Haman's ulterior agenda was to translate the kingdom to the Macedonians. So there was a plot in place, because Haman was around, what, about 480? Blow it up, blow it up. Put that so everybody can see it on the screen.
 
 *[[34:03](https://www.youtube.com/watch?v=mgQLdgfPVEs&t=2043s)]* All right, so here's the timeline. It says Esther at a Glance. So this is the timeline of when everything took place that we read in the Book of Esther. You have the selection of Esther as queen; you had the formulation of the plot by Haman, right here; the triumph of Mordecai over Haman; and the triumph of Israel over our enemies. Go all the way down: 10 years. You see the time, 10 years. So all of this took place in a 10-year span, from 483 BC to 473 BC. So the whole Book of Esther, in a 10-year span. That's what the scholars are saying here: 483 to 473 BC is when this took place.
 
@@ -329,7 +329,7 @@ Reading from *A General History of Europe*, page 124 called for, the section num
 
 - He will discover thy sins. And this is what we're doing: we're discovering and unveiling the mystery of all the iniquity that Esau committed, trespassed against our people.
 
-- So this was always a plot. So now you have Latium was subjugated at 338, and then you also had Macedon was subjugated by Philip of Macedonia. Because why? These were two … empires. I'll say it again: these are two dukes. I don't think you heard me. These were two dukes, ruling Edomite families, that got together, that says: we're going to take Italy, you're going to take Greece. Play the clip.
+- So this was always a plot. So now you have Latium was subjugated at 338, and then you also had Macedon was subjugated by Philip of Macedonia. Because why? These were two … empires. I'll say it again: these are two dukes. I don't think you heard me. These were two dukes, ruling Edomite families, that got together, that says: we're going to take Italy, you're going to take Greece.
 
 <div class="reading">
 
@@ -341,7 +341,7 @@ Reading from a movie clip on the three royal cousins  *[[47:45](https://www.yout
 
 - **Officer:** You see, that's exactly the same game they was playing when they was young. Still remained the same today.
 
-- **Captain Joel:** It's crazy. In the movie, a lot of people don't pick that up. Play.
+- **Captain Joel:** It's crazy. In the movie, a lot of people don't pick that up.
 
 > Now the soldiers are real. Get two copies of this photograph made, and have them delivered with these letters immediately. I'll have more than two. Excellent, Your Majesty. My Kaiser, restraint is a virtue. Remember your duty. My cousin, the King of England, strongly suggests we do nothing. Remember how Prince George used to enjoy it when your English mother and her English doctors would torture you? George would tease you about your deformities. And don't forget, snickering at his side was your little Russian cousin, Tsar Nicholas. Cousin George is imploring self-restraint against our other cousin, the moronic Kaiser. King George has always protected our interests.
 
@@ -389,7 +389,7 @@ Reading from a reference entry on the Argead dynasty · read by an officer  *[[5
 
 > hence the name. Initially the rulers of the tribe of the same name, by the time of Philip II they had expanded their reign further, to include under the rule of Macedonia all Upper Macedonian states. The family's most celebrated members were Philip II of Macedon and his son Alexander the Great,
 
-- You see, the family. Read that part again. The family's most celebrated. The family: the Amalekite family, the dukes of Amalek's family's most celebrated members.
+- You see, the family. The family's most celebrated. The family: the Amalekite family, the dukes of Amalek's family's most celebrated members.
 
 > were Philip II of Macedon and his son Alexander the Great, under whose leadership the kingdom of Macedonia gradually gained predominance throughout Greece, defeated the Achaemenid Empire
 
@@ -411,7 +411,7 @@ Reading from a book on Philip of Macedon (not named on air) · read by an office
 
 - **Officer:** I just wanted to say: who wrote this right here? Did the Negro write this right here? This ain't Negro writing. This is not Negro writing.
 
-- **Captain Joel:** King Archelaus, who succeeded him, was a devil. Was what? A devil. So when we're calling Esau the devil, the Bible speaks of it; they know themselves that they are the devil, by the cruelty that they use to conquer and to divide nations for their own gain. Read that again.
+- **Captain Joel:** King Archelaus, who succeeded him, was a devil. Was what? A devil. So when we're calling Esau the devil, the Bible speaks of it; they know themselves that they are the devil, by the cruelty that they use to conquer and to divide nations for their own gain.
 
 > King Archelaus, who succeeded him, was a devil, who came to the throne by foul murder,
 
@@ -433,11 +433,11 @@ Reading from a book on Philip of Macedon (not named on air) · read by an office
 
 > Archelaus and three others having reigned a longer or shorter time, and each of them having died in the manner more usual to the kings of Macedon,
 
-- So in a manner more usual. What is the manner more usual to the kings of Macedon? How do kings of Macedon die? Usually a king's supposed to die by just natural death. Surely there was some ill doings in that. They didn't die of natural cause of death. They died probably of a brain aneurysm. Like some of these rulers: oh, how did he die? Oh, brain aneurysm, heart attack. Okay.
+- So in a manner more usual. What is the manner more usual to the kings of Macedon? How do kings of Macedon die? Usually a king's supposed to die by just natural death. Surely there was some ill doings in that. They didn't die of natural cause of death. They died probably of a brain aneurysm. Like some of these rulers: oh, how did he die? Oh, brain aneurysm, heart attack.
 
 > Amyntas came to the throne. He was otherwise conspicuous, and he was the father of Philip. Driven from his kingdom by Illyrian highlanders, he afterwards regained his throne, which had been usurped by a pretender.
 
-- Next page. Okay, let's go back to the Achaemenid Macedonia.
+- Okay, let's go back to the Achaemenid Macedonia.
 
 </div>
 
@@ -525,7 +525,7 @@ Reading from a reference entry on Achaemenid Macedonia · read by an officer  *[
 
 - **Captain Joel:** No, he doesn't deal with everybody the same. Every captivity you had your major prophets. You don't read, during the time period of Elijah and Elisha, you don't read about the sons of the prophets; you don't read about the seven thousand that didn't bow the knee to Baal. Every captivity you're going to have your major prophets, even though it doesn't diminish the other prophets.
 
-- **Officer:** Right. There's other prophets. There's other leaders around during that time period, but there's always a main leader.
+- **Officer:** There's other prophets. There's other leaders around during that time period, but there's always a main leader.
 
 - **Captain Joel:** Yep, exactly. You always have leaders, but there's that one leader that God uses in order to filter his information through. He's the source behind everything. He's the head that God's going to work through. Just like Judas: Judas was one of the main leaders. But you think his brother wasn't a help? You think that there was no other man, or prophet? That's why Judas says, wait for the Lord to rise up a prophet, that may come to interpret. But I thought Judas was a prophet? But there was other men there, but Judas was that main leader. Just like today, it's that main leader that the Lord is working through. It doesn't diminish all the other prophets: you got the elders here, you got the apostles still here. But there's one source that God's going to work through, that's going to feed everybody else.
 
@@ -559,9 +559,7 @@ Reading from a reference entry on Achaemenid Macedonia · read by an officer  *[
 
 > <sup>[13](/bible/daniel/10#v13)</sup> But the prince of the kingdom of Persia withstood me one and twenty days: but, lo, Michael, one of the chief princes, came to help me; and I remained there with the kings of Persia.
 
-- Read it again.
-
-- So the prince of the kingdom of Persia withstood Christ one and twenty days. 21 days you have the prince of the kingdom of Persia. You might ask yourself, what does this mean? What are you talking about, in terms of the prince of the kingdom of Persia? How did it withstand Christ? We're talking about and going into the realms that you can't even see, that you don't even believe exists. So read it again.
+- So the prince of the kingdom of Persia withstood Christ one and twenty days. 21 days you have the prince of the kingdom of Persia. You might ask yourself, what does this mean? What are you talking about, in terms of the prince of the kingdom of Persia? How did it withstand Christ? We're talking about and going into the realms that you can't even see, that you don't even believe exists.
 
 - But the prince of the kingdom of Persia withstood Christ. We're going to realms; I'm talking about spiritual realms. The prince of the kingdom of Persia withstood Christ. Can we get John chapter 14 verse 30?
 
@@ -569,7 +567,7 @@ Reading from a reference entry on Achaemenid Macedonia · read by an officer  *[
 
 > <sup>[30](/bible/john/14#v30)</sup> Hereafter I will not talk much with you: for the prince of this world cometh, and hath nothing in me.
 
-- So Christ says the prince of this world cometh and hath nothing in me. Read it again.
+- So Christ says the prince of this world cometh and hath nothing in me.
 
 - So the prince of this world cometh and hath nothing in Christ. Give me Ephesians chapter 2 verse 2.
 
@@ -577,7 +575,7 @@ Reading from a reference entry on Achaemenid Macedonia · read by an officer  *[
 
 > <sup>[2](/bible/ephesians/2#v2)</sup> Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:
 
-- Read it again. You walked according to the course of this world. Remember, Christ just said the prince of this world hath nothing in me. So he says you walk according to the course of this world, according to the prince of the power of the air. This is a power; there's a prince, there's a power, that this world is operating and being ran by. And there's a spirit. There's a power that's running this world. That's why the prince of this world hath nothing in me. There's a wicked demonic spirit in high places that you can't even see. Is it a Christian church? Is it a mosque? Is it a Catholic church? Is it world superpowers, is it governments? Is it your Illuminatis? It's these dark forces and powers that rule in dark places that you have no clue exists. So this is a spiritual power that you can't see, that's working.
+- You walked according to the course of this world. Remember, Christ just said the prince of this world hath nothing in me. So he says you walk according to the course of this world, according to the prince of the power of the air. This is a power; there's a prince, there's a power, that this world is operating and being ran by. And there's a spirit. There's a power that's running this world. That's why the prince of this world hath nothing in me. There's a wicked demonic spirit in high places that you can't even see. Is it a Christian church? Is it a mosque? Is it a Catholic church? Is it world superpowers, is it governments? Is it your Illuminatis? It's these dark forces and powers that rule in dark places that you have no clue exists. So this is a spiritual power that you can't see, that's working.
 
 - And the spirit that now worketh in the children of disobedience. So it's a spirit that now worketh in the children of disobedience. These are wicked demonic spirits that run this world.
 
@@ -617,7 +615,7 @@ Reading from a clip from the show *Black Clover*  *[[1:29:50](https://www.youtub
 
 - **Captain Joel:** So now let's go back to Daniel chapter 10 verse 13.
 
-- **Officer:** Okay. Can I read First Peter 5? That's how Peter says this concerning us.
+- **Officer:** Can I read First Peter 5? That's how Peter says this concerning us.
 
 - **Captain Joel:** Yes sir.
 
@@ -641,7 +639,7 @@ Reading from a clip from the show *Black Clover*  *[[1:29:50](https://www.youtub
 
 - Michael had to assist Christ in the overthrowing of the Persian Empire. I'm saying it again: you're seeing Michael intervening, one of the chief princes, coming to assist Christ in an overthrow of the Persian Empire.
 
-- And he remained there fighting with the kings of Persia. Because Persia, at the time period, was trying to overthrow the different Greek empires rising up and trying to secede Xerxes and them. So I'll say it again: you have Grecia, you have Macedon, you have Thracia, Athens; they're all trying to rise up in power to overthrow the Persians. So Christ was fighting alongside. If you give me that picture, you know what I want: Edomite folks, or Alexander. Put that up on the screen. So Christ was fighting for the overthrow and the overturning of the Persian Empire. It's a spiritual warfare on the back end of things.
+- And he remained there fighting with the kings of Persia. Because Persia, at the time period, was trying to overthrow the different Greek empires rising up and trying to secede Xerxes and them. So I'll say it again: you have Grecia, you have Macedon, you have Thracia, Athens; they're all trying to rise up in power to overthrow the Persians. So Christ was fighting alongside. If you give me that picture, you know what I want: Edomite folks, or Alexander. So Christ was fighting for the overthrow and the overturning of the Persian Empire. It's a spiritual warfare on the back end of things.
 
 - **Officer:** Can I, I don't want to throw you off: the short description is talking about what scripture is: a scene from The Immortal.
 
@@ -649,7 +647,7 @@ Reading from a clip from the show *Black Clover*  *[[1:29:50](https://www.youtub
 
 - **Officer:** I want to land back, if Cap allows us: Second Maccabees 5. I was going to go in there.
 
-- **Captain Joel:** Oh, I'm sorry. So right there, play that. That's what you're talking about.
+- **Captain Joel:** So right there, play that. That's what you're talking about.
 
 - **Officer:** That, Cap. Like this. And this is not on the earth.
 
@@ -905,11 +903,11 @@ Reading from *Before the Mayflower*, on Nat Turner · read by an officer  *[[1:3
 
 > <sup>[5](/bible/daniel/8#v5)</sup> And as I was considering, behold, an he goat came from the west on the face of the whole earth, and touched not the ground: and the goat had a notable horn between his eyes.
 
-- And the he goat. If you look at a goat, a goat is a symbol of power. Because goats, if you look at the different clips you see on YouTube, I'm not sure if you've seen it, but they'll show clips of goats going against, I saw a goat going against a rhinoceros. Let me show some pictures. Show the video of goats, why they use he goats. Some of the videos of goats going against cows or bulls. There's a reason why they use different animals. A goat against a bull, so we could get a visual of what we're seeing. There you go. Look how small a goat is in comparison.
+- And the he goat. If you look at a goat, a goat is a symbol of power. Because goats, if you look at the different clips you see on YouTube, I'm not sure if you've seen it, but they'll show clips of goats going against, I saw a goat going against a rhinoceros. Let me show some pictures. Show the video of goats, why they use he goats. Some of the videos of goats going against cows or bulls. There's a reason why they use different animals. A goat against a bull, so we could get a visual of what we're seeing. Look how small a goat is in comparison.
 
 - **Officer:** Black on black crime, ….
 
-- **Captain Joel:** Let's show the example why the Lord used a goat. Because goats, they don't back down for any creature. I'll say it again: goats. I saw one video, a goat knocked out a cow, completely just knocked him out. Goat knocks out cow. Play.
+- **Captain Joel:** Let's show the example why the Lord used a goat. Because goats, they don't back down for any creature. I'll say it again: goats. I saw one video, a goat knocked out a cow, completely just knocked him out. Goat knocks out cow.
 
 - **Officer:** That's the same as you had in a football game when they run across you.
 
@@ -939,7 +937,7 @@ Reading from *Before the Mayflower*, on Nat Turner · read by an officer  *[[1:3
 
 - Remember what we just read earlier: we went through a series of scriptures to show you the translation of kingdoms, and how Christ translates power from one kingdom to another kingdom. These are the four beasts which I have made to rule in my world. So Christ and Michael control, or decide, what kingdom he's going to translate and give that power, in order to rule, dominate the whole earth. It's not these kingdoms on their own hand. Titus understood. Remember, on the siege and overthrowing of Jerusalem, he understood that God gave him that power in order to rule. So they understand that Christ is the one that's translating and giving that power, or demonic power, for these kingdoms in order to rule and subjugate all kingdoms.
 
-- Now let me show you something. If you could get that image with Alexander. Because Alexander didn't conquer Persia on his own. I'll say it again: Alexander didn't conquer Persia on his own. He had help. Give me that image that's in front of you. Thank you. Pay attention.
+- Now let me show you something. If you could get that image with Alexander. Because Alexander didn't conquer Persia on his own. I'll say it again: Alexander didn't conquer Persia on his own. He had help. Give me that image that's in front of you. Pay attention.
 
 <div class="reading">
 
@@ -963,7 +961,7 @@ Reading from an image shown on air, and then the article sent as a link, *Did Al
 
 > <sup>[5](/bible/isaiah/31#v5)</sup> As birds flying, so will the Lord of hosts defend Jerusalem; defending also he will deliver it; and passing over he will preserve it.
 
-- So as birds flying: the triangle formation is the formation of birds. Can you show that real quick? Birds flying. Yeah, thank you. He did something right; I'll talk to you after class. So read that again.
+- So as birds flying: the triangle formation is the formation of birds. Can you show that real quick? Birds flying. Yeah, thank you. He did something right; I'll talk to you after class.
 
 - So as what? As birds flying, so will the Lord of hosts defend Jerusalem. So that's the triangular formation that the Macedonian armies was describing during the Tyrian battle. So as birds fly, in triangular formation. Go back to the article.
 
@@ -993,7 +991,7 @@ Reading from *Did Alexander the Great Really See UFOs?*, continued · read by an
 
 > <sup>[6](/bible/daniel/7#v6)</sup> After this I beheld, and lo another, like a leopard, which had upon the back of it four wings of a fowl; the beast had also four heads; and dominion was given to it.
 
-- So this is talking, the leopard, is making reference to the Greek Empire, represented by Alexander as well as the Greeks. Can you give me that? So Alexander historically, if you go to the Museum of Natural History, Central Park and 81st Street, you see that Alexander wore a leopard hat. So read that again.
+- So this is talking, the leopard, is making reference to the Greek Empire, represented by Alexander as well as the Greeks. Can you give me that? So Alexander historically, if you go to the Museum of Natural History, Central Park and 81st Street, you see that Alexander wore a leopard hat.
 
 - Another like a what? Like a leopard. Listen, this Bible's a true book. Alexander wore a leopard hat. Another like a leopard. So you have different empires that represented animal figures. Alexander represented the leopard, because he is swift and fast to conquer the Persian, and all rule, and dark nations.
 
@@ -1035,7 +1033,7 @@ Reading from the book at page 48 (not named on air), on Philip and Alexander · 
 
 > King Philip was a descendant of Esau, son of Isaac.
 
-- So King Philip was a descendant of Esau. I'll read it again.
+- So King Philip was a descendant of Esau.
 
 > In the land of Rome and of the Maghreb was a great empire, that of the Ionians, or Greeks. King Philip was a descendant of Esau
 
@@ -1053,7 +1051,7 @@ Reading from the book at page 48 (not named on air), on Philip and Alexander · 
 
 > His pedigree is stated by the most celebrated genealogists in this way: Philip the First,
 
-- Keep going. Come on, keep going. Feed me, feed me.
+- Feed me, feed me.
 
 > Eliphaz, Esau,
 
@@ -1147,7 +1145,7 @@ Reading from the reference entry on the Amalekites, read again · read by an off
 
 - **Captain Joel:** Hey, listen: this is a glorious day in Israel. Get that page first.
 
-- **Officer:** The spiritual realm has been exposed to the people. The angels are warning right now. We just got to get our mind right. When this translates to the flesh. This is what this is about. Go ahead, Cap.
+- **Officer:** The spiritual realm has been exposed to the people. The angels are warning right now. We just got to get our mind right. When this translates to the flesh. This is what this is about.
 
 - **Captain Joel:** All right, let's go to Ptolemy. I don't want to deter anything. All right, bring that up: Egypt Under the Ptolemies.
 
@@ -1156,8 +1154,6 @@ Reading from the reference entry on the Amalekites, read again · read by an off
 Reading from *Egypt Under the Ptolemies* · read by an officer  *[[2:33:45](https://www.youtube.com/watch?v=mgQLdgfPVEs&t=9225s)]*
 
 > The conquest of Egypt by Alexander the Great in 332 BC entirely changed the character of Egyptian history,
-
-- Read it again.
 
 > The conquest of Egypt by Alexander the Great in 332 BC entirely changed the character of Egyptian history
 
@@ -1207,7 +1203,7 @@ Reading from the next book (not named on air), on the racial origins of the firs
 
 - **Officer:** Why would a slave put himself on a coin? That's a big enough white supremacy.
 
-- **Captain Joel:** This is the beginning of white supremacy on earth. What you're seeing is the beginning of white supremacy on earth, like it was just stated. Read.
+- **Captain Joel:** This is the beginning of white supremacy on earth. What you're seeing is the beginning of white supremacy on earth, like it was just stated.
 
 > The racial origins of the first Egyptian people are obscure,
 
@@ -1215,7 +1211,7 @@ Reading from the next book (not named on air), on the racial origins of the firs
 
 > but it is obvious to any visitor that the type made familiar by the paintings and sculptures of ancient Egypt still persists side by side with the multitude of others left by the numerous conquests and immigrations which the country has suffered since the Assyrian conquest in the 7th century BC.
 
-- Read that again. It says, but it is obvious to any visitor: any visitor that goes to Egypt.
+- It says, but it is obvious to any visitor: any visitor that goes to Egypt.
 
 > that the type made familiar by the paintings and sculptures of ancient Egypt still persists side by side with the multitude of others left by the numerous conquests and immigrations, which the country has suffered since the Assyrian conquest in the seventh
 
@@ -1269,11 +1265,11 @@ Reading from the next book (not named on air), on the racial origins of the firs
 
 > <sup>[48](/bible/1-maccabees/3#v48)</sup> And laid open the book of the law, wherein the heathen had sought to paint the likeness of their images.
 
-- Had sought to plant, sorry, had sought to paint the likeness of their images. Read it again.
+- Had sought to plant, sorry, had sought to paint the likeness of their images.
 
 - **Officer:** You got a Sesame Street. Yo, IT was waiting for that.
 
-- **Captain Joel:** Anyway. Verse 48: and laid open the book of the law. So let's show you just the conduct and the nature of Esau. These are the Greeks that they're reading about. Remember, the Greeks already seceded Seir, they already seceded the Etruscans, they already seceded Italy, they already seceded Macedon, they already seceded Greece. Now you're seeing them start to push forward and conquer us. So I'm telling you, the Bible shows you what they do, and what they did to the previous empires. Remember, Rome destroyed the Etruscans' history. Now look what the Greeks are trying to do. Read.
+- **Captain Joel:** Anyway. Verse 48: and laid open the book of the law. So let's show you just the conduct and the nature of Esau. These are the Greeks that they're reading about. Remember, the Greeks already seceded Seir, they already seceded the Etruscans, they already seceded Italy, they already seceded Macedon, they already seceded Greece. Now you're seeing them start to push forward and conquer us. So I'm telling you, the Bible shows you what they do, and what they did to the previous empires. Remember, Rome destroyed the Etruscans' history. Now look what the Greeks are trying to do.
 
 - So they laid open the book. Show that on the screen. So once the Greeks came in power. Remember, Rome did it already; I just said Rome did it. They wiped out the history, they changed their architecture, and they painted the likeness of their image. They did it under the Etruscans, they did it in Italy, they did it in Greece, and now they're trying to do it with us. And they successfully, later on as time went by, did it with us. So they started under the Greeks. Like also stated, this was the beginning of white supremacy and the whitewashing of history. Get me Job 9 verse 24. Evils was multiplied. And this is what they do: they cover up history, they change it, they change the characters, they change the information, they destroy records, and they put their faces on it.
 
@@ -1281,7 +1277,7 @@ Reading from the next book (not named on air), on the racial origins of the firs
 
 > <sup>[24](/bible/job/9#v24)</sup> The earth is given into the hand of the wicked: he covereth the faces of the judges thereof; if not, where, and who is he?
 
-- The earth was given into the hand of the wicked. That's why it says, and evils were multiplied upon the earth, under Alexander the Greek and his successors. Read.
+- The earth was given into the hand of the wicked. That's why it says, and evils were multiplied upon the earth, under Alexander the Greek and his successors.
 
 - Now they did it to us. Not only us did they do it to. When they covered our faces: they covered Moses, they covered David, they covered King Solomon, they covered all of our ancestors, Peter, Paul, Jesus Christ, the main face of the judge, they covered. But they also covered all of the ancient Egyptians. They covered the Japhetic tribes, the Etruscans. They covered Javan, they covered the Minoans. They covered all the faces of everybody on earth, and they replaced it with their face. They sought to paint the likeness of their images. All right, now you want to bring something up, officer?
 
@@ -1293,7 +1289,7 @@ Reading from a book on the Ptolemaic sculptures, chapter six, Chronology (title 
 
 > Chapter six. Chronology. The chronology of Hellenistic sculpture is a much debated topic,
 
-- **Officer:** These sculptures, it kind of put a mark in history, to come about what Egypt looks like. Go ahead.
+- **Officer:** These sculptures, it kind of put a mark in history, to come about what Egypt looks like.
 
 > Egyptian style portraits of Ptolemies are no exception. A dark stone head of a king at Yale has been dated to both the early Ptolemaic period and the early Roman period. A limestone head of a queen in Alexandria has been attributed to the third, second and first centuries BC. These are but two examples. Despite the existence of some well-established points in the chronology of Ptolemaic royal portraits, scholars often differ on the identification of specific sculptures, because systematic and consistent dating methods are few.
 
@@ -1303,7 +1299,7 @@ Reading from a book on the Ptolemaic sculptures, chapter six, Chronology (title 
 
 - **Officer:** I was going to save that for the other statement. I ain't want to bombard them with too much. I got the book, but I don't have it here.
 
-- **Captain Joel:** Pull up some pictures of the Ptolemies, so people could see how, when they came to power, they put the pharaoh garb, the pharaoh hat, on top of them. Look at them: that's the Edomite. Come on, man. Stop it, stop it, boy. All right, so that's Ptolemy Soter the First, coming to power under the Egyptian rule. Show me another one. So that's the Ptolemaic dynasty coming to power, and you could tell. Look at their lips. Got them thin lips. Nothing against anybody that has thin lips, but that's just a natural trait of Esau. They got thin lips, and they got the pointy nose. That's why they knock the nose off: they're going to know what's happening. They knock everybody's nose off; they can tell the difference between people's noses. Look at them thin lips.
+- **Captain Joel:** Pull up some pictures of the Ptolemies, so people could see how, when they came to power, they put the pharaoh garb, the pharaoh hat, on top of them. Look at them: that's the Edomite. Stop it, stop it, boy. All right, so that's Ptolemy Soter the First, coming to power under the Egyptian rule. Show me another one. So that's the Ptolemaic dynasty coming to power, and you could tell. Look at their lips. Got them thin lips. Nothing against anybody that has thin lips, but that's just a natural trait of Esau. They got thin lips, and they got the pointy nose. That's why they knock the nose off: they're going to know what's happening. They knock everybody's nose off; they can tell the difference between people's noses. Look at them thin lips.
 
 - All right, let's go back to the book. We're just about done. Ancient Egypt. We've got a few more pages. Ancient Egypt. And that's not grease stains, it's not black people's grease stains. I know people thinking in their head: he's black. That's just how the book is. That's how the book is.
 
@@ -1315,15 +1311,15 @@ Reading from a book on ancient Egypt by one of Champollion's disciples (title an
 
 > The Egyptian Society had just been founded at Cairo, an encouragement afforded by Mr. Randolph and yourself to our then embryo institution, and they're on record. Since that period our society has become in Egypt the central point of researches into all that concerns the most interesting regions. But it was not till 1839 that the larger works of the new archaeological school were in our library, and that it was in my power to become one of Champollion's disciples.
 
-- So all the information and archaeological evidence that they had was in the power of their library. Champollion: so it's François Champollion. He was one of the first. He was a Frenchman that was able to translate the Rosetta Stone, the hieroglyphics, in order to cover up, uncover, the hieroglyphics. So he's the one, the father of Egyptology. Everything that we know about Egypt comes from him. He was the first person to do that. All right, let's get the next one. And from there, this is where all the confusion comes from. Go to the confusion, and it's the confusion that they bring today to us. Read.
+- So all the information and archaeological evidence that they had was in the power of their library. Champollion: so it's François Champollion. He was one of the first. He was a Frenchman that was able to translate the Rosetta Stone, the hieroglyphics, in order to cover up, uncover, the hieroglyphics. So he's the one, the father of Egyptology. Everything that we know about Egypt comes from him. He was the first person to do that. All right, let's get the next one. And from there, this is where all the confusion comes from. Go to the confusion, and it's the confusion that they bring today to us.
 
 > To bring the ancestors of the Egyptians from Ethiopia leads to consequences irreconcilable with primeval biblical migrations. Ham and his sons were indisputably Caucasian.
 
-- See this? Oh wow. This is where they changed everything up. They said Ham and his sons were indisputably Caucasians.
+- See this? This is where they changed everything up. They said Ham and his sons were indisputably Caucasians.
 
 > To find, therefore, that their Egyptian descendants were Caucasians
 
-- And this is: the Egyptian descendants were Caucasians. Also, Bible dictionary, please have that in line. Thank you. Go ahead.
+- And this is: the Egyptian descendants were Caucasians. Also, Bible dictionary, please have that in line.
 
 > is perfectly in accordance with nature and with scripture.
 
@@ -1331,11 +1327,11 @@ Reading from a book on ancient Egypt by one of Champollion's disciples (title an
 
 - **Officer:** What was stated earlier, Cap: they established that through art and literature.
 
-- **Captain Joel:** Yep, exactly. Through art and literature. Okay, read that.
+- **Captain Joel:** Yep, exactly. Through art and literature.
 
 > Ham, whom scripture tells us was the parent of the Egyptians, and as such Ham must have been an Asiatic and Caucasian, since we know possibly that his Egyptian descendants were Caucasians, as well as pure blood in origin as ourselves.
 
-- Boy, ain't no way. Hold on, hold on. Keep going.
+- Boy, ain't no way.
 
 > The climate of Egypt will never change a Caucasian into a Negro,
 
@@ -1355,7 +1351,7 @@ Reading from a closing movie clip  *[[2:56:04](https://www.youtube.com/watch?v=m
 
 - **Officer:** Look like it's entertainment, but they're really telling on them. It's crazy.
 
-- **Captain Joel:** And that's it for today. Oh, praises. You said it earlier, and I wanted to bring it out: like you said, the only person that brings it out, it's a prophet. The prophets. Exactly. The Book of Amos chapter 3 and verse 7.
+- **Captain Joel:** And that's it for today. You said it earlier, and I wanted to bring it out: like you said, the only person that brings it out, it's a prophet. The prophets. Exactly. The Book of Amos chapter 3 and verse 7.
 
 </div>
 
@@ -1367,7 +1363,7 @@ Reading from a closing movie clip  *[[2:56:04](https://www.youtube.com/watch?v=m
 
 *[[2:59:32](https://www.youtube.com/watch?v=mgQLdgfPVEs&t=10772s)]* **Officer:** Hey, Israel, let's give a hand to leadership. All praise the Most High for this great class. A lot of information came out today.
 
-*[[3:00:20](https://www.youtube.com/watch?v=mgQLdgfPVEs&t=10820s)]* **Officer:** Shout out to IUIC leadership. Excellent. All praises to the Most High God. The kitchen team did an excellent job this morning. Shout out to IT. Brother's doing a phenomenal job; just don't delay on them bombs, especially when y'all hosting for the Bishop too. Just remember that. All right, that is real. We say shalom.
+*[[3:00:20](https://www.youtube.com/watch?v=mgQLdgfPVEs&t=10820s)]* **Officer:** Excellent. All praises to the Most High God. The kitchen team did an excellent job this morning. Brother's doing a phenomenal job; just don't delay on them bombs, especially when y'all hosting for the Bishop too. Just remember that. All right, that is real. We say shalom.
 
 ## Announcements & References
 

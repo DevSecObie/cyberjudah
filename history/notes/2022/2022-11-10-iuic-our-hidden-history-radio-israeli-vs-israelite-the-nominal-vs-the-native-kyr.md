@@ -17,7 +17,7 @@ tags: ["Our Hidden History", "edom-esau", "islam-arabs", "so-called-jews", "spai
 
 ## Introduction
 
-*[[1:15](https://www.youtube.com/watch?v=Da3acU7XSXw&t=75s)]* We was looking over these past two weeks. A quick sidebar: we want to make sure we focus on the topic at hand regarding this whole Jew thing with Ye and Kyrie. So we're gonna deal with that today. I gotta deal with it. I can't let it go, I can't let it slide. I'm not gonna let it slide. Okay? Take no more, take this … So those of you who are watching, whether you may be a celebrity or not, I hope you are watching, so you can add this to your arsenal. I'm gonna give you all the historical and biblical ammunition you can use to defend yourselves against the slander of being an anti-Semite, whatever the hell that means.
+*[[1:15](https://www.youtube.com/watch?v=Da3acU7XSXw&t=75s)]* We was looking over these past two weeks. A quick sidebar: we want to make sure we focus on the topic at hand regarding this whole Jew thing with Ye and Kyrie. So we're gonna deal with that today. I gotta deal with it. I can't let it go, I can't let it slide. I'm not gonna let it slide. Take no more, take this … So those of you who are watching, whether you may be a celebrity or not, I hope you are watching, so you can add this to your arsenal. I'm gonna give you all the historical and biblical ammunition you can use to defend yourselves against the slander of being an anti-Semite, whatever the hell that means.
 
 *[[2:28](https://www.youtube.com/watch?v=Da3acU7XSXw&t=148s)]* So let's get into it. The topic is entitled Israeli versus Israelite. Check the title: Nominal versus the Native. All right, Israeli versus Israelite. I'm going to try to be as very politically correct as I possibly can. You know, you people out there that run the media, you are very sensitive. I don't know how you became descendants of David with words hurting your feelings. I don't know how that happened. David was a mighty man. Words that hurt his feelings? Somebody hurt yours, right? That makes you questionable alone in terms of descendants of that man.
 
@@ -31,7 +31,7 @@ Reading from an online etymology of the word *Israeli*, searched on air  *[[3:36
 
 > Israeli: citizen of the state of Israel, 1948,
 
-- So an Israeli is a citizen, a citizen of the state of Israel. 1948, that is the year that they were established as a state. That is the year that this word was coined, Israeli. Okay.
+- So an Israeli is a citizen, a citizen of the state of Israel. 1948, that is the year that they were established as a state. That is the year that this word was coined, Israeli.
 
 > From Israel, Hebrew national designation suffix.
 
@@ -49,7 +49,7 @@ Reading from an online etymology of the word *Israeli*, searched on air  *[[3:36
 
 - So an Israeli is a person that is a citizen of the land, not a descendant of the man, meaning you're not an Israelite. These people who call themselves Jewish today do not call themselves Israelites. If they do, it's very rare. They call themselves Jewish or they call themselves Israelis.
 
-- *[[5:42](https://www.youtube.com/watch?v=Da3acU7XSXw&t=342s)]* Now I heard a new defense they have. They'll say, well, if you call a person that's from Poland Polish, they're from Poland, they're Polish. Okay, cool. I got you. So y'all trying to be a little slick. I got your defense. Cool. So I won't use the word Jewish anymore. I'll just call you Israelis, that's it. Because by your own definition you're not an Israelite. You just live there; you're not of the man. You know those people in the 14th century that were there before you, well before the 14th century? You're an inhabitant, right? You're a ranger. You're a squatter. A squatter, yes. So Israelis is what I'll call you for the rest of the lesson. Well, I'll try my best.
+- *[[5:42](https://www.youtube.com/watch?v=Da3acU7XSXw&t=342s)]* Now I heard a new defense they have. They'll say, well, if you call a person that's from Poland Polish, they're from Poland, they're Polish. I got you. So y'all trying to be a little slick. I got your defense. So I won't use the word Jewish anymore. I'll just call you Israelis, that's it. Because by your own definition you're not an Israelite. You just live there; you're not of the man. You know those people in the 14th century that were there before you, well before the 14th century? You're an inhabitant, right? You're a ranger. You're a squatter. A squatter, yes. So Israelis is what I'll call you for the rest of the lesson. Well, I'll try my best.
 
 - *[[6:23](https://www.youtube.com/watch?v=Da3acU7XSXw&t=383s)]* Give me the definition of native, Merriam. The nominal versus the native, Israeli versus Israelites. So an Israelite is a descendant of the man and the original inhabitant of the land, and an Israeli is an inhabitant of the modern state of the land. Two different things, because Israel's land extended far beyond what it is now. Far beyond.
 
@@ -87,7 +87,7 @@ Reading from the definition of *nominal*, searched on air  *[[8:50](https://www.
 
 > Nominal, adjective: of, relating to, or being a noun.
 
-- Not that. Go to Google. I don't want this, Merriam; just Google it. Nominal. This is a lot better. These are the terms we use. Bring it down.
+- Not that. Go to Google. I don't want this, Merriam; just Google it. Nominal. This is a lot better. These are the terms we use.
 
 > Nominal: of a role or status, existing in name only.
 
@@ -115,7 +115,7 @@ Reading from the definition of *nominal*, searched on air  *[[8:50](https://www.
 
 - **A captain:** I'm hearing from news today that they're monsters too. Starting rappers.
 
-- Yes, right. Look: JDL. JDL, ADL, Jewish Defense League. The extorting gangster-ass rappers at that. Wow. Finkelstein. Finkelstein has got more clout than... wow.
+- Yes, right. Look: JDL. JDL, ADL, Jewish Defense League. The extorting gangster-ass rappers at that. Finkelstein. Finkelstein has got more clout than... wow.
 
 - *[[12:58](https://www.youtube.com/watch?v=Da3acU7XSXw&t=778s)]* So now, this is not hate. This is the Bible. I'm quoting the scripture. That's just the Bible. I don't have to say anything; I just posted it. Why y'all so scared, man? Why y'all so fidgety? You guys is multi-millionaires. Got your own communities, your own government. America gave you guys military technology and forces, for some words? Something's wrong.
 
@@ -129,7 +129,7 @@ Reading from the definition of *nominal*, searched on air  *[[8:50](https://www.
 
 - Which say they are Jews: say they are Jews in name only, title only. And are not. They're not. They're nominal. But do lie. But they're lying about being Jews.
 
-- So he's talking to Israelis, and he's telling the Israelis now they're going to bow down before the Israelites. Soon. Come on, Putin, you taking too long. Come out that bunker. Come on, man. You got the freaking boom. Playing games. You have the freaking technological submarine that can create damn waves and flood New York. Come on, man. I know the Lord's holding you back. I understand. I'm not gonna rush the Most High; it's in his hands.
+- So he's talking to Israelis, and he's telling the Israelis now they're going to bow down before the Israelites. Soon. Come on, Putin, you taking too long. Come out that bunker. You got the freaking boom. Playing games. You have the freaking technological submarine that can create damn waves and flood New York. I know the Lord's holding you back. I understand. I'm not gonna rush the Most High; it's in his hands.
 
 - *[[14:46](https://www.youtube.com/watch?v=Da3acU7XSXw&t=886s)]* Let's get Luke 1 and 5. So the Lord calls those who say that they are Jews and are not liars, and that they're the devil the Bible speaks of. That's what the Messiah said. And that's why these particular nominals or Israelis, most of them denounce the Messiah of the Bible, because they know what he's saying is referring to them.
 
@@ -141,9 +141,9 @@ Reading from the definition of *nominal*, searched on air  *[[8:50](https://www.
 
 - In the days of Herod, the king of Judea. When you say king of Judea, he's the king of the Jews. You got to be a Jew. This man was not a Jew. This man was Jewish. Herod comes from a family of Idumeans that were converted to the Judaic customs, or the Bible pretty much. I'm gonna get to that soon.
 
-- Herod was of a dynasty of Herods that came out of a man named Antipater. I'm gonna get to that today, because it's in their books. I'ma use their books to show what I'm talking about. You know, a black man's voice don't mean a damn thing to y'all, right? We gotta get the white man to co-sign so you can agree, you can understand. So that's Bible. Oh, white man wrote that? Okay.
+- Herod was of a dynasty of Herods that came out of a man named Antipater. I'm gonna get to that today, because it's in their books. I'ma use their books to show what I'm talking about. You know, a black man's voice don't mean a damn thing to y'all, right? We gotta get the white man to co-sign so you can agree, you can understand. So that's Bible. Oh, white man wrote that?
 
-- *[[16:38](https://www.youtube.com/watch?v=Da3acU7XSXw&t=998s)]* So Herod was the king of the Jews, but he was not a Jew himself. He was Jewish. He was an Israeli. Okay? He was a nominal, him and his people.
+- *[[16:38](https://www.youtube.com/watch?v=Da3acU7XSXw&t=998s)]* So Herod was the king of the Jews, but he was not a Jew himself. He was Jewish. He was an Israeli. He was a nominal, him and his people.
 
 - Now get me Westminster. This is a Westminster dictionary here, *The New Westminster Dictionary of the Bible*. Page 379. I'll read along with you. We're going to read the definition of Herod. Let me see it, so they can't say I'm making it up. The top paragraph on the right.
 
@@ -173,7 +173,7 @@ Reading from *The New Westminster Dictionary of the Bible*, page 379, the entry 
 
 > though the Idumeans, who had been conquered by John Hyrcanus
 
-- The Idumeans were conquered by the Hasmonean family, the Maccabee family. You had Simon, Eleazar, Johanan, Judas; there's five of them. And Simon was killed. His son survived. Simon was assassinated; his son John, who became John Hyrcanus, survived, and he began to expand Jerusalem more and more, its territories. So to expand territory, the nations are either going to bow down or get removed. Read it again.
+- The Idumeans were conquered by the Hasmonean family, the Maccabee family. You had Simon, Eleazar, Johanan, Judas; there's five of them. And Simon was killed. His son survived. Simon was assassinated; his son John, who became John Hyrcanus, survived, and he began to expand Jerusalem more and more, its territories. So to expand territory, the nations are either going to bow down or get removed.
 
 > Thus neither by the father's nor the mother's side was Herod a real Jew, though the Idumeans, who had been conquered by John Hyrcanus and compelled to be circumcised
 
@@ -283,7 +283,7 @@ Reading from *The New Westminster Dictionary of the Bible*, page 241, continued 
 
 > <sup>[65](/bible/1-maccabees/5#v65)</sup> Afterward went Judas forth with his brethren, and fought against the children of Esau in the land toward the south, where he smote Hebron, and the towns thereof, and pulled down the fortress of it, and burned the towers thereof round about.
 
-- Watch this. Judas is John Hyrcanus's uncle, the Maccabee family. Judas and his brethren.
+- Judas is John Hyrcanus's uncle, the Maccabee family. Judas and his brethren.
 
 - Why? Because the … took the land over. When the Babylonians took us out of our land, it was somewhat desolate; they moved in. So whenever Israel is removed from their land, Edom will come and move in. Sound familiar?
 
@@ -295,7 +295,7 @@ Reading from *The New Westminster Dictionary of the Bible*, page 241, continued 
 
 > <sup>[45](/bible/1-esdras/4#v45)</sup> Thou also hast vowed to build up the temple, which the Edomites burned when Judea was made desolate by the Chaldees.
 
-- Watch this. When Judea was made desolate by the Babylonians. So he said, rase it, rase it. That was Edom. They burned the temple. Now jump to verse 50. Watch this.
+- When Judea was made desolate by the Babylonians. So he said, rase it, rase it. That was Edom. They burned the temple. Now jump to verse 50.
 
 > <sup>[50](/bible/1-esdras/4#v50)</sup> And that all the country which they hold should be free without tribute; and that the Edomites should give over the villages of the Jews which then they held:
 
@@ -307,7 +307,7 @@ Reading from *The New Westminster Dictionary of the Bible*, page 241, continued 
 
 - **A captain:** We know. We read. One of your biggest mistakes was letting us read, man.
 
-- Right, right. He can read now. Now you understand. So now let's go back to where we're at, the dictionary again.
+- He can read now. Now you understand. So now let's go back to where we're at, the dictionary again.
 
 <div class="reading">
 
@@ -353,7 +353,7 @@ Reading from *The New Westminster Dictionary of the Bible*, page 241, continued 
 
 > <sup>[14](/bible/2-kings/24#v14)</sup> And he carried away all Jerusalem, and all the princes, and all the mighty men of valour, even ten thousand captives, and all the craftsmen and smiths: none remained, save the poorest sort of the people of the land.
 
-- None remained, save the poorest sort of the people of the land. That's the somewhat. So the land was somewhat desolate, because the poor were allowed to stay and maintain the vines and the fields and so forth, under Babylonian governors instead of governors of our own people over that. But very, very few of us were left in the land. Like Habakkuk was left behind in the land. Okay?
+- None remained, save the poorest sort of the people of the land. That's the somewhat. So the land was somewhat desolate, because the poor were allowed to stay and maintain the vines and the fields and so forth, under Babylonian governors instead of governors of our own people over that. But very, very few of us were left in the land. Like Habakkuk was left behind in the land.
 
 - So this is the king of the Jews. Jehoiachin was removed from being king. His uncle Zedekiah was put in place, did the same thing, got his eyes taken out, got put to death. And that was the last king. That was the last real king of the Jews. Zedekiah was the last one that sat in the throne at this point in time, until we started getting the elders over us, the Pharisees and so forth. That came later on.
 
@@ -383,7 +383,7 @@ Reading from *The New Westminster Dictionary of the Bible*, page 241, continued 
 >
 > <sup>[9](/bible/2-kings/25#v9)</sup> And he burnt the house of the Lord, and the king’s house, and all the houses of Jerusalem, and every great man’s house burnt he with fire.
 
-- Watch this. He burnt Jerusalem down to the ground.
+- He burnt Jerusalem down to the ground.
 
 > <sup>[10](/bible/2-kings/25#v10)</sup> And all the army of the Chaldees, that were with the captain of the guard, brake down the walls of Jerusalem round about.
 
@@ -413,7 +413,7 @@ Reading from *The New Westminster Dictionary of the Bible*, page 241, continued 
 
 > <sup>[30](/bible/2-kings/25#v30)</sup> And his allowance was a continual allowance given him of the king, a daily rate for every day, all the days of his life.
 
-- So the Lord had mercy on Jehoiachin while in captivity. And this Jehoiachin is the forefather of Zerubbabel. He is the ancestor of Christ. Okay? He's not allowed to sit in the throne anymore, but his children on the line were born in Babylon. That's the name Zerubbabel itself: it means born in Babylon, or the seat of Babylon. He was born there. Jehoiachin's children were born in Babylon, and that's how Zerubbabel came, and then on the line you had Joseph, who fathered Christ, and so on and so forth. That's in Matthew 1. Matthew 1 mentions this; mentions him.
+- So the Lord had mercy on Jehoiachin while in captivity. And this Jehoiachin is the forefather of Zerubbabel. He is the ancestor of Christ. He's not allowed to sit in the throne anymore, but his children on the line were born in Babylon. That's the name Zerubbabel itself: it means born in Babylon, or the seat of Babylon. He was born there. Jehoiachin's children were born in Babylon, and that's how Zerubbabel came, and then on the line you had Joseph, who fathered Christ, and so on and so forth. That's in Matthew 1. Matthew 1 mentions this; mentions him.
 
 - So now, he was the second to last king of Judah, of the real king of the real Jews. King of the Jews.
 
@@ -421,7 +421,7 @@ Reading from *The New Westminster Dictionary of the Bible*, page 241, continued 
 
 - I know how much the book worth, Cap. The book on Amazon right now is 548 dollars and 20 cents.
 
-- **A captain:** Oh wow. Oh boy, oh boy.
+- **A captain:** Oh boy, oh boy.
 
 -  *Jewish Civilization*, a 500 dollar book, for a bunch of pages. Page 94. We're going to start from 'in the book' and we're going to end at 11th century.
 
@@ -431,7 +431,7 @@ Reading from *Jewish Civilization*, page 94, on the legend of Rabbi Simeon bar Y
 
 > In the book *The Secrets of Rabbi Simeon bar Yohai*,
 
-- This is a rabbi that was around during the Dark Ages. Okay. But we want to read what he said, watch this, regarding Edom.
+- This is a rabbi that was around during the Dark Ages. But we want to read what he said, watch this, regarding Edom.
 
 > written in Palestine in the 8th century,
 
@@ -445,7 +445,7 @@ Reading from *Jewish Civilization*, page 94, on the legend of Rabbi Simeon bar Y
 
 > When he saw the kingdom of the sons of Ishmael
 
-- So this rabbi, he saw that the Arabs, Ishmael, through Islam, would gain strong, heavy dominion over the world. Because Islam grew heavy; it spread worldwide, and they were conquering land by land. Okay? So he saw, okay, the Arabs are going to take over. For a long time Rome ruled. He saw later on that the Arabs, the Muslims, were on the come up. So that's what he says. Because Muhammad came around, was born around the 600s. The 700s is when his religion spread, and it spread really fast. Read it again.
+- So this rabbi, he saw that the Arabs, Ishmael, through Islam, would gain strong, heavy dominion over the world. Because Islam grew heavy; it spread worldwide, and they were conquering land by land. So he saw, okay, the Arabs are going to take over. For a long time Rome ruled. He saw later on that the Arabs, the Muslims, were on the come up. So that's what he says. Because Muhammad came around, was born around the 600s. The 700s is when his religion spread, and it spread really fast.
 
 > When he saw that the kingdom of the sons of Ishmael
 
@@ -453,7 +453,7 @@ Reading from *Jewish Civilization*, page 94, on the legend of Rabbi Simeon bar Y
 
 > would eventually spread throughout the world, Rabbi Simeon bar Yohai wept and said, Lord of the Universe, is it not enough for your sons what the evil kingdom of Edom, Rome, did to them?
 
-- Whoa. So our people called Rome Edom, because it's the same people. The Romans were …, and they set up an Edomite, an Idumean, Herod, over us. The same people. So when Christ said, write this down, John, I know the blasphemy of them which say they are Jews and are not, he was talking to the Herodians, but Romans too. All right? Because the Romans became so-called also. It's the same people. You're still … in general.
+- Whoa. So our people called Rome Edom, because it's the same people. The Romans were …, and they set up an Edomite, an Idumean, Herod, over us. The same people. So when Christ said, write this down, John, I know the blasphemy of them which say they are Jews and are not, he was talking to the Herodians, but Romans too. Because the Romans became so-called also. It's the same people. You're still … in general.
 
 > Lord of the Universe, is it not enough for your sons what the evil kingdom of Edom, Rome, did to them, that you must also send the kingdom of Ishmael against us?
 
@@ -469,7 +469,7 @@ Reading from *Jewish Civilization*, page 94, on the legend of Rabbi Simeon bar Y
 
 > Babylonian Jewry. During the generations in which the Romans succeeded in dimming the glow of the Jewish center in Palestine, Babylonian Jewry was well off.
 
-- So prior to the Romans overthrowing us at 70 AD, our status in Babylon was very, very high. It was very, very prominent. Okay? Before the Romans overthrew us.
+- So prior to the Romans overthrowing us at 70 AD, our status in Babylon was very, very high. It was very, very prominent. Before the Romans overthrew us.
 
 > In Babylon there were neither conversions nor plunder there, and neither Greece, Byzantium, nor Edom, Rome, ruled them, and the Lord did the Jews a favor
 
@@ -493,13 +493,13 @@ Reading from *Jewish Civilization*, page 94, on the legend of Rabbi Simeon bar Y
 
 > This Jewry, with its state and religious institutions; difficult inquiries from all the lands of the diaspora were directed to it.
 
-- Any problems we had, we all ran to Babylon, where the elders were. So that became our new Jerusalem. Okay.
+- Any problems we had, we all ran to Babylon, where the elders were. So that became our new Jerusalem.
 
 > This was the case during the periods of the Babylonian Jewish scholars in the period 500 to 700 A.D., and the scholars in Babylonia from the 6th to the 11th centuries.
 
-- Until the end of the 11th century. Right? Until the Arabs came along and overthrew us from there. So now, my point is, we had a heavy presence in Babylon. Keep that in mind.
+- Until the end of the 11th century. Until the Arabs came along and overthrew us from there. So now, my point is, we had a heavy presence in Babylon. Keep that in mind.
 
-- *[[48:35](https://www.youtube.com/watch?v=Da3acU7XSXw&t=2915s)]* Go to what I want. Page 96. I'm gonna go to Khazars. Oh, Khazars is here. Why is that there? Oh. Babylonian Jewry, Khazars. Interesting. What's the significance in that? The Khazars. Who's the Khazars? And it's found in this 500 dollar book. Let's read the other side of the page.
+- *[[48:35](https://www.youtube.com/watch?v=Da3acU7XSXw&t=2915s)]* Go to what I want. Page 96. I'm gonna go to Khazars. Oh, Khazars is here. Why is that there? Babylonian Jewry, Khazars. Interesting. What's the significance in that? The Khazars. Who's the Khazars? And it's found in this 500 dollar book. Let's read the other side of the page.
 
 </div>
 
@@ -513,13 +513,13 @@ Reading from *Jewish Civilization*, page 96, the Khazars  *[[49:05](https://www.
 
 > numerous tribes in the Arabian Peninsula
 
-- That's where the Muslims got Islam: from the Jews. Muhammad. So the Jews in their way of life, the way of living, and he adopted his religion based upon his observance of the Jews and their interactions with our laws. That's what inspired him to come up with Islam. Many Muslims will deny this. The smart ones understand this. Okay.
+- That's where the Muslims got Islam: from the Jews. Muhammad. So the Jews in their way of life, the way of living, and he adopted his religion based upon his observance of the Jews and their interactions with our laws. That's what inspired him to come up with Islam. Many Muslims will deny this. The smart ones understand this.
 
 > numerous tribes in the Arabian Peninsula and in the various lands of the Near and Middle East adopted Judaism. The most famous of these were the Khazars.
 
-- Oh. The most famous of these people that adopted Judaism were the Khazars. I remember earlier I showed you the history of how John Hyrcanus compelled or forced the Idumeans, who became Romans and Greeks but also became converts or nominal Jews, and were set to reign over us as our kings during the time of the Messiah and the disciples. It says here that these guys also were converted, called Khazars.
+- The most famous of these people that adopted Judaism were the Khazars. I remember earlier I showed you the history of how John Hyrcanus compelled or forced the Idumeans, who became Romans and Greeks but also became converts or nominal Jews, and were set to reign over us as our kings during the time of the Messiah and the disciples. It says here that these guys also were converted, called Khazars.
 
-- *[[50:38](https://www.youtube.com/watch?v=Da3acU7XSXw&t=3038s)]* Now whenever this word is thrown out there, the immediate defense comes up: oh, anti-Semites. I'm just speaking about Khazars. That's all I'm doing. I'm just saying what's in the 500 dollar book. A book that y'all put together. Let's see who wrote it. Maybe this is my name. Let's see. Dr. Bezalel Narkiss. Sound black to me. Dr. Samuel Abramsky, David Flusser, Professor Abraham Schalit, Dr. Michael Ziv. Massada Limited, Jerusalem, Tel Aviv. Oh, these are their records. These are their records. Wow. Israelis. We didn't write this. Continue.
+- *[[50:38](https://www.youtube.com/watch?v=Da3acU7XSXw&t=3038s)]* Now whenever this word is thrown out there, the immediate defense comes up: oh, anti-Semites. I'm just speaking about Khazars. That's all I'm doing. I'm just saying what's in the 500 dollar book. A book that y'all put together. Let's see who wrote it. Maybe this is my name. Let's see. Dr. Bezalel Narkiss. Sound black to me. Dr. Samuel Abramsky, David Flusser, Professor Abraham Schalit, Dr. Michael Ziv. Massada Limited, Jerusalem, Tel Aviv. Oh, these are their records. These are their records. Israelis. We didn't write this. Continue.
 
 > The land of the Khazars in southern Russia extended from the Caspian Sea to the Black Sea.
 
@@ -531,7 +531,7 @@ Reading from *Jewish Civilization*, page 96, the Khazars  *[[49:05](https://www.
 
 > At the beginning of the 8th century the Khazars became very strong by virtue of their dominion of the trade route between the Byzantines and the Far East.
 
-- So they were situated between the Holy Roman Empire, which were following Christianity, the Catholicism, and between the Muslims, the caliphs. The Khazars were in the middle. They were very strong, so neither side could defeat the Khazars. And in order for one to get to the other, they had to cross through the Khazars. So the Byzantine Empire was trying to win the Khazars over to their side, while the Muslims were trying to move them over to their side, to defeat each other. But the Khazars were neutral. We didn't follow neither one of y'all. We're pagan. We're good. We ain't Muslim nor Christian. We just us, at this time, during the 8th century. Okay.
+- So they were situated between the Holy Roman Empire, which were following Christianity, the Catholicism, and between the Muslims, the caliphs. The Khazars were in the middle. They were very strong, so neither side could defeat the Khazars. And in order for one to get to the other, they had to cross through the Khazars. So the Byzantine Empire was trying to win the Khazars over to their side, while the Muslims were trying to move them over to their side, to defeat each other. But the Khazars were neutral. We didn't follow neither one of y'all. We're pagan. We're good. We ain't Muslim nor Christian. We just us, at this time, during the 8th century.
 
 > For this reason both the Byzantine Empire and the Baghdad caliphs were interested in cultivating the Khazars and in bringing them under their influence by winning them over to their religion,
 
@@ -567,7 +567,7 @@ Reading from *Jewish Civilization*, page 96, the Khazars  *[[49:05](https://www.
 
 > The Khagan noticed that both the Christian and the Muslim debaters referred to the Jewish Torah to support their arguments.
 
-- So both the Muslim and the Christian referred back to that Bible to push both their agendas. Watch this. This king was smart.
+- So both the Muslim and the Christian referred back to that Bible to push both their agendas. This king was smart.
 
 > The Christian priest admitted that the Jewish religion was superior to that of Muhammad,
 
@@ -591,7 +591,7 @@ Reading from *Jewish Civilization*, page 96, the Khazars  *[[49:05](https://www.
 
 > This disaster marked the beginning of the Khazars' political decline.
 
-- Jump down to Masoretes, the first sentence. In Babylonia, remember, the Jews had a strong presence in Babylon. Watch this. You had a group called the Masoretes in Babylonia.
+- Jump down to Masoretes, the first sentence. In Babylonia, remember, the Jews had a strong presence in Babylon. You had a group called the Masoretes in Babylonia.
 
 > Meanwhile, a traditional Jewish culture based on the Talmud developed.
 
@@ -599,11 +599,11 @@ Reading from *Jewish Civilization*, page 96, the Khazars  *[[49:05](https://www.
 
 > But Judaism also provided other channels of creative activity, in the form of literature both sacred and profane.
 
-- *[[57:03](https://www.youtube.com/watch?v=Da3acU7XSXw&t=3423s)]* Jump down a sentence. So Talmudism became popular in Babylon among our people, because that's where it came from, Babylon. The little caps come from there, the whiskers. We were doing that. Damn, that's what they got it from. Because we went over there and taught the Babylonians the Bible, and they bought the curls along with us, and they adopted it, and they still do it today. That's the Babylonian custom, curls and caps. You won't find that in Torah. You're not gonna find it anywhere in the Bible, curls being worn. It's not biblical. It's Talmudic. And the Talmud is of Babylonian origin. Read that.
+- *[[57:03](https://www.youtube.com/watch?v=Da3acU7XSXw&t=3423s)]* Jump down a sentence. So Talmudism became popular in Babylon among our people, because that's where it came from, Babylon. The little caps come from there, the whiskers. We were doing that. Damn, that's what they got it from. Because we went over there and taught the Babylonians the Bible, and they bought the curls along with us, and they adopted it, and they still do it today. That's the Babylonian custom, curls and caps. You won't find that in Torah. You're not gonna find it anywhere in the Bible, curls being worn. It's not biblical. It's Talmudic. And the Talmud is of Babylonian origin.
 
 > The political and religious organization of Babylonian Jewry was based on the Talmud.
 
-- The Babylonian Jewry was based upon the Talmud. Damn. That's what it is. And they call it what today? Don't call it Zionist; that's the government. But it's Talmudism. Okay.
+- The Babylonian Jewry was based upon the Talmud. Damn. That's what it is. And they call it what today? Don't call it Zionist; that's the government. But it's Talmudism.
 
 > Whatever threatened the supremacy of the Talmud also constituted a menace to the public institutions and the precepts of the Jewish religion.
 
@@ -635,37 +635,37 @@ Reading from *Jewish Civilization*, page 60, the caption under the relief from t
 
 > The relief on the Arch of Titus in Rome depicting this procession shows the seven-branched candelabrum
 
-- That's the seven-branch menorah. Seven-branched. Okay. It was carried out of the temple. Did it have eight or nine? They had seven. It's giant. It's huge. You see two men holding it.
+- That's the seven-branch menorah. Seven-branched. It was carried out of the temple. Did it have eight or nine? They had seven. It's giant. It's huge. You see two men holding it.
 
 > as well as the golden altar with its accessories.
 
-- With all these things found in the Smithsonian, Vatican, in vaults. In vaults that are … proof. You ain't going there. There were no … down there. No, no, no. … you stay in the corner and sell your drugs and rap your trap music and dribble the ball, and have your drink, champs. Don't think, champs. … drink, just drink and be quiet. Don't think. Drink, …, don't think. Be quiet, damn, and be a champion. That's all you do. I appreciate you. Thank you, master. Thank you, sir. I appreciate my show. Thank you so much.
+- With all these things found in the Smithsonian, Vatican, in vaults. In vaults that are … proof. You ain't going there. There were no … down there. No, no, no. … you stay in the corner and sell your drugs and rap your trap music and dribble the ball, and have your drink, champs. Don't think, champs. … drink, just drink and be quiet. Don't think. Drink, …, don't think. Be quiet, damn, and be a champion. That's all you do. I appreciate you. I appreciate my show. Thank you so much.
 
-- Super Thug. What, what, what. Right, right, right. For his show, right. It's just sad, man. Super Thug. I became super scared. Interesting. Anyway, where are we at? Shots fired. Give me page 100. Take a quick break. Matter of fact, you want to say anything?
+- Super Thug. What, what, what. For his show, right. It's just sad, man. Super Thug. I became super scared. Interesting. Anyway, where are we at? Shots fired. Give me page 100. Take a quick break. Matter of fact, you want to say anything?
 
 - **A captain:** I'm a student right now. Where's the gavel? Guilty, guilty, guilty. I'm literally taking notes right now.
 
-- All right. So I'm gonna keep going, I'm gonna take a break. Keep going.
+- So I'm gonna keep going, I'm gonna take a break.
 
-- **A captain:** You're bringing out the 500 dollar books. And as a matter of fact, hey, we have Zoom available, brothers and sisters, as this knowledge is coming out. Zoom in. Zoom in. We're anti-Semites, right? On a PSR platform. But it's Our Hidden History. Keep bringing it out, dropping bombs on the nominals right now. So come on, zoom in, y'all. Come on now. We want to hear from y'all. Come and argue your scholars' books.
+- **A captain:** You're bringing out the 500 dollar books. And as a matter of fact, hey, we have Zoom available, brothers and sisters, as this knowledge is coming out. We're anti-Semites, right? On a PSR platform. But it's Our Hidden History. Keep bringing it out, dropping bombs on the nominals right now. So come on, zoom in, y'all. We want to hear from y'all. Come and argue your scholars' books.
 
-- Right. Or you want the nominals to zoom in? Whoever. Hey, nominal, zoom in, man. You explain to us this anti-Semitic thing. We so stupid.
+- Or you want the nominals to zoom in? Whoever. Hey, nominal, zoom in, man. You explain to us this anti-Semitic thing. We so stupid.
 
-- **A captain:** They just trying to zoom in on them books. Hey, where's the … zoom in? Where you at? Come on. Guilty.
+- **A captain:** They just trying to zoom in on them books. Hey, where's the … zoom in? Where you at? Guilty.
 
 </div>
 
 *[[1:03:59](https://www.youtube.com/watch?v=Da3acU7XSXw&t=3839s)]* *Jewish Civilization*, page 100. We're gonna start at the Jews of Cordoba.
 
-*[[1:04:05](https://www.youtube.com/watch?v=Da3acU7XSXw&t=3845s)]* **A captain:** Now to those of you who say that us being Jews is a lie and it's not true, I need you to explain to me the history of the edicts that were passed by Pope Nicholas V, known as Dum Diversas and Romanus Pontifex. Because those edicts were passed to establish the colonial rule of the Spanish crown, or Hispanic Romans, same people, Romans that ruled over Spain. They passed the law that gave them the right to enslave non-Christian dark inhabitants of Africa. And then later on you had Rodrigo Borgia, Pope Alexander VI of Rome, who passed a law called Inter something like that, which was passed to enslave the Native Americans on this side of the world. That came after the Romanus Pontifex. Okay. And those edicts were passed during the Spanish Inquisition, during the time when Jews and Moors, same people, were being expelled out of Spain and Portugal, and enslaved and forced to work in areas of plantations such as New Guinea, Cape Verde and many other places. Okay? Canary Islands as well. Columbus also involved himself in slave trading over there, of our brothers over there in the Canary Islands, prior to coming over here. You don't know about that, though.
+*[[1:04:05](https://www.youtube.com/watch?v=Da3acU7XSXw&t=3845s)]* **A captain:** Now to those of you who say that us being Jews is a lie and it's not true, I need you to explain to me the history of the edicts that were passed by Pope Nicholas V, known as Dum Diversas and Romanus Pontifex. Because those edicts were passed to establish the colonial rule of the Spanish crown, or Hispanic Romans, same people, Romans that ruled over Spain. They passed the law that gave them the right to enslave non-Christian dark inhabitants of Africa. And then later on you had Rodrigo Borgia, Pope Alexander VI of Rome, who passed a law called Inter something like that, which was passed to enslave the Native Americans on this side of the world. That came after the Romanus Pontifex. And those edicts were passed during the Spanish Inquisition, during the time when Jews and Moors, same people, were being expelled out of Spain and Portugal, and enslaved and forced to work in areas of plantations such as New Guinea, Cape Verde and many other places. Canary Islands as well. Columbus also involved himself in slave trading over there, of our brothers over there in the Canary Islands, prior to coming over here. You don't know about that, though.
 
 *[[1:05:46](https://www.youtube.com/watch?v=Da3acU7XSXw&t=3946s)]* **A captain:** So that right there, the transatlantic slave trade was started off by the Spanish Inquisition. It started off with the Ottoman Turks, which were Muslims, that they spoke about earlier, the sons of Ishmael. The Ottoman Turks, they came with Islam as well, and they came conquering. They didn't come converting; they came conquering. You would convert or die. The original Arabs that came with it, they were more peaceful: convert, whatever, and we follow. But these were by force. These Turks came along, and these same Spanish and Portuguese that expelled us sold us into their hands, or the Muslim Africans' hands. And that's how the trade began. The forerunners of slavery started with the Arabs, the Portuguese, the Arabs and Africans. But the start-up was able to be possible based upon the edicts passed during the Spanish Inquisition. The Spanish Inquisition is the forerunner of the trans-Saharan and transatlantic slave trade. Say I'm lying.
 
-**Deacon Eythan:** Right, right, right. Say I'm lying. That was started by the pope.
+**Deacon Eythan:** Say I'm lying. That was started by the pope.
 
-**A captain:** By the pope. Yeah. Nicholas. Exactly. So you have Dum Diversas. Research it for yourself. Dum Diversas is one edict, and Romanus Pontifex followed behind it. And then Pope Alexander VI of Rome, the Borgia pope, he passed one; he tried to pass one to bring those same edicts to this side of the world, to enslave Native Americans. Right? Which they did. Deacon, they had inquisitions over here, in Brazil and other places, Mexico as well. Then they call that Inter Caetera. Yes, Inter Caetera, that's the one. So Inter Caetera, I did a 15 Minutes with that. Okay. 15 Minutes, that's the video. So what they did was, from say the Canary Islands, everything west of the Canary Islands, they were able to basically dominate the whole entire planet Earth by creating edicts. Everything west of the Canary Islands, saying, we can enslave the pagans, the Saracens and so forth. Everything west belongs to the queen of Spain. You understand? That's what they did with Inter Caetera. Right. And the church pretty much dominated the crown. The church was higher than the crown. So if the church said, the crown had to go along with it. The church had higher power and status than the kings and queens. So what the church, the Christian church, said went. So what's it called again? Inter Caetera. That was the father of the man who you call Jesus Christ today, right? His son is depicted as... was his son.
+**A captain:** By the pope. Yeah. Nicholas. Exactly. So you have Dum Diversas. Research it for yourself. Dum Diversas is one edict, and Romanus Pontifex followed behind it. And then Pope Alexander VI of Rome, the Borgia pope, he passed one; he tried to pass one to bring those same edicts to this side of the world, to enslave Native Americans. Which they did. Deacon, they had inquisitions over here, in Brazil and other places, Mexico as well. Then they call that Inter Caetera. Yes, Inter Caetera, that's the one. So Inter Caetera, I did a 15 Minutes with that. Okay. 15 Minutes, that's the video. So what they did was, from say the Canary Islands, everything west of the Canary Islands, they were able to basically dominate the whole entire planet Earth by creating edicts. Everything west of the Canary Islands, saying, we can enslave the pagans, the Saracens and so forth. Everything west belongs to the queen of Spain. That's what they did with Inter Caetera. And the church pretty much dominated the crown. The church was higher than the crown. So if the church said, the crown had to go along with it. The church had higher power and status than the kings and queens. So what the church, the Christian church, said went. So what's it called again? Inter Caetera. That was the father of the man who you call Jesus Christ today, right? His son is depicted as... was his son.
 
-**A captain:** Right. And that was 1493.
+**A captain:** And that was 1493.
 
 **A captain:** Yes. A year after Columbus's expedition. Where's the bombs at, brothers? Let's go to page 100. The Jews of Cordoba.
 
@@ -679,7 +679,7 @@ Reading from *Jewish Civilization*, pages 100 and 101, the Jews of Cordoba and S
 
 > constituted the richest, most powerful Jewish community in Europe, and its prestige was enhanced still more when Rabbi Moshe settled in it. The reason which the Jews of Cordoba gave to Caliph Abd al-Rahman
 
-- A Muslim. Hasdai was pretty much an ambassador of the Muslim caliph, of the caliphs. He was like a spokesman. He would travel to different places. He's an ambassador, a Jew ambassador of the Muslims, pretty much. Okay.
+- A Muslim. Hasdai was pretty much an ambassador of the Muslim caliph, of the caliphs. He was like a spokesman. He would travel to different places. He's an ambassador, a Jew ambassador of the Muslims, pretty much.
 
 > for allowing Rabbi Moshe to remain with them is characteristic.
 
@@ -715,7 +715,7 @@ Reading from *Jewish Civilization*, pages 100 and 101, the Jews of Cordoba and S
 
 > were more moderate than the Christian Church in their attitude toward the Jews.
 
-- Right. During this time, before the Ottoman Turks came about later on.
+- During this time, before the Ottoman Turks came about later on.
 
 > The fourth community, in southern France, was also located in a part of Europe in which the oppressive hand of the Pope was not felt.
 
@@ -781,7 +781,7 @@ Reading from *Jewish Civilization*, pages 100 and 101, the Jews of Cordoba and S
 
 > <sup>[6](/bible/zechariah/9#v6)</sup> And a bastard shall dwell in Ashdod, and I will cut off the pride of the Philistines.
 
-- **A captain:** We visited Ashdod. It's over there in Israel. Okay. The Bible. Don't think it's anti-Semitism. No, not at all. This is Bible talk. You'd have to burn all the Bibles on the planet in order for us to stop, and we still ain't gonna stop teaching if you did that. But I sent something over, and I want y'all to put it on the screen, and I want somebody to read it, please. I'll send it to you. And this is from a book from the white man.
+- **A captain:** We visited Ashdod. It's over there in Israel. The Bible. Don't think it's anti-Semitism. No, not at all. This is Bible talk. You'd have to burn all the Bibles on the planet in order for us to stop, and we still ain't gonna stop teaching if you did that. But I sent something over, and I want y'all to put it on the screen, and I want somebody to read it, please. I'll send it to you. And this is from a book from the white man.
 
 - That's right. Here we go. Blow it up. I'll read it.
 
@@ -791,11 +791,11 @@ Reading from a passage sent in by the guest and put on the screen, from a book h
 
 > genetic connection with the biblical Jews of Palestine at all. And this was known among themselves and among the more astute Jewish and non-Jewish historians and linguists
 
-- Where's the page? How come I don't see it? Is it on the screen? I'ma read that again.
+- Where's the page? How come I don't see it? Is it on the screen?
 
 > And this was known among themselves, among the more astute Jewish and non-Jewish historians and linguists, from at least 1700 A.D. It was a well-known, if disguised and ignored, fact of Jewish life from 1850 onward. Most of what we Gentiles in North America consider to be Jewish, and most of what even the Ashkenazim and immigrants into North America considered to be Jewish, is not Jewish at all.
 
-- Oh, I thought you're gonna say something on that. All right. Was there more?
+- Oh, I thought you're gonna say something on that. Was there more?
 
 > The rabbis' fur-trimmed hats and... whatever, none of that is Jewish. Not in the sense that it originated from the people of Abraham in ancient Palestine. It is all Khazar.
 
@@ -815,7 +815,7 @@ Reading from a passage sent in by the guest and put on the screen, from a book h
 
 > <sup>[10](/bible/revelation/2#v10)</sup> Fear none of those things which thou shalt suffer: behold, the devil shall cast some of you into prison, that ye may be tried; and ye shall have tribulation ten days: be thou faithful unto death, and I will give thee a crown of life.
 
-- **A captain:** Wait a minute. Not right there. The devil is the same synagogue, the same synagogue of Satan, who made laws and legislation to arrest the real black Jews. That's prison. Ten days. The tribulation goes into affliction and torture. I'm telling y'all what's going to happen. The spirit of the seven churches is back in the earth today. That's why it's written. Don't think it was just for back then. Although those things happened back then, they're going to happen again. Hold on. I'll let you go, y'all.
+- **A captain:** Wait a minute. Not right there. The devil is the same synagogue, the same synagogue of Satan, who made laws and legislation to arrest the real black Jews. That's prison. Ten days. The tribulation goes into affliction and torture. I'm telling y'all what's going to happen. The spirit of the seven churches is back in the earth today. That's why it's written. Don't think it was just for back then. Although those things happened back then, they're going to happen again. I'll let you go, y'all.
 
 - Applause. The gig is up. We didn't write these books, man. We didn't write these books. We didn't write that book either. Romans chapter 15, verse 24.
 
@@ -827,7 +827,7 @@ Reading from a passage sent in by the guest and put on the screen, from a book h
 
 > <sup>[28](/bible/romans/15#v28)</sup> When therefore I have performed this, and have sealed to them this fruit, I will come by you into Spain.
 
-- Because of you, the Jews in Spain. He's talking to the Jews in Spain. Okay. That's what he's alluding to.
+- Because of you, the Jews in Spain. He's talking to the Jews in Spain. That's what he's alluding to.
 
 - *[[1:22:31](https://www.youtube.com/watch?v=Da3acU7XSXw&t=4951s)]* So now get me page 101, and we're gonna end at... where did we stop? Oh, we stopped at 'toward the Jews'. Where is it? Visigothic, the Germanic... then the next paragraph. Page 101, end at 'possession'. Okay, we ended up there. That's all right. I jumped ahead. Go to Wikipedia. Go to Khazars. That's right, so it's meant to be. Wikipedia, Khazars, please. This is where the fun starts. It gets deeper and deeper.
 
@@ -837,11 +837,11 @@ Reading from the Wikipedia article *Khazars*, put on the screen  *[[1:23:35](htt
 
 > The Khazars were a semi-nomadic Turkic people
 
-- Turkic people. Okay. We just read this in *Jewish Civilization*, the exact same thing. Semi-nomadic.
+- Turkic people. We just read this in *Jewish Civilization*, the exact same thing. Semi-nomadic.
 
 > that in the late 6th century CE established a major commercial empire covering the southeastern section of modern European Russia, southern Ukraine, Crimea and Kazakhstan. They created what for its duration was the most powerful polity to emerge from the breakup of the Western Turkic Khaganate.
 
-- Khaganate goes back to Khagan. Khagan Bulan. Turkic Khaganate. Damn. Now that's all I want. Let's jump on down to... it's called the Ashkenazi-Khazar theories. Now it's a theory now. Right. Even though it's in your books. Okay, I'll play this game. Read all that, and we're going to end at 'political issues'.
+- Khaganate goes back to Khagan. Khagan Bulan. Turkic Khaganate. Damn. Now that's all I want. Let's jump on down to... it's called the Ashkenazi-Khazar theories. Now it's a theory now. Even though it's in your books. Okay, I'll play this game. Read all that, and we're going to end at 'political issues'.
 
 > Several scholars have suggested that the Khazars did not disappear after the dissolution of the Empire, but migrated west to eventually form part of the core of the latter Ashkenazi Jewish population of Europe.
 
@@ -849,11 +849,11 @@ Reading from the Wikipedia article *Khazars*, put on the screen  *[[1:23:35](htt
 
 > This hypothesis
 
-- You gotta read between the lines. This hypothesis. So they're saying it's fake, right? This is a rumor. Watch this.
+- You gotta read between the lines. This hypothesis. So they're saying it's fake, right? This is a rumor.
 
 > This hypothesis is greeted with skepticism or caution by most scholars.
 
-- So it's greeted with skepticism by one, but with caution by others, because there's some truth to it. That's why there's caution involved. Okay.
+- So it's greeted with skepticism by one, but with caution by others, because there's some truth to it. That's why there's caution involved.
 
 > The German orientalist Carl Newman, in the context of an earlier controversy about possible connections between Khazars and the ancestors of the Slavic peoples, suggested as early as 1847
 
@@ -861,11 +861,11 @@ Reading from the Wikipedia article *Khazars*, put on the screen  *[[1:23:35](htt
 
 > as early as 1847 immigrant Khazars might have influenced the core population of Eastern European Jews.
 
-- So a German orientalist named Carl Newman said there's a chance that the core of these European Jews is from Khazars, in 1847. Stop. Was he anti-Semitic? We were in chains at this time. This has been a conversation since the 1800s. We were slaves until 1888 in Brazil, and slaves here until 1865. We weren't discussing this. So are we anti... was he anti-Semitic? Look up his name, please. What was he? Oh, he was a German. All right. They'll say he was, because he's German. He's a Nazi. He hates us. Okay. Let's go down.
+- So a German orientalist named Carl Newman said there's a chance that the core of these European Jews is from Khazars, in 1847. Stop. Was he anti-Semitic? We were in chains at this time. This has been a conversation since the 1800s. We were slaves until 1888 in Brazil, and slaves here until 1865. We weren't discussing this. So are we anti... was he anti-Semitic? Look up his name, please. What was he? Oh, he was a German. They'll say he was, because he's German. He's a Nazi. He hates us. Let's go down.
 
 > The theory was then taken up by Albert Harkavy
 
-- Stop right there. Retain that name. It's very important you retain this name, Albert Harkavy. And what year? 1869. We were out of slavery, what, three years? Three years. So we're still down there, slaves. We had sharecropping going on. We were still slaves on paper. We're free, but in real life, reality, we were still slaves. 1869. We were not discussing being Jews yet, or saying anything anti-Semitic during this time. Watch this.
+- Stop right there. Retain that name. It's very important you retain this name, Albert Harkavy. And what year? 1869. We were out of slavery, what, three years? Three years. So we're still down there, slaves. We had sharecropping going on. We were still slaves on paper. We're free, but in real life, reality, we were still slaves. 1869. We were not discussing being Jews yet, or saying anything anti-Semitic during this time.
 
 > The theory was then taken up by Albert Harkavy in 1869, when he also claimed a possible link between the Khazars and Ashkenazi.
 
@@ -877,7 +877,7 @@ Reading from the Wikipedia article *Khazars*, put on the screen  *[[1:23:35](htt
 
 > Occasional suggestions emerged that there was a small Khazar component in East European Jews in works by Joseph Jacobs,
 
-- These are white people having conversations about them. Black folks are nowhere in sight in these conversations. Nowhere. Please see who he's from and see what he is, real quick. Go up to his name. Russian. Oh, okay. He might be a Nazi. Okay. Go down to Joseph Jacobs, let's see what he was. Australian. Okay.
+- These are white people having conversations about them. Black folks are nowhere in sight in these conversations. Nowhere. Please see who he's from and see what he is, real quick. Go up to his name. Russian. He might be a Nazi. Go down to Joseph Jacobs, let's see what he was. Australian.
 
 > Anatole Leroy-Beaulieu, a critic of anti-Semitism,
 
@@ -885,7 +885,7 @@ Reading from the Wikipedia article *Khazars*, put on the screen  *[[1:23:35](htt
 
 > Maximilian Ernst Gumplowicz,
 
-- We'll see who he is. Go there. It's not blue. All right, that's fine. Keep going.
+- We'll see who he is. Go there. It's not blue. All right, that's fine.
 
 > and by the Russian Jewish anthropologist Samuel Weissenberg.
 
@@ -901,7 +901,7 @@ Reading from the Wikipedia article *Khazars*, put on the screen  *[[1:23:35](htt
 
 > arguing Khazars formed the foundational core of modern Ashkenazi.
 
-- All these people are arguing the same thing. And they're Jews. Are they anti-Semites too? Keep going.
+- All these people are arguing the same thing. And they're Jews. Are they anti-Semites too?
 
 > Maurice Fishberg introduced the notion to American audiences in 1911.
 
@@ -917,7 +917,7 @@ Reading from the Wikipedia article *Khazars*, put on the screen  *[[1:23:35](htt
 
 > Israel Barton has suggested that from the Haskalah onwards, polemical pamphlets against the Khazars were inspired by Sephardi organizations opposed to the Khazaro-Ashkenazi.
 
-- This guy was saying that the Sephardis are causing problems, that they started this whole thing. But that's not true, because it's years apart. Keep going.
+- This guy was saying that the Sephardis are causing problems, that they started this whole thing. But that's not true, because it's years apart.
 
 > Scholarly anthropologists
 
@@ -949,15 +949,13 @@ Reading from the Wikipedia article *Khazars*, put on the screen  *[[1:23:35](htt
 
 > D. M. Dunlop, writing in 1954, thought very little evidence backed what he regarded as a mere assumption, and argued that the Ashkenazi-Khazar descent theory went far beyond what our imperfect records permit.
 
-- Come on, y'all. Come on. Far beyond what?
+- Come on, y'all. Far beyond what?
 
 > Léon Poliakov, while assuming the Jews of Western Europe resulted from a panmixia in the first millennium, asserted in 1955 that it was widely assumed that Europe's Eastern Jews descended from a mixture of Khazarian and German Jews.
 
 - The same thing. Doesn't make a difference.
 
 > Poliak's work found some supporting evidence in Salo Wittmayer Baron and Ben-Zion Dinur, but was dismissed by Bernard Weinryb as a fiction. Bernard Lewis was of the opinion that the word in the Cairo Geniza interpreted as Khazaria is actually Hakkari, and therefore it relates to the Kurds of the Hakkari mountains in southeast Turkey.
-
-- Watch this. Go up a little bit. Watch this.
 
 > The Khazar-Ashkenazi hypothesis came to the attention of a much wider public with the publication of Arthur Koestler's *The Thirteenth Tribe* in 1976,
 
@@ -967,11 +965,11 @@ Reading from the Wikipedia article *Khazars*, put on the screen  *[[1:23:35](htt
 
 > and a somewhat dangerous one.
 
-- Yeah. So him and his wife mysteriously decided to kill themselves. Right.
+- Yeah. So him and his wife mysteriously decided to kill themselves.
 
 > Israeli historian Zvi Ankori argued that Koestler had allowed his literary imagination to espouse Poliak's thesis, which most histories dismissed as speculative. Israel's ambassador to Britain branded it an anti-Semitic action financed by the Palestinians,
 
-- Now the Arabs made him do it. Okay. Good.
+- Now the Arabs made him do it. Good.
 
 > while Bernard Lewis claimed that the idea was not supported by any evidence whatsoever
 
@@ -979,7 +977,7 @@ Reading from the Wikipedia article *Khazars*, put on the screen  *[[1:23:35](htt
 
 > and had been abandoned by all serious scholars.
 
-- No it wasn't. Keep going.
+- No it wasn't.
 
 > Raphael Patai, however, registered some support for the idea that Khazar remnants had played a role in the growth of Eastern European Jewish communities,
 
@@ -989,11 +987,9 @@ Reading from the Wikipedia article *Khazars*, put on the screen  *[[1:23:35](htt
 
 > (Eran Elhaik,
 
-- Eran Elhaik is a genetic scientist. Watch this.
+- Eran Elhaik is a genetic scientist.
 
 > a geneticist from the University of Sheffield)
-
-- Watch this.
 
 > have emerged to keep the theory alive. In broad academic perspective, both the idea that the Khazars converted en masse to Judaism and the suggestion they emigrated to form the core population of Ashkenazi Jewry remain highly polemical issues.
 
@@ -1011,7 +1007,7 @@ Reading from the Wikipedia article *Khazars*, put on the screen  *[[1:23:35](htt
 
 > <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
 
-- They search out iniquities. They search out ways to have us celebrate things like Christmas, New Year's, Thanksgiving. Or they'll go on The Breakfast Club and say they'll search out new talent to create new rap lyric styles, destruct to the black community. Right? That's searching out iniquity. Oh well, I got mouths to feed. Mr. Cohen. Mr. Priest. You know what a Cohen is? A priest. I got a family. I got a family. I don't look at it as... you know, it's talent. Look for talent. Talent over issues, guys.
+- They search out iniquities. They search out ways to have us celebrate things like Christmas, New Year's, Thanksgiving. Or they'll go on The Breakfast Club and say they'll search out new talent to create new rap lyric styles, destruct to the black community. That's searching out iniquity. Oh well, I got mouths to feed. Mr. Cohen. Mr. Priest. You know what a Cohen is? A priest. I got a family. I got a family. I don't look at it as... you know, it's talent. Look for talent. Talent over issues, guys.
 
 - Both the inward thought of every one of them, and the heart, is deep, because they look at things years ahead. They have contingency plans, A, B, all the way to Z. Their plans can last hundreds of years. They have fail-safes, all kind of stuff. And they follow through. And if they don't, they die. Their thoughts are deep.
 
@@ -1021,7 +1017,7 @@ Reading from the Wikipedia article *Khazars*, put on the screen  *[[1:23:35](htt
 
 > <sup>[8](/bible/psalms/64#v8)</sup> So they shall make their own tongue to fall upon themselves: all that see them shall flee away.
 
-- They'll do what? They shall make their own tongue to fall upon themselves. How is that? Ye said, they can show everything. He said, based upon what happens to me, they're gonna see it. Right? Did they do it? Yes. Their own tongues fall upon themselves.
+- They'll do what? They shall make their own tongue to fall upon themselves. How is that? Ye said, they can show everything. He said, based upon what happens to me, they're gonna see it. Did they do it? Yes. Their own tongues fall upon themselves.
 
 - **A captain:** We don't know the whole world... He lost his deals, he lost his endorsements, he lost his school, he lost his name. His kids being thought to be taken from him. He's crazy.
 
@@ -1029,9 +1025,9 @@ Reading from the Wikipedia article *Khazars*, put on the screen  *[[1:23:35](htt
 
 - **A captain:** Their tongues fall upon themselves. They're saying he's wrong, but then he's on TV saying, look, all these red lines here are Jewish-owned companies. Then the media got quiet and said, well, did they work together? Are they all working together against you? It's not changing narrative. And now they're showing that trickling effect between each one, whether it be the fashion, whether it be the music. They're all doing the domino effect right after each other. So it's showing that they work together. They all work together.
 
-- So they shall make their own tongue to fall upon themselves. They're making their tongue fall upon themselves with their own books, their own records saying exactly what we're saying. Then in the media, when Ye said that they have power, they exhibited it before the public. Right? Their own tongue falls upon themselves. That's the wound, the light being shot. Remember I said earlier, who seeth us? Right now we all see you. We all see you.
+- So they shall make their own tongue to fall upon themselves. They're making their tongue fall upon themselves with their own books, their own records saying exactly what we're saying. Then in the media, when Ye said that they have power, they exhibited it before the public. Their own tongue falls upon themselves. That's the wound, the light being shot. Remember I said earlier, who seeth us? Right now we all see you. We all see you.
 
-- All that see them shall flee away. All that … and shall go. Oh wow. That's the difference.
+- All that see them shall flee away. All that … and shall go. That's the difference.
 
 - **A captain:** We gotta stay out of that stuff. Ye shined it. Kyrie shined it. Now it's clear. Now it's obvious.
 
@@ -1049,7 +1045,7 @@ Reading from *The Jewish Encyclopedia*, the article Khazars, pages 1 to 4 (he ca
 
 > Khazars: A people of Turkish origin whose life and history are interwoven with the very beginnings of the history of the Jews of Russia.
 
-- Whoa, whoa. Wow. Interwoven with the very beginnings of the Jews of Russia. Keep going.
+- Whoa, whoa. Interwoven with the very beginnings of the Jews of Russia.
 
 > The kingdom of the Khazars was firmly established in most of South Russia long before the foundation of the Russian monarchy. Jews have lived on the shores of the Black and Caspian seas since the first centuries of the common era.
 
@@ -1089,15 +1085,15 @@ Reading from *The Jewish Encyclopedia*, the article Khazars, pages 1 to 4 (he ca
 
 > Bulan invited those wise men of Israel, and proceeded to examine them all. As each of the champions believed his religion to be the best, Bulan separately questioned the Mohammedans and the Christians as to which of their two religions they considered to be better. When both gave preference to that of the Jews, the king perceived that it must be the true religion. He therefore adopted it.
 
-- See, Harkavy. Go down. This account. Harkavy, he documented this. Go down.
+- See, Harkavy. This account. Harkavy, he documented this.
 
 > This account of the conversion was considered to be of a legendary nature.
 
-- So it was considered to be legendary, mythical, that it took place. Watch this.
+- So it was considered to be legendary, mythical, that it took place.
 
 > Harkavy, however, proved from Arabic and Slavonian sources that the religious disputation of the Khazarian court is a historical fact.
 
-- Found among the Arabs' records that this took place. Wow. There's no refuting it, right? And Slavonian means their own people had it written.
+- Found among the Arabs' records that this took place. There's no refuting it, right? And Slavonian means their own people had it written.
 
 > Even the name Singari has been found in the liturgy of Constantine the Philosopher. It was one of the successors of Bulan, Obadiah,
 
@@ -1105,15 +1101,13 @@ Reading from *The Jewish Encyclopedia*, the article Khazars, pages 1 to 4 (he ca
 
 > who regenerated the kingdom and strengthened the Jewish religion. He invited Jewish scholars to settle in his dominions, and founded synagogues and schools.
 
-- Watch this.
-
 > The people were instructed in the Bible, Mishnah, and the Talmud,
 
 - What was the Bible, and tell me there... You go to live among them. Why? Because they were hiding, from either the Muslims, or they're running from the Christians. Among the Khazars, and taught them how to live among the Bible. Mishnah, which is words of the Bible, or oral statements. It was a Bible pretty much. And the Talmud.
 
 > and in the divine service. In their writings the Khazars used Hebrew letters.
 
-- Oh. And they're right there. You say they taught them Hebrew letters.
+- And they're right there. You say they taught them Hebrew letters.
 
 > Obadiah was succeeded by his son Hezekiah;
 
@@ -1127,7 +1121,7 @@ Reading from *The Jewish Encyclopedia*, the article Khazars, pages 1 to 4 (he ca
 
 - Let's jump down to Hasdai. Excuse me, page 3.
 
-- **A captain:** Deacon, yeah. These are... I didn't write this. That's the point. Right. So 400 scholars agreed on it.
+- **A captain:** Deacon, yeah. These are... I didn't write this. That's the point. So 400 scholars agreed on it.
 
 - **Another guest:** Just going back, because, Captain, you made a point. When we were in Israel, we would ask them, well, how do you track your forefathers? Oh, I know I am a Jew. Well, what tribe? No, I know I'm a Jew because my mother... 400 scholars just agreed, we've seen it right there, that the names changed right there. You lying people.
 
@@ -1163,17 +1157,17 @@ Reading from *The Jewish Encyclopedia*, the article Khazars, pages 1 to 4 (he ca
 
 > <sup>[8](/bible/genesis/36#v8)</sup> Thus dwelt Esau in mount Seir: Esau is Edom.
 
-- Oh wow. Esau in mount Seir. The father of the … Is that in there too?
+- Esau in mount Seir. The father of the … Is that in there too?
 
 - So these Khazars are … They migrated further up north. Read 9 again.
 
 > <sup>[9](/bible/genesis/36#v9)</sup> And these are the generations of Esau the father of the Edomites in mount Seir:
 
-- There you go. In mount Seir. Stop right there. There you go.
+- In mount Seir. Stop right there.
 
-- Back when the kingdom of Israel split in two, Babylon conquered one side and Syria conquered the other, and they migrated up, and they were free, and established themselves in this area here. Wow. And Hasdai knew that, and wrote it to them.
+- Back when the kingdom of Israel split in two, Babylon conquered one side and Syria conquered the other, and they migrated up, and they were free, and established themselves in this area here. And Hasdai knew that, and wrote it to them.
 
-- *[[1:54:55](https://www.youtube.com/watch?v=Da3acU7XSXw&t=6895s)]* Now page 4. Go to where I marked the two little lines on the left-hand side. Because what happened was, when Hasdai wrote that letter to Joseph, of the Seir mountains, Esau created a fake letter of Joseph responding, saying we're from Japheth. Really? Okay. Let's see what the 400 scholars say about that letter of response. Read that line there.
+- *[[1:54:55](https://www.youtube.com/watch?v=Da3acU7XSXw&t=6895s)]* Now page 4. Go to where I marked the two little lines on the left-hand side. Because what happened was, when Hasdai wrote that letter to Joseph, of the Seir mountains, Esau created a fake letter of Joseph responding, saying we're from Japheth. Really? Let's see what the 400 scholars say about that letter of response. Read that line there.
 
 <div class="reading">
 
@@ -1181,7 +1175,7 @@ Reading from *The Jewish Encyclopedia*, Khazars, page 4, on the authenticity of 
 
 > The Russian academician C. H. Fran and the Swedish scholar Dehosen collected and published in the first quarter of the nineteenth century all the Arabic testimony on the subject of the Khazars known at that time.
 
-- So the Arabs kept the testimony of the conversation between Hasdai and King Joseph, because he worked for the sultan. They recorded documents of this conversation. So it was not legendary. It was real. Read on.
+- So the Arabs kept the testimony of the conversation between Hasdai and King Joseph, because he worked for the sultan. They recorded documents of this conversation. So it was not legendary. It was real.
 
 > The authenticity of the letter
 
@@ -1199,7 +1193,7 @@ Reading from *The Jewish Encyclopedia*, Khazars, page 4, on the authenticity of 
 
 - So otherwise they could not prove that the letter was true, regarding Joseph's response. It was a lie. A cover-up.
 
-- *[[1:56:57](https://www.youtube.com/watch?v=Da3acU7XSXw&t=7017s)]* Okay. Now I'm not gonna go too long on that one. Get me volume 5, the same encyclopedia, the next one. Volume 5, page 40 and 41. I didn't write this. This is part one, by the way. It's gonna get worse. Part two. Damn. Volume 5, page 40. Edom, Idumea.
+- *[[1:56:57](https://www.youtube.com/watch?v=Da3acU7XSXw&t=7017s)]* Now I'm not gonna go too long on that one. Get me volume 5, the same encyclopedia, the next one. Volume 5, page 40 and 41. I didn't write this. This is part one, by the way. It's gonna get worse. Part two. Damn. Volume 5, page 40. Edom, Idumea.
 
 </div>
 
@@ -1221,7 +1215,7 @@ Reading from *The Jewish Encyclopedia*, volume 5, pages 40 and 41, the article E
 
 > Three of its kings are known from the same source,
 
-- Malaka, at the time of Tiglath-pileser. One king's name, Kaus-malaka. King Kaus, one that's called Kaus. King Malik. King Ramu. And King Gabi. Kaus means like king. Okay? Kaus is Edom. It's the same god. Kaus, same thing. Go down to 'after the conquest'.
+- Malaka, at the time of Tiglath-pileser. One king's name, Kaus-malaka. King Kaus, one that's called Kaus. King Malik. King Ramu. And King Gabi. Kaus means like king. Kaus is Edom. It's the same god. Kaus, same thing. Go down to 'after the conquest'.
 
 > After the conquest of Judah by the Babylonians, the … were allowed to settle in southern Palestine.
 
@@ -1237,19 +1231,15 @@ Reading from *The Jewish Encyclopedia*, volume 5, pages 40 and 41, the article E
 
 > by whom they were forced to observe Jewish rites and laws.
 
-- Watch this.
-
 > They were then incorporated with the Jewish nation, and their country was called by the Greeks and Romans Idumea. With Antipater began the Idumean dynasty that ruled over Judea till its conquest by the Romans.
 
-- Immediately before the scene. Jump down to 'the name Edom'. Watch this. The people who are in the Talmud, they did believe, they did retain this truth, though. The name. Watch this.
+- Immediately before the scene. Jump down to 'the name Edom'. The people who are in the Talmud, they did believe, they did retain this truth, though. The name.
 
 > The name Edom is used by the Talmudists for the Roman empire,
 
-- Wow. Damn.
+- Damn.
 
 > and they applied to Rome every passage of the Bible referring to Edom or to Esau.
-
-- Watch this.
 
 > In Leviticus Rabbah, Rome, under the name of Edom, is compared to a boar. The symbolic name Seir was used by the poets of the Middle Ages not only for Rome,
 
@@ -1283,7 +1273,7 @@ Reading from *The Jewish Encyclopedia*, volume 5, pages 40 and 41, the article E
 
 > <sup>[14](/bible/obadiah/1#v14)</sup> Neither shouldest thou have stood in the crossway, to cut off those of his that did escape; neither shouldest thou have delivered up those of his that did remain in the day of distress.
 
-- So that's the book of Obadiah. Give me the last thing I sent you, what the modern Jews read. The dictionary I sent you. The last thing I sent you on Telegram. It's like a highlighted page. A screenshot. Let's see who is Obadiah, let's see who reads it. Go down, go down. We see a timestamp. Right there, right there, that's it. Get the … Don't go back. Go back, son. Go back to the cover, yeah. Click that first. Blow it up so we can see what it is.
+- So that's the book of Obadiah. Give me the last thing I sent you, what the modern Jews read. The dictionary I sent you. It's like a highlighted page. A screenshot. Let's see who is Obadiah, let's see who reads it. We see a timestamp. Right there, right there, that's it. Get the … Don't go back. Go back, son. Go back to the cover, yeah. Click that first. Blow it up so we can see what it is.
 
 <div class="reading">
 
@@ -1291,7 +1281,7 @@ Reading from *Dictionary of the Bible* by William Smith (its cover: the Bible, a
 
 > The Bible: Antiquities, Biography, Geography and Natural History, by William Smith.
 
-- What year is it? Go down, please. Go down. 1863. Let's go to the page now. Red heifer. This is the R in the dictionary. Go down. Let's see, this is … Go down to where it's highlighted right there. Blow it up.
+- What year is it? Go down, please. Go down. 1863. Let's go to the page now. Red heifer. This is the R in the dictionary. Let's see, this is … Go down to where it's highlighted right there. Blow it up.
 
 > The book of Obadiah is a favorite study of the modern Jews.
 
@@ -1299,7 +1289,7 @@ Reading from *Dictionary of the Bible* by William Smith (its cover: the Bible, a
 
 > It is here especially that they read the future fate of their own nation
 
-- Wait a minute. Wait a minute. Wow.
+- Wait a minute. Wait a minute.
 
 - **A captain:** What's the name of this book? I was trying to get my Amazon. Go back. Holy … Go back to it again. I gotta screenshot that right there.
 
@@ -1307,7 +1297,7 @@ Reading from *Dictionary of the Bible* by William Smith (its cover: the Bible, a
 
 - **A captain:** Deacon, the price just went up. It just went up. Gotta get it now, man. Better lock it in.
 
-- Go back, go back. You gotta see that. This is Obadiah, under Obadiah. Go down again. Read it again.
+- Go back, go back. You gotta see that. This is Obadiah, under Obadiah. Go down again.
 
 > The book of Obadiah is a favorite study of the modern Jews. It is here especially that they read the future fate of their own nation
 
@@ -1363,11 +1353,11 @@ Reading from *The Iron Curtain of America* by John Beatty, pages 18 and 19, on t
 
 > which after long labors by many hands had been completed in December 2nd, 499.
 
-- Jump down to the top. It says, *History of the Jews*, by Professor H. Graetz. I own that as well. It's quoted here. Go down to the bottom. It mentions the history of the Talmud. Right there. Watch this.
+- Jump down to the top. It says, *History of the Jews*, by Professor H. Graetz. I own that as well. It's quoted here. Go down to the bottom. It mentions the history of the Talmud. Right there.
 
 > The Talmud must not be regarded as an ordinary work,
 
-- Because the Jews had a Talmud, and what we would do is we would take it, we would add more stuff to it. When the Khazars got hold of it, they added more stuff to it also. Watch this.
+- Because the Jews had a Talmud, and what we would do is we would take it, we would add more stuff to it. When the Khazars got hold of it, they added more stuff to it also.
 
 > composed of twelve volumes; it possesses absolutely no similarity to any other literary production, but forms, without any figure of speech, a world of its own, which must be judged by its peculiar laws.
 
@@ -1415,11 +1405,11 @@ Reading from *The Iron Curtain of America* by John Beatty, pages 18 and 19, on t
 
 - **A captain:** Wait a minute, wait a minute. So tell me, tell me, D. This is just part one, right?
 
-- I know. Yeah. There's only a couple of books. Only a couple books. Wow.
+- I know. Yeah. There's only a couple of books. Only a couple books.
 
 - **A captain:** So the challenge is still on. Malachi, you know, issued the challenge. Bring forth your proof. Show us. You don't have to call us conspiracy theorists, because you're quoting 400 scholars. You're calling your own people conspiracy theorists and anti-Semitic, and what else they say, replacement theology, or that garbage. Just bring forth your proof. Show us that you're the real Jew.
 
-- Wait, wait, I'm sorry. One more thing. One more thing real quick. One more book. Give me the *Pictorial History of Israel*. Yes, yes. *Pictorial History of Israel*. I want the first page. You have to show the cover first. There we go. Right there. That's it. Now blow it up. Now you look there at the cover. You see the Israelis on the cover. *The Pictorial History of Israel*, by Jacob Rubin and Meyer Barkai. Two Jewish men put this book together, with the star of Rothschild and everything. Go to the very first page of the book. The very first. Let's see who's in the book. Bam. Wow. Nominal: guilty, guilty. Are you guilty, man? Read the bottom of the screen.
+- One more thing. One more thing real quick. One more book. Give me the *Pictorial History of Israel*. Yes, yes. *Pictorial History of Israel*. I want the first page. You have to show the cover first. There we go. Right there. That's it. Now blow it up. Now you look there at the cover. You see the Israelis on the cover. *The Pictorial History of Israel*, by Jacob Rubin and Meyer Barkai. Two Jewish men put this book together, with the star of Rothschild and everything. Go to the very first page of the book. The very first. Let's see who's in the book. Bam. Nominal: guilty, guilty. Are you guilty, man? Read the bottom of the screen.
 
 </div>
 
@@ -1429,7 +1419,7 @@ Reading from *The Pictorial History of Israel* by Jacob Rubin and Meyer Barkai, 
 
 > This mural depicting Israel's bondage in Egypt
 
-- Wow. Go to the cover of the book again. Go to the cover again. Blow it up. Who the hell are you? Who is this? Who the hell are you, Jacob and Meyer? Who are you? Go back to the first page again. Wow. Bam. Wow. This is a black and white picture. Black and white pictures. Still black. Still black. Is this black or white? Read the bottom again.
+- Go to the cover of the book again. Go to the cover again. Blow it up. Who the hell are you? Who is this? Who the hell are you, Jacob and Meyer? Who are you? Go back to the first page again. Bam. This is a black and white picture. Black and white pictures. Still black. Still black. Is this black or white? Read the bottom again.
 
 > This mural depicting Israel's bondage in Egypt was found in the Theban tomb of Rekhmire, governor and vizier at the time of Thutmose III, about 1450 B.C.E.
 
@@ -1447,17 +1437,17 @@ Reading from *The Pictorial History of Israel* by Jacob Rubin and Meyer Barkai, 
 
 - **A captain:** I messed up. Hey Deac, you know what's crazy? I got that book. When you flip through the pages of that book, you see the pictures. There's no other brother, no picture like this. The Lord had him put it in the very first page.
 
-- That's right. Okay. Black. You can't get a white boy. The clothes are white.
+- That's right. Black. You can't get a white boy. The clothes are white.
 
 - **A captain:** The brother on the end, he got a bush. The one bending over like that, he got a fro.
 
-- Oh, he got a fro. Yeah. Oh, right, right. Wow. They're gonna explain these things. With the Jews, the blood of Christ, and you gotta explain this. Right? Because there is no Jew also. We the Jews. No, no, no, no. Period. If we the Jews, you can't be the Jews too. That's the 13th tribe. That's right. Then you may be all right. So that's it. All praise to the Most High.
+- Oh, he got a fro. Yeah. They're gonna explain these things. With the Jews, the blood of Christ, and you gotta explain this. Because there is no Jew also. We the Jews. No, no, no, no. Period. If we the Jews, you can't be the Jews too. That's the 13th tribe. That's right. Then you may be all right. So that's it.
 
 ## In Closing
 
-*[[2:16:30](https://www.youtube.com/watch?v=Da3acU7XSXw&t=8190s)]* **A captain:** So, Deac, do you want to give the announcements? They usually do announcements here. Oh, it's up right now. So you see on the screen: shout-outs to Our Hidden History, shout-out to y'all, brothers and sisters. Officer Abaddon, his album coming out, man. Album's fire. You better get it. That's right.
+*[[2:16:30](https://www.youtube.com/watch?v=Da3acU7XSXw&t=8190s)]* **A captain:** So, Deac, do you want to give the announcements? They usually do announcements here. Oh, it's up right now. Officer Abaddon, his album coming out, man. Album's fire. You better get it. That's right.
 
-*[[2:18:00](https://www.youtube.com/watch?v=Da3acU7XSXw&t=8280s)]* So now, hopefully, if you're watching, I gave you the books. I gave you the ammunition. I gave you a description. That's right. So now you can't sound stupid. Now you know what we're talking about. Now you know what you're talking about. All right. If you can't do it, have us do it for you. That's right. Hey, share this. Share this. Share it with Kyrie. Put it on; DM them. Do something. All right. And with that, thanks to the patient saints. Next week we'll see you next week. Shalom, shalom.
+*[[2:18:00](https://www.youtube.com/watch?v=Da3acU7XSXw&t=8280s)]* So now, hopefully, if you're watching, I gave you the books. I gave you the ammunition. I gave you a description. That's right. So now you can't sound stupid. Now you know what we're talking about. Now you know what you're talking about. If you can't do it, have us do it for you. That's right. Hey, share this. Share this. Share it with Kyrie. Put it on; DM them. Do something. And with that, thanks to the patient saints. Next week we'll see you next week. Shalom, shalom.
 
 ## Announcements & References
 

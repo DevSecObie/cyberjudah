@@ -18,12 +18,6 @@ tags: ["Our Hidden History", "europe-dark-ages", "spain-inquisition", "women"]
 
 ## Introduction
 
-*[[1:13](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=73s)]* All right, we're back. We're back. I don't know what happened. I have an idea what happened, but I'm not going to speculate. We're going too hard right now. We're going too hard. If it's not Ye, it's us. Basically. If it's not Ye, it's us.
-
-**Officer:** Oh, you going to learn today. Yeah. I like that. I like that one.
-
-**Deacon Eythan:** All right, so where we at? We just go on and continue.
-
 ## Readings and Scriptures
 
 <div class="reading">
@@ -48,9 +42,9 @@ Reading from a book not named on air, on the fall of the Moors in Spain · read 
 
 > Divided amongst themselves by the rival factions of claimants to the crown,
 
-- Let me read that part again. Spain what? Spain, like Capua, avenged herself on her conquerors by her seductions. Bribery, alliances, money. Watch this. They became luxurious and unwarlike. Watch this. Divided amongst themselves, say? A house divided against itself shall not stand. It will fall to desolations.
+- Spain what? Spain, like Capua, avenged herself on her conquerors by her seductions. Bribery, alliances, money. They became luxurious and unwarlike. Divided amongst themselves, say? A house divided against itself shall not stand. It will fall to desolations.
 
-- Divided amongst themselves by the rival factions of claimants to the crown. Right. Some obviously be king. Why should he be king? Why should he be ruling? I should be a ruler. We started fighting among ourselves for power.
+- Divided amongst themselves by the rival factions of claimants to the crown. Some obviously be king. Why should he be king? Why should he be ruling? I should be a ruler. We started fighting among ourselves for power.
 
 > they could not stand.
 
@@ -62,7 +56,7 @@ Reading from a book not named on air, on the fall of the Moors in Spain · read 
 
 > The African descendants of those expelled from Spain by the Romans,
 
-- Stop. We got to go back now, cuz there's a lot in those statements alone. It says the persecuted Jews carried into Africa. Watch this. The secret of their oppressors' weakness. What secret of our oppressors did we carry into Africa? It's going to say it here, next part.
+- Stop. We got to go back now, cuz there's a lot in those statements alone. It says the persecuted Jews carried into Africa. The secret of their oppressors' weakness. What secret of our oppressors did we carry into Africa? It's going to say it here, next part.
 
 - The African descendants of those expelled from Spain are those Jews that were put out. But what do we adopt from our enemies? It's going to say it. Watch.
 
@@ -70,15 +64,15 @@ Reading from a book not named on air, on the fall of the Moors in Spain · read 
 
 > like the modern Moors,
 
-- Read it again. The African descendants of those expelled from Spain by the Romans, like the modern Moors. The modern Moors is black people. That was still us there.
+- The African descendants of those expelled from Spain by the Romans, like the modern Moors. The modern Moors is black people. That was still us there.
 
 > never relinquished their hopes of reconquest.
 
-- That's what they're referring to. When we got expelled from Spain, the weakness we carried from our oppressors was the luxuriousness and being unwarlike. Once we got kicked out of Spain and chased into Africa, the battle in us is gone. It was gone. Okay?
+- That's what they're referring to. When we got expelled from Spain, the weakness we carried from our oppressors was the luxuriousness and being unwarlike. Once we got kicked out of Spain and chased into Africa, the battle in us is gone. It was gone.
 
 </div>
 
-*[[6:57](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=417s)]* **Deacon Eythan:** So now, give me that video. You want to play that? The video is good. Let's get it. AJ, let's introduce the video, bro.
+*[[6:57](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=417s)]* **Deacon Eythan:** So now, give me that video. You want to play that? The video is good. AJ, let's introduce the video, bro.
 
 **Officer:** This is concerning … Yo, so this video right here is a comedian. I forgot the comedian name, but anyway, this is set in like the 1800s. And this is when the word … first popped off. Saying …, not …, but …. A joke on how the word … became, how it was born, right? How it was born, pretty much. And those who didn't know, it was like, "Yo, this is offensive." And dude's like, "Nah, I know what I'm doing." But let's play it. It's going to pick up. It's going to pick up. Watch.
 
@@ -138,11 +132,11 @@ Reading from a comedy sketch played on air (the comedian is not named), set in t
 
 - **Officer:** Yo, that is stupid. Whoever thought of this, man. They smart, man. But that's heavy, and that's crazy how it pertains heavy to what you bringing out right now.
 
-- **Deacon Eythan:** Right. It does.
+- **Deacon Eythan:** It does.
 
 - **Officer:** So he pretty much saying how it probably started off. It was a joke, it was a parody on how it started, how the word … was thrown as a slang term, as opposed to being derogatory, right? And it's in you.
 
-- **Deacon Eythan:** Right. It's in you. No matter what you trying to be. You trying to say more cool, house … it's still in you. Like Jay-Z said, it's still …
+- **Deacon Eythan:** It's in you. No matter what you trying to be. You trying to say more cool, house … it's still in you. Like Jay-Z said, it's still …
 
 - **Officer:** Cuz remember, he still said, Esau said you …, but meanwhile he was like, yeah.
 
@@ -160,7 +154,7 @@ Reading from a comedy sketch played on air (the comedian is not named), set in t
 
 - That what? That their power is gone. And he shall say, where are their gods, their rock in whom they trusted?
 
-- Because remember, when we fell as the Moors in Spain and Portugal, we were Muslims. A lot of us were Muslim. We were into Judaism and so forth, or Christianity. We started to fall into all different types of ideologies. We were divided against ourselves. I'm a better Muslim than you. You're a better Muslim than him. It got crazy. Our power eventually was removed from us. So that power of ruling was temporary. It was not the Lord. Okay? It wasn't by God's power we took over. It was by our own. And that power of our own is temporary.
+- Because remember, when we fell as the Moors in Spain and Portugal, we were Muslims. A lot of us were Muslim. We were into Judaism and so forth, or Christianity. We started to fall into all different types of ideologies. We were divided against ourselves. I'm a better Muslim than you. You're a better Muslim than him. It got crazy. Our power eventually was removed from us. So that power of ruling was temporary. It was not the Lord. It wasn't by God's power we took over. It was by our own. And that power of our own is temporary.
 
 *[[12:23](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=743s)]* So now, let's go back to where we were at. When Scotland Was Jewish, I want page 21.
 
@@ -184,7 +178,7 @@ Reading from a comedy sketch played on air (the comedian is not named), set in t
 
 Now when a woman goes out of her way and lays with any nation of men outside of her own, she's helping to produce more of that man. So when women go outside their race, it's more detrimental for her, because she's not bringing back her own kind. She's bringing back his. Cuz she bears the seed of that man. So there's a scientific and a biblical and a God-like bias. Women do not have sperm. Y'all don't have seed. We do. You nurture the seed. That's why y'all receive, we give. That's how it go. That's the nature. That's how God has it. You got a problem with that? Take it up with God.
 
-*[[17:16](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=1036s)]* Now I don't condone either, because the Bible doesn't condone either. The Bible doesn't condone a man laying with a heathen woman, nor does it condone an Israelite woman laying with a heathen man. Are there instances in the Bible where it has happened? Yes, but God had laws against it. And under Moses there were certain exceptions that were put in place. But over time the Lord said, "Listen, I don't want you doing that at all." Israel did it anyway, but there were laws that regulated it regardless. You understand? So my point is that the Most High said chiefly, primarily, by law, take your own kind.
+*[[17:16](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=1036s)]* Now I don't condone either, because the Bible doesn't condone either. The Bible doesn't condone a man laying with a heathen woman, nor does it condone an Israelite woman laying with a heathen man. Are there instances in the Bible where it has happened? Yes, but God had laws against it. And under Moses there were certain exceptions that were put in place. But over time the Lord said, "Listen, I don't want you doing that at all." Israel did it anyway, but there were laws that regulated it regardless. So my point is that the Most High said chiefly, primarily, by law, take your own kind.
 
 So I don't condone what our forefathers did in Spain and Portugal, banging a bunch of white women. No. But the reason why I present that fact is because in modern society they'll say that a lot of the mulattoes that came over here, light-skinned blacks, high yellow, blue with the blonde hair, whatever, that came from the white man's powerful penis floating through the winds going in all the black women's vaginas and just … inside of them and making half … babies. That's not what happened. That's a lie. So I emphasize the fact that our men, the black brothers, were mating with white women, and most of the mulattoes came from that union. Not from white men banging black women, but more so black men laying with white women. That's where the mulattoes primarily came from, because white folks today are very, very weak when it comes to procreation.
 
@@ -214,7 +208,7 @@ Yeah, read that. No, I'm not angry. I'm good. I'm good.
 
 - **Officer:** So, Deacon, short: you black and Latin women that decide to be with another nation, you're agreeing to build up their race.
 
-- **Deacon Eythan:** Right. That's exactly what I'm saying. Exactly. But I'm not saying that when a black man goes out and marries other nations' women, it's okay. Even though when he does, he's not destroying his people. He's still producing his own kind.
+- **Deacon Eythan:** That's exactly what I'm saying. Exactly. But I'm not saying that when a black man goes out and marries other nations' women, it's okay. Even though when he does, he's not destroying his people. He's still producing his own kind.
 
 - That's how many grow up, I call them mixed nuts. A lot of these kids grow up with different parents. They be …, I don't know what I am. I'm confused. But that's why the Bible says marry your own, so your child could have confidence in their stock. Cuz when your child grows up and they look a certain kind of way, they don't know which side they should be on. Should I be on the white side? Should I be on the black side? They confused, because they don't know which side to pick from. That's why God said, to avoid the confusion, marry your own. So your child knows that they're a negro, or Israel, through and through. No confusion. There's no mishap. Oh my, but I'm so light. My eyes are green. I don't know what I am. Am I a … Am I half … What am I? No, you Israel. But because of your father doing what he did, now you confused.
 
@@ -222,7 +216,7 @@ Yeah, read that. No, I'm not angry. I'm good. I'm good.
 
 - **Officer:** Yeah, cuz I think in Nehemiah it says that the mother was the one that's going to teach you the language.
 
-- **Deacon Eythan:** Right. You're going to learn more from the mom. Nehemiah 13. Yes, yes. Cuz, like a wise man once said, or wise men have said, the woman is the first teacher to the child. She's the first teacher. So whatever the mother teaches them, they're going to grow from that. Nehemiah 13, verse 23.
+- **Deacon Eythan:** You're going to learn more from the mom. Nehemiah 13. Yes, yes. Cuz, like a wise man once said, or wise men have said, the woman is the first teacher to the child. She's the first teacher. So whatever the mother teaches them, they're going to grow from that. Nehemiah 13, verse 23.
 
 **[Nehemiah 13:23-25](/bible/nehemiah/13#v23)**  *[[24:00](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=1440s)]*
 
@@ -248,11 +242,11 @@ Yeah, read that. No, I'm not angry. I'm good. I'm good.
 
 - Why was he fighting them? Because they were saying, so what if I got a Edomite woman? Solomon had one. And they were throwing their hands, cuz they're going back and forth with him. He made them swear, cuz they were doing what the Lord said not to do. The Lord didn't condone it. But there were laws that regulated it because Israel was doing it anyway. Likewise divorce, same thing.
 
-- All right. So I do not consent to interracial marriage based upon hating white people for how they look, or color, or any other race of people, but because God tells us to marry within our own. If you have not done that, or you disagree with that, that's fine. You're against the Bible. The Bible tells us marry within our own.
+- So I do not consent to interracial marriage based upon hating white people for how they look, or color, or any other race of people, but because God tells us to marry within our own. If you have not done that, or you disagree with that, that's fine. You're against the Bible. The Bible tells us marry within our own.
 
 - Every culture outside of our own understands that mechanic. The East Indians understand that. The Chinese understand that. The Arabs understand that. And our people over there in Africa, our brothers and sisters over there who are colonized in parts of Africa, they understand that. But the black negro, the African-American over here, or the Caribbean negro over here, or Hispanic over here, we confused. But the Chinese, Japanese, Hawaiians, Arabs, East Indians, the Assyrians, they understand: marry within your own. Network within your own. Even the so-called Israelis understand that. Palestinians understand that. But we all confused. And they don't have our book. Our book says the exact same thing that they do.
 
-- Anyway, let's go back to this page now. I'm sorry. That was a tangent.
+- Anyway, let's go back to this page now. That was a tangent.
 
 - **Officer:** Much needed, sir. Much needed.
 
@@ -278,7 +272,7 @@ Reading from *Sex and Race* by J.A. Rogers, page 65, "Negro ancestry in the whit
 
 > The Catholic sovereigns were dealers in negro slaves. It was Christopher Columbus who went plundering in negro slaves in Guinea before stealing Indian slaves in Cuba.
 
-- Wow. Wow. Wow. Never taught that, huh? They ain't learn you that. They ain't learn you that. Cuz this dude Columbus is stealing us from Guinea, and then turn around and stole Indian slaves also from Cuba.
+- Never taught that, huh? They ain't learn you that. They ain't learn you that. Cuz this dude Columbus is stealing us from Guinea, and then turn around and stole Indian slaves also from Cuba.
 
 - **Officer:** Yeah, but they shaking their behind going down Manhattan for Columbus Day too.
 
@@ -290,13 +284,13 @@ Reading from *Sex and Race* by J.A. Rogers, page 65, "Negro ancestry in the whit
 
 > And in Seville, there was a municipal council of native negroes with fraternal orders, kings, and overseers.
 
-- Wow. Wait. So wait. Native. That means we were from there. It says they were native negroes. With fraternal orders, kings, and overseers. We were kings. So you had some parts of Spain, when the white man took over lands and conquered us, we were slaves in those lands. But other parts they didn't take over, we were still kings over those lands. We were divided among ourselves. We read that earlier.
+- So wait. Native. That means we were from there. It says they were native negroes. With fraternal orders, kings, and overseers. We were kings. So you had some parts of Spain, when the white man took over lands and conquered us, we were slaves in those lands. But other parts they didn't take over, we were still kings over those lands. We were divided among ourselves. We read that earlier.
 
 > The negro came first to the Indies from Spain, not from Africa.
 
-- Wait. Wait. Wait. Woah. Woah. Wait a minute. You got to read that real slow, cuz none of y'all think that the slave trade started from Africa and over here. No. No. Read it again.
+- Woah. Woah. Wait a minute. You got to read that real slow, cuz none of y'all think that the slave trade started from Africa and over here. No. No.
 
-- The negro came first to the Indies from Spain. So the Negroes that were shipped to the Americas came from Spain. Now, remember we read earlier that the Jews were exported from Spain and Portugal. Right. And they were called African Moors in the same breath. That's who he's talking about. It's the same people. Not from Africa.
+- The negro came first to the Indies from Spain. So the Negroes that were shipped to the Americas came from Spain. Now, remember we read earlier that the Jews were exported from Spain and Portugal. And they were called African Moors in the same breath. That's who he's talking about. It's the same people. Not from Africa.
 
 > And as Euclides da Cunha said of Brazil, the mulatto was not made in America.
 
@@ -304,7 +298,7 @@ Reading from *Sex and Race* by J.A. Rogers, page 65, "Negro ancestry in the whit
 
 > He came to us already made from the mother country. The African Negro slave trade was more abundant during the 15th and 16th centuries for the peninsula than for America.
 
-- Right. Meaning it was because we were conquered at that point in time. So the mulatto was born in Spain, with a white mother and black man. Read the next part here.
+- Meaning it was because we were conquered at that point in time. So the mulatto was born in Spain, with a white mother and black man. Read the next part here.
 
 > Negroes were adopted into royal families,
 
@@ -312,7 +306,7 @@ Reading from *Sex and Race* by J.A. Rogers, page 65, "Negro ancestry in the whit
 
 > given the royal surname,
 
-- Whoa, whoa, whoa, whoa. You read that earlier about the names being given. Royal surnames came from us. Read it again.
+- Whoa, whoa, whoa, whoa. You read that earlier about the names being given. Royal surnames came from us.
 
 > Negroes were adopted into royal families, given the royal surname, and accepted into marriage with the nobility. Moreno Villa named several such, among them Don Alfonso Carlos de Borbon, adopted son of Charles the III and an architect.
 
@@ -328,9 +322,9 @@ Reading from *Sex and Race* by J.A. Rogers, page 65, "Negro ancestry in the whit
 
 **Comment:** Y'all are doing an amazing job. One of my most favorite IUIC-TV shows. Very smart and intelligent leaders. Thank you for this truth. That is from Adair Israel, IUIC-ATF.
 
-**Deacon Eythan:** All praises to the Most High. Thank you for watching, my sis. Make sure you share, like, subscribe. All praises to the Most High. Yeah, you're not going to find this information in your school system.
+**Deacon Eythan:** Thank you for watching, my sis. Make sure you share, like, subscribe. Yeah, you're not going to find this information in your school system.
 
-*[[32:37](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=1957s)]* **Text:** Shalom, brothers. Quick question. What people were the Assyrians, Persians, and Medes? Thanks. Shalom.
+*[[32:37](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=1957s)]* **Text:** Shalom, brothers. Quick question. What people were the Assyrians, Persians, and Medes? Shalom.
 
 **Deacon Eythan:** No, the Assyrians are people who resided in between... They were called Asshur, the children of Asshur. Semites. You read Genesis 10, he had a son named Asshur. And the Asshurites, or Assyrians, became Assyrians. They're also referred to today as Kurds, like Kurdistanians. There's like a little area called Kurdistan. It resides in between Egypt, Iran, Syria, and Iraq, I think. It's like a little county in between those areas. And they intermingle with each of those groups. A lot of Syrians intermingle with them. Even in the Bible they intermarried a lot. But the Syrians, Iranians, Iraqis, Turkey, they're in between those lands. So the Assyrians make up pretty much a percentage of each of those areas. But they were a people in themselves, called the children of Asshur in Genesis 10. A S S U R, I believe. Or A S S H U R.
 
@@ -352,7 +346,7 @@ Reading from *When Scotland Was Jewish*, page 21, on H R H Prince Michael Stewar
 
 > H R H Michael Stewart puts the circumstances in a rather straightforward manner in his narrative. The Stewart family maternal line
 
-- There's one. The Stewart family maternal line, the mother's side. Okay? Cuz King James' mother's side was heavily royal. It was royal. We're going to get into his mother's side in a minute, cuz the mom's side goes back as far as Macbeth. That whole line, the … what's his name again? All right. What's his name? The … Oh, Ken-, Kenneth … Kenneth the … Kenneth the … Kenneth the … and Macbeth, all of them is the same line. All the same line. We got to say it with passion. Kenneth the … Kenneth. We got to say it so no one's offended.
+- There's one. The Stewart family maternal line, the mother's side. Cuz King James' mother's side was heavily royal. It was royal. We're going to get into his mother's side in a minute, cuz the mom's side goes back as far as Macbeth. That whole line, the … what's his name again? What's his name? The … Oh, Ken-, Kenneth … Kenneth the … Kenneth the … Kenneth the … and Macbeth, all of them is the same line. All the same line. We got to say it with passion. Kenneth the … Kenneth. We got to say it so no one's offended.
 
 - **Officer:** What you say, …
 
@@ -372,15 +366,13 @@ Reading from *When Scotland Was Jewish*, page 21, on H R H Prince Michael Stewar
 
 > that came to England with William the Conqueror and his Norman army in 1066.
 
-- Come on.
-
 > Originally named FitzAlan,
 
 - Originally named FitzAlan? That's the father's side. Now, notice this here. I'm just reading down, and I noticed this here. It's good. It's a link. We got a link now. FitzAlan was King James' paternal line. The FitzAlans is King James' paternal line, because they came from France. His father's side came from France. Mother's side from England. But they're the same family.
 
 > Originally named FitzAlan, the family took the name of Stewart after serving as royal stewards to the Bruce dynasty of Scotland.
 
-- Now, the word Stewart. We got too many things to touch on. We got to hit Stewart. And we got to hit France. Make a note of it. So, Stewart. Read on.
+- Now, the word Stewart. We got too many things to touch on. We got to hit Stewart. And we got to hit France. Make a note of it. So, Stewart.
 
 > The family took the name of Stewart after serving as royal stewards to the Bruce dynasty of Scotland by marrying the female heir of King Robert Bruce in 1315. Walter Stewart,
 
@@ -388,11 +380,11 @@ Reading from *When Scotland Was Jewish*, page 21, on H R H Prince Michael Stewar
 
 > who by this time served also as regent,
 
-- That whole line, that Walter, the FitzAlans, they were like warriors. And they were stewards. And they were to help aid the kings down the line. Okay? And eventually they were so noble, and in such a high reputation, they eventually were invited into marriage into the family. That's what happened.
+- That whole line, that Walter, the FitzAlans, they were like warriors. And they were stewards. And they were to help aid the kings down the line. And eventually they were so noble, and in such a high reputation, they eventually were invited into marriage into the family. That's what happened.
 
 > ensured that his son Robert II eventually advanced to the throne of Scotland.
 
-- Now, jump down to... That part I can't really go with. Go to page 33. So understand France. Okay, France is going to play a big part in the lineage of King James. Even the clans itself, what we've gone over, the surnames, and the different clans. Stewart and Campbell. I read about that earlier on the map. Stewart and Campbell. There you go. Read that now. Watch. We're going to stop that at Minster.
+- Now, jump down to... That part I can't really go with. Go to page 33. So understand France. Okay, France is going to play a big part in the lineage of King James. Even the clans itself, what we've gone over, the surnames, and the different clans. Stewart and Campbell. I read about that earlier on the map. Stewart and Campbell. Read that now. Watch. We're going to stop that at Minster.
 
 </div>
 
@@ -404,7 +396,7 @@ Reading from *When Scotland Was Jewish*, page 33, "Stewart and Caldwell" · read
 
 - Sorry. Let me stop real quick. Now, the last page you read, the guy was saying that he bases his Jewish descent on the maternal line. Because the so-calleds are saying down the line that the King James family were Jews based upon the mother. No, because in history I'm going to show you, our history, they went by fathers. They went by fathers. But what happened was, it was a mixture. Okay, I'm going to get to that, Lord's will, later on, probably next episode, cuz I'm not going to have time to go over that now.
 
-- You got a text? Post it up. I'll read this first and I'll read the text after. Sorry. Go ahead, read it. Stewart and Caldwell. Remember: Stewart and Caldwell.
+- You got a text? Post it up. I'll read this first and I'll read the text after. Sorry. Stewart and Caldwell. Remember: Stewart and Caldwell.
 
 > The Stewart donors' scores match those of the Caldwell donors in the second wave of immigration. So we now move to a discussion. Those Jews are crypto-Jews
 
@@ -420,11 +412,9 @@ Reading from *When Scotland Was Jewish*, page 33, "Stewart and Caldwell" · read
 
 > is the most frequent male haplotype on record.
 
-- Come on.
-
 > It is widely distributed throughout Europe.
 
-- Right, a genetic marker regarding your lineage. Watch this.
+- Right, a genetic marker regarding your lineage.
 
 > In America
 
@@ -432,7 +422,7 @@ Reading from *When Scotland Was Jewish*, page 33, "Stewart and Caldwell" · read
 
 - **Officer:** It was Campbell you probably seen, but Caldwell might be there.
 
-- **Deacon Eythan:** I saw Caldwell too, but I didn't bother referencing it, cuz I thought it was Campbell. Blow it up. Look for Caldwell. Closer, closer, closer. Come on. Campbell. Cameron. Frazier. McLeod. Go over to the bottom. Okay. Kennedy. Go all the way up. Stewart. Campbell. No. Murray. I see Murray. Murray's fine, but I don't see Caldwell. That's fine. Let's go out of this. I'll look up Caldwell another time. And all these surnames, the clans on that map, is going to play an important part later on in the series. What you got?
+- **Deacon Eythan:** I saw Caldwell too, but I didn't bother referencing it, cuz I thought it was Campbell. Blow it up. Look for Caldwell. Closer, closer, closer. Campbell. Cameron. Frazier. McLeod. Go over to the bottom. Kennedy. Go all the way up. Stewart. Campbell. No. Murray. I see Murray. Murray's fine, but I don't see Caldwell. That's fine. Let's go out of this. I'll look up Caldwell another time. And all these surnames, the clans on that map, is going to play an important part later on in the series. What you got?
 
 > It is widely distributed throughout Europe. In America it occurs in most ethnic populations,
 
@@ -466,15 +456,15 @@ Reading from *When Scotland Was Jewish*, page 33, "Stewart and Caldwell" · read
 
 **Another officer:** Yeah, cuz you asked why is our name showing up there. Remember you said, why is that name showing up amongst the Hispanics? Allow me to answer it for them. They might not know the answer. Because we are not gay. That's why. You know what I'm saying? Who's marrying our people. And our names stand predominant.
 
-**Deacon Eythan:** All right. I like that. Get that sound bite. What you just say? Because we are not gay. Damn, I sound so good you didn't even understand what I said.
+**Deacon Eythan:** I like that. Get that sound bite. What you just say? Because we are not gay. Damn, I sound so good you didn't even understand what I said.
 
 *[[48:30](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=2910s)]* Hey, get the book with the map. No, matter of fact, get the page 235 real quick. And then go back to that book with the map, but not the map, the page. McDuff.
 
 **Officer:** There was one more comment, too.
 
-**Comment:** I absolutely love you guys. Thank you. Thank you. Thank you. Shalom, my brothers. Reina.
+**Comment:** I absolutely love you guys. Shalom, my brothers. Reina.
 
-**Deacon Eythan:** Reina, you got to let us know where you're from, where you watching from, so that we will know. We'll shout out your city. We'll shout out your school. Even probably some people probably not part of IUIC. That's fine. Just let us know your city and we'll definitely shout you out. What you got here?
+**Deacon Eythan:** Reina, you got to let us know where you're from, where you watching from, so that we will know. Even probably some people probably not part of IUIC. That's fine. What you got here?
 
 *[[49:19](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=2959s)]* So let's kind of go over what we've been going over, as far as them taking over us, going into Africa, and how the slave trade and all that came about.
 
@@ -484,7 +474,7 @@ Reading from *Ancient and Modern Britons*, Volume One, page 235 · read by an of
 
 > In short, ever since the overthrow of the black nobility in 1455, or to go further back, ever since the 10th century, when a white king displaced a black one on the Pictish throne, those Moors who refused to accept the laws of the new civilization, and who refrained from mixing their blood with that of the white races, had been sinking lower and lower in the social scale, until in the 16th century they had become outlawed banditti, monsters, or even called Gypsies.
 
-- So it's showing that when Esau took over, we became lost in history, pretty much. Because in order to be of some relevance, we would have to mix our... Esau is saying we have to mix our blood with theirs, but we refused to do that. Read it again, I'm sorry.
+- So it's showing that when Esau took over, we became lost in history, pretty much. Because in order to be of some relevance, we would have to mix our... Esau is saying we have to mix our blood with theirs, but we refused to do that.
 
 - What is this? It's Ancient and Modern Britons. Volume one? Page what? 235.
 
@@ -494,11 +484,9 @@ Reading from *Ancient and Modern Britons*, Volume One, page 235 · read by an of
 
 > or to go further back, ever since the 10th century, when a white king displaced a black one on the Pictish throne,
 
-- Wow. On the Pictish throne. When a white king displaced a black one on the Pictish throne. Meaning the Picts were black.
+- On the Pictish throne. When a white king displaced a black one on the Pictish throne. Meaning the Picts were black.
 
 > those Moors who refused to accept the laws of the new civilization, and who refrained from mixing their blood with that of the white races, had been sinking lower and lower in the social scale, until in the 16th century they had become outlawed banditti, monsters, or Gypsies.
-
-- Wow.
 
 - **Another officer:** Last night I brought that up to you, correct? The Gypsies. And I know we're going to get in that, but especially in Rome. We were talking about Italy, right, Deac? But in Rome you have a lot of Gypsies. The Gypsies are the lower class. They're the … of Rome. And their ancestry might be connected to us. That's why they seen as lower class people.
 
@@ -508,7 +496,7 @@ Reading from *Ancient and Modern Britons*, Volume One, page 235 · read by an of
 
 *[[52:15](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=3135s)]* **Officer:** Oh, by the way, the Horonites is possibly Moabites as well, to answer his question. It says it's derived by Gesenius from Horonaim, the Moabitish town, but by Fürst from Horon, Beth-horon.
 
-**Deacon Eythan:** Right. I've heard it before, that he's probably Moab. It's in Jeremiah 48 and 3. Oh, yeah. Horonaim, Moab. All right. So he was Moab. All praise the Lord. There you go.
+**Deacon Eythan:** I've heard it before, that he's probably Moab. It's in Jeremiah 48 and 3. Oh, yeah. Horonaim, Moab. So he was Moab. All praise the Lord.
 
 *[[52:41](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=3161s)]* **Another officer:** And real quick, what you just read there, Jazz. Remember you said the mulatto wasn't made in America. It was made in Spain. So now you seen, when they conquered these people, they had to marry in order to remain their status in society. And the more they refused, the more they sank lower and lower in society. And the whites, what they did, they have a thing called sangre azul, meaning blue blood, all pure blood, where basically if they find that your lineage dates back to a black man, then that child couldn't hold certain positions, going back to that scale again. And if you had a white father and black mother, you gained privilege, because remember, you are what your father is. They knew this back then. And also, even in a lot of West Indian countries, you'll find that the mulattos are the ones with the better jobs, with the better positions in society. You have the tiers, the ones that get the land and so forth and own the casinos. That'd be the ones with the white daddies.
 
@@ -516,7 +504,7 @@ Reading from *Ancient and Modern Britons*, Volume One, page 235 · read by an of
 
 *[[53:57](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=3237s)]* **Text:** Shalom leadership. There's a Gad tribe of Eagles in Nigeria in Anambra state. Just wanted to know if you all can visit that village and spread the word there. I'm originally from Nigeria, Igbo, but now congregating with IUIC Los Angeles.
 
-**Deacon Eythan:** Shout out to Los Angeles. Shout out. Well, I heard of Gadangbe, about the Gad thing, but I'm not familiar with the Igbos of Nigeria being there. But I wouldn't be surprised. We have to have connections first. We can't just go into a terrain and not have anyone, you know, at least be around there, from there. So, Lord's will, if someone reaches out to us from that area. We've been in Nigeria before. I've been in Nigeria before. But once we get some contact information and so forth, then eventually we'll break ground there.
+**Deacon Eythan:** Well, I heard of Gadangbe, about the Gad thing, but I'm not familiar with the Igbos of Nigeria being there. But I wouldn't be surprised. We have to have connections first. We can't just go into a terrain and not have anyone, you know, at least be around there, from there. So, Lord's will, if someone reaches out to us from that area. We've been in Nigeria before. I've been in Nigeria before. But once we get some contact information and so forth, then eventually we'll break ground there.
 
 **Officer:** Or maybe you yourself. Send out some flyers.
 
@@ -526,9 +514,9 @@ Reading from *Ancient and Modern Britons*, Volume One, page 235 · read by an of
 
 **Deacon Eythan:** Those are Ethiopians. Those are a branch of Ethiopians. I think the Sabians are like Cush and Ishmael, or Cush and Abraham's children, mingled together. Sabians are like a sect of Ethiopians. Like Sabians, like, what's her name? Queen of Sheba. Like Shebians. That's her. Same thing. That's that line. Like a branch of Ethiopians. I'll put it that way. Branch of Cushites, I believe. Sabians. Isaiah 45 is men of stature: the Egyptians, the Ethiopians and Sabians. That's the Hamitic families.
 
-*[[56:00](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=3360s)]* **Text:** Shalom deacon and officers, heroes of Our Hidden History. I've always been a fan of history and had delved into the history of our people before the truth, but not to the extent of this effort. You have taken the mantle from the bishops and done an exemplary job. We are extremely proud of you all. Praise to the Most High. Thank you. Your big words have caused Abaddon to stumble, but we will help him stand again.
+*[[56:00](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=3360s)]* **Text:** Shalom deacon and officers, heroes of Our Hidden History. I've always been a fan of history and had delved into the history of our people before the truth, but not to the extent of this effort. You have taken the mantle from the bishops and done an exemplary job. We are extremely proud of you all. Your big words have caused Abaddon to stumble, but we will help him stand again.
 
-**Deacon Eythan:** All praise the Lord. Thank you. Thank you. Whoopsie. Damn. Is that it? Is there more? I hope that was it. All praise. His brain's going to hurt. He was like, exemplary. Oh Lord. What words is this? Trying to set me up. Hey, pull that book up with the map. You remember the one we just had with the map.
+**Deacon Eythan:** All praise the Lord. Whoopsie. Damn. Is that it? Is there more? I hope that was it. His brain's going to hurt. He was like, exemplary. Oh Lord. What words is this? Trying to set me up. Hey, pull that book up with the map. You remember the one we just had with the map.
 
 **Officer:** Damn. They keep sending more, Deac. More things to read? I think cuz they know I'm reading.
 
@@ -548,15 +536,15 @@ Reading from a text message quoting *Webster's Bible Dictionary* on the word com
 
 - **Another officer:** Deacon, get this. Fire, water. As above, so below. It's all the same. The pyramid up and down, up and down, right? 360 degrees, the sun. It's all witchcraft. Represents the man and the woman.
 
-- **Deacon Eythan:** Right, right. It's completion, a circle. It's a lot of stuff. Don't lose your mind, brother. Don't go deep into these things. Cuz you'll mess around and bug out, I'm telling you. Cuz when I was in the world, I was dabbling into that stuff, and it's confusing. It sound real deep. If y'all got kids in the room, cover their ears. It's … It's wacky … Trust me. When I was in the world, I was dabbling in that stuff. I was trying to learn that stuff. It was stupid. It's math, and all that, and completion, and women and men. It was ridiculous. It's like Egyptology, same thing. The ankh, it's the same thing. Confusion, deep confusion, deep dummy nonsense. Stay in here. You're in the right place. Just stay with us. You'll be all right.
+- **Deacon Eythan:** It's completion, a circle. It's a lot of stuff. Don't lose your mind, brother. Don't go deep into these things. Cuz you'll mess around and bug out, I'm telling you. Cuz when I was in the world, I was dabbling into that stuff, and it's confusing. It sound real deep. If y'all got kids in the room, cover their ears. It's … It's wacky … Trust me. When I was in the world, I was dabbling in that stuff. I was trying to learn that stuff. It was stupid. It's math, and all that, and completion, and women and men. It was ridiculous. It's like Egyptology, same thing. The ankh, it's the same thing. Confusion, deep confusion, deep dummy nonsense. Stay in here. You're in the right place. Just stay with us. You'll be all right.
 
 - **Another officer:** Deacon, I got a scripture for you. Can we read that scripture for us? The book of Ecclesiastes.
 
-- **Deacon Eythan:** All right. Yes, sir. You're killing my time, brother. No more questions from you, man. It's long paragraphs and soliloquies. You got something there too? That's the same guy? What does it say?
+- **Deacon Eythan:** Yes, sir. You're killing my time, brother. No more questions from you, man. It's long paragraphs and soliloquies. You got something there too? That's the same guy? What does it say?
 
 - **Officer:** He said the Zohar is the Kabbalah.
 
-- **Deacon Eythan:** Oh, okay. Thanks, brother. We're done with that Zohar stuff, bro. Let's go back. All right. Read that scripture real quick.
+- **Deacon Eythan:** Thanks, brother. We're done with that Zohar stuff, bro. Let's go back. Read that scripture real quick.
 
 </div>
 
@@ -568,7 +556,7 @@ Reading from a text message quoting *Webster's Bible Dictionary* on the word com
 
 - You stay in the Bible, bro. That's it. Stay in the Bible, bro. Otherwise, you'll be crazy like I was.
 
-*[[1:02:08](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=3728s)]* Where we at? All right. So, going back to the clan. Mac this, Mac that, which means son of. Want to get some more on that with Macduff. Clan Macduff.
+*[[1:02:08](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=3728s)]* Where we at? So, going back to the clan. Mac this, Mac that, which means son of. Want to get some more on that with Macduff. Clan Macduff.
 
 <div class="reading">
 
@@ -576,11 +564,9 @@ Reading from the book with the clan map (the book is not named on air), page 56 
 
 > This surname is one of the most ancient in Scotland, and the chief was among the first of those nobles who became distinguished by the Saxon title of Earl. Dub, the BH having the sound of F, so Duff, or V, is the term in Gaelic descriptive of a black or dark-colored man.
 
-- Wow. Wow, wow.
-
 > And all those who are of his clan refer to Macduff, the powerful Thane of Fife,
 
-- The powerful what? Thane of Fife. Oh, that name, thane. Okay, go ahead. I'm trying to stay calm. Continue.
+- The powerful what? Thane of Fife. Oh, that name, thane. I'm trying to stay calm. Continue.
 
 - Remember Beowulf? Did y'all see that movie Beowulf? He was a thane. Damn. The main character of Beowulf was a thane. That was his people. He was called a thane. That movie's crazy.
 
@@ -596,17 +582,17 @@ Reading from the book with the clan map (the book is not named on air), page 56 
 
 - **Deacon Eythan:** Yeah, we got to bring out Macbeth.
 
-- **Another officer:** Go ahead, man. Just get into it, man. If I say no... Go ahead. Let's do it. You already brought it out. You already said it, man. You could have been holding it on for something.
+- **Another officer:** Just get into it, man. If I say no... Let's do it. You already brought it out. You already said it, man. You could have been holding it on for something.
 
 - **Deacon Eythan:** Yeah, no. I'll forget about it. So you might as well just drop it out now.
 
 - **Another officer:** We get totally into the show, you start getting crazy. You start dropping jewels. Let's just do it.
 
-- **Deacon Eythan:** Hey, and show that house too. Yeah, look up Holyrood Palace. You got to help them spell that. They're going to sit there and spell rude. H O L Y R O O D, Holyrood Palace. It'll come up. Yeah, right there. That's it. Put the palace up on the screen. It's on the top left. The white tops? Yes. That's it. Put that up on the screen so everybody can see it.
+- **Deacon Eythan:** Hey, and show that house too. Yeah, look up Holyrood Palace. You got to help them spell that. They're going to sit there and spell rude. H O L Y R O O D, Holyrood Palace. It'll come up. Yeah, right there. That's it. It's on the top left. The white tops? Yes. That's it. Put that up on the screen so everybody can see it.
 
 </div>
 
-*[[1:04:39](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=3879s)]* That place is very important, bro. This goes back to the maternal line of King James. Okay, remember we mentioned FitzAlan. That's the Stewarts. That's his father's line. Walter Stewart, FitzAlan. They were Stewarts. That's the father's line. But the royal line of kings and queens is primarily his mother's side, which they married into because they maintained a repute of honor among the family. So they eventually married into the family. Okay? They were Breton. They were French. They were Bretons. So the mom's side was a Breton. The father's side was a Breton with an E. B R E T O N, France. Briton, B R I T O N, is Britain. Breton, Breton. That's the intermarried families. We got to bring that all out.
+*[[1:04:39](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=3879s)]* That place is very important, bro. This goes back to the maternal line of King James. Okay, remember we mentioned FitzAlan. That's the Stewarts. That's his father's line. Walter Stewart, FitzAlan. They were Stewarts. That's the father's line. But the royal line of kings and queens is primarily his mother's side, which they married into because they maintained a repute of honor among the family. So they eventually married into the family. They were Breton. They were French. They were Bretons. So the mom's side was a Breton. The father's side was a Breton with an E. B R E T O N, France. Briton, B R I T O N, is Britain. Breton, Breton. That's the intermarried families. We got to bring that all out.
 
 **Another officer:** We know a Briton. That's Anglo-Saxons. Britons are Anglo-Saxons, right? With the B R I.
 
@@ -638,7 +624,7 @@ Reading from *What I Saw in Europe*, on Holyrood Palace · read by an officer  *
 
 > We stood long before that of Macbeth,
 
-- Oh, oh. Macbeth. You know Macbeth? Shakespeare wrote about this man. Macbeth. Mac Beth.
+- Macbeth. You know Macbeth? Shakespeare wrote about this man. Macbeth. Mac Beth.
 
 > wondering whether indeed that swarthy face,
 
@@ -654,7 +640,7 @@ Reading from *What I Saw in Europe*, on Holyrood Palace · read by an officer  *
 
 - **Officer:** And the name of this book is called What I Saw in Europe.
 
-- **Deacon Eythan:** Right. Cuz the person went into that castle, he saw Macbeth's depiction in the castle. Dark skin, curly and shaggy locks of Macbeth, painted. Come on, man. Come on, come on. There's too much.
+- **Deacon Eythan:** Cuz the person went into that castle, he saw Macbeth's depiction in the castle. Dark skin, curly and shaggy locks of Macbeth, painted. There's too much.
 
 - **Another officer:** Oh, you going to learn today.
 
@@ -662,23 +648,23 @@ Reading from *What I Saw in Europe*, on Holyrood Palace · read by an officer  *
 
 ## In Closing
 
-*[[1:09:01](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=4141s)]* All right. Anything else? That's it. All right. Damn. So we going to wrap it up on that. Hope you guys got something on that. Hope you guys gleaned something from today's lesson. Shout out to the breakfast team. I'm burping all damn day. Ate too much and too fast. But it was good. All praise the Lord. And the IT team did an excellent job the whole month, and they came through with flying colors. All praises for them for that. And out to the audience. Shout out to those who had commentary, who came and asked questions. Thank you for that. And as well as the encouragement, thank you very much for that. Announcements, over there?
+*[[1:09:01](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=4141s)]* Anything else? That's it. Damn. So we going to wrap it up on that. Hope you guys got something on that. Hope you guys gleaned something from today's lesson. I'm burping all damn day. Ate too much and too fast. But it was good. All praise the Lord. And the IT team did an excellent job the whole month, and they came through with flying colors. All praises for them for that. And out to the audience. Thank you for that. And as well as the encouragement, thank you very much for that. Announcements, over there?
 
-*[[1:09:38](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=4178s)]* **Officer:** Shout out, it was two young brothers that we met during Tabernacles. One of them was Aaron, that did the research. They went deep into it.
+*[[1:09:38](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=4178s)]* **Officer:** One of them was Aaron, that did the research. They went deep into it.
 
 **Deacon Eythan:** I'm still waiting for y'all to send me that information.
 
-**Officer:** The young boys you ran into. Right. So shout out to these brothers. I know brother Aaron is from Tallahassee, Florida. So keep researching, man. As you come up with these things, share it with us, and the deacon will come and let you know if it's the right path or not.
+**Officer:** The young boys you ran into. I know brother Aaron is from Tallahassee, Florida. So keep researching, man. As you come up with these things, share it with us, and the deacon will come and let you know if it's the right path or not.
 
-**Deacon Eythan:** Yeah, I make sure to shout them out when I go into that book, about the things he showed me out there in Tabernacles. So make sure you give proper respect to the information provided, cuz we had the book, but we didn't go that far into the book like he did. He brought some things to our attention that we're going to delve into at another time. All right. So all praises to you young brothers, up and coming scholars in Israel.
+**Deacon Eythan:** So make sure you give proper respect to the information provided, cuz we had the book, but we didn't go that far into the book like he did. He brought some things to our attention that we're going to delve into at another time. So all praises to you young brothers, up and coming scholars in Israel.
 
-**Officer:** Yeah, the Lord's will. God forbid anything happens, y'all got to take the mantle, man. Y'all just keep doing what we doing, you know? It is what it is. Hey, shout out to the officer. That's his son, from Tallahassee, Florida. So you're doing a great job, pops. Keep the brothers into this truth, all right? All praises to the Most High. All right, Israel. Let's give Deacon another hand for that class. All praises to the Most High.
+**Officer:** Yeah, the Lord's will. God forbid anything happens, y'all got to take the mantle, man. Y'all just keep doing what we doing, you know? It is what it is. That's his son, from Tallahassee, Florida. So you're doing a great job, pops. Keep the brothers into this truth, all right? All right, Israel. Let's give Deacon another hand for that class.
 
-*[[1:11:00](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=4260s)]* **Deacon Eythan:** Oh, shout out: we got guests also, newlyweds. We got Officer Mark from DC, newly married with his bride here, Sister Lilly. Shout out. All praises. Thank you for stopping by and visiting. We got a live audience here too, man. Our first live audience. This is a mark. All praises to the Most High.
+*[[1:11:00](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=4260s)]* **Deacon Eythan:** We got Officer Mark from DC, newly married with his bride here, Sister Lilly. Thank you for stopping by and visiting. We got a live audience here too, man. Our first live audience. This is a mark.
 
 *[[1:12:12](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=4332s)]* **Officer:** That's it, Deacon.
 
-**Deacon Eythan:** All right. Shalom. Until then, next week, Lord willing, shalom. Most High bless. See y'all then. Shalom. Most High bless.
+**Deacon Eythan:** Shalom. Until then, next week, Lord willing, shalom. Most High bless. See y'all then. Shalom. Most High bless.
 
 ## Announcements & References
 

@@ -18,9 +18,9 @@ tags: ["Our Hidden History", "christ", "deceit", "false-religion", "rome", "sata
 
 ## Introduction
 
-*[[7:14](https://www.youtube.com/watch?v=JNC_LHNjdVQ&t=434s)]* They started touching on some of the same scriptures too. It's crazy, right? It's a spirit, man. All praises for those classes. Those classes, you know, that we need to build our spirit. All right, so to get right into it: last week we dealt with the virgin birth deception. We dealt with the virgin birth deception. So what I like to do, I like to do a little recap, a little review of what we went over last week, just to get back into the flow. So give me the page, the birth of Christ. Because we dealt with the fact that Christ had a biological father on the earth. We dealt with that: he had a biological father on the earth.
+*[[7:14](https://www.youtube.com/watch?v=JNC_LHNjdVQ&t=434s)]* So to get right into it: last week we dealt with the virgin birth deception. We dealt with the virgin birth deception. So what I like to do, I like to do a little recap, a little review of what we went over last week, just to get back into the flow. So give me the page, the birth of Christ. Because we dealt with the fact that Christ had a biological father on the earth. We dealt with that: he had a biological father on the earth.
 
-*[[8:07](https://www.youtube.com/watch?v=JNC_LHNjdVQ&t=487s)]* Christ was not born immaculately. Mary did not have a child on her own. That never happened. That never happened. Give me that; pull that up, *The Birth of Jesus Christ*. So we went over this last week; like I said, we're just doing a recap. By Wilhelm Soltau. Next page. Hey, y'all good back there? Y'all good? All right.
+*[[8:07](https://www.youtube.com/watch?v=JNC_LHNjdVQ&t=487s)]* Christ was not born immaculately. Mary did not have a child on her own. That never happened. That never happened. Give me that; pull that up, *The Birth of Jesus Christ*. So we went over this last week; like I said, we're just doing a recap. By Wilhelm Soltau.
 
 ## Readings and Scriptures
 
@@ -38,7 +38,7 @@ Reading from *The Birth of Jesus Christ* by Wilhelm Soltau, a recap of last week
 
 > His statements, whether taken together or separately, exclude the idea of a supernatural origin.
 
-- So you won't find that Christ was born of a supernatural origin in the gospel of Mark. It's not there. Read next page.
+- So you won't find that Christ was born of a supernatural origin in the gospel of Mark. It's not there.
 
 > Mark chapter 6 tells us that when Jesus came into his native town Nazareth, the people marveled at his teaching and works, and said, Is not this the carpenter, the son of Mary, and brother of James and Joseph and Judas and Simon?
 
@@ -80,7 +80,7 @@ Reading from *The Birth of Jesus Christ* by Wilhelm Soltau, a recap of last week
 
 - And remember in Tobit, I think Bishop brought it out, in Tobit where he said, Who's your family, what family you're from? I would know your tribe. We cared about who the family was. We understood that; we knew each other. And also, even if the people didn't know, let's say the people didn't know: not even his brothers believed him at first. So understand that Christ had a biological father, and we're going to prove that. We're gonna go into that.
 
-*[[15:16](https://www.youtube.com/watch?v=JNC_LHNjdVQ&t=916s)]* So let's go back to the book. Oh, play the video. Play the video real quick, the twisted video about the Catholic Church, which we're probably going to touch on later. Yeah, play it, man.
+*[[15:16](https://www.youtube.com/watch?v=JNC_LHNjdVQ&t=916s)]* So let's go back to the book. Play the video real quick, the twisted video about the Catholic Church, which we're probably going to touch on later. Yeah, play it, man.
 
 <div class="reading">
 
@@ -118,7 +118,7 @@ Reading from *The Birth of Jesus Christ* by Wilhelm Soltau, continued  *[[16:54]
 
 > <sup>[30](/bible/acts/2#v30)</sup> Therefore being a prophet, and knowing that God had sworn with an oath to him, that of the fruit of his loins, according to the flesh, he would raise up Christ to sit on his throne;
 
-- You see that? According to the flesh. Meaning what? According to sex. They had to have sex. Read it again.
+- According to the flesh. Meaning what? According to sex. They had to have sex.
 
 - So according to the flesh: according to sex. Hey, give me Wisdom of Solomon 7 and 1. Wisdom of Solomon 7 and 1.
 
@@ -154,7 +154,7 @@ Reading from *The Birth of Jesus Christ* by Wilhelm Soltau, continued  *[[16:54]
 
 - Hey, that's heavy, because going back to Wisdom of Solomon, it said of the seed of man, being compacted in blood.
 
-- Okay. Angel does not have blood and water, because they have a different type of body.
+- Angel does not have blood and water, because they have a different type of body.
 
 *[[22:45](https://www.youtube.com/watch?v=JNC_LHNjdVQ&t=1365s)]* Hey, get Hebrews 2:16. Why are we on that? There ain't no bombs, nothing? They dropped all the bombs yesterday. They dropped them all; they emptied the clip. Ain't no more C4. Yo, y'all found that dictionary? Yeah, they got it. But first, Hebrews 2:16 real quick.
 
@@ -162,7 +162,7 @@ Reading from *The Birth of Jesus Christ* by Wilhelm Soltau, continued  *[[16:54]
 
 > <sup>[16](/bible/hebrews/2#v16)</sup> For verily he took not on him the nature of angels; but he took on him the seed of Abraham.
 
-- Read it again. I'm just getting there.
+- I'm just getting there.
 
 - So Christ never took on him the nature of the angels. Why? Because the angels have a certain body, and then we have a certain body. So that's why he's saying he never took on him the nature of the angels.
 
@@ -190,7 +190,7 @@ Reading from a Bible dictionary, the entry *Virgin birth*  *[[24:55](https://www
 
 > The virgin birth means that Jesus Christ entered into the stream of human life without the mediation of an earthly father,
 
-- So that's what the whole virgin birth deception is going into. Read it again.
+- So that's what the whole virgin birth deception is going into.
 
 - Without the mediation, meaning there was no earthly father. He just appeared. Mary just had him through the Holy Ghost.
 
@@ -242,7 +242,7 @@ Reading from a web article put up last week, on virgin births before Christ (the
 
 > It also avoids troubling questions of paternity.
 
-- Ah. All right, go down. Go down, man. Esau is crazy. Get to the virgin birth. Go down. Yes, right here. Go back, go up.
+- Ah. Go down, man. Esau is crazy. Get to the virgin birth. Yes, right here. Go back, go up.
 
 - A woman has no Y chromosome, according to their science. You need a Y chromosome in order to make a male. Where else you get it from? He's all crazy, making stuff up.
 
@@ -278,7 +278,7 @@ Reading from a web article put up last week, on virgin births before Christ (the
 
 > The list goes on.
 
-- You see that? The list goes on. Watch this: Hinduism. So you even got so-called East Indians.
+- The list goes on. Watch this: Hinduism. So you even got so-called East Indians.
 
 > Buddhism and ancient China
 
@@ -286,11 +286,11 @@ Reading from a web article put up last week, on virgin births before Christ (the
 
 > All have their share of them, and none is more or less believable than any other myth, fable or symbol. Virgin births are all about the
 
-- Hey, drop that. Give me the Wikipedia now, miraculous birth. I'm sorry, go ahead. You just said it. Where's the book I just sent you? Page 36 and 37.
+- Hey, drop that. Give me the Wikipedia now, miraculous birth. You just said it. Where's the book I just sent you? Page 36 and 37.
 
 - Yeah. Why they had all them virgin births back then, but we haven't seen one today? Mythology, man. It does not exist. I mean, sisters try to say they virgin and they end up pregnant. The Antichrist, 666. That's why the Bible says it.
 
-- Like you said, the Hindus, everybody. I'm sorry. No, you're good.
+- Like you said, the Hindus, everybody. No, you're good.
 
 </div>
 
@@ -324,7 +324,7 @@ Reading from a book, not named on air, pages 35 to 37, on the Antichrist and his
 
 - We've heard that it should come.
 
-- You heard it should come. Right.
+- You heard it should come.
 
 - The Antichrist is already here. They are, you black people, worshiping the religion of the Antichrist, which is Christianity. All right, let's go back to the book.
 
@@ -354,7 +354,7 @@ Reading from the same book, continued  *[[37:37](https://www.youtube.com/watch?v
 
 > The father of lies has invented paganism to counterfeit the pure teaching of the gospel and hide his falsehood under the cloak of Christianity.
 
-- Read that again. Yeah, that's heavy. Damn. That's from the beginning.
+- Yeah, that's heavy. Damn. That's from the beginning.
 
 > As in the true faith, paganism had a promise of a messiah, had a form of baptism, spiritual rebirth, confession of sins, communion, and a promise of immortality.
 
@@ -373,8 +373,6 @@ Reading from the same book, continued  *[[37:37](https://www.youtube.com/watch?v
 - Paganism was before the flood.
 
 > And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth. And God said unto Noah, The end of all flesh has come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.
-
-- Next page.
 
 > Data from well-known scholars and recognized authorities on mythology and archaeology piece together how indeed it was from Babylon, as the scriptures reveal, that all idolatry had its origin, and how all the gods of the Assyrians, Egyptians, Hindus,
 
@@ -402,7 +400,7 @@ Reading from the same book, continued  *[[37:37](https://www.youtube.com/watch?v
 
 > with Satan as its inventor
 
-- There you go. Satan is the inventor of the worship of paganism, of Christianity.
+- Satan is the inventor of the worship of paganism, of Christianity.
 
 > and actually the god behind all the gods of paganism.
 
@@ -442,7 +440,7 @@ Reading from the same book, page 35  *[[42:16](https://www.youtube.com/watch?v=J
 >
 > <sup>[23](/bible/wisdom-of-solomon/14#v23)</sup> For whilst they slew their children in sacrifices, or used secret ceremonies, or made revellings of strange rites;
 
-- You're sacrificing your children. Back then they literally was burning them. Today you sacrificing them spiritually, by bringing them to this pagan custom. The Most High reject our children because we reject them. So now that's the reason why you see what's happening in our communities. Exactly. Right.
+- You're sacrificing your children. Back then they literally was burning them. Today you sacrificing them spiritually, by bringing them to this pagan custom. The Most High reject our children because we reject them. So now that's the reason why you see what's happening in our communities. Exactly.
 
 > <sup>[24](/bible/wisdom-of-solomon/14#v24)</sup> They kept neither lives nor marriages any longer undefiled: but either one slew another traitorously, or grieved him by adultery.
 >
@@ -510,11 +508,11 @@ Reading from the same book, pages 36 and 37  *[[48:39](https://www.youtube.com/w
 
 > As Mediator and head of the covenant of grace, he was styled the lord of the covenant. All the above quotes are given by permission.
 
-- All right, so go back to page 36. Let's see the image. See that: mother and son, the bottom part. The mother goddess of Babylon with her divine son. Go to the next page: a goddess and child from India. Same thing. Now look: she's sitting on what? On the lion, the symbol of the Babylonian. So now you got that image with the new one, the so-called Virgin Mary, Christ. See, look at the fingers. Give me that one with the same symbol. There you go. Can you put them next to each other? Page 37.
+- All right, so go back to page 36. Let's see the image. See that: mother and son, the bottom part. The mother goddess of Babylon with her divine son. Go to the next page: a goddess and child from India. Same thing. Now look: she's sitting on what? On the lion, the symbol of the Babylonian. So now you got that image with the new one, the so-called Virgin Mary, Christ. See, look at the fingers. Give me that one with the same symbol. Can you put them next to each other? Page 37.
 
 - So that's what the scripture says: there's nothing new under the sun. Something that was happening in the beginning, this is something that's happening now. See that? Look at that. Look at that. Right hand. Same thing, right hand. See that?
 
-- Now let's get the one with the baby, the Virgin Mary with the baby, and let me get the one with the crown. There you go. See that? And what was she called? The Queen of Heaven. You see the crown on the head. Queen of Heaven was just one of her names. They added it on. There you go, right there in a nutshell. This is your Christianity religion right there.
+- Now let's get the one with the baby, the Virgin Mary with the baby, and let me get the one with the crown. See that? And what was she called? The Queen of Heaven. You see the crown on the head. Queen of Heaven was just one of her names. They added it on. There you go, right there in a nutshell. This is your Christianity religion right there.
 
 - **Officer:** I was gonna mention something that you read in the book earlier. Remember you said that all the nations' gods all come behind Satan? They even got the Baphomet of Satan with his hands the same way.
 
@@ -530,9 +528,9 @@ Reading from the same book, pages 36 and 37  *[[48:39](https://www.youtube.com/w
 
 - **Officer:** Hey, that was some heavy information. That was good.
 
-*[[53:40](https://www.youtube.com/watch?v=JNC_LHNjdVQ&t=3220s)]* Now we're going to switch it up. So when was Christ born? When was he born? What time of the year was he born? Let's get inside. Give me Luke chapter 2 verse 8. Luke chapter 2 verse 8. Start chapter one? I mean, start verse one. Okay.
+*[[53:40](https://www.youtube.com/watch?v=JNC_LHNjdVQ&t=3220s)]* Now we're going to switch it up. So when was Christ born? When was he born? What time of the year was he born? Let's get inside. Give me Luke chapter 2 verse 8. Luke chapter 2 verse 8. Start chapter one? I mean, start verse one.
 
-*[[54:31](https://www.youtube.com/watch?v=JNC_LHNjdVQ&t=3271s)]* Let me land back off of what the officer was bringing out. Let's prove the Christian church during the Babylonian captivity. Give me Ezekiel 8 and 13. Ezekiel 8:13. Because I said something: I said the woman is always at the head of this thing, trying to drag the black man to the church. She's the one that's always caught up in the horoscopes, the idolatry and the zodiac signs and all of that. Give me Ezekiel 8:13. Read that.
+*[[54:31](https://www.youtube.com/watch?v=JNC_LHNjdVQ&t=3271s)]* Let me land back off of what the officer was bringing out. Let's prove the Christian church during the Babylonian captivity. Give me Ezekiel 8 and 13. Ezekiel 8:13. Because I said something: I said the woman is always at the head of this thing, trying to drag the black man to the church. She's the one that's always caught up in the horoscopes, the idolatry and the zodiac signs and all of that. Give me Ezekiel 8:13.
 
 **[Ezekiel 8:13-14](/bible/ezekiel/8#v13)**  *[[55:12](https://www.youtube.com/watch?v=JNC_LHNjdVQ&t=3312s)]*
 
@@ -542,7 +540,7 @@ Reading from the same book, pages 36 and 37  *[[48:39](https://www.youtube.com/w
 
 - Who? Women. There sat women crying for Tammuz. So we was bringing out that whole time Tammuz and his mother. We had the black woman weeping and crying for Tammuz. They don't say the black man was there, now; he co-signed on that thing, because he allowed it to happen. Just like today: we letting the woman drag us to the church and so forth, to worship the white man. But at this time, during the Babylonian captivity, the women were doing the same thing. That same spirit, man. Weeping for Tammuz. The damn devil.
 
-- Okay. Give me, and also give me, 2 Corinthians. 2 Corinthians 11 and 4. Let me get there. Yes sir. Read it.
+- Give me, and also give me, 2 Corinthians. 2 Corinthians 11 and 4. Yes sir.
 
 **[2 Corinthians 11:3](/bible/2-corinthians/11#v3)**  *[[56:27](https://www.youtube.com/watch?v=JNC_LHNjdVQ&t=3387s)]*
 
@@ -557,8 +555,6 @@ Reading from the same book, pages 36 and 37  *[[48:39](https://www.youtube.com/w
 **[1 John 4:3](/bible/1-john/4#v3)**  *[[57:24](https://www.youtube.com/watch?v=JNC_LHNjdVQ&t=3444s)]*
 
 > <sup>[3](/bible/1-john/4#v3)</sup> And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof ye have heard that it should come; and even now already is it in the world.
-
-- Read it again, from the top.
 
 - Has come in the flesh. What's that called? The virgin birth. Immaculate deception.
 
@@ -606,7 +602,7 @@ Reading from the same book, pages 36 and 37  *[[48:39](https://www.youtube.com/w
 
 - And also, to add to that: abiding in the field. Can you abide in the field in the winter time? Abiding in the field, keeping watch over their flocks by night. By night. There's no sun, bro. You ain't gonna stand outside.
 
-- That's why I said Jacob is a plain man, dwelling in tents. We hate the cold. The essence is right in this. It's right there. It's right there. And the reason why Christianity can't see the truth, your brothers and sisters that's in Christianity, pagan doctrine, is because you're not keeping the commandment of God. That's why you can't understand what the scriptures are talking about. Read that.
+- That's why I said Jacob is a plain man, dwelling in tents. We hate the cold. The essence is right in this. It's right there. It's right there. And the reason why Christianity can't see the truth, your brothers and sisters that's in Christianity, pagan doctrine, is because you're not keeping the commandment of God. That's why you can't understand what the scriptures are talking about.
 
 <div class="reading">
 
@@ -622,9 +618,9 @@ Reading from an article, *The Shepherds of the Nativity*  *[[1:02:06](https://ww
 
 > To begin, the story takes place in Bethlehem, a small village south of the city of Jerusalem, in what is present-day Palestine. The region in which Bethlehem resides was referred to as Judea. At that time, Judea was under occupation of ancient Rome, with Caesar Augustus ruling as emperor at the time of Jesus's birth.
 
-- Wow. Christ was born in slavery.
+- Christ was born in slavery.
 
-- Yep. Christ was a slave right there. There you go. People don't think about that: Christ was also a slave, even though he came to save us out of slavery. That's the whole purpose, to save us. As a matter of fact, let me get Luke 1.
+- Yep. Christ was a slave right there. People don't think about that: Christ was also a slave, even though he came to save us out of slavery. That's the whole purpose, to save us. As a matter of fact, let me get Luke 1.
 
 - And that's one of the reasons why Herod wanted to kill him.
 
@@ -644,7 +640,7 @@ Reading from an article, *The Shepherds of the Nativity*  *[[1:02:06](https://ww
 
 - We should be saved from our enemies, because the Romans hated the Israelites.
 
-- Sorry, verse 72? That was it. Okay. All right, go back to the article.
+- Sorry, verse 72? That was it. All right, go back to the article.
 
 <div class="reading">
 
@@ -660,15 +656,15 @@ Reading from *The Shepherds of the Nativity*, continued  *[[1:05:00](https://www
 
 > Joseph and Mary were in Bethlehem due to a census that had been called by the Roman authorities, which required all men and their families to return to their ancestral villages to be registered for taxation purposes.
 
-- You see that? So everybody had to go back to wherever they were from, where they was born, their family, wherever their lineage was from. They had to go back there to be taxed.
+- So everybody had to go back to wherever they were from, where they was born, their family, wherever their lineage was from. They had to go back there to be taxed.
 
 > It was in Bethlehem that Jesus was born, famously in a space where animals were kept, because there was no room available for them. It is after Jesus's birth that the shepherds entered the story in the Book of Luke.
 
-- Wow. Jump down to shepherding, the second paragraph, right here.
+- Jump down to shepherding, the second paragraph, right here.
 
 > Shepherding was a common occupation in ancient Judea, and in other parts of the Levant in general. The combination of pasture and terrain made sheep and goats an ideal animal to raise in the area. The fat-tailed sheep was the variety most likely raised during that time. Sheep were an important part of the region's economy, as they were used for their meat, milk, wool, fat, skin and horns.
 
-- Right. Good.
+- Good.
 
 > They were also essential for the animal sacrifices, which were a necessary part of Jewish religious practices. In short, if a family did not own a flock themselves, they likely knew someone who did, and seeing shepherds at work with their flocks was a daily sight for most.
 
@@ -692,8 +688,6 @@ Reading from *The Shepherds of the Nativity*, continued  *[[1:05:00](https://www
 
 > The grain harvest also took place in the spring in Israel. Sheep would be allowed to graze in the harvested fields after the grain was collected, and the poor allowed to collect what remained after the harvest, as was Jewish custom.
 
-- Right. Watch this.
-
 > In summer, shepherds would have to lead flocks to pastures further from their towns. In late fall and winter, when pasture was most scarce, shepherds would stable sheep at their homes and feed them.
 
 - So they was not out and about. You about to say something?
@@ -706,9 +700,9 @@ Reading from *The Shepherds of the Nativity*, continued  *[[1:05:00](https://www
 
 - The scholars know this, man. It's just our people caught up in this deception, this whole December 25th, and we worship it. This Christmas, we do it bigger and better than any other nation on Christmas, man. That's why the consumers on these pagan holidays is us. We the biggest consumers on these days.
 
-- Go to daily routine; see if I want anything else out here. That's it. That's all I want. Let me see. That's it. What you got?
+- Go to daily routine; see if I want anything else out here. That's it. That's all I want. That's it. What you got?
 
-- **Officer:** If you don't mind, can you get Amos 3 verse 14 and 15, just to show how he was just saying that there was different customs that we would do in different seasons? Like he said, they would take the sheep and bring them into the house in the winter; in the summer they would be grazing in the field. This just shows the different seasons and customs that was required in that land. Read that real quick.
+- **Officer:** If you don't mind, can you get Amos 3 verse 14 and 15, just to show how he was just saying that there was different customs that we would do in different seasons? Like he said, they would take the sheep and bring them into the house in the winter; in the summer they would be grazing in the field. This just shows the different seasons and customs that was required in that land.
 
 </div>
 
@@ -730,8 +724,6 @@ Reading from *The Shepherds of the Nativity*, continued  *[[1:05:00](https://www
 >
 > <sup>[41](/bible/luke/2#v41)</sup> Now his parents went to Jerusalem every year at the feast of the passover.
 
-- Read it again, bro.
-
 - So now Christ's parents, every year, they went to the Feast of the Passover. Every year.
 
 > <sup>[42](/bible/luke/2#v42)</sup> And when he was twelve years old, they went up to Jerusalem after the custom of the feast.
@@ -746,7 +738,7 @@ Reading from a Bible dictionary, the entry *Abib*  *[[1:12:25](https://www.youtu
 
 > Abib. An ear of corn. The name for the first month of the year, Exodus chapter 13 verse 4, 23:15, 34:18. After the exile the name was changed to Nisan. It fell about the time of our March and early April.
 
-- So Abib fell about the time of March, early April. The springtime. The springtime. Now get Deuteronomy. Officer, you gonna bring something out? Oh, okay. Deuteronomy 16.
+- So Abib fell about the time of March, early April. The springtime. The springtime. Now get Deuteronomy. Officer, you gonna bring something out? Deuteronomy 16.
 
 </div>
 
@@ -754,11 +746,11 @@ Reading from a Bible dictionary, the entry *Abib*  *[[1:12:25](https://www.youtu
 
 > <sup>[1](/bible/deuteronomy/16#v1)</sup> Observe the month of Abib, and keep the passover unto the Lord thy God: for in the month of Abib the Lord thy God brought thee forth out of Egypt by night.
 
-- You see that? Observe the month of Abib, which falls between March and early April, when you see that new moon between March and early April.
+- Observe the month of Abib, which falls between March and early April, when you see that new moon between March and early April.
 
 - So letting you know Christ was born in the springtime. Furthermore, Christ was born on the Passover. Now let's get the Two Babylons. Give me the Two Babylons. Let's deal with December 25th, where'd that come from. Let's deal with December.
 
-*[[1:13:44](https://www.youtube.com/watch?v=JNC_LHNjdVQ&t=4424s)]* Matter of fact, let's take a quick break. Let's take a quick break. So we're going to take a quick break. You can call or text us at 267-702-6121. We have a call right now? Oh, all right. So you could call or text us at 267-702-6121. All right, we're going to take a quick break, and we will be back.
+*[[1:13:44](https://www.youtube.com/watch?v=JNC_LHNjdVQ&t=4424s)]* Matter of fact, let's take a quick break. Let's take a quick break. So we're going to take a quick break. You can call or text us at 267-702-6121. We have a call right now? So you could call or text us at 267-702-6121. All right, we're going to take a quick break, and we will be back.
 
 <div class="reading">
 
@@ -810,7 +802,7 @@ Reading from *The Two Babylons* by Alexander Hislop, the chapter on Christmas an
 
 > Easter,
 
-- The hell is this? Go ahead.
+- The hell is this?
 
 > the Nativity of St. John, and the Feast of the Assumption.
 
@@ -828,13 +820,13 @@ Reading from a search result, *What is the Catholic Feast of the Assumption?*  *
 
 > What is the Catholic Feast of the Assumption? Assumption Day commemorates the belief that when Mary, the mother of Jesus Christ, died, her body was assumed into heaven to be reunited with her soul,
 
-- Oh, okay. Hey, hold on. Read that again. Read it again, man. Make this up.
+- Hey, hold on. Make this up.
 
 - Hey, so wait: it seemed like she pulled an Elijah or something, trying to say she didn't die naturally. She just went up. Her spirit was taken up halfway.
 
 > instead of going through the natural process of physical decay upon death.
 
-- Oh, okay. Let's go back. No proof of this happened. Not according to God; it's not in the Bible. Feast of the Assumption: we assume that happened to her. I think it happened. Read it again from the top.
+- Let's go back. No proof of this happened. Not according to God; it's not in the Bible. Feast of the Assumption: we assume that happened to her. I think it happened.
 
 </div>
 
@@ -848,7 +840,7 @@ Reading from *The Two Babylons* by Alexander Hislop, continued  *[[1:27:12](http
 
 > And first, as to the festival in honour of the birth of Christ, or Christmas.
 
-- Read that again. And first: so first we gonna do what? The festival in honor of the birth of Christ, which is what? Christmas. Which is Christmas.
+- And first: so first we gonna do what? The festival in honor of the birth of Christ, which is what? Christmas. Which is Christmas.
 
 > How comes it that that festival was connected with the 25th of December?
 
@@ -870,15 +862,13 @@ Reading from *The Two Babylons* by Alexander Hislop, continued  *[[1:27:12](http
 
 > and it was not the custom for the shepherds of Judea to watch their flocks in the open fields later than the end of October.
 
-- Okay.
-
 > It is in the last degree incredible, then, that the birth of Christ could have taken place at the end of December.
 
 - So he owned some other stuff too, but he said all that just to come and say this. But this is where December 25th come from. We're about to go into it.
 
 > How, then, did the Romish Church fix on the 25th of December as Christmas Day?
 
-- So wait: who fixed December 25th? Read it again.
+- So wait: who fixed December 25th?
 
 - So it's not in the Bible. So the Romans, the Roman Church, the Catholic Church, fixed December 25th for Christmas Day, or Christ's birth.
 
@@ -910,7 +900,7 @@ Reading from *The Two Babylons* by Alexander Hislop, continued  *[[1:32:03](http
 
 > By us, says he, who are strangers to Sabbaths,
 
-- So he said — because guess what: at this time we start to fall away from following Christ. Remember, the disciples were dying off, being murdered and so forth, which we're going to get into later on. But during that time the doctrine of the truth started to fall away. Read that again.
+- So he said — because guess what: at this time we start to fall away from following Christ. Remember, the disciples were dying off, being murdered and so forth, which we're going to get into later on. But during that time the doctrine of the truth started to fall away.
 
 - We became strangers to the Sabbath, keeping the Sabbath on Saturday. We became strangers to that. Why? Because we fall into paganism.
 
@@ -948,11 +938,11 @@ Reading from *The Two Babylons* by Alexander Hislop, continued  *[[1:32:03](http
 
 > the son of Isis, the Egyptian title for the queen of heaven, was born at this very time,
 
-- You see that? Saying Tammuz. What are the other names? Horus. I forgot the other names, but we know him as Tammuz.
+- Saying Tammuz. What are the other names? Horus. I forgot the other names, but we know him as Tammuz.
 
 > about the time of the winter solstice.
 
-- So Christmas is around the winter solstice. The winter solstice. Next page.
+- So Christmas is around the winter solstice. The winter solstice.
 
 > The very name by which Christmas is popularly known among ourselves, Yule-day, proves at once its Pagan and Babylonian origin. Yule is the Chaldee name for an infant or little child;
 
@@ -964,7 +954,7 @@ Reading from *The Two Babylons* by Alexander Hislop, continued  *[[1:32:03](http
 
 > This festival has been commonly believed to have had only an astronomical character, referring simply to the completion of the sun's yearly course,
 
-- All this revolves around the sun, the worshiping of the sun. Next page.
+- All this revolves around the sun, the worshiping of the sun.
 
 > Now, the Arabs, among the Sabeans of Arabia, who regarded the moon,
 
@@ -972,7 +962,7 @@ Reading from *The Two Babylons* by Alexander Hislop, continued  *[[1:32:03](http
 
 > and not the sun, as the visible symbol of the favourite object of their idolatry, the same period was observed as the birth festival. Thus we read in Stanley's Sabean Philosophy: On the 24th day of the tenth month, that is December, according to our reckoning, the Arabians celebrated the birthday of the Lord, that is the Moon.
 
-- You see that? So the Arabs, they celebrate the moon as the birthday of the Lord. Yo, this idolatry is crazy, man. Bunch of confusion.
+- So the Arabs, they celebrate the moon as the birthday of the Lord. Yo, this idolatry is crazy, man. Bunch of confusion.
 
 > The Lord Moon was the great object of Arabian worship, and that Lord Moon, according to them, was born on the 24th of December.
 
@@ -1002,11 +992,11 @@ Reading from search results read on air, on the Brumalia and the Saturnalia  *[[
 
 > What is Saturnalia and how did it begin? Where does Saturnalia originate? It was the result of the merging of three winter festivals over the centuries. These included the day of Saturn, the god of seeds and sowing, which was the Saturnalia itself. The dates of the Saturnalia shifted a bit over time, but it was originally held on 17 December.
 
-- Okay. Look up, is Saturnalia pagan? Oh, you found something quick. Quick, fast. All praises Google, right there.
+- Look up, is Saturnalia pagan? Oh, you found something quick. Quick, fast. All praises Google, right there.
 
 > The pagan celebration of the Roman god Saturn.
 
-- And when was that celebrated? Read that.
+- And when was that celebrated?
 
 > It first began as a single day, but later extended to a whole week during the late Republic. The festival began on December 17th.
 
@@ -1038,13 +1028,11 @@ Reading from *Fossilized Customs*, page 7, on the doctrines of demons  *[[1:42:0
 
 > We have all been trained, or programmed, from birth
 
-- Read that again.
-
 - From birth. That's why you see the women always dragging their kids to this pagan custom, and that's why the Lord is rejecting our children. So you reject my law, I'll therefore reject your son.
 
 > We've all been trained, or programmed, from birth with various traditions, rituals and customs.
 
-- All paganism is targeted at children. That's right. The woman always said, We're doing it for the children. Do it for the children. We hear it all the time: Christmas, whatever it is, for the children. Oh, that's it. Wow. All praises, man.
+- All paganism is targeted at children. That's right. The woman always said, We're doing it for the children. Do it for the children. We hear it all the time: Christmas, whatever it is, for the children. Oh, that's it. All praises, man.
 
 - **Officer:** To make a point: you had brought in the book earlier about Yule meaning infant. Give me Leviticus 18:21, because what do you do with the Yule log today?
 
@@ -1114,7 +1102,7 @@ Reading from *Fossilized Customs*, page 7, on the doctrines of demons  *[[1:42:0
 
 **Officer:** You know what's funny: if you ask someone, Yo, what's that symbol on the back of your car? What do that mean? The definition they're gonna give you is Christ, with the fish.
 
-**Deacon Eythan:** Yep. That's why people in Christianity don't even know what the hell they worship. That's why the scripture says, Ye know not what ye worship. We know what we worship, but you worship some nonsense right now. You better figure it out. Yeah, the book, right there. You only got one page? Come on, man. Nah, they good; they got both. It's right there. Can you put it next to each other? Do a side by side. Side by side. Yep. So this is undeniable proof, and those books was not written by us. It's written by the so-called white man, the devil himself. Telling on himself. Read the bottom of that page, both of them.
+**Deacon Eythan:** Yep. That's why people in Christianity don't even know what the hell they worship. That's why the scripture says, Ye know not what ye worship. We know what we worship, but you worship some nonsense right now. You better figure it out. Yeah, the book, right there. You only got one page? Nah, they good; they got both. It's right there. Can you put it next to each other? Do a side by side. Side by side. Yep. So this is undeniable proof, and those books was not written by us. It's written by the so-called white man, the devil himself. Telling on himself. Read the bottom of that page, both of them.
 
 <div class="reading">
 
@@ -1126,7 +1114,7 @@ Reading from the same book, not named on air: the words under photographs of Pha
 
 > Paulo the Fifth, Vice Dio, is Latin for Paul, the vicar of God. This photo shows Pope Paul the Sixth, who was one of the Pope Paul dynasty. Notice how he is being carried on a portable throne. This pagan ritual was observed thousands of years before the Roman Catholic Church came into history, by the pagan priest-kings of sun worship.
 
-- Zoom out. There you go. Now put the pictures side by side. Look at it: his left hand. He's holding something in his left hand, with the Dagon fish hat on top of his head. See here: look at Pharaoh. He's holding something in his left hand. The Pope is doing the same thing, being carried on a portable throne. The only thing is the Pope got a Dagon fish head on. See that? Ancient paganism, and that's what all Christianity derived from.
+- Now put the pictures side by side. Look at it: his left hand. He's holding something in his left hand, with the Dagon fish hat on top of his head. See here: look at Pharaoh. He's holding something in his left hand. The Pope is doing the same thing, being carried on a portable throne. The only thing is the Pope got a Dagon fish head on. See that? Ancient paganism, and that's what all Christianity derived from.
 
 - Everything that the Catholics celebrate, the Christians in Christianity do the same thing. No difference. All right, from there, give me the page, page 378.
 
@@ -1142,7 +1130,7 @@ Reading from a book, not named on air, page 378, on the birthday of the sun  *[[
 
 > Throughout the realms of ancient paganism, Saturn was worshiped as the god of mysteries, father of the gods, etc.
 
-- Hold on. So birthday of the sun: they let you know the birthday of the sun is December 25th. That's not Christ. The birthday of the sun is December 25th. So when you celebrate Christmas Day, y'all celebrating the sun. Sun worship.
+- So birthday of the sun: they let you know the birthday of the sun is December 25th. That's not Christ. The birthday of the sun is December 25th. So when you celebrate Christmas Day, y'all celebrating the sun. Sun worship.
 
 > He was known by the name of Bacchus, Tammuz, etc. By whatever name known, he was ever worshiped as an incarnation of the sun.
 
@@ -1150,7 +1138,7 @@ Reading from a book, not named on air, page 378, on the birthday of the sun  *[[
 
 > The birthday of this incarnate sun-god of many names was for ages celebrated among the pagan nations at the time of the winter solstice in December. In Rome, on the 25th of December, it was everywhere celebrated with gifts,
 
-- With what? Gifts. Wow.
+- With what? Gifts.
 
 > mirth, feasting, dancing, lasciviousness,
 
@@ -1174,7 +1162,7 @@ Reading from a book, not named on air, page 378, on the birthday of the sun  *[[
 
 > As the sun was the center of heathenism, so the Sunday festival was the mark or sign of all vain or false worship. Other festivals were only annual, while this was a weekly festival, recurring 51 times oftener in a year than any other. The celebrated church historian Neander says that the Sunday festival, like all other festivals, was always only a human
 
-- It had nothing to do with God. It was a human ordinance. It's not in the Bible. Give me the next page.
+- It had nothing to do with God. It was a human ordinance. It's not in the Bible.
 
 > December 25th as the birthday of Christ was not even suspected by the early church until the 4th century,
 
@@ -1184,7 +1172,7 @@ Reading from a book, not named on air, page 378, on the birthday of the sun  *[[
 
 - **Deacon Eythan:** Yeah, okay. With the evil … Constantine. I left the book, *History of the Jews*. Hey, do y'all have *History of the Jews*, page 298? See if y'all have that.
 
-- **Officer:** The other book I have. Yo, let's go to the *Fossilized*. Pull this up.
+- **Officer:** The other book I have. Yo, let's go to the *Fossilized*.
 
 </div>
 
@@ -1194,11 +1182,11 @@ Reading from *Fossilized Customs*, continued, on Constantine and Sunday  *[[1:59
 
 > This was called Nirvana, Shambhala, or Elysian Fields.
 
-- Go ahead and read that, then go up. Can you blow it up? Let me see. Go down, the other way, the other way. Right there. Right there. There you go.
+- Go ahead and read that, then go up. Can you blow it up? Go down, the other way, the other way. Right there. Right there.
 
 > The Roman councillor emperor Constantine the First gave us the term Sunday, which referred to Sol Invictus Mithras, the unconquerable sun, 321 CE.
 
-- Way, way, way after Christ. Yep. Okay.
+- Way, way, way after Christ. Yep.
 
 > He decreed under the penalty of death that all artisans, merchants and people of his empire cease work on the venerable day of the sun, to honor Mithras.
 
@@ -1218,7 +1206,7 @@ Reading from *Fossilized Customs*, continued, on Constantine and Sunday  *[[1:59
 
 - So if you get that book, man, it's a good book. Got a lot of stuff in that book. That book, we brought that out on the first two episodes, The Two Promised Lands. So that book, that's a heavy book.
 
-- Hey, look for *History of the Jews*, page 298. There you go, that's it right there. Damn. That's *History of the Jews* page 298? Let me see. The Jewish Nation. That's a different book. Okay. While they're looking for that, get Wisdom of Solomon 13 and 2 real quick. Wisdom of Solomon chapter 13 verse 3.
+- Hey, look for *History of the Jews*, page 298. There you go, that's it right there. Damn. That's *History of the Jews* page 298? The Jewish Nation. That's a different book. While they're looking for that, get Wisdom of Solomon 13 and 2 real quick. Wisdom of Solomon chapter 13 verse 3.
 
 </div>
 
@@ -1228,7 +1216,7 @@ Reading from *Fossilized Customs*, continued, on Constantine and Sunday  *[[1:59
 >
 > <sup>[2](/bible/wisdom-of-solomon/13#v2)</sup> But deemed either fire, or wind, or the swift air, or the circle of the stars, or the violent water, or the lights of heaven, to be the gods which govern the world.
 
-- That's verse two. Sorry, start at verse one. Okay. Operation. I was in the spirit.
+- That's verse two. Sorry, start at verse one. Operation. I was in the spirit.
 
 - So that's what we've been going over this whole time. They didn't consider the Most High that made these things. They just worship these things, thinking that they came on their own. But no, the Most High says consider the Most High, the creator of all these things. But these pagans, they hate the Most High so much, man, they said, Nah, we just gonna worship the sun. We're going straight to the sun.
 
@@ -1252,11 +1240,7 @@ Reading from the book read from at page 378, continued  *[[2:04:30](https://www.
 
 > Thus they make void by a heathen tradition a plain commandment of God.
 
-- Read on.
-
 > As the sun was the chief god of the pagans, and the Sunday their chief and only weekly festival, and a distinguishing mark of paganism,
-
-- Go down.
 
 > Sunday is founded not on scripture,
 
@@ -1272,7 +1256,7 @@ Reading from the book read from at page 378, continued  *[[2:04:30](https://www.
 
 > As there is no scripture for the transfer of the day of rest from the last to the first day of the week,
 
-- There's no scripture on it. It is not there. It's not there. Okay. Give me Exodus 20 and 8. So last, we're gonna end it here, unless the officer got something else.
+- There's no scripture on it. It is not there. It's not there. Give me Exodus 20 and 8. So last, we're gonna end it here, unless the officer got something else.
 
 - **Officer:** Yeah, Colossians.
 
@@ -1324,7 +1308,7 @@ Reading from the book read from at page 378, continued  *[[2:04:30](https://www.
 
 *[[2:10:20](https://www.youtube.com/watch?v=JNC_LHNjdVQ&t=7820s)]* So we're going to end it there. We're going to end it there. Next week we're gonna jump into Tiberius Caesar. We're going to jump into Tiberius Caesar, the third feather. We dealt with Julius Caesar, we dealt with Augustus; now we're going to jump into Tiberius Caesar, his rise to being emperor, and his pedophilia acts. So we're going to get into all of that next week, Lord's will, life last. Hey Israel, let's give a hand for the leadership. That was a great class.
 
-*[[2:12:05](https://www.youtube.com/watch?v=JNC_LHNjdVQ&t=7925s)]* Hey, we'd like to give a shout out: she was on point today. And also we would like to thank the sisters for the breakfast. All praises to the Most High. Thanks for the breakfast also. All right, with that, say shalom.
+*[[2:12:05](https://www.youtube.com/watch?v=JNC_LHNjdVQ&t=7925s)]* With that, say shalom.
 
 ## Announcements & References
 

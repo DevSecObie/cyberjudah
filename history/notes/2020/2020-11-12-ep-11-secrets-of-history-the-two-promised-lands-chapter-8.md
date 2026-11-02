@@ -18,11 +18,9 @@ tags: ["Our Hidden History", "america-babylon", "spain-inquisition", "the-americ
 
 ## Introduction
 
-*[[2:18](https://www.youtube.com/watch?v=oeFQVxvlh_Y&t=138s)]* Shalom, shalom, shalom. Welcome back, welcome back, y'all, to Our Hidden History, Our Hidden History radio. I'm Deacon. To my left, Captain Joel. To my right, Officer J. Real officer. What? And we're back with another episode of Our Hidden History. We're going into straight, have not, not forgotten, forgot about the bar St, forgot about the straight. I'm keep on touching on it.
+*[[2:18](https://www.youtube.com/watch?v=oeFQVxvlh_Y&t=138s)]* Welcome back to Our Hidden History radio. I'm Deacon. To my left, Captain Joel. To my right, Officer J. Real officer. What? And we're back with another episode of Our Hidden History. We're going into straight, have not, not forgotten, forgot about the bar St, forgot about the straight. I'm keep on touching on it.
 
 *[[2:44](https://www.youtube.com/watch?v=oeFQVxvlh_Y&t=164s)]* So we're going to go continue, we left off, continue, left off. We're going to go to that book, go to that book, The... and I want page 115. I end on page 115, so let's start, let's begin with that, start with, begin with that, let's start with that, page 115. I went there, got there, I read against. Okay, this is, we were talking about how the Native Americans, they claim the Native Americans, that lying bastard Jose De aosta, or Joseph aosta, the Jesuit who created that baren straight nonsense, claims that the Native Americans, at least who, the ones he encountered...
-
-*[[3:20](https://www.youtube.com/watch?v=oeFQVxvlh_Y&t=200s)]* You have issue? The audio didn't write. They can't hear me? Make sure y can hear me, make sure I can hear, hear me. We'll be here for you, so we all listening to your reading, your comments. Let me know if y'all can hear me. Hello, 121212. It's good now? I'm good. We're good.
 
 *[[3:40](https://www.youtube.com/watch?v=oeFQVxvlh_Y&t=220s)]* All right, so as I was saying, Jose De Costa, or Joseph A Costa, the Jesuit priest, he's the one that pushed that whole bearing straight, bearing straight nonsense that I had dealt with last week. Hopefully I'll finish it off this week, and that'll be the end of that. So let's go to page 115 on The View. All right, we're going to start from Dr bodot. That name comes up a lot in other books I've used, and it's very common in this book, so we're going to start up, do dror, end that, given who's reading for me.
 
@@ -34,11 +32,11 @@ Reading from *The View*, page 115, on Dr bunut and the Indians' tradition of the
 
 > Dr bunut gives it as from good authority that the Indians have a tradition
 
-- So the Indians have a tradition. Watch this.
+- So the Indians have a tradition.
 
 > that the book which the white people have was once theirs
 
-- That the book which the white people have, the Bible, was once theirs. The Bible was once theirs. Watch this.
+- That the book which the white people have, the Bible, was once theirs. The Bible was once theirs.
 
 > that while they had this book, things went well with them, they prospered exceedingly
 
@@ -78,7 +76,7 @@ Reading from *The View*, page 115, continued  *[[6:00](https://www.youtube.com/w
 
 - **Captain Joel:** Huh? That's Judith 51 17.
 
-- **Deacon Eythan:** That's Judah 5. Yes, Judah 5: not before their God. Right, we read that last week, Judah 5 17. Right. Let's get second 836, second mabes 8:36, because the heathens told, the Heathen, the ammonite told General hopanes that about us, in Judith. We're going to read if that thought changed in the makabe, second mccabes 8:36, regarding a man named, what was his name, heliodorus. Angels gave him a beat down. They gave him a beat down to the point of death. A Divine weapon, a Divine weapon. The book of second mccabes chapter 8 vers 36, watch this.
+- **Deacon Eythan:** That's Judah 5. Yes, Judah 5: not before their God. Right, we read that last week, Judah 5 17. Let's get second 836, second mabes 8:36, because the heathens told, the Heathen, the ammonite told General hopanes that about us, in Judith. We're going to read if that thought changed in the makabe, second mccabes 8:36, regarding a man named, what was his name, heliodorus. Angels gave him a beat down. They gave him a beat down to the point of death. A Divine weapon, a Divine weapon. The book of second mccabes chapter 8 vers 36, watch this.
 
 </div>
 
@@ -126,7 +124,7 @@ Reading from *The View*, page 115, continued  *[[7:56](https://www.youtube.com/w
 
 - **A co-host:** I don't have that. No, I, I don't have.
 
-- **Deacon Eythan:** You don't have it? Oh, that's your fault. Oh wow. Get, get, get, when the, when's their ideas. When's their ideas. All right. The selfishness, man. The selfishness.
+- **Deacon Eythan:** You don't have it? Oh, that's your fault. Get, get, get, when the, when's their ideas. When's their ideas. The selfishness, man. The selfishness.
 
 <div class="reading">
 
@@ -134,7 +132,7 @@ Reading from a book on page 264, on the ancestors who once had the book of God  
 
 > once their ideals that their ancestors once had the book of God
 
-- Going to stop at some time. Once, it says once, or where is the ideas? That their ancestors once had the book of God. Thank you. The book of God.
+- Going to stop at some time. Once, it says once, or where is the ideas? That their ancestors once had the book of God. The book of God.
 
 > and then were're happy
 
@@ -180,7 +178,7 @@ Reading from a book on page 264, on the ancestors who once had the book of God  
 
 - **Deacon Eythan:** And to further that thought, cap, you also have negos that think, Israelites that think that the Native Americans came to this side of the world in rowboats, had canoe, big canoes, in cloth and loin cloths. They so dumb and so stupid they couldn't get, build a ship, cuz the white man ships is better, only they can come over here. Native Americans? No.
 
-- **Captain Joel:** Okay. I think, I'm trying to remember the book that called The Holocaust. They wrote that when the Conquistadors came over here, P Leon, them came over here, they said we had great, we have prosperous cities. But even when, our streets, on our streets we have sweepers. Just like America has cleaners today, we have sweepers on our streets, that every day you have people hired just to clean the streets, make sure it's clean. We have beautiful buildings and infrastructures. We didn't dwell in tepps and stuff like that. No, we had houses. We had houses, we had water aqueducts, waterways going all through the city, entering into the city, washing water, bathing water system. We had a whole built system.
+- **Captain Joel:** I think, I'm trying to remember the book that called The Holocaust. They wrote that when the Conquistadors came over here, P Leon, them came over here, they said we had great, we have prosperous cities. But even when, our streets, on our streets we have sweepers. Just like America has cleaners today, we have sweepers on our streets, that every day you have people hired just to clean the streets, make sure it's clean. We have beautiful buildings and infrastructures. We didn't dwell in tepps and stuff like that. No, we had houses. We had houses, we had water aqueducts, waterways going all through the city, entering into the city, washing water, bathing water system. We had a whole built system.
 
 - **Deacon Eythan:** Advance. Es stole it. Es learned it from us. We had mint gum, we had all of that.
 
@@ -190,11 +188,9 @@ Reading from a book on page 264, on the ancestors who once had the book of God  
 
 - **Captain Joel:** But it was an actual document on the Aztec. They said, with the tempo and the position of the stones, that they were actually able, electricity, and inside of them there. So Mercury, that was supposed to create some kind of light inside the tunels.
 
-- **Deacon Eythan:** Mhm. Right. Laqu. They call it Ancient Aliens because the white man tries to mystify it. Yeah, aliens came, technology. They're too dumb to do it on their own. So toilets, right, and Alien, aliens came and gave them wisdom. They're so dumb and they're so Savage, it's impossible to them to be intelligent enough to build these things on their own. The pyramids in Egypt, the maemax behind that, Esau cannot cop to this day. And them same pyramids in Egypt, they found the same ones built like them over here in the Americas, built the same way.
+- **Deacon Eythan:** Mhm. Laqu. They call it Ancient Aliens because the white man tries to mystify it. Yeah, aliens came, technology. They're too dumb to do it on their own. So toilets, right, and Alien, aliens came and gave them wisdom. They're so dumb and they're so Savage, it's impossible to them to be intelligent enough to build these things on their own. The pyramids in Egypt, the maemax behind that, Esau cannot cop to this day. And them same pyramids in Egypt, they found the same ones built like them over here in the Americas, built the same way.
 
 - **Captain Joel:** And in the same Ancient Aliens, right, they were showing you, like, the M boy for the computer, they, they M it after the Mexican mines, pyramid. So somehow the way they had the civilization set up, they use the same kind to, to do the motherboard of a computer.
-
-- **Deacon Eythan:** Wow.
 
 - **Captain Joel:** Somehow. I was like, I was like baffled when I saw it, right. And they show you inside the motorboard the same way they had the pyramid stand up, and then they had different routes. It was crazy.
 
@@ -202,7 +198,7 @@ Reading from a book on page 264, on the ancestors who once had the book of God  
 
 - **Captain Joel:** Damn, built on water.
 
-- **Deacon Eythan:** Right. And remember, Captain is had B out how the natives on this side of the world were in contact with beings that gave them wisdom and so forth. I think it's saw that, Chariots to Black, either part one or part two, and how they were related to those beings that came over here and educated them. Those are not aliens. Those are the Angels of God. Those are our brothers in heaven. That's what that was, talking to them, right. We call them star people.
+- **Deacon Eythan:** And remember, Captain is had B out how the natives on this side of the world were in contact with beings that gave them wisdom and so forth. I think it's saw that, Chariots to Black, either part one or part two, and how they were related to those beings that came over here and educated them. Those are not aliens. Those are the Angels of God. Those are our brothers in heaven. That's what that was, talking to them, right. We call them star people.
 
 - **Captain Joel:** We called them star people, yes. And then Esau, a movie called Stargate, copying it and making, making mockery of it.
 
@@ -238,7 +234,7 @@ Reading from *The View*, pages 80 to 81, on James Adair  *[[18:24](https://www.y
 
 - Hold on, D. He says, and they s the media continued there long. It is very probable that by intermarrying the natives of those lands, the mes, that's … and you examine … japi will be the Hawaiian today, the Samoans, the tahitians. If you look at their faces, they had the long hair, the eyes. And we intermingled with them during the long time we were placed in that land.
 
-- Watch this. From their natural falness and proness to idolatry. And we also would partake in the practices of the heathens that we intermarried with.
+- From their natural falness and proness to idolatry. And we also would partake in the practices of the heathens that we intermarried with.
 
 > and also from the force of example
 
@@ -246,11 +242,11 @@ Reading from *The View*, pages 80 to 81, on James Adair  *[[18:24](https://www.y
 
 > that they would have adopted and bowed before the gods of media and Assyria
 
-- We did intermingle with the Assyrians and mes. Watch this.
+- We did intermingle with the Assyrians and mes.
 
 > and would have carried them along with them,
 
-- And we would have brought those Customs along with us on this side of the world. Watch this.
+- And we would have brought those Customs along with us on this side of the world.
 
 > But there is not a trace of this idolatry among the Indians.
 
@@ -274,11 +270,11 @@ Reading from *The View*, pages 99 to 100, on the Peruvians  *[[22:10](https://ww
 
 > and as receiving their race of incor as children of the son
 
-- See, the peruvians and Incas are the same people, descendants. Watch this. And they called themselves Children of the son. Watch this.
+- See, the peruvians and Incas are the same people, descendants. And they called themselves Children of the son.
 
 > in their succession of 12 monarchies.
 
-- In their succession of 12 monarchs, royalty. 12, 12 monarchies, Incas. That Bea on them. Watch this.
+- In their succession of 12 monarchs, royalty. 12, 12 monarchies, Incas. That Bea on them.
 
 > The Indians have had much of an apprehension that their one great spirit
 
@@ -308,11 +304,11 @@ Reading from *The View*, page 100, continued  *[[24:08](https://www.youtube.com/
 
 > and the peruvians, it seems, went so far as to embody him in the sun.
 
-- They were convinced that he was in the Sun, rather than him being the creator of the son. They said he is the son, or the son is him. Watch this.
+- They were convinced that he was in the Sun, rather than him being the creator of the son. They said he is the son, or the son is him.
 
 > Here seems a shredder mixture of the Persian Idol
 
-- Remember what James adir said: the North American Indians he encountered wer into idolatry. This is South America. These guys were. Watch, read it again. Here seems a shred of mixture of the what? Persian idolatry.
+- Remember what James adir said: the North American Indians he encountered wer into idolatry. This is South America. These guys were. Here seems a shred of mixture of the what? Persian idolatry.
 
 > with the theocracy of Israel.
 
@@ -340,7 +336,7 @@ Reading from *The View*, page 100, continued  *[[24:08](https://www.youtube.com/
 
 - **A co-host:** I'm, I'm on my way to e, you know.
 
-- **Deacon Eythan:** All right. Page 115, P 115. What do we reading, deep? Various, yeah, the blue highlights.
+- **Deacon Eythan:** Page 115, P 115. What do we reading, deep? Various, yeah, the blue highlights.
 
 - **A co-host:** How, how old this book? How old is this book again, the year?
 
@@ -368,7 +364,7 @@ Reading from Atkinson's casket, page 115, on the old Persian coins  *[[27:20](ht
 
 > and are of a very different stamp.
 
-- Very different stamp. The coins that Native Americans had before the white man introduced their coins, their coins, the Native Americans coins, were more defaced, mean more older, more aged, and had a very different stamp. Watch this.
+- Very different stamp. The coins that Native Americans had before the white man introduced their coins, their coins, the Native Americans coins, were more defaced, mean more older, more aged, and had a very different stamp.
 
 > Some of these have the old Persian stamp
 
@@ -400,7 +396,7 @@ Reading from Atkinson's casket, page 115, on the old Persian coins  *[[27:20](ht
 
 - **Captain Joel:** Yeah, I have it there. I sit right there, right.
 
-- **Deacon Eythan:** This, sorry, this is last, this is kind of last minute, but we found it. All right, all praise, we found it. What's his name again? abidon, tat, tatwa, tatua is his name. tatua is his name. You can look it up. Dean, that probably is around here in Jersey. Shaunie, Shaunie, New Jersey. sha is New Jersey, right? Shaunie, Jersey. These are natives of Jersey. All right, read that.
+- **Deacon Eythan:** This, sorry, this is last, this is kind of last minute, but we found it. All right, all praise, we found it. What's his name again? abidon, tat, tatwa, tatua is his name. tatua is his name. You can look it up. Dean, that probably is around here in Jersey. Shaunie, Shaunie, New Jersey. sha is New Jersey, right? Shaunie, Jersey. These are natives of Jersey.
 
 <div class="reading">
 
@@ -440,7 +436,7 @@ Reading from Wikipedia, on the Shaunie prophet tatua  *[[32:40](https://www.yout
 
 > began preaching and gathered a growing number of followers. He soon emerged as a powerful and influential spiritual leader.
 
-- Now I'm not saying this guy was holy and righteous and so far. I'm just showing you what the, what he says the Lord showed him. Watch this.
+- Now I'm not saying this guy was holy and righteous and so far. I'm just showing you what the, what he says the Lord showed him.
 
 > More Visions follow in suceeding months, including Revelations that the year European Invaders from the East were the children of the evil spirit.
 
@@ -458,7 +454,7 @@ Reading from Wikipedia, on the Shaunie prophet tatua  *[[32:40](https://www.yout
 
 > clothing and manufactured goods. tinada also encourages people to follow traditional gender roles, women at Farmers, men as hunters and War...
 
-- Clothing, and that, don't wear their clothes. And manufactured goods. So Esau was pushing Ro reversal at that time. Yeah, he was saying, maintain your roles. Our job is to hunt and provide, women take care of the children and so for. Read it again. Don't move it. Go back. Why you moving? Come on, come on. T, t.
+- Clothing, and that, don't wear their clothes. And manufactured goods. So Esau was pushing Ro reversal at that time. Yeah, he was saying, maintain your roles. Our job is to hunt and provide, women take care of the children and so for. Don't move it. Go back. Why you moving? T, t.
 
 > you're American foods, clothing and manufactured goods. tens also encourages people to follow traditional gender roades
 
@@ -508,7 +504,7 @@ Reading from Wikipedia, on the Shaunie prophet tatua  *[[32:40](https://www.yout
 
 - **Captain Joel:** Yes sir.
 
-- **Deacon Eythan:** Thank you, sir. On page 60. I g try to finish this B streak up today. We trying to get the other side of the world, man, trying to get there.
+- **Deacon Eythan:** On page 60. I g try to finish this B streak up today. We trying to get the other side of the world, man, trying to get there.
 
 - **Captain Joel:** That's right.
 
@@ -546,8 +542,6 @@ Reading from *Origins*, pages 60 to 61, on Garcia's sources and his three fundam
 
 > The second fundamental was that people now in the Indies, whom we call Indians, went to them from one of the three parts of the known world,
 
-- Right.
-
 > either Asia, Egypt, Africa, or Europe. The reason for this is that if the fourth part, called America, were inhabited at the...
 
 - What's, what's America? Fourth part. America is the fourth part, New World, fourth part. We have the old world and you have the new world. That's the four, fourth part.
@@ -556,7 +550,7 @@ Reading from *Origins*, pages 60 to 61, on Garcia's sources and his three fundam
 
 > The reason for this is that if the fourth part, called America, were inhabited at the beginning of the world, or before the flood in the time of Noah and his sons or grandsons, there would have been notice of it, and the ancient historians and cosmographers would have mentioned it as they did the three said parts.
 
-- Right. It would have been known. Everyone would have knew about it if someone was here already.
+- It would have been known. Everyone would have knew about it if someone was here already.
 
 > But in Old Times They considered them uninhabited, because they were below the burning Zone. Thus we are forced to concede that the Indians went to the Indies from one of the aformentioned parts.
 
@@ -586,7 +580,7 @@ Reading from *Origins*, page 65, the first opinion  *[[44:03](https://www.youtub
 
 > Some writers, notably aoua, had considered such a possibility but rejected it.
 
-- So wait, stop. That part you want to deal with. So he considered it, but then he said, no, I don't believe it. You know why he did that? Cuz he knew the danger of knowing it. He knew the danger of other people knowing these guys came from the East. If they're the children of Israel and we killed them and enslaved them, we're at fault, we're wrong. So we got to make them something else, make them from somewhere else, so our actions against them are just. They were Savage, they had to be civilized, they had to be europeanized, assimilated, assimilated into society. Right. But if they're Israelites, we're wrong.
+- So wait, stop. That part you want to deal with. So he considered it, but then he said, no, I don't believe it. You know why he did that? Cuz he knew the danger of knowing it. He knew the danger of other people knowing these guys came from the East. If they're the children of Israel and we killed them and enslaved them, we're at fault, we're wrong. So we got to make them something else, make them from somewhere else, so our actions against them are just. They were Savage, they had to be civilized, they had to be europeanized, assimilated, assimilated into society. But if they're Israelites, we're wrong.
 
 - This guy's a devil. I told y, this guy had, Garcia, he had three different people tell him: Peralta, Garcia and Duran. All these men were around to help him gather and tell on Native Americans and document it. He said, well, you guys are saying that, but I'm going to reject it. Cuz he, this guy is basically... Garcia and them, paral and Durant, they, what you call today, whistleblowers. Unknowingly they were whistleblowers. They're telling you these guys are Israelites, that's what they said to us. But a Costa's like, yo, shut up, they Asians, they Asians. Japanese. They're Chinese. Wink, wink, wink, you get it? Shut up. That's he was doing, right, cuz he, he knew it, but he said, n, I'm a lie, they came across a land bridge that doesn't exist. They came from, they came from Asia.
 
@@ -616,7 +610,7 @@ Reading from *Origins*, page 65, the first opinion  *[[44:03](https://www.youtub
 
 > He could have passed the knowledge along to his descendant.
 
-- He pass the knowledge of navigation to his descendants. So that, that again, this guy Costa... Garcia is proven this guy to be an idiot. He's a freaking liar, man, and y'all repeating his lie. Y'all repeating his lie. Damn. Without a compass, I said, without Compass, right? Where we stop? Where do we stop at? Oh, keep going, keep going, keep going, keep going. Next paragraph, Without The Compass. Keep going.
+- He pass the knowledge of navigation to his descendants. So that, that again, this guy Costa... Garcia is proven this guy to be an idiot. He's a freaking liar, man, and y'all repeating his lie. Y'all repeating his lie. Damn. Without a compass, I said, without Compass, right? Where we stop? Where do we stop at? Next paragraph, Without The Compass.
 
 > The Ancients had also made long voyages.
 
@@ -654,8 +648,6 @@ Reading from *Origins*, page 65, the first opinion  *[[44:03](https://www.youtub
 
 *[[50:38](https://www.youtube.com/watch?v=oeFQVxvlh_Y&t=3038s)]* **A co-host:** Yes sir. The load Stone, that's the same thing, so about the compass.
 
-- **Deacon Eythan:** Oh, there you go.
-
 - **A co-host:** It's a magnet that used in the compass.
 
 - **Deacon Eythan:** Ah, got you.
@@ -666,7 +658,7 @@ Reading from *Origins*, page 65, the first opinion  *[[44:03](https://www.youtub
 
 - **A co-host:** Can be useful in all three dimensions.
 
-- **Deacon Eythan:** So basically a low Stone's a compass. It's like a compass. So when he mentions low Stone earlier, where's it at? Let's go back to that again. Thank you. L, where's it at?
+- **Deacon Eythan:** So basically a low Stone's a compass. It's like a compass. So when he mentions low Stone earlier, where's it at? Let's go back to that again. L, where's it at?
 
 - **A co-host:** Low stone is in the first paragraph. It says, Noah... Garcia also thought that the Ancients might have known the low Stone.
 
@@ -680,7 +672,7 @@ Reading from *Origins*, page 65, the first opinion  *[[44:03](https://www.youtub
 
 - **Captain Joel:** Damn. So basically Esau stole everything that he knows today. Stole it from an ancient Nations, the dark nations, conquered them and claimed all their understanding and wisdom to be his own.
 
-- **Deacon Eythan:** Right. That's his own C. He's a Creator, right. He has no history. He has no history. None. Page 69, we're going to go to until 16007.
+- **Deacon Eythan:** That's his own C. He's a Creator, right. He has no history. He has no history. None. Page 69, we're going to go to until 16007.
 
 <div class="reading">
 
@@ -718,7 +710,7 @@ Reading from *Origins*, pages 69 to 70, on the Hebrew theory  *[[52:13](https://
 
 - **A co-host:** Pon, Ponta delada.
 
-- **Deacon Eythan:** Yes. Island, yeah. Go back, read it again. All right, you go back, thank you. Say gim, rumors of graves, rumors of Graves in Azores with Hebrew writing on them. The reason why there's Graves with Hebrews was because the Hebrews took over Portugal and Spain, and we, we were buried in those areas. That's why. I'm GNA get to that later on, regarding our inhabitants of Portugal and Spain and how far back it goes. That's why he's saying that. The same writings you found of burial grounds in Portugal are the same burial grounds you found here in the Americas as well, in the same similar writing of Hebrew.
+- **Deacon Eythan:** Yes. Island, yeah. All right, you go back, thank you. Say gim, rumors of graves, rumors of Graves in Azores with Hebrew writing on them. The reason why there's Graves with Hebrews was because the Hebrews took over Portugal and Spain, and we, we were buried in those areas. That's why. I'm GNA get to that later on, regarding our inhabitants of Portugal and Spain and how far back it goes. That's why he's saying that. The same writings you found of burial grounds in Portugal are the same burial grounds you found here in the Americas as well, in the same similar writing of Hebrew.
 
 > old traditions of Jews being surrounded, as they were in America, by water, and of course cultural comparisons and biblical or pseudo biblical Authority.
 
@@ -746,7 +738,7 @@ Reading from *Origins*, pages 69 to 70, on the Hebrew theory  *[[52:13](https://
 
 > One would have the tribes pass through ttery and the lands of the Mongols to The Straits of Anan,
 
-- Right. So he, so he was, he was following that same Baron straight thing also. But he know that, he saying that the Israelites, but they came from the baron, from the straight also.
+- So he, so he was, he was following that same Baron straight thing also. But he know that, he saying that the Israelites, but they came from the baron, from the straight also.
 
 > where they could pass over into the kingdom of Anan, which Garcia placed in North America. During their Journey they acquired a few Customs from the tters, such as Sun worshipping.
 
@@ -780,7 +772,7 @@ Reading from *Origins*, pages 69 to 70, on the Hebrew theory  *[[52:13](https://
 
 > Garcia circumvented that objection
 
-- So Garcia comes behind that with an objection. Go Costa's argument was, I didn't see him keeping no Commandments. Garcia comes, comes behind it and goes, well, watch this. Garcia's response, or retort, is what? Watch this.
+- So Garcia comes behind that with an objection. Go Costa's argument was, I didn't see him keeping no Commandments. Garcia comes, comes behind it and goes, well, watch this. Garcia's response, or retort, is what?
 
 > Garcia circumvented that objection by asserting that some Indians had not lived up to their intentions.
 
@@ -791,8 +783,6 @@ Reading from *Origins*, pages 69 to 70, on the Hebrew theory  *[[52:13](https://
 - And the strong objection he used was the Bible itself. Watch. Second Kings chapter 17:6. What did he use from there?
 
 > asserted that King Shaman Nassar scattered the tribes in the cities of the mes and other places.
-
-- Watch this.
 
 > Garcia responded that some had stayed there,
 
@@ -824,11 +814,11 @@ Reading from *Origins*, pages 69 to 70, on the Hebrew theory  *[[52:13](https://
 
 > The ezis story merely indicated that the Jews could have come to America. To prove that they had come, it was necessary to find cultural traits common to the Indians and the Hebrews of the 10 lost tribes.
 
-- The story, I believe. Right.
+- The story, I believe.
 
 > That proved easy. Both peoples were timid, prone to ceremony and idolatry, and Liars. When the scriptures spoke of Jewish heroism, it referred to the tribe of Judah,
 
-- Oh, all praises. The Lord, all praise, all Praises. With a bomb. Don't be hated over, drop another bomb, man. And guess what, Jud too. Thank you, Judah baby. Deac, that's Judah over there. Yeah, we out here, we out here. J bab, where's the bomb, baby? Hey, get another late Lo ammo over there. Damn, I'm say, I'm back. Wow, came out of nowhere. Back, read it again, read it again, read again. For Cat Came From the Ashes. When, when the scripture spoke of what?
+- The Lord, all praise, all Praises. With a bomb. Don't be hated over, drop another bomb, man. And guess what, Jud too. Thank you, Judah baby. Deac, that's Judah over there. Yeah, we out here, we out here. J bab, where's the bomb, baby? Hey, get another late Lo ammo over there. Damn, I'm say, I'm back. Wow, came out of nowhere. Back, read it again, read it again, read again. For Cat Came From the Ashes. When, when the scripture spoke of what?
 
 > When the scripture spoke of Jewish heroism, it is referred to the tribe of Judah,
 
@@ -880,7 +870,7 @@ Reading from *Origins*, pages 69 to 70, on the Hebrew theory  *[[52:13](https://
 
 - **A co-host:** I got mad time.
 
-- **Deacon Eythan:** What? Praises.
+- **Deacon Eythan:** What?
 
 </div>
 
@@ -940,7 +930,7 @@ Reading from *Origins*, pages 70 to 71, the question why the Indians fail to obs
 
 > if a master slept with a slave both were whipped, adulteresses were to be stoned, men and women must not wear each other's clothes,
 
-- Wear each other's clothes. No crossdressing. Deuteronomy 22 and five. Wow. Talking about they, Esau came to civilize us. They got it backwards.
+- Wear each other's clothes. No crossdressing. Deuteronomy 22 and five. Talking about they, Esau came to civilize us. They got it backwards.
 
 - **Captain Joel:** Yeah, we civilized them.
 
@@ -966,9 +956,9 @@ Reading from *Origins*, pages 70 to 71, the question why the Indians fail to obs
 
 - **Deacon Eythan:** Yeah, it's very accurate. World tribe sign is accurate. You can deny if you want to deny, whatever you want to deny. It is what it is. No on, we don't really care. And notice the ones that deny it are not doing anything of any kind to provide a better one.
 
-- **Captain Joel:** Right. Or an accurate one.
+- **Captain Joel:** Or an accurate one.
 
-- **Deacon Eythan:** So you, you continue with your nonsense, man. So far we got Issachar right, we got Gad right, we got Judah right, we got Simeon right, we got Levi right, but anything else is wrong. Okay. Okay.
+- **Deacon Eythan:** So you, you continue with your nonsense, man. So far we got Issachar right, we got Gad right, we got Judah right, we got Simeon right, we got Levi right, but anything else is wrong.
 
 - **Captain Joel:** They use it secretly, deep.
 
@@ -1030,13 +1020,13 @@ Reading from Wikipedia, on the Mexica  *[[1:11:40](https://www.youtube.com/watch
 
 > who occupied the toltech capital of Tula from the 10th through 12th century.
 
-- Remember, Tula represents Jerusalem. All right, Tula represents, a called Tula ATA. And what I find very, very... I think brother myON brought to my attention: toah was a tri, was a son of Issachar. TOA was a Tula, or TOA was a son of Issachar. So not be surprised that there's some kind of relation with that also. All right, toah was the son of issachar. And tula's also made reference to Jerusalem. So I would not be surprised if they, they make reference to the fact that our forefathers, Tula, was from Jerusalem and so forth. I would not be surprised. There cor, there's a correlation somehow. We'll look further into it, but Tula is, from what I've read, reference to Jerusalem. All right, and I believe atsan, atland, is Canaan. All right, and you have four, you have five tulas, as far as I know. Five tulas: one Babylon, one Jerusalem, and then you had two on this side of the world. But the fifth may very well be Tula himself, as an Issachar's descendant, from which the so-called toex, or Aztec, or chimex derived from, Issachar. All right.
+- Remember, Tula represents Jerusalem. All right, Tula represents, a called Tula ATA. And what I find very, very... I think brother myON brought to my attention: toah was a tri, was a son of Issachar. TOA was a Tula, or TOA was a son of Issachar. So not be surprised that there's some kind of relation with that also. All right, toah was the son of issachar. And tula's also made reference to Jerusalem. So I would not be surprised if they, they make reference to the fact that our forefathers, Tula, was from Jerusalem and so forth. I would not be surprised. There cor, there's a correlation somehow. We'll look further into it, but Tula is, from what I've read, reference to Jerusalem. All right, and I believe atsan, atland, is Canaan. All right, and you have four, you have five tulas, as far as I know. Five tulas: one Babylon, one Jerusalem, and then you had two on this side of the world. But the fifth may very well be Tula himself, as an Issachar's descendant, from which the so-called toex, or Aztec, or chimex derived from, Issachar.
 
 - I'm trying to get the origin of the word Mexico. Is that, is it somewhere over there?
 
 - **A co-host:** Yeah, you're right, De. T, son of Issachar.
 
-- **Deacon Eythan:** There you go. See, Tula, TOA, son of Issachar. T, t, Tolan, Tula, toex, same thing, same place. So again, the TR trap sign, y'all keep playing around with it, man. What else? We'll look more into it, though. What else, what else is there?
+- **Deacon Eythan:** See, Tula, TOA, son of Issachar. T, t, Tolan, Tula, toex, same thing, same place. So again, the TR trap sign, y'all keep playing around with it, man. What else? We'll look more into it, though. What else, what else is there?
 
 > The mexic tanat latan were additionally referred to as the Tanaka, a term associated with the name of their city state.
 
@@ -1098,7 +1088,7 @@ Reading from Wikipedia, on the chichim meca  *[[1:16:40](https://www.youtube.com
 
 > The Aztecs themselves were ancestrally chichim meca people.
 
-- There you go. Children of chichim, all right, or Jacob, same thing. All right, so now get second Eis 13 40 one time. Now, oh, we going take a break now. We can wrap it up. Take a break right now. Stay with us, we got some more information. Stay with us, we got more. All right, shalom.
+- Children of chichim, all right, or Jacob, same thing. All right, so now get second Eis 13 40 one time. Now, oh, we going take a break now. We can wrap it up. Take a break right now. Stay with us, we got some more information. Stay with us, we got more. All right, shalom.
 
 </div>
 
@@ -1166,11 +1156,11 @@ Reading from *The View*, pages 228 to 229, on the address in Isaiah 18  *[[1:36:
 
 > or at least are especially included in it.
 
-- Right. Wait, so he says, now appears to him far more probable that the Christian people of the United States of America are the subjects of the address. That's not true. Or at least especially included in it.
+- Wait, so he says, now appears to him far more probable that the Christian people of the United States of America are the subjects of the address. That's not true. Or at least especially included in it.
 
 > To prepare the way for the consideration of the address, let several things be premised.
 
-- Premised. Watch this.
+- Premised.
 
 > Some of the greatest and best of divines have thought it would be strange if nothing should be found in the prophetic scriptures having any special allusions to our Western World,
 
@@ -1178,11 +1168,11 @@ Reading from *The View*, pages 228 to 229, on the address in Isaiah 18  *[[1:36:
 
 > which by propitious heaven was destined to act so distinguishing a part, both in the religious and political world, in the last days. They have felt as though it might be presumed that some special Illusions would be had in some of the prophetic writings to so distinguishing a community of Zion and of men. Under this impression Mr Edwards apprehended this passage of Isaiah might allude to America:
 
-- What, a what passage of Isaiah might allude to America? Read, read, read it.
+- What, a what passage of Isaiah might allude to America?
 
 > So shall they fear the name of the Lord from the West.
 
-- They shall fear the name of the Lord from the West. Let's get Isaiah 59:19. Wow. Esau understood that the Prophecies of Isaiah was alluding to the west, and Columbus came across that understanding also. Read that, Isaiah 59:19. That's why he said earlier that this is, this address is either referring to the Christians or at least includes them. It's not including them at all. It's referring to the Israelites.
+- They shall fear the name of the Lord from the West. Let's get Isaiah 59:19. Esau understood that the Prophecies of Isaiah was alluding to the west, and Columbus came across that understanding also. Read that, Isaiah 59:19. That's why he said earlier that this is, this address is either referring to the Christians or at least includes them. It's not including them at all. It's referring to the Israelites.
 
 </div>
 
@@ -1210,7 +1200,7 @@ Reading from *The View*, page 229, on whose work it is to restore them  *[[1:41:
 
 > The great and generous Christian people who occupy much of the land of those natives,
 
-- Right. The great and generous Christian people, it's SP, the white folks. They were not great and generous.
+- The great and generous Christian people, it's SP, the white folks. They were not great and generous.
 
 > and who are on the ground of their continent, and hence are the best prepared to amarate their condition and bring them to the knowledge and Order of the god of Israel, must of course be the people to whom this work is assigned.
 
@@ -1288,7 +1278,7 @@ Reading from *The View*, page 230, on Ephraim  *[[1:47:30](https://www.youtube.c
 
 > Much of the substance of these chapters is appropriated to the 10 tribes of Israel, though Judah is expressly to be restored with them, of the former having then been outcast for 120 years. God says, chapter 31:20, Is Ephraim my dear son? Is he a pleasant child? For since I spake against him, or expelled him from Canaan, I do earnestly remember him still. Therefore my vows are troubled for him...
 
-- Hold on. Much, you start, said, said the Lord. Where you at? I, much of, much of the substance of these chapters... we're going to stop at, we're going to stop at, so said the Lord. Jeremiah 31:20. Jeremiah 31:20 to 21. Jeremiah 31 chapter 20.
+- Much, you start, said, said the Lord. Where you at? I, much of, much of the substance of these chapters... we're going to stop at, we're going to stop at, so said the Lord. Jeremiah 31:20. Jeremiah 31:20 to 21. Jeremiah 31 chapter 20.
 
 </div>
 
@@ -1302,15 +1292,13 @@ Reading from *The View*, page 230, on Ephraim  *[[1:47:30](https://www.youtube.c
 
 - **A co-host:** Well, 2, I didn't read 21 yet.
 
-- **Deacon Eythan:** Oh, I'm sorry. Got, gotad.
+- **Deacon Eythan:** Got, gotad.
 
 > <sup>[21](/bible/jeremiah/31#v21)</sup> Set thee up waymarks, make thee high heaps: set thine heart toward the highway, even the way which thou wentest: turn again, O virgin of Israel, turn again to these thy cities.
 
-- Wait, wait, wait, wait. 30:20, 30:20 and 21? What you said? Jeremiah 30 and 20? 30, see something, hold on a second. 31:1, let me see it. 31 and 20, that one. One second. Jeremiah 31:20 and 21. Yes.
+- Wait, wait, wait, wait. 30:20, 30:20 and 21? What you said? Jeremiah 30 and 20? 30, see something, hold on a second. 31:1, let me see it. 31 and 20, that one. Jeremiah 31:20 and 21. Yes.
 
 - **A co-host:** I just, I'll just finish verse 20.
-
-- **Deacon Eythan:** Want to read it again? Read it again, read again.
 
 - **A co-host:** Is ephra my dear son?
 
@@ -1328,7 +1316,7 @@ Reading from *The View*, page 230, continued  *[[1:49:50](https://www.youtube.co
 
 > Is ephra my dear son? Is he a pleasant child? For since I spake again against him, or expelled him from Canaan, I do earnestly remember him still. Therefore my bows are troubled for him. I will surely have mercy upon him, sayith the Lord. The next verse invites and predicts his final restoration. These yearnings of divine compassion for Ephraim, one noted name of the 10 tribes, are the immediate precursor of his restoration. I will surely have mercy upon him, sayith the Lord. Set the upwe marks, set the weight, set the up marks, make the high heaps, set thine heart toward the highways, turn again, oh Virgin of Israel.
 
-- Isra... that's all I want. So we just read that earlier. Get page straight, page mation... stop right there, I'm moving fast. Zechariah 2:6. Zechariah 2:6 to 8. Zechariah 2:6 to 8. The book of Zechariah chapter 2 verse 6. The author is referring to northern kingdom, northern kingdom being gathered together with Judah once again, the southern Kingdom. Read that.
+- Isra... that's all I want. So we just read that earlier. Get page straight, page mation... stop right there, I'm moving fast. Zechariah 2:6. Zechariah 2:6 to 8. Zechariah 2:6 to 8. The book of Zechariah chapter 2 verse 6. The author is referring to northern kingdom, northern kingdom being gathered together with Judah once again, the southern Kingdom.
 
 </div>
 
@@ -1370,7 +1358,7 @@ Reading from *The View*, pages 232 to 233, on the restoration of Ephraim and Jud
 
 > the other from his Outcast State,
 
-- And the other from his Outcast State. Watch this, right, watch this.
+- And the other from his Outcast State.
 
 > and their Mutual envies are forever healed,
 
@@ -1385,8 +1373,6 @@ Reading from *The View*, pages 232 to 233, on the restoration of Ephraim and Jud
 - Come on, we're going to stop at resided.
 
 > among which are the ows of the sea, are lands away Over the Sea, and the four corners of the earth.
-
-- Watch this.
 
 > Certainly then from America.
 
@@ -1410,15 +1396,15 @@ Reading from *The View*, pages 232 to 233, on the restoration of Ephraim and Jud
 
 - **Captain Joel:** Yes sir.
 
-- **Deacon Eythan:** So that was the same thought process of King Ferdinand and Isabella and, what's his name, C, Rodrigo bour, Pope Alexander the six of Rome. Their objective was to convert, or forcefully convert, or kill, or Exile all the Jews who refuse to convert out of Spain and Portugal. Right. Those of us who were, who had enough money and power and wealth, they were able to escape into Africa and so forth, and live their lives to an extent, before they ran to the Arabs and got sold anyway.
+- **Deacon Eythan:** So that was the same thought process of King Ferdinand and Isabella and, what's his name, C, Rodrigo bour, Pope Alexander the six of Rome. Their objective was to convert, or forcefully convert, or kill, or Exile all the Jews who refuse to convert out of Spain and Portugal. Those of us who were, who had enough money and power and wealth, they were able to escape into Africa and so forth, and live their lives to an extent, before they ran to the Arabs and got sold anyway.
 
 - **Captain Joel:** And got sold right back to the same people they ran from.
 
-- **Deacon Eythan:** Right. So when the white man of Spain and Portugal was forcefully targeting the judaized Israelites, the ones who were keeping the Commandments, they were attacking them. That Inquisition was to attack them, right. So when columus told the crown, the same king and queen that were responsible for the Inquisition in the old world, when Columbus said there's Israelites over there too... the Israelites in Spain and Portugal were wealthy and Rich. So col, when Columbus told the king and queen that the Israelites are in America also, and the land on the other side of the world also, they said, well, you know what, if they're rich over here, they're going to Rich over there also. Go over there and forcefully convert them, enslave them over there, as you are doing, as we're doing in this side of the world. You understand?
+- **Deacon Eythan:** So when the white man of Spain and Portugal was forcefully targeting the judaized Israelites, the ones who were keeping the Commandments, they were attacking them. That Inquisition was to attack them, right. So when columus told the crown, the same king and queen that were responsible for the Inquisition in the old world, when Columbus said there's Israelites over there too... the Israelites in Spain and Portugal were wealthy and Rich. So col, when Columbus told the king and queen that the Israelites are in America also, and the land on the other side of the world also, they said, well, you know what, if they're rich over here, they're going to Rich over there also. Go over there and forcefully convert them, enslave them over there, as you are doing, as we're doing in this side of the world.
 
 - **Deacon Eythan:** So they were basically doing the same thing to the Native Americans on this side of the world that they were doing on the other side of the world. And the money that was used to fund Columbus's Voyage was the money that they gathered from, that they, they gathered from robbing our brothers and sisters in Spain and Portugal. That money funded the voyage to this side of the world. That's y don't understand: those histories interconnect. The Spanish Inquisition, and eventually the trans inherent and transatlantic slave trade, All Tied back into the colon, the colonization, the colonizing of this side of the world, from the same zakan Queen. And then they brought the same Inquisition to this side of the world also, in Brazil and in Mexico, because the Israelites, those same Israelites that fed from Spain and Portugal, came over here also and were enslaved together with Native Americans. That's what I don't understand. So you keep on denying, you don't, don't, you don't know anything. Like Captain saying, you don't know anything. You don't do your research. You don't know anything. Just, just sit back and just learn.
 
-- **Deacon Eythan:** So now we're going to stop at resided. We're going to stop... I can't find the word resided. I know it's in here somewhere. I'm trying to find resided. That's... oh, I found, I found it. Keep going. Go back up.
+- **Deacon Eythan:** So now we're going to stop at resided. We're going to stop... I can't find the word resided. I know it's in here somewhere. I'm trying to find resided. That's... oh, I found, I found it. Go back up.
 
 > This surely, this surely is one of the four corners of the earth, of such a land away oversea.
 
@@ -1442,7 +1428,7 @@ Reading from *The View*, pages 232 to 233, on the restoration of Ephraim and Jud
 
 > as this return was to exhibit a primary fulfillment of the many Prophecies of the restoration of the Hebrews which are clearly to have their ultimate accomplishments in their restoration just anterior to the Millennium. So Zachariah clearly predicted the latter...
 
-- Go up. The latter event. Move it up. The latter event.
+- The latter event. Move it up. The latter event.
 
 > and said various things peculiar to it. Chapter 2 Verse 6: Ho, ho, come forth, and flee from the land of the north.
 
@@ -1470,7 +1456,7 @@ Reading from *The View*, pages 232 to 233, on the restoration of Ephraim and Jud
 
 - **Deacon Eythan:** Now, it's referring to now.
 
-- **Captain Joel:** Wow. Dam.
+- **Captain Joel:** Dam.
 
 > which did not disperse them to all points of the compass.
 
@@ -1506,8 +1492,6 @@ Reading from *The View*, pages 232 to 233, on the restoration of Ephraim and Jud
 
 - **Deacon Eythan:** Yeah.
 
-- **Captain Joel:** Can you put that on the screen?
-
 - **Deacon Eythan:** No, it's not... I'm good, I'm good, man, I'm just chilling. No, just to... no, it's not. Jez, I'm gonna leave you alone today. I wasn't, I was going to put a picture of you up, but I forgot. I felt bad. Not to deep, man. I felt bad, you know, I felt bad, you know. I said I can't keep doing this, like, brothers, just, I don't know. Brothers might, like, like, playing a coup against me or something, try to overthrow me, something. Yeah, I don't trust this at all, man. But no, no, no, no, it's something about you, J. Not today. I would done a lot smoother.
 
 - Yes, sure did.
@@ -1516,7 +1500,7 @@ Reading from *The View*, pages 232 to 233, on the restoration of Ephraim and Jud
 
 - **Deacon Eythan:** Over, he had a power over the crown, he had power over the military, he had power over everything. Finances, all that.
 
-- **Captain Joel:** Finance. Cuz they could not, Christopher Columbus could not come to this side of the world without a reasonable explanation of what's over here, the distance, and why is he making his travels, and he had to get the authorship from the pope. You can't go without the Pope's Authority, right? Where it says in Wake of Columbus Landon, in the wake of... blow it up, some brothers. All right, thank you.
+- **Captain Joel:** Finance. Cuz they could not, Christopher Columbus could not come to this side of the world without a reasonable explanation of what's over here, the distance, and why is he making his travels, and he had to get the authorship from the pope. You can't go without the Pope's Authority, right? Where it says in Wake of Columbus Landon, in the wake of... blow it up, some brothers.
 
 <div class="reading">
 
@@ -1532,11 +1516,7 @@ Reading from an article on Pope Alexander the 6th and the Bulls  *[[2:04:49](htt
 
 - **Captain Joel:** Confirmed. That was in Bishop's class recently, and Sh out Tuesdays, about Pope Nicholas the...
 
-- **Deacon Eythan:** Okay.
-
 > had previously conferred on Portugal with the bulls romanist pontif effect and Dum diversus. Morales pedron 1979 concludes that these Bulls gave power to enslave the natives.
-
-- **Deacon Eythan:** Wow.
 
 - **Captain Joel:** So it was the power and authority given by pop, Pope Alex... what you going to realize, Pope Alexander V 6 was a demon. He was behind the mass enslavement of the natives and a mass conversion of the North American Indians. Columbus had to present: listen, this is what I found in the scriptures, this the studies I have, these are where the Israelites are located. He brought, he brought back the information to the new foreign world, and when they came back to the Americas, they didn't only come back with, they didn't just come back with nothing. They came back with gold, Treasures, as well as with slaves.
 
@@ -1568,9 +1548,9 @@ Reading from an article on Pope Alexander the 6th and the Bulls  *[[2:04:49](htt
 
 - **Deacon Eythan:** Rel, right. Religious conversion.
 
-- **Captain Joel:** Right. Religious conversion, for forced religious, forced religious conversion and enslavement, along with icon clasm.
+- **Captain Joel:** Religious conversion, for forced religious, forced religious conversion and enslavement, along with icon clasm.
 
-- **Deacon Eythan:** Right, that too. Read that real quick. This man, this demon right here, was behind the whole thing.
+- **Deacon Eythan:** Right, that too. This man, this demon right here, was behind the whole thing.
 
 - **Captain Joel:** Yep.
 
@@ -1616,7 +1596,7 @@ Reading from an article on Pope Alexander the 6th and the Bulls  *[[2:04:49](htt
 
 - **Deacon Eythan:** That's that demon right there. He fulfilled that prophecy.
 
-- **Captain Joel:** Y. Keep going?
+- **Captain Joel:** Y.
 
 - **Deacon Eythan:** We don't... keep, read the rest of it.
 
@@ -1636,7 +1616,7 @@ Reading from the article on Pope Alexander the 6th, continued  *[[2:10:39](https
 
 </div>
 
-*[[2:11:50](https://www.youtube.com/watch?v=oeFQVxvlh_Y&t=7910s)]* That's a native right there. That is a... go down, go to the bottom. That's a mar... no, no, well, no, well, a my, yeah, could be. That's a my, when he was n years old. No hair in his face, no hair in his chest, man. Blow it up, blow it up, blow it up. Go to him, go to him again, go to him again, go to his face again. No shoes. Go up, go up again. Okay, go. Okay, see his face there now? Y, yo, put the c, y, put the camera on here real quick. That's a myON. Oh man. Go down, go down, go down, go down, go down. See what he says about him. Blow it up. What does it say there?
+*[[2:11:50](https://www.youtube.com/watch?v=oeFQVxvlh_Y&t=7910s)]* That's a native right there. That is a... go down, go to the bottom. That's a mar... no, no, well, no, well, a my, yeah, could be. That's a my, when he was n years old. No hair in his face, no hair in his chest, man. Blow it up, blow it up, blow it up. Go to him, go to him again, go to him again, go to his face again. No shoes. Go up, go up again. Okay, go. Okay, see his face there now? Y, yo, put the c, y, put the camera on here real quick. That's a myON. Oh man. See what he says about him. Blow it up. What does it say there?
 
 <div class="reading">
 
@@ -1648,7 +1628,7 @@ Reading from the description under an image of a Carib Indian  *[[2:12:14](https
 
 > carab Indian, or noo River, says oronoko River, 1890s. Owner statement on Wiki: This image was on an ancient postcard among a number of papers I inherited from my father, he inherited from his father, Dr Alfred Edward Ted Hill, after his death in 2004. The old postcard simply has carab Indian, oronoko River, 1890s printed on the reverse. The river is in Venezuela and Colombia. There is no other information with it. Note: other artifacts indicate that the original carab and arrowok Indians of the Caribbeans were black.
 
-- Right. We to go to get part again.
+- We to go to get part again.
 
 > Other artifacts indicate that the original cariban arrowok Indians of the Caribbeans were black,
 
@@ -1660,9 +1640,9 @@ Reading from the description under an image of a Carib Indian  *[[2:12:14](https
 
 ## In Closing
 
-*[[2:14:30](https://www.youtube.com/watch?v=oeFQVxvlh_Y&t=8070s)]* So we end up on that for now, because I got way more. It's still in the promise, it's still on the Promise Land. It's a long, this is long. Likewise it'll be long, and I go back to the other side of the world. So hope y'all enjoyed the class. Shout outs to the IT team that did excellent job. Shout outs to the breakfast Team, sister did a great job as usual, excellent breakfast this morning. Cat...
+*[[2:14:30](https://www.youtube.com/watch?v=oeFQVxvlh_Y&t=8070s)]* So we end up on that for now, because I got way more. It's still in the promise, it's still on the Promise Land. It's a long, this is long. Likewise it'll be long, and I go back to the other side of the world. So hope y'all enjoyed the class. Cat...
 
-**Captain Joel:** Oh, all praises to the most high, Deacon. All praise to the most high. Let's get the most high Round of Applause, and use him, Deacon, his Prophet, to deliver this excellent message, as usual, like I said.
+**Captain Joel:** Oh, all praises to the most high, Deacon. Let's get the most high Round of Applause, and use him, Deacon, his Prophet, to deliver this excellent message, as usual, like I said.
 
 *[[2:16:36](https://www.youtube.com/watch?v=oeFQVxvlh_Y&t=8196s)]* **Captain Joel:** All Praises, man. All prais to the most high. But all Praises, Israel.
 

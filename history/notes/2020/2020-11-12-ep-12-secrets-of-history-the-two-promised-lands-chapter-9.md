@@ -18,13 +18,11 @@ tags: ["Our Hidden History", "edom-esau"]
 
 ## Introduction
 
-*[[14:27](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=867s)]* Hey, shalom, shalom. Welcome back, welcome back to Our Hidden History radio. I'm Deon, and to my left, to my left, Officer Haim, Officer Adon; to my right, Officer lar, Officer judel. This Our Hidden History radio. So let's begin, let's begin. I don't hear myself. We good?
+*[[14:27](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=867s)]* Welcome back to Our Hidden History radio. I'm Deon, and to my left, to my left, Officer Haim, Officer Adon; to my right, Officer lar, Officer judel. This Our Hidden History radio. So let's begin.
 
-**Officer:** No, you good, D.
+**Deacon Eythan:** So now last week I stopped at Zechariah 8 and 3 to 7, but I'mma go back. I'm gonna go back, because I came across some stuff and I want to go back real quick, because I made mention of how they were saying how the Jesuits, some Jesuits said we didn't have any writings, we didn't have any books, and I brought it out in some books. But I want to just delve into some more stuff.
 
-**Deacon Eythan:** All right, all right. Okay, here we go. We got, hear myself now. All right. So now last week I stopped at Zechariah 8 and 3 to 7, but I'mma go back. I'm gonna go back, because I came across some stuff and I want to go back real quick, because I made mention of how they were saying how the Jesuits, some Jesuits said we didn't have any writings, we didn't have any books, and I brought it out in some books. But I want to just delve into some more stuff.
-
-*[[15:16](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=916s)]* So real quick, let's go to this book here, 10 Tribes, real quick, and I want to go to page 152. I'm trying to get out of America. I'm trying, but it's like every time I try to leave out of there, man, something pull me right back in. So Lord's will, hopefully this is the last time I be going to America. Give out of here. Page 152, and I want to start with "The Mexicans." Go up, yeah, the top of the page. Doesn't have the top of the book, so it's okay. If you have the top of the page there, it's all right. Hey, brothers, turn the headphones down a little bit, please. Thank you. Ready?
+*[[15:16](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=916s)]* So real quick, let's go to this book here, 10 Tribes, real quick, and I want to go to page 152. I'm trying to get out of America. I'm trying, but it's like every time I try to leave out of there, man, something pull me right back in. So Lord's will, hopefully this is the last time I be going to America. Give out of here. Page 152, and I want to start with "The Mexicans." Go up, yeah, the top of the page. Doesn't have the top of the book, so it's okay. If you have the top of the page there, it's all right.
 
 **Officer:** Yes sir.
 
@@ -36,11 +34,11 @@ Reading from a book on the ten tribes (*10 Tribes*), page 152, on the Mexicans a
 
 > The Mexicans appear to have given due consideration to a subject very explicitly detailed by the Prophet Daniel,
 
-- So they, the Mexicans, paid much attention to the Prophet Daniel. Watch this.
+- So they, the Mexicans, paid much attention to the Prophet Daniel.
 
 > and what has been well dominated, denominated his calendar.
 
-- His calendar. So the Prophet Daniel has something to do with the calendar, with their calendar. Watch this.
+- His calendar. So the Prophet Daniel has something to do with the calendar, with their calendar.
 
 > The gold, which symbolized the ancient Babylon Empire,
 
@@ -56,17 +54,17 @@ Reading from a book on the ten tribes (*10 Tribes*), page 152, on the Mexicans a
 
 > The fifth universal empire, that of the Messiah,
 
-- Now you may ask yourself, well, there was only four empires that the Bible mentions. But understand, America is the fifth. Okay. Well, to them, America is an extension of the fourth, but they refer to it as the fifth. Watch this. Like for example, when you read Revelation, it says seven heads and ten horns. It says that there's seven horns, but out of the seventh comes the eighth. The seventh is Britain. America is of the seventh, but it's the eighth. Likewise, America is of the fourth, but it's the fifth in terms of this context here. Okay. Watch this.
+- Now you may ask yourself, well, there was only four empires that the Bible mentions. But understand, America is the fifth. Well, to them, America is an extension of the fourth, but they refer to it as the fifth. Like for example, when you read Revelation, it says seven heads and ten horns. It says that there's seven horns, but out of the seventh comes the eighth. The seventh is Britain. America is of the seventh, but it's the eighth. Likewise, America is of the fourth, but it's the fifth in terms of this context here.
 
 > The fifth universal empire, that of the Messiah, which is symbolized by the adamant, shall as really and politically supersede the last aspect of this Roman Empire.
 
 - So I'm sorry, I'm bugging out. So in this instance he's referring to our kingdom, the children of Israel's kingdom. Not America, but the children of Israel's kingdom. The Messiah's kingdom will be the fifth. They refer to that as the fifth. So they understood the Book of Daniel.
 
-- Now you may ask yourself, why am I going through Daniel? What's the purpose? I'm showing you that the Aztecs, or Mexico, Mexicans, had the history of Daniel in their records. Right? That's what I'm showing. They had knowledge of Daniel 7. They had knowledge of Daniel 2, verse 44 and 45: the gold, the silver, the brass and the iron. Okay. Now let's go. Keep that in mind. We understood Daniel chapter 7, the four beasts, and chapter 2 verse 44 and 45, and he mentions the fifth, as in the Messiah's empire to follow. Going into Daniel 7, where the saints were to take the kingdom. So basically they had the Bible.
+- Now you may ask yourself, why am I going through Daniel? What's the purpose? I'm showing you that the Aztecs, or Mexico, Mexicans, had the history of Daniel in their records. That's what I'm showing. They had knowledge of Daniel 7. They had knowledge of Daniel 2, verse 44 and 45: the gold, the silver, the brass and the iron. Now let's go. Keep that in mind. We understood Daniel chapter 7, the four beasts, and chapter 2 verse 44 and 45, and he mentions the fifth, as in the Messiah's empire to follow. Going into Daniel 7, where the saints were to take the kingdom. So basically they had the Bible.
 
 - **Officer:** They had the Bible. Yes, they had the Bible, understand the Bible.
 
-- **Deacon Eythan:** Right. They had prophets amongst them that was able to explain to them. I was reading in Daniel the second chapter, and the seventh. The second and the seventh.
+- **Deacon Eythan:** They had prophets amongst them that was able to explain to them. I was reading in Daniel the second chapter, and the seventh. The second and the seventh.
 
 </div>
 
@@ -112,7 +110,7 @@ Reading from the same book, page 158, on the divine book of the toas · read by 
 
 > We are naturally disposed to inquire what was the Tia Moxley, the name of the divine book which contained the history, the mythology, calendar and laws of the toas.
 
-- Remember, the toas are the predecessors of the chichim. Chichim are predecessors of the Aztecs, or Mexicans. It's all the same family. Toex are the people of tah, TOA, going into Issachar's son. Issachar, TOA, or Tula, as in Jerusalem. That's what it's going into. Watch this.
+- Remember, the toas are the predecessors of the chichim. Chichim are predecessors of the Aztecs, or Mexicans. It's all the same family. Toex are the people of tah, TOA, going into Issachar's son. Issachar, TOA, or Tula, as in Jerusalem. That's what it's going into.
 
 > This word is compounded of Teo, divine,
 
@@ -124,7 +122,7 @@ Reading from the same book, page 158, on the divine book of the toas · read by 
 
 > and Moxley,
 
-- Moxley, or mostly. Mostly, or mostly. Watch this.
+- Moxley, or mostly. Mostly, or mostly.
 
 > for in the Mexican language Y and X frequently supply the place of S.
 
@@ -132,15 +130,13 @@ Reading from the same book, page 158, on the divine book of the toas · read by 
 
 > TLI is the void of meaning, but is a general termination.
 
-- Watch this.
-
 > Mostly then appears to be Moses,
 
 - Moses.
 
 > when the sentence would be the divine book of Moses.
 
-- See, they had the Bible. Daniel 2, that explains what they had. Daniel. Wow. The words of God, the word. They had the law and their prophets they had over here.
+- See, they had the Bible. Daniel 2, that explains what they had. Daniel. The words of God, the word. They had the law and their prophets they had over here.
 
 > It is necessary to observe that in the Mexican language the compounding of words terminating in it TL with other words, and listen in Alan of those final letters frequently taken place, as in the word aat, which is compounded of atly,
 
@@ -148,7 +144,7 @@ Reading from the same book, page 158, on the divine book of the toas · read by 
 
 > water,
 
-- Which means water. Means water. Watch this.
+- Which means water. Means water.
 
 > and Cali, a house.
 
@@ -156,17 +152,17 @@ Reading from the same book, page 158, on the divine book of the toas · read by 
 
 > Then tail K, Tail's divine, K's house, the divine house,
 
-- The holy house of God. The temple. That's what it's going into. All right, so now read next. Read the next one.
+- The holy house of God. The temple. That's what it's going into. All right, so now read next.
 
 > A little historical book was found of an Hebrew Indian nation,
 
-- Hebrew Indian nation. Come on, man. That mean a little historical book was found of an Hebrew Indian nation.
+- Hebrew Indian nation. That mean a little historical book was found of an Hebrew Indian nation.
 
 > which may probably be that of Ben mentioned by Nunes de laa, to which tradition it should be observed the Bishop of Chapa lent his much higher authority. It is impossible not to remark the resemblance which many of their proper names bear to the Hebrew.
 
 > In the last edition of Garcia's origin, Origen de los Indios,
 
-- Right. Remember Garcia. Numerous times last week we mentioned Garcia. It's the same Garcia.
+- Remember Garcia. Numerous times last week we mentioned Garcia. It's the same Garcia.
 
 > we find, page 159, we find the cause, it should say. We find the cause which follows, inserted by the editor in the text, but Garcia notices himself other Indian names which resemble Hebrew.
 
@@ -184,21 +180,21 @@ Reading from the same book, page 158, on the divine book of the toas · read by 
 
 - **Officer:** Or image. They knew. There's a specific movie called *The Other Conquest*, specifically on the Aztecs, how the books, they actually hid them under rocks and all that stuff. Eventually they found them.
 
-- **Deacon Eythan:** Wow. That's what we're reading right now. Esau did find them. Blow it up some more if you can. Just fill the screen up with it if you can. The bottom. Move it over. No, the other way. Bring it some more. Okay, that's the best you could do. Fine. Read that.
+- **Deacon Eythan:** That's what we're reading right now. Esau did find them. Blow it up some more if you can. Just fill the screen up with it if you can. The bottom. Move it over. No, the other way. Bring it some more. Okay, that's the best you could do. Fine.
 
-- All right, reference one. So the reference one's going back to, it says tokada says of the book, number one. So number one's going into the, is defining book. Watch this.
+- All right, reference one. So the reference one's going back to, it says tokada says of the book, number one. So number one's going into the, is defining book.
 
 > The following testimony is thus introduced by tokata: another ecclesiastic, named Brother Diego de Mara, a grave father, who has been defendor of this province of the Holy Gospel, and one of the most exemplary of men and greatest doers of penance of his time, relates and authenticates this relation with his signature: that some years ago, conversing with an age Indian of or aamis of the who atam,
 
-- We read about them chapters ago, the adames. Those are the black natives. Remember them? You had the ames, you had the konam, you had the alch. Okay. So there's a age Indian of the atmes.
+- We read about them chapters ago, the adames. Those are the black natives. Remember them? You had the ames, you had the konam, you had the alch. So there's a age Indian of the atmes.
 
 > respecting matters of our faith,
 
-- So he explained to the Spaniard, the Spaniard here, their faith, where their faith come from. The Indians explain to the Spaniard where their faith derives from. Watch this. Regarding this book. Watch this.
+- So he explained to the Spaniard, the Spaniard here, their faith, where their faith come from. The Indians explain to the Spaniard where their faith derives from. Regarding this book.
 
 > the Indians told him that they had in ancient times been in possession of a book,
 
-- Oh. In ancient times they had been in possession of a book. Watch this.
+- In ancient times they had been in possession of a book.
 
 > which was handed down from father to son in the person of the eldest, who was devoted to the safe custody of it and to instruct others in his doctrines.
 
@@ -206,35 +202,33 @@ Reading from the same book, page 158, on the divine book of the toas · read by 
 
 > These doctrines were written in two portions, and between the columns Christ was painted crucified, with they count as of sorrow.
 
-- See that? They had the Messiah depicted in the Bible. You understand? They had the Bible. They know about the Messiah. They knew about Daniel. They knew about Moses. They had the Bible here. Now here's the crazy part: they came here during the time of the Persian captivity. They came here, so they had knowledge of the Messiah based upon Daniel also. They had all that history over here. All that here. They had prophets here. All right, and teach us here. Hold on, I read what I did not give you. It says:
+- See that? They had the Messiah depicted in the Bible. They had the Bible. They know about the Messiah. They knew about Daniel. They knew about Moses. They had the Bible here. Now here's the crazy part: they came here during the time of the Persian captivity. They came here, so they had knowledge of the Messiah based upon Daniel also. They had all that history over here. All that here. They had prophets here. All right, and teach us here. Hold on, I read what I did not give you. It says:
 
 > These doctrines were written in two portions, and between the columns Christ was painted crucified, with the countenance as of sorrow. They said that God was offended, and out of reverence did not turn over the leaves with their hands, but with a small bar which they had made for the purpose, which they kept along with the book. This book was buried in the earth for fear of the Spaniards.
 
-- Wow. So they buried, they knew that the Spaniards came over here because God was mad at them, because they were going off. So they knew, when Esau showed up here, hide our books. They knew what they were going to do with them. They knew what was coming. They knew who was coming, because qu KATU, the Messiah, told them so. All right. He warned them.
+- So they buried, they knew that the Spaniards came over here because God was mad at them, because they were going off. So they knew, when Esau showed up here, hide our books. They knew what they were going to do with them. They knew what was coming. They knew who was coming, because qu KATU, the Messiah, told them so. He warned them.
 
 - **Officer:** And Deac, like you say, they read in the book of Moses. Deuteronomy 28. They had it, and plus they had the prophets, the Old Testament too. First Maccabees, you know, tell them about how they paint their image in the books.
 
-- **Deacon Eythan:** Right, as well. They had the prophets as well. They had Moses, all that. Right. So it's showing you that they had knowledge of that. When Esau came over here, they said, damn, these guys are here now, let's hide this stuff, they're going to destroy it. All right. But obviously they didn't destroy enough of it, because we're reading it. All right. So now let's go to page 161.
+- **Deacon Eythan:** Right, as well. They had the prophets as well. They had Moses, all that. So it's showing you that they had knowledge of that. When Esau came over here, they said, damn, these guys are here now, let's hide this stuff, they're going to destroy it. But obviously they didn't destroy enough of it, because we're reading it. So now let's go to page 161.
 
 - **Officer:** So, Deacon, we never looked at them, as Esau painted, that they were gods coming to this side of the world.
 
-- **Deacon Eythan:** That's a lie. That's a lie. Remember, I told you chapters ago how Esau, Cortez, came over here, and monuma told him that they were sent here by God to save them. But that was a lie. That lie was spread all throughout the islands, that the Spaniards made up, to say, see, when we showed up, the Indians thought we were their saviors. But history tells you they said, these guys are here, these guys are our destroyers. Right. They knew. That's why Muma went into the temple to pray, and they killed him in there, along with his servants, in the TA Cali, in the house of God, in the divine house, and he didn't leave out of there.
+- **Deacon Eythan:** That's a lie. That's a lie. Remember, I told you chapters ago how Esau, Cortez, came over here, and monuma told him that they were sent here by God to save them. But that was a lie. That lie was spread all throughout the islands, that the Spaniards made up, to say, see, when we showed up, the Indians thought we were their saviors. But history tells you they said, these guys are here, these guys are our destroyers. They knew. That's why Muma went into the temple to pray, and they killed him in there, along with his servants, in the TA Cali, in the house of God, in the divine house, and he didn't leave out of there.
 
 - **Officer:** And also, to top it off, you know what helped Cortez conquer the Aztecs? The woman, the Aztec woman. Her name was Malin. Malin, the curse. La Malin.
 
-- **Deacon Eythan:** Right, right.
-
 - **Officer:** And that's a term that's an insult on women even today, among Mexicans today, of a woman. That's like a Jezebel.
 
-- **Deacon Eythan:** Like a Jezebel. Right. Even to this day.
+- **Deacon Eythan:** Like a Jezebel. Even to this day.
 
 - **Officer:** So she turned her back on her people. That's why they were overthrown.
 
-- **Deacon Eythan:** Right, right, right. When you betray someone like that, that's when it's called like a Malin. There you go.
+- **Deacon Eythan:** When you betray someone like that, that's when it's called like a Malin.
 
 - **Officer:** And she had his firstborn mixed-breed child on this side of the world. They said he was the first one of a mtio, was his child with her.
 
-- **Deacon Eythan:** All right. Among many other wives he had, or concubines he had.
+- **Deacon Eythan:** Among many other wives he had, or concubines he had.
 
 </div>
 
@@ -264,7 +258,7 @@ Reading from the same book, page 161, on sagon · read by an officer  *[[34:09](
 
 > This might refer to the destruction of the TA moley, the divine book of the toas, in the reign of the above mentioned king, from which the Mexicans might have borrowed their notions and metaphors.
 
-- Right. They got their notions and metaphors in the Bible. You understand? So now, page 163.
+- They got their notions and metaphors in the Bible. So now, page 163.
 
 </div>
 
@@ -274,9 +268,9 @@ Reading from the same book, page 163, on the Hebrew of the Jews after Babylon an
 
 > The Jews, who had only been in Babylon 70 years,
 
-- We're going to start at "therefore," and that Psalms 2 and 7. All right. It is therefore in the genius of... no, matter of fact, go to "the Jews." Go up there, right there. The Jews, right there. Start from there.
+- We're going to start at "therefore," and that Psalms 2 and 7. It is therefore in the genius of... no, matter of fact, go to "the Jews." Go up there, right there. The Jews, right there. Start from there.
 
-- Hold on. So remember, we spent 70 years under Babylonian rule. That's according to prophecy of Jeremiah: 70 years. Watch this.
+- So remember, we spent 70 years under Babylonian rule. That's according to prophecy of Jeremiah: 70 years.
 
 > had so corrupted the Hebrew language
 
@@ -288,15 +282,13 @@ Reading from the same book, page 163, on the Hebrew of the Jews after Babylon an
 
 - **Officer:** So you saying that the lashan Kadesh is not, it's not pure? It's not a pure dialect?
 
-- **Deacon Eythan:** It's not. I'm just telling you, it's not a pure dialect. There you go, right there. From Egypt, even when we came out of Egypt, it was corrupt even then. It's not pure. We going to get the pure Hebrew he spoke from the time of Adam and Noah in the kingdom. You don't have it now. So I, my, like you, laat, mat, you have H, you have jez aan: these are rehearsal Hebrew. I call it rehearsal Hebrew. Right. Rehearsal Hebrew names. Rehearsal, with English. Because Israel is an English word that came about in the 14th century.
+- **Deacon Eythan:** It's not. I'm just telling you, it's not a pure dialect. There you go, right there. From Egypt, even when we came out of Egypt, it was corrupt even then. It's not pure. We going to get the pure Hebrew he spoke from the time of Adam and Noah in the kingdom. You don't have it now. So I, my, like you, laat, mat, you have H, you have jez aan: these are rehearsal Hebrew. I call it rehearsal Hebrew. Rehearsal Hebrew names. Rehearsal, with English. Because Israel is an English word that came about in the 14th century.
 
 - **Officer:** Yeah. That goes back to the book that Bishop brought out, that it was Sero Chic Hebrew that we speaking now, in the New Testament.
 
 - **Deacon Eythan:** Correct, right. Yep. After the Babylonian.
 
 - **Officer:** In that book with the Abraham, Isaac and Jacob, that book mentions the black.
-
-- **Deacon Eythan:** Read on, next one.
 
 > It is therefore in the genius of the transatlantic dialects that we are to expect hebrewism, rather than in the use of Hebrew terms, although in their religious rites these have been wonderfully preserved.
 
@@ -318,8 +310,6 @@ Reading from the same book, page 163, on the Hebrew of the Jews after Babylon an
 
 > and by the Mexicans toin and tetin,
 
-- Watch this.
-
 > our son, and God's son,
 
 - Our son and God's son. Te means god, I said before. Divine.
@@ -336,7 +326,7 @@ Reading from the same book, page 163, on the Hebrew of the Jews after Babylon an
 
 *[[39:13](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=2353s)]* So now, enough of that. Let's go back to Origin of the Indians. I spoke the book again. I said it again. It's all right, it's all right.
 
-**Officer:** Wow. Deac, Bishop used it in the book anyway.
+**Officer:** Deac, Bishop used it in the book anyway.
 
 **Deacon Eythan:** B, you have that now, or thean page?
 
@@ -352,7 +342,7 @@ Reading from the book on the *Origin of the Indians*, page 61, on Garcia's argum
 
 > Before discussing the various opinions on origins, Garcia explained the conditions which governed the development of his treaties. First, it was necessary to accept three things as fundamentals on which to base the structure and the argument of the book. The first dealt with the Catholic faith: that all men and women had and have since the beginning of the world preceded and taken their beginning and origin from all first parents, Adam and Eve,
 
-- Right. That's true.
+- That's true.
 
 > and subsequently from Noah and his sons,
 
@@ -364,7 +354,7 @@ Reading from the book on the *Origin of the Indians*, page 61, on Garcia's argum
 
 > of the earth, and that Noah divided the world, giving Asia to shim,
 
-- Hold on. So Noah's sons divide the world.
+- So Noah's sons divide the world.
 
 - Giving Asia to shim. That's one part of the world.
 
@@ -382,7 +372,7 @@ Reading from the book on the *Origin of the Indians*, page 61, on Garcia's argum
 
 > whom we call Indians, went to them from one of the three parts of the known world.
 
-- So the Indians came from one of these three parts of the known world. The Indians came from one of these three parts, or three patriarchs, of the known, or old, world. Watch the three parts. Watch this.
+- So the Indians came from one of these three parts of the known world. The Indians came from one of these three parts, or three patriarchs, of the known, or old, world. Watch the three parts.
 
 > The reason for this is that if the fourth part, called America, were inhabited at the beginning of the world, or before the flood, in the time of Noah and his sons or grandsons, there would have been notice of it, and the ancient historians and cosmographers would have mentioned it, as they did the three said parts.
 
@@ -396,13 +386,13 @@ Reading from the book on the *Origin of the Indians*, page 61, on Garcia's argum
 
 - **Deacon Eythan:** Go back to there, it say "fourth part." "The reason for this is that if the fourth part called America." Highlight that for the people to see. The fourth part called what? The fourth part called America. That's all I want. This fourth part called America. The fourth part called America, right there. That's all I want. The fourth part called America.
 
-- Now you recall, I want to show how the isites, or the Mexicans, Aztecs, had knowledge of Daniel. Right? The four beasts, Daniel 2:44 to 45, Daniel 7. You recall that, right? And the fourth part of the world. Now let's go to Daniel 7. Watch this. So the earth was divided into three parts. Remember Noah's sons: some took Europe and part of East, one took Africa and part of the East, and one took part of Africa and part of the... I'm sorry, old world. Japa took some of Europe and part of the East, Ham took Africa and part of the East, Sh took part of Africa and M in all the East. That's pretty much how divided. And also Shem and sheman … took, later on, they took further east later on in history. Sheman … took, shared land further east during conquest, and as time went on, the Far East is also inhabited. That goes into your China, your Indian Ocean. Those lands are all inhabited. I thought it's called the known world. Those lands are already known during ancient times. This land, called the New World, was not known to anyone.
+- Now you recall, I want to show how the isites, or the Mexicans, Aztecs, had knowledge of Daniel. The four beasts, Daniel 2:44 to 45, Daniel 7. You recall that, right? And the fourth part of the world. Now let's go to Daniel 7. So the earth was divided into three parts. Remember Noah's sons: some took Europe and part of East, one took Africa and part of the East, and one took part of Africa and part of the... I'm sorry, old world. Japa took some of Europe and part of the East, Ham took Africa and part of the East, Sh took part of Africa and M in all the East. That's pretty much how divided. And also Shem and sheman … took, later on, they took further east later on in history. Sheman … took, shared land further east during conquest, and as time went on, the Far East is also inhabited. That goes into your China, your Indian Ocean. Those lands are all inhabited. I thought it's called the known world. Those lands are already known during ancient times. This land, called the New World, was not known to anyone.
 
 - Daniel 7. I'm just going to skim through it. I'm trying to get out of America, man. I'm getting, I'm trying.
 
 - **Officer:** Captivity is real, D.
 
-- **Deacon Eythan:** Things keep pulling me back to America, man. But there's a good reason for it. I'm not going to fight it. The black people got to be shut down. Right. So I just keep going back to... so, Daniel 7 and 1. No, verse three. Get to the point. Daniel 7 verse 3. Verse two. Verse two.
+- **Deacon Eythan:** Things keep pulling me back to America, man. But there's a good reason for it. I'm not going to fight it. The black people got to be shut down. So I just keep going back to... so, Daniel 7 and 1. No, verse three. Get to the point. Daniel 7 verse 3. Verse two. Verse two.
 
 </div>
 
@@ -418,7 +408,7 @@ Reading from the book on the *Origin of the Indians*, page 61, on Garcia's argum
 
 > <sup>[4](/bible/daniel/7#v4)</sup> The first was like a lion, and had eagle’s wings: I beheld till the wings thereof were plucked, and it was lifted up from the earth, and made stand upon the feet as a man, and a man’s heart was given to it.
 
-- That's the one, the gold. That's Babylon. Okay.
+- That's the one, the gold. That's Babylon.
 
 - Daniel became the counselor of Babylon. So he gain Daniel, that kingom, to gain wisdom as a man rather than a beast, because of Daniel.
 
@@ -444,9 +434,9 @@ Reading from the book on the *Origin of the Indians*, page 61, on Garcia's argum
 
 - This is the fourth beast.
 
-- This beast had 10 horns. This beast had 10 horns. So it's not giving you an animal. It's not giving you an animal attribute to this beast. Daniel was not shown the understanding of this beast's attribute. He only knew that it was verocious and it had iron teeth. Okay. And that's why I present iron in Daniel 2. It had iron teeth.
+- This beast had 10 horns. This beast had 10 horns. So it's not giving you an animal. It's not giving you an animal attribute to this beast. Daniel was not shown the understanding of this beast's attribute. He only knew that it was verocious and it had iron teeth. And that's why I present iron in Daniel 2. It had iron teeth.
 
-- And it had 10 horns. He saw that it had 10 horns. That's all he can see. It was dark. The understanding of the beast was darkened to him. Watch this.
+- And it had 10 horns. He saw that it had 10 horns. That's all he can see. It was dark. The understanding of the beast was darkened to him.
 
 > <sup>[8](/bible/daniel/7#v8)</sup> I considered the horns, and, behold, there came up among them another little horn, before whom there were three of the first horns plucked up by the roots: and, behold, in this horn were eyes like the eyes of man, and a mouth speaking great things.
 
@@ -478,11 +468,11 @@ Reading from the book on the *Origin of the Indians*, page 61, on Garcia's argum
 
 - I beheld the kingdoms that we read earlier are all gone. They all thrown over, all thrown down.
 
-- What horn? What great words? A horn spake back in verse eight, where it says, "and a mouth speaking great things," from that little horn. Watch this.
+- What horn? What great words? A horn spake back in verse eight, where it says, "and a mouth speaking great things," from that little horn.
 
 - Verse from the top again. So that horn, that horn represents a beast itself. That horn is a beast in itself, that come out of the fourth. It's an extension of the fourth.
 
-- It was given to the burning flame. That little horn was given to the burning flame, that spoke great things. Watch this. Verse 12.
+- It was given to the burning flame. That little horn was given to the burning flame, that spoke great things. Verse 12.
 
 > <sup>[12](/bible/daniel/7#v12)</sup> As concerning the rest of the beasts, they had their dominion taken away: yet their lives were prolonged for a season and time.
 
@@ -494,17 +484,17 @@ Reading from the book on the *Origin of the Indians*, page 61, on Garcia's argum
 
 > <sup>[3](/bible/2-esdras/12#v3)</sup> And I saw, and, behold, they appeared no more, and the whole body of the eagle was burnt so that the earth was in great fear: then awaked I out of the trouble and trance of my mind, and from great fear, and said unto my spirit,
 
-- The whole body of the eagle was what? Was burnt. The whole body of the eagle was burnt. Remember Daniel 7: the body was destroyed by the fiery flame. Read it again.
+- The whole body of the eagle was what? Was burnt. The whole body of the eagle was burnt. Remember Daniel 7: the body was destroyed by the fiery flame.
 
 - Of the eagle. So what's this eagle? Why is this eagle on fire? What happened?
 
-- Because he saw nuclear fire. That didn't exist during Ezra's time. So he was losing his mind, because he's seeing this. You understand?
+- Because he saw nuclear fire. That didn't exist during Ezra's time. So he was losing his mind, because he's seeing this.
 
-- Let me give you an example. The movie *Man of Steel*, where there is a scene... in fact, get it on the screen. I'm going to show you how the Lord shows the prophets things. So I'm going to give you an example. There's a scene where Zod shows Superman his plans for earth. This is how the Lord show the prophets things. Y'all thinking in your mind they just seeing it through a TV screen. No. They were placed in the situation. You understand? So things are burning, they're in the fire, they're seeing, they're feeling everything, they're seeing everything. That's why these guys, they be terrified. They faint, they pass out. That's why. Look.
+- Let me give you an example. The movie *Man of Steel*, where there is a scene... in fact, get it on the screen. I'm going to show you how the Lord shows the prophets things. So I'm going to give you an example. There's a scene where Zod shows Superman his plans for earth. This is how the Lord show the prophets things. Y'all thinking in your mind they just seeing it through a TV screen. No. They were placed in the situation. So things are burning, they're in the fire, they're seeing, they're feeling everything, they're seeing everything. That's why these guys, they be terrified. They faint, they pass out. That's why.
 
-- **Officer:** Yeah. Indeed, that's exactly what Malachi says in chapter 4: the day come, that's going to feel like an or. Right? How did he know that?
+- **Officer:** Yeah. Indeed, that's exactly what Malachi says in chapter 4: the day come, that's going to feel like an or. How did he know that?
 
-- **Deacon Eythan:** Right. Because he was right in the midst of it.
+- **Deacon Eythan:** Because he was right in the midst of it.
 
 - **Officer:** Correct. He felt it. And that's why biblically, that's why they were thrown in the fiery furnace. That fiery furnace symbolizes us: was in the fire. They felt it, but they didn't get touched by it, and there was no smoking or anything like that.
 
@@ -516,7 +506,7 @@ Reading from the book on the *Origin of the Indians*, page 61, on Garcia's argum
 
 - **Officer:** So, Deac, so now imagine that this is Daniel, right?
 
-- **Deacon Eythan:** Right. R is Daniel, and Zod is the Lord, pretty much. Right? Because Zod represents righteousness. Superman is the devil, pretty much. Press play. Watch them.
+- **Deacon Eythan:** R is Daniel, and Zod is the Lord, pretty much. Because Zod represents righteousness. Superman is the devil, pretty much. Watch them.
 
 <div class="reading">
 
@@ -524,11 +514,11 @@ Reading from a scene from the movie *Man of Steel*, Zod showing Kal his plans fo
 
 > Hello, Cal. Or do you prefer Clark?
 
-- Pause, pause. Name. Oh, you got to go back. You got to go back some. Play it again. I'm going to be quiet, I'm past that part. Play it again. No, go back, go back, go back. He say his name. Brothers, come on. Right there, right there. Come on. The volume up a little bit. Turn the volume up some.
+- Name. Oh, you got to go back. You got to go back some. Play it again. I'm going to be quiet, I'm past that part. Play it again. No, go back, go back, go back. He say his name. Brothers, come on. Right there, right there. The volume up a little bit. Turn the volume up some.
 
 > Hello, Cal. Or do you prefer Clark? That's the name they gave you, isn't it?
 
-- Pause. K is a Hebrew name, by the way. L is God, and KY is... I forgot what KY means. Look, it's voice of God or something like that. I remember, Captain, I forget. Was a Hebrew name. That's his biblical name. That's his God-given name. But Superman is a … Zod is for his people. He goes, El Kal, you prefer the name Clark, the name they gave you. Now watch.
+- K is a Hebrew name, by the way. L is God, and KY is... I forgot what KY means. Look, it's voice of God or something like that. I remember, Captain, I forget. Was a Hebrew name. That's his biblical name. That's his God-given name. But Superman is a … Zod is for his people. He goes, El Kal, you prefer the name Clark, the name they gave you. Now watch.
 
 > I was Krypton's military leader. Your father, our foremost scientist. The only thing we agreed on was that Krypton was dying. In return for my efforts to protect our civilization and save our planet, I and my fellow officers were sentenced to the Phantom Zone. And then the destruction of our world freed us,
 
@@ -548,7 +538,7 @@ Reading from a scene from the movie *Man of Steel*, Zod showing Kal his plans fo
 
 > Fin, he detected a distress beacon, which you triggered, cuz you
 
-- Pause, pause, pause. Because Superman represents a pagan Messiah. So it's saying he's 33 years old. The Messiah died at 33. Trying to be slick. That's why he's saying 33 years. But okay, continue.
+- Because Superman represents a pagan Messiah. So it's saying he's 33 years old. The Messiah died at 33. Trying to be slick. That's why he's saying 33 years. But okay, continue.
 
 > Scoutship. You led us here, C. And now it's within your power to save what remains of your race.
 
@@ -556,27 +546,25 @@ Reading from a scene from the movie *Man of Steel*, Zod showing Kal his plans fo
 
 > On Krypton the genetic template for every being yet to be born is encoded in the registry of citizens. Your father stole the registry's codex and stored it in the Caps that brought you here.
 
-- Pause.
-
 > Every Kryptonian is born with a purpose.
 
 - They're all genetically predisposed to a purpose, as we are. We're all supposed to be sons of the prophets. That's our predestined position. That's our design. That's how God made us to be. And soad of his father was liberal. He wanted us to make our own choice and do what we want to do. But Zod said no, that's not how we're made. We're made with a certain purpose. So he took that codex, or our records, and placed it inside of Kalel, and he wants to extract that out of him to rebuild their people and their land back again.
 
 > For what purpose? So that Krypton can live again, on earth.
 
-- On earth. Watch. That's a Daniel seeing the mat. See, everything's being destroyed. Pause. He's wearing his ancestral suit, garment.
+- On earth. Watch. That's a Daniel seeing the mat. See, everything's being destroyed. He's wearing his ancestral suit, garment.
 
 - **Officer:** And that's that Wisdom of Solomon, what's that, destruction got except both, the D... right, destruction, the salvation of the righteous and the destruction of the enemy.
 
-- **Deacon Eythan:** Right, right. So he's telling them this. He's saying, not the F to rebuild Krypton. He's going toay it. Watch. Keep. We play it.
+- **Deacon Eythan:** So he's telling them this. He's saying, not the F to rebuild Krypton. He's going toay it. Watch. Keep. We play it.
 
 > Where is the codex, Cal? If Krypton lives again, what happens to earth?
 
-- Pause. So if Krypton is rebuilt and lives again, what happens to the earth? What happens to the Gentiles? That you negro be asking all the time: well, if Israel gets the kingdom, what happens to the other nations? He's saying the same thing. Watch what he says to him.
+- So if Krypton is rebuilt and lives again, what happens to the earth? What happens to the Gentiles? That you negro be asking all the time: well, if Israel gets the kingdom, what happens to the other nations? He's saying the same thing. Watch what he says to him.
 
 > The foundation has to be built on something.
 
-- Pause. The foundation be built on something. We got to build our kingdom on top of their dead bodies. That's what he's saying.
+- The foundation be built on something. We got to build our kingdom on top of their dead bodies. That's what he's saying.
 
 - **Officer:** Mhm.
 
@@ -584,37 +572,37 @@ Reading from a scene from the movie *Man of Steel*, Zod showing Kal his plans fo
 
 </div>
 
-*[[59:03](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=3543s)]* What happened to the stream? What happened now? Oh God. Didn't I ask y'all if you could play this? Y'all just said yes, it's on YouTube. So it's going to come back on, or no? They suspended. Check. That means that the whole stream is going to be cut off. They ain't going to see it. We play it, right? I asked y'all, man. Y'all got to use your brain. I asked y'all if it's going to be a problem to play it. Y'all said no, it's on YouTube. Now they can't go back and watch it. They cut the stream. Oh, it don't matter. Y'all should know. So all right. Let it go. Yep, let it go, let it go, let it go. Yeah, take it down, otherwise. We back on? Yes. Everybody hear us? Yes. All right. Sorry about that, y'all. I was trying to play a clip, but the YouTube is demonic. Can't even play a video on their own platform. It don't make sense to me.
+*[[59:03](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=3543s)]* What happened to the stream? What happened now? Oh God. Didn't I ask y'all if you could play this? Y'all just said yes, it's on YouTube. So it's going to come back on, or no? They suspended. Check. That means that the whole stream is going to be cut off. They ain't going to see it. We play it, right? I asked y'all, man. Y'all got to use your brain. I asked y'all if it's going to be a problem to play it. Y'all said no, it's on YouTube. Now they can't go back and watch it. They cut the stream. Oh, it don't matter. Y'all should know. So all right. Let it go. Yep, let it go, let it go, let it go. Yeah, take it down, otherwise. We back on? Yes. Everybody hear us? Yes. Sorry about that, y'all. I was trying to play a clip, but the YouTube is demonic. Can't even play a video on their own platform. It don't make sense to me.
 
-**Officer:** Right. You could continue here, because we still live on Facebook and passport.
+**Officer:** You could continue here, because we still live on Facebook and passport.
 
-**Deacon Eythan:** Oh, so Facebook. All right, on Facebook. Wait, wait, hold on, hold on, hold on. People are saying we back up on YouTube. Continue, y'all doing great. So don't play the video. Don't play the video no more.
+**Deacon Eythan:** Oh, so Facebook. All right, on Facebook. People are saying we back up on YouTube. Continue, y'all doing great. So don't play the video. Don't play the video no more.
 
-*[[1:01:27](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=3687s)]* Then we back. Keep us on YouTube. All right. That's all right. Yeah, I want y'all to be able to replay the video again, if you able to watch it. That's why I got aggravated. Go to Ezra, ezis. So I was showing you what Zod was showing Kal, how he was in the midst of everything. Because that's not real, but it's like he's showing him in his mind the image of what's going to happen when they take over. When you proceed to watch the rest of the video, it's bones everywhere. It's all human skeleton. And then K's like, no. He sinks in the skeletons. He's a … he wants to save humans in hell with the Kryptonians. He was terrified.
+*[[1:01:27](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=3687s)]* Then we back. Keep us on YouTube. That's all right. Yeah, I want y'all to be able to replay the video again, if you able to watch it. That's why I got aggravated. Go to Ezra, ezis. So I was showing you what Zod was showing Kal, how he was in the midst of everything. Because that's not real, but it's like he's showing him in his mind the image of what's going to happen when they take over. When you proceed to watch the rest of the video, it's bones everywhere. It's all human skeleton. And then K's like, no. He sinks in the skeletons. He's a … he wants to save humans in hell with the Kryptonians. He was terrified.
 
 **Officer:** Right, right.
 
 **Deacon Eythan:** He was terrified. That's exactly how Daniel was, how Ezra was, how Malachi, Malachi, how Mo. They were all shown things live.
 
-**Officer:** Right. It wasn't some little slideshow.
+**Officer:** It wasn't some little slideshow.
 
 **Deacon Eythan:** I'm going to throw the earth up. Look, I was going... they were in it.
 
 **Officer:** And also, Deac, feeling it, seeing it. What other book shows any other nation, their God has put them in a situation to know the beginning, the midst and the end of time? There's no other book. There's no other nation. There's no other God that's done that.
 
-**Deacon Eythan:** Go through these things. But our people, the prophets. Right. And I let you know that when our forefathers on this side of the world, the Aztecs, when they had the book of Moses, when Esau showed up, they knew it was a rra. They, oh God, that's it, we saw this, it's over. I saw Muma went into the temple, because he knew. He said, start praying to the Lord. But it didn't work. It didn't help. They killed him inside the temple. Right. Read verse three again, 2 edes 12:3. Right, it says in Daniel 7. He was in the trance. He was in it. That's all I want. Now jump to verse 11.
+**Deacon Eythan:** Go through these things. But our people, the prophets. And I let you know that when our forefathers on this side of the world, the Aztecs, when they had the book of Moses, when Esau showed up, they knew it was a rra. They, oh God, that's it, we saw this, it's over. I saw Muma went into the temple, because he knew. He said, start praying to the Lord. But it didn't work. It didn't help. They killed him inside the temple. Read verse three again, 2 edes 12:3. Right, it says in Daniel 7. He was in the trance. He was in it. That's all I want. Now jump to verse 11.
 
 **[2 Esdras 12:11](/bible/2-esdras/12#v11)**  *[[1:03:25](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=3805s)]*
 
 > <sup>[11](/bible/2-esdras/12#v11)</sup> The eagle, whom thou sawest come up from the sea, is the kingdom which was seen in the vision of thy brother Daniel.
 
-- So Daniel was not allowed to reveal what that beast's animal symbol was. Ezra saying it was the eagle. So this eagle had 10 horns on it. This is a crazy looking eagle. Crazy looking eagle. This eagle had 10 horns on it, symbolizing the EU, the European Union, on which America derives from, coming out of Britain. Because the EU, Britain's part of the EU, and America, it extends from Britain. It's the seventh of the eighth. It's the eighth, sorry. It's the eighth, but it's of the seventh. All right. So America is that little horn that comes out of those 10 horns. Okay. Read again.
+- So Daniel was not allowed to reveal what that beast's animal symbol was. Ezra saying it was the eagle. So this eagle had 10 horns on it. This is a crazy looking eagle. Crazy looking eagle. This eagle had 10 horns on it, symbolizing the EU, the European Union, on which America derives from, coming out of Britain. Because the EU, Britain's part of the EU, and America, it extends from Britain. It's the seventh of the eighth. It's the eighth, sorry. It's the eighth, but it's of the seventh. So America is that little horn that comes out of those 10 horns. Read again.
 
 - So Daniel 7 verse 4, I mean verse 7, right? With the fourth beast. That's the eagle.
 
 - **Officer:** Yep, that's the eagle that Daniel saw.
 
-- **Deacon Eythan:** Daniel did not write that down. The Lord's saying, Ezra, this eagle is the same beast that you read about in Daniel. All right. So now...
+- **Deacon Eythan:** Daniel did not write that down. The Lord's saying, Ezra, this eagle is the same beast that you read about in Daniel. So now...
 
 - **Officer:** That's right. Isaiah said precept must be...
 
@@ -632,9 +620,9 @@ Reading from a scene from the movie *Man of Steel*, Zod showing Kal his plans fo
 
 - So, "art not thou it that remainest of the four beasts" in Daniel? You're the last one to go. You're the last. After you there's no more. You're the last. We are living in the time of the Gentiles. We are living in the times of the Gentiles. We are in the fourth beast. The fourth beast is Rome. Where the hell you get Arabs from? Where you get Arabs? Show me how you get an Arab out of Rome. Show it to me. Deac, the white man is the Arabs? The white man is Italians. That's Rome. How you get Italians as Arabs? How you get that? That's the last ruling. Show me where it says Israel will be the last kingdom on the earth to rule. That's what Obadiah says. So show me something different. Once Edom falls, Israel rise. Savior are come up. That's the last ruling kingdom. How is that Arabs? What are you... what the hell you talking about?
 
-- **Officer:** And also, Deac, in this period of time, it's relevant due to the language we speak. The language we speak is English, deriving from Romans, right, and Anglo-Saxon and all those. Even the language proves what error that we in. Right? We speak English.
+- **Officer:** And also, Deac, in this period of time, it's relevant due to the language we speak. The language we speak is English, deriving from Romans, right, and Anglo-Saxon and all those. Even the language proves what error that we in. We speak English.
 
-- **Deacon Eythan:** Exactly, exactly. Right.
+- **Deacon Eythan:** Exactly, exactly.
 
 - **Officer:** And that language dominates the earth.
 
@@ -642,7 +630,7 @@ Reading from a scene from the movie *Man of Steel*, Zod showing Kal his plans fo
 
 - **Officer:** There's no place in the world you cannot find someone speaking English, for the most part. It would have been the earth dominated by Arabic language.
 
-- **Deacon Eythan:** Arabic language. Right. Arabic. You me. Good point.
+- **Deacon Eythan:** Arabic language. Arabic. You me. Good point.
 
 - Art not thou it that remainest of the four beasts, whom I made to reign in my world. That the end of their times might come through them.
 
@@ -652,9 +640,7 @@ Reading from a scene from the movie *Man of Steel*, Zod showing Kal his plans fo
 
 - He had power over the whole compass of the earth. Did Rome have power over the entire earth on this side? No, he did not. He did not. It says over the whole compass of the Europe. This fourth beast has dominion. Rome had dominion over the three parts of the earth, not the fourth.
 
-- **Officer:** Right.
-
-- **Deacon Eythan:** They came and conquered as the Spaniards. Later, Spain came, because Spain and Romans are the same people. They came later. I'm going to bring that out later on in the series, that the Spaniards and Romans are the same people. That's another class. They all tied together. I know you get e. I'm surprised. Why weren't the conqu E of those Arabs? Who knows? Dummies. So they did not con... Rome, the fourth beast, didn't have this land on this side unlock as of yet. This, the old world. Watch this. But this fourth beast would have the whole compass of the earth. Watch this. With great fearfulness, and over the whole compass of the earth, with much wicked oppression. With much wicked oppression. Going back to Bishop's class last night, this Sabbath past.
+- **Deacon Eythan:** They came and conquered as the Spaniards. Later, Spain came, because Spain and Romans are the same people. They came later. I'm going to bring that out later on in the series, that the Spaniards and Romans are the same people. That's another class. They all tied together. I know you get e. I'm surprised. Why weren't the conqu E of those Arabs? Who knows? Dummies. So they did not con... Rome, the fourth beast, didn't have this land on this side unlock as of yet. This, the old world. But this fourth beast would have the whole compass of the earth. With great fearfulness, and over the whole compass of the earth, with much wicked oppression. With much wicked oppression. Going back to Bishop's class last night, this Sabbath past.
 
 - And so long time he dwelt upon the earth with deceit. Now let's read on down to verse 42.
 
@@ -672,9 +658,9 @@ Reading from a scene from the movie *Man of Steel*, Zod showing Kal his plans fo
 
 - Thou hast loved liars. Columbus, Thomas Jefferson, Margaret Sanger. They love liars. Jose deosta.
 
-- Now someone posted in the comment board that Jose De Costa may have been a Jew, a conversal. It's historically written that his lineage goes back to conversal, going back to Jews converted to Christianity. Even if he was our people, he was a devil. Right? I don't give a damn if he was black as KN. He was a demon. His confusion and his rejection of facts is what Esau used and capitalized on to keep us divided as a people: they're from Asia, they're Asian. That idiot, whatever he was, a black man or white man, was a demon. I don't give a damn what he was. He was a demon, and each saw talized off it's confusion. So regardless of he was a converso or not, I don't care. He's a heathen regardless. That don't change what I said last week. It changes nothing, because Esau still used his nonsense and pushed it as a fact when it was a lie. Pushed his misinformation, his assumptions, as truth, to keep people from realizing that the Native Americans were Israelites. All right. So I don't care the damn what he was. Let's continue. You going to finish verse 42? Okay. After you finish 42.
+- Now someone posted in the comment board that Jose De Costa may have been a Jew, a conversal. It's historically written that his lineage goes back to conversal, going back to Jews converted to Christianity. Even if he was our people, he was a devil. I don't give a damn if he was black as KN. He was a demon. His confusion and his rejection of facts is what Esau used and capitalized on to keep us divided as a people: they're from Asia, they're Asian. That idiot, whatever he was, a black man or white man, was a demon. I don't give a damn what he was. He was a demon, and each saw talized off it's confusion. So regardless of he was a converso or not, I don't care. He's a heathen regardless. That don't change what I said last week. It changes nothing, because Esau still used his nonsense and pushed it as a fact when it was a lie. Pushed his misinformation, his assumptions, as truth, to keep people from realizing that the Native Americans were Israelites. So I don't care the damn what he was. Let's continue. You going to finish verse 42? After you finish 42.
 
-- Right. The Mount Rushmore: they love liars. Columbus Day: they love liars. Presidents' Day: they love liars. The Latin... who else, who else? J, George Washington, Abraham Lincoln, she a b. They love liars.
+- The Mount Rushmore: they love liars. Columbus Day: they love liars. Presidents' Day: they love liars. The Latin... who else, who else? J, George Washington, Abraham Lincoln, she a b. They love liars.
 
 - Yeah. ATA waapa, monuma. We read that earlier today. Burn them in his own damn temple. For what? You want to say something?
 
@@ -684,13 +670,13 @@ Reading from a scene from the movie *Man of Steel*, Zod showing Kal his plans fo
 
 > <sup>[43](/bible/2-esdras/11#v43)</sup> Therefore is thy wrongful dealing come up unto the Highest, and thy pride unto the Mighty.
 
-- **Officer:** So the word we want to pull out 43, which gives evidence right back to verse 40, is that with talking about Rome, and the pride in verse 43 goes back to Obadiah 1 and 3, because pride is talking about Esau. Let's get it.
+- **Officer:** So the word we want to pull out 43, which gives evidence right back to verse 40, is that with talking about Rome, and the pride in verse 43 goes back to Obadiah 1 and 3, because pride is talking about Esau.
 
 - **Deacon Eythan:** Yeah. And it identifies the same eagle that Daniel was talking about.
 
 - **Officer:** Yes sir. You know, precept upon precept.
 
-- **Deacon Eythan:** Yep, let's get it. No, no. How identifies Arabs? Identifies the Arabs? In funny, we can't speak like a liquor of Arabic. None of the schools is being run by that. Right? And last time I checked, the Arabs are buying weapons from the so-called white man.
+- **Deacon Eythan:** Yep, let's get it. No, no. How identifies Arabs? Identifies the Arabs? In funny, we can't speak like a liquor of Arabic. None of the schools is being run by that. And last time I checked, the Arabs are buying weapons from the so-called white man.
 
 - **Officer:** Exactly, right. The last, they hate Trump. So it's staying in context, right, dck? It's staying in context. Cultural context. We talking about the Romans, we're speaking English, the pride is historical. It was prophesied by one of our prophets already. It's talking about the same people, and the eagle.
 
@@ -700,15 +686,15 @@ Reading from a scene from the movie *Man of Steel*, Zod showing Kal his plans fo
 
 > <sup>[1](/bible/obadiah/1#v1)</sup> The vision of Obadiah. Thus saith the Lord God concerning Edom; We have heard a rumour from the Lord, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.
 
-- I'm sorry. I heard a guy say, yo, if Esau is the white man, which white man is he? Is he a Southern Caucasus? Is he Northern Caucasus? Listen, man. Esau is so-called Europeans, whatever you want to call them, whatever they want to call themselves. That's who they are, primarily. It's es among so-called Japanese, Chinese? Hell yeah. Is Esau found among the Arabs, white Arabs? Hell yeah. The Turks? Hell yeah. But predominantly, primarily, he is the white man. I don't have to go into detail as to what white man he actually is. He runs the world. He's at the fourth beast. This is his kingdom. When it falls, we rule. That's Edom, period. And that's how you identify him.
+- I heard a guy say, yo, if Esau is the white man, which white man is he? Is he a Southern Caucasus? Is he Northern Caucasus? Listen, man. Esau is so-called Europeans, whatever you want to call them, whatever they want to call themselves. That's who they are, primarily. It's es among so-called Japanese, Chinese? Hell yeah. Is Esau found among the Arabs, white Arabs? Hell yeah. The Turks? Hell yeah. But predominantly, primarily, he is the white man. I don't have to go into detail as to what white man he actually is. He runs the world. He's at the fourth beast. This is his kingdom. When it falls, we rule. That's Edom, period. And that's how you identify him.
 
-- **Officer:** Caucasian, right? Fres Caucasian, STP, I'm goad go, French Caucasian, German Caucasian, Irish Caucasian, Italian Caucasian. So you choose. All of them is Caucasian. Caucasian, that's it. Right?
+- **Officer:** Caucasian, right? Fres Caucasian, STP, I'm goad go, French Caucasian, German Caucasian, Irish Caucasian, Italian Caucasian. So you choose. All of them is Caucasian. Caucasian, that's it.
 
 - **Deacon Eythan:** They don't argue. Well, I'm not Caucasian from the West, I'm Caucasian from the East. They don't argue that stuff. Negroes who have ties, financial ties, with Esau tend to shift over to making them something else. The ones slipping with them, they sleeping with them.
 
 - **Officer:** They were raised by them, right? Some of you got step-parents that was white too. You try to defend them.
 
-- **Deacon Eythan:** You sleep with them. You're in bed with them, whether it be physically or financially. You make Esau everybody else but the devil. That's what it's all about. It's all about not burning bridges. I'm trying to make this money, man. If I say Esau, white man's Esau, that means like God hates him. I can't teach that. I got to be this money. Right? We're on to you. You ain't fool nobody with that nonsense. Verse one again.
+- **Deacon Eythan:** You sleep with them. You're in bed with them, whether it be physically or financially. You make Esau everybody else but the devil. That's what it's all about. It's all about not burning bridges. I'm trying to make this money, man. If I say Esau, white man's Esau, that means like God hates him. I can't teach that. I got to be this money. We're on to you. You ain't fool nobody with that nonsense. Verse one again.
 
 - In battle. This is prophetic.
 
@@ -718,7 +704,7 @@ Reading from a scene from the movie *Man of Steel*, Zod showing Kal his plans fo
 
 > <sup>[3](/bible/obadiah/1#v3)</sup> The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall bring me down to the ground?
 
-- That goes back to e again. Thy pride. The pride of thine heart hath deceived thee. How so? Read.
+- That goes back to e again. Thy pride. The pride of thine heart hath deceived thee. How so?
 
 - Because Esau's dwelling place was the cliff of the rock. It was Mount sier.
 
@@ -740,25 +726,25 @@ Reading from a scene from the movie *Man of Steel*, Zod showing Kal his plans fo
 
 - **Officer:** And no matter if it was the Spanish, the French, whoever it was, they always carried that eagle. It didn't change.
 
-- **Deacon Eythan:** Yep, yep. What verse you on? Verse four. Uh-huh. Now some might say, well, what if you find a picture of an Arab using the eagle as a symbol? We're going to cut that real quick. Watch this.
+- **Deacon Eythan:** Yep, yep. What verse you on? Verse four. Uh-huh. Now some might say, well, what if you find a picture of an Arab using the eagle as a symbol? We're going to cut that real quick.
 
 - **Officer:** And Russia also had the eagle.
 
-- **Deacon Eythan:** Watch, watch. Verse four. Watch this. And though thou set thy nest among the stars. Did the Arabs build space stations in space? Did they go to the moon? Did they go up there first? Because if you say Russia went up there first, that's the white people. If America went up there first, that's the white people. If you deny the moon landing, you can't deny your GPS, because they have satellites up there. They have satellites up there that they got to go up there and fix. So they're still going in space, and they still have space stations up there. They have power to go in space. If they can split atoms that they cannot see, they can go in space.
+- **Deacon Eythan:** Watch, watch. Verse four. And though thou set thy nest among the stars. Did the Arabs build space stations in space? Did they go to the moon? Did they go up there first? Because if you say Russia went up there first, that's the white people. If America went up there first, that's the white people. If you deny the moon landing, you can't deny your GPS, because they have satellites up there. They have satellites up there that they got to go up there and fix. So they're still going in space, and they still have space stations up there. They have power to go in space. If they can split atoms that they cannot see, they can go in space.
 
-- **Officer:** Right. It's witchcraft. Right. Deac, speaking of that, the satellite: now they have on YouTube, you can live stream the whole earth now.
+- **Officer:** It's witchcraft. Deac, speaking of that, the satellite: now they have on YouTube, you can live stream the whole earth now.
 
 - **Deacon Eythan:** Yeah, Google Earth.
 
-- **Officer:** So Google Earth. Right. You could live stream the earth.
+- **Officer:** So Google Earth. You could live stream the earth.
 
 - **Deacon Eythan:** Watch it spin all night long. Watch it spin like rim, just spinning, spinning with lights. You see, it's because Esau up there already. Esau is up there. So you can deny the moonland if you want to. The Bible doesn't.
 
-- **Officer:** Right. One more thing, Deac, with that point that you made. We can't pull nothing up in the dictionary? Dude say what kind of … are they?
+- **Officer:** One more thing, Deac, with that point that you made. We can't pull nothing up in the dictionary? Dude say what kind of … are they?
 
 - **Deacon Eythan:** They're all the same … all the same.
 
-- **Officer:** I just want... I don't want to take you off course. I just want to go, right, go to Genesis. Go to Genesis 36, because now we know Genesis 36 speaks about the descendants of Esau. Right. All right. We just going to pull out one word from the sons of Esau, and then we're going to look up that word, okay, and see who that word refers to. All right. Plenty of evidence in the Bible, if you have that spirit to receive that understanding, like Bishop brought out yesterday. Right. Let's go to Genesis 36, and let's just... verse 16. Actually verse 8 and 9, and then jump to 16.
+- **Officer:** I just want... I don't want to take you off course. I just want to go, right, go to Genesis. Go to Genesis 36, because now we know Genesis 36 speaks about the descendants of Esau. We just going to pull out one word from the sons of Esau, and then we're going to look up that word, okay, and see who that word refers to. Plenty of evidence in the Bible, if you have that spirit to receive that understanding, like Bishop brought out yesterday. Let's go to Genesis 36, and let's just... verse 16. Actually verse 8 and 9, and then jump to 16.
 
 **[Genesis 36:8-9,16](/bible/genesis/36#v8)**  *[[1:18:23](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=4703s)]*
 
@@ -776,7 +762,7 @@ Reading from a scene from the movie *Man of Steel*, Zod showing Kal his plans fo
 
 - **Deacon Eythan:** The so-called Jewish, those are Germans and Russians.
 
-- **Officer:** Exactly. Converted over to Judaism. Right. Back again to the same language we speak, from an Anglo-Saxon religion, from the Germans mixed with the Britain. All these are the same people.
+- **Officer:** Exactly. Converted over to Judaism. Back again to the same language we speak, from an Anglo-Saxon religion, from the Germans mixed with the Britain. All these are the same people.
 
 - **Deacon Eythan:** Mhm. The kesar. You know what I mean.
 
@@ -786,11 +772,11 @@ Reading from a Mariam dictionary on the word Duke, read off the phone  *[[1:19:3
 
 > A sovereign male ruler of con...
 
-- **Officer:** It came out of continental European duy. Right. That's the word: duy. Yeah, duy. Here it gets better.
+- **Officer:** It came out of continental European duy. That's the word: duy. Yeah, duy. Here it gets better.
 
 > A nobleman of the highest hereditary rank.
 
-- **Officer:** Right. Go down, go down. It's not the same one I got. I got this one that says...
+- **Officer:** It's not the same one I got. I got this one that says...
 
 - **Deacon Eythan:** Which one you use? What, Miriam? Which one you use?
 
@@ -802,11 +788,11 @@ Reading from a Mariam dictionary on the word Duke, read off the phone  *[[1:19:3
 
 > A sovereign male ruler of a continental European duy.
 
-- **Officer:** Wow. European. The Duke refers to the Europeans. The Europeans are the same race of people as the … Right? And it says amlc in the Bible. Amlc is the same people as the Europeans. So that right there is a destroyed statement that this dude made. You understanding? The Bible gives you evidence, and we could bring it up to date by just defining who are the Dukes. Who's the people of the Dukes? The Dukes are the descendants of Edom, right? And they are the Europeans.
+- **Officer:** European. The Duke refers to the Europeans. The Europeans are the same race of people as the … Right? And it says amlc in the Bible. Amlc is the same people as the Europeans. So that right there is a destroyed statement that this dude made. You understanding? The Bible gives you evidence, and we could bring it up to date by just defining who are the Dukes. Who's the people of the Dukes? The Dukes are the descendants of Edom, right? And they are the Europeans.
 
 - **Deacon Eythan:** Correct. Just like the Romans.
 
-- **Officer:** Right. Yep. Right. The initial Dukes were …
+- **Officer:** Yep. The initial Dukes were …
 
 - **Deacon Eythan:** Yep. Prior to being overthrown by us. But the initial Dukes were … Now, … what? What did they say? A comment? What they say?
 
@@ -816,7 +802,7 @@ Reading from a Mariam dictionary on the word Duke, read off the phone  *[[1:19:3
 
 </div>
 
-*[[1:21:19](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=4879s)]* All right, let's go to where we at. Back to Obadiah. Yeah, Obadiah. Yes. Verse four. Space travel, space stations, whatever. Space force. Right? So there was no Arab space force. Esau... the Arabs are trying now to go on space. They late. Esau been up there. The Arabs are only found behind what the white man is doing, to have an upper hand against them, to counter Esau's attack if they attack them. Then will I bring thee down, saith the Lord. So once you get up in space, I'm going to start bringing you down. Vietnam. You start losing wars. You start crumbling after a while. The age of decadence we're in now. Age of decline.
+*[[1:21:19](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=4879s)]* All right, let's go to where we at. Back to Obadiah. Yeah, Obadiah. Yes. Verse four. Space travel, space stations, whatever. Space force. So there was no Arab space force. Esau... the Arabs are trying now to go on space. They late. Esau been up there. The Arabs are only found behind what the white man is doing, to have an upper hand against them, to counter Esau's attack if they attack them. Then will I bring thee down, saith the Lord. So once you get up in space, I'm going to start bringing you down. Vietnam. You start losing wars. You start crumbling after a while. The age of decadence we're in now. Age of decline.
 
 **[Obadiah 1:5-7](/bible/obadiah/1#v5)**  *[[1:22:10](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=4930s)]*
 
@@ -832,9 +818,9 @@ Reading from a Mariam dictionary on the word Duke, read off the phone  *[[1:19:3
 
 - To war.
 
-- **Officer:** Right. So you got... listen. If Esau is the Arabs, you got to explain Revelations. You got Revelations. You got to explain Daniel 7. You got to break that down to we understand, to understand it. That's how that go back to Arabs. You got to do it, you got to do it.
+- **Officer:** So you got... listen. If Esau is the Arabs, you got to explain Revelations. You got Revelations. You got to explain Daniel 7. You got to break that down to we understand, to understand it. That's how that go back to Arabs. You got to do it, you got to do it.
 
-- **Deacon Eythan:** And we got books that say that Esau took over all of Europe and became Rome. We have books that say that. It's a no-brainer. But when you have no brain, then things are no-brainers. They don't work for you. No brain. Corrupted, defiled spirit. Right. Revelation 13 verse 12. I don't want to lose my thought about how earlier the Aztecs had knowledge of Daniel. I don't want to lose that thought, and how you had the three parts. Remember Noah's sons: three parts of the earth. Noah's son had, Shem had this part of land, Ham had this part of land, Jeff had that part. That's three parts. Keep that in mind, and America is the fourth part. Remember that. Revelation 13:12.
+- **Deacon Eythan:** And we got books that say that Esau took over all of Europe and became Rome. We have books that say that. It's a no-brainer. But when you have no brain, then things are no-brainers. They don't work for you. No brain. Corrupted, defiled spirit. Revelation 13 verse 12. I don't want to lose my thought about how earlier the Aztecs had knowledge of Daniel. I don't want to lose that thought, and how you had the three parts. Remember Noah's sons: three parts of the earth. Noah's son had, Shem had this part of land, Ham had this part of land, Jeff had that part. That's three parts. Keep that in mind, and America is the fourth part. Remember that. Revelation 13:12.
 
 **[Revelation 13:12-15](/bible/revelation/13#v12)**  *[[1:23:53](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=5033s)]*
 
@@ -858,7 +844,7 @@ Reading from a Mariam dictionary on the word Duke, read off the phone  *[[1:19:3
 
 - **Officer:** And also, that's what Zod said too. Zod said they use signs to regulate what they were doing.
 
-- **Deacon Eythan:** Right. Same thing. Right.
+- **Deacon Eythan:** Same thing.
 
 > <sup>[14](/bible/revelation/13#v14)</sup> And deceiveth them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live.
 
@@ -890,7 +876,7 @@ Reading from a Mariam dictionary on the word Duke, read off the phone  *[[1:19:3
 
 - **Officer:** Yeah. The dude run up in a church and shoot black folks, and he gets treated to McDonald's. Dylan roof.
 
-- **Deacon Eythan:** Right. You understand? That's crazy.
+- **Deacon Eythan:** That's crazy.
 
 - **Officer:** Bought my man a Whopper.
 
@@ -898,9 +884,9 @@ Reading from a Mariam dictionary on the word Duke, read off the phone  *[[1:19:3
 
 *[[1:29:34](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=5374s)]* All right, so we're going to take a break. We going on break now. Stay tuned, stay with us. We got more for y'all. Stay tuned. All right, shalom.
 
-*[[1:52:57](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=6777s)]* Hey, shalom, shalom. We're back, we're back. Welcome to Our Hidden History radio. Our Hidden History radio, we're back. We're going to go to Revelation chapter 6, and we're going to read verse 8. Now remember, we started off, we left from Revelation 131 12-5, about the America and so forth being the beast, and having us worship the first beast, image of the first beast, whatever, going into Caesar, Rome, the span Inquisition, the colon, the colonizing of this land. All was all going back to the Inquisition again. All right.
+*[[1:52:57](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=6777s)]* Hey, shalom, shalom. We're back, we're back. Welcome to Our Hidden History radio. Our Hidden History radio, we're back. We're going to go to Revelation chapter 6, and we're going to read verse 8. Now remember, we started off, we left from Revelation 131 12-5, about the America and so forth being the beast, and having us worship the first beast, image of the first beast, whatever, going into Caesar, Rome, the span Inquisition, the colon, the colonizing of this land. All was all going back to the Inquisition again.
 
-*[[1:53:38](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=6818s)]* So let's go to Revelation 6 and verse eight. Now, the Bishop went over this way back. This is a reflection of Zechariah 6 verse 1-8, regarding the horses. You have the red horse: Edom again. Black horse: Edom. And the pale horse: Edom. All right. Verse eight, start there.
+*[[1:53:38](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=6818s)]* So let's go to Revelation 6 and verse eight. Now, the Bishop went over this way back. This is a reflection of Zechariah 6 verse 1-8, regarding the horses. You have the red horse: Edom again. Black horse: Edom. And the pale horse: Edom. Verse eight, start there.
 
 **[Revelation 6:8](/bible/revelation/6#v8)**  *[[1:54:04](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=6844s)]*
 
@@ -920,7 +906,7 @@ Reading from a Mariam dictionary on the word Duke, read off the phone  *[[1:19:3
 
 - **Officer:** Yep. Dang. It's America.
 
-- **Deacon Eythan:** The fourth part of the earth is America. That's the fourth part. We already saw the third part. So the fourth part of the earth is the Americas. Revelation 12, ration 13, it says who, whoo will not worship the image of the beast should be killed. Right. They came to this side of the world. They bought the image of the beast on this side of the world. Whatsoever not worship that image was killed. They conquered the old war. It conquered the third part of the world, old world, then it came to this side of the world as the conquistadors, missionaries, Jesuits, Spaniards, and they conquered the fourth part of the earth, and they brought hell, death and hell with them. Damn. Read again from the top.
+- **Deacon Eythan:** The fourth part of the earth is America. That's the fourth part. We already saw the third part. So the fourth part of the earth is the Americas. Revelation 12, ration 13, it says who, whoo will not worship the image of the beast should be killed. They came to this side of the world. They bought the image of the beast on this side of the world. Whatsoever not worship that image was killed. They conquered the old war. It conquered the third part of the world, old world, then it came to this side of the world as the conquistadors, missionaries, Jesuits, Spaniards, and they conquered the fourth part of the earth, and they brought hell, death and hell with them. Damn. Read again from the top.
 
 - That's why we read earlier, and Ezra says he took power over the whole compass of the earth: the third part of the earth, and fourth. That's why he took over the whole world. The RO, the fourth, took over the whole world. America is an extension of the fourth beast, that gained dominion eventually over the whole compass of the earth.
 
@@ -928,27 +914,27 @@ Reading from a Mariam dictionary on the word Duke, read off the phone  *[[1:19:3
 
 - **Deacon Eythan:** A fourth part. That's why I said the third part. Noah's three sons: got it. Europe, Africa, Middle East, Far East, they had that. But the fourth part, they didn't have that. But the Israelites knew about it. We knew about it. Everybody else didn't. That's why he said in the book no cosmographers had written records of it. But Salon did, because Moses had it. Moses gave it to us.
 
-- **Officer:** So yeah, I'm sorry. That's why in this verse there was no need to mention a third part, because that's already been taken care of. Right? They already unruled that, right? So they specifically mention the fourth part.
+- **Officer:** So yeah, I'm sorry. That's why in this verse there was no need to mention a third part, because that's already been taken care of. They already unruled that, right? So they specifically mention the fourth part.
 
 - **Deacon Eythan:** Fourth part. Everybody knew about the third part.
 
-- **Officer:** Right. Everybody knew about the third part.
+- **Officer:** Everybody knew about the third part.
 
-- **Deacon Eythan:** Third part was the old world, unn world. But the fourth part was new. That's why Esau called it the New World. That's the fourth part. Read it again. Wow. Power was given... I'm sorry, off the top, the top. I want confuse you. Stop. The top. I'm sorry.
+- **Deacon Eythan:** Third part was the old world, unn world. But the fourth part was new. That's why Esau called it the New World. That's the fourth part. Power was given... I'm sorry, off the top, the top. I want confuse you. Stop. The top.
 
 - To kill with the sword, and with hunger, and with death, and with the beast of the earth.
 
 - **Officer:** Bishop of the sou before, about regarding them straighten diseases. They used animals to do it. Hey, Deac, fetal and animal tissue. They use this to create diseases. That's over here. Remember the COVID-19? All the weapons, all that stuff, is here, and they ship it over to China. And you know, this is just a lower sense of Revelation.
 
-- **Officer:** What's coming to me as I'm reading this: it's ironic how you had William Cooper that wrote a book, and the name of the book was *Behold a Pale Horse*. Right? And inside that book he was giving you a lot of government intelligence secrets about UFO, all these tests they doing on humans. That's also the death. That's the same death the Bible's talking about. And it's ironic how Esau named that book *Behold a Pale Horse*: the death that America is creating.
+- **Officer:** What's coming to me as I'm reading this: it's ironic how you had William Cooper that wrote a book, and the name of the book was *Behold a Pale Horse*. And inside that book he was giving you a lot of government intelligence secrets about UFO, all these tests they doing on humans. That's also the death. That's the same death the Bible's talking about. And it's ironic how Esau named that book *Behold a Pale Horse*: the death that America is creating.
 
-- **Deacon Eythan:** Right. Talk about America.
+- **Deacon Eythan:** Talk about America.
 
 - **Officer:** Correct.
 
 - **Deacon Eythan:** So he took part, he took part of the fourth part of the earth to kill with sword. Remember earlier that he made war, in ezis. He conquered the pable and those who are at peace with him. Remember, he make war with them.
 
-- **Officer:** Yes sir. Okay. It says to kill with the sword. That go back to Revelations 13 and verse 9, where it says he that killed the sword must be killed by the sword.
+- **Officer:** Yes sir. It says to kill with the sword. That go back to Revelations 13 and verse 9, where it says he that killed the sword must be killed by the sword.
 
 - **Deacon Eythan:** Correct. Kill by who? Kill who? By the sword. Us, the Israelites. By the sword. Verse eight, one more time.
 
@@ -960,7 +946,7 @@ Reading from a Mariam dictionary on the word Duke, read off the phone  *[[1:19:3
 
 - **Officer:** Germicidal, I believe it's called. Biological.
 
-- **Deacon Eythan:** Biological warfare. Biological warfare. Right. Biological warfare. All right. Sword, with hunger, with death, and with beast of the earth. All right.
+- **Deacon Eythan:** Biological warfare. Biological warfare. Biological warfare. Sword, with hunger, with death, and with beast of the earth.
 
 *[[2:00:09](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=7209s)]* So now let's go to Zariah 8. Now, Zechariah 8. They're slowly coming out of America now. Coming out of it. I gave you a little, that little piece right there. We left off last week with Zechariah 8 and 3. Start at verse three.
 
@@ -970,7 +956,7 @@ Reading from a Mariam dictionary on the word Duke, read off the phone  *[[1:19:3
 
 > <sup>[3](/bible/zechariah/8#v3)</sup> Thus saith the Lord; I am returned unto Zion, and will dwell in the midst of Jerusalem: and Jerusalem shall be called a city of truth; and the mountain of the Lord of hosts the holy mountain.
 
-- Right. We're going to be the top government on the earth. The holy mountain.
+- We're going to be the top government on the earth. The holy mountain.
 
 > <sup>[4](/bible/zechariah/8#v4)</sup> Thus saith the Lord of hosts; There shall yet old men and old women dwell in the streets of Jerusalem, and every man with his staff in his hand for very age.
 
@@ -998,7 +984,7 @@ Reading from a Mariam dictionary on the word Duke, read off the phone  *[[1:19:3
 
 - From where? From the east country. From the east country. That's the Eastern Hemisphere.
 
-- And from the west country. That is America. The fourth part. Fourth part of the earth. All right. Now let me see. I want to jump to verse 8 and 13. Verse eight.
+- And from the west country. That is America. The fourth part. Fourth part of the earth. Now let me see. I want to jump to verse 8 and 13. Verse eight.
 
 > <sup>[8](/bible/zechariah/8#v8)</sup> And I will bring them, and they shall dwell in the midst of Jerusalem: and they shall be my people, and I will be their God, in truth and in righteousness.
 
@@ -1018,7 +1004,7 @@ Reading from a Mariam dictionary on the word Duke, read off the phone  *[[1:19:3
 
 - **Officer:** I don't know. I need that book too. I should have brought it. I forgot it.
 
-- **Deacon Eythan:** All right. Start from... wait, wait, I'm sorry. No, start from "in chapter eight," and we're going to end at "four wins." Okay.
+- **Deacon Eythan:** Start from... wait, wait, I'm sorry. No, start from "in chapter eight," and we're going to end at "four wins."
 
 <div class="reading">
 
@@ -1034,11 +1020,11 @@ Reading from *The View*, page 234, on Zechariah 8 and the west country · read b
 
 > It then follows, verse 7: Thus saith the Lord of hosts, Behold, I will save my people from the east country, and from the west country,
 
-- And from the west country. Watch this.
+- And from the west country.
 
 > By the west country here we must suppose it meant America.
 
-- I'm sorry. Bring it out. He so new. Esau know what west country means. Columbus knew what west country meant, reading the scriptures.
+- Bring it out. He so new. Esau know what west country means. Columbus knew what west country meant, reading the scriptures.
 
 - **Officer:** Mm-hm.
 
@@ -1046,7 +1032,7 @@ Reading from *The View*, page 234, on Zechariah 8 and the west country · read b
 
 - **Officer:** And they made a movie about it too. The conqu quest of paradise, right? By Jeff something deu.
 
-- **Deacon Eythan:** Right. We going to stop at... I say stop at "four wins." Keep going.
+- **Deacon Eythan:** We going to stop at... I say stop at "four wins."
 
 - **Officer:** Yes sir.
 
@@ -1086,19 +1072,15 @@ Reading from *The View*, page 234, on Zechariah 8 and the west country · read b
 
 - **Officer:** They know. Deac, just to get that straight, go back down, scroll back down, the part where it says this country, going down to the sun. What part was that? Going down the sun from Palestine is over America. Is that saying that Jerusalem is over America? I just want to clarify that phrase right there.
 
-- **Deacon Eythan:** It says the going down of the sun from Palestine is over America. I believe the east... he's saying the east. The east side is over this nation. Right.
+- **Deacon Eythan:** It says the going down of the sun from Palestine is over America. I believe the east... he's saying the east. The east side is over this nation.
 
-- **Officer:** Okay, okay. Over...
+- **Officer:** Over...
 
 - **Deacon Eythan:** It's over America. The going down... the country of the going down the sun. Going down the sun from Palestine is over America. Over America. Over America.
 
-- **Officer:** Right. All right.
+- **Deacon Eythan:** So now let's go to where I want to go to now. Ezekiel 20:32. I know I haven't been going over the scriptures lately, these past couple of chapters, but I have instances where we going to go over a lot of scriptures, and have been, say, were not.
 
-- **Deacon Eythan:** All right. So now let's go to where I want to go to now. Ezekiel 20:32. I know I haven't been going over the scriptures lately, these past couple of chapters, but I have instances where we going to go over a lot of scriptures, and have been, say, were not.
-
-- **Officer:** And also, Israel got to get the fundamental point of these books. That's establishing a vision, D. Right? Like, you got to see this thing in your mind. Build this vision in your spirit, so that way, when the scriptures come out, then the faith expound on that.
-
-- **Deacon Eythan:** Right.
+- **Officer:** And also, Israel got to get the fundamental point of these books. That's establishing a vision, D. Like, you got to see this thing in your mind. Build this vision in your spirit, so that way, when the scriptures come out, then the faith expound on that.
 
 </div>
 
@@ -1106,27 +1088,27 @@ Reading from *The View*, page 234, on Zechariah 8 and the west country · read b
 
 > <sup>[32](/bible/ezekiel/20#v32)</sup> And that which cometh into your mind shall not be at all, that ye say, We will be as the heathen, as the families of the countries, to serve wood and stone.
 
-- So Israel's mindset: we begin to assimilate during the time of Babylon. We said, we will be as the heathen. Likewise: we will be as white folks. We will be as Americans. We will be as Chinese. We always try to be everything else. We always try to be everyone else, everything else, but the Israelites. I'll be Egyptian, I'll be African, but not Israel. Never Israel. Okay. That was the assimilating, assimilation, integration mindset. Has been around since before for time memorium. There's a reinforced habit here in America. Get 25 and 8.
+- So Israel's mindset: we begin to assimilate during the time of Babylon. We said, we will be as the heathen. Likewise: we will be as white folks. We will be as Americans. We will be as Chinese. We always try to be everything else. We always try to be everyone else, everything else, but the Israelites. I'll be Egyptian, I'll be African, but not Israel. Never Israel. That was the assimilating, assimilation, integration mindset. Has been around since before for time memorium. There's a reinforced habit here in America. Get 25 and 8.
 
 **[Ezekiel 25:8](/bible/ezekiel/25#v8)**  *[[2:10:39](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=7839s)]*
 
 > <sup>[8](/bible/ezekiel/25#v8)</sup> Thus saith the Lord God; Because that Moab and Seir do say, Behold, the house of Judah is like unto all the heathen;
 
-- Read... I'm sorry, I'm sorry. Read again, Ezekiel chapter 25:8.
+- Read again, Ezekiel chapter 25:8.
 
-- Right. So Israel became like unto the heathen. Israel said, we will be like all... we will be like the heathen. Like today, we go above and beyond to be everything else but what the Bible says to be. Like in macbes, we became as the, we became the Greeks wul. We became the Romans wul. We became Babylonian minded Wolly, Assyrian minded wul, Persian minded wul, American minded willfully, Spanish minded willfully, Portuguese minded. Everything but Israel. We always have a habit of wan to be everything but who we are. That mindset is common in scripture. It's just, again, in this captivity, it's a reinforced habit.
+- So Israel became like unto the heathen. Israel said, we will be like all... we will be like the heathen. Like today, we go above and beyond to be everything else but what the Bible says to be. Like in macbes, we became as the, we became the Greeks wul. We became the Romans wul. We became Babylonian minded Wolly, Assyrian minded wul, Persian minded wul, American minded willfully, Spanish minded willfully, Portuguese minded. Everything but Israel. We always have a habit of wan to be everything but who we are. That mindset is common in scripture. It's just, again, in this captivity, it's a reinforced habit.
 
-- Get Galatians 2:9. Let's get into some deeper stuff now. Galatians 2:9. Watch this. "We will be as a heathen." Right. You Christians are gonna get mad now. Oh, you guys are pushing madness. I'm upset y'all today. Is your day. I'm upset y'all today.
+- Get Galatians 2:9. Let's get into some deeper stuff now. Galatians 2:9. "We will be as a heathen." You Christians are gonna get mad now. Oh, you guys are pushing madness. I'm upset y'all today. Is your day. I'm upset y'all today.
 
 - **Officer:** If they ain't mad, we ain't doing our job, D.
 
-- **Deacon Eythan:** Yeah, yeah. Right. And to be honest, I enjoy it. It makes me feel good inside. So you get mad, it makes my teeth even whiter. Your anger sustains me. Your tears like sweet do. Galatians 2 and 9.
+- **Deacon Eythan:** Yeah, yeah. And to be honest, I enjoy it. It makes me feel good inside. So you get mad, it makes my teeth even whiter. Your anger sustains me. Your tears like sweet do. Galatians 2 and 9.
 
 **[Galatians 2:9](/bible/galatians/2#v9)**  *[[2:12:29](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=7949s)]*
 
 > <sup>[9](/bible/galatians/2#v9)</sup> And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given unto me, they gave to me and Barnabas the right hands of fellowship; that we should go unto the heathen, and they unto the circumcision.
 
-- Right. Go to who? The heathen. That we should go into the... you be early in Ezekiel: Israel will be as the heathen.
+- Go to who? The heathen. That we should go into the... you be early in Ezekiel: Israel will be as the heathen.
 
 - **Officer:** Correct.
 
@@ -1148,13 +1130,13 @@ Reading from *The View*, page 234, on Zechariah 8 and the west country · read b
 
 - **Officer:** Yeah, 17. 17:6.
 
-- **Deacon Eythan:** Yeah, yeah, yeah. I'm sorry. All right. Genesis chapter 17 verse 6.
+- **Deacon Eythan:** Yeah, yeah, yeah. Genesis chapter 17 verse 6.
 
 **[Genesis 17:6-8,16](/bible/genesis/17#v6)**  *[[2:15:08](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=8108s)]*
 
 > <sup>[6](/bible/genesis/17#v6)</sup> And I will make thee exceeding fruitful, and I will make nations of thee, and kings shall come out of thee.
 
-- It's written mad... oh, that's not... is it? It's written different ways, mad times. Hold on, hold on a second. Hold on one second. Let me go back to where I was at. 12 and 3. Yeah, that's what you said, 12 and 3. 12, and now I want... where you're at is right. I want to be at... go back to Genesis 17 again. It is 12 and 3, but it's also 17, 17:6. Read it again.
+- It's written mad... oh, that's not... is it? It's written different ways, mad times. Let me go back to where I was at. 12 and 3. Yeah, that's what you said, 12 and 3. 12, and now I want... where you're at is right. I want to be at... go back to Genesis 17 again. It is 12 and 3, but it's also 17, 17:6.
 
 - **Officer:** You want 17 and 6?
 
@@ -1172,11 +1154,11 @@ Reading from *The View*, page 234, on Zechariah 8 and the west country · read b
 
 - How many nations did Sarah, his wife, have? She had one. One. Yeah. She had one. That's referring to Isaac.
 
-- Kings. So going into Isaac's seed, Jacob. Going back to Jacob. Now what I want is, he blesses Jacob, he says the exact same thing to him. Is it 27? 22 and 17. 22:17. Yeah, 17. Read that.
+- Kings. So going into Isaac's seed, Jacob. Going back to Jacob. Now what I want is, he blesses Jacob, he says the exact same thing to him. Is it 27? 22 and 17. 22:17. Yeah, 17.
 
 - **Officer:** The Book of Genesis 22:17... hold on. It says the east, west. That's good too, but it says east, west, his sons. That's Abraham.
 
-- **Deacon Eythan:** He... no, he's talking to Jacob. Okay. Godam, say something, Ken. He quote me like Deacon laa, man. I got to be like, yeah, yeah, yeah. Anyway. By the way, shout out to Deacon laa, man.
+- **Deacon Eythan:** He... no, he's talking to Jacob. Godam, say something, Ken. He quote me like Deacon laa, man. I got to be like, yeah, yeah, yeah. Anyway.
 
 - **Officer:** All this history coming out making me want to clap my hands for myself. Knowing, for real knowing, that we are the greatest people. And like I said, this is establishing that vision. Where there's no vision of people fail. So Israel, you that's getting this understanding, this is the kind of stuff when your kids come from school, you debrief, and put this history back into their memory, remembrance, because Esau has taken it away.
 
@@ -1186,7 +1168,7 @@ Reading from *The View*, page 234, on Zechariah 8 and the west country · read b
 
 > <sup>[18](/bible/genesis/18#v18)</sup> Seeing that Abraham shall surely become a great and mighty nation, and all the nations of the earth shall be blessed in him?
 
-- See: all the nations of the earth be blessed in him. Right. Now go to 28:14. Same blessing that was passed to Abraham was given to his wife, and he also passed on to his son Jacob. Watch this. 28 verse 14.
+- See: all the nations of the earth be blessed in him. Now go to 28:14. Same blessing that was passed to Abraham was given to his wife, and he also passed on to his son Jacob. Watch this. 28 verse 14.
 
 **[Genesis 28:14](/bible/genesis/28#v14)**  *[[2:18:57](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=8337s)]*
 
@@ -1202,17 +1184,17 @@ Reading from *The View*, page 234, on Zechariah 8 and the west country · read b
 
 - Why? Because Israel is scattered among all of them. That's why in them shall Israel bless, be blessed. It will be blessed among all the nations, as Israel is among all nations. It'll be blessed among all the nations on the earth, because they'll be scattered in the north, south, east and west of the globe. Same he said to Abraham, passed on to his son Jacob. I'm talking about all nations.
 
-- **Officer:** Yeah. They're going to get blessed. All right.
+- **Officer:** Yeah. They're going to get blessed.
 
 - **Deacon Eythan:** Nations, they're going to be blessed with 9 to 5 forever. Nine to forever. All overtime.
 
-- **Officer:** Right. Overtime guaranteed.
+- **Officer:** Overtime guaranteed.
 
 - **Deacon Eythan:** Go over time. This scripture: continual employment.
 
-- **Officer:** Yeah. Right. Exactly.
+- **Officer:** Yeah. Exactly.
 
-- **Deacon Eythan:** My... get that blessing. Get Ezekiel real quick. Ezekiel real quick, since laqua mentions employment. I'm going to give you a blessing right now. hor 39 verse 14. So you won't need Trump nor Biden to give us jobs. We going to have job continually, forever. Right. Eeko 39. Nobody going to be unemployed. Everyone's going to have a job. Everyone, you all have Jabs. Give you a JB, you to build. You're going to build, you're going to fix things. Be booming. Build the walls. 39:14. I want you to read Ezekiel 39:14. Show it with fair. You going to read it. We're going to read it. We're good guys here. You love... I love everybody. I have red socks. I don't hate red people. I have white socks, I have red socks. I'm not racist. I'm a loving guy. I'm a loving guy. I'm a loving guy. Oh man. Ezekiel 39 verse 14, please.
+- **Deacon Eythan:** My... get that blessing. Get Ezekiel real quick. Ezekiel real quick, since laqua mentions employment. I'm going to give you a blessing right now. hor 39 verse 14. So you won't need Trump nor Biden to give us jobs. We going to have job continually, forever. Eeko 39. Nobody going to be unemployed. Everyone's going to have a job. Everyone, you all have Jabs. Give you a JB, you to build. You're going to build, you're going to fix things. Be booming. Build the walls. 39:14. I want you to read Ezekiel 39:14. Show it with fair. You going to read it. We're going to read it. We're good guys here. You love... I love everybody. I have red socks. I don't hate red people. I have white socks, I have red socks. I'm not racist. I'm a loving guy. I'm a loving guy. I'm a loving guy. Oh man. Ezekiel 39 verse 14, please.
 
 **[Ezekiel 39:14](/bible/ezekiel/39#v14)**  *[[2:21:02](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=8462s)]*
 
@@ -1222,7 +1204,7 @@ Reading from *The View*, page 234, on Zechariah 8 and the west country · read b
 
 - **Officer:** What if you got to lose? What if you got to lose? Continue imployment, just unemployment.
 
-- **Deacon Eythan:** No. Not continue unemployment, man. Read it. Read it again. Read again.
+- **Deacon Eythan:** No. Not continue unemployment, man. Read again.
 
 - See, you got... you're going to search with all the bones of those who went against us. Your job is to find those bones and get rid of them. See, you guys are going to be sanation. It's your job. See, we're merciful people. Build the walls, play clean up. That's your job. You go give your jobs. You pay that little s bney: clean up, clean up, everybody everywhere. That be your song. Sing that song among yourselves. That be your little Heathen spirituals. Heing spiritual. Servants and handmaids. That's right. Zechariah 10:6. Everybody do your … I hate Bonnie. I hate that dude. Them songs in your head, man. Zechariah 10 verse 6.
 
@@ -1230,7 +1212,7 @@ Reading from *The View*, page 234, on Zechariah 8 and the west country · read b
 
 > <sup>[6](/bible/zechariah/10#v6)</sup> And I will strengthen the house of Judah, and I will save the house of Joseph, and I will bring them again to place them; for I have mercy upon them: and they shall be as though I had not cast them off: for I am the Lord their God, and will hear them.
 
-- Right. We going to be as if we were never slaves. We going to rule. We going to rule and be so happy, we going to forget about the slavy, was in slavery that we were in.
+- We going to be as if we were never slaves. We going to rule. We going to rule and be so happy, we going to forget about the slavy, was in slavery that we were in.
 
 > <sup>[7](/bible/zechariah/10#v7)</sup> And they of Ephraim shall be like a mighty man, and their heart shall rejoice as through wine: yea, their children shall see it, and be glad; their heart shall rejoice in the Lord.
 >
@@ -1238,9 +1220,7 @@ Reading from *The View*, page 234, on Zechariah 8 and the west country · read b
 >
 > <sup>[9](/bible/zechariah/10#v9)</sup> And I will sow them among the people: and they shall remember me in far countries; and they shall live with their children, and turn again.
 
-- Right.
-
-- Read on. He say, I shall his them. Keep that in mind. I shall his for them, like: come, come on, hurry up. That goes back to him calling us, his for us.
+- He say, I shall his them. Keep that in mind. I shall his for them, like: come, come on, hurry up. That goes back to him calling us, his for us.
 
 > <sup>[10](/bible/zechariah/10#v10)</sup> I will bring them again also out of the land of Egypt, and gather them out of Assyria; and I will bring them into the land of Gilead and Lebanon; and place shall not be found for them.
 
@@ -1256,9 +1236,9 @@ Reading from *The View*, page 234, on Zechariah 8 and the west country · read b
 
 - **Officer:** Yes sir.
 
-- **Deacon Eythan:** I'm not reading along. Read it again. I'm sorry.
+- **Deacon Eythan:** I'm not reading along.
 
-- Right. He shall hiss them from the ends of the earth. Right. He shall his for them. So when the ends... we read that earlier. We read that in Zechariah as well as Isaiah. Get page 235 now. Page 235 of *The View* again. We're going back to that page again.
+- He shall hiss them from the ends of the earth. He shall his for them. So when the ends... we read that earlier. We read that in Zechariah as well as Isaiah. Get page 235 now. Page 235 of *The View* again. We're going back to that page again.
 
 - **Officer:** I think, yeah. 235 now. It was 234 last time.
 
@@ -1270,7 +1250,7 @@ Reading from *The View*, page 235, on Zechariah 10:6-9 and the hissing for Ephra
 
 > In Zechariah chapter 10, verse 6 to 9, is the same event, and Ephraim is by name saved from far countries.
 
-- Read that. This now: read that, "far country." He will his, he will hiss for them from a far country.
+- This now: read that, "far country." He will his, he will hiss for them from a far country.
 
 > And I will strengthen the house of Judah, and will save the house of Joseph, and I will bring them again to place them, for I have mercy upon them,
 
@@ -1302,15 +1282,15 @@ Reading from *The View*, page 235, on Zechariah 10:6-9 and the hissing for Ephra
 
 > in both of which passages the hiss was to call distant heathen.
 
-- Stop. The hiss was to call distant heathen. The hiss was to call distant heathen. Right. Keep that in mind. Keep going.
+- Stop. The hiss was to call distant heathen. The hiss was to call distant heathen. Keep that in mind.
 
 > God's hissing in this passage then, to gather the children of Ephraim in the last days,
 
-- Stop. He's telling you that the heathen is Ephraim, northern kingdom. So when they commissioned Paul and Barnabas to go to the heathen, it was Ephraim in distant countries. Yeah. Listen. Esau knows this stuff. Negroes are … y don't know what's going on. Y'all confused. You got the mark of the beast in the image of the beast in your brain. You all lost and confused. We're not confused. We're playing catch-up to his books. He been had these books. So they've been known this. They keeping us in the dark. We part again: distant heathen. Calling from a distant heathen. I'm sorry: called distant heathen.
+- Stop. He's telling you that the heathen is Ephraim, northern kingdom. So when they commissioned Paul and Barnabas to go to the heathen, it was Ephraim in distant countries. Yeah. Esau knows this stuff. Negroes are … y don't know what's going on. Y'all confused. You got the mark of the beast in the image of the beast in your brain. You all lost and confused. We're not confused. We're playing catch-up to his books. He been had these books. So they've been known this. They keeping us in the dark. We part again: distant heathen. Calling from a distant heathen. I'm sorry: called distant heathen.
 
 > And in both of which passages the hiss was to call distant heathen.
 
-- Distant heathen. Watch this.
+- Distant heathen.
 
 > God's hissing in this passage, then, to gather the children of Ephraim in the last days, seems to indicate his providential calling them from a distant heathen state,
 
@@ -1318,11 +1298,11 @@ Reading from *The View*, page 235, on Zechariah 10:6-9 and the hissing for Ephra
 
 > and it is a mode of calling which perfectly symbolizes with the calls of American natives, a shrill, significant whistling.
 
-- There you go. So the Native Americans are referenced as the heathen on this side of the world. Distant, heathen-minded, because some of them went into paganism.
+- So the Native Americans are referenced as the heathen on this side of the world. Distant, heathen-minded, because some of them went into paganism.
 
-- **Officer:** Which reflects to the curse of being scattered, right? Being word distance. Right. And we will be as the heathen: Ezekiel 25.
+- **Officer:** Which reflects to the curse of being scattered, right? Being word distance. And we will be as the heathen: Ezekiel 25.
 
-- **Deacon Eythan:** Correct. Esau knows who Paul was talking to. Esau understands who the heathen are throughout the New Testament. It's you Christians and Christianity cults that are confused. We're not confused up here. We know what we're talking about. Okay.
+- **Deacon Eythan:** Correct. Esau knows who Paul was talking to. Esau understands who the heathen are throughout the New Testament. It's you Christians and Christianity cults that are confused. We're not confused up here. We know what we're talking about.
 
 - **Officer:** Hey, Deac, my man probably killed himself after he wrote all this.
 
@@ -1330,7 +1310,7 @@ Reading from *The View*, page 235, on Zechariah 10:6-9 and the hissing for Ephra
 
 - **Officer:** And this is the stuff that's supposed to make us walk with our heads up high. Those of you who understand this message, those of you who is getting this, start walking with your heads up high, man. We got bright days coming, if you can endure. Name of the game is to endure.
 
-- **Deacon Eythan:** Right. Psalms 50 now. So Esau's thought in this book was that he was going to convert these American Native Americans, who are in a distant heathen state of mind, that are Israelites, to Christianity, to restore them back into the gospel, the glorious Caucasian gospel. That's the author's thought in this book. Now, realizing that him bringing this information out proves that he knows that the Native Americans are Israelites, and that they were in a heathen state of mind. So whenever you read about heathen, it's not, or nations, all nations, is referring to Israel scattered abroad throughout the north, south, east and west. Okay. Psalms 50 and verse... you know, I want 16 to 22.
+- **Deacon Eythan:** Psalms 50 now. So Esau's thought in this book was that he was going to convert these American Native Americans, who are in a distant heathen state of mind, that are Israelites, to Christianity, to restore them back into the gospel, the glorious Caucasian gospel. That's the author's thought in this book. Now, realizing that him bringing this information out proves that he knows that the Native Americans are Israelites, and that they were in a heathen state of mind. So whenever you read about heathen, it's not, or nations, all nations, is referring to Israel scattered abroad throughout the north, south, east and west. Psalms 50 and verse... you know, I want 16 to 22.
 
 </div>
 
@@ -1368,7 +1348,7 @@ Reading from *The View*, page 235, on Zechariah 10:6-9 and the hissing for Ephra
 
 > <sup>[22](/bible/psalms/50#v22)</sup> Now consider this, ye that forget God, lest I tear you in pieces, and there be none to deliver.
 
-- And he is going to do it, because they're not going to stop. They're not going to consider anything. They're going to keep on doing what they're doing until death comes at their door. Now let's get second Exodus 2, 33-34. Second eus chapter 2, 33, 34, regarding heathen. Get there. All right.
+- And he is going to do it, because they're not going to stop. They're not going to consider anything. They're going to keep on doing what they're doing until death comes at their door. Now let's get second Exodus 2, 33-34. Second eus chapter 2, 33, 34, regarding heathen. Get there.
 
 - **Officer:** Second edes 2:33. Yep, 34.
 
@@ -1376,7 +1356,7 @@ Reading from *The View*, page 235, on Zechariah 10:6-9 and the hissing for Ephra
 
 > <sup>[33](/bible/2-esdras/2#v33)</sup> I Esdras received a charge of the Lord upon the mount Oreb, that I should go unto Israel; but when I came unto them, they set me at nought, and despised the commandment of the Lord.
 
-- Let's see if our forefathers were familiar with heathens being Israelites. Watch this.
+- Let's see if our forefathers were familiar with heathens being Israelites.
 
 - Go to who? Israel. Like all the other apostles and the prophets did.
 
@@ -1392,7 +1372,7 @@ Reading from *The View*, page 235, on Zechariah 10:6-9 and the hissing for Ephra
 
 - He's coming. He's coming soon.
 
-- He shall come in the end of the world. You understand? He shall come in the end of the world.
+- He shall come in the end of the world. He shall come in the end of the world.
 
 - **Officer:** If I may? May I please?
 
@@ -1412,11 +1392,11 @@ Reading from *The View*, page 235, on Zechariah 10:6-9 and the hissing for Ephra
 
 - **Officer:** Mhm. The Arabs, right?
 
-- **Deacon Eythan:** So that shall come at the end of Esau's rulership, and Jacob is the beginning of it that followeth. So that's when the Messiah come. Right. That's the fifth world that the isites, or Mexicans, said in their... in the Bible over here it say that's the fifth world. The world that come after Esau is our world: the Messiah's world.
+- **Deacon Eythan:** So that shall come at the end of Esau's rulership, and Jacob is the beginning of it that followeth. So that's when the Messiah come. That's the fifth world that the isites, or Mexicans, said in their... in the Bible over here it say that's the fifth world. The world that come after Esau is our world: the Messiah's world.
 
 - **Officer:** OB, the last verse. Let you get your...
 
-- **Deacon Eythan:** All right. I have to, man. I have to do it, just in case you don't believe in the Apocrypha. Okay, no problem. Bring it up. OB. This cover all corners. OB, the last verse, 21. It's right after Amos.
+- **Deacon Eythan:** I have to, man. I have to do it, just in case you don't believe in the Apocrypha. Okay, no problem. OB. This cover all corners. OB, the last verse, 21. It's right after Amos.
 
 **[Obadiah 1:21](/bible/obadiah/1#v21)**  *[[2:34:38](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=9278s)]*
 
@@ -1430,7 +1410,7 @@ Reading from *The View*, page 235, on Zechariah 10:6-9 and the hissing for Ephra
 
 - **Deacon Eythan:** Oh yeah. Don't.
 
-- **Officer:** The key word in the scripture was find rest. Right. The rulership that's going to be on the earth after Esau, that you're going to find rest in, explains that. And also Matthew 11:29 real quick. Matthew 11:29. And from the scripture you know who that is, who's going to be the one we find our resting.
+- **Officer:** The key word in the scripture was find rest. The rulership that's going to be on the earth after Esau, that you're going to find rest in, explains that. And also Matthew 11:29 real quick. Matthew 11:29. And from the scripture you know who that is, who's going to be the one we find our resting.
 
 **[Matthew 11:29](/bible/matthew/11#v29)**  *[[2:35:46](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=9346s)]*
 
@@ -1444,7 +1424,7 @@ Reading from *The View*, page 235, on Zechariah 10:6-9 and the hissing for Ephra
 
 *[[2:36:10](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=9370s)]* So we're going to wrap it up there. We got to three, right? Huh? We got about three minutes left. Three minutes left. All right, so wrap it up there. Announcements.
 
-**Officer:** Oh, shout outs to the IT team that did an excellent job. Excellent job. And shout outs to the sisters for the breakfast. It was excellent. The breakfast team did an excellent job. Was great. All praise to the Lord for that. And yes sir, shout out to Deacon. Earlier, in our little blooper, you guys just don't know how excited and how determined Deacon is when he's bringing out all this information to you guys, and when you miss a little bit, he get frustrated. So we apologize for the little interruption earlier, and it's just the zeal in our Deacon and our leadership to bring this message to y'all. All right.
+**Officer:** Excellent job. It was excellent. The breakfast team did an excellent job. Was great. All praise to the Lord for that. Earlier, in our little blooper, you guys just don't know how excited and how determined Deacon is when he's bringing out all this information to you guys, and when you miss a little bit, he get frustrated. So we apologize for the little interruption earlier, and it's just the zeal in our Deacon and our leadership to bring this message to y'all.
 
 *[[2:38:12](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=9492s)]* **Officer:** So Israel, stay tuned. Make sure you go over these classes during the week. Feed the flock, feed your family. And with that, we all say shalom, shalom, shalom. God bless.
 
