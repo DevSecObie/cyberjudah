@@ -18,13 +18,9 @@ tags: ["Our Hidden History", "edom-esau", "egypt", "greece", "persia-medes"]
 
 ## Introduction
 
-*[[12:05](https://www.youtube.com/watch?v=vIInvlEhZMI&t=725s)]* All praise to the Most High. All praises, Israel. Welcome back, welcome back. We have another great show for you. Today's episode, it's gonna be a series of shows. It's going into Alexander and Philip of Edom becoming Japheth and the Pharaohs of Egypt. I'll say it again: Alexander and Philip becoming Japheth and the Pharaohs of Egypt. And what we're going to do is we're going to kill three birds with one stone. And what I mean by killing three birds with one stone is, because when you read the book of Maccabees you see Alexander as well as Philip called Macedonians. And from that comes the doctrine that the so-called Caucasian race are Japheth. We see it in different books. And you also have a group of Israelites claiming that Esau is not the so-called white man, even when there's concrete evidence, no matter how many books we pulled out showing that Esau's the white man, the Romans, the Greeks. But what we don't know is that Esau took over all these territories.
+*[[12:05](https://www.youtube.com/watch?v=vIInvlEhZMI&t=725s)]* Today's episode, it's gonna be a series of shows. It's going into Alexander and Philip of Edom becoming Japheth and the Pharaohs of Egypt. I'll say it again: Alexander and Philip becoming Japheth and the Pharaohs of Egypt. And what we're going to do is we're going to kill three birds with one stone. And what I mean by killing three birds with one stone is, because when you read the book of Maccabees you see Alexander as well as Philip called Macedonians. And from that comes the doctrine that the so-called Caucasian race are Japheth. We see it in different books. And you also have a group of Israelites claiming that Esau is not the so-called white man, even when there's concrete evidence, no matter how many books we pulled out showing that Esau's the white man, the Romans, the Greeks. But what we don't know is that Esau took over all these territories.
 
 *[[12:46](https://www.youtube.com/watch?v=vIInvlEhZMI&t=766s)]* So what I want you guys to label this part: the diminishing of the Egyptian Empire. So right now we're going to touch the diminishing of the Egyptian Empire. We touched us coming into Egypt, migrating into Egypt, going up into Goshen, and we saw different black images of Abraham, Isaac, Jacob, Joseph, the real Egyptians, ancient Egyptians: the Watusi, the Sudanese, the Zulus, men of stature, the average height six feet. And also withholding some of the Egyptian customs, so they migrate into the Sudan or those territories, or even in Rwanda. So now, with that being said, we want to continue on with the series and show the migration, how Esau became and appropriated all these different cultures. It goes deep, Israel. It goes deep. That's why, let's re-establish the point. Let's go to Genesis real quick to re-establish the point.
-
-**Officer:** You doing good. You're on a roll right now.
-
-**Deacon Eythan:** Some people say I talk fast. So I do talk fast, you know; you just gotta listen faster.
 
 ## Readings and Scriptures
 
@@ -54,7 +50,7 @@ tags: ["Our Hidden History", "edom-esau", "egypt", "greece", "persia-medes"]
 
 - **Officer:** The treasure cities.
 
-- **Deacon Eythan:** Yes, the treasure cities. So the Valley of the Kings. Everywhere we go, we make it prosperous, just like in Europe, America. An example of that is with Laban. He didn't want to let Jacob go, because why? As long as he had Jacob there, Jacob blessed his flocks; his flocks were grown in numbers, the land, everything, his wealth increased. Because everywhere Israel touched down, we bring blessings to that soil, we bring blessings to that territory. So that's why the so-called white man doesn't want to let us go. But once we leave, what happens? They begin to crumble and fall as an empire. Now read it again.
+- **Deacon Eythan:** Yes, the treasure cities. So the Valley of the Kings. Everywhere we go, we make it prosperous, just like in Europe, America. An example of that is with Laban. He didn't want to let Jacob go, because why? As long as he had Jacob there, Jacob blessed his flocks; his flocks were grown in numbers, the land, everything, his wealth increased. Because everywhere Israel touched down, we bring blessings to that soil, we bring blessings to that territory. So that's why the so-called white man doesn't want to let us go. But once we leave, what happens? They begin to crumble and fall as an empire.
 
 > <sup>[3](/bible/isaiah/20#v3)</sup> And the Lord said, Like as my servant Isaiah hath walked naked and barefoot three years for a sign and wonder upon Egypt and upon Ethiopia;
 >
@@ -72,7 +68,7 @@ tags: ["Our Hidden History", "edom-esau", "egypt", "greece", "persia-medes"]
 
 - *[[23:08](https://www.youtube.com/watch?v=vIInvlEhZMI&t=1388s)]* So that was heavy to me. So God, without telling us, we kept on walking around the same mountain in circles, because that's naturally within us. If you don't have any directions... you see with animals, they'll constantly walk in circles.
 
-- **Officer:** Right. Ants do that. They all walk in circles.
+- **Officer:** Ants do that. They all walk in circles.
 
 - **Deacon Eythan:** So there's something that's broken within us to walk in circles. That's why we walked in circles, even though Egypt and Israel are connected with each other. We kept on walking in circles. So that's something naturally innate within us. That's heavy. Now you want to bring something up?
 
@@ -170,7 +166,7 @@ Reading from *The Martyrdom of Man* (no author named), the last paragraph, on th
 
 - You give what? The land of Egypt unto Nebuchadnezzar. So God says, I will give the land of Egypt unto Nebuchadnezzar. So you have the ancient Babylonians, or what is called the Ethiopians today.
 
-- *[[36:29](https://www.youtube.com/watch?v=vIInvlEhZMI&t=2189s)]* Hey, can you bring up the ancient Egypt? So this book we brought out before is called *Egypt*, or *Ancient Egypt*. If you can enlarge that, to show Ethiopian rule, or Ethiopian kings. Go down. Right there. So he says, I will give the land of Egypt unto Nebuchadnezzar, king of Babylon. So that's when the Ethiopians or the Babylonians start to reign over Egypt, and you see Egypt as we know today, the Sudanese, the Zulus, the Tutsis, the Watusis, start to diminish, and some of them already made the Exodus out of that territory.
+- *[[36:29](https://www.youtube.com/watch?v=vIInvlEhZMI&t=2189s)]* Hey, can you bring up the ancient Egypt? So this book we brought out before is called *Egypt*, or *Ancient Egypt*. If you can enlarge that, to show Ethiopian rule, or Ethiopian kings. Right there. So he says, I will give the land of Egypt unto Nebuchadnezzar, king of Babylon. So that's when the Ethiopians or the Babylonians start to reign over Egypt, and you see Egypt as we know today, the Sudanese, the Zulus, the Tutsis, the Watusis, start to diminish, and some of them already made the Exodus out of that territory.
 
 > <sup>[20](/bible/ezekiel/29#v20)</sup> I have given him the land of Egypt for his labour wherewith he served against it, because they wrought for me, saith the Lord God.
 >
@@ -206,7 +202,7 @@ Reading from *The Martyrdom of Man* (no author named), the last paragraph, on th
 
 - Let me do something. I didn't sit on this a long time ago. This was over a hundred years prior to King Cyrus coming to power or even being born. I'll say it again: this is a hundred years. Or you even had King Cambyses; he was given a dream that his son would raise up in power, and King Cambyses actually tried to kill Cyrus. So Isaiah prophesied, and that's why King Cyrus didn't really touch us. We're not gonna go too in depth with it; that's going to bring us down another rabbit hole. But King Cyrus, you have some of the kings rose up and showed Cyrus: listen, Isaiah already prophesied for you to rule. Cyrus respected that. He saw the records, he respected that, and that's one of the reasons he said, yo, nobody touch them. He gave Israel liberty, and he gave them the funds in order to fund the building of the temple, based upon that prophecy.
 
-- *[[41:34](https://www.youtube.com/watch?v=vIInvlEhZMI&t=2494s)]* And we're going to also touch that when we get to Alexander; the same incident happened again. We went back into the prophecy. We said, listen, Alexander, it was always prophesied for you to rule. And once we get to it, we're gonna show you: Alexander, this guy was different. He was on a whole nother playing field at a young age. A different spirit. He was a military genius at 12. Now read that again.
+- *[[41:34](https://www.youtube.com/watch?v=vIInvlEhZMI&t=2494s)]* And we're going to also touch that when we get to Alexander; the same incident happened again. We went back into the prophecy. We said, listen, Alexander, it was always prophesied for you to rule. And once we get to it, we're gonna show you: Alexander, this guy was different. He was on a whole nother playing field at a young age. A different spirit. He was a military genius at 12.
 
 **[Isaiah 45:14](/bible/isaiah/45#v14)**  *[[42:27](https://www.youtube.com/watch?v=vIInvlEhZMI&t=2547s)]*
 
@@ -216,7 +212,7 @@ Reading from *The Martyrdom of Man* (no author named), the last paragraph, on th
 
 - *[[44:20](https://www.youtube.com/watch?v=vIInvlEhZMI&t=2660s)]* These people literally take on your whole aspect of life, your history, everything. They take on your name. They don't even get rid of your name. Oh, you thought they take your name? Oh, you think Alexander was their name? You thought Philip was their name? No. We're gonna expose this devil in its entirety. Give us some time. I'm telling you, it's a lot of work, but give it some time. We're going to expose this devil.
 
-*[[44:43](https://www.youtube.com/watch?v=vIInvlEhZMI&t=2683s)]* Now let's go to the Persian pharaohs. Enlarge that. Go up a little bit. Right there. That's the 27th Dynasty. Because you still have Egyptians ruling in the 25th Dynasty. So after that you see the fall of Egypt by the hands of Assyria. After that you have the fall of Egypt by the hands of Nebuchadnezzar, or the Babylonians, Ethiopians, seceding them and becoming the pharaohs over Egypt. That's why when you see the hieroglyphics today, Esau always says Egypt was almost like a multicultural center for all races. Because God sent the different kingdoms into Egypt to rule them, to diminish them and break them, so that they become a base kingdom, that they don't rule over nations any more. And I'll show you how God brought them down to become a base kingdom so they can't rule anymore. He diminished them little and diluted them little by little.
+*[[44:43](https://www.youtube.com/watch?v=vIInvlEhZMI&t=2683s)]* Now let's go to the Persian pharaohs. Enlarge that. Right there. That's the 27th Dynasty. Because you still have Egyptians ruling in the 25th Dynasty. So after that you see the fall of Egypt by the hands of Assyria. After that you have the fall of Egypt by the hands of Nebuchadnezzar, or the Babylonians, Ethiopians, seceding them and becoming the pharaohs over Egypt. That's why when you see the hieroglyphics today, Esau always says Egypt was almost like a multicultural center for all races. Because God sent the different kingdoms into Egypt to rule them, to diminish them and break them, so that they become a base kingdom, that they don't rule over nations any more. And I'll show you how God brought them down to become a base kingdom so they can't rule anymore. He diminished them little and diluted them little by little.
 
 *[[45:59](https://www.youtube.com/watch?v=vIInvlEhZMI&t=2759s)]* So after that you have the dynasty of eight Persian kings. You have Darius, Xerxes the First, you have Artaxerxes Longimanus, you have Xerxes II, and then you have Darius. So the Persians afterwards became the pharaohs of Egypt, during the Persian captivity.
 
@@ -226,11 +222,11 @@ Reading from *The Martyrdom of Man* (no author named), the last paragraph, on th
 
 > <sup>[1](/bible/1-maccabees/1#v1)</sup> And it happened, after that Alexander son of Philip, the Macedonian, who came out of the land of Chettiim, had smitten Darius king of the Persians and Medes, that he reigned in his stead, the first over Greece,
 
-- Wait, wait, wait, read it again. Alexander son of Philip the Macedonian. Now we're not gonna touch and go in depth yet. I'm gonna bring you around in a circle. What we're gonna do, Israel: we arrived at our destination, we see the journey, we see it right before us, but I'm gonna take you on a detour. I'm gonna go around a little bit. We're gonna journey off to the side before we land the plane back down into territory. Read it again.
+- Alexander son of Philip the Macedonian. Now we're not gonna touch and go in depth yet. I'm gonna bring you around in a circle. What we're gonna do, Israel: we arrived at our destination, we see the journey, we see it right before us, but I'm gonna take you on a detour. I'm gonna go around a little bit. We're gonna journey off to the side before we land the plane back down into territory.
 
 - Alexander, the son of Philip the Macedonian. The Macedonian. So Philip is argued by today's scholars that Philip was a Macedonian. Now I'm going to show you this. Today you have Israelites as well as scholars saying that Japheth were the descendants of today's Gentile race, the so-called white man, Europeans, whether it be French, German, Italians, Dutch, British: all inhabitants of Europe are all descendants of Japheth. I'll say it again: there's a doctrine going around, and you can read into different books. Everybody comes to the same conclusion based upon their research, and I'll say not of completed research, but unfulfilled research, uncompleted research. When they start at Alexander, they start at Philip as well as Alexander, and that's when they begin to say, you see Philip of Macedon, you see Alexander, the Greeks, you see the Romans, Italians: these are all Japhetic territories, the Ashkenazis, Gomer, Gog. These are all Europeans, so they have to be Japheth.
 
-- *[[49:20](https://www.youtube.com/watch?v=vIInvlEhZMI&t=2960s)]* Remember, a fugitive and a vagabond shall they be upon this earth. I'm showing you the beginning of them seceding the Japhetic tribes, or Japheth, how they became Japheth. Then we're gonna circle it back around and show you, after they became Japheth, they became the pharaohs of Egypt. Read it again.
+- *[[49:20](https://www.youtube.com/watch?v=vIInvlEhZMI&t=2960s)]* Remember, a fugitive and a vagabond shall they be upon this earth. I'm showing you the beginning of them seceding the Japhetic tribes, or Japheth, how they became Japheth. Then we're gonna circle it back around and show you, after they became Japheth, they became the pharaohs of Egypt.
 
 - So Alexander, when he smote Darius. But we're not gonna go too deep into that. Like I said, we're just touching that. So Alexander, this is around 333 BC, Alexander rose up in power. Alexander primarily went after the Persian kings. Philip of Macedon, we're going to come back to that, conquered the Japhetic kings, or the Japhetic territories, and seceded them and assumed their identity. Something you want to say?
 
@@ -238,7 +234,7 @@ Reading from *The Martyrdom of Man* (no author named), the last paragraph, on th
 
 - **Deacon Eythan:** So you want to see Philip of Macedon as well as Alexander the Macedonian became the first of the Greeks. They say civilization began with the Greeks. Get me Esther chapter 16 verse 10. Now not only was Alexander or Philip called a Macedonian, but you had somebody else in scripture was also called the Macedonian. Esther chapter 16 verse 10, Esther in the Apocrypha.
 
-- **Officer:** Come on, brother. You know I'm slow. I'm black. Sorry, Cap. I just learned how to read when I came in the truth.
+- **Officer:** You know I'm slow. I'm black. Sorry, Cap. I just learned how to read when I came in the truth.
 
 **[Esther (Greek) 16:10](/bible/esther-greek/16#v10)**  *[[51:49](https://www.youtube.com/watch?v=vIInvlEhZMI&t=3109s)]*
 
@@ -380,7 +376,7 @@ Reading from *Ethnology, or the History and Genealogy of the Human Race* by John
 
 > Javan: Hebrew. Giovanni: Italian.
 
-- So Javan is also called Giovanni. You heard that before? Oh, the Giovanni. What do they call them, the Italians, they call themselves Giovanni. Wow. Okay, yo, I'm telling you: Esau takes their names, they assume the identity, they become them. So Giovanni actually is Javan.
+- So Javan is also called Giovanni. You heard that before? Oh, the Giovanni. What do they call them, the Italians, they call themselves Giovanni. Okay, yo, I'm telling you: Esau takes their names, they assume the identity, they become them. So Giovanni actually is Javan.
 
 > Ivan: Russian.
 
@@ -432,7 +428,7 @@ Reading from *Ethnology* by John Thomas Painter, page 132, continued, on Elishah
 
 > called the isles of Elishah. See Ezekiel chapter 27 verse 7.
 
-- Read it. The details are in the writings. It's all right before us.
+- The details are in the writings. It's all right before us.
 
 </div>
 
@@ -452,7 +448,7 @@ Reading from *Ethnology* by John Thomas Painter, page 132, continued · read by 
 
 > and peopled the country called from him Hellas.
 
-- Hellas came from Elishah. Keep going.
+- Hellas came from Elishah.
 
 > But since Greece, those people were the Hellenists,
 
@@ -498,11 +494,11 @@ Reading from *Ethnology* by John Thomas Painter, page 132, read again from the t
 
 > Ancient Greek authors state that the Greeks were descended from Hellen, the son of Deucalion,
 
-- The son of Deucalion. Who's Deucalion? Keep going. Hellen, remember, is Elishah, the son of Deucalion.
+- The son of Deucalion. Who's Deucalion? Hellen, remember, is Elishah, the son of Deucalion.
 
 > from whom they were called Hellenes, and their country Hellas. As Deucalion was the same person as Noah,
 
-- Oh, oh, you thought? That's it. Deucalion was the same person as Noah within their Greek mythology. I'll say it again: Deucalion, within their Greek mythology. What you're going to realize is these nations are the authors of fables. They fabricated their own made-up history based upon real-life characters, or their forefathers. Give me that real quick, in the book of Baruch chapter 3, I believe. Let you know the Bible is a true book. Keep reading.
+- Oh, oh, you thought? That's it. Deucalion was the same person as Noah within their Greek mythology. I'll say it again: Deucalion, within their Greek mythology. What you're going to realize is these nations are the authors of fables. They fabricated their own made-up history based upon real-life characters, or their forefathers. Give me that real quick, in the book of Baruch chapter 3, I believe. Let you know the Bible is a true book.
 
 > therefore Hellen, his son, must have been Ellis, the great-grandson of Noah and son of Javan.
 
@@ -534,7 +530,7 @@ Reading from a message from Bishop Nathanyel of Israel United in Christ, played 
 
 </div>
 
-*[[1:27:58](https://www.youtube.com/watch?v=vIInvlEhZMI&t=5278s)]* All right, Israel, let's get back into the mix. Let's get back into the mix. So now, like I said, join us on this journey. We last left off with Elishah, who was called the Hellenes, or Elishah, Ellis, also the Hellespont. He crossed over into Greece as well as Asia Minor. He became the Hellenes, today known as the Greeks. Elishah was the son of Javan himself. Okay, now let's pick up with Deucalion. Let's go.
+*[[1:27:58](https://www.youtube.com/watch?v=vIInvlEhZMI&t=5278s)]* All right, Israel, let's get back into the mix. Let's get back into the mix. So now, like I said, join us on this journey. We last left off with Elishah, who was called the Hellenes, or Elishah, Ellis, also the Hellespont. He crossed over into Greece as well as Asia Minor. He became the Hellenes, today known as the Greeks. Elishah was the son of Javan himself. Okay, now let's pick up with Deucalion.
 
 <div class="reading">
 
@@ -640,7 +636,7 @@ Reading from *Ethnology* by John Thomas Painter, page 135, on Kittim and the Mac
 
 - So Barnabas was called Jupiter, and Paul Mercurius; he was the chief speaker. So Jupiter goes back into the ancient worship of Japheth. They started worshipping their fathers. Now you want to bring something out?
 
-- **Officer:** Yes, sir. To bring something into perspective, as we brought it out earlier: the Greeks got so many gods, we know, because of their plagiarism. In Psalms 82 and 6, God already told us we are gods. So us here, we are gods. But let's see what real gods do, real gods that the Most High ordained. Could you read John 8:47? I would touch John 8:44, but I ain't gonna do that; we won't go around it. What do gods do? To show you that the Egyptians, all these other nations, their gods are idols. This is why the Most High puts it in that perspective: they plagiarize us. They want to be gods like us. But this is what real gods do. Read that.
+- **Officer:** Yes, sir. To bring something into perspective, as we brought it out earlier: the Greeks got so many gods, we know, because of their plagiarism. In Psalms 82 and 6, God already told us we are gods. So us here, we are gods. But let's see what real gods do, real gods that the Most High ordained. Could you read John 8:47? I would touch John 8:44, but I ain't gonna do that; we won't go around it. What do gods do? To show you that the Egyptians, all these other nations, their gods are idols. This is why the Most High puts it in that perspective: they plagiarize us. They want to be gods like us. But this is what real gods do.
 
 **[John 8:47](/bible/john/8#v47)**  *[[1:39:01](https://www.youtube.com/watch?v=vIInvlEhZMI&t=5941s)]*
 
@@ -648,7 +644,7 @@ Reading from *Ethnology* by John Thomas Painter, page 135, on Kittim and the Mac
 
 - **Officer:** You see what that Bible says? These other nations cannot really follow gods. They are not gods. If they were gods, they would listen to the true God. So all of this is just made-up fables, because true gods listen to God.
 
-- **Deacon Eythan:** Okay. Hey, Israel, Israel, let's get the likes up. What's we looking at on the chat? 630-something people. We should have 635 likes. It's nothing to just click the like button. It's nothing to do that. All right, so let's get the likes up, Israel. This information that we're bringing out is very heavy. Let's get the likes up. Thank you. All right, so let's go back. Let's pick up.
+- **Deacon Eythan:** Hey, Israel, Israel, let's get the likes up. What's we looking at on the chat? 630-something people. We should have 635 likes. It's nothing to just click the like button. It's nothing to do that. All right, so let's get the likes up, Israel. This information that we're bringing out is very heavy. Let's get the likes up. All right, so let's go back. Let's pick up.
 
 <div class="reading">
 
@@ -672,7 +668,7 @@ Reading from *Ethnology* by John Thomas Painter, page 135, continued  *[[1:40:01
 
 > the Latini, now Romans.
 
-- So now the Latini, now Romans. So Citti, Kitti, a Kitti, whatever: Citti, Hitti, Mitti, Fifty. Yo, play the beat next time. Okay. They later became Latinians, now Romans. Same person. Now the Romans.
+- So now the Latini, now Romans. So Citti, Kitti, a Kitti, whatever: Citti, Hitti, Mitti, Fifty. Yo, play the beat next time. They later became Latinians, now Romans. Same person. Now the Romans.
 
 > the son of Hercules,
 
@@ -698,7 +694,7 @@ Reading from *Ethnology* by John Thomas Painter, page 135, continued  *[[1:40:01
 
 - **Deacon Eythan:** You can say, oh, there's one verse, Japheth, or two verses, three verses. You got to go in depth into the different names. Now can you give me the book? Now this book we are using, I know some of you requested to see what the book was concerning the ancient Egyptian art, some of the pharaohs that ruled, as well as the Israelites, or Negroes, living in ancient Egypt, the ones that built Ramses and the treasure cities, as well as Pithom. So this book is *The Image of the Black in Western Art: From the Pharaohs to the Fall of the Roman Empire*. So those of you that were asking what was the book that we used in the previous classes: it's *The Image of the Black in Western Art, From the Pharaohs to the Fall of the Roman Empire*.
 
-- **Officer:** Okay. So you're going to get into it. At this point, no more fables, no more mythology, just facts. And you cannot get to that point without using the scriptures. That's the most important thing we're bringing up.
+- **Officer:** So you're going to get into it. At this point, no more fables, no more mythology, just facts. And you cannot get to that point without using the scriptures. That's the most important thing we're bringing up.
 
 - **Deacon Eythan:** Exactly. So you ready?
 
@@ -712,7 +708,7 @@ Reading from *The Image of the Black in Western Art: From the Pharaohs to the Fa
 
 > The forerunners. During the early Minoan period, the population of southern Crete may have included a negroid element.
 
-- Read it again. During the early Minoan period. I'll say it again: during the early Minoan period. The reason why they have to say early is because later on you're going to understand that there's Israelite traces within the Japhetic empire. In the previous episodes, shows such as *Walking with the Giants*, that was gone into thoroughly, concerning the different Israelite tribes, such as Dan, and not just Dan only, but the kingdom in general inhabited so many different territories, that what we think all of Japheth, Israel actually intermingled along with these tribes, and they took on some of the names as well. So it's hard. So just sit back. We're gonna go into that.
+- During the early Minoan period. I'll say it again: during the early Minoan period. The reason why they have to say early is because later on you're going to understand that there's Israelite traces within the Japhetic empire. In the previous episodes, shows such as *Walking with the Giants*, that was gone into thoroughly, concerning the different Israelite tribes, such as Dan, and not just Dan only, but the kingdom in general inhabited so many different territories, that what we think all of Japheth, Israel actually intermingled along with these tribes, and they took on some of the names as well. So it's hard. So just sit back. We're gonna go into that.
 
 - *[[1:47:48](https://www.youtube.com/watch?v=vIInvlEhZMI&t=6468s)]* I'm not gonna make any promises, because I understand the amount of research and work it takes to be able to put together this information, and we only have a week's time to do it. These things really take months. So just to let you know the amount of time and effort it takes to put in these books: this is an everyday effort, all-day type of thing, in order to find this information. So that's why we ask you, brothers and sisters, that you could donate to the show, like I said, to help assist us in the purchase of these books. It's a lot of time, a lot of effort, to present this before you, so that we could uncover the lies. So please help us, Israel. Like I said, it's going to help us reveal the mysteries of Babylon the great, and reveal Esau's true nature, and how he pretty much assumed everybody's identity and stole it.
 
@@ -742,7 +738,7 @@ Reading from *Great Prophecies Concerning Europe* (no author named), page 13, on
 
 > Consequently, the families of the sons of Javan were the oldest among the group of Japheth's younger sons that first settled in the isles of southwestern Europe, and were also known to be the nearest in proximity to the people of Asia Minor. Each family of the four sons of Javan mentioned in the scriptures also had a name among the isles of the Gentiles, because they were the very first among the families of Japheth to commence the civilization on the isles of Western Europe. Isaiah 2:16, Ezekiel 26:7, verses 6 to 7. Tarshish, the second son of Javan, was the ancestor of the people that had a Bronze Age civilization that was much ahead of their time on the island of Crete.
 
-- Read it again. Tarshish. A correction: Tarshish, from earlier. So it says Tarshish, the second son of Javan, was the ancestor of the people that had a Bronze Age civilization that was much ahead of their time on the island of Crete. So Tarshish inhabited the island of Crete.
+- Tarshish. A correction: Tarshish, from earlier. So it says Tarshish, the second son of Javan, was the ancestor of the people that had a Bronze Age civilization that was much ahead of their time on the island of Crete. So Tarshish inhabited the island of Crete.
 
 > The archaeologist Arthur Evans referred to the descendants of Tarshish as the Minoans,
 
@@ -768,13 +764,13 @@ Reading from *Great Prophecies Concerning Europe* (no author named), page 13, on
 
 > <sup>[7](/bible/genesis/2#v7)</sup> And the Lord God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
 
-- Right. So the Most High... everybody was black up until Esau. All right, everybody was black up until Esau. So that was just one artifact real quick. All right, can we go back to the Minoan civilization?
+- So the Most High... everybody was black up until Esau. All right, everybody was black up until Esau. So that was just one artifact real quick. All right, can we go back to the Minoan civilization?
 
 - **Officer:** You good, Cap?
 
 - **Deacon Eythan:** Yep. A lot of tea, a lot of water.
 
-- *[[1:55:32](https://www.youtube.com/watch?v=vIInvlEhZMI&t=6932s)]* There's a picture. Go to images. Put in Minoan civilization map. Enlarge it, enlarge it, enlarge it. Go to that. Okay, over there. Go down, go down, go down. Go to the right. Right there. Oh, wow. What do you notice? Map of the Minoan civilization. Now remember, the Minoans was only relegated to the island of Crete. But what did they do, under Sir Arthur Evans? They made the Minoan civilization encompass Macedonia, the Peloponnese, Crete, all of the Greek or Asia Minor territories. So Minoan replaced Japheth as a whole. That's why it's hard to trace Japhetic territories, or any artifacts, images concerning them. It's almost impossible. That's why you got to pay attention to the details. Now let's go back.
+- *[[1:55:32](https://www.youtube.com/watch?v=vIInvlEhZMI&t=6932s)]* There's a picture. Go to images. Put in Minoan civilization map. Enlarge it, enlarge it, enlarge it. Go to that. Okay, over there. Go to the right. Right there. What do you notice? Map of the Minoan civilization. Now remember, the Minoans was only relegated to the island of Crete. But what did they do, under Sir Arthur Evans? They made the Minoan civilization encompass Macedonia, the Peloponnese, Crete, all of the Greek or Asia Minor territories. So Minoan replaced Japheth as a whole. That's why it's hard to trace Japhetic territories, or any artifacts, images concerning them. It's almost impossible. That's why you got to pay attention to the details. Now let's go back.
 
 <div class="reading">
 
@@ -796,11 +792,11 @@ Reading from *Great Prophecies Concerning Europe*, page 13, continued  *[[1:56:5
 
 - **Deacon Eythan:** And then you have François Champollion, the Manetho for Egypt. So he had different scholars that was designated to different territories within history. François Champollion was responsible for the territories in Egypt. That's why a lot of people think the Caucasians today are Egyptians.
 
-- **Officer:** Right. Yes. He was the first Egyptologist. He's the one that translated the Rosetta Stone, in order to translate the hieroglyphs in ancient Egypt. He's where Egyptology comes from. He's the father of Egyptology today. And you got our brothers out there in Egyptology following the white man.
+- **Officer:** Yes. He was the first Egyptologist. He's the one that translated the Rosetta Stone, in order to translate the hieroglyphs in ancient Egypt. He's where Egyptology comes from. He's the father of Egyptology today. And you got our brothers out there in Egyptology following the white man.
 
 - **Deacon Eythan:** Exactly.
 
-- **Officer:** Could you bring that last literature back, right where you ended? Read that real quick: Tarshish was thy merchant by reason of the multitude of all kind of riches; with silver, iron, tin, and lead they traded in thy fairs. Javan, Tubal, and Meshech, they were thy merchants. Could I really connect that with a scripture? Second Chronicles 9:21. This nation is clearly spoken of in the scriptures, but we go everywhere else to prove the identity of these people. Meanwhile, we have it in our scriptures, just to show you the same characteristic we just read about is documented. Go ahead.
+- **Officer:** Could you bring that last literature back, right where you ended? Read that real quick: Tarshish was thy merchant by reason of the multitude of all kind of riches; with silver, iron, tin, and lead they traded in thy fairs. Javan, Tubal, and Meshech, they were thy merchants. Could I really connect that with a scripture? Second Chronicles 9:21. This nation is clearly spoken of in the scriptures, but we go everywhere else to prove the identity of these people. Meanwhile, we have it in our scriptures, just to show you the same characteristic we just read about is documented.
 
 </div>
 
@@ -830,7 +826,7 @@ Reading from *The Church Quarterly Review* for October 1905 to January 1906, on 
 
 > These figures suggest that the Minoans belonged to the dark-skinned, long-headed Mediterranean race.
 
-- Right. Tarshish, Spain. The people that lived on Crete also belonged to the elongated, dark-skinned Mediterranean race. Not the people that inhabit the Mediterranean today, but the true ones were dark-skinned people. Now let's go to the next page.
+- Tarshish, Spain. The people that lived on Crete also belonged to the elongated, dark-skinned Mediterranean race. Not the people that inhabit the Mediterranean today, but the true ones were dark-skinned people. Now let's go to the next page.
 
 > ...grant with most ethnologists that practically the whole basin of the Mediterranean
 
@@ -874,7 +870,7 @@ Reading from *The Church Quarterly Review* for October 1905 to January 1906, on 
 
 - **Officer:** And you guys should know this from the Zondervan Bible dictionary. Under Ham, it tells you exactly what Cap just said.
 
-- **Deacon Eythan:** Yup. Exactly. Now let's go back into *The Image of the Black in Western Art*. Let's get the first page. Blow that up. All right, thank you.
+- **Deacon Eythan:** Yup. Exactly. Now let's go back into *The Image of the Black in Western Art*. Let's get the first page. Blow that up.
 
 <div class="reading">
 
@@ -894,7 +890,7 @@ Reading from *The Image of the Black in Western Art: From the Pharaohs to the Fa
 
 > ...clearly negroid people...
 
-- Oh gosh. Yeah, this is crazy. Come on.
+- Oh gosh. Yeah, this is crazy.
 
 > ...this scene is, as Sir Arthur Evans suggested, a pictorial record of a Minoan expedition in Africa. Pendants in the form of Negro heads appear on a fragment of a painted stucco relief dating from Middle Minoan III.
 
@@ -902,7 +898,7 @@ Reading from *The Image of the Black in Western Art: From the Pharaohs to the Fa
 
 > Scholars are in greater agreement with respect to their interpretation of the black spearmen who appear in a fragment of a fresco which Evans called the Captain of the Blacks, belonging to Late Minoan II.
 
-- The Captain of the Blacks, belonging to Late Minoan II. Now let's get the next book. Sorry, not the next; 147. If you look at 144, go to the image. Come on. Look at that. Ain't no white. Get a white person out of that. That's Japheth right there. Oh, you thought? We got more. But wait, there's more. Oh, wait, there's more. Keep going.
+- The Captain of the Blacks, belonging to Late Minoan II. Now let's get the next book. Sorry, not the next; 147. If you look at 144, go to the image. Look at that. Ain't no white. Get a white person out of that. That's Japheth right there. Oh, you thought? We got more. But wait, there's more. Oh, wait, there's more.
 
 > Significant additions to our knowledge of Negroes in pre-classical Greece have been made by recent archaeological finds. A fragmentary fresco discovered in an excavation in 1968, and dated between 1550 and 1500 BC, gives us a representation of an inhabitant of that island whose physical traits
 
@@ -926,7 +922,7 @@ Reading from *The Image of the Black in Western Art: From the Pharaohs to the Fa
 
 **Text:** Shalom, Most High, Christ blessed. What was the image in the Western Art page, the one you went to before and the one you are now?
 
-Where we were, it was just two pages. We start at 142, page 142, and 143. Okay, keep going. All right, so we have a picture up here. Is there any caption on this picture? No. So this is, let me see which one is that. I think that was one of the descriptions where he described dark skin. Okay, yeah. So on the last page, this is one of the images that he was depicting to be dark-skinned. Dark-skinned people, big lips. Look at him, right? Very dark. So this is Tarshish, or Japheth.
+Where we were, it was just two pages. We start at 142, page 142, and 143. All right, so we have a picture up here. Is there any caption on this picture? No. So this is, let me see which one is that. I think that was one of the descriptions where he described dark skin. Okay, yeah. So on the last page, this is one of the images that he was depicting to be dark-skinned. Dark-skinned people, big lips. Look at him, right? Very dark. So this is Tarshish, or Japheth.
 
 **Officer:** Okay, you made a statement earlier, like, before we conquered those areas. Was that before, like, Solomon's period?
 
@@ -942,7 +938,7 @@ Reading from *The Image of the Black in Western Art*, pages 145 to 149, the plat
 
 > The Captain of the Blacks, Late Minoan II, c. 1550 to 1500 BC.
 
-- So this was, Sir Arthur Evans was talking about one of the war relics that he found. So that's the picture right there. Go back to the last one. Okay, that's it: the Captain of the Blacks. So he was the captain of the Minoans, or Tarshish, the descendants of Javan as well as Japheth. Okay, let's go to the next. Let's go to page 146. Those are the different images, Minoan images, or Japhetic images: dark skin, curly hair. Go up. Yep. More brown images. I want to save page 146 for last.
+- So this was, Sir Arthur Evans was talking about one of the war relics that he found. So that's the picture right there. Go back to the last one. Okay, that's it: the Captain of the Blacks. So he was the captain of the Minoans, or Tarshish, the descendants of Javan as well as Japheth. Okay, let's go to the next. Let's go to page 146. Those are the different images, Minoan images, or Japhetic images: dark skin, curly hair. Yep. More brown images. I want to save page 146 for last.
 
 - **Officer:** There's an underline over there. I don't know if you want to read that, Cap.
 
@@ -962,7 +958,7 @@ Reading from *The Image of the Black in Western Art*, pages 145 to 149, the plat
 
 - **Officer:** Yes.
 
-- **Deacon Eythan:** Right. So Citti means Kittim, Cyprus. So this is a head from Cyprus, or Kittim, one of Japheth's sons, or Javan's son. So now let's go to page 148. Go up. Okay.
+- **Deacon Eythan:** So Citti means Kittim, Cyprus. So this is a head from Cyprus, or Kittim, one of Japheth's sons, or Javan's son. So now let's go to page 148.
 
 - **Officer:** So, Captain, you have nothing online?
 
@@ -970,7 +966,7 @@ Reading from *The Image of the Black in Western Art*, pages 145 to 149, the plat
 
 > Scenes from Hercules fighting against the Egyptians.
 
-- A scene from Hercules fighting what? Against the Egyptians. Zoom in and see what Hercules look like. They're all black. You can't tell; they're all black. So Hercules, go to the right. Hercules looks like the bigger one right there. Yeah, that's right. That circle right there. Zoom in more. Look at this. Nappy. Look at it. Look at that Hercules. Hercules fighting against the Egyptians. Wow. There's a reason why, in the new cast of Hercules, they chose The Rock. So The Rock's mother was... You don't know that, Hercules. I'm gonna need my sound bites. Let's go to the next one. You don't know; he wants his royalties.
+- A scene from Hercules fighting what? Against the Egyptians. Zoom in and see what Hercules look like. They're all black. You can't tell; they're all black. So Hercules, go to the right. Hercules looks like the bigger one right there. Yeah, that's right. That circle right there. Zoom in more. Look at this. Nappy. Look at it. Look at that Hercules. Hercules fighting against the Egyptians. There's a reason why, in the new cast of Hercules, they chose The Rock. So The Rock's mother was... You don't know that, Hercules. I'm gonna need my sound bites. Let's go to the next one. You don't know; he wants his royalties.
 
 - *[[2:19:37](https://www.youtube.com/watch?v=vIInvlEhZMI&t=8377s)]* Look at that: dark black. And look at the hair textures. And you're going to see the difference in the Hellenic. Remember, Jazz, what's going over: you see the distinguished hair texture in the Hellenistic period, as well as the features, it begins to change.
 
@@ -980,7 +976,7 @@ Reading from *The Image of the Black in Western Art*, pages 145 to 149, the plat
 
 - **Officer:** Oh, yes. Memnon. Memnon.
 
-- **Deacon Eythan:** That's around the time we came here. That's up to 550; that might be us. Let's go to the next one. A Spartan. All right, let's go to one, because that could be us. Like I said, that's why I said you got to be able to distinguish us between them. So we'll touch that. But let's go back to page 146. Let's get into it. So the Minoans, let's make that transition. Oh, who are these people? Actually, go back. Let's go back to where it says the sculptures. Go back to page 143. I believe that's the place that touched the sculptures, right? Go back a page. Blow it up.
+- **Deacon Eythan:** That's around the time we came here. That's up to 550; that might be us. Let's go to the next one. A Spartan. All right, let's go to one, because that could be us. Like I said, that's why I said you got to be able to distinguish us between them. So we'll touch that. But let's go back to page 146. So the Minoans, let's make that transition. Oh, who are these people? Actually, go back. Let's go back to where it says the sculptures. Go back to page 143. I believe that's the place that touched the sculptures, right? Go back a page. Blow it up.
 
 </div>
 
@@ -994,13 +990,13 @@ Reading from *The Image of the Black in Western Art*, page 143, read again from 
 
 > Among the fiances showing house fronts, Middle Minoan II, there is one in which are seen the prowl of a ship and swarthy... this scene is, as Sir Arthur Evans suggested, a pictorial record of a Minoan expedition in Africa. Pendants in the form of Negro heads
 
-- Pendants in the form of Negro heads. Go on. Where you going? Keep going.
+- Pendants in the form of Negro heads. Go on. Where you going?
 
 > ...this scene is, as Sir Arthur Evans suggested, a pictorial record of a Minoan expedition in Africa. Pendants in the form of Negro heads appear on a fragment of a painted stucco relief.
 
 - Now let's go back to page 146. We're almost done. Now who does this look like to you? So these are the painted images of so-called Negro heads. Who does this look like? This is Japheth. These are the so-called Minoans, Japheth, Tarshish. Who does this look like to you? You be the judge. This is the Japhetic race. Look at the nose. I want you to look at the nose. Look at the eyebrows, look at the lips, look at the hairline, look at the head structure. This is Japheth in its true essence. I'll say it again: this is Japheth in its true essence, the Minoans. Because I want the afro... look at the afro. No more fables, Israel.
 
-- *[[2:24:17](https://www.youtube.com/watch?v=vIInvlEhZMI&t=8657s)]* Now go to page 156. Look at that. Come on, come on. What people is this today? What people? What race? What ethnic group is this today? What people is this? Stop it. Stop the lies. You a liar. Now let's get the images on the Telegram, the modern-day. You got it? Go to the next one. Go to the next one. Look at them heads. Wow. This is Japheth. This is Japheth today: your Polynesians, your Samoans, your Hawaiians. Go to the next one. Those in New Zealand and Australia. Fiji.
+- *[[2:24:17](https://www.youtube.com/watch?v=vIInvlEhZMI&t=8657s)]* Now go to page 156. Look at that. What people is this today? What people? What race? What ethnic group is this today? What people is this? Stop it. Stop the lies. You a liar. You got it? Go to the next one. Go to the next one. Look at them heads. This is Japheth. This is Japheth today: your Polynesians, your Samoans, your Hawaiians. Go to the next one. Those in New Zealand and Australia. Fiji.
 
 - **Officer:** He kind of looked like one of them dudes back in the days, Dolemite or something.
 
@@ -1032,11 +1028,11 @@ Reading from an article on modern Hawaiian and Polynesian and the Greek travels,
 
 > Greek fleets left Egypt and followed the African coast to the African Horn, and rounded it, sailing down south along the East African coast. These journeys took them all the way down to modern Mozambique and Tanzania, where they traded with the Sabaean communities. What was the extent of the Greek travels? Either most of the ancient Minoan and Mycenaean heritage was totally forgotten by the 4th century BC,
 
-- I want to read that again. Read it closely. Read that part again. What was the extent of the Greek travels? Either most of the ancient Minoans... most of the ancient Minoans and Mycenaean heritage was totally forgotten. Was totally forgotten about what time period? By the 4th century BC. That's when Philip of Macedon and Alexander came into power. All the Mycenaeans, the Minoans' heritage was forgotten. I mean, it was erased from history.
+- Read it closely. What was the extent of the Greek travels? Either most of the ancient Minoans... most of the ancient Minoans and Mycenaean heritage was totally forgotten. Was totally forgotten about what time period? By the 4th century BC. That's when Philip of Macedon and Alexander came into power. All the Mycenaeans, the Minoans' heritage was forgotten. I mean, it was erased from history.
 
 > or some of it was never known to the Greeks.
 
-- All the Greeks just didn't care to look into it? But that's not the case. Esau is deep. They understood it and they hid it from the world. Because why? They try to hide who they are. That's what's called Mystery Babylon the Great. It's a mystery, Esau. Because Esau became everybody. Don't worry, Esau: wherever you go, when you move, we move. Right? Just like that.
+- All the Greeks just didn't care to look into it? But that's not the case. Esau is deep. They understood it and they hid it from the world. Because why? They try to hide who they are. That's what's called Mystery Babylon the Great. It's a mystery, Esau. Because Esau became everybody. Don't worry, Esau: wherever you go, when you move, we move. Just like that.
 
 > But their own travels established them as pioneers in their own right. Modern Hawaiian and Polynesian still contain some ancient Greek words,
 
@@ -1052,15 +1048,15 @@ Reading from an article on modern Hawaiian and Polynesian and the Greek travels,
 
 </div>
 
-*[[2:30:47](https://www.youtube.com/watch?v=vIInvlEhZMI&t=9047s)]* These are all your Polynesians. Go down, go down, go down. Look at the islands: no different from the Greek islands, Crete, Kittim, Cyprus. These are people of the sea. They've always been that way. Go down. All the Gentiles.
+*[[2:30:47](https://www.youtube.com/watch?v=vIInvlEhZMI&t=9047s)]* These are all your Polynesians. Look at the islands: no different from the Greek islands, Crete, Kittim, Cyprus. These are people of the sea. They've always been that way. All the Gentiles.
 
 **Officer:** And check this out. It's the same thing, if you guys got kids. I said kids because, you know, my daughter watched *Moana*, right? I was gonna bring that up earlier.
 
 **Deacon Eythan:** No, no, no, go ahead, go ahead.
 
-**Officer:** Okay. So it's the same thing in *Moana*. They took on the same traditions, and they worship these things, the sea and all that. What I picked up from that cartoon: you notice they put a hue to the characters. They could have just made them pale white, but they put a hue to them. But that goes over our head.
+**Officer:** So it's the same thing in *Moana*. They took on the same traditions, and they worship these things, the sea and all that. What I picked up from that cartoon: you notice they put a hue to the characters. They could have just made them pale white, but they put a hue to them. But that goes over our head.
 
-**Deacon Eythan:** Yeah. Those are the original negroids. Exactly. And big heads too. Like the relics, they have big old heads, big giganto long heads. Even the babies. Yeah, long-ass heads. Go down, go down, go down, keep going, to show you the different Pacific Islands and the tribes that inhabit those areas. Keep going. All right, here: American Samoa. So these are the different territories. Cook Islands. Easter Island. French Polynesia. Hawaii. Hawaii, the Samoans. New Zealand. New Zealand has the most Polynesians, or Japheth; I think it's something like a crazy amount of numbers. It's a big island. The Maori, I think they call them. Norfolk Island, Pitcairn Islands, Samoa, Tokelau, Tonga, Tuvalu, Wallis and Futuna. So they were displaced and migrated to the Pacific Ocean. Now go back. Go to the last book.
+**Deacon Eythan:** Yeah. Those are the original negroids. Exactly. And big heads too. Like the relics, they have big old heads, big giganto long heads. Even the babies. Yeah, long-ass heads. Go down, go down, go down, keep going, to show you the different Pacific Islands and the tribes that inhabit those areas. All right, here: American Samoa. So these are the different territories. Cook Islands. Easter Island. French Polynesia. Hawaii. Hawaii, the Samoans. New Zealand. New Zealand has the most Polynesians, or Japheth; I think it's something like a crazy amount of numbers. It's a big island. The Maori, I think they call them. Norfolk Island, Pitcairn Islands, Samoa, Tokelau, Tonga, Tuvalu, Wallis and Futuna. So they were displaced and migrated to the Pacific Ocean. Now go back. Go to the last book.
 
 **Officer:** I believe it tells you that originally they called all them Pacific Islands Polynesia, and then later on they went and specified only these islands. But at first, they're all Polynesia, right?
 
@@ -1070,7 +1066,7 @@ Reading from *A Polynesian Olympiad*  *[[2:33:13](https://www.youtube.com/watch?
 
 > The Olympian games that died with ancient Greece have been reborn in modern Athens. In fact, the Olympian games of today most like those of the ancient Greeks are the Polynesian pastimes which Hawaii, our island territory in the mid-Pacific, proposes to revive.
 
-- Wait, can you read that again? Esau steals everything, even the Olympian games. I'm gonna read that whole paragraph.
+- Esau steals everything, even the Olympian games. I'm gonna read that whole paragraph.
 
 > The Olympian games that died with ancient Greece have been reborn in modern Athens, but no longer held at Olympia. Their spirit is everywhere, even in the far-off mid-Pacific, where a primitive people gathered every now and then to indulge in those athletic sports that the old world knew as the Olympian games. In fact, the Olympian games of today most like those of the ancient Greeks
 
@@ -1094,9 +1090,9 @@ Reading from *A Polynesian Olympiad*  *[[2:33:13](https://www.youtube.com/watch?
 
 *[[2:35:29](https://www.youtube.com/watch?v=vIInvlEhZMI&t=9329s)]* So with that, another round of applause. All praise to the Most High, and his Son, for the wonderful information that was brought out today. Stuff that, you know, this is turned up today. Yes, indeed.
 
-*[[2:36:40](https://www.youtube.com/watch?v=vIInvlEhZMI&t=9400s)]* Shout out to the IT team. You guys did great today, guys. A shout out to the kitchen team, the breakfast crew, you the best. We're not feeding Cap before the show; he may be a little famished, but we're gonna give him a lot of tea and water.
+*[[2:36:40](https://www.youtube.com/watch?v=vIInvlEhZMI&t=9400s)]* You guys did great today, guys. We're not feeding Cap before the show; he may be a little famished, but we're gonna give him a lot of tea and water.
 
-*[[2:36:58](https://www.youtube.com/watch?v=vIInvlEhZMI&t=9418s)]* Hey, shout out to these two young brothers, man, Brother Ira and Brother Aaron. These brothers are very diligent. They research just as much as us. Y'all stay in the spirit. All right. And with that, we say shalom.
+*[[2:36:58](https://www.youtube.com/watch?v=vIInvlEhZMI&t=9418s)]* These brothers are very diligent. They research just as much as us. Y'all stay in the spirit. And with that, we say shalom.
 
 ## Announcements & References
 

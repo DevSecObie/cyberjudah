@@ -18,7 +18,7 @@ tags: ["Our Hidden History", "christ", "rome"]
 
 ## Introduction
 
-*[[13:27](https://www.youtube.com/watch?v=0WsIEVjRGos&t=807s)]* Shalom. Shalom, y'all. You're now tuned in to Our Hidden History radio show. Hey, shout out to IT and the cameraman. Welcome back to Our Hidden History. We're back.
+*[[13:27](https://www.youtube.com/watch?v=0WsIEVjRGos&t=807s)]* You're now tuned in to Our Hidden History radio show.
 
 *[[13:45](https://www.youtube.com/watch?v=0WsIEVjRGos&t=825s)]* Last week we ended off with the death of Paul. So remember what we're going into: we're dealing with Nero, the sixth feather. Remember, we dealing with the twelve feathers. Get the scripture in 2 Esdras. We dealing with the twelve feathers. 2 Esdras chapter 11, and let me start at verse 11.
 
@@ -56,7 +56,7 @@ tags: ["Our Hidden History", "christ", "rome"]
 >
 > <sup>[14](/bible/2-esdras/12#v14)</sup> In the same shall twelve kings reign, one after another:
 
-- So twelve kings, the twelve Caesars. Put that up. You can put it up: the twelve Caesars, known as the twelve feathers.
+- So twelve kings, the twelve Caesars. You can put it up: the twelve Caesars, known as the twelve feathers.
 
 > <sup>[15](/bible/2-esdras/12#v15)</sup> Whereof the second shall begin to reign, and shall have more time than any of the twelve.
 
@@ -108,11 +108,11 @@ Reading from *Caesar and Christ* by Will Durant, pages 590 and 591, on the marty
 
 > We have no ancient record of the trial; but Tertullian, writing about 200, reports that Paul was beheaded at Rome,
 
-- Right. So Paul was beheaded at Rome.
+- So Paul was beheaded at Rome.
 
 > and Origen, about 220, writes that Paul suffered martyrdom in Rome under Nero. Probably, as a Roman citizen, he had the honor of a distinct execution, and was not mingled with the Christians crucified after the fire of 64.
 
-- Right. So remember, the Christians, those of us that was crucified, was hung on crosses. Paul, because he was a Roman citizen, he was able to get a distinct execution, so he chose to be beheaded. Okay, read on.
+- So remember, the Christians, those of us that was crucified, was hung on crosses. Paul, because he was a Roman citizen, he was able to get a distinct execution, so he chose to be beheaded.
 
 > Tradition united him with Peter in a simultaneous though separate martyrdom, and a touching legend pictured the great rivals meeting in friendship on the road to death. Over the place on the Via where the Church believed that Paul had found peace, a shrine was raised in the third century; remade in ever fairer form, it stands today as the Basilica of St. Paul, St. Paul beyond the walls.
 
@@ -134,7 +134,7 @@ Reading from a definition of maiestas, pulled up on the Telegram  *[[23:23](http
 
 > and by the frustration of the will of popular assemblies through obstruction. However, the vagueness of the phrase made this a portmanteau charge, which could be deployed against any form of treason,
 
-- There you go. Any form of treason. Read on.
+- Any form of treason.
 
 > revolt or failure in public duty.
 
@@ -142,7 +142,7 @@ Reading from a definition of maiestas, pulled up on the Telegram  *[[23:23](http
 
 > In the 90s BCE it was turned against an allegedly seditious tribune
 
-- No. If you read where it says up top, the diminution of the majesty of the Roman people. So if you're calling somebody else a king, you're making the majesty of the Roman people, which is the emperor, you're making him less, because you're saying he's not the king, he's not the emperor, somebody else is. So you're diminishing his majesty. Same thing with Christ. So they consider it's treason: you calling somebody else king in their empire, like, what, you trying to say I'm not king, I'm not emperor? So that's treason. All right, so maiestas is going into treason. All praises. All right, you could get out of that.
+- No. If you read where it says up top, the diminution of the majesty of the Roman people. So if you're calling somebody else a king, you're making the majesty of the Roman people, which is the emperor, you're making him less, because you're saying he's not the king, he's not the emperor, somebody else is. So you're diminishing his majesty. Same thing with Christ. So they consider it's treason: you calling somebody else king in their empire, like, what, you trying to say I'm not king, I'm not emperor? So that's treason. All right, so maiestas is going into treason. All right, you could get out of that.
 
 </div>
 
@@ -164,7 +164,7 @@ Reading from a definition of maiestas, pulled up on the Telegram  *[[23:23](http
 
 > <sup>[15](/bible/john/21#v15)</sup> So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs.
 
-- Yeah, Lord, you know I love you. Come on, man. So Christ said: if you love me, then feed my lambs. Feed my sheep.
+- Yeah, Lord, you know I love you. So Christ said: if you love me, then feed my lambs. Feed my sheep.
 
 > <sup>[16](/bible/john/21#v16)</sup> He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep.
 
@@ -176,7 +176,7 @@ Reading from a definition of maiestas, pulled up on the Telegram  *[[23:23](http
 
 > <sup>[18](/bible/john/21#v18)</sup> Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not.
 
-- Hold on, hold on. He said verily, verily. Verily, verily means truly, truly I say unto you. When thou wast young, thou girdedst thyself, meaning you was able to dress yourself, Peter. And you would go wherever you wanted to go. But when you get old, and in age, when you stretch forth your hand, you're going to get locked up. That's what he's saying. And this person is going to carry you where you would never thought to go, where you don't want to go. Not cuz they knew they was going to be locked up and persecuted, but he's saying you going to be carried where you don't want to go.
+- He said verily, verily. Verily, verily means truly, truly I say unto you. When thou wast young, thou girdedst thyself, meaning you was able to dress yourself, Peter. And you would go wherever you wanted to go. But when you get old, and in age, when you stretch forth your hand, you're going to get locked up. That's what he's saying. And this person is going to carry you where you would never thought to go, where you don't want to go. Not cuz they knew they was going to be locked up and persecuted, but he's saying you going to be carried where you don't want to go.
 
 > <sup>[19](/bible/john/21#v19)</sup> This spake he, signifying by what death he should glorify God. And when he had spoken this, he saith unto him, Follow me.
 
@@ -200,7 +200,7 @@ Reading from a definition of maiestas, pulled up on the Telegram  *[[23:23](http
 
 > <sup>[24](/bible/john/21#v24)</sup> This is the disciple which testifieth of these things, and wrote these things: and we know that his testimony is true.
 
-- Hold on, hold on. Read verse 24, and read it slow. So John is talking about himself. So John is saying, I'm the one that he was talking about, and I'm the one that's writing this down. But he's referring to me; he want to know what was going to happen with me.
+- Read verse 24, and read it slow. So John is talking about himself. So John is saying, I'm the one that he was talking about, and I'm the one that's writing this down. But he's referring to me; he want to know what was going to happen with me.
 
 > <sup>[25](/bible/john/21#v25)</sup> And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen.
 
@@ -212,7 +212,7 @@ Reading from a definition of maiestas, pulled up on the Telegram  *[[23:23](http
 
 > <sup>[10](/bible/2-peter/1#v10)</sup> Wherefore the rather, brethren, give diligence to make your calling and election sure: for if ye do these things, ye shall never fall:
 
-- So we all have to practice this. We must give diligence to make our election sure. We see the prophecies that's coming out. Bishop is going in right now, and he's letting us know what's going to happen with us, but we must keep moving. We got to have that faith to keep moving, push this truth. We got to make our election sure, our calling sure. Okay, read it again.
+- So we all have to practice this. We must give diligence to make our election sure. We see the prophecies that's coming out. Bishop is going in right now, and he's letting us know what's going to happen with us, but we must keep moving. We got to have that faith to keep moving, push this truth. We got to make our election sure, our calling sure.
 
 - Hey, look up the word diligence. Look up the word diligence.
 
@@ -222,7 +222,7 @@ Reading from a definition of the word diligence, with its synonyms  *[[34:20](ht
 
 > Diligence: careful and persistent work or effort.
 
-- Careful and persistent. Like, this brother stays on that path. He's careful, and he's very persistent in his work. Go ahead, read. Get some synonyms.
+- Careful and persistent. Like, this brother stays on that path. He's careful, and he's very persistent in his work. Get some synonyms.
 
 > Conscientiousness, industriousness, rigor, rigorousness, meticulousness, carefulness, thoroughness, attentiveness.
 
@@ -242,7 +242,7 @@ Reading from a definition of the word diligence, with its synonyms  *[[34:20](ht
 
 > persistence, tenacity, tirelessness,
 
-- This brother, he stayed disciplined. He's tirelessness; he don't care about rest. Effort, concentration and care, attention: he pays attention, like an officer was saying, attention to detail. Continuance. So read it again, Officer Abdon.
+- This brother, he stayed disciplined. He's tirelessness; he don't care about rest. Effort, concentration and care, attention: he pays attention, like an officer was saying, attention to detail. Continuance.
 
 </div>
 
@@ -266,9 +266,9 @@ Reading from a definition of the word diligence, with its synonyms  *[[34:20](ht
 
 > <sup>[15](/bible/2-peter/1#v15)</sup> Moreover I will endeavour that ye may be able after my decease to have these things always in remembrance.
 
-- Right. So the things that Peter was writing to the churches in 1 Peter and 2 Peter.
+- So the things that Peter was writing to the churches in 1 Peter and 2 Peter.
 
-*[[37:50](https://www.youtube.com/watch?v=0WsIEVjRGos&t=2270s)]* Okay, now give me the page, page 575. Let me see, give me that page. Let me blow that up, starting all the way at the top. Go down a little bit. You can read that. We gonna jump, though; we gonna jump pages.
+*[[37:50](https://www.youtube.com/watch?v=0WsIEVjRGos&t=2270s)]* Okay, now give me the page, page 575. Let me blow that up, starting all the way at the top. You can read that. We gonna jump, though; we gonna jump pages.
 
 <div class="reading">
 
@@ -276,19 +276,17 @@ Reading from *Caesar and Christ* by Will Durant, page 575 and the page after, on
 
 > The Apostles. The apostles were apparently unanimous in believing that Christ would soon return to establish the Kingdom of Heaven on earth. “The end of all things is near,” says the First Epistle of Peter; “be serious and collected, therefore, and pray.” “Children,” says the First Epistle of John, “it is the last hour. You have heard that Antichrist was coming, and many Antichrists, Nero, Vespasian, Domitian,
 
-- So he names them: Nero, Vespasian, Domitian. Esau. They are the Antichrist, the whole race. Read it again.
+- So he names them: Nero, Vespasian, Domitian. Esau. They are the Antichrist, the whole race.
 
 > You have heard that Antichrist was coming, and many Antichrists, Nero, Vespasian, Domitian, have indeed appeared,” so “we may be sure that it is the last hour.” The belief in the messianic mission, bodily resurrection, and earthly return of Christ formed the basic faith of early Christianity. This creed did not prevent the apostles from continuing to accept Judaism. “Day after day,” says Acts, “they all went regularly to the temple”; they obeyed the dietetic and ceremonial laws.
 
-- So they were still keeping the laws. The apostles were still keeping the laws. Christ didn't come to do away with the law. The law was still in effect. Read.
+- So they were still keeping the laws. The apostles were still keeping the laws. Christ didn't come to do away with the law. The law was still in effect.
 
 > They proclaimed their faith at first only to Jews, and often preached it in the Temple courts. They believed that they had received from Christ, or the Holy Spirit, miraculous powers of inspiration, healing, and speech. Many sick and infirm persons came to them; some were cured, says Mark, by anointing with oil, always a popular treatment in the East.
 
-- Go down, go down. Let's skip some stuff. Go down, go to the next page. Let's get to the point. Yep, yep, right there.
+- Let's skip some stuff. Go down, go to the next page. Let's get to the point. Yep, yep, right there.
 
 > We do not know when, or by what stages, Peter made his way to Rome. Jerome, 390, dates his first arrival there as early as 42. The tradition that he played a leading role in establishing the Christian community in the capital has survived all criticism.
-
-- Watch this.
 
 > Lactantius speaks of Peter's coming to Rome in Nero's reign. Probably an apostle visited the city on divers occasions; he free and Paul imprisoned labored as rivals to win converts there, until both of them suffered martyrdom, perhaps in the same year, 64.
 
@@ -372,7 +370,7 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, page 29, o
 
 > and in vivid language, picturing the fire,
 
-- Remember Bishop last night went into the tortures that we're going to go under. Saying that we will be tortured again. Read it again.
+- Remember Bishop last night went into the tortures that we're going to go under. Saying that we will be tortured again.
 
 > in vivid language picturing the fire,
 
@@ -403,8 +401,6 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, page 29, o
 - So Rome, what they would do, they would heat up red hot irons, heat them up red hot, and put them on your flesh. Burn your flesh.
 
 > What, he asked his friend, are your sufferings compared with sufferings caused by these tortures? And yet, he adds, his eyes had seen these things endured; from the sufferer no groan was heard, no cry for mercy; nay, in the midst of all he had seen the bravely patient victim smile.
-
-- Read that again. Read it again.
 
 > And yet, he adds, his eyes had seen these things endured;
 
@@ -448,7 +444,7 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, page 29, o
 
 - Why they going want to kill the body? Because of what we are preaching. So Christ said, fear not them that can only kill the body, but they cannot kill your spirit.
 
-*[[54:50](https://www.youtube.com/watch?v=0WsIEVjRGos&t=3290s)]* So go back to the page. Let me get the page, blow it up. Yo, it got hot, right? Yeah, about to pass out. It was cold; now it's like, why y'all put it on the extreme? Hey, we gonna have to put somebody over the thermostat. Not Hezekiah. He said a soldier, that's his office, the thermostat. Hey, go ahead, read that again.
+*[[54:50](https://www.youtube.com/watch?v=0WsIEVjRGos&t=3290s)]* So go back to the page. Let me get the page, blow it up. Yo, it got hot, right? Yeah, about to pass out. It was cold; now it's like, why y'all put it on the extreme? Hey, we gonna have to put somebody over the thermostat. Not Hezekiah. He said a soldier, that's his office, the thermostat.
 
 <div class="reading">
 
@@ -461,8 +457,6 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, page 29, c
 - Hey, so he was a participant at the games. He seen these things go down.
 
 > No other scene would furnish such a memory, at once weird and pathetic. The strange ineffable smile of the Christian in pain and agony, dying for his God,
-
-- Read that again.
 
 > The strange ineffable smile of the Christian in pain and agony, dying for his God, had gone home to the heart of the great scholar statesman. Like many another Roman citizen of his day and time, Seneca had often seen men die,
 
@@ -494,11 +488,11 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, page 29, c
 >
 > <sup>[29](/bible/2-maccabees/7#v29)</sup> Fear not this tormentor, but, being worthy of thy brethren, take thy death that I may receive thee again in mercy with thy brethren.
 
-- **Officer:** So she knew. She said, we don't die, we translate. You understand? So this is why we got to teach our children, our sons, our history. You understand? Because the scripture also says nobody that ever put their trust in the Lord ever got destroyed or confounded.
+- **Officer:** So she knew. She said, we don't die, we translate. So this is why we got to teach our children, our sons, our history. Because the scripture also says nobody that ever put their trust in the Lord ever got destroyed or confounded.
 
 - **Deacon Eythan:** Yes.
 
-- **Officer:** You understand? So we have to teach. Like yesterday, we was teaching this young man about color, and this black woman came in with a big black mouth about, don't teach him, don't teach him about color. Then I have to tell her, man, shut the hell up. You understand? Cuz you don't teach them about color, and they go to a wrong neighborhood, and something happens to him. That's what's going to happen to him, because he's going to go on his way taking that, oh, we all equal, everybody love, love, love, love. And then he get hung. You understand? They lynch him, and then you're going to be crying on TV, why, why? You don't understand. It's because you fear to teach your children that, yo, the white man is the devil. Keep your children away from him. You understand? So that's why it's good: you got to teach these kids their history that's in the Bible. So that's a good education that she taught her son. She said, hey, listen, man, be a man, stand stiffly for the word of God. Don't fear him. I'll see you again.
+- **Officer:** So we have to teach. Like yesterday, we was teaching this young man about color, and this black woman came in with a big black mouth about, don't teach him, don't teach him about color. Then I have to tell her, man, shut the hell up. Cuz you don't teach them about color, and they go to a wrong neighborhood, and something happens to him. That's what's going to happen to him, because he's going to go on his way taking that, oh, we all equal, everybody love, love, love, love. And then he get hung. They lynch him, and then you're going to be crying on TV, why, why? You don't understand. It's because you fear to teach your children that, yo, the white man is the devil. Keep your children away from him. So that's why it's good: you got to teach these kids their history that's in the Bible. So that's a good education that she taught her son. She said, hey, listen, man, be a man, stand stiffly for the word of God. Don't fear him. I'll see you again.
 
 - **Deacon Eythan:** Mind you, this is after she already seen her other six sons be tortured and die in the same day. So after that she's here laughing, like, yo, you really think that I'm going to tell my son to do what you're telling him to do? So this is her youngest son now. I mean, read verse 20 as well.
 
@@ -506,11 +500,11 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, page 29, c
 
 > <sup>[20](/bible/2-maccabees/7#v20)</sup> But the mother was marvellous above all, and worthy of honourable memory: for when she saw her seven sons slain within the space of one day, she bare it with a good courage, because of the hope that she had in the Lord.
 
-- **Deacon Eythan:** You see that? That's why, what we're reading now, those that suffered patiently and they smiled. Why? Because of that good hope. We take it with good courage, knowing that, look.
+- **Deacon Eythan:** That's why, what we're reading now, those that suffered patiently and they smiled. Why? Because of that good hope. We take it with good courage, knowing that, look.
 
 - **Officer:** What's up? I was about to say, start at verse 10. You was cooking, though.
 
-- **Deacon Eythan:** Oh yeah, so yeah. Go ahead, my bad. Bring it out, bring it out. You good. The whole chapter is good.
+- **Deacon Eythan:** Oh yeah, so yeah. Bring it out, bring it out. You good. The whole chapter is good.
 
 - **Officer:** Yeah, the whole chapter is fire. Start at verse 10, cuz he bringing out the same thing that we just got finished reading.
 
@@ -528,7 +522,7 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, page 29, c
 
 - **Deacon Eythan:** Yep. I mean, think about it: when you're torturing somebody and they're not even screaming, they're laughing, they're enjoying it, that takes away the pleasure of torture. So you're like, yo, why am I even doing this? Because when people torture somebody, they want to see you suffer, and we're not even suffering. We're enjoying it, cuz we know what comes with it.
 
-- **Officer:** Right. And those brothers that we reading about, and the mother, had that strength because they were reading the law. They were remembering the works of their fathers. That's why it says in Psalm 78, we will not hide them from our children.
+- **Officer:** And those brothers that we reading about, and the mother, had that strength because they were reading the law. They were remembering the works of their fathers. That's why it says in Psalm 78, we will not hide them from our children.
 
 - **Deacon Eythan:** That's right.
 
@@ -574,13 +568,13 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, page 29, c
 
 > <sup>[37](/bible/2-maccabees/7#v37)</sup> But I, as my brethren, offer up my body and life for the laws of our fathers, beseeching God that he would speedily be merciful unto our nation; and that thou by torments and plagues mayest confess, that he alone is God;
 
-- **Officer:** Present your body a living sacrifice. Read on.
+- **Officer:** Present your body a living sacrifice.
 
 - **Deacon Eythan:** That's right.
 
 > <sup>[38](/bible/2-maccabees/7#v38)</sup> And that in me and my brethren the wrath of the Almighty, which is justly brought upon our nation, may cease.
 
-- **Officer:** So that's why Leviticus says you have to accept our punishment. We deserve that punishment, because the Lord's judgments is just. You understand? We deserve that. So we have to admit that, so the Lord continue to have mercy upon us.
+- **Officer:** So that's why Leviticus says you have to accept our punishment. We deserve that punishment, because the Lord's judgments is just. We deserve that. So we have to admit that, so the Lord continue to have mercy upon us.
 
 > <sup>[39](/bible/2-maccabees/7#v39)</sup> Then the king, being in a rage, handed him worse than all the rest, and took it grievously that he was mocked.
 
@@ -588,7 +582,7 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, page 29, c
 
 > <sup>[40](/bible/2-maccabees/7#v40)</sup> So this man died undefiled, and put his whole trust in the Lord.
 
-- **Officer:** Undefiled, cuz he didn't break the Most High's commandment. And this is what we got to do. We got to pray for that spirit, man. You understand? We got to pray for that spirit, because at those moments fear is going to come upon us. So that's why we got to pray for the Most High to take away those fears from us, so that we could stand stiffly in the face of death, so it could be undefiled, so the Most High can receive us into the everlasting covenant.
+- **Officer:** Undefiled, cuz he didn't break the Most High's commandment. And this is what we got to do. We got to pray for that spirit, man. We got to pray for that spirit, because at those moments fear is going to come upon us. So that's why we got to pray for the Most High to take away those fears from us, so that we could stand stiffly in the face of death, so it could be undefiled, so the Most High can receive us into the everlasting covenant.
 
 > <sup>[41](/bible/2-maccabees/7#v41)</sup> Last of all after the sons the mother died.
 >
@@ -632,7 +626,7 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, on the tra
 
 - He wasn't even worried about that.
 
-- **Officer:** That's right. His mind was strictly on Christ. That's scripture. He that loveth father; let's get it. It's like, yo, we was actually practicing what the Bible says. You understand? The real Christians.
+- **Officer:** That's right. His mind was strictly on Christ. That's scripture. He that loveth father; let's get it. It's like, yo, we was actually practicing what the Bible says. The real Christians.
 
 - **Deacon Eythan:** And then we gonna go to break soon. Matthew 10:37.
 
@@ -644,11 +638,11 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, on the tra
 
 - **Officer:** That's why he understood. He understood that he was applying that, actually.
 
-- **Deacon Eythan:** Right. And now you see the history of it here. They like, yo, we even threw out the fact about his wife and the children.
+- **Deacon Eythan:** And now you see the history of it here. They like, yo, we even threw out the fact about his wife and the children.
 
-- **Officer:** Like, yo, you know, cuz you being tortured, they throwing all types of stuff at you. You understand? So they're torturing your wife and your kids in front of you. It's a breaking period. The whole point of torture is to break your spirit.
+- **Officer:** Like, yo, you know, cuz you being tortured, they throwing all types of stuff at you. So they're torturing your wife and your kids in front of you. It's a breaking period. The whole point of torture is to break your spirit.
 
-- **Deacon Eythan:** Right. That's the whole point.
+- **Deacon Eythan:** That's the whole point.
 
 - **Officer:** My bad, I was going to say, we built different, like it's saying. Even remember when the Lord told Ezekiel, look, I'll take away your wife with a stroke, and you better not cry. You better not whimper. Don't put your head down. And he did that thing. Then he kept moving. He kept moving.
 
@@ -658,9 +652,7 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, on the tra
 
 - **Deacon Eythan:** So when they came back, they was like, yo, didn't we just torture this dude? Listen, the Lord was dealing with us.
 
-- **Officer:** Oh, praise.
-
-- **Deacon Eythan:** You understand? The Lord was dealing with us. He was tapped in. That's what we call it: he was tapped into the spirit. Hey, read on. If I can find that page also.
+- **Deacon Eythan:** The Lord was dealing with us. He was tapped in. That's what we call it: he was tapped into the spirit. Hey, read on. If I can find that page also.
 
 - **Officer:** Yeah, you got to find that thing.
 
@@ -672,11 +664,11 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, on the tra
 
 > “This is really marvelous, this power of disregarding pain and agony. Nothing seems to move him. He has a wife and little ones, but even the love of these touches him not. What is the secret of his strange power?
 
-- So they like, yo, what the hell? What's the secret of the strange power? How is he doing that? How is he able to sit here through pain and agony and just be chilling? Hopefully after break I can find a page to show you the example. So the brother wasn't worried about his family. Lord's will, after break I can have that page ready. Go ahead.
+- So they like, yo, what the hell? What's the secret of the strange power? How is he doing that? How is he able to sit here through pain and agony and just be chilling? Hopefully after break I can find a page to show you the example. So the brother wasn't worried about his family. Lord's will, after break I can have that page ready.
 
 > It can surely be no imaginary faith which enables him thus to welcome such suffering, such a death.”
 
-- Read that part again. It can surely be no imaginary faith: it can't be no BS faith that got him doing this. Imaginary. That's faith with works. So even the heathen that are torturing us, they're like, yo, whatever he believes in, that's true.
+- It can surely be no imaginary faith: it can't be no BS faith that got him doing this. Imaginary. That's faith with works. So even the heathen that are torturing us, they're like, yo, whatever he believes in, that's true.
 
 - **Officer:** Yeah, there's something real behind this.
 
@@ -684,7 +676,7 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, on the tra
 
 > which enables him thus to welcome such suffering, such a death. The moral effect of this endurance, of this serene acceptance of torture and death, both on persecutors and persecuted, was no doubt very great; it has probably been underrated. What we have just quoted from the treatise De Laude Martyrii
 
-- Hey, all right, drop that page. I just sent the page on Telegram. So I'm just going through how we were being martyred and so forth. It just said it's being underrated. Even what's written is underrated; that's not even the half of what they were actually seeing from us. Go down to the bottom, and we going to take a quick break. Go up, go up, right there. In the epistle to Romans 5.
+- Hey, all right, drop that page. So I'm just going through how we were being martyred and so forth. It just said it's being underrated. Even what's written is underrated; that's not even the half of what they were actually seeing from us. Go down to the bottom, and we going to take a quick break. Go up, go up, right there. In the epistle to Romans 5.
 
 </div>
 
@@ -694,7 +686,7 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, on Ignatiu
 
 > In the Epistle to the Romans, 5, we come upon the following curious statement concerning the arena wild beasts to which he was condemned: “May I have joy of the
 
-- Oh, go up, go up. It's a lot in here.
+- It's a lot in here.
 
 > “Do not,” writes Ignatius, urging the Roman Church not to take any step which might hinder his anticipated death in the arena,
 
@@ -710,7 +702,7 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, on Ignatiu
 
 > the Roman brethren had cheered on many a dying Christian hero in his glorious contest.
 
-- Yo. So we were cheering on those of us that was going to martyrdom. That was like a game to us, like, oh, who's dying next? And we applause, happy for them. Read on. Watch this.
+- Yo. So we were cheering on those of us that was going to martyrdom. That was like a game to us, like, oh, who's dying next? And we applause, happy for them.
 
 > In the Epistle to the Romans, 5, we come upon the following curious statement concerning the arena wild beasts to which he was condemned: “May I have joy of the beasts that have been prepared for me; and I pray that I may find them ready; nay, I will entice them that they may devour me quickly,
 
@@ -718,7 +710,7 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, on Ignatiu
 
 > not as they have done to some, refusing to touch them through fear;
 
-- You see that? Some of the beasts wouldn't even come near us.
+- Some of the beasts wouldn't even come near us.
 
 > yea, though of themselves they should not be willing while I am ready, I myself will force them to it.”
 
@@ -726,11 +718,11 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, on Ignatiu
 
 > This refusal of the wild beasts to touch their intended victims is by no means an uncommon incident in early martyrology. The capricious conduct of beasts suddenly released from confinement and darkness, and brought into the bright light of the amphitheater, with the dense crowds of spectators all around shouting applause or execration, is quite natural.
 
-- Read on. Watch it.
+- Watch it.
 
 > It is by no means necessary to impart the miraculous into all these stories, many of them absolutely authentic; still, that the Most High did at times close the mouths of the wild beasts is quite credible.
 
-- You see that? So sometime a lion, you know, they starve these lions, they starved all of them, they come running out, and they just turn away from us. They try to discredit the fact that the Most High closed their mouths, like it's just because they got scared, you know, they were in the dark and now a whole bunch of people are applauding, that's why they're scared and they didn't bite them. Like, nah, it was the Most High.
+- So sometime a lion, you know, they starve these lions, they starved all of them, they come running out, and they just turn away from us. They try to discredit the fact that the Most High closed their mouths, like it's just because they got scared, you know, they were in the dark and now a whole bunch of people are applauding, that's why they're scared and they didn't bite them. Like, nah, it was the Most High.
 
 - **Officer:** A fearless lion.
 
@@ -744,15 +736,13 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, on Ignatiu
 
 *[[1:18:40](https://www.youtube.com/watch?v=0WsIEVjRGos&t=4720s)]* The break: a song plays (“going all in, you can tell by my faith that I'm all in, front line with the truth... if I die for the truth that's a win-win, and going to the end, going all in”), then clips from the street: “Our whole purpose for coming out here is to gather the elect of our brothers and sisters scattered in the diaspora. King Solomon was the son of King David; Jesus Christ come from that bloodline. So Jesus Christ is not a white man; Jesus Christ is a black man.” “Recovering of sight to the blind: those that have been blinded through religion.” “We should encourage ourselves that we are Israelites, man.” “Jehovah's Witness got obliterated, bro. Today was a day of war, and the Most High got the victory. Who's the king? Christ.” “Do you think he's been a faithful witness to God, or a liar?” “Honestly, a liar.” “The time of the visitation is the resurrection of our people that died. When it says the dead in Christ shall rise first, this is when New Jerusalem is established again. We shall shine, and run to and fro with power, and we shall judge the nations, and have dominion over the people, and Christ shall reign forever and ever. Never give up.” “This is what we do, from island to island, state to state, country to country. This is our mission.” A rap plays (“to shake the whole earth with a boom when I hit the surface... devour all of these …, all of these serpents... in the Bible they call me flame and rebuke”). “What I just witnessed was pretty powerful: black men like that, disciplined, in formation. It sends a strong message, cuz I know it's hard for us to even visualize this. We have never seen a movie, a comic, where we've done great things. We got to visualize it, we got to show it, cuz it's written in the Bible. Isaiah 40 and 31. They shall mount up with wings as eagles. What you think that mean? Have you ever seen a man fly?” “Shalom, we down here at Johannesburg, South Africa. Today's our first day down here, very early morning right now, it's 7 o'clock. We on our way to do a podcast. Stay tuned to the day; we're going to tell you what's going on. Keep us in your prayers. Shalom.”
 
-*[[1:29:16](https://www.youtube.com/watch?v=0WsIEVjRGos&t=5356s)]* Shalom. We back from the break. All right, so we kind of found a page. Not the actual page from the book, but we have the link from a web page. But this is what I wanted to show you. Go back to the other page first, that we read before, the bottom, the first page of the martyrdom, and then we're going to link it up with this right here, the other page, the web page. Come on. The training.
+*[[1:29:16](https://www.youtube.com/watch?v=0WsIEVjRGos&t=5356s)]* Shalom. We back from the break. All right, so we kind of found a page. Not the actual page from the book, but we have the link from a web page. But this is what I wanted to show you. Go back to the other page first, that we read before, the bottom, the first page of the martyrdom, and then we're going to link it up with this right here, the other page, the web page. The training.
 
 <div class="reading">
 
 Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, on the training for martyrdom, read again · read by Officer Abdon  *[[1:29:50](https://www.youtube.com/watch?v=0WsIEVjRGos&t=5390s)]*
 
 > We read in the pathetic and interesting study, De Laude Martyrii, On the Praise of Martyrdom, by an anonymous writer, a study which usually follows the works of St. Cyprian, how some Roman officials who were assisting in the torture of a dying Christian saint said one to another: “This is really marvelous,
-
-- Wow.
 
 > this power of disregarding pain and agony.
 
@@ -768,7 +758,7 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, on the tra
 
 > It can surely be no imaginary faith which enables him thus to welcome such suffering, such a death.”
 
-- So they understood that, yo, whatever he believes in, that's definitely true. Go down. Let me see if it says that. Yep. Matter of fact, read.
+- So they understood that, yo, whatever he believes in, that's definitely true. Let me see if it says that. Yep. Matter of fact, read.
 
 > The moral effect of this endurance, of this serene acceptance of torture and death, both on persecutors and persecuted, was no doubt very great, and has probably been underrated.
 
@@ -776,15 +766,13 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, on the tra
 
 > What we have just quoted from the treatise De Laude Martyrii, i.e., the testimony to what must have happened many thousand times,
 
-- Right. So this happens many thousands of times: we was getting put to death.
+- So this happens many thousands of times: we was getting put to death.
 
 > viz., how it struck the officials who were carrying out the stern law of Rome,
 
 - How it struck the officials who were carrying out the stern law of Rome.
 
 > was repeated in our own day and time by one of our most serious historians, one not likely by any means to have been carried away by religious enthusiasm. And his scrupulously fair, but at the same time cold and passionless, chapter on early Christian persecutions closes his review of the period with the following remarkable words:
-
-- Watch this.
 
 > “For the love of their divine Master, for the cause they believed to be true, men, and even weak girls, endured these things
 
@@ -796,7 +784,7 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, on the tra
 
 - **Officer:** They didn't care whether you young, old, or probably a baby. They don't care.
 
-- **Deacon Eythan:** It was a spirit that was literally put on everybody, to endure that stuff. That's crazy. Watch this.
+- **Deacon Eythan:** It was a spirit that was literally put on everybody, to endure that stuff. That's crazy.
 
 </div>
 
@@ -805,8 +793,6 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, on the tra
 Reading from a web page on the earlier martyrs  *[[1:33:14](https://www.youtube.com/watch?v=0WsIEVjRGos&t=5594s)]*
 
 > Earlier martyrs. All the martyrdoms which God allowed to happen (remember that the devout will ascribe all things to his sovereignty) were blessed and noble. Who could not admire their honor, their patience, their love for the Lord?
-
-- Watch this.
 
 > They were whipped to shreds till their veins and arteries were exposed,
 
@@ -818,7 +804,7 @@ Reading from a web page on the earlier martyrs  *[[1:33:14](https://www.youtube.
 
 > They had such courage that none of them let out a sigh or a groan,
 
-- Read. Listen good.
+- Listen good.
 
 > proving that when they suffered such torments they were absent from their bodies,
 
@@ -828,7 +814,7 @@ Reading from a web page on the earlier martyrs  *[[1:33:14](https://www.youtube.
 
 - So the Lord was present, and while we getting tortured we was with him. So it's like he was comforting us through our tortures.
 
-- **Officer:** You know where you see that: Acts 7. Stephen said, I see the Son of man on the right hand of God. Read that. Read that. And they were wishing, once they heard him speak, they started gnashing their teeth, and they're like, yo, we got to stone him. They took their clothes off to stone him, you know how … do when they're about to fight, they take their shirt off.
+- **Officer:** You know where you see that: Acts 7. Stephen said, I see the Son of man on the right hand of God. And they were wishing, once they heard him speak, they started gnashing their teeth, and they're like, yo, we got to stone him. They took their clothes off to stone him, you know how … do when they're about to fight, they take their shirt off.
 
 - **Deacon Eythan:** Stephen was already somewhere else, though.
 
@@ -839,8 +825,6 @@ Reading from a web page on the earlier martyrs  *[[1:33:14](https://www.youtube.
 **[Acts 7:55-58](/bible/acts/7#v55)**  *[[1:34:58](https://www.youtube.com/watch?v=0WsIEVjRGos&t=5698s)]*
 
 > <sup>[55](/bible/acts/7#v55)</sup> But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God,
-
-- Oh, read it again. Read it again.
 
 > <sup>[56](/bible/acts/7#v56)</sup> And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God.
 >
@@ -894,7 +878,7 @@ Reading from a web page on the earlier martyrs  *[[1:33:14](https://www.youtube.
 
 - **Officer:** They didn't stop. That's why Christ says the servant is not above his master. So we all going to suffer the same shame for the gospel's sake.
 
-*[[1:40:05](https://www.youtube.com/watch?v=0WsIEVjRGos&t=6005s)]* All right. Hey, pull that page up. I'm just backing up the last couple pages we just read, about the power that we had as far as martyrdom, and that, like an officer was saying, our bodies wasn't even there. They was touching a dead body, pretty much. But watch this. This is another page, page 200 in *The Early Christians in Rome*. Watch this.
+*[[1:40:05](https://www.youtube.com/watch?v=0WsIEVjRGos&t=6005s)]* Hey, pull that page up. I'm just backing up the last couple pages we just read, about the power that we had as far as martyrdom, and that, like an officer was saying, our bodies wasn't even there. They was touching a dead body, pretty much. But watch this. This is another page, page 200 in *The Early Christians in Rome*.
 
 <div class="reading">
 
@@ -906,11 +890,11 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, page 200, 
 
 > He replied, “When the soul is in a state of heavenly rapture the suffering flesh is no longer ours;
 
-- Damn. Read on.
+- Damn.
 
 > the body is quite insensible to pain when the spirit is with God.”
 
-- Damn. There you go. Damn. So that's what was happening. So he's explaining. He said he seen that in the dream. He seen it in a dream. So obviously, after that, he ready. He like, all right, bet, I'm ready. When the soul is in a state of heavenly rapture, the suffering flesh is no longer ours. We're not even in the body. The body is quite insensible to pain. Look up that word insensible.
+- Damn. Damn. So that's what was happening. So he's explaining. He said he seen that in the dream. He seen it in a dream. So obviously, after that, he ready. He like, all right, bet, I'm ready. When the soul is in a state of heavenly rapture, the suffering flesh is no longer ours. We're not even in the body. The body is quite insensible to pain. Look up that word insensible.
 
 </div>
 
@@ -922,9 +906,9 @@ Reading from a definition of the word insensible  *[[1:41:54](https://www.youtub
 
 - Unconscious, unaware of. All right, so that's what Paul went through. I'm just leave it there. Hey, let's go to the next page.
 
-- **Officer:** One second. That's a heavy definition. It says unaware of. You know, without one's mental faculties. So the spirit of your mind is not even in your body anymore. You're not aware of the pain, cuz you're not there.
+- **Officer:** That's a heavy definition. It says unaware of. You know, without one's mental faculties. So the spirit of your mind is not even in your body anymore. You're not aware of the pain, cuz you're not there.
 
-- **Deacon Eythan:** Right. Hey, all right, let's go back to *The Early Christians in Rome*. Let's go back to page 29. Let's go back to page 29, let's finish up on that page. So remember, we just wanted, you know, just a couple of things on martyrdom, how we suffered martyrdom and so forth, but let's get back into what happened to us as a result of the fire in 64 AD that put us in notoriety amongst the Roman government at this time. So these are the things that happened after 64 AD. Go ahead. Start back at surely. You could go down: from the days of that.
+- **Deacon Eythan:** Hey, all right, let's go back to *The Early Christians in Rome*. Let's go back to page 29. Let's go back to page 29, let's finish up on that page. So remember, we just wanted, you know, just a couple of things on martyrdom, how we suffered martyrdom and so forth, but let's get back into what happened to us as a result of the fire in 64 AD that put us in notoriety amongst the Roman government at this time. So these are the things that happened after 64 AD. Start back at surely. You could go down: from the days of that.
 
 </div>
 
@@ -942,9 +926,9 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, from page 
 
 > And this remained the unvarying, the changeless policy of the government of the state, though not always put in force, until the memorable edict of Constantine, A.D. 313. After the terrible scenes in the games of the Vatican Gardens the persecution of the Christians still continued.
 
-- Right. So it was an ongoing hunt for us, man.
+- So it was an ongoing hunt for us, man.
 
-- **Officer:** Hold on, hold on, hold up. Did you say in the Vatican? You said that there was torture in the Vatican?
+- **Officer:** Did you say in the Vatican? You said that there was torture in the Vatican?
 
 - **Deacon Eythan:** Yes, sir.
 
@@ -974,11 +958,11 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, from page 
 
 - **Officer:** If they just leave us alone, it'll be just fine. Now that he's speaking about us, now more people is inquiring, who the hell are these guys?
 
-- **Deacon Eythan:** Right. So it works out in our favor.
+- **Deacon Eythan:** So it works out in our favor.
 
 - **Officer:** In our favor, yeah.
 
-- **Deacon Eythan:** You know. But to show you: after that, it threw a new light on us. Now you see legislations being signed, all type of things. You understand? So don't think they not still, right now, making laws right now.
+- **Deacon Eythan:** You know. But to show you: after that, it threw a new light on us. Now you see legislations being signed, all type of things. So don't think they not still, right now, making laws right now.
 
 > Most probably for many years were they still confused with the Jews;
 
@@ -993,8 +977,6 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, from page 
 - So even though we was innocent from the fire, they discovered something else.
 
 > They were a very numerous company, intensely in earnest, opposed to the state religion, preferring in numberless instances torture, confiscation, death, rather than submit to the state regulations in the matter of religion.
-
-- Hey, read it again. Read it again.
 
 > They were a very numerous company,
 
@@ -1036,7 +1018,7 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, from page 
 >
 > <sup>[34](/bible/hebrews/10#v34)</sup> For ye had compassion of me in my bonds, and took joyfully the spoiling of your goods, knowing in yourselves that ye have in heaven a better and an enduring substance.
 
-- You see that? Paul said, you had compassion of me in my bonds, when I got locked up, and also you took joyfully the spoiling of your goods. Right. So that went into confiscations, property, all of that. All right, now go back.
+- Paul said, you had compassion of me in my bonds, when I got locked up, and also you took joyfully the spoiling of your goods. So that went into confiscations, property, all of that. All right, now go back.
 
 <div class="reading">
 
@@ -1052,11 +1034,11 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, page 29 on
 
 > by men of different ranks, for various reasons;
 
-- For various reasons. Read.
+- For various reasons.
 
 > by traders who lost much by their avoidance of all idolatrous feasts;
 
-- Whoa. Read that again. Read it again, from the top.
+- Whoa.
 
 > For some time before the fire they had been generally disliked,
 
@@ -1104,7 +1086,7 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, page 29 on
 
 - **Officer:** That's all we do is spend money. But knowing that keeping God's laws, the Most High says, separate from the unclean thing. You will bring this empire down if we just keep God's laws and not celebrate these wicked holidays.
 
-- **Deacon Eythan:** Go ahead. The book of Acts, start at 24.
+- **Deacon Eythan:** The book of Acts, start at 24.
 
 **[Acts 19:24-27](/bible/acts/19#v24)**  *[[1:53:47](https://www.youtube.com/watch?v=0WsIEVjRGos&t=6827s)]*
 
@@ -1122,7 +1104,7 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, page 29 on
 
 > <sup>[27](/bible/acts/19#v27)</sup> So that not only this our craft is in danger to be set at nought; but also that the temple of the great goddess Diana should be despised, and her magnificence should be destroyed, whom all Asia and the world worshippeth.
 
-- You see that? So we was doing damage at that time. Paul was doing damage at that time, to the point that they were losing a lot of money from the temple of Diana. Now the same thing is happening today in these Christian churches. A lot of our people is leaving these Christian churches. They're leaving the Christian church, and they're losing money. The tithes are very low. Tithes are very low. They calling you up, sending emails, knocking on the doors: yo, why you ain't been to church in about a month or so? What's going on, man? What's going on? I ain't seen your check yet.
+- So we was doing damage at that time. Paul was doing damage at that time, to the point that they were losing a lot of money from the temple of Diana. Now the same thing is happening today in these Christian churches. A lot of our people is leaving these Christian churches. They're leaving the Christian church, and they're losing money. The tithes are very low. Tithes are very low. They calling you up, sending emails, knocking on the doors: yo, why you ain't been to church in about a month or so? What's going on, man? What's going on? I ain't seen your check yet.
 
 - **Officer:** Yeah, right. Five months behind, like it's a bill.
 
@@ -1142,7 +1124,7 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, why the se
 
 > by pagan families who resented the proselytism which was constantly taking place in their homes,
 
-- Oh. So remember, Christ say you shall be at variance with those of your household, with those of your own house. Read that again.
+- So remember, Christ say you shall be at variance with those of your household, with those of your own house.
 
 > by pagan families who resented the proselytism which was constantly taking place in their homes, thus causing a breach in the family circle;
 
@@ -1166,7 +1148,7 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, why the se
 
 - **Officer:** Yep. So if your family mad at you, all they gotta do is give your name up. Yep. That … live over there.
 
-- **Deacon Eythan:** Yep. So they come into the family. Go ahead.
+- **Deacon Eythan:** Yep. So they come into the family.
 
 > by priests and those specially connected with the network of rites and ceremonies, sacrifices and offerings belonging to the temples of the old gods. But, after all, this widespread popular dislike to the sect was not the chief cause of the steady persecution which set in after the wild and intemperate scenes which followed the great fire.
 
@@ -1174,7 +1156,7 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, why the se
 
 > For the first time the Imperial government saw with whom they had to do. It was the settled policy of Rome steadily to repress and to stamp out all organizations,
 
-- Hold on. I need y'all to really listen to this. Read it from for the first time again.
+- I need y'all to really listen to this. Read it from for the first time again.
 
 > For the first time the Imperial government saw with whom they had to do. It was the settled policy of Rome steadily to repress and to stamp out all organizations,
 
@@ -1182,15 +1164,13 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, why the se
 
 > all self-governing communities, or clubs, as highly dangerous to the spirit of Imperial policy;
 
-- Hold on, hold on. Remember Rome, before this, they was in other countries. Remember, they went to Britain, they went to Spain. They dealt with us over there. They was stomping us out over there. They was expanding their empire, and whoever was a threat to them. So now this is in-house. What you think they going to do to us in-house? They got their foreign policies already: whatever's a threat to them, they going to go to war with them or whatever. This is in-house now. Read on.
+- Remember Rome, before this, they was in other countries. Remember, they went to Britain, they went to Spain. They dealt with us over there. They was stomping us out over there. They was expanding their empire, and whoever was a threat to them. So now this is in-house. What you think they going to do to us in-house? They got their foreign policies already: whatever's a threat to them, they going to go to war with them or whatever. This is in-house now.
 
 > and as the result of the trials and inquiries which followed the fire of Rome, it found in the Christian community a living embodiment of this tendency, which hitherto Rome had succeeded in crushing,
 
 - Found that in their midst. So look, listen good. Found it where? In their midst. In their home, in Rome, in the Roman province.
 
 > in the capital and in the provinces,
-
-- Read.
 
 > an extra-Imperial unity was fast growing up,
 
@@ -1228,7 +1208,7 @@ Reading from a quote on J. Edgar Hoover and Negro unity  *[[2:02:10](https://www
 
 - **Officer:** That's Revelation 11:11. They see us standing on our feet.
 
-- **Deacon Eythan:** Read it. Yeah, let's get that.
+- **Deacon Eythan:** Yeah, let's get that.
 
 </div>
 
@@ -1240,7 +1220,7 @@ Reading from a quote on J. Edgar Hoover and Negro unity  *[[2:02:10](https://www
 
 *[[2:03:54](https://www.youtube.com/watch?v=0WsIEVjRGos&t=7434s)]* **Officer:** That's that vain glory spirit. A brother said that a couple weeks ago in the comments: said the brother got a vain glory spirit while reading.
 
-**Deacon Eythan:** Remember that Sesame Street? Play it. Play that real quick. All praises. You doing a good job, bro. You doing a great job. Hold on, they not playing Reading Rainbow. You see what married life do to a brother? You see what married life do? Change your man. He got his finger, his trigger finger on that button, just ready to press it. Hey, my man married, now he can't even focus. The Lord is with y'all today. He texting her now: babe, what you got to eat for when I come home? All right, man. Y'all bugged out, man. That's crazy. Excellent job. All right, anyway, anyway. See, why were they afraid? Why were they afraid? Let's read that.
+**Deacon Eythan:** Remember that Sesame Street? You doing a good job, bro. You doing a great job. Hold on, they not playing Reading Rainbow. You see what married life do to a brother? You see what married life do? Change your man. He got his finger, his trigger finger on that button, just ready to press it. Hey, my man married, now he can't even focus. The Lord is with y'all today. He texting her now: babe, what you got to eat for when I come home? All right, man. Y'all bugged out, man. That's crazy. Excellent job. All right, anyway, anyway. See, why were they afraid? Why were they afraid? Let's read that.
 
 **[Ezekiel 37:10](/bible/ezekiel/37#v10)**  *[[2:05:40](https://www.youtube.com/watch?v=0WsIEVjRGos&t=7540s)]*
 
@@ -1256,9 +1236,9 @@ Reading from a quote on J. Edgar Hoover and Negro unity  *[[2:02:10](https://www
 >
 > <sup>[16](/bible/2-corinthians/2#v16)</sup> To the one we are the savour of death unto death; and to the other the savour of life unto life. And who is sufficient for these things?
 
-- **Officer:** This is what the nations, when they see us, we are a savour unto death to them, because you know that's the end of the kingdom. Oh shoot, that's it, we're about to be finished. And to our people that see us, we are the savour of life unto life. Right. So that's why when they see us upon our feet, great fear fell upon them when they see us.
+- **Officer:** This is what the nations, when they see us, we are a savour unto death to them, because you know that's the end of the kingdom. Oh shoot, that's it, we're about to be finished. And to our people that see us, we are the savour of life unto life. So that's why when they see us upon our feet, great fear fell upon them when they see us.
 
-- **Deacon Eythan:** All praises. Oh, I finally got a … Very rebellious back there today. Excellent job. Hey, go back to the page. Read the second paragraph, or the third, I guess.
+- **Deacon Eythan:** Oh, I finally got a … Very rebellious back there today. Excellent job. Hey, go back to the page. Read the second paragraph, or the third, I guess.
 
 <div class="reading">
 
@@ -1276,11 +1256,11 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, a politica
 
 > having its ramifications all over the Empire.
 
-- Empire. We was all over the Empire. Organized nation, united in Christ. There it is. We're all over the world now, not just here. We're all over. So hey, what I'm showing you: the things that was happening there, nothing new under the sun. The things that was happening in ancient Rome, you think it's not going to happen again today? So the Bishop bringing out, they're gonna turn their focus on us. They going to realize we the threat. Forget the Palestinians in Israel.
+- Empire. We was all over the Empire. Organized nation, united in Christ. We're all over the world now, not just here. We're all over. So hey, what I'm showing you: the things that was happening there, nothing new under the sun. The things that was happening in ancient Rome, you think it's not going to happen again today? So the Bishop bringing out, they're gonna turn their focus on us. They going to realize we the threat. Forget the Palestinians in Israel.
 
 - **Officer:** Yeah, the threat right here.
 
-- **Deacon Eythan:** Like, yo, we could contain them. We could contain the Palestinians. But this dude right there, they're prophesying about what's happening over there, and it's happening. Remember last week I brought out, they considered prophecy magic, and they put that under the charge of treason. So the same way when they came over here, and they started calling us what, sorcerers or shamans and all that, cuz they were prophets. They was prophets. So they call us witches, like, yo, this is magic. So any person they found prophesying anything like that, you was getting locked up or banished or whatever the case was. All right, read that again. We ended off at ramifications all over the Empire. Go up a little bit. Yeah, just read from the top again.
+- **Deacon Eythan:** Like, yo, we could contain them. We could contain the Palestinians. But this dude right there, they're prophesying about what's happening over there, and it's happening. Remember last week I brought out, they considered prophecy magic, and they put that under the charge of treason. So the same way when they came over here, and they started calling us what, sorcerers or shamans and all that, cuz they were prophets. They was prophets. So they call us witches, like, yo, this is magic. So any person they found prophesying anything like that, you was getting locked up or banished or whatever the case was. We ended off at ramifications all over the Empire. Yeah, just read from the top again.
 
 > In other words, the whole of the principles and the constitution of Christianity were considered as hostile to the established order, and if persisted in were to be deemed treasonable. Thus, after the discoveries made in the course of the judicial proceedings which were instituted after the great fire, the Christians, even after their innocence on the incendiary charge was generally acknowledged, were viewed by the Imperial authorities as
 
@@ -1296,9 +1276,9 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, a politica
 
 > <sup>[11](/bible/wisdom-of-solomon/2#v11)</sup> Let our strength be the law of justice: for that which is feeble is found to be nothing worth.
 
-- **Officer:** You see that? They said, let our strength be the law of justice. We the ones got the power. We got the power to make laws.
+- **Officer:** They said, let our strength be the law of justice. We the ones got the power. We got the power to make laws.
 
-- **Deacon Eythan:** So now go back. So that's what we seeing right now: they making their strength the law of justice. After the fire they started putting things in place to come against us. Go ahead.
+- **Deacon Eythan:** So now go back. So that's what we seeing right now: they making their strength the law of justice. After the fire they started putting things in place to come against us.
 
 <div class="reading">
 
@@ -1310,7 +1290,7 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, a politica
 
 > But after the hideous and revolting cruelties to which so many of them had been subjected in the famous Vatican games, the original charge made against them came universally to be considered as an infamous device of the Emperor Nero to divert public attention from himself, to whom, although probably falsely, the guilt of causing the fire was popularly attributed.
 
-- Popularly. There you go. Being tortured, right? Don't worry, bro, I support you. My man feel like he got a red hot iron pinned on him. Yo, God is with you, bro. Go ahead, man.
+- Popularly. Being tortured, right? Don't worry, bro, I support you. My man feel like he got a red hot iron pinned on him. Yo, God is with you, bro.
 
 > Still, there is no doubt that although the alleged connection of the Christian sect with the crime of incendiarism seems to have been quickly forgotten, from the year 64 onward the persecution was continued as a permanent police measure,
 
@@ -1318,7 +1298,7 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, a politica
 
 - **Officer:** There was a Christian police.
 
-- **Deacon Eythan:** That button doesn't work, not the bomb, the other one, you know, when they messed up reading. Oh, got it. Okay, it's all right. Read on.
+- **Deacon Eythan:** That button doesn't work, not the bomb, the other one, you know, when they messed up reading. Oh, got it. Okay, it's all right.
 
 > under the form of a general prosecution of Christians as a sect dangerous to the public safety.
 
@@ -1326,15 +1306,15 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, a politica
 
 - **Officer:** Enemy of the state.
 
-- **Deacon Eythan:** Next page. Start at the words of Pliny. Why you skip a whole, why would you do that? Because we didn't read the last page at the bottom; you just said next page. Oh, gosh. You wanted this too, so you skipped all that, huh? It's torture. Go ahead.
+- **Deacon Eythan:** Start at the words of Pliny. Why you skip a whole, why would you do that? Because we didn't read the last page at the bottom; you just said next page. Oh, gosh. You wanted this too, so you skipped all that, huh? It's torture.
 
 > This, after a lengthened discussion of the whole question, is Professor Ramsay's conclusion, who considers it doubtful if any edict in the strict sense of the word was promulgated by the Emperor Nero,
 
-- So remember, the sixth feather, we dealing with Nero. This is all happening under Nero's reign. Read.
+- So remember, the sixth feather, we dealing with Nero. This is all happening under Nero's reign.
 
 > and this he deduces from the famous correspondence which took place between Pliny, the governor of Bithynia, and the Emperor Trajan, some fifty years after the events just related in the days of Nero. The words of Pliny when he asks for more definite directions from Trajan in the matter of Christian persecutions apparently indicate that he considered the Christian question not as one coming under some definite law, but as a matter of practical administration.
 
-- Right. All right, so we going to end it there.
+- All right, so we going to end it there.
 
 </div>
 
@@ -1342,9 +1322,9 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, a politica
 
 *[[2:15:10](https://www.youtube.com/watch?v=0WsIEVjRGos&t=8110s)]* We're going to end it right there. So next week we're going to start going into what started 70 AD. We going to go into the beginning, how 70 AD popped off, under Nero. So next show, Lord's will, life last, that's what we're going to get into. All right, so we're gonna end it there. Officer Abdon.
 
-**Officer Abdon:** Hey, Israel, let's give the leadership a hand for that class. All praises. Very, very heavy. Very heavy.
+**Officer Abdon:** Hey, Israel, let's give the leadership a hand for that class. Very, very heavy. Very heavy.
 
-*[[2:16:44](https://www.youtube.com/watch?v=0WsIEVjRGos&t=8204s)]* **Deacon Eythan:** Hey, I'd like to give a shout out to IT. You get a clap from me. Thank you. God bless you. And also the sisters for the breakfast, man. All praises the Most High. All right, so with that, shalom. See you next show. Shalom. Hey, Shalom, Israel. Most High, Christ bless.
+*[[2:16:44](https://www.youtube.com/watch?v=0WsIEVjRGos&t=8204s)]* **Deacon Eythan:** Shalom. See you next show. Shalom. Hey, Shalom, Israel. Most High, Christ bless.
 
 ## Announcements & References
 

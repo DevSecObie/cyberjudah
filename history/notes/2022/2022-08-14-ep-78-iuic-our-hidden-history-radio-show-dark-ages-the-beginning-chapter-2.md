@@ -24,8 +24,6 @@ tags: ["Our Hidden History", "captivity", "europe-dark-ages", "greece", "persia-
 
 *[[14:22](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=862s)]* So right now we're in the Dark Ages. I want to just go back to that; we're going to recap. And most of the books that I mentioned earlier that are high priced or removed from the shelves or out of print, whatever, I decided to make the conscious decision, because Bishop does it. Shout-out Tuesdays, and he shows the books. I'm like, ugh. He said, what's the name of the book? The name of the book, I'm like, okay. But that … will dress around and give you the name of the book, the author, the author's address. I'm like, damn, man.
 
-**An officer:** Oh my gosh, that's right.
-
 **Deacon Eythan:** So I said, well, I mean, Bishop does it, so I'll do it. So every book that I've gone over in the past revolving around the Native Americans being Israelites, the King Simon's travels on this side of the world, and the other explorations about people coming over here, I'm going to present those books, because a lot of the information that I brought out in the first seasons of the show ties into the Dark Ages. It really does.
 
 **An officer:** So, Deacon, also: a lot of books we get and we ordered them, there are maybe one or two left of the books.
@@ -186,7 +184,7 @@ Reading from Bible Hub, the entry on Bethshan · read by an officer  *[[33:01](h
 
 > <sup>[10](/bible/judith/3#v10)</sup> And he pitched between Geba and Scythopolis, and there he tarried a whole month, that he might gather together all the carriages of his army.
 
-- So you have Scythopolis. There you go. So it's in the Bible, Scythopolis. Now let's go down. Get me First Chronicles 5:23 to 26. This is a recap, trust me, you'll see.
+- So you have Scythopolis. So it's in the Bible, Scythopolis. Now let's go down. Get me First Chronicles 5:23 to 26. This is a recap, trust me, you'll see.
 
 **[1 Chronicles 5:23-26](/bible/1-chronicles/5#v23)**  *[[36:33](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=2193s)]*
 
@@ -212,7 +210,7 @@ Reading from Bible Hub, the entry on Bethshan · read by an officer  *[[33:01](h
 
 > <sup>[6](/bible/2-kings/17#v6)</sup> In the ninth year of Hoshea the king of Assyria took Samaria, and carried Israel away into Assyria, and placed them in Halah and in Habor by the river of Gozan, and in the cities of the Medes.
 
-- Placed them in the same exact places. By the river of Gozan, and in the cities of the Medes. Placed them in the cities of the Medes. Keep that in mind. He placed this northern kingdom into the cities of the Medes, and the Greeks named the allotment of land Scythopolis. Hold on. Now get me, Google, Scythian Empire. Just type in Scythian Empire and just Google it. Go to Wikipedia. Approximately 7th century to 3rd century, there it is right there. And then I'm gonna end at Hellenized.
+- Placed them in the same exact places. By the river of Gozan, and in the cities of the Medes. Placed them in the cities of the Medes. Keep that in mind. He placed this northern kingdom into the cities of the Medes, and the Greeks named the allotment of land Scythopolis. Now get me, Google, Scythian Empire. Just type in Scythian Empire and just Google it. Go to Wikipedia. Approximately 7th century to 3rd century, there it is right there. And then I'm gonna end at Hellenized.
 
 <div class="reading">
 
@@ -224,7 +222,7 @@ Reading from Wikipedia, *Scythians* · read by an officer  *[[39:58](https://www
 
 > were an ancient nomadic people living primarily in the region known as Scythia,
 
-- Living in a region known as Scythia. Okay.
+- Living in a region known as Scythia.
 
 > in what is modern-day Ukraine
 
@@ -232,7 +230,7 @@ Reading from Wikipedia, *Scythians* · read by an officer  *[[39:58](https://www
 
 > and southern Russia. Classical Scythians, also known as Pontic Scythians, dominated the Pontic steppe from approximately the 7th century BCE until the 3rd century BCE.
 
-- Wait. The numbers: 7th century BCE. What year was that? Let's go back. Seventh century. Give me the captivity pamphlet real quick, the years, please. You know what I'm talking about. Seventh century to third century, right. But we know that the Greeks named that allotment of land Scythopolis. The Greeks' reign began in the three hundreds; that's third century. So who was reigning during the seventh century? Let's get some clarity on that. They reigned from seventh century to third century.
+- The numbers: 7th century BCE. What year was that? Let's go back. Seventh century. Give me the captivity pamphlet real quick, the years, please. You know what I'm talking about. Seventh century to third century, right. But we know that the Greeks named that allotment of land Scythopolis. The Greeks' reign began in the three hundreds; that's third century. So who was reigning during the seventh century? Let's get some clarity on that. They reigned from seventh century to third century.
 
 - **An officer:** So understand what Deacon is bringing out. Like he said before, all of this is gonna eventually link up. So we're just doing a recap, because when we start getting into the Dark Ages and start getting into where we started migrating to, like the British Isles and Scotland and stuff like that, all this stuff is going to come together.
 
@@ -248,7 +246,7 @@ Reading from Wikipedia, *Scythians* · read by an officer  *[[39:58](https://www
 
 *[[44:50](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=2690s)]* So the Scythians were established in this area of Scythia from the seventh century BC to the third century BC. That's when they were put there, since the time of the Assyrians. Why? They were placed in the cities of the Medes, and they established their own little empire called the Scythian Empire. That's us. The exiles became an empire, an empire of exiles.
 
-**An officer:** Okay. So I think you mentioned it before, I think last class, Deacon, when you started talking about BC. 7th century really means the seven hundreds BC. And BC is accurate. Seventh century BC is seven hundreds. When you go to AD, 300 AD is like behind, fourth century, right?
+**An officer:** So I think you mentioned it before, I think last class, Deacon, when you started talking about BC. 7th century really means the seven hundreds BC. And BC is accurate. Seventh century BC is seven hundreds. When you go to AD, 300 AD is like behind, fourth century, right?
 
 **Deacon Eythan:** No, it's the other way around. Fourth century would be three hundreds. 100 years later, 100 years before. Yes, it's …. I don't know why it's like that, but the fourth century will be three hundreds, the second century will be one hundreds, like that. AD is forward, whereas BC is pretty much what it is. All right, so 700 BC.
 
@@ -282,7 +280,7 @@ Reading from Wikipedia, *Scythians*, continued · read by an officer  *[[48:20](
 
 > and eastern Ukraine. In a broader sense, Scythians has also been used to designate all early Eurasian nomads, although the validity of such terminology is controversial, and other terms such as early nomadic have been deemed preferable. Although both were closely related nomadic Iranian peoples,
 
-- Wait here again. Although both were closely related nomadic Iranian peoples. Aha. Both related nomadic Iranian people. Watch this.
+- Wait here again. Although both were closely related nomadic Iranian peoples. Aha. Both related nomadic Iranian people.
 
 > although the ancient Persians, ancient Greeks and ancient Babylonians respectively used the names soccer for the Scythians,
 
@@ -330,7 +328,7 @@ Reading from Wikipedia, *Scythians*, continued · read by an officer  *[[48:20](
 
 - By this time they had been largely Hellenized, these Scythians. By that time they were displaced and conquered by different nations in the landmass, and eventually they were Hellenized, meaning what? They became Greeks. The Scythians became Greeks. That's why I said 7th century to 3rd century. So that's the Greeks that Paul was talking about in the New Testament. That's why I said Scythian, Jew, Greek, Scythian, barbarian: it's all the same people. They're all one. That's what he's saying.
 
-- Read on. Look for the name, and end at the psychology part.
+- Look for the name, and end at the psychology part.
 
 > The name of the Scythians survived in the region of Scythia. Early authors continued to use the term Scythian, applying it to many groups unrelated to the original Scythians, such as Huns, Goths, Turkic peoples, Avars, Bulgars, Khazars, and other unnamed nomads. The scientific study of the Scythians is called psychology.
 
@@ -376,11 +374,11 @@ Reading from a book named on air as *The Cumulative Review of Our Descent*, page
 
 > who settled in Armenia and were called Sacassani.
 
-- Sacassani. Watch this. Keep going.
+- Sacassani.
 
 > Five. He further states the Sakai were a Scythian race and came from Media. *Our Great Heritage*, page 45. Number six.
 
-- Whoa, wait, stop. Hold on, I'm sorry. So it went from being soccer, Sakai, now they're called Saxon. The word Saxon comes from Sakai, which goes back to the Scythians, going back to the term Anglo-Saxon. It's the same people. That's why I called it the Eurasian steppe. Eurasia goes into Europe and Asia; those lands meet. Like Russia and Iran are neighbors. Europe and the Near East is basically the same landmass. That's what they call Asia Minor. You have Asia Minor; I call it Asia Major, the major, the Far East, Japan, China. And you have Asia Minor, and you have the Near East and Europe. It's right there. Japheth and Shem shared land, because it's right there. Russia, Iran are neighbors; they're literally next door neighbors. That's why it's called Eurasia, as in Europe and Asia; they linked together. So the Scythians had that monopoly of land. Okay, so they were called Saxons. Sakai goes back to the word Saxons, or Sax.
+- Whoa, wait, stop. So it went from being soccer, Sakai, now they're called Saxon. The word Saxon comes from Sakai, which goes back to the Scythians, going back to the term Anglo-Saxon. It's the same people. That's why I called it the Eurasian steppe. Eurasia goes into Europe and Asia; those lands meet. Like Russia and Iran are neighbors. Europe and the Near East is basically the same landmass. That's what they call Asia Minor. You have Asia Minor; I call it Asia Major, the major, the Far East, Japan, China. And you have Asia Minor, and you have the Near East and Europe. It's right there. Japheth and Shem shared land, because it's right there. Russia, Iran are neighbors; they're literally next door neighbors. That's why it's called Eurasia, as in Europe and Asia; they linked together. So the Scythians had that monopoly of land. Okay, so they were called Saxons. Sakai goes back to the word Saxons, or Sax.
 
 - Because the English, the kings, remember King James and them, they were in Britain. These were Saxons. The white man says, I'm a Saxon, I'm Anglo-Saxon. No, you're not, Mr. White Man. You're not.
 
@@ -394,7 +392,7 @@ Reading from a book named on air as *The Cumulative Review of Our Descent*, page
 
 > Ptolemy mentions a Scythian people sprung from the Sakai by the name of Saxons. *British History Traced from Egypt and Palestine*.
 
-- Stop. Wait, wait, wait, wait. Yo, that was the title. We really missed that part. *British History Traced from Egypt and Palestine*. How is their British history traced from Egypt and Palestine? Who went from Egypt to Palestine? Israelites. Yeah, we gotta get that book. We gonna buy that book. We just noticed this book. We're gonna buy it today. Shout-out to those who donate; we'll be buying that, if you use that fiat too.
+- Stop. Yo, that was the title. We really missed that part. *British History Traced from Egypt and Palestine*. How is their British history traced from Egypt and Palestine? Who went from Egypt to Palestine? Israelites. Yeah, we gotta get that book. We gonna buy that book. We just noticed this book. We're gonna buy it today.
 
 > Seven. Ptolemy mentions a Scythian people sprung from the Sakai by the name of Saxons. *British History Traced from Egypt and Palestine*, Roberts, page 105, quoting Sharon Turner. Eight. The self-liberated ten tribes
 
@@ -406,7 +404,7 @@ Reading from a book named on air as *The Cumulative Review of Our Descent*, page
 
 </div>
 
-*[[1:04:34](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=3874s)]* What's the book called? Blow it up so everybody can see it. Y'all got the books. You know, I could say, oh, did you be interesting …. *The Lost Tribes and the Saxons of the East and of the West*, and I'll make fun of y'all, man. That's stupid. Y'all upset me. *The Lost Tribes and the Saxons of the East and of the West, with New Views of Buddhism*, by George Moore, M.D., London. Go down. Oh, it's in Roman numerals. Somebody let's figure out what year that is. Let's see if it's white eyes only. Who got it? 1861. You know what negroes was at 1861? It wasn't free. This is not meant for you to read, negroes. It's not talking about something for you. This is 1861. It was published 1861; it was compiled earlier than this.
+*[[1:04:34](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=3874s)]* What's the book called? Blow it up so everybody can see it. Y'all got the books. You know, I could say, oh, did you be interesting …. *The Lost Tribes and the Saxons of the East and of the West*, and I'll make fun of y'all, man. That's stupid. Y'all upset me. *The Lost Tribes and the Saxons of the East and of the West, with New Views of Buddhism*, by George Moore, M.D., London. Oh, it's in Roman numerals. Somebody let's figure out what year that is. Let's see if it's white eyes only. Who got it? 1861. You know what negroes was at 1861? It wasn't free. This is not meant for you to read, negroes. It's not talking about something for you. This is 1861. It was published 1861; it was compiled earlier than this.
 
 **An officer:** Right, you gotta gather research. That's called the conglomerate of information.
 
@@ -430,7 +428,7 @@ Reading from *The Lost Tribes and the Saxons of the East and of the West, with N
 
 - Stop. Damn. So you have northern kingdom residing in the Hindu Kush. Remember, Persian captivity: Israel was scattered from Ethiopia to India, those provinces. During that time northern kingdom was there as well. It says Naphtali and Zebulon is there.
 
-- If I'm not mistaken, I brought out the history of the Haratin in Mauritania last night in class: that they were brought there through the sub-Saharan slave trade. They were residing in the Sahara Desert for years, then the Muslims came and enslaved them, up until this day. Matter of fact, give me Haratin real quick. Watch this. H-A-R-A-T-I-N. I left something out last night, but since I have the time, I'll do it today. I'm going to show y'all what they call the Haratin today. We're divinely weaving history for y'all. There you go, Haratin, right there, click that. I showed this last night in class regarding the sub-Saharan slave trade, and our people still being enslaved there to this day: Mauritania, Tunisia, Libya.
+- If I'm not mistaken, I brought out the history of the Haratin in Mauritania last night in class: that they were brought there through the sub-Saharan slave trade. They were residing in the Sahara Desert for years, then the Muslims came and enslaved them, up until this day. Matter of fact, give me Haratin real quick. H-A-R-A-T-I-N. I left something out last night, but since I have the time, I'll do it today. I'm going to show y'all what they call the Haratin today. We're divinely weaving history for y'all. There you go, Haratin, right there, click that. I showed this last night in class regarding the sub-Saharan slave trade, and our people still being enslaved there to this day: Mauritania, Tunisia, Libya.
 
 </div>
 
@@ -450,11 +448,11 @@ Reading from Wikipedia, *Haratin* · read by an officer  *[[1:10:30](https://www
 
 > They have traditionally been characterized as the descendants of former sub-Saharan slaves, or the original inhabitants of the Sahara.
 
-- The original inhabitants of what? The Sahara. They was out in the desert. Go down.
+- The original inhabitants of what? The Sahara. They was out in the desert.
 
 > The Haratin have been, and still calmly are, socially isolated in some Maghrebi countries,
 
-- Isolated. Watch this.
+- Isolated.
 
 > living in segregated heritage-only ghettos.
 
@@ -462,7 +460,7 @@ Reading from Wikipedia, *Haratin* · read by an officer  *[[1:10:30](https://www
 
 > They are commonly perceived as an endogamous group of former slaves or descendants of slaves.
 
-- They all stay together. Now go down, let me see something real quick. Go to communities. Read that, please. Watch this.
+- They all stay together. Now go down, let me see something real quick. Go to communities. Read that, please.
 
 > In Mauritania, the Haratin form one of the largest ethnic groups and account for as much as forty percent. They are sometimes referred to as black Moors.
 
@@ -506,7 +504,7 @@ Reading from *The Black Man, His Antecedents, His Genius, and His Achievements* 
 
 > Hanno, the father of Hamilcar and grandfather of Hannibal,
 
-- This is Hamilcar. Hanno was the father of Hamilcar; Hamilcar is the father of Hannibal. So Hanno is Hannibal's grandfather. Watch this.
+- This is Hamilcar. Hanno was the father of Hamilcar; Hamilcar is the father of Hannibal. So Hanno is Hannibal's grandfather.
 
 > was a negro.
 
@@ -530,7 +528,7 @@ Reading from *The Lost Tribes and the Saxons of the East and of the West, with N
 
 > and knew the exclamation, Shamaya Israel.
 
-- Next part, 166. … some more. Let's get some more. Read that.
+- Next part, 166. … some more. Let's get some more.
 
 > The Isaki,
 
@@ -548,7 +546,7 @@ Reading from *The Lost Tribes and the Saxons of the East and of the West, with N
 
 > only into an approximate sound. It is possible to account for these facts but on the supposition that they are derived from the real Israel.
 
-- They are derived from the real sons of Israel. There's more right there, another page. Read that.
+- They are derived from the real sons of Israel. There's more right there, another page.
 
 > We have supposed them to have been named sake, or Sakai,
 
@@ -560,7 +558,7 @@ Reading from *The Lost Tribes and the Saxons of the East and of the West, with N
 
 > We have supposed them to have been named sake, or Sakai, after Isaac, and here in the very seat of the Sakai of old we find large numbers of people professing to be Israelites, calling themselves
 
-- That's the first part; we left that part out. Oh man, go back so we can get it in context. Read it again.
+- That's the first part; we left that part out. Oh man, go back so we can get it in context.
 
 > We have supposed them to have been named Saki or Sakai after Isaac, and here in the very seat of the Sakai of old we find large numbers of people professing to be Israelites, calling themselves Isaki, a name readily converted into Sakai by the Greeks,
 
@@ -568,7 +566,7 @@ Reading from *The Lost Tribes and the Saxons of the East and of the West, with N
 
 > who habitually rendered the names of the barbarians only into approximate sounds. It is possible to account for these facts but on the supposition that they're derived from the real Israel.
 
-- Right. Because they're named after Isaac. Give me one second, let me … find it. Say something.
+- Because they're named after Isaac. Give me one second, let me … find it. Say something.
 
 - Give me Amos 7:16, regarding the soccer. Because remember, northern kingdom was overthrown and was placed in the cities of the Medes. Then they fell under the name Scythian based upon that region, because they were wanderers in that region. Established an empire in that region, displaced Japan out of there, and then established their own exilic empire as the Scythians, or a branch of Scythians. But they were also referred to as soccer by the Greeks and so forth. Scythians is soccer, and that branch is called soccer Scythians. Amos 7:16.
 
@@ -596,7 +594,7 @@ Reading from search results for *Scythopolis* · read by an officer  *[[1:25:35]
 
 > from the Hellenistic period until the Arab conquest, biblical Bethshan was known as Scythopolis,
 
-- Known as Scythopolis. That was the allotment of land given to the tribe of Manasseh. That's northern kingdom. Watch this.
+- Known as Scythopolis. That was the allotment of land given to the tribe of Manasseh. That's northern kingdom.
 
 > city of the Scythians.
 
@@ -612,7 +610,7 @@ Reading from search results for *Scythopolis* · read by an officer  *[[1:25:35]
 
 *[[1:29:50](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=5390s)]* Give me that book. This is *Harper's Bible Dictionary*, right here. It's not Zondervan, for you apologetics; we use other ones as well. This is *Harper's Bible Dictionary*, and we went to page 363. This is a picture of the exile, where he conquered Judah, Lachish. L-A-C-H-I-S-H.
 
-*[[1:31:08](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=5468s)]* So as y'all see, a lot of history. All praises to the Most High. All this history is coming out. As you know, it's called Our Hidden History. This history is hidden from us. Like we call the books now, white eyes only, because it was not meant for us to read these books. But all praise to the Lord, these books are coming out and we able to share it with our people, so now we can put our history out front to our people. Second Chronicles 32:9. This is when King Sennacherib of the Assyrians came against us.
+*[[1:31:08](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=5468s)]* So as y'all see, a lot of history. All this history is coming out. As you know, it's called Our Hidden History. This history is hidden from us. Like we call the books now, white eyes only, because it was not meant for us to read these books. But all praise to the Lord, these books are coming out and we able to share it with our people, so now we can put our history out front to our people. Second Chronicles 32:9. This is when King Sennacherib of the Assyrians came against us.
 
 **[2 Chronicles 32:9](/bible/2-chronicles/32#v9)**  *[[1:31:50](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=5510s)]*
 
@@ -622,7 +620,7 @@ Reading from search results for *Scythopolis* · read by an officer  *[[1:25:35]
 
 - **An officer:** Look how straight his beard is compared to ours.
 
-- **Deacon Eythan:** Right. Now go down to the bottom. Let's see what this picture is. Read that.
+- **Deacon Eythan:** Now go down to the bottom. Let's see what this picture is.
 
 <div class="reading">
 
@@ -646,7 +644,7 @@ Reading from *Harper's Bible Dictionary*, page 363, the text under the pictures 
 
 *[[1:36:12](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=5772s)]* The break: an IUIC promo plays. You who don't know is you Afro-Syrians who don't know your history; and going to the other side of India, you see the Dalits as well. Same thing on the eastern hemisphere: mass incarceration, police brutality, lynchings. Your heritage goes far deeper than where you live. You are the children of God, Jesus Christ's people. Then the IUIC Atlanta promo for the Feast of Tabernacles 2022 in Alabama: a skit of a brother who got slapped so hard in the face that he turned into another race. Register now and come enjoy the Feast of Tabernacles in Alabama this year, and remember, stay in the spirit, child. Shalom. Then street-preaching clips: the Bible says we as Israelites must repent. What does it mean to repent? We're going to change these foods that we eat; we've got to stop eating it, because it leads to our sickness. We are here at the Inglewood, California jazz fest to wake up the minds of our people. And Bishop Nathanyel: Shalom, this is Bishop Nathanyel of Israel United in Christ. I have an important message about your leaders in the Christian church. Your bishops, pastors, reverends and ministers are all lying to you and leading you straight to damnation. The truth is, you so-called blacks, Latinos and Native Americans are the biblical Israelites according to Deuteronomy chapter 28. Jesus Christ is a black man with white wool hair.
 
-*[[1:47:39](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=6459s)]* All right, we're back. We're back from the break. I'm excited for y'all. I'm gonna answer some questions. Shout-out to y'all.
+*[[1:47:39](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=6459s)]* All right, we're back. We're back from the break. I'm excited for y'all. I'm gonna answer some questions.
 
 **Text:** Shalom leadership, Most High in Christ bless. Were northern kingdom in both Bethshan and the lands of the Medes after their deportation and replacement?
 
@@ -680,7 +678,7 @@ Reading from *Harper's Bible Dictionary*, page 363, the text under the pictures 
 
 **Text:** Shalom Deacon and leadership, Most High in Christ bless. I want to thank you all for the dedication and perseverance it takes to bring this information to the light for our people. When they wrote these books way back then, they had no idea that one day a prophet and his brothers would search out and reveal this precious information to the lost sheep, who never had the motivation to pick up a book, especially books about history. They had no idea that the guidelines written for their children would become the validation for our nation. The Most High has had his hand behind it all to expose their evil. All praises to the Most High in Christ. Shalom, from a sister of the New Jersey school.
 
-**Deacon Eythan:** That's true. Praise God. All right, thank you, thank you.
+**Deacon Eythan:** That's true. Praise God.
 
 **Text:** Shalom, Most High in Christ bless. So how was the difference established between northern and southern kingdom being captured by the Assyrians, to be called Anglo-Saxon? Not disputing the information, but trying to get an understanding. Where did Anglo come from? Growing up, Esau always made us seem like they were the Anglo-Saxons.
 
@@ -688,9 +686,9 @@ Reading from *Harper's Bible Dictionary*, page 363, the text under the pictures 
 
 *[[1:55:59](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=6959s)]* They were taken also. They didn't discriminate between who was who. They took whoever. So I hope that answers your question. If not, you can rephrase a little bit, if I didn't answer correctly. But if I'm understanding your question: there was no difference. They just took both. Sennacherib conquered Lachish during King Hezekiah's time and took us captive. He was trying to overthrow Judah, but the Lord had plans to not allow that to happen. Remember, the angel came and killed his army, so he had to fall back. But when it came to Shalmaneser and Tiglath-Pileser, they were successful in conquering northern kingdom, which took place prior to Sennacherib. So that's why I said northern kingdom first was taken, and so forth, became Scythians, whatever. And then later on Sennacherib came along and conquered Judah, put them in the same exact places, and they fell into the same category as wanderers. Scythian means wanderer. And in that neighborhood they were called Saka, or Scythians, soccer, whatever, Sacassani.
 
-*[[1:57:23](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=7043s)]* The reason why Esau claims to be Anglo-Saxons: because Esau took Europe over. Remember, the Greeks and Romans took over Europe. So they claimed to be Aryans. The original Europeans, or Aryans, was Japheth, and Japheth and Shem, because it says that Japheth shall dwell in the tents of Shem. So for example, you had the Medes and the Persians. The Medes is Japheth, and the Persians were Semitic, and those two intermingled a lot. So the elite Babylonians were Chaldeans, and the elite Persians were called Aryans. Aryan nation: the Persians were the original Aryan nation, and the Persians had parts of Europe on lock, and Iran. Like I said earlier, Russia and Iran are neighbors, Eurasia. So when the white man gained dominion over the earth, he says, I'm the elite, I'm Aryan, I'm the elite Eurasian. That's basically what he did. So they're not Aryans. The original Aryans were Persians. But the white man says, no, I'm Aryan, because he took over. Remember, the Greeks conquered the Persians and took their land over and called themselves Aryan nations. They're not. They have no identity. They steal everything. When you research history, where's the white man at? He's nowhere. He's just in the caves, eating out of his own ass. I don't know how he's doing. He's doing nothing at all, just living in caves, doing nothing, with no Gillette razor. Where are we at? I'm sorry, I went to a dark place. Let's just hope that answers your question. All praises.
+*[[1:57:23](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=7043s)]* The reason why Esau claims to be Anglo-Saxons: because Esau took Europe over. Remember, the Greeks and Romans took over Europe. So they claimed to be Aryans. The original Europeans, or Aryans, was Japheth, and Japheth and Shem, because it says that Japheth shall dwell in the tents of Shem. So for example, you had the Medes and the Persians. The Medes is Japheth, and the Persians were Semitic, and those two intermingled a lot. So the elite Babylonians were Chaldeans, and the elite Persians were called Aryans. Aryan nation: the Persians were the original Aryan nation, and the Persians had parts of Europe on lock, and Iran. Like I said earlier, Russia and Iran are neighbors, Eurasia. So when the white man gained dominion over the earth, he says, I'm the elite, I'm Aryan, I'm the elite Eurasian. That's basically what he did. So they're not Aryans. The original Aryans were Persians. But the white man says, no, I'm Aryan, because he took over. Remember, the Greeks conquered the Persians and took their land over and called themselves Aryan nations. They're not. They have no identity. They steal everything. When you research history, where's the white man at? He's nowhere. He's just in the caves, eating out of his own ass. I don't know how he's doing. He's doing nothing at all, just living in caves, doing nothing, with no Gillette razor. Where are we at? I'm sorry, I went to a dark place. Let's just hope that answers your question.
 
-*[[1:59:20](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=7160s)]* Okay, so: Paul wrote to Israelites in Spain. I brought that out to show the history of us in Spain. When Paul wrote this, that was in the early AD history. So Israel was definitely in Spain. Paul's writing to Israelites in Rome; he was also addressing the Israelites in Spain. So we were definitely there. Give me page 191. Let's get some more on the Scythians. Watch this. This is going to tie into Anglo-Saxons. It's going to tie into King James's family. Keep that in mind.
+*[[1:59:20](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=7160s)]* Okay, so: Paul wrote to Israelites in Spain. I brought that out to show the history of us in Spain. When Paul wrote this, that was in the early AD history. So Israel was definitely in Spain. Paul's writing to Israelites in Rome; he was also addressing the Israelites in Spain. So we were definitely there. Give me page 191. Let's get some more on the Scythians. This is going to tie into Anglo-Saxons. It's going to tie into King James's family. Keep that in mind.
 
 <div class="reading">
 
@@ -706,7 +704,7 @@ Reading from an old book on the Scythians, page 191 (thought on air to be early 
 
 > having thus been traced to one common origin,
 
-- So the Scythians, Thracians and Goths have all been traced to one common origin. Watch this. How old is this book? This book is old. We think this book probably is like early 1800s.
+- So the Scythians, Thracians and Goths have all been traced to one common origin. How old is this book? This book is old. We think this book probably is like early 1800s.
 
 > or as being rather different names for the same people,
 
@@ -714,7 +712,7 @@ Reading from an old book on the Scythians, page 191 (thought on air to be early 
 
 > there can be no reasonable doubt but that these represented the descendants of the ten tribes who had escaped from the Assyrian captivity. It has also been seen that some of these migrated into Asia Minor,
 
-- Some of these migrated into Asia Minor, the Scythians. Watch this.
+- Some of these migrated into Asia Minor, the Scythians.
 
 > and thus joined the Greco-Israelites and their colonies there.
 
@@ -722,7 +720,7 @@ Reading from an old book on the Scythians, page 191 (thought on air to be early 
 
 - **An officer:** And we have a video also of scholars saying the best books to use is the old ones, because they're not watered down and politically correct. They're raw and uncut, because they're not for us to read. A lot of these books are gifted, to you from your uncle so-and-so, from your aunt so-and-so; they pass these books down to family. But as America becomes liberal: oh no, I don't care about this, I'll sell them.
 
-- **Deacon Eythan:** We're gonna buy them. Read that.
+- **Deacon Eythan:** We're gonna buy them.
 
 </div>
 
@@ -736,13 +734,13 @@ Reading from *The Key to Northwest European Origins* (1833, as stated on air; th
 
 > It has already been brought to our attention that according to the Behistun Rock inscriptions, this name Scythian is one of the first names which Israel bore in exile.
 
-- Wow. So that name fell upon them, and later on to other nations that resided in that area, known as wanderers, but primarily us. Scythians.
+- So that name fell upon them, and later on to other nations that resided in that area, known as wanderers, but primarily us. Scythians.
 
 > God had determined to bury the identity of these exiles whom he had expelled from the promised land.
 
-- Wow. God had determined to bury the name. Remember, he said... Give me that scripture real quick. … bro, last night. Deuteronomy 32:26. Read it again.
+- God had determined to bury the name. Remember, he said... Give me that scripture real quick. … bro, last night. Deuteronomy 32:26.
 
-- Give me Deuteronomy 28:37 and then 32:26. The Scythian is a byword. So Paul was using bywords in the New Testament: Greek, Jew, that's a byword too, this is Judah really, barbarian, Scythian. Read that.
+- Give me Deuteronomy 28:37 and then 32:26. The Scythian is a byword. So Paul was using bywords in the New Testament: Greek, Jew, that's a byword too, this is Judah really, barbarian, Scythian.
 
 </div>
 
@@ -756,7 +754,7 @@ Reading from *The Key to Northwest European Origins* (1833, as stated on air; th
 
 > <sup>[26](/bible/deuteronomy/32#v26)</sup> I said, I would scatter them into corners, I would make the remembrance of them to cease from among men:
 
-- Watch this. Our identity will be removed, discontinued. Read that again. Read the book again.
+- Our identity will be removed, discontinued. Read the book again.
 
 <div class="reading">
 
@@ -772,7 +770,7 @@ Reading from *The Key to Northwest European Origins* (1833, as stated on air; th
 
 > when their identity was to be revealed to them.
 
-- Wow. Damn. When their identity was to be revealed to them. By who? By the prophets of the Lord, man. All praise. Give me Baruch 2:30. The Holy Spirit was going to step into the right man, we spoke about last night, to bring this knowledge to us, starting with our eldest elders up until now, up unto us now. Baruch chapter 2 verse 30.
+- Damn. When their identity was to be revealed to them. By who? By the prophets of the Lord, man. Give me Baruch 2:30. The Holy Spirit was going to step into the right man, we spoke about last night, to bring this knowledge to us, starting with our eldest elders up until now, up unto us now. Baruch chapter 2 verse 30.
 
 </div>
 
@@ -784,15 +782,13 @@ Reading from *The Key to Northwest European Origins* (1833, as stated on air; th
 
 - Where I will scatter them. And then we will be conquered and small, but then within that captivity we grow large again. For example, I mentioned earlier that the Haratin make up 40 percent of the population in that area. That's a lot of people. That's millions.
 
-- But in the land of their captivities: in the land of their captivities they shall remember themselves. Shall remember their identity. Prophecy being fulfilled now. Read that again.
+- But in the land of their captivities: in the land of their captivities they shall remember themselves. Shall remember their identity. Prophecy being fulfilled now.
 
 <div class="reading">
 
 Reading from *The Key to Northwest European Origins* (1833, as stated on air; the author is not named), continued · read by an officer  *[[2:06:59](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=7619s)]*
 
 > It has already been brought to our attention that according to the histone rock inscriptions this name Scythian is one of the first names which Israel bore in exile. God had determined to bury the identity of these exiles whom he had expelled from the promised land, so that they would lose their identity until the latter days, when their identity was to be revealed to them.
-
-- Wow.
 
 > In this section on the Scythians the foremost authorities will be consulted,
 
@@ -852,7 +848,7 @@ Reading from *The Key to Northwest European Origins* (1833, as stated on air; th
 
 > <sup>[2](/bible/1-maccabees/8#v2)</sup> And that they were men of great valour. It was told him also of their wars and noble acts which they had done among the Galatians, and how they had conquered them, and brought them under tribute;
 
-- Watch this. It was told him; he got word of their victorious conquests, their wars and noble acts which they had done among the Galatians. The Galatians here is the Gallic Wars. Julius Caesar, something called the Gallic Wars. He conquered pretty much the Scythians and established Roman colonies in those areas of land. It's called the Gallic Wars. They were destroying the Gauls. That's us. We were in France, and then we migrated over to Galatia, and we gave the name Gaul over to Galatia. So that's where Galatians comes from. That was us as well. You got that book also about the Galatians, who the Galatians are? Pull that up next, regarding them dwelling in Asia Minor with the Greco-Israelites. Remember that. Read that again.
+- It was told him; he got word of their victorious conquests, their wars and noble acts which they had done among the Galatians. The Galatians here is the Gallic Wars. Julius Caesar, something called the Gallic Wars. He conquered pretty much the Scythians and established Roman colonies in those areas of land. It's called the Gallic Wars. They were destroying the Gauls. That's us. We were in France, and then we migrated over to Galatia, and we gave the name Gaul over to Galatia. So that's where Galatians comes from. That was us as well. You got that book also about the Galatians, who the Galatians are? Pull that up next, regarding them dwelling in Asia Minor with the Greco-Israelites. Remember that.
 
 - They conquered the Gauls, said the same thing, same people. They conquered the Gauls, or Galatians. My Bible says Frenchmen. Because remember, that area, Gomer, they resided in that region and took the name and brought it over to Gaul, or Galatians. They conquered them and brought them under tribute, and enslaved us, pretty much, as the Gauls.
 
@@ -884,7 +880,7 @@ Reading from *The Key to Northwest European Origins* (1833, as stated on air; th
 
 - **An officer:** We got you, D.
 
-*[[2:21:43](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=8503s)]* Shout-out to our reader, man, an officer. Shout-out to the reader today; he came through. All praise the Most High, man. Y'all may know him; he be reading for Cap with Man Up Mondays. So all praises for good reading, man. Shout-out to Captain Joel, man, you couldn't be here. He's out there in Vegas; he's doing the work right now.
+*[[2:21:43](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=8503s)]* All praise the Most High, man. Y'all may know him; he be reading for Cap with Man Up Mondays. So all praises for good reading, man. He's out there in Vegas; he's doing the work right now.
 
 *[[2:22:23](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=8543s)]* There's a sister online that said that she found a slave master's diary, and she would like to send it to the Bishop. If you want to donate any books to the Bishop, you can mail it to P.O. Box 2695, Newburgh, New York, zip code 12550. Once again, that's P.O. Box 2695, Newburgh, New York, 12550. If you could leave a comment, so we get your name again.
 
@@ -908,7 +904,7 @@ Reading from *The Key to Northwest European Origins* (1833, as stated on air; th
 
 - So also, when he got in behind the walls of new Tyre, on the island, Alexander the Great being a war genius, they sailed away. And when they sailed away, when they got to north Africa, Judah was already there from the Babylonian captivity, northern kingdom was there from Assyria. We took over. Once Tyre, Sidon fell, we took over that trade: okay, well, you guys fell, we gotta take it from here. We became the Phoenicians. The Greeks called us Phoenicians, and we took on that trade of the Mediterranean Sea. That became our business. And then once we took all that trade, that seafaring business, we began to travel to Ireland, and we traveled to Britain, and things of that nature. I'll get that soon enough. So that's when Tyre fell, when Alexander the Great came and burned them to the ground. It was a wrap. The island was finished.
 
-- Don't worry, officer, we gonna get it to you, man. Levi, nothing. See, I told you. Leave it. Get the one with the Gauls. The Gallic Wars: he conquered us right there, First Maccabees 8:2. All right, center it, that's good. Let's go.
+- Don't worry, officer, we gonna get it to you, man. Levi, nothing. See, I told you. Get the one with the Gauls. The Gallic Wars: he conquered us right there, First Maccabees 8:2. All right, center it, that's good.
 
 <div class="reading">
 
@@ -920,7 +916,7 @@ Reading from *The Banner of Israel* (an 1800s publication; no page is given) · 
 
 > whatever rifts and remnants of Israel may be found in different parts, it must be true that Britain and her colonies contain the bulk of Ephraim.
 
-- Damn. I'm telling you, man. I'm telling you. What book is this? *The Banner of Israel*. 1800s. Is it another white-eyes-only book? Do I have this book? If you say I think, that means I don't have it. Jesus Christ. We can look into it. Go ahead. Let me read it over.
+- Damn. I'm telling you, man. I'm telling you. What book is this? *The Banner of Israel*. 1800s. Is it another white-eyes-only book? Do I have this book? If you say I think, that means I don't have it. Jesus Christ. We can look into it. Let me read it over.
 
 > So whatever intermixture of races is certain when we remember the scattering of Israel, may be found in Britain, whatever rifts and remnants of Israel may be found in different parts, it must be true that Britain and her colonies contain the bulk of Ephraim and the tribes of Israel, his fellows,
 
@@ -940,7 +936,7 @@ Reading from *The Banner of Israel* (an 1800s publication; no page is given) · 
 
 > who it can be seen are Israelites, and we know from history that
 
-- Wait, wait, wait. You gotta read that again. You're swimming through it too fast. You gotta take your time, man. Just float in the water, man. Just float, don't swim so fast.
+- You're swimming through it too fast. You gotta take your time, man. Just float in the water, man. Just float, don't swim so fast.
 
 - **An officer:** Let me backpedal on that.
 
@@ -950,15 +946,13 @@ Reading from *The Banner of Israel* (an 1800s publication; no page is given) · 
 
 > is proved by Saint Paul's epistle to the Galatians,
 
-- There you go.
-
 > who it can be seen are Israelites,
 
 - Who? So it can be seen by scholars that the Galatians were Israelites. How is it seen? Because the Bible says it.
 
 > and we know from history that these Galatians have been in the west of Europe under the name of Gauls,
 
-- There you go. That's where the term Gaul comes from. That's northern kingdom he's talking to in Galatians. That's who he's talking to.
+- That's where the term Gaul comes from. That's northern kingdom he's talking to in Galatians. That's who he's talking to.
 
 > or perhaps Kimbri
 
@@ -1004,11 +998,9 @@ Reading from *Ireland: Ur of the Chaldees* by Anna Wilkes, 1873, pages 39 and 40
 
 > Whether the Bible Hebrew and the Hebrew of Irish history may be the same does not concern us so much as the fact that Ireland has preserved to the present time more distinct marks of an ancient earth than can be pointed to in any other country, whether Asia or Europe. Besides Ireland having had once the name of Hibernia from Heber, there are names derived of Heber in England and Scotland. In Scotland, the Hebrides; in England, the old name of York
 
-- The Hebrides in Scotland. In England, the old name of York in England was called what? Hebericum. So Hibernia, or Hebericum: these places are named after the word Heber, Eber. Now you're gonna say, well, maybe it was ancient-time Eber. We'll see. Keep going.
+- The Hebrides in Scotland. In England, the old name of York in England was called what? Hebericum. So Hibernia, or Hebericum: these places are named after the word Heber, Eber. Now you're gonna say, well, maybe it was ancient-time Eber. We'll see.
 
 > It may appear, as the argument unfolds itself, that the balance of proof will rest on the side of the Irish Hebrew having been a veritable Hebrew.
-
-- Watch this.
 
 > A stronghold of the Hebrew was Iberia,
 
@@ -1028,11 +1020,11 @@ Reading from *Ireland: Ur of the Chaldees* by Anna Wilkes, 1873, pages 39 and 40
 
 </div>
 
-*[[2:39:50](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=9590s)]* Got some questions. I'll end on two questions; it's already 4:35. So a sister, I guess she put up new Tyre on the map. When Alexander the Great took the old ruins of old Tyre, he built rocks there, and over time it became part of the island and became a peninsula. So Alexander the Great turned the island of new Tyre into a peninsula, just to crash over the rocks and kill them for being disrespectful. That's what he did. That's how it looks now. A sister sent that. That's the map; that's how it looks now. Wow. All praises. Thank you. That's how it was out in the great conquest of new Tyre. The next one is old; never mind.
+*[[2:39:50](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=9590s)]* Got some questions. I'll end on two questions; it's already 4:35. So a sister, I guess she put up new Tyre on the map. When Alexander the Great took the old ruins of old Tyre, he built rocks there, and over time it became part of the island and became a peninsula. So Alexander the Great turned the island of new Tyre into a peninsula, just to crash over the rocks and kill them for being disrespectful. That's what he did. That's how it looks now. A sister sent that. That's the map; that's how it looks now. That's how it was out in the great conquest of new Tyre. The next one is old; never mind.
 
 ## In Closing
 
-*[[2:40:59](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=9659s)]* All praise to the Lord. We're going to wrap it up; I overran my time. Shout-out to the IT team that did an excellent job today. The breakfast team was excellent too. It was like a light breakfast; that was good.
+*[[2:40:59](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=9659s)]* All praise to the Lord. We're going to wrap it up; I overran my time. The breakfast team was excellent too. It was like a light breakfast; that was good.
 
 **An officer:** Hey, everybody, let's give Deacon one more hand, man. An excellent class, man. Excellent.
 

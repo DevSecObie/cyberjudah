@@ -18,7 +18,7 @@ tags: ["Our Hidden History", "spain-inquisition", "war"]
 
 ## Introduction
 
-*[[2:09](https://www.youtube.com/watch?v=SRNATgtNwQI&t=129s)]* Hey, hey, hey, welcome back, welcome back. Welcome to another episode of Our Hidden History radio, Our Hidden History radio. Back, chapter 14, going strong, and we're going to continue from where we left off. We left off at, oh sh, we left off at Hannibal's decline. But to my left, before I continue, to my left, Officer Haim, Officer lar, Officer J R and Officer onas. And we at chapter 14, and we left off with Hannibal's decline, Hannibal falling. And so we're going to continue in that route regarding the Carthaginian decline, the rise and fall of Carthage, and their travels. So basically we're going to go into their travels. Their travels is going to play a very important role in another very, another figure who the world knows about. So let's get into that.
+*[[2:09](https://www.youtube.com/watch?v=SRNATgtNwQI&t=129s)]* Welcome to another episode of Our Hidden History radio. Back, chapter 14, going strong, and we're going to continue from where we left off. We left off at, oh sh, we left off at Hannibal's decline. But to my left, before I continue, to my left, Officer Haim, Officer lar, Officer J R and Officer onas. And we at chapter 14, and we left off with Hannibal's decline, Hannibal falling. And so we're going to continue in that route regarding the Carthaginian decline, the rise and fall of Carthage, and their travels. So basically we're going to go into their travels. Their travels is going to play a very important role in another very, another figure who the world knows about. So let's get into that.
 
 ## Readings and Scriptures
 
@@ -30,7 +30,7 @@ Reading from a book on Gordian at Carthage and the Numidians · read by an offic
 
 > Some say that Gordian, as soon as he arrived at Carthage, Carthage, considering the great strength of Maximon, and that there was no force in Afric or Africa able to oppose him, strangle, strangle himself.
 
-- No, say strang, said strangled himself, or en rang and something himself. Some Old English word. I think it's strangled. Yeah, strangled himself. Okay. Oh, English.
+- No, say strang, said strangled himself, or en rang and something himself. Some Old English word. I think it's strangled. Yeah, strangled himself. Oh, English.
 
 > Able to oppose him, strangle himself,
 
@@ -58,10 +58,9 @@ Reading from a book on Gordian at Carthage and the Numidians · read by an offic
 
 </div>
 
-
 *[[5:47](https://www.youtube.com/watch?v=SRNATgtNwQI&t=347s)]* Let me see. black counts, no, not that page. I don't want that yet. What page is that? 196? Yes sir. No, I want the old, I want 80 something. Not that yet, I don't want that yet. Don't jump ahead, that's for later. I just want this to be there so I ain't got to bring on these books again. Go back to page 80. Was it 88? Try 89. Yeah, bring it over there. *Sex and Race*, volume one, by Ja Rogers. Pretty good stuff in here. Like I said, I take what I can out of it, where mentions Hannibal's wife.
 
-*[[6:33](https://www.youtube.com/watch?v=SRNATgtNwQI&t=393s)]* Matter of fact, go back there real quick. Go back, go back, go back to 88. I want to touch something real quick. Go back to page 88. I think we had an Edomite in the comment board last week, and he was like, yeah, he was happy, like, yeah, Hannibal's wifee was white, you guys are racist. She wasn't white, right. Remember I bought the book where it says that, and it says that Hannibal's army, this is the book where it mentions that Hannibal had an army of Spaniards in his military. He had Numidians, he had GS and he had Spaniards in his military. Keep that in mind. He had GS, Numidians and Spaniards in his military. Read this here. Blow up some. This should be the whole thing. Yes, we can see. There you go. Do I have underline? Now star from Hannibal and his African troops. Start there.
+*[[6:33](https://www.youtube.com/watch?v=SRNATgtNwQI&t=393s)]* Matter of fact, go back there real quick. Go back, go back, go back to 88. I want to touch something real quick. Go back to page 88. I think we had an Edomite in the comment board last week, and he was like, yeah, he was happy, like, yeah, Hannibal's wifee was white, you guys are racist. She wasn't white, right. Remember I bought the book where it says that, and it says that Hannibal's army, this is the book where it mentions that Hannibal had an army of Spaniards in his military. He had Numidians, he had GS and he had Spaniards in his military. Keep that in mind. He had GS, Numidians and Spaniards in his military. Read this here. Blow up some. This should be the whole thing. Yes, we can see. Do I have underline? Now star from Hannibal and his African troops. Start there.
 
 <div class="reading">
 
@@ -77,7 +76,7 @@ Reading from *Sex and Race*, volume one, by Ja Rogers, pages 88 to 89, on Hannib
 
 - Now J Rogers, a black author, he assumed she was white because she was from Spain. But you have to remember, we had, we ruled Spain. Remember, remember his brother-in-law hasal had Spain on lot. Remember the Romans won Spain from us, right, the mines, the silver mines and gold mines that they acquired, Romans acquired, in conquering Hannibal and his brother family out of Spain made them a Roman Empire. So our people were living in Spain, and a lot of his troops came from that area. So it's the reason why it says she was perhaps white, because she was from Spain. Don't mean nothing.
 
-- *[[8:15](https://www.youtube.com/watch?v=SRNATgtNwQI&t=495s)]* Now her name was Emil. Emil is the feminine version of Hamil car, hamar, which is Hannibal's father, Hamil car. And Emil, it means princess. hilar means, I think it means melart is like a king, like Malik or Malak or Malik, whatever. Malik, Malak, same thing. So her name was imil. She had a Punic name. Okay, she had a Punic. Why would the Edomite woman have a Punic name? Right, no, she was not no Edenite woman. She was a Jake woman, but she was from Spain. She wasn't from Africa. She wasn't a cenan from Africa, she was a cenan from Spain, because Spain was our province, as was Africa. Her name was Emil, okay, I-M-I-L-C-E, Emil, which is a Punic name, meaning that she was a Punic origin. She was his people. She was not no white woman. But he assumed because she was from Spain that she was white, but she wasn't. Let's continue. Go to next page. Next page. So boom. Sorry, Esau, she wasn't all white woman. Nice try though. Not that it matters, but she wasn't. Where we at there? St from razelle, I guess razelle.
+- *[[8:15](https://www.youtube.com/watch?v=SRNATgtNwQI&t=495s)]* Now her name was Emil. Emil is the feminine version of Hamil car, hamar, which is Hannibal's father, Hamil car. And Emil, it means princess. hilar means, I think it means melart is like a king, like Malik or Malak or Malik, whatever. Malik, Malak, same thing. So her name was imil. She had a Punic name. Okay, she had a Punic. Why would the Edomite woman have a Punic name? Right, no, she was not no Edenite woman. She was a Jake woman, but she was from Spain. She wasn't from Africa. She wasn't a cenan from Africa, she was a cenan from Spain, because Spain was our province, as was Africa. Her name was Emil, okay, I-M-I-L-C-E, Emil, which is a Punic name, meaning that she was a Punic origin. She was his people. She was not no white woman. But he assumed because she was from Spain that she was white, but she wasn't. Let's continue. Go to next page. So boom. Sorry, Esau, she wasn't all white woman. Nice try though. Not that it matters, but she wasn't. Where we at there? St from razelle, I guess razelle.
 
 > and Reckless and recluse have also spoken of the marked negro strain in the nor and North African peoples. The former says, Negroes crossed the Alps with Hannibal and fell at worth beside MCM.
 
@@ -107,13 +106,13 @@ Reading from *Sex and Race*, volume one, by Ja Rogers, pages 88 to 89, on Hannib
 
 - **Deacon Eythan:** Yes.
 
-- **Officer:** So when I watch that, I put Israelites in a space of the white people they putting there as the barbarians. Right. As you come across this history, it gives you, as well as those who are watching, a new insight when you watch historical things now on TV, cuz now you're seeing, hey, this is not white people I'm looking at. Well, it is, but this is my people, right? But it's white folks playing my people.
+- **Officer:** So when I watch that, I put Israelites in a space of the white people they putting there as the barbarians. As you come across this history, it gives you, as well as those who are watching, a new insight when you watch historical things now on TV, cuz now you're seeing, hey, this is not white people I'm looking at. Well, it is, but this is my people, right? But it's white folks playing my people.
 
 - **Deacon Eythan:** Yep, that's what you're seeing. Sparticus, my people. *300*, my people. All us. And that's why they call him actors.
 
 - **Officer:** Right, actors. Exactly. And there's another show that came on called *The Tutors*, right?
 
-- **Deacon Eythan:** That's all King James family line. Wow. All Tutors. The Tutors, that's all Jake. That's King James mother's line, Tutors, that's Jake.
+- **Deacon Eythan:** That's all King James family line. All Tutors. The Tutors, that's all Jake. That's King James mother's line, Tutors, that's Jake.
 
 - **Officer:** I didn't know that. Those white people?
 
@@ -125,7 +124,6 @@ Reading from *Sex and Race*, volume one, by Ja Rogers, pages 88 to 89, on Hannib
 
 </div>
 
-
 **[Romans 1:14](/bible/romans/1#v14)**  *[[16:26](https://www.youtube.com/watch?v=SRNATgtNwQI&t=986s)]*
 
 > <sup>[14](/bible/romans/1#v14)</sup> I am debtor both to the Greeks, and to the Barbarians; both to the wise, and to the unwise.
@@ -135,7 +133,6 @@ Reading from *Sex and Race*, volume one, by Ja Rogers, pages 88 to 89, on Hannib
 - Both to the wise and to the unwise, meaning wise. What's the opposite of wise? Unwise. What's the opposite of a Greek speaker? A non-Greek speaker, a barbarian, a Berber. This is Israelites, regardless. Go to Colossians 11. Read this before we going, read it again.
 
 - Now the barbarians are first mentioned in Acts 28, but I'm saving that, when the snake bit Paul's hand, those barbarians. I'mma save that for a reason, because that goes back to Carthage also. So I'm going to that later, bear with me. Colossians 31.
-
 
 **[Colossians 3:11](/bible/colossians/3#v11)**  *[[17:25](https://www.youtube.com/watch?v=SRNATgtNwQI&t=1045s)]*
 
@@ -149,14 +146,13 @@ Reading from *Sex and Race*, volume one, by Ja Rogers, pages 88 to 89, on Hannib
 
 - **Deacon Eythan:** Yeah, let's play catch-up, you know, like we had to do for the past 400 years. Play catch-up. Put your ass down, be quiet now. Let's continue back to *Sex and Race*. Yes sir. Page 89. Let's go to the bottom, regarding the relation between Numidians, as he read earlier, and Carthaginians. Go over to page 80. Is that it right there? Yes sir. Yes. Read that please.
 
-
 <div class="reading">
 
 Reading from *Sex and Race*, volume one, by Ja Rogers, page 89, on the Numidians · read by an officer  *[[18:57](https://www.youtube.com/watch?v=SRNATgtNwQI&t=1137s)]*
 
 > The Numidians of classic antiquity were a negro people.
 
-- The reason why he's saying of classic antiquity is because now they come off as Arabs. Most of those lands, the mreb or the Berber States, Barbar States, are Arab states now. They might call it the mreb, bunch of Arabs. The Arabs are called Moors now. But the Moors of antiquity was us. The reason why Arabs are there is because the Arabs, along with the Portuguese, sold us in the slave trade and took our lands over and became us, like the white folks did, and have us enslaved while we're living there today, cuz the slave trade taking place right now is, guess what, in the mreb, Tunisha, Algeria, Libya, where all Israel was. Right. So when the Portuguese came into power and the mois fell, we fled into, we fled back into the Barbery States. The Portug, the Arabs came along, and the Portuguese joined together and started to enslave us and sell us all over the freaking, all over the planet. You understand? The trans, the Arabs took us further east, and then the white men took us further west. You understand? That takes you to the transar slave trade. That takes you to the Chinese slave trade, Japanese, Iranian, Iraqi. That's what that led to. So that's why you have Arabs, about, I'm Numidian. No, you're not. The original Numidians of antiquity was our people. Black. Black. Read it again.
+- The reason why he's saying of classic antiquity is because now they come off as Arabs. Most of those lands, the mreb or the Berber States, Barbar States, are Arab states now. They might call it the mreb, bunch of Arabs. The Arabs are called Moors now. But the Moors of antiquity was us. The reason why Arabs are there is because the Arabs, along with the Portuguese, sold us in the slave trade and took our lands over and became us, like the white folks did, and have us enslaved while we're living there today, cuz the slave trade taking place right now is, guess what, in the mreb, Tunisha, Algeria, Libya, where all Israel was. So when the Portuguese came into power and the mois fell, we fled into, we fled back into the Barbery States. The Portug, the Arabs came along, and the Portuguese joined together and started to enslave us and sell us all over the freaking, all over the planet. The trans, the Arabs took us further east, and then the white men took us further west. That takes you to the transar slave trade. That takes you to the Chinese slave trade, Japanese, Iranian, Iraqi. That's what that led to. So that's why you have Arabs, about, I'm Numidian. No, you're not. The original Numidians of antiquity was our people. Black. Black.
 
 > The Numidians of classic antiquity were a negro people. Sir William Smith says that the word Mari, from which comes morania, Morocco,
 
@@ -164,12 +160,11 @@ Reading from *Sex and Race*, volume one, by Ja Rogers, page 89, on the Numidians
 
 > means black, and adds, these Moors must not be considered a different race from the midians, but as a tribe belonging to the same stock.
 
-- Right. So the midians were the same stock as what? As those of morania. Going back to the Moors, going back to Carthage, is the same play. midia is part of Carthage. Now why am I going through so much trouble talking about Numidians and so forth? What is the purpose of this? Like I said, I take you around the block, so that way no one's getting lost. This is, like I said, it's a very advanced history portion of our class. So I try to make things simple. I noticed that when I take it a little slower and make it a bit more easy to understand, the views kind of increase, right? Whereas when it's complicated, it's like, yeah, we ain't watching that. 2,000 views, that's it. So I'm trying to take y'all, if you keeping up with the classes, you know. If you're just watching this part for the first time, you're gonna be lost. So let's go to the clip I want. Let's go to what I want first. Give me Wikipedia first. Wikipedia, I want *Gladiator* film. The *Gladiator* film. All right. And I want you to go to cast.
+- So the midians were the same stock as what? As those of morania. Going back to the Moors, going back to Carthage, is the same play. midia is part of Carthage. Now why am I going through so much trouble talking about Numidians and so forth? What is the purpose of this? Like I said, I take you around the block, so that way no one's getting lost. This is, like I said, it's a very advanced history portion of our class. So I try to make things simple. I noticed that when I take it a little slower and make it a bit more easy to understand, the views kind of increase, right? Whereas when it's complicated, it's like, yeah, we ain't watching that. 2,000 views, that's it. So I'm trying to take y'all, if you keeping up with the classes, you know. If you're just watching this part for the first time, you're gonna be lost. So let's go to the clip I want. Let's go to what I want first. Give me Wikipedia first. Wikipedia, I want *Gladiator* film. The *Gladiator* film. And I want you to go to cast.
 
 </div>
 
-
-*[[23:03](https://www.youtube.com/watch?v=SRNATgtNwQI&t=1383s)]* Now this movie is excellent. It's a Russell Crow oldie, but old movie, but a great one. It's about, basically, it goes into, what is it, it's like a fact mixed with fiction. It goes PR into like a subus searis type of thing, where he goes from a gladiator to a warrior. And his name, his name is Max, Maximus. That's the main character, his name is Maximus. And Marcus celius, just to give you a history lesson real quick, Marcus aelius is the main king or Caesar of Rome at this time, who Maximus, the main character, serving. Marcus aelius was the one who allowed Septimus saris to gain status as a soldier, because he was a gladiator first. So Marcus aelius is kind of the one that *[[24:01](https://www.youtube.com/watch?v=SRNATgtNwQI&t=1441s)]* pretty much motivated stimus SAS to become a ruler or Caesar of Spain, and his son Commodus. Okay. When you read in the book of ezras, it talks about the eight contrary feathers. All right. Will I go on that? I might. But Septimus searis is who Marcus AEL is, pretty much he looked up to Mar. I think he named one of his sons after Marcus aelius. So Maximus is loosely based upon Septimus searis, who was from the same place that Hannibal was from, liya, Libya. Same Israelites, both Israelites. And let's go down. So you have Wae Phoenix plays Commodus. That's a guy play Joker. Let's go down to the, now you, the guy named jaman huo right there. He plays a friend of Maximus when he becomes a gladiator. What's it say? His name is Juba. What is his nationality?
+*[[23:03](https://www.youtube.com/watch?v=SRNATgtNwQI&t=1383s)]* Now this movie is excellent. It's a Russell Crow oldie, but old movie, but a great one. It's about, basically, it goes into, what is it, it's like a fact mixed with fiction. It goes PR into like a subus searis type of thing, where he goes from a gladiator to a warrior. And his name, his name is Max, Maximus. That's the main character, his name is Maximus. And Marcus celius, just to give you a history lesson real quick, Marcus aelius is the main king or Caesar of Rome at this time, who Maximus, the main character, serving. Marcus aelius was the one who allowed Septimus saris to gain status as a soldier, because he was a gladiator first. So Marcus aelius is kind of the one that *[[24:01](https://www.youtube.com/watch?v=SRNATgtNwQI&t=1441s)]* pretty much motivated stimus SAS to become a ruler or Caesar of Spain, and his son Commodus. When you read in the book of ezras, it talks about the eight contrary feathers. Will I go on that? I might. But Septimus searis is who Marcus AEL is, pretty much he looked up to Mar. I think he named one of his sons after Marcus aelius. So Maximus is loosely based upon Septimus searis, who was from the same place that Hannibal was from, liya, Libya. Same Israelites, both Israelites. And let's go down. So you have Wae Phoenix plays Commodus. That's a guy play Joker. Let's go down to the, now you, the guy named jaman huo right there. He plays a friend of Maximus when he becomes a gladiator. What's it say? His name is Juba. What is his nationality?
 
 <div class="reading">
 
@@ -185,10 +180,9 @@ Reading from Wikipedia, the cast of the film *Gladiator*  *[[24:55](https://www.
 
 </div>
 
-
 *[[25:49](https://www.youtube.com/watch?v=SRNATgtNwQI&t=1549s)]* Now, if you pause it here, his family, Commodus orders his family, orders his family to be killed, and he ends up suffering from a wound, and he ends up being found unconscious, and they take him in a slave trade. But they don't know his status. He's a Roman soldier, but they don't know he's a Roman soldier, so they take him as a slave. They call him the Sp, they call him the Spaniard. Okay, they call him the Spaniard. And Deac, had he been white, would they know that he was a slave? Right, they wouldn't.
 
-**Officer:** Right, exactly. He was a real war man. They would have known. They would have known they taking my slave. Right.
+**Officer:** Right, exactly. He was a real war man. They would have known. They would have known they taking my slave.
 
 **Deacon Eythan:** *[[26:34](https://www.youtube.com/watch?v=SRNATgtNwQI&t=1594s)]* So they made certain to use, right, exactly. You know. So let's get started at 1:28 and we're going to stop at 38. Then we're going to start again at 3:20 to 45. So at this point he's being carried as a slave, but all the other slaves, you see the Arab right there. The Arab, they made sure the Arab, right. But they lie on this part. One thing I notice about history, man, one thing about history I notice is that ishma always involved himself in slave trading, man. Even Joseph, damn Arabs had him as a slave. Arabs took him as a slave. ishma had a thing with slavery, man. I don't know what's up with ish, man. When the kingdom is established, we have some fun with y'all, because y'all love slavery, man. You're going to experience it too, cuz you're always involved in it. That's so, you brothers in Islam, I don't understand it. I don't understand it. So anyway, this is an Arab here, okay. They came across Maxim, they found Maximus like they found Joseph. Very similar. And take them as a slave. Watch. Can they hear and see? Make sure they can hear and see. I want no complaints about we can't hear and see nothing. No damn confusion. Let me know they not going. I want to hear it too. You're not going to shut it down. We download it, we'll see. It's only 10 seconds.
 
@@ -200,10 +194,9 @@ Reading from a clip from *Gladiator*, Maximus is captured, 1:28 to 1:38  *[[27:1
 
 - That's Juba.
 
-- *[[28:04](https://www.youtube.com/watch?v=SRNATgtNwQI&t=1684s)]* That's it. So he said, don't die, they'll feed you to the lions, they're worth more than we are, cuz we're slaves. The lion, the animals are worth more than us. Sound familiar? The damn slavery. Then we're going to jump to 3:20 to 45 seconds. So this is another guy, he's a former gladiator, and he's a, like a Don King, pretty much, of the gladiators. So the Arab brings these slaves to him, to buy them from him. So now he has to examine his merchandise, cuz he earned his freedom as a gladiator. He's free now. Now he's involved in the business of gladiators. Okay, so watch this. It made sure he's kind of dark himself too. He's Esau, but it made sure he's dark. Very slick, very cunning Esau. Very cunning with his casting. Press play. You got it? 3:20 to 45 seconds.
+- *[[28:04](https://www.youtube.com/watch?v=SRNATgtNwQI&t=1684s)]* That's it. So he said, don't die, they'll feed you to the lions, they're worth more than we are, cuz we're slaves. The lion, the animals are worth more than us. Sound familiar? The damn slavery. Then we're going to jump to 3:20 to 45 seconds. So this is another guy, he's a former gladiator, and he's a, like a Don King, pretty much, of the gladiators. So the Arab brings these slaves to him, to buy them from him. So now he has to examine his merchandise, cuz he earned his freedom as a gladiator. He's free now. Now he's involved in the business of gladiators. Okay, so watch this. It made sure he's kind of dark himself too. He's Esau, but it made sure he's dark. Very slick, very cunning Esau. Very cunning with his casting. You got it? 3:20 to 45 seconds.
 
 </div>
-
 
 <div class="reading">
 
@@ -225,16 +218,15 @@ Reading from a second clip from *Gladiator*, 3:20 to 3:45  *[[28:49](https://www
 
 - **Officer:** They pick these things up that they're putting in, you know, to see the intelligence, how far have we come.
 
-- **Deacon Eythan:** Right, right, right. As you can see, we've come pretty far.
+- **Deacon Eythan:** As you can see, we've come pretty far.
 
 - **Officer:** Yeah, absolutely. All praises to the Most High for that.
 
-- **Deacon Eythan:** Praise to the Lord. Right. All praises.
+- **Deacon Eythan:** Praise to the Lord.
 
 </div>
 
-
-**Officer:** *[[30:40](https://www.youtube.com/watch?v=SRNATgtNwQI&t=1840s)]* When y'all brothers get a chance, right, look, look up whitewash in Webster dictionary. Whitewash in the Webster dictionary, real quick, just to show you. When you're going to go down, there's a few different explanations. And what this information empowers you is to depict and dig in. Sometimes whatever Esau give you, you know, he's not going to give you the source. But in this particular flick, it wouldn't be, use the proper characters, right. They had to use the proper characters for their message to go across, and they use the same language that was so, but we don't know how to depict wrong from right. Go down, go down to four. That's three, four, right here. All right. So the definition of whitewash:
+**Officer:** *[[30:40](https://www.youtube.com/watch?v=SRNATgtNwQI&t=1840s)]* When y'all brothers get a chance, right, look, look up whitewash in Webster dictionary. Whitewash in the Webster dictionary, real quick, just to show you. When you're going to go down, there's a few different explanations. And what this information empowers you is to depict and dig in. Sometimes whatever Esau give you, you know, he's not going to give you the source. But in this particular flick, it wouldn't be, use the proper characters, right. They had to use the proper characters for their message to go across, and they use the same language that was so, but we don't know how to depict wrong from right. Go down, go down to four. That's three, four, right here. So the definition of whitewash:
 
 <div class="reading">
 
@@ -244,9 +236,7 @@ Reading from the Webster dictionary, the definition of whitewash  *[[31:33](http
 
 - **Officer:** Deac, so when they whitewash, they understand who they want to decrease.
 
-- **Deacon Eythan:** Wow.
-
-- **Officer:** Our factors in this prominent history, and they get increased as long as we keep seeing their image. Right. And this is what we're saying now. By you understanding this history and putting yourself in these places, sometime you could depict the garbage and say, okay, this is us. Right. Cuz till this day, from AA, when they were whitewashing the images in the iconas, iconas, whitewash, from that day till today, like Officer just said, in the movies, in the *[[32:31](https://www.youtube.com/watch?v=SRNATgtNwQI&t=1951s)]* movies is the same whitewash going on.
+- **Officer:** Our factors in this prominent history, and they get increased as long as we keep seeing their image. And this is what we're saying now. By you understanding this history and putting yourself in these places, sometime you could depict the garbage and say, okay, this is us. Cuz till this day, from AA, when they were whitewashing the images in the iconas, iconas, whitewash, from that day till today, like Officer just said, in the movies, in the *[[32:31](https://www.youtube.com/watch?v=SRNATgtNwQI&t=1951s)]* movies is the same whitewash going on.
 
 - **Deacon Eythan:** Blow it up some so we can see it more. I want to see it more. Blow it up. Give it everything else that almost, four, to alter. Go back to four, to alter.
 
@@ -266,7 +256,7 @@ Reading from the Webster dictionary, the definition of whitewash  *[[31:33](http
 
 - **Deacon Eythan:** You need to just dieye a hard, just, just take a shot glass and some bleach and this … just till you finished, man. End it till you're done. End it all, cuz you stupid as hell.
 
-- **Officer:** Scroll up, scroll up, scroll up. Boom, right there.
+- **Officer:** Boom, right there.
 
 > De B. To alter an original story by, oh gosh, by casting a white performer in a role based on a nonwhite person or vial character.
 
@@ -276,11 +266,11 @@ Reading from the Webster dictionary, the definition of whitewash  *[[31:33](http
 
 - **Officer:** That right.
 
-- **Deacon Eythan:** Psy, you going to see. I said you going to see yourself. Then we put an image of the Messiah, a depiction of the Messiah, as a black man: no images, brother. No images. Right. You Negroes are stupid, man. You simple as hell. Color don't matter? If color don't matter, why are black folks, why are black folks happy about Camala Harris? Why?
+- **Deacon Eythan:** Psy, you going to see. I said you going to see yourself. Then we put an image of the Messiah, a depiction of the Messiah, as a black man: no images, brother. No images. You Negroes are stupid, man. You simple as hell. Color don't matter? If color don't matter, why are black folks, why are black folks happy about Camala Harris? Why?
 
 - **Officer:** Yep.
 
-- **Deacon Eythan:** What makes them so happy about, what makes Kamala Harris so special, if color don't matter? Huh? Right. What made Obama so special? Huh? Cuz, cuz of his executive order he passed? His political campaigns? Name some, hell, let me help you. Name some that help black folks. Throw in the blank. *[[35:36](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2136s)]* Obama passed a law that helped black folks by blank. Fill it in. Fill it in.
+- **Deacon Eythan:** What makes them so happy about, what makes Kamala Harris so special, if color don't matter? Huh? What made Obama so special? Huh? Cuz, cuz of his executive order he passed? His political campaigns? Name some, hell, let me help you. Name some that help black folks. Throw in the blank. *[[35:36](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2136s)]* Obama passed a law that helped black folks by blank. Fill it in. Fill it in.
 
 - **Officer:** Push them to be more.
 
@@ -292,10 +282,9 @@ Reading from the Webster dictionary, the definition of whitewash  *[[31:33](http
 
 - **Officer:** Can you read first mccabes 3:48?
 
-- **Deacon Eythan:** Right, let's get that. That's what this is. We're going to read whitewashing in the Bible. Thank you. First maab 3:48. Cuz they know that color matters. That's why they say, okay, we going to start with the Bible. Erase the so-called Negroes, their history, from the Bible. We're going to put us up there. Read that. And then we bring out the truth that Christ is Black. Hate, hate. You hate us, you would have kill us. Exactly. All we say is the truth.
+- **Deacon Eythan:** Right, let's get that. That's what this is. We're going to read whitewashing in the Bible. First maab 3:48. Cuz they know that color matters. That's why they say, okay, we going to start with the Bible. Erase the so-called Negroes, their history, from the Bible. We're going to put us up there. And then we bring out the truth that Christ is Black. Hate, hate. You hate us, you would have kill us. Exactly. All we say is the truth.
 
 </div>
-
 
 **[1 Maccabees 3:48](/bible/1-maccabees/3#v48)**  *[[36:24](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2184s)]*
 
@@ -307,11 +296,11 @@ Reading from the Webster dictionary, the definition of whitewash  *[[31:33](http
 
 - **Officer:** *[[37:09](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2229s)]* Last point. You see, like the monuments, this, like all Deacon saying, it strengthens their children. We had them Negroes in slavery. Look, Abraham Lincoln, George Washington, so forth and so forth. That brings that pride level up even more.
 
-- **Deacon Eythan:** Right. And just to further the point, what I'm touching on right now, and some of y'all may not be aware, what we're touching on is the beginning of the Dark Ages. Right. That's what's happened. This is the grassroots of the Dark Ages. And Israel gained dominion in these areas of Europe and so forth. We were already there, based upon what we're going over now. So I want to share something real quick. Elon Musk, you have that video? What *[[37:50](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2270s)]* he mentioned, the Dark Ages. Let me give you an example of just how deep this rabbit hole goes regarding White watching. Now, the Dark Ages, Elon Musk. I showed y'all this before. Y'all saw this, right? You know what I'm talking about. I think it's the, let me see what video it is. I think it's the second one. Let me look at it. I got to see the title to know what it is. Yeah, just, if you can't find it, just type it in, Elon Musk Dark Ages. Yeah, it might pop up. We're going to see what he says regarding what will take place after World War II. Because Elon Musk is the genius mind of today. He is the Tony Stark of today. He's the one that's behind the space mo, Space Force, behind the new technological advancements of nuclear, *[[38:39](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2319s)]* of nuclear weapons and interplanetary space travel, which he plans on trying to get built and finished by next, mid next year, to leave the Earth because of an imminent destruction he believes is coming to this planet, and the safest place to survive it is not on the planet. I don't want the website. I want the YouTube video. This is good too, but I want the YouTube video. Type in Elon Musk World War I. That should be it. There should be two of them. They're both short clips. Elon Musk World War I. I don't know which one.
+- **Deacon Eythan:** And just to further the point, what I'm touching on right now, and some of y'all may not be aware, what we're touching on is the beginning of the Dark Ages. That's what's happened. This is the grassroots of the Dark Ages. And Israel gained dominion in these areas of Europe and so forth. We were already there, based upon what we're going over now. So I want to share something real quick. Elon Musk, you have that video? What *[[37:50](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2270s)]* he mentioned, the Dark Ages. Let me give you an example of just how deep this rabbit hole goes regarding White watching. Now, the Dark Ages, Elon Musk. I showed y'all this before. Y'all saw this, right? You know what I'm talking about. I think it's the, let me see what video it is. I think it's the second one. Let me look at it. I got to see the title to know what it is. Yeah, just, if you can't find it, just type it in, Elon Musk Dark Ages. Yeah, it might pop up. We're going to see what he says regarding what will take place after World War II. Because Elon Musk is the genius mind of today. He is the Tony Stark of today. He's the one that's behind the space mo, Space Force, behind the new technological advancements of nuclear, *[[38:39](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2319s)]* of nuclear weapons and interplanetary space travel, which he plans on trying to get built and finished by next, mid next year, to leave the Earth because of an imminent destruction he believes is coming to this planet, and the safest place to survive it is not on the planet. I don't want the website. I want the YouTube video. This is good too, but I want the YouTube video. Type in Elon Musk World War I. That should be it. There should be two of them. They're both short clips. Elon Musk World War I. I don't know which one.
 
 - **Officer:** I think it's a great background. I'm about to send it to him now.
 
-- **Deacon Eythan:** Yeah, you have it? Yes sir. Thank you. You guys are going to get it right now. Hold *[[39:24](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2364s)]* on. To show you that these people, this man studied. Just remember, reading books since he was 12 years old. He, with the books that we have up here, he had already, right, his parents, listen, he read this, he read that. He understood that eventually things tend to reverse back the way, eventually the way it originally was. He understood that. You peon heathens that are on the comment boards and you simple-minded Negroes don't understand that things that are turned upside down eventually turn right side up again.
+- **Deacon Eythan:** Yeah, you have it? Yes sir. You guys are going to get it right now. Hold *[[39:24](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2364s)]* on. To show you that these people, this man studied. Just remember, reading books since he was 12 years old. He, with the books that we have up here, he had already, right, his parents, listen, he read this, he read that. He understood that eventually things tend to reverse back the way, eventually the way it originally was. He understood that. You peon heathens that are on the comment boards and you simple-minded Negroes don't understand that things that are turned upside down eventually turn right side up again.
 
 - **Officer:** That's right. And also, dig, Officer lqu and I was reasoning on this earlier. Our oppressors, the books that they have, they hand it down to their children as gifts, as something precious. *[[40:13](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2413s)]* The information that's in here is only for you, so you could pass it down to your children. And we haven't developed that, the system within us, within the Israelite community. We got a, like, one of my favorite gifts to give people is a Bible. I mean, I'm thinking that's the greatest gift you can give to somebody, right.
 
@@ -319,16 +308,13 @@ Reading from the Webster dictionary, the definition of whitewash  *[[31:33](http
 
 - **Officer:** And you know, against you, you know, for getting the books.
 
-- **Deacon Eythan:** Bring it out, De. We do, we get them. CIS, that's the most. We have them now. It's a new day and age. We get them. Right. We get him, and Deac, that's why I was telling him, I bought a book and it *[[40:57](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2457s)]* was endorsed as a gift from so-and-so to somebody else. Yes, as a gift. Enjoy this, from your auntie or uncle. It's a good read. And you'll see them highlighting it, underlining things, circling the pages, pencil it in. I listen, I had the books, it's circled in. I'm like, oh, that's a good one, thanks. I circle it, save it, write that down. And Deac, in that same book, it was a Jewish encyclopedia.
-
-- **Officer:** Wow.
+- **Deacon Eythan:** Bring it out, De. We do, we get them. CIS, that's the most. We have them now. It's a new day and age. We get them. We get him, and Deac, that's why I was telling him, I bought a book and it *[[40:57](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2457s)]* was endorsed as a gift from so-and-so to somebody else. Yes, as a gift. Enjoy this, from your auntie or uncle. It's a good read. And you'll see them highlighting it, underlining things, circling the pages, pencil it in. I listen, I had the books, it's circled in. I'm like, oh, that's a good one, thanks. I circle it, save it, write that down. And Deac, in that same book, it was a Jewish encyclopedia.
 
 - **Deacon Eythan:** That's the same book that shows you that Christopher Columbus identify this land as AR.
 
-- **Officer:** Wow, there you go. So it show you that the, like I was telling the Officer, was talking, the Yeshiva University don't have no Negroes, no Latinos, no Chinese. It's only strictly Jewish kids in those schools, and they don't want *[[41:54](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2514s)]* that, read those books. So they know, be like, you want to maintain that superiority, you make sure these books never get to these people.
+- **Officer:** So it show you that the, like I was telling the Officer, was talking, the Yeshiva University don't have no Negroes, no Latinos, no Chinese. It's only strictly Jewish kids in those schools, and they don't want *[[41:54](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2514s)]* that, read those books. So they know, be like, you want to maintain that superiority, you make sure these books never get to these people.
 
-- **Deacon Eythan:** Right, right. Don't tell the go, don't tell the …, right. Don't tell the … Play that. Hope this is it. That's it, D.
-
+- **Deacon Eythan:** Don't tell the go, don't tell the …, right. Don't tell the … Play that. Hope this is it. That's it, D.
 
 <div class="reading">
 
@@ -336,15 +322,15 @@ Reading from a clip of Elon Musk on another Dark Ages after a third world war  *
 
 > The things that I believe in, like extending life beyond Earth, making life multiplanetary. I'm a big believer in sort of asos's Foundation series, or the principle that you really want to, you know, I recommend reading the Foundation series, but it's like, if you know that there's a, there's likely to be, we don't know, but there's likely to be another Dark Ages, which it seems, my guess is there probably will be at some point, horse.
 
-- Pause. *[[42:45](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2565s)]* Wow. Another Dark Ages. You don't know, you're not sure. He does know.
+- *[[42:45](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2565s)]* Wow. Another Dark Ages. You don't know, you're not sure. He does know.
 
 - **Officer:** Yeah, that's his talk. He corrected himself. He said we know, we don't know.
 
-- **Deacon Eythan:** Right, right. You know, you said, he said the truth first. We know there's going to be another one coming, another Dark Ages. But watch what he says, when there will be another Dark Ages. Continue.
+- **Deacon Eythan:** You know, you said, he said the truth first. We know there's going to be another one coming, another Dark Ages. But watch what he says, when there will be another Dark Ages. Continue.
 
 > I'm not, I'm not predicting that we're about to enter Dark Ages, but that there's some probability that we will, particularly if there's a third world war.
 
-- Pause. After World War I there will be another Dark Ages, when Negroes are ruling the planet. *Planet of the Apes*, that's what that is.
+- After World War I there will be another Dark Ages, when Negroes are ruling the planet. *Planet of the Apes*, that's what that is.
 
 - **Officer:** Yep.
 
@@ -364,7 +350,7 @@ Reading from a clip of Elon Musk on another Dark Ages after a third world war  *
 
 > to bring civilization back, and perhaps shorten the length of the Dark Ages.
 
-- Pause. What does that mean? That means that when we escape and we roll and we bring ourselves back, we're going to come back and fight against the Dark Ages. That's what he's saying. We're going to come back, replenish ourselves, leave Mars, come back to Earth and fight for the *[[46:04](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2764s)]* Earth back again out of the hands of the dark people. That's what he's saying. And Deac, I got bad news for him. This time Christ is going to be on the scene, right. He going to roll. So you definitely coming back down to get your punishment. We're going to come for you. No space suits. We going to come for you. Red people for the red planet. We're going to come for y'all. That's going to be our planet.
+- What does that mean? That means that when we escape and we roll and we bring ourselves back, we're going to come back and fight against the Dark Ages. That's what he's saying. We're going to come back, replenish ourselves, leave Mars, come back to Earth and fight for the *[[46:04](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2764s)]* Earth back again out of the hands of the dark people. That's what he's saying. And Deac, I got bad news for him. This time Christ is going to be on the scene, right. He going to roll. So you definitely coming back down to get your punishment. We're going to come for you. No space suits. We going to come for you. Red people for the red planet. We're going to come for y'all. That's going to be our planet.
 
 - **Officer:** And Di, he said the human civilization. Remember, you negro is not considered human here.
 
@@ -376,23 +362,21 @@ Reading from a clip of Elon Musk on another Dark Ages after a third world war  *
 
 </div>
 
-
 **[2 Esdras 6:9](/bible/2-esdras/6#v9)**  *[[46:49](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2809s)]*
 
 > <sup>[9](/bible/2-esdras/6#v9)</sup> For Esau is the end of the world, and Jacob is the beginning of it that followeth.
 
-- Dark Ages. Another Dark Ages, that's what he's saying. That's in the Bible. Bring it up. Look at his face, man. He's serious. He ain't smiling, he's not smirking. In another video we have, where he's telling people in public, saying World War II, AI, he's like, right, yeah, so nukes, bombs, we got to escape it. Everyone's like, he's like, yeah, okay. And so he's not smiling at all. He's dead serious. Serious. That's a face *[[47:43](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2863s)]* of resolve. That's a face of focus. Like, we got to get the hell out of here. We got to get up out of here.
+- Dark Ages. Another Dark Ages, that's what he's saying. That's in the Bible. Look at his face, man. He's serious. He ain't smiling, he's not smirking. In another video we have, where he's telling people in public, saying World War II, AI, he's like, right, yeah, so nukes, bombs, we got to escape it. Everyone's like, he's like, yeah, okay. And so he's not smiling at all. He's dead serious. Serious. That's a face *[[47:43](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2863s)]* of resolve. That's a face of focus. Like, we got to get the hell out of here. We got to get up out of here.
 
 - **Officer:** He probably so division. It's time to go.
 
 - **Deacon Eythan:** And that very action is fulfilling our prophecy. Yes, it isca 2:9. Yep. It's fulfilling our prophecy, that he will try to escape this. Yeah, we going to get that right now. You got, you Negroes, you pushing hate, you're pushing hate. The book of, the book of feca chapter 2:9.
 
-
 **[Habakkuk 2:9](/bible/habakkuk/2#v9)**  *[[47:43](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2863s)]*
 
 > <sup>[9](/bible/habakkuk/2#v9)</sup> Woe to him that coveteth an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil!
 
-- Did he not, did they not do that? Cover an evil covetousness. Stealing our identity, taking our land, teaching us lies, stealing our lands, plural. Both promised lands were stolen, Israel and Americas. And taking our identity also. Whitewashing, our whitewashing. Want to be *[[48:31](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2911s)]* our God, want to be our Messiah, want to be our angels, want to be our God. Ain't that what they did? Read it again.
+- Did he not, did they not do that? Cover an evil covetousness. Stealing our identity, taking our land, teaching us lies, stealing our lands, plural. Both promised lands were stolen, Israel and Americas. And taking our identity also. Whitewashing, our whitewashing. Want to be *[[48:31](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2911s)]* our God, want to be our Messiah, want to be our angels, want to be our God. Ain't that what they did?
 
 - Stealing lands and people and places.
 
@@ -402,16 +386,15 @@ Reading from a clip of Elon Musk on another Dark Ages after a third world war  *
 
 - **Officer:** That's right.
 
-- **Deacon Eythan:** The Negro isn't, the Negro is an idiot. He's a false book. He's a fairy tale book. The Bible is the true book. Read it again.
+- **Deacon Eythan:** The Negro isn't, the Negro is an idiot. He's a false book. He's a fairy tale book. The Bible is the true book.
 
 - **Officer:** No, no, I was say, like D said, was made in America.
 
 - **Deacon Eythan:** Exactly, right. He was *[[49:21](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2961s)]* reinforced in America. Read again.
 
-- His nest on high, to do what? That he may be delivered from the power of evil. What's the power of evil? The Lord's day. That's it. The Lord's day of return. That's the day of evil. Not evil for us, evil for him. So y'all continue to mock and make your little cute little comments in the comment board. You guys are racist, and you're, your interpretation. Okay, let it be our interpretation. When you get that broadcast in your TV: hello, this is an emergency, I repeat, this is not, this is an emergency, please report to your nearest bomb shelter in an orderly fashion. When you *[[50:03](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3003s)]* hear that, let's see how much racism we are then. That's what you going to hear. That's it. Since y'all don't believe us, there you go. Hearing it from Esau himself. Right. Yep. That's all I want. I need nothing more. Thank you, Elon. We appreciate you. Thank you, thank you. We're going to find you, though, regardless. You go, we're going to find you.
+- His nest on high, to do what? That he may be delivered from the power of evil. What's the power of evil? The Lord's day. That's it. The Lord's day of return. That's the day of evil. Not evil for us, evil for him. So y'all continue to mock and make your little cute little comments in the comment board. You guys are racist, and you're, your interpretation. Okay, let it be our interpretation. When you get that broadcast in your TV: hello, this is an emergency, I repeat, this is not, this is an emergency, please report to your nearest bomb shelter in an orderly fashion. When you *[[50:03](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3003s)]* hear that, let's see how much racism we are then. That's what you going to hear. That's it. Since y'all don't believe us, there you go. Hearing it from Esau himself. Yep. That's all I want. I need nothing more. We appreciate you. We're going to find you, though, regardless. You go, we're going to find you.
 
 - Give me Daniel 7:1. Now keep in mind, I'mma go over it, keep it, I'm probably gonna skip it, though, real fast. Keep in mind I mentioned Marcus aelius. If you watch *Gladiator*, you know who that is. Marcus aelius was a Caesar, and Commodus was his son. Commodus is the one who killed Maximus's family in the movie, and he pretty much got sold into slavery as a *[[50:49](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3049s)]* result of communist ordering the murder of his family, his son, his wife and son.
-
 
 **[Daniel 7:1-8](/bible/daniel/7#v1)**  *[[50:49](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3049s)]*
 
@@ -465,8 +448,7 @@ Reading from a clip of Elon Musk on another Dark Ages after a third world war  *
 
 - So a little horn is referring to America. You had some scholars say, oh, it's referring to Antiochus. How is the, Antiochus came out of the Greeks. This horn came out of Rome. *[[54:15](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3255s)]* Antiochus didn't come out of Rome, so you can't use that. This is not Antiochus or Antiochus. This is referring to America, which extends out of Rome. The 10 horns come out of there.
 
-- Now let's go to Nelson's Bible maps and charts. This is a book I use. I used to use, teach, use this all the time. I used to use this book all the time. It's called Nelson's Bible maps and charts. I used it, I used to have Monday night class. When I had Monday night classes, I would use this book all the time. So I don't mind giving this away. It's called *The Complete Book of Bible Maps and Charts*, all the New Testaments. *Nelson's Complete Book of Bible Maps and Charts*. I want pages, know what I want, 236 and 37. I forgot why I want these pages. I put this class *[[55:06](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3306s)]* together like months ago, so I'm learning live. I'm learning right along with y'all, as the why. I wrote it down, so I'm surprised as much as you when I read it. Is there any pencil markings anywhere? Let me go. I see the bottom here. Let me go there. Hold on, let me go there, let me go there. Let me go and see why I got this here in the first place. I see Daniel 2 and 7 at the bottom. Yeah, there's a reason why I have this book. It's very good book. I use it for a lot of, I use it for the captivities. It gives you the time frame of captivities. Very good timeline, pretty accurate, I would say. Hold on, hold on a second. Yeah, read. Although it is claimed, no, read first. Read the argument that predictive, the argument that predictive *[[56:07](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3367s)]* prophecy. All right. Right there.
-
+- Now let's go to Nelson's Bible maps and charts. This is a book I use. I used to use, teach, use this all the time. I used to use this book all the time. It's called Nelson's Bible maps and charts. I used it, I used to have Monday night class. When I had Monday night classes, I would use this book all the time. So I don't mind giving this away. It's called *The Complete Book of Bible Maps and Charts*, all the New Testaments. *Nelson's Complete Book of Bible Maps and Charts*. I want pages, know what I want, 236 and 37. I forgot why I want these pages. I put this class *[[55:06](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3306s)]* together like months ago, so I'm learning live. I'm learning right along with y'all, as the why. I wrote it down, so I'm surprised as much as you when I read it. Is there any pencil markings anywhere? Let me go. I see the bottom here. Let me go there. Hold on, let me go there, let me go there. Let me go and see why I got this here in the first place. I see Daniel 2 and 7 at the bottom. Yeah, there's a reason why I have this book. It's very good book. I use it for a lot of, I use it for the captivities. It gives you the time frame of captivities. Very good timeline, pretty accurate, I would say. Yeah, read. Although it is claimed, no, read first. Read the argument that predictive, the argument that predictive *[[56:07](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3367s)]* prophecy. Right there.
 
 <div class="reading">
 
@@ -474,7 +456,7 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*, pages 236 and 23
 
 > The argument that predictive prophecy is impossible, and therefore that the sequence of empires depicted in chapters 7 and 8 was written during the 2 Century BC period of Greek domination
 
-- Here's the argument. The argument was that Daniel 7 was written during the time of the Greeks, because they're trying to negate the fact that Daniel wrote about the Greeks before they existed. So it's saying, oh, when this was written, it was written during the time when Babylon and Persia already ruled. So they're trying to rule out the prophetic validity of Daniel 7 and 8. Right. So watch what the author does here. He's going to say that they're trying to *[[56:55](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3415s)]* say that predictive prophecy is impossible. What's that mean? There's no God. That's there say. This is the argument between scholars and secular scholars, those who believe in the Bible, those who don't. Watch.
+- Here's the argument. The argument was that Daniel 7 was written during the time of the Greeks, because they're trying to negate the fact that Daniel wrote about the Greeks before they existed. So it's saying, oh, when this was written, it was written during the time when Babylon and Persia already ruled. So they're trying to rule out the prophetic validity of Daniel 7 and 8. So watch what the author does here. He's going to say that they're trying to *[[56:55](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3415s)]* say that predictive prophecy is impossible. What's that mean? There's no God. That's there say. This is the argument between scholars and secular scholars, those who believe in the Bible, those who don't. Watch.
 
 > was written during the 2 Century BC period of Greek domination, involves a dogmatic rejection of the supernatural.
 
@@ -494,7 +476,7 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*, pages 236 and 23
 
 > which achieved dominance long after the Alle 2 Century BC date of writing, rather than Greece.
 
-- Right. So how, so even if you were to say it was written during the time of the Greeks, how do you know about Rome? Right. How do you know? Right. So you still can't rule it out. But watch. Continue.
+- So how, so even if you were to say it was written during the time of the Greeks, how do you know about Rome? How do you know? So you still can't rule it out. But watch. Continue.
 
 > Although it is claimed that the Aramaic portion of Daniel, chapters 2 to 7, is late Aramaic,
 
@@ -506,7 +488,7 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*, pages 236 and 23
 
 - **Officer:** Mhm.
 
-- **Deacon Eythan:** Daniel came from a lot of kings. Mhm. These is Hezekiah's children, his seed. So he came from a princely background, nobility. So he spoke an imperial Aramaic. Watch this.
+- **Deacon Eythan:** Daniel came from a lot of kings. Mhm. These is Hezekiah's children, his seed. So he came from a princely background, nobility. So he spoke an imperial Aramaic.
 
 > a form, a form consistent with a 6th century BC date.
 
@@ -522,7 +504,7 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*, pages 236 and 23
 
 - **Officer:** Prophecy.
 
-- **Deacon Eythan:** Right. So it's prophecy.
+- **Deacon Eythan:** So it's prophecy.
 
 > Though some argue that there were, though some argue that there are *[[59:50](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3590s)]* historical errors in Daniel,
 
@@ -534,19 +516,17 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*, pages 236 and 23
 
 > While some questions remain, none POS and Eros superable, OS superable, superable and superable difficulty for a 6th century BC date.
 
-- Nothing. No one can negate the fact that it was written during the time of Babylon. None. It's irrefutable. So it is prophetic. It was written during the time of Babylon, and therefore it is possible, predictive prophecy is possible. Esau said no, no *[[1:00:38](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3638s)]* way. They trying to, it couldn't fight it. Said, nah, nope, we lost. He's right, it's accurate. Now you say in the bottom, the next one, what's in the bottom? Read. Daniel, apocalypse, Daniel, the Old Testament. Oh wow. Read that.
+- Nothing. No one can negate the fact that it was written during the time of Babylon. None. It's irrefutable. So it is prophetic. It was written during the time of Babylon, and therefore it is possible, predictive prophecy is possible. Esau said no, no *[[1:00:38](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3638s)]* way. They trying to, it couldn't fight it. Said, nah, nope, we lost. He's right, it's accurate. Now you say in the bottom, the next one, what's in the bottom? Daniel, apocalypse, Daniel, the Old Testament.
 
 > Daniel, the Apocalypse of the Old Testament, presents a surprisingly comprehensive sweep of prophetic history. After an introductory chapter in Hebrew, Daniel switches to the Aramaic language in chapters 2 to 7 to describe the future course of the Gentile world powers.
 
-- Wow. So he switched the languages, y'all, to understand captivity.
+- So he switched the languages, y'all, to understand captivity.
 
 - **Officer:** Correct, correct, correct.
 
 - **Deacon Eythan:** Isaiah, Isaiah said also, Isaiah said, with a different tongue shall speak to these people.
 
-- **Officer:** Right.
-
-- **Deacon Eythan:** Yeah. Read, keep going.
+- **Deacon Eythan:** Yeah.
 
 > Daniel reverts to Hebrew to survey the future of the *[[1:01:35](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3695s)]* Jewish nation under Gentile domination.
 
@@ -558,7 +538,7 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*, pages 236 and 23
 
 > as well as to the Jews, whose nation was destroyed by the Babylonians. The Babylonians, Persians, Greeks and Romans will come and go,
 
-- That's what the Daniel says. Right.
+- That's what the Daniel says.
 
 > but God will establish his kingdom through his redeemed people forever.
 
@@ -566,7 +546,7 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*, pages 236 and 23
 
 - **Officer:** And you know, so bring it through fruit. Exactly. And this is the preeminence we should hold on to. We should not be afraid to speak of these things boldly in these latter days.
 
-- **Deacon Eythan:** Right. So this is, again, *Nelson's Complete Book of Bible Maps and Charts*. It might cost $1,000 by the end of the night. Sorry. *Nelson's Complete Book of Bible Maps and Charts* includes reproducible maps and charts, Old and New Testaments. It's blue cover. Look for this copy yourself. Read it and weep, lying heathen bastards. You are watching too.
+- **Deacon Eythan:** So this is, again, *Nelson's Complete Book of Bible Maps and Charts*. It might cost $1,000 by the end of the night. Sorry. *Nelson's Complete Book of Bible Maps and Charts* includes reproducible maps and charts, Old and New Testaments. It's blue cover. Look for this copy yourself. Read it and weep, lying heathen bastards. You are watching too.
 
 - **Officer:** I remember, De, I remember used this book a while back to show that the Persian Empire was 400 years *[[1:03:04](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3784s)]* leading up to Christ. He had the exact, he had the exact, we can read that date. Ezra, right?
 
@@ -582,13 +562,13 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*, pages 236 and 23
 
 > Another theme of this book is the emphasis on separation to God.
 
-- Stop. And this is what Negroes today don't want to do. Come out of her, my people. Separate yourself from this modern-day Babylonian system, cuz we're in our captivity. All right, read on.
+- Stop. And this is what Negroes today don't want to do. Come out of her, my people. Separate yourself from this modern-day Babylonian system, cuz we're in our captivity.
 
 > Another theme of this book is the emphasis on separation to God, *[[1:04:02](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3842s)]* with Daniel as the ultimate example. From his decision not to eat the king's food, in Daniel chapter 1:8-16, to his refusal to pray to the king, chapter 6, verse, I mean verses 4 to 24, Daniel displayed such an uncompromising spirit that spectacular opportunities were open for God to display his power on Daniel's behalf.
 
 - **Officer:** And this is what God want to do with us. He want to display his power within our behalf right now. Us waking up and standing up for the truth and bringing back our heritage and displaying it, God will speak on our behalf.
 
-- **Deacon Eythan:** Right. Y'all, this page, y'all didn't copy this one. You need to take, J, you ain't right, man. They got to take a screenshot of it. Oh, you talking about of this page? *[[1:04:55](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3895s)]* Yeah. Once 61 here, so we could let them do that. Let's go to, real quick, let's go to, sorry, Deac, second, it's second, just get it in the meantime. Let's see if we go inside with this.
+- **Deacon Eythan:** Y'all, this page, y'all didn't copy this one. You need to take, J, you ain't right, man. They got to take a screenshot of it. Oh, you talking about of this page? *[[1:04:55](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3895s)]* Yeah. Once 61 here, so we could let them do that. Let's go to, real quick, let's go to, sorry, Deac, second, it's second, just get it in the meantime. Let's see if we go inside with this.
 
 - **Officer:** It's in second Eis. It's chapter 7, I think, right? I'm looking at 8 or 9. It may be 7. Yes sir, 7:28.
 
@@ -596,16 +576,15 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*, pages 236 and 23
 
 </div>
 
-
 **[2 Esdras 7:28-29](/bible/2-esdras/7#v28)**  *[[1:04:55](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3895s)]*
 
 > <sup>[28](/bible/2-esdras/7#v28)</sup> For my son Jesus shall be revealed with those that be with him, and they that remain shall rejoice within four hundred years.
 
-- There you go. He's mentioning the, he mentioning the Apocrypha. My son Jesus shall what? My son.
+- He's mentioning the, he mentioning the Apocrypha. My son Jesus shall what? My son.
 
 - To the disciples.
 
-- Those that remain, those who are remain during his *[[1:05:48](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3948s)]* time, shall rejoice within 400 years. Why shall they rejoice? They're going to, Christ is going to be born. Now Ezra is during the time of what? Captivity. Persian. So he said, within 400 years time after you, the Lord going to show up, and those that remain are going to rejoice because they're going to be there with him 400 years from now. Right. So now y'all got it. Read verse 29.
+- Those that remain, those who are remain during his *[[1:05:48](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3948s)]* time, shall rejoice within 400 years. Why shall they rejoice? They're going to, Christ is going to be born. Now Ezra is during the time of what? Captivity. Persian. So he said, within 400 years time after you, the Lord going to show up, and those that remain are going to rejoice because they're going to be there with him 400 years from now. So now y'all got it. Read verse 29.
 
 > <sup>[29](/bible/2-esdras/7#v29)</sup> After these years shall my son Christ die, and all men that have life.
 
@@ -613,18 +592,15 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*, pages 236 and 23
 
 - **Officer:** Oh, you got it there. It is. All one 161. That's it.
 
-- **Deacon Eythan:** Pastor, bring the book *[[1:06:37](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3997s)]* back. Thank you. I forget it. Don't get too comfortable with it now. Read verse 28 again.
+- **Deacon Eythan:** Pastor, bring the book *[[1:06:37](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3997s)]* back. I forget it. Don't get too comfortable with it now. Read verse 28 again.
 
-- The book of second ezas chapter 7:28. For my son Jesus shall be revealed with those that be with him, and they that remain shall rejoice within 400 years. Within 400 years from this time of Ezra, Persian captivity. Because after 400 years of Persia, Rome took over. Rome came up 400 years later. Watch this. Read this book now.
-
+- The book of second ezas chapter 7:28. For my son Jesus shall be revealed with those that be with him, and they that remain shall rejoice within 400 years. Within 400 years from this time of Ezra, Persian captivity. Because after 400 years of Persia, Rome took over. Rome came up 400 years later. Read this book now.
 
 <div class="reading">
 
 Reading from *Nelson's Complete Book of Bible Maps and Charts*, on Nehemiah · read by an officer  *[[1:06:37](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3997s)]*
 
 > Themes and literary structure. The book of Nehemiah completes the historical account of God's people in the Old Testament,
-
-- Watch this.
 
 > about 400 years before the birth of the promised Messiah.
 
@@ -648,14 +624,13 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*, on Nehemiah · r
 
 - **Officer:** That's why you filter everything through the Bible, right? That's, I said before. *[[1:08:14](https://www.youtube.com/watch?v=SRNATgtNwQI&t=4094s)]* Mhm.
 
-- **Deacon Eythan:** Hold on. Contrary feathers, chapter 12, Deac? Yeah, 11. 11, 11 verse 3 and 11:11. That's some weird sounds going on here.
+- **Deacon Eythan:** Contrary feathers, chapter 12, Deac? Yeah, 11. 11, 11 verse 3 and 11:11. That's some weird sounds going on here.
 
 - **Officer:** The book of second ezas 11 verse 3.
 
 - **Deacon Eythan:** Got robots over there. What's going on? Transformers over there. 11 and 3.
 
 </div>
-
 
 **[2 Esdras 11:1-3,11](/bible/2-esdras/11#v1)**  *[[1:08:14](https://www.youtube.com/watch?v=SRNATgtNwQI&t=4094s)]*
 
@@ -669,13 +644,13 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*, on Nehemiah · r
 
 - *[[1:09:23](https://www.youtube.com/watch?v=SRNATgtNwQI&t=4163s)]* Cuz she had the whole earth under her dominion, including the other side of the world.
 
-- Right. When she became America, she took this side of the world over.
+- When she became America, she took this side of the world over.
 
 > <sup>[3](/bible/2-esdras/11#v3)</sup> And I beheld, and out of her feathers there grew other contrary feathers; and they became little feathers and small.
 
 - Out of those tall feathers.
 
-- Now jump to verse 11. Contrary feathers. How many was there? Watch, verse 11, the contrary feathers. Watch this.
+- Now jump to verse 11. Contrary feathers. How many was there? Watch, verse 11, the contrary feathers.
 
 > <sup>[11](/bible/2-esdras/11#v11)</sup> And I numbered her contrary feathers, and, behold, there were eight of them.
 
@@ -695,14 +670,13 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*, on Nehemiah · r
 
 - **Deacon Eythan:** Let's get the book, history, the image of the map. I want that map. Remember, this class is entitled the decline of Carthage and *[[1:12:54](https://www.youtube.com/watch?v=SRNATgtNwQI&t=4374s)]* their travels.
 
-
 <div class="reading">
 
 Reading from an old map of Europe and the Atlantic Ocean, on Spain  *[[1:12:54](https://www.youtube.com/watch?v=SRNATgtNwQI&t=4374s)]*
 
 > Part of Spain, Iberia of the Phoenicians.
 
-- Now this map here, let me look at it also with you. Hold on. You see, blow it up, Europe in the Atlantic Ocean. I want you to move it over, move it over. Yep, bring it down. You see, you see Spain in its entirety? I don't see, y'all don't care about Europe. Bring it down to Spain. There we go, right there. Blow that up some. Make a little big up. You can, oh no, no, that's too big. Damn. Right there, right there, right there. It says part of Spain, Iberia of the Phoenicians. Part of Spain, Iberia of the Phoenicians. That's us. We had part of Spain. Mhm. We had, this is an old map. This book is worth what? $1,600?
+- Now this map here, let me look at it also with you. You see, blow it up, Europe in the Atlantic Ocean. I want you to move it over, move it over. Yep, bring it down. You see, you see Spain in its entirety? I don't see, y'all don't care about Europe. Bring it down to Spain. There we go, right there. Blow that up some. Make a little big up. You can, oh no, no, that's too big. Damn. Right there, right there, right there. It says part of Spain, Iberia of the Phoenicians. Part of Spain, Iberia of the Phoenicians. That's us. We had part of Spain. Mhm. We had, this is an old map. This book is worth what? $1,600?
 
 - **Officer:** Yes sir. $1,600.
 
@@ -722,10 +696,9 @@ Reading from an old map of Europe and the Atlantic Ocean, on Spain  *[[1:12:54](
 
 > Of the Iber, of the Phoenicians, or Carthaginians, or *[[1:14:58](https://www.youtube.com/watch?v=SRNATgtNwQI&t=4498s)]* espania, espia, alteria.
 
-- That goes back to espia, meaning rabbits. We named it that. Now let's get *Universal History*. What I want? *Universal History*, I want page 458. Page 458, and we're going to start at but, and we're going to end at notion. Then start it, start somewhere else. Hold on. This is a very old book. Very old. Right there. I gotta turn the pages slowly. I rip the pages. Dang. They're going to start at where it says, but it appears, but wait, wait, do I want to start there? But no, but notion. Yeah. Not withstanding. Yes. But not withstanding.
+- That goes back to espia, meaning rabbits. We named it that. Now let's get *Universal History*. What I want? *Universal History*, I want page 458. Page 458, and we're going to start at but, and we're going to end at notion. Then start it, start somewhere else. This is a very old book. Very old. Right there. I gotta turn the pages slowly. I rip the pages. Dang. They're going to start at where it says, but it appears, but wait, wait, do I want to start there? But no, but notion. Yeah. Not withstanding. Yes. But not withstanding.
 
 </div>
-
 
 <div class="reading">
 
@@ -745,7 +718,7 @@ Reading from *Universal History*, pages 458 and 459, on the name Iberia and the 
 
 > For the Hebrew Eber,
 
-- Oh, oh. So it's the Hebrew Peninsula. The Hebrew Peninsula. Hebrews peninsula, where the Hebrews *[[1:17:22](https://www.youtube.com/watch?v=SRNATgtNwQI&t=4642s)]* dwell. That's what it means. That's what it means. That's who the Kelts were. Well, you had three Kelts, but the ones that dominated at this time was us. These, the Kel, the majority, the majority.
+- So it's the Hebrew Peninsula. The Hebrew Peninsula. Hebrews peninsula, where the Hebrews *[[1:17:22](https://www.youtube.com/watch?v=SRNATgtNwQI&t=4642s)]* dwell. That's what it means. That's what it means. That's who the Kelts were. Well, you had three Kelts, but the ones that dominated at this time was us. These, the Kel, the majority, the majority.
 
 > Ibra, as well as the childi syc or Phoenician Ebra or Ibra, in the singular, in the singular number, signifies as a passage, and in the plural bounds are limited.
 
@@ -761,11 +734,11 @@ Reading from *Universal History*, pages 458 and 459, on the name Iberia and the 
 
 > or have denominated the tract itself Iberia, from its situation, it having been generally considered by them as one of the remotest regions or western limits of the earth. Be that as it will, we can by no means think it probable that any part of Spain was called Iberia from a colony of Iberians settled there, since history does not in the least countenance such a notion.
 
-- Right. So he's arguing it. Jump down, jump down to but it appears.
+- So he's arguing it. Jump down, jump down to but it appears.
 
 > But it appears from Bart and others that the *[[1:19:16](https://www.youtube.com/watch?v=SRNATgtNwQI&t=4756s)]* Phoenicians called Spain, at least that part of it known to them, span, spia or spanga, from shaf, or span, or a rabbit, because it abounded with those animals. In support of this notion it may be observed that in many manuscripts of cius, Justin, Capella, Aelius, Julius, cap, cap, was those animals.
 
-- But go back to it. It says, be that as it will, we can by no means think it probable that any part of Spain was called Iberia from a colony of Iberians settled there, since the history does not in the least count in such a notion. So what he's saying is, he's saying that you can't argue the fact that the land was named Iberia other than the fact that the settlers there *[[1:20:04](https://www.youtube.com/watch?v=SRNATgtNwQI&t=4804s)]* were Iberians. That's what he's saying. There's no other argument aside from the fact that those who settled there were in fact Iberians, or Hebrews. That's what he's saying. All right. And they called it span. Huh.
+- But go back to it. It says, be that as it will, we can by no means think it probable that any part of Spain was called Iberia from a colony of Iberians settled there, since the history does not in the least count in such a notion. So what he's saying is, he's saying that you can't argue the fact that the land was named Iberia other than the fact that the settlers there *[[1:20:04](https://www.youtube.com/watch?v=SRNATgtNwQI&t=4804s)]* were Iberians. That's what he's saying. There's no other argument aside from the fact that those who settled there were in fact Iberians, or Hebrews. That's what he's saying. And they called it span. Huh.
 
 - **Officer:** So going back up top, when it says the child e, is this the same?
 
@@ -775,9 +748,9 @@ Reading from *Universal History*, pages 458 and 459, on the name Iberia and the 
 
 - **Deacon Eythan:** It's the same name, same word, just different.
 
-- **Officer:** Okay, okay, okay. Charlie. Okay. Understand.
+- **Officer:** Charlie. Understand.
 
-- **Deacon Eythan:** All right. So now 459. Let's go to, from the, I want start that, you know.
+- **Deacon Eythan:** So now 459. Let's go to, from the, I want start that, you know.
 
 - **Officer:** The reason why I ask, Deac, because that same, when we hear the word childes, we know that goes back to *[[1:20:58](https://www.youtube.com/watch?v=SRNATgtNwQI&t=4858s)]* Genesis 11, when Abraham to his family, to that area. So it's still referring to the Hebrews.
 
@@ -785,15 +758,15 @@ Reading from *Universal History*, pages 458 and 459, on the name Iberia and the 
 
 > From the Phoenicians spanga the Romans deduced their spia, or his spia,
 
-- So they name, the Romans named it Hispania, based upon what we called it first. They got that from us. They said, okay, we're going to call it that, because they called it that. They were here first, they called it that, we'll call it that also. Hispania, like Hispanic. Okay. Rabbit, it means rabbits.
+- So they name, the Romans named it Hispania, based upon what we called it first. They got that from us. They said, okay, we're going to call it that, because they called it that. They were here first, they called it that, we'll call it that also. Hispania, like Hispanic. Rabbit, it means rabbits.
 
 > which appellation, as well as Iberia, in common with the Greeks, they appli to the whole continent of Spain.
 
-- The Romans called the entire continent of Spain Hispania, even though we called the part we had power over, that part of Spain. All right. Jump down to, one, one, however. Let me see. Keep going.
+- The Romans called the entire continent of Spain Hispania, even though we called the part we had power over, that part of Spain. Jump down to, one, one, however.
 
 > They apply to the whole continent of Spain. That this country, or at least a considerable part of it, produce rabbits
 
-- Hold on. See, produce rabbits. You're going to end at ever since prevailed.
+- See, produce rabbits. You're going to end at ever since prevailed.
 
 > in vast abundance, may be events from the concurrent testimony of Vero, strabo, plainy, Elon and many other writers of good authority, who tell us of an immense damage, of an immense damage those *[[1:22:52](https://www.youtube.com/watch?v=SRNATgtNwQI&t=4972s)]* creatures had done to this country,
 
@@ -823,24 +796,21 @@ Reading from *Universal History*, pages 458 and 459, on the name Iberia and the 
 
 </div>
 
-
 **[Deuteronomy 11:24](/bible/deuteronomy/11#v24)**  *[[1:24:31](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5071s)]*
 
 > <sup>[24](/bible/deuteronomy/11#v24)</sup> Every place whereon the soles of your feet shall tread shall be yours: from the wilderness and Lebanon, from the river, the river Euphrates, even unto the uttermost sea shall your coast be.
 
 - That's all I want. So that's what the Lord said. Everywhere. That's it. That's it. Now let's go to second ezas. Second ezas chapter 6 verse 55.
 
-
 **[2 Esdras 6:55](/bible/2-esdras/6#v55)**  *[[1:24:31](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5071s)]*
 
 > <sup>[55](/bible/2-esdras/6#v55)</sup> All this have I spoken before thee, O Lord, because thou madest the world for our sakes
 
-- That's it. Right, right.
+- That's it.
 
-- **Officer:** Everything is. So that's why everywhere we go, we name it. River, you know. Right. That's the same thing to in, I forgot the name of that book, about the tyos, about the land, the river, the name their fathers, after their fathers, right. *[[1:25:30](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5130s)]* Yep. This well, the Samaritan woman says, this well was named after our fathers, right. Joseph.
+- **Officer:** Everything is. So that's why everywhere we go, we name it. River, you know. That's the same thing to in, I forgot the name of that book, about the tyos, about the land, the river, the name their fathers, after their fathers, right. *[[1:25:30](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5130s)]* Yep. This well, the Samaritan woman says, this well was named after our fathers, right. Joseph.
 
 - **Deacon Eythan:** Genesis 10 verse 21. Genesis 10:21. It named it the Iberian Peninsula, right. 10:21 and 22.
-
 
 **[Genesis 10:21-22,25](/bible/genesis/10#v21)**  *[[1:25:30](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5130s)]*
 
@@ -848,22 +818,21 @@ Reading from *Universal History*, pages 458 and 459, on the name Iberia and the 
 >
 > <sup>[22](/bible/genesis/10#v22)</sup> The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram.
 
-- Aram, that's where the word comes from, because it's a Shemitic language. It's an ancient Shemitic language, because Aram was an ancient Shemitic person. All right. But we want to deal with the, this, children of Eber. The children of Eber, which is Hebrew. That's what Abraham, Abra was called. Abram the Eber, Abram the Hebrew. That's what he *[[1:26:30](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5190s)]* was. That's, he called ourselves.
+- Aram, that's where the word comes from, because it's a Shemitic language. It's an ancient Shemitic language, because Aram was an ancient Shemitic person. But we want to deal with the, this, children of Eber. The children of Eber, which is Hebrew. That's what Abraham, Abra was called. Abram the Eber, Abram the Hebrew. That's what he *[[1:26:30](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5190s)]* was. That's, he called ourselves.
 
 - **Officer:** Remember we called, we refer to the land in Mexico as Yucatan. Yucatan. That was a, that was a, what, that was a, oldest son of, or second oldest son of, it was ja, jackton, right? Ja, right. What is it?
 
 - **Deacon Eythan:** At quick, it's down to verse 25 and 26 real quick, so I don't mess myself up. That's not what that says. See.
 
-- **Officer:** Hey man, we want to give a shout-out to Captain Joel. Congratulation.
+- **Officer:** Congratulation.
 
 - **Deacon Eythan:** Yeah, we miss you. Where you at? For that 25.
 
 > <sup>[25](/bible/genesis/10#v25)</sup> And unto Eber were born two sons: the name of one was Peleg; for in his days was the earth divided; and his brother’s name was Joktan.
 
-- Right. So Eber had Pelle. Pelle was a chosen line. And he had jackton, which is Yucatan. That's Yucatan Peninsula. Right. All *[[1:27:25](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5245s)]* right. Same thing. Or Jackson Peninsula.
+- So Eber had Pelle. Pelle was a chosen line. And he had jackton, which is Yucatan. That's Yucatan Peninsula. All *[[1:27:25](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5245s)]* right. Same thing. Or Jackson Peninsula.
 
-- Now let's go to West African, that I want page, written by a brother in the 1800s. This is page 170, and we're going to, 17, 170 to 171. 170 to 171. Think it's upside down. This is written in 1868 by a brother. He was from Africa, I believe he was. I think he was a EO, right. I think he was here, he was on this side, he just wrote. Yeah, but he think he traveled to Africa and so forth. Page 170 to 171, and we're going to start at, hold on, from a little, from a little, and end at fanaticism. So 170. From a little study of the ethnology of the language of Western Africa. Hold on, let me get, let me find out where you at. Hold on, I should have got you 169. Damn. That *[[1:28:52](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5332s)]* you do. Yes sir, 169. Yes sir. He, let me get that verse. Damn. Let me read. But when the mamadon, start from there, the bottom of it. All praises. Thank you. Y'all are right over there, man. Y'all doing all right, man? Hey, drop a bomb for yourself, man. Yeah, yeah, yeah. For this. You got it. When the muhammadan, start from there. That's for you Muslims out there. Go up, go up top. I don't like, I don't like that. Oh, there you go, right there. Right, bottom one, of the muhammadans overspread.
-
+- Now let's go to West African, that I want page, written by a brother in the 1800s. This is page 170, and we're going to, 17, 170 to 171. 170 to 171. Think it's upside down. This is written in 1868 by a brother. He was from Africa, I believe he was. I think he was a EO, right. I think he was here, he was on this side, he just wrote. Yeah, but he think he traveled to Africa and so forth. Page 170 to 171, and we're going to start at, hold on, from a little, from a little, and end at fanaticism. So 170. From a little study of the ethnology of the language of Western Africa. Hold on, let me get, let me find out where you at. Hold on, I should have got you 169. Damn. That *[[1:28:52](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5332s)]* you do. Yes sir, 169. Yes sir. He, let me get that verse. Damn. Let me read. But when the mamadon, start from there, the bottom of it. Y'all are right over there, man. Y'all doing all right, man? Hey, drop a bomb for yourself, man. Yeah, yeah, yeah. For this. You got it. When the muhammadan, start from there. That's for you Muslims out there. Go up, go up top. I don't like, I don't like that. Oh, there you go, right there. Right, bottom one, of the muhammadans overspread.
 
 <div class="reading">
 
@@ -915,11 +884,11 @@ Reading from a book on West Africa written in 1868 by a brother, pages 169 to 17
 
 > we will now proceed to investigate more particulars relative to the tribes under consideration. The language, or the little of it that is known, is full hebrewisms. The construction of sentences, the verbal significations, the motive comparison, are all typical of the Hebrew.
 
-- Go to the from. Go to the from now, from little. That's the same page. Go, go down, go down, go down. All right.
+- Go to the from. Go to the from now, from little. That's the same page. Go, go down, go down, go down.
 
 > From a little study of the ethnology of the language of Western Africa and the Hebrew tongue, one is involuntarily,
 
-- Can *[[1:32:06](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5526s)]* you highlight it, please? I can find it. I know where I'm at. Can you highlight it, please? No, on. Okay, I got it. From a little stud, I got it. Go ahead.
+- Can *[[1:32:06](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5526s)]* you highlight it, please? I can find it. I know where I'm at. Can you highlight it, please? No, on. Okay, I got it. From a little stud, I got it.
 
 > From a little study of the ethnology of the language of Western Africa
 
@@ -927,15 +896,15 @@ Reading from a book on West Africa written in 1868 by a brother, pages 169 to 17
 
 > and the Hebrew tongues, one is involuntarily brought to trace out a similarity, and one of them to that of the tribes which, from the disobedience to the will of God, were dispersed, and the greatest number of them possibly went to Africa.
 
-- Damn. I mean, the lost tribes of Israel. Damn, mother. Thank you. Damn. There you go.
+- Damn. I mean, the lost tribes of Israel. Damn, mother. Damn.
 
 > If the rights and ceremonies of the religion of the tribes bordering on the banks of the river Niger, …, be *[[1:32:55](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5575s)]* closely examined and compared with the religion of the Hebrews at their earliest period,
 
-- Watch this, next page. At the earliest period.
+- At the earliest period.
 
 > come on, EO, ebo,
 
-- Which is what? Heber, Eber tribe. There you go. Hebo tribe. It's Hebrew. It's Hebrew. Going right back to what? The Iberian Peninsula. This, this too much, man. Too much. Hold on, we're going to stop at fanaticism. Keep going.
+- Which is what? Heber, Eber tribe. Hebo tribe. It's Hebrew. It's Hebrew. Going right back to what? The Iberian Peninsula. This, this too much, man. Too much. Hold on, we're going to stop at fanaticism.
 
 > If the ebo
 
@@ -965,21 +934,15 @@ Reading from a book on West Africa written in 1868 by a brother, pages 169 to 17
 
 - **Deacon Eythan:** We were in the land, and when these other nations came, the Arabs came, the Arabs came, we fled further south. Far south. And they ended up running it to other Arab Africans that were friendly, and mingle with them, and start learning their works, mingling with them, but still maintain some forms of Judaism in the language.
 
-- **Officer:** Right, right, right. Despite, like you said before, despite what he use, digressing, he said digressing.
+- **Officer:** Despite, like you said before, despite what he use, digressing, he said digressing.
 
 - **Deacon Eythan:** Get the benu River and the jalba River. zaniah 3 and 10. For every time we in trouble, that's where we flee.
 
-- **Officer:** Right, right.
-
 - **Deacon Eythan:** We fled further into Africa. Always further into Africa, because Israel is already Africa, the northeastern part. We just fled further in.
 
-- **Officer:** So there was this book I came *[[1:35:27](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5727s)]* across, D. You know, y'all brothers putting the spirit on me to go by, dive in there. Right. So it was a Edomite that was saying the experience he had with Arabians.
-
-- **Deacon Eythan:** Okay, right.
+- **Officer:** So there was this book I came *[[1:35:27](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5727s)]* across, D. You know, y'all brothers putting the spirit on me to go by, dive in there. So it was a Edomite that was saying the experience he had with Arabians.
 
 - **Officer:** And he was touching on Ottoman and Turks, that war they had. A lot of, he mentioned about Iberian Jews.
-
-- **Deacon Eythan:** Okay.
 
 - **Officer:** They had to flee, because it's either they would convert or they would be killed, or enslaved.
 
@@ -987,10 +950,9 @@ Reading from a book on West Africa written in 1868 by a brother, pages 169 to 17
 
 - **Officer:** So that has a lot to do with that region and what we talking about. I'm going to go back and visit that thing.
 
-- **Deacon Eythan:** Okay. Hey, y'all had a couple of maps. Why you keep switching maps? Okay, all right. Go back to, I just want the, it says Ben New River. I just want to show, click on the one you had before, with the, right there. Let me see that one. *[[1:36:26](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5786s)]* See if I find this way. No, no, the first one. The very first one, right here. Yeah, go ahead. You can't blow it up? That's Nigeria. That's Nigeria there. Right. See the benu River? You see Chad, Cameroon, … right there. So benu ties right into the, it goes right, it flows right into the … river. Right. This is Niger J River, whatever, whatever you want to call it. I call … like, sounds better in my mouth when I say … But yes, that's the benu River, and the galuba river is ajoin to it on this side over here. Which, this is Nigeria. This is Nigeria that we fled. So the Old Calabar, so they got, remember, they got a lot of slaves from Old Calabar, the ebos and so forth. That's where they got us from. So we fled *[[1:37:17](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5837s)]* into the benu River and the jalba, to avoid being attacked. We can see where they're coming from, based on dwelling in that area. So it's right by border, bordering Cameroon, Chad, Lake Chad, right there. All that is, is there any more, like, is there any more lands in that? Go up. It's a Nigeria, right? That's Nigeria. That's Nigeria. There you go. All Jakeob, Jake, all in there. Zephaniah. Now Zephaniah 3 and 10.
+- **Deacon Eythan:** Hey, y'all had a couple of maps. Why you keep switching maps? Go back to, I just want the, it says Ben New River. I just want to show, click on the one you had before, with the, right there. Let me see that one. *[[1:36:26](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5786s)]* See if I find this way. No, no, the first one. The very first one, right here. Yeah, go ahead. You can't blow it up? That's Nigeria. That's Nigeria there. See the benu River? You see Chad, Cameroon, … right there. So benu ties right into the, it goes right, it flows right into the … river. This is Niger J River, whatever, whatever you want to call it. I call … like, sounds better in my mouth when I say … But yes, that's the benu River, and the galuba river is ajoin to it on this side over here. Which, this is Nigeria. This is Nigeria that we fled. So the Old Calabar, so they got, remember, they got a lot of slaves from Old Calabar, the ebos and so forth. That's where they got us from. So we fled *[[1:37:17](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5837s)]* into the benu River and the jalba, to avoid being attacked. We can see where they're coming from, based on dwelling in that area. So it's right by border, bordering Cameroon, Chad, Lake Chad, right there. All that is, is there any more, like, is there any more lands in that? It's a Nigeria, right? That's Nigeria. That's Nigeria. All Jakeob, Jake, all in there. Zephaniah. Now Zephaniah 3 and 10.
 
 </div>
-
 
 **[Zephaniah 3:10](/bible/zephaniah/3#v10)**  *[[1:37:17](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5837s)]*
 
@@ -998,16 +960,15 @@ Reading from a book on West Africa written in 1868 by a brother, pages 169 to 17
 
 - Beyond the rivers of Ethiopia. They all flow around that area, into westward, toward Nigeria.
 
-- Right. So Israel is beyond the rivers of Ethiopia. That goes back to the White Nile, Blue Nile, *[[1:38:00](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5880s)]* the Buu, which flows into the Nile, Lake Chad, all of that. It's all the same. Israel was all in that area, all in that region. Israelites were all in that region, fleeing from multiple persecutions. If not African Arab, if not Arab, white or European.
+- So Israel is beyond the rivers of Ethiopia. That goes back to the White Nile, Blue Nile, *[[1:38:00](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5880s)]* the Buu, which flows into the Nile, Lake Chad, all of that. It's all the same. Israel was all in that area, all in that region. Israelites were all in that region, fleeing from multiple persecutions. If not African Arab, if not Arab, white or European.
 
 - **Officer:** Hey, real quick, Deac, I just want to bring this out. The book I was just talking about, which were the Israelites, the Hebrews, they were caught in that crossfire. The book is called *Seven Pillars of Wisdom*. It is a autobiography by TE Lawrence. He served as a liazon during the Arab revolt against Ottoman and Turks. So that's why it was speaking about the Iberian Jews that was in that area during that conflict.
 
-- **Deacon Eythan:** Spanish juw, right, right. je in Spain. Right, right, right. *[[1:38:53](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5933s)]* So they were in that crossfire during the establish of those empires. Right. Wow. Go to *Universal*, go to *Universal History* again. Pages seven, and we're going to be pages seven and nine, to get some insight on our forefathers, our brothers.
+- **Deacon Eythan:** Spanish juw, right, right. je in Spain. *[[1:38:53](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5933s)]* So they were in that crossfire during the establish of those empires. Go to *Universal*, go to *Universal History* again. Pages seven, and we're going to be pages seven and nine, to get some insight on our forefathers, our brothers.
 
 - **Officer:** You see all these things, the persecution of the Jews. So, but hatred, like, when you, can we read that real quick, Matthew 24 verse 9? Cuz that's what we, we keep fleeing persecution, right. All nation ha us. They want to kill us.
 
-- **Deacon Eythan:** So it don't matter where you go. It don't matter where you go. There's no, curses overtake you, matter where you go. Yep. That's so … talking about, I love everybody. Everybody hates you. Right.
-
+- **Deacon Eythan:** So it don't matter where you go. It don't matter where you go. There's no, curses overtake you, matter where you go. Yep. That's so … talking about, I love everybody. Everybody hates you.
 
 **[Matthew 24:9](/bible/matthew/24#v9)**  *[[1:38:53](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5933s)]*
 
@@ -1015,12 +976,11 @@ Reading from a book on West Africa written in 1868 by a brother, pages 169 to 17
 
 - **Officer:** *[[1:39:43](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5983s)]* So that was Christ was talking to the disciple, but you look at it, that's what they're doing. They're just trying to deliver us, so we could be afflicted, like slavery.
 
-- **Deacon Eythan:** Mhm. Read on.
+- **Deacon Eythan:** Mhm.
 
 - **Officer:** A whole nation, for my name's sake. You reading about the Greeks, you read about the muhammadans, the Arabs, the Africans, right, the Chinese, everybody, right, the Greeks.
 
-- **Deacon Eythan:** Yeah. We all hatte it because of who we are. Israelites. Right. Exactly. Get on page seven of history, *Universal History* again, and we're going to start at, hold on, I didn't mark this time. One second. He likewise, going into haal. Yeah, start from here. It's going into hasra *[[1:40:46](https://www.youtube.com/watch?v=SRNATgtNwQI&t=6046s)]* ball. He likewise gave, and stop at the Romans. Blow it up. Right. Go back some, going into ha mentality, how he was.
-
+- **Deacon Eythan:** Yeah. We all hatte it because of who we are. Israelites. Exactly. Get on page seven of history, *Universal History* again, and we're going to start at, hold on, I didn't mark this time. He likewise, going into haal. Yeah, start from here. It's going into hasra *[[1:40:46](https://www.youtube.com/watch?v=SRNATgtNwQI&t=6046s)]* ball. He likewise gave, and stop at the Romans. Blow it up. Go back some, going into ha mentality, how he was.
 
 <div class="reading">
 
@@ -1048,7 +1008,7 @@ Reading from *Universal History*, pages 7 and 9, on the captains who went over t
 
 > that several towns were drawn off from the obedience to the Carthaginians, and another that refuted to join them reduced by force. This unexpected rebellion proved very prejudicial, prejudicial to azrial, and a seasonable diversion in favor of the Romans.
 
-- Right. So this act helped, this helped Romans overthrow us faster, cuz *[[1:43:27](https://www.youtube.com/watch?v=SRNATgtNwQI&t=6207s)]* stupid black people want to revolt and cause problems within the nation. Just like today. Simple, stupid captains causing problems, running to the white man against their brother.
+- So this act helped, this helped Romans overthrow us faster, cuz *[[1:43:27](https://www.youtube.com/watch?v=SRNATgtNwQI&t=6207s)]* stupid black people want to revolt and cause problems within the nation. Just like today. Simple, stupid captains causing problems, running to the white man against their brother.
 
 - **Officer:** This was Hannibal's brother, right?
 
@@ -1064,16 +1024,15 @@ Reading from *Universal History*, pages 7 and 9, on the captains who went over t
 
 - **Officer:** And then they like, yo, let's get them now. This is the time.
 
-- **Deacon Eythan:** Same old tactic. Go to page nine now. That's why Christ says *[[1:44:14](https://www.youtube.com/watch?v=SRNATgtNwQI&t=6254s)]* a house divided and not can I stand. Right. One second, one second, all, because I don't want to be corrected. Right, right, correction. Go to page nine. I mix it around. I go to page nine. The consequence of this action, still doing what has your ball. This had the desired effect. Right here.
+- **Deacon Eythan:** Same old tactic. Go to page nine now. That's why Christ says *[[1:44:14](https://www.youtube.com/watch?v=SRNATgtNwQI&t=6254s)]* a house divided and not can I stand. One second, one second, all, because I don't want to be corrected. Right, right, correction. Go to page nine. I mix it around. I go to page nine. The consequence of this action, still doing what has your ball. This had the desired effect.
 
 > The consequence of this action was a decisive battle, wherein asrao gave proofs of extraordinary military genius, though fortune declared against them.
 
-- So he showed signs of what? The consequence of this action was a decisive battle wherein azero gave proofs of an extraordinary military genius. Though fortune declared against him, he still got killed. So our forefather hasal was a military genius. So is Hannibal, and so is their father *[[1:45:23](https://www.youtube.com/watch?v=SRNATgtNwQI&t=6323s)]* before them, hamard. They were all military geniuses. Military geniuses. And which tactics, 2,000 years later, the European man uses today. Esau uses today. All right. So the original Spaniards was black folk. Black people. Right. All right. Starting with … first, then Jake came along, then Esau came along later on, took over.
+- So he showed signs of what? The consequence of this action was a decisive battle wherein azero gave proofs of an extraordinary military genius. Though fortune declared against him, he still got killed. So our forefather hasal was a military genius. So is Hannibal, and so is their father *[[1:45:23](https://www.youtube.com/watch?v=SRNATgtNwQI&t=6323s)]* before them, hamard. They were all military geniuses. Military geniuses. And which tactics, 2,000 years later, the European man uses today. Esau uses today. So the original Spaniards was black folk. Black people. Starting with … first, then Jake came along, then Esau came along later on, took over.
 
 - Let's get Indians, the book in the Americas. No, no, give me *Caesar and Christ*. No, no, no, no, no, I'm sorry, I'm bugging. Give me Wikipedia, Celtiberians. How much time I got left? Five minutes? Yeah, like five, four minutes. It should be quick. Go Wikipedia. Go to Celtiberians. Remember it said Keel, the land was settled, the Spain was settled by Celtiberians. I'll tell you to remember the term *[[1:46:26](https://www.youtube.com/watch?v=SRNATgtNwQI&t=6386s)]* Kelts. Celtiberians. Let's see who they are. And that Kelts also helped Hannibal cross the outs. Remember that? They were called gos. Gos, or Kelts, the same thing. Celtiberians. We're going to start at, we're going to, after this we're take a break. After this, start at the Celtiberians, and end at settlements.
 
 </div>
-
 
 <div class="reading">
 
@@ -1105,7 +1064,7 @@ Reading from Wikipedia, Celtiberians · read by an officer  *[[1:46:26](https://
 
 > nor modern scholars. The Ebro River clearly divides the Cel bearing areas from non-Indo-European speaking peoples. In other directions the demark, demarcation is less clear. Most scholars include the AR, araki, vxi, the paladon, ballet, tiai and Lon holdy.
 
-- Let me see if I can find settlement. I want you to read a whole bunch of stuff in reason. Hold on a second. We gonna wrap it up. Type, y'all can't type in settlements up here? Let me see.
+- Let me see if I can find settlement. I want you to read a whole bunch of stuff in reason. We gonna wrap it up. Type, y'all can't type in settlements up here?
 
 - **Officer:** It's right here, De. Settlements of circular huts. Is that what you want?
 
@@ -1113,10 +1072,9 @@ Reading from Wikipedia, Celtiberians · read by an officer  *[[1:46:26](https://
 
 </div>
 
-
 *[[1:49:05](https://www.youtube.com/watch?v=SRNATgtNwQI&t=6545s)]* *Break.*
 
-*[[2:00:51](https://www.youtube.com/watch?v=SRNATgtNwQI&t=7251s)]* And we're back. We're back, we're back. Welcome back. Hope you had time to rest your minds. Rest your minds, keep your minds the EAS. I know it's a bit difficult, this class, but let's get through it. Let's go. We're going to go to where I want to go now. Lot of meat, right? Go, go to where I want to go. Competing. Now this is where I want to go. I'm sorry about that. The Celtiberians, and ends at settlements. *[[2:02:11](https://www.youtube.com/watch?v=SRNATgtNwQI&t=7331s)]* So go up. Right, no, let just say the Celtiberians were the most influential. The Kel are the most influential. R to the swords? No, go back, you was good. Go, go back to the swords. All right. Now, yeah, that's it. But let me see, why is it in such a format like that? The Celtiberians were the most influential ethnic group in Iberia. Type an ethnic group. Oh, right here. Okay, they got a sit. Yeah. Damn. Okay. All right, all right.
+*[[2:00:51](https://www.youtube.com/watch?v=SRNATgtNwQI&t=7251s)]* And we're back. We're back, we're back. Welcome back. Hope you had time to rest your minds. Rest your minds, keep your minds the EAS. I know it's a bit difficult, this class, but let's get through it. We're going to go to where I want to go now. Lot of meat, right? Go, go to where I want to go. Competing. Now this is where I want to go. I'm sorry about that. The Celtiberians, and ends at settlements. *[[2:02:11](https://www.youtube.com/watch?v=SRNATgtNwQI&t=7331s)]* So go up. Right, no, let just say the Celtiberians were the most influential. The Kel are the most influential. R to the swords? No, go back, you was good. Go, go back to the swords. Now, yeah, that's it. But let me see, why is it in such a format like that? The Celtiberians were the most influential ethnic group in Iberia. Type an ethnic group. Okay, they got a sit. Yeah. Damn.
 
 <div class="reading">
 
@@ -1162,12 +1120,11 @@ Reading from Wikipedia, Celtiberians, continued · read by an officer  *[[2:02:1
 
 - **Deacon Eythan:** Go to *Caesar and Christ*, page 87.
 
-- **Officer:** Right. Esau see us all the same. He *[[2:05:31](https://www.youtube.com/watch?v=SRNATgtNwQI&t=7531s)]* ain't separating us in no different groups or nothing like that.
+- **Officer:** Esau see us all the same. He *[[2:05:31](https://www.youtube.com/watch?v=SRNATgtNwQI&t=7531s)]* ain't separating us in no different groups or nothing like that.
 
 - **Deacon Eythan:** Not at all. And when I'm done with them, I'm going for y'all. P87, *Caesar and Christ*. We're going to start at step by step, and end at surrender. Into surrender. That's good.
 
 </div>
-
 
 <div class="reading">
 
@@ -1187,7 +1144,7 @@ Reading from *Caesar and Christ*, page 87, on Spain under Rome · read by an off
 
 > So, suus Garba,
 
-- They put some of us, said earlier, they put some of us in their armies. Roman armies. Right.
+- They put some of us, said earlier, they put some of us in their armies. Roman armies.
 
 > So pus Gaba, 150 BC, led 7,000 natives to his camp by a treaty promising them land. When they arrived, he had them surrounded and *[[2:08:18](https://www.youtube.com/watch?v=SRNATgtNwQI&t=7698s)]* enslaved or massacred.
 
@@ -1195,7 +1152,7 @@ Reading from *Caesar and Christ*, page 87, on Spain under Rome · read by an off
 
 > In 54, in 154 BC, the tribes of L, lania, Portugal, began a 16-year war against Rome. An able leader, varus, appeared among them, heroic and stature, endurance, courage and nobility. For eight years he defeated every army sent against them, until at last the Romans purchased his assassination.
 
-- Wow. Damn.
+- Damn.
 
 > The rebellious Cel, the barians of central Spain bore a siege of 15 months in Num Num Mana, living on their dead,
 
@@ -1207,10 +1164,9 @@ Reading from *Caesar and Christ*, page 87, on Spain under Rome · read by an off
 
 - **Officer:** Any relations, skios emilanos?
 
-- **Deacon Eythan:** I don't know. It might be that. Yeah, it might be. Yeah, I would say it's a relation. I would say it is a relation. Y'all, let's go to, yeah, the Americans now. Indians, page 23. Page 23. Got it here? You got it. You know I'm talking about, right? Page 23. We're going to start at, we're going to start at about 450 BC. Blow it up. All right, page 23. We should start at about 450 BC, and we're going to end at coast of Africa. Go up, probably up in the, where is it at? Okay. All right. All right. All praises.
+- **Deacon Eythan:** I don't know. It might be that. Yeah, it might be. Yeah, I would say it's a relation. I would say it is a relation. Y'all, let's go to, yeah, the Americans now. Indians, page 23. Page 23. Got it here? You got it. You know I'm talking about, right? Page 23. We're going to start at, we're going to start at about 450 BC. Blow it up. All right, page 23. We should start at about 450 BC, and we're going to end at coast of Africa. Go up, probably up in the, where is it at?
 
 </div>
-
 
 <div class="reading">
 
@@ -1222,15 +1178,13 @@ Reading from the book on Indians in the Americas, pages 23, 42 and 49, on the Ca
 
 > along the Mediterranean. Their large ships traveled to Africa, India and Britain, and were reported to have crossed the ocean waters to America.
 
-- So the point we want is, the large ships travel to Africa, India and Britain, and Britain. Hold on, I don't to stop at on the coast. Keep going. Blow up some more.
+- So the point we want is, the large ships travel to Africa, India and Britain, and Britain. Hold on, I don't to stop at on the coast. Blow up some more.
 
 > Greek history,
 
-- Watch this.
-
 > Greek history records how the Carthaginian captains hoko and Hano sailed along the Atlantic coast of Africa.
 
-- These guys are naval fleets. These are, these are Israelite brothers. hemo traveled, I believe he traveled *[[2:11:38](https://www.youtube.com/watch?v=SRNATgtNwQI&t=7898s)]* toward long Africa. himo traveled up to Brit, the British Isles, and Hannah traveled down along on the, on borders of Africa. So one went up, one down, down along the Atlantic Ocean. These two are, they established ports in these areas, these two Carthaginians. Now I'll get page 42. We're going to start at trento and end at region. Thanks. Page 42. You have it? Yes sir. Start at trento, end at, go back, I just seen it right here.
+- These guys are naval fleets. These are, these are Israelite brothers. hemo traveled, I believe he traveled *[[2:11:38](https://www.youtube.com/watch?v=SRNATgtNwQI&t=7898s)]* toward long Africa. himo traveled up to Brit, the British Isles, and Hannah traveled down along on the, on borders of Africa. So one went up, one down, down along the Atlantic Ocean. These two are, they established ports in these areas, these two Carthaginians. Now I'll get page 42. We're going to start at trento and end at region. Page 42. You have it? Yes sir. Start at trento, end at, go back, I just seen it right here.
 
 > trento's accumulated evidence and findings provide an amazing record of Celtiberian and Phoenician artifacts left in America from approximately 1,000 BC to about 1,000 AD.
 
@@ -1246,7 +1200,7 @@ Reading from the book on Indians in the Americas, pages 23, 42 and 49, on the Ca
 
 > The name Kels was the designation given to those people who emerged from the same geographical location where, where the so-called lost tribes of Israel had disappeared from an earlier stage of world history.
 
-- Oh. Oh, that's what they are. Read it again.
+- Oh, that's what they are.
 
 > The name Kels was the designation given to those people who emerged from the same geographical location where, where the so-called lost tribes of Israel had *[[2:14:40](https://www.youtube.com/watch?v=SRNATgtNwQI&t=8080s)]* disappeared from an earlier age of world history.
 
@@ -1296,7 +1250,7 @@ Reading from the book on Indians in the Americas, pages 23, 42 and 49, on the Ca
 
 > who colonized Ireland may have come
 
-- To the Kelts colonized Ireland. The Kel colonized Ireland. All right. Now, let me see, let me see, let me see. And where did the Cs come from? The same place the lost child of Israel came from. Deac, Deac, continue reading. There's more.
+- To the Kelts colonized Ireland. The Kel colonized Ireland. Now, let me see, let me see, let me see. And where did the Cs come from? The same place the lost child of Israel came from. Deac, Deac, continue reading. There's more.
 
 - **Officer:** Go ahead, read more.
 
@@ -1304,15 +1258,13 @@ Reading from the book on Indians in the Americas, pages 23, 42 and 49, on the Ca
 
 > It is from this area of the Iberian Peninsula that the Kelts who colonized Ireland may have come. The discovery of similar carvings in the state of West Virginia to New England, along with many petroglyphs with oldum writing found as far west as Oklahoma,
 
-- *[[2:17:21](https://www.youtube.com/watch?v=SRNATgtNwQI&t=8241s)]* Right. So they found the same writings in Americas, cuz it's the lost child of Israel on this side of the world.
+- *[[2:17:21](https://www.youtube.com/watch?v=SRNATgtNwQI&t=8241s)]* So they found the same writings in Americas, cuz it's the lost child of Israel on this side of the world.
 
 - **Officer:** Let me, let me read that last sentence too, De.
 
-- **Deacon Eythan:** Go ahead.
-
 > have caused some speculation that the Kels may have come, may have come, come to the New World as early as one 100 BC.
 
-- Wow. So, so they came to this side of the world. They found Celtic writings on this side of the world, because the Kelts and the lost childs of Israel was the same people on this side of the world, writing the same things, petroglyphs, same thing. But they also colonized Ireland, Scotland, devire, Wales, South Wales, Britain, Scotland. Scotland, say Scotland, from Scot. We're going to get to all of that soon. Dark Ages. Remember I said to *[[2:18:11](https://www.youtube.com/watch?v=SRNATgtNwQI&t=8291s)]* y'all, we're in the grassroots of it. Now let's get war, wars, not, I want page 192.
+- So, so they came to this side of the world. They found Celtic writings on this side of the world, because the Kelts and the lost childs of Israel was the same people on this side of the world, writing the same things, petroglyphs, same thing. But they also colonized Ireland, Scotland, devire, Wales, South Wales, Britain, Scotland. Scotland, say Scotland, from Scot. We're going to get to all of that soon. Dark Ages. Remember I said to *[[2:18:11](https://www.youtube.com/watch?v=SRNATgtNwQI&t=8291s)]* y'all, we're in the grassroots of it. Now let's get war, wars, not, I want page 192.
 
 - **Officer:** For Pete's sake. They definitely make sure they hide that history right there.
 
@@ -1320,10 +1272,9 @@ Reading from the book on Indians in the Americas, pages 23, 42 and 49, on the Ca
 
 - **Officer:** You know that one, n. Yeah, man. *Wars*, get that next. For Pete's sake, man.
 
-- **Deacon Eythan:** We have to hide that history from the nigas. War, page 192. Now we know the Kels is definitely Jakes. Celtiberians and Kelt are the same people, which came from the lost child, the same place the lost tribes of Israel happen to disappear from, to be Samaria. We start from the top. Degan, no, 182, and the Phoenician, and end at, and end at allies. No, we're going, no, start the Phoenician, start the Phoenician. Let me get there with you. Yes sir. We're going to start the Phoenician, though. You know *[[2:19:12](https://www.youtube.com/watch?v=SRNATgtNwQI&t=8352s)]* what I want? You see, right? What I mean? It says, yeah, it says the Phoenician are Punic people. Yeah, start there. Hold on, go out some. Right there. Yeah, right there. Good. You mean you can't? Right there.
+- **Deacon Eythan:** We have to hide that history from the nigas. War, page 192. Now we know the Kels is definitely Jakes. Celtiberians and Kelt are the same people, which came from the lost child, the same place the lost tribes of Israel happen to disappear from, to be Samaria. We start from the top. Degan, no, 182, and the Phoenician, and end at, and end at allies. No, we're going, no, start the Phoenician, start the Phoenician. Let me get there with you. Yes sir. We're going to start the Phoenician, though. You know *[[2:19:12](https://www.youtube.com/watch?v=SRNATgtNwQI&t=8352s)]* what I want? What I mean? It says, yeah, it says the Phoenician are Punic people. Yeah, start there. Hold on, go out some. Right there. Yeah, right there. Good. You mean you can't? Right there.
 
 </div>
-
 
 <div class="reading">
 
@@ -1339,7 +1290,7 @@ Reading from *Wars*, page 192, on the Phoenician or Punic people · read by an o
 
 > southern Spain,
 
-- Southern Spain. Remember, Iberia of the Phoenicians. That was southern Spain. The Romans named the entire area Spain. Right.
+- Southern Spain. Remember, Iberia of the Phoenicians. That was southern Spain. The Romans named the entire area Spain.
 
 > southern France,
 
@@ -1371,11 +1322,9 @@ Reading from *Wars*, page 192, on the Phoenician or Punic people · read by an o
 
 > When Rome conquered Carthage, many of her citizens claimed to be Jews and therefore allies of the Romans.
 
-- Wait, wait, wait. Whoa, whoa, whoa, whoa, whoa, whoa, whoa. Rewind. You got to rewind that and read that slower. We're going to end at allies to the Romans. Read it again. When Rome conquered Carthage, when Rome conquered, remember that movie? Juba, he *[[2:21:01](https://www.youtube.com/watch?v=SRNATgtNwQI&t=8461s)]* was an assault mind to Carthage, made a slave. Remember that? Read again.
+- Whoa, whoa, whoa, whoa, whoa, whoa, whoa. Rewind. You got to rewind that and read that slower. We're going to end at allies to the Romans. When Rome conquered Carthage, when Rome conquered, remember that movie? Juba, he *[[2:21:01](https://www.youtube.com/watch?v=SRNATgtNwQI&t=8461s)]* was an assault mind to Carthage, made a slave. Remember that? Read again.
 
 > When Rome conquered Carthage,
-
-- Watch this.
 
 > many of her citizens claimed to be Jews,
 
@@ -1391,28 +1340,27 @@ Reading from *Wars*, page 192, on the Phoenician or Punic people · read by an o
 
 - **Deacon Eythan:** Still scattered everywhere. Still scattered everywhere. It's still the origin *[[2:21:59](https://www.youtube.com/watch?v=SRNATgtNwQI&t=8519s)]* dispersed origin of our history. Deuteronomy 28.
 
-- **Officer:** Right. Whether in rulership or in captivity, we were still under that curse.
+- **Officer:** Whether in rulership or in captivity, we were still under that curse.
 
-- **Deacon Eythan:** Right. Under the Romans. Yep.
+- **Deacon Eythan:** Under the Romans. Yep.
 
 - **Officer:** Cuz, like, the Moors were ruling, but not according to the law, statutes and commandments. So even f, not fully.
 
-- **Deacon Eythan:** Right. So even in their rulership, we were still under that curse.
+- **Deacon Eythan:** So even in their rulership, we were still under that curse.
 
-- **Officer:** Right, right. Still.
+- **Officer:** Still.
 
 - **Deacon Eythan:** And that's the reason why they lost the empire.
 
 - **Officer:** Exactly. It wasn't our time the rule anyway.
 
-- **Deacon Eythan:** Right. Keeping the laws. Short-lived. Page 41, and we're going to start at, start at the south of Spain. Blow, this book goes back as far as, right there. That's good. 1883. Pretty old.
+- **Deacon Eythan:** Keeping the laws. Short-lived. Page 41, and we're going to start at, start at the south of Spain. Blow, this book goes back as far as, right there. That's good. 1883. Pretty old.
 
 - **Officer:** Page, yeah.
 
-- **Deacon Eythan:** Page 41. Start at the south of Spain, and we'll end at center of commerce. Remember, keep remember that *[[2:23:10](https://www.youtube.com/watch?v=SRNATgtNwQI&t=8590s)]* word. Keep Ireland in mind. Ireland. Go ahead. Where, where you going? Start at the south of Spain. That's at the top, right there.
+- **Deacon Eythan:** Page 41. Start at the south of Spain, and we'll end at center of commerce. Remember, keep remember that *[[2:23:10](https://www.youtube.com/watch?v=SRNATgtNwQI&t=8590s)]* word. Keep Ireland in mind. Ireland. Where, where you going? Start at the south of Spain. That's at the top, right there.
 
 </div>
-
 
 <div class="reading">
 
@@ -1428,11 +1376,11 @@ Reading from the book on Great Britain, first published in 1883, page 41, on the
 
 > In fact, they are generally spoken of as if they were indigenous to that country, their occupation of that part being of such ancient date, and so long before what is vaguely called the historic age. Of recent years, however, it has been held by historians of the more, the more honest class, that historic notices of ancient migrations are not the only means which may be employed in tracing the particular ancient family of *[[2:24:07](https://www.youtube.com/watch?v=SRNATgtNwQI&t=8647s)]* our race to which a modern people belonged, but the inclination to a group, is to group all facts bearing upon their national affinity, and from a careful analysis arrived at a conclusion
 
-- Right. Where these guys come from? Who are they? Have they always, they been for a long time, but are they originally from here? The questions being asked. Questions being posed.
+- Where these guys come from? Who are they? Have they always, they been for a long time, but are they originally from here? The questions being asked. Questions being posed.
 
 > according to the direction in which the greatest weight of probability points.
 
-- Right. So the most likely, the most likely answer to what they're from is this. Watch.
+- So the most likely, the most likely answer to what they're from is this. Watch.
 
 > Then there is almost an exact likeness between the word I, Iber, Iber and Hebrew.
 
@@ -1444,7 +1392,7 @@ Reading from the book on Great Britain, first published in 1883, page 41, on the
 
 > There is a frequent interchange of e and i in their use, in their spellings of ancient names,
 
-- Right. In terms of, like, I-B-E-R, or rather than E-B-E-R. Same.
+- In terms of, like, I-B-E-R, or rather than E-B-E-R. Same.
 
 > interchangeable,
 
@@ -1452,7 +1400,7 @@ Reading from the book on Great Britain, first published in 1883, page 41, on the
 
 > Upon an old map with with following long title, hispa orelo, gado de
 
-- All right, yeah, yeah. *[[2:25:59](https://www.youtube.com/watch?v=SRNATgtNwQI&t=8759s)]* Okay, okay. All right.
+- All right, yeah, yeah. *[[2:25:59](https://www.youtube.com/watch?v=SRNATgtNwQI&t=8759s)]* Okay, okay.
 
 > 1631 AD, the name of a certain river is given as Eber or Ebro,
 
@@ -1470,9 +1418,7 @@ Reading from the book on Great Britain, first published in 1883, page 41, on the
 
 > The prefixing of the latter, of the letter A, does not, H does not necessarily prefix and aspirate. Many of our best scholars write in Hebrew, pronounced an Hebrew, Hebrew.
 
-- Keep going.
-
-- **Officer:** That sound like Benjamin. Benjamin will take out the H. Yo bro, I a Hebrew. Ew, man. So that's still our people. Yo, shout-out to Benjamin, man. Captain amiah, man, you know we love you, baby.
+- **Officer:** That sound like Benjamin. Benjamin will take out the H. Yo bro, I a Hebrew. Ew, man. So that's still our people. Captain amiah, man, you know we love you, baby.
 
 - **Deacon Eythan:** That's right. *[[2:27:01](https://www.youtube.com/watch?v=SRNATgtNwQI&t=8821s)]* Captain Barnabas, we love you.
 
@@ -1488,7 +1434,7 @@ Reading from the book on Great Britain, first published in 1883, page 41, on the
 
 - **Officer:** And Deac, that go back to that scripture you brought out earlier, about every place we shall tread, right. Tread. So Deac, oh, you got more than that? Let me let you finish.
 
-- **Deacon Eythan:** Center of commerce is all. Stop at, that's perfect, right where I want to stop. All right.
+- **Deacon Eythan:** Center of commerce is all. Stop at, that's perfect, right where I want to stop.
 
 - **Officer:** So could you give the year of that book right here?
 
@@ -1498,7 +1444,7 @@ Reading from the book on Great Britain, first published in 1883, page 41, on the
 
 - **Deacon Eythan:** Yeah.
 
-- **Officer:** You understand? Which prove who's who right now. You know, I'm, I'm kind of slow, but I'm putting two and two together. You know what I'm saying? You over there think?
+- **Officer:** Which prove who's who right now. You know, I'm, I'm kind of slow, but I'm putting two and two together. You know what I'm saying? You over there think?
 
 - **Deacon Eythan:** Yeah, I'm thinking, bro.
 
@@ -1506,9 +1452,9 @@ Reading from the book on Great Britain, first published in 1883, page 41, on the
 
 - **Deacon Eythan:** It was first published in 1883, but I have this book, is this version I have here is 1873. 1873.
 
-- **Officer:** You know what I mean? We were long here before that Jewish estate. You know, I mean, we just was lost to that understanding, who we are. All praises.
+- **Officer:** You know what I mean? We were long here before that Jewish estate. You know, I mean, we just was lost to that understanding, who we are.
 
-- **Deacon Eythan:** Right. All praises indeed.
+- **Deacon Eythan:** All praises indeed.
 
 - **Officer:** If *[[2:29:23](https://www.youtube.com/watch?v=SRNATgtNwQI&t=8963s)]* they was the real Jews, why would you have to hide the history?
 
@@ -1516,10 +1462,9 @@ Reading from the book on Great Britain, first published in 1883, page 41, on the
 
 - **Officer:** Brothers going to go to the Celtics game, like, yo, we, that was us right there. You look good in green.
 
-- **Deacon Eythan:** That was. Wikipedia, Iberia. I got time. Come on. Iberia. Uh-huh.
+- **Deacon Eythan:** That was. Wikipedia, Iberia. I got time. Iberia. Uh-huh.
 
 </div>
-
 
 <div class="reading">
 
@@ -1527,10 +1472,9 @@ Reading from Wikipedia, Iberia  *[[2:30:25](https://www.youtube.com/watch?v=SRNA
 
 > iing may refer to, of Iberia, Latin name for Ireland, hence Irish.
 
-- Damn. Iberia is irand, man. The ancient name for Ireland is Iberia. Ireland is, is, is Israelites also. Damn. Ireland is another form of Iberia. Iberia is Hebrew, going back to ebo, going back to the Iberian Peninsula. It's the same people, living in the same area, selling the same area, like Salon. Stop. From the time of Salon to the time of sidon's fall to is rise under our ruling, under *[[2:31:26](https://www.youtube.com/watch?v=SRNATgtNwQI&t=9086s)]* our dominion. That, that point, we spread more and took these lands over. So it got lost in transition somehow. Somehow ivand, somehow Iberia became Ireland, and the IR people of Ireland were refer to as the Irish. Irish and Scottish is the same damn people. Kelts is where the Scots come from. King James was a Scott, and he was Jake. Yeah. I think y'all get it. I think y'all understand so far where I'm going with this. Where I'm going with this. Yeah, they, they fighting it, but they, they know. I hope you, I hope you … is on there watching. Especially you. Go to the next book I have. You're the, you're the childis, the, you know, I one. Yes sir. Thank you, sir. I would like to have some time. This is good. Piss people off even *[[2:32:16](https://www.youtube.com/watch?v=SRNATgtNwQI&t=9136s)]* more with time. I want to start at page 39, and we're going to stop at page 40 of this book. There is found, we'll start there. There is found, that's the, we'll start there. There is found. There is found. There is found. Blow it up. Right there.
+- Damn. Iberia is irand, man. The ancient name for Ireland is Iberia. Ireland is, is, is Israelites also. Damn. Ireland is another form of Iberia. Iberia is Hebrew, going back to ebo, going back to the Iberian Peninsula. It's the same people, living in the same area, selling the same area, like Salon. Stop. From the time of Salon to the time of sidon's fall to is rise under our ruling, under *[[2:31:26](https://www.youtube.com/watch?v=SRNATgtNwQI&t=9086s)]* our dominion. That, that point, we spread more and took these lands over. So it got lost in transition somehow. Somehow ivand, somehow Iberia became Ireland, and the IR people of Ireland were refer to as the Irish. Irish and Scottish is the same damn people. Kelts is where the Scots come from. King James was a Scott, and he was Jake. Yeah. I think y'all get it. I think y'all understand so far where I'm going with this. Where I'm going with this. Yeah, they, they fighting it, but they, they know. I hope you, I hope you … is on there watching. Especially you. Go to the next book I have. You're the, you're the childis, the, you know, I one. Yes sir. I would like to have some time. This is good. Piss people off even *[[2:32:16](https://www.youtube.com/watch?v=SRNATgtNwQI&t=9136s)]* more with time. I want to start at page 39, and we're going to stop at page 40 of this book. There is found, we'll start there. There is found, that's the, we'll start there. There is found. There is found. There is found. Blow it up. Right there.
 
 </div>
-
 
 <div class="reading">
 
@@ -1562,17 +1506,15 @@ Reading from the next book, the childis, pages 39 and 40, on Heber and Ireland �
 
 </div>
 
-
 **[Psalms 111:10](/bible/psalms/111#v10)**  *[[2:34:36](https://www.youtube.com/watch?v=SRNATgtNwQI&t=9276s)]*
 
 > <sup>[10](/bible/psalms/111#v10)</sup> The fear of the Lord is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.
 
 - The first and foremost, the good understanding have all they that do his commandments. That fear the Lord is understanding the law, statute, commandments in the Bible. And, and second of all, you start to understand history. Once you understand the Bible, then you start to go and say, okay, these books, this book will filter through the Bible, *[[2:35:18](https://www.youtube.com/watch?v=SRNATgtNwQI&t=9318s)]* if you understand what I'm saying. Now you start to gain wisdom and knowledge and understanding of what it's saying, in what the Bible, and what it's saying throughout history.
 
-- **Officer:** I didn't know all this information that was being brought out. All I know was, you know, Facebook, basketball games, Iris, Iris stats. Well, all this history coming out is because that we fear the Lord. The Lord's open up the understanding and wisdom. He's putting on the leadership. All praises.
+- **Officer:** I didn't know all this information that was being brought out. All I know was, you know, Facebook, basketball games, Iris, Iris stats. Well, all this history coming out is because that we fear the Lord. The Lord's open up the understanding and wisdom. He's putting on the leadership.
 
-- **Deacon Eythan:** Right. That's right. Got it. Thank you. So we're going to go back to where we at. Let me get the books, I can read along with y'all. I'll wait till y'all done. We get, and read it down. J, just big deal. All right, what's going on? You good? You got it? Let me blow it *[[2:36:10](https://www.youtube.com/watch?v=SRNATgtNwQI&t=9370s)]* up. So, yeah, 139, just the bottom part of 139, so the thought isn't lost. So keep in mind, you got Scotland, I got Ireland, I deal with Britain, the Kelts. I got to keep all these in mind, because you think of those names, oh, white folks. Not originally. No. Right. It's a Goa says,
-
+- **Deacon Eythan:** That's right. Got it. So we're going to go back to where we at. Let me get the books, I can read along with y'all. I'll wait till y'all done. We get, and read it down. J, just big deal. All right, what's going on? You good? You got it? Let me blow it *[[2:36:10](https://www.youtube.com/watch?v=SRNATgtNwQI&t=9370s)]* up. So, yeah, 139, just the bottom part of 139, so the thought isn't lost. So keep in mind, you got Scotland, I got Ireland, I deal with Britain, the Kelts. I got to keep all these in mind, because you think of those names, oh, white folks. Not originally. No. It's a Goa says,
 
 <div class="reading">
 
@@ -1580,15 +1522,13 @@ Reading from the childis book, pages 39 and 40, continued · read by an officer 
 
 > Besides Ireland having had once the name of hiberia from Heber, there are names derived of Heber in England and Scotland.
 
-- Watch this.
-
 > In Scotland the, the hybrid, the H, the hites, in England the, the old name of York,
 
 - Blow that up some.
 
 > The old name of York in England is called
 
-- What? eum, or heum. ium, ium, or ium. ium. Still Hebrew again. Going back to the Iberian Peninsula. They both, people, our people settled both areas and named it Hebrew. ium, or *[[2:37:15](https://www.youtube.com/watch?v=SRNATgtNwQI&t=9435s)]* eeram. Same place. That's going into what? England, of Y, York. Okay. I'm showing y'all we rulle these places.
+- What? eum, or heum. ium, ium, or ium. ium. Still Hebrew again. Going back to the Iberian Peninsula. They both, people, our people settled both areas and named it Hebrew. ium, or *[[2:37:15](https://www.youtube.com/watch?v=SRNATgtNwQI&t=9435s)]* eeram. Same place. That's going into what? England, of Y, York. I'm showing y'all we rulle these places.
 
 - **Officer:** Now Deac, you want to see something? The next paragraph. Read the next paragraph.
 
@@ -1602,10 +1542,9 @@ Reading from the childis book, pages 39 and 40, continued · read by an officer 
 
 > what was promised to our forefather, and that it is recorded that micius
 
-- Right. This is, this is folklore here, but our people did sell this land. In terms of the names, it's folklore, but we did sell these lands. That's fact. Now, go to Numbers 15:38. You got time? Something you got? Yeah. Numbers 15:38. And give me Phoenician. You know what I'm talking about. Yes sir. Page 146 and 47. You know, 15 verse 38 and 39.
+- This is, this is folklore here, but our people did sell this land. In terms of the names, it's folklore, but we did sell these lands. That's fact. Now, go to Numbers 15:38. You got time? Something you got? Yeah. Numbers 15:38. And give me Phoenician. You know what I'm talking about. Yes sir. Page 146 and 47. You know, 15 verse 38 and 39.
 
 </div>
-
 
 **[Numbers 15:38-39](/bible/numbers/15#v38)**  *[[2:38:04](https://www.youtube.com/watch?v=SRNATgtNwQI&t=9484s)]*
 
@@ -1615,14 +1554,13 @@ Reading from the childis book, pages 39 and 40, continued · read by an officer 
 
 - A horn, right. That was a custom, to keep the commandments and wear fringes to remind us to keep the commandments. To wear fringes, right, with the ribbon, the blue. Let's get page 146 and 147 of this book, regarding Phoenicians in Ireland. Page 146, and we're going to start from the Phoenician iberi, to the Phoenician iberi belong also. Matter of fact, no, no, no, no, no, no, no, no, let's read the small paragraph on the top. I can't leave that out. It's right *[[2:40:02](https://www.youtube.com/watch?v=SRNATgtNwQI&t=9602s)]* there. I didn't know that was there, but let's read it. The what? The Irish cery. The Irish cery. The Irish of Ireland, syy. Now that word syy, a trib of venetians. Keep that in mind. The Irish silures, syy.
 
-
 <div class="reading">
 
 Reading from the Phoenician book, pages 146 and 147, on the Phoenicians in Ireland · read by an officer  *[[2:40:02](https://www.youtube.com/watch?v=SRNATgtNwQI&t=9602s)]*
 
 > WEA, weather, soal,
 
-- You want me to read that? Go down. Yeah, yeah, read it.
+- You want me to read that? Yeah, yeah, read it.
 
 > Weather, weather, weather soall, because wearing breaches,
 
@@ -1640,15 +1578,13 @@ Reading from the Phoenician book, pages 146 and 147, on the Phoenicians in Irela
 
 > who have fixed their residents in the British Isles,
 
-- There you go. Who fixed their residents in the British Isles. Why? In the time of hamilo and Hano traveling there.
+- Who fixed their residents in the British Isles. Why? In the time of hamilo and Hano traveling there.
 
 > and of whom tus taxus thus speaks:
 
-- Watch this.
-
 > Their faces are colored,
 
-- Whoa. Wow. Whoa, whoa. Their faces are colored. Their faces are colored. Remember, the Kelts are the *[[2:42:01](https://www.youtube.com/watch?v=SRNATgtNwQI&t=9721s)]* Kelts and Phoenicians are the same people. The sues come from the Phoenicians. It's the same people. And their faces, according to tacitus, or tacus, are colored. Right. Colored people.
+- Whoa. Whoa, whoa. Their faces are colored. Their faces are colored. Remember, the Kelts are the *[[2:42:01](https://www.youtube.com/watch?v=SRNATgtNwQI&t=9721s)]* Kelts and Phoenicians are the same people. The sues come from the Phoenicians. It's the same people. And their faces, according to tacitus, or tacus, are colored. Colored people.
 
 > their hair for the most part twisted,
 
@@ -1659,8 +1595,6 @@ Reading from the Phoenician book, pages 146 and 147, on the Phoenicians in Irela
 - See that? They left from Spain and came over here.
 
 > The iberi alluded to are, of course, says,
-
-- Next page.
 
 > Boart, Bart, those of tarcus, who were a colony of the Phoenicians,
 
@@ -1678,18 +1612,15 @@ Reading from the Phoenician book, pages 146 and 147, on the Phoenicians in Irela
 
 > were accustomed to wear breaches.
 
-- There you go. Accustomed to wear breaches, because these were Israelites. These were Phoenicians that settled from Spain and came to these places and kept the commandments. Well, to an extent. They rocked the fringes. Whether they keep the commandments, I don't know, but they did wear their customary dress, right, as *[[2:43:42](https://www.youtube.com/watch?v=SRNATgtNwQI&t=9822s)]* Israelites. So there wasn't naked people running around with spears and all that. Savages. No, they were not. And these saries, these sares, you're going to find out who descends from them. Who descends from these saries. All right.
+- Accustomed to wear breaches, because these were Israelites. These were Phoenicians that settled from Spain and came to these places and kept the commandments. Well, to an extent. They rocked the fringes. Whether they keep the commandments, I don't know, but they did wear their customary dress, right, as *[[2:43:42](https://www.youtube.com/watch?v=SRNATgtNwQI&t=9822s)]* Israelites. So there wasn't naked people running around with spears and all that. Savages. No, they were not. And these saries, these sares, you're going to find out who descends from them. Who descends from these saries.
 
 </div>
 
-
 ## In Closing
 
-*[[2:43:42](https://www.youtube.com/watch?v=SRNATgtNwQI&t=9822s)]* So I'mma end it on that. End it on that. We're going to end on that right there. We got to keep the suspense going. Yeah, end it on that. So I got three more pages to go, but I ain't got the time to go through them, so I'll leave it alone. All right. So shout-outs to the IT team. Brothers did an excellent job, a fantastic job. And shout-out to the breakfast team, sisters, always coming through. Yeah, looking out. Breakfast is amazing, as usual. So any announcements, Officer?
+*[[2:43:42](https://www.youtube.com/watch?v=SRNATgtNwQI&t=9822s)]* So I'mma end it on that. End it on that. We're going to end on that right there. We got to keep the suspense going. Yeah, end it on that. So I got three more pages to go, but I ain't got the time to go through them, so I'll leave it alone. Brothers did an excellent job, a fantastic job. Yeah, looking out. Breakfast is amazing, as usual. So any announcements, Officer?
 
-**Officer:** Yes, yes, yes. Right now we would like to *[[2:44:35](https://www.youtube.com/watch?v=SRNATgtNwQI&t=9875s)]* shout out the house of Captain Joelle. Congratulations to him and his wife, b, a beautiful baby girl into the nation. All praises to the Most High. One of the reason why he's not here, he's occupied, you know what I'm saying.
-
-**Deacon Eythan:** All right. All praises. Congratulations. Going bullets for your shotgun, man. Yeah, yeah. Extra. You need extra bullets, you know what I'm saying? Hurry up and get them now. You know what I mean? Also, he did, well, I'm imagining if he was here, he would have said, don't send diapers, send the books.
+**Deacon Eythan:** Congratulations. Going bullets for your shotgun, man. Yeah, yeah. Extra. You need extra bullets, you know what I'm saying? Hurry up and get them now. You know what I mean? Also, he did, well, I'm imagining if he was here, he would have said, don't send diapers, send the books.
 
 **Officer:** Know, right.
 

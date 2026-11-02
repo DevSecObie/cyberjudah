@@ -18,7 +18,7 @@ tags: ["Our Hidden History", "america-babylon", "captivity", "rome"]
 
 ## Introduction
 
-*[[11:31](https://www.youtube.com/watch?v=rdc00MsKllA&t=691s)]* So in today's topic we're going to show the parallels between the ancient Roman Empire as well as America, as we go into the next era of persecution. I want to show, just like I said, the things that happened in the past between our forefathers and foremothers, a day in the life, the daily things that they suffered concerning persecutions. I want to put us in the same mindset, so that when these things happen we say, oh no, we read about this already, we experienced it in the scriptures. So we're going to bring it up to today's modern day period, and we're going to give you a glimpse, a reality, of what happened in the past, what's going to happen in the present, as well as the future. So we're going to start with Ecclesiastes chapter 1 verse 6. All right, make sure you put some life in it.
+*[[11:31](https://www.youtube.com/watch?v=rdc00MsKllA&t=691s)]* So in today's topic we're going to show the parallels between the ancient Roman Empire as well as America, as we go into the next era of persecution. I want to show, just like I said, the things that happened in the past between our forefathers and foremothers, a day in the life, the daily things that they suffered concerning persecutions. I want to put us in the same mindset, so that when these things happen we say, oh no, we read about this already, we experienced it in the scriptures. So we're going to bring it up to today's modern day period, and we're going to give you a glimpse, a reality, of what happened in the past, what's going to happen in the present, as well as the future. So we're going to start with Ecclesiastes chapter 1 verse 6.
 
 ## Readings and Scriptures
 
@@ -78,13 +78,13 @@ tags: ["Our Hidden History", "america-babylon", "captivity", "rome"]
 
 - Now for those of you that are just tuning in, I would say go back to our previous classes, as we went through the different captivities. Now we first started off with ancient Egypt. Then we went to the Assyrians, briefly; we didn't go in depth into the Assyrians, but we went to how the Assyrian kings conquered the Egyptian Empire and displaced them. Then we went to the Babylonian Empire. Then we went to the Persian satraps, how they became the Pharaohs. After that we went to Alexander the Greek, and Philip of the Macedonians, of the Esau. So we showed how Esau came into power, from the life of the Israelites, our life in Egypt, all these, from Greece, succeeded in taking rulership and control: the European powers taking over and assuming the identity of Japheth. Now we're going into Rome.
 
-- **Officer:** That's right. Read that again. Hence no new thing under the sun.
+- **Officer:** That's right. Hence no new thing under the sun.
 
 - **Captain Joel:** No new thing under the sun. History repeats itself.
 
 - Dreadful and terrible. Daniel saw all the beasts, but out of every single beast, think about it: he spoke about the lion, he spoke about the bear, but when it came to this beast, this empire, this empire is the most dreadful and most terrible empire to ever exist on the face of the earth.
 
-- And strong exceedingly. The empire was the most strongest, exceedingly, meaning that great military strength. Right.
+- And strong exceedingly. The empire was the most strongest, exceedingly, meaning that great military strength.
 
 - And it had great iron teeth. The great iron teeth is going into their military power. I'll say it again: the great iron teeth is going into their military superpower. Rome back during that time period had one of the greatest military structures ever to exist. That's why Rome conquered everybody. Just like today in America: America I think equaling about 13 or even less than that of the world population, global population, but has the world's strongest military. America has more military bases than any country on this earth. Has more military bases than China, than India, than Iraq and Iran, than Russia. Because why? God blessed them with that power, the strength of the iron teeth, military, great military power.
 
@@ -96,7 +96,7 @@ tags: ["Our Hidden History", "america-babylon", "captivity", "rome"]
 
 - **Captain Joel:** Exactly. And to the point where Officer Haim was making reference to: when you stamp something, you put your mark upon them. So when I stamp, or if I put my mark or sear with the iron something, I'm putting a stamp on them. Or they put a seal on you. Or in slavery they put a seal on us. They stamped us.
 
-- **Officer:** Right. Ownership. They branded us.
+- **Officer:** Ownership. They branded us.
 
 - **Captain Joel:** And back to the point of the devouring, when it said they devour and break in pieces: when it came in power, when it conquered, what do they do? They devoured them. They broke them in pieces. They devoured the history, the culture. They removed it, and it became them. They devoured them, they consumed them, and they took the nutrients out of that nation, the language, and they became them. That's what it means to devour.
 
@@ -120,7 +120,7 @@ tags: ["Our Hidden History", "america-babylon", "captivity", "rome"]
 
 *[[24:52](https://www.youtube.com/watch?v=rdc00MsKllA&t=1492s)]* So now when John said, I saw a vision, in a what? Read: Revelation chapter 13 verse 1, and I stood upon the sand of the sea, and saw a beast rise up out of the sea. John saw a beast. John saw a major ruling empire come into power. Having seven heads and ten horns: this beast had seven heads and ten horns, the seven ruling empires. If we could get that up real quick. So the seven heads and the ten horns: Greece, France, Russia, Great Britain, Rome, Spain, Germany. And the ten horns, the Common Market, also known as the EU. You have Greece, France, Luxembourg, United Kingdom, Ireland, Belgium, Italy, Netherlands, Germany and Denmark. So the beast is going to the nation of Eden ruling these different kingdoms, Edomite European ruling empires.
 
-And upon his horns ten crowns. What does a crown represent? Rulership. Right. Rulership, dominion, supremacy. And upon their heads the name of blasphemy.
+And upon his horns ten crowns. What does a crown represent? Rulership. Rulership, dominion, supremacy. And upon their heads the name of blasphemy.
 
 **[Revelation 13:2](/bible/revelation/13#v2)**  *[[26:00](https://www.youtube.com/watch?v=rdc00MsKllA&t=1560s)]*
 
@@ -132,7 +132,7 @@ And upon his horns ten crowns. What does a crown represent? Rulership. Right. Ru
 
 - **Officer:** That was a hybrid beast.
 
-- **Captain Joel:** Exactly. Right.
+- **Captain Joel:** Exactly.
 
 - **Officer:** That's a hybrid GMO beast. That was a Transformer. You know, like Power Rangers, they all came together. It's morphin time. Megazord. You have different Power Rangers come together.
 
@@ -158,7 +158,7 @@ Reading from an article on the lion of Babylon (the source is not named)  *[[29:
 
 </div>
 
-*[[32:09](https://www.youtube.com/watch?v=rdc00MsKllA&t=1929s)]* Keep going. Is that it? And the dragon gave him his power, and his seat, and great authority. All right, that's it. Now let's go to 2 Esdras chapter 12 verse 10.
+*[[32:09](https://www.youtube.com/watch?v=rdc00MsKllA&t=1929s)]* Is that it? And the dragon gave him his power, and his seat, and great authority. All right, that's it. Now let's go to 2 Esdras chapter 12 verse 10.
 
 **[2 Esdras 12:10-11](/bible/2-esdras/12#v10)**  *[[32:30](https://www.youtube.com/watch?v=rdc00MsKllA&t=1950s)]*
 
@@ -166,9 +166,9 @@ Reading from an article on the lion of Babylon (the source is not named)  *[[29:
 >
 > <sup>[11](/bible/2-esdras/12#v11)</sup> The eagle, whom thou sawest come up from the sea, is the kingdom which was seen in the vision of thy brother Daniel.
 
-- Now remember, Daniel was given. Let's get it right, come on. Read it again.
+- Now remember, Daniel was given.
 
-- Now notice how Daniel wasn't given the visual depiction of the animal character that represented the fourth beast. But he was given a visual depiction of Babylon, which represented the lion. As well as John the Revelator was given the visual depiction, or animalistic depiction: you had Persia representing the bear, Greece represented the leopard. Now you have Rome being represented by what? Read it again.
+- Now notice how Daniel wasn't given the visual depiction of the animal character that represented the fourth beast. But he was given a visual depiction of Babylon, which represented the lion. As well as John the Revelator was given the visual depiction, or animalistic depiction: you had Persia representing the bear, Greece represented the leopard. Now you have Rome being represented by what?
 
 - **Officer:** The eagle.
 
@@ -192,13 +192,13 @@ Reading from an image explaining SPQR (the source is not named)  *[[35:38](https
 
 > SPQR is the acronym of the Latin phrase Senatus Populusque Romanus, the official emblem of the government of Ancient Rome.
 
-- The official emblem of the government of Ancient Rome. So SPQR, the eagle is Rome. Give me the next one.
+- The official emblem of the government of Ancient Rome. So SPQR, the eagle is Rome.
 
 - They put it right before your face and you don't see it. The movies that you watch: you think Hollywood just put these portrayals out there for you just to entertain you? No. Movie called The Eagle. Let's go to the next one. Look at every shield: eagle. Oh, the Bible's not a real book.
 
 - **Officer:** And they even have that acronym there. Go back, at the bottom next to the eagle right there. SPQR.
 
-- **Captain Joel:** Let's go to the next one. This is a recent movie. The Eagle Has Landed. Come on now. I want you to zoom in on it.
+- **Captain Joel:** Let's go to the next one. This is a recent movie. The Eagle Has Landed. I want you to zoom in on it.
 
 </div>
 
@@ -250,7 +250,7 @@ Reading from the poster of the movie The Eagle Has Landed  *[[37:05](https://www
 
 **Officer:** There was one where the eagle grabbed the billy goat from the side of a mountain.
 
-**Captain Joel:** Yeah, that's what I'm talking about. Mountain goats, one of the most protective, because nobody could really get to them. But the eagle's the only animal or bird that could actually get them. Put it up. You got something for me, put that thing up. And that's just like America.
+**Captain Joel:** Yeah, that's what I'm talking about. Mountain goats, one of the most protective, because nobody could really get to them. But the eagle's the only animal or bird that could actually get them. You got something for me, put that thing up. And that's just like America.
 
 **Officer:** They got really good eyesight. They see for miles. They see everything. That's why they call them eagle eye.
 
@@ -334,7 +334,7 @@ Reading from the twelve Caesars with their timelines and dates  *[[49:18](https:
 
 - Now what we want to do now in this section: we're going to go to prior to Christ being born, prior to the disciples and the prophets, the ministry of the gospel. Just like America. Now I want you to look at this. Before the apostles came back on the earth, I want you to pay close attention to what I'm about to say: before the apostles came back on earth, all them that had life, before Christ came on the scene, Israel was in slavery under the Roman Empire. Or, to emphasize, not the Roman Empire: under the Roman Republic.
 
-- **Officer:** Right. Both Roman Republic and Empire, but it started with the Republic.
+- **Officer:** Both Roman Republic and Empire, but it started with the Republic.
 
 - **Captain Joel:** Yes. Started with the Republic.
 
@@ -344,7 +344,7 @@ Reading from the twelve Caesars with their timelines and dates  *[[49:18](https:
 
 - **Officer:** Under the Empire you see certain liberties start to be given to us.
 
-- **Captain Joel:** Right. So now, this section, I want you guys to write this down: this section is going to be called Slavery, Insurrections and Rebellion. And notice how, after a time period, in America we was enslaved. We're still slaves. We're still slaves; it's no difference. But you have something called shadow slavery, and then now you have, like I said, a different type of mental bondage that we live in today. But after three days and a half, what happened? The spirit of life came upon the prophets, and then they were resurrected. Same timeline: under the Roman Republic we suffered hard shadow slavery, hard bondage, and then Christ came. Same thing under the American Empire: we suffered hard bondage, then the apostles, Elijah, the apostles, all the elect came back. The Awakening. The same timeline happening all over again. Then Rome came and destroyed us, and they gonna do the same thing. I'm telling you, they're going to come back. We're living it exactly.
+- **Captain Joel:** So now, this section, I want you guys to write this down: this section is going to be called Slavery, Insurrections and Rebellion. And notice how, after a time period, in America we was enslaved. We're still slaves. We're still slaves; it's no difference. But you have something called shadow slavery, and then now you have, like I said, a different type of mental bondage that we live in today. But after three days and a half, what happened? The spirit of life came upon the prophets, and then they were resurrected. Same timeline: under the Roman Republic we suffered hard shadow slavery, hard bondage, and then Christ came. Same thing under the American Empire: we suffered hard bondage, then the apostles, Elijah, the apostles, all the elect came back. The Awakening. The same timeline happening all over again. Then Rome came and destroyed us, and they gonna do the same thing. I'm telling you, they're going to come back. We're living it exactly.
 
 - The only difference: Officer Jazz was in Egypt with the toga, in Alexandria, with the little thing around his head.
 
@@ -392,15 +392,15 @@ Reading from the same book, *Slavery in Rome*, page 47, continued · read by Off
 
 > In Sicily, which supplied Rome with so great a quantity of corn, the number of agricultural slaves was immense. The oppressions to which they were exposed drove them twice to rebellion,
 
-- Drove us twice to a rebellion. Right.
+- Drove us twice to a rebellion.
 
 > and their numbers enabled them to defy for a time the Roman power. The Sicilians treated their slaves with extraordinary rigor, branding them like cattle, and compelling them
 
-- Branding them like cattle. Hey, can you give me an image? Can you give me an image in America? So just like back then in ancient Rome, they branded us like cattle. Let's get the image of them branding us. Keep going, as y'all look for that. Bring the book back up, please. Thank you.
+- Branding them like cattle. Hey, can you give me an image? Can you give me an image in America? So just like back then in ancient Rome, they branded us like cattle. Let's get the image of them branding us. Keep going, as y'all look for that. Bring the book back up, please.
 
 > The Sicilians treated their slaves with extraordinary rigor, branding them like cattle and compelling them to toil incessantly for their masters. The history of the revolt offers numerous points of resemblance to that of Chios, already related. Eunus,
 
-- Now I want you to pay attention to this historical figure, Eunus. One of our brothers. Read it again.
+- Now I want you to pay attention to this historical figure, Eunus. One of our brothers.
 
 > The history of the revolt offers numerous points of resemblance to that of Chios, already related. Eunus,
 
@@ -444,7 +444,7 @@ Reading from the same book, *Slavery in Rome*, page 47, continued · read by Off
 
 - **Captain Joel:** That's all we doing. We're doing to you as you did unto us. But you look at us and say, these are terrible people. In history, Esau, Edom, European, you did way worse to anybody on this earth. So don't say anything. That is given to you, the medicine that you gave unto us. So you got to take it and eat it. And it's going to get worse in the Kingdom. Go on.
 
-- **Officer:** Right. So there's a picture depiction of what they did to us.
+- **Officer:** So there's a picture depiction of what they did to us.
 
 - **Captain Joel:** Yeah. So it's the same thing that he did to them. Go back. 2 Maccabees chapter 15 verse 12.
 
@@ -464,7 +464,7 @@ Reading from the same book, *Slavery in Rome*, page 47, continued · read by Off
 >
 > <sup>[16](/bible/2-maccabees/15#v16)</sup> Take this holy sword, a gift from God, with the which thou shalt wound the adversaries.
 
-- Damn. Can you imagine? Imagine you're getting defeated by the Greeks. You're surrounded to the left, to the right, in front of you, in the back of you. And he says, I had a vision of the Prophet Jeremiah giving a sword, anointed, to Judas Maccabeus. Can you imagine how the people felt? When they felt down, when the spirits were low, when they were defeated: that gave them encouragement. Exhortation. Keep reading.
+- Damn. Can you imagine? Imagine you're getting defeated by the Greeks. You're surrounded to the left, to the right, in front of you, in the back of you. And he says, I had a vision of the Prophet Jeremiah giving a sword, anointed, to Judas Maccabeus. Can you imagine how the people felt? When they felt down, when the spirits were low, when they were defeated: that gave them encouragement. Exhortation.
 
 > <sup>[17](/bible/2-maccabees/15#v17)</sup> Thus being well comforted by the words of Judas, which were very good, and able to stir them up to valour, and to encourage the hearts of the young men, they determined not to pitch camp, but courageously to set upon them, and manfully to try the matter by conflict, because the city and the sanctuary and the temple were in danger.
 
@@ -472,15 +472,15 @@ Reading from the same book, *Slavery in Rome*, page 47, continued · read by Off
 
 - They were so exuberated, roused up with the spirit of God, they said, don't worry about pitching tents. Let's go to war now. Let's go to the battle. You know when the Bishop and the deacons and the captains rouse us up, right? When they give the speech? Finally, my brethren. He's like, yo, let's go, let's go to war right now. It'd be 12 o'clock at night, nobody's up in the street, but you just want to go to war. That's the same spirit we got to have. Go on.
 
-- Because that's all I wanted. Thank you. Now, you had a picture, an image you want to bring up about the branding.
+- Because that's all I wanted. Now, you had a picture, an image you want to bring up about the branding.
 
-- **Officer:** Right. The branding.
+- **Officer:** The branding.
 
 - **Captain Joel:** So now this is what they did to us earlier. So the way they branded us, like I said, in Rome, it's the same way they branded us in America. So that's the branding.
 
 - **Officer:** Some brothers still do that. Only in the Greek fraternities.
 
-- **Captain Joel:** Yeah, you're right. Right. They still do that thing. And today they don't do that; they just give it their last name.
+- **Captain Joel:** Yeah, you're right. They still do that thing. And today they don't do that; they just give it their last name.
 
 - **Officer:** No, today they do it. They sear our mind with a hot iron, with that doctrine.
 
@@ -504,7 +504,7 @@ Reading from the same book, *Slavery in Rome*, the Sicilian revolt continued · 
 
 > who, armed with axes,
 
-- Wait, wait. With what? With axes. I want you to keep that in mind. Who are armed with axes.
+- With what? With axes. I want you to keep that in mind. Who are armed with axes.
 
 > slings, stakes and cooking spits, defeated several armies. Pursuing them, however, without relaxation, the state at length prevailed, utterly crushed the insurrection, and carried Eunus a prisoner to Rome,
 
@@ -580,11 +580,11 @@ Reading from *Before the Mayflower*, on Nat Turner (the author and page are not 
 
 > The sun grew dark, and blood gushed forth in streams. Ordinary things appeared to the mystical slave in a strange light. While plowing the field he saw drops of blood on the corn. While walking in the woods he found hieroglyphic characters and blood on the leaves.
 
-- The hieroglyphic characters were the Hebrew inscriptions, Hebrew writings. Go on. That's it. Next page.
+- The hieroglyphic characters were the Hebrew inscriptions, Hebrew writings. Go on. That's it.
 
 > Judgment for slaveholders was nigh. Another vision confirmed its conclusion. The Spirit, he said, told him that on the appearance of a sign I should arise and prepare myself and slay my enemies with their own weapons.
 
-- Slay their enemies with their own weapons. Didn't Eunus do the same thing? Yes, he did. Because it's the same people that was in Rome, the same people that is in America, and in ancient Egypt. We did the same thing; we had slave rebellions under the Pharaohs. Why do you think that they inflicted us with more burdens? Because there were rebellions. Nat Turners back then, Eunuses back then, Maccabees back then. Read.
+- Slay their enemies with their own weapons. Didn't Eunus do the same thing? Yes, he did. Because it's the same people that was in Rome, the same people that is in America, and in ancient Egypt. We did the same thing; we had slave rebellions under the Pharaohs. Why do you think that they inflicted us with more burdens? Because there were rebellions. Nat Turners back then, Eunuses back then, Maccabees back then.
 
 > The sign appeared in the form of a solar eclipse in February 1831. Turner immediately chose four disciples, Henry Porter, Hart Travis, Nelson Williams and Samuel Francis, and set his face towards Jerusalem. Some historians believe he found warrant in the famous passage: From that time began Jesus to shew unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed.
 
@@ -596,7 +596,7 @@ Reading from *Before the Mayflower*, on Nat Turner (the author and page are not 
 
 > where they ate barbecue, drank brandy and discussed death.
 
-- Wait, read me that again. Read it again. Or give me the scripture: we shall meditate on terror, in Isaiah.
+- Wait, read me that again. Or give me the scripture: we shall meditate on terror, in Isaiah.
 
 > On the appointed day the disciples gathered on the banks of the Cabin Pond, where they ate barbecue, drank brandy
 
@@ -604,7 +604,7 @@ Reading from *Before the Mayflower*, on Nat Turner (the author and page are not 
 
 > and discussed death.
 
-- They discussed death. Got that for me? Read it.
+- They discussed death. Got that for me?
 
 - **Officer:** Those some real brothers right there. A barbecue. They had a barbecue.
 
@@ -630,11 +630,9 @@ Reading from *Before the Mayflower*, on Nat Turner, continued  *[[1:32:15](https
 
 > Nat, a non-drinking man who appreciated the value of a dramatic entrance, did not join them until late in the afternoon. Then he appeared subtly and ran his eyes over the group, noting that two additional slaves were present.
 
-- Read it again. Read it again from that.
-
 > Nat, a non-drinking man who appreciated the value of a dramatic entrance,
 
-- Check this out. Nat, a non-drinking man. Get me Proverbs chapter 31. This is the reason not to drink. Verse 4.
+- Nat, a non-drinking man. Get me Proverbs chapter 31. This is the reason not to drink. Verse 4.
 
 </div>
 
@@ -706,11 +704,11 @@ Reading from *Before the Mayflower*, on Nat Turner, continued  *[[1:36:59](https
 
 > and his liberty is dear to him. Six feet tall or nearly so, well developed, with a back covered with whip scars and a face disfigured by a scar extending from his right eye to his chin, Will was the slave of a cruel master. He was said to be the strongest man in the county, and he bore a special grudge: his master had sold his wife to a Negro traitor.
 
-- Listen. I want you to think of a man that lost everything, has been beaten to a pulp, beaten. He has nothing left. To have your family ripped from you. A man that doesn't have anything to lose is the most dangerous man on this earth. Right. Will was a problem. He had nothing else to lose, and by a cruel master. So you can imagine what type of person he was. He was a weapon, really.
+- I want you to think of a man that lost everything, has been beaten to a pulp, beaten. He has nothing left. To have your family ripped from you. A man that doesn't have anything to lose is the most dangerous man on this earth. Will was a problem. He had nothing else to lose, and by a cruel master. So you can imagine what type of person he was. He was a weapon, really.
 
 > Will later handled the broadax
 
-- He's in the what? The broadax. Didn't we just use that, with Eunus? That's right, we did. Wait, go back to the article, Eunus. So Will handled the broadax. It says. No, I'm in the wrong spot. Go back up. The number of the insurgents at one time amounted to 60,000 men, who were armed with axes. Now let's go back. A precept. All praises.
+- He's in the what? The broadax. Didn't we just use that, with Eunus? That's right, we did. Wait, go back to the article, Eunus. So Will handled the broadax. It says. No, I'm in the wrong spot. Go back up. The number of the insurgents at one time amounted to 60,000 men, who were armed with axes. Now let's go back. A precept.
 
 - He was said to be the strongest man in the county. He bore a special grudge: his master sold his wife to a Negro traitor. Will later handled the broadax.
 
@@ -720,7 +718,7 @@ Reading from *Before the Mayflower*, on Nat Turner, continued  *[[1:36:59](https
 
 > Having assured himself of the steadfastness of his men, Turner outlined his plans. They would strike that night, beginning at the home of his master, and proceed from house to house, killing every man, woman and child.
 
-- Wait. Killing every man, what? Woman and child. Let's let that slide on that one. Go on.
+- Killing every man, what? Woman and child. Let's let that slide on that one. Go on.
 
 - **Officer:** They would strike that night, beginning at the home of his master, and proceeding from house to house.
 
@@ -728,7 +726,7 @@ Reading from *Before the Mayflower*, on Nat Turner, continued  *[[1:36:59](https
 
 - **Officer:** All right, I'll change it up, Captain. Killing every man, woman and child.
 
-- **Captain Joel:** Okay. Am I the only one? Like, am I the only one? It's weird. I never heard somebody say it like that. Keep going.
+- **Captain Joel:** Am I the only one? Like, am I the only one? It's weird. I never heard somebody say it like that.
 
 > In this way, he explained, they would terrorize the whites and stampede them. Then, he said, women and children
 
@@ -758,7 +756,7 @@ Reading from *Before the Mayflower*, on Nat Turner, continued  *[[1:36:59](https
 
 - **Captain Joel:** Exactly. He understood it. Why do you think the Lord says to destroy all of them? Because the children will grow up with that vengeance and oppression, a repeated, repetitive cycle. So the cycle has to be broken somewhere. Now go back to Eunus. The same thought that Nat had, Eunus had the same thought as well.
 
-- That's it right there. It says they pillaged the houses, and without distinction of age or sex slaughtered the inhabitants, plucking infants from their mothers' breasts and dashing them on the ground. Next page. Books upon books here a little.
+- That's it right there. It says they pillaged the houses, and without distinction of age or sex slaughtered the inhabitants, plucking infants from their mothers' breasts and dashing them on the ground. Books upon books here a little.
 
 > Then Turner remembered and invoked the terrible rule that neither sex nor age was to be spared. Two men returned and slew the infant. Moving swiftly and quietly through the night, the little band cut a swath of red, chopping down old, young, male, female, and almost every stop additional slaves joined them. I took my station in the rear, Turner said later, and as it was my object to carry terror and devastation wherever we went, I placed fifteen or twenty of the best armed and most to be relied on in front, who generally approached the houses as fast as their horses could run. This was for two purposes: to prevent their escape, and strike terror to the inhabitants. All through that terrible night men, women and children died. No one with a white skin was spared, except a family of poor whites who owned no slaves.
 
@@ -786,7 +784,7 @@ Reading from *Before the Mayflower*, on Nat Turner, continued  *[[1:36:59](https
 
 *[[1:49:00](https://www.youtube.com/watch?v=rdc00MsKllA&t=6540s)]* Let's see. Do we want to keep going, or you want to stop it there? Can we go into Spartacus? You want to touch more on the slavery? Save it for next week. All right, we'll do Spartacus next week. So, like I said, we just touched it briefly. Like I said, if we finish this we'll go way over, so we want to keep it in line. All right, so we're going to stop it there today. Hopefully you enjoyed the show. We have much more for you next week. Next week's going to be a little bit fun, so we're going to get a little bit more into it. All right, brothers, announcements.
 
-**Officer:** All praise to the Most High. Let's give another round of applause to the Most High, and the Captain, putting this class together.
+**Officer:** Let's give another round of applause to the Most High, and the Captain, putting this class together.
 
 ## Announcements & References
 

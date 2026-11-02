@@ -18,17 +18,17 @@ tags: ["Our Hidden History", "captivity", "the-americas"]
 
 ## Introduction
 
-*[[8:16](https://www.youtube.com/watch?v=GoQpk12OwN4&t=496s)]* Shalom, shalom. Welcome, welcome back, welcome back to Our Hidden History radio. I'm Dean, and to my left Captain Joel. Hey, we got Meo on the show. I don't know what he just said. I don't know what you just said, or what you even meant by it. Right? Yes sir, yes sir. Offic je R, yeah. We got two Northern K Brothers on here today. All praise the Lord. Wow, brother on the show. I'm sorry, I'm sorry, I meant three Northern Kingdom brothers on the show. Three. All right, well, welcome, welcome. It's going to be a good, interesting class today. Interesting class. This is Lost Child, this is 's Again part, what's this, part seven, six, seven? This six, this chapter six right here. Yeah, I'm losing track, man. I'm sorry, losing track. It's going to be chapter six and chapter 7, episode 6, 7, whatever, regarding the two promised lands.
+*[[8:16](https://www.youtube.com/watch?v=GoQpk12OwN4&t=496s)]* Welcome back to Our Hidden History radio. I'm Dean, and to my left Captain Joel. We got two Northern K Brothers on here today. All praise the Lord. Wow, brother on the show. I'm sorry, I'm sorry, I meant three Northern Kingdom brothers on the show. Three. All right, well, welcome, welcome. It's going to be a good, interesting class today. Interesting class. This is Lost Child, this is 's Again part, what's this, part seven, six, seven? This six, this chapter six right here. Yeah, I'm losing track, man. I'm sorry, losing track. It's going to be chapter six and chapter 7, episode 6, 7, whatever, regarding the two promised lands.
 
 *[[9:20](https://www.youtube.com/watch?v=GoQpk12OwN4&t=560s)]* Let's go to the scand outs now. These, I want these last, I couldn't find them, I found them, so we're going to read over these. This is going to basically going to cut, touch on, we're going to touch on the North American Indians and the slave trade, and we're going to touch on the, well, slave trade period. It's most likely going to extend into two more before I go to the other side of the world. I got, I got to emphasize more on this side of the world regarding, regarding the natives, because, you know, Negroes hate... you know, I occasionally watch, rewatch the videos to make sure the sound was good, you know, if I left anything out, and I occasionally go on the live, on the live chat room, you know, you scarf is be on there running your mouth, and I heard a dude say, yeah man, you know, Mexicans claiming to be, saying that they're Israelites. So, Officer Don, what's your worldly ethnicity?
 
 **Officer Don:** A worldly ethnicity is Mexican.
 
-**Deacon Eythan:** Okay. And what is your biblical ethnicity?
+**Deacon Eythan:** And what is your biblical ethnicity?
 
 **Officer Don:** It's related from the tribe of is.
 
-**Deacon Eythan:** Okay, that's right. There you go. So, you know, there you go, there you have it. We got, we got a few more. Going be mad.
+**Deacon Eythan:** Okay, that's right. So, you know, there you go, there you have it. We got, we got a few more. Going be mad.
 
 **A co-host:** Di, yeah, they going to be mad.
 
@@ -42,24 +42,23 @@ tags: ["Our Hidden History", "captivity", "the-americas"]
 
 ## Readings and Scriptures
 
-
 <div class="reading">
 
 Reading from *Slavery and Native Americans in British North America and the United States: 1600 to 1865*, a paper he printed out in 2008, page one of seven · read by a co-host  *[[11:40](https://www.youtube.com/watch?v=GoQpk12OwN4&t=700s)]*
 
 > In fact the word slave may not even accurately apply to these captive people.
 
-- Right. Jump on down to the next one, the Creek. Blow up some more, please. All right. No, it's kind of blurred a little bit from the highlighting. There you go, just keep it there.
+- Jump on down to the next one, the Creek. Blow up some more, please. No, it's kind of blurred a little bit from the highlighting. There you go, just keep it there.
 
 > The Creek, for example, treated the children born of slaves and tribal members as full members of the tribe rather than as enslaved offspring.
 
-- This referring to our, it's referring to Judah. It's referring to the Southern Kingdom. All right. So matter of fact, read the first paragraph. Read the first paragraph. We going to read the whole thing rather than skip it around. Read the first paragraph, the top, from the top.
+- This referring to our, it's referring to Judah. It's referring to the Southern Kingdom. So matter of fact, read the first paragraph. Read the first paragraph. We going to read the whole thing rather than skip it around. Read the first paragraph, the top, from the top.
 
 - **A co-host:** Yes sir.
 
 > Most Native American tribal groups practice some, some form of slavery before the European introduction of African slavery into North America.
 
-- Right. They had, they had slavery, but it wasn't Esau slavery. It was ser, it was indentured servitude. Cuz remember, on this side of the world we were keeping the laws. We had indentured servants. Israel had, Israel also, according to the law, according to the law, had indentured servants. So it was a form of slavery.
+- They had, they had slavery, but it wasn't Esau slavery. It was ser, it was indentured servitude. Cuz remember, on this side of the world we were keeping the laws. We had indentured servants. Israel had, Israel also, according to the law, according to the law, had indentured servants. So it was a form of slavery.
 
 > But none exploited slave labor on a large scale.
 
@@ -75,7 +74,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > Most of these so-called Indian slaves tended to live, however, on the fringes of Indian society. Although not much is known about them, there is little evidence that they were considered racially inferior to the Indians who held power over them.
 
-- Right. It was none of that racial, and racial superiority stuff going on. That's Esau started that.
+- It was none of that racial, and racial superiority stuff going on. That's Esau started that.
 
 > Nor did Indians buy and sell captives in the pre-colonial era,
 
@@ -83,7 +82,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > although sometime exchange enslaved Indians with other tribes and in peace gestures are in exchange for their own members.
 
-- Right. Was just regular.
+- Was just regular.
 
 > In fact the word slave may not even accurately apply to these cap
 
@@ -91,15 +90,15 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > The situation of enslaved Indians varied among the tribes. In many cases enslaved captives were adopted into the tribes to replace warriors killed during a raid. Enslaved warriors sometime endured mutilation or torture that could end in death as part of a grief ritual for relatives slain in battle.
 
-- Right. You had some that, nativ, that was just freaking whing out, doing crazy stuff.
+- You had some that, nativ, that was just freaking whing out, doing crazy stuff.
 
 > Some Indians cut off one foot are their captives to keep them from running away.
 
-- Right. You had the situations like that. They were real severe toward their servants in some instances.
+- You had the situations like that. They were real severe toward their servants in some instances.
 
 > Creek, for example, treated the children born of slaves and tribal members as full members of the tribe rather than as enslaved offspring. Some tribes held captives as hostages for payment. Other tribes practice debt, practice debt slavery or imposed slavery.
 
-- Right. That's according to the Lord. Debt slavery: you owed a debt, you were sold off as a slave. Get that real quick, Leviticus 25, if you asked Paul by you. Spend a minute. That's according to the law. That's why it says you can't even call these guys slaves. They were more so B like, like, dented servants. We wax poor by you. 2, 25, 25, 45, somewhere around 39. 25:39. Leviticus chapter 25:39. 35, verse 35.
+- That's according to the Lord. Debt slavery: you owed a debt, you were sold off as a slave. Get that real quick, Leviticus 25, if you asked Paul by you. Spend a minute. That's according to the law. That's why it says you can't even call these guys slaves. They were more so B like, like, dented servants. We wax poor by you. 2, 25, 25, 45, somewhere around 39. 25:39. Leviticus chapter 25:39. 35, verse 35.
 
 </div>
 
@@ -117,7 +116,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > <sup>[39](/bible/leviticus/25#v39)</sup> And if thy brother that dwelleth by thee be waxen poor, and be sold unto thee; thou shalt not compel him to serve as a bondservant:
 
-- And be what? And be sold unto thee. Right. To work off a debt. To be sold unto you.
+- And be what? And be sold unto thee. To work off a debt. To be sold unto you.
 
 > <sup>[40](/bible/leviticus/25#v40)</sup> But as an hired servant, and as a sojourner, he shall be with thee, and shall serve thee unto the year of jubile:
 
@@ -151,7 +150,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > or imposed slavery on tribal members who had committed crime
 
-- Right. Or if you were a criminal, you to work off. That's called community service. Community service, Esau called it today.
+- Or if you were a criminal, you to work off. That's called community service. Community service, Esau called it today.
 
 > but this status was only temporary
 
@@ -159,7 +158,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > as the enslaved worked off the obligation to the tribal society.
 
-- Right. To the, to the, to the, to the community.
+- To the, to the, to the, to the community.
 
 > Once Europeans arve
 
@@ -177,8 +176,6 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > More and more Indians began selling war captives to white rather than integrating them into their own societies.
 
-- Right.
-
 > And as the demand for labor in the West Indies became insatiable, whites began to actively enslave Indians for export to the so-called Sugar Island
 
 - Whites began to do what? Whites began to actively enslave Indians, and do what? For, for, for export to the so-called sugar islands. So how they, so how'd they get them to the sugar islands? How'd they get them over there? They put him in a sh... what kind of ship? It would be a slave ship. It would be a slave ship. Continue.
@@ -193,7 +190,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > sought trading partners and allies among the Indians,
 
-- Right. Remember, Indians, we had war captives. So we would sell, not, not our own tri, among our own tribe, we would sell our war captives to the white man. But they took them for slaves forever. And then when they became insatiable at the late workforce, they start to actively steal the people. Steal the native children away, and people away.
+- Remember, Indians, we had war captives. So we would sell, not, not our own tri, among our own tribe, we would sell our war captives to the white man. But they took them for slaves forever. And then when they became insatiable at the late workforce, they start to actively steal the people. Steal the native children away, and people away.
 
 > offering trading goods such as metal knives and axes, firearms and ammunition, intoxicant liquor
 
@@ -205,7 +202,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > an Indian slave captured from other tribes.
 
-- Right. Our war caps, our criminals.
+- Our war caps, our criminals.
 
 > Unscrupulous trador, frontier settlers, and government officials encourag Indians to make war on other tribes
 
@@ -237,7 +234,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > <sup>[30](/bible/deuteronomy/28#v30)</sup> Thou shalt betroth a wife, and another man shall lie with her: thou shalt build an house, and thou shalt not dwell therein: thou shalt plant a vineyard, and shalt not gather the grapes thereof.
 
-- Right. Plant a vineyard. Goes back to the tobacco. It goes back to the indigo and the rice, all of that. The rubber. Same thing.
+- Plant a vineyard. Goes back to the tobacco. It goes back to the indigo and the rice, all of that. The rubber. Same thing.
 
 > <sup>[32](/bible/deuteronomy/28#v32)</sup> Thy sons and thy daughters shall be given unto another people, and thine eyes shall look, and fail with longing for them all the day long: and there shall be no might in thine hand.
 
@@ -261,13 +258,13 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > Carolina actually exported as many or even more Indian slave than imported, enslaved than
 
-- No, that an, important than, that imported enslaved Africans. Next page. Turn it over.
+- No, that an, important than, that imported enslaved Africans. Turn it over.
 
 - **A co-host:** Deacon, when you get a chance, can I bring something out?
 
 - **Deacon Eythan:** Yeah, you bring out now. It says Carolina actually exported as many as, as many or even more Indian slaves than it, than, than it orted, or brought in Africans, prior to 1720. So they had, they brought, they had more Native American tribes or Indians as slaves, more than the blacks, prior to 1720, when the increase of bringing us in came in. All right, so y'all, this Native Americans is, is a heathen stuff, y'all finished. You done at this point. This is like, y'all will finish part from part one, but I'm just, just to nail on the coffin at this point.
 
-- **A co-host:** Cat, give me, offic j, give me Nehemiah 5, verse 5 real quick. Because that whole notion, because, saying that the Northern Kingdom or the Native American Indians are not Israelites because they sold, they had blacks as slaves. But historically speaking, you have a lot of blacks that was given freedom had their own self as slaves too, meaning they had it as indent, indented servitude servants. So that was common practice amongst the tribes, and Esau showed us a different type of servitude or practice. And yes, we did sell our, some of our people to the other nations, cuz you had Co amongst us from every time period. Right. So this is common practice. Nehemiah 5:5.
+- **A co-host:** Cat, give me, offic j, give me Nehemiah 5, verse 5 real quick. Because that whole notion, because, saying that the Northern Kingdom or the Native American Indians are not Israelites because they sold, they had blacks as slaves. But historically speaking, you have a lot of blacks that was given freedom had their own self as slaves too, meaning they had it as indent, indented servitude servants. So that was common practice amongst the tribes, and Esau showed us a different type of servitude or practice. And yes, we did sell our, some of our people to the other nations, cuz you had Co amongst us from every time period. So this is common practice. Nehemiah 5:5.
 
 </div>
 
@@ -283,13 +280,13 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > <sup>[8](/bible/nehemiah/5#v8)</sup> And I said unto them, We after our ability have redeemed our brethren the Jews, which were sold unto the heathen; and will ye even sell your brethren? or shall they be sold unto us? Then held they their peace, and found nothing to answer.
 
-- **A co-host:** Which were sold unto the heathen. So it sh... the same history happened all over again. You have Israelites amongst each other that was selling, that were taking captives of their own people, their sons and daughters, and what did they do afterwards? They sold them to the other nations. So what happened in the Persian captivity also happened, what? During the cap... when the sparians came over here. Happened amongst us, during what? The natives, as well as Judah. Read on.
+- **A co-host:** Which were sold unto the heathen. So it sh... the same history happened all over again. You have Israelites amongst each other that was selling, that were taking captives of their own people, their sons and daughters, and what did they do afterwards? They sold them to the other nations. So what happened in the Persian captivity also happened, what? During the cap... when the sparians came over here. Happened amongst us, during what? The natives, as well as Judah.
 
-- **A co-host:** So that's all I want to bring out. Right. This's is some more. Now give me, get Chronicles, 2 Chronicles 28. And also, if you look at it, that's the same, that's happened today with our leaders. Super leaders. Y. That's what they're doing. They're selling our people right back into slivery all over again. 2 Chronicles 28. Oh, Deacon, did you have that scripture on your manual?
+- **A co-host:** So that's all I want to bring out. This's is some more. Now give me, get Chronicles, 2 Chronicles 28. And also, if you look at it, that's the same, that's happened today with our leaders. Super leaders. Y. That's what they're doing. They're selling our people right back into slivery all over again. 2 Chronicles 28. Oh, Deacon, did you have that scripture on your manual?
 
 - **Deacon Eythan:** No, I did not.
 
-- **A co-host:** Oh, praise. Second Chronicles 28. Read verse five. This is going into King Ahaz. Ahaz are screwing up, and the Lord sent judgment upon him, and we, Judah, this is Judah, I believe, and we, we pretty much got put into the hands of our enemies, including Northern... remember, this at this time Northern Kingdom and Southern Kingdom were odd with each other. So watch this, on verse 5.
+- **A co-host:** Second Chronicles 28. Read verse five. This is going into King Ahaz. Ahaz are screwing up, and the Lord sent judgment upon him, and we, Judah, this is Judah, I believe, and we, we pretty much got put into the hands of our enemies, including Northern... remember, this at this time Northern Kingdom and Southern Kingdom were odd with each other. So watch this, on verse 5.
 
 **[2 Chronicles 28:5-15](/bible/2-chronicles/28#v5)**  *[[28:36](https://www.youtube.com/watch?v=GoQpk12OwN4&t=1716s)]*
 
@@ -309,11 +306,11 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 >
 > <sup>[8](/bible/2-chronicles/28#v8)</sup> And the children of Israel carried away captive of their brethren two hundred thousand, women, sons, and daughters, and took also away much spoil from them, and brought the spoil to Samaria.
 
-- **A co-host:** So Israel took captive Judah. Conquered them. Brought men, brought men, women, and children as captives back to Samaria. This is Northern Kingdom enslaving Southern Kingdom in the Bible. They go, Native Americans had Negos are slaves. So what? So what? That's the reading right here. Now watch this. There's a difference, though. Watch this. Read on, verse nine.
+- **A co-host:** So Israel took captive Judah. Conquered them. Brought men, brought men, women, and children as captives back to Samaria. This is Northern Kingdom enslaving Southern Kingdom in the Bible. They go, Native Americans had Negos are slaves. So what? So what? That's the reading right here. Now watch this. There's a difference, though. Read on, verse nine.
 
 > <sup>[9](/bible/2-chronicles/28#v9)</sup> But a prophet of the Lord was there, whose name was Oded: and he went out before the host that came to Samaria, and said unto them, Behold, because the Lord God of your fathers was wroth with Judah, he hath delivered them into your hand, and ye have slain them in a rage that reacheth up unto heaven.
 
-- **A co-host:** But a prophet of the Lord was there. Unlike over here, a prophet of the Lord was there at this time, to do what? Read on.
+- **A co-host:** But a prophet of the Lord was there. Unlike over here, a prophet of the Lord was there at this time, to do what?
 
 > <sup>[10](/bible/2-chronicles/28#v10)</sup> And now ye purpose to keep under the children of Judah and Jerusalem for bondmen and bondwomen unto you: but are there not with you, even with you, sins against the Lord your God?
 
@@ -337,7 +334,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 - **A co-host:** And clothed what? And clothed all, all that were naked among them. So we stripped our brothers naked too. We stripped them. Put this, give them back their clothes, man. Remember, we had all kind of jewelry and stuff on. We stripped them. Said, give them back their clothes, give them back their stuff, let them go. So don't T say, because Native Americans had Negroes as slaves, the, the Civilized Tribes had Negro slaves, that supposed to mean something. That means, see, they that Israel... You guys don't know the Bible. You don't know the scriptures.
 
-- **A co-host:** They went back home. Dropped them off and went back home. So don't sit up here and tell me that because Native Americans had us as slaves in their land, by, by and by the way, there was, that was conditional. They said, listen, you can keep your land as long as you keep these … on your land too, and have him work the land. That was the conditions. Some of them, some Native Americans complied, some were non-compliant. Secretly non-compliant. That's what y'all do not understand. All right, let's go back. So you had Israel on Israel enslavement. Okay. I started, L you last, yesterday, Bishop's class was men stealers. That law was for us, because Israel will steal their own brothers and sell them the slavery, whether to each other or to, to heathens.
+- **A co-host:** They went back home. Dropped them off and went back home. So don't sit up here and tell me that because Native Americans had us as slaves in their land, by, by and by the way, there was, that was conditional. They said, listen, you can keep your land as long as you keep these … on your land too, and have him work the land. That was the conditions. Some of them, some Native Americans complied, some were non-compliant. Secretly non-compliant. That's what y'all do not understand. All right, let's go back. So you had Israel on Israel enslavement. I started, L you last, yesterday, Bishop's class was men stealers. That law was for us, because Israel will steal their own brothers and sell them the slavery, whether to each other or to, to heathens.
 
 <div class="reading">
 
@@ -345,11 +342,9 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > The usual exchange rate of captive Indians for enslaved Africans were two or three Indians to the Af, to one African.
 
-- Read it again.
-
 > The usual exchange rate of captive Indians for enslaved Africans was two or three Indians to one African.
 
-- So you had two or three natives and one black. That was the ratio of slaves. That was the ratio of slavery. Blow it, blow it up a little. Blow it up some more so we can see a little bit more. Yeah, come on, it's a big screen. All right.
+- So you had two or three natives and one black. That was the ratio of slaves. That was the ratio of slavery. Blow it, blow it up a little. Blow it up some more so we can see a little bit more. Yeah, come on, it's a big screen.
 
 > Until late in the 18th century, Indian slaves worked on English plantations alongside African slaves and even occasionally white indenture servants.
 
@@ -357,7 +352,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > White inden servants, women and children frequently were used as menial laborers or domestic servants. By 1720 most whites in the south, southeastern British colonies preferred enslave Africans to Indians
 
-- For obvious reasons. Right.
+- For obvious reasons.
 
 > Indians could, for one, for one thing, more easily run away into the wilderness,
 
@@ -369,7 +364,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 - **A co-host:** Hey Deac, what does that sound like? To the je edar Hoover?
 
-- **Deacon Eythan:** Yeah. Yep. Right.
+- **Deacon Eythan:** Yeah. Yep.
 
 - **A co-host:** Co Pro. Yeah, sounds like coint Pro. Fear is the nle unity.
 
@@ -389,7 +384,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > Additionally, Europeans commonly believe that Native American men, culturally conditioned to be hunters, considered field work to be women's work, and that Indian warriors would not adapt easily to agricultural labor in comparison to enslaved Africans. Most importantly, the demand for enslaved labor in the tobacco and rice plantations came too far exceed the potential supply of Indian captives,
 
-- Right. Not enough men to handle the land, land. Not enough Indian slaves to handle all that land.
+- Not enough men to handle the land, land. Not enough Indian slaves to handle all that land.
 
 > especially once European diseases began to decimate, decimate Indian populations,
 
@@ -405,11 +400,11 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > The, further in the interior in the quest for slaves to be sold, especially to the British. Before 1700 the Westos in Carolina dominated much of the Indian slave trade unto the English, allied with the Savannah, who resented the Westo control of the trade, wiped them out. The Westo tribal group was completely eliminated; the survivors were scattered or else sold into slavery in Antiga.
 
-- Right. The natives, what, those were the natives. They were Esau and number. Fighting over slaves, pretty much fighting, and then they eventually were overthrown and were sold into slavery or scattered.
+- The natives, what, those were the natives. They were Esau and number. Fighting over slaves, pretty much fighting, and then they eventually were overthrown and were sold into slavery or scattered.
 
 > A similar pattern of friendly and then hostile relations among the English and Indians followed in the southeastern colonies. For example, the Creek, a loose confederacy of many different groups who had banded together to defend themselves against slave rating, allied with the English and moved on the appalachi, the appalachi in Spanish Florida, destroying them as a group of people in the quest for Indian slaves. These raids also destroyed several other Florida Indian tribes, including the timua, the tumua. Indeed, most of the colonial era Indians of Florida were killed, enslaved, or scattered. It is estimated that the English Creek raids on Florida yielded 4,000 Indian slaves between 1700 and 17
 
-- You Indians and … rugging together to slave their own people. It's start getting bad. Let's jump down to, let's see, on a second, what do I want? I'm gonna try to jump through it, due, due to time. Let's see, page 30 of 7. What do I want, what do I want? Yeah, page three of seven. Let's get the first paragraph. Watch this. The first, this is good, first paragraph. Watch this. That's good right there. From 1750. Watch this. From 1750, cuz a lot of y'all be saying they have Americans own slaves. Watch this.
+- You Indians and … rugging together to slave their own people. It's start getting bad. Let's jump down to, let's see, on a second, what do I want? I'm gonna try to jump through it, due, due to time. Let's see, page 30 of 7. What do I want, what do I want? Yeah, page three of seven. Let's get the first paragraph. The first, this is good, first paragraph. That's good right there. From 1750. From 1750, cuz a lot of y'all be saying they have Americans own slaves.
 
 </div>
 
@@ -423,7 +418,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > Although there is no evidence that blacks ever owned Indian slaves, the nature of this interaction depended upon the historical character of the Indian groups, the enslaved people in their midst, and the white slaveholders. Native Americans assisted runaway slaves and also tracked them down and returned them to slaver.
 
-- You have some that helped us, something that didn't help us. Watch this.
+- You have some that helped us, something that didn't help us.
 
 > They married free and enslaved blacks
 
@@ -431,11 +426,11 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > and accepted the children of such unions with few, with few strings attached.
 
-- Intermarried. Watch this.
+- Intermarried.
 
 > They also sold blacks to whites,
 
-- You had that. Occasionally happened. Watch this.
+- You had that. Occasionally happened.
 
 > trading them like so many blankets or horses.
 
@@ -443,19 +438,15 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > Most importantly, many Indians owned black slaves. By 1824 it is estimated that the Cherokee owned 1,277 black slaves. The Chaka, the chakat, and the, Ch, and Chickasaw
 
-- Right.
-
 > held over 5,000 blacks in slavery by 1860.
-
-- Watch this.
 
 > Some mixed blood Indians, such as the chocat chief Greenwood, Greenwood Lea for,
 
-- Right. Some mixed blood Indians. Watch this.
+- Some mixed blood Indians.
 
 > and the Cherokee chief John Ross, owned between 100 and 400 enslaved blacks, respectively.
 
-- Why? Mixed blood means their fathers are white. These are Es... okay. Watch. These are tears. Watch this.
+- Why? Mixed blood means their fathers are white. These are Es... okay. Watch. These are tears.
 
 > And when the southeastern Indians were force, were forcefully marched west to present day Oklahoma by the American government
 
@@ -463,7 +454,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > in the infamous Trail of Tears in the 1830s and 1840s, as many as 15,000 enslaved blacks were taken with them.
 
-- Right. So a lot of Native Americans were taken captive along the blacks, were forced to walk to Oklahoma, Z, the Trail of Tears. And those blacks and Indians that were settled in Oklahoma established Black Wall Street together. Those blacks and Native Americans that were dragged, that were forcefully forced to walk to Oklahoma, those thousands of miles, the survivors of that CH te that L to Oklahoma, they the ones who establish Black Wall Street. The Negroes and Native Americans established that town together, living together. Husbands and wives, wives and husbands. Continue. And, and te, the tears brought them along also. As slaves.
+- So a lot of Native Americans were taken captive along the blacks, were forced to walk to Oklahoma, Z, the Trail of Tears. And those blacks and Indians that were settled in Oklahoma established Black Wall Street together. Those blacks and Native Americans that were dragged, that were forcefully forced to walk to Oklahoma, those thousands of miles, the survivors of that CH te that L to Oklahoma, they the ones who establish Black Wall Street. The Negroes and Native Americans established that town together, living together. Husbands and wives, wives and husbands. Continue. And, and te, the tears brought them along also. As slaves.
 
 > Native Americans resisted as best they could Anglo-American encroachment on their lands after 1800, as illustrated by the Creek Wars of 1813 and 1836, and a series of wars with the seminal that lasted into the 1850s.
 
@@ -487,11 +478,9 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > working and living on family farms and plantations, and acquiring slaves as workers, much as were the case with white slaveholders. Indeed, these southeastern Indians came to be known among whites as the Civilized Tribes,
 
-- Right.
-
 > because of their willingness to embrace the ways of life and labor identified with Anglo-American Coons.
 
-- Civilized means they were coed. Deac, you brainwashed. Okay.
+- Civilized means they were coed. Deac, you brainwashed.
 
 > The process of absorbing white culture
 
@@ -565,8 +554,6 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 Reading from *Slavery and Native Americans in British North America and the United States: 1600 to 1865*, page three of seven, continued · read by a co-host  *[[51:16](https://www.youtube.com/watch?v=GoQpk12OwN4&t=3076s)]*
 
-
-
 - **A co-host:** Deacon, there's a point that you touched earlier, when the tears, you said a lot of Judes intermingled, right?
 
 - **Deacon Eythan:** Yes, we did. The natives.
@@ -575,21 +562,21 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > And when the southeastern Indians were forcefully marched west to, west to blacks, to present, west to present day Oklahoma. And when the southeastern Indians were forcefully marched west present day Oklahoma by the American government in the infamous tril tear in the 1830s and 40s, as many as five, 15,000 enslaved blacks were taken with them.
 
-- **A co-host:** Right. Yep. So that, so that's shown that a lot of blacks that we...
+- **A co-host:** Yep. So that, so that's shown that a lot of blacks that we...
 
 - **Deacon Eythan:** Oklahoma, that was just all black community? No, it was mixed community.
 
 - **A co-host:** Yes, it was.
 
-- **Deacon Eythan:** Native American and black community. It was not a bunch of black folks. Black Wall Street include Indians. Hey, can you pull me that Black Wall Street photo? They didn't call it Black Indian Wall Street. It was Black Wall Street, cuz both are black. Indians and, and Negroes is black. That's it. Hey, pull me up the photo real quick. Sorry, pull me up the photo real quick. Come on, hey, what's taking so long? No, no, I didn't ask for that. The photo in the classroom I sent you already. Pay attention, VD. Next paragraph, where they find that, the bottom paragraph, to move fast. In the 1820s. Wait, wait, wait. Do I want, do I want... no, no, I want to, this end, that. Blow, blow it up for me. You got it? You got it?
+- **Deacon Eythan:** Native American and black community. It was not a bunch of black folks. Black Wall Street include Indians. Hey, can you pull me that Black Wall Street photo? They didn't call it Black Indian Wall Street. It was Black Wall Street, cuz both are black. Indians and, and Negroes is black. That's it. Hey, pull me up the photo real quick. Sorry, pull me up the photo real quick. Come on, hey, what's taking so long? No, no, I didn't ask for that. The photo in the classroom I sent you already. Pay attention, VD. Next paragraph, where they find that, the bottom paragraph, to move fast. In the 1820s. Do I want, do I want... no, no, I want to, this end, that. Blow, blow it up for me. You got it? You got it?
 
 - **A co-host:** What C Jo is looking for, in the classroom.
 
-- **Deacon Eythan:** Okay, okay, okay. Just pull up real quick. Hey, let that go. Pull up real quick, pull it up real quick. That's take too long.
+- **Deacon Eythan:** Just pull up real quick. Hey, let that go. That's take too long.
 
 - **A co-host:** Give him time, give him time, give him time.
 
-- **Deacon Eythan:** I'm sorry, D. I'm sorry. They, they're doing very well so far. You guys doing very well. I have no complaint. I had that picture right there. That picture, good. So pull that up real quick.
+- **Deacon Eythan:** I'm sorry, D. They, they're doing very well so far. You guys doing very well. I have no complaint. I had that picture right there. That picture, good. So pull that up real quick.
 
 </div>
 
@@ -597,15 +584,13 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 Reading from a photograph shown on screen, with its caption  *[[53:39](https://www.youtube.com/watch?v=GoQpk12OwN4&t=3219s)]*
 
-
-
 - **A co-host:** So just got show you guys a example. Yeah, yo, come on, Cat man. Yo man, to show you, y c, the third time, man. Oh man. So just to show you, if you see the old documentary TOS of Oklahoma, you see any, any brothers walk around like that, that might be Native American. That might be Gad right there.
 
 > So they are principally distinguished from the, by, from the Negroes by their very long, smooth, and cold black hair.
 
 - **A co-host:** So anytime you see pictures of that, such as that... Hey Isel, please disregard this photo. Disregard any photos or videos that been brought out about me.
 
-- **Deacon Eythan:** All right. All praises, man. Well, I didn't expect that one. That was a good, that was, that was a good, was that was an M9 shimal bingdong, M shamalan twist. I'm like, oh wow, this is getting something deep. I thought it was going to bring something deep. Oh man. All right, all right, wow. All right, let's continue. Where we at? Continue. Let's go back. We, we at, to this end. Damn. Hey man, blow it up, man. To this end. All right, to this end.
+- **Deacon Eythan:** All praises, man. Well, I didn't expect that one. That was a good, that was, that was a good, was that was an M9 shimal bingdong, M shamalan twist. I'm like, oh wow, this is getting something deep. I thought it was going to bring something deep. Oh man. All right, let's continue. Where we at? Continue. Let's go back. We, we at, to this end. Damn. Hey man, blow it up, man. To this end. All right, to this end.
 
 </div>
 
@@ -637,7 +622,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > the use of enslaved blacks as a label force on their farms
 
-- Oh, and, oh, hold on, hold on a second. Hold on a second. You ignorant black Negroes, man. A lot of y'all is Native Americans too. Y'all forget that. A lot of the Native Americans who passed for Negro were reclassified as Negroes and were put in different plantations, different, in the Carolinas and so forth. A lot of you Negroes who got grandparents in the down south and so forth, a lot of y'all is Native Americans. So y'all up there saying Native Americans is heathens, that means you're a heathen then. You sounding real stupid. Just stop talking, man. Stop talking. Be quiet. A lot of you don't, lot you don't no research, don't go to no museums, you don't travel nowhere. You just sitting around. We teach Bible by precept; y'all teach Bible by preference. It's a difference. I prefer blacks only. Well, that's your business, but it ain't in the Bible. You got, if you going to teach Bible, teacher by precept, in history. Some want teach it by preference, or I feel, I think, I believe that there he... No, we don't care about that stuff. Continue.
+- Oh, and, oh, hold on, hold on a second. You ignorant black Negroes, man. A lot of y'all is Native Americans too. Y'all forget that. A lot of the Native Americans who passed for Negro were reclassified as Negroes and were put in different plantations, different, in the Carolinas and so forth. A lot of you Negroes who got grandparents in the down south and so forth, a lot of y'all is Native Americans. So y'all up there saying Native Americans is heathens, that means you're a heathen then. You sounding real stupid. Just stop talking, man. Stop talking. Be quiet. A lot of you don't, lot you don't no research, don't go to no museums, you don't travel nowhere. You just sitting around. We teach Bible by precept; y'all teach Bible by preference. It's a difference. I prefer blacks only. Well, that's your business, but it ain't in the Bible. You got, if you going to teach Bible, teacher by precept, in history. Some want teach it by preference, or I feel, I think, I believe that there he... No, we don't care about that stuff. Continue.
 
 > including the use of enslaved blacks as a label force on their farms and in some cases their plantations. By the 1820s and 1830s many Indians lived in European, lived in European American style brick houses, sent their children to mission school,
 
@@ -645,7 +630,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > and lived in villages virtually identical to the loans of, to the towns of white Americans. In 1828 ilas buut published the Cherokee
 
-- Right. Buut is the guy you read about in the book, in the book I bring out over time, the View, about, about the Israelites on this side of the world. Bodat. Very, very popular in terms of his studies regarding the Native Americans' way of life prior to pre-colonialism.
+- Buut is the guy you read about in the book, in the book I bring out over time, the View, about, about the Israelites on this side of the world. Bodat. Very, very popular in terms of his studies regarding the Native Americans' way of life prior to pre-colonialism.
 
 > I'm sorry. Elias bnot published the Cherokee Phoenix, the first newspaper printed by Native Americans. Indians also operated a number of successful businesses, including cotton plantations worked by slaves, not much different from those owned by white, by white Southerns.
 
@@ -653,7 +638,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > Along the natures Trace, which ran from Tennessee to the Mississippi River, the Chakata and Chickasaw operated, operated fairies, trading posts, ends, and taverns, and Indian farmers frequently sold their pro, produce to travelers along the trade.
 
-- Next one. Watch this, watch this. In the 1820s. Come up, come up, come up.
+- In the 1820s. Come up, come up, come up.
 
 > In the 1820s the Five Civilized Tribes organized republican style governments with written, with written constitutions, courts, procedures, and procedures for law enforcement.
 
@@ -661,7 +646,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > The slaveholding mixed bloods
 
-- The what? The slaveholding mixed bloods. These are the tears. The fala Indians. These are the tears. Watch this.
+- The what? The slaveholding mixed bloods. These are the tears. The fala Indians. These are the tears.
 
 > generally controlled the Indian governments and passed laws that reflected their concern with the status and control of slaves.
 
@@ -677,23 +662,21 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 - **A co-host:** Deac, especially right now in South Africa, if you look at the presence that they got right now, most of them, once you look at their background, they actually grew up in those countries, but European settlers, right? So you can actually find that history right now. So most of the countries down South America, they got precedents from different nationalities.
 
-- **Deacon Eythan:** Right. Like Lebanon, like you, a lot of Arabic lulas over these areas in South America, in Central America. A lot of Arab, or Middle, so-called Middle Eastern, Near Eastern heathens running these lands. Like what's his name, what the second richest guy in the r... Carlos Slim. Carlos Slim, that's a Lebanese man. That's not a jake. He ain't Mexican. Carlos Slim is the second richest man in the freaking world. Second wealthiest man in the world. He's Lebanese.
+- **Deacon Eythan:** Like Lebanon, like you, a lot of Arabic lulas over these areas in South America, in Central America. A lot of Arab, or Middle, so-called Middle Eastern, Near Eastern heathens running these lands. Like what's his name, what the second richest guy in the r... Carlos Slim. Carlos Slim, that's a Lebanese man. That's not a jake. He ain't Mexican. Carlos Slim is the second richest man in the freaking world. Second wealthiest man in the world. He's Lebanese.
 
 - **A co-host:** Right there. Something in Haiti: the one of the richest men in Haiti is, is an Arab.
 
-- **Deacon Eythan:** Right. An Arab.
+- **Deacon Eythan:** An Arab.
 
 - **A co-host:** So you Syrian.
 
-- **Deacon Eythan:** Right. A lot of Syrians are in Haiti. A lot of them. Y. So a lot of you, you brothers, man, if you're not doing your research, you got to just stop talking, because you're gonna make yourself look real, real simple. And I'm not saying it, I'm not saying it to, to be boastful or arrogant. I speak in confidence, because when I bring out things, I do research first. We all, we sit around, we have a council. We gather our intel together and compile together, and we bring it out in the series like this one. We don't just sit around and go, I don't like Indians, they think they're heathens. That, that, I, we can't do that. That's not biblical. You can't sit around, just not like heathens because you feel they he... That make sense? Oh, like, look at his phenotype. His phenotype. … You ain't no scientist. Emotions. Your phenotype. Look at his eyes, his eyes are small. Come on, man. Y just shut up, man. Look at his nose, his nose is not brown enough. Like, who are you? Are you an angel of God? Are you an angel? Can you see through brother's DNA? You see, you see through, put your eyes in your head? Okay, I can see his DNA, he's Israel. Shut up, man. Read the next paragraph.
+- **Deacon Eythan:** A lot of Syrians are in Haiti. A lot of them. Y. So a lot of you, you brothers, man, if you're not doing your research, you got to just stop talking, because you're gonna make yourself look real, real simple. And I'm not saying it, I'm not saying it to, to be boastful or arrogant. I speak in confidence, because when I bring out things, I do research first. We all, we sit around, we have a council. We gather our intel together and compile together, and we bring it out in the series like this one. We don't just sit around and go, I don't like Indians, they think they're heathens. That, that, I, we can't do that. That's not biblical. You can't sit around, just not like heathens because you feel they he... That make sense? Oh, like, look at his phenotype. His phenotype. … You ain't no scientist. Emotions. Your phenotype. Look at his eyes, his eyes are small. Y just shut up, man. Look at his nose, his nose is not brown enough. Like, who are you? Are you an angel of God? Are you an angel? Can you see through brother's DNA? You see, you see through, put your eyes in your head? Okay, I can see his DNA, he's Israel. Shut up, man. Read the next paragraph.
 
 > It says, in the 1820s the Five Civilized Tribes organized republican style governments with written constitutions, courts, and procedures for law enforcement. The slaveholding mix, mixed bloods generally controlled the Indian governments
 
 - Slaveholding mixed bloods generally control what? The Indian governments.
 
 > and passed laws that reflected their concern with the status and control of slaves.
-
-- Watch this.
 
 > The 1827 Cherokee Constitution disallowed the ownership of property by the enslaved
 
@@ -702,8 +685,6 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 > including their mixed blood descendants,
 
 > made, made, made illegal the buying of goods, goods from enslaved peoples, and imposed heavy fines on slaveholders when they're enslaved, when they're enslaved people consumed alcohol.
-
-- Right.
 
 > It was, it was illegal for enslaved black to marry a white or an Indian. No blacks, not even free blacks, could vote,
 
@@ -715,7 +696,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > Cherokee laws, however, did not impose nearly as many restrictions on enslaved blacks as did white Americans in their slave codes. There, there were, there were no Cherokee laws, for example, dealing with insurrection or rebellion.
 
-- Right. Like beating, and beating them to death. Jump down to, was it that, only a minority, right there. I see it. Watch this.
+- Like beating, and beating them to death. Jump down to, was it that, only a minority, right there. I see it.
 
 > Only a minority of southeastern Indians, however, embraced fully the material aspects of the Anglo-American definition of civilization.
 
@@ -735,7 +716,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > This cultural struggle reflected not only Native American aversion to the materialism and market oriented, oriented character of the, of the emerging commercial capitalism of the white society, it also reflected the antagonism of white, of whites towards Indians.
 
-- All Indians. Right. It caused a disruption. Those who weren't cooperative, it caused issues of business and trading and so forth, of whites.
+- All Indians. It caused a disruption. Those who weren't cooperative, it caused issues of business and trading and so forth, of whites.
 
 > The mineral protection and assistance provided by the federal government for the integration
 
@@ -755,7 +736,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > and the tribes found little protection from the federal government when white settlers stole their property and assaulted or killed them.
 
-- See that? Stole their property, by assaulting and killing them. The ones who did not cooperate, integrate, or assimilate into white syst, society. All right.
+- See that? Stole their property, by assaulting and killing them. The ones who did not cooperate, integrate, or assimilate into white syst, society.
 
 - **A co-host:** And that's the basically the same thing that the Bishop last night, right? If he didn't convert to their religion, to their new religion, and they sold you as slave.
 
@@ -771,7 +752,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > <sup>[43](/bible/deuteronomy/28#v43)</sup> The stranger that is within thee shall get up above thee very high; and thou shalt come down very low.
 
-- Verse 43 real quick. If 43. Yeah, we read that before. We, 43 and 44, you read again. Just read again. Read again. Read it again.
+- Verse 43 real quick. If 43. Yeah, we read that before. We, 43 and 44, you read again. Just read again. Read again.
 
 > <sup>[44](/bible/deuteronomy/28#v44)</sup> He shall lend to thee, and thou shalt not lend to him: he shall be the head, and thou shalt be the tail.
 
@@ -787,7 +768,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 - If you don't follow, you'll kill you. Same thing.
 
-- Right. So that's all I wanted.
+- So that's all I wanted.
 
 <div class="reading">
 
@@ -803,11 +784,11 @@ Reading from a CNN article shown on screen, *Mexican archaeologists identify the
 
 > CNN. Archaeologists in Mexico have confirmed that a shipwreck discovered off, off the, the coast of the Yucatan Peninsula once carried captured Mayans who were sold into slavery.
 
-- Mm-hmm. What? Who? Read again. I'm sorry. Read again. I'm paying attention. Read again.
+- Mm-hmm. What? Who? Read again. Read again. I'm paying attention. Read again.
 
 > Archaeologists in Mexico have confirmed that a shipwreck discovered off the coast of the Yucatan Peninsula once carried captured Mayans who were sold into slavery.
 
-- Yep. Captured Mayans who were sold into slavery. Mayans. We read about the Mayans last week. We did a whole history, and Incas, last week. Text weeks ago, weeks of it. Now this comes out. Break time. Read on. Read again.
+- Yep. Captured Mayans who were sold into slavery. Mayans. We read about the Mayans last week. We did a whole history, and Incas, last week. Text weeks ago, weeks of it. Now this comes out. Break time. Read again.
 
 > Archaeologists in Mexico have confirmed that a shipwreck discovered off the coast of the Yucatan Peninsula once carried captured Mayans
 
@@ -829,7 +810,7 @@ Reading from a CNN article shown on screen, *Mexican archaeologists identify the
 
 - **Deacon Eythan:** Jews.
 
-- **A co-host:** Yep. For you guys. So all you n... you black only Israelites saying that the Northern Kingdom wasn't as Wen put in slaves, I mean weren't put in slave ships, you're wrong. We have documented history with the Indians, with the araks, as, as well as the Native American Indians, were brought to what? Suril, Spain, Portugal, with slave ships. Now we have Mayan slave ships. Come on, man.
+- **A co-host:** Yep. For you guys. So all you n... you black only Israelites saying that the Northern Kingdom wasn't as Wen put in slaves, I mean weren't put in slave ships, you're wrong. We have documented history with the Indians, with the araks, as, as well as the Native American Indians, were brought to what? Suril, Spain, Portugal, with slave ships. Now we have Mayan slave ships.
 
 - **Deacon Eythan:** Let's give up. Get real quick, go back to, go back to... Is that it? That's all already want, to be honest. That's CNN. I don't need anything else. Go back to, go back to... There is a God. Go back to what I had. Go to page 47. I want you to read this here, the Trail of Tears and slavery. We got to read that. I can't leave that out. I cannot leave it out. Oh, M. We gonna go on break after this. We're gonna go on break. Just hold on, hold that. We're going to take a break. Just stay with us. We'll be right back. Shalom.
 
@@ -837,7 +818,7 @@ Reading from a CNN article shown on screen, *Mexican archaeologists identify the
 
 *[[1:10:54](https://www.youtube.com/watch?v=GoQpk12OwN4&t=4254s)]* The show takes its break here and returns at *[[1:25:43](https://www.youtube.com/watch?v=GoQpk12OwN4&t=5143s)]*.
 
-*[[1:25:43](https://www.youtube.com/watch?v=GoQpk12OwN4&t=5143s)]* All right, we're back, we're back, we're back. Hopefully you're still with us, you're still in tune with us. We're going to continue into the Trail of Tears and slavery, the Trail of Tears and slavery section of the class, part of it, regarding the Native Americans as well as the Negroes being sold and enslaved together. Some of y'all don't think that that took place. So let's go, let's go. Trail of Tears and slavery. Watch this.
+*[[1:25:43](https://www.youtube.com/watch?v=GoQpk12OwN4&t=5143s)]* All right, we're back, we're back, we're back. Hopefully you're still with us, you're still in tune with us. We're going to continue into the Trail of Tears and slavery, the Trail of Tears and slavery section of the class, part of it, regarding the Native Americans as well as the Negroes being sold and enslaved together. Some of y'all don't think that that took place. So let's go, let's go. Trail of Tears and slavery.
 
 <div class="reading">
 
@@ -869,7 +850,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > The SEO and numerous blacks
 
-- Hold on. The seino and numerous blacks. Two different people. The seminal and blacks.
+- The seino and numerous blacks. Two different people. The seminal and blacks.
 
 > who had joined them as runaway slaves,
 
@@ -899,9 +880,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 Reading from the cover of a book called *Black Indians*, and two photographs shown on screen  *[[1:29:06](https://www.youtube.com/watch?v=GoQpk12OwN4&t=5346s)]*
 
-
-
-- All right. I'm going give you an example of, of, of them right now. Watch this. This is a book. This is a cover of a book called Black Indians, and it shows that, that unity, that alliance between the two. All right, watch this. So let... yep. Not this school. It's, go all the way down, all to the bottom. We'll get to that stuff after this. Yep, that, those two. Yep, those two. So everybody can see. Let everybody see it. The unity of brethren. All right. Brothers. All right. No, they look different, they're not the same people. Just be quiet, man, before I thoroughly embarrass you and make you stupid. Bring you stupid out before the world.
+- I'm going give you an example of, of, of them right now. This is a book. This is a cover of a book called Black Indians, and it shows that, that unity, that alliance between the two. So let... yep. Not this school. It's, go all the way down, all to the bottom. We'll get to that stuff after this. Yep, that, those two. Yep, those two. So everybody can see. Let everybody see it. The unity of brethren. Brothers. No, they look different, they're not the same people. Just be quiet, man, before I thoroughly embarrass you and make you stupid. Bring you stupid out before the world.
 
 - **A co-host:** There no stupidity is an art for black people. Stupidity arst. They make stupidity in art. I'm telling you.
 
@@ -915,17 +894,15 @@ Reading from the cover of a book called *Black Indians*, and two photographs sho
 
 - **Deacon Eythan:** Bring it out. Bring it out, the history. We got to show the proof. We got to show the evidence. Evidence, man. You know, we got, got... so that's what you black only Israelite... This is another example of a cheile, or Cherokee Indian, right? Right, right before your eyes. Put that out there. Put that out there. Cherokee. Where's that picture of the Cherokee, though? Side, that Cherokee.
 
-- **A co-host:** Oh, I thought that was a Cher... something right here. I'mma repost it again. I'mma share it so it goes to the bottom. Hold on. I'mma share it again. It's go to the bottom right now.
+- **A co-host:** Oh, I thought that was a Cher... something right here. I'mma repost it again. I'mma share it so it goes to the bottom. I'mma share it again. It's go to the bottom right now.
 
-- **Deacon Eythan:** Go to that one. That's the Cherokee also. Click that one so they can see the difference. Then go to the picture of the black, the brother with the Gadite. It's the brother by himself. All right, this is a Cherokee right there. Now go to the brother, the other picture. You put him side by side. All right, yep, click that one. This all I want is the brothers. Yeah, move it over. Matter of fact, have both, have them both. Look there. That's fine. Leave them both up there. Then bring it, bring... yeah, that's good. Then move it over. Move the, the Cherokee over. Yeah, move... yeah, that's perfect. Move... can you blow up some? Make it bigger, a little bit bigger. The Cherokee on the left hand, on the left. Yeah, yeah. I don't need the top. Yeah, yeah, there you go. Perfect. Move it over. There we go, perfect. Now just take a look. That's the Cherokee on the left and the brother on the right. Another, another one on, on the right again. You understand? Different featur..., different feature. It's the same people, different features.
-
-- **A co-host:** Thank you.
+- **Deacon Eythan:** Go to that one. That's the Cherokee also. Click that one so they can see the difference. Then go to the picture of the black, the brother with the Gadite. It's the brother by himself. All right, this is a Cherokee right there. Now go to the brother, the other picture. You put him side by side. All right, yep, click that one. This all I want is the brothers. Yeah, move it over. Matter of fact, have both, have them both. Look there. That's fine. Leave them both up there. Then bring it, bring... yeah, that's good. Then move it over. Move the, the Cherokee over. Yeah, move... yeah, that's perfect. Move... can you blow up some? Make it bigger, a little bit bigger. The Cherokee on the left hand, on the left. Yeah, yeah. I don't need the top. Yeah, yeah, there you go. Perfect. Move it over. There we go, perfect. Now just take a look. That's the Cherokee on the left and the brother on the right. Another, another one on, on the right again. Different featur..., different feature. It's the same people, different features.
 
 - **Deacon Eythan:** Different features. That's that.
 
 - **A co-host:** That bomb was necessary.
 
-- **Deacon Eythan:** That's fine. That's, that's, that's different, different features. It's brothers. So all this talk about, oh, the phenotype. That's why when a white man came to the side of the world, he saw some looking like the one on the left, some looking like the one the right, all throughout the Americas. Those divver..., that diversity was common. So they realize these guys are the same people, cuz they are, they are, they all have the same common differences and variances and features. Now let's get on to the next one. The removal issue. The removal issue. Come on, let's go. We got, I'm going to start getting into... is car in 2 o'clock. The removal issue. Let's get it. Let's go.
+- **Deacon Eythan:** That's fine. That's, that's, that's different, different features. It's brothers. So all this talk about, oh, the phenotype. That's why when a white man came to the side of the world, he saw some looking like the one on the left, some looking like the one the right, all throughout the Americas. Those divver..., that diversity was common. So they realize these guys are the same people, cuz they are, they are, they all have the same common differences and variances and features. Now let's get on to the next one. The removal issue. The removal issue. We got, I'm going to start getting into... is car in 2 o'clock. The removal issue.
 
 </div>
 
@@ -951,7 +928,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > They fame, they famed, or held, farmed or held as plantations many, many ancestral lands. No. Many these slave, slave owning Indians believe it would be best for the tribes to cooperate.
 
-- They, no, cooperate. They believe that... Read from your phone. I read it again.
+- They, no, cooperate. They believe that... Read from your phone.
 
 - **A co-host:** I read it. I got it.
 
@@ -997,13 +974,11 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 Reading from photographs of a Hampton University classroom and of the Indian school he calls the Carlile Institute, shown on screen  *[[1:36:46](https://www.youtube.com/watch?v=GoQpk12OwN4&t=5806s)]*
 
-
-
-- Now, regarding the integration and white assimilation, I, I mentioned to y'all earlier, car out Institute and Hampton University. So what I'm going to show you is the in, is the white, is the, the integration. This is col... this is hon University. This here is a picture of Hampton University classroom. You see Native Americans and blacks alike sitting in school, being taught agriculture, whatever this is, right? This is, this is the... they learning right here. But this is this institution where you have the said uniform and so forth. You the blacks and Native Americans sitting there together, all dressed in uniform, white uniform and so forth. This is them being taught agriculture and cultivation. White civilization. That's what they're being taught here. Like today. All right. It's, I believe it's a HBCU. Hampton University, I think it is. I think it's the HBCU. I think it's the HBCU, Hampton University. I could be wrong.
+- Now, regarding the integration and white assimilation, I, I mentioned to y'all earlier, car out Institute and Hampton University. So what I'm going to show you is the in, is the white, is the, the integration. This is col... this is hon University. This here is a picture of Hampton University classroom. You see Native Americans and blacks alike sitting in school, being taught agriculture, whatever this is, right? This is, this is the... they learning right here. But this is this institution where you have the said uniform and so forth. You the blacks and Native Americans sitting there together, all dressed in uniform, white uniform and so forth. This is them being taught agriculture and cultivation. White civilization. That's what they're being taught here. Like today. It's, I believe it's a HBCU. Hampton University, I think it is. I think it's the HBCU. I think it's the HBCU, Hampton University. I could be wrong.
 
 - **A co-host:** No, it is. It is.
 
-- **Deacon Eythan:** Right. It is a historically black and Native American college. All right, go on to the next image. You going go, this is to go to car... watch this. Wow. Carile Institute. Check this out. This is them, mon, Cara Institute. This is the top. This is, this is before conversion, on top. Before. Blow it up. On the top, make that bigger. Bring it down. This is before. They're wearing dresses. See how they look? They wearing their, their traditional gar, how they dressed. Let's go to the after. Ah. Indian outed slaves. Destroy hair, cut. White people haircuts. Dressed like … See that? That's, that's carile Institute. Go to the next image, with the children in front of the big, front of the big house. Did I send that? It's very pixelated. It's very pixelated. Can't see it. All right, so this bringing in some... show it again. Just make it, yeah, right there is good. Can't see the faces. Yeah, that's fine, right there is good. All right, go to the next one with the kids. Do, that's, that's... send that with the kids. Kids, a bunch of children sitting in front of school. Was, I mentioned that the kids who, who chose to resist in the schooling were buried, were buried under the school, cuz the school was hundreds of miles away from their homelands. I think I didn't, I don't think I sent it. Let me send it right now. Hold on.
+- **Deacon Eythan:** It is a historically black and Native American college. All right, go on to the next image. You going go, this is to go to car... watch this. Carile Institute. This is them, mon, Cara Institute. This is the top. This is, this is before conversion, on top. Before. Blow it up. On the top, make that bigger. This is before. They're wearing dresses. See how they look? They wearing their, their traditional gar, how they dressed. Let's go to the after. Ah. Indian outed slaves. Destroy hair, cut. White people haircuts. Dressed like … See that? That's, that's carile Institute. Go to the next image, with the children in front of the big, front of the big house. Did I send that? It's very pixelated. It's very pixelated. Can't see it. All right, so this bringing in some... show it again. Just make it, yeah, right there is good. Can't see the faces. Yeah, that's fine, right there is good. All right, go to the next one with the kids. Do, that's, that's... send that with the kids. Kids, a bunch of children sitting in front of school. Was, I mentioned that the kids who, who chose to resist in the schooling were buried, were buried under the school, cuz the school was hundreds of miles away from their homelands. I think I didn't, I don't think I sent it. Let me send it right now.
 
 - **A co-host:** And there's a movie also on the Carl Institute. Anytime a Gadites or Gadite student rebelled, they would cut off their hair, as a form of rebellion. Cuz that, that was very, like, a city held their hair, like you said, the length of their hair...
 
@@ -1011,7 +986,7 @@ Reading from photographs of a Hampton University classroom and of the Indian sch
 
 - **A co-host:** To high, to high standard. Yeah. So anytime there was any type of rebellion, they'll cut off their hair, to pretty much, you know, suppress them, humiliate them.
 
-- **Deacon Eythan:** Yeah. Carile. Hold on. No, not images, not maps. Here we go. All right, hold on, trying to share it. Hold on. Here we go. You should get it right about now. This is, I believe this is car out Institute. Go ahead and click that. That's the children. Blow it up. Hopefully it's not pixelated. So it's a small picture. See all them children sitting there in front of the big house? There any children who chose to resist, they was under that field. All right, that's Carlile Institute, I believe. All right, if you type in call out Institute and go to images, you will see this all in the images. All these children were going to be taught how to be white, okay? That's what this is. Kala Institute is a enslave institution. That's what it is. Slave education. That's a car Institute history is involved in, in Hampton University. Same thing. Slave institution. Ancient Board of Ed. That's what that is. Or Board of, Board of the Dead. Board education, dead education. Now let's go to the, let's go to Kingsboro images now, with the Kingsboro pages. Let that go. Board of Education, that's what I call it.
+- **Deacon Eythan:** Yeah. Carile. No, not images, not maps. Here we go. All right, hold on, trying to share it. Here we go. You should get it right about now. This is, I believe this is car out Institute. Go ahead and click that. That's the children. Blow it up. Hopefully it's not pixelated. So it's a small picture. See all them children sitting there in front of the big house? There any children who chose to resist, they was under that field. All right, that's Carlile Institute, I believe. All right, if you type in call out Institute and go to images, you will see this all in the images. All these children were going to be taught how to be white, okay? That's what this is. Kala Institute is a enslave institution. That's what it is. Slave education. That's a car Institute history is involved in, in Hampton University. Same thing. Slave institution. Ancient Board of Ed. That's what that is. Or Board of, Board of the Dead. Board education, dead education. Now let's go to the, let's go to Kingsboro images now, with the Kingsboro pages. Let that go. Board of Education, that's what I call it.
 
 </div>
 
@@ -1019,7 +994,7 @@ Reading from photographs of a Hampton University classroom and of the Indian sch
 
 **A co-host:** It's all right. Got be drinking water in the mic.
 
-**Deacon Eythan:** It's all right. Water is good, man. Look, look, look, look, look. It's all right. Everybody know how good the water is.
+**Deacon Eythan:** It's all right. Water is good, man. It's all right. Everybody know how good the water is.
 
 **A co-host:** You got the top one?
 
@@ -1027,7 +1002,7 @@ Reading from photographs of a Hampton University classroom and of the Indian sch
 
 **A co-host:** Yes sir.
 
-**Deacon Eythan:** All right, thank you. Let's blow up. Go to odds, odds and something is the bottom, the blue bottom. Let me go there with you, so I, so I know what you... what I want you to read, J.
+**Deacon Eythan:** Let's blow up. Go to odds, odds and something is the bottom, the blue bottom. Let me go there with you, so I, so I know what you... what I want you to read, J.
 
 **A co-host:** Yes sir.
 
@@ -1055,7 +1030,7 @@ Reading from Kingsboro, Lord Kingsboro's compilation of the explorers' accounts,
 
 > Yes sir. With the Mexicans,
 
-- So the Tas and Mexicans are blood relatives. They, they descend from them. Watch this.
+- So the Tas and Mexicans are blood relatives. They, they descend from them.
 
 > recorded that their ancestors were Jews
 
@@ -1071,11 +1046,9 @@ Reading from Kingsboro, Lord Kingsboro's compilation of the explorers' accounts,
 
 - **A co-host:** I dro the bomb. Boom.
 
-- **Deacon Eythan:** Thank you.
-
 - **A co-host:** See, I gotta pick at the right time to do it. It went over the head, Deacon.
 
-- **Deacon Eythan:** That's all right, that's all right. Go to the next one. Let's see, let's see. Read Isaiah. It's the, it says Isaiah. I see it's right here. Watch this. To about Isaiah, whose prophecies... Yep. Isaiah, who... Blow it up. Thank you.
+- **Deacon Eythan:** That's all right, that's all right. Go to the next one. Let's see, let's see. Read Isaiah. It's the, it says Isaiah. I see it's right here. To about Isaiah, whose prophecies... Yep. Isaiah, who... Blow it up.
 
 > Isaiah, whose prophecies the Mexicans were acquainted with by paintings and tradition,
 
@@ -1099,9 +1072,9 @@ Reading from Kingsboro, Lord Kingsboro's compilation of the explorers' accounts,
 
 - **A co-host:** Mm-hmm.
 
-- **A co-host:** So Abraham, though Abraham be ignorant of us. Why? Because Abraham that acknowled, he, he had knowledge that what? That through his seed shall all nations be blessed, meaning that he'll be descendants of kings and priests, that the TW SIDS, or the royal priesthood, or chosen lineage, would come from his loins. So he was ignorant of us. He wasn't alive when the 12 tribes was conceived. Read.
+- **A co-host:** So Abraham, though Abraham be ignorant of us. Why? Because Abraham that acknowled, he, he had knowledge that what? That through his seed shall all nations be blessed, meaning that he'll be descendants of kings and priests, that the TW SIDS, or the royal priesthood, or chosen lineage, would come from his loins. So he was ignorant of us. He wasn't alive when the 12 tribes was conceived.
 
-- **A co-host:** Why wouldn't Israel acknowledge us not? Did it not, Israel know us? Did he not have the 12 tribes? Because through a process of time, throughout history, the features would be, I'll say the, what is the word I'm looking for? Diluted. Diluted. So the ignorant, Israel acknowledge us not. Jacob, if he was alive today, he would know that we're his descendants, based upon a racial mixs, whether it be through the Persian captivity, we mix through the mes, whether we mix with the, the various different nations, Sy, Syrians. So Israel recognized us not, in terms of our fe creat... Read.
+- **A co-host:** Why wouldn't Israel acknowledge us not? Did it not, Israel know us? Did he not have the 12 tribes? Because through a process of time, throughout history, the features would be, I'll say the, what is the word I'm looking for? Diluted. Diluted. So the ignorant, Israel acknowledge us not. Jacob, if he was alive today, he would know that we're his descendants, based upon a racial mixs, whether it be through the Persian captivity, we mix through the mes, whether we mix with the, the various different nations, Sy, Syrians. So Israel recognized us not, in terms of our fe creat...
 
 > <sup>[17](/bible/isaiah/63#v17)</sup> O Lord, why hast thou made us to err from thy ways, and hardened our heart from thy fear? Return for thy servants’ sake, the tribes of thine inheritance.
 
@@ -1115,9 +1088,9 @@ Reading from Kingsboro, Lord Kingsboro's compilation of the explorers' accounts,
 
 - **A co-host:** Yeah, right, right. Fine. Yeah, right. Even my brother, you look at his baby pictures, his hair, even though the father, my father's Judah, he had real fine hair texture. Me, I had woolly hair when I was born, as a baby. My baby pictures to prove that I had nice, fine, coarse, nappy, thick, woolly hair. All praises, all praises, C. And my brother had that fine hair. J try to hold it off. J try to hold it back. He try to me evil for evil. One more scripture, Deacon, don't mind?
 
-- **Deacon Eythan:** It's to me? No, go ahead, go ahead. Go ahead. You got time. Go ahead.
+- **Deacon Eythan:** It's to me? No, go ahead, go ahead. You got time.
 
-- **A co-host:** Okay. Revelation 7. So show that when it says Jacob, does Jacob acknowledges not. That's why, when you have Christians using Revelation 7:9, says out of all nations...
+- **A co-host:** Revelation 7. So show that when it says Jacob, does Jacob acknowledges not. That's why, when you have Christians using Revelation 7:9, says out of all nations...
 
 **[Revelation 7:9,13-14](/bible/revelation/7#v9)**  *[[1:50:53](https://www.youtube.com/watch?v=GoQpk12OwN4&t=6653s)]*
 
@@ -1125,7 +1098,7 @@ Reading from Kingsboro, Lord Kingsboro's compilation of the explorers' accounts,
 
 - **A co-host:** So people will use this scripture and say that this is making reference to all nations on the earth. Chinese, Japanese, Caucasians, East Indian, because it says all nations, all tongues, and all kindreds of the earth stood before the lamb. Now verse 14. Now, we are already identified this through the previous classes, in Second ezis, who that's making reference to. That's making reference to the 12 tribes, the nation of Israel, prior, based upon, like I said, the 1619 transatlantic slave trade, and prior to that the conquest of Christopher Columbus, Inquisition, and Inquisition, 1400, 1400 Inquisition. He had many slave ships that brought the natives, as well as the Mayan Indians, the Incas, on slave, slave ship, to different territories, scatter throughout the four corners of the earth. So that's why in verse 14 he says this, and I said unto him, Sir, thou knowest, and he said to me, these are they...
 
-- **Deacon Eythan:** Wait. Verse 13.
+- **Deacon Eythan:** Verse 13.
 
 - **A co-host:** Yes sir.
 
@@ -1135,11 +1108,9 @@ Reading from Kingsboro, Lord Kingsboro's compilation of the explorers' accounts,
 
 - **A co-host:** Yeah. EOS.
 
-- **Deacon Eythan:** Yes. And yes, and we teach... I don't know where he brother is getting this from. We teach that both, that the, the 12 tribes of Israel, especially the 10 tribes of Israel, were in Africa. No one, we never, ever taught that all 10 tribes of Israel are in America, and that sa... we never ever said that. I don't know where that came from. So we, we cut ourselves... you brothers, man, you make stupidity in art, I'm telling you. We never ever taught that. We know that the, there's remnants of the 10 tribes all throughout other parts of the world, but the majority of all 12 are here. Remnants of that majority are, are Africa and other areas. India, Iraq, Iran. We know this. I don't know what the hell you guys are talking about. I need to really, really sit down and examine. Sarat 11:7: understand first, then rebuke. We don't teach that all 10 tribes are all here in America. We never ever taught that. Majority of them are here; remnants of them are everywhere else. All right. So put my video in your videos, and I don't know what y'all doing. I don't know what's going on.
+- **Deacon Eythan:** Yes. And yes, and we teach... I don't know where he brother is getting this from. We teach that both, that the, the 12 tribes of Israel, especially the 10 tribes of Israel, were in Africa. No one, we never, ever taught that all 10 tribes of Israel are in America, and that sa... we never ever said that. I don't know where that came from. So we, we cut ourselves... you brothers, man, you make stupidity in art, I'm telling you. We never ever taught that. We know that the, there's remnants of the 10 tribes all throughout other parts of the world, but the majority of all 12 are here. Remnants of that majority are, are Africa and other areas. India, Iraq, Iran. We know this. I don't know what the hell you guys are talking about. I need to really, really sit down and examine. Sarat 11:7: understand first, then rebuke. We don't teach that all 10 tribes are all here in America. We never ever taught that. Majority of them are here; remnants of them are everywhere else. So put my video in your videos, and I don't know what y'all doing. I don't know what's going on.
 
 - **A co-host:** Also, let just finish up real quick.
-
-- **Deacon Eythan:** Go ahead.
 
 - **A co-host:** Verse 13 real quick.
 
@@ -1151,7 +1122,7 @@ Reading from Kingsboro, Lord Kingsboro's compilation of the explorers' accounts,
 
 - **A co-host:** So we even mix amongst, except the Chinese, and we retain their features, as well as Vietnam. So in verse 9 it says which no man could number, of all nations and kindreds and people and tongues, before the throne. That's going to the various captivities that Israel was scatter throughout. In verse 14 he says, Sir, thou knowest, and said to me, these are they which came out of great tribulation. Was a great tribulation: us being scattered throughout the four corners. Us being scattered throughout East India, us being scattered throughout the Americas, South Americas, Mexico. So the, so proven to you that not all the 12 tribes will retain their, their pure feature, even though we could produce every feature there is possible to the man. So I just want to bring that out, Deacon.
 
-- **Deacon Eythan:** Right. And also, on, on your point, it was the Tang, Song, and Ming dynasty. Tang, Song, and Ming dynasty.
+- **Deacon Eythan:** And also, on, on your point, it was the Tang, Song, and Ming dynasty. Tang, Song, and Ming dynasty.
 
 - **A co-host:** Tang, a Tong. Yeah.
 
@@ -1161,13 +1132,13 @@ Reading from Kingsboro, Lord Kingsboro's compilation of the explorers' accounts,
 
 > <sup>[9](/bible/jeremiah/12#v9)</sup> Mine heritage is unto me as a speckled bird, the birds round about are against her; come ye, assemble all the beasts of the field, come to devour.
 
-- **A co-host:** Right. Different colors. Different sh... And some of you even argue that that's not what that means. They're not different colors. Okay, well, you all right. No problem. All is Israel just stayed black. None, there's no high, there's no waffles skin Negroes anywhere. It's all an illusion. It's all in our heads. Okay.
+- **A co-host:** Different colors. Different sh... And some of you even argue that that's not what that means. They're not different colors. Okay, well, you all right. No problem. All is Israel just stayed black. None, there's no high, there's no waffles skin Negroes anywhere. It's all an illusion. It's all in our heads.
 
-- **Deacon Eythan:** Where we at in my Kingsboro thing? Go to that. You got it up there already. All right, hold on a second. Let me go back there with you. Let me go back there with you.
+- **Deacon Eythan:** Where we at in my Kingsboro thing? Go to that. You got it up there already. Let me go back there with you. Let me go back there with you.
 
 - **A co-host:** Deacon, the last part we read was the Isaiah, whose prophecies...
 
-- **Deacon Eythan:** Yes, yes, yes. We're going to go to a second, a second. Hold on. I, I don't read... I want to read all of it, so I'm trying to get, get the, the main parts. Read the prophecies, right?
+- **Deacon Eythan:** Yes, yes, yes. We're going to go to a second, a second. I, I don't read... I want to read all of it, so I'm trying to get, get the, the main parts. Read the prophecies, right?
 
 - **A co-host:** Yes sir.
 
@@ -1175,9 +1146,7 @@ Reading from Kingsboro, Lord Kingsboro's compilation of the explorers' accounts,
 
 Reading from Kingsboro, Volume 8, continued · read by a co-host  *[[1:56:47](https://www.youtube.com/watch?v=GoQpk12OwN4&t=7007s)]*
 
-
-
-- So that's why the Bible, the Jews considered... All right. The Jews considered the brazen serpent... Go to the next one, cuz that was cut off. That's cut, that's cut off. Go to the next image. It should had the whole image on the next one. The top. Yep, that one. Bring it down. Right there.
+- So that's why the Bible, the Jews considered... The Jews considered the brazen serpent... Go to the next one, cuz that was cut off. That's cut, that's cut off. Go to the next image. It should had the whole image on the next one. The top. Yep, that one. Right there.
 
 > The Jews considered the brazen serpent which Moses lifted up in the wilderness as a type of the coming of their future Messiah,
 
@@ -1185,11 +1154,9 @@ Reading from Kingsboro, Volume 8, continued · read by a co-host  *[[1:56:47](ht
 
 > and since the Mexicans were so well acquainted with the early history of the Pent, the pent, P, pent
 
-- Took is the Old Testament. They were well acquainted with the Old Testament. Wow.
+- Took is the Old Testament. They were well acquainted with the Old Testament.
 
 > and with the signs and wonders which Moses performed in Egypt by uplifting his rod, which became a serpent, it is probable that they were not ignorant of the history of the brazen serpent,
-
-- Thank you. Thank you, C.
 
 > and that coao, which proper name signifies the precious feathered serpent, was so named after the me, the memorable prodigy of the serpent in the wilderness,
 
@@ -1197,7 +1164,7 @@ Reading from Kingsboro, Volume 8, continued · read by a co-host  *[[1:56:47](ht
 
 > the feathers perhaps alluding to the retical tradition
 
-- Right. Him, le, the flight. Go to, let's see. Hold on, hold on, hold on, hold on, hold on, hold on. Read the next, read the next one. Next paragraph.
+- Him, le, the flight. Go to, let's see. Read the next, read the next one. Next paragraph.
 
 > It is very, it is very extraordinary that the Mexicans should have assigned to the serpent the same quality of superior wisdom as the Jews did, since we read of no other nations, except the Jews and the Mexicans, who believe in that fact in natural history.
 
@@ -1205,7 +1172,7 @@ Reading from Kingsboro, Volume 8, continued · read by a co-host  *[[1:56:47](ht
 
 > Through, throughout the extensive emp
 
-- No, no, no, no. Not go to next. Next Kingsboro page. Read, if the Mexicans were descended... It's gonna get better. I say the best blast, or best in the middle. I don't know. It's gonna get, it's gonna get better. Watch this.
+- No, no, no, no. Not go to next. Next Kingsboro page. Read, if the Mexicans were descended... It's gonna get better. I say the best blast, or best in the middle. I don't know. It's gonna get, it's gonna get better.
 
 > If the Mexicans, if the Mexicans were descended from the Jews, and conscious of their origin, and that they were God's people, a fact which, like the ancient Jews, they frequently took occasion to remind the him of
 
@@ -1225,7 +1192,7 @@ Reading from Kingsboro, Volume 8, continued · read by a co-host  *[[1:56:47](ht
 
 > Nothing would have been more probable, nothing would have been more probable than that, when suffering hardships and an extreme difficulty, they should have expected the quick coming of the Messiah.
 
-- **A co-host:** There you go. So they knew that the Messiah was coming.
+- **A co-host:** So they knew that the Messiah was coming.
 
 - **Deacon Eythan:** Yes, they knew.
 
@@ -1233,7 +1200,7 @@ Reading from Kingsboro, Volume 8, continued · read by a co-host  *[[1:56:47](ht
 
 - **Deacon Eythan:** Yep.
 
-- **A co-host:** Which, Messiah's coming. John 4, verse... it's earlier. Verse seven? Is verse seven? No, not seven. It's, I'm trying to... 25. 25. Okay. That verse 25.
+- **A co-host:** Which, Messiah's coming. John 4, verse... it's earlier. Verse seven? Is verse seven? No, not seven. It's, I'm trying to... 25. 25. That verse 25.
 
 </div>
 
@@ -1263,11 +1230,11 @@ Reading from Kingsboro, Volume 8, continued  *[[2:01:22](https://www.youtube.com
 
 - **Officer Don:** Way.
 
-- **Deacon Eythan:** M, wow. Wait, wait, wait, wait. What?
+- **Deacon Eythan:** M, wow. What?
 
 - **Officer Don:** Way.
 
-- **Deacon Eythan:** Oh, my man. Yeah. All praises.
+- **Deacon Eythan:** Oh, my man. Yeah.
 
 - **A co-host:** Hey, drop a bomb for that. Drop bomb for that. Drop a bomb for that. For not being black. Drop a bomb for being late too. Dropping the bombs.
 
@@ -1297,15 +1264,13 @@ Reading from Kingsboro, Volume 8, continued  *[[2:01:22](https://www.youtube.com
 
 - **A co-host:** Your mama has no issue pronounce to it.
 
-- **Deacon Eythan:** Go ahead, you. Oh, go ahead.
-
 > that the
 
 - What?
 
 > that the Mexicans ate on one of their feasts unleavened bread.
 
-- Passover. Damn. They kept Passover, man. Thank you. They kept Passover. Go to, go to... that's, that all of it?
+- Passover. Damn. They kept Passover, man. They kept Passover. Go to, go to... that's, that all of it?
 
 - **A co-host:** Yes sir. That's all of I sent you.
 
@@ -1341,7 +1306,7 @@ Reading from Kingsboro, Volume 8, continued  *[[2:01:22](https://www.youtube.com
 
 - **A co-host:** And learn. And there's so much history information on the northern tribes being Israel, sometime it overwhel Elms the, the evidence, historical evidence, of Judah being Israel. You know, if, if you look at the documents, these, this documents for days, because they didn't think that we was going to know this. They thought that they was going to decimate, desecrate all the northern Tri. They thought they was going to wipe them out completely. So say might reveal it.
 
-- **Deacon Eythan:** Right, right, right. This information is for their families, for their children to pass on to their children, not for us to come across. They were expecting this. Now read this. It's going to be heavy. Jez, I didn't post the books... you, the books that you sent me. Let me see if I can find them in the text.
+- **Deacon Eythan:** This information is for their families, for their children to pass on to their children, not for us to come across. They were expecting this. Now read this. It's going to be heavy. Jez, I didn't post the books... you, the books that you sent me. Let me see if I can find them in the text.
 
 - **A co-host:** And I guarantee they teach you that in the yeshiva.
 
@@ -1357,7 +1322,7 @@ Reading from Kingsboro, Volume 8, continued  *[[2:01:22](https://www.youtube.com
 
 - **A co-host:** Y. And they were trying to establish universities. Let's stop them from getting these buildings.
 
-- **Deacon Eythan:** Yeah, that's... we going to listen. That's all. One day I might cause fire to come from heaven. Might ask the Lord for a favor. Lord, give me, yo, give me one favor. Pow. Some of the spirits, you know what I'm saying. My man JZ over there doing the rain dance. Hey, listen, you blacks and Hispanic, man: believe it or not, you are the Israelites. Undeniably. Undeniably. So don't nobody tell you different, regardless of all the BS that these, these Negroes is talking about. Look, they don't have no information. We have the information for you. We bringing it out, you know, firsthand, backing it up with the scriptures. They got to counter. We're bringing out; they ain't doing that. Dr... what I, let's see what I want. Read the top. It's going to be a, be a beautiful, beautiful thing here. Read this. All right. Blow it up. Come on.
+- **Deacon Eythan:** Yeah, that's... we going to listen. That's all. One day I might cause fire to come from heaven. Might ask the Lord for a favor. Lord, give me, yo, give me one favor. Pow. Some of the spirits, you know what I'm saying. My man JZ over there doing the rain dance. Hey, listen, you blacks and Hispanic, man: believe it or not, you are the Israelites. Undeniably. Undeniably. So don't nobody tell you different, regardless of all the BS that these, these Negroes is talking about. Look, they don't have no information. We have the information for you. We bringing it out, you know, firsthand, backing it up with the scriptures. They got to counter. We're bringing out; they ain't doing that. Dr... what I, let's see what I want. Read the top. It's going to be a, be a beautiful, beautiful thing here. Blow it up.
 
 - **A co-host:** Find it. Just cuz I got the new phone. So I, I got...
 
@@ -1369,7 +1334,7 @@ Reading from Kingsboro, Volume 8, continued · read by a co-host  *[[2:07:48](ht
 
 > From the writings of, of custa himself, as well as from the works of Sagan, previous lost tribes info excert, notwithstanding, and Turk, and the commentary of the anonymous interpreter of the Vatican MS, that the Indians of New Spain did expect a Messiah, whom they even named Maxi
 
-- Oh, hold on. Wait, wait, wait, wait, wait. I got to read with y'all. Hold, you go... We got to read it again. We got to read it again. Hold on. Now we got to read it again. We got to read it again. Hold on, baby. Hold on, baby. From the top, from the top. Here we go. Hold on, baby. Hold onside down. Hold on, baby.
+- I got to read with y'all. Hold, you go... Now we got to read it again. Hold on, baby. Hold on, baby. From the top, from the top. Here we go. Hold on, baby. Hold onside down. Hold on, baby.
 
 - **A co-host:** He don't know what's going on right now. He trying to play cool for the ladies.
 
@@ -1377,7 +1342,7 @@ Reading from Kingsboro, Volume 8, continued · read by a co-host  *[[2:07:48](ht
 
 - **A co-host:** I'm too cool for that. Smile.
 
-- **Deacon Eythan:** Hold on. Goes everybody. Hold in.
+- **Deacon Eythan:** Goes everybody. Hold in.
 
 > From, from the writings of aosta himself
 
@@ -1401,15 +1366,15 @@ Reading from Kingsboro, Volume 8, continued · read by a co-host  *[[2:07:48](ht
 
 > The following passage, translated from the second section of the seven, the seventh chapter of the third book of Garcia
 
-- Right. Garcia is a guy that said in the other book that they claim to be descended from the tribe of isachar. Remember that guy, Garcia?
+- Garcia is a guy that said in the other book that they claim to be descended from the tribe of isachar. Remember that guy, Garcia?
 
 > Origin of the Indians
 
-- That's his book. Watch this.
+- That's his book.
 
 > shows that the attention of that learned writer had been drawn to this coincidence. In New Spain, the word Mexico
 
-- On the... In New Spain the word Mexico. Not Mex with the X. Mexico with the S. It goes, the X is in Spanish; the S is the proper term. Mexico. Watch this.
+- On the... In New Spain the word Mexico. Not Mex with the X. Mexico with the S. It goes, the X is in Spanish; the S is the proper term. Mexico.
 
 > is found, which, as Brother Step de remarks, is Hebrew,
 
@@ -1417,31 +1382,29 @@ Reading from Kingsboro, Volume 8, continued · read by a co-host  *[[2:07:48](ht
 
 - **A co-host:** Oh gosh. Make it stop.
 
-- **Deacon Eythan:** Mexico is Hebrew. Watch this. Continue. Watch this.
+- **Deacon Eythan:** Mexico is Hebrew. Continue.
 
 > and is therefore introduced in the second Psalm, and signifies his anointed.
 
-- Oh. Psalms 2.
+- Psalms 2.
 
 - **A co-host:** Make it stop.
 
-- **Deacon Eythan:** Psalms 2. Psalms 2, Psalms 2. The anointed. Mexico means anointed. Watch this.
+- **Deacon Eythan:** Psalms 2. Psalms 2, Psalms 2. The anointed. Mexico means anointed.
 
 - **A co-host:** N stop.
 
-- **Deacon Eythan:** Hold on, hold on, hold on, hold on. Go ahead, go ahead.
-
 > Since the leader who conducted those who people to Mexico was named Messi,
 
-- So the people who, who land people the land, his name was Messi. Watch this.
+- So the people who, who land people the land, his name was Messi.
 
 > or, as others, Mexi,
 
-- Right. Mexi. That's in the Spanish term, Mexi with an X.
+- Mexi. That's in the Spanish term, Mexi with an X.
 
 > and the city and nation where afterward called after him,
 
-- So the one who found in Mexico, his leader's name is Messi. So the land and people are named after him. Messi. Watch this. Or Messiah. Watch this.
+- So the one who found in Mexico, his leader's name is Messi. So the land and people are named after him. Messi. Or Messiah.
 
 > in the same way as we see that many cities, provinces, and nations have been named after those who peop or founded them,
 
@@ -1449,15 +1412,11 @@ Reading from Kingsboro, Volume 8, continued · read by a co-host  *[[2:07:48](ht
 
 > or to whom they owee their origin, as we shall presently point out, the word Me, Messi, shall be anointed, noted as being really Hebrew,
 
-- Watch this.
-
 > and it agrees surprisingly with the name of the, of the chief, head, or captain of the Mexicans.
 
-- Watch this, watch this. Give it to me. What, what next? I got... I'm sorry. Edit that out. It's too much.
+- Give it to me. What, what next? I got... Edit that out. It's too much.
 
 - **A co-host:** It's live now. Too late. Edit it out. Lost TR also, Deac, by the way.
-
-- **Deacon Eythan:** Oh. Go ahead, go ahead.
 
 > Lost tribes
 
@@ -1469,11 +1428,9 @@ Reading from Kingsboro, Volume 8, continued · read by a co-host  *[[2:07:48](ht
 
 > the word Messi may bear relationship to, relationship to the word Ma, mashia, mashiach.
 
-- So Mexicans means the Messiahs. Damn. Mexico means the Messiahs. The saviors. The saviors. That's what Mexico means. Come. The anointed ones. The anointed ones. Damn. That bad. That was bad. Read the next one. Read the next one. Read the next paragraph. More. Damn.
+- So Mexicans means the Messiahs. Damn. Mexico means the Messiahs. The saviors. The saviors. That's what Mexico means. Come. The anointed ones. The anointed ones. Damn. That bad. That was bad. Read the next paragraph. More. Damn.
 
 > Sagon alluded in the set speeches of congratulations which they address to each other on the births of their children
-
-- Watch this.
 
 > to the possibility of his
 
@@ -1481,11 +1438,11 @@ Reading from Kingsboro, Volume 8, continued · read by a co-host  *[[2:07:48](ht
 
 > being born in their days, and being of their race.
 
-- Messiah is their race. Yo, all them Yaya, y'all better get matad. I don't care. Get mad. Get mad, man. That's it. That's it. Go on. Next one. Next, next one. I sent, I sent another one. All praise to the Most High.
+- Messiah is their race. Yo, all them Yaya, y'all better get matad. I don't care. Get mad. Get mad, man. That's it. That's it. Go on. Next, next one. I sent, I sent another one.
 
 - **A co-host:** Bed. Bl over. I can't take anymore. We got to end the show right there. That's too much information coming out, D.
 
-- **Deacon Eythan:** Yeah, go to the next one. Go to the bottom. Many customs of the Mexicans. Go down to the next one. That's more. Yeah, yeah. Watch this. Rep...
+- **Deacon Eythan:** Yeah, go to the next one. Go to the bottom. Many customs of the Mexicans. Go down to the next one. That's more. Yeah, yeah. Rep...
 
 - **A co-host:** Many customs of the Mexicans. There still time right there. It's still not going to repent after all this.
 
@@ -1493,7 +1450,7 @@ Reading from Kingsboro, Volume 8, continued · read by a co-host  *[[2:07:48](ht
 
 > Many of the Mexicans, many customs of the Mexicans... I'm sorry. Many customs of the Mexicans, many customs of the Mexicans strongly savoring at Judaism
 
-- Strongly what? Savoring at Judaism. They were strongly sa floring at Judaism. Thank you.
+- Strongly what? Savoring at Judaism. They were strongly sa floring at Judaism.
 
 > besides that of circumcision
 
@@ -1519,11 +1476,11 @@ Reading from Kingsboro, Volume 8, continued · read by a co-host  *[[2:07:48](ht
 
 > more as the Jews are to the synagogues,
 
-- See, the synagogues. Watch this.
+- See, the synagogues.
 
 > anointed themselves with oils,
 
-- Anointed themselves with oils. Olive oils. Watch this.
+- Anointed themselves with oils. Olive oils.
 
 > addressing each other with the appellation of brother or
 
@@ -1551,7 +1508,7 @@ Reading from Kingsboro, Volume 8, continued · read by a co-host  *[[2:07:48](ht
 
 - **A co-host:** Smooth with it. So smooth.
 
-- **Deacon Eythan:** Right. He, se, he's still SEO, yeah. You understand? So again, me... so the term Mexicans is Mexicans, or Mexico, as in Messiah. That's what the play, that's what it means. Anointed. The anointed ones. That's what it means, because, because they were expecting, because their leader, or their found of the land, was named Messiah, or Messi, or mashi, or Messiah, mhia, mashiach, and his, and his children, descendants, are called Messiah. Same thing. Anointed. The anointed. That's all I mean. Anointed. So we got more? I got more time?
+- **Deacon Eythan:** He, se, he's still SEO, yeah. So again, me... so the term Mexicans is Mexicans, or Mexico, as in Messiah. That's what the play, that's what it means. Anointed. The anointed ones. That's what it means, because, because they were expecting, because their leader, or their found of the land, was named Messiah, or Messi, or mashi, or Messiah, mhia, mashiach, and his, and his children, descendants, are called Messiah. Same thing. Anointed. The anointed. That's all I mean. Anointed. So we got more? I got more time?
 
 - **A co-host:** No, no, D. More... just, let's end on that.
 
@@ -1565,13 +1522,13 @@ Reading from Kingsboro, Volume 8, continued · read by a co-host  *[[2:07:48](ht
 
 - **A co-host:** Like you want the pages, or...
 
-- **Deacon Eythan:** Oh yeah, yeah, yeah, yeah. Get some more. Get some more. We'll stay on this. I'll go do straight next week. Separate topic. I've been talking about bearing straight for a while. I kept referencing; I never say I got to bring it. Can't just stop bearing straight in this. All right. Up. All right. All, we going continue some more. Je, Jez sent me some more. Wow. Information regarding that term Mia, or mashiach, whatever. So send it over. I'll do Baron straight next week, and then we'll tie, we ent... eventually enter into the history of, what is it, the pans and so forth, at Hannibal and them. We're going be tying into that, heading into that territory really soon.
+- **Deacon Eythan:** Oh yeah, yeah, yeah, yeah. Get some more. Get some more. We'll stay on this. I'll go do straight next week. Separate topic. I've been talking about bearing straight for a while. I kept referencing; I never say I got to bring it. Can't just stop bearing straight in this. Up. All, we going continue some more. Je, Jez sent me some more. Information regarding that term Mia, or mashiach, whatever. So send it over. I'll do Baron straight next week, and then we'll tie, we ent... eventually enter into the history of, what is it, the pans and so forth, at Hannibal and them. We're going be tying into that, heading into that territory really soon.
 
 </div>
 
 *[[2:18:04](https://www.youtube.com/watch?v=GoQpk12OwN4&t=8284s)]* All right, got more?
 
-**A co-host:** Yes sir. Right here.
+**A co-host:** Yes sir.
 
 **Deacon Eythan:** Send it over. No, read that one. Next paragraph. Next, read next paragraph. Read that one. Sagun, Sagon says, in mentioning in the 14th chapter... we read that already, about the Passover.
 
@@ -1581,7 +1538,7 @@ Reading from Kingsboro, Volume 8, continued · read by a co-host  *[[2:07:48](ht
 
 **A co-host:** Also, any of you brothers and sisters that are friends in the reservations, sending those, those classes, yeah, let them know. You, you know, a lot of our brothers under the reservations don't like the Bible too much. So we figure if we present the secular information to them first, right, and then you can will them in with the Bible as you, you know, as they go along. You know, share, share these videos with them. Go to the different Facebook page, howow. Share, share, share, share, share. Let's get this out.
 
-**Deacon Eythan:** All right. So this is a book from the 18, 7s, 1870s. Wow. We fresh, we fresh out of, of heavy bondage, so to speak. Y'all got this? I, I don't think none of us have it.
+**Deacon Eythan:** So this is a book from the 18, 7s, 1870s. We fresh, we fresh out of, of heavy bondage, so to speak. Y'all got this? I, I don't think none of us have it.
 
 **A co-host:** Yo, none of us have it.
 
@@ -1595,7 +1552,7 @@ Reading from Kingsboro, Volume 8, continued · read by a co-host  *[[2:07:48](ht
 
 **A co-host:** You're going to get it. I got to read, I got to read.
 
-**Deacon Eythan:** All right, send it to us afterwards. We're got to get it. All right. Qu KO, qu KO. Go up. Where's the, to the highlight part.
+**Deacon Eythan:** All right, send it to us afterwards. We're got to get it. Qu KO, qu KO. Where's the, to the highlight part.
 
 <div class="reading">
 
@@ -1649,11 +1606,11 @@ Reading from the same book from the 1870s, continued · read by a co-host  *[[2:
 
 > it is very remarkable that it is precisely the same as the Hebrew word which signifies the anoint, anointed,
 
-- Which goes upon Psalms 2. Which go, goes back to Psalms 2, and Acts 4:25 and 26. Same thing. Next one. Next page, next page.
+- Which goes upon Psalms 2. Which go, goes back to Psalms 2, and Acts 4:25 and 26. Same thing.
 
 - **A co-host:** The only problem, off can't say white rice. White r...
 
-- **Deacon Eythan:** Oh man. I don't know what you're talking about right now. Go ahead, go ahead. What do you have to say about all this information coming out?
+- **Deacon Eythan:** Oh man. I don't know what you're talking about right now. What do you have to say about all this information coming out?
 
 - **A co-host:** And it's a right, man. Now, would I be telling, like, brothers recently, like, a lot of this history, it's known amongst, let's said, Northern Kingdom down south, but they made it seem like a fairy tale, just like they made it seem with the Bible. So every time we hear about these stories, like ancient stories from, like, this side of the earth, we think they're like fairy tales, fantasies, and so forth, right? But that's because we never really got the true understanding of it. But now it's coming out. You know, I'll take back a lot I said about Northern Kingdom, though. Hopefully you guys could, you know, forgive me, 70 time 7, as the scripture says.
 
@@ -1663,7 +1620,7 @@ Reading from the same book from the 1870s, continued · read by a co-host  *[[2:
 
 - **A co-host:** Yeah, but it's already done in the book anyways. I'll praise for the Most High.
 
-- **Deacon Eythan:** Bring it here. Got, got full of BS, man. You going mock him as soon as the show ends. All right, go to the next one. Go read the next one. Oh man. All right.
+- **Deacon Eythan:** Bring it here. Got, got full of BS, man. You going mock him as soon as the show ends. All right, go to the next one. Go read the next one. Oh man.
 
 > They say that, they say that COA CTO, whilst in this mortal life, wore long robes
 
@@ -1685,7 +1642,7 @@ Reading from the same book from the 1870s, continued · read by a co-host  *[[2:
 
 - Down to the foot. Down to the foot.
 
-- That's all. Hold on. Hold that thought.
+- That's all. Hold that thought.
 
 - **A co-host:** Redir. Now, his head and his hair...
 
@@ -1701,7 +1658,7 @@ Reading from the same book from the 1870s, continued · read by a co-host  *[[2:
 
 > from a sense of decency,
 
-- On a decency. Go ahead, go ahead.
+- On a decency.
 
 > with a mantle above interspersed with red marks.
 
@@ -1743,7 +1700,7 @@ Reading from the same book from the 1870s, continued · read by a co-host  *[[2:
 >
 > <sup>[2](/bible/isaiah/53#v2)</sup> For he shall grow up before him as a tender plant, and as a root out of a dry ground: he hath no form nor comeliness; and when we shall see him, there is no beauty that we should desire him.
 
-- There not attractive. He was not an attractive man. He was ugly, man. He wasn't pretty. All right. That's, that's because if he was, he was handsome and beautiful, he'd be more appealing based upon how he looked rather than what he was saying. So he came down here, now look, now looking the way, looking the way he looks. All right, so let's go back. Oh, we a finished the last... yeah, the last part. We, we gonna read pass the highlights. I think it's crazy. We should highlight the whole thing. Read the rest of it. Continue.
+- There not attractive. He was not an attractive man. He was ugly, man. He wasn't pretty. That's, that's because if he was, he was handsome and beautiful, he'd be more appealing based upon how he looked rather than what he was saying. So he came down here, now look, now looking the way, looking the way he looks. All right, so let's go back. Oh, we a finished the last... yeah, the last part. We, we gonna read pass the highlights. I think it's crazy. We should highlight the whole thing. Read the rest of it. Continue.
 
 <div class="reading">
 
@@ -1751,13 +1708,13 @@ Reading from the same book from the 1870s, continued · read by a co-host  *[[2:
 
 > They, they preserved certain green, they preserved certain green gems which belong to him with great veneration ation. His image had a very ugly face, a large head, and a thick beard.
 
-- A large head and a thick beard. One, one thing says he had a white fluffy beard, right? What was that at? Yes. He, Officer down, you got that one, where it say he had a white fluffy beer, and they gave him, they gave him a certain name? The which one was the Mayans? Yeah. You know, wey. Yeah, go to that one. Put that up. Send that to them also. We're going to get real quick the Mayans' account of how, what kind of hair he had. They going to read Revelation 1114 and see if it correlates, then go back to this. And then, yeah, then read one and one, so you know exact...
+- A large head and a thick beard. One, one thing says he had a white fluffy beard, right? What was that at? Yes. He, Officer down, you got that one, where it say he had a white fluffy beer, and they gave him, they gave him a certain name? The which one was the Mayans? Yeah. You know, wey. Yeah, go to that one. Send that to them also. We're going to get real quick the Mayans' account of how, what kind of hair he had. They going to read Revelation 1114 and see if it correlates, then go back to this. And then, yeah, then read one and one, so you know exact...
 
 - **A co-host:** Oh yeah. We go one one, we go to one one. Yeah.
 
 - **A co-host:** Boom.
 
-- **Deacon Eythan:** Come on, man. What's the bomb, man? Bomb...
+- **Deacon Eythan:** What's the bomb, man? Bomb...
 
 - **A co-host:** Not, not yet.
 
@@ -1765,7 +1722,7 @@ Reading from the same book from the 1870s, continued · read by a co-host  *[[2:
 
 - **A co-host:** Bomb just for no reason, man. Drop one. Dr... man, just for the awkward silence. Up a bomb.
 
-- **Deacon Eythan:** No silence, man. Listen. No, you guys try to reach out to us, and trying to, why they not answer? Cuz we in the vote right now. We in the vote, trying...
+- **Deacon Eythan:** No silence, man. No, you guys try to reach out to us, and trying to, why they not answer? Cuz we in the vote right now. We in the vote, trying...
 
 - **A co-host:** Yeah. Studying.
 
@@ -1913,7 +1870,7 @@ Reading from the same book from the 1870s, continued · read by a co-host  *[[2:
 
 > They heard, moreover, that the kings of Y utan descended from him, whom they called Ken, which signifies judges.
 
-- Judges. See that? So they all descend. They said, he's our, we descend from him. We, we're all the same race. You understand? So I'm showing y'all, I'm showing y'all that our forefathers on this side of the world understood and recognized that we are the same people. They Israelites. They knew that. All right. What I want? There another page, right? It's another page?
+- Judges. See that? So they all descend. They said, he's our, we descend from him. We, we're all the same race. So I'm showing y'all, I'm showing y'all that our forefathers on this side of the world understood and recognized that we are the same people. They Israelites. They knew that. What I want? There another page, right? It's another page?
 
 - **A co-host:** No, that's it. That was it.
 
@@ -1933,7 +1890,7 @@ Reading from the same book from the 1870s, continued · read by a co-host  *[[2:
 
 - **A co-host:** 22?
 
-- **Deacon Eythan:** I'm on 22... no, no, 21. 21. Hold on. Hold that, hold that thought. You got it, JZ?
+- **Deacon Eythan:** I'm on 22... no, no, 21. 21. Hold that, hold that thought. You got it, JZ?
 
 - **A co-host:** Yes sir.
 
@@ -1959,7 +1916,7 @@ Reading from a book on the meaning of the name Yucatan (its title was not given)
 
 > or Jatan, or, or Jatan,
 
-- Jatan. Watch this.
+- Jatan.
 
 > from jackon,
 
@@ -1989,11 +1946,11 @@ Reading from a book on the meaning of the name Yucatan (its title was not given)
 >
 > <sup>[23](/bible/genesis/10#v23)</sup> And the children of Aram; Uz, and Hul, and Gether, and Mash.
 
-- Come on, 24. Verse 24.
+- Verse 24.
 
 > <sup>[24](/bible/genesis/10#v24)</sup> And Arphaxad begat Salah; and Salah begat Eber.
 
-- We got Eber. Watch your Hebrew. Watch this.
+- We got Eber. Watch your Hebrew.
 
 > <sup>[25](/bible/genesis/10#v25)</sup> And unto Eber were born two sons: the name of one was Peleg; for in his days was the earth divided; and his brother’s name was Joktan.
 
@@ -2001,19 +1958,19 @@ Reading from a book on the meaning of the name Yucatan (its title was not given)
 
 - Pel means divided. That's the, we, the line we come from. The chosen come from Abraham, comes from Pelle.
 
-- Right. It means divided. Watch this.
+- It means divided.
 
 - Jatan. Damn. Joan, brother's name was jackon. The brother of what? The brother of pale, son of Eber. They named the land after him, in Hebrew. A brother of a Hebrew. Brother of Eber, son of Eber. Second son of Eber. All right, so we're gonna end it on that.
 
 ## In Closing
 
-*[[2:37:28](https://www.youtube.com/watch?v=GoQpk12OwN4&t=9448s)]* Hope you got some understanding. Shout outs to the it. I did an excellent job today. Just cut down with the bombs, man. It's mad bombs today, man. A lot of bombs. But you did excellent job, man. Destroying cities, destroying B. Damn. Also shout outs to sisters, man, for the breakfast. It was excellent. All praise. Shout to the wife as well, who helped, assisted as well. Thanks, babe, for the breakfast. Was excellent. Sisters as well. Who else, who else? Cap, come on, man. You reading the live chat? You reading the live chat?
+*[[2:37:28](https://www.youtube.com/watch?v=GoQpk12OwN4&t=9448s)]* Hope you got some understanding. I did an excellent job today. Just cut down with the bombs, man. It's mad bombs today, man. A lot of bombs. But you did excellent job, man. Destroying cities, destroying B. Damn. It was excellent. Thanks, babe, for the breakfast. Was excellent. Sisters as well. Who else, who else? Cap, come on, man. You reading the live chat? You reading the live chat?
 
 **Captain Joel:** No, no, I was looking at information.
 
-**Deacon Eythan:** Oh, okay. Damn. Yeah. Preparing already. Go ahead.
+**Deacon Eythan:** Damn. Yeah. Preparing already.
 
-**Captain Joel:** Yes, yes, yes, yes. All praises to the Most High for Our Hidden History show. Like I said, you guys, I, I, I definitely enjoy this show every week. Even though we're part of the show, I enjoy the show as a spectator. Let's get a Deacon a round of applause. Excellent class, Deacon. We appreciate all the work that the Most High has employed you to do. We ask and pray you saying spirit to keep up these great classes. Also, let's get a round of applause to the Most High for bringing this information out. Without the Most High we would not be able to find these books. So at the end of the day, the Most High gets the glory. It's him that's working through us. We're just vessels, right? Also, like I said, shout out to everybody online. Like I said, make sure you share this information.
+**Captain Joel:** Yes, yes, yes, yes. All praises to the Most High for Our Hidden History show. Like I said, you guys, I, I, I definitely enjoy this show every week. Even though we're part of the show, I enjoy the show as a spectator. Let's get a Deacon a round of applause. Excellent class, Deacon. We appreciate all the work that the Most High has employed you to do. We ask and pray you saying spirit to keep up these great classes. Also, let's get a round of applause to the Most High for bringing this information out. Without the Most High we would not be able to find these books. So at the end of the day, the Most High gets the glory. It's him that's working through us. We're just vessels, right? Like I said, make sure you share this information.
 
 *[[2:40:03](https://www.youtube.com/watch?v=GoQpk12OwN4&t=9603s)]* **Captain Joel:** All praise most, hey, all prais. Officer Don.
 
@@ -2029,7 +1986,7 @@ Reading from a book on the meaning of the name Yucatan (its title was not given)
 
 **Captain Joel:** Yeah, he's learning, he's learning. Get the right angle. My man, Officer. He's single, he got his own place, got a good job, he's meoo, you know how to cook. Oh man.
 
-**Deacon Eythan:** All praise to the Most High. To next time, Our Hidden History show. All praise to the Most High. See you next time. Shalom. God bless y'all.
+**Deacon Eythan:** To next time, Our Hidden History show. See you next time. Shalom. God bless y'all.
 
 ## Announcements & References
 

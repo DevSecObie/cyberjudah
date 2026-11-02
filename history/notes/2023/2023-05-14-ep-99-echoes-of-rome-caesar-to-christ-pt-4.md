@@ -18,15 +18,15 @@ tags: ["Our Hidden History", "christ", "egypt", "nations", "rome"]
 
 ## Introduction
 
-*[[11:12](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=672s)]* Shalom, Israel. Shalom, shalom, shalom, shalom. Welcome back. Most High and Christ bless. You're now tuned into Our Hidden History radio show. All right, there it goes. That's right. All right, Israel.
+*[[11:12](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=672s)]* You're now tuned into Our Hidden History radio show.
 
-*[[11:31](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=691s)]* So we're going to continue today in Rome. Today's title, as it suggests: The Echoes of Rome, Caesar to Christ, part four. All praise to the Most High for the Sabbath classes that was given from all of our leadership, from the captains to the bishop. The spirit is definitely working with IUIC, especially when the bishop brought out that precept in Revelation chapter 17 and then he linked it to Revelation 13. That's why, when the Lord told Miriam and Aaron, were ye not afraid to speak against my servant Moses? Because it's certain men on this earth that the Most High has elected that you have nothing to say to them. These are the men of the Lord. I thank the Lord for sending them back on the earth. As I say, welcome back, prophet. Major prophet. Welcome back to the earth. We missed you, and you're back here again to guide us, instruct us. All praise the Most High. I don't know what we'd do if it wasn't for the leadership.
+*[[11:31](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=691s)]* So we're going to continue today in Rome. Today's title, as it suggests: The Echoes of Rome, Caesar to Christ, part four.
 
 *[[12:41](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=761s)]* But today, like I said, we're going to continue on. We briefly touched, we didn't go too in depth into Caesar, because not too much of Julius Caesar actually is brought out in the book. Now Caesar did have some type of affinity, and he allowed us to practice. It's almost like an Alexander situation with Israel. He allowed us to practice some of our customs, but when it came to the revolting tribes, you have the Sicarii as well as the Zealots, he persecuted them and killed them.
 
 *[[13:06](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=786s)]* On January 1st. Now Caesar's the one that incorporated the different calendars and instituted the different days of the week, and put planetary deities on top of our numeric system. Caesar is the one that did that, and America, being an extension of Rome, carried that tradition as well as custom. But our seventh-day Sabbath, our time system, is still the same. It's exactly the same, but it just has pagan deities on top of our numeric system.
 
-*[[13:30](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=810s)]* Now, you got that? Post it up. Just to show you how Caesar dealt with us Israelites when he was in power. Go to the Telegram. It's no different from, you have blacks that was campaigning for Bill Clinton, Trump, the same thing. You have certain presidents that dealt with us differently than other presidents. So the Caesars is comparable to the presidents.
+*[[13:30](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=810s)]* Now, you got that? Post it up. Just to show you how Caesar dealt with us Israelites when he was in power. It's no different from, you have blacks that was campaigning for Bill Clinton, Trump, the same thing. You have certain presidents that dealt with us differently than other presidents. So the Caesars is comparable to the presidents.
 
 - **Officer:** They don't help us out either, for our own benefit.
 
@@ -50,9 +50,9 @@ Reading from a page posted on the Telegram, on Caesar and the Judeans (the book 
 
 > The foreign communities of Judeans might bless Caesar as their benefactor, but the Palestinian Judeans could see in him only the Roman, the patron of the hated Idumean.
 
-- The patron of the hated what? Idumean. Which was Herod. Right.
+- The patron of the hated what? Idumean. Which was Herod.
 
-- *[[17:13](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=1033s)]* So those of us that were still in our land, in Judea, we didn't care nothing for Caesar. We didn't care about him at all. But those of us that was in the diaspora, we loved the Caesar. We mourned his death. Matter of fact, pull that page up. Just like Benjamin was mourning the Queen of England. Even during the 60s, when you look at the 60s with John F. Kennedy, our people mourned his death when he died, because a lot of us looked at him as, I think we called him like the black president or something. Okay, bring that up.
+- *[[17:13](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=1033s)]* So those of us that were still in our land, in Judea, we didn't care nothing for Caesar. We didn't care about him at all. But those of us that was in the diaspora, we loved the Caesar. We mourned his death. Matter of fact, pull that page up. Just like Benjamin was mourning the Queen of England. Even during the 60s, when you look at the 60s with John F. Kennedy, our people mourned his death when he died, because a lot of us looked at him as, I think we called him like the black president or something.
 
 </div>
 
@@ -62,7 +62,7 @@ Reading from the next page on the Telegram, on the Jews in Rome after Pompey (th
 
 > After the capture of Jerusalem by Pompey, 63 BC, a number more of Jewish exiles swelled the number of the chosen people who had settled in the capital. Cicero, when pleading for Flaccus, who was their enemy, publicly alludes to their numbers and influence. Their ranks were still further recruited in 51 BC, when a lieutenant of Crassus brought some thousands of Jewish prisoners to Rome. During the civil wars Julius Caesar showed marked favor to the chosen people. After his murder they were prominent among those who mourned him.
 
-- All right. So there was a liking that we had, based upon the benefits that we experienced, and the benefits of him allowing us to practice our customs.
+- So there was a liking that we had, based upon the benefits that we experienced, and the benefits of him allowing us to practice our customs.
 
 - *[[18:45](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=1125s)]* Now let's go to Pompey. So we touched a little bit more extensively the last couple of weeks on Julius Caesar. Now we're going to go into Pompey today. Let's go to *Babylon to Timbuktu*.
 
@@ -120,11 +120,11 @@ Reading from a page read before on the show, on the migrations into Northern Afr
 
 > <sup>[1](/bible/jeremiah/44#v1)</sup> The word that came to Jeremiah concerning all the Jews which dwell in the land of Egypt, which dwell at Migdol, and at Tahpanhes, and at Noph, and in the country of Pathros, saying,
 
-- That's where they dwelt. And this is during the Babylonian captivity. Right. So that shows you those different periods of time. During the Assyrian captivity we migrated to Africa. During the Babylonian captivity, to escape Nebuchadnezzar, we migrated into Africa. So we always had established Jewish colonies, and we always sought there as a place of refuge from persecution. Africa was always a safe haven. Why? Because we could hide out, because you have the different Hamitic tribes that we could hide out amongst. Africa is a huge continent. Now let's go to Africa. Let's bring it out.
+- That's where they dwelt. And this is during the Babylonian captivity. So that shows you those different periods of time. During the Assyrian captivity we migrated to Africa. During the Babylonian captivity, to escape Nebuchadnezzar, we migrated into Africa. So we always had established Jewish colonies, and we always sought there as a place of refuge from persecution. Africa was always a safe haven. Why? Because we could hide out, because you have the different Hamitic tribes that we could hide out amongst. Africa is a huge continent. Now let's go to Africa. Let's bring it out.
 
 - **Officer:** That's why even David, when he was fleeing from Saul, he had to go into the land of the Philistines, so he wouldn't chase him in there.
 
-- **Deacon Eythan:** Yep. Bring that up. They say all black people look the same. Wasn't Paul confused? He said, art not thou that Egyptian? Ain't you that black … , that long, lanky, Egyptian-looking … ? That shows you, right, Paul had to be told. That's what he said: ain't you guys all the same, you black people? So what's the difference between you two? Right. Go on.
+- **Deacon Eythan:** Yep. They say all black people look the same. Wasn't Paul confused? He said, art not thou that Egyptian? Ain't you that black … , that long, lanky, Egyptian-looking … ? That shows you, right, Paul had to be told. That's what he said: ain't you guys all the same, you black people? So what's the difference between you two? Go on.
 
 <div class="reading">
 
@@ -132,7 +132,7 @@ Reading from an article, a brief history of the Efik  *[[25:58](https://www.yout
 
 > A brief history of the Efik. The Efik are an ethnic group settling along the Cross River estuary and the banks of the Calabar River in Nigeria,
 
-- So I want you to keep that in mind. Hey brothers, get me some pictures of the Efik people. They look just like us. Can you bring up the article, please? I don't want the pictures yet. Can you go back, please? Thank you, man. Read it again. The banks of the Calabar River. Go on.
+- So I want you to keep that in mind. Hey brothers, get me some pictures of the Efik people. They look just like us. Can you bring up the article, please? I don't want the pictures yet. Can you go back, please? The banks of the Calabar River. Go on.
 
 > and in the western Cameroon vicinity. The history of their origin and settlements dates back to the 14th century AD, following their migration in the 13th century, into the years that marked their first settlement, prior to them arriving at Creek Town and the rest of their present riverine locations. And the antiquity of the name Efik, which derived from the Hebrew word afiq or hafiq, is synonymous with Old Calabar.
 
@@ -144,9 +144,9 @@ Reading from an article, a brief history of the Efik  *[[25:58](https://www.yout
 
 > following the Roman conquest in 63 BC,
 
-- Wait. Following the Roman conquest in 63 BC. So we just read that Pompey sacked Jerusalem in 63 BC. There was a military conquest where he enslaved the inhabitants in that land, and a high count of us, millions of us, fled into Africa. And the Efik people was one of those colonies. That's how we can date our records. We can date our history.
+- Following the Roman conquest in 63 BC. So we just read that Pompey sacked Jerusalem in 63 BC. There was a military conquest where he enslaved the inhabitants in that land, and a high count of us, millions of us, fled into Africa. And the Efik people was one of those colonies. That's how we can date our records. We can date our history.
 
-- When you go to Amalek, or the Amalekites, so-called Jewish people today, we ask you, can you give us a chronological timeline, or go to the historical records to show when your people migrated? The only time they could probably go is, I'll say, during somewhere around the Renaissance. That's it. When they were enslaving us, when they had colonies, when they were there in St. Thomas. Right, they were the colonizers. That's why there's a confusion point. They were your plantation owners. Go on. Read that again.
+- When you go to Amalek, or the Amalekites, so-called Jewish people today, we ask you, can you give us a chronological timeline, or go to the historical records to show when your people migrated? The only time they could probably go is, I'll say, during somewhere around the Renaissance. That's it. When they were enslaving us, when they had colonies, when they were there in St. Thomas. Right, they were the colonizers. That's why there's a confusion point. They were your plantation owners. Go on.
 
 > and the resulting revolts against the conquest in the first and the second centuries AD, drifted through Egypt
 
@@ -154,7 +154,7 @@ Reading from an article, a brief history of the Efik  *[[25:58](https://www.yout
 
 > and the Nile, into ancient Nubia, and passed through Sudan into Nigeria in the 10th century AD,
 
-- Read it again. So it says went through Egypt. Can you put it back up, please? Thank you. I appreciate you, Officer Manny. So it says drifted through Egypt and the Nile into ancient Nubia, and passed through Sudan into Nigeria. Now give me Zephaniah chapter 3 verse 10.
+- So it says went through Egypt. Can you put it back up, please? I appreciate you, Officer Manny. So it says drifted through Egypt and the Nile into ancient Nubia, and passed through Sudan into Nigeria. Now give me Zephaniah chapter 3 verse 10.
 
 </div>
 
@@ -164,23 +164,23 @@ Reading from an article, a brief history of the Efik  *[[25:58](https://www.yout
 
 - From beyond the rivers of Ethiopia. Can you give me a map now of this? Just to show you the route which the Efik people migrated.
 
-- **Officer:** I posted something on the Telegram. That looks like a good map right there.
+- **Officer:** That looks like a good map right there.
 
 - **Deacon Eythan:** Go back. Right there. Okay, let's pull that up. Yep, that's a good map. So now if you look, you see how these guys are the devils, how they put a partition between Africa and Israel? These guys, I'm telling you, they would go out their way to establish the division. So now you had, from the land of Israel, they went to the wilderness, then they went to Egypt. Now go down from Egypt, they went to Sudan. And now where's Nigeria? It's going to be to the west. To show you the route that we took. So we had colonies established.
 
-- *[[32:10](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=1930s)]* Do I have that old map I had, that I did on a Monday class? The old map, to show you, before they had the Suez Canal, how we was able to go down into Egypt. Read that again.
+- *[[32:10](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=1930s)]* Do I have that old map I had, that I did on a Monday class? The old map, to show you, before they had the Suez Canal, how we was able to go down into Egypt.
 
 - So beyond the Blue Nile and White Nile, the rivers of Ethiopia. My suppliants, even the daughters of my dispersed. So beyond the rivers of Ethiopia was the route that we took, the migration route that we took, going from the land of Israel all the way to Egypt. We went down to Sudan, and like I said, some of us pushed westward to Nigeria, to Ghana, Sierra Leone, all these different territories we inhabited. That's where you look at the old map, you have Jewish colonies established. Every persecution, every captivity, we looked at Egypt, or Africa, as a safe haven.
 
 - *[[33:20](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=2000s)]* So beyond the rivers of Ethiopia. Can you pull up the map one more time, so that we can look at the different territories in Africa? Remember, not all these were the names back then. These are new names that were established during what is called the Scramble for Africa, the Berlin Conference. You had the European colonies name all these different territories. It wasn't 55 countries like that. Africa was divided into tribes and into colonies.
 
-- So now beyond the rivers of Ethiopia, you have Egypt, you have Libya, you have Sudan, you have South Sudan, you have the Democratic Republic of the Congo. You have a lot of our people in the Congo, the Congolese people, where you had, what's his name, the Belgian, Leopold. King Leopold II of Belgium came and enslaved the Congolese people. You have Kenya, Ethiopia, Uganda, Rwanda, Burundi. So these are the different territories that our people inhabited, and are still there because of the migration. All right, keep going. Jump to verse 14.
+- So now beyond the rivers of Ethiopia, you have Egypt, you have Libya, you have Sudan, you have South Sudan, you have the Democratic Republic of the Congo. You have a lot of our people in the Congo, the Congolese people, where you had, what's his name, the Belgian, Leopold. King Leopold II of Belgium came and enslaved the Congolese people. You have Kenya, Ethiopia, Uganda, Rwanda, Burundi. So these are the different territories that our people inhabited, and are still there because of the migration. Jump to verse 14.
 
 **[Zephaniah 3:14](/bible/zephaniah/3#v14)**  *[[34:44](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=2084s)]*
 
 > <sup>[14](/bible/zephaniah/3#v14)</sup> Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem.
 
-- So the children of the dispersed is going into the Israelites that migrated into Northeast Africa, and then migrated and went down the route and pushed further towards West Africa. Now let's go back to the Efik people. Did you find what you wanted? You're good? Okay. Let's go back to where we last left off from.
+- So the children of the dispersed is going into the Israelites that migrated into Northeast Africa, and then migrated and went down the route and pushed further towards West Africa. Now let's go back to the Efik people. Did you find what you wanted? You're good? Let's go back to where we last left off from.
 
 <div class="reading">
 
@@ -202,7 +202,7 @@ Reading from the Efik article, continued  *[[35:15](https://www.youtube.com/watc
 
 - Now can you get me some images of the Efik people, so that you can look at them? And it's not that difficult. Some of you that, like I said, has traveled to Africa, to Sierra Leone, Ghana, Uganda, there's definitely a difference in terms of phenotype. The face, the facial expressions, the skin tone. You could tell the difference when it comes to that look.
 
-- *[[38:38](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=2318s)]* Look at that. Come on now. Those are our people. You can see it. Those are Israelites. Exodus chapter 11 verse 7. So you could always tell the difference between the two. Look at our women. Come on. Those are Semites. Those are our people. Look at the beautiful skin, beautiful women, the luscious skin tone, the oils coming from the skin, all of that.
+- *[[38:38](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=2318s)]* Look at that. Those are our people. You can see it. Those are Israelites. Exodus chapter 11 verse 7. So you could always tell the difference between the two. Look at our women. Those are Semites. Those are our people. Look at the beautiful skin, beautiful women, the luscious skin tone, the oils coming from the skin, all of that.
 
 - *[[39:00](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=2340s)]* Now can you get me real quick a real Nilotic African, Hamite. I want you to do a side to side comparison. And I'm not trying to throw any shade or shots at anybody, but we wanted to show you the difference, that not all skin folks are kinfolks. Not all black people are the same. There is a differentiation when it comes to appearance. You can tell the two. Like the bishop stated, when he went to Uganda, you can tell the Nilotic tribes and the Shemitic tribes. You can tell the clear distinction.
 
@@ -214,15 +214,15 @@ Reading from the Efik article, continued  *[[35:15](https://www.youtube.com/watc
 
 > <sup>[7](/bible/exodus/11#v7)</sup> But against any of the children of Israel shall not a dog move his tongue, against man or beast: that ye may know how that the Lord doth put a difference between the Egyptians and Israel.
 
-- Between Egypt and Israel. Give me another one, man. I want the Egyptians. Come on, give me some nice-looking sisters. Between the Egyptians and Israel. Oh yeah, that's a piece. That's nice. Look at that royalty. Bring that up. Look at that. Come on now. Got some more? Give me some more.
+- Between Egypt and Israel. Give me another one, man. I want the Egyptians. Come on, give me some nice-looking sisters. Between the Egyptians and Israel. Oh yeah, that's a piece. That's nice. Look at that royalty. Look at that. Got some more? Give me some more.
 
-- *[[41:38](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=2498s)]* Even with the territorial markings, or the tribal markings, you can still tell the distinction between the two. Come on, give me one more. Give me some good-looking people, man. Yeah, that's nice. I like that look. Even look at the haircut. … And they go to the hair texture: the true Nilotic African, they never have hair. You notice that? They never have it. Look at that. They can't do the hairstyles. Only a beautiful black woman styles like that. I consider the dress attire. Right. That's our sisters. They look just like us.
+- *[[41:38](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=2498s)]* Even with the territorial markings, or the tribal markings, you can still tell the distinction between the two. Come on, give me one more. Give me some good-looking people, man. Yeah, that's nice. I like that look. Even look at the haircut. … And they go to the hair texture: the true Nilotic African, they never have hair. You notice that? They never have it. Look at that. They can't do the hairstyles. Only a beautiful black woman styles like that. I consider the dress attire. That's our sisters. They look just like us.
 
-- *[[42:32](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=2552s)]* She's nice. The Efik people. Look. Come on. I know sisters that look like that. You guys don't see people like that, look like that, every day in everyday life? Those are our people. Those are Israelites. This is a clear distinction between the two. Now get me another Nilotic one, one with no hair. Go to the right more. There's one right there, the blue. Lord forgive me if I'm wrong, but I think you're right about this. Yeah, that's not Nilotic. You can tell by that. They have like an elongated head, like an Egyptian type of head. You guys agree with me? I could be wrong, you know, just mixed in. So some of my people might be Shemitic but mixed in, like I said, and adopted some of the attributes.
+- *[[42:32](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=2552s)]* She's nice. The Efik people. I know sisters that look like that. You guys don't see people like that, look like that, every day in everyday life? Those are our people. Those are Israelites. This is a clear distinction between the two. Now get me another Nilotic one, one with no hair. Go to the right more. There's one right there, the blue. Lord forgive me if I'm wrong, but I think you're right about this. Yeah, that's not Nilotic. You can tell by that. They have like an elongated head, like an Egyptian type of head. You guys agree with me? I could be wrong, you know, just mixed in. So some of my people might be Shemitic but mixed in, like I said, and adopted some of the attributes.
 
 - **Officer:** I don't think you're wrong.
 
-- **Deacon Eythan:** I don't think I'm wrong with that one. Look at the hair. Come on now. All right, let's go back now. So let's get Calabar.
+- **Deacon Eythan:** I don't think I'm wrong with that one. Look at the hair. All right, let's go back now. So let's get Calabar.
 
 - **Officer:** That's a Nilotic custom too, to shave all your hair, just like the Egyptians did.
 
@@ -242,17 +242,15 @@ Reading from an article on Duke Town and Calabar (the source isn't named)  *[[45
 
 > Duke Town, originally known as Atakpa, is an Efik city-state that flourished in the 19th century in what is now southern Nigeria. The city-state extended from now Calabar
 
-- Keep going.
-
 > in the East, and to the West. Although it is now absorbed into Nigeria, traditional rulers of the state are still recognized. The state occupied what is now the modern city of Calabar. The Efik speak a language in the subgroup of the Niger-Congo language group.
 
 - One thing you're going to realize is a lot of these different languages is infused with Hebrew. I say it again. Just like you have North America, there's some Hebrew words infused in the language. We just don't know, because we don't know the original Hebrew or the dialect. So you might think that they're speaking, like I said, whatever African tongue, but some of them, obviously they are. Because like I said, if you lived in a land...
 
-- *[[46:45](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=2805s)]* Israel always adopted different dialects because of the captivity. We mixed it in. That's why you have the Aramaic. We haven't had the pure Hebrew from I don't know how long, because every captivity we absorbed bits and pieces of their dialect. So I won't find it coincidental if there's Hebrew still inscribed within the language. Keep going.
+- *[[46:45](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=2805s)]* Israel always adopted different dialects because of the captivity. We mixed it in. That's why you have the Aramaic. We haven't had the pure Hebrew from I don't know how long, because every captivity we absorbed bits and pieces of their dialect. So I won't find it coincidental if there's Hebrew still inscribed within the language.
 
 > They had become a power on the coast of the Bight of Biafra by the early 18th century. They were settled in large, four to five villages along the waterways, in a loose confederation with no paramount ruler, living by fish and farming. In the 19th century the British renamed these as Creek Town, Old Town and Duke Town.
 
-- Good. Now go down. So the British renamed them as Creek Town, Old Town and Duke Town. Go down. Slave trade.
+- Good. Now go down. So the British renamed them as Creek Town, Old Town and Duke Town. Slave trade.
 
 > Slave trade. The coast in this region was named Calabar by the Portuguese explorer. His reason for choosing this name is unknown, since it was not used by the Efik people. The city was founded by Efik families who had left Creek Town further up the Calabar River, settling on the east bank in a position where they were able to dominate the slave trade.
 
@@ -280,7 +278,7 @@ Reading from an article on Duke Town and Calabar (the source isn't named)  *[[45
 
 > <sup>[68](/bible/deuteronomy/28#v68)</sup> And the Lord shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you.
 
-- So the ones that's being rounded up, the Africans, the Nilotic tribes, knew exactly who they were rounding up. And how do I know? If you go back to the article, we're going to get to that. Go back to the article. If you read downwards it's going to show you what the leaders did. Go down a little bit. Yeah, that's it. Keep reading.
+- So the ones that's being rounded up, the Africans, the Nilotic tribes, knew exactly who they were rounding up. And how do I know? If you go back to the article, we're going to get to that. Go back to the article. If you read downwards it's going to show you what the leaders did. Yeah, that's it.
 
 <div class="reading">
 
@@ -288,7 +286,7 @@ Reading from the article on Calabar, on the Igbo and the slave trade  *[[53:28](
 
 > Igbo people formed the majority of enslaved Africans which were sold as slaves from Calabar,
 
-- So the Igbo people, the Efik people, always rounded up in the center hub, what is called Duke Town or Calabar, was brought to America. That's why, when we read Deuteronomy 28, the way we're able to identify with our history is through Deuteronomy 28, verse 15 to 68, the curses. They weren't just taking random people and putting them on ships. Because people say, oh, so how do you know Africans were on the ship? Because the prophecy didn't pertain to Africans. Right. They pertain to the Israelites. Obviously the Lord said the curses shall be upon thee and thy seed, for a sign.
+- So the Igbo people, the Efik people, always rounded up in the center hub, what is called Duke Town or Calabar, was brought to America. That's why, when we read Deuteronomy 28, the way we're able to identify with our history is through Deuteronomy 28, verse 15 to 68, the curses. They weren't just taking random people and putting them on ships. Because people say, oh, so how do you know Africans were on the ship? Because the prophecy didn't pertain to Africans. They pertain to the Israelites. Obviously the Lord said the curses shall be upon thee and thy seed, for a sign.
 
 - **Officer:** It said you. It shall pursue thee, individually. Those people that ask that, they don't believe the Bible.
 
@@ -296,7 +294,7 @@ Reading from the article on Calabar, on the Igbo and the slave trade  *[[53:28](
 
 > Igbo people formed the majority of enslaved Africans which were sold as slaves from Calabar, despite forming a minority among the ethnic groups in the region. From 1725 until 1750, roughly 17,000 enslaved Africans were sold from Calabar to European slave traders. From 1772 to 1775 the number soared to over 62,000. In 1767, six British slave ships arrived in Calabar during a period when Duke Town and Old Town were in the midst of a feud.
 
-- Wait. The period when Duke Town and Old Town were in the midst of a feud. Go on.
+- The period when Duke Town and Old Town were in the midst of a feud. Go on.
 
 > The leaders of Duke Town made a secret arrangement with the slave traders,
 
@@ -304,7 +302,7 @@ Reading from the article on Calabar, on the Igbo and the slave trade  *[[53:28](
 
 > whereby the leaders of Old Town would be invited on board their ships to settle the dispute. Guarantees of their safety were made. When the leaders of Old Town came aboard the ships, they were seized, with some being kept as slaves, while others were handed over to the leaders of Duke Town, who ordered their execution.
 
-- So that's what we told you: the curses will be upon thee until they overtake thee and pursue thee. Give me that in Joel chapter 3, now. That shows that that's how we know what we're talking about. So it says the leaders of Duke Town went to the leaders of Old Town and tried to convince them to settle a dispute, but they tricked them. Okay.
+- So that's what we told you: the curses will be upon thee until they overtake thee and pursue thee. Give me that in Joel chapter 3, now. That shows that that's how we know what we're talking about. So it says the leaders of Duke Town went to the leaders of Old Town and tried to convince them to settle a dispute, but they tricked them.
 
 </div>
 
@@ -324,7 +322,7 @@ Reading from the article on Calabar, on the Igbo and the slave trade  *[[53:28](
 
 - Have ye sold unto the what? Unto the Grecians. Go back. Go back to the article now.
 
-- *[[58:04](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=3484s)]* It says the leaders of Duke Town made a secret arrangement with the slave traders, whereby the leaders of Old Town would be invited on board their ships to settle the dispute. Guarantees of their safety were made. When the leaders of Old Town came aboard the ships they were seized, with some being kept as slaves, while others were handed over to the leaders of Duke Town, who ordered their execution. So, have ye sold unto the Grecians. Now let's go to the next book. Go down. Right here.
+- *[[58:04](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=3484s)]* It says the leaders of Duke Town made a secret arrangement with the slave traders, whereby the leaders of Old Town would be invited on board their ships to settle the dispute. Guarantees of their safety were made. When the leaders of Old Town came aboard the ships they were seized, with some being kept as slaves, while others were handed over to the leaders of Duke Town, who ordered their execution. So, have ye sold unto the Grecians. Now let's go to the next book.
 
 <div class="reading">
 
@@ -332,7 +330,7 @@ Reading from *Igbos: over 25 percent of African-Americans: Hebrew Exiles from Is
 
 > Concerning the origin of the Igbos, history books and contemporary writings on the subject confirm that the Igbos of Nigeria originated from Israel in the Middle East, that they were part and parcel of the
 
-- So let me show us what the book is. So this book is *Igbos: over 25 percent of African-Americans: Hebrew Exiles from Israel, Amazing Facts and Revelations*, by Professor O. Eleazi. So you can get this book. It has a lot of good information concerning the Igbos of Nigeria. All right, keep going.
+- So let me show us what the book is. So this book is *Igbos: over 25 percent of African-Americans: Hebrew Exiles from Israel, Amazing Facts and Revelations*, by Professor O. Eleazi. So you can get this book. It has a lot of good information concerning the Igbos of Nigeria.
 
 > Concerning the origin of the Igbos, history books and contemporary writings on the subject confirm that the Igbos of Nigeria originated from Israel in the Middle East, that they were part and parcel of the fallout of the scattered Hebrews from their native land, Israel, around 597 BC and 70 AD respectively.
 
@@ -372,17 +370,17 @@ Reading from *The International Standard Bible Encyclopedia*, on the Jews and Po
 
 > but many of them received their freedom and rights to citizenship when Julius Caesar, who was a great patron and protector of the Jews,
 
-- So read it again. So that's what we were talking about, how the Jews had some type of affinity. Now Julius Caesar and Pompey was during the same time period. Go on.
+- So that's what we were talking about, how the Jews had some type of affinity. Now Julius Caesar and Pompey was during the same time period. Go on.
 
 > When Pompey had captured Jerusalem in 63 BC, he brought back with him to Rome a number of Jewish captives. They were sold as slaves, but many of them received their freedom and rights to citizenship when Julius Caesar, who was a great
 
-- **Officer:** And that goes back to what they called the Libertines. Right.
+- **Officer:** And that goes back to what they called the Libertines.
 
 - **Deacon Eythan:** Yes, sir. They received their freedom and rights and citizenship. Let's get that real quick, just so we can touch back on it. It's all saying the same thing. Get that. You have the book, *Caesar and Christ*, by the way, for Herod? What page is that?
 
 - **Officer:** It's 530 and 531. I'll post it now.
 
-- **Deacon Eythan:** Okay. Got it. Bring it up.
+- **Deacon Eythan:** Got it.
 
 </div>
 
@@ -396,7 +394,7 @@ Reading from *The International Standard Bible Encyclopedia*, on the Jews and Po
 
 *[[1:05:40](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=3940s)]* The break. A reel plays: "We fall, we break, we fail, but then we rise, we heal, we overcome." "That's why I admire the man, that's why I'm friends with him, and that's why I trust him." "Because God has chose you to lead the flocks. Never give up."
 
-*[[1:07:46](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=4066s)]* "Shalom. I'm Bishop Nathanyel of Israel United in Christ, and today I'd like to present a sit-down discussion with the Jewish community. There's a lot of controversy, there's much hatred that you have towards us. We're the prophets of the one true God. So what we'd like to do is sit down with several of your leading Jewish personalities. The rest of you, just stand by, sit back, move out the way. We want to sit down with" one who called black people monkeys: "he's number one. Number two, we'd like to sit down with Jonathan Greenblatt of the Anti-Defamation League. You have so much to say on The Breakfast Club, alluding that we have shot and murdered people in New Jersey. We want to sit down and discuss with you." A clip plays: "They're entitled to their beliefs, until that justifies shooting Jewish people. This is December, three years ago, December 2019, two black Hebrew Israelites went into a kosher supermarket in Jersey City and killed three people because they said they weren't real Jews. Shot them cold dead in the kosher supermarket." "The lie that we have murdered people in New Jersey, so forth and so on. We want to sit down with" others, "also that latest group, the Canary Mission. We want to sit down with Adam Milstein." "We'd like to sit down with all of you. All for one, or one for all, however you want to do it, but we will sit down with you. So don't say we're running from you, we're trying to evade you. No, we're not. Okay? Reach us, call us at 1-855-484-4842, extension 7023, or by email, israel@israelunite.org. All right? The scripture say, if at all possible, be at peace with all men, and that's what we endeavor to do. So Jewish community, have a sit-down with us. Let's have an open discussion, publicly."
+*[[1:07:46](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=4066s)]* "Shalom. I'm Bishop Nathanyel of Israel United in Christ, and today I'd like to present a sit-down discussion with the Jewish community. There's a lot of controversy, there's much hatred that you have towards us. We're the prophets of the one true God. So what we'd like to do is sit down with several of your leading Jewish personalities. The rest of you, just stand by, sit back, move out the way. We want to sit down with" one who called black people monkeys: "he's number one. Number two, we'd like to sit down with Jonathan Greenblatt of the Anti-Defamation League. You have so much to say on The Breakfast Club, alluding that we have shot and murdered people in New Jersey. We want to sit down and discuss with you." A clip plays: "They're entitled to their beliefs, until that justifies shooting Jewish people. This is December, three years ago, December 2019, two black Hebrew Israelites went into a kosher supermarket in Jersey City and killed three people because they said they weren't real Jews. Shot them cold dead in the kosher supermarket." "The lie that we have murdered people in New Jersey, so forth and so on. We want to sit down with" others, "also that latest group, the Canary Mission. We want to sit down with Adam Milstein." "We'd like to sit down with all of you. All for one, or one for all, however you want to do it, but we will sit down with you. So don't say we're running from you, we're trying to evade you. No, we're not. Reach us, call us at 1-855-484-4842, extension 7023, or by email, israel@israelunite.org. The scripture say, if at all possible, be at peace with all men, and that's what we endeavor to do. So Jewish community, have a sit-down with us. Let's have an open discussion, publicly."
 
 *[[1:10:40](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=4240s)]* "And it shall come to pass in that day, that the Lord shall set his hand again the second time to recover the remnant of his people." "It's you who don't know your history." "Same thing on the eastern hemisphere: mass incarceration, police brutality, lynchings, convict leases in South Sudan." "Your heritage goes far deeper than where you live. You are the children of God's people."
 
@@ -404,7 +402,7 @@ Reading from *The International Standard Bible Encyclopedia*, on the Jews and Po
 
 *[[1:15:00](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=4500s)]* "Bishop, how excited are you for Passover tonight?" Starting with Bishop Nathanyel: "Bishop, I'm extremely excited. Like I said, last year was my first time back in a while. Y'all don't know what it's like having no hair, no eyebrows, no beard. Now I got a mop haircut, but I'm going to do something with this stuff tonight. But I'm excited. Very, very excited."
 
-*[[1:19:55](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=4795s)]* So we gave you a little bit of extensive history going into Julius Caesar, and then we went to Pompey. So in 63 BC you had a migration from Roman persecution into the interiors of Africa: North Africa, Egypt, then we migrated to Western Africa. So you have the Efik people, the Igbos, the Yorubas. So you have different tribes. But you had Duke Town, and also Calabar was the center hub of the slave trade coming into the Americas. Showing that those are the Israelites. Deuteronomy 28 verse 68. They knew exactly who they were coming for. Right. So there's no coincidence.
+*[[1:19:55](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=4795s)]* So we gave you a little bit of extensive history going into Julius Caesar, and then we went to Pompey. So in 63 BC you had a migration from Roman persecution into the interiors of Africa: North Africa, Egypt, then we migrated to Western Africa. So you have the Efik people, the Igbos, the Yorubas. So you have different tribes. But you had Duke Town, and also Calabar was the center hub of the slave trade coming into the Americas. Showing that those are the Israelites. Deuteronomy 28 verse 68. They knew exactly who they were coming for. So there's no coincidence.
 
 *[[1:20:28](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=4828s)]* That's why we don't listen to black people that say, oh, how do you know you guys are the Israelites? … , I just told you. It says you shall go with ships, you shall be sold. Authority? I give you the authority. I told you what it is. I'll tell you what my book says. What's wrong with you? Crazy. So we don't listen to people. We prophesy. That's what we do. We prophesy, and that's it. We're not debating. We're not going back and forth. We're going to tell you thus saith the Lord. We're going to tell you what it is, and that's it. Either you accept it or you die. That's it. And if you're other nations, we're going to bring you in shackles and chains when we get that power.
 
@@ -434,7 +432,7 @@ Reading from the Wikipedia article on Antipater the Idumean  *[[1:22:09](https:/
 
 > 113 or 114 BCE to 43 BCE, was the founder of the Herodian dynasty
 
-- Was the founder of the Herodian dynasty. Read.
+- Was the founder of the Herodian dynasty.
 
 > and father of Herod the Great.
 
@@ -466,7 +464,7 @@ Reading from *Caesar and Christ*, page 530, the bottom paragraph, on the Hasmone
 
 - **Officer:** No, I don't know. Because there was, like he said, Aristobulus and Hyrcanus, they were fighting over who's going to rule next. So they went to Pompey. When you keep reading here, it says they went to Pompey to see who he's going to put as the king.
 
-- **Deacon Eythan:** Okay. Yeah, we can revisit this. All right, let's go back. So now we already established that Herod Antipater was Idumean. They all lived during the same time period. Let's go to *Clark's Theological Library*. You were going to say something?
+- **Deacon Eythan:** Yeah, we can revisit this. All right, let's go back. So now we already established that Herod Antipater was Idumean. They all lived during the same time period. Let's go to *Clark's Theological Library*. You were going to say something?
 
 - **Officer:** Can you go back to that page? I just wanted to show, it brings together how Pompey ended up conquering us, the feud and so forth.
 
@@ -474,9 +472,9 @@ Reading from *Caesar and Christ*, page 530, the bottom paragraph, on the Hasmone
 
 - **Officer:** So showing you how everything transpired, as far as Pompey conquering Jerusalem. It had to do with the sons, and it had to do with the sons fighting for succession. And this is an old tactic of Esau, man. They wait for us to fight each other, and then they make a move.
 
-- **Deacon Eythan:** Same thing happened. All right, let's go back. Let's go to *Clark's Theological Library*. *The Congregationalist* is a little bit more definite. Do I want to go to the theological library? You have that one set up? It's right there. Okay.
+- **Deacon Eythan:** Same thing happened. All right, let's go back. Let's go to *Clark's Theological Library*. *The Congregationalist* is a little bit more definite. Do I want to go to the theological library? You have that one set up? It's right there.
 
-- *[[1:31:59](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=5519s)]* So we touched this before on a Sabbath class, given that it's during the same time period. We want to retouch it and establish the thought. And also, as far as Pompey and the Hasmoneans, the Elder brought that out a couple of shows ago, during the Greek captivity. So y'all can revisit those shows. If you want to get extensive into the Greek captivity. We're not going over the Greek captivity, we're going over Rome. So that's why we're briefly touching it and not going too extensively into it, because this all leads to Roman rule and power under Julius Caesar as well as Pompey. Go on. Go up top. Right. What book is this? Theological library. Go down. Right there.
+- *[[1:31:59](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=5519s)]* So we touched this before on a Sabbath class, given that it's during the same time period. We want to retouch it and establish the thought. And also, as far as Pompey and the Hasmoneans, the Elder brought that out a couple of shows ago, during the Greek captivity. So y'all can revisit those shows. If you want to get extensive into the Greek captivity. We're not going over the Greek captivity, we're going over Rome. So that's why we're briefly touching it and not going too extensively into it, because this all leads to Roman rule and power under Julius Caesar as well as Pompey. Go on. Go up top. What book is this? Theological library. Right there.
 
 </div>
 
@@ -485,8 +483,6 @@ Reading from *Caesar and Christ*, page 530, the bottom paragraph, on the Hasmone
 Reading from *Clark's Theological Library*, the translation of the lineage of Haman  *[[1:32:55](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=5575s)]*
 
 > The translation, according to the corrected text, is: Haman, the son of Hammedatha, the Agagite, son of Stench, son of Robbery, son of Antipater, son of Antipater, son of Herod, son of Herod,
-
-- Keep going.
 
 > son of Refuse, son of Decay, son of the Red One,
 
@@ -506,7 +502,7 @@ Reading from *Clark's Theological Library*, the translation of the lineage of Ha
 
 - *[[1:34:41](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=5681s)]* Now let's go to the next one, *The Congregationalist*. So we have multiple sources just to back it up, because people like to argue books. They'll take one book and they'll argue and say, no, that's not based upon... The information I'm bringing out, we make sure that everything we bring out coincides with Bible prophecies. We do extensive research. We do cross-reference with the scriptures. If it matches with the scriptures, we go with that. Because why? The scripture, the Bible prophecy, becomes history. It identifies characters and different races of people, and how they contributed to our destruction.
 
-- *[[1:35:24](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=5724s)]* So now you can find this book. You can order online. It's still cheap. Get it while you can. *The Congregationalist*, 1879. White eyes only. All right. Go down. Herod the King.
+- *[[1:35:24](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=5724s)]* So now you can find this book. You can order online. It's still cheap. Get it while you can. *The Congregationalist*, 1879. White eyes only. Herod the King.
 
 <div class="reading">
 
@@ -574,7 +570,7 @@ Reading from *If I Perish, I Perish* by W. Ian Thomas, on Haman and Herod  *[[1:
 
 - **Officer:** Strategize. They strategize how to conquer, and the young men go ahead and conquer.
 
-- **Deacon Eythan:** Exactly. Because they got the experience. Right. They've seen things, they've been through things. So now jump down. So this is going to Simon Maccabeus, or the Hasmonean dynasty, the house of Simon. That's a bad scripture right there. That's a bad precept. Go on. Verse 23.
+- **Deacon Eythan:** Exactly. Because they got the experience. They've seen things, they've been through things. So now jump down. So this is going to Simon Maccabeus, or the Hasmonean dynasty, the house of Simon. That's a bad scripture right there. That's a bad precept. Go on. Verse 23.
 
 **[1 Maccabees 16:23-24](/bible/1-maccabees/16#v23)**  *[[1:42:41](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=6161s)]*
 
@@ -584,7 +580,7 @@ Reading from *If I Perish, I Perish* by W. Ian Thomas, on Haman and Herod  *[[1:
 
 > <sup>[24](/bible/1-maccabees/16#v24)</sup> Behold, these are written in the chronicles of his priesthood, from the time he was made high priest after his father.
 
-- So now let's go to the forced conversion, the *Jewish Encyclopedia*. So it's under John Hyrcanus, that he was the main successor after his father Simon Maccabeus, or the Hasmonean dynasty, the house of Simon. Bring that up. That's not what I want. Encyclopedia, John Hyrcanus. You got that?
+- So now let's go to the forced conversion, the *Jewish Encyclopedia*. So it's under John Hyrcanus, that he was the main successor after his father Simon Maccabeus, or the Hasmonean dynasty, the house of Simon. That's not what I want. Encyclopedia, John Hyrcanus. You got that?
 
 - **Officer:** I got it here. I posted it.
 
@@ -594,7 +590,7 @@ Reading from the *Jewish Encyclopedia*, John Hyrcanus I, on the forced conversio
 
 > John Hyrcanus I, Johanan, high priest and prince of the Hasmonean family, born about 175, died 104. He was a wise and just ruler and a skillful warrior.
 
-- Okay, go ahead. Let's go to the forced conversion. Let's go down. Keep going. Are we still good online? All right. You're going to see, it's going to come up. Keep going. Unfortunately converted the … . Keep going. Come on.
+- Let's go to the forced conversion. Let's go down. Are we still good online? You're going to see, it's going to come up. Unfortunately converted the … .
 
 > Hyrcanus, who had been confirmed by the Romans in the possession of the important seaport of Joppa, subjugated other Syrian towns, such as Aleppo. Then he marched against the fort of Medaba on the banks of the Jordan, which had always been hostile to the Hasmoneans, and conquered it after a six months' siege. He also conquered the town of Samega on the Sea of Galilee, of special importance on account of its geographical position. He then proceeded against the Samaritans, who had always sided with the enemies of the Jews. He conquered Shechem, one of the most important towns of Samaria, and destroyed the temple on Gerizim. After victoriously ending the war in Samaria, he proceeded to subdue the … , always a menace to the southern parts of his domains.
 
@@ -608,9 +604,9 @@ Reading from the *Jewish Encyclopedia*, John Hyrcanus I, on the forced conversio
 
 - That's it. So among the … that John Hyrcanus forcibly converted was the Herodian dynasty, or Herod Antipater the First. Now can you bring me up *Caesar and Christ*, 531?
 
-- *[[1:46:29](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=6389s)]* So Antipater the First was during the time period of Caesar, Julius Caesar, as well as Pompey. You have his son ruled in his stead. 531 is the next page. It's posted on the Telegram. Go back to the Telegram, 531.
+- *[[1:46:29](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=6389s)]* So Antipater the First was during the time period of Caesar, Julius Caesar, as well as Pompey. You have his son ruled in his stead. 531 is the next page. Go back to the Telegram, 531.
 
-- **Officer:** Can we get a scripture real quick? Get Exodus 17:16. I remember the bishop brought this out concerning Amalek, how Amalek is always behind the scenes somewhere trying to destroy us. Just like we just read, he said they were always a menace to us. They're always our enemies. Read that.
+- **Officer:** Can we get a scripture real quick? Get Exodus 17:16. I remember the bishop brought this out concerning Amalek, how Amalek is always behind the scenes somewhere trying to destroy us. Just like we just read, he said they were always a menace to us. They're always our enemies.
 
 </div>
 
@@ -618,11 +614,11 @@ Reading from the *Jewish Encyclopedia*, John Hyrcanus I, on the forced conversio
 
 > <sup>[16](/bible/exodus/17#v16)</sup> For he said, Because the Lord hath sworn that the Lord will have war with Amalek from generation to generation.
 
-- **Officer:** So from generation to generation. Even today we're still having a spiritual war with Amalek. But Amalek was always joined with Rome. They was always somewhere behind the scenes trying to destroy us. Like even when we look at the Persian captivity, with Haman, he was behind the scenes trying to destroy us. As we went to the Greek captivity, we read about Alexander and them being Amalek. You understand? So the Greek captivity. Now in Rome you have Herod, we just proved he's Amalek. Okay. So they're always behind the scenes trying to destroy us. Even when you look at the Inquisition. Same thing.
+- **Officer:** So from generation to generation. Even today we're still having a spiritual war with Amalek. But Amalek was always joined with Rome. They was always somewhere behind the scenes trying to destroy us. Like even when we look at the Persian captivity, with Haman, he was behind the scenes trying to destroy us. As we went to the Greek captivity, we read about Alexander and them being Amalek. So the Greek captivity. Now in Rome you have Herod, we just proved he's Amalek. So they're always behind the scenes trying to destroy us. Even when you look at the Inquisition. Same thing.
 
-- **Deacon Eythan:** All right, you got it? All right, pull it up. So this is *Caesar and Christ*, page 531.
+- **Deacon Eythan:** All right, you got it? So this is *Caesar and Christ*, page 531.
 
-- **Officer:** You want that middle paragraph? Right.
+- **Officer:** You want that middle paragraph?
 
 - **Deacon Eythan:** Yep.
 
@@ -652,11 +648,11 @@ Reading from *Caesar and Christ*, page 531, the middle paragraph, on Crassus, An
 
 - **Officer:** Because Antony took Herod to Rome, and then he spoke to Octavian about Herod.
 
-- **Deacon Eythan:** Look who it is. Oh, you got it. Augustus Caesar. That's who Octavian is. So the Caesar, the ruler of Rome, made who king? Herod. Bring that up. Yep. So Augustus Caesar, Caesar Augustus, also known as Octavian. 63 BC. So he was in rulership. Go down.
+- **Deacon Eythan:** Look who it is. Oh, you got it. Augustus Caesar. That's who Octavian is. So the Caesar, the ruler of Rome, made who king? Herod. Yep. So Augustus Caesar, Caesar Augustus, also known as Octavian. 63 BC. So he was in rulership.
 
 - **Officer:** They actually named two months after him: August. And October is just the number, like eight, the eighth month.
 
-- **Deacon Eythan:** August, Augustus Caesar. Okay. Yep. So Octavian was Augustus Caesar, the second Caesar. Now we're in the second Caesar. So we already went through the first Caesar, and 100 BC, he died in 44 BC. Now we have the second Caesar, Octavian, Augustus Caesar, is the one that appointed Herod the king of Judea. Let's go to, almost done, Luke chapter 1 verse 5.
+- **Deacon Eythan:** August, Augustus Caesar. Yep. So Octavian was Augustus Caesar, the second Caesar. Now we're in the second Caesar. So we already went through the first Caesar, and 100 BC, he died in 44 BC. Now we have the second Caesar, Octavian, Augustus Caesar, is the one that appointed Herod the king of Judea. Let's go to, almost done, Luke chapter 1 verse 5.
 
 </div>
 
@@ -666,7 +662,7 @@ Reading from *Caesar and Christ*, page 531, the middle paragraph, on Crassus, An
 
 - In the days of Herod, the king of Judea, because Herod was named the king of Judea by Octavian, Augustus Caesar. Go on.
 
-- Now go to Jeremiah chapter 36, 30. So now there's no confusion whether or not Herod was the king of Judea or the king of the Jews. He was not the king of the Jews. Christ is the king of the Jews. Read that.
+- Now go to Jeremiah chapter 36, 30. So now there's no confusion whether or not Herod was the king of Judea or the king of the Jews. He was not the king of the Jews. Christ is the king of the Jews.
 
 **[Jeremiah 36:30](/bible/jeremiah/36#v30)**  *[[1:53:12](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=6792s)]*
 
@@ -678,7 +674,7 @@ Reading from *Caesar and Christ*, page 531, the middle paragraph, on Crassus, An
 
 > <sup>[11](/bible/matthew/1#v11)</sup> And Josias begat Jechonias and his brethren, about the time they were carried away to Babylon:
 
-- Read that again. So Josias begat Jechonias and his brethren. Go on. About the time they were carried away to Babylon. So this is the time period. That's why I said there'll be no king to reign over Judah, on the throne of David. Because at this time period Israel's exiled. There's no king after that time. We were taken off the throne.
+- So Josias begat Jechonias and his brethren. Go on. About the time they were carried away to Babylon. So this is the time period. That's why I said there'll be no king to reign over Judah, on the throne of David. Because at this time period Israel's exiled. There's no king after that time. We were taken off the throne.
 
 - *[[1:54:29](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=6869s)]* And after that, you see later on it talks about Zerubbabel. He was, I'll say, the head, not the king, but he was one of the king's guard, a ruler in the royal Persian army, what they call the Immortals. Third in command under the Persian captivity. So Zerubbabel, he wasn't ruling in the kingship. Go to Chronicles chapter 3 verse 16 and 17.
 
@@ -698,7 +694,7 @@ Reading from *Caesar and Christ*, page 531, the middle paragraph, on Crassus, An
 
 ## In Closing
 
-*[[1:56:51](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=7011s)]* And with that, we're going to end today's show. So we're going to continue next week, going into the life of Christ. All right. Any announcements?
+*[[1:56:51](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=7011s)]* And with that, we're going to end today's show. So we're going to continue next week, going into the life of Christ. Any announcements?
 
 **Officer:** Yes, sir. Hey Israel, let's give a hand for the leadership for that class.
 
