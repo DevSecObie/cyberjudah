@@ -8,7 +8,7 @@ joseph-m ^ david | 1:27,2:4 | "A man whose name was Joseph, of the house of Davi
 jesus << mary | 1:31,2:7,2:34 | "Thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS"; "she brought forth her firstborn son"
 jesus ^ david | 1:32 | "The Lord God shall give unto him the throne of his father David"
 joseph-m = mary | 2:5 | "Mary his espoused wife"
-jesus < joseph-m | 2:33,2:48,4:22 | "Joseph and his mother marvelled at those things which were spoken of him"; "thy father and I have sought thee sorrowing"; "Is not this Joseph's son?"
+jesus < joseph-m | 2:33,2:48,4:22 | "Joseph and his mother marvelled at those things which were spoken of him"; "thy father and I have sought thee sorrowing"; "Is not this Joseph's son?" | scripture | 15 Minutes with the Captains: The Virgin Mary <https://www.youtube.com/watch?v=i8wZt7cHD7Y&t=313s> ; 15 Minutes with the Captains: Virgin Birth? Well Explain These Scriptures <https://www.youtube.com/watch?v=BtV89tzRRz8&t=487s>
 anna-p < phanuel | 2:36 | "Anna, a prophetess, the daughter of Phanuel"
 anna-p & asher | 2:36 | "Of the tribe of Aser"
 philip-t ~ herod-t | 3:1 | "Herod being tetrarch of Galilee, and his brother Philip tetrarch of Iturea"
