@@ -39,7 +39,7 @@ tags: ["IUIC in the ClassRoom", "angels", "leadership", "mercy"]
 
 - How happeneth it, Israel: So the Lord's asking a question here. How do we get in the positions that we're in? Desolate, at the bottom, on drugs, baby daddies, baby mamas, barely getting by. Y'all know the routine, right?
 
-- that thou art in thine enemies' land: Yeah, we are in the United States of America, dealing with lynchings now. Rasheem Carter, Nolan Wells. What was the last one, last week, brothers? The brother's name, Tyler Smith. These things are going to continue to happen. But the Lord says, "How is this happening to you, Israel?
+- that thou art in thine enemies' land: Yeah, we are in the United States of America, dealing with lynchings now. Rasheem Carter, Nolan Wells. What was the last one, last week, brothers? The brother's name, Tyler Smith. These things are going to continue to happen. But the Lord says, "How is this happening to you, Israel?"
 
 - that thou art waxen old in a strange country: Now you are defiled. Your mindset is one that is defiled. Your mindset is abominable.
 
@@ -85,7 +85,7 @@ tags: ["IUIC in the ClassRoom", "angels", "leadership", "mercy"]
 
 **[Proverbs 13:12](/bible/proverbs/13#v12)**  *[[16:32](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=992s)]*
 
-- Now that you at the bottom of society, desolate, you come outside your door, there's a brother that looks just like you on the corner selling crack. There's a brother that may be a little older, but looks just like you, drunk at 9:00 a.m. in the morning. You got a sister that look just like you that's dressed scantily clad, maybe selling herself, who knows. You look outside the door, you said, "What? What do I have to look forward to here?
+- Now that you at the bottom of society, desolate, you come outside your door, there's a brother that looks just like you on the corner selling crack. There's a brother that may be a little older, but looks just like you, drunk at 9:00 a.m. in the morning. You got a sister that look just like you that's dressed scantily clad, maybe selling herself, who knows. You look outside the door, you said, "What? What do I have to look forward to here?"
 
 > <sup>[12](/bible/proverbs/13#v12)</sup> Hope deferred maketh the heart sick: but when the desire cometh, it is a tree of life.
 
@@ -229,7 +229,7 @@ Reading from Cultivate, defined  *[[30:13](https://www.youtube.com/watch?v=kVa8_
 
 - return from their stiff neck: No more a Negro.
 
-- they shall remember the way of their fathers, which sinned before the Lord: We're going to remember the way of our fathers which sinned before the Lord, which did the evil, and say, "We're going to go the other way. We know our fathers was doing all kinds of foolishness here. We're not going to go that way. We're going to go the other way. And guess what? No matter who don't like it. Your family don't like it. Your fathers don't like it. So what?
+- they shall remember the way of their fathers, which sinned before the Lord: We're going to remember the way of our fathers which sinned before the Lord, which did the evil, and say, "We're going to go the other way. We know our fathers was doing all kinds of foolishness here. We're not going to go that way." We're going to go the other way. And guess what? No matter who don't like it. Your family don't like it. Your fathers don't like it. So what?
 
 > <sup>[34](/bible/baruch/2#v34)</sup> And I will bring them again into the land which I promised with an oath unto their fathers, Abraham, Isaac, and Jacob, and they shall be lords of it: and I will increase them, and they shall not be diminished.
 
@@ -238,7 +238,7 @@ Reading from Cultivate, defined  *[[30:13](https://www.youtube.com/watch?v=kVa8_
 
 **[Deuteronomy 1:13-14](/bible/deuteronomy/1#v13)**  *[[38:08](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=2288s)]*
 
-- So the people were bringing their burdens or their issues to Moses. His father-in-law told him, "Set this up here. Do it this way.
+- So the people were bringing their burdens or their issues to Moses. His father-in-law told him, "Set this up here. Do it this way."
 
 > <sup>[13](/bible/deuteronomy/1#v13)</sup> Take you wise men, and understanding, and known among your tribes, and I will make them rulers over you.
 
@@ -356,7 +356,7 @@ Reading from Initiative, defined  *[[56:20](https://www.youtube.com/watch?v=kVa8
 
 > Initiative: a new plan or strategy to solve a problem, or the personal ability to act and make decisions independently without being told what to do.
 
-- So a leader will take initiative to get something done. A good leader is going to see a problem and look to solve the problem. Not see a problem and turn a blind eye. This class is really directed to my region, which is out west. So I'm not going to tell you who, but I've had meetings with camps and I ask the brothers, I say, "Hey, have you seen anything that the sisters have done wrong that you could have corrected right then and there, but you turned a blind eye? Every last one of those men said yes. Every last one said yes. You took no initiative to, hey, that's wrong, brother. That's wrong, sister. Hey, you got to stop doing that. Don't do that. Do it this way, yada yada yada. Everyone said they went like this and turned a blind eye, looked up into the sky and stuff. That's not what we're looking after.
+- So a leader will take initiative to get something done. A good leader is going to see a problem and look to solve the problem. Not see a problem and turn a blind eye. This class is really directed to my region, which is out west. So I'm not going to tell you who, but I've had meetings with camps and I ask the brothers, I say, "Hey, have you seen anything that the sisters have done wrong that you could have corrected right then and there, but you turned a blind eye?" Every last one of those men said yes. Every last one said yes. You took no initiative to, hey, that's wrong, brother. That's wrong, sister. Hey, you got to stop doing that. Don't do that. Do it this way, yada yada yada. Everyone said they went like this and turned a blind eye, looked up into the sky and stuff. That's not what we're looking after.
 
 - And guess what, sisters? Let's be honest. Do you want men, when men have that kind of spirit where they let you do what you want and you can act however you want? Be honest. Do you respect those men? So I hope y'all brothers hear what the sisters said. Did y'all hear that? If the sisters don't respect you, guess what? They just tolerating you right now. You understand that ain't what you looking for.
 
@@ -415,7 +415,7 @@ Reading from Initiative, defined  *[[56:20](https://www.youtube.com/watch?v=kVa8
 
 - Then had the churches rest: This is the result of good leadership. The church, everybody in the building, was walking in the fear of the Lord, and in the comfort of the Holy Ghost. They all had the spirit of the Lord on them, the Holy Ghost. And that's when brothers and sisters are going to come on in right there. And we all rolling in the same spirit. And those spirits on the outside that come in and they see, damn, I want to be a part of this right here. I want the same spirit these brothers and sisters got right here. I need that thing right here.
 
-- Because at the end of the video, he said, "As a leader, you have to what? Begins with the letter S. Sacrifice. Sacrifice. Guess what? You're going to have to sacrifice time, your family, your friends, your job, maybe, right? Your well-being.
+- Because at the end of the video, he said, "As a leader, you have to what?" Begins with the letter S. Sacrifice. Sacrifice. Guess what? You're going to have to sacrifice time, your family, your friends, your job, maybe, right? Your well-being.
 
 
 **[Romans 12:1](/bible/romans/12#v1)**  *[[1:14:22](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=4462s)]*
@@ -447,7 +447,7 @@ Reading from Initiative, defined  *[[56:20](https://www.youtube.com/watch?v=kVa8
 
 > <sup>[3](/bible/1-peter/5#v3)</sup> Neither as being lords over God’s heritage, but being ensamples to the flock.
 
-- Neither as being lords over God's heritage: Nobody's supposed to be lording over you. You know how the outside world says, "Oh, y'all in a cult. Y'all in a cult, tells you what to do, how to do it. Move here, move there. It's a secret. That's cult behavior. No, no, no. We counsel you out of the scriptures and you decide how you going to move. Now, if you move according to the scriptures, all praises to the Most High. If you move in a way against the scriptures, bye-bye. You understand? If you can't get it right, you got to go. Okay? So that's the difference. Nobody's lording over you. But in order to stay here, guess what you going to do? You're going to have to conform to the word of God.
+- Neither as being lords over God's heritage: Nobody's supposed to be lording over you. You know how the outside world says, "Oh, y'all in a cult. Y'all in a cult, tells you what to do, how to do it. Move here, move there." It's a secret. That's cult behavior. No, no, no. We counsel you out of the scriptures and you decide how you going to move. Now, if you move according to the scriptures, all praises to the Most High. If you move in a way against the scriptures, bye-bye. You understand? If you can't get it right, you got to go. Okay? So that's the difference. Nobody's lording over you. But in order to stay here, guess what you going to do? You're going to have to conform to the word of God.
 
 - being ensamples to the flock: So the leaders are supposed to be examples to the flock. Ensamples goes into a couple. It goes into your integrity, initiative, self-confidence, your physical, all of these things. It goes into being an example. See, all these qualities go into you as a leader being an example to those under you. So those under you can see, hey, I want to be like that. I want that spirit that that brother has right there. I want to be like him. That way I can lead and judge the people accordingly. Now, if they see other things that's not right in you, then they're going to veer away from you. You understand? The respect level is not going to be there.
 
@@ -587,7 +587,7 @@ Reading from Circumspect, defined  *[[1:35:45](https://www.youtube.com/watch?v=k
 
 - **A brother:** Well, I'm trying to use flattery to persuade you.
 
-- I'm going to manipulate you. I may be your friend. You may have a certain level of affinity towards me, and I can use that against you if you don't have trustworthy people around you. I'm a murmurer and I'm a complainer, but you my man, but I complain about y'all leaders. I'm going to manipulate you. And if you ain't got strong people around you to say, "Hey, hey, watch out for Amaziah over there, because yo, I think you may need to step back a little bit, because he could sway you this way, and I see he's swaying you that way. You can be manipulated. I got you on a string. I could do what I want with you and smile. You understand? Guess what? I could even get you to promote me, even though I don't deserve it. This is why you have to have a tight circle. You have to have men that you trust and are trustworthy and will tell you the truth about yourself. You need men to tell you the truth about yourself.
+- I'm going to manipulate you. I may be your friend. You may have a certain level of affinity towards me, and I can use that against you if you don't have trustworthy people around you. I'm a murmurer and I'm a complainer, but you my man, but I complain about y'all leaders. I'm going to manipulate you. And if you ain't got strong people around you to say, "Hey, hey, watch out for Amaziah over there, because yo, I think you may need to step back a little bit, because he could sway you this way, and I see he's swaying you that way." You can be manipulated. I got you on a string. I could do what I want with you and smile. You understand? Guess what? I could even get you to promote me, even though I don't deserve it. This is why you have to have a tight circle. You have to have men that you trust and are trustworthy and will tell you the truth about yourself. You need men to tell you the truth about yourself.
 
 - having men's persons in admiration because of advantage: Meaning you have an affinity towards me. Me and you are cool even though I ain't right. I could take advantage of you now. I could manipulate you.
 
@@ -688,7 +688,7 @@ Reading from Circumspect, defined  *[[1:35:45](https://www.youtube.com/watch?v=k
 
 > <sup>[14](/bible/sirach/2#v14)</sup> Woe unto you that have lost patience! and what will ye do when the Lord shall visit you?
 
-- Woe unto you that have lost patience: Now remember, we just read that the Bible says, "Be patient when you're changed into a lower estate. The Bible says destruction to you when you lose patience.
+- Woe unto you that have lost patience: Now remember, we just read that the Bible says, "Be patient when you're changed into a lower estate." The Bible says destruction to you when you lose patience.
 
 
 **[Sirach 10:2](/bible/sirach/10#v2)**  *[[2:03:58](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=7438s)]*
@@ -702,7 +702,7 @@ Reading from Circumspect, defined  *[[1:35:45](https://www.youtube.com/watch?v=k
 
 > <sup>[14](/bible/hebrews/12#v14)</sup> Follow peace with all men, and holiness, without which no man shall see the Lord:
 
-- without which no man shall see the Lord: So the Bible says, "Follow peace with all men, without which no man shall get the kingdom of heaven. You ain't getting no kingdom if you're bearing grudges, bitterness.
+- without which no man shall see the Lord: So the Bible says, "Follow peace with all men, without which no man shall get the kingdom of heaven." You ain't getting no kingdom if you're bearing grudges, bitterness.
 
 > <sup>[15](/bible/hebrews/12#v15)</sup> Looking diligently lest any man fail of the grace of God; lest any root of bitterness springing up trouble you, and thereby many be defiled;
 
@@ -745,7 +745,7 @@ Reading from Circumspect, defined  *[[1:35:45](https://www.youtube.com/watch?v=k
 
 - go and tell him his fault between thee and him alone: So the Bible says go and tell your brother or sister their fault alone. Don't tell your husband, sisters, so the spirit jumps on him to go against her husband, brothers. Don't tell your wife so she could get in her feelings and defend you when you may be wrong.
 
-- if he shall hear thee, thou hast gained thy brother: If he repents, he hears you. "Oh, you know what, bro? I didn't even know you felt that way. I didn't know that offended you. My bad. That's the point of a Matthew 18. The point of Matthew 18 is not to have somebody put out the body. The point of Matthew 18 is to what? Is to gain your brother or sister back.
+- if he shall hear thee, thou hast gained thy brother: If he repents, he hears you. "Oh, you know what, bro? I didn't even know you felt that way. I didn't know that offended you." My bad. That's the point of a Matthew 18. The point of Matthew 18 is not to have somebody put out the body. The point of Matthew 18 is to what? Is to gain your brother or sister back.
 
 > <sup>[16](/bible/matthew/18#v16)</sup> But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established.
 
@@ -778,7 +778,7 @@ Reading from Circumspect, defined  *[[1:35:45](https://www.youtube.com/watch?v=k
 
 > <sup>[22](/bible/2-timothy/2#v22)</sup> Flee also youthful lusts: but follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart.
 
-- Flee also youthful lusts: Now the Bible says, "Flee youthful lust. What you think that talking about? What do most young men, and men in general, battle with? Lust. Like what? Huh? Your porn addiction. Your lust for the big butt woman. Your lust for other women. Hell, maybe even lust for men. Gay. Yes. Very gay. So as a leader, you must flee youthful lust.
+- Flee also youthful lusts: Now the Bible says, "Flee youthful lust." What you think that talking about? What do most young men, and men in general, battle with? Lust. Like what? Huh? Your porn addiction. Your lust for the big butt woman. Your lust for other women. Hell, maybe even lust for men. Gay. Yes. Very gay. So as a leader, you must flee youthful lust.
 
 - with them that call on the Lord out of a pure heart: Who's the "them" that call on the Lord with a pure heart? The gold and the silver. You with the gold and the silver, because that's where you trying to go. You trying to be with them. You're not trying to be with the wood and the earth as a leader.
 
@@ -793,9 +793,9 @@ Reading from Circumspect, defined  *[[1:35:45](https://www.youtube.com/watch?v=k
 
 - **Jaday:** So it's going into like things that are vanity, things that are profane, like speaking of things like the Trinity doctrine, or let's just say the immaculate conception, things that don't matter.
 
-- We could correct on the Trinity doctrine. Things that what? That does matter. Okay, I'll give an example. Let's say we on Clubhouse. We're talking about immaculate conception. The brother gets the scriptures, but it's not going anywhere, and it just turns into an argument, and you're going back and forth and nobody's going nowhere. And then it's going to gender strife. Y'all understand? That's what happens. It gender strife. So nobody gets edified. Then it turns into a shouting match. Then it turns into disrespect. Now all the people at the bottom that's listening, what are they supposed to think? "Oh man, these dudes... this don't sound right to my ears. I don't hear the scripture coming out now. I don't hear nothing but some stuff I don't want to hear.
+- We could correct on the Trinity doctrine. Things that what? That does matter. Okay, I'll give an example. Let's say we on Clubhouse. We're talking about immaculate conception. The brother gets the scriptures, but it's not going anywhere, and it just turns into an argument, and you're going back and forth and nobody's going nowhere. And then it's going to gender strife. Y'all understand? That's what happens. It gender strife. So nobody gets edified. Then it turns into a shouting match. Then it turns into disrespect. Now all the people at the bottom that's listening, what are they supposed to think? "Oh man, these dudes... this don't sound right to my ears. I don't hear the scripture coming out now. I don't hear nothing but some stuff I don't want to hear."
 
-- Avoid those stupid questions, knowing that they do gender strifes. Give you another example. Here comes an apologetic. Here comes the apologetic. You at camp teaching. You the leader of the camp. You at camp teaching. Here come the apologetic. "Hey, is Jesus God? Do you believe Jesus is God? Huh? Holding the phone in your face. I want to talk about, is Jesus God, and the Trinity. Listen, listen, listen. You already know what spirit they're rolling in. You know what they're going to do with the footage? They're going to doctor the footage to shame the ministry. Am I right or am I wrong? When you see an idiot come in your face with a camera and ask you stupid questions that's been answered a thousand times before, you better not let them embarrass you.
+- Avoid those stupid questions, knowing that they do gender strifes. Give you another example. Here comes an apologetic. Here comes the apologetic. You at camp teaching. You the leader of the camp. You at camp teaching. Here come the apologetic. "Hey, is Jesus God? Do you believe Jesus is God?" Huh? Holding the phone in your face. I want to talk about, is Jesus God, and the Trinity. Listen, listen, listen. You already know what spirit they're rolling in. You know what they're going to do with the footage? They're going to doctor the footage to shame the ministry. Am I right or am I wrong? When you see an idiot come in your face with a camera and ask you stupid questions that's been answered a thousand times before, you better not let them embarrass you.
 
 
 **[Proverbs 26:4](/bible/proverbs/26#v4)**  *[[2:21:38](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=8498s)]*
@@ -844,7 +844,7 @@ Reading from Circumspect, defined  *[[1:35:45](https://www.youtube.com/watch?v=k
 
 - Having a form of godliness, but denying the power thereof: **A brother:** It'll be those vessels of dishonor, which is the wood and the earth.
 
-- from such turn away: But you deny the laws of God. You follow no law. God says, "Turn away from those brothers that are dishonorable, the wood and the earth. Leave them to hell alone. That's what the Bible says.
+- from such turn away: But you deny the laws of God. You follow no law. God says, "Turn away from those brothers that are dishonorable, the wood and the earth. Leave them to hell alone." That's what the Bible says.
 
   Precepts:
   - **[2 Timothy 2:22](/bible/2-timothy/2#v22)**
@@ -854,7 +854,7 @@ Reading from Circumspect, defined  *[[1:35:45](https://www.youtube.com/watch?v=k
 
 > <sup>[6](/bible/2-timothy/3#v6)</sup> For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,
 
-- they which creep into houses, and lead captive silly women: You get the silly women that just come in the body that don't know a damn thing. You crop yourself next to her. You say you her counselor now. "I'm going to counsel you, sister. I got you. And she's laden with sins.
+- they which creep into houses, and lead captive silly women: You get the silly women that just come in the body that don't know a damn thing. You crop yourself next to her. You say you her counselor now. "I'm going to counsel you, sister. I got you." And she's laden with sins.
 
 
 **[1 Peter 2:1-3](/bible/1-peter/2#v1)**  *[[2:28:35](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=8915s)]*

@@ -256,7 +256,7 @@ tags: ["IUIC in the ClassRoom", "obedience", "repentance"]
 >
 > <sup>[16](/bible/leviticus/26#v16)</sup> I also will do this unto you; I will even appoint over you terror, consumption, and the burning ague, that shall consume the eyes, and cause sorrow of heart: and ye shall sow your seed in vain, for your enemies shall eat it.
 
-- I will even appoint over you terror: He said, "I will appoint over you terror. Are we a terrorized people in America? Absolutely. So, who was ruling over us? Terrorists. And that terrorist is Esau, the so-called white man. Caucasians. Read that again. And replace the word terror with Caucasians.
+- I will even appoint over you terror: He said, "I will appoint over you terror." Are we a terrorized people in America? Absolutely. So, who was ruling over us? Terrorists. And that terrorist is Esau, the so-called white man. Caucasians. Read that again. And replace the word terror with Caucasians.
 
 - I will even appoint over you terror: So, we got to bring it out like that because some of our people online who are watching right now, they still don't believe. So, we got to give you that shock so you may understand.
 
@@ -837,7 +837,7 @@ tags: ["IUIC in the ClassRoom", "obedience", "repentance"]
 
 > <sup>[37](/bible/matthew/23#v37)</sup> O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!
 
-- O Jerusalem, Jerusalem, thou that killest the prophets: We are the ones that killed the prophets. We didn't want to listen to them. We want to hear their words. We killed the prophets. We stoned them, even after Christ. These things happened before Christ and after Christ up until this day. Hey, didn't we get stoned in Kenya for reading Deuteronomy 7:6 and Revelation 1:14? Y'all can go back and watch the videos. Some people will say, "Well, what were you telling them? Were you shouting at them? Were you cursing them out? No. Deuteronomy 7:6 and Revelation 1:14. Here come the stones. These big bricks, not no little pebbles. Go back and watch the video. Same people. Same people.
+- O Jerusalem, Jerusalem, thou that killest the prophets: We are the ones that killed the prophets. We didn't want to listen to them. We want to hear their words. We killed the prophets. We stoned them, even after Christ. These things happened before Christ and after Christ up until this day. Hey, didn't we get stoned in Kenya for reading Deuteronomy 7:6 and Revelation 1:14? Y'all can go back and watch the videos. Some people will say, "Well, what were you telling them? Were you shouting at them? Were you cursing them out?" No. Deuteronomy 7:6 and Revelation 1:14. Here come the stones. These big bricks, not no little pebbles. Go back and watch the video. Same people. Same people.
 
   Precepts:
   - **[Deuteronomy 7:6](/bible/deuteronomy/7#v6)**
@@ -1305,7 +1305,7 @@ Reading from On-screen image  *[[1:45:19](https://www.youtube.com/watch?v=mLMEKE
 
 - Thou art thy mother's daughter, that lotheth her husband and her children: God is speaking to us, the Israelites.
 
-- Your mother was an Hittite, and your father an Amorite: You hear what God is comparing us to? The heathen. Why? For when we walk in sin. We want to hear, "Oh, Judah, Benjamin, Levi. No, we don't want to hear no tribe. No, you're walking like an Ammonite. Repent. Stop. Stop being a damn Hamite. Stop it. Walk with some sense. Walk with some dignity, some integrity. Keep the laws of God. Okay, but we can't walk as heathen because the covenants was given unto us. We got to keep the commandments of God. That's the oath that we made between us and the Most High.
+- Your mother was an Hittite, and your father an Amorite: You hear what God is comparing us to? The heathen. Why? For when we walk in sin. We want to hear, "Oh, Judah, Benjamin, Levi." No, we don't want to hear no tribe. No, you're walking like an Ammonite. Repent. Stop. Stop being a damn Hamite. Stop it. Walk with some sense. Walk with some dignity, some integrity. Keep the laws of God. Okay, but we can't walk as heathen because the covenants was given unto us. We got to keep the commandments of God. That's the oath that we made between us and the Most High.
 
 
 **[James 1:22](/bible/james/1#v22)**  *[[2:16:55](https://www.youtube.com/watch?v=mLMEKEVj_OE&t=8215s)]*
@@ -1608,7 +1608,7 @@ Reading from On-screen image  *[[1:45:19](https://www.youtube.com/watch?v=mLMEKE
 
 > <sup>[7](/bible/john/9#v7)</sup> And said unto him, Go, wash in the pool of Siloam, (which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing.
 
-- Go, wash in the pool of Siloam: So he went, washed in the pool of Siloam. And when he came back, he regained his eyesight again. Okay. That's why I think there's another one where the same man, he put his hand on his face and said, "What do you see? And he says, I saw men like trees. Where were men like trees? Where's the garden? Where do we read about the garden? In the Genesis. Christ brought him back to the beginning, cuz he was the one that created man in the beginning. So Christ exemplifies his power on this earth. He said he's coming back. He's coming back with greater power. He's coming back with greater power.
+- Go, wash in the pool of Siloam: So he went, washed in the pool of Siloam. And when he came back, he regained his eyesight again. Okay. That's why I think there's another one where the same man, he put his hand on his face and said, "What do you see?" And he says, I saw men like trees. Where were men like trees? Where's the garden? Where do we read about the garden? In the Genesis. Christ brought him back to the beginning, cuz he was the one that created man in the beginning. So Christ exemplifies his power on this earth. He said he's coming back. He's coming back with greater power. He's coming back with greater power.
 
 
 **[Genesis 1:20-22](/bible/genesis/1#v20)**  *[[2:41:38](https://www.youtube.com/watch?v=mLMEKEVj_OE&t=9698s)]*

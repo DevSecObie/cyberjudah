@@ -98,7 +98,7 @@ tags: ["IUIC in the ClassRoom", "islam-arabs", "mercy"]
 
 - Which neither thou nor thy fathers have known, even wood and stone: Going into Islam and Christianity, wood and stone idols. The most popular idols of today is Christianity, that wooden cross, and the stone, the Kaaba stone. And both religions work in tandem to make sure that black folks do not care for or care to identify with their biblical ethnicity. Christianity says to you, "It don't matter what color you are. We're all children of God." What do Muslims say? We are all children of Adam. No answer. Just singing a bunch of stupid ass songs, but no answers. Both ideologies work together to make sure Negroes don't ask the right questions.
 
-- Even wood and stone: For example, in the Quran they'll talk about Ishmael dozens of times. Ishmael is all throughout the Quran, all in there. Then the forefather of the Arabs, of the Islamic Arabs, is Ishmael. No problem. Who is the forefather of the Negro? WHICH CHILD OF Isaac are we? "We're all children of Adam. That doesn't answer my question. Listen, our people are a nationwide practical joke. EVERYONE KNOWS WHO WE ARE BUT US. EVERYONE KNOWS. But they know that if you know, they can't be in power no more, right? That they all got to make sure, keep these … stupid and tell them it don't matter what their race is because we're all children of Abraham. We're all children of God.
+- Even wood and stone: For example, in the Quran they'll talk about Ishmael dozens of times. Ishmael is all throughout the Quran, all in there. Then the forefather of the Arabs, of the Islamic Arabs, is Ishmael. No problem. Who is the forefather of the Negro? WHICH CHILD OF Isaac are we? "We're all children of Adam." That doesn't answer my question. Listen, our people are a nationwide practical joke. EVERYONE KNOWS WHO WE ARE BUT US. EVERYONE KNOWS. But they know that if you know, they can't be in power no more, right? That they all got to make sure, keep these … stupid and tell them it don't matter what their race is because we're all children of Abraham. We're all children of God.
 
 - Even wood and stone: It's ironic how both ideologies will rival each other but teach the same lie to the same people. It don't matter what race or color you are. What matters is you are a child of Abraham or a child of Adam. Both y'all use the same talking points when those questions are posed to you. Well, which part of West Africa am I from? Were only West Africans sold in slavery? Did the slave trade start in Africa first? No, it didn't start in Africa. Did the slave trade start in 1619? No. Started way earlier than that. So, if it started earlier than that, who was being sold before the transatlantic slave trade? Who was being sold before then? That's the question I pose to you apologists, and you dumb negroes that say slaves are not real.
 
@@ -113,7 +113,7 @@ tags: ["IUIC in the ClassRoom", "islam-arabs", "mercy"]
 
 - And blindness: Meaning you know that the Bible is referring to people of color and you see that. Then you say in the same breath, it don't matter. That's blindness. Cuz they know, these conversations they're having, they know what we're saying is true. But they want someone to come along and to lie to them and say, "Please convince me these guys are wrong. Please prove that they're wrong. I don't want to be a child of God. Cognitive dissonance. "I don't want to know I'm special. All I've known is that I'm a Hamite that believe in Christ. That's good enough for me. BLINDNESS.
 
-- And blindness: "That's in the Bible? Nah. Get a different version. It might say something different. Go into the Greek. Go to the Hebrew. Blindness.
+- And blindness: "That's in the Bible?" Nah. Get a different version. It might say something different. Go into the Greek. Go to the Hebrew. Blindness.
 
 - And astonishment of heart: Because they have questions, but they don't want the answers. "Really? Are we Israelites? Doesn't matter." Then why ask? Astonishment of heart.
 
@@ -200,7 +200,7 @@ Reading from On-screen explanation of Deuteronomy 28:28  *[[38:20](https://www.y
 
 > or perceive a way out.
 
-- Freedom. To perceive freedom. Deliverance. I heard this is what I say on the talk show: "If Christ comes back. If? No, brother. When. If implies he may not come back. If implies you want to stay here. That's blindness.
+- Freedom. To perceive freedom. Deliverance. I heard this is what I say on the talk show: "If Christ comes back." If? No, brother. When. If implies he may not come back. If implies you want to stay here. That's blindness.
 
 > Astonishment of heart: a stunned, stupefied condition where a person loses the capacity to think clearly,
 
@@ -406,7 +406,7 @@ Reading from On-screen text on the Assyrian policy of deportation and assimilati
 
 > becoming known to history as the 10 lost tribes of Israel.
 
-- If the lost tribes of Israel did not lose their identity, where are they? Cuz they're not in the land. Most of them are lost according to the Israelis. They say, "Oh, well, Manasseh's back. Okay, Manasseh. Where's Reuben? Where's Gad? Where are they? Shouldn't they be there in the land with you? If they're not lost, how come you ain't FIND THEM? SHOULDN'T THEY FIND THEMSELVES, since their identity is known to them? If you can't find them, they don't know who they are, then. If they don't know who they are, then identity is lost.
+- If the lost tribes of Israel did not lose their identity, where are they? Cuz they're not in the land. Most of them are lost according to the Israelis. They say, "Oh, well, Manasseh's back." Okay, Manasseh. Where's Reuben? Where's Gad? Where are they? Shouldn't they be there in the land with you? If they're not lost, how come you ain't FIND THEM? SHOULDN'T THEY FIND THEMSELVES, since their identity is known to them? If you can't find them, they don't know who they are, then. If they don't know who they are, then identity is lost.
 
 > Interestingly, this policy eventually backfired in a phenomenon known as Aramization.
 
@@ -507,9 +507,9 @@ Reading from On-screen text on the Assyrian policy of deportation and assimilati
 
 - Come, and let us cut them off from being a nation: How? By dividing us. By integrating us or assimilating us into different cultural societies. That's what we're going to do.
 
-- That the name of Israel may be no more in remembrance: So for our name to be no more in remembrance, they had to do what? Cut us off from being a nation. Now we're no longer Israelites anymore. Now we're "foundational. Y'all are both brainwashed together.
+- That the name of Israel may be no more in remembrance: So for our name to be no more in remembrance, they had to do what? Cut us off from being a nation. Now we're no longer Israelites anymore. Now we're "foundational." Y'all are both brainwashed together.
 
-- That the name of Israel may be no more in remembrance: But you put all of your anger, or displaced, convenient anger, on other black immigrants, quote unquote immigrants, from the continent or the Caribbean. They continue attacking people from Africa or the Caribbean because it's displaced anger. A displaced, angry negro is a slave-minded negro. "I'mma focus all my anger on people that look just like me. That's what y'all do.
+- That the name of Israel may be no more in remembrance: But you put all of your anger, or displaced, convenient anger, on other black immigrants, quote unquote immigrants, from the continent or the Caribbean. They continue attacking people from Africa or the Caribbean because it's displaced anger. A displaced, angry negro is a slave-minded negro. "I'mma focus all my anger on people that look just like me." That's what y'all do.
 
 > <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
 
@@ -556,7 +556,7 @@ Reading from On-screen text on the Assyrian policy of deportation and assimilati
 
 - And forsook the holy covenant: And forsook their god. Forsook their culture, their race. Cuz our race is tied to our laws.
 
-- And were sold to do mischief: And sold out. Were sold to do mischief, cuz they became athletes, made money, became popular, famous, got the women, the Greek women, in the gyms, in the Olympics. That's racial idolatry. They were sold to do mischief. I mean, they got bought off. They're in the country clubs now. THEY GOT WHITE friends now. Their children are married to Israelis now. "I got a white friend now. I made it. Sold to do mischief.
+- And were sold to do mischief: And sold out. Were sold to do mischief, cuz they became athletes, made money, became popular, famous, got the women, the Greek women, in the gyms, in the Olympics. That's racial idolatry. They were sold to do mischief. I mean, they got bought off. They're in the country clubs now. THEY GOT WHITE friends now. Their children are married to Israelis now. "I got a white friend now. I made it." Sold to do mischief.
 
 
 **[1 Maccabees 1:41-49](/bible/1-maccabees/1#v41)**  *[[1:29:45](https://www.youtube.com/watch?v=1L2IOu7pA84&t=5385s)]*
@@ -1124,7 +1124,7 @@ Reading from Romans 9:3 in the NIV and a second version (read on screen)  *[[2:1
 
 - Abraham gave gifts: He gave them gifts.
 
-- And sent them away from Isaac his son: He did what? WHOA. ABRAHAM DID WHAT? He sent them. He says, "You can't be my son. My son's the heir. Y'all can't stay here. This belongs to him. Y'all got to go. He got rid of his six kids. They became Arab nations today. Arab nations now.
+- And sent them away from Isaac his son: He did what? WHOA. ABRAHAM DID WHAT? He sent them. He says, "You can't be my son. My son's the heir. Y'all can't stay here." This belongs to him. Y'all got to go. He got rid of his six kids. They became Arab nations today. Arab nations now.
 
 > <sup>[7](/bible/genesis/25#v7)</sup> And these are the days of the years of Abraham’s life which he lived, an hundred threescore and fifteen years.
 

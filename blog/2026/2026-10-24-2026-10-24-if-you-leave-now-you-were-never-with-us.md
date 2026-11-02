@@ -29,7 +29,7 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "love", "satan"]
 
 > <sup>[1](/bible/hebrews/13#v1)</sup> Let brotherly love continue.
 
-- Let brotherly love continue: Y'all see that thing right there? So, the Bible says, "Let brotherly love continue. So, who are we or who are you to come between that? You understand? Why? Why would you be the one to try to stop the brotherly love and the unity?
+- Let brotherly love continue: Y'all see that thing right there? So, the Bible says, "Let brotherly love continue." So, who are we or who are you to come between that? You understand? Why? Why would you be the one to try to stop the brotherly love and the unity?
 
 - Let brotherly love continue: So, you see some pictures of us what? Exhibiting or displaying unity, right? So, the prophets, they teach classes, they go travel, but the prophets also do what? Have good times together. All right. And it's very very important for the people to see that the work is first. But guess what? When you work hard, you can play hard, too.
 
@@ -50,13 +50,13 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "love", "satan"]
 
 > <sup>[9](/bible/1-thessalonians/4#v9)</sup> But as touching brotherly love ye need not that I write unto you: for ye yourselves are taught of God to love one another.
 
-- But as touching brotherly love, ye need not that I write unto you: So Paul says, "Y'all don't need me to tell y'all the importance of brotherly love. Cuz that should be something that you do by nature. If you got the spirit of Christ in you, what does the spirit of Christ do? It gathers. The spirit of Christ gathers.
+- But as touching brotherly love, ye need not that I write unto you: So Paul says, "Y'all don't need me to tell y'all the importance of brotherly love." Cuz that should be something that you do by nature. If you got the spirit of Christ in you, what does the spirit of Christ do? It gathers. The spirit of Christ gathers.
 
 - But as touching brotherly love, ye need not that I write unto you: So, we shouldn't have to be told. We shouldn't have to be reminded to bring the Sabbath in together. We shouldn't have to be told that. That should just be subnatural. Some of y'all got unbelieving spouses. Some of y'all are single. But you would rather bring in the Sabbath with that unbelieving spouse or sit in your lonesome in your room. Is that the spirit of Christ? No, that is not the spirit of Christ.
 
 - For ye yourselves are taught of God: You see that? It says ye yourselves are what? Taught of God.
 
-- To love one another: To do what? To love one another. It says, "Ye yourselves are taught of God. Does this mean that you don't need a teacher? Uh-uh. It's not what it's talking about.
+- To love one another: To do what? To love one another. It says, "Ye yourselves are taught of God." Does this mean that you don't need a teacher? Uh-uh. It's not what it's talking about.
 
 
 **[2 Thessalonians 2:1](/bible/2-thessalonians/2#v1)**  *[[16:15](https://www.youtube.com/watch?v=82pXYTvNmkU&t=975s)]*
@@ -74,7 +74,7 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "love", "satan"]
 
 - And unto him: And unto who? Unto him, this is Christ.
 
-- Shall the gathering of the people be: It says, "Unto Christ shall the what? The gathering of the people be. So, if you're one of those spirits that like to be standoffish, you understand? You don't like the unity. Okay. Guess what? You got the devil on you.
+- Shall the gathering of the people be: It says, "Unto Christ shall the what? The gathering of the people be." So, if you're one of those spirits that like to be standoffish, you understand? You don't like the unity. Okay. Guess what? You got the devil on you.
 
 - Shall the gathering of the people be: So, these classes, these classes are to do what? To build. For us to examine ourselves and to see where we measure up and stack up in the whole big picture. Cuz I know a lot of times we always talk about, man, I can't wait to the kingdom come. It's like, all right, but you don't like nobody, but you always stand off. You don't have the spirit of Christ in you, but look at me. I'm ultra Israelite, mighty this and that.
 
@@ -245,7 +245,7 @@ Reading from Definition of unction (read on screen)  *[[22:06](https://www.youtu
 
 - Lest there be in any of you an evil heart of unbelief: Guess what? We have to prove ourselves every day. You could be believing the first five years. Let a trial come that don't sit well with you. Then you be like, I ain't looking at things the same. You know what? The way that those classes used to sound, they don't sound the same no more. As a matter OF FACT, THIS GUY THAT TAUGHT ME IN THE STREETS, he's just A MAN. WHO is he to tell me about myself? All of these thoughts start coming now because deep down you wasn't checking this. You wasn't checking that. You may have moved up through the ranks quick and now you're here. You didn't check all of those things and now boom, now you're being tried and now it's like, damn, everything's different now. I don't see y'all the same way I USED TO SEE Y'ALL. But you think it's because of that man or that sister or whoever. No. Uh-uh. Uh-uh. It's because of you. It's because of you. Nobody else.
 
-- Lest there be in any of you an evil heart of unbelief: Bishop Nathanyel years ago came out with a class titled Everybody Has the Potential to Be a Judas. Everybody has the potential to be a Judas. It's just that when things are going good, you like, "Nah, that can't be me. Nah, that can't be me. Everything's good. I'M IN THE SPIRIT. WELL, what happens when you're not in the spirit? No, I'm in the spirit every day. No, you're not. No, you're not. Stop lying. You're not in the spirit every day. Okay. It says that we got to take heed. Pay close attention because at any given time that spirit of unbelief can rise up in you.
+- Lest there be in any of you an evil heart of unbelief: Bishop Nathanyel years ago came out with a class titled Everybody Has the Potential to Be a Judas. Everybody has the potential to be a Judas. It's just that when things are going good, you like, "Nah, that can't be me. Nah, that can't be me." Everything's good. I'M IN THE SPIRIT. WELL, what happens when you're not in the spirit? No, I'm in the spirit every day. No, you're not. No, you're not. Stop lying. You're not in the spirit every day. Okay. It says that we got to take heed. Pay close attention because at any given time that spirit of unbelief can rise up in you.
 
 - In departing from the living God: And that's what you're doing. You think that you're avoiding that person. You think that you're avoiding the circle. No, you're departing from God. That's what you're doing. Cuz Satan has now convinced you what? Satan has now convinced you that it's them and it's not you. Satan has now convinced you that you are all righteous and then what they're saying is wrong. This can't happen to me. They can't talk. Uh-uh. Now you departed from who? You departed from God.
 
@@ -255,13 +255,13 @@ Reading from Definition of unction (read on screen)  *[[22:06](https://www.youtu
 
 - While it is called To day: Right? While we have time, family, while we still got time today. Christ could come. It's coming back soon. But our lives ain't promised to us, y'all. That's the thing we be forgetting sometime, right? Like you do realize we could drop at any time, right? This flesh and blood, it wasn't created to live forever. Like this was lent to us, right?
 
-- Lest any of you be hardened through the deceitfulness of sin: There it is. There it is right there. Guess what? Avoiding people creates resentment. And guess what? Guess what happens to your heart now? You become hardened. And now who's deceiving you? Satan. Now Satan's saying, "Now you're doing the right thing. You're doing the right thing by staying away. Because if you was there with him, bad things can happen. So you just need to keep staying away from them. And that's really going to fix your issue. And it sounds good. It sounds like, yeah, you're right. CUZ MAN, I would, it's like, damn. Well, that definitely shows what? You still abiding in death. Cuz a key indicator would be what? That's how we know that we came from death into life. If we do what? Love the brethren. Right? Okay. These are the things that we all have to go through and examine ourselves based off of these scriptures RIGHT HERE.
+- Lest any of you be hardened through the deceitfulness of sin: There it is. There it is right there. Guess what? Avoiding people creates resentment. And guess what? Guess what happens to your heart now? You become hardened. And now who's deceiving you? Satan. Now Satan's saying, "Now you're doing the right thing. You're doing the right thing by staying away." Because if you was there with him, bad things can happen. So you just need to keep staying away from them. And that's really going to fix your issue. And it sounds good. It sounds like, yeah, you're right. CUZ MAN, I would, it's like, damn. Well, that definitely shows what? You still abiding in death. Cuz a key indicator would be what? That's how we know that we came from death into life. If we do what? Love the brethren. Right? Okay. These are the things that we all have to go through and examine ourselves based off of these scriptures RIGHT HERE.
 
 > <sup>[14](/bible/hebrews/3#v14)</sup> For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end;
 
 - If we hold the beginning of our confidence stedfast unto the end: Right? Endure unto the end. Pause and just say, "I'mma just keep coming. But I hate you …" No. No. No. Uh-uh. That's not what it is. No, you cannot do that and still get the kingdom. It's stipulations. We got to do what? We got to work through our problems.
 
-- If we hold the beginning of our confidence stedfast unto the end: Bishop Nathanyel had a quote some years ago. He says, "We build and we battle. Meaning, brothers and sisters, we got to keep what? Building together, going out, flying missions, camp, growing in unity, growing in brotherhood. But guess what? Offenses are going to come, right? So, we build and then temptations are going to come, right? So, we got to do what? Build and run? No. Build and separate? No. We have to build and battle. That's the mentality. That's the type of mindset that we must have. That's the type of mindset that we must have in order to keep this thing going so we can endure until the end.
+- If we hold the beginning of our confidence stedfast unto the end: Bishop Nathanyel had a quote some years ago. He says, "We build and we battle." Meaning, brothers and sisters, we got to keep what? Building together, going out, flying missions, camp, growing in unity, growing in brotherhood. But guess what? Offenses are going to come, right? So, we build and then temptations are going to come, right? So, we got to do what? Build and run? No. Build and separate? No. We have to build and battle. That's the mentality. That's the type of mindset that we must have. That's the type of mindset that we must have in order to keep this thing going so we can endure until the end.
 
 
 **[Isaiah 58:9](/bible/isaiah/58#v9)**  *[[48:23](https://www.youtube.com/watch?v=82pXYTvNmkU&t=2903s)]*
@@ -500,7 +500,7 @@ Reading from Definition of learned helplessness (read on screen)  *[[1:27:02](ht
 
 - Avoidance coping. So, we just went over what's called avoidance coping. That's the psychological term.
 
-- Right. So, some people when things get hard, they're like, "What's the point? What's the point of even fighting? Brothers and sisters, there's going to be some very hard times to come. So the reason why we doing a class like this, we need to overcome these things right here, right? We need to focus on what? Self-improvement. We need to learn how to battle. We need to learn how to war. We need to learn how to fight, all right? And be able to go to the scriptures, get the counsel that we need, all right, to cope, and stop coping by yourself. Stop trying to fix it by yourself.
+- Right. So, some people when things get hard, they're like, "What's the point? What's the point of even fighting?" Brothers and sisters, there's going to be some very hard times to come. So the reason why we doing a class like this, we need to overcome these things right here, right? We need to focus on what? Self-improvement. We need to learn how to battle. We need to learn how to war. We need to learn how to fight, all right? And be able to go to the scriptures, get the counsel that we need, all right, to cope, and stop coping by yourself. Stop trying to fix it by yourself.
 
 > Learned helplessness. A pattern in which repeated experiences of having little control leads someone to believe their efforts will not change the outcome.
 
@@ -770,7 +770,7 @@ Reading from Graphic on learned helplessness, continued (on screen)  *[[1:44:44]
 
 - Labour not for the meat which perisheth: It says what? Labor not for the meat which perisheth. That's going into carnal things. All right. He said, "Hey, don't follow me because you going to get something to eat."
 
-- But for that meat which endureth unto everlasting life: Right. Man shall not live by what? Bread alone, but by every word of God. That's what Christ is saying right there. Don't get caught up in that. That mean what? Some people, they just around cuz they want to do music. You understand? Some people around just cuz they want a husband. Christ saying, "Don't do that. Okay? Don't do that. We all going to have to suffer, right? Guess what? The righteous is too. So if you're going to be amongst us, be here for the right reasons. Cuz remember, what are we showing you? These be the same people that end up making the videos. They were never really with us. They just hungry. They just wanted to make some music. This was fun. This was a hobby to them. You understand?
+- But for that meat which endureth unto everlasting life: Right. Man shall not live by what? Bread alone, but by every word of God. That's what Christ is saying right there. Don't get caught up in that. That mean what? Some people, they just around cuz they want to do music. You understand? Some people around just cuz they want a husband. Christ saying, "Don't do that." Okay? Don't do that. We all going to have to suffer, right? Guess what? The righteous is too. So if you're going to be amongst us, be here for the right reasons. Cuz remember, what are we showing you? These be the same people that end up making the videos. They were never really with us. They just hungry. They just wanted to make some music. This was fun. This was a hobby to them. You understand?
 
 
 **[John 2:23-25](/bible/john/2#v23)**  *[[1:57:35](https://www.youtube.com/watch?v=82pXYTvNmkU&t=7055s)]*
@@ -884,7 +884,7 @@ Reading from Graphic on learned helplessness, continued (on screen)  *[[1:44:44]
 
 - In them shall he die: Right? In them shall he die. Going to die in his wickedness, and nothing that he did in righteousness will be remembered, cuz you was never, you were never righteous to begin with, cuz you showed your hand.
 
-- In them shall he die: We had a dude come to camp during day of atonement. Not Ben me, but the other one, a Yahweh, been Yahweh follower. Okay. And he came out. He was angry with us cuz we was in the streets teaching. He say I already done that. I said what you mean you already done that? Christ ain't come back yet. We still supposed to do this. I said oh, you mean you gave up, right? That's what that mean. That's all that means. Brothers, think, brothers and sisters alike, you think, "Oh, I did this 10 years ago. But what you doing now? Remember, you supposed to grow in this truth. You're supposed to get better and better. You ain't supposed to do a work and then don't do nothing anymore. And now you're to yourself. Oh, I'm the one that did this. What are you doing now? Nothing. It means you gave up.
+- In them shall he die: We had a dude come to camp during day of atonement. Not Ben me, but the other one, a Yahweh, been Yahweh follower. Okay. And he came out. He was angry with us cuz we was in the streets teaching. He say I already done that. I said what you mean you already done that? Christ ain't come back yet. We still supposed to do this. I said oh, you mean you gave up, right? That's what that mean. That's all that means. Brothers, think, brothers and sisters alike, you think, "Oh, I did this 10 years ago." But what you doing now? Remember, you supposed to grow in this truth. You're supposed to get better and better. You ain't supposed to do a work and then don't do nothing anymore. And now you're to yourself. Oh, I'm the one that did this. What are you doing now? Nothing. It means you gave up.
 
   Precepts:
   - **[Titus 3:8](/bible/titus/3#v8)**
@@ -928,7 +928,7 @@ Reading from Graphic on learned helplessness, continued (on screen)  *[[1:44:44]
 >
 > <sup>[43](/bible/john/6#v43)</sup> Jesus therefore answered and said unto them, Murmur not among yourselves.
 
-- Murmur not among yourselves: He says, "What? Murmur not among yourselves. Murmur not amongst yourselves.
+- Murmur not among yourselves: He says, "What? Murmur not among yourselves." Murmur not amongst yourselves.
 
   Precepts:
   - **[Deuteronomy 8:2-3](/bible/deuteronomy/8#v2)**

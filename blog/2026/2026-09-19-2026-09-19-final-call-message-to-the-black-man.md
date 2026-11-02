@@ -222,7 +222,7 @@ Reading from Reading from *From Babylon to Timbuktu*, on Islam and Judaism  *[[3
 
 > <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
 
-- consulted against thy hidden ones: Brothers, who are the hidden ones? We are. Why? Because what's hidden? That blacks and Hispanics are the real Jews. That's why it says, "Thy hidden ones. One word: slavery. Slavery. That's the one word that sums it up.
+- consulted against thy hidden ones: Brothers, who are the hidden ones? We are. Why? Because what's hidden? That blacks and Hispanics are the real Jews. That's why it says, "Thy hidden ones." One word: slavery. Slavery. That's the one word that sums it up.
 
 > <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
 
@@ -276,13 +276,13 @@ Reading from Reading from *From Babylon to Timbuktu*, on Islam and Judaism  *[[3
 
 - will bring them down into the valley of Jehoshaphat: I will gather all nations and will bring them down into the Middle East. And we are seeing that now. This is why Trump is showing the world that they are going to defend Israel regardless of what the other nations think. This war that is going to pop off, it is getting closer and closer. But why hasn't it popped off? Because more of our people have to repent. The Lord is being patient so our people could change.
 
-- and parted my land: How has the land been parted? It's been parted between the Arabs and the Israelis. And we saw this on another level when Netanyahu bombed Gaza back to the stone age. The Lord moved Netanyahu's spirit to do that. Why? Because the world has to see that Amalek, the so-called Jew, is the devil. The world got to see the evil behind him. You understand? The world has to see these people will not stop for nothing. The world has to see the evil of this people. The Lord said, "I'mma bring all nations to the Middle East. So that's why that was important for this to happen. Why? Because it's going to get all nations to get involved.
+- and parted my land: How has the land been parted? It's been parted between the Arabs and the Israelis. And we saw this on another level when Netanyahu bombed Gaza back to the stone age. The Lord moved Netanyahu's spirit to do that. Why? Because the world has to see that Amalek, the so-called Jew, is the devil. The world got to see the evil behind him. You understand? The world has to see these people will not stop for nothing. The world has to see the evil of this people. The Lord said, "I'mma bring all nations to the Middle East." So that's why that was important for this to happen. Why? Because it's going to get all nations to get involved.
 
 > <sup>[3](/bible/joel/3#v3)</sup> And they have cast lots for my people; and have given a boy for an harlot, and sold a girl for wine, that they might drink.
 
 - And they have cast lots for my people: The cast lots mean they sold blacks. They sold us in Zanzibar. They sold us in Madagascar. They sold us in Kenya. They sold us in South Africa. And have given a boy for an harlot. Meaning what? They turned the boys into what, brothers? Breeders. And sold a girl for wine. Meaning what? Prostitution. That they might drink. Meaning what? When you have women and alcohol, what happens? Sex. Rape. This is what happened. These women were raped.
 
-- Tyre and Zidon represents the Hamitic nations, the Africans that sold our people. Because guess what people are saying? "I thought we were African. No, we're not African. We are not African. Say it again. People say black people sold black people. No, it was the Africans that sold the Jews.
+- Tyre and Zidon represents the Hamitic nations, the Africans that sold our people. Because guess what people are saying? "I thought we were African." No, we're not African. We are not African. Say it again. People say black people sold black people. No, it was the Africans that sold the Jews.
 
 
 **[Exodus 11:7](/bible/exodus/11#v7)**  *[[59:06](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=3546s)]*
@@ -291,18 +291,18 @@ Reading from Reading from *From Babylon to Timbuktu*, on Islam and Judaism  *[[3
 
 - the Lord doth put a difference between the Egyptians and Israel: So there is a difference between black people, the Jews, Israelites, and Africans.
 
-- So a lot of our people are in Africa. But guess what? They calling themselves Kenyans. They call themselves Congolese. They call themselves Liberians, Ghanaians. Because they grew up saying, "Oh, I'm African. But guess what? There are more of our people in Africa than there is here in America. You got to remember, Africa is large. Don't believe the white man. You saw on the news, they said we got to change the Mercator map. We got to change the map, because on the map they project Africa smaller than what it really is.
+- So a lot of our people are in Africa. But guess what? They calling themselves Kenyans. They call themselves Congolese. They call themselves Liberians, Ghanaians. Because they grew up saying, "Oh, I'm African." But guess what? There are more of our people in Africa than there is here in America. You got to remember, Africa is large. Don't believe the white man. You saw on the news, they said we got to change the Mercator map. We got to change the map, because on the map they project Africa smaller than what it really is.
 
 - Now I'm going to show you how small America is. To get across America, from New York to LA, is five and a half. From Kenya to Morocco, that was like 11 hours. Look how big Africa is. Africa is huge.
 
-- So we got more grounds to cover, brothers. We got to get passports. We got to get y'all brothers to travel, to go and teach and gather the twelve tribes of Israel. Don't say, "Oh, I'm too old. You ain't too old, right? You ain't too old. You still alive, right? Moses was 80 years old. Go out and do the work. Even if it's 20 minutes. We need to do this work.
+- So we got more grounds to cover, brothers. We got to get passports. We got to get y'all brothers to travel, to go and teach and gather the twelve tribes of Israel. Don't say, "Oh, I'm too old." You ain't too old, right? You ain't too old. You still alive, right? Moses was 80 years old. Go out and do the work. Even if it's 20 minutes. We need to do this work.
 
 
 **[Joel 3:4-6](/bible/joel/3#v4)**  *[[1:03:58](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=3838s)]*
 
 > <sup>[4](/bible/joel/3#v4)</sup> Yea, and what have ye to do with me, O Tyre, and Zidon, and all the coasts of Palestine? will ye render me a recompence? and if ye recompense me, swiftly and speedily will I return your recompence upon your own head;
 
-- O Tyre, and Zidon, and all the coasts of Palestine: Tyre and Zidon represents what, brothers? African nations, Hamitic nations. Palestine represents who, brothers? The Arabs. God said, "Are you going to pay me back for what? Are you going to pay me back for not choosing you?
+- O Tyre, and Zidon, and all the coasts of Palestine: Tyre and Zidon represents what, brothers? African nations, Hamitic nations. Palestine represents who, brothers? The Arabs. God said, "Are you going to pay me back for what? Are you going to pay me back for not choosing you?"
 
 > <sup>[5](/bible/joel/3#v5)</sup> Because ye have taken my silver and my gold, and have carried into your temples my goodly pleasant things:
 >
@@ -317,7 +317,7 @@ Reading from Reading from *From Babylon to Timbuktu*, on Islam and Judaism  *[[3
 
 *[[1:06:50](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4010s)]* Malcolm X was in prison from February 1946 to August 1952. So at one point now, to go back to Malcolm, there has always been a war with black families to keep the household together. These brothers said, "This is going to help the black man. This is what's going to help them out. So I bring that up because, Bishop, when I first met Bishop, he had mentioned, I read his book, remember, Understandest Thou What Thou Readest? That was one of Bishop's first books. I read that. And Bishop, when we would talk, conversation, he said, "Hey, you should read Malcolm X's book, The Autobiography of Malcolm X. I said, all right, I'mma read it. But when I learned this, it was like a light bulb. Now I wanted to read. Now I'm like, what is this? Because all my life, when I heard the Bible, it was Jesus is white.
 
-*[[1:09:30](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4170s)]* My grandmother said, "You have to worship Jesus. Jesus is the way. This is what I grew up hearing. So now I hear the truth. I'm bringing it to my family. Look, Christ is black. And none of my family repented. None of them repented. But I still teach them. But Lord's will. You never know. Some of them may repent, right?
+*[[1:09:30](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4170s)]* My grandmother said, "You have to worship Jesus. Jesus is the way." This is what I grew up hearing. So now I hear the truth. I'm bringing it to my family. Look, Christ is black. And none of my family repented. None of them repented. But I still teach them. But Lord's will. You never know. Some of them may repent, right?
 
 *[[1:11:10](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4270s)]* So Bishop said, "You should read Malcolm X's book. I read it. I said, "Wow, this book is excellent. So now let's show pictures of Malcolm X. So Malcolm X was in prison, right, from 46 to 52. He learned Islam. He learned Islam while in prison. Malcolm X put in a lot of work. Lot of work. So let's give a round of applause to those that see the transition of what Malcolm X was doing and what IUIC is doing today. Y'all have seen the transition. You got to think about it. Our people at this time, they really thought this was the way.
 
@@ -405,13 +405,13 @@ Reading from Reading from *The Autobiography of Malcolm X  *[[1:16:52](https://w
 >
 > <sup>[3](/bible/ezekiel/37#v3)</sup> And he said unto me, Son of man, can these bones live? And I answered, O Lord God, thou knowest.
 
-- Son of man, can these bones live: Ezekiel's in a vision. He sees the valley of dry bones. You got to see, Ezekiel had this vision and he wrote it down for us. So Ezekiel is looking at the bones. The Lord is saying, "Teach these bones. Teach the word of God.
+- Son of man, can these bones live: Ezekiel's in a vision. He sees the valley of dry bones. You got to see, Ezekiel had this vision and he wrote it down for us. So Ezekiel is looking at the bones. The Lord is saying, "Teach these bones. Teach the word of God."
 
 > <sup>[4](/bible/ezekiel/37#v4)</sup> Again he said unto me, Prophesy upon these bones, and say unto them, O ye dry bones, hear the word of the Lord.
 
 - O ye dry bones, hear the word of the Lord: We don't want to hear the word of Islam. We don't want to hear the word of Cesare Borgia. We want to hear the word of the Lord. So the breath represents what? The laws of God.
 
-- Ezekiel 37, brothers, represents time and development of the black and Hispanic race. By the end of his parable, we understand we're the Israelites. But this part of the Bible, this part in Ezekiel's vision, we didn't understand what we had to do as Israelites. That's why he said, "I'mma lay sinews upon you. You're going to understand a form of identity, but there will be no breath. Why? Because you wouldn't truly be following God the right way.
+- Ezekiel 37, brothers, represents time and development of the black and Hispanic race. By the end of his parable, we understand we're the Israelites. But this part of the Bible, this part in Ezekiel's vision, we didn't understand what we had to do as Israelites. That's why he said, "I'mma lay sinews upon you. You're going to understand a form of identity, but there will be no breath." Why? Because you wouldn't truly be following God the right way.
 
 > <sup>[5](/bible/ezekiel/37#v5)</sup> Thus saith the Lord God unto these bones; Behold, I will cause breath to enter into you, and ye shall live:
 >
@@ -484,7 +484,7 @@ Reading from Reading from the IUIC history website, on the civil rights movement
 
 > because he publicly and biblically denounced Islam as a false religion of the Arabs.
 
-- That's why we started off reading in the beginning that Islam is the religion of the Arabs. Abba Bivens understood that. So when Islam was at its height, was at its apex, Abba Bivens was like, "Nah, this ain't the way. The Lord just had Nation of Islam become popular. This truth was being taught. These brothers was in the street teaching. This truth was being taught. But the Lord put NOI on the map. Y'all understand, brothers? That was all of the Lord.
+- That's why we started off reading in the beginning that Islam is the religion of the Arabs. Abba Bivens understood that. So when Islam was at its height, was at its apex, Abba Bivens was like, "Nah, this ain't the way." The Lord just had Nation of Islam become popular. This truth was being taught. These brothers was in the street teaching. This truth was being taught. But the Lord put NOI on the map. Y'all understand, brothers? That was all of the Lord.
 
 > As a result, he contracted a severe case of pneumonia. Before he passed away, he declared Masha and Yaiqab as the school leaders. However, jealousy led many members to reject the new leadership.
 
@@ -530,7 +530,7 @@ Reading from Reading from the IUIC history website, on the civil rights movement
 
 *[[1:49:24](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=6564s)]* **In The News: Khalid Muhammad: "I do not have a Jewish friend. I am the black Jew." and "We are the true Jews. The true Hebrews."** — That's a member, when he was alive, Lord rest his soul, of the NOI. And he said, "I am a black Jew." Where did Khalid Muhammad learn this? He learned it from us. He learned it from the elders of the Bishop. The Nation of Islam saw us in the street teaching, and they use what they learned from us. From us. Where did they learn this from? From the works that the elders of the Bishop was putting in, that Bishop Yawasap was putting in when they were younger, and he learned.
 
-*[[1:50:45](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=6645s)]* Now, I called Bishop Yawasap last week, because I remember, look, I'm throwing another story for y'all. I'm with Bishop, and we at his house. We're watching, because he got the old tapes. Tazapawan was teaching. That's what Bishop Yawasap said. His name was Tazapawan. He was going in. Khalid Muhammad is on the video. The brother, I don't know if he was reading Jeremiah 8 or what it was, a color scripture. He was going in, and Khalid Muhammad's trying to talk, and they going back and forth. Bishop Nathanyel and Bishop Yawasap was there. Y'all remember Khalid Muhammad said, "You Israelites, you got the knowledge, but you're too brutish with it. And Bishop Nathanyel said in class, he said he always filed that, when Khalid Muhammad said that. Brute meaning you're too hard with it. Now we seen how the level of understanding has increased.
+*[[1:50:45](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=6645s)]* Now, I called Bishop Yawasap last week, because I remember, look, I'm throwing another story for y'all. I'm with Bishop, and we at his house. We're watching, because he got the old tapes. Tazapawan was teaching. That's what Bishop Yawasap said. His name was Tazapawan. He was going in. Khalid Muhammad is on the video. The brother, I don't know if he was reading Jeremiah 8 or what it was, a color scripture. He was going in, and Khalid Muhammad's trying to talk, and they going back and forth. Bishop Nathanyel and Bishop Yawasap was there. Y'all remember Khalid Muhammad said, "You Israelites, you got the knowledge, but you're too brutish with it." And Bishop Nathanyel said in class, he said he always filed that, when Khalid Muhammad said that. Brute meaning you're too hard with it. Now we seen how the level of understanding has increased.
 
 <div class="reading">
 
@@ -553,7 +553,7 @@ Reading from Reading from a snapshot on Khalid Muhammad  *[[1:55:00](https://www
 
 > Anti-Semitic and racist remarks. During the speech, he referred to Jews as bloodsuckers of the black community, labeled the Pope a no-good cracker, and advocated for the killing of white South Africans.
 
-- So now what he did, now that's our brother. But guess what? This is why Bishop says, use the words of what? They can't get you. Use the words of the Bible. Stay in the Bible. Let God speak. Don't use your own words. But guess what? He was used, but he didn't fully understand how to use the Bible. That's why he said it again: "Y'all Israelites, you got the knowledge, but you're too brutish with it.
+- So now what he did, now that's our brother. But guess what? This is why Bishop says, use the words of what? They can't get you. Use the words of the Bible. Stay in the Bible. Let God speak. Don't use your own words. But guess what? He was used, but he didn't fully understand how to use the Bible. That's why he said it again: "Y'all Israelites, you got the knowledge, but you're too brutish with it."
 
 </div>
 
@@ -605,7 +605,7 @@ Reading from Reading from a snapshot on Professor Griff  *[[2:00:16](https://www
 
 > <sup>[9](/bible/1-corinthians/4#v9)</sup> For I think that God hath set forth us the apostles last, as it were appointed to death: for we are made a spectacle unto the world, and to angels, and to men.
 
-- God hath set forth us the apostles last: We were meant to be last. That's what it was. The Lord said, "I'mma save them last. I'mma save them last. That's why now everybody's talking about us, the Israelites, the marches, the Israelites, what we're doing. So that means what? In the last days, who would be back on the earth, brothers? The apostles. They will be back on the earth in the last days. They will be back.
+- God hath set forth us the apostles last: We were meant to be last. That's what it was. The Lord said, "I'mma save them last. I'mma save them last." That's why now everybody's talking about us, the Israelites, the marches, the Israelites, what we're doing. So that means what? In the last days, who would be back on the earth, brothers? The apostles. They will be back on the earth in the last days. They will be back.
 
 
 **[John 10:27](/bible/john/10#v27)**  *[[2:03:15](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=7395s)]*
@@ -637,7 +637,7 @@ Reading from Reading from a snapshot on Professor Griff  *[[2:00:16](https://www
 >
 > <sup>[17](/bible/psalms/73#v17)</sup> Until I went into the sanctuary of God; then understood I their end.
 
-- Until I went into the sanctuary of God: When you read Psalm 73, he saw the destruction of the wicked. He saw the wicked were living prosperous, but eventually he understood they were all going to die. It was too painful for me to understand what? That we're seeing people live their life lavishly. Cars, sex everywhere, money everywhere. They seem prosperous. But he said, "I understood what comes with all of that. Death. I understood what comes with all of that. Death. Until I came into an IUIC school. Until I came in.
+- Until I went into the sanctuary of God: When you read Psalm 73, he saw the destruction of the wicked. He saw the wicked were living prosperous, but eventually he understood they were all going to die. It was too painful for me to understand what? That we're seeing people live their life lavishly. Cars, sex everywhere, money everywhere. They seem prosperous. But he said, "I understood what comes with all of that. Death." I understood what comes with all of that. Death. Until I came into an IUIC school. Until I came in.
 
 - In order for them to come in, somebody got to bring them in. Somebody has to bring them in.
 
@@ -677,7 +677,7 @@ Reading from Reading from a snapshot on Professor Griff  *[[2:00:16](https://www
 
 > <sup>[2](/bible/isaiah/49#v2)</sup> And he hath made my mouth like a sharp sword; in the shadow of his hand hath he hid me, and made me a polished shaft; in his quiver hath he hid me;
 
-- in his quiver hath he hid me: The Lord got us like this, in the shadow of it. He's covering you. The Lord said, "I'm not going to show the world what I got. I got a weapon. I got an Osha. I got a Reuben. I got a Shamgar. I got all these brothers. I'mma hide them, because if I let you see him, he gonna convert. He's gonna unleash on you. You understand? We are weapons. The Lord said, I got to hide you in the shadow of my hand. And the Lord turned you into a weapon. Weapons.
+- in his quiver hath he hid me: The Lord got us like this, in the shadow of it. He's covering you. The Lord said, "I'm not going to show the world what I got." I got a weapon. I got an Osha. I got a Reuben. I got a Shamgar. I got all these brothers. I'mma hide them, because if I let you see him, he gonna convert. He's gonna unleash on you. You understand? We are weapons. The Lord said, I got to hide you in the shadow of my hand. And the Lord turned you into a weapon. Weapons.
 
 
 **[Proverbs 11:30](/bible/proverbs/11#v30)**  *[[2:15:05](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=8105s)]*
@@ -719,7 +719,7 @@ Reading from Reading from a snapshot on Professor Griff  *[[2:00:16](https://www
 
 - And that shows belief, right? That shows belief, because it may not be now. They may come up later. If you get mad now, they'll never get it, because you just closed the door on them. What if Christ would have closed the door on you? And some of us should deserve to have that door closed. And you know very well.
 
-- **A brother:** And you know what else is heavy? Brother, it's all right. Let him go. Let him go. "Hey, brother. Take the flyer. We'll speak later. Believe that information is going to do its job. Let the Lord do his part.
+- **A brother:** And you know what else is heavy? Brother, it's all right. Let him go. Let him go. "Hey, brother. Take the flyer. We'll speak later." Believe that information is going to do its job. Let the Lord do his part.
 
 - Remember, the Lord said, "No man can come unto me, except the Father draw him. It took me years to understand that. I was like, "Lord, why didn't it work? Why didn't it work? I gave him 47 scriptures. You just missed one. You missed one. Now we understand about persuasion, belief, converting. Now, when we go out and teach, a lot of war, a lot of death is going to happen. Judgment is going to come from the east, even over to here.
 
@@ -728,7 +728,7 @@ Reading from Reading from a snapshot on Professor Griff  *[[2:00:16](https://www
 
 > <sup>[1](/bible/isaiah/21#v1)</sup> The burden of the desert of the sea. As whirlwinds in the south pass through; so it cometh from the desert, from a terrible land.
 
-- so it cometh from the desert, from a terrible land: Isaiah sees a vision, brothers. He sees something coming from the area of the desert. Who dwells in the desert places? The Arabs. Represents judgment. The Lord used Isaiah to say, "Isaiah, I'm going to show you something. Something's going to come from that desert.
+- so it cometh from the desert, from a terrible land: Isaiah sees a vision, brothers. He sees something coming from the area of the desert. Who dwells in the desert places? The Arabs. Represents judgment. The Lord used Isaiah to say, "Isaiah, I'm going to show you something. Something's going to come from that desert."
 
 > <sup>[2](/bible/isaiah/21#v2)</sup> A grievous vision is declared unto me; the treacherous dealer dealeth treacherously, and the spoiler spoileth. Go up, O Elam: besiege, O Media; all the sighing thereof have I made to cease.
 
@@ -764,7 +764,7 @@ Reading from Reading from a snapshot on Professor Griff  *[[2:00:16](https://www
 
 - The burden upon Arabia: So Islam cannot be the way. Because judgment is coming for Saudi Arabia. Judgment is coming for Libya. Judgment is coming for Iran. Judgment is coming for Pakistan. But it's talking about the Arabs. Tema. Edom. Swords represent what? War. Kedar is Saudi Arabia. So he saw judgment on America. He saw judgment on the Arab countries.
 
-- So our Muslim brothers have to leave the NOI and join us. Help us repent, because Farrakhan, Malcolm X, and even the Lord have always said, "You are the children of Israel. You are an Israelite.
+- So our Muslim brothers have to leave the NOI and join us. Help us repent, because Farrakhan, Malcolm X, and even the Lord have always said, "You are the children of Israel. You are an Israelite."
 
 - **A brother:** And all through the Bible, I mean, all through the Quran, they speak about the Bible. All through the Quran, they speak about the children of Israel. They speak about it in their book. So don't ever forget that. We have the true and living book here. You understand what I'm saying? No book are compared to this.
 
