@@ -44,13 +44,17 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "false-religion", "idolatry",
 
 **[Jeremiah 10:1-4](/bible/jeremiah/10#v1)**  *[[9:34](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=574s)]*
 
+> <sup>[1](/bible/jeremiah/10#v1)</sup> Hear ye the word which the Lord speaketh unto you, O house of Israel:
+>
+> <sup>[2](/bible/jeremiah/10#v2)</sup> Thus saith the Lord, Learn not the way of the heathen, and be not dismayed at the signs of heaven; for the heathen are dismayed at them.
+>
+> <sup>[3](/bible/jeremiah/10#v3)</sup> For the customs of the people are vain: for one cutteth a tree out of the forest, the work of the hands of the workman, with the axe.
+>
+> <sup>[4](/bible/jeremiah/10#v4)</sup> They deck it with silver and with gold; they fasten it with nails and with hammers, that it move not.
+
 - Chakras and zodiacs are not ours. I'm a Cancer, I'm a Leo, I'm a Scorpio, and they tell you that is your personality. Ever met somebody from a certain month who doesn't match his sign? That's because it's BS. It ain't real.
 
-> <sup>[1](/bible/jeremiah/10#v1)</sup> Hear ye the word which the Lord speaketh unto you, O house of Israel:
-
 - Hear ye the word which the Lord speaketh unto you, O house of Israel: God is addressing the Israelites. That's us, blacks and Hispanics.
-
-> <sup>[2](/bible/jeremiah/10#v2)</sup> Thus saith the Lord, Learn not the way of the heathen, and be not dismayed at the signs of heaven; for the heathen are dismayed at them.
 
 - Learn not the way of the heathen: The word heathen means other nations. God gave the children of Israel this Bible; the nations took our book and gave us their own understanding of it. John Smith created the Baptist religion in 1608, while our ancestors were in captivity. Joseph Smith created the Mormon religion in 1830, and his book says our black skin is a curse; black people were in slavery then, and the Emancipation Proclamation was thirty-five years off. Ellen G. White, a white woman, created the Seventh-day Adventist religion in 1863. Charles Taze Russell, the Jehovah's Witnesses, in 1872. Charles Parham, Pentecostal, in 1901, the time of Jim Crow and the rise of the Ku Klux Klan.
 
@@ -60,15 +64,11 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "false-religion", "idolatry",
 
 - For the heathen are dismayed at them: The heathen are the ones who look at the stars and try to find meaning in them.
 
-> <sup>[3](/bible/jeremiah/10#v3)</sup> For the customs of the people are vain: for one cutteth a tree out of the forest, the work of the hands of the workman, with the axe.
-
 - For the customs of the people are vain: The other nations give us vain customs.
 
 - For one cutteth a tree out of the forest: December 25th is coming. In the time of Jeremiah, six hundred years before Jesus was born, God told us not to follow the custom of cutting a tree out of the forest, bringing it into the house and decking it with silver and gold. We call it a Christmas tree. What does Christ being born have to do with a tree, presents, and a fat man named Santa Claus coming down a chimney we don't have in the hood? It was made for propaganda, religion and finances. Families go broke to buy the PS5, the shoes and the flat screen.
 
 - Christ never celebrated Christmas; neither did his mother or father. The Israelites never celebrated a birthday. We learned those customs from the heathen, from the Egyptians and the tribal people we were amongst throughout Africa. The Bible is not about religion. It is the book of the twelve tribes of Israel, our heritage, and they made sure to take it from us. Go home and ask your pastor these questions, and do your research. You've been lied to too long not to.
-
-> <sup>[4](/bible/jeremiah/10#v4)</sup> They deck it with silver and with gold; they fasten it with nails and with hammers, that it move not.
 
 **[Numbers 1:18](/bible/numbers/1#v18)**  *[[13:34](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=814s)]*
 
@@ -130,10 +130,10 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "false-religion", "idolatry",
 **[John 5:45-46](/bible/john/5#v45)**  *[[28:38](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=1718s)]*
 
 > <sup>[45](/bible/john/5#v45)</sup> Do not think that I will accuse you to the Father: there is one that accuseth you, even Moses, in whom ye trust.
+>
+> <sup>[46](/bible/john/5#v46)</sup> For had ye believed Moses, ye would have believed me: for he wrote of me.
 
 - There is one that accuseth you, even Moses: How does Moses accuse us to the Father? Under the Old Testament there were laws a man could not be forgiven for. I would be dead ten times over: I was a married basketball player who did what I shouldn't have on the road, and I smoked weed. There was no sacrifice for that. I had to be the sacrifice.
-
-> <sup>[46](/bible/john/5#v46)</sup> For had ye believed Moses, ye would have believed me: for he wrote of me.
 
 - For had ye believed Moses, ye would have believed me: for he wrote of me: If you truly believed Moses you would believe me, because Moses wrote about Jesus: Deuteronomy 18, Genesis 49, even Genesis 1. To believe on Christ is to keep the commandments with faith in his blood and his sacrifice on the cross for our sins.
 
@@ -146,16 +146,16 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "false-religion", "idolatry",
 **[John 6:26-29](/bible/john/6#v26)**  *[[31:53](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=1913s)]*
 
 > <sup>[26](/bible/john/6#v26)</sup> Jesus answered them and said, Verily, verily, I say unto you, Ye seek me, not because ye saw the miracles, but because ye did eat of the loaves, and were filled.
-
-- Ye seek me, not because ye saw the miracles, but because ye did eat of the loaves: Christ fed everybody, then crossed to the other side. He didn't get on the boat with them; he disappeared, and they asked how he got there. You are only following me because I fed you, not because you believe.
-
+>
 > <sup>[27](/bible/john/6#v27)</sup> Labour not for the meat which perisheth, but for that meat which endureth unto everlasting life, which the Son of man shall give unto you: for him hath God the Father sealed.
-
-- Labour not for the meat which perisheth, but for that meat which endureth unto everlasting life: Don't labor for food. Labor for the meat the Son gives, which is him, whom the Father sealed.
-
+>
 > <sup>[28](/bible/john/6#v28)</sup> Then said they unto him, What shall we do, that we might work the works of God?
 >
 > <sup>[29](/bible/john/6#v29)</sup> Jesus answered and said unto them, This is the work of God, that ye believe on him whom he hath sent.
+
+- Ye seek me, not because ye saw the miracles, but because ye did eat of the loaves: Christ fed everybody, then crossed to the other side. He didn't get on the boat with them; he disappeared, and they asked how he got there. You are only following me because I fed you, not because you believe.
+
+- Labour not for the meat which perisheth, but for that meat which endureth unto everlasting life: Don't labor for food. Labor for the meat the Son gives, which is him, whom the Father sealed.
 
 - This is the work of God, that ye believe on him whom he hath sent: They already had the law of Moses, and under it you are accused if you commit certain things. Believe on me and you have a chance to inherit life.
 
@@ -207,13 +207,13 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "false-religion", "idolatry",
 
 **[Hebrews 10:4-5](/bible/hebrews/10#v4)**  *[[45:04](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=2704s)]*
 
+> <sup>[4](/bible/hebrews/10#v4)</sup> For it is not possible that the blood of bulls and of goats should take away sins.
+>
+> <sup>[5](/bible/hebrews/10#v5)</sup> Wherefore when he cometh into the world, he saith, Sacrifice and offering thou wouldest not, but a body hast thou prepared me:
+
 - A student asked what it is about believing in Christ that qualifies you, since the Pharisees kept the commandments too. They thought they could have eternal life through animal sacrifice. But some sins, like homosexuality, murder or adultery, could not be forgiven under Moses; you died for them.
 
-> <sup>[4](/bible/hebrews/10#v4)</sup> For it is not possible that the blood of bulls and of goats should take away sins.
-
 - For it is not possible that the blood of bulls and of goats should take away sins: Under Christ, the woman caught in adultery heard, I won't condemn you; go and sin no more. He gave her grace. The woman at the well in John 4 had had many men, and he gave her a chance to repent. Under Moses, stoning. A believer in Christ believes in his sacrifice over animal sacrifice.
-
-> <sup>[5](/bible/hebrews/10#v5)</sup> Wherefore when he cometh into the world, he saith, Sacrifice and offering thou wouldest not, but a body hast thou prepared me:
 
 - Sacrifice and offering thou wouldest not: When Christ came into the world, God didn't want the animal sacrifices anymore. We are a people who look for a loophole: I'll do this sin and sacrifice a lamb, and God will forgive me because it's in his law. So God said, I see what you're doing. I'll destroy the temple and take away the Levitical priesthood, and you will have to believe on my son. That is the only way to eternal life now, through him, no longer through bulls and goats.
 

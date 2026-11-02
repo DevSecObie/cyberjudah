@@ -25,26 +25,26 @@ tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "justice", "mental-h
 **[Isaiah 1:2-6](/bible/isaiah/1#v2)**  *[[2:19](https://www.youtube.com/watch?v=qMrKDkyjDho&t=139s)]*
 
 > <sup>[2](/bible/isaiah/1#v2)</sup> Hear, O heavens, and give ear, O earth: for the Lord hath spoken, I have nourished and brought up children, and they have rebelled against me.
+>
+> <sup>[3](/bible/isaiah/1#v3)</sup> The ox knoweth his owner, and the ass his master’s crib: but Israel doth not know, my people doth not consider.
+>
+> <sup>[4](/bible/isaiah/1#v4)</sup> Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the Lord, they have provoked the Holy One of Israel unto anger, they are gone away backward.
+>
+> <sup>[5](/bible/isaiah/1#v5)</sup> Why should ye be stricken any more? ye will revolt more and more: the whole head is sick, and the whole heart faint.
+>
+> <sup>[6](/bible/isaiah/1#v6)</sup> From the sole of the foot even unto the head there is no soundness in it; but wounds, and bruises, and putrifying sores: they have not been closed, neither bound up, neither mollified with ointment.
 
 - I have nourished and brought up children, and they have rebelled against me: The reason these things happen in our community is here. God nourished his children and they rebelled against him.
-
-> <sup>[3](/bible/isaiah/1#v3)</sup> The ox knoweth his owner, and the ass his master’s crib: but Israel doth not know, my people doth not consider.
 
 - The ox knoweth his owner, and the ass his master's crib: Two dumb animals know where their master stays. In Guyana they let the horses roam free on the highways, and they go back where they came from.
 
 - But Israel doth not know, my people doth not consider: You blacks, Hispanics and Native Americans do not know who your God is. When you rebel he will jack you up in your cities, and you never consider why. You lose your brother, your sister, your child, and you cover the feeling with weed, partying, getting drunk, killing somebody else, working sixty hours a week, or Christianity. Those are coping mechanisms to get away from reality.
 
-> <sup>[4](/bible/isaiah/1#v4)</sup> Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the Lord, they have provoked the Holy One of Israel unto anger, they are gone away backward.
-
 - Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: God gives you the answer to consider: you are a sinful nation, laden with iniquity, evildoers and corrupters, who forsook him. That is why your whole nation is jacked up wherever you go.
-
-> <sup>[5](/bible/isaiah/1#v5)</sup> Why should ye be stricken any more? ye will revolt more and more: the whole head is sick, and the whole heart faint.
 
 - Why should ye be stricken any more? ye will revolt more and more: The injustice you see, the white man killing us, is God showing you that this man is the devil the Bible speaks of, and trying to wake you up. And he knows his hard-headed children will revolt more and more.
 
 - The whole head is sick, and the whole heart faint: The head is the southern kingdom, the so-called blacks, and the mindset of our people is faint from God's laws. From the sole of the foot to the head means the whole twelve tribes of Israel are sick.
-
-> <sup>[6](/bible/isaiah/1#v6)</sup> From the sole of the foot even unto the head there is no soundness in it; but wounds, and bruises, and putrifying sores: they have not been closed, neither bound up, neither mollified with ointment.
 
 - There is no soundness in it: Like the hearing test with the headphones, a sound catches your attention. When you hear the scripture and the prophets teaching, it doesn't catch you: wait a minute, he hit something that happened to me. Wounds, bruises and putrifying sores that have not been closed or mollified with ointment are the pain you feel spiritually. We are here to heal those things with the word of God.
 
@@ -97,10 +97,10 @@ tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "justice", "mental-h
 **[Isaiah 59:1-2](/bible/isaiah/59#v1)**  *[[14:13](https://www.youtube.com/watch?v=qMrKDkyjDho&t=853s)]*
 
 > <sup>[1](/bible/isaiah/59#v1)</sup> Behold, the Lord’s hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:
+>
+> <sup>[2](/bible/isaiah/59#v2)</sup> But your iniquities have separated between you and your God, and your sins have hid his face from you, that he will not hear.
 
 - Behold, the Lord's hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear: Never forget it. We say, I'm praying all the time and he doesn't hear me. People talk bad about the Bible because God allows human trafficking; that is a cry for help.
-
-> <sup>[2](/bible/isaiah/59#v2)</sup> But your iniquities have separated between you and your God, and your sins have hid his face from you, that he will not hear.
 
 - But your iniquities have separated between you and your God, and your sins have hid his face from you, that he will not hear: What separates you from God and sends him back to his place is your iniquities. He turned his back on you. It doesn't contradict verse 1: return from your iniquities and he will hear you.
 
@@ -129,10 +129,10 @@ tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "justice", "mental-h
 **[Exodus 3:7-8](/bible/exodus/3#v7)**  *[[18:47](https://www.youtube.com/watch?v=qMrKDkyjDho&t=1127s)]*
 
 > <sup>[7](/bible/exodus/3#v7)</sup> And the Lord said, I have surely seen the affliction of my people which are in Egypt, and have heard their cry by reason of their taskmasters; for I know their sorrows;
+>
+> <sup>[8](/bible/exodus/3#v8)</sup> And I am come down to deliver them out of the hand of the Egyptians, and to bring them up out of that land unto a good land and a large, unto a land flowing with milk and honey; unto the place of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites.
 
 - I have surely seen the affliction of my people which are in Egypt, and have heard their cry by reason of their taskmasters: This is what God hears: the cry of his people under their taskmasters.
-
-> <sup>[8](/bible/exodus/3#v8)</sup> And I am come down to deliver them out of the hand of the Egyptians, and to bring them up out of that land unto a good land and a large, unto a land flowing with milk and honey; unto the place of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites.
 
 - And I am come down to deliver them out of the hand of the Egyptians: He sent Moses first, and Aaron, the officers and the men of Israel to warn the people, then made his grand opening. Today is spiritual Egypt, the same way. He always sends his prophets, because he heard you. We were at the injustice rallies teaching people to repent and keep the commandments because Christ is returning. There is nothing we can do with this injustice system. It is already set up. Our job is to keep the commandments and gather together so we have our rightful place back with Christ.
 
@@ -169,22 +169,22 @@ tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "justice", "mental-h
 **[Hosea 4:1-2](/bible/hosea/4#v1)**  *[[25:37](https://www.youtube.com/watch?v=qMrKDkyjDho&t=1537s)]*
 
 > <sup>[1](/bible/hosea/4#v1)</sup> Hear the word of the Lord, ye children of Israel: for the Lord hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land.
+>
+> <sup>[2](/bible/hosea/4#v2)</sup> By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood.
 
 - For the Lord hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land: There is no truth of God's law pushed in the land and no mercy for each other. The white man isn't pushing it, Ishmael the Arab isn't pushing it, Moab the Chinese isn't pushing it. It is our job as men of God to push God's laws and commandments so we have justice, truth and mercy upon each other.
-
-> <sup>[2](/bible/hosea/4#v2)</sup> By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood.
 
 - By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood: We swear against one another, lie on one another, kill, steal and commit adultery with one another, killing our own selves. We are the only nation that can profess God on this earth. If we don't apply justice among each other, how will the other nations?
 
 **[Proverbs 1:1-3](/bible/proverbs/1#v1)**  *[[26:55](https://www.youtube.com/watch?v=qMrKDkyjDho&t=1615s)]*
 
 > <sup>[1](/bible/proverbs/1#v1)</sup> The proverbs of Solomon the son of David, king of Israel;
-
-- The proverbs of Solomon the son of David, king of Israel: The king of Israel, not of everybody. This only pertains to the Israelites.
-
+>
 > <sup>[2](/bible/proverbs/1#v2)</sup> To know wisdom and instruction; to perceive the words of understanding;
 >
 > <sup>[3](/bible/proverbs/1#v3)</sup> To receive the instruction of wisdom, justice, and judgment, and equity;
+
+- The proverbs of Solomon the son of David, king of Israel: The king of Israel, not of everybody. This only pertains to the Israelites.
 
 - To know wisdom and instruction; to perceive the words of understanding; to receive the instruction of wisdom, justice, and judgment, and equity: It is our job to know wisdom, and to have justice, judgment and equity.
 
@@ -193,22 +193,22 @@ tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "justice", "mental-h
 > <sup>[6](/bible/proverbs/2#v6)</sup> For the Lord giveth wisdom: out of his mouth cometh knowledge and understanding.
 >
 > <sup>[7](/bible/proverbs/2#v7)</sup> He layeth up sound wisdom for the righteous: he is a buckler to them that walk uprightly.
-
-- He layeth up sound wisdom for the righteous: he is a buckler to them that walk uprightly: This is what equity is.
-
+>
 > <sup>[8](/bible/proverbs/2#v8)</sup> He keepeth the paths of judgment, and preserveth the way of his saints.
 >
 > <sup>[9](/bible/proverbs/2#v9)</sup> Then shalt thou understand righteousness, and judgment, and equity; yea, every good path.
+
+- He layeth up sound wisdom for the righteous: he is a buckler to them that walk uprightly: This is what equity is.
 
 - Then shalt thou understand righteousness, and judgment, and equity; yea, every good path: Equity is every good path. Like the equity on a house that builds value, wisdom gives you value as a man. That's why the sisters have to stop twerking on TikTok: when you dress modestly, others follow. The men taking care of the household: it starts with us.
 
 **[Ezekiel 18:5-6](/bible/ezekiel/18#v5)**  *[[29:10](https://www.youtube.com/watch?v=qMrKDkyjDho&t=1750s)]*
 
 > <sup>[5](/bible/ezekiel/18#v5)</sup> But if a man be just, and do that which is lawful and right,
+>
+> <sup>[6](/bible/ezekiel/18#v6)</sup> And hath not eaten upon the mountains, neither hath lifted up his eyes to the idols of the house of Israel, neither hath defiled his neighbour’s wife, neither hath come near to a menstruous woman,
 
 - But if a man be just, and do that which is lawful and right: This is what just is.
-
-> <sup>[6](/bible/ezekiel/18#v6)</sup> And hath not eaten upon the mountains, neither hath lifted up his eyes to the idols of the house of Israel, neither hath defiled his neighbour’s wife, neither hath come near to a menstruous woman,
 
 - And hath not eaten upon the mountains: The mountains are idolatry, other religions, most likely Christianity.
 
@@ -232,36 +232,36 @@ tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "justice", "mental-h
 **[Matthew 24:4-8](/bible/matthew/24#v4)**  *[[35:38](https://www.youtube.com/watch?v=qMrKDkyjDho&t=2138s)]*
 
 > <sup>[4](/bible/matthew/24#v4)</sup> And Jesus answered and said unto them, Take heed that no man deceive you.
+>
+> <sup>[5](/bible/matthew/24#v5)</sup> For many shall come in my name, saying, I am Christ; and shall deceive many.
+>
+> <sup>[6](/bible/matthew/24#v6)</sup> And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.
+>
+> <sup>[7](/bible/matthew/24#v7)</sup> For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.
+>
+> <sup>[8](/bible/matthew/24#v8)</sup> All these are the beginning of sorrows.
 
 - Take heed that no man deceive you: Many say they're in Christ, that Christ talked to them, that they got a message from God. Not one law in it, and he didn't tell you he was black. Somebody came to you, all right: Satan.
-
-> <sup>[5](/bible/matthew/24#v5)</sup> For many shall come in my name, saying, I am Christ; and shall deceive many.
 
 - For many shall come in my name, saying, I am Christ; and shall deceive many: If you believe in Christianity, you are deceived. If you believe in any other religion, you are deceived. Anything outside God's laws and commandments, knowing Christ is a black man and knowing you blacks, Hispanics and Native Americans are the Israelites, is deception.
 
 - *[[43:13](https://www.youtube.com/watch?v=qMrKDkyjDho&t=2593s)]* And ye shall hear of wars and rumours of wars: see that ye be not troubled: The wars are coming closer, in the areas where the Israelites are: Russia and Ukraine, Israel and Gaza. Our people are over there.
 
-> <sup>[6](/bible/matthew/24#v6)</sup> And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.
->
-> <sup>[7](/bible/matthew/24#v7)</sup> For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.
-
 - And there shall be famines, and pestilences, and earthquakes, in divers places: War drives up the price of gas and food, and there will be famine and wildfires.
-
-> <sup>[8](/bible/matthew/24#v8)</sup> All these are the beginning of sorrows.
 
 - All these are the beginning of sorrows: That's where we are now. And within those sorrows, injustice ramps up. With war going on, the white man still finds a way to get a gun and shoot you, and a Chinese store owner chases a brother 130 yards and shoots him in the back over some water.
 
 **[2 Thessalonians 2:3-4](/bible/2-thessalonians/2#v3)**  *[[37:06](https://www.youtube.com/watch?v=qMrKDkyjDho&t=2226s)]*
 
 > <sup>[3](/bible/2-thessalonians/2#v3)</sup> Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
+>
+> <sup>[4](/bible/2-thessalonians/2#v4)</sup> Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God.
 
 - Let no man deceive you by any means: In this time you have AI and all these different things. Don't let any man deceive you by any means.
 
 - Except there come a falling away first: That day of Christ's return won't come until the falling away: blacks, Hispanics and Native Americans going on cargo slave ships and scattered through the world because we broke God's laws, statutes and commandments.
 
 - That man of sin be revealed, the son of perdition: Perdition means destruction.
-
-> <sup>[4](/bible/2-thessalonians/2#v4)</sup> Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God.
 
 - Who opposeth and exalteth himself above all that is called God: The so-called white man painted himself as the son of the Most High God. There's a giant statue of Jesus in Brazil, and in Rome the Sistine Chapel has two naked white men touching fingers, supposed to be Adam and the Father. Why do they have to be naked? He is a profane person, and he exalts himself: make my son look like Jesus.
 
@@ -282,14 +282,14 @@ tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "justice", "mental-h
 **[Lamentations 4:17-19](/bible/lamentations/4#v17)**  *[[57:08](https://www.youtube.com/watch?v=qMrKDkyjDho&t=3428s)]*
 
 > <sup>[17](/bible/lamentations/4#v17)</sup> As for us, our eyes as yet failed for our vain help: in our watching we have watched for a nation that could not save us.
+>
+> <sup>[18](/bible/lamentations/4#v18)</sup> They hunt our steps, that we cannot go in our streets: our end is near, our days are fulfilled; for our end is come.
+>
+> <sup>[19](/bible/lamentations/4#v19)</sup> Our persecutors are swifter than the eagles of the heaven: they pursued us upon the mountains, they laid wait for us in the wilderness.
 
 - In our watching we have watched for a nation that could not save us: That's why he called 911. He hoped for some saving from his mental crisis and didn't get it, not from them and not from his parents.
 
-> <sup>[18](/bible/lamentations/4#v18)</sup> They hunt our steps, that we cannot go in our streets: our end is near, our days are fulfilled; for our end is come.
-
 - They hunt our steps, that we cannot go in our streets: A man can't go to the Dollar General. It was never proven there was a knife in his hand, and if he had one and you knew he had mental issues, why empty the clip? There are non-lethal means.
-
-> <sup>[19](/bible/lamentations/4#v19)</sup> Our persecutors are swifter than the eagles of the heaven: they pursued us upon the mountains, they laid wait for us in the wilderness.
 
 - Our persecutors are swifter than the eagles of the heaven: They are quick with the gun, and only quick when it's us. When it's Esau, he gets tased, screams, runs at the cop, and they follow protocol. Let a black man look at you too long: pow.
 
@@ -307,13 +307,13 @@ tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "justice", "mental-h
 
 **[Zechariah 11:4-5](/bible/zechariah/11#v4)**  *[[1:08:15](https://www.youtube.com/watch?v=qMrKDkyjDho&t=4095s)]*
 
+> <sup>[4](/bible/zechariah/11#v4)</sup> Thus saith the Lord my God; Feed the flock of the slaughter;
+>
+> <sup>[5](/bible/zechariah/11#v5)</sup> Whose possessors slay them, and hold themselves not guilty: and they that sell them say, Blessed be the Lord; for I am rich: and their own shepherds pity them not.
+
 - Growing up, a cop pulled me into his car, ran my license, and asked what I wanted to be when I grew up. A dentist. You're one of the good ones. That's profiling. North Carolina is the south; it just has its own ways of doing it.
 
-> <sup>[4](/bible/zechariah/11#v4)</sup> Thus saith the Lord my God; Feed the flock of the slaughter;
-
 - Feed the flock of the slaughter: That's our job as the prophets: feed the flock of the slaughter, you blacks, Hispanics and Native Americans, the only people being raped, robbed and murdered. We don't care how mad you get when you see the purple and gold teaching in a time of grief. God told us to feed you.
-
-> <sup>[5](/bible/zechariah/11#v5)</sup> Whose possessors slay them, and hold themselves not guilty: and they that sell them say, Blessed be the Lord; for I am rich: and their own shepherds pity them not.
 
 - Whose possessors slay them, and hold themselves not guilty: That's the administrative leave. The black cops in Memphis who beat a black man to death were fired immediately. They're evil, but they're not the possessors that slay. The possessors are the so-called white men.
 
@@ -352,10 +352,10 @@ tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "justice", "mental-h
 **[Leviticus 19:17-18](/bible/leviticus/19#v17)**  *[[1:19:26](https://www.youtube.com/watch?v=qMrKDkyjDho&t=4766s)]*
 
 > <sup>[17](/bible/leviticus/19#v17)</sup> Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
+>
+> <sup>[18](/bible/leviticus/19#v18)</sup> Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord.
 
 - Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him: This is what our people need to fix. The Thelma Street shooting began with a fight: hatred already in the mind. As the children of God, we are not supposed to have that spirit toward our brothers.
-
-> <sup>[18](/bible/leviticus/19#v18)</sup> Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord.
 
 - Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: This is the answer to the shootings: repent and keep God's commandments, and men need to rise up and teach these kids order and structure.
 
@@ -396,18 +396,18 @@ tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "justice", "mental-h
 **[Ezekiel 35:2-5](/bible/ezekiel/35#v2)**  *[[1:44:10](https://www.youtube.com/watch?v=qMrKDkyjDho&t=6250s)]*
 
 > <sup>[2](/bible/ezekiel/35#v2)</sup> Son of man, set thy face against mount Seir, and prophesy against it,
+>
+> <sup>[3](/bible/ezekiel/35#v3)</sup> And say unto it, Thus saith the Lord God; Behold, O mount Seir, I am against thee, and I will stretch out mine hand against thee, and I will make thee most desolate.
+>
+> <sup>[4](/bible/ezekiel/35#v4)</sup> I will lay thy cities waste, and thou shalt be desolate, and thou shalt know that I am the Lord.
+>
+> <sup>[5](/bible/ezekiel/35#v5)</sup> Because thou hast had a perpetual hatred, and hast shed the blood of the children of Israel by the force of the sword in the time of their calamity, in the time that their iniquity had an end:
 
 - Son of man, set thy face against mount Seir, and prophesy against it: Mount Seir is the so-called white man. That's what we do: prophesy against this evil nation, and not in our own words. Thus saith the Lord God.
 
-> <sup>[3](/bible/ezekiel/35#v3)</sup> And say unto it, Thus saith the Lord God; Behold, O mount Seir, I am against thee, and I will stretch out mine hand against thee, and I will make thee most desolate.
-
 - Behold, O mount Seir, I am against thee: God has a problem with this people, not with us. We don't hate Edom, but we prophesy against him.
 
-> <sup>[4](/bible/ezekiel/35#v4)</sup> I will lay thy cities waste, and thou shalt be desolate, and thou shalt know that I am the Lord.
-
 - I will lay thy cities waste: In Tel Aviv, wherever you are, and especially in America for what they did to our people. God doesn't forget what they did from slavery on up, from the Renaissance, from Rome, which stabbed Christ in the side. You'll find out who Christ the black Messiah really is.
-
-> <sup>[5](/bible/ezekiel/35#v5)</sup> Because thou hast had a perpetual hatred, and hast shed the blood of the children of Israel by the force of the sword in the time of their calamity, in the time that their iniquity had an end:
 
 - Because thou hast had a perpetual hatred, and hast shed the blood of the children of Israel: A forever hatred: shooting people in Sampson County, raping and robbing us since we've been over here. We are in our calamity now, looking for a savior, and they put the church, Islam, tithes and the music industry in the way.
 
@@ -440,10 +440,10 @@ tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "justice", "mental-h
 **[Jeremiah 48:46-47](/bible/jeremiah/48#v46)**  *[[1:55:40](https://www.youtube.com/watch?v=qMrKDkyjDho&t=6940s)]*
 
 > <sup>[46](/bible/jeremiah/48#v46)</sup> Woe be unto thee, O Moab! the people of Chemosh perisheth: for thy sons are taken captives, and thy daughters captives.
+>
+> <sup>[47](/bible/jeremiah/48#v47)</sup> Yet will I bring again the captivity of Moab in the latter days, saith the Lord. Thus far is the judgment of Moab.
 
 - Woe be unto thee, O Moab: Woe means destruction. Moab is the so-called Chinese people.
-
-> <sup>[47](/bible/jeremiah/48#v47)</sup> Yet will I bring again the captivity of Moab in the latter days, saith the Lord. Thus far is the judgment of Moab.
 
 - Yet will I bring again the captivity of Moab in the latter days: Thus far is the judgment of Moab: You're getting that judgment, Moab. You're not getting away either.
 

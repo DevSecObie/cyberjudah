@@ -53,9 +53,13 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "mental-health"]
 
 **[Isaiah 61:1-3](/bible/isaiah/61#v1)**  *[[13:51](https://www.youtube.com/watch?v=i8lq554yIRU&t=831s)]*
 
-- I got a list of scriptures to go over but I'm going to digress already. This is the comfort and the patience and the hope we all need to have, and we're coming back to Ecclesiastes 4.
-
 > <sup>[1](/bible/isaiah/61#v1)</sup> The Spirit of the Lord God is upon me; because the Lord hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;
+>
+> <sup>[2](/bible/isaiah/61#v2)</sup> To proclaim the acceptable year of the Lord, and the day of vengeance of our God; to comfort all that mourn;
+>
+> <sup>[3](/bible/isaiah/61#v3)</sup> To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the Lord, that he might be glorified.
+
+- I got a list of scriptures to go over but I'm going to digress already. This is the comfort and the patience and the hope we all need to have, and we're coming back to Ecclesiastes 4.
 
 - The Lord hath anointed me to preach good tidings unto the meek: We're going to find out what the good tidings are that's coming. They say we're supposed to be soft, and God loves everything on the planet earth, justice and goodwill towards all men. Let's see what the Bible says.
 
@@ -65,25 +69,21 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "mental-health"]
 
 - And the opening of the prison to them that are bound: Our people are bound in spiritual prisons. You're bound in your lust. You're bound by America, by different vices. Some of the things you're bound in are Islam, Christianity, the love for the other nations.
 
-> <sup>[2](/bible/isaiah/61#v2)</sup> To proclaim the acceptable year of the Lord, and the day of vengeance of our God; to comfort all that mourn;
-
 - And the day of vengeance of our God: Whoa. The day of vengeance. So part of the good tidings in verse 1 is the day of vengeance being preached unto you. Of our God, not everybody's God.
 
 - To comfort all that mourn: Remember we just read they had no comforter in Ecclesiastes 4:1. Now the Bible says we are to comfort all that mourn.
-
-> <sup>[3](/bible/isaiah/61#v3)</sup> To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the Lord, that he might be glorified.
 
 - To give unto them beauty for ashes: That's what the prophets are to preach unto the brokenhearted. That's the good tidings right there. The day of vengeance is coming on America. That's the good news. That's the gospel.
 
 **[Ecclesiastes 4:1-2](/bible/ecclesiastes/4#v1)**  *[[17:06](https://www.youtube.com/watch?v=i8lq554yIRU&t=1026s)]*
 
 > <sup>[1](/bible/ecclesiastes/4#v1)</sup> So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.
+>
+> <sup>[2](/bible/ecclesiastes/4#v2)</sup> Wherefore I praised the dead which are already dead more than the living which are yet alive.
 
 - And they had no comforter: They had no comforter, y'all.
 
 - And on the side of their oppressors there was power: On the side of America there was power. There's no more powerful nation in the world right now than the United States of America. They took the legally elected head of state of Venezuela in four hours: grabbed Maduro up in his PJs, put him in a Nike suit and high-top sneakers, and put him on a plane, him and his wife, and we ain't heard from him since. (A captain) Not only did they beat him, they beat his wife too; she had a black eye. That's kidnapping. And where are all these dignitaries and leaders from the other countries saying that ain't right? Not a peep.
-
-> <sup>[2](/bible/ecclesiastes/4#v2)</sup> Wherefore I praised the dead which are already dead more than the living which are yet alive.
 
 - Wherefore I praised the dead which are already dead more than the living which are yet alive: King Solomon said, listen, the dead that are not here to suffer the oppression are in a better estate than those living going through the oppression.
 
@@ -107,15 +107,19 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "mental-health"]
 
 **[Jeremiah 16:10-13](/bible/jeremiah/16#v10)**  *[[25:33](https://www.youtube.com/watch?v=i8lq554yIRU&t=1533s)]*
 
-- On Clubhouse, ask a brother or sister why black people are born in the conditions we're born in and have to go through what we go through. When we were young we all had these questions in the back of our minds: why do we get the dirty end of the stick? Did granny, mama, the deacon or the pastor at the church ever give you a biblical answer? Hell no. We had all these questions all this time and couldn't get a biblical answer for none of it. That shows you Christianity is not the truth. It's of Satan, because the answer is all over the Bible.
-
 > <sup>[10](/bible/jeremiah/16#v10)</sup> And it shall come to pass, when thou shalt shew this people all these words, and they shall say unto thee, Wherefore hath the Lord pronounced all this great evil against us? or what is our iniquity? or what is our sin that we have committed against the Lord our God?
+>
+> <sup>[11](/bible/jeremiah/16#v11)</sup> Then shalt thou say unto them, Because your fathers have forsaken me, saith the Lord, and have walked after other gods, and have served them, and have worshipped them, and have forsaken me, and have not kept my law;
+>
+> <sup>[12](/bible/jeremiah/16#v12)</sup> And ye have done worse than your fathers; for, behold, ye walk every one after the imagination of his evil heart, that they may not hearken unto me:
+>
+> <sup>[13](/bible/jeremiah/16#v13)</sup> Therefore will I cast you out of this land into a land that ye know not, neither ye nor your fathers; and there shall ye serve other gods day and night; where I will not shew you favour.
+
+- On Clubhouse, ask a brother or sister why black people are born in the conditions we're born in and have to go through what we go through. When we were young we all had these questions in the back of our minds: why do we get the dirty end of the stick? Did granny, mama, the deacon or the pastor at the church ever give you a biblical answer? Hell no. We had all these questions all this time and couldn't get a biblical answer for none of it. That shows you Christianity is not the truth. It's of Satan, because the answer is all over the Bible.
 
 - Wherefore hath the Lord pronounced all this great evil against us: That's a question I had. Why do we have to go through all this evil? There's no Arabs hanging from trees. There's no East Indians hanging from trees. But I do see black people hanging from trees in 2026, and all of a sudden so many suicides of black people. Get the hell out of here with that.
 
 - Or what is our iniquity? or what is our sin that we have committed against the Lord our God: Here comes the answer. Give it to your mama, since she couldn't answer it for you. She couldn't answer it because she had the same question. Your daddy, your granddaddy and the grandma that took you to church couldn't give you biblical answers.
-
-> <sup>[11](/bible/jeremiah/16#v11)</sup> Then shalt thou say unto them, Because your fathers have forsaken me, saith the Lord, and have walked after other gods, and have served them, and have worshipped them, and have forsaken me, and have not kept my law;
 
 - Because your fathers have forsaken me, saith the Lord, and have walked after other gods: You want to serve other gods. You want to be an idolater.
 
@@ -123,13 +127,9 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "mental-health"]
 
 - And have forsaken me, and have not kept my law: You say, no, I'm doing it on Sunday; to hell with the Lord's Sabbath day. You break every law in the scriptures. You don't reverence nothing God told you to reverence.
 
-> <sup>[12](/bible/jeremiah/16#v12)</sup> And ye have done worse than your fathers; for, behold, ye walk every one after the imagination of his evil heart, that they may not hearken unto me:
-
 - And ye have done worse than your fathers: God said you've done worse than your daddies. Your daddies taught you to sin, but look at you now: you went headlong. You were birthed into Christianity, into white Jesus, and you can't get out of it. Our forefathers were beaten in slavery and made to worship that white devil. You do it voluntarily. You go to church and kiss white Jesus' feet every Sunday. Our people are marching for freedom and then on Sunday they go kiss white Jesus' feet. They broke our forefathers' spirits; you were born with a broken spirit and you ain't trying to fix it. Our people are out in the street crying and begging for justice and can't get it, because you kissed the feet of the people doing it to you. How can you demand justice from the same people dealing you injustice? You are insane.
 
 - For, behold, ye walk every one after the imagination of his evil heart: There's something called the power of suggestion. They put evil things in front of you, on your camera, on your phone, to enhance whatever spirit you're dealing with. Say you've got, God forbid, a homosexual spirit: what's legal for you here in America? Two men can get married, two women can get married. They put it in your sight so you can go after your lust. Say your lust is money: they find things that make it easy for you to lust after money, and they give you a choice. You can be a drug dealer here, or you can sell your body here. That's the power of suggestion.
-
-> <sup>[13](/bible/jeremiah/16#v13)</sup> Therefore will I cast you out of this land into a land that ye know not, neither ye nor your fathers; and there shall ye serve other gods day and night; where I will not shew you favour.
 
 - Therefore will I cast you out of this land into a land that ye know not: Therefore, meaning because of that, I will cast you out of this land, Jerusalem. Now you're in your enemy's land. Now you're behind enemy lines.
 
@@ -143,25 +143,25 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "mental-health"]
 
 **[Exodus 23:20-23](/bible/exodus/23#v20)**  *[[32:41](https://www.youtube.com/watch?v=i8lq554yIRU&t=1961s)]*
 
+> <sup>[20](/bible/exodus/23#v20)</sup> Behold, I send an Angel before thee, to keep thee in the way, and to bring thee into the place which I have prepared.
+>
+> <sup>[21](/bible/exodus/23#v21)</sup> Beware of him, and obey his voice, provoke him not; for he will not pardon your transgressions: for my name is in him.
+>
+> <sup>[22](/bible/exodus/23#v22)</sup> But if thou shalt indeed obey his voice, and do all that I speak; then I will be an enemy unto thine enemies, and an adversary unto thine adversaries.
+>
+> <sup>[23](/bible/exodus/23#v23)</sup> For mine Angel shall go before thee, and bring thee in unto the Amorites, and the Hittites, and the Perizzites, and the Canaanites, the Hivites, and the Jebusites: and I will cut them off.
+
 - Let's see what we were supposed to do. This is our forefathers in the wilderness, the forefathers that did the evil.
 
-> <sup>[20](/bible/exodus/23#v20)</sup> Behold, I send an Angel before thee, to keep thee in the way, and to bring thee into the place which I have prepared.
-
 - To bring thee into the place which I have prepared: Before they get into the place God prepared, the land of Canaan, the angel is given what needs to be done.
-
-> <sup>[21](/bible/exodus/23#v21)</sup> Beware of him, and obey his voice, provoke him not; for he will not pardon your transgressions: for my name is in him.
 
 - Beware of him, and obey his voice: Obey his voice, which goes into Christ.
 
 - For he will not pardon your transgressions: for my name is in him: He will not pardon your sins; he will judge you.
 
-> <sup>[22](/bible/exodus/23#v22)</sup> But if thou shalt indeed obey his voice, and do all that I speak; then I will be an enemy unto thine enemies, and an adversary unto thine adversaries.
-
 - Then I will be an enemy unto thine enemies, and an adversary unto thine adversaries: There's nowhere you're going to read in the Bible, in context, where all nations are friends. It's not biblical for all nations to be friends in Christ. If you're not the nation of Israel, you're either an enemy or an adversary. Now, can you be cordial with another nation? Yes. King Solomon was cordial with Hiram.
 
 - Back in Exodus 23:22: when Israel is ruling, that means everybody is subject under Israel. We're not friends. Friends have equality with each other. No nation wants to be your friend. I wish a black Christian would get that through their head. And the other nations teach their children to be better than you anyway.
-
-> <sup>[23](/bible/exodus/23#v23)</sup> For mine Angel shall go before thee, and bring thee in unto the Amorites, and the Hittites, and the Perizzites, and the Canaanites, the Hivites, and the Jebusites: and I will cut them off.
 
 - Unto the Amorites, and the Hittites, and the Perizzites, and the Canaanites, the Hivites, and the Jebusites: These are Hamites. All these nations are your enemies, not your friends. When you hang with these nations, when you always try to appease them and be around them, you always end up jacked up, with the short end of the stick.
 
@@ -216,6 +216,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "mental-health"]
 **[Psalms 106:34-35](/bible/psalms/106#v34)**  *[[1:01:36](https://www.youtube.com/watch?v=i8lq554yIRU&t=3696s)]*
 
 > <sup>[34](/bible/psalms/106#v34)</sup> They did not destroy the nations, concerning whom the Lord commanded them:
+>
+> <sup>[35](/bible/psalms/106#v35)</sup> But were mingled among the heathen, and learned their works.
 
 - They did not destroy the nations concerning whom the Lord commanded them: But were mingled among the heathen and learned their works. Watch the spirit of the Israelites in the time of the Greeks.
 
@@ -231,45 +233,43 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "mental-health"]
 
     When the Greeks came into the land they pushed their doctrine and their influence: an increase of heathenish manners through the exceeding profaneness of Jason, who snaked his way into the high priesthood underhandedly. Jason is an Israelite, and an Israelite helped bring his nation to the Greek fashions. The priests under Jason had no courage to serve any more at the altar; they despised their service to God at the temple and said to hell with the sacrifices, and hastened to the place of exercise, the gym, when the game of Discus called them forth. Not setting by the honours of their fathers, which was to do the sacrifice of the Lord and take care of the temple, but liking the glory of the Grecians best of all: you wanted the glory of the so-called white man. It's all about white society. By reason whereof sore calamity came upon them: destruction came upon the Israelites, for they had them to be their enemies and avengers. The Greeks are your natural enemies, but you follow them, and you desire to be like them in all things. That's the problem with us right here. We don't want to be like the Chinese; it's the white man's way or nothing at all.
 
-> <sup>[35](/bible/psalms/106#v35)</sup> But were mingled among the heathen, and learned their works.
-
 **[Judges 1:19,21,27](/bible/judges/1#v19)**  *[[1:05:05](https://www.youtube.com/watch?v=i8lq554yIRU&t=3905s)]*
+
+> <sup>[19](/bible/judges/1#v19)</sup> And the Lord was with Judah; and he drave out the inhabitants of the mountain; but could not drive out the inhabitants of the valley, because they had chariots of iron.
+>
+> <sup>[21](/bible/judges/1#v21)</sup> And the children of Benjamin did not drive out the Jebusites that inhabited Jerusalem; but the Jebusites dwell with the children of Benjamin in Jerusalem unto this day.
+>
+> <sup>[27](/bible/judges/1#v27)</sup> Neither did Manasseh drive out the inhabitants of Beth–shean and her towns, nor Taanach and her towns, nor the inhabitants of Dor and her towns, nor the inhabitants of Ibleam and her towns, nor the inhabitants of Megiddo and her towns: but the Canaanites would dwell in that land.
 
 - How did this happen? The Lord said go in and get rid of all the Hittites, the Jebusites, the Perizzites and so forth, and take the land. Let's see what the Israelites did.
 
-> <sup>[19](/bible/judges/1#v19)</sup> And the Lord was with Judah; and he drave out the inhabitants of the mountain; but could not drive out the inhabitants of the valley, because they had chariots of iron.
-
 - But could not drive out the inhabitants of the valley, because they had chariots of iron: Judah didn't do what Judah was supposed to do.
 
-> <sup>[21](/bible/judges/1#v21)</sup> And the children of Benjamin did not drive out the Jebusites that inhabited Jerusalem; but the Jebusites dwell with the children of Benjamin in Jerusalem unto this day.
-
 - And the children of Benjamin did not drive out the Jebusites that inhabited Jerusalem: Here comes Benjamin now. They couldn't do it either.
-
-> <sup>[27](/bible/judges/1#v27)</sup> Neither did Manasseh drive out the inhabitants of Beth–shean and her towns, nor Taanach and her towns, nor the inhabitants of Dor and her towns, nor the inhabitants of Ibleam and her towns, nor the inhabitants of Megiddo and her towns: but the Canaanites would dwell in that land.
 
 - Neither did Manasseh drive out the inhabitants: Y'all see a theme here. The tribes could not drive out the inhabitants of the land before them, so they dwelt with them.
 
 **[Exodus 34:12-16](/bible/exodus/34#v12)**  *[[1:06:38](https://www.youtube.com/watch?v=i8lq554yIRU&t=3998s)]*
 
-- Look what the Lord said you were supposed to do.
-
 > <sup>[12](/bible/exodus/34#v12)</sup> Take heed to thyself, lest thou make a covenant with the inhabitants of the land whither thou goest, lest it be for a snare in the midst of thee:
+>
+> <sup>[13](/bible/exodus/34#v13)</sup> But ye shall destroy their altars, break their images, and cut down their groves:
+>
+> <sup>[14](/bible/exodus/34#v14)</sup> For thou shalt worship no other god: for the Lord, whose name is Jealous, is a jealous God:
+>
+> <sup>[15](/bible/exodus/34#v15)</sup> Lest thou make a covenant with the inhabitants of the land, and they go a whoring after their gods, and do sacrifice unto their gods, and one call thee, and thou eat of his sacrifice;
+>
+> <sup>[16](/bible/exodus/34#v16)</sup> And thou take of their daughters unto thy sons, and their daughters go a whoring after their gods, and make thy sons go a whoring after their gods.
+
+- Look what the Lord said you were supposed to do.
 
 - Lest thou make a covenant with the inhabitants of the land: Those inhabitants of the land that you didn't drive out, don't make a covenant with them. Don't follow them.
 
 - Lest it be for a snare in the midst of thee: Following them is going to be a snare for you, black man.
 
-> <sup>[13](/bible/exodus/34#v13)</sup> But ye shall destroy their altars, break their images, and cut down their groves:
-
 - But ye shall destroy their altars, break their images, and cut down their groves: Cut down their churches.
 
-> <sup>[14](/bible/exodus/34#v14)</sup> For thou shalt worship no other god: for the Lord, whose name is Jealous, is a jealous God:
->
-> <sup>[15](/bible/exodus/34#v15)</sup> Lest thou make a covenant with the inhabitants of the land, and they go a whoring after their gods, and do sacrifice unto their gods, and one call thee, and thou eat of his sacrifice;
-
 - And do sacrifice unto their gods: Now you've got white Jesus, Islam, Hinduism, Krishna, all that nonsense. You're still sacrificing unto their gods.
-
-> <sup>[16](/bible/exodus/34#v16)</sup> And thou take of their daughters unto thy sons, and their daughters go a whoring after their gods, and make thy sons go a whoring after their gods.
 
 - And thou take of their daughters unto thy sons: What comes with that? As a good black Christian you go find a white woman, like Shannon Sharpe, like Brandon Tatum bragging about his wife and trying to compare her to Michelle Obama.
 
@@ -322,6 +322,14 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "mental-health"]
 **[1 Maccabees 1:11-15](/bible/1-maccabees/1#v11)**  *[[1:22:06](https://www.youtube.com/watch?v=i8lq554yIRU&t=4926s)]*
 
 > <sup>[11](/bible/1-maccabees/1#v11)</sup> In those days went there out of Israel wicked men, who persuaded many, saying, Let us go and make a covenant with the heathen that are round about us: for since we departed from them we have had much sorrow.
+>
+> <sup>[12](/bible/1-maccabees/1#v12)</sup> So this device pleased them well.
+>
+> <sup>[13](/bible/1-maccabees/1#v13)</sup> Then certain of the people were so forward herein, that they went to the king, who gave them licence to do after the ordinances of the heathen:
+>
+> <sup>[14](/bible/1-maccabees/1#v14)</sup> Whereupon they built a place of exercise at Jerusalem according to the customs of the heathen:
+>
+> <sup>[15](/bible/1-maccabees/1#v15)</sup> And made themselves uncircumcised, and forsook the holy covenant, and joined themselves to the heathen, and were sold to do mischief.
 
 - In those days went there out of Israel wicked men: Your Jason Whitlocks, your Brandon Tatums. The Bible calls them wicked men.
 
@@ -331,15 +339,7 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "mental-health"]
 
 - For since we departed from them we have had much sorrow: Now that we're separated from them and have to do it ourselves and grow our own food, and can't partake in their women and their sports and their gods and their way of life, it's sorrowful now.
 
-> <sup>[12](/bible/1-maccabees/1#v12)</sup> So this device pleased them well.
->
-> <sup>[13](/bible/1-maccabees/1#v13)</sup> Then certain of the people were so forward herein, that they went to the king, who gave them licence to do after the ordinances of the heathen:
->
-> <sup>[14](/bible/1-maccabees/1#v14)</sup> Whereupon they built a place of exercise at Jerusalem according to the customs of the heathen:
-
 - Whereupon they built a place of exercise at Jerusalem according to the customs of the heathen: We read the same thing in 2 Maccabees 4. Not according to the custom of their fathers, but the customs of the heathen.
-
-> <sup>[15](/bible/1-maccabees/1#v15)</sup> And made themselves uncircumcised, and forsook the holy covenant, and joined themselves to the heathen, and were sold to do mischief.
 
 - And forsook the holy covenant, and joined themselves to the heathen: They joined themselves to their enemies: the Greeks at this time, the so-called white man today.
 
@@ -348,38 +348,38 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "mental-health"]
 **[Isaiah 28:14-20](/bible/isaiah/28#v14)**  *[[1:25:03](https://www.youtube.com/watch?v=i8lq554yIRU&t=5103s)]*
 
 > <sup>[14](/bible/isaiah/28#v14)</sup> Wherefore hear the word of the Lord, ye scornful men, that rule this people which is in Jerusalem.
+>
+> <sup>[15](/bible/isaiah/28#v15)</sup> Because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves:
+>
+> <sup>[16](/bible/isaiah/28#v16)</sup> Therefore thus saith the Lord God, Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner stone, a sure foundation: he that believeth shall not make haste.
+>
+> <sup>[17](/bible/isaiah/28#v17)</sup> Judgment also will I lay to the line, and righteousness to the plummet: and the hail shall sweep away the refuge of lies, and the waters shall overflow the hiding place.
+>
+> <sup>[18](/bible/isaiah/28#v18)</sup> And your covenant with death shall be disannulled, and your agreement with hell shall not stand; when the overflowing scourge shall pass through, then ye shall be trodden down by it.
+>
+> <sup>[19](/bible/isaiah/28#v19)</sup> From the time that it goeth forth it shall take you: for morning by morning shall it pass over, by day and by night: and it shall be a vexation only to understand the report.
+>
+> <sup>[20](/bible/isaiah/28#v20)</sup> For the bed is shorter than that a man can stretch himself on it: and the covering narrower than that he can wrap himself in it.
 
 - Ye scornful men, that rule this people which is in Jerusalem: Meaning the leaders.
-
-> <sup>[15](/bible/isaiah/28#v15)</sup> Because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves:
 
 - We have made a covenant with death, and with hell are we at agreement: Our leaders, whether you know it or not, have made a covenant with this nation to keep you at the bottom of society. On Clubhouse this last week we ran into pastors, and I asked each one what his sermon was about. Something frivolous, the love of Jesus. I said, you hate your people, man. Your people are hanging from trees and there's no justice, and you're not even talking about it. They stay far away from the topics that pertain to you. They make it about everybody, and when it's about everybody, you end up on the bottom and forgotten.
 
 - When the overflowing scourge shall pass through, it shall not come unto us: When judgment passes through, the leaders say it won't come on us. We joined ourselves to the white man; he's going to protect us.
 
-> <sup>[16](/bible/isaiah/28#v16)</sup> Therefore thus saith the Lord God, Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner stone, a sure foundation: he that believeth shall not make haste.
-
 - Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner stone: Christ.
 
 - He that believeth shall not make haste: He that believes on Christ doesn't make haste. Be patient.
 
-> <sup>[17](/bible/isaiah/28#v17)</sup> Judgment also will I lay to the line, and righteousness to the plummet: and the hail shall sweep away the refuge of lies, and the waters shall overflow the hiding place.
-
 - And the hail shall sweep away the refuge of lies: What is that hail, brothers? You, preaching the word of God, which removes all the lies. Your job is to clean up all the lies, all the BS going on in society. God ordained you to clean it up.
-
-> <sup>[18](/bible/isaiah/28#v18)</sup> And your covenant with death shall be disannulled, and your agreement with hell shall not stand; when the overflowing scourge shall pass through, then ye shall be trodden down by it.
 
 - And your covenant with death shall be disannulled: Your covenant with death, of being at the bottom under this white man, shall be no more. And if that covenant of you being on the bottom is challenged, who's on the front lines to stop that awakening? Your black leaders, your black pastors. Why do you think they won't meet with us to go over these scriptures? They'll meet with other camps to go over stupid stuff, but they won't open a book and read it to you and say, thus saith the Lord. Every prophet said thus saith the Lord, not their own smooth words. That's what they're afraid of.
 
 - Then ye shall be trodden down by it: Judgment is coming, and you're going to be trodden down: you Israelites that join unto the so-called white man and have swayed the multitude of our people to follow this nation or that nation into idolatry.
 
-> <sup>[19](/bible/isaiah/28#v19)</sup> From the time that it goeth forth it shall take you: for morning by morning shall it pass over, by day and by night: and it shall be a vexation only to understand the report.
-
 - For morning by morning shall it pass over, by day and by night: You're going to hear judgment is coming morning by morning, by day and by night. What's supposed to be happening for them to hear it? Y'all out on the streets bringing forth that word: thus saith the Lord, you joined unto the heathen, judgment is coming for your wicked behind. And they're going to hate it.
 
 - And it shall be a vexation only to understand the report: What does that mean? (A captain) When our people in the Christian church hear this truth, the judgment that's coming on Esau, the nations and unbelieving Israelites, it's a vexation to them. They hate to hear those words because they're so indoctrinated with Christianity, and because they're going to understand that they are the devil the Bible speaks of, and they can't escape the judgment unless they repent. Like we read in Deuteronomy 28:20, what Esau has done to us is a vexation to our spirit, and hearing the report is a vexation to them. They're going to understand everything we're saying: damn, it does say that in the Bible; I done messed up.
-
-> <sup>[20](/bible/isaiah/28#v20)</sup> For the bed is shorter than that a man can stretch himself on it: and the covering narrower than that he can wrap himself in it.
 
 - For the bed is shorter than that a man can stretch himself on it: Put a name to the bed. Go back up to verse 15: we have made lies our refuge. The bed represents the lies. (A soldier) The bed is way too small for him to fit on it, because the prophets are going to be preaching it over and over to them on the street. Everybody's going to see how wicked these negro leaders are, and the other nations too. They're not going to be able to be comfortable as long as we're out on the street teaching the word of God. Yes. It's going to be vexing to Esau's spirit and to the wicked of our people just to understand what God is saying.
 
@@ -431,23 +431,23 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "mental-health"]
 
 **[Luke 20:19-20](/bible/luke/20#v19)**  *[[1:59:28](https://www.youtube.com/watch?v=i8lq554yIRU&t=7168s)]*
 
+> <sup>[19](/bible/luke/20#v19)</sup> And the chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: for they perceived that he had spoken this parable against them.
+>
+> <sup>[20](/bible/luke/20#v20)</sup> And they watched him, and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor.
+
 - Watch what happened in the time of Christ.
 
-> <sup>[19](/bible/luke/20#v19)</sup> And the chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: for they perceived that he had spoken this parable against them.
-
 - The chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: The chief priests and the scribes were against Christ, but they feared the people, because if they had put hands on Christ, the people would have put hands on them.
-
-> <sup>[20](/bible/luke/20#v20)</sup> And they watched him, and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor.
 
 - And they watched him, and sent forth spies, which should feign themselves just men: Brothers are going to come in here, and sisters with a purple garment, as spies. They'll say shalom and be in here for a year, two, three, four, but they've got supervisors they have to report back to.
 
 **[Mark 12:13-14](/bible/mark/12#v13)**  *[[2:00:42](https://www.youtube.com/watch?v=i8lq554yIRU&t=7242s)]*
 
 > <sup>[13](/bible/mark/12#v13)</sup> And they send unto him certain of the Pharisees and of the Herodians, to catch him in his words.
+>
+> <sup>[14](/bible/mark/12#v14)</sup> And when they were come, they say unto him, Master, we know that thou art true, and carest for no man: for thou regardest not the person of men, but teachest the way of God in truth: Is it lawful to give tribute to Cesar, or not?
 
 - Certain of the Pharisees and of the Herodians, to catch him in his words: The Herodians we read about earlier. Ain't that what they do to us? In the 2019 blitz, that immaculate destruction of Christianity, every Edomite and every Christian kept asking the same question: so can he get the kingdom too? Are you saying it's just for them? Every one of them tried to catch us in our words. But thank the Lord we had the spirit of the Lord on us and they couldn't catch nothing. We told those evil Christians, thus saith the Lord. That's how you protect yourself.
-
-> <sup>[14](/bible/mark/12#v14)</sup> And when they were come, they say unto him, Master, we know that thou art true, and carest for no man: for thou regardest not the person of men, but teachest the way of God in truth: Is it lawful to give tribute to Cesar, or not?
 
 - Master, we know that thou art true: They're going to do the same thing to us.
 
@@ -459,151 +459,151 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "mental-health"]
 
 **[Acts 6:8-14](/bible/acts/6#v8)**  *[[2:02:51](https://www.youtube.com/watch?v=i8lq554yIRU&t=7371s)]*
 
-- Let's see what our people did to Stephen, because this is coming. Remember, the things that were written aforetime were written for our learning; things are going to repeat themselves.
-
 > <sup>[8](/bible/acts/6#v8)</sup> And Stephen, full of faith and power, did great wonders and miracles among the people.
 >
 > <sup>[9](/bible/acts/6#v9)</sup> Then there arose certain of the synagogue, which is called the synagogue of the Libertines, and Cyrenians, and Alexandrians, and of them of Cilicia and of Asia, disputing with Stephen.
-
-- Disputing with Stephen: IUIC is doing great works, travelling all over the earth waking our people up. You would think other Israelites would be happy for us and praise the Lord that he's using somebody to teach the gospel. But they dispute with us, just like they did with Stephen.
-
+>
 > <sup>[10](/bible/acts/6#v10)</sup> And they were not able to resist the wisdom and the spirit by which he spake.
-
-- And they were not able to resist the wisdom and the spirit by which he spake: Because he had the spirit of the Lord on him.
-
+>
 > <sup>[11](/bible/acts/6#v11)</sup> Then they suborned men, which said, We have heard him speak blasphemous words against Moses, and against God.
-
-- Then they suborned men: (A captain) They basically hired some men to lie against him. These dudes are doing a great job, but it's not us; let's hire some folks to lie on them. Just like the Christians had to lie on us after the 2019 blitz; they told all kinds of lies on social media.
-
+>
 > <sup>[12](/bible/acts/6#v12)</sup> And they stirred up the people, and the elders, and the scribes, and came upon him, and caught him, and brought him to the council,
 >
 > <sup>[13](/bible/acts/6#v13)</sup> And set up false witnesses, which said, This man ceaseth not to speak blasphemous words against this holy place, and the law:
+>
+> <sup>[14](/bible/acts/6#v14)</sup> For we have heard him say, that this Jesus of Nazareth shall destroy this place, and shall change the customs which Moses delivered us.
+
+- Let's see what our people did to Stephen, because this is coming. Remember, the things that were written aforetime were written for our learning; things are going to repeat themselves.
+
+- Disputing with Stephen: IUIC is doing great works, travelling all over the earth waking our people up. You would think other Israelites would be happy for us and praise the Lord that he's using somebody to teach the gospel. But they dispute with us, just like they did with Stephen.
+
+- And they were not able to resist the wisdom and the spirit by which he spake: Because he had the spirit of the Lord on him.
+
+- Then they suborned men: (A captain) They basically hired some men to lie against him. These dudes are doing a great job, but it's not us; let's hire some folks to lie on them. Just like the Christians had to lie on us after the 2019 blitz; they told all kinds of lies on social media.
 
 - And set up false witnesses: That's what they do to us, and it's going to come on a higher level in the future.
-
-> <sup>[14](/bible/acts/6#v14)</sup> For we have heard him say, that this Jesus of Nazareth shall destroy this place, and shall change the customs which Moses delivered us.
 
 - And shall change the customs which Moses delivered us: What did the Pharisees and the scribes want? They wanted to live that dream. Back then it was Rome. Now it's America.
 
 **[Acts 8:1-4](/bible/acts/8#v1)**  *[[2:05:26](https://www.youtube.com/watch?v=i8lq554yIRU&t=7526s)]*
 
 > <sup>[1](/bible/acts/8#v1)</sup> And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judea and Samaria, except the apostles.
+>
+> <sup>[2](/bible/acts/8#v2)</sup> And devout men carried Stephen to his burial, and made great lamentation over him.
+>
+> <sup>[3](/bible/acts/8#v3)</sup> As for Saul, he made havock of the church, entering into every house, and haling men and women committed them to prison.
+>
+> <sup>[4](/bible/acts/8#v4)</sup> Therefore they that were scattered abroad went every where preaching the word.
 
 - And Saul was consenting unto his death: Saul was consenting unto Stephen's death.
 
 - There was a great persecution against the church which was at Jerusalem: Great persecution against the Israelites.
 
-> <sup>[2](/bible/acts/8#v2)</sup> And devout men carried Stephen to his burial, and made great lamentation over him.
->
-> <sup>[3](/bible/acts/8#v3)</sup> As for Saul, he made havock of the church, entering into every house, and haling men and women committed them to prison.
-
 - As for Saul, he made havock of the church, entering into every house: He was destroying brothers and sisters, running into their homes.
-
-> <sup>[4](/bible/acts/8#v4)</sup> Therefore they that were scattered abroad went every where preaching the word.
 
 **[Acts 22:3-5](/bible/acts/22#v3)**  *[[2:06:24](https://www.youtube.com/watch?v=i8lq554yIRU&t=7584s)]*
 
+> <sup>[3](/bible/acts/22#v3)</sup> I am verily a man which am a Jew, born in Tarsus, a city in Cilicia, yet brought up in this city at the feet of Gamaliel, and taught according to the perfect manner of the law of the fathers, and was zealous toward God, as ye all are this day.
+>
+> <sup>[4](/bible/acts/22#v4)</sup> And I persecuted this way unto the death, binding and delivering into prisons both men and women.
+>
+> <sup>[5](/bible/acts/22#v5)</sup> As also the high priest doth bear me witness, and all the estate of the elders: from whom also I received letters unto the brethren, and went to Damascus, to bring them which were there bound unto Jerusalem, for to be punished.
+
 - I'm bringing out Paul as a particular example of us.
 
-> <sup>[3](/bible/acts/22#v3)</sup> I am verily a man which am a Jew, born in Tarsus, a city in Cilicia, yet brought up in this city at the feet of Gamaliel, and taught according to the perfect manner of the law of the fathers, and was zealous toward God, as ye all are this day.
-
 - I am verily a man which am a Jew: Paul is saying he's a Jew, and he's addressing Israel.
-
-> <sup>[4](/bible/acts/22#v4)</sup> And I persecuted this way unto the death, binding and delivering into prisons both men and women.
 
 - And I persecuted this way unto the death: I was killing the prophets of God.
 
 - Binding and delivering into prisons both men and women: Killing them and locking them up.
 
-> <sup>[5](/bible/acts/22#v5)</sup> As also the high priest doth bear me witness, and all the estate of the elders: from whom also I received letters unto the brethren, and went to Damascus, to bring them which were there bound unto Jerusalem, for to be punished.
-
 - As also the high priest doth bear me witness: He had the backing and the authority of the chief priests to do this.
 
 **[Acts 26:9-12](/bible/acts/26#v9)**  *[[2:07:54](https://www.youtube.com/watch?v=i8lq554yIRU&t=7674s)]*
 
+> <sup>[9](/bible/acts/26#v9)</sup> I verily thought with myself, that I ought to do many things contrary to the name of Jesus of Nazareth.
+>
+> <sup>[10](/bible/acts/26#v10)</sup> Which thing I also did in Jerusalem: and many of the saints did I shut up in prison, having received authority from the chief priests; and when they were put to death, I gave my voice against them.
+>
+> <sup>[11](/bible/acts/26#v11)</sup> And I punished them oft in every synagogue, and compelled them to blaspheme; and being exceedingly mad against them, I persecuted them even unto strange cities.
+>
+> <sup>[12](/bible/acts/26#v12)</sup> Whereupon as I went to Damascus with authority and commission from the chief priests,
+
 - Another account, standing before King Agrippa, an Amalekite.
 
-> <sup>[9](/bible/acts/26#v9)</sup> I verily thought with myself, that I ought to do many things contrary to the name of Jesus of Nazareth.
-
 - I verily thought with myself, that I ought to do many things contrary to the name of Jesus of Nazareth: Y'all can't tell me that all of you in this room ain't done and thought the same thing Paul did. It got real quiet in here. Every last one of y'all felt like this at one time: break the law and do whatever the hell you want. We were all living do as thou wilt.
-
-> <sup>[10](/bible/acts/26#v10)</sup> Which thing I also did in Jerusalem: and many of the saints did I shut up in prison, having received authority from the chief priests; and when they were put to death, I gave my voice against them.
 
 - And many of the saints did I shut up in prison: I'm reading this for a reason. Our people outside these doors feel the same way. They don't give a damn whether we're in prison or not, alive or not. Don't get it twisted: you at one time felt the same way. You didn't care whether we lived or died. You didn't even know us.
 
 - And when they were put to death, I gave my voice against them: If you were not in the truth and heard one of us got killed, you'd say, damn, that's crazy. What time's the game tomorrow? That would be it. Not even a thought.
-
-> <sup>[11](/bible/acts/26#v11)</sup> And I punished them oft in every synagogue, and compelled them to blaspheme; and being exceedingly mad against them, I persecuted them even unto strange cities.
->
-> <sup>[12](/bible/acts/26#v12)</sup> Whereupon as I went to Damascus with authority and commission from the chief priests,
 
 - Whereupon as I went to Damascus with authority and commission from the chief priests: Once again, he got his authority from the chief priests.
 
 **[1 Timothy 1:12-15](/bible/1-timothy/1#v12)**  *[[2:10:13](https://www.youtube.com/watch?v=i8lq554yIRU&t=7813s)]*
 
 > <sup>[12](/bible/1-timothy/1#v12)</sup> And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry;
+>
+> <sup>[13](/bible/1-timothy/1#v13)</sup> Who was before a blasphemer, and a persecutor, and injurious: but I obtained mercy, because I did it ignorantly in unbelief.
+>
+> <sup>[14](/bible/1-timothy/1#v14)</sup> And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus.
+>
+> <sup>[15](/bible/1-timothy/1#v15)</sup> This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief.
 
 - For that he counted me faithful, putting me into the ministry: This is what you want to be. You want to be counted faithful.
-
-> <sup>[13](/bible/1-timothy/1#v13)</sup> Who was before a blasphemer, and a persecutor, and injurious: but I obtained mercy, because I did it ignorantly in unbelief.
 
 - Who was before a blasphemer, and a persecutor, and injurious: He was blaspheming, persecuting, and smacking up the Israelites. But he didn't blaspheme the Holy Ghost.
 
 - But I obtained mercy, because I did it ignorantly in unbelief: Even though he killed some of the prophets, locked them up, went into their homes and did evil, Paul still obtained mercy. He came up a Pharisee of Pharisees, raised in the law, but he did not know Christ.
-
-> <sup>[14](/bible/1-timothy/1#v14)</sup> And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus.
->
-> <sup>[15](/bible/1-timothy/1#v15)</sup> This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief.
 
 - That Christ Jesus came into the world to save sinners; of whom I am chief: Paul said, I'm chief. I know sin. But I obtained mercy because I did it ignorantly. So even though you lived a life of sin, the life of the American dream, you can repent from that thing. Where would y'all be if you weren't in the truth right now? Dead or in jail. And if not that, on a Saturday afternoon you'd be recovering from a hangover from the club, a fifth of Jack on the table, checking how much money is in the bank so you can do it all over again tonight, and wake up in the same stupor.
 
 **[Ephesians 6:10-12,19](/bible/ephesians/6#v10)**  *[[2:14:10](https://www.youtube.com/watch?v=i8lq554yIRU&t=8050s)]*
 
 > <sup>[10](/bible/ephesians/6#v10)</sup> Finally, my brethren, be strong in the Lord, and in the power of his might.
-
-- Be strong in the Lord, and in the power of his might: We've got to be strong in Christ and in the power of his might.
-
+>
 > <sup>[11](/bible/ephesians/6#v11)</sup> Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.
 >
 > <sup>[12](/bible/ephesians/6#v12)</sup> For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
+>
+> <sup>[19](/bible/ephesians/6#v19)</sup> And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel,
+
+- Be strong in the Lord, and in the power of his might: We've got to be strong in Christ and in the power of his might.
 
 - For we wrestle not against flesh and blood: As prophets we don't wrestle against flesh and blood, meaning physical.
 
 - Against spiritual wickedness in high places: We're fighting spiritual wickedness: the deep state government, the Illuminati, whatever you want to call it.
-
-> <sup>[19](/bible/ephesians/6#v19)</sup> And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel,
 
 - That I may open my mouth boldly, to make known the mystery of the gospel: Key in on that word: mystery. Can everybody get a mystery? If the gospel is a mystery and people combat and rebut you all the time on the mystery you know, why continue to argue with them about it? Why are you trying to push them to know the mystery? Move the hell on. Everybody don't get a mystery. That's why it's called a mystery.
 
 **[Ephesians 3:3-6](/bible/ephesians/3#v3)**  *[[2:16:11](https://www.youtube.com/watch?v=i8lq554yIRU&t=8171s)]*
 
 > <sup>[3](/bible/ephesians/3#v3)</sup> How that by revelation he made known unto me the mystery; (as I wrote afore in few words,
-
-- How that by revelation he made known unto me the mystery: It's a mystery to understand that Christ came for the Israelites and the Israelites only. It's a mystery to understand that the Gentiles in the New Testament are the northern kingdom of Israel and scattered Israel. Everybody ain't meant to get it, or else it would be written plain.
-
+>
 > <sup>[4](/bible/ephesians/3#v4)</sup> Whereby, when ye read, ye may understand my knowledge in the mystery of Christ)
 >
 > <sup>[5](/bible/ephesians/3#v5)</sup> Which in other ages was not made known unto the sons of men, as it is now revealed unto his holy apostles and prophets by the Spirit;
+>
+> <sup>[6](/bible/ephesians/3#v6)</sup> That the Gentiles should be fellowheirs, and of the same body, and partakers of his promise in Christ by the gospel:
+
+- How that by revelation he made known unto me the mystery: It's a mystery to understand that Christ came for the Israelites and the Israelites only. It's a mystery to understand that the Gentiles in the New Testament are the northern kingdom of Israel and scattered Israel. Everybody ain't meant to get it, or else it would be written plain.
 
 - As it is now revealed unto his holy apostles and prophets by the Spirit: It is made known to his holy apostles and prophets, not to everybody.
-
-> <sup>[6](/bible/ephesians/3#v6)</sup> That the Gentiles should be fellowheirs, and of the same body, and partakers of his promise in Christ by the gospel:
 
 - That the Gentiles should be fellowheirs, and of the same body: It tells you what the mystery is: that the Gentiles, the northern kingdom of Israel, shall be fellowheirs. They're going to get the kingdom too. That's part of the mystery.
 
 **[Job 20:4-6](/bible/job/20#v4)**  *[[2:18:16](https://www.youtube.com/watch?v=i8lq554yIRU&t=8296s)]*
 
-- We're going to wrap up the American dream in Job 20 and read throughout the chapter.
-
 > <sup>[4](/bible/job/20#v4)</sup> Knowest thou not this of old, since man was placed upon earth,
 >
 > <sup>[5](/bible/job/20#v5)</sup> That the triumphing of the wicked is short, and the joy of the hypocrite but for a moment?
+>
+> <sup>[6](/bible/job/20#v6)</sup> Though his excellency mount up to the heavens, and his head reach unto the clouds;
+
+- We're going to wrap up the American dream in Job 20 and read throughout the chapter.
 
 - That the triumphing of the wicked is short: The triumphing of America is but for a time. It seems like a lifetime to us, but in God's time it's short.
 
 - And the joy of the hypocrite but for a moment: The Lord said this thing is just for a moment. In our time it's forever; in the Lord's time it's just a moment.
-
-> <sup>[6](/bible/job/20#v6)</sup> Though his excellency mount up to the heavens, and his head reach unto the clouds;
 
 - Though his excellency mount up to the heavens, and his head reach unto the clouds: What does it mean, his excellency mounts up to the heavens? Isaiah 14:13.
 
@@ -624,42 +624,42 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "mental-health"]
 > <sup>[6](/bible/job/20#v6)</sup> Though his excellency mount up to the heavens, and his head reach unto the clouds;
 >
 > <sup>[7](/bible/job/20#v7)</sup> Yet he shall perish for ever like his own dung: they which have seen him shall say, Where is he?
-
-- Yet he shall perish for ever like his own dung: they which have seen him shall say, Where is he: Where is he?
-
+>
 > <sup>[8](/bible/job/20#v8)</sup> He shall fly away as a dream, and shall not be found: yea, he shall be chased away as a vision of the night.
 >
 > <sup>[9](/bible/job/20#v9)</sup> The eye also which saw him shall see him no more; neither shall his place any more behold him.
-
-- The eye also which saw him shall see him no more: We're not going to see this man on earth no more, y'all. He's going to be out of here. No more lynchings. No more Nolan Wells getting killed, no more Tyler Smiths, no more Sandra Blands, no more George Floyds.
-
+>
 > <sup>[10](/bible/job/20#v10)</sup> His children shall seek to please the poor, and his hands shall restore their goods.
-
-- His children shall seek to please the poor, and his hands shall restore their goods: You can read about that in Isaiah 60:10.
-
+>
 > <sup>[11](/bible/job/20#v11)</sup> His bones are full of the sin of his youth, which shall lie down with him in the dust.
-
-- His bones are full of the sin of his youth, which shall lie down with him in the dust: This man's bones are full of the sins of his youth, when he was killing, murdering and oppressing.
-
+>
 > <sup>[12](/bible/job/20#v12)</sup> Though wickedness be sweet in his mouth, though he hide it under his tongue;
 >
 > <sup>[13](/bible/job/20#v13)</sup> Though he spare it, and forsake it not; but keep it still within his mouth:
-
-- But keep it still within his mouth: Still within his spirit.
-
+>
 > <sup>[14](/bible/job/20#v14)</sup> Yet his meat in his bowels is turned, it is the gall of asps within him.
 >
 > <sup>[15](/bible/job/20#v15)</sup> He hath swallowed down riches, and he shall vomit them up again: God shall cast them out of his belly.
-
-- He hath swallowed down riches, and he shall vomit them up again: He's colonized everybody on the earth, taken everybody's resources: gold, silver, bauxite, iron, aluminium. And he's going to give them back up. Those things have to go back to the lands they belong to, not to Esau.
-
+>
 > <sup>[16](/bible/job/20#v16)</sup> He shall suck the poison of asps: the viper’s tongue shall slay him.
 >
 > <sup>[17](/bible/job/20#v17)</sup> He shall not see the rivers, the floods, the brooks of honey and butter.
+>
+> <sup>[18](/bible/job/20#v18)</sup> That which he laboured for shall he restore, and shall not swallow it down: according to his substance shall the restitution be, and he shall not rejoice therein.
+
+- Yet he shall perish for ever like his own dung: they which have seen him shall say, Where is he: Where is he?
+
+- The eye also which saw him shall see him no more: We're not going to see this man on earth no more, y'all. He's going to be out of here. No more lynchings. No more Nolan Wells getting killed, no more Tyler Smiths, no more Sandra Blands, no more George Floyds.
+
+- His children shall seek to please the poor, and his hands shall restore their goods: You can read about that in Isaiah 60:10.
+
+- His bones are full of the sin of his youth, which shall lie down with him in the dust: This man's bones are full of the sins of his youth, when he was killing, murdering and oppressing.
+
+- But keep it still within his mouth: Still within his spirit.
+
+- He hath swallowed down riches, and he shall vomit them up again: He's colonized everybody on the earth, taken everybody's resources: gold, silver, bauxite, iron, aluminium. And he's going to give them back up. Those things have to go back to the lands they belong to, not to Esau.
 
 - He shall not see the rivers, the floods, the brooks of honey and butter: What do y'all think that means? No kingdom. You're not getting no kingdom.
-
-> <sup>[18](/bible/job/20#v18)</sup> That which he laboured for shall he restore, and shall not swallow it down: according to his substance shall the restitution be, and he shall not rejoice therein.
 
 - That which he laboured for shall he restore, and shall not swallow it down: That which he laboured for, colonized and went to war for, he shall restore: all that he stole and exploited. And he's not going to benefit.
 
@@ -672,22 +672,22 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "mental-health"]
 **[Job 20:19-23](/bible/job/20#v19)**  *[[2:24:25](https://www.youtube.com/watch?v=i8lq554yIRU&t=8665s)]*
 
 > <sup>[19](/bible/job/20#v19)</sup> Because he hath oppressed and hath forsaken the poor; because he hath violently taken away an house which he builded not;
+>
+> <sup>[20](/bible/job/20#v20)</sup> Surely he shall not feel quietness in his belly, he shall not save of that which he desired.
+>
+> <sup>[21](/bible/job/20#v21)</sup> There shall none of his meat be left; therefore shall no man look for his goods.
+>
+> <sup>[22](/bible/job/20#v22)</sup> In the fulness of his sufficiency he shall be in straits: every hand of the wicked shall come upon him.
+>
+> <sup>[23](/bible/job/20#v23)</sup> When he is about to fill his belly, God shall cast the fury of his wrath upon him, and shall rain it upon him while he is eating.
 
 - Because he hath oppressed and hath forsaken the poor: That's why this has to happen.
 
 - Because he hath violently taken away an house which he builded not: Esau colonized the whole western hemisphere, not just America: a whole side of the earth that he did not build.
 
-> <sup>[20](/bible/job/20#v20)</sup> Surely he shall not feel quietness in his belly, he shall not save of that which he desired.
->
-> <sup>[21](/bible/job/20#v21)</sup> There shall none of his meat be left; therefore shall no man look for his goods.
-
 - Therefore shall no man look for his goods: No one is going to look after your well-being in that day.
 
-> <sup>[22](/bible/job/20#v22)</sup> In the fulness of his sufficiency he shall be in straits: every hand of the wicked shall come upon him.
-
 - Every hand of the wicked shall come upon him: NATO. NATO is coming for you.
-
-> <sup>[23](/bible/job/20#v23)</sup> When he is about to fill his belly, God shall cast the fury of his wrath upon him, and shall rain it upon him while he is eating.
 
 - God shall cast the fury of his wrath upon him: That's for all of y'all trying to live the American dream. Enjoy. Have at it. But in that day, watch this.
 
@@ -706,46 +706,46 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "mental-health"]
 > <sup>[23](/bible/job/20#v23)</sup> When he is about to fill his belly, God shall cast the fury of his wrath upon him, and shall rain it upon him while he is eating.
 >
 > <sup>[24](/bible/job/20#v24)</sup> He shall flee from the iron weapon, and the bow of steel shall strike him through.
+>
+> <sup>[25](/bible/job/20#v25)</sup> It is drawn, and cometh out of the body; yea, the glittering sword cometh out of his gall: terrors are upon him.
+>
+> <sup>[26](/bible/job/20#v26)</sup> All darkness shall be hid in his secret places: a fire not blown shall consume him; it shall go ill with him that is left in his tabernacle.
+>
+> <sup>[27](/bible/job/20#v27)</sup> The heaven shall reveal his iniquity; and the earth shall rise up against him.
+>
+> <sup>[28](/bible/job/20#v28)</sup> The increase of his house shall depart, and his goods shall flow away in the day of his wrath.
+>
+> <sup>[29](/bible/job/20#v29)</sup> This is the portion of a wicked man from God, and the heritage appointed unto him by God.
 
 - He shall flee from the iron weapon: The iron weapon is an ICBM missile.
-
-> <sup>[25](/bible/job/20#v25)</sup> It is drawn, and cometh out of the body; yea, the glittering sword cometh out of his gall: terrors are upon him.
 
 - And the bow of steel shall strike him through. It is drawn, and cometh out of the body: That's the silo.
 
 - Yea, the glittering sword cometh out of his gall: The missile. Terrors are upon this man in that day.
 
-> <sup>[26](/bible/job/20#v26)</sup> All darkness shall be hid in his secret places: a fire not blown shall consume him; it shall go ill with him that is left in his tabernacle.
-
 - All darkness shall be hid in his secret places: In your bunkers.
 
 - It shall go ill with him that is left in his tabernacle: His tabernacle, which is America.
 
-> <sup>[27](/bible/job/20#v27)</sup> The heaven shall reveal his iniquity; and the earth shall rise up against him.
-
 - And the earth shall rise up against him: All men are going to be against this man.
 
-> <sup>[28](/bible/job/20#v28)</sup> The increase of his house shall depart, and his goods shall flow away in the day of his wrath.
-
 - And his goods shall flow away in the day of his wrath: In the day of the Lord's wrath, no more goods for America.
-
-> <sup>[29](/bible/job/20#v29)</sup> This is the portion of a wicked man from God, and the heritage appointed unto him by God.
 
 - This is the portion of a wicked man from God: The portion of a wicked race from God, and the heritage appointed unto him by God.
 
 **[Job 20:6-8](/bible/job/20#v6)**  *[[2:28:48](https://www.youtube.com/watch?v=i8lq554yIRU&t=8928s)]*
 
-- Remember now: the American dream, the perpetual nightmare.
-
 > <sup>[6](/bible/job/20#v6)</sup> Though his excellency mount up to the heavens, and his head reach unto the clouds;
+>
+> <sup>[7](/bible/job/20#v7)</sup> Yet he shall perish for ever like his own dung: they which have seen him shall say, Where is he?
+>
+> <sup>[8](/bible/job/20#v8)</sup> He shall fly away as a dream, and shall not be found: yea, he shall be chased away as a vision of the night.
+
+- Remember now: the American dream, the perpetual nightmare.
 
 - Though his excellency mount up to the heavens, and his head reach unto the clouds: Esau is high and puffed up; he's proud.
 
-> <sup>[7](/bible/job/20#v7)</sup> Yet he shall perish for ever like his own dung: they which have seen him shall say, Where is he?
-
 - They which have seen him shall say, Where is he: What happened to Esau?
-
-> <sup>[8](/bible/job/20#v8)</sup> He shall fly away as a dream, and shall not be found: yea, he shall be chased away as a vision of the night.
 
 - He shall fly away as a dream: What did the Bible say? He shall fly away as a dream, and shall not be found.
 

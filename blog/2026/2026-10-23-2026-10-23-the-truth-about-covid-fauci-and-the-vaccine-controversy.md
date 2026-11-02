@@ -55,21 +55,21 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "media", "pride", "the-americas", "
 
 **[Genesis 27:38-40](/bible/genesis/27#v38)**  *[[19:48](https://www.youtube.com/watch?v=h3WA9e_MPWI&t=1188s)]*
 
-- Esau ain't never been about peace. You Christians are not reading the Bible: when he got his blessing, Isaac blessed him with the art of war. He can't stop warring. You talk about world peace and forget who is in rulership. This guy loves bloodshed; he loves the taste of blood.
-
 > <sup>[38](/bible/genesis/27#v38)</sup> And Esau said unto his father, Hast thou but one blessing, my father? bless me, even me also, O my father. And Esau lifted up his voice, and wept.
+>
+> <sup>[39](/bible/genesis/27#v39)</sup> And Isaac his father answered and said unto him, Behold, thy dwelling shall be the fatness of the earth, and of the dew of heaven from above;
+>
+> <sup>[40](/bible/genesis/27#v40)</sup> And by thy sword shalt thou live, and shalt serve thy brother; and it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck.
+
+- Esau ain't never been about peace. You Christians are not reading the Bible: when he got his blessing, Isaac blessed him with the art of war. He can't stop warring. You talk about world peace and forget who is in rulership. This guy loves bloodshed; he loves the taste of blood.
 
 - Hast thou but one blessing, my father?: Esau comes crying to his father, because Rebekah sent Jacob in with the hairy skins and his father thought it was Esau. That is what the Lord wanted: Jacob got the blessing.
 
 - And Esau lifted up his voice, and wept: He cried like a baby.
 
-> <sup>[39](/bible/genesis/27#v39)</sup> And Isaac his father answered and said unto him, Behold, thy dwelling shall be the fatness of the earth, and of the dew of heaven from above;
-
 - Thy dwelling shall be the fatness of the earth: Your blessing is going to be the fatness of the earth; you are going to have the best parts.
 
 - And of the dew of heaven from above: And you are going to be everywhere.
-
-> <sup>[40](/bible/genesis/27#v40)</sup> And by thy sword shalt thou live, and shalt serve thy brother; and it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck.
 
 - And by thy sword shalt thou live: He is going to get these places by the sword.
 
@@ -96,15 +96,15 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "media", "pride", "the-americas", "
 
 **[1 Esdras 5:72-73](/bible/1-esdras/5#v72)**  *[[23:30](https://www.youtube.com/watch?v=h3WA9e_MPWI&t=1410s)]*
 
-- Everything listed on that image is what they are doing to us now. In context they were hindering us from rebuilding the temple; now they are trying to hinder us from rebuilding the nation of Israel with Christ our king.
-
 > <sup>[72](/bible/1-esdras/5#v72)</sup> But the heathen of the land lying heavy upon the inhabitants of Judea, and holding them strait, hindered their building;
+>
+> <sup>[73](/bible/1-esdras/5#v73)</sup> And by their secret plots, and popular persuasions and commotions, they hindered the finishing of the building all the time that king Cyrus lived: so they were hindered from building for the space of two years, until the reign of Darius.
+
+- Everything listed on that image is what they are doing to us now. In context they were hindering us from rebuilding the temple; now they are trying to hinder us from rebuilding the nation of Israel with Christ our king.
 
 - But the heathen of the land lying heavy upon the inhabitants of Judea: That is how they lie heavily upon us: through propaganda, through censorship, through war, through medicine and health care.
 
 - Hindered their building: They are trying to hinder us from becoming a nation that keeps God's laws, statutes and commandments, with Jesus Christ the black Messiah as our king.
-
-> <sup>[73](/bible/1-esdras/5#v73)</sup> And by their secret plots, and popular persuasions and commotions, they hindered the finishing of the building all the time that king Cyrus lived: so they were hindered from building for the space of two years, until the reign of Darius.
 
 - And by their secret plots: That is why they have those think tanks and those secret meetings.
 
@@ -113,31 +113,31 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "media", "pride", "the-americas", "
 
 **[Psalms 64:2-6](/bible/psalms/64#v2)**  *[[24:58](https://www.youtube.com/watch?v=h3WA9e_MPWI&t=1498s)]*
 
-- It is a fixed fight, and the Lord is going to have the last say: vengeance is mine, saith the Lord.
-
 > <sup>[2](/bible/psalms/64#v2)</sup> Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:
+>
+> <sup>[3](/bible/psalms/64#v3)</sup> Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:
+>
+> <sup>[4](/bible/psalms/64#v4)</sup> That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.
+>
+> <sup>[5](/bible/psalms/64#v5)</sup> They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?
+>
+> <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
+
+- It is a fixed fight, and the Lord is going to have the last say: vengeance is mine, saith the Lord.
 
 - Hide me from the secret counsel of the wicked: This is David. When we keep these commandments we stay hid in this Bible.
 
 - From the insurrection of the workers of iniquity: All that we saw on the image is Esau and his works of iniquity to keep our people in sin.
 
-> <sup>[3](/bible/psalms/64#v3)</sup> Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:
-
 - Even bitter words: They are always talking crap about the Israelites.
 
-> <sup>[4](/bible/psalms/64#v4)</sup> That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.
-
 - That they may shoot in secret at the perfect: The perfect are the twelve tribes of Israel. All that media and propaganda is always trying to make us look bad; they are shooting at the perfect in secret.
-
-> <sup>[5](/bible/psalms/64#v5)</sup> They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?
 
 - They encourage themselves in an evil matter: That is why Esau is the child of Satan. COVID-19 and that vaccine are Esau encouraging himself in an evil matter, because he wants to kill off the Israelites.
 
 - They commune of laying snares privily: They are always placing traps for our young brothers and sisters: to abort their babies, to go to jail. The Julio Foolio case: no death penalty, because they want that sweat equity. He will die known by the number on his jumpsuit, and they will get every bit of work out of him. That is what Esau wants.
 
 - They say, Who shall see them?: Because it is spiritual wickedness in high places, they think nobody can see them, nobody knows the evil they are doing.
-
-> <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
 
 - They search out iniquities: Esau knows how to keep our people in sin. They know that if we are keeping the commandments they have to leave us alone, but if we are not, they can come and fight against us. That is why they push sin in our community. Sin is our kryptonite.
 

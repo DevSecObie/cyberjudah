@@ -25,10 +25,10 @@ tags: ["IUIC in the ClassRoom", "captivity", "egypt", "the-law"]
 **[Psalms 147:19-20](/bible/psalms/147#v19)**  *[[0:52](https://www.youtube.com/watch?v=IwRVc_c3od8&t=52s)]*
 
 > <sup>[19](/bible/psalms/147#v19)</sup> He sheweth his word unto Jacob, his statutes and his judgments unto Israel.
+>
+> <sup>[20](/bible/psalms/147#v20)</sup> He hath not dealt so with any nation: and as for his judgments, they have not known them. Praise ye the Lord.
 
 - He sheweth his word unto Jacob, his statutes and his judgments unto Israel: God says the Bible is for these people on this side, the chosen people of God, the Israelites.
-
-> <sup>[20](/bible/psalms/147#v20)</sup> He hath not dealt so with any nation: and as for his judgments, they have not known them. Praise ye the Lord.
 
 - He hath not dealt so with any nation: and as for his judgments, they have not known them: Nobody has known God's judgments but us. That is why we are out here celebrating festivals like this: because we are destroyed and have lost our culture. Now we claim Jamaican, now we claim Caribbean, but God calls you Israel. That is not our culture.
 
@@ -60,14 +60,14 @@ tags: ["IUIC in the ClassRoom", "captivity", "egypt", "the-law"]
 **[Acts 5:29-31](/bible/acts/5#v29)**  *[[6:38](https://www.youtube.com/watch?v=IwRVc_c3od8&t=398s)]*
 
 > <sup>[29](/bible/acts/5#v29)</sup> Then Peter and the other apostles answered and said, We ought to obey God rather than men.
+>
+> <sup>[30](/bible/acts/5#v30)</sup> The God of our fathers raised up Jesus, whom ye slew and hanged on a tree.
+>
+> <sup>[31](/bible/acts/5#v31)</sup> Him hath God exalted with his right hand to be a Prince and a Saviour, for to give repentance to Israel, and forgiveness of sins.
 
 - We ought to obey God rather than men: Our people don't obey God because we don't even know how. The instruction he gave us is to spread the gospel, to get others to spread it and to gather our people, the Israelites. How can you spread the gospel if you don't know who you are, or what the gospel is?
 
-> <sup>[30](/bible/acts/5#v30)</sup> The God of our fathers raised up Jesus, whom ye slew and hanged on a tree.
-
 - The God of our fathers raised up Jesus, whom ye slew and hanged on a tree: Our ancestors knew Christ died on the cross for us.
-
-> <sup>[31](/bible/acts/5#v31)</sup> Him hath God exalted with his right hand to be a Prince and a Saviour, for to give repentance to Israel, and forgiveness of sins.
 
 - For to give repentance to Israel, and forgiveness of sins: Jesus Christ died for these people on this side. That is what we spread when we push the gospel: repentance and forgiveness of sins through Jesus Christ, the black Messiah. He didn't die on that cross so you could walk around with a tattoo.
 
