@@ -11,6 +11,7 @@ the channel listing and transcripts from transcriptAPI instead.
 """
 
 import argparse
+from collections import Counter
 import glob
 import json
 import os
@@ -422,6 +423,7 @@ def main():
     raw = os.environ.get("HARVEST_RAW_DIR", os.path.join(ROOT, ".harvest-raw"))
     os.makedirs(raw, exist_ok=True)
     got = nosub = failed = 0
+    broadcast_misses = Counter()  # why a class's broadcast start was not recorded
 
     for i in range(0, len(todo), a.batch):
         batch = todo[i:i + a.batch]
@@ -550,7 +552,7 @@ def main():
                     if a.feed == "classes":
                         with open(os.path.join(tdir, f"{vid}.json")) as transcript:
                             archived = json.load(transcript)
-                        record_broadcast(ROOT, vid, archived.get("date"))
+                        record_broadcast(ROOT, vid, archived.get("date"), broadcast_misses)
                     if file_date is None and duration_hint and duration_hint not in ("NA", ""):
                         file_duration = duration_hint
                     with open(meta_all, "a") as mf:
@@ -568,7 +570,7 @@ def main():
 
     if a.feed == "classes":
         since = (datetime.now(timezone.utc) - timedelta(days=60)).date().isoformat()
-        filled = backfill_broadcasts(ROOT, tdir, since)
+        filled = backfill_broadcasts(ROOT, tdir, since, reasons=broadcast_misses)
         if filled:
             print(f"broadcast starts recorded for {len(filled)} dated classes: {' '.join(filled)}", flush=True)
             if a.push:

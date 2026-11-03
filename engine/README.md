@@ -177,7 +177,11 @@ checked on 2026-10-08 UTC. Each source is `https://www.youtube.com/watch?v=<vide
 The stored `date` retains the class's existing calendar day even when a broadcast
 crosses midnight UTC. Missing timestamps are left unknown.
 
-The transcript harvester records the same metadata as new transcripts arrive.
-A failed metadata lookup does not block transcript ingestion or invent a time.
+The transcript harvester records the same metadata as new transcripts arrive,
+from the watch page and then from yt-dlp. A failed metadata lookup does not block
+transcript ingestion or invent a time, but it is logged with its reason and
+counted at the end of the run. The manual "Backfill class broadcast starts"
+workflow (or `python3 scripts/history/broadcasts.py --since YYYY-MM-DD --tries N`)
+fills in older classes.
 Consumers can show newest dates first and sort each date by ascending
 `broadcastAt`; unavailable metadata must not hide the class or its notes.
