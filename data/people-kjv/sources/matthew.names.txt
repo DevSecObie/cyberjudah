@@ -1,6 +1,6 @@
 # Matthew. key | Name | forms | verses | type | description
 # The generation of Jesus Christ (1:1-17)
-jesus | Jesus | Jesus;Christ;Emmanuel;Nazarene | * | M | "Jesus Christ, the son of David, the son of Abraham"; the son of Joseph and Mary, born in Bethlehem of Judea: "Is not this the carpenter's son? is not his mother called Mary? and his brethren, James, and Joses, and Simon, and Judas? And his sisters, are they not all with us?"; "Thou art the Christ, the Son of the living God"; crucified under Pontius Pilate, and risen from the dead (Matthew 1:1, 1:16, 2:1, 13:55-56, 16:16, 27:2, 27:35, 28:6)
+jesus | Jesus Christ | Jesus;Christ;Emmanuel;Nazarene | * | M | "Jesus Christ, the son of David, the son of Abraham"; the son of Joseph and Mary, born in Bethlehem of Judea: "Is not this the carpenter's son? is not his mother called Mary? and his brethren, James, and Joses, and Simon, and Judas? And his sisters, are they not all with us?"; "Thou art the Christ, the Son of the living God"; crucified under Pontius Pilate, and risen from the dead (Matthew 1:1, 1:16, 2:1, 13:55-56, 16:16, 27:2, 27:35, 28:6)
 david | | David | * | + |
 abraham | | Abraham | * | + |
 isaac | | Isaac | * | + |
