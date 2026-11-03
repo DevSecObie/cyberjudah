@@ -70,7 +70,7 @@ jobs:
 
   branches:
     if: >-
-      github.event_name == 'schedule' ||
+      (github.event_name == 'schedule' && github.event.schedule == '7 12 * * *') ||
       (github.event_name == 'workflow_dispatch' && inputs.task == 'branches')
     runs-on: ubuntu-latest
     timeout-minutes: 20
@@ -95,7 +95,7 @@ jobs:
     needs: [branches]
     if: >-
       ${{ !cancelled() && (
-      github.event_name == 'schedule' ||
+      (github.event_name == 'schedule' && github.event.schedule == '7 12 * * *') ||
       (github.event_name == 'workflow_dispatch' && inputs.task == 'health') ||
       (github.event_name == 'workflow_run' && github.event.workflow_run.event != 'pull_request')) }}
     runs-on: ubuntu-latest
