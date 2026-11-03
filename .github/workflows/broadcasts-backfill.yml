@@ -35,8 +35,9 @@ jobs:
         with:
           fetch-depth: 1
           ref: main
+          persist-credentials: false
 
-      - run: python3 -m pip install --upgrade "yt-dlp[default]"
+      - run: python3 -m pip install "yt-dlp[default]==2026.10.26"
 
       - name: Look up missing broadcast starts
         env:
