@@ -38,6 +38,7 @@ concurrency:
 jobs:
   draft:
     runs-on: ubuntu-latest
+    environment: automation
     timeout-minutes: 360
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262  # v4.4.0
