@@ -105,12 +105,17 @@ def read_names(book, VERSES, recs, errs):
             if (v, w) not in cover: errs.append(f'{book} names: {w} in {v} belongs to no record')
 
 
+# A record whose shown name changed keeps the id it was built with, so links, portraits and
+# saved studies that use the id still work. Jesus is shown as "Jesus Christ" (Obie, 2026-11-03).
+ID_NAMES = {'jesus': 'Jesus'}
+
+
 def make_ids(recs):
     ids, used = {}, collections.Counter()
     for k, r in sorted(recs.items(), key=lambda kr: vkey(kr[1]['verses'][0]) if kr[1]['verses'] else (0, 0, 0)):
         if not r['verses']: continue
         b, c, v = r['verses'][0].split('/')
-        base = re.sub(r'[^a-z0-9]+', '-', r['name'].lower()).strip('-') + f'-{ABBR[b]}-{c}-{v}'
+        base = re.sub(r'[^a-z0-9]+', '-', ID_NAMES.get(k, r['name']).lower()).strip('-') + f'-{ABBR[b]}-{c}-{v}'
         used[base] += 1
         ids[k] = base if used[base] == 1 else base + 'abcdefgh'[used[base] - 1]
     return ids
