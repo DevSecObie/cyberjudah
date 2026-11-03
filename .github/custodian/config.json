@@ -25,6 +25,10 @@
       "url": "https://data.cyberjudah.io/pointer.json"
     }
   ],
+  "release": {
+    "workflow": "data.yml",
+    "branch": "main"
+  },
   "watch_workflows": [
     {
       "name": "Data set publish (data.cyberjudah.io)",
