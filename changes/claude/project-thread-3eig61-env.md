@@ -1,0 +1,1 @@
+- The "Backfill class broadcast starts" workflow runs in the automation environment, like the other jobs that read secrets since #801, so it can read YOUTUBE_COOKIES.
