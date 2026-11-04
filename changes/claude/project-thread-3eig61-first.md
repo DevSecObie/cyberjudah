@@ -1,0 +1,4 @@
+- Bishop and Deacon classes first.
+  - Hourly harvest: before the channel run, it searches the next ten channels in the queue for "bishop" and "deacon" (yt-dlp, free) and fetches up to 30 of those classes from each. Only channels the queue will harvest anyway; classes already in the vault are skipped, so no credit is spent twice. A search run never marks a channel finished and skips the broadcast backfill.
+  - Within any run, videos whose title names a Bishop or a Deacon (or Elder Nathanyel) are fetched before the rest.
+  - `scripts/notes/queue.py backlog` lists every harvested class without a note, Bishops first, then Deacons, Captains, the rest, newest first within each (`--rank Bishop,Deacon`, `--limit N`, `--min-minutes`). `queue.py plan` keeps the same order.
