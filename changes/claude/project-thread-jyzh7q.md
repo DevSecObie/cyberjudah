@@ -227,3 +227,8 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 - Ephesians 5:1 (2024-02-08, host heard as "Captain ARB", left blank), Philippians 4:1 (2024-02-06, Captain Matthew, as he names himself), Hebrews 10:1 (2024-02-05, Captain Azariah), 1 Timothy 6:4 (2024-01-31, host heard as "Captain Madiz", left blank), Philippians 3:1 (2024-01-22, Captain Matthew) and Hebrews 9:15 (2024-01-18, Captain Azariah).
 - These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
+
+## Batch 39
+
+- Jeremiah 13:1 (2024-01-17, Captain Immanuel of IUIC Arkansas), 2 Esdras 7:46 (2024-01-16, host never names himself, left blank), Philippians 2:1 (2024-01-15, Captain Matthew, as he names himself), Ephesians 4:24 (2024-01-11, host heard as "Captain theed", left blank), Daniel 9:1 (2024-01-10, Zakai) and 1 Timothy 6:1 (2024-01-08, host says only "Captain M", left blank).
+- These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
