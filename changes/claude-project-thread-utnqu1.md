@@ -1,6 +1,6 @@
 # 4 Chapters a Day notes for the chapters that had none
 
-Obie (2026-10-31): "Create notes for the missing, and use the precept pass data for the
+2026-10-31: "Create notes for the missing, and use the precept pass data for the
 breakdowns in the same format as the other 4 chapters a day notes." The IUIC 4 Chapters a Day
 channel's sessions for these days read the chapters straight through with no breakdown, so the
 notes come from the precept passes.

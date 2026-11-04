@@ -3,7 +3,7 @@
 The People relationships now follow the King James text. Family links that the KJV does not state were taken out of `data/people/people.json` (120 links, both sides of each). Matthew 1:15's "Matthan begat Jacob" now reads as written.
 
 ## Why
-Obie asked that the relations follow the KJV 1611 Bible and its lines. The family links come from STEPBible's TIPNR. TIPNR fills some gaps from tradition and from scholars' guesses, such as Naamah as Noah's wife or Zeresh as the mother of Haman's ten sons. The app then showed those guesses as Bible facts on each person's Relationships graph.
+The relations follow the KJV 1611 Bible and its lines. The family links come from STEPBible's TIPNR. TIPNR fills some gaps from tradition and from scholars' guesses, such as Naamah as Noah's wife or Zeresh as the mother of Haman's ten sons. The app then showed those guesses as Bible facts on each person's Relationships graph.
 
 ## How it was checked
 Every one of the 4,790 links in the catalog was checked against the KJV text in `data/bible/`:
@@ -62,7 +62,7 @@ A link stays when the KJV states it, or when it follows from what the KJV states
   - Lot's daughters as his "wives".
   - Jerimoth as one of David's sons born of the Jerusalem wives.
 
-## Left for the owner
+## Left open
 These records join two or more KJV names into one person: Abiel with Jehiel and Ner; Jeaterai with Ethni; Jahath with Jehiel. The links inside each record follow from that joining. Splitting them is a separate change. The daughter of Herodias is named "Salome" only outside the KJV, and her record carries no name.
 
 `node engine/check.mjs` (with `PEOPLE_BASE` set to main) passes, and so do `node --test engine/people-*.test.mjs` (28 tests).

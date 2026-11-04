@@ -3,12 +3,12 @@
 Corrects 52 copying errors in the Apocrypha text, starting with 2 Esdras 2:18, which read "Esau and Jeremy" where the King James text has "Esay and Jeremy" (Esay is Isaiah).
 
 ## Why
-The Bible text in `data/bible/` was imported in August 2026 from Obie's Obsidian vault (`scripts/import_bible.py`, since removed). The vault's Apocrypha carried errors that look like OCR or retyping slips: dropped words, doubled words ("the the"), and swapped letters ("Godly" for "ungodly", "Sake" for "Make", "car" for "ear", "Isreal"). A class already caught one of them: in elNEB8tpb-c the teacher says "on the computer it'll say Esau, but that's wrong. It's Isaiah."
+The Bible text in `data/bible/` was imported in August 2026 from an Obsidian vault (`scripts/import_bible.py`, since removed). The vault's Apocrypha carried errors that look like OCR or retyping slips: dropped words, doubled words ("the the"), and swapped letters ("Godly" for "ungodly", "Sake" for "Make", "car" for "ear", "Isreal"). A class already caught one of them: in elNEB8tpb-c the teacher says "on the computer it'll say Esau, but that's wrong. It's Isaiah."
 
 ## How it was checked
 Every verse of all 80 books was compared word by word with the eBible.org King James Version with Apocrypha (USFM edition of 2009-10-14, the 1769 standard text). The 66 books show no wording errors, only spelling style (Judea/Judaea, Cesar/Caesar). In the Apocrypha, each verse that differed was then checked against a transcription of the 1611 printing (github.com/aruljohn/Bible-kjv-1611). A verse was changed only where the 1611 reading agrees with the correction. 2 Esdras 2:18 was also checked against the photographed 1611 Barker printing at the University of Pennsylvania (archive.org item Bible1611, image n1025): "my seruants Esay and Ieremie".
 
-Left unchanged on purpose: places where the app already matches 1611 and the 1769 file has its own typo, Judith 13:2 "lying along" (1611 has it), Sirach 33:16 "trod" (1611 "filled", 1769 "tred": asked Obie), 2 Maccabees 9:5 "or as soon as" (1611 "for as soone", but both 1769 copies say "or": asked Obie), and the Prayer of Manasseh's verse numbering (14 verses here, 15 in eBible).
+Left unchanged on purpose: places where the app already matches 1611 and the 1769 file has its own typo, Judith 13:2 "lying along" (1611 has it), Sirach 33:16 "trod" (1611 "filled", 1769 "tred": open question), 2 Maccabees 9:5 "or as soon as" (1611 "for as soone", but both 1769 copies say "or": open question), and the Prayer of Manasseh's verse numbering (14 verses here, 15 in eBible).
 
 ## What
 - `data/bible/*.json`: 52 corrections in 11 books (table below).

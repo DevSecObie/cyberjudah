@@ -1,9 +1,9 @@
 # claude/project-thread-rwlz2m-lineage
 
-The Apocrypha's people now join the Bible's family lines. A person can carry a **line**: a forefather the KJV names without the generations between, with the verses that say it. Mattathias now goes back to Levi, as Obie traced it: Mattathias, John, Simeon, "a priest of the sons of Joarib" (1 Maccabees 2:1), Jehoiarib of the sons of Aaron (1 Chronicles 24:1, 7, 19), Aaron, Amram, Kohath, Levi.
+The Apocrypha's people now join the Bible's family lines. A person can carry a **line**: a forefather the KJV names without the generations between, with the verses that say it. Mattathias now goes back to Levi, traced this way: Mattathias, John, Simeon, "a priest of the sons of Joarib" (1 Maccabees 2:1), Jehoiarib of the sons of Aaron (1 Chronicles 24:1, 7, 19), Aaron, Amram, Kohath, Levi.
 
 ## Why
-Obie asked that the people of the Apocrypha be lined up with the whole Bible, and that other missing links be found while searching the scriptures. The catalog only had father, mother, brother, sister, husband, wife and child. 1 Maccabees 2:1 names Joarib as the house Mattathias came from, not as his father. A line holds that link without inventing anyone between them, which the People rules forbid.
+The people of the Apocrypha are lined up with the whole Bible, and other missing links are found while searching the scriptures. The catalog only had father, mother, brother, sister, husband, wife and child. 1 Maccabees 2:1 names Joarib as the house Mattathias came from, not as his father. A line holds that link without inventing anyone between them, which the People rules forbid.
 
 ## What changed
 - `data/people/people.json`:

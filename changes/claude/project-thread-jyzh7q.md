@@ -4,9 +4,9 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 ## Captain Gedaliah's spelling
 
-- Obie: "It's Captain Gedaliah". `data/names.tsv` now spells him Gedaliah (Gadaliah, Gdaliah, "Gad Elijah" and "Ghallayia" are its variants), and the five notes that had Gadaliah are respelled.
+- "It's Captain Gedaliah". `data/names.tsv` now spells him Gedaliah (Gadaliah, Gdaliah, "Gad Elijah" and "Ghallayia" are its variants), and the five notes that had Gadaliah are respelled.
 - The 2 Corinthians 12:11 lesson (2026-05-26) is his: he introduces himself as "Ghallayia", and the next lesson says "Captain Gad Elijah did 2 Corinthians the last chapter". It was filed under Captain Galayah; it now names Captain Gedaliah.
-- Obie: Captain Galayah and Captain Gedaliah are the same man. The Galayah row is folded into Gedaliah (Galayah, Galiah, Galia, Galai and Gallayia are now variants), the 16 notes that credited Captain Galayah now say Captain Gedaliah, and *Trauma Letters: Healing the Child Within* in `data/books.tsv` is now listed under Captain Gedaliah.
+- Captain Galayah and Captain Gedaliah are the same man. The Galayah row is folded into Gedaliah (Galayah, Galiah, Galia, Galai and Gallayia are now variants), the 16 notes that credited Captain Galayah now say Captain Gedaliah, and *Trauma Letters: Healing the Child Within* in `data/books.tsv` is now listed under Captain Gedaliah.
 
 ## Batch 2
 
@@ -26,8 +26,8 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 ## Captain Uri and Captain Zakai
 
-- Obie: "Captain Uri not Yuri". New `data/names.tsv` row Captain Uri (variants Captain Yuri, Captain Yurie); 140 spots respelled.
-- Obie (decision card): the IUIC Sacramento captain is Captain Zakai. New row Captain Zakai (variants Captain Zacchaeus, Captain Zakar, Captain Zachariah, Captain Zechariah); 44 spots respelled.
+- "Captain Uri not Yuri". New `data/names.tsv` row Captain Uri (variants Captain Yuri, Captain Yurie); 140 spots respelled.
+- The IUIC Sacramento captain is Captain Zakai. New row Captain Zakai (variants Captain Zacchaeus, Captain Zakar, Captain Zachariah, Captain Zechariah); 44 spots respelled.
 
 ## Batch 6
 
@@ -35,7 +35,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 ## Captain Mattathias
 
-- Obie: Captain Matt, Captain Matthew and "Captain Met" are Captain Mattathias. They are added to his `data/names.tsv` row as variants, and 71 spots are respelled. The hosts heard as "Captain Met" (1 Corinthians 16) and "Captain Adathias"/"Matthy" (1 Corinthians 15:5) are now credited to Captain Mattathias.
+- Captain Matt, Captain Matthew and "Captain Met" are Captain Mattathias. They are added to his `data/names.tsv` row as variants, and 71 spots are respelled. The hosts heard as "Captain Met" (1 Corinthians 16) and "Captain Adathias"/"Matthy" (1 Corinthians 15:5) are now credited to Captain Mattathias.
 
 ## Batch 7
 
@@ -48,12 +48,12 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Batch 9
 
 - 1 Corinthians 3 (2025-09-09, Captain Gedaliah), 3:9 (2025-09-10, Captain Gedaliah), 4:1 (2025-09-11, Captain Mattathias), 4:9 (2025-09-30, Captain Gedaliah), 6:1-10 (2025-10-13, Captain Emmanuel) and 6:11 (2025-10-14, Captain Josiah).
-- Obie on #592: "Captain get a lion" (3:9) and "Captain Gad a lie" (4:9) are both Captain Gedaliah; both notes credit him.
+- On #592: "Captain get a lion" (3:9) and "Captain Gad a lie" (4:9) are both Captain Gedaliah; both notes credit him.
 
 ## Batch 10
 
 - 1 Corinthians 1 (2025-08-21, Captain Mattathias), 1:16 (2025-08-25, Captain Mattathias), 1:18 (2025-08-26, Captain Gedaliah), 1:22 (2025-09-02, Captain Josiah), 1:29 (2025-09-03, Captain Mattathias) and 2:9 (2025-09-04, host not named).
-- Obie on #602: "Captain Gad Aliyah" and "Captain get a lie" are Captain Gedaliah, and "Cat" is "Cap". Added those plus "Captain get a lion" / "Captain Gad a lie" to his `data/names.tsv` variants; 4 spots respelled.
+- On #602: "Captain Gad Aliyah" and "Captain get a lie" are Captain Gedaliah, and "Cat" is "Cap". Added those plus "Captain get a lion" / "Captain Gad a lie" to his `data/names.tsv` variants; 4 spots respelled.
 
 ## Batch 11
 
@@ -75,7 +75,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 - Luke 20:27 (2025-06-12, host heard as "Captain Ab", left blank), 20:21 (2025-06-11, Captain Zakai, heard as "Captain Zacchaeus"), 20:9 (2025-06-10, host not named), 20 (2025-06-09, Captain Mattathias), 19 (2025-06-05, Captain Mattathias) and 18:15 (2025-06-04, Captain Mattathias).
 
-## Known names spelled correctly (Obie 2026-10-25: "if you know the correct names fix it")
+## Known names spelled correctly (2026-10-25: "if you know the correct names fix it")
 
 - Caption garbles of names that are certain from context are now spelled correctly across the Giving The Sense From A to Z notes: Colassi/Colasse -> Colosse, Sarak -> Sirach, Mcabes -> Maccabees, Herod Antipus -> Herod Antipas, Herodiius -> Herodias, a gripper -> Agrippa, Barabus -> Barabbas, Arythea -> Arimathaea, Sirene/Sirenian -> Cyrene/Cyrenian, second Ezra(s) -> 2 Esdras, First Ezras -> 1 Esdras, Simon Maggus -> Simon Magus, Safara -> Sapphira, Ananas -> Ananias, Pontious Pilot -> Pontius Pilate, Pilot -> Pilate, Escariat -> Iscariot, Cphus -> Cephas, Cesa Bo / Caesar Bourgea -> Cesare Borgia, Epifice/Apaper/Aprus -> Epaphras, Amalecch -> Amalek, Oadiah -> Obadiah, Ismir -> Izmir (98 spots in 20 notes). Unsure names stay as heard.
 
@@ -87,20 +87,20 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 - Luke 15:21 (2025-05-14, Captain Zakai), 15 The Prodigal Son (2025-05-13, Captain Zakai, heard as "Captain Zakar"), 15 (2025-05-12, Captain Matthew), 14:15 (2025-05-08, Captain Matt) and 14 (2025-05-07, Captain Matt), all IUIC Baton Rouge, and 13:11 (2025-05-01, host heard as "Captain Ab", left blank).
 
-- Obie 2026-10-27: Captain Mattathias, Captain Matthew and Captain Matt are three men. data/names.tsv no longer folds "Captain Matt", "Captain Matthew" or "Captain Met" into Captain Mattathias, and this batch keeps the name each host said.
+- 2026-10-27: Captain Mattathias, Captain Matthew and Captain Matt are three men. data/names.tsv no longer folds "Captain Matt", "Captain Matthew" or "Captain Met" into Captain Mattathias, and this batch keeps the name each host said.
 
 ## Captain Matthew and Captain Matt kept apart from Captain Mattathias
 
-- Obie 2026-10-27: Captain Mattathias, Captain Matthew and Captain Matt are three men. 43 notes (blog and captains) that had "Captain Matthew" or "Captain Matt" turned into Captain Mattathias now carry the name each class says, checked spot by spot against the captions; 101 spots, teacher fields and taught lines included. Spots where the captions say Mattathias (or a close garble of it) stay Captain Mattathias.
+- 2026-10-27: Captain Mattathias, Captain Matthew and Captain Matt are three men. 43 notes (blog and captains) that had "Captain Matthew" or "Captain Matt" turned into Captain Mattathias now carry the name each class says, checked spot by spot against the captions; 101 spots, teacher fields and taught lines included. Spots where the captions say Mattathias (or a close garble of it) stay Captain Mattathias.
 
 ## Captain Matt of IUIC Baton Rouge
 
-- Obie 2026-10-29: "Baton rouge its captain Matt short for Matthew". The captains-channel notes that call the Baton Rouge host "Captain Matthew" (Giving The Sense From A to Z and 15 Minutes w/ The Captains, plus other hosts naming him) now say Captain Matt: 31 notes, 74 spots. The 2026-04-18 Leaven part 2 note's "Captain Matthew" (the 9 a.m. class taught by Captain Matt) changes too. Captain Matthew of IUIC DC (Truth Be Told, 2026-09-13 guest) stays.
+- 2026-10-29: "Baton rouge its captain Matt short for Matthew". The captains-channel notes that call the Baton Rouge host "Captain Matthew" (Giving The Sense From A to Z and 15 Minutes w/ The Captains, plus other hosts naming him) now say Captain Matt: 31 notes, 74 spots. The 2026-04-18 Leaven part 2 note's "Captain Matthew" (the 9 a.m. class taught by Captain Matt) changes too. Captain Matthew of IUIC DC (Truth Be Told, 2026-09-13 guest) stays.
 
 ## Batch 18
 
 - Luke 13:1 (2025-04-30, Captain Zakai), 12:22 (2025-04-24, host heard as "Captain ARB" / "Captain Ab", left blank), 12:13 (2025-04-23, Captain Mattathias), 11:50 (2025-04-22, Captain Gedaliah, heard as "Captain Goliath"), 11:33 continued (2025-04-17, Captain Matt, heard as "Captain Matthew") and 11:26 continued (2025-04-16, Captain Emmanuel, IUIC Arkansas).
-- Obie 2026-10-29: Captain Goliath is Captain Gedaliah. "Captain Goliath" is now a Gedaliah spelling in data/names.tsv; the four notes that had it are respelled, and the 2025-08-13 Colossians 3:5 note gets Captain Gedaliah as its teacher.
+- 2026-10-29: Captain Goliath is Captain Gedaliah. "Captain Goliath" is now a Gedaliah spelling in data/names.tsv; the four notes that had it are respelled, and the 2025-08-13 Colossians 3:5 note gets Captain Gedaliah as its teacher.
 
 ## Batch 19
 
@@ -114,9 +114,9 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 ## Zakai is no longer a captain
 
-- Obie 2026-10-31: "captain zakai is now just Zakai, he is no longer a captain". data/names.tsv now spells him "Zakai", with "Captain Zakai" as a variant, and 48 notes (blog, captains, history) are respelled: 102 spots, teacher fields and taught lines included.
+- 2026-10-31: "captain zakai is now just Zakai, he is no longer a captain". data/names.tsv now spells him "Zakai", with "Captain Zakai" as a variant, and 48 notes (blog, captains, history) are respelled: 102 spots, teacher fields and taught lines included.
 - scripts/notes/lint.py accepts a teacher with no rank title when data/names.tsv spells the leader that way; any other untitled teacher is still an error.
-- Obie 2026-10-31: "There is a Captain Zakar, the one no longer a captain is Zakai". "Captain Zakar" is no longer a spelling of Zakai in data/names.tsv. Each spot was checked against the captions: where the class says Captain Zakar (the 15 Minutes w/ The Captains host from IUIC Oklahoma City, the 2026-01-28 1 Corinthians 14 class and its follow-up, and others), the note says Captain Zakar again: 37 spots in 20 notes, 10 teacher fields included. Spots the captions give as Zakai, Zacchaeus or Zachariah of IUIC Sacramento stay Zakai.
+- 2026-10-31: "There is a Captain Zakar, the one no longer a captain is Zakai". "Captain Zakar" is no longer a spelling of Zakai in data/names.tsv. Each spot was checked against the captions: where the class says Captain Zakar (the 15 Minutes w/ The Captains host from IUIC Oklahoma City, the 2026-01-28 1 Corinthians 14 class and its follow-up, and others), the note says Captain Zakar again: 37 spots in 20 notes, 10 teacher fields included. Spots the captions give as Zakai, Zacchaeus or Zachariah of IUIC Sacramento stay Zakai.
 
 ## Batch 21
 
@@ -130,12 +130,12 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 ## Teachers for 46 unnamed captains classes
 
-- Obie 2026-10-31 named the hosts of 46 captains notes that had a blank teacher, from a page of their thumbnails. The teacher field now carries his answer: Captain Horeb (12), Captain Uri (5), Zakai (5), Captain Nahshon (3), Captain Jeroham (3), Captain Neariah (2), Captain Matt (2), Deacon Isaac (2), and one each for Captain Banqanayah, Shaphal, Joel, Laqach, Amaziah, Yadon, Aryeh, Yadayah, Naam, Gedaliah, Tazayawan and Hoshayah.
+- On 2026-10-31 the hosts of 46 captains notes that had a blank teacher were named from a page of their thumbnails. The teacher field now carries those answers: Captain Horeb (12), Captain Uri (5), Zakai (5), Captain Nahshon (3), Captain Jeroham (3), Captain Neariah (2), Captain Matt (2), Deacon Isaac (2), and one each for Captain Banqanayah, Shaphal, Joel, Laqach, Amaziah, Yadon, Aryeh, Yadayah, Naam, Gedaliah, Tazayawan and Hoshayah.
 - He also confirmed the 2025-05-13 Prodigal Son class is Captain Zakar, which the note already says.
 
 ## Ezekiel 1 (2026-05-27) is Captain Jeroham
 
-- Obie 2026-11-01: the 2026-05-27 Ezekiel 1 class is Captain Jeroham, not Captain Uri.
+- 2026-11-01: the 2026-05-27 Ezekiel 1 class is Captain Jeroham, not Captain Uri.
 
 ## Batch 23
 
@@ -144,7 +144,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 ## Batch 24
 
-- Revelation 21:9 (2025-01-01, host heard as "Captain Gia"), 20:11 (2024-12-23, host unnamed), 20:5 (2024-12-18, host unnamed, IUIC Sacramento), 20:1 (2024-12-17, host heard as "Captain G"), 19:11 (2024-12-12, host unnamed) and 19:1 (2024-12-11, Captain Mattathias, heard as "Captain Matas"). Unclear hosts are left blank for Obie.
+- Revelation 21:9 (2025-01-01, host heard as "Captain Gia"), 20:11 (2024-12-23, host unnamed), 20:5 (2024-12-18, host unnamed, IUIC Sacramento), 20:1 (2024-12-17, host heard as "Captain G"), 19:11 (2024-12-12, host unnamed) and 19:1 (2024-12-11, Captain Mattathias, heard as "Captain Matas"). Unclear hosts are left blank.
 - These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
 
 ## Batch 24 hosts named

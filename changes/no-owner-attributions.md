@@ -1,0 +1,1 @@
+- Repo text states each rule, spelling or source itself, without naming who asked for it: changelogs, `data/names.tsv` notes, `data/sources/rank-teachers.tsv` and code comments reworded. No data value, spelling or behavior changes.
