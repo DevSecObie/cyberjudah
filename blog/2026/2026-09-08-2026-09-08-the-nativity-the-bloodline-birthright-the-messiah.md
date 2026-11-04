@@ -17,7 +17,7 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "edom-esau", "women"]
 
 ## Introduction
 
-*[[13:39](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=819s)]* A Labor Day class in Philadelphia in two parts. Deacon Malachi opens on Carnival: the West Indian parade in Brooklyn and Notting Hill is not our culture but a Roman Catholic pre-Lent festival of Bacchus that the slaves learned from their colonizers. Then the main teaching, the nativity: the bloodline, the birthright and the Messiah, walked from Judah and Tamar through Ruth, Tobit and the kings of Judah to show that the land and the throne pass by the father's line, that Luke 3 is Mary's father's line and Matthew 1 is Joseph's, and that Christ was born through Joseph and Mary as every king before him was born.
+*[[13:39](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=819s)]* A Labor Day class in Philadelphia in two parts. Deacon Malachiyah opens on Carnival: the West Indian parade in Brooklyn and Notting Hill is not our culture but a Roman Catholic pre-Lent festival of Bacchus that the slaves learned from their colonizers. Then the main teaching, the nativity: the bloodline, the birthright and the Messiah, walked from Judah and Tamar through Ruth, Tobit and the kings of Judah to show that the land and the throne pass by the father's line, that Luke 3 is Mary's father's line and Matthew 1 is Joseph's, and that Christ was born through Joseph and Mary as every king before him was born.
 
 ## Scriptures Opened
 
