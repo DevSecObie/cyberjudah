@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Revelation 12:11"
 slug: "2024/2024-11-06-giving-the-sense-from-a-to-z-revelation-12-11"
 date: "2024-11-06"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-11-06"
+teacher: "Zakai"
+description: "Giving The Sense From A to Z · 2024-11-06 · Zakai"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "war"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-11-06</p>
+<p class="taught">Giving The Sense From A to Z · 2024-11-06 · Zakai</p>
 
 <span class="opens"><b>Opens</b> [Rev 12](/bible/revelation/12) · [Exod 12](/bible/exodus/12) · [John 1](/bible/john/1) · [Exod 31](/bible/exodus/31) · [Isa 8](/bible/isaiah/8) · [John 5](/bible/john/5) · [John 12](/bible/john/12) · [Ps 50](/bible/psalms/50) · [Isa 49](/bible/isaiah/49) · [Isa 11](/bible/isaiah/11) · [Matt 16](/bible/matthew/16) · [2 Esdras 6](/bible/2-esdras/6) · [2 Esdras 15](/bible/2-esdras/15) · [Gen 16](/bible/genesis/16) · [Matt 24](/bible/matthew/24) · [Hos 1](/bible/hosea/1) · <i>and 13 more below</i></span>
 

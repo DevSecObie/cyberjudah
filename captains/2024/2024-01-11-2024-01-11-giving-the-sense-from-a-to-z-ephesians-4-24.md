@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Ephesians 4:24"
 slug: "2024/2024-01-11-giving-the-sense-from-a-to-z-ephesians-4-24"
 date: "2024-01-11"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-01-11"
+teacher: "Captain Horeb"
+description: "Giving The Sense From A to Z · 2024-01-11 · Captain Horeb"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "anger", "heaven-hell", "satan", "wisdom"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-01-11</p>
+<p class="taught">Giving The Sense From A to Z · 2024-01-11 · Captain Horeb</p>
 
 <span class="opens"><b>Opens</b> [1 Cor 15](/bible/1-corinthians/15) · [Eph 4](/bible/ephesians/4) · [Matt 18](/bible/matthew/18) · [1 Sam 11](/bible/1-samuel/11) · [Eccl 9](/bible/ecclesiastes/9) · [Mic 3](/bible/micah/3) · [Matt 6](/bible/matthew/6) · [2 Cor 2](/bible/2-corinthians/2) · [1 Pet 5](/bible/1-peter/5) · [1 Pet 4](/bible/1-peter/4) · [Sir 7](/bible/sirach/7) · [Sir 12](/bible/sirach/12) · [1 Pet 3](/bible/1-peter/3) · [Prov 16](/bible/proverbs/16) · [Ps 91](/bible/psalms/91) · [1 Pet 2](/bible/1-peter/2)</span>
 

@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Isaiah 14:1"
 slug: "2022/2022-05-26-giving-the-sense-from-a-to-z-isaiah-14-1"
 date: "2022-05-26"
-teacher: ""
-description: "Giving The Sense From A to Z · 2022-05-26"
+teacher: "Captain Mattathias"
+description: "Giving The Sense From A to Z · 2022-05-26 · Captain Mattathias"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "america-babylon", "captivity", "heaven-hell"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2022-05-26</p>
+<p class="taught">Giving The Sense From A to Z · 2022-05-26 · Captain Mattathias</p>
 
 <span class="opens"><b>Opens</b> [Isa 14](/bible/isaiah/14)</span>
 

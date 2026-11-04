@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Peter 1:1"
 slug: "2022/2022-03-17-giving-the-sense-from-a-to-z-1-peter-1-1"
 date: "2022-03-17"
-teacher: ""
-description: "Giving The Sense From A to Z · 2022-03-17"
+teacher: "Captain Gedaliah"
+description: "Giving The Sense From A to Z · 2022-03-17 · Captain Gedaliah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "faith", "obedience"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2022-03-17</p>
+<p class="taught">Giving The Sense From A to Z · 2022-03-17 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [1 Pet 1](/bible/1-peter/1) · [Eph 2](/bible/ephesians/2)</span>
 

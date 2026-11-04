@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Isaiah 14:12"
 slug: "2024/2024-03-26-giving-the-sense-from-a-to-z-isaiah-14-12"
 date: "2024-03-26"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-03-26"
+teacher: "Captain Gedaliah"
+description: "Giving The Sense From A to Z · 2024-03-26 · Captain Gedaliah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "heaven-hell", "satan", "the-body"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-03-26</p>
+<p class="taught">Giving The Sense From A to Z · 2024-03-26 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Isa 14](/bible/isaiah/14)</span>
 

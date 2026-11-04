@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Sirach 14:1"
 slug: "2022/2022-01-20-giving-the-sense-from-a-to-z-sirach-14-1"
 date: "2022-01-20"
-teacher: ""
-description: "Giving The Sense From A to Z · 2022-01-20"
+teacher: "Captain Gedaliah"
+description: "Giving The Sense From A to Z · 2022-01-20 · Captain Gedaliah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "money"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2022-01-20</p>
+<p class="taught">Giving The Sense From A to Z · 2022-01-20 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Sir 14](/bible/sirach/14) · [Sir 19](/bible/sirach/19) · [Sir 20](/bible/sirach/20) · [Sir 27](/bible/sirach/27) · [1 Pet 3](/bible/1-peter/3) · [Heb 9](/bible/hebrews/9) · [Heb 10](/bible/hebrews/10) · [1 Cor 13](/bible/1-corinthians/13) · [1 Tim 4](/bible/1-timothy/4) · [Acts 24](/bible/acts/24) · [2 Cor 13](/bible/2-corinthians/13) · [Rom 1](/bible/romans/1) · [Ps 51](/bible/psalms/51) · [Luke 12](/bible/luke/12) · [1 Tim 6](/bible/1-timothy/6) · <i>and 5 more below</i></span>
 

@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Timothy 2:1"
 slug: "2023/2023-06-28-giving-the-sense-from-a-to-z-1-timothy-2-1"
 date: "2023-06-28"
-teacher: ""
-description: "Giving The Sense From A to Z · 2023-06-28"
+teacher: "Captain Mattathias"
+description: "Giving The Sense From A to Z · 2023-06-28 · Captain Mattathias"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "anger", "false-religion", "purpose", "the-law"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2023-06-28</p>
+<p class="taught">Giving The Sense From A to Z · 2023-06-28 · Captain Mattathias</p>
 
 <span class="opens"><b>Opens</b> [1 Tim 2](/bible/1-timothy/2) · [Gal 3](/bible/galatians/3)</span>
 

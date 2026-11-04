@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Revelation 1:1"
 slug: "2023/2023-11-29-giving-the-sense-from-a-to-z-revelation-1-1"
 date: "2023-11-29"
-teacher: ""
-description: "Giving The Sense From A to Z · 2023-11-29"
+teacher: "Captain Zakar"
+description: "Giving The Sense From A to Z · 2023-11-29 · Captain Zakar"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "faith", "leadership", "prophecy", "war"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2023-11-29</p>
+<p class="taught">Giving The Sense From A to Z · 2023-11-29 · Captain Zakar</p>
 
 <span class="opens"><b>Opens</b> [Rev 1](/bible/revelation/1) · [Rev 19](/bible/revelation/19)</span>
 

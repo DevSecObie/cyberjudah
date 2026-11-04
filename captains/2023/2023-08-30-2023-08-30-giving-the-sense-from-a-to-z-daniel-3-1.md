@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Daniel 3:1"
 slug: "2023/2023-08-30-giving-the-sense-from-a-to-z-daniel-3-1"
 date: "2023-08-30"
-teacher: ""
-description: "Giving The Sense From A to Z · 2023-08-30"
+teacher: "Zakai"
+description: "Giving The Sense From A to Z · 2023-08-30 · Zakai"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "adversity", "angels", "idolatry", "prayer"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2023-08-30</p>
+<p class="taught">Giving The Sense From A to Z · 2023-08-30 · Zakai</p>
 
 <span class="opens"><b>Opens</b> [Matt 6](/bible/matthew/6) · [Dan 3](/bible/daniel/3) · [Bel 1](/bible/bel-and-the-dragon/1) · [Jer 50](/bible/jeremiah/50) · [Jer 51](/bible/jeremiah/51) · [Gen 11](/bible/genesis/11) · [Jer 10](/bible/jeremiah/10) · [Song Thr 1](/bible/song-of-the-three-children/1) · [Dan 9](/bible/daniel/9) · [Sir 39](/bible/sirach/39) · [2 Esdras 4](/bible/2-esdras/4) · [Rev 19](/bible/revelation/19) · [Wis 19](/bible/wisdom-of-solomon/19)</span>
 

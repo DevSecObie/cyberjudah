@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Revelation 11:4"
 slug: "2024/2024-10-23-giving-the-sense-from-a-to-z-revelation-11-4"
 date: "2024-10-23"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-10-23"
+teacher: "Zakai"
+description: "Giving The Sense From A to Z · 2024-10-23 · Zakai"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "wisdom"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-10-23</p>
+<p class="taught">Giving The Sense From A to Z · 2024-10-23 · Zakai</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Rev 11](/bible/revelation/11) · [Zech 3](/bible/zechariah/3) · [Zech 4](/bible/zechariah/4) · [Job 30](/bible/job/30) · [Isa 1](/bible/isaiah/1) · [Ezek 37](/bible/ezekiel/37)</span>
 

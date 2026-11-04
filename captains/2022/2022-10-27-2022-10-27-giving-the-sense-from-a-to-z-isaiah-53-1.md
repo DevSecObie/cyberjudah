@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Isaiah 53:1"
 slug: "2022/2022-10-27-giving-the-sense-from-a-to-z-isaiah-53-1"
 date: "2022-10-27"
-teacher: ""
-description: "Giving The Sense From A to Z · 2022-10-27"
+teacher: "Captain Gedaliah"
+description: "Giving The Sense From A to Z · 2022-10-27 · Captain Gedaliah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "endurance", "prophecy", "wisdom"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2022-10-27</p>
+<p class="taught">Giving The Sense From A to Z · 2022-10-27 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Isa 53](/bible/isaiah/53)</span>
 

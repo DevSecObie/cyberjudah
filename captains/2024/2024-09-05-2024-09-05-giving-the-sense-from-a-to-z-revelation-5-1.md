@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Revelation 5:1"
 slug: "2024/2024-09-05-giving-the-sense-from-a-to-z-revelation-5-1"
 date: "2024-09-05"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-09-05"
+teacher: "Captain Azariah"
+description: "Giving The Sense From A to Z · 2024-09-05 · Captain Azariah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "angels", "christ", "endurance", "heaven-hell"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-09-05</p>
+<p class="taught">Giving The Sense From A to Z · 2024-09-05 · Captain Azariah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Rev 5](/bible/revelation/5) · [Luke 1](/bible/luke/1) · [John 11](/bible/john/11) · [Luke 2](/bible/luke/2) · [Luke 9](/bible/luke/9) · [1 Pet 2](/bible/1-peter/2) · [Heb 8](/bible/hebrews/8) · [Heb 9](/bible/hebrews/9) · [John 20](/bible/john/20) · [Rev 22](/bible/revelation/22) · [2 Esdras 7](/bible/2-esdras/7) · [Luke 24](/bible/luke/24)</span>
 

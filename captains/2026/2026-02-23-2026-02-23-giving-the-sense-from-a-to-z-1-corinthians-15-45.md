@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 15:45"
 slug: "2026/2026-02-23-giving-the-sense-from-a-to-z-1-corinthians-15-45"
 date: "2026-02-23"
-teacher: "Captain Yaya"
-description: "Giving The Sense From A to Z · 2026-02-23"
+teacher: "Captain Yadayah"
+description: "Giving The Sense From A to Z · 2026-02-23 · Captain Yadayah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "the-law"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2026-02-23 · Captain Yaya</p>
+<p class="taught">Giving The Sense From A to Z · 2026-02-23 · Captain Yadayah</p>
 
 <span class="opens"><b>Opens</b> [Ps 111](/bible/psalms/111) · [Neh 8](/bible/nehemiah/8) · [Isa 28](/bible/isaiah/28) · [1 Cor 15](/bible/1-corinthians/15) · [Gen 1](/bible/genesis/1) · [Gen 2](/bible/genesis/2) · [Rom 5](/bible/romans/5) · [1 John 3](/bible/1-john/3)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law"]
 
 ## Introduction
 
-*[[4:23](https://www.youtube.com/watch?v=xbu2dczQHpM&t=263s)]* Shalom Israel. Most High in Christ bless. Pray everybody as well. I'm Captain Yaya and this is Giving The Sense From A to Z. All praises to the Most High. All right. So, if this is your first time tuning in to Giving The Sense, what we do is we go through the Bible and we break it down verse for verse. All right. A lot of people go to the Bible, they want to learn, they want to get understanding. But the Bible is not some novel you just pick up. It's not Cat in the Hat. All right? It's not Green Eggs and Ham. It takes spiritual men who keep the commandments to be able to go into the Bible and give you the understanding. So, we going to pick up where the captain left off last week. Right now, we are going through the book of First Corinthians. We're in chapter 15 at the moment. And I believe the last verse was verse 45. So, we're going to pick it right back up. Captain Horeb, he went extensively into verse 45. So, I'm going to touch it and then we going to keep going. And Lord, we can finish the chapter, Lord's will. We're gonna try to finish off Corinthians 15.
+*[[4:23](https://www.youtube.com/watch?v=xbu2dczQHpM&t=263s)]* Shalom Israel. Most High in Christ bless. Pray everybody as well. I'm Captain Yadayah and this is Giving The Sense From A to Z. All praises to the Most High. All right. So, if this is your first time tuning in to Giving The Sense, what we do is we go through the Bible and we break it down verse for verse. All right. A lot of people go to the Bible, they want to learn, they want to get understanding. But the Bible is not some novel you just pick up. It's not Cat in the Hat. All right? It's not Green Eggs and Ham. It takes spiritual men who keep the commandments to be able to go into the Bible and give you the understanding. So, we going to pick up where the captain left off last week. Right now, we are going through the book of First Corinthians. We're in chapter 15 at the moment. And I believe the last verse was verse 45. So, we're going to pick it right back up. Captain Horeb, he went extensively into verse 45. So, I'm going to touch it and then we going to keep going. And Lord, we can finish the chapter, Lord's will. We're gonna try to finish off Corinthians 15.
 
 ## Scriptures Opened
 

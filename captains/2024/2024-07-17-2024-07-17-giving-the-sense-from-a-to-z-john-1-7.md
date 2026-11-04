@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: John 1:7"
 slug: "2024/2024-07-17-giving-the-sense-from-a-to-z-john-1-7"
 date: "2024-07-17"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-07-17"
+teacher: "Captain Mattathias"
+description: "Giving The Sense From A to Z · 2024-07-17 · Captain Mattathias"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "egypt", "prophecy", "wisdom"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-07-17</p>
+<p class="taught">Giving The Sense From A to Z · 2024-07-17 · Captain Mattathias</p>
 
 <span class="opens"><b>Opens</b> [John 1](/bible/john/1) · [Matt 3](/bible/matthew/3) · [Isa 40](/bible/isaiah/40) · [Isa 30](/bible/isaiah/30) · [Isa 43](/bible/isaiah/43) · [Wis 18](/bible/wisdom-of-solomon/18) · [John 7](/bible/john/7) · [1 John 4](/bible/1-john/4)</span>
 

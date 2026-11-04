@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Psalms 51:1"
 slug: "2023/2023-05-11-giving-the-sense-from-a-to-z-psalms-51-1"
 date: "2023-05-11"
-teacher: ""
-description: "Giving The Sense From A to Z · 2023-05-11"
+teacher: "Captain Immanuel"
+description: "Giving The Sense From A to Z · 2023-05-11 · Captain Immanuel"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "mercy", "prayer", "repentance", "wisdom"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2023-05-11</p>
+<p class="taught">Giving The Sense From A to Z · 2023-05-11 · Captain Immanuel</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Ps 51](/bible/psalms/51) · [2 Sam 12](/bible/2-samuel/12)</span>
 

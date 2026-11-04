@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Revelation 6:7"
 slug: "2024/2024-09-17-giving-the-sense-from-a-to-z-revelation-6-7"
 date: "2024-09-17"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-09-17"
+teacher: "Captain Gedaliah"
+description: "Giving The Sense From A to Z · 2024-09-17 · Captain Gedaliah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "heaven-hell", "pride", "substance-abuse", "the-word"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-09-17</p>
+<p class="taught">Giving The Sense From A to Z · 2024-09-17 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Rev 6](/bible/revelation/6) · [Rev 5](/bible/revelation/5) · [Hab 2](/bible/habakkuk/2) · [Isa 29](/bible/isaiah/29) · [Obad 1](/bible/obadiah/1) · [Gen 27](/bible/genesis/27) · [Rev 13](/bible/revelation/13) · [Matt 23](/bible/matthew/23) · [Isa 57](/bible/isaiah/57) · [2 Esdras 15](/bible/2-esdras/15)</span>
 

@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: James 1:1"
 slug: "2022/2022-01-13-giving-the-sense-from-a-to-z-james-1-1"
 date: "2022-01-13"
-teacher: ""
-description: "Giving The Sense From A to Z · 2022-01-13"
+teacher: "Captain Yadon"
+description: "Giving The Sense From A to Z · 2022-01-13 · Captain Yadon"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "adversity", "endurance", "faith", "money", "the-word"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2022-01-13</p>
+<p class="taught">Giving The Sense From A to Z · 2022-01-13 · Captain Yadon</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [James 1](/bible/james/1) · [Sir 2](/bible/sirach/2) · [2 Esdras 16](/bible/2-esdras/16) · [Rom 5](/bible/romans/5) · [Heb 12](/bible/hebrews/12) · [Prov 2](/bible/proverbs/2) · [Matt 21](/bible/matthew/21) · [Eph 4](/bible/ephesians/4) · [Rev 3](/bible/revelation/3) · [Sir 5](/bible/sirach/5) · [Luke 1](/bible/luke/1) · [1 Tim 6](/bible/1-timothy/6) · [1 John 4](/bible/1-john/4) · [Sir 15](/bible/sirach/15) · [Eccl 7](/bible/ecclesiastes/7) · <i>and 4 more below</i></span>
 

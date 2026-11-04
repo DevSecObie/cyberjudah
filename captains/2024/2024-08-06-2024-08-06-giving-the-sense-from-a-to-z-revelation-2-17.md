@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Revelation 2:17"
 slug: "2024/2024-08-06-giving-the-sense-from-a-to-z-revelation-2-17"
 date: "2024-08-06"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-08-06"
+teacher: "Captain Immanuel"
+description: "Giving The Sense From A to Z · 2024-08-06 · Captain Immanuel"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "angels", "endurance", "idolatry", "leadership", "women"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-08-06</p>
+<p class="taught">Giving The Sense From A to Z · 2024-08-06 · Captain Immanuel</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Rev 2](/bible/revelation/2) · [2 Esdras 1](/bible/2-esdras/1) · [Mal 2](/bible/malachi/2) · [Num 27](/bible/numbers/27) · [Luke 6](/bible/luke/6) · [Luke 8](/bible/luke/8) · [Acts 1](/bible/acts/1) · [Acts 6](/bible/acts/6) · [Acts 19](/bible/acts/19) · [Jer 44](/bible/jeremiah/44) · [1 Tim 1](/bible/1-timothy/1) · [1 Tim 2](/bible/1-timothy/2) · [1 Tim 3](/bible/1-timothy/3) · [Eccl 1](/bible/ecclesiastes/1) · [2 Chr 21](/bible/2-chronicles/21) · <i>and 19 more below</i></span>
 

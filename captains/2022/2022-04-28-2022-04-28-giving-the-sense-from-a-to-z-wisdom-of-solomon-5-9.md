@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Wisdom of Solomon 5:9"
 slug: "2022/2022-04-28-giving-the-sense-from-a-to-z-wisdom-of-solomon-5-9"
 date: "2022-04-28"
-teacher: ""
-description: "Giving The Sense From A to Z · 2022-04-28"
+teacher: "Captain Mattathias"
+description: "Giving The Sense From A to Z · 2022-04-28 · Captain Mattathias"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "anger", "pride", "wisdom"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2022-04-28</p>
+<p class="taught">Giving The Sense From A to Z · 2022-04-28 · Captain Mattathias</p>
 
 <span class="opens"><b>Opens</b> [Wis 5](/bible/wisdom-of-solomon/5)</span>
 

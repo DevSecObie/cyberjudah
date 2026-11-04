@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Mark 1:1"
 slug: "2023/2023-06-26-giving-the-sense-from-a-to-z-mark-1-1"
 date: "2023-06-26"
-teacher: ""
-description: "Giving The Sense From A to Z · 2023-06-26"
+teacher: "Captain Zakar"
+description: "Giving The Sense From A to Z · 2023-06-26 · Captain Zakar"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "mercy", "repentance"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2023-06-26</p>
+<p class="taught">Giving The Sense From A to Z · 2023-06-26 · Captain Zakar</p>
 
 <span class="opens"><b>Opens</b> [Mark 1](/bible/mark/1) · [1 Pet 3](/bible/1-peter/3) · [Isa 1](/bible/isaiah/1)</span>
 

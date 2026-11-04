@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 15"
 slug: "2026/2026-02-09-giving-the-sense-from-a-to-z-1-corinthians-15"
 date: "2026-02-09"
-teacher: "Captain Yaya"
-description: "Giving The Sense From A to Z · 2026-02-09"
+teacher: "Captain Yadayah"
+description: "Giving The Sense From A to Z · 2026-02-09 · Captain Yadayah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "salvation", "the-law"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2026-02-09 · Captain Yaya</p>
+<p class="taught">Giving The Sense From A to Z · 2026-02-09 · Captain Yadayah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Acts 8](/bible/acts/8) · [1 Cor 15](/bible/1-corinthians/15) · [1 Cor 1](/bible/1-corinthians/1) · [1 Cor 10](/bible/1-corinthians/10) · [Luke 1](/bible/luke/1) · [Gal 1](/bible/galatians/1) · [Eph 4](/bible/ephesians/4) · [Matt 19](/bible/matthew/19) · [Luke 10](/bible/luke/10) · [James 2](/bible/james/2) · [Matt 24](/bible/matthew/24) · [Isa 53](/bible/isaiah/53) · [Matt 27](/bible/matthew/27) · [Ps 16](/bible/psalms/16) · [Acts 2](/bible/acts/2) · <i>and 1 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "salvation", "the-
 
 ## Introduction
 
-*[[8:59](https://www.youtube.com/watch?v=Q80PqNDdmyM&t=539s)]* Most high in Christ bless, shalom Israel. This is Giving The Sense From A to Z. I'm Captain Yaya and today we going to open up with Corinthians 15. Captain Horeb, he finished off Corinthians 14. I'mma pick it up in Corinthians 15. So y'all know we do Giving The Sense, the captains of IUIC, and we do Giving The Sense because we know that a lot of our people, they believe in the Bible but they don't understand the Bible. And it's the job of the prophets to go into the scriptures to make it plain for our people. So that's what we do. Let's open up Nehemiah chapter 8. This is Giving The Sense From A to Z.
+*[[8:59](https://www.youtube.com/watch?v=Q80PqNDdmyM&t=539s)]* Most high in Christ bless, shalom Israel. This is Giving The Sense From A to Z. I'm Captain Yadayah and today we going to open up with Corinthians 15. Captain Horeb, he finished off Corinthians 14. I'mma pick it up in Corinthians 15. So y'all know we do Giving The Sense, the captains of IUIC, and we do Giving The Sense because we know that a lot of our people, they believe in the Bible but they don't understand the Bible. And it's the job of the prophets to go into the scriptures to make it plain for our people. So that's what we do. Let's open up Nehemiah chapter 8. This is Giving The Sense From A to Z.
 
 ## Scriptures Opened
 

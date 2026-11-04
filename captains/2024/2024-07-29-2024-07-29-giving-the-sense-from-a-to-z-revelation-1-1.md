@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Revelation 1:1"
 slug: "2024/2024-07-29-giving-the-sense-from-a-to-z-revelation-1-1"
 date: "2024-07-29"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-07-29"
+teacher: "Captain Zakar"
+description: "Giving The Sense From A to Z · 2024-07-29 · Captain Zakar"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "angels", "faith", "the-word"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-07-29</p>
+<p class="taught">Giving The Sense From A to Z · 2024-07-29 · Captain Zakar</p>
 
 <span class="opens"><b>Opens</b> [Rev 1](/bible/revelation/1) · [2 Esdras 2](/bible/2-esdras/2)</span>
 

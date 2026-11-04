@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: James 2:1"
 slug: "2022/2022-02-10-giving-the-sense-from-a-to-z-james-2-1"
 date: "2022-02-10"
-teacher: ""
-description: "Giving The Sense From A to Z · 2022-02-10"
+teacher: "Captain Yadon"
+description: "Giving The Sense From A to Z · 2022-02-10 · Captain Yadon"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "faith"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2022-02-10</p>
+<p class="taught">Giving The Sense From A to Z · 2022-02-10 · Captain Yadon</p>
 
 <span class="opens"><b>Opens</b> [James 2](/bible/james/2) · [Heb 4](/bible/hebrews/4) · [Sir 13](/bible/sirach/13) · [Rev 2](/bible/revelation/2) · [1 Sam 8](/bible/1-samuel/8) · [Lev 19](/bible/leviticus/19) · [Job 24](/bible/job/24) · [Matt 5](/bible/matthew/5) · [Gen 22](/bible/genesis/22) · [Josh 2](/bible/joshua/2)</span>
 

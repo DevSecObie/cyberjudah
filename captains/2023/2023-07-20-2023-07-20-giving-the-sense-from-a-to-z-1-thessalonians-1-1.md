@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Thessalonians 1:1"
 slug: "2023/2023-07-20-giving-the-sense-from-a-to-z-1-thessalonians-1-1"
 date: "2023-07-20"
-teacher: ""
-description: "Giving The Sense From A to Z · 2023-07-20"
+teacher: "Captain Matthew"
+description: "Giving The Sense From A to Z · 2023-07-20 · Captain Matthew"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "adversity", "prophecy"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2023-07-20</p>
+<p class="taught">Giving The Sense From A to Z · 2023-07-20 · Captain Matthew</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [1 Thess 1](/bible/1-thessalonians/1) · [Acts 15](/bible/acts/15) · [Acts 10](/bible/acts/10) · [Amos 9](/bible/amos/9) · [Acts 16](/bible/acts/16) · [2 Tim 1](/bible/2-timothy/1) · [Prov 22](/bible/proverbs/22) · [Deut 6](/bible/deuteronomy/6) · [Prov 27](/bible/proverbs/27) · [Heb 3](/bible/hebrews/3) · [Acts 17](/bible/acts/17) · [John 18](/bible/john/18) · [Deut 32](/bible/deuteronomy/32) · [Isa 7](/bible/isaiah/7) · [2 Kgs 17](/bible/2-kings/17) · <i>and 7 more below</i></span>
 

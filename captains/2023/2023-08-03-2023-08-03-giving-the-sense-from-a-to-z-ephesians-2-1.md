@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Ephesians 2:1"
 slug: "2023/2023-08-03-giving-the-sense-from-a-to-z-ephesians-2-1"
 date: "2023-08-03"
-teacher: ""
-description: "Giving The Sense From A to Z · 2023-08-03"
+teacher: "Captain Horeb"
+description: "Giving The Sense From A to Z · 2023-08-03 · Captain Horeb"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "idolatry", "mercy", "purpose", "sexual-purity", "the-law"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2023-08-03</p>
+<p class="taught">Giving The Sense From A to Z · 2023-08-03 · Captain Horeb</p>
 
 <span class="opens"><b>Opens</b> [Eph 1](/bible/ephesians/1) · [Eph 2](/bible/ephesians/2) · [Rom 8](/bible/romans/8) · [Acts 19](/bible/acts/19) · [Wis 14](/bible/wisdom-of-solomon/14)</span>
 

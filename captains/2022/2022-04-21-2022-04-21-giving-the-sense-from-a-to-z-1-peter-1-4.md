@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Peter 1:4"
 slug: "2022/2022-04-21-giving-the-sense-from-a-to-z-1-peter-1-4"
 date: "2022-04-21"
-teacher: ""
-description: "Giving The Sense From A to Z · 2022-04-21"
+teacher: "Captain Gedaliah"
+description: "Giving The Sense From A to Z · 2022-04-21 · Captain Gedaliah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "endurance", "heaven-hell", "salvation", "the-word"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2022-04-21</p>
+<p class="taught">Giving The Sense From A to Z · 2022-04-21 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [1 Pet 1](/bible/1-peter/1) · [Matt 6](/bible/matthew/6) · [1 Cor 15](/bible/1-corinthians/15) · [Isa 60](/bible/isaiah/60) · [Wis 6](/bible/wisdom-of-solomon/6) · [2 Esdras 8](/bible/2-esdras/8) · [1 John 3](/bible/1-john/3) · [Zech 12](/bible/zechariah/12) · [Rom 8](/bible/romans/8) · [James 1](/bible/james/1) · [Sir 2](/bible/sirach/2) · [1 Cor 3](/bible/1-corinthians/3) · [Sir 27](/bible/sirach/27) · [2 Esdras 1](/bible/2-esdras/1) · [John 14](/bible/john/14) · <i>and 5 more below</i></span>
 

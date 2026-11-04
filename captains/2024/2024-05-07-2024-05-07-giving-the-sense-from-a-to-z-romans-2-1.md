@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Romans 2:1"
 slug: "2024/2024-05-07-giving-the-sense-from-a-to-z-romans-2-1"
 date: "2024-05-07"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-05-07"
+teacher: "Captain Matt"
+description: "Giving The Sense From A to Z · 2024-05-07 · Captain Matt"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "anger", "justice", "repentance", "salvation", "the-law"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-05-07</p>
+<p class="taught">Giving The Sense From A to Z · 2024-05-07 · Captain Matt</p>
 
 <span class="opens"><b>Opens</b> [Rom 2](/bible/romans/2) · [Eph 2](/bible/ephesians/2) · [Wis 1](/bible/wisdom-of-solomon/1) · [Luke 10](/bible/luke/10) · [2 Esdras 9](/bible/2-esdras/9)</span>
 

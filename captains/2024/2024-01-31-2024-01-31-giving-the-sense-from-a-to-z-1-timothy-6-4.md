@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Timothy 6:4"
 slug: "2024/2024-01-31-giving-the-sense-from-a-to-z-1-timothy-6-4"
 date: "2024-01-31"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-01-31"
+teacher: "Captain Mattathias"
+description: "Giving The Sense From A to Z · 2024-01-31 · Captain Mattathias"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "money", "wisdom"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-01-31</p>
+<p class="taught">Giving The Sense From A to Z · 2024-01-31 · Captain Mattathias</p>
 
 <span class="opens"><b>Opens</b> [1 Tim 6](/bible/1-timothy/6) · [Eccl 2](/bible/ecclesiastes/2) · [Jude 1](/bible/jude/1)</span>
 

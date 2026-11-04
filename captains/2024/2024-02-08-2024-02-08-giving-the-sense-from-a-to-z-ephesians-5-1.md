@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Ephesians 5:1"
 slug: "2024/2024-02-08-giving-the-sense-from-a-to-z-ephesians-5-1"
 date: "2024-02-08"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-02-08"
+teacher: "Captain Horeb"
+description: "Giving The Sense From A to Z · 2024-02-08 · Captain Horeb"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "marriage-family", "substance-abuse", "women"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-02-08</p>
+<p class="taught">Giving The Sense From A to Z · 2024-02-08 · Captain Horeb</p>
 
 <span class="opens"><b>Opens</b> [Eph 5](/bible/ephesians/5) · [Matt 18](/bible/matthew/18) · [Rom 12](/bible/romans/12) · [1 Pet 4](/bible/1-peter/4) · [2 Cor 6](/bible/2-corinthians/6) · [1 Cor 6](/bible/1-corinthians/6) · [Jer 23](/bible/jeremiah/23) · [Titus 3](/bible/titus/3) · [Job 10](/bible/job/10) · [Heb 10](/bible/hebrews/10) · [Matt 23](/bible/matthew/23) · [2 Tim 3](/bible/2-timothy/3) · [1 Tim 4](/bible/1-timothy/4) · [Lev 11](/bible/leviticus/11) · [Gal 1](/bible/galatians/1) · [Isa 22](/bible/isaiah/22) · <i>and 7 more below</i></span>
 

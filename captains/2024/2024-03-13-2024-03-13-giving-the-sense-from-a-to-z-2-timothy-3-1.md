@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 2 Timothy 3:1"
 slug: "2024/2024-03-13-giving-the-sense-from-a-to-z-2-timothy-3-1"
 date: "2024-03-13"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-03-13"
+teacher: "Captain Mattathias"
+description: "Giving The Sense From A to Z · 2024-03-13 · Captain Mattathias"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "betrayal", "christ", "pride", "prophecy"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-03-13</p>
+<p class="taught">Giving The Sense From A to Z · 2024-03-13 · Captain Mattathias</p>
 
 <span class="opens"><b>Opens</b> [2 Tim 3](/bible/2-timothy/3) · [2 Cor 11](/bible/2-corinthians/11) · [Rom 11](/bible/romans/11) · [1 Cor 10](/bible/1-corinthians/10) · [1 Cor 7](/bible/1-corinthians/7) · [Exod 7](/bible/exodus/7)</span>
 

@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 2 Timothy 4:1"
 slug: "2024/2024-03-27-giving-the-sense-from-a-to-z-2-timothy-4-1"
 date: "2024-03-27"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-03-27"
+teacher: "Captain Mattathias"
+description: "Giving The Sense From A to Z · 2024-03-27 · Captain Mattathias"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "adversity", "endurance"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-03-27</p>
+<p class="taught">Giving The Sense From A to Z · 2024-03-27 · Captain Mattathias</p>
 
 <span class="opens"><b>Opens</b> [2 Tim 4](/bible/2-timothy/4) · [2 Cor 5](/bible/2-corinthians/5) · [Phil 1](/bible/philippians/1) · [2 Pet 1](/bible/2-peter/1)</span>
 

@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Daniel 2:1"
 slug: "2023/2023-08-02-giving-the-sense-from-a-to-z-daniel-2-1"
 date: "2023-08-02"
-teacher: ""
-description: "Giving The Sense From A to Z · 2023-08-02"
+teacher: "Zakai"
+description: "Giving The Sense From A to Z · 2023-08-02 · Zakai"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "greece"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2023-08-02</p>
+<p class="taught">Giving The Sense From A to Z · 2023-08-02 · Zakai</p>
 
 <span class="opens"><b>Opens</b> [Matt 6](/bible/matthew/6) · [Dan 2](/bible/daniel/2) · [Jer 27](/bible/jeremiah/27) · [2 Kgs 3](/bible/2-kings/3) · [2 Kgs 2](/bible/2-kings/2) · [John 4](/bible/john/4) · [Acts 10](/bible/acts/10) · [Ezek 37](/bible/ezekiel/37) · [Exod 12](/bible/exodus/12) · [2 Chr 27](/bible/2-chronicles/27) · [1 Kgs 5](/bible/1-kings/5) · [1 Kgs 7](/bible/1-kings/7) · [1 Kgs 16](/bible/1-kings/16) · [Dan 4](/bible/daniel/4) · [Prov 21](/bible/proverbs/21) · [2 Chr 36](/bible/2-chronicles/36) · <i>and 6 more below</i></span>
 

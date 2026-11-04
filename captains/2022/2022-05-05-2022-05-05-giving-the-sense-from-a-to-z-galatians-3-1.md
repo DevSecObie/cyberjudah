@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Galatians 3:1"
 slug: "2022/2022-05-05-giving-the-sense-from-a-to-z-galatians-3-1"
 date: "2022-05-05"
-teacher: ""
-description: "Giving The Sense From A to Z · 2022-05-05"
+teacher: "Captain Zakar"
+description: "Giving The Sense From A to Z · 2022-05-05 · Captain Zakar"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "mercy"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2022-05-05</p>
+<p class="taught">Giving The Sense From A to Z · 2022-05-05 · Captain Zakar</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Isa 28](/bible/isaiah/28) · [Deut 6](/bible/deuteronomy/6) · [Gal 3](/bible/galatians/3) · [1 Pet 1](/bible/1-peter/1) · [Phil 3](/bible/philippians/3) · [2 Kgs 17](/bible/2-kings/17) · [Ezra 1](/bible/ezra/1) · [John 4](/bible/john/4) · [Isa 7](/bible/isaiah/7) · [Hos 1](/bible/hosea/1) · [Jer 31](/bible/jeremiah/31) · [Isa 49](/bible/isaiah/49) · [Rom 6](/bible/romans/6) · [Eph 5](/bible/ephesians/5) · [Eph 2](/bible/ephesians/2) · <i>and 3 more below</i></span>
 

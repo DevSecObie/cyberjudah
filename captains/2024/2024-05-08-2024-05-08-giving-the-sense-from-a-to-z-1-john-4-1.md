@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 John 4:1"
 slug: "2024/2024-05-08-giving-the-sense-from-a-to-z-1-john-4-1"
 date: "2024-05-08"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-05-08"
+teacher: "Captain Mattathias"
+description: "Giving The Sense From A to Z · 2024-05-08 · Captain Mattathias"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "deceit", "faith"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-05-08</p>
+<p class="taught">Giving The Sense From A to Z · 2024-05-08 · Captain Mattathias</p>
 
 <span class="opens"><b>Opens</b> [1 John 4](/bible/1-john/4)</span>
 

@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Revelation 9:13"
 slug: "2024/2024-10-15-giving-the-sense-from-a-to-z-revelation-9-13"
 date: "2024-10-15"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-10-15"
+teacher: "Captain Gedaliah"
+description: "Giving The Sense From A to Z · 2024-10-15 · Captain Gedaliah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "angels", "repentance", "war"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-10-15</p>
+<p class="taught">Giving The Sense From A to Z · 2024-10-15 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Rev 1](/bible/revelation/1) · [Rev 9](/bible/revelation/9) · [Rev 13](/bible/revelation/13) · [Isa 54](/bible/isaiah/54) · [Sir 39](/bible/sirach/39) · [2 Esdras 15](/bible/2-esdras/15) · [Heb 12](/bible/hebrews/12) · [Rev 16](/bible/revelation/16) · [2 Esdras 13](/bible/2-esdras/13)</span>
 

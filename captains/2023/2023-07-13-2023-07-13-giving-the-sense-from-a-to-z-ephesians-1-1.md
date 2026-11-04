@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Ephesians 1:1"
 slug: "2023/2023-07-13-giving-the-sense-from-a-to-z-ephesians-1-1"
 date: "2023-07-13"
-teacher: ""
-description: "Giving The Sense From A to Z · 2023-07-13"
+teacher: "Captain Horeb"
+description: "Giving The Sense From A to Z · 2023-07-13 · Captain Horeb"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "purpose", "the-body", "wisdom"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2023-07-13</p>
+<p class="taught">Giving The Sense From A to Z · 2023-07-13 · Captain Horeb</p>
 
 <span class="opens"><b>Opens</b> [Eph 1](/bible/ephesians/1) · [2 Pet 3](/bible/2-peter/3) · [Gal 1](/bible/galatians/1) · [Acts 21](/bible/acts/21) · [Rom 11](/bible/romans/11) · [Hos 7](/bible/hosea/7) · [Hos 4](/bible/hosea/4) · [John 4](/bible/john/4) · [Deut 32](/bible/deuteronomy/32) · [1 Cor 14](/bible/1-corinthians/14) · [Acts 19](/bible/acts/19) · [Acts 18](/bible/acts/18) · [Gal 4](/bible/galatians/4) · [1 John 3](/bible/1-john/3) · [Jer 29](/bible/jeremiah/29)</span>
 

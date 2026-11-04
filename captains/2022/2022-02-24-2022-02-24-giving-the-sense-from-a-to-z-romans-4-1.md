@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Romans 4:1"
 slug: "2022/2022-02-24-giving-the-sense-from-a-to-z-romans-4-1"
 date: "2022-02-24"
-teacher: ""
-description: "Giving The Sense From A to Z · 2022-02-24"
+teacher: "Captain Mattathias"
+description: "Giving The Sense From A to Z · 2022-02-24 · Captain Mattathias"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "faith", "mercy", "nations", "purpose", "the-law"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2022-02-24</p>
+<p class="taught">Giving The Sense From A to Z · 2022-02-24 · Captain Mattathias</p>
 
 <span class="opens"><b>Opens</b> [Rom 4](/bible/romans/4) · [Rom 3](/bible/romans/3) · [Gal 3](/bible/galatians/3)</span>
 

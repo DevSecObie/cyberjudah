@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Wisdom of Solomon 5:1"
 slug: "2022/2022-03-24-giving-the-sense-from-a-to-z-wisdom-of-solomon-5-1"
 date: "2022-03-24"
-teacher: ""
-description: "Giving The Sense From A to Z · 2022-03-24"
+teacher: "Captain Gedaliah"
+description: "Giving The Sense From A to Z · 2022-03-24 · Captain Gedaliah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "angels", "salvation", "wisdom"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2022-03-24</p>
+<p class="taught">Giving The Sense From A to Z · 2022-03-24 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Wis 4](/bible/wisdom-of-solomon/4) · [Job 22](/bible/job/22) · [Song 2](/bible/song-of-solomon/2) · [Isa 40](/bible/isaiah/40) · [Job 20](/bible/job/20) · [Obad 1](/bible/obadiah/1) · [Wis 5](/bible/wisdom-of-solomon/5) · [2 Esdras 13](/bible/2-esdras/13) · [Ps 91](/bible/psalms/91) · [Baruch 4](/bible/baruch/4) · [Isa 55](/bible/isaiah/55) · [John 3](/bible/john/3) · [Mal 4](/bible/malachi/4)</span>
 

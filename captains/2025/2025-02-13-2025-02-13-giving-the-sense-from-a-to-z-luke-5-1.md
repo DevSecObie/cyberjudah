@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 5:1"
 slug: "2025/2025-02-13-giving-the-sense-from-a-to-z-luke-5-1"
 date: "2025-02-13"
-teacher: ""
-description: "Giving The Sense From A to Z · 2025-02-13"
+teacher: "Captain Yadayah"
+description: "Giving The Sense From A to Z · 2025-02-13 · Captain Yadayah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-02-13</p>
+<p class="taught">Giving The Sense From A to Z · 2025-02-13 · Captain Yadayah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Ps 111](/bible/psalms/111) · [2 Tim 2](/bible/2-timothy/2) · [Isa 28](/bible/isaiah/28) · [Luke 5](/bible/luke/5)</span>
 

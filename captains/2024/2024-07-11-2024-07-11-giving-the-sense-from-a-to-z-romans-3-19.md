@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Romans 3:19"
 slug: "2024/2024-07-11-giving-the-sense-from-a-to-z-romans-3-19"
 date: "2024-07-11"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-07-11"
+teacher: "Captain Matt"
+description: "Giving The Sense From A to Z · 2024-07-11 · Captain Matt"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "faith", "pride", "purpose", "the-law"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-07-11</p>
+<p class="taught">Giving The Sense From A to Z · 2024-07-11 · Captain Matt</p>
 
 <span class="opens"><b>Opens</b> [Rom 3](/bible/romans/3) · [Heb 10](/bible/hebrews/10)</span>
 
