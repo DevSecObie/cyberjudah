@@ -249,3 +249,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 - Giving The Sense From A to Z notes for six classes, 2023-07-18 to 2023-07-26: Daniel 1:1, 1 Timothy 3:1, 1 Thessalonians 1:1, Jeremiah 4:1, Ephesians 1:8 and 1 Timothy 4:1. Teachers whose names were not clear are left blank.
 - Data build: the search index SQL is built as a Buffer rather than one huge string, so the build no longer runs out of heap; a search-index part that gzips over 20 MiB is split in half instead of failing the build.
+
+## Batch 44
+
+- Giving The Sense From A to Z notes for six classes, 2023-07-05 to 2023-07-13: 1 Peter 5:1, Jeremiah 2:14, 2 Peter 1:1, Luke 9:34, Jeremiah 3:1 and Ephesians 1:1. The 2023-07-11 class was uploaded in two parts, so it has two notes. Teachers whose names were not clear are left blank.
