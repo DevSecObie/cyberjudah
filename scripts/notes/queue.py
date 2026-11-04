@@ -2,6 +2,7 @@
 """What is still unwritten, and when it aired.
 
     queue.py covered
+    queue.py backlog [--rank Bishop,Deacon] [--min-minutes 10] [--limit N]
     queue.py plan <listing.json>... [--series NAME] [--title-contains STR]
                                     [--min-minutes 10] [--as-of YYYY-MM-DD] [--limit N]
 
@@ -18,6 +19,13 @@ the day the listing was taken, not the day the note is written. Getting that wro
 Sabbath class to the Sunday. Where a video appears in more than one listing the exact date
 wins; where only a relative age is known the date is marked ~ so it can be checked.
 
+`backlog` lists every harvested class (blog/transcripts) that no note cites yet, Bishops
+first, then Deacons, then Captains, then the rest, newest first within each rank: Bishop and Deacon classes take precedence. `plan` keeps the
+same order. The
+teacher comes from data/sources/class-teachers.tsv, then the class records
+(data/precepts/readings/videos.json), then a rank named in the title; Elder Nathanyel is
+Bishop Nathanyel.
+
 Nothing here touches the network. Save the API responses to disk, point this at them, and
 it will tell you what to work on next.
 """
@@ -32,6 +40,62 @@ def covered():
     for p in glob.glob(f"{ROOT}/blog/*/*.md") + glob.glob(f"{ROOT}/captains/*/*.md"):
         ids.update(re.findall(r'data-video-id="([\w-]{11})"', open(p, encoding="utf-8").read()))
     return ids
+
+RANKS = ("Bishop", "Deacon", "Captain")
+TITLED = re.compile(r"\b(Bishop|Deacon|Captain|Elder|Officer)s?\s+([A-Z][\w'-]+)", re.I)
+
+
+def teachers():
+    """video id -> teacher name, from the class records with class-teachers.tsv on top."""
+    names = {}
+    try:
+        for vid, row in json.load(open(f"{ROOT}/data/precepts/readings/videos.json", encoding="utf-8")).items():
+            if isinstance(row, dict) and row.get("teacher"):
+                names[vid] = row["teacher"].strip()
+    except (OSError, ValueError):
+        pass
+    try:
+        for line in open(f"{ROOT}/data/sources/class-teachers.tsv", encoding="utf-8"):
+            cells = line.rstrip("\n").split("\t")
+            if len(cells) >= 2 and re.fullmatch(r"[\w-]{11}", cells[0]) and cells[1].strip():
+                names[cells[0]] = cells[1].strip()
+    except OSError:
+        pass
+    return names
+
+
+def rank(teacher, title=""):
+    """(order, rank name): 0 Bishop, 1 Deacon, 2 Captain, 3 anyone else, 4 not known."""
+    name = (teacher or "").strip()
+    if not name:
+        m = TITLED.search(title or "")
+        name = f"{m.group(1)} {m.group(2)}" if m else ""
+    if re.match(r"elder\s+nathanyel\b", name, re.I):
+        return 0, "Bishop"
+    for i, r in enumerate(RANKS):
+        if name.lower().startswith(r.lower()):
+            return i, r
+    return (3, "Other") if name else (4, "Not known")
+
+
+def backlog():
+    """Every harvested class with no note: (order, rank, date, video, minutes, teacher, title)."""
+    done, names, out = covered(), teachers(), []
+    for p in glob.glob(f"{ROOT}/blog/transcripts/*.json"):
+        vid = os.path.basename(p)[:-5]
+        if vid in done:
+            continue
+        try:
+            d = json.load(open(p, encoding="utf-8"))
+        except (OSError, ValueError):
+            continue
+        teacher = names.get(vid, "")
+        order, r = rank(teacher, d.get("title", ""))
+        out.append((order, r, d.get("date") or "", vid, int((d.get("duration") or 0) // 60), teacher, d.get("title", "")))
+    out.sort(key=lambda t: (t[2], t[3]), reverse=True)  # newest first, undated last
+    out.sort(key=lambda t: (t[0], not t[2]))
+    return out
+
 
 def seconds(text):
     """"2:52:08" -> 10328. None for Upcoming, LIVE, or anything not a duration."""
@@ -94,11 +158,26 @@ def main(argv):
             print(v)
         return 0
 
+    def opt(name, default=None):
+        return args[args.index(name) + 1] if name in args else default
+
+    if cmd == "backlog":
+        wanted = {r.strip().lower() for r in (opt("--rank") or "").split(",") if r.strip()}
+        shortest = float(opt("--min-minutes", 10))
+        rows = [t for t in backlog() if (not wanted or t[1].lower() in wanted) and (t[4] == 0 or t[4] >= shortest)]  # 0: length not known
+        limit = int(opt("--limit", 0) or 0)
+        for order, r, d, vid, minutes, teacher, title in rows[:limit or None]:
+            print(f"{r}\t{d or 'undated'}\t{vid}\t{minutes}m\t{teacher}\t{title}")
+        counts = {}
+        for t in rows:
+            counts[t[1]] = counts.get(t[1], 0) + 1
+        print(f"\n{len(rows)} without notes: " + ", ".join(f"{counts[r]} {r}" for r in
+              ("Bishop", "Deacon", "Captain", "Other", "Not known") if r in counts), file=sys.stderr)
+        return 0
+
     if cmd != "plan":
         print(__doc__); return 2
 
-    def opt(name, default=None):
-        return args[args.index(name) + 1] if name in args else default
     paths = [a for a in args if not a.startswith("--") and not _is_optval(args, a)]
     as_of = date.fromisoformat(opt("--as-of")) if opt("--as-of") else datetime.now(timezone.utc).date()
     min_s = float(opt("--min-minutes", 10)) * 60
@@ -122,7 +201,10 @@ def main(argv):
         d, exact = when(r, as_of)
         todo.append((d or date.min, exact, vid, secs, title))
 
+    # Bishops, then Deacons, then everyone else; newest first within each.
+    names = teachers()
     todo.sort(key=lambda t: t[0], reverse=True)
+    todo.sort(key=lambda t: rank(names.get(t[2], ""), t[4])[0])
     if limit:
         todo = todo[:limit]
     for d, exact, vid, secs, title in todo:

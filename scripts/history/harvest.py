@@ -342,6 +342,16 @@ def commit_and_push(root, fdir, tdir, nocap, agegate, meta_all, added, nosub, fe
     print("push: ok", flush=True)
 
 
+# Bishop and Deacon classes come first. A flat channel listing knows only the
+# title, so a title that names a Bishop or a Deacon goes to the front of a run's fetches.
+FIRST = re.compile(r"\b(bishops?|deacons?|elder\s+nathanyel)\b", re.I)
+
+
+def first_priority(row):
+    """0 for a video whose title names a Bishop or a Deacon, else 1 (sort key, stable)."""
+    return 0 if FIRST.search(row[2] or "") else 1
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--feed", required=True, choices=sorted(FEEDS))
@@ -360,7 +370,17 @@ def main():
                          "livestream's captions often appear hours after the harvest saw none")
     ap.add_argument("--completion-marker",
                     help="write a JSON marker when the source has no remaining videos to fetch")
+    ap.add_argument("--search", help="comma-separated words: list only the channel's own search "
+                    "results for them (e.g. bishop,deacon) instead of its tabs; never completes it")
     a = ap.parse_args()
+    if a.search:
+        if not a.channel or (a.listing_backend or a.backend) != "yt-dlp":
+            ap.error("--search needs --channel and the yt-dlp listing backend")
+        words = [w.strip() for w in a.search.split(",") if re.fullmatch(r"[A-Za-z]+", w.strip())]
+        if not words:
+            ap.error("--search takes plain words")
+        a.tabs = ",".join(f"search?query={w}" for w in words)
+        a.completion_marker = None  # a search shows part of a channel, never all of it
 
     fdir = os.path.join(ROOT, FEEDS[a.feed]); tdir = os.path.join(fdir, "transcripts"); os.makedirs(tdir, exist_ok=True)
     nocap = os.path.join(fdir, "no-captions.tsv"); meta_all = os.path.join(fdir, "channel-meta.tsv")
@@ -388,10 +408,11 @@ def main():
     done |= nocaption_skips(nocap, a.recheck_nocaption_days)
     if os.path.exists(agegate):
         done |= {l.split("\t")[0] for l in open(agegate) if l.strip()}
-    todo = [r for r in rows if r[0] not in done][: a.limit]
+    todo = sorted((r for r in rows if r[0] not in done), key=first_priority)[: a.limit]
     print(
         f"{a.playlist or a.channel}: {len(rows)} videos in the source, "
-        f"{sum(1 for r in rows if r[0] in done)} already in the vault, {len(todo)} to fetch",
+        f"{sum(1 for r in rows if r[0] in done)} already in the vault, {len(todo)} to fetch "
+        f"({sum(1 for r in todo if first_priority(r) == 0)} naming a Bishop or Deacon, fetched first)",
         flush=True
     )
 
@@ -568,7 +589,7 @@ def main():
         if a.push and (added or nosub):
             commit_and_push(ROOT, fdir, tdir, nocap, agegate, meta_all, added, nosub, a.feed)
 
-    if a.feed == "classes":
+    if a.feed == "classes" and not a.search:  # the channel run that follows does the backfill
         since = (datetime.now(timezone.utc) - timedelta(days=60)).date().isoformat()
         filled = backfill_broadcasts(ROOT, tdir, since, reasons=broadcast_misses)
         if filled:

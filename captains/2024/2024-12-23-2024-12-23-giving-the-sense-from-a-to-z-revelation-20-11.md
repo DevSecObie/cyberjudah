@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: Revelation 20:11"
 slug: "2024/2024-12-23-giving-the-sense-from-a-to-z-revelation-20-11"
 date: "2024-12-23"
-teacher: ""
+teacher: "Captain Azariah"
 description: "Giving The Sense From A to Z · 2024-12-23"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "endurance", "heaven-hell", "salvation"]
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "endurance", "heaven-hell", "salvation"]
 
 ## Introduction
 
-*[[2:37](https://www.youtube.com/watch?v=It45coBiNGY&t=157s)]* Shalom Israel, most high in Christ bless, Captain as right here, this is Giving The Sense From A to Z. All Praises be to the most high God, so I'm gonna hop right into it, we're going to get started. Y'all forgive me if I sound a little congested, getting over a little sickness here. So Revelations chapter 20, we're going to start back at verse 11. So all right, watch this, so fact I'm gonna start at 10 and read down, this is Revelation chapter 20 verse 10: devil that deceived them was cast into the lake of fire and brimstone, but the Beast, the false prophet are, and shall be tormented day and night forever and ever. Just like the captains before was bringing out, go back and watch Captain Gia's class as well as Captain's class. Captain Gia started at verse one down and picked up where he left, finished at 10. So now verse 11.
+*[[2:37](https://www.youtube.com/watch?v=It45coBiNGY&t=157s)]* Shalom Israel, most high in Christ bless, Captain Azariah here, this is Giving The Sense From A to Z. All Praises be to the most high God, so I'm gonna hop right into it, we're going to get started. Y'all forgive me if I sound a little congested, getting over a little sickness here. So Revelations chapter 20, we're going to start back at verse 11. So all right, watch this, so fact I'm gonna start at 10 and read down, this is Revelation chapter 20 verse 10: devil that deceived them was cast into the lake of fire and brimstone, but the Beast, the false prophet are, and shall be tormented day and night forever and ever. Just like the captains before was bringing out, go back and watch Captain Gedaliah's class as well as Captain's class. Captain Gedaliah started at verse one down and picked up where he left, finished at 10. So now verse 11.
 
 ## Scriptures Opened
 
