@@ -212,3 +212,8 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 - Hebrews 11:14 (2024-04-22, host heard as "Captain Aiah", left blank), 2 Timothy 4:1 (2024-03-27, host says only "Captain M", left blank), Isaiah 14:12 (2024-03-26, host never names himself, left blank), Philemon 1:12 (2024-03-21, Captain Josiah of IUIC Raleigh, as he names himself), Ezra 2:1 (2024-03-18, Captain Matthew, as he names himself) and Ephesians 6:1 (2024-03-14, Captain Horeb of Kansas City).
 - These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
+
+## Batch 36
+
+- 2 Timothy 3:1 (2024-03-13, host of IUIC Tallahassee heard as "Captain Matthaias", left blank), Isaiah 14:1 (2024-03-12, Captain Gedaliah of IUIC Raleigh), Philemon 1:1 (2024-03-07, Captain Josiah), Ezra 1:1 (2024-03-06, Captain Matthew, as he names himself), Wisdom of Solomon 1:1 (2024-03-04, host heard as "Captain yah", left blank) and 2 Timothy 2:1 (2024-02-28, Captain Mattathias).
+- These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
