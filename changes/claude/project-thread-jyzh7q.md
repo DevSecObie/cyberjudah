@@ -187,3 +187,8 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 - Revelation 3:14 (2024-08-28, Captain Mattathias, heard as "Captain Matas"), 3:10 (2024-08-22, Captain Josiah of North Carolina), 3:6 (2024-08-15, Captain Matthew, as he names himself), 3:1 (2024-08-14, host heard only as "Captain M", left blank), 2:17 (2024-08-06, host of IUIC Arkansas heard as "Captain uel", left blank) and 2:12 (2024-08-05, Captain Matt of IUIC New Orleans, as he names himself).
 - These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
+
+## Batch 31
+
+- Revelation 2:6 (2024-08-01, Captain Horeb, heard as "Captain Herb"), 2:1 (2024-07-31, host never names himself, left blank), 1:9 (2024-07-30, host heard only as "C gah", left blank), 1:1 (2024-07-29, host heard as "Captain Zachariah"; the next two classes call the previous host Captain Zakar, so left blank), Ezra 4:1 (2024-07-18, Captain Matthew, as he names himself; the upload is titled Ezra 2) and John 1:7 (2024-07-17, host never names himself, left blank).
+- These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
