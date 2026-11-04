@@ -202,3 +202,8 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 - 1 John 5:1 (2024-06-19, host heard as "Captain Mathaious", left blank), Galatians 5:5 (2024-06-18, host never names himself, left blank), Colossians 1:22 (2024-06-13, Captain Josiah), Galatians 5:1 (2024-06-04, host heard as "Captain Gad a liar", left blank), Romans 2:17 (2024-05-28, Captain Matthew of IUIC New Orleans, as he names himself) and Colossians 1:10 (2024-05-23, Captain Josiah of Raleigh, as he names himself).
 - These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
+
+## Batch 34
+
+- Colossians 1:1 (2024-05-09, Captain Josiah), 1 John 4:1 (2024-05-08, host heard as "Captain mat th", left blank), Romans 2:1 (2024-05-07, host of IUIC New Orleans says both "Captain Matt" and "Captain Matthew", left blank), Hebrews 12:1 (2024-05-06, Captain Azariah, as he names himself), 1 Corinthians 7:1 (2024-05-02, Captain Horeb) and Sirach 25:1 (2024-04-24, Captain Gedaliah).
+- These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
