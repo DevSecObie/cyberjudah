@@ -13,8 +13,17 @@ class PriorityTests(unittest.TestCase):
                 ("f" * 11, "60", None, None, None)]
         self.assertEqual([r[0][0] for r in sorted(rows, key=first_priority)], list("bceadf"))
 
+    def test_yawasap_and_kani_come_before_other_bishops(self):
+        rows = [("a" * 11, "60", "Bishop Nathanyel: The Prophets", None, None),
+                ("b" * 11, "60", "Bishop Yawasap | The Bible: Book of Our Fathers", None, None),
+                ("c" * 11, "60", "Deacon Isaac teaches", None, None),
+                ("d" * 11, "60", "BISHOP KANI - Hebrew Israelites", None, None),
+                ("e" * 11, "60", "Captain Yahn: Know Thyself", None, None)]
+        self.assertEqual([r[0][0] for r in sorted(rows, key=first_priority)], list("bdace"))
+        self.assertEqual(first_priority(("x" * 11, "1", "Kanisha's story", None, None)), 2)
+
     def test_words_inside_other_words_do_not_count(self):
-        self.assertEqual(first_priority(("x" * 11, "1", "Bishopric history", None, None)), 1)
+        self.assertEqual(first_priority(("x" * 11, "1", "Bishopric history", None, None)), 2)
 
 
 if __name__ == "__main__":
