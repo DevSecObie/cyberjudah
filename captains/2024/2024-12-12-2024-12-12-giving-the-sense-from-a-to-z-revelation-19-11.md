@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: Revelation 19:11"
 slug: "2024/2024-12-12-giving-the-sense-from-a-to-z-revelation-19-11"
 date: "2024-12-12"
-teacher: ""
+teacher: "Captain Gedaliah"
 description: "Giving The Sense From A to Z · 2024-12-12"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "angels", "the-word", "war"]

@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: Revelation 21:9"
 slug: "2025/2025-01-01-giving-the-sense-from-a-to-z-revelation-21-9"
 date: "2025-01-01"
-teacher: ""
+teacher: "Captain Gedaliah"
 description: "Giving The Sense From A to Z · 2025-01-01"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "marriage-family"]
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "marriage-family"]
 
 ## Introduction
 
-*[[3:06](https://www.youtube.com/watch?v=6NRHO63txKk&t=186s)]* Ladies and gentlemen, all praises, all praises. Shalom, shalom. Most High Christ bless, Most High Christ bless. Welcome to another edition of Giving The Sense From A to Z. I'm today's host, Captain Gia, and listen, well, hold on, let me put my glasses on for her real quick. Put on my glasses, man. All praise to the Most High. So Giving The Sense From A to Z, today we're gonna go over Revelation chapter 21. We're gonna read from verse 9 and try to get through the whole chapter if we can. Captain Azariah got from one to eight, I believe, so we're gonna try to get from nine all the way down to, I believe, what is it, 27. Whoa, might not get there, it is what it is. Today I got reading for me Al John. All praises to the Lord, all praise to the Lord. So let's jump right into it.
+*[[3:06](https://www.youtube.com/watch?v=6NRHO63txKk&t=186s)]* Ladies and gentlemen, all praises, all praises. Shalom, shalom. Most High Christ bless, Most High Christ bless. Welcome to another edition of Giving The Sense From A to Z. I'm today's host, Captain Gedaliah, and listen, well, hold on, let me put my glasses on for her real quick. Put on my glasses, man. All praise to the Most High. So Giving The Sense From A to Z, today we're gonna go over Revelation chapter 21. We're gonna read from verse 9 and try to get through the whole chapter if we can. Captain Azariah got from one to eight, I believe, so we're gonna try to get from nine all the way down to, I believe, what is it, 27. Whoa, might not get there, it is what it is. Today I got reading for me Al John. All praises to the Lord, all praise to the Lord. So let's jump right into it.
 
 ## Scriptures Opened
 

@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: Revelation 20:5"
 slug: "2024/2024-12-18-giving-the-sense-from-a-to-z-revelation-20-5"
 date: "2024-12-18"
-teacher: ""
+teacher: "Zakai"
 description: "Giving The Sense From A to Z · 2024-12-18"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "salvation"]

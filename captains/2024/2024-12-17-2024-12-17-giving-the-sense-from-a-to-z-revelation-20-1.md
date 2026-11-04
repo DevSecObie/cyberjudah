@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: Revelation 20:1"
 slug: "2024/2024-12-17-giving-the-sense-from-a-to-z-revelation-20-1"
 date: "2024-12-17"
-teacher: ""
+teacher: "Captain Gedaliah"
 description: "Giving The Sense From A to Z · 2024-12-17"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "heaven-hell", "satan", "the-word"]
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "satan", "the-word"]
 
 ## Introduction
 
-*[[0:22](https://www.youtube.com/watch?v=YJul-DF76kw&t=22s)]* Hey, shalom Israel, Most High Christ bless. I am Captain G, Israel United in Christ. I cannot contain my excitement, you probably can hear it in my voice. First of all I'm excited because it's the closing of the Feast of Dedication. We done got it in for the last eight days, brothers and sisters, we done had an excellent time the last eight days celebrating the Feast of Dedication, which is in the Bible. Which Christmas is not in the Bible, but Feast of Dedication is in the Bible. We are closing out today; actually in the next few hours the feast will be over. It's been an excellent feast, all praises to the Most High, and I'm just excited. I'm also excited because today on Giving the Sense from A to Z we going to be delving into Revelation chapter 20. So I was blessed and fortunate last week filling in for one of the other captains, getting a chance to teach Revelation chapter 19. So all praise to the Most High, like I mentioned man, we going into Revelation chapter 20 today. Last week I was able to finish off Revelation chapter 19 and it was an honor, and I pray that I'm able to finish Revelation chapter 20, which I doubt, because Revelation chapter 20 is about 14, 15 verses but it's so much in it. Okay, let me show you something. This is Giving the Sense from A to Z; let's start off where we always start off, in the book of Nehemiah chapter 8 and verse 8.
+*[[0:22](https://www.youtube.com/watch?v=YJul-DF76kw&t=22s)]* Hey, shalom Israel, Most High Christ bless. I am Captain Gedaliah, Israel United in Christ. I cannot contain my excitement, you probably can hear it in my voice. First of all I'm excited because it's the closing of the Feast of Dedication. We done got it in for the last eight days, brothers and sisters, we done had an excellent time the last eight days celebrating the Feast of Dedication, which is in the Bible. Which Christmas is not in the Bible, but Feast of Dedication is in the Bible. We are closing out today; actually in the next few hours the feast will be over. It's been an excellent feast, all praises to the Most High, and I'm just excited. I'm also excited because today on Giving the Sense from A to Z we going to be delving into Revelation chapter 20. So I was blessed and fortunate last week filling in for one of the other captains, getting a chance to teach Revelation chapter 19. So all praise to the Most High, like I mentioned man, we going into Revelation chapter 20 today. Last week I was able to finish off Revelation chapter 19 and it was an honor, and I pray that I'm able to finish Revelation chapter 20, which I doubt, because Revelation chapter 20 is about 14, 15 verses but it's so much in it. Okay, let me show you something. This is Giving the Sense from A to Z; let's start off where we always start off, in the book of Nehemiah chapter 8 and verse 8.
 
 ## Scriptures Opened
 
