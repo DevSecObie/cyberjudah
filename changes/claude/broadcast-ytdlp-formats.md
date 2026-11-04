@@ -1,0 +1,1 @@
+- Class broadcast starts are recorded again: the lookup asked YouTube for a playable format it doesn't need, and YouTube now refuses that, so nothing had been recorded since 2026-10-03 and a day's classes fell out of broadcast order in the app. It now reads only the start time, and the lookup runs daily for the last 60 days instead of only by hand.

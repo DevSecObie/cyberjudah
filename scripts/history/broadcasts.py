@@ -82,7 +82,7 @@ def fetch_ytdlp(video, teaching_date):
         day = date.fromisoformat(teaching_date).isoformat()
     except (TypeError, ValueError):
         return None, "the class has no valid date"
-    command = ["yt-dlp", "--skip-download", "--no-warnings", "--ignore-config",
+    command = ["yt-dlp", "--skip-download", "--ignore-no-formats-error", "--no-warnings", "--ignore-config",
                "--print", "%(id)s %(live_status)s %(release_timestamp)s"]
     cookies = os.environ.get(COOKIES_ENV)
     if cookies and os.path.exists(cookies):
