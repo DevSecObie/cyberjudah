@@ -1,0 +1,1 @@
+- The hourly Bishop/Deacon channel search also searches for "Yawasap" and "Kani", and classes naming Bishop Yawasap or Bishop Kani are fetched before other Bishop and Deacon classes, since those two have the fewest classes in the vault. Classes already in the vault are still skipped.

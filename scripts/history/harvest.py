@@ -344,12 +344,19 @@ def commit_and_push(root, fdir, tdir, nocap, agegate, meta_all, added, nosub, fe
 
 # Bishop and Deacon classes come first. A flat channel listing knows only the
 # title, so a title that names a Bishop or a Deacon goes to the front of a run's fetches.
+# Bishop Yawasap and Bishop Kani have the fewest classes in the vault, so their titles come
+# before any other Bishop or Deacon class.
+THINNEST = re.compile(r"\b(yawasap|kani)\b", re.I)
 FIRST = re.compile(r"\b(bishops?|deacons?|elder\s+nathanyel)\b", re.I)
 
 
 def first_priority(row):
-    """0 for a video whose title names a Bishop or a Deacon, else 1 (sort key, stable)."""
-    return 0 if FIRST.search(row[2] or "") else 1
+    """Sort key (stable): 0 names Bishop Yawasap or Bishop Kani, 1 any other Bishop or a
+    Deacon, 2 everything else."""
+    title = row[2] or ""
+    if THINNEST.search(title):
+        return 0
+    return 1 if FIRST.search(title) else 2
 
 
 def main():
@@ -412,7 +419,7 @@ def main():
     print(
         f"{a.playlist or a.channel}: {len(rows)} videos in the source, "
         f"{sum(1 for r in rows if r[0] in done)} already in the vault, {len(todo)} to fetch "
-        f"({sum(1 for r in todo if first_priority(r) == 0)} naming a Bishop or Deacon, fetched first)",
+        f"({sum(1 for r in todo if first_priority(r) < 2)} naming a Bishop or Deacon, fetched first)",
         flush=True
     )
 
