@@ -285,3 +285,5 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Giving The Sense hosts
 
 - Names the hosts of 77 Giving The Sense From A to Z notes that had none, and spells Captain Yadayah (not Yaya or Yadaya) in data/names.tsv.
+
+- Captain Yadin is his own entry in data/names.tsv (a different man from Captain Yadon), and the three 2022 James classes name him.

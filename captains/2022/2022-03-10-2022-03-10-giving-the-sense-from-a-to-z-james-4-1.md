@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: James 4:1"
 slug: "2022/2022-03-10-giving-the-sense-from-a-to-z-james-4-1"
 date: "2022-03-10"
-teacher: "Captain Yadon"
-description: "Giving The Sense From A to Z · 2022-03-10 · Captain Yadon"
+teacher: "Captain Yadin"
+description: "Giving The Sense From A to Z · 2022-03-10 · Captain Yadin"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "anger", "prayer", "pride", "sexual-purity", "the-law"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2022-03-10 · Captain Yadon</p>
+<p class="taught">Giving The Sense From A to Z · 2022-03-10 · Captain Yadin</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [James 4](/bible/james/4)</span>
 
