@@ -240,3 +240,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Batch 41
 
 - Giving The Sense From A to Z notes for six classes, 2023-08-08 to 2023-08-30: Jude 1:1, 1 Timothy 5:1, Jeremiah 6:1, Jeremiah 6:14, Jeremiah 7:1 and Daniel 3:1. Teachers whose names were not clear are left blank.
+
+## Batch 42
+
+- Giving The Sense From A to Z notes for six classes, 2023-07-27 to 2023-08-07: Ephesians 1:13, Hebrews 4:1, 1 Thessalonians 2:1, Daniel 2:1, Ephesians 2:1 and Jeremiah 5:1. Teachers whose names were not clear are left blank.
