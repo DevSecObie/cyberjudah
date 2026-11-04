@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Revelation 16:10"
 slug: "2024/2024-11-26-giving-the-sense-from-a-to-z-revelation-16-10"
 date: "2024-11-26"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "Giving The Sense From A to Z · 2024-11-26"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "media", "satan", "war"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-11-26 · Captain Emmanuel</p>
+<p class="taught">Giving The Sense From A to Z · 2024-11-26 · Captain Immanuel</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Rev 16](/bible/revelation/16) · [Rev 13](/bible/revelation/13) · [2 Thess 2](/bible/2-thessalonians/2) · [Rev 17](/bible/revelation/17) · [Isa 14](/bible/isaiah/14) · [Job 10](/bible/job/10) · [Ps 107](/bible/psalms/107) · [Dan 2](/bible/daniel/2) · [Isa 60](/bible/isaiah/60) · [Sir 17](/bible/sirach/17) · [Rev 9](/bible/revelation/9) · [2 Esdras 15](/bible/2-esdras/15)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "media", "sata
 
 ## Introduction
 
-*[[1:29](https://www.youtube.com/watch?v=9jIjc6dlLhw&t=89s)]* Shalom shalom Israel, Most High Christ bless. Welcome to another edition of Giving the Sense from A to Z. Today you got myself Captain Emmanuel of IUIC Arkansas, and today we going to continue with Revelation chapter 16. We don't got much time before Bishop Nathanyel shout out Tuesday, so let's get right into it. All right, let's open up with Nehemiah 8 and 8.
+*[[1:29](https://www.youtube.com/watch?v=9jIjc6dlLhw&t=89s)]* Shalom shalom Israel, Most High Christ bless. Welcome to another edition of Giving the Sense from A to Z. Today you got myself Captain Immanuel of IUIC Arkansas, and today we going to continue with Revelation chapter 16. We don't got much time before Bishop Nathanyel shout out Tuesday, so let's get right into it. All right, let's open up with Nehemiah 8 and 8.
 
 ## Scriptures Opened
 
