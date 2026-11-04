@@ -437,6 +437,8 @@ Reading from Article on the bombing of Hiroshima  *[[24:08](https://www.youtube.
 - These shall hate the …: They're going to what? Hate the …. It's going to come a point where your allies is going to hate you. The EU, those European powers, are going to hate you. Play me that video real quick. You know what I want: Putin.
 
 
+*[[50:53](https://www.youtube.com/watch?v=jTjmacbhQHg&t=3053s)]* **In The News: News report: Russia editor Steve Rosenberg from Moscow on Putin's address to the nation after Ukraine launched US and British long-range missiles at Russia, warning countries supplying Kyiv with weapons** — Your allies is going to hate you: Putin is warning everybody, the West, Babylon and America: if you allow Ukraine to use your resources we going to take this as a NATO attack, putting all y'all in the same boat (the ten horns hating the …).
+
 **[Revelation 17:16](/bible/revelation/17#v16)**  *[[51:56](https://www.youtube.com/watch?v=jTjmacbhQHg&t=3116s)]*
 
 > <sup>[16](/bible/revelation/17#v16)</sup> And the ten horns which thou sawest upon the beast, these shall hate the whore, and shall make her desolate and naked, and shall eat her flesh, and burn her with fire.
@@ -668,8 +670,6 @@ Reading from Bible dictionary: Idumea  *[[1:02:53](https://www.youtube.com/watch
 
 - And in her was found the blood of prophets, and of saints, and of all that were slain upon the earth: Because why? America is the one that destroyed us. They will be the ones, in these last days, where iniquity will be found: in America. The blood of the prophets, the holy prophets. That's why he telling us to rejoice. They the ones that came over, the transatlantic slave trade, sold us, did all type of atrocities. Our blood is yelling out, screaming out, no different from Abel. You understand?
 
-
-*[[50:53](https://www.youtube.com/watch?v=jTjmacbhQHg&t=3053s)]* **In The News: News report: Russia editor Steve Rosenberg from Moscow on Putin's address to the nation after Ukraine launched US and British long-range missiles at Russia, warning countries supplying Kyiv with weapons** — Your allies is going to hate you: Putin is warning everybody, the West, Babylon and America: if you allow Ukraine to use your resources we going to take this as a NATO attack, putting all y'all in the same boat (the ten horns hating the …).
 
 ## In Closing
 

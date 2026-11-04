@@ -103,6 +103,12 @@ tags: ["15 Minutes w/ The Captains", "angels", "deceit", "heaven-hell", "unity",
     And the dragon gave him his power: It says what? And the dragon gave him his power. Right, the dragon, Satan, gave him his power. And his seat, and great authority: Right, and his seat and great authority in the earth, all right.
 
 
+*[[15:14](https://www.youtube.com/watch?v=Dv4w9zq4zz0&t=914s)]* **In The News: Donald Trump promoting the "God Bless the USA" Bible with Lee Greenwood (King James Version with the Constitution, Bill of Rights, Declaration of Independence and Pledge of Allegiance)** — The beast with two horns like a lamb that spake as a dragon (Revelation 13:11): "We witnessing Bible prophecy come to pass, that president-elect Trump doing exactly what Revelations 13:11 said he would do."
+
+*[[18:21](https://www.youtube.com/watch?v=Dv4w9zq4zz0&t=1101s)]* **In The News: From the movie Oppenheimer: "Ultimate miracle to end World War II, bringing our boys home" ("This is a matter of life and death... I can perform this miracle")** — They deceive them that dwell on the earth by the means of those miracles (Revelation 13:14); he says it brings world peace, but it is a false sense of peace.
+
+*[[21:55](https://www.youtube.com/watch?v=Dv4w9zq4zz0&t=1315s)]* **In The News: Oppenheimer recalling the Bhagavad Gita: "Now I am become death, the destroyer of worlds"** — America, Edom, have become as death, the destroyer of worlds (2 Esdras 11:39, Isaiah 28:15).
+
 **[2 Esdras 11:39](/bible/2-esdras/11#v39)**  *[[24:03](https://www.youtube.com/watch?v=Dv4w9zq4zz0&t=1443s)]*
 
 > <sup>[39](/bible/2-esdras/11#v39)</sup> Art not thou it that remainest of the four beasts, whom I made to reign in my world, that the end of their times might come through them?
@@ -136,6 +142,8 @@ tags: ["15 Minutes w/ The Captains", "angels", "deceit", "heaven-hell", "unity",
 
     Who enlargeth his desire as hell: Who enlargeth his desire as what? As hell. And is as death: And is as what? As death. And is as death. All right, remember, it says what? He enlargeth his what? His desire as hell. Remember, when we get to Revelation 17, it talks about the great … that sitteth upon many waters, all right. They have naval, I'm sorry, they have naval bases, military bases all over the world, all right. They enlarge themselves. Why? Because they're trying to maintain that false sense of peace, all right, that Oppenheimer said they could, said they could finally have peace of their time. Meaning what? They're in rulership and they impressing the rest of the world, all right.
 
+
+*[[27:26](https://www.youtube.com/watch?v=Dv4w9zq4zz0&t=1646s)]* **In The News: Albert Einstein: "We scientists who release this immense power have overwhelming responsibility... to harness the atom for the benefit of mankind and not for mankind's destruction"** — The weapon was made to bring the end of mankind: war in his heart (Psalms 55:21), the world reserved unto fire (2 Peter 3:7), and all of Esau agree (Revelation 17:13).
 
 **[2 Esdras 11:39](/bible/2-esdras/11#v39)**  *[[28:12](https://www.youtube.com/watch?v=Dv4w9zq4zz0&t=1692s)]*
 
@@ -535,14 +543,6 @@ tags: ["15 Minutes w/ The Captains", "angels", "deceit", "heaven-hell", "unity",
 
 - For the plague thereof was exceeding great: There you go.
 
-
-*[[15:14](https://www.youtube.com/watch?v=Dv4w9zq4zz0&t=914s)]* **In The News: Donald Trump promoting the "God Bless the USA" Bible with Lee Greenwood (King James Version with the Constitution, Bill of Rights, Declaration of Independence and Pledge of Allegiance)** — The beast with two horns like a lamb that spake as a dragon (Revelation 13:11): "We witnessing Bible prophecy come to pass, that president-elect Trump doing exactly what Revelations 13:11 said he would do."
-
-*[[18:21](https://www.youtube.com/watch?v=Dv4w9zq4zz0&t=1101s)]* **In The News: From the movie Oppenheimer: "Ultimate miracle to end World War II, bringing our boys home" ("This is a matter of life and death... I can perform this miracle")** — They deceive them that dwell on the earth by the means of those miracles (Revelation 13:14); he says it brings world peace, but it is a false sense of peace.
-
-*[[21:55](https://www.youtube.com/watch?v=Dv4w9zq4zz0&t=1315s)]* **In The News: Oppenheimer recalling the Bhagavad Gita: "Now I am become death, the destroyer of worlds"** — America, Edom, have become as death, the destroyer of worlds (2 Esdras 11:39, Isaiah 28:15).
-
-*[[27:26](https://www.youtube.com/watch?v=Dv4w9zq4zz0&t=1646s)]* **In The News: Albert Einstein: "We scientists who release this immense power have overwhelming responsibility... to harness the atom for the benefit of mankind and not for mankind's destruction"** — The weapon was made to bring the end of mankind: war in his heart (Psalms 55:21), the world reserved unto fire (2 Peter 3:7), and all of Esau agree (Revelation 17:13).
 
 ## In Closing
 
