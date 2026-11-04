@@ -166,3 +166,8 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Class order for two batch 25 notes
 
 - class_order.py now also orders passages verse by verse (#772). Revelation 16:13 (2024-11-27) and 18:16 (2024-12-10) were out of that order; the script put them back. No words changed.
+
+## Batch 27
+
+- Revelation 13:13 (2024-11-11, Captain Immanuel of IUIC Arkansas), 13:1 (2024-11-07, Captain Azariah), 12:11 (2024-11-06, host never names himself, IUIC Sacramento, left blank), 12:8 (2024-11-05, Captain Gedaliah of Raleigh, heard as "C Gia"), 12:1 (2024-10-30, Captain Matthew, as he names himself) and 11:4 (2024-10-23, host never names himself, IUIC Sacramento, left blank).
+- These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
