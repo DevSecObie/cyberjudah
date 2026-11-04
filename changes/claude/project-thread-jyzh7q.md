@@ -257,3 +257,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Batch 45
 
 - Giving The Sense From A to Z notes for six classes, 2023-06-21 to 2023-06-29: 1 Timothy 1:1, 1 Peter 4:1, Mark 1:1, Hebrews 3:1, 1 Timothy 2:1 and Jeremiah 2:1. Teachers whose names were not clear are left blank.
+
+## Batch 46
+
+- Giving The Sense From A to Z notes for six classes, 2023-05-25 to 2023-06-20: Proverbs 1:1, 1 Peter 3:7, Hebrews 2:1, Daniel 12:1, Daniel 12:4 and Jeremiah 1:1. Teachers whose names were not clear are left blank.
