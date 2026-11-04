@@ -192,3 +192,8 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 - Revelation 2:6 (2024-08-01, Captain Horeb, heard as "Captain Herb"), 2:1 (2024-07-31, host never names himself, left blank), 1:9 (2024-07-30, host heard only as "C gah", left blank), 1:1 (2024-07-29, host heard as "Captain Zachariah"; the next two classes call the previous host Captain Zakar, so left blank), Ezra 4:1 (2024-07-18, Captain Matthew, as he names himself; the upload is titled Ezra 2) and John 1:7 (2024-07-17, host never names himself, left blank).
 - These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
+
+## Batch 32
+
+- Matthew 17:1 (2024-07-16, Captain Gedaliah, heard as "Captain Galiah"), Romans 3:19 (2024-07-11, host heard only as "C mat", left blank), John 1:1 (2024-07-03, host heard as "Captain mat thas", left blank), Romans 3:1 and Romans 2:25 (2024-07-02, Captain Matthew; the stream failed after 12 minutes and restarted, so each part has its own note) and Colossians 2:1 (2024-06-20, Captain Josiah).
+- These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
