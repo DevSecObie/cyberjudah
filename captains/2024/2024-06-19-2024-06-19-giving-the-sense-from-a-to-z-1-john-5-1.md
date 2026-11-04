@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: 1 John 5:1"
 slug: "2024/2024-06-19-giving-the-sense-from-a-to-z-1-john-5-1"
 date: "2024-06-19"
-teacher: "Captain Mathaious"
+teacher: ""
 description: "Giving The Sense From A to Z · 2024-06-19"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "faith", "prayer", "salvation", "the-word"]
