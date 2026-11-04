@@ -265,3 +265,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Batch 47
 
 - Giving The Sense From A to Z notes for six uploads, 2023-04-27 to 2023-05-18: 1 Peter 3:1, Hebrews 1:1, Psalms 51:1, and the 2023-05-18 John 8 class, which was uploaded in three parts (John 8:1, John 7:52 and John 8:12), so it has three notes. Teachers whose names were not clear are left blank.
+
+## Batch 48
+
+- First Giving The Sense From A to Z notes for 2022 (captains/2022), six classes from 2022-06-16 to 2022-10-27: 1 Peter 2:8, 1 John 1:1, 1 John 2:4, 1 John 2:28, 1 Peter 2:10 and Isaiah 53:1. Teachers whose names were not clear are left blank.
