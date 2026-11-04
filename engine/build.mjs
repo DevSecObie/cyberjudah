@@ -1018,31 +1018,44 @@ write(path.join(OUT, "llms.txt"), [
   }
   flushStmt();
   out.push("DROP TABLE IF EXISTS search_meta;", "CREATE TABLE search_meta(k TEXT PRIMARY KEY, v TEXT);", `INSERT INTO search_meta VALUES ('built', ${q(new Date().toISOString())}), ('rows', ${rows.length});`);
-  const sql = out.join("\n") + "\n";
-  const gz = zlib.gzipSync(sql, { level: 9 });
+  // Built as one Buffer, not one string: a single string this size is copied on the JS heap
+  // when it is encoded, and the build ran out of heap there.
+  const sqlBuf = Buffer.concat(out.map((st) => Buffer.from(st + "\n")));
+  const sqlBytes = sqlBuf.length;
+  const gz = zlib.gzipSync(sqlBuf, { level: 9 });
   fs.writeFileSync(path.join(OUT, "search.sql.gz"), gz);
   // The index is also written in parts under search-index/, each under 20 MiB gzipped and each
   // valid SQL on its own, to be run in order (the first creates the table, the last writes
   // search_meta); search-index/parts.json lists them. The Telegram bot's D1 load reads the parts.
   // (search/ is taken: the site's search feeds live there.)
-  const PART_MAX = 20 * 1048576, ratio = gz.length / sql.length, target = Math.floor((PART_MAX * 0.9) / ratio);
+  const PART_MAX = 20 * 1048576, ratio = gz.length / sqlBytes, target = Math.floor((PART_MAX * 0.9) / ratio);
   fs.rmSync(path.join(OUT, "search-index"), { recursive: true, force: true });
   fs.mkdirSync(path.join(OUT, "search-index"), { recursive: true });
   const parts = [];
   let chunk = [], chunkSize = 0;
-  const flushPart = () => {
-    if (!chunk.length) return;
-    let body = zlib.gzipSync(chunk.join("\n") + "\n", { level: 9 });
-    if (body.length > PART_MAX) throw new Error(`search part ${parts.length + 1} is ${body.length} bytes gzipped, over the ${PART_MAX} limit`);
+  // A part that compresses worse than the whole is split in half until each half fits.
+  const writePart = (sts) => {
+    const body = zlib.gzipSync(Buffer.concat(sts.map((st) => Buffer.from(st + "\n"))), { level: 9 });
+    if (body.length > PART_MAX) {
+      if (sts.length < 2) throw new Error(`search part ${parts.length + 1} is ${body.length} bytes gzipped, over the ${PART_MAX} limit`);
+      const mid = Math.ceil(sts.length / 2);
+      writePart(sts.slice(0, mid));
+      writePart(sts.slice(mid));
+      return;
+    }
     const name = `${String(parts.length + 1).padStart(2, "0")}.sql.gz`;
     fs.writeFileSync(path.join(OUT, "search-index", name), body);
-    parts.push({ file: name, bytes: body.length, statements: chunk.length });
+    parts.push({ file: name, bytes: body.length, statements: sts.length });
+  };
+  const flushPart = () => {
+    if (!chunk.length) return;
+    writePart(chunk);
     chunk = []; chunkSize = 0;
   };
   for (const st of out) { if (chunkSize + st.length > target && chunk.length) flushPart(); chunk.push(st); chunkSize += st.length; }
   flushPart();
-  writeJson(path.join(OUT, "search-index", "parts.json"), { built: new Date().toISOString(), rows: rows.length, sql_bytes: sql.length, parts });
-  console.error(`search.sql: ${rows.length} rows, ${(sql.length / 1048576).toFixed(1)} MB, ${(gz.length / 1048576).toFixed(1)} MB gzipped, in ${parts.length} parts`);
+  writeJson(path.join(OUT, "search-index", "parts.json"), { built: new Date().toISOString(), rows: rows.length, sql_bytes: sqlBytes, parts });
+  console.error(`search.sql: ${rows.length} rows, ${(sqlBytes / 1048576).toFixed(1)} MB, ${(gz.length / 1048576).toFixed(1)} MB gzipped, in ${parts.length} parts`);
 }
 
 /* ---------------- Pagefind: a static full-text index ---------------- */

@@ -248,3 +248,4 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Batch 43
 
 - Giving The Sense From A to Z notes for six classes, 2023-07-18 to 2023-07-26: Daniel 1:1, 1 Timothy 3:1, 1 Thessalonians 1:1, Jeremiah 4:1, Ephesians 1:8 and 1 Timothy 4:1. Teachers whose names were not clear are left blank.
+- Data build: the search index SQL is built as a Buffer rather than one huge string, so the build no longer runs out of heap; a search-index part that gzips over 20 MiB is split in half instead of failing the build.
