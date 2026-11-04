@@ -232,3 +232,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 - Jeremiah 13:1 (2024-01-17, Captain Immanuel of IUIC Arkansas), 2 Esdras 7:46 (2024-01-16, host never names himself, left blank), Philippians 2:1 (2024-01-15, Captain Matthew, as he names himself), Ephesians 4:24 (2024-01-11, host heard as "Captain theed", left blank), Daniel 9:1 (2024-01-10, Zakai) and 1 Timothy 6:1 (2024-01-08, host says only "Captain M", left blank).
 - These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
+
+## Batch 40
+
+- Giving The Sense From A to Z notes for six classes, 2023-11-29 to 2024-01-03: Revelation 1:1 and Revelation 1:6 (two parts of one 2023-11-29 class), 2 Thessalonians 3:1, Ephesians 4:1, Hebrews 9:1 and Titus 3:5. Teachers whose names were not clear are left blank.
