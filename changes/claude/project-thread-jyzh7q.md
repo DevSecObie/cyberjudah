@@ -222,3 +222,8 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 - Isaiah 13:10 (2024-02-27, Captain Gedaliah of IUIC Raleigh), James 1:13 (2024-02-20, Captain Matthew, as he names himself), Hebrews 11:1 (2024-02-19, Captain Azariah), James 1:1 (2024-02-15, Captain Matthew, as he names himself), 2 Timothy 1:1 (2024-02-14, Captain Mattathias) and Isaiah 13:1 (2024-02-13, Captain Gedaliah of IUIC Raleigh).
 - These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
+
+## Batch 38
+
+- Ephesians 5:1 (2024-02-08, host heard as "Captain ARB", left blank), Philippians 4:1 (2024-02-06, Captain Matthew, as he names himself), Hebrews 10:1 (2024-02-05, Captain Azariah), 1 Timothy 6:4 (2024-01-31, host heard as "Captain Madiz", left blank), Philippians 3:1 (2024-01-22, Captain Matthew) and Hebrews 9:15 (2024-01-18, Captain Azariah).
+- These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
