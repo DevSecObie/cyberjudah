@@ -47,7 +47,7 @@ JSON shape, existing fields are not removed or renamed without a note here.
 | `api/kjv/books.json` | `[{book, slug, chapters, verses, testament, url, chapterIds}]` |
 | `api/kjv/<book-slug>/index.json` | one book |
 | `api/kjv/<book-slug>/<chapter>.json` | `{book, chapter, translation, url, verses: [{verse, text}]}` |
-| `api/concordance/<book-slug>/<chapter>.json` | `{book, chapter, cited_by: [{kind, label, url, verses}]}`; emitted for every chapter |
+| `api/concordance/<book-slug>/<chapter>.json` | `{book, chapter, cited_by: [{kind, label, url, verses}], precepts, moments, commentary, people, places, read}`; emitted for every chapter. `read` is `{verse: [{video, t, ts, vt?, how, said?, feed, title, date, teacher, url?}]}`: every moment a recording in any feed read the verse aloud (`how`: `called`, `followed` or `verse`; `said`: the caption words where the reference was called for). A study note's `commentary` rows carry `sources`, in step with `points`: the class each point was found in, or null |
 | `api/notes/index.json` | every note: `{kind, title, url, book, chapters, range, date, year, series, teacher, topics, summary, videoId}` |
 | `api/notes/<site-path>.json` | one note with its Markdown `body`, e.g. `api/notes/classes/2026/<slug>.json` |
 | `api/laws/index.json` | parts and sections of the handbook |

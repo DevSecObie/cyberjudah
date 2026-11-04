@@ -11,6 +11,7 @@
 //   data/lexicon.tsv, data/topics.tsv                               encyclopedia terms, topic labels
 //   data/crossrefs.json                                             cross references
 import { loadClassMetadata, loadClassBroadcasts, loadRankTeachers, namedTeacher, correctedClass } from "./class-metadata.mjs";
+import crypto from "node:crypto";
 import fs from "node:fs";
 import path from "node:path";
 
@@ -254,12 +255,25 @@ export function loadLibrary(ROOT) {
     return w.length > 0 && w.every((x) => vw.has(x));
   };
   const verseList = (spec, n) => { if (!spec) return Array.from({ length: n }, (_, i) => i + 1); const out = []; for (const part of spec.split(",")) { const [a, b] = part.split("-").map(Number); for (let v = a; v <= (b || a); v++) if (v >= 1 && v <= n) out.push(v); } return out; };
-  const placePoints = (opened, pts, row) => {
+  // Where each 4 Chapters a Day bullet came from, when scripts/study/sources.py could find it in
+  // a class (null when it could not): keyed by study url, then sha1 of the bullet's line.
+  const studySourcesFile = path.join(DATA, "study", "sources.json");
+  const STUDY_SOURCES = fs.existsSync(studySourcesFile) ? JSON.parse(fs.readFileSync(studySourcesFile, "utf8")) : {};
+  const bulletKey = (line) => crypto.createHash("sha1").update(line.trim(), "utf8").digest("hex").slice(0, 12);
+  // A found source lends the class's note (title, date, teacher, url) when it has one.
+  let noteOfVideo = null;
+  const sourceOf = (s) => {
+    if (s == null) return null;
+    noteOfVideo ??= new Map(notes.filter((x) => x.videoId).map((x) => [x.videoId, x]));
+    const n = noteOfVideo.get(s.video);
+    return { ...s, title: n?.title || s.title, date: n?.date || s.date || "", teacher: s.teacher || n?.teacher || "", ...(n ? { url: n.url } : {}) };
+  };
+  const placePoints = (opened, pts, row, srcs = null) => {
     const texts = bible[opened.book]?.[opened.chapter] ?? [];
     const vs = verseList(opened.verses, texts.length);
     if (!vs.length || !pts.length) return;
-    const by = new Map();
-    for (const pt of pts) {
+    const by = new Map(), srcBy = new Map();
+    for (const [i, pt] of pts.entries()) {
       const w = wordsOf(pt); let best = vs[0], score = 0;
       for (const v of vs) { let s = 0; for (const x of wordsOf(texts[v - 1] ?? "")) if (w.has(x)) s++; if (s > score) { best = v; score = s; } }
       // A point that speaks to no verse of the passage in particular is not a comment on any
@@ -269,10 +283,12 @@ export function loadLibrary(ROOT) {
       // A point that only quotes the verse is the scripture, not the class's comment on it.
       if (quotesVerse(pt, texts[best - 1] ?? "")) continue;
       const at = best;
-      if (!by.has(at)) by.set(at, []); by.get(at).push(pt);
+      if (!by.has(at)) { by.set(at, []); srcBy.set(at, []); } by.get(at).push(pt); srcBy.get(at).push(srcs ? srcs[i] ?? null : undefined);
     }
     const k = `${opened.book}|${opened.chapter}`; if (!commentary.has(k)) commentary.set(k, []);
-    for (const [v, list] of [...by].sort((a, b) => a[0] - b[0])) commentary.get(k).push({ verses: String(v), passage: opened.label, points: list, ...row });
+    // A study note's points each carry their source (`sources`, in step with `points`): the class
+    // it was found in, or null when it could not be traced. Class notes are their own source.
+    for (const [v, list] of [...by].sort((a, b) => a[0] - b[0])) commentary.get(k).push({ verses: String(v), passage: opened.label, points: list, ...(srcs ? { sources: srcBy.get(v) } : {}), ...row });
   };
   const PRECEPT = /^\s+-\s+\*\*\[([^\]]+)\]\(\/bible\/([a-z0-9-]+)\/(\d+)(?:#v(\d+))?\)\*\*/;
   const refOf = (label, bslug, ch, anchor) => {
@@ -297,8 +313,9 @@ export function loadLibrary(ROOT) {
     const classNote = { label: n.title, url: n.url, date: n.date || "", teacher: n.teacher || "" };
     let note = classNote;
     const lines = body.split("\n");
-    let opened = null, ts = "", precept = null, point = "", video = null, points = [], passage = null;
-    const closePassage = () => { if (opened && points.length) placePoints(opened, points, { note, ts, video, t: ts ? secondsOf(ts) : 0 }); if (passage) passage.points = points.length; points = []; };
+    let opened = null, ts = "", precept = null, point = "", video = null, points = [], passage = null, pointSources = [];
+    const studySrc = n.kind === "study" ? (STUDY_SOURCES[n.url] ?? {}) : null;
+    const closePassage = () => { if (opened && points.length) placePoints(opened, points, { note, ts, video, t: ts ? secondsOf(ts) : 0 }, studySrc ? pointSources : null); if (passage) passage.points = points.length; points = []; pointSources = []; };
     const flush = () => {
       if (!opened || !precept) return;
       const text = precept.text.join(" ").replace(/\s+/g, " ").trim();
@@ -327,7 +344,7 @@ export function loadLibrary(ROOT) {
       if (!opened) continue;
       const pm = PRECEPT.exec(raw);
       if (pm) { flush(); const ref = refOf(pm[1], pm[2], pm[3], pm[4]); precept = ref ? { ref, text: [] } : null; continue; }
-      if (/^- /.test(raw)) { flush(); point = plain(raw.slice(2)); points.push(point); continue; }
+      if (/^- /.test(raw)) { flush(); point = plain(raw.slice(2)); points.push(point); if (studySrc) pointSources.push(sourceOf(studySrc[bulletKey(raw.slice(2))])); continue; }
       if (/^\S/.test(raw) && !/^>/.test(raw)) { flush(); if (/^#/.test(raw)) { closePassage(); opened = null; } continue; }
       if (precept && /^\s{4}\S/.test(raw) && !/^\s*>/.test(raw) && !/^\s*Precepts:/.test(raw)) precept.text.push(plain(raw));
     }
