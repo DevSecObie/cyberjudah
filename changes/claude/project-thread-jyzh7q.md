@@ -182,3 +182,8 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 - Revelation 7:4 (2024-09-19, Captain Azariah), 6:12 (2024-09-18, Zakai of IUIC Sacramento), 6:7 (2024-09-17, host heard only as "cap G", left blank), 6:1 (2024-09-11, Captain Mattathias), 5:1 (2024-09-05, host heard as "Captain AZ", left blank) and 4:1 (2024-09-03, Captain Gedaliah).
 - These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
+
+## Batch 30
+
+- Revelation 3:14 (2024-08-28, Captain Mattathias, heard as "Captain Matas"), 3:10 (2024-08-22, Captain Josiah of North Carolina), 3:6 (2024-08-15, Captain Matthew, as he names himself), 3:1 (2024-08-14, host heard only as "Captain M", left blank), 2:17 (2024-08-06, host of IUIC Arkansas heard as "Captain uel", left blank) and 2:12 (2024-08-05, Captain Matt of IUIC New Orleans, as he names himself).
+- These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
