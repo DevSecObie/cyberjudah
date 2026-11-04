@@ -18,12 +18,9 @@ tags: ["Our Hidden History", "edom-esau"]
 
 ## Introduction
 
-*[[6:13](https://www.youtube.com/watch?v=bAVa6xHECE0&t=373s)]* Hey, I haven't done the show in a minute, man. Feels different. All praises. Shout out to the leadership traveling abroad. All praise to the Most High. Shout out to all the men, safe travels. Also, shout out to Deacon Asaph's class yesterday as well, and Deacon Malachi's, the captains, Malachi and Deacon Asaph's class as well. All praise to the Most High.
-
-So let's get into it. Remember, Deacon, what he's going to next is the fourth beast, which is Rome. Let's get that real quick, in Daniel 7, the fourth beast. Hey, shout out, we got a reader. Praise to the Most High.
+So let's get into it. Remember, Deacon, what he's going to next is the fourth beast, which is Rome. Let's get that real quick, in Daniel 7, the fourth beast.
 
 ## Readings and Scriptures
-
 
 **[Daniel 7:7](/bible/daniel/7#v7)**  *[[7:03](https://www.youtube.com/watch?v=bAVa6xHECE0&t=423s)]*
 
@@ -51,7 +48,7 @@ So let's get into it. Remember, Deacon, what he's going to next is the fourth be
 
 - **Officer:** This is heavy that you touched on that, because I was actually watching a short. There's actually a lady who's a comedian and she speaks on how our people went through so much in slavery that there is no way in hell that she or her people can do the things that they do, and that that's why we dominate the Olympics. People laughing, but some are like, oh, you're being racist. What I'm saying is a good thing. I'm saying that these people are strong and they can handle stuff that we can't handle. We win the Olympics because of them.
 
-- Right. Mentally we're stronger. Physically we're stronger. Spiritually, stronger. Because who could have went through what we went through and still be around to this day? None of these other nations could have. Nobody went through what we went through, man. Fact. And we still here to this day.
+- Mentally we're stronger. Physically we're stronger. Spiritually, stronger. Because who could have went through what we went through and still be around to this day? None of these other nations could have. Nobody went through what we went through, man. Fact. And we still here to this day.
 
 **[Daniel 9:11-12](/bible/daniel/9#v11)**  *[[12:45](https://www.youtube.com/watch?v=bAVa6xHECE0&t=765s)]*
 
@@ -81,7 +78,6 @@ So let's get into it. Remember, Deacon, what he's going to next is the fourth be
 
 - **Officer:** And going back to the curses again, you got what Psalms 147:19 says the same. They did not meet these judgments that came upon us. They don't know the judgments. They don't know the punishments. They don't know the laws, the statutes. Only we do. Even to go back to that Amos 3 you just read, with Psalm 124, where it says if it had not been the Lord, let Israel say, yeah, we've all been consumed quickly. That's the Lord's mercy showing: through the traumatic effects, the generational trauma, the oppression and segregation, you will still prevail, because I am your God, the God of Abraham, Isaac and Jacob.
 
-- All praises. Hey, did y'all find it? We read it last week. It's probably on the Telegram. Officer Judah posted it. It should be in the same book. Hey, while you look for it, put this other page up on the Telegram.
 
 <div class="reading">
 
@@ -93,7 +89,7 @@ Reading from *Commentary* magazine, 1963, the essay "My Negro Problem—and Ours
 
 > Yet just as in childhood I envied Negroes for what seemed to me their superior masculinity, so I envy them today for what seems to me their superior physical grace and beauty.
 
-- Oh, read that again. So he envied us. He envied us for what? For what seemed to me their superior masculinity. Because we are stronger than him. And they know that. For our superior masculinity. That's why they envy. That's why they hate us. Their superior physical grace and beauty: the way we move, our swag, our style, our face.
+- So he envied us. He envied us for what? For what seemed to me their superior masculinity. Because we are stronger than him. And they know that. For our superior masculinity. That's why they envy. That's why they hate us. Their superior physical grace and beauty: the way we move, our swag, our style, our face.
 
 - Matter of fact, get the scripture that says that, Wisdom of Solomon 2. They hate to behold our face.
 
@@ -103,7 +99,7 @@ Reading from *Commentary* magazine, 1963, the essay "My Negro Problem—and Ours
 
 > <sup>[15](/bible/wisdom-of-solomon/2#v15)</sup> He is grievous unto us even to behold: for his life is not like other men’s, his ways are of another fashion.
 
-- So this is Esau. Esau hate to look at our face. They hate because why? They see God in us. Okay. They see God in us. Read it again. He is grievous unto us even to behold. For his life is not like other men's, his ways are of another fashion. So they can't stand to look at us, man. They can't stand it. Why? Because they see God. Our hair, our skin, okay, everything they wish they had. So that's why this is what this so-called Jew is explaining. He's one of a kind to explain this.
+- So this is Esau. Esau hate to look at our face. They hate because why? They see God in us. They see God in us. He is grievous unto us even to behold. For his life is not like other men's, his ways are of another fashion. So they can't stand to look at us, man. They can't stand it. Why? Because they see God. Our hair, our skin, okay, everything they wish they had. So that's why this is what this so-called Jew is explaining. He's one of a kind to explain this.
 
 <div class="reading">
 
@@ -117,11 +113,11 @@ Reading from *Commentary* magazine, 1963, "My Negro Problem—and Ours" by Norma
 
 > They are on the kind of terms with their own bodies that I should like to be on with mine—and for that precious quality they seem blessed to me.
 
-- Read that part again. And they would never be on that term with their bodies. So they know that we're blessed by the Most High God with that superior masculinity, that physical grace, of whatever we put our mind to, whatever we put our hands to. They envy us for that thing.
+- And they would never be on that term with their bodies. So they know that we're blessed by the Most High God with that superior masculinity, that physical grace, of whatever we put our mind to, whatever we put our hands to. They envy us for that thing.
 
 > The hatred I still feel for Negroes is the hardest of all the old feelings to face or admit, and it is the most hidden and the most overlarded by the conscious attitudes into which I have succeeded in willing myself.
 
-- Damn. Listen. Yo, in this article, it's all passion. This is coming straight from his spirit. Read that again. So he said it's the most hidden. They try to, he's trying to hide that hatred, but he can't. They can't hide it.
+- Damn. Yo, in this article, it's all passion. This is coming straight from his spirit. So he said it's the most hidden. They try to, he's trying to hide that hatred, but he can't. They can't hide it.
 
 > It no longer has, as for me it once did, any cause or justification (except, perhaps, that I am constantly being denied my right to an honest expression of the things I earned the right as a child to feel). How, then, do I know that this hatred has never entirely disappeared?
 
@@ -181,9 +177,9 @@ Reading from the page on Europeans in tropical Africa, from the book on African 
 
 > and the results of miasmatic and climatic influences; they must either be amalgamated with the white or black race,
 
-- Miasmatic, that's the air. Look that word up. Miasmatic means relating to a miasma: a foul, poisonous vapor or bad air rising from rotting organic matter. Right? So that's what Esau always called the continent of Africa. Any time they landed on the continent of Africa, they always said this is bad air. Bad air. So that's what miasmatic means. Bad air.
+- Miasmatic, that's the air. Look that word up. Miasmatic means relating to a miasma: a foul, poisonous vapor or bad air rising from rotting organic matter. So that's what Esau always called the continent of Africa. Any time they landed on the continent of Africa, they always said this is bad air. Bad air. So that's what miasmatic means. Bad air.
 
-- And they must either be amalgamated with the white or black race. Amalgamated mean they have to mix. In order to uphold their race, they got to mix with another race. And prominently with us, they have to mix with us. And that's why we mentioned the one Edomite that was talking with the sisters. Remember, sitting with the sisters, with the genes and so forth, and they was like, oh, we willing to pay money for your menstrual blood. A monopoly, they said, on their genes. Play that. That's nasty as hell.
+- And they must either be amalgamated with the white or black race. Amalgamated mean they have to mix. In order to uphold their race, they got to mix with another race. And prominently with us, they have to mix with us. And that's why we mentioned the one Edomite that was talking with the sisters. Remember, sitting with the sisters, with the genes and so forth, and they was like, oh, we willing to pay money for your menstrual blood. A monopoly, they said, on their genes. That's nasty as hell.
 
 </div>
 
@@ -193,7 +189,7 @@ Reading from the clip of Peter Nygard with the sisters, on their eggs and their 
 
 > Stem cell technology that Peter and I are investing in, that's called SCT, which takes the egg of a young, perfect woman specimen. Takes the egg and nucleus and puts our DNA in the nucleus.
 
-- But look how they smiling right now. They chilling, you know, we with some … who got money, until the … explain what they were there for. He said a young perfect woman specimen. You see that? He said it puts our DNA inside of the nucleus.
+- But look how they smiling right now. They chilling, you know, we with some … who got money, until the … explain what they were there for. He said a young perfect woman specimen. He said it puts our DNA inside of the nucleus.
 
 > And this is part of this genetic greatness that we don't see in any other race on the planet. These curvy, sexy black women from Africa. You girls have a kind of a monopoly on this genetic perfection.
 
@@ -221,7 +217,7 @@ Reading from the page on Europeans in tropical Africa, continued  *[[35:50](http
 
 > Again, we find that wherever the African race has been carried to, except perhaps the East Indies, they increase, no matter under what depressing and burdensome yoke they may suffer;
 
-- Right? The one shall be stronger than the other. The one shall be stronger than the other.
+- The one shall be stronger than the other. The one shall be stronger than the other.
 
 > from which it may be safely inferred that the African people is a permanent and enduring people,
 
@@ -281,7 +277,7 @@ Reading from a search result on melanin in next-generation space suits, read off
 
 > <sup>[16](/bible/genesis/27#v16)</sup> And she put the skins of the kids of the goats upon his hands, and upon the smooth of his neck:
 
-- Read it again. Right. So look it up. That's goat's hair right there. So that's the hair they have today. Goat's hair. So that's the hair that Esau was born with. Recessive genes. And it said the kids of the goats. Look up a kid goat.
+- So look it up. That's goat's hair right there. So that's the hair they have today. Goat's hair. So that's the hair that Esau was born with. Recessive genes. And it said the kids of the goats. Look up a kid goat.
 
 - **Officer:** And also remember that that's a different hair from Negro hair. Remember, two different manners of people. We got sheep hair. They got goat hair.
 
@@ -297,11 +293,11 @@ Reading from a page on the colour of Caucasian skin, read off the screen  *[[47:
 
 - So the pink to red color. They're not white. White means purity. They call themselves white. But the pink to red color of Caucasian skin is caused by hemoglobin, the red pigment of the blood cells. That's what you see in them. That's why we call them rednecks down south. That's why you slap one and they get red as hell. Even if they're in the sun for long as hell, this is what they, they blood all over. So it could be seen easily through the epidermis of the skin.
 
-- Hey, I forgot to show, I want to put this up real quick. Watch this. This goes back to us being stronger than them. The one shall be stronger than the other. This is from 1958. I want y'all to see this.
+- Hey, I forgot to show, I want to put this up real quick. This goes back to us being stronger than them. The one shall be stronger than the other. This is from 1958. I want y'all to see this.
 
 - **Officer:** You know, I was just thinking, right? Hemoglobin is the iron in the blood. And iron is what? Red. The fourth beast. The fourth part of the statue. The iron is showing through their skin. Their iron rusteth.
 
-- Wow. That's heavy. I got to write that down. All praises.
+- That's heavy. I got to write that down.
 
 </div>
 
@@ -311,7 +307,7 @@ Reading from a 1958 magazine page on the physical development of black infants  
 
 > Black infants develop physically sooner than other infants.
 
-- Read it again. Remember, Esau got that wimpy white boy syndrome. We are physically stronger than them, even from birth. This is from a magazine, 1958. Watch this.
+- Remember, Esau got that wimpy white boy syndrome. We are physically stronger than them, even from birth. This is from a magazine, 1958.
 
 > Nine hours old: able to keep the head from falling backwards.
 
@@ -331,7 +327,7 @@ Reading from a 1958 magazine page on the physical development of black infants  
 
 - **Officer:** This is war.
 
-- All right, you can take that down. All praises. Hold on. Play that real quick. Damn, y'all finding stuff.
+- All right, you can take that down. Damn, y'all finding stuff.
 
 </div>
 
@@ -375,11 +371,11 @@ Reading from Wikipedia, the article Oyinbo, read off the screen  *[[58:39](https
 
 > Oyinbo is a Yoruba word used to refer to white people. The word is popular in Nigeria among other groups as well, in a number of minor variations. Oyinbo is generally understood by most Nigerians and many Africans due to the popularity of Nollywood and Nigerian pop culture.
 
-- So this is a word. Oyinbo is a word to refer to white people. Watch this. Nollywood is their movies, like Hollywood and like Bollywood. Now you got Nollywood in Nigeria. Etymology: watch where it come from.
+- So this is a word. Oyinbo is a word to refer to white people. Nollywood is their movies, like Hollywood and like Bollywood. Now you got Nollywood in Nigeria. Etymology: watch where it come from.
 
 > Etymology. The word is coined from the Yoruba translation of peeled skin, lightened or skinless, which translates yin, to scratch, and bo, to peel off, lightened. The O that starts the word oyinbo is a pronoun. Hence oyinbo translates literally to the person with the peeled-off or lightened skin.
 
-- What do it mean? Peeled skin. So that's what they call Esau over there: the man with the peeled skin. Damn, he's skinless. Yin, meaning they pretty much scratched his skin off. Read that again. Oyinbo translates literally to the person with a peeled-off or lightened skin. So that's what it means. The man with the peeled skin. So that's what they refer to Esau as. Remember his name Esau means wasted away is he, because he lacked the melanin. Let's go back to Genesis. Let's try to get to another scripture.
+- What do it mean? Peeled skin. So that's what they call Esau over there: the man with the peeled skin. Damn, he's skinless. Yin, meaning they pretty much scratched his skin off. Oyinbo translates literally to the person with a peeled-off or lightened skin. So that's what it means. The man with the peeled skin. So that's what they refer to Esau as. Remember his name Esau means wasted away is he, because he lacked the melanin. Let's go back to Genesis. Let's try to get to another scripture.
 
 </div>
 
@@ -399,11 +395,11 @@ Reading from Wikipedia, the article Oyinbo, read off the screen  *[[58:39](https
 
 > <sup>[29](/bible/genesis/25#v29)</sup> And Jacob sod pottage: and Esau came from the field, and he was faint:
 
-- Why was he faint? Why was Esau faint? Because he can't stand the sun. We were just reading about that. They can't be in tropical climates. They call it bad air, because they lack the melanin. Hey, give me that, with skin cancer. Pull that up real quick.
+- Why was he faint? Why was Esau faint? Because he can't stand the sun. We were just reading about that. They can't be in tropical climates. They call it bad air, because they lack the melanin. Hey, give me that, with skin cancer.
 
 > <sup>[30](/bible/genesis/25#v30)</sup> And Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint: therefore was his name called Edom.
 
-- Therefore his name was called Edom, which means red. Read this.
+- Therefore his name was called Edom, which means red.
 
 <div class="reading">
 
@@ -466,7 +462,6 @@ Reading from a page on why white people get skin cancer, read off the screen  *[
 *[[1:11:35](https://www.youtube.com/watch?v=bAVa6xHECE0&t=4295s)]* The break. On the recording, the IUIC clips: brothers passing out water, about five hundred gallons, because it doesn't rain a lot, going to every house, every family with their five-gallon jugs; leadership leaving Osaka, Japan, headed towards Indonesia, and on Isaiah 11, that it is hard to tell because a lot of our people mix, and on that side of the world they take on the features of Chinese, Japanese, Indonesians, so Christ says go to all nations, my sheep hear my voice; Captain Shem in Washington, D.C., to support the family of our brother Kendrick Johnson, live on Fox News bringing out the holy scriptures, teaching that we are the Israelites according to the Bible, that we got to repent and that our God is bringing back vengeance; and the Our Hidden History spot: Solomon said, I am black, but it's more than just being black, we really want to know if you really know who you are.
 
 *[[1:16:00](https://www.youtube.com/watch?v=bAVa6xHECE0&t=4560s)]* Hey, we back from the break. It's crazy today, man. Maybe because the Deacon ain't here. We have a reader. All praise, Officer Eliya, man. You did okay. You held the fort down. Praise the Most High, Christ bless. Just came off the plane, fresh off the plane. All right, so let's get back into it. Give me Genesis 36 and 1. So remember, we dealing with the origin of the fourth beast. So we just going through the origin of Esau. Some of y'all, a lot of y'all already know this, but we just reviewing it. Probably got some new people in the comments that's watching, and may have questions of where Esau come from. Where the white man come from?
-
 
 **[Genesis 36:1-2](/bible/genesis/36#v1)**  *[[1:17:36](https://www.youtube.com/watch?v=bAVa6xHECE0&t=4656s)]*
 
@@ -566,7 +561,7 @@ Reading from a page on the Edomites and the Horites, the section headed Transiti
 
 > Cultural blending. Despite the displacement, the two groups did not exist in complete isolation from one another. They eventually intermarried and blended, which is why you will find Esau's own descendants holding titles as Horite chieftains and ruling the same mountainous region.
 
-- Right. Now give me Deuteronomy chapter 2, verse 1.
+- Now give me Deuteronomy chapter 2, verse 1.
 
 </div>
 
@@ -618,7 +613,7 @@ Reading from a page on the Edomites and the Horites, the section headed Transiti
 >
 > <sup>[22](/bible/deuteronomy/2#v22)</sup> As he did to the children of Esau, which dwelt in Seir, when he destroyed the Horims from before them; and they succeeded them, and dwelt in their stead even unto this day:
 
-- Watch this. Read 21 and 22 again. So the Lord is the one that, like I said, he gave them that land. The Lord helped destroy the Horims to give Esau that land. And they succeeded them and dwelt in their stead even unto this day. Even to this day.
+- Read 21 and 22 again. So the Lord is the one that, like I said, he gave them that land. The Lord helped destroy the Horims to give Esau that land. And they succeeded them and dwelt in their stead even unto this day. Even to this day.
 
 - Now give me Numbers 20 and 14. So we dealt with Esau in the beginning. Now we dealing with them in the wilderness. Who were they in the wilderness? How do they treat us in the wilderness?
 
@@ -676,7 +671,7 @@ Reading from a page on the Edomites and the Horites, the section headed Transiti
 
 - **Officer:** No, not yet. I have it for way later.
 
-- All right. Give me 1 Samuel 14 and 47.
+- Give me 1 Samuel 14 and 47.
 
 **[1 Samuel 14:47-48](/bible/1-samuel/14#v47)**  *[[1:36:30](https://www.youtube.com/watch?v=bAVa6xHECE0&t=5790s)]*
 
@@ -726,7 +721,7 @@ Reading from a page on the Edomites and the Horites, the section headed Transiti
 
 > <sup>[13](/bible/1-samuel/15#v13)</sup> And Samuel came to Saul: and Saul said unto him, Blessed be thou of the Lord: I have performed the commandment of the Lord.
 
-- Wait, wait, wait. Saul said, man, blessed be the Lord, man. Look, we performed the commandments of the Lord, man. Blessed be the Lord, man. We did our thing, Samuel.
+- Saul said, man, blessed be the Lord, man. Look, we performed the commandments of the Lord, man. Blessed be the Lord, man. We did our thing, Samuel.
 
 > <sup>[14](/bible/1-samuel/15#v14)</sup> And Samuel said, What meaneth then this bleating of the sheep in mine ears, and the lowing of the oxen which I hear?
 
@@ -734,7 +729,7 @@ Reading from a page on the Edomites and the Horites, the section headed Transiti
 
 > <sup>[15](/bible/1-samuel/15#v15)</sup> And Saul said, They have brought them from the Amalekites: for the people spared the best of the sheep and of the oxen, to sacrifice unto the Lord thy God; and the rest we have utterly destroyed.
 
-- Wait, wait, wait. So now he point fingers. Saul not even taking accountability for not destroying the Amalekites. Read that part again. He said, they have brought them from the Amalekites, for the people: now he blaming the people. He said, oh yeah, they wanted to sacrifice. So that's why they spared the sheep and the oxen. It was all for sacrifice for the Lord. It was a good thing that we spared them.
+- So now he point fingers. Saul not even taking accountability for not destroying the Amalekites. He said, they have brought them from the Amalekites, for the people: now he blaming the people. He said, oh yeah, they wanted to sacrifice. So that's why they spared the sheep and the oxen. It was all for sacrifice for the Lord. It was a good thing that we spared them.
 
 - And the rest: so the oxen and sheep that was jacked up, and I guess had one leg or one eye, whatever the case was, whatever was bad with that particular sheep or oxen, they got rid of. But the best, they said, look, man, we could save this. So the people being deceitful and got in his ear. They being deceitful and whatnot, saying, look, we could save this as a sacrifice to the Lord. So Saul like, yeah, you're right. Yeah, that'd be a good idea.
 
@@ -746,7 +741,7 @@ Reading from a page on the Edomites and the Horites, the section headed Transiti
 
 > <sup>[30](/bible/1-samuel/15#v30)</sup> Then he said, I have sinned: yet honour me now, I pray thee, before the elders of my people, and before Israel, and turn again with me, that I may worship the Lord thy God.
 
-- Wait, read 30 again. He said, okay, I have sinned. I've sinned before the Lord. Yet honor me now: hey, but still honor me real quick. You see that? He wanted to be honored before the people. He said, yo, still honor me before the people, so they can know, still give me that honor before them.
+- Wait, read 30 again. He said, okay, I have sinned. I've sinned before the Lord. Yet honor me now: hey, but still honor me real quick. He wanted to be honored before the people. He said, yo, still honor me before the people, so they can know, still give me that honor before them.
 
 > <sup>[31](/bible/1-samuel/15#v31)</sup> So Samuel turned again after Saul; and Saul worshipped the Lord.
 >
@@ -798,7 +793,7 @@ Reading from Bible Hub, the commentary on 1 Samuel 21:7, read off the screen  *[
 
 - **Officer:** Going back to that, if you scroll up, it said foreshadowed Saul's spiritual drift. The scripture in Sirach says he that contemneth small things shall fall by little and little. Saul was continuously disobedient from the time he became king, because, like you said, he feared the people. So he always was looking to please man, disobeying God's laws to please man, and in doing so now he got an Edomite in a high position in the court.
 
-- Right. And we going to see the role that this Edomite plays too. Matter of fact, drop that. Let's get 1 Samuel 22, verse 6. Let's see the role that he played.
+- And we going to see the role that this Edomite plays too. Matter of fact, drop that. Let's get 1 Samuel 22, verse 6. Let's see the role that he played.
 
 </div>
 
@@ -818,7 +813,7 @@ Reading from Bible Hub, the commentary on 1 Samuel 21:7, read off the screen  *[
 >
 > <sup>[10](/bible/1-samuel/22#v10)</sup> And he enquired of the Lord for him, and gave him victuals, and gave him the sword of Goliath the Philistine.
 
-- Uh oh. Here come the Edomite though. He was over the servants of Saul. Oh shoot. So he like, yeah, I got you. I seen him. He told everything.
+- Here come the Edomite though. He was over the servants of Saul. Oh shoot. So he like, yeah, I got you. I seen him. He told everything.
 
 > <sup>[11](/bible/1-samuel/22#v11)</sup> Then the king sent to call Ahimelech the priest, the son of Ahitub, and all his father’s house, the priests that were in Nob: and they came all of them to the king.
 >
@@ -832,11 +827,11 @@ Reading from Bible Hub, the commentary on 1 Samuel 21:7, read off the screen  *[
 >
 > <sup>[16](/bible/1-samuel/22#v16)</sup> And the king said, Thou shalt surely die, Ahimelech, thou, and all thy father’s house.
 
-- Watch this. So now he sentenced him to death.
+- So now he sentenced him to death.
 
 > <sup>[17](/bible/1-samuel/22#v17)</sup> And the king said unto the footmen that stood about him, Turn, and slay the priests of the Lord; because their hand also is with David, and because they knew when he fled, and did not shew it to me. But the servants of the king would not put forth their hand to fall upon the priests of the Lord.
 
-- So now the king says, turn and slay the priests of the Lord. Kill the priests of the Lord. Because their hand also is with David: because their heart is joined to David. Their mind is with David at this time. And because they knew when he fled: they had intel when he fled, and did not bring that information back to me. Watch this. But the servants of the king would not put forth their hand to fall upon the priests of the Lord. That's the priests of the Lord. Like, nah, we ain't. You crazy. Are you bugging? You bugging right now.
+- So now the king says, turn and slay the priests of the Lord. Kill the priests of the Lord. Because their hand also is with David: because their heart is joined to David. Their mind is with David at this time. And because they knew when he fled: they had intel when he fled, and did not bring that information back to me. But the servants of the king would not put forth their hand to fall upon the priests of the Lord. That's the priests of the Lord. Like, nah, we ain't. You crazy. Are you bugging? You bugging right now.
 
 > <sup>[18](/bible/1-samuel/22#v18)</sup> And the king said to Doeg, Turn thou, and fall upon the priests. And Doeg the Edomite turned, and he fell upon the priests, and slew on that day fourscore and five persons that did wear a linen ephod.
 
@@ -846,11 +841,11 @@ Reading from Bible Hub, the commentary on 1 Samuel 21:7, read off the screen  *[
 
 > <sup>[19](/bible/1-samuel/22#v19)</sup> And Nob, the city of the priests, smote he with the edge of the sword, both men and women, children and sucklings, and oxen, and asses, and sheep, with the edge of the sword.
 
-- Wait. So he ain't just killed the eighty-five. He went off. He snapped. Because that's Esau. They love violence. He couldn't wait to get that order. So it says in Nob, the city of the priests, where the priests were from, smote he with the edge of the sword, both men and women, children and sucklings, and oxen and asses and sheep, with the edge of the sword.
+- So he ain't just killed the eighty-five. He went off. He snapped. Because that's Esau. They love violence. He couldn't wait to get that order. So it says in Nob, the city of the priests, where the priests were from, smote he with the edge of the sword, both men and women, children and sucklings, and oxen and asses and sheep, with the edge of the sword.
 
 - **Officer:** Hey, Officer, everything Saul was supposed to do to Doeg's people, he did to us.
 
-- Right. That's crazy. He ended up doing to us, in that particular city.
+- That's crazy. He ended up doing to us, in that particular city.
 
 > <sup>[20](/bible/1-samuel/22#v20)</sup> And one of the sons of Ahimelech the son of Ahitub, named Abiathar, escaped, and fled after David.
 >
@@ -866,7 +861,7 @@ Reading from Bible Hub, the commentary on 1 Samuel 21:7, read off the screen  *[
 
 > <sup>[1](/bible/psalms/52#v1)</sup> Why boastest thou thyself in mischief, O mighty man? the goodness of God endureth continually.
 
-- Read the top: to the chief musician, Maschil, a psalm of David, when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech. Watch this. So he's saying, why you boast yourself in mischief, O mighty man?
+- Read the top: to the chief musician, Maschil, a psalm of David, when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech. So he's saying, why you boast yourself in mischief, O mighty man?
 
 > <sup>[2](/bible/psalms/52#v2)</sup> Thy tongue deviseth mischiefs; like a sharp razor, working deceitfully.
 
@@ -920,7 +915,7 @@ Reading from Bible Hub, the commentary on 1 Samuel 21:7, read off the screen  *[
 >
 > <sup>[18](/bible/2-samuel/8#v18)</sup> And Benaiah the son of Jehoiada was over both the Cherethites and the Pelethites; and David’s sons were chief rulers.
 
-- Now give me 1 Kings 11:14. So remember, in 2 Samuel 8:14 King David destroyed Edom and he made them servants. They became our slaves. Watch this.
+- Now give me 1 Kings 11:14. So remember, in 2 Samuel 8:14 King David destroyed Edom and he made them servants. They became our slaves.
 
 **[1 Kings 11:14-20](/bible/1-kings/11#v14)**  *[[2:04:34](https://www.youtube.com/watch?v=bAVa6xHECE0&t=7474s)]*
 
@@ -990,13 +985,13 @@ Reading from *Modern Judaism*, 1832, on the traditions concerning Esau's descend
 
 > Secondly, that the prophecies of the prophets against Esau, Edom, Seir and the cities of Edom, especially those of Isaiah, Jeremiah and Obadiah, have not yet received their full accomplishment; for that though the house of Esau has experienced some particular judgments of God on account of the injuries at different periods of time inflicted upon Israel, yet the final vengeance on account of that last and greatest injury, the destruction of the second temple by Titus, and the transportation of the Jews into captivity, in which they are still most opprobriously detained,
 
-- Right? They ain't received no judgment for what they done. Remember, they are vagabonds in the earth. The destruction of the second temple by Titus, 70 AD, and the transportation of the Jews into captivity, on ships, Deuteronomy 28. In which they are still most opprobriously detained. Remember, this is 1832. We are in slavery. It says in which they are still most opprobriously detained. Hey, look that word up. Man, that's crazy. Fabulous book right there.
+- They ain't received no judgment for what they done. Remember, they are vagabonds in the earth. The destruction of the second temple by Titus, 70 AD, and the transportation of the Jews into captivity, on ships, Deuteronomy 28. In which they are still most opprobriously detained. Remember, this is 1832. We are in slavery. It says in which they are still most opprobriously detained. Hey, look that word up. Man, that's crazy. Fabulous book right there.
 
 - Opprobriously is an adverb that means acting or speaking in a way that shows severe blame, harsh contempt or shameful abuse. So that's what we are going through still now. That's what we're going through. Acting or speaking in a way that is severe blame, harsh contempt or shameful abuse. Shameful abuse. That's what we was going through.
 
 > is yet impending over it, to be executed in the time of the Messiah; that this is foretold by the prophets in all their denunciations of the severest plagues against the house of Esau, the cities of Edom and Mount Seir, which all belong to Rome and the Christians; and that the fate of the Christians at that time will be far more dreadful than that of the Mohammedans. Abarbanel particularly says, the slaughter of the Turks in the future battle will not be so great as that of the Christians, for many of the Turks will escape, according to Isaiah 66:19; but of the Christians, Obadiah says, there shall not be any remaining of the house of Esau.
 
-- Belong to who? Rome and the Christians. Many of the Turks will escape: they're going to be all slaves. But of the Christians, Obadiah says there shall not be any remaining of the house of Esau. That's right. Now give me the other page, and we're going to end it. I'll post it on the Telegram.
+- Belong to who? Rome and the Christians. Many of the Turks will escape: they're going to be all slaves. But of the Christians, Obadiah says there shall not be any remaining of the house of Esau. That's right.
 
 </div>
 
@@ -1006,7 +1001,7 @@ Reading from a page on Esau and the Greek agon, read off the screen  *[[2:13:24]
 
 > The Greeks called this competition agon, and for Esau the final agony is unfortunately immortalized. His descendants include the greatest enemies of the Jewish people: the evil Amalek, Haman, and the Roman Empire.
 
-- Read that again. The greatest enemies of us. The evil Amalek. Haman, which comes from Amalek. And the Roman Empire. So he letting you know that they are all descendants of Esau, and the Christians. Now give me the other page with Amalek. Remember it said they spread to the west, from Modern Judaism. Watch this.
+- The greatest enemies of us. The evil Amalek. Haman, which comes from Amalek. And the Roman Empire. So he letting you know that they are all descendants of Esau, and the Christians. Now give me the other page with Amalek. Remember it said they spread to the west, from Modern Judaism.
 
 </div>
 
@@ -1016,7 +1011,7 @@ Reading from *Modern Judaism*, on the Amalekites  *[[2:14:18](https://www.youtub
 
 > Amalekites. A tradition prevails that a small number of the Amalekites colonized a part of Greece, and were the stock whence the Macedonians and Spartans sprung.
 
-- Read that again. So they went to Greece as well. And were the stock where the Macedonians and the Spartans sprung. Well, obviously we know the Spartans is us. But the Macedonians. Give me Esther 13, in the Apocrypha, the rest of Esther. You looking for him being a Macedonian, where it says he had thought to translate the kingdom to his people. Chapter 16. Just read 10.
+- So they went to Greece as well. And were the stock where the Macedonians and the Spartans sprung. Well, obviously we know the Spartans is us. But the Macedonians. Give me Esther 13, in the Apocrypha, the rest of Esther. You looking for him being a Macedonian, where it says he had thought to translate the kingdom to his people. Chapter 16. Just read 10.
 
 </div>
 
@@ -1028,7 +1023,7 @@ Reading from *Modern Judaism*, on the Amalekites  *[[2:14:18](https://www.youtub
 
 **[Esther (Greek) 16:14](/bible/esther-greek/16#v14)**  *[[2:17:00](https://www.youtube.com/watch?v=bAVa6xHECE0&t=8220s)]*
 
-> <sup>[14](/bible/esther-greek/16#v14)</sup> For by these means he thought, finding us destitute of friends to have translated the kingdom of the Persians to the Macedonians.
+> <sup>[14](/bible/esther-greek/16#v14)</sup> For by these means he thought, finding us destitute of friends, to have translated the kingdom of the Persians to the Macedonians.
 
 - That was his whole purpose. He wanted to translate the kingdom to the Macedonians, to his people, Amalek. All right, give me 1 Maccabees 1 and 1. We end it there.
 
@@ -1036,7 +1031,7 @@ Reading from *Modern Judaism*, on the Amalekites  *[[2:14:18](https://www.youtub
 
 > <sup>[1](/bible/1-maccabees/1#v1)</sup> And it happened, after that Alexander son of Philip, the Macedonian, who came out of the land of Chettiim, had smitten Darius king of the Persians and Medes, that he reigned in his stead, the first over Greece,
 
-- So Philip and his son Alexander the Greek were from Macedon. So they were what? Amalekites as well. So I'm going to end it there. Oh, yeah, read that. Read that real quick.
+- So Philip and his son Alexander the Greek were from Macedon. So they were what? Amalekites as well. So I'm going to end it there. Oh, yeah, read that.
 
 <div class="reading">
 

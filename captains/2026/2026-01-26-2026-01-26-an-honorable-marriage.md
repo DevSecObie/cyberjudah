@@ -36,37 +36,17 @@ tags: ["15 Minutes w/ The Captains", "marriage-family", "sexual-purity", "women"
 
 **[Ephesians 5:21-33](/bible/ephesians/5#v21)**  *[[2:33](https://www.youtube.com/watch?v=vc80jwgE0tw&t=153s)]*
 
-> <sup>[21](/bible/ephesians/5#v21)</sup> Submitting yourselves one to another in the fear of God.
->
-> <sup>[22](/bible/ephesians/5#v22)</sup> Wives, submit yourselves unto your own husbands, as unto the Lord.
->
-> <sup>[23](/bible/ephesians/5#v23)</sup> For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body.
->
-> <sup>[24](/bible/ephesians/5#v24)</sup> Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing.
->
-> <sup>[25](/bible/ephesians/5#v25)</sup> Husbands, love your wives, even as Christ also loved the church, and gave himself for it;
->
-> <sup>[26](/bible/ephesians/5#v26)</sup> That he might sanctify and cleanse it with the washing of water by the word,
->
-> <sup>[27](/bible/ephesians/5#v27)</sup> That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.
->
-> <sup>[28](/bible/ephesians/5#v28)</sup> So ought men to love their wives as their own bodies. He that loveth his wife loveth himself.
->
-> <sup>[29](/bible/ephesians/5#v29)</sup> For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church:
->
-> <sup>[30](/bible/ephesians/5#v30)</sup> For we are members of his body, of his flesh, and of his bones.
->
-> <sup>[31](/bible/ephesians/5#v31)</sup> For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh.
->
-> <sup>[32](/bible/ephesians/5#v32)</sup> This is a great mystery: but I speak concerning Christ and the church.
->
-> <sup>[33](/bible/ephesians/5#v33)</sup> Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband.
-
 - So within this molding process, you have to know how beginning this possession works. And this is what it is.
+
+> <sup>[21](/bible/ephesians/5#v21)</sup> Submitting yourselves one to another in the fear of God.
 
 - Submitting yourselves one to another in the fear of God: so we as husband and wife have to submit ourselves in the fear of God. That means the keeping of the commandments. That means agreeing with each other.
 
+> <sup>[22](/bible/ephesians/5#v22)</sup> Wives, submit yourselves unto your own husbands, as unto the Lord.
+
 - Wives, submit yourselves unto your own husbands: and what that means is a wife has to know how to obey. A husband has to teach his wife how to obey him, just as she's serving the Lord Jesus Christ. Just as he's serving the Lord Christ.
+
+> <sup>[23](/bible/ephesians/5#v23)</sup> For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body.
 
 - For the husband is the head of the wife: this is the order. The husband is the head of the wife. He is the leader. That's what Lord mean. He is supposed to lead his wife. That's the molding process. And if she can't be led, she won't be a pillar of rest.
 
@@ -74,7 +54,11 @@ tags: ["15 Minutes w/ The Captains", "marriage-family", "sexual-purity", "women"
 
 - And he is the saviour of the body: and that's what the man is supposed to represent for our wives.
 
+> <sup>[24](/bible/ephesians/5#v24)</sup> Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing.
+
 - So let the wives be to their own husbands in every thing: because our women are made in the image of us. And we are made in the image of Christ. That is the order of things on how it's supposed to be. And marriage is an honorable thing. But we have to be taught biblically how to make this thing honorable.
+
+> <sup>[25](/bible/ephesians/5#v25)</sup> Husbands, love your wives, even as Christ also loved the church, and gave himself for it;
 
 - Husbands, love your wives: so in order for that to happen, you got to know what love is. You got to know how you want to be loved, to instruct this woman according to the scriptures. You got to start to get your stuff together to learn how to love this wife, so she can reciprocate that love back to you.
 
@@ -82,34 +66,50 @@ tags: ["15 Minutes w/ The Captains", "marriage-family", "sexual-purity", "women"
 
 - And gave himself for it: because that's ultimately what's going to happen to some or most of us. We're going to have to give our life for our nation, our people.
 
+> <sup>[26](/bible/ephesians/5#v26)</sup> That he might sanctify and cleanse it with the washing of water by the word,
+
 - That he might sanctify and cleanse it with the washing of water by the word: because all of us needs to be cleansed of what we thought marriage was from the world. Christ is teaching us what marriage is according to the fear.
+
+> <sup>[27](/bible/ephesians/5#v27)</sup> That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.
 
 - But that it should be holy and without blemish: so this process is supposed to clean us up so we will have an honorable marriage.
 
+> <sup>[28](/bible/ephesians/5#v28)</sup> So ought men to love their wives as their own bodies. He that loveth his wife loveth himself.
+
 - So ought men to love their wives as their own bodies: so you got to love your wife just as you love yourself.
+
+> <sup>[29](/bible/ephesians/5#v29)</sup> For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church:
 
 - For no man ever yet hated his own flesh: cuz you wouldn't do anything that you wouldn't like. You would tell your wife not to do things against you that hurt you, but yet you would do things to hurt your wife. The scripture is saying, "No man yet hated himself." And if you do, you're going to ruin your marriage. Why would you get a possession and then purposely mistreat it?
 
 - But nourisheth and cherisheth it: that's what we're supposed to do. That's the teaching, molding process of establishing your marriage. What is said in Sirach 36 and 24, he that getteth a wife beginneth a possession, a help like unto himself, a pillar of rest. You take care of it. That's how you supposed to take care of a wife.
 
+> <sup>[30](/bible/ephesians/5#v30)</sup> For we are members of his body, of his flesh, and of his bones.
+>
+> <sup>[31](/bible/ephesians/5#v31)</sup> For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh.
+
 - For this cause shall a man leave his father and mother: a man will love a woman so much that he will leave his father and mother to be with his wife. Why go through all of that just to destroy the marriage? Just to destroy a soul that is a part of the body of Christ?
+
+> <sup>[32](/bible/ephesians/5#v32)</sup> This is a great mystery: but I speak concerning Christ and the church.
+>
+> <sup>[33](/bible/ephesians/5#v33)</sup> Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband.
 
 - And the wife see that she reverence her husband: so, she's going to learn how to reverence you by how you teach her, how you guide her, how you mold her according to the scriptures. And how she acts is based off of how you've taught her.
 
 
 **[1 Esdras 4:25-27](/bible/1-esdras/4#v25)**  *[[8:44](https://www.youtube.com/watch?v=vc80jwgE0tw&t=524s)]*
 
+- Because Ephesians 5:31 said, for this cause shall a man leave his father and mother, and shall be joined unto his wife, and the two shall be one flesh.
+
 > <sup>[25](/bible/1-esdras/4#v25)</sup> Wherefore a man loveth his wife better than father or mother.
 >
 > <sup>[26](/bible/1-esdras/4#v26)</sup> Yea, many there be that have run out of their wits for women, and become servants for their sakes.
->
-> <sup>[27](/bible/1-esdras/4#v27)</sup> Many also have perished, have erred, and sinned, for women.
-
-- Because Ephesians 5:31 said, for this cause shall a man leave his father and mother, and shall be joined unto his wife, and the two shall be one flesh.
 
 - Yea, many there be that have run out of their wits for women: and this is where the problem comes. The wife has no respect for you, or you haven't given the proper authority according to the scriptures, as far as submitting yourselves together in the fear of Christ, that she runs you. She's the head of the household.
 
 - And become servants for their sakes: and we're just living just to make them happy. You know, the happy wife, happy life type of lifestyle. That's not according to God. That's not order.
+
+> <sup>[27](/bible/1-esdras/4#v27)</sup> Many also have perished, have erred, and sinned, for women.
 
 - Many also have perished, have erred, and sinned, for women: men have died, made mistakes, sinned for women. Let's get some of the ways that we have died, sinned, erred in this gospel for women. Because when we sit and listen to our women and allow them to direct our paths, we fall off. And this is how it happens.
 
@@ -117,18 +117,6 @@ tags: ["15 Minutes w/ The Captains", "marriage-family", "sexual-purity", "women"
 **[Proverbs 7:21-27](/bible/proverbs/7#v21)**  *[[10:31](https://www.youtube.com/watch?v=vc80jwgE0tw&t=631s)]*
 
 > <sup>[21](/bible/proverbs/7#v21)</sup> With her much fair speech she caused him to yield, with the flattering of her lips she forced him.
->
-> <sup>[22](/bible/proverbs/7#v22)</sup> He goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks;
->
-> <sup>[23](/bible/proverbs/7#v23)</sup> Till a dart strike through his liver; as a bird hasteth to the snare, and knoweth not that it is for his life.
->
-> <sup>[24](/bible/proverbs/7#v24)</sup> Hearken unto me now therefore, O ye children, and attend to the words of my mouth.
->
-> <sup>[25](/bible/proverbs/7#v25)</sup> Let not thine heart decline to her ways, go not astray in her paths.
->
-> <sup>[26](/bible/proverbs/7#v26)</sup> For she hath cast down many wounded: yea, many strong men have been slain by her.
->
-> <sup>[27](/bible/proverbs/7#v27)</sup> Her house is the way to hell, going down to the chambers of death.
 
 - With her much fair speech: so this was an actual harlot, a married woman, and her husband was gone. But what I want to focus on is her fair speech. The way that she talks to them, build them up to make them go in the direction that she wants him to go. This is what happens in some of our marriages. Our wives know how to push our buttons. Just like Eve knew how to get to Adam, to convince him to give up his godhood. And some of us, I won't say many of us, some of us make that same decision today. Because she talks.
 
@@ -136,13 +124,25 @@ tags: ["15 Minutes w/ The Captains", "marriage-family", "sexual-purity", "women"
 
 - With the flattering of her lips she forced him: she convinced him to give up his ways to follow her.
 
+> <sup>[22](/bible/proverbs/7#v22)</sup> He goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks;
+>
+> <sup>[23](/bible/proverbs/7#v23)</sup> Till a dart strike through his liver; as a bird hasteth to the snare, and knoweth not that it is for his life.
+>
+> <sup>[24](/bible/proverbs/7#v24)</sup> Hearken unto me now therefore, O ye children, and attend to the words of my mouth.
+
 - Hearken unto me now therefore, O ye children, and attend to the words of my mouth: so counsel and this Bible is going to help us decipher through what's right and what's wrong in our marriages, what to do, even if it may seem hard or harsh. Because you see marriages to where the husband is strong in the Lord, but a yes man at home. Yes, dear. I know you don't like me doing this, but I gotta do this. And she complained and complained and complained. And through her complaining, her manipulative ways, she convinces you to go the direction that she's been complaining about, because all of your strength is gone.
 
+> <sup>[25](/bible/proverbs/7#v25)</sup> Let not thine heart decline to her ways, go not astray in her paths.
+
 - Let not thine heart decline to her ways: don't give in to a woman's ways that is bent on taking you out of this truth, trying to convince you not to be a leader that you're supposed to be in the household and in this truth.
+
+> <sup>[26](/bible/proverbs/7#v26)</sup> For she hath cast down many wounded: yea, many strong men have been slain by her.
 
 - For she hath cast down many wounded: and you think that it couldn't be you? If it happened to Adam, what say you then? How could it not happen to you, if Adam fell, King David fell, King Solomon fell to women? How can you think that a woman can't persuade you to leave this truth or peel back your works in this truth? That is not an honorable marriage. And these things we have to check. We have to mold our wives to be the support for this truth. And if you're not doing this, you'll yield to her ways.
 
 - Yea, many strong men have been slain by her: just as I named, strong men have been taken by the woman.
+
+> <sup>[27](/bible/proverbs/7#v27)</sup> Her house is the way to hell, going down to the chambers of death.
 
 - Going down to the chambers of death: so, it's imperative that we correct these things as we see it. Don't wait. Don't be bashful. This is the love that Christ wanted in our marriages, that we mold our wives with the fear of God to understand the mission that we're on, so we can endure and get us out, so we can have that ultimate rest that we all seek.
 
@@ -150,26 +150,26 @@ tags: ["15 Minutes w/ The Captains", "marriage-family", "sexual-purity", "women"
 **[1 Corinthians 7:1-5](/bible/1-corinthians/7#v1)**  *[[14:58](https://www.youtube.com/watch?v=vc80jwgE0tw&t=898s)]*
 
 > <sup>[1](/bible/1-corinthians/7#v1)</sup> Now concerning the things whereof ye wrote unto me: It is good for a man not to touch a woman.
->
-> <sup>[2](/bible/1-corinthians/7#v2)</sup> Nevertheless, to avoid fornication, let every man have his own wife, and let every woman have her own husband.
->
-> <sup>[3](/bible/1-corinthians/7#v3)</sup> Let the husband render unto the wife due benevolence: and likewise also the wife unto the husband.
->
-> <sup>[4](/bible/1-corinthians/7#v4)</sup> The wife hath not power of her own body, but the husband: and likewise also the husband hath not power of his own body, but the wife.
->
-> <sup>[5](/bible/1-corinthians/7#v5)</sup> Defraud ye not one the other, except it be with consent for a time, that ye may give yourselves to fasting and prayer; and come together again, that Satan tempt you not for your incontinency.
 
 - It is good for a man not to touch a woman: this is talking about adultery. Don't go buying prostitutes. Don't go sleeping with strange women, going outside of your marriage, destroying your own self.
+
+> <sup>[2](/bible/1-corinthians/7#v2)</sup> Nevertheless, to avoid fornication, let every man have his own wife, and let every woman have her own husband.
 
 - Nevertheless, to avoid fornication, let every man have his own wife: you have a wife so you can avoid fornication. Everything that you thought that you wanted to do, you can do it righteously within your marriage. This is you being daunted with the fear of God, that this is the reason that she was created: to keep you away from fornication, to keep you away from the strange woman that flatters with her lips, with your obscene lust and appetites.
 
 - And let every woman have her own husband: that's another thing. It is not a marriage if it's one man and two wives. That's not what Christ taught. It's not two men and one woman. That's not a marriage. Having a boyfriend or a girlfriend or dating, that's not of God. That's what the world taught. That's what these other Israelite camps teach, and is not of God. It's not an honorable marriage. So every single thing that isn't man and wife together is fornication. Paul said, to avoid fornication, what? Let every man have his own wife. That is singular, not plural. You have one wife. Because if it was plural, it will say let every woman have her own husbands, or let the man have his own wives. Is not plural. It's singular. Man and a woman, leaves mother and father and cleave to his wife. I don't think they understand that that is fornication and adultery, to have multiple girlfriends, wives.
 
+> <sup>[3](/bible/1-corinthians/7#v3)</sup> Let the husband render unto the wife due benevolence: and likewise also the wife unto the husband.
+
 - Let the husband render unto the wife due benevolence: due benevolence means that y'all have intimate time together. Y'all are supposed to have this intimate time together to where you don't commit fornication. Yes, give the husband sex. Yes, give the wife sex. Y'all don't own your own body once y'all become one flesh.
+
+> <sup>[4](/bible/1-corinthians/7#v4)</sup> The wife hath not power of her own body, but the husband: and likewise also the husband hath not power of his own body, but the wife.
 
 - The wife hath not power of her own body, but the husband: that's what we are together for. That's what we're husband and wife for. So we can avoid fornication through sex with each other. No one else, and no one outside of us.
 
 - And likewise also the husband hath not power of his own body, but the wife: so it ain't no, I'm tired, I'm sick, I'm hurting. Oh, we can still get it in. Never mind. I ain't gonna say what I was going to say, but y'all can fill in the blank. Fill in the blank. There's other options. There's other ways we can get it done. But the Bible says, "Let what?" It says, "Let the husband render unto the wife due benevolence." This is what keeps us from sinning. Let it be done. I don't care that you mad. I don't care that you sad. Let's get some of this aggression off together. We going to become one flesh and get through it together, with us laying down together, because God said it was an honorable thing. You can't tell me no, just like I can't tell you no, unless.
+
+> <sup>[5](/bible/1-corinthians/7#v5)</sup> Defraud ye not one the other, except it be with consent for a time, that ye may give yourselves to fasting and prayer; and come together again, that Satan tempt you not for your incontinency.
 
 - Defraud ye not one the other: don't hold back from one another.
 
@@ -183,12 +183,12 @@ tags: ["15 Minutes w/ The Captains", "marriage-family", "sexual-purity", "women"
 **[1 Corinthians 7:27-28](/bible/1-corinthians/7#v27)**  *[[22:01](https://www.youtube.com/watch?v=vc80jwgE0tw&t=1321s)]*
 
 > <sup>[27](/bible/1-corinthians/7#v27)</sup> Art thou bound unto a wife? seek not to be loosed. Art thou loosed from a wife? seek not a wife.
->
-> <sup>[28](/bible/1-corinthians/7#v28)</sup> But and if thou marry, thou hast not sinned; and if a virgin marry, she hath not sinned. Nevertheless such shall have trouble in the flesh: but I spare you.
 
 - Art thou bound unto a wife? seek not to be loosed: don't do things to destroy your marriage.
 
 - Art thou loosed from a wife? seek not a wife: don't get married again. Stay separated until y'all reconcile.
+
+> <sup>[28](/bible/1-corinthians/7#v28)</sup> But and if thou marry, thou hast not sinned; and if a virgin marry, she hath not sinned. Nevertheless such shall have trouble in the flesh: but I spare you.
 
 - But and if thou marry, thou hast not sinned: it's an honorable thing to be married. Marriage has to be boasted in the black, Hispanic, and Native American community the right way. Not the side chick marriages, not the double wives and the double husband marriages. That stuff got to go. It's not of God and it's unhealthy.
 

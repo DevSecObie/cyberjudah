@@ -63,14 +63,14 @@ tags: ["15 Minutes w/ The Captains", "leadership", "money", "the-body"]
 **[Acts 18:1-3](/bible/acts/18#v1)**  *[[11:20](https://www.youtube.com/watch?v=xzLIo4tk3Zk&t=680s)]*
 
 > <sup>[1](/bible/acts/18#v1)</sup> After these things Paul departed from Athens, and came to Corinth;
->
-> <sup>[2](/bible/acts/18#v2)</sup> And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.
->
-> <sup>[3](/bible/acts/18#v3)</sup> And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.
 
 - Paul departed from Athens, and came to Corinth: Because I don't want anyone to think that Paul all he did was take from the ministry. Nope. Nope. Nope. This was when he was in Corinth. Matter of fact, I'll start at verse 1.
 
+> <sup>[2](/bible/acts/18#v2)</sup> And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.
+
 - Because that Claudius had commanded all Jews to depart from Rome: The Jews had to depart from Rome and they came to Corinth and they had come from Italy, from Rome, right?
+
+> <sup>[3](/bible/acts/18#v3)</sup> And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.
 
 - By their occupation they were tentmakers: So, Paul had a job. Paul had a occupation. Paul did not just sit on his hands and just wait for the offering buckets to get filled up every Sabbath day. Or every time they gathered. Who that sound like? Hm?
 
@@ -80,14 +80,14 @@ tags: ["15 Minutes w/ The Captains", "leadership", "money", "the-body"]
 **[Acts 20:33-35](/bible/acts/20#v33)**  *[[14:02](https://www.youtube.com/watch?v=xzLIo4tk3Zk&t=842s)]*
 
 > <sup>[33](/bible/acts/20#v33)</sup> I have coveted no man’s silver, or gold, or apparel.
->
-> <sup>[34](/bible/acts/20#v34)</sup> Yea, ye yourselves know, that these hands have ministered unto my necessities, and to them that were with me.
->
-> <sup>[35](/bible/acts/20#v35)</sup> I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.
 
 - I have coveted no man's silver, or gold, or apparel: He's saying I didn't want anybody's gold, no silver, no monetary value, no clothes, no nothing. Don't treat me special.
 
+> <sup>[34](/bible/acts/20#v34)</sup> Yea, ye yourselves know, that these hands have ministered unto my necessities, and to them that were with me.
+
 - These hands have ministered unto my necessities, and to them that were with me: These hands wrought everything that I needed. And for those that were with me. Right?
+
+> <sup>[35](/bible/acts/20#v35)</sup> I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.
 
 - So labouring ye ought to support the weak: Tell a pastor that. That they ought to support the weak by the works of their hands. They won't do it. They won't do it. They'll call you a blaspheming liar, that you got the devil on you. And then they going to kick you out the church. Security! They going to get you out of there. Because they're not doing this right here.
 
@@ -119,10 +119,10 @@ Reading from Definition of “chargeable” (source not named on air)  *[[16:52]
 **[1 Timothy 3:1-2](/bible/1-timothy/3#v1)**  *[[17:57](https://www.youtube.com/watch?v=xzLIo4tk3Zk&t=1077s)]*
 
 > <sup>[1](/bible/1-timothy/3#v1)</sup> This is a true saying, If a man desire the office of a bishop, he desireth a good work.
->
-> <sup>[2](/bible/1-timothy/3#v2)</sup> A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach;
 
 - This is a true saying, If a man desire the office of a bishop, he desireth a good work: So, where do we hear something similar, right? Get first Timothy. I said get like it ain't me. But y'all get first Timothy chapter two and verse one. Nope, excuse me, three and one. Paul was a bishop. So, he's teaching another bishop, Timothy, how to be a bishop. What is one of the first things that go into being a bishop?
+
+> <sup>[2](/bible/1-timothy/3#v2)</sup> A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach;
 
 - A bishop then must be blameless: Blameless, meaning you are chargeable to no man. So that means it's not just going into not committing sin. That's obvious. That's obvious. But it also means that you have to understand the almost politics of the nature of the congregations that you're dealing with. The people, the spirit of the people that you're dealing with. Because he knew that he could get communication or funding from the church Philippi because they had that rapport. Macedonia, they had that rapport. He understood them, they understood him, they know he's a righteous man, they respect him as a leader. So they trusted that their money was being utilized in the correct fashion. The Corinthians on the other hand? … … And even if he wasn't doing anything wrong, which he wasn't, he knew the look of it. The thought of it would be enough to make him chargeable. So in order to remain blameless as a bishop, he took nothing from them. That's wisdom. He was walking in wisdom.
 
@@ -130,30 +130,30 @@ Reading from Definition of “chargeable” (source not named on air)  *[[16:52]
 **[2 Thessalonians 3:6-12](/bible/2-thessalonians/3#v6)**  *[[19:50](https://www.youtube.com/watch?v=xzLIo4tk3Zk&t=1190s)]*
 
 > <sup>[6](/bible/2-thessalonians/3#v6)</sup> Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us.
->
-> <sup>[7](/bible/2-thessalonians/3#v7)</sup> For yourselves know how ye ought to follow us: for we behaved not ourselves disorderly among you;
->
-> <sup>[8](/bible/2-thessalonians/3#v8)</sup> Neither did we eat any man’s bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you:
->
-> <sup>[9](/bible/2-thessalonians/3#v9)</sup> Not because we have not power, but to make ourselves an ensample unto you to follow us.
->
-> <sup>[10](/bible/2-thessalonians/3#v10)</sup> For even when we were with you, this we commanded you, that if any would not work, neither should he eat.
->
-> <sup>[11](/bible/2-thessalonians/3#v11)</sup> For we hear that there are some which walk among you disorderly, working not at all, but are busybodies.
->
-> <sup>[12](/bible/2-thessalonians/3#v12)</sup> Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread.
 
 - That ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us: So Paul's saying that there's a certain way that they carried themselves as men, as leaders, and as bishops.
 
+> <sup>[7](/bible/2-thessalonians/3#v7)</sup> For yourselves know how ye ought to follow us: for we behaved not ourselves disorderly among you;
+
 - For we behaved not ourselves disorderly among you: The way Paul handled the Corinthians is an example of how he didn't walk disorderly. He knew their spirits and he said, “You know what? I'm going to borrow from Macedonia and I'm going to work with my own hands.” So to show an example of what we about to read.
 
+> <sup>[8](/bible/2-thessalonians/3#v8)</sup> Neither did we eat any man’s bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you:
+
 - That we might not be chargeable to any of you: So nobody can say, “Dang, every time Paul come in town, bro, my refrigerator be empty.” Every time Paul and the men that come with them come around, we be broke. They come, they take all the money out the coffers, out the budget, out the bank. They eating lavish dinners, you know what I'm saying? They're wearing the best purple. And they out. Paul said, “Nope.” I'm not chargeable to any of you all.
+
+> <sup>[9](/bible/2-thessalonians/3#v9)</sup> Not because we have not power, but to make ourselves an ensample unto you to follow us.
 
 - Not because we have not power: He said the same thing prior in 1 Corinthians chapter 9. He's saying, “You know, it's not like we don't have the power to do so because the ox...” He brought out the don't muzzle the ox because he's worthy of his feed. Of his hire. He's saying it's not like we don't have the power to do that because we're over the congregations.
 
 - But to make ourselves an example unto you to follow us: That's what Paul is telling the Corinthians. He's saying, “I did it intentionally. I didn't take anything from none of y'all intentionally, so I'm not chargeable to y'all. And it's an example for y'all. Because that's how some of you move. That's how some of you think. That's how some of you are.”
 
+> <sup>[10](/bible/2-thessalonians/3#v10)</sup> For even when we were with you, this we commanded you, that if any would not work, neither should he eat.
+
 - If any would not work, neither should he eat: Now, imagine if Paul wasn't working and told him that. They're going to be like, “But you don't work, Paul. But you freeloading.” They would have said he was a hypocrite. They couldn't say Paul was a hypocrite because he said, “I showed you how to walk orderly. Don't take from the body. Give. It's better to give than to receive, right?” So, he's expanding on the thought.
+
+> <sup>[11](/bible/2-thessalonians/3#v11)</sup> For we hear that there are some which walk among you disorderly, working not at all, but are busybodies.
+>
+> <sup>[12](/bible/2-thessalonians/3#v12)</sup> Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread.
 
 - That with quietness they work, and eat their own bread: So, don't be a freeloading ass brother, a freeloading sister. No, be a contributing member of the body. Don't take take take take take take. For either filthy lucre's sake, slothfulness, covetousness, whatever what have you. Paul said he laid the example for them to follow. All they got to do is follow it, right?
 
@@ -181,30 +181,30 @@ Reading from Definition of “chargeable” (source not named on air)  *[[16:52]
 **[2 Corinthians 12:13-18](/bible/2-corinthians/12#v13)**  *[[26:30](https://www.youtube.com/watch?v=xzLIo4tk3Zk&t=1590s)]*
 
 > <sup>[13](/bible/2-corinthians/12#v13)</sup> For what is it wherein ye were inferior to other churches, except it be that I myself was not burdensome to you? forgive me this wrong.
->
-> <sup>[14](/bible/2-corinthians/12#v14)</sup> Behold, the third time I am ready to come to you; and I will not be burdensome to you: for I seek not yours, but you: for the children ought not to lay up for the parents, but the parents for the children.
->
-> <sup>[15](/bible/2-corinthians/12#v15)</sup> And I will very gladly spend and be spent for you; though the more abundantly I love you, the less I be loved.
->
-> <sup>[16](/bible/2-corinthians/12#v16)</sup> But be it so, I did not burden you: nevertheless, being crafty, I caught you with guile.
->
-> <sup>[17](/bible/2-corinthians/12#v17)</sup> Did I make a gain of you by any of them whom I sent unto you?
->
-> <sup>[18](/bible/2-corinthians/12#v18)</sup> I desired Titus, and with him I sent a brother. Did Titus make a gain of you? walked we not in the same spirit? walked we not in the same steps?
 
 - Except it be that I myself was not burdensome to you? forgive me this wrong: So, Paul is being a little sarcastic here. He's saying the only thing that they can accuse Paul of was not burdening them financially. Meaning he was blameless in every respect. So they had to conjure up a problem. He says, “So if you going to conjure up an issue with me, let the issue be the fact that I ain't burden y'all in no way financially.” How about that? He said, “Forgive me this wrong.” “Pardon me for being so gracious to y'all.”
+
+> <sup>[14](/bible/2-corinthians/12#v14)</sup> Behold, the third time I am ready to come to you; and I will not be burdensome to you: for I seek not yours, but you: for the children ought not to lay up for the parents, but the parents for the children.
 
 - I seek not yours, but you: I don't want what you have. I seek you. I seek y'all. I love y'all. I don't need or desire anything that y'all have.
 
 - For the children ought not to lay up for the parents, but the parents for the children: He's giving them the dynamic of the relationship. I am your leader. I'm the father to you all. What does it look like, like y'all have to take care of me? Nah, it's better that I come to take care of y'all. Spiritually. So the trade-off, I don't take anything from y'all, but y'all gain everything from me spiritually.
 
+> <sup>[15](/bible/2-corinthians/12#v15)</sup> And I will very gladly spend and be spent for you; though the more abundantly I love you, the less I be loved.
+
 - Though the more abundantly I love you, the less I be loved: That's why he said, “I will not burden y'all because the more I love y'all and give graciously and show of a charitable, humble leader spirit, the more y'all hate me.” The more y'all talk evil about me. The more y'all talk down on me like I ain't nothing. I ain't nobody, like y'all not the seal of my apostleship. Like the gospel of Christ hasn't been taught to y'all through me. Like y'all have gained no benefits from learning under me. That's what he said, “Yo.”
 
 - The less I be loved: Let it be not so named in our congregations, y'all. The leadership, they go above and beyond, day in, day out, non-stop. Don't be accusatory towards them because the more they love you, the less you love them. Don't let it be not named. Although we saying it, it's still going to be a letter written somewhere. It's still going to be a complaint form filled. It's still going to be some ignorance. It is what it is. If Paul had to deal with it, so do we, right?
 
+> <sup>[16](/bible/2-corinthians/12#v16)</sup> But be it so, I did not burden you: nevertheless, being crafty, I caught you with guile.
+
 - Nevertheless, being crafty, I caught you with guile: Hmm. Hmm. He caught them in deceit. He caught them in guile. He caught them out the spirit.
 
+> <sup>[17](/bible/2-corinthians/12#v17)</sup> Did I make a gain of you by any of them whom I sent unto you?
+
 - Did I make a gain of you by any of them whom I sent unto you: I sent Titus. Did I tax y'all when Titus came? Did I gain anything from y'all when he came to y'all? No.
+
+> <sup>[18](/bible/2-corinthians/12#v18)</sup> I desired Titus, and with him I sent a brother. Did Titus make a gain of you? walked we not in the same spirit? walked we not in the same steps?
 
 - Walked we not in the same spirit? walked we not in the same steps: Paul is getting down on them. He letting them know, “This is why I'm not taking from the ministry, y'all. Because even though I don't, I'm still spoken evil of. So, imagine if I did. Imagine if I did take from the ministry. Oh, man, it'd be hell in a handbasket. It'd be all bad, right?”
 
@@ -212,22 +212,22 @@ Reading from Definition of “chargeable” (source not named on air)  *[[16:52]
 **[1 Thessalonians 2:5-8](/bible/1-thessalonians/2#v5)**  *[[29:59](https://www.youtube.com/watch?v=xzLIo4tk3Zk&t=1799s)]*
 
 > <sup>[5](/bible/1-thessalonians/2#v5)</sup> For neither at any time used we flattering words, as ye know, nor a cloke of covetousness; God is witness:
->
-> <sup>[6](/bible/1-thessalonians/2#v6)</sup> Nor of men sought we glory, neither of you, nor yet of others, when we might have been burdensome, as the apostles of Christ.
->
-> <sup>[7](/bible/1-thessalonians/2#v7)</sup> But we were gentle among you, even as a nurse cherisheth her children:
->
-> <sup>[8](/bible/1-thessalonians/2#v8)</sup> So being affectionately desirous of you, we were willing to have imparted unto you, not the gospel of God only, but also our own souls, because ye were dear unto us.
 
 - For neither at any time used we flattering words, as ye know: Still dealing with him not being burdensome. He didn't use any types of fair speeches in order to finesse them out their money. And we know a lot of smooth-talking pastors that get the people out their bread every single Sunday. Mother's Day just passed. You know there was all types of bread being thrown in them baskets. Same thing with Easter some weeks back. Right? All of these holiday, the building funds, but don't buildings ever get funded. The pastor appreciation, but the pastor don't show no appreciation to the people. Right?
 
 - Nor a cloak of covetousness, God is witness: He's saying, “Look, the Lord is my witness. I know y'all don't believe me. Y'all don't have to believe me. God is my witness.”
 
+> <sup>[6](/bible/1-thessalonians/2#v6)</sup> Nor of men sought we glory, neither of you, nor yet of others, when we might have been burdensome, as the apostles of Christ.
+
 - When we might have been burdensome, as the apostles of Christ: He's saying, “We could have been that way. We could have been burdensome using fair speeches,” because he had real wisdom. Paul could have dropped some real gems on them through the scriptures and they'd have been like, “Oh my goodness, yeah. Yeah, now we got to give him the money. We have to. Did you hear what he just said?” But he's, no. That's not how we roll. That's not how I roll in the spirit of Christ. That's not how I roll for real. Right?
 
 - Burdensome: Y'all see where funds is going. We sending men hundreds across the world. All seven continents. Then if somebody in Antarctica, we going to find you. Right? You see where the money of the ministry is going. But it's a collective effort, so it's not a burden to just one person or one city or one state, right? Or one area.
 
+> <sup>[7](/bible/1-thessalonians/2#v7)</sup> But we were gentle among you, even as a nurse cherisheth her children:
+
 - But we were gentle among you, even as a nurse cherisheth her children: Remember he said, it's not for the children to lay up for the parents, but the parents to lay up for the children. He's saying the same thing to the church at Thessalonica. Even as a nurse cherisheth her children. That's how he sees them. He doesn't see them as a way to gain. He doesn't see them that way. He sees them as his actual children in the Lord. He sees them as his actual offspring in the body of Christ. And he's not trying to do them wrong, but a leader like Paul is so rare. It's just so much easier to attribute some type of evil to them. It's so much easier. It's like a toxic relationship. It's just been a bunch of evil all your life, then you finally get a good man or a good situation, and you don't know how to deal with it. You don't know how to keep it. You don't know how to handle it. So you end up effing it up. That's what these churches was doing with the mighty Paul, who had nothing to gain from them. Right?
+
+> <sup>[8](/bible/1-thessalonians/2#v8)</sup> So being affectionately desirous of you, we were willing to have imparted unto you, not the gospel of God only, but also our own souls, because ye were dear unto us.
 
 - Because ye were dear unto us: Paul really really really loves his people. I remember I asked a captain one time, I seen all the mighty works he was doing. It just seemed like every time I looked up he was doing some type of new initiative that was just tireless, that would be a project for months on end, right? And I was like, where does it come from? Like where does the energy come from? Where does the passion? Where does the drive come from? And he said you got to care for the people. I said damn. Simple answer but it's impactful. You have to care for the people. You have to care for the body and that's what Paul did and that's what he was trying to show them as an example of how to move.
 
@@ -259,16 +259,16 @@ Reading from Definition of “chargeable” (source not named on air)  *[[16:52]
 **[2 Corinthians 10:15-18](/bible/2-corinthians/10#v15)**  *[[37:54](https://www.youtube.com/watch?v=xzLIo4tk3Zk&t=2274s)]*
 
 > <sup>[15](/bible/2-corinthians/10#v15)</sup> Not boasting of things without our measure, that is, of other men’s labours; but having hope, when your faith is increased, that we shall be enlarged by you according to our rule abundantly,
->
+
+- Not boasting of things without our measure, that is, of other men's labours: We're going to jump back a chapter. Remember he used the word boasting. So Paul is letting them know, you all measure yourselves by yourselves. You all look at one another and say, “We're great. We're doing great things here.” When really none of it was built by them. It was built by Paul.
+
+- When your faith is increased, that we shall be enlarged by you according to our rule abundantly: And he's saying that Lord's will, when your faith is increased, because it's not right now, that we will increase abundantly, but with our rules still intact. In no shape, form, or fashion is Paul going to be ousted out of leadership by those that he raised up in the faith. That's why he called them, “Y'all are like my children.” You a parent. The children don't lay up for the parent, the parent lays up for the child. Right? But they're boasting themselves, and they are saying that they reign, or that they are the grand poobah, as, you know, leadership would say sometimes, right?
+
 > <sup>[16](/bible/2-corinthians/10#v16)</sup> To preach the gospel in the regions beyond you, and not to boast in another man’s line of things made ready to our hand.
 >
 > <sup>[17](/bible/2-corinthians/10#v17)</sup> But he that glorieth, let him glory in the Lord.
 >
 > <sup>[18](/bible/2-corinthians/10#v18)</sup> For not he that commendeth himself is approved, but whom the Lord commendeth.
-
-- Not boasting of things without our measure, that is, of other men's labours: We're going to jump back a chapter. Remember he used the word boasting. So Paul is letting them know, you all measure yourselves by yourselves. You all look at one another and say, “We're great. We're doing great things here.” When really none of it was built by them. It was built by Paul.
-
-- When your faith is increased, that we shall be enlarged by you according to our rule abundantly: And he's saying that Lord's will, when your faith is increased, because it's not right now, that we will increase abundantly, but with our rules still intact. In no shape, form, or fashion is Paul going to be ousted out of leadership by those that he raised up in the faith. That's why he called them, “Y'all are like my children.” You a parent. The children don't lay up for the parent, the parent lays up for the child. Right? But they're boasting themselves, and they are saying that they reign, or that they are the grand poobah, as, you know, leadership would say sometimes, right?
 
 - For not he that commendeth himself is approved, but whom the Lord commendeth: Is it a mystery that what Paul is talking about comes after this chapter? Comes after what's being said here. He's telling them, yeah, y'all need to build abundantly outside of here. Yeah, go out and teach, but this here, this is the foundation that through Christ I built. And I'm noticing and I'm seeing and I'm perceiving that, like it says in verse 12, but what I do, that I will do, meaning boast of him not taking anything from them, that I may cut off occasion from them which desire occasion, those that commend themselves by themselves, boasting outside of their measure of other men's labors. That's what they was doing. Now, imagine if he'd have took money from them. Oh, it'd have been a setup. It'd have been a setup. It'd have been under false pretenses. That's how the word goes. It'd have been under false pretenses. Right?
 
@@ -276,26 +276,26 @@ Reading from Definition of “chargeable” (source not named on air)  *[[16:52]
 **[1 Corinthians 9:14-18](/bible/1-corinthians/9#v14)**  *[[40:52](https://www.youtube.com/watch?v=xzLIo4tk3Zk&t=2452s)]*
 
 > <sup>[14](/bible/1-corinthians/9#v14)</sup> Even so hath the Lord ordained that they which preach the gospel should live of the gospel.
->
-> <sup>[15](/bible/1-corinthians/9#v15)</sup> But I have used none of these things: neither have I written these things, that it should be so done unto me: for it were better for me to die, than that any man should make my glorying void.
->
-> <sup>[16](/bible/1-corinthians/9#v16)</sup> For though I preach the gospel, I have nothing to glory of: for necessity is laid upon me; yea, woe is unto me, if I preach not the gospel!
->
-> <sup>[17](/bible/1-corinthians/9#v17)</sup> For if I do this thing willingly, I have a reward: but if against my will, a dispensation of the gospel is committed unto me.
->
-> <sup>[18](/bible/1-corinthians/9#v18)</sup> What is my reward then? Verily that, when I preach the gospel, I may make the gospel of Christ without charge, that I abuse not my power in the gospel.
 
 - Even so hath the Lord ordained that they which preach the gospel should live of the gospel: First Corinthians 9. I think we read that earlier. I think I might have jumped ahead. You know, the spirit be moving. Spirit be moving. Oh, no. No, I didn't. First Corinthians 9:15 through 18. Verse 14 gives the context. So, the support should come from the church, right? He's writing this in the letter. Like I mentioned, he goes into the ox, right? Being partaker of his work.
 
+> <sup>[15](/bible/1-corinthians/9#v15)</sup> But I have used none of these things: neither have I written these things, that it should be so done unto me: for it were better for me to die, than that any man should make my glorying void.
+
 - For it were better for me to die, than that any man should make my glorying void: Paul said, I'd rather die than to allow the work that I put in be made void because a negro said I took a handout from him and now the church is suffering, we're in dire straits because of Paul and Paul's covetousness and Paul's greed and the disciples that came with him. He said I'd rather die. That's a diamond gem. I'd rather die than to let somebody make the glory of what the Lord is trying to build here be made of none effect. No, no, no, not happening, right?
+
+> <sup>[16](/bible/1-corinthians/9#v16)</sup> For though I preach the gospel, I have nothing to glory of: for necessity is laid upon me; yea, woe is unto me, if I preach not the gospel!
 
 - For necessity is laid upon me: That necessity goes into that want we read before. Necessity is laid upon him. So we don't have nothing to glory from, right? He's doing this because he has to do this.
 
 - Yea, woe is unto me, if I preach not the gospel: So I'm not here to bank off of y'all. I need to teach the gospel. Christ told me directly that I need to do this. So I didn't come here for your money like y'all do. I didn't come here to get a name or to glory like y'all do. I didn't come to build on another man's foundation and to profit off the people like y'all do. Right?
 
+> <sup>[17](/bible/1-corinthians/9#v17)</sup> For if I do this thing willingly, I have a reward: but if against my will, a dispensation of the gospel is committed unto me.
+
 - For if I do this thing willingly, I have a reward: Which he is.
 
 - When I preach the gospel, I make the gospel of Christ without charge: Not chargeable to any man.
+
+> <sup>[18](/bible/1-corinthians/9#v18)</sup> What is my reward then? Verily that, when I preach the gospel, I may make the gospel of Christ without charge, that I abuse not my power in the gospel.
 
 - That I abuse not my power in the gospel: That's the whole point. They would accuse Paul of abusing his power because of the gospel. Thus, some may turn away from the gospel because of what they believe about Paul. You see the evil? And once Paul was gone, or once Paul was out of the proverbial picture, guess who would be there to pick up all the pieces, and the pieces meaning the shekels and the money? These wicked Negroes. That's how they was moving.
 
@@ -309,10 +309,10 @@ Reading from Definition of “chargeable” (source not named on air)  *[[16:52]
 **[2 Corinthians 11:12-13](/bible/2-corinthians/11#v12)**  *[[44:32](https://www.youtube.com/watch?v=xzLIo4tk3Zk&t=2672s)]*
 
 > <sup>[12](/bible/2-corinthians/11#v12)</sup> But what I do, that I will do, that I may cut off occasion from them which desire occasion; that wherein they glory, they may be found even as we.
->
-> <sup>[13](/bible/2-corinthians/11#v13)</sup> For such are false apostles, deceitful workers, transforming themselves into the apostles of Christ.
 
 - That wherein they glory, they may be found even as we: Back to 2 Corinthians 11 and we are at 13 now. No, no, verse 12 again. They were trying to put themselves on the same level as Paul. When they were nowhere near on the same level as Paul.
+
+> <sup>[13](/bible/2-corinthians/11#v13)</sup> For such are false apostles, deceitful workers, transforming themselves into the apostles of Christ.
 
 - For such are false apostles, deceitful workers, transforming themselves into the apostles of Christ: Let's read on verse 13. They had no business saying some of the things that they were saying, doing some of the things that they were doing, moving how they were moving.
 
@@ -330,16 +330,16 @@ Reading from Definition of “chargeable” (source not named on air)  *[[16:52]
 **[2 Peter 2:1-3](/bible/2-peter/2#v1)**  *[[47:57](https://www.youtube.com/watch?v=xzLIo4tk3Zk&t=2877s)]*
 
 > <sup>[1](/bible/2-peter/2#v1)</sup> But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction.
->
-> <sup>[2](/bible/2-peter/2#v2)</sup> And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of.
->
-> <sup>[3](/bible/2-peter/2#v3)</sup> And through covetousness shall they with feigned words make merchandise of you: whose judgment now of a long time lingereth not, and their damnation slumbereth not.
 
 - But there were false prophets also among the people, even as there shall be false teachers among you: The Apostle Peter spoke about the same thing.
+
+> <sup>[2](/bible/2-peter/2#v2)</sup> And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of.
 
 - By reason of whom the way of truth shall be evil spoken of: That's why Paul said he would rather die than to let his glorying, which is the ministry, be made void. Because of their evil ways, those deceitful workers, those false apostles, it says by reason of whom the way of truth shall be evil spoken of. So, everything that's being built, everything that's being fortified or put in place by Paul through Christ, it would become evil spoken of. Because of nig- Look, man, hold on. I got to make a left turn real quick. I believe it's Ecclesiastes. Bear with me, y'all. I'm shooting from the hip.
 
 - And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of: Now, back in 2 Peter chapter 2 verse 2. It's the way of truth. It's the correct way to live. It's the correct way to go, but because of them, it will be evil spoken of. And now, there would have to be either twice as much work done or things could dissolve. The whole congregation could dissolve. Paul said, “I would rather die than to allow that to happen, right?”
+
+> <sup>[3](/bible/2-peter/2#v3)</sup> And through covetousness shall they with feigned words make merchandise of you: whose judgment now of a long time lingereth not, and their damnation slumbereth not.
 
 - And through covetousness shall they with feigned words make merchandise of you: That's why Paul said, “I didn't come with the fair speeches,” because those fair speeches be feigned words. They be fake. They be just what you want to hear. Just make you feel good. What it say in Isaiah? Prophesy unto us smooth things.
 
@@ -376,12 +376,12 @@ Reading from Definition of “chargeable” (source not named on air)  *[[16:52]
 **[Galatians 1:6-8](/bible/galatians/1#v6)**  *[[54:56](https://www.youtube.com/watch?v=xzLIo4tk3Zk&t=3296s)]*
 
 > <sup>[6](/bible/galatians/1#v6)</sup> I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:
->
+
+- Unto another gospel: which is not another; but there be some that trouble you, and would pervert the gospel of Christ: Now, with the church of Galatia, it was about being circumcised after the manner of Moses being the only way to receive salvation, right? But that heresy, those that are causing the way of truth to be evil spoken of, had to come to somebody, somebody had to minister that message, somebody had to bring that out, somebody had to noise it abroad, right?
+
 > <sup>[7](/bible/galatians/1#v7)</sup> Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.
 >
 > <sup>[8](/bible/galatians/1#v8)</sup> But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.
-
-- Unto another gospel: which is not another; but there be some that trouble you, and would pervert the gospel of Christ: Now, with the church of Galatia, it was about being circumcised after the manner of Moses being the only way to receive salvation, right? But that heresy, those that are causing the way of truth to be evil spoken of, had to come to somebody, somebody had to minister that message, somebody had to bring that out, somebody had to noise it abroad, right?
 
 - But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed: That same angel, angel of light, right? That same minister. Them brothers is going to be accursed. Them brothers is going to be accursed because their end is going to be warranted. The evil works that they're doing, the little ones that they're causing to be offended through speaking evil of Paul or speaking down on the ministry, or all of the things that, you know, Paul is building and they're actively undoing by lying on him, right? Or setting him up as if he did take any type of funds or help, that he was some type of evil brother. It is what it is, right? And through feigned speeches and all of that, and through great shows of grandeur and all of that. That's how they get them. Paul said, “No, no, no. Through the simplicity of Christ is how I roll.”
 
@@ -399,10 +399,10 @@ Reading from Definition of “chargeable” (source not named on air)  *[[16:52]
 **[2 Corinthians 11:16-17](/bible/2-corinthians/11#v16)**  *[[57:51](https://www.youtube.com/watch?v=xzLIo4tk3Zk&t=3471s)]*
 
 > <sup>[16](/bible/2-corinthians/11#v16)</sup> I say again, Let no man think me a fool; if otherwise, yet as a fool receive me, that I may boast myself a little.
->
-> <sup>[17](/bible/2-corinthians/11#v17)</sup> That which I speak, I speak it not after the Lord, but as it were foolishly, in this confidence of boasting.
 
 - Let no man think me a fool; if otherwise, yet as a fool receive me, that I may boast myself a little: I say again.
+
+> <sup>[17](/bible/2-corinthians/11#v17)</sup> That which I speak, I speak it not after the Lord, but as it were foolishly, in this confidence of boasting.
 
 - That which I speak, I speak it not after the Lord, but as it were foolishly, in this confidence of boasting: So, he's about to go into his resume of being an apostle, his resume of being a leader.
 

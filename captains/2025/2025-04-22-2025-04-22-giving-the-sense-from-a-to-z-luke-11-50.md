@@ -134,7 +134,9 @@ Reading from On-screen text on the dissolving of IUIC France, under article L212
 **[Acts 12:12-17](/bible/acts/12#v12)**  *[[17:46](https://www.youtube.com/watch?v=2bEXym-O04Q&t=1066s)]*
 
 > <sup>[12](/bible/acts/12#v12)</sup> And when he had considered the thing, he came to the house of Mary the mother of John, whose surname was Mark; where many were gathered together praying.
->
+
+- When he had considered the thing, he came to the house of Mary the mother of John, whose surname was Mark; where many were gathered together praying: This is when the apostle Peter was led out of prison, or broken out of prison, by the angel. So now listen to this. Listen, there was a persecution of the Israelites. They had just beheaded the Apostle James earlier in the chapter. And then they threw Peter in prison. When Peter got out, he went to this unmarked house. He went to this house to fellowship with the brothers and sisters that he knew was there. Watch this. And when they heard him knock on the door, people were like, "Okay, let's find out who this is."
+
 > <sup>[13](/bible/acts/12#v13)</sup> And as Peter knocked at the door of the gate, a damsel came to hearken, named Rhoda.
 >
 > <sup>[14](/bible/acts/12#v14)</sup> And when she knew Peter’s voice, she opened not the gate for gladness, but ran in, and told how Peter stood before the gate.
@@ -144,8 +146,6 @@ Reading from On-screen text on the dissolving of IUIC France, under article L212
 > <sup>[16](/bible/acts/12#v16)</sup> But Peter continued knocking: and when they had opened the door, and saw him, they were astonished.
 >
 > <sup>[17](/bible/acts/12#v17)</sup> But he, beckoning unto them with the hand to hold their peace, declared unto them how the Lord had brought him out of the prison. And he said, Go shew these things unto James, and to the brethren. And he departed, and went into another place.
-
-- When he had considered the thing, he came to the house of Mary the mother of John, whose surname was Mark; where many were gathered together praying: This is when the apostle Peter was led out of prison, or broken out of prison, by the angel. So now listen to this. Listen, there was a persecution of the Israelites. They had just beheaded the Apostle James earlier in the chapter. And then they threw Peter in prison. When Peter got out, he went to this unmarked house. He went to this house to fellowship with the brothers and sisters that he knew was there. Watch this. And when they heard him knock on the door, people were like, "Okay, let's find out who this is."
 
 - But he, beckoning unto them with the hand to hold their peace: Wait, so what he's saying is, sh. Why is he saying that? Don't say nothing. Let me in first before y'all get loud. Cuz they was like, "Oh, it's Peter. It's the Apostle Peter. He here. It's the Apostle Peter. He's here. He's back. He's out of prison." So, they all are happy about this. But Peter is like, "Sh, I don't want nobody know I'm here. Relax. Let me get in there first." That's what that mean. He beckoned unto them with the hand to hold their peace.
 
@@ -201,12 +201,10 @@ Reading from On-screen text on the dissolving of IUIC France, under article L212
 **[Matthew 23:13-15](/bible/matthew/23#v13)**  *[[27:33](https://www.youtube.com/watch?v=2bEXym-O04Q&t=1653s)]*
 
 > <sup>[13](/bible/matthew/23#v13)</sup> But woe unto you, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men: for ye neither go in yourselves, neither suffer ye them that are entering to go in.
->
-> <sup>[14](/bible/matthew/23#v14)</sup> Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows’ houses, and for a pretence make long prayer: therefore ye shall receive the greater damnation.
->
-> <sup>[15](/bible/matthew/23#v15)</sup> Woe unto you, scribes and Pharisees, hypocrites! for ye compass sea and land to make one proselyte, and when he is made, ye make him twofold more the child of hell than yourselves.
 
 - For ye neither go in yourselves, neither suffer ye them that are entering to go in: Because you don't go in yourself. And you don't suffer them that are entering to go in.
+
+> <sup>[14](/bible/matthew/23#v14)</sup> Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows’ houses, and for a pretence make long prayer: therefore ye shall receive the greater damnation.
 
 - For ye devour widows' houses: You devour a widow's houses. So those women that are without husband, you devour them. Meaning what? Take advantage of them financially and sexually, just like the pastor today. The pastor be happy some of y'all women husband die. Hell, some of these pastors sleeping with you or will sleep with you or will make a pass at you. Why your husband still alive? Your husband be on the deacon board. He trying to hit it. Same thing. Ain't no different.
 
@@ -219,6 +217,8 @@ Reading from On-screen text on the dissolving of IUIC France, under article L212
 - You're teaching the people that were a cult. You're teaching the people that were hate group. None of that you can prove biblically. None of it. It's just your opinion. That's how you feel. All right? It's how you feel. But that's not in the Bible. You can't prove that we hate anyone. You can't prove that we're a hate group. You can't prove that we're a cult. We don't force nobody to be amongst us. They can leave if they want to. Nobody is bound to be amongst us. Nobody come in, we say, "Lock the doors." That's Christianity. That's your pastors. Yeah. Lock the doors. Close the doors. We don't do that. Hey, there's the door. If you want to leave, happily, go ahead.
 
 - We ain't making you leave. We going to continue this work with or without you. This work going to continue with me, John, whomever. This work going to continue with or without us. I want to be a part of it. And I know this brother do too. You understand? So, you're going to receive a greater condemnation if you're coming against those that believe in the Son of God and they know the Israelites. For real, though.
+
+> <sup>[15](/bible/matthew/23#v15)</sup> Woe unto you, scribes and Pharisees, hypocrites! for ye compass sea and land to make one proselyte, and when he is made, ye make him twofold more the child of hell than yourselves.
 
 - Ye compass sea and land to make one proselyte, and when he is made, ye make him twofold more the child of hell than yourselves: Right? Cuz they be worse. The people that you teach, they end up being worse than you later on. Because here's the thing, a brother is a drug addict and he needs the word of God. And we try to give it to them. And then you come and say, "Man, you don't need all that, man. All you got to do is believe." And then he said, "You know what? I ain't want to keep them commandments anyway. I wanted to still do my drugs. Thank you for giving me license to sin." And he end up being worse than you. Matter of fact, he tried to rape your daughter. And you like, "Man, I really went to bat for that dude. I was out there and them Israelites were trying to teach him and I went and told him, 'Don't listen to them cuz they a cult.'" And you make them worse than you. For real, though.
 
@@ -250,10 +250,10 @@ Reading from On-screen text on the dissolving of IUIC France, under article L212
 > <sup>[2](/bible/matthew/23#v2)</sup> Saying, The scribes and the Pharisees sit in Moses’ seat:
 >
 > <sup>[3](/bible/matthew/23#v3)</sup> All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not.
->
-> <sup>[4](/bible/matthew/23#v4)</sup> For they bind heavy burdens and grievous to be borne, and lay them on men’s shoulders; but they themselves will not move them with one of their fingers.
 
 - But do not ye after their works: for they say, and do not: Right? Don't do after they works because they say and do not. They'll tell you, "Yeah, you got to live a godly life." And then you say, "Okay, well, do you got to keep the commandments?" They'll say, "No." Then back at the ranch, the pastor commit adultery. He tell you not to do it, but then he do it. He tell you not to steal, but he steal with them tithes. He's extorting you. Extortion. That's stealing. That's stealing. That's all extortion is. Forcing you to give up what's yours, right? By illegal means, by manipulation, whatever the case may be.
+
+> <sup>[4](/bible/matthew/23#v4)</sup> For they bind heavy burdens and grievous to be borne, and lay them on men’s shoulders; but they themselves will not move them with one of their fingers.
 
 - But they themselves will not move them with one of their fingers: Right. They won't do none of the stuff they tell you to do. Watch out for people like that. One thing I know about Bishop Nathanyel and the other bishops, nothing that they've asked us to do have they not done first. Bishop Nathanyel, Bishop Yawasap, Bishop Kani, the deacons, all these men be on the front lines at war. They're not asking us to go out there on the front lines and they've never done it. Come on y'all, stop the games.
 
@@ -272,12 +272,12 @@ Reading from On-screen text on the dissolving of IUIC France, under article L212
 **[Romans 2:1-2](/bible/romans/2#v1)**  *[[37:47](https://www.youtube.com/watch?v=2bEXym-O04Q&t=2267s)]*
 
 > <sup>[1](/bible/romans/2#v1)</sup> Therefore thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest doest the same things.
->
-> <sup>[2](/bible/romans/2#v2)</sup> But we are sure that the judgment of God is according to truth against them which commit such things.
 
 - For thou that judgest doest the same things: See, cuz when you judge, you do the same thing. The things that you're prophesying, and it's coming to the Israelite community too, because a lot of Israelites speak against certain things but then the cat's out the bag. You understand? The receipts come out and find out you was doing what you're condemning other people for doing, when you should have gotten yourself together and then you would have been able to see clearly to deal with your brother. For real though. And a lot of brothers ain't doing that. They're not doing it. You feel me?
 
 - Therefore thou art inexcusable, O man, whosoever thou art that judgest: And that's why the scriptures say, listen, thou art inexcusable, oh man, whosoever thou art that judges, and wherein thou judgest another, thou condemnest thyself. For thou that judgest another doest the same things.
+
+> <sup>[2](/bible/romans/2#v2)</sup> But we are sure that the judgment of God is according to truth against them which commit such things.
 
 - Against them which commit such things: Right? Commit such things. Meaning in chapter one, talking about a man with another man, a woman with another woman, a reprobate mind, and all of the different sins and idolatry and the things that you read about in Romans chapter 1, when you read from verse 25 all the way down to 32. Matter of fact, read 32.
 
@@ -297,12 +297,6 @@ Reading from On-screen text on the dissolving of IUIC France, under article L212
 **[Luke 12:2-5](/bible/luke/12#v2)**  *[[41:23](https://www.youtube.com/watch?v=2bEXym-O04Q&t=2483s)]*
 
 > <sup>[2](/bible/luke/12#v2)</sup> For there is nothing covered, that shall not be revealed; neither hid, that shall not be known.
->
-> <sup>[3](/bible/luke/12#v3)</sup> Therefore whatsoever ye have spoken in darkness shall be heard in the light; and that which ye have spoken in the ear in closets shall be proclaimed upon the housetops.
->
-> <sup>[4](/bible/luke/12#v4)</sup> And I say unto you my friends, Be not afraid of them that kill the body, and after that have no more that they can do.
->
-> <sup>[5](/bible/luke/12#v5)</sup> But I will forewarn you whom ye shall fear: Fear him, which after he hath killed hath power to cast into hell; yea, I say unto you, Fear him.
 
 - For there is nothing covered, that shall not be revealed; neither hid, that shall not be known: Right. I was just going over that with the brothers earlier today. All the secret sins you involved in, if you don't repent of them, they will be revealed. It's not going to be covered. You cannot cover your sins. And that's what the scribes and Pharisees are trying to do. They were trying to do all this evil behind closed doors and cover it up. The Lord said, "No, no, no. You're not covering that up. You're definitely not covering that up. I'm going to make sure that it's exposed."
 
@@ -310,9 +304,15 @@ Reading from On-screen text on the dissolving of IUIC France, under article L212
 
 - So we reading right here in the book of Luke chapter 2 verse two, 12:2, it says, "For there is nothing covered that shall not be revealed, neither hid that shall not be known." The Lord is going to reveal it all. He going to reveal it all.
 
+> <sup>[3](/bible/luke/12#v3)</sup> Therefore whatsoever ye have spoken in darkness shall be heard in the light; and that which ye have spoken in the ear in closets shall be proclaimed upon the housetops.
+
 - Shall be proclaimed upon the housetops: All your sins going to be revealed. And everything that Christ spoke unto the apostles, they were going to teach.
 
+> <sup>[4](/bible/luke/12#v4)</sup> And I say unto you my friends, Be not afraid of them that kill the body, and after that have no more that they can do.
+
 - Be not afraid of them that kill the body, and after that have no more that they can do: Right? Cuz once they kill your body, they can't do nothing else. All right? You're dead. Okay? Good. Ashes to ashes, dust to dust. You're done. But your soul is what you need to be worried about. He going to say that in the next verse. Watch this.
+
+> <sup>[5](/bible/luke/12#v5)</sup> But I will forewarn you whom ye shall fear: Fear him, which after he hath killed hath power to cast into hell; yea, I say unto you, Fear him.
 
 - Fear him, which after he hath killed hath power to cast into hell; yea, I say unto you, Fear him: He said now you need to fear that one. That's who you need to fear. The one that can put your soul and body into hell, that have power to cast you into hell. Now, Revelation 1 and 15 real quick, or 18, excuse me. Who got that power to do that?
 
@@ -326,12 +326,12 @@ Reading from On-screen text on the dissolving of IUIC France, under article L212
 **[Daniel 12:1-2](/bible/daniel/12#v1)**  *[[44:15](https://www.youtube.com/watch?v=2bEXym-O04Q&t=2655s)]*
 
 > <sup>[1](/bible/daniel/12#v1)</sup> And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation even to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book.
->
-> <sup>[2](/bible/daniel/12#v2)</sup> And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt.
 
 - Michael stand up, the great prince which standeth for the children of thy people: Right. The great prince that standeth for the children of thy people.
 
 - At that time thy people shall be delivered, every one that shall be found written in the book: Right. So it says and at that time everyone shall be delivered, everyone that's found written in the book.
+
+> <sup>[2](/bible/daniel/12#v2)</sup> And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt.
 
 - Some to everlasting life, and some to shame and everlasting contempt: Right? Some to everlasting life and some to shame and everlasting contempt. So what are we reading right here? We're reading about that condemnation. That everlasting contempt is that condemnation that the Bible speaks about. Now go to the book of Mark real quick. Mark 9.
 
@@ -339,10 +339,10 @@ Reading from On-screen text on the dissolving of IUIC France, under article L212
 **[Mark 9:45-46](/bible/mark/9#v45)**  *[[45:16](https://www.youtube.com/watch?v=2bEXym-O04Q&t=2716s)]*
 
 > <sup>[45](/bible/mark/9#v45)</sup> And if thy foot offend thee, cut it off: it is better for thee to enter halt into life, than having two feet to be cast into hell, into the fire that never shall be quenched:
->
-> <sup>[46](/bible/mark/9#v46)</sup> Where their worm dieth not, and the fire is not quenched.
 
 - Into the fire that never shall be quenched: Right. This fire that shall never be quenched.
+
+> <sup>[46](/bible/mark/9#v46)</sup> Where their worm dieth not, and the fire is not quenched.
 
 - Where their worm dieth not, and the fire is not quenched: Where that worm dieth not and the fire is what? Not quenched. Right? That fire going to burn forever. It's going to be a continuous burning. It's never going to stop. Matter of fact, go to Isaiah 66 verse 23. And these Christians ain't afraid of that. Tell you, they're not afraid of it. They don't believe it. They say they believe it, but they don't, because the scriptures are very plain on how you going to enter into that. How you going to get thrown into that? If you break God's commandments, if you're a sinner, your adultery, your idolater, anyone that hateth God, that makes lies, the Bible said they done. You're finished.
 
@@ -350,10 +350,10 @@ Reading from On-screen text on the dissolving of IUIC France, under article L212
 **[Isaiah 66:23-24](/bible/isaiah/66#v23)**  *[[46:56](https://www.youtube.com/watch?v=2bEXym-O04Q&t=2816s)]*
 
 > <sup>[23](/bible/isaiah/66#v23)</sup> And it shall come to pass, that from one new moon to another, and from one sabbath to another, shall all flesh come to worship before me, saith the Lord.
->
-> <sup>[24](/bible/isaiah/66#v24)</sup> And they shall go forth, and look upon the carcases of the men that have transgressed against me: for their worm shall not die, neither shall their fire be quenched; and they shall be an abhorring unto all flesh.
 
 - From one sabbath to another, shall all flesh come to worship before me, saith the LORD: Right? It said, "All flesh shall come to worship before God, sayeth the Lord." And they going to keep the new moon. The new moon and the Sabbath going to be kept in the kingdom of heaven, for the fools that don't believe that.
+
+> <sup>[24](/bible/isaiah/66#v24)</sup> And they shall go forth, and look upon the carcases of the men that have transgressed against me: for their worm shall not die, neither shall their fire be quenched; and they shall be an abhorring unto all flesh.
 
 - For their worm shall not die, neither shall their fire be quenched: When it say that worm shall not die, that mean they spirit. That spirit is going to burn. Because this fire ain't talking about your actual flesh. No, no, no, no. Your flesh gone. No. It's talking about your soul. Your soul is going to burn.
 
@@ -381,16 +381,16 @@ Reading from On-screen text on the dissolving of IUIC France, under article L212
 > <sup>[6](/bible/luke/12#v6)</sup> Are not five sparrows sold for two farthings, and not one of them is forgotten before God?
 >
 > <sup>[7](/bible/luke/12#v7)</sup> But even the very hairs of your head are all numbered. Fear not therefore: ye are of more value than many sparrows.
->
-> <sup>[8](/bible/luke/12#v8)</sup> Also I say unto you, Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God:
->
-> <sup>[9](/bible/luke/12#v9)</sup> But he that denieth me before men shall be denied before the angels of God.
 
 - But even the very hairs of your head are all numbered: The very hairs of the Israelites' head are all numbered.
 
 - Fear not therefore: ye are of more value than many sparrows: Right? So we are more value than any sparrow. So the Lord is saying, "Look, I'm going to take care of you," right? Why? Because we keep the commandments. But those that don't keep the commandments, they have to be warned that they're going to be thrown in hell. So follow me. The whole context of that is the Lord said, "Look, follow me. Don't worry about those going to persecute you, the hypocrites, the hypocrisy of the Pharisees. Don't worry about none of that." All right? At the end of the day, I'm going to take care of the children of Israel. That's what God is saying.
 
+> <sup>[8](/bible/luke/12#v8)</sup> Also I say unto you, Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God:
+
 - Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God: Right? So if you confess Christ during persecution, that's what that's talking about. Cuz right now it's easy for anybody to say that they believe in God. It's easy to say that. But when they start persecuting the believers in Christ, the true believers in Christ, the children of Israel, like what they doing in France right now, and you still confess the Lord in the face of adversity, you still express that you love the Lord and you going to keep the commandments even when they threatening to kill you, the Bible says, "Yes, you going to enter. The Lord is going to confess you before the angels in heaven."
+
+> <sup>[9](/bible/luke/12#v9)</sup> But he that denieth me before men shall be denied before the angels of God.
 
 - But he that denieth me before men shall be denied before the angels of God: But if you don't do that and you go against the Lord, the Lord said, "I'm not going to confess you before the angels." I'm going to say, what? Watch this. Matthew 7:23.
 
@@ -398,16 +398,16 @@ Reading from On-screen text on the dissolving of IUIC France, under article L212
 **[Matthew 7:21-23](/bible/matthew/7#v21)**  *[[51:28](https://www.youtube.com/watch?v=2bEXym-O04Q&t=3088s)]*
 
 > <sup>[21](/bible/matthew/7#v21)</sup> Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.
->
-> <sup>[22](/bible/matthew/7#v22)</sup> Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works?
->
-> <sup>[23](/bible/matthew/7#v23)</sup> And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.
 
 - Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven: So not everyone that saith unto him, Lord, Lord, shall enter into the kingdom of heaven.
 
 - But he that doeth the will of my Father which is in heaven: Right? He that do the will of the Father which is in heaven.
 
+> <sup>[22](/bible/matthew/7#v22)</sup> Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works?
+
 - Have we not prophesied in thy name? and in thy name have cast out devils: So this is in the Israelite community. This is somebody that knew that they were an Israelite, kept the commandments of God at one time, and then they fell away from it. The Lord going to say, they said that, "Lord, we have cast out devils in thy name. We have done many mighty works. We believe on you. We believed on you."
+
+> <sup>[23](/bible/matthew/7#v23)</sup> And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.
 
 - And then will I profess unto them, I never knew you: depart from me, ye that work iniquity: Right. Then I will profess unto them, I never knew you. Why? Because they fell away. If they knew Christ, they would have never fallen away. They would have stood strong and endured until the end. So that also show you that you got to continuously, continuously put in work.
 
@@ -437,16 +437,16 @@ Reading from On-screen text on the dissolving of IUIC France, under article L212
 **[2 Peter 2:20-22](/bible/2-peter/2#v20)**  *[[56:41](https://www.youtube.com/watch?v=2bEXym-O04Q&t=3401s)]*
 
 > <sup>[20](/bible/2-peter/2#v20)</sup> For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled therein, and overcome, the latter end is worse with them than the beginning.
->
-> <sup>[21](/bible/2-peter/2#v21)</sup> For it had been better for them not to have known the way of righteousness, than, after they have known it, to turn from the holy commandment delivered unto them.
->
-> <sup>[22](/bible/2-peter/2#v22)</sup> But it is happened unto them according to the true proverb, The dog is turned to his own vomit again; and the sow that was washed to her wallowing in the mire.
 
 - The latter end is worse with them than the beginning: Right? So the latter end is worse with them than the beginning, because for if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled therein and overcome, the latter end is worse with them than the beginning. So they're worse in the latter end than the beginning. You understand?
 
 - God laws are done away with, is blasphemy. Absolutely. Saying that we don't have to keep the commandments no more, that's blasphemy. Saying that Christ is not a black man, that's blasphemy. To say that we not the Israelites, that's blasphemy. And you once knew that information. You escape the pollutions of the world. Then you become overcome by those things and you fall back into that sin. You going to be worse than the first, in the beginning.
 
+> <sup>[21](/bible/2-peter/2#v21)</sup> For it had been better for them not to have known the way of righteousness, than, after they have known it, to turn from the holy commandment delivered unto them.
+
 - For it had been better for them not to have known the way of righteousness, than, after they have known it, to turn from the holy commandment delivered unto them: Right. It's better that you had not even known the way of righteousness than after you had known it to turn from the holy commandment that was given to you. It's better to just not have even known the information to go back into your sin after you had known it. That's blaspheming the Holy Ghost.
+
+> <sup>[22](/bible/2-peter/2#v22)</sup> But it is happened unto them according to the true proverb, The dog is turned to his own vomit again; and the sow that was washed to her wallowing in the mire.
 
 - The dog is turned to his own vomit again: Right. The dog is turned to his own vomit again. And the sow that was washed to her wallowing in the mire: Right. You go back into your wickedness. Go back into your sin.
 
@@ -454,12 +454,12 @@ Reading from On-screen text on the dissolving of IUIC France, under article L212
 **[Luke 12:11-12](/bible/luke/12#v11)**  *[[58:51](https://www.youtube.com/watch?v=2bEXym-O04Q&t=3531s)]*
 
 > <sup>[11](/bible/luke/12#v11)</sup> And when they bring you unto the synagogues, and unto magistrates, and powers, take ye no thought how or what thing ye shall answer, or what ye shall say:
->
-> <sup>[12](/bible/luke/12#v12)</sup> For the Holy Ghost shall teach you in the same hour what ye ought to say.
 
 - Take ye no thought how or what thing ye shall answer, or what ye shall say: For the Holy Ghost shall teach you in the same hour what ye ought to say: So when we get brought before the magistrates and into the synagogues and all these different places where they want to persecute us, Christ said, "I'm going to be with you at that time and I'm going to give you what to say through the Holy Ghost," because Christ is the Holy Ghost, right? He is that spirit of understanding, the spirit of truth.
 
 - And the scriptures tell us that when these times come, because they're coming, they came during the time of the apostles, they're coming back in these last days. When those times come, the Bible is telling us, don't worry about it. The Lord is going to give you what to say. The Holy Ghost is going to give you what to say. And we got to believe that. And if you don't believe that, you got to build your faith up. You got to build your faith up, because it ain't biblical. It ain't biblical to not believe that.
+
+> <sup>[12](/bible/luke/12#v12)</sup> For the Holy Ghost shall teach you in the same hour what ye ought to say.
 
 
 ## In Closing

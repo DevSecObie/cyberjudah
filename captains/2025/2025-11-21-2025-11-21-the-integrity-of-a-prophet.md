@@ -40,12 +40,12 @@ tags: ["15 Minutes w/ The Captains", "endurance", "justice", "prophecy", "wisdom
 **[Mark 7:21-22](/bible/mark/7#v21)**  *[[4:04](https://www.youtube.com/watch?v=41QmZsO9u5Q&t=244s)]*
 
 > <sup>[21](/bible/mark/7#v21)</sup> For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,
->
-> <sup>[22](/bible/mark/7#v22)</sup> Thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness:
 
 - For from within, out of the heart of men, proceed evil thoughts: we got a lot to work on, Israel, because in these last days, as we continue to strive and be a wonderful, exceeding great army and nation, everybody ain't coming in 100% right. No, we all got something to work on. So now it says, out of the heart of men. Israel, guess what? That's an inward thing. Out of the heart of men proceed evil thoughts. It ain't say you come into school professing the evil thoughts that's in your mind. No, a lot of it you keep dormant and secret. The scriptures tell you that Christ didn't even have a foolish thought. But us as men, in these carnal bodies, constantly trying to endure, we couldn't walk perfect like Christ. But guess what? We can still strive and get ourselves together. That's the mindset we have to have.
 
 - adulteries, fornications, murders: so these are a lot of evil thoughts, but I want you all to focus on the first three primary ones. Adulteries. How many times you see people getting put out the body? Sex scandal. Fornication, more sex scandals. Murders: hatred and envy towards your brother. So these are things that ultimately you battle inwardly, and they'll end up doing what? Causing an outward vomit of sin on you. You find yourself constantly in these type of things. This will be your life. This is the mindset we have to understand.
+
+> <sup>[22](/bible/mark/7#v22)</sup> Thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness:
 
 
 **[Jeremiah 17:9](/bible/jeremiah/17#v9)**  *[[6:28](https://www.youtube.com/watch?v=41QmZsO9u5Q&t=388s)]*
@@ -67,12 +67,12 @@ tags: ["15 Minutes w/ The Captains", "endurance", "justice", "prophecy", "wisdom
 **[2 Esdras 16:77-78](/bible/2-esdras/16#v77)**  *[[8:49](https://www.youtube.com/watch?v=41QmZsO9u5Q&t=529s)]*
 
 > <sup>[77](/bible/2-esdras/16#v77)</sup> Woe be unto them that are bound with their sins, and covered with their iniquities like as a field is covered over with bushes, and the path thereof covered with thorns, that no man may travel through!
->
-> <sup>[78](/bible/2-esdras/16#v78)</sup> It is left undressed, and is cast into the fire to be consumed therewith.
 
 - Woe be unto them that are bound with their sins: that's what ends up happening. You fall, and after you fall, you keep it to yourself. You don't confess it to anybody. Then next thing you know, you find yourself in deeper sin. Now next thing you know, this is your normal life. But guess what? You still come before the body in the midst of all type of iniquity, and you don't think that judgment's coming. We have to have the genuine fear of the Lord, Israel. You see that? Bound. Your sins are like chains on you.
 
 - and covered with their iniquities like as a field is covered over with bushes: you see that? So you got to imagine being tucked under some thorns, and waking up under thistles and thorns, and being bound under there. Guess what? It's going to hurt to come out, but you better get out of there. You better get out of that sin.
+
+> <sup>[78](/bible/2-esdras/16#v78)</sup> It is left undressed, and is cast into the fire to be consumed therewith.
 
 - It is left undressed, and is cast into the fire to be consumed therewith: you see that? You don't want to get consumed with them thorns and thistles because what? You fail to get out. The scriptures say that a righteous man falleth seven times, but the wicked fall into mischief. So we have to understand there's two type of men here. They ain't say you gonna be perfect, but it say, are you gonna get up? Are you gonna come out of those thorns and fight? So that's the end judgment. When Christ come on the scene, what ends up happening? We lose the kingdom over sex, over getting your rocks off, over secret sins, over hatred towards your brother. No, do not lose your whole eternal life over some sin.
 
@@ -102,26 +102,26 @@ tags: ["15 Minutes w/ The Captains", "endurance", "justice", "prophecy", "wisdom
 **[Matthew 7:1-5](/bible/matthew/7#v1)**  *[[13:24](https://www.youtube.com/watch?v=41QmZsO9u5Q&t=804s)]*
 
 > <sup>[1](/bible/matthew/7#v1)</sup> Judge not, that ye be not judged.
->
-> <sup>[2](/bible/matthew/7#v2)</sup> For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.
->
-> <sup>[3](/bible/matthew/7#v3)</sup> And why beholdest thou the mote that is in thy brother’s eye, but considerest not the beam that is in thine own eye?
->
-> <sup>[4](/bible/matthew/7#v4)</sup> Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and, behold, a beam is in thine own eye?
->
-> <sup>[5](/bible/matthew/7#v5)</sup> Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother’s eye.
 
 - Judge not, that ye be not judged: we have to get ourselves together, Israel. And it's going to take day by day, time over time. But at the same time, we have to keep an examination of sincerity of ourselves. You see what the scriptures say? Judge not, that ye be not judged.
+
+> <sup>[2](/bible/matthew/7#v2)</sup> For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.
 
 - For with what judgment ye judge, ye shall be judged: you see that? So the scriptures is telling you, if you want to render judgment, you better be ready to be judged too. You want to examine somebody, make sure you ready to be examined too, right?
 
 - and with what measure ye mete, it shall be measured to you again: you see that? So every single thing we judge and we deal with, Israel, make sure we have that same love and charity for one another as we have for ourselves.
 
+> <sup>[3](/bible/matthew/7#v3)</sup> And why beholdest thou the mote that is in thy brother’s eye, but considerest not the beam that is in thine own eye?
+
 - but considerest not the beam that is in thine own eye: you see that? You see a little speck in your brother's eye, things that he battling with, but then there's a whole eye missing off you. But meanwhile, we examining everybody else. We cannot have that mindset. We have to deal in sincerity.
+
+> <sup>[4](/bible/matthew/7#v4)</sup> Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and, behold, a beam is in thine own eye?
 
 - Let me pull out the mote out of thine eye: let me help you correct yourself.
 
 - and, behold, a beam is in thine own eye: let me help you, cuz brother, you broke the Sabbath cuz you had to work, brother. Or brother, you worked on a new moon, brother. But meanwhile, you got a woman in the back behind the curtain. Come on, brother. It don't make no sense. Sister trying to tell another sister, Sister, you not friendly. Sister, you not doing this. You not doing that. But meanwhile, you at the grocery store with pants on. Come on. We have to stop this mindset.
+
+> <sup>[5](/bible/matthew/7#v5)</sup> Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother’s eye.
 
 - Thou hypocrite: you see what the scripture say? Don't be a hypocrite. He said, Thou hypocrite.
 
@@ -133,12 +133,12 @@ tags: ["15 Minutes w/ The Captains", "endurance", "justice", "prophecy", "wisdom
 **[Sirach 1:29-30](/bible/sirach/1#v29)**  *[[16:06](https://www.youtube.com/watch?v=41QmZsO9u5Q&t=966s)]*
 
 > <sup>[29](/bible/sirach/1#v29)</sup> Be not an hypocrite in the sight of men, and take good heed what thou speakest.
->
-> <sup>[30](/bible/sirach/1#v30)</sup> Exalt not thyself, lest thou fall, and bring dishonour upon thy soul, and so God discover thy secrets, and cast thee down in the midst of the congregation, because thou camest not in truth to the fear of the Lord, but thy heart is full of deceit.
 
 - Be not an hypocrite in the sight of men: you see what the Lord said? Do not be a hypocrite in the sight of men. The Most High hate that thing.
 
 - and take good heed what thou speakest: you see that? Take good heed what come out of your mouth.
+
+> <sup>[30](/bible/sirach/1#v30)</sup> Exalt not thyself, lest thou fall, and bring dishonour upon thy soul, and so God discover thy secrets, and cast thee down in the midst of the congregation, because thou camest not in truth to the fear of the Lord, but thy heart is full of deceit.
 
 - Exalt not thyself, lest thou fall: you see that? So you put yourself high-minded and you cannot be told. But meanwhile, the Most High hate that thing. He said you have been marked as a hypocrite. It's time for judgment to come down.
 

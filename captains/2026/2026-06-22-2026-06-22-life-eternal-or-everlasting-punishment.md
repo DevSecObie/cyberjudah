@@ -55,74 +55,74 @@ Reading from a definition of abstinence, on screen  *[[2:10](https://www.youtube
 **[2 Esdras 7:55-61](/bible/2-esdras/7#v55)**  *[[2:37](https://www.youtube.com/watch?v=k38Y5tJwIwM&t=157s)]*
 
 > <sup>[55](/bible/2-esdras/7#v55)</sup> And that the faces of them which have used abstinence shall shine above the stars, whereas our faces shall be blacker than darkness?
->
-> <sup>[56](/bible/2-esdras/7#v56)</sup> For while we lived and committed iniquity, we considered not that we should begin to suffer for it after death.
->
-> <sup>[57](/bible/2-esdras/7#v57)</sup> Then answered he me, and said, This is the condition of the battle, which man that is born upon the earth shall fight;
->
-> <sup>[58](/bible/2-esdras/7#v58)</sup> That, if he be overcome, he shall suffer as thou hast said: but if he get the victory, he shall receive the thing that I say.
->
-> <sup>[59](/bible/2-esdras/7#v59)</sup> For this is the life whereof Moses spake unto the people while he lived, saying, Choose thee life, that thou mayest live.
->
-> <sup>[60](/bible/2-esdras/7#v60)</sup> Nevertheless they believed not him, nor yet the prophets after him, no nor me which have spoken unto them,
->
-> <sup>[61](/bible/2-esdras/7#v61)</sup> That there should not be such heaviness in their destruction, as shall be joy over them that are persuaded to salvation.
 
 - Shall shine above the stars: those that have restricted themselves from immorality, they're going to shine. Whereas our faces shall be blacker than darkness: those that don't use abstinence.
 
+> <sup>[56](/bible/2-esdras/7#v56)</sup> For while we lived and committed iniquity, we considered not that we should begin to suffer for it after death.
+
 - For while we lived and committed iniquity, we considered not that we should begin to suffer for it after death: while we sinned, we didn't take into consideration that after we die, there is a judgment that we have to face, a punishment after death.
+
+> <sup>[57](/bible/2-esdras/7#v57)</sup> Then answered he me, and said, This is the condition of the battle, which man that is born upon the earth shall fight;
 
 - This is the condition of the battle, which man that is born upon the earth shall fight: that if he be overcome, he shall suffer as thou hast said. There's going to be judgment after death if we don't overcome those things we're dealing with: our sexual immoralities, the things that are plagued to us, the sins that we're committing before our God.
 
+> <sup>[58](/bible/2-esdras/7#v58)</sup> That, if he be overcome, he shall suffer as thou hast said: but if he get the victory, he shall receive the thing that I say.
+>
+> <sup>[59](/bible/2-esdras/7#v59)</sup> For this is the life whereof Moses spake unto the people while he lived, saying, Choose thee life, that thou mayest live.
+
 - But if he get the victory, he shall receive the thing that I say. For this is the life whereof Moses spake unto the people while he lived, saying, Choose thee life, that thou mayest live: so this is what Moses was referring to when he says choose life.
+
+> <sup>[60](/bible/2-esdras/7#v60)</sup> Nevertheless they believed not him, nor yet the prophets after him, no nor me which have spoken unto them,
+>
+> <sup>[61](/bible/2-esdras/7#v61)</sup> That there should not be such heaviness in their destruction, as shall be joy over them that are persuaded to salvation.
 
 - There should not be such heaviness in their destruction, as shall be joy over them that are persuaded to salvation: those that hear the word of God being preached, the special blessings, eternal life, are going to be persuaded to salvation. But for those enjoying the midst of sin they're in now, it's not going to be such a nice end. That's what Moses was letting us know, and this is what Esdras is elaborating on.
 
 
 **[Daniel 12:1-3](/bible/daniel/12#v1)**  *[[4:58](https://www.youtube.com/watch?v=k38Y5tJwIwM&t=298s)]*
 
-> <sup>[1](/bible/daniel/12#v1)</sup> And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation even to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book.
->
-> <sup>[2](/bible/daniel/12#v2)</sup> And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt.
->
-> <sup>[3](/bible/daniel/12#v3)</sup> And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever.
-
 - Remember, we're dealing with life eternal or everlasting punishment. Moses used the terminology life or death.
+
+> <sup>[1](/bible/daniel/12#v1)</sup> And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation even to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book.
 
 - The great prince which standeth for the children of thy people: who is Daniel's people? The children of Israel. And there shall be a time of trouble: this is called Jacob's trouble.
 
 - At that time thy people shall be delivered: the righteous ones. Every one that shall be found written in the book.
 
+> <sup>[2](/bible/daniel/12#v2)</sup> And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt.
+
 - Many of them that sleep in the dust of the earth shall awake: those that passed away. Some to everlasting life, and some to shame and everlasting contempt: the eternal damnation. That's the pain after death.
+
+> <sup>[3](/bible/daniel/12#v3)</sup> And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever.
 
 - They that be wise shall shine as the brightness of the firmament: saying the exact same thing as 2 Esdras chapter 7. The ones that do righteous, they're going to shine. They're going to have the glorified bodies.
 
 
 **[Daniel 7:1-8](/bible/daniel/7#v1)**  *[[6:40](https://www.youtube.com/watch?v=k38Y5tJwIwM&t=400s)]*
 
+- Daniel 12 says the children of thy people, which are found written in the book of life, are going to be the ones to either receive salvation or eternal damnation. But what about the other people?
+
 > <sup>[1](/bible/daniel/7#v1)</sup> In the first year of Belshazzar king of Babylon Daniel had a dream and visions of his head upon his bed: then he wrote the dream, and told the sum of the matters.
 >
 > <sup>[2](/bible/daniel/7#v2)</sup> Daniel spake and said, I saw in my vision by night, and, behold, the four winds of the heaven strove upon the great sea.
->
+
+- The four winds of the heaven strove upon the great sea: the four armies strove against the great sea, the Mediterranean Sea.
+
 > <sup>[3](/bible/daniel/7#v3)</sup> And four great beasts came up from the sea, diverse one from another.
 >
 > <sup>[4](/bible/daniel/7#v4)</sup> The first was like a lion, and had eagle’s wings: I beheld till the wings thereof were plucked, and it was lifted up from the earth, and made stand upon the feet as a man, and a man’s heart was given to it.
->
+
+- The first was like a lion, and had eagle's wings: that's Babylon. A second, like to a bear: the Persian Medo captivity. Another, like a leopard: the Greeks, like Alexander the Freak.
+
 > <sup>[5](/bible/daniel/7#v5)</sup> And behold another beast, a second, like to a bear, and it raised up itself on one side, and it had three ribs in the mouth of it between the teeth of it: and they said thus unto it, Arise, devour much flesh.
 >
 > <sup>[6](/bible/daniel/7#v6)</sup> After this I beheld, and lo another, like a leopard, which had upon the back of it four wings of a fowl; the beast had also four heads; and dominion was given to it.
 >
 > <sup>[7](/bible/daniel/7#v7)</sup> After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns.
->
-> <sup>[8](/bible/daniel/7#v8)</sup> I considered the horns, and, behold, there came up among them another little horn, before whom there were three of the first horns plucked up by the roots: and, behold, in this horn were eyes like the eyes of man, and a mouth speaking great things.
-
-- Daniel 12 says the children of thy people, which are found written in the book of life, are going to be the ones to either receive salvation or eternal damnation. But what about the other people?
-
-- The four winds of the heaven strove upon the great sea: the four armies strove against the great sea, the Mediterranean Sea.
-
-- The first was like a lion, and had eagle's wings: that's Babylon. A second, like to a bear: the Persian Medo captivity. Another, like a leopard: the Greeks, like Alexander the Freak.
 
 - A fourth beast, dreadful and terrible, and strong exceedingly: that's Rome. But Rome continued through America. America is an extension of Rome. It had great iron teeth: just like Rome, just like America, they have a great army and they're good with their weaponry, good at war. Remember what he said to Esau, the so-called white man: he blessed them with the sword.
+
+> <sup>[8](/bible/daniel/7#v8)</sup> I considered the horns, and, behold, there came up among them another little horn, before whom there were three of the first horns plucked up by the roots: and, behold, in this horn were eyes like the eyes of man, and a mouth speaking great things.
 
 - There came up among them another little horn: that's America. Three of the first horns plucked up by the roots: Spain, France and Great Britain. After the wars, America was that last horn that came up.
 
@@ -134,10 +134,10 @@ Reading from a definition of abstinence, on screen  *[[2:10](https://www.youtube
 **[Daniel 7:11-12](/bible/daniel/7#v11)**  *[[10:56](https://www.youtube.com/watch?v=k38Y5tJwIwM&t=656s)]*
 
 > <sup>[11](/bible/daniel/7#v11)</sup> I beheld then because of the voice of the great words which the horn spake: I beheld even till the beast was slain, and his body destroyed, and given to the burning flame.
->
-> <sup>[12](/bible/daniel/7#v12)</sup> As concerning the rest of the beasts, they had their dominion taken away: yet their lives were prolonged for a season and time.
 
 - I beheld even till the beast was slain, and his body destroyed, and given to the burning flame: dealing with that fourth beast, America. When Christ come on the scene and bring forth judgment, God is going to eradicate them.
+
+> <sup>[12](/bible/daniel/7#v12)</sup> As concerning the rest of the beasts, they had their dominion taken away: yet their lives were prolonged for a season and time.
 
 - As concerning the rest of the beasts, they had their dominion taken away: because now Christ's dominion is on the scene and the children of Israel is in rulership with the king Christ.
 
@@ -165,14 +165,14 @@ Reading from a definition of abstinence, on screen  *[[2:10](https://www.youtube
 **[Matthew 25:31-33](/bible/matthew/25#v31)**  *[[14:02](https://www.youtube.com/watch?v=k38Y5tJwIwM&t=842s)]*
 
 > <sup>[31](/bible/matthew/25#v31)</sup> When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:
->
-> <sup>[32](/bible/matthew/25#v32)</sup> And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth his sheep from the goats:
->
-> <sup>[33](/bible/matthew/25#v33)</sup> And he shall set the sheep on his right hand, but the goats on the left.
 
 - When the Son of man shall come in his glory: the second coming of Christ, in his glory and all power.
 
+> <sup>[32](/bible/matthew/25#v32)</sup> And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth his sheep from the goats:
+
 - He shall separate them one from another, as a shepherd divideth his sheep from the goats: he's talking about the righteous of the children of Israel and the wicked of the children of Israel. To extend it even further, the sheep would be the children of Israel and the goats the other nations. But specifically: the sheep, the righteous, and the goats, the wicked of our people.
+
+> <sup>[33](/bible/matthew/25#v33)</sup> And he shall set the sheep on his right hand, but the goats on the left.
 
 
 <div class="reading">
@@ -214,39 +214,39 @@ Reading from a description of sheep and goats, on screen  *[[15:34](https://www.
 **[2 Esdras 9:7-13](/bible/2-esdras/9#v7)**  *[[18:07](https://www.youtube.com/watch?v=k38Y5tJwIwM&t=1087s)]*
 
 > <sup>[7](/bible/2-esdras/9#v7)</sup> And every one that shall be saved, and shall be able to escape by his works, and by faith, whereby ye have believed,
->
+
+- Every one that shall be saved, and shall be able to escape by his works, and by faith: keeping the commandments and the faith of Christ.
+
 > <sup>[8](/bible/2-esdras/9#v8)</sup> Shall be preserved from the said perils, and shall see my salvation in my land, and within my borders: for I have sanctified them for me from the beginning.
->
+
+- Shall be preserved from the said perils: when judgment come on the scene, when Christ come, we will be saved from the perils. For I have sanctified them for me from the beginning: because they listened. They humbled themselves. They did the will of the Father.
+
 > <sup>[9](/bible/2-esdras/9#v9)</sup> Then shall they be in pitiful case, which now have abused my ways: and they that have cast them away despitefully shall dwell in torments.
->
+
+- Then shall they be in pitiful case, which now have abused my ways: he gave opportunity and liberty for repentance, and they didn't do it. They that have cast them away despitefully shall dwell in torments: that's that everlasting fire, that's after-death pain.
+
 > <sup>[10](/bible/2-esdras/9#v10)</sup> For such as in their life have received benefits, and have not known me;
->
+
+- For such as in their life have received benefits, and have not known me: they was prospering, but they ain't known Christ. Remember how in Matthew 4, Satan was trying to bless Christ if he bowed down and worshipped him. Some of the brothers and sisters out there in the world ain't never going to humble themselves to keep the commandments, and they're going to prosper. Those are the ones that ain't never known Christ.
+
+- When as yet place of repentance was open unto them, understood not, but despised it; the same must know it after death by pain.
+
 > <sup>[11](/bible/2-esdras/9#v11)</sup> And they that have loathed my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised it;
 >
 > <sup>[12](/bible/2-esdras/9#v12)</sup> The same must know it after death by pain.
 >
 > <sup>[13](/bible/2-esdras/9#v13)</sup> And therefore be thou not curious how the ungodly shall be punished, and when: but enquire how the righteous shall be saved, whose the world is, and for whom the world is created.
 
-- Every one that shall be saved, and shall be able to escape by his works, and by faith: keeping the commandments and the faith of Christ.
-
-- Shall be preserved from the said perils: when judgment come on the scene, when Christ come, we will be saved from the perils. For I have sanctified them for me from the beginning: because they listened. They humbled themselves. They did the will of the Father.
-
-- Then shall they be in pitiful case, which now have abused my ways: he gave opportunity and liberty for repentance, and they didn't do it. They that have cast them away despitefully shall dwell in torments: that's that everlasting fire, that's after-death pain.
-
-- For such as in their life have received benefits, and have not known me: they was prospering, but they ain't known Christ. Remember how in Matthew 4, Satan was trying to bless Christ if he bowed down and worshipped him. Some of the brothers and sisters out there in the world ain't never going to humble themselves to keep the commandments, and they're going to prosper. Those are the ones that ain't never known Christ.
-
-- When as yet place of repentance was open unto them, understood not, but despised it; the same must know it after death by pain.
-
 
 **[Job 14:13-14](/bible/job/14#v13)**  *[[20:31](https://www.youtube.com/watch?v=k38Y5tJwIwM&t=1231s)]*
 
-> <sup>[13](/bible/job/14#v13)</sup> O that thou wouldest hide me in the grave, that thou wouldest keep me secret, until thy wrath be past, that thou wouldest appoint me a set time, and remember me!
->
-> <sup>[14](/bible/job/14#v14)</sup> If a man die, shall he live again? all the days of my appointed time will I wait, till my change come.
-
 - Our forefathers understood all of this: eternal life, the resurrection.
 
+> <sup>[13](/bible/job/14#v13)</sup> O that thou wouldest hide me in the grave, that thou wouldest keep me secret, until thy wrath be past, that thou wouldest appoint me a set time, and remember me!
+
 - O that thou wouldest hide me in the grave, that thou wouldest keep me secret, until thy wrath be past: Job understood that when Christ make his second coming, it's going to be hell to pay on this earth. Just like Habakkuk, a lot of the prophets understood that when Christ come on the scene the second time, it's not going to be nice. So Job hoped he would be resurrected after his wrath happened.
+
+> <sup>[14](/bible/job/14#v14)</sup> If a man die, shall he live again? all the days of my appointed time will I wait, till my change come.
 
 - If a man die, shall he live again? All the days of my appointed time will I wait, till my change come: Job understood there was a time period where his change would come.
 
@@ -324,15 +324,15 @@ Reading from a description of sheep and goats, on screen  *[[15:34](https://www.
 
 **[Isaiah 25:8-9](/bible/isaiah/25#v8)**  *[[27:26](https://www.youtube.com/watch?v=k38Y5tJwIwM&t=1646s)]*
 
-> <sup>[8](/bible/isaiah/25#v8)</sup> He will swallow up death in victory; and the Lord God will wipe away tears from off all faces; and the rebuke of his people shall he take away from off all the earth: for the Lord hath spoken it.
->
-> <sup>[9](/bible/isaiah/25#v9)</sup> And it shall be said in that day, Lo, this is our God; we have waited for him, and he will save us: this is the Lord; we have waited for him, we will be glad and rejoice in his salvation.
-
 - Only the children of Israel is going to be redeemed and saved. I don't care what no apologetics say. I don't care what your Christian pastor say. We reading the scriptures, and it's so clear and easy to see.
+
+> <sup>[8](/bible/isaiah/25#v8)</sup> He will swallow up death in victory; and the Lord God will wipe away tears from off all faces; and the rebuke of his people shall he take away from off all the earth: for the Lord hath spoken it.
 
 - He will swallow up death in victory; and the Lord GOD will wipe away tears from off all faces: Isaiah is making reference to the children of Israel, because we went through captivity after captivity. We lost our loved ones. He's going to wipe away the tears from our eyes.
 
 - The rebuke of his people shall he take away from off all the earth: there's not going to be any more rebuke on his people.
+
+> <sup>[9](/bible/isaiah/25#v9)</sup> And it shall be said in that day, Lo, this is our God; we have waited for him, and he will save us: this is the Lord; we have waited for him, we will be glad and rejoice in his salvation.
 
 - Lo, this is our God: not the other nations. Our God. We have waited for him, and he will save us. We will be glad and rejoice in his salvation.
 
@@ -340,10 +340,10 @@ Reading from a description of sheep and goats, on screen  *[[15:34](https://www.
 **[Revelation 1:17-18](/bible/revelation/1#v17)**  *[[28:38](https://www.youtube.com/watch?v=k38Y5tJwIwM&t=1718s)]*
 
 > <sup>[17](/bible/revelation/1#v17)</sup> And when I saw him, I fell at his feet as dead. And he laid his right hand upon me, saying unto me, Fear not; I am the first and the last:
->
-> <sup>[18](/bible/revelation/1#v18)</sup> I am he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death.
 
 - I am the first and the last: I am he that liveth, and was dead; and, behold, I am alive for evermore.
+
+> <sup>[18](/bible/revelation/1#v18)</sup> I am he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death.
 
 - And have the keys of hell and of death: because of what Christ went through, he has the keys to hell and death. What does that mean?
 
@@ -358,16 +358,10 @@ Reading from a description of sheep and goats, on screen  *[[15:34](https://www.
 **[Revelation 20:11-15](/bible/revelation/20#v11)**  *[[29:46](https://www.youtube.com/watch?v=k38Y5tJwIwM&t=1786s)]*
 
 > <sup>[11](/bible/revelation/20#v11)</sup> And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them.
->
-> <sup>[12](/bible/revelation/20#v12)</sup> And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works.
->
-> <sup>[13](/bible/revelation/20#v13)</sup> And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works.
->
-> <sup>[14](/bible/revelation/20#v14)</sup> And death and hell were cast into the lake of fire. This is the second death.
->
-> <sup>[15](/bible/revelation/20#v15)</sup> And whosoever was not found written in the book of life was cast into the lake of fire.
 
 - A great white throne, and him that sat on it: that's Christ the king. And there was found no place for them: they couldn't flee from him.
+
+> <sup>[12](/bible/revelation/20#v12)</sup> And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works.
 
 - And I saw the dead, small and great: the small spirits and the great spirits.
 
@@ -375,7 +369,13 @@ Reading from a description of sheep and goats, on screen  *[[15:34](https://www.
 
 - According to their works: according to the deeds which we done in this body.
 
+> <sup>[13](/bible/revelation/20#v13)</sup> And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works.
+>
+> <sup>[14](/bible/revelation/20#v14)</sup> And death and hell were cast into the lake of fire. This is the second death.
+
 - This is the second death: we die in this fleshly body, but our soul goes back up to the Father, into whatever chambers. When Christ come on the scene, the second death is your soul going into a lake of fire, everlasting fire, everlasting torment and everlasting pain.
+
+> <sup>[15](/bible/revelation/20#v15)</sup> And whosoever was not found written in the book of life was cast into the lake of fire.
 
 - Whosoever was not found written in the book of life was cast into the lake of fire: we got to remind you who was written in the book of life.
 
@@ -390,14 +390,14 @@ Reading from a description of sheep and goats, on screen  *[[15:34](https://www.
 **[2 Esdras 7:43-45](/bible/2-esdras/7#v43)**  *[[32:20](https://www.youtube.com/watch?v=k38Y5tJwIwM&t=1940s)]*
 
 > <sup>[43](/bible/2-esdras/7#v43)</sup> But the day of doom shall be the end of this time, and the beginning of the immortality for to come, wherein corruption is past,
->
-> <sup>[44](/bible/2-esdras/7#v44)</sup> Intemperance is at an end, infidelity is cut off, righteousness is grown, and truth is sprung up.
->
-> <sup>[45](/bible/2-esdras/7#v45)</sup> Then shall no man be able to save him that is destroyed, nor to oppress him that hath gotten the victory.
 
 - The day of doom shall be the end of this time: when Christ is going to make his second coming, visiting the earth. And the beginning of the immortality for to come, wherein corruption is past: this fleshly body has passed.
 
+> <sup>[44](/bible/2-esdras/7#v44)</sup> Intemperance is at an end, infidelity is cut off, righteousness is grown, and truth is sprung up.
+
 - Intemperance is at an end, infidelity is cut off: all those evil deeds that were able to be done are no more. Righteousness is grown, and truth is sprung up.
+
+> <sup>[45](/bible/2-esdras/7#v45)</sup> Then shall no man be able to save him that is destroyed, nor to oppress him that hath gotten the victory.
 
 - Then shall no man be able to save him that is destroyed: those that were put into the lake of fire, no man can save them. That judgment is set. Nor to oppress him that hath gotten the victory.
 
@@ -412,10 +412,10 @@ Reading from a description of sheep and goats, on screen  *[[15:34](https://www.
 **[Wisdom of Solomon 2:22-23](/bible/wisdom-of-solomon/2#v22)**  *[[34:02](https://www.youtube.com/watch?v=k38Y5tJwIwM&t=2042s)]*
 
 > <sup>[22](/bible/wisdom-of-solomon/2#v22)</sup> As for the mysteries of God, they knew them not: neither hoped they for the wages of righteousness, nor discerned a reward for blameless souls.
->
-> <sup>[23](/bible/wisdom-of-solomon/2#v23)</sup> For God created man to be immortal, and made him to be an image of his own eternity.
 
 - As for the mysteries of God, they knew them not: this is talking about the wicked of our people. Neither hoped they for the wages of righteousness: the wages of righteousness was eternal life. You can read that in Romans chapter 6 verse 23. And the wages of sin is death.
+
+> <sup>[23](/bible/wisdom-of-solomon/2#v23)</sup> For God created man to be immortal, and made him to be an image of his own eternity.
 
 - For God created man to be immortal, and made him to be an image of his own eternity: originally we was created to be immortal. That's why Job says when he wake he want to change and be like him, just like David said in Psalms 17.
 
@@ -423,21 +423,21 @@ Reading from a description of sheep and goats, on screen  *[[15:34](https://www.
 **[Wisdom of Solomon 1:15-16](/bible/wisdom-of-solomon/1#v15)**  *[[34:45](https://www.youtube.com/watch?v=k38Y5tJwIwM&t=2085s)]*
 
 > <sup>[15](/bible/wisdom-of-solomon/1#v15)</sup> (For righteousness is immortal:)
->
-> <sup>[16](/bible/wisdom-of-solomon/1#v16)</sup> But ungodly men with their works and words called it to them: for when they thought to have it their friend, they consumed to nought, and made a covenant with it, because they are worthy to take part with it.
 
 - For righteousness is immortal: but ungodly men with their works and words called it to them.
+
+> <sup>[16](/bible/wisdom-of-solomon/1#v16)</sup> But ungodly men with their works and words called it to them: for when they thought to have it their friend, they consumed to nought, and made a covenant with it, because they are worthy to take part with it.
 
 
 **[1 Timothy 6:11-12](/bible/1-timothy/6#v11)**  *[[34:56](https://www.youtube.com/watch?v=k38Y5tJwIwM&t=2096s)]*
 
-> <sup>[11](/bible/1-timothy/6#v11)</sup> But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness.
->
-> <sup>[12](/bible/1-timothy/6#v12)</sup> Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called, and hast professed a good profession before many witnesses.
-
 - Eternal life is what we strive for. This is why we search through the scriptures and hope we're able to receive that salvation. All the promises given to us are going to be so beautiful and unspeakable that we can't even fathom them. Eternal life is going to come with so much reward. This is what we yearning for.
 
+> <sup>[11](/bible/1-timothy/6#v11)</sup> But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness.
+
 - But thou, O man of God, flee these things: flee the things we've done in the past. Get rid of the old man and the old deeds. No more sinning. And follow after righteousness: Deuteronomy 6:25, that's the commandments. Godliness, faith, love, patience, meekness.
+
+> <sup>[12](/bible/1-timothy/6#v12)</sup> Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called, and hast professed a good profession before many witnesses.
 
 - Fight the good fight of faith: with all that we believe and understand in eternal life, we got to go hard and do whatever it takes to receive salvation with eternal life.
 

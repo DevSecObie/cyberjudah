@@ -52,10 +52,10 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "justice", "mercy"]
 **[Hosea 4:1-2](/bible/hosea/4#v1)**  *[[6:12](https://www.youtube.com/watch?v=I29gmYaeFO0&t=372s)]*
 
 > <sup>[1](/bible/hosea/4#v1)</sup> Hear the word of the Lord, ye children of Israel: for the Lord hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land.
->
-> <sup>[2](/bible/hosea/4#v2)</sup> By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood.
 
 - Because there is no truth, nor mercy, nor knowledge of God in the land: we don't have truth. We always lying. Always trying to get over on somebody. We have no knowledge of God. We have no mercy. We are the most unmerciful people towards one another. And yet when nobody else shows us mercy, we get all butt hurt. No. If we want mercy, we got to show it to ourselves first. What, you think this going to be an external solution to an internal problem? No.
+
+> <sup>[2](/bible/hosea/4#v2)</sup> By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood.
 
 - By swearing, and lying, and killing: we lie to one another. We be swearing up and down. That whole on King David, on my mama, on my soul. That's swearing. How you going to put something on something that you don't even own? It ain't even yours. Remember, Christ said, don't swear at all.
 

@@ -98,6 +98,9 @@ export function loadLibrary(ROOT) {
   const chapterUrl = (book, ch, v) => { const b = resolveChapter(book, ch); return `/bible/${bookSlug[b]}/${ch}${v ? "#v" + v : ""}`; };
   const bookUrl = (book) => `/bible/${bookSlug[book]}`;
   const verseText = (book, ch, v) => bible[book]?.[String(ch)]?.[v - 1] ?? null;
+  // The words of Christ in each verse, for red letters (data/red-letter.json: book slug -> chapter -> verse -> [words]).
+  const redLetter = fs.existsSync(path.join(DATA, "red-letter.json")) ? json(path.join(DATA, "red-letter.json")).books : {};
+  const redOf = (book, ch, v) => redLetter[bookSlug[book]]?.[String(ch)]?.[String(v)] ?? [];
   const refLabel = (r) => `${r.book} ${r.chapter}${r.verses ? ":" + r.verses : ""}`;
 
   /* ---------------- who cites what ---------------- */
@@ -216,7 +219,20 @@ export function loadLibrary(ROOT) {
   // quoted, then his line about it. Both ends are kept: the chapter opened learns the
   // precepts, and the precept's chapter learns where it was opened.
   const linked = new Map(); // "Book|ch" -> [{verses, kind, ref, text, note, ts}]
-  const link = (r, row) => { const k = `${r.book}|${r.chapter}`; if (!linked.has(k)) linked.set(k, []); linked.get(k).push({ verses: r.verses || "", ...row }); };
+  // A precept's own KJV words, so the commentary can show the scripture under its reference
+  // without the reader leaving the page. Only a short precept (four verses or fewer) carries them.
+  // Christ's words carry too (`red`), so they can show in red letters.
+  const kjvOf = (r) => {
+    const texts = bible[r.book]?.[r.chapter] ?? [], out = [], red = [];
+    for (const part of String(r.verses || "").split(",")) {
+      const [a, b] = part.split("-").map(Number); if (!a) return {};
+      for (let v = a; v <= (b || a); v++) { if (!texts[v - 1]) return {}; out.push(texts[v - 1]); red.push(...redOf(r.book, r.chapter, v)); }
+    }
+    return out.length && out.length <= 4 ? { kjv: out.join(" "), ...(red.length ? { red } : {}) } : {};
+  };
+  const link = (r, row) => {
+    if (row.kind === "precept" && row.ref) row = { ...row, ...kjvOf(row.ref) };
+    const k = `${r.book}|${r.chapter}`; if (!linked.has(k)) linked.set(k, []); linked.get(k).push({ verses: r.verses || "", ...row }); };
   const HEAD = /^\*\*\[([^\]]+)\]\(\/bible\/([a-z0-9-]+)\/(\d+)(?:#v(\d+))?\)\*\*(?:\s+\*\[\[?([\d:]+)\]?\(([^)]*)\)\]\*)?/;
   // The moments a class read a scripture: the verses, the class, and its recording at that
   // second, so the Bible can link a verse straight to where it was taught.
@@ -403,7 +419,53 @@ export function loadLibrary(ROOT) {
     ? read(path.join(DATA, "topics.tsv")).split("\n").slice(1).filter(Boolean).map((l) => { const [slug, label] = l.split("\t"); return { slug, label }; })
     : [];
 
+  // (Its own function, so the word index is let go once the marks are made.)
+  (() => {
+    // Scripture he quotes inside his own words ("…"), found word for word in the KJV, so it can
+    // show in gold, and in red when the words are Christ's (found only among his words).
+    const flat = (t) => ` ${String(t).toLowerCase().replace(/[’']/g, "").replace(/[^a-z]+/g, " ").trim()} `;
+    const said = [], spoke = [];
+    for (const b of BOOKS) for (const [c, vs] of Object.entries(bible[b])) vs.forEach((t, i) => {
+      if (!t) return;
+      let rest = t;
+      for (const r of redOf(b, c, i + 1)) { spoke.push(flat(r)); rest = rest.replace(r, " | "); }
+      said.push(flat(rest));
+    });
+    // Every place a run of three words starts, so a quote is checked only where it could begin.
+    const indexOf = (text) => {
+      const at = new Map(), re = / (?=([a-z]+ [a-z]+ [a-z]+) )/g;
+      for (let m; (m = re.exec(text)); re.lastIndex = m.index + 1) { const k = m[1]; if (!at.has(k)) at.set(k, []); at.get(k).push(m.index); }
+      return (q) => (at.get(q.trim().split(" ").slice(0, 3).join(" ")) ?? []).some((i) => text.startsWith(q, i));
+    };
+    const inSaid = indexOf(said.join("|")), inSpoke = indexOf(spoke.join("|"));
+    const scriptureIn = (text) => {
+      const out = [];
+      for (const m of String(text || "").matchAll(/[“"]([^“”"]{8,800})[”"]/g)) {
+        for (const part of m[1].split(/\.\.\.|…/)) {
+          const words = part.replace(/^[\s,;:.]+|[\s,;:]+$/g, "");
+          const q = flat(words);
+          if (q.trim().split(" ").length < 3) continue;
+          const red = inSpoke(q) && !inSaid(q);
+          if (red || inSaid(q)) out.push(red ? { text: words, red } : { text: words });
+        }
+      }
+      // A whole sentence of his that is the KJV word for word (five words or more) is scripture too.
+      const rest = String(text || "").replace(/[“"][^“”"]*[”"]/g, " | ");
+      for (const sentence of rest.split(/(?<=[.;?!])\s+|\s*\|\s*/)) {
+        const words = sentence.replace(/^[\s,;:.]+|[\s,;:.]+$/g, "");
+        const q = flat(words);
+        if (q.trim().split(" ").length < 5) continue;
+        const red = inSpoke(q) && !inSaid(q);
+        if (red || inSaid(q)) out.push(red ? { text: words, red } : { text: words });
+      }
+      return out;
+    };
+    for (const rows of commentary.values()) for (const row of rows) { const s = row.points.flatMap(scriptureIn); if (s.length) row.scripture = s; }
+    for (const rows of linked.values()) for (const row of rows) { const s = scriptureIn(row.why || row.text); if (s.length) row.scripture = s; }
+  })();
+
   return {
+    redOf,
     ROOT, DATA, classMetadata,
     bibleIndex, BOOKS, CHAPTERS, bible, prologues, bookSlug, bookBySlug, bookNum, testament, abbr, chapterUrl, bookUrl, verseText, refLabel, resolveChapter,
     handbook, sectionById, partSlug, partUrl, sectionUrl, lawUrl,

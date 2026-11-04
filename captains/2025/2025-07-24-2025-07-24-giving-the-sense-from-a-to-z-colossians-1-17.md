@@ -50,15 +50,13 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 
 **[Genesis 1:3-5](/bible/genesis/1#v3)**  *[[7:11](https://www.youtube.com/watch?v=A7o1hpug-n0&t=431s)]*
 
-> <sup>[3](/bible/genesis/1#v3)</sup> And God said, Let there be light: and there was light.
->
-> <sup>[4](/bible/genesis/1#v4)</sup> And God saw the light, that it was good: and God divided the light from the darkness.
->
-> <sup>[5](/bible/genesis/1#v5)</sup> And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.
-
 - Cuz what was the key to what we just read in John 1:1, right? In the beginning, right? Watch this. Now, I started verse one. In the beginning God created the heaven and the earth. Right? Let's jump to three.
 
+> <sup>[3](/bible/genesis/1#v3)</sup> And God said, Let there be light: and there was light.
+
 - Let there be light and there was light: That's Christ. Right? We going to prove that later. But that light right there, that's Christ. Cuz when you go later on you going to find out that on the fourth day was created what? The sun and the moon. So, what is that light talking about, right? That's a beautiful thing. When we first came in this truth and we saw that, we were thinking about all kind of stuff. We didn't even speak to the bishop about it. This is us amongst ourselves just being in the truth a few months and we trying to work it out in our mind and we like, "Yo, there must have been some kind of glow in the earth." We was bucked out, right? So, we know that this is Christ, right?
+
+> <sup>[4](/bible/genesis/1#v4)</sup> And God saw the light, that it was good: and God divided the light from the darkness.
 
 - And God divided the light from the darkness: We going to get into that a little bit more.
 
@@ -69,6 +67,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
     > <sup>[1](/bible/genesis/1#v1)</sup> In the beginning God created the heaven and the earth.
 
     Now, I started verse one. In the beginning God created the heaven and the earth. Right?
+
+> <sup>[5](/bible/genesis/1#v5)</sup> And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.
 
 
 **[Proverbs 8:22](/bible/proverbs/8#v22)**  *[[9:10](https://www.youtube.com/watch?v=A7o1hpug-n0&t=550s)]*
@@ -159,12 +159,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 **[Genesis 1:6-7](/bible/genesis/1#v6)**  *[[20:36](https://www.youtube.com/watch?v=A7o1hpug-n0&t=1236s)]*
 
 > <sup>[6](/bible/genesis/1#v6)</sup> And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.
->
-> <sup>[7](/bible/genesis/1#v7)</sup> And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.
 
 - And God said, "Let there be a firmament in the midst of the waters, and let it divide the waters from the waters": So, this is talking about the waters that we swim in, right? And in the waters what? Outer space, right? That's what's called the waters, right? And a long time ago before they had simulators, they would simulate space walking in a pool. Now, you might say to yourself, "Damn, how did they know that the gravity was the same in the water as it was in outer space?" Because they had Satan there. You know, he gave them all that knowledge going way back. That's another class, you know what I'm saying? We touched on that many times. Bishop touched on it. Deacons touched on it. I think I did a little 15-minute on it called Strange Angel, you know what I'm saying? You could see like who the so-called father of space travel and he was dealing with Satan literally. It's in the scriptures. Isaiah 47 will tell you and Revelation and all that, right? But this is it right here, that they knew that the waters in the scriptures, they knew that the waters above the firmament was space. So, this is what Christ created. Put a firmament between the waters and the waters, right?
 
 - Now, I'm showing you things that were made, right? We just playing with that for a second, right? With nothing that was made would have been made without him. He had the stars and where do stars hang up? In outer space, right? Also, the waters between the waters.
+
+> <sup>[7](/bible/genesis/1#v7)</sup> And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.
 
 - And God made the firmament and divided the waters which were under the firmament from the waters which were above the firmament and it was so: That's all Christ right there, y'all. That's all Christ right there. We're going to keep going. Watch this.
 
@@ -230,25 +230,17 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 
 **[Wisdom of Solomon 13:1-7](/bible/wisdom-of-solomon/13#v1)**  *[[31:35](https://www.youtube.com/watch?v=A7o1hpug-n0&t=1895s)]*
 
-> <sup>[1](/bible/wisdom-of-solomon/13#v1)</sup> Surely vain are all men by nature, who are ignorant of God, and could not out of the good things that are seen know him that is: neither by considering the works did they acknowledge the workmaster;
->
-> <sup>[2](/bible/wisdom-of-solomon/13#v2)</sup> But deemed either fire, or wind, or the swift air, or the circle of the stars, or the violent water, or the lights of heaven, to be the gods which govern the world.
->
-> <sup>[3](/bible/wisdom-of-solomon/13#v3)</sup> With whose beauty if they being delighted took them to be gods; let them know how much better the Lord of them is: for the first author of beauty hath created them.
->
-> <sup>[4](/bible/wisdom-of-solomon/13#v4)</sup> But if they were astonished at their power and virtue, let them understand by them, how much mightier he is that made them.
->
-> <sup>[5](/bible/wisdom-of-solomon/13#v5)</sup> For by the greatness and beauty of the creatures proportionably the maker of them is seen.
->
-> <sup>[6](/bible/wisdom-of-solomon/13#v6)</sup> But yet for this they are the less to be blamed: for they peradventure err, seeking God, and desirous to find him.
->
-> <sup>[7](/bible/wisdom-of-solomon/13#v7)</sup> For being conversant in his works they search him diligently, and believe their sight: because the things are beautiful that are seen.
-
 - We not off topic, y'all. We are not off topic.
+
+> <sup>[1](/bible/wisdom-of-solomon/13#v1)</sup> Surely vain are all men by nature, who are ignorant of God, and could not out of the good things that are seen know him that is: neither by considering the works did they acknowledge the workmaster;
 
 - Neither by considering the works did they acknowledge the workmaster: Watch this. Neither by considering the works did they consider the work master.
 
+> <sup>[2](/bible/wisdom-of-solomon/13#v2)</sup> But deemed either fire, or wind, or the swift air, or the circle of the stars, or the violent water, or the lights of heaven, to be the gods which govern the world.
+
 - But deemed either fire or wind or the swift air or the circle of the stars or the violent water or the lights of heaven to be the gods which govern the world: So we talking about wind, you talking about rain, all the tsunamis and all of that. That's what they talking about right here. They see this and what they want to do, they want to worship the thing. They acknowledge the work without acknowledging the work master, right? Many of us do that today. Now we all believers in the Lord, but I'm saying different things. Like you never really think about who's designed your car. You don't think about that. You seen the car, you're like, "Oh man, this is a nice little Honda Accord. I love this car." You know what I mean? You never ever think of who sat in the house and really did. Cuz somebody was at home working on it like, "Yo, I want this. I think the door should be like this and the AC button." There's people working on that. We never think about them. So these people are just like that. They look around. You know them today. "Oh, I don't believe in God." How the hell you don't believe in God? How you don't believe in God? And you see all this what's going on and you don't believe in God? Trees, birds, fishes, all this. You don't believe in God? Come on, man.
+
+> <sup>[3](/bible/wisdom-of-solomon/13#v3)</sup> With whose beauty if they being delighted took them to be gods; let them know how much better the Lord of them is: for the first author of beauty hath created them.
 
 - Let them know how much better the Lord of them is for the first author of beauty hath created them: That's the point. You look out, you see waterfalls, you see all type of mountainous ranges. You know, you drive through different parts of America, you see different things. You know what I'm saying? You see rocky mountains. Some places you just see flat land. Some place you see a lot of greenery and all that. That let you know right there, you supposed to think somebody had to have designed this. It's no way in the world this just happened. Like a scientist would say, "Oh, no, it's the Big Bang and then everything just amounted to this." Come on. That's really dumb, right?
 
@@ -256,7 +248,15 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 
 - For by the greatness and beauty of the creatures, proportionately the maker of them is seen: Is that not common sense? That's common sense. If you seeing something that look great, and all of y'all have, right? Y'all bought certain clothing and certain, like, damn. This is dope. I like this. Yo, who do make. And something like clothing, we even cars, like I brought it before. You look at the label of, and then you want to continue with this because you see that they're making good product. You understand?
 
+> <sup>[4](/bible/wisdom-of-solomon/13#v4)</sup> But if they were astonished at their power and virtue, let them understand by them, how much mightier he is that made them.
+>
+> <sup>[5](/bible/wisdom-of-solomon/13#v5)</sup> For by the greatness and beauty of the creatures proportionably the maker of them is seen.
+>
+> <sup>[6](/bible/wisdom-of-solomon/13#v6)</sup> But yet for this they are the less to be blamed: for they peradventure err, seeking God, and desirous to find him.
+
 - But yet for this, they are the less to be blamed for they peradventure err: Meaning error. Seeking God and desirous to find him. For being conversant in his works, they search him diligently and believe their sight because the things are beautiful that are seen, right? I'll stop there. We don't have to go too much further, but the point is it's showing that what? That Christ made everything, right? And it tells you right here. But I just wanted to go to different things, just give y'all, you know, we going to flush it out a little bit, right? We like to do that and get into it a little bit, right?
+
+> <sup>[7](/bible/wisdom-of-solomon/13#v7)</sup> For being conversant in his works they search him diligently, and believe their sight: because the things are beautiful that are seen.
 
 
 **[Colossians 1:18](/bible/colossians/1#v18)**  *[[35:37](https://www.youtube.com/watch?v=A7o1hpug-n0&t=2137s)]*
@@ -286,34 +286,34 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 
 **[Ephesians 5:25-28](/bible/ephesians/5#v25)**  *[[37:52](https://www.youtube.com/watch?v=A7o1hpug-n0&t=2272s)]*
 
+- I can't remember what I was teaching this. Maybe it wasn't this class. Probably it was something else, right? But Ephesians 5, right? Where it talks about Christ being the husband, the church, right, being the wife. Okay? And then in the Corinthians, it talks about Paul saying that, you know, we're going to be the wife of Christ, but he doesn't want us to stumble like Eve did, right? And fall into madness like Eve did, right? Letting you know about the different, you know, how was the marriage, the mystery of Christ, which is the marriage of Christ and us, right? As the unit. Just like a husband and a wife, like Adam and Eve, right? And then we went a step further and said, "If it's only one man, one wife, then that mean Christ ain't going to marry no other nation." You understand? Christ only going to marry Israel. It ain't going to be no extra wives. Adam only had Eve. Okay? Period. That's what it said. And we going to read it right here, right?
+
 > <sup>[25](/bible/ephesians/5#v25)</sup> Husbands, love your wives, even as Christ also loved the church, and gave himself for it;
->
+
+- Husbands, love your wives, even as Christ also loved the church and gave himself for it: There's no other church. So, Christ only love Israel. So, for anybody who talking about other nations going to be involved, no, Christ only got one wife. Christ only has one wife. Remember, he was Adam. He only had Eve. We got to be able to put this together, y'all. We got to be able to put this together, man. All right? But the point I want to get out of this is what? The head of the body. That's what I want, right?
+
 > <sup>[26](/bible/ephesians/5#v26)</sup> That he might sanctify and cleanse it with the washing of water by the word,
 >
 > <sup>[27](/bible/ephesians/5#v27)</sup> That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.
 >
 > <sup>[28](/bible/ephesians/5#v28)</sup> So ought men to love their wives as their own bodies. He that loveth his wife loveth himself.
 
-- I can't remember what I was teaching this. Maybe it wasn't this class. Probably it was something else, right? But Ephesians 5, right? Where it talks about Christ being the husband, the church, right, being the wife. Okay? And then in the Corinthians, it talks about Paul saying that, you know, we're going to be the wife of Christ, but he doesn't want us to stumble like Eve did, right? And fall into madness like Eve did, right? Letting you know about the different, you know, how was the marriage, the mystery of Christ, which is the marriage of Christ and us, right? As the unit. Just like a husband and a wife, like Adam and Eve, right? And then we went a step further and said, "If it's only one man, one wife, then that mean Christ ain't going to marry no other nation." You understand? Christ only going to marry Israel. It ain't going to be no extra wives. Adam only had Eve. Okay? Period. That's what it said. And we going to read it right here, right?
-
-- Husbands, love your wives, even as Christ also loved the church and gave himself for it: There's no other church. So, Christ only love Israel. So, for anybody who talking about other nations going to be involved, no, Christ only got one wife. Christ only has one wife. Remember, he was Adam. He only had Eve. We got to be able to put this together, y'all. We got to be able to put this together, man. All right? But the point I want to get out of this is what? The head of the body. That's what I want, right?
-
 - So ought men to love their wives as their own bodies. He that loveth his wife loveth himself: So, you have to love your, I like this part right here. This is crazy. So ought men to love their wives as they love their own bodies, right? So, you know, that take us somewhere else, for you married brothers, right? So, but the point is that Christ is the head of the body. Okay, that's what we just read, right?
 
 
 **[1 Corinthians 12:11-13](/bible/1-corinthians/12#v11)**  *[[39:57](https://www.youtube.com/watch?v=A7o1hpug-n0&t=2397s)]*
 
-> <sup>[11](/bible/1-corinthians/12#v11)</sup> But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will.
->
-> <sup>[12](/bible/1-corinthians/12#v12)</sup> For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ.
->
-> <sup>[13](/bible/1-corinthians/12#v13)</sup> For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit.
-
 - Hopefully I'm not mixing y'all up anything. Hopefully nobody confused.
+
+> <sup>[11](/bible/1-corinthians/12#v11)</sup> But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will.
 
 - Dividing to every man severally as he will: Individually each person is going to get that bit of spirit, right?
 
 - For as the body is one and have many members: Cuz we're all many members in this one body, right? And all the members of that one body being many are one body, so also is Christ, right? Christ what? Being the head of the body.
+
+> <sup>[12](/bible/1-corinthians/12#v12)</sup> For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ.
+>
+> <sup>[13](/bible/1-corinthians/12#v13)</sup> For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit.
 
 - For by one spirit are we all baptized into one body, whether we be Jews or Gentiles: This is key to Colossians, right? So that Jews or Gentiles, y'all know what that is. That's the southern kingdom Judah, Gentiles Israel, right? The northern kingdom, right?
 
@@ -338,10 +338,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 > <sup>[20](/bible/1-corinthians/15#v20)</sup> But now is Christ risen from the dead, and become the firstfruits of them that slept.
 >
 > <sup>[21](/bible/1-corinthians/15#v21)</sup> For since by man came death, by man came also the resurrection of the dead.
->
-> <sup>[22](/bible/1-corinthians/15#v22)</sup> For as in Adam all die, even so in Christ shall all be made alive.
 
 - For since by man came death: Listen close. For since by man came death, by man came also the resurrection of the dead. Right?
+
+> <sup>[22](/bible/1-corinthians/15#v22)</sup> For as in Adam all die, even so in Christ shall all be made alive.
 
 - For as in Adam all die, even so in Christ shall all be made alive: In Adam all die, right? Because when Adam was born, right? When he came about, right? Him and his wife, they sinned and now we all do what? We die, right? Physically we die, right? In reality the Lord would have them living forever. But we die.
 
@@ -368,23 +368,9 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 
 **[Romans 11:11-18](/bible/romans/11#v11)**  *[[45:57](https://www.youtube.com/watch?v=A7o1hpug-n0&t=2757s)]*
 
-> <sup>[11](/bible/romans/11#v11)</sup> I say then, Have they stumbled that they should fall? God forbid: but rather through their fall salvation is come unto the Gentiles, for to provoke them to jealousy.
->
-> <sup>[12](/bible/romans/11#v12)</sup> Now if the fall of them be the riches of the world, and the diminishing of them the riches of the Gentiles; how much more their fulness?
->
-> <sup>[13](/bible/romans/11#v13)</sup> For I speak to you Gentiles, inasmuch as I am the apostle of the Gentiles, I magnify mine office:
->
-> <sup>[14](/bible/romans/11#v14)</sup> If by any means I may provoke to emulation them which are my flesh, and might save some of them.
->
-> <sup>[15](/bible/romans/11#v15)</sup> For if the casting away of them be the reconciling of the world, what shall the receiving of them be, but life from the dead?
->
-> <sup>[16](/bible/romans/11#v16)</sup> For if the firstfruit be holy, the lump is also holy: and if the root be holy, so are the branches.
->
-> <sup>[17](/bible/romans/11#v17)</sup> And if some of the branches be broken off, and thou, being a wild olive tree, wert graffed in among them, and with them partakest of the root and fatness of the olive tree;
->
-> <sup>[18](/bible/romans/11#v18)</sup> Boast not against the branches. But if thou boast, thou bearest not the root, but the root thee.
-
 - So, now there's a couple of key things in here. First fruits, all of this. Remember we read in 1 Corinthians 12 about whether it be Jews or Greeks, remember that talk? Right? Or Jews or Gentiles, what have you, right?
+
+> <sup>[11](/bible/romans/11#v11)</sup> I say then, Have they stumbled that they should fall? God forbid: but rather through their fall salvation is come unto the Gentiles, for to provoke them to jealousy.
 
 - I say then, have they stumbled that they should fall: Who's this talking about? It's talking about Judah. Meaning what? Cuz they didn't understand Christ. So, the sacrificial law was all they were doing with the physical priesthood and all that. They were stumbling. They didn't get it. They still were like, "No, we need to do this animal sacrifice." You understand what I'm saying?
 
@@ -392,11 +378,19 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 
 - For to provoke them to jealousy: Provoke who? Judah. So, Judah can now go and say, "Hey, how they getting sal-, what, this Christ? Let's go find out about it." That's what that was about, right?
 
+> <sup>[12](/bible/romans/11#v12)</sup> Now if the fall of them be the riches of the world, and the diminishing of them the riches of the Gentiles; how much more their fulness?
+
 - Now, if the fall of them be the riches of the world: Meaning Judah. The riches of the world, meaning, you know, the knowledge and understanding, right? Of Christ.
 
 - And the diminishing of them the riches of the Gentiles, how much more their fullness: Meaning what? They're going to get it, too. But what? The northern kingdom had to be brought back in, right? And to a degree southern kingdom. Cuz the Lord had really got rid of both. He was pissed off with everybody, right?
 
 - If by means I may provoke to emulation them which are my flesh and might save some of them: When Paul is saying them that are my flesh, that's in verse one. He says, "I'm an Israelite from the tribe of Benjamin." He's talking about the southern kingdom, his flesh. That's what he's talking about. People read that and say, "Oh, he's talking about all Israel." And then the other nations are coming. No. No. That's not what it means at all. His flesh is talking about him being a southern kingdom. That's why he mentioned in verse one that he's from the tribe of Benjamin. All right? Make sure we all understand that.
+
+> <sup>[13](/bible/romans/11#v13)</sup> For I speak to you Gentiles, inasmuch as I am the apostle of the Gentiles, I magnify mine office:
+>
+> <sup>[14](/bible/romans/11#v14)</sup> If by any means I may provoke to emulation them which are my flesh, and might save some of them.
+>
+> <sup>[15](/bible/romans/11#v15)</sup> For if the casting away of them be the reconciling of the world, what shall the receiving of them be, but life from the dead?
 
 - For if the casting away of them be the reconciling of the world: The casting away of whom? The southern kingdom, so to speak. Not fully cast away, right? For if the casting away of them be what? The reconciling of all Israel, right? Because remember they're just stumbling right now. But the key is they're going to catch themselves at some point. But right now it's the stumble, right?
 
@@ -405,6 +399,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 - For if the first fruit be holy, the lump is also holy: And this is what we read just now in Corinthians, right? Remember talked about Christ in the first fruits. For if the first fruit be holy, meaning Christ, the lump is also holy, right? Meaning, cuz what? He's the head of the body, the preeminence over all of us. He has to be the first one, right?
 
 - And if some of the branches be broken off, and thou being a wild olive tree were grafted in amongst them: And it's talking about that what? That grafting in of northern kingdom back into the root of Israel being the 12 tribes again, right? That's what that's talking about. But I wanted to key in on the first fruits cuz that's what we read about in Corinthians. Okay?
+
+> <sup>[16](/bible/romans/11#v16)</sup> For if the firstfruit be holy, the lump is also holy: and if the root be holy, so are the branches.
+>
+> <sup>[17](/bible/romans/11#v17)</sup> And if some of the branches be broken off, and thou, being a wild olive tree, wert graffed in among them, and with them partakest of the root and fatness of the olive tree;
+>
+> <sup>[18](/bible/romans/11#v18)</sup> Boast not against the branches. But if thou boast, thou bearest not the root, but the root thee.
 
 
 **[Colossians 1:18](/bible/colossians/1#v18)**  *[[49:57](https://www.youtube.com/watch?v=A7o1hpug-n0&t=2997s)]*
@@ -427,17 +427,15 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 
 **[Isaiah 63:2-4](/bible/isaiah/63#v2)**  *[[51:18](https://www.youtube.com/watch?v=A7o1hpug-n0&t=3078s)]*
 
-> <sup>[2](/bible/isaiah/63#v2)</sup> Wherefore art thou red in thine apparel, and thy garments like him that treadeth in the winefat?
->
-> <sup>[3](/bible/isaiah/63#v3)</sup> I have trodden the winepress alone; and of the people there was none with me: for I will tread them in mine anger, and trample them in my fury; and their blood shall be sprinkled upon my garments, and I will stain all my raiment.
->
-> <sup>[4](/bible/isaiah/63#v4)</sup> For the day of vengeance is in mine heart, and the year of my redeemed is come.
-
 - I want to show y'all something. And this is how Christ had to do it. Yeah, he said we going to be heirs with him, but that don't mean we going to be like him sitting on the, no, no, no. No, no, no. He going to set it off and then we going to jump up in there and you know, get our little punches in, but no, he got to handle it, right?
 
 - Wherefore art thou red in thine apparel and thy garments like him that treadeth in the wine fat: Remember we read that in Revelation 19 and 13, right? When we said the word of God and his name was the word of God. This is what it was quoting, right?
 
 - I have trodden in the winepress alone and of the people there was none with me: You see that? That's cool. I have to get the preeminence. So, I'm going to go over here. I'm going to smash everything by myself, right?
+
+> <sup>[2](/bible/isaiah/63#v2)</sup> Wherefore art thou red in thine apparel, and thy garments like him that treadeth in the winefat?
+>
+> <sup>[3](/bible/isaiah/63#v3)</sup> I have trodden the winepress alone; and of the people there was none with me: for I will tread them in mine anger, and trample them in my fury; and their blood shall be sprinkled upon my garments, and I will stain all my raiment.
 
 - For I will tread them in mine anger and trample them in my fury and their blood shall be sprinkled upon my garments and I will stain all my raiment: He's talking about Esau right there. For the day of vengeance is in my heart and the year of my redeemed is come. You see that? You see that right there?
 
@@ -446,6 +444,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
     > <sup>[13](/bible/revelation/19#v13)</sup> And he was clothed with a vesture dipped in blood: and his name is called The Word of God.
 
     Remember we read that in Revelation 19 and 13, right? When we said the word of God and his name was the word of God. This is what it was quoting, right?
+
+> <sup>[4](/bible/isaiah/63#v4)</sup> For the day of vengeance is in mine heart, and the year of my redeemed is come.
 
 
 **[1 Corinthians 15:25-28](/bible/1-corinthians/15#v25)**  *[[52:34](https://www.youtube.com/watch?v=A7o1hpug-n0&t=3154s)]*
@@ -480,17 +480,13 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 
 **[Colossians 1:19-22](/bible/colossians/1#v19)**  *[[55:42](https://www.youtube.com/watch?v=A7o1hpug-n0&t=3342s)]*
 
-> <sup>[19](/bible/colossians/1#v19)</sup> For it pleased the Father that in him should all fulness dwell;
->
-> <sup>[20](/bible/colossians/1#v20)</sup> And, having made peace through the blood of his cross, by him to reconcile all things unto himself; by him, I say, whether they be things in earth, or things in heaven.
->
-> <sup>[21](/bible/colossians/1#v21)</sup> And you, that were sometime alienated and enemies in your mind by wicked works, yet now hath he reconciled
->
-> <sup>[22](/bible/colossians/1#v22)</sup> In the body of his flesh through death, to present you holy and unblameable and unreproveable in his sight:
-
 - Look like I might be keeping y'all a little bit longer, right?
 
 - For it pleased the Father that in him should all fullness dwell: Cuz we just kind of read about that, right? That after the Lord gives up the kingdom to the Father, then he's accepted, right? Boom.
+
+> <sup>[19](/bible/colossians/1#v19)</sup> For it pleased the Father that in him should all fulness dwell;
+>
+> <sup>[20](/bible/colossians/1#v20)</sup> And, having made peace through the blood of his cross, by him to reconcile all things unto himself; by him, I say, whether they be things in earth, or things in heaven.
 
 - And having made peace through the blood of his cross, by him to reconcile all things unto himself: By him, Christ.
 
@@ -498,40 +494,32 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 
 - In the body of his flesh through death to present you holy and unblamable and unreproachable in his sight: Right? Because what? This is what we read in Ephesians. Said he wanted present to himself a glorious church. They're saying the same thing.
 
+> <sup>[21](/bible/colossians/1#v21)</sup> And you, that were sometime alienated and enemies in your mind by wicked works, yet now hath he reconciled
+>
+> <sup>[22](/bible/colossians/1#v22)</sup> In the body of his flesh through death, to present you holy and unblameable and unreproveable in his sight:
+
 
 **[Hebrews 9:11-21](/bible/hebrews/9#v11)**  *[[57:48](https://www.youtube.com/watch?v=A7o1hpug-n0&t=3468s)]*
 
-> <sup>[11](/bible/hebrews/9#v11)</sup> But Christ being come an high priest of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building;
->
-> <sup>[12](/bible/hebrews/9#v12)</sup> Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption for us.
->
-> <sup>[13](/bible/hebrews/9#v13)</sup> For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh:
->
-> <sup>[14](/bible/hebrews/9#v14)</sup> How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?
->
-> <sup>[15](/bible/hebrews/9#v15)</sup> And for this cause he is the mediator of the new testament, that by means of death, for the redemption of the transgressions that were under the first testament, they which are called might receive the promise of eternal inheritance.
->
-> <sup>[16](/bible/hebrews/9#v16)</sup> For where a testament is, there must also of necessity be the death of the testator.
->
-> <sup>[17](/bible/hebrews/9#v17)</sup> For a testament is of force after men are dead: otherwise it is of no strength at all while the testator liveth.
->
-> <sup>[18](/bible/hebrews/9#v18)</sup> Whereupon neither the first testament was dedicated without blood.
->
-> <sup>[19](/bible/hebrews/9#v19)</sup> For when Moses had spoken every precept to all the people according to the law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the book, and all the people,
->
-> <sup>[20](/bible/hebrews/9#v20)</sup> Saying, This is the blood of the testament which God hath enjoined unto you.
->
-> <sup>[21](/bible/hebrews/9#v21)</sup> Moreover he sprinkled with blood both the tabernacle, and all the vessels of the ministry.
-
 - And we were just talking about a will, right? And preeminence and being able to hand stuff out, right? Watch this.
 
+> <sup>[11](/bible/hebrews/9#v11)</sup> But Christ being come an high priest of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building;
+
 - But Christ being come an high priest of good things to come by a greater and more perfect tabernacle, not made with hands, that is to say not of this building: Meaning what? This whole sacrificial law thing. Yeah, that's getting about of here, right? He's not the regular high priest like the Levites. This is what he's going into.
+
+> <sup>[12](/bible/hebrews/9#v12)</sup> Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption for us.
 
 - Neither by the blood of goats and calves, but by his own blood: That's what we just read in Colossians, right? That by his blood he's going to reconcile us, right?
 
 - For if the blood of bulls and of goats and the ashes of an heifer sprinkling the unclean sanctified to the purifying of the flesh, how much more shall the blood of Christ: So, just like back then when they were doing their sacrifices, they would sprinkle the blood and so on and so forth. Christ is now giving that. He is that sprinkling. He is that, right?
 
+> <sup>[13](/bible/hebrews/9#v13)</sup> For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh:
+>
+> <sup>[14](/bible/hebrews/9#v14)</sup> How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?
+
 - Purge your conscience from dead works: The dead works are the sacrificial law. The sacrificing of animals. That's the dead works, all right, y'all? Not the entire law like being talked about all over the place. Okay? No. Dead works, the works of the sacrificial law, okay?
+
+> <sup>[15](/bible/hebrews/9#v15)</sup> And for this cause he is the mediator of the new testament, that by means of death, for the redemption of the transgressions that were under the first testament, they which are called might receive the promise of eternal inheritance.
 
 - And for this cause, he is the mediator: That was the word I was looking for before, right? Moses was the mediator of the Old Testament, right?
 
@@ -539,9 +527,21 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 
 - They which are called might receive the promise of eternal inheritance: That's the Israelites.
 
+> <sup>[16](/bible/hebrews/9#v16)</sup> For where a testament is, there must also of necessity be the death of the testator.
+
 - For where a testament is, there must also of necessity be the death of the testator: And this is what we want. So, in the Old Testament, the testator was the animals. They were the testator. Once they were killed, right? Now, your sins were forgiven. The New Testament, the testator is Christ. He was crucified, right? And now, guess what? Now, you can receive the gift, right? A will and a testament, right? Just like we were talking about before. When that person, you pass away, and all of your belongings or things now goes to your children, right?
 
+> <sup>[17](/bible/hebrews/9#v17)</sup> For a testament is of force after men are dead: otherwise it is of no strength at all while the testator liveth.
+
 - For a testament is of force after men are dead, otherwise it is of no strength at all while the testator liveth: And we all understand that, right? Your will is no good while you're alive. Once you die, now, that's when things get distributed. Like the scripture talked about in Sirach 33.
+
+> <sup>[18](/bible/hebrews/9#v18)</sup> Whereupon neither the first testament was dedicated without blood.
+>
+> <sup>[19](/bible/hebrews/9#v19)</sup> For when Moses had spoken every precept to all the people according to the law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the book, and all the people,
+>
+> <sup>[20](/bible/hebrews/9#v20)</sup> Saying, This is the blood of the testament which God hath enjoined unto you.
+>
+> <sup>[21](/bible/hebrews/9#v21)</sup> Moreover he sprinkled with blood both the tabernacle, and all the vessels of the ministry.
 
 - Moreover, he sprinkled with blood both the tabernacle and all the vessels of the ministry: Yeah, that's what we want on that. Right? So, I just wanted to get that in, let y'all see what Colossians is talking about in regards to the blood reconciling us. Okay? Lord's will, I got something out of that. Right?
 
@@ -560,13 +560,13 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 
 **[Colossians 1:22-23](/bible/colossians/1#v22)**  *[[1:03:20](https://www.youtube.com/watch?v=A7o1hpug-n0&t=3800s)]*
 
-> <sup>[22](/bible/colossians/1#v22)</sup> In the body of his flesh through death, to present you holy and unblameable and unreproveable in his sight:
->
-> <sup>[23](/bible/colossians/1#v23)</sup> If ye continue in the faith grounded and settled, and be not moved away from the hope of the gospel, which ye have heard, and which was preached to every creature which is under heaven; whereof I Paul am made a minister;
-
 - Lord's will, y'all, I'm not confusing anybody, okay?
 
+> <sup>[22](/bible/colossians/1#v22)</sup> In the body of his flesh through death, to present you holy and unblameable and unreproveable in his sight:
+
 - In the body of his flesh through death: That's what we just read.
+
+> <sup>[23](/bible/colossians/1#v23)</sup> If ye continue in the faith grounded and settled, and be not moved away from the hope of the gospel, which ye have heard, and which was preached to every creature which is under heaven; whereof I Paul am made a minister;
 
 - Whereof I Paul am made a minister: Right? So, now let's go to Galatians 2 real quick. We coming right back. Galatians 2 cuz Paul was made a minister. I just want to show y'all something real quick.
 
@@ -588,21 +588,21 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 
 **[Colossians 1:24-27](/bible/colossians/1#v24)**  *[[1:06:17](https://www.youtube.com/watch?v=A7o1hpug-n0&t=3977s)]*
 
-> <sup>[24](/bible/colossians/1#v24)</sup> Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body’s sake, which is the church:
->
-> <sup>[25](/bible/colossians/1#v25)</sup> Whereof I am made a minister, according to the dispensation of God which is given to me for you, to fulfil the word of God;
->
-> <sup>[26](/bible/colossians/1#v26)</sup> Even the mystery which hath been hid from ages and from generations, but now is made manifest to his saints:
->
-> <sup>[27](/bible/colossians/1#v27)</sup> To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:
-
 - I just wanted to throw that in there.
+
+> <sup>[24](/bible/colossians/1#v24)</sup> Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body’s sake, which is the church:
 
 - Who now rejoice in my sufferings for you: Right? And Paul's sufferings were many, right? We could spend a whole time on that, actually, right? When he got shipwrecked, so on and so forth, beatings, you know, the cat-o'-nine-tails. Y'all can look that up. He was getting beatings. He was going through a lot, right? And I'll leave off on that just so we can jump, right?
 
 - For his body's sake, which is the church: Right? Remember we talked about that, the body is a church.
 
 - Even the mystery which have been hid from ages and from generations, but now is made manifest to his saints: We going to get to that, right?
+
+> <sup>[25](/bible/colossians/1#v25)</sup> Whereof I am made a minister, according to the dispensation of God which is given to me for you, to fulfil the word of God;
+>
+> <sup>[26](/bible/colossians/1#v26)</sup> Even the mystery which hath been hid from ages and from generations, but now is made manifest to his saints:
+>
+> <sup>[27](/bible/colossians/1#v27)</sup> To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:
 
 - To whom God would make known what is the riches of the glory of this mystery among the Gentiles, which is Christ in you, the hope of glory: Right? So, real quick, let's go to Romans 11 again, right? What is the mystery, right?
 

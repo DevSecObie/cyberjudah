@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 21"
 slug: "2025/2025-06-16-giving-the-sense-from-a-to-z-luke-21"
 date: "2025-06-16"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "Giving The Sense From A to Z · 2025-06-16"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "heaven-hell", "leadership", "money"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-06-16 · Captain Emmanuel</p>
+<p class="taught">Giving The Sense From A to Z · 2025-06-16 · Captain Immanuel</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Luke 21](/bible/luke/21) · [2 Macc 3](/bible/2-maccabees/3) · [1 Tim 6](/bible/1-timothy/6) · [Sir 35](/bible/sirach/35) · [Sir 31](/bible/sirach/31) · [Sir 11](/bible/sirach/11) · [Mark 10](/bible/mark/10) · [Acts 4](/bible/acts/4) · [Heb 11](/bible/hebrews/11) · [Tobit 4](/bible/tobit/4) · [2 Cor 9](/bible/2-corinthians/9) · [Luke 19](/bible/luke/19) · [Ps 137](/bible/psalms/137) · [Dan 9](/bible/daniel/9) · [Matt 24](/bible/matthew/24) · <i>and 3 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "leadership", "money"]
 
 ## Introduction
 
-*[[27:51](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=1671s)]* Hey shalom is most high Christ bless. Welcome to another edition of giving a sense from A to Z. Today you got Captain Emmanuel of IUIC Arkansas and today we gonna pop off Luke chapter 21. All right, let's open up with Nehemiah chapter 8 and verse 8.
+*[[27:51](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=1671s)]* Hey shalom is most high Christ bless. Welcome to another edition of giving a sense from A to Z. Today you got Captain Immanuel of IUIC Arkansas and today we gonna pop off Luke chapter 21. All right, let's open up with Nehemiah chapter 8 and verse 8.
 
 ## Scriptures Opened
 
@@ -41,16 +41,16 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "leadership", "money"]
 **[2 Maccabees 3:4-6](/bible/2-maccabees/3#v4)**  *[[29:47](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=1787s)]*
 
 > <sup>[4](/bible/2-maccabees/3#v4)</sup> But one Simon of the tribe of Benjamin, who was made governor of the temple, fell out with the high priest about disorder in the city.
->
-> <sup>[5](/bible/2-maccabees/3#v5)</sup> And when he could not overcome Onias, he gat him to Apollonius the son of Thraseas, who then was governor of Celosyria and Phenice,
->
-> <sup>[6](/bible/2-maccabees/3#v6)</sup> And told him that the treasury in Jerusalem was full of infinite sums of money, so that the multitude of their riches, which did not pertain to the account of the sacrifices, was innumerable, and that it was possible to bring all into the king’s hand.
 
 - But one Simon of the tribe of Benjamin, who was made governor of the temple, fell out with the high priest about disorder in the city: So, he got into it with Onias, the high priest at that time. So during this time, which was during the time of the Greeks before we went into captivity to them, right, we was under the leadership of Onias the high priest. And when you read verse one, right, he hated wickedness, therefore the land kept the laws very well. We was prosperous at this time, right?
 
 - So when you get down to verse four, second Maccabees chapters 3 and 4 give the background to first Maccabees chapter one in terms of the Greeks invading us and going into the temple and so on and so forth. It give you the background of what led to the Lord's wrath coming up on us. Right? So again, Simon the Benjamite, shout out to the tribe of Benjamin, he falls out with the righteous high priest Onas. And let's see what that warns him to do.
 
+> <sup>[5](/bible/2-maccabees/3#v5)</sup> And when he could not overcome Onias, he gat him to Apollonius the son of Thraseas, who then was governor of Celosyria and Phenice,
+
 - And when he could not overcome Onias, he gat him to Apollonius: So he goes to the heathen. So he get into it with Onias. He can't prevail against him, meaning the people are in favor of Onas. So what does he do? He turns his back on his people and goes to the heathen.
+
+> <sup>[6](/bible/2-maccabees/3#v6)</sup> And told him that the treasury in Jerusalem was full of infinite sums of money, so that the multitude of their riches, which did not pertain to the account of the sacrifices, was innumerable, and that it was possible to bring all into the king’s hand.
 
 - And told him that the treasury in Jerusalem was full of infinite sums of money: So he go and tell the heathen that the treasury in Jerusalem is full of infinite sums of money. Hey bro, I got a lick for you. He go and tell the heathen he got a lick for them in his land.
 
@@ -60,16 +60,16 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "leadership", "money"]
 **[2 Maccabees 3:10-12](/bible/2-maccabees/3#v10)**  *[[32:22](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=1942s)]*
 
 > <sup>[10](/bible/2-maccabees/3#v10)</sup> Then the high priest told him that there was such money laid up for the relief of widows and fatherless children:
->
-> <sup>[11](/bible/2-maccabees/3#v11)</sup> And that some of it belonged to Hircanus son of Tobias, a man of great dignity, and not as that wicked Simon had misinformed: the sum whereof in all was four hundred talents of silver, and two hundred of gold:
->
-> <sup>[12](/bible/2-maccabees/3#v12)</sup> And that it was altogether impossible that such wrongs should be done unto them, that had committed it to the holiness of the place, and to the majesty and inviolable sanctity of the temple, honoured over all the world.
 
 - Then the high priest told him that there was such money laid up for the relief of widows and fatherless children: Was like, listen, this ain't no, you know what I'm saying? Racks on rags on rags. This is for the relief of the fatherless and the widows. You understand? It's for those that are misfortunate. This is what this fortune is for.
+
+> <sup>[11](/bible/2-maccabees/3#v11)</sup> And that some of it belonged to Hircanus son of Tobias, a man of great dignity, and not as that wicked Simon had misinformed: the sum whereof in all was four hundred talents of silver, and two hundred of gold:
 
 - And that some of it belonged to Hircanus son of Tobias, a man of great dignity: And some of the money was somebody's personal money, right? Somebody who was of great dignity, meaning he was rich. And he stored some of his money here.
 
 - And not as that wicked Simon had misinformed: Right. That told y'all it was some that is not. This is for the welfare of the people.
+
+> <sup>[12](/bible/2-maccabees/3#v12)</sup> And that it was altogether impossible that such wrongs should be done unto them, that had committed it to the holiness of the place, and to the majesty and inviolable sanctity of the temple, honoured over all the world.
 
 - And that it was altogether impossible that such wrongs should be done unto them, that had committed it to the holiness of the place: So if you tried to take this dude, it would be a disservice to all those that committed of their own personal riches, right, to the, what it say, to the holiness of the place and majesty and a viable sanctity of the temple. So that's why they was casting they money into the treasury. All right, that was the thought behind it.
 
@@ -99,10 +99,10 @@ Reading from On-screen text: two mites in modern terms  *[[34:02](https://www.yo
 **[Luke 21:3-4](/bible/luke/21#v3)**  *[[34:56](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=2096s)]*
 
 > <sup>[3](/bible/luke/21#v3)</sup> And he said, Of a truth I say unto you, that this poor widow hath cast in more than they all:
->
-> <sup>[4](/bible/luke/21#v4)</sup> For all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had.
 
 - Of a truth I say unto you, that this poor widow hath cast in more than they all: So Christ, he's seeing this and he utilizes it as a teaching moment. He said, "Listen, what she just threw in was more than what all them rich people threw in."
+
+> <sup>[4](/bible/luke/21#v4)</sup> For all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had.
 
 - But she of her penury: Meaning poverty.
 
@@ -111,15 +111,11 @@ Reading from On-screen text: two mites in modern terms  *[[34:02](https://www.yo
 
 **[1 Timothy 6:17-19](/bible/1-timothy/6#v17)**  *[[36:40](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=2200s)]*
 
-> <sup>[17](/bible/1-timothy/6#v17)</sup> Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who giveth us richly all things to enjoy;
->
-> <sup>[18](/bible/1-timothy/6#v18)</sup> That they do good, that they be rich in good works, ready to distribute, willing to communicate;
->
-> <sup>[19](/bible/1-timothy/6#v19)</sup> Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life.
-
 - Put that real quick in First Timothy chapter 6 and verse 17. So, I ain't gonna lie. This right here is probably going to turn into a little righteous rant. Shout out to Captain Gedaliah, cuz it's something about this spirit that I've been seeing since I've been in the truth. My little 10 years in this truth. I like people that are fortunate. A lot of brothers and sisters that got a little something something in this captivity, they be having spirits on them. They be having spirits on them and I think it got something to do with post-traumatic slave syndrome and just the trauma that we got from slavery.
 
 - It's like when we finally get something, like when we make accomplishments and we heap unto ourselves possessions and things of that nature, we are very very, you know what I'm saying? We are prone to be very guarded and secretive and protective over our belongings that we work so hard to earn from the slave master. Message. For real though. But look at what Paul told Timothy as a leader. Watch this.
+
+> <sup>[17](/bible/1-timothy/6#v17)</sup> Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who giveth us richly all things to enjoy;
 
 - Charge them that are rich in this world: Do what? Charge them that are rich in this world. So, concerning the brothers and sisters in the congregation that you know is rich, cuz they be making it seem like we ain't supposed to be in their business. "It's none of your business if I'm rich or not, leadership." But Paul told Timothy, "Know who is rich in the body, and when you know who they are, charge them."
 
@@ -137,9 +133,11 @@ Reading from On-screen text: two mites in modern terms  *[[34:02](https://www.yo
 
 - But the point is, don't trust in your doomsday prep materials and all of this stuff that you can afford cuz you got money. But trust in the living God. That's right. You will convince yourself like, "No, I can't give my arms like that because I have to build up my doomsday barn, my bunker." You know what I'm saying? I'm telling you, bro. This is a real spirit in Israel, bro. I'm telling you. I ain't lying. Some of y'all watching, y'all know exactly what the hell I'm talking about. Y'all better take heed to that.
 
-- Somebody going to write, right, leadership. "So, Captain Emmanuel said we ain't supposed to be prepping." No, I didn't say that. Are you serious? Prep. Build your pantry up. Do your thing, bro. But you should be pouring that same type of energy into the school pantry. And brothers and sisters that you know can't afford all of that stuff you can afford, help them out. Break them off. Hell, drop me off some bugout bags. Hell is this? Yeah, for real.
+- Somebody going to write, right, leadership. "So, Captain Immanuel said we ain't supposed to be prepping." No, I didn't say that. Are you serious? Prep. Build your pantry up. Do your thing, bro. But you should be pouring that same type of energy into the school pantry. And brothers and sisters that you know can't afford all of that stuff you can afford, help them out. Break them off. Hell, drop me off some bugout bags. Hell is this? Yeah, for real.
 
 - Hey, listen. We got a lot of congregations, especially overseas, they don't got nothing. They scraping up just to live and survive every day. Hell no. For real. And some of y'all buying robots, man. Hey, help us. Help the people. For real. For real.
+
+> <sup>[18](/bible/1-timothy/6#v18)</sup> That they do good, that they be rich in good works, ready to distribute, willing to communicate;
 
 - That they do good, that they be rich in good works, ready to distribute, willing to communicate: So this is what got to be charged for the rich people in the body, the people that are more fortunate. And it's not a specific dollar amount. The reason why I say that is because it's different demographics, right? Depending on your location, the economic climate or where you at, so on and so forth. In a place like Arkansas, somebody making a hundred thousand a year is equivalent to somebody in New York making a half a million a year salary, because the cost of living here is substantially lower.
 
@@ -153,6 +151,8 @@ Reading from On-screen text: two mites in modern terms  *[[34:02](https://www.yo
 
 - So, that's a charge that's supposed to come from your leaders. If you rich and you just floating by and living a good life and you not communicating these things in the body. What? You know, the Lord put the spirit on me to address you today, for real. Cuz it don't get addressed a whole lot.
 
+> <sup>[19](/bible/1-timothy/6#v19)</sup> Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life.
+
 - Laying up in store for themselves a good foundation against the time to come: So you see it's spiritual. The more you give, right, the more you're willing to communicate and distribute of your abundance, that's what's laying up, what it say, laying up a foundation, a good foundation against the time to come. You think in your mind your money and your Amazon purchases is laying up a good foundation against the time to come. The Lord got something for y'all that think like that. But if you spiritual, you understand the more that you give and contribute to the ministry, that's what's actually laying up a good foundation against the perilous times to come. That's right.
 
 - That they may lay hold on eternal life: That they may lay hold on eternal life.
@@ -161,8 +161,6 @@ Reading from On-screen text: two mites in modern terms  *[[34:02](https://www.yo
 **[Sirach 35:10-11](/bible/sirach/35#v10)**  *[[49:46](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=2986s)]*
 
 > <sup>[10](/bible/sirach/35#v10)</sup> Give unto the most High according as he hath enriched thee; and as thou hast gotten, give with a cheerful eye.
->
-> <sup>[11](/bible/sirach/35#v11)</sup> For the Lord recompenseth, and will give thee seven times as much.
 
 - Give unto the most High according as he hath enriched thee: Right? So, and we see, so I ain't going to say too much, but we got expectations, you know what I'm saying? Dealing with the rank men as far as giving, right? But it's, what's the word? It's every rank. It ain't depending upon your income, right? It's just a expectation in general for every rank men, right? So I didn't seen ranked men that's lower class, middle class, just barely surviving, that they meet that amount. And fellow ranked men that far exceed the income of those lower income making men, they get the same amount. And it's like, okay, yeah, you're meeting your minimum amount, but are you really applying this right here?
 
@@ -170,16 +168,18 @@ Reading from On-screen text: two mites in modern terms  *[[34:02](https://www.yo
 
 - And as thou hast gotten, give with a cheerful eye: Yeah.
 
+> <sup>[11](/bible/sirach/35#v11)</sup> For the Lord recompenseth, and will give thee seven times as much.
+
 - For the Lord recompenseth, and will give thee seven times as much: Right. So you got to, and that's the problem. That's why he said that they trust not in uncertain riches. Of when you get money, is you brothers and sisters try to put their faith in that more so than the Lord. If you really got your faith in the Lord, then you understand everything you sow into this body, you're going to reap it sevenfold. If you got that faith, you going to be a cheerful giver. You going to give happily. You understand?
 
 
 **[Sirach 31:8-9](/bible/sirach/31#v8)**  *[[52:51](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=3171s)]*
 
 > <sup>[8](/bible/sirach/31#v8)</sup> Blessed is the rich that is found without blemish, and hath not gone after gold.
->
-> <sup>[9](/bible/sirach/31#v9)</sup> Who is he? and we will call him blessed: for wonderful things hath he done among his people.
 
 - Blessed is the rich that is found without blemish, and hath not gone after gold: Right? So this rich brother or sister has not gone after gold. Meaning his mind is not consumed with the consumption of riches. But yet they're rich.
+
+> <sup>[9](/bible/sirach/31#v9)</sup> Who is he? and we will call him blessed: for wonderful things hath he done among his people.
 
 - Who is he? and we will call him blessed: for wonderful things hath he done among his people: Y'all see that? So that's the rich that's blessed in the Lord, cuz they do wonderful things among their people, wonderful works. That's that distributing. They're willing to communicate, right? Like Joseph of Arimathaea burying Christ. That was a hell of a work right there. You understand? Yeah. He owned the tomb because he was rich and he was willing to communicate. "Hey, listen. I can handle that. I can step up," you know what I'm saying, for real. And that was a wonderful work right there.
 
@@ -215,12 +215,12 @@ Reading from On-screen definition of weariness  *[[55:44](https://www.youtube.co
 **[Sirach 11:18-19](/bible/sirach/11#v18)**  *[[56:45](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=3405s)]*
 
 > <sup>[18](/bible/sirach/11#v18)</sup> There is that waxeth rich by his wariness and pinching, and this is the portion of his reward:
->
-> <sup>[19](/bible/sirach/11#v19)</sup> Whereas he saith, I have found rest, and now will eat continually of my goods; and yet he knoweth not what time shall come upon him, and that he must leave those things to others, and die.
 
 - Wariness and pinching: So go back to the scripture. Weariness and pinching, like penny pinching. You heard that term before, that penny pinching, right?
 
 - And this is the portion of his reward: So here go your reward.
+
+> <sup>[19](/bible/sirach/11#v19)</sup> Whereas he saith, I have found rest, and now will eat continually of my goods; and yet he knoweth not what time shall come upon him, and that he must leave those things to others, and die.
 
 - And yet he knoweth not what time shall come upon him, and that he must leave those things to others, and die: Right? So that's the opposite of what we read in Timothy about a good foundation against the time to come and laying hold on eternal life. If you gonna lose all of that that you put your trust in. All right?
 
@@ -276,8 +276,6 @@ Reading from On-screen definition of weariness  *[[55:44](https://www.youtube.co
 **[1 Timothy 6:9-10](/bible/1-timothy/6#v9)**  *[[1:04:13](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=3853s)]*
 
 > <sup>[9](/bible/1-timothy/6#v9)</sup> But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition.
->
-> <sup>[10](/bible/1-timothy/6#v10)</sup> For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.
 
 - But they that will be rich fall into temptation: You do what? Fall into temptation. Because you got to think, at that time it was the Roman world, right? And this time it's the Roman world. The hell is this? This is America. Babylon the Great. Who rules it? The white man, the so-called white man, Edom, the border of wickedness. The things that are in this world, right, are purely evil. So it says, "They that will be rich will fall into temptation." The more money that you have in this world, the more access you have to the evil in this world, right?
 
@@ -288,6 +286,8 @@ Reading from On-screen definition of weariness  *[[55:44](https://www.youtube.co
 - You might have scrolled and saw some about cottage cheese. I think it was cottage cheese. Cottage cheese. No, it was something he put on. Oh, his baby earl. What the hell is this? What the hell is this? When you rich, yo, the stuff that is sensationalized amongst poor and regular people, that's too based. That's too boring. You got to spike it up. You got to take it up notches. And he was, I might be butchering it, but it's something weird.
 
 - But the point is somebody like Diddy that's rich for decades. It takes levels of evil to amuse you and arouse you. You understand? It's a evil world we live in. And the Bible warned us about that. But everybody growing up, guess who you wanted to be like? P Diddy. You wanted to be rich like Diddy, for real. Come on.
+
+> <sup>[10](/bible/1-timothy/6#v10)</sup> For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.
 
 - Which drown men in destruction and perdition. For the love of money is the root of all evil: Damn. Covetousness. That's the root of all evil. When you read the ten commandments, right? All of them deal with something that you know is physical action. And then you read the last one, number 10, it says thou shalt not covet. Covetous. Because the application of covetousness would be thou shalt not steal, or thou shalt not commit adultery. You went and took another man's wife. You know what I'm saying? Or even having other gods before him. You covet. You know, you desire. But you read them nine to get to that 10th one. And that's the root of you violating all of the above. Covetous. Thou shall not covet. That is the root of all evil.
 
@@ -301,22 +301,22 @@ Reading from On-screen definition of weariness  *[[55:44](https://www.youtube.co
 **[Mark 10:24-27](/bible/mark/10#v24)**  *[[1:10:28](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=4228s)]*
 
 > <sup>[24](/bible/mark/10#v24)</sup> And the disciples were astonished at his words. But Jesus answereth again, and saith unto them, Children, how hard is it for them that trust in riches to enter into the kingdom of God!
->
-> <sup>[25](/bible/mark/10#v25)</sup> It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.
->
-> <sup>[26](/bible/mark/10#v26)</sup> And they were astonished out of measure, saying among themselves, Who then can be saved?
->
-> <sup>[27](/bible/mark/10#v27)</sup> And Jesus looking upon them saith, With men it is impossible, but not with God: for with God all things are possible.
 
 - Children, how hard is it for them that trust in riches to enter into the kingdom of God!: Right? So when they heard him say the first thing, how hard it is for riches to enter into the kingdom of God, they was like. So then he expounded a little bit. He said, "How hard is it for them that trust in riches to enter into the kingdom of God?" Because when you trust in riches, you don't want to let them go. It essentially becomes your idol, right? And you will turn a blind eye to your brothers and sisters that are in need, as well as turn your back on the Lord. You understand?
+
+> <sup>[25](/bible/mark/10#v25)</sup> It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.
 
 - It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God: I know when we think needles, we think the syringe, but it's not talking about that. It's talking about a very very small entrance into a city. It's a section of a gate that's called a needle. In order for a camel to go through a needle, it would have to crouch all the way down and like squirm and squeeze and wiggle, you know what I'm saying, to get through that needle. That is the plight of the walk of the rich in his truth.
 
 - You're going to have to humble your ass all the way down, cuz in the world, everybody wants a piece of you. They come to you. They honor you. Like it says rock 13, a rich man speak, they extol it to the clouds. In this truth, we don't give a damn how much money you got. It's about your wisdom. So the spirit that's on you that come from you being rich in the world, you got to humble all the way down like a camel to get through that needle. He got to come all the way down to his stomach and squirming. Mean it's difficult. It's challenging. You understand? That's what Christ is saying concerning the rich. It's going to be hard because of first Timothy 6. All right.
 
+> <sup>[26](/bible/mark/10#v26)</sup> And they were astonished out of measure, saying among themselves, Who then can be saved?
+
 - Who then can be saved?: Right? Because they obviously knew a lot of brothers and sisters that was rich. Like in America, it's the same thing. We in captivity, but some Negroes don't see it like that. Like in John 8, they was like, "We ain't never been in bondage to any man." But then in John 11, they was like, "The Romans going to come take away our place and nation." What do that mean? That mean you in captivity, negro. The hell is you talking about? For real. Luke 2. The whole world had to be taxed, but you in captivity.
 
 - So it's a lot of black people that got money under the Romans, under the America. So they don't look at it like they're in captivity. You understand? So just like we know brothers and sisters that's balling, that's what the disciple, they like, "Damn, who then can be saved?" It's a lot of brothers and sisters, they got it. They got money.
+
+> <sup>[27](/bible/mark/10#v27)</sup> And Jesus looking upon them saith, With men it is impossible, but not with God: for with God all things are possible.
 
 - With men it is impossible, but not with God: for with God all things are possible: Meaning when the spirit of the Lord come upon you, that nigard spirit of being rich, that leaves you, and the love that you have for your people, the love of Christ constrains you to do what? To be ready to distribute, willing to communicate.
 
@@ -324,12 +324,12 @@ Reading from On-screen definition of weariness  *[[55:44](https://www.youtube.co
 **[Acts 4:34-35](/bible/acts/4#v34)**  *[[1:15:01](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=4501s)]*
 
 > <sup>[34](/bible/acts/4#v34)</sup> Neither was there any among them that lacked: for as many as were possessors of lands or houses sold them, and brought the prices of the things that were sold,
->
-> <sup>[35](/bible/acts/4#v35)</sup> And laid them down at the apostles’ feet: and distribution was made unto every man according as he had need.
 
 - Neither was there any among them that lacked: for as many as were possessors of lands or houses sold them: Just like their young brother that walked away from Christ. They had the same type of life. They was possessors of lands and houses. They had properties. They had real estate. They had wealth. But what did they do?
 
 - And brought the prices of the things that were sold: So they sold, like Christ told that young man to do. Jesus Christ had already ascended in Acts one. He didn't have to come down from his throne and tell the brothers and sisters, "Hey, sell what you have. Give to the poor." No, they was compelled by the spirit of the Lord upon them to sell what they had. And what did it say? They brought the prices of the things that were sold.
+
+> <sup>[35](/bible/acts/4#v35)</sup> And laid them down at the apostles’ feet: and distribution was made unto every man according as he had need.
 
 - And laid them down at the apostles' feet: and distribution was made unto every man according as he had need: So what do that also mean? It says distribution was made. They brought it to the feet of the apostles and distribution was made. Meaning, like we read about the weariness, right? You skeptical to give. You reluctant to give because of that lack of trust. They understood, due to their belief, their faith, their faith in the Lord, they also had faith in the leaders. So if the leaders had a vision for the people, for the church, and it required houses and properties to be sold, they were in one accord with their leaders, with their vision. You understand? When that charge was given, they were ready to distribute. You understand, right?
 
@@ -362,21 +362,21 @@ Reading from On-screen definition of weariness  *[[55:44](https://www.youtube.co
 
 **[Tobit 4:7-9](/bible/tobit/4#v7)**  *[[1:21:18](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=4878s)]*
 
-> <sup>[7](/bible/tobit/4#v7)</sup> Give alms of thy substance; and when thou givest alms, let not thine eye be envious, neither turn thy face from any poor, and the face of God shall not be turned away from thee.
->
-> <sup>[8](/bible/tobit/4#v8)</sup> If thou hast abundance, give alms accordingly: if thou have but a little, be not afraid to give according to that little:
->
-> <sup>[9](/bible/tobit/4#v9)</sup> For thou layest up a good treasure for thyself against the day of necessity.
-
 - Go to Tobit 4:7. That's what Tobit taught his son.
+
+> <sup>[7](/bible/tobit/4#v7)</sup> Give alms of thy substance; and when thou givest alms, let not thine eye be envious, neither turn thy face from any poor, and the face of God shall not be turned away from thee.
 
 - Give alms of thy substance; and when thou givest alms, let not thine eye be envious, neither turn thy face from any poor, and the face of God shall not be turned away from thee: Right? So that's what the brother did when Christ told him, "Get what you have. Sell to the poor." He turned away his face. But you know, we ain't supposed to do that, y'all. All right. We supposed to be willing to communicate, ready to distribute.
 
 - Give alms of thy substance: It said, "Give arms of thy substance." Everybody got a different substance. You got a different level of possessions. Some of us ain't got a damn thing but two mites. But the Bible say give of thy substance.
 
+> <sup>[8](/bible/tobit/4#v8)</sup> If thou hast abundance, give alms accordingly: if thou have but a little, be not afraid to give according to that little:
+
 - If thou have but a little: If you ain't got nothing but a little something something.
 
 - Be not afraid to give according to that little: "I ain't give homes cuz all I had was just enough to." All right. And you wonder why you in that same predicament year to year. You always hurting. You know what I'm saying? You never elevate. Your light steady getting your lights cut off every other month. You know what I'm saying? Every other month we call you like, "Come." You don't get it. The Most High trying to test you, bro. Give when you get a little. Every time you get a little bit, you go buy some new shoes. Every time tax season roll around, we see you in the newest drip. But the rest of the year, you broke and you don't got nothing. You ain't figured it out yet? Are you serious? When you get a little, give of that little. That's right.
+
+> <sup>[9](/bible/tobit/4#v9)</sup> For thou layest up a good treasure for thyself against the day of necessity.
 
 - For thou layest up a good treasure for thyself against the day of necessity: Right? It's all about you having faith in the world to come and not in this one. That's what it's all about. When you give, you're investing into your eternal future. So when you not making those investments, what are you going to reap? Absolutely nothing.
 
@@ -384,10 +384,6 @@ Reading from On-screen definition of weariness  *[[55:44](https://www.youtube.co
 **[2 Corinthians 9:6-8](/bible/2-corinthians/9#v6)**  *[[1:24:02](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=5042s)]*
 
 > <sup>[6](/bible/2-corinthians/9#v6)</sup> But this I say, He which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully.
->
-> <sup>[7](/bible/2-corinthians/9#v7)</sup> Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver.
->
-> <sup>[8](/bible/2-corinthians/9#v8)</sup> And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work:
 
 - He which soweth sparingly shall reap also sparingly: Right? So if you stingy, you barely give, that's what you're going to get back. That's what you're going to see as far as blessings from the Lord. We will be barely blessed.
 
@@ -395,11 +391,15 @@ Reading from On-screen definition of weariness  *[[55:44](https://www.youtube.co
 
 - Cuz in Corinthians, what was going on? Paul was prepping the Corinthians to give, to gather up arms for him to take to Judea. That last trip before Acts 21, when he went to Jerusalem, he did a tour of all them congregations in Macedonia and Greece and all of that. He was making a collection of funds to bring to Jerusalem for that feast, for the brothers and sisters in Judea. All right. So that's the context. It was to give to the nation. All right.
 
+> <sup>[7](/bible/2-corinthians/9#v7)</sup> Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver.
+
 - Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: Not grudgingly, meaning, "All right. All right. Since you begging me." You ever ask a negro for some money? He like, "Damn, begging." It make you not even want to take the money no more. He go give it all disrespectfully. Come on, man. "So begging, broke, and you better pay me back." It make you not even want the money no more. You know what I'm saying? For real.
 
 - So that be some of y'all spirit. We, you know, classes like this, or the leadership get on y'all about the arms, you like, "All right, real, always pocket watching. Damn leadership always pocket watching." If you don't accuse your leadership of pocket watching, you got the damn devil, let you know, the devil. What it say? Not grudgingly or of necessity.
 
 - For God loveth a cheerful giver: That's what we just read in Tobit.
+
+> <sup>[8](/bible/2-corinthians/9#v8)</sup> And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work:
 
 - And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work: Right? And that's one thing I know for sure I can testify to in this truth. You know what I'm saying? I am a poor man. But I ain't lacking though. You know what I'm saying? I got everything I need. Me and my family straight. We got to cheat things in life. We ain't, you know, God forbid in the future. But we always had our own residence. We ain't had to move out of our residence and somebody else. You know what I'm saying? We always had our roof over our head. That's right. Bills paid. All praise to the most high.
 
@@ -408,13 +408,13 @@ Reading from On-screen definition of weariness  *[[55:44](https://www.youtube.co
 
 **[Luke 21:5-6](/bible/luke/21#v5)**  *[[1:27:45](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=5265s)]*
 
-> <sup>[5](/bible/luke/21#v5)</sup> And as some spake of the temple, how it was adorned with goodly stones and gifts, he said,
->
-> <sup>[6](/bible/luke/21#v6)</sup> As for these things which ye behold, the days will come, in the which there shall not be left one stone upon another, that shall not be thrown down.
-
 - Go back to Luke 21. I spend a whole hour on them four verses. That's what happened when you given a sense though. I'll pray to the Lord.
 
+> <sup>[5](/bible/luke/21#v5)</sup> And as some spake of the temple, how it was adorned with goodly stones and gifts, he said,
+
 - And as some spake of the temple, how it was adorned with goodly stones and gifts: Right. So this is the temple. They call it Herod's temple. This is the temple that Herod invested in after the time of the Greeks, that during the time of Christ, this was the temple in Jerusalem at the time. All right? So, they was looking at it. "Oh, look at this and look at that. Oh, it's so nice." Right. They was biging it up.
+
+> <sup>[6](/bible/luke/21#v6)</sup> As for these things which ye behold, the days will come, in the which there shall not be left one stone upon another, that shall not be thrown down.
 
 - As for these things which ye behold: So, this goodly temple, these goodly stones that you looking at.
 
@@ -424,22 +424,22 @@ Reading from On-screen definition of weariness  *[[55:44](https://www.youtube.co
 **[Luke 19:41-44](/bible/luke/19#v41)**  *[[1:28:48](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=5328s)]*
 
 > <sup>[41](/bible/luke/19#v41)</sup> And when he was come near, he beheld the city, and wept over it,
->
-> <sup>[42](/bible/luke/19#v42)</sup> Saying, If thou hadst known, even thou, at least in this thy day, the things which belong unto thy peace! but now they are hid from thine eyes.
->
-> <sup>[43](/bible/luke/19#v43)</sup> For the days shall come upon thee, that thine enemies shall cast a trench about thee, and compass thee round, and keep thee in on every side,
->
-> <sup>[44](/bible/luke/19#v44)</sup> And shall lay thee even with the ground, and thy children within thee; and they shall not leave in thee one stone upon another; because thou knewest not the time of thy visitation.
 
 - And when he was come near, he beheld the city, and wept over it: Right? So he looked at Jerusalem and cried over it.
 
+> <sup>[42](/bible/luke/19#v42)</sup> Saying, If thou hadst known, even thou, at least in this thy day, the things which belong unto thy peace! but now they are hid from thine eyes.
+
 - But now they are hid from thine eyes: Just don't know, Jerusalem.
+
+> <sup>[43](/bible/luke/19#v43)</sup> For the days shall come upon thee, that thine enemies shall cast a trench about thee, and compass thee round, and keep thee in on every side,
 
 - For the days shall come upon thee, that thine enemies shall cast a trench about thee: So this is what happens during a siege, right? A trench is basically like a ditch, a circular ditch around the area, right? A deep ditch into the ground. So when a land is besieged, that trench is digged around that entire land or city so nobody can go in or come out. So he said your enemies going to cast a trench around you.
 
 - And compass thee round: And their armies are going to surround you.
 
 - And keep thee in on every side: Besiege you.
+
+> <sup>[44](/bible/luke/19#v44)</sup> And shall lay thee even with the ground, and thy children within thee; and they shall not leave in thee one stone upon another; because thou knewest not the time of thy visitation.
 
 - And shall lay thee even with the ground: And after a certain dispensation of time of a siege, when the famine and disease and all of that has reached a certain level and the land begins to decay, the gates begin to weaken and fall. The enemy completely invades. And the Lord is telling you what they going to do when they invade after they besiege it. It said they're going to lay thee even with the ground. So you got to think, every building has a height. So the ground level is the bottom. So what he's saying is they're going to destroy and make desolate every building, including the temple, the highest, most precious building in this city.
 
@@ -467,17 +467,17 @@ Reading from On-screen definition of weariness  *[[55:44](https://www.youtube.co
 
 **[Daniel 9:26-27](/bible/daniel/9#v26)**  *[[1:34:32](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=5672s)]*
 
-> <sup>[26](/bible/daniel/9#v26)</sup> And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof shall be with a flood, and unto the end of the war desolations are determined.
->
-> <sup>[27](/bible/daniel/9#v27)</sup> And he shall confirm the covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make it desolate, even until the consummation, and that determined shall be poured upon the desolate.
-
 - So let's get that Daniel chapter nine. The prophecy that Christ, you know, he brought it out. We going to show you that too.
+
+> <sup>[26](/bible/daniel/9#v26)</sup> And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof shall be with a flood, and unto the end of the war desolations are determined.
 
 - And after threescore and two weeks shall Messiah be cut off: That's Christ. So Daniel foresaw Christ coming and being put to death.
 
 - But not for himself: He ain't dying for himself. He dying for the sins of the Israelites.
 
 - And the people of the prince that shall come shall destroy the city and the sanctuary: So the people of the prince is dying enemies that Christ just said in Luke chapter 19. The Romans, they going to come and destroy the city and the what? And the sanctuary, and the temple.
+
+> <sup>[27](/bible/daniel/9#v27)</sup> And he shall confirm the covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make it desolate, even until the consummation, and that determined shall be poured upon the desolate.
 
 - And in the midst of the week he shall cause the sacrifice and the oblation to cease: Right? So in the temple, that's what we did. We brought sacrifices, oblations. The white man going to cause all that to cease. That's why we needed Christ to die, to be that sacrifice, cuz that would be no more.
 
@@ -486,11 +486,9 @@ Reading from On-screen definition of weariness  *[[55:44](https://www.youtube.co
 
 **[Matthew 24:15-16](/bible/matthew/24#v15)**  *[[1:36:15](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=5775s)]*
 
-> <sup>[15](/bible/matthew/24#v15)</sup> When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)
->
-> <sup>[16](/bible/matthew/24#v16)</sup> Then let them which be in Judea flee into the mountains:
-
 - So go to Matthew 24 verse 15. Christ brought it out. He brought out the precepts.
+
+> <sup>[15](/bible/matthew/24#v15)</sup> When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)
 
 - When ye therefore shall see the abomination of desolation: So in Luke 21, when you go further in the chapter, verse 20, he said when you see the armies, right, talking about the Roman armies. But look at what he calls them in Matthew 24. It said, "When you shall see the what?" When ye therefore shall see the abomination of desolation. So the Roman armies in the abomination of desolation are synonymous. Christ called the white man, their race, the abomination of desolation. You understand?
 
@@ -502,18 +500,20 @@ Reading from On-screen definition of weariness  *[[55:44](https://www.youtube.co
 
 - Then let them which be in Judaea flee into the mountains: Right? So Christ gave a warning. Listen, flee to the mountain. Go to Africa. But remember what he said, thy children within thee going to be destroyed too, because they knew not the time of their visitation. A lot of them thought what? "Oh, we made a covenant with death. With hell, we had agreement. When the overflowing scourge passed through, we're going to be hid." And guess what? Them same cool negroes got destroyed. Same thing going to happen today too, in these times, these last days.
 
+> <sup>[16](/bible/matthew/24#v16)</sup> Then let them which be in Judea flee into the mountains:
+
 
 **[John 4:20-22](/bible/john/4#v20)**  *[[1:37:58](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=5878s)]*
 
+- So from there go to John 4. Christ spoke on it again.
+
 > <sup>[20](/bible/john/4#v20)</sup> Our fathers worshipped in this mountain; and ye say, that in Jerusalem is the place where men ought to worship.
->
+
+- Our fathers worshipped in this mountain; and ye say, that in Jerusalem is the place where men ought to worship: Right? So that's what the Samaritan woman, the northern kingdom sister, is saying of Christ.
+
 > <sup>[21](/bible/john/4#v21)</sup> Jesus saith unto her, Woman, believe me, the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father.
 >
 > <sup>[22](/bible/john/4#v22)</sup> Ye worship ye know not what: we know what we worship: for salvation is of the Jews.
-
-- So from there go to John 4. Christ spoke on it again.
-
-- Our fathers worshipped in this mountain; and ye say, that in Jerusalem is the place where men ought to worship: Right? So that's what the Samaritan woman, the northern kingdom sister, is saying of Christ.
 
 - Woman, believe me, the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father. Ye worship ye know not what: So wait a minute. So he said the time is going to come where people ain't going to be worshiping in Jerusalem. Why? Because the abomination is going to make it desolate. You understand? He's going to lay it even with the ground. Christ knew that. He prophesied of that, 70 A.
 
@@ -536,17 +536,17 @@ Reading from On-screen definition of weariness  *[[55:44](https://www.youtube.co
 
 **[2 Esdras 6:7-9](/bible/2-esdras/6#v7)**  *[[1:40:29](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=6029s)]*
 
-> <sup>[7](/bible/2-esdras/6#v7)</sup> Then answered I and said, What shall be the parting asunder of the times? or when shall be the end of the first, and the beginning of it that followeth?
->
-> <sup>[8](/bible/2-esdras/6#v8)</sup> And he said unto me, From Abraham unto Isaac, when Jacob and Esau were born of him, Jacob’s hand held first the heel of Esau.
->
-> <sup>[9](/bible/2-esdras/6#v9)</sup> For Esau is the end of the world, and Jacob is the beginning of it that followeth.
-
 - So go back to Luke 21. Matter of fact, go to 2 Esdras 6.
+
+> <sup>[7](/bible/2-esdras/6#v7)</sup> Then answered I and said, What shall be the parting asunder of the times? or when shall be the end of the first, and the beginning of it that followeth?
 
 - What shall be the parting asunder of the times? or when shall be the end of the first, and the beginning of it that followeth?: The same thing the disciples asked Christ, right?
 
+> <sup>[8](/bible/2-esdras/6#v8)</sup> And he said unto me, From Abraham unto Isaac, when Jacob and Esau were born of him, Jacob’s hand held first the heel of Esau.
+
 - From Abraham unto Isaac, when Jacob and Esau were born of him, Jacob's hand held first the heel of Esau: So he brings up something. They asking about the end of the world. Ezra asking about the end of the world. The angel bring up Genesis, in the beginning. Remember when Jacob hand the hill of Esau.
+
+> <sup>[9](/bible/2-esdras/6#v9)</sup> For Esau is the end of the world, and Jacob is the beginning of it that followeth.
 
 - For Esau is the end of the world: In the beginning, the beginning of your nation symbolized the end of the world. Esau is the end of the world.
 
@@ -562,21 +562,21 @@ Reading from On-screen definition of weariness  *[[55:44](https://www.youtube.co
 
 **[2 Thessalonians 2:1-4](/bible/2-thessalonians/2#v1)**  *[[1:42:28](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=6148s)]*
 
+- Get that in second Thessalonians 2:1. We're going to close it off here for escaping a plantation. All right.
+
 > <sup>[1](/bible/2-thessalonians/2#v1)</sup> Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto him,
 >
 > <sup>[2](/bible/2-thessalonians/2#v2)</sup> That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand.
->
-> <sup>[3](/bible/2-thessalonians/2#v3)</sup> Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
->
-> <sup>[4](/bible/2-thessalonians/2#v4)</sup> Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God.
-
-- Get that in second Thessalonians 2:1. We're going to close it off here for escaping a plantation. All right.
 
 - That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand: Right? Don't let that doctrine sink in your mind and think Christ going to come back this soon.
+
+> <sup>[3](/bible/2-thessalonians/2#v3)</sup> Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
 
 - For that day shall not come, except there come a falling away first: That's 70 AD. And that's going into captivity.
 
 - And that man of sin be revealed: That man of sin be revealed.
+
+> <sup>[4](/bible/2-thessalonians/2#v4)</sup> Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God.
 
 - So that he as God sitteth in the temple of God, shewing himself that he is God: So the man of sin, the devil, he as God does what? Sitteth in the temple of God, showing himself that he is God. Put that on the screen. Put him on the screen. That's what Christ just warned about in Luke 21:8. The son of perdition, the man of sin, evil, the so-called white man, he has to fulfill this. "I have to die, and then he's going to pretend that he was me." You understand? All of that got to take place first.
 

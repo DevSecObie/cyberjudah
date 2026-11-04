@@ -38,14 +38,6 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "endurance", "eu
 > <sup>[40](/bible/2-esdras/13#v40)</sup> Those are the ten tribes, which were carried away prisoners out of their own land in the time of Osea the king, whom Salmanasar the king of Assyria led away captive, and he carried them over the waters, and so came they into another land.
 >
 > <sup>[41](/bible/2-esdras/13#v41)</sup> But they took this counsel among themselves, that they would leave the multitude of the heathen, and go forth into a further country, where never mankind dwelt,
->
-> <sup>[42](/bible/2-esdras/13#v42)</sup> That they might there keep their statutes, which they never kept in their own land.
->
-> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow places of the river.
->
-> <sup>[44](/bible/2-esdras/13#v44)</sup> For the most High then shewed signs for them, and held still the flood, till they were passed over.
->
-> <sup>[45](/bible/2-esdras/13#v45)</sup> For through that country there was a great way to go, namely, of a year and a half: and the same region is called Arsareth.
 
 - A further country where never mankind dwelt: that place is America, what's called America today.
 
@@ -55,18 +47,26 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "endurance", "eu
 
 - Proving to you that the ten tribes that came over here, that you call Indians, the Bible calls the ten tribes of Israel.
 
+> <sup>[42](/bible/2-esdras/13#v42)</sup> That they might there keep their statutes, which they never kept in their own land.
+>
+> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow places of the river.
+>
+> <sup>[44](/bible/2-esdras/13#v44)</sup> For the most High then shewed signs for them, and held still the flood, till they were passed over.
+>
+> <sup>[45](/bible/2-esdras/13#v45)</sup> For through that country there was a great way to go, namely, of a year and a half: and the same region is called Arsareth.
+
 
 **[Hosea 11:10-11](/bible/hosea/11#v10)**  *[[2:20](https://www.youtube.com/watch?v=OfeSju75iMY&t=140s)]*
 
-> <sup>[10](/bible/hosea/11#v10)</sup> They shall walk after the Lord: he shall roar like a lion: when he shall roar, then the children shall tremble from the west.
->
-> <sup>[11](/bible/hosea/11#v11)</sup> They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the Lord.
-
 - The prophecy says that the Israelites shall walk after the Lord.
+
+> <sup>[10](/bible/hosea/11#v10)</sup> They shall walk after the Lord: he shall roar like a lion: when he shall roar, then the children shall tremble from the west.
 
 - Tremble from the west: the western hemisphere. That's what this side of the world is called, because over on Jerusalem's side it's called the eastern hemisphere.
 
 - As a bird out of Egypt, because we're going to be delivered from this captivity, spiritually called Egypt.
+
+> <sup>[11](/bible/hosea/11#v11)</sup> They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the Lord.
 
 - I will place them in their houses: the Most High is going to bring us back to our homeland.
 
@@ -284,21 +284,13 @@ Reading from the Glen Ford printout, continued, page eight · read by Deacon Asa
 
 **[Habakkuk 1:6-11](/bible/habakkuk/1#v6)**  *[[26:37](https://www.youtube.com/watch?v=OfeSju75iMY&t=1597s)]*
 
-> <sup>[6](/bible/habakkuk/1#v6)</sup> For, lo, I raise up the Chaldeans, that bitter and hasty nation, which shall march through the breadth of the land, to possess the dwellingplaces that are not theirs.
->
-> <sup>[7](/bible/habakkuk/1#v7)</sup> They are terrible and dreadful: their judgment and their dignity shall proceed of themselves.
->
-> <sup>[8](/bible/habakkuk/1#v8)</sup> Their horses also are swifter than the leopards, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle that hasteth to eat.
->
-> <sup>[9](/bible/habakkuk/1#v9)</sup> They shall come all for violence: their faces shall sup up as the east wind, and they shall gather the captivity as the sand.
->
-> <sup>[10](/bible/habakkuk/1#v10)</sup> And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it.
->
-> <sup>[11](/bible/habakkuk/1#v11)</sup> Then shall his mind change, and he shall pass over, and offend, imputing this his power unto his god.
-
 - The Bible's written twofold: these Chaldeans at one time was making reference to the ancient Babylonians, but this time it's talking about the white man. That's why in Psalms it calls the white man the daughter of Babylon.
 
 - Did they march through the breadth of the land, from South America up through North America, through Canada? Yes, with all their armies, their military, to possess the dwelling places that are not theirs. That's your great white hunk, the so-called white man.
+
+> <sup>[6](/bible/habakkuk/1#v6)</sup> For, lo, I raise up the Chaldeans, that bitter and hasty nation, which shall march through the breadth of the land, to possess the dwellingplaces that are not theirs.
+>
+> <sup>[7](/bible/habakkuk/1#v7)</sup> They are terrible and dreadful: their judgment and their dignity shall proceed of themselves.
 
 - Terrible and dreadful: that's why in Deuteronomy 28 Moses said the Lord would raise up a nation against you which would not show favor to young or old. Did they come with horses, large powerful horses? Yeah. Their horsemen shall come from far, meaning Europe.
 
@@ -307,6 +299,14 @@ Reading from the Glen Ford printout, continued, page eight · read by Deacon Asa
 - They shall come all for violence. 'No, the pilgrims came for peace.' So your Thanksgiving is a lie, thus saith the Lord. Your Thanksgiving Day is based on genocide, evil, and bloodshed. Their faces sup up as the east wind: they came from Europe, the east. They shall gather the captivity, the twelve tribes of Israel, as the sand.
 
 - The white man scoffed at the kings and princes set up by the ten tribes. Heap dust and take it means confusion, brought forth with their religions: their Jesuit priests came forth first. Jesuit means crafty ones. They came talking that religious garbage about love for brotherhood and peace for all mankind, and slaughtered them: 'Here's blankets to keep warm,' filled with smallpox.
+
+> <sup>[8](/bible/habakkuk/1#v8)</sup> Their horses also are swifter than the leopards, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle that hasteth to eat.
+>
+> <sup>[9](/bible/habakkuk/1#v9)</sup> They shall come all for violence: their faces shall sup up as the east wind, and they shall gather the captivity as the sand.
+>
+> <sup>[10](/bible/habakkuk/1#v10)</sup> And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it.
+>
+> <sup>[11](/bible/habakkuk/1#v11)</sup> Then shall his mind change, and he shall pass over, and offend, imputing this his power unto his god.
 
 - Then shall his mind change: after he gathered the captivity as the sand, he said, 'Let's bring forth peace, let's unite all races as one under us,' and they call it today democracy. Imputing this his power unto his God.
 
@@ -365,17 +365,17 @@ Reading from the Glen Ford printout, continued · read by Deacon Asaph  *[[31:11
 
 **[Hosea 7:8-9](/bible/hosea/7#v8)**  *[[36:47](https://www.youtube.com/watch?v=OfeSju75iMY&t=2207s)]*
 
-> <sup>[8](/bible/hosea/7#v8)</sup> Ephraim, he hath mixed himself among the people; Ephraim is a cake not turned.
->
-> <sup>[9](/bible/hosea/7#v9)</sup> Strangers have devoured his strength, and he knoweth it not: yea, gray hairs are here and there upon him, yet he knoweth not.
-
 - Don't think because I'm exalting my voice I'm filled with hatred. No, it's zeal, it's passion and love for my people, for the word of the Most High.
 
 - Why is it specifying Ephraim here? Because Ephraim was the head tribe of the ten tribes that came on this side of the world.
 
 - Some of you unlearned blacks go, 'Why they got straight hair? Why are they a lighter brown than we are? Some of them even look white.' Ephraim hath mixed himself among the people.
 
+> <sup>[8](/bible/hosea/7#v8)</sup> Ephraim, he hath mixed himself among the people; Ephraim is a cake not turned.
+
 - Ephraim is a cake not turned: if you get a pancake and don't turn it over, one side is extremely light, one side is extremely dark. All the ten tribes have that characteristic, because they were mixing with the enemies from the time of the Assyrian captivity all the way up till today.
+
+> <sup>[9](/bible/hosea/7#v9)</sup> Strangers have devoured his strength, and he knoweth it not: yea, gray hairs are here and there upon him, yet he knoweth not.
 
 
 **[Proverbs 15:17](/bible/proverbs/15#v17)**  *[[37:55](https://www.youtube.com/watch?v=OfeSju75iMY&t=2275s)]*
@@ -474,13 +474,11 @@ Reading from the Glen Ford printout, continued · read by Deacon Asaph  *[[31:11
 
 **[Nahum 3:1-2](/bible/nahum/3#v1)**  *[[49:22](https://www.youtube.com/watch?v=OfeSju75iMY&t=2962s)]*
 
-> <sup>[1](/bible/nahum/3#v1)</sup> Woe to the bloody city! it is all full of lies and robbery; the prey departeth not;
->
-> <sup>[2](/bible/nahum/3#v2)</sup> The noise of a whip, and the noise of the rattling of the wheels, and of the pransing horses, and of the jumping chariots.
-
 - What does the word woe mean? Destruction. What's the bloody city? The United States of America. How did they get this land? Was it through peace? It was through bloodshed.
 
 - It is all full of lies. You go to school and you're taught lies. Every time my child come home, I got to clean out their minds: 'Dad, did the Indians sell Manhattan for $24 worth of worthless beads?' I say, hell no. They were expert bead makers, and history says the Indians had gold and diamonds woven in their clothes. This land is all full of lies and robbery.
+
+> <sup>[1](/bible/nahum/3#v1)</sup> Woe to the bloody city! it is all full of lies and robbery; the prey departeth not;
 
 - The prey departeth not: who's the prey? We're the prey, the twelve tribes of Israel. Are we seeking to leave this place? No. You ain't looking for another country.
 
@@ -491,6 +489,8 @@ Reading from the Glen Ford printout, continued · read by Deacon Asaph  *[[31:11
     > <sup>[14](/bible/hebrews/11#v14)</sup> For they that say such things declare plainly that they seek a country.
 
     They seek a country, the new Jerusalem upon Earth. Do you talk about that? No, you singing God bless America.
+
+> <sup>[2](/bible/nahum/3#v2)</sup> The noise of a whip, and the noise of the rattling of the wheels, and of the pransing horses, and of the jumping chariots.
 
 
 **[2 Chronicles 28:8-11](/bible/2-chronicles/28#v8)**  *[[52:16](https://www.youtube.com/watch?v=OfeSju75iMY&t=3136s)]*

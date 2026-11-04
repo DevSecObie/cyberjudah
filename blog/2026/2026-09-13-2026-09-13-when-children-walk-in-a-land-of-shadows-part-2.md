@@ -153,17 +153,17 @@ And a sister's account of what the class had been describing all along:
 
 **[Sirach 26:10-12](/bible/sirach/26#v10)**  *[[33:00](https://www.youtube.com/watch?v=prkbCwWAhfs&t=1980s)]*
 
-> <sup>[10](/bible/sirach/26#v10)</sup> If thy daughter be shameless, keep her in straitly, lest she abuse herself through overmuch liberty.
->
-> <sup>[11](/bible/sirach/26#v11)</sup> Watch over an impudent eye: and marvel not if she trespass against thee.
->
-> <sup>[12](/bible/sirach/26#v12)</sup> She will open her mouth, as a thirsty traveller when he hath found a fountain, and drink of every water near her: by every hedge will she sit down, and open her quiver against every arrow.
-
 - If thy daughter be shameless, keep her in straitly, lest she abuse herself through overmuch liberty.
 
 - Everybody who has daughters — you can already identify from a child if the daughter is shameless. You can identify from a child if the boy is going to be a thief or a homosexual. You can identify it from a young age, let us start around the age of five. You can see their tendencies, their habits, their likes, their dislikes. Always putting on mama's shoes. Or as soon as a boy comes by the house the little girl is always in his face; uncle or cousin comes over and she does not want to play with the girls, she is in the boy's face trying to sit on their lap. These are little things you as parents have to see. Must see.
 
+> <sup>[10](/bible/sirach/26#v10)</sup> If thy daughter be shameless, keep her in straitly, lest she abuse herself through overmuch liberty.
+>
+> <sup>[11](/bible/sirach/26#v11)</sup> Watch over an impudent eye: and marvel not if she trespass against thee.
+
 - Watch over an impudent eye: and marvel not if she trespass against thee. When this happens, do not be shocked. You saw those tendencies when they were young.
+
+> <sup>[12](/bible/sirach/26#v12)</sup> She will open her mouth, as a thirsty traveller when he hath found a fountain, and drink of every water near her: by every hedge will she sit down, and open her quiver against every arrow.
 
 - She will open her mouth, as a thirsty traveller when he hath found a fountain, and drink of every water near her: by every hedge will she sit down, and open her quiver against every arrow. Her quiver is the vagina, the arrow is the penis. God is saying she will open her vagina against every penis. She does not care. That is it right there. They talk about her numbers do not matter — numbers do matter.
 
@@ -183,17 +183,17 @@ And a sister's account of what the class had been describing all along:
 
 **[Deuteronomy 21:18-21](/bible/deuteronomy/21#v18)**  *[[39:35](https://www.youtube.com/watch?v=prkbCwWAhfs&t=2375s)]*
 
+- If a man have a stubborn and rebellious son, which will not obey the voice of his father, or the voice of his mother, and that, when they have chastened him, will not hearken unto them. This kid just does not listen.
+
 > <sup>[18](/bible/deuteronomy/21#v18)</sup> If a man have a stubborn and rebellious son, which will not obey the voice of his father, or the voice of his mother, and that, when they have chastened him, will not hearken unto them:
 >
 > <sup>[19](/bible/deuteronomy/21#v19)</sup> Then shall his father and his mother lay hold on him, and bring him out unto the elders of his city, and unto the gate of his place;
->
+
+- Then shall his father and his mother lay hold on him, and bring him out unto the elders of his city, and unto the gate of his place: and they shall say unto the elders of his city, This our son is stubborn and rebellious, he will not obey our voice; he is a glutton, and a drunkard. He is a glutton — all he does is eat. And a drunkard — sits around and drinks all day.
+
 > <sup>[20](/bible/deuteronomy/21#v20)</sup> And they shall say unto the elders of his city, This our son is stubborn and rebellious, he will not obey our voice; he is a glutton, and a drunkard.
 >
 > <sup>[21](/bible/deuteronomy/21#v21)</sup> And all the men of his city shall stone him with stones, that he die: so shalt thou put evil away from among you; and all Israel shall hear, and fear.
-
-- If a man have a stubborn and rebellious son, which will not obey the voice of his father, or the voice of his mother, and that, when they have chastened him, will not hearken unto them. This kid just does not listen.
-
-- Then shall his father and his mother lay hold on him, and bring him out unto the elders of his city, and unto the gate of his place: and they shall say unto the elders of his city, This our son is stubborn and rebellious, he will not obey our voice; he is a glutton, and a drunkard. He is a glutton — all he does is eat. And a drunkard — sits around and drinks all day.
 
 - And all the men of his city shall stone him with stones, that he die: so shalt thou put evil away from among you; and all Israel shall hear, and fear.
 
@@ -208,12 +208,6 @@ And a sister's account of what the class had been describing all along:
 **[Ephesians 6:1-4](/bible/ephesians/6#v1)**  *[[55:21](https://www.youtube.com/watch?v=prkbCwWAhfs&t=3321s)]*
 
 > <sup>[1](/bible/ephesians/6#v1)</sup> Children, obey your parents in the Lord: for this is right.
->
-> <sup>[2](/bible/ephesians/6#v2)</sup> Honour thy father and mother; (which is the first commandment with promise;)
->
-> <sup>[3](/bible/ephesians/6#v3)</sup> That it may be well with thee, and thou mayest live long on the earth.
->
-> <sup>[4](/bible/ephesians/6#v4)</sup> And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.
 
 - Children, obey your parents in the Lord: for this is right. Now I remember growing up there were parents that would abuse that verse right there and have the children go get them some weed, some crack, and then quote that scripture. But that scripture is not talking about that.
 
@@ -225,6 +219,12 @@ And a sister's account of what the class had been describing all along:
 
 - But bring them up in the nurture and admonition of the Lord. You see that word but — the flip side. So that first part, provoke not your children to wrath: whose wrath? God's wrath. That is what it is talking about.
 
+> <sup>[2](/bible/ephesians/6#v2)</sup> Honour thy father and mother; (which is the first commandment with promise;)
+>
+> <sup>[3](/bible/ephesians/6#v3)</sup> That it may be well with thee, and thou mayest live long on the earth.
+>
+> <sup>[4](/bible/ephesians/6#v4)</sup> And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.
+
 **[Sirach 12:10](/bible/sirach/12#v10)**  *[[56:54](https://www.youtube.com/watch?v=prkbCwWAhfs&t=3414s)]*
 
 > <sup>[10](/bible/sirach/12#v10)</sup> Never trust thine enemy: for like as iron rusteth, so is his wickedness.
@@ -235,19 +235,19 @@ And a sister's account of what the class had been describing all along:
 
 **[Sirach 22:3-5](/bible/sirach/22#v3)**  *[[1:02:20](https://www.youtube.com/watch?v=prkbCwWAhfs&t=3740s)]*
 
-> <sup>[3](/bible/sirach/22#v3)</sup> An evilnurtured man is the dishonour of his father that begat him: and a foolish daughter is born to his loss.
->
-> <sup>[4](/bible/sirach/22#v4)</sup> A wise daughter shall bring an inheritance to her husband: but she that liveth dishonestly is her father’s heaviness.
->
-> <sup>[5](/bible/sirach/22#v5)</sup> She that is bold dishonoureth both her father and her husband, but they both shall despise her.
-
 - An evil nurtured son is the dishonour of his father that begat him. Now let me tell you something about the evil nurtured child. Like the videos we just looked at with all those kids fighting — we might think that is the only evil nurtured child. No. Raising them up as a Christian is an equally evil nurtured child, and may even be worse, because you are not teaching them the fundamentals of the Bible, what to beware of, what to look out for. You are misguiding them. Everybody is the same in Jesus, Jesus loves everybody. Now your child is dead because you as a Christian parent misguided them.
 
 - I say Christianity is worse, because when you come up in Christianity you will reject scripture. People in the world, even if they grew up all messed up, have a better chance of getting this gospel and cleaning their lives up than a deep-fried, hard-baked so-called Christian. They cannot see anything but white Jesus.
 
+> <sup>[3](/bible/sirach/22#v3)</sup> An evilnurtured man is the dishonour of his father that begat him: and a foolish daughter is born to his loss.
+>
+> <sup>[4](/bible/sirach/22#v4)</sup> A wise daughter shall bring an inheritance to her husband: but she that liveth dishonestly is her father’s heaviness.
+
 - And a foolish daughter is born to his loss. A wise daughter shall bring an inheritance to her husband: but she that liveth dishonestly is her father's heaviness.
 
 - She that is bold dishonoureth both her father and her husband, but they both shall despise her. That bold woman — she says what she wants to say, goes where she wants to go, does what she wants to do.
+
+> <sup>[5](/bible/sirach/22#v5)</sup> She that is bold dishonoureth both her father and her husband, but they both shall despise her.
 
 **[Tobit 8:20-21](/bible/tobit/8#v20)**  *[[1:04:43](https://www.youtube.com/watch?v=prkbCwWAhfs&t=3883s)]*
 
@@ -261,6 +261,10 @@ And a sister's account of what the class had been describing all along:
 
 **[Proverbs 31:1-9](/bible/proverbs/31#v1)**  *[[1:14:39](https://www.youtube.com/watch?v=prkbCwWAhfs&t=4479s)]*
 
+- The words of king Lemuel, the prophecy that his mother taught him. This goes with Titus 2 and 3 about the aged women. Lemuel was a nickname for Solomon, so this is Bathsheba teaching Solomon.
+
+- What, my son? and what, the son of my womb? and what, the son of my vows? Give not thy strength unto women, nor thy ways to that which destroyeth kings. One of the first things she taught him was never give your strength to a woman. That is one thing young men must learn. Why does she teach it? Because she knows what is in women.
+
 > <sup>[1](/bible/proverbs/31#v1)</sup> The words of king Lemuel, the prophecy that his mother taught him.
 >
 > <sup>[2](/bible/proverbs/31#v2)</sup> What, my son? and what, the son of my womb? and what, the son of my vows?
@@ -268,7 +272,15 @@ And a sister's account of what the class had been describing all along:
 > <sup>[3](/bible/proverbs/31#v3)</sup> Give not thy strength unto women, nor thy ways to that which destroyeth kings.
 >
 > <sup>[4](/bible/proverbs/31#v4)</sup> It is not for kings, O Lemuel, it is not for kings to drink wine; nor for princes strong drink:
->
+
+- It is not for kings, O Lemuel, it is not for kings to drink wine; nor for princes strong drink: lest they drink, and forget the law, and pervert the judgment of any of the afflicted. So what kind of drinking is she talking about? Excess.
+
+- Give strong drink unto him that is ready to perish, and wine unto those that be of heavy hearts. When people are about to die, then you give them strong drink. And wine to those of heavy hearts — those filled with bitterness of soul, depressed.
+
+- Let him drink, and forget his poverty, and remember his misery no more. That is what happens in a lot of the black community and the Latin community as well. Alcohol is used as an escape.
+
+- Open thy mouth for the dumb in the cause of all such as are appointed to destruction. Open thy mouth, judge righteously, and plead the cause of the poor and needy.
+
 > <sup>[5](/bible/proverbs/31#v5)</sup> Lest they drink, and forget the law, and pervert the judgment of any of the afflicted.
 >
 > <sup>[6](/bible/proverbs/31#v6)</sup> Give strong drink unto him that is ready to perish, and wine unto those that be of heavy hearts.
@@ -278,18 +290,6 @@ And a sister's account of what the class had been describing all along:
 > <sup>[8](/bible/proverbs/31#v8)</sup> Open thy mouth for the dumb in the cause of all such as are appointed to destruction.
 >
 > <sup>[9](/bible/proverbs/31#v9)</sup> Open thy mouth, judge righteously, and plead the cause of the poor and needy.
-
-- The words of king Lemuel, the prophecy that his mother taught him. This goes with Titus 2 and 3 about the aged women. Lemuel was a nickname for Solomon, so this is Bathsheba teaching Solomon.
-
-- What, my son? and what, the son of my womb? and what, the son of my vows? Give not thy strength unto women, nor thy ways to that which destroyeth kings. One of the first things she taught him was never give your strength to a woman. That is one thing young men must learn. Why does she teach it? Because she knows what is in women.
-
-- It is not for kings, O Lemuel, it is not for kings to drink wine; nor for princes strong drink: lest they drink, and forget the law, and pervert the judgment of any of the afflicted. So what kind of drinking is she talking about? Excess.
-
-- Give strong drink unto him that is ready to perish, and wine unto those that be of heavy hearts. When people are about to die, then you give them strong drink. And wine to those of heavy hearts — those filled with bitterness of soul, depressed.
-
-- Let him drink, and forget his poverty, and remember his misery no more. That is what happens in a lot of the black community and the Latin community as well. Alcohol is used as an escape.
-
-- Open thy mouth for the dumb in the cause of all such as are appointed to destruction. Open thy mouth, judge righteously, and plead the cause of the poor and needy.
 
 **[1 Esdras 4:26-27](/bible/1-esdras/4#v26)**  *[[1:15:36](https://www.youtube.com/watch?v=prkbCwWAhfs&t=4536s)]*
 
@@ -362,16 +362,16 @@ And a sister's account of what the class had been describing all along:
 **[Matthew 15:4-6](/bible/matthew/15#v4)**  *[[1:25:51](https://www.youtube.com/watch?v=prkbCwWAhfs&t=5151s)]*
 
 > <sup>[4](/bible/matthew/15#v4)</sup> For God commanded, saying, Honour thy father and mother: and, He that curseth father or mother, let him die the death.
->
-> <sup>[5](/bible/matthew/15#v5)</sup> But ye say, Whosoever shall say to his father or his mother, It is a gift, by whatsoever thou mightest be profited by me;
->
-> <sup>[6](/bible/matthew/15#v6)</sup> And honour not his father or his mother, he shall be free. Thus have ye made the commandment of God of none effect by your tradition.
 
 - For God commanded, saying, Honour thy father and mother: and, He that curseth father or mother, let him die the death. See that? They do not read that in church. You will never hear that in Sunday school. Let us see if good loving Jesus changed that — he did not.
 
 - But ye say, Whosoever shall say to his father or his mother, It is a gift, by whatsoever thou mightest be profited by me. So the scribes had an oral law: when the child came of age they could emancipate from their parents and say, I was a blessing to you, so I am free from you. They divorced their parents — they call it parental emancipation.
 
 - And honour not his father or his mother, he shall be free. Thus have ye made the commandment of God of none effect by your tradition.
+
+> <sup>[5](/bible/matthew/15#v5)</sup> But ye say, Whosoever shall say to his father or his mother, It is a gift, by whatsoever thou mightest be profited by me;
+>
+> <sup>[6](/bible/matthew/15#v6)</sup> And honour not his father or his mother, he shall be free. Thus have ye made the commandment of God of none effect by your tradition.
 
 **[2 Maccabees 4:15](/bible/2-maccabees/4#v15)**  *[[1:26:41](https://www.youtube.com/watch?v=prkbCwWAhfs&t=5201s)]*
 
@@ -406,14 +406,14 @@ And a sister's account of what the class had been describing all along:
 **[Matthew 10:37-38](/bible/matthew/10#v37)**  *[[1:31:01](https://www.youtube.com/watch?v=prkbCwWAhfs&t=5461s)]*
 
 > <sup>[37](/bible/matthew/10#v37)</sup> He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me.
->
-> <sup>[38](/bible/matthew/10#v38)</sup> And he that taketh not his cross, and followeth after me, is not worthy of me.
 
 - He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me. And Christ reminded us of that law right there, in case you forgot.
 
 - So we have got to be careful in our relationships and our family lives. Who do we love more? Do we love the child above the Lord, a parent above the Lord? If so, you are not worthy to be Christ's disciple.
 
 - And he that taketh not his cross, and followeth after me, is not worthy of me. What does the cross symbolise, brothers? Death. Whoever is not willing to prepare himself or herself to die for Christ, for this truth, for this gospel, is not worthy of him.
+
+> <sup>[38](/bible/matthew/10#v38)</sup> And he that taketh not his cross, and followeth after me, is not worthy of me.
 
 **[Genesis 18:18-19](/bible/genesis/18#v18)**  *[[1:32:36](https://www.youtube.com/watch?v=prkbCwWAhfs&t=5556s)]*
 
@@ -453,6 +453,12 @@ And a sister's account of what the class had been describing all along:
 
 **[Deuteronomy 6:1-7](/bible/deuteronomy/6#v1)**  *[[1:35:02](https://www.youtube.com/watch?v=prkbCwWAhfs&t=5702s)]*
 
+- Now these are the commandments, the statutes, and the judgments, which the Lord your God commanded to teach you, that ye might do them in the land whither ye go to possess it.
+
+- That thou mightest fear the Lord thy God, to keep all his statutes and his commandments, which I command thee, thou, and thy son, and thy son's son, all the days of thy life; and that thy days may be prolonged. You, your son, and your grandchildren. That goes with Exodus 20:12.
+
+- Hear therefore, O Israel, and observe to do it; that it may be well with thee, and that ye may increase mightily, as the Lord God of thy fathers hath promised thee, in the land that floweth with milk and honey.
+
 > <sup>[1](/bible/deuteronomy/6#v1)</sup> Now these are the commandments, the statutes, and the judgments, which the Lord your God commanded to teach you, that ye might do them in the land whither ye go to possess it:
 >
 > <sup>[2](/bible/deuteronomy/6#v2)</sup> That thou mightest fear the Lord thy God, to keep all his statutes and his commandments, which I command thee, thou, and thy son, and thy son’s son, all the days of thy life; and that thy days may be prolonged.
@@ -460,20 +466,12 @@ And a sister's account of what the class had been describing all along:
 > <sup>[3](/bible/deuteronomy/6#v3)</sup> Hear therefore, O Israel, and observe to do it; that it may be well with thee, and that ye may increase mightily, as the Lord God of thy fathers hath promised thee, in the land that floweth with milk and honey.
 >
 > <sup>[4](/bible/deuteronomy/6#v4)</sup> Hear, O Israel: The Lord our God is one Lord:
->
+
+- Hear, O Israel: The Lord our God is one Lord: and thou shalt love the Lord thy God with all thine heart, and with all thy soul, and with all thy might.
+
 > <sup>[5](/bible/deuteronomy/6#v5)</sup> And thou shalt love the Lord thy God with all thine heart, and with all thy soul, and with all thy might.
 >
 > <sup>[6](/bible/deuteronomy/6#v6)</sup> And these words, which I command thee this day, shall be in thine heart:
->
-> <sup>[7](/bible/deuteronomy/6#v7)</sup> And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.
-
-- Now these are the commandments, the statutes, and the judgments, which the Lord your God commanded to teach you, that ye might do them in the land whither ye go to possess it.
-
-- That thou mightest fear the Lord thy God, to keep all his statutes and his commandments, which I command thee, thou, and thy son, and thy son's son, all the days of thy life; and that thy days may be prolonged. You, your son, and your grandchildren. That goes with Exodus 20:12.
-
-- Hear therefore, O Israel, and observe to do it; that it may be well with thee, and that ye may increase mightily, as the Lord God of thy fathers hath promised thee, in the land that floweth with milk and honey.
-
-- Hear, O Israel: The Lord our God is one Lord: and thou shalt love the Lord thy God with all thine heart, and with all thy soul, and with all thy might.
 
 - And these words, which I command thee this day, shall be in thine heart: and thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.
 
@@ -485,25 +483,15 @@ And a sister's account of what the class had been describing all along:
 
 - For example, you can run into a situation where daughters want to experience things, they want to live fast. Find some videos that show teenage mothers, that show what an eighteen-year-old mother has to deal with. It is not all glitz and glamour like they lie to them with these social media shorts. Show them the reality — she is struggling like hell, crying, and she did not even finish school. That would be the reality if you do not keep these commandments.
 
+> <sup>[7](/bible/deuteronomy/6#v7)</sup> And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.
+
 **[Psalms 78:1-8](/bible/psalms/78#v1)**  *[[1:41:08](https://www.youtube.com/watch?v=prkbCwWAhfs&t=6068s)]*
 
 > <sup>[1](/bible/psalms/78#v1)</sup> Give ear, O my people, to my law: incline your ears to the words of my mouth.
->
-> <sup>[2](/bible/psalms/78#v2)</sup> I will open my mouth in a parable: I will utter dark sayings of old:
->
-> <sup>[3](/bible/psalms/78#v3)</sup> Which we have heard and known, and our fathers have told us.
->
-> <sup>[4](/bible/psalms/78#v4)</sup> We will not hide them from their children, shewing to the generation to come the praises of the Lord, and his strength, and his wonderful works that he hath done.
->
-> <sup>[5](/bible/psalms/78#v5)</sup> For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children:
->
-> <sup>[6](/bible/psalms/78#v6)</sup> That the generation to come might know them, even the children which should be born; who should arise and declare them to their children:
->
-> <sup>[7](/bible/psalms/78#v7)</sup> That they might set their hope in God, and not forget the works of God, but keep his commandments:
->
-> <sup>[8](/bible/psalms/78#v8)</sup> And might not be as their fathers, a stubborn and rebellious generation; a generation that set not their heart aright, and whose spirit was not stedfast with God.
 
 - Give ear, O my people, to my law: incline your ears to the words of my mouth. So that is the message to all of us: give ear to God's law.
+
+> <sup>[2](/bible/psalms/78#v2)</sup> I will open my mouth in a parable: I will utter dark sayings of old:
 
 - I will open my mouth in a parable: I will utter dark sayings of old. That is why you have to learn the parables in the scriptures. All the parables pertain to the laws of God; you just have to learn the laws of God to see what that parable is talking about.
 
@@ -516,6 +504,18 @@ And a sister's account of what the class had been describing all along:
 - That they might set their hope in God, and not forget the works of God, but keep his commandments.
 
 - And might not be as their fathers, a stubborn and rebellious generation; a generation that set not their heart aright, and whose spirit was not stedfast with God.
+
+> <sup>[3](/bible/psalms/78#v3)</sup> Which we have heard and known, and our fathers have told us.
+>
+> <sup>[4](/bible/psalms/78#v4)</sup> We will not hide them from their children, shewing to the generation to come the praises of the Lord, and his strength, and his wonderful works that he hath done.
+>
+> <sup>[5](/bible/psalms/78#v5)</sup> For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children:
+>
+> <sup>[6](/bible/psalms/78#v6)</sup> That the generation to come might know them, even the children which should be born; who should arise and declare them to their children:
+>
+> <sup>[7](/bible/psalms/78#v7)</sup> That they might set their hope in God, and not forget the works of God, but keep his commandments:
+>
+> <sup>[8](/bible/psalms/78#v8)</sup> And might not be as their fathers, a stubborn and rebellious generation; a generation that set not their heart aright, and whose spirit was not stedfast with God.
 
 **[Proverbs 6:20-26](/bible/proverbs/6#v20)**  *[[1:42:33](https://www.youtube.com/watch?v=prkbCwWAhfs&t=6153s)]*
 
@@ -549,38 +549,6 @@ And a sister's account of what the class had been describing all along:
 
 **[Sirach 3:1-16](/bible/sirach/3#v1)**  *[[1:55:02](https://www.youtube.com/watch?v=prkbCwWAhfs&t=6902s)]*
 
-> <sup>[1](/bible/sirach/3#v1)</sup> Hear me your father, O children, and do thereafter, that ye may be safe.
->
-> <sup>[2](/bible/sirach/3#v2)</sup> For the Lord hath given the father honour over the children, and hath confirmed the authority of the mother over the sons.
->
-> <sup>[3](/bible/sirach/3#v3)</sup> Whoso honoureth his father maketh an atonement for his sins:
->
-> <sup>[4](/bible/sirach/3#v4)</sup> And he that honoureth his mother is as one that layeth up treasure.
->
-> <sup>[5](/bible/sirach/3#v5)</sup> Whoso honoureth his father shall have joy of his own children; and when he maketh his prayer, he shall be heard.
->
-> <sup>[6](/bible/sirach/3#v6)</sup> He that honoureth his father shall have a long life; and he that is obedient unto the Lord shall be a comfort to his mother.
->
-> <sup>[7](/bible/sirach/3#v7)</sup> He that feareth the Lord will honour his father, and will do service unto his parents, as to his masters.
->
-> <sup>[8](/bible/sirach/3#v8)</sup> Honour thy father and mother both in word and deed, that a blessing may come upon thee from them.
->
-> <sup>[9](/bible/sirach/3#v9)</sup> For the blessing of the father establisheth the houses of children; but the curse of the mother rooteth out foundations.
->
-> <sup>[10](/bible/sirach/3#v10)</sup> Glory not in the dishonour of thy father; for thy father’s dishonour is no glory unto thee.
->
-> <sup>[11](/bible/sirach/3#v11)</sup> For the glory of a man is from the honour of his father; and a mother in dishonour is a reproach to the children.
->
-> <sup>[12](/bible/sirach/3#v12)</sup> My son, help thy father in his age, and grieve him not as long as he liveth.
->
-> <sup>[13](/bible/sirach/3#v13)</sup> And if his understanding fail, have patience with him; and despise him not when thou art in thy full strength.
->
-> <sup>[14](/bible/sirach/3#v14)</sup> For the relieving of thy father shall not be forgotten: and instead of sins it shall be added to build thee up.
->
-> <sup>[15](/bible/sirach/3#v15)</sup> In the day of thine affliction it shall be remembered; thy sins also shall melt away, as the ice in the fair warm weather.
->
-> <sup>[16](/bible/sirach/3#v16)</sup> He that forsaketh his father is as a blasphemer; and he that angereth his mother is cursed: of God.
-
 - Hear me your father, O children, and do thereafter, that ye may be safe. We all want our children to be safe — follow the guidelines of what God has laid out for us.
 
 - For the Lord hath given the father honour over the children, and hath confirmed the authority of the mother over the sons. That is some heavy stuff right there.
@@ -609,6 +577,34 @@ And a sister's account of what the class had been describing all along:
 
 - And despise him not when thou art in thy full strength.
 
+> <sup>[1](/bible/sirach/3#v1)</sup> Hear me your father, O children, and do thereafter, that ye may be safe.
+>
+> <sup>[2](/bible/sirach/3#v2)</sup> For the Lord hath given the father honour over the children, and hath confirmed the authority of the mother over the sons.
+>
+> <sup>[3](/bible/sirach/3#v3)</sup> Whoso honoureth his father maketh an atonement for his sins:
+>
+> <sup>[4](/bible/sirach/3#v4)</sup> And he that honoureth his mother is as one that layeth up treasure.
+>
+> <sup>[5](/bible/sirach/3#v5)</sup> Whoso honoureth his father shall have joy of his own children; and when he maketh his prayer, he shall be heard.
+>
+> <sup>[6](/bible/sirach/3#v6)</sup> He that honoureth his father shall have a long life; and he that is obedient unto the Lord shall be a comfort to his mother.
+>
+> <sup>[7](/bible/sirach/3#v7)</sup> He that feareth the Lord will honour his father, and will do service unto his parents, as to his masters.
+>
+> <sup>[8](/bible/sirach/3#v8)</sup> Honour thy father and mother both in word and deed, that a blessing may come upon thee from them.
+>
+> <sup>[9](/bible/sirach/3#v9)</sup> For the blessing of the father establisheth the houses of children; but the curse of the mother rooteth out foundations.
+>
+> <sup>[10](/bible/sirach/3#v10)</sup> Glory not in the dishonour of thy father; for thy father’s dishonour is no glory unto thee.
+>
+> <sup>[11](/bible/sirach/3#v11)</sup> For the glory of a man is from the honour of his father; and a mother in dishonour is a reproach to the children.
+>
+> <sup>[12](/bible/sirach/3#v12)</sup> My son, help thy father in his age, and grieve him not as long as he liveth.
+>
+> <sup>[13](/bible/sirach/3#v13)</sup> And if his understanding fail, have patience with him; and despise him not when thou art in thy full strength.
+>
+> <sup>[14](/bible/sirach/3#v14)</sup> For the relieving of thy father shall not be forgotten: and instead of sins it shall be added to build thee up.
+
 - For the relieving of thy father shall not be forgotten: and instead of sins it shall be added to build thee up. God will not forget that you relieved your father.
 
 - In the day of thine affliction it shall be remembered; thy sins also shall melt away, as the ice in the fair warm weather. Affliction comes to all of us, but in the day of your affliction it shall be remembered what you did for your father, and your sins will be forgiven.
@@ -616,6 +612,10 @@ And a sister's account of what the class had been describing all along:
 - He that forsaketh his father is as a blasphemer; and he that angereth his mother is cursed of God. Now you have got to reflect back on the videos we have been looking at. One girl was beating the crap out of her mama. She is going to pay for that. You do not think the Lord is going to make that daughter pay for that?
 
 - My son, go on with thy business in meekness; so shalt thou be beloved of him that is approved.
+
+> <sup>[15](/bible/sirach/3#v15)</sup> In the day of thine affliction it shall be remembered; thy sins also shall melt away, as the ice in the fair warm weather.
+>
+> <sup>[16](/bible/sirach/3#v16)</sup> He that forsaketh his father is as a blasphemer; and he that angereth his mother is cursed: of God.
 
 **[Sirach 7:27-28](/bible/sirach/7#v27)**  *[[2:02:10](https://www.youtube.com/watch?v=prkbCwWAhfs&t=7330s)]*
 
@@ -629,32 +629,6 @@ And a sister's account of what the class had been describing all along:
 
 **[Sirach 30:1-13](/bible/sirach/30#v1)**  *[[2:02:52](https://www.youtube.com/watch?v=prkbCwWAhfs&t=7372s)]*
 
-> <sup>[1](/bible/sirach/30#v1)</sup> He that loveth his son causeth him oft to feel the rod, that he may have joy of him in the end.
->
-> <sup>[2](/bible/sirach/30#v2)</sup> He that chastiseth his son shall have joy in him, and shall rejoice of him among his acquaintance.
->
-> <sup>[3](/bible/sirach/30#v3)</sup> He that teacheth his son grieveth the enemy: and before his friends he shall rejoice of him.
->
-> <sup>[4](/bible/sirach/30#v4)</sup> Though his father die, yet he is as though he were not dead: for he hath left one behind him that is like himself.
->
-> <sup>[5](/bible/sirach/30#v5)</sup> While he lived, he saw and rejoiced in him: and when he died, he was not sorrowful.
->
-> <sup>[6](/bible/sirach/30#v6)</sup> He left behind him an avenger against his enemies, and one that shall requite kindness to his friends.
->
-> <sup>[7](/bible/sirach/30#v7)</sup> He that maketh too much of his son shall bind up his wounds; and his bowels will be troubled at every cry.
->
-> <sup>[8](/bible/sirach/30#v8)</sup> An horse not broken becometh headstrong: and a child left to himself will be wilful.
->
-> <sup>[9](/bible/sirach/30#v9)</sup> Cocker thy child, and he shall make thee afraid: play with him, and he will bring thee to heaviness.
->
-> <sup>[10](/bible/sirach/30#v10)</sup> Laugh not with him, lest thou have sorrow with him, and lest thou gnash thy teeth in the end.
->
-> <sup>[11](/bible/sirach/30#v11)</sup> Give him no liberty in his youth, and wink not at his follies.
->
-> <sup>[12](/bible/sirach/30#v12)</sup> Bow down his neck while he is young, and beat him on the sides while he is a child, lest he wax stubborn, and be disobedient unto thee, and so bring sorrow to thine heart.
->
-> <sup>[13](/bible/sirach/30#v13)</sup> Chastise thy son, and hold him to labour, lest his lewd behaviour be an offence unto thee.
-
 - He that loveth his son causeth him oft to feel the rod, that he may have joy of him in the end. That is correction. If you love your child, you will correct him. Why? To save his or her life when they get older.
 
 - He that chastiseth his son shall have joy in him, and shall rejoice of him among his acquaintance. Because you are guiding him or her right.
@@ -663,7 +637,17 @@ And a sister's account of what the class had been describing all along:
 
 - And before his friends he shall rejoice of him.
 
+> <sup>[1](/bible/sirach/30#v1)</sup> He that loveth his son causeth him oft to feel the rod, that he may have joy of him in the end.
+>
+> <sup>[2](/bible/sirach/30#v2)</sup> He that chastiseth his son shall have joy in him, and shall rejoice of him among his acquaintance.
+>
+> <sup>[3](/bible/sirach/30#v3)</sup> He that teacheth his son grieveth the enemy: and before his friends he shall rejoice of him.
+>
+> <sup>[4](/bible/sirach/30#v4)</sup> Though his father die, yet he is as though he were not dead: for he hath left one behind him that is like himself.
+
 - Though his father die, yet he is as though he were not dead: for he hath left one behind him that is like himself. That son is to be like you.
+
+> <sup>[5](/bible/sirach/30#v5)</sup> While he lived, he saw and rejoiced in him: and when he died, he was not sorrowful.
 
 - While he lived, he saw and rejoiced in him: and when he died, he was not sorrowful.
 
@@ -671,7 +655,15 @@ And a sister's account of what the class had been describing all along:
 
 - He that maketh too much of his son shall bind up his wounds, and his bowels will be troubled at every cry. Do not make too much of your kids, like they could do no wrong. That is why when men are raising kids and the boy falls off the bike, we do not give a damn — he skins his knee, skins his elbow, we do not care. Let the boy get up and get back on the bike.
 
+> <sup>[6](/bible/sirach/30#v6)</sup> He left behind him an avenger against his enemies, and one that shall requite kindness to his friends.
+>
+> <sup>[7](/bible/sirach/30#v7)</sup> He that maketh too much of his son shall bind up his wounds; and his bowels will be troubled at every cry.
+>
+> <sup>[8](/bible/sirach/30#v8)</sup> An horse not broken becometh headstrong: and a child left to himself will be wilful.
+
 - An horse not broken becometh headstrong: and a child left to himself will be wilful. He is comparing your child to a horse. And the videos we watched today of those out-of-control kids — they became self-willed. Why? Because you let BET raise your kids, you let the internet raise your kids while you are on the phone.
+
+> <sup>[9](/bible/sirach/30#v9)</sup> Cocker thy child, and he shall make thee afraid: play with him, and he will bring thee to heaviness.
 
 - Cocker thy child, and he shall make thee afraid: play with him, and he will bring thee to heaviness. Cocker means to pamper, cuddle, or excessively indulge someone. You make too much of those kids. That child is your idol.
 
@@ -682,6 +674,14 @@ And a sister's account of what the class had been describing all along:
 - Bow down his neck while he is young, and beat him on the sides while he is a child, lest he wax stubborn, and be disobedient unto thee, and so bring sorrow to thine heart. Bow down his neck while he is young. Do not wait till he is fifteen, do not wait till he is eighteen. And the sides is the thigh area.
 
 - Chastise thy son, and hold him to labour, lest his lewd behaviour be an offence unto thee. Lewd means crude, offensive, or open in a sexual way. If you do not hold him to labour, lewdness will set in. That is what God is saying will happen.
+
+> <sup>[10](/bible/sirach/30#v10)</sup> Laugh not with him, lest thou have sorrow with him, and lest thou gnash thy teeth in the end.
+>
+> <sup>[11](/bible/sirach/30#v11)</sup> Give him no liberty in his youth, and wink not at his follies.
+>
+> <sup>[12](/bible/sirach/30#v12)</sup> Bow down his neck while he is young, and beat him on the sides while he is a child, lest he wax stubborn, and be disobedient unto thee, and so bring sorrow to thine heart.
+>
+> <sup>[13](/bible/sirach/30#v13)</sup> Chastise thy son, and hold him to labour, lest his lewd behaviour be an offence unto thee.
 
 **[Psalms 27:10](/bible/psalms/27#v10)**  *[[2:21:14](https://www.youtube.com/watch?v=prkbCwWAhfs&t=8474s)]*
 
@@ -696,22 +696,18 @@ And a sister's account of what the class had been describing all along:
 **[John 8:56-57](/bible/john/8#v56)**  *[[2:23:21](https://www.youtube.com/watch?v=prkbCwWAhfs&t=8601s)]*
 
 > <sup>[56](/bible/john/8#v56)</sup> Your father Abraham rejoiced to see my day: and he saw it, and was glad.
->
-> <sup>[57](/bible/john/8#v57)</sup> Then said the Jews unto him, Thou art not yet fifty years old, and hast thou seen Abraham?
 
 - Your father Abraham rejoiced to see my day: and he saw it, and was glad. That is a heavy sentence right there. You may ask when — that is for another class.
 
 - Then said the Jews unto him, Thou art not yet fifty years old, and hast thou seen Abraham? This is what I want you to hear. They are telling Christ, you are not even an elder yet. Why? Because Christ was thirty.
+
+> <sup>[57](/bible/john/8#v57)</sup> Then said the Jews unto him, Thou art not yet fifty years old, and hast thou seen Abraham?
 
 **[Numbers 8:23-26](/bible/numbers/8#v23)**  *[[2:24:59](https://www.youtube.com/watch?v=prkbCwWAhfs&t=8699s)]*
 
 > <sup>[23](/bible/numbers/8#v23)</sup> And the Lord spake unto Moses, saying,
 >
 > <sup>[24](/bible/numbers/8#v24)</sup> This is it that belongeth unto the Levites: from twenty and five years old and upward they shall go in to wait upon the service of the tabernacle of the congregation:
->
-> <sup>[25](/bible/numbers/8#v25)</sup> And from the age of fifty years they shall cease waiting upon the service thereof, and shall serve no more:
->
-> <sup>[26](/bible/numbers/8#v26)</sup> But shall minister with their brethren in the tabernacle of the congregation, to keep the charge, and shall do no service. Thus shalt thou do unto the Levites touching their charge.
 
 - And the Lord spake unto Moses, saying, This is it that belongeth unto the Levites: from twenty and five years old and upward they shall go in to wait upon the service of the tabernacle of the congregation.
 
@@ -720,6 +716,10 @@ And a sister's account of what the class had been describing all along:
 - But shall minister with their brethren in the tabernacle of the congregation, to keep the charge, and shall do no service. So at fifty, what will they do? Minister with their brethren — in terms of teaching. No physical labour.
 
 - Thus shalt thou do unto the Levites touching their charge.
+
+> <sup>[25](/bible/numbers/8#v25)</sup> And from the age of fifty years they shall cease waiting upon the service thereof, and shall serve no more:
+>
+> <sup>[26](/bible/numbers/8#v26)</sup> But shall minister with their brethren in the tabernacle of the congregation, to keep the charge, and shall do no service. Thus shalt thou do unto the Levites touching their charge.
 
 **[Luke 3:23](/bible/luke/3#v23)**  *[[2:25:56](https://www.youtube.com/watch?v=prkbCwWAhfs&t=8756s)]*
 
@@ -857,15 +857,15 @@ And a sister's account of what the class had been describing all along:
 
 **[Zechariah 13:1-3](/bible/zechariah/13#v1)**  *[[2:41:34](https://www.youtube.com/watch?v=prkbCwWAhfs&t=9694s)]*
 
+- In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness. That fountain is Christ, cleansing us with the word of God — that is what the water is. And it is only for the inhabitants of Jerusalem and the house of David. It is not for all nations on the earth.
+
 > <sup>[1](/bible/zechariah/13#v1)</sup> In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness.
 >
 > <sup>[2](/bible/zechariah/13#v2)</sup> And it shall come to pass in that day, saith the Lord of hosts, that I will cut off the names of the idols out of the land, and they shall no more be remembered: and also I will cause the prophets and the unclean spirit to pass out of the land.
->
-> <sup>[3](/bible/zechariah/13#v3)</sup> And it shall come to pass, that when any shall yet prophesy, then his father and his mother that begat him shall say unto him, Thou shalt not live; for thou speakest lies in the name of the Lord: and his father and his mother that begat him shall thrust him through when he prophesieth.
-
-- In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness. That fountain is Christ, cleansing us with the word of God — that is what the water is. And it is only for the inhabitants of Jerusalem and the house of David. It is not for all nations on the earth.
 
 - And it shall come to pass in that day, saith the Lord of hosts, that I will cut off the names of the idols out of the land, and they shall no more be remembered: and also I will cause the prophets and the unclean spirit to pass out of the land. Christmas, Kwanzaa, New Year's Eve, white Jesus — all of that is going to be cleansed out of the land.
+
+> <sup>[3](/bible/zechariah/13#v3)</sup> And it shall come to pass, that when any shall yet prophesy, then his father and his mother that begat him shall say unto him, Thou shalt not live; for thou speakest lies in the name of the Lord: and his father and his mother that begat him shall thrust him through when he prophesieth.
 
 - And it shall come to pass, that when any shall yet prophesy, then his father and his mother that begat him shall say unto him, Thou shalt not live; for thou speakest lies in the name of the Lord: and his father and his mother that begat him shall thrust him through when he prophesieth.
 
@@ -883,15 +883,15 @@ And a sister's account of what the class had been describing all along:
 
 **[Psalms 112:1-3](/bible/psalms/112#v1)**  *[[2:44:53](https://www.youtube.com/watch?v=prkbCwWAhfs&t=9893s)]*
 
+- Praise ye the Lord. Blessed is the man that feareth the Lord, that delighteth greatly in his commandments.
+
 > <sup>[1](/bible/psalms/112#v1)</sup> Praise ye the Lord. Blessed is the man that feareth the Lord, that delighteth greatly in his commandments.
 >
 > <sup>[2](/bible/psalms/112#v2)</sup> His seed shall be mighty upon earth: the generation of the upright shall be blessed.
->
-> <sup>[3](/bible/psalms/112#v3)</sup> Wealth and riches shall be in his house: and his righteousness endureth for ever.
-
-- Praise ye the Lord. Blessed is the man that feareth the Lord, that delighteth greatly in his commandments.
 
 - His seed shall be mighty upon earth: the generation of the upright shall be blessed. His seed — his children, his offspring — shall be mighty upon earth.
+
+> <sup>[3](/bible/psalms/112#v3)</sup> Wealth and riches shall be in his house: and his righteousness endureth for ever.
 
 - Wealth and riches shall be in his house: and his righteousness endureth for ever.
 
@@ -903,43 +903,25 @@ And a sister's account of what the class had been describing all along:
 
 **[Isaiah 65:20-23](/bible/isaiah/65#v20)**  *[[2:46:36](https://www.youtube.com/watch?v=prkbCwWAhfs&t=9996s)]*
 
-> <sup>[20](/bible/isaiah/65#v20)</sup> There shall be no more thence an infant of days, nor an old man that hath not filled his days: for the child shall die an hundred years old; but the sinner being an hundred years old shall be accursed.
->
-> <sup>[21](/bible/isaiah/65#v21)</sup> And they shall build houses, and inhabit them; and they shall plant vineyards, and eat the fruit of them.
->
-> <sup>[22](/bible/isaiah/65#v22)</sup> They shall not build, and another inhabit; they shall not plant, and another eat: for as the days of a tree are the days of my people, and mine elect shall long enjoy the work of their hands.
->
-> <sup>[23](/bible/isaiah/65#v23)</sup> They shall not labour in vain, nor bring forth for trouble; for they are the seed of the blessed of the Lord, and their offspring with them.
-
 - There shall be no more thence an infant of days, nor an old man that hath not filled his days. No children are going to die at an early age, and there will not be an old man that has not seen his children's children.
 
 - For the child shall die an hundred years old; but the sinner being an hundred years old shall be accursed. The sinner of the other nations.
 
 - And they shall build houses, and inhabit them; and they shall plant vineyards, and eat the fruit of them.
 
+> <sup>[20](/bible/isaiah/65#v20)</sup> There shall be no more thence an infant of days, nor an old man that hath not filled his days: for the child shall die an hundred years old; but the sinner being an hundred years old shall be accursed.
+>
+> <sup>[21](/bible/isaiah/65#v21)</sup> And they shall build houses, and inhabit them; and they shall plant vineyards, and eat the fruit of them.
+>
+> <sup>[22](/bible/isaiah/65#v22)</sup> They shall not build, and another inhabit; they shall not plant, and another eat: for as the days of a tree are the days of my people, and mine elect shall long enjoy the work of their hands.
+
 - They shall not build, and another inhabit; they shall not plant, and another eat: for as the days of a tree are the days of my people, and mine elect shall long enjoy the work of their hands. During the time of slavery we used to build and other people would live in the homes we built. And not just slavery — during the days of Jim Crow, with Rosewood and Tulsa, we had homes and houses. What happened when they killed us or ran us out of town? They took our homes and houses, took our property deeds, made new ones.
 
 - They shall not labour in vain, nor bring forth for trouble; for they are the seed of the blessed of the Lord, and their offspring with them. We are the seed of the blessed of the Lord, and our children with us.
 
-**[Isaiah 61:1-9](/bible/isaiah/61#v1)**  *[[2:47:59](https://www.youtube.com/watch?v=prkbCwWAhfs&t=10079s)]*
+> <sup>[23](/bible/isaiah/65#v23)</sup> They shall not labour in vain, nor bring forth for trouble; for they are the seed of the blessed of the Lord, and their offspring with them.
 
-> <sup>[1](/bible/isaiah/61#v1)</sup> The Spirit of the Lord God is upon me; because the Lord hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;
->
-> <sup>[2](/bible/isaiah/61#v2)</sup> To proclaim the acceptable year of the Lord, and the day of vengeance of our God; to comfort all that mourn;
->
-> <sup>[3](/bible/isaiah/61#v3)</sup> To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the Lord, that he might be glorified.
->
-> <sup>[4](/bible/isaiah/61#v4)</sup> And they shall build the old wastes, they shall raise up the former desolations, and they shall repair the waste cities, the desolations of many generations.
->
-> <sup>[5](/bible/isaiah/61#v5)</sup> And strangers shall stand and feed your flocks, and the sons of the alien shall be your plowmen and your vinedressers.
->
-> <sup>[6](/bible/isaiah/61#v6)</sup> But ye shall be named the Priests of the Lord: men shall call you the Ministers of our God: ye shall eat the riches of the Gentiles, and in their glory shall ye boast yourselves.
->
-> <sup>[7](/bible/isaiah/61#v7)</sup> For your shame ye shall have double; and for confusion they shall rejoice in their portion: therefore in their land they shall possess the double: everlasting joy shall be unto them.
->
-> <sup>[8](/bible/isaiah/61#v8)</sup> For I the Lord love judgment, I hate robbery for burnt offering; and I will direct their work in truth, and I will make an everlasting covenant with them.
->
-> <sup>[9](/bible/isaiah/61#v9)</sup> And their seed shall be known among the Gentiles, and their offspring among the people: all that see them shall acknowledge them, that they are the seed which the Lord hath blessed.
+**[Isaiah 61:1-9](/bible/isaiah/61#v1)**  *[[2:47:59](https://www.youtube.com/watch?v=prkbCwWAhfs&t=10079s)]*
 
 - The Spirit of the Lord God is upon me; because the Lord hath anointed me to preach good tidings unto the meek. Now verse one deals with Christ first and foremost, and then it comes upon us.
 
@@ -953,11 +935,29 @@ And a sister's account of what the class had been describing all along:
 
 - And strangers shall stand and feed your flocks, and the sons of the alien shall be your plowmen and your vinedressers. That is how we shall rebuild these lands and places.
 
+> <sup>[1](/bible/isaiah/61#v1)</sup> The Spirit of the Lord God is upon me; because the Lord hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;
+>
+> <sup>[2](/bible/isaiah/61#v2)</sup> To proclaim the acceptable year of the Lord, and the day of vengeance of our God; to comfort all that mourn;
+>
+> <sup>[3](/bible/isaiah/61#v3)</sup> To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the Lord, that he might be glorified.
+>
+> <sup>[4](/bible/isaiah/61#v4)</sup> And they shall build the old wastes, they shall raise up the former desolations, and they shall repair the waste cities, the desolations of many generations.
+>
+> <sup>[5](/bible/isaiah/61#v5)</sup> And strangers shall stand and feed your flocks, and the sons of the alien shall be your plowmen and your vinedressers.
+>
+> <sup>[6](/bible/isaiah/61#v6)</sup> But ye shall be named the Priests of the Lord: men shall call you the Ministers of our God: ye shall eat the riches of the Gentiles, and in their glory shall ye boast yourselves.
+
 - But ye shall be named the Priests of the Lord: men shall call you the Ministers of our God: ye shall eat the riches of the Gentiles, and in their glory shall ye boast yourselves. We are going to eat all the wealth that they stole, we are going to take it back. And in the wealth that they stole we shall boast ourselves. There is going to be no do not brag — we are going to brag till the sun rises and the sun goes down. We are going to brag like there has never been bragging before.
+
+> <sup>[7](/bible/isaiah/61#v7)</sup> For your shame ye shall have double; and for confusion they shall rejoice in their portion: therefore in their land they shall possess the double: everlasting joy shall be unto them.
 
 - For your shame ye shall have double; and for confusion they shall rejoice in their portion: therefore in their land they shall possess the double: everlasting joy shall be unto them. For the shame we received here, we shall have double.
 
 - For I the Lord love judgment, I hate robbery for burnt offering; and I will direct their work in truth, and I will make an everlasting covenant with them.
+
+> <sup>[8](/bible/isaiah/61#v8)</sup> For I the Lord love judgment, I hate robbery for burnt offering; and I will direct their work in truth, and I will make an everlasting covenant with them.
+>
+> <sup>[9](/bible/isaiah/61#v9)</sup> And their seed shall be known among the Gentiles, and their offspring among the people: all that see them shall acknowledge them, that they are the seed which the Lord hath blessed.
 
 - And their seed shall be known among the Gentiles, and their offspring among the people: all that see them shall acknowledge them, that they are the seed which the Lord hath blessed. All the Gentiles are going to know our children by name. Imagine the nations bowing when your children walk down the street, and moving out of their way. That is what we are going to get.
 
@@ -977,25 +977,15 @@ And a sister's account of what the class had been describing all along:
 
 **[1 Corinthians 11:23-30](/bible/1-corinthians/11#v23)**  *[[3:31:17](https://www.youtube.com/watch?v=prkbCwWAhfs&t=12677s)]*
 
+- For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread.
+
 > <sup>[23](/bible/1-corinthians/11#v23)</sup> For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread:
 >
 > <sup>[24](/bible/1-corinthians/11#v24)</sup> And when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me.
->
-> <sup>[25](/bible/1-corinthians/11#v25)</sup> After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me.
->
-> <sup>[26](/bible/1-corinthians/11#v26)</sup> For as often as ye eat this bread, and drink this cup, ye do shew the Lord’s death till he come.
->
-> <sup>[27](/bible/1-corinthians/11#v27)</sup> Wherefore whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord.
->
-> <sup>[28](/bible/1-corinthians/11#v28)</sup> But let a man examine himself, and so let him eat of that bread, and drink of that cup.
->
-> <sup>[29](/bible/1-corinthians/11#v29)</sup> For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord’s body.
->
-> <sup>[30](/bible/1-corinthians/11#v30)</sup> For this cause many are weak and sickly among you, and many sleep.
-
-- For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread.
 
 - And when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me.
+
+> <sup>[25](/bible/1-corinthians/11#v25)</sup> After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me.
 
 - After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me.
 
@@ -1008,6 +998,16 @@ And a sister's account of what the class had been describing all along:
 - For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord's body.
 
 - For this cause many are weak and sickly among you, and many sleep.
+
+> <sup>[26](/bible/1-corinthians/11#v26)</sup> For as often as ye eat this bread, and drink this cup, ye do shew the Lord’s death till he come.
+>
+> <sup>[27](/bible/1-corinthians/11#v27)</sup> Wherefore whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord.
+>
+> <sup>[28](/bible/1-corinthians/11#v28)</sup> But let a man examine himself, and so let him eat of that bread, and drink of that cup.
+>
+> <sup>[29](/bible/1-corinthians/11#v29)</sup> For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord’s body.
+>
+> <sup>[30](/bible/1-corinthians/11#v30)</sup> For this cause many are weak and sickly among you, and many sleep.
 
 ## In Closing
 

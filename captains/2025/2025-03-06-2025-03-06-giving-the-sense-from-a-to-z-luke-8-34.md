@@ -36,20 +36,20 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "health", "satan"]
 **[Luke 8:26-29](/bible/luke/8#v26)**  *[[2:23](https://www.youtube.com/watch?v=D2K5H4RI09E&t=143s)]*
 
 > <sup>[26](/bible/luke/8#v26)</sup> And they arrived at the country of the Gadarenes, which is over against Galilee.
->
-> <sup>[27](/bible/luke/8#v27)</sup> And when he went forth to land, there met him out of the city a certain man, which had devils long time, and ware no clothes, neither abode in any house, but in the tombs.
->
-> <sup>[28](/bible/luke/8#v28)</sup> When he saw Jesus, he cried out, and fell down before him, and with a loud voice said, What have I to do with thee, Jesus, thou Son of God most high? I beseech thee, torment me not.
->
-> <sup>[29](/bible/luke/8#v29)</sup> (For he had commanded the unclean spirit to come out of the man. For oftentimes it had caught him: and he was kept bound with chains and in fetters; and he brake the bands, and was driven of the devil into the wilderness.)
 
 - And they arrived at the country of the Gadarenes, which is over against Galilee: So this is across the sea of Galilee. So Christ may depart from Capernaum. I'm not really sure, but he sailed across the sea of Galilee. We know that.
+
+> <sup>[27](/bible/luke/8#v27)</sup> And when he went forth to land, there met him out of the city a certain man, which had devils long time, and ware no clothes, neither abode in any house, but in the tombs.
 
 - There met him out of the city a certain man which had devils long time: This man was possessed with devils for a long time.
 
 - Neither abode in any house, but in the tombs: So he was living out in the streets. You see people like that here in Babylon. They live under a bridge. You understand? They live on the train tracks. Just possessed with many spirits.
 
+> <sup>[28](/bible/luke/8#v28)</sup> When he saw Jesus, he cried out, and fell down before him, and with a loud voice said, What have I to do with thee, Jesus, thou Son of God most high? I beseech thee, torment me not.
+
 - I beseech thee, torment me not: But the devils understand what's going to happen in the latter days or the end times where they going to be destroyed, man. They thought Christ was there to destroy him right then and there.
+
+> <sup>[29](/bible/luke/8#v29)</sup> (For he had commanded the unclean spirit to come out of the man. For oftentimes it had caught him: and he was kept bound with chains and in fetters; and he brake the bands, and was driven of the devil into the wilderness.)
 
 - And he was kept bound with chains and in fetters: So, that part where it says he was kept bound with chains and in fetters. Now, we know that was physical, but I'mma show you something because when you look at it today, many of us are bound with chains and fetters, but we're bound with sin. Understand that, we're bound with sin.
 
@@ -58,27 +58,27 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "health", "satan"]
 
 **[2 Esdras 16:75-78](/bible/2-esdras/16#v75)**  *[[4:28](https://www.youtube.com/watch?v=D2K5H4RI09E&t=268s)]*
 
-> <sup>[75](/bible/2-esdras/16#v75)</sup> Be ye not afraid, neither doubt; for God is your guide,
->
-> <sup>[76](/bible/2-esdras/16#v76)</sup> And the guide of them who keep my commandments and precepts, saith the Lord God: let not your sins weigh you down, and let not your iniquities lift up themselves.
->
-> <sup>[77](/bible/2-esdras/16#v77)</sup> Woe be unto them that are bound with their sins, and covered with their iniquities, like as a field is covered over with bushes, and the path thereof covered with thorns, that no man may travel through!
->
-> <sup>[78](/bible/2-esdras/16#v78)</sup> It is left undressed, and is cast into the fire to be consumed therewith.
-
 - Be you not afraid, neither doubt: So, we can't doubt what the scriptures say.
 
 - For God is your God: God is what? Is your God. God is our God. We're not worried about the philosophies of men. People coming in scoffing against the scriptures, scoffing against the 12 tribes of Israel. We're not worried about that.
 
+> <sup>[75](/bible/2-esdras/16#v75)</sup> Be ye not afraid, neither doubt; for God is your guide,
+>
+> <sup>[76](/bible/2-esdras/16#v76)</sup> And the guide of them who keep my commandments and precepts, saith the Lord God: let not your sins weigh you down, and let not your iniquities lift up themselves.
+
 - And the guide of them who keep my commandments: He's the what? The guide of them who keep my commandments. You're talking about the commandments is done away with, you're not being guided by God, you're being guided by Satan.
 
 - Let not your sins weigh you down: Hold on, let not your what? Let not your sins weigh you down. Let not your sins weigh you down.
+
+> <sup>[77](/bible/2-esdras/16#v77)</sup> Woe be unto them that are bound with their sins, and covered with their iniquities, like as a field is covered over with bushes, and the path thereof covered with thorns, that no man may travel through!
 
 - Woe be unto them that are bound with their sins: Hold on, hold on, woe be unto them that are what? That are bound with their sins. So, you're looking at the brother that was bound, chained, with demons on them. Many of us are like that today, but we're spiritually bound by what? Sin. Understand that, we have been bound by sin cuz guess what? We've been brought up here in gross darkness, but keep reading.
 
 - And covered with their iniquities: And covered with their iniquity.
 
 - Like as a field is covered over with bushes, and the path thereof covered with thorns, that no man may travel through: So, you can get so bound with your sins, it'll be like you trying to cross a field that's overgrown with thorns and thistles. We've all seen that. You can't cut through no thorns and thistles to get to the park. That's how it is when you're bound by your sins. That's why that man was driven away into the wilderness. You become the wilderness surrounded by thorns and thistles that no man can reach if you're bound by your sins.
+
+> <sup>[78](/bible/2-esdras/16#v78)</sup> It is left undressed, and is cast into the fire to be consumed therewith.
 
 - It is left undressed, and is cast into the fire to be consumed therewith: Damn, so that's some heavy stuff right there.
 
@@ -108,10 +108,6 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "health", "satan"]
 **[2 Timothy 2:24-26](/bible/2-timothy/2#v24)**  *[[7:59](https://www.youtube.com/watch?v=D2K5H4RI09E&t=479s)]*
 
 > <sup>[24](/bible/2-timothy/2#v24)</sup> And the servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient,
->
-> <sup>[25](/bible/2-timothy/2#v25)</sup> In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth;
->
-> <sup>[26](/bible/2-timothy/2#v26)</sup> And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will.
 
 - And the servant of the Lord must not strive: That's why we don't go back and forth debating people. They want to debate IUIC and all that. The servant of the Lord, we're not going to strive with you, man.
 
@@ -121,11 +117,15 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "health", "satan"]
 
 - Patient: Because we got to be patient with ourselves and with our brothers and sisters in this walk.
 
+> <sup>[25](/bible/2-timothy/2#v25)</sup> In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth;
+
 - In meekness, instructing those that oppose themselves: So, when you see us out there on the streets, when you hear us on the clubhouse, when you see us on the radio, we're instructing brothers and sisters in meekness, meaning obedience to God, to you that are in opposition to your own self.
 
 - If God peradventure will give them repentance: So, if God is the one that gives repentance.
 
 - To the acknowledging of the truth: Hold on, to the acknowledging of the what? Of the truth. So, the Lord is the one that opens up your eyes to the laws, statutes, and commandments that set you free from your sins.
+
+> <sup>[26](/bible/2-timothy/2#v26)</sup> And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will.
 
 - And that they may recover themselves: Hold on, that they may do what? Recover themselves.
 
@@ -163,12 +163,12 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "health", "satan"]
 > <sup>[30](/bible/luke/8#v30)</sup> And Jesus asked him, saying, What is thy name? And he said, Legion: because many devils were entered into him.
 >
 > <sup>[31](/bible/luke/8#v31)</sup> And they besought him that he would not command them to go out into the deep.
->
+
+- And they besought him that he would not command them to go out into the deep: Meaning utter destruction.
+
 > <sup>[32](/bible/luke/8#v32)</sup> And there was there an herd of many swine feeding on the mountain: and they besought him that he would suffer them to enter into them. And he suffered them.
 >
 > <sup>[33](/bible/luke/8#v33)</sup> Then went the devils out of the man, and entered into the swine: and the herd ran violently down a steep place into the lake, and were choked.
-
-- And they besought him that he would not command them to go out into the deep: Meaning utter destruction.
 
 - And the herd ran violently down a steep place into the lake, and were choked: So, even though them evil spirits, I'mma show you something. You look at this thing from a spiritual standpoint, right? This evil spirits didn't want to get judged before their time. So, they said, "Hey, cast us into the swine." A unclean beast. What happened to the swine? It ran down the hill and was drowned. Meaning what? They going to be destroyed in the end regardless.
 
@@ -177,15 +177,13 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "health", "satan"]
 
 **[Isaiah 60:1-3](/bible/isaiah/60#v1)**  *[[13:02](https://www.youtube.com/watch?v=D2K5H4RI09E&t=782s)]*
 
-> <sup>[1](/bible/isaiah/60#v1)</sup> Arise, shine; for thy light is come, and the glory of the Lord is risen upon thee.
->
-> <sup>[2](/bible/isaiah/60#v2)</sup> For, behold, the darkness shall cover the earth, and gross darkness the people: but the Lord shall arise upon thee, and his glory shall be seen upon thee.
->
-> <sup>[3](/bible/isaiah/60#v3)</sup> And the Gentiles shall come to thy light, and kings to the brightness of thy rising.
-
 - Give me Isaiah 61. Cuz this is what Christ came to do. So, he delivered that man from that. This is what he came to do. Matter of fact, give me 60, because when he went over there to the other side of Galilee, those were considered Gentiles, right? But not those of another nation.
 
+> <sup>[1](/bible/isaiah/60#v1)</sup> Arise, shine; for thy light is come, and the glory of the Lord is risen upon thee.
+
 - Arise, shine, for thy light is come, and the glory of the Lord is risen upon thee: That's what's going on in these latter days. The glory of the Lord is risen upon the teachers that he set up in these last days. Understand, to get us out of the Gentile state of mind.
+
+> <sup>[2](/bible/isaiah/60#v2)</sup> For, behold, the darkness shall cover the earth, and gross darkness the people: but the Lord shall arise upon thee, and his glory shall be seen upon thee.
 
 - For behold, the darkness shall cover the earth: So, the darkness shall cover the earth, but watch this.
 
@@ -194,6 +192,8 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "health", "satan"]
 - But the Lord shall arise upon thee: But what? The Lord shall arise upon thee. So, the Lord has risen upon us.
 
 - And his glory shall be seen upon thee: Meaning what? That's the city on the hill that can't be hid.
+
+> <sup>[3](/bible/isaiah/60#v3)</sup> And the Gentiles shall come to thy light, and kings to the brightness of thy rising.
 
 - And the Gentiles shall come to thy light: The Gentiles, all of us are in the... We're in the Gentile state of mind. Some of us still are. Some of us have repented. We coming out of the Gentile state of mind. Understand if you are black, Hispanic, and Native American, those are Gentile titles. Those aren't the titles of the sons of the living God.
 
@@ -218,7 +218,13 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "health", "satan"]
 > <sup>[34](/bible/luke/8#v34)</sup> When they that fed them saw what was done, they fled, and went and told it in the city and in the country.
 >
 > <sup>[35](/bible/luke/8#v35)</sup> Then they went out to see what was done; and came to Jesus, and found the man, out of whom the devils were departed, sitting at the feet of Jesus, clothed, and in his right mind: and they were afraid.
->
+
+- Sitting at the feet of Jesus, clothed, and in his right mind: He healed the broken-hearted man. He is clothed in his right mind.
+
+- Return to thy own house: So he told the man to go back to your own house that you weren't staying in because you was bound by them demons.
+
+- And show how great things God hath done unto thee: You see that? That's that light unto the Gentiles. They seen Christ working there. Like this man was healed. He was so bound by demons, he was driven out in the wilderness, man. Bound with chains.
+
 > <sup>[36](/bible/luke/8#v36)</sup> They also which saw it told them by what means he that was possessed of the devils was healed.
 >
 > <sup>[37](/bible/luke/8#v37)</sup> Then the whole multitude of the country of the Gadarenes round about besought him to depart from them; for they were taken with great fear: and he went up into the ship, and returned back again.
@@ -227,30 +233,20 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "health", "satan"]
 >
 > <sup>[39](/bible/luke/8#v39)</sup> Return to thine own house, and shew how great things God hath done unto thee. And he went his way, and published throughout the whole city how great things Jesus had done unto him.
 
-- Sitting at the feet of Jesus, clothed, and in his right mind: He healed the broken-hearted man. He is clothed in his right mind.
-
-- Return to thy own house: So he told the man to go back to your own house that you weren't staying in because you was bound by them demons.
-
-- And show how great things God hath done unto thee: You see that? That's that light unto the Gentiles. They seen Christ working there. Like this man was healed. He was so bound by demons, he was driven out in the wilderness, man. Bound with chains.
-
 - And published throughout the whole city how great things Jesus had done unto him: That's the good tidings. That was the good tidings. They seen that, said, "Man, this dude has spirits on him, but this man that they call Jesus delivered him from them demons."
 
 
 **[Luke 8:40-44](/bible/luke/8#v40)**  *[[18:19](https://www.youtube.com/watch?v=D2K5H4RI09E&t=1099s)]*
 
 > <sup>[40](/bible/luke/8#v40)</sup> And it came to pass, that, when Jesus was returned, the people gladly received him: for they were all waiting for him.
->
-> <sup>[41](/bible/luke/8#v41)</sup> And, behold, there came a man named Jairus, and he was a ruler of the synagogue: and he fell down at Jesus’ feet, and besought him that he would come into his house:
->
-> <sup>[42](/bible/luke/8#v42)</sup> For he had one only daughter, about twelve years of age, and she lay a dying. But as he went the people thronged him.
->
-> <sup>[43](/bible/luke/8#v43)</sup> And a woman having an issue of blood twelve years, which had spent all her living upon physicians, neither could be healed of any,
->
-> <sup>[44](/bible/luke/8#v44)</sup> Came behind him, and touched the border of his garment: and immediately her issue of blood stanched.
 
 - And it came to pass that when Jesus was returned, the people gladly received him: So he made a return. More than likely he returned back to Capernaum, and the people gladly received Christ.
 
+> <sup>[41](/bible/luke/8#v41)</sup> And, behold, there came a man named Jairus, and he was a ruler of the synagogue: and he fell down at Jesus’ feet, and besought him that he would come into his house:
+
 - And behold, there came a man named Jairus, and he was a ruler of the synagogue: So Jairus was a ruler of the synagogue.
+
+> <sup>[42](/bible/luke/8#v42)</sup> For he had one only daughter, about twelve years of age, and she lay a dying. But as he went the people thronged him.
 
 - For he had one only daughter: So he had one only daughter. This man faith, he knew who Christ was. He knew that Christ came to heal the brokenhearted, to bind up those that are bruised.
 
@@ -258,9 +254,13 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "health", "satan"]
 
 - And a woman having an issue of blood 12 years: So, a sister that had an issue of blood for 12 years, man. That's a long time.
 
+> <sup>[43](/bible/luke/8#v43)</sup> And a woman having an issue of blood twelve years, which had spent all her living upon physicians, neither could be healed of any,
+
 - Which had spent all her living upon physicians: That's much like today. Many of us are afflicted with various illnesses that you spend all your money trying to figure out what's going on.
 
 - Neither could be healed of any: And neither because guess what? The healing come from the Lord.
+
+> <sup>[44](/bible/luke/8#v44)</sup> Came behind him, and touched the border of his garment: and immediately her issue of blood stanched.
 
 - Came behind him and touched the border of his garment: Did what? Touched the border of his garment. She touched the border of his garment. So, now you might be wondering what is that talking about. We going to give you the border.
 
@@ -268,8 +268,6 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "health", "satan"]
 **[Numbers 15:38-39](/bible/numbers/15#v38)**  *[[19:48](https://www.youtube.com/watch?v=D2K5H4RI09E&t=1188s)]*
 
 > <sup>[38](/bible/numbers/15#v38)</sup> Speak unto the children of Israel, and bid them that they make them fringes in the borders of their garments throughout their generations, and that they put upon the fringe of the borders a ribband of blue:
->
-> <sup>[39](/bible/numbers/15#v39)</sup> And it shall be unto you for a fringe, that ye may look upon it, and remember all the commandments of the Lord, and do them; and that ye seek not after your own heart and your own eyes, after which ye use to go a whoring:
 
 - Speak unto the children of Israel, and bid them that they make them fringes in the borders of their garments throughout their generations: Throughout their generations.
 
@@ -281,20 +279,22 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "health", "satan"]
 
 - And your own eyes, after which he used to go a-whoring: Which we do what? Meaning what? We lust upon things with our eyes and get ourselves in a unnecessary trouble because of our covetousness. An evil nature.
 
+> <sup>[39](/bible/numbers/15#v39)</sup> And it shall be unto you for a fringe, that ye may look upon it, and remember all the commandments of the Lord, and do them; and that ye seek not after your own heart and your own eyes, after which ye use to go a whoring:
+
 
 **[Luke 8:44-46](/bible/luke/8#v44)**  *[[21:19](https://www.youtube.com/watch?v=D2K5H4RI09E&t=1279s)]*
 
 > <sup>[44](/bible/luke/8#v44)</sup> Came behind him, and touched the border of his garment: and immediately her issue of blood stanched.
->
-> <sup>[45](/bible/luke/8#v45)</sup> And Jesus said, Who touched me? When all denied, Peter and they that were with him said, Master, the multitude throng thee and press thee, and sayest thou, Who touched me?
->
-> <sup>[46](/bible/luke/8#v46)</sup> And Jesus said, Somebody hath touched me: for I perceive that virtue is gone out of me.
 
 - Came behind him and touched the border of his garment: So we read what the border is. We read in Numbers 15:28. It's also in Deuteronomy 22 and 12, I believe.
 
 - And immediately her issue of blood stanched: Immediately that thing stopped. That's the power.
 
 - Peter and they that were with him said, Master, the multitude thronged thee and pressed thee: He like, "Come on, man. Christ, we getting surrounded. Everybody touching you." But Christ said, "Nah, one particular touch that touched the border of his garment." They shouldn't even touch his body. She touched the border of his garment.
+
+> <sup>[45](/bible/luke/8#v45)</sup> And Jesus said, Who touched me? When all denied, Peter and they that were with him said, Master, the multitude throng thee and press thee, and sayest thou, Who touched me?
+>
+> <sup>[46](/bible/luke/8#v46)</sup> And Jesus said, Somebody hath touched me: for I perceive that virtue is gone out of me.
 
 - For I perceive that virtue is gone out of me: Oh, he said I perceive that what? That virtue is gone out of me. I'mma show you what this virtue is cuz this go to same thing when you read Romans chapter 1.
 
@@ -332,12 +332,12 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "health", "satan"]
 **[Luke 8:46-48](/bible/luke/8#v46)**  *[[25:27](https://www.youtube.com/watch?v=D2K5H4RI09E&t=1527s)]*
 
 > <sup>[46](/bible/luke/8#v46)</sup> And Jesus said, Somebody hath touched me: for I perceive that virtue is gone out of me.
->
+
+- For I perceive that virtue is gone out of me: His power.
+
 > <sup>[47](/bible/luke/8#v47)</sup> And when the woman saw that she was not hid, she came trembling, and falling down before him, she declared unto him before all the people for what cause she had touched him, and how she was healed immediately.
 >
 > <sup>[48](/bible/luke/8#v48)</sup> And he said unto her, Daughter, be of good comfort: thy faith hath made thee whole; go in peace.
-
-- For I perceive that virtue is gone out of me: His power.
 
 - Thy faith hath made thee whole: Thy faith has made thee whole. We got to put all our faith and trust in the scriptures.
 
@@ -391,14 +391,10 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "health", "satan"]
 > <sup>[48](/bible/luke/8#v48)</sup> And he said unto her, Daughter, be of good comfort: thy faith hath made thee whole; go in peace.
 >
 > <sup>[49](/bible/luke/8#v49)</sup> While he yet spake, there cometh one from the ruler of the synagogue’s house, saying to him, Thy daughter is dead; trouble not the Master.
->
-> <sup>[50](/bible/luke/8#v50)</sup> But when Jesus heard it, he answered him, saying, Fear not: believe only, and she shall be made whole.
->
-> <sup>[51](/bible/luke/8#v51)</sup> And when he came into the house, he suffered no man to go in, save Peter, and James, and John, and the father and the mother of the maiden.
->
-> <sup>[52](/bible/luke/8#v52)</sup> And all wept, and bewailed her: but he said, Weep not; she is not dead, but sleepeth.
 
 - Thy daughter is dead: So remember verse 41, his daughter was sick, now she done died. Understand what's going on here. Christ couldn't get there because he was surrounded by the multitude, so a messenger came and said, "Yo, the little girl has died."
+
+> <sup>[50](/bible/luke/8#v50)</sup> But when Jesus heard it, he answered him, saying, Fear not: believe only, and she shall be made whole.
 
 - Trouble not the master. But when Jesus heard it, he answered him saying, Fear not: Hold on. Christ heard it cuz they knew Christ was the master. Cuz they was like, "Dad, go on. Leave him alone. She passed." They didn't think that Christ could heal her.
 
@@ -408,7 +404,11 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "health", "satan"]
 
 - Fear not. Believe only. And she shall be made whole: You see that he said, "Fear not. Believe only. And she shall be made whole."
 
+> <sup>[51](/bible/luke/8#v51)</sup> And when he came into the house, he suffered no man to go in, save Peter, and James, and John, and the father and the mother of the maiden.
+
 - And when he came into the house, he suffered no man to go in: So when he came in, he didn't allow anybody to come in with him cuz remember he had a whole multitude behind her. But guess what happened when he pulled up in the house. Watch this.
+
+> <sup>[52](/bible/luke/8#v52)</sup> And all wept, and bewailed her: but he said, Weep not; she is not dead, but sleepeth.
 
 - And all wept: So all those that was in the house was crying. Watch this.
 
@@ -435,8 +435,6 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "health", "satan"]
 > <sup>[53](/bible/luke/8#v53)</sup> And they laughed him to scorn, knowing that she was dead.
 >
 > <sup>[54](/bible/luke/8#v54)</sup> And he put them all out, and took her by the hand, and called, saying, Maid, arise.
->
-> <sup>[55](/bible/luke/8#v55)</sup> And her spirit came again, and she arose straightway: and he commanded to give her meat.
 
 - And he put them all out: He kicked them all out. I said, "Get out the damn house, man. Y'all wicked and unbelieving."
 
@@ -445,6 +443,8 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "health", "satan"]
 - So we saw the sister that was healed because she believed touching the hem of his garment. Remember Jairus was the ruler of a synagogue. He tried to get to Christ when his daughter was sick, but the multitudes prevented Christ from getting to his house. Sent a messenger. Christ said, "Hold on. Don't go back with that message. Fear not, believe only." Jairus believed. The little girl was brought back to life, man.
 
 - That's like us today. We come into this truth, we dead before we... Matter of fact, give me Proverbs 21:16. Cuz we come into this truth, we like the little girl that was dead. But spiritually dead, though, here in Babylon.
+
+> <sup>[55](/bible/luke/8#v55)</sup> And her spirit came again, and she arose straightway: and he commanded to give her meat.
 
 
 **[Proverbs 21:16](/bible/proverbs/21#v16)**  *[[35:30](https://www.youtube.com/watch?v=D2K5H4RI09E&t=2130s)]*
@@ -465,13 +465,13 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "health", "satan"]
 
 **[Luke 9:1-2](/bible/luke/9#v1)**  *[[35:30](https://www.youtube.com/watch?v=D2K5H4RI09E&t=2130s)]*
 
-> <sup>[1](/bible/luke/9#v1)</sup> Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases.
->
-> <sup>[2](/bible/luke/9#v2)</sup> And he sent them to preach the kingdom of God, and to heal the sick.
-
 - Then he called his 12 disciples together and gave them power and authority over all devils: Damn.
 
+> <sup>[1](/bible/luke/9#v1)</sup> Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases.
+
 - And to cure diseases: So, Christ anointed them with the power and authority to cure all elements and cast out demons, man.
+
+> <sup>[2](/bible/luke/9#v2)</sup> And he sent them to preach the kingdom of God, and to heal the sick.
 
 - And he sent them to preach the kingdom of God, and to heal the sick: So, who did Christ send them to? Let's get the same account in Matthew's chapter 10. We going to read 10 one and then we going to jump down to five. We going to skip to the, you know, get to the point.
 
@@ -486,12 +486,12 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "health", "satan"]
 **[Matthew 10:5-6](/bible/matthew/10#v5)**  *[[36:13](https://www.youtube.com/watch?v=D2K5H4RI09E&t=2173s)]*
 
 > <sup>[5](/bible/matthew/10#v5)</sup> These twelve Jesus sent forth, and commanded them, saying, Go not into the way of the Gentiles, and into any city of the Samaritans enter ye not:
->
-> <sup>[6](/bible/matthew/10#v6)</sup> But go rather to the lost sheep of the house of Israel.
 
 - Go not into the way of the Gentiles, and into any city of the Samaritans enter ye not: But go rather to the lost sheep of the house of Israel. So somebody might go, hold on, them Gentiles is talking about all nations, them Samaritans. You know we got to clear that up. Give me John chapter four.
 
 - So Christ told them to go out in a specific order. We going to get that prophecy after we clear up who the Samaritans are. Cuz somebody sitting at home right now, "Haha, they got you with that one." Nah, brother. No, sis. We going to show you who those Gentiles are, the Samaritans.
+
+> <sup>[6](/bible/matthew/10#v6)</sup> But go rather to the lost sheep of the house of Israel.
 
 
 **[John 4:3-12](/bible/john/4#v3)**  *[[37:37](https://www.youtube.com/watch?v=D2K5H4RI09E&t=2257s)]*
@@ -499,32 +499,32 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "health", "satan"]
 > <sup>[3](/bible/john/4#v3)</sup> He left Judea, and departed again into Galilee.
 >
 > <sup>[4](/bible/john/4#v4)</sup> And he must needs go through Samaria.
->
-> <sup>[5](/bible/john/4#v5)</sup> Then cometh he to a city of Samaria, which is called Sychar, near to the parcel of ground that Jacob gave to his son Joseph.
->
-> <sup>[6](/bible/john/4#v6)</sup> Now Jacob’s well was there. Jesus therefore, being wearied with his journey, sat thus on the well: and it was about the sixth hour.
->
-> <sup>[7](/bible/john/4#v7)</sup> There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink.
->
-> <sup>[8](/bible/john/4#v8)</sup> (For his disciples were gone away unto the city to buy meat.)
->
-> <sup>[9](/bible/john/4#v9)</sup> Then saith the woman of Samaria unto him, How is it that thou, being a Jew, askest drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans.
->
-> <sup>[10](/bible/john/4#v10)</sup> Jesus answered and said unto her, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water.
->
-> <sup>[11](/bible/john/4#v11)</sup> The woman saith unto him, Sir, thou hast nothing to draw with, and the well is deep: from whence then hast thou that living water?
->
-> <sup>[12](/bible/john/4#v12)</sup> Art thou greater than our father Jacob, which gave us the well, and drank thereof himself, and his children, and his cattle?
 
 - And he must needs go through Samaria: So he must needs go through Samaria. We just read that he told them don't go into the land of the Samaritans, the land of Samaria.
 
+> <sup>[5](/bible/john/4#v5)</sup> Then cometh he to a city of Samaria, which is called Sychar, near to the parcel of ground that Jacob gave to his son Joseph.
+
 - Near to the parcel of ground that Jacob gave to his son Joseph: That Jacob, the father of the 12 tribes.
+
+> <sup>[6](/bible/john/4#v6)</sup> Now Jacob’s well was there. Jesus therefore, being wearied with his journey, sat thus on the well: and it was about the sixth hour.
+>
+> <sup>[7](/bible/john/4#v7)</sup> There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink.
 
 - There cometh a woman of Samaria to draw water: A woman of Samaria. Let's see who she is.
 
+> <sup>[8](/bible/john/4#v8)</sup> (For his disciples were gone away unto the city to buy meat.)
+>
+> <sup>[9](/bible/john/4#v9)</sup> Then saith the woman of Samaria unto him, How is it that thou, being a Jew, askest drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans.
+
 - For the Jews have no dealings with the Samaritans: Because the northern kingdom was cut off. The southern kingdom was not dealing with northern kingdom. Watch this.
 
+> <sup>[10](/bible/john/4#v10)</sup> Jesus answered and said unto her, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water.
+
 - If thou knewest the gift of God, and who it is that saith to thee: The light unto the Gentiles, Isaiah chapter 9.
+
+> <sup>[11](/bible/john/4#v11)</sup> The woman saith unto him, Sir, thou hast nothing to draw with, and the well is deep: from whence then hast thou that living water?
+>
+> <sup>[12](/bible/john/4#v12)</sup> Art thou greater than our father Jacob, which gave us the well, and drank thereof himself, and his children, and his cattle?
 
 - Art thou greater than our father Jacob: Hold on. Did the Samaritan woman say what? Art thou greater than our father Jacob? She said, "Art thou greater than our father Jacob?" Who is Jacob? The father of the 12 tribes of Israel. So, he wasn't up there teaching no damn Caucasian, so you understand. That was a Israelite sister. So now, let's go back to Luke chapter 9. So, we just had to clear up the confusion.
 
@@ -552,24 +552,24 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "health", "satan"]
 > <sup>[4](/bible/luke/9#v4)</sup> And whatsoever house ye enter into, there abide, and thence depart.
 >
 > <sup>[5](/bible/luke/9#v5)</sup> And whosoever will not receive you, when ye go out of that city, shake off the very dust from your feet for a testimony against them.
->
-> <sup>[6](/bible/luke/9#v6)</sup> And they departed, and went through the towns, preaching the gospel, and healing every where.
->
-> <sup>[7](/bible/luke/9#v7)</sup> Now Herod the tetrarch heard of all that was done by him: and he was perplexed, because that it was said of some, that John was risen from the dead;
->
-> <sup>[8](/bible/luke/9#v8)</sup> And of some, that Elias had appeared; and of others, that one of the old prophets was risen again.
->
-> <sup>[9](/bible/luke/9#v9)</sup> And Herod said, John have I beheaded: but who is this, of whom I hear such things? And he desired to see him.
 
 - Shake off the very dust from your feet for a testimony against them: Meaning what? They reject the scriptures, that city's going to be utterly destroyed.
 
 - And they departed and went through the towns, preaching the gospel and healing everywhere: So, they preaching the gospel and healing. What? Healing with the word of the Most High.
+
+> <sup>[6](/bible/luke/9#v6)</sup> And they departed, and went through the towns, preaching the gospel, and healing every where.
+>
+> <sup>[7](/bible/luke/9#v7)</sup> Now Herod the tetrarch heard of all that was done by him: and he was perplexed, because that it was said of some, that John was risen from the dead;
 
 - Now Herod the tetrarch heard: So, that was Herod Antipas. He was over the tetrarch over Galilee. Understand that. That's what was going on there. He was set up by Rome to rule, to govern over Galilee.
 
 - Now Herod the tetrarch heard of all that was done by him: And he was one of the sons of Herod the Great.
 
 - And he was perplexed, because that it was said of some, that John was risen from the dead: So, he was like, "Hold on. Didn't we just kill John?" Cuz John was out there putting in work. Understand that John rebuked this damn demon.
+
+> <sup>[8](/bible/luke/9#v8)</sup> And of some, that Elias had appeared; and of others, that one of the old prophets was risen again.
+>
+> <sup>[9](/bible/luke/9#v9)</sup> And Herod said, John have I beheaded: but who is this, of whom I hear such things? And he desired to see him.
 
 - And he desired to see him: They always curious. That's why when we out searching as a group, Edomite always got to come up. "Hey, what are you guys doing?" It's the same damn spirit, man. The same spirit. Give me Matthew chapter 14. Let's read this account in Matthew chapter 14 real quick. Cuz I want to get to this, why they did what they did to John.
 
@@ -588,14 +588,14 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "health", "satan"]
 > <sup>[1](/bible/matthew/14#v1)</sup> At that time Herod the tetrarch heard of the fame of Jesus,
 >
 > <sup>[2](/bible/matthew/14#v2)</sup> And said unto his servants, This is John the Baptist; he is risen from the dead; and therefore mighty works do shew forth themselves in him.
->
-> <sup>[3](/bible/matthew/14#v3)</sup> For Herod had laid hold on John, and bound him, and put him in prison for Herodias’ sake, his brother Philip’s wife.
->
-> <sup>[4](/bible/matthew/14#v4)</sup> For John said unto him, It is not lawful for thee to have her.
 
 - And said unto his servants, This is John the Baptist; he is risen from the dead: So, he like, this is the same account that we reading in Luke. So, we reading a different one in Matthew, but just to give a different perspective. Watch this.
 
+> <sup>[3](/bible/matthew/14#v3)</sup> For Herod had laid hold on John, and bound him, and put him in prison for Herodias’ sake, his brother Philip’s wife.
+
 - For Herod had laid hold on John, and bound him, and put him in prison for Herodias' sake, his brother Philip's wife: So, for Herod, for a woman to file with a woman that he not supposed to be dealing with. He beheaded John, man.
+
+> <sup>[4](/bible/matthew/14#v4)</sup> For John said unto him, It is not lawful for thee to have her.
 
 - For John said unto him, It is not lawful for thee to have her: So, why did John the Baptist rebuke this wicked Edomite? Cuz this dude was out of order with a number of scriptures. Cuz this woman was married, you understand? And his brother's wife. So, let's get the first one dealing with adultery.
 

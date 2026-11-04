@@ -58,7 +58,9 @@ Book read in class: New World Jewry, 1493 to 1825: Requiem for the Forgotten, by
 **[Deuteronomy 11:26-30](/bible/deuteronomy/11#v26)**  *[[10:27](https://www.youtube.com/watch?v=z_QujypG9RI&t=627s)]*
 
 > <sup>[26](/bible/deuteronomy/11#v26)</sup> Behold, I set before you this day a blessing and a curse;
->
+
+- I set before you this day a blessing and a curse: the contract of the battle. A blessing if ye obey the commandments; if you want to enlist with the Lord, you have to obey the commandments. A curse if ye will not obey, but turn aside out of the way to go after other gods. It is set before you: wake up out of your slumber and be introduced to the path of life, or stay asleep and die with the rest of them. You can live it up and party, or choose to suffer with your people, which leads straight to life, and be used by the Most High to go into those dark ghettos and wake up the young brother and young sister depending on you. It is up to you.
+
 > <sup>[27](/bible/deuteronomy/11#v27)</sup> A blessing, if ye obey the commandments of the Lord your God, which I command you this day:
 >
 > <sup>[28](/bible/deuteronomy/11#v28)</sup> And a curse, if ye will not obey the commandments of the Lord your God, but turn aside out of the way which I command you this day, to go after other gods, which ye have not known.
@@ -67,25 +69,31 @@ Book read in class: New World Jewry, 1493 to 1825: Requiem for the Forgotten, by
 >
 > <sup>[30](/bible/deuteronomy/11#v30)</sup> Are they not on the other side Jordan, by the way where the sun goeth down, in the land of the Canaanites, which dwell in the champaign over against Gilgal, beside the plains of Moreh?
 
-- I set before you this day a blessing and a curse: the contract of the battle. A blessing if ye obey the commandments; if you want to enlist with the Lord, you have to obey the commandments. A curse if ye will not obey, but turn aside out of the way to go after other gods. It is set before you: wake up out of your slumber and be introduced to the path of life, or stay asleep and die with the rest of them. You can live it up and party, or choose to suffer with your people, which leads straight to life, and be used by the Most High to go into those dark ghettos and wake up the young brother and young sister depending on you. It is up to you.
-
 **[Ezekiel 2:3-7](/bible/ezekiel/2#v3)**  *[[11:50](https://www.youtube.com/watch?v=z_QujypG9RI&t=710s)]*
+
+- Son of man, I send thee to the children of Israel. Over and over the prophets are set to a task and dispatched to their own people, through the generations; the mission is in full effect. A rebellious house that hath rebelled against me: they chose this world, rejected the life and rejected the commandments, they and their fathers, even unto this very day, 2026. We are still in the midst of that same battle; that is why the prophets have been dispatched again.
 
 > <sup>[3](/bible/ezekiel/2#v3)</sup> And he said unto me, Son of man, I send thee to the children of Israel, to a rebellious nation that hath rebelled against me: they and their fathers have transgressed against me, even unto this very day.
 >
 > <sup>[4](/bible/ezekiel/2#v4)</sup> For they are impudent children and stiffhearted. I do send thee unto them; and thou shalt say unto them, Thus saith the Lord God.
 >
 > <sup>[5](/bible/ezekiel/2#v5)</sup> And they, whether they will hear, or whether they will forbear, (for they are a rebellious house,) yet shall know that there hath been a prophet among them.
->
+
+- Whether they will hear or whether they will forbear: we do not care; the Lord is preparing us. Some of our people are so hard headed they will hear this good news and reject it, they love this wicked world so much. Yet shall they know that there hath been a prophet among them: they will know when the trouble comes, because the scriptures are the only guideline that gives hope, and people without a guideline are led into darkness and chaos.
+
+- Be not afraid of them, neither be afraid of their words. Our people are full of words; they will curse you out and slander you quickly. Even when we come with words of righteousness, brother, you are the chosen people, repent, put down the guns, edify your people, raise your children, marry your wives, they hate us for that. They hate this mighty word that has life in it, the doctrine of life.
+
 > <sup>[6](/bible/ezekiel/2#v6)</sup> And thou, son of man, be not afraid of them, neither be afraid of their words, though briers and thorns be with thee, and thou dost dwell among scorpions: be not afraid of their words, nor be dismayed at their looks, though they be a rebellious house.
 >
 > <sup>[7](/bible/ezekiel/2#v7)</sup> And thou shalt speak my words unto them, whether they will hear, or whether they will forbear: for they are most rebellious.
 
-- Son of man, I send thee to the children of Israel. Over and over the prophets are set to a task and dispatched to their own people, through the generations; the mission is in full effect. A rebellious house that hath rebelled against me: they chose this world, rejected the life and rejected the commandments, they and their fathers, even unto this very day, 2026. We are still in the midst of that same battle; that is why the prophets have been dispatched again.
-- Whether they will hear or whether they will forbear: we do not care; the Lord is preparing us. Some of our people are so hard headed they will hear this good news and reject it, they love this wicked world so much. Yet shall they know that there hath been a prophet among them: they will know when the trouble comes, because the scriptures are the only guideline that gives hope, and people without a guideline are led into darkness and chaos.
-- Be not afraid of them, neither be afraid of their words. Our people are full of words; they will curse you out and slander you quickly. Even when we come with words of righteousness, brother, you are the chosen people, repent, put down the guns, edify your people, raise your children, marry your wives, they hate us for that. They hate this mighty word that has life in it, the doctrine of life.
-
 **[Proverbs 4:2-7](/bible/proverbs/4#v2)**  *[[14:39](https://www.youtube.com/watch?v=z_QujypG9RI&t=879s)]*
+
+- I give you good doctrine; forsake ye not my law. Let thine heart retain my words: keep my commandments, and live. So the doctrine is the laws of God, the commandments of God.
+
+- Get wisdom, get understanding, forget it not, neither decline from the words of my mouth. Decline means to pull back. We have brothers and sisters who have declined, taken their hand off the plow; they were introduced to the mighty heritage, you are the Israelites, the sons of God, and then the cares of this world and the lust of the flesh took them out of here. That is when you hear the complaints: I am overwhelmed, cap. There is no better place to be overwhelmed than for the Lord; you would rather be overwhelmed for your nine to five, invest more in this world than in the Lord? Overwhelmed from editing videos to wake up your people, from traveling, from teaching brothers who are brand new? That is a shame.
+
+- Forget it not, because the Lord is constantly looking for those who will retain the knowledge and be dispatched to wake up the lost who do not have that understanding. Wisdom is the principal thing; therefore get wisdom, and with all thy getting get understanding. They go hand in hand: thou shalt not steal is the wisdom; the understanding is, I used to walk in that lifestyle and I am not doing it anymore, and now I can be used to teach the next brother who is battling that. Not just hearing the word and letting it go in one ear and out the other, not letting wisdom sit in you: you learn it and you apply it. So you cannot be a professional student. Come in, get involved, join the curriculum set in place to make us better men, better fathers, better leaders.
 
 > <sup>[2](/bible/proverbs/4#v2)</sup> For I give you good doctrine, forsake ye not my law.
 >
@@ -94,15 +102,12 @@ Book read in class: New World Jewry, 1493 to 1825: Requiem for the Forgotten, by
 > <sup>[4](/bible/proverbs/4#v4)</sup> He taught me also, and said unto me, Let thine heart retain my words: keep my commandments, and live.
 >
 > <sup>[5](/bible/proverbs/4#v5)</sup> Get wisdom, get understanding: forget it not; neither decline from the words of my mouth.
->
+
+- Neither decline from the words of my mouth: the mouth of God is this Bible. But who is he using to edify the people and the nation?
+
 > <sup>[6](/bible/proverbs/4#v6)</sup> Forsake her not, and she shall preserve thee: love her, and she shall keep thee.
 >
 > <sup>[7](/bible/proverbs/4#v7)</sup> Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding.
-
-- I give you good doctrine; forsake ye not my law. Let thine heart retain my words: keep my commandments, and live. So the doctrine is the laws of God, the commandments of God.
-- Get wisdom, get understanding, forget it not, neither decline from the words of my mouth. Decline means to pull back. We have brothers and sisters who have declined, taken their hand off the plow; they were introduced to the mighty heritage, you are the Israelites, the sons of God, and then the cares of this world and the lust of the flesh took them out of here. That is when you hear the complaints: I am overwhelmed, cap. There is no better place to be overwhelmed than for the Lord; you would rather be overwhelmed for your nine to five, invest more in this world than in the Lord? Overwhelmed from editing videos to wake up your people, from traveling, from teaching brothers who are brand new? That is a shame.
-- Forget it not, because the Lord is constantly looking for those who will retain the knowledge and be dispatched to wake up the lost who do not have that understanding. Wisdom is the principal thing; therefore get wisdom, and with all thy getting get understanding. They go hand in hand: thou shalt not steal is the wisdom; the understanding is, I used to walk in that lifestyle and I am not doing it anymore, and now I can be used to teach the next brother who is battling that. Not just hearing the word and letting it go in one ear and out the other, not letting wisdom sit in you: you learn it and you apply it. So you cannot be a professional student. Come in, get involved, join the curriculum set in place to make us better men, better fathers, better leaders.
-- Neither decline from the words of my mouth: the mouth of God is this Bible. But who is he using to edify the people and the nation?
 
 **[Baruch 1:21](/bible/baruch/1#v21)**  *[[18:56](https://www.youtube.com/watch?v=z_QujypG9RI&t=1136s)]*
 

@@ -2,7 +2,7 @@
 title: "All Things Are Lawful For Me"
 slug: "2026/2026-09-18-all-things-are-lawful-for-me"
 date: "2026-09-18"
-teacher: "Captain Yahoshua"
+teacher: "Captain Yehoshua"
 description: "15 Minutes w/ The Captains · 2026-09-18"
 tags: ["15 Minutes w/ The Captains", "christ", "false-religion", "justice", "the-body", "the-law"]
 ---
@@ -33,10 +33,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "false-religion", "justice", "the
 **[Matthew 18:15-17](/bible/matthew/18#v15)**  *[[1:30](https://www.youtube.com/watch?v=KIQ3-c-qwa8&t=90s)]*
 
 > <sup>[15](/bible/matthew/18#v15)</sup> Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother.
->
-> <sup>[16](/bible/matthew/18#v16)</sup> But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established.
->
-> <sup>[17](/bible/matthew/18#v17)</sup> And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican.
 
 - If thy brother shall trespass against thee: if a brother breaks a commandment, or he does something evil or something wrong, what did Christ say? Step one: go to that brother, go to that sister, and resolve that issue.
 
@@ -47,6 +43,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "false-religion", "justice", "the
 - So that's the three-step process Christ gave us. Go to the other individual one on one. If that doesn't work, bring one or two people with you as a witness. If that still doesn't work, you take it to the leadership inside the congregation to get the matter resolved.
 
 - But when we get to 1 Corinthians, the church has been established in Corinth, and Christ has died, resurrected and gone back to the heavens. Now the church in Corinth wants to come up with a new formula, because they figured it out better than Christ.
+
+> <sup>[16](/bible/matthew/18#v16)</sup> But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established.
+>
+> <sup>[17](/bible/matthew/18#v17)</sup> And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican.
 
 
 **[1 Corinthians 6:1](/bible/1-corinthians/6#v1)**  *[[3:18](https://www.youtube.com/watch?v=KIQ3-c-qwa8&t=198s)]*
@@ -130,7 +130,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "false-religion", "justice", "the
 
 ## In Closing
 
-*[[10:51](https://www.youtube.com/watch?v=KIQ3-c-qwa8&t=651s)]* But when we have issues amongst each other inside the congregation, the wisdom is go to the leaders of the congregation. I'm Captain Yahoshua. Until next time, shalom.
+*[[10:51](https://www.youtube.com/watch?v=KIQ3-c-qwa8&t=651s)]* But when we have issues amongst each other inside the congregation, the wisdom is go to the leaders of the congregation. I'm Captain Yehoshua. Until next time, shalom.
 
 ---
 

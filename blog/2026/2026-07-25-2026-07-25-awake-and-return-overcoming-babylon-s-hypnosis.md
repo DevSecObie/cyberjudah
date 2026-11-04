@@ -27,6 +27,10 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 
 **[Psalms 12:1-8](/bible/psalms/12#v1)**  *[[6:04](https://www.youtube.com/watch?v=kxiMez1I0_U&t=364s)]*
 
+- Help, Lord; for the godly man ceaseth; for the faithful fail from among the children of men. They speak vanity every one with his neighbour. When we walked in, the four men was huddled up in the back, talking, strategizing. We came in there regular; we didn't know what was going on.
+
+- With flattering lips and with a double heart do they speak. They had flattering lips and a double heart because they never told us what it really was. They never updated us on how it was going to be run. We just came and sat down.
+
 > <sup>[1](/bible/psalms/12#v1)</sup> Help, Lord; for the godly man ceaseth; for the faithful fail from among the children of men.
 >
 > <sup>[2](/bible/psalms/12#v2)</sup> They speak vanity every one with his neighbour: with flattering lips and with a double heart do they speak.
@@ -34,7 +38,13 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 > <sup>[3](/bible/psalms/12#v3)</sup> The Lord shall cut off all flattering lips, and the tongue that speaketh proud things:
 >
 > <sup>[4](/bible/psalms/12#v4)</sup> Who have said, With our tongue will we prevail; our lips are our own: who is lord over us?
->
+
+- Who have said, With our tongue will we prevail; our lips are our own: who is lord over us? They said with their tongue they going to prevail, not knowing that we came there in brotherhood and sincere discussion to go over the scriptures. In their mind they said, we going to line them up and corner them off.
+
+- For the oppression of the poor, for the sighing of the needy, now will I arise, saith the Lord; I will set him in safety from him that puffeth at him. That's what I wanted, because the Lord said he would rise up for us. They didn't want to discuss how we could get our community together. They didn't want to discuss salvation, repentance, the things that's needed to get to the kingdom of heaven. Their discussion was the trinity, did Christ have a father, things that wasn't hitting on what could help our community.
+
+- Officer Eli was reading so good and getting the scriptures so fast they couldn't believe it. That was the spirit of the Lord working. Nobody going to prevail against our heavenly father; his word will go out and reign through this earth.
+
 > <sup>[5](/bible/psalms/12#v5)</sup> For the oppression of the poor, for the sighing of the needy, now will I arise, saith the Lord; I will set him in safety from him that puffeth at him.
 >
 > <sup>[6](/bible/psalms/12#v6)</sup> The words of the Lord are pure words: as silver tried in a furnace of earth, purified seven times.
@@ -42,12 +52,6 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 > <sup>[7](/bible/psalms/12#v7)</sup> Thou shalt keep them, O Lord, thou shalt preserve them from this generation for ever.
 >
 > <sup>[8](/bible/psalms/12#v8)</sup> The wicked walk on every side, when the vilest men are exalted.
-
-- Help, Lord; for the godly man ceaseth; for the faithful fail from among the children of men. They speak vanity every one with his neighbour. When we walked in, the four men was huddled up in the back, talking, strategizing. We came in there regular; we didn't know what was going on.
-- With flattering lips and with a double heart do they speak. They had flattering lips and a double heart because they never told us what it really was. They never updated us on how it was going to be run. We just came and sat down.
-- Who have said, With our tongue will we prevail; our lips are our own: who is lord over us? They said with their tongue they going to prevail, not knowing that we came there in brotherhood and sincere discussion to go over the scriptures. In their mind they said, we going to line them up and corner them off.
-- For the oppression of the poor, for the sighing of the needy, now will I arise, saith the Lord; I will set him in safety from him that puffeth at him. That's what I wanted, because the Lord said he would rise up for us. They didn't want to discuss how we could get our community together. They didn't want to discuss salvation, repentance, the things that's needed to get to the kingdom of heaven. Their discussion was the trinity, did Christ have a father, things that wasn't hitting on what could help our community.
-- Officer Eli was reading so good and getting the scriptures so fast they couldn't believe it. That was the spirit of the Lord working. Nobody going to prevail against our heavenly father; his word will go out and reign through this earth.
 
 **[Psalms 111:10](/bible/psalms/111#v10)**  *[[15:52](https://www.youtube.com/watch?v=kxiMez1I0_U&t=952s)]*
 
@@ -118,19 +122,23 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 
 **[Mark 4:9-12](/bible/mark/4#v9)**  *[[34:25](https://www.youtube.com/watch?v=kxiMez1I0_U&t=2065s)]*
 
+- We living in these last days and the Most High's word is going out faster than you believe. Bible prophecies is being fulfilled faster than we understand. God said you're going to see your teachers; they will not be hidden in the corner anymore. You're going to see who's telling the truth and who's not.
+
 > <sup>[9](/bible/mark/4#v9)</sup> And he said unto them, He that hath ears to hear, let him hear.
 >
 > <sup>[10](/bible/mark/4#v10)</sup> And when he was alone, they that were about him with the twelve asked of him the parable.
 >
 > <sup>[11](/bible/mark/4#v11)</sup> And he said unto them, Unto you it is given to know the mystery of the kingdom of God: but unto them that are without, all these things are done in parables:
->
-> <sup>[12](/bible/mark/4#v12)</sup> That seeing they may see, and not perceive; and hearing they may hear, and not understand; lest at any time they should be converted, and their sins should be forgiven them.
 
-- We living in these last days and the Most High's word is going out faster than you believe. Bible prophecies is being fulfilled faster than we understand. God said you're going to see your teachers; they will not be hidden in the corner anymore. You're going to see who's telling the truth and who's not.
 - Unto you it is given to know the mystery of the kingdom of God: to us, the Israelites, it is given to understand the mystery of God. But unto them that are without, all these things are done in parables: them that's not keeping the law of commandments, not walking right in the faith of Christ.
+
 - That seeing they may see, and not perceive; and hearing they may hear, and not understand. They reading it with us and not perceiving what God telling them. They hearing the word coming out plainly, slowly, clearly, and they still don't understand.
+
 - Lest at any time they should be converted, and their sins should be forgiven them. Some people do change: you got people like Nicodemus, Joseph of Arimathaea, Gamaliel, who came to him by night. Fred Price seemed like he was starting to understand what the word of God was saying to him. That's between him and the Lord, if the Lord going to wake that spirit fully up or not.
+
 - They kept throwing out "the whole law." The whole law goes back to the temple, the Levitical priests; you had to have the sons of Aaron make that sacrifice for you, sprinkle the blood, go through the ordinances. We don't have a temple right now, and we don't have the Levitical priests. Now we go through Christ: he read it to them in John 14:6. I am the way, the truth, and the life. We can't get to the father unless we go through him, because he's the sacrificial lamb.
+
+> <sup>[12](/bible/mark/4#v12)</sup> That seeing they may see, and not perceive; and hearing they may hear, and not understand; lest at any time they should be converted, and their sins should be forgiven them.
 
 **[1 Thessalonians 5:21](/bible/1-thessalonians/5#v21)**  *[[38:43](https://www.youtube.com/watch?v=kxiMez1I0_U&t=2323s)]*
 
@@ -150,16 +158,20 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 
 **[Matthew 5:17-19](/bible/matthew/5#v17)**  *[[41:03](https://www.youtube.com/watch?v=kxiMez1I0_U&t=2463s)]*
 
+- They kept talking about the law the Lord has done away with. We tell them the law you talking about is the law of animal sacrifice, and they said no.
+
 > <sup>[17](/bible/matthew/5#v17)</sup> Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.
->
+
+- Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil. He fulfilled it when he died: he fulfilled the animal sacrifice. You could go to Hebrews 9 and Hebrews 10 to discuss that he is the sacrificial lamb, the mediator between us and God, as Romans 8 says.
+
+- Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled. Is all fulfilled? No. Bible prophecies is still being fulfilled as we live, day by day.
+
 > <sup>[18](/bible/matthew/5#v18)</sup> For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled.
 >
 > <sup>[19](/bible/matthew/5#v19)</sup> Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach them, the same shall be called great in the kingdom of heaven.
 
-- They kept talking about the law the Lord has done away with. We tell them the law you talking about is the law of animal sacrifice, and they said no.
-- Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil. He fulfilled it when he died: he fulfilled the animal sacrifice. You could go to Hebrews 9 and Hebrews 10 to discuss that he is the sacrificial lamb, the mediator between us and God, as Romans 8 says.
-- Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled. Is all fulfilled? No. Bible prophecies is still being fulfilled as we live, day by day.
 - Whosoever therefore shall break one of these least commandments, and shall teach men so: when you telling a person the Sabbath day is Sunday, you're breaking the commandment. When you telling somebody they don't have to keep the Sabbath, or they can eat pork, shrimp, crab, lobster, you're breaking the commandments and teaching men so.
+
 - He shall be called the least in the kingdom of heaven. There's no least in the kingdom of heaven; everybody is great in the kingdom of heaven. He's saying you won't make it to the kingdom. But whosoever shall do and teach them, the same shall be called great in the kingdom of heaven. The laws is not done away with. We have to uphold the law of commandments till this day.
 
 **[Matthew 15:24](/bible/matthew/15#v24)**  *[[43:51](https://www.youtube.com/watch?v=kxiMez1I0_U&t=2631s)]*
@@ -172,29 +184,37 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 **[Revelation 11:8-9](/bible/revelation/11#v8)**  *[[45:45](https://www.youtube.com/watch?v=kxiMez1I0_U&t=2745s)]*
 
 > <sup>[8](/bible/revelation/11#v8)</sup> And their dead bodies shall lie in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified.
->
-> <sup>[9](/bible/revelation/11#v9)</sup> And they of the people and kindreds and tongues and nations shall see their dead bodies three days and an half, and shall not suffer their dead bodies to be put in graves.
 
 - Their dead bodies shall lie in the street of the great city: that's what's happening to us today. We are spiritually dead, lying in the streets of this great city called America.
+
 - Which spiritually is called Sodom and Egypt: spiritually Sodom, because they got same-sex marriage and the parades all through these states with rights. Spiritually Egypt, because you go to Manhattan and you got the obelisk, and the obelisk on the back of the dollar. We are in bondage here like we was in bondage in Egypt.
+
 - Where also our Lord was crucified: they crucified Christ here spiritually. Back in the days the Bible was a curriculum in the school; now nobody is talking about Christ but us. The Israelites is the only ones talking about the true and living God. Christ is a God; he ain't the God, but he is a God.
+
 - They of the people shall see their dead bodies three days and an half, and shall not suffer their dead bodies to be put in graves. They have seen our dead bodies, and they did not suffer our bodies to be put in graves here in this great city.
 
+> <sup>[9](/bible/revelation/11#v9)</sup> And they of the people and kindreds and tongues and nations shall see their dead bodies three days and an half, and shall not suffer their dead bodies to be put in graves.
+
 **[Isaiah 51:20-23](/bible/isaiah/51#v20)**  *[[48:06](https://www.youtube.com/watch?v=kxiMez1I0_U&t=2886s)]*
+
+- Thy sons have fainted, they lie at the head of all the streets. You go on any block, you going to see the boys hanging up and down the blocks. Our sons have fainted away from the Bible and become rebels here in America.
+
+- As a wild bull in a net, they are full of the fury of the Lord. They running around wild; they call it crashing out today. That fury in them is Deuteronomy 28:15-68, the curses. They don't know how to vent, so they crashing out against each other. That's the rebuke of our God, the correction from our God, because we constantly break his law of commandments.
 
 > <sup>[20](/bible/isaiah/51#v20)</sup> Thy sons have fainted, they lie at the head of all the streets, as a wild bull in a net: they are full of the fury of the Lord, the rebuke of thy God.
 >
 > <sup>[21](/bible/isaiah/51#v21)</sup> Therefore hear now this, thou afflicted, and drunken, but not with wine:
->
+
+- Therefore hear now this, thou afflicted, and drunken, but not with wine: drunken with philosophy and doctrines, the lies we learned here in America.
+
 > <sup>[22](/bible/isaiah/51#v22)</sup> Thus saith thy Lord the Lord, and thy God that pleadeth the cause of his people, Behold, I have taken out of thine hand the cup of trembling, even the dregs of the cup of my fury; thou shalt no more drink it again:
->
+
+- Behold, I have taken out of thine hand the cup of trembling, even the dregs of the cup of my fury; thou shalt no more drink it again: but I will put it into the hand of them that afflict thee. Who afflicts us right now? America. They going to drink the dregs; they going to go through the same thing we went through.
+
 > <sup>[23](/bible/isaiah/51#v23)</sup> But I will put it into the hand of them that afflict thee; which have said to thy soul, Bow down, that we may go over: and thou hast laid thy body as the ground, and as the street, to them that went over.
 
-- Thy sons have fainted, they lie at the head of all the streets. You go on any block, you going to see the boys hanging up and down the blocks. Our sons have fainted away from the Bible and become rebels here in America.
-- As a wild bull in a net, they are full of the fury of the Lord. They running around wild; they call it crashing out today. That fury in them is Deuteronomy 28:15-68, the curses. They don't know how to vent, so they crashing out against each other. That's the rebuke of our God, the correction from our God, because we constantly break his law of commandments.
-- Therefore hear now this, thou afflicted, and drunken, but not with wine: drunken with philosophy and doctrines, the lies we learned here in America.
-- Behold, I have taken out of thine hand the cup of trembling, even the dregs of the cup of my fury; thou shalt no more drink it again: but I will put it into the hand of them that afflict thee. Who afflicts us right now? America. They going to drink the dregs; they going to go through the same thing we went through.
 - Which have said to thy soul, Bow down, that we may go over: and thou hast laid thy body as the ground. We laid our body as the ground, and they have been walking over us for hundreds of years, misleading us, indoctrinating us, and we haven't realized it yet. Every nation coming to America is over us; a lot of the businesses in our neighborhoods, the restaurants, the hair stores, the nail shops, is owned by other nations while we just consume. But now the Most High is starting to rise us up and wake us up.
+
 - We got the power to bring our people back to God, and we refuse to do it because we selfish, greedy, covetous, and we love preeminence in this place. This place taught us how to go against our God, but we teaching our people how to come back to him in righteousness. It's going to be a great fight, but this fight going to be won.
 
   Precepts:
@@ -206,22 +226,21 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 **[Revelation 12:12-16](/bible/revelation/12#v12)**  *[[55:43](https://www.youtube.com/watch?v=kxiMez1I0_U&t=3343s)]*
 
 > <sup>[12](/bible/revelation/12#v12)</sup> Therefore rejoice, ye heavens, and ye that dwell in them. Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time.
->
-> <sup>[13](/bible/revelation/12#v13)</sup> And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the man child.
->
-> <sup>[14](/bible/revelation/12#v14)</sup> And to the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent.
->
-> <sup>[15](/bible/revelation/12#v15)</sup> And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood.
->
-> <sup>[16](/bible/revelation/12#v16)</sup> And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth.
 
 - Woe to the inhabiters of the earth and of the sea: woe means death and destruction. This earth right now, in Job 9:24, is given into the hand of the wicked. For the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time. He is mad right now, and that's why we going through it.
+
 - The dragon persecuted the woman which brought forth the man child. That woman with the twelve stars around her head is the Israelites.
+
 - To the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent. The eagle was Rome at the time, and Rome is an extension of this place here called America. In that place where they said we are not his people, in that same place we going to be the children of God, like Hosea 1 says.
+
 - Nourished: that place is America right now, where she feeds us. We've been nourished through their welfare system, their disability system, their politics, their religions, their educational system and economic system. In hunger, in thirst, in nakedness, and in want of all things, we have to go to them: the water, the clothing, the passport, the visa, the death certificate. Anything we need, we have to go to them here.
+
 - Video played on Columbus and the Taino: he wrote in his journal that they would make fine servants, and with fifty men he could make them do whatever he wanted; within fifty years of that letter the Taino nation was virtually extinct, and some fifty six million indigenous people across the Americas were gone. Colonization doesn't always arrive with guns first; it arrives with smiles first. In Africa they sent explorers, missionaries, and traders first: while they were welcomed at the tables of kings they were mapping and documenting where the gold and rubber was, the missionaries came with Bibles and treaties that were later used to take over the same communities, and at the Berlin conference of 1884 the European powers sat around a table and divided the whole continent between themselves. The teaching point: they came as swift as the eagle flieth, and you can never trust that dragon.
+
 - The serpent cast out of his mouth water as a flood after the woman. That flood is his media. Clip played of news anchors across stations reading the same script word for word: they programming us. They give misinformation and foolishness that has nothing to do with us prospering and building our community up. That's the flood coming out of the dragon's mouth.
+
 - Clip played from the movie Network: less than three percent of you people read books; the only truth you know is what you get over this tube; this tube is the gospel; television is not the truth, television is an amusement park; we're in the boredom killing business; if you want the truth, go to God. That tube is the gospel to a lot of people; their whole speech is the TV. They have no thoughts of their own because they not reading for themselves. That goes back to 1 Esdras 5:73, hindering the work with secret plots and popular persuasions; that propaganda is how they get our people. Remember they didn't want any blacks to own any type of news or media: Bill Cosby trying to buy a network, Byron Allen trying to buy stations. They want to control it so they can push that flood out upon us. Why you think they broke their neck to buy TikTok? Too much information was coming out, so they wanted to filter it and make sure we get nonsense to keep us dumb. Everybody now wants to be a content creator getting views and dopamine instead of getting this Bible and learning who they are.
+
 - And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood. The earth that's helping the woman is this Bible. This Bible is helping us understand what happened to us, what's happening to us right now, and what's going to happen to us in the future.
 
   Precepts:
@@ -240,6 +259,14 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
     > <sup>[9](/bible/revelation/12#v9)</sup> And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.
 
     The great dragon was cast out, that old serpent from Genesis, called the Devil, and Satan, which deceiveth the whole world. That's who the face of the serpent is: the devil himself and his children.
+
+> <sup>[13](/bible/revelation/12#v13)</sup> And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the man child.
+>
+> <sup>[14](/bible/revelation/12#v14)</sup> And to the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent.
+>
+> <sup>[15](/bible/revelation/12#v15)</sup> And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood.
+>
+> <sup>[16](/bible/revelation/12#v16)</sup> And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth.
 
 **[Psalms 85:11](/bible/psalms/85#v11)**  *[[1:18:40](https://www.youtube.com/watch?v=kxiMez1I0_U&t=4720s)]*
 
@@ -326,19 +353,21 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 > <sup>[5](/bible/baruch/2#v5)</sup> Thus we were cast down, and not exalted, because we have sinned against the Lord our God, and have not been obedient unto his voice.
 >
 > <sup>[6](/bible/baruch/2#v6)</sup> To the Lord our God appertaineth righteousness: but unto us and to our fathers open shame, as appeareth this day.
->
+
+- Thus we were cast down, and not exalted, because we have sinned against the Lord our God, and have not been obedient unto his voice. To the Lord our God appertaineth righteousness: but unto us and to our fathers open shame, as appeareth this day. We have open shame here in America because we departed from our God and refuse to come back and repent.
+
+- Not all of us, but a lot, even a lot in purple and gold, refuse to keep the Lord's statutes and commandments like they supposed to and think they getting in anyway. Tempt ye not the Lord, brothers and sisters. Get yourself together and come out of that foolishness.
+
 > <sup>[7](/bible/baruch/2#v7)</sup> For all these plagues are come upon us, which the Lord hath pronounced against us
->
+
+- For all these plagues are come upon us, which the Lord hath pronounced against us: yet have we not prayed before the Lord, that we might turn every one from the imaginations of his wicked heart. Even though we've been thrown down, afflicted, oppressed, we haven't prayed to our God to come get us out of this condition. Our people getting gunned down in the streets and still go back and celebrate Christmas, the Fourth of July, Thanksgiving, Halloween, Easter. We have not prayed in our affliction.
+
 > <sup>[8](/bible/baruch/2#v8)</sup> Yet have we not prayed before the Lord, that we might turn every one from the imaginations of his wicked heart.
 >
 > <sup>[9](/bible/baruch/2#v9)</sup> Wherefore the Lord watched over us for evil, and the Lord hath brought it upon us: for the Lord is righteous in all his works which he hath commanded us.
->
-> <sup>[10](/bible/baruch/2#v10)</sup> Yet we have not hearkened unto his voice, to walk in the commandments of the Lord, that he hath set before us.
 
-- Thus we were cast down, and not exalted, because we have sinned against the Lord our God, and have not been obedient unto his voice. To the Lord our God appertaineth righteousness: but unto us and to our fathers open shame, as appeareth this day. We have open shame here in America because we departed from our God and refuse to come back and repent.
-- Not all of us, but a lot, even a lot in purple and gold, refuse to keep the Lord's statutes and commandments like they supposed to and think they getting in anyway. Tempt ye not the Lord, brothers and sisters. Get yourself together and come out of that foolishness.
-- For all these plagues are come upon us, which the Lord hath pronounced against us: yet have we not prayed before the Lord, that we might turn every one from the imaginations of his wicked heart. Even though we've been thrown down, afflicted, oppressed, we haven't prayed to our God to come get us out of this condition. Our people getting gunned down in the streets and still go back and celebrate Christmas, the Fourth of July, Thanksgiving, Halloween, Easter. We have not prayed in our affliction.
 - Wherefore the Lord watched over us for evil, and the Lord hath brought it upon us: for the Lord is righteous in all his works which he hath commanded us. His judgment is righteous. Him putting us through all this is righteous, because we turned our back and departed from him.
+
 - Yet we have not hearkened unto his voice, to walk in the commandments of the Lord, that he hath set before us. We crying out to our people day and night on all these different platforms and radio shows, and our people still will not wake up, like them brothers we sat down with, still fighting against it to this day.
 
   Precepts:
@@ -349,28 +378,33 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 
     All that pass by clap their hands at thee; they hiss and wag their head at the daughter of Jerusalem. The other nations is happy that we thrown down, happy that we at the bottom. Is this the city that men call The perfection of beauty, The joy of the whole earth? Everybody knows we are the perfection of beauty, and even in the lowest state we in, everything we do, everybody follows us. All thine enemies have opened their mouth against thee: you see it in the stores and shops in our own neighborhoods; they don't regard us. They say, We have swallowed her up: certainly this is the day that we looked for. We don't have a community; in our own neighborhoods they own everything and we are the consumers. But now the Lord is waking his people back up to get his people back in order, so we can have rulership on this earth again in righteousness.
 
+> <sup>[10](/bible/baruch/2#v10)</sup> Yet we have not hearkened unto his voice, to walk in the commandments of the Lord, that he hath set before us.
+
 **[Psalms 34:1-4](/bible/psalms/34#v1)**  *[[1:45:15](https://www.youtube.com/watch?v=kxiMez1I0_U&t=6315s)]*
 
 > <sup>[1](/bible/psalms/34#v1)</sup> I will bless the Lord at all times: his praise shall continually be in my mouth.
->
+
+- I will bless the Lord at all times: his praise shall continually be in my mouth. That's what we supposed to be doing. That's why our Bishop said pray three times a day at the least, and read four chapters a day at the minimum; in one year you read the whole Bible.
+
 > <sup>[2](/bible/psalms/34#v2)</sup> My soul shall make her boast in the Lord: the humble shall hear thereof, and be glad.
->
+
+- My soul shall make her boast in the Lord: the humble shall hear thereof, and be glad. When we sat down in that discussion, them brothers should have been glad to hear the glorious gospel coming out so plain and simple, precept upon precept, and they still ain't get it.
+
+- I sought the Lord, and he heard me, and delivered me from all my fears. That's what we want: to seek the Lord and have him hear us when we cry, when we pray, when we exalt his name.
+
 > <sup>[3](/bible/psalms/34#v3)</sup> O magnify the Lord with me, and let us exalt his name together.
 >
 > <sup>[4](/bible/psalms/34#v4)</sup> I sought the Lord, and he heard me, and delivered me from all my fears.
 
-- I will bless the Lord at all times: his praise shall continually be in my mouth. That's what we supposed to be doing. That's why our Bishop said pray three times a day at the least, and read four chapters a day at the minimum; in one year you read the whole Bible.
-- My soul shall make her boast in the Lord: the humble shall hear thereof, and be glad. When we sat down in that discussion, them brothers should have been glad to hear the glorious gospel coming out so plain and simple, precept upon precept, and they still ain't get it.
-- I sought the Lord, and he heard me, and delivered me from all my fears. That's what we want: to seek the Lord and have him hear us when we cry, when we pray, when we exalt his name.
-
 **[Luke 16:14-15](/bible/luke/16#v14)**  *[[1:46:56](https://www.youtube.com/watch?v=kxiMez1I0_U&t=6416s)]*
 
 > <sup>[14](/bible/luke/16#v14)</sup> And the Pharisees also, who were covetous, heard all these things: and they derided him.
->
-> <sup>[15](/bible/luke/16#v15)</sup> And he said unto them, Ye are they which justify yourselves before men; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God.
 
 - The Pharisees also, who were covetous, heard all these things: and they derided him. The Lord ain't hearing these Pharisees. Ye are they which justify yourselves before men: they justified themselves for the evil they was committing against their people. But God knoweth your hearts.
+
 - That which is highly esteemed among men is abomination in the sight of God. Things that's looked on as a prize, a reward, something great: God said it is abomination in his sight. If you living an evil life, God will not hear you.
+
+> <sup>[15](/bible/luke/16#v15)</sup> And he said unto them, Ye are they which justify yourselves before men; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God.
 
 **[Revelation 21:27](/bible/revelation/21#v27)**  *[[1:48:21](https://www.youtube.com/watch?v=kxiMez1I0_U&t=6501s)]*
 
@@ -382,11 +416,13 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 **[Isaiah 44:21-22](/bible/isaiah/44#v21)**  *[[1:50:12](https://www.youtube.com/watch?v=kxiMez1I0_U&t=6612s)]*
 
 > <sup>[21](/bible/isaiah/44#v21)</sup> Remember these, O Jacob and Israel; for thou art my servant: I have formed thee; thou art my servant: O Israel, thou shalt not be forgotten of me.
->
-> <sup>[22](/bible/isaiah/44#v22)</sup> I have blotted out, as a thick cloud, thy transgressions, and, as a cloud, thy sins: return unto me; for I have redeemed thee.
 
 - Remember these, O Jacob and Israel; for thou art my servant: I have formed thee. Why does he have to tell us to remember? Because we was going to forget in this captivity, in our affliction.
+
 - O Israel, thou shalt not be forgotten of me. We not going to be forgotten of God if we walking right and living right in his sight.
+
+> <sup>[22](/bible/isaiah/44#v22)</sup> I have blotted out, as a thick cloud, thy transgressions, and, as a cloud, thy sins: return unto me; for I have redeemed thee.
+
 - I have blotted out, as a thick cloud, thy transgressions, and, as a cloud, thy sins: return unto me; for I have redeemed thee. We have to return to our Lord.
 
 **[2 Corinthians 6:17](/bible/2-corinthians/6#v17)**  *[[1:51:46](https://www.youtube.com/watch?v=kxiMez1I0_U&t=6706s)]*
@@ -399,27 +435,31 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 
 **[Malachi 4:4-6](/bible/malachi/4#v4)**  *[[1:53:54](https://www.youtube.com/watch?v=kxiMez1I0_U&t=6834s)]*
 
+- Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel, with the statutes and judgments. He telling us again: remember, remember, remember, because we was going to forget his statutes and his judgments.
+
 > <sup>[4](/bible/malachi/4#v4)</sup> Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel, with the statutes and judgments.
 >
 > <sup>[5](/bible/malachi/4#v5)</sup> Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord:
->
-> <sup>[6](/bible/malachi/4#v6)</sup> And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.
 
-- Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel, with the statutes and judgments. He telling us again: remember, remember, remember, because we was going to forget his statutes and his judgments.
 - Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord: and he shall turn the heart of the fathers to the children, and the heart of the children to their fathers. We are the fathers: we reading about ourselves when we read this Bible. We are the Israelites from back then, the good, the bad, and the ugly.
+
 - We might not remember exactly who we are, but we sure going to remember what we supposed to be doing, how we supposed to be living, and the laws we supposed to be upholding in these last days. How you reading the Bible and don't keep the laws? The laws is all through the whole Bible.
+
+> <sup>[6](/bible/malachi/4#v6)</sup> And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.
 
 **[Ecclesiastes 1:9-11](/bible/ecclesiastes/1#v9)**  *[[1:56:04](https://www.youtube.com/watch?v=kxiMez1I0_U&t=6964s)]*
 
 > <sup>[9](/bible/ecclesiastes/1#v9)</sup> The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.
->
+
+- The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun. What goes around comes around, like a circle.
+
+- Is there any thing whereof it may be said, See, this is new? it hath been already of old time, which was before us. This ain't the first time this is happening; it's happening all over again.
+
+- There is no remembrance of former things. We don't remember the things that happened before; that's why he tells us now to remember. If you don't remember nothing else, remember that you are an Israelite, remember you got to have faith in Christ, and remember you have to keep the law of commandments to get redeemed in the last days.
+
 > <sup>[10](/bible/ecclesiastes/1#v10)</sup> Is there any thing whereof it may be said, See, this is new? it hath been already of old time, which was before us.
 >
 > <sup>[11](/bible/ecclesiastes/1#v11)</sup> There is no remembrance of former things; neither shall there be any remembrance of things that are to come with those that shall come after.
-
-- The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun. What goes around comes around, like a circle.
-- Is there any thing whereof it may be said, See, this is new? it hath been already of old time, which was before us. This ain't the first time this is happening; it's happening all over again.
-- There is no remembrance of former things. We don't remember the things that happened before; that's why he tells us now to remember. If you don't remember nothing else, remember that you are an Israelite, remember you got to have faith in Christ, and remember you have to keep the law of commandments to get redeemed in the last days.
 
 **[Hosea 5:15](/bible/hosea/5#v15)**  *[[1:58:34](https://www.youtube.com/watch?v=kxiMez1I0_U&t=7114s)]*
 
@@ -471,16 +511,18 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 **[Baruch 3:5-8](/bible/baruch/3#v5)**  *[[2:06:31](https://www.youtube.com/watch?v=kxiMez1I0_U&t=7591s)]*
 
 > <sup>[5](/bible/baruch/3#v5)</sup> Remember not the iniquities of our forefathers: but think upon thy power and thy name now at this time.
->
+
+- Remember not the iniquities of our forefathers: but think upon thy power and thy name now at this time. Forget the iniquities we committed way back then, Father, that got us in this low condition.
+
+- For this cause thou hast put thy fear in our hearts, to the intent that we should call upon thy name. We got to call upon the name of the Lord, y'all, make them prayers and supplications like we supposed to, and praise him in our captivity.
+
+- Behold, we are yet this day in our captivity, where thou hast scattered us, for a reproach and a curse, and to be subject to payments. That's why we subject to payments: taxes on everything. You get paid, tax; you buy something, tax; you cash your check, more tax. Tax on top of tax, because we broke our God's law of commandments and departed from him.
+
 > <sup>[6](/bible/baruch/3#v6)</sup> For thou art the Lord our God, and thee, O Lord, will we praise.
 >
 > <sup>[7](/bible/baruch/3#v7)</sup> And for this cause thou hast put thy fear in our hearts, to the intent that we should call upon thy name, and praise thee in our captivity: for we have called to mind all the iniquity of our forefathers, that sinned before thee.
 >
 > <sup>[8](/bible/baruch/3#v8)</sup> Behold, we are yet this day in our captivity, where thou hast scattered us, for a reproach and a curse, and to be subject to payments, according to all the iniquities of our fathers, which departed from the Lord our God.
-
-- Remember not the iniquities of our forefathers: but think upon thy power and thy name now at this time. Forget the iniquities we committed way back then, Father, that got us in this low condition.
-- For this cause thou hast put thy fear in our hearts, to the intent that we should call upon thy name. We got to call upon the name of the Lord, y'all, make them prayers and supplications like we supposed to, and praise him in our captivity.
-- Behold, we are yet this day in our captivity, where thou hast scattered us, for a reproach and a curse, and to be subject to payments. That's why we subject to payments: taxes on everything. You get paid, tax; you buy something, tax; you cash your check, more tax. Tax on top of tax, because we broke our God's law of commandments and departed from him.
 
 **[2 Maccabees 1:2-6](/bible/2-maccabees/1#v2)**  *[[2:08:29](https://www.youtube.com/watch?v=kxiMez1I0_U&t=7709s)]*
 

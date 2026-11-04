@@ -62,10 +62,10 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 **[Luke 1:58-59](/bible/luke/1#v58)**  *[[8:06](https://www.youtube.com/watch?v=qTmpORodCG8&t=486s)]*
 
 > <sup>[58](/bible/luke/1#v58)</sup> And her neighbours and her cousins heard how the Lord had shewed great mercy upon her; and they rejoiced with her.
->
-> <sup>[59](/bible/luke/1#v59)</sup> And it came to pass, that on the eighth day they came to circumcise the child; and they called him Zacharias, after the name of his father.
 
 - And they rejoiced with her: They was happy for the sister. Watch this.
+
+> <sup>[59](/bible/luke/1#v59)</sup> And it came to pass, that on the eighth day they came to circumcise the child; and they called him Zacharias, after the name of his father.
 
 - And it came to pass, that on the eighth day they came to circumcise the child; and they called him Zacharias: So they circumcised the child on the eighth day. Let's get the law on that. Go to Leviticus chapter 12, because it's a lot of confusion in the Christian church regarding circumcision, and, you don't need to do this and you don't need to do that, brother, you don't need to be circumcised after the manner of Moses. We going to deal with that with the scriptures. Read that real quick, Leviticus 12 verse 1.
 
@@ -90,10 +90,10 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 **[Acts 15:1-2](/bible/acts/15#v1)**  *[[10:17](https://www.youtube.com/watch?v=qTmpORodCG8&t=617s)]*
 
 > <sup>[1](/bible/acts/15#v1)</sup> And certain men which came down from Judea taught the brethren, and said, Except ye be circumcised after the manner of Moses, ye cannot be saved.
->
-> <sup>[2](/bible/acts/15#v2)</sup> When therefore Paul and Barnabas had no small dissension and disputation with them, they determined that Paul and Barnabas, and certain other of them, should go up to Jerusalem unto the apostles and elders about this question.
 
 - Except ye be circumcised after the manner of Moses, ye cannot be saved: So what did we just read in the Book of Leviticus regarding circumcision after the manner of Moses? Meaning what? You had to offer up a sacrifice, man. That's what it meant to be circumcised after the manner of Moses. Read.
+
+> <sup>[2](/bible/acts/15#v2)</sup> When therefore Paul and Barnabas had no small dissension and disputation with them, they determined that Paul and Barnabas, and certain other of them, should go up to Jerusalem unto the apostles and elders about this question.
 
 - When therefore Paul and Barnabas had no small dissension and disputation with them: So this was the whole uproar. Was the uproar about you circumcising a child on the eighth day? No. The uproar was that these men came down to teach that if you didn't offer up a sacrifice you couldn't get the kingdom. Not the fact that they were circumcised; it was the sacrifice that accompanied the circumcision. That's what the dispute was about, not about if a young man on the eighth day should be circumcised. The dispute was, should we still be sacrificing after the death of Christ. That's what was going on. Read.
 
@@ -103,16 +103,16 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 **[Hebrews 10:4-6](/bible/hebrews/10#v4)**  *[[11:48](https://www.youtube.com/watch?v=qTmpORodCG8&t=708s)]*
 
 > <sup>[4](/bible/hebrews/10#v4)</sup> For it is not possible that the blood of bulls and of goats should take away sins.
->
-> <sup>[5](/bible/hebrews/10#v5)</sup> Wherefore when he cometh into the world, he saith, Sacrifice and offering thou wouldest not, but a body hast thou prepared me:
->
-> <sup>[6](/bible/hebrews/10#v6)</sup> In burnt offerings and sacrifices for sin thou hast had no pleasure.
 
 - For it is not possible that the blood of bulls and of goats should take away sins: Meaning what? There were certain sins that it was no manner of sacrifice that you could offer to redeem you from that sin. You had to be the sacrifice. Like if you broke the Sabbath, adultery, witchcraft, all homosexuality, you had to be the sacrifice. Read.
+
+> <sup>[5](/bible/hebrews/10#v5)</sup> Wherefore when he cometh into the world, he saith, Sacrifice and offering thou wouldest not, but a body hast thou prepared me:
 
 - Wherefore when he cometh into the world: That he that come into the world was Christ, when you read John 1 verse 29, and we going to get it. Read.
 
 - Sacrifice and offering thou wouldest not, but a body hast thou prepared me: Give me John 1:29 real quick, cuz it said, a body hast thou prepared me. Who was the sacrifice?
+
+> <sup>[6](/bible/hebrews/10#v6)</sup> In burnt offerings and sacrifices for sin thou hast had no pleasure.
 
 - In burnt offerings and sacrifices for sin thou hast had no pleasure: Thou hast had no pleasure. So now we get to understand what was going on in the book of Acts. It wasn't the fact that it was the circumcision; it was after the manner of Moses, meaning what? A sacrifice had to be accompanied to it. So read that, John 1 verse 29.
 
@@ -129,22 +129,22 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 **[Luke 1:59-63](/bible/luke/1#v59)**  *[[13:30](https://www.youtube.com/watch?v=qTmpORodCG8&t=810s)]*
 
 > <sup>[59](/bible/luke/1#v59)</sup> And it came to pass, that on the eighth day they came to circumcise the child; and they called him Zacharias, after the name of his father.
->
-> <sup>[60](/bible/luke/1#v60)</sup> And his mother answered and said, Not so; but he shall be called John.
->
-> <sup>[61](/bible/luke/1#v61)</sup> And they said unto her, There is none of thy kindred that is called by this name.
->
-> <sup>[62](/bible/luke/1#v62)</sup> And they made signs to his father, how he would have him called.
->
-> <sup>[63](/bible/luke/1#v63)</sup> And he asked for a writing table, and wrote, saying, His name is John. And they marvelled all.
 
 - And they called him Zacharias, after the name of his father: They said they called him Zacharias after the name of his father. Watch this.
 
+> <sup>[60](/bible/luke/1#v60)</sup> And his mother answered and said, Not so; but he shall be called John.
+
 - And his mother answered and said, Not so; but he shall be called John: And they said unto her, there is none of thy kindred that is called by this name.
+
+> <sup>[61](/bible/luke/1#v61)</sup> And they said unto her, There is none of thy kindred that is called by this name.
 
 - There is none of thy kindred that is called by this name: So they didn't even listen to her. This is the order. They did not listen to what the mother had said. They said, hold on, ain't nobody in your family called after that. They was looking for who? Who was the next related kin of a man. Watch this.
 
+> <sup>[62](/bible/luke/1#v62)</sup> And they made signs to his father, how he would have him called.
+
 - And they made signs to his father, how he would have him called: How he would have him called.
+
+> <sup>[63](/bible/luke/1#v63)</sup> And he asked for a writing table, and wrote, saying, His name is John. And they marvelled all.
 
 - And he asked for a writing table, and wrote, saying, His name is John: His name is what? Is John. So now I'm going to show y'all something. Give me 1 Corinthians 11:3, cuz y'all might be wondering, well, why didn't they listen to the mother at that time? Because it was order, and we going to go back to the beginning to show how the thing was established. But what we're reading here is how the communities was set up and how there was also order in the community. They said, hold on, we going to see if there's anyone near kin. Then they went to the father, cuz remember Zachariah couldn't talk at the time. So then they said, hold on, give him some paper to write on, and he said, his name is going to be John. I'mma show you where that's coming from, but let's get the order first real quick.
 
@@ -161,10 +161,10 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 **[1 Corinthians 11:8-9](/bible/1-corinthians/11#v8)**  *[[15:39](https://www.youtube.com/watch?v=qTmpORodCG8&t=939s)]*
 
 > <sup>[8](/bible/1-corinthians/11#v8)</sup> For the man is not of the woman; but the woman of the man.
->
-> <sup>[9](/bible/1-corinthians/11#v9)</sup> Neither was the man created for the woman; but the woman for the man.
 
 - For the man is not of the woman; but the woman of the man: But the man is not of the woman, but the woman is of the man.
+
+> <sup>[9](/bible/1-corinthians/11#v9)</sup> Neither was the man created for the woman; but the woman for the man.
 
 - Neither was the man created for the woman; but the woman for the man: Neither was the man created for the woman. Watch this. But the woman for the man. Go to Genesis 2:19. That's the order: God, Christ, man, woman. That's why they said, hold on, we hear what you saying, sister, but that's got to be confirmed by the father, cuz the man has the authority to name the child. Understand that. We going to show you that straight out of Genesis. Read that. Oh no, Genesis 2:19 brother, we starting there.
 
@@ -172,8 +172,6 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 **[Genesis 2:19-20](/bible/genesis/2#v19)**  *[[16:25](https://www.youtube.com/watch?v=qTmpORodCG8&t=985s)]*
 
 > <sup>[19](/bible/genesis/2#v19)</sup> And out of the ground the Lord God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof.
->
-> <sup>[20](/bible/genesis/2#v20)</sup> And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him.
 
 - And out of the ground the Lord God formed every beast of the field: So he formed every beast of the field. Watch this.
 
@@ -181,16 +179,18 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 
 - To see what he would call them: To see what he would do, what he would call them. See what Adam would call them. Adam had the authority to call that. The man had the authority. Read verse 20.
 
+> <sup>[20](/bible/genesis/2#v20)</sup> And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him.
+
 - But for Adam there was not found an help meet for him: Jump to verse 22.
 
 
 **[Genesis 2:22-23](/bible/genesis/2#v22)**  *[[17:08](https://www.youtube.com/watch?v=qTmpORodCG8&t=1028s)]*
 
 > <sup>[22](/bible/genesis/2#v22)</sup> And the rib, which the Lord God had taken from man, made he a woman, and brought her unto the man.
->
-> <sup>[23](/bible/genesis/2#v23)</sup> And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man.
 
 - And the rib, which the Lord God had taken from man, made he a woman, and brought her unto the man: You see that? You see the order? God brought the woman unto the man. This is showing the authority, the order that we read in 1 Corinthians 11, right here in the beginning. Watch this though.
+
+> <sup>[23](/bible/genesis/2#v23)</sup> And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man.
 
 - She shall be called Woman: What? She shall be called woman. We just read that in Corinthians, 1 Corinthians 11:8: man is not of the woman, but woman is of the man. Paul is quoting straight out of Genesis. Read.
 
@@ -204,18 +204,18 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 > <sup>[63](/bible/luke/1#v63)</sup> And he asked for a writing table, and wrote, saying, His name is John. And they marvelled all.
 >
 > <sup>[64](/bible/luke/1#v64)</sup> And his mouth was opened immediately, and his tongue loosed, and he spake, and praised God.
->
-> <sup>[65](/bible/luke/1#v65)</sup> And fear came on all that dwelt round about them: and all these sayings were noised abroad throughout all the hill country of Judea.
->
-> <sup>[66](/bible/luke/1#v66)</sup> And all they that heard them laid them up in their hearts, saying, What manner of child shall this be! And the hand of the Lord was with him.
->
-> <sup>[67](/bible/luke/1#v67)</sup> And his father Zacharias was filled with the Holy Ghost, and prophesied, saying,
 
 - And his mouth was opened immediately: And his mouth was opened immediately, cuz remember he couldn't talk, cuz he questioned. Real quick, he said, hold on, you just going to be mute.
 
+> <sup>[65](/bible/luke/1#v65)</sup> And fear came on all that dwelt round about them: and all these sayings were noised abroad throughout all the hill country of Judea.
+
 - And fear came on all that dwelt round about them: So fear came on all that dwelt round about, cuz they was like, hold on, his man was made mute, now he could speak. We had to fear the Lord.
 
+> <sup>[66](/bible/luke/1#v66)</sup> And all they that heard them laid them up in their hearts, saying, What manner of child shall this be! And the hand of the Lord was with him.
+
 - What manner of child shall this be: Was like, hold on man, what kind of child is this going to be? The things that took place.
+
+> <sup>[67](/bible/luke/1#v67)</sup> And his father Zacharias was filled with the Holy Ghost, and prophesied, saying,
 
 - And his father Zacharias was filled with the Holy Ghost: His father was filled with the what? With the Holy Ghost.
 
@@ -225,12 +225,12 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 **[Joel 2:27-28](/bible/joel/2#v27)**  *[[20:20](https://www.youtube.com/watch?v=qTmpORodCG8&t=1220s)]*
 
 > <sup>[27](/bible/joel/2#v27)</sup> And ye shall know that I am in the midst of Israel, and that I am the Lord your God, and none else: and my people shall never be ashamed.
->
-> <sup>[28](/bible/joel/2#v28)</sup> And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:
 
 - And ye shall know that I am in the midst of Israel: That's why he said blessed be the Lord God of Israel, in verse 68 in Luke 1.
 
 - And that I am the Lord your God, and none else: Crystal clear. But read the next verse. That's verse 28, I need verse 28, brother.
+
+> <sup>[28](/bible/joel/2#v28)</sup> And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:
 
 - And your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions: So you don't read anywhere where it talks about the Holy Spirit and our forefathers prophesying that you read any account of anybody muttering some foolishness. That's all satanic and evil, straight up. Let's go back to Luke, Luke 1 verse 68.
 
@@ -245,12 +245,12 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 **[Exodus 3:16-17](/bible/exodus/3#v16)**  *[[21:56](https://www.youtube.com/watch?v=qTmpORodCG8&t=1316s)]*
 
 > <sup>[16](/bible/exodus/3#v16)</sup> Go, and gather the elders of Israel together, and say unto them, The Lord God of your fathers, the God of Abraham, of Isaac, and of Jacob, appeared unto me, saying, I have surely visited you, and seen that which is done to you in Egypt:
->
-> <sup>[17](/bible/exodus/3#v17)</sup> And I have said, I will bring you up out of the affliction of Egypt unto the land of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, unto a land flowing with milk and honey.
 
 - I have surely visited you: He did what? I have surely visited you. He said, I've surely visited you.
 
 - And seen that which is done to you in Egypt: He did what? And seeing that which is done to you in Egypt. So if he saw what was done to us in Egypt, what you think, he's seeing what's going on here in this spiritual Egypt? Uh-oh, we already, the theme starting to roll out already.
+
+> <sup>[17](/bible/exodus/3#v17)</sup> And I have said, I will bring you up out of the affliction of Egypt unto the land of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, unto a land flowing with milk and honey.
 
 - I will bring you up out of the affliction of Egypt: Hold on, he going to do what? I will bring you up out of the affliction of Egypt. So we got us being visited because the affliction is going on.
 
@@ -274,8 +274,6 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 **[Isaiah 43:1-2](/bible/isaiah/43#v1)**  *[[24:15](https://www.youtube.com/watch?v=qTmpORodCG8&t=1455s)]*
 
 > <sup>[1](/bible/isaiah/43#v1)</sup> But now thus saith the Lord that created thee, O Jacob, and he that formed thee, O Israel, Fear not: for I have redeemed thee, I have called thee by thy name; thou art mine.
->
-> <sup>[2](/bible/isaiah/43#v2)</sup> When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee.
 
 - And he that formed thee, O Israel: O Israel. Blessed be the Lord God of Israel.
 
@@ -284,6 +282,8 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 - I have called thee by thy name: We are named Israel, the sons of God, the prince of the power.
 
 - Thou art mine: What? Thou art mine. No, all nations is mine? Thou art mine. That's crystal clear, thou art mine. What's so hard about that?
+
+> <sup>[2](/bible/isaiah/43#v2)</sup> When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee.
 
 - When thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee: So it says when thou walkest through the fire. Watch this. Thou shalt not be burned. So he said, we remember we walk through the waters, through the Red Sea. Said, when did we walk through the fire? Give me Psalms 91 real quick, cuz what we reading about here is the redemption of Israel. We reading about the redemption of Israel, cuz a lot of people got it twisted, thinking that he coming back for everybody. Everybody wasn't delivered when Egypt was destroyed. Understand that thing.
 
@@ -298,31 +298,23 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 **[Psalms 91:5-8](/bible/psalms/91#v5)**  *[[25:55](https://www.youtube.com/watch?v=qTmpORodCG8&t=1555s)]*
 
 > <sup>[5](/bible/psalms/91#v5)</sup> Thou shalt not be afraid for the terror by night; nor for the arrow that flieth by day;
->
-> <sup>[6](/bible/psalms/91#v6)</sup> Nor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noonday.
->
-> <sup>[7](/bible/psalms/91#v7)</sup> A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee.
->
-> <sup>[8](/bible/psalms/91#v8)</sup> Only with thine eyes shalt thou behold and see the reward of the wicked.
 
 - Nor for the arrow that flieth by day: That arrow that flieth by day is talking about that fire that we read there in Isaiah 43. Read on, it's going to prove it.
 
+> <sup>[6](/bible/psalms/91#v6)</sup> Nor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noonday.
+
 - Nor for the destruction that wasteth at noonday: Nor for the destruction that wasteth at noonday. What creates a waste land? A nuclear bomb. Read.
 
+> <sup>[7](/bible/psalms/91#v7)</sup> A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee.
+
 - A thousand shall fall at thy side, and ten thousand at thy right hand: So what kind of bomb is going to hit that's going to take 10,000 out, take a thousand out? That's a nuclear bomb. That's being brought through the fire. Go back to Isaiah 43 and read verse two.
+
+> <sup>[8](/bible/psalms/91#v8)</sup> Only with thine eyes shalt thou behold and see the reward of the wicked.
 
 
 **[Isaiah 43:2-6](/bible/isaiah/43#v2)**  *[[26:39](https://www.youtube.com/watch?v=qTmpORodCG8&t=1599s)]*
 
 > <sup>[2](/bible/isaiah/43#v2)</sup> When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee.
->
-> <sup>[3](/bible/isaiah/43#v3)</sup> For I am the Lord thy God, the Holy One of Israel, thy Saviour: I gave Egypt for thy ransom, Ethiopia and Seba for thee.
->
-> <sup>[4](/bible/isaiah/43#v4)</sup> Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life.
->
-> <sup>[5](/bible/isaiah/43#v5)</sup> Fear not: for I am with thee: I will bring thy seed from the east, and gather thee from the west;
->
-> <sup>[6](/bible/isaiah/43#v6)</sup> I will say to the north, Give up; and to the south, Keep not back: bring my sons from far, and my daughters from the ends of the earth;
 
 - When thou passest through the waters, I will be with thee: We pass through the Red Sea and Christ was with us.
 
@@ -330,9 +322,17 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 
 - Thou shalt not be burned: We not going to be burned, just like when you read about Daniel in the fiery furnace.
 
+> <sup>[3](/bible/isaiah/43#v3)</sup> For I am the Lord thy God, the Holy One of Israel, thy Saviour: I gave Egypt for thy ransom, Ethiopia and Seba for thee.
+
 - For I am the Lord thy God, the Holy One of Israel: The what? The Holy One of Israel. The Holy One of Israel. Zachariah is saying the same thing.
 
 - I gave Egypt for thy ransom, Ethiopia and Seba for thee: Meaning what? The Lord destroyed nations for us in that first redemption. What you going to think he going to do when he come back?
+
+> <sup>[4](/bible/isaiah/43#v4)</sup> Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life.
+>
+> <sup>[5](/bible/isaiah/43#v5)</sup> Fear not: for I am with thee: I will bring thy seed from the east, and gather thee from the west;
+>
+> <sup>[6](/bible/isaiah/43#v6)</sup> I will say to the north, Give up; and to the south, Keep not back: bring my sons from far, and my daughters from the ends of the earth;
 
 - Bring my sons from far, and my daughters from the ends of the earth: You see that? So it says bring my sons back from far, my daughters from the ends of the earth. That's redemption. So now go back to Luke 1:68.
 
@@ -365,7 +365,13 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 **[Psalms 132:11-18](/bible/psalms/132#v11)**  *[[30:34](https://www.youtube.com/watch?v=qTmpORodCG8&t=1834s)]*
 
 > <sup>[11](/bible/psalms/132#v11)</sup> The Lord hath sworn in truth unto David; he will not turn from it; Of the fruit of thy body will I set upon thy throne.
->
+
+- He will not turn from it: He not going to turn from it, he not going to break his word.
+
+- Of the fruit of thy body will I set upon thy throne: There we go. It says will I set upon thy throne. The fruit of thy body. Did it say an angel? Read that one more time, cuz my translation says through David. Read that one more time. Of the fruit of thy body. No, the fruit of the angel? Thy body. No, the angel, brother? The fruit of thy body. A maculate conception? The fruit of thy body. That's through the seed, what we read in Leviticus 12.
+
+- Will I set upon thy throne: That's crystal clear. Through the seed of thy body. It didn't say celestial whatever that's out there. Through the seed of thy body. The Lord made a promise to him. So if you talking about Immaculate Conception, you calling the Lord a liar, right? Read.
+
 > <sup>[12](/bible/psalms/132#v12)</sup> If thy children will keep my covenant and my testimony that I shall teach them, their children shall also sit upon thy throne for evermore.
 >
 > <sup>[13](/bible/psalms/132#v13)</sup> For the Lord hath chosen Zion; he hath desired it for his habitation.
@@ -377,18 +383,12 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 > <sup>[16](/bible/psalms/132#v16)</sup> I will also clothe her priests with salvation: and her saints shall shout aloud for joy.
 >
 > <sup>[17](/bible/psalms/132#v17)</sup> There will I make the horn of David to bud: I have ordained a lamp for mine anointed.
->
-> <sup>[18](/bible/psalms/132#v18)</sup> His enemies will I clothe with shame: but upon himself shall his crown flourish.
-
-- He will not turn from it: He not going to turn from it, he not going to break his word.
-
-- Of the fruit of thy body will I set upon thy throne: There we go. It says will I set upon thy throne. The fruit of thy body. Did it say an angel? Read that one more time, cuz my translation says through David. Read that one more time. Of the fruit of thy body. No, the fruit of the angel? Thy body. No, the angel, brother? The fruit of thy body. A maculate conception? The fruit of thy body. That's through the seed, what we read in Leviticus 12.
-
-- Will I set upon thy throne: That's crystal clear. Through the seed of thy body. It didn't say celestial whatever that's out there. Through the seed of thy body. The Lord made a promise to him. So if you talking about Immaculate Conception, you calling the Lord a liar, right? Read.
 
 - There will I make the horn of David to bud: Here we go, right here. There I'll do what? There will I make the horn of David to bud. That's Christ.
 
 - I have ordained a lamp for mine anointed: That's the law, that's the wisdom that give us light.
+
+> <sup>[18](/bible/psalms/132#v18)</sup> His enemies will I clothe with shame: but upon himself shall his crown flourish.
 
 - His enemies will I clothe with shame: His enemies I'm going to clothe with shame. We going to get that in Deuteronomy.
 
@@ -411,12 +411,12 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 **[Luke 1:69-71](/bible/luke/1#v69)**  *[[34:32](https://www.youtube.com/watch?v=qTmpORodCG8&t=2072s)]*
 
 > <sup>[69](/bible/luke/1#v69)</sup> And hath raised up an horn of salvation for us in the house of his servant David;
->
+
+- And hath raised up an horn of salvation for us in the house of his servant David: So we understand that horn signifies power. That's talking about Christ coming through the lineage of King David. That's why we read that in Psalms 132, to show that.
+
 > <sup>[70](/bible/luke/1#v70)</sup> As he spake by the mouth of his holy prophets, which have been since the world began:
 >
 > <sup>[71](/bible/luke/1#v71)</sup> That we should be saved from our enemies, and from the hand of all that hate us;
-
-- And hath raised up an horn of salvation for us in the house of his servant David: So we understand that horn signifies power. That's talking about Christ coming through the lineage of King David. That's why we read that in Psalms 132, to show that.
 
 - That we should be saved from our enemies: It says that we should be saved from our enemies.
 
@@ -428,30 +428,28 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 > <sup>[1](/bible/psalms/83#v1)</sup> Keep not thou silence, O God: hold not thy peace, and be not still, O God.
 >
 > <sup>[2](/bible/psalms/83#v2)</sup> For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.
->
-> <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
->
-> <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
->
-> <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
->
-> <sup>[6](/bible/psalms/83#v6)</sup> The tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes;
->
-> <sup>[7](/bible/psalms/83#v7)</sup> Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;
 
 - For, lo, thine enemies make a tumult: It says thine enemies make a tumult. Read.
 
 - And they that hate thee have lifted up the head: They that hate thee have lifted up the head.
 
+> <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
+
 - They have taken crafty counsel against thy people, and consulted against thy hidden ones: You see that? They taking crafty counsel. These enemies first and foremost are prideful. They hate God and they hate his children. They've taken crafty counsel against us. Like what? Operation COINTELPRO, changing our names up, giving us all these false religions. That's crafty counsel. Poisoning our food, that's crafty counsel. The terrible education, the Christian faith, that's crafty counsel.
+
+> <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
 
 - That the name of Israel may be no more in remembrance: You know that this prophecy is true because when you ask, who are the real children of Israel, nobody knows. The fact that you acknowledge that you don't know who the Israelites are today is confirmation of this prophecy. Read that again from the top.
 
 - They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance: Because they think just because they deny or act like they don't know who the Israelites are. That's confirmation of the prophecy, that the name of Israel will be taken out of remembrance. So when you want to act like you don't acknowledge that the so-called blacks, Hispanics and Native Americans are the 12 tribes of Israel, you not doing anything but confirming a prophecy, cuz it said the name will be taken out of remembrance. Understand that thing. You can't do anything against this truth. Read.
 
+> <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
+
 - For they have consulted together with one consent: they are confederate against thee: So all these nations, they might war and fight amongst one another, but they come together on one thing: keeping your identity secret. I'mma tell you straight, Ishmael will sit there and get bombed to Smither rings, but he not going to get on the TV, say, you know what, these white folks bombing the hell out of us, the hell out of us, you blacks over there in America, y'all are real Jews. They rather get bombed to Smither rings than admit that, straight up. Read it again.
 
 - With one consent: They all on one accord with this, keeping the name of remembrance, the name of Israel, out of remembrance.
+
+> <sup>[6](/bible/psalms/83#v6)</sup> The tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes;
 
 - The tabernacles of Edom: The first enemy is the so-called white man. Read.
 
@@ -461,6 +459,8 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 
 - The tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes: The house of the so-called white man. And the Israelites, that's your Arab man. Moab, that's your Chinese man. And the Hagarenes, those are Egyptians that come from Hagar, ancient Africans.
 
+> <sup>[7](/bible/psalms/83#v7)</sup> Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;
+
 - Gebal, and Ammon: Gebal, more Africans. And Ammon, that's your Japanese man. Read.
 
 - And Amalek; the Philistines with the inhabitants of Tyre: Amalek is a so-called Jewish man, the Israeli today. The Philistines with the inhabitants of Tyre, so those are Africans. So now you see the list of enemies that the Lord laid out that we going to be saved from. So now let's go back to Luke, Luke 1 verse 71.
@@ -469,18 +469,18 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 **[Luke 1:71-73](/bible/luke/1#v71)**  *[[38:59](https://www.youtube.com/watch?v=qTmpORodCG8&t=2339s)]*
 
 > <sup>[71](/bible/luke/1#v71)</sup> That we should be saved from our enemies, and from the hand of all that hate us;
->
-> <sup>[72](/bible/luke/1#v72)</sup> To perform the mercy promised to our fathers, and to remember his holy covenant;
->
-> <sup>[73](/bible/luke/1#v73)</sup> The oath which he sware to our father Abraham,
 
 - That we should be saved from our enemies: That we should be saved from our enemies. We just read the list of the enemies.
 
 - And from the hand of all that hate us: Because they hate us. We read that in the scripture. It says, for lo, thine enemies make a tumult, they that hate thee have lifted up the head. So they hate us. That's why it says we shall be saved from our enemies and the hands of all that hate us.
 
+> <sup>[72](/bible/luke/1#v72)</sup> To perform the mercy promised to our fathers, and to remember his holy covenant;
+
 - To perform the mercy promised to our fathers: It says to perform the mercy promised to our father. That's Abraham.
 
 - And to remember his holy covenant: And to what? And to remember his what? And to remember his holy covenant. Let's get the covenant. Give me Exodus chapter 24. We going to get the promise, we going to get all that. We're going to clear all the confusion up, because Christians don't even read Luke chapter 1. They don't. I ain't heard nobody break that down in the church, cuz you going to have to be like, hold on, only Israelites getting saved? Then the next question is, who are the Israelites? Got you. Read that, Exodus 24 verse 4.
+
+> <sup>[73](/bible/luke/1#v73)</sup> The oath which he sware to our father Abraham,
 
 
 **[Exodus 24:4-8](/bible/exodus/24#v4)**  *[[39:46](https://www.youtube.com/watch?v=qTmpORodCG8&t=2386s)]*
@@ -511,14 +511,14 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 **[Jeremiah 31:31-33](/bible/jeremiah/31#v31)**  *[[42:06](https://www.youtube.com/watch?v=qTmpORodCG8&t=2526s)]*
 
 > <sup>[31](/bible/jeremiah/31#v31)</sup> Behold, the days come, saith the Lord, that I will make a new covenant with the house of Israel, and with the house of Judah:
->
-> <sup>[32](/bible/jeremiah/31#v32)</sup> Not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which my covenant they brake, although I was an husband unto them, saith the Lord:
->
-> <sup>[33](/bible/jeremiah/31#v33)</sup> But this shall be the covenant that I will make with the house of Israel; After those days, saith the Lord, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people.
 
 - Behold, the days come, saith the Lord, that I will make a new covenant with the house of Israel: Going to do what? Make a new covenant with the house of Israel. So he said, I'm going to make a new covenant with the house of Israel.
 
+> <sup>[32](/bible/jeremiah/31#v32)</sup> Not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which my covenant they brake, although I was an husband unto them, saith the Lord:
+
 - Which my covenant they brake, although I was an husband unto them, saith the Lord: So we said, he going to make a new covenant even though we going to break it. Is that verse 33? Yep, read verse 33.
+
+> <sup>[33](/bible/jeremiah/31#v33)</sup> But this shall be the covenant that I will make with the house of Israel; After those days, saith the Lord, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people.
 
 - And will be their God, and they shall be my people: So now let's get the new covenant, cuz remember the first covenant was established with blood. What was the second covenant established with? Let's go to Matthew 27. We want to make sure that this is all nice and clear. Give me Matthew 27, because I want to get to the point. Start at verse 20, let's read this quick. Matter of fact, damn, start at verse 17.
 
@@ -528,36 +528,36 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 > <sup>[17](/bible/matthew/27#v17)</sup> Therefore when they were gathered together, Pilate said unto them, Whom will ye that I release unto you? Barabbas, or Jesus which is called Christ?
 >
 > <sup>[18](/bible/matthew/27#v18)</sup> For he knew that for envy they had delivered him.
->
-> <sup>[19](/bible/matthew/27#v19)</sup> When he was set down on the judgment seat, his wife sent unto him, saying, Have thou nothing to do with that just man: for I have suffered many things this day in a dream because of him.
->
-> <sup>[20](/bible/matthew/27#v20)</sup> But the chief priests and elders persuaded the multitude that they should ask Barabbas, and destroy Jesus.
->
-> <sup>[21](/bible/matthew/27#v21)</sup> The governor answered and said unto them, Whether of the twain will ye that I release unto you? They said, Barabbas.
->
-> <sup>[22](/bible/matthew/27#v22)</sup> Pilate saith unto them, What shall I do then with Jesus which is called Christ? They all say unto him, Let him be crucified.
->
-> <sup>[23](/bible/matthew/27#v23)</sup> And the governor said, Why, what evil hath he done? But they cried out the more, saying, Let him be crucified.
->
-> <sup>[24](/bible/matthew/27#v24)</sup> When Pilate saw that he could prevail nothing, but that rather a tumult was made, he took water, and washed his hands before the multitude, saying, I am innocent of the blood of this just person: see ye to it.
->
-> <sup>[25](/bible/matthew/27#v25)</sup> Then answered all the people, and said, His blood be on us, and on our children.
 
 - For he knew that for envy they had delivered him: Even a white man knew that our people delivered Christ for envy. He knew that he was an innocent man. The hell is this? Read.
 
+> <sup>[19](/bible/matthew/27#v19)</sup> When he was set down on the judgment seat, his wife sent unto him, saying, Have thou nothing to do with that just man: for I have suffered many things this day in a dream because of him.
+
 - Have thou nothing to do with that just man: For I have suffered many things this day in a dream because of him. So she received the dream, like, hold on man, don't have nothing to do with this just man, cuz he can't have anything to do with him. We going to show you that. Watch this.
+
+> <sup>[20](/bible/matthew/27#v20)</sup> But the chief priests and elders persuaded the multitude that they should ask Barabbas, and destroy Jesus.
 
 - But the chief priests and elders persuaded the multitude: But the who? The chief priests and elders persuaded the multitude. That's your scribes and Pharisees. That's the one, when it says he came to his own and his own received him not, it's talking about the chief priests, scribes and elders, man. You read that in Mark 8:31 and so forth.
 
 - That they should ask Barabbas, and destroy Jesus: So a known murder gets free, and they, this how wicked our people are, they killing a just man. Read.
 
+> <sup>[21](/bible/matthew/27#v21)</sup> The governor answered and said unto them, Whether of the twain will ye that I release unto you? They said, Barabbas.
+
 - They said, Barabbas: So jump down to verse 24. Watch this.
+
+> <sup>[22](/bible/matthew/27#v22)</sup> Pilate saith unto them, What shall I do then with Jesus which is called Christ? They all say unto him, Let him be crucified.
+>
+> <sup>[23](/bible/matthew/27#v23)</sup> And the governor said, Why, what evil hath he done? But they cried out the more, saying, Let him be crucified.
+>
+> <sup>[24](/bible/matthew/27#v24)</sup> When Pilate saw that he could prevail nothing, but that rather a tumult was made, he took water, and washed his hands before the multitude, saying, I am innocent of the blood of this just person: see ye to it.
 
 - When Pilate saw that he could prevail nothing: What'd he do?
 
 - He took water, and washed his hands before the multitude: So he took water and washed his hands before the multitude.
 
 - Saying, I am innocent of the blood of this just person: I am innocent of the what? Of the blood of this just person. He said, hold on, I ain't got nothing to do with this blood or covenant.
+
+> <sup>[25](/bible/matthew/27#v25)</sup> Then answered all the people, and said, His blood be on us, and on our children.
 
 - Then answered all the people, and said, His blood be on us: Hold it. We said what? His blood be on us. So now give me Exodus 24 and 7 again. Read that one, his blood shall be upon us. Read Exodus 24:7 for me.
 
@@ -588,12 +588,12 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 **[Luke 1:72-73](/bible/luke/1#v72)**  *[[47:50](https://www.youtube.com/watch?v=qTmpORodCG8&t=2870s)]*
 
 > <sup>[72](/bible/luke/1#v72)</sup> To perform the mercy promised to our fathers, and to remember his holy covenant;
->
-> <sup>[73](/bible/luke/1#v73)</sup> The oath which he sware to our father Abraham,
 
 - To perform the mercy promised to our fathers: So it says to perform the mercy, the mercy promised to our father.
 
 - And to remember his holy covenant: We read about the covenant that was established with Moses, now we read about it in Matthew 25, that was established with Christ. What? Through blood.
+
+> <sup>[73](/bible/luke/1#v73)</sup> The oath which he sware to our father Abraham,
 
 - The oath which he sware to our father Abraham: So now let's get the oath. Let's get the promise of the oath. Give me Genesis chapter 12, we going to start at verse three. So I hope you brothers and sisters are following along here. I know it's a lot, but what's being prophesied here by Zachariah, because remember Zachariah's prophecy is based on the scriptures and the prophets, that's why we going back and forth. We want to make sure we don't lose any of you brothers and sisters: that we read about the deliverance, we read about the covenant, how it was established, we read about the new covenant being established in Christ. So now we dealing with the promise.
 
@@ -615,46 +615,46 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 **[Acts 3:18-26](/bible/acts/3#v18)**  *[[50:19](https://www.youtube.com/watch?v=qTmpORodCG8&t=3019s)]*
 
 > <sup>[18](/bible/acts/3#v18)</sup> But those things, which God before had shewed by the mouth of all his prophets, that Christ should suffer, he hath so fulfilled.
->
-> <sup>[19](/bible/acts/3#v19)</sup> Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord;
->
-> <sup>[20](/bible/acts/3#v20)</sup> And he shall send Jesus Christ, which before was preached unto you:
->
-> <sup>[21](/bible/acts/3#v21)</sup> Whom the heaven must receive until the times of restitution of all things, which God hath spoken by the mouth of all his holy prophets since the world began.
->
-> <sup>[22](/bible/acts/3#v22)</sup> For Moses truly said unto the fathers, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear in all things whatsoever he shall say unto you.
->
-> <sup>[23](/bible/acts/3#v23)</sup> And it shall come to pass, that every soul, which will not hear that prophet, shall be destroyed from among the people.
->
-> <sup>[24](/bible/acts/3#v24)</sup> Yea, and all the prophets from Samuel and those that follow after, as many as have spoken, have likewise foretold of these days.
->
-> <sup>[25](/bible/acts/3#v25)</sup> Ye are the children of the prophets, and of the covenant which God made with our fathers, saying unto Abraham, And in thy seed shall all the kindreds of the earth be blessed.
->
-> <sup>[26](/bible/acts/3#v26)</sup> Unto you first God, having raised up his Son Jesus, sent him to bless you, in turning away every one of you from his iniquities.
 
 - That Christ should suffer, he hath so fulfilled: That's what Christ fulfilled, the suffering that he's out there making reference to, Isaiah 53. Also Genesis, many scriptures that show that Christ will suffer for the nation of Israel.
+
+> <sup>[19](/bible/acts/3#v19)</sup> Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord;
 
 - Repent ye therefore, and be converted: So it says repent ye therefore and be converted.
 
 - When the times of refreshing shall come from the presence of the Lord: Meaning Judgment Day. Make sure you repent and keep the commandments and the faith in Christ.
 
+> <sup>[20](/bible/acts/3#v20)</sup> And he shall send Jesus Christ, which before was preached unto you:
+>
+> <sup>[21](/bible/acts/3#v21)</sup> Whom the heaven must receive until the times of restitution of all things, which God hath spoken by the mouth of all his holy prophets since the world began.
+
 - Until the times of restitution of all things: What's the restitution? The restitution is talking about the resurrection, or the reconciliation of the 12 tribes of Israel.
 
 - Which God hath spoken by the mouth of all his holy prophets since the world began: You see that? This thing was from the beginning. This thing has always been about the 12 tribes of the children of Israel.
+
+> <sup>[22](/bible/acts/3#v22)</sup> For Moses truly said unto the fathers, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear in all things whatsoever he shall say unto you.
 
 - A prophet shall the Lord your God raise up unto you of your brethren: Of who? Of your brethren. It says unto you of your brethren. Meaning who was out there in the wilderness with us? The 12 tribes of Israel. That's your brother. That's the prophet, talking about Christ.
 
 - Him shall ye hear in all things whatsoever he shall say unto you: He says him shall ye hear in all things. We read that during the Transfiguration, said, this is my beloved son who I'm well pleased, hear ye him. Meaning what? Christ overrides anything. He is the authority. We follow Christ, we not following animal sacrifice.
 
+> <sup>[23](/bible/acts/3#v23)</sup> And it shall come to pass, that every soul, which will not hear that prophet, shall be destroyed from among the people.
+
 - Every soul, which will not hear that prophet, shall be destroyed from among the people: Meaning, don't want to hear Christ. No, from among all the people? From among the people, meaning the Israelites.
 
+> <sup>[24](/bible/acts/3#v24)</sup> Yea, and all the prophets from Samuel and those that follow after, as many as have spoken, have likewise foretold of these days.
+
 - As many as have spoken, have likewise foretold of these days: Meaning what? Talking about Christ. He's going to go all the way back to the beginning. He mentioned Samuel, now he's going to go back to the beginning. Watch this.
+
+> <sup>[25](/bible/acts/3#v25)</sup> Ye are the children of the prophets, and of the covenant which God made with our fathers, saying unto Abraham, And in thy seed shall all the kindreds of the earth be blessed.
 
 - Ye are the children of the prophets: Ye are the children of the prophets. Didn't say all nations are the children of the prophets. Ye are the children of the prophets.
 
 - And of the covenant which God made with our fathers, saying unto Abraham: So it says the covenant, we read about that. But what did he say to Abraham?
 
 - And in thy seed shall all the kindreds of the earth be blessed: That's the promise. So he said the covenants, and what he said to Abraham, that's the promise.
+
+> <sup>[26](/bible/acts/3#v26)</sup> Unto you first God, having raised up his Son Jesus, sent him to bless you, in turning away every one of you from his iniquities.
 
 - Sent him to bless you: What's this blessing? Read.
 
@@ -711,16 +711,6 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 **[2 Maccabees 6:6-11](/bible/2-maccabees/6#v6)**  *[[58:08](https://www.youtube.com/watch?v=qTmpORodCG8&t=3488s)]*
 
 > <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient feasts, or to profess himself at all to be a Jew.
->
-> <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the feast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
->
-> <sup>[8](/bible/2-maccabees/6#v8)</sup> Moreover there went out a decree to the neighbour cities of the heathen, by the suggestion of Ptolemee, against the Jews, that they should observe the same fashions, and be partakers of their sacrifices:
->
-> <sup>[9](/bible/2-maccabees/6#v9)</sup> And whoso would not conform themselves to the manners of the Gentiles should be put to death. Then might a man have seen the present misery.
->
-> <sup>[10](/bible/2-maccabees/6#v10)</sup> For there were two women brought, who had circumcised their children; whom when they had openly led round about the city, the babes hanging at their breasts, they cast them down headlong from the wall.
->
-> <sup>[11](/bible/2-maccabees/6#v11)</sup> And others, that had run together into caves near by, to keep the sabbath day secretly, being discovered to Philip, were all burnt together, because they made a conscience to help themselves for the honour of the most sacred day.
 
 - Neither was it lawful for a man to keep sabbath days: So they outlawed you being able to keep the Sabbath. If you had to keep the Sabbath, you had to do that in fear. Fear of what? Your life. That's coming again.
 
@@ -728,19 +718,29 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 
 - Or to profess himself at all to be a Jew: So you couldn't even say, I'm an Israelite. We see that today, what they do to Kyrie Irving, what they do to Kanye West, what they do to Nick Cannon, DeSean Jackson. The list goes on.
 
+> <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the feast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
+
 - And in the day of the king's birth every month they were brought by bitter constraint: So hold on, if we celebrate birthdays, if birthdays wasn't a sin, why was we bought by bitter constraint? That means it's against our will.
 
 - When the feast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus: We was forced to celebrate a demonic custom.
 
+> <sup>[8](/bible/2-maccabees/6#v8)</sup> Moreover there went out a decree to the neighbour cities of the heathen, by the suggestion of Ptolemee, against the Jews, that they should observe the same fashions, and be partakers of their sacrifices:
+
 - That they should observe the same fashions, and be partakers of their sacrifices: So what's the decree? They said, hold on, if you not getting down with the Greek way of living, you going to get put to death. That's what it means, serving him without fear.
+
+> <sup>[9](/bible/2-maccabees/6#v9)</sup> And whoso would not conform themselves to the manners of the Gentiles should be put to death. Then might a man have seen the present misery.
 
 - And whoso would not conform themselves to the manners of the Gentiles: If you didn't conform. It said heathens, the verse above. If you didn't conform yourself to the customs of the other nations, the heathens slash Gentiles,
 
 - Should be put to death: Should be what? Put to death.
 
+> <sup>[10](/bible/2-maccabees/6#v10)</sup> For there were two women brought, who had circumcised their children; whom when they had openly led round about the city, the babes hanging at their breasts, they cast them down headlong from the wall.
+
 - For there were two women brought, who had circumcised their children: So these sisters were serving the Lord. They went out on faith and circumcised their children. Let's see what happened.
 
 - They cast them down headlong from the wall: They threw the babies and their mothers off of a high wall. The mother out there carrying the baby in her bosom, they throw her and the baby off the wall. That's serving with fear. See, you Christians don't know the scriptures. Y'all don't know the Bible. You don't know the Bible. So you sit there and follow the slave master that threw your foremothers off of the top of a wall for simply observing the laws of God. That's why y'all say the laws is done away with, cuz y'all are sitting out there following this demonic man. Read.
+
+> <sup>[11](/bible/2-maccabees/6#v11)</sup> And others, that had run together into caves near by, to keep the sabbath day secretly, being discovered to Philip, were all burnt together, because they made a conscience to help themselves for the honour of the most sacred day.
 
 - And others, that had run together into caves near by: You see that? They ran into caves because they wanted to keep the commandments, but they was keeping them in fear. Your church service ain't broadcast from no cave. Y'all have nothing to do with this Bible, man. Read.
 
@@ -754,24 +754,24 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 **[Luke 1:74-79](/bible/luke/1#v74)**  *[[1:01:15](https://www.youtube.com/watch?v=qTmpORodCG8&t=3675s)]*
 
 > <sup>[74](/bible/luke/1#v74)</sup> That he would grant unto us, that we being delivered out of the hand of our enemies might serve him without fear,
->
-> <sup>[75](/bible/luke/1#v75)</sup> In holiness and righteousness before him, all the days of our life.
->
-> <sup>[76](/bible/luke/1#v76)</sup> And thou, child, shalt be called the prophet of the Highest: for thou shalt go before the face of the Lord to prepare his ways;
->
-> <sup>[77](/bible/luke/1#v77)</sup> To give knowledge of salvation unto his people by the remission of their sins,
->
-> <sup>[78](/bible/luke/1#v78)</sup> Through the tender mercy of our God; whereby the dayspring from on high hath visited us,
->
-> <sup>[79](/bible/luke/1#v79)</sup> To give light to them that sit in darkness and in the shadow of death, to guide our feet into the way of peace.
 
 - Might serve him without fear: So now y'all understand why this scripture is so important, because throughout history our people had to serve and fear. You bring it up to the times of the Spanish Inquisition: you had what they call crypto Jews, where they was out in public faking to be Muslims, but back at their house they was keeping the commandments of God. And they was found out, their houses was confiscated, they was shipped off to the island of São Tomé and the slavery, their children was taken from them. So that's what was going on. Read, in holiness, verse 75.
 
+> <sup>[75](/bible/luke/1#v75)</sup> In holiness and righteousness before him, all the days of our life.
+>
+> <sup>[76](/bible/luke/1#v76)</sup> And thou, child, shalt be called the prophet of the Highest: for thou shalt go before the face of the Lord to prepare his ways;
+
 - For thou shalt go before the face of the Lord to prepare his ways: So John was to go before Christ, prepare his way, when you read that in Malachi 4.
+
+> <sup>[77](/bible/luke/1#v77)</sup> To give knowledge of salvation unto his people by the remission of their sins,
 
 - To give knowledge of salvation unto his people by the remission of their sins: Meaning what? John was to pave the way for Christ. That's what was going on, teaching, repent, repent, out there.
 
+> <sup>[78](/bible/luke/1#v78)</sup> Through the tender mercy of our God; whereby the dayspring from on high hath visited us,
+
 - Through the tender mercy of our God: Through the tender mercy of our God. Through what? That's the blood of Christ, keeping the promise that he made to Abraham and the covenants that he made with Moses.
+
+> <sup>[79](/bible/luke/1#v79)</sup> To give light to them that sit in darkness and in the shadow of death, to guide our feet into the way of peace.
 
 - To give light to them that sit in darkness: So to give light unto us that sit in darkness. You read Isaiah 60, man. I want that, to give light to them that sit in darkness. You know what I want? Isaiah 60 verse 1, brother.
 
@@ -779,12 +779,12 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 **[Isaiah 60:1-2](/bible/isaiah/60#v1)**  *[[1:03:46](https://www.youtube.com/watch?v=qTmpORodCG8&t=3826s)]*
 
 > <sup>[1](/bible/isaiah/60#v1)</sup> Arise, shine; for thy light is come, and the glory of the Lord is risen upon thee.
->
-> <sup>[2](/bible/isaiah/60#v2)</sup> For, behold, the darkness shall cover the earth, and gross darkness the people: but the Lord shall arise upon thee, and his glory shall be seen upon thee.
 
 - For thy light is come: For thy what? For thy light is come.
 
 - And the glory of the Lord is risen upon thee: You see what Zachariah's prophesying about? He quoting scripture. He not shooting from the hip, he not coming off the top of the dome. Read.
+
+> <sup>[2](/bible/isaiah/60#v2)</sup> For, behold, the darkness shall cover the earth, and gross darkness the people: but the Lord shall arise upon thee, and his glory shall be seen upon thee.
 
 - For, behold, the darkness shall cover the earth, and gross darkness the people: It says darkness shall cover the earth and gross darkness the people.
 
@@ -805,12 +805,12 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "purpose", "salvation"]
 **[Luke 1:79-80](/bible/luke/1#v79)**  *[[1:04:40](https://www.youtube.com/watch?v=qTmpORodCG8&t=3880s)]*
 
 > <sup>[79](/bible/luke/1#v79)</sup> To give light to them that sit in darkness and in the shadow of death, to guide our feet into the way of peace.
->
-> <sup>[80](/bible/luke/1#v80)</sup> And the child grew, and waxed strong in spirit, and was in the deserts till the day of his shewing unto Israel.
 
 - To give light to them that sit in darkness and in the shadow of death: So to give light to our people that sit here in Babylon the great, that sit in this darkness, the gross darkness. So you understand.
 
 - To guide our feet into the way of peace: Well, how are the feet being guided the way of peace? Through the holy scriptures, keeping the commandments and the faith in Christ.
+
+> <sup>[80](/bible/luke/1#v80)</sup> And the child grew, and waxed strong in spirit, and was in the deserts till the day of his shewing unto Israel.
 
 
 ## In Closing

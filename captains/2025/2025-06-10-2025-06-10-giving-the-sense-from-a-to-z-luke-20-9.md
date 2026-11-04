@@ -71,8 +71,6 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 **[Luke 20:9-10](/bible/luke/20#v9)**  *[[9:27](https://www.youtube.com/watch?v=Zjl-QryANzA&t=567s)]*
 
 > <sup>[9](/bible/luke/20#v9)</sup> Then began he to speak to the people this parable; A certain man planted a vineyard, and let it forth to husbandmen, and went into a far country for a long time.
->
-> <sup>[10](/bible/luke/20#v10)</sup> And at the season he sent a servant to the husbandmen, that they should give him of the fruit of the vineyard: but the husbandmen beat him, and sent him away empty.
 
 - A certain man planted a vineyard and let it forth to husbandmen: So, it says that a certain man planted a vineyard and let it forth to husbandmen. That certain man is the most high God. And let me show you what the vineyard is.
 
@@ -94,26 +92,28 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 
     But you feed not the flock. So, it's going into those leaders that would deal unrighteously with God's people. God left them in charge so they can look after the people, they can lead the people, and they're not doing it correctly. Just like your pastors, like your Creflo Dollars and your T.D. Jakes and your Philip Anthony Mitchell and your all these dudes, you understand? Well, the Lord didn't leave these men in charge, but at least they have a platform where they can guide God's people, but they don't do it correctly, all right? They teach white man garbage, you understand? White man theology. And you don't read the word theology in the Bible. You understand? It's not there, okay? That's something that white people came up with so that they can instruct black people on what they can and cannot read or what they can and cannot say. That's what it all boiled down to. Nat Turner movie exposed that, if you ever seen it.
 
+> <sup>[10](/bible/luke/20#v10)</sup> And at the season he sent a servant to the husbandmen, that they should give him of the fruit of the vineyard: but the husbandmen beat him, and sent him away empty.
+
 
 **[Isaiah 28:23-29](/bible/isaiah/28#v23)**  *[[12:32](https://www.youtube.com/watch?v=Zjl-QryANzA&t=752s)]*
 
 > <sup>[23](/bible/isaiah/28#v23)</sup> Give ye ear, and hear my voice; hearken, and hear my speech.
 >
 > <sup>[24](/bible/isaiah/28#v24)</sup> Doth the plowman plow all day to sow? doth he open and break the clods of his ground?
->
+
+- Doth the plowman plow all day to sow? Doth he open and break the clods of his ground?: So, what he's doing is he's talking about in terms of husbandmen, all right, or people that till the ground, the farmers, things of that nature, men that go out there and they cultivate the ground for it to grow, things of that nature. And he's saying all the things that they would do. Like, do they not do this? Do they not do that?
+
 > <sup>[25](/bible/isaiah/28#v25)</sup> When he hath made plain the face thereof, doth he not cast abroad the fitches, and scatter the cummin, and cast in the principal wheat and the appointed barley and the rie in their place?
 >
 > <sup>[26](/bible/isaiah/28#v26)</sup> For his God doth instruct him to discretion, and doth teach him.
 >
 > <sup>[27](/bible/isaiah/28#v27)</sup> For the fitches are not threshed with a threshing instrument, neither is a cart wheel turned about upon the cummin; but the fitches are beaten out with a staff, and the cummin with a rod.
->
+
+- Neither is a cart wheel turned about upon the cummin: Cuz if you had the cart going through the area where you're supposed to collect the crops, you wouldn't ride that cart through the cummin because what would you do? You would crush it. You would destroy it. So, a husbandman has to know how to delicately deal with the ground, the soil, his crops. He has to learn how to deal with or else he'll destroy his own crops. And all that time will be wasted that he did tilling the ground and preparing it and watching it and, you know, making sure there was water and things of that nature. All of that would be for nothing. That's what the Lord is saying.
+
 > <sup>[28](/bible/isaiah/28#v28)</sup> Bread corn is bruised; because he will not ever be threshing it, nor break it with the wheel of his cart, nor bruise it with his horsemen.
 >
 > <sup>[29](/bible/isaiah/28#v29)</sup> This also cometh forth from the Lord of hosts, which is wonderful in counsel, and excellent in working.
-
-- Doth the plowman plow all day to sow? Doth he open and break the clods of his ground?: So, what he's doing is he's talking about in terms of husbandmen, all right, or people that till the ground, the farmers, things of that nature, men that go out there and they cultivate the ground for it to grow, things of that nature. And he's saying all the things that they would do. Like, do they not do this? Do they not do that?
-
-- Neither is a cart wheel turned about upon the cummin: Cuz if you had the cart going through the area where you're supposed to collect the crops, you wouldn't ride that cart through the cummin because what would you do? You would crush it. You would destroy it. So, a husbandman has to know how to delicately deal with the ground, the soil, his crops. He has to learn how to deal with or else he'll destroy his own crops. And all that time will be wasted that he did tilling the ground and preparing it and watching it and, you know, making sure there was water and things of that nature. All of that would be for nothing. That's what the Lord is saying.
 
 - Which is wonderful in counsel and excellent in working: So, the Lord is comparing us to a husbandman, the prophets. The thing that the prophets are supposed to do, that the leaders are supposed to do in cultivating the nation of Israel, the vineyard of God, looking after the vineyard of God. That's the same thing that a husbandman does with his crops.
 
@@ -134,10 +134,10 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 **[Luke 20:9-10](/bible/luke/20#v9)**  *[[17:11](https://www.youtube.com/watch?v=Zjl-QryANzA&t=1031s)]*
 
 > <sup>[9](/bible/luke/20#v9)</sup> Then began he to speak to the people this parable; A certain man planted a vineyard, and let it forth to husbandmen, and went into a far country for a long time.
->
-> <sup>[10](/bible/luke/20#v10)</sup> And at the season he sent a servant to the husbandmen, that they should give him of the fruit of the vineyard: but the husbandmen beat him, and sent him away empty.
 
 - And went into a far country for a long time: Go to Luke. No, I ain't going to get there yet. I'm going to wait till later on in the parable.
+
+> <sup>[10](/bible/luke/20#v10)</sup> And at the season he sent a servant to the husbandmen, that they should give him of the fruit of the vineyard: but the husbandmen beat him, and sent him away empty.
 
 - And at the season he sent a servant to the husbandmen: So he sent the servant. It said he sent a servant to the husbandmen and they beat the servant.
 
@@ -168,20 +168,20 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 > <sup>[30](/bible/matthew/23#v30)</sup> And say, If we had been in the days of our fathers, we would not have been partakers with them in the blood of the prophets.
 >
 > <sup>[31](/bible/matthew/23#v31)</sup> Wherefore ye be witnesses unto yourselves, that ye are the children of them which killed the prophets.
->
-> <sup>[32](/bible/matthew/23#v32)</sup> Fill ye up then the measure of your fathers.
->
-> <sup>[33](/bible/matthew/23#v33)</sup> Ye serpents, ye generation of vipers, how can ye escape the damnation of hell?
->
-> <sup>[34](/bible/matthew/23#v34)</sup> Wherefore, behold, I send unto you prophets, and wise men, and scribes: and some of them ye shall kill and crucify; and some of them shall ye scourge in your synagogues, and persecute them from city to city:
 
 - Ye are the children of them which killed the prophets: But he talking to the scribes and Pharisees. He said, "You be the children of those that killed the prophets." That's a true statement. Cuz those spirits regenerate. They come back on the earth. The same people that killed the prophets in the past are the same people that killed the prophets during the time of the apostles are the same people that's going to kill the prophets in the latter day.
 
 - The same spirit today: That's why when sometimes you try to teach somebody the Bible and they get so mad and so angry it's like they'll lay hands on you. They'll put you to death if they could. And the Lord is holding that spirit back from doing it. Sometimes we be in some rough neighborhoods and it can go down. But somehow most high allows us to get back in our vehicles and make it home safely. Right? But there's going to come a time where that's not going to happen again where we going to really have to face the judgment. You understand? That these people going to try to bring upon us all the persecution.
 
+> <sup>[32](/bible/matthew/23#v32)</sup> Fill ye up then the measure of your fathers.
+
 - Fill ye up then the measure of your fathers: He said, "Go on and do what you going to do." Fill up the measures of your fathers. Do the same thing that your fathers did.
 
+> <sup>[33](/bible/matthew/23#v33)</sup> Ye serpents, ye generation of vipers, how can ye escape the damnation of hell?
+
 - Ye serpents, ye generation of vipers, how can ye escape the damnation of hell?: How you going to escape the damnation of hell?
+
+> <sup>[34](/bible/matthew/23#v34)</sup> Wherefore, behold, I send unto you prophets, and wise men, and scribes: and some of them ye shall kill and crucify; and some of them shall ye scourge in your synagogues, and persecute them from city to city:
 
 - Some of them ye shall kill and crucify; and some of them shall ye scourge in your synagogues: So, he talking to the leaders. He talking to the scribes, the Pharisees, the leaders, the men that supposed to guide the nation of Israel, the chief priest. And guess what? I'mma show you later on as we get more in depth into the chapter that they did do that. That these men that he was talking about, when Christ died, they did it to him. When Christ died, they did it to the apostles. I'mma show you that.
 
@@ -189,10 +189,10 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 **[Luke 20:10-11](/bible/luke/20#v10)**  *[[21:51](https://www.youtube.com/watch?v=Zjl-QryANzA&t=1311s)]*
 
 > <sup>[10](/bible/luke/20#v10)</sup> And at the season he sent a servant to the husbandmen, that they should give him of the fruit of the vineyard: but the husbandmen beat him, and sent him away empty.
->
-> <sup>[11](/bible/luke/20#v11)</sup> And again he sent another servant: and they beat him also, and entreated him shamefully, and sent him away empty.
 
 - But the husbandmen beat him, and sent him away empty: They beat him and sent him away. We ain't trying to hear that.
+
+> <sup>[11](/bible/luke/20#v11)</sup> And again he sent another servant: and they beat him also, and entreated him shamefully, and sent him away empty.
 
 - And again he sent another servant: and they beat him also, and entreated him shamefully, and sent him away empty: He said, "And again, he sent another servant and they beat him also and entreated him shamefully and sent him away empty." Now, watch this. Let me show you that.
 
@@ -200,16 +200,16 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 **[Jeremiah 20:1-4](/bible/jeremiah/20#v1)**  *[[22:29](https://www.youtube.com/watch?v=Zjl-QryANzA&t=1349s)]*
 
 > <sup>[1](/bible/jeremiah/20#v1)</sup> Now Pashur the son of Immer the priest, who was also chief governor in the house of the Lord, heard that Jeremiah prophesied these things.
->
-> <sup>[2](/bible/jeremiah/20#v2)</sup> Then Pashur smote Jeremiah the prophet, and put him in the stocks that were in the high gate of Benjamin, which was by the house of the Lord.
->
-> <sup>[3](/bible/jeremiah/20#v3)</sup> And it came to pass on the morrow, that Pashur brought forth Jeremiah out of the stocks. Then said Jeremiah unto him, The Lord hath not called thy name Pashur, but Magor–missabib.
->
-> <sup>[4](/bible/jeremiah/20#v4)</sup> For thus saith the Lord, Behold, I will make thee a terror to thyself, and to all thy friends: and they shall fall by the sword of their enemies, and thine eyes shall behold it: and I will give all Judah into the hand of the king of Babylon, and he shall carry them captive into Babylon, and shall slay them with the sword.
 
 - Heard that Jeremiah prophesied these things: Jeremiah prophesied about the pending judgment that was coming from Babylon. And the priests didn't want to try to hear it cuz the Lord wasn't dealing with them on the same level that he was dealing with Jeremiah. The Lord revealed his secret unto his servant the prophet, which was Jeremiah. And they didn't like that.
 
+> <sup>[2](/bible/jeremiah/20#v2)</sup> Then Pashur smote Jeremiah the prophet, and put him in the stocks that were in the high gate of Benjamin, which was by the house of the Lord.
+
 - Then Pashur smote Jeremiah the prophet, and put him in the stocks: You hear that? It said they smote him. Meaning they laid hands on the brother, punched him, kicked him, whatever. And then put him in the stocks. The stocks is like, I forgot what they called. You know what I'm talking about, John? Where you put your head in that joint and you have both your arms in it? That's what they did to Jeremiah. They put Jeremiah in the stocks, y'all. Because he was teaching the truth. And they didn't want to hear the judgment that the Lord was going to bring upon them for the evil that they was doing. Instead of just repenting, instead of just changing, you understand? And submitting because he told them, "Look, the Lord is going to send Babylon. Just go and submit yourselves." Nah, I ain't doing that, man. Okay. All right. Well, God ain't talking to you. Well, God dealing with you, he ain't dealing with us. I'm the priest. Okay, priest. So, they laid hands on Jeremiah.
+
+> <sup>[3](/bible/jeremiah/20#v3)</sup> And it came to pass on the morrow, that Pashur brought forth Jeremiah out of the stocks. Then said Jeremiah unto him, The Lord hath not called thy name Pashur, but Magor–missabib.
+>
+> <sup>[4](/bible/jeremiah/20#v4)</sup> For thus saith the Lord, Behold, I will make thee a terror to thyself, and to all thy friends: and they shall fall by the sword of their enemies, and thine eyes shall behold it: and I will give all Judah into the hand of the king of Babylon, and he shall carry them captive into Babylon, and shall slay them with the sword.
 
 - I will give all Judah into the hand of the king of Babylon: So, he's saying, "Hey, you do what you want to do to me. It ain't going to stop the judgment that God bringing on you." And it's the same thing we teaching today. Look, you can do what you want to do with us. You know, you going to do it anyway, but just know there is a judgment coming. God is going to destroy Babylon the Great. And he's going to destroy all of the Israelites that join themselves hand in hand with their enemies. They going to get it. Ain't nothing you can do about it. You can't stop it. Okay?
 
@@ -217,10 +217,10 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 **[Jeremiah 20:9-10](/bible/jeremiah/20#v9)**  *[[25:19](https://www.youtube.com/watch?v=Zjl-QryANzA&t=1519s)]*
 
 > <sup>[9](/bible/jeremiah/20#v9)</sup> Then I said, I will not make mention of him, nor speak any more in his name. But his word was in mine heart as a burning fire shut up in my bones, and I was weary with forbearing, and I could not stay.
->
-> <sup>[10](/bible/jeremiah/20#v10)</sup> For I heard the defaming of many, fear on every side. Report, say they, and we will report it. All my familiars watched for my halting, saying, Peradventure he will be enticed, and we shall prevail against him, and we shall take our revenge on him.
 
 - His word was in mine heart as a burning fire shut up in my bones: So, Jeremiah had made it up in his mind that he was just going to, I'm going to just fall back. I ain't going to teach. And then the Lord's spirit was on him. He like, "Nah, the hell with that. I got to teach. I can't hold it back. This word is like a fire shut up in my bones. You know, I got to say something. You understand? I can't just sit here and watch this abomination being front of me. I can't do it." So, he ends up voicing his, once again he's prophesying.
+
+> <sup>[10](/bible/jeremiah/20#v10)</sup> For I heard the defaming of many, fear on every side. Report, say they, and we will report it. All my familiars watched for my halting, saying, Peradventure he will be enticed, and we shall prevail against him, and we shall take our revenge on him.
 
 - For I heard the defaming of many: So, same thing. They started defaming him, started speaking evil of him, saying, "Look, we going to wait for his fall. We know he going to fall, and when he do fall, we going to be right there to destroy him when he does." They wanted to put Jeremiah to death, y'all.
 
@@ -228,10 +228,10 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 **[Luke 20:11-12](/bible/luke/20#v11)**  *[[26:40](https://www.youtube.com/watch?v=Zjl-QryANzA&t=1600s)]*
 
 > <sup>[11](/bible/luke/20#v11)</sup> And again he sent another servant: and they beat him also, and entreated him shamefully, and sent him away empty.
->
-> <sup>[12](/bible/luke/20#v12)</sup> And again he sent a third: and they wounded him also, and cast him out.
 
 - And again, he sent another servant: So, now you picking up on it. Now you see that Christ is prophesying about how the leaders of Israel for a very long time with evil doing much evil.
+
+> <sup>[12](/bible/luke/20#v12)</sup> And again he sent a third: and they wounded him also, and cast him out.
 
 - And again he sent a third: and they wounded him also, and cast him out: And they wounded him also and cast him out. Watch this. I'm just showing you in and out of history.
 
@@ -280,10 +280,10 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 **[Luke 20:13-14](/bible/luke/20#v13)**  *[[30:49](https://www.youtube.com/watch?v=Zjl-QryANzA&t=1849s)]*
 
 > <sup>[13](/bible/luke/20#v13)</sup> Then said the lord of the vineyard, What shall I do? I will send my beloved son: it may be they will reverence him when they see him.
->
-> <sup>[14](/bible/luke/20#v14)</sup> But when the husbandmen saw him, they reasoned among themselves, saying, This is the heir: come, let us kill him, that the inheritance may be ours.
 
 - It may be they will reverence him when they see him: It may be they'll reverence my son. I mean, they got to listen to my son. I mean, I know they ain't want to deal with my servants, but let me send my son. He is an extension of me. Let me send him.
+
+> <sup>[14](/bible/luke/20#v14)</sup> But when the husbandmen saw him, they reasoned among themselves, saying, This is the heir: come, let us kill him, that the inheritance may be ours.
 
 - This is the heir: come, let us kill him, that the inheritance may be ours: Let me show you what that mean. What they mean "This is the heir. Let us kill him and we'll get the inheritance." Let me show you.
 
@@ -297,28 +297,28 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 > <sup>[47](/bible/john/11#v47)</sup> Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles.
 >
 > <sup>[48](/bible/john/11#v48)</sup> If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation.
->
-> <sup>[49](/bible/john/11#v49)</sup> And one of them, named Caiaphas, being the high priest that same year, said unto them, Ye know nothing at all,
->
-> <sup>[50](/bible/john/11#v50)</sup> Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not.
->
-> <sup>[51](/bible/john/11#v51)</sup> And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;
->
-> <sup>[52](/bible/john/11#v52)</sup> And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.
->
-> <sup>[53](/bible/john/11#v53)</sup> Then from that day forth they took counsel together for to put him to death.
 
 - If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation: They were more worried about getting the praise of Rome or the liberty from Rome to continue in the things that they were doing and continue to run things how they were running it. They didn't even see that the son of God was standing in front of them doing great miracles. And some of them could see that he was doing great miracles and they just decided to just say the hell with it. I'm going to show you that. Hold your finger right there.
 
 - This is the heir: They said, "Look, this is the heir. Let's get rid of him and then we can get the inheritance." That's the evil mindset Christ is telling us of the scribes and the Pharisees and the chief priests.
 
+> <sup>[49](/bible/john/11#v49)</sup> And one of them, named Caiaphas, being the high priest that same year, said unto them, Ye know nothing at all,
+
 - Ye know nothing at all: You don't know nothing.
+
+> <sup>[50](/bible/john/11#v50)</sup> Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not.
 
 - That one man should die for the people: Wait a minute. What is he talking about? Keep reading. Let's see what he's talking about.
 
 - That he should gather together in one the children of God that were scattered abroad: So he got to go get the other Israelites that scattered too. That's why Christ said, "I got other sheep that are not of this fold." Them also must I bring. That's the scattered Israelites for you dumb dumb Christians and you apolo polopathetics. Okay?
 
+> <sup>[51](/bible/john/11#v51)</sup> And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;
+
 - Being high priest that year, he prophesied that Jesus should die for that nation: So notice it said he was the high priest that year and he prophesied that one man should die for the people. Who is that one man? Christ. Meaning he knew who Christ was. He knew that he was the one in the old covenant that was prophesied to come and die for the nation of Israel. He knew that.
+
+> <sup>[52](/bible/john/11#v52)</sup> And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.
+>
+> <sup>[53](/bible/john/11#v53)</sup> Then from that day forth they took counsel together for to put him to death.
 
 - Then from that day forth they took counsel together for to put him to death: Wait a minute now. How in one respect you put people out the synagogue for believing on him and then in another respect you say, "Look, we got to get rid of him cuz people starting to believe on him." Then on another side you say, "Well, if we let people believe on him then we going to lose our position from Rome." And then in another sense you say, "Well, he got to die for the people." And then turn around and say, "Hey, we got to put him to death." But you just said he got to die for the people. Were you not included in that? That show you the Pharisee in their spirit weren't right at all. At all.
 
@@ -361,10 +361,10 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 **[Luke 20:15-16](/bible/luke/20#v15)**  *[[41:10](https://www.youtube.com/watch?v=Zjl-QryANzA&t=2470s)]*
 
 > <sup>[15](/bible/luke/20#v15)</sup> So they cast him out of the vineyard, and killed him. What therefore shall the lord of the vineyard do unto them?
->
-> <sup>[16](/bible/luke/20#v16)</sup> He shall come and destroy these husbandmen, and shall give the vineyard to others. And when they heard it, they said, God forbid.
 
 - What therefore shall the lord of the vineyard do unto them?: But what is God going to do to those men that did that to his son? That's what they're saying. What is the man, that certain man that planted the vineyard, which is the Lord, what is he going to do to those that did that to his son? Let's see.
+
+> <sup>[16](/bible/luke/20#v16)</sup> He shall come and destroy these husbandmen, and shall give the vineyard to others. And when they heard it, they said, God forbid.
 
 - He shall come and destroy these husbandmen, and shall give the vineyard to others. And when they heard it, they said, God forbid: When they heard that, they said, "Ooh, God forbid. Lord going to do that?" Do you understand? Because why? It says and he shall come and destroy these husbandmen. And shall give the vineyards to others. They're going to get a judgement for the evil that they've done.
 
@@ -402,14 +402,14 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 **[Luke 20:16-18](/bible/luke/20#v16)**  *[[46:14](https://www.youtube.com/watch?v=Zjl-QryANzA&t=2774s)]*
 
 > <sup>[16](/bible/luke/20#v16)</sup> He shall come and destroy these husbandmen, and shall give the vineyard to others. And when they heard it, they said, God forbid.
->
-> <sup>[17](/bible/luke/20#v17)</sup> And he beheld them, and said, What is this then that is written, The stone which the builders rejected, the same is become the head of the corner?
->
-> <sup>[18](/bible/luke/20#v18)</sup> Whosoever shall fall upon that stone shall be broken; but on whomsoever it shall fall, it will grind him to powder.
 
 - And when they heard it, they said, God forbid: God forbid.
 
+> <sup>[17](/bible/luke/20#v17)</sup> And he beheld them, and said, What is this then that is written, The stone which the builders rejected, the same is become the head of the corner?
+
 - The stone which the builders rejected, the same is become the head of the corner: So, it said, "What is this then that is written? The stone which the builders rejected, the same is become the head of the corner." Let's deal with that stone.
+
+> <sup>[18](/bible/luke/20#v18)</sup> Whosoever shall fall upon that stone shall be broken; but on whomsoever it shall fall, it will grind him to powder.
 
 - That stone: So, the Bible calls Christ that stone. He is that rock, that stone, right, that the builders disallow. We're going to show you who the builders are in a minute.
 
@@ -432,19 +432,9 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 
 **[1 Corinthians 3:6-11](/bible/1-corinthians/3#v6)**  *[[48:45](https://www.youtube.com/watch?v=Zjl-QryANzA&t=2925s)]*
 
-> <sup>[6](/bible/1-corinthians/3#v6)</sup> I have planted, Apollos watered; but God gave the increase.
->
-> <sup>[7](/bible/1-corinthians/3#v7)</sup> So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase.
->
-> <sup>[8](/bible/1-corinthians/3#v8)</sup> Now he that planteth and he that watereth are one: and every man shall receive his own reward according to his own labour.
->
-> <sup>[9](/bible/1-corinthians/3#v9)</sup> For we are labourers together with God: ye are God’s husbandry, ye are God’s building.
->
-> <sup>[10](/bible/1-corinthians/3#v10)</sup> According to the grace of God which is given unto me, as a wise masterbuilder, I have laid the foundation, and another buildeth thereon. But let every man take heed how he buildeth thereupon.
->
-> <sup>[11](/bible/1-corinthians/3#v11)</sup> For other foundation can no man lay than that is laid, which is Jesus Christ.
-
 - Paul compared himself and the other apostles to something: It just popped in my head. Paul compared himself and the other apostles to something. Damn, this is what I wanted earlier.
+
+> <sup>[6](/bible/1-corinthians/3#v6)</sup> I have planted, Apollos watered; but God gave the increase.
 
 - I have planted, Apollos watered; but God gave the increase: So, just go back to what we was reading earlier about the husbandmen. That's what we supposed to be. We supposed to be husbandmen, cultivating God's ground, his soil, which is his chosen people. You are his vineyard and leaders are supposed to prepare you for the times to come, to help nourish you, to help build you up so that you can grow into a tree and that you yourself can start to bring forth fruit. That's what this whole thing is about.
 
@@ -452,7 +442,17 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 
 - More husbandmen: That's the difference between us and a lot of these other movements. A lot of these other movements, they put all their faith in a man. All right? And when that man fall or when that man dies or that man moves on or whatever happens, you understand? The whole movement falls. But this movement is about building more leaders, more teachers, more shepherds, more husbandmen to continue this thing to go until Christ returns. So, we are the husbandmen of the Lord. But in context of what we was reading in Luke chapter 20, those husbandmen were the scribes and the Pharisees, all right?
 
+> <sup>[7](/bible/1-corinthians/3#v7)</sup> So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase.
+>
+> <sup>[8](/bible/1-corinthians/3#v8)</sup> Now he that planteth and he that watereth are one: and every man shall receive his own reward according to his own labour.
+>
+> <sup>[9](/bible/1-corinthians/3#v9)</sup> For we are labourers together with God: ye are God’s husbandry, ye are God’s building.
+
 - For we are labourers together with God: ye are God's husbandry, ye are God's building.
+
+> <sup>[10](/bible/1-corinthians/3#v10)</sup> According to the grace of God which is given unto me, as a wise masterbuilder, I have laid the foundation, and another buildeth thereon. But let every man take heed how he buildeth thereupon.
+>
+> <sup>[11](/bible/1-corinthians/3#v11)</sup> For other foundation can no man lay than that is laid, which is Jesus Christ.
 
 - Let every man take heed how he buildeth thereupon. For other foundation can no man lay than that is laid, which is Jesus Christ: What's that foundation? Which is Jesus Christ. So that foundation, that rock, that stone, that's Christ. That's what the Bible telling you. It's Christ. It's the son of God. Y'all understand?
 
@@ -469,20 +469,20 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 > <sup>[5](/bible/acts/4#v5)</sup> And it came to pass on the morrow, that their rulers, and elders, and scribes,
 >
 > <sup>[6](/bible/acts/4#v6)</sup> And Annas the high priest, and Caiaphas, and John, and Alexander, and as many as were of the kindred of the high priest, were gathered together at Jerusalem.
->
+
+- Their rulers, and elders, and scribes, and Annas the high priest, and Caiaphas: They were all gathered together at Jerusalem.
+
 > <sup>[7](/bible/acts/4#v7)</sup> And when they had set them in the midst, they asked, By what power, or by what name, have ye done this?
 >
 > <sup>[8](/bible/acts/4#v8)</sup> Then Peter, filled with the Holy Ghost, said unto them, Ye rulers of the people, and elders of Israel,
->
+
+- Ye rulers of the people, and elders of Israel: So it's the chief priest. It's the high priest. It's the rulers. It's the elders. It is the scribes gathered together to come against the apostles. They put the apostles in prison. Now the apostles are standing before them at the judgment seat. These men were called the Sanhedrin, okay? The leaders of the nation of Israel, the governing body of the nation of Israel at that time. So, the apostles are standing before them. Peter rises up to speak before them.
+
 > <sup>[9](/bible/acts/4#v9)</sup> If we this day be examined of the good deed done to the impotent man, by what means he is made whole;
 >
 > <sup>[10](/bible/acts/4#v10)</sup> Be it known unto you all, and to all the people of Israel, that by the name of Jesus Christ of Nazareth, whom ye crucified, whom God raised from the dead, even by him doth this man stand here before you whole.
 >
 > <sup>[11](/bible/acts/4#v11)</sup> This is the stone which was set at nought of you builders, which is become the head of the corner.
-
-- Their rulers, and elders, and scribes, and Annas the high priest, and Caiaphas: They were all gathered together at Jerusalem.
-
-- Ye rulers of the people, and elders of Israel: So it's the chief priest. It's the high priest. It's the rulers. It's the elders. It is the scribes gathered together to come against the apostles. They put the apostles in prison. Now the apostles are standing before them at the judgment seat. These men were called the Sanhedrin, okay? The leaders of the nation of Israel, the governing body of the nation of Israel at that time. So, the apostles are standing before them. Peter rises up to speak before them.
 
 - This is the stone which was set at nought of you builders, which is become the head of the corner: He called the chief priest, the elders, the scribes. He called them the builders. So, the apostle Peter is revealing what we read in the Old Testament in Psalms 118 and then what Christ quoted right there in the book of Luke chapter 20. Those builders that rejected the cornerstone or the chief cornerstone, those builders is talking about the Pharisees, the leaders of the nation of Israel, the elders. They rejected the son of God. And by them rejecting the son of God, they brought damnation and judgment upon themselves. Y'all understand? That's what that parable is going into.
 
@@ -499,14 +499,14 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 **[Daniel 2:44-45](/bible/daniel/2#v44)**  *[[55:39](https://www.youtube.com/watch?v=Zjl-QryANzA&t=3339s)]*
 
 > <sup>[44](/bible/daniel/2#v44)</sup> And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.
->
-> <sup>[45](/bible/daniel/2#v45)</sup> Forasmuch as thou sawest that the stone was cut out of the mountain without hands, and that it brake in pieces the iron, the brass, the clay, the silver, and the gold; the great God hath made known to the king what shall come to pass hereafter: and the dream is certain, and the interpretation thereof sure.
 
 - And the kingdom shall not be left to other people: And the kingdom not going to be left to … All right, I know you love your master. Many of you love your master. Oh, why can't the white man get in? I'm going to sit on TikTok all day and try to save the white. And you ain't saving him. He done. You understand? Esau done, Ishmael done, Moab done, Ammon done, Amalek done, the Hagarines done, Hamites is done, Ammonites is done, the Assyrians they done. Everybody done. You understand? It's only us. We the Israelites, we God's chosen people. God only love us. He only is going to save us out of the hands of our oppressors. It don't make sense to save oppressors out of the hands of oppressors. That don't make no sense. Man, our people, Lord have mercy. So, the kingdom shall not be left to other people, y'all.
 
 - But it shall break in pieces and consume all these kingdoms, and it shall stand for ever: And it shall what? Stand forever. It said it's going to break in pieces and consume all these kingdoms. So, join hand in hand with your master. Let me know how I go, cuz I'm straight. I'm with you. I'm in these scripts. I'm with the brethren. I'm straight. Y'all can have it. Listen. Let me woosah for a second. These nations, bro, the evil that they do and the lies that they push on a daily basis and how they would just blatantly lie on you, to you, they got to get it. They done set up a kingdom where as a black man in their society you always feel like you can't never get your head above water. Like okay, you got some black men that are successful, but I'm talking about the majority. You got some Hispanic men that are successful, but I'm talking about the majority.
 
 - They done: Right now, they basically deporting our brothers. Sending our brothers all over the place. Nope, go back to Haiti. Nope, go back to El Salvador. Nope, go back to where you from. Go over here. We went over there yesterday on Escape Plan, this dude got 160 million followers on TikTok making big bank, big money. And they told him, man, take your black behind back to Senegal. And sent him home. They say, "Oh, no, he went home on his own free will." Nah. They told him, "Get out of here." Kick rocks. And he all hurt. "I thought America loved me." No. It's time for the wicked to be revealed, for you to see who the devil truly is. And I'm glad the Lord showing who the devil truly is. For real, though. Bring out the facts.
+
+> <sup>[45](/bible/daniel/2#v45)</sup> Forasmuch as thou sawest that the stone was cut out of the mountain without hands, and that it brake in pieces the iron, the brass, the clay, the silver, and the gold; the great God hath made known to the king what shall come to pass hereafter: and the dream is certain, and the interpretation thereof sure.
 
 - And the dream is certain, and the interpretation thereof sure: I love that part. And the interpretation thereof sure. It's sure. There is no I wonder if that's going to happen. No, ain't no if that's going to happen. The Bible says it's sure.
 
@@ -524,10 +524,10 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 **[Luke 20:19-20](/bible/luke/20#v19)**  *[[1:01:49](https://www.youtube.com/watch?v=Zjl-QryANzA&t=3709s)]*
 
 > <sup>[19](/bible/luke/20#v19)</sup> And the chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: for they perceived that he had spoken this parable against them.
->
-> <sup>[20](/bible/luke/20#v20)</sup> And they watched him, and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor.
 
 - For they perceived that he had spoken this parable against them: They realized, he talking about us. They really said, he talking about us. He calling us the builders that disallowed and he talking about the stone going to grind into powder. That's a threat. They said, this dude threatening us. Which he was. He was. He just wasn't at that time. He said, "I'll get you later." You know what I'm saying? "I'm cool. I'm patient. I'll get you later."
+
+> <sup>[20](/bible/luke/20#v20)</sup> And they watched him, and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor.
 
 - And they watched him, and sent forth spies, which should feign themselves just men: That's how we know some of the people that claim to be with us are spies. It's inevitable. The Bible says it. Christ said it. They did the same thing to Christ. Christ said, "You think you're above your master?" Like, "Nah. You as your master." If they call your master bells above, they're going to call you that same thing. And we understand that. We know that amongst us there are spies.
 

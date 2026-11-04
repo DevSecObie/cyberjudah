@@ -63,14 +63,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "persecution", "purpose
 **[Romans 7:5-6](/bible/romans/7#v5)**  *[[5:23](https://www.youtube.com/watch?v=hVRcXshrCUo&t=323s)]*
 
 > <sup>[5](/bible/romans/7#v5)</sup> For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death.
->
-> <sup>[6](/bible/romans/7#v6)</sup> But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter.
 
 - The motions of sins which were by the law: It says, the motions of sins which were by the law. We going to read what those motions are.
 
 - Did work in our members to bring forth fruit unto death: What does that death talk about? Go to Leviticus chapter 7, read verse 1.
 
 - Read again (7:45): So we dealing with the letter killeth. So we read about some of the motions of sins. You can also read Numbers 28 and so forth.
+
+> <sup>[6](/bible/romans/7#v6)</sup> But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter.
 
 - But now we are delivered from the law: So now we delivered from the law.
 
@@ -108,10 +108,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "persecution", "purpose
 **[2 Corinthians 4:1-2](/bible/2-corinthians/4#v1)**  *[[11:04](https://www.youtube.com/watch?v=hVRcXshrCUo&t=664s)]*
 
 > <sup>[1](/bible/2-corinthians/4#v1)</sup> Therefore seeing we have this ministry, as we have received mercy, we faint not;
->
-> <sup>[2](/bible/2-corinthians/4#v2)</sup> But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man’s conscience in the sight of God.
 
 - As we have received mercy, we faint not: So that's under the newness, meaning what? We received mercy by what? The death of Christ.
+
+> <sup>[2](/bible/2-corinthians/4#v2)</sup> But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man’s conscience in the sight of God.
 
 - But have renounced the hidden things of dishonesty: Renounced the hidden things of dishonesty.
 
@@ -123,16 +123,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "persecution", "purpose
 > <sup>[11](/bible/acts/19#v11)</sup> And God wrought special miracles by the hands of Paul:
 >
 > <sup>[12](/bible/acts/19#v12)</sup> So that from his body were brought unto the sick handkerchiefs or aprons, and the diseases departed from them, and the evil spirits went out of them.
->
-> <sup>[13](/bible/acts/19#v13)</sup> Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the Lord Jesus, saying, We adjure you by Jesus whom Paul preacheth.
->
-> <sup>[14](/bible/acts/19#v14)</sup> And there were seven sons of one Sceva, a Jew, and chief of the priests, which did so.
->
-> <sup>[15](/bible/acts/19#v15)</sup> And the evil spirit answered and said, Jesus I know, and Paul I know; but who are ye?
->
-> <sup>[16](/bible/acts/19#v16)</sup> And the man in whom the evil spirit was leaped on them, and overcame them, and prevailed against them, so that they fled out of that house naked and wounded.
 
 - And the evil spirits went out of them: So, Paul wasn't selling holy water. He wasn't selling blessed handkerchiefs and all that other stuff like you see with these modern-day pastors today. They ain't nothing but hucksters, man.
+
+> <sup>[13](/bible/acts/19#v13)</sup> Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the Lord Jesus, saying, We adjure you by Jesus whom Paul preacheth.
 
 - Then certain of the vagabond Jews: Certain of the vagabond Jews.
 
@@ -140,9 +134,15 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "persecution", "purpose
 
 - We adjure you by Jesus whom Paul preaches: "We adjure you by Jesus whom Paul preaches." That's the spirit of emulation. You even see that out there today, but we're not going to go into that.
 
+> <sup>[14](/bible/acts/19#v14)</sup> And there were seven sons of one Sceva, a Jew, and chief of the priests, which did so.
+
 - And there were seven sons of one Sceva: These are the sons of Sceva.
 
+> <sup>[15](/bible/acts/19#v15)</sup> And the evil spirit answered and said, Jesus I know, and Paul I know; but who are ye?
+
 - But who are ye?: But what? "Who are ye?" You see that a lot. You got these no-name groups that come up and be like, "Yeah, man, IUIC doctrine is off." Who the hell are you, brother? Where's your camp? Where's your congregation? You's a vagabond Jew. Stay in the spirit, brother.
+
+> <sup>[16](/bible/acts/19#v16)</sup> And the man in whom the evil spirit was leaped on them, and overcame them, and prevailed against them, so that they fled out of that house naked and wounded.
 
 - And the man in whom the evil spirit was leaped on them: Right. So, they was out there in the spirit of emulation and the damn demon that was in the man had that man attack the vagabond Jews.
 
@@ -154,10 +154,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "persecution", "purpose
 **[2 Corinthians 4:2-3](/bible/2-corinthians/4#v2)**  *[[13:54](https://www.youtube.com/watch?v=hVRcXshrCUo&t=834s)]*
 
 > <sup>[2](/bible/2-corinthians/4#v2)</sup> But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man’s conscience in the sight of God.
->
-> <sup>[3](/bible/2-corinthians/4#v3)</sup> But if our gospel be hid, it is hid to them that are lost:
 
 - But by manifestation of the truth commending ourselves to every man's conscience in the sight of God: Meaning what? We mindful of these things, how we deal with the word, how we deal with the people. Because we got to answer to the most high God and Christ. You understand? So, we not dealing deceitfully. That's why people are seeing the works throughout the four corners of the earth. Because you all's money, your donations, your time, your effort, your talents is being used to bring forth the kingdom of God. And it's evident when you look at what's going on. So, all praise to the most high that he's using IUIC, using our leadership to spearhead the return of Christ's government. That's what's going on. So, keep reading.
+
+> <sup>[3](/bible/2-corinthians/4#v3)</sup> But if our gospel be hid, it is hid to them that are lost:
 
 - But if our gospel be hid: But if the gospel be hid.
 
@@ -167,12 +167,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "persecution", "purpose
 **[Matthew 13:14-17](/bible/matthew/13#v14)**  *[[15:23](https://www.youtube.com/watch?v=hVRcXshrCUo&t=923s)]*
 
 > <sup>[14](/bible/matthew/13#v14)</sup> And in them is fulfilled the prophecy of Esaias, which saith, By hearing ye shall hear, and shall not understand; and seeing ye shall see, and shall not perceive:
->
-> <sup>[15](/bible/matthew/13#v15)</sup> For this people’s heart is waxed gross, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes, and hear with their ears, and should understand with their heart, and should be converted, and I should heal them.
->
-> <sup>[16](/bible/matthew/13#v16)</sup> But blessed are your eyes, for they see: and your ears, for they hear.
->
-> <sup>[17](/bible/matthew/13#v17)</sup> For verily I say unto you, That many prophets and righteous men have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them.
 
 - By hearing ye shall hear and shall not understand: By hearing they going to hear the word, but they not going to comprehend.
 
@@ -180,15 +174,21 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "persecution", "purpose
 
 - And shall not perceive: Meaning what? They can't perceive the wisdom. They can't see that the foolish things of this world is going to confound the wise. The feeble will overthrow the mighty. They can't see that.
 
+> <sup>[15](/bible/matthew/13#v15)</sup> For this people’s heart is waxed gross, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes, and hear with their ears, and should understand with their heart, and should be converted, and I should heal them.
+
 - For this people's heart is waxed gross: You see that? Our people's minds are waxed gross through sin.
 
 - And their ears are dull of hearing: Meaning what? They can't hear the word.
 
 - And should be converted and I should heal them: Hold on. Hold on. Christ said, read that one more time. That's some heavy stuff right there.
 
+> <sup>[16](/bible/matthew/13#v16)</sup> But blessed are your eyes, for they see: and your ears, for they hear.
+
 - But blessed are your eyes: But you brothers and sisters that are diligently following, that heard your calling, the Lord said, blessed are your eyes cuz you see the work being done.
 
 - And your ears, for they hear: So, when you heard this gospel, you said, "That is the truth. That's what I've been looking for." Cuz I felt the same way.
+
+> <sup>[17](/bible/matthew/13#v17)</sup> For verily I say unto you, That many prophets and righteous men have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them.
 
 - That many prophets and righteous men have desired to see those things which ye see: So, you're looking at all the things going on, the wisdom and the understanding coming out of scriptures. The Lord said, "You all are blessed cuz many prophets wanted to understand those things." There things coming out now when you read in 2nd Esdras, when you read about Daniel's vision, that's coming out now. You understand? Daniel didn't know what the fourth beast was. It's America. It's the eagle. You understand? You brothers and sisters are blessed to see that. Understand that thing. That's some good stuff right there. So, now give me Job 12:16 cuz people will be asking, "Man, why would God do that?" Listen, cuz that's what the Father's will is. You understand? Watch this.
 
@@ -243,17 +243,9 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "persecution", "purpose
 
 **[2 Thessalonians 2:7-11](/bible/2-thessalonians/2#v7)**  *[[23:49](https://www.youtube.com/watch?v=hVRcXshrCUo&t=1429s)]*
 
-> <sup>[7](/bible/2-thessalonians/2#v7)</sup> For the mystery of iniquity doth already work: only he who now letteth will let, until he be taken out of the way.
->
-> <sup>[8](/bible/2-thessalonians/2#v8)</sup> And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:
->
-> <sup>[9](/bible/2-thessalonians/2#v9)</sup> Even him, whose coming is after the working of Satan with all power and signs and lying wonders,
->
-> <sup>[10](/bible/2-thessalonians/2#v10)</sup> And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved.
->
-> <sup>[11](/bible/2-thessalonians/2#v11)</sup> And for this cause God shall send them strong delusion, that they should believe a lie:
-
 - Lead-in: Watch what Apostle Paul said.
+
+> <sup>[7](/bible/2-thessalonians/2#v7)</sup> For the mystery of iniquity doth already work: only he who now letteth will let, until he be taken out of the way.
 
 - For the mystery of iniquity doth already work: So, who is the mystery of iniquity? This is the man of sin. That was the Romans back then, the so-called Europeans and American or Caucasians today. Paul is already saying, "The mystery of iniquity, the man of sin is already putting in major work."
 
@@ -263,19 +255,27 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "persecution", "purpose
 
 - And then shall the wicked be revealed: So, then the wicked, the man of sin is going to be revealed by what? The Bible.
 
+> <sup>[8](/bible/2-thessalonians/2#v8)</sup> And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:
+
 - Whom the Lord shall consume with the spirit of his mouth: How was he consuming with the spirit of his mouth? The prophets out there teaching day and night. That's how he being consumed. His lies is being swallowed up. You understand? His doctrines is being smashed.
 
 - And shall destroy with the brightness of his coming: And when Christ come back, he going to destroy him with the brightness of his coming.
 
+> <sup>[9](/bible/2-thessalonians/2#v9)</sup> Even him, whose coming is after the working of Satan with all power and signs and lying wonders,
+
 - Even him, whose coming is after the working of Satan: So, this man that rules the world, his comings is after the workings of Satan, meaning everything that he does has a satanic twist, man. That's say the Lord.
 
 - With all power and signs and lying wonders: What do we call that today? Power, signs, and lying wonders. Technology. His science. That's how he deceive the minds of our people. Our people see the nuclear bombs. They see the cell phones. They see the Tesla towers. They are, Oh my god, this man must be God. That's deceive the minds of our people.
+
+> <sup>[10](/bible/2-thessalonians/2#v10)</sup> And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved.
 
 - And with all deceivableness of unrighteousness: With all deceivableness of unrighteousness. I got a simpler word, sin. So, with all deceit of sin, this man pushes sin on everything.
 
 - Because they received not the love of the truth: That's our people that are going to perish because they want to follow after the ways of the God of this world.
 
 - That they might be saved: They going to throw it all away. They said the hell with their salvation. They want to follow lies and deceit because of sin.
+
+> <sup>[11](/bible/2-thessalonians/2#v11)</sup> And for this cause God shall send them strong delusion, that they should believe a lie:
 
 - That they should believe a lie: So, that's what we read in Job 12 and 16. The Lord said the deceived and the deceiver are his. That's our people caught up in Christianity. So, now drop that. Go back to 2 Corinthians chapter 4, pick up at verse 5.
 
@@ -292,14 +292,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "persecution", "purpose
 **[John 3:19-20](/bible/john/3#v19)**  *[[27:34](https://www.youtube.com/watch?v=hVRcXshrCUo&t=1654s)]*
 
 > <sup>[19](/bible/john/3#v19)</sup> And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.
->
-> <sup>[20](/bible/john/3#v20)</sup> For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved.
 
 - That light is come into the world: Came into the world. Read.
 
 - And men loved darkness: Hold on. Everybody love Christ. Men loved darkness, meaning sin.
 
 - Because their deeds were evil: Because Christ showed the deeds. That's why Christ said he didn't need anybody to testify of man to him. He knew all men. What was in their mind? Read.
+
+> <sup>[20](/bible/john/3#v20)</sup> For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved.
 
 - For every one that doeth evil hateth the light: So, all those that do evil hated the light. We read that same thing in 2 Thessalonians chapter 2 verse 10. It says, "With all deceivableness of unrighteousness." Meaning all deceit of sin. They hate the truth. They hate the law. They hate the light. Meaning what? They hate Christ. Read that again.
 
@@ -370,16 +370,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "persecution", "purpose
 **[Acts 9:22-25](/bible/acts/9#v22)**  *[[36:14](https://www.youtube.com/watch?v=hVRcXshrCUo&t=2174s)]*
 
 > <sup>[22](/bible/acts/9#v22)</sup> But Saul increased the more in strength, and confounded the Jews which dwelt at Damascus, proving that this is very Christ.
->
-> <sup>[23](/bible/acts/9#v23)</sup> And after that many days were fulfilled, the Jews took counsel to kill him:
->
-> <sup>[24](/bible/acts/9#v24)</sup> But their laying await was known of Saul. And they watched the gates day and night to kill him.
->
-> <sup>[25](/bible/acts/9#v25)</sup> Then the disciples took him by night, and let him down by the wall in a basket.
 
 - And confounded the Jews which dwelt at Damascus, proving that this is very Christ: Meaning what? Paul was tearing them up in the scriptures showing, "Hold on, that's talking about Christ." They go to Leviticus, "Nah, that's talking about Christ right there."
 
+> <sup>[23](/bible/acts/9#v23)</sup> And after that many days were fulfilled, the Jews took counsel to kill him:
+
 - The Jews took counsel to kill him: To do what? To kill him. Understand, that's common today because many people jump up and get confounded through the spirit when they come up against us. That's why we don't debate, we teach. You understand? Because your gainsaying, listen, you not going to prevail against the scriptures. So, eventually they going to say, "You know what? We can't beat them. We just got to kill them." That's what's going to come down to, fam. That's prophetic in the scriptures. Read.
+
+> <sup>[24](/bible/acts/9#v24)</sup> But their laying await was known of Saul. And they watched the gates day and night to kill him.
+>
+> <sup>[25](/bible/acts/9#v25)</sup> Then the disciples took him by night, and let him down by the wall in a basket.
 
 - And let him down by the wall in a basket: Right. So, that was Paul being troubled on every side. Meaning what? They had lookouts. They did a stakeout for him. So, he was literally troubled on every side. They was looking to put him to death because what? He confounded them in the scriptures. And them brothers think that they was doing the Lord's work. Make no mistake about that. Make no mistake about that. When they persecute us, many of our people going to believe in their mind that they are actually doing the work of the Lord. So, now give me another example. Give me Acts 13. Real quick. Verse 44.
 
@@ -387,22 +387,18 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "persecution", "purpose
 **[Acts 13:44-48](/bible/acts/13#v44)**  *[[38:19](https://www.youtube.com/watch?v=hVRcXshrCUo&t=2299s)]*
 
 > <sup>[44](/bible/acts/13#v44)</sup> And the next sabbath day came almost the whole city together to hear the word of God.
->
-> <sup>[45](/bible/acts/13#v45)</sup> But when the Jews saw the multitudes, they were filled with envy, and spake against those things which were spoken by Paul, contradicting and blaspheming.
->
-> <sup>[46](/bible/acts/13#v46)</sup> Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing ye put it from you, and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles.
->
-> <sup>[47](/bible/acts/13#v47)</sup> For so hath the Lord commanded us, saying, I have set thee to be a light of the Gentiles, that thou shouldest be for salvation unto the ends of the earth.
->
-> <sup>[48](/bible/acts/13#v48)</sup> And when the Gentiles heard this, they were glad, and glorified the word of the Lord: and as many as were ordained to eternal life believed.
 
 - And the next sabbath day came almost the whole city together: Hold on, the next what? Sabbath day. So, what you doing still going to church on Sunday? It's 2026 and y'all haven't figured out that the Lord's day is the Sabbath. That's because you following the God of this world.
+
+> <sup>[45](/bible/acts/13#v45)</sup> But when the Jews saw the multitudes, they were filled with envy, and spake against those things which were spoken by Paul, contradicting and blaspheming.
 
 - But when the Jews saw the multitudes, they were filled with envy: Here go the haters. Here go the haters. Here go the haters. Man, they got a plane. They got private plane. They got magic school buses. There was haters back then, there's haters today, man. I'm telling you, something wrong with our people.
 
 - And spake against those things which were spoken by Paul: You see that? You see that all the time, man. This the home of the truth, man. They teaching the wrong doctrine. Nothing is new under the sun, family.
 
 - Contradicting and blaspheming: Hold on, what are the brothers doing? Contradicting and blaspheming. Brothers, stay in the spirit. You talking crazy out there.
+
+> <sup>[46](/bible/acts/13#v46)</sup> Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing ye put it from you, and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles.
 
 - Then Paul and Barnabas waxed bold: They did what? Waxed bold. So, when the brothers is out there talking, brothers was talking cash money. They was fighting over corner. Said, "You know what? We going international." That's the spirit. That's the waxing bold. Brothers said, "We going to be arguing over street corner?" We went around and hit the globe. We blitzed the globe, man. On the Passover, blitzed the earth. That's waxing bold in the spirit.
 
@@ -414,9 +410,13 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "persecution", "purpose
 
 - Lo, we turn to the Gentiles: So now we got to go get the northern kingdom. We got to go get the remnant, man.
 
+> <sup>[47](/bible/acts/13#v47)</sup> For so hath the Lord commanded us, saying, I have set thee to be a light of the Gentiles, that thou shouldest be for salvation unto the ends of the earth.
+
 - I have set thee to be a light of the Gentiles: So why you think the spirit jumped on the bishop to go out there and hit the four corners? Cuz that's the Lord's doing. They think we just sitting around just making up some stuff, shooting from the hip. No. The movement is based on the scriptures.
 
 - That thou shouldest be for salvation unto the ends of the earth: Hold on. How you going to do that when you just on a dusty ass couch? I mean, it ain't a flying car, but it ain't a flying couch. How you going to get to the four corners of the earth on a dusty ass couch? Now brother got a passport. Read that one more time for the simple brothers. The Lord commanded us. So you got to get up. You got to know where your people are scattered through the four corners of the earth. You got to get a passport because that's commanded in the gospel, man. You not doing that off your couch. Many of the areas that we hit don't even have internet.
+
+> <sup>[48](/bible/acts/13#v48)</sup> And when the Gentiles heard this, they were glad, and glorified the word of the Lord: and as many as were ordained to eternal life believed.
 
 - And when the Gentiles heard this, they were glad: You see it? That's why we well received overseas, man. Y'all don't know nothing about that cuz you ain't there.
 
@@ -428,12 +428,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "persecution", "purpose
 **[Luke 9:49-50](/bible/luke/9#v49)**  *[[42:29](https://www.youtube.com/watch?v=hVRcXshrCUo&t=2549s)]*
 
 > <sup>[49](/bible/luke/9#v49)</sup> And John answered and said, Master, we saw one casting out devils in thy name; and we forbad him, because he followeth not with us.
->
-> <sup>[50](/bible/luke/9#v50)</sup> And Jesus said unto him, Forbid him not: for he that is not against us is for us.
 
 - And we forbad him: Stopped him.
 
 - Because he followeth not with us: Right. The brother ain't in the home of the truth.
+
+> <sup>[50](/bible/luke/9#v50)</sup> And Jesus said unto him, Forbid him not: for he that is not against us is for us.
 
 - Forbid him not: Hold on. What did Christ say? "Forbid him not." Christ said, "Don't stop the brother." In other words, stop hating.
 
@@ -443,10 +443,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "persecution", "purpose
 **[2 Corinthians 4:8-9](/bible/2-corinthians/4#v8)**  *[[43:16](https://www.youtube.com/watch?v=hVRcXshrCUo&t=2596s)]*
 
 > <sup>[8](/bible/2-corinthians/4#v8)</sup> We are troubled on every side, yet not distressed; we are perplexed, but not in despair;
->
-> <sup>[9](/bible/2-corinthians/4#v9)</sup> Persecuted, but not forsaken; cast down, but not destroyed;
 
 - We are perplexed, but not in despair: Right. Paul was also shipwrecked when you read Acts 27. Keep reading.
+
+> <sup>[9](/bible/2-corinthians/4#v9)</sup> Persecuted, but not forsaken; cast down, but not destroyed;
 
 - Persecuted, but not forsaken; cast down, but not destroyed: Persecuted, not forsaken, cast down but not destroyed. Give me Acts chapter 14. We're going to read 18 and 19. Giving another account of Apostle Paul out there teaching the gospel, man. This is when he went to Lystra. And they healed the crippled man a couple verses up. So, the backstory, they healed the crippled man a couple verses up and the people there wanted to worship and sacrifice unto Paul and Barnabas. They called Barnabas Jupiter and Paul they called Mercury. And so, Paul forbade them. Watch. Pick up at verse 18.
 
@@ -454,16 +454,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "persecution", "purpose
 **[Acts 14:18-20](/bible/acts/14#v18)**  *[[44:41](https://www.youtube.com/watch?v=hVRcXshrCUo&t=2681s)]*
 
 > <sup>[18](/bible/acts/14#v18)</sup> And with these sayings scarce restrained they the people, that they had not done sacrifice unto them.
->
-> <sup>[19](/bible/acts/14#v19)</sup> And there came thither certain Jews from Antioch and Iconium, who persuaded the people, and, having stoned Paul, drew him out of the city, supposing he had been dead.
->
-> <sup>[20](/bible/acts/14#v20)</sup> Howbeit, as the disciples stood round about him, he rose up, and came into the city: and the next day he departed with Barnabas to Derbe.
 
 - And with these sayings scarce restrained they the people: So, the sayings is what the people wanted to do. They called Barnabas Jupiter, Paul Mercury and they wanted to offer up a sacrifice. Matter of fact, read on. Verse 12 and 13.
 
 - Read again (45:35): You see that? They want to do that for Paul and them. Now, jump down to verse 18. The they is the Paul. So, it says and with these sayings, meaning the sayings of the people trying to worship Paul and Barnabas, Paul and Barnabas said, "Stop. Don't do that."
 
 - That they had not done sacrifice unto them: That they had not done sacrifices. Listen, don't sacrifice no oxen for us. We just mere vessels of the Lord. That's what they tell them. Watch this.
+
+> <sup>[19](/bible/acts/14#v19)</sup> And there came thither certain Jews from Antioch and Iconium, who persuaded the people, and, having stoned Paul, drew him out of the city, supposing he had been dead.
 
 - And there came thither certain Jews from Antioch and Iconium: Here we go. Here we go. Black people, here we go. Certain Jews from Antioch, Iconium.
 
@@ -472,6 +470,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "persecution", "purpose
 - And, having stoned Paul: Hold on, having done what? Stoned Paul.
 
 - Drew him out of the city, supposing he had been dead: Actually, Paul did die. That's when he went up to the third heaven. You understand? And saw many things. Saw many things. So, now that's our people, the wicked of our people stirred up the people. They just saw Paul and them heal a lame man. Then you got wicked Negroes go out there and stir the people up, turn around and stone the man that did the healing. Only black people do things like that. I'm sorry. I hate to, I got to just keep it real. We the only people that do that. We the only people that do that. Matter of fact, read verse 20 real quick in Acts. My fault. I didn't mean to cut it. Go back to Acts 14:20. Read that. Then we're going to read Psalms 34:19. Apologies on that.
+
+> <sup>[20](/bible/acts/14#v20)</sup> Howbeit, as the disciples stood round about him, he rose up, and came into the city: and the next day he departed with Barnabas to Derbe.
 
 - Howbeit, as the disciples stood round about him, he rose up: So, when they, he stood up. The disciples stood around him. He rose up. So, now give me Psalms 34:19. So, they circle around him and prayed and the spirit came back into Paul. You understand? Paul ended up dying from that. But all praise to the Most High, he came back. You understand? He went to the third heaven, seen things that he can't utter. You know, all praises. Read that.
 
@@ -490,11 +490,9 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "persecution", "purpose
 
 **[2 Corinthians 4:10-11](/bible/2-corinthians/4#v10)**  *[[48:26](https://www.youtube.com/watch?v=hVRcXshrCUo&t=2906s)]*
 
-> <sup>[10](/bible/2-corinthians/4#v10)</sup> Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body.
->
-> <sup>[11](/bible/2-corinthians/4#v11)</sup> For we which live are alway delivered unto death for Jesus’ sake, that the life also of Jesus might be made manifest in our mortal flesh.
-
 - Lead-in: So, remember we just picking up where Paul is exalting them and they're being persecuted and tried and so forth, as it is in their life to do what? To build up the people in the church in Corinth. What is he saying those things for? To strengthen their faith. You understand? Read.
+
+> <sup>[10](/bible/2-corinthians/4#v10)</sup> Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body.
 
 - Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body: So, Paul's body showed the suffering of Christ through persecution, but his survival and doing showed the life and the power of Christ working through him. That's what he's saying. He's saying, "Listen, you see me going through that. The reason why I'm able to continue to endure and to go through these things because of the power of Christ." You understand? Give me Galatians 2 and 20. And so, Paul is exalting the brothers and sisters to endure as good soldiers. Why do you think he was able to tell Timothy that? Because Paul was shipwrecked, stoned, ran out of cities and so forth. Let down in the basket for the gospel's sake, and he's giving them accounts not to brag or boast, but to strengthen the brethren. Meaning what? I went through these things so you can go through them. It's possible with the power of Christ. Do you understand? Read that.
 
@@ -503,6 +501,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "persecution", "purpose
     > <sup>[20](/bible/galatians/2#v20)</sup> I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.
 
     I am crucified with Christ: Hold on. He said what? I am crucified with Christ. Watch this. Nevertheless I live: Nevertheless, I live, through the spirit. Yet not I, but Christ liveth in me: That not I, but the spirit of Christ is residing in me. We read that in John 14. Who loved me, and gave himself for me: What? Gave himself for me. So, that's what Paul is saying. Paul is saying, "Listen, brothers in the church of Corinth, I'm giving myself for you like Christ gave himself for me." That's what he was telling them. All the account of Christ that he was giving, Paul is saying, "Listen, I'm a living example of that." So, if you see me doing that, you brothers are capable of doing the same thing. So now, go back to 2 Corinthians.
+
+> <sup>[11](/bible/2-corinthians/4#v11)</sup> For we which live are alway delivered unto death for Jesus’ sake, that the life also of Jesus might be made manifest in our mortal flesh.
 
 
 **[2 Corinthians 4:11](/bible/2-corinthians/4#v11)**  *[[50:39](https://www.youtube.com/watch?v=hVRcXshrCUo&t=3039s)]*
@@ -529,20 +529,18 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "persecution", "purpose
 **[2 Corinthians 4:11-14](/bible/2-corinthians/4#v11)**  *[[53:42](https://www.youtube.com/watch?v=hVRcXshrCUo&t=3222s)]*
 
 > <sup>[11](/bible/2-corinthians/4#v11)</sup> For we which live are alway delivered unto death for Jesus’ sake, that the life also of Jesus might be made manifest in our mortal flesh.
->
-> <sup>[12](/bible/2-corinthians/4#v12)</sup> So then death worketh in us, but life in you.
->
-> <sup>[13](/bible/2-corinthians/4#v13)</sup> We having the same spirit of faith, according as it is written, I believed, and therefore have I spoken; we also believe, and therefore speak;
->
-> <sup>[14](/bible/2-corinthians/4#v14)</sup> Knowing that he which raised up the Lord Jesus shall raise up us also by Jesus, and shall present us with you.
 
 - For we which live are alway delivered unto death for Jesus' sake: You see that? That's what I read in Psalms 44 and 22. We are killed all the day long. It says, "For thy sake we are killed all the day long." The thy there is talking about Christ.
 
 - That the life also of Jesus might be made manifest in our mortal flesh: So, when the people see us, especially when the persecution come, they're going to say, "Surely those are the prophets of God." Cuz they're being killed all the day long for teaching the Bible. We're reading out of a book. And people are going to eventually lay hands on us and put us to death, man. That's how the people are going to know. And many people are going to be converted in that day. Understand that. That sacrifice ain't going to be in vain, family. Many people will come in.
 
+> <sup>[12](/bible/2-corinthians/4#v12)</sup> So then death worketh in us, but life in you.
+
 - So then death worketh in us, but life in you: So, death worketh in us. Paul is saying the prophets of God are constantly exposed to death, whether it be persecution, hardship, you know, what we read about shipwreck like in the case of Paul, you understand? And while these are going to occur while spreading the gospel. Read that one more time.
 
 - But life in you (55:08): So, the believers who hear the gospel understood that salvation and the life of Christ, right? Or what they were being taught in the scriptures giving them life because they see the apostles and the prophets out there willing to hazard their life for the people. They understand that thing. Like, surely these men are sent for our salvation. These men are laying down their life, traveling, hitting strange countries to teach the gospel, man. The people see that thing. They see it. You understand? Keep reading.
+
+> <sup>[13](/bible/2-corinthians/4#v13)</sup> We having the same spirit of faith, according as it is written, I believed, and therefore have I spoken; we also believe, and therefore speak;
 
 - We having the same spirit of faith: Hold on, we what? Having the same spirit of faith. So, we got to have that same spirit. We got to have the mind of Christ. Meaning what? We have to get to the point where we lay down our lives for our people. You understand? That's the mind of Christ.
 
@@ -551,6 +549,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "persecution", "purpose
 - I believed, and therefore have I spoken: Meaning what? I believe what was written, therefore I speak what? Speak the oracles of God, man. Paul was not there just flapping his gums.
 
 - We also believe, and therefore speak: Right, so Paul was quoting Psalms 116 and 10. Keep reading.
+
+> <sup>[14](/bible/2-corinthians/4#v14)</sup> Knowing that he which raised up the Lord Jesus shall raise up us also by Jesus, and shall present us with you.
 
 - And shall present us with you: Give me Romans 8 and 11 real quick. Let's hurry up cuz I'm trying to finish this up.
 

@@ -1,4 +1,5 @@
 # John. child < father | verses | note | evidence | sources
+jesus < joseph-m | 1:45,6:42 | "Jesus of Nazareth, the son of Joseph"; "Is not this Jesus, the son of Joseph, whose father and mother we know?"
 andrew ~ simon-p | 1:40,1:41,6:8 | "Andrew, Simon Peter's brother"; "He first findeth his own brother Simon"
 simon-p < jona-p | 1:42,21:15,21:16,21:17 | "Thou art Simon the son of Jona"; "Simon, son of Jonas"
 judas-i < simon-i | 6:71,12:4,13:2,13:26 | "Judas Iscariot the son of Simon"

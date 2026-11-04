@@ -131,8 +131,6 @@ And the petrodollar, which is the deal underneath all of it:
 **[Isaiah 46:9-10](/bible/isaiah/46#v9)**  *[[32:44](https://www.youtube.com/watch?v=ZdJmxp6V1Ds&t=1964s)]*
 
 > <sup>[9](/bible/isaiah/46#v9)</sup> Remember the former things of old: for I am God, and there is none else; I am God, and there is none like me,
->
-> <sup>[10](/bible/isaiah/46#v10)</sup> Declaring the end from the beginning, and from ancient times the things that are not yet done, saying, My counsel shall stand, and I will do all my pleasure:
 
 - Remember the former things of old: for I am God, and there is none else; I am God, and there is none like me.
 
@@ -145,6 +143,8 @@ And the petrodollar, which is the deal underneath all of it:
 - Saying, My counsel shall stand, and I will do all my pleasure. And what God said, his counsel, it shall stand.
 
 - So everything you see happening in the world today — what is happening in Russia and Ukraine, the earthquakes all over the world, what is happening with Iran and America, what is happening in Yemen and Saudi Arabia, in Lebanon, what you see happening in Palestine — God declared them all from the beginning. And it is amazing to see these things come to pass, because it builds your faith up. You say, this Bible is a real book.
+
+> <sup>[10](/bible/isaiah/46#v10)</sup> Declaring the end from the beginning, and from ancient times the things that are not yet done, saying, My counsel shall stand, and I will do all my pleasure:
 
 **[Isaiah 13:1](/bible/isaiah/13#v1)**  *[[54:15](https://www.youtube.com/watch?v=ZdJmxp6V1Ds&t=3255s)]*
 
@@ -180,19 +180,15 @@ And the petrodollar, which is the deal underneath all of it:
 
 **[Isaiah 14:1-4](/bible/isaiah/14#v1)**  *[[1:08:41](https://www.youtube.com/watch?v=ZdJmxp6V1Ds&t=4121s)]*
 
-> <sup>[1](/bible/isaiah/14#v1)</sup> For the Lord will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob.
->
-> <sup>[2](/bible/isaiah/14#v2)</sup> And the people shall take them, and bring them to their place: and the house of Israel shall possess them in the land of the Lord for servants and handmaids: and they shall take them captives, whose captives they were; and they shall rule over their oppressors.
->
-> <sup>[3](/bible/isaiah/14#v3)</sup> And it shall come to pass in the day that the Lord shall give thee rest from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve,
->
-> <sup>[4](/bible/isaiah/14#v4)</sup> That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased!
-
 - When Isaiah wrote this, did he write it and put chapter 13, chapter 14? It was a continual vision. So chapter 14 is a continuation of chapter 13, the same vision concerning Babylon.
 
 - For the Lord will have mercy on Jacob, and will yet choose Israel, and set them in their own land. So after Babylon is destroyed, God will have mercy upon Jacob, he is going to choose us, and he is going to put us back in our land.
 
 - And the strangers shall be joined with them, and they shall cleave to the house of Jacob. They are going to be our servants.
+
+> <sup>[1](/bible/isaiah/14#v1)</sup> For the Lord will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob.
+>
+> <sup>[2](/bible/isaiah/14#v2)</sup> And the people shall take them, and bring them to their place: and the house of Israel shall possess them in the land of the Lord for servants and handmaids: and they shall take them captives, whose captives they were; and they shall rule over their oppressors.
 
 - And the people shall take them, and bring them to their place: and the house of Israel shall possess them in the land of the Lord for servants and handmaids. Everybody is going back to their own land, and all nations are going to serve us. When is this going to happen? After Babylon is destroyed.
 
@@ -204,15 +200,11 @@ And the petrodollar, which is the deal underneath all of it:
 
 - And say, How hath the oppressor ceased! the golden city ceased! So we are going to say, how have the oppressor, which is America, ceased? How was America destroyed? Are we asking, or are we making a statement? We are making a statement. So everything else we are about to read explains how America was destroyed.
 
-**[Isaiah 14:5-8](/bible/isaiah/14#v5)**  *[[1:15:02](https://www.youtube.com/watch?v=ZdJmxp6V1Ds&t=4502s)]*
+> <sup>[3](/bible/isaiah/14#v3)</sup> And it shall come to pass in the day that the Lord shall give thee rest from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve,
+>
+> <sup>[4](/bible/isaiah/14#v4)</sup> That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased!
 
-> <sup>[5](/bible/isaiah/14#v5)</sup> The Lord hath broken the staff of the wicked, and the sceptre of the rulers.
->
-> <sup>[6](/bible/isaiah/14#v6)</sup> He who smote the people in wrath with a continual stroke, he that ruled the nations in anger, is persecuted, and none hindereth.
->
-> <sup>[7](/bible/isaiah/14#v7)</sup> The whole earth is at rest, and is quiet: they break forth into singing.
->
-> <sup>[8](/bible/isaiah/14#v8)</sup> Yea, the fir trees rejoice at thee, and the cedars of Lebanon, saying, Since thou art laid down, no feller is come up against us.
+**[Isaiah 14:5-8](/bible/isaiah/14#v5)**  *[[1:15:02](https://www.youtube.com/watch?v=ZdJmxp6V1Ds&t=4502s)]*
 
 - The Lord hath broken the staff of the wicked, and the sceptre of the rulers. Who is saying this? We are saying it. God has broken the staff of the wicked and the sceptre of the rulers.
 
@@ -220,17 +212,21 @@ And the petrodollar, which is the deal underneath all of it:
 
 - He that ruled the nations in anger, is persecuted, and none hindereth. That is what America did.
 
+> <sup>[5](/bible/isaiah/14#v5)</sup> The Lord hath broken the staff of the wicked, and the sceptre of the rulers.
+>
+> <sup>[6](/bible/isaiah/14#v6)</sup> He who smote the people in wrath with a continual stroke, he that ruled the nations in anger, is persecuted, and none hindereth.
+>
+> <sup>[7](/bible/isaiah/14#v7)</sup> The whole earth is at rest, and is quiet: they break forth into singing.
+
 - The whole earth is at rest, and is quiet: they break forth into singing. So when he is destroyed, the whole earth is going to be at rest and quiet.
 
 - Yea, the fir trees rejoice at thee. So what we are reading about already happened — America is already destroyed in chapter 13, and now he is explaining how the golden city ceased.
 
+> <sup>[8](/bible/isaiah/14#v8)</sup> Yea, the fir trees rejoice at thee, and the cedars of Lebanon, saying, Since thou art laid down, no feller is come up against us.
+
 **[Isaiah 14:9-11](/bible/isaiah/14#v9)**  *[[1:15:51](https://www.youtube.com/watch?v=ZdJmxp6V1Ds&t=4551s)]*
 
 > <sup>[9](/bible/isaiah/14#v9)</sup> Hell from beneath is moved for thee to meet thee at thy coming: it stirreth up the dead for thee, even all the chief ones of the earth; it hath raised up from their thrones all the kings of the nations.
->
-> <sup>[10](/bible/isaiah/14#v10)</sup> All they shall speak and say unto thee, Art thou also become weak as we? art thou become like unto us?
->
-> <sup>[11](/bible/isaiah/14#v11)</sup> Thy pomp is brought down to the grave, and the noise of thy viols: the worm is spread under thee, and the worms cover thee.
 
 - Hell from beneath is moved for thee to meet thee at thy coming: it stirreth up the dead for thee, even all the chief ones of the earth. In chapter 13 he says God is going to raise up the Medes against thee. Now Isaiah is going a little more in depth. All the chief ones of the earth are going to be stirred up to come against America.
 
@@ -241,6 +237,10 @@ And the petrodollar, which is the deal underneath all of it:
 - All they shall speak and say unto thee, Art thou also become weak as we? So this is not when they are destroyed. We are going to say, have they become as weak as us? Showing that America will become weak economically and militarily, and the nations will see that, and that is why they will rise up and destroy this place. Because America will lose its world economic power and its military dominance.
 
 - The military dominance America had for years — who helped America with that? The NATO alliance. All the European countries supported America in all the evil they were doing from 1945 all the way until Trump came into office. Trump came into office and disrespected all the Europeans, started putting tariffs on them.
+
+> <sup>[10](/bible/isaiah/14#v10)</sup> All they shall speak and say unto thee, Art thou also become weak as we? art thou become like unto us?
+>
+> <sup>[11](/bible/isaiah/14#v11)</sup> Thy pomp is brought down to the grave, and the noise of thy viols: the worm is spread under thee, and the worms cover thee.
 
 - Art thou become like unto us? Thy pomp is brought down to the grave, and the noise of thy viols: the worm is spread under thee, and the worms cover thee. So before America is destroyed, America will become weak. And this is the beginning stages of America's decline.
 
@@ -413,14 +413,14 @@ And the petrodollar, which is the deal underneath all of it:
 **[3 John 1:9-10](/bible/3-john/1#v9)**  *[[2:09:03](https://www.youtube.com/watch?v=ZdJmxp6V1Ds&t=7743s)]*
 
 > <sup>[9](/bible/3-john/1#v9)</sup> I wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not.
->
-> <sup>[10](/bible/3-john/1#v10)</sup> Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth them out of the church.
 
 - I wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not. So Diotrephes loved the preeminence. Preeminence is pride, ego. Preeminence is you thinking you are better than everybody. I am better than everyone, to hell with the apostles. That is what this dude was on. I am better than these dudes; do not even let them up in here. Yo, Peter, do not let that dude in here, who does he think he is? That is how this dude was rolling.
 
 - Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words. He was talking crazy stuff about the apostles.
 
 - So to love the preeminence — that spirit should not be on brothers. Brothers, if you get that spirit you have got to shake it off. You could hide it, but guess who knows your mind, guess who knows what is inside you? God. You could probably hide it from us, but God sees you. You desire preeminence, fame, glory — that is why you want to be a leader. Guess what? You are not going to last long in this truth.
+
+> <sup>[10](/bible/3-john/1#v10)</sup> Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth them out of the church.
 
 **[Galatians 5:26](/bible/galatians/5#v26)**  *[[2:10:34](https://www.youtube.com/watch?v=ZdJmxp6V1Ds&t=7834s)]*
 
@@ -476,6 +476,12 @@ And the petrodollar, which is the deal underneath all of it:
 
 **[2 Chronicles 26:1-8](/bible/2-chronicles/26#v1)**  *[[2:21:24](https://www.youtube.com/watch?v=ZdJmxp6V1Ds&t=8484s)]*
 
+- Then all the people of Judah took Uzziah, who was sixteen years old, and made him king in the room of his father Amaziah. So he was sixteen years old. He was a novice.
+
+- He built Eloth, and restored it to Judah, after that the king slept with his fathers. Sixteen years old was Uzziah when he began to reign, and he reigned fifty and two years in Jerusalem. His mother's name also was Jecoliah of Jerusalem.
+
+- And he did that which was right in the sight of the Lord, according to all that his father Amaziah did.
+
 > <sup>[1](/bible/2-chronicles/26#v1)</sup> Then all the people of Judah took Uzziah, who was sixteen years old, and made him king in the room of his father Amaziah.
 >
 > <sup>[2](/bible/2-chronicles/26#v2)</sup> He built Eloth, and restored it to Judah, after that the king slept with his fathers.
@@ -485,18 +491,6 @@ And the petrodollar, which is the deal underneath all of it:
 > <sup>[4](/bible/2-chronicles/26#v4)</sup> And he did that which was right in the sight of the Lord, according to all that his father Amaziah did.
 >
 > <sup>[5](/bible/2-chronicles/26#v5)</sup> And he sought God in the days of Zechariah, who had understanding in the visions of God: and as long as he sought the Lord, God made him to prosper.
->
-> <sup>[6](/bible/2-chronicles/26#v6)</sup> And he went forth and warred against the Philistines, and brake down the wall of Gath, and the wall of Jabneh, and the wall of Ashdod, and built cities about Ashdod, and among the Philistines.
->
-> <sup>[7](/bible/2-chronicles/26#v7)</sup> And God helped him against the Philistines, and against the Arabians that dwelt in Gur–baal, and the Mehunims.
->
-> <sup>[8](/bible/2-chronicles/26#v8)</sup> And the Ammonites gave gifts to Uzziah: and his name spread abroad even to the entering in of Egypt; for he strengthened himself exceedingly.
-
-- Then all the people of Judah took Uzziah, who was sixteen years old, and made him king in the room of his father Amaziah. So he was sixteen years old. He was a novice.
-
-- He built Eloth, and restored it to Judah, after that the king slept with his fathers. Sixteen years old was Uzziah when he began to reign, and he reigned fifty and two years in Jerusalem. His mother's name also was Jecoliah of Jerusalem.
-
-- And he did that which was right in the sight of the Lord, according to all that his father Amaziah did.
 
 - And he sought God in the days of Zechariah, who had understanding in the visions of God: and as long as he sought the Lord, God made him to prosper. Zechariah was a prophet. He sought God when Zechariah was around — meaning who was helping him? God had the right men around this young man to tutor him and to guide him. He was a young king, but he prospered once he sought the Lord.
 
@@ -504,17 +498,15 @@ And the petrodollar, which is the deal underneath all of it:
 
 - And God helped him against the Philistines, and against the Arabians that dwelt in Gurbaal, and the Mehunims.
 
+> <sup>[6](/bible/2-chronicles/26#v6)</sup> And he went forth and warred against the Philistines, and brake down the wall of Gath, and the wall of Jabneh, and the wall of Ashdod, and built cities about Ashdod, and among the Philistines.
+>
+> <sup>[7](/bible/2-chronicles/26#v7)</sup> And God helped him against the Philistines, and against the Arabians that dwelt in Gur–baal, and the Mehunims.
+>
+> <sup>[8](/bible/2-chronicles/26#v8)</sup> And the Ammonites gave gifts to Uzziah: and his name spread abroad even to the entering in of Egypt; for he strengthened himself exceedingly.
+
 - And the Ammonites gave gifts to Uzziah: and his name spread abroad even to the entering in of Egypt; for he strengthened himself exceedingly. So his name spread abroad — he became famous. The same way some of you leaders in here, people are going to hear about you. You will become famous. The Lord is going to deal with you and you will become famous.
 
 **[2 Chronicles 26:16-19](/bible/2-chronicles/26#v16)**  *[[2:25:27](https://www.youtube.com/watch?v=ZdJmxp6V1Ds&t=8727s)]*
-
-> <sup>[16](/bible/2-chronicles/26#v16)</sup> But when he was strong, his heart was lifted up to his destruction: for he transgressed against the Lord his God, and went into the temple of the Lord to burn incense upon the altar of incense.
->
-> <sup>[17](/bible/2-chronicles/26#v17)</sup> And Azariah the priest went in after him, and with him fourscore priests of the Lord, that were valiant men:
->
-> <sup>[18](/bible/2-chronicles/26#v18)</sup> And they withstood Uzziah the king, and said unto him, It appertaineth not unto thee, Uzziah, to burn incense unto the Lord, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for thou hast trespassed; neither shall it be for thine honour from the Lord God.
->
-> <sup>[19](/bible/2-chronicles/26#v19)</sup> Then Uzziah was wroth, and had a censer in his hand to burn incense: and while he was wroth with the priests, the leprosy even rose up in his forehead before the priests in the house of the Lord, from beside the incense altar.
 
 - But when he was strong, his heart was lifted up to his destruction. When it says his heart was lifted up, he became prideful, highminded. That is where Paul got it from — not a novice, lest he be lifted up with pride and fall into the condemnation of the devil. Because this king was young. He had counsellors, and once that counsellor was not around any more, he started doing stupid stuff. Satan was messing with him.
 
@@ -522,7 +514,15 @@ And the petrodollar, which is the deal underneath all of it:
 
 - For he transgressed against the Lord his God, and went into the temple of the Lord to burn incense upon the altar of incense. He went outside what God commanded him to do. He said, the Lord is dealing with me, so let me go and burn incense unto the Lord.
 
+> <sup>[16](/bible/2-chronicles/26#v16)</sup> But when he was strong, his heart was lifted up to his destruction: for he transgressed against the Lord his God, and went into the temple of the Lord to burn incense upon the altar of incense.
+>
+> <sup>[17](/bible/2-chronicles/26#v17)</sup> And Azariah the priest went in after him, and with him fourscore priests of the Lord, that were valiant men:
+
 - And Azariah the priest went in after him, and with him fourscore priests of the Lord, that were valiant men: and they withstood Uzziah the king, and said unto him, It appertaineth not unto thee, Uzziah, to burn incense unto the Lord, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for thou hast trespassed; neither shall it be for thine honour from the Lord God. So he does not want to listen to anybody. The high priest said, what are you doing, that is wrong. And he said, to hell with you, I am the king and God is dealing with me too, I want to burn incense unto my God.
+
+> <sup>[18](/bible/2-chronicles/26#v18)</sup> And they withstood Uzziah the king, and said unto him, It appertaineth not unto thee, Uzziah, to burn incense unto the Lord, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for thou hast trespassed; neither shall it be for thine honour from the Lord God.
+>
+> <sup>[19](/bible/2-chronicles/26#v19)</sup> Then Uzziah was wroth, and had a censer in his hand to burn incense: and while he was wroth with the priests, the leprosy even rose up in his forehead before the priests in the house of the Lord, from beside the incense altar.
 
 - Then Uzziah was wroth, and had a censer in his hand to burn incense: and while he was wroth with the priests, the leprosy even rose up in his forehead before the priests in the house of the Lord, from beside the incense altar. He was angry at them and said, I am going to burn incense, I do not care what you say. Remember, pride is when you do not want to listen to counsel, you do not want to listen to anybody. So the Lord smote him with leprosy. That was his judgment. Why? Because he was a novice.
 

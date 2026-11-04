@@ -2,7 +2,7 @@
 title: "In Vain Do They Worship Me! Religious Syncretism"
 slug: "2026/2026-05-23-in-vain-do-they-worship-me-religious-syncretism"
 date: "2026-05-23"
-teacher: ""
+teacher: "Captain Kemuel"
 description: "IUIC in the ClassRoom · 2026-05-23"
 tags: ["IUIC in the ClassRoom", "false-religion", "idolatry", "passover-feasts", "sabbath", "the-law"]
 ---
@@ -107,13 +107,14 @@ Reading from the linked entry on anthropology  *[[24:35](https://www.youtube.com
 **[Psalms 64:4-6](/bible/psalms/64#v4)**  *[[25:20](https://www.youtube.com/watch?v=ZztygjY4U2w&t=1520s)]*
 
 > <sup>[4](/bible/psalms/64#v4)</sup> That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.
->
+
+- That they may shoot in secret at the perfect: we are the perfect. They encourage themselves in an evil matter; they say, who shall see them?
+
+- They search out iniquities; they accomplish a diligent search. This is when they go and do their studies and research. The other nations, especially Esau, get to go out and dig up the historical artifacts, and when they find out about our history, they know. Cultural anthropology means they study us so they can figure out what drives us and what motivates us, and ultimately how to keep us in the midst of sin.
+
 > <sup>[5](/bible/psalms/64#v5)</sup> They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?
 >
 > <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
-
-- That they may shoot in secret at the perfect: we are the perfect. They encourage themselves in an evil matter; they say, who shall see them?
-- They search out iniquities; they accomplish a diligent search. This is when they go and do their studies and research. The other nations, especially Esau, get to go out and dig up the historical artifacts, and when they find out about our history, they know. Cultural anthropology means they study us so they can figure out what drives us and what motivates us, and ultimately how to keep us in the midst of sin.
 
 <div class="reading">
 
@@ -327,10 +328,32 @@ Reading from screenshots of the Wikipedia entry on syncretism, on the Protestant
 
 **[2 Maccabees 7:1-23](/bible/2-maccabees/7#v1)**  *[[55:26](https://www.youtube.com/watch?v=ZztygjY4U2w&t=3326s)]*
 
+- The record read: seven brethren with their mother were taken and compelled by the king, against the law, to taste swine's flesh, and each brother chose a martyr's death rather than transgress the laws of the fathers. Why is it that swine's flesh is all throughout the black church today? These are those that stand stiffly.
+
 > <sup>[1](/bible/2-maccabees/7#v1)</sup> It came to pass also, that seven brethren with their mother were taken, and compelled by the king against the law to taste swine’s flesh, and were tormented with scourges and whips.
 >
 > <sup>[2](/bible/2-maccabees/7#v2)</sup> But one of them that spake first said thus, What wouldest thou ask or learn of us? we are ready to die, rather than to transgress the laws of our fathers.
->
+
+- We are ready to die rather than to transgress the laws of our fathers: do you know what level of faith that is? You truly cannot desire anything left in this world. And the bishop used to say it all the time: we are already captives. You have bills, you work fourteen hours a day. What are you leaving? There has to be something better.
+
+- The king and they that were with him marveled at the young man's courage. They marvel because they have to understand there is a certain spirit in them; there is something they know.
+
+- The fourth said, it is good, being put to death by men, to look for hope from God to be raised up again by him: as for thee, thou shalt have no resurrection to life. The sixth said, be not deceived without cause: for we suffer these things for ourselves, having sinned against our God; but think not thou that strivest against God that thou shalt escape unpunished.
+
+- The mother was marvelous above all and worthy of honorable memory: she saw her seven sons slain in one day, and bare it with good courage because of her hope in the Lord. The Creator of the world, who formed the generation of man, will also of his own mercy give you breath and life again. And what kind of mercy would it be for the same people that torment us to get an equal reward in the kingdom? That is not a merciful God, if he allows them to do that to us and then they get the same portion.
+
+  Precepts:
+  - **[Psalms 96:5](/bible/psalms/96#v5)**
+    > <sup>[5](/bible/psalms/96#v5)</sup> For all the gods of the nations are idols: but the Lord made the heavens.
+
+    All the gods of the nations are idols: but the Lord made the heavens. They have no living God.
+  - **[1 Corinthians 8:5-6](/bible/1-corinthians/8#v5)**
+    > <sup>[5](/bible/1-corinthians/8#v5)</sup> For though there be that are called gods, whether in heaven or in earth, (as there be gods many, and lords many,)
+    >
+    > <sup>[6](/bible/1-corinthians/8#v6)</sup> But to us there is but one God, the Father, of whom are all things, and we in him; and one Lord Jesus Christ, by whom are all things, and we by him.
+
+    Though there be that are called gods, whether in heaven or in earth, to us there is but one God, the Father, and one Lord Jesus Christ. Because we understand there is only one living God, that is why the king was marveling.
+
 > <sup>[3](/bible/2-maccabees/7#v3)</sup> Then the king, being in a rage, commanded pans and caldrons to be made hot:
 >
 > <sup>[4](/bible/2-maccabees/7#v4)</sup> Which forthwith being heated, he commanded to cut out the tongue of him that spake first, and to cut off the utmost parts of his body, the rest of his brethren and his mother looking on.
@@ -373,32 +396,15 @@ Reading from screenshots of the Wikipedia entry on syncretism, on the Protestant
 >
 > <sup>[23](/bible/2-maccabees/7#v23)</sup> But doubtless the Creator of the world, who formed the generation of man, and found out the beginning of all things, will also of his own mercy give you breath and life again, as ye now regard not your own selves for his laws’ sake.
 
-- The record read: seven brethren with their mother were taken and compelled by the king, against the law, to taste swine's flesh, and each brother chose a martyr's death rather than transgress the laws of the fathers. Why is it that swine's flesh is all throughout the black church today? These are those that stand stiffly.
-- We are ready to die rather than to transgress the laws of our fathers: do you know what level of faith that is? You truly cannot desire anything left in this world. And the bishop used to say it all the time: we are already captives. You have bills, you work fourteen hours a day. What are you leaving? There has to be something better.
-- The king and they that were with him marveled at the young man's courage. They marvel because they have to understand there is a certain spirit in them; there is something they know.
-- The fourth said, it is good, being put to death by men, to look for hope from God to be raised up again by him: as for thee, thou shalt have no resurrection to life. The sixth said, be not deceived without cause: for we suffer these things for ourselves, having sinned against our God; but think not thou that strivest against God that thou shalt escape unpunished.
-- The mother was marvelous above all and worthy of honorable memory: she saw her seven sons slain in one day, and bare it with good courage because of her hope in the Lord. The Creator of the world, who formed the generation of man, will also of his own mercy give you breath and life again. And what kind of mercy would it be for the same people that torment us to get an equal reward in the kingdom? That is not a merciful God, if he allows them to do that to us and then they get the same portion.
-
-  Precepts:
-  - **[Psalms 96:5](/bible/psalms/96#v5)**
-    > <sup>[5](/bible/psalms/96#v5)</sup> For all the gods of the nations are idols: but the Lord made the heavens.
-
-    All the gods of the nations are idols: but the Lord made the heavens. They have no living God.
-  - **[1 Corinthians 8:5-6](/bible/1-corinthians/8#v5)**
-    > <sup>[5](/bible/1-corinthians/8#v5)</sup> For though there be that are called gods, whether in heaven or in earth, (as there be gods many, and lords many,)
-    >
-    > <sup>[6](/bible/1-corinthians/8#v6)</sup> But to us there is but one God, the Father, of whom are all things, and we in him; and one Lord Jesus Christ, by whom are all things, and we by him.
-
-    Though there be that are called gods, whether in heaven or in earth, to us there is but one God, the Father, and one Lord Jesus Christ. Because we understand there is only one living God, that is why the king was marveling.
-
 **[2 Maccabees 14:37-38](/bible/2-maccabees/14#v37)**  *[[1:05:30](https://www.youtube.com/watch?v=ZztygjY4U2w&t=3930s)]*
 
 > <sup>[37](/bible/2-maccabees/14#v37)</sup> Now was there accused unto Nicanor one Razis, one of the elders of Jerusalem, a lover of his countrymen, and a man of very good report, who for his kindness was called a father of the Jews.
->
-> <sup>[38](/bible/2-maccabees/14#v38)</sup> For in the former times, when they mingled not themselves with the Gentiles, he had been accused of Judaism, and did boldly jeopard his body and life with all vehemency for the religion of the Jews.
 
 - Razis, one of the elders of Jerusalem, a lover of his countrymen: that is nationalism, that is loving your race. For his kindness he was called a father of the Jews.
+
 - For in the former times, when they mingled not themselves with the Gentiles, he had been accused of Judaism, and did boldly jeopard his body and life with all vehemency for the religion of the Jews. That is religious exclusivism.
+
+> <sup>[38](/bible/2-maccabees/14#v38)</sup> For in the former times, when they mingled not themselves with the Gentiles, he had been accused of Judaism, and did boldly jeopard his body and life with all vehemency for the religion of the Jews.
 
 **[Galatians 1:13-14](/bible/galatians/1#v13)**  *[[1:07:07](https://www.youtube.com/watch?v=ZztygjY4U2w&t=4027s)]*
 
@@ -414,11 +420,12 @@ Reading from screenshots of the Wikipedia entry on syncretism, on the Protestant
 > <sup>[5](/bible/acts/26#v5)</sup> Which knew me from the beginning, if they would testify, that after the most straitest sect of our religion I lived a Pharisee.
 >
 > <sup>[6](/bible/acts/26#v6)</sup> And now I stand and am judged for the hope of the promise made of God unto our fathers:
->
-> <sup>[7](/bible/acts/26#v7)</sup> Unto which promise our twelve tribes, instantly serving God day and night, hope to come. For which hope’s sake, king Agrippa, I am accused of the Jews.
 
 - After the most straitest sect of our religion I lived a Pharisee. And now I stand and am judged for the hope of the promise made of God unto our fathers: unto which promise our twelve tribes, instantly serving God day and night, hope to come.
+
 - Pause there, because the Christians come up to us on the street talking about Jews and Gentiles. Where do you read about the other tribes in the New Testament? You read about Anna of Aser in Luke, and Nephthalim and Zabulon, but all the tribes are not listed. Yet Paul says our twelve tribes.
+
+> <sup>[7](/bible/acts/26#v7)</sup> Unto which promise our twelve tribes, instantly serving God day and night, hope to come. For which hope’s sake, king Agrippa, I am accused of the Jews.
 
 **[James 1:1-8](/bible/james/1#v1)**  *[[1:10:19](https://www.youtube.com/watch?v=ZztygjY4U2w&t=4219s)]*
 
@@ -635,20 +642,20 @@ That personal revelation is what you get in a Christian church: the Lord told me
 > <sup>[38](/bible/matthew/22#v38)</sup> This is the first and great commandment.
 >
 > <sup>[39](/bible/matthew/22#v39)</sup> And the second is like unto it, Thou shalt love thy neighbour as thyself.
->
-> <sup>[40](/bible/matthew/22#v40)</sup> On these two commandments hang all the law and the prophets.
 
 - Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it: thou shalt love thy neighbour as thyself. On these two commandments hang all the law and the prophets. We are focusing on the first one, because all the other commandments flow from these two.
+
+> <sup>[40](/bible/matthew/22#v40)</sup> On these two commandments hang all the law and the prophets.
 
 **[Deuteronomy 6:4-6](/bible/deuteronomy/6#v4)**  *[[1:42:21](https://www.youtube.com/watch?v=ZztygjY4U2w&t=6141s)]*
 
 > <sup>[4](/bible/deuteronomy/6#v4)</sup> Hear, O Israel: The Lord our God is one Lord:
->
+
+- Hear, O Israel: the Lord our God is one Lord. And thou shalt love the Lord thy God with all thine heart, and with all thy soul, and with all thy might. And these words which I command thee this day shall be in thine heart.
+
 > <sup>[5](/bible/deuteronomy/6#v5)</sup> And thou shalt love the Lord thy God with all thine heart, and with all thy soul, and with all thy might.
 >
 > <sup>[6](/bible/deuteronomy/6#v6)</sup> And these words, which I command thee this day, shall be in thine heart:
-
-- Hear, O Israel: the Lord our God is one Lord. And thou shalt love the Lord thy God with all thine heart, and with all thy soul, and with all thy might. And these words which I command thee this day shall be in thine heart.
 
 **[Numbers 25:1-3](/bible/numbers/25#v1)**  *[[1:43:38](https://www.youtube.com/watch?v=ZztygjY4U2w&t=6218s)]*
 
@@ -684,23 +691,14 @@ That personal revelation is what you get in a Christian church: the Lord told me
 
 **[1 Kings 11:1-8](/bible/1-kings/11#v1)**  *[[1:47:49](https://www.youtube.com/watch?v=ZztygjY4U2w&t=6469s)]*
 
+- King Solomon loved many strange women, of the nations concerning which the Lord said, ye shall not go in to them, neither shall they come in unto you: for surely they will turn away your heart after their gods. When you turn against the Lord in this, you turn against your neighbor too, because he is taking foreign women.
+
 > <sup>[1](/bible/1-kings/11#v1)</sup> But king Solomon loved many strange women, together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Zidonians, and Hittites;
 >
 > <sup>[2](/bible/1-kings/11#v2)</sup> Of the nations concerning which the Lord said unto the children of Israel, Ye shall not go in to them, neither shall they come in unto you: for surely they will turn away your heart after their gods: Solomon clave unto these in love.
 >
 > <sup>[3](/bible/1-kings/11#v3)</sup> And he had seven hundred wives, princesses, and three hundred concubines: and his wives turned away his heart.
->
-> <sup>[4](/bible/1-kings/11#v4)</sup> For it came to pass, when Solomon was old, that his wives turned away his heart after other gods: and his heart was not perfect with the Lord his God, as was the heart of David his father.
->
-> <sup>[5](/bible/1-kings/11#v5)</sup> For Solomon went after Ashtoreth the goddess of the Zidonians, and after Milcom the abomination of the Ammonites.
->
-> <sup>[6](/bible/1-kings/11#v6)</sup> And Solomon did evil in the sight of the Lord, and went not fully after the Lord, as did David his father.
->
-> <sup>[7](/bible/1-kings/11#v7)</sup> Then did Solomon build an high place for Chemosh, the abomination of Moab, in the hill that is before Jerusalem, and for Molech, the abomination of the children of Ammon.
->
-> <sup>[8](/bible/1-kings/11#v8)</sup> And likewise did he for all his strange wives, which burnt incense and sacrificed unto their gods.
 
-- King Solomon loved many strange women, of the nations concerning which the Lord said, ye shall not go in to them, neither shall they come in unto you: for surely they will turn away your heart after their gods. When you turn against the Lord in this, you turn against your neighbor too, because he is taking foreign women.
 - He had seven hundred wives, princesses, and three hundred concubines: and his wives turned away his heart after other gods, and his heart was not perfect with the Lord his God, as was the heart of David his father. Solomon went after Ashtoreth the goddess of the Zidonians, and Milcom the abomination of the Ammonites, and built high places for Chemosh and for Molech, and did likewise for all his strange wives, which burnt incense and sacrificed unto their gods.
 
   Precepts:
@@ -710,6 +708,16 @@ That personal revelation is what you get in a Christian church: the Lord told me
     > <sup>[13](/bible/tobit/4#v13)</sup> Now therefore, my son, love thy brethren, and despise not in thy heart thy brethren, the sons and daughters of thy people, in not taking a wife of them: for in pride is destruction and much trouble, and in lewdness is decay and great want: for lewdness is the mother of famine.
 
     Beware of all whoredom, my son, and chiefly take a wife of the seed of thy fathers, and take not a strange woman to wife, which is not of thy father's tribe: for we are the children of the prophets. Our fathers from the beginning all married wives of their own kindred, and were blessed in their children. Now therefore, my son, love thy brethren, and despise not in thy heart thy brethren, the sons and daughters of thy people, in not taking a wife of them: for in pride is destruction and much trouble.
+
+> <sup>[4](/bible/1-kings/11#v4)</sup> For it came to pass, when Solomon was old, that his wives turned away his heart after other gods: and his heart was not perfect with the Lord his God, as was the heart of David his father.
+>
+> <sup>[5](/bible/1-kings/11#v5)</sup> For Solomon went after Ashtoreth the goddess of the Zidonians, and after Milcom the abomination of the Ammonites.
+>
+> <sup>[6](/bible/1-kings/11#v6)</sup> And Solomon did evil in the sight of the Lord, and went not fully after the Lord, as did David his father.
+>
+> <sup>[7](/bible/1-kings/11#v7)</sup> Then did Solomon build an high place for Chemosh, the abomination of Moab, in the hill that is before Jerusalem, and for Molech, the abomination of the children of Ammon.
+>
+> <sup>[8](/bible/1-kings/11#v8)</sup> And likewise did he for all his strange wives, which burnt incense and sacrificed unto their gods.
 
 **[1 Kings 12:26-30](/bible/1-kings/12#v26)**  *[[1:51:53](https://www.youtube.com/watch?v=ZztygjY4U2w&t=6713s)]*
 
@@ -729,11 +737,12 @@ That personal revelation is what you get in a Christian church: the Lord told me
 **[Hosea 8:4-5](/bible/hosea/8#v4)**  *[[1:53:08](https://www.youtube.com/watch?v=ZztygjY4U2w&t=6788s)]*
 
 > <sup>[4](/bible/hosea/8#v4)</sup> They have set up kings, but not by me: they have made princes, and I knew it not: of their silver and their gold have they made them idols, that they may be cut off.
->
-> <sup>[5](/bible/hosea/8#v5)</sup> Thy calf, O Samaria, hath cast thee off; mine anger is kindled against them: how long will it be ere they attain to innocency?
 
 - They have set up kings, but not by me: of their silver and their gold have they made them idols, that they may be cut off. Thy calf, O Samaria, hath cast thee off; mine anger is kindled against them.
+
 - But remember, it was all twelve tribes that made the calf when Moses went up into the mount. They all had that in common.
+
+> <sup>[5](/bible/hosea/8#v5)</sup> Thy calf, O Samaria, hath cast thee off; mine anger is kindled against them: how long will it be ere they attain to innocency?
 
 **[2 Kings 21:1-9](/bible/2-kings/21#v1)**  *[[1:54:09](https://www.youtube.com/watch?v=ZztygjY4U2w&t=6849s)]*
 
@@ -1004,15 +1013,16 @@ Reading from the caption under an image on the screen  *[[2:30:38](https://www.y
 **[Acts 15:15-18](/bible/acts/15#v15)**  *[[2:35:30](https://www.youtube.com/watch?v=ZztygjY4U2w&t=9330s)]*
 
 > <sup>[15](/bible/acts/15#v15)</sup> And to this agree the words of the prophets; as it is written,
->
+
+- And to this agree the words of the prophets: what spirit was in the prophets? Christ. After this I will return, and will build again the tabernacle of David, which is fallen down; and I will set it up: that the residue of men might seek after the Lord, and all the Gentiles, upon whom my name is called.
+
+- Known unto God are all his works from the beginning of the world.
+
 > <sup>[16](/bible/acts/15#v16)</sup> After this I will return, and will build again the tabernacle of David, which is fallen down; and I will build again the ruins thereof, and I will set it up:
 >
 > <sup>[17](/bible/acts/15#v17)</sup> That the residue of men might seek after the Lord, and all the Gentiles, upon whom my name is called, saith the Lord, who doeth all these things.
 >
 > <sup>[18](/bible/acts/15#v18)</sup> Known unto God are all his works from the beginning of the world.
-
-- And to this agree the words of the prophets: what spirit was in the prophets? Christ. After this I will return, and will build again the tabernacle of David, which is fallen down; and I will set it up: that the residue of men might seek after the Lord, and all the Gentiles, upon whom my name is called.
-- Known unto God are all his works from the beginning of the world.
 
 **[Amos 3:7](/bible/amos/3#v7)**  *[[2:36:34](https://www.youtube.com/watch?v=ZztygjY4U2w&t=9394s)]*
 

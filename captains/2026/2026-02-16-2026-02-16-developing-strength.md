@@ -38,13 +38,13 @@ tags: ["15 Minutes w/ The Captains", "adversity", "endurance", "prayer"]
 
 **[Sirach 30:21-22](/bible/sirach/30#v21)**  *[[1:45](https://www.youtube.com/watch?v=p558OdxS6oQ&t=105s)]*
 
-> <sup>[21](/bible/sirach/30#v21)</sup> Give not over thy mind to heaviness, and afflict not thyself in thine own counsel.
->
-> <sup>[22](/bible/sirach/30#v22)</sup> The gladness of the heart is the life of man, and the joyfulness of a man prolongeth his days.
-
 - What it means to have a heaviness or heavy thoughts, something that weighs down on you. It weighs down on your spirit.
 
+> <sup>[21](/bible/sirach/30#v21)</sup> Give not over thy mind to heaviness, and afflict not thyself in thine own counsel.
+
 - Give not over thy mind to heaviness, and afflict not thyself in thine own counsel: so heaviness could be depression, stress, something that you stress about. God say don't give your mind to that, because it will destroy you, and it will cause sickness ultimately.
+
+> <sup>[22](/bible/sirach/30#v22)</sup> The gladness of the heart is the life of man, and the joyfulness of a man prolongeth his days.
 
 - And the joyfulness of a man prolongeth his days: so that lets you know the flip side to that is it shorten our days, if we continue to let these heaviness or the stress weigh down in our spirit and our mind, continually thinking about it. So God said think about gladness, joy. That will prolong our lives.
 
@@ -74,25 +74,25 @@ tags: ["15 Minutes w/ The Captains", "adversity", "endurance", "prayer"]
 > <sup>[11](/bible/2-timothy/2#v11)</sup> It is a faithful saying: For if we be dead with him, we shall also live with him:
 >
 > <sup>[12](/bible/2-timothy/2#v12)</sup> If we suffer, we shall also reign with him: if we deny him, he also will deny us:
->
-> <sup>[13](/bible/2-timothy/2#v13)</sup> If we believe not, yet he abideth faithful: he cannot deny himself.
 
 - If we suffer, we shall also reign with him: now that's some heavy stuff right there, cuz it says if we suffer, we shall also reign with him. That suffer is translating into death. I'mma prove it, cuz just the other line he tells you, we shall also reign with him. To reign with Christ, we must leave this world. Cuz when Christ come back, then we will reign with him. So that means we have to be transformed to our true essence, our true body, our true body that's waiting for us in the heavens.
 
 - If we deny him, he also will deny us.
 
+> <sup>[13](/bible/2-timothy/2#v13)</sup> If we believe not, yet he abideth faithful: he cannot deny himself.
+
 
 **[Matthew 16:24-25](/bible/matthew/16#v24)**  *[[5:56](https://www.youtube.com/watch?v=p558OdxS6oQ&t=356s)]*
 
-> <sup>[24](/bible/matthew/16#v24)</sup> Then said Jesus unto his disciples, If any man will come after me, let him deny himself, and take up his cross, and follow me.
->
-> <sup>[25](/bible/matthew/16#v25)</sup> For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it.
-
 - So we are to suffer whatever it is that we come through, that we endure it. Like let's say we have problems teaching this word and we might endure affliction from our own people. Some of that suffering the Lord said we must endure. We still got to do the work.
+
+> <sup>[24](/bible/matthew/16#v24)</sup> Then said Jesus unto his disciples, If any man will come after me, let him deny himself, and take up his cross, and follow me.
 
 - If any man will come after me, let him deny himself, and take up his cross, and follow me: when you examine when Christ was given that cross to carry down to his death, it lets you know what that cross represent. Christ is saying out of his own mouth, if any man come after me, let him deny himself and take up his cross and follow me. We got to take that death. That's how we ultimately will reign with Christ, how Paul said in the book of Timothy.
 
 - To reign with him, we must endure to the end. And another proof of that is Matthew 24, where it says, he that endureth to the end, he shall be saved. So we got to be ready and overcome that weak nature. Strengthen our spiritual body, spiritual mind, which will give us that growth, give us that courage, give us that sternness, and that steadfastness, that way we can endure what's to come, cuz it going to come. Cuz the Lord says judgment is like a ring.
+
+> <sup>[25](/bible/matthew/16#v25)</sup> For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it.
 
 
 **[Romans 15:4](/bible/romans/15#v4)**  *[[7:54](https://www.youtube.com/watch?v=p558OdxS6oQ&t=474s)]*
@@ -177,15 +177,15 @@ Reading from *The Historical Bible: The Kings and Prophets of Israel and Judah* 
 
 **[Jeremiah 20:7-9](/bible/jeremiah/20#v7)**  *[[14:41](https://www.youtube.com/watch?v=p558OdxS6oQ&t=881s)]*
 
+- We got to understand what Jeremiah talking about.
+
 > <sup>[7](/bible/jeremiah/20#v7)</sup> O Lord, thou hast deceived me, and I was deceived: thou art stronger than I, and hast prevailed: I am in derision daily, every one mocketh me.
->
+
+- O LORD, thou hast deceived me, and I was deceived: so Jeremiah like, Lord, you deceived me, cuz Jeremiah was going through mocking. He's going through affliction from his own people, cuz he was prophesying about change your life, and his own people was mocking him. At one point they threw him in the jail, left him in there for a while. One time he got smacked. So he was going through suffering like we read in the book of Timothy.
+
 > <sup>[8](/bible/jeremiah/20#v8)</sup> For since I spake, I cried out, I cried violence and spoil; because the word of the Lord was made a reproach unto me, and a derision, daily.
 >
 > <sup>[9](/bible/jeremiah/20#v9)</sup> Then I said, I will not make mention of him, nor speak any more in his name. But his word was in mine heart as a burning fire shut up in my bones, and I was weary with forbearing, and I could not stay.
-
-- We got to understand what Jeremiah talking about.
-
-- O LORD, thou hast deceived me, and I was deceived: so Jeremiah like, Lord, you deceived me, cuz Jeremiah was going through mocking. He's going through affliction from his own people, cuz he was prophesying about change your life, and his own people was mocking him. At one point they threw him in the jail, left him in there for a while. One time he got smacked. So he was going through suffering like we read in the book of Timothy.
 
 
 **[2 Timothy 2:11-12](/bible/2-timothy/2#v11)**  *[[15:44](https://www.youtube.com/watch?v=p558OdxS6oQ&t=944s)]*
@@ -200,14 +200,14 @@ Reading from *The Historical Bible: The Kings and Prophets of Israel and Judah* 
 **[Jeremiah 20:7-9](/bible/jeremiah/20#v7)**  *[[16:13](https://www.youtube.com/watch?v=p558OdxS6oQ&t=973s)]*
 
 > <sup>[7](/bible/jeremiah/20#v7)</sup> O Lord, thou hast deceived me, and I was deceived: thou art stronger than I, and hast prevailed: I am in derision daily, every one mocketh me.
->
-> <sup>[8](/bible/jeremiah/20#v8)</sup> For since I spake, I cried out, I cried violence and spoil; because the word of the Lord was made a reproach unto me, and a derision, daily.
->
-> <sup>[9](/bible/jeremiah/20#v9)</sup> Then I said, I will not make mention of him, nor speak any more in his name. But his word was in mine heart as a burning fire shut up in my bones, and I was weary with forbearing, and I could not stay.
 
 - I am in derision daily, every one mocketh me: he's going through this daily. So when we go in the streets teaching, we will suffer some persecution. We got stoned in Kenya. In some of the African country they got ran out of it. They got police called upon them for blessing the church. So these are the things we go through.
 
+> <sup>[8](/bible/jeremiah/20#v8)</sup> For since I spake, I cried out, I cried violence and spoil; because the word of the Lord was made a reproach unto me, and a derision, daily.
+
 - Because the word of the LORD was made a reproach unto me, and a derision, daily: daily he was suffering mocking, a derision, getting probably things thrown at him, smacked, getting thrown in jail. He was going through so much just by teaching the word of God.
+
+> <sup>[9](/bible/jeremiah/20#v9)</sup> Then I said, I will not make mention of him, nor speak any more in his name. But his word was in mine heart as a burning fire shut up in my bones, and I was weary with forbearing, and I could not stay.
 
 - Then I said, I will not make mention of him: so he decided, you know what? I'm no longer teaching these people concerning God, cuz every time I go teach them, I'm going through hell and high water.
 
@@ -264,72 +264,74 @@ Reading from *The Historical Bible: The Kings and Prophets of Israel and Judah* 
 
 **[John 16:2-3](/bible/john/16#v2)**  *[[23:07](https://www.youtube.com/watch?v=p558OdxS6oQ&t=1387s)]*
 
-> <sup>[2](/bible/john/16#v2)</sup> They shall put you out of the synagogues: yea, the time cometh, that whosoever killeth you will think that he doeth God service.
->
-> <sup>[3](/bible/john/16#v3)</sup> And these things will they do unto you, because they have not known the Father, nor me.
-
 - I'm going to make Christ speak.
 
+> <sup>[2](/bible/john/16#v2)</sup> They shall put you out of the synagogues: yea, the time cometh, that whosoever killeth you will think that he doeth God service.
+
 - Whosoever killeth you will think that he doeth God service: so Christ warned us it's going to happen. The people that will kill you will think they're doing a service to God. Did not Paul do that in the book of Acts chapter eight, when he witnessed Stephen's stoning and death? He repented later on, all praise to the Most High. But what I'm saying is Christ prophesied it will happen. Paul, which was Saul, his name was Saul at the time, he thought he was doing God's service.
+
+> <sup>[3](/bible/john/16#v3)</sup> And these things will they do unto you, because they have not known the Father, nor me.
 
 
 **[Amos 7:10-13](/bible/amos/7#v10)**  *[[23:59](https://www.youtube.com/watch?v=p558OdxS6oQ&t=1439s)]*
 
 > <sup>[10](/bible/amos/7#v10)</sup> Then Amaziah the priest of Beth–el sent to Jeroboam king of Israel, saying, Amos hath conspired against thee in the midst of the house of Israel: the land is not able to bear all his words.
->
+
+- The land is not able to bear all his words: cuz he's too direct.
+
 > <sup>[11](/bible/amos/7#v11)</sup> For thus Amos saith, Jeroboam shall die by the sword, and Israel shall surely be led away captive out of their own land.
 >
 > <sup>[12](/bible/amos/7#v12)</sup> Also Amaziah said unto Amos, O thou seer, go, flee thee away into the land of Judah, and there eat bread, and prophesy there:
->
-> <sup>[13](/bible/amos/7#v13)</sup> But prophesy not again any more at Beth–el: for it is the king’s chapel, and it is the king’s court.
-
-- The land is not able to bear all his words: cuz he's too direct.
 
 - O thou seer, go, flee thee away into the land of Judah, and there eat bread, and prophesy there: Amaziah came and said, yo, Amos, go to Judah. Stop coming here in northern kingdom land and telling us about God. We don't want to hear that. Go to Judah. We got our own prophets here.
 
 - But prophesy not again any more at Bethel: in northern kingdom. For it is the king's chapel, and it is the king's court: you see that? So as it is going to be for us today. So that's why we got to overcome this weak nature by strengthening our spirit and our faith and increasing it.
 
+> <sup>[13](/bible/amos/7#v13)</sup> But prophesy not again any more at Beth–el: for it is the king’s chapel, and it is the king’s court.
+
 
 **[Mark 13:19-20](/bible/mark/13#v19)**  *[[25:06](https://www.youtube.com/watch?v=p558OdxS6oQ&t=1506s)]*
 
 > <sup>[19](/bible/mark/13#v19)</sup> For in those days shall be affliction, such as was not from the beginning of the creation which God created unto this time, neither shall be.
->
-> <sup>[20](/bible/mark/13#v20)</sup> And except that the Lord had shortened those days, no flesh should be saved: but for the elect’s sake, whom he hath chosen, he hath shortened the days.
 
 - For in those days shall be affliction, such as was not from the beginning of the creation: Jacob's trouble is coming back around. We read in 2 Esdras, God's judgment is like a ring. This is the importance of why we have to overcome our weak nature by developing our strength and strengthening our spirit.
+
+> <sup>[20](/bible/mark/13#v20)</sup> And except that the Lord had shortened those days, no flesh should be saved: but for the elect’s sake, whom he hath chosen, he hath shortened the days.
 
 
 **[2 Esdras 16:40-42](/bible/2-esdras/16#v40)**  *[[26:01](https://www.youtube.com/watch?v=p558OdxS6oQ&t=1561s)]*
 
 > <sup>[40](/bible/2-esdras/16#v40)</sup> O my people, hear my word: make you ready to thy battle, and in those evils be even as pilgrims upon the earth.
->
-> <sup>[41](/bible/2-esdras/16#v41)</sup> He that selleth, let him be as he that fleeth away: and he that buyeth, as one that will lose:
->
-> <sup>[42](/bible/2-esdras/16#v42)</sup> He that occupieth merchandise, as he that hath no profit by it: and he that buildeth, as he that shall not dwell therein:
 
 - O my people, hear my word: make you ready to the battle: what does God say? Make you ready to the battle.
 
 - And in those evils be even as pilgrims upon the earth: we got to apply Zephaniah 2:1, cuz certain areas and cities will be dangerous, that we have to relocate. Be as pilgrims upon the earth and go to other safe havens where our other brothers and sisters may be dwelling at. Whether it's the continent of Africa, whether it's somewhere in North America, in different cities or different states. That's why God say, be not attached to this world. That's what I mean by be as pilgrims upon the earth.
 
+> <sup>[41](/bible/2-esdras/16#v41)</sup> He that selleth, let him be as he that fleeth away: and he that buyeth, as one that will lose:
+
 - He that selleth, let him be as he that fleeth away: and he that buyeth, as one that will lose: you bought a land, you built a property on that land, but it's getting hot in that city where persecution is increasing, we got to go. You got to count that land and that property as a loss.
+
+> <sup>[42](/bible/2-esdras/16#v42)</sup> He that occupieth merchandise, as he that hath no profit by it: and he that buildeth, as he that shall not dwell therein:
 
 - And he that buildeth, as he that shall not dwell therein: cuz you might not dwell in it, because things might get pressurized in your city, we got to go. That's what it mean by be as pilgrims upon the earth. Have no attachment to this life.
 
 
 **[2 Esdras 16:72-73](/bible/2-esdras/16#v72)**  *[[27:38](https://www.youtube.com/watch?v=p558OdxS6oQ&t=1658s)]*
 
-> <sup>[72](/bible/2-esdras/16#v72)</sup> For they shall waste and take away their goods, and cast them out of their houses.
->
-> <sup>[73](/bible/2-esdras/16#v73)</sup> Then shall they be known, who are my chosen; and they shall be tried as the gold in the fire.
-
 - Remember, cuz Paul did it in Acts 8. He spoiled houses. What do you think happened when Paul hauled them to prison? What do you think happened to their property? They were seized. They never got that back.
 
+> <sup>[72](/bible/2-esdras/16#v72)</sup> For they shall waste and take away their goods, and cast them out of their houses.
+
 - And cast them out of their houses: and when they did that, do you think you ever got an opportunity to get back to that house? No, they seized the house and took it for themselves.
+
+> <sup>[73](/bible/2-esdras/16#v73)</sup> Then shall they be known, who are my chosen; and they shall be tried as the gold in the fire.
 
 - And they shall be tried as the gold in the fire: that's saying the same thing we read in Matthew, when Christ said bear your cross. That tried there in verse 73 is talking about take your death. Bear your cross. Like in Timothy it says, whoever suffering this life, they shall reign with me. We got to prepare our spirit for this. This is going to happen again. Understand that thing.
 
 
 **[John 11:20-26](/bible/john/11#v20)**  *[[28:34](https://www.youtube.com/watch?v=p558OdxS6oQ&t=1714s)]*
+
+- Developing strength over a weak nature. That's the topic.
 
 > <sup>[20](/bible/john/11#v20)</sup> Then Martha, as soon as she heard that Jesus was coming, went and met him: but Mary sat still in the house.
 >
@@ -340,14 +342,12 @@ Reading from *The Historical Bible: The Kings and Prophets of Israel and Judah* 
 > <sup>[23](/bible/john/11#v23)</sup> Jesus saith unto her, Thy brother shall rise again.
 >
 > <sup>[24](/bible/john/11#v24)</sup> Martha saith unto him, I know that he shall rise again in the resurrection at the last day.
->
+
+- I know that he shall rise again in the resurrection at the last day: so do you see what spirit Martha had? Jesus, I know he going to rise up in the resurrection at the last day. We got to have that spirit. So when we see death in the body, in the nation of Israel, we got to have the spirit of Martha. We going to see her again. We can mourn, but don't let it break your spirit with heaviness, cuz we going to see them again, Lord willing.
+
 > <sup>[25](/bible/john/11#v25)</sup> Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:
 >
 > <sup>[26](/bible/john/11#v26)</sup> And whosoever liveth and believeth in me shall never die. Believest thou this?
-
-- Developing strength over a weak nature. That's the topic.
-
-- I know that he shall rise again in the resurrection at the last day: so do you see what spirit Martha had? Jesus, I know he going to rise up in the resurrection at the last day. We got to have that spirit. So when we see death in the body, in the nation of Israel, we got to have the spirit of Martha. We going to see her again. We can mourn, but don't let it break your spirit with heaviness, cuz we going to see them again, Lord willing.
 
 - Believest thou this: you see that thing? That's some heavy stuff. You see what he said to Martha? Believest thou this?
 
@@ -381,19 +381,19 @@ Reading from *The Historical Bible: The Kings and Prophets of Israel and Judah* 
 
 **[Philippians 4:6-8](/bible/philippians/4#v6)**  *[[32:45](https://www.youtube.com/watch?v=p558OdxS6oQ&t=1965s)]*
 
-> <sup>[6](/bible/philippians/4#v6)</sup> Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.
->
-> <sup>[7](/bible/philippians/4#v7)</sup> And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.
->
-> <sup>[8](/bible/philippians/4#v8)</sup> Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.
-
 - These are the steps. I'm giving you the steps on how to develop and strengthen your spirit.
+
+> <sup>[6](/bible/philippians/4#v6)</sup> Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.
 
 - Be careful for nothing: so the Lord said be careful for nothing. Don't worry about nothing. Cuz remember we read earlier in this class, cast all your cares upon him, for he careth for you. So don't stress on things. Don't let your mind get to heaviness. We read that in Sirach 30. Put it on the Lord. Let him deal with the problems that we focus on all the time, and let us focus on doing the will of God.
 
 - Let your requests be made known unto God: cast your burdens on God.
 
+> <sup>[7](/bible/philippians/4#v7)</sup> And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.
+
 - And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus: so this is the habit. We must replace those bad habits we have, those negative thoughts we have, with what we going to read now.
+
+> <sup>[8](/bible/philippians/4#v8)</sup> Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.
 
 - Think on these things: we must think on truth, honesty, justice, pure, lovely, a good report, virtue, and praise. We got to change those bad habits to those good habits. How? We just read in the book of Ezra 7 and 10. Prepare our mind.
 
@@ -401,12 +401,12 @@ Reading from *The Historical Bible: The Kings and Prophets of Israel and Judah* 
 **[Ephesians 4:22-24](/bible/ephesians/4#v22)**  *[[34:42](https://www.youtube.com/watch?v=p558OdxS6oQ&t=2082s)]*
 
 > <sup>[22](/bible/ephesians/4#v22)</sup> That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;
->
+
+- That ye put off concerning the former conversation the old man: that whole old conversation, those negative thoughts that weighs down on the soul.
+
 > <sup>[23](/bible/ephesians/4#v23)</sup> And be renewed in the spirit of your mind;
 >
 > <sup>[24](/bible/ephesians/4#v24)</sup> And that ye put on the new man, which after God is created in righteousness and true holiness.
-
-- That ye put off concerning the former conversation the old man: that whole old conversation, those negative thoughts that weighs down on the soul.
 
 - And be renewed in the spirit of your mind; and that ye put on the new man, which after God is created in righteousness and true holiness: that's how we change our spirit and become a new man. You see what he said? New man.
 

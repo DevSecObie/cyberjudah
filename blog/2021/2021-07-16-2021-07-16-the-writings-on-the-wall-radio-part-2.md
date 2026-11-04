@@ -33,13 +33,13 @@ tags: ["IUIC in the ClassRoom", "media", "nations", "prophecy", "repentance", "t
 
 **[Luke 21:25-26](/bible/luke/21#v25)**  *[[2:07](https://www.youtube.com/watch?v=AjxtNCUQtCI&t=127s)]*
 
-> <sup>[25](/bible/luke/21#v25)</sup> And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring;
->
-> <sup>[26](/bible/luke/21#v26)</sup> Men’s hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.
-
 - The nations can't explain what's going on. Us Israelites, this should do nothing but increase our faith as we continue to see the atrocities and the famines breaking out in different lands.
 
+> <sup>[25](/bible/luke/21#v25)</sup> And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring;
+
 - Distress of nations, with perplexity: they don't know why this is happening to them. Men's hearts failing them for fear; this is just the beginning.
+
+> <sup>[26](/bible/luke/21#v26)</sup> Men’s hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.
 
 
 **[Sirach 2:12](/bible/sirach/2#v12)**  *[[3:44](https://www.youtube.com/watch?v=AjxtNCUQtCI&t=224s)]*
@@ -239,10 +239,6 @@ Reading from NewsBreak, on Lala Anthony's post about her son (continued)  *[[26:
 **[Sirach 41:14-16](/bible/sirach/41#v14)**  *[[28:48](https://www.youtube.com/watch?v=AjxtNCUQtCI&t=1728s)]*
 
 > <sup>[14](/bible/sirach/41#v14)</sup> My children, keep discipline in peace: for wisdom that is hid, and a treasure that is not seen, what profit is in them both?
->
-> <sup>[15](/bible/sirach/41#v15)</sup> A man that hideth his foolishness is better than a man that hideth his wisdom.
->
-> <sup>[16](/bible/sirach/41#v16)</sup> Therefore be shamefaced according to my word: for it is not good to retain all shamefacedness; neither is it altogether approved in every thing.
 
 - My children keep discipline: where do they learn that discipline from? From the parents. How are they going to keep it if you leave them to their lonesome?
 
@@ -252,14 +248,18 @@ Reading from NewsBreak, on Lala Anthony's post about her son (continued)  *[[26:
 
 - That's how things used to be: you could only go to the house of family your parents knew, like your cousin's.
 
+> <sup>[15](/bible/sirach/41#v15)</sup> A man that hideth his foolishness is better than a man that hideth his wisdom.
+>
+> <sup>[16](/bible/sirach/41#v16)</sup> Therefore be shamefaced according to my word: for it is not good to retain all shamefacedness; neither is it altogether approved in every thing.
+
 
 **[Sirach 30:8-9](/bible/sirach/30#v8)**  *[[29:33](https://www.youtube.com/watch?v=AjxtNCUQtCI&t=1773s)]*
 
 > <sup>[8](/bible/sirach/30#v8)</sup> An horse not broken becometh headstrong: and a child left to himself will be wilful.
->
-> <sup>[9](/bible/sirach/30#v9)</sup> Cocker thy child, and he shall make thee afraid: play with him, and he will bring thee to heaviness.
 
 - A child left to himself will be wilful: if you leave that child by himself he's going to fall into wilful sin.
+
+> <sup>[9](/bible/sirach/30#v9)</sup> Cocker thy child, and he shall make thee afraid: play with him, and he will bring thee to heaviness.
 
 
 **[Isaiah 5:20](/bible/isaiah/5#v20)**  *[[31:46](https://www.youtube.com/watch?v=AjxtNCUQtCI&t=1906s)]*

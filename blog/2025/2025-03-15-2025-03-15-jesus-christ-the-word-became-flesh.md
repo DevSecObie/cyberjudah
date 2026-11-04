@@ -37,10 +37,10 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 **[Psalms 40:7-8](/bible/psalms/40#v7)**  *[[17:20](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=1040s)]*
 
 > <sup>[7](/bible/psalms/40#v7)</sup> Then said I, Lo, I come: in the volume of the book it is written of me,
->
-> <sup>[8](/bible/psalms/40#v8)</sup> I delight to do thy will, O my God: yea, thy law is within my heart.
 
 - Then said I, Lo, I come in the volume of the book: This is where Paul quoted this from. That's what Paul was quoting. He said, Lo, I come in the volume of the book, because it's written of me to do thy will, O my God.
+
+> <sup>[8](/bible/psalms/40#v8)</sup> I delight to do thy will, O my God: yea, thy law is within my heart.
 
 - I delight to do thy will, O my God: To do the will of God. So Christ was sent to do the will of God.
 
@@ -85,12 +85,12 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 **[John 5:39-40](/bible/john/5#v39)**  *[[24:00](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=1440s)]*
 
 > <sup>[39](/bible/john/5#v39)</sup> Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.
->
-> <sup>[40](/bible/john/5#v40)</sup> And ye will not come to me, that ye might have life.
 
 - Search the scriptures; for in them ye think ye have eternal life: That's what you have to do. You have to search the scriptures, Old Testament, for in them you think you have eternal life.
 
 - And they are they which testify of me: He's telling you they are they, the Old Testament, Moses' writing, the prophets' writing, testify of me.
+
+> <sup>[40](/bible/john/5#v40)</sup> And ye will not come to me, that ye might have life.
 
 - And ye will not come to me, that ye might have life: And many of our people will not come to him. Because if you come to Christ, how do you come to him?
 
@@ -127,12 +127,12 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 **[John 5:45-47](/bible/john/5#v45)**  *[[28:35](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=1715s)]*
 
 > <sup>[45](/bible/john/5#v45)</sup> Do not think that I will accuse you to the Father: there is one that accuseth you, even Moses, in whom ye trust.
->
+
+- There is one that accuseth you, even Moses, in whom ye trust: He told those Jews, I'm not going to accuse you to the Father. The man you trusted, Moses, he's going to accuse you. Why would Moses accuse them? Or how did Moses accuse them? He wrote of Christ. So you don't believe on me, but Moses, the one you say you believe in, wrote about me.
+
 > <sup>[46](/bible/john/5#v46)</sup> For had ye believed Moses, ye would have believed me: for he wrote of me.
 >
 > <sup>[47](/bible/john/5#v47)</sup> But if ye believe not his writings, how shall ye believe my words?
-
-- There is one that accuseth you, even Moses, in whom ye trust: He told those Jews, I'm not going to accuse you to the Father. The man you trusted, Moses, he's going to accuse you. Why would Moses accuse them? Or how did Moses accuse them? He wrote of Christ. So you don't believe on me, but Moses, the one you say you believe in, wrote about me.
 
 - But if ye believe not his writings, how shall ye believe my words: So let me ask a question. If Moses wrote something on paper, when he wrote it, it became what? On a piece of paper, write down S T O P. I know what it spells. What is it? It's a word, right? So Moses wrote down words on a paper. Those words was Christ. How do we know that? Somebody said it earlier: John 1. Isaiah wrote words. Baruch wrote words. Wisdom of Solomon, David, Asaph, they wrote words. Look what the word is.
 
@@ -140,12 +140,12 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 **[John 1:1-3](/bible/john/1#v1)**  *[[30:23](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=1823s)]*
 
 > <sup>[1](/bible/john/1#v1)</sup> In the beginning was the Word, and the Word was with God, and the Word was God.
->
+
+- In the beginning was the Word, and the Word was with God, and the Word was God: Wait a second. In the beginning was the word. And the word was with God. And the word was God.
+
 > <sup>[2](/bible/john/1#v2)</sup> The same was in the beginning with God.
 >
 > <sup>[3](/bible/john/1#v3)</sup> All things were made by him; and without him was not any thing made that was made.
-
-- In the beginning was the Word, and the Word was with God, and the Word was God: Wait a second. In the beginning was the word. And the word was with God. And the word was God.
 
 - All things were made by him: By the word. So now we know the word is a him. It's a male. And there was nothing that was made without him, the word, which is a him.
 
@@ -153,8 +153,6 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 **[John 1:14-15](/bible/john/1#v14)**  *[[30:50](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=1850s)]*
 
 > <sup>[14](/bible/john/1#v14)</sup> And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.
->
-> <sup>[15](/bible/john/1#v15)</sup> John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me.
 
 - And the Word was made flesh: Wait a second. And the word converted and came into fleshly form. That's why you've heard the Bible called the living word, cuz this book is alive. Not like the Egyptian Book of the Dead. This book is alive. He said, And my word came and transfigured itself into the fleshly form.
 
@@ -169,6 +167,8 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
     > <sup>[1](/bible/john/1#v1)</sup> In the beginning was the Word, and the Word was with God, and the Word was God.
 
     Let's go back to John 1 and 1. Whenever you see the word, say Christ: In the beginning was Christ, and Christ was with God, and Christ was God.
+
+> <sup>[15](/bible/john/1#v15)</sup> John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me.
 
 
 **[Philippians 2:6-7](/bible/philippians/2#v6)**  *[[33:45](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=2025s)]*
@@ -195,8 +195,12 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 
 **[Proverbs 8:22-32](/bible/proverbs/8#v22)**  *[[35:42](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=2142s)]*
 
+- Nothing without him was made that was made.
+
 > <sup>[22](/bible/proverbs/8#v22)</sup> The Lord possessed me in the beginning of his way, before his works of old.
->
+
+- The Lord possessed me in the beginning of his way: So he says, Listen, because I was with God in the beginning of all his creation of all things.
+
 > <sup>[23](/bible/proverbs/8#v23)</sup> I was set up from everlasting, from the beginning, or ever the earth was.
 >
 > <sup>[24](/bible/proverbs/8#v24)</sup> When there were no depths, I was brought forth; when there were no fountains abounding with water.
@@ -216,10 +220,6 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 > <sup>[31](/bible/proverbs/8#v31)</sup> Rejoicing in the habitable part of his earth; and my delights were with the sons of men.
 >
 > <sup>[32](/bible/proverbs/8#v32)</sup> Now therefore hearken unto me, O ye children: for blessed are they that keep my ways.
-
-- Nothing without him was made that was made.
-
-- The Lord possessed me in the beginning of his way: So he says, Listen, because I was with God in the beginning of all his creation of all things.
 
 - For blessed are they that keep my ways: It's blessed that you keep my ways, cuz without him there was nothing made that was made. He was God's first creation. He said, I was with him from the beginning. I am his representative on earth. And I came down for you. And guess what? If you want to find me, where can you find me? Lo, I come in the volume of a book. It is written of me. So he came in the word, and he came in the flesh.
 
@@ -266,16 +266,10 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 **[John 14:14-18](/bible/john/14#v14)**  *[[44:22](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=2662s)]*
 
 > <sup>[14](/bible/john/14#v14)</sup> If ye shall ask any thing in my name, I will do it.
->
-> <sup>[15](/bible/john/14#v15)</sup> If ye love me, keep my commandments.
->
-> <sup>[16](/bible/john/14#v16)</sup> And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;
->
-> <sup>[17](/bible/john/14#v17)</sup> Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.
->
-> <sup>[18](/bible/john/14#v18)</sup> I will not leave you comfortless: I will come to you.
 
 - If ye shall ask any thing in my name, I will do it: He said if you ask anything, how do you ask? Study. I'll give to every man liberally.
+
+> <sup>[15](/bible/john/14#v15)</sup> If ye love me, keep my commandments.
 
 - If ye love me, keep my commandments: And if you learn and you love me, keep my commandments and I'm going to sup with you. I'm going to feed you understanding.
 
@@ -283,13 +277,19 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 
 - They would deal with some of the other groups because some of them, their conversation is not of gathering the 12 tribes. They know they're Israel, but they be far off with some stuff. Some ridiculous breakdowns. But they know that we're the guys.
 
+> <sup>[16](/bible/john/14#v16)</sup> And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;
+
 - And he shall give you another Comforter: He said, I'm going to leave, but pray to the Father. He's going to give you another comforter. So what was he saying? That I was your comfort while I was with you, but I'm going to be leaving.
+
+> <sup>[17](/bible/john/14#v17)</sup> Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.
 
 - Even the Spirit of truth: This is the comforter he's going to give you. The spirit is the word. The truth is the law. So the law found in the Bible is the spirit of truth. Well, who's the word? Christ.
 
 - Whom the world cannot receive, because it seeth him not: The world can't receive it because they reject Christ. They reject Christ saying, the Old Testament Israelites, he doesn't matter, and they reject Christ by saying the Old Testament is done away with. They resist the will of God. Because they can't see him, that he comes in the volume of the book.
 
 - But ye know him; for he dwelleth with you, and shall be in you: Because he dwells within all of you.
+
+> <sup>[18](/bible/john/14#v18)</sup> I will not leave you comfortless: I will come to you.
 
 - I will not leave you comfortless: I will come to you: Wait a second. He said, I'm going back to the Father, but I will not leave you comfortless. I will come to you. He's going to come back to you in what form? That's what we're holding on to right now. We have it in the word form. He said, I'm going to make myself evident to you in this word.
 
@@ -301,14 +301,14 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 **[John 14:26-27](/bible/john/14#v26)**  *[[49:02](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=2942s)]*
 
 > <sup>[26](/bible/john/14#v26)</sup> But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.
->
-> <sup>[27](/bible/john/14#v27)</sup> Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.
 
 - He shall teach you all things, and bring all things to your remembrance: Oh, wait a second. He's going to, in the last days, bring these things to your remembrance. Something clicked in each and every one of us in here. Bishop, deacons, captains, everybody in here had that aha moment. Do you remember your aha moment?
 
 - A brother: When I was told that Christ was black. He looked like me. You do look like Christ, from the tribe of Judah. That was your aha moment.
 
 - Those that know me, what was my aha moment? A brother in the back: Revelation 13:10. When I heard that, I was like: He that leadeth into captivity shall go into captivity. He that killeth with the sword must be killed with the sword. You think I'm joking? I still get goose pimples when I hear it. I already knew our history before this. So what it's saying is that the people that led somebody into captivity, they're going to go into captivity? Then somebody said, Aren't you supposed to reap what you sow? I heard that in church before. Okay, well, they planted slavery, they're going to reap. Oh, no. That was it for me. So you telling me after this there's payback? Where do I sign up? That was the one that got me. And all of us had that.
+
+> <sup>[27](/bible/john/14#v27)</sup> Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.
 
 - Peace I leave with you, my peace I give unto you: not as the world giveth: Let not your heart be troubled: So don't let your heart be troubled, because I'm bringing these things to remembrance. Peace is going to be unto you. I'm going to comfort you. Why did we need to be comforted? Because we were an afflicted people.
 
@@ -349,18 +349,18 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 **[Isaiah 10:24-27](/bible/isaiah/10#v24)**  *[[55:52](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=3352s)]*
 
 > <sup>[24](/bible/isaiah/10#v24)</sup> Therefore thus saith the Lord God of hosts, O my people that dwellest in Zion, be not afraid of the Assyrian: he shall smite thee with a rod, and shall lift up his staff against thee, after the manner of Egypt.
->
-> <sup>[25](/bible/isaiah/10#v25)</sup> For yet a very little while, and the indignation shall cease, and mine anger in their destruction.
->
-> <sup>[26](/bible/isaiah/10#v26)</sup> And the Lord of hosts shall stir up a scourge for him according to the slaughter of Midian at the rock of Oreb: and as his rod was upon the sea, so shall he lift it up after the manner of Egypt.
->
-> <sup>[27](/bible/isaiah/10#v27)</sup> And it shall come to pass in that day, that his burden shall be taken away from off thy shoulder, and his yoke from off thy neck, and the yoke shall be destroyed because of the anointing.
 
 - O my people that dwellest in Zion, be not afraid of the Assyrian: Don't be afraid of the Assyrians.
 
+> <sup>[25](/bible/isaiah/10#v25)</sup> For yet a very little while, and the indignation shall cease, and mine anger in their destruction.
+
 - For yet a very little while, and the indignation shall cease: What is he saying? A very little while and eventually the indignation God had against us shall cease. What he said? In your patience possess ye your souls. Be patient. He that leadeth into captivity shall go into captivity. He that killeth with the sword must be killed with the sword. Here's the faith and patience of the saints.
 
+> <sup>[26](/bible/isaiah/10#v26)</sup> And the Lord of hosts shall stir up a scourge for him according to the slaughter of Midian at the rock of Oreb: and as his rod was upon the sea, so shall he lift it up after the manner of Egypt.
+
 - And the Lord of hosts shall stir up a scourge for him: He's going to stir up a scourge. That's why the EU and many countries are going to go to war against each other. All this is to pay them back for what they did to God's children.
+
+> <sup>[27](/bible/isaiah/10#v27)</sup> And it shall come to pass in that day, that his burden shall be taken away from off thy shoulder, and his yoke from off thy neck, and the yoke shall be destroyed because of the anointing.
 
 - His burden shall be taken away from off thy shoulder, and his yoke from off thy neck: Now remember he said heavy laden. When is that going to happen?
 
@@ -381,14 +381,14 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 > <sup>[28](/bible/matthew/11#v28)</sup> Come unto me, all ye that labour and are heavy laden, and I will give you rest.
 >
 > <sup>[29](/bible/matthew/11#v29)</sup> Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.
->
-> <sup>[30](/bible/matthew/11#v30)</sup> For my yoke is easy, and my burden is light.
 
 - Take my yoke upon you: Wait a second. He told us to now take his yoke. Get rid of the yoke on you. I'm going to kick you out this captivity, but you got to take on my yoke. My yoke, which is Christ's yoke, is to constrain you from sinning.
 
 - And learn of me: And learn, study, search the scriptures, for in them you think you have eternal life.
 
 - And ye shall find rest unto your souls: You're going to find rest in my yoke, which is my word.
+
+> <sup>[30](/bible/matthew/11#v30)</sup> For my yoke is easy, and my burden is light.
 
 - For my yoke is easy, and my burden is light: The yoke I have is easy. And the burden I have for you is very light, opposed to the burden you have now.
 
@@ -398,16 +398,16 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 > <sup>[24](/bible/lamentations/3#v24)</sup> The Lord is my portion, saith my soul; therefore will I hope in him.
 >
 > <sup>[25](/bible/lamentations/3#v25)</sup> The Lord is good unto them that wait for him, to the soul that seeketh him.
->
-> <sup>[26](/bible/lamentations/3#v26)</sup> It is good that a man should both hope and quietly wait for the salvation of the Lord.
->
-> <sup>[27](/bible/lamentations/3#v27)</sup> It is good for a man that he bear the yoke in his youth.
 
 - The Lord is good unto them that wait for him: Wait a second. Didn't we talk about that a second ago? The Lord is good unto them that wait for him.
 
 - To the soul that seeketh him: For the soul that will study and search for him.
 
+> <sup>[26](/bible/lamentations/3#v26)</sup> It is good that a man should both hope and quietly wait for the salvation of the Lord.
+
 - It is good that a man should both hope and quietly wait for the salvation of the Lord: It's good that you hope and wait for the salvation of the Lord.
+
+> <sup>[27](/bible/lamentations/3#v27)</sup> It is good for a man that he bear the yoke in his youth.
 
 - It is good for a man that he bear the yoke in his youth: This is the yoke Christ talked about. This is the yoke you bear. You be patient and wait, cuz I will pay back your enemies. And that's what we're doing. We are waiting patiently for this yoke to come off of us. He said, Take on my yoke. Wait on me. Be patient. Keep my laws. Don't worry. I got you. I'm going to deliver you. He said, Lo, I come in the volume of the book. So that being said, we're just scraping the beginning of Christ being written throughout the Old Testament.
 
@@ -478,14 +478,14 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 **[Acts 28:25-28](/bible/acts/28#v25)**  *[[1:09:55](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=4195s)]*
 
 > <sup>[25](/bible/acts/28#v25)</sup> And when they agreed not among themselves, they departed, after that Paul had spoken one word, Well spake the Holy Ghost by Esaias the prophet unto our fathers,
->
+
+- Well spake the Holy Ghost by Esaias the prophet unto our fathers: He quoted Isaiah.
+
 > <sup>[26](/bible/acts/28#v26)</sup> Saying, Go unto this people, and say, Hearing ye shall hear, and shall not understand; and seeing ye shall see, and not perceive:
 >
 > <sup>[27](/bible/acts/28#v27)</sup> For the heart of this people is waxed gross, and their ears are dull of hearing, and their eyes have they closed; lest they should see with their eyes, and hear with their ears, and understand with their heart, and should be converted, and I should heal them.
 >
 > <sup>[28](/bible/acts/28#v28)</sup> Be it known therefore unto you, that the salvation of God is sent unto the Gentiles, and that they will hear it.
-
-- Well spake the Holy Ghost by Esaias the prophet unto our fathers: He quoted Isaiah.
 
 - That the salvation of God is sent unto the Gentiles, and that they will hear it: He said the Gentiles, we know, is the scattered Israelites. He said some of them will not change. They do not want to hear. And God said, Fine.
 
@@ -495,29 +495,29 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 > <sup>[9](/bible/isaiah/6#v9)</sup> And he said, Go, and tell this people, Hear ye indeed, but understand not; and see ye indeed, but perceive not.
 >
 > <sup>[10](/bible/isaiah/6#v10)</sup> Make the heart of this people fat, and make their ears heavy, and shut their eyes; lest they see with their eyes, and hear with their ears, and understand with their heart, and convert, and be healed.
->
-> <sup>[11](/bible/isaiah/6#v11)</sup> Then said I, Lord, how long? And he answered, Until the cities be wasted without inhabitant, and the houses without man, and the land be utterly desolate,
 
 - Make the heart of this people fat, and make their ears heavy, and shut their eyes: He said he don't want them to understand.
+
+> <sup>[11](/bible/isaiah/6#v11)</sup> Then said I, Lord, how long? And he answered, Until the cities be wasted without inhabitant, and the houses without man, and the land be utterly desolate,
 
 - Then said I, Lord, how long? And he answered, Until the cities be wasted without inhabitant: He said until when? Till after I destroy them? They going to have to learn when? After death. He said some of them I don't want them to understand. Why don't he want them to understand? Cuz he had enough of them.
 
 
 **[Acts 7:51-53](/bible/acts/7#v51)**  *[[1:11:29](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=4289s)]*
 
-> <sup>[51](/bible/acts/7#v51)</sup> Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers did, so do ye.
->
-> <sup>[52](/bible/acts/7#v52)</sup> Which of the prophets have not your fathers persecuted? and they have slain them which shewed before of the coming of the Just One; of whom ye have been now the betrayers and murderers:
->
-> <sup>[53](/bible/acts/7#v53)</sup> Who have received the law by the disposition of angels, and have not kept it.
-
 - That's these church folk today. I've said this for years, the biggest opposition we got is not even from Esau, it's from you black Christian pastors and your brethren. They will try to kill us. And all we doing is reading the Bible. Meanwhile, the dude is selling Xanax and crack. He's twerking. And you all deal with that stuff. And then we'll read the Bible and you all will come out pistols. They'll come out throwing shoes at us. They hate the word of God.
 
+> <sup>[51](/bible/acts/7#v51)</sup> Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers did, so do ye.
+
 - Ye do always resist the Holy Ghost: as your fathers did, so do ye: Always resisted the Holy Ghost.
+
+> <sup>[52](/bible/acts/7#v52)</sup> Which of the prophets have not your fathers persecuted? and they have slain them which shewed before of the coming of the Just One; of whom ye have been now the betrayers and murderers:
 
 - Which of the prophets have not your fathers persecuted: In other words, he's telling your descendants, your fathers that would have been in the Old Testament, have persecuted the prophets.
 
 - And they have slain them which shewed before of the coming of the Just One: They slew them because they taught them about the coming of the Messiah. Where did he teach them from? Lo, I come in the volume of the book. That's what he was talking about. He was always there.
+
+> <sup>[53](/bible/acts/7#v53)</sup> Who have received the law by the disposition of angels, and have not kept it.
 
 - Who have received the law by the disposition of angels, and have not kept it: And you have not kept it. You know why? Cuz many of people don't want the coming of the Just One. Because the coming of the Just One means the fall of America. And many of you do not want the fall of America. That's why he said in Micah, this is not your rest. This ain't the end for us. We don't come into rulership ruling this place. This place have to be scourged, wiped clean, and reset. And many of people don't want that. You are oppressed people and love to be oppressed. For us, we don't have nothing. This thing could go up in flames.
 
@@ -546,8 +546,6 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 **[Genesis 3:15-16](/bible/genesis/3#v15)**  *[[1:18:40](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=4720s)]*
 
 > <sup>[15](/bible/genesis/3#v15)</sup> And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.
->
-> <sup>[16](/bible/genesis/3#v16)</sup> Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire shall be to thy husband, and he shall rule over thee.
 
 - And I will put enmity between thee and the woman: So he's talking about Satan, which his offspring is Esau. He said, I'm going to put enmity between thee and the woman.
 
@@ -560,6 +558,8 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
     > <sup>[2](/bible/jeremiah/6#v2)</sup> I have likened the daughter of Zion to a comely and delicate woman.
 
     So the woman is Zion or Israel.
+
+> <sup>[16](/bible/genesis/3#v16)</sup> Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire shall be to thy husband, and he shall rule over thee.
 
 
 **[Ephesians 5:23](/bible/ephesians/5#v23)**  *[[1:20:36](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=4836s)]*
@@ -633,23 +633,23 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 
 **[Isaiah 61:1-4](/bible/isaiah/61#v1)**  *[[1:29:28](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=5368s)]*
 
-> <sup>[1](/bible/isaiah/61#v1)</sup> The Spirit of the Lord God is upon me; because the Lord hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;
->
-> <sup>[2](/bible/isaiah/61#v2)</sup> To proclaim the acceptable year of the Lord, and the day of vengeance of our God; to comfort all that mourn;
->
-> <sup>[3](/bible/isaiah/61#v3)</sup> To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the Lord, that he might be glorified.
->
-> <sup>[4](/bible/isaiah/61#v4)</sup> And they shall build the old wastes, they shall raise up the former desolations, and they shall repair the waste cities, the desolations of many generations.
-
 - So God told us to go preach this word.
+
+> <sup>[1](/bible/isaiah/61#v1)</sup> The Spirit of the Lord God is upon me; because the Lord hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;
 
 - To proclaim liberty to the captives, and the opening of the prison to them that are bound: We are the ones bound in sin. He says to open their minds, to heal our people. The Lord has anointed you, you, you, me. We are anointed to preach. Listen, just bear with us. Be patient. We going to come out of this.
 
+> <sup>[2](/bible/isaiah/61#v2)</sup> To proclaim the acceptable year of the Lord, and the day of vengeance of our God; to comfort all that mourn;
+
 - And the day of vengeance of our God; to comfort all that mourn: Who is that talking about? Christ returning. It's our job to preach that to the people. The vengeance of God is coming. For Christ's kingdom to rise, this one has to fall. That's why I said Christ is all throughout the whole Old Testament. So what are you talking about, For God so loved the world? He said to preach his vengeance on the earth.
+
+> <sup>[3](/bible/isaiah/61#v3)</sup> To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the Lord, that he might be glorified.
 
 - To appoint unto them that mourn in Zion: We are the ones mourning that needs comfort.
 
 - That they might be called trees of righteousness, the planting of the Lord: We were planted of the Lord, and our job is to go water them with the word that they might grow into that tree. That's our job. To proclaim to those that you're something special. That you not just a …. You not just black. You not Hispanic. That you are the sons and daughters of God. God is going to take vengeance of those that are against you. And if any of you people resist that, God going to bring judgment. This ain't for you. You're dull of hearing. The gospel's hid to them that are lost, because you trust in oppression. How am I the bad guy for reading that God is going to take vengeance? Well, damn it, then I'm the bad guy then. I'll take that cloak.
+
+> <sup>[4](/bible/isaiah/61#v4)</sup> And they shall build the old wastes, they shall raise up the former desolations, and they shall repair the waste cities, the desolations of many generations.
 
 - And they shall repair the waste cities, the desolations of many generations: We are the first generation to come back to the Bible of our family line. The remembrance hit us and we said, We understand. This is the coming of the Messiah that they didn't want to be preached. We don't got to leave the Old Testament to preach Christ.
 
@@ -714,13 +714,13 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 
 **[Zechariah 9:9-10](/bible/zechariah/9#v9)**  *[[1:38:48](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=5928s)]*
 
-> <sup>[9](/bible/zechariah/9#v9)</sup> Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.
->
-> <sup>[10](/bible/zechariah/9#v10)</sup> And I will cut off the chariot from Ephraim, and the horse from Jerusalem, and the battle bow shall be cut off: and he shall speak peace unto the heathen: and his dominion shall be from sea even to sea, and from the river even to the ends of the earth.
-
 - Notice I'm staying Old Testament. Just Old Testament.
 
+> <sup>[9](/bible/zechariah/9#v9)</sup> Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.
+
 - Lowly, and riding upon an ass, and upon a colt the foal of an ass: We read that in Matthew 21. That's how he came, right?
+
+> <sup>[10](/bible/zechariah/9#v10)</sup> And I will cut off the chariot from Ephraim, and the horse from Jerusalem, and the battle bow shall be cut off: and he shall speak peace unto the heathen: and his dominion shall be from sea even to sea, and from the river even to the ends of the earth.
 
 - And he shall speak peace unto the heathen: The heathen were the uncircumcised Israelites, or the Gentiles that we read about in Ephesians, in James 1, 1 Peter 1. So don't think we making this up.
 
@@ -753,53 +753,61 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 **[Zechariah 11:12-13](/bible/zechariah/11#v12)**  *[[1:42:08](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=6128s)]*
 
 > <sup>[12](/bible/zechariah/11#v12)</sup> And I said unto them, If ye think good, give me my price; and if not, forbear. So they weighed for my price thirty pieces of silver.
->
-> <sup>[13](/bible/zechariah/11#v13)</sup> And the Lord said unto me, Cast it unto the potter: a goodly price that I was prised at of them. And I took the thirty pieces of silver, and cast them to the potter in the house of the Lord.
 
 - So they weighed for my price thirty pieces of silver: When did this happen? Who knows that? That's the prophecy of Judas selling him out being fulfilled. Lo, I told you I'm going to be sold. He's going to sell me out for 30 pieces of silver. I told you in Isaiah that I'm going to die for your sins. I'm going to be betrayed.
+
+> <sup>[13](/bible/zechariah/11#v13)</sup> And the Lord said unto me, Cast it unto the potter: a goodly price that I was prised at of them. And I took the thirty pieces of silver, and cast them to the potter in the house of the Lord.
 
 
 **[Psalms 22:16-17](/bible/psalms/22#v16)**  *[[1:43:02](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=6182s)]*
 
 > <sup>[16](/bible/psalms/22#v16)</sup> For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.
->
-> <sup>[17](/bible/psalms/22#v17)</sup> I may tell all my bones: they look and stare upon me.
 
 - For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet: Who pierced Christ's hands and feet? The Romans. And he called them what? He called them dogs. So in the Psalms, it was written about him.
 
 - Mind you, there's not enough time to read all the scriptures concerning Christ, and that's why he says from morning till evening he persuaded them. We don't have to leave the Old Testament to preach Christ.
 
+> <sup>[17](/bible/psalms/22#v17)</sup> I may tell all my bones: they look and stare upon me.
+
 
 **[Zechariah 12:10-11](/bible/zechariah/12#v10)**  *[[1:44:05](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=6245s)]*
 
 > <sup>[10](/bible/zechariah/12#v10)</sup> And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplications: and they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for his only son, and shall be in bitterness for him, as one that is in bitterness for his firstborn.
->
-> <sup>[11](/bible/zechariah/12#v11)</sup> In that day shall there be a great mourning in Jerusalem, as the mourning of Hadadrimmon in the valley of Megiddon.
 
 - And they shall look upon me whom they have pierced: When did they pierce Christ? When he was crucified, right?
 
 - And they shall mourn for him, as one mourneth for his only son: So when you're mourning, another word for it starts with S. You're in sorrow, right? I want you all to remember the word sorrow.
+
+> <sup>[11](/bible/zechariah/12#v11)</sup> In that day shall there be a great mourning in Jerusalem, as the mourning of Hadadrimmon in the valley of Megiddon.
 
 - In that day shall there be a great mourning in Jerusalem: That's going to happen when he was pierced. So he prophesied that. What word is it? Sorrow.
 
 
 **[Psalms 16:10-11](/bible/psalms/16#v10)**  *[[1:45:50](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=6350s)]*
 
-> <sup>[10](/bible/psalms/16#v10)</sup> For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption.
->
-> <sup>[11](/bible/psalms/16#v11)</sup> Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore.
-
 - Now notice, the ones that we normally use, I haven't even went to those yet. We didn't go to Genesis 49. There's too many to go through.
 
+> <sup>[10](/bible/psalms/16#v10)</sup> For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption.
+
 - For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption: When was that? 3 days later, he risen from the dead. So my body will not corrupt in hell, in the grave.
+
+> <sup>[11](/bible/psalms/16#v11)</sup> Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore.
 
 
 **[Wisdom of Solomon 2:11-22](/bible/wisdom-of-solomon/2#v11)**  *[[1:46:54](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=6414s)]*
 
 > <sup>[11](/bible/wisdom-of-solomon/2#v11)</sup> Let our strength be the law of justice: for that which is feeble is found to be nothing worth.
->
+
+- Let our strength be the law of justice: for that which is feeble is found to be nothing worth: I'm going to tell you that's referring to Esau. He believe his military might is his strength. And we're nothing to them. That was Christ with the Romans. That's our people.
+
+- You understand what Trump today is doing? He's changed stuff and said, I don't care if you don't like it. What you going to do about it? DEI, take all that stuff away. Feeding the homeless, take that away. Take away EBT. Take away the schools. I don't want to see that goddamn Black Lives Matter. Take that thing out of here. Oh, you don't like it? But you can't do nothing about it. You can petition for R. Kelly to come out and make you all a new album. You all can go out there and sing We Shall Overcome.
+
 > <sup>[12](/bible/wisdom-of-solomon/2#v12)</sup> Therefore let us lie in wait for the righteous; because he is not for our turn, and he is clean contrary to our doings: he upbraideth us with our offending the law, and objecteth to our infamy the transgressings of our education.
->
+
+- Therefore let us lie in wait for the righteous; because he is not for our turn: We're not for their turn. We don't do what they do, for the most part.
+
+- And he is clean contrary to our doings: Christ is clean contrary to their doings.
+
 > <sup>[13](/bible/wisdom-of-solomon/2#v13)</sup> He professeth to have the knowledge of God: and he calleth himself the child of the Lord.
 >
 > <sup>[14](/bible/wisdom-of-solomon/2#v14)</sup> He was made to reprove our thoughts.
@@ -807,26 +815,6 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 > <sup>[15](/bible/wisdom-of-solomon/2#v15)</sup> He is grievous unto us even to behold: for his life is not like other men’s, his ways are of another fashion.
 >
 > <sup>[16](/bible/wisdom-of-solomon/2#v16)</sup> We are esteemed of him as counterfeits: he abstaineth from our ways as from filthiness: he pronounceth the end of the just to be blessed, and maketh his boast that God is his father.
->
-> <sup>[17](/bible/wisdom-of-solomon/2#v17)</sup> Let us see if his words be true: and let us prove what shall happen in the end of him.
->
-> <sup>[18](/bible/wisdom-of-solomon/2#v18)</sup> For if the just man be the son of God, he will help him, and deliver him from the hand of his enemies.
->
-> <sup>[19](/bible/wisdom-of-solomon/2#v19)</sup> Let us examine him with despitefulness and torture, that we may know his meekness, and prove his patience.
->
-> <sup>[20](/bible/wisdom-of-solomon/2#v20)</sup> Let us condemn him with a shameful death: for by his own saying he shall be respected.
->
-> <sup>[21](/bible/wisdom-of-solomon/2#v21)</sup> Such things they did imagine, and were deceived: for their own wickedness hath blinded them.
->
-> <sup>[22](/bible/wisdom-of-solomon/2#v22)</sup> As for the mysteries of God, they knew them not: neither hoped they for the wages of righteousness, nor discerned a reward for blameless souls.
-
-- Let our strength be the law of justice: for that which is feeble is found to be nothing worth: I'm going to tell you that's referring to Esau. He believe his military might is his strength. And we're nothing to them. That was Christ with the Romans. That's our people.
-
-- You understand what Trump today is doing? He's changed stuff and said, I don't care if you don't like it. What you going to do about it? DEI, take all that stuff away. Feeding the homeless, take that away. Take away EBT. Take away the schools. I don't want to see that goddamn Black Lives Matter. Take that thing out of here. Oh, you don't like it? But you can't do nothing about it. You can petition for R. Kelly to come out and make you all a new album. You all can go out there and sing We Shall Overcome.
-
-- Therefore let us lie in wait for the righteous; because he is not for our turn: We're not for their turn. We don't do what they do, for the most part.
-
-- And he is clean contrary to our doings: Christ is clean contrary to their doings.
 
 - We are esteemed of him as counterfeits: You are not the real Jews.
 
@@ -836,15 +824,27 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 
 - And maketh his boast that God is his father: And God is our father and none else.
 
+> <sup>[17](/bible/wisdom-of-solomon/2#v17)</sup> Let us see if his words be true: and let us prove what shall happen in the end of him.
+
 - Let us see if his words be true: Let's see if he really about it.
 
 - For if the just man be the son of God, he will help him, and deliver him from the hands of his enemies: Let God deliver you, Christ. You're the Christ. Let him deliver you.
 
+> <sup>[18](/bible/wisdom-of-solomon/2#v18)</sup> For if the just man be the son of God, he will help him, and deliver him from the hand of his enemies.
+>
+> <sup>[19](/bible/wisdom-of-solomon/2#v19)</sup> Let us examine him with despitefulness and torture, that we may know his meekness, and prove his patience.
+
 - Let us examine him with despitefulness and torture: Let's beat him.
+
+> <sup>[20](/bible/wisdom-of-solomon/2#v20)</sup> Let us condemn him with a shameful death: for by his own saying he shall be respected.
 
 - Let us condemn him with a shameful death: for by his own saying he shall be respected: What they don't realize is that Christ wasn't talking about this worldly body. You do what you got to do. But I'll be back. And next time I come back, you ain't going to see me as a man. But I will see them that have pierced me. And I will render judgment upon them. I thought Jesus was a forgiving God, and you could just do what you want to do, he's just going to love on you. I'mma see you. Now don't say you're sorry. That's not what's going to happen. He said, I want vengeance.
 
+> <sup>[21](/bible/wisdom-of-solomon/2#v21)</sup> Such things they did imagine, and were deceived: for their own wickedness hath blinded them.
+
 - Such things they did imagine, and were deceived: for their own wickedness hath blinded them: Their own wickedness have blinded them.
+
+> <sup>[22](/bible/wisdom-of-solomon/2#v22)</sup> As for the mysteries of God, they knew them not: neither hoped they for the wages of righteousness, nor discerned a reward for blameless souls.
 
 - As for the mysteries of God, they knew them not: They were not able to discern the mysteries of God. If we understood the mysteries of God, fully understood it, we would never sin. If we understood that Christ is found in the volume of the book, everywhere you read is about him. Some people, he just don't want them to understand that. Again, Christ preached Old Testament.
 
@@ -852,12 +852,12 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 **[2 Esdras 7:28-29](/bible/2-esdras/7#v28)**  *[[1:52:26](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=6746s)]*
 
 > <sup>[28](/bible/2-esdras/7#v28)</sup> For my son Jesus shall be revealed with those that be with him, and they that remain shall rejoice within four hundred years.
->
-> <sup>[29](/bible/2-esdras/7#v29)</sup> After these years shall my son Christ die, and all men that have life.
 
 - For my son Jesus shall be revealed with those that be with him: So you have to believe that Jesus Christ, as it is written, as the scripture has said, is black. You have to believe that Jesus Christ only came to die for the nation of Israel; he said it in Matthew 15:24. You have to believe that Jesus Christ is going to reign over all nations and put all nations into captivity, under foot. If you don't believe that, he will not reveal himself to you. You as an Israelite, you have to believe that.
 
 - So you can't say, I believe in Jesus and color don't matter. Why? Because he wrote the words there and he said, I am the word. You can't say you believe in Jesus Christ and I do believe he's black, but all nations could be saved. He said, I'm not sent but unto the lost sheep of the house of Israel. You can't believe in Jesus Christ and don't believe that he will kill man, woman, and child regardless of age. You can't believe in Jesus Christ and don't believe that he don't care about no other nation other than the Israelites. If you do have any of those things that you are caught up in, he will not reveal himself to you clearly.
+
+> <sup>[29](/bible/2-esdras/7#v29)</sup> After these years shall my son Christ die, and all men that have life.
 
 - After these years shall my son Christ die, and all men that have life: Christ is going to have to die, and all men that follow him. That's why we got to stand stiffly. We can't be worried about dying in this body. We got to build ourself up to understand that there's a great deliverance coming to us. And we can preach it from the Old Testament.
 
@@ -876,20 +876,20 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 **[Luke 1:67-71](/bible/luke/1#v67)**  *[[1:56:05](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=6965s)]*
 
 > <sup>[67](/bible/luke/1#v67)</sup> And his father Zacharias was filled with the Holy Ghost, and prophesied, saying,
->
-> <sup>[68](/bible/luke/1#v68)</sup> Blessed be the Lord God of Israel; for he hath visited and redeemed his people,
->
-> <sup>[69](/bible/luke/1#v69)</sup> And hath raised up an horn of salvation for us in the house of his servant David;
->
-> <sup>[70](/bible/luke/1#v70)</sup> As he spake by the mouth of his holy prophets, which have been since the world began:
->
-> <sup>[71](/bible/luke/1#v71)</sup> That we should be saved from our enemies, and from the hand of all that hate us;
 
 - And his father Zacharias was filled with the Holy Ghost: Blessed be the Lord God of Israel; for he hath visited and redeemed his people: Whose people? His people. Who is his people? The Israelites.
 
+> <sup>[68](/bible/luke/1#v68)</sup> Blessed be the Lord God of Israel; for he hath visited and redeemed his people,
+>
+> <sup>[69](/bible/luke/1#v69)</sup> And hath raised up an horn of salvation for us in the house of his servant David;
+
 - And hath raised up an horn of salvation for us: That's who the horn of salvation was raised for. It wasn't raised up for all nations. If he was filled with the Holy Spirit and he said he raised up a horn of salvation for us, and he was Levi, he was a priest, was Zacharias wrong? For God so loved the world that he gave his only begotten son? No. That horn of salvation was raised for us.
 
+> <sup>[70](/bible/luke/1#v70)</sup> As he spake by the mouth of his holy prophets, which have been since the world began:
+
 - As he spake by the mouth of his holy prophets, which have been since the world began: From the world began, they always spoke about the Messiah, the coming of the Just One.
+
+> <sup>[71](/bible/luke/1#v71)</sup> That we should be saved from our enemies, and from the hand of all that hate us;
 
 - That we should be saved from our enemies, and from the hand of all that hate us: So we always understood that we had to be saved from our enemies. So why is it in 2025 we don't know who our enemy is? Christianity. The Just One always spoke about delivering us from our enemies. How is it that we don't understand, that they got a foot on your neck and choking you out, that they hate us? I'm trying to understand the mind of people that say, Jesus is love.
 
@@ -897,12 +897,12 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 **[Luke 24:25-27](/bible/luke/24#v25)**  *[[1:58:32](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=7112s)]*
 
 > <sup>[25](/bible/luke/24#v25)</sup> Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken:
->
+
+- O fools, and slow of heart to believe all that the prophets have spoken: Damn, you slow of heart. You don't know that Christ had to suffer what he went through? Had you not read Psalms 22? Have you not read Isaiah 53? Have you not read Zechariah? Have you not read these things?
+
 > <sup>[26](/bible/luke/24#v26)</sup> Ought not Christ to have suffered these things, and to enter into his glory?
 >
 > <sup>[27](/bible/luke/24#v27)</sup> And beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself.
-
-- O fools, and slow of heart to believe all that the prophets have spoken: Damn, you slow of heart. You don't know that Christ had to suffer what he went through? Had you not read Psalms 22? Have you not read Isaiah 53? Have you not read Zechariah? Have you not read these things?
 
 - And beginning at Moses: And beginning from the time of Moses, Genesis 3. And all the prophets spoke about it.
 
@@ -916,35 +916,35 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 **[Luke 24:44-48](/bible/luke/24#v44)**  *[[2:01:52](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=7312s)]*
 
 > <sup>[44](/bible/luke/24#v44)</sup> And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me.
->
-> <sup>[45](/bible/luke/24#v45)</sup> Then opened he their understanding, that they might understand the scriptures,
->
-> <sup>[46](/bible/luke/24#v46)</sup> And said unto them, Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day:
->
-> <sup>[47](/bible/luke/24#v47)</sup> And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem.
->
-> <sup>[48](/bible/luke/24#v48)</sup> And ye are witnesses of these things.
 
 - That all things must be fulfilled: All things that was written in the Old Testament concerning me had to have been fulfilled. This is too easy.
 
 - Which were written in the law of Moses, and in the prophets, and in the psalms, concerning me: Where was it written concerning him? Have we not read Moses? Have we not read the prophets? Have we not read Psalms concerning him?
 
+> <sup>[45](/bible/luke/24#v45)</sup> Then opened he their understanding, that they might understand the scriptures,
+
 - Then opened he their understanding, that they might understand the scriptures: That they might understand that lo, I come in the volume of the book.
+
+> <sup>[46](/bible/luke/24#v46)</sup> And said unto them, Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day:
+>
+> <sup>[47](/bible/luke/24#v47)</sup> And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem.
 
 - And that repentance and remission of sins should be preached in his name among all nations: Why all nations? Had you searched the scriptures, you would have learned in Deuteronomy 20 and 64 we were going to be scattered in all nations. Had you read the prophecy, he told Abraham, in thee all nations are going to be blessed. Had you read the prophecy in Isaiah 11, I will be the ensign that will go out to all nations, from Egypt to Pathros to Ethiopia. Had you read Ezekiel 37, you would have learned that I'm going to gather together those that were scattered abroad. It was me that was going to go to the ends of the earth to bring this gospel. And guess how he was going to do it? By his shepherds, you men that going to travel the world and teach this word. By you IT men that broadcast this message to all our people scattered around the world.
 
 - Not my Jesus. Sit your black ass, sit your black behind down. You don't know Bible. And that's why I'm saying this to you apologists, apologetics, whatever you call it. That's why we don't entertain you. Your stuff is so very basic, trivial. I don't lose no sleep. I don't care what you think, cuz this ain't your book. And for you black coons that follow them, you go ahead and go die along with them. You ain't changing none of this. We ain't shook by you and we don't entertain you. Something with the white man think that we owe you an audience. We don't give a two damns what you think. And all you Israelites that go entertain them and debating with them, you a fool. Who the hell that cracker think he is? Old peckerwood. You will tell me in all God's creation this is the best that it is? This is the perfection of beauty? These are the children of God? Please. Recessive gene.
 
+> <sup>[48](/bible/luke/24#v48)</sup> And ye are witnesses of these things.
+
 
 **[Galatians 1:11-12](/bible/galatians/1#v11)**  *[[2:05:49](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=7549s)]*
 
-> <sup>[11](/bible/galatians/1#v11)</sup> But I certify you, brethren, that the gospel which was preached of me is not after man.
->
-> <sup>[12](/bible/galatians/1#v12)</sup> For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ.
-
 - Okay, we about to wrap it up. So now we've learned that Christ comes in the volume of the book. You'll find him from Genesis to Revelation over and over again. He is the word made flesh.
 
+> <sup>[11](/bible/galatians/1#v11)</sup> But I certify you, brethren, that the gospel which was preached of me is not after man.
+
 - The gospel which was preached of me is not after man: I'm certified. This ain't no man's gospel.
+
+> <sup>[12](/bible/galatians/1#v12)</sup> For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ.
 
 - For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ: The word revelation means the revealing of Christ. He said, I was taught this because Christ was revealed to me. So if Christ was revealed to him, where was Christ at to be revealed to him?
 
@@ -963,14 +963,14 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 **[Hebrews 11:1-3](/bible/hebrews/11#v1)**  *[[2:08:57](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=7737s)]*
 
 > <sup>[1](/bible/hebrews/11#v1)</sup> Now faith is the substance of things hoped for, the evidence of things not seen.
->
-> <sup>[2](/bible/hebrews/11#v2)</sup> For by it the elders obtained a good report.
->
-> <sup>[3](/bible/hebrews/11#v3)</sup> Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.
 
 - Now faith is the substance of things hoped for: Faith, hope, is the substance of things hoped for.
 
 - The evidence of things not seen: The evidence of things that's not seen with bodily eyes. Wait a second. Did Paul walk with Christ? No. But he believed on Christ because of the word that was preached to him. So how faith cometh to you? By hearing of the word. And if you believe Moses or the prophets, you would believe me, Paul.
+
+> <sup>[2](/bible/hebrews/11#v2)</sup> For by it the elders obtained a good report.
+>
+> <sup>[3](/bible/hebrews/11#v3)</sup> Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.
 
 - Through faith we understand that the worlds were framed by the word of God: Wait a second. By faith we learn that the worlds was framed by the word of God. Who framed the world? He said, Paul, had you not read Proverbs 8? That was me, Paul. Before the world began, I was with God. You read that. So you should know that, Paul. Paul, I'm all over the Bible.
 
@@ -979,41 +979,41 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 
 **[Genesis 5:4,6,9,12,15,18,21,25,29](/bible/genesis/5#v4)**  *[[2:12:44](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=7964s)]*
 
-> <sup>[4](/bible/genesis/5#v4)</sup> And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:
->
-> <sup>[6](/bible/genesis/5#v6)</sup> And Seth lived an hundred and five years, and begat Enos:
->
-> <sup>[9](/bible/genesis/5#v9)</sup> And Enos lived ninety years, and begat Cainan:
->
-> <sup>[12](/bible/genesis/5#v12)</sup> And Cainan lived seventy years, and begat Mahalaleel:
->
-> <sup>[15](/bible/genesis/5#v15)</sup> And Mahalaleel lived sixty and five years, and begat Jared:
->
-> <sup>[18](/bible/genesis/5#v18)</sup> And Jared lived an hundred sixty and two years, and he begat Enoch:
->
-> <sup>[21](/bible/genesis/5#v21)</sup> And Enoch lived sixty and five years, and begat Methuselah:
->
-> <sup>[25](/bible/genesis/5#v25)</sup> And Methuselah lived an hundred eighty and seven years, and begat Lamech:
->
-> <sup>[29](/bible/genesis/5#v29)</sup> And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the Lord hath cursed.
-
 - I need you all to follow along real quick. And everybody, I want you to write these down as we go through it.
+
+> <sup>[4](/bible/genesis/5#v4)</sup> And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:
 
 - And the days of Adam after he had begotten Seth: So Adam had a son by the name of Seth. In the Hebrew, Adam means man, mankind.
 
+> <sup>[6](/bible/genesis/5#v6)</sup> And Seth lived an hundred and five years, and begat Enos:
+
 - And Seth lived an hundred and five years, and begat Enos: After Seth, he had a son by the name of Enos. Seth means appointed.
+
+> <sup>[9](/bible/genesis/5#v9)</sup> And Enos lived ninety years, and begat Cainan:
 
 - And Enos lived ninety years, and begat Cainan: After Enos, his son's name was Cainan. Enos means mortal.
 
+> <sup>[12](/bible/genesis/5#v12)</sup> And Cainan lived seventy years, and begat Mahalaleel:
+
 - And Cainan lived seventy years, and begat Mahalaleel: Then Cainan had a son by the name of Mahalaleel. Cainan means sorrow.
+
+> <sup>[15](/bible/genesis/5#v15)</sup> And Mahalaleel lived sixty and five years, and begat Jared:
 
 - And Mahalaleel lived sixty and five years, and begat Jared: Mahalaleel had a son, Jared. Mahalaleel means the blessed God.
 
+> <sup>[18](/bible/genesis/5#v18)</sup> And Jared lived an hundred sixty and two years, and he begat Enoch:
+
 - And Jared lived an hundred sixty and two years, and he begat Enoch: Jared had a son by the name of Enoch. Jared means he shall come down.
+
+> <sup>[21](/bible/genesis/5#v21)</sup> And Enoch lived sixty and five years, and begat Methuselah:
 
 - And Enoch lived sixty and five years, and begat Methuselah: He had a son by the name of Methuselah. Enoch means to train, or train in righteousness.
 
+> <sup>[25](/bible/genesis/5#v25)</sup> And Methuselah lived an hundred eighty and seven years, and begat Lamech:
+
 - And Methuselah lived an hundred eighty and seven years, and begat Lamech: He had a son by the name of Lamech. Methuselah means when he dies, it shall come.
+
+> <sup>[29](/bible/genesis/5#v29)</sup> And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the Lord hath cursed.
 
 - And he called his name Noah: Lamech had a son by the name of Noah. Lamech means despair, or sorrow. Noah means rest.
 

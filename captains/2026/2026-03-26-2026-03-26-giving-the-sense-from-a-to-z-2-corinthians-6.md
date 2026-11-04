@@ -156,41 +156,41 @@ tags: ["15 Minutes w/ The Captains", "salvation", "the-law"]
 
 **[Acts 16:16-24](/bible/acts/16#v16)**  *[[24:22](https://www.youtube.com/watch?v=yvmUMZx83bc&t=1462s)]*
 
-> <sup>[16](/bible/acts/16#v16)</sup> And it came to pass, as we went to prayer, a certain damsel possessed with a spirit of divination met us, which brought her masters much gain by soothsaying:
->
-> <sup>[17](/bible/acts/16#v17)</sup> The same followed Paul and us, and cried, saying, These men are the servants of the most high God, which shew unto us the way of salvation.
->
-> <sup>[18](/bible/acts/16#v18)</sup> And this did she many days. But Paul, being grieved, turned and said to the spirit, I command thee in the name of Jesus Christ to come out of her. And he came out the same hour.
->
-> <sup>[19](/bible/acts/16#v19)</sup> And when her masters saw that the hope of their gains was gone, they caught Paul and Silas, and drew them into the marketplace unto the rulers,
->
-> <sup>[20](/bible/acts/16#v20)</sup> And brought them to the magistrates, saying, These men, being Jews, do exceedingly trouble our city,
->
-> <sup>[21](/bible/acts/16#v21)</sup> And teach customs, which are not lawful for us to receive, neither to observe, being Romans.
->
-> <sup>[22](/bible/acts/16#v22)</sup> And the multitude rose up together against them: and the magistrates rent off their clothes, and commanded to beat them.
->
-> <sup>[23](/bible/acts/16#v23)</sup> And when they had laid many stripes upon them, they cast them into prison, charging the jailor to keep them safely:
->
-> <sup>[24](/bible/acts/16#v24)</sup> Who, having received such a charge, thrust them into the inner prison, and made their feet fast in the stocks.
-
 - I'm going to do 16 cuz it said imprisonments and tumults. Watch this.
+
+> <sup>[16](/bible/acts/16#v16)</sup> And it came to pass, as we went to prayer, a certain damsel possessed with a spirit of divination met us, which brought her masters much gain by soothsaying:
 
 - Which brought her masters much gain by soothsaying: By her witchcraft. The same followed Paul and us: So they was like Miss Cleo, call me now. Y'all know what I'm talking about with her soothsaying.
 
 - Which show unto us the way of salvation: They show what? The way of salvation. Even the demons knew that. She said that they showing the way to salvation.
 
+> <sup>[17](/bible/acts/16#v17)</sup> The same followed Paul and us, and cried, saying, These men are the servants of the most high God, which shew unto us the way of salvation.
+>
+> <sup>[18](/bible/acts/16#v18)</sup> And this did she many days. But Paul, being grieved, turned and said to the spirit, I command thee in the name of Jesus Christ to come out of her. And he came out the same hour.
+
 - I command thee in the name of Jesus Christ to come out of her. And he came out the same hour: Damn.
+
+> <sup>[19](/bible/acts/16#v19)</sup> And when her masters saw that the hope of their gains was gone, they caught Paul and Silas, and drew them into the marketplace unto the rulers,
 
 - And when her masters saw that the hope of their gains was gone: That's just like the Christian church. The hope of the gains is gone when the brothers in the purple and gold show up when they blitz with the truth with the flyers. They like, hold on, man. They out there actually teaching the people the scriptures. We need to have them stuck on dumb giving us money. No, brother. The day of the Gucci's gone, man. The prophets are back disrupting the program.
 
 - And drew them into the marketplace unto the rulers: So they pulled them into the marketplaces. That's where they was out there teaching. They wasn't in the cut in the crevice of the corner teaching the gospel. You understand what I'm saying? With nobody out there. No, they was in the chief place.
 
+> <sup>[20](/bible/acts/16#v20)</sup> And brought them to the magistrates, saying, These men, being Jews, do exceedingly trouble our city,
+>
+> <sup>[21](/bible/acts/16#v21)</sup> And teach customs, which are not lawful for us to receive, neither to observe, being Romans.
+>
+> <sup>[22](/bible/acts/16#v22)</sup> And the multitude rose up together against them: and the magistrates rent off their clothes, and commanded to beat them.
+
 - And the multitude rose up together against them: Hold on, hold on. The what? That's the tumult right there. The multitude rose up together against them.
 
 - And the magistrates rent off their clothes and commanded to beat them: Damn. So they just ripped their clothes off and they just beat them right there on the spot.
 
+> <sup>[23](/bible/acts/16#v23)</sup> And when they had laid many stripes upon them, they cast them into prison, charging the jailor to keep them safely:
+
 - And when they had laid many stripes upon them, they cast them into prison: So Paul let you know, he told them in that letter, he said in stripes, imprisonments, and tumults. You understand? We reading that right here in Acts 16.
+
+> <sup>[24](/bible/acts/16#v24)</sup> Who, having received such a charge, thrust them into the inner prison, and made their feet fast in the stocks.
 
 - Thrust them into the inner prison, and made their feet fast in the stocks: So what? He put them in solitary confinement. That's what they're talking about. So now, let's go with that where he said in watchings and fastings.
 
@@ -244,26 +244,26 @@ tags: ["15 Minutes w/ The Captains", "salvation", "the-law"]
 > <sup>[19](/bible/acts/21#v19)</sup> And when he had saluted them, he declared particularly what things God had wrought among the Gentiles by his ministry.
 >
 > <sup>[20](/bible/acts/21#v20)</sup> And when they heard it, they glorified the Lord, and said unto him, Thou seest, brother, how many thousands of Jews there are which believe; and they are all zealous of the law:
->
-> <sup>[21](/bible/acts/21#v21)</sup> And they are informed of thee, that thou teachest all the Jews which are among the Gentiles to forsake Moses, saying that they ought not to circumcise their children, neither to walk after the customs.
->
-> <sup>[22](/bible/acts/21#v22)</sup> What is it therefore? the multitude must needs come together: for they will hear that thou art come.
->
-> <sup>[23](/bible/acts/21#v23)</sup> Do therefore this that we say to thee: We have four men which have a vow on them;
->
-> <sup>[24](/bible/acts/21#v24)</sup> Them take, and purify thyself with them, and be at charges with them, that they may shave their heads: and all may know that those things, whereof they were informed concerning thee, are nothing; but that thou thyself also walkest orderly, and keepest the law.
 
 - Thou seest, brother, how many thousands of Jews there are which believe: Hold on. Hold on, brother. We got to read that again. My man ran through that thing something crazy. Read that again.
 
 - And they are all zealous of the law: So this is the account when Paul went back up to Jerusalem, right? You could pick up the thought on verse 17, but keep reading though.
 
+> <sup>[21](/bible/acts/21#v21)</sup> And they are informed of thee, that thou teachest all the Jews which are among the Gentiles to forsake Moses, saying that they ought not to circumcise their children, neither to walk after the customs.
+
 - Thou teachest all the Jews which are among the Gentiles to forsake Moses: Isn't that the thing that the Christians do today where Paul said you don't have to keep the law. So the same slanderous report they put on Paul back then is present day in the Christian church. Paul said you don't have to keep the law. You hear it, brothers, all the time with that.
 
 - Saying that they ought not to circumcise their children: That's what they say right now. Paul said you ain't got to circumcise. It's the same argument today.
 
+> <sup>[22](/bible/acts/21#v22)</sup> What is it therefore? the multitude must needs come together: for they will hear that thou art come.
+
 - What is it therefore? The multitude must needs come together: So he said, "Listen, man, we hearing all these slanderous reports, man. Listen, we got all these people that hear the matter what's really going down, Paul."
 
+> <sup>[23](/bible/acts/21#v23)</sup> Do therefore this that we say to thee: We have four men which have a vow on them;
+
 - We have four men which have a vow on them: That's the vow of a Nazarite.
+
+> <sup>[24](/bible/acts/21#v24)</sup> Them take, and purify thyself with them, and be at charges with them, that they may shave their heads: and all may know that those things, whereof they were informed concerning thee, are nothing; but that thou thyself also walkest orderly, and keepest the law.
 
 - And all may know that those things whereof they were informed concerning thee are nothing: Nothing but fake news. So all that Paul taught not to circumcise, not to do this, not to do that, that's all lies. It's the same thing we battle day in and day out. It's the same thing.
 
@@ -285,47 +285,33 @@ tags: ["15 Minutes w/ The Captains", "salvation", "the-law"]
 
 **[Acts 14:8-22](/bible/acts/14#v8)**  *[[35:33](https://www.youtube.com/watch?v=yvmUMZx83bc&t=2133s)]*
 
+- Impotent in his feet, being a … from his mother's womb, who never had walked: So this is a man that was a He was handicapped.
+
 > <sup>[8](/bible/acts/14#v8)</sup> And there sat a certain man at Lystra, impotent in his feet, being a cripple from his mother’s womb, who never had walked:
 >
 > <sup>[9](/bible/acts/14#v9)</sup> The same heard Paul speak: who stedfastly beholding him, and perceiving that he had faith to be healed,
 >
 > <sup>[10](/bible/acts/14#v10)</sup> Said with a loud voice, Stand upright on thy feet. And he leaped and walked.
->
-> <sup>[11](/bible/acts/14#v11)</sup> And when the people saw what Paul had done, they lifted up their voices, saying in the speech of Lycaonia, The gods are come down to us in the likeness of men.
->
-> <sup>[12](/bible/acts/14#v12)</sup> And they called Barnabas, Jupiter; and Paul, Mercurius, because he was the chief speaker.
->
-> <sup>[13](/bible/acts/14#v13)</sup> Then the priest of Jupiter, which was before their city, brought oxen and garlands unto the gates, and would have done sacrifice with the people.
->
-> <sup>[14](/bible/acts/14#v14)</sup> Which when the apostles, Barnabas and Paul, heard of, they rent their clothes, and ran in among the people, crying out,
->
-> <sup>[15](/bible/acts/14#v15)</sup> And saying, Sirs, why do ye these things? We also are men of like passions with you, and preach unto you that ye should turn from these vanities unto the living God, which made heaven, and earth, and the sea, and all things that are therein:
->
-> <sup>[16](/bible/acts/14#v16)</sup> Who in times past suffered all nations to walk in their own ways.
->
-> <sup>[17](/bible/acts/14#v17)</sup> Nevertheless he left not himself without witness, in that he did good, and gave us rain from heaven, and fruitful seasons, filling our hearts with food and gladness.
->
-> <sup>[18](/bible/acts/14#v18)</sup> And with these sayings scarce restrained they the people, that they had not done sacrifice unto them.
->
-> <sup>[19](/bible/acts/14#v19)</sup> And there came thither certain Jews from Antioch and Iconium, who persuaded the people, and, having stoned Paul, drew him out of the city, supposing he had been dead.
->
-> <sup>[20](/bible/acts/14#v20)</sup> Howbeit, as the disciples stood round about him, he rose up, and came into the city: and the next day he departed with Barnabas to Derbe.
->
-> <sup>[21](/bible/acts/14#v21)</sup> And when they had preached the gospel to that city, and had taught many, they returned again to Lystra, and to Iconium, and Antioch,
->
-> <sup>[22](/bible/acts/14#v22)</sup> Confirming the souls of the disciples, and exhorting them to continue in the faith, and that we must through much tribulation enter into the kingdom of God.
-
-- Impotent in his feet, being a … from his mother's womb, who never had walked: So this is a man that was a He was handicapped.
 
 - Stand upright on thy feet. And he leaped and walked: Damn.
 
+> <sup>[11](/bible/acts/14#v11)</sup> And when the people saw what Paul had done, they lifted up their voices, saying in the speech of Lycaonia, The gods are come down to us in the likeness of men.
+
 - The gods are come down to us in the likeness of men: So they really know who Paul was. They said, "Man, the gods come down in the likeness of men."
+
+> <sup>[12](/bible/acts/14#v12)</sup> And they called Barnabas, Jupiter; and Paul, Mercurius, because he was the chief speaker.
 
 - And they called Barnabas, Jupiter; and Paul, Mercurius, because he was the chief speaker: They called Barnabas Jupiter and Paul Mercury.
 
+> <sup>[13](/bible/acts/14#v13)</sup> Then the priest of Jupiter, which was before their city, brought oxen and garlands unto the gates, and would have done sacrifice with the people.
+
 - Brought oxen and garlands unto the gates, and would have done sacrifice with the people: So they wanted to offer up a sacrifice to Paul. Watch this.
 
+> <sup>[14](/bible/acts/14#v14)</sup> Which when the apostles, Barnabas and Paul, heard of, they rent their clothes, and ran in among the people, crying out,
+
 - They rent their clothes, and ran in among the people, crying out: Stopped. They ran and said, "Cut the madness."
+
+> <sup>[15](/bible/acts/14#v15)</sup> And saying, Sirs, why do ye these things? We also are men of like passions with you, and preach unto you that ye should turn from these vanities unto the living God, which made heaven, and earth, and the sea, and all things that are therein:
 
 - And saying, Sirs, why do ye these things?: They said, "Man, what you doing, fam?"
 
@@ -333,9 +319,17 @@ tags: ["15 Minutes w/ The Captains", "salvation", "the-law"]
 
 - And preach unto you that ye should turn from these vanities unto the living God: So he's saying we out here teaching that you got to come out of this idolatrous custom. You got to come out of Christianity. That's what Paul would be saying today.
 
+> <sup>[16](/bible/acts/14#v16)</sup> Who in times past suffered all nations to walk in their own ways.
+>
+> <sup>[17](/bible/acts/14#v17)</sup> Nevertheless he left not himself without witness, in that he did good, and gave us rain from heaven, and fruitful seasons, filling our hearts with food and gladness.
+
 - Filling our hearts with food and gladness: That's what the Most High God did for us.
 
+> <sup>[18](/bible/acts/14#v18)</sup> And with these sayings scarce restrained they the people, that they had not done sacrifice unto them.
+
 - And with these sayings scarce restrained they the people, that they had not done sacrifice unto them: So he said, "Listen, man, the Lord did all that for us. Please don't sacrifice. Please don't do that, brother. That's not what we out here for."
+
+> <sup>[19](/bible/acts/14#v19)</sup> And there came thither certain Jews from Antioch and Iconium, who persuaded the people, and, having stoned Paul, drew him out of the city, supposing he had been dead.
 
 - And there came thither certain Jews from Antioch: Here come the haters. Here come the haters.
 
@@ -343,7 +337,13 @@ tags: ["15 Minutes w/ The Captains", "salvation", "the-law"]
 
 - Drew him out of the city, supposing he had been dead: So when he says "As unknown yet well known," he was unknown to the people in Lystra. Then here come the Jews that knew him, riled the people up to stone him, put him to death.
 
+> <sup>[20](/bible/acts/14#v20)</sup> Howbeit, as the disciples stood round about him, he rose up, and came into the city: and the next day he departed with Barnabas to Derbe.
+>
+> <sup>[21](/bible/acts/14#v21)</sup> And when they had preached the gospel to that city, and had taught many, they returned again to Lystra, and to Iconium, and Antioch,
+
 - They returned again to Lystra, and to Iconium: You see that? Watch this. Read verse 22. Come full circle.
+
+> <sup>[22](/bible/acts/14#v22)</sup> Confirming the souls of the disciples, and exhorting them to continue in the faith, and that we must through much tribulation enter into the kingdom of God.
 
 - Confirming the souls of the disciples: Doing what? Confirming the souls of the disciples. These men are going to lay down their life for the gospel's sake because they love their king and they love their people, man.
 
@@ -423,16 +423,16 @@ tags: ["15 Minutes w/ The Captains", "salvation", "the-law"]
 **[2 Corinthians 6:11-13](/bible/2-corinthians/6#v11)**  *[[45:51](https://www.youtube.com/watch?v=yvmUMZx83bc&t=2751s)]*
 
 > <sup>[11](/bible/2-corinthians/6#v11)</sup> O ye Corinthians, our mouth is open unto you, our heart is enlarged.
->
-> <sup>[12](/bible/2-corinthians/6#v12)</sup> Ye are not straitened in us, but ye are straitened in your own bowels.
->
-> <sup>[13](/bible/2-corinthians/6#v13)</sup> Now for a recompence in the same, (I speak as unto my children,) be ye also enlarged.
 
 - O ye Corinthians, our mouth is open unto you, our heart is enlarged: So Paul is saying, "I've been completely real with you. I genuinely love you, brothers and sisters. It's no distance." Paul like, "It ain't no division between me and you other than what you bringing to me." You understand?
+
+> <sup>[12](/bible/2-corinthians/6#v12)</sup> Ye are not straitened in us, but ye are straitened in your own bowels.
 
 - Ye are not straitened in us: Meaning what? I ain't holding you brothers back.
 
 - But ye are straitened in your own bowels: Meaning what? I'm not restricting you. You holding your own self back with your own mind. That's what Paul is telling them.
+
+> <sup>[13](/bible/2-corinthians/6#v13)</sup> Now for a recompence in the same, (I speak as unto my children,) be ye also enlarged.
 
 - Now for a recompence in the same, I speak as unto my children, be ye also enlarged: Meaning what? Paul is saying, "Listen, man, I opened up, man. I told you everything I had going on. I told you what I went through. I'm asking y'all to give the same in return." Meaning what? Give me Leviticus 19:17. You understand? Paul telling them, "Listen, man, y'all need to apply the law here."
 
@@ -459,16 +459,16 @@ tags: ["15 Minutes w/ The Captains", "salvation", "the-law"]
 > <sup>[1](/bible/deuteronomy/7#v1)</sup> When the Lord thy God shall bring thee into the land whither thou goest to possess it, and hath cast out many nations before thee, the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations greater and mightier than thou;
 >
 > <sup>[2](/bible/deuteronomy/7#v2)</sup> And when the Lord thy God shall deliver them before thee; thou shalt smite them, and utterly destroy them; thou shalt make no covenant with them, nor shew mercy unto them:
->
-> <sup>[3](/bible/deuteronomy/7#v3)</sup> Neither shalt thou make marriages with them; thy daughter thou shalt not give unto his son, nor his daughter shalt thou take unto thy son.
->
-> <sup>[4](/bible/deuteronomy/7#v4)</sup> For they will turn away thy son from following me, that they may serve other gods: so will the anger of the Lord be kindled against you, and destroy thee suddenly.
 
 - Thou shalt make no covenant with them: Make no covenant with them. That's the agreement.
 
 - Nor shew mercy unto them: Meaning they got to get the hell up out the church.
 
+> <sup>[3](/bible/deuteronomy/7#v3)</sup> Neither shalt thou make marriages with them; thy daughter thou shalt not give unto his son, nor his daughter shalt thou take unto thy son.
+
 - Neither shalt thou make marriages with them: Shall you marry. If you marry a sister that don't believe or brother that don't believe, listen, man, let the unbelieving depart. You understand?
+
+> <sup>[4](/bible/deuteronomy/7#v4)</sup> For they will turn away thy son from following me, that they may serve other gods: so will the anger of the Lord be kindled against you, and destroy thee suddenly.
 
 - For they will turn away thy son from following me, that they may serve other gods: "They will." So will the anger of the Lord be kindled against you, and destroy thee suddenly: So, Paul didn't want that to happen to the brothers and sisters in the church. You understand? We read the same thing in Amos 3 and 3. But, let's go back to 2 Corinthians 6 and 14.
 
@@ -484,10 +484,10 @@ tags: ["15 Minutes w/ The Captains", "salvation", "the-law"]
 > <sup>[14](/bible/2-corinthians/6#v14)</sup> Be ye not unequally yoked together with unbelievers: for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness?
 >
 > <sup>[15](/bible/2-corinthians/6#v15)</sup> And what concord hath Christ with Belial? or what part hath he that believeth with an infidel?
->
-> <sup>[16](/bible/2-corinthians/6#v16)</sup> And what agreement hath the temple of God with idols? for ye are the temple of the living God; as God hath said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people.
 
 - And what concord hath Christ with Belial? Or what part hath he that believeth with an infidel?: Meaning what? Listen, what are you doing with a brother that don't believe? What are you doing with a sister that don't believe? Listen, what are you doing entertaining these divisions? They don't believe. You got to get them up out the church. If you married to a unbeliever, listen, they got to depart. Let them depart. You understand?
+
+> <sup>[16](/bible/2-corinthians/6#v16)</sup> And what agreement hath the temple of God with idols? for ye are the temple of the living God; as God hath said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people.
 
 - And what agreement hath the temple of God with idols?: Hold on. What agreement have what? The temple of God with idols. Give me 1 Corinthians 3:16. What's the temple you talking about? Is he talking about the literal temple?
 
@@ -522,16 +522,16 @@ tags: ["15 Minutes w/ The Captains", "salvation", "the-law"]
 **[Jeremiah 31:31-33](/bible/jeremiah/31#v31)**  *[[51:57](https://www.youtube.com/watch?v=yvmUMZx83bc&t=3117s)]*
 
 > <sup>[31](/bible/jeremiah/31#v31)</sup> Behold, the days come, saith the Lord, that I will make a new covenant with the house of Israel, and with the house of Judah:
->
-> <sup>[32](/bible/jeremiah/31#v32)</sup> Not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which my covenant they brake, although I was an husband unto them, saith the Lord:
->
-> <sup>[33](/bible/jeremiah/31#v33)</sup> But this shall be the covenant that I will make with the house of Israel; After those days, saith the Lord, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people.
 
 - I will make a new covenant with the house of Israel: So, that's what Paul is talking about, the new covenant. You the temple of God. That's the new covenant. Paul, let them know.
 
 - And with the house of Judah: So, it's letting you know, that's all 12 tribes. We read the same thing in Titus that appeared all men. All 12 tribes. Meaning what? We unified back together. It's no longer talking about the southern kingdom only. That's why he said all men.
 
+> <sup>[32](/bible/jeremiah/31#v32)</sup> Not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which my covenant they brake, although I was an husband unto them, saith the Lord:
+
 - Not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt: So, he not talking about the animal sacrifice that we got under the law of Moses. That's what he's making reference to, that aspect, the sacrificial law. It's not going to be based on that no more.
+
+> <sup>[33](/bible/jeremiah/31#v33)</sup> But this shall be the covenant that I will make with the house of Israel; After those days, saith the Lord, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people.
 
 - I will put my law in their inward parts: Meaning what? We going to consider. That's why Man, give me that in Isaiah 42, man. You already know what I want. Is it 42 or 22 or 21? Yes. I will magnify the law and make it honorable. That's what's going on there. Christ came to magnify the law. He said, "Oh, brother, it was said that you committed adultery." "Thou shalt not commit adultery." Christ said, "I say unto you, whosoever look on a woman to lust after." What are you talking about? That's working on your mind. So, before Christ came, you could look at a sister and be like, "Damn." But, now Christ said, "Brother, that's adultery."
 
@@ -592,22 +592,22 @@ tags: ["15 Minutes w/ The Captains", "salvation", "the-law"]
 **[Jeremiah 31:6-9](/bible/jeremiah/31#v6)**  *[[59:30](https://www.youtube.com/watch?v=yvmUMZx83bc&t=3570s)]*
 
 > <sup>[6](/bible/jeremiah/31#v6)</sup> For there shall be a day, that the watchmen upon the mount Ephraim shall cry, Arise ye, and let us go up to Zion unto the Lord our God.
->
-> <sup>[7](/bible/jeremiah/31#v7)</sup> For thus saith the Lord; Sing with gladness for Jacob, and shout among the chief of the nations: publish ye, praise ye, and say, O Lord, save thy people, the remnant of Israel.
->
-> <sup>[8](/bible/jeremiah/31#v8)</sup> Behold, I will bring them from the north country, and gather them from the coasts of the earth, and with them the blind and the lame, the woman with child and her that travaileth with child together: a great company shall return thither.
->
-> <sup>[9](/bible/jeremiah/31#v9)</sup> They shall come with weeping, and with supplications will I lead them: I will cause them to walk by the rivers of waters in a straight way, wherein they shall not stumble: for I am a father to Israel, and Ephraim is my firstborn.
 
 - For there shall be a day, that the watchmen upon the mount Ephraim shall cry: Hold on. The watchmen what? Upon the mount Ephraim. That's the 11th hour family. That's what's going on here. Jeremiah prophesying. Listen, the northern kingdom going to come and they're going to be prophesying. You understand? Just tearing it up in Central and South America. You see the brothers in purple and gold doing the work. You see it.
 
 - Arise ye, and let us go up to Zion unto the Lord our God: Meaning repent. The time is at hand.
 
+> <sup>[7](/bible/jeremiah/31#v7)</sup> For thus saith the Lord; Sing with gladness for Jacob, and shout among the chief of the nations: publish ye, praise ye, and say, O Lord, save thy people, the remnant of Israel.
+
 - O Lord, save thy people, the remnant of Israel: Hold on, do what? Save thy people. Crystal clear. The remnant of Israel. Man.
+
+> <sup>[8](/bible/jeremiah/31#v8)</sup> Behold, I will bring them from the north country, and gather them from the coasts of the earth, and with them the blind and the lame, the woman with child and her that travaileth with child together: a great company shall return thither.
 
 - Behold, I will bring them from the north country: That's talking about North America. You didn't think that was in the scriptures? I'm going to bring them from the north country.
 
 - And gather them from the coasts of the earth: Meaning what? Where we've been scattered.
+
+> <sup>[9](/bible/jeremiah/31#v9)</sup> They shall come with weeping, and with supplications will I lead them: I will cause them to walk by the rivers of waters in a straight way, wherein they shall not stumble: for I am a father to Israel, and Ephraim is my firstborn.
 
 - For I am a father to Israel, and Ephraim is my firstborn: I am what? I am a father to Israel and Ephraim is my firstborn. All 12 tribes.
 

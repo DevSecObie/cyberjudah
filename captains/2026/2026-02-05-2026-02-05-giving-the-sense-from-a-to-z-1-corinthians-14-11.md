@@ -62,10 +62,6 @@ Reading from Screenshot on screen (barbarian in the Bible)  *[[15:04](https://ww
 **[Acts 28:2-4](/bible/acts/28#v2)**  *[[16:32](https://www.youtube.com/watch?v=T6ODLlBpG6c&t=992s)]*
 
 > <sup>[2](/bible/acts/28#v2)</sup> And the barbarous people shewed us no little kindness: for they kindled a fire, and received us every one, because of the present rain, and because of the cold.
->
-> <sup>[3](/bible/acts/28#v3)</sup> And when Paul had gathered a bundle of sticks, and laid them on the fire, there came a viper out of the heat, and fastened on his hand.
->
-> <sup>[4](/bible/acts/28#v4)</sup> And when the barbarians saw the venomous beast hang on his hand, they said among themselves, No doubt this man is a murderer, whom, though he hath escaped the sea, yet vengeance suffereth not to live.
 
 - And the barbarous people: Barbarous, same word.
 
@@ -73,7 +69,11 @@ Reading from Screenshot on screen (barbarian in the Bible)  *[[15:04](https://ww
 
 - And received us every one, because of the present rain, and because of the cold: Because of the rain. So they were showing what? Brotherly love right there.
 
+> <sup>[3](/bible/acts/28#v3)</sup> And when Paul had gathered a bundle of sticks, and laid them on the fire, there came a viper out of the heat, and fastened on his hand.
+
 - And when Paul had gathered a bundle of sticks, and laid them on the fire, there came a viper out of the heat: Here comes a viper.
+
+> <sup>[4](/bible/acts/28#v4)</sup> And when the barbarians saw the venomous beast hang on his hand, they said among themselves, No doubt this man is a murderer, whom, though he hath escaped the sea, yet vengeance suffereth not to live.
 
 - No doubt this man is a murderer: You see this? So it was something that they knew, even though they didn't speak the language. They didn't grow up under Roman customs. They understood the law. They understood. Okay, here, man, we here, we helping this brother. We helping Paul get some light, get a little, what would you say, ease from the shipwreck. Now all of a sudden we at the campfire and the damn snake come and bite him. So he didn't survive the shipwreck, he didn't survive all the turmoil out there just to get here. And they like, "Listen, man. The angel of death is after this man, because he was a murderer." Remember he said, when it came to zeal, he was persecuting the church. That was his lot. Now all of a sudden the barbarian is picking up and saying, "Whoa, wait a minute, man. This man cannot escape death."
 
@@ -137,7 +137,11 @@ Reading from Screenshot on screen (barbarian in the Bible), continued  *[[21:21]
 **[Ephesians 4:8-12](/bible/ephesians/4#v8)**  *[[24:58](https://www.youtube.com/watch?v=T6ODLlBpG6c&t=1498s)]*
 
 > <sup>[8](/bible/ephesians/4#v8)</sup> Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men.
->
+
+- When he ascended up on high, he led captivity captive: Talking about Christ.
+
+- And gave gifts unto men: And he gave gifts unto men. One of those gifts was to speak in a tongue. Prophecy. Those were one of the gifts that he gave unto men, among many others.
+
 > <sup>[9](/bible/ephesians/4#v9)</sup> (Now that he ascended, what is it but that he also descended first into the lower parts of the earth?
 >
 > <sup>[10](/bible/ephesians/4#v10)</sup> He that descended is the same also that ascended up far above all heavens, that he might fill all things.)
@@ -145,10 +149,6 @@ Reading from Screenshot on screen (barbarian in the Bible), continued  *[[21:21]
 > <sup>[11](/bible/ephesians/4#v11)</sup> And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;
 >
 > <sup>[12](/bible/ephesians/4#v12)</sup> For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:
-
-- When he ascended up on high, he led captivity captive: Talking about Christ.
-
-- And gave gifts unto men: And he gave gifts unto men. One of those gifts was to speak in a tongue. Prophecy. Those were one of the gifts that he gave unto men, among many others.
 
 - And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; for the perfecting of the saints: Why did he give him those gifts? For the perfecting of the saints. For the edifying of the body. For the perfecting of the saints. That's why he gave us the gifts. This is why he said, "Beloved, everything that I do is for the edification of the body. I'm a debtor to the Greeks and to the barbarians." So you in Corinth, understand: when you desire, even though you got these zeals of spiritual gifts, make sure you do it to seek for the edification of the church, for the perfecting of the saints.
 
@@ -158,14 +158,6 @@ Reading from Screenshot on screen (barbarian in the Bible), continued  *[[21:21]
 > <sup>[12](/bible/1-corinthians/14#v12)</sup> Even so ye, forasmuch as ye are zealous of spiritual gifts, seek that ye may excel to the edifying of the church.
 >
 > <sup>[13](/bible/1-corinthians/14#v13)</sup> Wherefore let him that speaketh in an unknown tongue pray that he may interpret.
->
-> <sup>[14](/bible/1-corinthians/14#v14)</sup> For if I pray in an unknown tongue, my spirit prayeth, but my understanding is unfruitful.
->
-> <sup>[15](/bible/1-corinthians/14#v15)</sup> What is it then? I will pray with the spirit, and I will pray with the understanding also: I will sing with the spirit, and I will sing with the understanding also.
->
-> <sup>[16](/bible/1-corinthians/14#v16)</sup> Else when thou shalt bless with the spirit, how shall he that occupieth the room of the unlearned say Amen at thy giving of thanks, seeing he understandeth not what thou sayest?
->
-> <sup>[17](/bible/1-corinthians/14#v17)</sup> For thou verily givest thanks well, but the other is not edified.
 
 - Wherefore let him that speaketh in an unknown tongue pray that he may interpret: He said, pray that you got to interpret it. Pray that you got an interpreter. Now, we got some of our brothers, they speaking, I believe Creole, right? So they speaking in tongues. I don't know what they saying. That's why I said pray that you got a interpreter. Pray that you have an interpreter, cuz if you don't have an interpreter, what's going to happen? Like a barbarian.
 
@@ -173,11 +165,15 @@ Reading from Screenshot on screen (barbarian in the Bible), continued  *[[21:21]
 
 - Pray that he may interpret: Pray that it's interpreter around. Pray that it's interpreter somewhere around. Right? So you won't be just speaking to yourself. He's going to explain it.
 
+> <sup>[14](/bible/1-corinthians/14#v14)</sup> For if I pray in an unknown tongue, my spirit prayeth, but my understanding is unfruitful.
+
 - For if I pray in an unknown tongue: Even if you praying in an unknown tongue.
 
 - My spirit prayeth: Your spirit is only praying. Only person that knows what you saying is the Lord, if you sitting in a whole room praying in an unknown tongue.
 
 - But my understanding is unfruitful: But the understanding, those that are in the room, it's unfruitful. So now you having this personal conversation with the Lord because why? You speaking in an unknown tongue. That's why he said, man, pray that you got an interpreter so you can edify the body, because you don't want to be unfruitful. The whole reason is edification.
+
+> <sup>[15](/bible/1-corinthians/14#v15)</sup> What is it then? I will pray with the spirit, and I will pray with the understanding also: I will sing with the spirit, and I will sing with the understanding also.
 
 - What is it then? I will pray with the spirit, and I will pray with the understanding also: He said, what is it then? If you praying with the spirit, you got to pray, you got to understand. You know what? Let me pray with understanding as well. If I'mma be in the spirit, I got to know. I got to have an interpreter so everybody can understand. Everybody can be edified.
 
@@ -185,11 +181,15 @@ Reading from Screenshot on screen (barbarian in the Bible), continued  *[[21:21]
 
 - And I will sing with the understanding also: You got to sing with the understanding also. You got to sing with the understanding also.
 
+> <sup>[16](/bible/1-corinthians/14#v16)</sup> Else when thou shalt bless with the spirit, how shall he that occupieth the room of the unlearned say Amen at thy giving of thanks, seeing he understandeth not what thou sayest?
+
 - Else when thou shalt bless with the spirit: When you bless somebody with the spirit.
 
 - How shall he that occupieth the room of the unlearned say Amen: Cuz who know what the hell you talking about when you praying? You could be praying, you could be saying some demonic stuff in a whole another language, and you expect somebody to sit there and be like, "Yeah, amen sir. Yes, sir." They don't know what the hell you talking about whatsoever. Paul saying, "If you do these things, how can the unlearned say amen?" How can they bless that prayer?
 
 - At thy giving of thanks, seeing he understandeth not what thou sayest: Because he don't understand what you saying. Look, somebody said, "Dai loose." What does that mean? Mean bring a light. Bring it out. He said loose. Now he understands the tongue.
+
+> <sup>[17](/bible/1-corinthians/14#v17)</sup> For thou verily givest thanks well, but the other is not edified.
 
 - For thou verily givest thanks well, but the other is not edified: He said, "Yeah, you give thanks, but everybody else ain't getting edified. You speaking in a unknown tongue and you blessing in an unknown tongue. You praying, singing, nobody can say amen." Nobody understands what you saying. They're not edified.
 
@@ -213,23 +213,23 @@ Reading from Screenshot on screen (barbarian in the Bible), continued  *[[21:21]
 
 **[2 Kings 18:23-26](/bible/2-kings/18#v23)**  *[[33:32](https://www.youtube.com/watch?v=T6ODLlBpG6c&t=2012s)]*
 
-> <sup>[23](/bible/2-kings/18#v23)</sup> Now therefore, I pray thee, give pledges to my lord the king of Assyria, and I will deliver thee two thousand horses, if thou be able on thy part to set riders upon them.
->
-> <sup>[24](/bible/2-kings/18#v24)</sup> How then wilt thou turn away the face of one captain of the least of my master’s servants, and put thy trust on Egypt for chariots and for horsemen?
->
-> <sup>[25](/bible/2-kings/18#v25)</sup> Am I now come up without the Lord against this place to destroy it? The Lord said to me, Go up against this land, and destroy it.
->
-> <sup>[26](/bible/2-kings/18#v26)</sup> Then said Eliakim the son of Hilkiah, and Shebna, and Joah, unto Rab–shakeh, Speak, I pray thee, to thy servants in the Syrian language; for we understand it: and talk not with us in the Jews’ language in the ears of the people that are on the wall.
-
 - This is when the Assyrians were coming to Jerusalem to take over Jerusalem. All right. To besiege Jerusalem. And I want you to pay attention to what's going on.
 
+> <sup>[23](/bible/2-kings/18#v23)</sup> Now therefore, I pray thee, give pledges to my lord the king of Assyria, and I will deliver thee two thousand horses, if thou be able on thy part to set riders upon them.
+
 - I will deliver thee two thousand horses, if thou be able on thy part to set riders upon them: He's talking cash stuff right now. He said, listen, give part to my king, and I give you 2,000 horses if you got the men to handle him. I don't even think you got the men to handle them.
+
+> <sup>[24](/bible/2-kings/18#v24)</sup> How then wilt thou turn away the face of one captain of the least of my master’s servants, and put thy trust on Egypt for chariots and for horsemen?
 
 - How then wilt thou turn away the face of one captain of the least of my master's servants: Damn.
 
 - And put thy trust on Egypt for chariots and for horsemen: He said, "You can't even turn away one captain of the least of my men."
 
+> <sup>[25](/bible/2-kings/18#v25)</sup> Am I now come up without the Lord against this place to destroy it? The Lord said to me, Go up against this land, and destroy it.
+
 - Am I now come up without the LORD against this place to destroy it: The Lord said to me, "Go up against this land and destroy it." Destroy it. Watch this though.
+
+> <sup>[26](/bible/2-kings/18#v26)</sup> Then said Eliakim the son of Hilkiah, and Shebna, and Joah, unto Rab–shakeh, Speak, I pray thee, to thy servants in the Syrian language; for we understand it: and talk not with us in the Jews’ language in the ears of the people that are on the wall.
 
 - Then said Eliakim the son of Hilkiah, and Shebna: Which was over the household at that time. He's one of the leaders during this time period. Watch his response to the servant of Assyria.
 
@@ -280,12 +280,12 @@ Reading from On-screen text: Bible reference on 2 Kings 18:26  *[[36:25](https:/
 **[1 Corinthians 14:18-19](/bible/1-corinthians/14#v18)**  *[[38:35](https://www.youtube.com/watch?v=T6ODLlBpG6c&t=2315s)]*
 
 > <sup>[18](/bible/1-corinthians/14#v18)</sup> I thank my God, I speak with tongues more than ye all:
->
-> <sup>[19](/bible/1-corinthians/14#v19)</sup> Yet in the church I had rather speak five words with my understanding, that by my voice I might teach others also, than ten thousand words in an unknown tongue.
 
 - I thank my God I speak with tongues more than ye all: So Paul understood not only Hebrew, but he understood the Greek language. He understood more dialects than all those of Corinth. Remember when Paul was knocked off the horse in Acts chapter 9, which we just read.
 
 - So he understood the Hebrew. He understood the Hebrew. He understood those of Greek language, barbarian, the language that they were speaking. He was able to dialogue with all these different languages. So Christ spoke in the what? The Hebrew. Saying, Saul, Saul, why the hell are you persecuting me?
+
+> <sup>[19](/bible/1-corinthians/14#v19)</sup> Yet in the church I had rather speak five words with my understanding, that by my voice I might teach others also, than ten thousand words in an unknown tongue.
 
 - Yet in the church I had rather speak five words: He said, "Yet in the church, even though I can speak in all these languages, yet in the church I rather speak five words."
 
@@ -323,8 +323,6 @@ Reading from On-screen text: what languages Paul spoke  *[[41:35](https://www.yo
 **[1 Corinthians 14:20-21](/bible/1-corinthians/14#v20)**  *[[43:18](https://www.youtube.com/watch?v=T6ODLlBpG6c&t=2598s)]*
 
 > <sup>[20](/bible/1-corinthians/14#v20)</sup> Brethren, be not children in understanding: howbeit in malice be ye children, but in understanding be men.
->
-> <sup>[21](/bible/1-corinthians/14#v21)</sup> In the law it is written, With men of other tongues and other lips will I speak unto this people; and yet for all that will they not hear me, saith the Lord.
 
 - Brethren, be not children in understanding: So with all that said, I rather speak five words in understanding than 10,000 words in an unknown tongue. Listen, don't be a child in understanding, understanding what I'm saying to you. Speak in a language to edify. Desire these spiritual gifts to edify. Don't be a child. Don't let this go on deaf ears, you Corinthians.
 
@@ -333,6 +331,8 @@ Reading from On-screen text: what languages Paul spoke  *[[41:35](https://www.yo
 - Brethren, be not children in understanding: Don't be a child when it comes to that understanding.
 
 - But in understanding be men: But when it comes to understanding, understanding of this gift that God imparted into you, be men how to wield it. Be a man how to use it, is to edify the church.
+
+> <sup>[21](/bible/1-corinthians/14#v21)</sup> In the law it is written, With men of other tongues and other lips will I speak unto this people; and yet for all that will they not hear me, saith the Lord.
 
 - In the law it is written: In the law. Even in the law, this is written.
 
@@ -380,20 +380,20 @@ Reading from On-screen text: what languages Paul spoke  *[[41:35](https://www.yo
 **[Acts 2:4-7](/bible/acts/2#v4)**  *[[50:39](https://www.youtube.com/watch?v=T6ODLlBpG6c&t=3039s)]*
 
 > <sup>[4](/bible/acts/2#v4)</sup> And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance.
->
-> <sup>[5](/bible/acts/2#v5)</sup> And there were dwelling at Jerusalem Jews, devout men, out of every nation under heaven.
->
-> <sup>[6](/bible/acts/2#v6)</sup> Now when this was noised abroad, the multitude came together, and were confounded, because that every man heard them speak in his own language.
->
-> <sup>[7](/bible/acts/2#v7)</sup> And they were all amazed and marvelled, saying one to another, Behold, are not all these which speak Galileans?
 
 - And they were all filled with the Holy Ghost: They was all filled with that Holy Spirit. Just like we filled with the Holy Spirit right now, Lord's will. You know what I mean? Said we were all filled with that Holy Spirit.
 
 - And began to speak with other tongues: And they began to speak in other tongues.
 
+> <sup>[5](/bible/acts/2#v5)</sup> And there were dwelling at Jerusalem Jews, devout men, out of every nation under heaven.
+
 - And there were dwelling at Jerusalem Jews, devout men, out of every nation under heaven: Devout men. Out of all these nations under heaven. Why? Because during Pentecost, Deuteronomy 16:16, it was commanded that all these Jews come back to Jerusalem, because the temple was still standing. So they still had to come sacrifice during the Pentecost. So this is why it's devout Jews out of all nations immersing on Jerusalem, on the temple.
 
+> <sup>[6](/bible/acts/2#v6)</sup> Now when this was noised abroad, the multitude came together, and were confounded, because that every man heard them speak in his own language.
+
 - And were confounded, because that every man heard them speak in his own language: See that, they was confounded. What the hell? These are the disciples. Y'all speak Hebrew, but I'm hearing you in Aramaic. I'm hearing you in Latin. I'm hearing you in the language that I grew up in. This is my native tongue. So that was a phenomenon. You understand? So it says this: it's not a sign for those that believe, but those that believe not. Oh, wait a minute. I can hear you, man. The Holy Spirit working with this dude. They was able to convert souls.
+
+> <sup>[7](/bible/acts/2#v7)</sup> And they were all amazed and marvelled, saying one to another, Behold, are not all these which speak Galileans?
 
 - And they were all amazed: They was all amazed.
 
@@ -409,12 +409,6 @@ Reading from On-screen text: what languages Paul spoke  *[[41:35](https://www.yo
 **[1 Corinthians 14:22-25](/bible/1-corinthians/14#v22)**  *[[52:38](https://www.youtube.com/watch?v=T6ODLlBpG6c&t=3158s)]*
 
 > <sup>[22](/bible/1-corinthians/14#v22)</sup> Wherefore tongues are for a sign, not to them that believe, but to them that believe not: but prophesying serveth not for them that believe not, but for them which believe.
->
-> <sup>[23](/bible/1-corinthians/14#v23)</sup> If therefore the whole church be come together into one place, and all speak with tongues, and there come in those that are unlearned, or unbelievers, will they not say that ye are mad?
->
-> <sup>[24](/bible/1-corinthians/14#v24)</sup> But if all prophesy, and there come in one that believeth not, or one unlearned, he is convinced of all, he is judged of all:
->
-> <sup>[25](/bible/1-corinthians/14#v25)</sup> And thus are the secrets of his heart made manifest; and so falling down on his face he will worship God, and report that God is in you of a truth.
 
 - Not to them that believe: Not to them that already understood Christ.
 
@@ -424,17 +418,23 @@ Reading from On-screen text: what languages Paul spoke  *[[41:35](https://www.yo
 
 - But for them which believe: Now it's to edify the church. Now we sitting in the body. Now they know. They know the gospel. Now you coming in. Now it's edifying time. Now it's prophecy time. You understand? Now you got to speak in a language that everybody can understand. You follow me?
 
+> <sup>[23](/bible/1-corinthians/14#v23)</sup> If therefore the whole church be come together into one place, and all speak with tongues, and there come in those that are unlearned, or unbelievers, will they not say that ye are mad?
+
 - If therefore the whole church be come together into one place: Now he's explaining it. If the whole church come together into one place, you done got them off the streets. You done converted them from out there. They was amazed that you spoke that language out there. Now they're coming all together into one place.
 
 - And all speak with tongues: And everybody's speaking in their own tongue at one time. Everybody's speaking: he's speaking Creole, he's speaking Spanish, he's speaking French. Everybody speaking at the same time.
 
 - And there come in those that are unlearned, or unbelievers, will they not say that ye are mad: He said, listen, y'all mad, because why? There's no order. This is what he's setting up now. There's no order here. Why are you speaking Creole? I don't speak that language and you don't have no interpreter. Why the hell are you speaking Spanish? I don't speak that. You brought me in here from freaking the Roman custom to this? The hell. He said, now you mad. You causing confusion. There's no edification that's going on.
 
+> <sup>[24](/bible/1-corinthians/14#v24)</sup> But if all prophesy, and there come in one that believeth not, or one unlearned, he is convinced of all, he is judged of all:
+
 - But if all prophesy, and there come in one that believeth not, or one unlearned: Or one unlearned.
 
 - He is convinced of all: Now he's convinced of all. Meaning now when you get that order, now you got the language. Okay, I'm convinced of all. Everybody's speaking the same things now. We all on one accord now. You got an interpreter. Okay, I understand exactly what he's saying. He's saying the same thing in Spanish you're saying. Why? Because it's interpreter there. Now he's convinced of all. So it ain't just a bunch of noise all around the church. Everybody's in their order, speaking with an interpreter.
 
 - He is judged of all: He's judged of all.
+
+> <sup>[25](/bible/1-corinthians/14#v25)</sup> And thus are the secrets of his heart made manifest; and so falling down on his face he will worship God, and report that God is in you of a truth.
 
 - And thus are the secrets of his heart made manifest: Now the word of God is made manifest. You want to know how you know now he understands this? Now he understands the word of God because why? It's a interpreter there. Now the secrets of his mind is made manifest. What manifest the secrets of the mind?
 
@@ -448,16 +448,6 @@ Reading from On-screen text: what languages Paul spoke  *[[41:35](https://www.yo
 **[1 Corinthians 14:25-30](/bible/1-corinthians/14#v25)**  *[[56:05](https://www.youtube.com/watch?v=T6ODLlBpG6c&t=3365s)]*
 
 > <sup>[25](/bible/1-corinthians/14#v25)</sup> And thus are the secrets of his heart made manifest; and so falling down on his face he will worship God, and report that God is in you of a truth.
->
-> <sup>[26](/bible/1-corinthians/14#v26)</sup> How is it then, brethren? when ye come together, every one of you hath a psalm, hath a doctrine, hath a tongue, hath a revelation, hath an interpretation. Let all things be done unto edifying.
->
-> <sup>[27](/bible/1-corinthians/14#v27)</sup> If any man speak in an unknown tongue, let it be by two, or at the most by three, and that by course; and let one interpret.
->
-> <sup>[28](/bible/1-corinthians/14#v28)</sup> But if there be no interpreter, let him keep silence in the church; and let him speak to himself, and to God.
->
-> <sup>[29](/bible/1-corinthians/14#v29)</sup> Let the prophets speak two or three, and let the other judge.
->
-> <sup>[30](/bible/1-corinthians/14#v30)</sup> If any thing be revealed to another that sitteth by, let the first hold his peace.
 
 - And thus are the secrets of his heart made manifest: Now he hears, now it's manifest.
 
@@ -465,7 +455,11 @@ Reading from On-screen text: what languages Paul spoke  *[[41:35](https://www.yo
 
 - And report that God is in you of a truth: And the report is, hey, that brother, the spirit working with that brother, I understood everything he was saying. Even though I don't speak that language, the interpreter let me know what he was saying is true. You understand? Period. That's how it works. This is what Paul's explaining.
 
+> <sup>[26](/bible/1-corinthians/14#v26)</sup> How is it then, brethren? when ye come together, every one of you hath a psalm, hath a doctrine, hath a tongue, hath a revelation, hath an interpretation. Let all things be done unto edifying.
+
 - How is it then, brethren? When ye come together, every one of you hath a psalm, hath a doctrine, hath a tongue, hath a revelation, hath an interpretation. Let all things be done unto edifying: He said, "Let it all be done edifying." Yeah, y'all might have psalms, you know, you might have a doctrine, you might have a revelation, an interpretation, but let it be done, let it be brought out to the edifying of the church. Don't everybody just go in there and just be speaking. He's going to explain what he's saying.
+
+> <sup>[27](/bible/1-corinthians/14#v27)</sup> If any man speak in an unknown tongue, let it be by two, or at the most by three, and that by course; and let one interpret.
 
 - If any man speak in an unknown tongue, let it be by two: Let it be by two. Pray that you have an interpreter.
 
@@ -473,13 +467,19 @@ Reading from On-screen text: what languages Paul spoke  *[[41:35](https://www.yo
 
 - And let one interpret: And let one interpret.
 
+> <sup>[28](/bible/1-corinthians/14#v28)</sup> But if there be no interpreter, let him keep silence in the church; and let him speak to himself, and to God.
+
 - But if there be no interpreter: But if you don't have no interpreter, you might be able to speak French fluently, you might be able to speak Spanish fluently, but you ain't got no interpreter.
 
 - Let him keep silence in the church: Shut up. He's telling you, be quiet in the church.
 
 - And let him speak to himself, and to God: Some of you brothers need to... never mind. For now, I see a brother that separated himself, just sitting at the corner. He must be speaking in tongues over there. He must be speaking in tongues over there. He must speak it to himself. So the scripture said, "Listen, if you speak in this unknown tongue and you don't have an interpreter, be quiet. Be quiet. Speak to yourself." You understand? Sharp. When you speaking to yourself, you stand sharp. You stand sharp. You understand? Because you never know. Somebody that speaks Spanish might walk in the door. Somebody might speak Creole, he might walk through the door. You understand? And we even got sign languages, they might walk through the door. So you practice your craft. You stay sharp in it so you can edify that next person. You understand?
 
+> <sup>[29](/bible/1-corinthians/14#v29)</sup> Let the prophets speak two or three, and let the other judge.
+
 - Let the prophets speak two or three, and let the other judge: And let the other judge.
+
+> <sup>[30](/bible/1-corinthians/14#v30)</sup> If any thing be revealed to another that sitteth by, let the first hold his peace.
 
 - If any thing be revealed to another that sitteth by, let the first hold his peace: He said, somebody might be up there speaking. They might be bringing out the psalms, bringing out the revelation. Then you got my brother over here, he speak the Creole. Something might come to his mind, you know, some edification. Damn, I need to bring this out. Let me add to the... Remember this scripture: a wise man add to the word. It say a wise man hear a word, and then what he do? He sit there and add to it.
 
@@ -493,16 +493,16 @@ Reading from On-screen text: what languages Paul spoke  *[[41:35](https://www.yo
 **[1 Corinthians 14:30-32](/bible/1-corinthians/14#v30)**  *[[1:01:13](https://www.youtube.com/watch?v=T6ODLlBpG6c&t=3673s)]*
 
 > <sup>[30](/bible/1-corinthians/14#v30)</sup> If any thing be revealed to another that sitteth by, let the first hold his peace.
->
-> <sup>[31](/bible/1-corinthians/14#v31)</sup> For ye may all prophesy one by one, that all may learn, and all may be comforted.
->
-> <sup>[32](/bible/1-corinthians/14#v32)</sup> And the spirits of the prophets are subject to the prophets.
 
 - If any thing be revealed to another that sitteth by, let the first hold his peace: Now he said, hey, look, hey, can I add to this? You know how when the bishops and the deacons, they be preaching, and Deac say, "Hey, hey, hey, bishop, can I say this?" Yeah. Can I add to this word? Yes. It said the first one, you hold your peace. You don't keep going. You hold your peace. Now, if you got an interpreter, you speak the Creole or the Spanish, you got an interpreter, okay, you go up, edify, add to it. You understand? That's how it's supposed to be done. Everything in order.
+
+> <sup>[31](/bible/1-corinthians/14#v31)</sup> For ye may all prophesy one by one, that all may learn, and all may be comforted.
 
 - For ye may all prophesy one by one: Prophesy one by one.
 
 - That all may learn, and all may be comforted: You see that? That all might learn and everybody might be comforted with what? The word of God. This is how he's building them up. Said don't be a child in understanding. Understand this. Understand the dynamics of a body. How body moves. How church needs to be edified. Be men in that understanding. But those divisions that y'all got, he said be children, man. Let that go.
+
+> <sup>[32](/bible/1-corinthians/14#v32)</sup> And the spirits of the prophets are subject to the prophets.
 
 - And the spirits of the prophets are subject to the prophets: He said, "And the spirits, if you got the spirit on you, you going to be subject to the other prophets. You ain't going to want to do your own thing, if the Holy Spirit is on you." Now, if the Holy Spirit ain't on you, you ain't going to be subject to the prophets. You gonna be self-willed. You gonna do your own thing. You understand? And what's going to eventually happen? You gonna be manifest.
 
@@ -557,18 +557,6 @@ Reading from On-screen text: Aphrodite  *[[1:07:04](https://www.youtube.com/watc
 **[1 Corinthians 14:34-40](/bible/1-corinthians/14#v34)**  *[[1:07:52](https://www.youtube.com/watch?v=T6ODLlBpG6c&t=4072s)]*
 
 > <sup>[34](/bible/1-corinthians/14#v34)</sup> Let your women keep silence in the churches: for it is not permitted unto them to speak; but they are commanded to be under obedience, as also saith the law.
->
-> <sup>[35](/bible/1-corinthians/14#v35)</sup> And if they will learn any thing, let them ask their husbands at home: for it is a shame for women to speak in the church.
->
-> <sup>[36](/bible/1-corinthians/14#v36)</sup> What? came the word of God out from you? or came it unto you only?
->
-> <sup>[37](/bible/1-corinthians/14#v37)</sup> If any man think himself to be a prophet, or spiritual, let him acknowledge that the things that I write unto you are the commandments of the Lord.
->
-> <sup>[38](/bible/1-corinthians/14#v38)</sup> But if any man be ignorant, let him be ignorant.
->
-> <sup>[39](/bible/1-corinthians/14#v39)</sup> Wherefore, brethren, covet to prophesy, and forbid not to speak with tongues.
->
-> <sup>[40](/bible/1-corinthians/14#v40)</sup> Let all things be done decently and in order.
 
 - Let your women keep silence in the churches: He said, "Listen, women be silenced when it comes to the edifying of the whole church."
 
@@ -576,19 +564,31 @@ Reading from On-screen text: Aphrodite  *[[1:07:04](https://www.youtube.com/watc
 
 - As also saith the law: Also saith Genesis 3:16. Thus says the law: it is commanded that they be under obedience, thus said the law.
 
+> <sup>[35](/bible/1-corinthians/14#v35)</sup> And if they will learn any thing, let them ask their husbands at home: for it is a shame for women to speak in the church.
+
 - And if they will learn any thing, let them ask their husbands at home: for it is a shame for women to speak in the church.
+
+> <sup>[36](/bible/1-corinthians/14#v36)</sup> What? came the word of God out from you? or came it unto you only?
+>
+> <sup>[37](/bible/1-corinthians/14#v37)</sup> If any man think himself to be a prophet, or spiritual, let him acknowledge that the things that I write unto you are the commandments of the Lord.
 
 - What? came the word of God out from you? or came it unto you only? If any man think himself to be a prophet, or spiritual: If you think to be a prophet or you think to be spiritual.
 
 - Let him acknowledge that the things that I write unto you are the commandments of the Lord: So don't think that you special. That's what he's saying to those in Corinth. You think the word of God only came to you only. You think you the only one that got these spiritual gifts. If you deem yourself as spiritual, or if you deem yourself as a prophet, the first thing you need to acknowledge: that the things that I'm writing, these instructions that I'm writing to you how to operate within the church, let you know that these are commandments of the Lord. He's not the author of confusion.
 
+> <sup>[38](/bible/1-corinthians/14#v38)</sup> But if any man be ignorant, let him be ignorant.
+
 - But if any man be ignorant: But if you without the spirit and you be ignorant.
 
 - Let him be ignorant: You stay in your sin. You be ignorant and you be manifested.
 
+> <sup>[39](/bible/1-corinthians/14#v39)</sup> Wherefore, brethren, covet to prophesy, and forbid not to speak with tongues.
+
 - Wherefore, brethren, covet to prophesy: He said, "Wherefore, brethren, covet. Covet those spiritual gifts to prophesy, to edify."
 
 - And forbid not to speak with tongues: Yeah. He said, "Don't stop speaking in tongues."
+
+> <sup>[40](/bible/1-corinthians/14#v40)</sup> Let all things be done decently and in order.
 
 - Let all things be done decently and in order: But just let all things be done decently and in order. You understand?
 

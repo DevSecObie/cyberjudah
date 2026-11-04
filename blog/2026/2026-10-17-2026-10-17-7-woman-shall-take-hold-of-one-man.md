@@ -103,15 +103,9 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "prophecy", "wa
 
 **[Joel 2:28-31](/bible/joel/2#v28)**  *[[20:49](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=1249s)]*
 
-> <sup>[28](/bible/joel/2#v28)</sup> And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:
->
-> <sup>[29](/bible/joel/2#v29)</sup> And also upon the servants and upon the handmaids in those days will I pour out my spirit.
->
-> <sup>[30](/bible/joel/2#v30)</sup> And I will shew wonders in the heavens and in the earth, blood, and fire, and pillars of smoke.
->
-> <sup>[31](/bible/joel/2#v31)</sup> The sun shall be turned into darkness, and the moon into blood, before the great and the terrible day of the Lord come.
-
 - That's the time we living in right now: God is pouring his spirit, the Holy Spirit, on the bishops, and it trickles down to the deacons, to you brothers, and to all of you sisters. That's why you are here.
+
+> <sup>[28](/bible/joel/2#v28)</sup> And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:
 
 - Your sons and your daughters shall prophesy: they will be prophets and prophetesses in these last days.
 
@@ -120,6 +114,12 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "prophecy", "wa
 - That spirit is the spirit of Christ, that gives us the ability to prophesy.
 
 - When we prophesy, wonders take place in the heavens; the wonders are destruction, blood and fire, and pillars of smoke is talking about war, which you see taking place right now.
+
+> <sup>[29](/bible/joel/2#v29)</sup> And also upon the servants and upon the handmaids in those days will I pour out my spirit.
+>
+> <sup>[30](/bible/joel/2#v30)</sup> And I will shew wonders in the heavens and in the earth, blood, and fire, and pillars of smoke.
+>
+> <sup>[31](/bible/joel/2#v31)</sup> The sun shall be turned into darkness, and the moon into blood, before the great and the terrible day of the Lord come.
 
 
 **[Numbers 12:1-4](/bible/numbers/12#v1)**  *[[25:15](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=1515s)]*
@@ -166,12 +166,20 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "prophecy", "wa
 
 **[Jeremiah 44:15-22](/bible/jeremiah/44#v15)**  *[[34:55](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=2095s)]*
 
+- An example of how they destroy us: We will not hearken unto thee. The same spirit is on the black woman today; we come and speak to y'all in the name of the Lord and you say, I'm not listening to you.
+
+- The husbands knew their wives burned incense to other gods, but they couldn't do nothing about it because these men were weak, being led by the woman (Isaiah 3:12).
+
 > <sup>[15](/bible/jeremiah/44#v15)</sup> Then all the men which knew that their wives had burned incense unto other gods, and all the women that stood by, a great multitude, even all the people that dwelt in the land of Egypt, in Pathros, answered Jeremiah, saying,
 >
 > <sup>[16](/bible/jeremiah/44#v16)</sup> As for the word that thou hast spoken unto us in the name of the Lord, we will not hearken unto thee.
 >
 > <sup>[17](/bible/jeremiah/44#v17)</sup> But we will certainly do whatsoever thing goeth forth out of our own mouth, to burn incense unto the queen of heaven, and to pour out drink offerings unto her, as we have done, we, and our fathers, our kings, and our princes, in the cities of Judah, and in the streets of Jerusalem: for then had we plenty of victuals, and were well, and saw no evil.
->
+
+- We will certainly do whatsoever thing goeth forth out of our own mouth: that's the state of mind of the Americanized black woman. They don't want to do what God says or what the prophets tell them. The men of IUIC are prophets.
+
+- When we burned incense to Isis, queen of heaven, we were rich: our women today do the same, but they trust in the white man, white Jesus, Christianity, and drag their kids and husbands into that debt trap.
+
 > <sup>[18](/bible/jeremiah/44#v18)</sup> But since we left off to burn incense to the queen of heaven, and to pour out drink offerings unto her, we have wanted all things, and have been consumed by the sword and by the famine.
 >
 > <sup>[19](/bible/jeremiah/44#v19)</sup> And when we burned incense to the queen of heaven, and poured out drink offerings unto her, did we make her cakes to worship her, and pour out drink offerings unto her, without our men?
@@ -182,28 +190,16 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "prophecy", "wa
 >
 > <sup>[22](/bible/jeremiah/44#v22)</sup> So that the Lord could no longer bear, because of the evil of your doings, and because of the abominations which ye have committed; therefore is your land a desolation, and an astonishment, and a curse, without an inhabitant, as at this day.
 
-- An example of how they destroy us: We will not hearken unto thee. The same spirit is on the black woman today; we come and speak to y'all in the name of the Lord and you say, I'm not listening to you.
-
-- The husbands knew their wives burned incense to other gods, but they couldn't do nothing about it because these men were weak, being led by the woman (Isaiah 3:12).
-
-- We will certainly do whatsoever thing goeth forth out of our own mouth: that's the state of mind of the Americanized black woman. They don't want to do what God says or what the prophets tell them. The men of IUIC are prophets.
-
-- When we burned incense to Isis, queen of heaven, we were rich: our women today do the same, but they trust in the white man, white Jesus, Christianity, and drag their kids and husbands into that debt trap.
-
 - Therefore is your land a desolation: when you listen to and follow the Americanized black woman, the Negropian, a negro that acts like a European, she will destroy the way of your paths.
 
 
 **[Ezekiel 13:17-20](/bible/ezekiel/13#v17)**  *[[41:12](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=2472s)]*
 
+- God commands us to set our face against the daughters of our people. Not because the Lord hates woman, but because of Isaiah 3:12: the woman leading the men causes God's people to err, and they were burning incense to idols.
+
 > <sup>[17](/bible/ezekiel/13#v17)</sup> Likewise, thou son of man, set thy face against the daughters of thy people, which prophesy out of their own heart; and prophesy thou against them,
 >
 > <sup>[18](/bible/ezekiel/13#v18)</sup> And say, Thus saith the Lord God; Woe to the women that sew pillows to all armholes, and make kerchiefs upon the head of every stature to hunt souls! Will ye hunt the souls of my people, and will ye save the souls alive that come unto you?
->
-> <sup>[19](/bible/ezekiel/13#v19)</sup> And will ye pollute me among my people for handfuls of barley and for pieces of bread, to slay the souls that should not die, and to save the souls alive that should not live, by your lying to my people that hear your lies?
->
-> <sup>[20](/bible/ezekiel/13#v20)</sup> Wherefore thus saith the Lord God; Behold, I am against your pillows, wherewith ye there hunt the souls to make them fly, and I will tear them from your arms, and will let the souls go, even the souls that ye hunt to make them fly.
-
-- God commands us to set our face against the daughters of our people. Not because the Lord hates woman, but because of Isaiah 3:12: the woman leading the men causes God's people to err, and they were burning incense to idols.
 
 - To hunt souls: every brother whose mother forced him into the Christian church, every married man whose woman dragged him to worship white Jesus, she's destroying your soul. The black woman hunts the souls of God's people through religion.
 
@@ -212,6 +208,10 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "prophecy", "wa
 - By lying to my people: the black woman follows lies in the Christian church or whatever false religion, and teaches it to the kids and the husband, and the husband is so weak he won't say nothing. Jesus Christ is not white; he's a black man.
 
 - God will tear them from your arms and let the souls go by raising up prophets, whom he has commanded to set their face against the daughters of his people.
+
+> <sup>[19](/bible/ezekiel/13#v19)</sup> And will ye pollute me among my people for handfuls of barley and for pieces of bread, to slay the souls that should not die, and to save the souls alive that should not live, by your lying to my people that hear your lies?
+>
+> <sup>[20](/bible/ezekiel/13#v20)</sup> Wherefore thus saith the Lord God; Behold, I am against your pillows, wherewith ye there hunt the souls to make them fly, and I will tear them from your arms, and will let the souls go, even the souls that ye hunt to make them fly.
 
 
 **[Revelation 11:8](/bible/revelation/11#v8)**  *[[48:13](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=2893s)]*
@@ -229,6 +229,12 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "prophecy", "wa
 
 **[Matthew 23:29-39](/bible/matthew/23#v29)**  *[[50:15](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=3015s)]*
 
+- The Pharisees said, if we had been around back then we would not have killed the prophets; but ye are the children of them which killed the prophets.
+
+- I send unto you prophets and some of them ye shall kill and crucify: that happened in the time of the apostles, and the same thing is going to happen again today.
+
+- America is not just spiritual Egypt and spiritual Sodom; spiritual Israel is here too, every wicked Israelite you could think about, right here in Babylon.
+
 > <sup>[29](/bible/matthew/23#v29)</sup> Woe unto you, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and garnish the sepulchres of the righteous,
 >
 > <sup>[30](/bible/matthew/23#v30)</sup> And say, If we had been in the days of our fathers, we would not have been partakers with them in the blood of the prophets.
@@ -244,18 +250,6 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "prophecy", "wa
 > <sup>[35](/bible/matthew/23#v35)</sup> That upon you may come all the righteous blood shed upon the earth, from the blood of righteous Abel unto the blood of Zacharias son of Barachias, whom ye slew between the temple and the altar.
 >
 > <sup>[36](/bible/matthew/23#v36)</sup> Verily I say unto you, All these things shall come upon this generation.
->
-> <sup>[37](/bible/matthew/23#v37)</sup> O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!
->
-> <sup>[38](/bible/matthew/23#v38)</sup> Behold, your house is left unto you desolate.
->
-> <sup>[39](/bible/matthew/23#v39)</sup> For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh in the name of the Lord.
-
-- The Pharisees said, if we had been around back then we would not have killed the prophets; but ye are the children of them which killed the prophets.
-
-- I send unto you prophets and some of them ye shall kill and crucify: that happened in the time of the apostles, and the same thing is going to happen again today.
-
-- America is not just spiritual Egypt and spiritual Sodom; spiritual Israel is here too, every wicked Israelite you could think about, right here in Babylon.
 
 - All these things shall come upon this generation: that wicked generation died, but they will be here again in the last days.
 
@@ -273,32 +267,38 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "prophecy", "wa
 
     They also which pierced him shall see him: the same soldiers that pierced Christ in the side will be alive when he returns.
 
+> <sup>[37](/bible/matthew/23#v37)</sup> O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!
+>
+> <sup>[38](/bible/matthew/23#v38)</sup> Behold, your house is left unto you desolate.
+>
+> <sup>[39](/bible/matthew/23#v39)</sup> For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh in the name of the Lord.
+
 
 **[Isaiah 32:8-13](/bible/isaiah/32#v8)**  *[[59:07](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=3547s)]*
-
-> <sup>[8](/bible/isaiah/32#v8)</sup> But the liberal deviseth liberal things; and by liberal things shall he stand.
->
-> <sup>[9](/bible/isaiah/32#v9)</sup> Rise up, ye women that are at ease; hear my voice, ye careless daughters; give ear unto my speech.
->
-> <sup>[10](/bible/isaiah/32#v10)</sup> Many days and years shall ye be troubled, ye careless women: for the vintage shall fail, the gathering shall not come.
->
-> <sup>[11](/bible/isaiah/32#v11)</sup> Tremble, ye women that are at ease; be troubled, ye careless ones: strip you, and make you bare, and gird sackcloth upon your loins.
->
-> <sup>[12](/bible/isaiah/32#v12)</sup> They shall lament for the teats, for the pleasant fields, for the fruitful vine.
->
-> <sup>[13](/bible/isaiah/32#v13)</sup> Upon the land of my people shall come up thorns and briers; yea, upon all the houses of joy in the joyous city:
 
 - What was done in ancient Israel is the same thing being done here in America: our women were ruling over us in our land.
 
 - Liberal women are freethinkers who do what they feel like doing, like the women who told Jeremiah, We will not hearken; that feminist spirit was in the land of Israel then, and it is the same spirit here today.
 
+> <sup>[8](/bible/isaiah/32#v8)</sup> But the liberal deviseth liberal things; and by liberal things shall he stand.
+>
+> <sup>[9](/bible/isaiah/32#v9)</sup> Rise up, ye women that are at ease; hear my voice, ye careless daughters; give ear unto my speech.
+
 - Rise up, ye women that are at ease: God is going to do something to wake you up out of that comfortability.
 
 - Ye careless daughters: our women back then lived carefree, and a lot of you sisters live carefree today; the government gives you food and pays your rent.
 
+> <sup>[10](/bible/isaiah/32#v10)</sup> Many days and years shall ye be troubled, ye careless women: for the vintage shall fail, the gathering shall not come.
+
 - Many days and years shall ye be troubled: historically the war came, that good living ended, and the weak men they ruled over became slaves or were killed. It is twofold, and it's our job to warn you.
 
 - The vintage shall fail: the food stamps, the Medicaid, the government taking care of you, it's coming to an end. Tremble, ye women that are at ease; death, destruction, war and famine are coming.
+
+> <sup>[11](/bible/isaiah/32#v11)</sup> Tremble, ye women that are at ease; be troubled, ye careless ones: strip you, and make you bare, and gird sackcloth upon your loins.
+>
+> <sup>[12](/bible/isaiah/32#v12)</sup> They shall lament for the teats, for the pleasant fields, for the fruitful vine.
+>
+> <sup>[13](/bible/isaiah/32#v13)</sup> Upon the land of my people shall come up thorns and briers; yea, upon all the houses of joy in the joyous city:
 
 
 *[[1:05:41](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=3941s)]* **In The News: A report that the Department of Justice is dropping 57 school desegregation cases, most of them in the South** — The liberal things are failing: the desegregation laws the black woman trusted in, the education she says the white man gave her, are coming to an end.
@@ -307,10 +307,18 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "prophecy", "wa
 
 **[Isaiah 3:16-26](/bible/isaiah/3#v16)**  *[[1:10:04](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=4204s)]*
 
+- The daughters of Zion are haughty, proud, with stretched forth necks and wanton, lustful eyes: that's the spirit on black women here in America; they think they the crap.
+
+- The scab on the crown of the head is the many days you shall be troubled of Isaiah 32, historically: the Babylonians came and destroyed Jerusalem.
+
 > <sup>[16](/bible/isaiah/3#v16)</sup> Moreover the Lord saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing as they go, and making a tinkling with their feet:
 >
 > <sup>[17](/bible/isaiah/3#v17)</sup> Therefore the Lord will smite with a scab the crown of the head of the daughters of Zion, and the Lord will discover their secret parts.
->
+
+- The Lord will discover their secret parts: Nebuchadnezzar stripped them naked when Babylon enslaved us, and the same happened to us in slavery.
+
+- Instead of sweet smell there shall be stink and burning instead of beauty, because of war and famine.
+
 > <sup>[18](/bible/isaiah/3#v18)</sup> In that day the Lord will take away the bravery of their tinkling ornaments about their feet, and their cauls, and their round tires like the moon,
 >
 > <sup>[19](/bible/isaiah/3#v19)</sup> The chains, and the bracelets, and the mufflers,
@@ -326,20 +334,12 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "prophecy", "wa
 > <sup>[24](/bible/isaiah/3#v24)</sup> And it shall come to pass, that instead of sweet smell there shall be stink; and instead of a girdle a rent; and instead of well set hair baldness; and instead of a stomacher a girding of sackcloth; and burning instead of beauty.
 >
 > <sup>[25](/bible/isaiah/3#v25)</sup> Thy men shall fall by the sword, and thy mighty in the war.
->
-> <sup>[26](/bible/isaiah/3#v26)</sup> And her gates shall lament and mourn; and she being desolate shall sit upon the ground.
-
-- The daughters of Zion are haughty, proud, with stretched forth necks and wanton, lustful eyes: that's the spirit on black women here in America; they think they the crap.
-
-- The scab on the crown of the head is the many days you shall be troubled of Isaiah 32, historically: the Babylonians came and destroyed Jerusalem.
-
-- The Lord will discover their secret parts: Nebuchadnezzar stripped them naked when Babylon enslaved us, and the same happened to us in slavery.
-
-- Instead of sweet smell there shall be stink and burning instead of beauty, because of war and famine.
 
 - Thy men shall fall by the sword: the husbands were killed in war, and the women lamented and sat desolate upon the ground.
 
 - Chapter 4 verse 1 is a continuation of chapter 3 but goes into the future too: everything is like a ring, it is going to come back again. It's not about sex and it's not about marrying seven women; you think brothers are studying about sex when things get crazy?
+
+> <sup>[26](/bible/isaiah/3#v26)</sup> And her gates shall lament and mourn; and she being desolate shall sit upon the ground.
 
 
 **[Jeremiah 50:16](/bible/jeremiah/50#v16)**  *[[1:17:16](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=4636s)]*
@@ -375,6 +375,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "prophecy", "wa
 
 **[Matthew 24:3-8](/bible/matthew/24#v3)**  *[[1:21:01](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=4861s)]*
 
+- Before Christ returns you shall hear of wars and rumors of wars, nation against nation and kingdom against kingdom.
+
 > <sup>[3](/bible/matthew/24#v3)</sup> And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world?
 >
 > <sup>[4](/bible/matthew/24#v4)</sup> And Jesus answered and said unto them, Take heed that no man deceive you.
@@ -384,12 +386,10 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "prophecy", "wa
 > <sup>[6](/bible/matthew/24#v6)</sup> And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.
 >
 > <sup>[7](/bible/matthew/24#v7)</sup> For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.
->
-> <sup>[8](/bible/matthew/24#v8)</sup> All these are the beginning of sorrows.
-
-- Before Christ returns you shall hear of wars and rumors of wars, nation against nation and kingdom against kingdom.
 
 - There shall be famines and pestilences: when they start taking place, along with the wars, that's what God is going to use to wake up a lot of our people here in Babylon.
+
+> <sup>[8](/bible/matthew/24#v8)</sup> All these are the beginning of sorrows.
 
 - These are the beginning of sorrows: what you see happening in the world right now is just the beginning.
 
@@ -417,31 +417,25 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "prophecy", "wa
 
 **[1 Corinthians 7:24-32](/bible/1-corinthians/7#v24)**  *[[1:34:02](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=5642s)]*
 
+- This shows what happened in the time of the apostles and what is going to happen today when the many days of trouble come.
+
+- Let every man abide wherein he is called, because believers in Christ were dying, going to prison and on the run.
+
 > <sup>[24](/bible/1-corinthians/7#v24)</sup> Brethren, let every man, wherein he is called, therein abide with God.
 >
 > <sup>[25](/bible/1-corinthians/7#v25)</sup> Now concerning virgins I have no commandment of the Lord: yet I give my judgment, as one that hath obtained mercy of the Lord to be faithful.
 >
 > <sup>[26](/bible/1-corinthians/7#v26)</sup> I suppose therefore that this is good for the present distress, I say, that it is good for a man so to be.
->
-> <sup>[27](/bible/1-corinthians/7#v27)</sup> Art thou bound unto a wife? seek not to be loosed. Art thou loosed from a wife? seek not a wife.
->
-> <sup>[28](/bible/1-corinthians/7#v28)</sup> But and if thou marry, thou hast not sinned; and if a virgin marry, she hath not sinned. Nevertheless such shall have trouble in the flesh: but I spare you.
->
-> <sup>[29](/bible/1-corinthians/7#v29)</sup> But this I say, brethren, the time is short: it remaineth, that both they that have wives be as though they had none;
->
-> <sup>[30](/bible/1-corinthians/7#v30)</sup> And they that weep, as though they wept not; and they that rejoice, as though they rejoiced not; and they that buy, as though they possessed not;
->
-> <sup>[31](/bible/1-corinthians/7#v31)</sup> And they that use this world, as not abusing it: for the fashion of this world passeth away.
->
-> <sup>[32](/bible/1-corinthians/7#v32)</sup> But I would have you without carefulness. He that is unmarried careth for the things that belong to the Lord, how he may please the Lord:
-
-- This shows what happened in the time of the apostles and what is going to happen today when the many days of trouble come.
-
-- Let every man abide wherein he is called, because believers in Christ were dying, going to prison and on the run.
 
 - Good for the present distress: what Paul gave was not a law you just do, but advice because of what the church was going through at that time.
 
+> <sup>[27](/bible/1-corinthians/7#v27)</sup> Art thou bound unto a wife? seek not to be loosed. Art thou loosed from a wife? seek not a wife.
+>
+> <sup>[28](/bible/1-corinthians/7#v28)</sup> But and if thou marry, thou hast not sinned; and if a virgin marry, she hath not sinned. Nevertheless such shall have trouble in the flesh: but I spare you.
+
 - Such shall have trouble in the flesh: we use it for not paying the rent or you and your wife getting into an argument, but it's talking about our people being persecuted and killed on the run. If you marry, you might end up in jail.
+
+> <sup>[29](/bible/1-corinthians/7#v29)</sup> But this I say, brethren, the time is short: it remaineth, that both they that have wives be as though they had none;
 
 - They that have wives be as though they had none: you could be separated from your wife, go to prison or be killed.
 
@@ -451,19 +445,31 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "prophecy", "wa
 
     The present distress was the great persecution against the church at Jerusalem; they were all scattered abroad and had to flee and go on the run.
 
+> <sup>[30](/bible/1-corinthians/7#v30)</sup> And they that weep, as though they wept not; and they that rejoice, as though they rejoiced not; and they that buy, as though they possessed not;
+>
+> <sup>[31](/bible/1-corinthians/7#v31)</sup> And they that use this world, as not abusing it: for the fashion of this world passeth away.
+>
+> <sup>[32](/bible/1-corinthians/7#v32)</sup> But I would have you without carefulness. He that is unmarried careth for the things that belong to the Lord, how he may please the Lord:
+
 
 **[2 Esdras 16:32-48](/bible/2-esdras/16#v32)**  *[[1:41:01](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=6061s)]*
 
 > <sup>[32](/bible/2-esdras/16#v32)</sup> And the earth shall be laid waste, and the fields thereof shall wax old, and her ways and all her paths shall grow full of thorns, because no man shall travel therethrough.
 >
 > <sup>[33](/bible/2-esdras/16#v33)</sup> The virgins shall mourn, having no bridegrooms; the women shall mourn, having no husbands; their daughters shall mourn, having no helpers.
->
+
+- The virgins shall mourn having no bridegrooms: in the wars shall their bridegrooms be destroyed. That goes into civil war here in America; remember Isaiah 3, thy men shall fall in the war.
+
 > <sup>[34](/bible/2-esdras/16#v34)</sup> In the wars shall their bridegrooms be destroyed, and their husbands shall perish of famine.
 >
 > <sup>[35](/bible/2-esdras/16#v35)</sup> Hear now these things and understand them, ye servants of the Lord.
 >
 > <sup>[36](/bible/2-esdras/16#v36)</sup> Behold, the word of the Lord, receive it: believe not the gods of whom the Lord spake.
->
+
+- Believe not the gods: don't believe in white Jesus, in Buddha, in the Nation of Islam. The plagues draw nigh and are not slack; death, destruction and famine are drawing near and it is going to get worse and worse.
+
+- O my people, make you ready to the battle: the men of God will prepare, and to prepare we have to gather together. We need communities, to produce our own, to separate from this system and become self-sufficient.
+
 > <sup>[37](/bible/2-esdras/16#v37)</sup> Behold, the plagues draw nigh, and are not slack.
 >
 > <sup>[38](/bible/2-esdras/16#v38)</sup> As when a woman with child in the ninth month bringeth forth her son, with two or three hours of her birth great pains compass her womb, which pains, when the child cometh forth, they slack not a moment:
@@ -475,65 +481,51 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "prophecy", "wa
 > <sup>[41](/bible/2-esdras/16#v41)</sup> He that selleth, let him be as he that fleeth away: and he that buyeth, as one that will lose:
 >
 > <sup>[42](/bible/2-esdras/16#v42)</sup> He that occupieth merchandise, as he that hath no profit by it: and he that buildeth, as he that shall not dwell therein:
->
-> <sup>[43](/bible/2-esdras/16#v43)</sup> He that soweth, as if he should not reap: so also he that planteth the vineyard, as he that shall not gather the grapes:
->
-> <sup>[44](/bible/2-esdras/16#v44)</sup> They that marry, as they that shall get no children; and they that marry not, as the widowers.
->
-> <sup>[45](/bible/2-esdras/16#v45)</sup> And therefore they that labour labour in vain:
->
-> <sup>[46](/bible/2-esdras/16#v46)</sup> For strangers shall reap their fruits, and spoil their goods, overthrow their houses, and take their children captives, for in captivity and famine shall they get children.
->
-> <sup>[47](/bible/2-esdras/16#v47)</sup> And they that occupy their merchandise with robbery, the more they deck their cities, their houses, their possessions, and their own persons:
->
-> <sup>[48](/bible/2-esdras/16#v48)</sup> The more will I be angry with them for their sin, saith the Lord.
-
-- The virgins shall mourn having no bridegrooms: in the wars shall their bridegrooms be destroyed. That goes into civil war here in America; remember Isaiah 3, thy men shall fall in the war.
-
-- Believe not the gods: don't believe in white Jesus, in Buddha, in the Nation of Islam. The plagues draw nigh and are not slack; death, destruction and famine are drawing near and it is going to get worse and worse.
-
-- O my people, make you ready to the battle: the men of God will prepare, and to prepare we have to gather together. We need communities, to produce our own, to separate from this system and become self-sufficient.
 
 - He that buildeth as he that shall not dwell therein: you can't hold on to the materialistic things of this world. We will build communities and might lose some of them to Esau, so have plan A, B and C.
 
+> <sup>[43](/bible/2-esdras/16#v43)</sup> He that soweth, as if he should not reap: so also he that planteth the vineyard, as he that shall not gather the grapes:
+>
+> <sup>[44](/bible/2-esdras/16#v44)</sup> They that marry, as they that shall get no children; and they that marry not, as the widowers.
+
 - They that marry as they that shall get no children: this is the trouble in the flesh Paul was talking about. It's going to be so bad your mind ain't going to be on no penis, neither you brothers' minds on no vagina; it's not about seven women coming to marry you.
+
+> <sup>[45](/bible/2-esdras/16#v45)</sup> And therefore they that labour labour in vain:
+>
+> <sup>[46](/bible/2-esdras/16#v46)</sup> For strangers shall reap their fruits, and spoil their goods, overthrow their houses, and take their children captives, for in captivity and famine shall they get children.
 
 - In captivity and famine shall they get children: in concentration camps and prison camps all over America during that civil war. That's why sisters must learn how to give birth to babies themselves; the doctors do not care about us.
 
 - The more they deck their cities and houses: the government and regular people are going to rob us of the food and resources we stored because we made ready; we will defend as much as we can, and if we are losing we go to another place, because we prepared.
 
+> <sup>[47](/bible/2-esdras/16#v47)</sup> And they that occupy their merchandise with robbery, the more they deck their cities, their houses, their possessions, and their own persons:
+>
+> <sup>[48](/bible/2-esdras/16#v48)</sup> The more will I be angry with them for their sin, saith the Lord.
+
 
 **[Isaiah 32:1-10](/bible/isaiah/32#v1)**  *[[2:03:00](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=7380s)]*
 
 > <sup>[1](/bible/isaiah/32#v1)</sup> Behold, a king shall reign in righteousness, and princes shall rule in judgment.
->
-> <sup>[2](/bible/isaiah/32#v2)</sup> And a man shall be as an hiding place from the wind, and a covert from the tempest; as rivers of water in a dry place, as the shadow of a great rock in a weary land.
->
-> <sup>[3](/bible/isaiah/32#v3)</sup> And the eyes of them that see shall not be dim, and the ears of them that hear shall hearken.
->
-> <sup>[4](/bible/isaiah/32#v4)</sup> The heart also of the rash shall understand knowledge, and the tongue of the stammerers shall be ready to speak plainly.
->
-> <sup>[5](/bible/isaiah/32#v5)</sup> The vile person shall be no more called liberal, nor the churl said to be bountiful.
->
-> <sup>[6](/bible/isaiah/32#v6)</sup> For the vile person will speak villany, and his heart will work iniquity, to practise hypocrisy, and to utter error against the Lord, to make empty the soul of the hungry, and he will cause the drink of the thirsty to fail.
->
-> <sup>[7](/bible/isaiah/32#v7)</sup> The instruments also of the churl are evil: he deviseth wicked devices to destroy the poor with lying words, even when the needy speaketh right.
->
-> <sup>[8](/bible/isaiah/32#v8)</sup> But the liberal deviseth liberal things; and by liberal things shall he stand.
->
-> <sup>[9](/bible/isaiah/32#v9)</sup> Rise up, ye women that are at ease; hear my voice, ye careless daughters; give ear unto my speech.
->
-> <sup>[10](/bible/isaiah/32#v10)</sup> Many days and years shall ye be troubled, ye careless women: for the vintage shall fail, the gathering shall not come.
 
 - A king shall reign in righteousness: this is when Christ returns.
 
+> <sup>[2](/bible/isaiah/32#v2)</sup> And a man shall be as an hiding place from the wind, and a covert from the tempest; as rivers of water in a dry place, as the shadow of a great rock in a weary land.
+
 - A man shall be as an hiding place: that man is the man we read about in Isaiah 4. That man is a leader, a prophet, a man of God; and it's not talking about one man, it's talking about many men.
+
+> <sup>[3](/bible/isaiah/32#v3)</sup> And the eyes of them that see shall not be dim, and the ears of them that hear shall hearken.
 
 - The eyes of them that see shall not be dim: we are reading this prophecy happening right now. It started with Bishop Nathanyel, and it trickled down to the deacons, the captains, the officers. Y'all are the men that got that water.
 
 - The tongue of the stammerers shall speak plainly: brothers are going to teach the Bible plainly, who the devil is, who Esau is, what is going to happen. Christ is a black man, we are the Israelites, and Christ is coming to destroy the governments of this world. That's plain.
 
+> <sup>[4](/bible/isaiah/32#v4)</sup> The heart also of the rash shall understand knowledge, and the tongue of the stammerers shall be ready to speak plainly.
+>
+> <sup>[5](/bible/isaiah/32#v5)</sup> The vile person shall be no more called liberal, nor the churl said to be bountiful.
+
 - The vile person shall be no more called liberal: we are going to reveal that the liberals are the wicked. These Christians say they love Jesus and they liberal; you are not liberal, you are evil.
+
+> <sup>[6](/bible/isaiah/32#v6)</sup> For the vile person will speak villany, and his heart will work iniquity, to practise hypocrisy, and to utter error against the Lord, to make empty the soul of the hungry, and he will cause the drink of the thirsty to fail.
 
 - He will cause the drink of the thirsty to fail: they will kill and imprison some of the leaders to stop the water. But the women that are at ease will rise up because of the men in verse 2.
 
@@ -571,22 +563,30 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "prophecy", "wa
 
     Precept upon precept, line upon line, is the stammering lips; now it is not going to be stammering no more, we are going to speak plainly.
 
+> <sup>[7](/bible/isaiah/32#v7)</sup> The instruments also of the churl are evil: he deviseth wicked devices to destroy the poor with lying words, even when the needy speaketh right.
+>
+> <sup>[8](/bible/isaiah/32#v8)</sup> But the liberal deviseth liberal things; and by liberal things shall he stand.
+>
+> <sup>[9](/bible/isaiah/32#v9)</sup> Rise up, ye women that are at ease; hear my voice, ye careless daughters; give ear unto my speech.
+>
+> <sup>[10](/bible/isaiah/32#v10)</sup> Many days and years shall ye be troubled, ye careless women: for the vintage shall fail, the gathering shall not come.
+
 
 **[Isaiah 4:1-2](/bible/isaiah/4#v1)**  *[[2:20:14](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=8414s)]*
-
-> <sup>[1](/bible/isaiah/4#v1)</sup> And in that day seven women shall take hold of one man, saying, We will eat our own bread, and wear our own apparel: only let us be called by thy name, to take away our reproach.
->
-> <sup>[2](/bible/isaiah/4#v2)</sup> In that day shall the branch of the Lord be beautiful and glorious, and the fruit of the earth shall be excellent and comely for them that are escaped of Israel.
 
 - That one man is Bishop Nathanyel, Bishop Kani, the deacons, the captains: seven women shall take hold of the leaders, like the widows the leaders took care of in the time of the apostles. It's not talking about us having sex with you all and marrying you all.
 
 - Seven women is going into a complete number, and that man is thousands of men who will lead and guide the people. Their job is to help you.
+
+> <sup>[1](/bible/isaiah/4#v1)</sup> And in that day seven women shall take hold of one man, saying, We will eat our own bread, and wear our own apparel: only let us be called by thy name, to take away our reproach.
 
 - We will eat our own bread and wear our own apparel: you sisters take care of yourselves and help us in this truth.
 
 - Only let us be called by thy name: that name is Israel. You are being taught who you are, your nationality, and called by our name.
 
 - To take away our reproach: the reproach is being liberal, rebellious, ruling over your men, everything in Isaiah 3. It is not taken away because I marry seven women; you have to repent and change your life and keep God's commandments.
+
+> <sup>[2](/bible/isaiah/4#v2)</sup> In that day shall the branch of the Lord be beautiful and glorious, and the fruit of the earth shall be excellent and comely for them that are escaped of Israel.
 
 - In that day shall the branch of the Lord be beautiful: when you sisters change, the branches of the Lord will be beautiful when the Lord returns, what we celebrate in Tabernacles with the goodly boughs and branches; and it is for them that are escaped of Israel.
 

@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: Luke 21:16"
 slug: "2025/2025-06-18-giving-the-sense-from-a-to-z-luke-21-16"
 date: "2025-06-18"
-teacher: "Captain Matt"
+teacher: "Captain Matthew"
 description: "Giving The Sense From A to Z · 2025-06-18"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "prophecy"]
@@ -46,10 +46,10 @@ tags: ["15 Minutes w/ The Captains", "prophecy"]
 **[Micah 7:5-6](/bible/micah/7#v5)**  *[[7:39](https://www.youtube.com/watch?v=ro0Wrkh6brA&t=459s)]*
 
 > <sup>[5](/bible/micah/7#v5)</sup> Trust ye not in a friend, put ye not confidence in a guide: keep the doors of thy mouth from her that lieth in thy bosom.
->
-> <sup>[6](/bible/micah/7#v6)</sup> For the son dishonoureth the father, the daughter riseth up against her mother, the daughter in law against her mother in law; a man’s enemies are the men of his own house.
 
 - Trust ye not in a friend. Put ye not confidence in a guide. Keep the doors of thy mouth from her that lieth in thy bosom: When it say trust not in a friend, don't go telling all of your secrets to people that you call friends. Why? Because in due time some of them may be pressured to give you up. Some of them may be pressured to betray you. That's what it's going to say in verse 6.
+
+> <sup>[6](/bible/micah/7#v6)</sup> For the son dishonoureth the father, the daughter riseth up against her mother, the daughter in law against her mother in law; a man’s enemies are the men of his own house.
 
 - A man's enemies are the men of his own house: Trust me. When your people sitting there talking about "Oh, you in a cult. Y'all hate people. Y'all racist. Y'all violent." All which are lies. We're not racist. We don't hate anybody. All we do is try to love our own people. And people see us loving our own as hatred for everyone else. That's not our problem. That's not our problem. It's not up to us to explain the love that we have for our people. That's not up to us. That's not what we do. We read the Bible and we show our people their greatness.
 
@@ -71,13 +71,11 @@ tags: ["15 Minutes w/ The Captains", "prophecy"]
 
 **[Isaiah 13:2-3](/bible/isaiah/13#v2)**  *[[12:56](https://www.youtube.com/watch?v=ro0Wrkh6brA&t=776s)]*
 
-> <sup>[2](/bible/isaiah/13#v2)</sup> Lift ye up a banner upon the high mountain, exalt the voice unto them, shake the hand, that they may go into the gates of the nobles.
->
-> <sup>[3](/bible/isaiah/13#v3)</sup> I have commanded my sanctified ones, I have also called my mighty ones for mine anger, even them that rejoice in my highness.
-
 - How else why else would they want to deliver us up to be killed? I ain't never heard somebody say, "I love you. I want to kill you for that." No. Never. But when you tell a woman, "Hey, you can't wear pants," you get cursed out. When you tell a man stop smoking weed, you get cursed out. When you tell him stop selling drugs to his people, you get cursed out. When you go to the middle of the ghetto and you correct the behaviors of our people, they selling drugs over there and they call the police on you because you got a speaker and a book and you're reading. That's why they would deliver us up for death.
 
 - Lift ye up a banner upon the high mountains: The banner is this Bible. That's the banner. That's what everybody's going to see.
+
+> <sup>[2](/bible/isaiah/13#v2)</sup> Lift ye up a banner upon the high mountain, exalt the voice unto them, shake the hand, that they may go into the gates of the nobles.
 
 - Exalt the voice unto them: That's why we speak loud. We speak how men are supposed to speak. We're not going to speak soft. This ain't your rendition of Cesare Borgia. Soft-spokenness does not work when it comes to correcting our people. That's why he says, "Exalt the voice."
 
@@ -87,18 +85,20 @@ tags: ["15 Minutes w/ The Captains", "prophecy"]
 
 - I have commanded my sanctified ones, and I have called my mighty ones for mine anger, even them that rejoice in my highness: We was called to do this. That's why when we go back to Luke chapter 21. I'm going to read 16 again. It says, "Ye shall be betrayed both by parents and brethren, and kinsfolk, and friends, and some of you they shall cause to be put to death." That goes directly with Matthew the 24th chapter. They're going to deliver us up. Let's go to Matthew 24 real quick. Matter of fact, let's go to Matthew 10. I want to go to chapter 10 because it hits home with the relatives.
 
+> <sup>[3](/bible/isaiah/13#v3)</sup> I have commanded my sanctified ones, I have also called my mighty ones for mine anger, even them that rejoice in my highness.
+
 
 **[Matthew 10:17-18](/bible/matthew/10#v17)**  *[[16:33](https://www.youtube.com/watch?v=ro0Wrkh6brA&t=993s)]*
 
 > <sup>[17](/bible/matthew/10#v17)</sup> But beware of men: for they will deliver you up to the councils, and they will scourge you in their synagogues;
->
-> <sup>[18](/bible/matthew/10#v18)</sup> And ye shall be brought before governors and kings for my sake, for a testimony against them and the Gentiles.
 
 - But beware of men, for they will deliver you up to the councils, and they will scourge you in their synagogues: That's why I said, "Trust ye not in a god. Beware of men." You have no idea what a man would do when tribulation starts. We have no idea what a man or a woman would do when that tribulation starts. Oh, no, it wasn't me. It was them. Oh, I'm not part of that no more.
 
 - In Fox's Book of Martyrs, they said that there was a man that was being pulled apart. One man, he got pulled apart, died. Never denied Christ, never denied the gospel. Next man got up there, he was pulled a little bit, then gave up everything, denounced Christ, denounced the gospel. And then when he got loose, he fell down. He still died. So, you have no idea when your time going come how you going to go out. What's going to be the last thing written about you in your life?
 
 - But beware of men, for they will deliver you up to the councils, and they will scourge you in their synagogues: Why? Because we're going to be prophesying against these people.
+
+> <sup>[18](/bible/matthew/10#v18)</sup> And ye shall be brought before governors and kings for my sake, for a testimony against them and the Gentiles.
 
 - And ye shall be brought before governors and kings for my sake, for a testimony against them and the Gentiles: If we're going to be speaking against kings, against governors, and against the Gentiles, well, then that makes sense on why we would be hated. That makes sense on why we would be delivered up unto death.
 
@@ -116,19 +116,19 @@ tags: ["15 Minutes w/ The Captains", "prophecy"]
 
 **[Matthew 10:19-22](/bible/matthew/10#v19)**  *[[20:31](https://www.youtube.com/watch?v=ro0Wrkh6brA&t=1231s)]*
 
+- But when they deliver you up, take no thought how or what you shall speak, for it shall be given you in that same hour what you shall speak: That's why it's important for us to constantly meditate, rewatch classes, take notes, study your notes. Watch all of these different things happen and come to pass and compare them with written in the Bible.
+
 > <sup>[19](/bible/matthew/10#v19)</sup> But when they deliver you up, take no thought how or what ye shall speak: for it shall be given you in that same hour what ye shall speak.
 >
 > <sup>[20](/bible/matthew/10#v20)</sup> For it is not ye that speak, but the Spirit of your Father which speaketh in you.
->
-> <sup>[21](/bible/matthew/10#v21)</sup> And the brother shall deliver up the brother to death, and the father the child: and the children shall rise up against their parents, and cause them to be put to death.
->
-> <sup>[22](/bible/matthew/10#v22)</sup> And ye shall be hated of all men for my name’s sake: but he that endureth to the end shall be saved.
-
-- But when they deliver you up, take no thought how or what you shall speak, for it shall be given you in that same hour what you shall speak: That's why it's important for us to constantly meditate, rewatch classes, take notes, study your notes. Watch all of these different things happen and come to pass and compare them with written in the Bible.
 
 - For it is not ye that speak, but the spirit of your father which speaketh in you: The spirit can't be in you if you are not following the Bible on a day-to-day basis. It's not going to happen.
 
+> <sup>[21](/bible/matthew/10#v21)</sup> And the brother shall deliver up the brother to death, and the father the child: and the children shall rise up against their parents, and cause them to be put to death.
+
 - And the brother shall deliver up the brother to death, and the father the child, and the children shall rise up against their parents and cause them to be put to death: That's the reason. Why? Because we're going to be rebuking people. We're going to be rebuking governors and kingdoms of war, evil, and pestilence. And when they start to give us some hell for that, oh, well, it wasn't me. It was my mama. It wasn't me. That was my son. It wasn't me. It wasn't me. I didn't do it. They're going to give us up. We was betrayed. How will we betrayed? By our relatives.
+
+> <sup>[22](/bible/matthew/10#v22)</sup> And ye shall be hated of all men for my name’s sake: but he that endureth to the end shall be saved.
 
 - And ye shall be hated of all men for my name's sake. But he that endureth to the end shall be saved: We're going to be saved if we endure unto the end. The end ain't come yet. So, ain't nobody saved yet. That's another lie in Christianity. You're not saved yet because the end is not here. It said, "Endure to the end, then you'll be saved." The end ain't here yet. That's why we will be delivered up. That's why we got to be in this truth for the Lord. You can't be in this because of your mama, your daddy, your friend, your cousin. You can't be in this for nothing else but your love for Christ and the Father. That's it. If you're not in it for that, you're not going to last. You're going to betray people. You're going to betray us. You're going to betray yourself. You're going to betray Christ, and you're going to find a death. The second death.
 
@@ -136,12 +136,12 @@ tags: ["15 Minutes w/ The Captains", "prophecy"]
 **[Luke 21:17-19](/bible/luke/21#v17)**  *[[24:40](https://www.youtube.com/watch?v=ro0Wrkh6brA&t=1480s)]*
 
 > <sup>[17](/bible/luke/21#v17)</sup> And ye shall be hated of all men for my name’s sake.
->
+
+- And ye shall be hated of all men for my name's sake: So it said that we going to be hated of all men for the name of Christ. Yes. Christ that is a black man. Who? I don't get how is it that we're catching such backlash just by reading that the Bible said that Christ was a black man. Just by saying he's black, we're catching hell of backlash. Why? Why? Because of the self-hatred that's been inbred in us. Oh, now that we say he's black, oh well, what does it matter? Well, it mattered because they changed it. That's why it mattered. I'm going to show you another reason why it's going to matter. Why we're going to be hated of all men for the namesake of Christ.
+
 > <sup>[18](/bible/luke/21#v18)</sup> But there shall not an hair of your head perish.
 >
 > <sup>[19](/bible/luke/21#v19)</sup> In your patience possess ye your souls.
-
-- And ye shall be hated of all men for my name's sake: So it said that we going to be hated of all men for the name of Christ. Yes. Christ that is a black man. Who? I don't get how is it that we're catching such backlash just by reading that the Bible said that Christ was a black man. Just by saying he's black, we're catching hell of backlash. Why? Why? Because of the self-hatred that's been inbred in us. Oh, now that we say he's black, oh well, what does it matter? Well, it mattered because they changed it. That's why it mattered. I'm going to show you another reason why it's going to matter. Why we're going to be hated of all men for the namesake of Christ.
 
 
 **[2 Corinthians 11:4](/bible/2-corinthians/11#v4)**  *[[25:51](https://www.youtube.com/watch?v=ro0Wrkh6brA&t=1551s)]*
@@ -174,11 +174,9 @@ tags: ["15 Minutes w/ The Captains", "prophecy"]
 
 **[Isaiah 57:1-2](/bible/isaiah/57#v1)**  *[[30:39](https://www.youtube.com/watch?v=ro0Wrkh6brA&t=1839s)]*
 
-> <sup>[1](/bible/isaiah/57#v1)</sup> The righteous perisheth, and no man layeth it to heart: and merciful men are taken away, none considering that the righteous is taken away from the evil to come.
->
-> <sup>[2](/bible/isaiah/57#v2)</sup> He shall enter into peace: they shall rest in their beds, each one walking in his uprightness.
-
 - Oh, yeah. When he said, "There shall not a hair of your head perish." So, let's see what that's talking about.
+
+> <sup>[1](/bible/isaiah/57#v1)</sup> The righteous perisheth, and no man layeth it to heart: and merciful men are taken away, none considering that the righteous is taken away from the evil to come.
 
 - The righteous perisheth, and no man layeth it to heart. And merciful men are taken away, none considering that the righteous is taken away from the evil to come: That's why some of us are going to die, cuz there's going to be some evil that's coming. And the Lord is going to be like, "Nah, I need to take them right now. I need to take her right now. I need to take him right now." Because there's evil that's going to come and some of us ain't going to be allowed to see that evil.
 
@@ -191,6 +189,8 @@ tags: ["15 Minutes w/ The Captains", "prophecy"]
     > <sup>[12](/bible/revelation/14#v12)</sup> Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus.
 
     Watch this. Revelations. We got to do both. Keep the commandments of God and the faith of Jesus. Both of which are going to cause us to teach against these kingdoms, these nations of war, evil, and pestilence. It's got to happen like that. You want to know why? Because that's what the prophets of old did. That's we was tasked to do. We was tasked to make sure he that come with the preach it another Jesus and they receive another spirit and another gospel, we got to correct them. Why? It matters why. Because the Bible said that it mattered why.
+
+> <sup>[2](/bible/isaiah/57#v2)</sup> He shall enter into peace: they shall rest in their beds, each one walking in his uprightness.
 
 
 **[1 John 4:3](/bible/1-john/4#v3)**  *[[33:38](https://www.youtube.com/watch?v=ro0Wrkh6brA&t=2018s)]*
@@ -338,10 +338,10 @@ Reading from Another book (title not given on air)  *[[40:44](https://www.youtub
 **[Revelation 2:9-10](/bible/revelation/2#v9)**  *[[58:28](https://www.youtube.com/watch?v=ro0Wrkh6brA&t=3508s)]*
 
 > <sup>[9](/bible/revelation/2#v9)</sup> I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.
->
-> <sup>[10](/bible/revelation/2#v10)</sup> Fear none of those things which thou shalt suffer: behold, the devil shall cast some of you into prison, that ye may be tried; and ye shall have tribulation ten days: be thou faithful unto death, and I will give thee a crown of life.
 
 - I know the blasphemy of them which say they are Jews and are not but are the synagogue of Satan: Now watch this, cuz they try to say that that's us, right?
+
+> <sup>[10](/bible/revelation/2#v10)</sup> Fear none of those things which thou shalt suffer: behold, the devil shall cast some of you into prison, that ye may be tried; and ye shall have tribulation ten days: be thou faithful unto death, and I will give thee a crown of life.
 
 - Be thou faithful unto death and I will give thee a crown of life: We just read that in Luke 21st chapter. We just read that in Luke the 21st chapter verse 16, "And you shall be portrayed both by parents and brethren and kinsfolk and friends and some of you they shall cause to put to death and you shall be hated of all men for my name's sake." Said the same thing in Matthew chapter 10. The devil was going to cast us into prison and give us tribulation but if we faithful we get that crown of life.
 

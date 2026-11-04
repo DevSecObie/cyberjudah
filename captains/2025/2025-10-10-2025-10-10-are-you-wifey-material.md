@@ -66,14 +66,14 @@ tags: ["15 Minutes w/ The Captains", "faith", "marriage-family", "wisdom", "wome
 **[1 Esdras 4:15-17](/bible/1-esdras/4#v15)**  *[[4:58](https://www.youtube.com/watch?v=2GY-VPid9J0&t=298s)]*
 
 > <sup>[15](/bible/1-esdras/4#v15)</sup> Women have borne the king and all the people that bear rule by sea and land.
->
-> <sup>[16](/bible/1-esdras/4#v16)</sup> Even of them came they: and they nourished them up that planted the vineyards, from whence the wine cometh.
->
-> <sup>[17](/bible/1-esdras/4#v17)</sup> These also make garments for men; these bring glory unto men; and without women cannot men be.
 
 - Women have borne the king: So I'm showing you certain skills you should have in the meanwhile.
 
+> <sup>[16](/bible/1-esdras/4#v16)</sup> Even of them came they: and they nourished them up that planted the vineyards, from whence the wine cometh.
+
 - and they nourished them up that planted the vineyards: They nourished them up.
+
+> <sup>[17](/bible/1-esdras/4#v17)</sup> These also make garments for men; these bring glory unto men; and without women cannot men be.
 
 - These also make garments for men: These also make garments. Can you sew? Can you put some fringes, a border of blue, on my garment, on my shirt, on my jacket? Can you put one on the bottom of your skirt? Can you put one on your daughter's skirt or dress? Can you do those things? You understand? And then as time goes on, learn how to make a garment. Why is we spending all our money? We can get raw textiles, and you can make garments from scratch. While you not married, you should be practicing these things, building up your skills and character, so you can bring in these things and you can increase the value of your Lord's house.
 
@@ -119,12 +119,12 @@ tags: ["15 Minutes w/ The Captains", "faith", "marriage-family", "wisdom", "wome
 **[Susanna 1:15-17](/bible/susanna/1#v15)**  *[[10:00](https://www.youtube.com/watch?v=2GY-VPid9J0&t=600s)]*
 
 > <sup>[15](/bible/susanna/1#v15)</sup> And it fell out, as they watched a fit time, she went in as before with two maids only, and she was desirous to wash herself in the garden: for it was hot.
->
+
+- and she was desirous to wash herself in the garden: Had to be forced to wash herself? She was desirous to wash herself in the garden.
+
 > <sup>[16](/bible/susanna/1#v16)</sup> And there was no body there save the two elders, that had hid themselves, and watched her.
 >
 > <sup>[17](/bible/susanna/1#v17)</sup> Then she said to her maids, Bring me oil and washing balls, and shut the garden doors, that I may wash me.
-
-- and she was desirous to wash herself in the garden: Had to be forced to wash herself? She was desirous to wash herself in the garden.
 
 - Then she said to her maids, Bring me oil and washing balls: What she say? Bring me oil and washing balls.
 
@@ -134,8 +134,6 @@ tags: ["15 Minutes w/ The Captains", "faith", "marriage-family", "wisdom", "wome
 **[Judith 10:3-4](/bible/judith/10#v3)**  *[[11:21](https://www.youtube.com/watch?v=2GY-VPid9J0&t=681s)]*
 
 > <sup>[3](/bible/judith/10#v3)</sup> And pulled off the sackcloth which she had on, and put off the garments of her widowhood, and washed her body all over with water, and anointed herself with precious ointment, and braided the hair of her head, and put on a tire upon it, and put on her garments of gladness, wherewith she was clad during the life of Manasses her husband.
->
-> <sup>[4](/bible/judith/10#v4)</sup> And she took sandals upon her feet, and put about her her bracelets, and her chains, and her rings, and her earrings, and all her ornaments, and decked herself bravely, to allure the eyes of all men that should see her.
 
 - And pulled off the sackcloth which she had on: Look at how forefathers used to dress. They was cold. That's what some of you sisters need to do. Pull off the sackcloths. Walk around looking like bums. Walk around looking like you depressed in this truth. Get some joy. Get some joy, sister.
 
@@ -144,6 +142,8 @@ tags: ["15 Minutes w/ The Captains", "faith", "marriage-family", "wisdom", "wome
 - and anointed herself with precious ointment: And she wasn't ashy neither.
 
 - and braided the hair of her head: Right. And her hair wasn't all over the place. She braided her hair. Well, make sure if you got the wool popping, make sure it look on point, not a hair out of place.
+
+> <sup>[4](/bible/judith/10#v4)</sup> And she took sandals upon her feet, and put about her her bracelets, and her chains, and her rings, and her earrings, and all her ornaments, and decked herself bravely, to allure the eyes of all men that should see her.
 
 - and put about her her bracelets: So she wasn't walking around barefooted, with a bunch of dirt on the bottom of her heels.
 

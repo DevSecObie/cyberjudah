@@ -1,0 +1,1 @@
+- People: Jesus is shown as "Jesus Christ" (Obie, 2026-11-03). His id stays `jesus-mat-1-1`, so links, portraits and saved studies keep working, and "Jesus" stays one of his names so every verse that says "Jesus" still finds him. The KJV text is unchanged.

@@ -24,16 +24,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "the-law"]
 **[Romans 8:15-17](/bible/romans/8#v15)**  *[[0:43](https://www.youtube.com/watch?v=C9FLF1QzOvI&t=43s)]*
 
 > <sup>[15](/bible/romans/8#v15)</sup> For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father.
->
-> <sup>[16](/bible/romans/8#v16)</sup> The Spirit itself beareth witness with our spirit, that we are the children of God:
->
-> <sup>[17](/bible/romans/8#v17)</sup> And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.
 
 - but ye have received the Spirit of adoption: You have received the what? The spirit of adoption. So it says we have received the spirit of adoption.
 
 - whereby we cry, Abba, Father: We cry Father. Right. Because we have the adoption of sons. We're going to get more into that.
 
+> <sup>[16](/bible/romans/8#v16)</sup> The Spirit itself beareth witness with our spirit, that we are the children of God:
+
 - The Spirit itself beareth witness with our spirit, that we are the children of God: That spirit is Christ, right? So Christ bears witness with our spirit that we are the children of God. The God that that's talking about here is, as Deacon would say, the grandfather, right? Is the Most High God.
+
+> <sup>[17](/bible/romans/8#v17)</sup> And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.
 
 - And if children, then heirs: If we are children, then heirs. He said heirs. You know he's from the islands. Then heirs.
 
@@ -92,18 +92,18 @@ Reading from a dictionary definition of heir, shown on screen  *[[2:23](https://
 **[2 Corinthians 5:1-4](/bible/2-corinthians/5#v1)**  *[[4:59](https://www.youtube.com/watch?v=C9FLF1QzOvI&t=299s)]*
 
 > <sup>[1](/bible/2-corinthians/5#v1)</sup> For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.
->
-> <sup>[2](/bible/2-corinthians/5#v2)</sup> For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven:
->
-> <sup>[3](/bible/2-corinthians/5#v3)</sup> If so be that being clothed we shall not be found naked.
->
-> <sup>[4](/bible/2-corinthians/5#v4)</sup> For we that are in this tabernacle do groan, being burdened: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life.
 
 - For we know that if our earthly house of this tabernacle were dissolved: The earthly house is this body we have right now.
 
 - we have a building of God, an house not made with hands: We have a what? A building of God. A house. We have a body not made with hands. Physical hands. Earthly hands.
 
 - eternal in the heavens: Is what? Eternal in the heavens. And our spirit is groaning for that adoption. Groaning for that body.
+
+> <sup>[2](/bible/2-corinthians/5#v2)</sup> For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven:
+>
+> <sup>[3](/bible/2-corinthians/5#v3)</sup> If so be that being clothed we shall not be found naked.
+>
+> <sup>[4](/bible/2-corinthians/5#v4)</sup> For we that are in this tabernacle do groan, being burdened: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life.
 
 - For we that are in this tabernacle do groan, being burdened: We groan in this body. Why? Being burdened.
 
@@ -131,18 +131,18 @@ Reading from a dictionary definition of heir, shown on screen  *[[2:23](https://
 **[Luke 2:21-24](/bible/luke/2#v21)**  *[[7:35](https://www.youtube.com/watch?v=C9FLF1QzOvI&t=455s)]*
 
 > <sup>[21](/bible/luke/2#v21)</sup> And when eight days were accomplished for the circumcising of the child, his name was called JESUS, which was so named of the angel before he was conceived in the womb.
->
-> <sup>[22](/bible/luke/2#v22)</sup> And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present him to the Lord;
->
-> <sup>[23](/bible/luke/2#v23)</sup> (As it is written in the law of the Lord, Every male that openeth the womb shall be called holy to the Lord;)
->
-> <sup>[24](/bible/luke/2#v24)</sup> And to offer a sacrifice according to that which is said in the law of the Lord, A pair of turtledoves, or two young pigeons.
 
 - And when eight days were accomplished for the circumcising of the child, his name was called JESUS: Now, keep in mind, we still have to circumcise today. But let's see exactly what it's talking about. Made under the law.
 
 - which was so named of the angel before he was conceived in the womb: Right? So also it's letting you know that he was made of sex as well. When you go back to Galatians 4, what it says: God sent forth a son made of a woman, and then made under the law. We're dealing with that now.
 
+> <sup>[22](/bible/luke/2#v22)</sup> And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present him to the Lord;
+>
+> <sup>[23](/bible/luke/2#v23)</sup> (As it is written in the law of the Lord, Every male that openeth the womb shall be called holy to the Lord;)
+
 - As it is written in the law of the Lord: In the what? In the law of the Lord.
+
+> <sup>[24](/bible/luke/2#v24)</sup> And to offer a sacrifice according to that which is said in the law of the Lord, A pair of turtledoves, or two young pigeons.
 
 - And to offer a sacrifice according to that which is said in the law of the Lord: Offer a what? A sacrifice. You see that?
 
@@ -152,22 +152,22 @@ Reading from a dictionary definition of heir, shown on screen  *[[2:23](https://
 **[Galatians 4:4-7](/bible/galatians/4#v4)**  *[[8:55](https://www.youtube.com/watch?v=C9FLF1QzOvI&t=535s)]*
 
 > <sup>[4](/bible/galatians/4#v4)</sup> But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,
->
-> <sup>[5](/bible/galatians/4#v5)</sup> To redeem them that were under the law, that we might receive the adoption of sons.
->
-> <sup>[6](/bible/galatians/4#v6)</sup> And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father.
->
-> <sup>[7](/bible/galatians/4#v7)</sup> Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.
 
 - made under the law: So that made under the law is going into what? Sacrifice. Right? Watch this.
+
+> <sup>[5](/bible/galatians/4#v5)</sup> To redeem them that were under the law, that we might receive the adoption of sons.
 
 - To redeem them that were under the law: Wait a second. To redeem them that was under the law. Was all nations under the law? What did all nations have to sacrifice? Or was it just the Israelites? Ah, okay.
 
 - that we might receive the adoption of sons: That we might receive what? The adoption of sons. So Christ came to redeem the Israelites, that we might receive the adoption of sons. I know you're thinking, why you keep saying adoption of sons? Watch. Because remember the old covenant: everything is a shadow of things to come, right? Watch what it says.
 
+> <sup>[6](/bible/galatians/4#v6)</sup> And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father.
+
 - And because ye are sons: Because we are what? Ye are sons.
 
 - God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father: Crying Abba Father. So it says because you are sons. We are sons. God have sent forth the spirit of his son, which is Christ, into your hearts, crying Abba Father.
+
+> <sup>[7](/bible/galatians/4#v7)</sup> Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.
 
 - Wherefore thou art no more a servant: Wait a second. Whoa, whoa, whoa. So he says, Now you are no more a servant. When were we servants? Under the sacrificial law, right? We were servants then. It says, Now you're not counted as servants.
 
@@ -232,14 +232,14 @@ Reading from a dictionary definition of heir, shown on screen  *[[2:23](https://
 > <sup>[40](/bible/2-esdras/2#v40)</sup> Take thy number, O Sion, and shut up those of thine that are clothed in white, which have fulfilled the law of the Lord.
 >
 > <sup>[41](/bible/2-esdras/2#v41)</sup> The number of thy children, whom thou longedst for, is fulfilled: beseech the power of the Lord, that thy people, which have been called from the beginning, may be hallowed.
->
-> <sup>[42](/bible/2-esdras/2#v42)</sup> I Esdras saw upon the mount Sion a great people, whom I could not number, and they all praised the Lord with songs.
->
-> <sup>[43](/bible/2-esdras/2#v43)</sup> And in the midst of them there was a young man of a high stature, taller than all the rest, and upon every one of their heads he set crowns, and was more exalted; which I marvelled at greatly.
 
 - The number of thy children, whom thou longedst for, is fulfilled: You see that? You see how it says thy children? It ain't saying servants, because we are children. We have the adoption of sons.
 
 - that thy people, which have been called from the beginning, may be hallowed: That the people that were what? Been called from the beginning may be hallowed. So everything we went through, the laws, the sacrificial laws, all the things that happened from the beginning, it was set that we would be chosen by God through Christ. So all those things was just preparing us, getting ready. We were servants at first, and then we became sons.
+
+> <sup>[42](/bible/2-esdras/2#v42)</sup> I Esdras saw upon the mount Sion a great people, whom I could not number, and they all praised the Lord with songs.
+>
+> <sup>[43](/bible/2-esdras/2#v43)</sup> And in the midst of them there was a young man of a high stature, taller than all the rest, and upon every one of their heads he set crowns, and was more exalted; which I marvelled at greatly.
 
 - And in the midst of them there was a young man of a high stature: That's Christ. So remember Ephesians 1, it says, According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love.
 

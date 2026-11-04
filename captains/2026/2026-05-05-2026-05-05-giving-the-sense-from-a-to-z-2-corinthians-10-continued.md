@@ -47,18 +47,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "obedience", "pride
 > <sup>[1](/bible/proverbs/2#v1)</sup> My son, if thou wilt receive my words, and hide my commandments with thee;
 >
 > <sup>[2](/bible/proverbs/2#v2)</sup> So that thou incline thine ear unto wisdom, and apply thine heart to understanding;
->
+
+- And apply thine heart to understanding: And apply thine heart to what? What's that word? Apply thine heart to understanding. You're supposed to apply your heart to want to understand.
+
+- Lifteth up thy voice for understanding: Lifteth up thy voice for understanding. Keep reading.
+
 > <sup>[3](/bible/proverbs/2#v3)</sup> Yea, if thou criest after knowledge, and liftest up thy voice for understanding;
 >
 > <sup>[4](/bible/proverbs/2#v4)</sup> If thou seekest her as silver, and searchest for her as for hid treasures;
 >
 > <sup>[5](/bible/proverbs/2#v5)</sup> Then shalt thou understand the fear of the Lord, and find the knowledge of God.
->
-> <sup>[6](/bible/proverbs/2#v6)</sup> For the Lord giveth wisdom: out of his mouth cometh knowledge and understanding.
-
-- And apply thine heart to understanding: And apply thine heart to what? What's that word? Apply thine heart to understanding. You're supposed to apply your heart to want to understand.
-
-- Lifteth up thy voice for understanding: Lifteth up thy voice for understanding. Keep reading.
 
 - Then shalt thou understand the fear of the Lord: Then you're going to understand the fear of the Lord, but you got to seek that thing out like you're chasing for gold. Think about it. And this is a cut for me because when you're an entrepreneur or even if you work for the nations, right? You work for a company. You're going to get that bag. You're going to chase the bag cuz you got a family that you got to take care of. So, your mindset when you wake up in the morning, your mindset is to get to the work, get to the business, do what you got to do, get your money. But the Bible say if you really want to know the hidden treasures of this Bible, it say you must seek out understanding God's word like treasure. That's a cut.
 
@@ -68,14 +66,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "obedience", "pride
 
 - And find the knowledge of God: And find the knowledge of God. Go ahead.
 
+> <sup>[6](/bible/proverbs/2#v6)</sup> For the Lord giveth wisdom: out of his mouth cometh knowledge and understanding.
+
 
 **[Proverbs 2:10-11](/bible/proverbs/2#v10)**  *[[9:40](https://www.youtube.com/watch?v=LpdyIgOVvzk&t=580s)]*
 
 > <sup>[10](/bible/proverbs/2#v10)</sup> When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;
->
-> <sup>[11](/bible/proverbs/2#v11)</sup> Discretion shall preserve thee, understanding shall keep thee:
 
 - When wisdom entereth into thine heart: Watch this.
+
+> <sup>[11](/bible/proverbs/2#v11)</sup> Discretion shall preserve thee, understanding shall keep thee:
 
 - Understanding shall keep thee: Understanding is what keeps you in this truth. You understand. You understand the magnitude of falling away from God's commandments. You understand the importance of making sure your daughters wear dresses, your wife wear dresses. You understand. You say, "Okay, I understand the way that this will destroy me if I indulge in it because I understand what God's word say. I see people that came before me that the Lord destroyed and they are examples that we shouldn't follow their steps. We should not go after what they did." So, that's what the Bible does for you when you truly want to know it. All right?
 
@@ -92,14 +92,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "obedience", "pride
 **[2 Corinthians 2:1-3](/bible/2-corinthians/2#v1)**  *[[12:13](https://www.youtube.com/watch?v=LpdyIgOVvzk&t=733s)]*
 
 > <sup>[1](/bible/2-corinthians/2#v1)</sup> But I determined this with myself, that I would not come again to you in heaviness.
->
-> <sup>[2](/bible/2-corinthians/2#v2)</sup> For if I make you sorry, who is he then that maketh me glad, but the same which is made sorry by me?
->
-> <sup>[3](/bible/2-corinthians/2#v3)</sup> And I wrote this same unto you, lest, when I came, I should have sorrow from them of whom I ought to rejoice; having confidence in you all, that my joy is the joy of you all.
 
 - I would not come again to you in heaviness: Right. So, he said he realized that the second time he came to the church in Corinth, he couldn't come at them with that hammer. He had to come with compassion because they were still young in the faith. And there were things that had gone on in the church and in 1 Corinthians, Paul went in on the Corinthians. Go back and read 1 Corinthians when you can and read it from a father's perspective writing to his sons and daughters in the faith. And he was tearing their ass up. You understand?
 
 - So, now when you get to 2 Corinthians, he realized like, "Yo, I don't want to destroy these spirits. So, let me be mindful of how I deal with them." And that's why in 2 Corinthians, he expounds on a lot of things that he went into in 1 Corinthians, but he does it through a more compassionate way. When you read Corinthians, you'll see the difference between the two. I actually enjoy reading Corinthians over and over and over and over. I can't stop. I'm addicted to it because I see the parallels and I understand being still young man in the faith how we have to deal with the brothers and sisters with great compassion because you can destroy a soul and that ain't our intent. It's not to destroy souls, to build them up. So, Paul understood that way back then. We just learned it today. You know? So, he said, "I don't want to make you sorry."
+
+> <sup>[2](/bible/2-corinthians/2#v2)</sup> For if I make you sorry, who is he then that maketh me glad, but the same which is made sorry by me?
+>
+> <sup>[3](/bible/2-corinthians/2#v3)</sup> And I wrote this same unto you, lest, when I came, I should have sorrow from them of whom I ought to rejoice; having confidence in you all, that my joy is the joy of you all.
 
 - Having confidence in you all that my joy is the joy of you all: Right. So, Paul didn't come to them boisterous. He came to them with respect.
 
@@ -122,16 +122,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "obedience", "pride
 **[2 Corinthians 10:2-5](/bible/2-corinthians/10#v2)**  *[[16:59](https://www.youtube.com/watch?v=LpdyIgOVvzk&t=1019s)]*
 
 > <sup>[2](/bible/2-corinthians/10#v2)</sup> But I beseech you, that I may not be bold when I am present with that confidence, wherewith I think to be bold against some, which think of us as if we walked according to the flesh.
->
+
+- But I beseech you that I may not be bold when I am present with that confidence wherewith I think to be bold against some which think of us as if we walked according to the flesh: So, same thing as 1 Corinthians, there was some men that was still murmuring. They was speaking against the apostles as if the apostles were ungodly men. Fleshly men, walking after the flesh. He said, I'm trying not to boast against y'all. But some of y'all I'm going to have to boast against because you know what I'm saying? Y'all disrespectful. You treating us as if we basically.
+
+- For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strongholds: You know why this is heavy? It's because Paul is basically instructing them like a father. He said, I know you looking at me and you thinking, this dude he's weak, he's contemptible, he ain't no warrior. He said, now, my warfare ain't like your warfare. So, you thinking carnal cuz you young. You thinking that we supposed to come and overthrow the Corinthians, meaning the Grecians. We supposed to overthrow Rome. That's what you thinking. And that's not the case.
+
 > <sup>[3](/bible/2-corinthians/10#v3)</sup> For though we walk in the flesh, we do not war after the flesh:
 >
 > <sup>[4](/bible/2-corinthians/10#v4)</sup> (For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)
 >
 > <sup>[5](/bible/2-corinthians/10#v5)</sup> Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;
-
-- But I beseech you that I may not be bold when I am present with that confidence wherewith I think to be bold against some which think of us as if we walked according to the flesh: So, same thing as 1 Corinthians, there was some men that was still murmuring. They was speaking against the apostles as if the apostles were ungodly men. Fleshly men, walking after the flesh. He said, I'm trying not to boast against y'all. But some of y'all I'm going to have to boast against because you know what I'm saying? Y'all disrespectful. You treating us as if we basically.
-
-- For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strongholds: You know why this is heavy? It's because Paul is basically instructing them like a father. He said, I know you looking at me and you thinking, this dude he's weak, he's contemptible, he ain't no warrior. He said, now, my warfare ain't like your warfare. So, you thinking carnal cuz you young. You thinking that we supposed to come and overthrow the Corinthians, meaning the Grecians. We supposed to overthrow Rome. That's what you thinking. And that's not the case.
 
 - Casting down imaginations: Paul is basically letting them know we come with a spiritual warfare. Our job is to cast down imagination. It's the same equivalent today as when we marched through the streets, you will have people coming to the comments of our group and say, "Well, where y'all guns at? Where y'all target practicing at? Why y'all doing Y'all just marching. Y'all just out on the street corner teaching." Not understanding 1 Corinthians 1:21. Not understanding what we doing is far more instrumental than picking up a gun and losing your life trying to fight against the powers that be. It don't make sense. It's not going to work. It don't work like that. Watch this. God going to tell you how he going to do it.
 
@@ -156,10 +156,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "obedience", "pride
 > <sup>[11](/bible/psalms/51#v11)</sup> Cast me not away from thy presence; and take not thy holy spirit from me.
 >
 > <sup>[12](/bible/psalms/51#v12)</sup> Restore unto me the joy of thy salvation; and uphold me with thy free spirit.
->
-> <sup>[13](/bible/psalms/51#v13)</sup> Then will I teach transgressors thy ways; and sinners shall be converted unto thee.
 
 - Restore unto me the joy of thy salvation, and uphold me with thy free spirit: Watch this.
+
+> <sup>[13](/bible/psalms/51#v13)</sup> Then will I teach transgressors thy ways; and sinners shall be converted unto thee.
 
 - Then will I teach transgressors thy ways, and sinners shall be converted unto thee: So, once the Lord restored the free spirit and the holy spirit to our forefather David, he said, "Once I done got myself together and acknowledge my sin, now I can teach transgressors your ways." Meaning, it's a process to become a teacher in this truth. It's a process. None of us came in right away teaching. None of us. Every brother in IUIC that you see out teaching now had to go through correction, improving themselves, learning the basics of scripture, changing their lives, getting their house in order. All men had to do that. You understand? That's just how it rolls. That's what happens. You understand?
 
@@ -169,10 +169,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "obedience", "pride
 **[Sirach 4:17-19](/bible/sirach/4#v17)**  *[[23:16](https://www.youtube.com/watch?v=LpdyIgOVvzk&t=1396s)]*
 
 > <sup>[17](/bible/sirach/4#v17)</sup> For at the first she will walk with him by crooked ways, and bring fear and dread upon him, and torment him with her discipline, until she may trust his soul, and try him by her laws.
->
-> <sup>[18](/bible/sirach/4#v18)</sup> Then will she return the straight way unto him, and comfort him, and shew him her secrets.
->
-> <sup>[19](/bible/sirach/4#v19)</sup> But if he go wrong, she will forsake him, and give him over to his own ruin.
 
 - For at the first, she will walk with him by crooked ways: That's wisdom.
 
@@ -189,6 +185,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "obedience", "pride
 - So the church in Corinth, these men thought that because they had a little bit of wisdom that they had learned from the Apostle Paul, they was already there. He was like, "Nah. You can't be ready to avenge obedience until your disobedience is fulfilled or your obedience is fulfilled."
 
 - Then will she return the straight way unto him and comfort him and show him her secrets: And she'll show you that the Lord open up the secrets of his wisdom to you.
+
+> <sup>[18](/bible/sirach/4#v18)</sup> Then will she return the straight way unto him, and comfort him, and shew him her secrets.
+>
+> <sup>[19](/bible/sirach/4#v19)</sup> But if he go wrong, she will forsake him, and give him over to his own ruin.
 
 - But if he go wrong, she will forsake him and give him over to his own ruin: Right. That's that reprobate mind. Devoured of judgement now. Because you forsook that wisdom. He gave you a chance to get it right. But you thought it was a game. That's the one thing that we must understand brothers and sisters. The Holy Spirit is a gift from God. And he can remove it. He can take your Holy Spirit from you. And you'll be walking around here saying we not the Israelites. You'll be walking around here saying that your wife can wear what she want to wear. And you'll be preaching feminism and all kind of crap. For real though. So be mindful.
 
@@ -243,16 +243,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "obedience", "pride
 **[John 21:15-17](/bible/john/21#v15)**  *[[33:41](https://www.youtube.com/watch?v=LpdyIgOVvzk&t=2021s)]*
 
 > <sup>[15](/bible/john/21#v15)</sup> So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs.
->
-> <sup>[16](/bible/john/21#v16)</sup> He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep.
->
-> <sup>[17](/bible/john/21#v17)</sup> He saith unto him the third time, Simon, son of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep.
 
 - Yea, Lord, thou knowest that I love thee: You know I love you, Lord.
 
 - Feed my lambs: So he said, "All right, well you say you love me, well feed my lambs then." His lambs meant translated into his people.
 
+> <sup>[16](/bible/john/21#v16)</sup> He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep.
+
 - Feed my sheep: All right, if you love me, feed my sheep then.
+
+> <sup>[17](/bible/john/21#v17)</sup> He saith unto him the third time, Simon, son of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep.
 
 - He saith unto him the third time: So, Christ told him three times to feed his sheep. He wanted to submit it into Peter's mind. Remember, Peter had times where he was rambunctious. There were times when Peter spoke out of turn. There were times when Peter said things against Christ that Christ was like, "Yo, you don't know what you talking about. Satan using you right now. Get behind me, Satan." So, but Peter was chosen. He's a chosen vessel from the beginning. So, the Lord said, "Let me remind you before I leave to feed my sheep."
 
@@ -262,8 +262,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "obedience", "pride
 **[1 Peter 5:1-2](/bible/1-peter/5#v1)**  *[[35:53](https://www.youtube.com/watch?v=LpdyIgOVvzk&t=2153s)]*
 
 > <sup>[1](/bible/1-peter/5#v1)</sup> The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed:
->
-> <sup>[2](/bible/1-peter/5#v2)</sup> Feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready mind;
 
 - The elders which are among you I exhort: So, watch Peter. Watch what the Apostle says. So, obviously what Christ told him, Peter didn't forget it cuz he going to write about it.
 
@@ -275,35 +273,37 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "obedience", "pride
 
 - When you go against one prophet or apostle, you got to go against everybody, bro. Paul quoted the Old Testament. So now you got to say, "Well, well, Moses did say that. Maybe Moses was off, too." Which means Abraham was off. Which means Adam I'm just saying it's just Oh God. So Peter is saying he is a partaker of the glory that shall be revealed and he is a witness of Christ's suffering. And as an elder, you are to exhort your elders.
 
+> <sup>[2](/bible/1-peter/5#v2)</sup> Feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready mind;
+
 - Feed the flock of God which is among you, taking the oversight thereof: So, I'm pretty sure he had this conversation with Paul too cuz Paul, although Christ was dealing with Paul and he didn't need no man to cosign him, the apostle, he still went up and showed respect to the apostles. And I'm pretty sure Peter gave him advice. I'mma show you how cuz notice Listen to the word. He said, "Feed the flock of God which is among you taking the oversight thereof." Remember, that's what Christ told Peter. Watch this. This how you know Peter had a conversation with the Apostle Paul.
 
 
 **[Acts 20:28-29](/bible/acts/20#v28)**  *[[39:33](https://www.youtube.com/watch?v=LpdyIgOVvzk&t=2373s)]*
 
 > <sup>[28](/bible/acts/20#v28)</sup> Take heed therefore unto yourselves, and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the church of God, which he hath purchased with his own blood.
->
-> <sup>[29](/bible/acts/20#v29)</sup> For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
 
 - To feed the church of God which he hath purchased with his own blood: Listen to the wording. Where did Paul get that particular wording from? He got it from the Apostle Peter who got it from the son of God. So, Peter was dealing with Paul on the level to show him as a younger man coming in later showing him, "Hey, look, this is how Christ taught me. This how I'mma show you. When you go out there and teach the people and when you teach Timothy and when you go establish these churches, make sure you're dealing with them this way." So, now you go to 2 Corinthians 10 and 8 again, cuz I'm getting back to my point. Listen to what the apostle had to say.
+
+> <sup>[29](/bible/acts/20#v29)</sup> For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
 
 
 **[2 Corinthians 10:8-11](/bible/2-corinthians/10#v8)**  *[[40:15](https://www.youtube.com/watch?v=LpdyIgOVvzk&t=2415s)]*
 
 > <sup>[8](/bible/2-corinthians/10#v8)</sup> For though I should boast somewhat more of our authority, which the Lord hath given us for edification, and not for your destruction, I should not be ashamed:
->
-> <sup>[9](/bible/2-corinthians/10#v9)</sup> That I may not seem as if I would terrify you by letters.
->
-> <sup>[10](/bible/2-corinthians/10#v10)</sup> For his letters, say they, are weighty and powerful; but his bodily presence is weak, and his speech contemptible.
->
-> <sup>[11](/bible/2-corinthians/10#v11)</sup> Let such an one think this, that, such as we are in word by letters when we are absent, such will we be also in deed when we are present.
 
 - Which the Lord hath given us for edification, and not for your destruction: Yeah, I didn't come here to destroy you. I came here to build you up.
 
+> <sup>[9](/bible/2-corinthians/10#v9)</sup> That I may not seem as if I would terrify you by letters.
+
 - That I may not seem as if I would terrify you by letters: Watch this.
+
+> <sup>[10](/bible/2-corinthians/10#v10)</sup> For his letters, say they, are weighty and powerful; but his bodily presence is weak, and his speech contemptible.
 
 - But his bodily presence is weak and his speech contemptible: Because he was soft-spoken amongst them is what he's saying. He humbled himself. He wasn't, you know, the bold Paul that they read about in letters. Say, look, when I come down, I'mma deal with it. Then when he got there, he was very humble. Says, "Ah, this dude weak." His letters are all powerful, but he weak.
 
 - Such will we be also indeed when we are present: Just know I can turn it off if need be. I ain't going to lie. When leadership come to my city, I'm hoping they come like Paul came, real humble. I hope it ain't no BS that done went on where they got to come and they got to judge matters and they got to take ranks and they got to flip stuff upside down. I'm hoping we got everything in order like we supposed to have it. So, it could be a peaceful visit. And guess what? All of the people felt that way.
+
+> <sup>[11](/bible/2-corinthians/10#v11)</sup> Let such an one think this, that, such as we are in word by letters when we are absent, such will we be also in deed when we are present.
 
 
 **[1 Samuel 16:1-5](/bible/1-samuel/16#v1)**  *[[41:37](https://www.youtube.com/watch?v=LpdyIgOVvzk&t=2497s)]*
@@ -315,10 +315,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "obedience", "pride
 > <sup>[3](/bible/1-samuel/16#v3)</sup> And call Jesse to the sacrifice, and I will shew thee what thou shalt do: and thou shalt anoint unto me him whom I name unto thee.
 >
 > <sup>[4](/bible/1-samuel/16#v4)</sup> And Samuel did that which the Lord spake, and came to Beth–lehem. And the elders of the town trembled at his coming, and said, Comest thou peaceably?
->
-> <sup>[5](/bible/1-samuel/16#v5)</sup> And he said, Peaceably: I am come to sacrifice unto the Lord: sanctify yourselves, and come with me to the sacrifice. And he sanctified Jesse and his sons, and called them to the sacrifice.
 
 - And the elders of the town trembled at his coming, and said, Comest thou peaceably?: So, when Samuel showed up, they was afraid like, "Hey, shoot, the priest don't just pop up here for no reason." Like, something must have happened. The Lord must have shown you something. What was going on? You come in peaceably or
+
+> <sup>[5](/bible/1-samuel/16#v5)</sup> And he said, Peaceably: I am come to sacrifice unto the Lord: sanctify yourselves, and come with me to the sacrifice. And he sanctified Jesse and his sons, and called them to the sacrifice.
 
 - And he said, Peaceably: They was like, "Okay." Oh god, thank god.
 
@@ -358,10 +358,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "obedience", "pride
 **[1 Timothy 3:6-7](/bible/1-timothy/3#v6)**  *[[48:00](https://www.youtube.com/watch?v=LpdyIgOVvzk&t=2880s)]*
 
 > <sup>[6](/bible/1-timothy/3#v6)</sup> Not a novice, lest being lifted up with pride he fall into the condemnation of the devil.
->
-> <sup>[7](/bible/1-timothy/3#v7)</sup> Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil.
 
 - Not a novice, lest being lifted up with pride, he fall into the condemnation of the devil: There you go. Not a novice, lest being lifted up with pride, he fall into the condemnation of the devil. You get lifted up with pride because you're a novice. Novice means a beginner, someone that lacks experience. That's the way it is. We all lack the experience, and guess what? We gaining experience as we go now. Still growing in experiences. Right? But you can't never get puffed up as a young man thinking that you know more than you actually know. You have to humble yourself. So he's saying you'll fall into the condemnation of the devil thinking that you on the level with the leadership.
+
+> <sup>[7](/bible/1-timothy/3#v7)</sup> Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil.
 
 - Moreover, he must have a good report of them which are without: There you go. You need to have a good name of those outside the congregation, which is the leadership.
 
@@ -371,35 +371,35 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "obedience", "pride
 > <sup>[23](/bible/sirach/6#v23)</sup> Give ear, my son, receive my advice, and refuse not my counsel,
 >
 > <sup>[24](/bible/sirach/6#v24)</sup> And put thy feet into her fetters, and thy neck into her chain.
->
-> <sup>[25](/bible/sirach/6#v25)</sup> Bow down thy shoulder, and bear her, and be not grieved with her bonds.
->
-> <sup>[26](/bible/sirach/6#v26)</sup> Come unto her with thy whole heart, and keep her ways with all thy power.
 
 - And put thy feet into her fetters and thy neck into her chain: Right. So lock your In other words, get locked in. That's basically what he's saying. Get locked in with instruction and wisdom.
 
 - Come unto her with thy whole heart. Keep her ways with all thy power: Right.
 
+> <sup>[25](/bible/sirach/6#v25)</sup> Bow down thy shoulder, and bear her, and be not grieved with her bonds.
+>
+> <sup>[26](/bible/sirach/6#v26)</sup> Come unto her with thy whole heart, and keep her ways with all thy power.
+
 
 **[Sirach 6:32-36](/bible/sirach/6#v32)**  *[[49:52](https://www.youtube.com/watch?v=LpdyIgOVvzk&t=2992s)]*
 
 > <sup>[32](/bible/sirach/6#v32)</sup> My son, if thou wilt, thou shalt be taught: and if thou wilt apply thy mind, thou shalt be prudent.
->
-> <sup>[33](/bible/sirach/6#v33)</sup> If thou love to hear, thou shalt receive understanding: and if thou bow thine ear, thou shalt be wise,
->
-> <sup>[34](/bible/sirach/6#v34)</sup> Stand in the multitude of the elders; and cleave unto him that is wise.
->
-> <sup>[35](/bible/sirach/6#v35)</sup> Be willing to hear every godly discourse; and let not the parables of understanding escape thee.
->
-> <sup>[36](/bible/sirach/6#v36)</sup> And if thou seest a man of understanding, get thee betimes unto him, and let thy foot wear the steps of his door.
 
 - My son, if thou wilt, thou shalt be taught: Right. If thou wilt, thou shalt be taught and if thou apply thy mind, thou shalt be prudent. Watch this.
 
+> <sup>[33](/bible/sirach/6#v33)</sup> If thou love to hear, thou shalt receive understanding: and if thou bow thine ear, thou shalt be wise,
+
 - If thou love to hear: If you love to hear.
+
+> <sup>[34](/bible/sirach/6#v34)</sup> Stand in the multitude of the elders; and cleave unto him that is wise.
 
 - Stand in the multitude of the elders: No, compare yourself against yourself. Stand in the multitude of the elders. No, I know more than my fellow officer. Stand in the multitude of the elders. That's what Paul was teaching the church in Corinth. Y'all need to be in the multitude of the elders, man. Y'all comparing yourselves amongst yourselves and that ain't wise.
 
 - And cleave unto him that is wise: Watch this.
+
+> <sup>[35](/bible/sirach/6#v35)</sup> Be willing to hear every godly discourse; and let not the parables of understanding escape thee.
+>
+> <sup>[36](/bible/sirach/6#v36)</sup> And if thou seest a man of understanding, get thee betimes unto him, and let thy foot wear the steps of his door.
 
 - And let thy foot wear the steps of his door: And let thy foot wear the steps of his door. So basically, the Lord is instructing us to be humble and to learn to receive instruction from those that came before us. The Lord is establishing order. There has to be order, bro. The elders have to be in the front. They have to be leading and they have to raise up men to take their place when they pass on or when they get aged and they can no longer do it. That's just how it goes. You understand?
 
@@ -415,16 +415,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "obedience", "pride
 > <sup>[13](/bible/2-corinthians/10#v13)</sup> But we will not boast of things without our measure, but according to the measure of the rule which God hath distributed to us, a measure to reach even unto you.
 >
 > <sup>[14](/bible/2-corinthians/10#v14)</sup> For we stretch not ourselves beyond our measure, as though we reached not unto you: for we are come as far as to you also in preaching the gospel of Christ:
->
-> <sup>[15](/bible/2-corinthians/10#v15)</sup> Not boasting of things without our measure, that is, of other men’s labours; but having hope, when your faith is increased, that we shall be enlarged by you according to our rule abundantly,
->
-> <sup>[16](/bible/2-corinthians/10#v16)</sup> To preach the gospel in the regions beyond you, and not to boast in another man’s line of things made ready to our hand.
 
 - For we are come as far as to you also in preaching the gospel of Christ: So, the apostles traveled. That's what he's saying. They traveled to teach.
+
+> <sup>[15](/bible/2-corinthians/10#v15)</sup> Not boasting of things without our measure, that is, of other men’s labours; but having hope, when your faith is increased, that we shall be enlarged by you according to our rule abundantly,
 
 - Not boasting of things without our measure: Right. We ain't boasting of things that we can't accomplish or that we have not accomplished.
 
 - But having hope when your faith is increased that we shall be enlarged by you according to our rule abundantly: Because if y'all grow, then that mean we led the right way. So, we pray that y'all grow in the spirit so that we all have the satisfaction of knowing, "Hey, look, we did right by them brothers. Look how they growing in the faith." That's what it's about. And that's what the Apostle Paul is saying right here. You understand?
+
+> <sup>[16](/bible/2-corinthians/10#v16)</sup> To preach the gospel in the regions beyond you, and not to boast in another man’s line of things made ready to our hand.
 
 - And not to boast in another man's line of things made ready to our hand: Right. Like Israel United in Christ was before us. What I mean is the younger brothers and sisters that are coming into the body now or that have been in the body for 10 years, 11 years, 12 years. Shoot, you know, you got some captains been in 20 years. You got deacons been in 20 plus years, most of them. All of them now, I think. You got the bishops all been in 30 years. It's like there's a lot of time and work and effort put in this.
 
@@ -452,8 +452,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "obedience", "pride
 **[1 Peter 5:5-6](/bible/1-peter/5#v5)**  *[[57:13](https://www.youtube.com/watch?v=LpdyIgOVvzk&t=3433s)]*
 
 > <sup>[5](/bible/1-peter/5#v5)</sup> Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble.
->
-> <sup>[6](/bible/1-peter/5#v6)</sup> Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:
 
 - Yea, all of you be subject one to another: All of you be subject one to another.
 
@@ -462,6 +460,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "obedience", "pride
 - For God resisteth the proud, and giveth grace to the humble: Some of you cannot grow in wisdom because you're too prideful. You won't humble down. You won't accept that God didn't choose you to be in the forefront. And it really don't matter where you start. It's about where you finish. Some people that came in the truth before you that you may have learned from may not be in when Christ return. Or may not die in Christ. They may go back into the world.
 
 - All of the elders that the bishops never had back in the day. Some of them, not going to say all of them, some of them went into the world. Some of their leaders, some people that was ranked over them, they're not here no more. They're not keeping the commandments no more. They're in the church, some of them. You understand? So, it's never about where you start, it's about where you finish. You got to hold a line until the end. So, he going to resist you if you got a prideful spirit. But if you are humble, the Lord will give you grace. You'll make mistakes in the Lord. He'll forgive you like he forgave David. The sure mercies of David.
+
+> <sup>[6](/bible/1-peter/5#v6)</sup> Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:
 
 - Humble yourselves therefore under the mighty hand of God: Humble yourselves therefore under the mighty hand of God. That's his leadership that he set up.
 

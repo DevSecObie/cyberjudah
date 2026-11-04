@@ -2,7 +2,7 @@
 title: "Escaping the Plantation: Lord of the House: The Restoration of the Israelite Man"
 slug: "2025/2025-07-28-escaping-the-plantation-lord-of-the-house-the-restoration-of-the-israe"
 date: "2025-07-28"
-teacher: "Officer"
+teacher: ""
 description: "Escaping the Plantation · 2025-07-28"
 collection: "Escaping the Plantation"
 tags: ["IUIC in the ClassRoom", "marriage-family", "pride", "salvation", "women"]

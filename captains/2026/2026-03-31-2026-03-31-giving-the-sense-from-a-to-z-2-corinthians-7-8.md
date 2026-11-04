@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "leadership", "repentance
 
 ## Introduction
 
-*[[1:30](https://www.youtube.com/watch?v=l7ZRVZ-4jiE&t=90s)]* All praises. All shalom. Most High and Christ bless. Shalom to you family. Giving the sense from A to Z, as we continue to give you the understanding of the scriptures as it is written. I am today's host, Captain Gedaliah of Israel United in Christ. And I'm happy to be back teaching on Giving the Sense. It's been a few weeks since I've been back. We got more captains teaching. All praise to the Lord. We getting it in, man. A lot of brothers stepping up and having the availability. It's all about the availability, y'all. I'll be honest with you. Most of the men that I know that's really real about this truth, they want to teach. They want to teach. It's just unfortunately different things, travel, sometimes brothers not able to. So, I'm just grateful that I'm able to. All right? Today we are going to deal with 2 Corinthians chapter 7. We're going to be picking up at verse 8. Now, Captain Emmanuel of IUIC Arkansas, he finished 2 Corinthians 7:1-7 yesterday. So, I'm going to just pick up where he left off. Now, something right now great is happening, brothers and sisters. We going through the letters of Paul. Now, Deacon Eythan of IUIC has been going through the letters of Paul, and the captains, we've been dealing daily with the letters of Paul. So, it's an opportunity for you to get some understanding that you never going to get in your church. I'm just going to tell you that right now. If you in church now, if you were in church, you're not getting this understanding. They don't know what they're talking about. We're going to show you here in a minute.
+*[[1:30](https://www.youtube.com/watch?v=l7ZRVZ-4jiE&t=90s)]* All praises. All shalom. Most High and Christ bless. Shalom to you family. Giving the sense from A to Z, as we continue to give you the understanding of the scriptures as it is written. I am today's host, Captain Gedaliah of Israel United in Christ. And I'm happy to be back teaching on Giving the Sense. It's been a few weeks since I've been back. We got more captains teaching. All praise to the Lord. We getting it in, man. A lot of brothers stepping up and having the availability. It's all about the availability, y'all. I'll be honest with you. Most of the men that I know that's really real about this truth, they want to teach. They want to teach. It's just unfortunately different things, travel, sometimes brothers not able to. So, I'm just grateful that I'm able to. All right? Today we are going to deal with 2 Corinthians chapter 7. We're going to be picking up at verse 8. Now, Captain Immanuel of IUIC Arkansas, he finished 2 Corinthians 7:1-7 yesterday. So, I'm going to just pick up where he left off. Now, something right now great is happening, brothers and sisters. We going through the letters of Paul. Now, Deacon Eythan of IUIC has been going through the letters of Paul, and the captains, we've been dealing daily with the letters of Paul. So, it's an opportunity for you to get some understanding that you never going to get in your church. I'm just going to tell you that right now. If you in church now, if you were in church, you're not getting this understanding. They don't know what they're talking about. We're going to show you here in a minute.
 
 ## Scriptures Opened
 
@@ -33,13 +33,13 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "leadership", "repentance
 
 **[Acts 8:30-31](/bible/acts/8#v30)**  *[[6:32](https://www.youtube.com/watch?v=l7ZRVZ-4jiE&t=392s)]*
 
-> <sup>[30](/bible/acts/8#v30)</sup> And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou readest?
->
-> <sup>[31](/bible/acts/8#v31)</sup> And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him.
-
 - About the Ethiopian eunuch: I always like to connect these two together. Nehemiah 8 and 8 and Acts 8.
 
+> <sup>[30](/bible/acts/8#v30)</sup> And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou readest?
+
 - Understandest thou what thou readest?: So he said, "Do you understand what you're reading cuz I see you reading but do you understand it?"
+
+> <sup>[31](/bible/acts/8#v31)</sup> And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him.
 
 - How can I, except some man should guide me?: He said, "How can I understand it unless some man should guide me?" That's the type of humility you have to have if you want to learn the Bible. If you want to stay ignorant of the scriptures then you got to continue to reject that. You're going to continue to say that you can go through the commentaries that Esau put together or you can look at different translations. You can look up Bible teachings from Billy Graham and Joel Osteen and blah blah blah, but you ain't going to understand nothing that you read. Because the only way to understand what you're reading is to be taught by men that exemplify what the scriptures say. You have to keep the commandments yourself and you have to learn from men that exemplify what the scriptures say.
 
@@ -47,16 +47,16 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "leadership", "repentance
 **[Sirach 6:32-34](/bible/sirach/6#v32)**  *[[7:55](https://www.youtube.com/watch?v=l7ZRVZ-4jiE&t=475s)]*
 
 > <sup>[32](/bible/sirach/6#v32)</sup> My son, if thou wilt, thou shalt be taught: and if thou wilt apply thy mind, thou shalt be prudent.
->
-> <sup>[33](/bible/sirach/6#v33)</sup> If thou love to hear, thou shalt receive understanding: and if thou bow thine ear, thou shalt be wise,
->
-> <sup>[34](/bible/sirach/6#v34)</sup> Stand in the multitude of the elders; and cleave unto him that is wise.
 
 - My son, if thou wilt, thou shalt be taught: If you want, you will be taught.
 
 - And if thou wilt apply thy mind, thou shalt be prudent: You hear that? You shall be prudent if you apply your mind. Meaning you really want to learn these things. But watch this though.
 
+> <sup>[33](/bible/sirach/6#v33)</sup> If thou love to hear, thou shalt receive understanding: and if thou bow thine ear, thou shalt be wise,
+
 - If thou love to hear, thou shalt receive understanding: If you love to hear the scriptures, you will receive understanding.
+
+> <sup>[34](/bible/sirach/6#v34)</sup> Stand in the multitude of the elders; and cleave unto him that is wise.
 
 - Stand in the multitude of the elders and cleave unto him that is wise: Wait, wait, what that say? Read that part again, verse 34.
 
@@ -71,28 +71,26 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "leadership", "repentance
 **[2 Corinthians 7:1-7](/bible/2-corinthians/7#v1)**  *[[9:26](https://www.youtube.com/watch?v=l7ZRVZ-4jiE&t=566s)]*
 
 > <sup>[1](/bible/2-corinthians/7#v1)</sup> Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God.
->
+
+- Let us cleanse ourselves from all filthiness of the flesh and spirit: Let's start at 1 and we'll briefly read down so that we can make sure that we are in the same vein with Captain Immanuel's class from yesterday. So, the Lord says we need to be cleansing ourselves from all filthiness of the flesh and spirit. The filthiness of the flesh meaning how we behave ourselves, and the spirit meaning we ponder upon those things, because before it manifest in our flesh, it starts in our mind. So, we got to clean up our mind so that we can clean up our flesh. That's heavy. That is heavy.
+
 > <sup>[2](/bible/2-corinthians/7#v2)</sup> Receive us; we have wronged no man, we have corrupted no man, we have defrauded no man.
->
+
+- We have wronged no man, we have corrupted no man, we have defrauded no man: Talking about the apostles, they did right by the people.
+
 > <sup>[3](/bible/2-corinthians/7#v3)</sup> I speak not this to condemn you: for I have said before, that ye are in our hearts to die and live with you.
 >
 > <sup>[4](/bible/2-corinthians/7#v4)</sup> Great is my boldness of speech toward you, great is my glorying of you: I am filled with comfort, I am exceeding joyful in all our tribulation.
->
-> <sup>[5](/bible/2-corinthians/7#v5)</sup> For, when we were come into Macedonia, our flesh had no rest, but we were troubled on every side; without were fightings, within were fears.
->
-> <sup>[6](/bible/2-corinthians/7#v6)</sup> Nevertheless God, that comforteth those that are cast down, comforted us by the coming of Titus;
->
-> <sup>[7](/bible/2-corinthians/7#v7)</sup> And not by his coming only, but by the consolation wherewith he was comforted in you, when he told us your earnest desire, your mourning, your fervent mind toward me; so that I rejoiced the more.
-
-- Let us cleanse ourselves from all filthiness of the flesh and spirit: Let's start at 1 and we'll briefly read down so that we can make sure that we are in the same vein with Captain Emmanuel's class from yesterday. So, the Lord says we need to be cleansing ourselves from all filthiness of the flesh and spirit. The filthiness of the flesh meaning how we behave ourselves, and the spirit meaning we ponder upon those things, because before it manifest in our flesh, it starts in our mind. So, we got to clean up our mind so that we can clean up our flesh. That's heavy. That is heavy.
-
-- We have wronged no man, we have corrupted no man, we have defrauded no man: Talking about the apostles, they did right by the people.
 
 - Great is my boldness of speech toward you, great is my glorying of you: So, he's saying, "Listen, I know I be bold in how I talk to y'all, but I also know that I glory in you, right?" Because the Corinthians was his glory.
 
 - Great is my boldness of speech toward you (verse 4, read again): Right, because Christ is with them and because he's seeing the growth of the church, so he's comforted by that.
 
+> <sup>[5](/bible/2-corinthians/7#v5)</sup> For, when we were come into Macedonia, our flesh had no rest, but we were troubled on every side; without were fightings, within were fears.
+
 - Without were fightings, within were fears: Right, he went through a lot of affliction is what he's saying, right? And you read about that in chapter 2, verse 13. Which connects back with Acts.
+
+> <sup>[6](/bible/2-corinthians/7#v6)</sup> Nevertheless God, that comforteth those that are cast down, comforted us by the coming of Titus;
 
 - God, that comforteth those that are cast down, comforted us by the coming of Titus: Now, remember Paul spent 18 months in Corinth, but once he got on his travels, eventually he had to send other men.
 
@@ -135,6 +133,8 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "leadership", "repentance
     > <sup>[36](/bible/acts/15#v36)</sup> And some days after Paul said unto Barnabas, Let us go again and visit our brethren in every city where we have preached the word of the Lord, and see how they do.
 
     So, that's always been the MO of the apostles. They always would go to the churches or go to the areas where they established churches before and see how they do. We're doing the same thing today. We established the church in Sierra Leone, we got to go back and see how they're doing. We established a church in Italy, we got to go back and see how they're doing. We established a church in Rome, we established a church in wherever. Spain, Portugal, Brazil, wherever we teach, to Caribbean Islands, Babylon, wherever we teach, wherever we establish churches, we have to go back and check on those brothers and sisters. That's what the apostles did as well. We're doing nothing new. The acts of apostles continue.
+
+> <sup>[7](/bible/2-corinthians/7#v7)</sup> And not by his coming only, but by the consolation wherewith he was comforted in you, when he told us your earnest desire, your mourning, your fervent mind toward me; so that I rejoiced the more.
 
 
 **[2 Corinthians 7:8](/bible/2-corinthians/7#v8)**  *[[19:16](https://www.youtube.com/watch?v=l7ZRVZ-4jiE&t=1156s)]*
@@ -271,32 +271,32 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "leadership", "repentance
 **[Psalms 51:6-13](/bible/psalms/51#v6)**  *[[39:13](https://www.youtube.com/watch?v=l7ZRVZ-4jiE&t=2353s)]*
 
 > <sup>[6](/bible/psalms/51#v6)</sup> Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom.
->
-> <sup>[7](/bible/psalms/51#v7)</sup> Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.
->
-> <sup>[8](/bible/psalms/51#v8)</sup> Make me to hear joy and gladness; that the bones which thou hast broken may rejoice.
->
-> <sup>[9](/bible/psalms/51#v9)</sup> Hide thy face from my sins, and blot out all mine iniquities.
->
-> <sup>[10](/bible/psalms/51#v10)</sup> Create in me a clean heart, O God; and renew a right spirit within me.
->
-> <sup>[11](/bible/psalms/51#v11)</sup> Cast me not away from thy presence; and take not thy holy spirit from me.
->
-> <sup>[12](/bible/psalms/51#v12)</sup> Restore unto me the joy of thy salvation; and uphold me with thy free spirit.
->
-> <sup>[13](/bible/psalms/51#v13)</sup> Then will I teach transgressors thy ways; and sinners shall be converted unto thee.
 
 - Behold, thou desirest truth in the inward parts: You hear that? So, I acknowledge my transgressions, and I know that you desire truth in the inward parts, meaning in my mind, I must meditate upon your commandments. I see I sinned against you, I acknowledge my sin, now I'm fixing my sin. That's the blueprint. You can acknowledge the sin, but don't fix it? It don't work like that. You have to fix it. That's when you see yourself go to another level of wisdom.
 
 - And in the hidden part thou shalt make me to know wisdom: You hear that? And then I'm going to know wisdom now. Because I see the sin, I acknowledge the sin, I correct the sin, now you give me wisdom. Because when you acknowledge God is right and you're wrong, he said, "This one ready to level up. Hey, Jesus. Hey, Raphael, Michael, hey, come over here. Hey, look at him down there. He don't acknowledge his sin. And look at him fixing it. Hey, send him another level of wisdom." That's how it work. You level up. Everybody want to level up in this truth. Well, what you battling with? "Oh, I don't really want to speak on it." Okay, well, you stay where you at. Until you acknowledge what it is you deal with, until you study these scriptures and say, "That's me. Damn. Man, that's me right there." Until you do that, you will not go nowhere. You will stay stagnant in this truth. You'll get to a certain level and you'll plateau. Because I know men that's above me in wisdom, understanding, and longevity that are still examining themselves to this day. Here it is, you in year three and you think you got it all together. Nope. It don't work like that. No three-year-old got life figured out. Think about it for a second. What three-year-old got life figured out? Stop. It don't work like that. So, he said, "He desires truth in the inward parts and in the hidden part thou shalt make me to know wisdom."
 
+> <sup>[7](/bible/psalms/51#v7)</sup> Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.
+>
+> <sup>[8](/bible/psalms/51#v8)</sup> Make me to hear joy and gladness; that the bones which thou hast broken may rejoice.
+
 - That the bones which thou hast broken may rejoice: That's how you feel when you get corrected. It feel like a broken bone. Damn, that hurt. It's pain. Pain to get corrected at times.
+
+> <sup>[9](/bible/psalms/51#v9)</sup> Hide thy face from my sins, and blot out all mine iniquities.
+>
+> <sup>[10](/bible/psalms/51#v10)</sup> Create in me a clean heart, O God; and renew a right spirit within me.
 
 - Create in me a clean heart, O God, and renew a right spirit within me: That's what happen when you go around leaders. You get corrected, but you feel better after. You say, "Man, I'm so glad I came. I'm so glad I found myself in that room. I'm so glad I found myself amongst the elders because the things that's coming out right now is what I needed."
 
 - Classes that force you to look at you: Everybody love the prophecy classes. Come on, man. We love them. We love them. We can't get enough of them. Prophecies and deep parables, the stuff that the bishops and the deacons be going into on those holy days when they go eight, nine hours and you got to go watch the class 10 times just to get that, you like, "Ooh, damn, I finally get it." But nobody likes these classes that force you to look at you and fix it. Nobody likes those type of classes, but those the classes we need. I know I need them classes. I need the deep stuff cuz I love to hear prophecy, but I also need them class that make me think like, "Shit. Damn. That thing hurt. I got to fix this." For real, though.
 
+> <sup>[11](/bible/psalms/51#v11)</sup> Cast me not away from thy presence; and take not thy holy spirit from me.
+
 - Cast me not away from thy presence; and take not thy holy spirit from me: So, David is asking the Lord to not cast him away from his presence. What does that mean? The Lord ain't dealing with you. When the spirit is gone, when you can't see your fault. You ain't listening to the brothers no more. You don't want to study the Bible. You slowly creeping away from the congregation. You stop coming to the feast day. You stop coming to the Sabbath. You stop showing up for your obligations. You fall back on your offices. You don't say shalom on the telegrams and on the social media app. Listen, that mean you ain't in the Lord's presence no more. And that's the scariest feeling ever. That is the scariest thing ever. For the Lord to say, "Get this dude away from me." Scariest thing ever.
+
+> <sup>[12](/bible/psalms/51#v12)</sup> Restore unto me the joy of thy salvation; and uphold me with thy free spirit.
+>
+> <sup>[13](/bible/psalms/51#v13)</sup> Then will I teach transgressors thy ways; and sinners shall be converted unto thee.
 
 - Then will I teach transgressors thy ways; and sinners shall be converted unto thee: So, a lot of you want to be teachers, but you don't want to fix yourself. In order for us to teach, we got to constantly self-examine. That's why when you see me teach, or the other captains teach, my brothers, the officers, bishop, deacon, we always teach from a standpoint that we could fall to the same thing. You ever notice when leadership teaching, they always say, "Brothers and sisters, we got to fix this. We got to stop." Now, if I ain't watching porn, I'm not going to say, "We got to stop watching porn," cuz I ain't watching it. But you'll notice brothers will say things like, "Brothers and sisters, we got to overcome our sins." So, I'm not specific to what I may be dealing with, but I do have sin. So do you. So, when I say, "We got to fix it," meaning I got to fix it, whatever I deal with, you got to fix whatever you deal with. That's how it works.
 
@@ -308,12 +308,12 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "leadership", "repentance
 **[2 Corinthians 7:9-10](/bible/2-corinthians/7#v9)**  *[[47:07](https://www.youtube.com/watch?v=l7ZRVZ-4jiE&t=2827s)]*
 
 > <sup>[9](/bible/2-corinthians/7#v9)</sup> Now I rejoice, not that ye were made sorry, but that ye sorrowed to repentance: for ye were made sorry after a godly manner, that ye might receive damage by us in nothing.
->
-> <sup>[10](/bible/2-corinthians/7#v10)</sup> For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death.
 
 - But that ye sorrowed to repentance: You hear that? That you sorrowed to repentance.
 
 - For ye were made sorry after a godly manner: So, to be sorry after a godly manner, meaning you acknowledge what it is that you did wrong and you're emotional because of it. That's good. That's good.
+
+> <sup>[10](/bible/2-corinthians/7#v10)</sup> For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death.
 
 - For godly sorrow worketh repentance to salvation not to be repented of: Right. You don't have to apologize for being sorry that you sinned against the Lord. You don't have to apologize. "I'm sorry for being emotional," or "I'm sorry." No, you messed up. It was brought to your attention. Now you on the road to fixing it. Good. All praises. That's what it's about. Fix it. For real though.
 
@@ -389,14 +389,14 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "leadership", "repentance
 **[2 Corinthians 7:13-16](/bible/2-corinthians/7#v13)**  *[[57:19](https://www.youtube.com/watch?v=l7ZRVZ-4jiE&t=3439s)]*
 
 > <sup>[13](/bible/2-corinthians/7#v13)</sup> Therefore we were comforted in your comfort: yea, and exceedingly the more joyed we for the joy of Titus, because his spirit was refreshed by you all.
->
+
+- Because his spirit was refreshed by you all: When Titus went down to visit the brothers and sisters in Corinth, he said, "Man, his spirit came back refreshed," when he saw how y'all was in the spirit.
+
 > <sup>[14](/bible/2-corinthians/7#v14)</sup> For if I have boasted any thing to him of you, I am not ashamed; but as we spake all things to you in truth, even so our boasting, which I made before Titus, is found a truth.
 >
 > <sup>[15](/bible/2-corinthians/7#v15)</sup> And his inward affection is more abundant toward you, whilst he remembereth the obedience of you all, how with fear and trembling ye received him.
 >
 > <sup>[16](/bible/2-corinthians/7#v16)</sup> I rejoice therefore that I have confidence in you in all things.
-
-- Because his spirit was refreshed by you all: When Titus went down to visit the brothers and sisters in Corinth, he said, "Man, his spirit came back refreshed," when he saw how y'all was in the spirit.
 
 - I rejoice therefore that I have confidence in you in all things: Right. I have confidence in you in all things. So, Titus was refreshed by the spirit that he saw in the brothers and sisters in Corinth, and he reported that back to the Apostle Paul. You know what I'm saying? You understand? So, this is the way that we are supposed to move. When leadership come down, they want to be refreshed. Like, "Man, I went down there to see such-and-such school, man, and I'm refreshed by their spirit, man. They was in the spirit. The hospitality was great. The brothers was eager to learn. The sisters were lovely. All praises to the Most High, man. I got nothing but a good report." That's how you want leadership to come to your school. You don't want them to have to come down with the hammer. Right?
 

@@ -75,10 +75,6 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 **[2 Corinthians 11:13-15](/bible/2-corinthians/11#v13)**  *[[36:09](https://www.youtube.com/watch?v=glPn1X5IJBg&t=2169s)]*
 
 > <sup>[13](/bible/2-corinthians/11#v13)</sup> For such are false apostles, deceitful workers, transforming themselves into the apostles of Christ.
->
-> <sup>[14](/bible/2-corinthians/11#v14)</sup> And no marvel; for Satan himself is transformed into an angel of light.
->
-> <sup>[15](/bible/2-corinthians/11#v15)</sup> Therefore it is no great thing if his ministers also be transformed as the ministers of righteousness; whose end shall be according to their works.
 
 - False apostles, deceitful workers: their job is to get in your brain, make you think less of yourself, make you feel you are nothing, and get you out there with him.
 
@@ -87,6 +83,10 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 - Satan himself is transformed into an angel of light, so it is no marvel that his ministers are transformed as the ministers of righteousness. It is a facade, and it leads our people to the gates of hell.
 
 - That is how he destroys you: by getting your mind, making you think you were never called, so that the first time you are corrected you play the victim and run.
+
+> <sup>[14](/bible/2-corinthians/11#v14)</sup> And no marvel; for Satan himself is transformed into an angel of light.
+>
+> <sup>[15](/bible/2-corinthians/11#v15)</sup> Therefore it is no great thing if his ministers also be transformed as the ministers of righteousness; whose end shall be according to their works.
 
 
 **[Galatians 1:3-4](/bible/galatians/1#v3)**  *[[39:26](https://www.youtube.com/watch?v=glPn1X5IJBg&t=2366s)]*
@@ -104,25 +104,25 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 
 **[Psalms 64:4-8](/bible/psalms/64#v4)**  *[[41:02](https://www.youtube.com/watch?v=glPn1X5IJBg&t=2462s)]*
 
+- They shoot in secret at the perfect and fear not, and they encourage themselves in an evil matter — everything they set up is set up to destroy us, and they start with your mind.
+
 > <sup>[4](/bible/psalms/64#v4)</sup> That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.
 >
 > <sup>[5](/bible/psalms/64#v5)</sup> They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?
->
-> <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
->
-> <sup>[7](/bible/psalms/64#v7)</sup> But God shall shoot at them with an arrow; suddenly shall they be wounded.
->
-> <sup>[8](/bible/psalms/64#v8)</sup> So they shall make their own tongue to fall upon themselves: all that see them shall flee away.
-
-- They shoot in secret at the perfect and fear not, and they encourage themselves in an evil matter — everything they set up is set up to destroy us, and they start with your mind.
 
 - They commune of laying snares privily: social media is a trap, the music is a trap, politics is a trap, and these fake holidays are traps. Next week it is Thanksgiving with turkey and cranberry sauce — for Passover he told us lamb, bitter herbs and unleavened bread.
 
 - They say, Who shall see them? Nobody sees us putting the guns in Chicago, nobody sees us putting the drugs in Philadelphia.
 
+> <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
+
 - Both the inward thought of every one of them, and the heart is deep: we are thinking about tomorrow and they are thinking a hundred years out — how to destroy a whole generation with social media, with music, with the school-to-prison pipeline.
 
 - But God shall shoot at them with an arrow and they shall be wounded, and they shall make their own tongue to fall upon themselves. That is how we find out about the snares they laid: their own mouths tell it.
+
+> <sup>[7](/bible/psalms/64#v7)</sup> But God shall shoot at them with an arrow; suddenly shall they be wounded.
+>
+> <sup>[8](/bible/psalms/64#v8)</sup> So they shall make their own tongue to fall upon themselves: all that see them shall flee away.
 
 
 *[[43:21](https://www.youtube.com/watch?v=glPn1X5IJBg&t=2601s)]* **In The News: A video on confirmation bias: your mind is rigged against you** — Your brain does not seek truth, it seeks comfort; you do not listen to understand, you listen to reload. The strongest chains are not made of metal, they are made of beliefs. They have fed our minds so much garbage that we believe the propaganda — fifteen shows saying the same false thing — and we have this Bible to filter truth with.
@@ -132,14 +132,14 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 **[Revelation 1:14-15](/bible/revelation/1#v14)**  *[[52:35](https://www.youtube.com/watch?v=glPn1X5IJBg&t=3155s)]*
 
 > <sup>[14](/bible/revelation/1#v14)</sup> His head and his hairs were white like wool, as white as snow; and his eyes were as a flame of fire;
->
-> <sup>[15](/bible/revelation/1#v15)</sup> And his feet like unto fine brass, as if they burned in a furnace; and his voice as the sound of many waters.
 
 - His head and his hairs were white like wool: the texture is the point, wool is our hair.
 
 - His eyes were as a flame of fire, and his feet like unto fine brass as if they burned in a furnace — so dark it looked burned.
 
 - It is written in the Bible, so a man cannot say the white image came first. Our people are destroyed for a lack of knowledge, and if it were not for this truth we would be loving that white image too.
+
+> <sup>[15](/bible/revelation/1#v15)</sup> And his feet like unto fine brass, as if they burned in a furnace; and his voice as the sound of many waters.
 
 
 **[Deuteronomy 28:15-16](/bible/deuteronomy/28#v15)**  *[[54:17](https://www.youtube.com/watch?v=glPn1X5IJBg&t=3257s)]*
@@ -175,8 +175,6 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 **[Isaiah 56:10-11](/bible/isaiah/56#v10)**  *[[58:53](https://www.youtube.com/watch?v=glPn1X5IJBg&t=3533s)]*
 
 > <sup>[10](/bible/isaiah/56#v10)</sup> His watchmen are blind: they are all ignorant, they are all dumb dogs, they cannot bark; sleeping, lying down, loving to slumber.
->
-> <sup>[11](/bible/isaiah/56#v11)</sup> Yea, they are greedy dogs which can never have enough, and they are shepherds that cannot understand: they all look to their own way, every one for his gain, from his quarter.
 
 - His watchmen are blind, they are all ignorant: they do not know this Bible, which is how a man ends up throwing it on the floor in a service.
 
@@ -186,16 +184,18 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 
 - They are greedy dogs which can never have enough, shepherds that cannot understand; they all look to their own way, every one for his gain from his quarter. They are all saying the same thing because it is coming from the same person.
 
+> <sup>[11](/bible/isaiah/56#v11)</sup> Yea, they are greedy dogs which can never have enough, and they are shepherds that cannot understand: they all look to their own way, every one for his gain, from his quarter.
+
 
 *[[1:01:00](https://www.youtube.com/watch?v=glPn1X5IJBg&t=3660s)]* **In The News: A megachurch pastor calling for a thousand-dollar seed, then a thousand plus a thousand, with the doors closed and a hundred dollars charged to the people on the stage** — Greedy dogs which can never have enough. A little boy came up there to be fed with the word of God and to grow up to be a servant of the Lord, and walked away broken, while the man in the five-thousand-dollar suit asked him for more. Take the watch and the bracelet off and the money is right there.
 
 **[Jeremiah 23:1-2](/bible/jeremiah/23#v1)**  *[[1:05:44](https://www.youtube.com/watch?v=glPn1X5IJBg&t=3944s)]*
 
 > <sup>[1](/bible/jeremiah/23#v1)</sup> Woe be unto the pastors that destroy and scatter the sheep of my pasture! saith the Lord.
->
-> <sup>[2](/bible/jeremiah/23#v2)</sup> Therefore thus saith the Lord God of Israel against the pastors that feed my people; Ye have scattered my flock, and driven them away, and have not visited them: behold, I will visit upon you the evil of your doings, saith the Lord.
 
 - Woe be unto the pastors that destroy and scatter the sheep of my pasture: he is against the pastors who are greedy for money and who break the people's spirits.
+
+> <sup>[2](/bible/jeremiah/23#v2)</sup> Therefore thus saith the Lord God of Israel against the pastors that feed my people; Ye have scattered my flock, and driven them away, and have not visited them: behold, I will visit upon you the evil of your doings, saith the Lord.
 
 - Ye have scattered my flock, and driven them away: they drive away the people who came to learn, to grow, to hear about God.
 
@@ -238,10 +238,6 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 **[Ezekiel 22:26-28](/bible/ezekiel/22#v26)**  *[[1:16:44](https://www.youtube.com/watch?v=glPn1X5IJBg&t=4604s)]*
 
 > <sup>[26](/bible/ezekiel/22#v26)</sup> Her priests have violated my law, and have profaned mine holy things: they have put no difference between the holy and profane, neither have they shewed difference between the unclean and the clean, and have hid their eyes from my sabbaths, and I am profaned among them.
->
-> <sup>[27](/bible/ezekiel/22#v27)</sup> Her princes in the midst thereof are like wolves ravening the prey, to shed blood, and to destroy souls, to get dishonest gain.
->
-> <sup>[28](/bible/ezekiel/22#v28)</sup> And her prophets have daubed them with untempered morter, seeing vanity, and divining lies unto them, saying, Thus saith the Lord God, when the Lord hath not spoken.
 
 - Her priests have violated my law and have profaned mine holy things: they have put no difference between the holy and profane, and showed no difference between the unclean and the clean — pork and shrimp cooked in the churches.
 
@@ -252,6 +248,10 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 - Her prophets have daubed them with untempered mortar, seeing vanity and divining lies: they say thus saith the Lord God when the Lord has not spoken, and they have a heavy price to pay in that day.
 
 - Every one of them has some kind of gimmick going to keep the people mesmerized, and the gimmick is witchcraft.
+
+> <sup>[27](/bible/ezekiel/22#v27)</sup> Her princes in the midst thereof are like wolves ravening the prey, to shed blood, and to destroy souls, to get dishonest gain.
+>
+> <sup>[28](/bible/ezekiel/22#v28)</sup> And her prophets have daubed them with untempered morter, seeing vanity, and divining lies unto them, saying, Thus saith the Lord God, when the Lord hath not spoken.
 
 
 *[[1:20:52](https://www.youtube.com/watch?v=glPn1X5IJBg&t=4852s)]* **In The News: A preacher telling his church that Jesus was not a black man but an ethnic Jew, and that exalting your race is idolatry** — Divining lies to the Israelites sitting in that church. You never saw that white image anywhere in the Bible — and nobody has ever heard of black privilege or black supremacy.
@@ -304,22 +304,22 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 **[2 Timothy 3:1-4](/bible/2-timothy/3#v1)**  *[[1:35:18](https://www.youtube.com/watch?v=glPn1X5IJBg&t=5718s)]*
 
 > <sup>[1](/bible/2-timothy/3#v1)</sup> This know also, that in the last days perilous times shall come.
->
-> <sup>[2](/bible/2-timothy/3#v2)</sup> For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
->
-> <sup>[3](/bible/2-timothy/3#v3)</sup> Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,
->
-> <sup>[4](/bible/2-timothy/3#v4)</sup> Traitors, heady, highminded, lovers of pleasures more than lovers of God;
 
 - In the last days perilous times shall come: the rough, hard times are here right now.
 
 - Men shall be lovers of their own selves — that is the social media: comfortable alone, comfortable talking to yourself, no longer able to hold a conversation.
 
+> <sup>[2](/bible/2-timothy/3#v2)</sup> For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
+
 - Covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy: that is what is happening to these children, and they will do it to a woman old enough to be their mother.
+
+> <sup>[3](/bible/2-timothy/3#v3)</sup> Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,
 
 - Without natural affection: our people do not have that natural love for one another any more — we are a fragmented, broken people.
 
 - Despisers of those that are good is why they hate us. They see us doing right and feeding the sheep and it makes them mad; they are lovers of pleasures more than lovers of God.
+
+> <sup>[4](/bible/2-timothy/3#v4)</sup> Traitors, heady, highminded, lovers of pleasures more than lovers of God;
 
 
 *[[1:36:10](https://www.youtube.com/watch?v=glPn1X5IJBg&t=5770s)]* **In The News: A video on social-media algorithms and dopamine addiction** — The reward loops rewire the brain until independent thought vanishes and people cannot tell a real experience from a digital one. That is why we become lovers of our own selves: you cannot hold a conversation any more, and four and five hours go by while you scroll. Find what we can teach our people with and get off it.
@@ -372,10 +372,10 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 > <sup>[6](/bible/colossians/2#v6)</sup> As ye have therefore received Christ Jesus the Lord, so walk ye in him:
 >
 > <sup>[7](/bible/colossians/2#v7)</sup> Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving.
->
-> <sup>[8](/bible/colossians/2#v8)</sup> Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ.
 
 - As ye have therefore received Christ Jesus the Lord, so walk ye in him, rooted and built up in him: rooted in Christ is how a brain stays out of the hands of the wicked.
+
+> <sup>[8](/bible/colossians/2#v8)</sup> Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ.
 
 - Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men: following men, following these fake holidays, following the religions, the politics, the music.
 
@@ -385,20 +385,20 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 **[2 Thessalonians 2:13-17](/bible/2-thessalonians/2#v13)**  *[[1:49:46](https://www.youtube.com/watch?v=glPn1X5IJBg&t=6586s)]*
 
 > <sup>[13](/bible/2-thessalonians/2#v13)</sup> But we are bound to give thanks alway to God for you, brethren beloved of the Lord, because God hath from the beginning chosen you to salvation through sanctification of the Spirit and belief of the truth:
->
+
+- God hath from the beginning chosen you to salvation through sanctification of the Spirit and belief of the truth: the sanctifying is the cleansing of your spirit.
+
 > <sup>[14](/bible/2-thessalonians/2#v14)</sup> Whereunto he called you by our gospel, to the obtaining of the glory of our Lord Jesus Christ.
 >
 > <sup>[15](/bible/2-thessalonians/2#v15)</sup> Therefore, brethren, stand fast, and hold the traditions which ye have been taught, whether by word, or our epistle.
->
-> <sup>[16](/bible/2-thessalonians/2#v16)</sup> Now our Lord Jesus Christ himself, and God, even our Father, which hath loved us, and hath given us everlasting consolation and good hope through grace,
->
-> <sup>[17](/bible/2-thessalonians/2#v17)</sup> Comfort your hearts, and stablish you in every good word and work.
-
-- God hath from the beginning chosen you to salvation through sanctification of the Spirit and belief of the truth: the sanctifying is the cleansing of your spirit.
 
 - Stand fast, and hold the traditions which ye have been taught: the traditions we were taught are in Leviticus 23 — Passover, Pentecost, dedication, tabernacles, all the high holy days — not the traditions of men.
 
 - He hath given us everlasting consolation and good hope through grace: comfort your hearts, and stablish you in every good word and work. So we comfort our minds and establish ourselves in every good word and every good work of this Bible.
+
+> <sup>[16](/bible/2-thessalonians/2#v16)</sup> Now our Lord Jesus Christ himself, and God, even our Father, which hath loved us, and hath given us everlasting consolation and good hope through grace,
+>
+> <sup>[17](/bible/2-thessalonians/2#v17)</sup> Comfort your hearts, and stablish you in every good word and work.
 
 
 **[Luke 22:31-32](/bible/luke/22#v31)**  *[[1:51:21](https://www.youtube.com/watch?v=glPn1X5IJBg&t=6681s)]*
@@ -492,10 +492,10 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 **[Psalms 55:17-18](/bible/psalms/55#v17)**  *[[2:00:48](https://www.youtube.com/watch?v=glPn1X5IJBg&t=7248s)]*
 
 > <sup>[17](/bible/psalms/55#v17)</sup> Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice.
->
-> <sup>[18](/bible/psalms/55#v18)</sup> He hath delivered my soul in peace from the battle that was against me: for there were many with me.
 
 - Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice.
+
+> <sup>[18](/bible/psalms/55#v18)</sup> He hath delivered my soul in peace from the battle that was against me: for there were many with me.
 
 - He hath delivered my soul in peace from the battle that was against me: the battle for us is the trials and tribulations, and every one of us has something he is battling.
 
@@ -541,14 +541,6 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 **[Sirach 43:27-31](/bible/sirach/43#v27)**  *[[2:04:33](https://www.youtube.com/watch?v=glPn1X5IJBg&t=7473s)]*
 
 > <sup>[27](/bible/sirach/43#v27)</sup> We may speak much, and yet come short: wherefore in sum, he is all.
->
-> <sup>[28](/bible/sirach/43#v28)</sup> How shall we be able to magnify him? for he is great above all his works.
->
-> <sup>[29](/bible/sirach/43#v29)</sup> The Lord is terrible and very great, and marvellous is his power.
->
-> <sup>[30](/bible/sirach/43#v30)</sup> When ye glorify the Lord, exalt him as much as ye can; for even yet will he far exceed: and when ye exalt him, put forth all your strength, and be not weary; for ye can never go far enough.
->
-> <sup>[31](/bible/sirach/43#v31)</sup> Who hath seen him, that he might tell us? and who can magnify him as he is?
 
 - We may speak much, and yet come short: he is great above all his works, and we cannot pray enough to him for everything he does for us.
 
@@ -557,6 +549,14 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 - That means real prayers, not Lord, help me get a car. Lord, I am struggling, I am fighting to stand in this truth, my faith is running low, I need wisdom, knowledge and understanding.
 
 - Who hath seen him, that he might tell us? and who can magnify him as he is? Nobody can.
+
+> <sup>[28](/bible/sirach/43#v28)</sup> How shall we be able to magnify him? for he is great above all his works.
+>
+> <sup>[29](/bible/sirach/43#v29)</sup> The Lord is terrible and very great, and marvellous is his power.
+>
+> <sup>[30](/bible/sirach/43#v30)</sup> When ye glorify the Lord, exalt him as much as ye can; for even yet will he far exceed: and when ye exalt him, put forth all your strength, and be not weary; for ye can never go far enough.
+>
+> <sup>[31](/bible/sirach/43#v31)</sup> Who hath seen him, that he might tell us? and who can magnify him as he is?
 
 
 **[Luke 18:1-5](/bible/luke/18#v1)**  *[[2:06:55](https://www.youtube.com/watch?v=glPn1X5IJBg&t=7615s)]*
@@ -581,13 +581,21 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 **[Psalms 149:1-9](/bible/psalms/149#v1)**  *[[2:08:50](https://www.youtube.com/watch?v=glPn1X5IJBg&t=7730s)]*
 
 > <sup>[1](/bible/psalms/149#v1)</sup> Praise ye the Lord. Sing unto the Lord a new song, and his praise in the congregation of saints.
->
+
+- Sing unto the Lord a new song, and his praise in the congregation of saints: let the children of Zion be joyful in their King, in the black Messiah.
+
 > <sup>[2](/bible/psalms/149#v2)</sup> Let Israel rejoice in him that made him: let the children of Zion be joyful in their King.
 >
 > <sup>[3](/bible/psalms/149#v3)</sup> Let them praise his name in the dance: let them sing praises unto him with the timbrel and harp.
 >
 > <sup>[4](/bible/psalms/149#v4)</sup> For the Lord taketh pleasure in his people: he will beautify the meek with salvation.
->
+
+- The Lord taketh pleasure in his people: he takes pleasure in you when you are keeping the law and commandments and walking right in his sight.
+
+- Let the high praises of God be in their mouth, and a two-edged sword in their hand: this Bible is the two-edged sword now, and there is one coming from the heavenly Father.
+
+- To execute vengeance upon the heathen, to bind their kings with chains and their nobles with fetters of iron — not one of them is getting away.
+
 > <sup>[5](/bible/psalms/149#v5)</sup> Let the saints be joyful in glory: let them sing aloud upon their beds.
 >
 > <sup>[6](/bible/psalms/149#v6)</sup> Let the high praises of God be in their mouth, and a twoedged sword in their hand;
@@ -597,14 +605,6 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 > <sup>[8](/bible/psalms/149#v8)</sup> To bind their kings with chains, and their nobles with fetters of iron;
 >
 > <sup>[9](/bible/psalms/149#v9)</sup> To execute upon them the judgment written: this honour have all his saints. Praise ye the Lord.
-
-- Sing unto the Lord a new song, and his praise in the congregation of saints: let the children of Zion be joyful in their King, in the black Messiah.
-
-- The Lord taketh pleasure in his people: he takes pleasure in you when you are keeping the law and commandments and walking right in his sight.
-
-- Let the high praises of God be in their mouth, and a two-edged sword in their hand: this Bible is the two-edged sword now, and there is one coming from the heavenly Father.
-
-- To execute vengeance upon the heathen, to bind their kings with chains and their nobles with fetters of iron — not one of them is getting away.
 
 
 ## Class Questions

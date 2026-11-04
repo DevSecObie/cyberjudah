@@ -130,6 +130,8 @@ The title of the class is Respect: The Evidence Of Her Faith. A lot of our relat
 
 **[Genesis 3:12-20](/bible/genesis/3#v12)**  *[[43:08](https://www.youtube.com/watch?v=hKifTTWBba8&t=2588s)]*
 
+- The woman messed up, she brought it to Adam, Adam entertained it, and when the Lord confronted them, what did Adam do? The woman whom thou gavest to be with me, she gave me of the tree. Is that not what brothers do now? When your house is out of order, who are we looking at? You. You are the one that has to keep things aligned.
+
 > <sup>[12](/bible/genesis/3#v12)</sup> And the man said, The woman whom thou gavest to be with me, she gave me of the tree, and I did eat.
 >
 > <sup>[13](/bible/genesis/3#v13)</sup> And the Lord God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
@@ -137,22 +139,24 @@ The title of the class is Respect: The Evidence Of Her Faith. A lot of our relat
 > <sup>[14](/bible/genesis/3#v14)</sup> And the Lord God said unto the serpent, Because thou hast done this, thou art cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life:
 >
 > <sup>[15](/bible/genesis/3#v15)</sup> And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.
->
+
+- It shall bruise thy head, and thou shalt bruise his heel: a prophetic scripture concerning the coming of the Messiah.
+
+- Unto the woman he said, I will greatly multiply thy sorrow and thy conception. Prior to this mistake, giving birth was not what it is now: the pain, the pre and postpartum, the menstrual, the mental anguish our sisters go through.
+
+- And thy desire shall be to thy husband, and he shall rule over thee. A lot of women look at this and think the rulership only came because of the fall. No: go back to Genesis 2. He was placed over the creatures and named them, and he named her; the headship was already there. Your desire shall be to thy husband means his wants, his aspirations, what he sees fit is what you are going to see fit; if you want anything, it is from your husband.
+
 > <sup>[16](/bible/genesis/3#v16)</sup> Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire shall be to thy husband, and he shall rule over thee.
 >
 > <sup>[17](/bible/genesis/3#v17)</sup> And unto Adam he said, Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying, Thou shalt not eat of it: cursed is the ground for thy sake; in sorrow shalt thou eat of it all the days of thy life;
->
+
+- And unto Adam he said, Because thou hast hearkened unto the voice of thy wife: because you listened to what she had to say, cursed is the ground for thy sake. And Adam called his wife's name Eve, because she was the mother of all living.
+
 > <sup>[18](/bible/genesis/3#v18)</sup> Thorns also and thistles shall it bring forth to thee; and thou shalt eat the herb of the field;
 >
 > <sup>[19](/bible/genesis/3#v19)</sup> In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return.
 >
 > <sup>[20](/bible/genesis/3#v20)</sup> And Adam called his wife’s name Eve; because she was the mother of all living.
-
-- The woman messed up, she brought it to Adam, Adam entertained it, and when the Lord confronted them, what did Adam do? The woman whom thou gavest to be with me, she gave me of the tree. Is that not what brothers do now? When your house is out of order, who are we looking at? You. You are the one that has to keep things aligned.
-- It shall bruise thy head, and thou shalt bruise his heel: a prophetic scripture concerning the coming of the Messiah.
-- Unto the woman he said, I will greatly multiply thy sorrow and thy conception. Prior to this mistake, giving birth was not what it is now: the pain, the pre and postpartum, the menstrual, the mental anguish our sisters go through.
-- And thy desire shall be to thy husband, and he shall rule over thee. A lot of women look at this and think the rulership only came because of the fall. No: go back to Genesis 2. He was placed over the creatures and named them, and he named her; the headship was already there. Your desire shall be to thy husband means his wants, his aspirations, what he sees fit is what you are going to see fit; if you want anything, it is from your husband.
-- And unto Adam he said, Because thou hast hearkened unto the voice of thy wife: because you listened to what she had to say, cursed is the ground for thy sake. And Adam called his wife's name Eve, because she was the mother of all living.
 
 **[1 Corinthians 11:3](/bible/1-corinthians/11#v3)**  *[[50:54](https://www.youtube.com/watch?v=hKifTTWBba8&t=3054s)]*
 
@@ -217,6 +221,8 @@ The title of the class is Respect: The Evidence Of Her Faith. A lot of our relat
 
 **[Numbers 30:3-8](/bible/numbers/30#v3)**  *[[1:05:31](https://www.youtube.com/watch?v=hKifTTWBba8&t=3931s)]*
 
+- A woman vows a vow unto the Lord in her father's house in her youth. The father has the choice to hold his peace, and all her vows shall stand; but if her father disallow her in the day that he heareth, not any of her vows shall stand, and the Lord shall forgive her, because her father disallowed her. This is a vow a child is making to God, and the father has the power to make it of none effect.
+
 > <sup>[3](/bible/numbers/30#v3)</sup> If a woman also vow a vow unto the Lord, and bind herself by a bond, being in her father’s house in her youth;
 >
 > <sup>[4](/bible/numbers/30#v4)</sup> And her father hear her vow, and her bond wherewith she hath bound her soul, and her father shall hold his peace at her: then all her vows shall stand, and every bond wherewith she hath bound her soul shall stand.
@@ -224,24 +230,26 @@ The title of the class is Respect: The Evidence Of Her Faith. A lot of our relat
 > <sup>[5](/bible/numbers/30#v5)</sup> But if her father disallow her in the day that he heareth; not any of her vows, or of her bonds wherewith she hath bound her soul, shall stand: and the Lord shall forgive her, because her father disallowed her.
 >
 > <sup>[6](/bible/numbers/30#v6)</sup> And if she had at all an husband, when she vowed, or uttered ought out of her lips, wherewith she bound her soul;
->
+
+- And if she had at all an husband when she vowed: the husband can do the same. A married, grown woman makes a vow to the Lord, and her husband can disallow it and make it of none effect. He has the same amount of power over her as her father did.
+
+- What you are seeing is a transference of power. When a father gives his daughter to a man, he gives up his power over his daughter to that man. If that man has that amount of power, should she not honor her husband as she honored her father? It is the same distance of respect: from children to mother, from wife to husband, from a man to Christ, from Christ to his Father. It is only the world that tells you that husband and wife are on the same level.
+
 > <sup>[7](/bible/numbers/30#v7)</sup> And her husband heard it, and held his peace at her in the day that he heard it: then her vows shall stand, and her bonds wherewith she bound her soul shall stand.
 >
 > <sup>[8](/bible/numbers/30#v8)</sup> But if her husband disallowed her on the day that he heard it; then he shall make her vow which she vowed, and that which she uttered with her lips, wherewith she bound her soul, of none effect: and the Lord shall forgive her.
 
-- A woman vows a vow unto the Lord in her father's house in her youth. The father has the choice to hold his peace, and all her vows shall stand; but if her father disallow her in the day that he heareth, not any of her vows shall stand, and the Lord shall forgive her, because her father disallowed her. This is a vow a child is making to God, and the father has the power to make it of none effect.
-- And if she had at all an husband when she vowed: the husband can do the same. A married, grown woman makes a vow to the Lord, and her husband can disallow it and make it of none effect. He has the same amount of power over her as her father did.
-- What you are seeing is a transference of power. When a father gives his daughter to a man, he gives up his power over his daughter to that man. If that man has that amount of power, should she not honor her husband as she honored her father? It is the same distance of respect: from children to mother, from wife to husband, from a man to Christ, from Christ to his Father. It is only the world that tells you that husband and wife are on the same level.
-
 **[Exodus 22:16-17](/bible/exodus/22#v16)**  *[[1:11:54](https://www.youtube.com/watch?v=hKifTTWBba8&t=4314s)]*
 
 > <sup>[16](/bible/exodus/22#v16)</sup> And if a man entice a maid that is not betrothed, and lie with her, he shall surely endow her to be his wife.
->
-> <sup>[17](/bible/exodus/22#v17)</sup> If her father utterly refuse to give her unto him, he shall pay money according to the dowry of virgins.
 
 - If a man entice a maid that is not betrothed, and lie with her, he shall surely endow her to be his wife: he has to pay the dowry and take her as his wife; that is the law of God.
+
 - But if her father utterly refuse to give her unto him: the father has a choice. The father can refuse even then. A lot of times we do not understand the amount of power the father has in the home, and nothing changes when that father is a husband: the same power he has over his children is the power he has over his wife. So where is there room for disrespect? There is not.
+
 - For clarity: between those verses there were marriage papers; sleeping with her alone does not make her your wife.
+
+> <sup>[17](/bible/exodus/22#v17)</sup> If her father utterly refuse to give her unto him, he shall pay money according to the dowry of virgins.
 
 **[Deuteronomy 22:13-18](/bible/deuteronomy/22#v13)**  *[[1:15:08](https://www.youtube.com/watch?v=hKifTTWBba8&t=4508s)]*
 

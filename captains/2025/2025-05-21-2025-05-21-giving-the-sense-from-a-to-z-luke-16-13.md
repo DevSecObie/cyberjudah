@@ -44,15 +44,13 @@ tags: ["15 Minutes w/ The Captains", "money", "nations"]
 
 **[Matthew 23:1-4](/bible/matthew/23#v1)**  *[[3:46](https://www.youtube.com/watch?v=0L9ELxS8Bl4&t=226s)]*
 
+- The scribes and the Pharisees sit in Moses's seat: All right, so they sit or sat all as the leaders of Israel, same as Moses, as brother Aaron, Joshua that came after him.
+
 > <sup>[1](/bible/matthew/23#v1)</sup> Then spake Jesus to the multitude, and to his disciples,
 >
 > <sup>[2](/bible/matthew/23#v2)</sup> Saying, The scribes and the Pharisees sit in Moses’ seat:
 >
 > <sup>[3](/bible/matthew/23#v3)</sup> All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not.
->
-> <sup>[4](/bible/matthew/23#v4)</sup> For they bind heavy burdens and grievous to be borne, and lay them on men’s shoulders; but they themselves will not move them with one of their fingers.
-
-- The scribes and the Pharisees sit in Moses's seat: All right, so they sit or sat all as the leaders of Israel, same as Moses, as brother Aaron, Joshua that came after him.
 
 - Do not ye after their works for they say and do not: What's another word for that? It's called hypocrisy. All right. So they would tell us to keep the law but they themselves they would not keep it.
 
@@ -75,6 +73,8 @@ tags: ["15 Minutes w/ The Captains", "money", "nations"]
     > <sup>[25](/bible/matthew/23#v25)</sup> Woe unto you, scribes and Pharisees, hypocrites! for ye make clean the outside of the cup and of the platter, but within they are full of extortion and excess.
 
     Woe unto you scribes and Pharisees, hypocrites, for ye may clean the outside of the cup of the platter. So once again, that is doing what? Manleasing, looking a certain way, looking righteous on the exterior, but within they wasn't the guys. All right. It says, But within they are full of extortion and excess. Extortion and excess. So remember these attributes in today's breakdown. All right. So these men were what? They were wealthy. All right. They had status. They were established by the Romans. It said they were filled with extortion. They were filled with excess. All right. So let me do this. Let's go back to Luke 16. Luke chapter 16. I'm going do some jumping around. All right, stay with me. Stay with me.
+
+> <sup>[4](/bible/matthew/23#v4)</sup> For they bind heavy burdens and grievous to be borne, and lay them on men’s shoulders; but they themselves will not move them with one of their fingers.
 
 
 **[Luke 16:15-18](/bible/luke/16#v15)**  *[[7:48](https://www.youtube.com/watch?v=0L9ELxS8Bl4&t=468s)]*
@@ -134,14 +134,14 @@ tags: ["15 Minutes w/ The Captains", "money", "nations"]
 > <sup>[20](/bible/luke/18#v20)</sup> Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Honour thy father and thy mother.
 >
 > <sup>[21](/bible/luke/18#v21)</sup> And he said, All these have I kept from my youth up.
->
-> <sup>[22](/bible/luke/18#v22)</sup> Now when Jesus heard these things, he said unto him, Yet lackest thou one thing: sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me.
->
-> <sup>[23](/bible/luke/18#v23)</sup> And when he heard this, he was very sorrowful: for he was very rich.
 
 - And he said, All these have I kept from my youth up: All right. So the ruler of the Jews, which is coming from the Sanhedrin as well, he says, All of these things I kept from my youth up. Christ our Messiah.
 
+> <sup>[22](/bible/luke/18#v22)</sup> Now when Jesus heard these things, he said unto him, Yet lackest thou one thing: sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me.
+
 - Yet lackest thou one thing. Sell all that thou has: So why would Christ say that? Why would Christ said that? Because why? He understood that what? This ruler trusted in his riches. All right? So Christ said right here in verse 22, Yet lackest thou one thing. Sell all that thou has and distribute unto the poor and thou shalt have treasure in heaven and come follow me. So this is showing you what? We did have, excuse me, we did have rich and poor amongst us, amongst the nation of Israel.
+
+> <sup>[23](/bible/luke/18#v23)</sup> And when he heard this, he was very sorrowful: for he was very rich.
 
 - When he heard this, he was very sorrowful for he was very rich: He was very rich. All right? So he didn't want to hear that. All right? He didn't have the charitable spirit. You understand? He didn't want to look out for his own people. He didn't want to be at the same level as his own people. Christ literally gave him the keys to the kingdom of heaven. He heard it and he despised it. All right? And made him sorrowful to understand that he had to give us his earthly possessions on earth in order to inherit the kingdom. Let's read that Revelations 3:15 real quick. All right? Because we read it earlier in Luke 16 that stated, it said you cannot serve God and mammon.
 
@@ -204,16 +204,16 @@ tags: ["15 Minutes w/ The Captains", "money", "nations"]
 **[Luke 16:19-21](/bible/luke/16#v19)**  *[[24:35](https://www.youtube.com/watch?v=0L9ELxS8Bl4&t=1475s)]*
 
 > <sup>[19](/bible/luke/16#v19)</sup> There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day:
->
-> <sup>[20](/bible/luke/16#v20)</sup> And there was a certain beggar named Lazarus, which was laid at his gate, full of sores,
->
-> <sup>[21](/bible/luke/16#v21)</sup> And desiring to be fed with the crumbs which fell from the rich man’s table: moreover the dogs came and licked his sores.
 
 - There was a certain rich man which was clothed in purple and fine linen and fared sumptuously every day: All right, so he had nothing to worry about. Why? Everything was taken care of. He had riches, wealth, notoriety.
+
+> <sup>[20](/bible/luke/16#v20)</sup> And there was a certain beggar named Lazarus, which was laid at his gate, full of sores,
 
 - And there was a certain beggar named Lazarus: Lazarus. So, we understand who the rich man is. All right. Pleasant day. It's your entertainers, the rich amongst our people, your Christian pastors, megachurches. All right. Now, it flips the switch a little bit and goes to Lazarus. Verse 20, it says, And there was a certain beggar named Lazarus. That beggar represents what? The lowly, the poor.
 
 - Which was laid at his gate full of sores: Full of swords. All right. Verse 21. Actually, let's do this. Yeah. You ever read 21 and come back?
+
+> <sup>[21](/bible/luke/16#v21)</sup> And desiring to be fed with the crumbs which fell from the rich man’s table: moreover the dogs came and licked his sores.
 
 - Moreover, the dogs came and licked his sores: All right, so I'mma come back. All right, so let's go to First Samuel real quick. It's the book of 1 Samuel, chapter 2. Y'all know this one. What are we dealing with? We're dealing with Lazarus the beggar. All right, we're dealing with Lazarus the beggar.
 
@@ -230,19 +230,19 @@ tags: ["15 Minutes w/ The Captains", "money", "nations"]
 
 **[2 Esdras 9:7-10](/bible/2-esdras/9#v7)**  *[[27:05](https://www.youtube.com/watch?v=0L9ELxS8Bl4&t=1625s)]*
 
+- And everyone that shall be saved and shall be able to escape by his works and by his faith whereby ye have believed shall be preserved from the said perils: And shall see my salvation in my land and within my borders. For I have sanctified them for me from the beginning.
+
 > <sup>[7](/bible/2-esdras/9#v7)</sup> And every one that shall be saved, and shall be able to escape by his works, and by faith, whereby ye have believed,
 >
 > <sup>[8](/bible/2-esdras/9#v8)</sup> Shall be preserved from the said perils, and shall see my salvation in my land, and within my borders: for I have sanctified them for me from the beginning.
 >
 > <sup>[9](/bible/2-esdras/9#v9)</sup> Then shall they be in pitiful case, which now have abused my ways: and they that have cast them away despitefully shall dwell in torments.
->
-> <sup>[10](/bible/2-esdras/9#v10)</sup> For such as in their life have received benefits, and have not known me;
-
-- And everyone that shall be saved and shall be able to escape by his works and by his faith whereby ye have believed shall be preserved from the said perils: And shall see my salvation in my land and within my borders. For I have sanctified them for me from the beginning.
 
 - Then shall they be in pitiful case, which now have abused my ways: Who are the people that's abusing the ways of God, which are his commandments? It's the rich amongst our people. All right? Because they're at ease here in this captivity. All right? So, they are not accustomed to humbling down to anybody except themselves. All right? Because I believe their possession and their wealth can provide for them. I'm going to read verse nine again. It says, Then they shall be in pitiful case, which now, present day, have abused my ways, and they that have cast them away despitefully shall dwell in torments. All right, so we going to come back to this, too.
 
 - For such as in their life receive benefits: Now remember we went here. We're talking about the crumbs that fell from the master's table. All right, we're talking about the crumbs that fell from the master's table. All right, it says verse 10, for such as in their life receive benefits. All right, receive benefits. All right, that's going into monetary benefits. Okay, status, different positions or what have you, the wealthy and the rich amongst our people. It says, For such as in their life have received benefits and have not known me. All right, so we're going to stop right there.
+
+> <sup>[10](/bible/2-esdras/9#v10)</sup> For such as in their life have received benefits, and have not known me;
 
 
 **[Luke 16:21](/bible/luke/16#v21)**  *[[29:32](https://www.youtube.com/watch?v=0L9ELxS8Bl4&t=1772s)]*
@@ -275,30 +275,30 @@ tags: ["15 Minutes w/ The Captains", "money", "nations"]
 **[Mark 7:24-29](/bible/mark/7#v24)**  *[[31:14](https://www.youtube.com/watch?v=0L9ELxS8Bl4&t=1874s)]*
 
 > <sup>[24](/bible/mark/7#v24)</sup> And from thence he arose, and went into the borders of Tyre and Sidon, and entered into an house, and would have no man know it: but he could not be hid.
->
-> <sup>[25](/bible/mark/7#v25)</sup> For a certain woman, whose young daughter had an unclean spirit, heard of him, and came and fell at his feet:
->
-> <sup>[26](/bible/mark/7#v26)</sup> The woman was a Greek, a Syrophenician by nation; and she besought him that he would cast forth the devil out of her daughter.
->
-> <sup>[27](/bible/mark/7#v27)</sup> But Jesus said unto her, Let the children first be filled: for it is not meet to take the children’s bread, and to cast it unto the dogs.
->
-> <sup>[28](/bible/mark/7#v28)</sup> And she answered and said unto him, Yes, Lord: yet the dogs under the table eat of the children’s crumbs.
->
-> <sup>[29](/bible/mark/7#v29)</sup> And he said unto her, For this saying go thy way; the devil is gone out of thy daughter.
 
 - But he could not be hid: Because Christ had fame. All right? To the point where if you saw him, if anybody saw a glimpse of him, they automatically knew who he was, because he had fame in every land.
 
+> <sup>[25](/bible/mark/7#v25)</sup> For a certain woman, whose young daughter had an unclean spirit, heard of him, and came and fell at his feet:
+
 - For a certain woman whose young daughter had an unclean spirit heard of him and came and fell at his feet: Now here's the point. Verse 26.
+
+> <sup>[26](/bible/mark/7#v26)</sup> The woman was a Greek, a Syrophenician by nation; and she besought him that he would cast forth the devil out of her daughter.
 
 - The woman was a Greek: All right, so we understand who the, okay, the Greeks are, or Idumeans. Okay, a Caucasian. All right. So it says the woman was a Greek, a Syrophenician by nation. All right. So she had her nationality or her citizenship. She was a Syrian who lived in Phoenicia. You understand? She was a Syrian who lived in Phoenicia.
 
 - And she besought him that he would cast forth the devil out of her daughter: So this is a heathen. All right. This is an Edomite woman, a Caucasian coming to our Lord and Savior Jesus Christ, asking for a blessing.
 
+> <sup>[27](/bible/mark/7#v27)</sup> But Jesus said unto her, Let the children first be filled: for it is not meet to take the children’s bread, and to cast it unto the dogs.
+
 - Let the children first be filled: Who are the children? You and me. All right? Jacob's kids, the Israelites, so-called blacks, Hispanics, and Native Americans. So, Christ said, Uh-uh. All right. Let my children be fed first.
 
 - For it is not meat to take the children's bread and to cast it unto dogs: Unto dogs. So, our Lord and Savior Jesus Christ is referring to this Caucasian woman, this Greek Idumean Edomite, as a dog.
 
+> <sup>[28](/bible/mark/7#v28)</sup> And she answered and said unto him, Yes, Lord: yet the dogs under the table eat of the children’s crumbs.
+
 - And she answered and said unto him, yes, Lord: So not only did Christ call her a dog, she agreed and understood that yes, in fact, she is a dog. All right? She said, Yes, Lord. Yet the dogs under the table eat of the children's crumbs. All right. So we stop. Well, actually, let's read on.
+
+> <sup>[29](/bible/mark/7#v29)</sup> And he said unto her, For this saying go thy way; the devil is gone out of thy daughter.
 
 - For this saying, go thy way. The devil is gone out of thy daughter: So it says for this saying, what we read above, that you are a dog and you agree to it, I'll bless you for that reason. That doesn't mean that she's an Israelite. That just simply means she understood her place. The Israelites, Christ, that's who he came for, and that's who gets the blessings first. And that, the fact that she admitted that she was a dog, Christ said, All right, for that saying that you agreed upon, all right, I'll bless you for that. All right. So, don't get it misconstrued, not for one second.
 
@@ -329,8 +329,6 @@ tags: ["15 Minutes w/ The Captains", "money", "nations"]
 **[Revelation 6:5-6](/bible/revelation/6#v5)**  *[[37:57](https://www.youtube.com/watch?v=0L9ELxS8Bl4&t=2277s)]*
 
 > <sup>[5](/bible/revelation/6#v5)</sup> And when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand.
->
-> <sup>[6](/bible/revelation/6#v6)</sup> And I heard a voice in the midst of the four beasts say, A measure of wheat for a penny, and three measures of barley for a penny; and see thou hurt not the oil and the wine.
 
 - And I beheld, and lo, a black horse: All right. This black horse represents the dark nations, the African nations, the continent of Africa.
 
@@ -340,20 +338,22 @@ tags: ["15 Minutes w/ The Captains", "money", "nations"]
 
 - A measure of wheat for a penny, and three measures of barley for a penny, and see thou not the oil and the wine: So, showing you what? They're the ones who dictate how much each nation's currency is worth. And understand, the European currency is always the highest. Always the highest. But when you go to Africa, their money is nothing compared to the European pound and the dollar.
 
+> <sup>[6](/bible/revelation/6#v6)</sup> And I heard a voice in the midst of the four beasts say, A measure of wheat for a penny, and three measures of barley for a penny; and see thou hurt not the oil and the wine.
+
 
 **[Revelation 18:10-13](/bible/revelation/18#v10)**  *[[40:32](https://www.youtube.com/watch?v=0L9ELxS8Bl4&t=2432s)]*
+
+- Standing a far off for the fear of her torment: We're still going over, And the dog licked his sores. All right, watch this. I'mma start at 10 and we going to read down.
 
 > <sup>[10](/bible/revelation/18#v10)</sup> Standing afar off for the fear of her torment, saying, Alas, alas, that great city Babylon, that mighty city! for in one hour is thy judgment come.
 >
 > <sup>[11](/bible/revelation/18#v11)</sup> And the merchants of the earth shall weep and mourn over her; for no man buyeth their merchandise any more:
 >
 > <sup>[12](/bible/revelation/18#v12)</sup> The merchandise of gold, and silver, and precious stones, and of pearls, and fine linen, and purple, and silk, and scarlet, and all thyine wood, and all manner vessels of ivory, and all manner vessels of most precious wood, and of brass, and iron, and marble,
->
-> <sup>[13](/bible/revelation/18#v13)</sup> And cinnamon, and odours, and ointments, and frankincense, and wine, and oil, and fine flour, and wheat, and beasts, and sheep, and horses, and chariots, and slaves, and souls of men.
-
-- Standing a far off for the fear of her torment: We're still going over, And the dog licked his sores. All right, watch this. I'mma start at 10 and we going to read down.
 
 - The merchandise of gold: Which comes from what? Africa. And silver comes from Africa. And precious stones that come from Africa. And of pearls, Africa. And fine linen, Africa. And purple and silk, Africa. Silk, hey, silk comes from Madagascar, where we just traveled on the quest. All right. And scarlet, Africa, and thy wood, Africa. And all manner vessels of ivory. That was in the Congo under Leopold. Okay. Ivory and all manner vessels of most precious wood, Africa. And of brass, Africa. And iron and marble, Africa. And cinnamon and odors and ointments, Africa, and frankincense and wine and oil and fine flour and wheat and beast and sheep and horses and chariots, Africa, and slaves, Africa, and souls of men.
+
+> <sup>[13](/bible/revelation/18#v13)</sup> And cinnamon, and odours, and ointments, and frankincense, and wine, and oil, and fine flour, and wheat, and beasts, and sheep, and horses, and chariots, and slaves, and souls of men.
 
 - And slaves and souls of men: So we are the ones that are chasing the crumbs, and what do they do? They make our conditions worse. They come and take all of our natural resources. They take everything away from Israel. Okay. So, let's do this. Let's go to Isaiah 56 because there's other parts in regards to the dogs. So, we touched about the dogs being the other nations, primarily the European race. But watch this. After this one, we'll get back to Luke. Because it's not just the other nations. It's the wicked of our people as well.
 
@@ -361,10 +361,10 @@ tags: ["15 Minutes w/ The Captains", "money", "nations"]
 **[Isaiah 56:10-11](/bible/isaiah/56#v10)**  *[[42:22](https://www.youtube.com/watch?v=0L9ELxS8Bl4&t=2542s)]*
 
 > <sup>[10](/bible/isaiah/56#v10)</sup> His watchmen are blind: they are all ignorant, they are all dumb dogs, they cannot bark; sleeping, lying down, loving to slumber.
->
-> <sup>[11](/bible/isaiah/56#v11)</sup> Yea, they are greedy dogs which can never have enough, and they are shepherds that cannot understand: they all look to their own way, every one for his gain, from his quarter.
 
 - They are all dumb dogs: Why are they dumb dogs? Because they're following after Esau. The council, the world church. All right. They get their doctrine from our oppressors. The concis, yeah, the same people, concisadors. The Europeans are enemies. Edom, Europe.
+
+> <sup>[11](/bible/isaiah/56#v11)</sup> Yea, they are greedy dogs which can never have enough, and they are shepherds that cannot understand: they all look to their own way, every one for his gain, from his quarter.
 
 - Yea, they are greedy dogs: Well, how are they greedy? They're licking the sores of the repentant Israelites. Those Israelites are trying to get their minds right. What do they do? They say, You have to tithe every Sunday. All right? You got to give a hundredfold. You understand? In order to be blessed. But a lot of us are walking to the church. A lot of us are living in the impoverished neighborhoods. But these pastors that are set up today, which have been installed by Edom or America or the European nations, the World Council of Churches, excuse me.
 
@@ -378,12 +378,12 @@ tags: ["15 Minutes w/ The Captains", "money", "nations"]
 **[Luke 16:22-23](/bible/luke/16#v22)**  *[[44:47](https://www.youtube.com/watch?v=0L9ELxS8Bl4&t=2687s)]*
 
 > <sup>[22](/bible/luke/16#v22)</sup> And it came to pass, that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried;
->
-> <sup>[23](/bible/luke/16#v23)</sup> And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom.
 
 - And it came to pass that the beggar died and was carried by the angels into Abraham's bosom: So Abraham's bosom, what is this talking about? This is talking about the covenant that was made with Abraham's seed. All right? The covenant that was made with Abraham's seed.
 
 - And the rich man also died and was buried: So you had the angel take Lazarus into Abraham's bosom, and the rich man also died and was buried. All right, the rich man also died and was buried.
+
+> <sup>[23](/bible/luke/16#v23)</sup> And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom.
 
 - And in hell he lift up his eyes: So who is this? This is the rich man. All right. The Pharisees, in today's society, remember these, the ones that received the benefits, the entertainers, the Christian pastors, all of them. Let's go to Daniel 12. Watch this. Daniel chapter 12. Because remember it says that the rich man also died and was buried and he woke up. He lift up his eyes being in torments.
 

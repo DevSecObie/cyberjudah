@@ -41,17 +41,17 @@ tags: ["15 Minutes w/ The Captains", "christ", "women"]
 
 **[Hebrews 5:12-14](/bible/hebrews/5#v12)**  *[[6:10](https://www.youtube.com/watch?v=jNpIBCLRim8&t=370s)]*
 
-> <sup>[12](/bible/hebrews/5#v12)</sup> For when for the time ye ought to be teachers, ye have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat.
->
-> <sup>[13](/bible/hebrews/5#v13)</sup> For every one that useth milk is unskilful in the word of righteousness: for he is a babe.
->
-> <sup>[14](/bible/hebrews/5#v14)</sup> But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.
-
 - When he was dealing with Hebrews, he was dealing with people that knew the law. That's why he wrote it the way he wrote it so they can understand it, where he was going back into the sacrifices, the temple, things that the people that understood the law would understand. So, he could talk to you on that PhD level if he needed to. But with the Corinthians and various other brothers and sisters, it was no need for him to be that heavy. He was dealing with them with what was on the surface so they can understand.
 
 - Which be the first principles of the oracles of God, and of such that have need of milk and not of strong meat: This is what he was dealing with. He was like, "Y'all brothers know the law, many of you, but there's still parts of the law that you don't quite understand. And I'm going to give you more depths to it."
 
+> <sup>[12](/bible/hebrews/5#v12)</sup> For when for the time ye ought to be teachers, ye have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat.
+>
+> <sup>[13](/bible/hebrews/5#v13)</sup> For every one that useth milk is unskilful in the word of righteousness: for he is a babe.
+
 - For he is a babe: He's a baby.
+
+> <sup>[14](/bible/hebrews/5#v14)</sup> But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.
 
 - To discern both good and evil: To discern both good and evil. So guess what? What are we reading right now? We are reading the Apostle Paul dealing with the understanding of those men that had came up under the law that thought they knew something. He was saying you don't really quite know the depths of what you're learning, what you've been reading this whole time. I'mma show you Christ there. So he went through those same scriptures that they already knew and showed them Christ because many of them couldn't see it. That's why he said when the time ye ought to be teachers, ye have need that one teach you again, which be the first principles of the oracles of God, and are such that have need of milk and not of strong meat. He was right on point when he said that.
 
@@ -84,10 +84,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "women"]
 > <sup>[1](/bible/1-corinthians/11#v1)</sup> Be ye followers of me, even as I also am of Christ.
 >
 > <sup>[2](/bible/1-corinthians/11#v2)</sup> Now I praise you, brethren, that ye remember me in all things, and keep the ordinances, as I delivered them to you.
->
-> <sup>[3](/bible/1-corinthians/11#v3)</sup> But I would have you know, that the head of every man is Christ; and the head of the woman is the man; and the head of Christ is God.
 
 - And keep the ordinances as I delivered them to you: So, do what I tell you. Do what I'm delivering to you that I learned from the Lord.
+
+> <sup>[3](/bible/1-corinthians/11#v3)</sup> But I would have you know, that the head of every man is Christ; and the head of the woman is the man; and the head of Christ is God.
 
 - The head of every man is Christ and the head of the woman is the man and the head of Christ is God: So he establishing the hierarchy. All right? Which should already be known. You understand? Just like in today's time we still got to establish the hierarchy because in society the woman has been placed over the man. All throughout Greece they were worshiping and Turkey they will worship Diana of the Ephesians. They were worshiping Aphrodite, Athena. They was worshiping all of these idols. You understand? In ancient Egyptian time, they was worshiping Isis. This has always been a thing where they worship women. So Paul had to set it in order. Listen, let no man deceive you. This is the order. It's God, it's Christ, it's man, and it's woman. You understand?
 
@@ -146,16 +146,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "women"]
 **[Hebrews 7:11-14](/bible/hebrews/7#v11)**  *[[21:57](https://www.youtube.com/watch?v=jNpIBCLRim8&t=1317s)]*
 
 > <sup>[11](/bible/hebrews/7#v11)</sup> If therefore perfection were by the Levitical priesthood, (for under it the people received the law,) what further need was there that another priest should rise after the order of Melchisedec, and not be called after the order of Aaron?
->
-> <sup>[12](/bible/hebrews/7#v12)</sup> For the priesthood being changed, there is made of necessity a change also of the law.
->
-> <sup>[13](/bible/hebrews/7#v13)</sup> For he of whom these things are spoken pertaineth to another tribe, of which no man gave attendance at the altar.
->
-> <sup>[14](/bible/hebrews/7#v14)</sup> For it is evident that our Lord sprang out of Juda; of which tribe Moses spake nothing concerning priesthood.
 
 - If therefore perfection were by the Levitical priesthood: So it says, "If therefore the perfection were by the Levitical priesthood, for under it the people received the law, what further need was there that another priest should rise after the order of Melchisedec and not be called after the order of Aaron?" Watch this.
 
+> <sup>[12](/bible/hebrews/7#v12)</sup> For the priesthood being changed, there is made of necessity a change also of the law.
+
 - There is made of necessity a change also of the law: So since the priesthood was changed, there's also a necessity of changing of the law. He going to tell you what it mean.
+
+> <sup>[13](/bible/hebrews/7#v13)</sup> For he of whom these things are spoken pertaineth to another tribe, of which no man gave attendance at the altar.
+>
+> <sup>[14](/bible/hebrews/7#v14)</sup> For it is evident that our Lord sprang out of Juda; of which tribe Moses spake nothing concerning priesthood.
 
 - Of which tribe Moses spake nothing concerning priesthood: So Moses didn't speak of Judah being of the priesthood. He spake of what? Of Levi being the priesthood. So now Christ has come on the scene. Christ has now taken the order of Melchisedec meaning what? Called a priest forever, the high priest, not from the Levitical order, not from the Levites.
 
@@ -192,10 +192,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "women"]
 **[Hebrews 4:14-15](/bible/hebrews/4#v14)**  *[[26:59](https://www.youtube.com/watch?v=jNpIBCLRim8&t=1619s)]*
 
 > <sup>[14](/bible/hebrews/4#v14)</sup> Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast our profession.
->
-> <sup>[15](/bible/hebrews/4#v15)</sup> For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin.
 
 - We have a great high priest that is passed into the heavens: So what they call Christ? The high priest. It calls him the high priest.
+
+> <sup>[15](/bible/hebrews/4#v15)</sup> For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin.
 
 - Yet without sin: Yet without sin. I seen a video said that Christ wasn't made in the form of sinful flesh. The Bible said he was made in likeness of sinful flesh. The difference is he didn't commit to sin. He didn't fall into any sin. That's why it says he can be tempted. He was in all points tempted like we are yet without sin. That's beautiful. So he went through what we went through. He saw the same things that we saw, but he didn't allow himself to sin. He didn't fall into sin that you and I have fallen into in our time. You understand?
 
@@ -205,12 +205,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "women"]
 > <sup>[14](/bible/hebrews/7#v14)</sup> For it is evident that our Lord sprang out of Juda; of which tribe Moses spake nothing concerning priesthood.
 >
 > <sup>[15](/bible/hebrews/7#v15)</sup> And it is yet far more evident: for that after the similitude of Melchisedec there ariseth another priest,
->
+
+- After the similitude of Melchisedec there ariseth another priest: Do you hear that? That after the similitude of Melchisedec, there ariseth another priest. Who is that priest? Jesus Christ, the son of God.
+
 > <sup>[16](/bible/hebrews/7#v16)</sup> Who is made, not after the law of a carnal commandment, but after the power of an endless life.
 >
 > <sup>[17](/bible/hebrews/7#v17)</sup> For he testifieth, Thou art a priest for ever after the order of Melchisedec.
-
-- After the similitude of Melchisedec there ariseth another priest: Do you hear that? That after the similitude of Melchisedec, there ariseth another priest. Who is that priest? Jesus Christ, the son of God.
 
 - Thou art a priest for ever after the order of Melchisedec: So this is what we reading. We're reading about Christ being after the order of Melchisedec.
 
@@ -220,24 +220,24 @@ tags: ["15 Minutes w/ The Captains", "christ", "women"]
 > <sup>[1](/bible/hebrews/8#v1)</sup> Now of the things which we have spoken this is the sum: We have such an high priest, who is set on the right hand of the throne of the Majesty in the heavens;
 >
 > <sup>[2](/bible/hebrews/8#v2)</sup> A minister of the sanctuary, and of the true tabernacle, which the Lord pitched, and not man.
->
-> <sup>[3](/bible/hebrews/8#v3)</sup> For every high priest is ordained to offer gifts and sacrifices: wherefore it is of necessity that this man have somewhat also to offer.
->
-> <sup>[4](/bible/hebrews/8#v4)</sup> For if he were on earth, he should not be a priest, seeing that there are priests that offer gifts according to the law:
->
-> <sup>[5](/bible/hebrews/8#v5)</sup> Who serve unto the example and shadow of heavenly things, as Moses was admonished of God when he was about to make the tabernacle: for, See, saith he, that thou make all things according to the pattern shewed to thee in the mount.
->
-> <sup>[6](/bible/hebrews/8#v6)</sup> But now hath he obtained a more excellent ministry, by how much also he is the mediator of a better covenant, which was established upon better promises.
 
 - Who is set on the right hand of the throne of the Majesty in the heavens; a minister of the sanctuary, and of the true tabernacle: So now Christ, this some heavy stuff. So now Christ is being called the high priest that sits on the right hand of the throne of the majesty in the heavens. A minister of the sanctuary and of the true tabernacle. Christ is the minister of the sanctuary in the true tabernacle in the heavens. Not a earthly tabernacle. The tabernacle that's in the heavens. Christ is now in charge of running that up there. You understand? That's what it's telling you. He done passed into the heavens. Now what the Levitical priesthood was doing down here, now he doing up there. But not with sacrificing bulls and goats and rams and blood. He was sacrificed once and for all for the nation of Israel. Now he sit on the right hand of the father. He's over the temple in the kingdom in the heavens in the skies.
 
+> <sup>[3](/bible/hebrews/8#v3)</sup> For every high priest is ordained to offer gifts and sacrifices: wherefore it is of necessity that this man have somewhat also to offer.
+
 - That this man have somewhat also to offer: Right? Which was himself.
 
+> <sup>[4](/bible/hebrews/8#v4)</sup> For if he were on earth, he should not be a priest, seeing that there are priests that offer gifts according to the law:
+
 - If he were on earth, he should not be a priest: So if he was on earth, he wouldn't be the high priest. He's the high priest because he sacrificed himself for the nation of Israel. And now he has been made after the order of Melchisedec a priest forever. He was not the high priest when he was on the earth. He was not the high priest. They had a Levitical order at that time.
+
+> <sup>[5](/bible/hebrews/8#v5)</sup> Who serve unto the example and shadow of heavenly things, as Moses was admonished of God when he was about to make the tabernacle: for, See, saith he, that thou make all things according to the pattern shewed to thee in the mount.
 
 - Who serve unto the example and shadow of heavenly things: So those priests on the earth serve unto the example of the shadow of heavenly things. The things that they doing on earth, all those sacrifices are symbolic of what was taking place in the heavens.
 
 - Make all things according to the pattern shewed to thee in the mount: That's why Moses had to make the temple or the pattern of the tabernacle as it was made in the heavens.
+
+> <sup>[6](/bible/hebrews/8#v6)</sup> But now hath he obtained a more excellent ministry, by how much also he is the mediator of a better covenant, which was established upon better promises.
 
 - He is the mediator of a better covenant: So now it's a better covenant. This is why Paul said any man pray or prophesy with his head covered dishonor his head. Who is your head? The high priest that's in the heavens, Jesus Christ. When you cover your head, symbolic of the mitre, symbolic of the Levitical priesthood, he said that's done away. Christ is the high priest now. So take that head covering off when you reading the word of God. You got Israelites right now with fitted caps on teaching, and you wonder why they confused because they reject the son of God. They don't know it. That's why leadership said, "Look, take your head covering off." They taught us that from the beginning. Don't pray or prophesy with your head covered. These brothers and sisters don't believe that. Some of them, they don't believe it. The Christian church don't believe it. Women all in the Christian church with no head covering right now.
 
@@ -245,14 +245,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "women"]
 **[Hebrews 9:1-3](/bible/hebrews/9#v1)**  *[[32:53](https://www.youtube.com/watch?v=jNpIBCLRim8&t=1973s)]*
 
 > <sup>[1](/bible/hebrews/9#v1)</sup> Then verily the first covenant had also ordinances of divine service, and a worldly sanctuary.
->
-> <sup>[2](/bible/hebrews/9#v2)</sup> For there was a tabernacle made; the first, wherein was the candlestick, and the table, and the shewbread; which is called the sanctuary.
->
-> <sup>[3](/bible/hebrews/9#v3)</sup> And after the second veil, the tabernacle which is called the Holiest of all;
 
 - Ordinances of divine service, and a worldly sanctuary: That's what you're seeing right here. This is that worldly sanctuary. If you can see it on the screen, let me know. This worldly sanctuary that's right here, this is what the temple looked like. Okay, this is the worldly sanctuary. All right, so watch this. Keep reading.
 
+> <sup>[2](/bible/hebrews/9#v2)</sup> For there was a tabernacle made; the first, wherein was the candlestick, and the table, and the shewbread; which is called the sanctuary.
+
 - The first, wherein was the candlestick, and the table, and the shewbread; which is called the sanctuary: That's what you see right here in the front. So you had the tabernacle. You had the first where the showbread and the table was, the candlestick which is the menorah. That's where you had that in.
+
+> <sup>[3](/bible/hebrews/9#v3)</sup> And after the second veil, the tabernacle which is called the Holiest of all;
 
 - And after the second veil, the tabernacle which is called the Holiest of all: After the second veil, that goes into that curtain. So, after the second veil, you got that curtain, right? That was there. That's called the veil. Let me show you something about that real quick.
 
@@ -276,12 +276,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "women"]
 > <sup>[4](/bible/hebrews/9#v4)</sup> Which had the golden censer, and the ark of the covenant overlaid round about with gold, wherein was the golden pot that had manna, and Aaron’s rod that budded, and the tables of the covenant;
 >
 > <sup>[5](/bible/hebrews/9#v5)</sup> And over it the cherubims of glory shadowing the mercyseat; of which we cannot now speak particularly.
->
+
+- And over it the cherubims of glory shadowing the mercyseat: So you had those cherubims back there. Okay. Whose wings would touch right over the mercy seat.
+
 > <sup>[6](/bible/hebrews/9#v6)</sup> Now when these things were thus ordained, the priests went always into the first tabernacle, accomplishing the service of God.
 >
 > <sup>[7](/bible/hebrews/9#v7)</sup> But into the second went the high priest alone once every year, not without blood, which he offered for himself, and for the errors of the people:
-
-- And over it the cherubims of glory shadowing the mercyseat: So you had those cherubims back there. Okay. Whose wings would touch right over the mercy seat.
 
 - But into the second went the high priest alone once every year, not without blood: So the second area, the second place right here, this veil right here is where the high priest went into, okay, to make reconciliation for the nation of Israel on the day of atonement once every year. That once every year is the day of atonement in which he would enter into those curtains in the most holy. And he would sprinkle the blood. That's why I say not without blood. Now let me show you something. So when he went in there, what did he have to wear?
 
@@ -311,14 +311,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "women"]
 > <sup>[4](/bible/1-corinthians/11#v4)</sup> Every man praying or prophesying, having his head covered, dishonoureth his head.
 >
 > <sup>[5](/bible/1-corinthians/11#v5)</sup> But every woman that prayeth or prophesieth with her head uncovered dishonoureth her head: for that is even all one as if she were shaven.
->
-> <sup>[6](/bible/1-corinthians/11#v6)</sup> For if the woman be not covered, let her also be shorn: but if it be a shame for a woman to be shorn or shaven, let her be covered.
->
-> <sup>[7](/bible/1-corinthians/11#v7)</sup> For a man indeed ought not to cover his head, forasmuch as he is the image and glory of God: but the woman is the glory of the man.
 
 - For that is even all one as if she were shaven: So if a woman pray or prophesy with her head uncovered, it's as if she has shaved her head bald. That's what the Lord is saying. She's supposed to have a veil over her head. Why? To show submission to the man. To show submission to the man. Why? Because during that time, like we told you, the women were being exalted over the man. The women were being exalted over the man. Paul had to come in and say, "I got to give you the ordinances. This is the order. God, Christ, man, woman."
 
+> <sup>[6](/bible/1-corinthians/11#v6)</sup> For if the woman be not covered, let her also be shorn: but if it be a shame for a woman to be shorn or shaven, let her be covered.
+
 - But if it be a shame for a woman to be shorn or shaven, let her be covered: If it's a shame for a woman to be shorn or shaven, let her be covered. Meaning, she need to have her head covered on. She need to have her head wrap on. Women always wore head wraps. It was only during that time what you reading about, after we went into the Greek captivity and into the Roman captivity where women started being exalted above the man and the women start uncovering their head and wanted to start show themselves as being over the man. Paul said, "We don't roll like that here." This is the ordinance of Christ. Christ told me to tell y'all cover your damn head when we praying or prophesying, straight up.
+
+> <sup>[7](/bible/1-corinthians/11#v7)</sup> For a man indeed ought not to cover his head, forasmuch as he is the image and glory of God: but the woman is the glory of the man.
 
 - But the woman is the glory of the man: That show you right there. The woman ain't made in God's image. The man made in God's image and they look like us. She just feminine. That's all it is. That's why a lot of daughters look like they daddy. But she got feminine features. She obviously don't look just like him or she wouldn't have the feminine features. You see that all the time. The woman come from the man. Y'all come from us. Y'all look like us. That's why when you've been married for a long time, you and your wife start to look alike. She start to become you. You understand what I'm saying? Y'all have been together intimately for so long. Y'all spirits are aligned. She start to take on your features. You say, "Damn, you like your Lord." Do you understand? You move like your Lord. You talk like your Lord. That's how it was always meant to be. She was made in our image and we was made in the image of God. That destroyed the minds of the feminists.
 
@@ -338,26 +338,26 @@ tags: ["15 Minutes w/ The Captains", "christ", "women"]
 > <sup>[8](/bible/1-corinthians/11#v8)</sup> For the man is not of the woman; but the woman of the man.
 >
 > <sup>[9](/bible/1-corinthians/11#v9)</sup> Neither was the man created for the woman; but the woman for the man.
->
-> <sup>[10](/bible/1-corinthians/11#v10)</sup> For this cause ought the woman to have power on her head because of the angels.
->
-> <sup>[11](/bible/1-corinthians/11#v11)</sup> Nevertheless neither is the man without the woman, neither the woman without the man, in the Lord.
->
-> <sup>[12](/bible/1-corinthians/11#v12)</sup> For as the woman is of the man, even so is the man also by the woman; but all things of God.
->
-> <sup>[13](/bible/1-corinthians/11#v13)</sup> Judge in yourselves: is it comely that a woman pray unto God uncovered?
->
-> <sup>[14](/bible/1-corinthians/11#v14)</sup> Doth not even nature itself teach you, that, if a man have long hair, it is a shame unto him?
 
 - Neither was the man created for the woman; but the woman for the man: So the woman wasn't, we wasn't created for her. We wasn't created for y'all. Y'all was created for us, sis. Y'all was created for us. You understand? But the woman for the man. And so we weren't created for y'all to be as service to you. You was created for us. Okay.
 
+> <sup>[10](/bible/1-corinthians/11#v10)</sup> For this cause ought the woman to have power on her head because of the angels.
+
 - For this cause ought the woman to have power on her head because of the angels: And guess what? For this cause woman should have power over her head because of the angels. Meaning the leaders, the leaders, the angels translating to messengers, leaders. Notice it said, "The man is not of the woman, but the woman of the man. Neither was the man created for the woman, but the woman for the man." For this cause, since we was not created for you, but you was created for us, for this cause ought the woman to have power on her head because of the angels, because of the leadership. You supposed to have respect for your leaders, respect for your Lord, respect for your God.
 
+> <sup>[11](/bible/1-corinthians/11#v11)</sup> Nevertheless neither is the man without the woman, neither the woman without the man, in the Lord.
+
 - Neither is the man without the woman, neither the woman without the man, in the Lord: We was created for each other. We not without you, and you not without us. It's impossible. We was created for each other. Anybody trying to break that up, "I don't need no man." You don't know your purpose on this earth system. Satan got you. You understand?
+
+> <sup>[12](/bible/1-corinthians/11#v12)</sup> For as the woman is of the man, even so is the man also by the woman; but all things of God.
 
 - Even so is the man also by the woman: See, by the woman, many of you gave birth to us.
 
 - But all things of God: But everything in order. Everything in order.
+
+> <sup>[13](/bible/1-corinthians/11#v13)</sup> Judge in yourselves: is it comely that a woman pray unto God uncovered?
+>
+> <sup>[14](/bible/1-corinthians/11#v14)</sup> Doth not even nature itself teach you, that, if a man have long hair, it is a shame unto him?
 
 - If a man have long hair, it is a shame unto him: So, I had long hair. John, we had long hair. I just cut my hair not too long ago, just last week. But it's not a sin for you to have braids or dreads. That's not sin. Paul is talking about the customs that those people were doing at that time where men were walking around effeminate. Men were walking around like women. That's why you see those pictures of Alexander the Great, all of those Roman and Greek gods. Those men was having that long effeminate hair like a woman. All right. Men of God don't have their hair like that. Men of God don't have a silk press. What is this? That's ridiculous. Okay, we don't wear our hair effeminate, flapping around and doing all like that and stuff like that. Come on. That's gay. Don't do that. That ain't what the Bible talking about.
 
@@ -374,10 +374,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "women"]
 **[Isaiah 3:16-17](/bible/isaiah/3#v16)**  *[[53:10](https://www.youtube.com/watch?v=jNpIBCLRim8&t=3190s)]*
 
 > <sup>[16](/bible/isaiah/3#v16)</sup> Moreover the Lord saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing as they go, and making a tinkling with their feet:
->
-> <sup>[17](/bible/isaiah/3#v17)</sup> Therefore the Lord will smite with a scab the crown of the head of the daughters of Zion, and the Lord will discover their secret parts.
 
 - Walk with stretched forth necks and wanton eyes, walking and mincing as they go: So, this woman is arrogant, prideful, and whorish.
+
+> <sup>[17](/bible/isaiah/3#v17)</sup> Therefore the Lord will smite with a scab the crown of the head of the daughters of Zion, and the Lord will discover their secret parts.
 
 - The Lord will smite with a scab the crown of the head of the daughters of Zion: So, the Lord will smite with a scab the crown of the head. The crown of your head is right here. This your crown. The Lord will smite a scab right there. Meaning, no hair can grow there. Bald spots, alopecia, different sicknesses. You understand? To cause your hair to fall out, your edges to fall out because it's your glory to have long hair. That's why we telling y'all sisters, y'all better repent. Better start keeping the commandments, fall into your glory.
 
@@ -400,12 +400,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "women"]
 > <sup>[15](/bible/1-corinthians/11#v15)</sup> But if a woman have long hair, it is a glory to her: for her hair is given her for a covering.
 >
 > <sup>[16](/bible/1-corinthians/11#v16)</sup> But if any man seem to be contentious, we have no such custom, neither the churches of God.
->
+
+- We have no such custom, neither the churches of God: We had no such custom for a man to have long effeminate hair and for a woman to have a shaved bald head or to not cover her head. No, that's against the scripture. We don't have that custom.
+
 > <sup>[17](/bible/1-corinthians/11#v17)</sup> Now in this that I declare unto you I praise you not, that ye come together not for the better, but for the worse.
 >
 > <sup>[18](/bible/1-corinthians/11#v18)</sup> For first of all, when ye come together in the church, I hear that there be divisions among you; and I partly believe it.
-
-- We have no such custom, neither the churches of God: We had no such custom for a man to have long effeminate hair and for a woman to have a shaved bald head or to not cover her head. No, that's against the scripture. We don't have that custom.
 
 - I hear that there be divisions among you; and I partly believe it: So he got wind that there were divisions in the church of Corinth. That's why he had to come in and lay the law down regarding the head covering, a man having long hair effeminately, a woman not having her head covered, having her head shaved, not being in submission to the man. He said, "When y'all come together, I heard that there's division and I partly believe it." Why does he partly believe it?
 
@@ -423,10 +423,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "women"]
 **[1 Corinthians 11:18-19](/bible/1-corinthians/11#v18)**  *[[59:24](https://www.youtube.com/watch?v=jNpIBCLRim8&t=3564s)]*
 
 > <sup>[18](/bible/1-corinthians/11#v18)</sup> For first of all, when ye come together in the church, I hear that there be divisions among you; and I partly believe it.
->
-> <sup>[19](/bible/1-corinthians/11#v19)</sup> For there must be also heresies among you, that they which are approved may be made manifest among you.
 
 - And I partly believe it: And I partly believe it.
+
+> <sup>[19](/bible/1-corinthians/11#v19)</sup> For there must be also heresies among you, that they which are approved may be made manifest among you.
 
 - For there must be also heresies among you, that they which are approved may be made manifest among you: I ain't got much time. So, somebody else gonna have to finish the rest of the chapter, but I'm going just probably end right here. It says, "For there must also be heresies among you, that they which are approved may be made manifest among you." In this truth, there going to be different doctrines that always come up, but they're not different. They're recycled doctrines from a time past.
 
@@ -438,10 +438,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "women"]
 **[Romans 16:17-18](/bible/romans/16#v17)**  *[[1:01:13](https://www.youtube.com/watch?v=jNpIBCLRim8&t=3673s)]*
 
 > <sup>[17](/bible/romans/16#v17)</sup> Now I beseech you, brethren, mark them which cause divisions and offences contrary to the doctrine which ye have learned; and avoid them.
->
-> <sup>[18](/bible/romans/16#v18)</sup> For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple.
 
 - Mark them which cause divisions and offences contrary to the doctrine which ye have learned; and avoid them: He gave you the order. Avoid those that cause divisions and are teaching doctrines and offenses contrary to what you've learned. Anybody that teach something contrary to what you've learned and what you've been assured of, get rid of them. Avoid them. They got to go.
+
+> <sup>[18](/bible/romans/16#v18)</sup> For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple.
 
 - But their own belly: Their own belly, their own lust.
 
@@ -460,10 +460,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "women"]
 **[Galatians 2:4-5](/bible/galatians/2#v4)**  *[[1:03:31](https://www.youtube.com/watch?v=jNpIBCLRim8&t=3811s)]*
 
 > <sup>[4](/bible/galatians/2#v4)</sup> And that because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:
->
-> <sup>[5](/bible/galatians/2#v5)</sup> To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you.
 
 - That they might bring us into bondage: That they might bring us back to the ordinance of animal sacrifice.
+
+> <sup>[5](/bible/galatians/2#v5)</sup> To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you.
 
 - To whom we gave place by subjection, no, not for an hour: He said, "We didn't give them subjection for an hour. We didn't give them no place. We heard them talk." Oh, he teaching against Christ. Get him out of here. Paul was kicking … out the church. Y'all don't understand the Bible. Paul was throwing people out. Peter was throwing people out. James and John, they was throwing people out. You coming here talking about that, we throwing your ass out. That's what he's saying. Cuz the gospel got to continue with those that believe it.
 
@@ -480,18 +480,18 @@ tags: ["15 Minutes w/ The Captains", "christ", "women"]
 > <sup>[6](/bible/galatians/1#v6)</sup> I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:
 >
 > <sup>[7](/bible/galatians/1#v7)</sup> Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.
->
-> <sup>[8](/bible/galatians/1#v8)</sup> But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.
->
-> <sup>[9](/bible/galatians/1#v9)</sup> As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed.
 
 - There be some that trouble you, and would pervert the gospel of Christ: There are some that troubled our people during the time of the Galatians and even to this day. Some people trouble you. They making little AI art trying to make fun of us. They trying to come into our lives and try to confound us. They trying to roll up on us on the street. And some of you may be like, "Man, well, maybe this ain't the truth." Shoot, you crazy. That's a heresy. Those are heresies coming in. "Oh, man. You can cover your head, man. You can have multiple wives, man. Man, ain't nothing wrong with debate. Ain't nothing wrong with sit down with a Christian apologist, having a debate, going to his house and debating with him and doing skits." Man, you stupid. You don't know the Bible. You gonna get bit and you gonna become a Christian. Just like some of these other Israelites you see, they slowly becoming Christians again. "Oh yeah. All nations can be saved now." Okay. All right. All right. That's the first step. That's the first step. Just watch. They going to just come crashing down. They not going to be the last man standing. You know why? Because they don't believe the Bible. They looking to feed that demon that's in them. They looking for a reason to fall back into their lust. I'm just telling you. I'm just telling you. Slowly but surely.
+
+> <sup>[8](/bible/galatians/1#v8)</sup> But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.
 
 - Let him be accursed: Let him be accursed. So these people that's come and preaching another gospel, they got curses on them. They are cursed. All of them, the apologists, these other Israelite camps that hate us and come against us purposely, not because they know what we teaching is wrong, but because they just got hatred in their heart. They don't want to come together with their brethren and teach. A lot of Israelite camps are popping up because they don't want to fall up under leadership. They want to be the HNIC. We got leaders. We don't need you to come in and be a captain from day one or a deacon from day one or a bishop day one. It don't matter how long you've been in the truth. You got to come and humble yourself as a child up under the leadership that is already established. If you don't want to do that, then okay, stay out. Watch online.
 
 - But these dudes, they said, "No, I want to go out and teach. So, let me go and start my own congregation." Even though I don't know what the hell I'm talking about, even though I'm brand new in the truth, I just learned a couple precepts from IUIC. And I'm going to go out. Because that's what I'm telling you. Everybody learn from Bishop Nathanyel. It is what it is. You can say what you want to say. You watch these brothers. They be having the same exact breakdowns as the bishop, but they can't get the same power behind it or the same understanding behind it. But the scriptures, they learn from him. I'm just telling you for real. It is what it is. So these people that do that, they are accursed. The Bible said, that go directly against the truth of the gospel and want to pull people away from the truth. You brothers and sisters have to understand that that's what the word says.
 
 - And that's not me boasting because Bishop Nathanyel one of the most humble men I ever met. He don't brag or boast on himself. But he been doing this long enough to know these young men that's coming up, they not gonna stand if they do not get up under some proper leadership. These young men that's trying to do it on their own, that's trying to break away from their, defectors, that's what they call their defectors. They have no loyalty. They're not loyal to their leaders. They're not loyal to the men that came before them. The Bible even tell you if your leader, your father, going off in his old age, don't despise him, but help him. Even if your leader was going off mentally, you say, "Hey, you know, you ain't teach me that when you was young. You taught me this. Remember we went on the scriptures and they say this, Elder." "Oh, yeah. Yeah. Yeah. You right. I'm tripping now." He just say to hell with it, then you know, it is what it is. You might have to move on. I understand that cuz they teaching different from what they taught you before. And what they taught you before, you knew to be right. But I'm talking about you brothers that they didn't do nothing to you. You just left because you wanted to start your own thing. That spirit, that ain't the spirit of Christ. That's the same spirit that was going on during the time of the Corinthians.
+
+> <sup>[9](/bible/galatians/1#v9)</sup> As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed.
 
 
 **[2 Timothy 2:15-18](/bible/2-timothy/2#v15)**  *[[1:09:52](https://www.youtube.com/watch?v=jNpIBCLRim8&t=4192s)]*

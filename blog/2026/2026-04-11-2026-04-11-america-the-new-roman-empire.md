@@ -2,7 +2,7 @@
 title: "AMERICA: THE NEW ROMAN EMPIRE"
 slug: "2026/2026-04-11-america-the-new-roman-empire"
 date: "2026-04-11"
-teacher: ""
+teacher: "Bishop Nathanyel"
 description: "IUIC in the ClassRoom · 2026-04-11"
 tags: ["IUIC in the ClassRoom", "america-babylon", "rome", "unity", "war"]
 ---
@@ -117,9 +117,15 @@ Reading from an on-screen title  *[[31:37](https://www.youtube.com/watch?v=ZnReL
 **[2 Esdras 11:12-19](/bible/2-esdras/11#v12)**  *[[32:16](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=1936s)]*
 
 > <sup>[12](/bible/2-esdras/11#v12)</sup> And I looked, and, behold, on the right side there arose one feather, and reigned over all the earth;
->
+
+- On the right side there arose one feather and reigned over all the earth: that is Julius Caesar.
+
 > <sup>[13](/bible/2-esdras/11#v13)</sup> And so it was, that when it reigned, the end of it came, and the place thereof appeared no more: so the next following stood up. and reigned, and had a great time;
->
+
+- And so it was that when it reigned, the end of it came: Julius was assassinated. The next following stood up and reigned and had a great time: Augustus.
+
+- Then came a voice: Hear thou that hast borne rule over the earth so long, before thou beginnest to appear no more, there shall none after thee attain unto thy time, neither unto the half thereof. No Caesar after Augustus would reign as long as his 41 years.
+
 > <sup>[14](/bible/2-esdras/11#v14)</sup> And it happened, that when it reigned, the end of it came also, like as the first, so that it appeared no more.
 >
 > <sup>[15](/bible/2-esdras/11#v15)</sup> Then came there a voice unto it, and said,
@@ -129,13 +135,10 @@ Reading from an on-screen title  *[[31:37](https://www.youtube.com/watch?v=ZnReL
 > <sup>[17](/bible/2-esdras/11#v17)</sup> There shall none after thee attain unto thy time, neither unto the half thereof.
 >
 > <sup>[18](/bible/2-esdras/11#v18)</sup> Then arose the third, and reigned as the other before, and appeared no more also.
->
-> <sup>[19](/bible/2-esdras/11#v19)</sup> So went it with all the residue one after another, as that every one reigned, and then appeared no more.
 
-- On the right side there arose one feather and reigned over all the earth: that is Julius Caesar.
-- And so it was that when it reigned, the end of it came: Julius was assassinated. The next following stood up and reigned and had a great time: Augustus.
-- Then came a voice: Hear thou that hast borne rule over the earth so long, before thou beginnest to appear no more, there shall none after thee attain unto thy time, neither unto the half thereof. No Caesar after Augustus would reign as long as his 41 years.
 - Then arose the third and reigned as the other before, and appeared no more also: Tiberius. So went it with all the residue one after another: every one reigned and then appeared no more. There were twelve in total.
+
+> <sup>[19](/bible/2-esdras/11#v19)</sup> So went it with all the residue one after another, as that every one reigned, and then appeared no more.
 
 <div class="reading">
 
@@ -618,16 +621,20 @@ Reading from on-screen notes on Pertinax and Didius Julianus  *[[71:26](https://
 
 **[Revelation 13:1-3](/bible/revelation/13#v1)**  *[[75:39](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=4539s)]*
 
+- A beast rose up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, as you are looking at right there on the screen.
+
 > <sup>[1](/bible/revelation/13#v1)</sup> And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
->
+
+- Upon his heads the name of blasphemy: Jesus is white, Sunday worship, man with man and woman with woman marriage, the woman over the man, changing the names of the months to Roman gods, the Jews are white, God is white, Jerusalem belongs to the white man. All of those are blasphemies.
+
+- The beast was like unto a leopard: the leopard in Daniel 7 was Greece. This last kingdom is not the Greeks, but in its last days it has elements of ancient Greece in it. His feet were as the feet of a bear: the bear was Medo-Persia, already conquered, so this last empire has elements of the Medo-Persian Empire in it. His mouth as the mouth of a lion: Babylon, so it has elements of Babylon in it. Those elements are here in America.
+
 > <sup>[2](/bible/revelation/13#v2)</sup> And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority.
->
+
+- The dragon gave him his power, and his seat, and great authority: this last kingdom was given power by Satan.
+
 > <sup>[3](/bible/revelation/13#v3)</sup> And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast.
 
-- A beast rose up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, as you are looking at right there on the screen.
-- Upon his heads the name of blasphemy: Jesus is white, Sunday worship, man with man and woman with woman marriage, the woman over the man, changing the names of the months to Roman gods, the Jews are white, God is white, Jerusalem belongs to the white man. All of those are blasphemies.
-- The beast was like unto a leopard: the leopard in Daniel 7 was Greece. This last kingdom is not the Greeks, but in its last days it has elements of ancient Greece in it. His feet were as the feet of a bear: the bear was Medo-Persia, already conquered, so this last empire has elements of the Medo-Persian Empire in it. His mouth as the mouth of a lion: Babylon, so it has elements of Babylon in it. Those elements are here in America.
-- The dragon gave him his power, and his seat, and great authority: this last kingdom was given power by Satan.
 - I saw one of his heads as it were wounded to death: write this down, the Roman Empire was wounded to death when Septimius took it over. And his deadly wound was healed: remember Malachi, we are impoverished, but we will return and build the desolate places. The wound was the dark ages; Rome came back in 1453 in the Renaissance. And all the world wondered after the beast.
 
 <div class="reading">
@@ -643,10 +650,11 @@ Reading from an on-screen list of the seven heads and ten horns · read by Capta
 **[Revelation 13:11-12](/bible/revelation/13#v11)**  *[[79:46](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=4786s)]*
 
 > <sup>[11](/bible/revelation/13#v11)</sup> And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon.
->
-> <sup>[12](/bible/revelation/13#v12)</sup> And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed.
 
 - I beheld another beast coming up out of the earth: this is America. He had two horns like a lamb: write that down, the two horns are the Republicans and the Democrats, a bipartisan system. Like a lamb, because they say this is a Christian country founded on Judeo-Christian ideals. And he spake as a dragon, because they talk of war, death and destruction.
+
+> <sup>[12](/bible/revelation/13#v12)</sup> And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed.
+
 - He exerciseth all the power of the first beast before him: America exercises all the power of Rome. Last week I showed you the months and how many things America glorifies from Rome.
 
 <div class="reading">
@@ -674,15 +682,17 @@ Reading from the words on the dollar bill  *[[81:19](https://www.youtube.com/wat
 **[2 Esdras 11:37-40](/bible/2-esdras/11#v37)**  *[[85:58](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=5158s)]*
 
 > <sup>[37](/bible/2-esdras/11#v37)</sup> And I beheld, and lo, as it were a roaring lion chased out of the wood: and I saw that he sent out a man’s voice unto the eagle, and said,
->
+
+- A roaring lion chased out of the wood: the lion represents Christ. He sent out a man's voice unto the eagle: Art not thou it that remainest of the four beasts, whom I made to reign in my world, that the end of their times might come through them? Christ is the one that gave them the power. Nobody rules unless the Most High allows it; Satan gave them power because Christ said it is their turn to rule.
+
 > <sup>[38](/bible/2-esdras/11#v38)</sup> Hear thou, I will talk with thee, and the Highest shall say unto thee,
 >
 > <sup>[39](/bible/2-esdras/11#v39)</sup> Art not thou it that remainest of the four beasts, whom I made to reign in my world, that the end of their times might come through them?
 >
 > <sup>[40](/bible/2-esdras/11#v40)</sup> And the fourth came, and overcame all the beasts that were past, and had power over the world with great fearfulness, and over the whole compass of the earth with much wicked oppression; and so long time dwelt he upon the earth with deceit.
 
-- A roaring lion chased out of the wood: the lion represents Christ. He sent out a man's voice unto the eagle: Art not thou it that remainest of the four beasts, whom I made to reign in my world, that the end of their times might come through them? Christ is the one that gave them the power. Nobody rules unless the Most High allows it; Satan gave them power because Christ said it is their turn to rule.
 - The fourth came and overcame all the beasts that were past: the same fourth beast of Daniel 7. And had power over the world with great fearfulness, and over the whole compass of the earth: shown on the screen, the map of America's military bases around the world. From Rome to the United States of America, they have ruled and dominated collectively, with much wicked oppression, and dwelt so long upon the earth with deceit.
+
 - Book shown: Jews vs. Rome, Two Centuries of Rebellion Against the World's Mightiest Empire, by Barry Strauss, in which they talk about how America is the new Rome.
 
 **[1 Maccabees 8:1](/bible/1-maccabees/8#v1)**  *[[88:42](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=5322s)]*
@@ -1152,20 +1162,6 @@ Reading from a news report on migrants sold in Tunisia  *[[154:12](https://www.y
 **[Joel 3:1-8](/bible/joel/3#v1)**  *[154:50]*
 
 > <sup>[1](/bible/joel/3#v1)</sup> For, behold, in those days, and in that time, when I shall bring again the captivity of Judah and Jerusalem,
->
-> <sup>[2](/bible/joel/3#v2)</sup> I will also gather all nations, and will bring them down into the valley of Jehoshaphat, and will plead with them there for my people and for my heritage Israel, whom they have scattered among the nations, and parted my land.
->
-> <sup>[3](/bible/joel/3#v3)</sup> And they have cast lots for my people; and have given a boy for an harlot, and sold a girl for wine, that they might drink.
->
-> <sup>[4](/bible/joel/3#v4)</sup> Yea, and what have ye to do with me, O Tyre, and Zidon, and all the coasts of Palestine? will ye render me a recompence? and if ye recompense me, swiftly and speedily will I return your recompence upon your own head;
->
-> <sup>[5](/bible/joel/3#v5)</sup> Because ye have taken my silver and my gold, and have carried into your temples my goodly pleasant things:
->
-> <sup>[6](/bible/joel/3#v6)</sup> The children also of Judah and the children of Jerusalem have ye sold unto the Grecians, that ye might remove them far from their border.
->
-> <sup>[7](/bible/joel/3#v7)</sup> Behold, I will raise them out of the place whither ye have sold them, and will return your recompence upon your own head:
->
-> <sup>[8](/bible/joel/3#v8)</sup> And I will sell your sons and your daughters into the hand of the children of Judah, and they shall sell them to the Sabeans, to a people far off: for the Lord hath spoken it.
 
 - In those days, and in that time, when I shall bring again the captivity of Judah and Jerusalem: meaning he is going to bring us back to our homeland. Here is the evidence.
 
@@ -1175,9 +1171,16 @@ Reading from a news report on migrants sold in Tunisia  *[[154:12](https://www.y
 
     The days come that I will bring again the captivity of my people Israel and Judah, and I will cause them to return to the land that I gave to their fathers, and they shall possess it. We went over this last week. Now we know what Joel 3:1 is saying.
 
+> <sup>[2](/bible/joel/3#v2)</sup> I will also gather all nations, and will bring them down into the valley of Jehoshaphat, and will plead with them there for my people and for my heritage Israel, whom they have scattered among the nations, and parted my land.
+
 - I will also gather all nations, and will bring them down into the valley of Jehoshaphat: that valley is in Israel, at the place called Har-Megiddo, where the name Armageddon comes from. Why in Israel? The Most High is making sure all nations hate Amalek, those fake Israelis; do you not see all nations condemning what they are doing and calling it a genocide? He will plead with them there for my people and for my heritage Israel, whom they have scattered among the nations and parted my land: they parted the land between the Arabs and the Edomites.
+
+> <sup>[3](/bible/joel/3#v3)</sup> And they have cast lots for my people; and have given a boy for an harlot, and sold a girl for wine, that they might drink.
+
 - They have cast lots for my people: they bid on us, the same thing they are doing in these Arab countries. Given a boy for an harlot: they made the men into breeders. Sold a girl for wine, that they might drink.
+
 - What have ye to do with me, O Tyre and Zidon, and all the coasts of Palestine? Tyre and Zidon were the Hamite nations of Canaan back then; the coasts of Palestine, the ancient Philistines, is the modern name for the modern people there, the Arabs. Will ye render me a recompence? If ye recompense me, swiftly and speedily will I return your recompence upon your own head: what you did to my people, I will have done to you. Ye have taken my silver and my gold, and carried into your temples my goodly pleasant things: they robbed our wealth and our temples.
+
 - Here is the part to highlight: the children of Judah and the children of Jerusalem have ye sold unto the Grecians, that ye might remove them far from their border. Tyre, Zidon and the Palestinians, the Arabs, sold us to the Grecians, the white man.
 
   Precepts:
@@ -1188,7 +1191,17 @@ Reading from a news report on migrants sold in Tunisia  *[[154:12](https://www.y
 
     For three transgressions of Tyrus, and for four, I will not turn away the punishment thereof; because they delivered up the whole captivity to Edom, and remembered not the brotherly covenant. The same people delivered us to Edom, whom Joel calls the Grecians. I will send a fire on the wall of Tyrus, which shall devour the palaces thereof: the wall of Tyrus is the land, and you see that land catching hell today, and the Arabs are there too.
 
+> <sup>[4](/bible/joel/3#v4)</sup> Yea, and what have ye to do with me, O Tyre, and Zidon, and all the coasts of Palestine? will ye render me a recompence? and if ye recompense me, swiftly and speedily will I return your recompence upon your own head;
+>
+> <sup>[5](/bible/joel/3#v5)</sup> Because ye have taken my silver and my gold, and have carried into your temples my goodly pleasant things:
+>
+> <sup>[6](/bible/joel/3#v6)</sup> The children also of Judah and the children of Jerusalem have ye sold unto the Grecians, that ye might remove them far from their border.
+>
+> <sup>[7](/bible/joel/3#v7)</sup> Behold, I will raise them out of the place whither ye have sold them, and will return your recompence upon your own head:
+
 - Behold, I will raise them out of the place whither ye have sold them: the Most High will raise up the Israelites from the places you sold us, back to verse 1, and bring us back to our homeland in freedom. And will return your recompence upon your own head: how did they recompense us? By selling us as slaves. So I will sell your sons and your daughters into the hand of the children of Judah, and they shall sell them to the Sabeans, to a people far off. Eye for eye, tooth for tooth. For the Lord hath spoken it. Christians, you cannot change this Bible; the way they recompensed him by selling us, the same judgment comes on them.
+
+> <sup>[8](/bible/joel/3#v8)</sup> And I will sell your sons and your daughters into the hand of the children of Judah, and they shall sell them to the Sabeans, to a people far off: for the Lord hath spoken it.
 
 **[2 Esdras 15:21-26](/bible/2-esdras/15#v21)**  *[161:46]*
 
@@ -1211,7 +1224,11 @@ Reading from a news report on migrants sold in Tunisia  *[[154:12](https://www.y
 **[2 Esdras 7:13-18](/bible/2-esdras/7#v13)**  *[163:48]*
 
 > <sup>[13](/bible/2-esdras/7#v13)</sup> For the entrances of the elder world were wide and sure, and brought immortal fruit.
->
+
+- The entrances of the elder world were wide and sure, and brought immortal fruit: the elder world is paradise, where Adam was. If then they that live labour not to enter these strait and vain things, they can never receive those that are laid up for them. The strait things are the hard things; we have to go through trials and tribulation. You come into this truth and say, I do not want to be persecuted, I do not want to go through anything; then you can never receive what the Most High has laid up for you.
+
+- Why disquietest thou thyself, seeing thou art but a corruptible man? Why hast thou not considered in thy mind this thing that is to come, rather than that which is present? Ezra answered: O Lord that bearest rule, thou hast ordained in thy law that the righteous should inherit these things. That is what your word says; we are supposed to inherit the earth. But that the ungodly should perish: the ungodly among us.
+
 > <sup>[14](/bible/2-esdras/7#v14)</sup> If then they that live labour not to enter these strait and vain things, they can never receive those that are laid up for them.
 >
 > <sup>[15](/bible/2-esdras/7#v15)</sup> Now therefore why disquietest thou thyself, seeing thou art but a corruptible man? and why art thou moved, whereas thou art but mortal?
@@ -1222,18 +1239,24 @@ Reading from a news report on migrants sold in Tunisia  *[[154:12](https://www.y
 >
 > <sup>[18](/bible/2-esdras/7#v18)</sup> Nevertheless the righteous shall suffer strait things, and hope for wide: for they that have done wickedly have suffered the strait things, and yet shall not see the wide.
 
-- The entrances of the elder world were wide and sure, and brought immortal fruit: the elder world is paradise, where Adam was. If then they that live labour not to enter these strait and vain things, they can never receive those that are laid up for them. The strait things are the hard things; we have to go through trials and tribulation. You come into this truth and say, I do not want to be persecuted, I do not want to go through anything; then you can never receive what the Most High has laid up for you.
-- Why disquietest thou thyself, seeing thou art but a corruptible man? Why hast thou not considered in thy mind this thing that is to come, rather than that which is present? Ezra answered: O Lord that bearest rule, thou hast ordained in thy law that the righteous should inherit these things. That is what your word says; we are supposed to inherit the earth. But that the ungodly should perish: the ungodly among us.
 - Nevertheless the righteous shall suffer strait things, and hope for wide: the righteous shall suffer tribulation and hope for paradise, the kingdom. For they that have done wickedly have suffered the strait things, and yet shall not see the wide: the Israelites who do not keep the commandments still suffer the tribulation, and they are not going to get the kingdom, the new world coming.
 
 **[2 Esdras 16:68-78](/bible/2-esdras/16#v68)**  *[166:35]*
 
+- The burning wrath of a great multitude is kindled over you, and they shall take away certain of you, and feed you, being idle, with things offered unto idols. Christianity is the number one idolatrous religion, followed by Islam. The idle brothers and sisters in here and online will give way to the Christian lies. Why? Because you are idle: not studying, not praying, and surely not applying anything. You are just here.
+
 > <sup>[68](/bible/2-esdras/16#v68)</sup> For, behold, the burning wrath of a great multitude is kindled over you, and they shall take away certain of you, and feed you, being idle, with things offered unto idols.
 >
 > <sup>[69](/bible/2-esdras/16#v69)</sup> And they that consent unto them shall be had in derision and in reproach, and trodden under foot.
->
+
+- They that consent unto them shall be had in derision and in reproach, and trodden under foot: when you give way to that idolatrous religion, they use you for what they can and then put you to death.
+
 > <sup>[70](/bible/2-esdras/16#v70)</sup> For there shall be in every place, and in the next cities, a great insurrection upon those that fear the Lord.
->
+
+- There shall be in every place, and in the next cities, a great insurrection upon those that fear the Lord: that is great tribulation. They shall be like mad men, sparing none, but still spoiling and destroying those that fear the Lord. They are going to look for those keeping the commandments, those wearing fringes with the border of blue, women wearing head coverings, black and brown people. They shall waste and take away their goods, homes and properties, and cast them out of their houses.
+
+- Then shall they be known, who are my chosen, because the chosen are not going to give in or blaspheme against the Lord; and they shall be tried as the gold in the fire. It is going to be a major test.
+
 > <sup>[71](/bible/2-esdras/16#v71)</sup> They shall be like mad men, sparing none, but still spoiling and destroying those that fear the Lord.
 >
 > <sup>[72](/bible/2-esdras/16#v72)</sup> For they shall waste and take away their goods, and cast them out of their houses.
@@ -1241,30 +1264,47 @@ Reading from a news report on migrants sold in Tunisia  *[[154:12](https://www.y
 > <sup>[73](/bible/2-esdras/16#v73)</sup> Then shall they be known, who are my chosen; and they shall be tried as the gold in the fire.
 >
 > <sup>[74](/bible/2-esdras/16#v74)</sup> Hear, O ye my beloved, saith the Lord: behold, the days of trouble are at hand, but I will deliver you from the same.
->
+
+- Hear, O ye my beloved, saith the Lord: behold, the days of trouble are at hand, but I will deliver you from the same. Write this down: Jeremiah 30:7 says the same thing, the time of Jacob's trouble, but he shall be saved out of it. Be ye not afraid, neither doubt; for God is your guide. Why does it say neither doubt? Because when we see the death and tribulation our people are going to receive, it will make us doubt: is God really with us? Why is he allowing all this? Regardless of what happens, do not be afraid and do not doubt.
+
 > <sup>[75](/bible/2-esdras/16#v75)</sup> Be ye not afraid neither doubt; for God is your guide,
 >
 > <sup>[76](/bible/2-esdras/16#v76)</sup> And the guide of them who keep my commandments and precepts, saith the Lord God: let not your sins weigh you down, and let not your iniquities lift up themselves.
->
+
+- Let not your sins weigh you down: many times we sin, and Satan gets in your spirit and says you are of no value to God, you might as well keep sinning, do not get back up. And let not your iniquities lift up themselves: when you start meddling with the old man, your sins rise up in you all over again.
+
+- Woe be unto them that are bound with their sins, and covered with their iniquities like as a field is covered over with bushes, and the path thereof covered with thorns, that no man may travel through. Once your iniquities lift up themselves there is a point of no return; no scripture we can give you, no fasting can help you, because now you are bound in your sin, covered from the top of your head to the bottom of your feet. The only way through a walkway covered with thorns and thistles is to chop it up and burn it so you can see the pavement beneath. That field is left undressed and is cast into the fire to be consumed therewith.
+
+- Clip played on what we just read: the White House has created an FBI joint mission center dedicated to proactively pursuing Americans suspected of domestic terrorism. The budget request lists anti-Americanism, anti-capitalism, anti-Christianity, support for the overthrow of the United States government, extremism on migration, on racism, on gender, and hostility towards those who hold traditional American views on family, religion and morality. So a domestic terrorist is anti-Christianity; that sounds like us. Anti-Americanism, because we teach that Babylon is going to be destroyed. Hostility means: sister, cover yourself; brother, stop kissing that man, go get you a woman. They call correcting sin hostility. The request says domestic terrorists use social media platforms, smaller websites and encrypted chat applications to recruit and radicalize. In other words, if your political views are practically anything other than the current administration's, you are on notice, courtesy of the FBI. They already have their law set in place.
+
 > <sup>[77](/bible/2-esdras/16#v77)</sup> Woe be unto them that are bound with their sins, and covered with their iniquities like as a field is covered over with bushes, and the path thereof covered with thorns, that no man may travel through!
 >
 > <sup>[78](/bible/2-esdras/16#v78)</sup> It is left undressed, and is cast into the fire to be consumed therewith.
 
-- The burning wrath of a great multitude is kindled over you, and they shall take away certain of you, and feed you, being idle, with things offered unto idols. Christianity is the number one idolatrous religion, followed by Islam. The idle brothers and sisters in here and online will give way to the Christian lies. Why? Because you are idle: not studying, not praying, and surely not applying anything. You are just here.
-- They that consent unto them shall be had in derision and in reproach, and trodden under foot: when you give way to that idolatrous religion, they use you for what they can and then put you to death.
-- There shall be in every place, and in the next cities, a great insurrection upon those that fear the Lord: that is great tribulation. They shall be like mad men, sparing none, but still spoiling and destroying those that fear the Lord. They are going to look for those keeping the commandments, those wearing fringes with the border of blue, women wearing head coverings, black and brown people. They shall waste and take away their goods, homes and properties, and cast them out of their houses.
-- Then shall they be known, who are my chosen, because the chosen are not going to give in or blaspheme against the Lord; and they shall be tried as the gold in the fire. It is going to be a major test.
-- Hear, O ye my beloved, saith the Lord: behold, the days of trouble are at hand, but I will deliver you from the same. Write this down: Jeremiah 30:7 says the same thing, the time of Jacob's trouble, but he shall be saved out of it. Be ye not afraid, neither doubt; for God is your guide. Why does it say neither doubt? Because when we see the death and tribulation our people are going to receive, it will make us doubt: is God really with us? Why is he allowing all this? Regardless of what happens, do not be afraid and do not doubt.
-- Let not your sins weigh you down: many times we sin, and Satan gets in your spirit and says you are of no value to God, you might as well keep sinning, do not get back up. And let not your iniquities lift up themselves: when you start meddling with the old man, your sins rise up in you all over again.
-- Woe be unto them that are bound with their sins, and covered with their iniquities like as a field is covered over with bushes, and the path thereof covered with thorns, that no man may travel through. Once your iniquities lift up themselves there is a point of no return; no scripture we can give you, no fasting can help you, because now you are bound in your sin, covered from the top of your head to the bottom of your feet. The only way through a walkway covered with thorns and thistles is to chop it up and burn it so you can see the pavement beneath. That field is left undressed and is cast into the fire to be consumed therewith.
-- Clip played on what we just read: the White House has created an FBI joint mission center dedicated to proactively pursuing Americans suspected of domestic terrorism. The budget request lists anti-Americanism, anti-capitalism, anti-Christianity, support for the overthrow of the United States government, extremism on migration, on racism, on gender, and hostility towards those who hold traditional American views on family, religion and morality. So a domestic terrorist is anti-Christianity; that sounds like us. Anti-Americanism, because we teach that Babylon is going to be destroyed. Hostility means: sister, cover yourself; brother, stop kissing that man, go get you a woman. They call correcting sin hostility. The request says domestic terrorists use social media platforms, smaller websites and encrypted chat applications to recruit and radicalize. In other words, if your political views are practically anything other than the current administration's, you are on notice, courtesy of the FBI. They already have their law set in place.
-
 **[Revelation 17:5-18](/bible/revelation/17#v5)**  *[173:27]*
+
+- Upon her forehead was a name written, Mystery. Why does it say mystery first? Because when we tell our people the United States of America is Babylon the Great, they say you are insane, Babylon the Great is Iraq; America feeds us, gives us education and religion. Babylon the Great, the mother of harlots and abominations of the earth: her whole church system, Catholic, Protestant, Episcopalian, Baptist, Anglican, Lutheran, Christian nationalism, all fall under America and her religions, and everything that comes out of America's mouth, her religions and her democracy, is an abomination to the Most High; it is always contrary to what the Bible says.
 
 > <sup>[5](/bible/revelation/17#v5)</sup> And upon her forehead was a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH.
 >
 > <sup>[6](/bible/revelation/17#v6)</sup> And I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus: and when I saw her, I wondered with great admiration.
->
+
+- I saw the woman: the woman is America. Picture shown: the Statue of Liberty in the harbor, a woman holding a torch, saying she is the light of the world and her religion and politics are what all the world should follow. Drunken with the blood of the saints and with the blood of the martyrs of Jesus: America is going to do a lot of killing, and based on what the young man was reading, the law is already in place. When I saw her, I wondered with great admiration: John was shocked at all the killing he saw.
+
+- The angel said, I will tell thee the mystery of the woman, and of the beast that carrieth her, which hath the seven heads and ten horns: NATO and the EU. The beast that thou sawest was (in your vision), and is not (not currently in existence), and shall ascend out of the bottomless pit (come out of Europe), and go into perdition (destruction). This is America. And they that dwell on the earth shall wonder, whose names were not written in the book of life: all the wicked of our people love Babylon the Great. When they behold the beast that was, and is not, and yet is: it is just like Rome.
+
+- Here is the mind which hath wisdom. The seven heads are seven mountains, seven kingdoms, on which the woman sitteth; America is supported by them. And there are seven kings: five are fallen by the time John wrote this; one is, that is Rome, the empire in existence when John wrote; and the other is not yet come, and when he cometh, he must continue a short space: write that down, that is Britain. And the beast that was, and is not, even he is the eighth, and is of the seventh: America came out of Britain. Britain was the seventh, America is the eighth, and goeth into perdition.
+
+- The ten horns are ten kings which have received no kingdom as yet in John's day, but receive power as kings one hour with the beast: economic and military power; America shared her technology with these nations. These have one mind, and shall give their power and strength unto the beast: they support America in all her ventures. These shall make war with the Lamb, and the Lamb shall overcome them, for he is Lord of lords and King of kings, and they that are with him are called, and chosen, and faithful.
+
+- The waters where the whore sitteth are peoples, and multitudes, and nations, and tongues: they made themselves a great melting pot here.
+
+- Now watch: the ten horns which thou sawest upon the beast, these shall hate the whore. Wait a minute. Verse 12 said they gave their power and strength unto the beast; after World War II all these nations supported the United States. But something is going to happen to make NATO and the EU turn against America. Do you not see it in the news? America says help us bomb Iran; NATO says no. And we remember what you said about Greenland, which Denmark owns; that is against the articles we signed. You said you want to take Canada; that is against the articles. Now America puts tariffs, meaning taxes, on everybody. Those nations are sitting back saying, this is an evil country; she is the devil the Bible speaks of.
+
+- These shall make her desolate and naked, and shall eat her flesh, and burn her with fire: NATO is going to turn on this country and burn her flesh with nuclear fire. For God hath put in their hearts to fulfil his will, and to agree, and give their kingdom unto the beast, until the words of God shall be fulfilled. The Most High put it in their minds to agree to this treachery against Babylon the Great.
+
+- And the woman which thou sawest is that great city, which reigneth over the kings of the earth. Here is the point: America is the world's superpower, not the Vatican.
+
 > <sup>[7](/bible/revelation/17#v7)</sup> And the angel said unto me, Wherefore didst thou marvel? I will tell thee the mystery of the woman, and of the beast that carrieth her, which hath the seven heads and ten horns.
 >
 > <sup>[8](/bible/revelation/17#v8)</sup> The beast that thou sawest was, and is not; and shall ascend out of the bottomless pit, and go into perdition: and they that dwell on the earth shall wonder, whose names were not written in the book of life from the foundation of the world, when they behold the beast that was, and is not, and yet is.
@@ -1289,16 +1329,6 @@ Reading from a news report on migrants sold in Tunisia  *[[154:12](https://www.y
 >
 > <sup>[18](/bible/revelation/17#v18)</sup> And the woman which thou sawest is that great city, which reigneth over the kings of the earth.
 
-- Upon her forehead was a name written, Mystery. Why does it say mystery first? Because when we tell our people the United States of America is Babylon the Great, they say you are insane, Babylon the Great is Iraq; America feeds us, gives us education and religion. Babylon the Great, the mother of harlots and abominations of the earth: her whole church system, Catholic, Protestant, Episcopalian, Baptist, Anglican, Lutheran, Christian nationalism, all fall under America and her religions, and everything that comes out of America's mouth, her religions and her democracy, is an abomination to the Most High; it is always contrary to what the Bible says.
-- I saw the woman: the woman is America. Picture shown: the Statue of Liberty in the harbor, a woman holding a torch, saying she is the light of the world and her religion and politics are what all the world should follow. Drunken with the blood of the saints and with the blood of the martyrs of Jesus: America is going to do a lot of killing, and based on what the young man was reading, the law is already in place. When I saw her, I wondered with great admiration: John was shocked at all the killing he saw.
-- The angel said, I will tell thee the mystery of the woman, and of the beast that carrieth her, which hath the seven heads and ten horns: NATO and the EU. The beast that thou sawest was (in your vision), and is not (not currently in existence), and shall ascend out of the bottomless pit (come out of Europe), and go into perdition (destruction). This is America. And they that dwell on the earth shall wonder, whose names were not written in the book of life: all the wicked of our people love Babylon the Great. When they behold the beast that was, and is not, and yet is: it is just like Rome.
-- Here is the mind which hath wisdom. The seven heads are seven mountains, seven kingdoms, on which the woman sitteth; America is supported by them. And there are seven kings: five are fallen by the time John wrote this; one is, that is Rome, the empire in existence when John wrote; and the other is not yet come, and when he cometh, he must continue a short space: write that down, that is Britain. And the beast that was, and is not, even he is the eighth, and is of the seventh: America came out of Britain. Britain was the seventh, America is the eighth, and goeth into perdition.
-- The ten horns are ten kings which have received no kingdom as yet in John's day, but receive power as kings one hour with the beast: economic and military power; America shared her technology with these nations. These have one mind, and shall give their power and strength unto the beast: they support America in all her ventures. These shall make war with the Lamb, and the Lamb shall overcome them, for he is Lord of lords and King of kings, and they that are with him are called, and chosen, and faithful.
-- The waters where the whore sitteth are peoples, and multitudes, and nations, and tongues: they made themselves a great melting pot here.
-- Now watch: the ten horns which thou sawest upon the beast, these shall hate the whore. Wait a minute. Verse 12 said they gave their power and strength unto the beast; after World War II all these nations supported the United States. But something is going to happen to make NATO and the EU turn against America. Do you not see it in the news? America says help us bomb Iran; NATO says no. And we remember what you said about Greenland, which Denmark owns; that is against the articles we signed. You said you want to take Canada; that is against the articles. Now America puts tariffs, meaning taxes, on everybody. Those nations are sitting back saying, this is an evil country; she is the devil the Bible speaks of.
-- These shall make her desolate and naked, and shall eat her flesh, and burn her with fire: NATO is going to turn on this country and burn her flesh with nuclear fire. For God hath put in their hearts to fulfil his will, and to agree, and give their kingdom unto the beast, until the words of God shall be fulfilled. The Most High put it in their minds to agree to this treachery against Babylon the Great.
-- And the woman which thou sawest is that great city, which reigneth over the kings of the earth. Here is the point: America is the world's superpower, not the Vatican.
-
 **[2 Esdras 15:43-45](/bible/2-esdras/15#v43)**  *[183:02]*
 
 > <sup>[43](/bible/2-esdras/15#v43)</sup> And they shall go stedfastly unto Babylon, and make her afraid.
@@ -1322,9 +1352,17 @@ Reading from a news report on migrants sold in Tunisia  *[[154:12](https://www.y
 **[2 Esdras 15:46-60](/bible/2-esdras/15#v46)**  *[185:05]*
 
 > <sup>[46](/bible/2-esdras/15#v46)</sup> And thou, Asia, that art partaker of the hope of Babylon, and art the glory of her person:
->
+
+- And thou, Asia, that art partaker of the hope of Babylon, and art the glory of her person: that includes China, North Korea, who have the bombs, and Japan. They all envy America. America has neocolonialism; China is doing the same thing, and China took the technology America has; that is how they built those nukes.
+
 > <sup>[47](/bible/2-esdras/15#v47)</sup> Woe be unto thee, thou wretch, because thou hast made thyself like unto her; and hast decked thy daughters in whoredom, that they might please and glory in thy lovers, which have always desired to commit whoredom with thee.
->
+
+- Woe be unto thee, thou wretch, because thou hast made thyself like unto her, and hast decked thy daughters in whoredom: their daughters are their businesses and corporations, that they might please and glory in thy lovers, the nations that always desired to do business with them. Thou hast followed her that is hated in all her works and inventions; the inventions came from America. Therefore saith God, I will send plagues upon thee: widowhood, poverty, famine, sword and pestilence, to waste thy houses with destruction and death. The glory of thy power shall be dried up as a flower when the heat shall arise that is sent over thee. Thou shalt be weakened as a poor woman with stripes, and as one chastised with wounds, so that the mighty and lovers shall not be able to receive thee: nobody will be able to help you.
+
+- Would I with jealousy have so proceeded against thee, saith the Lord, if thou hadst not always slain my chosen, exalting the stroke of thine hands, and saying over their dead, when thou wast drunken? A lot of us do not know the history of our people being enslaved in China, Korea and those countries; that history is hidden, but slowly we have been uncovering it. The first samurai were black; those were Israelites. They got them drunk at a party, and when our people were drunk, they killed them.
+
+- The reward of thy whoredom shall be in thy bosom; therefore shalt thou receive recompence. Like as thou hast done unto my chosen, saith the Lord, even so shall God do unto thee, and shall deliver thee into mischief. Thy children shall die of hunger, and thou shalt fall through the sword; thy cities shall be broken down, and all thine shall perish with the sword in the field. They that be in the mountains shall die of hunger: they have people in bunkers up in China. And eat their own flesh, and drink their own blood, for very hunger of bread and thirst of water.
+
 > <sup>[48](/bible/2-esdras/15#v48)</sup> Thou hast followed her that is hated in all her works and inventions: therefore saith God,
 >
 > <sup>[49](/bible/2-esdras/15#v49)</sup> I will send plagues upon thee; widowhood, poverty, famine, sword, and pestilence, to waste thy houses with destruction and death.
@@ -1348,36 +1386,12 @@ Reading from a news report on migrants sold in Tunisia  *[[154:12](https://www.y
 > <sup>[58](/bible/2-esdras/15#v58)</sup> They that be in the mountains shall die of hunger, and eat their own flesh, and drink their own blood, for very hunger of bread, and thirst of water.
 >
 > <sup>[59](/bible/2-esdras/15#v59)</sup> Thou as unhappy shalt come through the sea, and receive plagues again.
->
-> <sup>[60](/bible/2-esdras/15#v60)</sup> And in the passage they shall rush on the idle city, and shall destroy some portion of thy land, and consume part of thy glory, and shall return to Babylon that was destroyed.
 
-- And thou, Asia, that art partaker of the hope of Babylon, and art the glory of her person: that includes China, North Korea, who have the bombs, and Japan. They all envy America. America has neocolonialism; China is doing the same thing, and China took the technology America has; that is how they built those nukes.
-- Woe be unto thee, thou wretch, because thou hast made thyself like unto her, and hast decked thy daughters in whoredom: their daughters are their businesses and corporations, that they might please and glory in thy lovers, the nations that always desired to do business with them. Thou hast followed her that is hated in all her works and inventions; the inventions came from America. Therefore saith God, I will send plagues upon thee: widowhood, poverty, famine, sword and pestilence, to waste thy houses with destruction and death. The glory of thy power shall be dried up as a flower when the heat shall arise that is sent over thee. Thou shalt be weakened as a poor woman with stripes, and as one chastised with wounds, so that the mighty and lovers shall not be able to receive thee: nobody will be able to help you.
-- Would I with jealousy have so proceeded against thee, saith the Lord, if thou hadst not always slain my chosen, exalting the stroke of thine hands, and saying over their dead, when thou wast drunken? A lot of us do not know the history of our people being enslaved in China, Korea and those countries; that history is hidden, but slowly we have been uncovering it. The first samurai were black; those were Israelites. They got them drunk at a party, and when our people were drunk, they killed them.
-- The reward of thy whoredom shall be in thy bosom; therefore shalt thou receive recompence. Like as thou hast done unto my chosen, saith the Lord, even so shall God do unto thee, and shall deliver thee into mischief. Thy children shall die of hunger, and thou shalt fall through the sword; thy cities shall be broken down, and all thine shall perish with the sword in the field. They that be in the mountains shall die of hunger: they have people in bunkers up in China. And eat their own flesh, and drink their own blood, for very hunger of bread and thirst of water.
 - Thou as unhappy shalt come through the sea, and receive plagues again: come through the sea is their navy. And in the passage they shall rush on the idle city, and shall destroy some portion of thy land, and consume part of thy glory, and shall return to Babylon that was destroyed. Put the map of the military bases back up. Although this country is prophesied to be burned with fire, the party is not over; America still has bases across the earth. The American military is going to destroy a portion of Asia, China, Japan, and consume part of their glory; then that same military shall return to Babylon that was destroyed. They are going to say, Houston, we have a problem: Revelation 17 said this place gets burnt up. That is why Christ has to come; to take her down ultimately, only the Most High can do it.
 
-**[2 Esdras 11:37-46](/bible/2-esdras/11#v37)**  *[191:10]*
+> <sup>[60](/bible/2-esdras/15#v60)</sup> And in the passage they shall rush on the idle city, and shall destroy some portion of thy land, and consume part of thy glory, and shall return to Babylon that was destroyed.
 
-> <sup>[37](/bible/2-esdras/11#v37)</sup> And I beheld, and lo, as it were a roaring lion chased out of the wood: and I saw that he sent out a man’s voice unto the eagle, and said,
->
-> <sup>[38](/bible/2-esdras/11#v38)</sup> Hear thou, I will talk with thee, and the Highest shall say unto thee,
->
-> <sup>[39](/bible/2-esdras/11#v39)</sup> Art not thou it that remainest of the four beasts, whom I made to reign in my world, that the end of their times might come through them?
->
-> <sup>[40](/bible/2-esdras/11#v40)</sup> And the fourth came, and overcame all the beasts that were past, and had power over the world with great fearfulness, and over the whole compass of the earth with much wicked oppression; and so long time dwelt he upon the earth with deceit.
->
-> <sup>[41](/bible/2-esdras/11#v41)</sup> For the earth hast thou not judged with truth.
->
-> <sup>[42](/bible/2-esdras/11#v42)</sup> For thou hast afflicted the meek, thou hast hurt the peaceable, thou hast loved liars, and destroyed the dwellings of them that brought forth fruit, and hast cast down the walls of such as did thee no harm.
->
-> <sup>[43](/bible/2-esdras/11#v43)</sup> Therefore is thy wrongful dealing come up unto the Highest, and thy pride unto the Mighty.
->
-> <sup>[44](/bible/2-esdras/11#v44)</sup> The Highest also hath looked upon the proud times, and, behold, they are ended, and his abominations are fulfilled.
->
-> <sup>[45](/bible/2-esdras/11#v45)</sup> And therefore appear no more, thou eagle, nor thy horrible wings, nor thy wicked feathers nor thy malicious heads, nor thy hurtful claws, nor all thy vain body:
->
-> <sup>[46](/bible/2-esdras/11#v46)</sup> That all the earth may be refreshed, and may return, being delivered from thy violence, and that she may hope for the judgment and mercy of him that made her.
+**[2 Esdras 11:37-46](/bible/2-esdras/11#v37)**  *[191:10]*
 
 - We close with this. A roaring lion chased out of the wood, that is Christ, sent out a man's voice, the prophets, unto the eagle: Art not thou it that remainest of the four beasts, whom I made to reign in my world, that the end of their times might come through them? That fourth beast was the eagle. The Lord made them reign in his world, and the end of times shall come through this eagle.
 
@@ -1388,6 +1402,17 @@ Reading from a news report on migrants sold in Tunisia  *[[154:12](https://www.y
     For Esau is the end of the world, and Jacob is the beginning of it that followeth. Did we not read about those twelve Caesars? They were all Edomites, from that time to this time. The eagle represents Esau; the end comes through Esau.
 
 - The fourth came, and overcame all the beasts that were past, and had power over the world with great fearfulness, and over the whole compass of the earth. America today has power over the whole world; put the bases back up. That map represents the whole earth; America is everywhere. Rome did not have this, but America does. With much wicked oppression: not with righteousness. What did Captain Ibrahim Traore say about democracy? It kills. They put democracy in Libya and look at Libya today, destroyed; Somalia, destroyed. And so long time dwelt he upon the earth with deceit: everything that comes out of that man's mouth in the White House is a lie.
+
+> <sup>[37](/bible/2-esdras/11#v37)</sup> And I beheld, and lo, as it were a roaring lion chased out of the wood: and I saw that he sent out a man’s voice unto the eagle, and said,
+>
+> <sup>[38](/bible/2-esdras/11#v38)</sup> Hear thou, I will talk with thee, and the Highest shall say unto thee,
+>
+> <sup>[39](/bible/2-esdras/11#v39)</sup> Art not thou it that remainest of the four beasts, whom I made to reign in my world, that the end of their times might come through them?
+>
+> <sup>[40](/bible/2-esdras/11#v40)</sup> And the fourth came, and overcame all the beasts that were past, and had power over the world with great fearfulness, and over the whole compass of the earth with much wicked oppression; and so long time dwelt he upon the earth with deceit.
+>
+> <sup>[41](/bible/2-esdras/11#v41)</sup> For the earth hast thou not judged with truth.
+
 - For the earth hast thou not judged with truth: America set herself up as the police of the earth, but she has not judged the earth with truth. For thou hast afflicted the meek, that is Judah; thou hast hurt the peaceable, that is the northern kingdom. I am going to prove that.
 
   Precepts:
@@ -1400,9 +1425,21 @@ Reading from a news report on migrants sold in Tunisia  *[[154:12](https://www.y
 
     And whereas thou sawest that he gathered another peaceable multitude unto him: those are the ten tribes. So thou hast hurt the peaceable is the kingdom of Judah and the kingdom of Israel, the northern kingdom.
 
+> <sup>[42](/bible/2-esdras/11#v42)</sup> For thou hast afflicted the meek, thou hast hurt the peaceable, thou hast loved liars, and destroyed the dwellings of them that brought forth fruit, and hast cast down the walls of such as did thee no harm.
+
 - Thou hast loved liars: if you lie, you can be their friend, a senator, a mayor; they sat in Congress and lied, especially about the Epstein files, all of them lying. And destroyed the dwellings of them that brought forth fruit, and hast cast down the walls of such as did thee no harm: the northern kingdom here did them no harm, and they said destroy them, and enslaved them.
+
 - Therefore is thy wrongful dealing come up unto the Highest, and thy pride unto the Mighty. What you did to the peaceable and the meek of the earth has come up before the Most High, and he has considered it. The Highest also hath looked upon the proud times (the time of their technology), and, behold, they are ended, and his abominations are fulfilled.
+
 - And therefore appear no more, thou eagle, nor thy horrible wings, nor thy wicked feathers, nor thy malicious heads, nor thy hurtful claws (the militaries), nor all thy vain body (the citizens). This is the end of the eagle. That all the earth may be refreshed, and may return, being delivered from thy violence, and that she may hope for the judgment and mercy of him that made her. That is you and me right there. With that, brothers, twelve tribes; and with that we say shalom.
+
+> <sup>[43](/bible/2-esdras/11#v43)</sup> Therefore is thy wrongful dealing come up unto the Highest, and thy pride unto the Mighty.
+>
+> <sup>[44](/bible/2-esdras/11#v44)</sup> The Highest also hath looked upon the proud times, and, behold, they are ended, and his abominations are fulfilled.
+>
+> <sup>[45](/bible/2-esdras/11#v45)</sup> And therefore appear no more, thou eagle, nor thy horrible wings, nor thy wicked feathers nor thy malicious heads, nor thy hurtful claws, nor all thy vain body:
+>
+> <sup>[46](/bible/2-esdras/11#v46)</sup> That all the earth may be refreshed, and may return, being delivered from thy violence, and that she may hope for the judgment and mercy of him that made her.
 
 ## In Closing
 

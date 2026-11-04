@@ -32,12 +32,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prophecy"]
 **[Luke 19:47-48](/bible/luke/19#v47)**  *[[5:10](https://www.youtube.com/watch?v=G2Wor_9RNzA&t=310s)]*
 
 > <sup>[47](/bible/luke/19#v47)</sup> And he taught daily in the temple. But the chief priests and the scribes and the chief of the people sought to destroy him,
->
-> <sup>[48](/bible/luke/19#v48)</sup> And could not find what they might do: for all the people were very attentive to hear him.
 
 - But the chief priests and the scribes and the chief of the people sought to destroy him: They sought to do what? To destroy him. Right? Remember the chief priests, the elders, the scribes, Pharisees, Sadducees. Understand these were known as what? Doctors of the law. Right? Doctors of the law. So, you mean to tell me that they never read what? Deuteronomy 18. They never read Exodus 12, which prophesied of who? Christ. You understand? So, when he came on the scene, instead of receiving Christ, they sought to kill him. Why? Because Christ stood in the way of their authority. All right? Christ stood in the way of their jurisdiction or their status. All right? Within Jerusalem.
 
 - Sought to destroy him: Right? They sought to destroy Messiah.
+
+> <sup>[48](/bible/luke/19#v48)</sup> And could not find what they might do: for all the people were very attentive to hear him.
 
 - And could not find what they might do: For all the people were very attentive to hear him, right? Meaning what? They couldn't find what to do because if they would destroy him or kill him right then on the spot, they would have to deal with the people. The people would try to kill them. All right?
 
@@ -58,10 +58,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prophecy"]
 **[John 11:47-48](/bible/john/11#v47)**  *[[8:06](https://www.youtube.com/watch?v=G2Wor_9RNzA&t=486s)]*
 
 > <sup>[47](/bible/john/11#v47)</sup> Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles.
->
-> <sup>[48](/bible/john/11#v48)</sup> If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation.
 
 - For this man doeth many miracles: Right? This man doeth many miracles, many works. And at the end of the day, Christ showed them up. Christ made them look bad. All right. Open spectacle. He made them look horrible. And they were getting tired of that thing.
+
+> <sup>[48](/bible/john/11#v48)</sup> If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation.
 
 - If we let him thus alone: So they said if we don't do something about it, if we don't destroy him, all men will believe on him. Right? It says all men will end up believing on him.
 
@@ -130,10 +130,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prophecy"]
 **[John 5:26-27](/bible/john/5#v26)**  *[[14:18](https://www.youtube.com/watch?v=G2Wor_9RNzA&t=858s)]*
 
 > <sup>[26](/bible/john/5#v26)</sup> For as the Father hath life in himself; so hath he given to the Son to have life in himself;
->
-> <sup>[27](/bible/john/5#v27)</sup> And hath given him authority to execute judgment also, because he is the Son of man.
 
 - For as the Father hath life in himself; so hath he given to the Son to have life in himself: Right. So the father whatever he had he gave it to his son, his only begotten son. All right. Jesus the Christ.
+
+> <sup>[27](/bible/john/5#v27)</sup> And hath given him authority to execute judgment also, because he is the Son of man.
 
 - And hath given him authority: And have given him what? Authority. So Christ, his authority came from who? From the most high God. Not a Roman, you know, not the white man, not Massa, but God himself.
 
@@ -143,10 +143,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prophecy"]
 **[John 3:34-35](/bible/john/3#v34)**  *[[15:06](https://www.youtube.com/watch?v=G2Wor_9RNzA&t=906s)]*
 
 > <sup>[34](/bible/john/3#v34)</sup> For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure unto him.
->
-> <sup>[35](/bible/john/3#v35)</sup> The Father loveth the Son, and hath given all things into his hand.
 
 - For God giveth not the Spirit by measure unto him: Right? So we have the spirit or different gifts given unto us by measure. Meaning someone may have the gift of prophecy, someone may have the gift of exhortation, discernment, so on and so on. When it come to Christ, God didn't hold back on his son. He gave him the spirit without measure. He had all of the discernment. He had all of the prophecy. He had everything. You understand? And guess what? He also had the authority.
+
+> <sup>[35](/bible/john/3#v35)</sup> The Father loveth the Son, and hath given all things into his hand.
 
 - The Father loveth the Son, and hath given all things into his hand: There you go. And have given all things into his hand.
 
@@ -154,10 +154,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prophecy"]
 **[Luke 20:2-3](/bible/luke/20#v2)**  *[[16:47](https://www.youtube.com/watch?v=G2Wor_9RNzA&t=1007s)]*
 
 > <sup>[2](/bible/luke/20#v2)</sup> And spake unto him, saying, Tell us, by what authority doest thou these things? or who is he that gave thee this authority?
->
-> <sup>[3](/bible/luke/20#v3)</sup> And he answered and said unto them, I will also ask you one thing; and answer me:
 
 - Tell us, by what authority doest thou these things? or who is he that gave thee this authority: So the Pharisee and the scribes, all right, they're coming unto Christ trying to trip him up. All right. Trying to make him look like he's doing something wrong, like he's going against authority. The authority that's set in place would be Rome.
+
+> <sup>[3](/bible/luke/20#v3)</sup> And he answered and said unto them, I will also ask you one thing; and answer me:
 
 - I will also ask you one thing: So Christ, he answered them with a question cuz Christ can do that. He doesn't have to answer these fools. All right? So remember, give me the one about his folly. A fool in his folly. You know what I'm talking about, right? Answer now. Answer not. Proverbs 26 and 4. So this is what Christ applied right here.
 
@@ -173,14 +173,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prophecy"]
 **[Luke 20:3-5](/bible/luke/20#v3)**  *[[18:25](https://www.youtube.com/watch?v=G2Wor_9RNzA&t=1105s)]*
 
 > <sup>[3](/bible/luke/20#v3)</sup> And he answered and said unto them, I will also ask you one thing; and answer me:
->
-> <sup>[4](/bible/luke/20#v4)</sup> The baptism of John, was it from heaven, or of men?
->
-> <sup>[5](/bible/luke/20#v5)</sup> And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then believed ye him not?
 
 - And answer me: So they asked him, "Where do you get this authority?" So Christ said, "All right, I want to ask you something. I want to ask you one thing. So make sure you answer it."
 
+> <sup>[4](/bible/luke/20#v4)</sup> The baptism of John, was it from heaven, or of men?
+
 - The baptism of John, was it from heaven, or of men: So he asked the question. He said, "The baptism of John." Because remember many of our, they accepted that. They accepted the baptism of John. All right? So he said, "All right, baptism of John, was that of God the Father or was that of men?"
+
+> <sup>[5](/bible/luke/20#v5)</sup> And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then believed ye him not?
 
 - And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then believed ye him not: Right? So they would say, "Why wouldn't you believe him?" So they are communing with themselves. They're talking amongst themselves not to get the right answer, right? But to make Christ look bad.
 
@@ -189,19 +189,19 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prophecy"]
 
 **[John 1:19-23](/bible/john/1#v19)**  *[[19:48](https://www.youtube.com/watch?v=G2Wor_9RNzA&t=1188s)]*
 
+- Because Christ asked the Pharisees the question, the baptism of John, was it from heaven or of men. All right, let's find out.
+
 > <sup>[19](/bible/john/1#v19)</sup> And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?
 >
 > <sup>[20](/bible/john/1#v20)</sup> And he confessed, and denied not; but confessed, I am not the Christ.
 >
 > <sup>[21](/bible/john/1#v21)</sup> And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No.
->
+
+- And he answered, No: Now, was he Elijah? Yes. But he didn't have that understanding. You understand? Because he forgot those things. We don't remember exactly who we are when we come back. We are our forefathers. You understand? But he answered no because he didn't have that understanding. All right. He knew about regeneration. He knew the prophets would come back, but he didn't know which one he was.
+
 > <sup>[22](/bible/john/1#v22)</sup> Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?
 >
 > <sup>[23](/bible/john/1#v23)</sup> He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias.
-
-- Because Christ asked the Pharisees the question, the baptism of John, was it from heaven or of men. All right, let's find out.
-
-- And he answered, No: Now, was he Elijah? Yes. But he didn't have that understanding. You understand? Because he forgot those things. We don't remember exactly who we are when we come back. We are our forefathers. You understand? But he answered no because he didn't have that understanding. All right. He knew about regeneration. He knew the prophets would come back, but he didn't know which one he was.
 
 - I am the voice of one crying in the wilderness: Right? He says, "I am the voice of one crying in the wilderness." Was it Isaiah 40? Get that real quick.
 
@@ -211,10 +211,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prophecy"]
 > <sup>[1](/bible/isaiah/40#v1)</sup> Comfort ye, comfort ye my people, saith your God.
 >
 > <sup>[2](/bible/isaiah/40#v2)</sup> Speak ye comfortably to Jerusalem, and cry unto her, that her warfare is accomplished, that her iniquity is pardoned: for she hath received of the Lord’s hand double for all her sins.
->
-> <sup>[3](/bible/isaiah/40#v3)</sup> The voice of him that crieth in the wilderness, Prepare ye the way of the Lord, make straight in the desert a highway for our God.
 
 - For she hath received of the Lord's hand double for all her sins: Right? So, we receive double for all of our sins, all of our rebellion. Goodness gracious. I'm reading the book of Judges. That's all it is. We get a new judge and then Israel go a whoring again. As soon as one judge die, we go right back into our folly. All right. All throughout the scriptures, we turn to idolatry instead of following the one true God. So the Lord said we receive double for all of our sins, all of our iniquity.
+
+> <sup>[3](/bible/isaiah/40#v3)</sup> The voice of him that crieth in the wilderness, Prepare ye the way of the Lord, make straight in the desert a highway for our God.
 
 - Prepare ye the way of the Lord: Right? So for all of our sins, all right, we had to do what? We had to get back on the right side of God. So according to prophecy, according to prophecy, there would need to be one that would come and prepare the way for Christ. And his name happened to be John the Baptist.
 
@@ -228,11 +228,15 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prophecy"]
 > <sup>[24](/bible/john/1#v24)</sup> And they which were sent were of the Pharisees.
 >
 > <sup>[25](/bible/john/1#v25)</sup> And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?
->
+
+- Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet: Right? So the same men that Christ is talking to, the Pharisees, they say, "Well, if you're not Christ or Elijah, or that prophet," says, "Why are you baptizing? Why are you doing that?"
+
 > <sup>[26](/bible/john/1#v26)</sup> John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;
 >
 > <sup>[27](/bible/john/1#v27)</sup> He it is, who coming after me is preferred before me, whose shoe’s latchet I am not worthy to unloose.
->
+
+- Whose shoe's latchet I am not worthy to unloose: Right? Who is he referring to? He's referring to Messiah Jesus Christ. So what is John the Baptist witnessing? What is he letting you know? That he in fact, he's the one that would come before Messiah to prepare the way and make straight his paths.
+
 > <sup>[28](/bible/john/1#v28)</sup> These things were done in Bethabara beyond Jordan, where John was baptizing.
 >
 > <sup>[29](/bible/john/1#v29)</sup> The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.
@@ -240,22 +244,18 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prophecy"]
 > <sup>[30](/bible/john/1#v30)</sup> This is he of whom I said, After me cometh a man which is preferred before me: for he was before me.
 >
 > <sup>[31](/bible/john/1#v31)</sup> And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water.
->
-> <sup>[32](/bible/john/1#v32)</sup> And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him.
->
-> <sup>[33](/bible/john/1#v33)</sup> And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost.
->
-> <sup>[34](/bible/john/1#v34)</sup> And I saw, and bare record that this is the Son of God.
-
-- Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet: Right? So the same men that Christ is talking to, the Pharisees, they say, "Well, if you're not Christ or Elijah, or that prophet," says, "Why are you baptizing? Why are you doing that?"
-
-- Whose shoe's latchet I am not worthy to unloose: Right? Who is he referring to? He's referring to Messiah Jesus Christ. So what is John the Baptist witnessing? What is he letting you know? That he in fact, he's the one that would come before Messiah to prepare the way and make straight his paths.
 
 - And I knew him not: Right. And I knew him not. It says, "And I knew him not." Why would John say that? Why would John say, "And I knew him not?" Let's find out.
 
 - And I knew him not: And John said, I didn't know him. I didn't recognize him. I didn't know that this was the son of God.
 
+> <sup>[32](/bible/john/1#v32)</sup> And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him.
+>
+> <sup>[33](/bible/john/1#v33)</sup> And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost.
+
 - But he that sent me to baptize with water: But what? But he that sent me, who would that be? That would be God. That would be God the Father. That's how he knew. Oh, that's the lamb of God which taketh away the sins of the world. Why? Because God the Father revealed that unto John the Baptist.
+
+> <sup>[34](/bible/john/1#v34)</sup> And I saw, and bare record that this is the Son of God.
 
 - And I saw, and bare record that this is the Son of God: Right. Right. Right. Right. The only way he was able to do that is by what? By God showing him that this is in fact the Messiah.
 
@@ -343,20 +343,20 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prophecy"]
 **[Matthew 28:11-14](/bible/matthew/28#v11)**  *[[32:03](https://www.youtube.com/watch?v=G2Wor_9RNzA&t=1923s)]*
 
 > <sup>[11](/bible/matthew/28#v11)</sup> Now when they were going, behold, some of the watch came into the city, and shewed unto the chief priests all the things that were done.
->
-> <sup>[12](/bible/matthew/28#v12)</sup> And when they were assembled with the elders, and had taken counsel, they gave large money unto the soldiers,
->
-> <sup>[13](/bible/matthew/28#v13)</sup> Saying, Say ye, His disciples came by night, and stole him away while we slept.
->
-> <sup>[14](/bible/matthew/28#v14)</sup> And if this come to the governor’s ears, we will persuade him, and secure you.
 
 - Now when they were going: So at this time, they could have did what? Conceited defeat. You know what? Dang, he said he's going to rise on the third day. The angel came and got him. Hey, this is the son of God. All right, I'll confess it. I believe now. Nope. It just shows you what type of spirit, what type of evil spirit the Pharisees and scribes were rolling in.
 
 - And shewed unto the chief priests all the things that were done: How that the angel came and got Christ and he rose the third day.
 
+> <sup>[12](/bible/matthew/28#v12)</sup> And when they were assembled with the elders, and had taken counsel, they gave large money unto the soldiers,
+
 - They gave large money unto the soldiers: So why would they counsel and give a large sum of money to the soldiers that was watching the supplic?
 
+> <sup>[13](/bible/matthew/28#v13)</sup> Saying, Say ye, His disciples came by night, and stole him away while we slept.
+
 - Say ye, His disciples came by night, and stole him away while we slept: It says that men love darkness rather than light. Right? You understand? They went so far with their hatred of God. And that's what it was. That's why they didn't want to answer correctly because it's not Christ. If you hate the son, you hate the father by default. All right? Because of their hatred of God, they still conjured up a lie when Christ wrote the third day exactly as he said.
+
+> <sup>[14](/bible/matthew/28#v14)</sup> And if this come to the governor’s ears, we will persuade him, and secure you.
 
 - And if this come to the governor's ears, we will persuade him, and secure you: Said, "Don't worry about it. Don't worry about it. If the governor find out, we got the authority, we got the rule here in Jerusalem. We'll make sure you're good. We will make sure you're fine." And that's the spirit that they were rolling in. They made a covenant with death and hell because in a situation like this they say, "Well, they got my back. It don't matter what happened. I'mma be good." Well, Christ also said that what? He's going to return and bring the vengeance to the earth.
 
@@ -373,10 +373,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prophecy"]
 **[2 Esdras 15:23-24](/bible/2-esdras/15#v23)**  *[[34:13](https://www.youtube.com/watch?v=G2Wor_9RNzA&t=2053s)]*
 
 > <sup>[23](/bible/2-esdras/15#v23)</sup> The fire is gone forth from his wrath, and hath consumed the foundations of the earth, and the sinners, like the straw that is kindled.
->
-> <sup>[24](/bible/2-esdras/15#v24)</sup> Woe to them that sin, and keep not my commandments! saith the Lord.
 
 - And the sinners, like the straw that is kindled: Right. Like, and the sinners like the straw that is kindled.
+
+> <sup>[24](/bible/2-esdras/15#v24)</sup> Woe to them that sin, and keep not my commandments! saith the Lord.
 
 - Woe to them that sin, and keep not my commandments! saith the Lord: So destruction is coming. Destruction is coming.
 
@@ -384,30 +384,30 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prophecy"]
 **[John 5:30-36](/bible/john/5#v30)**  *[[35:07](https://www.youtube.com/watch?v=G2Wor_9RNzA&t=2107s)]*
 
 > <sup>[30](/bible/john/5#v30)</sup> I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because I seek not mine own will, but the will of the Father which hath sent me.
->
-> <sup>[31](/bible/john/5#v31)</sup> If I bear witness of myself, my witness is not true.
->
-> <sup>[32](/bible/john/5#v32)</sup> There is another that beareth witness of me; and I know that the witness which he witnesseth of me is true.
->
-> <sup>[33](/bible/john/5#v33)</sup> Ye sent unto John, and he bare witness unto the truth.
->
-> <sup>[34](/bible/john/5#v34)</sup> But I receive not testimony from man: but these things I say, that ye might be saved.
->
-> <sup>[35](/bible/john/5#v35)</sup> He was a burning and a shining light: and ye were willing for a season to rejoice in his light.
->
-> <sup>[36](/bible/john/5#v36)</sup> But I have greater witness than that of John: for the works which the Father hath given me to finish, the same works that I do, bear witness of me, that the Father hath sent me.
 
 - Because I seek not mine own will, but the will of the Father which hath sent me: Right? So that goes along with what he asks. He said, "Well, is John's baptism, is that of man or is that of the father?" Obviously, it was of God.
 
+> <sup>[31](/bible/john/5#v31)</sup> If I bear witness of myself, my witness is not true.
+>
+> <sup>[32](/bible/john/5#v32)</sup> There is another that beareth witness of me; and I know that the witness which he witnesseth of me is true.
+
 - There is another that beareth witness of me: So, let's find out who the other one was that bear witness of Christ.
+
+> <sup>[33](/bible/john/5#v33)</sup> Ye sent unto John, and he bare witness unto the truth.
 
 - Ye sent unto John: He sent unto who? Unto John.
 
 - And he bare witness unto the truth: John bear witness unto Christ. So they put two and two together. It's like wait a second. If we say of God, that means everything that John the Baptist did and said is true. And John the Baptist said, I'm preparing the ways for Christ, the one that is preferred before me. So they came together. It's like, nah, nah, we can't answer him straight. We can't answer him straight.
 
+> <sup>[34](/bible/john/5#v34)</sup> But I receive not testimony from man: but these things I say, that ye might be saved.
+
 - But I receive not testimony from man: But these things I say, that ye might be saved. So showing you what? John's baptism was not of what? It was not of man, but of God.
 
+> <sup>[35](/bible/john/5#v35)</sup> He was a burning and a shining light: and ye were willing for a season to rejoice in his light.
+
 - And ye were willing for a season to rejoice in his light: In his light. For a season. As he prepared the way for Christ before Christ came on the scene in John 1.
+
+> <sup>[36](/bible/john/5#v36)</sup> But I have greater witness than that of John: for the works which the Father hath given me to finish, the same works that I do, bear witness of me, that the Father hath sent me.
 
 - But I have greater witness than that of John: Who would that be? God the Father.
 
@@ -421,12 +421,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prophecy"]
 > <sup>[4](/bible/luke/20#v4)</sup> The baptism of John, was it from heaven, or of men?
 >
 > <sup>[5](/bible/luke/20#v5)</sup> And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then believed ye him not?
->
+
+- And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then believed ye him not: Right? If you say from heaven, why? Then there's no argument. You can't say you don't believe no more. Cuz then if you did say you didn't believe, that would show you to be what? The devil. Straight up. That simple.
+
 > <sup>[6](/bible/luke/20#v6)</sup> But and if we say, Of men; all the people will stone us: for they be persuaded that John was a prophet.
 >
 > <sup>[7](/bible/luke/20#v7)</sup> And they answered, that they could not tell whence it was.
-
-- And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then believed ye him not: Right? If you say from heaven, why? Then there's no argument. You can't say you don't believe no more. Cuz then if you did say you didn't believe, that would show you to be what? The devil. Straight up. That simple.
 
 - And they answered, that they could not tell whence it was: Demons, man. Demons. So instead of answering the question, it's like, we don't know. You see that thing right there? Hey, you know, you got brothers and sisters like that in the body who like to play dumb. Oh, I don't know. Hey, there is a God. There is a God. All of those like to play dumb and loud. I don't know. I don't know this. Don't worry about that. Don't worry about that. God's going to fix it. God's going to fix that thing right there.
 
@@ -467,10 +467,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prophecy"]
 > <sup>[7](/bible/luke/20#v7)</sup> And they answered, that they could not tell whence it was.
 >
 > <sup>[8](/bible/luke/20#v8)</sup> And Jesus said unto them, Neither tell I you by what authority I do these things.
->
-> <sup>[9](/bible/luke/20#v9)</sup> Then began he to speak to the people this parable; A certain man planted a vineyard, and let it forth to husbandmen, and went into a far country for a long time.
 
 - Neither tell I you by what authority I do these things: So Christ said, "All right, since you can't answer me, I'm not going to answer you." All right, I don't have to answer you.
+
+> <sup>[9](/bible/luke/20#v9)</sup> Then began he to speak to the people this parable; A certain man planted a vineyard, and let it forth to husbandmen, and went into a far country for a long time.
 
 - A certain man planted a vineyard, and let it forth to husbandmen: All right. This what I'm going to do. I know I started a little bit late, so I'm going to leave that for the next captain, because let's get into more. And Captain Enoch's teaching right now.
 

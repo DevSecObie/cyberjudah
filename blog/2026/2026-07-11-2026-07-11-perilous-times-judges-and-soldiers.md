@@ -3,7 +3,7 @@ title: "PERILOUS TIMES: JUDGES AND SOLDIERS"
 slug: "2026/2026-07-11-perilous-times-judges-and-soldiers"
 date: "2026-07-11"
 description: "IUIC in the ClassRoom · 2026-07-11"
-teacher: "Captain Dy"
+teacher: "Captain Yadaya"
 tags: ["IUIC in the ClassRoom", "justice", "prophecy", "war"]
 ---
 
@@ -45,14 +45,15 @@ I'm Captain Dy, for those of you who don't know. Today's class is called Perilou
 
 **[Lamentations 3:48-50](/bible/lamentations/3#v48)**  *[[16:24](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=984s)]*
 
+- My eye runneth down with rivers of water for the destruction of the daughter of my people. Hands up, don't shoot. Unarmed, busted into their houses, no search warrant. You got ICE out and about collecting our people, some of them actually citizens, being taken to foreign states, being dropped off. Cell phones being taken. All this is going on, and it's natural for us as repenting Israelites caught up in the midst of this to have that sympathy and empathy for our people in the world who being mistreated.
+
 > <sup>[48](/bible/lamentations/3#v48)</sup> Mine eye runneth down with rivers of water for the destruction of the daughter of my people.
 >
 > <sup>[49](/bible/lamentations/3#v49)</sup> Mine eye trickleth down, and ceaseth not, without any intermission,
->
-> <sup>[50](/bible/lamentations/3#v50)</sup> Till the Lord look down, and behold from heaven.
 
-- My eye runneth down with rivers of water for the destruction of the daughter of my people. Hands up, don't shoot. Unarmed, busted into their houses, no search warrant. You got ICE out and about collecting our people, some of them actually citizens, being taken to foreign states, being dropped off. Cell phones being taken. All this is going on, and it's natural for us as repenting Israelites caught up in the midst of this to have that sympathy and empathy for our people in the world who being mistreated.
 - Mine eye trickleth down, and ceaseth not, without any intermission: non-stop crying for our people. Till the Lord look down, and behold from heaven: he understood that. Listen, this thing is of the Lord; I got to wait on the Lord. He says, I'm going to cry until the Lord look down. We can't take it upon ourselves to take up matters into our own hands, or join ourselves and attach ourselves to certain causes prematurely. We got to be very, very mindful.
+
+> <sup>[50](/bible/lamentations/3#v50)</sup> Till the Lord look down, and behold from heaven.
 
 **[Jeremiah 8:21](/bible/jeremiah/8#v21)**  *[[16:24](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=984s)]*
 
@@ -90,10 +91,11 @@ I'm Captain Dy, for those of you who don't know. Today's class is called Perilou
 **[Daniel 9:2-3](/bible/daniel/9#v2)**  *[[25:09](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=1509s)]*
 
 > <sup>[2](/bible/daniel/9#v2)</sup> In the first year of his reign I Daniel understood by books the number of the years, whereof the word of the Lord came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem.
->
-> <sup>[3](/bible/daniel/9#v3)</sup> And I set my face unto the Lord God, to seek by prayer and supplications, with fasting, and sackcloth, and ashes:
 
 - I Daniel understood by books: what books? The scriptures, the prophecies in the holy Bible. He matched the current events of his time period with the prophecies written in the holy Bible, and he said, wow, I'm in the time that Jeremiah spoke of in Jeremiah chapter 29; this is that time period right now. But if you're not watching and praying, how can you line up what's going on today with the scriptures and know how to move, know how to move in wisdom?
+
+> <sup>[3](/bible/daniel/9#v3)</sup> And I set my face unto the Lord God, to seek by prayer and supplications, with fasting, and sackcloth, and ashes:
+
 - And I set my face unto the Lord God, to seek by prayer and supplications, with fasting, and sackcloth, and ashes: he understood by books the time period that he was living in, and then he sought after God, understanding that everything is of God's divine will, God's divine counsel. We are not outside of God's program at any time. I know it seem chaotic; I know it seem like things are happening spontaneously all over the place. No, everything is happening according to God's divine will. This is not our rest.
 
 **[2 Timothy 3:1](/bible/2-timothy/3#v1)**  *[[25:09](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=1509s)]*
@@ -195,30 +197,35 @@ Quote read in class: "A soldier without biblical education is nothing more than 
 
 **[2 Chronicles 19:5-7](/bible/2-chronicles/19#v5)**  *[[54:32](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=3272s)]*
 
+- He set judges in the land throughout all the fenced cities of Judah, city by city. These judges are soldiers with biblical education.
+
 > <sup>[5](/bible/2-chronicles/19#v5)</sup> And he set judges in the land throughout all the fenced cities of Judah, city by city,
 >
 > <sup>[6](/bible/2-chronicles/19#v6)</sup> And said to the judges, Take heed what ye do: for ye judge not for man, but for the Lord, who is with you in the judgment.
->
+
+- And said to the judges, take heed what ye do: for ye judge not for man, but for the Lord, who is with you in the judgment. Cuz it's very easy to get caught up in popular persuasion, even amongst our own people; controversies even amongst our own people. Wherefore now let the fear of the Lord be upon you; take heed and do it: take heed and do what this Bible says.
+
 > <sup>[7](/bible/2-chronicles/19#v7)</sup> Wherefore now let the fear of the Lord be upon you; take heed and do it: for there is no iniquity with the Lord our God, nor respect of persons, nor taking of gifts.
 
-- He set judges in the land throughout all the fenced cities of Judah, city by city. These judges are soldiers with biblical education.
-- And said to the judges, take heed what ye do: for ye judge not for man, but for the Lord, who is with you in the judgment. Cuz it's very easy to get caught up in popular persuasion, even amongst our own people; controversies even amongst our own people. Wherefore now let the fear of the Lord be upon you; take heed and do it: take heed and do what this Bible says.
 - For there is no iniquity with the Lord our God: so we can't join ourselves to iniquity either. Nor respect of persons: and God don't respect persons. Nor taking of gifts.
 
 **[Isaiah 11:1-4](/bible/isaiah/11#v1)**  *[[54:32](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=3272s)]*
 
 > <sup>[1](/bible/isaiah/11#v1)</sup> And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots:
->
+
+- There shall come forth a rod out of the stem of Jesse: Christ. The Messiah is the branch that shall grow out of his roots. And the spirit of the Lord shall rest upon him: the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of the Lord.
+
 > <sup>[2](/bible/isaiah/11#v2)</sup> And the spirit of the Lord shall rest upon him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of the Lord;
 >
 > <sup>[3](/bible/isaiah/11#v3)</sup> And shall make him of quick understanding in the fear of the Lord: and he shall not judge after the sight of his eyes, neither reprove after the hearing of his ears:
->
-> <sup>[4](/bible/isaiah/11#v4)</sup> But with righteousness shall he judge the poor, and reprove with equity for the meek of the earth: and he shall smite the earth with the rod of his mouth, and with the breath of his lips shall he slay the wicked.
 
-- There shall come forth a rod out of the stem of Jesse: Christ. The Messiah is the branch that shall grow out of his roots. And the spirit of the Lord shall rest upon him: the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of the Lord.
 - And shall make him of quick understanding in the fear of the Lord: when you study the scriptures, when you get your biblical education, it says it shall make him of quick understanding.
+
 - And he shall not judge after the sight of his eyes, neither reprove after the hearing of his ears: when that father walked through the courtroom, when I first seen it, I had mixed emotions. But the Bible says he shall not judge after the sight of his eyes. We can't be quick to speak on certain matters. Sometimes, brothers, we got to let it play itself out before we join ourselves to a cause. We got to let things play itself out, lest we be found guilty, and then God got to deal with us.
+
 - But with righteousness shall he judge the poor, and reprove with equity for the meek of the earth. We think equity is money we got from owning a house; that's all we know. Definition read in class: equity is fairness or justice in the way people are treated; often, specifically, freedom from disparities in the way people of different races, genders, etc. are treated. So we got to do everything with equity.
+
+> <sup>[4](/bible/isaiah/11#v4)</sup> But with righteousness shall he judge the poor, and reprove with equity for the meek of the earth: and he shall smite the earth with the rod of his mouth, and with the breath of his lips shall he slay the wicked.
 
 **[John 7:24](/bible/john/7#v24)**  *[[58:37](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=3517s)]*
 
@@ -238,15 +245,17 @@ Quote read in class: "A soldier without biblical education is nothing more than 
 **[Ecclesiasticus 11:7-10](/bible/sirach/11#v7)**  *[[1:02:55](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=3775s)]*
 
 > <sup>[7](/bible/sirach/11#v7)</sup> Blame not before thou hast examined the truth: understand first, and then rebuke.
->
+
+- Blame not before thou hast examined the truth: y'all know black people, we love jumping to conclusions. We love that thing. We watch a movie; movie been on for three minutes; we like, yep, he evil, that's the bad guy; yeah, I already know how this going to end. Black people, we got superpowers. Understand first, understand first, and then rebuke.
+
 > <sup>[8](/bible/sirach/11#v8)</sup> Answer not before thou hast heard the cause: neither interrupt men in the midst of their talk.
->
+
+- Answer not before thou hast heard the cause: don't speak on a matter until you have heard the full cause. Sometimes it's more than what the eye can see.
+
 > <sup>[9](/bible/sirach/11#v9)</sup> Strive not in a matter that concerneth thee not; and sit not in judgment with sinners.
 >
 > <sup>[10](/bible/sirach/11#v10)</sup> My son, meddle not with many matters: for if thou meddle much, thou shalt not be innocent; and if thou follow after, thou shalt not obtain, neither shalt thou escape by fleeing.
 
-- Blame not before thou hast examined the truth: y'all know black people, we love jumping to conclusions. We love that thing. We watch a movie; movie been on for three minutes; we like, yep, he evil, that's the bad guy; yeah, I already know how this going to end. Black people, we got superpowers. Understand first, understand first, and then rebuke.
-- Answer not before thou hast heard the cause: don't speak on a matter until you have heard the full cause. Sometimes it's more than what the eye can see.
 - Strive not in a matter that concerneth thee not, and sit not in judgment with sinners. My son, meddle not with many matters: for if thou meddle much, thou shalt not be innocent. We just read that in Chronicles, Jehoshaphat. God going to have to deal with us too. We got to be careful.
 
 **[Proverbs 18:13](/bible/proverbs/18#v13)**  *[[1:02:55](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=3775s)]*
@@ -282,19 +291,22 @@ Quote read in class: "A soldier without biblical education is nothing more than 
 **[Deuteronomy 32:16-20](/bible/deuteronomy/32#v16)**  *[[1:07:04](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=4024s)]*
 
 > <sup>[16](/bible/deuteronomy/32#v16)</sup> They provoked him to jealousy with strange gods, with abominations provoked they him to anger.
->
+
+- They provoked him to jealousy with strange gods: most of our people in the world are worshiping a strange god, whether it be Caesar Borgia, the image of the white man, whether it be a rock in Mecca, call themselves Muslims. Most of our people are provoking God to anger every day to his face with a strange god.
+
+- With abominations provoked they him to anger: they in the LGBTQ community. They eating all manner of unclean foods. Birthdays, Christmas, Thanksgiving.
+
 > <sup>[17](/bible/deuteronomy/32#v17)</sup> They sacrificed unto devils, not to God; to gods whom they knew not, to new gods that came newly up, whom your fathers feared not.
 >
 > <sup>[18](/bible/deuteronomy/32#v18)</sup> Of the Rock that begat thee thou art unmindful, and hast forgotten God that formed thee.
->
-> <sup>[19](/bible/deuteronomy/32#v19)</sup> And when the Lord saw it, he abhorred them, because of the provoking of his sons, and of his daughters.
->
-> <sup>[20](/bible/deuteronomy/32#v20)</sup> And he said, I will hide my face from them, I will see what their end shall be: for they are a very froward generation, children in whom is no faith.
 
-- They provoked him to jealousy with strange gods: most of our people in the world are worshiping a strange god, whether it be Caesar Borgia, the image of the white man, whether it be a rock in Mecca, call themselves Muslims. Most of our people are provoking God to anger every day to his face with a strange god.
-- With abominations provoked they him to anger: they in the LGBTQ community. They eating all manner of unclean foods. Birthdays, Christmas, Thanksgiving.
 - Of the Rock that begat thee, thou art unmindful: Christ is our rock, capital R. People don't give a damn about this Bible or this truth.
+
+> <sup>[19](/bible/deuteronomy/32#v19)</sup> And when the Lord saw it, he abhorred them, because of the provoking of his sons, and of his daughters.
+
 - And when the Lord saw it, he abhorred them: when the Lord saw that thing, the mind of our people, the evil of our people and our communities, it says he abhorred that thing. And he said, I will hide my face from them, I will see what their end shall be: we got to understand, we're reading God's program; we live in God's program. For they are a very froward generation, children in whom is no faith: our people are caught up in all manner of evil, wickedness. They got no faith. They evil as hell.
+
+> <sup>[20](/bible/deuteronomy/32#v20)</sup> And he said, I will hide my face from them, I will see what their end shall be: for they are a very froward generation, children in whom is no faith.
 
 **[Hosea 5:15](/bible/hosea/5#v15)**  *[[1:11:10](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=4270s)]*
 
@@ -318,31 +330,37 @@ Quote read in class: "A soldier without biblical education is nothing more than 
 
 **[Deuteronomy 4:27-30](/bible/deuteronomy/4#v27)**  *[[1:11:10](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=4270s)]*
 
+- God say, I know how to make Israel listen. The chosen people of God won't listen until we get a belt put to ass.
+
 > <sup>[27](/bible/deuteronomy/4#v27)</sup> And the Lord shall scatter you among the nations, and ye shall be left few in number among the heathen, whither the Lord shall lead you.
->
+
+- The Lord shall scatter you among the nations, and ye shall be left few in number among the heathen: we the majority on this earth, but we scattered amongst all the nations, left few in number amongst them. That's why he called us minorities.
+
 > <sup>[28](/bible/deuteronomy/4#v28)</sup> And there ye shall serve gods, the work of men’s hands, wood and stone, which neither see, nor hear, nor eat, nor smell.
->
+
+- And there ye shall serve gods, the work of men's hands: Caesar Borgia, the work of the hands of Leonardo da Vinci. Wood and stone: Christianity.
+
+- But if from thence thou shalt seek the Lord thy God, thou shalt find him, if thou seek him with all thy heart and with all thy soul. When they going to seek God? When thou art in tribulation, and all these things are come upon thee, even in the latter days: that's the time we in now. My people getting lynched left and right. You going to boat ride: your last boat ride. You going to the elevator with all white folks: that's your last time going up. That elevator door closed, you see white folks, you like, oh no, y'all go ahead up. We living in some perilous times.
+
 > <sup>[29](/bible/deuteronomy/4#v29)</sup> But if from thence thou shalt seek the Lord thy God, thou shalt find him, if thou seek him with all thy heart and with all thy soul.
 >
 > <sup>[30](/bible/deuteronomy/4#v30)</sup> When thou art in tribulation, and all these things are come upon thee, even in the latter days, if thou turn to the Lord thy God, and shalt be obedient unto his voice;
 
-- God say, I know how to make Israel listen. The chosen people of God won't listen until we get a belt put to ass.
-- The Lord shall scatter you among the nations, and ye shall be left few in number among the heathen: we the majority on this earth, but we scattered amongst all the nations, left few in number amongst them. That's why he called us minorities.
-- And there ye shall serve gods, the work of men's hands: Caesar Borgia, the work of the hands of Leonardo da Vinci. Wood and stone: Christianity.
-- But if from thence thou shalt seek the Lord thy God, thou shalt find him, if thou seek him with all thy heart and with all thy soul. When they going to seek God? When thou art in tribulation, and all these things are come upon thee, even in the latter days: that's the time we in now. My people getting lynched left and right. You going to boat ride: your last boat ride. You going to the elevator with all white folks: that's your last time going up. That elevator door closed, you see white folks, you like, oh no, y'all go ahead up. We living in some perilous times.
-
 **[Ezekiel 3:17-19](/bible/ezekiel/3#v17)**  *[[1:15:11](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=4511s)]*  (second teacher)
 
+- Hey, this a heavy class right here, because a lot of evil are going on in our society. And when the scripture say oppression make a wise man mad, it do. But we got to behave wisely. We can't just be in our emotion at all. This is our job for our people.
+
 > <sup>[17](/bible/ezekiel/3#v17)</sup> Son of man, I have made thee a watchman unto the house of Israel: therefore hear the word at my mouth, and give them warning from me.
->
+
+- Son of man, I have made thee a watchman unto the house of Israel: that's our job, a watchman for our people, those that are in the truth and those that outside the truth. Therefore hear the word of my mouth, and give them warning from me: so we warn the wicked. That's our job. Our job is to give them warning, because if you sin, the judgment comes. A lot of times our people die because of sin. They in the calamities because of sin.
+
+- Our job is to speak to warn the wicked from his wicked way, to save his life. That's why everywhere you go, you see purple and gold. The same wicked man shall die in his iniquity, but his blood will I require at thine hand: we don't want that. That's why we teach the gospel: leave sin, flee sin.
+
+- Yet if thou warn the wicked, and he turn not from his wickedness, nor from his wicked way, he shall die in his iniquity, but thou hast delivered thy soul. That's why you be seeing what's going on at times: a lot of our people die in their iniquities. They love the white Jesus. You tell them to stop sinning, they curse you out. They don't want to listen. It hurt us to see our people in such condition, but it's all the Lord doing. Can anything happen on the earth and the Lord don't know about it?
+
 > <sup>[18](/bible/ezekiel/3#v18)</sup> When I say unto the wicked, Thou shalt surely die; and thou givest him not warning, nor speakest to warn the wicked from his wicked way, to save his life; the same wicked man shall die in his iniquity; but his blood will I require at thine hand.
 >
 > <sup>[19](/bible/ezekiel/3#v19)</sup> Yet if thou warn the wicked, and he turn not from his wickedness, nor from his wicked way, he shall die in his iniquity; but thou hast delivered thy soul.
-
-- Hey, this a heavy class right here, because a lot of evil are going on in our society. And when the scripture say oppression make a wise man mad, it do. But we got to behave wisely. We can't just be in our emotion at all. This is our job for our people.
-- Son of man, I have made thee a watchman unto the house of Israel: that's our job, a watchman for our people, those that are in the truth and those that outside the truth. Therefore hear the word of my mouth, and give them warning from me: so we warn the wicked. That's our job. Our job is to give them warning, because if you sin, the judgment comes. A lot of times our people die because of sin. They in the calamities because of sin.
-- Our job is to speak to warn the wicked from his wicked way, to save his life. That's why everywhere you go, you see purple and gold. The same wicked man shall die in his iniquity, but his blood will I require at thine hand: we don't want that. That's why we teach the gospel: leave sin, flee sin.
-- Yet if thou warn the wicked, and he turn not from his wickedness, nor from his wicked way, he shall die in his iniquity, but thou hast delivered thy soul. That's why you be seeing what's going on at times: a lot of our people die in their iniquities. They love the white Jesus. You tell them to stop sinning, they curse you out. They don't want to listen. It hurt us to see our people in such condition, but it's all the Lord doing. Can anything happen on the earth and the Lord don't know about it?
 
 **[Ezekiel 18:4](/bible/ezekiel/18#v4)**  *[[1:15:11](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=4511s)]*
 
@@ -366,60 +384,69 @@ Quote read in class: "A soldier without biblical education is nothing more than 
 
 **[Ephesians 6:10-15](/bible/ephesians/6#v10)**  *[[1:19:35](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=4775s)]*
 
+- We got to keep a clear head. We cannot be emotional. Men cannot be emotional; soldiers cannot be emotional. Do we feel emotion? Yes; we proved that earlier. The prophets have always had a heart and a compassion for their people. But as servants of God, we got to move in the spirit of Christ, who was an austere man.
+
 > <sup>[10](/bible/ephesians/6#v10)</sup> Finally, my brethren, be strong in the Lord, and in the power of his might.
 >
 > <sup>[11](/bible/ephesians/6#v11)</sup> Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.
 >
 > <sup>[12](/bible/ephesians/6#v12)</sup> For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
->
+
+- For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world: this whole world is dark; this whole system is corrupt; against spiritual wickedness in high places.
+
 > <sup>[13](/bible/ephesians/6#v13)</sup> Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand.
->
+
+- Wherefore take unto you the whole armour of God: so we got to walk in the whole armor of God. Not with emotions, not with feelings, not with opinions. Having your loins girt about with truth: the loins of your mind, as written in Peter. It's telling you everything that we got to arm ourselves with is the word of God: the word of God, God's faith, the mission at hand. It didn't say take opinions with you, take emotions with you, be sensual. No, no, no.
+
 > <sup>[14](/bible/ephesians/6#v14)</sup> Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness;
 >
 > <sup>[15](/bible/ephesians/6#v15)</sup> And your feet shod with the preparation of the gospel of peace;
 
-- We got to keep a clear head. We cannot be emotional. Men cannot be emotional; soldiers cannot be emotional. Do we feel emotion? Yes; we proved that earlier. The prophets have always had a heart and a compassion for their people. But as servants of God, we got to move in the spirit of Christ, who was an austere man.
-- For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world: this whole world is dark; this whole system is corrupt; against spiritual wickedness in high places.
-- Wherefore take unto you the whole armour of God: so we got to walk in the whole armor of God. Not with emotions, not with feelings, not with opinions. Having your loins girt about with truth: the loins of your mind, as written in Peter. It's telling you everything that we got to arm ourselves with is the word of God: the word of God, God's faith, the mission at hand. It didn't say take opinions with you, take emotions with you, be sensual. No, no, no.
-
 **[2 Corinthians 10:3-6](/bible/2-corinthians/10#v3)**  *[[1:19:35](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=4775s)]*
 
 > <sup>[3](/bible/2-corinthians/10#v3)</sup> For though we walk in the flesh, we do not war after the flesh:
->
+
+- For though we walk in the flesh, we do not war after the flesh: though we walk in this flesh, we got to make a living in this present world, but we don't war after the flesh. We can't operate like those in the world either. For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strongholds.
+
 > <sup>[4](/bible/2-corinthians/10#v4)</sup> (For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)
 >
 > <sup>[5](/bible/2-corinthians/10#v5)</sup> Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;
->
+
+- Casting down imaginations, and every high thing that exalteth itself against the knowledge of God: our people imagine that America has their best interest. Our people imagine they can marry a white woman. Our people imagine there's a such thing as having white friends. Our people imagine some strange things. We love learning the hard way. And bringing into captivity every thought to the obedience of Christ: we got to bring every thought to the obedience of Christ, in our armor that we walk in this present world with; no emotions in our armor, none of our own opinions in our armor.
+
 > <sup>[6](/bible/2-corinthians/10#v6)</sup> And having in a readiness to revenge all disobedience, when your obedience is fulfilled.
 
-- For though we walk in the flesh, we do not war after the flesh: though we walk in this flesh, we got to make a living in this present world, but we don't war after the flesh. We can't operate like those in the world either. For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strongholds.
-- Casting down imaginations, and every high thing that exalteth itself against the knowledge of God: our people imagine that America has their best interest. Our people imagine they can marry a white woman. Our people imagine there's a such thing as having white friends. Our people imagine some strange things. We love learning the hard way. And bringing into captivity every thought to the obedience of Christ: we got to bring every thought to the obedience of Christ, in our armor that we walk in this present world with; no emotions in our armor, none of our own opinions in our armor.
 - And having in a readiness to revenge all disobedience, when your obedience is fulfilled: so you know what we got to do, Israel? We got to be ready to use these different situations, these calamities, atrocities, especially when our people are actually innocent; when we listen to the facts, hear out the whole matter, the whole conclusion, and we realize that our people were actually innocent, they were murdered unjustly, they were incarcerated unjustly, things were planted on them. These things do happen. And guess what? We got to be ready to use those situations to bring our people to Christ, to teach them the gospel.
 
 **[Isaiah 59:9-12](/bible/isaiah/59#v9)**  *[[1:23:56](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=5036s)]*
 
 > <sup>[9](/bible/isaiah/59#v9)</sup> Therefore is judgment far from us, neither doth justice overtake us: we wait for light, but behold obscurity; for brightness, but we walk in darkness.
->
-> <sup>[10](/bible/isaiah/59#v10)</sup> We grope for the wall like the blind, and we grope as if we had no eyes: we stumble at noonday as in the night; we are in desolate places as dead men.
->
-> <sup>[11](/bible/isaiah/59#v11)</sup> We roar all like bears, and mourn sore like doves: we look for judgment, but there is none; for salvation, but it is far off from us.
->
-> <sup>[12](/bible/isaiah/59#v12)</sup> For our transgressions are multiplied before thee, and our sins testify against us: for our transgressions are with us; and as for our iniquities, we know them;
 
 - Therefore is judgment far from us: the Bible says judgment is far from our people. We got to understand that. Therefore we cannot be shocked when police do all manner of evil, use unreasonable force, and they say, oh, well, you know, I fear for my life. We can't be shocked when they get off. Stop being shocked. If you shocked, that mean you don't study. Neither doth justice overtake us: we don't know what justice look like. We wait for light, but behold obscurity: we always confused.
+
+> <sup>[10](/bible/isaiah/59#v10)</sup> We grope for the wall like the blind, and we grope as if we had no eyes: we stumble at noonday as in the night; we are in desolate places as dead men.
+
 - We grope for the wall like the blind: we blind. We grope in thinking that there's going to be change in democracy. We grope and think, maybe I should be a Republican; we groping over here, maybe I should be a liberal. We think that all these things is going to make a difference. It's not. We stumble at noon day as in the night: the prophets is on the corner saying, this is the way, but our people stumble as in the night. We are in desolate places as dead men: we are the walking dead right in Babylon the Great; spiritually dead.
+
+> <sup>[11](/bible/isaiah/59#v11)</sup> We roar all like bears, and mourn sore like doves: we look for judgment, but there is none; for salvation, but it is far off from us.
+
 - We roar all like bears: that's that civil unrest right there. Hands up, don't shoot. Black lives matter. Say his name. And mourn sore like doves: and that's the heart that we got to have for our people; we always crying. We look for judgment, but there is none: we look for judgment from a crooked system; there is no judgment for us. For salvation, but it is far off from us: somebody to save us from our lowest state.
+
 - Why is all this happening? For our transgressions are multiplied before thee, and our sins testify against us: we evil as hell. Our people are rotten. So it's going to always be controversy, civil unrest, whether people are innocent or guilty. So we got to use these high controversial moments; we got to use these things to edify people and bring them to Christ and show them the right way.
+
+> <sup>[12](/bible/isaiah/59#v12)</sup> For our transgressions are multiplied before thee, and our sins testify against us: for our transgressions are with us; and as for our iniquities, we know them;
 
 **[Isaiah 30:20-21](/bible/isaiah/30#v20)**  *[[1:23:56](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=5036s)]*
 
 > <sup>[20](/bible/isaiah/30#v20)</sup> And though the Lord give you the bread of adversity, and the water of affliction, yet shall not thy teachers be removed into a corner any more, but thine eyes shall see thy teachers:
->
-> <sup>[21](/bible/isaiah/30#v21)</sup> And thine ears shall hear a word behind thee, saying, This is the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left.
 
 - And though the Lord give you the bread of adversity, and the water of affliction: adversity is oppression, and the water of affliction, that's our tears crying daily. Mothers sobbing daily, just like the mother of our brother Cyrus Belton. She saying, y'all want our culture, y'all want our music, y'all want to dress like us, y'all want to hire us, but y'all don't even treat us like human beings.
+
 - Yet shall not thy teachers be removed into a corner any more, but thine eyes shall see thy teachers: there is a time, there is a place where we show up. Like for our brother Kendrick Johnson: we show up for Kendrick Johnson. You can't even go to high school without getting put to death; rolled up in a gym mat stuffed with newspapers. So there is a time where the prophets, the purple army, is going to show up. That great army written in Ezekiel 37 will show up. It will manifest for our people, and we're going to stand with solidarity, showing that we love and we will defend our people.
+
 - And thine ears shall hear a word behind thee, saying, This is the way; walk ye in it. Because a lot of our people, when we trying to give them the answer after something happens, they walking away from us; that's why you shall hear a word behind thee: cuz they walking away from the truth. This is the way, you so-called blacks, Latinos, our people who are of the diaspora spread across the four corners of the earth: you must repent in Christ. Keep the commandments. Keep the laws. That's going to fix our broken people. That's going to fix our broken communities. Repent. Walk ye in it.
+
+> <sup>[21](/bible/isaiah/30#v21)</sup> And thine ears shall hear a word behind thee, saying, This is the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left.
 
 **[1 Peter 3:15](/bible/1-peter/3#v15)**  *[[1:28:00](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=5280s)]*
 
@@ -436,14 +463,16 @@ Quote read in class: "A soldier without biblical education is nothing more than 
 
 **[Jeremiah 16:10-12](/bible/jeremiah/16#v10)**  *[[1:32:38](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=5558s)]*
 
+- When we go into the scriptures, as we stand on those corners and prophesy, they going to say, wherefore hath the Lord pronounced all this great evil against us? I thought y'all said we was his chosen people. What is our iniquity? What is our sin that we have committed against the Lord our God? When we go to Zechariah 11, we show them: whose possessors slay them, and hold themselves not guilty. When we go into Isaiah, we show them we're going to be massly incarcerated, hidden in prison houses.
+
 > <sup>[10](/bible/jeremiah/16#v10)</sup> And it shall come to pass, when thou shalt shew this people all these words, and they shall say unto thee, Wherefore hath the Lord pronounced all this great evil against us? or what is our iniquity? or what is our sin that we have committed against the Lord our God?
 >
 > <sup>[11](/bible/jeremiah/16#v11)</sup> Then shalt thou say unto them, Because your fathers have forsaken me, saith the Lord, and have walked after other gods, and have served them, and have worshipped them, and have forsaken me, and have not kept my law;
->
+
+- Then shalt thou say unto them, Because your fathers have forsaken me: your mother taught you birthdays. Your daddy taught you Christmas. And have walked after other gods: and your grandma taught you white Jesus. And have served them, and have worshipped them: and you serve them with that cross around your neck. And have forsaken me, and have not kept my law: you don't keep commandment one.
+
 > <sup>[12](/bible/jeremiah/16#v12)</sup> And ye have done worse than your fathers; for, behold, ye walk every one after the imagination of his evil heart, that they may not hearken unto me:
 
-- When we go into the scriptures, as we stand on those corners and prophesy, they going to say, wherefore hath the Lord pronounced all this great evil against us? I thought y'all said we was his chosen people. What is our iniquity? What is our sin that we have committed against the Lord our God? When we go to Zechariah 11, we show them: whose possessors slay them, and hold themselves not guilty. When we go into Isaiah, we show them we're going to be massly incarcerated, hidden in prison houses.
-- Then shalt thou say unto them, Because your fathers have forsaken me: your mother taught you birthdays. Your daddy taught you Christmas. And have walked after other gods: and your grandma taught you white Jesus. And have served them, and have worshipped them: and you serve them with that cross around your neck. And have forsaken me, and have not kept my law: you don't keep commandment one.
 - And ye have done worse than your fathers: our people have done worse than their parents. For behold, ye walk every one after the imagination of his evil heart, that they may not hearken unto me. So we got to remember: Christ was not emotional. Christ ain't get caught up. He understood what was going on. It's all part of the program.
 
 **[Isaiah 55:4](/bible/isaiah/55#v4)**  *[[1:32:38](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=5558s)]*
@@ -470,12 +499,14 @@ Quote read in class: "A soldier without biblical education is nothing more than 
 
 **[1 Timothy 1:18-19](/bible/1-timothy/1#v18)**  *[[1:36:40](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=5800s)]*
 
+- We can't be weak, soft, mushy, and emotional. We're not choir boys in here.
+
 > <sup>[18](/bible/1-timothy/1#v18)</sup> This charge I commit unto thee, son Timothy, according to the prophecies which went before on thee, that thou by them mightest war a good warfare;
->
+
+- That thou by them mightest war a good warfare: brothers, we got to war a good warfare. Not emotional. Not caught up with the wicked. Not striking hands with thieves and murderers and people stealing cars and guns and going to shootouts with police, and muddy our good works.
+
 > <sup>[19](/bible/1-timothy/1#v19)</sup> Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck:
 
-- We can't be weak, soft, mushy, and emotional. We're not choir boys in here.
-- That thou by them mightest war a good warfare: brothers, we got to war a good warfare. Not emotional. Not caught up with the wicked. Not striking hands with thieves and murderers and people stealing cars and guns and going to shootouts with police, and muddy our good works.
 - Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck: you get caught up moving off of emotions. Listen, we all going to feel a certain type of way. There's been a lot going on; now Nolan Wells is missing. I totally understand. But we got to remember: everything is of the Lord.
 
 **[Hebrews 10:30](/bible/hebrews/10#v30)**  *[[1:36:40](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=5800s)]*
@@ -504,15 +535,18 @@ Quote read in class: "A soldier without biblical education is nothing more than 
 
 **[Revelation 18:4-6](/bible/revelation/18#v4)**  *[[1:44:59](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=6299s)]*
 
+- You sick of this place? Me too. You sick of this place? God is too.
+
 > <sup>[4](/bible/revelation/18#v4)</sup> And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues.
->
+
+- Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues: we got to tell our people, come out of her, so you don't get jacked up with this place. Yeah, our people is getting jacked up, but as long as there's breath in their body, there's hope for them. They can repent. They can come out of all of that. Repentance is for Israel and Israel only. The white man cannot be saved. Sorry, not sorry. The Arab man, he cannot be saved.
+
 > <sup>[5](/bible/revelation/18#v5)</sup> For her sins have reached unto heaven, and God hath remembered her iniquities.
->
+
+- For her sins have reached unto heaven: Tamir Rice, Eric Garner, Mike Brown, Sonia Macy, Sandra Bland, Cyrus Belton. Her sins have reached unto heaven. And God hath remembered her iniquities: Martin Luther King, Patrice Lumumba, Emmett Till. How soon we forget. Jake got short-term memory. But the Bible says God remembers all that; God remembers things unspeakable. God remember Tulsa. God remember all those iniquities.
+
 > <sup>[6](/bible/revelation/18#v6)</sup> Reward her even as she rewarded you, and double unto her double according to her works: in the cup which she hath filled fill to her double.
 
-- You sick of this place? Me too. You sick of this place? God is too.
-- Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues: we got to tell our people, come out of her, so you don't get jacked up with this place. Yeah, our people is getting jacked up, but as long as there's breath in their body, there's hope for them. They can repent. They can come out of all of that. Repentance is for Israel and Israel only. The white man cannot be saved. Sorry, not sorry. The Arab man, he cannot be saved.
-- For her sins have reached unto heaven: Tamir Rice, Eric Garner, Mike Brown, Sonia Macy, Sandra Bland, Cyrus Belton. Her sins have reached unto heaven. And God hath remembered her iniquities: Martin Luther King, Patrice Lumumba, Emmett Till. How soon we forget. Jake got short-term memory. But the Bible says God remembers all that; God remembers things unspeakable. God remember Tulsa. God remember all those iniquities.
 - Reward her even as she rewarded you, and double unto her double according to her works: so it's judgment in store for them.
 
 **[Jeremiah 49:12](/bible/jeremiah/49#v12)**  *[[1:44:59](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=6299s)]*
@@ -526,14 +560,17 @@ Quote read in class: "A soldier without biblical education is nothing more than 
 **[Ezekiel 25:12-14](/bible/ezekiel/25#v12)**  *[[1:49:13](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=6553s)]*
 
 > <sup>[12](/bible/ezekiel/25#v12)</sup> Thus saith the Lord God; Because that Edom hath dealt against the house of Judah by taking vengeance, and hath greatly offended, and revenged himself upon them;
->
-> <sup>[13](/bible/ezekiel/25#v13)</sup> Therefore thus saith the Lord God; I will also stretch out mine hand upon Edom, and will cut off man and beast from it; and I will make it desolate from Teman; and they of Dedan shall fall by the sword.
->
-> <sup>[14](/bible/ezekiel/25#v14)</sup> And I will lay my vengeance upon Edom by the hand of my people Israel: and they shall do in Edom according to mine anger and according to my fury; and they shall know my vengeance, saith the Lord God.
 
 - Because that Edom hath dealt against the house of Judah by taking vengeance: he used the legislative branch to take vengeance, the judicial branch to take vengeance, the executive branch to take vengeance. He weaponized the police against us; they the original slave catchers. He weaponized ICE against us. And hath greatly offended, and revenged himself upon them: out of his envy and his hatred, he revenged himself upon us.
+
+> <sup>[13](/bible/ezekiel/25#v13)</sup> Therefore thus saith the Lord God; I will also stretch out mine hand upon Edom, and will cut off man and beast from it; and I will make it desolate from Teman; and they of Dedan shall fall by the sword.
+
 - Therefore thus saith the Lord God, I will also stretch out mine hand upon Edom, and will cut off man and beast from it: and you know the white man love his animals. I will cut off man and beast. Air Bud got to go. Lassie got to go too; and you know they love Lassie.
+
+> <sup>[14](/bible/ezekiel/25#v14)</sup> And I will lay my vengeance upon Edom by the hand of my people Israel: and they shall do in Edom according to mine anger and according to my fury; and they shall know my vengeance, saith the Lord God.
+
 - And I will lay my vengeance upon Edom by the hand of my people Israel: you know why that's written right there? Because we soft. We see a little white boy, we've been conditioned to care for them; they slipping and fall, you want to help them up. You see the white lady come, and she old and feeble, you want to hold the door: let me get that for you. God says, no, no, no: y'all going to do according to mine anger. I remember when they put y'all on them ships. I remember when they slayed y'all by the thousands. I remember when they hung y'all up by the 13, symbolizing Christ and the apostles. I remember when they lynched y'all. I remember when they boiled you in pots and cauldrons. I remember when they took our forefather Nat Turner the prophet and they made wallets out of his skin, belts and shoes out of his skin, took his skull and drunk wine out of it. God says, no: what you're doing is not enough. The day going to come, brothers and sisters, for righteous vengeance. But now is not that time.
+
 - And they shall know my vengeance, saith the Lord God: Esau is going to know God's vengeance. Ishmael going to know God's vengeance. Moab going to know God's vengeance. Ammon is going to know God's vengeance.
 
 **[Revelation 13:10](/bible/revelation/13#v10)**  *[[1:49:13](https://www.youtube.com/watch?v=lLFXQr1FYm0&t=6553s)]*

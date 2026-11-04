@@ -2,7 +2,7 @@
 title: "CHARACTER & INTEGRITY: THE HIDDEN STRENGTH BEHIND WISDOM"
 slug: "2026/2026-05-23-character-integrity-the-hidden-strength-behind-wisdom-t-g4pozgsnm"
 date: "2026-05-23"
-teacher: ""
+teacher: "Captain Pallu"
 description: "IUIC in the ClassRoom · 2026-05-23"
 tags: ["IUIC in the ClassRoom", "anger", "discipline", "gossip", "leadership", "pride", "wisdom"]
 ---
@@ -127,17 +127,19 @@ Interactive question 2, put on the screen *[[41:57](https://www.youtube.com/watc
 
 **[James 3:13-16](/bible/james/3#v13)**  *[[50:03](https://www.youtube.com/watch?v=T-g4PozGSnM&t=3003s)]*
 
+- Who is a wise man and endued with knowledge among you? Let him shew out of a good conversation his works with meekness of wisdom. These are actions; this is great moral character.
+
 > <sup>[13](/bible/james/3#v13)</sup> Who is a wise man and endued with knowledge among you? let him shew out of a good conversation his works with meekness of wisdom.
 >
 > <sup>[14](/bible/james/3#v14)</sup> But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth.
->
+
+- But if ye have bitter envying and strife in your hearts, glory not: this wisdom descendeth not from above, but is earthly, sensual, devilish. The Lord did not put that spirit in us; those are traits people picked up through life in the world, and that is why their name is always in some mess.
+
+- For where envying and strife is, there is confusion and every evil work. These are not the characteristics we want associated with us. This is why we have to be around men who have been through these things and can teach us to be better men, better leaders, better husbands, better fathers. If you are not around those type of people, how can you learn these moral and ethical traits?
+
 > <sup>[15](/bible/james/3#v15)</sup> This wisdom descendeth not from above, but is earthly, sensual, devilish.
 >
 > <sup>[16](/bible/james/3#v16)</sup> For where envying and strife is, there is confusion and every evil work.
-
-- Who is a wise man and endued with knowledge among you? Let him shew out of a good conversation his works with meekness of wisdom. These are actions; this is great moral character.
-- But if ye have bitter envying and strife in your hearts, glory not: this wisdom descendeth not from above, but is earthly, sensual, devilish. The Lord did not put that spirit in us; those are traits people picked up through life in the world, and that is why their name is always in some mess.
-- For where envying and strife is, there is confusion and every evil work. These are not the characteristics we want associated with us. This is why we have to be around men who have been through these things and can teach us to be better men, better leaders, better husbands, better fathers. If you are not around those type of people, how can you learn these moral and ethical traits?
 
 **[Ecclesiasticus 1:26-27](/bible/sirach/1#v26)**  *[[54:59](https://www.youtube.com/watch?v=T-g4PozGSnM&t=3299s)]*
 
@@ -152,16 +154,19 @@ Interactive question 2, put on the screen *[[41:57](https://www.youtube.com/watc
 **[Ecclesiasticus 1:18-21](/bible/sirach/1#v18)**  *[[56:15](https://www.youtube.com/watch?v=T-g4PozGSnM&t=3375s)]*
 
 > <sup>[18](/bible/sirach/1#v18)</sup> The fear of the Lord is a crown of wisdom, making peace and perfect health to flourish; both which are the gifts of God: and it enlargeth their rejoicing that love him.
->
+
+- The fear of the Lord is a crown of wisdom, making peace and perfect health to flourish: both which are the gifts of God. Wisdom raineth down skill and knowledge of understanding, and exalteth them to honour that hold her fast.
+
+- The root of wisdom is to fear the Lord, and the branches thereof are long life.
+
 > <sup>[19](/bible/sirach/1#v19)</sup> Wisdom raineth down skill and knowledge of understanding standing, and exalteth them to honour that hold her fast.
 >
 > <sup>[20](/bible/sirach/1#v20)</sup> The root of wisdom is to fear the Lord, and the branches thereof are long life.
 >
 > <sup>[21](/bible/sirach/1#v21)</sup> The fear of the Lord driveth away sins: and where it is present, it turneth away wrath.
 
-- The fear of the Lord is a crown of wisdom, making peace and perfect health to flourish: both which are the gifts of God. Wisdom raineth down skill and knowledge of understanding, and exalteth them to honour that hold her fast.
-- The root of wisdom is to fear the Lord, and the branches thereof are long life.
 - The fear of the Lord driveth away sins: and where it is present, it turneth away wrath. Why? Because a person that fears God is going to keep the commandments and uphold the integrity to do the right thing. Regardless of the situation, regardless of the inconvenience, you are going to continue to uphold the integrity of the commandments, because you are working it over and over again.
+
 - Captain's point: our integrity and our moral character are directly tied to our fear toward God. It is one and the same.
 
   Precepts:

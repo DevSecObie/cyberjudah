@@ -92,21 +92,21 @@ tags: ["15 Minutes w/ The Captains", "salvation", "the-law"]
 
 **[Matthew 5:1-4](/bible/matthew/5#v1)**  *[[8:48](https://www.youtube.com/watch?v=cfEYxuSd2Kc&t=528s)]*
 
+- This is who you going to. That's why I read that in the beginning. Remember back in Revelations where it said remember where you have fallen. Remember why you came up in this truth. Remember the conditions that you were in, how you was living, wickedly. And not just you, all of us. We got to remember that thing. Don't forget where you came from, because it will continue to keep you out of there. You always remember to have that thing somewhere in the back of your mind. You'll be like, nah, I don't want to go back there. That's not my goal. I don't want to return back to my vomit.
+
 > <sup>[1](/bible/matthew/5#v1)</sup> And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:
 >
 > <sup>[2](/bible/matthew/5#v2)</sup> And he opened his mouth, and taught them, saying,
->
-> <sup>[3](/bible/matthew/5#v3)</sup> Blessed are the poor in spirit: for theirs is the kingdom of heaven.
->
-> <sup>[4](/bible/matthew/5#v4)</sup> Blessed are they that mourn: for they shall be comforted.
-
-- This is who you going to. That's why I read that in the beginning. Remember back in Revelations where it said remember where you have fallen. Remember why you came up in this truth. Remember the conditions that you were in, how you was living, wickedly. And not just you, all of us. We got to remember that thing. Don't forget where you came from, because it will continue to keep you out of there. You always remember to have that thing somewhere in the back of your mind. You'll be like, nah, I don't want to go back there. That's not my goal. I don't want to return back to my vomit.
 
 - And he opened his mouth, and taught them: when the spirit of the Lord is upon you, you will have that willing mind to want to teach your people. Uplift your people.
+
+> <sup>[3](/bible/matthew/5#v3)</sup> Blessed are the poor in spirit: for theirs is the kingdom of heaven.
 
 - Blessed are the poor in spirit: we got many poor around us, but you let them know that blessed are the poor in spirit. Why are we the poor? Because our culture has been taken away from us, our heritage. Even down to knowing the color of your Lord and savior, what he really looks like, your God, the angels. All that have been taken away from us, and they left us poor in spirit. So it's our job when the spirit of the Lord is upon you, you want to uplift your people. You want to get them out that condition, out of that dunghill that they're in. You don't like the conditions that they're in and you want to see that thing change. You want to see your people ruling like the Lord meant for us to be.
 
 - For theirs is the kingdom of heaven: the poor of Israel, meaning the poor in spirit. Because of much violence that have been done to our people, guess what? Theirs, or ours, is the kingdom of heaven. The world belongs to us.
+
+> <sup>[4](/bible/matthew/5#v4)</sup> Blessed are they that mourn: for they shall be comforted.
 
 - Blessed are they that mourn: for they shall be comforted: we are the ones that's mourning. We the ones that's getting out there, getting killed. Our kids and our mothers and fathers are being taken away. Even all in slavery days, our kids being taken away from us, us being pulled away from our homes by much violence and much force. We the ones that's mourning. We getting shot down in the streets, drugs in our communities. All these atrocities happening to us. No fair trials, no fair justice system. All of this madness happening to us.
 
@@ -141,16 +141,16 @@ tags: ["15 Minutes w/ The Captains", "salvation", "the-law"]
 **[Lamentations 1:1-3](/bible/lamentations/1#v1)**  *[[14:10](https://www.youtube.com/watch?v=cfEYxuSd2Kc&t=850s)]*
 
 > <sup>[1](/bible/lamentations/1#v1)</sup> How doth the city sit solitary, that was full of people! how is she become as a widow! she that was great among the nations, and princess among the provinces, how is she become tributary!
->
-> <sup>[2](/bible/lamentations/1#v2)</sup> She weepeth sore in the night, and her tears are on her cheeks: among all her lovers she hath none to comfort her: all her friends have dealt treacherously with her, they are become her enemies.
->
-> <sup>[3](/bible/lamentations/1#v3)</sup> Judah is gone into captivity because of affliction, and because of great servitude: she dwelleth among the heathen, she findeth no rest: all her persecutors overtook her between the straits.
 
 - How is she become as a widow: that she is talking about Israel. How have we become like a widow? How have we become dead? How have we become solitary? Why are we not that lovely city no more? That vine, and we become that degenerate plant.
 
 - And princess among the provinces, how is she become tributary: we were supposed to be the rulers, but now we have become tributary. Paying taxes. The world belonged to us, but somehow we have been made servants in our own homes. We in the basement.
 
+> <sup>[2](/bible/lamentations/1#v2)</sup> She weepeth sore in the night, and her tears are on her cheeks: among all her lovers she hath none to comfort her: all her friends have dealt treacherously with her, they are become her enemies.
+
 - All her friends have dealt treacherously with her: all their friends is talking about all the ones that we have aligned ourselves with. We started serving these other gods, but guess what? They have shown themselves to be enemies of Israel. They are become her enemies: they have become our enemies.
+
+> <sup>[3](/bible/lamentations/1#v3)</sup> Judah is gone into captivity because of affliction, and because of great servitude: she dwelleth among the heathen, she findeth no rest: all her persecutors overtook her between the straits.
 
 - Judah is gone into captivity: because all these nations that have their turn in having us in captivity. Some of them even went as far as to take our identity. Take our Lord and Savior and try to make him look like them. All of them are our enemies and don't want to see us prosper. Because in our prosperity, guess what? That means their destruction. Always remember that thing, man.
 
@@ -217,10 +217,6 @@ tags: ["15 Minutes w/ The Captains", "salvation", "the-law"]
 **[Isaiah 61:1-3](/bible/isaiah/61#v1)**  *[[22:44](https://www.youtube.com/watch?v=cfEYxuSd2Kc&t=1364s)]*
 
 > <sup>[1](/bible/isaiah/61#v1)</sup> The Spirit of the Lord God is upon me; because the Lord hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;
->
-> <sup>[2](/bible/isaiah/61#v2)</sup> To proclaim the acceptable year of the Lord, and the day of vengeance of our God; to comfort all that mourn;
->
-> <sup>[3](/bible/isaiah/61#v3)</sup> To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the Lord, that he might be glorified.
 
 - Because the LORD hath anointed me to preach good tidings: so the Lord has chosen you to preach good tidings. He saw that for you to be that first fruits, to go out and teach the people and teach the good tiding. Meaning teach the people who they truly are. He saw that within your spirit.
 
@@ -230,7 +226,11 @@ tags: ["15 Minutes w/ The Captains", "salvation", "the-law"]
 
 - And the opening of the prison to them that are bound: us that are bound in all these other religions and whatsoever.
 
+> <sup>[2](/bible/isaiah/61#v2)</sup> To proclaim the acceptable year of the Lord, and the day of vengeance of our God; to comfort all that mourn;
+
 - And the day of vengeance of our God: to proclaim the day of vengeance from our God.
+
+> <sup>[3](/bible/isaiah/61#v3)</sup> To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the Lord, that he might be glorified.
 
 - That they might be called trees of righteousness, the planting of the LORD, that he might be glorified: so it's our job when we got the spirit of the Lord to go out there and teach to our people, to wake them up, to comfort them in the scriptures, letting them know that this Bible belongs to them, letting them know that they need to come out of their old ways, if you want to be redeemed, and start to keep the law, statutes, and commandments in the faith of Christ.
 

@@ -2,7 +2,7 @@
 title: "The Unskilled Marksman"
 slug: "2026/2026-06-10-the-unskilled-marksman"
 date: "2026-06-10"
-teacher: "Captain Mattathias"
+teacher: "Captain Matthew"
 description: "15 Minutes w/ The Captains · 2026-06-10"
 tags: ["15 Minutes w/ The Captains", "heaven-hell", "leadership", "the-word", "wisdom"]
 ---
@@ -53,22 +53,6 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "leadership", "the-word", "w
 **[Sirach 4:11-19](/bible/sirach/4#v11)**  *[[4:43](https://www.youtube.com/watch?v=g8DajkfDcH4&t=283s)]*
 
 > <sup>[11](/bible/sirach/4#v11)</sup> Wisdom exalteth her children, and layeth hold of them that seek her.
->
-> <sup>[12](/bible/sirach/4#v12)</sup> He that loveth her loveth life; and they that seek to her early shall be filled with joy.
->
-> <sup>[13](/bible/sirach/4#v13)</sup> He that holdeth her fast shall inherit glory; and wheresoever she entereth, the Lord will bless.
->
-> <sup>[14](/bible/sirach/4#v14)</sup> They that serve her shall minister to the Holy One: and them that love her the Lord doth love.
->
-> <sup>[15](/bible/sirach/4#v15)</sup> Whoso giveth ear unto her shall judge the nations: and he that attendeth unto her shall dwell securely.
->
-> <sup>[16](/bible/sirach/4#v16)</sup> If a man commit himself unto her, he shall inherit her; and his generation shall hold her in possession.
->
-> <sup>[17](/bible/sirach/4#v17)</sup> For at the first she will walk with him by crooked ways, and bring fear and dread upon him, and torment him with her discipline, until she may trust his soul, and try him by her laws.
->
-> <sup>[18](/bible/sirach/4#v18)</sup> Then will she return the straight way unto him, and comfort him, and shew him her secrets.
->
-> <sup>[19](/bible/sirach/4#v19)</sup> But if he go wrong, she will forsake him, and give him over to his own ruin.
 
 - Wisdom exalteth her children, and layeth hold of them that seek her: wisdom ain't coming to you if you don't open up your Bible and read. Yes, you could listen to class all day, but until you put eyes on that paper, you ain't going to remember nothing.
 
@@ -76,17 +60,33 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "leadership", "the-word", "w
 
 - Whosoever she entereth, the Lord will bless: why you think you got a hole in your pocket? Why you think you just got paid and you broke? The blessing don't be just monetary. He'll bless you with wisdom, understanding. You got offices, he'll make those offices thrive under your hand.
 
+> <sup>[12](/bible/sirach/4#v12)</sup> He that loveth her loveth life; and they that seek to her early shall be filled with joy.
+>
+> <sup>[13](/bible/sirach/4#v13)</sup> He that holdeth her fast shall inherit glory; and wheresoever she entereth, the Lord will bless.
+>
+> <sup>[14](/bible/sirach/4#v14)</sup> They that serve her shall minister to the Holy One: and them that love her the Lord doth love.
+>
+> <sup>[15](/bible/sirach/4#v15)</sup> Whoso giveth ear unto her shall judge the nations: and he that attendeth unto her shall dwell securely.
+
 - Whoso giveth ear unto her shall judge the nations: you don't give ear to wisdom, you don't know how to judge yet. Brothers be trying to judge everybody and be unskilled. I don't know what the big hurry is. Just read the Bible. Even if you don't understand what you're reading, the understanding will come later.
 
 - When I first started, a friend asked me where I was in my reading. I said, I'm in History of Susanna. You understand it? Hell no. I'mma just read it. Then as I'm reading, leadership coming out with classes touching on things, and, oh snap, I remember that. That's what that mean.
 
+> <sup>[16](/bible/sirach/4#v16)</sup> If a man commit himself unto her, he shall inherit her; and his generation shall hold her in possession.
+
 - His generation shall hold her in possession: your kids will start to show the wisdom that you have, by how they act, how they speak, how they come to you and ask questions, how you teach them at home. Not just sit them in front of YouTube all day.
+
+> <sup>[17](/bible/sirach/4#v17)</sup> For at the first she will walk with him by crooked ways, and bring fear and dread upon him, and torment him with her discipline, until she may trust his soul, and try him by her laws.
 
 - For at the first she will walk with him by crooked ways: those crooked ways is you being unskilled. You went off on somebody because they don't know what the new moon is, or their battle with something is light to you but heavy to them. Some brothers just can't let the cigarettes go. You can't go in on them for that. You got to be skillful.
 
 - And torment him with her discipline: by your correction all the time. The more you speak, the more you get corrected. The more you're around leaders, the more you get corrected. That's how we grow in this truth. That's how you become a skilled marksman: you learn how to acquire the target and then pull the trigger, not just pull a trigger all willy-nilly.
 
+> <sup>[18](/bible/sirach/4#v18)</sup> Then will she return the straight way unto him, and comfort him, and shew him her secrets.
+
 - Then will she return the straight way unto him, and comfort him, and shew him her secrets: you'll start to learn how to apply wisdom.
+
+> <sup>[19](/bible/sirach/4#v19)</sup> But if he go wrong, she will forsake him, and give him over to his own ruin.
 
 - But if he go wrong, she will forsake him, and give him over to his own ruin: you'll start blowing up everything, offending everybody, because you can't keep your mouth shut. Scripture say if you got understanding, answer your neighbour; if not, put your hand upon your mouth.
 
@@ -96,12 +96,12 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "leadership", "the-word", "w
 **[Sirach 1:19-20](/bible/sirach/1#v19)**  *[[12:19](https://www.youtube.com/watch?v=g8DajkfDcH4&t=739s)]*
 
 > <sup>[19](/bible/sirach/1#v19)</sup> Wisdom raineth down skill and knowledge of understanding standing, and exalteth them to honour that hold her fast.
->
-> <sup>[20](/bible/sirach/1#v20)</sup> The root of wisdom is to fear the Lord, and the branches thereof are long life.
 
 - Wisdom raineth down skill and knowledge of understanding: you got to be skillful in order to know how to properly break down the word of God, how to rightly divide the word of truth. Otherwise you're just going to be like a kid with a gun, yelling out a bunch of scriptures and offending everybody around you when it's unnecessary.
 
 - There are going to be people that get offended by the word of God because it's the word of God. But there are a lot of people that can be taught that you don't have to shoot with a .50 cal.
+
+> <sup>[20](/bible/sirach/1#v20)</sup> The root of wisdom is to fear the Lord, and the branches thereof are long life.
 
 - The root of wisdom is to fear the Lord: you fear the judgments of God. Part of keeping that wisdom is putting your life right, cuz as soon as you go to correct our people, the first thing they're going to say is, well, what about you? You ain't never lied? You ain't never fornicated? They look for blame on our behalf because we're showing them their sins.
 
@@ -116,16 +116,16 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "leadership", "the-word", "w
 **[Sirach 32:7-9](/bible/sirach/32#v7)**  *[[14:54](https://www.youtube.com/watch?v=g8DajkfDcH4&t=894s)]*
 
 > <sup>[7](/bible/sirach/32#v7)</sup> Speak, young man, if there be need of thee: and yet scarcely when thou art twice asked.
->
-> <sup>[8](/bible/sirach/32#v8)</sup> Let thy speech be short, comprehending much in few words; be as one that knoweth and yet holdeth his tongue.
->
-> <sup>[9](/bible/sirach/32#v9)</sup> If thou be among great men, make not thyself equal with them; and when ancient men are in place, use not many words.
 
 - Speak, young man, if there be need of thee: sometimes there ain't no need for you to speak, like at work. You coming to the Christmas party? Nah, I'm an Israelite and you the damn devil the Bible speaks of, cuz Jeremiah 10, let me get this Bible app. You look crazy. Stop it.
 
 - And yet scarcely when thou art twice asked: why not? It's just not my thing. I got other engagements. I'm doing something with my family. It's not a lie: you are doing something with your family. You're going to escape the holiday. You don't have to tell them you going to spend the whole day casting down imaginations, especially at work.
 
+> <sup>[8](/bible/sirach/32#v8)</sup> Let thy speech be short, comprehending much in few words; be as one that knoweth and yet holdeth his tongue.
+
 - Let thy speech be short, comprehending much in few words; be as one that knoweth and yet holdeth his tongue: we call that country dumb. Hey, you ever heard of these black Hebrew Israelites? I've heard the words before. They racist as hell. Damn, for real? You got to have a good rapport. But the unskilled marksman goes to shooting everybody, now you fired from your job, and you say I'm being persecuted for righteousness' sake. No, you got fired cuz you're stupid. Know when to talk and when not to talk.
+
+> <sup>[9](/bible/sirach/32#v9)</sup> If thou be among great men, make not thyself equal with them; and when ancient men are in place, use not many words.
 
 - If thou be among great men, make not thyself equal with them; and when ancient men are in place, use not many words: I see this a lot with new brothers. Officers are going over things in the brothers' circle and he blurts out, I don't deal with no kind of lust, all I do is sit at home and read. But then you start asking him stuff, he can't explain nothing. The new moon, Passover, Cornelius, slave ships. People really do listen when we talk. That's why we have to be aware of what we say.
 
@@ -157,15 +157,15 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "leadership", "the-word", "w
 
 **[Romans 5:3-4](/bible/romans/5#v3)**  *[[22:14](https://www.youtube.com/watch?v=g8DajkfDcH4&t=1334s)]*
 
-> <sup>[3](/bible/romans/5#v3)</sup> And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;
->
-> <sup>[4](/bible/romans/5#v4)</sup> And patience, experience; and experience, hope:
-
 - We got to get taught first, learn the basics, then through time we can go out and be teachers of the people. That's why there's rank and structure. A soldier means you know enough to handle yourself on the street. An officer of 10 means you know enough to teach 10 people. It's like a security clearance: a way to know what you can handle outside of the eyes of leadership. Can you handle the flock of God, or will you destroy them cuz you're a novice?
+
+> <sup>[3](/bible/romans/5#v3)</sup> And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;
 
 - We glory in tribulations also: when stuff happens, you got to look at it as a lesson. A lot of our trials be emotionally jarring, but hindsight is 20/20.
 
 - Tribulation worketh patience: you got to run to this Bible, to your counsellor, to leadership to get the answer. You read it, meditate on it, apply it, and it'll help you be patient through that trial and not be hasty, especially with your mouth and your actions.
+
+> <sup>[4](/bible/romans/5#v4)</sup> And patience, experience; and experience, hope:
 
 - And patience, experience; and experience, hope: you'll be able to counsel people through things because you've seen it or done it yourself. If you made it past this trial, you'll make it past the next one, and you can comfort those that go through theirs.
 

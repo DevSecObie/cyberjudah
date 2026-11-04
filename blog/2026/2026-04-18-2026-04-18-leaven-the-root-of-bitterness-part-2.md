@@ -2,7 +2,7 @@
 title: "LEAVEN: THE ROOT OF BITTERNESS PART 2"
 slug: "2026/2026-04-18-leaven-the-root-of-bitterness-part-2"
 date: "2026-04-18"
-teacher: ""
+teacher: "Deacon Malachiyah"
 description: "IUIC in the ClassRoom · 2026-04-18"
 tags: ["IUIC in the ClassRoom", "anger", "bitterness", "gossip", "love", "mercy", "prayer", "satan"]
 ---
@@ -40,33 +40,37 @@ We are going into the fourth day of the feast of unleavened bread, and tonight c
 **[1 Corinthians 9:26-27](/bible/1-corinthians/9#v26)**  *[[17:56](https://www.youtube.com/watch?v=D6rveJsP3f8&t=1076s)]*
 
 > <sup>[26](/bible/1-corinthians/9#v26)</sup> I therefore so run, not as uncertainly; so fight I, not as one that beateth the air:
->
-> <sup>[27](/bible/1-corinthians/9#v27)</sup> But I keep under my body, and bring it into subjection: lest that by any means, when I have preached to others, I myself should be a castaway.
 
 - So fight I, not as one that beateth the air: fighting Satan is not swinging in the air. But I keep under my body, and bring it into subjection: the way you fight Satan is controlling your body and controlling your mind.
+
 - The fight is not physical; the fight is spiritual, meaning it is in your mind. Every sin that every last one of us commits starts in the mind. If you can kill it there, it will not manifest itself. If you kill the root of bitterness in your mind when that seed tries creeping in, it is not going to bear a root.
+
 - A lot of brothers and sisters do not like correction, but if anybody comes and tells you the Deacon said something about you, do not believe them, because I will tell you to your face.
+
 - A couple weeks ago a brother reached out: Deacon, you got a problem with me? At the new moon I said shalom and you did not pay me any mind. Listen: my mind is often far away; if you do not get my attention, I zone out, especially when I am thinking on the scriptures. It was nothing intentional. But respect to the brother for reaching out directly, because otherwise Satan could play with his head and he could develop bitterness toward me for no reason. That is how you get rid of bitterness: you go to the person, because you can sit there thinking a person moved against you when they are not aware of anything running through your mind.
 
+> <sup>[27](/bible/1-corinthians/9#v27)</sup> But I keep under my body, and bring it into subjection: lest that by any means, when I have preached to others, I myself should be a castaway.
+
 **[Romans 7:20-25](/bible/romans/7#v20)**  *[[27:06](https://www.youtube.com/watch?v=D6rveJsP3f8&t=1626s)]*
+
+- If you do things you are not supposed to do, it is no more you that do it, but sin that dwelleth in you. I find then a law, that, when I would do good, evil is present with me: evil is present with all of us, all the time. When you want to do good, Satan is always there too, tempting you and trying to destroy you.
 
 > <sup>[20](/bible/romans/7#v20)</sup> Now if I do that I would not, it is no more I that do it, but sin that dwelleth in me.
 >
 > <sup>[21](/bible/romans/7#v21)</sup> I find then a law, that, when I would do good, evil is present with me.
 >
 > <sup>[22](/bible/romans/7#v22)</sup> For I delight in the law of God after the inward man:
->
-> <sup>[23](/bible/romans/7#v23)</sup> But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members.
->
-> <sup>[24](/bible/romans/7#v24)</sup> O wretched man that I am! who shall deliver me from the body of this death?
->
-> <sup>[25](/bible/romans/7#v25)</sup> I thank God through Jesus Christ our Lord. So then with the mind I myself serve the law of God; but with the flesh the law of sin.
 
-- If you do things you are not supposed to do, it is no more you that do it, but sin that dwelleth in you. I find then a law, that, when I would do good, evil is present with me: evil is present with all of us, all the time. When you want to do good, Satan is always there too, tempting you and trying to destroy you.
 - I delight in the law of God after the inward man: the inward man is your mind, the inner you.
+
+> <sup>[23](/bible/romans/7#v23)</sup> But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members.
+
 - But I see another law in my members, warring against the law of my mind: there is something in you that wars against your mind. You want to do good, you want to do right, but something is telling you evil stuff all the time. Them thoughts in your mind warring against your mind is Satan.
+
 - Somebody says something to you and it triggers things in your mind: who does that person think they are talking to? Some of these officers can be disrespectful sometimes, and when we find out you are rolling like that, we are going to take your rank. But even when a brother is wrong in how he dealt with you, you still cannot entertain them kind of evil thoughts, because them evil thoughts turn into bitterness. Everybody in here is trying to become perfect, and imperfect people will offend you; you either go to that person and fix it, or you cannot sit there and become bitter and hateful.
+
 - It is weird for brothers to stop talking to a brother because of a sister, and sisters do the same thing: two sisters were cool, both liked the same brother, and now they stop talking to each other. That is bitterness and that is fake. If that brother is for you, he is for you. You cannot let anybody make you and your sister stop talking; and you brothers cannot stop talking to each other over a woman either. Brothers that roll like that need to repent.
+
 - And bringing me into captivity to the law of sin: that is what Satan is trying to do, bring you into the captivity of sin, the captivity of bitterness. O wretched man that I am! who shall deliver me from the body of this death? I thank God through Jesus Christ our Lord: so then with the mind I myself serve the law of God. Everything starts with your mind; when them evil thoughts come to your mind concerning your brother or your sister, you have to shake it off. Do not play with bitterness, hatred, or envy; when these things try creeping up in you, shake it off.
 
   Precepts:
@@ -83,6 +87,10 @@ We are going into the fourth day of the feast of unleavened bread, and tonight c
 
     Raguel had one only daughter, named Sarah, and the angel said: fear not, for she is appointed unto thee from the beginning. From ever since the beginning, that was his wife. The Most High does bring people together. So do not develop bitterness and hatred toward each other over who is talking to whom: be happy for the brother; be happy for the sister. Whoever is for you is for you. That bitterness is going to change you, and it is just a matter of time before you leave the body.
 
+> <sup>[24](/bible/romans/7#v24)</sup> O wretched man that I am! who shall deliver me from the body of this death?
+>
+> <sup>[25](/bible/romans/7#v25)</sup> I thank God through Jesus Christ our Lord. So then with the mind I myself serve the law of God; but with the flesh the law of sin.
+
 **[Acts 5:3](/bible/acts/5#v3)**  *[[39:50](https://www.youtube.com/watch?v=D6rveJsP3f8&t=2390s)]*
 
 > <sup>[3](/bible/acts/5#v3)</sup> But Peter said, Ananias, why hath Satan filled thine heart to lie to the Holy Ghost, and to keep back part of the price of the land?
@@ -91,20 +99,35 @@ We are going into the fourth day of the feast of unleavened bread, and tonight c
 
 **[1 Samuel 18:6-9](/bible/1-samuel/18#v6)**  *[[41:26](https://www.youtube.com/watch?v=D6rveJsP3f8&t=2486s)]*
 
+- David returned from the slaughter of the Philistines, and the women came out of all cities of Israel, singing and dancing: Saul hath slain his thousands, and David his ten thousands. Satan was there too, and Satan went to Saul: you hear that?
+
+- And Saul was very wroth. Remember with Cain: why art thou wroth? Did David really slay ten thousands? Yes, he did; the Lord was fighting with David, and David was another level of warrior.
+
 > <sup>[6](/bible/1-samuel/18#v6)</sup> And it came to pass as they came, when David was returned from the slaughter of the Philistine, that the women came out of all cities of Israel, singing and dancing, to meet king Saul, with tabrets, with joy, and with instruments of musick.
 >
 > <sup>[7](/bible/1-samuel/18#v7)</sup> And the women answered one another as they played, and said, Saul hath slain his thousands, and David his ten thousands.
 >
 > <sup>[8](/bible/1-samuel/18#v8)</sup> And Saul was very wroth, and the saying displeased him; and he said, They have ascribed unto David ten thousands, and to me they have ascribed but thousands: and what can he have more but the kingdom?
->
+
+- They have ascribed unto David ten thousands, and to me they have ascribed but thousands: and what can he have more but the kingdom? He wants my position. That is Satan whispering them things in his mind: the people love David; they are saying he is better than you; watch him. And Saul listened.
+
 > <sup>[9](/bible/1-samuel/18#v9)</sup> And Saul eyed David from that day and forward.
 
-- David returned from the slaughter of the Philistines, and the women came out of all cities of Israel, singing and dancing: Saul hath slain his thousands, and David his ten thousands. Satan was there too, and Satan went to Saul: you hear that?
-- And Saul was very wroth. Remember with Cain: why art thou wroth? Did David really slay ten thousands? Yes, he did; the Lord was fighting with David, and David was another level of warrior.
-- They have ascribed unto David ten thousands, and to me they have ascribed but thousands: and what can he have more but the kingdom? He wants my position. That is Satan whispering them things in his mind: the people love David; they are saying he is better than you; watch him. And Saul listened.
 - And Saul eyed David from that day and forward: he envied David and became bitter toward him, watching him sideways. Why did that happen? Because Saul entertained Satan. Them thoughts came to Saul's head, and instead of saying, David is a godly man, he does not want my position, he fed into it. The spirit of envy came on him.
 
 **[1 Samuel 26:5-25](/bible/1-samuel/26#v5)**  *[[46:35](https://www.youtube.com/watch?v=D6rveJsP3f8&t=2795s)]*
+
+- This is when Saul was hunting David to kill him, because Saul was dealing with bitterness, envy, and hatred. David and Abishai came down to the camp by night, and Saul lay sleeping in the trench, with Abner, the top warrior in Israel at that time, and the people round about him.
+
+- Abishai said, God hath delivered thine enemy into thine hand this day: now therefore let me smite him. But David said, Destroy him not: for who can stretch forth his hand against the Lord's anointed, and be guiltless? Saul was anointed by the Lord to be king, and David understood: I cannot kill one of God's anointed. That is the kind of love David had toward his people.
+
+- As the Lord liveth, the Lord shall smite him; or his day shall come to die; or he shall descend into battle, and perish. The Lord is the one that is going to deal with Saul if he does not change. That is the same state of mind we all have to have: even if somebody does you wrong, you do not have to do evil back. Sometimes it is good to leave it in God's hands. David took the spear and the cruse of water, went far off on a hill, and called out.
+
+- Wherefore doth my lord thus pursue after his servant? for what have I done? or what evil is in mine hand? If the Lord have stirred thee up against me, let him accept an offering. Sometimes the Lord can put a spirit on somebody to do something to you, to see how you operate; and how you deal with it tells whether you get the kingdom or not. That person might deal with you wrongfully, but it is really to try you. If you become bitter and deal with it wrong, you lose the kingdom, while the Lord may forgive the one who wronged you. Remember Shimei cursing David: David said, let him alone; the Lord hath bidden him.
+
+- But if they be the children of men, cursed be they before the Lord. What was taking place with Saul? You had men around Saul whispering in his ears: David thinks he is better than you; David wants the kingdom. Satan was in certain men around Saul, and Saul was feeding into it instead of saying, I do not want to hear that; David would never do that; David is a man of God. That is why you better be vigilant: if somebody comes and whispers evil to you, ask them, why are you coming to say this to me? You want me to hate that person? Did you correct that person?
+
+- I have seen people in the body spread evil, even about me: brothers going to brothers saying the Deacon said this and that, and brothers end up hating me off of a whisper. A couple years back there were a couple of wormtongue brothers just whispering and murmuring, and I sat back and watched. Once I find one bitter, murmuring brother, everybody in that circle is defiled, because the scripture says if a man purge himself from these, he shall be a vessel unto honour. If a brother is bitter against leadership because he got corrected, and you are around him buddy buddy, it is because you all have the same spirit. That is why I do not rush to get rid of bitter brothers; I leave them for a while and see who gravitates to them.
 
 > <sup>[5](/bible/1-samuel/26#v5)</sup> And David arose, and came to the place where Saul had pitched: and David beheld the place where Saul lay, and Abner the son of Ner, the captain of his host: and Saul lay in the trench, and the people pitched round about him.
 >
@@ -139,7 +162,13 @@ We are going into the fourth day of the feast of unleavened bread, and tonight c
 > <sup>[20](/bible/1-samuel/26#v20)</sup> Now therefore, let not my blood fall to the earth before the face of the Lord: for the king of Israel is come out to seek a flea, as when one doth hunt a partridge in the mountains.
 >
 > <sup>[21](/bible/1-samuel/26#v21)</sup> Then said Saul, I have sinned: return, my son David: for I will no more do thee harm, because my soul was precious in thine eyes this day: behold, I have played the fool, and have erred exceedingly.
->
+
+- Then said Saul, I have sinned: return, my son David... behold, I have played the fool, and have erred exceedingly. David hit a nerve, and Saul caught himself. Sometimes people do evil to you because Satan jumped on them, and afterward they realize it and say, I am sorry. When somebody comes at you sideways, it is not necessarily the person in front of you that you are fighting; it is Satan in them.
+
+- As thy life was much set by this day in mine eyes, so let my life be much set by in the eyes of the Lord, and let him deliver me out of all tribulation. That is what you want: the Lord to deliver you out of tribulations. But you do not want to take vengeance into your own hands, and that is what David understood.
+
+- Even in your marriage: sometimes Satan will jump on a brother and he will say evil things to his wife; sister, you have to realize it is not your husband, it is Satan you are really dealing with. Remember when Satan entered Job's wife: curse God, and die. Job said, thou speakest as one of the foolish women speaketh. Job was not dealing with her; he was dealing with what entered into her and was speaking.
+
 > <sup>[22](/bible/1-samuel/26#v22)</sup> And David answered and said, Behold the king’s spear! and let one of the young men come over and fetch it.
 >
 > <sup>[23](/bible/1-samuel/26#v23)</sup> The Lord render to every man his righteousness and his faithfulness: for the Lord delivered thee into my hand to day, but I would not stretch forth mine hand against the Lord’s anointed.
@@ -148,23 +177,13 @@ We are going into the fourth day of the feast of unleavened bread, and tonight c
 >
 > <sup>[25](/bible/1-samuel/26#v25)</sup> Then Saul said to David, Blessed be thou, my son David: thou shalt both do great things, and also shalt still prevail. So David went on his way, and Saul returned to his place.
 
-- This is when Saul was hunting David to kill him, because Saul was dealing with bitterness, envy, and hatred. David and Abishai came down to the camp by night, and Saul lay sleeping in the trench, with Abner, the top warrior in Israel at that time, and the people round about him.
-- Abishai said, God hath delivered thine enemy into thine hand this day: now therefore let me smite him. But David said, Destroy him not: for who can stretch forth his hand against the Lord's anointed, and be guiltless? Saul was anointed by the Lord to be king, and David understood: I cannot kill one of God's anointed. That is the kind of love David had toward his people.
-- As the Lord liveth, the Lord shall smite him; or his day shall come to die; or he shall descend into battle, and perish. The Lord is the one that is going to deal with Saul if he does not change. That is the same state of mind we all have to have: even if somebody does you wrong, you do not have to do evil back. Sometimes it is good to leave it in God's hands. David took the spear and the cruse of water, went far off on a hill, and called out.
-- Wherefore doth my lord thus pursue after his servant? for what have I done? or what evil is in mine hand? If the Lord have stirred thee up against me, let him accept an offering. Sometimes the Lord can put a spirit on somebody to do something to you, to see how you operate; and how you deal with it tells whether you get the kingdom or not. That person might deal with you wrongfully, but it is really to try you. If you become bitter and deal with it wrong, you lose the kingdom, while the Lord may forgive the one who wronged you. Remember Shimei cursing David: David said, let him alone; the Lord hath bidden him.
-- But if they be the children of men, cursed be they before the Lord. What was taking place with Saul? You had men around Saul whispering in his ears: David thinks he is better than you; David wants the kingdom. Satan was in certain men around Saul, and Saul was feeding into it instead of saying, I do not want to hear that; David would never do that; David is a man of God. That is why you better be vigilant: if somebody comes and whispers evil to you, ask them, why are you coming to say this to me? You want me to hate that person? Did you correct that person?
-- I have seen people in the body spread evil, even about me: brothers going to brothers saying the Deacon said this and that, and brothers end up hating me off of a whisper. A couple years back there were a couple of wormtongue brothers just whispering and murmuring, and I sat back and watched. Once I find one bitter, murmuring brother, everybody in that circle is defiled, because the scripture says if a man purge himself from these, he shall be a vessel unto honour. If a brother is bitter against leadership because he got corrected, and you are around him buddy buddy, it is because you all have the same spirit. That is why I do not rush to get rid of bitter brothers; I leave them for a while and see who gravitates to them.
-- Then said Saul, I have sinned: return, my son David... behold, I have played the fool, and have erred exceedingly. David hit a nerve, and Saul caught himself. Sometimes people do evil to you because Satan jumped on them, and afterward they realize it and say, I am sorry. When somebody comes at you sideways, it is not necessarily the person in front of you that you are fighting; it is Satan in them.
-- As thy life was much set by this day in mine eyes, so let my life be much set by in the eyes of the Lord, and let him deliver me out of all tribulation. That is what you want: the Lord to deliver you out of tribulations. But you do not want to take vengeance into your own hands, and that is what David understood.
-- Even in your marriage: sometimes Satan will jump on a brother and he will say evil things to his wife; sister, you have to realize it is not your husband, it is Satan you are really dealing with. Remember when Satan entered Job's wife: curse God, and die. Job said, thou speakest as one of the foolish women speaketh. Job was not dealing with her; he was dealing with what entered into her and was speaking.
-
 **[Leviticus 19:17-18](/bible/leviticus/19#v17)**  *[[1:02:55](https://www.youtube.com/watch?v=D6rveJsP3f8&t=3775s)]*
 
 > <sup>[17](/bible/leviticus/19#v17)</sup> Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
->
-> <sup>[18](/bible/leviticus/19#v18)</sup> Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord.
 
 - Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him. Thou shalt not avenge, nor bear any grudge against the children of thy people. That is where bitterness comes from: the grudge. This is what David understood; he had love for his brother and did not take vengeance, even though Saul wanted him dead.
+
+> <sup>[18](/bible/leviticus/19#v18)</sup> Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord.
 
 **[Ecclesiasticus 28:1-3](/bible/sirach/28#v1)**  *[[1:06:45](https://www.youtube.com/watch?v=D6rveJsP3f8&t=4005s)]*
 
@@ -191,19 +210,21 @@ We are going into the fourth day of the feast of unleavened bread, and tonight c
 **[1 Corinthians 13:4-5](/bible/1-corinthians/13#v4)**  *[[1:19:08](https://www.youtube.com/watch?v=D6rveJsP3f8&t=4748s)]*
 
 > <sup>[4](/bible/1-corinthians/13#v4)</sup> Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,
->
-> <sup>[5](/bible/1-corinthians/13#v5)</sup> Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;
 
 - Charity suffereth long: if you really love your brother, your wife, your spouse, you are going to endure and be patient. Charity envieth not; is not easily provoked; thinketh no evil.
+
 - Hear that: charity thinketh no evil. When Satan comes to put evil thoughts in your mind about someone else, you have to say: I am not going to think evil about that person. Repeat it over and over: charity thinketh no evil. That is how you deal with it when Satan tries to put evil thoughts in your mind. Somebody says something; charity says that person probably did not mean it like that.
+
+> <sup>[5](/bible/1-corinthians/13#v5)</sup> Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;
 
 **[Ecclesiasticus 28:7-8](/bible/sirach/28#v7)**  *[[1:21:05](https://www.youtube.com/watch?v=D6rveJsP3f8&t=4865s)]*
 
 > <sup>[7](/bible/sirach/28#v7)</sup> Remember the commandments, and bear no malice to thy neighbour: remember the covenant of the Highest, and wink at ignorance.
->
-> <sup>[8](/bible/sirach/28#v8)</sup> Abstain from strife, and thou shalt diminish thy sins: for a furious man will kindle strife,
 
 - Remember the commandments, and bear no malice to thy neighbour: remember the covenant of the Highest, and wink at the ignorance. To wink at ignorance means sometimes people say dumb stuff out of immaturity; the person has not grown, and they probably did not even mean it a certain way. For the root of bitterness not to build up in you, sometimes you just wink at it: that person just does not know. Do not take it serious.
+
+> <sup>[8](/bible/sirach/28#v8)</sup> Abstain from strife, and thou shalt diminish thy sins: for a furious man will kindle strife,
+
 - Abstain from strife, and thou shalt diminish thy sins: for a furious man will kindle strife. Strife is the arguing. When you see brothers and sisters arguing and striving all the time, that is evil among them. Abstaining from strife is how you diminish your sins.
 
 **[Ecclesiasticus 19:13-17](/bible/sirach/19#v13)**  *[[1:23:58](https://www.youtube.com/watch?v=D6rveJsP3f8&t=5038s)]*

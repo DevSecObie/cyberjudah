@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 2:9"
 slug: "2025/2025-09-04-giving-the-sense-from-a-to-z-1-corinthians-2-9"
 date: "2025-09-04"
-teacher: "Captain Matt"
+teacher: "Captain Matthew"
 description: "Giving The Sense From A to Z · 2025-09-04"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "mental-health", "the-law", "the-word", "wisdom"]
@@ -55,10 +55,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "mental-health", "the-law", "the-
 **[1 Corinthians 2:7-8](/bible/1-corinthians/2#v7)**  *[[4:18](https://www.youtube.com/watch?v=gRrhGCbvUEs&t=258s)]*
 
 > <sup>[7](/bible/1-corinthians/2#v7)</sup> But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:
->
-> <sup>[8](/bible/1-corinthians/2#v8)</sup> Which none of the princes of this world knew: for had they known it, they would not have crucified the Lord of glory.
 
 - But we speak the wisdom of God in a mystery, even the hidden wisdom: So, the mystery is we would come back to being the nation of Israel and all 12 tribes would come back eventually. All right? And that has been a mystery for the longest time because the scribes and Pharisees, they were used to the prophecy in Hosea that the northern kingdom of Israel would be cast off. Let me get that real quick.
+
+> <sup>[8](/bible/1-corinthians/2#v8)</sup> Which none of the princes of this world knew: for had they known it, they would not have crucified the Lord of glory.
 
 
 **[Hosea 1:9-11](/bible/hosea/1#v9)**  *[[5:15](https://www.youtube.com/watch?v=gRrhGCbvUEs&t=315s)]*
@@ -66,10 +66,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "mental-health", "the-law", "the-
 > <sup>[9](/bible/hosea/1#v9)</sup> Then said God, Call his name Lo–ammi: for ye are not my people, and I will not be your God.
 >
 > <sup>[10](/bible/hosea/1#v10)</sup> Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God.
->
-> <sup>[11](/bible/hosea/1#v11)</sup> Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel.
 
 - Ye are the sons of the living God: That's part of the mystery that we are teaching nowadays. That's why everybody is like, "Well, nobody know who the Israelites are. Nobody knows who they are today. Y'all can't be the Israelites. No, this is a false doctrine." It's a mystery to them because it's not revealed to them. Why? Because they're not meant to get it. Not everybody is meant to get this word.
+
+> <sup>[11](/bible/hosea/1#v11)</sup> Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel.
 
 - Then shall the children of Judah and the children of Israel: Two different kingdoms, Judah was southern kingdom, Israel was northern kingdom.
 
@@ -81,10 +81,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "mental-health", "the-law", "the-
 **[1 Corinthians 2:7-8](/bible/1-corinthians/2#v7)**  *[[6:50](https://www.youtube.com/watch?v=gRrhGCbvUEs&t=410s)]*
 
 > <sup>[7](/bible/1-corinthians/2#v7)</sup> But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:
->
-> <sup>[8](/bible/1-corinthians/2#v8)</sup> Which none of the princes of this world knew: for had they known it, they would not have crucified the Lord of glory.
 
 - Which God ordained before the world unto our glory: So, when we read verse 7 again, 1 Corinthians chapter 2 verse 7. Before this world was even created, we were supposed to rule. We was already ordained to rule. We was already ordained to be above all nations. We was already ordained to be with Christ in the kingdom before the world was even formed.
+
+> <sup>[8](/bible/1-corinthians/2#v8)</sup> Which none of the princes of this world knew: for had they known it, they would not have crucified the Lord of glory.
 
 - Which none of the princes of this world knew: So, the princes of this world is talking about those chief priests, scribes, and Pharisees. Let's go to Acts chapter 13 real quick.
 
@@ -222,20 +222,20 @@ tags: ["15 Minutes w/ The Captains", "christ", "mental-health", "the-law", "the-
 > <sup>[1](/bible/2-esdras/4#v1)</sup> And the angel that was sent unto me, whose name was Uriel, gave me an answer,
 >
 > <sup>[2](/bible/2-esdras/4#v2)</sup> And said, Thy heart hath gone to far in this world, and thinkest thou to comprehend the way of the most High?
->
+
+- Thy heart hath gone too far in this world, and thinkest thou to comprehend the way of the most High: Cuz Esdras was asking a lot of deep questions. So, the angel was like, "Whoa, slow your roll, young man." You going too far in this world and you trying to learn the ways of the Lord. So, watch this. Verse 3.
+
 > <sup>[3](/bible/2-esdras/4#v3)</sup> Then said I, Yea, my lord. And he answered me, and said, I am sent to shew thee three ways, and to set forth three similitudes before thee:
 >
 > <sup>[4](/bible/2-esdras/4#v4)</sup> Whereof if thou canst declare me one, I will shew thee also the way that thou desirest to see, and I shall shew thee from whence the wicked heart cometh.
 >
 > <sup>[5](/bible/2-esdras/4#v5)</sup> And I said, Tell on, my lord. Then said he unto me, Go thy way, weigh me the weight of the fire, or measure me the blast of the wind, or call me again the day that is past.
->
-> <sup>[6](/bible/2-esdras/4#v6)</sup> Then answered I and said, What man is able to do that, that thou shouldest ask such things of me?
-
-- Thy heart hath gone too far in this world, and thinkest thou to comprehend the way of the most High: Cuz Esdras was asking a lot of deep questions. So, the angel was like, "Whoa, slow your roll, young man." You going too far in this world and you trying to learn the ways of the Lord. So, watch this. Verse 3.
 
 - Weigh me the weight of the fire, or measure me the blast of the wind, or call me again the day that is past: Why? Because that's what we deal with on a day-to-day basis. We deal with fire, we deal with the wind, and we deal with the day. We have no control over none of it. If a fire were to start, look at all of them wildfires that's happening on the West Coast. Half the country was on fire at one point. And who could stop it? Nobody. Look at the blast of wind. You can't measure the blast of wind. Esau be trying. Yeah, it's coming at 13 knots to the north-northwest and it's coming at 56 miles an hour to the south-southwest. Yeah, all right.
 
 - Call me again the day that is past: You can't call a day that is past already. You can't call back yesterday. They try to do it with their technology. Yeah, you can watch what happened before. You can't call back that day and switch anything up. You can't. When that day is gone, that day is gone and you live in that day. So, the only thing that you can understand is the things that you deal with on a day-to-day basis. And yet, you want to try to comprehend the way of the Lord. That's what he was telling Esdras.
+
+> <sup>[6](/bible/2-esdras/4#v6)</sup> Then answered I and said, What man is able to do that, that thou shouldest ask such things of me?
 
 
 **[1 Corinthians 2:11](/bible/1-corinthians/2#v11)**  *[[26:40](https://www.youtube.com/watch?v=gRrhGCbvUEs&t=1600s)]*
@@ -385,20 +385,20 @@ tags: ["15 Minutes w/ The Captains", "christ", "mental-health", "the-law", "the-
 **[Isaiah 28:9-13](/bible/isaiah/28#v9)**  *[[39:35](https://www.youtube.com/watch?v=gRrhGCbvUEs&t=2375s)]*
 
 > <sup>[9](/bible/isaiah/28#v9)</sup> Whom shall he teach knowledge? and whom shall he make to understand doctrine? them that are weaned from the milk, and drawn from the breasts.
->
-> <sup>[10](/bible/isaiah/28#v10)</sup> For precept must be upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little:
->
-> <sup>[11](/bible/isaiah/28#v11)</sup> For with stammering lips and another tongue will he speak to this people.
->
-> <sup>[12](/bible/isaiah/28#v12)</sup> To whom he said, This is the rest wherewith ye may cause the weary to rest; and this is the refreshing: yet they would not hear.
->
-> <sup>[13](/bible/isaiah/28#v13)</sup> But the word of the Lord was unto them precept upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little; that they might go, and fall backward, and be broken, and snared, and taken.
 
 - Them that are weaned from the milk, and drawn from the breasts: I'm going to start at verse nine. Meaning those that humble themselves as little kids. Go back and read the first five books. You're learning the basics of God.
 
+> <sup>[10](/bible/isaiah/28#v10)</sup> For precept must be upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little:
+
 - For precept must be upon precept: It didn't say precept might be upon precept. Precept must be upon precept. Why? Because through thy precepts I get understanding.
 
+> <sup>[11](/bible/isaiah/28#v11)</sup> For with stammering lips and another tongue will he speak to this people.
+>
+> <sup>[12](/bible/isaiah/28#v12)</sup> To whom he said, This is the rest wherewith ye may cause the weary to rest; and this is the refreshing: yet they would not hear.
+
 - Yet they would not hear: Much like our people today. Why? Because of this scripture.
+
+> <sup>[13](/bible/isaiah/28#v13)</sup> But the word of the Lord was unto them precept upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little; that they might go, and fall backward, and be broken, and snared, and taken.
 
 - That they might go, and fall backward, and be broken, and snared, and taken: That's why they use the precepts incredibly wrong. They use them all the way wrong. We know that they were using them right because they all flow together with the same thought process from Genesis to Revelations. That the children of Israel would repent, be gathered together as one nation again under Christ as the head and get the kingdom of heaven. And fulfill the promise that was given to Abraham. That is what the Bible is about. The creation of our nation, what happened when we refused to listen to the laws of God, what's going to happen when we start to listen to the laws of God, and those that get the eternal life as the reward in the end. It's about a family. It's about a family. It's not about everybody. It's not about who did what. No, it's about a family of people.
 
@@ -434,14 +434,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "mental-health", "the-law", "the-
 **[Hebrews 5:12-14](/bible/hebrews/5#v12)**  *[[46:09](https://www.youtube.com/watch?v=gRrhGCbvUEs&t=2769s)]*
 
 > <sup>[12](/bible/hebrews/5#v12)</sup> For when for the time ye ought to be teachers, ye have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat.
->
-> <sup>[13](/bible/hebrews/5#v13)</sup> For every one that useth milk is unskilful in the word of righteousness: for he is a babe.
->
-> <sup>[14](/bible/hebrews/5#v14)</sup> But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.
 
 - Such as have need of milk: That's the same milk that he was saying in Isaiah chapter 28.
 
+> <sup>[13](/bible/hebrews/5#v13)</sup> For every one that useth milk is unskilful in the word of righteousness: for he is a babe.
+
 - For he is a babe: Meaning you just now coming into this. You still got learning to do. And while you're learning, you got repenting to do. You got changing to do. You have self-examination to do. You have trials to go through. Your leaders are going to examine you. Your leaders are going to correct you. Your leaders are going to say, "Hey, you got this spirit in you. You need to check that." And it's not to destroy you. It's to make you better. Read on. I'm the one reading. I'm crazy.
+
+> <sup>[14](/bible/hebrews/5#v14)</sup> But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.
 
 - Have their senses exercised to discern both good and evil: How can you discern both good and evil if you're not looking in this Bible for good and evil? You can't. You're going to go off of your own carnal mind. So when somebody tells you something, now you're going to get offended. Now you're going to say, "Oh, well, you can't say that." That's why Christianity says that only God could judge me. That came from Tupac. That did not come from the Bible.
 
@@ -449,14 +449,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "mental-health", "the-law", "the-
 **[1 Corinthians 2:15-16](/bible/1-corinthians/2#v15)**  *[[47:41](https://www.youtube.com/watch?v=gRrhGCbvUEs&t=2861s)]*
 
 > <sup>[15](/bible/1-corinthians/2#v15)</sup> But he that is spiritual judgeth all things, yet he himself is judged of no man.
->
-> <sup>[16](/bible/1-corinthians/2#v16)</sup> For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Christ.
 
 - But he that is spiritual judgeth all things, yet he himself is judged of no man: Back to 1 Corinthians chapter 2. Verse 15 now. That's why the Bible said that. Why? Because he's keeping the law. When you're spiritual, what was spiritual? Romans 7:14, "The law was spiritual." If you're keeping the law, that makes you spiritual. That makes you spiritual if you're keeping the law. So once you're keeping the law, you're judging all things. Why? Let's go back to 2 Timothy chapter 3 verse 16.
 
 - He that is spiritual judgeth all things: How can we fix ourselves with no rule book to judge ourselves by? I said, "He that is spiritual judgeth all things." You see somebody smoking a cigarette, "Hey bro, you're defiling your temple." You see a sister wearing pants, "Hey sis, you know you're not supposed to be wearing pants." You see a brother fornicating with another sister, "Hey, the scriptures talk about being a fornicator, brother." No fornicator going to get the kingdom of heaven. "Hey, you be lying, bro. You need to stop doing that." All of these things a spiritual man is going to judge all things.
 
 - Yet he himself is judged of no man: Why? Because he's keeping the law. What are you going to judge him on? Him doing what? That's why when we point out people's sins on the street, they say, "But what, do you sin?" I can see your sin right now. But now you want to try to come to me and say, "Well, do you sin? Do you sin? Have you ever committed fornication? Have you ever slept with a woman you weren't married?" Of course we did. That's what's called repentance. That's why instead of being a fornicator, we became husbands. That's why instead of sleeping around with a bunch of women, we married one woman to avoid fornication. That's the change. That's the conversion. That's why a lot of our people are the wise, the prudent, the rich, the noble. That's why a lot of them are not going to change because they're comfortable where they are. They're comfortable.
+
+> <sup>[16](/bible/1-corinthians/2#v16)</sup> For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Christ.
 
 - For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Christ: Verse 15 again. We don't have the mind of the Lord to instruct him. We got the mind of Christ. What was the mind of Christ? Let's get that in John chapter 5 and verse 46.
 
@@ -498,16 +498,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "mental-health", "the-law", "the-
 **[2 Esdras 7:6-9](/bible/2-esdras/7#v6)**  *[[55:00](https://www.youtube.com/watch?v=gRrhGCbvUEs&t=3300s)]*
 
 > <sup>[6](/bible/2-esdras/7#v6)</sup> There is also another thing; A city is builded, and set upon a broad field, and is full of all good things:
->
-> <sup>[7](/bible/2-esdras/7#v7)</sup> The entrance thereof is narrow, and is set in a dangerous place to fall, like as if there were a fire on the right hand, and on the left a deep water:
->
-> <sup>[8](/bible/2-esdras/7#v8)</sup> And one only path between them both, even between the fire and the water, so small that there could but one man go there at once.
->
-> <sup>[9](/bible/2-esdras/7#v9)</sup> If this city now were given unto a man for an inheritance, if he never shall pass the danger set before it, how shall he receive this inheritance?
 
 - A city is builded, and set upon a broad field: So you got a city that's building. It's on a wide, broad field. But the way to get to it is very narrow. That's why Christ said, "Enter in through the straight gate." For wide is the gate that leadeth to destruction. Enter in through the straight gate.
 
+> <sup>[7](/bible/2-esdras/7#v7)</sup> The entrance thereof is narrow, and is set in a dangerous place to fall, like as if there were a fire on the right hand, and on the left a deep water:
+>
+> <sup>[8](/bible/2-esdras/7#v8)</sup> And one only path between them both, even between the fire and the water, so small that there could but one man go there at once.
+
 - So small that there could but one man go there at once: Cuz only one man can go there at once. Why? Because you can only save yourself.
+
+> <sup>[9](/bible/2-esdras/7#v9)</sup> If this city now were given unto a man for an inheritance, if he never shall pass the danger set before it, how shall he receive this inheritance?
 
 - If he never shall pass the danger set before it, how shall he receive this inheritance: Verse 9. You can't get the kingdom without going through anything. That's why 2 Timothy said that the word of God is meant for reproof, for instruction and righteousness, that the man of God may be perfect, thoroughly furnished unto all good works. You can't be thoroughly furnished unto all good works without going through trials and tribulation. Let me get that real quick. Romans chapter 5.
 

@@ -87,8 +87,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word", "unity"]
 **[1 Corinthians 2:14-15](/bible/1-corinthians/2#v14)**  *[[13:26](https://www.youtube.com/watch?v=1UYsYybqbLA&t=806s)]*
 
 > <sup>[14](/bible/1-corinthians/2#v14)</sup> But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned.
->
-> <sup>[15](/bible/1-corinthians/2#v15)</sup> But he that is spiritual judgeth all things, yet he himself is judged of no man.
 
 - Because they are spiritually discerned: So some of the things we going to read today and some of the things we read throughout the scriptures, they're spiritually discerned. You show a natural man, natural meaning sinful, he's with nature. You understand? By nature we are brute beasts.
 
@@ -112,14 +110,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word", "unity"]
 
     Hey sis, you know you can't wear those pants according to Deuteronomy 22 and 5.
 
+> <sup>[15](/bible/1-corinthians/2#v15)</sup> But he that is spiritual judgeth all things, yet he himself is judged of no man.
+
 
 **[Hebrews 7:11-12](/bible/hebrews/7#v11)**  *[[18:30](https://www.youtube.com/watch?v=1UYsYybqbLA&t=1110s)]*
 
 > <sup>[11](/bible/hebrews/7#v11)</sup> If therefore perfection were by the Levitical priesthood, (for under it the people received the law,) what further need was there that another priest should rise after the order of Melchisedec, and not be called after the order of Aaron?
->
-> <sup>[12](/bible/hebrews/7#v12)</sup> For the priesthood being changed, there is made of necessity a change also of the law.
 
 - For under it the people received the law: The law of animal sacrifice.
+
+> <sup>[12](/bible/hebrews/7#v12)</sup> For the priesthood being changed, there is made of necessity a change also of the law.
 
 - For the priesthood being changed, there is made of necessity a change also of the law: So, the priesthood being changed, remember the priest wore the mitre. Well, Christ came and died and became the high priest. He did away with the Levitical priesthood, which was attached to the temple, the temple laws, the laws on sanctification like baptism and things of that nature, cleansing, all those laws and stuff like that, those sacrifices, those ordinances, those drink offerings and meat offerings, and all those Christ did away with that in one fell swoop. When Christ died on the cross, the veil rent in two. There was no more Levitical priesthood. Christ became the high priest.
 
@@ -148,20 +148,20 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word", "unity"]
 > <sup>[41](/bible/matthew/22#v41)</sup> While the Pharisees were gathered together, Jesus asked them,
 >
 > <sup>[42](/bible/matthew/22#v42)</sup> Saying, What think ye of Christ? whose son is he? They say unto him, The Son of David.
->
-> <sup>[43](/bible/matthew/22#v43)</sup> He saith unto them, How then doth David in spirit call him Lord, saying,
->
-> <sup>[44](/bible/matthew/22#v44)</sup> The Lord said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?
->
-> <sup>[45](/bible/matthew/22#v45)</sup> If David then call him Lord, how is he his son?
->
-> <sup>[46](/bible/matthew/22#v46)</sup> And no man was able to answer him a word, neither durst any man from that day forth ask him any more questions.
 
 - What think ye of Christ? Whose son is he?: So he asked them a question. He said, "Whose son is Christ?" And they said, "Well, he the son of David."
 
+> <sup>[43](/bible/matthew/22#v43)</sup> He saith unto them, How then doth David in spirit call him Lord, saying,
+
 - How then doth David in spirit call him Lord: So the Lord said, "Well, then, how could David in the spirit call him Lord? The Lord said unto my Lord, sit thou on my right hand, till I make thine enemies thy footstool."
 
+> <sup>[44](/bible/matthew/22#v44)</sup> The Lord said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?
+>
+> <sup>[45](/bible/matthew/22#v45)</sup> If David then call him Lord, how is he his son?
+
 - If David then call him Lord, how is he his son?: He said, "Well, if David call him Lord, then how is he his son? How is he the son of David, but he's David's Lord?"
+
+> <sup>[46](/bible/matthew/22#v46)</sup> And no man was able to answer him a word, neither durst any man from that day forth ask him any more questions.
 
 - And no man was able to answer him a word: And they couldn't say, he shut them down. They couldn't say nothing.
 
@@ -180,8 +180,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word", "unity"]
 **[1 Corinthians 11:3-4](/bible/1-corinthians/11#v3)**  *[[24:02](https://www.youtube.com/watch?v=1UYsYybqbLA&t=1442s)]*
 
 > <sup>[3](/bible/1-corinthians/11#v3)</sup> But I would have you know, that the head of every man is Christ; and the head of the woman is the man; and the head of Christ is God.
->
-> <sup>[4](/bible/1-corinthians/11#v4)</sup> Every man praying or prophesying, having his head covered, dishonoureth his head.
 
 - The head of every man is Christ: Who's the head of man? The head of the man is Christ. The head of the man is Christ.
 
@@ -189,18 +187,20 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word", "unity"]
 
 - Because the Levitical priesthood in which a man had his head covered and wore the mitre, first of all, it was only for the Levites. Second of all, those men had their head covered because they were ordained to do so by the Father, by the Most High, because they had to be the Levitical priests. I know people like, "Bro, I thought I can hear 1 Corinthians 3." Well, I'm getting somewhere. I don't want to get into all this, man. I shouldn't have did this. No, it's the spirit.
 
+> <sup>[4](/bible/1-corinthians/11#v4)</sup> Every man praying or prophesying, having his head covered, dishonoureth his head.
+
 
 **[Exodus 29:6-9](/bible/exodus/29#v6)**  *[[26:27](https://www.youtube.com/watch?v=1UYsYybqbLA&t=1587s)]*
 
 > <sup>[6](/bible/exodus/29#v6)</sup> And thou shalt put the mitre upon his head, and put the holy crown upon the mitre.
->
+
+- Thou shalt put the mitre upon his head, and put the holy crown upon the mitre: So, Aaron and his sons wore the mitre with the crown on it. Okay? And they wore bonnets over their head. Bonnets over their head. That was for the priests.
+
 > <sup>[7](/bible/exodus/29#v7)</sup> Then shalt thou take the anointing oil, and pour it upon his head, and anoint him.
 >
 > <sup>[8](/bible/exodus/29#v8)</sup> And thou shalt bring his sons, and put coats upon them.
 >
 > <sup>[9](/bible/exodus/29#v9)</sup> And thou shalt gird them with girdles, Aaron and his sons, and put the bonnets on them: and the priest’s office shall be theirs for a perpetual statute: and thou shalt consecrate Aaron and his sons.
-
-- Thou shalt put the mitre upon his head, and put the holy crown upon the mitre: So, Aaron and his sons wore the mitre with the crown on it. Okay? And they wore bonnets over their head. Bonnets over their head. That was for the priests.
 
 - The priest's office shall be theirs for a perpetual statute: It was supposed to be a covenant, perpetual covenant. When Christ came along, he did away with that covenant.
 
@@ -264,10 +264,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word", "unity"]
 **[1 Corinthians 11:18-19](/bible/1-corinthians/11#v18)**  *[[36:25](https://www.youtube.com/watch?v=1UYsYybqbLA&t=2185s)]*
 
 > <sup>[18](/bible/1-corinthians/11#v18)</sup> For first of all, when ye come together in the church, I hear that there be divisions among you; and I partly believe it.
->
-> <sup>[19](/bible/1-corinthians/11#v19)</sup> For there must be also heresies among you, that they which are approved may be made manifest among you.
 
 - I hear that there be divisions among you: Y'all got divisions amongst yourselves. Even amongst some of these brothers that have their own congregation. You hear about divisions, and they split off from each other. There is no loyalty amongst these men. That's why Paul said, "I would like to go over these deep things with you, but I cannot go over it because you don't walk as spiritual, you walk as carnal," and are just moving like regular men. You're not moving like the spiritual man that God called you to be with all wisdom and understanding and power. You're not moving like that. You're moving like a child in the truth. A baby that needs a bottle. So, now we're not giving you steak and chicken. No, you drink this milk. You're on a liquid diet right now. Take the nutrients from the milk first. Then, you can graduate to learning the deeper things in the Bible. But, you ain't even done with the milk yet. Brothers want to jump straight to meat and say, "I'm a leader. I'm a elder." You're not ready for that. That's what Paul is telling the Corinthians. Y'all ain't ready for that.
+
+> <sup>[19](/bible/1-corinthians/11#v19)</sup> For there must be also heresies among you, that they which are approved may be made manifest among you.
 
 - That they which are approved may be made manifest among you: Right, they which are approved, meaning those that are able to overcome the divisions. Those that say, "I'm stepping away from the division." Hey, in all of IUIC, we teach the same thing. But here locally in IUIC Raleigh, our motto has been unity. That's all we talking about. Oh, you want to go over something deep? No, we going over unity. Until everybody in this congregation learn how to work together, learn how to forgive each other, learn how to Matthew 18 with the intent of gaining your brother, learn how to love each other, learn how to work together in your offices, unity, unity, unity. That's what we about. It is what it is. No more divisions, no more backbiting, no more debates, none of that. We not finna be like these other people that's out here in these streets claiming to be Israelites. No, we going to be the example, like the Bible says. We are going to be the example of unity, of what brother and sister working together look like. We going to be that. And anybody that's against it, get out of here. Anybody that's against unity got to go. Get out. Go start your own congregation.
 
@@ -282,11 +282,9 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word", "unity"]
 
 **[1 Timothy 3:6-7](/bible/1-timothy/3#v6)**  *[[40:18](https://www.youtube.com/watch?v=1UYsYybqbLA&t=2418s)]*
 
-> <sup>[6](/bible/1-timothy/3#v6)</sup> Not a novice, lest being lifted up with pride he fall into the condemnation of the devil.
->
-> <sup>[7](/bible/1-timothy/3#v7)</sup> Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil.
-
 - Elders make you grow up faster in the truth. What do I mean by that? Your elders have seen things that you have not yet seen. And they warn you. So, when these things come about, based off the experiences that they've gained through trial and error, they give that experience to you, and now you're able to recognize demons. You're able to recognize spirits and say, "Man, this is what Bishop was talking about. This is what the deacon meant when he said that. This is what Captain was saying." So, off their experiences, you gain experience. Off their wisdom, you learn how to deal with things. But, when you have no elders, and you're just running your mouth, teaching whatever, you have no experience. So, we don't respect that.
+
+> <sup>[6](/bible/1-timothy/3#v6)</sup> Not a novice, lest being lifted up with pride he fall into the condemnation of the devil.
 
 - Not a novice: That's what a novice do. A novice is on milk. He not ready for meat. He's still trying to learn the milk. Which he should be. That should be his focus. I'm still learning the milk. I'm still learning the basic. I'm still amazed at what our elders put together when they called it the deep basics. When you go to those deep basics, till this day, them deep basics can tear down any doctrine from any Christian church. Any Christian church run up on the IUIC, or any of you brothers and sisters out there that believe you Israel, and you can dismantle their whole congregation, confound 10,000 people in one swoop with a couple scriptures from the deep basics. So, we still learning and perfecting the basics. Do we have some understanding with some deeper things? Yeah, but even to that we don't even know how deep they go. But our elders do. Because they've been doing this. So, as a young child in this truth, as a babe in this truth, the best thing to do is just shut the hell up and learn. Teach the basics. Apply the basics.
 
@@ -300,14 +298,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word", "unity"]
 
     If you want to examine and see where somebody is in this truth, level wise, go to the scripture right here and then look at their life and see if they apply it. That ye may grow thereby. How do you grow? Laying aside malice and guile and hypocrisies and envyings and evil speakings. Ain't that what these other camps do? Ain't that what the apologetic pathetic do? Ain't that what the Christian church do? Ain't that what the nation of Islam, some not all of them, some of them brothers do? They are speaking evil about this gospel and this doctrine. The whole world coming against IUIC. And I don't want to hear that, "Oh yeah, the whole world ain't coming against y'all." Like Bishop said on the show last night, you don't know what IUIC has to endure and what we have to deal with behind closed doors. Some of y'all would have been folded. That's a fact. Some of these men that claim to be leaders, if they were faced with the opposition that our elders have been faced with over the years, they'd have been packed up and folded. Hell, when it was a little controversy between them and a few brothers in their camp, they left. So you ain't ready for this smoke? The real smoke when Satan coming directly at you from all angles?
 
+> <sup>[7](/bible/1-timothy/3#v7)</sup> Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil.
+
 
 **[1 Corinthians 3:2-3](/bible/1-corinthians/3#v2)**  *[[44:38](https://www.youtube.com/watch?v=1UYsYybqbLA&t=2678s)]*
 
 > <sup>[2](/bible/1-corinthians/3#v2)</sup> I have fed you with milk, and not with meat: for hitherto ye were not able to bear it, neither yet now are ye able.
->
-> <sup>[3](/bible/1-corinthians/3#v3)</sup> For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men?
 
 - Neither yet now are ye able: So you still ain't graduated yet is what he's saying. For ye are yet carnal. For whereas there is among you envying and strife and divisions, are ye not carnal, and walk as men? So he's saying you still haven't grown. I got to leave you on milk until you grow up. That's what he's saying. I got to leave you drinking milk until you grow up.
+
+> <sup>[3](/bible/1-corinthians/3#v3)</sup> For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men?
 
 
 **[Hebrews 5:12-14](/bible/hebrews/5#v12)**  *[[46:12](https://www.youtube.com/watch?v=1UYsYybqbLA&t=2772s)]*
@@ -315,14 +315,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word", "unity"]
 > <sup>[12](/bible/hebrews/5#v12)</sup> For when for the time ye ought to be teachers, ye have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat.
 >
 > <sup>[13](/bible/hebrews/5#v13)</sup> For every one that useth milk is unskilful in the word of righteousness: for he is a babe.
->
-> <sup>[14](/bible/hebrews/5#v14)</sup> But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.
 
 - For every one that useth milk is unskilful in the word of righteousness: for he is a babe: Why does it say for everyone that uses milk is unskillful in the word of righteousness? I'mma show you. Let me show you why it says those that use milk are still unskillful in the word of righteousness.
 
 - I'mma show you how you unskillful in the word of righteousness when you still using milk. It's hard for you to refrain from having malice. It's hard for you to hold your tongue and not speak evil. It's hard for you to not have envy. So Paul said, if you're still struggling with not hating your brother, if you're still struggling with not backbiting and speaking evil of a person behind their back, if you're still having a problem with malice and strife, you're unskillful in the word of righteousness. You can know all the precepts in the world, but you'll never put them together correctly. You'll never be able to understand it, explain it so that other people can understand, cuz you're still struggling with the basics. You're still unskillful in the word of righteousness cuz you have not overcome your envy. You have not overcome your strife. You're still using the milk to try to help you deal with stuff that you should be over by now.
 
 - Peter said when you apply the scriptures, when you apply 1 Peter 2 and 1, putting away the malice and the guile and the evil speakings and the envies, you become skillful and grow. When you don't apply those things, you stay right there where you at as a babe and that's why you're not growing. That's why you're right there where you at. You have a couple people come in but they'll leave you eventually. Cuz they'll see you have nothing to provide them. Or you'll gather together vagabonds. You'll gather together unclean spirits.
+
+> <sup>[14](/bible/hebrews/5#v14)</sup> But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.
 
 - But strong meat belongeth to them that are of full age: So, strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern good and evil. Why? Cuz they used the basics for a very long time. That milk, they graduated from that milk because they've overcome malice, envy, evil speaking, guile. Those things are behind them now. So, now they can graduate to the meat cuz they can actually digest the meat of the scriptures now. They're no longer unskillful in the word of righteousness. Now they're able to discern when you don't know how to use the milk. They can see, "Oh, this dude I want to go back and forth with, this guy's a babe." How you know you're a babe? He can't even apply the scriptures about not having envy and strife. He can't even apply the scriptures about dealing with his brother right. He won't even apply the scriptures about Matthew 18. He had a argument with his brother and wouldn't even say nothing. He's a babe.
 
@@ -346,8 +346,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word", "unity"]
 **[1 Corinthians 3:4-5](/bible/1-corinthians/3#v4)**  *[[51:28](https://www.youtube.com/watch?v=1UYsYybqbLA&t=3088s)]*
 
 > <sup>[4](/bible/1-corinthians/3#v4)</sup> For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?
->
-> <sup>[5](/bible/1-corinthians/3#v5)</sup> Who then is Paul, and who is Apollos, but ministers by whom ye believed, even as the Lord gave to every man?
 
 - For while one saith, I am of Paul; and another, I am of Apollos: What? Paul and Apollos was teaching the same thing, bro. Paul taught Aquila and Priscilla, and then they dealt with the brother Apollos, and then Paul set them up and sent them to Corinth to build them men and women up. Then the men and women in the church start to do what? Choose sides. They start to choose sides on who they was rolling with. "I learned from Paul." "Well, okay, I hear what you're saying, but I learned from Apollos. That's my favorite teacher." Like, what the hell? They're teaching the same thing. These brothers in the spirit, and y'all back home battling over which one the better teacher. Who cares?
 
@@ -357,20 +355,22 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word", "unity"]
 
 - I was listening to Clubhouse the other day, one of the officers from Montgomery camp brought out a cold ass precept. It stopped me in my tracks. I was walking and I heard it and I said, "Hold up, what do you say?" I got to highlight that junk real quick. That's a cold precept right there. I ain't had that one. THAT'S HOW IT IS. WHO CARES? CARNAL, YOU STILL using milk. You a babe. That's what that means. You are a babe. Unskillful in the word of righteousness and guess what? I'm still a babe, too. Still learning.
 
+> <sup>[5](/bible/1-corinthians/3#v5)</sup> Who then is Paul, and who is Apollos, but ministers by whom ye believed, even as the Lord gave to every man?
+
 
 **[1 Corinthians 1:10-13](/bible/1-corinthians/1#v10)**  *[[54:18](https://www.youtube.com/watch?v=1UYsYybqbLA&t=3258s)]*
 
 > <sup>[10](/bible/1-corinthians/1#v10)</sup> Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment.
->
-> <sup>[11](/bible/1-corinthians/1#v11)</sup> For it hath been declared unto me of you, my brethren, by them which are of the house of Chloe, that there are contentions among you.
->
-> <sup>[12](/bible/1-corinthians/1#v12)</sup> Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ.
->
-> <sup>[13](/bible/1-corinthians/1#v13)</sup> Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?
 
 - That ye be perfectly joined together in the same mind and in the same judgment: Why he got to keep repeating that throughout this letter? Because the Corinthians struggled with that. He said y'all got to be in the same mind and in the same judgment.
 
+> <sup>[11](/bible/1-corinthians/1#v11)</sup> For it hath been declared unto me of you, my brethren, by them which are of the house of Chloe, that there are contentions among you.
+
 - That there are contentions among you: They contentious.
+
+> <sup>[12](/bible/1-corinthians/1#v12)</sup> Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ.
+>
+> <sup>[13](/bible/1-corinthians/1#v13)</sup> Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?
 
 - Is Christ divided? was Paul crucified for you?: You hear what Paul said? He said, "Man, y'all tripping. Is Christ divided? Was Paul crucified for you? Were you baptized in the name of Paul? Why some of y'all saying I'm of Paul, I'm of Cephas, I'm of Apollos, I'm of Christ? All of y'all should be of Christ." It's the spirit of Christ that's in us. That's what he's saying and repeating in chapter three.
 
@@ -399,7 +399,9 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word", "unity"]
 **[Acts 14:11-15](/bible/acts/14#v11)**  *[[59:58](https://www.youtube.com/watch?v=1UYsYybqbLA&t=3598s)]*
 
 > <sup>[11](/bible/acts/14#v11)</sup> And when the people saw what Paul had done, they lifted up their voices, saying in the speech of Lycaonia, The gods are come down to us in the likeness of men.
->
+
+- The gods are come down to us in the likeness of men: So, Paul and Barnabas were such mighty teachers and were doing great works amongst these brothers and sisters that they wanted to make sacrifice and worship them. They said, "Man, this dude Paul is like Mercurius, because he's the chief speaker." And Barnabas is like Jupiter. They gave him names after their idol gods.
+
 > <sup>[12](/bible/acts/14#v12)</sup> And they called Barnabas, Jupiter; and Paul, Mercurius, because he was the chief speaker.
 >
 > <sup>[13](/bible/acts/14#v13)</sup> Then the priest of Jupiter, which was before their city, brought oxen and garlands unto the gates, and would have done sacrifice with the people.
@@ -407,8 +409,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word", "unity"]
 > <sup>[14](/bible/acts/14#v14)</sup> Which when the apostles, Barnabas and Paul, heard of, they rent their clothes, and ran in among the people, crying out,
 >
 > <sup>[15](/bible/acts/14#v15)</sup> And saying, Sirs, why do ye these things? We also are men of like passions with you, and preach unto you that ye should turn from these vanities unto the living God, which made heaven, and earth, and the sea, and all things that are therein:
-
-- The gods are come down to us in the likeness of men: So, Paul and Barnabas were such mighty teachers and were doing great works amongst these brothers and sisters that they wanted to make sacrifice and worship them. They said, "Man, this dude Paul is like Mercurius, because he's the chief speaker." And Barnabas is like Jupiter. They gave him names after their idol gods.
 
 - We also are men of like passions with you: He said, "Sirs, why do you these things? We also are men of like passions with you and preach unto you that you should turn from these vanities unto the living God." He said, "Look, we just ministers by whom you believe. We not special. We just men that the Lord put the spirit on to teach you. That's it. Freely we have received, freely we give."
 
@@ -418,10 +418,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word", "unity"]
 **[1 Corinthians 8:1-3](/bible/1-corinthians/8#v1)**  *[[1:02:29](https://www.youtube.com/watch?v=1UYsYybqbLA&t=3749s)]*
 
 > <sup>[1](/bible/1-corinthians/8#v1)</sup> Now as touching things offered unto idols, we know that we all have knowledge. Knowledge puffeth up, but charity edifieth.
->
-> <sup>[2](/bible/1-corinthians/8#v2)</sup> And if any man think that he knoweth any thing, he knoweth nothing yet as he ought to know.
->
-> <sup>[3](/bible/1-corinthians/8#v3)</sup> But if any man love God, the same is known of him.
 
 - Knowledge puffeth up, but charity edifieth: And if any man think that he knoweth any thing, he knoweth nothing yet as he ought to know. But if any man love God, the same is known of him.
 
@@ -431,16 +427,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word", "unity"]
 
     The precept with that. Right, be humble. Be humble, that's what that means. Don't think of yourself more highly than you ought to think. It's by the graces of the Lord IUIC is where it is. It's by the graces of the Lord that he put the spirit on the bishops years ago to continue in this truth and to endure unto this day. It's by the grace of the Lord that the deacons are doing what they're doing, the captains are doing what they're doing. We understand that. You're the one saying, "Oh, you guys exalt yourself above everybody else." No, we don't. You just see the Lord's spirit on us. And you become envious because of that, because you are a babe. Because you are about division and you're not about unity. "We don't want war with you guys." Yes, you do. Cuz you're speaking evil.
 
+> <sup>[2](/bible/1-corinthians/8#v2)</sup> And if any man think that he knoweth any thing, he knoweth nothing yet as he ought to know.
+>
+> <sup>[3](/bible/1-corinthians/8#v3)</sup> But if any man love God, the same is known of him.
+
 
 **[1 Corinthians 3:6-9](/bible/1-corinthians/3#v6)**  *[[1:04:01](https://www.youtube.com/watch?v=1UYsYybqbLA&t=3841s)]*
 
 > <sup>[6](/bible/1-corinthians/3#v6)</sup> I have planted, Apollos watered; but God gave the increase.
->
-> <sup>[7](/bible/1-corinthians/3#v7)</sup> So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase.
->
-> <sup>[8](/bible/1-corinthians/3#v8)</sup> Now he that planteth and he that watereth are one: and every man shall receive his own reward according to his own labour.
->
-> <sup>[9](/bible/1-corinthians/3#v9)</sup> For we are labourers together with God: ye are God’s husbandry, ye are God’s building.
 
 - I have planted, Apollos watered; but God gave the increase: Paul was used to plant the doctrine of Christ in the Corinthian church. Can show you that in Acts 18 at the beginning of the chapter. At the end of Acts 18, Apollos comes on the scene. He didn't know Christ. He was teaching the baptism of John with all authority, but the brother knew the scriptures. So, when Priscilla and Aquila seen the brother, they said, "Hey, this dude on point. We need to tell Paul about him." And they showed him Christ in the scriptures like, "Hey, everything you've been bringing out, you're on point, but hey, look, that's the son of God you're reading about right there. Look, that's Christ right there. He's right there. He's in Isaiah, he's in Jeremiah." Apollos' mind was blown. "Damn! Hey, I'm teaching Christ now. What I need to do?" And then the Apostle Paul put him to work. Sent him here, sent him there, sent him to Corinth.
 
@@ -450,9 +444,15 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word", "unity"]
 
 - That's why Paul said, "Look, I taught first, Apollos came and built upon that foundation. He watered that plant. I planted the seed, he watered the seed, and now the Lord is the one that has given the increase." That's it. That's why we can't get puffed up thinking that we more than we are cuz we're not. Cuz we don't control when a person repents. After the Sabbath, we stood people up and say, "Hey, shalom Most High Christ bless, brother. Where you visiting from?" "I'm visiting from right here in Jackson, Mississippi." "Oh, yeah? How long you been watching?" "4 years." "Okay. Hey, sister, where you from?" "Oh, I'm right down the road from Mendenhall, Mississippi." "Okay. How long you been watching?" "3 years." "Okay. Well, what made you come today?" "Oh, well, it was time." How many times we hear that, John? ("All the time, Cap.") It was time. Today was the day. So, all praise to the Most High. So, the Lord drew you here. All praises. You understand? So, that's what we going into in 1 Corinthians chapter 3.
 
+> <sup>[7](/bible/1-corinthians/3#v7)</sup> So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase.
+>
+> <sup>[8](/bible/1-corinthians/3#v8)</sup> Now he that planteth and he that watereth are one: and every man shall receive his own reward according to his own labour.
+
 - Now he that planteth and he that watereth are one: We on one accord. Me and Apollos on one accord. That's what he's saying.
 
 - And every man shall receive his own reward according to his own labour: You got to put in work. Apollos putting in work just like I'm putting in work. The Lord will reward us how he see fit in that time. But in the meantime, we are together. We are unified. We are one and God gives the increase.
+
+> <sup>[9](/bible/1-corinthians/3#v9)</sup> For we are labourers together with God: ye are God’s husbandry, ye are God’s building.
 
 - Ye are God's husbandry, ye are God's building: You are God's husbandry. You are God's garden. You are God's vineyard.
 

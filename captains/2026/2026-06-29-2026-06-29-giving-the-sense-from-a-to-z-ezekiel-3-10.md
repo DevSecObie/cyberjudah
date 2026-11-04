@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Ezekiel 3:10"
 slug: "2026/2026-06-29-giving-the-sense-from-a-to-z-ezekiel-3-10"
 date: "2026-06-29"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "Giving The Sense From A to Z · 2026-06-29"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "captivity", "the-word"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2026-06-29 · Captain Emmanuel</p>
+<p class="taught">Giving The Sense From A to Z · 2026-06-29 · Captain Immanuel</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Ezek 3](/bible/ezekiel/3) · [Ezek 1](/bible/ezekiel/1) · [2 Kgs 24](/bible/2-kings/24) · [Jer 29](/bible/jeremiah/29) · [Jer 24](/bible/jeremiah/24) · [2 Esdras 5](/bible/2-esdras/5) · [Ezek 33](/bible/ezekiel/33)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "captivity", "the-word"]
 
 ## Introduction
 
-*[[19:02](https://www.youtube.com/watch?v=WHc14b0lpLA&t=1142s)]* Shalom Israel, most high in Christ bless. Welcome to another edition of Giving the Sense from A to Z. Today you got myself, Captain Emmanuel, Arkansas. And today we going to pick up in Ezekiel chapter 3. All right, let's open up with Nehemiah 8:8.
+*[[19:02](https://www.youtube.com/watch?v=WHc14b0lpLA&t=1142s)]* Shalom Israel, most high in Christ bless. Welcome to another edition of Giving the Sense from A to Z. Today you got myself, Captain Immanuel, Arkansas. And today we going to pick up in Ezekiel chapter 3. All right, let's open up with Nehemiah 8:8.
 
 ## Scriptures Opened
 
@@ -106,14 +106,14 @@ tags: ["15 Minutes w/ The Captains", "captivity", "the-word"]
 **[Ezekiel 1:1-3](/bible/ezekiel/1#v1)**  *[[30:32](https://www.youtube.com/watch?v=WHc14b0lpLA&t=1832s)]*
 
 > <sup>[1](/bible/ezekiel/1#v1)</sup> Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river of Chebar, that the heavens were opened, and I saw visions of God.
->
-> <sup>[2](/bible/ezekiel/1#v2)</sup> In the fifth day of the month, which was the fifth year of king Jehoiachin’s captivity,
->
-> <sup>[3](/bible/ezekiel/1#v3)</sup> The word of the Lord came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the Lord was there upon him.
 
 - As I was among the captives by the river of Chebar: Right? So remember that too. By the river of Chebar, we going to touch on that later as well. All right. So Ezekiel was among the captives.
 
+> <sup>[2](/bible/ezekiel/1#v2)</sup> In the fifth day of the month, which was the fifth year of king Jehoiachin’s captivity,
+
 - Which was the fifth year of king Jehoiachin's captivity: Right? The fifth year of King Jehoiachin's captivity. So that was the second siege of Babylon. All right. You had the first one in 606, and this one was in 598, or some say 597. So in the fifth year, that would place in around 593, that's when the Lord put the spirit on Ezekiel, like we're reading here.
+
+> <sup>[3](/bible/ezekiel/1#v3)</sup> The word of the Lord came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the Lord was there upon him.
 
 - In the land of the Chaldeans: In the land of the Chaldeans, meaning Babylon.
 
@@ -131,18 +131,12 @@ tags: ["15 Minutes w/ The Captains", "captivity", "the-word"]
 > <sup>[11](/bible/2-kings/24#v11)</sup> And Nebuchadnezzar king of Babylon came against the city, and his servants did besiege it.
 >
 > <sup>[12](/bible/2-kings/24#v12)</sup> And Jehoiachin the king of Judah went out to the king of Babylon, he, and his mother, and his servants, and his princes, and his officers: and the king of Babylon took him in the eighth year of his reign.
->
+
+- He and his mother, and his servants: He and his mother. So his mother would be the queen at this time. We going to show y'all that, too.
+
 > <sup>[13](/bible/2-kings/24#v13)</sup> And he carried out thence all the treasures of the house of the Lord, and the treasures of the king’s house, and cut in pieces all the vessels of gold which Solomon king of Israel had made in the temple of the Lord, as the Lord had said.
 >
 > <sup>[14](/bible/2-kings/24#v14)</sup> And he carried away all Jerusalem, and all the princes, and all the mighty men of valour, even ten thousand captives, and all the craftsmen and smiths: none remained, save the poorest sort of the people of the land.
->
-> <sup>[15](/bible/2-kings/24#v15)</sup> And he carried away Jehoiachin to Babylon, and the king’s mother, and the king’s wives, and his officers, and the mighty of the land, those carried he into captivity from Jerusalem to Babylon.
->
-> <sup>[16](/bible/2-kings/24#v16)</sup> And all the men of might, even seven thousand, and craftsmen and smiths a thousand, all that were strong and apt for war, even them the king of Babylon brought captive to Babylon.
->
-> <sup>[17](/bible/2-kings/24#v17)</sup> And the king of Babylon made Mattaniah his father’s brother king in his stead, and changed his name to Zedekiah.
-
-- He and his mother, and his servants: He and his mother. So his mother would be the queen at this time. We going to show y'all that, too.
 
 - And he carried away all Jerusalem, and all the princes: All the princes. So he telling you what he kind of already told you in verse 12, but it's going to highlight more, going into what I said about the caliber of people that he chose to take during this siege. On verse 12, it said his mother, his servants, his princes, and his officers. Now verse 14 is going to go, it's going to be more detailed.
 
@@ -152,18 +146,24 @@ tags: ["15 Minutes w/ The Captains", "captivity", "the-word"]
 
 - Even all the men of might: So it's reiterating it, right? All the men of might. All those that were strong and ready for war.
 
+> <sup>[15](/bible/2-kings/24#v15)</sup> And he carried away Jehoiachin to Babylon, and the king’s mother, and the king’s wives, and his officers, and the mighty of the land, those carried he into captivity from Jerusalem to Babylon.
+>
+> <sup>[16](/bible/2-kings/24#v16)</sup> And all the men of might, even seven thousand, and craftsmen and smiths a thousand, all that were strong and apt for war, even them the king of Babylon brought captive to Babylon.
+>
+> <sup>[17](/bible/2-kings/24#v17)</sup> And the king of Babylon made Mattaniah his father’s brother king in his stead, and changed his name to Zedekiah.
+
 - And the king of Babylon made Mattaniah his father's brother king in his stead, and changed his name to Zedekiah: Right? So the uncle of Jehoiachin, who he took into captivity, became Babylon's puppet king that they set over Jerusalem. All right? And he changed his name to Zedekiah.
 
 
 **[Jeremiah 29:1-2](/bible/jeremiah/29#v1)**  *[[34:20](https://www.youtube.com/watch?v=WHc14b0lpLA&t=2060s)]*
 
 > <sup>[1](/bible/jeremiah/29#v1)</sup> Now these are the words of the letter that Jeremiah the prophet sent from Jerusalem unto the residue of the elders which were carried away captives, and to the priests, and to the prophets, and to all the people whom Nebuchadnezzar had carried away captive from Jerusalem to Babylon;
->
-> <sup>[2](/bible/jeremiah/29#v2)</sup> (After that Jeconiah the king, and the queen, and the eunuchs, the princes of Judah and Jerusalem, and the carpenters, and the smiths, were departed from Jerusalem;)
 
 - The letter that Jeremiah the prophet sent from Jerusalem: So Jeremiah was one of the prophets that stayed back. He was left. Now he had the option, when you read the history in Jeremiah 41 I believe it is, he had the option to go with the captives to Babylon, but he chose to stay.
 
 - And to the priests, and to the prophets: Right? So Jeremiah 29:1 adds a category that was left out in Kings. It says the priests and the prophets. Again, Ezekiel falls into that.
+
+> <sup>[2](/bible/jeremiah/29#v2)</sup> (After that Jeconiah the king, and the queen, and the eunuchs, the princes of Judah and Jerusalem, and the carpenters, and the smiths, were departed from Jerusalem;)
 
 - After that Jeconiah the king, and the queen: Right? So the queen here is who? His mother. All right. The king's wives were not considered queens. You understand? It was always the mother of the king that would hold that title. And that's not something that we would use, you understand, to endear the women or whatever the case. That was just the terminology for their position as the king's mother.
 
@@ -173,20 +173,12 @@ tags: ["15 Minutes w/ The Captains", "captivity", "the-word"]
 **[Jeremiah 24:1-6](/bible/jeremiah/24#v1)**  *[[36:52](https://www.youtube.com/watch?v=WHc14b0lpLA&t=2212s)]*
 
 > <sup>[1](/bible/jeremiah/24#v1)</sup> The Lord shewed me, and, behold, two baskets of figs were set before the temple of the Lord, after that Nebuchadrezzar king of Babylon had carried away captive Jeconiah the son of Jehoiakim king of Judah, and the princes of Judah, with the carpenters and smiths, from Jerusalem, and had brought them to Babylon.
->
-> <sup>[2](/bible/jeremiah/24#v2)</sup> One basket had very good figs, even like the figs that are first ripe: and the other basket had very naughty figs, which could not be eaten, they were so bad.
->
-> <sup>[3](/bible/jeremiah/24#v3)</sup> Then said the Lord unto me, What seest thou, Jeremiah? And I said, Figs; the good figs, very good; and the evil, very evil, that cannot be eaten, they are so evil.
->
-> <sup>[4](/bible/jeremiah/24#v4)</sup> Again the word of the Lord came unto me, saying,
->
-> <sup>[5](/bible/jeremiah/24#v5)</sup> Thus saith the Lord, the God of Israel; Like these good figs, so will I acknowledge them that are carried away captive of Judah, whom I have sent out of this place into the land of the Chaldeans for their good.
->
-> <sup>[6](/bible/jeremiah/24#v6)</sup> For I will set mine eyes upon them for good, and I will bring them again to this land: and I will build them, and not pull them down; and I will plant them, and not pluck them up.
 
 - Behold, two baskets of figs: So why did the Lord set it up that way? Why did he have the mighty people, the mighty men of Jerusalem and so on and so forth be taken, but the poor sort of the people left in the land? What was the Lord's design? Now remember, this was the Babylonian captivity, and the Lord said that they would serve Babylon for 70 years. So watch this. Two baskets of figs.
 
 - Jeconiah the son of Jehoiakim: So Jeconiah is Jehoiachin, or Jehoachin. Same person.
+
+> <sup>[2](/bible/jeremiah/24#v2)</sup> One basket had very good figs, even like the figs that are first ripe: and the other basket had very naughty figs, which could not be eaten, they were so bad.
 
 - One basket had very good figs: Right. So one basket had good figs in it.
 
@@ -194,13 +186,21 @@ tags: ["15 Minutes w/ The Captains", "captivity", "the-word"]
 
 - What seest thou, Jeremiah? What you see, Jeremiah?
 
+> <sup>[3](/bible/jeremiah/24#v3)</sup> Then said the Lord unto me, What seest thou, Jeremiah? And I said, Figs; the good figs, very good; and the evil, very evil, that cannot be eaten, they are so evil.
+
 - Figs; the good figs, very good: Right. I see some good figs. Some very good figs right here.
 
 - And the evil, very evil, that cannot be eaten: Right? They probably had some worms crawling on them or something, like, these wicked damn evil disgusting figs right here. So, you got the two separate baskets.
 
+> <sup>[4](/bible/jeremiah/24#v4)</sup> Again the word of the Lord came unto me, saying,
+>
+> <sup>[5](/bible/jeremiah/24#v5)</sup> Thus saith the Lord, the God of Israel; Like these good figs, so will I acknowledge them that are carried away captive of Judah, whom I have sent out of this place into the land of the Chaldeans for their good.
+
 - Like these good figs, so will I acknowledge them that are carried away captive of Judah: Right? So, the captives that Ezekiel was among, those were the good basket. The good figs represented that bunch that was carried captive.
 
 - For their good: For their good, right? That yes, they was evil. They deserve to be taken into captivity, but that's the remnant that the Lord wanted to keep to bring back into the land after the Babylonian captivity was served. You understand? That's why it was the mighty, the princes, the prophets, so on and so forth. All right? And remember, a part of the judgments was: I got to besiege your land. I got to cause famine. People got to eat each other. The land gonna be destroyed. You understand? So that's why it says for their good. They was taken out before all of that destruction came to Jerusalem in 586 BC with that puppet king Zedekiah. So the people that was left in the land, you would think, "Oh, those are the ones who had God's favor." No, those were the other basket. Those were the evil figs. You understand? The Lord wanted them to encounter the worst judgment, which was the final siege of Babylon.
+
+> <sup>[6](/bible/jeremiah/24#v6)</sup> For I will set mine eyes upon them for good, and I will bring them again to this land: and I will build them, and not pull them down; and I will plant them, and not pluck them up.
 
 - And I will bring them again to this land: Right? And that came to pass during the Persian captivity. And it's also twofold too. So that was just giving a sense behind why Ezekiel... the Lord told Ezekiel, "Get thee unto the captivity." All right? Because Ezekiel was among the captives that was taken with King Jehoiachin in 598 or 597 BC.
 
@@ -208,14 +208,14 @@ tags: ["15 Minutes w/ The Captains", "captivity", "the-word"]
 **[2 Esdras 5:16-18](/bible/2-esdras/5#v16)**  *[[40:47](https://www.youtube.com/watch?v=WHc14b0lpLA&t=2447s)]*
 
 > <sup>[16](/bible/2-esdras/5#v16)</sup> And in the second night it came to pass, that Salathiel the captain of the people came unto me, saying, Where hast thou been? and why is thy countenance so heavy?
->
-> <sup>[17](/bible/2-esdras/5#v17)</sup> Knowest thou not that Israel is committed unto thee in the land of their captivity?
->
-> <sup>[18](/bible/2-esdras/5#v18)</sup> Up then, and eat bread, and forsake us not, as the shepherd that leaveth his flock in the hands of cruel wolves.
 
 - Salathiel the captain of the people came unto me: So now we going to another prophet in a different captivity that had the same responsibility to deal with the captives that he was among.
 
 - Knowest thou not that Israel is committed unto thee in the land of their captivity? Right? So Israel was committed unto Ezra the priest, who was also a prophet. They're committed unto you in the land of our captivity.
+
+> <sup>[17](/bible/2-esdras/5#v17)</sup> Knowest thou not that Israel is committed unto thee in the land of their captivity?
+>
+> <sup>[18](/bible/2-esdras/5#v18)</sup> Up then, and eat bread, and forsake us not, as the shepherd that leaveth his flock in the hands of cruel wolves.
 
 - Forsake us not, as the shepherd that leaveth his flock in the hands of cruel wolves: Right? So Ezra had that same responsibility that the Lord gave to Ezekiel: go and get thee to them of the captivity.
 
@@ -246,20 +246,20 @@ tags: ["15 Minutes w/ The Captains", "captivity", "the-word"]
 > <sup>[4](/bible/ezekiel/1#v4)</sup> And I looked, and, behold, a whirlwind came out of the north, a great cloud, and a fire infolding itself, and a brightness was about it, and out of the midst thereof as the colour of amber, out of the midst of the fire.
 >
 > <sup>[5](/bible/ezekiel/1#v5)</sup> Also out of the midst thereof came the likeness of four living creatures. And this was their appearance; they had the likeness of a man.
->
-> <sup>[6](/bible/ezekiel/1#v6)</sup> And every one had four faces, and every one had four wings.
->
-> <sup>[7](/bible/ezekiel/1#v7)</sup> And their feet were straight feet; and the sole of their feet was like the sole of a calf’s foot: and they sparkled like the colour of burnished brass.
->
-> <sup>[8](/bible/ezekiel/1#v8)</sup> And they had the hands of a man under their wings on their four sides; and they four had their faces and their wings.
->
-> <sup>[9](/bible/ezekiel/1#v9)</sup> Their wings were joined one to another; they turned not when they went; they went every one straight forward.
 
 - The likeness of four living creatures: Four living creatures.
 
 - They had the likeness of a man: They had the likeness of a man. So they had the likeness of a man, but they wasn't like Joe Blow. They was, you know what I'm saying? They was extraterrestrial.
 
+> <sup>[6](/bible/ezekiel/1#v6)</sup> And every one had four faces, and every one had four wings.
+>
+> <sup>[7](/bible/ezekiel/1#v7)</sup> And their feet were straight feet; and the sole of their feet was like the sole of a calf’s foot: and they sparkled like the colour of burnished brass.
+
 - They sparkled like the colour of burnished brass: So that's the likeness of men that they had. They were black men. Just angelic.
+
+> <sup>[8](/bible/ezekiel/1#v8)</sup> And they had the hands of a man under their wings on their four sides; and they four had their faces and their wings.
+>
+> <sup>[9](/bible/ezekiel/1#v9)</sup> Their wings were joined one to another; they turned not when they went; they went every one straight forward.
 
 - Their wings were joined one to another: And their wings were joined one to another. That's why it said in Ezekiel 3, the living creatures that touched one another.
 
@@ -345,31 +345,31 @@ tags: ["15 Minutes w/ The Captains", "captivity", "the-word"]
 
 **[Ezekiel 33:2-7](/bible/ezekiel/33#v2)**  *[[55:04](https://www.youtube.com/watch?v=WHc14b0lpLA&t=3304s)]*
 
-> <sup>[2](/bible/ezekiel/33#v2)</sup> Son of man, speak to the children of thy people, and say unto them, When I bring the sword upon a land, if the people of the land take a man of their coasts, and set him for their watchman:
->
-> <sup>[3](/bible/ezekiel/33#v3)</sup> If when he seeth the sword come upon the land, he blow the trumpet, and warn the people;
->
-> <sup>[4](/bible/ezekiel/33#v4)</sup> Then whosoever heareth the sound of the trumpet, and taketh not warning; if the sword come, and take him away, his blood shall be upon his own head.
->
-> <sup>[5](/bible/ezekiel/33#v5)</sup> He heard the sound of the trumpet, and took not warning; his blood shall be upon him. But he that taketh warning shall deliver his soul.
->
-> <sup>[6](/bible/ezekiel/33#v6)</sup> But if the watchman see the sword come, and blow not the trumpet, and the people be not warned; if the sword come, and take any person from among them, he is taken away in his iniquity; but his blood will I require at the watchman’s hand.
->
-> <sup>[7](/bible/ezekiel/33#v7)</sup> So thou, O son of man, I have set thee a watchman unto the house of Israel; therefore thou shalt hear the word at my mouth, and warn them from me.
-
 - We go to Ezekiel 33 and verse two. The Lord breaks it down.
+
+> <sup>[2](/bible/ezekiel/33#v2)</sup> Son of man, speak to the children of thy people, and say unto them, When I bring the sword upon a land, if the people of the land take a man of their coasts, and set him for their watchman:
 
 - If the people of the land take a man of their coasts, and set him for their watchman: Right? If the people of the land take a man from the coast, and they select him to be the watchman.
 
+> <sup>[3](/bible/ezekiel/33#v3)</sup> If when he seeth the sword come upon the land, he blow the trumpet, and warn the people;
+
 - He blow the trumpet, and warn the people: So this is literal. He see the sword, the threat that's coming to destroy us. He blows the trumpet and warns the people.
+
+> <sup>[4](/bible/ezekiel/33#v4)</sup> Then whosoever heareth the sound of the trumpet, and taketh not warning; if the sword come, and take him away, his blood shall be upon his own head.
 
 - His blood shall be upon his own head: That's his fault. He should have listened to the sound of the trumpet. It was time to retreat and resort to the safe haven. But if he ignored the trumpet and he died, that's his fault.
 
+> <sup>[5](/bible/ezekiel/33#v5)</sup> He heard the sound of the trumpet, and took not warning; his blood shall be upon him. But he that taketh warning shall deliver his soul.
+
 - But he that taketh warning shall deliver his soul: He that hearkens to the trumpet shall deliver his soul from the sword.
+
+> <sup>[6](/bible/ezekiel/33#v6)</sup> But if the watchman see the sword come, and blow not the trumpet, and the people be not warned; if the sword come, and take any person from among them, he is taken away in his iniquity; but his blood will I require at the watchman’s hand.
 
 - But if the watchman see the sword come, and blow not the trumpet: But if the watchman see the threat coming, and he don't blow the trumpet, and the people be not warned. Right? Because that's how the people would be warned. So if he don't blow the trumpet... that's why the Lord said we got to exalt our voice like a trumpet. You understand? Spiritual. So if the people don't hear the trumpet because the watchman didn't blow it like he was supposed to, and the people be not warned...
 
 - But his blood will I require at the watchman's hand: But his blood is going to be on a watchman's hand. That watchman is going to be guilty and held accountable for all them lives that was lost cuz he didn't do his job.
+
+> <sup>[7](/bible/ezekiel/33#v7)</sup> So thou, O son of man, I have set thee a watchman unto the house of Israel; therefore thou shalt hear the word at my mouth, and warn them from me.
 
 - So thou, O son of man, I have set thee a watchman unto the house of Israel: So the Lord broke it down so Ezekiel could understand the severity of his job as a prophet. He used, I guess you could say, the analogy of a literal watchman that had that responsibility for a city. The Lord said, "That's what I'm making you to the nation of Israel, right? As a prophet."
 

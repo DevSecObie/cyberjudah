@@ -2,7 +2,7 @@
 title: "What Did Christ Fulfill?"
 slug: "2026/2026-01-09-what-did-christ-fulfill"
 date: "2026-01-09"
-teacher: "Captain Naam"
+teacher: "Captain Nahshon"
 description: "15 Minutes w/ The Captains · 2026-01-09"
 tags: ["15 Minutes w/ The Captains", "christ", "the-law"]
 ---
@@ -79,12 +79,12 @@ Reading from a definition of fulfill  *[[1:52](https://www.youtube.com/watch?v=t
 **[Hebrews 2:17-18](/bible/hebrews/2#v17)**  *[[7:06](https://www.youtube.com/watch?v=tO8cnLyM95U&t=426s)]*
 
 > <sup>[17](/bible/hebrews/2#v17)</sup> Wherefore in all things it behoved him to be made like unto his brethren, that he might be a merciful and faithful high priest in things pertaining to God, to make reconciliation for the sins of the people.
->
-> <sup>[18](/bible/hebrews/2#v18)</sup> For in that he himself hath suffered being tempted, he is able to succour them that are tempted.
 
 - Wherefore in all things it behoved him to be made like unto his brethren: didn't it say the same thing back in Deuteronomy? It behooved Christ to be made like his brethren. The 12 tribes. Meaning he came just like us, showing us that we can follow after his footsteps. He was born just like us. He kept the laws, showing us that example that we can do the same thing.
 
 - to make reconciliation for the sins of the people: he left that example for us to come back unto the Father, because we left doing the law, statutes and commandments. We started following other gods. We started following these other nations. We started being in idolatry. So he left this example for us, showing that we can follow law, statutes, and commandments.
+
+> <sup>[18](/bible/hebrews/2#v18)</sup> For in that he himself hath suffered being tempted, he is able to succour them that are tempted.
 
 - he is able to succour them that are tempted: that's why Moses told the children of Israel that we needed Christ to come and give us that example, showing us that we can do it. That's why he was born of us, like us.
 
@@ -99,10 +99,10 @@ Reading from a definition of fulfill  *[[1:52](https://www.youtube.com/watch?v=t
 **[Luke 1:68-69](/bible/luke/1#v68)**  *[[10:04](https://www.youtube.com/watch?v=tO8cnLyM95U&t=604s)]*
 
 > <sup>[68](/bible/luke/1#v68)</sup> Blessed be the Lord God of Israel; for he hath visited and redeemed his people,
->
-> <sup>[69](/bible/luke/1#v69)</sup> And hath raised up an horn of salvation for us in the house of his servant David;
 
 - for he hath visited and redeemed his people: the Lord hath visited and redeemed his people.
+
+> <sup>[69](/bible/luke/1#v69)</sup> And hath raised up an horn of salvation for us in the house of his servant David;
 
 - in the house of his servant David: in the house of his servant David.
 
@@ -119,16 +119,16 @@ Reading from a definition of fulfill  *[[1:52](https://www.youtube.com/watch?v=t
 > <sup>[8](/bible/2-esdras/13#v8)</sup> And after this I beheld, and, lo, all they which were gathered together to subdue him were sore afraid, and yet durst fight.
 >
 > <sup>[9](/bible/2-esdras/13#v9)</sup> And, lo, as he saw the violence of the multitude that came, he neither lifted up his hand, nor held sword, nor any instrument of war:
->
-> <sup>[10](/bible/2-esdras/13#v10)</sup> But only I saw that he sent out of his mouth as it had been a blast of fire, and out of his lips a flaming breath, and out of his tongue he cast out sparks and tempests.
->
-> <sup>[11](/bible/2-esdras/13#v11)</sup> And they were all mixed together; the blast of fire, the flaming breath, and the great tempest; and fell with violence upon the multitude which was prepared to fight, and burned them up every one, so that upon a sudden of an innumerable multitude nothing was to be perceived, but only dust and smell of smoke: when I saw this I was afraid.
 
 - he neither lifted up his hand, nor held sword: so it's still going into he will not meet thee as a man. This is more future prophecy. This one right here in particular is written by Ezra, but my point is showing that the prophets wrote of Christ to come.
 
 - nor any instrument of war: they going to try to fight against the Lord. The Lord going to come back to seek vengeance upon this earth for his people, and they going to try to fight against the Lord. But remember what we read back in Isaiah. He say, I'm not going to meet you as a man. None of their tanks, none of their guns, none of they AR-15s, they nukes, nothing is going to be able to work against the Lord.
 
+> <sup>[10](/bible/2-esdras/13#v10)</sup> But only I saw that he sent out of his mouth as it had been a blast of fire, and out of his lips a flaming breath, and out of his tongue he cast out sparks and tempests.
+
 - he sent out of his mouth as it had been a blast of fire: so this is more prophecies that the Lord still have to come back and fulfill. This is the role and the duty.
+
+> <sup>[11](/bible/2-esdras/13#v11)</sup> And they were all mixed together; the blast of fire, the flaming breath, and the great tempest; and fell with violence upon the multitude which was prepared to fight, and burned them up every one, so that upon a sudden of an innumerable multitude nothing was to be perceived, but only dust and smell of smoke: when I saw this I was afraid.
 
 - and fell with violence upon the multitude which was prepared to fight: it fell with much violence against the multitude that was prepared to fight.
 
@@ -140,12 +140,6 @@ Reading from a definition of fulfill  *[[1:52](https://www.youtube.com/watch?v=t
 > <sup>[15](/bible/psalms/22#v15)</sup> My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou hast brought me into the dust of death.
 >
 > <sup>[16](/bible/psalms/22#v16)</sup> For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.
->
-> <sup>[17](/bible/psalms/22#v17)</sup> I may tell all my bones: they look and stare upon me.
->
-> <sup>[18](/bible/psalms/22#v18)</sup> They part my garments among them, and cast lots upon my vesture.
->
-> <sup>[19](/bible/psalms/22#v19)</sup> But be not thou far from me, O Lord: O my strength, haste thee to help me.
 
 - For dogs have compassed me: the other nations is called dogs. Dogs have compassed them.
 
@@ -153,9 +147,15 @@ Reading from a definition of fulfill  *[[1:52](https://www.youtube.com/watch?v=t
 
 - they pierced my hands and my feet: who got their hands and their feet pierced? The Lord did. That's how you know this is talking about Christ. This is back in the Psalms. These are things that had to be fulfilled. The things that was predicted for the Lord to come and fulfill, the role and the duty he had to fulfill. This is what he's talking about in Matthew 5:17. Not you can do whatever the hell you want now. That don't even make sense.
 
+> <sup>[17](/bible/psalms/22#v17)</sup> I may tell all my bones: they look and stare upon me.
+
 - I may tell all my bones: we was able to see the Lord's bones when they pierced him.
 
+> <sup>[18](/bible/psalms/22#v18)</sup> They part my garments among them, and cast lots upon my vesture.
+
 - They part my garments among them, and cast lots upon my vesture: hold that. Watch this.
+
+> <sup>[19](/bible/psalms/22#v19)</sup> But be not thou far from me, O Lord: O my strength, haste thee to help me.
 
 
 **[Matthew 27:35](/bible/matthew/27#v35)**  *[[16:11](https://www.youtube.com/watch?v=tO8cnLyM95U&t=971s)]*
@@ -172,14 +172,14 @@ Reading from a definition of fulfill  *[[1:52](https://www.youtube.com/watch?v=t
 **[John 19:28-30](/bible/john/19#v28)**  *[[17:40](https://www.youtube.com/watch?v=tO8cnLyM95U&t=1060s)]*
 
 > <sup>[28](/bible/john/19#v28)</sup> After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, saith, I thirst.
->
-> <sup>[29](/bible/john/19#v29)</sup> Now there was set a vessel full of vinegar: and they filled a spunge with vinegar, and put it upon hyssop, and put it to his mouth.
->
-> <sup>[30](/bible/john/19#v30)</sup> When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost.
 
 - Jesus knowing that all things were now accomplished: Jesus knowing that all things was now accomplished, now fulfilled.
 
 - that the scripture might be fulfilled: that the scriptures might be fulfilled. Let God's word be true, and every man a liar.
+
+> <sup>[29](/bible/john/19#v29)</sup> Now there was set a vessel full of vinegar: and they filled a spunge with vinegar, and put it upon hyssop, and put it to his mouth.
+>
+> <sup>[30](/bible/john/19#v30)</sup> When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost.
 
 - It is finished: so he said, It is finished. Meaning he fulfilled what he came to do. He fulfilled the role and the duty, and he carried out the task of the things that was spoken and written of him with Moses, with the prophets, and in the psalms.
 

@@ -65,13 +65,13 @@ Some subjects get much attention, and there are other subjects that do not get q
 **[Deuteronomy 28:65-67](/bible/deuteronomy/28#v65)**  *[[33:25](https://www.youtube.com/watch?v=jsT6wS00jmw&t=2005s)]*
 
 > <sup>[65](/bible/deuteronomy/28#v65)</sup> And among these nations shalt thou find no ease, neither shall the sole of thy foot have rest: but the Lord shall give thee there a trembling heart, and failing of eyes, and sorrow of mind:
->
-> <sup>[66](/bible/deuteronomy/28#v66)</sup> And thy life shall hang in doubt before thee; and thou shalt fear day and night, and shalt have none assurance of thy life:
->
-> <sup>[67](/bible/deuteronomy/28#v67)</sup> In the morning thou shalt say, Would God it were even! and at even thou shalt say, Would God it were morning! for the fear of thine heart wherewith thou shalt fear, and for the sight of thine eyes which thou shalt see.
 
 - Among these nations shalt thou find no ease, neither shall the sole of thy foot have rest: everywhere we go, we are not quite home. We are always being pushed on: move on, get from here, get from there. We have never experienced being home at all. The only time I got some experience of that is when I came to this truth and the brothers told me, welcome home. That felt like home, because I knew I was in the right ship that is going to take us all home.
+
 - The Lord shall give thee there a trembling heart, and failing of eyes, and sorrow of mind. Failing of eyes means you cannot envision how you are going to end up; you cannot envision a future for your children, where you will be next month, next year. No hope. Sorrow of mind is experiencing a terrible situation you cannot do anything to change, and you just have to experience the sorrow in it.
+
+> <sup>[66](/bible/deuteronomy/28#v66)</sup> And thy life shall hang in doubt before thee; and thou shalt fear day and night, and shalt have none assurance of thy life:
+
 - And thy life shall hang in doubt before thee: in chattel slavery our lives were in doubt every day. Every day there was a chance we would be killed.
 
   Precepts:
@@ -80,7 +80,10 @@ Some subjects get much attention, and there are other subjects that do not get q
 
     Thy sons and thy daughters shall be given unto another people. That could have happened at any moment: your son ripped out of your arms and sold, and you will never see your children again, and there shall be no might in thine hand. A bottle of whiskey would not stop that. They did not have that. They had to endure this thing sober, knowing the Lord is still going to be with us somehow, so I cannot off myself, because a generation is going to come from me.
   - Record recounted in class: the mother made to wash the master's clothes stained with her lynched son's blood, and even she could not give up. So what excuse do we have today?
+
 - In the morning thou shalt say, would God it were even, and at even, would God it were morning. What helped our brothers and sisters make it from night to morning each day with the uncertainty of their lives? Faith. They sang swing low, sweet chariot in the fields and believed those spirituals, not knowing when deliverance would come. And they did not even have the truth like we know it today; whatever little bit they learned, they gleaned from the back of the white man's lying churches, until we got brothers like Nat Turner that started teaching.
+
+> <sup>[67](/bible/deuteronomy/28#v67)</sup> In the morning thou shalt say, Would God it were even! and at even thou shalt say, Would God it were morning! for the fear of thine heart wherewith thou shalt fear, and for the sight of thine eyes which thou shalt see.
 
 <div class="reading">
 
@@ -206,28 +209,35 @@ King gave the mountaintop speech the night before he was assassinated, saying I 
 
 **[Psalms 83:2-8](/bible/psalms/83#v2)**  *[[1:46:43](https://www.youtube.com/watch?v=jsT6wS00jmw&t=6403s)]*
 
+- They that hate thee have lifted up their head: our enemies hate God and hate the Israelites, because our Father chose us to be a special people unto himself above all people on the planet earth. What are you doing with your head in the bottle with that kind of love coming from the Father?
+
 > <sup>[2](/bible/psalms/83#v2)</sup> For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.
 >
 > <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
->
+
+- They have taken crafty counsel against thy people: and the counsel is so crafty that we may be thinking we can never get out of this, which is exactly what it is designed to make you think. The hatred and the oppression are designed to break black men down, to make you believe the order is fixed and you can only succumb. And if they cannot keep you subservient, they want to make your life so crazy it drives you to drugs, to alcohol, to fornication and adultery, destroying your nation and your family.
+
+- And consulted against thy hidden ones: they make us the hidden ones. We are God's people, and they do not like that. But we have to relish the fact that we are the children of God and act accordingly. The bodies we have, God gave us; we are not supposed to abuse them with alcohol, drugs, or overeating. Ye are gods; but yet we are looking like something else. As a man thinketh, his whole life, his body, and his family will reflect it.
+
+- On the body: being fat is not normal, and you are not supposed to be happy with it. The young men of valor come out of the streets with all that temptation around them and take the discipline programs seriously, and their objective is to meet the standards of the men above them. When they look up and see the next tier going backwards, what does that do for their aspirations? You can be whatever you are today, but get better; that is the standard. Many brothers and sisters have burned the fat off and now they can look back and say, I did it. That is achievement.
+
 > <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
->
+
+- Let us cut them off from being a nation: the way they cut us off from being a nation is to get between you and what is actually going to save you, between you and your salvation, your God, your nation, your family.
+
 > <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
->
+
+- For they have consulted together with one consent: all of the nations are in agreement to make sure we stay ignorant, drunk, and drugged. Look at the music they give us, and the liquor stores all over the place, and ask where the library is.
+
+- They are confederate against thee: the tabernacles of Edom, that is the white man leading all the rest of the nations in this; the Ishmaelites, the Arabs with shops all through our communities; Moab, and the rest. You go to Africa and see the same hands: during the scramble for Africa they made sure Africa could not manufacture its own materials, so colonizers take the raw materials, manufacture them, and sell the goods back at prices the people cannot pay, and the IMF loans finish the takeover. That is a brief hit list in this psalm; God is going to deal with all of them.
+
+- But the question is, what do we do? Do we walk away from the job of fixing it and go to a bottle? Regardless of how bleak you think the future is, you are still obligated as a man to seek to fix the problem. Seek for the answers. Organize. Discipline yourselves. Change your mental state, change your conversations, change your circle. Get with brothers and sisters that understand the mission, and the Most High will intervene and begin to show you the way. The Lord did not bring us this far to leave us here.
+
 > <sup>[6](/bible/psalms/83#v6)</sup> The tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes;
 >
 > <sup>[7](/bible/psalms/83#v7)</sup> Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;
 >
 > <sup>[8](/bible/psalms/83#v8)</sup> Assur also is joined with them: they have holpen the children of Lot. Selah.
-
-- They that hate thee have lifted up their head: our enemies hate God and hate the Israelites, because our Father chose us to be a special people unto himself above all people on the planet earth. What are you doing with your head in the bottle with that kind of love coming from the Father?
-- They have taken crafty counsel against thy people: and the counsel is so crafty that we may be thinking we can never get out of this, which is exactly what it is designed to make you think. The hatred and the oppression are designed to break black men down, to make you believe the order is fixed and you can only succumb. And if they cannot keep you subservient, they want to make your life so crazy it drives you to drugs, to alcohol, to fornication and adultery, destroying your nation and your family.
-- And consulted against thy hidden ones: they make us the hidden ones. We are God's people, and they do not like that. But we have to relish the fact that we are the children of God and act accordingly. The bodies we have, God gave us; we are not supposed to abuse them with alcohol, drugs, or overeating. Ye are gods; but yet we are looking like something else. As a man thinketh, his whole life, his body, and his family will reflect it.
-- On the body: being fat is not normal, and you are not supposed to be happy with it. The young men of valor come out of the streets with all that temptation around them and take the discipline programs seriously, and their objective is to meet the standards of the men above them. When they look up and see the next tier going backwards, what does that do for their aspirations? You can be whatever you are today, but get better; that is the standard. Many brothers and sisters have burned the fat off and now they can look back and say, I did it. That is achievement.
-- Let us cut them off from being a nation: the way they cut us off from being a nation is to get between you and what is actually going to save you, between you and your salvation, your God, your nation, your family.
-- For they have consulted together with one consent: all of the nations are in agreement to make sure we stay ignorant, drunk, and drugged. Look at the music they give us, and the liquor stores all over the place, and ask where the library is.
-- They are confederate against thee: the tabernacles of Edom, that is the white man leading all the rest of the nations in this; the Ishmaelites, the Arabs with shops all through our communities; Moab, and the rest. You go to Africa and see the same hands: during the scramble for Africa they made sure Africa could not manufacture its own materials, so colonizers take the raw materials, manufacture them, and sell the goods back at prices the people cannot pay, and the IMF loans finish the takeover. That is a brief hit list in this psalm; God is going to deal with all of them.
-- But the question is, what do we do? Do we walk away from the job of fixing it and go to a bottle? Regardless of how bleak you think the future is, you are still obligated as a man to seek to fix the problem. Seek for the answers. Organize. Discipline yourselves. Change your mental state, change your conversations, change your circle. Get with brothers and sisters that understand the mission, and the Most High will intervene and begin to show you the way. The Lord did not bring us this far to leave us here.
 
 **[Ezekiel 35:5](/bible/ezekiel/35#v5)**  *[[2:05:10](https://www.youtube.com/watch?v=jsT6wS00jmw&t=7510s)]*
 
@@ -246,12 +256,13 @@ King gave the mountaintop speech the night before he was assassinated, saying I 
 
 **[Romans 13:3-4](/bible/romans/13#v3)**  *[[2:09:24](https://www.youtube.com/watch?v=jsT6wS00jmw&t=7764s)]*
 
-> <sup>[3](/bible/romans/13#v3)</sup> For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same:
->
-> <sup>[4](/bible/romans/13#v4)</sup> For he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that doeth evil.
-
 - The Most High put this power over us because we refused to keep his commandments. The rebuke is being sent on us by God through Esau, because we refuse to return. Why would the Lord put his own people in a climate of hate? To agitate us, to cause us to ask God what we did wrong. And once you recognize it, he says, now you have it; let me show you the blueprint on how to get out.
+
+> <sup>[3](/bible/romans/13#v3)</sup> For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same:
+
 - Rulers are not a terror to good works: we are going to go through persecution and trials, but it is our faith in knowing there is a day of restitution, a day when we do not have to deal with this anymore, that is a comfort while we are in our captivity, just like our brothers and sisters in slavery. They had that perseverance without knowing the Bible the way we do; we are much more equipped to know what is coming, and we act like we do not know.
+
+> <sup>[4](/bible/romans/13#v4)</sup> For he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that doeth evil.
 
 **[Jeremiah 30:11](/bible/jeremiah/30#v11)**  *[[2:12:12](https://www.youtube.com/watch?v=jsT6wS00jmw&t=7932s)]*
 

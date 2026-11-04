@@ -18,13 +18,9 @@ tags: ["Our Hidden History", "captivity"]
 
 ## Introduction
 
-*[[16:43](https://www.youtube.com/watch?v=QJa3l2eTGIM&t=1003s)]* Shalom, shalom, Israel. We're back. You're now tuned into Our Hidden History radio show. Shalom. Officer Jazz, filling in for the Deacon, man. All praises. It's always a pleasure. But I might have a little issue right now going on. I got to choose a reader, and I got to choose somebody to read the Bible, and I'm have to choose somebody to read the articles.
+*[[16:43](https://www.youtube.com/watch?v=QJa3l2eTGIM&t=1003s)]* Shalom, shalom, Israel. We're back. You're now tuned into Our Hidden History radio show. Shalom. Officer Jazz, filling in for the Deacon, man. It's always a pleasure.
 
-**Officer:** Congratulations. You got to cast lots.
-
-**Officer Jazz:** Hey, shout out to the leadership wherever y'all are, doing the travels, doing the work. All praise. Shout out to the Deacon's class yesterday. Savage. All praises.
-
-*[[17:22](https://www.youtube.com/watch?v=QJa3l2eTGIM&t=1042s)]* So today we going to change it up a little bit. I want to land back. I'm going to take a trip back a little bit with the slave ships. I want to deal with the slave ships, just bring out a little something about that. And then we're going to go into those UFOs, the whole hysteria that's going on as far as the UFO craze right now, and the drones over Jersey, like the Deacon touched on yesterday. So we're going to dive into that a little bit today. What they're seeing today was always around. It's nothing new. Remember, the scripture say it's nothing new under the sun. Get that for me. Oh shoot, I ain't choose my reading. All right. All praise. First lot.
+*[[17:22](https://www.youtube.com/watch?v=QJa3l2eTGIM&t=1042s)]* So today we going to change it up a little bit. I want to land back. I'm going to take a trip back a little bit with the slave ships. I want to deal with the slave ships, just bring out a little something about that. And then we're going to go into those UFOs, the whole hysteria that's going on as far as the UFO craze right now, and the drones over Jersey, like the Deacon touched on yesterday. So we're going to dive into that a little bit today. What they're seeing today was always around. It's nothing new. Remember, the scripture say it's nothing new under the sun. Get that for me.
 
 ## Readings and Scriptures
 
@@ -36,7 +32,7 @@ tags: ["Our Hidden History", "captivity"]
 
 - And that which is done is that which shall be done. And the same: whatever was done in the past shall be done also in the future.
 
-- Read that again. There's no new thing under the sun. There's nothing under the sun that you can say, yo, that's new. Wow.
+- There's no new thing under the sun. There's nothing under the sun that you can say, yo, that's new.
 
 - So we're going to dive into the UFOs. Was they always around, and what were they really called? Were they called UFOs? Were they called UAPs? Did the government always know about it? So we're gonna get into that.
 
@@ -54,7 +50,7 @@ tags: ["Our Hidden History", "captivity"]
 
 - So when we was docked off, the Lord put us on slave ships for breaking his laws. And when we came over here, on this side of the world, on those slave ships, he also sold us. So when we docked off in various parts of Charleston, South Carolina, and Virginia, even here in Philly, even in Louisiana, when we docked off in those various places, we were sold to our enemies.
 
-*[[21:53](https://www.youtube.com/watch?v=QJa3l2eTGIM&t=1313s)]* All right, now give me the book real quick. So this is an Edomite. She wanted to know some history on slavery in the northeastern part of South Carolina, so she went from an area where she was from, near Florence, South Carolina, called Mars Bluff. So she went into some extensive research, and she came across this older brother right here who told her a lot of history about how we were in slavery and so forth, and his grandfather, who was a slave in this same area. So this is called African-Americans at Mars Bluff, South Carolina, by Amelia Wallace Vernon. Next page. Read that.
+*[[21:53](https://www.youtube.com/watch?v=QJa3l2eTGIM&t=1313s)]* All right, now give me the book real quick. So this is an Edomite. She wanted to know some history on slavery in the northeastern part of South Carolina, so she went from an area where she was from, near Florence, South Carolina, called Mars Bluff. So she went into some extensive research, and she came across this older brother right here who told her a lot of history about how we were in slavery and so forth, and his grandfather, who was a slave in this same area. So this is called African-Americans at Mars Bluff, South Carolina, by Amelia Wallace Vernon.
 
 Oh snap. You got to cast another lot. First off, let's read with some energy, man. Let's bring some energy to it.
 
@@ -144,7 +140,7 @@ Reading from *African-Americans at Mars Bluff, South Carolina* by Amelia Wallace
 
 > He say about three shiploads of them people come over here that he know of.
 
-- Hold on. He giving you how many ships he know of. So his grandfather knew of only three slave ships that he personally know of that came into Georgetown.
+- He giving you how many ships he know of. So his grandfather knew of only three slave ships that he personally know of that came into Georgetown.
 
 > And I say how long the ship was. He say, well, it take most a day to unload it, because upstairs and downstairs.
 
@@ -168,7 +164,7 @@ Reading from *African-Americans at Mars Bluff, South Carolina* by Amelia Wallace
 
 - Why you reading it chopped up like that?
 
-- **Officer:** My bad. He trying to read it like he's saying it.
+- **Officer:** He trying to read it like he's saying it.
 
 - **Officer Jazz:** So he like, yo, that's what my grandfather told me. That's just the way it is. At that time, that's just the way it was. That's how it was. We came over here on slave ship from Africa, we got unloaded, we was sold, brought us back on a mule to Mars Bluff, and he like, look, you call me boss, you call my wife Missy. That's just how it is.
 
@@ -202,7 +198,7 @@ Reading from *African-Americans at Mars Bluff, South Carolina* by Amelia Wallace
 >
 > <sup>[10](/bible/daniel/1#v10)</sup> And the prince of the eunuchs said unto Daniel, I fear my lord the king, who hath appointed your meat and your drink: for why should he see your faces worse liking than the children which are of your sort? then shall ye make me endanger my head to the king.
 
-- You see that? Why? Because we was malnourished. So now the prince of the eunuchs is saying, look, why should a king see your face more slimmer than the others?
+- Why? Because we was malnourished. So now the prince of the eunuchs is saying, look, why should a king see your face more slimmer than the others?
 
 - Then shall ye make me endanger my head to the king. So it going to look like I'm not doing my job.
 
@@ -230,7 +226,7 @@ Reading from a definition of the barracoon, read off the screen  *[[38:40](https
 
 > In the Atlantic slave trade, captured individuals were temporarily transported to and imprisoned at barracoons along the coast of West Africa, where they awaited forced transportation across the Atlantic Ocean. A barracoon simplified the slave traders' job of keeping the people designated for slavery alive and in captivity, with the barracks being closely guarded and the captives being fed and allowed exercise.
 
-- You see that? Now the whole purpose: a barracoon simplified a slave trader's job of keeping the people destined for slavery alive and in captivity. That slave trader is like the prince of the eunuchs. With the barracks being closely guarded and the captives being fed and allowed exercise. Damn. So they can get mobile again.
+- Now the whole purpose: a barracoon simplified a slave trader's job of keeping the people destined for slavery alive and in captivity. That slave trader is like the prince of the eunuchs. With the barracks being closely guarded and the captives being fed and allowed exercise. Damn. So they can get mobile again.
 
 > The barracoons varied in size and design, from small enclosures adjacent to the businesses of European traders to larger protected buildings. The amount of time enslaved persons spent inside a barracoon depended on their health and the availability of slave ships.
 
@@ -268,7 +264,7 @@ Reading from *African-Americans at Mars Bluff, South Carolina* by Amelia Wallace
 
 > No one recorded the lives of Mars Bluff slaves in the early days of the settlement. On the other hand, the lives of European American settlers at Mars Bluff...
 
-- Go to the next page. I just want to get to the points here. Read that real quick.
+- Go to the next page. I just want to get to the points here.
 
 > Waiters made one remark about Georgetown that seemed inexplicable. He said when they, landowners at Mars Bluff, want to take those people, slaves, what working for them, back down there,
 
@@ -276,7 +272,7 @@ Reading from *African-Americans at Mars Bluff, South Carolina* by Amelia Wallace
 
 > get in touch with their families overseas,
 
-- Stop. Whoa. Read that again. Get in touch with their families overseas. So if they wanted to go back down to Georgetown, why would they want to go back to Georgetown to get in touch with their family overseas? Why? Because, guess what, they knew we was coming from Africa. So they like, yo, maybe those of our people that's being brought over as slaves now, maybe they have some type of recollection of what's going on with my family back home. So the slave, we wanted to go back to Georgetown to see if anybody that just docked off knew about our family back home. Damn.
+- Stop. Whoa. Get in touch with their families overseas. So if they wanted to go back down to Georgetown, why would they want to go back to Georgetown to get in touch with their family overseas? Why? Because, guess what, they knew we was coming from Africa. So they like, yo, maybe those of our people that's being brought over as slaves now, maybe they have some type of recollection of what's going on with my family back home. So the slave, we wanted to go back to Georgetown to see if anybody that just docked off knew about our family back home. Damn.
 
 > go to Georgetown to find out about the people down there, get in touch with them.
 
@@ -290,21 +286,21 @@ Reading from *African-Americans at Mars Bluff, South Carolina* by Amelia Wallace
 
 > But actually there would have been a possibility. In the Georgetown area, where the concentration of Africans was so great, it would have been possible for a new arrival from the same place in Africa to bring news of a family in Africa.
 
-- So she like, yo, but it would have been a possibility that may have happened. You see that? So a new arrival coming, like, damn, they may know my father, or they may know my brothers and sisters back home.
+- So she like, yo, but it would have been a possibility that may have happened. So a new arrival coming, like, damn, they may know my father, or they may know my brothers and sisters back home.
 
 > In fact, any person of the same ethnic group was considered their people.
 
-- You see that? So we even knew we were with the same tribe. So if we went back down to Georgetown, and that person say they were maybe Ibo or whatever tribe, like, yo, do you know my family? They may have had the answer for you. Yeah, I know so and so. They doing good. They doing well. They asked about you.
+- So we even knew we were with the same tribe. So if we went back down to Georgetown, and that person say they were maybe Ibo or whatever tribe, like, yo, do you know my family? They may have had the answer for you. Yeah, I know so and so. They doing good. They doing well. They asked about you.
 
 > So it was reasonable for Mars Bluff slaves to hope that a trip to Georgetown would help them get in touch with their people in Africa. They might not be able to send messages back to their homeland, but they could get news of a general sort about their ethnic group in Africa.
 
-- You see that? So we could go back to Georgetown, and whoever was dropped off, new arrivals, we could ask about our particular ethnic group and see how our family was doing, and maybe possibly get some type of connection back to our family back in Africa.
+- So we could go back to Georgetown, and whoever was dropped off, new arrivals, we could ask about our particular ethnic group and see how our family was doing, and maybe possibly get some type of connection back to our family back in Africa.
 
 - **Officer:** Hey, Officer, that's the same thing that Jeremiah sent Baruch for: to talk to the captives that were brought to Babylon. So he was giving them word from Jeremiah on what to do when they was in Babylon. Build ye houses, all these things. So it's the same stuff he was doing.
 
 - **Another officer:** I was going to ask you, 'cause it says they going to go to get in touch with their people, and they knew that their ethnic group would be coming. Would this be a way as well to prove that Esau knew who they were getting, from that same family line?
 
-- **Officer Jazz:** For example, I'mma use us coming from, say, the so-called Ibos. So if I'm Ibo and I just got dropped off here at Georgetown, possibly they getting Ibos, they getting more Ibos and bringing them over. So I'm going to connect, like, damn, they getting us from the same area. So I'm going to see if they know my family. So that's what was going on. Read on. We almost done. That's all I want, and then we could get into the UFOs.
+- **Officer Jazz:** For example, I'mma use us coming from, say, the so-called Ibos. So if I'm Ibo and I just got dropped off here at Georgetown, possibly they getting Ibos, they getting more Ibos and bringing them over. So I'm going to connect, like, damn, they getting us from the same area. So I'm going to see if they know my family. So that's what was going on. We almost done. That's all I want, and then we could get into the UFOs.
 
 > Very few African-Americans at Mars Bluff were African born. Still, that statement from Waiters, that slaves at Mars Bluff wanted news from their families in Africa, seemed to suggest that some people at Mars Bluff were African born. While people at Mars Bluff were yearning for news of their families in Africa, in Africa there was a similar yearning for contact with family members in America.
 
@@ -312,13 +308,13 @@ Reading from *African-Americans at Mars Bluff, South Carolina* by Amelia Wallace
 
 > The people prayed that the white strangers who carried their relatives off to America would bring them news of those relatives.
 
-- Whoa. Read that again. So back in Africa we was even hoping that the slave traders could tell us something about our relatives that they took. Maybe they did tell us and maybe they didn't, but we was hoping that they could tell us something.
+- Whoa. So back in Africa we was even hoping that the slave traders could tell us something about our relatives that they took. Maybe they did tell us and maybe they didn't, but we was hoping that they could tell us something.
 
 > They also prayed that the Americans bring the cloths and the rum made by our kinsmen who are there, for these will permit us to smell their presence.
 
 - That's how deep that thing went. Bring a piece of cloth or something from him.
 
-- **Officer:** Check this out. That's heavy, what you said, letting you know they got us from the same...
+- **Officer:** That's heavy, what you said, letting you know they got us from the same...
 
 - **Officer Jazz:** So think about it. I'm a slave here in America. I take a piece of clothing off of me, whatever, my scent or whatever, and I can go back to Georgetown to the slave traders, and hope, and give it to them to transport back over, and hope that it could reach my relatives back home, to let them know I'm okay. So that's what she's saying, which is heavy.
 
@@ -366,7 +362,7 @@ Reading from *African-Americans at Mars Bluff, South Carolina* by Amelia Wallace
 
 - **Officer:** In the fifth year of king Jehoiachin's captivity. So Ezekiel now was taken in the captivity of Jehoiachin as well, so he most likely also heard the words of Baruch. And even Ezekiel writes about Daniel and his captivity. So they was hearing reports from Baruch, the things that was happening with Daniel; they was hearing back from Jeremiah and Jerusalem. So it's the same stuff that we reading about in the book.
 
-- **Officer Jazz:** Hey, remember also, we were scattered throughout the four corners of the earth. So we had colonies set up, we had settlements all over the earth, since the time of the Assyrian captivity. The Deacon been going into that. Remember, we in China; we became the Scythians; we was in India. So we was always a migrating people, but mainly through captivity. So we had settlements where we can reach our tribe, our families and so forth back. And you think about it... oh man, there's a link the Bishop used. Hold on. Go to African Source. The Bishop just used this link. Matter of fact, you remember that book? The blue book.
+- **Officer Jazz:** Hey, remember also, we were scattered throughout the four corners of the earth. So we had colonies set up, we had settlements all over the earth, since the time of the Assyrian captivity. The Deacon been going into that. Remember, we in China; we became the Scythians; we was in India. So we was always a migrating people, but mainly through captivity. So we had settlements where we can reach our tribe, our families and so forth back. And you think about it... oh man, there's a link the Bishop used. Go to African Source. The Bishop just used this link. Matter of fact, you remember that book? The blue book.
 
 **Officer:** While you waiting, go to Jeremiah 29 and verse 4 and 5. So this is another example. Start from verse 1 and then jump to verse 4.
 
@@ -384,7 +380,7 @@ Reading from *African-Americans at Mars Bluff, South Carolina* by Amelia Wallace
 
 - **Officer:** 'Cause they didn't know what to do in that captivity. Not everybody knew or understood how long they was going to be in that captivity. Daniel and a few others understood by reading the letters of Jeremiah, like you read in Daniel 9. He said, I understood by the books of Jeremiah that we was going to be here 70 years. So they was getting reports back and forth from the different prophets in their homeland.
 
-- **Officer Jazz:** All praises. Hey, remember, Jeremiah didn't go to Babylon, right? So how was they knowing what was happening?
+- **Officer Jazz:** Hey, remember, Jeremiah didn't go to Babylon, right? So how was they knowing what was happening?
 
 - **Officer:** Exactly right. We were sending letters to and fro.
 
@@ -412,7 +408,7 @@ Reading from the blue book, on the Bene Ephraim and the journey of the Hebrews a
 
 - Remember, we was in Spain from the beginning. Remember Paul said, look, I'm going to try to come to y'all in Spain, 'cause we was there. So when the destruction happen, we fled to these various areas, but mainly Africa.
 
-- Oh, you got it? All praises. Post it up. Pull it up, and then we gonna get into the UFOs, man. Trying to leave with a bang.
+- Oh, you got it? Post it up. Pull it up, and then we gonna get into the UFOs, man. Trying to leave with a bang.
 
 </div>
 
@@ -422,11 +418,9 @@ Reading from the article on the Ladino Moors, the Jews of Cape Verde, the Guinea
 
 > The Ladino Moors: the Jews of Cape Verde, the Guinea Rivers and Gulf of Biafra. The decline of the Moors. The Moors of the Iberian Peninsula suffered great and incalculable losses when their centuries-old rule was brought to a violent end in Spain in 1492, following the loss of the caliphate of Granada. Beginning from the same 1492 in Spain, and in 1497 in Portugal, the exile of the original dark sons was inaugurated. The conquering European armies were filled with a strange blood lust and an incurable pathological jealousy of the Moors. It was their simple wish to dispossess the Moorish owners of the land, confiscate all their properties and enslave their bodies. It was easy and simple for them, because the fight for Iberia had been drawn across racial lines: so-called white Asiatic Europeans versus so-called black and brown Africans and Afro-Arabians.
 
-- Go down. Go down.
-
 > Finally, with the conquest of Granada in 1492 by the Spanish branch of the Crusaders, all hell was let loose on the hapless Moors living in Spain and in Portugal.
 
-- Go down. I just wanted to get to the point.
+- I just wanted to get to the point.
 
 > It so happened in 1496 and 97, the Portuguese kings herded hundreds of thousands of Jews, sent them into exile on the West African coast of Guinea and Biafra and on the islands of Cape Verde, into a life of perpetual slavery. These peculiar branch of the Iberian Moorish Hebrews were called the Ladinos. Ladino means Latinized Negroes. It was a racist term used for the black Jews of Iberia, who were soon deported to African islands and coastal settlements and used as the first slaves in the sugar plantations.
 
@@ -438,9 +432,9 @@ Reading from the article on the Ladino Moors, the Jews of Cape Verde, the Guinea
 
 *[[1:07:05](https://www.youtube.com/watch?v=QJa3l2eTGIM&t=4025s)]* Hey, put up the number. You could text us, or you can call in. The Zoom number is posted right in the corner over there. They got to click the Zoom link in the description. Just click the Zoom link if you want to call in. All right, so now we going to take a short break, but we going to take a turn. We going to get into the UFOs a little bit. So we going to take a quick break and we'll be back.
 
-*[[1:08:44](https://www.youtube.com/watch?v=QJa3l2eTGIM&t=4124s)]* The break: a reading of 2 Esdras 15, from verse 28, with the commentary. We read earlier about Armageddon. All these things is taking place, is going to happen in the so-called Middle East. That's where all this going to pop off. That's when World War III takes place. That's where the nations come together and go to war. That's what we're looking for, that's what we're waiting for, that's what we're anticipating. The nations of the dragons of Arabia: right now the Israelis are destroying and bombing the hell out of the Arabians, and they're getting pissed off, and right now they taking it. They're getting destroyed, the men, the women, the children; they're getting flattened by the Israelis and the American assistance they're receiving. But be mindful, understand that all these Arabs, of all these Muslim factions, whether it be Shia or Sunni, all these Arab nations eventually, according to prophecy, are going to come together. They're going to fight back. It's going to spark our revolution. It's going to spark our deliverance. Then a song: Jerusalem's going to burn, should have left the people alone; when Christ come back to sit on the throne, it's over and done. Then Deacon Isaac, from the set in Israel: Shalom, Israel, Most High and Christ bless. Deacon Isaac here. We are live on the set. In the back of me is the choosing of one of the Apostles, that being Matthias, who had to replace the traitor Judas Iscariot. We just shot the scene in here; it went wonderful. All praises to the Most High. We doing big things in Israel. We're working together to bring the Bible to reality, and it is coming to pass. I'm telling you, the image of the beast is going to be cast down: his voice, his image, his doctrine. We taking over. Y'all continue to support. Most High and Christ bless forever. Then a word on nationhood: and I will make them one nation. A lot of you don't understand nationality. You don't understand that this is nation time. We've been destroyed as a people. They divided us up. Divide and conquer, that was the white man's slogan. Divide them and conquer them. That's how they destroyed us as a people. But in these last days Christ is doing what... You are living in the greatest time on earth.
+*[[1:08:44](https://www.youtube.com/watch?v=QJa3l2eTGIM&t=4124s)]* The break: a reading of 2 Esdras 15, from verse 28, with the commentary. We read earlier about Armageddon. All these things is taking place, is going to happen in the so-called Middle East. That's where all this going to pop off. That's when World War III takes place. That's where the nations come together and go to war. That's what we're looking for, that's what we're waiting for, that's what we're anticipating. The nations of the dragons of Arabia: right now the Israelis are destroying and bombing the hell out of the Arabians, and they're getting pissed off, and right now they taking it. They're getting destroyed, the men, the women, the children; they're getting flattened by the Israelis and the American assistance they're receiving. But be mindful, understand that all these Arabs, of all these Muslim factions, whether it be Shia or Sunni, all these Arab nations eventually, according to prophecy, are going to come together. They're going to fight back. It's going to spark our revolution. It's going to spark our deliverance. Then a song: Jerusalem's going to burn, should have left the people alone; when Christ come back to sit on the throne, it's over and done. Then Deacon Isaac, from the set in Israel: Shalom, Israel, Most High and Christ bless. Deacon Isaac here. We are live on the set. In the back of me is the choosing of one of the Apostles, that being Matthias, who had to replace the traitor Judas Iscariot. We just shot the scene in here; it went wonderful. We doing big things in Israel. We're working together to bring the Bible to reality, and it is coming to pass. I'm telling you, the image of the beast is going to be cast down: his voice, his image, his doctrine. We taking over. Y'all continue to support. Most High and Christ bless forever. Then a word on nationhood: and I will make them one nation. A lot of you don't understand nationality. You don't understand that this is nation time. We've been destroyed as a people. They divided us up. Divide and conquer, that was the white man's slogan. Divide them and conquer them. That's how they destroyed us as a people. But in these last days Christ is doing what... You are living in the greatest time on earth.
 
-*[[1:18:38](https://www.youtube.com/watch?v=QJa3l2eTGIM&t=4718s)]* Shalom, shalom, we back. We back from the break. We got a text. We got a long text. Dang. Come on, read that.
+*[[1:18:38](https://www.youtube.com/watch?v=QJa3l2eTGIM&t=4718s)]* Shalom, shalom, we back. We back from the break. We got a text. We got a long text. Dang.
 
 **Text:** Peace, OHH. When I first started looking into my own personal history, I found a document about a historical account of the transportation of slaves from the west coast of Africa. It was stated that none of the slaves on board the ship spoke the same language.
 
@@ -452,11 +446,11 @@ Reading from the article on the Ladino Moors, the Jews of Cape Verde, the Guinea
 
 **Text:** And at that moment became somber, realizing and accepting what inevitable fate lies for them, as if it had been a story song told from generation to generation, now becoming manifestation.
 
-**Officer Jazz:** Oh, that's bad, bro. You can't just put that up there, send in that long text and don't produce the document. Repent, man. You got to prove it, bro. You got to prove it. Our sister, just please send us the document if you can, to the text message, or email. You can email at iuic.philadelphia@israelunite.org. Just text the document, where you get it from. Either or. Damn, that's bad. All praise. That's good.
+**Officer Jazz:** Oh, that's bad, bro. You can't just put that up there, send in that long text and don't produce the document. Repent, man. You got to prove it, bro. You got to prove it. Our sister, just please send us the document if you can, to the text message, or email. You can email at iuic.philadelphia@israelunite.org. Just text the document, where you get it from. Either or. Damn, that's bad. That's good.
 
 *[[1:20:20](https://www.youtube.com/watch?v=QJa3l2eTGIM&t=4820s)]* All right, hey, so now we about to get into the UFOs, so-called UFOs, and the whole drone conspiracy that's going on right now. The Deacon touched on it yesterday, so I'm about to land back a little bit. Hey, give me some drone footages and so forth. What's going on? So these is what's been happening in Jersey. This happened in Florida. Give me some of the ones in Jersey.
 
-So what's possibly going on is that a lot of it is chariots, but they trying to mix these drones in to look like they're chariots. That's what they're doing, to make it look like they're chariots as well, so it can calm down the hysteria that's going on. So everybody like, oh, look at those drones, they're drones, they're drones. Nah, those are chariots mixed in. Those was chariots, but they mixed in those drones to throw you off. That's what they're doing. Like the Deacon was bringing out yesterday, it's called a red herring. Oh, the Deacon just sent something: the video of the Tucker Carlson joint. You got it? All right.
+So what's possibly going on is that a lot of it is chariots, but they trying to mix these drones in to look like they're chariots. That's what they're doing, to make it look like they're chariots as well, so it can calm down the hysteria that's going on. So everybody like, oh, look at those drones, they're drones, they're drones. Nah, those are chariots mixed in. Those was chariots, but they mixed in those drones to throw you off. That's what they're doing. Like the Deacon was bringing out yesterday, it's called a red herring. Oh, the Deacon just sent something: the video of the Tucker Carlson joint. You got it?
 
 *[[1:21:58](https://www.youtube.com/watch?v=QJa3l2eTGIM&t=4918s)]* Hey, so we're going to dive into what's happening, and we going to show you that, look, this always been happening. Remember we brought the scripture: there's nothing new under the sun. So these chariots that's been seen all over the US, the country and so forth. Give me Zechariah 5 again. The Deacon brought it out yesterday. Zechariah 5 and verse 1, and then you can get your video and so forth.
 
@@ -504,15 +498,15 @@ So what's possibly going on is that a lot of it is chariots, but they trying to 
 
 > <sup>[10](/bible/ezekiel/35#v10)</sup> Because thou hast said, These two nations and these two countries shall be mine, and we will possess it; whereas the Lord was there:
 
-- What two countries? The land, our land: Israel and America. We was there. Israel and America, we were there. But what they say: these two nations and these two countries shall be mine. You see that? So now they calling themselves Jews in the land of Israel, in our land, and now over here in America they saying that they're the Christians.
+- What two countries? The land, our land: Israel and America. We was there. Israel and America, we were there. But what they say: these two nations and these two countries shall be mine. So now they calling themselves Jews in the land of Israel, in our land, and now over here in America they saying that they're the Christians.
 
 - They took it into possession. Colonialism.
 
 - And we will possess it. They said that they will possess it, meaning they're going to take it. They conquered us.
 
-- Whereas the Lord was there. You see that? Whereas the Lord was there. That's all I want on that.
+- Whereas the Lord was there. Whereas the Lord was there. That's all I want on that.
 
-*[[1:29:33](https://www.youtube.com/watch?v=QJa3l2eTGIM&t=5373s)]* So go back, Zechariah 5:3. So it go forth over the face of the whole earth. Hey, go back. You just posted something with the UFO sightings. Put that back up. Look where the majority of sightings are: first and foremost, here in Babylon the great. And then you got the UK, Ireland, and so forth. That's where Esau is at. But the majority of the sightings are here. Every one that stealeth shall be cut off as on this side according to it, and every one that sweareth shall be cut off as on that side according to it. Verse 4.
+*[[1:29:33](https://www.youtube.com/watch?v=QJa3l2eTGIM&t=5373s)]* So go back, Zechariah 5:3. So it go forth over the face of the whole earth. Hey, go back. You just posted something with the UFO sightings. Look where the majority of sightings are: first and foremost, here in Babylon the great. And then you got the UK, Ireland, and so forth. That's where Esau is at. But the majority of the sightings are here. Every one that stealeth shall be cut off as on this side according to it, and every one that sweareth shall be cut off as on that side according to it. Verse 4.
 
 **[Zechariah 5:4](/bible/zechariah/5#v4)**  *[[1:30:25](https://www.youtube.com/watch?v=QJa3l2eTGIM&t=5425s)]*
 
@@ -530,11 +524,11 @@ So what's possibly going on is that a lot of it is chariots, but they trying to 
 
 - And houses, and take them away. So he oppress a man in his house, even a man and his heritage. They take our identity and they become us. Culture vultures. They become us. They oppress a man in his house, and they oppress us in our heritage.
 
-*[[1:31:55](https://www.youtube.com/watch?v=QJa3l2eTGIM&t=5515s)]* So from there, go back. Finish that verse, and then you can get your video. And into the house of him that sweareth falsely by my name. You see that? Swear falsely by the Lord's name. And it shall remain in the midst of his house. Put that map back up. It shall remain in the midst of his house that he stole. So that's why you seeing so many UFO sightings here in America. That's why you're seeing it. That's why it's a hysteria, a craze going on right now over the drones and so forth of Jersey, because there's mass UFO sightings that's happening right now. But what we're going to show you is that it's always been happening. It's not nothing new.
+*[[1:31:55](https://www.youtube.com/watch?v=QJa3l2eTGIM&t=5515s)]* So from there, go back. Finish that verse, and then you can get your video. And into the house of him that sweareth falsely by my name. Swear falsely by the Lord's name. And it shall remain in the midst of his house. Put that map back up. It shall remain in the midst of his house that he stole. So that's why you seeing so many UFO sightings here in America. That's why you're seeing it. That's why it's a hysteria, a craze going on right now over the drones and so forth of Jersey, because there's mass UFO sightings that's happening right now. But what we're going to show you is that it's always been happening. It's not nothing new.
 
 *[[1:32:54](https://www.youtube.com/watch?v=QJa3l2eTGIM&t=5574s)]* So, Officer, you could pop it off with your video.
 
-**Officer:** Yes sir. Put that first video up, that I put the arrow on. So just like Officer Jazz has been saying, it's a lot of things been going on in the news lately. You see that they've been having hearings; I think it was like for three weeks straight they was having a hearing on the UFOs that's been popping up everywhere. So like the scripture says in Mark 4, there's nothing hidden that will not be revealed. They've been calling us crazy for a long time, but now if you don't know what's going on in the skies, you look crazy yourself. So this is from a news channel called Redacted, and they're going to show a clip of something that happened with an airline that everybody was wondering about. They're going to say the name of the airline. Go ahead, press play.
+**Officer:** Yes sir. Put that first video up, that I put the arrow on. So just like Officer Jazz has been saying, it's a lot of things been going on in the news lately. You see that they've been having hearings; I think it was like for three weeks straight they was having a hearing on the UFOs that's been popping up everywhere. So like the scripture says in Mark 4, there's nothing hidden that will not be revealed. They've been calling us crazy for a long time, but now if you don't know what's going on in the skies, you look crazy yourself. So this is from a news channel called Redacted, and they're going to show a clip of something that happened with an airline that everybody was wondering about. They're going to say the name of the airline.
 
 <div class="reading">
 
@@ -546,7 +540,7 @@ Reading from a clip from the news channel Redacted, on the UFO hearings and Mala
 
 > Again, he's an admiral. He sees it all. And by the way, he's specifically been on the beat talking about all of the underwater UFOs...
 
-- **Officer:** Hold on, hold on. Underwater UFO videos. They not only have the ones that's flying in the skies, or those little videos on TikTok. They got video of these UFOs flying underwater.
+- **Officer:** Underwater UFO videos. They not only have the ones that's flying in the skies, or those little videos on TikTok. They got video of these UFOs flying underwater.
 
 - **Officer Jazz:** Wait, didn't a senator from Jersey, I think he was a senator, didn't he say it was like 50 of them that came from the waters?
 
@@ -554,17 +548,17 @@ Reading from a clip from the news channel Redacted, on the UFO hearings and Mala
 
 > ...all of the underwater UFOs in the ocean off of US Navy craft. They see them regularly. Talk to any person on destroyers for any length of time; they've all seen them, by the way. Journalist Michael Shellenberger said we have full motion video, FLIR camera videos, infrared videos of UFOs. And by the way, he talked about low earth orbit satellites. So we have all of these low earth orbit satellites that are able to capture in color these UFOs. Full color video, just like this.
 
-- **Officer:** Regularly. They just like, oh, there. Okay. No, that's nothing. Just UFOs.
+- **Officer:** Regularly. They just like, oh, there. No, that's nothing. Just UFOs.
 
-- **Officer:** Pause real quick. Now he's about to show you. He said that they have actual satellite imagery of these UFOs when they're flying in the sky. So there was a whistleblower that came out. There was an airline that went missing about 10 years ago: Malaysia Airlines. They actually have a whole Netflix series on the Malaysia Airlines, saying, oh, where did it go? We don't know. They went to the spot on the ocean where they say it went missing; they said, oh, we couldn't find no crash, we don't know what happened to it. So a whistleblower comes out 10 years later and shows the satellite image of what happened to that airline. So now let's see what happened.
+- **Officer:** Now he's about to show you. He said that they have actual satellite imagery of these UFOs when they're flying in the sky. So there was a whistleblower that came out. There was an airline that went missing about 10 years ago: Malaysia Airlines. They actually have a whole Netflix series on the Malaysia Airlines, saying, oh, where did it go? We don't know. They went to the spot on the ocean where they say it went missing; they said, oh, we couldn't find no crash, we don't know what happened to it. So a whistleblower comes out 10 years later and shows the satellite image of what happened to that airline. So now let's see what happened.
 
 > Whistleblower, of course. This is MH370, the missing Malaysian Airlines. And watch as the three UFOs in perfect triangular formation come right around MH370, and zoom. There's the second one, and here the third UFO comes in.
 
-- **Officer Jazz:** Hey, stop, stop. Hold on. I want y'all to look up how fast an airline travels. Average, 500, maybe 300 miles an hour, 500. You don't have to look it up; just keep going. But my point is, they travel fast.
+- **Officer Jazz:** Hey, stop, stop. I want y'all to look up how fast an airline travels. Average, 500, maybe 300 miles an hour, 500. You don't have to look it up; just keep going. But my point is, they travel fast.
 
 > You'll watch as then, of course, using this etheric energy, the zero point technologies, make the craft disappear. And so the United States government is responsible for this. Watch as the airliner disappears, right here, I believe right after this cloud. Watch. Here we go. This is unbelievable video, and it's been confirmed. This is 10-year-old video, by the way.
 
-- **Officer:** Pause. So this airline, 10 years ago they said they didn't know what happened to it, but the video shows UFOs start circling around it and make it disappear. So there's been a lot of things going on that people don't know. That's why we was talking about Mark 4: there's nothing hid that will not be revealed. There's a lot of things going on that Esau knows, but he's not going to reveal it to the public. Now go to that second video, with Tucker Carlson. We got the time stamps there.
+- **Officer:** So this airline, 10 years ago they said they didn't know what happened to it, but the video shows UFOs start circling around it and make it disappear. So there's been a lot of things going on that people don't know. That's why we was talking about Mark 4: there's nothing hid that will not be revealed. There's a lot of things going on that Esau knows, but he's not going to reveal it to the public. Now go to that second video, with Tucker Carlson. We got the time stamps there.
 
 - **Officer:** So we got airlines disappearing. This wasn't a cargo airline. This was actual people on that airline. Those people are gone. I don't know where they went, but they're gone.
 
@@ -576,7 +570,7 @@ Reading from a clip of Tucker Carlson on The Joe Rogan Experience, on what the U
 
 > The deeper level is, what are... okay, so if they're spiritual beings...
 
-- **Officer:** Pause quick. Tucker Carlson, he was on Fox News, I believe it was Fox and Friends, and he was actually fired from there for talking about the Ukrainian war, how America's hiding stuff between Zelensky and what Putin's actual motives are. So he got fired from there and started his own podcast. And from the whole Trump administration, he's been taking Tucker Carlson everywhere now. So Tucker Carlson has been around more higher up people, so now he's beginning to talk about some things publicly. Watch this.
+- **Officer:** Pause quick. Tucker Carlson, he was on Fox News, I believe it was Fox and Friends, and he was actually fired from there for talking about the Ukrainian war, how America's hiding stuff between Zelensky and what Putin's actual motives are. So he got fired from there and started his own podcast. And from the whole Trump administration, he's been taking Tucker Carlson everywhere now. So Tucker Carlson has been around more higher up people, so now he's beginning to talk about some things publicly.
 
 > ...like it's a binary. You're either on team good or team bad. You can assign any name to it you want, but like, what are these things? Are they good or bad? And I think some of them are bad. And if the US government knows that, or elements, the people within the US government know that, then they're serving a bad force.
 
@@ -590,7 +584,7 @@ Reading from a clip of Tucker Carlson on The Joe Rogan Experience, on what the U
 
 > And people have been hurt by these things.
 
-- **Officer:** Press pause. He said people have been hurt by these things. We just saw one where a whole airline went missing, but he's saying that they have on record that these chariots have hurt and killed people. Press play.
+- **Officer:** Press pause. He said people have been hurt by these things. We just saw one where a whole airline went missing, but he's saying that they have on record that these chariots have hurt and killed people.
 
 > It's a fact. It's a provable fact. And killed. And I'm not saying millions of people have been killed by whatever these things are, but people have been killed, and it's known, because it's working its way through the courts.
 
@@ -610,7 +604,7 @@ Reading from a clip of Tucker Carlson on The Joe Rogan Experience, on what the U
 
 - **Officer Jazz:** Or they're the white man's technology.
 
-- **Officer:** Right. That's what they say too: oh, this has to be secret technology that America is not giving to the people. But he's saying everybody knew, prior to America declaring itself as God, like the scripture says in Isaiah 14. Everyone has known this. Play on.
+- **Officer:** That's what they say too: oh, this has to be secret technology that America is not giving to the people. But he's saying everybody knew, prior to America declaring itself as God, like the scripture says in Isaiah 14. Everyone has known this. Play on.
 
 > And that's the world that we have grown up in, but that's an anomaly. No one else has ever thought that. There's never been a society that thought that. Every other society has assumed, and they've had all kinds of different explanations, and the details differ, but the core idea does not differ, and never has differed, from caves until now: that we're being acted on by spiritual forces.
 
@@ -632,7 +626,7 @@ Reading from two videos of the lights over the skies: New York, December 19th, p
 >
 > Something's going up real fast. Something is going on. I can't tell what it is.
 
-- **Officer Jazz:** That's the drone right there. That's the chariot. Watch this.
+- **Officer Jazz:** That's the drone right there. That's the chariot.
 
 > Oh, is that moving quick? That could be a drone. I don't know what the hell that is.
 
@@ -654,11 +648,11 @@ Reading from *UFO: The Continuing Enigma*, on chariots in the skies through hist
 
 > The miniature from the Mahabharata shows the conflict between Arjuna and Karna. Karna, like his father the sun, had only one wheel on his airborne chariot.
 
-- So this is other nations. Go up and see the picture. So understand, what you're going to see is the other nations have some form of seeing the chariot as well, in their literature and their arts, whatever the case is. Now go down. Watch this right here.
+- So this is other nations. Go up and see the picture. So understand, what you're going to see is the other nations have some form of seeing the chariot as well, in their literature and their arts, whatever the case is. Now go down.
 
 > God of the Sun. Helios, the Greek sun god, is depicted on this vase. Each dawn he would rise from the sea and drive his chariot across the sky.
 
-- So this is Greek mythology. He would rise from the sea. Wow. And drive his chariot across the sky, from the sea. You understand? Just like they say they seen UFOs come from the sea.
+- So this is Greek mythology. He would rise from the sea. And drive his chariot across the sky, from the sea. Just like they say they seen UFOs come from the sea.
 
 - Go to the medieval UFOs.
 
@@ -686,7 +680,7 @@ Reading from *UFO: The Continuing Enigma*, on chariots in the skies through hist
 
 > A similar event, also captured in woodcut, seems to have taken place above Basel, Switzerland, on August 7th, 1577. This time large numbers of black spheres appeared to be engaged in a furious battle.
 
-- In a furious battle. Oh, read that again. They seemed like they was engaged in a furious battle, just like we read about in Maccabees. Second Maccabees 5 and 1.
+- In a furious battle. They seemed like they was engaged in a furious battle, just like we read about in Maccabees. Second Maccabees 5 and 1.
 
 - **Officer:** That's what Tucker Carlson said too. He said that there's a spiritual war that we can't see going on. So it's good and bad ones.
 
@@ -720,7 +714,7 @@ Reading from *UFO: The Continuing Enigma*, continued: UFOs in the Bible  *[[1:56
 
 > UFOs in the Bible. Many episodes in the New and Old Testaments of the Bible have been interpreted by some ufologists as evidence that alien astronauts did visit our planet in ancient times. Often these stories bear startling similarity to modern-day reports of UFO sightings, alien contact or abductions.
 
-- And they know that by the Bible. So the ufologists, they know, like, yo, what we seeing today is in the Bible. They know that. Watch this.
+- And they know that by the Bible. So the ufologists, they know, like, yo, what we seeing today is in the Bible. They know that.
 
 > God's creatures. The vision of the prophet Ezekiel has many of the characteristics of a close encounter with an alien spacecraft and its occupants.
 
@@ -742,7 +736,7 @@ Reading from *UFO: The Continuing Enigma*, continued: UFOs in the Bible  *[[1:56
 >
 > <sup>[7](/bible/ezekiel/1#v7)</sup> And their feet were straight feet; and the sole of their feet was like the sole of a calf’s foot: and they sparkled like the colour of burnished brass.
 
-- Black. The angels are black. Burnished brass. All praises.
+- Black. The angels are black. Burnished brass.
 
 <div class="reading">
 
@@ -750,7 +744,7 @@ Reading from *UFO: The Continuing Enigma*, continued: a star in the east  *[[1:5
 
 > A star in the east. The star seen in the sky when the infant Jesus was born behaved like many other UFOs.
 
-- Matthew 2, verse 9 and 10. Read that.
+- Matthew 2, verse 9 and 10.
 
 </div>
 
@@ -758,7 +752,7 @@ Reading from *UFO: The Continuing Enigma*, continued: a star in the east  *[[1:5
 
 > <sup>[9](/bible/matthew/2#v9)</sup> When they had heard the king, they departed; and, lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was.
 
-- How's a star just moving before them? It was a chariot moving before them. A so-called UFO. Read it again.
+- How's a star just moving before them? It was a chariot moving before them. A so-called UFO.
 
 - The star, the chariot, just went and was over the house that Christ was in.
 
@@ -798,7 +792,7 @@ Reading from *UFO: The Continuing Enigma*, continued: Elijah and the Exodus  *[[
 >
 > <sup>[24](/bible/exodus/14#v24)</sup> And it came to pass, that in the morning watch the Lord looked unto the host of the Egyptians through the pillar of fire and of the cloud, and troubled the host of the Egyptians,
 
-- Read that again. Yo, they got windows on that joint. So the Lord was able... the Lord looking through. How?
+- Yo, they got windows on that joint. So the Lord was able... the Lord looking through. How?
 
 > <sup>[25](/bible/exodus/14#v25)</sup> And took off their chariot wheels, that they drave them heavily: so that the Egyptians said, Let us flee from the face of Israel; for the Lord fighteth for them against the Egyptians.
 
@@ -832,7 +826,7 @@ Reading from *UFO: The Continuing Enigma*, continued: the unidentified scroll an
 
 - **Officer:** I will be like the Most High.
 
-- **Officer Jazz:** Yep, yep. Read that.
+- **Officer Jazz:** Yep, yep.
 
 > A cigar-shaped craft. In 1909 the airship was back, this time over England,
 
@@ -890,7 +884,7 @@ Reading from the 1947 FBI document on the flying roll, page 22 of the PDF  *[[2:
 
 > The memorandum is respectfully addressed to certain scientists of distinction, to important aeronautical and military authorities, to a number of public officials, and to a few publications. The writer has little expectation that anything of import will be accomplished by this gesture. The mere fact that the data herein were obtained by so-called supernormal means is probably sufficient to ensure its disregard by nearly all the persons addressed. Nevertheless, it seems a public duty to make it available. The present writer has several university degrees and was formerly a university department head. A very serious situation may develop at any time with regard to the flying saucers. If one of those should be attacked, the attacking plane will almost certainly be destroyed. In the public mind this might create near panic and international suspicion. The principal data concerning these craft is now at hand and must be offered, no matter how fantastic and unintelligible it may seem to minds not previously instructed in thinking of this type.
 
-- Now he's going to give all the attributes of the chariots. Watch this.
+- Now he's going to give all the attributes of the chariots.
 
 > One: part of the discs carry crews; others are under remote control.
 
@@ -902,13 +896,13 @@ Reading from the 1947 FBI document on the flying roll, page 22 of the PDF  *[[2:
 
 > Three: these visitors are human-like, but much larger in size.
 
-- Damn. You see that? They would never say they black, though, even though they are. But they said they are human-like, but much larger in size.
+- Damn. They would never say they black, though, even though they are. But they said they are human-like, but much larger in size.
 
 > Four: they are not excarnate earth people, but come from their own world.
 
 > Five: they do not come from any planet as we use the word, but from an etheric planet which interpenetrates with our own and is not perceptible to us.
 
-- Damn. You got to read that again, man. You chopped that up. Come on.
+- Damn. You got to read that again, man. You chopped that up.
 
 - That's another dimension.
 
@@ -926,19 +920,17 @@ Reading from the 1947 FBI document on the flying roll, page 22 of the PDF  *[[2:
 
 - **Another officer:** It's talking about a frequency. So how light works: it works on different frequencies, and we can only see but so much of that light spectrum. So if they increase their vibrations, they disappear to us. If they lower their vibrations, then they just pop up out of nowhere. But they're always there.
 
-- **Officer Jazz:** Oh, okay. On another level. Congratulations.
+- **Officer Jazz:** On another level. Congratulations.
 
 > Seven: the discs possess a type of radiant energy, or a ray, which will easily disintegrate any attacking ship.
 
-- How they know that? They've been disintegrated. Read that again.
+- How they know that? They've been disintegrated.
 
 - **Officer:** I've heard of this. This is animated; I don't know if they still have it; it used to be on YouTube. During the world wars, the UFOs used to shoot down the radiant energy, like a beam, and it would make the soldiers sick.
 
 - **Officer Jazz:** Radiation. Damn.
 
 > They re-enter the etheric at will, and so simply disappear from our vision without trace.
-
-- There you go.
 
 > Eight: the region from which they come is not the astral plane, but corresponds to the Lokas or Talas. Students of esoteric matters will understand these terms.
 
@@ -988,7 +980,7 @@ Reading from a search result on the lokas and talas, read on air  *[[2:20:20](ht
 
 > <sup>[14](/bible/isaiah/14#v14)</sup> I will ascend above the heights of the clouds; I will be like the most High.
 
-- There you go. I will ascend above the heights of the clouds; I will be like the most High. That's your airplanes, from the Wright Brothers. So could they have made it after the chariots? Look, they say they wanted to be like the Most High.
+- I will ascend above the heights of the clouds; I will be like the most High. That's your airplanes, from the Wright Brothers. So could they have made it after the chariots? Look, they say they wanted to be like the Most High.
 
 - **Officer:** That's why, remember in Isaiah it says, as birds flying, so the Lord pass over. It's the same way that they form their ships when they're going to war, or flying. So they trying to be just like us.
 
@@ -998,7 +990,7 @@ Reading from a search result on the lokas and talas, read on air  *[[2:20:20](ht
 
 *[[2:23:28](https://www.youtube.com/watch?v=QJa3l2eTGIM&t=8608s)]* Get the next one.
 
-**Text:** The Deacon did a class a while ago explaining how Neil Armstrong saw UFOs on the dark side of the moon, at what's called the Sea of Tranquility, and they warned him not to come closer, and the US has not been back since. All praise the Most High.
+**Text:** The Deacon did a class a while ago explaining how Neil Armstrong saw UFOs on the dark side of the moon, at what's called the Sea of Tranquility, and they warned him not to come closer, and the US has not been back since.
 
 **Officer Jazz:** Hey, that's the book I want to go into. It's a book called Selected by Extraterrestrials, where he goes in depth about what happened. And he said that when they went up there, it's called the Sea of Tranquility, they seen ships all around, and they seen the angels there, and they told them don't come back. They say you only going to do a total of six more moon missions, and after that, don't come back here. And they did six more, which ended in 1972, and he never went back.
 
@@ -1006,9 +998,9 @@ Reading from a search result on the lokas and talas, read on air  *[[2:20:20](ht
 
 *[[2:24:32](https://www.youtube.com/watch?v=QJa3l2eTGIM&t=8672s)]* So with that, we're going to have to end the show. So all praises to the Most High.
 
-**Officer:** All praise. Hey, that was a very, very needful class, especially with everything going on in the world today. So we all have to make sure we're staying informed with that.
+**Officer:** Hey, that was a very, very needful class, especially with everything going on in the world today. So we all have to make sure we're staying informed with that.
 
-*[[2:27:23](https://www.youtube.com/watch?v=QJa3l2eTGIM&t=8843s)]* **Officer Jazz:** We finished. Hey, give a shout out. All praises. And a wonderful breakfast from the sisters. All praises, Most High. So last, Lord's will, the Deacon will be back next week. So shalom, Most High and Christ bless. Shalom, shalom.
+*[[2:27:23](https://www.youtube.com/watch?v=QJa3l2eTGIM&t=8843s)]* **Officer Jazz:** We finished. And a wonderful breakfast from the sisters. All praises, Most High. So last, Lord's will, the Deacon will be back next week. So shalom, Most High and Christ bless. Shalom, shalom.
 
 ## Announcements & References
 

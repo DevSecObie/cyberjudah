@@ -52,15 +52,11 @@ tags: ["15 Minutes w/ The Captains", "adversity", "christ", "prayer"]
 
 **[2 Maccabees 6:6-9](/bible/2-maccabees/6#v6)**  *[[6:27](https://www.youtube.com/watch?v=9wgFwseOePM&t=387s)]*
 
+- Neither was it lawful for a man to keep sabbath days or ancient fasts, or to profess himself at all to be a Jew: You see residue of that coming forth today. You call yourself an Israelite, they saying it's unlawful. What do they do to the celebrities like DeSean Jackson, the brother Kyrie Irving, what was the other one? Nick Cannon, Kanye West. They came out and said we the real Jews. They said it's unlawful. They emptied out their bank account, persecuted and ridiculed them brothers. So what was going on back then, you see some of that going on today, and it's going to ramp up.
+
 > <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient fasts, or to profess himself at all to be a Jew.
 >
 > <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the fast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
->
-> <sup>[8](/bible/2-maccabees/6#v8)</sup> Moreover there went out a decree to the neighbour cities of the heathen, by the suggestion of Ptolemee, against the Jews, that they should observe the same fashions, and be partakers of their sacrifices:
->
-> <sup>[9](/bible/2-maccabees/6#v9)</sup> And whoso would not conform themselves to the manners of the Gentiles should be put to death. Then might a man have seen the present misery.
-
-- Neither was it lawful for a man to keep sabbath days or ancient fasts, or to profess himself at all to be a Jew: You see residue of that coming forth today. You call yourself an Israelite, they saying it's unlawful. What do they do to the celebrities like DeSean Jackson, the brother Kyrie Irving, what was the other one? Nick Cannon, Kanye West. They came out and said we the real Jews. They said it's unlawful. They emptied out their bank account, persecuted and ridiculed them brothers. So what was going on back then, you see some of that going on today, and it's going to ramp up.
 
 - And in the day of the king's birth every month they were brought by bitter constraint: So during the king's birthday, they was brought by what? By bitter constraint. Bitter constraint means against your will. So our forefathers was not celebrating birthdays. They knew it was unlawful. That's why it emphasized by bitter constraint, meaning forced against their will.
 
@@ -68,7 +64,11 @@ tags: ["15 Minutes w/ The Captains", "adversity", "christ", "prayer"]
 
 - And when the fast of Bacchus was kept: That's all your bacchanal. That's all your Labor Day parades and all that that you see our brothers, the quote unquote West Indies, engage in.
 
+> <sup>[8](/bible/2-maccabees/6#v8)</sup> Moreover there went out a decree to the neighbour cities of the heathen, by the suggestion of Ptolemee, against the Jews, that they should observe the same fashions, and be partakers of their sacrifices:
+
 - There went out a decree to the neighbour cities of the heathen, by the suggestion of Ptolemee, against the Jews: Against the Jews, not for the Jews, but against the Jews. Watch this.
+
+> <sup>[9](/bible/2-maccabees/6#v9)</sup> And whoso would not conform themselves to the manners of the Gentiles should be put to death. Then might a man have seen the present misery.
 
 - And whoso would not conform themselves to the manners of the Gentiles: So if you didn't conform to the Gentile, or become a Gentile, meaning assimilate. Should be put to death. Should be what? Should be put to death.
 
@@ -114,32 +114,32 @@ tags: ["15 Minutes w/ The Captains", "adversity", "christ", "prayer"]
 > <sup>[1](/bible/acts/18#v1)</sup> After these things Paul departed from Athens, and came to Corinth;
 >
 > <sup>[2](/bible/acts/18#v2)</sup> And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.
->
-> <sup>[3](/bible/acts/18#v3)</sup> And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.
->
-> <sup>[4](/bible/acts/18#v4)</sup> And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks.
->
-> <sup>[5](/bible/acts/18#v5)</sup> And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews that Jesus was Christ.
->
-> <sup>[6](/bible/acts/18#v6)</sup> And when they opposed themselves, and blasphemed, he shook his raiment, and said unto them, Your blood be upon your own heads; I am clean: from henceforth I will go unto the Gentiles.
->
-> <sup>[7](/bible/acts/18#v7)</sup> And he departed thence, and entered into a certain man’s house, named Justus, one that worshipped God, whose house joined hard to the synagogue.
->
-> <sup>[8](/bible/acts/18#v8)</sup> And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized.
 
 - Came to Corinth, and found a certain Jew named Aquila: Hold on. He found a what? A certain Jew. So they act like Paul was out there just looking for any and everybody. He found a certain Jew, man.
 
 - Because that Claudius had commanded all Jews to depart from Rome: Do you see that? So listen, there was a decree that went out, that they exiled all the Jews out of Rome. There you got more scattering taking place.
 
+> <sup>[3](/bible/acts/18#v3)</sup> And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.
+
 - And because he was of the same craft, he abode with them: Meaning what? He was a tent maker.
 
 - For by their occupation they were tentmakers: You see that? You got to think, Paul was a chief. He was a Pharisee of the Pharisees. He gave all that up and what? Learned a trade, became a tent maker. You understand? So, we got an example of a brother that may have had what you might call a desk job or a clerical job, or was living very wealthy. He gave all that up and picked up a trade. You understand? So, I just want to put that in there.
+
+> <sup>[4](/bible/acts/18#v4)</sup> And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks.
 
 - And he reasoned in the synagogue every sabbath: Hold on. He reasoned where? In the synagogue. On what day? Every Sabbath. Every Sabbath Paul was in the synagogue reasoning with the Jews.
 
 - And persuaded the Jews and the Greeks: So, and we covered who the Greeks were. We covered that in Second Maccabees. He wasn't out there talking to no damn …
 
+> <sup>[5](/bible/acts/18#v5)</sup> And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews that Jesus was Christ.
+>
+> <sup>[6](/bible/acts/18#v6)</sup> And when they opposed themselves, and blasphemed, he shook his raiment, and said unto them, Your blood be upon your own heads; I am clean: from henceforth I will go unto the Gentiles.
+
 - From henceforth I will go unto the Gentiles: Meaning the northern kingdom. We going to prove it.
+
+> <sup>[7](/bible/acts/18#v7)</sup> And he departed thence, and entered into a certain man’s house, named Justus, one that worshipped God, whose house joined hard to the synagogue.
+>
+> <sup>[8](/bible/acts/18#v8)</sup> And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized.
 
 - And Crispus, the chief ruler of the synagogue, believed on the Lord: Believed on the Lord, meaning Christ.
 
@@ -284,12 +284,6 @@ tags: ["15 Minutes w/ The Captains", "adversity", "christ", "prayer"]
 **[Philippians 1:27-30](/bible/philippians/1#v27)**  *[[32:23](https://www.youtube.com/watch?v=9wgFwseOePM&t=1943s)]*
 
 > <sup>[27](/bible/philippians/1#v27)</sup> Only let your conversation be as it becometh the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that ye stand fast in one spirit, with one mind striving together for the faith of the gospel;
->
-> <sup>[28](/bible/philippians/1#v28)</sup> And in nothing terrified by your adversaries: which is to them an evident token of perdition, but to you of salvation, and that of God.
->
-> <sup>[29](/bible/philippians/1#v29)</sup> For unto you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake;
->
-> <sup>[30](/bible/philippians/1#v30)</sup> Having the same conflict which ye saw in me, and now hear to be in me.
 
 - Only let your conversation be as it becometh the gospel of Christ: Said we can't no longer be talking about big booty Judy, what's going on with this contract and that contract, he signed this signing bonus, shoe deal. We got to leave those kinds of things alone, family.
 
@@ -297,13 +291,19 @@ tags: ["15 Minutes w/ The Captains", "adversity", "christ", "prayer"]
 
 - With one mind striving together: Doing what? Striving together. So we can't get caught up with these stupid petty negro divisions, man.
 
+> <sup>[28](/bible/philippians/1#v28)</sup> And in nothing terrified by your adversaries: which is to them an evident token of perdition, but to you of salvation, and that of God.
+
 - And in nothing terrified by your adversaries: What is Paul letting us know in the spirit? The adversary is going to come and do things to terrify us, that this gospel may stop. Like he's ratcheting it up. The fact that he's labeling us black identity extremists, terrorists, anti-semitic, that's to diminish your faith. That's the robbers of our people. You understand? They trying to rob you of your faith, to scare you into submission, saying, "You know what? I'm going to go back to being black." No. Read it again, what Paul said. So no matter what they do.
 
 - Which is to them an evident token of perdition: Meaning what? The fact that they persecuting, this is letting you know, this wicked man is persecuting, this is a evident token of... Read it again, cuz Paul said that thing, right? Mean what? This is going to be launched by the man of sin, the son of perdition, the son of hell, the white man. That's who he's talking about. That's the adversary Paul is talking about.
 
 - But to you of salvation, and that of God: Cuz we read about the suffering. We can only enter through the kingdom of heaven with much affliction.
 
+> <sup>[29](/bible/philippians/1#v29)</sup> For unto you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake;
+
 - But also to suffer for his sake: So we got to suffer, family, by the hand of the adversary, the chief adversary being the so-called white man.
+
+> <sup>[30](/bible/philippians/1#v30)</sup> Having the same conflict which ye saw in me, and now hear to be in me.
 
 - Having the same conflict which ye saw in me: So we saw Paul going through it.
 
@@ -317,18 +317,18 @@ tags: ["15 Minutes w/ The Captains", "adversity", "christ", "prayer"]
 > <sup>[7](/bible/2-corinthians/1#v7)</sup> And our hope of you is stedfast, knowing, that as ye are partakers of the sufferings, so shall ye be also of the consolation.
 >
 > <sup>[8](/bible/2-corinthians/1#v8)</sup> For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:
->
-> <sup>[9](/bible/2-corinthians/1#v9)</sup> But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead:
->
-> <sup>[10](/bible/2-corinthians/1#v10)</sup> Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver us;
 
 - That we were pressed out of measure, above strength, insomuch that we despaired even of life: Meaning what? When this thing went down, we going to read the account, Paul wasn't sure if he was going to survive this account. So that's why Paul is letting us know we can't be terrified, cuz yes, some of us will be killed out there teaching the gospel, like Paul is letting us know. Paul's about to give an account about what was about to happen to him. You know what I want? Hold that Acts 19. But let's keep reading now.
+
+> <sup>[9](/bible/2-corinthians/1#v9)</sup> But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead:
 
 - But we had the sentence of death in ourselves: So they already made up in their mind, we going to lose our life. But what better way to go out than for your king, for your nation.
 
 - That we should not trust in ourselves, but in God: But in who? But in God. So listen, we can't put our trust in ourselves cuz understand, the spirit of fear is going to jump on. That's why Christ said, "Greater is he that is in me than he that is in the world." You understand? The spirit of Christ speaking through the prophets saying, listen, I'm magnified in that day, because all of us are going to be terrified to some extent. But guess what? You only succumb to the fear when you give into it. You understand? That's what makes you brave, when you stand up boldly in the face of fear. You understand? And do what the Lord commanded us to do, despite being terrified by the adversary. So Paul is giving us account. Paul's like, man, I wasn't sure if I was going to live. I had to put my trust in the Lord, because if I relied on myself, I would have balled up out of there. You understand? Read that again.
 
 - But in God which raiseth the dead: Meaning what? To eternal life. You understand? Because if you lay down your life for us, God, you will be resurrected. You understand?
+
+> <sup>[10](/bible/2-corinthians/1#v10)</sup> Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver us;
 
 - In whom we trust that he will yet deliver us: So now give me Acts 19. Let's get the history on that. We going to do some reading here. So what account was Paul giving them? Paul was giving the brothers and sisters a personal account of what took place to do what? To strengthen their faith. Paul is saying, "Listen, I'm coming to you as a brother. These are things that I went through." Paul laid it out, what he was dealing with. He wasn't hiding the stuff. Paul said, "Man, I wasn't sure if I was going to live or die. Y'all heard about what went down in the city. You understand how we was, they ran up on us and almost killed us." Read that.
 
@@ -393,14 +393,14 @@ tags: ["15 Minutes w/ The Captains", "adversity", "christ", "prayer"]
 **[2 Thessalonians 2:3-4](/bible/2-thessalonians/2#v3)**  *[[50:30](https://www.youtube.com/watch?v=9wgFwseOePM&t=3030s)]*
 
 > <sup>[3](/bible/2-thessalonians/2#v3)</sup> Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
->
-> <sup>[4](/bible/2-thessalonians/2#v4)</sup> Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God.
 
 - For that day shall not come, except there come a falling away first: So we had to fall out of the knowledge that we are the children of Israel. That go back to what Christ said in Luke 21 and 24, also Revelation 12:4.
 
 - And that man of sin: The white man. Be revealed: Y'all see what's going on with the Epstein files? People looking like, "Yo, these people wicked as hell. They eating babies." They doing what? That's the man of sin being revealed. You couldn't even fathom the stories 30 years ago that's coming out today. That's the man of sin being revealed, man. The Lord is blowing the lid off all the wickedness.
 
 - The son of perdition: Meaning the son of hell. We read about the adversary, or the man of perdition, in Philippians.
+
+> <sup>[4](/bible/2-thessalonians/2#v4)</sup> Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God.
 
 - Who opposeth and exalteth himself above all that is called God: So this man opposes God with his philosophies, with his church system, with his science.
 
@@ -422,16 +422,16 @@ tags: ["15 Minutes w/ The Captains", "adversity", "christ", "prayer"]
 **[Acts 19:28-30](/bible/acts/19#v28)**  *[[53:35](https://www.youtube.com/watch?v=9wgFwseOePM&t=3215s)]*
 
 > <sup>[28](/bible/acts/19#v28)</sup> And when they heard these sayings, they were full of wrath, and cried out, saying, Great is Diana of the Ephesians.
->
-> <sup>[29](/bible/acts/19#v29)</sup> And the whole city was filled with confusion: and having caught Gaius and Aristarchus, men of Macedonia, Paul’s companions in travel, they rushed with one accord into the theatre.
->
-> <sup>[30](/bible/acts/19#v30)</sup> And when Paul would have entered in unto the people, the disciples suffered him not.
 
 - And cried out, saying, Great is Diana of the Ephesians: Man, when we went down there and stormed down there at that madness, that 2819, the crowd was out there doing exactly that when we was out there marching. They was out there yelling, "Great is the goddess Diana" while we was out there marching. You understand? We hit that same account. That thing was legendary. I'm sure y'all can't pull that up in time, but listen, they was out there doing that, man. You had to be there, fam. That thing was crazy.
+
+> <sup>[29](/bible/acts/19#v29)</sup> And the whole city was filled with confusion: and having caught Gaius and Aristarchus, men of Macedonia, Paul’s companions in travel, they rushed with one accord into the theatre.
 
 - And the whole city was filled with confusion: The whole city was what? Filled with confusion.
 
 - They rushed with one accord into the theatre: Damn.
+
+> <sup>[30](/bible/acts/19#v30)</sup> And when Paul would have entered in unto the people, the disciples suffered him not.
 
 - The disciples suffered him not: Why? Because that multitude was a unruly violent mob, man. You understand? If it wasn't for the spirit of the Lord on us, man, them people would have probably ran up on us. But guess what? The spirit of the Lord is too mighty. You understand? So now go back to Second Corinthians. Let's pick back up, read verse 7. Let's blaze through this.
 
@@ -441,14 +441,14 @@ tags: ["15 Minutes w/ The Captains", "adversity", "christ", "prayer"]
 > <sup>[7](/bible/2-corinthians/1#v7)</sup> And our hope of you is stedfast, knowing, that as ye are partakers of the sufferings, so shall ye be also of the consolation.
 >
 > <sup>[8](/bible/2-corinthians/1#v8)</sup> For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:
->
-> <sup>[9](/bible/2-corinthians/1#v9)</sup> But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead:
->
-> <sup>[10](/bible/2-corinthians/1#v10)</sup> Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver us;
 
 - Have you ignorant of our trouble which came to us in Asia: So we just read that account of Acts 19. What happened to Paul in Ephesus?
 
 - Insomuch that we despaired even of life: Meaning what? That level of uncertainty will put fear on you. But guess what? They stood bold in the spirit. Christ was magnified in them.
+
+> <sup>[9](/bible/2-corinthians/1#v9)</sup> But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead:
+>
+> <sup>[10](/bible/2-corinthians/1#v10)</sup> Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver us;
 
 - In whom we trust that he will yet deliver us: Now give me Second Peter 2:9. Listen man, that's why we got to build our faith. Bishop put it out. Listen, we got to make sure that we studying, praying, and applying. We got to pray three times a day. Read your four chapters. What is that? To build our faith. Because faith cometh by hearing. I know you can get bogged down with your job and all these different things. Listen, Satan is throwing many things at us to try to keep us distracted, but that's the more reason we got to fight, family.
 
@@ -479,26 +479,26 @@ tags: ["15 Minutes w/ The Captains", "adversity", "christ", "prayer"]
 **[Luke 18:1-7](/bible/luke/18#v1)**  *[[1:00:25](https://www.youtube.com/watch?v=9wgFwseOePM&t=3625s)]*
 
 > <sup>[1](/bible/luke/18#v1)</sup> And he spake a parable unto them to this end, that men ought always to pray, and not to faint;
->
-> <sup>[2](/bible/luke/18#v2)</sup> Saying, There was in a city a judge, which feared not God, neither regarded man:
->
-> <sup>[3](/bible/luke/18#v3)</sup> And there was a widow in that city; and she came unto him, saying, Avenge me of mine adversary.
->
-> <sup>[4](/bible/luke/18#v4)</sup> And he would not for a while: but afterward he said within himself, Though I fear not God, nor regard man;
->
-> <sup>[5](/bible/luke/18#v5)</sup> Yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me.
->
-> <sup>[6](/bible/luke/18#v6)</sup> And the Lord said, Hear what the unjust judge saith.
->
-> <sup>[7](/bible/luke/18#v7)</sup> And shall not God avenge his own elect, which cry day and night unto him, though he bear long with them?
 
 - And he spake a parable unto them to this end: Because we read in Sirach, said that brother not going to be satisfied till justice, true justice, is rendered.
 
 - That men ought always to pray: Men ought to do what? Ought always to pray. So them prayers can pierce the clouds, so swift righteous justice can be executed. You seeing all this evil going on. People's names up in the files. People's name on the list. Nobody got locked up. It's no justice here, man. Christ is rendering the justice.
 
+> <sup>[2](/bible/luke/18#v2)</sup> Saying, There was in a city a judge, which feared not God, neither regarded man:
+>
+> <sup>[3](/bible/luke/18#v3)</sup> And there was a widow in that city; and she came unto him, saying, Avenge me of mine adversary.
+
 - Avenge me of mine adversary: See, that widow said, "Avenge me of my adversaries."
 
+> <sup>[4](/bible/luke/18#v4)</sup> And he would not for a while: but afterward he said within himself, Though I fear not God, nor regard man;
+>
+> <sup>[5](/bible/luke/18#v5)</sup> Yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me.
+
 - Yet because this widow troubleth me, I will avenge her: So Christ said he going to avenge that widow.
+
+> <sup>[6](/bible/luke/18#v6)</sup> And the Lord said, Hear what the unjust judge saith.
+>
+> <sup>[7](/bible/luke/18#v7)</sup> And shall not God avenge his own elect, which cry day and night unto him, though he bear long with them?
 
 - And shall not God avenge his own elect: Shall not God do what? And shall not God avenge his own elect?
 

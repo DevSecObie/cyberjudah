@@ -2,7 +2,7 @@
 title: "Mirror Effect: They Move How You Move"
 slug: "2025/2025-12-15-mirror-effect-they-move-how-you-move"
 date: "2025-12-15"
-teacher: "Captain Matt"
+teacher: "Captain Matthew"
 description: "15 Minutes w/ The Captains · 2025-12-15"
 tags: ["15 Minutes w/ The Captains", "discipline", "heaven-hell", "women"]
 ---
@@ -46,10 +46,10 @@ tags: ["15 Minutes w/ The Captains", "discipline", "heaven-hell", "women"]
 **[James 5:10-11](/bible/james/5#v10)**  *[[4:11](https://www.youtube.com/watch?v=6vZJBiOWt9g&t=251s)]*
 
 > <sup>[10](/bible/james/5#v10)</sup> Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience.
->
-> <sup>[11](/bible/james/5#v11)</sup> Behold, we count them happy which endure. Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy.
 
 - for an example of suffering affliction, and of patience: there's always an example to be set. Every time we walk out the door, every time we go to the store, every time we teach, every time we go anywhere, there's an example set. How we dress, how we talk, how we walk, our conversation, all of that stuff people listen to and people watch for. That's why we have to be an example to them. That's why the scriptures say that which was written before time was written for our learning. Because when we look, all right, I may be going through it in my marriage. Okay, Abraham went through it in his marriage. They got a bunch of people that went through it in their marriage. Jacob went through it in his marriage. There's always lessons and understanding that we can pull out of the scriptures to show, damn, our forefathers went through the same thing I'm going through right now. That should give us comfort.
+
+> <sup>[11](/bible/james/5#v11)</sup> Behold, we count them happy which endure. Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy.
 
 - Ye have heard of the patience of Job: they said you saw the patience of Job. We're supposed to look at what Job went through and learn from it, and understand, well, man, maybe my situation ain't all that bad. Look at what Job had to go through. We just have to believe. A lot of times we look at the Bible like it's a fairy tale book. It's not. It's real live stories, real live accounts of our people, our forefathers, our ancestors, and how they got through their trials and their tribulations.
 
@@ -82,18 +82,18 @@ Reading from a definition of vicarious modeling  *[[6:43](https://www.youtube.co
 **[Sirach 30:1-4](/bible/sirach/30#v1)**  *[[9:46](https://www.youtube.com/watch?v=6vZJBiOWt9g&t=586s)]*
 
 > <sup>[1](/bible/sirach/30#v1)</sup> He that loveth his son causeth him oft to feel the rod, that he may have joy of him in the end.
->
-> <sup>[2](/bible/sirach/30#v2)</sup> He that chastiseth his son shall have joy in him, and shall rejoice of him among his acquaintance.
->
-> <sup>[3](/bible/sirach/30#v3)</sup> He that teacheth his son grieveth the enemy: and before his friends he shall rejoice of him.
->
-> <sup>[4](/bible/sirach/30#v4)</sup> Though his father die, yet he is as though he were not dead: for he hath left one behind him that is like himself.
 
 - He that loveth his son causeth him oft to feel the rod: when you love your child, you discipline your child. Why? Because the scriptures say foolishness is bound in the heart of a child. So a lot of times you need that correction. You understand? But through vicarious learning, a lot of even our people now see disciplining a child as abuse, as something that you're doing that, oh, that's too far. No, don't put your hands on my baby. No. The scriptures say spare the rod, spoil the child. Discipline is supposed to happen in a child's life. That's why the mothers often take the children away, especially the sons. Take the children away from their fathers, and then when they get too bad to handle, they try to send them back to their daddy. Ah, he too much for me. You take him now. What you mean? We tried to discipline him early on. You said that was too much. You got to set the right example from the jump.
 
+> <sup>[2](/bible/sirach/30#v2)</sup> He that chastiseth his son shall have joy in him, and shall rejoice of him among his acquaintance.
+
 - He that chastiseth his son shall have joy in him: when you chastise your son, you're going to have joy in him. Why? Because he's going to learn from your correction, adjust his behavior, and your friends gonna be like, Man, your children are really well behaved. You be like, Uh-huh. All praise to the Most High. Yep. You know why they well behaved. They know why they well behaved. Cuz you ain't playing that.
 
+> <sup>[3](/bible/sirach/30#v3)</sup> He that teacheth his son grieveth the enemy: and before his friends he shall rejoice of him.
+
 - He that teacheth his son grieveth the enemy: he that teacheth his son. When your son vicariously learns from you, that grieves the enemy. Why?
+
+> <sup>[4](/bible/sirach/30#v4)</sup> Though his father die, yet he is as though he were not dead: for he hath left one behind him that is like himself.
 
 - for he hath left one behind him that is like himself: so if you were a prophet of God, and you was causing hell, you was prophesying the death and destruction of this country, the death and destruction of all the wicked, you was bringing out prophecies, you was hitting the streets, and your son turn right around and do the same thing you doing, that's going to grieve the enemy. The enemy is going to hate that. Like, nah, bro, we got to do something about this. His father just did it, and now he's following behind his father's footsteps. Why? That grieves the enemy because your son learned from you. And guess what? It'll grieve the enemy when your daughters learn from you as well. Well, she's not walking around in tight pants and revealing clothes. She's actually covering her body up. She's still a virgin. What the hell is going on? How the hell we going to have Planned Parenthood, nobody having sex? How we going to have an STD clinic and nobody's having sex? What's up with all of these families being started? These black families, I can't take it. Because we're teaching our children. They're learning vicariously through us. You understand?
 

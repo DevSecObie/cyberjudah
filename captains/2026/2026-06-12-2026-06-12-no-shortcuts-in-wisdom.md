@@ -33,10 +33,10 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[Sirach 34:9-10](/bible/sirach/34#v9)**  *[[0:54](https://www.youtube.com/watch?v=zU-jK6_LGRQ&t=54s)]*
 
 > <sup>[9](/bible/sirach/34#v9)</sup> A man that hath travelled knoweth many things; and he that hath much experience will declare wisdom.
->
-> <sup>[10](/bible/sirach/34#v10)</sup> He that hath no experience knoweth little: but he that hath travelled is full of prudence.
 
 - A man that hath travelled knoweth many things; and he that hath much experience will declare wisdom: wisdom comes with experience. It's not something that you just walk in the body, open up the Bible, and feel like the Holy Spirit is going to come down upon you. You need to go through different things in this truth. That's how you start to accumulate more understanding, more wisdom.
+
+> <sup>[10](/bible/sirach/34#v10)</sup> He that hath no experience knoweth little: but he that hath travelled is full of prudence.
 
 - He that hath no experience knoweth little: if you a novice in this truth, you knoweth little. That's what separates the wisdom of somebody that's one or two years in the truth from somebody 30 years in this truth: the experience they went through over the duration of their walk.
 
@@ -53,10 +53,10 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[Proverbs 4:7-8](/bible/proverbs/4#v7)**  *[[3:16](https://www.youtube.com/watch?v=zU-jK6_LGRQ&t=196s)]*
 
 > <sup>[7](/bible/proverbs/4#v7)</sup> Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding.
->
-> <sup>[8](/bible/proverbs/4#v8)</sup> Exalt her, and she shall promote thee: she shall bring thee to honour, when thou dost embrace her.
 
 - And with all thy getting get understanding: wisdom, knowledge, it could come quick, but understanding comes over time. With all the classes that come out, it's easy to accumulate wisdom. I remember the leadership said a long time ago, brothers got good memories. It's not that you learning. Your memory game is on point, so you memorize this precept, that precept. And those be the ones that be struggling in the truth, from what I seen, because the knowledge came so quickly, but you don't have the experience, the substance behind it.
+
+> <sup>[8](/bible/proverbs/4#v8)</sup> Exalt her, and she shall promote thee: she shall bring thee to honour, when thou dost embrace her.
 
 - Exalt her, and she shall promote thee: she shall bring thee to honour, when thou dost embrace her. That's where the honor comes in, when you actually embrace wisdom, and that takes time.
 
@@ -88,13 +88,11 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 
 **[2 Esdras 9:18-20](/bible/2-esdras/9#v18)**  *[[7:08](https://www.youtube.com/watch?v=zU-jK6_LGRQ&t=428s)]*
 
+- When I prepared the world, which was not yet made, no man spake against me. For then every one obeyed: before he created the earth for the Israelites, we all obeyed.
+
 > <sup>[18](/bible/2-esdras/9#v18)</sup> And now when I prepared the world, which was not yet made, even for them to dwell in that now live, no man spake against me.
 >
 > <sup>[19](/bible/2-esdras/9#v19)</sup> For then every one obeyed: but now the manners of them which are created in this world that is made are corrupted by a perpetual seed, and by a law which is unsearchable rid themselves.
->
-> <sup>[20](/bible/2-esdras/9#v20)</sup> So I considered the world, and, behold, there was peril because of the devices that were come into it.
-
-- When I prepared the world, which was not yet made, no man spake against me. For then every one obeyed: before he created the earth for the Israelites, we all obeyed.
 
 - But now the manners of them which are created in this world that is made are corrupted by a perpetual seed: we come down here and now we're corrupted.
 
@@ -103,6 +101,8 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 - Rid themselves: we think we know it all, and we pull ourselves from this truth. You get comfortable, and the word has become a burden to you. Because you rushing wisdom, now you repeating the damn lessons. The Lord putting things in front of you to grow and accumulate experience, and you keep falling in the same trap.
 
 - But your Bible is a New York subway station, graffiti. Brothers' Bibles inked all the way up. Then all of a sudden correction come, boom, they out. Offense come, boom, you out. Trial come, boom, you out. Well damn, what was you writing? Experience graduates you to the next level. You can't rid yourself from an unsearchable law.
+
+> <sup>[20](/bible/2-esdras/9#v20)</sup> So I considered the world, and, behold, there was peril because of the devices that were come into it.
 
 
 **[Sirach 20:32](/bible/sirach/20#v32)**  *[[9:49](https://www.youtube.com/watch?v=zU-jK6_LGRQ&t=589s)]*
@@ -154,17 +154,17 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 
 **[Job 4:2-5](/bible/job/4#v2)**  *[[15:08](https://www.youtube.com/watch?v=zU-jK6_LGRQ&t=908s)]*
 
+- This is the result when you don't strive lawfully.
+
 > <sup>[2](/bible/job/4#v2)</sup> If we assay to commune with thee, wilt thou be grieved? but who can withhold himself from speaking?
 >
 > <sup>[3](/bible/job/4#v3)</sup> Behold, thou hast instructed many, and thou hast strengthened the weak hands.
->
+
+- Behold, thou hast instructed many, and thou hast strengthened the weak hands: listen to what his friend is telling Job. Bro, you instructed many. Thy words have upholden him that was falling.
+
 > <sup>[4](/bible/job/4#v4)</sup> Thy words have upholden him that was falling, and thou hast strengthened the feeble knees.
 >
 > <sup>[5](/bible/job/4#v5)</sup> But now it is come upon thee, and thou faintest; it toucheth thee, and thou art troubled.
-
-- This is the result when you don't strive lawfully.
-
-- Behold, thou hast instructed many, and thou hast strengthened the weak hands: listen to what his friend is telling Job. Bro, you instructed many. Thy words have upholden him that was falling.
 
 - But now it is come upon thee, and thou faintest; it toucheth thee, and thou art troubled: based off memory, cuz you ain't striving lawfully, you was able to strengthen the minds of the feeble with your words. But then when it comes to you, you faint. You're not going to be crowned in that day, because behind the scenes you're not striving lawfully. You got to have integrity. It was something behind the scenes nobody knew but you, and you thought it was a shortcut to this understanding.
 
@@ -181,10 +181,10 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[Jeremiah 9:23-24](/bible/jeremiah/9#v23)**  *[[17:31](https://www.youtube.com/watch?v=zU-jK6_LGRQ&t=1051s)]*
 
 > <sup>[23](/bible/jeremiah/9#v23)</sup> Thus saith the Lord, Let not the wise man glory in his wisdom, neither let the mighty man glory in his might, let not the rich man glory in his riches:
->
-> <sup>[24](/bible/jeremiah/9#v24)</sup> But let him that glorieth glory in this, that he understandeth and knoweth me, that I am the Lord which exercise lovingkindness, judgment, and righteousness, in the earth: for in these things I delight, saith the Lord.
 
 - Let not the wise man glory in his wisdom, neither let the mighty man glory in his might: don't glory in your own understanding. Let not the rich man glory in his riches.
+
+> <sup>[24](/bible/jeremiah/9#v24)</sup> But let him that glorieth glory in this, that he understandeth and knoweth me, that I am the Lord which exercise lovingkindness, judgment, and righteousness, in the earth: for in these things I delight, saith the Lord.
 
 - But let him that glorieth glory in this, that he understandeth and knoweth me: don't glory in having memorized all the precepts. Glory in the fact that you know Christ, the understanding of Christ, who you are, who your people are, and what's your lot: to restore the 12 tribes.
 

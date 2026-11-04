@@ -69,8 +69,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "repentance",
 > <sup>[10](/bible/genesis/17#v10)</sup> This is my covenant, which ye shall keep, between me and you and thy seed after thee; Every man child among you shall be circumcised.
 >
 > <sup>[11](/bible/genesis/17#v11)</sup> And ye shall circumcise the flesh of your foreskin; and it shall be a token of the covenant betwixt me and you.
->
-> <sup>[12](/bible/genesis/17#v12)</sup> And he that is eight days old shall be circumcised among you, every man child in your generations, he that is born in the house, or bought with money of any stranger, which is not of thy seed.
 
 - It shall be a token of the covenant betwixt me and you: So circumcision was a covenant between Abraham and God. And that covenant was passed down to Isaac, not Ishmael.
 
@@ -83,6 +81,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "repentance",
     > <sup>[19](/bible/genesis/17#v19)</sup> And God said, Sarah thy wife shall bear thee a son indeed; and thou shalt call his name Isaac: and I will establish my covenant with him for an everlasting covenant, and with his seed after him.
 
     The covenant was not established with Ishmael. It was established with Isaac. And then after Isaac, it was established with Jacob.
+
+> <sup>[12](/bible/genesis/17#v12)</sup> And he that is eight days old shall be circumcised among you, every man child in your generations, he that is born in the house, or bought with money of any stranger, which is not of thy seed.
 
 
 **[Romans 2:25](/bible/romans/2#v25)**  *[[11:31](https://www.youtube.com/watch?v=dieeZCZzYPg&t=691s)]*
@@ -115,34 +115,30 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "repentance",
 > <sup>[1](/bible/acts/15#v1)</sup> And certain men which came down from Judea taught the brethren, and said, Except ye be circumcised after the manner of Moses, ye cannot be saved.
 >
 > <sup>[2](/bible/acts/15#v2)</sup> When therefore Paul and Barnabas had no small dissension and disputation with them, they determined that Paul and Barnabas, and certain other of them, should go up to Jerusalem unto the apostles and elders about this question.
->
-> <sup>[3](/bible/acts/15#v3)</sup> And being brought on their way by the church, they passed through Phenice and Samaria, declaring the conversion of the Gentiles: and they caused great joy unto all the brethren.
->
-> <sup>[4](/bible/acts/15#v4)</sup> And when they were come to Jerusalem, they were received of the church, and of the apostles and elders, and they declared all things that God had done with them.
->
-> <sup>[5](/bible/acts/15#v5)</sup> But there rose up certain of the sect of the Pharisees which believed, saying, That it was needful to circumcise them, and to command them to keep the law of Moses.
->
-> <sup>[6](/bible/acts/15#v6)</sup> And the apostles and elders came together for to consider of this matter.
->
-> <sup>[7](/bible/acts/15#v7)</sup> And when there had been much disputing, Peter rose up, and said unto them, Men and brethren, ye know how that a good while ago God made choice among us, that the Gentiles by my mouth should hear the word of the gospel, and believe.
->
-> <sup>[8](/bible/acts/15#v8)</sup> And God, which knoweth the hearts, bare them witness, giving them the Holy Ghost, even as he did unto us;
->
-> <sup>[9](/bible/acts/15#v9)</sup> And put no difference between us and them, purifying their hearts by faith.
->
-> <sup>[10](/bible/acts/15#v10)</sup> Now therefore why tempt ye God, to put a yoke upon the neck of the disciples, which neither our fathers nor we were able to bear?
->
-> <sup>[11](/bible/acts/15#v11)</sup> But we believe that through the grace of the Lord Jesus Christ we shall be saved, even as they.
 
 - Paul and Barnabas had no small dissension and disputation with them: Meaning it was a big argument because Paul was saying that's not true. That's a lie. You don't have to be circumcised after the manner of Moses. And it was Paul that said it is an advantage to be circumcised. He was saying the same thing.
 
 - Go up to Jerusalem unto the apostles and elders about this question: So they brought this question to the apostles, the Peter, the leaders, the elders, the leadership, they brought this like, yo, they saying you got to be circumcised after the manner of Moses. What do y'all, give us some understanding on this.
 
+> <sup>[3](/bible/acts/15#v3)</sup> And being brought on their way by the church, they passed through Phenice and Samaria, declaring the conversion of the Gentiles: and they caused great joy unto all the brethren.
+>
+> <sup>[4](/bible/acts/15#v4)</sup> And when they were come to Jerusalem, they were received of the church, and of the apostles and elders, and they declared all things that God had done with them.
+>
+> <sup>[5](/bible/acts/15#v5)</sup> But there rose up certain of the sect of the Pharisees which believed, saying, That it was needful to circumcise them, and to command them to keep the law of Moses.
+
 - There rose up certain of the sect of the Pharisees which believed: Those were they in verse one. So certain of the Pharisees did believe but they were still wrong on certain aspects, that it was needful to circumcise them and to command them to keep the law of Moses, meaning animal sacrifice. That's what they were talking about.
+
+> <sup>[6](/bible/acts/15#v6)</sup> And the apostles and elders came together for to consider of this matter.
+>
+> <sup>[7](/bible/acts/15#v7)</sup> And when there had been much disputing, Peter rose up, and said unto them, Men and brethren, ye know how that a good while ago God made choice among us, that the Gentiles by my mouth should hear the word of the gospel, and believe.
 
 - That the Gentiles by my mouth should hear the word of the gospel, and believe: So he was talking about these scattered Israelites who were living under gentile customs, who were henistic, who were called heathen, who were raised not being circumcised, who were raised not under the laws of Moses. They heard the gospel by Peter.
 
+> <sup>[8](/bible/acts/15#v8)</sup> And God, which knoweth the hearts, bare them witness, giving them the Holy Ghost, even as he did unto us;
+
 - Giving them the Holy Ghost, even as he did unto us: Cuz remember, Judah heard the gospel first, then the rest of Israel.
+
+> <sup>[9](/bible/acts/15#v9)</sup> And put no difference between us and them, purifying their hearts by faith.
 
 - And put no difference between us and them: Why was there no difference between us and them? Let's go to Daniel right quick. That's why he said there's neither Jew nor Greek. Let's go to Daniel about why he put no difference between us and them. We're going to Daniel chapter 9.
 
@@ -157,6 +153,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "repentance",
     > <sup>[11](/bible/daniel/9#v11)</sup> Yea, all Israel have transgressed thy law, even by departing, that they might not obey thy voice; therefore the curse is poured upon us, and the oath that is written in the law of Moses the servant of God, because we have sinned against him.
 
     What was that curse? Deuteronomy the 28th chapter. He said we would be scattered abroad worshiping other gods, wood and stone.
+
+> <sup>[10](/bible/acts/15#v10)</sup> Now therefore why tempt ye God, to put a yoke upon the neck of the disciples, which neither our fathers nor we were able to bear?
+>
+> <sup>[11](/bible/acts/15#v11)</sup> But we believe that through the grace of the Lord Jesus Christ we shall be saved, even as they.
 
 
 **[Galatians 2:13](/bible/galatians/2#v13)**  *[[21:28](https://www.youtube.com/watch?v=dieeZCZzYPg&t=1288s)]*
@@ -210,12 +210,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "repentance",
 > <sup>[4](/bible/hebrews/10#v4)</sup> For it is not possible that the blood of bulls and of goats should take away sins.
 >
 > <sup>[5](/bible/hebrews/10#v5)</sup> Wherefore when he cometh into the world, he saith, Sacrifice and offering thou wouldest not, but a body hast thou prepared me:
->
+
+- Sacrifice and offering thou wouldest not, but a body hast thou prepared me: Why would he say, “Don't sacrifice an offering”? That's not what he wanted in the first place. He wanted obedience. Remember 1st Samuel 15:22, “To obey is better than sacrifice.” You understand? He didn't want sacrifice right off. He wanted obedience. To obey is better than sacrifice.
+
 > <sup>[6](/bible/hebrews/10#v6)</sup> In burnt offerings and sacrifices for sin thou hast had no pleasure.
 >
 > <sup>[7](/bible/hebrews/10#v7)</sup> Then said I, Lo, I come (in the volume of the book it is written of me,) to do thy will, O God.
-
-- Sacrifice and offering thou wouldest not, but a body hast thou prepared me: Why would he say, “Don't sacrifice an offering”? That's not what he wanted in the first place. He wanted obedience. Remember 1st Samuel 15:22, “To obey is better than sacrifice.” You understand? He didn't want sacrifice right off. He wanted obedience. To obey is better than sacrifice.
 
 - Lo, I come (in the volume of the book it is written of me,) to do thy will, O God: Who is that talking? Christ. He said he comes in the volume of the book. Meaning every part of this Bible is about Christ. From Genesis 1 to Revelations 22 is Christ. Every bit of it. His name is the word of God. How can it not be for Christ? You understand? Everything that we have is because of Christ. Everything that we see is because of Christ.
 
@@ -297,10 +297,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "repentance",
 > <sup>[8](/bible/romans/4#v8)</sup> Blessed is the man to whom the Lord will not impute sin.
 >
 > <sup>[9](/bible/romans/4#v9)</sup> Cometh this blessedness then upon the circumcision only, or upon the uncircumcision also? for we say that faith was reckoned to Abraham for righteousness.
->
-> <sup>[10](/bible/romans/4#v10)</sup> How was it then reckoned? when he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision.
 
 - For we say that faith was reckoned to Abraham for righteousness: So yes, faith was reckoned to Abraham for righteousness and the sign of his faith was circumcision.
+
+> <sup>[10](/bible/romans/4#v10)</sup> How was it then reckoned? when he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision.
 
 - Not in circumcision, but in uncircumcision: Meaning, Abraham's faith was proven before he was circumcised. Because of his faith, he was given that token and proof of his faith by circumcision. Circumcision is proof of the faith of Abraham. That's why when we read Colossians chapter 2:11 it says, “In whom are ye circumcised with the circumcision made without hands in putting off the body of the sins of the flesh by the circumcision of Christ.” There were many Israelites who were physically circumcised, but they weren't mentally circumcised. And I'm going to show you that in Romans chapter 2. When we say mentally circumcised, meaning circumcised in your mind. They were sinning, but they were circumcised. They were going against the laws of God, but they were circumcised.
 
@@ -319,10 +319,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "repentance",
 **[Romans 2:14-15](/bible/romans/2#v14)**  *[[40:02](https://www.youtube.com/watch?v=dieeZCZzYPg&t=2402s)]*
 
 > <sup>[14](/bible/romans/2#v14)</sup> For when the Gentiles, which have not the law, do by nature the things contained in the law, these, having not the law, are a law unto themselves:
->
-> <sup>[15](/bible/romans/2#v15)</sup> Which shew the work of the law written in their hearts, their conscience also bearing witness, and their thoughts the mean while accusing or else excusing one another;)
 
 - These, having not the law, are a law unto themselves: Meaning they know how to operate with one another.
+
+> <sup>[15](/bible/romans/2#v15)</sup> Which shew the work of the law written in their hearts, their conscience also bearing witness, and their thoughts the mean while accusing or else excusing one another;)
 
 - Their thoughts the mean while accusing or else excusing one another: Accusing, meaning judging, or else excusing, or forgiving one another. They knew how to judge and forgive one another without having the laws of Moses right there. That's what the letter is. The letter is talking about the laws of Moses. What we call the Torah or the first five, they called it the letter. Okay? They knew how to judge and they knew how to forgive one another. Meanwhile, the scribes, Pharisees, the Jews, they had the law and didn't know how to apply those things. They had the law and were having unrighteous judgment. They had the law and were being hypocrites.
 
@@ -337,10 +337,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "repentance",
 **[Hebrews 9:9-10](/bible/hebrews/9#v9)**  *[[42:12](https://www.youtube.com/watch?v=dieeZCZzYPg&t=2532s)]*
 
 > <sup>[9](/bible/hebrews/9#v9)</sup> Which was a figure for the time then present, in which were offered both gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience;
->
-> <sup>[10](/bible/hebrews/9#v10)</sup> Which stood only in meats and drinks, and divers washings, and carnal ordinances, imposed on them until the time of reformation.
 
 - Gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience: So we would give sacrifices. We would kill a lamb, kill a goat, kill a sheep, kill a ram, turtle dove, whatever. We would kill those things but we would still be wrong in our mind. We would still have sin in our mind. We would not be completely clear in our conscience.
+
+> <sup>[10](/bible/hebrews/9#v10)</sup> Which stood only in meats and drinks, and divers washings, and carnal ordinances, imposed on them until the time of reformation.
 
 - Imposed on them until the time of reformation: The time of reformation was the time that Christ came to live and die for the nation of Israel, for him to be that sacrifice for the nation of Israel. Okay? When we look at this, the conscience would not be clear for us. We would not be perfect as pertaining to the conscience. And I'm going to give you an example of that. Let's go to Proverbs 7. Proverbs 7 and I'm going to start at nine.
 
@@ -358,14 +358,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "repentance",
 > <sup>[13](/bible/proverbs/7#v13)</sup> So she caught him, and kissed him, and with an impudent face said unto him,
 >
 > <sup>[14](/bible/proverbs/7#v14)</sup> I have peace offerings with me; this day have I payed my vows.
->
+
+- I have peace offerings with me; this day have I payed my vows: She was planning on committing adultery. She said, I got my offerings already ready. Even though there was no offering for adultery, she probably was going to try to minimize her sin, but she already had the offerings already ready.
+
 > <sup>[15](/bible/proverbs/7#v15)</sup> Therefore came I forth to meet thee, diligently to seek thy face, and I have found thee.
 >
 > <sup>[16](/bible/proverbs/7#v16)</sup> I have decked my bed with coverings of tapestry, with carved works, with fine linen of Egypt.
 >
 > <sup>[17](/bible/proverbs/7#v17)</sup> I have perfumed my bed with myrrh, aloes, and cinnamon.
-
-- I have peace offerings with me; this day have I payed my vows: She was planning on committing adultery. She said, I got my offerings already ready. Even though there was no offering for adultery, she probably was going to try to minimize her sin, but she already had the offerings already ready.
 
 - I have perfumed my bed with myrrh, aloes, and cinnamon: So these are the women that you go over there to the bed and the house is smelling nice and the sheets is soft and yep, that's a plush coffin for you. You gonna go over there, you gonna be straight dead, nothing but a skeleton by the time you finish. You understand? So when it's talking about the sins that we were giving offerings, but it wouldn't make us perfect as pertaining to the conscience, because of situations like that. We had a mind to just be in evil. We had a mind to just be wicked. We had a mind to just do evil, to be in sin. Oh, look, I got my sins already ready. I got my sacrifice already ready. But under Christ, it's going to be a whole lot worse.
 
@@ -406,16 +406,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "repentance",
 **[Hebrews 10:1-4](/bible/hebrews/10#v1)**  *[[51:02](https://www.youtube.com/watch?v=dieeZCZzYPg&t=3062s)]*
 
 > <sup>[1](/bible/hebrews/10#v1)</sup> For the law having a shadow of good things to come, and not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect.
->
-> <sup>[2](/bible/hebrews/10#v2)</sup> For then would they not have ceased to be offered? because that the worshippers once purged should have had no more conscience of sins.
->
-> <sup>[3](/bible/hebrews/10#v3)</sup> But in those sacrifices there is a remembrance again made of sins every year.
->
-> <sup>[4](/bible/hebrews/10#v4)</sup> For it is not possible that the blood of bulls and of goats should take away sins.
 
 - Can never with those sacrifices which they offered year by year continually make the comers thereunto perfect: Sacrificing animals could not make us perfect. But watch what he said in Colossians chapter 2 verse 10. It said, “And ye are complete in him who is the head of all principality and power.” We're complete in Christ. We weren't complete under animal sacrifice. We didn't have a good conscience under animal sacrifice. We're supposed to have a good conscience under Christ.
 
+> <sup>[2](/bible/hebrews/10#v2)</sup> For then would they not have ceased to be offered? because that the worshippers once purged should have had no more conscience of sins.
+
 - The worshippers once purged should have had no more conscience of sins: Meaning if the law of sacrifice was supposed to be that one all be all, then they would have just did one sacrifice. They wouldn't have had to do it over and over and over. They would have had no more conscious of sins. Adultery would have only happened once. Lying would have only happened once. Thieving would have only happened once. You understand? Fornication would have only happened once. But when it comes down to it, that would not have happened if the law of sacrifice was the perfect law.
+
+> <sup>[3](/bible/hebrews/10#v3)</sup> But in those sacrifices there is a remembrance again made of sins every year.
+>
+> <sup>[4](/bible/hebrews/10#v4)</sup> For it is not possible that the blood of bulls and of goats should take away sins.
 
 - It is not possible that the blood of bulls and of goats should take away sins: Blood of bulls and goats wasn't going to do it. The sacrifice of Christ was going to do it. He was going to be the one to show us that, okay, we need to have a better conscience under Christ than we do under Moses because there's a harsher punishment under Christ than there is under Moses. Let me see. We're going to stay in Hebrews chapter 10. We're going to start at verse 28. So it's worse now than it was under Moses. Watch this.
 
@@ -423,10 +423,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "repentance",
 **[Hebrews 10:28-29](/bible/hebrews/10#v28)**  *[[53:41](https://www.youtube.com/watch?v=dieeZCZzYPg&t=3221s)]*
 
 > <sup>[28](/bible/hebrews/10#v28)</sup> He that despised Moses’ law died without mercy under two or three witnesses:
->
-> <sup>[29](/bible/hebrews/10#v29)</sup> Of how much sorer punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace?
 
 - He that despised Moses' law died without mercy under two or three witnesses: So if two or three people came and said, “Yeah, this dude was guilty and it was a sin worthy of death,” you got put to death. Those two witnesses or those three witnesses came against you and said that you did something. That's what you did and you got put to death. So under Moses, we got put to death under two or three witnesses. Watch this, verse 29.
+
+> <sup>[29](/bible/hebrews/10#v29)</sup> Of how much sorer punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace?
 
 - And hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing: Meaning the death of Christ.
 

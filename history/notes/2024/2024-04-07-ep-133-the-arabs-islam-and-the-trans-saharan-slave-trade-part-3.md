@@ -18,11 +18,9 @@ tags: ["Our Hidden History", "africa-moors", "islam-arabs", "war"]
 
 ## Introduction
 
-*[[11:26](https://www.youtube.com/watch?v=KgxnpzSMDf8&t=686s)]* Hey, shalom, shalom. Welcome back to Our Hidden History. You're now tuned into Our Hidden History radio show. Hey, thank you, thank you. What the gosh, great start, guys. Sorry for the late start. But yeah, all praises, all praises, we back.
+*[[11:26](https://www.youtube.com/watch?v=KgxnpzSMDf8&t=686s)]* You're now tuned into Our Hidden History radio show.
 
 Remember, we still dealing with the Arabs. We still going into the Arabs, going to prophesy against the Arabs. So we going through the history dealing with Ishmael, and Ishmael's sons, and the Arabs throughout history, and how they dealt with us throughout history. So we going to take this, we starting from the beginning, we going to go all the way to the trans-Saharan slave trade, all the way up to today: how the Arabs is dealing with us today.
-
-Hey, shout out to the deacon's class yesterday. All praises, all praises. Yes sir, class was fire.
 
 *[[12:24](https://www.youtube.com/watch?v=KgxnpzSMDf8&t=744s)]* So let's get straight into it. Last week we dealt with the Nabataeans. We dealt with the Nabataeans and the confusion with Esau, saying that Esau is the Arabs and so forth. So we dealt with that confusion. So it shouldn't be no more confusion with that particular topic right there. It should not be no more confusion. We dealt with the fact that the Nabataeans came in around, what, fourth century BC. Esau was gone. Esau was already gone. So they used Petra. Petra was the capital of Esau. Once Esau left, the Nabataeans seen it fit to use Petra, to go in there to use it as a trade route. That's why they went there, to use it as a trade route. That's the only reason.
 
@@ -72,7 +70,7 @@ Reading from Wikipedia, Herod the Great · read by an officer  *[[14:00](https:/
 
 > <sup>[38](/bible/1-maccabees/10#v38)</sup> And concerning the three governments that are added to Judea from the country of Samaria, let them be joined with Judea, that they may be reckoned to be under one, nor bound to obey other authority than the high priest’s.
 
-- Watch this. And concerning the three governments. So now, concerning the three governments.
+- And concerning the three governments. So now, concerning the three governments.
 
 - Right, so Simon, he was given liberty to do his own thing in Judea. So with that being said, it says concerning the three governments, so he gained three governments that are added to Judea from the country of Samaria. So Samaria was joined to us.
 
@@ -122,7 +120,7 @@ Reading from Wikipedia, Herod the Great, continued · read by an officer  *[[22:
 
 > constituted the majority of the population of western Judea, where they commingled with the Judaeans and adopted their customs. This is a view shared also by some modern scholarly works which consider Idumaeans as of Arab or Nabataean origin.
 
-- You see that? So we proved... Now give me the page that we posted last week. We just doing a little recap on Herod. Remember, the Nabataeans came from Nebajoth. That was Ishmael's first son. Ishmael's first son. Well, watch this.
+- So we proved... Now give me the page that we posted last week. We just doing a little recap on Herod. Remember, the Nabataeans came from Nebajoth. That was Ishmael's first son. Ishmael's first son. Well, watch this.
 
 </div>
 
@@ -136,7 +134,7 @@ Reading from a page posted the week before, on Herod Agrippa I · read by an off
 
 > He, this was Herod Agrippa the first, he was the son of Aristobulus, grandson of Herod the Great, and nephew of Herod Antipas. He was born about 10 BC and was educated at Rome in the court of the emperor Tiberius. He was an Idumaean or Amalekite, one of the hereditary enemies of the Jewish people.
 
-- You see that? One of the enemies of us. So Herod was an Idumaean or an Amalekite. Herod was an Edomite. He was not a Nabataean. He was not an Arab. So it should be no more confusion on that.
+- One of the enemies of us. So Herod was an Idumaean or an Amalekite. Herod was an Edomite. He was not a Nabataean. He was not an Arab. So it should be no more confusion on that.
 
 - Now we're going to switch topics. Move on. Get me the book of Genesis; going to do some reading in the scriptures. The book of Genesis chapter 37. Let's go to Joseph. Joseph, Joseph, verse 1.
 
@@ -250,7 +248,7 @@ Reading from a page posted the week before, on Herod Agrippa I · read by an off
 
 - Now, the Bible is abbreviated. Let's read between the lines, what may have happened. Why didn't Midian take him out the pit and, you know, see if he's okay? The natural thing to do is take him out the pit. You know, like, damn, why he was in the pit? Give him some water or something, send him on his way. But instead they chose to make him a slave. Why they do that? Why did they choose to make him a slave? Why they choose to sell him to Ishmael and so forth? But you got to understand, they probably knew about the history. Because they sold him to Ishmael, and Ishmael sold him down into Egypt. But just speculation: they probably knew about the history from Isaac and Ishmael, you understand? They probably carried that hatred all the way back from then. So they like, yo, you a Hebrew. I'm just thinking, I'm just reading between the lines what may have happened. Why didn't they just take him out the pit, try to see if you okay, give him some water and send him on his way? Nah. They said, nah, we going to make you, you going to be a slave. I'm going to take you down to Egypt and sell you.
 
-- Read it again, verse 28. So they sold him for 20 pieces of silver.
+- So they sold him for 20 pieces of silver.
 
 > <sup>[30](/bible/genesis/37#v30)</sup> And he returned unto his brethren, and said, The child is not; and I, whither shall I go?
 >
@@ -268,7 +266,7 @@ Reading from a page posted the week before, on Herod Agrippa I · read by an off
 
 - See, now it's saying Midianites. That's why I said they generalize it as the Arabs, or they just said Ishmael, because Ishmael took over the territory of Arabia.
 
-- Now let's move up in history. Let's move up in history. Give me Kedar. Hey, go back to that page; I think it's called the Exposition. Go to the Telegram real quick. Yep, blow it up. From 1788. Go to the next page, blow it up. Go down to Kedar. Let's deal with Kedar.
+- Now let's move up in history. Let's move up in history. Give me Kedar. Hey, go back to that page; I think it's called the Exposition. Yep, blow it up. From 1788. Go to the next page, blow it up. Go down to Kedar. Let's deal with Kedar.
 
 <div class="reading">
 
@@ -286,7 +284,7 @@ Reading from an Exposition from 1788, the entry on Kedar, posted on the Telegram
 >
 > These are the Scenite Arabs, called Saracens by Ammianus. Two other sons of Ishmael follow, of whom no mention is made elsewhere, nor are there any traces of their names.
 
-- Why you reading it so chopped up? You're almost done, you're almost done. Do it, brother, do it. Congratulations. All right, all praises, all praises.
+- Why you reading it so chopped up? You're almost done, you're almost done. Do it, brother, do it. Congratulations.
 
 - Hey, give me this link on the Telegram with Kedar, the tents of Kedar. Hey, give me Song of Solomon 1 and 5 while you get that. Matter of fact, read Song 1 and 5 first.
 
@@ -296,7 +294,7 @@ Reading from an Exposition from 1788, the entry on Kedar, posted on the Telegram
 
 > <sup>[5](/bible/song-of-solomon/1#v5)</sup> I am black, but comely, O ye daughters of Jerusalem, as the tents of Kedar, as the curtains of Solomon.
 
-- You see that? So it's King Solomon said, I am black, as the tents. Read it again.
+- So it's King Solomon said, I am black, as the tents.
 
 - So King Solomon: I am black and handsome, tents of Kedar. All right, read that, Kedar.
 
@@ -318,7 +316,7 @@ Reading from a Bible dictionary entry on Kedar, from the link on the Telegram ·
 
 > Their territory was in the northern part of the Arabian desert.
 
-- Right. So hey, pull up a map real quick. Pull up a map and put location of Kedar. They were always intruding into all these places. Clue into the history, bro. You put Kar, like... There you go, thank you. That's a good one. You blow that up.
+- So hey, pull up a map real quick. They were always intruding into all these places. Clue into the history, bro. You put Kar, like... That's a good one. You blow that up.
 
 - All right, so look, this is the territory of Kedar. As you can see, you have the Dedanites, from Dedan. Like I said, they all dwelt in this area. But the most known Arab tribes was Kedar, was Ishmaelites, with the sons of Ishmael: Nebajoth and Kedar. They were the most known, the most popular in the area. They took over. They were like the majority. Remember, give me where he say, the Most High going to make him twelve princes.
 
@@ -328,13 +326,13 @@ Reading from a Bible dictionary entry on Kedar, from the link on the Telegram ·
 
 > <sup>[20](/bible/genesis/17#v20)</sup> And as for Ishmael, I have heard thee: Behold, I have blessed him, and will make him fruitful, and will multiply him exceedingly; twelve princes shall he beget, and I will make him a great nation.
 
-- You see that? So that's why even the other Arabs, they all come up under Ishmael, because why? Ishmael became a great nation. The Most High multiplied them exceedingly: Kedar, Nebajoth. Read it again.
+- So that's why even the other Arabs, they all come up under Ishmael, because why? Ishmael became a great nation. The Most High multiplied them exceedingly: Kedar, Nebajoth.
 
 > <sup>[21](/bible/genesis/17#v21)</sup> But my covenant will I establish with Isaac, which Sarah shall bear unto thee at this set time in the next year.
 
-- Right. So go back to the map. So you see that territory, northern Arabia. Kedar was situated in northern Arabia. All right, you can drop that.
+- So go back to the map. So you see that territory, northern Arabia. Kedar was situated in northern Arabia. All right, you can drop that.
 
-- Give me that link now with Kedar: what were the tents of Kedar made from? Go down, go down. I just want to get straight to the point. That's all I want, right here.
+- Give me that link now with Kedar: what were the tents of Kedar made from? I just want to get straight to the point. That's all I want, right here.
 
 <div class="reading">
 
@@ -350,7 +348,7 @@ Reading from the linked article on what the tents of Kedar were made from · rea
 
 > Dark or swarthy. Swarthy means dark-skinned. If you like tall, dark and handsome men, you find a swarthy complexion attractive.
 
-- You see that? That's what King Solomon was saying. Read that again.
+- That's what King Solomon was saying.
 
 - **Officer:** Hold my comments.
 
@@ -358,7 +356,7 @@ Reading from the linked article on what the tents of Kedar were made from · rea
 
 - **Officer:** Okay, it's too explicit.
 
-- **Deacon Eythan:** All praise, all praise, all praise. Now read that Song of Solomon again.
+- **Deacon Eythan:** Now read that Song of Solomon again.
 
 </div>
 
@@ -380,7 +378,7 @@ Reading from the linked article on what the tents of Kedar were made from · rea
 
 > <sup>[15](/bible/1-kings/10#v15)</sup> Beside that he had of the merchantmen, and of the traffick of the spice merchants, and of all the kings of Arabia, and of the governors of the country.
 
-- So King Solomon, it says, beside that he had of the merchantmen and of the traffic of the spice merchants. So the Arabs was known as spice merchants. They was always trading. Nomadic, they was just going back and forth trading between Arabia. They was coming through our land. They was all the way up to Assyria. They was always trading: merchantmen, selling spices and so forth. Read it again.
+- So King Solomon, it says, beside that he had of the merchantmen and of the traffic of the spice merchants. So the Arabs was known as spice merchants. They was always trading. Nomadic, they was just going back and forth trading between Arabia. They was coming through our land. They was all the way up to Assyria. They was always trading: merchantmen, selling spices and so forth.
 
 > <sup>[16](/bible/1-kings/10#v16)</sup> And king Solomon made two hundred targets of beaten gold: six hundred shekels of gold went to one target.
 >
@@ -396,11 +394,11 @@ Reading from the linked article on what the tents of Kedar were made from · rea
 
 > <sup>[10](/bible/2-chronicles/17#v10)</sup> And the fear of the Lord fell upon all the kingdoms of the lands that were round about Judah, so that they made no war against Jehoshaphat.
 
-- Right. So Jehoshaphat reigned in a peaceable time. He reigned in a peaceable time.
+- So Jehoshaphat reigned in a peaceable time. He reigned in a peaceable time.
 
 > <sup>[11](/bible/2-chronicles/17#v11)</sup> Also some of the Philistines brought Jehoshaphat presents, and tribute silver; and the Arabians brought him flocks, seven thousand and seven hundred rams, and seven thousand and seven hundred he goats.
 
-- You see that? So keep in mind the Philistines and the Arabs. Keep them in mind. Right here they under us. They paying us tribute. Since King Solomon, since the days of King Solomon, since the days of King David, they're paying us tribute. But keep them in mind. You'll see why. Keep them in mind: Philistines, Ham, and Ishmael. Ham and Ishmael.
+- So keep in mind the Philistines and the Arabs. Keep them in mind. Right here they under us. They paying us tribute. Since King Solomon, since the days of King Solomon, since the days of King David, they're paying us tribute. But keep them in mind. You'll see why. Keep them in mind: Philistines, Ham, and Ishmael. Ham and Ishmael.
 
 - Now from there, give me the Qedarites, the Wikipedia.
 
@@ -416,7 +414,7 @@ Reading from Wikipedia, Qedarites · read by an officer  *[[51:45](https://www.y
 >
 > The Qedarites played an important role in the history of the Levant and of North Arabia, where they enjoyed close relations with the nearby Canaanite and Aramean states, and became important participants in the trade of spices and aromatics imported into the Fertile Crescent and the Mediterranean world from South Arabia.
 
-- So those kings of Arabia were who? From Kedar. They were the ones that was trading. You see? Read that part again about the spices.
+- So those kings of Arabia were who? From Kedar. They were the ones that was trading. Read that part again about the spices.
 
 - So they became important participants in the trade of spices. Remember, we just read during King Solomon's time it said the kings of Arabia, spice merchants. Those spice merchants was Kedar.
 
@@ -434,15 +432,15 @@ Reading from Wikipedia, Qedarites · read by an officer  *[[51:45](https://www.y
 
 > The Qedarites also featured within the scriptures of Abrahamic religions, where they appear in the Hebrew Bible and the Quran as the eponymous descendants of Kedar, the second son of Ishmael, himself the son of Abraham. Within Islamic tradition, some scholars claim that the Islamic prophet Muhammad was descended from Ishmael through Kedar.
 
-- Right. Go down. Let me see. Hey, read that, in the Hebrew Bible.
+- Hey, read that, in the Hebrew Bible.
 
 > The Qedarites are referred to in the Hebrew Bible. The Qedarites are referred to in Hebrew as Kedar, meaning black and swarthy,
 
-- You see that? Meaning black and swarthy. Meaning black and swarthy.
+- Meaning black and swarthy. Meaning black and swarthy.
 
 > in reference to the color of their tents.
 
-- Right, in reference to the color of their tents. All right, so let's go out of that. Still dealing with Kedar. Hey, go back to the Qedarites real quick, to that Wikipedia. I think I missed something. Go all the way up. Go down. Give me Gindibu. G-I-N-D-I-B-U.
+- Right, in reference to the color of their tents. All right, so let's go out of that. Still dealing with Kedar. Hey, go back to the Qedarites real quick, to that Wikipedia. I think I missed something. Go all the way up. Give me Gindibu. G-I-N-D-I-B-U.
 
 - **Officer:** Hey, what you was mentioning too, about Ishmael being a seller of spices: I'm not sure if you ever seen the movie Dune. It's a newer movie.
 
@@ -450,7 +448,7 @@ Reading from Wikipedia, Qedarites · read by an officer  *[[51:45](https://www.y
 
 - **Officer:** For those that have seen it: when they go into that world, it's supposed to be an Arab land where all of them got the head wraps on and everything like that. The thing that they're known for is selling spices, on that movie too. So it shows in that as well.
 
-- **Deacon Eythan:** All praises. Gindibu. You got something?
+- **Deacon Eythan:** Gindibu. You got something?
 
 - **Officer:** Yeah, it's about the Nabataeans, how they helped sack Jerusalem with Rome. Whenever you get to it, I'll hop back. It's at the bottom of that article.
 
@@ -474,7 +472,7 @@ Reading from Wikipedia, Gindibu · read by an officer  *[[57:21](https://www.you
 
 > Gindibu ruled over an Arab kingdom located in the north-eastern parts of present-day Jordan, on the eastern borders of the Assyrian province established by Tiglath-Pileser III in 732 BC.
 
-- Go down. I don't want the Battle of Qarqar; we going to deal with that. Let me see here. It's not much on Gindibu like that. Go back up. Let me see if I want that. Hold on. Yeah, you know what, go ahead, read that, Battle of Qarqar. You can read that.
+- I don't want the Battle of Qarqar; we going to deal with that. Let me see here. It's not much on Gindibu like that. Go back up. Let me see if I want that. You can read that.
 
 > Battle of Qarqar. Although Gindibu's kingdom was not set on the Assyrian campaign routes and therefore was not in danger of being attacked by the Assyrians, the rise of the Neo-Assyrian power in the 9th century BCE meant that the desert and border routes where Gindibu had economic interests were under threat of Assyrian interference, due to which he allied
 
@@ -482,7 +480,7 @@ Reading from Wikipedia, Gindibu · read by an officer  *[[57:21](https://www.you
 
 > due to which he allied with his powerful neighbours, the kings Bar-Hadad II of Aram-Damascus and Ahab of Israel, against the Neo-Assyrian Empire. Fearing disruptions by the Assyrians, Gindibu led 1,000 camelry troops at the Battle of Qarqar in 853 BCE on the side of the alliance led by Aram-Damascus and Israel against Shalmaneser III of Assyria.
 
-- Right. So now go to the Assyrian side. Go to the Neo-Assyrian Empire. Yep, click on that. So Ahab was involved in this. Our forefathers, Ahab was involved in this war right here.
+- So now go to the Assyrian side. Go to the Neo-Assyrian Empire. Yep, click on that. So Ahab was involved in this. Our forefathers, Ahab was involved in this war right here.
 
 </div>
 
@@ -492,7 +490,7 @@ Reading from Wikipedia, Neo-Assyrian Empire · read by an officer  *[[1:00:08](h
 
 > The Neo-Assyrian Empire was the fourth and penultimate stage of ancient Assyrian history. Beginning with the accession of Adad-nirari II in 911 BC, the Neo-Assyrian Empire grew to dominate the ancient Near East throughout much of the 8th and 7th centuries BC.
 
-- Go down, go down. Let me see. Keep going. All right, you can drop that one. Go to the Battle of Qarqar.
+- All right, you can drop that one. Go to the Battle of Qarqar.
 
 </div>
 
@@ -504,13 +502,13 @@ Reading from Wikipedia, Battle of Qarqar · read by an officer  *[[1:01:07](http
 >
 > This battle, fought during the 854 to 846 BC Assyrian conquest of Aram, is notable for having a larger number of combatants than any previous battle, and for being the first instance in which some peoples enter recorded history, such as the Arabs.
 
-- So what they saying there is: the Arabs, remember, we're going to read the inscription that he wrote. This is the first time that an Arab king's name was mentioned. So that's why it's saying, and for being the first instance in which some peoples entered recorded history, such as the Arabs. So they saying this is the Arabs' first time entering in recorded history. But it's not their first time entering in recorded history. It's the first time that an Arab king's name is mentioned. Read that part again.
+- So what they saying there is: the Arabs, remember, we're going to read the inscription that he wrote. This is the first time that an Arab king's name was mentioned. So that's why it's saying, and for being the first instance in which some peoples entered recorded history, such as the Arabs. So they saying this is the Arabs' first time entering in recorded history. But it's not their first time entering in recorded history. It's the first time that an Arab king's name is mentioned.
 
 > This battle, fought during the 854 to 846 BC Assyrian conquest of Aram, is notable for having a larger number of combatants than any previous battle, and for being the first instance in which some peoples enter recorded history, such as the Arabs. The battle is recorded on the Kurkh Monoliths. Using a different recension of the Assyrian eponym list, which would put the battle's date at 854 BC.
 
-- Right. Click on the stele, the inscription, real quick. Blow that up. So it's recorded here: all those kings, including our King Ahab, King Ben-Hadad II, and Gindibu the Arab, the Israelite, are recorded on this inscription. They went to battle with the Assyrian Shalmaneser III.
+- Click on the stele, the inscription, real quick. Blow that up. So it's recorded here: all those kings, including our King Ahab, King Ben-Hadad II, and Gindibu the Arab, the Israelite, are recorded on this inscription. They went to battle with the Assyrian Shalmaneser III.
 
-- Now, we can't understand what this says. So give me the page. Give me the book. Go to the Telegram real quick, the page, before we go to break.
+- Now, we can't understand what this says. So give me the page. Give me the book.
 
 </div>
 
@@ -544,13 +542,13 @@ Reading from *Archaeology and the Bible* by George A. Barton, Philadelphia, Amer
 
 > 14,000 of their troops I overthrew with arms. Like Adad I poured out a flood upon them. I flung afar their corpses. I filled the plain with their mighty troops. With weapons I made their blood to flow. The field was too narrow for smiting them. The broad plain was used for burying their bodies. With their corpses I dammed, as with a dam. In that battle their chariots, their horsemen, their horses, harnesses and yokes I took.
 
-- Right. All right, so what I want to show you is that he mentioned Gindibu the Arab, the Qedarite. So I want to show you that as well. And we are also mentioning there Ahab of the northern kingdom. It's an inscription.
+- All right, so what I want to show you is that he mentioned Gindibu the Arab, the Qedarite. So I want to show you that as well. And we are also mentioning there Ahab of the northern kingdom. It's an inscription.
 
 - **Officer:** But before we go on break, you mind if I bring out something? Go to 2 Chronicles 18, read verse 1 to 2. Were you going to get that or no? I might be jumping the gun, man. If I'm jumping the gun, leave it.
 
-- **Deacon Eythan:** Go ahead, go ahead. Bring it out.
+- **Deacon Eythan:** Bring it out.
 
-- **Officer:** Okay. Just, it's going with what you talking about, the Battle of Qarqar, exactly what we were just reading about. Let's see when that battle took place. Read 2 Chronicles 18:1-2.
+- **Officer:** Just, it's going with what you talking about, the Battle of Qarqar, exactly what we were just reading about. Let's see when that battle took place. Read 2 Chronicles 18:1-2.
 
 </div>
 
@@ -562,7 +560,7 @@ Reading from *Archaeology and the Bible* by George A. Barton, Philadelphia, Amer
 
 - **Deacon Eythan:** What, you was about to bring this out later? No, go ahead, go ahead. You bring it.
 
-- **Officer:** Okay. He joined affinity with Ahab. Read the next verse.
+- **Officer:** He joined affinity with Ahab. Read the next verse.
 
 > <sup>[2](/bible/2-chronicles/18#v2)</sup> And after certain years he went down to Ahab to Samaria. And Ahab killed sheep and oxen for him in abundance, and for the people that he had with him, and persuaded him to go up with him to Ramoth–gilead.
 
@@ -580,19 +578,19 @@ Reading from the Ramoth-gilead article an officer posted in the group  *[[1:08:5
 
 - **Officer:** This is the exact event that we was just reading about. This is when Ahab persuaded Jehoshaphat to come to war with him. This is where Ahab was killed later on in that war. So this is that same Aram-Damascus that you was just bringing out. Ramoth-gilead.
 
-- **Deacon Eythan:** Right. That was it. All right, hey, so we going to take a quick break. We take a quick break. Hey, you could call us or text us at 267-262-6121. All right, you can call or text us at 267-262-6121. We'll see you after the break.
+- **Deacon Eythan:** That was it. All right, hey, so we going to take a quick break. We take a quick break. Hey, you could call us or text us at 267-262-6121. All right, you can call or text us at 267-262-6121. We'll see you after the break.
 
 </div>
 
 *[[1:09:49](https://www.youtube.com/watch?v=KgxnpzSMDf8&t=4189s)]* The break: Most High and Christ bless Israel. Bishop here; some of you call me the general, and I appreciate that. The gospel hasn't been preached everywhere as yet; there's much work to be done. As we know, the twelve tribes of Israel, like James 1 and 1 said, was scattered throughout all nations. I need some volunteers. I need some of you mighty men to stand up: you deacons, captains, officers, soldiers, stand up. I need volunteers to go on this mission. With Passover right around the corner, IUIC will now be presenting Passover Boom Cards, the ideal tool to use to teach our princes and princesses the biblical history of Passover. They are also available in English and Spanish, so don't hesitate to grab your very own deck of Boom Cards at boomlearning.com. "My expectations for the film is to leave with us a visual imprint on why we need to continue to make more films like what you see coming out of IUIC. Joseph's Dream was another good example. It gives the visual imagery; that's very important. We must be able to see things in our mind before we can act upon it. So what these films do, it actually puts a vision in our mind and it gives us something to step towards, rather than somebody just, quote unquote, telling the story. Now we got visual aid that helps us in our tenacious drive towards the truth of the Bible, and that's good for our children as well." Then the mission video from inside a basilica: "A black brother got mad and tried to attack Deacon Malachi. We inside the Basilica. The only Israelite there besides us is a brother that's deceived by the false image, and he has a picture up there, he's on the ground. So Deacon Malachi goes up to him and says, hey bro, you know Jesus ain't white, right? He's not white." The man shouts at them not to blaspheme the name of Jesus inside the Tabernacle and to get out, gets up and pushes, and they jump in between them. "I am black, but comely. Tall, dark and handsome. Jesus the Christ is a black man. This image came to the Congo, and this is what's happened to the people. We never backing down." The book of Isaiah 11 and verse 11, read in another mission video: "Australia is one of the islands of the sea. You have many other islands near Australia; for example you have Vanuatu, you have the Solomon Islands. All of these are islands of the sea, places where the Israelites in the last days will be scattered. Why? Because they are suffering God's judgment." Shalom, brothers and sisters, Most High and Christ bless. We want to thank you all for following Isaiah 11 Ministry. We're here to inform you that the local Sabbath classes will now be available in all languages. All of the classes from the bishops, deacons and captains will now be available in all languages.
 
-*[[1:24:25](https://www.youtube.com/watch?v=KgxnpzSMDf8&t=5065s)]* All right, shalom, shalom, we back, we back. All right, so we going to jump back into it. We were dealing with Shalmaneser III. This is when the Most High gave the Assyrians the power to come against us. This is when they got their power. So go back to the page. Go up, go up. So we just read the inscription, what was on the inscription that Shalmaneser III wrote. So let's go to Shalmaneser III real quick. Click on that Wikipedia, Shalmaneser III. Remember, this is the Battle of Qarqar. Remember, don't forget the thought: this is the first time that an Arab name, an Arab king's name, was mentioned. That's why we harping on this battle right here. This is the first time an Arab king's name was mentioned, which was Gindibu, who provided 1,000 camels to the battle.
+*[[1:24:25](https://www.youtube.com/watch?v=KgxnpzSMDf8&t=5065s)]* All right, shalom, shalom, we back, we back. All right, so we going to jump back into it. We were dealing with Shalmaneser III. This is when the Most High gave the Assyrians the power to come against us. This is when they got their power. So go back to the page. So we just read the inscription, what was on the inscription that Shalmaneser III wrote. So let's go to Shalmaneser III real quick. Click on that Wikipedia, Shalmaneser III. Remember, this is the Battle of Qarqar. Remember, don't forget the thought: this is the first time that an Arab name, an Arab king's name, was mentioned. That's why we harping on this battle right here. This is the first time an Arab king's name was mentioned, which was Gindibu, who provided 1,000 camels to the battle.
 
 Now, somebody say something real quick?
 
 **Officer:** Hey, because I thought of a book, man.
 
-**Deacon Eythan:** Real quick, real quick. Go. You can bring up what you had.
+**Deacon Eythan:** Go. You can bring up what you had.
 
 **Officer:** Yeah, it's early in the game, but we'll bring it back up.
 
@@ -604,7 +602,7 @@ Reading from Wikipedia, Shalmaneser III · read by an officer  *[[1:25:58](https
 
 > Shalmaneser III, the god is preeminent, was king of the Neo-Assyrian Empire from the death of his father Ashurnasirpal II in 859 BC to his own death in 824 BC. His long reign was a constant series of campaigns against the eastern tribes, the Babylonians, the nations of Mesopotamia and Syria. His armies penetrated to Lake Van and the Taurus Mountains; the Neo-Hittites were compelled to pay tribute, and the kingdoms of Hamath and Aram-Damascus were subdued. It is in the annals of Shalmaneser III from the 850s BC that the Arabs and Chaldeans first appear in recorded history.
 
-- You see that? So they keep saying that the Arabs and the Chaldeans first appear in recorded history.
+- So they keep saying that the Arabs and the Chaldeans first appear in recorded history.
 
 - **Officer:** So I have a question. Gindibu, how is he related to Ben-Hadad?
 
@@ -612,13 +610,13 @@ Reading from Wikipedia, Shalmaneser III · read by an officer  *[[1:25:58](https
 
 - **Officer:** But Ben-Hadad is, well, isn't he from Syria?
 
-- **Deacon Eythan:** Ben-Hadad, he's a Syrian, Damascus. He was ruling over Damascus. But Gindibu came and joined the alliance. He just gathered up that whole host of twelve kings to go against Shalmaneser. But I haven't seen no relation as far as them. I haven't seen any relation. Read that again, all the way from the top. I'm looking for something.
+- **Deacon Eythan:** Ben-Hadad, he's a Syrian, Damascus. He was ruling over Damascus. But Gindibu came and joined the alliance. He just gathered up that whole host of twelve kings to go against Shalmaneser. But I haven't seen no relation as far as them. I haven't seen any relation. I'm looking for something.
 
 > Shalmaneser III was king of the Neo-Assyrian Empire from the death of his father Ashurnasirpal II in 859 BC to his own death in 824 BC. His long reign was a constant series of campaigns against the eastern tribes, the Babylonians, the nations of Mesopotamia and Syria. His armies penetrated to Lake Van and the Taurus Mountains; the Neo-Hittites were compelled to pay tribute, and the kingdoms of Hamath and Aram-Damascus were subdued. It is in the annals of Shalmaneser III from the 850s BC that the Arabs and Chaldeans first appear in recorded history.
 
-- Right. So that's when the Arabs and the Chaldeans first appeared in recorded history. Remember, that's not the first time the Arabs ever appeared in recorded history. It's the first time that an Arab king's name was mentioned, which was Gindibu. Which was Gindibu.
+- So that's when the Arabs and the Chaldeans first appeared in recorded history. Remember, that's not the first time the Arabs ever appeared in recorded history. It's the first time that an Arab king's name was mentioned, which was Gindibu. Which was Gindibu.
 
-- Now, hey, give me that page real quick. Bring that up.
+- Now, hey, give me that page real quick.
 
 </div>
 
@@ -630,7 +628,7 @@ Reading from a page on King Jehu's Black Obelisk · read by an officer  *[[1:29:
 >
 > Placed outside the royal palace at Nimrud in Assyria, the monument is more than 6 feet high. Chiseled carefully in stone is a series of detailed drawings with accompanying inscriptions that commemorate Shalmaneser's numerous military campaigns. The obelisk shows an event not mentioned in the Bible: Jehu bowing before Shalmaneser, with numerous Israelite servants and aides standing by with gifts for the Assyrian king.
 
-- Right. So now give me that relief that he's talking about. Post it back up, so we keep reading.
+- So now give me that relief that he's talking about. Post it back up, so we keep reading.
 
 > Tribute, or compulsory payments to protect a weaker nation against a more powerful foe, was often levied by aggressor nations such as the Assyrians during Old Testament times. After being anointed king of Israel by the prophet Elisha, Jehu eliminated all threats to his rule by killing all members of the family of Ahab,
 
@@ -660,7 +658,7 @@ Reading from a page on King Jehu's Black Obelisk · read by an officer  *[[1:29:
 
 > <sup>[8](/bible/2-chronicles/21#v8)</sup> In his days the Edomites revolted from under the dominion of Judah, and made themselves a king.
 
-- So in the days of Jehoram, the … revolted from him. They revolted from him. Read that again.
+- So in the days of Jehoram, the … revolted from him. They revolted from him.
 
 - And they made themselves a king. Hey, give me the page, Modern Judaism, because what did they do after they revolted from him and made themselves a king? What happened to Esau? What happened? The page Modern Judaism, we read it last week. This goes back in reference to the book Modern Judaism. Remember, the Bible is our main source. Everything else is secondary source to the Bible. So the … revolted under King Jehoram and they made themselves a king.
 
@@ -670,11 +668,11 @@ Reading from *Modern Judaism*, the page read the week before, on the descendants
 
 > That the descendants of Esau, the sworn enemies of the descendants of Jacob, even to the end of the world, were at first a small nation inhabiting Mount Seir and the adjacent country contiguous to the land of Canaan; that they were easily confined within their own limits as long as the Israelites enjoyed a great and formidable empire in Canaan;
 
-- Right. So we had from who? We had from King Solomon, from King David, all the way up to King Jehoshaphat.
+- So we had from who? We had from King Solomon, from King David, all the way up to King Jehoshaphat.
 
 > but that after the powerful republic of the twelve tribes was destroyed by the Assyrians and Babylonians, they wonderfully increased in numbers and strength;
 
-- You see that? That's what we reading here. This is when they left. Now go back to that verse.
+- That's what we reading here. This is when they left. Now go back to that verse.
 
 </div>
 
@@ -718,7 +716,7 @@ Reading from a dictionary entry on the Amalekites · read by an officer  *[[1:37
 
 > Amalekites: a powerful people who dwelt in Arabia Deserta, between the Red and Dead Seas. They were the descendants of Amalek. A tradition prevails that a small number of the Amalekites colonized a part of Greece, and were the stock whence the Macedonians and Spartans sprung.
 
-- You see that? So a tradition prevailed that a small number of the Amalekites colonized a part of Greece. When did this happen? Read that again.
+- So a tradition prevailed that a small number of the Amalekites colonized a part of Greece. When did this happen?
 
 </div>
 
@@ -748,11 +746,11 @@ Reading from a dictionary entry on the Amalekites · read by an officer  *[[1:37
 
 > <sup>[17](/bible/2-chronicles/21#v17)</sup> And they came up into Judah, and brake into it, and carried away all the substance that was found in the king’s house, and his sons also, and his wives; so that there was never a son left him, save Jehoahaz, the youngest of his sons.
 
-- Listen, listen, listen. They did a raid. Ham and Ishmael did a raid on Judah, on King Jehoram, on his household. So they came up into Judah, they broke into Judah, and they did a raid. This is what is called a raid. And in my Bible, in the footnote, it says carried captive. That's what happened. Read that again.
+- They did a raid. Ham and Ishmael did a raid on Judah, on King Jehoram, on his household. So they came up into Judah, they broke into Judah, and they did a raid. This is what is called a raid. And in my Bible, in the footnote, it says carried captive. That's what happened.
 
 - So what you going to see as we move on throughout this history with Ishmael: you going to see that Ishmael and Ham was always confederate with one another against us. You're going to see. Even when we get into Africa, you're going to see that they were always against us, always making raids against us. So this is one of the first raids where you see Ham and Ishmael working together to come and take us.
 
-- Give me the Bible Hub, and put in 2 Chronicles 21 and 16. Go all the way down. That's what I want. Go to parallel commentaries. Go down, keep going. Go back up. Read, start with where it says the Philistines and of the Arabians.
+- Give me the Bible Hub, and put in 2 Chronicles 21 and 16. Go all the way down. That's what I want. Go to parallel commentaries. Go back up. Read, start with where it says the Philistines and of the Arabians.
 
 <div class="reading">
 
@@ -768,7 +766,7 @@ Reading from Bible Hub, the parallel commentaries on 2 Chronicles 21:16 · read 
 
 > The invasion of the Philistines and Arabians
 
-- Watch this. They what? The invasion of the Philistines and Arabians.
+- They what? The invasion of the Philistines and Arabians.
 
 > accords with Joel 3:4-6,
 
@@ -786,15 +784,13 @@ Reading from Bible Hub, the parallel commentaries on 2 Chronicles 21:16 · read 
 >
 > <sup>[17](/bible/2-chronicles/21#v17)</sup> And they came up into Judah, and brake into it, and carried away all the substance that was found in the king’s house, and his sons also, and his wives; so that there was never a son left him, save Jehoahaz, the youngest of his sons.
 
-- Right. Read on, read on, read on.
-
 > <sup>[18](/bible/2-chronicles/21#v18)</sup> And after all this the Lord smote him in his bowels with an incurable disease.
 >
 > <sup>[19](/bible/2-chronicles/21#v19)</sup> And it came to pass, that in process of time, after the end of two years, his bowels fell out by reason of his sickness: so he died of sore diseases. And his people made no burning for him, like the burning of his fathers.
 >
 > <sup>[20](/bible/2-chronicles/21#v20)</sup> Thirty and two years old was he when he began to reign, and he reigned in Jerusalem eight years, and departed without being desired. Howbeit they buried him in the city of David, but not in the sepulchres of the kings.
 
-- Right. Now give me 2 Chronicles 26 and 1. You start there.
+- Now give me 2 Chronicles 26 and 1. You start there.
 
 **[2 Chronicles 26:1-7](/bible/2-chronicles/26#v1)**  *[[1:46:41](https://www.youtube.com/watch?v=KgxnpzSMDf8&t=6401s)]*
 
@@ -820,7 +816,7 @@ Reading from Bible Hub, the parallel commentaries on 2 Chronicles 21:16 · read 
 
 - Here they go again. Here they go again. So now we are warring against them.
 
-- So read verse 7 again. Right, because they was always a problem: Ishmael and Ham together. They was always a problem to us, man. Remember, it said that they were our enemies. They were our enemies as well. That's why the Lord put them in Psalms 83. That's why they third, fourth on the list, because they were always our enemies as well. Read it again, verse 7.
+- So read verse 7 again. Right, because they was always a problem: Ishmael and Ham together. They was always a problem to us, man. Remember, it said that they were our enemies. They were our enemies as well. That's why the Lord put them in Psalms 83. That's why they third, fourth on the list, because they were always our enemies as well.
 
 - Hey, so notice something about the Most High. During the campaign, we read about Jehoram: the Most High stirred them up against us. Why? Because Jehoram wasn't keeping the laws. He was in evil. But here with Uzziah, Uzziah keeping God's laws, right? The Most High helped him against the Arabians, the Philistines. Give me that in Judith 5 and 20. Because they was always coming against us: either the Most High was going to stir them up to beat us, or, when he was keeping his laws, he was going to help us against them.
 
@@ -830,9 +826,9 @@ Reading from Bible Hub, the parallel commentaries on 2 Chronicles 21:16 · read 
 >
 > <sup>[21](/bible/judith/5#v21)</sup> But if there be no iniquity in their nation, let my lord now pass by, lest their Lord defend them, and their God be for them, and we become a reproach before all the world.
 
-- You see that? Lest our Lord defend us.
+- Lest our Lord defend us.
 
-- Right. So during the time of Jehoram, we became a reproach at that time. But now that we're keeping God's laws again, under King Uzziah, now the Lord is helping us against them, because they was always there. Go back to 2 Chronicles 26.
+- So during the time of Jehoram, we became a reproach at that time. But now that we're keeping God's laws again, under King Uzziah, now the Lord is helping us against them, because they was always there. Go back to 2 Chronicles 26.
 
 **[2 Chronicles 26:7-23](/bible/2-chronicles/26#v7)**  *[[1:50:37](https://www.youtube.com/watch?v=KgxnpzSMDf8&t=6637s)]*
 
@@ -856,7 +852,7 @@ Reading from Bible Hub, the parallel commentaries on 2 Chronicles 21:16 · read 
 
 - So he strengthened himself. The Lord strengthened him to the point that he had a host of fighting men.
 
-- That made war with what? With mighty power. You see that? So the Philistines and Arabians, the Arabs, they couldn't stand against us at this time. They could not stand against us. Why? Because he was doing what was right. He was keeping God's laws.
+- That made war with what? With mighty power. So the Philistines and Arabians, the Arabs, they couldn't stand against us at this time. They could not stand against us. Why? Because he was doing what was right. He was keeping God's laws.
 
 > <sup>[14](/bible/2-chronicles/26#v14)</sup> And Uzziah prepared for them throughout all the host shields, and spears, and helmets, and habergeons, and bows, and slings to cast stones.
 >
@@ -884,7 +880,7 @@ Reading from Bible Hub, the parallel commentaries on 2 Chronicles 21:16 · read 
 >
 > <sup>[23](/bible/2-chronicles/26#v23)</sup> So Uzziah slept with his fathers, and they buried him with his fathers in the field of the burial which belonged to the kings; for they said, He is a leper: and Jotham his son reigned in his stead.
 
-- Right. Now give me the page, Nahum Slouschz, *Travels in North Africa*. I just want this page real quick. We going to end it here.
+- Now give me the page, Nahum Slouschz, *Travels in North Africa*. I just want this page real quick. We going to end it here.
 
 <div class="reading">
 
@@ -912,8 +908,6 @@ Reading from *Travels in North Africa* by Nahum Slouschz, on the hereditary enem
 
 > are reality itself. They bridge over time and space, making these peoples one with their ancestors of a thousand years ago.
 
-- Read that part again.
-
 > To these tribes, isolated in the desert, their traditions, handed down from generation to generation by word of mouth, are reality itself. They bridge over time and space
 
 - So they bridge over time and space.
@@ -928,11 +922,11 @@ Reading from *Travels in North Africa* by Nahum Slouschz, on the hereditary enem
 
 > And as with the Arabs of old, it is always the ingenious biblical account from which the genealogical lists of the native tribes are derived, and which determine their sympathies, their loves, and their hates.
 
-- So all the nations, letting you know, all the nations got to go back to the Bible to read about the genealogy. That's what it's telling you. Read that again. Read it again, one more time.
+- So all the nations, letting you know, all the nations got to go back to the Bible to read about the genealogy. That's what it's telling you.
 
 > And as with the Arabs of old, it is always the ingenious biblical account from which the genealogical lists of the native tribes are derived
 
-- You see, it's the ingenious biblical account from which what? From which the genealogical lists of the native tribes are derived. You see that? So it's the ingenious biblical account from which the genealogical lists of the native tribes are derived.
+- You see, it's the ingenious biblical account from which what? From which the genealogical lists of the native tribes are derived. So it's the ingenious biblical account from which the genealogical lists of the native tribes are derived.
 
 > and which determine their sympathies, their loves, and their hates.
 
@@ -944,11 +938,11 @@ Reading from *Travels in North Africa* by Nahum Slouschz, on the hereditary enem
 
 *[[1:58:20](https://www.youtube.com/watch?v=KgxnpzSMDf8&t=7100s)]* All right, so I'mma end it there. I'mma end it there, and continue with the Arabs. We going to go more in depth with the Arabs. We've been dealing with the Assyrian captivity; we going to go to the Babylonian. We going to go through each captivity, of who the Arabs were. All right, so we're going to end it right there.
 
-**Officer:** Hey, Israel, let's give a hand for the Lord for that class. All praise the Most High. All praises. Let's get to the announcements.
+**Officer:** Hey, Israel, let's give a hand for the Lord for that class. Let's get to the announcements.
 
 *[[2:01:05](https://www.youtube.com/watch?v=KgxnpzSMDf8&t=7265s)]* **Officer:** Hey, you know, if you want to name some names, there's always the Northeast region officer, Officer Manuel. Thank you, sir, I appreciate you. Hey, put the camera on them, just so you know, you have a face to reference the name if they do ask. There are many Officer Manuels, but there is one Officer Manny.
 
-**Deacon Eythan:** Dang. All right, hey, shout out to the sisters for that wonderful breakfast, man. All praise to the Most High. All praises.
+**Deacon Eythan:** Dang. All right, hey, shout out to the sisters for that wonderful breakfast, man.
 
 *[[2:02:01](https://www.youtube.com/watch?v=KgxnpzSMDf8&t=7321s)]* All right, hey, so tune in next week, Lord's will, life last. Hey, we got Passover. Matter of fact, yeah, we got Passover. That's right. Yes sir. All right, so if we don't see y'all next week, then the week after, life last. We going to continue with the Arabs, Islam and the trans-Saharan slave trade. So with that, if we don't see you, happy Passover, Israel. Shalom. Most High and Christ bless. Shalom.
 

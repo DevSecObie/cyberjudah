@@ -178,21 +178,13 @@ France still takes it.
 
 **[Sirach 6:32-37](/bible/sirach/6#v32)**  *[[18:56](https://www.youtube.com/watch?v=14p8vV6KBfI&t=1136s)]*
 
-> <sup>[32](/bible/sirach/6#v32)</sup> My son, if thou wilt, thou shalt be taught: and if thou wilt apply thy mind, thou shalt be prudent.
->
-> <sup>[33](/bible/sirach/6#v33)</sup> If thou love to hear, thou shalt receive understanding: and if thou bow thine ear, thou shalt be wise,
->
-> <sup>[34](/bible/sirach/6#v34)</sup> Stand in the multitude of the elders; and cleave unto him that is wise.
->
-> <sup>[35](/bible/sirach/6#v35)</sup> Be willing to hear every godly discourse; and let not the parables of understanding escape thee.
->
-> <sup>[36](/bible/sirach/6#v36)</sup> And if thou seest a man of understanding, get thee betimes unto him, and let thy foot wear the steps of his door.
->
-> <sup>[37](/bible/sirach/6#v37)</sup> Let thy mind be upon the ordinances of the Lord and meditate continually in his commandments: he shall establish thine heart, and give thee wisdom at thine owns desire.
-
 - My son, if thou wilt, thou shalt be taught. If you brothers will, you are going to be taught.
 
 - And if thou wilt apply thy mind, thou shalt be prudent.
+
+> <sup>[32](/bible/sirach/6#v32)</sup> My son, if thou wilt, thou shalt be taught: and if thou wilt apply thy mind, thou shalt be prudent.
+>
+> <sup>[33](/bible/sirach/6#v33)</sup> If thou love to hear, thou shalt receive understanding: and if thou bow thine ear, thou shalt be wise,
 
 - If thou love to hear, thou shalt receive understanding: and if thou bow thine ear, thou shalt be wise. If you bow your ear you are going to be wise. Meaning you listen. You are studying the person ahead of you, you are going to be wise.
 
@@ -204,17 +196,23 @@ France still takes it.
 
 - And if thou seest a man of understanding, get thee betimes unto him, and let thy foot wear the steps of his door. That goes back to what I just showed you all. You see somebody ahead of you, somebody with understanding, make sure you study that person. Go to that person.
 
+> <sup>[34](/bible/sirach/6#v34)</sup> Stand in the multitude of the elders; and cleave unto him that is wise.
+>
+> <sup>[35](/bible/sirach/6#v35)</sup> Be willing to hear every godly discourse; and let not the parables of understanding escape thee.
+>
+> <sup>[36](/bible/sirach/6#v36)</sup> And if thou seest a man of understanding, get thee betimes unto him, and let thy foot wear the steps of his door.
+>
+> <sup>[37](/bible/sirach/6#v37)</sup> Let thy mind be upon the ordinances of the Lord and meditate continually in his commandments: he shall establish thine heart, and give thee wisdom at thine owns desire.
+
 - Let thy mind be upon the ordinances of the Lord and meditate continually in his commandments: he shall establish thine heart, and give thee wisdom at thine own desire. So that is wisdom for the week. Learn from your mistakes and from other people's mistakes. And if you see somebody of understanding, learn from that person. Study that person. Do not envy that person. And that goes for you sisters too.
 
 **[1 Maccabees 1:41-43](/bible/1-maccabees/1#v41)**  *[[24:41](https://www.youtube.com/watch?v=14p8vV6KBfI&t=1481s)]*
 
+- Moreover king Antiochus wrote to his whole kingdom, that all should be one people. So what did King Antiochus write? That everyone should be one people. This was the first form of democracy.
+
 > <sup>[41](/bible/1-maccabees/1#v41)</sup> Moreover king Antiochus wrote to his whole kingdom, that all should be one people,
 >
 > <sup>[42](/bible/1-maccabees/1#v42)</sup> And every one should leave his laws: so all the heathen agreed according to the commandment of the king.
->
-> <sup>[43](/bible/1-maccabees/1#v43)</sup> Yea, many also of the Israelites consented to his religion, and sacrificed unto idols, and profaned the sabbath.
-
-- Moreover king Antiochus wrote to his whole kingdom, that all should be one people. So what did King Antiochus write? That everyone should be one people. This was the first form of democracy.
 
 - And every one should leave his laws: so all the heathen agreed according to the commandment of the king. And all the heathens agreed. They all left their own laws and customs.
 
@@ -223,6 +221,8 @@ France still takes it.
 - Yea, many also of the Israelites consented to his religion, and sacrificed unto idols, and profaned the sabbath. So everybody left their laws and their customs and they followed whose laws and whose customs? The Greeks. So who is really the head? The Greeks. White people.
 
 - So even this form of democracy under Antiochus, where he says, oh, let us all be one people, they all were one people under him. Everybody was one people under them, meaning you have got to follow his religion, you have got to follow his politics, you have got to follow his customs. That is what democracy is. And guess what, it is the same thing in America. The white man came and said, let us all be one people, and everybody has to follow whose religion? The white man's religion.
+
+> <sup>[43](/bible/1-maccabees/1#v43)</sup> Yea, many also of the Israelites consented to his religion, and sacrificed unto idols, and profaned the sabbath.
 
 **[1 Maccabees 1:49-50](/bible/1-maccabees/1#v49)**  *[[28:02](https://www.youtube.com/watch?v=14p8vV6KBfI&t=1682s)]*
 
@@ -300,20 +300,6 @@ France still takes it.
 
 **[Daniel 7:19-25](/bible/daniel/7#v19)**  *[[1:29:57](https://www.youtube.com/watch?v=14p8vV6KBfI&t=5397s)]*
 
-> <sup>[19](/bible/daniel/7#v19)</sup> Then I would know the truth of the fourth beast, which was diverse from all the others, exceeding dreadful, whose teeth were of iron, and his nails of brass; which devoured, brake in pieces, and stamped the residue with his feet;
->
-> <sup>[20](/bible/daniel/7#v20)</sup> And of the ten horns that were in his head, and of the other which came up, and before whom three fell; even of that horn that had eyes, and a mouth that spake very great things, whose look was more stout than his fellows.
->
-> <sup>[21](/bible/daniel/7#v21)</sup> I beheld, and the same horn made war with the saints, and prevailed against them;
->
-> <sup>[22](/bible/daniel/7#v22)</sup> Until the Ancient of days came, and judgment was given to the saints of the most High; and the time came that the saints possessed the kingdom.
->
-> <sup>[23](/bible/daniel/7#v23)</sup> Thus he said, The fourth beast shall be the fourth kingdom upon earth, which shall be diverse from all kingdoms, and shall devour the whole earth, and shall tread it down, and break it in pieces.
->
-> <sup>[24](/bible/daniel/7#v24)</sup> And the ten horns out of this kingdom are ten kings that shall arise: and another shall rise after them; and he shall be diverse from the first, and he shall subdue three kings.
->
-> <sup>[25](/bible/daniel/7#v25)</sup> And he shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
-
 - Then I would know the truth of the fourth beast, which was diverse from all the others. So the fourth beast is who? The fourth beast is Europe and America. It began with Rome, Europe and America. The fourth beast is the fourth kingdom to rise up and rule this earth. The fourth and the last kingdom. That is what we are living in. The fourth beast, which is the Caucasian race, which is white people.
 
 - Exceeding dreadful, whose teeth were of iron, and his nails of brass; which devoured, brake in pieces, and stamped the residue with his feet. When it says it stamped the residue and brake them in pieces, this goes into what the white man did to everyone. Do you all understand that all nations were colonized by the white man? Do you know that China was colonized by the white man? That India was colonized by the white man? That the whole of Africa was colonized, Pakistan, all them Arab countries were colonized by the white man? That is what we are reading right here. We are reading about white supremacy, the white man ruling and everybody below him. That is what white supremacy is. But you all think white supremacy is something new.
@@ -340,6 +326,18 @@ France still takes it.
 
 - And shall tread it down, and break it in pieces. And break it in pieces, meaning divide it up. They divide the lands. That is what the Berlin Conference was about. They broke it in pieces. They divided the land.
 
+> <sup>[19](/bible/daniel/7#v19)</sup> Then I would know the truth of the fourth beast, which was diverse from all the others, exceeding dreadful, whose teeth were of iron, and his nails of brass; which devoured, brake in pieces, and stamped the residue with his feet;
+>
+> <sup>[20](/bible/daniel/7#v20)</sup> And of the ten horns that were in his head, and of the other which came up, and before whom three fell; even of that horn that had eyes, and a mouth that spake very great things, whose look was more stout than his fellows.
+>
+> <sup>[21](/bible/daniel/7#v21)</sup> I beheld, and the same horn made war with the saints, and prevailed against them;
+>
+> <sup>[22](/bible/daniel/7#v22)</sup> Until the Ancient of days came, and judgment was given to the saints of the most High; and the time came that the saints possessed the kingdom.
+>
+> <sup>[23](/bible/daniel/7#v23)</sup> Thus he said, The fourth beast shall be the fourth kingdom upon earth, which shall be diverse from all kingdoms, and shall devour the whole earth, and shall tread it down, and break it in pieces.
+>
+> <sup>[24](/bible/daniel/7#v24)</sup> And the ten horns out of this kingdom are ten kings that shall arise: and another shall rise after them; and he shall be diverse from the first, and he shall subdue three kings.
+
 - And the ten horns out of this kingdom are ten kings that shall arise: and another shall rise after them. That is the ten nations. Europe.
 
 - And he shall be diverse from the first, and he shall subdue three kings.
@@ -350,19 +348,11 @@ France still takes it.
 
 - And think to change times and laws. Why does it say think? Because even though he thinks it, we are going to reverse it. We are going to bring out the truth. He has changed God's laws. He has changed the Sabbath day. He thinks to do all these things, but we are going to bring it back around.
 
+> <sup>[25](/bible/daniel/7#v25)</sup> And he shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
+
 **[2 Esdras 11:37-42](/bible/2-esdras/11#v37)**  *[[1:41:42](https://www.youtube.com/watch?v=14p8vV6KBfI&t=6102s)]*
 
 > <sup>[37](/bible/2-esdras/11#v37)</sup> And I beheld, and lo, as it were a roaring lion chased out of the wood: and I saw that he sent out a man’s voice unto the eagle, and said,
->
-> <sup>[38](/bible/2-esdras/11#v38)</sup> Hear thou, I will talk with thee, and the Highest shall say unto thee,
->
-> <sup>[39](/bible/2-esdras/11#v39)</sup> Art not thou it that remainest of the four beasts, whom I made to reign in my world, that the end of their times might come through them?
->
-> <sup>[40](/bible/2-esdras/11#v40)</sup> And the fourth came, and overcame all the beasts that were past, and had power over the world with great fearfulness, and over the whole compass of the earth with much wicked oppression; and so long time dwelt he upon the earth with deceit.
->
-> <sup>[41](/bible/2-esdras/11#v41)</sup> For the earth hast thou not judged with truth.
->
-> <sup>[42](/bible/2-esdras/11#v42)</sup> For thou hast afflicted the meek, thou hast hurt the peaceable, thou hast loved liars, and destroyed the dwellings of them that brought forth fruit, and hast cast down the walls of such as did thee no harm.
 
 - And I beheld, and lo, as it were a roaring lion chased out of the wood: and I saw that he sent out a man's voice unto the eagle, and said.
 
@@ -381,6 +371,16 @@ France still takes it.
 - For the earth hast thou not judged with truth. So the white man did not judge the earth in truth. That shows you he is the one on top, the one that is in power. But he did not judge the earth in truth.
 
 - For thou hast afflicted the meek, thou hast hurt the peaceable, thou hast loved liars. He afflicted the meek. He hurt the peaceable. He loved liars. Why does it say he hurt the peaceable? Because the Iranians were trying to set peace up with them and they bombed the hell out of them and killed their leader.
+
+> <sup>[38](/bible/2-esdras/11#v38)</sup> Hear thou, I will talk with thee, and the Highest shall say unto thee,
+>
+> <sup>[39](/bible/2-esdras/11#v39)</sup> Art not thou it that remainest of the four beasts, whom I made to reign in my world, that the end of their times might come through them?
+>
+> <sup>[40](/bible/2-esdras/11#v40)</sup> And the fourth came, and overcame all the beasts that were past, and had power over the world with great fearfulness, and over the whole compass of the earth with much wicked oppression; and so long time dwelt he upon the earth with deceit.
+>
+> <sup>[41](/bible/2-esdras/11#v41)</sup> For the earth hast thou not judged with truth.
+>
+> <sup>[42](/bible/2-esdras/11#v42)</sup> For thou hast afflicted the meek, thou hast hurt the peaceable, thou hast loved liars, and destroyed the dwellings of them that brought forth fruit, and hast cast down the walls of such as did thee no harm.
 
 **[Revelation 16:12-14](/bible/revelation/16#v12)**  *[[1:47:18](https://www.youtube.com/watch?v=14p8vV6KBfI&t=6438s)]*
 
@@ -448,21 +448,13 @@ France still takes it.
 
 **[Daniel 2:39-44](/bible/daniel/2#v39)**  *[[2:19:24](https://www.youtube.com/watch?v=14p8vV6KBfI&t=8364s)]*
 
-> <sup>[39](/bible/daniel/2#v39)</sup> And after thee shall arise another kingdom inferior to thee, and another third kingdom of brass, which shall bear rule over all the earth.
->
-> <sup>[40](/bible/daniel/2#v40)</sup> And the fourth kingdom shall be strong as iron: forasmuch as iron breaketh in pieces and subdueth all things: and as iron that breaketh all these, shall it break in pieces and bruise.
->
-> <sup>[41](/bible/daniel/2#v41)</sup> And whereas thou sawest the feet and toes, part of potters’ clay, and part of iron, the kingdom shall be divided; but there shall be in it of the strength of the iron, forasmuch as thou sawest the iron mixed with miry clay.
->
-> <sup>[42](/bible/daniel/2#v42)</sup> And as the toes of the feet were part of iron, and part of clay, so the kingdom shall be partly strong, and partly broken.
->
-> <sup>[43](/bible/daniel/2#v43)</sup> And whereas thou sawest iron mixed with miry clay, they shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay.
->
-> <sup>[44](/bible/daniel/2#v44)</sup> And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.
-
 - And after thee shall arise another kingdom inferior to thee, and another third kingdom of brass, which shall bear rule over all the earth.
 
 - And the fourth kingdom shall be strong as iron. The fourth kingdom is white supremacy, the white race, the Edomite race ruling the earth. The future belongs to the American man that has iron in his blood and patriotism in his heart. Let us see what that iron is.
+
+> <sup>[39](/bible/daniel/2#v39)</sup> And after thee shall arise another kingdom inferior to thee, and another third kingdom of brass, which shall bear rule over all the earth.
+>
+> <sup>[40](/bible/daniel/2#v40)</sup> And the fourth kingdom shall be strong as iron: forasmuch as iron breaketh in pieces and subdueth all things: and as iron that breaketh all these, shall it break in pieces and bruise.
 
 - Forasmuch as iron breaketh in pieces and subdueth all things: and as iron that breaketh all these, shall it break in pieces and bruise. So that iron is talking about white people. That is who the iron is talking about. The fourth beast, the Caucasian race.
 
@@ -472,6 +464,12 @@ France still takes it.
 
 - Forasmuch as thou sawest the iron mixed with miry clay. And as the toes of the feet were part of iron, and part of clay, so the kingdom shall be partly strong, and partly broken. So God says this last kingdom is broken and there is nothing you can do to fix it. Why? Because you mixed nations into your kingdom.
 
+> <sup>[41](/bible/daniel/2#v41)</sup> And whereas thou sawest the feet and toes, part of potters’ clay, and part of iron, the kingdom shall be divided; but there shall be in it of the strength of the iron, forasmuch as thou sawest the iron mixed with miry clay.
+>
+> <sup>[42](/bible/daniel/2#v42)</sup> And as the toes of the feet were part of iron, and part of clay, so the kingdom shall be partly strong, and partly broken.
+>
+> <sup>[43](/bible/daniel/2#v43)</sup> And whereas thou sawest iron mixed with miry clay, they shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay.
+
 - And whereas thou sawest iron mixed with miry clay, they shall mingle themselves with the seed of men: but they shall not cleave one to another. They are going to mingle themselves with the seed of men. Who is going to mingle themselves? Iron. White people. But white people are not going to cleave. Everybody is not going to get along.
 
 - Even as iron is not mixed with clay. The iron is who? White people. White people hate everybody. They are racist and they hate everybody. They do not want to mix with …. They do not want to mix with East Indians. They do not want to mix with anyone. So that is why this kingdom is going to be partly strong, partly broken.
@@ -479,6 +477,8 @@ France still takes it.
 - And in the days of these kings shall the God of heaven set up a kingdom. So that is the time we are living in right now. So what God said we have got to do, brothers, is we have got to separate. And when we separate, what have we got to do? We have got to set up a kingdom within a kingdom. You cannot be a revolutionary and support white supremacy and stay in that system of white supremacy and talk about fighting against the system. God says for us to create our own system. When he says to separate, he is really saying, create your own system. Can we do that? Those of you all that have got the skills, can you all do that? Let us work together and do that.
 
 - The prophecy is that a kingdom is being set up within a kingdom. That white supremacy kingdom is ruling the earth today, that white power structure. God says, I am going to set up another power structure within that power structure, which is the kingdom of heaven that shall never be destroyed. That is us, and that is what you see we are doing.
+
+> <sup>[44](/bible/daniel/2#v44)</sup> And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.
 
 **[Jeremiah 50:16](/bible/jeremiah/50#v16)**  *[[2:24:49](https://www.youtube.com/watch?v=14p8vV6KBfI&t=8689s)]*
 
@@ -511,14 +511,6 @@ France still takes it.
 **[1 Kings 4:21-25](/bible/1-kings/4#v21)**  *[[2:29:43](https://www.youtube.com/watch?v=14p8vV6KBfI&t=8983s)]*
 
 > <sup>[21](/bible/1-kings/4#v21)</sup> And Solomon reigned over all kingdoms from the river unto the land of the Philistines, and unto the border of Egypt: they brought presents, and served Solomon all the days of his life.
->
-> <sup>[22](/bible/1-kings/4#v22)</sup> And Solomon’s provision for one day was thirty measures of fine flour, and threescore measures of meal,
->
-> <sup>[23](/bible/1-kings/4#v23)</sup> Ten fat oxen, and twenty oxen out of the pastures, and an hundred sheep, beside harts, and roebucks, and fallowdeer, and fatted fowl.
->
-> <sup>[24](/bible/1-kings/4#v24)</sup> For he had dominion over all the region on this side the river, from Tiphsah even to Azzah, over all the kings on this side the river: and he had peace on all sides round about him.
->
-> <sup>[25](/bible/1-kings/4#v25)</sup> And Judah and Israel dwelt safely, every man under his vine and under his fig tree, from Dan even to Beer–sheba, all the days of Solomon.
 
 - And Solomon reigned over all kingdoms from the river unto the land of the Philistines, and unto the border of Egypt: they brought presents, and served Solomon all the days of his life. Solomon reigned over all kingdoms. So this was Israelite supremacy. That is how we are going to be again on the earth.
 
@@ -526,9 +518,17 @@ France still takes it.
 
 - Ten fat oxen, and twenty oxen out of the pastures, and an hundred sheep, beside harts, and roebucks, and fallowdeer, and fatted fowl.
 
+> <sup>[22](/bible/1-kings/4#v22)</sup> And Solomon’s provision for one day was thirty measures of fine flour, and threescore measures of meal,
+>
+> <sup>[23](/bible/1-kings/4#v23)</sup> Ten fat oxen, and twenty oxen out of the pastures, and an hundred sheep, beside harts, and roebucks, and fallowdeer, and fatted fowl.
+>
+> <sup>[24](/bible/1-kings/4#v24)</sup> For he had dominion over all the region on this side the river, from Tiphsah even to Azzah, over all the kings on this side the river: and he had peace on all sides round about him.
+
 - For he had dominion over all the region on this side the river, from Tiphsah even to Azzah, over all the kings on this side the river: and he had peace on all sides round about him.
 
 - And Judah and Israel dwelt safely, every man under his vine and under his fig tree, from Dan even to Beersheba, all the days of Solomon.
+
+> <sup>[25](/bible/1-kings/4#v25)</sup> And Judah and Israel dwelt safely, every man under his vine and under his fig tree, from Dan even to Beer–sheba, all the days of Solomon.
 
 **[Isaiah 2:2-4](/bible/isaiah/2#v2)**  *[[2:30:44](https://www.youtube.com/watch?v=14p8vV6KBfI&t=9044s)]*
 

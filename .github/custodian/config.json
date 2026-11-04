@@ -1,0 +1,63 @@
+{
+  "label": "custodian",
+  "health_issue_title": "Deployment health",
+  "owner_mention": "@DevSecObie",
+  "recent_days": 14,
+  "max_deletions_per_run": 100,
+  "stale_pr_hours": 48,
+  "inactive_environment_days": 30,
+  "keep_branches": [],
+  "required_secrets": [
+    "CLOUDFLARE_API_TOKEN",
+    "CLOUDFLARE_ACCOUNT_ID",
+    "TRANSCRIPTAPI_KEY",
+    "GJT",
+    "R2_ACCESS_KEY_ID",
+    "R2_SECRET_ACCESS_KEY"
+  ],
+  "endpoints": [
+    {
+      "name": "cyberjudah.io",
+      "url": "https://cyberjudah.io/"
+    },
+    {
+      "name": "Data set (live build pointer)",
+      "url": "https://data.cyberjudah.io/pointer.json"
+    }
+  ],
+  "release": {
+    "workflow": "data.yml",
+    "branch": "main"
+  },
+  "watch_workflows": [
+    {
+      "name": "Data set publish (data.cyberjudah.io)",
+      "file": "data.yml",
+      "branch": "main"
+    },
+    {
+      "name": "Site deploy (cyberjudah.io)",
+      "file": "site.yml",
+      "branch": "main"
+    },
+    {
+      "name": "Old Pages redirect",
+      "file": "redirect.yml",
+      "critical": false
+    },
+    {
+      "name": "Hourly transcript harvest",
+      "file": "transcripts-hourly.yml",
+      "critical": false
+    },
+    {
+      "name": "Quality checks",
+      "file": "quality.yml",
+      "critical": false
+    }
+  ],
+  "production_only_secrets": [
+    "R2_DATA_ACCESS_KEY_ID",
+    "R2_DATA_SECRET_ACCESS_KEY"
+  ]
+}

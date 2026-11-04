@@ -2,7 +2,7 @@
 title: "Israel Called Gentiles, Strangers, Heathen & Saints"
 slug: "2026/2026-08-07-israel-called-gentiles-strangers-heathen-and-saints"
 date: "2026-08-07"
-teacher: "Captain Matt"
+teacher: "Captain Matthew"
 description: "15 Minutes w/ The Captains · 2026-08-07"
 tags: ["15 Minutes w/ The Captains", "captivity", "idolatry", "mercy", "nations", "purpose", "rome"]
 ---
@@ -40,12 +40,12 @@ So we are going to get into it today. Let us start with Gentiles.
 **[Isaiah 9:6-7](/bible/isaiah/9#v6)**  *[[1:20](https://www.youtube.com/watch?v=4yvewCD3Y9o&t=80s)]*
 
 > <sup>[6](/bible/isaiah/9#v6)</sup> For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.
->
-> <sup>[7](/bible/isaiah/9#v7)</sup> Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the Lord of hosts will perform this.
 
 - For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.
 
 - Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever.
+
+> <sup>[7](/bible/isaiah/9#v7)</sup> Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the Lord of hosts will perform this.
 
 **[Isaiah 9:1](/bible/isaiah/9#v1)**  *[[1:57](https://www.youtube.com/watch?v=4yvewCD3Y9o&t=117s)]*
 

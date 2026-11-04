@@ -18,16 +18,13 @@ tags: ["Our Hidden History", "captivity", "egypt"]
 
 ## Introduction
 
-*[[2:34](https://www.youtube.com/watch?v=SUv0k2Lk3oo&t=154s)]* Welcome back, welcome back. Make sure you share this. Like I said, the fee went down. So the fee went down, unfortunately. Welcome back, welcome back, Israel. So share this. Make sure you inform everybody that the fee went down on us. Okay, so we're gonna get into the second part. Those of you that have a call, like I said, we sent the number: call in, 267-702-6121.
-
-**Guest:** Hey cap, you just noticed, for everyone that follow IUIC, you notice when heavy stuff come out, it always happen. Like, what the hell is this.
+*[[2:34](https://www.youtube.com/watch?v=SUv0k2Lk3oo&t=154s)]* Okay, so we're gonna get into the second part.
 
 **Deacon Eythan:** And like I said, we didn't get into like the brunt of the information that we're about to bring out. So now we're just about to start getting heavy and heavy into it.
 
 *[[3:18](https://www.youtube.com/watch?v=SUv0k2Lk3oo&t=198s)]* Now I want to start at, let's start Isaiah 45 verse 14. So now we just showed, we just proved, that the ancient Egyptians were black, or of Nilotic descent, a very dark-skinned race of people. We showed archaeological evidence as well as scholarly evidence, going to the different books. It's irrefutable that the ancient Egyptians were Africans and not Arabs. I'll say it again: they're of Hamitic descent and not Semitic descent.
 
 ## Readings and Scriptures
-
 
 **[Isaiah 45:14](/bible/isaiah/45#v14)**  *[[3:51](https://www.youtube.com/watch?v=SUv0k2Lk3oo&t=231s)]*
 
@@ -53,7 +50,7 @@ Reading from an article, "Meet the tallest people in Africa"  *[[4:21](https://w
 
 </div>
 
-*[[6:28](https://www.youtube.com/watch?v=SUv0k2Lk3oo&t=388s)]* Now let's get The Politics of the Two Sudans. The Politics of the Two Sudans. So remember, the ancient Egyptians were men of great stature. We saw the ancient relics, wall relics, of them towering a staggering height over everybody else. You saw King Ramses II towering over his enemies. You got it? It's page 16 and 17. The Politics of the Two Sudans. Let's put it on the screen. Now blow it up.
+*[[6:28](https://www.youtube.com/watch?v=SUv0k2Lk3oo&t=388s)]* Now let's get The Politics of the Two Sudans. The Politics of the Two Sudans. So remember, the ancient Egyptians were men of great stature. We saw the ancient relics, wall relics, of them towering a staggering height over everybody else. You saw King Ramses II towering over his enemies. You got it? It's page 16 and 17. The Politics of the Two Sudans. Now blow it up.
 
 <div class="reading">
 
@@ -85,7 +82,7 @@ Reading from *The Politics of the Two Sudans*, pages 16 and 17, on the peoples o
 
 > One such example of Egyptian cultural influence relates to the formation of the horns of bullocks, which was a common practice with the Egyptians of the dynastic era.
 
-- Now do we have any pictures of that? Let's bring that up. So one custom trait was the horns of the bullocks. I sent you, Officer Manny, go to the group, and then show me a modern-age picture if you could find one. Bring that on the screen. Blow it up.
+- Now do we have any pictures of that? Let's bring that up. So one custom trait was the horns of the bullocks. I sent you, Officer Manny, go to the group, and then show me a modern-age picture if you could find one. Blow it up.
 
 - So if you notice the horns of the bullocks, and it goes back to ancient. You notice how the Africans always carry their bulls with them, and they worship them. What do you think America got their customs from? Ba'al. It's going back to Ba'al worship. Or you have in Wall Street, they have the bull headed upwards. They said a bull is for progress, it's for increase. So it's all about the word. I don't know why they worship the cow. It's always a cow. I seen in one image one of those tribes drinking cow's pee and wiping it all over his face. The hell is this.
 
@@ -97,7 +94,7 @@ Reading from *The Politics of the Two Sudans*, pages 16 and 17, on the peoples o
 
 *[[13:50](https://www.youtube.com/watch?v=SUv0k2Lk3oo&t=830s)]* Hey, could you put up the Dinka? Because that goes back to the Egyptian hieroglyphic. Then we're gonna move on after this. The one in the middle right there, the second one from my left, your right, right there with the pink arrow showing you. So here you got a Dinka man, and this is what is in the Egyptian pyramids, showing you same jewelry, same nappy head, same facial features of this Dinka man. All in the Egyptian art. That's them. That'd be putting them plates in their lips. That's my man. Now his lip is just big. That's just big black lips.
 
-So now let's get some of the images of the Nilotes, or the Dinkas, as well as the Tutsis. *[[15:06](https://www.youtube.com/watch?v=SUv0k2Lk3oo&t=906s)]* See how tall they are, looking at them in comparison to an average white man. Damn, tall as hell. Men of stature, the tallest people in the world. Let's go to the next one. Look how tall these guys are. That's why, Ramses the second towering over his captives. Look how tall the woman in red in the back is. It's all like the damn house. You see the roof, you can zoom in. There you go. It's huge. Go to the next one. These are the women. Damn. Is there any more? There's one more. Look at that. It's a young man too. Look how tall he is. Where they get them big suits from? I don't know. They got to be custom-made, custom-made, man.
+So now let's get some of the images of the Nilotes, or the Dinkas, as well as the Tutsis. *[[15:06](https://www.youtube.com/watch?v=SUv0k2Lk3oo&t=906s)]* See how tall they are, looking at them in comparison to an average white man. Damn, tall as hell. Men of stature, the tallest people in the world. Let's go to the next one. Look how tall these guys are. That's why, Ramses the second towering over his captives. Look how tall the woman in red in the back is. It's all like the damn house. You see the roof, you can zoom in. It's huge. Go to the next one. These are the women. Damn. Is there any more? There's one more. Look at that. It's a young man too. Look how tall he is. Where they get them big suits from? I don't know. They got to be custom-made, custom-made, man.
 
 *[[16:07](https://www.youtube.com/watch?v=SUv0k2Lk3oo&t=967s)]* All right, give me Exodus chapter 1 verse 9. Let's move on. So these are your real modern-day Egyptians, your real modern-day Egyptians. Exodus chapter 1 verse 9.
 
@@ -157,7 +154,7 @@ Reading from *Unto Thy Seed*, the caption of a mural of Israel's bondage  *[[20:
 
 > <sup>[11](/bible/exodus/1#v11)</sup> Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses.
 
-- No, that's not it. I don't want that. I said the clay. Go back, go back, go to the second one. Second one, yes. And then I want the description also next. So now this is the same book, Jewish Civilization. So read that again: therefore they did set over them taskmasters to afflict them with their burdens. To afflict them with their burdens. Highlight that. Zoom in. Hey, can you move out of the screen so I can see what's going on. All right, zoom in.
+- No, that's not it. I don't want that. I said the clay. Go back, go back, go to the second one. Second one, yes. And then I want the description also next. So now this is the same book, Jewish Civilization. So read that again: therefore they did set over them taskmasters to afflict them with their burdens. To afflict them with their burdens. Highlight that. Hey, can you move out of the screen so I can see what's going on.
 
 - Taskmasters. Let's see what color are they. Black, black, black. And what color are the taskmasters? Black. You know why? Because the taskmasters were their own people. Just like you have today black police officers afflicting their own people. You have black civil servants afflicting their own people. And a lot of times black people are worse than the captains as it is, than the slave master. Exactly. So you can see the circles. So you have the children of Israel that's doing the work, the hard bondage, putting the bricks together. Then you have the taskmasters over there.
 
@@ -179,13 +176,13 @@ Reading from *Jewish Civilization*, the caption of the model of a granary  *[[24
 
 - Now let's go to Negroes in Egypt.
 
-- **Guest:** Cap, if you allow me. Let me back up about Ramses being the Pharaoh of the Exodus. You might have to go to the group, and the page I have highlighted. Go into the group real quick. Go to the bottom, the pages I posted. We just want to get some more information on Pithom and Ramses. Go up, go up. So you see the white page right there that's highlighted, the second one. So like we, I can't bring it up before. These … they do a diligent search, and they bring out the archeology, the facts that back up the scriptures. All right, watch this. Blow that up.
+- **Guest:** Cap, if you allow me. Let me back up about Ramses being the Pharaoh of the Exodus. You might have to go to the group, and the page I have highlighted. Go into the group real quick. Go to the bottom, the pages I posted. We just want to get some more information on Pithom and Ramses. So you see the white page right there that's highlighted, the second one. So like we, I can't bring it up before. These … they do a diligent search, and they bring out the archeology, the facts that back up the scriptures. Blow that up.
 
 </div>
 
 <div class="reading">
 
-Reading from a highlighted page, not named on air, "Was Ramses II the Pharaoh of the Oppression?"  *[[27:06](https://www.youtube.com/watch?v=SUv0k2Lk3oo&t=1626s)]*
+Reading from a highlighted page, not named on air, "Was Ramses II the Pharaoh of the Oppression?" *[[27:06](https://www.youtube.com/watch?v=SUv0k2Lk3oo&t=1626s)]*
 
 > Was Ramses the Second the Pharaoh of the Oppression? I must now entreat those who have had patience to accompany me thus far in a minute and perhaps a somewhat tedious inquiry, to join with me in a final examination of the evidence which connects Tell el-Maskhuta with the Ramses of the Bible, and both with Ramses II. To begin with, Tell el-Maskhuta is distinctly in the land of Goshen.
 
@@ -281,7 +278,7 @@ Reading from *Southern Literary Messenger*, pages 2 and 3, the lecture "The Negr
 
 > Races for a long time, for at least 3,500, and indeed in a certain sense for more than 4,000 years; for there exists unquestionable proofs of their presence in Egypt under the 12th Dynasty.
 
-- Read that again. It's crazy.
+- It's crazy.
 
 - How long ago did we say Moses wrote the Exodus? About 4,000 years ago, we always say. So you have the scholars saying that the Negro races, there's irrefutable evidence that they could document us all the way back from 4,000 years ago, in ancient Egyptian monuments. Unquestionable evidence. Moses, the Exodus, was about 4,000 years ago, the same timeline of the Israelites.
 
@@ -291,7 +288,7 @@ Reading from *Southern Literary Messenger*, pages 2 and 3, the lecture "The Negr
 
 > complexion, features, expression
 
-- Complexion. Can we read that again? Complexion, features and expressions. Showing you, that's why the Crania Aegyptiaca goes into the crania, or the differences in phenotypes, of the ancient Egyptians as well as the Israelites, or Negro. We're not the same people. Even when it comes to complexion. I always have a saying: the way you can tell blacks from Africans is by your skin types. Black people have like a natural lustful, shiny skin tone, like my man Black Manny. And then you have Egyptians, or real Nilotic Africans: when you look at them, you look at the skin complexion, it's like a dull, rusty, dusty, crusty, ashy skin tone. It's like no lushness, it's like no oil on the skin. That's why they probably have cow's pee on them, so they can moisturize, or some type of. I'm playing around. But we're African? No, we're not. We're Israelites.
+- Complexion. Complexion, features and expressions. Showing you, that's why the Crania Aegyptiaca goes into the crania, or the differences in phenotypes, of the ancient Egyptians as well as the Israelites, or Negro. We're not the same people. Even when it comes to complexion. I always have a saying: the way you can tell blacks from Africans is by your skin types. Black people have like a natural lustful, shiny skin tone, like my man Black Manny. And then you have Egyptians, or real Nilotic Africans: when you look at them, you look at the skin complexion, it's like a dull, rusty, dusty, crusty, ashy skin tone. It's like no lushness, it's like no oil on the skin. That's why they probably have cow's pee on them, so they can moisturize, or some type of. I'm playing around. But we're African? No, we're not. We're Israelites.
 
 - **Guest:** Cap, also, remember the movie Django? Remember Leonardo DiCaprio, remember he was studying, he had a skull of his old slave or whatever. That's showing you that they did that during that time period. They studied our skulls, man, so they could pick certain bones or whatever in our skull that let us know we was inferior, or whatever the case was. But they were doing that during that time period.
 
@@ -329,7 +326,7 @@ Reading from *Southern Literary Messenger*, pages 2 and 3, the lecture "The Negr
 
 > We are told that the Negro was a stranger in Egypt
 
-- Wait, read that again. We're told that the Negro was a stranger in Egypt. Can you get me Genesis chapter 15. And also remember what was brought out earlier in the Zondervan Bible Dictionary of Ham. Remember who Ham is: father of the dark race, but not the Negro. This is why this is imperative right here. Genesis 15, Genesis chapter 15 verse 13.
+- We're told that the Negro was a stranger in Egypt. Can you get me Genesis chapter 15. And also remember what was brought out earlier in the Zondervan Bible Dictionary of Ham. Remember who Ham is: father of the dark race, but not the Negro. This is why this is imperative right here. Genesis 15, Genesis chapter 15 verse 13.
 
 </div>
 
@@ -337,7 +334,7 @@ Reading from *Southern Literary Messenger*, pages 2 and 3, the lecture "The Negr
 
 > <sup>[13](/bible/genesis/15#v13)</sup> And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years;
 
-- So thy seed, the Israelites, will be a stranger in a land which is not theirs, and shall serve them, and they shall afflict them 400 years. So the same position that we had in ancient Egypt is the same position we have in America. Malcolm X and many different black activists always stated that the Negro has been in America for over 400 years. History repeating itself. So now it says thy seed shall be a stranger in the land that is not theirs. Read that again.
+- So thy seed, the Israelites, will be a stranger in a land which is not theirs, and shall serve them, and they shall afflict them 400 years. So the same position that we had in ancient Egypt is the same position we have in America. Malcolm X and many different black activists always stated that the Negro has been in America for over 400 years. History repeating itself. So now it says thy seed shall be a stranger in the land that is not theirs.
 
 <div class="reading">
 
@@ -493,11 +490,11 @@ Reading from *Southern Literary Messenger*, "The Negro Races", continued  *[[46:
 
 ## In Closing
 
-*[[56:51](https://www.youtube.com/watch?v=SUv0k2Lk3oo&t=3411s)]* All praise to the Most High. Give a round of applause. This history is needed for our people, because we've been evacuating too long in these schools of Esau and our oppressors.
+*[[56:51](https://www.youtube.com/watch?v=SUv0k2Lk3oo&t=3411s)]* Give a round of applause. This history is needed for our people, because we've been evacuating too long in these schools of Esau and our oppressors.
 
 *[[57:46](https://www.youtube.com/watch?v=SUv0k2Lk3oo&t=3466s)]* Officer Manny, you know, this is the search of our forefathers, and we have visual proof for the people. Real quick, could you just throw those last two images. Let's end this off properly. You know, in the search of our forefathers we came across some real interesting photos, the last two I just sent you. We have the Russian icons, the first ones. Send it straight to your text message. Hurry up. Nothing? All right, we'll show it to them next week.
 
-*[[58:46](https://www.youtube.com/watch?v=SUv0k2Lk3oo&t=3526s)]* Hey, also we'd like to thank the IT. Thank you very much. So thank you, IT, for the wonderful job you do every week. A little bit slow this week, but we're gonna get it together. Also we'd like to thank the Breakfast Club. I'm in the Breakfast Club. We'd like to thank the sisters for preparing a wonderful meal for us, to keep us fed and keep our energies going. The beautiful green tea that they made, the gunpowder green tea, by the way. And we'd like to thank the sisters for coming out every week, and all the brothers behind the cameras, all the hard work that they do to put this show together. And last but not least, we'd like to thank our very diverse scholarly panel: you know, Judah, Levi and Simeon on the panel. That's right. You know, it's been a healthy collaboration. You know, no shots thrown to Levi. I changed. I told you I'd change. All praises to the Most High, man. Fasting and prayer really works. Thank you.
+*[[58:46](https://www.youtube.com/watch?v=SUv0k2Lk3oo&t=3526s)]* Hey, also we'd like to thank the IT. Thank you very much. So thank you, IT, for the wonderful job you do every week. A little bit slow this week, but we're gonna get it together. Also we'd like to thank the Breakfast Club. I'm in the Breakfast Club. We'd like to thank the sisters for preparing a wonderful meal for us, to keep us fed and keep our energies going. The beautiful green tea that they made, the gunpowder green tea, by the way. And we'd like to thank the sisters for coming out every week, and all the brothers behind the cameras, all the hard work that they do to put this show together. And last but not least, we'd like to thank our very diverse scholarly panel: you know, Judah, Levi and Simeon on the panel. That's right. You know, it's been a healthy collaboration. You know, no shots thrown to Levi. I changed. I told you I'd change. All praises to the Most High, man. Fasting and prayer really works.
 
 ## Announcements & References
 

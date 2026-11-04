@@ -30,13 +30,13 @@ tags: ["15 Minutes w/ The Captains", "captivity", "edom-esau", "europe-dark-ages
 
 **[Isaiah 28:14-15](/bible/isaiah/28#v14)**  *[[0:59](https://www.youtube.com/watch?v=b1y52o5nxfY&t=59s)]*
 
-> <sup>[14](/bible/isaiah/28#v14)</sup> Wherefore hear the word of the Lord, ye scornful men, that rule this people which is in Jerusalem.
->
-> <sup>[15](/bible/isaiah/28#v15)</sup> Because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves:
-
 - Shout out to the bishop.
 
+> <sup>[14](/bible/isaiah/28#v14)</sup> Wherefore hear the word of the Lord, ye scornful men, that rule this people which is in Jerusalem.
+
 - Ye scornful men, that rule this people which is in Jerusalem: so this is talking about the leaders of the nation of Israel. Your pastors, your politicians today, your athletes, your rappers and so on. All of those people that lead your people today that you look to. Your Jesse Jacksons and your Al Sharptons and your Ben Crumps.
+
+> <sup>[15](/bible/isaiah/28#v15)</sup> Because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves:
 
 - And with hell are we at agreement: at agreement with hell, meaning captivity.
 
@@ -70,22 +70,22 @@ tags: ["15 Minutes w/ The Captains", "captivity", "edom-esau", "europe-dark-ages
 > <sup>[1](/bible/2-esdras/15#v1)</sup> Behold, speak thou in the ears of my people the words of prophecy, which I will put in thy mouth, saith the Lord:
 >
 > <sup>[2](/bible/2-esdras/15#v2)</sup> And cause them to be written in paper: for they are faithful and true.
->
-> <sup>[3](/bible/2-esdras/15#v3)</sup> Fear not the imaginations against thee, let not the incredulity of them trouble thee, that speak against thee.
->
-> <sup>[4](/bible/2-esdras/15#v4)</sup> For all the unfaithful shall die in their unfaithfulness.
->
-> <sup>[5](/bible/2-esdras/15#v5)</sup> Behold, saith the Lord, I will bring plagues upon the world; the sword, famine, death, and destruction.
->
-> <sup>[6](/bible/2-esdras/15#v6)</sup> For wickedness hath exceedingly polluted the whole earth, and their hurtful works are fulfilled.
 
 - And cause them to be written in paper: so they wrote the prophecies that God gave to the apostles and the prophets down.
 
 - For they are faithful and true: they will come to pass.
 
+> <sup>[3](/bible/2-esdras/15#v3)</sup> Fear not the imaginations against thee, let not the incredulity of them trouble thee, that speak against thee.
+
 - Let not the incredulity of them trouble thee: incredulity goes into unbelief. Those that don't believe. They don't believe the Bible. That speak against thee: and they speak against us, not knowing that they speaking against the word of God.
 
 - For all the unfaithful shall die in their unfaithfulness.
+
+> <sup>[4](/bible/2-esdras/15#v4)</sup> For all the unfaithful shall die in their unfaithfulness.
+>
+> <sup>[5](/bible/2-esdras/15#v5)</sup> Behold, saith the Lord, I will bring plagues upon the world; the sword, famine, death, and destruction.
+>
+> <sup>[6](/bible/2-esdras/15#v6)</sup> For wickedness hath exceedingly polluted the whole earth, and their hurtful works are fulfilled.
 
 - For wickedness hath exceedingly polluted the whole earth: and who is that wickedness? That's Esau, Edom. His wickedness has polluted the whole earth. So the Lord said I got to bring plagues.
 
@@ -95,12 +95,12 @@ tags: ["15 Minutes w/ The Captains", "captivity", "edom-esau", "europe-dark-ages
 **[Habakkuk 2:1-3](/bible/habakkuk/2#v1)**  *[[5:44](https://www.youtube.com/watch?v=b1y52o5nxfY&t=344s)]*
 
 > <sup>[1](/bible/habakkuk/2#v1)</sup> I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved.
->
+
+- And will watch to see what he will say unto me: because God got to tell the apostles, the prophets, us in these last days, how he want us to move through his words. So he said, I'm going to stand on my watch. I'm going to stand at the tower and wait for the Lord to tell me how he want me to move.
+
 > <sup>[2](/bible/habakkuk/2#v2)</sup> And the Lord answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it.
 >
 > <sup>[3](/bible/habakkuk/2#v3)</sup> For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry.
-
-- And will watch to see what he will say unto me: because God got to tell the apostles, the prophets, us in these last days, how he want us to move through his words. So he said, I'm going to stand on my watch. I'm going to stand at the tower and wait for the Lord to tell me how he want me to move.
 
 - For the vision is yet for an appointed time: because the vision I'm going to have you write is for an appointed time. It's for later.
 
@@ -150,12 +150,12 @@ tags: ["15 Minutes w/ The Captains", "captivity", "edom-esau", "europe-dark-ages
 **[Amos 9:11-12](/bible/amos/9#v11)**  *[[10:02](https://www.youtube.com/watch?v=b1y52o5nxfY&t=602s)]*
 
 > <sup>[11](/bible/amos/9#v11)</sup> In that day will I raise up the tabernacle of David that is fallen, and close up the breaches thereof; and I will raise up his ruins, and I will build it as in the days of old:
->
-> <sup>[12](/bible/amos/9#v12)</sup> That they may possess the remnant of Edom, and of all the heathen, which are called by my name, saith the Lord that doeth this.
 
 - In that day will I raise up the tabernacle of David that is fallen: cuz remember, David ruled over all 12 tribes.
 
 - And I will build it as in the days of old: all 12 tribes going to come back together and set up as one king.
+
+> <sup>[12](/bible/amos/9#v12)</sup> That they may possess the remnant of Edom, and of all the heathen, which are called by my name, saith the Lord that doeth this.
 
 - That they may possess the remnant of Edom: why does it say remnant? Because the other going to be destroyed. Over here in Babylon, they're going to get it. They're not going to survive. Them that's in Europe and various other places, Gog and Magog, are scattered to other parts of the earth. They're going into captivity. Some going to get destroyed. They ain't going to all get destroyed at one time. But in the end, all be all, Obadiah 18 going to be fulfilled, after that thousand-year reign, when they rise up against us. Then the Lord himself going to bring fire down from heaven and just burn the rest of them.
 
@@ -173,21 +173,21 @@ tags: ["15 Minutes w/ The Captains", "captivity", "edom-esau", "europe-dark-ages
 
 **[Psalms 2:6-10](/bible/psalms/2#v6)**  *[[11:55](https://www.youtube.com/watch?v=b1y52o5nxfY&t=715s)]*
 
+- So you can hold hands all you want. You can make Kumbaya. You can even marry him. I don't know why you want to, but you can do that. But they still going to get their punishment.
+
 > <sup>[6](/bible/psalms/2#v6)</sup> Yet have I set my king upon my holy hill of Zion.
 >
 > <sup>[7](/bible/psalms/2#v7)</sup> I will declare the decree: the Lord hath said unto me, Thou art my Son; this day have I begotten thee.
->
-> <sup>[8](/bible/psalms/2#v8)</sup> Ask of me, and I shall give thee the heathen for thine inheritance, and the uttermost parts of the earth for thy possession.
->
-> <sup>[9](/bible/psalms/2#v9)</sup> Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter’s vessel.
->
-> <sup>[10](/bible/psalms/2#v10)</sup> Be wise now therefore, O ye kings: be instructed, ye judges of the earth.
-
-- So you can hold hands all you want. You can make Kumbaya. You can even marry him. I don't know why you want to, but you can do that. But they still going to get their punishment.
 
 - Thou art my Son; this day have I begotten thee: for the Lord to say this, that means he wasn't there before. That means he had to be created right then. He created Christ then. The Lord is bringing you into what took place in the heavens. Begotten means to bring forth.
 
+> <sup>[8](/bible/psalms/2#v8)</sup> Ask of me, and I shall give thee the heathen for thine inheritance, and the uttermost parts of the earth for thy possession.
+
 - Ask of me, and I shall give thee the heathen for thine inheritance: so he's going to give Christ the heathen for his inheritance. But it just said he's also going to give the heathen as an inheritance for Israel. So whatever Christ get, we get.
+
+> <sup>[9](/bible/psalms/2#v9)</sup> Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter’s vessel.
+>
+> <sup>[10](/bible/psalms/2#v10)</sup> Be wise now therefore, O ye kings: be instructed, ye judges of the earth.
 
 - Be instructed, ye judges of the earth: that's talking about us.
 
@@ -195,25 +195,25 @@ tags: ["15 Minutes w/ The Captains", "captivity", "edom-esau", "europe-dark-ages
 **[Romans 8:16-17](/bible/romans/8#v16)**  *[[13:26](https://www.youtube.com/watch?v=b1y52o5nxfY&t=806s)]*
 
 > <sup>[16](/bible/romans/8#v16)</sup> The Spirit itself beareth witness with our spirit, that we are the children of God:
->
-> <sup>[17](/bible/romans/8#v17)</sup> And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.
 
 - The Spirit itself beareth witness with our spirit, that we are the children of God: that's why we believe the whole Bible. Y'all say, oh, we don't believe you. You can't keep those commandments. Okay, you don't have to believe, but we believe every word. That's how you know we're the children of God.
+
+> <sup>[17](/bible/romans/8#v17)</sup> And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.
 
 - And if children, then heirs; heirs of God, and joint-heirs with Christ: didn't we just read that Christ going to receive the heathen for his inheritance? He's going to inherit, and then he said we're going to inherit the Gentiles. Then he said they're going to break them with a rod of iron.
 
 
 **[Revelation 2:25-27](/bible/revelation/2#v25)**  *[[14:23](https://www.youtube.com/watch?v=b1y52o5nxfY&t=863s)]*
 
+- This is why you just got to hold the line. Don't go back and forth with these heathen. Don't let your faith be corrupted. Stay strong in the Lord. Keep the commandments unto the end, cuz we got a mighty, mighty reward, brothers and sisters.
+
 > <sup>[25](/bible/revelation/2#v25)</sup> But that which ye have already hold fast till I come.
 >
 > <sup>[26](/bible/revelation/2#v26)</sup> And he that overcometh, and keepeth my works unto the end, to him will I give power over the nations:
->
-> <sup>[27](/bible/revelation/2#v27)</sup> And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers: even as I received of my Father.
-
-- This is why you just got to hold the line. Don't go back and forth with these heathen. Don't let your faith be corrupted. Stay strong in the Lord. Keep the commandments unto the end, cuz we got a mighty, mighty reward, brothers and sisters.
 
 - To him will I give power over the nations: to have power over them is to inherit them, to possess them. But some of them ain't going to go for it.
+
+> <sup>[27](/bible/revelation/2#v27)</sup> And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers: even as I received of my Father.
 
 - Even as I received of my Father: when did he receive of his father? In the heavens, when the Lord said, this day have I begotten thee. So from the beginning it was already ordained that we was going to inherit the Gentiles, that we was going to inherit the nations, brothers and sisters. You can't stop that because you want to marry them. You can't stop that cuz you want to love them.
 
@@ -230,10 +230,10 @@ tags: ["15 Minutes w/ The Captains", "captivity", "edom-esau", "europe-dark-ages
 **[Jeremiah 30:16-17](/bible/jeremiah/30#v16)**  *[[16:36](https://www.youtube.com/watch?v=b1y52o5nxfY&t=996s)]*
 
 > <sup>[16](/bible/jeremiah/30#v16)</sup> Therefore all they that devour thee shall be devoured; and all thine adversaries, every one of them, shall go into captivity; and they that spoil thee shall be a spoil, and all that prey upon thee will I give for a prey.
->
-> <sup>[17](/bible/jeremiah/30#v17)</sup> For I will restore health unto thee, and I will heal thee of thy wounds, saith the Lord; because they called thee an Outcast, saying, This is Zion, whom no man seeketh after.
 
 - Every one of them, shall go into captivity: so the Lord said he's going to bring judgment on all of our adversaries. Everybody that's against us, everybody that's against this gospel, everybody that's against the 12 tribes coming back to who we truly are as the people of God, the Bible says they're going to get their issue.
+
+> <sup>[17](/bible/jeremiah/30#v17)</sup> For I will restore health unto thee, and I will heal thee of thy wounds, saith the Lord; because they called thee an Outcast, saying, This is Zion, whom no man seeketh after.
 
 - Because they called thee an Outcast: we read about that in Isaiah 11:11, the outcasts of Israel.
 

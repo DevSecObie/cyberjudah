@@ -2,7 +2,7 @@
 title: "THE NEGRO COMMUNITY: A WASTELAND OF TEARS"
 slug: "2026/2026-06-27-the-negro-community-a-wasteland-of-tears"
 date: "2026-06-27"
-teacher: ""
+teacher: "Bishop Nathanyel"
 description: "IUIC in the ClassRoom · 2026-06-27"
 tags: ["IUIC in the ClassRoom", "false-religion", "justice", "repentance", "salvation", "the-law", "the-word"]
 ---
@@ -47,17 +47,19 @@ Clips were played from the sit down this week where Captain Mattathias, Captain 
 
 **[Romans 7:5-8](/bible/romans/7#v5)**  *[[26:46](https://www.youtube.com/watch?v=U39hwR1pDTQ&t=1606s)]*
 
+- For when we were in the flesh, the motions of sins did work in our members to bring forth fruit unto death: we did sinful things by nature, adultery, lying, stealing.
+
+- But now we are delivered from the law, that we should serve in newness of spirit, and not in the oldness of the letter. The newness of spirit refers to the new covenant in Christ; the oldness of the letter refers to the covenant of animal sacrifice. When Paul talks about the law here, Christians think we are talking about sacrificing animals. If they took the time to listen and stop assuming, things would be all right.
+
 > <sup>[5](/bible/romans/7#v5)</sup> For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death.
 >
 > <sup>[6](/bible/romans/7#v6)</sup> But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter.
 >
 > <sup>[7](/bible/romans/7#v7)</sup> What shall we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet.
->
-> <sup>[8](/bible/romans/7#v8)</sup> But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead.
 
-- For when we were in the flesh, the motions of sins did work in our members to bring forth fruit unto death: we did sinful things by nature, adultery, lying, stealing.
-- But now we are delivered from the law, that we should serve in newness of spirit, and not in the oldness of the letter. The newness of spirit refers to the new covenant in Christ; the oldness of the letter refers to the covenant of animal sacrifice. When Paul talks about the law here, Christians think we are talking about sacrificing animals. If they took the time to listen and stop assuming, things would be all right.
 - What shall we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet. By reading and studying the law you know what sin is. This is why churches teach their members not to read Genesis to Malachi; they say start with Matthew, start in the middle of the book.
+
+> <sup>[8](/bible/romans/7#v8)</sup> But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead.
 
 **[Isaiah 1:4-5](/bible/isaiah/1#v4)**  *[[33:06](https://www.youtube.com/watch?v=U39hwR1pDTQ&t=1986s)]*
 
@@ -89,22 +91,32 @@ Clips were played from the sit down this week where Captain Mattathias, Captain 
 
 **[1 Corinthians 6:9-11](/bible/1-corinthians/6#v9)**  *[[43:28](https://www.youtube.com/watch?v=U39hwR1pDTQ&t=2608s)]*
 
+- Know ye not that the unrighteous shall not inherit the kingdom of God? We often read this, but this time we took it slow, word by word, with the videos that go with these issues.
+
 > <sup>[9](/bible/1-corinthians/6#v9)</sup> Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,
->
+
+- Neither fornicators: fornication is the whole list of sexual sins in Leviticus 18. Clips played: a woman confronting a pastor who told her to wait on God's time while he went home to his wife every night; and the news report of two Philadelphia pastors, of Second Pilgrim Baptist Church and Garden of Prayer, charged with child sexual abuse after promising a teenage victim food and money, with one of them still preaching after his arrest. You cannot make this stuff up. That is a violation of trust in spaces that are meant to be safe.
+
+- Nor idolaters: idolatry then versus now is the same thing. Back then you had Baal; now you have Mother Mary in the Catholic church and crosses everywhere in the Christian church. A clip was played of worshippers climbing over each other to kiss the black stone: that is idolatry on another level in Islam too.
+
+- Nor adulterers: a clip was played of a bishop and his first lady airing their mutual adultery on Facebook. He admitted his affair and exposed hers. Crashed out, both of them.
+
+- Nor effeminate: girly boys. You might never have had an encounter, but you carry yourself feminine. A clip was played of a man in women's clothing singing before a congregation, and a preacher rebuking the church for letting it happen: no man in that ministry stood up, no standard, and this is why black men leave the church.
+
+- Nor abusers of themselves with mankind: a clip was played of a 47 year old pastor caught in a car with a 16 year old boy.
+
 > <sup>[10](/bible/1-corinthians/6#v10)</sup> Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God.
->
+
+- Nor thieves, nor covetous: a clip was played of an older woman telling a young woman the truth about dealing with a married man: you are not special, he wants access to you, and you should be offended that he knows you know he is married. You need mothers like that who keep it real.
+
+- Nor drunkards: there are different levels of drunk, and a clip was played of the violent type, a man attacking his own young wife. That should infuriate any man of God.
+
+- Nor revilers: a reviler is someone who habitually uses abusive, insulting, or slanderous language to tear down, humiliate, or control others. A lot of the time they revile the word of God and hate the prophets. Clips played: squatters cursing out the brothers who were teaching in a park, waiting until the brothers packed up to make it look like they ran them off; a commentator mocking black people and praising the white man for building America; and a woman pastor who, when asked to answer the scriptures on women having authority over men, could not answer and deflected to her doctorate in theology. These are revilers; they despise the Bible. When we come with solutions for the black community according to the Bible, they revile the solutions.
+
+- Nor extortioners: a clip was played of a preacher busted selling crushed chalk in bags as a blessing powder, and another of a pastor ordering the ushers to close the doors of the sanctuary until a thousand people gave their seed offering. That is a shakedown. That is gangsterism. This is why we had to leave the Christian church.
+
 > <sup>[11](/bible/1-corinthians/6#v11)</sup> And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God.
 
-- Know ye not that the unrighteous shall not inherit the kingdom of God? We often read this, but this time we took it slow, word by word, with the videos that go with these issues.
-- Neither fornicators: fornication is the whole list of sexual sins in Leviticus 18. Clips played: a woman confronting a pastor who told her to wait on God's time while he went home to his wife every night; and the news report of two Philadelphia pastors, of Second Pilgrim Baptist Church and Garden of Prayer, charged with child sexual abuse after promising a teenage victim food and money, with one of them still preaching after his arrest. You cannot make this stuff up. That is a violation of trust in spaces that are meant to be safe.
-- Nor idolaters: idolatry then versus now is the same thing. Back then you had Baal; now you have Mother Mary in the Catholic church and crosses everywhere in the Christian church. A clip was played of worshippers climbing over each other to kiss the black stone: that is idolatry on another level in Islam too.
-- Nor adulterers: a clip was played of a bishop and his first lady airing their mutual adultery on Facebook. He admitted his affair and exposed hers. Crashed out, both of them.
-- Nor effeminate: girly boys. You might never have had an encounter, but you carry yourself feminine. A clip was played of a man in women's clothing singing before a congregation, and a preacher rebuking the church for letting it happen: no man in that ministry stood up, no standard, and this is why black men leave the church.
-- Nor abusers of themselves with mankind: a clip was played of a 47 year old pastor caught in a car with a 16 year old boy.
-- Nor thieves, nor covetous: a clip was played of an older woman telling a young woman the truth about dealing with a married man: you are not special, he wants access to you, and you should be offended that he knows you know he is married. You need mothers like that who keep it real.
-- Nor drunkards: there are different levels of drunk, and a clip was played of the violent type, a man attacking his own young wife. That should infuriate any man of God.
-- Nor revilers: a reviler is someone who habitually uses abusive, insulting, or slanderous language to tear down, humiliate, or control others. A lot of the time they revile the word of God and hate the prophets. Clips played: squatters cursing out the brothers who were teaching in a park, waiting until the brothers packed up to make it look like they ran them off; a commentator mocking black people and praising the white man for building America; and a woman pastor who, when asked to answer the scriptures on women having authority over men, could not answer and deflected to her doctorate in theology. These are revilers; they despise the Bible. When we come with solutions for the black community according to the Bible, they revile the solutions.
-- Nor extortioners: a clip was played of a preacher busted selling crushed chalk in bags as a blessing powder, and another of a pastor ordering the ushers to close the doors of the sanctuary until a thousand people gave their seed offering. That is a shakedown. That is gangsterism. This is why we had to leave the Christian church.
 - And such were some of you: everybody in here can identify with something on that list and say, I used to do that. But ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God. We are washed with the word of God.
 
   Precepts:
@@ -250,11 +262,11 @@ Clips were played from the sit down this week where Captain Mattathias, Captain 
 **[Isaiah 9:6-7](/bible/isaiah/9#v6)**  *[[1:56:03](https://www.youtube.com/watch?v=U39hwR1pDTQ&t=6963s)]*
 
 > <sup>[6](/bible/isaiah/9#v6)</sup> For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.
->
-> <sup>[7](/bible/isaiah/9#v7)</sup> Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the Lord of hosts will perform this.
 
 - For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder. The kingdom of heaven is a government, not a church group.
+
 - His name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace. Most Christians, and even some Israelites, cannot explain the everlasting Father: the everlasting Father in the Old Testament was Christ. You did not speak to the Father back then; you spoke to Christ.
+
 - Of the increase of his government and peace there shall be no end. It behooves us to learn God's laws, commandments, and statutes, because to set up a government you need everything we read at the beginning of class about what a community consists of. God's laws are going to filter everything for us. And we have to learn to think bigger: not a house, not property; the world is ours. In order for the world to be ours, we have to be able to set up all of those things.
 
   Precepts:
@@ -307,19 +319,24 @@ Clips were played from the sit down this week where Captain Mattathias, Captain 
 
     I will raise unto David a righteous Branch, and a King shall reign and prosper, and shall execute judgment and justice in the earth. The nations do not want that; some of us may not even want that. It is coming anyway. In his days Judah shall be saved, and Israel shall dwell safely: and this is his name whereby he shall be called, THE LORD OUR RIGHTEOUSNESS.
 
+> <sup>[7](/bible/isaiah/9#v7)</sup> Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the Lord of hosts will perform this.
+
 **[Isaiah 59:5-8](/bible/isaiah/59#v5)**  *[[2:08:10](https://www.youtube.com/watch?v=U39hwR1pDTQ&t=7690s)]*
+
+- They hatch cockatrice' eggs, and weave the spider's web. A cockatrice is a poisonous serpent. Put verses two through four together and this is what comes out of it: he that eateth of their eggs dieth, and that which is crushed breaketh out into a viper. The eggs are the children; a generation walking in iniquity produces evil offspring. A story was told of a community meeting where a woman screamed at the police for not stopping the drug dealing in her building; when the sting operation came, the dealers they arrested were her own sons.
 
 > <sup>[5](/bible/isaiah/59#v5)</sup> They hatch cockatrice’ eggs, and weave the spider’s web: he that eateth of their eggs dieth, and that which is crushed breaketh out into a viper.
 >
 > <sup>[6](/bible/isaiah/59#v6)</sup> Their webs shall not become garments, neither shall they cover themselves with their works: their works are works of iniquity, and the act of violence is in their hands.
->
+
+- Their webs shall not become garments, neither shall they cover themselves with their works: their works are works of iniquity, and the act of violence is in their hands. Clips played: a brawl in a cruise ship buffet that got the passengers banned for life, and high school graduation ceremonies breaking out into fights with families arrested. A day of celebration turned into chaos; that is the act of violence in the hands.
+
 > <sup>[7](/bible/isaiah/59#v7)</sup> Their feet run to evil, and they make haste to shed innocent blood: their thoughts are thoughts of iniquity; wasting and destruction are in their paths.
->
+
+- Their feet run to evil, and they make haste to shed innocent blood: their thoughts are thoughts of iniquity. A clip was played of a man committing a lewd act against an unsuspecting woman in public, and the word compulsion was looked up: an uncontrollable urge to perform an act, driven by an underlying obsessive thought. Pornography exacerbates those thoughts to the point where you cannot control yourself. That is where that road ends if you do not break it.
+
 > <sup>[8](/bible/isaiah/59#v8)</sup> The way of peace they know not; and there is no judgment in their goings: they have made them crooked paths: whosoever goeth therein shall not know peace.
 
-- They hatch cockatrice' eggs, and weave the spider's web. A cockatrice is a poisonous serpent. Put verses two through four together and this is what comes out of it: he that eateth of their eggs dieth, and that which is crushed breaketh out into a viper. The eggs are the children; a generation walking in iniquity produces evil offspring. A story was told of a community meeting where a woman screamed at the police for not stopping the drug dealing in her building; when the sting operation came, the dealers they arrested were her own sons.
-- Their webs shall not become garments, neither shall they cover themselves with their works: their works are works of iniquity, and the act of violence is in their hands. Clips played: a brawl in a cruise ship buffet that got the passengers banned for life, and high school graduation ceremonies breaking out into fights with families arrested. A day of celebration turned into chaos; that is the act of violence in the hands.
-- Their feet run to evil, and they make haste to shed innocent blood: their thoughts are thoughts of iniquity. A clip was played of a man committing a lewd act against an unsuspecting woman in public, and the word compulsion was looked up: an uncontrollable urge to perform an act, driven by an underlying obsessive thought. Pornography exacerbates those thoughts to the point where you cannot control yourself. That is where that road ends if you do not break it.
 - The way of peace they know not; and there is no judgment in their goings: they have made them crooked paths; whosoever goeth therein shall not know peace. You follow the Democratic or the Republican party, you follow the cross and the idols, you are not going to find peace. Our people have made crooked paths for themselves.
 
   Precepts:
@@ -355,24 +372,27 @@ Clips were played from the sit down this week where Captain Mattathias, Captain 
 **[Isaiah 59:9-15](/bible/isaiah/59#v9)**  *[[2:24:38](https://www.youtube.com/watch?v=U39hwR1pDTQ&t=8678s)]*
 
 > <sup>[9](/bible/isaiah/59#v9)</sup> Therefore is judgment far from us, neither doth justice overtake us: we wait for light, but behold obscurity; for brightness, but we walk in darkness.
->
+
+- Therefore is judgment far from us, neither doth justice overtake us: we wait for light, but behold obscurity. As a result of everything read from verse two down, judgment is far from the negro and the Latino. We want to live evil and violent lives and then expect justice from God. It does not work like that. A clip was recalled of a man boldly declaring that a defendant in a recent murder case would walk free that day, right in front of the flag wearing crowd, and it did not go that way. We wait for brightness, but we walk in darkness.
+
 > <sup>[10](/bible/isaiah/59#v10)</sup> We grope for the wall like the blind, and we grope as if we had no eyes: we stumble at noonday as in the night; we are in desolate places as dead men.
->
+
+- We grope for the wall like the blind, and we grope as if we had no eyes: we stumble at noonday as in the night; we are in desolate places as dead men. We have eyes, but we act like we have none. We see we are not prospering as a people; we see we are under constant oppression; but oppression has become so normal to us that it is just everyday life. We are like the walking dead in desolate places.
+
 > <sup>[11](/bible/isaiah/59#v11)</sup> We roar all like bears, and mourn sore like doves: we look for judgment, but there is none; for salvation, but it is far off from us.
->
+
+- We roar all like bears, and mourn sore like doves: always roaring in the streets for justice, for reparations, for money. We look for judgment, but there is none; for salvation, but it is far off from us; because we seek salvation the way the white man taught us to seek it.
+
 > <sup>[12](/bible/isaiah/59#v12)</sup> For our transgressions are multiplied before thee, and our sins testify against us: for our transgressions are with us; and as for our iniquities, we know them;
->
+
+- For our transgressions are multiplied before thee, and our sins testify against us: and as for our iniquities, we know them. Our people know they are living wrong; they just do not want to be told to their face what their sins are. When we discuss their sins, that is the solution, the same thing a therapist does, except we do it with God's word and we get to the point: you are an adulterer, you are a thief, you are a liar, you are an idolater, and this is the solution. Nobody wants what God says, so they say, I do not want to hear that.
+
+- In transgressing and lying against the Lord, and departing away from our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood. Clips played of loud voices among our people conceiving falsehood from the heart: one praising the very organizations that terrorized us because at least they claimed Christ, and another thanking a supposedly unmixed bloodline for producing the Messiah while denying who the people of the book actually are. Words of falsehood on top of falsehood, and Edom hires black voices to use those talking points against the truth.
+
 > <sup>[13](/bible/isaiah/59#v13)</sup> In transgressing and lying against the Lord, and departing away from our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood.
 >
 > <sup>[14](/bible/isaiah/59#v14)</sup> And judgment is turned away backward, and justice standeth afar off: for truth is fallen in the street, and equity cannot enter.
->
-> <sup>[15](/bible/isaiah/59#v15)</sup> Yea, truth faileth; and he that departeth from evil maketh himself a prey: and the Lord saw it, and it displeased him that there was no judgment.
 
-- Therefore is judgment far from us, neither doth justice overtake us: we wait for light, but behold obscurity. As a result of everything read from verse two down, judgment is far from the negro and the Latino. We want to live evil and violent lives and then expect justice from God. It does not work like that. A clip was recalled of a man boldly declaring that a defendant in a recent murder case would walk free that day, right in front of the flag wearing crowd, and it did not go that way. We wait for brightness, but we walk in darkness.
-- We grope for the wall like the blind, and we grope as if we had no eyes: we stumble at noonday as in the night; we are in desolate places as dead men. We have eyes, but we act like we have none. We see we are not prospering as a people; we see we are under constant oppression; but oppression has become so normal to us that it is just everyday life. We are like the walking dead in desolate places.
-- We roar all like bears, and mourn sore like doves: always roaring in the streets for justice, for reparations, for money. We look for judgment, but there is none; for salvation, but it is far off from us; because we seek salvation the way the white man taught us to seek it.
-- For our transgressions are multiplied before thee, and our sins testify against us: and as for our iniquities, we know them. Our people know they are living wrong; they just do not want to be told to their face what their sins are. When we discuss their sins, that is the solution, the same thing a therapist does, except we do it with God's word and we get to the point: you are an adulterer, you are a thief, you are a liar, you are an idolater, and this is the solution. Nobody wants what God says, so they say, I do not want to hear that.
-- In transgressing and lying against the Lord, and departing away from our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood. Clips played of loud voices among our people conceiving falsehood from the heart: one praising the very organizations that terrorized us because at least they claimed Christ, and another thanking a supposedly unmixed bloodline for producing the Messiah while denying who the people of the book actually are. Words of falsehood on top of falsehood, and Edom hires black voices to use those talking points against the truth.
 - And judgment is turned away backward, and justice standeth afar off: for truth is fallen in the street, and equity cannot enter. And he that departeth from evil maketh himself a prey: when you repent and come to this truth, everybody around you starts hating you. And the Lord saw it, and it displeased him that there was no judgment.
 
   Precepts:
@@ -406,6 +426,8 @@ Clips were played from the sit down this week where Captain Mattathias, Captain 
     > <sup>[10](/bible/amos/5#v10)</sup> They hate him that rebuketh in the gate, and they abhor him that speaketh uprightly.
 
     They hate him that rebuketh in the gate, and they abhor him that speaketh uprightly. That includes some of your own mothers and fathers, brothers and sisters.
+
+> <sup>[15](/bible/isaiah/59#v15)</sup> Yea, truth faileth; and he that departeth from evil maketh himself a prey: and the Lord saw it, and it displeased him that there was no judgment.
 
 **[Matthew 11:28](/bible/matthew/11#v28)**  *[[2:47:55](https://www.youtube.com/watch?v=U39hwR1pDTQ&t=10075s)]*
 
@@ -453,8 +475,6 @@ Clips were played from the sit down this week where Captain Mattathias, Captain 
 **[Leviticus 26:44-45](/bible/leviticus/26#v44)**  *[[2:52:52](https://www.youtube.com/watch?v=U39hwR1pDTQ&t=10372s)]*
 
 > <sup>[44](/bible/leviticus/26#v44)</sup> And yet for all that, when they be in the land of their enemies, I will not cast them away, neither will I abhor them, to destroy them utterly, and to break my covenant with them: for I am the Lord their God.
->
-> <sup>[45](/bible/leviticus/26#v45)</sup> But I will for their sakes remember the covenant of their ancestors, whom I brought forth out of the land of Egypt in the sight of the heathen, that I might be their God: I am the Lord.
 
 - And yet for all that, when they be in the land of their enemies, I will not cast them away, neither will I abhor them, to destroy them utterly, and to break my covenant with them: for I am the Lord their God. But I will for their sakes remember the covenant of their ancestors, whom I brought forth out of the land of Egypt in the sight of the heathen. Who said bloodline is not important? The Bible says he will remember the covenant of your ancestors.
 
@@ -476,6 +496,8 @@ Clips were played from the sit down this week where Captain Mattathias, Captain 
 
     The New Testament says the same thing: blessed be the Lord God of Israel; for he hath visited and redeemed his people, and hath raised up an horn of salvation for us in the house of his servant David; that we should be saved from our enemies, and from the hand of all that hate us; to perform the mercy promised to our fathers, and to remember his holy covenant; the oath which he sware to our father Abraham.
 
+> <sup>[45](/bible/leviticus/26#v45)</sup> But I will for their sakes remember the covenant of their ancestors, whom I brought forth out of the land of Egypt in the sight of the heathen, that I might be their God: I am the Lord.
+
 **[Hebrews 8:8-10](/bible/hebrews/8#v8)**  *[[2:54:55](https://www.youtube.com/watch?v=U39hwR1pDTQ&t=10495s)]*
 
 > <sup>[8](/bible/hebrews/8#v8)</sup> For finding fault with them, he saith, Behold, the days come, saith the Lord, when I will make a new covenant with the house of Israel and with the house of Judah:
@@ -496,33 +518,38 @@ Clips were played from the sit down this week where Captain Mattathias, Captain 
 **[1 Samuel 2:6-8](/bible/1-samuel/2#v6)**  *[[2:57:36](https://www.youtube.com/watch?v=U39hwR1pDTQ&t=10656s)]*
 
 > <sup>[6](/bible/1-samuel/2#v6)</sup> The Lord killeth, and maketh alive: he bringeth down to the grave, and bringeth up.
->
+
+- The Lord killeth, and maketh alive: he bringeth down to the grave, and bringeth up. The Lord maketh poor, and maketh rich: he bringeth low, and lifteth up. Who did you think made us poor?
+
+- He raiseth up the poor out of the dust, and lifteth up the beggar from the dunghill. This is Hannah's prayer; the Holy Spirit through a woman said this. Why beggars? Because we are the ones always begging another race of people for reparations, for jobs, for services, instead of building with our own, because our own are not well as a people. And the dunghill is not just one poor country; wherever we live in this captivity has been made a dunghill compared to what we came from, because we came from ruling.
+
 > <sup>[7](/bible/1-samuel/2#v7)</sup> The Lord maketh poor, and maketh rich: he bringeth low, and lifteth up.
 >
 > <sup>[8](/bible/1-samuel/2#v8)</sup> He raiseth up the poor out of the dust, and lifteth up the beggar from the dunghill, to set them among princes, and to make them inherit the throne of glory: for the pillars of the earth are the Lord’s, and he hath set the world upon them.
 
-- The Lord killeth, and maketh alive: he bringeth down to the grave, and bringeth up. The Lord maketh poor, and maketh rich: he bringeth low, and lifteth up. Who did you think made us poor?
-- He raiseth up the poor out of the dust, and lifteth up the beggar from the dunghill. This is Hannah's prayer; the Holy Spirit through a woman said this. Why beggars? Because we are the ones always begging another race of people for reparations, for jobs, for services, instead of building with our own, because our own are not well as a people. And the dunghill is not just one poor country; wherever we live in this captivity has been made a dunghill compared to what we came from, because we came from ruling.
 - To set them among princes, and to make them inherit the throne of glory: for the pillars of the earth are the Lord's, and he hath set the world upon them. From the dunghill to the throne of glory: that is planet rulership.
 
 **[Isaiah 59:16-21](/bible/isaiah/59#v16)**  *[[3:00:33](https://www.youtube.com/watch?v=U39hwR1pDTQ&t=10833s)]*
 
 > <sup>[16](/bible/isaiah/59#v16)</sup> And he saw that there was no man, and wondered that there was no intercessor: therefore his arm brought salvation unto him; and his righteousness, it sustained him.
->
+
+- And he saw that there was no man, and wondered that there was no intercessor: therefore his arm brought salvation unto him. The arm is Christ; sit thou at my right hand.
+
+- For he put on righteousness as a breastplate, and an helmet of salvation upon his head; and he put on the garments of vengeance for clothing, and was clad with zeal as a cloke. He is not coming back for handshakes; he put on the garments of vengeance. According to their deeds, accordingly he will repay: fury to his adversaries, recompence to his enemies, and to the islands he will repay. And not only the other nations: unrepentant Israelites get the same judgment.
+
 > <sup>[17](/bible/isaiah/59#v17)</sup> For he put on righteousness as a breastplate, and an helmet of salvation upon his head; and he put on the garments of vengeance for clothing, and was clad with zeal as a cloke.
 >
 > <sup>[18](/bible/isaiah/59#v18)</sup> According to their deeds, accordingly he will repay, fury to his adversaries, recompence to his enemies; to the islands he will repay recompence.
 >
 > <sup>[19](/bible/isaiah/59#v19)</sup> So shall they fear the name of the Lord from the west, and his glory from the rising of the sun. When the enemy shall come in like a flood, the Spirit of the Lord shall lift up a standard against him.
->
+
+- So shall they fear the name of the Lord from the west: prophetically, we are in the west, the western hemisphere. And his glory from the rising of the sun: the eastern hemisphere. When the enemy shall come in like a flood, the Spirit of the Lord shall lift up a standard against him: he is only going to allow Esau to do but so much.
+
+- And the Redeemer shall come to Zion, and unto them that turn from transgression in Jacob, saith the Lord. See who he is coming for: them that turn from transgression, because of everything listed from verse two down to verse fifteen. My spirit that is upon thee, and my words which I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed's seed, saith the Lord, from henceforth and for ever.
+
 > <sup>[20](/bible/isaiah/59#v20)</sup> And the Redeemer shall come to Zion, and unto them that turn from transgression in Jacob, saith the Lord.
 >
 > <sup>[21](/bible/isaiah/59#v21)</sup> As for me, this is my covenant with them, saith the Lord; My spirit that is upon thee, and my words which I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed’s seed, saith the Lord, from henceforth and for ever.
-
-- And he saw that there was no man, and wondered that there was no intercessor: therefore his arm brought salvation unto him. The arm is Christ; sit thou at my right hand.
-- For he put on righteousness as a breastplate, and an helmet of salvation upon his head; and he put on the garments of vengeance for clothing, and was clad with zeal as a cloke. He is not coming back for handshakes; he put on the garments of vengeance. According to their deeds, accordingly he will repay: fury to his adversaries, recompence to his enemies, and to the islands he will repay. And not only the other nations: unrepentant Israelites get the same judgment.
-- So shall they fear the name of the Lord from the west: prophetically, we are in the west, the western hemisphere. And his glory from the rising of the sun: the eastern hemisphere. When the enemy shall come in like a flood, the Spirit of the Lord shall lift up a standard against him: he is only going to allow Esau to do but so much.
-- And the Redeemer shall come to Zion, and unto them that turn from transgression in Jacob, saith the Lord. See who he is coming for: them that turn from transgression, because of everything listed from verse two down to verse fifteen. My spirit that is upon thee, and my words which I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed's seed, saith the Lord, from henceforth and for ever.
 
 **[Matthew 5:14](/bible/matthew/5#v14)**  *[[3:05:48](https://www.youtube.com/watch?v=U39hwR1pDTQ&t=11148s)]*  (Deacon's addition)
 
@@ -533,13 +560,10 @@ Clips were played from the sit down this week where Captain Mattathias, Captain 
 
 **[Genesis 1:26-28](/bible/genesis/1#v26)**  *[[3:07:32](https://www.youtube.com/watch?v=U39hwR1pDTQ&t=11252s)]*  (Officer's addition)
 
-> <sup>[26](/bible/genesis/1#v26)</sup> And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
->
-> <sup>[27](/bible/genesis/1#v27)</sup> So God created man in his own image, in the image of God created he him; male and female created he them.
->
-> <sup>[28](/bible/genesis/1#v28)</sup> And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.
-
 - Men, we want dominion, we want rulership, we want to subdue the nations. The government must be in place, and in that we must be keeping the commandments; it is the only way we are going to get it.
+
+> <sup>[26](/bible/genesis/1#v26)</sup> And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
+
 - And God said, Let us make man in our image, after our likeness: and let them have dominion. Be fruitful, and multiply, and replenish the earth, and subdue it. Being made after his image, we were supposed to subdue the earth and bring everything underfoot. At that time everybody was of color, but God gave a specific people rulership; so when you read likeness, understand it is more than what you look like.
 
   Precepts:
@@ -547,6 +571,10 @@ Clips were played from the sit down this week where Captain Mattathias, Captain 
     > <sup>[15](/bible/psalms/17#v15)</sup> As for me, I will behold thy face in righteousness: I shall be satisfied, when I awake, with thy likeness.
 
     As for me, I will behold thy face in righteousness: I shall be satisfied, when I awake, with thy likeness. His likeness is not just appearance; it is being righteous. And in being righteous we will subdue and have dominion. That government cannot happen unless we are righteous.
+
+> <sup>[27](/bible/genesis/1#v27)</sup> So God created man in his own image, in the image of God created he him; male and female created he them.
+>
+> <sup>[28](/bible/genesis/1#v28)</sup> And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.
 
 ## In Closing
 

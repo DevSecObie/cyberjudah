@@ -25,10 +25,10 @@ tags: ["15 Minutes w/ The Captains", "endurance", "heaven-hell", "salvation"]
 **[Revelation 20:11-12](/bible/revelation/20#v11)**  *[[4:41](https://www.youtube.com/watch?v=It45coBiNGY&t=281s)]*
 
 > <sup>[11](/bible/revelation/20#v11)</sup> And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them.
->
-> <sup>[12](/bible/revelation/20#v12)</sup> And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works.
 
 - I saw a great white throne and him that sat on it: Now this person right here, that he saw a great white throne and him that sat on it, that him right there is talking about Christ. Watch this, we going to prove that. Let's read the next verse.
+
+> <sup>[12](/bible/revelation/20#v12)</sup> And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works.
 
 - And the dead were judged out of those things which were written in the books according to their Works: Watch this, get John the 5th chapter and verse 22. Says the dead were judged before God, that he saw a great white throne and sat on it.
 
@@ -65,10 +65,14 @@ tags: ["15 Minutes w/ The Captains", "endurance", "heaven-hell", "salvation"]
 
 **[Wisdom of Solomon 5:1-16](/bible/wisdom-of-solomon/5#v1)**  *[[10:54](https://www.youtube.com/watch?v=It45coBiNGY&t=654s)]*
 
+- Then shall the righteous man stand in great boldness before the face of such as have Afflicted him and made no account of his labors: We see that now. Nobody makes account of our labors, we're Afflicted. Everybody calls us crazy, we're cult, we're hate group. We freaking the top hate group on the list, above the KKK, who has done mass killings against blacks and Hispanics, but we the hate group, us. Just verse two.
+
 > <sup>[1](/bible/wisdom-of-solomon/5#v1)</sup> Then shall the righteous man stand in great boldness before the face of such as have afflicted him, and made no account of his labours.
 >
 > <sup>[2](/bible/wisdom-of-solomon/5#v2)</sup> When they see it, they shall be troubled with terrible fear, and shall be amazed at the strangeness of his salvation, so far beyond all that they looked for.
->
+
+- When they see it they shall be troubled with terrible fear: Watch this, verse three.
+
 > <sup>[3](/bible/wisdom-of-solomon/5#v3)</sup> And they repenting and groaning for anguish of spirit shall say within themselves, This was he, whom we had sometimes in derision, and a proverb of reproach:
 >
 > <sup>[4](/bible/wisdom-of-solomon/5#v4)</sup> We fools accounted his life madness, and his end to be without honour:
@@ -78,7 +82,15 @@ tags: ["15 Minutes w/ The Captains", "endurance", "heaven-hell", "salvation"]
 > <sup>[6](/bible/wisdom-of-solomon/5#v6)</sup> Therefore have we erred from the way of truth, and the light of righteousness hath not shined unto us, and the sun of righteousness rose not upon us.
 >
 > <sup>[7](/bible/wisdom-of-solomon/5#v7)</sup> We wearied ourselves in the way of wickedness and destruction: yea, we have gone through deserts, where there lay no way: but as for the way of the Lord, we have not known it.
->
+
+- We wearied ourselves in the way of wickedness and destruction: That's according to everyone's works. And we wearied ourselves in the way of wickedness and destruction. We, instead of listening to them prophets, we decided you know what, the hell with you, I'm going go to church on Sunday and worship white jesus, or to hell at you, you know what I'm saying. I'm going continue to sell dope on the corner and destroy my people, or to hell with... to hell what that Bible say, I'm going continue to be a fornicator, an idolator, a homosexual. All man, I'm gonna go in the way of what it say. It says we wearied ourselves in the way of wickedness and destruction.
+
+- We have gone through deserts where there lay no way: Watch this, it says yea, we have gone through deserts where there lay no way. Those, you know, those deserts represent what? Christianity, Islam, Buddhism, all these idolatry. Ain't no understanding in none of these places. They said they have gone through deserts where there lay no way, but as for the way of the lord we have not known it.
+
+- As a ship that passes over the waves of the water: Basically the example is, and this is an example for us today, you want to chase after this temporary BS of the ways of the wicked in the world here, they let you know it's going to pass away. It's like a ship. When your ship crosses the water and you see the waves, once the ship gone you don't even know a ship was there. That's the same with those that weary themselves in the way of wicked, because the righteous, they got immortality to look forward to, they got eternal life, they got everlasting life that will never perish. Watch this, verse 11.
+
+- We consumed in our own wickedness: That's judging the small and great according to everyone's works, and the question is, do you want this to be your Works? Watch this, verse 14.
+
 > <sup>[8](/bible/wisdom-of-solomon/5#v8)</sup> What hath pride profited us? or what good hath riches with our vaunting brought us?
 >
 > <sup>[9](/bible/wisdom-of-solomon/5#v9)</sup> All those things are passed away like a shadow, and as a post that hasted by;
@@ -92,26 +104,14 @@ tags: ["15 Minutes w/ The Captains", "endurance", "heaven-hell", "salvation"]
 > <sup>[13](/bible/wisdom-of-solomon/5#v13)</sup> Even so we in like manner, as soon as we were born, began to draw to our end, and had no sign of virtue to shew; but were consumed in our own wickedness.
 >
 > <sup>[14](/bible/wisdom-of-solomon/5#v14)</sup> For the hope of the ungodly is like dust that is blown away with the wind; like a thin froth that is driven away with the storm; like as the smoke which is dispersed here and there with a tempest, and passeth away as the remembrance of a guest that tarrieth but a day.
->
-> <sup>[15](/bible/wisdom-of-solomon/5#v15)</sup> But the righteous live for evermore; their reward also is with the Lord, and the care of them is with the most High.
->
-> <sup>[16](/bible/wisdom-of-solomon/5#v16)</sup> Therefore shall they receive a glorious kingdom, and a beautiful crown from the Lord’s hand: for with his right hand shall he cover them, and with his arm shall he protect them.
-
-- Then shall the righteous man stand in great boldness before the face of such as have Afflicted him and made no account of his labors: We see that now. Nobody makes account of our labors, we're Afflicted. Everybody calls us crazy, we're cult, we're hate group. We freaking the top hate group on the list, above the KKK, who has done mass killings against blacks and Hispanics, but we the hate group, us. Just verse two.
-
-- When they see it they shall be troubled with terrible fear: Watch this, verse three.
-
-- We wearied ourselves in the way of wickedness and destruction: That's according to everyone's works. And we wearied ourselves in the way of wickedness and destruction. We, instead of listening to them prophets, we decided you know what, the hell with you, I'm going go to church on Sunday and worship white jesus, or to hell at you, you know what I'm saying. I'm going continue to sell dope on the corner and destroy my people, or to hell with... to hell what that Bible say, I'm going continue to be a fornicator, an idolator, a homosexual. All man, I'm gonna go in the way of what it say. It says we wearied ourselves in the way of wickedness and destruction.
-
-- We have gone through deserts where there lay no way: Watch this, it says yea, we have gone through deserts where there lay no way. Those, you know, those deserts represent what? Christianity, Islam, Buddhism, all these idolatry. Ain't no understanding in none of these places. They said they have gone through deserts where there lay no way, but as for the way of the lord we have not known it.
-
-- As a ship that passes over the waves of the water: Basically the example is, and this is an example for us today, you want to chase after this temporary BS of the ways of the wicked in the world here, they let you know it's going to pass away. It's like a ship. When your ship crosses the water and you see the waves, once the ship gone you don't even know a ship was there. That's the same with those that weary themselves in the way of wicked, because the righteous, they got immortality to look forward to, they got eternal life, they got everlasting life that will never perish. Watch this, verse 11.
-
-- We consumed in our own wickedness: That's judging the small and great according to everyone's works, and the question is, do you want this to be your Works? Watch this, verse 14.
 
 - The hope of the ungodly is like dust that is blown away with the wind: That's what the unrighteous have to hope for, it's say dust blown away, because it's all vanity. Watch this, watch verse 16, verse 15.
 
 - But the righteous live forever more: That's what the righteous have to hope, live forever more. Their reward also is with the Lord and the care of them is with the most high. We going to touch on that reward a little as we get into chapter 21. But watch this, verse 16.
+
+> <sup>[15](/bible/wisdom-of-solomon/5#v15)</sup> But the righteous live for evermore; their reward also is with the Lord, and the care of them is with the most High.
+>
+> <sup>[16](/bible/wisdom-of-solomon/5#v16)</sup> Therefore shall they receive a glorious kingdom, and a beautiful crown from the Lord’s hand: for with his right hand shall he cover them, and with his arm shall he protect them.
 
 
 **[Revelation 20:12](/bible/revelation/20#v12)**  *[[15:48](https://www.youtube.com/watch?v=It45coBiNGY&t=948s)]*
@@ -126,8 +126,6 @@ tags: ["15 Minutes w/ The Captains", "endurance", "heaven-hell", "salvation"]
 > <sup>[13](/bible/revelation/20#v13)</sup> And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works.
 >
 > <sup>[14](/bible/revelation/20#v14)</sup> And death and hell were cast into the lake of fire. This is the second death.
->
-> <sup>[15](/bible/revelation/20#v15)</sup> And whosoever was not found written in the book of life was cast into the lake of fire.
 
 - Death and hell were cast into the Lake of Fire, this is the second death: This is that second death that you read earlier in the chapter. Watch this, let's go back up to verse five.
 
@@ -138,6 +136,8 @@ tags: ["15 Minutes w/ The Captains", "endurance", "heaven-hell", "salvation"]
 - The Last Enemy that shall be destroyed is death: Because remember you read up in the chapter in Revelations 20, during that thousand year of reign, remember all Esau on this side going to be destroyed. But as for the rest of the Beast, like you read in Daniel, they're going to go for a season, for a time, and then guess what, they're going to rear their... that pride is gonna come upon them again, which deceives them, and they gonna think they can come against Israel again. And that's when all enemies are going to be put under feet, like we're reading here. It says and that last enemy that shall be destroyed is death. Let's think about it.
 
 - And death and hell were cast into the Lake of Fire: Let's go to Jeremiah 46 real quick. Well, before we get that, I don't get too ahead of myself, go back to Revelations 20, I'm gonna read verse 14 again. This is the same death we're reading about in 1 Corinthians 15. Verse 15 here: whosoever was not found written in the Book of Life was cast into the Lake of Fire. Jeremiah 46, because think about it, in order for death to be put away, for there to be no death, guess who else has to go? The other nations. And that's what we're reading about in Revelations the 20th, that last enemy is put under foot, which is death.
+
+> <sup>[15](/bible/revelation/20#v15)</sup> And whosoever was not found written in the book of life was cast into the lake of fire.
 
 - Whosoever was not found written in the Book of Life was cast into the Lake of Fire: Revelations 20 and verse 14 and 15. So now it says and death and hell were cast into the Lake of Fire, this is the second death. Whosoever was not found written in the Book of Life was cast into the Lake of Fire.
 
@@ -183,8 +183,6 @@ tags: ["15 Minutes w/ The Captains", "endurance", "heaven-hell", "salvation"]
 **[Revelation 21:1-2](/bible/revelation/21#v1)**  *[[26:14](https://www.youtube.com/watch?v=It45coBiNGY&t=1574s)]*
 
 > <sup>[1](/bible/revelation/21#v1)</sup> And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea.
->
-> <sup>[2](/bible/revelation/21#v2)</sup> And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband.
 
 - I saw a new Heaven and a new Earth: Now when you get to chapter 21, this is now after that thousand year reign, that Revelations chapter.
 
@@ -197,6 +195,8 @@ tags: ["15 Minutes w/ The Captains", "endurance", "heaven-hell", "salvation"]
 - In the place wherein the highest beginneth to show his City there can no man's building be able to stand: That's how you know all this stuff got to go, gotta be through, and that's how you know this right here in chapter 21 is talking about after that thousand years, after the other nations of work. Watch this, go to Isaiah 60 real quick, because right here it says for in the place wherein the highest beginneth to show his City there can no man's building be able to stand. Watch this, go to Daniel real quick, how you know it's talking about after a thousand years. Go to Daniel chapter 60 real quick. Remember, during that Thousand Years, what's going to be happening, what's going to be taking place. Daniel chapter 60... I mean not Daniel, I'm sorry, Isaiah chapter 60. I say Isaiah chapter 60, there's no Daniel... Isaiah chapter 60 and verse 10.
 
 - That's how you know there's a difference: But let's go back to 2 Esdras real quick. That's how you know there's a difference, because in 2 Esdras it tells you no man's building can stand when the Lord brings his City. 2 Esdras 10 verse 54 again.
+
+> <sup>[2](/bible/revelation/21#v2)</sup> And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband.
 
 - New Jerusalem: So let's go back. So this what we're reading is after that Thousand Years, after All Nations have been destroyed. All this stuff is going to be destroyed, and we got that new Heaven and new earth, like John said, verse two, Revelation 21:2: John saw the holy city New Jerusalem coming down from God out of Heaven, prepared as a bride adorned for her husband.
 
@@ -284,14 +284,14 @@ tags: ["15 Minutes w/ The Captains", "endurance", "heaven-hell", "salvation"]
 **[Revelation 21:5-6](/bible/revelation/21#v5)**  *[[37:28](https://www.youtube.com/watch?v=It45coBiNGY&t=2248s)]*
 
 > <sup>[5](/bible/revelation/21#v5)</sup> And he that sat upon the throne said, Behold, I make all things new. And he said unto me, Write: for these words are true and faithful.
->
-> <sup>[6](/bible/revelation/21#v6)</sup> And he said unto me, It is done. I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the fountain of the water of life freely.
 
 - And he that sat upon the throne: That's going back to the he right here. That sat upon the throne is going back to Revelations 20 verse 11, saw a great white throne and that sat on it, talking about Christ.
 
 - Behold I make all things new: Watch this, he said I will make all things new. Get 1 Corinthians 5, Corinthians 5 real quick, verse 17.
 
 - In that day all things are going to be made new: In that day crisis all things are going to be made new, in that New Jerusalem, that new heaven, which Bishop went over this in classes before, about the size and the magnitude of what that new city is going to look like, which cometh down from heaven of God. So watch this, let's go back, Revelations 21 and verse 5 again. It says and he that sat upon the throne said behold I make all things new, and he said unto me write, for these words are true and faithful. Verse six.
+
+> <sup>[6](/bible/revelation/21#v6)</sup> And he said unto me, It is done. I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the fountain of the water of life freely.
 
 - It is done: What is done? Everything we just read in Revelations, going back to 1 Corinthians 15, where he says he delivered everything up to the father, that last enemy has been put under foot. He said it is done, I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the Fountain of the Water of Life freely. Watch this, go to John.
 

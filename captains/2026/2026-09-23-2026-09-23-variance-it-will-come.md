@@ -116,14 +116,12 @@ Reading from a definition of variance, on screen  *[[3:09](https://www.youtube.c
 **[Ephesians 5:23-25](/bible/ephesians/5#v23)**  *[[12:32](https://www.youtube.com/watch?v=8jMiVrls4g4&t=752s)]*
 
 > <sup>[23](/bible/ephesians/5#v23)</sup> For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body.
->
-> <sup>[24](/bible/ephesians/5#v24)</sup> Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing.
->
-> <sup>[25](/bible/ephesians/5#v25)</sup> Husbands, love your wives, even as Christ also loved the church, and gave himself for it;
 
 - The husband is the head of the wife: the husband is the leader of the wife, the leader of the household. Even as Christ is the head of the church: he is the head of the body of the Israelites, the guide, the protector, the teacher. The same way, the husband is the leader, the protector and the guide of the family, of the wife, of the children. It's the same exact way.
 
 - When people come against that, remember variance, it will come. When people don't agree, they will attack your family structure. You as a husband have got to be able to protect your family from those things.
+
+> <sup>[24](/bible/ephesians/5#v24)</sup> Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing.
 
 - So let the wives be to their own husbands in every thing: when family members come against your marriage in Christ, the wife can't jump on the mother-in-law's side, which is her mother. The wife's mindset should always be the mindset of the husband. What your husband says goes, especially if he ain't saying nothing sinful that's going to lead you into sin. You must be on the side of your husband.
 
@@ -137,26 +135,28 @@ Reading from a definition of variance, on screen  *[[3:09](https://www.youtube.c
 
 - People think your family won't come against you in this truth. Oh yeah, that's probably the main thing that comes against you.
 
+> <sup>[25](/bible/ephesians/5#v25)</sup> Husbands, love your wives, even as Christ also loved the church, and gave himself for it;
+
 
 **[Matthew 10:34-38](/bible/matthew/10#v34)**  *[[17:12](https://www.youtube.com/watch?v=8jMiVrls4g4&t=1032s)]*
+
+- This is the Lord speaking: think not that I am come to send peace on earth. I came not to send peace, but a sword: war against family members, war against your own conscience, your own lust.
 
 > <sup>[34](/bible/matthew/10#v34)</sup> Think not that I am come to send peace on earth: I came not to send peace, but a sword.
 >
 > <sup>[35](/bible/matthew/10#v35)</sup> For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law.
->
-> <sup>[36](/bible/matthew/10#v36)</sup> And a man’s foes shall be they of his own household.
->
-> <sup>[37](/bible/matthew/10#v37)</sup> He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me.
->
-> <sup>[38](/bible/matthew/10#v38)</sup> And he that taketh not his cross, and followeth after me, is not worthy of me.
-
-- This is the Lord speaking: think not that I am come to send peace on earth. I came not to send peace, but a sword: war against family members, war against your own conscience, your own lust.
 
 - To set a man at variance: a lack of agreement or harmony. Against his father: he's in a lack of agreement with what you and your family believe in. The daughter against her mother, because the mother may be in a lack of agreement or harmony with what you believe in.
 
 - A man's foes shall be they of his own household. Sometimes it may be your husband or your wife or your children that try to pull you away from the Lord. You can't allow that either. You can't give them power over you either. It's not just the people in the world; sometimes the people in your own household ain't right. But you have got to stick to the word of God.
 
+> <sup>[36](/bible/matthew/10#v36)</sup> And a man’s foes shall be they of his own household.
+>
+> <sup>[37](/bible/matthew/10#v37)</sup> He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me.
+
 - He that loveth father or mother more than me is not worthy of me: that's the same thing we read in Luke 14:26. You cannot be his disciple.
+
+> <sup>[38](/bible/matthew/10#v38)</sup> And he that taketh not his cross, and followeth after me, is not worthy of me.
 
 - He that taketh not his cross, and followeth after me: him that doesn't follow the Lord wholeheartedly is not worthy of the Lord.
 
@@ -164,20 +164,20 @@ Reading from a definition of variance, on screen  *[[3:09](https://www.youtube.c
 **[Matthew 19:4-6](/bible/matthew/19#v4)**  *[[19:45](https://www.youtube.com/watch?v=8jMiVrls4g4&t=1185s)]*
 
 > <sup>[4](/bible/matthew/19#v4)</sup> And he answered and said unto them, Have ye not read, that he which made them at the beginning made them male and female,
->
-> <sup>[5](/bible/matthew/19#v5)</sup> And said, For this cause shall a man leave father and mother, and shall cleave to his wife: and they twain shall be one flesh?
->
-> <sup>[6](/bible/matthew/19#v6)</sup> Wherefore they are no more twain, but one flesh. What therefore God hath joined together, let not man put asunder.
 
 - Made them male and female: husband and wife. A man shall leave father and mother and cleave to his wife. You and your wife are an army: an army against Satan, an army to raise up your children righteously.
 
 - Everything else is outside. If people can't adhere to what you have got going on and are a hindrance to your walk, you must let them go, and sometimes you have got to be an example from a distance. We pray that's not it. I would love for my mother to be in my life, which she is. But if she was to go against this word, I have got to look out for my wife first, my daughter first, my family first.
+
+> <sup>[5](/bible/matthew/19#v5)</sup> And said, For this cause shall a man leave father and mother, and shall cleave to his wife: and they twain shall be one flesh?
 
 - They twain shall be one flesh: me and my wife are one flesh.
 
 - What therefore God hath joined together, let not man put asunder. That man goes into anybody: your mother, your mother-in-law, your father, your father-in-law. You cannot let them come against your marriage.
 
 - That's like letting the devil come in between me and Christ. I have built a relationship with him because I'm keeping the law, statutes, commandments and the faith in Christ, but then all of a sudden Satan comes in with the big booty Betty. No, I don't allow Satan to separate me from Christ. It's the same thing; they coincide together.
+
+> <sup>[6](/bible/matthew/19#v6)</sup> Wherefore they are no more twain, but one flesh. What therefore God hath joined together, let not man put asunder.
 
 
 **[Sirach 7:26](/bible/sirach/7#v26)**  *[[22:15](https://www.youtube.com/watch?v=8jMiVrls4g4&t=1335s)]*

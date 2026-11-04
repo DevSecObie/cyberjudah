@@ -32,10 +32,10 @@ tags: ["15 Minutes w/ The Captains", "love", "money", "pride"]
 **[2 Corinthians 9:1-2](/bible/2-corinthians/9#v1)**  *[[16:10](https://www.youtube.com/watch?v=8xZVMkVj4So&t=970s)]*
 
 > <sup>[1](/bible/2-corinthians/9#v1)</sup> For as touching the ministering to the saints, it is superfluous for me to write to you:
->
-> <sup>[2](/bible/2-corinthians/9#v2)</sup> For I know the forwardness of your mind, for which I boast of you to them of Macedonia, that Achaia was ready a year ago; and your zeal hath provoked very many.
 
 - For as touching the ministering to the saints, it is superfluous for me to write to you: Meaning what? Paul is saying, look, this is kind of redundant for me to remind you of this. He's going to elaborate on why. Watch this.
+
+> <sup>[2](/bible/2-corinthians/9#v2)</sup> For I know the forwardness of your mind, for which I boast of you to them of Macedonia, that Achaia was ready a year ago; and your zeal hath provoked very many.
 
 - For I know the forwardness of your mind: Meaning Paul knows what's on their spirit. He knows that these brothers in the church of Corinth are charitable brothers. That's why he said it's superfluous, meaning this go without saying.
 
@@ -83,12 +83,12 @@ tags: ["15 Minutes w/ The Captains", "love", "money", "pride"]
 **[Leviticus 19:17-18](/bible/leviticus/19#v17)**  *[[20:10](https://www.youtube.com/watch?v=8xZVMkVj4So&t=1210s)]*
 
 > <sup>[17](/bible/leviticus/19#v17)</sup> Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
->
-> <sup>[18](/bible/leviticus/19#v18)</sup> Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord.
 
 - Thou shalt in any wise rebuke thy neighbour: Meaning correct your neighbor.
 
 - And not suffer sin upon him: That means provoke him to good works. How do you provoke somebody to good works? You got to correct the bad behavior. Say, "Brother, listen, I know you could do better. That's not how we go about things according to the scriptures. This is what I found in the scriptures and this is how we got to move." That's how you provoke one another to good works. That also includes your wife and your children.
+
+> <sup>[18](/bible/leviticus/19#v18)</sup> Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord.
 
 - But thou shalt love thy neighbour as thyself: Thou shalt consider thy neighbor, like we just read in Hebrews 10 and 24. So now go back to Hebrews 10:24. It sounds very familiar to Leviticus 19:17 and 18.
 
@@ -98,8 +98,6 @@ tags: ["15 Minutes w/ The Captains", "love", "money", "pride"]
 **[2 Corinthians 9:2-3](/bible/2-corinthians/9#v2)**  *[[21:25](https://www.youtube.com/watch?v=8xZVMkVj4So&t=1285s)]*
 
 > <sup>[2](/bible/2-corinthians/9#v2)</sup> For I know the forwardness of your mind, for which I boast of you to them of Macedonia, that Achaia was ready a year ago; and your zeal hath provoked very many.
->
-> <sup>[3](/bible/2-corinthians/9#v3)</sup> Yet have I sent the brethren, lest our boasting of you should be in vain in this behalf; that, as I said, ye may be ready:
 
 - For I know the forwardness of your mind: So Paul knew these brothers had a willing and able spirit to give.
 
@@ -108,6 +106,8 @@ tags: ["15 Minutes w/ The Captains", "love", "money", "pride"]
 - That Achaia was ready a year ago: So much so that they was already in the spirit a year prior. That's letting you know Paul spoke highly of the church of Corinth, cuz Paul was getting on them in the letter, but also Paul spoke highly of them. So Paul didn't just tear them down with his letters. Guess what? He exhorted them and he spoke well about the brothers in Corinth.
 
 - And your zeal hath provoked very many: And he's encouraging right there like, "Listen, I talked about y'all so much that y'all's zeal has, what it say? Your zeal has provoked many." So Paul is boosting them up even in the letter.
+
+> <sup>[3](/bible/2-corinthians/9#v3)</sup> Yet have I sent the brethren, lest our boasting of you should be in vain in this behalf; that, as I said, ye may be ready:
 
 - Yet have I sent the brethren, lest our boasting of you should be in vain in this behalf: Meaning what? Paul said even though I boasted of you, I got to make sure I inspect what I expect, because Paul talked about them so much he had to send brothers up there to make sure that everything was ready.
 
@@ -139,12 +139,12 @@ tags: ["15 Minutes w/ The Captains", "love", "money", "pride"]
 **[2 Corinthians 9:3-4](/bible/2-corinthians/9#v3)**  *[[24:52](https://www.youtube.com/watch?v=8xZVMkVj4So&t=1492s)]*
 
 > <sup>[3](/bible/2-corinthians/9#v3)</sup> Yet have I sent the brethren, lest our boasting of you should be in vain in this behalf; that, as I said, ye may be ready:
->
-> <sup>[4](/bible/2-corinthians/9#v4)</sup> Lest haply if they of Macedonia come with me, and find you unprepared, we (that we say not, ye) should be ashamed in this same confident boasting.
 
 - Yet have I sent the brethren, lest our boasting of you should be in vain in this behalf: So Paul wanted to make sure they was on point. He was inspecting what he was expecting. So when the brothers went there, Paul wasn't looking crazy. He didn't have egg on his face because they were unprepared.
 
 - That, as I said, ye may be ready: You see that? So as I boasted of you, I want to make sure that you brothers is always ready.
+
+> <sup>[4](/bible/2-corinthians/9#v4)</sup> Lest haply if they of Macedonia come with me, and find you unprepared, we (that we say not, ye) should be ashamed in this same confident boasting.
 
 - Lest haply if they of Macedonia come with me: So now lest happily if these brothers that I've been boasting of you about, the brothers in Macedonia, accompany me.
 
@@ -175,10 +175,10 @@ tags: ["15 Minutes w/ The Captains", "love", "money", "pride"]
 **[Sirach 10:1-2](/bible/sirach/10#v1)**  *[[28:14](https://www.youtube.com/watch?v=8xZVMkVj4So&t=1694s)]*
 
 > <sup>[1](/bible/sirach/10#v1)</sup> A wise judge will instruct his people; and the government of a prudent man is well ordered.
->
-> <sup>[2](/bible/sirach/10#v2)</sup> As the judge of the people is himself, so are his officers; and what manner of man the ruler of the city is, such are all they that dwell therein.
 
 - A wise judge will instruct his people: It says a wise judge will instruct his people.
+
+> <sup>[2](/bible/sirach/10#v2)</sup> As the judge of the people is himself, so are his officers; and what manner of man the ruler of the city is, such are all they that dwell therein.
 
 - As the judge of the people is himself: So as King David ruled, as King Solomon ruled, right? Or King David in particular in this context had that willing and charitable spirit. He was going out to war, doing these things for the people.
 
@@ -190,10 +190,10 @@ tags: ["15 Minutes w/ The Captains", "love", "money", "pride"]
 **[2 Corinthians 9:5-6](/bible/2-corinthians/9#v5)**  *[[30:12](https://www.youtube.com/watch?v=8xZVMkVj4So&t=1812s)]*
 
 > <sup>[5](/bible/2-corinthians/9#v5)</sup> Therefore I thought it necessary to exhort the brethren, that they would go before unto you, and make up beforehand your bounty, whereof ye had notice before, that the same might be ready, as a matter of bounty, and not as of covetousness.
->
-> <sup>[6](/bible/2-corinthians/9#v6)</sup> But this I say, He which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully.
 
 - Whereof ye had notice before, that the same might be ready, as a matter of bounty, and not as of covetousness: Right. Man, brother almost made me forget my damn thought. You know what I mean?
+
+> <sup>[6](/bible/2-corinthians/9#v6)</sup> But this I say, He which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully.
 
 - But this I say, He which soweth sparingly shall reap also sparingly: So what you give determines what you receive, right?
 
@@ -253,12 +253,6 @@ tags: ["15 Minutes w/ The Captains", "love", "money", "pride"]
 **[Tobit 4:7-10](/bible/tobit/4#v7)**  *[[35:37](https://www.youtube.com/watch?v=8xZVMkVj4So&t=2137s)]*
 
 > <sup>[7](/bible/tobit/4#v7)</sup> Give alms of thy substance; and when thou givest alms, let not thine eye be envious, neither turn thy face from any poor, and the face of God shall not be turned away from thee.
->
-> <sup>[8](/bible/tobit/4#v8)</sup> If thou hast abundance give alms accordingly: if thou have but a little, be not afraid to give according to that little:
->
-> <sup>[9](/bible/tobit/4#v9)</sup> For thou layest up a good treasure for thyself against the day of necessity.
->
-> <sup>[10](/bible/tobit/4#v10)</sup> Because that alms do deliver from death, and suffereth not to come into darkness.
 
 - Give alms of thy substance; and when thou givest alms, let not thine eye be envious: So this is what Paul has really been going over in these first six verses, right?
 
@@ -266,7 +260,13 @@ tags: ["15 Minutes w/ The Captains", "love", "money", "pride"]
 
 - And the face of God shall not be turned away from thee: You see that? So if you give a little bit, the face of God is going to be turned away from. That's in the Bible.
 
+> <sup>[8](/bible/tobit/4#v8)</sup> If thou hast abundance give alms accordingly: if thou have but a little, be not afraid to give according to that little:
+
 - If thou hast abundance give alms accordingly: if thou have but a little, be not afraid to give according to that little: Right.
+
+> <sup>[9](/bible/tobit/4#v9)</sup> For thou layest up a good treasure for thyself against the day of necessity.
+>
+> <sup>[10](/bible/tobit/4#v10)</sup> Because that alms do deliver from death, and suffereth not to come into darkness.
 
 - Because that alms do deliver from death: Alms does what? Do deliver from death. So alms doth deliver from death.
 
@@ -276,8 +276,6 @@ tags: ["15 Minutes w/ The Captains", "love", "money", "pride"]
 **[Tobit 12:8-9](/bible/tobit/12#v8)**  *[[36:59](https://www.youtube.com/watch?v=8xZVMkVj4So&t=2219s)]*
 
 > <sup>[8](/bible/tobit/12#v8)</sup> Prayer is good with fasting and alms and righteousness. A little with righteousness is better than much with unrighteousness. It is better to give alms than to lay up gold:
->
-> <sup>[9](/bible/tobit/12#v9)</sup> For alms doth deliver from death, and shall purge away all sin. Those that exercise alms and righteousness shall be filled with life:
 
 - Prayer is good with fasting and alms: Right. So we read this earlier, so we coming back here.
 
@@ -285,16 +283,18 @@ tags: ["15 Minutes w/ The Captains", "love", "money", "pride"]
 
 - It is better to give alms than to lay up gold: You see that? That's what the law says. Better to give alms than to lay up gold.
 
+> <sup>[9](/bible/tobit/12#v9)</sup> For alms doth deliver from death, and shall purge away all sin. Those that exercise alms and righteousness shall be filled with life:
+
 - For alms doth deliver from death, and shall purge away all sin: So that's what we want to make sure that we doing. We want to make sure that we are in the right spirit, because alms doth deliver from death. So now, we got to make sure we in the right spirit with that.
 
 
 **[2 Corinthians 9:6-7](/bible/2-corinthians/9#v6)**  *[[37:38](https://www.youtube.com/watch?v=8xZVMkVj4So&t=2258s)]*
 
 > <sup>[6](/bible/2-corinthians/9#v6)</sup> But this I say, He which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully.
->
-> <sup>[7](/bible/2-corinthians/9#v7)</sup> Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver.
 
 - And he which soweth bountifully shall reap also bountifully: So we covered the scriptures on that.
+
+> <sup>[7](/bible/2-corinthians/9#v7)</sup> Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver.
 
 - Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver: So now, give me Exodus 35.
 
@@ -345,10 +345,10 @@ tags: ["15 Minutes w/ The Captains", "love", "money", "pride"]
 **[Sirach 20:16-17](/bible/sirach/20#v16)**  *[[41:07](https://www.youtube.com/watch?v=8xZVMkVj4So&t=2467s)]*
 
 > <sup>[16](/bible/sirach/20#v16)</sup> The fool saith, I have no friends, I have no thank for all my good deeds, and they that eat my bread speak evil of me.
->
-> <sup>[17](/bible/sirach/20#v17)</sup> How oft, and of how many shall he be laughed to scorn! for he knoweth not aright what it is to have; and it is all one unto him as if he had it not.
 
 - The fool saith, I have no friends, I have no thank for all my good deeds, and they that eat my bread speak evil of me: Watch this.
+
+> <sup>[17](/bible/sirach/20#v17)</sup> How oft, and of how many shall he be laughed to scorn! for he knoweth not aright what it is to have; and it is all one unto him as if he had it not.
 
 - How oft, and of how many shall he be laughed to scorn!: You see that?
 
@@ -380,10 +380,10 @@ tags: ["15 Minutes w/ The Captains", "love", "money", "pride"]
 **[Proverbs 3:9-10](/bible/proverbs/3#v9)**  *[[44:29](https://www.youtube.com/watch?v=8xZVMkVj4So&t=2669s)]*
 
 > <sup>[9](/bible/proverbs/3#v9)</sup> Honour the Lord with thy substance, and with the firstfruits of all thine increase:
->
-> <sup>[10](/bible/proverbs/3#v10)</sup> So shall thy barns be filled with plenty, and thy presses shall burst out with new wine.
 
 - Honour the Lord with thy substance: Do what? Honor the Lord with thy substance. So the Bible says we got to honor the Lord with our substance. Brothers have a problem. You know, the world will say, "You know, man, they out there collecting money and all that." And the people listen to these scoffers out there paying for, what's the site now? Damn. OnlyFans. You understand what I'm saying? They'll be out there talking about, "Man, they're using your money for this, that, and the third." And meanwhile, the people that's following them giving their money to OnlyFans. The Bible says, do what with your money? Honor the Lord with thy substance. The Bible says, honor the Lord with your substance. Not be a simp giving your money to OnlyFans. And then you out there running your mouth against us.
+
+> <sup>[10](/bible/proverbs/3#v10)</sup> So shall thy barns be filled with plenty, and thy presses shall burst out with new wine.
 
 - So shall thy barns be filled with plenty: That's what we read. Him that gives sparingly shall reap sparingly.
 
@@ -417,10 +417,10 @@ tags: ["15 Minutes w/ The Captains", "love", "money", "pride"]
 **[2 Corinthians 9:8-9](/bible/2-corinthians/9#v8)**  *[[47:56](https://www.youtube.com/watch?v=8xZVMkVj4So&t=2876s)]*
 
 > <sup>[8](/bible/2-corinthians/9#v8)</sup> And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work:
->
-> <sup>[9](/bible/2-corinthians/9#v9)</sup> (As it is written, He hath dispersed abroad; he hath given to the poor: his righteousness remaineth for ever.
 
 - That ye, always having all sufficiency in all things, may abound to every good work: So the Lord is able to sustain you even when you give your all. You're like, "Man, damn, man, I don't have this, but I'm going to go ahead and give what I got out of what I have." The Lord is able to sustain you.
+
+> <sup>[9](/bible/2-corinthians/9#v9)</sup> (As it is written, He hath dispersed abroad; he hath given to the poor: his righteousness remaineth for ever.
 
 - As it is written, He hath dispersed abroad: He have what? Dispersed abroad. So let's get that real quick.
 
@@ -443,18 +443,18 @@ tags: ["15 Minutes w/ The Captains", "love", "money", "pride"]
 **[Luke 21:1-4](/bible/luke/21#v1)**  *[[50:02](https://www.youtube.com/watch?v=8xZVMkVj4So&t=3002s)]*
 
 > <sup>[1](/bible/luke/21#v1)</sup> And he looked up, and saw the rich men casting their gifts into the treasury.
->
-> <sup>[2](/bible/luke/21#v2)</sup> And he saw also a certain poor widow casting in thither two mites.
->
-> <sup>[3](/bible/luke/21#v3)</sup> And he said, Of a truth I say unto you, that this poor widow hath cast in more than they all:
->
-> <sup>[4](/bible/luke/21#v4)</sup> For all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had.
 
 - And he looked up, and saw the rich men casting their gifts into the treasury: So Christ looked up and he see the rich man casting his money into the treasury. Watch this.
 
+> <sup>[2](/bible/luke/21#v2)</sup> And he saw also a certain poor widow casting in thither two mites.
+
 - And he saw also a certain poor widow casting in thither two mites: So this sister had two mites. She cast it in. So Christ, they got both of them there, right, at the treasury. You got the rich man and you got the poor sister. She gave two mites.
 
+> <sup>[3](/bible/luke/21#v3)</sup> And he said, Of a truth I say unto you, that this poor widow hath cast in more than they all:
+
 - That this poor widow hath cast in more than they all: Hold on. Hold on. This poor widow done what? Hath cast in more than they all. They said this poor widow has cast more than they all.
+
+> <sup>[4](/bible/luke/21#v4)</sup> For all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had.
 
 - For all these have of their abundance cast in unto the offerings of God: They had excess. They cast in out of their abundance.
 
@@ -475,14 +475,14 @@ tags: ["15 Minutes w/ The Captains", "love", "money", "pride"]
 **[Leviticus 19:9-10](/bible/leviticus/19#v9)**  *[[52:07](https://www.youtube.com/watch?v=8xZVMkVj4So&t=3127s)]*
 
 > <sup>[9](/bible/leviticus/19#v9)</sup> And when ye reap the harvest of your land, thou shalt not wholly reap the corners of thy field, neither shalt thou gather the gleanings of thy harvest.
->
-> <sup>[10](/bible/leviticus/19#v10)</sup> And thou shalt not glean thy vineyard, neither shalt thou gather every grape of thy vineyard; thou shalt leave them for the poor and stranger: I am the Lord your God.
 
 - And when ye reap the harvest of your land: So that's the brother with the abundance, right? When you reap the harvest of your land.
 
 - Thou shalt not wholly reap the corners of thy field: Don't do like the damn white man.
 
 - Neither shalt thou gather the gleanings of thy harvest: Meaning what? You just on the ground, you getting everything so you can sell it. You not leaving anything left. Here's the point.
+
+> <sup>[10](/bible/leviticus/19#v10)</sup> And thou shalt not glean thy vineyard, neither shalt thou gather every grape of thy vineyard; thou shalt leave them for the poor and stranger: I am the Lord your God.
 
 - Neither shalt thou gather every grape of thy vineyard: So you don't harvest everything in there. Why?
 
@@ -509,10 +509,10 @@ tags: ["15 Minutes w/ The Captains", "love", "money", "pride"]
 **[Isaiah 55:10-11](/bible/isaiah/55#v10)**  *[[53:35](https://www.youtube.com/watch?v=8xZVMkVj4So&t=3215s)]*
 
 > <sup>[10](/bible/isaiah/55#v10)</sup> For as the rain cometh down, and the snow from heaven, and returneth not thither, but watereth the earth, and maketh it bring forth and bud, that it may give seed to the sower, and bread to the eater:
->
-> <sup>[11](/bible/isaiah/55#v11)</sup> So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it.
 
 - That it may give seed to the sower, and bread to the eater: Hold on. It may do what? That it may give seed to the sower, and bread to the eater. Watch this.
+
+> <sup>[11](/bible/isaiah/55#v11)</sup> So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it.
 
 - So shall my word be that goeth forth out of my mouth: That's letting you know this thing is twofold. It's talking about what you give, but also that seed that you plant, talking about the men out there teaching. You understand? Look at how Bishop Nathanyel is out there on the corner teaching, and look at what IUIC grown into. That's what this is talking about. Also simultaneously talking about brothers and sisters giving alms willingly.
 
@@ -605,8 +605,6 @@ tags: ["15 Minutes w/ The Captains", "love", "money", "pride"]
 **[2 Corinthians 9:14-15](/bible/2-corinthians/9#v14)**  *[[1:03:11](https://www.youtube.com/watch?v=8xZVMkVj4So&t=3791s)]*
 
 > <sup>[14](/bible/2-corinthians/9#v14)</sup> And by their prayer for you, which long after you for the exceeding grace of God in you.
->
-> <sup>[15](/bible/2-corinthians/9#v15)</sup> Thanks be unto God for his unspeakable gift.
 
 - And by their prayer for you, which long after you for the exceeding grace of God in you: Because of their generosity, the brothers and sisters that you help out are going to send up prayers to the Lord for your protection and blessings.
 
@@ -625,6 +623,8 @@ tags: ["15 Minutes w/ The Captains", "love", "money", "pride"]
     > <sup>[1](/bible/2-thessalonians/3#v1)</sup> Finally, brethren, pray for us, that the word of the Lord may have free course, and be glorified, even as it is with you:
 
     You see that? Pray for us. That the word of the Lord may have free course. Meaning what? Through your charitable giving, the word of the Lord got free course. How you think we able to go out and blitz the earth on Passover? Because of you brothers and sisters' willing spirit to give and support the booster club. And be glorified, even as it is with you. You see that? And God is being glorified. Christ is being glorified, because of what you all giving, the gospel is able to be preached worldwide.
+
+> <sup>[15](/bible/2-corinthians/9#v15)</sup> Thanks be unto God for his unspeakable gift.
 
 
 **[2 Corinthians 9:15](/bible/2-corinthians/9#v15)**  *[[1:05:59](https://www.youtube.com/watch?v=8xZVMkVj4So&t=3959s)]*

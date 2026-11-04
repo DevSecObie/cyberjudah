@@ -30,7 +30,7 @@ Reading from Wikipedia, "Nabataeans"  *[[12:39](https://www.youtube.com/watch?v=
 >
 > Described as fiercely independent by contemporary Greco-Roman accounts, the Nabataeans were annexed into the Roman Empire by Emperor Trajan in 106 common era. Nabataean individual culture, easily identified by their characteristic finely potted painted ceramics, was adopted into the larger Greco-Roman culture. They converted to Christianity during the later Roman era. They have been described as one of the most gifted peoples of the ancient world, and one of the most unjustly forgotten.
 
-- Go to History. Where does it say "unknown amount"? Let me see, where can you find that in the page, please? "Unknown amount." So no, I'm reading the wrong thing. Okay, here we go. Go back up then, go back up, so you can know. All right, right here.
+- Go to History. Where does it say "unknown amount"? Let me see, where can you find that in the page, please? "Unknown amount." So no, I'm reading the wrong thing. Okay, here we go. Go back up then, go back up, so you can know.
 
 > The Nabataeans were allies of the first Hasmoneans in their struggles against the Seleucid monarchs. They then became rivals of the Judean dynasty and a chief element in the disorders that invited Pompey's intervention in Judea in 65 BC.
 
@@ -56,9 +56,9 @@ Reading from Wikipedia, "Nabataeans"  *[[12:39](https://www.youtube.com/watch?v=
 
 - **Deacon Eythan:** No damn Arabs putting that there. Edom. That's the right here. You see a picture, the eagle of Petra right here. That's their symbol. Look familiar to you? Looks very, very familiar to me.
 
-- **Officer:** Wow. Wow. Got the dollar bill.
+- **Officer:** Got the dollar bill.
 
-- **Deacon Eythan:** Right. That's the eagle of Petra, going back to the Romans, going back to them being the Greeks. The same symbol, man.
+- **Deacon Eythan:** That's the eagle of Petra, going back to the Romans, going back to them being the Greeks. The same symbol, man.
 
 - *[[18:08](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=1088s)]* Obadiah. Get that real … me, Obadiah, real quick. Let's just get it real quick. I'm sidebar for a moment. I'm trying to stay on Ishmael, but Edom makes me sick. But I got to get on this real quick. Obadiah. I don't want to kill my time, but I have to just bring it out real quick, because that lie is being perpetuated: oh yeah, you know, the Nabataeans built that. No, they did not. Edom built that, and then the Nabataeans moved in and became the new renters. That's all. Read that, Obadiah chapter 1 and verse 1.
 
@@ -80,7 +80,7 @@ Reading from Wikipedia, "Nabataeans"  *[[12:39](https://www.youtube.com/watch?v=
 
 - But the pride of his heart has deceived him.
 
-- In the clefts of the rock. Goes back to that thing right there: Petra, Edom, Idumea. Okay.
+- In the clefts of the rock. Goes back to that thing right there: Petra, Edom, Idumea.
 
 - Whose habitation is high, because there a mountain. It's a mountain range, it's right there. See, mountain.
 
@@ -104,9 +104,9 @@ Reading from Wikipedia, "Nabataeans"  *[[12:39](https://www.youtube.com/watch?v=
 
 - Then will I bring thee down, saith the Lord. Will I bring thee down.
 
-- *[[21:10](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=1270s)]* This coin right here, that's a bad coin. That's Susan B. Anthony. That's a Susan B. Anthony coin on one side, and that's the eagle landing on the other. This coin was minted the year of the moon landing, I believe. And the reason why they have Susan B. Anthony on one side and the eagle on the other is because Susan B. Anthony represents confusion and feminism. Feminism, and them landing on the moon: it all goes back to exalting confusion and evil. All goes back to the same. And when the truth start coming out, they got rid of the coin, because it shows the eagle landing on the moon. Because these … is teaching in the street about that moon. And they got rid of that, because they said it resembled the quarter too much. Okay, why make it then? Right.
+- *[[21:10](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=1270s)]* This coin right here, that's a bad coin. That's Susan B. Anthony. That's a Susan B. Anthony coin on one side, and that's the eagle landing on the other. This coin was minted the year of the moon landing, I believe. And the reason why they have Susan B. Anthony on one side and the eagle on the other is because Susan B. Anthony represents confusion and feminism. Feminism, and them landing on the moon: it all goes back to exalting confusion and evil. All goes back to the same. And when the truth start coming out, they got rid of the coin, because it shows the eagle landing on the moon. Because these … is teaching in the street about that moon. And they got rid of that, because they said it resembled the quarter too much. Okay, why make it then?
 
-*[[21:56](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=1316s)]* So let's go back. Back to Israel again, back to the Arabs. Those of you who are listening right now, who may have come across this show, someone may have recommended it to you, and you're a Muslim: if you're upset after this show, you are a Near Eastern house …. I'm going to just tell you straight to your face. You're a … for the Arab man, the Arab. So understand, this lesson is not attacking black Muslims. It's attacking the man behind the religion itself, and the people behind the religion itself, that the Bible speaks against over and over again. Okay? I'm going to show you why I have a heavy disdain for Islam. Because I touched on Christianity years ago. So they had their turn; now it's time for Islam. Islam has to have its turn, because those are the two greatest, biggest religions, the largest religions on the planet, and I have to address both. So now we're done with Esau. Now, the big three: Christianity was one, Edom; Ishmael is number two. I got to deal with it in that order. Then Moab eventually. Moab is not really, you know, Hinduism, Buddhism. It's not really, you know, insignificant.
+*[[21:56](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=1316s)]* So let's go back. Back to Israel again, back to the Arabs. Those of you who are listening right now, who may have come across this show, someone may have recommended it to you, and you're a Muslim: if you're upset after this show, you are a Near Eastern house …. I'm going to just tell you straight to your face. You're a … for the Arab man, the Arab. So understand, this lesson is not attacking black Muslims. It's attacking the man behind the religion itself, and the people behind the religion itself, that the Bible speaks against over and over again. I'm going to show you why I have a heavy disdain for Islam. Because I touched on Christianity years ago. So they had their turn; now it's time for Islam. Islam has to have its turn, because those are the two greatest, biggest religions, the largest religions on the planet, and I have to address both. So now we're done with Esau. Now, the big three: Christianity was one, Edom; Ishmael is number two. I got to deal with it in that order. Then Moab eventually. Moab is not really, you know, Hinduism, Buddhism. It's not really, you know, insignificant.
 
 - **Officer:** It's not really a problem.
 
@@ -124,7 +124,7 @@ Reading from Wikipedia, "Nabataeans"  *[[12:39](https://www.youtube.com/watch?v=
 
 - So Jason hated his own kind. He thought of them as his enemies rather than his own people. Like a lot of you black people today. A lot of you celebrities today, you despise your people. You speak down to your people. A lot of y'all, especially a lot of the black folks that are, because Jason gained status under the king of the Greeks. Whenever black folks gain status and we talk about things like slavery or our oppression, you got black folks saying, oh, that's racial idolatry. You …. You Negroes are the worst. I'm trying to say nigga as much as I want to, because it makes me feel good when I say it. I think the word Negro and … does not come off as powerful as …. I like to say nigga more than anything else. Makes my teeth white when I say it.
 
-- But you Negroes that gain status in society, you talk down on us. And we mention slavery and so forth, as if slavery was a thousand years ago. You do understand that we gained civil rights like 60 years ago, right? You understand that? You understand that sharecropping ended in 1960? It went on for years under four presidents, covertly. Sharecropping ended in 1960, a hundred years after our enslavement ended. And in Saudi Arabia it ended in 1964, or '62. And in Mauritania it ended in 1980. And in Brazil it ended in 1888. This is not like hundreds of years ago, a thousand years, a million. We're talking about less than an old person ago. An old person grow old; that's that long. It's not that long ago. 60 years ago, 70 years. I'm guesstimating, but around 60, 70 years ago we were not considered human beings at all. And then before that we was getting hung, and we're still being killed today and hung. Women, our sisters, going missing, getting chopped up, getting thrown in the river, being hung from trees. They have sundown towns even to this day. You can't drive; you got to drive through them things real quick.
+- But you Negroes that gain status in society, you talk down on us. And we mention slavery and so forth, as if slavery was a thousand years ago. You do understand that we gained civil rights like 60 years ago, right? You understand that sharecropping ended in 1960? It went on for years under four presidents, covertly. Sharecropping ended in 1960, a hundred years after our enslavement ended. And in Saudi Arabia it ended in 1964, or '62. And in Mauritania it ended in 1980. And in Brazil it ended in 1888. This is not like hundreds of years ago, a thousand years, a million. We're talking about less than an old person ago. An old person grow old; that's that long. It's not that long ago. 60 years ago, 70 years. I'm guesstimating, but around 60, 70 years ago we were not considered human beings at all. And then before that we was getting hung, and we're still being killed today and hung. Women, our sisters, going missing, getting chopped up, getting thrown in the river, being hung from trees. They have sundown towns even to this day. You can't drive; you got to drive through them things real quick.
 
 - But oh, they said you're playing victim. No, we are descendants of victims, right? And that victimhood, that trauma, that thing seeped into our genetics. It's been proven that the slavery of our forefathers was so severe that it altered our DNA. That's how bad it was. You stupid rich … out here talking your mess. Victim? You making six figures. You wait till this place starts falling apart. We going to see where your victimhood talk is then. Get on verse 7.
 
@@ -140,9 +140,9 @@ Reading from Wikipedia, "Nabataeans"  *[[12:39](https://www.youtube.com/watch?v=
 
 - This Aretas is Aretas the First. He was the king of the Arabians, or the Nabataeans. He was a Nabataean king, Aretas the First.
 
-- Oh, praise. He was exiled into Egypt. But he ran to that Arabian king, Aretas the First. He ran to him first.
+- He was exiled into Egypt. But he ran to that Arabian king, Aretas the First. He ran to him first.
 
-*[[28:01](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=1681s)]* Now get me 2 Corinthians 11:32. Now last week I read about Herod, I believe it was Antipater. Antipater married a woman named Cypros, and she was the cousin of Aretas the Third. Okay. Herod, I believe Antipater, who was the father of the Herodian dynasty, married a Nabataean woman named Cypros, and she was the cousin of Aretas the Third. 2 Corinthians 11:32.
+*[[28:01](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=1681s)]* Now get me 2 Corinthians 11:32. Now last week I read about Herod, I believe it was Antipater. Antipater married a woman named Cypros, and she was the cousin of Aretas the Third. Herod, I believe Antipater, who was the father of the Herodian dynasty, married a Nabataean woman named Cypros, and she was the cousin of Aretas the Third. 2 Corinthians 11:32.
 
 **[2 Corinthians 11:32](/bible/2-corinthians/11#v32)**  *[[28:33](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=1713s)]*
 
@@ -156,9 +156,9 @@ Reading from Wikipedia, "Nabataeans"  *[[12:39](https://www.youtube.com/watch?v=
 
 - **Officer:** That's the Fourth.
 
-- **Deacon Eythan:** Okay. So this is Aretas the Fourth, Philopatris. Okay, so he's the Fourth. All right, you see.
+- **Deacon Eythan:** So this is Aretas the Fourth, Philopatris. Okay, so he's the Fourth.
 
-- *[[29:45](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=1785s)]* And Antipater, thank you. Antipater married Cypros, a Nabataean noblewoman. Go down, go down. I said his name. Go down, go down, go down. Right there. Read it right there.
+- *[[29:45](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=1785s)]* And Antipater, thank you. Antipater married Cypros, a Nabataean noblewoman. I said his name. Right there. Read it right there.
 
 <div class="reading">
 
@@ -174,7 +174,7 @@ Reading from Wikipedia, on Antipater and Cypros  *[[29:55](https://www.youtube.c
 
 - When Kevin Hart said that Egypt is Africa, they got mad at him. Why? Because they're Edomite. I call them Edom Arabs. These are Edom Arabs mingled together. And they, oh, we were always in Egypt. No, you were not always there. But Edom does that. Edom will conquer a people and then profess to have always been there and be those people. That's why you watch the movie *The Mummy*, how that guy looked. That guy shouldn't look like that at all, the Mummy. He should have been a straight Negro playing that role.
 
-- This is them here. You see the two girls there. Click down, let me see them real fast. Blow up, blow up, let me see them. So you see the Edomite features. One looks more Arab, one looks more not Arab. Arabish. Arabish, Edomite features. Those are Turks. Okay. We got that book about the Turks, who they are. That book, you pull that up real fast about the Turks.
+- This is them here. You see the two girls there. Click down, let me see them real fast. Blow up, blow up, let me see them. So you see the Edomite features. One looks more Arab, one looks more not Arab. Arabish. Arabish, Edomite features. Those are Turks. We got that book about the Turks, who they are. That book, you pull that up real fast about the Turks.
 
 - **Officer:** Wasn't Herod Antipas married to Aretas the Fourth's daughter, who he divorced and then married his brother's wife?
 
@@ -206,15 +206,13 @@ Reading from Wikipedia, on Antipater and Cypros  *[[29:55](https://www.youtube.c
 
 - **Officer:** Matthew 14.
 
-- **Deacon Eythan:** No, no, you keep reading. Oh, it's more. Okay, keep reading. Verse 15.
+- **Deacon Eythan:** No, no, you keep reading. Oh, it's more. Verse 15.
 
 > <sup>[15](/bible/mark/6#v15)</sup> Others said, That it is Elias. And others said, That it is a prophet, or as one of the prophets.
 
 - Jump to the point. Get to verse 16.
 
 > <sup>[16](/bible/mark/6#v16)</sup> But when Herod heard thereof, he said, It is John, whom I beheaded: he is risen from the dead.
-
-- Right.
 
 > <sup>[17](/bible/mark/6#v17)</sup> For Herod himself had sent forth and laid hold upon John, and bound him in prison for Herodias’ sake, his brother Philip’s wife: for he had married her.
 
@@ -248,7 +246,7 @@ Reading from Wikipedia, on Antipater and Cypros  *[[29:55](https://www.youtube.c
 
 - She basically said he was C-blocking.
 
-- But she couldn't. So she said, okay, well, I'll dance for you, but give me one request. He was like, what? Give me his head in the platter. So he had to oblige her. Demon, man. They the worst. The worst. Herodias was an Edomite woman. So the same hatred the men have, the women have it too. Okay? The women have it too. There has nothing changed. It's the same. In fact, it is brought out that a lot of the chains that brought us over here in ships, the women made them chains. The white women made those chains.
+- But she couldn't. So she said, okay, well, I'll dance for you, but give me one request. He was like, what? Give me his head in the platter. So he had to oblige her. Demon, man. They the worst. The worst. Herodias was an Edomite woman. So the same hatred the men have, the women have it too. The women have it too. There has nothing changed. It's the same. In fact, it is brought out that a lot of the chains that brought us over here in ships, the women made them chains. The white women made those chains.
 
 - **Officer:** Damn.
 
@@ -258,13 +256,13 @@ Reading from Wikipedia, on Antipater and Cypros  *[[29:55](https://www.youtube.c
 
 - **Officer:** That name Mortimer.
 
-- **Deacon Eythan:** Why I can't, Biff and Mortimer. Just that name is new. Now I use that now. Was Biff, now I'm stuck on Mortimer. Now something going to come that fits a little better. Yeah, Mortimer. Right. Mortimer. Gilligan. Damn it, Gilligan. Told you these names, man. It's hillbilly names. Yeah, Mortimer. There's one more name I'm trying to think of. I can't think of it right now. I got to figure out; when it comes to my mind I'm going to say it. Billy Bob. Not Billy, Billy Bob. Pee-wee Herman. No, no, no, no, that's a TV name. We talking about these hillbilly names. *The Hills Have Eyes*.
+- **Deacon Eythan:** Why I can't, Biff and Mortimer. Just that name is new. Now I use that now. Was Biff, now I'm stuck on Mortimer. Now something going to come that fits a little better. Yeah, Mortimer. Mortimer. Gilligan. Damn it, Gilligan. Told you these names, man. It's hillbilly names. Yeah, Mortimer. There's one more name I'm trying to think of. I can't think of it right now. I got to figure out; when it comes to my mind I'm going to say it. Billy Bob. Not Billy, Billy Bob. Pee-wee Herman. No, no, no, no, that's a TV name. We talking about these hillbilly names. *The Hills Have Eyes*.
 
 - *[[39:23](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=2363s)]* All right, what we got? *The Destiny of America.*
 
 - **Officer:** Can I read?
 
-- **Deacon Eythan:** I was going to skip past it, so we all right. You read it. *The Destiny of America, with an Appendix: Who Are the Japanese?* What's the year? Go down. It's on the next page. Next page. Let's see the year. Oh, year 1921. Yeah, still. Okay, so at this point, you know, this book is not accessible to us. 1921, we got no civil rights. Blow it up.
+- **Deacon Eythan:** I was going to skip past it, so we all right. You read it. *The Destiny of America, with an Appendix: Who Are the Japanese?* What's the year? It's on the next page. Let's see the year. Oh, year 1921. Yeah, still. Okay, so at this point, you know, this book is not accessible to us. 1921, we got no civil rights. Blow it up.
 
 - **Officer:** Still white eyes only.
 
@@ -354,7 +352,7 @@ Reading from *The Destiny of America, with an Appendix: Who Are the Japanese?* (
 
 - **Deacon Eythan:** Yeah, I want that too. I got that. Those are tents of Kedar. Now we have brothers in our congregation that reside in Qatar, modern-day Qatar, which goes back to the name Kedar. I say it again: the modern-day area today known as Qatar, Q-A-T-A-R, is Kedar, in reference to that son. And our brothers today who live there, our congregation who live out there, they said that the curtains of Solomon are black curtains. Extremely black, dark curtains. And what does Kedar mean? Black. It means black, or dark skin. That's exactly what the word means.
 
-- So there's a tent right here. A tent of Kedar right here. Is any more other than that one? If that's all they got, that's fine. Yep, right there. Look at that: black curtains. Black, with some white design on the side. He wasn't a zebra, so obviously he's referring to the black part. All right, that's the tents of Kedar. Black. He is black. I am black as the tents of Kedar. So Solomon was extremely dark. Okay. You know why he was dark? Because his daddy was dark too, David.
+- So there's a tent right here. A tent of Kedar right here. Is any more other than that one? If that's all they got, that's fine. Yep, right there. Look at that: black curtains. Black, with some white design on the side. He wasn't a zebra, so obviously he's referring to the black part. All right, that's the tents of Kedar. Black. He is black. I am black as the tents of Kedar. So Solomon was extremely dark. You know why he was dark? Because his daddy was dark too, David.
 
 - **Officer:** And his mama.
 
@@ -406,7 +404,7 @@ Reading from *The Jews and Moors in Spain*, page 25, on the Berbers and the Moor
 
 > the same Shemitic features, were equally skilled in the use of arms and the breeding and handling of horses, and so the Arabs believed them to be of their own race,
 
-- Because they were related. Because the Ishmaelites and the Israelites are of Abraham. That's why it's saying that the Berbers were our people. The Semitic Berbers were. You have two groups. You had the Hamitic Berbers, or Tuaregs today, that were heavily involved in our slavery. We're going to get to them later on. And you had the Semitic Berbers. Hamitic Berbers and Semitic Berbers. Like the sister Queen Kahina; she was of the Levitical line. She was a Semitic Berber. Okay.
+- Because they were related. Because the Ishmaelites and the Israelites are of Abraham. That's why it's saying that the Berbers were our people. The Semitic Berbers were. You have two groups. You had the Hamitic Berbers, or Tuaregs today, that were heavily involved in our slavery. We're going to get to them later on. And you had the Semitic Berbers. Hamitic Berbers and Semitic Berbers. Like the sister Queen Kahina; she was of the Levitical line. She was a Semitic Berber.
 
 > The northern coast of Africa has been called by the Romans, from the dark complexion of its people, Mauritania,
 
@@ -426,7 +424,7 @@ Reading from *The Jews and Moors in Spain*, page 25, on the Berbers and the Moor
 
 > the conquerors and the conquered, so completely that in less than a decade the one could not be distinguished from the other.
 
-- Because the Ishmaelites, the real ones, and the Israelites look the same. They were both black then. Because them intermingling with Esau, some of them look pale. You don't see dark Arabs like that; they don't really show them, but they exist. They're around. You can't distinguish them from us, because we have the same father, Abraham. So there's similarities with us. Let me see, go down. I want more. You read that, I might want some more.
+- Because the Ishmaelites, the real ones, and the Israelites look the same. They were both black then. Because them intermingling with Esau, some of them look pale. You don't see dark Arabs like that; they don't really show them, but they exist. They're around. You can't distinguish them from us, because we have the same father, Abraham. So there's similarities with us. I want more. You read that, I might want some more.
 
 > The second foe, however, who inhabited the northern extremity, the rock-built city, was garrisoned by Spanish soldiers, and its brave commander, Count Julian, defied the valiant Emir Ibn Nasir, the hero of two continents. It seemed as if Islamism had reached its limit, that it would never set its foot
 
@@ -448,7 +446,7 @@ Reading from *A Treatise on Physical Geography, comprising Hydrology, Geology* (
 
 > Thus the Jews are a people who have ever, according to the prophecy, dwelt alone, without intermixing with the nations, to this day, now a separate race, all descended from brown ancestors.
 
-- Brown. This is like we read earlier about the Berbers being dark complexion, called Morisco, or called Berbers or Moors, and the Ishmaelites referred to them as family, because we both had Abraham. Said patriarchal habits. Ishmael had Abraham as their father, and we had Abraham as our father, so we shared similar habits based upon oral tradition, passed on from Abraham to Isaac to Jacob. Read on. Until, of course, they got involved in Islam.
+- Brown. This is like we read earlier about the Berbers being dark complexion, called Morisco, or called Berbers or Moors, and the Ishmaelites referred to them as family, because we both had Abraham. Said patriarchal habits. Ishmael had Abraham as their father, and we had Abraham as our father, so we shared similar habits based upon oral tradition, passed on from Abraham to Isaac to Jacob. Until, of course, they got involved in Islam.
 
 > For Abraham, Isaac and Jacob must have been as dark,
 
@@ -464,7 +462,7 @@ Reading from *A Treatise on Physical Geography, comprising Hydrology, Geology* (
 
 - **Officer:** They just got all the recessive features at once.
 
-- **Deacon Eythan:** Right. They got them all at once. Exactly. So read.
+- **Deacon Eythan:** They got them all at once. Exactly. So read.
 
 > to the rose and lily complexion of the Jewish
 
@@ -520,13 +518,13 @@ Reading from *The Jews: A Study of Race and Environment* by Maurice Fishberg (19
 
 > These fair-haired Jews created a problem
 
-- The fair-haired is the red one. The red. Remember in the last book: red hair, blue eyes. Blonde hair, blue. Remember that. Read it again.
+- The fair-haired is the red one. The red. Remember in the last book: red hair, blue eyes. Blonde hair, blue. Remember that.
 
-- *[[58:30](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=3510s)]* Now I'm sorry, before you even go there, go back to the cover. You have to cover the book. Go to that book, please. Blow it up, please. This is a book called *The Jews: A Study of Race and Environment* by Maurice Fishberg. You know what Berg mean? It means the so-called Jew put this together. Not IUIC. This is not our book. Maurice Fishberg. Okay. Just so there's no confusion about who put it together. And it was published, I believe, in 1911. 1911. All right, let's go back. Get that disclaimer out there. Read that.
+- *[[58:30](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=3510s)]* Now I'm sorry, before you even go there, go back to the cover. You have to cover the book. Go to that book, please. Blow it up, please. This is a book called *The Jews: A Study of Race and Environment* by Maurice Fishberg. You know what Berg mean? It means the so-called Jew put this together. Not IUIC. This is not our book. Maurice Fishberg. Just so there's no confusion about who put it together. And it was published, I believe, in 1911. 1911. All right, let's go back. Get that disclaimer out there.
 
 > These fair-haired Jews created a problem for anthropologists.
 
-- Created a what? A problem for anthropologists. Why would they create a problem for anthropologists? Anthropologist is a person that studies people. Yep. Why would these people create a problem for anthropologists? Read on.
+- Created a what? A problem for anthropologists. Why would they create a problem for anthropologists? Anthropologist is a person that studies people. Yep. Why would these people create a problem for anthropologists?
 
 > It is a question whence these Indo-Germanic Jews, as Virchow called them,
 
@@ -534,11 +532,11 @@ Reading from *The Jews: A Study of Race and Environment* by Maurice Fishberg (19
 
 > have found their way into the midst of a dark-complexioned race like the Jews.
 
-- How they find themselves among the dark-skinned complexion race. Race, not religion. Race. Dark-complexioned race like the Jews. Where they come from? If the Jews are black, who these guys over here? Huh? Now get the next page. Read the top. Watch this.
+- How they find themselves among the dark-skinned complexion race. Race, not religion. Race. Dark-complexioned race like the Jews. Where they come from? If the Jews are black, who these guys over here? Huh? Now get the next page. Read the top.
 
 > In fact, even the Spanish and Portuguese Jews, the Sephardim,
 
-- Sephardim is the Spanish Jews. Watch this.
+- Sephardim is the Spanish Jews.
 
 > who have been considered to be of a much darker complexion than the Eastern European Jews,
 
@@ -550,15 +548,13 @@ Reading from *The Jews: A Study of Race and Environment* by Maurice Fishberg (19
 
 > In fact, even the Spanish and Portuguese Jews, the Sephardim, who have been considered to be of a much darker complexion than the Eastern European Jews, the Ashkenazim, also have a fair number of blonds among them, as can be seen from the following figures.
 
-- So these Eastern European Jews made their way into Bosnia, England, North Africa, Italy, various other areas, in Turkey, and they have blondish hair, right? That's what it's saying. The hair and the eyes. It's a small percentage. Those are your Ashkenazim. Now jump down to the Sephardim right here. The Sephardim. Move it up some. Watch this.
+- So these Eastern European Jews made their way into Bosnia, England, North Africa, Italy, various other areas, in Turkey, and they have blondish hair, right? That's what it's saying. The hair and the eyes. It's a small percentage. Those are your Ashkenazim. Now jump down to the Sephardim right here. The Sephardim. Move it up some.
 
 > The Sephardim, who have been reputed to
 
-- Watch this.
-
 > have preserved the Jewish type more perfectly, are also not lacking in a blond element.
 
-- That's what I want. Let me see something. Hold on. It says it. So the so-called Jew that put this book together, he obviously was creating confusion. That's why, like, yo, where did these other Jews come from? But remember, these are the Khazars. All right? Back around the 8th century. They the ones that came into Spain. We even have a book that show that they even learned from us. They went to our schools and so forth. Read. Yeah, that's it. Read again. I misread it. Read it again. That's it, at the bottom. Go to Sephardim again. Remember, go above again. Go up, go up. It says the Sephardim are of a darker complexion than the Eastern. Right. Now go down. So you talk about the Sephardim, the black ones here. Read that.
+- That's what I want. Let me see something. It says it. So the so-called Jew that put this book together, he obviously was creating confusion. That's why, like, yo, where did these other Jews come from? But remember, these are the Khazars. Back around the 8th century. They the ones that came into Spain. We even have a book that show that they even learned from us. They went to our schools and so forth. Yeah, that's it. Read again. I misread it. That's it, at the bottom. Go to Sephardim again. Remember, go above again. It says the Sephardim are of a darker complexion than the Eastern. Now go down. So you talk about the Sephardim, the black ones here.
 
 > The Sephardim, who have been reputed to have preserved the Jewish type more perfectly,
 
@@ -598,7 +594,7 @@ Reading from *Sails of Hope: The Secret Mission of Christopher Columbus* by Simo
 
 > And so we can conclude that after the landfall in America, the first words addressed to the natives were words of Hebrew.
 
-- So the first words addressed to the Native Americans was Hebrew, because they spoke it on this side of the world. But you naysayers that say the northern kingdom is not Native Americans, y'all are stupid as hell. Read on.
+- So the first words addressed to the Native Americans was Hebrew, because they spoke it on this side of the world. But you naysayers that say the northern kingdom is not Native Americans, y'all are stupid as hell.
 
 > Curiously enough, Vasco da Gama was to repeat the experiment a few years later. In 1497, while the expulsion of the Jews from Portugal was underway, da Gama took with him on his voyage to India around the Cape of Good Hope an interpreter of Hebrew.
 
@@ -610,7 +606,7 @@ Reading from *Sails of Hope: The Secret Mission of Christopher Columbus* by Simo
 
 > a convert, Nunes, who, like Luis de Torres, underwent baptism just before the voyage. After the landing in Calicut, on the Malabar coast of India, on May 21st, 1498, he was the first to go on land. He too addressed the inhabitants in Hebrew, just as Luis de Torres had done five years earlier.
 
-- The next page. Watch this.
+- The next page.
 
 > Marco Polo had already mentioned the presence of Jews on the Malabar Coast,
 
@@ -654,7 +650,7 @@ Reading from *Sails of Hope: The Secret Mission of Christopher Columbus* by Simo
 
 > <sup>[10](/bible/2-chronicles/17#v10)</sup> And the fear of the Lord fell upon all the kingdoms of the lands that were round about Judah, so that they made no war against Jehoshaphat.
 
-- Come on. Verse 11.
+- Verse 11.
 
 > <sup>[11](/bible/2-chronicles/17#v11)</sup> Also some of the Philistines brought Jehoshaphat presents, and tribute silver; and the Arabians brought him flocks, seven thousand and seven hundred rams, and seven thousand and seven hundred he goats.
 
@@ -686,7 +682,7 @@ Reading from the Isaiah 11 Ministry announcement, played on the break  *[[1:16:5
 
 - From the clip: Australia is one of the islands of the sea. You have many other islands near Australia. For example, you have the Solomon Islands. All of these are islands of the sea, places where the Israelites in the last days will be scattered. Why? Because they are suffering God's judgment, because they broke his commandments.
 
-- To the twelve tribes which are scattered abroad, greeting. So the same mission the disciples had is our mission today. Our mission is unlike any other mission throughout the world. I want everybody to understand that. Okay? There's no group on earth who has undertaken the true mission of the disciples of Christ, to resurrect and gather the twelve tribes of Israel which have been scattered abroad. You may call it the diaspora today; the Bible uses other words, the scattered. Okay? But it's the same thing. Our people who suffered during the time of colonization, forced migration, the slave trade, the transatlantic slave trade. And it seems like our people have been forgotten about. But you're not forgotten.
+- To the twelve tribes which are scattered abroad, greeting. So the same mission the disciples had is our mission today. Our mission is unlike any other mission throughout the world. I want everybody to understand that. There's no group on earth who has undertaken the true mission of the disciples of Christ, to resurrect and gather the twelve tribes of Israel which have been scattered abroad. You may call it the diaspora today; the Bible uses other words, the scattered. But it's the same thing. Our people who suffered during the time of colonization, forced migration, the slave trade, the transatlantic slave trade. And it seems like our people have been forgotten about. But you're not forgotten.
 
 - There will come a time when black people wake up and become intellectually independent enough to think for themselves, as other humans are intellectually independent enough to think for themselves. Then the black man will feel for other black people, and this new thinking and feeling will cause black people to stick together. And then at that point you'll have a situation where, when you attack one black man, you are attacking all black men.
 
@@ -706,7 +702,7 @@ Reading from the Isaiah 11 Ministry announcement, played on the break  *[[1:16:5
 
 > <sup>[14](/bible/2-chronicles/9#v14)</sup> Beside that which chapmen and merchants brought. And all the kings of Arabia and governors of the country brought gold and silver to Solomon.
 
-- So again, we were doing right by the Lord. In our righteousness these nations were giving us tribute. Okay? They were being taxed. Okay.
+- So again, we were doing right by the Lord. In our righteousness these nations were giving us tribute. They were being taxed.
 
 - *[[1:22:35](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=4955s)]* Get me real quick, go back to that book I mentioned earlier. I mentioned earlier about the Berbers. You had Semitic Berbers and Hamitic Berbers. Some of y'all say, where's the proof of that? There right here. It's about the Afro-Asian Jews. All right, black Jews. That's what it means. Afro Jews of the East. Asian. Go down to "for centuries."
 
@@ -796,9 +792,7 @@ Reading from a book on the Afro-Asian Jews, on the Jews and the Berbers  *[[1:22
 
 - Broke into our realm.
 
-- Come on.
-
-- So the Arabs and the Hamites got together and raided a Judah territory. Why are we reading this? Does this sound very, very familiar? Hamites and Arabs raiding a community of Judah. Now let's get 22 and verse 1, 2 Chronicles chapter 22. Let me make sure. Hold on. I don't want to miss nothing. Hold on. Read on, read on. Yes sir. Verse 18.
+- So the Arabs and the Hamites got together and raided a Judah territory. Why are we reading this? Does this sound very, very familiar? Hamites and Arabs raiding a community of Judah. Now let's get 22 and verse 1, 2 Chronicles chapter 22. Let me make sure. I don't want to miss nothing. Yes sir. Verse 18.
 
 > <sup>[18](/bible/2-chronicles/21#v18)</sup> And after all this the Lord smote him in his bowels with an incurable disease.
 >
@@ -822,11 +816,11 @@ Reading from a book on the Afro-Asian Jews, on the Jews and the Berbers  *[[1:22
 
 - One that survived.
 
-- So one was spared. They didn't get, so the Arabs and Hamites didn't get all of them. All right.
+- So one was spared. They didn't get, so the Arabs and Hamites didn't get all of them.
 
-- *[[1:30:25](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=5425s)]* Now, I'm messing that mic up now. Get me, what do I want? We get into it. Give me Nehemiah 2:10. Hold on, let me make sure. Write that book down. I forgotten it; I'm have to pull it now. Hold on, hold on. Nope, not yet. All right, go ahead. Nehemiah 2 and verse 10.
+- *[[1:30:25](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=5425s)]* Now, I'm messing that mic up now. Get me, what do I want? We get into it. Give me Nehemiah 2:10. Hold on, let me make sure. Write that book down. I forgotten it; I'm have to pull it now. Nope, not yet. Nehemiah 2 and verse 10.
 
-- Read again. I'm sorry, read again, please. Read that again. He read that thing like I lost my breath. Oh man.
+- Read again. I'm sorry, read again, please. He read that thing like I lost my breath. Oh man.
 
 - **Officer:** Nehemiah 2 verse 10. That's my favorite program.
 
@@ -843,8 +837,6 @@ Reading from a book on the Afro-Asian Jews, on the Jews and the Berbers  *[[1:22
 - That Jerusalem was being rebuilt. They were upset.
 
 - Nehemiah.
-
-- Wait, wait, wait. Read on, read on, read on.
 
 > <sup>[11](/bible/nehemiah/2#v11)</sup> So I came to Jerusalem, and was there three days.
 >
@@ -866,15 +858,13 @@ Reading from a book on the Afro-Asian Jews, on the Jews and the Berbers  *[[1:22
 
 > <sup>[19](/bible/nehemiah/2#v19)</sup> But when Sanballat the Horonite, and Tobiah the servant, the Ammonite, and Geshem the Arabian, heard it, they laughed us to scorn, and despised us, and said, What is this thing that ye do? will ye rebel against the king?
 
-- Sanballat the Horonite was a Moabite. Okay. Sanballat was a Moabite.
+- Sanballat the Horonite was a Moabite. Sanballat was a Moabite.
 
 - And Tobiah the servant, the Ammonite. Ammonite.
 
 - And Geshem the Arabian. And Geshem the Arabian.
 
 > <sup>[20](/bible/nehemiah/2#v20)</sup> Then answered I them, and said unto them, The God of heaven, he will prosper us; therefore we his servants will arise and build: but ye have no portion, nor right, nor memorial, in Jerusalem.
-
-- Watch this.
 
 - So why are Arabians in the land? Damn. They don't belong there. They have no right, no portion, no memorial in Jerusalem. They do not belong in Palestine. They don't belong there. They have no right to have that land at all. They conquered it through Islamic conquest and took it over. Our forefathers said, you guys have no right to even be over here.
 
@@ -926,8 +916,6 @@ Reading from a book on the Afro-Asian Jews, on the Jews and the Berbers  *[[1:22
 
 > <sup>[18](/bible/isaiah/37#v18)</sup> Of a truth, Lord, the kings of Assyria have laid waste all the nations, and their countries,
 
-- Watch this.
-
 > <sup>[19](/bible/isaiah/37#v19)</sup> And have cast their gods into the fire: for they were no gods, but the work of men’s hands, wood and stone: therefore they have destroyed them.
 
 - They cast their gods into the fire.
@@ -938,7 +926,7 @@ Reading from a book on the Afro-Asian Jews, on the Jews and the Berbers  *[[1:22
 
 - So their gods are destroyed. Their gods were nothing. They were the work of men's hands. All the nations outside of Israel have made up gods. Their gods are not real. None of them are real.
 
-- *[[1:38:49](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=5929s)]* Check this out. What we got here? "That awkward moment when you have to save your god because it cannot save itself, and therefore cannot save you either." Damn. Damn. Jeremiah 10: neither walk. It can't walk; it must needs be borne. You carry your gods across. Y'all carry your gods around.
+- *[[1:38:49](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=5929s)]* What we got here? "That awkward moment when you have to save your god because it cannot save itself, and therefore cannot save you either." Damn. Damn. Jeremiah 10: neither walk. It can't walk; it must needs be borne. You carry your gods across. Y'all carry your gods around.
 
 - **Officer:** Hey Deacon, that's why in Isaiah he said, I will carry you even in your old age. The Lord carries us.
 
@@ -948,7 +936,7 @@ Reading from a book on the Afro-Asian Jews, on the Jews and the Berbers  *[[1:22
 
 > <sup>[1](/bible/leviticus/26#v1)</sup> Ye shall make you no idols nor graven image, neither rear you up a standing image, neither shall ye set up any image of stone in your land, to bow down unto it: for I am the Lord your God.
 
-- Hold on a second. Read it again. I'm trying to find something real fast. When you're done, just talk or something. I'm going to find something real quick.
+- I'm trying to find something real fast. When you're done, just talk or something. I'm going to find something real quick.
 
 - Hey, give me Deuteronomy 4, and start at 16. Just to show you that there's nothing they could do about the gods that they have. The Most High put in a spirit to worship those idols. Give me that.
 
@@ -964,11 +952,11 @@ Reading from a book on the Afro-Asian Jews, on the Jews and the Berbers  *[[1:22
 
 - **Officer:** Hail Mary.
 
-- **Deacon Eythan:** Oh yeah, female. Hail, oh, Virgin Mary. Read that part again. The likeness of male or female: Vishnu, Krishna.
+- **Deacon Eythan:** Oh yeah, female. Hail, oh, Virgin Mary. The likeness of male or female: Vishnu, Krishna.
 
 > <sup>[17](/bible/deuteronomy/4#v17)</sup> The likeness of any beast that is on the earth, the likeness of any winged fowl that flieth in the air,
 
-- Like the, who is it? I think it was Persia. Persia, they had the wing, right? Manny, I sent it to you. Read on.
+- Like the, who is it? I think it was Persia. Persia, they had the wing, right? Manny, I sent it to you.
 
 > <sup>[18](/bible/deuteronomy/4#v18)</sup> The likeness of any thing that creepeth on the ground, the likeness of any fish that is in the waters beneath the earth:
 
@@ -978,7 +966,7 @@ Reading from a book on the Afro-Asian Jews, on the Jews and the Berbers  *[[1:22
 
 - Should we be driven to worship them, and serve them? The Israelites.
 
-- Read that part again: which the Lord thy God hath divided unto all nations under the whole heaven. So showing you there's nothing they could do about it. They have to worship idols, because they don't have a God. The Most High divided unto all the nations idols. All right. Read 26:1 again, one more time, so there's no confusion.
+- Read that part again: which the Lord thy God hath divided unto all nations under the whole heaven. So showing you there's nothing they could do about it. They have to worship idols, because they don't have a God. The Most High divided unto all the nations idols. Read 26:1 again, one more time, so there's no confusion.
 
 - Because when it comes to Islam, they say that the prophets are Muslims. Okay, no problem. The prophets of the Bible somehow became Muslims, even though the Bible predates Islam hundreds of years, thousands of years. Somehow all the prophets are Muslims. No problem. Read that, please. Leviticus 26 and verse 1.
 
@@ -994,7 +982,7 @@ Reading from a book on the Afro-Asian Jews, on the Jews and the Berbers  *[[1:22
 
 - Because I am your God. This has been going on long before the Quran.
 
-- *[[1:42:51](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=6171s)]* Now give me that I sent you, Britannica, real fast. Britannica. It's about to start. It's going to get real bad from here. Let's get it.
+- *[[1:42:51](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=6171s)]* Now give me that I sent you, Britannica, real fast. Britannica. It's about to start. It's going to get real bad from here.
 
 <div class="reading">
 
@@ -1002,11 +990,11 @@ Reading from *Britannica*, "Black Stone of Mecca", with the definitions of vener
 
 > Black Stone of Mecca. Muslim object of veneration.
 
-- Muslim object of veneration. Look up veneration, please. Definition. Can't pass that word. Muslim object of veneration. What do veneration mean? Read that.
+- Muslim object of veneration. Look up veneration, please. Definition. Can't pass that word. Muslim object of veneration. What do veneration mean?
 
 > Veneration, or veneration of saints, is the act of honoring a saint, a person who has been identified as having a high degree of sanctity or holiness. Angels are shown similar veneration in many religions.
 
-- Definition, please. That's not enough. I need, well, get venerate. Take out i-o-n, put e. Venerate. There we go. Go down.
+- Definition, please. That's not enough. I need, well, get venerate. Take out i-o-n, put e. Venerate. There we go.
 
 > Venerate: regard with great respect; revere. Synonyms: revere, reverence, respect, worship, adulate, hallow, deify, idolize,
 
@@ -1014,15 +1002,13 @@ Reading from *Britannica*, "Black Stone of Mecca", with the definitions of vener
 
 > hold sacred, exalt, honor, esteem, look up to, think highly of, pay homage to, pay tribute to, adore, praise, extol, lionize, hold in awe, stand in awe of, marvel at, value, put on a pedestal, magnify; revered, respected, esteemed, honored, holy.
 
-- Venerate means to worship. Go back to the definition. Go back to the word again. Britannica again. Read it again. Now we know what the word means. Black Stone of Mecca, Muslim object of veneration: we're going to take out the word venerate and put worship there. Black Stone, Muslim object of worship.
+- Venerate means to worship. Go back to the definition. Go back to the word again. Britannica again. Now we know what the word means. Black Stone of Mecca, Muslim object of veneration: we're going to take out the word venerate and put worship there. Black Stone, Muslim object of worship.
 
 > built into the eastern wall of the Kaaba, small shrine within the Great Mosque of Mecca,
 
-- Come on.
-
 > and probably dating from the pre-Islamic religion of the Arabs.
 
-- That stone predates the Islamic religion. It predates it. I'm going to show you where it was before Islam came about, what it was. It was an idol. I'm going to show you. Read on.
+- That stone predates the Islamic religion. It predates it. I'm going to show you where it was before Islam came about, what it was. It was an idol. I'm going to show you.
 
 > It now consists of three large pieces and some fragments surrounded by a stone ring and held together with a silver band. According to popular Islamic legend,
 
@@ -1034,7 +1020,7 @@ Reading from *Britannica*, "Black Stone of Mecca", with the definitions of vener
 
 > and was originally white but has become black by absorbing the sins of the thousands of pilgrims
 
-- Whoa, whoa, whoa, whoa. So the stone was white when he gave it to Adam, and when man got a hold of it and started kissing it and humping on it, all their sins were absorbed into the rock and it became black. Read again, please. I'm joking about the humping part. But still funny. Read it again.
+- Whoa, whoa, whoa, whoa. So the stone was white when he gave it to Adam, and when man got a hold of it and started kissing it and humping on it, all their sins were absorbed into the rock and it became black. Read again, please. I'm joking about the humping part. But still funny.
 
 > The stone was given to Adam on his fall from paradise, and was originally white, but has become black by absorbing the sins of the thousands of pilgrims who have kissed and touched it.
 
@@ -1042,15 +1028,15 @@ Reading from *Britannica*, "Black Stone of Mecca", with the definitions of vener
 
 - **Officer:** Oh, not now. Not now.
 
-- **Deacon Eythan:** Hey yo. Hey yo. Humpster wall. Humpster stone wall. And these guys kissing and licking it. Anyway. The point is, y'all, man. Nations is something else, man. Anyway, the point is that this stone basically cleans you of your sins. So y'all get mad at Christians and go, how a man die for your sins? But a stone absolves you of yours. You mock Christians for saying a man died for your sins, then turn around and say a rock basically cleanses you of yours. What? Both of them sound ridiculous. A man sounds more practical; that makes more sense. But a stone cleanses your sins? Read on.
+- **Deacon Eythan:** Hey yo. Hey yo. Humpster wall. Humpster stone wall. And these guys kissing and licking it. Anyway. The point is, y'all, man. Nations is something else, man. Anyway, the point is that this stone basically cleans you of your sins. So y'all get mad at Christians and go, how a man die for your sins? But a stone absolves you of yours. You mock Christians for saying a man died for your sins, then turn around and say a rock basically cleanses you of yours. What? Both of them sound ridiculous. A man sounds more practical; that makes more sense. But a stone cleanses your sins?
 
 > In 930 it was carried away by fanatics and held for ransom about 20 years.
 
-- Y'all believe this stuff? Y'all purely believe this? Okay.
+- Y'all believe this stuff? Y'all purely believe this?
 
 - *[[1:47:17](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=6437s)]* Now get me Baruch 3:16. Now understand, I'm not attacking my people who subscribe to this. What I'm doing is, I'm trying to bring an awareness to the fact that this religion was created by nations outside of us. We don't belong in this religion. If the Ishmaelites want to honor and reverence the stone, and honor Muhammad as their prophet, and kiss a stone and love it and rub it, whatever, let them do that. I'm trying to pull my people out of that. And I'm going to show you, as we go on through the lesson, I'm going to show you why that religion has nothing to do with you. Baruch chapter 3 and 16.
 
-- Where? Oh, come on, man. Come on, come on, man. Come on, man. Congratulations, …. Baruch 3:16.
+- Where? Congratulations, …. Baruch 3:16.
 
 </div>
 
@@ -1058,7 +1044,7 @@ Reading from *Britannica*, "Black Stone of Mecca", with the definitions of vener
 
 > <sup>[16](/bible/baruch/3#v16)</sup> Where are the princes of the heathen become, and such as ruled the beasts upon the earth;
 
-- Context is: where are the heathen become? Read on. Verse 17.
+- Context is: where are the heathen become? Verse 17.
 
 > <sup>[17](/bible/baruch/3#v17)</sup> They that had their pastime with the fowls of the air, and they that hoarded up silver and gold, wherein men trust, and made no end of their getting?
 
@@ -1076,13 +1062,11 @@ Reading from *Britannica*, "Black Stone of Mecca", with the definitions of vener
 
 - Young men of heathens have seen light.
 
-- So heathens gather up wealth and power, but the way of knowledge they have not known. Watch this.
+- So heathens gather up wealth and power, but the way of knowledge they have not known.
 
 > <sup>[21](/bible/baruch/3#v21)</sup> Nor understood the paths thereof, nor laid hold of it: their children were far off from that way.
 
-- Watch this.
-
-- The nations, or their children, their descendants, were far off from the way of knowledge. This Bible. Watch this.
+- The nations, or their children, their descendants, were far off from the way of knowledge. This Bible.
 
 > <sup>[22](/bible/baruch/3#v22)</sup> It hath not been heard of in Chanaan, neither hath it been seen in Theman.
 
@@ -1096,7 +1080,7 @@ Reading from *Britannica*, "Black Stone of Mecca", with the definitions of vener
 
 - **Officer:** And …, that reading … is hard, son. No, I mean like, it's hard. Like, I mean, like, yo, it's hard. Yo, you know I mean, like the books, like, yo.
 
-- **Deacon Eythan:** All right. Congratulations, Negro. Congratulations.
+- **Deacon Eythan:** Congratulations, Negro. Congratulations.
 
 - **Officer:** Congratulate me for reading.
 
@@ -1108,13 +1092,13 @@ Reading from a search result, "Hagarene"  *[[1:50:42](https://www.youtube.com/wa
 
 > Hagarene: the name used interchangeably with Ishmaelites,
 
-- There you go. The Hagarenes are Hagar. You had Abraham and Hagar. Hagar married Abraham, and these Arabs, or Ishmaelites, named themselves after their mother, Hagar. Hagar. Agarene. Read again.
+- The Hagarenes are Hagar. You had Abraham and Hagar. Hagar married Abraham, and these Arabs, or Ishmaelites, named themselves after their mother, Hagar. Hagar. Agarene. Read again.
 
 > the name used interchangeably with Ishmaelites, came also to mean any Muslim.
 
 - Damn.
 
-- **Officer:** So, damn, son. Wow. I didn't know that was even there. Where did you find that?
+- **Officer:** So, damn, son. I didn't know that was even there. Where did you find that?
 
 > An example of its current usage is a name used for Bulgarian Muslims in colloquial Bulgarian.
 
@@ -1132,9 +1116,9 @@ Reading from a search result, "Hagarene"  *[[1:50:42](https://www.youtube.com/wa
 
 - And of Theman. Teman will be your Edomite, or Edomite Arabs, over there in Turkey.
 
-- The authors of fables. What are the Agarenes, what are the Midianites, what are the Temanites? The authors of fables. Like a legend, the legend of Adam being cast out of heaven, being given a white stone; you kiss it and it absorbs your sins. That's a fable. Where's the evidence of this, that Adam was released out of paradise and given a white rock? Where is the evidence of this? I want to see it. Where is it? It's BS. It's garbage. Bring it out, Deacon. So you black folks don't want to follow this religion, man. I am dumbfounded by this, man. I'm dumbfounded by it. All right. Whoa. Anyway, read verse 23.
+- The authors of fables. What are the Agarenes, what are the Midianites, what are the Temanites? The authors of fables. Like a legend, the legend of Adam being cast out of heaven, being given a white stone; you kiss it and it absorbs your sins. That's a fable. Where's the evidence of this, that Adam was released out of paradise and given a white rock? Where is the evidence of this? I want to see it. Where is it? It's BS. It's garbage. Bring it out, Deacon. So you black folks don't want to follow this religion, man. I am dumbfounded by this, man. I'm dumbfounded by it. Whoa. Anyway, read verse 23.
 
-- The Agarenes, the merchants of Meran, Midian, and of Theman, Edom: the authors of fables. The Agarenes, Teman and Midian are authors of fables. Make things up. They make their gods up. Read on.
+- The Agarenes, the merchants of Meran, Midian, and of Theman, Edom: the authors of fables. The Agarenes, Teman and Midian are authors of fables. Make things up. They make their gods up.
 
 - And they search, they seek understanding. Remember, I'll get to that later on, but they sought wisdom of who their ancestors were, and the Jews gave it to them: your forefather Ishmael. And they were happy to hear it. I'm going to get to that later on, Lord's will, in time.
 
@@ -1158,7 +1142,7 @@ Reading from a search result, "Hagarene"  *[[1:50:42](https://www.youtube.com/wa
 
 > <sup>[18](/bible/2-corinthians/6#v18)</sup> And will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty.
 
-- I will be a father unto you. Do y'all know that they say that Jesus and all the prophets were Muslim, but they're not allowed to call Allah their father? They believe that Allah is the master and they're the servants. If you ask them, do you call Allah your father? They'll say no, he's my master. But the prophets called the heavenly Father, or God, who you say Allah, they call Father all throughout the Bible. Christ said Father numerous times. But he's a Muslim? But if the prophets are Muslims, why they refer to Allah, as y'all would say, as Father? But y'all say we can't call him Father. Because they weren't Muslims. Yeah, that stuff came later on. Read on.
+- I will be a father unto you. Do y'all know that they say that Jesus and all the prophets were Muslim, but they're not allowed to call Allah their father? They believe that Allah is the master and they're the servants. If you ask them, do you call Allah your father? They'll say no, he's my master. But the prophets called the heavenly Father, or God, who you say Allah, they call Father all throughout the Bible. Christ said Father numerous times. But he's a Muslim? But if the prophets are Muslims, why they refer to Allah, as y'all would say, as Father? But y'all say we can't call him Father. Because they weren't Muslims. Yeah, that stuff came later on.
 
 - The Lord Almighty.
 
@@ -1174,15 +1158,15 @@ Reading from a search result, "Hagarene"  *[[1:50:42](https://www.youtube.com/wa
 
 - Against your people.
 
-- Because of their counsel we became hidden. Our identity was hidden from us. Read on.
+- Because of their counsel we became hidden. Our identity was hidden from us.
 
 > <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
 
 - These nations said, come, let us cut them off from being a nation. The Arabs call us Ahl al-Kitab. That means the people of the scriptures, or people of the book. Ahl, people. Al-Kitab, the pages, or the book. They call us that. They know we Israelites.
 
-- If you, I challenge y'all who watching right now: you come across a so-called Arab or Turk, ask them, according to the Quran, who is your forefather? Is it Ishmael? They're going to say, yes, yes, yes, yes, yes, brother, yes, yes, yes. They'll be excited to talk about that. Oh, all praises, all praises. As-salamu alaykum. All praises, all praises. Let me ask you another question. Sure, sure. If Ishmael is the forefather of you, who is the forefather of me? In the Quran, who's my forefather? They going to give you two answers: we're all children of God, we're all children of Abraham. Or, it doesn't matter. Those are the three. They going to give you those three. I guarantee you. Put money on it. I guarantee you it's going to be those three answers. Doesn't matter, children of Abraham, or children of God. They might give you Isaac. They will not say Jacob. Why? Read verse 4 again.
+- If you, I challenge y'all who watching right now: you come across a so-called Arab or Turk, ask them, according to the Quran, who is your forefather? Is it Ishmael? They're going to say, yes, yes, yes, yes, yes, brother, yes, yes, yes. They'll be excited to talk about that. As-salamu alaykum. Let me ask you another question. Sure, sure. If Ishmael is the forefather of you, who is the forefather of me? In the Quran, who's my forefather? They going to give you two answers: we're all children of God, we're all children of Abraham. Or, it doesn't matter. Those are the three. They going to give you those three. I guarantee you. Put money on it. I guarantee you it's going to be those three answers. Doesn't matter, children of Abraham, or children of God. They might give you Isaac. They will not say Jacob. Why? Read verse 4 again.
 
-- Why? That the name of Israel may be no more in remembrance. That's why the anthropologist had a hard time saying where these guys come from. We know historically the Jews are black. Where these guys come from? Because our identity is no longer in remembrance in the world. Most of the world don't know who we are, including us. Read on.
+- Why? That the name of Israel may be no more in remembrance. That's why the anthropologist had a hard time saying where these guys come from. We know historically the Jews are black. Where these guys come from? Because our identity is no longer in remembrance in the world. Most of the world don't know who we are, including us.
 
 > <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
 
@@ -1208,15 +1192,11 @@ Reading from Wikipedia, "Hagrites"  *[[2:00:26](https://www.youtube.com/watch?v=
 
 > the inhabitants of the region lying east of Gilead.
 
-- Come on.
-
 > Their name is understood to be related to that of the biblical Hagar.
-
-- Right.
 
 > They lived a nomadic animal-herding lifestyle in sparsely populated land east of the Israelites.
 
-- Right. So that's Ishmael. Now get me Jeremiah 2. Wait, it says stop. Stop by the events. Keep going, keep going, keep going. Stop by the events. I don't know why, but let's keep going. Wait, where's the events at? Find the events, so I know where we stop at. Okay. Yeah, stop. Go back up. Read from the start there. Yep, this is good. Read the whole thing.
+- So that's Ishmael. Now get me Jeremiah 2. Wait, it says stop. Stop by the events. Stop by the events. I don't know why, but let's keep going. Wait, where's the events at? Find the events, so I know where we stop at. Yeah, stop. Go back up. Read from the start there. Yep, this is good. Read the whole thing.
 
 > According to 1 Chronicles 5:18 to 22, the Reubenites, Gadites and the half of the tribe of Manasseh in Gilead brought 44,760 to battle with the Hagrites and defeated them.
 
@@ -1224,11 +1204,9 @@ Reading from Wikipedia, "Hagrites"  *[[2:00:26](https://www.youtube.com/watch?v=
 
 > Through the battle the Reubenites captured the Hagrite land, as well as 50,000 camels, 250,000 sheep, 2,000 donkeys. Finally the Reubenites captured 100,000 Hagrites, men, women and children, and held them as captives. According to Theodore, these numbers are enormously exaggerated.
 
-- No, they not. Read on.
+- No, they not.
 
 > King David of Israel made Jaziz the Hagrite steward of his flocks. But the Hagrites are not mentioned in the historical books as a distinct people after the reign of King David.
-
-- Watch this.
 
 > In Psalm 83:6 the Hagrites are included in a list of ten peoples
 
@@ -1236,11 +1214,11 @@ Reading from Wikipedia, "Hagrites"  *[[2:00:26](https://www.youtube.com/watch?v=
 
 > that form a coalition
 
-- That form a coalition to do what? To attack Israel. Watch this.
+- That form a coalition to do what? To attack Israel.
 
 > for the purpose of wiping it off the map,
 
-- For the purpose of wiping it out of existence. Watch this.
+- For the purpose of wiping it out of existence.
 
 > Because the war described in Psalm 83
 
@@ -1248,7 +1226,7 @@ Reading from Wikipedia, "Hagrites"  *[[2:00:26](https://www.youtube.com/watch?v=
 
 > has not yet occurred historically, but it is often designated as a prophetic psalm describing future events.
 
-- Damn. That's prophecy. Psalms 83 is all prophecy. Right? Didn't happen during David's time. Didn't happen during Solomon's time. Happened later, when we were conquered. They conspired later. And we are the walking end result. You stupid Negro, saying we're victims. That's the end result there. We are the end result of that coalition, that Injustice League of Nations. We still crazy now.
+- Damn. That's prophecy. Psalms 83 is all prophecy. Didn't happen during David's time. Didn't happen during Solomon's time. Happened later, when we were conquered. They conspired later. And we are the walking end result. You stupid Negro, saying we're victims. That's the end result there. We are the end result of that coalition, that Injustice League of Nations. We still crazy now.
 
 - Now get me Jeremiah 2:27. Jeremiah 2:27. Fables, following fables.
 
@@ -1268,7 +1246,7 @@ Reading from Wikipedia, "Hagrites"  *[[2:00:26](https://www.youtube.com/watch?v=
 
 - Always messed around with the other nations, in their idolatry, or them physically.
 
-- Sat to learn. As the Arabian in the wilderness. We sat and learned from the Arabian in the wilderness. Read on.
+- Sat to learn. As the Arabian in the wilderness. We sat and learned from the Arabian in the wilderness.
 
 - Come to verse 9.
 
@@ -1278,7 +1256,7 @@ Reading from Wikipedia, "Hagrites"  *[[2:00:26](https://www.youtube.com/watch?v=
 
 - And I dare any Muslim to come out, call the show. Give the number again. The number, put it up, that they're watching. I challenge you to call the show, and to prove me wrong, that that stone was not an idol before Muhammad made it. Prove to me, when you call, that that stone was not an idol before it was eventually allowed by Muhammad to be honored.
 
-- *[[2:05:43](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=7543s)]* Now get me, where we at, time we got? All right, a little bit more time. I'm trying to stop. I'll stop, 10 more minutes. Give me 19:35. Watch this. Stone. Venerating a stone is not new. It's not new at all. Acts 19:33.
+- *[[2:05:43](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=7543s)]* Now get me, where we at, time we got? All right, a little bit more time. I'm trying to stop. I'll stop, 10 more minutes. Give me 19:35. Stone. Venerating a stone is not new. It's not new at all. Acts 19:33.
 
 **[Acts 19:33-36](/bible/acts/19#v33)**  *[[2:06:01](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=7561s)]*
 
@@ -1292,17 +1270,17 @@ Reading from Wikipedia, "Hagrites"  *[[2:00:26](https://www.youtube.com/watch?v=
 
 - He calmed them down.
 
-- Now you see this image here? It's Ashtoreth. It's Ishtar. Well, her name is also, in the Greek, Diana. Diana is the same Diana in *Justice League*; you call her Wonder Woman today. Right? And your Flash is Hermes, and your Batman is Hades, and your Superman is Zeus. And I think Cyborg is, some kind of god. But these are all gods. Queen of heaven. Queen of heaven: Diana, Gaia, Mother Earth, Mother Nature. That's her there. Isis, that's her there. Easter, that's her. All right, read on. She's stone here. Now read on. Or, that's not stone. That's some kind of, what is that? What textures? What is that material she's made of? Ivory?
+- Now you see this image here? It's Ashtoreth. It's Ishtar. Well, her name is also, in the Greek, Diana. Diana is the same Diana in *Justice League*; you call her Wonder Woman today. And your Flash is Hermes, and your Batman is Hades, and your Superman is Zeus. And I think Cyborg is, some kind of god. But these are all gods. Queen of heaven. Queen of heaven: Diana, Gaia, Mother Earth, Mother Nature. That's her there. Isis, that's her there. Easter, that's her. She's stone here. Now read on. Or, that's not stone. That's some kind of, what is that? What textures? What is that material she's made of? Ivory?
 
 - **Officer:** Marble.
 
 - **Deacon Eythan:** Yeah, marble. I said marble.
 
-- And of the image which fell down from Jupiter. Wait, wait, wait. Who? Her image fell down from where? From Jupiter. Her image fell from space. Because most say that that rock over there in Mecca is a meteorite. She fell from heaven. Read on.
+- And of the image which fell down from Jupiter. Who? Her image fell down from where? From Jupiter. Her image fell from space. Because most say that that rock over there in Mecca is a meteorite. She fell from heaven.
 
 > <sup>[36](/bible/acts/19#v36)</sup> Seeing then that these things cannot be spoken against, ye ought to be quiet, and to do nothing rashly.
 
-- So the deifying of stones and things falling from the sky, it's nothing new. There's another god, I think it's called, the name of the god is Cybele. C-Y-B-E-L-E, I think. The god Cybele. She also a rock. Another rock god that fell from the sky, that they reverenced back then as well. Try that one. C-Y-B-E-L-E, real quick. I'm just shooting from the hip right here. This is all just, you know, off top. Let me see it. Cybele. You click Cybele, Wikipedia. Let me see it. Go down. Mother. Mountain mother. National deity. Phrygia. Go down. Phrygian cult. Go down. Greece. Go down. Rome. Hold on. Go down. Anatolia. Go down. Type in stone. Let me see if it mentions what she's, she's stone or rock or something. Try to find in the page stone or rock. Try rock. Yeah, rock or stone, goddess, whatever. Let's see. Go up, go up. There we go. Yeah, click that. Find that in there. Dang. I know I wasn't bugging out. I knew it was Cybele. Click that and go to that part where it says that. There we go. Read that, please.
+- So the deifying of stones and things falling from the sky, it's nothing new. There's another god, I think it's called, the name of the god is Cybele. C-Y-B-E-L-E, I think. The god Cybele. She also a rock. Another rock god that fell from the sky, that they reverenced back then as well. Try that one. C-Y-B-E-L-E, real quick. I'm just shooting from the hip right here. This is all just, you know, off top. Let me see it. Cybele. You click Cybele, Wikipedia. Let me see it. Mother. Mountain mother. National deity. Phrygia. Phrygian cult. Greece. Rome. Anatolia. Type in stone. Let me see if it mentions what she's, she's stone or rock or something. Try to find in the page stone or rock. Try rock. Yeah, rock or stone, goddess, whatever. Let's see. There we go. Yeah, click that. Find that in there. Dang. I know I wasn't bugging out. I knew it was Cybele. Click that and go to that part where it says that. There we go. Read that, please.
 
 <div class="reading">
 
@@ -1328,7 +1306,7 @@ Reading from Wikipedia, "Cybele"  *[[2:09:40](https://www.youtube.com/watch?v=JS
 
 - **Officer:** I was saying.
 
-- **Deacon Eythan:** I know I wasn't bugging out. I said Cybele, man. All praise. Oh gosh. Get me *Foundations of Islam*. How much time I have? 3:30. Ah. Number four. I'll let it ride. I'll let it ride. Chill. I'll chill, I'll chill, I'll chill, I'll chill. I'm going to go there, I'm going to go in next time. Next time we're going to go into the *Foundations of Islam*. We're going to get some more information about this religion, the doctrine that holds. Do I want to pull it? Do I want to use it? Save it. Yeah, save it, save it, save it, save it. All right. All right. Let them marinate.
+- **Deacon Eythan:** I know I wasn't bugging out. I said Cybele, man. Oh gosh. Get me *Foundations of Islam*. How much time I have? 3:30. Ah. Number four. I'll let it ride. I'll let it ride. Chill. I'll chill, I'll chill, I'll chill, I'll chill. I'm going to go there, I'm going to go in next time. Next time we're going to go into the *Foundations of Islam*. We're going to get some more information about this religion, the doctrine that holds. Do I want to pull it? Do I want to use it? Save it. Yeah, save it, save it, save it, save it. Let them marinate.
 
 </div>
 
@@ -1336,7 +1314,7 @@ Reading from Wikipedia, "Cybele"  *[[2:09:40](https://www.youtube.com/watch?v=JS
 
 *[[2:11:02](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=7862s)]* So hope you guys enjoyed the lesson. If you got friends and family who are in Islam, I would encourage you to have them watch this. Have them watch the show, if they believe in the Bible, as most Muslims claim to profess to accept the Bible to a degree. So have them follow along. If they have questions, they can call in or text in. I have no problem with that, as long as it's in reference to the show's topic, which will be the Islamic slave trade, Islam. All right, so hope you guys enjoyed the show, and shalom. Fall back.
 
-**Officer:** Shalom. Hey, Israel, let's give a hand for the Deacon. All praise the Most High. Great, great class.
+**Officer:** Shalom. Hey, Israel, let's give a hand for the Deacon. Great, great class.
 
 *[[2:16:04](https://www.youtube.com/watch?v=JSRX-pGCSvo&t=8164s)]* So hope you guys enjoyed the show. We're going to go in next week, Lord's will, Lord's will. We're going to go in on this doctrine, this fable. We got to do it, to pull our people out of these strongholds, out of these doctrines, to the best of our ability. So with that, y'all stay tuned. Hang on. It's going to be a crazy ride next week. So with that we say shalom. Most High Christ bless. Thanks for watching the show.
 

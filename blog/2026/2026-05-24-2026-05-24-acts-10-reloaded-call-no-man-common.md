@@ -2,7 +2,7 @@
 title: "Acts 10 Reloaded: Call No Man Common"
 slug: "2026/2026-05-24-acts-10-reloaded-call-no-man-common"
 date: "2026-05-24"
-teacher: ""
+teacher: "Bishop Kani"
 description: "IUIC in the ClassRoom · 2026-05-24"
 tags: ["IUIC in the ClassRoom", "nations", "passover-feasts", "the-americas", "the-body", "the-word"]
 ---
@@ -217,15 +217,15 @@ Bishop set up the lesson: I was going through Acts 10 recently and there is some
 **[John 4:20-23](/bible/john/4#v20)**  *[[43:55](https://www.youtube.com/watch?v=QjcvHQtrDrw&t=2635s)]*
 
 > <sup>[20](/bible/john/4#v20)</sup> Our fathers worshipped in this mountain; and ye say, that in Jerusalem is the place where men ought to worship.
->
+
+- Our fathers worshipped in this mountain: the mountains of Samaria, Mount Gerizim and Mount Ebal on the map. And ye say that in Jerusalem is the place where men ought to worship.
+
+- Woman, believe me, the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father. He was telling her there is a time coming, which was 70 AD, when Jerusalem would be toppled by the Romans; neither place would matter, because he was destroying it. It was him explaining that his purpose was to gather in one the twelve tribes of Israel.
+
 > <sup>[21](/bible/john/4#v21)</sup> Jesus saith unto her, Woman, believe me, the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father.
 >
 > <sup>[22](/bible/john/4#v22)</sup> Ye worship ye know not what: we know what we worship: for salvation is of the Jews.
->
-> <sup>[23](/bible/john/4#v23)</sup> But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him.
 
-- Our fathers worshipped in this mountain: the mountains of Samaria, Mount Gerizim and Mount Ebal on the map. And ye say that in Jerusalem is the place where men ought to worship.
-- Woman, believe me, the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father. He was telling her there is a time coming, which was 70 AD, when Jerusalem would be toppled by the Romans; neither place would matter, because he was destroying it. It was him explaining that his purpose was to gather in one the twelve tribes of Israel.
 - Ye worship ye know not what: we know what we worship: for salvation is of the Jews. When he says Jews, he is talking about all Israel. We know what God's will is for us, for his people, and for the nations, and our job is to teach those things, and in teaching them, to gather in one the twelve tribes of Israel.
 
   Precepts:
@@ -245,7 +245,11 @@ Bishop set up the lesson: I was going through Acts 10 recently and there is some
 
     Then Joshua built an altar unto the Lord God of Israel in mount Ebal. That is why she said our fathers worshipped in this mountain: when we first came into the land, the first place we came into would have been called Samaria, and the first altars were set up in Mount Ebal and Mount Gerizim. When the nation split, the northern kingdom went back up top and worshipped there; but God called his home Jerusalem, where he set up his temple. Notice also: as well the stranger, as he that was born among them; half against mount Gerizim and half against mount Ebal; and the strangers were conversant in the laws of God. When we came into the land we had a mixed multitude among us, and they had to learn the laws; we taught them how to keep the Sabbath day: neither thy manservant, nor thy maidservant, nor the stranger that is within thy gates.
 
+> <sup>[23](/bible/john/4#v23)</sup> But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him.
+
 **[Acts 11:1-19](/bible/acts/11#v1)**  *[[51:02](https://www.youtube.com/watch?v=QjcvHQtrDrw&t=3062s)]*
+
+- The apostles and brethren in Judea heard that the Gentiles, which were the Israelites that were scattered, had also received the word of God. When Peter came up to Jerusalem, they of the circumcision, the Jews of Judah, Benjamin, and Levi, contended with him: thou wentest in to men uncircumcised, and didst eat with them. You went and dealt with the heathen Gentiles, Israelites that were cut off. Peter, do you not remember Hosea 1? These are no longer God's people.
 
 > <sup>[1](/bible/acts/11#v1)</sup> And the apostles and brethren that were in Judea heard that the Gentiles had also received the word of God.
 >
@@ -254,7 +258,13 @@ Bishop set up the lesson: I was going through Acts 10 recently and there is some
 > <sup>[3](/bible/acts/11#v3)</sup> Saying, Thou wentest in to men uncircumcised, and didst eat with them.
 >
 > <sup>[4](/bible/acts/11#v4)</sup> But Peter rehearsed the matter from the beginning, and expounded it by order unto them, saying,
->
+
+- But Peter rehearsed the matter from the beginning and expounded it by order unto them: the vision of the great sheet let down from heaven by four corners, the voice saying arise, Peter, slay and eat, and the answer, what God hath cleansed, that call not thou common.
+
+- When they heard these things, they held their peace, and glorified God, saying, Then hath God also to the Gentiles granted repentance unto life. What would Peter have had to tell them to make them hold their peace? A brother answered: he would have had to expound what was written in Ezekiel 37 and Isaiah 11, that the northern kingdom would be grafted back in. He had to use scripture to explain the vision, to show this is not something I am coming up with; this is based on scripture. The vision was an allegory of the message God was sharing: the time is at hand to wake them up; it is time for them to come in.
+
+- Verse 19 shows that those scattered abroad upon the persecution that arose about Stephen traveled as far as Phenice, Cyprus, and Antioch, preaching the word. Some people would not accept this and persecuted the believers, and the people scattered further out and took this gospel with them.
+
 > <sup>[5](/bible/acts/11#v5)</sup> I was in the city of Joppa praying: and in a trance I saw a vision, A certain vessel descend, as it had been a great sheet, let down from heaven by four corners; and it came even to me:
 >
 > <sup>[6](/bible/acts/11#v6)</sup> Upon the which when I had fastened mine eyes, I considered, and saw fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air.
@@ -284,11 +294,6 @@ Bishop set up the lesson: I was going through Acts 10 recently and there is some
 > <sup>[18](/bible/acts/11#v18)</sup> When they heard these things, they held their peace, and glorified God, saying, Then hath God also to the Gentiles granted repentance unto life.
 >
 > <sup>[19](/bible/acts/11#v19)</sup> Now they which were scattered abroad upon the persecution that arose about Stephen travelled as far as Phenice, and Cyprus, and Antioch, preaching the word to none but unto the Jews only.
-
-- The apostles and brethren in Judea heard that the Gentiles, which were the Israelites that were scattered, had also received the word of God. When Peter came up to Jerusalem, they of the circumcision, the Jews of Judah, Benjamin, and Levi, contended with him: thou wentest in to men uncircumcised, and didst eat with them. You went and dealt with the heathen Gentiles, Israelites that were cut off. Peter, do you not remember Hosea 1? These are no longer God's people.
-- But Peter rehearsed the matter from the beginning and expounded it by order unto them: the vision of the great sheet let down from heaven by four corners, the voice saying arise, Peter, slay and eat, and the answer, what God hath cleansed, that call not thou common.
-- When they heard these things, they held their peace, and glorified God, saying, Then hath God also to the Gentiles granted repentance unto life. What would Peter have had to tell them to make them hold their peace? A brother answered: he would have had to expound what was written in Ezekiel 37 and Isaiah 11, that the northern kingdom would be grafted back in. He had to use scripture to explain the vision, to show this is not something I am coming up with; this is based on scripture. The vision was an allegory of the message God was sharing: the time is at hand to wake them up; it is time for them to come in.
-- Verse 19 shows that those scattered abroad upon the persecution that arose about Stephen traveled as far as Phenice, Cyprus, and Antioch, preaching the word. Some people would not accept this and persecuted the believers, and the people scattered further out and took this gospel with them.
 
 **[Acts 10:1-8](/bible/acts/10#v1)**  *[[57:03](https://www.youtube.com/watch?v=QjcvHQtrDrw&t=3423s)]*
 
@@ -544,6 +549,8 @@ Bishop set up the lesson: I was going through Acts 10 recently and there is some
 
 **[Acts 2:1-17](/bible/acts/2#v1)**  *[[1:42:26](https://www.youtube.com/watch?v=QjcvHQtrDrw&t=6146s)]*
 
+- When the day of Pentecost was fully come, they were all with one accord in one place. Suddenly there came a sound from heaven as of a rushing mighty wind, and they were all filled with the Holy Ghost, and began to speak with other tongues, other languages.
+
 > <sup>[1](/bible/acts/2#v1)</sup> And when the day of Pentecost was fully come, they were all with one accord in one place.
 >
 > <sup>[2](/bible/acts/2#v2)</sup> And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting.
@@ -553,34 +560,11 @@ Bishop set up the lesson: I was going through Acts 10 recently and there is some
 > <sup>[4](/bible/acts/2#v4)</sup> And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance.
 >
 > <sup>[5](/bible/acts/2#v5)</sup> And there were dwelling at Jerusalem Jews, devout men, out of every nation under heaven.
->
-> <sup>[6](/bible/acts/2#v6)</sup> Now when this was noised abroad, the multitude came together, and were confounded, because that every man heard them speak in his own language.
->
-> <sup>[7](/bible/acts/2#v7)</sup> And they were all amazed and marvelled, saying one to another, Behold, are not all these which speak Galileans?
->
-> <sup>[8](/bible/acts/2#v8)</sup> And how hear we every man in our own tongue, wherein we were born?
->
-> <sup>[9](/bible/acts/2#v9)</sup> Parthians, and Medes, and Elamites, and the dwellers in Mesopotamia, and in Judea, and Cappadocia, in Pontus, and Asia,
->
-> <sup>[10](/bible/acts/2#v10)</sup> Phrygia, and Pamphylia, in Egypt, and in the parts of Libya about Cyrene, and strangers of Rome, Jews and proselytes,
->
-> <sup>[11](/bible/acts/2#v11)</sup> Cretes and Arabians, we do hear them speak in our tongues the wonderful works of God.
->
-> <sup>[12](/bible/acts/2#v12)</sup> And they were all amazed, and were in doubt, saying one to another, What meaneth this?
->
-> <sup>[13](/bible/acts/2#v13)</sup> Others mocking said, These men are full of new wine.
->
-> <sup>[14](/bible/acts/2#v14)</sup> But Peter, standing up with the eleven, lifted up his voice, and said unto them, Ye men of Judea, and all ye that dwell at Jerusalem, be this known unto you, and hearken to my words:
->
-> <sup>[15](/bible/acts/2#v15)</sup> For these are not drunken, as ye suppose, seeing it is but the third hour of the day.
->
-> <sup>[16](/bible/acts/2#v16)</sup> But this is that which was spoken by the prophet Joel;
->
-> <sup>[17](/bible/acts/2#v17)</sup> And it shall come to pass in the last days, saith God, I will pour out of my Spirit upon all flesh: and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams:
 
-- When the day of Pentecost was fully come, they were all with one accord in one place. Suddenly there came a sound from heaven as of a rushing mighty wind, and they were all filled with the Holy Ghost, and began to speak with other tongues, other languages.
 - Devout men, out of every nation under heaven: according to Deuteronomy 28 we were going to be scattered into all nations. Every man heard them speak in his own language, and they marvelled: are not all these which speak Galilaeans? That is because we were scattered among the heathen; we learned their languages.
+
 - The list of nations: Parthians, and Medes, modern day Iran; Elamites; the dwellers in Mesopotamia, down into Iraq and Babylon; Cappadocia, Pontus, Asia, Phrygia, Pamphylia, Asia Minor; Egypt, and the parts of Libya about Cyrene, Africa; strangers of Rome, Jews and proselytes; Cretes and Arabians. The point: Jews and proselytes. There were people being gathered that were not out of Jerusalem; they were scattered, and people were converting back to the laws of God. This is what Ephesians 2 speaks of: at one time you were without God, and now you are being brought back into the commonwealth of Israel.
+
 - Others mocking said, These men are full of new wine. But Peter, standing up with the eleven, said, these are not drunken, as ye suppose, seeing it is but the third hour of the day. But this is that which was spoken by the prophet Joel: in the last days, saith God, I will pour out of my Spirit upon all flesh, and your sons and your daughters shall prophesy. Prophesy about what? The gathering of the twelve tribes of Israel; teaching the people who they are. The masses did not know; it was the job of the priests and the prophets to teach the people. But in the last days God is raising the message back up, and we are going out to raise our people back up and show them they are not Arabs and Muslims and African Americans or whatever label was put on them: we are the children of Israel.
 
   Precepts:
@@ -604,6 +588,30 @@ Bishop set up the lesson: I was going through Acts 10 recently and there is some
     > <sup>[3](/bible/psalms/19#v3)</sup> There is no speech nor language, where their voice is not heard.
 
     There is no speech nor language, where their voice is not heard.
+
+> <sup>[6](/bible/acts/2#v6)</sup> Now when this was noised abroad, the multitude came together, and were confounded, because that every man heard them speak in his own language.
+>
+> <sup>[7](/bible/acts/2#v7)</sup> And they were all amazed and marvelled, saying one to another, Behold, are not all these which speak Galileans?
+>
+> <sup>[8](/bible/acts/2#v8)</sup> And how hear we every man in our own tongue, wherein we were born?
+>
+> <sup>[9](/bible/acts/2#v9)</sup> Parthians, and Medes, and Elamites, and the dwellers in Mesopotamia, and in Judea, and Cappadocia, in Pontus, and Asia,
+>
+> <sup>[10](/bible/acts/2#v10)</sup> Phrygia, and Pamphylia, in Egypt, and in the parts of Libya about Cyrene, and strangers of Rome, Jews and proselytes,
+>
+> <sup>[11](/bible/acts/2#v11)</sup> Cretes and Arabians, we do hear them speak in our tongues the wonderful works of God.
+>
+> <sup>[12](/bible/acts/2#v12)</sup> And they were all amazed, and were in doubt, saying one to another, What meaneth this?
+>
+> <sup>[13](/bible/acts/2#v13)</sup> Others mocking said, These men are full of new wine.
+>
+> <sup>[14](/bible/acts/2#v14)</sup> But Peter, standing up with the eleven, lifted up his voice, and said unto them, Ye men of Judea, and all ye that dwell at Jerusalem, be this known unto you, and hearken to my words:
+>
+> <sup>[15](/bible/acts/2#v15)</sup> For these are not drunken, as ye suppose, seeing it is but the third hour of the day.
+>
+> <sup>[16](/bible/acts/2#v16)</sup> But this is that which was spoken by the prophet Joel;
+>
+> <sup>[17](/bible/acts/2#v17)</sup> And it shall come to pass in the last days, saith God, I will pour out of my Spirit upon all flesh: and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams:
 
 ## In Closing
 

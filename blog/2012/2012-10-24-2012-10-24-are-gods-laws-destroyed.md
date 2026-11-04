@@ -115,17 +115,17 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "heaven-hell", "prophecy"
 
 **[Psalms 22:16-18](/bible/psalms/22#v16)**  *[[13:37](https://www.youtube.com/watch?v=xuioC34W37Y&t=817s)]*
 
-> <sup>[16](/bible/psalms/22#v16)</sup> For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.
->
-> <sup>[17](/bible/psalms/22#v17)</sup> I may tell all my bones: they look and stare upon me.
->
-> <sup>[18](/bible/psalms/22#v18)</sup> They part my garments among them, and cast lots upon my vesture.
-
 - I'm giving you some basic examples of what was written in the law of Moses and in the Psalms concerning Christ that he came to fulfill.
+
+> <sup>[16](/bible/psalms/22#v16)</sup> For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.
 
 - They pierced my hands and my feet: talking about crucifixion.
 
 - The prophecy is that they would pierce his hands and his feet, and they would part his garments.
+
+> <sup>[17](/bible/psalms/22#v17)</sup> I may tell all my bones: they look and stare upon me.
+>
+> <sup>[18](/bible/psalms/22#v18)</sup> They part my garments among them, and cast lots upon my vesture.
 
 
 **[Matthew 27:35](/bible/matthew/27#v35)**  *[[14:28](https://www.youtube.com/watch?v=xuioC34W37Y&t=868s)]*
@@ -157,13 +157,13 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "heaven-hell", "prophecy"
 
 **[Isaiah 53:10-11](/bible/isaiah/53#v10)**  *[[16:56](https://www.youtube.com/watch?v=xuioC34W37Y&t=1016s)]*
 
-> <sup>[10](/bible/isaiah/53#v10)</sup> Yet it pleased the Lord to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see his seed, he shall prolong his days, and the pleasure of the Lord shall prosper in his hand.
->
-> <sup>[11](/bible/isaiah/53#v11)</sup> He shall see of the travail of his soul, and shall be satisfied: by his knowledge shall my righteous servant justify many; for he shall bear their iniquities.
-
 - You got these dumb Israelites that reject Christ talking about a man can't sacrifice himself. You simple as hell.
 
+> <sup>[10](/bible/isaiah/53#v10)</sup> Yet it pleased the Lord to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see his seed, he shall prolong his days, and the pleasure of the Lord shall prosper in his hand.
+
 - When thou shalt make his soul an offering for sin: what did John the Baptist say? Behold the Lamb of God which taketh away the sins of the world.
+
+> <sup>[11](/bible/isaiah/53#v11)</sup> He shall see of the travail of his soul, and shall be satisfied: by his knowledge shall my righteous servant justify many; for he shall bear their iniquities.
 
 - By his knowledge shall my righteous servant justify many: that's talking about Christ.
 
@@ -181,13 +181,11 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "heaven-hell", "prophecy"
 
 **[Matthew 5:17-19](/bible/matthew/5#v17)**  *[[19:23](https://www.youtube.com/watch?v=xuioC34W37Y&t=1163s)]*
 
+- Christ didn't come to destroy nothing in the law and nothing in the prophets. But he did come to fulfill what was written about him sacrificing himself for the nation of Israel, and the law pertaining to sacrifice.
+
 > <sup>[17](/bible/matthew/5#v17)</sup> Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.
 >
 > <sup>[18](/bible/matthew/5#v18)</sup> For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled.
->
-> <sup>[19](/bible/matthew/5#v19)</sup> Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach them, the same shall be called great in the kingdom of heaven.
-
-- Christ didn't come to destroy nothing in the law and nothing in the prophets. But he did come to fulfill what was written about him sacrificing himself for the nation of Israel, and the law pertaining to sacrifice.
 
 - Till heaven and earth pass: we still standing on earth. We look up and heaven is all around us.
 
@@ -198,6 +196,8 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "heaven-hell", "prophecy"
 - Called the least in the kingdom of heaven means you ain't going to make it. Don't think you can break God's laws and make it into the kingdom. You're going to be dead.
 
 - What are we commanded to teach by Jesus the Christ? The law and the commandments. So what in blazes are you pork chop eating preachers teaching? And all you blacks and Latinos that follow those ministers, you better head for the hills.
+
+> <sup>[19](/bible/matthew/5#v19)</sup> Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach them, the same shall be called great in the kingdom of heaven.
 
 
 **[Leviticus 19:27](/bible/leviticus/19#v27)**  *[[21:00](https://www.youtube.com/watch?v=xuioC34W37Y&t=1260s)]*
@@ -256,21 +256,21 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "heaven-hell", "prophecy"
 
 **[Isaiah 2:1-4](/bible/isaiah/2#v1)**  *[[29:04](https://www.youtube.com/watch?v=xuioC34W37Y&t=1744s)]*
 
+- The mountain of the Lord's house shall be established in the top of the mountains, meaning the nation of Israel shall be exalted above all governments on the earth.
+
 > <sup>[1](/bible/isaiah/2#v1)</sup> The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem.
 >
 > <sup>[2](/bible/isaiah/2#v2)</sup> And it shall come to pass in the last days, that the mountain of the Lord’s house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it.
->
-> <sup>[3](/bible/isaiah/2#v3)</sup> And many people shall go and say, Come ye, and let us go up to the mountain of the Lord, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the Lord from Jerusalem.
->
-> <sup>[4](/bible/isaiah/2#v4)</sup> And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more.
-
-- The mountain of the Lord's house shall be established in the top of the mountains, meaning the nation of Israel shall be exalted above all governments on the earth.
 
 - 'All nations shall flow unto it': that's the part right there you get tripped up on. Many people shall go and say, 'Come ye': who's that? Judah and Israel, the two kingdoms.
+
+> <sup>[3](/bible/isaiah/2#v3)</sup> And many people shall go and say, Come ye, and let us go up to the mountain of the Lord, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the Lord from Jerusalem.
 
 - Out of Zion shall go forth the law: that's what's going to be taught in the kingdom. That's why Christ said a city which is set upon a hill cannot be hid. We shall let our light shine. What is our light? The law.
 
 - You ministers running around talking about God's laws are destroyed: time for you to shut up and humble down and repent.
+
+> <sup>[4](/bible/isaiah/2#v4)</sup> And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more.
 
 - He shall judge among the nations and shall rebuke many people: this is how you know that part above ain't talking about all the other races coming up to Jerusalem. The Lord is going to rebuke these nations of people.
 
@@ -421,16 +421,6 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "heaven-hell", "prophecy"
 
 **[Matthew 19:16-20](/bible/matthew/19#v16)**  *[[48:11](https://www.youtube.com/watch?v=xuioC34W37Y&t=2891s)]*
 
-> <sup>[16](/bible/matthew/19#v16)</sup> And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life?
->
-> <sup>[17](/bible/matthew/19#v17)</sup> And he said unto him, Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments.
->
-> <sup>[18](/bible/matthew/19#v18)</sup> He saith unto him, Which? Jesus said, Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness,
->
-> <sup>[19](/bible/matthew/19#v19)</sup> Honour thy father and thy mother: and, Thou shalt love thy neighbour as thyself.
->
-> <sup>[20](/bible/matthew/19#v20)</sup> The young man saith unto him, All these things have I kept from my youth up: what lack I yet?
-
 - We're still dealing with the topic: are God's laws destroyed? A lot of you should know the answer now. No, they're not destroyed. But how do you get eternal life? How do you get salvation? Let's find out what Christ said.
 
 - Eternal life means inheriting the kingdom of heaven on earth: the blessings and the glory.
@@ -439,9 +429,19 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "heaven-hell", "prophecy"
 
 - If thou wilt enter into life, keep the commandments. Not hugs and kisses, not say the sinner's prayer: keep the commandments. How come your preachers never taught you that?
 
+> <sup>[16](/bible/matthew/19#v16)</sup> And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life?
+>
+> <sup>[17](/bible/matthew/19#v17)</sup> And he said unto him, Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments.
+>
+> <sup>[18](/bible/matthew/19#v18)</sup> He saith unto him, Which? Jesus said, Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness,
+
 - Thou shalt do no murder, thou shalt not commit adultery, thou shalt not steal: sounds like the commandments to me.
 
 - When you read on, Christ tells this man who was rich, sell all that you have and give to the poor, and he went away sorrowful. But the point of this was the stipulation for getting eternal life, getting the kingdom of heaven, is keeping the commandments.
+
+> <sup>[19](/bible/matthew/19#v19)</sup> Honour thy father and thy mother: and, Thou shalt love thy neighbour as thyself.
+>
+> <sup>[20](/bible/matthew/19#v20)</sup> The young man saith unto him, All these things have I kept from my youth up: what lack I yet?
 
 
 **[1 Timothy 1:9-11](/bible/1-timothy/1#v9)**  *[[51:02](https://www.youtube.com/watch?v=xuioC34W37Y&t=3062s)]*

@@ -44,14 +44,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "salvati
 **[Joel 2:27-28](/bible/joel/2#v27)**  *[[2:04](https://www.youtube.com/watch?v=W2zhdspu7z4&t=124s)]*
 
 > <sup>[27](/bible/joel/2#v27)</sup> And ye shall know that I am in the midst of Israel, and that I am the Lord your God, and none else: and my people shall never be ashamed.
->
-> <sup>[28](/bible/joel/2#v28)</sup> And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:
 
 - And ye shall know that I am in the midst of Israel: No, I'm in the midst of everybody? In the midst of Israel.
 
 - and that I am the Lord your God, and none else: Wow. Christians never read that scripture. Christians never go to that scripture. I've never heard that scripture until I put on purple and gold. Wow. Somebody's been lying.
 
 - and my people shall never be ashamed: And guess what, my brothers and sisters, don't be ashamed of that. The Lord said it. You got to be unapologetically biblical. That's what the Lord said, brothers and sisters. Don't apologize for that.
+
+> <sup>[28](/bible/joel/2#v28)</sup> And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:
 
 - that I will pour out my spirit upon all flesh: Now, Christians will leave off 27. Don't black out 27 and just go to 28 and say, See, all flesh. All flesh. Well, what's the context of verse 28? Verse 27 tells you who the topic is: I'm only in the midst of Israel, and I'm their God and nobody else's God. So who is the all flesh in verse 28? The Israelites. The Lord is going to pour out his spirit on all Israel.
 
@@ -94,8 +94,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "salvati
 **[Romans 11:25-26](/bible/romans/11#v25)**  *[[6:13](https://www.youtube.com/watch?v=W2zhdspu7z4&t=373s)]*
 
 > <sup>[25](/bible/romans/11#v25)</sup> For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in.
->
-> <sup>[26](/bible/romans/11#v26)</sup> And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:
 
 - that ye should be ignorant of this mystery: Of this what? Of this mystery. So what we're reading, brothers and sisters, is a mystery. Everybody's not going to get it. Everybody's not going to accept it. And we know this already. Everybody doesn't accept what the Bible actually says. A lot of brothers and sisters getting their own feelings: Oh, all nations could be everybody. God loves everybody. Everybody, everybody, everybody. But is it biblical? No, the hell it's not.
 
@@ -104,6 +102,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "salvati
 - that blindness in part is happened to Israel: It happens to Israel, meaning the southern kingdom, in particular the Pharisees, the scribes.
 
 - until the fulness of the Gentiles be come in: The other tribes, in particular the northern kingdom.
+
+> <sup>[26](/bible/romans/11#v26)</sup> And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:
 
 - And so all Israel shall be saved: And so all 12 tribes shall be saved.
 
@@ -115,20 +115,18 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "salvati
 **[Romans 9:1-5](/bible/romans/9#v1)**  *[[7:52](https://www.youtube.com/watch?v=W2zhdspu7z4&t=472s)]*
 
 > <sup>[1](/bible/romans/9#v1)</sup> I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,
->
+
+- my conscience also bearing me witness in the Holy Ghost: Paul said, I got the Holy Ghost, and I ain't lying.
+
 > <sup>[2](/bible/romans/9#v2)</sup> That I have great heaviness and continual sorrow in my heart.
 >
 > <sup>[3](/bible/romans/9#v3)</sup> For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh:
->
-> <sup>[4](/bible/romans/9#v4)</sup> Who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;
->
-> <sup>[5](/bible/romans/9#v5)</sup> Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen.
-
-- my conscience also bearing me witness in the Holy Ghost: Paul said, I got the Holy Ghost, and I ain't lying.
 
 - for my brethren: For my who? My brethren.
 
 - my kinsmen according to the flesh: My kinsmen. My brethren. Wait a minute. According to the spirit? According to the flesh. My biological brothers and sisters. Meaning my race.
+
+> <sup>[4](/bible/romans/9#v4)</sup> Who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;
 
 - Who are Israelites: Who are the Israelites? Okay.
 
@@ -144,6 +142,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "salvati
 
 - and the promises: And the promises of the kingdom was only given to the Israelites.
 
+> <sup>[5](/bible/romans/9#v5)</sup> Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen.
+
 - Whose are the fathers: Abraham, Isaac, and Jacob. The things we just read in verse four are pertaining to Abraham, Isaac, and Jacob. The fathers.
 
 - Christ came: So who did Christ come for? Who are Israelites. That's what the Bible says. That's what the New Testament says. That's what Paul says.
@@ -156,12 +156,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "salvati
 **[Galatians 4:4-5](/bible/galatians/4#v4)**  *[[10:04](https://www.youtube.com/watch?v=W2zhdspu7z4&t=604s)]*
 
 > <sup>[4](/bible/galatians/4#v4)</sup> But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,
->
-> <sup>[5](/bible/galatians/4#v5)</sup> To redeem them that were under the law, that we might receive the adoption of sons.
 
 - God sent forth his Son: Mind you, we're reading majority New Testament, brothers and sisters. Christ.
 
 - made of a woman, made under the law: Made of a woman, made under the law.
+
+> <sup>[5](/bible/galatians/4#v5)</sup> To redeem them that were under the law, that we might receive the adoption of sons.
 
 - To redeem them that were under the law: Wait a minute. To redeem everybody? To redeem them that were under the law. So what is the purpose of Jesus Christ coming on the earth? His blood was shed for the remission of the sins of the Israelites. Who were the Israelites? Those that were under the first covenant. Those that were under the law. Who was under the law? The Israelites.
 
@@ -187,16 +187,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "salvati
 **[Acts 1:4-6](/bible/acts/1#v4)**  *[[12:19](https://www.youtube.com/watch?v=W2zhdspu7z4&t=739s)]*
 
 > <sup>[4](/bible/acts/1#v4)</sup> And, being assembled together with them, commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which, saith he, ye have heard of me.
->
-> <sup>[5](/bible/acts/1#v5)</sup> For John truly baptized with water; but ye shall be baptized with the Holy Ghost not many days hence.
->
-> <sup>[6](/bible/acts/1#v6)</sup> When they therefore were come together, they asked of him, saying, Lord, wilt thou at this time restore again the kingdom to Israel?
 
 - but wait for the promise of the Father: Let's see what do the disciples got to say about this. Christ said, Wait for the promise of the Father.
+
+> <sup>[5](/bible/acts/1#v5)</sup> For John truly baptized with water; but ye shall be baptized with the Holy Ghost not many days hence.
 
 - For John truly baptized with water: John baptized with water.
 
 - but ye shall be baptized with the Holy Ghost: But I'm going to give you the Holy Ghost.
+
+> <sup>[6](/bible/acts/1#v6)</sup> When they therefore were come together, they asked of him, saying, Lord, wilt thou at this time restore again the kingdom to Israel?
 
 - When they therefore were come together: When the disciples came together.
 
@@ -206,16 +206,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "salvati
 **[Luke 24:19-21](/bible/luke/24#v19)**  *[[14:05](https://www.youtube.com/watch?v=W2zhdspu7z4&t=845s)]*
 
 > <sup>[19](/bible/luke/24#v19)</sup> And he said unto them, What things? And they said unto him, Concerning Jesus of Nazareth, which was a prophet mighty in deed and word before God and all the people:
->
-> <sup>[20](/bible/luke/24#v20)</sup> And how the chief priests and our rulers delivered him to be condemned to death, and have crucified him.
->
-> <sup>[21](/bible/luke/24#v21)</sup> But we trusted that it had been he which should have redeemed Israel: and beside all this, to day is the third day since these things were done.
 
 - And he said unto them, What things: Now this is after Christ was crucified, after three days, three nights in the earth, came and he disguised himself among the disciples. They didn't know who he was at the time.
 
 - And they said unto him: The disciples said unto him.
 
+> <sup>[20](/bible/luke/24#v20)</sup> And how the chief priests and our rulers delivered him to be condemned to death, and have crucified him.
+
 - and have crucified him: And they crucified Christ. Now, here's the point. Verse 21. Watch this.
+
+> <sup>[21](/bible/luke/24#v21)</sup> But we trusted that it had been he which should have redeemed Israel: and beside all this, to day is the third day since these things were done.
 
 - But we trusted that: But we disciples trusted.
 
@@ -256,20 +256,20 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "salvati
 **[Luke 1:68-71](/bible/luke/1#v68)**  *[[17:53](https://www.youtube.com/watch?v=W2zhdspu7z4&t=1073s)]*
 
 > <sup>[68](/bible/luke/1#v68)</sup> Blessed be the Lord God of Israel; for he hath visited and redeemed his people,
->
-> <sup>[69](/bible/luke/1#v69)</sup> And hath raised up an horn of salvation for us in the house of his servant David;
->
-> <sup>[70](/bible/luke/1#v70)</sup> As he spake by the mouth of his holy prophets, which have been since the world began:
->
-> <sup>[71](/bible/luke/1#v71)</sup> That we should be saved from our enemies, and from the hand of all that hate us;
 
 - Blessed be the Lord God of Israel: The Lord God of all nations? The Lord God of Israel.
 
 - for he hath visited and redeemed his people: There it goes again. Who's his people? The Israelites. He's the God of Israel.
 
+> <sup>[69](/bible/luke/1#v69)</sup> And hath raised up an horn of salvation for us in the house of his servant David;
+
 - And hath raised up an horn of salvation for us: For us, the Israelites.
 
+> <sup>[70](/bible/luke/1#v70)</sup> As he spake by the mouth of his holy prophets, which have been since the world began:
+
 - As he spake by the mouth of his holy prophets: All the prophets spoke of Christ.
+
+> <sup>[71](/bible/luke/1#v71)</sup> That we should be saved from our enemies, and from the hand of all that hate us;
 
 - That we should be saved from our enemies: Here's the point of Christ. Here's another point of Christ. That we should be saved from our enemies. The point of Christ is that we should be saved, or receive salvation, from those that are oppressing us. Who's oppressing us? The other nations.
 

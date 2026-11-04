@@ -85,35 +85,39 @@ Reading from an on-screen chart, *From Dust to Dust: The Elements That Connect U
 **[1 Corinthians 15:47-49](/bible/1-corinthians/15#v47)**  *[[15:48](https://www.youtube.com/watch?v=sswMP7Skv-4&t=948s)]*
 
 > <sup>[47](/bible/1-corinthians/15#v47)</sup> The first man is of the earth, earthy: the second man is the Lord from heaven.
->
+
+- The first man is of the earth, earthy: that's Adam. The second man is the Lord from heaven: that's Christ. As is the earthy, such are they also that are earthy: just like Adam was earthy, so are we; we come from the same soil our father came from.
+
 > <sup>[48](/bible/1-corinthians/15#v48)</sup> As is the earthy, such are they also that are earthy: and as is the heavenly, such are they also that are heavenly.
 >
 > <sup>[49](/bible/1-corinthians/15#v49)</sup> And as we have borne the image of the earthy, we shall also bear the image of the heavenly.
 
-- The first man is of the earth, earthy: that's Adam. The second man is the Lord from heaven: that's Christ. As is the earthy, such are they also that are earthy: just like Adam was earthy, so are we; we come from the same soil our father came from.
 - As we have borne the image of the earthy: we are mortal; Adam lost his immortality. We shall also bear the image of the heavenly: that is a promise from God. He is going to change our cellular structure and give us a new body, no longer this weak, frail body that has to die.
 
 **[Wisdom of Solomon 2:23-24](/bible/wisdom-of-solomon/2#v23)**  *[[17:12](https://www.youtube.com/watch?v=sswMP7Skv-4&t=1032s)]*
 
 > <sup>[23](/bible/wisdom-of-solomon/2#v23)</sup> For God created man to be immortal, and made him to be an image of his own eternity.
->
-> <sup>[24](/bible/wisdom-of-solomon/2#v24)</sup> Nevertheless through envy of the devil came death into the world: and they that do hold of his side do find it.
 
 - God created man to be immortal, and made him to be an image of his own eternity: although Adam was made from the dust of the ground, in the beginning he could not die.
+
+> <sup>[24](/bible/wisdom-of-solomon/2#v24)</sup> Nevertheless through envy of the devil came death into the world: and they that do hold of his side do find it.
+
 - Nevertheless through envy of the devil came death into the world: and they that do hold of his side, that follow Satan's doctrine and his idolatry, are going to die with him. The only way back to immortality is to come back to the Lord. No idol can give you eternal life; not Buddha, Krishna, Vishnu, or the gods of the Egyptologists. Eternal life comes through one source: the Most High.
 
 **[John 5:21-24](/bible/john/5#v21)**  *[[18:56](https://www.youtube.com/watch?v=sswMP7Skv-4&t=1136s)]*
 
 > <sup>[21](/bible/john/5#v21)</sup> For as the Father raiseth up the dead, and quickeneth them; even so the Son quickeneth whom he will.
->
+
+- As the Father raiseth up the dead and quickeneth them, even so the Son quickeneth whom he will: quicken means to make alive. Christ has the same power.
+
+- A word for the trinitarians: the Father hath committed all judgment unto the Son. For me to commit something to you means I had it first and you did not. The Father gave judgment to Christ so that all men should honour the Son even as they honour the Father; the one who gives is the one with the supreme authority. There is no co-eternal, co-substantial confusion here.
+
 > <sup>[22](/bible/john/5#v22)</sup> For the Father judgeth no man, but hath committed all judgment unto the Son:
 >
 > <sup>[23](/bible/john/5#v23)</sup> That all men should honour the Son, even as they honour the Father. He that honoureth not the Son honoureth not the Father which hath sent him.
 >
 > <sup>[24](/bible/john/5#v24)</sup> Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life.
 
-- As the Father raiseth up the dead and quickeneth them, even so the Son quickeneth whom he will: quicken means to make alive. Christ has the same power.
-- A word for the trinitarians: the Father hath committed all judgment unto the Son. For me to commit something to you means I had it first and you did not. The Father gave judgment to Christ so that all men should honour the Son even as they honour the Father; the one who gives is the one with the supreme authority. There is no co-eternal, co-substantial confusion here.
 - He that heareth my word, and believeth on him that sent me, hath everlasting life: the only way to get life is to believe on Christ and keep the commandments. That is the immortality Adam had at the beginning and lost through sin.
 
 **[2 Esdras 3:21-26](/bible/2-esdras/3#v21)**  *[[21:29](https://www.youtube.com/watch?v=sswMP7Skv-4&t=1289s)]*
@@ -174,7 +178,13 @@ Reading from a definition of infirmity  *[[22:15](https://www.youtube.com/watch?
 **[Romans 7:14-25](/bible/romans/7#v14)**  *[[31:54](https://www.youtube.com/watch?v=sswMP7Skv-4&t=1914s)]*
 
 > <sup>[14](/bible/romans/7#v14)</sup> For we know that the law is spiritual: but I am carnal, sold under sin.
->
+
+- The law is spiritual, but I am carnal, sold under sin: carnal because I am in this carnal flesh. Paul is describing the mental battle: that which I do, I allow not; what I would, that do I not. Paul is not admitting himself to be in sin; he is telling you that mentally he is fighting against the flesh.
+
+- If then I do that which I would not, I consent unto the law that it is good. Every time you have an opportunity to sin and you choose God's word over sin, you are consenting that the law has been good the whole time. I could lie right now, but I am not going to, because the Bible says lie not one to another; I just consented that God's law is good. Every single time we refuse a sin, we are saying God is right and I am wrong.
+
+- So when somebody tells you that you cannot keep God's laws, that is a lie. They do not get up and murder people; they do not rob banks. Why not? Because they are consenting that God's law is good. Although we are in this carnal flesh, we prove daily that we can apply God's commandments to our life.
+
 > <sup>[15](/bible/romans/7#v15)</sup> For that which I do I allow not: for what I would, that do I not; but what I hate, that do I.
 >
 > <sup>[16](/bible/romans/7#v16)</sup> If then I do that which I would not, I consent unto the law that it is good.
@@ -188,7 +198,13 @@ Reading from a definition of infirmity  *[[22:15](https://www.youtube.com/watch?
 > <sup>[20](/bible/romans/7#v20)</sup> Now if I do that I would not, it is no more I that do it, but sin that dwelleth in me.
 >
 > <sup>[21](/bible/romans/7#v21)</sup> I find then a law, that, when I would do good, evil is present with me.
->
+
+- I find then a law, that, when I would do good, evil is present with me: sin is always hovering, the old man trying to pull you back into wickedness. I see another law in my members, warring against the law of my mind: this body does not play fair.
+
+- O wretched man that I am! Who shall deliver me from the body of this death? I thank God through Jesus Christ our Lord. With the mind I myself serve the law of God, but with the flesh the law of sin. This is the battle of every man and every woman on this earth. The difference between them and us is that we know why we battle it, and we have the keys to fix it.
+
+- That is why, when a brother makes a mistake, we do not instantly look at him as evil. Everybody does something for a reason; you have to ask why. The only way to healing is to know where it stems from.
+
 > <sup>[22](/bible/romans/7#v22)</sup> For I delight in the law of God after the inward man:
 >
 > <sup>[23](/bible/romans/7#v23)</sup> But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members.
@@ -196,13 +212,6 @@ Reading from a definition of infirmity  *[[22:15](https://www.youtube.com/watch?
 > <sup>[24](/bible/romans/7#v24)</sup> O wretched man that I am! who shall deliver me from the body of this death?
 >
 > <sup>[25](/bible/romans/7#v25)</sup> I thank God through Jesus Christ our Lord. So then with the mind I myself serve the law of God; but with the flesh the law of sin.
-
-- The law is spiritual, but I am carnal, sold under sin: carnal because I am in this carnal flesh. Paul is describing the mental battle: that which I do, I allow not; what I would, that do I not. Paul is not admitting himself to be in sin; he is telling you that mentally he is fighting against the flesh.
-- If then I do that which I would not, I consent unto the law that it is good. Every time you have an opportunity to sin and you choose God's word over sin, you are consenting that the law has been good the whole time. I could lie right now, but I am not going to, because the Bible says lie not one to another; I just consented that God's law is good. Every single time we refuse a sin, we are saying God is right and I am wrong.
-- So when somebody tells you that you cannot keep God's laws, that is a lie. They do not get up and murder people; they do not rob banks. Why not? Because they are consenting that God's law is good. Although we are in this carnal flesh, we prove daily that we can apply God's commandments to our life.
-- I find then a law, that, when I would do good, evil is present with me: sin is always hovering, the old man trying to pull you back into wickedness. I see another law in my members, warring against the law of my mind: this body does not play fair.
-- O wretched man that I am! Who shall deliver me from the body of this death? I thank God through Jesus Christ our Lord. With the mind I myself serve the law of God, but with the flesh the law of sin. This is the battle of every man and every woman on this earth. The difference between them and us is that we know why we battle it, and we have the keys to fix it.
-- That is why, when a brother makes a mistake, we do not instantly look at him as evil. Everybody does something for a reason; you have to ask why. The only way to healing is to know where it stems from.
 
 **[Wisdom of Solomon 9:14-15](/bible/wisdom-of-solomon/9#v14)**  *[[38:08](https://www.youtube.com/watch?v=sswMP7Skv-4&t=2288s)]*
 
@@ -261,12 +270,20 @@ Reading from a definition of muse  *[[40:03](https://www.youtube.com/watch?v=ssw
 
 **[Ecclesiasticus 40:1-8](/bible/sirach/40#v1)**  *[[48:12](https://www.youtube.com/watch?v=sswMP7Skv-4&t=2892s)]*
 
+- Great travail is created for every man, and an heavy yoke is upon the sons of Adam, from the day they go out of their mother's womb till the day that they return to the mother of all things: from birth to death. Their imagination of things to come, and the day of death, trouble their thoughts and cause fear of heart.
+
 > <sup>[1](/bible/sirach/40#v1)</sup> Great travail is created for every man, and an heavy yoke is upon the sons of Adam, from the day that they go out of their mother’s womb, till the day that they return to the mother of all things.
 >
 > <sup>[2](/bible/sirach/40#v2)</sup> Their imagination of things to come, and the day of death, trouble their thoughts, and cause fear of heart;
 >
 > <sup>[3](/bible/sirach/40#v3)</sup> From him that sitteth on a throne of glory, unto him that is humbled in earth and ashes;
->
+
+- From him that sitteth on a throne of glory, unto him that is humbled in earth and ashes: it does not matter if you are rich or poor; every man and woman has the same issues. Money does not heal trauma; that is why many athletes and entertainers fall apart when they retire and have to actually be with themselves.
+
+- And in the time of rest upon his bed his night's sleep do change his knowledge: you overthink at night. Some of you wake up out of evil dreams, dreams of death, of losing a loved one, of losing your job, and you are troubled in the vision of your heart as if you escaped out of a battle; and when all is safe, you awake and marvel that the fear was nothing. Thank God it was just a dream. Every man and woman goes through this, because when Adam fell, we all fell.
+
+- Such things happen unto all flesh, both man and beast, and that is sevenfold more upon sinners. It is seven times worse if you are in sin. Hold that verse; we are coming back to it.
+
 > <sup>[4](/bible/sirach/40#v4)</sup> From him that weareth purple and a crown, unto him that is clothed with a linen frock.
 >
 > <sup>[5](/bible/sirach/40#v5)</sup> Wrath, and envy, trouble, and unquietness, fear of death, and anger, and strife, and in the time of rest upon his bed his night sleep, do change his knowledge.
@@ -276,11 +293,6 @@ Reading from a definition of muse  *[[40:03](https://www.youtube.com/watch?v=ssw
 > <sup>[7](/bible/sirach/40#v7)</sup> When all is safe, he awaketh, and marvelleth that the fear was nothing.
 >
 > <sup>[8](/bible/sirach/40#v8)</sup> Such things happen unto all flesh, both man and beast, and that is sevenfold more upon sinners.
-
-- Great travail is created for every man, and an heavy yoke is upon the sons of Adam, from the day they go out of their mother's womb till the day that they return to the mother of all things: from birth to death. Their imagination of things to come, and the day of death, trouble their thoughts and cause fear of heart.
-- From him that sitteth on a throne of glory, unto him that is humbled in earth and ashes: it does not matter if you are rich or poor; every man and woman has the same issues. Money does not heal trauma; that is why many athletes and entertainers fall apart when they retire and have to actually be with themselves.
-- And in the time of rest upon his bed his night's sleep do change his knowledge: you overthink at night. Some of you wake up out of evil dreams, dreams of death, of losing a loved one, of losing your job, and you are troubled in the vision of your heart as if you escaped out of a battle; and when all is safe, you awake and marvel that the fear was nothing. Thank God it was just a dream. Every man and woman goes through this, because when Adam fell, we all fell.
-- Such things happen unto all flesh, both man and beast, and that is sevenfold more upon sinners. It is seven times worse if you are in sin. Hold that verse; we are coming back to it.
 
 <div class="reading">
 
@@ -625,16 +637,19 @@ Reading from a page titled "Born into a Curse: Understanding Generational Bondag
 
 **[Deuteronomy 28:65-67](/bible/deuteronomy/28#v65)**  *[[1:41:17](https://www.youtube.com/watch?v=sswMP7Skv-4&t=6077s)]*
 
+- Among these nations shalt thou find no ease; but the Lord shall give thee there a trembling heart, and failing of eyes, and sorrow of mind. What is a trembling heart? Trauma, a wounded heart. Sorrow of mind: constant depression and anxiety. The code switching alone: I have to be one way at work, then decompress before I walk through my own door so my wife and children do not feel the effects of what I endured all day.
+
 > <sup>[65](/bible/deuteronomy/28#v65)</sup> And among these nations shalt thou find no ease, neither shall the sole of thy foot have rest: but the Lord shall give thee there a trembling heart, and failing of eyes, and sorrow of mind:
 >
 > <sup>[66](/bible/deuteronomy/28#v66)</sup> And thy life shall hang in doubt before thee; and thou shalt fear day and night, and shalt have none assurance of thy life:
->
-> <sup>[67](/bible/deuteronomy/28#v67)</sup> In the morning thou shalt say, Would God it were even! and at even thou shalt say, Would God it were morning! for the fear of thine heart wherewith thou shalt fear, and for the sight of thine eyes which thou shalt see.
 
-- Among these nations shalt thou find no ease; but the Lord shall give thee there a trembling heart, and failing of eyes, and sorrow of mind. What is a trembling heart? Trauma, a wounded heart. Sorrow of mind: constant depression and anxiety. The code switching alone: I have to be one way at work, then decompress before I walk through my own door so my wife and children do not feel the effects of what I endured all day.
 - And thy life shall hang in doubt before thee: you ever see your boss's number come up and your heart drops? No man should have that power over your life. That is stress; some of us still feel the phantom vibration of a work phone months after leaving the job.
+
 - In the morning thou shalt say, Would God it were even! and at even thou shalt say, Would God it were morning! for the fear of thine heart wherewith thou shalt fear. Is that not us?
+
 - Illustration from the series Them: a family moves from North Carolina to California during the Great Migration after their baby son is killed, hoping for a better life, and the neighborhood terrorizes them; in the next generation the daughter's children end up in foster care, abused and separated, and the boy is destroyed by it. That is intergenerational trauma dramatized.
+
+> <sup>[67](/bible/deuteronomy/28#v67)</sup> In the morning thou shalt say, Would God it were even! and at even thou shalt say, Would God it were morning! for the fear of thine heart wherewith thou shalt fear, and for the sight of thine eyes which thou shalt see.
 
 <div class="reading">
 
@@ -731,11 +746,12 @@ Reading from a slide on the brain's reward system  *[[1:54:30](https://www.youtu
 **[Romans 7:7-8](/bible/romans/7#v7)**  *[[1:56:27](https://www.youtube.com/watch?v=sswMP7Skv-4&t=6987s)]*
 
 > <sup>[7](/bible/romans/7#v7)</sup> What shall we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet.
->
-> <sup>[8](/bible/romans/7#v8)</sup> But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead.
 
 - I had not known sin, but by the law: the only way you know you are in sin against God is by referring back to his laws. When you read God's laws you say, he said do not do this; I have to change that. This is how you get the brain right.
+
 - Sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead.
+
+> <sup>[8](/bible/romans/7#v8)</sup> But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead.
 
 <div class="reading">
 
@@ -754,10 +770,10 @@ Reading from a definition of concupiscence  *[[1:57:37](https://www.youtube.com/
 **[Ecclesiasticus 23:16-17](/bible/sirach/23#v16)**  *[[1:58:16](https://www.youtube.com/watch?v=sswMP7Skv-4&t=7096s)]*
 
 > <sup>[16](/bible/sirach/23#v16)</sup> Two sorts of men multiply sin, and the third will bring wrath: a hot mind is as a burning fire, it will never be quenched till it be consumed: a fornicator in the body of his flesh will never cease till he hath kindled a fire.
->
-> <sup>[17](/bible/sirach/23#v17)</sup> All bread is sweet to a whoremonger, he will not leave off till he die.
 
 - A hot mind is as a burning fire, it will never be quenched till it be consumed: that is the inclination to sin, that concupiscence. All bread is sweet to a whoremonger: that dopamine he has to have. Speaking from experience of the old life: the men who stayed in the club until the lights came on were not there for a good time; that lifestyle is a chase that never satisfies.
+
+> <sup>[17](/bible/sirach/23#v17)</sup> All bread is sweet to a whoremonger, he will not leave off till he die.
 
 **[Hebrews 3:13](/bible/hebrews/3#v13)**  *[[2:00:03](https://www.youtube.com/watch?v=sswMP7Skv-4&t=7203s)]*
 
@@ -829,14 +845,15 @@ Reading from a note on the psychological concept of neuroplasticity  *[[2:04:39]
 **[Ephesians 3:16-19](/bible/ephesians/3#v16)**  *[[2:07:41](https://www.youtube.com/watch?v=sswMP7Skv-4&t=7661s)]*
 
 > <sup>[16](/bible/ephesians/3#v16)</sup> That he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man;
->
+
+- To be strengthened with might by his Spirit in the inner man: if you believe this truth, he will strengthen your mind. The Lord will give you the power to overcome your lusts; if you keep falling into them, your belief is not there yet. You have to fight it within.
+
 > <sup>[17](/bible/ephesians/3#v17)</sup> That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love,
 >
 > <sup>[18](/bible/ephesians/3#v18)</sup> May be able to comprehend with all saints what is the breadth, and length, and depth, and height;
 >
 > <sup>[19](/bible/ephesians/3#v19)</sup> And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God.
 
-- To be strengthened with might by his Spirit in the inner man: if you believe this truth, he will strengthen your mind. The Lord will give you the power to overcome your lusts; if you keep falling into them, your belief is not there yet. You have to fight it within.
 - That ye might be filled with all the fulness of God: that deletes depression and anxiety. I do not sit around depressed anymore; I know who is in control of my steps, I understand what God called me to do, and I know I have brothers that love and care for me. When they correct me, I know it is not coming from a place of malice. But if you have not rewired your mind to believe that these are the men of God, every correction will send you right back into the old rut and the old excuses.
 
 **[Ephesians 4:22-27](/bible/ephesians/4#v22)**  *[[2:09:23](https://www.youtube.com/watch?v=sswMP7Skv-4&t=7763s)]*
@@ -902,12 +919,13 @@ Reading from a note on the psychological concept of neuroplasticity  *[[2:04:39]
 **[Ecclesiasticus 30:21-23](/bible/sirach/30#v21)**  *[[2:16:25](https://www.youtube.com/watch?v=sswMP7Skv-4&t=8185s)]*
 
 > <sup>[21](/bible/sirach/30#v21)</sup> Give not over thy mind to heaviness, and afflict not thyself in thine own counsel.
->
+
+- Give not over thy mind to heaviness, and afflict not thyself in thine own counsel: stop overthinking. As Deacon Lahab, a psychologist, put it plainly years ago: you have to tell self to be quiet. When you keep talking to yourself from a place of trauma, you are convincing yourself that the way you have been living is okay. Convince yourself instead that God is right and you were wrong.
+
 > <sup>[22](/bible/sirach/30#v22)</sup> The gladness of the heart is the life of man, and the joyfulness of a man prolongeth his days.
 >
 > <sup>[23](/bible/sirach/30#v23)</sup> Love thine own soul, and comfort thy heart, remove sorrow far from thee: for sorrow hath killed many, and there is no profit therein.
 
-- Give not over thy mind to heaviness, and afflict not thyself in thine own counsel: stop overthinking. As Deacon Lahab, a psychologist, put it plainly years ago: you have to tell self to be quiet. When you keep talking to yourself from a place of trauma, you are convincing yourself that the way you have been living is okay. Convince yourself instead that God is right and you were wrong.
 - The gladness of the heart is the life of man, and the joyfulness of a man prolongeth his days. Love thine own soul, and comfort thy heart, remove sorrow far from thee: for sorrow hath killed many, and there is no profit therein. Sirach is speaking in what today they would call medical terms.
 
 <div class="reading">
@@ -963,18 +981,20 @@ Reading from the same book excerpt, its psychological note  *[[2:21:55](https://
 **[Ecclesiasticus 38:17-21](/bible/sirach/38#v17)**  *[[2:22:39](https://www.youtube.com/watch?v=sswMP7Skv-4&t=8559s)]*
 
 > <sup>[17](/bible/sirach/38#v17)</sup> Weep bitterly, and make great moan, and use lamentation, as he is worthy, and that a day or two, lest thou be evil spoken of: and then comfort thyself for thy heaviness.
->
+
+- Weep bitterly, and make great moan, and use lamentation, as he is worthy, and that a day or two, lest thou be evil spoken of: and then comfort thyself for thy heaviness. The scripture gives you a time period for grief.
+
+- For of heaviness cometh death, and the heaviness of the heart breaketh strength. Psychosomatic illnesses and disorders come from the heaviness.
+
 > <sup>[18](/bible/sirach/38#v18)</sup> For of heaviness cometh death, and the heaviness of the heart breaketh strength.
 >
 > <sup>[19](/bible/sirach/38#v19)</sup> In affliction also sorrow remaineth: and the life of the poor is the curse of the heart.
 >
 > <sup>[20](/bible/sirach/38#v20)</sup> Take no heaviness to heart: drive it away, and remember the last end.
->
-> <sup>[21](/bible/sirach/38#v21)</sup> Forget it not, for there is no turning again: thou shalt not do him good, but hurt thyself.
 
-- Weep bitterly, and make great moan, and use lamentation, as he is worthy, and that a day or two, lest thou be evil spoken of: and then comfort thyself for thy heaviness. The scripture gives you a time period for grief.
-- For of heaviness cometh death, and the heaviness of the heart breaketh strength. Psychosomatic illnesses and disorders come from the heaviness.
 - Take no heaviness to heart: drive it away. There is no turning again: thou shalt not do him good, but hurt thyself. You will not do the person that died any good. A lot of our illnesses are self inflicted, because we do not believe God's word and do not allow it to work in our life.
+
+> <sup>[21](/bible/sirach/38#v21)</sup> Forget it not, for there is no turning again: thou shalt not do him good, but hurt thyself.
 
 **[Hebrews 11:6](/bible/hebrews/11#v6)**  *[[2:24:20](https://www.youtube.com/watch?v=sswMP7Skv-4&t=8660s)]*
 
@@ -1009,14 +1029,14 @@ Reading from the same book excerpt, its psychological note  *[[2:21:55](https://
 **[Ephesians 4:3-6](/bible/ephesians/4#v3)**  *[[2:27:09](https://www.youtube.com/watch?v=sswMP7Skv-4&t=8829s)]*
 
 > <sup>[3](/bible/ephesians/4#v3)</sup> Endeavouring to keep the unity of the Spirit in the bond of peace.
->
+
+- Endeavouring to keep the unity of the Spirit in the bond of peace: one body, one Spirit, one Lord, one faith, one baptism, one God and Father of all. If you believe that God is in these men and women, you are going to fellowship, and that is going to help you heal from your trauma.
+
 > <sup>[4](/bible/ephesians/4#v4)</sup> There is one body, and one Spirit, even as ye are called in one hope of your calling;
 >
 > <sup>[5](/bible/ephesians/4#v5)</sup> One Lord, one faith, one baptism,
 >
 > <sup>[6](/bible/ephesians/4#v6)</sup> One God and Father of all, who is above all, and through all, and in you all.
-
-- Endeavouring to keep the unity of the Spirit in the bond of peace: one body, one Spirit, one Lord, one faith, one baptism, one God and Father of all. If you believe that God is in these men and women, you are going to fellowship, and that is going to help you heal from your trauma.
 
 **[Hebrews 10:24-25](/bible/hebrews/10#v24)**  *[[2:28:00](https://www.youtube.com/watch?v=sswMP7Skv-4&t=8880s)]*
 
@@ -1029,18 +1049,19 @@ Reading from the same book excerpt, its psychological note  *[[2:21:55](https://
 
 **[1 Corinthians 15:49-53](/bible/1-corinthians/15#v49)**  *[[2:29:47](https://www.youtube.com/watch?v=sswMP7Skv-4&t=8987s)]*
 
+- Flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption. What we are in now is corruption, and the Lord is going to change this nervous system.
+
 > <sup>[49](/bible/1-corinthians/15#v49)</sup> And as we have borne the image of the earthy, we shall also bear the image of the heavenly.
 >
 > <sup>[50](/bible/1-corinthians/15#v50)</sup> Now this I say, brethren, that flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption.
 >
 > <sup>[51](/bible/1-corinthians/15#v51)</sup> Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed,
->
+
+- Behold, I shew you a mystery: we shall not all sleep, but we shall all be changed, in a moment, in the twinkling of an eye, at the last trump. The dead shall be raised incorruptible: no more trauma, no more weak nervous system constantly breaking down. This corruptible must put on incorruption, and this mortal must put on immortality.
+
 > <sup>[52](/bible/1-corinthians/15#v52)</sup> In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed.
 >
 > <sup>[53](/bible/1-corinthians/15#v53)</sup> For this corruptible must put on incorruption, and this mortal must put on immortality.
-
-- Flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption. What we are in now is corruption, and the Lord is going to change this nervous system.
-- Behold, I shew you a mystery: we shall not all sleep, but we shall all be changed, in a moment, in the twinkling of an eye, at the last trump. The dead shall be raised incorruptible: no more trauma, no more weak nervous system constantly breaking down. This corruptible must put on incorruption, and this mortal must put on immortality.
 
 **[Philippians 3:20-21](/bible/philippians/3#v20)**  *[[2:31:11](https://www.youtube.com/watch?v=sswMP7Skv-4&t=9071s)]*
 
@@ -1049,30 +1070,29 @@ Reading from the same book excerpt, its psychological note  *[[2:21:55](https://
 > <sup>[21](/bible/philippians/3#v21)</sup> Who shall change our vile body, that it may be fashioned like unto his glorious body, according to the working whereby he is able even to subdue all things unto himself.
 
 - We look for the Saviour, the Lord Jesus Christ, who shall change our vile body, that it may be fashioned like unto his glorious body: we are going to look and feel and be like him.
+
 - According to the working whereby he is able even to subdue all things unto himself: his power is so great that he is going to give us a piece of it, and there will be no traumatic hesitation left in the mind; the old record is gone.
 
 **[Hebrews 8:10-11](/bible/hebrews/8#v10)**  *[[2:32:32](https://www.youtube.com/watch?v=sswMP7Skv-4&t=9152s)]*
 
 > <sup>[10](/bible/hebrews/8#v10)</sup> For this is the covenant that I will make with the house of Israel after those days, saith the Lord; I will put my laws into their mind, and write them in their hearts: and I will be to them a God, and they shall be to me a people:
->
-> <sup>[11](/bible/hebrews/8#v11)</sup> And they shall not teach every man his neighbour, and every man his brother, saying, Know the Lord: for all shall know me, from the least to the greatest.
 
 - This is the covenant that I will make with the house of Israel: I will put my laws into their mind, and write them in their hearts; and I will be to them a God, and they shall be to me a people. That is immortality: when the Lord gives it, you will never second guess him again. You will be made to move and function as God commands, the way Christ and the angels carry his laws in their mind. The power has been in God's laws the whole time.
+
+> <sup>[11](/bible/hebrews/8#v11)</sup> And they shall not teach every man his neighbour, and every man his brother, saying, Know the Lord: for all shall know me, from the least to the greatest.
 
 **[Ezekiel 36:24-28](/bible/ezekiel/36#v24)**  *[[2:33:41](https://www.youtube.com/watch?v=sswMP7Skv-4&t=9221s)]*
 
 > <sup>[24](/bible/ezekiel/36#v24)</sup> For I will take you from among the heathen, and gather you out of all countries, and will bring you into your own land.
 >
 > <sup>[25](/bible/ezekiel/36#v25)</sup> Then will I sprinkle clean water upon you, and ye shall be clean: from all your filthiness, and from all your idols, will I cleanse you.
->
-> <sup>[26](/bible/ezekiel/36#v26)</sup> A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.
->
-> <sup>[27](/bible/ezekiel/36#v27)</sup> And I will put my spirit within you, and cause you to walk in my statutes, and ye shall keep my judgments, and do them.
->
-> <sup>[28](/bible/ezekiel/36#v28)</sup> And ye shall dwell in the land that I gave to your fathers; and ye shall be my people, and I will be your God.
 
 - I will take you from among the heathen, and gather you out of all countries, and will bring you into your own land. Then will I sprinkle clean water upon you, and ye shall be clean: that clean water is the commandments of God.
+
+> <sup>[26](/bible/ezekiel/36#v26)</sup> A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.
+
 - A new heart also will I give you, and a new spirit will I put within you: a new mind, a new body, a new nervous system. I will take away the stony heart out of your flesh: the wicked heart Adam bore from the beginning of the class, removed. No more sicknesses, mental health issues, or trauma; the Lord said, I am taking all of that and cleaning you up.
+
 - And I will put my spirit within you, and cause you to walk in my statutes; and ye shall be my people, and I will be your God.
 
   Precepts:
@@ -1087,6 +1107,10 @@ Reading from the same book excerpt, its psychological note  *[[2:21:55](https://
     > <sup>[36](/bible/ezekiel/36#v36)</sup> Then the heathen that are left round about you shall know that I the Lord build the ruined places, and plant that that was desolate: I the Lord have spoken it, and I will do it.
 
     In the day that I shall have cleansed you from all your iniquities, the desolate land shall be tilled, and they shall say, This land that was desolate is become like the garden of Eden. First the Lord changes you; then he changes the land to conform to you. The world was made for us, but he cannot give us Jerusalem as it is supposed to be while we are in the midst of sin. He removes the sin, gives the new heart and the immortal body, then commands the land to transform, and we go right back to where we were in the beginning with our Lord. The heathen shall know that I the Lord build the ruined places: I the Lord have spoken it, and I will do it.
+
+> <sup>[27](/bible/ezekiel/36#v27)</sup> And I will put my spirit within you, and cause you to walk in my statutes, and ye shall keep my judgments, and do them.
+>
+> <sup>[28](/bible/ezekiel/36#v28)</sup> And ye shall dwell in the land that I gave to your fathers; and ye shall be my people, and I will be your God.
 
 ## In Closing
 

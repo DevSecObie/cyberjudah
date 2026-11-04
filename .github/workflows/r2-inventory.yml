@@ -13,8 +13,9 @@ concurrency: r2-inventory
 jobs:
   inventory:
     runs-on: ubuntu-latest
+    environment: automation
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262  # v4.4.0
       - name: List the bucket
         env:
           R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}

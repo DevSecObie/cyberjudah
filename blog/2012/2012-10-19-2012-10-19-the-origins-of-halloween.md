@@ -47,8 +47,6 @@ tags: ["IUIC in the ClassRoom", "angels", "women"]
 **[Isaiah 29:15-16](/bible/isaiah/29#v15)**  *[[7:56](https://www.youtube.com/watch?v=fnuC_xS6tcg&t=476s)]*
 
 > <sup>[15](/bible/isaiah/29#v15)</sup> Woe unto them that seek deep to hide their counsel from the Lord, and their works are in the dark, and they say, Who seeth us? and who knoweth us?
->
-> <sup>[16](/bible/isaiah/29#v16)</sup> Surely your turning of things upside down shall be esteemed as the potter’s clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?
 
 - Their works are in the dark: this is talking about the so-called white man. When the Israelites were enslaved during the 1400s, 1500s, 1600s, 1700s, 1800s, the white man was bringing all these holidays from England and all over the world, and the Israelites couldn't say anything against them, because they did not allow us to read or write and they had us in hard bondage and oppression.
 
@@ -59,6 +57,8 @@ tags: ["IUIC in the ClassRoom", "angels", "women"]
 - The potter's clay you can shape and form any way you want. So God says all that they've done shall be esteemed as the potter's clay: God is going to change it to his proper way. We're going to come back and reverence the Lord and celebrate his holidays, not the holidays set up by America.
 
 - When this white man introduced all these false holidays, they say God didn't make me, God didn't have nothing to do with me, we do what we want to do. They say God had no understanding, so we got to do it better.
+
+> <sup>[16](/bible/isaiah/29#v16)</sup> Surely your turning of things upside down shall be esteemed as the potter’s clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?
 
 
 **[Leviticus 18:21](/bible/leviticus/18#v21)**  *[[11:43](https://www.youtube.com/watch?v=fnuC_xS6tcg&t=703s)]*
@@ -94,10 +94,6 @@ tags: ["IUIC in the ClassRoom", "angels", "women"]
 **[Deuteronomy 18:10-12](/bible/deuteronomy/18#v10)**  *[[15:25](https://www.youtube.com/watch?v=fnuC_xS6tcg&t=925s)]*
 
 > <sup>[10](/bible/deuteronomy/18#v10)</sup> There shall not be found among you any one that maketh his son or his daughter to pass through the fire, or that useth divination, or an observer of times, or an enchanter, or a witch,
->
-> <sup>[11](/bible/deuteronomy/18#v11)</sup> Or a charmer, or a consulter with familiar spirits, or a wizard, or a necromancer.
->
-> <sup>[12](/bible/deuteronomy/18#v12)</sup> For all that do these things are an abomination unto the Lord: and because of these abominations the Lord thy God doth drive them out from before thee.
 
 - Maketh his son or his daughter to pass through the fire: that's still going with child sacrifice, which a lot of it is done on Halloween. Divination is going into witchcraft.
 
@@ -105,12 +101,24 @@ tags: ["IUIC in the ClassRoom", "angels", "women"]
 
 - An enchanter, which is the warlocks. A charmer, like the show Charmed: they give you a rabbit's foot and say this is your lucky charm. That foot didn't do the rabbit any good, so what good do you think it's going to do you? The rabbit was put to death, and you carrying the lucky rabbit's foot are going to get put to death.
 
+> <sup>[11](/bible/deuteronomy/18#v11)</sup> Or a charmer, or a consulter with familiar spirits, or a wizard, or a necromancer.
+
 - A consulter with familiar spirits: in the movie Ghost with Patrick Swayze, Whoopi Goldberg was a witch with a familiar spirit, a spirit that's familiar with you. If your aunt died, the spirit of your aunt would inhabit her and speak through her and communicate with you, like the new shows Ghost Whisperer and Medium.
 
 - A necromancer is dealing with the dead. All that do these things are an abomination to the Lord.
 
+> <sup>[12](/bible/deuteronomy/18#v12)</sup> For all that do these things are an abomination unto the Lord: and because of these abominations the Lord thy God doth drive them out from before thee.
+
 
 **[1 Samuel 28:7-20](/bible/1-samuel/28#v7)**  *[[17:51](https://www.youtube.com/watch?v=fnuC_xS6tcg&t=1071s)]*
+
+- Some of you might think that's not real, but some of that stuff is real: there is some spiritual force behind these witches, these enchanters, the observers of times, those with familiar spirits. Some of them are charlatans, meaning fakes, but there's always that one out of the 50 or 100 that's the real deal, and that's what the Most High was saying: don't deal with that.
+
+- Saul was the first king of Israel, of the tribe of Benjamin. He had an evil eye towards King David and wanted to kill David, and God removed his holy spirit from him. Brothers and sisters, if you can't get your life right according to the laws of the Most High, the Most High will take his holy spirit from you and an evil spirit will inhabit your mind.
+
+- Saul realized the Most High wasn't dealing with him no more, so he told his servants, go find me a woman who has a familiar spirit: the type of spirit that can summon other spirits familiar to the person who's speaking to her. At one time Saul was trying his best to obey the law; he was getting rid of all the witches, warlocks and enchanters and those with familiar spirits, but this woman was left.
+
+- When the woman saw Samuel, the spirit mind opened up. You can't disguise in the spirit world; everything becomes plain, as if the sun has shown on everything, so she realized this was King Saul and he had deceived her.
 
 > <sup>[7](/bible/1-samuel/28#v7)</sup> Then said Saul unto his servants, Seek me a woman that hath a familiar spirit, that I may go to her, and enquire of her. And his servants said to him, Behold, there is a woman that hath a familiar spirit at En–dor.
 >
@@ -125,7 +133,17 @@ tags: ["IUIC in the ClassRoom", "angels", "women"]
 > <sup>[12](/bible/1-samuel/28#v12)</sup> And when the woman saw Samuel, she cried with a loud voice: and the woman spake to Saul, saying, Why hast thou deceived me? for thou art Saul.
 >
 > <sup>[13](/bible/1-samuel/28#v13)</sup> And the king said unto her, Be not afraid: for what sawest thou? And the woman said unto Saul, I saw gods ascending out of the earth.
->
+
+- I saw gods ascending out of the earth: she saw the spirits of the prophets rising from the earth, the souls of the Israelites who had died being taken up before the Lord. A mantle is a covering, a cape with a hood; Saul remembered that Samuel used to always dress with a mantle.
+
+- This proves that this witch was real; she dealt in demonic activity, like some of you at home that deal with Elegua or Shango or Santeria. Samuel let him know why the Lord had left him: you have hated your brother David, you have not done the commandments of the Lord, and you have not cut off the Amalekites, which Saul was commanded to do. Thou and thy sons shall be with me tomorrow: you shall be put to death tomorrow.
+
+  Precepts:
+  - **[Psalms 82:6](/bible/psalms/82#v6)**
+    > <sup>[6](/bible/psalms/82#v6)</sup> I have said, Ye are gods; and all of you are children of the most High.
+
+    There's another scripture in Psalms where the Lord says to the Israelites ye are gods; that's what this witch saw rising up from the earth.
+
 > <sup>[14](/bible/1-samuel/28#v14)</sup> And he said unto her, What form is he of? And she said, An old man cometh up; and he is covered with a mantle. And Saul perceived that it was Samuel, and he stooped with his face to the ground, and bowed himself.
 >
 > <sup>[15](/bible/1-samuel/28#v15)</sup> And Samuel said to Saul, Why hast thou disquieted me, to bring me up? And Saul answered, I am sore distressed; for the Philistines make war against me, and God is departed from me, and answereth me no more, neither by prophets, nor by dreams: therefore I have called thee, that thou mayest make known unto me what I shall do.
@@ -140,40 +158,8 @@ tags: ["IUIC in the ClassRoom", "angels", "women"]
 >
 > <sup>[20](/bible/1-samuel/28#v20)</sup> Then Saul fell straightway all along on the earth, and was sore afraid, because of the words of Samuel: and there was no strength in him; for he had eaten no bread all the day, nor all the night.
 
-- Some of you might think that's not real, but some of that stuff is real: there is some spiritual force behind these witches, these enchanters, the observers of times, those with familiar spirits. Some of them are charlatans, meaning fakes, but there's always that one out of the 50 or 100 that's the real deal, and that's what the Most High was saying: don't deal with that.
-
-- Saul was the first king of Israel, of the tribe of Benjamin. He had an evil eye towards King David and wanted to kill David, and God removed his holy spirit from him. Brothers and sisters, if you can't get your life right according to the laws of the Most High, the Most High will take his holy spirit from you and an evil spirit will inhabit your mind.
-
-- Saul realized the Most High wasn't dealing with him no more, so he told his servants, go find me a woman who has a familiar spirit: the type of spirit that can summon other spirits familiar to the person who's speaking to her. At one time Saul was trying his best to obey the law; he was getting rid of all the witches, warlocks and enchanters and those with familiar spirits, but this woman was left.
-
-- When the woman saw Samuel, the spirit mind opened up. You can't disguise in the spirit world; everything becomes plain, as if the sun has shown on everything, so she realized this was King Saul and he had deceived her.
-
-- I saw gods ascending out of the earth: she saw the spirits of the prophets rising from the earth, the souls of the Israelites who had died being taken up before the Lord. A mantle is a covering, a cape with a hood; Saul remembered that Samuel used to always dress with a mantle.
-
-- This proves that this witch was real; she dealt in demonic activity, like some of you at home that deal with Elegua or Shango or Santeria. Samuel let him know why the Lord had left him: you have hated your brother David, you have not done the commandments of the Lord, and you have not cut off the Amalekites, which Saul was commanded to do. Thou and thy sons shall be with me tomorrow: you shall be put to death tomorrow.
-
-  Precepts:
-  - **[Psalms 82:6](/bible/psalms/82#v6)**
-    > <sup>[6](/bible/psalms/82#v6)</sup> I have said, Ye are gods; and all of you are children of the most High.
-
-    There's another scripture in Psalms where the Lord says to the Israelites ye are gods; that's what this witch saw rising up from the earth.
-
 
 **[Acts 16:16-22](/bible/acts/16#v16)**  *[[26:08](https://www.youtube.com/watch?v=fnuC_xS6tcg&t=1568s)]*
-
-> <sup>[16](/bible/acts/16#v16)</sup> And it came to pass, as we went to prayer, a certain damsel possessed with a spirit of divination met us, which brought her masters much gain by soothsaying:
->
-> <sup>[17](/bible/acts/16#v17)</sup> The same followed Paul and us, and cried, saying, These men are the servants of the most high God, which shew unto us the way of salvation.
->
-> <sup>[18](/bible/acts/16#v18)</sup> And this did she many days. But Paul, being grieved, turned and said to the spirit, I command thee in the name of Jesus Christ to come out of her. And he came out the same hour.
->
-> <sup>[19](/bible/acts/16#v19)</sup> And when her masters saw that the hope of their gains was gone, they caught Paul and Silas, and drew them into the marketplace unto the rulers,
->
-> <sup>[20](/bible/acts/16#v20)</sup> And brought them to the magistrates, saying, These men, being Jews, do exceedingly trouble our city,
->
-> <sup>[21](/bible/acts/16#v21)</sup> And teach customs, which are not lawful for us to receive, neither to observe, being Romans.
->
-> <sup>[22](/bible/acts/16#v22)</sup> And the multitude rose up together against them: and the magistrates rent off their clothes, and commanded to beat them.
 
 - You got that show with Raven Simone, That's So Raven, where she's portraying a psychic, and a lot of you young black girls and Latin girls have your children watch that.
 
@@ -187,7 +173,21 @@ tags: ["IUIC in the ClassRoom", "angels", "women"]
 
 - In church there's always some woman that goes, I'm giving you a word of knowledge from the Lord, like that dude on TV with the dreadlocks, Bishop Jordan. That's an evil spirit in these brothers and sisters.
 
+> <sup>[16](/bible/acts/16#v16)</sup> And it came to pass, as we went to prayer, a certain damsel possessed with a spirit of divination met us, which brought her masters much gain by soothsaying:
+>
+> <sup>[17](/bible/acts/16#v17)</sup> The same followed Paul and us, and cried, saying, These men are the servants of the most high God, which shew unto us the way of salvation.
+>
+> <sup>[18](/bible/acts/16#v18)</sup> And this did she many days. But Paul, being grieved, turned and said to the spirit, I command thee in the name of Jesus Christ to come out of her. And he came out the same hour.
+>
+> <sup>[19](/bible/acts/16#v19)</sup> And when her masters saw that the hope of their gains was gone, they caught Paul and Silas, and drew them into the marketplace unto the rulers,
+>
+> <sup>[20](/bible/acts/16#v20)</sup> And brought them to the magistrates, saying, These men, being Jews, do exceedingly trouble our city,
+>
+> <sup>[21](/bible/acts/16#v21)</sup> And teach customs, which are not lawful for us to receive, neither to observe, being Romans.
+
 - Customs which are not lawful for us to receive: what Paul and them were teaching was the laws of God. Wherever Paul and Barnabas and Silas and the other apostles went, they taught the laws of God in the name of Christ, and the Romans said we ain't supposed to be following the Bible laws. They were commanded to be beaten for teaching in the name of the Lord Jesus Christ the laws, statutes and commandments.
+
+> <sup>[22](/bible/acts/16#v22)</sup> And the multitude rose up together against them: and the magistrates rent off their clothes, and commanded to beat them.
 
 
 **[Acts 19:13-20](/bible/acts/19#v13)**  *[[31:14](https://www.youtube.com/watch?v=fnuC_xS6tcg&t=1874s)]*
@@ -278,21 +278,21 @@ tags: ["IUIC in the ClassRoom", "angels", "women"]
 
 **[2 Corinthians 6:16-18](/bible/2-corinthians/6#v16)**  *[[50:38](https://www.youtube.com/watch?v=fnuC_xS6tcg&t=3038s)]*
 
-> <sup>[16](/bible/2-corinthians/6#v16)</sup> And what agreement hath the temple of God with idols? for ye are the temple of the living God; as God hath said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people.
->
-> <sup>[17](/bible/2-corinthians/6#v17)</sup> Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you,
->
-> <sup>[18](/bible/2-corinthians/6#v18)</sup> And will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty.
-
 - The woman who says she repented, we can't dress up little Johnny like witches and warlocks no more: sister, that's good, but do you wear men's apparel? Because that's strange too; you got to come out of that.
 
 - All Halloween is an idolatrous practice. What agreement has the temple of God, meaning this Bible, with your celebration of idolatry? You Israelites, you black men, Latin men, Latin women and black women, you are the temple of the living God, the sons and daughters of Israel.
 
 - Come out from among these foolish holidays in America and be ye separate. Separate yourselves from all these foolish and evil customs here in America and keep the customs of the most high God.
 
+> <sup>[16](/bible/2-corinthians/6#v16)</sup> And what agreement hath the temple of God with idols? for ye are the temple of the living God; as God hath said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people.
+>
+> <sup>[17](/bible/2-corinthians/6#v17)</sup> Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you,
+
 - Saith the Lord: this ain't our word, brothers and sisters. We're telling you what thus saith the Lord.
 
 - Don't touch Halloween, because it's unclean. Oh, I don't celebrate, I just got candy and I'll give it to the children: don't touch it. Oh, I didn't join in the parade, I was just on the sidelines watching: you're still a participant. If you touch not the unclean thing, then and only then will he receive you.
+
+> <sup>[18](/bible/2-corinthians/6#v18)</sup> And will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty.
 
 
 **[Revelation 18:4](/bible/revelation/18#v4)**  *[[52:56](https://www.youtube.com/watch?v=fnuC_xS6tcg&t=3176s)]*

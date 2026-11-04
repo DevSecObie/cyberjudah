@@ -69,14 +69,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 **[Luke 5:1-3](/bible/luke/5#v1)**  *[[11:35](https://www.youtube.com/watch?v=dyhOThF5wxc&t=695s)]*
 
 > <sup>[1](/bible/luke/5#v1)</sup> And it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret,
->
-> <sup>[2](/bible/luke/5#v2)</sup> And saw two ships standing by the lake: but the fishermen were gone out of them, and were washing their nets.
->
-> <sup>[3](/bible/luke/5#v3)</sup> And he entered into one of the ships, which was Simon’s, and prayed him that he would thrust out a little from the land. And he sat down, and taught the people out of the ship.
 
 - He stood by the lake of Gennesaret: Gennesaret is a lake near Galilee, near Capernaum, okay.
 
 - As the people pressed upon him to hear the word of God: So it says they came to hear the word of God. Now that's a key note to even look at, even in verse one, because you got some people saying that the Jews rejected Christ, that's why he went to the Gentiles, that's why he went to the heathen, so on and so forth. But it says the people was pressing upon him to hear the word of God. So it's showing you that somebody is lying. It ain't the Bible. It's your pastor, it's your Catholic Church ministers, it's these apologetics. They are lying to you, you understand.
+
+> <sup>[2](/bible/luke/5#v2)</sup> And saw two ships standing by the lake: but the fishermen were gone out of them, and were washing their nets.
+>
+> <sup>[3](/bible/luke/5#v3)</sup> And he entered into one of the ships, which was Simon’s, and prayed him that he would thrust out a little from the land. And he sat down, and taught the people out of the ship.
 
 - And he entered into one of the ships, which was Simon's: He sat in one of the empty ships.
 
@@ -88,12 +88,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 **[Luke 5:4-7](/bible/luke/5#v4)**  *[[13:41](https://www.youtube.com/watch?v=dyhOThF5wxc&t=821s)]*
 
 > <sup>[4](/bible/luke/5#v4)</sup> Now when he had left speaking, he said unto Simon, Launch out into the deep, and let down your nets for a draught.
->
-> <sup>[5](/bible/luke/5#v5)</sup> And Simon answering said unto him, Master, we have toiled all the night, and have taken nothing: nevertheless at thy word I will let down the net.
->
-> <sup>[6](/bible/luke/5#v6)</sup> And when they had this done, they inclosed a great multitude of fishes: and their net brake.
->
-> <sup>[7](/bible/luke/5#v7)</sup> And they beckoned unto their partners, which were in the other ship, that they should come and help them. And they came, and filled both the ships, so that they began to sink.
 
 - Launch out into the deep: He told him launch your net out into the deep.
 
@@ -103,9 +97,15 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 
 - Let down your nets for a draught: Launch your net out into the deep. Let down your nets for a draw, a large bountiful amount of fish. That's what he telling them.
 
+> <sup>[5](/bible/luke/5#v5)</sup> And Simon answering said unto him, Master, we have toiled all the night, and have taken nothing: nevertheless at thy word I will let down the net.
+
 - Master, we have toiled all the night, and have taken nothing: nevertheless at thy word I will let down the net: They say, man, we've been fishing all night, we ain't caught nothing, but at your word we're going to do the work. Watch this, read.
 
+> <sup>[6](/bible/luke/5#v6)</sup> And when they had this done, they inclosed a great multitude of fishes: and their net brake.
+
 - They inclosed a great multitude of fishes: and their net brake: They did what? They enclosed a great multitude of fishes. And they net broke. So understand, understand, all these things, all this history has deeper underlying meanings. I'm going to touch on some of it in a second, but I want y'all to just follow me for a moment. Read on, watch this, verse seven.
+
+> <sup>[7](/bible/luke/5#v7)</sup> And they beckoned unto their partners, which were in the other ship, that they should come and help them. And they came, and filled both the ships, so that they began to sink.
 
 - And they came, and filled both the ships, so that they began to sink: There was so many fish that both of the ships began to sink.
 
@@ -308,8 +308,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 **[Luke 5:12-13](/bible/luke/5#v12)**  *[[44:21](https://www.youtube.com/watch?v=dyhOThF5wxc&t=2661s)]*
 
 > <sup>[12](/bible/luke/5#v12)</sup> And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on his face, and besought him, saying, Lord, if thou wilt, thou canst make me clean.
->
-> <sup>[13](/bible/luke/5#v13)</sup> And he put forth his hand, and touched him, saying, I will: be thou clean. And immediately the leprosy departed from him.
 
 - Behold a man full of leprosy: Full of what? Leprosy. So it says it was a man who was full of leprosy. What is leprosy? What does that even mean? What is that going into? I'm going show you that. Go to Exodus 4, Exodus 4 and verse 6. This man was full of leprosy. That was a white man. I'm going prove that to you. Leprosy is when your skin go from being its brown flesh to white flesh. I'm going to prove it to you. Leprosy is a curse. Having white skin is not fun. Having white skin ain't right. I'm going show you that. Exodus 4. It's a plague, it's a disease. Exodus 4:6.
 
@@ -329,14 +327,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 
     And, behold, Miriam: Miriam, who was just running her big mouth. Miriam became leprous: Became what? Leprous. Read. White as snow: No, no, no, she was wrinkly and pimply? White as snow. No, she had Legions and pimples? White as snow. No, she had bumps and boils? White as snow. It said white as snow, white as snow. That's what it means to be leprous. Watch this. Let's see if she was like, oh joy, oh joy, I've been blessed. Let's see what she said. Read. Let her not be as one dead: What is the Edomite? Let her not be as one dead. What is the Caucasian race? Let her not be as one dead. They look dead. They look like ghosts, they look ghoulish. You can see they blue and green veins through their skin, you can see the blood flowing through their skin. Call one of them an Edomite and watch how red they get. They already red, they gonna turn burgundy. Watch. Read. Of whom the flesh is half consumed: They got no melanin. They wasted away. Is he, that's what Esau mean. Read. When he cometh out of his mother's womb: Now, now, now, now let's go back, let's deal with the leper brother. So this brother's skin turned from brown to white and he don't like that. He want to be healed, all praises. He was in his rightful mind. I don't know about today. I don't know what's wrong with my people today. Read.
 
+> <sup>[13](/bible/luke/5#v13)</sup> And he put forth his hand, and touched him, saying, I will: be thou clean. And immediately the leprosy departed from him.
+
 
 **[Luke 5:12-13](/bible/luke/5#v12)**  *[[48:53](https://www.youtube.com/watch?v=dyhOThF5wxc&t=2933s)]*
 
 > <sup>[12](/bible/luke/5#v12)</sup> And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on his face, and besought him, saying, Lord, if thou wilt, thou canst make me clean.
->
-> <sup>[13](/bible/luke/5#v13)</sup> And he put forth his hand, and touched him, saying, I will: be thou clean. And immediately the leprosy departed from him.
 
 - Lord, if thou wilt, thou canst make me clean: If you will, thou can make me clean, cuz having white skin makes you unclean. That's a plague. White skin is unclean. He want to be cleansed of that.
+
+> <sup>[13](/bible/luke/5#v13)</sup> And he put forth his hand, and touched him, saying, I will: be thou clean. And immediately the leprosy departed from him.
 
 - And he put forth his hand, and touched him, saying, I will: be thou clean: That's some power right there. He just touched him and said I will, be clean.
 
@@ -404,10 +404,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 **[Luke 5:14-15](/bible/luke/5#v14)**  *[[56:46](https://www.youtube.com/watch?v=dyhOThF5wxc&t=3406s)]*
 
 > <sup>[14](/bible/luke/5#v14)</sup> And he charged him to tell no man: but go, and shew thyself to the priest, and offer for thy cleansing, according as Moses commanded, for a testimony unto them.
->
-> <sup>[15](/bible/luke/5#v15)</sup> But so much the more went there a fame abroad of him: and great multitudes came together to hear, and to be healed by him of their infirmities.
 
 - And he charged him to tell no man: Tell no man. Why? Because he made himself of no reputation. A bruised reed shall he not break. He shall not lift up his voice or cry.
+
+> <sup>[15](/bible/luke/5#v15)</sup> But so much the more went there a fame abroad of him: and great multitudes came together to hear, and to be healed by him of their infirmities.
 
 - But so much the more went there a fame abroad of him: What it say? But so much the more went there a fame abroad of him. The more Christ was telling Israel to be quiet, don't tell nobody, so much more there went a fame abroad. Y'all know Israel can't keep a secret. Read.
 

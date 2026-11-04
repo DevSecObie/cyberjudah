@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 16"
 slug: "2026/2026-02-24-giving-the-sense-from-a-to-z-1-corinthians-16"
 date: "2026-02-24"
-teacher: "Captain Mattathias"
+teacher: "Captain Matthew"
 description: "Giving The Sense From A to Z · 2026-02-24"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "false-religion", "love", "money", "youth"]
@@ -87,14 +87,14 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "love", "money", "youth"]
 **[1 Corinthians 16:3-4](/bible/1-corinthians/16#v3)**  *[[11:51](https://www.youtube.com/watch?v=EtmX4oPoq48&t=711s)]*
 
 > <sup>[3](/bible/1-corinthians/16#v3)</sup> And when I come, whomsoever ye shall approve by your letters, them will I send to bring your liberality unto Jerusalem.
->
-> <sup>[4](/bible/1-corinthians/16#v4)</sup> And if it be meet that I go also, they shall go with me.
 
 - Them will I send to bring your liberality unto Jerusalem: Meaning your gifts, your collections. Because everybody went, just like New York is the headquarters. Back in the day, Jerusalem was the headquarters. And they got all of these different churches and all of these different areas, but eventually they all answered to Jerusalem cuz that's where the apostles were. It's where the elders were. All right?
 
 - Whomsoever ye shall approve by your letters: And it said that whoever they sent, because not everybody was trusted to go with the money. I mean, you got a whole lot of money on you. If you got the devil on you, that money is gone. One example of that is Judas. Because they had to have trusted men that were going to take the funds to Jerusalem. They had to be trusted that they wouldn't steal it, that they wouldn't be deceitful in the amount that they would take, one bag of money from here to over there and give it to who it was supposed to go to.
 
 - So whoever was sent with that bag of money had to be trusted. Had to be trusted. A trusted man and trusted men back in the church to deal with the money, but a trusted man to make that journey that Paul told him to make from Corinth to Jerusalem.
+
+> <sup>[4](/bible/1-corinthians/16#v4)</sup> And if it be meet that I go also, they shall go with me.
 
 - And if it be meet that I go also, they shall go with me: So if he needed to go to Jerusalem at that time, then whoever got the bag, they coming with me. So either way, the bag is going to make it to Jerusalem. Paul is going to make sure of it.
 
@@ -142,14 +142,14 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "love", "money", "youth"]
 > <sup>[7](/bible/1-corinthians/16#v7)</sup> For I will not see you now by the way; but I trust to tarry a while with you, if the Lord permit.
 >
 > <sup>[8](/bible/1-corinthians/16#v8)</sup> But I will tarry at Ephesus until Pentecost.
->
-> <sup>[9](/bible/1-corinthians/16#v9)</sup> For a great door and effectual is opened unto me, and there are many adversaries.
 
 - But I will tarry at Ephesus until Pentecost: So he said he was going to come see them and then he was going to go to Ephesus until Pentecost.
 
 - So he said he was going to chill in Ephesus until Pentecost because he wanted to make it back to Jerusalem. Why? Because three times in a year must all the males appear before the Lord. So he wanted to be in Jerusalem for Pentecost if that was the Lord's will. So he stayed in Ephesus.
 
 - These are the correlations that you have to make when you're reading the book of Acts and when you're reading the letters of Paul because a lot of the details are split between either the letter and the book of Acts. The book of Acts is the history of the New Testament. You can't understand Paul's letter if you don't understand Acts. Really can't. You can't understand Acts if you don't understand the prophets and the law because that's all it was. That was the big argument.
+
+> <sup>[9](/bible/1-corinthians/16#v9)</sup> For a great door and effectual is opened unto me, and there are many adversaries.
 
 - For a great door and effectual is opened unto me: So what is that great door and effectual? So that utterance was the ability to teach the gospel to other Israelites. That door of utterance, meaning it was an opportunity for them to go to a different place and teach the gospel. So he was letting them know that a great door and effectual is open unto me. Meaning I got an opportunity to spread this gospel further.
 
@@ -169,14 +169,14 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "love", "money", "youth"]
 **[1 Corinthians 16:10-11](/bible/1-corinthians/16#v10)**  *[[20:55](https://www.youtube.com/watch?v=EtmX4oPoq48&t=1255s)]*
 
 > <sup>[10](/bible/1-corinthians/16#v10)</sup> Now if Timotheus come, see that he may be with you without fear: for he worketh the work of the Lord, as I also do.
->
-> <sup>[11](/bible/1-corinthians/16#v11)</sup> Let no man therefore despise him: but conduct him forth in peace, that he may come unto me: for I look for him with the brethren.
 
 - Now if Timotheus come, see that he may be with you without fear: Now you know Timothy was near and dear to Paul. Timothy was like a son to Paul.
 
 - So Paul called Timothy his own son in the faith. Why? Because Timothy had history. Timothy's mother and grandmother was known by Paul. They had a good spirit on them. Paul's father was an unbeliever. Paul circumcised Timothy and Timothy was a fiery young man underneath Paul. So Paul looked out for them and he told the church in Corinth to not let Timothy be there without fear.
 
 - So the same thing he told Corinth, let Timothy be with you without fear. Make sure he's with you without fear. He told Timothy himself, God didn't give us the spirit of fear. So if you're feeling fear, that's not the spirit of God. Stir up that faith unfeigned that your grandmother and your mother had. You got the same gift. He was giving them words of encouragement.
+
+> <sup>[11](/bible/1-corinthians/16#v11)</sup> Let no man therefore despise him: but conduct him forth in peace, that he may come unto me: for I look for him with the brethren.
 
 - Let no man therefore despise him: Now, what is he talking about? Let no man despise him.
 
@@ -245,14 +245,14 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "love", "money", "youth"]
 **[1 Corinthians 16:15-16](/bible/1-corinthians/16#v15)**  *[[29:56](https://www.youtube.com/watch?v=EtmX4oPoq48&t=1796s)]*
 
 > <sup>[15](/bible/1-corinthians/16#v15)</sup> I beseech you, brethren, (ye know the house of Stephanas, that it is the firstfruits of Achaia, and that they have addicted themselves to the ministry of the saints,)
->
-> <sup>[16](/bible/1-corinthians/16#v16)</sup> That ye submit yourselves unto such, and to every one that helpeth with us, and laboureth.
 
 - The house of Stephanas, that it is the firstfruits of Achaia, and that they have addicted themselves to the ministry of the saints: Achaia is the area that Corinth was in and they were the first fruits of Achaia and they addicted themselves to the gospel and that's what a lot of us have to do today. A lot of us were once addicted to it.
 
 - Because a lot of us, we haven't addicted ourselves to the ministry. Not the way that we should. When you first came into the truth and you was watching videos all day and you had all manner of information, your Bible stayed open. There was no sleepy spirit that came on you when you first came into the truth. When you first came into this knowledge, you would sit and read all day, look at this book all day and be excited. You have to addict yourself to this ministry. And that's what they did back then. This is also what Christ told the church of Ephesus as well.
 
 - So the first works was addicting yourselves to the ministry. Your first works was that zeal that you had when you first understood that we Israel. That zeal that you had when you first understood that, man, all our enemies going into captivity. We the Israelites, we going to take over this world. We got to go back to that spirit. We got to go back to that spirit. We have to addict ourselves to this ministry.
+
+> <sup>[16](/bible/1-corinthians/16#v16)</sup> That ye submit yourselves unto such, and to every one that helpeth with us, and laboureth.
 
 - That ye submit yourselves unto such, and to every one that helpeth with us, and laboureth: Meaning they the first fruits. You got to listen to them. They was here before you. They addicted themselves to the ministry. They got the spirit of God on them. They put in the work.
 

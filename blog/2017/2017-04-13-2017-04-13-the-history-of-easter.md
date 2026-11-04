@@ -24,25 +24,25 @@ tags: ["IUIC in the ClassRoom", "christ", "heaven-hell", "passover-feasts", "the
 
 **[Acts 12:1-4](/bible/acts/12#v1)**  *[[2:01](https://www.youtube.com/watch?v=dtuO8xMa8Ls&t=121s)]*
 
-> <sup>[1](/bible/acts/12#v1)</sup> Now about that time Herod the king stretched forth his hands to vex certain of the church.
->
-> <sup>[2](/bible/acts/12#v2)</sup> And he killed James the brother of John with the sword.
->
-> <sup>[3](/bible/acts/12#v3)</sup> And because he saw it pleased the Jews, he proceeded further to take Peter also. (Then were the days of unleavened bread.)
->
-> <sup>[4](/bible/acts/12#v4)</sup> And when he had apprehended him, he put him in prison, and delivered him to four quaternions of soldiers to keep him; intending after Easter to bring him forth to the people.
-
 - **Host:** We've been deceived by the devil, to the extent that what we call Christianity today has shown a lot of deception, and a lot of our brothers and sisters have been soaked in it. They have given us a lot of philosophy, like Christmas, like Easter. Today we are going to treat the origin of Easter: whether Easter is of a pagan origin or something that is from the Bible. As the Bible says, prove everything.
 
 - Easter is of pagan origin, and we shall prove that. When we open up Acts 12, it is the first time in the Bible that you will read the word Easter in the King James Version Bible.
 
 - As many of you know, Herod was an Edomite, an Idumean who had converted to Judaism.
 
+> <sup>[1](/bible/acts/12#v1)</sup> Now about that time Herod the king stretched forth his hands to vex certain of the church.
+>
+> <sup>[2](/bible/acts/12#v2)</sup> And he killed James the brother of John with the sword.
+>
+> <sup>[3](/bible/acts/12#v3)</sup> And because he saw it pleased the Jews, he proceeded further to take Peter also. (Then were the days of unleavened bread.)
+
 - Then were the days of unleavened bread: so it's telling you the holiday that the Jews, the apostles of Christ, celebrated. It was during the days of unleavened bread, which is also called the Passover.
 
 - That is the only time you read in the King James Version Bible the word Easter. It's only that one time written like that in the Bible.
 
 - So when we read it according to verse 3, did the apostles of Christ celebrate it? No. This is the same holiday that Christ observed when he was captured, sometime earlier: the Feast of Unleavened Bread.
+
+> <sup>[4](/bible/acts/12#v4)</sup> And when he had apprehended him, he put him in prison, and delivered him to four quaternions of soldiers to keep him; intending after Easter to bring him forth to the people.
 
 
 **[Luke 22:1](/bible/luke/22#v1)**  *[[4:02](https://www.youtube.com/watch?v=dtuO8xMa8Ls&t=242s)]*

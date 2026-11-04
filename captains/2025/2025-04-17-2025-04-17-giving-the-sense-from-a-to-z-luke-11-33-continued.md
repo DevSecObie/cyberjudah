@@ -45,14 +45,12 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "the-law"]
 **[Titus 2:6-8](/bible/titus/2#v6)**  *[[4:30](https://www.youtube.com/watch?v=wuvVUyOndKY&t=270s)]*
 
 > <sup>[6](/bible/titus/2#v6)</sup> Young men likewise exhort to be sober minded.
->
-> <sup>[7](/bible/titus/2#v7)</sup> In all things shewing thyself a pattern of good works: in doctrine shewing uncorruptness, gravity, sincerity,
->
-> <sup>[8](/bible/titus/2#v8)</sup> Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.
 
 - Young men likewise: What? Young men likewise. So look, the Bible is addressing the young men. I'm going to tell you straight. It says young men likewise. Watch this.
 
 - Exhort to be sober minded: So we got to exalt. We got to fight to be sober minded. Look at all oppression going on. The Bible says you got to exhort to be sober minded.
+
+> <sup>[7](/bible/titus/2#v7)</sup> In all things shewing thyself a pattern of good works: in doctrine shewing uncorruptness, gravity, sincerity,
 
 - In all things: In what? In all things. No, some things. All things. So, in all things, what?
 
@@ -64,6 +62,8 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "the-law"]
 
 - Sincerity: And we got to be sincere. Our word is our bond.
 
+> <sup>[8](/bible/titus/2#v8)</sup> Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.
+
 - Sound speech: Sound speech. Like we can't just be out there cussing up a storm, cussing people out, talking all manners of sexual luddenness.
 
 - Sound speech, that cannot be condemned: So these things you got to do when nobody can speak evil. Watch this.
@@ -74,10 +74,10 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "the-law"]
 **[Luke 11:33-34](/bible/luke/11#v33)**  *[[6:50](https://www.youtube.com/watch?v=wuvVUyOndKY&t=410s)]*
 
 > <sup>[33](/bible/luke/11#v33)</sup> No man, when he hath lighted a candle, putteth it in a secret place, neither under a bushel, but on a candlestick, that they which come in may see the light.
->
-> <sup>[34](/bible/luke/11#v34)</sup> The light of the body is the eye: therefore when thine eye is single, thy whole body also is full of light; but when thine eye is evil, thy body also is full of darkness.
 
 - No man when he hath lighted a candle putteth it in a secret place, neither under a bushel, but on a candlestick, that they which come in may see the light: So we got to be a good example once we come into this truth.
+
+> <sup>[34](/bible/luke/11#v34)</sup> The light of the body is the eye: therefore when thine eye is single, thy whole body also is full of light; but when thine eye is evil, thy body also is full of darkness.
 
 - The light of the body is the eye: So the light of the body is the eye.
 
@@ -89,14 +89,14 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "the-law"]
 **[Isaiah 60:1-2](/bible/isaiah/60#v1)**  *[[7:36](https://www.youtube.com/watch?v=wuvVUyOndKY&t=456s)]*
 
 > <sup>[1](/bible/isaiah/60#v1)</sup> Arise, shine; for thy light is come, and the glory of the Lord is risen upon thee.
->
-> <sup>[2](/bible/isaiah/60#v2)</sup> For, behold, the darkness shall cover the earth, and gross darkness the people: but the Lord shall arise upon thee, and his glory shall be seen upon thee.
 
 - Arise, shine: Oh, do what? Arise, shine. Shine. That mean what? What we read in Luke 11:33. This is let you know that this is talking about the law being a righteous example.
 
 - For thy light is come: Thy light is come. Meaning what? The understanding of the scriptures, the Holy Spirit of Christ on us, showing us the proper way in these latter days on how to live and conduct ourselves.
 
 - And the glory of the Lord is risen upon thee: So they see that exceeding army standing upon their feet. The world looking like, "Hold on. Who them brothers out there?" These brothers is everywhere teaching the word of God out there in the public platforms, casting down all manners of imagination.
+
+> <sup>[2](/bible/isaiah/60#v2)</sup> For, behold, the darkness shall cover the earth, and gross darkness the people: but the Lord shall arise upon thee, and his glory shall be seen upon thee.
 
 - For behold, the darkness shall cover the earth: See that right? The darkness is covering the earth.
 
@@ -110,12 +110,12 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "the-law"]
 **[Luke 11:34-35](/bible/luke/11#v34)**  *[[9:45](https://www.youtube.com/watch?v=wuvVUyOndKY&t=585s)]*
 
 > <sup>[34](/bible/luke/11#v34)</sup> The light of the body is the eye: therefore when thine eye is single, thy whole body also is full of light; but when thine eye is evil, thy body also is full of darkness.
->
-> <sup>[35](/bible/luke/11#v35)</sup> Take heed therefore that the light which is in thee be not darkness.
 
 - The light of the body is the eye: therefore when thine eye is single, thy whole body also is full of light: Meaning what? That's the glory of the Lord that's risen upon us. We just read that in Isaiah 60.
 
 - But when thine eye is evil, thy body also is full of darkness: But when your eye or your mind is evil, thy body also is full of darkness. That's the darkness that we read about.
+
+> <sup>[35](/bible/luke/11#v35)</sup> Take heed therefore that the light which is in thee be not darkness.
 
 - Take heed therefore that the light which is in thee be not darkness: You see that? Take heed therefore that the light that is in you be not darkness. Give me the light in Proverbs 6:23. Meaning what? We can't come around here and corrupt the law, teach against the scriptures, or live contrary to the scriptures and think we going to get the kingdom of heaven.
 
@@ -159,22 +159,22 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "the-law"]
 **[Ephesians 4:29-32](/bible/ephesians/4#v29)**  *[[14:10](https://www.youtube.com/watch?v=wuvVUyOndKY&t=850s)]*
 
 > <sup>[29](/bible/ephesians/4#v29)</sup> Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.
->
-> <sup>[30](/bible/ephesians/4#v30)</sup> And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.
->
-> <sup>[31](/bible/ephesians/4#v31)</sup> Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:
->
-> <sup>[32](/bible/ephesians/4#v32)</sup> And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you.
 
 - Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying: So that evil communication can proceed out of our mouth. The Lord doesn't want that. He wants us to have the righteous communication. Watch.
 
 - That it may minister grace unto the hearers: So the things that we got to speak, we got to build one another up. We got to exalt one another. We have to speak the words of God, cuz outside of this truth, it's all evil. That's why we have to always speak in the scriptures.
+
+> <sup>[30](/bible/ephesians/4#v30)</sup> And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.
 
 - And grieve not the Holy Spirit of God: So when you have corrupt communications coming out of your mouth, you grieve the Holy Spirit. That's how your light can become darkness. Now all of a sudden you back talking about getting drunk. You back talking about hitting the hose. You back talking about hitting a blunt. That's how you grieve the Holy Spirit. Read that again. And grieve not the Holy Spirit of God. We do that by the evil communication that can proceed out of our mouth.
 
 - Whereby ye are sealed unto the day of redemption: So look, we come into this truth. That's how you get sealed. By enduring in this truth. Don't throw that away by evil communications.
 
 - Let all bitterness and wrath and anger and clamor and evil speaking be put away from you with all matter: Meaning what? We got to despise those things. Those things that we was doing in the world, the evil communication, the malice, the hatred, the evil eye, we got to put that away.
+
+> <sup>[31](/bible/ephesians/4#v31)</sup> Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:
+>
+> <sup>[32](/bible/ephesians/4#v32)</sup> And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you.
 
 - And be ye kind one to another: You see that? We got to be kind one to another. That's totally opposite of how we treat one another in the black and Latin community. We not kind to one another.
 
@@ -213,10 +213,10 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "the-law"]
 **[Luke 11:35-36](/bible/luke/11#v35)**  *[[18:33](https://www.youtube.com/watch?v=wuvVUyOndKY&t=1113s)]*
 
 > <sup>[35](/bible/luke/11#v35)</sup> Take heed therefore that the light which is in thee be not darkness.
->
-> <sup>[36](/bible/luke/11#v36)</sup> If thy whole body therefore be full of light, having no part dark, the whole shall be full of light, as when the bright shining of a candle doth give thee light.
 
 - Take heed therefore that the light which is in thee be not darkness: So that's how we take heed that our light becomes not darkness. Abstaining from evil communications. Not meditating on evil thoughts. Not sitting there meditating on the evil eye toward a brother or sister. Not meditating on adultery, because guess what? We meditating in the law. That's how we take heed and make sure our light doesn't become darkness.
+
+> <sup>[36](/bible/luke/11#v36)</sup> If thy whole body therefore be full of light, having no part dark, the whole shall be full of light, as when the bright shining of a candle doth give thee light.
 
 - If thy whole body therefore be full of light, having no part dark, the whole shall be full of light: Meaning what? That's you meditating on the word. You're not going to be out here in any presumptuous sin. That doesn't mean you're not going to make a mistake, but you're not going to be in any presumptuous sin. Bishop Kani made a great point. He said, "It's hard to sin when you in the scriptures." That's how we avoid presumptuous sin. Read that again.
 
@@ -232,12 +232,6 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "the-law"]
 **[Luke 11:36-39](/bible/luke/11#v36)**  *[[21:27](https://www.youtube.com/watch?v=wuvVUyOndKY&t=1287s)]*
 
 > <sup>[36](/bible/luke/11#v36)</sup> If thy whole body therefore be full of light, having no part dark, the whole shall be full of light, as when the bright shining of a candle doth give thee light.
->
-> <sup>[37](/bible/luke/11#v37)</sup> And as he spake, a certain Pharisee besought him to dine with him: and he went in, and sat down to meat.
->
-> <sup>[38](/bible/luke/11#v38)</sup> And when the Pharisee saw it, he marvelled that he had not first washed before dinner.
->
-> <sup>[39](/bible/luke/11#v39)</sup> And the Lord said unto him, Now do ye Pharisees make clean the outside of the cup and the platter; but your inward part is full of ravening and wickedness.
 
 - If thy whole body therefore be full of light, having no part dark, the whole shall be full of light, as when the bright shining of a candle doth give thee light: Christ is schooling us right here.
 
@@ -246,6 +240,12 @@ tags: ["15 Minutes w/ The Captains", "prophecy", "the-law"]
 - And he went in, and sat down to meet. And when the Pharisees saw it, he marvelled that he had not first washed before dinner: So the Pharisee is marveling because he hearing the wisdom of Christ, but now he's marveling the fact that Christ didn't sit down and do all the washings and the customs and all these things. Like when you look, it's almost like when you see a doctor washing his hands. He doing all this and doing all that. Christ wasn't doing all that, because what was going on is that the Pharisees took this oral tradition, if you will, and put it above the commandments, the laws that was given. Read it from the top.
 
 - And the Lord said unto him, Now do ye Pharisees make clean the outside of the cup and the plotted: So they washed the outside. They look good and clean on the outside.
+
+> <sup>[37](/bible/luke/11#v37)</sup> And as he spake, a certain Pharisee besought him to dine with him: and he went in, and sat down to meat.
+>
+> <sup>[38](/bible/luke/11#v38)</sup> And when the Pharisee saw it, he marvelled that he had not first washed before dinner.
+>
+> <sup>[39](/bible/luke/11#v39)</sup> And the Lord said unto him, Now do ye Pharisees make clean the outside of the cup and the platter; but your inward part is full of ravening and wickedness.
 
 - But your inward part is full of ravening and wickedness: It says, "But the inward part is full of ravening and wickedness." What does that mean? Pull up that definition of ravening. I sent that over so we understand, cuz these are words that aren't common today in today's language.
 
@@ -290,10 +290,6 @@ Reading from On-screen definition of voracious  *[[24:28](https://www.youtube.co
 **[Isaiah 56:10-12](/bible/isaiah/56#v10)**  *[[25:23](https://www.youtube.com/watch?v=wuvVUyOndKY&t=1523s)]*
 
 > <sup>[10](/bible/isaiah/56#v10)</sup> His watchmen are blind: they are all ignorant, they are all dumb dogs, they cannot bark; sleeping, lying down, loving to slumber.
->
-> <sup>[11](/bible/isaiah/56#v11)</sup> Yea, they are greedy dogs which can never have enough, and they are shepherds that cannot understand: they all look to their own way, every one for his gain, from his quarter.
->
-> <sup>[12](/bible/isaiah/56#v12)</sup> Come ye, say they, I will fetch wine, and we will fill ourselves with strong drink; and to morrow shall be as this day, and much more abundant.
 
 - His watchmen are blind: So the watchmen of the scribes and Pharisees, or your modern day pastors today, Isaiah said they are blind. Mean what? They can't see what's going on in the scriptures. They don't know who we are and why we go through the things that we go through as a people.
 
@@ -305,11 +301,15 @@ Reading from On-screen definition of voracious  *[[24:28](https://www.youtube.co
 
 - Yay. They are greedy dogs: They are what? They are greedy dogs. The Bible says they are greedy dogs.
 
+> <sup>[11](/bible/isaiah/56#v11)</sup> Yea, they are greedy dogs which can never have enough, and they are shepherds that cannot understand: they all look to their own way, every one for his gain, from his quarter.
+
 - Which can never have enough: You see that? That's that voracious appetite. That's that ravening. What Christ said, they are full of ravening and wickedness. They can never have enough. That's what's being said.
 
 - And they are shepherds that cannot understand: they all look to their own way: They all look to their own way. They don't look to the ways of the Lord. They look to establish their own way.
 
 - Everyone for his gain. From his quarter: Meaning what? Everyone for his own gain. From his quarter. Meaning what? His church, his congregation, his denomination.
+
+> <sup>[12](/bible/isaiah/56#v12)</sup> Come ye, say they, I will fetch wine, and we will fill ourselves with strong drink; and to morrow shall be as this day, and much more abundant.
 
 - Come ye, say they, I will fetch wine, and we will fill ourselves with strong drink: Meaning lies.
 
@@ -321,12 +321,6 @@ Reading from On-screen definition of voracious  *[[24:28](https://www.youtube.co
 > <sup>[1](/bible/ezekiel/34#v1)</sup> And the word of the Lord came unto me, saying,
 >
 > <sup>[2](/bible/ezekiel/34#v2)</sup> Son of man, prophesy against the shepherds of Israel, prophesy, and say unto them, Thus saith the Lord God unto the shepherds; Woe be to the shepherds of Israel that do feed themselves! should not the shepherds feed the flocks?
->
-> <sup>[3](/bible/ezekiel/34#v3)</sup> Ye eat the fat, and ye clothe you with the wool, ye kill them that are fed: but ye feed not the flock.
->
-> <sup>[4](/bible/ezekiel/34#v4)</sup> The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up that which was broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them.
->
-> <sup>[5](/bible/ezekiel/34#v5)</sup> And they were scattered, because there is no shepherd: and they became meat to all the beasts of the field, when they were scattered.
 
 - And the word of the Lord came unto me, saying, Son of man, prophesy against the shepherds of Israel: You see what the Lord commanded? He said, prophesy against the shepherds of Israel. That's why y'all see the brothers in the purple and gold going out there with the church blitzes. Going out there standing up against the evil, because the Lord told us to do that. Read that again, cuz a lot of people wonder why they doing all that. So the Lord told us to do it, brother.
 
@@ -336,15 +330,21 @@ Reading from On-screen definition of voracious  *[[24:28](https://www.youtube.co
 
 - Should not the shepherds feed the flocks: Hold on. Shouldn't the shepherd feed the flock? When you ever seen the sheep feeding the shepherd? Come on, man. Read.
 
+> <sup>[3](/bible/ezekiel/34#v3)</sup> Ye eat the fat, and ye clothe you with the wool, ye kill them that are fed: but ye feed not the flock.
+
 - Ye eat the fat, and ye clothe you with the wool: So they eat the finest food. They got the best linen on. They got the Louis Vuitton. They got the Tom Ford suits on.
 
 - Ye kill them that are fed: but ye feed not the flock. The diseased have ye not strengthened: So they haven't healed the sick of our people.
 
 - Neither have you healed that which was sick. Neither have you bound up that which was broken. Neither have you brought again that which was driven away: So they have not gathered the 12 tribes back together. They scattered and said, "No, no, no. Y'all ain't the Israelites. Y'all Gentiles." That's what they doing.
 
+> <sup>[4](/bible/ezekiel/34#v4)</sup> The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up that which was broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them.
+
 - Neither have ye sought that which was lost: Hold on. Neither have ye sought that which was lost. That's why Christ said, "I come to save that which was lost." That's talking about us.
 
 - But with force and with cruelty have he ruled them: See, they rule over our people with force and cruelty. Passed down by who? The white man.
+
+> <sup>[5](/bible/ezekiel/34#v5)</sup> And they were scattered, because there is no shepherd: and they became meat to all the beasts of the field, when they were scattered.
 
 - And they were scattered, because there is no shepherd: So our people are scattered throughout all these various denominations and religious doctrines.
 
@@ -354,8 +354,6 @@ Reading from On-screen definition of voracious  *[[24:28](https://www.youtube.co
 **[Micah 3:11-12](/bible/micah/3#v11)**  *[[30:35](https://www.youtube.com/watch?v=wuvVUyOndKY&t=1835s)]*
 
 > <sup>[11](/bible/micah/3#v11)</sup> The heads thereof judge for reward, and the priests thereof teach for hire, and the prophets thereof divine for money: yet will they lean upon the Lord, and say, Is not the Lord among us? none evil can come upon us.
->
-> <sup>[12](/bible/micah/3#v12)</sup> Therefore shall Zion for your sake be plowed as a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of the forest.
 
 - The heads thereof judge for reward: So you seeing all these things prophesied. Christ was dealing with the same thing back in Luke, dealing with these pastors with this excessive, voracious appetite to devour the people.
 
@@ -367,6 +365,8 @@ Reading from On-screen definition of voracious  *[[24:28](https://www.youtube.co
 
 - None evil can come upon us: And our people think, "Can't no evil happen to them because they living so lavish?" Surely the Lord got to be dealing with them, oh country.
 
+> <sup>[12](/bible/micah/3#v12)</sup> Therefore shall Zion for your sake be plowed as a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of the forest.
+
 - Therefore shall Zion for your sake be plowed as a field: You see that? Our homeland was made desolate.
 
 - And Jerusalem shall become heaps: And Jerusalem, it now is trotten down under the Gentiles.
@@ -377,10 +377,10 @@ Reading from On-screen definition of voracious  *[[24:28](https://www.youtube.co
 **[Luke 11:39-40](/bible/luke/11#v39)**  *[[32:52](https://www.youtube.com/watch?v=wuvVUyOndKY&t=1972s)]*
 
 > <sup>[39](/bible/luke/11#v39)</sup> And the Lord said unto him, Now do ye Pharisees make clean the outside of the cup and the platter; but your inward part is full of ravening and wickedness.
->
-> <sup>[40](/bible/luke/11#v40)</sup> Ye fools, did not he that made that which is without make that which is within also?
 
 - And the Lord said unto him, Now do ye Pharisees make clean the outside of the cup and the platter; but your inward part is full of ravening and wickedness: Come on.
+
+> <sup>[40](/bible/luke/11#v40)</sup> Ye fools, did not he that made that which is without make that which is within also?
 
 - Ye fools, did not he that made that which is without make that which is within also: Didn't God make the body and soul? So why put the emphasis on cleaning the body and not cleaning the soul? That's what Christ is basically asking them. Why? Give me Jeremiah 2 and 22. Because they put the emphasis on washing of the hands, washing the pots, all this outward appearance. But Christ is saying, "Hey, you dudes is wicked as hell on the inside. The outside is clean, but the inside is filthy."
 
@@ -393,15 +393,15 @@ Reading from On-screen definition of voracious  *[[24:28](https://www.youtube.co
 
 **[Psalms 119:9-10](/bible/psalms/119#v9)**  *[[34:27](https://www.youtube.com/watch?v=wuvVUyOndKY&t=2067s)]*
 
-> <sup>[9](/bible/psalms/119#v9)</sup> Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word.
->
-> <sup>[10](/bible/psalms/119#v10)</sup> With my whole heart have I sought thee: O let me not wander from thy commandments.
-
 - Wherewith shall a young man cleanse his ways: So shall a young man cleanse his ways by washing his hands and doing all that? Pull that up. Cuz this what our people think. That's what it is right there. That's the scribes and Pharisees, how they wash their hands and do all that, all up to the elbow. He just eating some rinse crackers and wash up for about a half hour to eat three crackers. Take that off the screen. That's what's going on. So, how can we get cleansed? Do we wash our hands up to our elbows? Run the running water on our hands? Read it from the top. Watch this.
 
 - Wherewith shall a young man cleanse his way: So the Bible is dealing with us. It said, young man, how do you cleanse your ways, brother? Watch this.
 
+> <sup>[9](/bible/psalms/119#v9)</sup> Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word.
+
 - By taking heed thereto according to thy word: By taking heed according to thy word. Read verse 10.
+
+> <sup>[10](/bible/psalms/119#v10)</sup> With my whole heart have I sought thee: O let me not wander from thy commandments.
 
 - With my whole heart: With what? With my whole heart. With my whole heart. Meaning the light of thy eye be single. Meaning what? I'm focused on the scriptures.
 
@@ -417,33 +417,27 @@ Reading from On-screen definition of voracious  *[[24:28](https://www.youtube.co
 **[Luke 11:40-41](/bible/luke/11#v40)**  *[[36:45](https://www.youtube.com/watch?v=wuvVUyOndKY&t=2205s)]*
 
 > <sup>[40](/bible/luke/11#v40)</sup> Ye fools, did not he that made that which is without make that which is within also?
->
-> <sup>[41](/bible/luke/11#v41)</sup> But rather give alms of such things as ye have; and, behold, all things are clean unto you.
 
 - Ye fools, did not he that made that which is without make that which is within also: So mean what? Put the emphasis on cleaning the spirit, not washing the flesh.
 
 - But rather give arms of such things as ye have; and, behold, all things are clean unto you: So the Lord said give arms of what you have. Meaning what? Give according to your substance. You understand? With a clean heart. Give me that in Tobit, man. Tobit 4:7. Cuz they do all these things and do all that. They giving the arms, but on the inside they wicked as hell.
 
+> <sup>[41](/bible/luke/11#v41)</sup> But rather give alms of such things as ye have; and, behold, all things are clean unto you.
+
 
 **[Tobit 4:7-11](/bible/tobit/4#v7)**  *[[37:38](https://www.youtube.com/watch?v=wuvVUyOndKY&t=2258s)]*
-
-> <sup>[7](/bible/tobit/4#v7)</sup> Give alms of thy substance; and when thou givest alms, let not thine eye be envious, neither turn thy face from any poor, and the face of God shall not be turned away from thee.
->
-> <sup>[8](/bible/tobit/4#v8)</sup> If thou hast abundance, give alms accordingly: if thou have but a little, be not afraid to give according to that little:
->
-> <sup>[9](/bible/tobit/4#v9)</sup> For thou layest up a good treasure for thyself against the day of necessity.
->
-> <sup>[10](/bible/tobit/4#v10)</sup> Because that alms do deliver from death, and suffereth not to come into darkness.
->
-> <sup>[11](/bible/tobit/4#v11)</sup> For alms is a good gift unto all that give it in the sight of the most High.
 
 - Give arms of thy substance; and when thou givest arms, let not thine eye be envious, neither turn thy face from any poor: Right. So, we got to give arms. That's right.
 
 - Give arms of thy substance; and when thou givest arms, let not thine eye be envious: Don't go, damn, I shouldn't have gave that amount. Nah, brother. Remember, we only got what we got because of the Lord's mercy.
 
+> <sup>[7](/bible/tobit/4#v7)</sup> Give alms of thy substance; and when thou givest alms, let not thine eye be envious, neither turn thy face from any poor, and the face of God shall not be turned away from thee.
+
 - Neither turn thy face from any poor, and the face of God shall not be turned away from thee: Come on.
 
 - If thou hast abundance, give arms accordingly: You see that? If the Lord bless you with a lot, give arms accordingly. Understand, when you give in arms, if you make $1,000, you don't got to give $999, brother. Read that again.
+
+> <sup>[8](/bible/tobit/4#v8)</sup> If thou hast abundance, give alms accordingly: if thou have but a little, be not afraid to give according to that little:
 
 - If thou have but a little, be not afraid to give according to that little: So I mean it just make, use common sense, bro. You understand? If you know you got to pay your mortgage, you got to pay your cell phone, you got to pay your car, no car insurance, brother, we don't want brothers going broke. That's not the spirit, which got to be a level of wisdom and discernment there.
 
@@ -454,6 +448,12 @@ Reading from On-screen definition of voracious  *[[24:28](https://www.youtube.co
 - And suffer not to come into darkness: Meaning what? That's how you keep your heart or your mind with all diligence, studying the scriptures, giving arms.
 
 - For arms is a good gift unto all that give it in the sight of the most High: So it's not about, oh you know, Cap gave me a pat on the back because I gave. No, that's the Lord going to give you a glory in that. Understand that thing. So let's go back to Luke 11. Read verse 41 again.
+
+> <sup>[9](/bible/tobit/4#v9)</sup> For thou layest up a good treasure for thyself against the day of necessity.
+>
+> <sup>[10](/bible/tobit/4#v10)</sup> Because that alms do deliver from death, and suffereth not to come into darkness.
+>
+> <sup>[11](/bible/tobit/4#v11)</sup> For alms is a good gift unto all that give it in the sight of the most High.
 
 
 **[Luke 11:41-42](/bible/luke/11#v41)**  *[[40:38](https://www.youtube.com/watch?v=wuvVUyOndKY&t=2438s)]*
@@ -515,19 +515,19 @@ Reading from On-screen definition of voracious  *[[24:28](https://www.youtube.co
 
 **[Luke 11:42-44](/bible/luke/11#v42)**  *[[45:10](https://www.youtube.com/watch?v=wuvVUyOndKY&t=2710s)]*
 
-> <sup>[42](/bible/luke/11#v42)</sup> But woe unto you, Pharisees! for ye tithe mint and rue and all manner of herbs, and pass over judgment and the love of God: these ought ye to have done, and not to leave the other undone.
->
-> <sup>[43](/bible/luke/11#v43)</sup> Woe unto you, Pharisees! for ye love the uppermost seats in the synagogues, and greetings in the markets.
->
-> <sup>[44](/bible/luke/11#v44)</sup> Woe unto you, scribes and Pharisees, hypocrites! for ye are as graves which appear not, and the men that walk over them are not aware of them.
-
 - But woe unto you, Pharisees! for ye tithe mint and root, and all manner of herbs, and Passover judgment, and the love of God: So they not keeping the commandments. They not judging the people, right? Because what? They hypocrites.
 
+> <sup>[42](/bible/luke/11#v42)</sup> But woe unto you, Pharisees! for ye tithe mint and rue and all manner of herbs, and pass over judgment and the love of God: these ought ye to have done, and not to leave the other undone.
+
 - These ought ye to have done, and not to leave the other undone: Come on.
+
+> <sup>[43](/bible/luke/11#v43)</sup> Woe unto you, Pharisees! for ye love the uppermost seats in the synagogues, and greetings in the markets.
 
 - Woe unto you, Pharisees! for ye love the uppermost seats in the synagogues: They love the chief seats. They coming and they want you to know, oh, that's the big shot section up there. Oh, that's Pharisee such and such. Just like, oh, hold on. That seat reserved for Pastor Jenkins in them. It's the same spirit today. They come up in a restaurant, they get the exclusive seat and all that other, it's no different.
 
 - And greetings in the markets: So, they sit in the cheap spot, when they sit either at the front, or they got their own dedicated section in the front of the congregation. It's the same spirit. Read.
+
+> <sup>[44](/bible/luke/11#v44)</sup> Woe unto you, scribes and Pharisees, hypocrites! for ye are as graves which appear not, and the men that walk over them are not aware of them.
 
 - Woe unto you, scribes and Pharisees, hypocrites: What? Hypocrites. You see that? They hypocrites, cuz they taught the law, but they didn't keep the law.
 
@@ -537,20 +537,12 @@ Reading from On-screen definition of voracious  *[[24:28](https://www.youtube.co
 **[2 Timothy 3:1-6](/bible/2-timothy/3#v1)**  *[[46:36](https://www.youtube.com/watch?v=wuvVUyOndKY&t=2796s)]*
 
 > <sup>[1](/bible/2-timothy/3#v1)</sup> This know also, that in the last days perilous times shall come.
->
-> <sup>[2](/bible/2-timothy/3#v2)</sup> For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
->
-> <sup>[3](/bible/2-timothy/3#v3)</sup> Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,
->
-> <sup>[4](/bible/2-timothy/3#v4)</sup> Traitors, heady, highminded, lovers of pleasures more than lovers of God;
->
-> <sup>[5](/bible/2-timothy/3#v5)</sup> Having a form of godliness, but denying the power thereof: from such turn away.
->
-> <sup>[6](/bible/2-timothy/3#v6)</sup> For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,
 
 - This know also: So the Bible says this know also, or take heed, or beware of.
 
 - That in the last days perilous times shall come: So after the death of Christ, we in the last days. We in the perilous times. Y'all see it. The Trump syndrome got everybody shook. Don't nobody know what's going to happen.
+
+> <sup>[2](/bible/2-timothy/3#v2)</sup> For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
 
 - For men shall be lovers of their own selves: You see that? Living a yolo dooo life, man.
 
@@ -566,6 +558,8 @@ Reading from On-screen definition of voracious  *[[24:28](https://www.youtube.co
 
 - Unthankful: They definitely not thankful.
 
+> <sup>[3](/bible/2-timothy/3#v3)</sup> Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,
+
 - Unholy, without natural affection: So these are the characteristics of what it would be like to live in the last days. We didn't check the box on all these so far? So we know we living in the last days.
 
 - Truce breakers: Don't nobody keep their word no more. It was a saying, your word is your bond. You don't even hear people say that no more.
@@ -576,11 +570,17 @@ Reading from On-screen definition of voracious  *[[24:28](https://www.youtube.co
 
 - Traitors, petty, high-minded, lovers of pleasures more than lovers of God: Lovers of what? Lovers of pleasures more than lovers of God. So they love their own lust. Everybody is in it for themselves. Today, the biggest idol of the day is people, they own selves. Man, I'mma do what's good for me. Man, I'mma do what feel good. That's what's out there now. It's no love for the community. No love for your fellow brother or sister.
 
+> <sup>[4](/bible/2-timothy/3#v4)</sup> Traitors, heady, highminded, lovers of pleasures more than lovers of God;
+>
+> <sup>[5](/bible/2-timothy/3#v5)</sup> Having a form of godliness, but denying the power thereof: from such turn away.
+
 - Having a form of godliness: Having what? A form of godliness. So now it's going back to the pastors. It says having a form of godliness.
 
 - But denying the power thereof: The powers in the keeping of the commandments as the children of Israel. They deny that. They say, "Hold on. We Gentiles. We just low …" That's what they tell the congregation. That's how they deny the power. They deny the black Christ.
 
 - From such turn away: What did you do to that church? From such turn away. The Bible says turn. You see a brother dressed like that, the Bible says turn away, cuz they deny the power. Where is that in the Bible? You can't find it.
+
+> <sup>[6](/bible/2-timothy/3#v6)</sup> For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,
 
 - For of this sort are they which creep into houses, and lead captive silly women: That's that deep ditch we read about in Proverbs 23, that the light will keep you clear from.
 
@@ -591,21 +591,11 @@ Reading from On-screen definition of voracious  *[[24:28](https://www.youtube.co
 
 **[Luke 11:45-51](/bible/luke/11#v45)**  *[[50:09](https://www.youtube.com/watch?v=wuvVUyOndKY&t=3009s)]*
 
+- Then answered one of the lawyers, and said unto him, Master, thus saying, thou reproach us also: Yes.
+
 > <sup>[45](/bible/luke/11#v45)</sup> Then answered one of the lawyers, and said unto him, Master, thus saying thou reproachest us also.
 >
 > <sup>[46](/bible/luke/11#v46)</sup> And he said, Woe unto you also, ye lawyers! for ye lade men with burdens grievous to be borne, and ye yourselves touch not the burdens with one of your fingers.
->
-> <sup>[47](/bible/luke/11#v47)</sup> Woe unto you! for ye build the sepulchres of the prophets, and your fathers killed them.
->
-> <sup>[48](/bible/luke/11#v48)</sup> Truly ye bear witness that ye allow the deeds of your fathers: for they indeed killed them, and ye build their sepulchres.
->
-> <sup>[49](/bible/luke/11#v49)</sup> Therefore also said the wisdom of God, I will send them prophets and apostles, and some of them they shall slay and persecute:
->
-> <sup>[50](/bible/luke/11#v50)</sup> That the blood of all the prophets, which was shed from the foundation of the world, may be required of this generation;
->
-> <sup>[51](/bible/luke/11#v51)</sup> From the blood of Abel unto the blood of Zacharias, which perished between the altar and the temple: verily I say unto you, It shall be required of this generation.
-
-- Then answered one of the lawyers, and said unto him, Master, thus saying, thou reproach us also: Yes.
 
 - And he said, Woe unto you also, ye lawyers: He said, "Woe unto you also."
 
@@ -613,30 +603,36 @@ Reading from On-screen definition of voracious  *[[24:28](https://www.youtube.co
 
 - Woe unto you! for ye build the separates of the prophets, and your fathers killed them: So they built these nice separas dedicated to the prophets, and they forefathers, who they role in the same spirit, killed. Because guess what? They wanted to kill Christ. But yet they sit in erect glorious tombs for the prophets that they themselves killed. These people bugged out, man.
 
+> <sup>[47](/bible/luke/11#v47)</sup> Woe unto you! for ye build the sepulchres of the prophets, and your fathers killed them.
+>
+> <sup>[48](/bible/luke/11#v48)</sup> Truly ye bear witness that ye allow the deeds of your fathers: for they indeed killed them, and ye build their sepulchres.
+
 - Truly ye bear witness that ye allow the deeds of your fathers: Because they are them same men. That's what Christ is telling them.
 
 - For they indeed killed them: They what? They indeed killed them. That's what they wanted to do with Christ.
 
 - And ye build their seplicers. Therefore also said the wisdom of God: Meaning Christ.
 
+> <sup>[49](/bible/luke/11#v49)</sup> Therefore also said the wisdom of God, I will send them prophets and apostles, and some of them they shall slay and persecute:
+
 - I will send them prophets and apostles, and some of them they shall slay and persecute: that the blood of all the prophets, which was shed from the foundation of the world, may be required of this generation: That's that generation that's in the last days, the times that we in, cuz a lot of you out there going to reject the prophets, persecute the prophets, drop dimes on the prophets. They hiding over there to get us killed. And Christ said the blood from Abel all the way up is going to be on there. Woo. That's a serious judgment, man. I'mma tell you straight.
+
+> <sup>[50](/bible/luke/11#v50)</sup> That the blood of all the prophets, which was shed from the foundation of the world, may be required of this generation;
+>
+> <sup>[51](/bible/luke/11#v51)</sup> From the blood of Abel unto the blood of Zacharias, which perished between the altar and the temple: verily I say unto you, It shall be required of this generation.
 
 - From the blood of Abel unto the blood of Zacharias, which perished between the altar and the temple: verily I say unto you, It shall be required of this generation: Christ is letting them know, from the blood of Abel to Zacharias until these times, you got to pay for it. Give me that though in 2 Chronicles 24 and 20. Let's read about the blood of Zacharias. What is that talking about? So that's why we got, that's how the prophets get a sense to be able to show you when the scriptures, and this shows you what Christ was referencing. This is straight out the scriptures.
 
 
 **[2 Chronicles 24:20-22](/bible/2-chronicles/24#v20)**  *[[53:31](https://www.youtube.com/watch?v=wuvVUyOndKY&t=3211s)]*
 
-> <sup>[20](/bible/2-chronicles/24#v20)</sup> And the Spirit of God came upon Zechariah the son of Jehoiada the priest, which stood above the people, and said unto them, Thus saith God, Why transgress ye the commandments of the Lord, that ye cannot prosper? because ye have forsaken the Lord, he hath also forsaken you.
->
-> <sup>[21](/bible/2-chronicles/24#v21)</sup> And they conspired against him, and stoned him with stones at the commandment of the king in the court of the house of the Lord.
->
-> <sup>[22](/bible/2-chronicles/24#v22)</sup> Thus Joash the king remembered not the kindness which Jehoiada his father had done to him, but slew his son. And when he died, he said, The Lord look upon it, and require it.
-
 - And the Spirit of God came upon Zachariah: So that's the Holy Spirit came upon Zacharias. Watch this.
 
 - The son of Jehoiada the priests, which stood above the people, and said unto them: He stood on the platform. What did he say unto him?
 
 - Thus sayeth God: Thus sayeth God.
+
+> <sup>[20](/bible/2-chronicles/24#v20)</sup> And the Spirit of God came upon Zechariah the son of Jehoiada the priest, which stood above the people, and said unto them, Thus saith God, Why transgress ye the commandments of the Lord, that ye cannot prosper? because ye have forsaken the Lord, he hath also forsaken you.
 
 - Why transgress ye the commandments of the Lord: So he teaching the law. He didn't say thus sayeth the Lord the laws is done away. But he said thus sayeth the Lord, why you breaking the commandments?
 
@@ -646,9 +642,13 @@ Reading from On-screen definition of voracious  *[[24:28](https://www.youtube.co
 
 - He hath also forsaken you: And that's why we asked, "Does God love us?" Because we forsook the Lord, he forsook us. Watch this, though.
 
+> <sup>[21](/bible/2-chronicles/24#v21)</sup> And they conspired against him, and stoned him with stones at the commandment of the king in the court of the house of the Lord.
+
 - And they conspired against him: Oh, they did what? They conspired against him. That's the same spirit you see on the Pharisees against Christ at the end of the chapter. They said, "How we going to catch him up in his words to kill him?" That's what many of the people out there say about us. How can we frame them to do something? We got the jersey shooting. We got all any manner of foolishness they want to throw at our feet. It's the same wicked spirit.
 
 - And stoned him: They did what? Stoned him. They stoned him. A lot of people out there want us stoned today. Matter of fact, we was throwing stones at us in Kenya. You see, look, the Bible the true book. That's letting you know how the wicked of our people are. They stone the prophets in Kenya. You got a modern example. Come on now. Read.
+
+> <sup>[22](/bible/2-chronicles/24#v22)</sup> Thus Joash the king remembered not the kindness which Jehoiada his father had done to him, but slew his son. And when he died, he said, The Lord look upon it, and require it.
 
 - And stoned him with stones at the commandment of the king in the court of the house of the Lord. Thus Joash the king remembered not the kindness which Jehoiada his father had done to him but slew his son: Come on.
 
@@ -658,12 +658,12 @@ Reading from On-screen definition of voracious  *[[24:28](https://www.youtube.co
 **[Matthew 10:14-15](/bible/matthew/10#v14)**  *[[57:16](https://www.youtube.com/watch?v=wuvVUyOndKY&t=3436s)]*
 
 > <sup>[14](/bible/matthew/10#v14)</sup> And whosoever shall not receive you, nor hear your words, when ye depart out of that house or city, shake off the dust of your feet.
->
-> <sup>[15](/bible/matthew/10#v15)</sup> Verily I say unto you, It shall be more tolerable for the land of Sodom and Gomorrha in the day of judgment, than for that city.
 
 - And whosoever shall not receive you, nor hear your words, when ye depart out of that house: Or when the brothers and sisters threw stones, as when we departed out of that. Watch this.
 
 - Shake off the dust of your feet: Watch this.
+
+> <sup>[15](/bible/matthew/10#v15)</sup> Verily I say unto you, It shall be more tolerable for the land of Sodom and Gomorrha in the day of judgment, than for that city.
 
 - Verily I say unto you, It shall be more tolerable for the land of Sodom and Gomorrha: Hold on. That place was burned with fire. It's going to be more tolerable for what? For the land of Sodom and Gomorrah, which was utterly destroyed.
 

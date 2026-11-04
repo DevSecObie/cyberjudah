@@ -126,21 +126,21 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "egypt", "leadership",
 
 **[Matthew 24:3-6](/bible/matthew/24#v3)**  *[[52:38](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=3158s)]*
 
-> <sup>[3](/bible/matthew/24#v3)</sup> And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world?
->
-> <sup>[4](/bible/matthew/24#v4)</sup> And Jesus answered and said unto them, Take heed that no man deceive you.
->
-> <sup>[5](/bible/matthew/24#v5)</sup> For many shall come in my name, saying, I am Christ; and shall deceive many.
->
-> <sup>[6](/bible/matthew/24#v6)</sup> And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.
-
 - The disciples asked privately when these things would be; the disciples are back on the earth today, and this Bible is a mystery given only to you, being fulfilled while you read it.
 
 - The end of the world is not the planet blowing up but the end of Esau's rule.
 
+> <sup>[3](/bible/matthew/24#v3)</sup> And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world?
+>
+> <sup>[4](/bible/matthew/24#v4)</sup> And Jesus answered and said unto them, Take heed that no man deceive you.
+
 - Take heed that no man deceive you: AI, false doctrines and religions, the white image, walking around a rock, pastors saying all can be saved and God loves everybody, food sold as clean that is unclean.
 
 - Ye shall hear of wars and rumours of wars; watch news from outside the United States, as Deacon Malachi says, and you can follow the timeline of the scriptures.
+
+> <sup>[5](/bible/matthew/24#v5)</sup> For many shall come in my name, saying, I am Christ; and shall deceive many.
+>
+> <sup>[6](/bible/matthew/24#v6)</sup> And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.
 
 - See that ye be not troubled, for all these things must come to pass: those troubled and fearful are the ones with secret sin on the back end. Deacon Obadiah does not see America lasting fifteen to twenty more years; now is not the time to play with your salvation.
 
@@ -192,19 +192,17 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "egypt", "leadership",
 
 **[Hebrews 12:14-17](/bible/hebrews/12#v14)**  *[[1:21:30](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=4890s)]*
 
-> <sup>[14](/bible/hebrews/12#v14)</sup> Follow peace with all men, and holiness, without which no man shall see the Lord:
->
-> <sup>[15](/bible/hebrews/12#v15)</sup> Looking diligently lest any man fail of the grace of God; lest any root of bitterness springing up trouble you, and thereby many be defiled;
->
-> <sup>[16](/bible/hebrews/12#v16)</sup> Lest there be any fornicator, or profane person, as Esau, who for one morsel of meat sold his birthright.
->
-> <sup>[17](/bible/hebrews/12#v17)</sup> For ye know how that afterward, when he would have inherited the blessing, he was rejected: for he found no place of repentance, though he sought it carefully with tears.
-
 - Look diligently lest any man fail of the grace of God: it is your job to assess yourself, keep up with current events and read your four chapters a day, because the Lord has already given the mysteries and it is for us to apply them.
 
 - You fall from grace when the world and your job become your god; then correction from a brother or sister offends you, and a root of bitterness springs up, as happened with a captain's own number two who now hates him.
 
 - That root of bitterness is the catalyst for many to be defiled: they go back into the doctrines, holidays and philosophies of the society they were comfortable in.
+
+> <sup>[14](/bible/hebrews/12#v14)</sup> Follow peace with all men, and holiness, without which no man shall see the Lord:
+>
+> <sup>[15](/bible/hebrews/12#v15)</sup> Looking diligently lest any man fail of the grace of God; lest any root of bitterness springing up trouble you, and thereby many be defiled;
+>
+> <sup>[16](/bible/hebrews/12#v16)</sup> Lest there be any fornicator, or profane person, as Esau, who for one morsel of meat sold his birthright.
 
 - Lest there be any fornicator or profane person as Esau: profane is devoted to what is not sacred, worldly, concerned with material values rather than a spiritual existence. The bitter among our people are likened to Esau, and Satan becomes their daddy.
 
@@ -225,6 +223,8 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "egypt", "leadership",
     > <sup>[9](/bible/psalms/109#v9)</sup> Let his children be fatherless, and his wife a widow.
 
     Set thou a wicked man over him and let Satan stand at his right hand; let his prayer become sin, his days be few and another take his office: the lot of those who revile the hoary head and rise against leadership, as in 2018.
+
+> <sup>[17](/bible/hebrews/12#v17)</sup> For ye know how that afterward, when he would have inherited the blessing, he was rejected: for he found no place of repentance, though he sought it carefully with tears.
 
 
 **[Matthew 18:18](/bible/matthew/18#v18)**  *[[1:32:12](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=5532s)]*
@@ -318,8 +318,6 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "egypt", "leadership",
 **[Romans 6:16-17](/bible/romans/6#v16)**  *[[2:03:36](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=7416s)]*
 
 > <sup>[16](/bible/romans/6#v16)</sup> Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness?
->
-> <sup>[17](/bible/romans/6#v17)</sup> But God be thanked, that ye were the servants of sin, but ye have obeyed from the heart that form of doctrine which was delivered you.
 
 - To whom ye yield yourselves servants to obey, his servants ye are: money, fornication, alcohol, the big-mouthed woman next to you, weakness, fear, or Satan's whisper that God can never use you because of your past. In this truth you are a new creature.
 
@@ -332,6 +330,8 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "egypt", "leadership",
     > <sup>[20](/bible/isaiah/8#v20)</sup> To the law and to the testimony: if they speak not according to this word, it is because there is no light in them.
 
     The law and the testimony: the form of doctrine delivered to us.
+
+> <sup>[17](/bible/romans/6#v17)</sup> But God be thanked, that ye were the servants of sin, but ye have obeyed from the heart that form of doctrine which was delivered you.
 
 
 **[Revelation 14:12](/bible/revelation/14#v12)**  *[[2:07:09](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=7629s)]*
@@ -374,12 +374,12 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "egypt", "leadership",
 **[Isaiah 19:1-2](/bible/isaiah/19#v1)**  *[[2:18:23](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=8303s)]*
 
 > <sup>[1](/bible/isaiah/19#v1)</sup> The burden of Egypt. Behold, the Lord rideth upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it.
->
-> <sup>[2](/bible/isaiah/19#v2)</sup> And I will set the Egyptians against the Egyptians: and they shall fight every one against his brother, and every one against his neighbour; city against city, and kingdom against kingdom.
 
 - The burden of Egypt: Egypt was before Isaiah's time, and Revelation names the great city where our Lord was crucified spiritually Sodom and Egypt. Sodom is gone, but men acting like women and women like men is prominent here, and our dead bodies lie spiritually in the streets of America.
 
 - The Lord rides on a swift cloud with his chariots and angels into Egypt, the idols are moved at his presence and the heart of Egypt, its doctrines and mentality, melts in the midst of it.
+
+> <sup>[2](/bible/isaiah/19#v2)</sup> And I will set the Egyptians against the Egyptians: and they shall fight every one against his brother, and every one against his neighbour; city against city, and kingdom against kingdom.
 
 - I will set the Egyptians against the Egyptians: militia against militia, civil war, brother against brother, city against city. The stars are falling and the stripes are broken; this place is divided.
 

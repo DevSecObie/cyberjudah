@@ -296,14 +296,6 @@ Situational awareness — the skit.
 **[Psalms 149:5-9](/bible/psalms/149#v5)**  *[[1:05:07](https://www.youtube.com/watch?v=RtKx6aQEzDM&t=3907s)]*
 
 > <sup>[5](/bible/psalms/149#v5)</sup> Let the saints be joyful in glory: let them sing aloud upon their beds.
->
-> <sup>[6](/bible/psalms/149#v6)</sup> Let the high praises of God be in their mouth, and a twoedged sword in their hand;
->
-> <sup>[7](/bible/psalms/149#v7)</sup> To execute vengeance upon the heathen, and punishments upon the people;
->
-> <sup>[8](/bible/psalms/149#v8)</sup> To bind their kings with chains, and their nobles with fetters of iron;
->
-> <sup>[9](/bible/psalms/149#v9)</sup> To execute upon them the judgment written: this honour have all his saints. Praise ye the Lord.
 
 - Let the saints be joyful in glory: let them sing aloud upon their beds. The sword of a mighty man. This is what we reading about now.
 
@@ -316,6 +308,14 @@ Situational awareness — the skit.
 - To execute upon them the judgment written. To execute upon all our enemies, upon all the nations — the Bible, to execute upon them the judgment written. That is what is written in here. The judgment written. That is what we reading.
 
 - Now here comes the therapy. This honour have all his saints. That is therapy. Praise ye the Lord. That is therapy. Getting vengeance is therapy. It is a righteous thing to recompense tribulation to them that trouble you. The Lord is going to give this to us.
+
+> <sup>[6](/bible/psalms/149#v6)</sup> Let the high praises of God be in their mouth, and a twoedged sword in their hand;
+>
+> <sup>[7](/bible/psalms/149#v7)</sup> To execute vengeance upon the heathen, and punishments upon the people;
+>
+> <sup>[8](/bible/psalms/149#v8)</sup> To bind their kings with chains, and their nobles with fetters of iron;
+>
+> <sup>[9](/bible/psalms/149#v9)</sup> To execute upon them the judgment written: this honour have all his saints. Praise ye the Lord.
 
 **[Revelation 13:9-10](/bible/revelation/13#v9)**  *[[1:08:36](https://www.youtube.com/watch?v=RtKx6aQEzDM&t=4116s)]*
 

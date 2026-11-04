@@ -3,7 +3,7 @@ title: "Daily Bread for a Dying Man"
 slug: "2026/2026-06-13-daily-bread-for-a-dying-man"
 date: "2026-06-13"
 description: "IUIC in the ClassRoom · 2026-06-13"
-teacher: "Deacon Yashua"
+teacher: "Deacon Yoshua"
 tags: ["IUIC in the ClassRoom", "prayer", "the-word"]
 ---
 
@@ -17,7 +17,7 @@ tags: ["IUIC in the ClassRoom", "prayer", "the-word"]
 
 ## Introduction
 
-Deacon Yashua teaches this Sabbath morning class. I was meditating on the movement that we have had recently. People leave all the time; people leave jobs; people quit life. So whenever I see movement, it does not faze me. But especially when certain people who appear like they are grounded and rooted leave, and you hear the reasons that they state for leaving, it starts making you think. I started to examine how it is that so many of us get to the point where we go off in our understanding. Today's class will also explain why some of us do not even grow.
+Deacon Yoshua teaches this Sabbath morning class. I was meditating on the movement that we have had recently. People leave all the time; people leave jobs; people quit life. So whenever I see movement, it does not faze me. But especially when certain people who appear like they are grounded and rooted leave, and you hear the reasons that they state for leaving, it starts making you think. I started to examine how it is that so many of us get to the point where we go off in our understanding. Today's class will also explain why some of us do not even grow.
 
 Every day, whether we realize it or not, there are two processes happening within you at the same time. From the day you are born, you are on a path to death: you peak, and then everything starts to break down. There is a daily decay that happens, not just physically but in this walk spiritually. The flesh does not stand still, the cares of this world are always pressing, temptations always rise, and sin is always deceptive. If you leave that alone, the natural man does not drift toward God; he drifts away from him. At the same time, if you are a repenting Israelite, there is a process of daily renewal in the spirit. A lot of us think we repented and we are done, but all these things constantly pressing you mean you have to counteract them.
 
@@ -341,17 +341,20 @@ Reading from on-screen text on didactic learning  *[[1:09:56](https://www.youtub
 
 **[2 Corinthians 5:1-4](/bible/2-corinthians/5#v1)**  *[[1:31:36](https://www.youtube.com/watch?v=EtPB8pdK2XE&t=5496s)]*
 
+- The flesh is a veil; now we hear it is also an earthly house, a tabernacle, a place where your soul resides in this realm, this present world. We have a building of God, an house not made with hands, eternal in the heavens.
+
+- In this we groan, earnestly desiring to be clothed upon with our house which is from heaven. We have a real tabernacle waiting for our spirit where we do not have to fight it: no aches, no ailments, everything that comes with this body gone. All the things we groan over in the body, and the way it draws us and fights our spirit. It is like living with a spouse where you hate each other; that is what it is like to be in this body as your spirit grows in understanding, because before you understood this, you were quite comfortable in that relationship with your body. That is why it says mortify your members.
+
 > <sup>[1](/bible/2-corinthians/5#v1)</sup> For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.
 >
 > <sup>[2](/bible/2-corinthians/5#v2)</sup> For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven:
 >
 > <sup>[3](/bible/2-corinthians/5#v3)</sup> If so be that being clothed we shall not be found naked.
->
+
+- If so be that being clothed we shall not be found naked: right now we are without defense, which is why it says put on the whole armour of God.
+
 > <sup>[4](/bible/2-corinthians/5#v4)</sup> For we that are in this tabernacle do groan, being burdened: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life.
 
-- The flesh is a veil; now we hear it is also an earthly house, a tabernacle, a place where your soul resides in this realm, this present world. We have a building of God, an house not made with hands, eternal in the heavens.
-- In this we groan, earnestly desiring to be clothed upon with our house which is from heaven. We have a real tabernacle waiting for our spirit where we do not have to fight it: no aches, no ailments, everything that comes with this body gone. All the things we groan over in the body, and the way it draws us and fights our spirit. It is like living with a spouse where you hate each other; that is what it is like to be in this body as your spirit grows in understanding, because before you understood this, you were quite comfortable in that relationship with your body. That is why it says mortify your members.
-- If so be that being clothed we shall not be found naked: right now we are without defense, which is why it says put on the whole armour of God.
 - Not for that we would be unclothed: it is not that we want to be without a tabernacle. It is just this one we do not want. But clothed upon, that mortality might be swallowed up of life.
 
 **[Romans 8:23](/bible/romans/8#v23)**  *[[1:34:49](https://www.youtube.com/watch?v=EtPB8pdK2XE&t=5689s)]*

@@ -39,6 +39,12 @@ the points that were made, and the breakdown of each scripture that was opened.
   `*[21:31]* **In The News: <the clip>** — <the point>`. The note follows the class from start
   to finish; `python3 scripts/notes/class_order.py` puts a note in that order (auto.py does it
   for every note it writes), and `--check` reports a note that is not.
+- **The clip's words never run into the teacher's.** When he answers a clip line by line, each
+  exchange is set apart: the clip's line, verbatim from the transcript and marked as the clip
+  (`> **The guest, in the clip:** ...`, or in an `In The News` line of its own), then his reply as
+  normal text. A speaker not named on air stays unnamed. Every quotation mark opened is closed.
+  `blog/2026/2026-10-31-2026-10-31-race-matters-we-shall-remember-ourselves.md` at 48:24 is the
+  pattern.
 - **Class Questions** keeps the questions the teacher put to the class and the answers he
   gave, one line each.
 - **In Closing** is his charge to the class, in his words, kept to the point he closed on.

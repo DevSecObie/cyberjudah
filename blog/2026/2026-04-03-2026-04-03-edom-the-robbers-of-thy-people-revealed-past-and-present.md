@@ -2,7 +2,7 @@
 title: "Edom: The Robbers of thy people revealed past and present"
 slug: "2026/2026-04-03-edom-the-robbers-of-thy-people-revealed-past-and-present"
 date: "2026-04-03"
-teacher: ""
+teacher: "Deacon Eythan"
 description: "IUIC in the ClassRoom · 2026-04-03"
 tags: ["IUIC in the ClassRoom", "edom-esau", "europe-dark-ages", "greece", "so-called-jews"]
 ---
@@ -51,6 +51,10 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "europe-dark-ages", "greece", "so-c
 
 **[Genesis 25:20-34](/bible/genesis/25#v20)**  *[[10:25](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=625s)]*
 
+- Rebekah was barren; the Lord heard Isaac and the children struggled together in her womb. Two nations, two nationalities, are in thy womb, and two manner of people: different in looks and behaviour, twins that would not be together, one stronger, and the elder shall serve the younger. That is not equality.
+
+- The first came out red all over like an hairy garment, and Jacob is not described because he was normal and looked like his parents. They are fraternal twins, not identical, and they were called Esau, wasted away for lack of melanin, and Jacob, who took hold of the heel because the fight in the womb continued outside it.
+
 > <sup>[20](/bible/genesis/25#v20)</sup> And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padan–aram, the sister to Laban the Syrian.
 >
 > <sup>[21](/bible/genesis/25#v21)</sup> And Isaac intreated the Lord for his wife, because she was barren: and the Lord was intreated of him, and Rebekah his wife conceived.
@@ -66,7 +70,13 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "europe-dark-ages", "greece", "so-c
 > <sup>[26](/bible/genesis/25#v26)</sup> And after that came his brother out, and his hand took hold on Esau’s heel; and his name was called Jacob: and Isaac was threescore years old when she bare them.
 >
 > <sup>[27](/bible/genesis/25#v27)</sup> And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents.
->
+
+- Esau was a cunning hunter, a man of the field: hunting animals to extinction, hunting people and resources. Name a black nation that has wiped out an entire race and taken its identity, or dropped a nuclear bomb. They are not like us; two manner of people. Jacob was a plain man dwelling in tents.
+
+- Isaac loved Esau for his venison and Rebekah loved Jacob because the Lord had told her. Esau came in faint from a sun he was not built for and asked for the red pottage, so his name was called Edom, red, because he was already red himself.
+
+- He sold his birthright, the inheritance of Abraham's blessing and the kingdom, for lentils and bread, and despised it; the elder serving the younger was that birthright.
+
 > <sup>[28](/bible/genesis/25#v28)</sup> And Isaac loved Esau, because he did eat of his venison: but Rebekah loved Jacob.
 >
 > <sup>[29](/bible/genesis/25#v29)</sup> And Jacob sod pottage: and Esau came from the field, and he was faint:
@@ -80,16 +90,6 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "europe-dark-ages", "greece", "so-c
 > <sup>[33](/bible/genesis/25#v33)</sup> And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob.
 >
 > <sup>[34](/bible/genesis/25#v34)</sup> Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright.
-
-- Rebekah was barren; the Lord heard Isaac and the children struggled together in her womb. Two nations, two nationalities, are in thy womb, and two manner of people: different in looks and behaviour, twins that would not be together, one stronger, and the elder shall serve the younger. That is not equality.
-
-- The first came out red all over like an hairy garment, and Jacob is not described because he was normal and looked like his parents. They are fraternal twins, not identical, and they were called Esau, wasted away for lack of melanin, and Jacob, who took hold of the heel because the fight in the womb continued outside it.
-
-- Esau was a cunning hunter, a man of the field: hunting animals to extinction, hunting people and resources. Name a black nation that has wiped out an entire race and taken its identity, or dropped a nuclear bomb. They are not like us; two manner of people. Jacob was a plain man dwelling in tents.
-
-- Isaac loved Esau for his venison and Rebekah loved Jacob because the Lord had told her. Esau came in faint from a sun he was not built for and asked for the red pottage, so his name was called Edom, red, because he was already red himself.
-
-- He sold his birthright, the inheritance of Abraham's blessing and the kingdom, for lentils and bread, and despised it; the elder serving the younger was that birthright.
 
 
 <div class="reading">
@@ -297,20 +297,20 @@ Reading from a definition of the Horims or Horites, on the screen  *[[47:42](htt
 **[Obadiah 1:1-4](/bible/obadiah/1#v1)**  *[[53:00](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=3180s)]*
 
 > <sup>[1](/bible/obadiah/1#v1)</sup> The vision of Obadiah. Thus saith the Lord God concerning Edom; We have heard a rumour from the Lord, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.
->
-> <sup>[2](/bible/obadiah/1#v2)</sup> Behold, I have made thee small among the heathen: thou art greatly despised.
->
-> <sup>[3](/bible/obadiah/1#v3)</sup> The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall bring me down to the ground?
->
-> <sup>[4](/bible/obadiah/1#v4)</sup> Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the Lord.
 
 - An ambassador is sent among the heathen: arise and let us rise up against her in battle. That is happening now; Trump's administration is leading up to it, and it means Edom had first rebuilt the desolate places and become a power worth rising against.
 
 - Small among the heathen, a minority on the earth, and greatly despised: the world is turning on Israel and America's own citizens on America. Trump is the honest face America hid for centuries and Netanyahu his little brother. From bullying Ye, Kyrie and Nick Cannon they exposed themselves, and now Iran calls them the Epstein regime.
 
+> <sup>[2](/bible/obadiah/1#v2)</sup> Behold, I have made thee small among the heathen: thou art greatly despised.
+>
+> <sup>[3](/bible/obadiah/1#v3)</sup> The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall bring me down to the ground?
+
 - The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock: the cave dweller, whose habitation is high, who says who shall bring me down. Though thou exalt thyself as the eagle: Greece, Rome, Spain, France, Russia, Britain and America all use the eagle, and all are Caucasian. Show me a black superpower that dwells in caves and exalts itself as the eagle.
 
 - Though thou set thy nest among the stars, the space stations and Space Force, thence will I bring thee down. America is in the age of decadence, the decline every empire shows: feminism, homosexuality, entertainment, the dying dollar. Make America great again admits it is not, and Trump is burning the alliances with his European family that made her great.
+
+> <sup>[4](/bible/obadiah/1#v4)</sup> Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the Lord.
 
 
 **[Jeremiah 50:17](/bible/jeremiah/50#v17)**  *[[1:03:47](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=3827s)]*
@@ -325,7 +325,15 @@ Reading from a definition of the Horims or Horites, on the screen  *[[47:42](htt
 > <sup>[1](/bible/ezekiel/35#v1)</sup> Moreover the word of the Lord came unto me, saying,
 >
 > <sup>[2](/bible/ezekiel/35#v2)</sup> Son of man, set thy face against mount Seir, and prophesy against it,
->
+
+- Set thy face against Mount Seir: Edom took it over and became Seir. Because thou hast had a perpetual hatred, the hatred Esau forgave but his descendants kept in their blood from then until now.
+
+- They shed the blood of the children of Israel by the sword in the time of their calamity and when their iniquity had an end: when Babylon devoured our bones Edom assisted, and after the emancipation they found Jim Crow, the black codes and the Klan to extend the terror.
+
+- I will prepare thee unto blood and blood shall pursue thee, sith thou hast not hated blood; they love it, resemble it and shed it. Perpetual desolations and thy cities shall not return: after this there is no rebuilding, no more America, no more capitals.
+
+- Because thou hast said these two nations and these two countries shall be mine, though the Lord was there: Judah and Ephraim, Judah and Samaria, and Israel and America too. Whatever was given to Jacob Esau takes by the sword because he believes the birthright is his.
+
 > <sup>[3](/bible/ezekiel/35#v3)</sup> And say unto it, Thus saith the Lord God; Behold, O mount Seir, I am against thee, and I will stretch out mine hand against thee, and I will make thee most desolate.
 >
 > <sup>[4](/bible/ezekiel/35#v4)</sup> I will lay thy cities waste, and thou shalt be desolate, and thou shalt know that I am the Lord.
@@ -341,14 +349,6 @@ Reading from a definition of the Horims or Horites, on the screen  *[[47:42](htt
 > <sup>[9](/bible/ezekiel/35#v9)</sup> I will make thee perpetual desolations, and thy cities shall not return: and ye shall know that I am the Lord.
 >
 > <sup>[10](/bible/ezekiel/35#v10)</sup> Because thou hast said, These two nations and these two countries shall be mine, and we will possess it; whereas the Lord was there:
-
-- Set thy face against Mount Seir: Edom took it over and became Seir. Because thou hast had a perpetual hatred, the hatred Esau forgave but his descendants kept in their blood from then until now.
-
-- They shed the blood of the children of Israel by the sword in the time of their calamity and when their iniquity had an end: when Babylon devoured our bones Edom assisted, and after the emancipation they found Jim Crow, the black codes and the Klan to extend the terror.
-
-- I will prepare thee unto blood and blood shall pursue thee, sith thou hast not hated blood; they love it, resemble it and shed it. Perpetual desolations and thy cities shall not return: after this there is no rebuilding, no more America, no more capitals.
-
-- Because thou hast said these two nations and these two countries shall be mine, though the Lord was there: Judah and Ephraim, Judah and Samaria, and Israel and America too. Whatever was given to Jacob Esau takes by the sword because he believes the birthright is his.
 
 
 **[Numbers 24:20](/bible/numbers/24#v20)**  *[[1:09:05](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=4145s)]*

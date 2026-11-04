@@ -48,27 +48,27 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "christ", "passo
 
 **[Genesis 10:6-10](/bible/genesis/10#v6)**  *[[2:00](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=120s)]*
 
+- Who are the sons of Ham? When you get a Bible dictionary it says Ham became the father of all the dark races, but not the Negroes.
+
 > <sup>[6](/bible/genesis/10#v6)</sup> And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan.
 >
 > <sup>[7](/bible/genesis/10#v7)</sup> And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha: and the sons of Raamah; Sheba, and Dedan.
 >
 > <sup>[8](/bible/genesis/10#v8)</sup> And Cush begat Nimrod: he began to be a mighty one in the earth.
->
-> <sup>[9](/bible/genesis/10#v9)</sup> He was a mighty hunter before the Lord: wherefore it is said, Even as Nimrod the mighty hunter before the Lord.
->
-> <sup>[10](/bible/genesis/10#v10)</sup> And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar.
-
-- Who are the sons of Ham? When you get a Bible dictionary it says Ham became the father of all the dark races, but not the Negroes.
 
 - Cush begat Nimrod: this is what we wanted to get to.
 
 - He began to be a mighty one in the earth, meaning a leader, a conqueror.
+
+> <sup>[9](/bible/genesis/10#v9)</sup> He was a mighty hunter before the Lord: wherefore it is said, Even as Nimrod the mighty hunter before the Lord.
 
 - A mighty hunter before the Lord: who did he hunt? He hunted the souls of men. He gathered men together against the one true God.
 
 - The beginning of his kingdom was Babel. Babel is the root of the word Babylon.
 
 - I want you to remember that name Nimrod, who was the son of Cush, an Ethiopian.
+
+> <sup>[10](/bible/genesis/10#v10)</sup> And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar.
 
 
 **[Ezekiel 8:13-14](/bible/ezekiel/8#v13)**  *[[3:41](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=221s)]*
@@ -200,19 +200,19 @@ Reading from *The Two Babylons* by Alexander Hislop, p. 102 · read by Deacon As
 
 **[Revelation 11:8-10](/bible/revelation/11#v8)**  *[[14:45](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=885s)]*
 
-> <sup>[8](/bible/revelation/11#v8)</sup> And their dead bodies shall lie in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified.
->
-> <sup>[9](/bible/revelation/11#v9)</sup> And they of the people and kindreds and tongues and nations shall see their dead bodies three days and an half, and shall not suffer their dead bodies to be put in graves.
->
-> <sup>[10](/bible/revelation/11#v10)</sup> And they that dwell upon the earth shall rejoice over them, and make merry, and shall send gifts one to another; because these two prophets tormented them that dwelt on the earth.
-
 - I'mma show you black men and black women, Latin men and Latin women, that think Christmas is so good and the giving of gifts is for the children: y'all simple as hell.
 
 - This chapter talks about the two prophets. The two prophets are the two kingdoms, which are Judah and Israel. There's a spiritual meaning behind it, because we're not physically dead; we're spiritually dead here in the great city, which is Babylon the great, the United States of America.
 
 - This place America is spiritually called Sodom because they got rights for homosexuals. It's spiritually called Egypt because like in ancient Egypt we were slaves there, we're slaves here. Take out a dollar bill: on the back is a pyramid with the all-seeing eye of Ra, because this place is spiritual Egypt. Where also our Lord was crucified, because the black image of Christ was crucified here.
 
+> <sup>[8](/bible/revelation/11#v8)</sup> And their dead bodies shall lie in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified.
+>
+> <sup>[9](/bible/revelation/11#v9)</sup> And they of the people and kindreds and tongues and nations shall see their dead bodies three days and an half, and shall not suffer their dead bodies to be put in graves.
+
 - The people and kindreds and tongues and nations: the United States of America, because here you have all nations, kindreds and tongues; this is the great melting pot. Three days and a half: 350 years.
+
+> <sup>[10](/bible/revelation/11#v10)</sup> And they that dwell upon the earth shall rejoice over them, and make merry, and shall send gifts one to another; because these two prophets tormented them that dwelt on the earth.
 
 - They that dwell upon the earth shall rejoice over them: they rejoiced over us when they destroyed us mentally and spiritually. And make merry: how do you start your Christmas? You say Merry Christmas.
 
@@ -291,17 +291,17 @@ Reading from *The Two Babylons* by Alexander Hislop, p. 102 · read by Deacon As
 
 **[Luke 2:40-42](/bible/luke/2#v40)**  *[[24:50](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=1490s)]*
 
-> <sup>[40](/bible/luke/2#v40)</sup> And the child grew, and waxed strong in spirit, filled with wisdom: and the grace of God was upon him.
->
-> <sup>[41](/bible/luke/2#v41)</sup> Now his parents went to Jerusalem every year at the feast of the passover.
->
-> <sup>[42](/bible/luke/2#v42)</sup> And when he was twelve years old, they went up to Jerusalem after the custom of the feast.
-
 - Now the question is, well, when was Christ born?
+
+> <sup>[40](/bible/luke/2#v40)</sup> And the child grew, and waxed strong in spirit, filled with wisdom: and the grace of God was upon him.
 
 - The child grew and waxed strong in spirit: this is Christ.
 
 - Every year his parents went to the feast of the Passover, and when he was twelve years old they went up to Jerusalem after the custom of the feast. That verse is telling you the time when he was born: on the Passover.
+
+> <sup>[41](/bible/luke/2#v41)</sup> Now his parents went to Jerusalem every year at the feast of the passover.
+>
+> <sup>[42](/bible/luke/2#v42)</sup> And when he was twelve years old, they went up to Jerusalem after the custom of the feast.
 
 
 <div class="reading">
@@ -374,13 +374,13 @@ Reading from *The Two Babylons* by Alexander Hislop, p. 93 · read by Deacon Asa
 
 **[Isaiah 14:13-14](/bible/isaiah/14#v13)**  *[[31:19](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=1879s)]*
 
-> <sup>[13](/bible/isaiah/14#v13)</sup> For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north:
->
-> <sup>[14](/bible/isaiah/14#v14)</sup> I will ascend above the heights of the clouds; I will be like the most High.
-
 - How does he speak great words against the Most High? I will exalt my throne above the stars of God: space travel.
 
+> <sup>[13](/bible/isaiah/14#v13)</sup> For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north:
+
 - Upon the mount of the congregation, in the sides of the north: I will enslave the Israelites in North America. The mount of the congregation are the Israelites, in the sides of the north, meaning North America.
+
+> <sup>[14](/bible/isaiah/14#v14)</sup> I will ascend above the heights of the clouds; I will be like the most High.
 
 - I will ascend above the heights of the clouds: I will create airplanes too.
 
@@ -502,19 +502,19 @@ Reading from *The Two Babylons* by Alexander Hislop, p. 93 · read by Deacon Asa
 
 **[Revelation 12:1-4](/bible/revelation/12#v1)**  *[[53:56](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=3236s)]*
 
+- Remember earlier in the lesson we read about Herod seeking to destroy the young child Christ.
+
+- This woman represents the twelve tribes of Israel. The sun and the moon just represent knowledge and wisdom and understanding.
+
 > <sup>[1](/bible/revelation/12#v1)</sup> And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:
 >
 > <sup>[2](/bible/revelation/12#v2)</sup> And she being with child cried, travailing in birth, and pained to be delivered.
 >
 > <sup>[3](/bible/revelation/12#v3)</sup> And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads.
->
-> <sup>[4](/bible/revelation/12#v4)</sup> And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born.
-
-- Remember earlier in the lesson we read about Herod seeking to destroy the young child Christ.
-
-- This woman represents the twelve tribes of Israel. The sun and the moon just represent knowledge and wisdom and understanding.
 
 - Seven heads and ten horns: seven empires and ten smaller empires.
+
+> <sup>[4](/bible/revelation/12#v4)</sup> And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born.
 
 - His tail drew the third part of the stars of heaven: that's Judah, Benjamin and Levi, that the Romans cast down.
 

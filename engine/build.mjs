@@ -1,6 +1,6 @@
 import { loadKjvPeople, validateKjvPeople, validateKjvPlaces, EVIDENCE } from "./people-kjv.mjs";
 
-import { correctedClass, classCatalog, loadClassBroadcasts } from "./class-metadata.mjs";
+import { correctedClass, classCatalog, loadClassBroadcasts, loadOutlineTeachers, outlinedClass } from "./class-metadata.mjs";
 // The CyberJudah content engine.
 //
 //   node engine/build.mjs [--out dist] [--site https://cyberjudah.io] [--no-thumbs]
@@ -50,7 +50,7 @@ const API = path.join(OUT, "api");
 const SEARCH = path.join(OUT, "search");
 
 const L = loadLibrary(ROOT);
-const { BOOKS, CHAPTERS, bible, bookSlug, testament, chapterUrl, bookUrl, handbook, sectionUrl, partUrl, sortedPrecepts, preceptUrl, cases, ERAS, caseUrl, isBlessing, notes, classNotes, captainNotes, cited, uniqueCitations, linked, moments, commentary } = L;
+const { BOOKS, CHAPTERS, bible, bookSlug, testament, chapterUrl, bookUrl, handbook, sectionUrl, partUrl, sortedPrecepts, preceptUrl, cases, ERAS, caseUrl, isBlessing, notes, classNotes, captainNotes, cited, uniqueCitations, linked, moments, commentary, redOf } = L;
 
 // A note of one of the shows (data/shows.json) carries the show's name as its collection, read
 // from its title unless its frontmatter names one, so it is shown as that show and not as a
@@ -108,11 +108,12 @@ const strongsTags = (slug) => {
 
 /* ---------------- api: scripture and concordance ---------------- */
 // Every moment a class read a verse aloud, straight from the transcripts
-// (scripts/precepts/readings.py): per book, chapter and verse, [video, second]. A class with a
+// (scripts/precepts/readings.py): per book, chapter and verse, [video, second, verse second]. A class with a
 // note lends the note's title, date, teacher and url; the rest carry what the transcript says.
 const READINGS = path.join(ROOT, "data", "precepts", "readings");
 const readVideos = fs.existsSync(path.join(READINGS, "videos.json")) ? JSON.parse(fs.readFileSync(path.join(READINGS, "videos.json"), "utf8")) : {};
-for (const [video, row] of Object.entries(readVideos)) readVideos[video] = correctedClass(row, L.classMetadata, video);
+const outlines = loadOutlineTeachers(ROOT);
+for (const [video, row] of Object.entries(readVideos)) readVideos[video] = correctedClass(outlinedClass(row, outlines, video), L.classMetadata, video);
 writeJson(path.join(API, "classes", "metadata.json"), classCatalog(readVideos, notes, L.classMetadata));
 writeJson(path.join(API, "classes", "corrections.json"), Object.fromEntries(L.classMetadata));
 writeJson(path.join(API, "classes", "broadcasts.json"), loadClassBroadcasts(ROOT));
@@ -126,9 +127,10 @@ function readingsOf(slug) {
   for (const [c, vs] of Object.entries(raw)) {
     out[c] = {};
     for (const [v, rows] of Object.entries(vs)) {
-      out[c][v] = rows.map(([video, t]) => {
+      out[c][v] = rows.map(([video, t, vt]) => {
         const meta = readVideos[video] ?? {}, note = noteByVideo.get(video);
-        return { video, t, ts: hms(t), title: note?.title || meta.title || "Class", date: note?.date || meta.date || "", teacher: note?.teacher || meta.teacher || "", ...(note ? { url: note.url } : {}) };
+        // `t` is where the reading was called for; `vt`, when the captions show it, where this verse itself is read.
+        return { video, t, ts: hms(t), ...(vt != null ? { vt } : {}), title: note?.title || meta.title || "Class", date: note?.date || meta.date || "", teacher: note?.teacher || meta.teacher || "", ...(note ? { url: note.url } : {}) };
       }).sort((a, b) => teacherRank(a.teacher) - teacherRank(b.teacher) || (b.date || "").localeCompare(a.date || ""));
     }
   }
@@ -144,7 +146,7 @@ for (const b of BOOKS) {
   for (const c of chs) {
     const verses = bible[b][String(c)] ?? [];
     const tags = strongsTags(bookSlug[b]);
-    writeJson(path.join(API, "kjv", bookSlug[b], `${c}.json`), { book: b, chapter: c, translation: "KJV", url: chapterUrl(b, c), ...(c === chs[0] && L.prologues[b] ? { prologue: L.prologues[b] } : {}), verses: verses.map((t, i) => ({ verse: i + 1, text: t, ...(tags?.[String(c)]?.[String(i + 1)] ? { words: tags[String(c)][String(i + 1)] } : {}) })).filter((v) => v.text) });
+    writeJson(path.join(API, "kjv", bookSlug[b], `${c}.json`), { book: b, chapter: c, translation: "KJV", url: chapterUrl(b, c), ...(c === chs[0] && L.prologues[b] ? { prologue: L.prologues[b] } : {}), verses: verses.map((t, i) => ({ verse: i + 1, text: t, ...(tags?.[String(c)]?.[String(i + 1)] ? { words: tags[String(c)][String(i + 1)] } : {}), ...(redOf(b, c, i + 1).length ? { red: redOf(b, c, i + 1) } : {}) })).filter((v) => v.text) });
     // Emitted for every chapter, cited or not: an uncited chapter is an empty list, not a 404.
     writeJson(path.join(API, "concordance", bookSlug[b], `${c}.json`), { book: b, chapter: c, cited_by: uniqueCitations(cited.get(`${b}|${c}`) ?? []), precepts: linked.get(`${b}|${c}`) ?? [], moments: moments.get(`${b}|${c}`) ?? [], commentary: commentary.get(`${b}|${c}`) ?? [], people: namedIn.get(`${bookSlug[b]}|${c}`) ?? {}, places: placedIn.get(`${bookSlug[b]}|${c}`) ?? {}, read: readings[String(c)] ?? {} });
     readingsTotal += Object.values(readings[String(c)] ?? {}).reduce((a, r) => a + r.length, 0);
@@ -621,6 +623,17 @@ const noteByVideo = new Map();
     const cover = book.cover ? `/api/library/${slug}/${book.cover}` : figures[0]?.url ?? null;
     writeJson(path.join(API, "library", slug, "book.json"), { ...book, cover, chapters, figures, reads: reads.map(({ said, ...r }) => r), classes });
     libraryIndex.push({ slug, title: book.title, subtitle: book.subtitle, author: book.author, year: book.year, pages: book.pages, volumes: book.volumes ?? 1, chapters: chapters.length, figures: figures.length, cover, reads: reads.length, classes });
+  }
+  // Every book the classes bring up (scripts/library/class_books.py): where to read it in full,
+  // and the moments the classes spoke about it, linked to the class's note when it has one.
+  const classBooksFile = path.join(LIB, "class-books.json");
+  if (fs.existsSync(classBooksFile)) {
+    const classBooks = JSON.parse(fs.readFileSync(classBooksFile, "utf8")).map((b) => ({
+      ...b,
+      moments: b.moments.map((m) => { const n = noteByVideo.get(m.video.toLowerCase()); return { ...m, title: n?.title ?? m.title, date: n?.date ?? m.date ?? null, teacher: n?.teacher ?? "", url: n?.url ?? null }; }),
+    }));
+    writeJson(path.join(API, "library", "class-books.json"), classBooks);
+    console.error(`library: ${classBooks.length} class books on the shelf`);
   }
 }
 writeJson(path.join(API, "library", "index.json"), libraryIndex);

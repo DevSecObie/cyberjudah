@@ -552,25 +552,25 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "mercy", "sexual-purity", "wo
 
 **[Sirach 26:13-17](/bible/sirach/26#v13)**  *[[2:11:08](https://www.youtube.com/watch?v=PCaC1bom4x8&t=7868s)]*
 
-> <sup>[13](/bible/sirach/26#v13)</sup> The grace of a wife delighteth her husband, and her discretion will fatten his bones.
->
-> <sup>[14](/bible/sirach/26#v14)</sup> A silent and loving woman is a gift of the Lord; and there is nothing so much worth as a mind well instructed.
->
-> <sup>[15](/bible/sirach/26#v15)</sup> A shamefaced and faithful woman is a double grace, and her continent mind cannot be valued.
->
-> <sup>[16](/bible/sirach/26#v16)</sup> As the sun when it ariseth in the high heaven; so is the beauty of a good wife in the ordering of her house.
->
-> <sup>[17](/bible/sirach/26#v17)</sup> As the clear light is upon the holy candlestick; so is the beauty of the face in ripe age.
-
 - The grace of a wife delights her husband, and her discretion will fatten his bones. You sisters who have grace and mercy, it delights your husband.
 
 - A silent and loving woman is a gift of the Lord. Silent does not mean tape over her mouth when her husband comes home; it means she is not argumentative, she listens, she serves her lord.
+
+> <sup>[13](/bible/sirach/26#v13)</sup> The grace of a wife delighteth her husband, and her discretion will fatten his bones.
+>
+> <sup>[14](/bible/sirach/26#v14)</sup> A silent and loving woman is a gift of the Lord; and there is nothing so much worth as a mind well instructed.
 
 - There is nothing so much worth as a mind well instructed: the sister who is instructed by her husband and listens to him. The Lord loves to see that.
 
 - A shamefaced and faithful woman is a double grace. You are not up in everybody's face and you are faithful to your man, and the Lord shows that brother mercy.
 
 - As the sun when it ariseth in the high heaven, so is the beauty of a good wife in the ordering of her house. Ordering her house is serving her lord. For you wicked black woman who says I am not serving no man, I am not cooking, I am not cleaning, that is what God says.
+
+> <sup>[15](/bible/sirach/26#v15)</sup> A shamefaced and faithful woman is a double grace, and her continent mind cannot be valued.
+>
+> <sup>[16](/bible/sirach/26#v16)</sup> As the sun when it ariseth in the high heaven; so is the beauty of a good wife in the ordering of her house.
+>
+> <sup>[17](/bible/sirach/26#v17)</sup> As the clear light is upon the holy candlestick; so is the beauty of the face in ripe age.
 
 
 ## Class Questions

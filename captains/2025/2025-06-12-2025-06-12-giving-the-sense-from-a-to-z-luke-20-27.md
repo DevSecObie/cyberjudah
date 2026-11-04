@@ -66,20 +66,10 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 **[Matthew 16:6-12](/bible/matthew/16#v6)**  *[[14:06](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=846s)]*
 
 > <sup>[6](/bible/matthew/16#v6)</sup> Then Jesus said unto them, Take heed and beware of the leaven of the Pharisees and of the Sadducees.
->
-> <sup>[7](/bible/matthew/16#v7)</sup> And they reasoned among themselves, saying, It is because we have taken no bread.
->
-> <sup>[8](/bible/matthew/16#v8)</sup> Which when Jesus perceived, he said unto them, O ye of little faith, why reason ye among yourselves, because ye have brought no bread?
->
-> <sup>[9](/bible/matthew/16#v9)</sup> Do ye not yet understand, neither remember the five loaves of the five thousand, and how many baskets ye took up?
->
-> <sup>[10](/bible/matthew/16#v10)</sup> Neither the seven loaves of the four thousand, and how many baskets ye took up?
->
-> <sup>[11](/bible/matthew/16#v11)</sup> How is it that ye do not understand that I spake it not to you concerning bread, that ye should beware of the leaven of the Pharisees and of the Sadducees?
->
-> <sup>[12](/bible/matthew/16#v12)</sup> Then understood they how that he bade them not beware of the leaven of bread, but of the doctrine of the Pharisees and of the Sadducees.
 
 - Then Jesus said unto them, Take heed and beware of the leaven of the Pharisees and of the Sadducees: Go ahead.
+
+> <sup>[7](/bible/matthew/16#v7)</sup> And they reasoned among themselves, saying, It is because we have taken no bread.
 
 - And they reasoned among themselves, saying, It is because we have taken no bread: This is the disciples. They like, "Damn, why are you telling us, hey, beware of the leaven of the Pharisees and the Sadducees?" He said, "Is it because we don't have any bread? We take no bread." Watch this. Read. Go ahead.
 
@@ -89,9 +79,19 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 
 - Neither the seven loaves of the 4,000 and how many baskets ye took up: You don't remember that miracle that I performed. So why would your mind automatically go to bread? Go ahead. Read.
 
+> <sup>[8](/bible/matthew/16#v8)</sup> Which when Jesus perceived, he said unto them, O ye of little faith, why reason ye among yourselves, because ye have brought no bread?
+>
+> <sup>[9](/bible/matthew/16#v9)</sup> Do ye not yet understand, neither remember the five loaves of the five thousand, and how many baskets ye took up?
+>
+> <sup>[10](/bible/matthew/16#v10)</sup> Neither the seven loaves of the four thousand, and how many baskets ye took up?
+>
+> <sup>[11](/bible/matthew/16#v11)</sup> How is it that ye do not understand that I spake it not to you concerning bread, that ye should beware of the leaven of the Pharisees and of the Sadducees?
+
 - How is it that ye do not understand that I spake it not to you concerning bread, that ye should beware of the leaven of the Pharisees and of the Sadducees: Go ahead.
 
 - Then understood they how that he bathe them not beware of the leaven of bread: So when he said that, it put him back in a mind frame. Damn, we do remember that. We do remember the miracle. He ain't talking about bread when he's talking about the 11 of the Sadducees and the Pharisees. But go ahead, read.
+
+> <sup>[12](/bible/matthew/16#v12)</sup> Then understood they how that he bade them not beware of the leaven of bread, but of the doctrine of the Pharisees and of the Sadducees.
 
 - But of the doctrine of the Pharisees and of the Sadducees: Of the what? The doctrine of the Pharisees. But of the doctrine that they will be pushing, of the Pharisees and of the Sadducees. Beware of this doctrine that they will be pushing throughout the times, throughout this time right here. Be aware of that. And one of the doctrines they was pushing was, when we go back into Acts 23, the Sadducees didn't believe in resurrection. They didn't believe in that. So he said, "Beware of that." So let's go back to Luke, the book of Luke. Pick up at 27 again.
 
@@ -112,8 +112,6 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 **[Deuteronomy 25:5-6](/bible/deuteronomy/25#v5)**  *[[16:59](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=1019s)]*
 
 > <sup>[5](/bible/deuteronomy/25#v5)</sup> If brethren dwell together, and one of them die, and have no child, the wife of the dead shall not marry without unto a stranger: her husband’s brother shall go in unto her, and take her to him to wife, and perform the duty of an husband’s brother unto her.
->
-> <sup>[6](/bible/deuteronomy/25#v6)</sup> And it shall be, that the firstborn which she beareth shall succeed in the name of his brother which is dead, that his name be not put out of Israel.
 
 - If brethren dwell together: If brethren dwell together, go ahead.
 
@@ -121,15 +119,23 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 
 - Her husband's brother shall go in unto her, and take her to him to wife, and perform the duty of an husband's brother unto her: Go ahead.
 
+> <sup>[6](/bible/deuteronomy/25#v6)</sup> And it shall be, that the firstborn which she beareth shall succeed in the name of his brother which is dead, that his name be not put out of Israel.
+
 - And it shall be that the firstborn which she beareth shall succeed in the name of his brother which is dead: Shall do what? Succeed in the name of his brother which is dead. Now that's a key point right there, referencing the law. It says if your brother dies, you understand, she can't marry a stranger. The brother of that deceased brother, he has to go into the wife and bring up a seed. Bring up a seed in his name. That firstborn, that would be the seed of the deceased. That's the whole point of this law. So now when you go back, they're trying to use this law in reference to something else. Watch this. Read verse 28 again.
 
 
 **[Luke 20:28-33](/bible/luke/20#v28)**  *[[18:32](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=1112s)]*
 
 > <sup>[28](/bible/luke/20#v28)</sup> Saying, Master, Moses wrote unto us, If any man’s brother die, having a wife, and he die without children, that his brother should take his wife, and raise up seed unto his brother.
->
+
+- Saying, Master, Moses wrote unto us, if any man's brother die having a wife, and he die without children, that his brother should take his wife and raise up seed unto his brother: Go ahead.
+
 > <sup>[29](/bible/luke/20#v29)</sup> There were therefore seven brethren: and the first took a wife, and died without children.
->
+
+- There were therefore seven brethren, and the first took a wife: And watch how crafty they are. Go ahead.
+
+- And died without children. And the second took her to wife, and he died childless. And the third took her, and in like manner the seven also, and they left no children, and died. Last of all, the woman died also.
+
 > <sup>[30](/bible/luke/20#v30)</sup> And the second took her to wife, and he died childless.
 >
 > <sup>[31](/bible/luke/20#v31)</sup> And the third took her; and in like manner the seven also: and they left no children, and died.
@@ -137,12 +143,6 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 > <sup>[32](/bible/luke/20#v32)</sup> Last of all the woman died also.
 >
 > <sup>[33](/bible/luke/20#v33)</sup> Therefore in the resurrection whose wife of them is she? for seven had her to wife.
-
-- Saying, Master, Moses wrote unto us, if any man's brother die having a wife, and he die without children, that his brother should take his wife and raise up seed unto his brother: Go ahead.
-
-- There were therefore seven brethren, and the first took a wife: And watch how crafty they are. Go ahead.
-
-- And died without children. And the second took her to wife, and he died childless. And the third took her, and in like manner the seven also, and they left no children, and died. Last of all, the woman died also.
 
 - Therefore, in the resurrection, whose wife of them is she?: What was the question? Therefore, in the resurrection, in the resurrection, go ahead, whose wife of them is she? Did that law have anything to do about whose wife she would be? No. The law, when you read it, it was referencing bringing up a seed in the deceased's brother's name. You understand? So, this is how crafty the Pharisees and the Sadducees and the scribes was when they trying to bring up these different things to trip Christ up in his speech. They're going to use the law. Hey, listen. This is what Moses said. But this had nothing to do with a wife, whose wife he's going to be. But watch how Christ said. Watch this. Read. Watch what Christ said. Read. Come on.
 
@@ -152,16 +152,16 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 **[Luke 20:34-36](/bible/luke/20#v34)**  *[[20:01](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=1201s)]*
 
 > <sup>[34](/bible/luke/20#v34)</sup> And Jesus answering said unto them, The children of this world marry, and are given in marriage:
->
-> <sup>[35](/bible/luke/20#v35)</sup> But they which shall be accounted worthy to obtain that world, and the resurrection from the dead, neither marry, nor are given in marriage:
->
-> <sup>[36](/bible/luke/20#v36)</sup> Neither can they die any more: for they are equal unto the angels; and are the children of God, being the children of the resurrection.
 
 - And Jesus answering said unto them, The children of this world marry and are given in marriage: The children of this world, this is what they do. They marry and they given into marriage in this life. And that law stands. Watch this. Read. Go ahead.
 
 - But they which shall be counted worthy to obtain that world and the resurrection from the dead, neither marry nor are given in marriage: He said, listen, the children of this world, they married, they married and they given into marriage, but that world that's to come, that you should obtain that world, you understand, it says they are, and in the resurrection of the dead, neither married nor are given into marriage in that world that's to come. He's speaking about a different time. Watch this, read. Watch this, read verse 36.
 
 - Neither can they die anymore: Read that again. Neither can they die anymore. Why would say neither can they die anymore? Because why? In that world is going to be everlasting life. Give me that in Luke 18, Luke 18 29-30 right quick.
+
+> <sup>[35](/bible/luke/20#v35)</sup> But they which shall be accounted worthy to obtain that world, and the resurrection from the dead, neither marry, nor are given in marriage:
+>
+> <sup>[36](/bible/luke/20#v36)</sup> Neither can they die any more: for they are equal unto the angels; and are the children of God, being the children of the resurrection.
 
 
 **[Luke 18:29-30](/bible/luke/18#v29)**  *[[20:46](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=1246s)]*
@@ -221,12 +221,6 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 **[Luke 20:35-38](/bible/luke/20#v35)**  *[[24:05](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=1445s)]*
 
 > <sup>[35](/bible/luke/20#v35)</sup> But they which shall be accounted worthy to obtain that world, and the resurrection from the dead, neither marry, nor are given in marriage:
->
-> <sup>[36](/bible/luke/20#v36)</sup> Neither can they die any more: for they are equal unto the angels; and are the children of God, being the children of the resurrection.
->
-> <sup>[37](/bible/luke/20#v37)</sup> Now that the dead are raised, even Moses shewed at the bush, when he calleth the Lord the God of Abraham, and the God of Isaac, and the God of Jacob.
->
-> <sup>[38](/bible/luke/20#v38)</sup> For he is not a God of the dead, but of the living: for all live unto him.
 
 - But they which shall be accounted worthy to obtain that world, and the resurrection from the dead: And the resurrection from the dead. Go ahead.
 
@@ -234,11 +228,17 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 
 - Neither can they die anymore: Neither can they die anymore. Because why? It's going to be a everlasting, everlasting life. Watch this. Read.
 
+> <sup>[36](/bible/luke/20#v36)</sup> Neither can they die any more: for they are equal unto the angels; and are the children of God, being the children of the resurrection.
+
 - For they are equal unto the angels: Meaning immortality. Go ahead.
 
 - And are the children of God, being the children of the resurrection: Go ahead.
 
 - Now that the dead are raised, even Moses showed at the bush when he calleth the Lord the God of Abraham and the God of Isaac and the God of Jacob. For he is not a God of the dead: He is not a God of the dead. Go ahead.
+
+> <sup>[37](/bible/luke/20#v37)</sup> Now that the dead are raised, even Moses shewed at the bush, when he calleth the Lord the God of Abraham, and the God of Isaac, and the God of Jacob.
+>
+> <sup>[38](/bible/luke/20#v38)</sup> For he is not a God of the dead, but of the living: for all live unto him.
 
 - But of the living: But of the living. Go ahead.
 
@@ -247,6 +247,10 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 
 **[1 Corinthians 15:3-8](/bible/1-corinthians/15#v3)**  *[[25:35](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=1535s)]*
 
+- For I delivered unto you first of all that which I also received, that Christ died for our sins according to the scriptures, and that he was buried and that he rose again the third day according to the scriptures: According to the scriptures. Go ahead.
+
+- And that he was seen of Cephas, then of the 12, after that he was seen of above 500 brethren at once: You see that? So Christ was seen after his death not only of Cephas but of 500 brethren at one time. Go ahead, watch.
+
 > <sup>[3](/bible/1-corinthians/15#v3)</sup> For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures;
 >
 > <sup>[4](/bible/1-corinthians/15#v4)</sup> And that he was buried, and that he rose again the third day according to the scriptures:
@@ -254,18 +258,14 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 > <sup>[5](/bible/1-corinthians/15#v5)</sup> And that he was seen of Cephas, then of the twelve:
 >
 > <sup>[6](/bible/1-corinthians/15#v6)</sup> After that, he was seen of above five hundred brethren at once; of whom the greater part remain unto this present, but some are fallen asleep.
->
-> <sup>[7](/bible/1-corinthians/15#v7)</sup> After that, he was seen of James; then of all the apostles.
->
-> <sup>[8](/bible/1-corinthians/15#v8)</sup> And last of all he was seen of me also, as of one born out of due time.
-
-- For I delivered unto you first of all that which I also received, that Christ died for our sins according to the scriptures, and that he was buried and that he rose again the third day according to the scriptures: According to the scriptures. Go ahead.
-
-- And that he was seen of Cephas, then of the 12, after that he was seen of above 500 brethren at once: You see that? So Christ was seen after his death not only of Cephas but of 500 brethren at one time. Go ahead, watch.
 
 - Of whom the greater part remain unto this present: So it was more alive of that 500 than had passed during this time period. Go ahead.
 
 - But some are fallen asleep: But some have fallen asleep. Go ahead.
+
+> <sup>[7](/bible/1-corinthians/15#v7)</sup> After that, he was seen of James; then of all the apostles.
+>
+> <sup>[8](/bible/1-corinthians/15#v8)</sup> And last of all he was seen of me also, as of one born out of due time.
 
 - After that he was seen of James, then of all the apostles, and last of all he was seen of me also as of one born out of due time: I just went down to verse eight. That's verse 8. Okay. Jump down. Jump down now to verse, look at 12, 12-21.
 
@@ -273,36 +273,24 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 **[1 Corinthians 15:12-21](/bible/1-corinthians/15#v12)**  *[[27:11](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=1631s)]*
 
 > <sup>[12](/bible/1-corinthians/15#v12)</sup> Now if Christ be preached that he rose from the dead, how say some among you that there is no resurrection of the dead?
->
-> <sup>[13](/bible/1-corinthians/15#v13)</sup> But if there be no resurrection of the dead, then is Christ not risen:
->
-> <sup>[14](/bible/1-corinthians/15#v14)</sup> And if Christ be not risen, then is our preaching vain, and your faith is also vain.
->
-> <sup>[15](/bible/1-corinthians/15#v15)</sup> Yea, and we are found false witnesses of God; because we have testified of God that he raised up Christ: whom he raised not up, if so be that the dead rise not.
->
-> <sup>[16](/bible/1-corinthians/15#v16)</sup> For if the dead rise not, then is not Christ raised:
->
-> <sup>[17](/bible/1-corinthians/15#v17)</sup> And if Christ be not raised, your faith is vain; ye are yet in your sins.
->
-> <sup>[18](/bible/1-corinthians/15#v18)</sup> Then they also which are fallen asleep in Christ are perished.
->
-> <sup>[19](/bible/1-corinthians/15#v19)</sup> If in this life only we have hope in Christ, we are of all men most miserable.
->
-> <sup>[20](/bible/1-corinthians/15#v20)</sup> But now is Christ risen from the dead, and become the firstfruits of them that slept.
->
-> <sup>[21](/bible/1-corinthians/15#v21)</sup> For since by man came death, by man came also the resurrection of the dead.
 
 - Now if Christ be preached that he rose from the dead, how say some among you that there is no resurrection of the dead?: Who would teach that there's no resurrection of the dead? That's what the Sadducees was teaching. This is what Christ said, "Hey, you got to beware of them. They ering in the scriptures. They desiring to be teachers, not knowing what they saying or the things that they affirm." He said, "Listen, read it again." And this is what Paul is teaching after Christ's death, after the resurrection, to those who believed in Christ, of the church of Corinth. Read it again.
+
+> <sup>[13](/bible/1-corinthians/15#v13)</sup> But if there be no resurrection of the dead, then is Christ not risen:
 
 - But if there be no resurrection of the dead: If there is no resurrection of the dead, go ahead.
 
 - Then is Christ not risen: Christ ain't risen. If there ain't no resurrection, who the hell did these 500 men see? Who did Cephas see? If Christ ain't risen, you trying to say they eyes was deceiving them. He said more of the 500 was alive at this time than that, and some have fallen asleep. So how the hell y'all still, y'all spreading this doctrine around in the church? This is what Paul is saying. Read it again.
+
+> <sup>[14](/bible/1-corinthians/15#v14)</sup> And if Christ be not risen, then is our preaching vain, and your faith is also vain.
 
 - And if Christ be not risen, then is our preaching vain: He said, "What the hell are we preaching for? If Christ ain't risen, then why are we preaching?" Go ahead.
 
 - And your faith is also vain: And that your faith, the things you believe in. Why are you in the church? Why are you not in the world? Why are you not just living out your life? Why are you here? This is a church of, I mean, of believers. We're supposed to be in the same mind, same spirit. You understand? In Christ. So if you think there is no resurrection, your faith is in vain. Go ahead, read verse 15.
 
 - Yay, and we are found false witnesses of God: And now we false witnesses. Go ahead.
+
+> <sup>[15](/bible/1-corinthians/15#v15)</sup> Yea, and we are found false witnesses of God; because we have testified of God that he raised up Christ: whom he raised not up, if so be that the dead rise not.
 
 - Because we have testified of God that he raised up Christ, whom he raised not up, if so be that the dead rise not: If what you saying is true, we false witnesses of God. Because he didn't raise them up. If what you saying is true. Go ahead. Verse 16.
 
@@ -312,18 +300,30 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 
 - If in this life only we have hope in Christ, we are all of men: He said, man, you are miserable, man. You miserable. If it just in this life you got hope of Christ, there ain't no resurrection, you ain't thinking about what's to come, that world to come. He said that's a miserable life. Go ahead.
 
+> <sup>[16](/bible/1-corinthians/15#v16)</sup> For if the dead rise not, then is not Christ raised:
+>
+> <sup>[17](/bible/1-corinthians/15#v17)</sup> And if Christ be not raised, your faith is vain; ye are yet in your sins.
+>
+> <sup>[18](/bible/1-corinthians/15#v18)</sup> Then they also which are fallen asleep in Christ are perished.
+>
+> <sup>[19](/bible/1-corinthians/15#v19)</sup> If in this life only we have hope in Christ, we are of all men most miserable.
+>
+> <sup>[20](/bible/1-corinthians/15#v20)</sup> But now is Christ risen from the dead, and become the firstfruits of them that slept.
+
 - But now is Christ risen from the dead: But now Christ is risen from the dead. Go ahead.
 
 - And become the first fruits of them that sleep. For since by man came death, by man came also the resurrection of the dead: The resurrection of the dead. So that's why he always warned us, listen, beware of that. Beware of that leaven. Because if you don't be aware of that leaven of the scribes and the Pharisees, get that in Galatians 5. A little leaven, right? This is what will happen. First Corinthians 5. Now Galatians, is it Galatians 5 in verse 19? I believe it is, or nine. Yep. Nine.
+
+> <sup>[21](/bible/1-corinthians/15#v21)</sup> For since by man came death, by man came also the resurrection of the dead.
 
 
 **[Galatians 5:9-10](/bible/galatians/5#v9)**  *[[30:53](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=1853s)]*
 
 > <sup>[9](/bible/galatians/5#v9)</sup> A little leaven leaveneth the whole lump.
->
-> <sup>[10](/bible/galatians/5#v10)</sup> I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be.
 
 - A little leaven leaveneth the whole lump: You see that? A little leaven leaveneth the whole lump. You sit there and you allow one canker to spread. He's spreading the doctor. Ain't no resurrection, or the resurrection is already passed. You understand? That start to 11 the whole up. You overthrow brothers and sisters faith. That's why he said beware of that leaven of the scribes and the Pharisees, because a little leaven leaveneth the whole lump. Go ahead.
+
+> <sup>[10](/bible/galatians/5#v10)</sup> I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be.
 
 - I have confidence in you through the Lord that ye will be none otherwise minded. But he that troubleth you shall bear his judgment: Bear the judgment. Kick this negro out. We all supposed to be in the same mind, same spirit. You understand? Beware of that leaven. Now, let's go back. Let's go back. 38. Yeah. Verse 38 one more time.
 
@@ -366,11 +366,9 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 
 **[Isaiah 60:20-21](/bible/isaiah/60#v20)**  *[[34:52](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=2092s)]*
 
-> <sup>[20](/bible/isaiah/60#v20)</sup> Thy sun shall no more go down; neither shall thy moon withdraw itself: for the Lord shall be thine everlasting light, and the days of thy mourning shall be ended.
->
-> <sup>[21](/bible/isaiah/60#v21)</sup> Thy people also shall be all righteous: they shall inherit the land for ever, the branch of my planting, the work of my hands, that I may be glorified.
-
 - Thy son shall no more go down: So thy understanding, our righteousness is not going to go down no more. You understand? Once we get to the kingdom, once those who are found worthy to obtain that world to come, listen, our understanding is not going to go away. Understand that we going to be righteous. We going to be living, reigning forever. And it's going to explain it. Go ahead.
+
+> <sup>[20](/bible/isaiah/60#v20)</sup> Thy sun shall no more go down; neither shall thy moon withdraw itself: for the Lord shall be thine everlasting light, and the days of thy mourning shall be ended.
 
 - Neither shall thy moon withdraw itself: Go ahead.
 
@@ -380,20 +378,22 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 
 - Thy people also shall be all righteous. They shall inherit the land forever: How long? Forever. Forever. Forever. That's why he said, "Listen, in this world, you given a marriage. You got to keep that. But in the kingdom of heaven, you airing when you looking at the scriptures. In the kingdom of heaven, listen, ain't going to be no death. I'm not the God of the dead. I'm the God of the living. And we going to inherit the land forever." Go ahead.
 
+> <sup>[21](/bible/isaiah/60#v21)</sup> Thy people also shall be all righteous: they shall inherit the land for ever, the branch of my planting, the work of my hands, that I may be glorified.
+
 - The branch of my planting, the work of my hands, that I may be glorified: Right? Okay. Now, watch this. Let's go from there. Give me Isaiah. Stay in Isaiah, 59 and 20.
 
 
 **[Isaiah 59:20-21](/bible/isaiah/59#v20)**  *[[36:17](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=2177s)]*
 
 > <sup>[20](/bible/isaiah/59#v20)</sup> And the Redeemer shall come to Zion, and unto them that turn from transgression in Jacob, saith the Lord.
->
-> <sup>[21](/bible/isaiah/59#v21)</sup> As for me, this is my covenant with them, saith the Lord; My spirit that is upon thee, and my words which I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed’s seed, saith the Lord, from henceforth and for ever.
 
 - And the redeemer shall come to Zion: Christ. Go ahead.
 
 - And unto them that turn from transgression in Jacob, saith the Lord: He said the redeemer going to come to Zion. And unto them who turn from transgression, these are the ones that's going to be worthy to obtain the world to come. Watch this. Read what's going to happen.
 
 - As for me, this is my covenant with them, sayeth the Lord: Sayaith the Lord. Watch this.
+
+> <sup>[21](/bible/isaiah/59#v21)</sup> As for me, this is my covenant with them, saith the Lord; My spirit that is upon thee, and my words which I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed’s seed, saith the Lord, from henceforth and for ever.
 
 - My spirit that is upon thee, and my words which I have put in thy mouth: My spirit that's upon you, Isaiah, and the words that I put in your mouth, Isaiah, watch this. Read.
 
@@ -422,10 +422,10 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 **[Hebrews 11:24-25](/bible/hebrews/11#v24)**  *[[39:14](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=2354s)]*
 
 > <sup>[24](/bible/hebrews/11#v24)</sup> By faith Moses, when he was come to years, refused to be called the son of Pharaoh’s daughter;
->
-> <sup>[25](/bible/hebrews/11#v25)</sup> Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season;
 
 - By faith Moses, when he was come to years, refused to be called the son of Pharaoh's daughter: Go ahead. Watch this.
+
+> <sup>[25](/bible/hebrews/11#v25)</sup> Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season;
 
 - Choosing rather to suffer affliction with the people of God: Go ahead.
 
@@ -478,8 +478,6 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 **[Luke 20:38-39](/bible/luke/20#v38)**  *[[43:45](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=2625s)]*
 
 > <sup>[38](/bible/luke/20#v38)</sup> For he is not a God of the dead, but of the living: for all live unto him.
->
-> <sup>[39](/bible/luke/20#v39)</sup> Then certain of the scribes answering said, Master, thou hast well said.
 
 - For he is not a god of the dead: He's not a god of the dead. Go ahead.
 
@@ -489,8 +487,18 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 
 - Then certain of the scribes answering said, Master, thou has well said: You see that? Now you got the scribes sitting on the sideline. Hey, you spoke well in the spirit. You know, negro, he really ain't with you. But because, go back to Acts, go back to Acts. We got to go back to Acts. Acts 23, start one and just read fast, bro.
 
+> <sup>[39](/bible/luke/20#v39)</sup> Then certain of the scribes answering said, Master, thou hast well said.
+
 
 **[Acts 23:1-7](/bible/acts/23#v1)**  *[[44:24](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=2664s)]*
+
+- And Paul earnestly beholding the council said, Men and brethren, I have lived in all good conscience before God until this day. And the high priest Ananias commanded them that stood by to smite him on the mouth: Go ahead.
+
+- Then said Paul unto him, God shall smite thee, thou whited wall, for sinest thou to judge me after this law, and commandest me to be smitten contrary to the law: They was doing Paul bad. Go ahead.
+
+- And they that stood by said, Revile thou the God's high priest: Watch this. Go ahead.
+
+- Then said Paul, I was not, brethren, that he was the high priest, for it is written, Thou shalt not speak evil of the ruler of thy people: Okay, here we go. Go ahead.
 
 > <sup>[1](/bible/acts/23#v1)</sup> And Paul, earnestly beholding the council, said, Men and brethren, I have lived in all good conscience before God until this day.
 >
@@ -503,22 +511,14 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 > <sup>[5](/bible/acts/23#v5)</sup> Then said Paul, I wist not, brethren, that he was the high priest: for it is written, Thou shalt not speak evil of the ruler of thy people.
 >
 > <sup>[6](/bible/acts/23#v6)</sup> But when Paul perceived that the one part were Sadducees, and the other Pharisees, he cried out in the council, Men and brethren, I am a Pharisee, the son of a Pharisee: of the hope and resurrection of the dead I am called in question.
->
-> <sup>[7](/bible/acts/23#v7)</sup> And when he had so said, there arose a dissension between the Pharisees and the Sadducees: and the multitude was divided.
-
-- And Paul earnestly beholding the council said, Men and brethren, I have lived in all good conscience before God until this day. And the high priest Ananias commanded them that stood by to smite him on the mouth: Go ahead.
-
-- Then said Paul unto him, God shall smite thee, thou whited wall, for sinest thou to judge me after this law, and commandest me to be smitten contrary to the law: They was doing Paul bad. Go ahead.
-
-- And they that stood by said, Revile thou the God's high priest: Watch this. Go ahead.
-
-- Then said Paul, I was not, brethren, that he was the high priest, for it is written, Thou shalt not speak evil of the ruler of thy people: Okay, here we go. Go ahead.
 
 - But when Paul perceived that the one part were Sadducees: He perceived in the spirit that one part of them was the Sadducees. Remember, they didn't believe in the resurrection. Go ahead.
 
 - And the other Pharisees: The Pharisees believed in the resurrection. But go ahead. Watch this.
 
 - He cried unto the council, Men and brethren, I am a Pharisee, the son of a Pharisee. Of the hope and resurrection of the dead am I called in question: He said, "Of the hope of and resurrection of the dead, I'm called into question." I'm called into question for what I believe, for obtaining things that in the world to come. But remember, he said that he perceived in the spirit. Half of y'all are Sadducees. Half of y'all don't believe this and the other half believe it. Watch this. Read. Go ahead. Verse seven.
+
+> <sup>[7](/bible/acts/23#v7)</sup> And when he had so said, there arose a dissension between the Pharisees and the Sadducees: and the multitude was divided.
 
 - And when he had so said, there arose a dissension between the Pharisees and the Sadducees, and the multitude was divided: Now they divided. Now they divided. You understand that? Because why? You got one half that they believe in the resurrection. They believe in the spirits. And the other half don't believe in none of that. So now when you go back, now you understand why the scribes and the Pharisees, why the scribes said what they said. Go back, Luke 20 and verse 39.
 
@@ -556,12 +556,12 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 **[Luke 20:41-42](/bible/luke/20#v41)**  *[[48:44](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=2924s)]*
 
 > <sup>[41](/bible/luke/20#v41)</sup> And he said unto them, How say they that Christ is David’s son?
->
-> <sup>[42](/bible/luke/20#v42)</sup> And David himself saith in the book of Psalms, The Lord said unto my Lord, Sit thou on my right hand,
 
 - And he said unto them, How say they that Christ is David's son: So now you see why he said, how you say he's David's son? Because that's what the answer of the scribes and the Pharisees, because why, you had, these are wicked negroes that did not want to accept that Christ was the Messiah. So instead of saying that, hey, yeah, he's David's son. So Christ said, okay, all right, we'll roll with that. Let's go read.
 
 - And David himself said in the book of Psalms, The Lord said unto my Lord: He said, "How they say that Christ is David's son when David himself said in the book of Psalms?" Go ahead. The Lord said unto my Lord, the Lord said unto my Lord, the Lord said unto my Lord. Who would be David's Lord? David's Lord, when you read First Corinthians, can we just get there real quick? Yes, sir. Who is David's, man's Lord? Go ahead.
+
+> <sup>[42](/bible/luke/20#v42)</sup> And David himself saith in the book of Psalms, The Lord said unto my Lord, Sit thou on my right hand,
 
 
 **[1 Corinthians 11:3](/bible/1-corinthians/11#v3)**  *[[49:26](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=2966s)]*
@@ -574,16 +574,16 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 **[Luke 20:42-44](/bible/luke/20#v42)**  *[[49:26](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=2966s)]*
 
 > <sup>[42](/bible/luke/20#v42)</sup> And David himself saith in the book of Psalms, The Lord said unto my Lord, Sit thou on my right hand,
->
-> <sup>[43](/bible/luke/20#v43)</sup> Till I make thine enemies thy footstool.
->
-> <sup>[44](/bible/luke/20#v44)</sup> David therefore calleth him Lord, how is he then his son?
 
 - And David himself saith in the book of Psalms, the Lord said unto my Lord: The Lord said unto my Lord, go ahead.
 
 - Sit thou on my right hand: Sit thou on my right hand. Go ahead.
 
 - Till I make thine enemies thy foottool: Go ahead.
+
+> <sup>[43](/bible/luke/20#v43)</sup> Till I make thine enemies thy footstool.
+>
+> <sup>[44](/bible/luke/20#v44)</sup> David therefore calleth him Lord, how is he then his son?
 
 - David therefore calleth him Lord: David therefore calleth him Lord. Go ahead.
 
@@ -602,20 +602,18 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 **[Acts 2:29-32](/bible/acts/2#v29)**  *[[50:56](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=3056s)]*
 
 > <sup>[29](/bible/acts/2#v29)</sup> Men and brethren, let me freely speak unto you of the patriarch David, that he is both dead and buried, and his sepulchre is with us unto this day.
->
-> <sup>[30](/bible/acts/2#v30)</sup> Therefore being a prophet, and knowing that God had sworn with an oath to him, that of the fruit of his loins, according to the flesh, he would raise up Christ to sit on his throne;
->
-> <sup>[31](/bible/acts/2#v31)</sup> He seeing this before spake of the resurrection of Christ, that his soul was not left in hell, neither his flesh did see corruption.
->
-> <sup>[32](/bible/acts/2#v32)</sup> This Jesus hath God raised up, whereof we all are witnesses.
 
 - Men and brethren, let me freely speak unto you of the patriarch David: Of the patriarch David. Go ahead.
 
 - That he is both dead and buried, and his supplicer is with us unto this day: Go ahead.
 
+> <sup>[30](/bible/acts/2#v30)</sup> Therefore being a prophet, and knowing that God had sworn with an oath to him, that of the fruit of his loins, according to the flesh, he would raise up Christ to sit on his throne;
+
 - Therefore, being a prophet, and knowing that God had sworn with an oath to him that of the fruit of his loins: Of the fruit of his loins. Go ahead.
 
 - According to the flesh, he would raise up Christ to sit on his throne: You see that? According to the fruit of his loins, according to the flesh, he was going to raise up Christ. Meaning Christ was going to come through that lineage. So even when he's saying, "Hey, yeah, he's a son of David," he's showing you that he's a divine and physical. I mean, the play on words from the scribes and the Pharisees. Go ahead though. Read verse 31.
+
+> <sup>[31](/bible/acts/2#v31)</sup> He seeing this before spake of the resurrection of Christ, that his soul was not left in hell, neither his flesh did see corruption.
 
 - He seeing this before spake of the resurrection: What did he speak of? The resurrection. He cut still. He's still on the damn Sadducees head. David said, read it again. Verse 31, bro.
 
@@ -623,20 +621,22 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 
 - This Jesus Christ had God raised up, whereof we are all witnesses: Where we are all witness to this. We are all witnesses that this is the Christ. This is the Messiah. Now watch this. From there, that's it on that. Remember, they was blinded. So, he had to prick their minds. All right. Read that again. Verse 44. Let's go back to Luke.
 
+> <sup>[32](/bible/acts/2#v32)</sup> This Jesus hath God raised up, whereof we all are witnesses.
+
 
 **[Luke 20:44-46](/bible/luke/20#v44)**  *[[52:27](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=3147s)]*
 
 > <sup>[44](/bible/luke/20#v44)</sup> David therefore calleth him Lord, how is he then his son?
->
-> <sup>[45](/bible/luke/20#v45)</sup> Then in the audience of all the people he said unto his disciples,
->
-> <sup>[46](/bible/luke/20#v46)</sup> Beware of the scribes, which desire to walk in long robes, and love greetings in the markets, and the highest seats in the synagogues, and the chief rooms at feasts;
 
 - David therefore calleth him Lord: David called him Lord. Go ahead.
 
 - How is he then his son?: Go ahead.
 
 - Then and the audience of all the people, he said unto his disciples: Watch this.
+
+> <sup>[45](/bible/luke/20#v45)</sup> Then in the audience of all the people he said unto his disciples,
+>
+> <sup>[46](/bible/luke/20#v46)</sup> Beware of the scribes, which desire to walk in long robes, and love greetings in the markets, and the highest seats in the synagogues, and the chief rooms at feasts;
 
 - Beware of the scribes: Beware of these scribes and these Pharisees. Go ahead.
 
@@ -646,16 +646,10 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 **[Matthew 23:2-6](/bible/matthew/23#v2)**  *[[54:00](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=3240s)]*
 
 > <sup>[2](/bible/matthew/23#v2)</sup> Saying, The scribes and the Pharisees sit in Moses’ seat:
->
-> <sup>[3](/bible/matthew/23#v3)</sup> All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not.
->
-> <sup>[4](/bible/matthew/23#v4)</sup> For they bind heavy burdens and grievous to be borne, and lay them on men’s shoulders; but they themselves will not move them with one of their fingers.
->
-> <sup>[5](/bible/matthew/23#v5)</sup> But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments,
->
-> <sup>[6](/bible/matthew/23#v6)</sup> And love the uppermost rooms at feasts, and the chief seats in the synagogues,
 
 - Saying, The scribes and the Pharisees sit in Moses seat: They sit in Moses seat. Watch this. Read.
+
+> <sup>[3](/bible/matthew/23#v3)</sup> All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not.
 
 - All therefore whatsoever they bid you observe: All, any laws that they bring forth, observe those laws. Go ahead.
 
@@ -663,18 +657,22 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 
 - For they say and do not. For they bind heavy burdens and grievous to be born and lay them on men's shoulders: Go ahead.
 
+> <sup>[4](/bible/matthew/23#v4)</sup> For they bind heavy burdens and grievous to be borne, and lay them on men’s shoulders; but they themselves will not move them with one of their fingers.
+
 - But they themselves will not move them with one of their fingers: Go ahead.
+
+> <sup>[5](/bible/matthew/23#v5)</sup> But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments,
 
 - But all their works they do for to be seen of men: All they works they do for to be seen of men. They love the greetings in the markets. They love the high seats in the synagogues. They love the chief. That was their life. It wasn't for the edification. But he said everything that they bid, because they sit in Moses seat, the laws that they bringing forth, cuz remember the Sadducees, they believed in that law. Every law that they bid, he said, "Do it. Keep it." You understand? But don't do after they works, the examples that they set forth. Go ahead.
 
 - They make broad their felactories and enlarge the borders of their garments and love the uppermost rooms at feast: Okay. Go. No, you drop that. Come back to Luke. Luke chapter 20 and verse 46.
 
+> <sup>[6](/bible/matthew/23#v6)</sup> And love the uppermost rooms at feasts, and the chief seats in the synagogues,
+
 
 **[Luke 20:46-47](/bible/luke/20#v46)**  *[[55:34](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=3334s)]*
 
 > <sup>[46](/bible/luke/20#v46)</sup> Beware of the scribes, which desire to walk in long robes, and love greetings in the markets, and the highest seats in the synagogues, and the chief rooms at feasts;
->
-> <sup>[47](/bible/luke/20#v47)</sup> Which devour widows’ houses, and for a shew make long prayers: the same shall receive greater damnation.
 
 - Beware of the scribes: So he had to continually, continuous warn the people. Beware of these scribes, these Pharisees. Beware of their what? Their doctrine, the things that they was teaching, the things that they was preaching. Go ahead.
 
@@ -682,24 +680,20 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 
 - Which devour widows houses, and for a show make long prayers: And for a show they make long prayers. Go ahead.
 
+> <sup>[47](/bible/luke/20#v47)</sup> Which devour widows’ houses, and for a shew make long prayers: the same shall receive greater damnation.
+
 - The same shall receive greater damnation: They going to receive the greater damnation. Get that in Matthew 23. They going to receive the greater damnation. Matthew 23. Straight to the point, 33.
 
 
 **[Matthew 23:27-31](/bible/matthew/23#v27)**  *[[56:21](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=3381s)]*
 
-> <sup>[27](/bible/matthew/23#v27)</sup> Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men’s bones, and of all uncleanness.
->
-> <sup>[28](/bible/matthew/23#v28)</sup> Even so ye also outwardly appear righteous unto men, but within ye are full of hypocrisy and iniquity.
->
-> <sup>[29](/bible/matthew/23#v29)</sup> Woe unto you, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and garnish the sepulchres of the righteous,
->
-> <sup>[30](/bible/matthew/23#v30)</sup> And say, If we had been in the days of our fathers, we would not have been partakers with them in the blood of the prophets.
->
-> <sup>[31](/bible/matthew/23#v31)</sup> Wherefore ye be witnesses unto yourselves, that ye are the children of them which killed the prophets.
-
 - Woe unto you scribes and Pharisees, hypocrites, for you are like unto whited supplicers: Go ahead.
 
+> <sup>[27](/bible/matthew/23#v27)</sup> Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men’s bones, and of all uncleanness.
+
 - Which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness: So the outside was clean. From the surface they look like godly men. Sort of like these pastors. These pastors today, three-piece suits, looking good. They look up to par, but when you dive deep into their life, you see they have no integrity. They full of dead men's bones, meaning full of iniquity, full of adultery, full of all, case by case by case, robbery, thief, no integrity. This is how the scribes and the Pharisees was rolling during this time, and they are back here today. Go ahead. Verse 28. Go ahead.
+
+> <sup>[28](/bible/matthew/23#v28)</sup> Even so ye also outwardly appear righteous unto men, but within ye are full of hypocrisy and iniquity.
 
 - Even so ye also outwardly appear righteous unto men: Go ahead.
 
@@ -707,7 +701,13 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 
 - And iniquity. Woe unto you scribes and Pharisees, hypocrites, because ye build the tombs of the prophets, and garnish the separates of the righteous, and say, If we had been in the days of our fathers: If we've been in the days of our fathers, go ahead.
 
+> <sup>[29](/bible/matthew/23#v29)</sup> Woe unto you, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and garnish the sepulchres of the righteous,
+>
+> <sup>[30](/bible/matthew/23#v30)</sup> And say, If we had been in the days of our fathers, we would not have been partakers with them in the blood of the prophets.
+
 - We would not have been partakers with them in the blood of the prophets: You see that? This is how they saying, "Hey, listen. If we would have been back there, we wouldn't have killed the prophets like our forefathers." Go ahead.
+
+> <sup>[31](/bible/matthew/23#v31)</sup> Wherefore ye be witnesses unto yourselves, that ye are the children of them which killed the prophets.
 
 - Wherefore ye be witnesses unto yourselves: You witnesses against yourselves. Go ahead.
 

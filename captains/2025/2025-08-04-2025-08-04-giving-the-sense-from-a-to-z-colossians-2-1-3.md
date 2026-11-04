@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Colossians 2:1-3"
 slug: "2025/2025-08-04-giving-the-sense-from-a-to-z-colossians-2-1-3"
 date: "2025-08-04"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "Giving The Sense From A to Z · 2025-08-04"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "the-law", "unity", "wisdom"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-08-04 · Captain Emmanuel</p>
+<p class="taught">Giving The Sense From A to Z · 2025-08-04 · Captain Immanuel</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [2 Pet 3](/bible/2-peter/3) · [Col 2](/bible/colossians/2) · [Rom 1](/bible/romans/1) · [Rom 15](/bible/romans/15) · [Acts 19](/bible/acts/19) · [2 Cor 1](/bible/2-corinthians/1) · [Phil 2](/bible/philippians/2) · [Eph 4](/bible/ephesians/4) · [Judg 20](/bible/judges/20) · [1 Cor 1](/bible/1-corinthians/1) · [Col 1](/bible/colossians/1) · [Rom 11](/bible/romans/11) · [Rom 16](/bible/romans/16) · [Gen 22](/bible/genesis/22) · [Gal 3](/bible/galatians/3) · <i>and 7 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law", "unity", "wisdom"]
 
 ## Introduction
 
-*[[9:09](https://www.youtube.com/watch?v=G7lwR5ruYJg&t=549s)]* Hey, shalom family. Most high Christ bless. Welcome to another edition of Giving a Sense from A to Z. Today you got Captain Emmanuel of IUIC Arkansas. And today we going to be popping off Colossians chapter 2. All right. As we know, we going to read it. Read Nehemiah 8:8. Before I just get to rambling and all that, let's just pop it off. Come on.
+*[[9:09](https://www.youtube.com/watch?v=G7lwR5ruYJg&t=549s)]* Hey, shalom family. Most high Christ bless. Welcome to another edition of Giving a Sense from A to Z. Today you got Captain Immanuel of IUIC Arkansas. And today we going to be popping off Colossians chapter 2. All right. As we know, we going to read it. Read Nehemiah 8:8. Before I just get to rambling and all that, let's just pop it off. Come on.
 
 ## Scriptures Opened
 
@@ -72,10 +72,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law", "unity", "wisdom"]
 **[Romans 1:10-11](/bible/romans/1#v10)**  *[[21:48](https://www.youtube.com/watch?v=G7lwR5ruYJg&t=1308s)]*
 
 > <sup>[10](/bible/romans/1#v10)</sup> Making request, if by any means now at length I might have a prosperous journey by the will of God to come unto you.
->
-> <sup>[11](/bible/romans/1#v11)</sup> For I long to see you, that I may impart unto you some spiritual gift, to the end ye may be established;
 
 - Making request if by any means now at length I might have a prosperous journey by the will of God to come unto you: So Paul was making requests to God to bring him to Rome. This letter that was written to the Romans was prior to, and we going to prove it in a second, it was prior to him ever actually making it there. And when he made it there, it wasn't like how he made it to the other places, intentional transportation visits. His ass was brought there as a prisoner. You understand? That's how God wanted Paul to make it to Rome. But prior to that, he prayed for the Lord to bring him to Rome. Come on.
+
+> <sup>[11](/bible/romans/1#v11)</sup> For I long to see you, that I may impart unto you some spiritual gift, to the end ye may be established;
 
 - For I long to see you: For what? Paul said, I long to see you, brothers. Come on.
 
@@ -87,18 +87,18 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law", "unity", "wisdom"]
 **[Romans 15:22-25](/bible/romans/15#v22)**  *[[23:24](https://www.youtube.com/watch?v=G7lwR5ruYJg&t=1404s)]*
 
 > <sup>[22](/bible/romans/15#v22)</sup> For which cause also I have been much hindered from coming to you.
->
+
+- For which cause also I have been much hindered from coming to you: So Paul was like man I've been making plans, I've been trying to put things in play to make it there but I've been hindered from coming to you. Things pop up. Come on.
+
 > <sup>[23](/bible/romans/15#v23)</sup> But now having no more place in these parts, and having a great desire these many years to come unto you;
 >
 > <sup>[24](/bible/romans/15#v24)</sup> Whensoever I take my journey into Spain, I will come to you: for I trust to see you in my journey, and to be brought on my way thitherward by you, if first I be somewhat filled with your company.
->
-> <sup>[25](/bible/romans/15#v25)</sup> But now I go unto Jerusalem to minister unto the saints.
-
-- For which cause also I have been much hindered from coming to you: So Paul was like man I've been making plans, I've been trying to put things in play to make it there but I've been hindered from coming to you. Things pop up. Come on.
 
 - Whensoever I take my journey into Spain: So whenever I'm making my journey into Spain, showing that Paul had plans to go into Spain which is also not recorded that he ever made it, right? But he like look y'all when I'm on my way to Spain. Read.
 
 - I will come to you for I trust to see you in my journey: Right, so before I make, I'm on my way to Spain, I'mma stop by Rome and visit you brothers. You understand? Come on.
+
+> <sup>[25](/bible/romans/15#v25)</sup> But now I go unto Jerusalem to minister unto the saints.
 
 - But now I go unto Jerusalem: But right now I'm on my way to Jerusalem. Read.
 
@@ -128,32 +128,32 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law", "unity", "wisdom"]
 **[2 Corinthians 1:3-8](/bible/2-corinthians/1#v3)**  *[[28:20](https://www.youtube.com/watch?v=G7lwR5ruYJg&t=1700s)]*
 
 > <sup>[3](/bible/2-corinthians/1#v3)</sup> Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;
->
-> <sup>[4](/bible/2-corinthians/1#v4)</sup> Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God.
->
-> <sup>[5](/bible/2-corinthians/1#v5)</sup> For as the sufferings of Christ abound in us, so our consolation also aboundeth by Christ.
->
-> <sup>[6](/bible/2-corinthians/1#v6)</sup> And whether we be afflicted, it is for your consolation and salvation, which is effectual in the enduring of the same sufferings which we also suffer: or whether we be comforted, it is for your consolation and salvation.
->
-> <sup>[7](/bible/2-corinthians/1#v7)</sup> And our hope of you is stedfast, knowing, that as ye are partakers of the sufferings, so shall ye be also of the consolation.
->
-> <sup>[8](/bible/2-corinthians/1#v8)</sup> For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:
 
 - The Father of mercies, and the God of all comfort: The what? The God of all comfort. Come on.
 
 - Who comforted us in all our tribulation that we may be able to comfort them which are in any trouble: Right? So the comfort of us in all our tribulation in context is going into himself and his fellow soldiers, his laborers that was traveling and evangelizing. When they were doing that, they were being persecuted. So he's saying that God comforts us in our tribulation that we as the leaders may be able to comfort them which are in any trouble. Meaning you brothers and sisters that are congregants. Come on.
 
+> <sup>[4](/bible/2-corinthians/1#v4)</sup> Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God.
+
 - By the comfort wherewith we ourselves are comforted of God: By that same comfort which comes from the scriptures. Romans 15:4. Go ahead.
+
+> <sup>[5](/bible/2-corinthians/1#v5)</sup> For as the sufferings of Christ abound in us, so our consolation also aboundeth by Christ.
 
 - For as the sufferings of Christ abound in us: So just like the sufferings of Christ abound in us, meaning the persecution, the affliction. Go ahead.
 
 - So our consolation also aboundeth by Christ: The consolation abounds as well, meaning the comfort, the exhortation to keep pushing. That spirit is also abounding within us along with the affliction. So we ain't just suffering and woe is me. We're also getting exhorted and spiritually boosted to continue in the fight. All right, keep reading.
+
+> <sup>[6](/bible/2-corinthians/1#v6)</sup> And whether we be afflicted, it is for your consolation and salvation, which is effectual in the enduring of the same sufferings which we also suffer: or whether we be comforted, it is for your consolation and salvation.
 
 - And whether we be afflicted, it is for your consolation and salvation: So if we as the leaders are being afflicted, it's for your confident consolation. It's a confirmation that we really are the gods cuz that's what the Lord said would happen to the true believers. Come on.
 
 - Or whether we be comforted, it is for your consolation and salvation: Right, is for your consolation and salvation for us to be able to return unto you and continue to edify y'all and build y'all up. Read.
 
 - And our hope of you is steadfast knowing that as ye are partakers of the sufferings: That as you are partakers of the sufferings. Read.
+
+> <sup>[7](/bible/2-corinthians/1#v7)</sup> And our hope of you is stedfast, knowing, that as ye are partakers of the sufferings, so shall ye be also of the consolation.
+>
+> <sup>[8](/bible/2-corinthians/1#v8)</sup> For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:
 
 - For we would not, brethren, have you ignorant of our trouble which came to us in Asia: In where? In Asia. Meaning Asia Minor. He's referring to Acts chapter 19. What took place when they were in Ephesus. Y'all remember what happened to us? You understand? The whole city came against us. We thought we was going to die. So that uproar happened in Ephesus which was in Asia Minor. But that uproar was spread throughout the entire area, the region of Asia Minor, which also encompassed who? Colosse. You understand? So that's why he writing to the Colossians that you may be comforted because guess what, that uproar that happened in Ephesus spread throughout that entire region. And so the Colossians were also being targeted and persecuted. You understand? As the believers in Christ, the believers of that doctrine. Come on.
 
@@ -176,12 +176,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law", "unity", "wisdom"]
 **[Philippians 2:1-2](/bible/philippians/2#v1)**  *[[32:27](https://www.youtube.com/watch?v=G7lwR5ruYJg&t=1947s)]*
 
 > <sup>[1](/bible/philippians/2#v1)</sup> If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,
->
-> <sup>[2](/bible/philippians/2#v2)</sup> Fulfil ye my joy, that ye be likeminded, having the same love, being of one accord, of one mind.
 
 - If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the spirit: So you see how it's the same type of verbiage, right? If there be any comfort of love. Come on.
 
 - That ye be like-minded, having the same love: Having a what? That's what it is to be knit together in love. We got the same love. The love of Christ. All right. That's what it means. Israel united in Christ. That unity comes from that love. Having the same love. Read.
+
+> <sup>[2](/bible/philippians/2#v2)</sup> Fulfil ye my joy, that ye be likeminded, having the same love, being of one accord, of one mind.
 
 - Being of one accord of one mind: Unity is paramount. If we intend to grow, if we intend for the ministry to grow, we must come together spiritually with the same love, the same belief, the same knowledge and then apply and work together collectively in order to expand by trading the talents and things of that nature like the parable that Christ put forth, right? That starts with the ministering in terms of the preaching of the gospel. But once we begin to assemble in these places as a congregation, now resources must be brought forth, talents must be disclosed so operations and different things can be put in place to where we can become self-sufficient as a nation.
 
@@ -252,22 +252,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law", "unity", "wisdom"]
 **[Romans 11:25-33](/bible/romans/11#v25)**  *[[44:48](https://www.youtube.com/watch?v=G7lwR5ruYJg&t=2688s)]*
 
 > <sup>[25](/bible/romans/11#v25)</sup> For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in.
->
-> <sup>[26](/bible/romans/11#v26)</sup> And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:
->
-> <sup>[27](/bible/romans/11#v27)</sup> For this is my covenant unto them, when I shall take away their sins.
->
-> <sup>[28](/bible/romans/11#v28)</sup> As concerning the gospel, they are enemies for your sakes: but as touching the election, they are beloved for the fathers’ sakes.
->
-> <sup>[29](/bible/romans/11#v29)</sup> For the gifts and calling of God are without repentance.
->
-> <sup>[30](/bible/romans/11#v30)</sup> For as ye in times past have not believed God, yet have now obtained mercy through their unbelief:
->
-> <sup>[31](/bible/romans/11#v31)</sup> Even so have these also now not believed, that through your mercy they also may obtain mercy.
->
-> <sup>[32](/bible/romans/11#v32)</sup> For God hath concluded them all in unbelief, that he might have mercy upon all.
->
-> <sup>[33](/bible/romans/11#v33)</sup> O the depth of the riches both of the wisdom and knowledge of God! how unsearchable are his judgments, and his ways past finding out!
 
 - That ye should be ignorant of this mystery: This what? This mystery. Read.
 
@@ -277,23 +261,35 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law", "unity", "wisdom"]
 
 - Until the fullness of the Gentiles be come in: Because that's required in order for the fullness of the northern kingdom to come in, which started with them rejecting him and delivering Christ to be put to death. Christ had to die in the first place in order for the northern kingdom sins to be forgiven. There was no sacrifice that would suffice for the idolatry that northern kingdom had done for centuries. And also, right, even with the apostles after Christ, the southern kingdom being bugged out and persecuting them led to them being persecuted unto different cities to reach those scattered Israelites. You understand? And for the focus to be shifted to those scattered Israelites. So all of this is dealing with the mystery, you understand? Come on. Verse 26 read.
 
+> <sup>[26](/bible/romans/11#v26)</sup> And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:
+
 - And so all Israel: Stop. So this verse clears the confusion. You read 25 by itself. It's like, okay, Israel, right? Blindness in part. Okay. You guys say that only the scribes and Pharisees. Okay, that makes sense. The in part because not all the Israelites, obviously, the 12 were all Israelite. All right, the blind is in part. But then it says the fullness of the Gentiles. Guys, come on. The fullness of the Gentiles, that means that's not Israel because Israel is mentioned right there. So, the Gentiles must mean everybody else. No. You got Israel, meaning the southern kingdom, and the fullness of the Gentiles, meaning the uncircumcised southern kingdom from the time of the Greeks as well as the northern kingdom that had been cast off and fully assimilated into those other nations and Greek customs.
 
 - So that's why when you read verse 26, read. And so all Israel: Not just southern kingdom, not just the Jews who were born and raised as Israel in terms of the application of the old covenant, but also the Israelites that were not raised up in the old covenant. So all Israel, come on.
 
 - And shall turn away ungodliness from Jacob: From Moab? From Jacob. From Edom? From Jacob. From Zidon? From Jacob. So the Gentiles coming in is dealing with ungodliness being turned from Jacob. Meaning what? Those Gentiles are from Jacob. That's history. You understand what? But why? Read on.
 
+> <sup>[27](/bible/romans/11#v27)</sup> For this is my covenant unto them, when I shall take away their sins.
+
 - For this is my covenant unto them: And that covenant is dealing with the covenant that God made with Abraham. We going to get to that in a second. Come on.
+
+> <sup>[28](/bible/romans/11#v28)</sup> As concerning the gospel, they are enemies for your sakes: but as touching the election, they are beloved for the fathers’ sakes.
 
 - As concerning the gospel, they are enemies for your sake: The good news. So the southern kingdom, those scribes and Pharisees are enemies for your sakes. You scattered Israelites in Rome. Read.
 
 - But as touching the election, they are beloved for the father's sake: But as touching the election, meaning being chosen by God. They still the Israelites. God still love them. That's why they can still repent. Paul was one of the enemies of the gospel from the tribe of Benjamin that the Lord eventually revealed his son in him.
 
+> <sup>[29](/bible/romans/11#v29)</sup> For the gifts and calling of God are without repentance.
+
 - For the gifts and calling of God are without repentance: Meaning the Lord will never change who he called. The Lord would never change who he gave the gift of his covenants to. That's why Hebrews 88. The Lord is not going to change that. So the Jews can still repent. Come on.
+
+> <sup>[30](/bible/romans/11#v30)</sup> For as ye in times past have not believed God, yet have now obtained mercy through their unbelief:
 
 - For as ye in times past have not believed God: Right? You Gentiles in the mind, you Israelites that was not raised as Israel in terms of application. Come on.
 
 - Yet have now obtained mercy through their unbelief: You obtained mercy from God through the unbelief of the Jews that rejected Christ and still reject the apostles. Come on.
+
+> <sup>[31](/bible/romans/11#v31)</sup> Even so have these also now not believed, that through your mercy they also may obtain mercy.
 
 - Even so have these also now not believed: But even so also these unbelieving Jews have not believed. Read.
 
@@ -301,20 +297,24 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law", "unity", "wisdom"]
 
 - For God have concluded them all in unbelief: All 12 tribes. That all, read 26 again. Now read 32. That all is the same all. It's talking about all Israel. Ain't talking about all humanity. He talking about all nations. It's talking about all 12 tribes. Read.
 
+> <sup>[32](/bible/romans/11#v32)</sup> For God hath concluded them all in unbelief, that he might have mercy upon all.
+
 - That he might have mercy upon all: Israel. Read.
 
 - Oh, the depth of the riches both of the wisdom and knowledge of God: So now that sound like going back to Colossians 2:2, the rest of the verse, right? It said the acknowledgment of the mystery, but it also said the riches and of fullness and assurance and all of this. It's the same thing. Read verse 33 again.
 
 - How uncarchable are his judgments and his ways past finding out: So it says, "How unarchable are his judgments." That's why it said, well, we gonna deal with it in a second. We going to deal with it in a second. All right.
 
+> <sup>[33](/bible/romans/11#v33)</sup> O the depth of the riches both of the wisdom and knowledge of God! how unsearchable are his judgments, and his ways past finding out!
+
 
 **[Romans 16:25-26](/bible/romans/16#v25)**  *[[52:44](https://www.youtube.com/watch?v=G7lwR5ruYJg&t=3164s)]*
 
 > <sup>[25](/bible/romans/16#v25)</sup> Now to him that is of power to stablish you according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret since the world began,
->
-> <sup>[26](/bible/romans/16#v26)</sup> But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:
 
 - According to the revelation of the mystery which was kept secret since the world began: From the time of Genesis. Come on.
+
+> <sup>[26](/bible/romans/16#v26)</sup> But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:
 
 - But now is made manifest: So the mystery has manifested through Christ dying, resurrecting and the gospel going forth. Go ahead.
 
@@ -333,14 +333,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law", "unity", "wisdom"]
 **[Galatians 3:13-14](/bible/galatians/3#v13)**  *[[55:31](https://www.youtube.com/watch?v=G7lwR5ruYJg&t=3331s)]*
 
 > <sup>[13](/bible/galatians/3#v13)</sup> Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree:
->
-> <sup>[14](/bible/galatians/3#v14)</sup> That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.
 
 - Christ hath redeemed us from the curse of the law: Stop. Who was under the curse of the law? Who was the law given to? And what was the curses within the law? The law was given to the Israelites and the curse within that law for not obeying it was in Deuteronomy chapter 28 which was only for the Israelites. So Paul writing to the Galatians is showing, by him saying this, he's showing that the Galatians that he's writing to were those that were under the curse of the law, meaning bound under the Old Testament. Whether they were keeping it or not in terms of the temple and sacrifices or whatever, the Israelites were bound under the curse of the law. So who is Paul talking to? Israelites, but they had taken on the identity of Galatians because they were hellaized. You understand? So Christ redeemed us from the curse of the law. Come on.
 
 - Being made a curse for us: Right? You read about in Deuteronomy chapter 21. When you're hanged on a tree, what going to say it? Go ahead.
 
 - For it is written, Cursed is everyone that hangeth on a tree. That the blessing of Abraham: So wait, so Christ made himself a curse. Where did Christ come from? The seed of Abraham. So Christ made himself a curse. That meaning so the what? Come.
+
+> <sup>[14](/bible/galatians/3#v14)</sup> That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.
 
 - That the blessing of Abraham might come on the Gentiles: Come on who? The Gentiles. Meaning the northern kingdom of Israel. Come on.
 
@@ -365,12 +365,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law", "unity", "wisdom"]
 **[Galatians 3:14-16](/bible/galatians/3#v14)**  *[[59:27](https://www.youtube.com/watch?v=G7lwR5ruYJg&t=3567s)]*
 
 > <sup>[14](/bible/galatians/3#v14)</sup> That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.
->
-> <sup>[15](/bible/galatians/3#v15)</sup> Brethren, I speak after the manner of men; Though it be but a man’s covenant, yet if it be confirmed, no man disannulleth, or addeth thereto.
->
-> <sup>[16](/bible/galatians/3#v16)</sup> Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ.
 
 - That we might receive the promise of the spirit through faith: Read on.
+
+> <sup>[15](/bible/galatians/3#v15)</sup> Brethren, I speak after the manner of men; Though it be but a man’s covenant, yet if it be confirmed, no man disannulleth, or addeth thereto.
 
 - Brethren, I speak after the manner of men: So, I'm going to make it plain for y'all real quick. I'm going to give y'all a cornal analogy. And this goes with the gifts and calling of God are without repentance. Meaning, it can't be altered. It can't be changed. Read.
 
@@ -381,6 +379,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law", "unity", "wisdom"]
 - No man dislowed: Nobody can cancel it out. Go ahead.
 
 - Or addeth there too: Or make any new modifications. Whatever that will is, let his will be done. When he's dead, it's over with. It's enforced as he left it. It cannot be altered. It cannot be changed. You understand? Come on.
+
+> <sup>[16](/bible/galatians/3#v16)</sup> Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ.
 
 - Now to Abraham and his seed: Now let's bring it back to the subject. Now to Abraham and his seed, read.
 
@@ -432,23 +432,23 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law", "unity", "wisdom"]
 
 **[1 Corinthians 2:6-8](/bible/1-corinthians/2#v6)**  *[[1:05:54](https://www.youtube.com/watch?v=G7lwR5ruYJg&t=3954s)]*
 
-> <sup>[6](/bible/1-corinthians/2#v6)</sup> Howbeit we speak wisdom among them that are perfect: yet not the wisdom of this world, nor of the princes of this world, that come to nought:
->
-> <sup>[7](/bible/1-corinthians/2#v7)</sup> But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:
->
-> <sup>[8](/bible/1-corinthians/2#v8)</sup> Which none of the princes of this world knew: for had they known it, they would not have crucified the Lord of glory.
-
 - How be it we speak wisdom among them that are perfect: Right? The them that are perfect are talking about the believers in Christ. We speak wisdom unto the believers in Christ. Come on.
+
+> <sup>[6](/bible/1-corinthians/2#v6)</sup> Howbeit we speak wisdom among them that are perfect: yet not the wisdom of this world, nor of the princes of this world, that come to nought:
 
 - Yet not the wisdom of this world: Yeah. Not the wisdom of this world. Read.
 
 - Nor of the princes of this world: And the princes of this world is not talking about the other nations. Is talking about the scribes and Pharisees. We going to prove it in a second, right? But not according to that wisdom that they have. Go ahead.
+
+> <sup>[7](/bible/1-corinthians/2#v7)</sup> But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:
 
 - But we speak the wisdom of God in a mystery: In a what? In a mystery. Paul said we speak the wisdom of God in a mystery. Read.
 
 - Even the hidden wisdom: Even a what? Even the hidden wisdom. Ain't that what we just read in Colossians? Even the hidden wisdom, read.
 
 - Which God ordained before the world unto our glory: Meaning God chose, he elected who would be able to tap into that wisdom, who would understand Christ. You understand? Read on.
+
+> <sup>[8](/bible/1-corinthians/2#v8)</sup> Which none of the princes of this world knew: for had they known it, they would not have crucified the Lord of glory.
 
 - Which none of the princes of this world knew: Which none of the princes of this world knew. Watch this.
 
@@ -489,36 +489,26 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law", "unity", "wisdom"]
 **[John 14:15-26](/bible/john/14#v15)**  *[[1:10:57](https://www.youtube.com/watch?v=G7lwR5ruYJg&t=4257s)]*
 
 > <sup>[15](/bible/john/14#v15)</sup> If ye love me, keep my commandments.
->
-> <sup>[16](/bible/john/14#v16)</sup> And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;
->
-> <sup>[17](/bible/john/14#v17)</sup> Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.
->
-> <sup>[18](/bible/john/14#v18)</sup> I will not leave you comfortless: I will come to you.
->
-> <sup>[19](/bible/john/14#v19)</sup> Yet a little while, and the world seeth me no more; but ye see me: because I live, ye shall live also.
->
-> <sup>[20](/bible/john/14#v20)</sup> At that day ye shall know that I am in my Father, and ye in me, and I in you.
->
-> <sup>[21](/bible/john/14#v21)</sup> He that hath my commandments, and keepeth them, he it is that loveth me: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him.
->
-> <sup>[22](/bible/john/14#v22)</sup> Judas saith unto him, not Iscariot, Lord, how is it that thou wilt manifest thyself unto us, and not unto the world?
->
-> <sup>[23](/bible/john/14#v23)</sup> Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him.
->
-> <sup>[24](/bible/john/14#v24)</sup> He that loveth me not keepeth not my sayings: and the word which ye hear is not mine, but the Father’s which sent me.
->
-> <sup>[25](/bible/john/14#v25)</sup> These things have I spoken unto you, being yet present with you.
->
-> <sup>[26](/bible/john/14#v26)</sup> But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.
 
 - If ye love me: So Christ, this red letters. If you love me, do what? Keep my commandments. Got to keep the commandments. Read on.
 
 - And I will pray the father and he shall give you another comforter, that he may abide with you forever: So in order to receive this comforter, you have to keep the commandments. Right. Read on.
 
+> <sup>[16](/bible/john/14#v16)</sup> And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;
+>
+> <sup>[17](/bible/john/14#v17)</sup> Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.
+>
+> <sup>[18](/bible/john/14#v18)</sup> I will not leave you comfortless: I will come to you.
+
 - I will not leave you comfortless: So this, he said another comforter, but it's not a different entity than himself per se because right here he says, I will not leave you comfortless. Come on.
 
 - I will come to you: So this comforter is talking about him, his spirit. He's gonna leave them physically and then come back unto them in the spirit, that Holy Spirit. That's Christ. Come on.
+
+> <sup>[19](/bible/john/14#v19)</sup> Yet a little while, and the world seeth me no more; but ye see me: because I live, ye shall live also.
+>
+> <sup>[20](/bible/john/14#v20)</sup> At that day ye shall know that I am in my Father, and ye in me, and I in you.
+>
+> <sup>[21](/bible/john/14#v21)</sup> He that hath my commandments, and keepeth them, he it is that loveth me: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him.
 
 - He that hath my commandments: And that's Colossians 2 and 2 through 3, but it's still going. Come on.
 
@@ -526,15 +516,25 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law", "unity", "wisdom"]
 
 - He it is that loveth me: Yes. He that loves me, read.
 
+> <sup>[22](/bible/john/14#v22)</sup> Judas saith unto him, not Iscariot, Lord, how is it that thou wilt manifest thyself unto us, and not unto the world?
+
 - Judas saith unto him, not Iscariot: Right? Because it was another disciple named Judas. Read.
 
 - Lord, how is it that thou wilt manifest thyself unto us and not unto the world: Right? So he trying to make sure he understand, how you going to manifest to us and not to everybody, cuz at that time Christ was manifest to everybody. And he was walking the earth. So how, help me understand. Come on.
+
+> <sup>[23](/bible/john/14#v23)</sup> Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him.
 
 - If a man love me, he will keep my words: My what? My words. Meaning my commandments. Read.
 
 - And my father will love him, and we: And what? That's why said the mystery of God, the father and of Christ in whom all the treasures of wisdom. You understand? This goes so hard. Christ said, "And my father will love him." And who? And we. Read, we.
 
 - Will come unto him and make our abode with him: Now there's levels to that thing cuz that's the wisdom, but that's also going into power. Remember it said Christ is the wisdom and the power of God. But read on though. Read on.
+
+> <sup>[24](/bible/john/14#v24)</sup> He that loveth me not keepeth not my sayings: and the word which ye hear is not mine, but the Father’s which sent me.
+>
+> <sup>[25](/bible/john/14#v25)</sup> These things have I spoken unto you, being yet present with you.
+>
+> <sup>[26](/bible/john/14#v26)</sup> But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.
 
 - But the comforter, which is the Holy Ghost: Which is my spirit. Read.
 

@@ -2,7 +2,7 @@
 title: "70 TIMES 7: THE PERFECTION OF MERCY THROUGH CHRIST"
 slug: "2026/2026-05-23-70-times-7-the-perfection-of-mercy-through-christ"
 date: "2026-05-23"
-teacher: ""
+teacher: "Deacon Isaac"
 description: "IUIC in the ClassRoom · 2026-05-23"
 tags: ["IUIC in the ClassRoom", "christ", "mercy", "passover-feasts", "purpose", "sabbath"]
 ---
@@ -31,11 +31,12 @@ Set the frame first: the only reason we are in this building is because of Jesus
 **[Ecclesiasticus 12:10-11](/bible/sirach/12#v10)**  *[[14:23](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=863s)]*
 
 > <sup>[10](/bible/sirach/12#v10)</sup> Never trust thine enemy: for like as iron rusteth, so is his wickedness.
->
-> <sup>[11](/bible/sirach/12#v11)</sup> Though he humble himself, and go crouching, yet take good heed and beware of him, and thou shalt be unto him as if thou hadst wiped a lookingglass, and thou shalt know that his rust hath not been altogether wiped away.
 
 - Never trust thine enemy: for like as iron rusteth, so is his wickedness. Not sometimes; never. Back then he was cool with everybody; give him time, and the rust shows. Though he humble himself and go crouching, yet take good heed and beware of him: thou shalt know that his rust hath not been altogether wiped away.
+
 - The Most High asks, can a leopard change his spots? You cannot change Esau, and you were never commissioned to try.
+
+> <sup>[11](/bible/sirach/12#v11)</sup> Though he humble himself, and go crouching, yet take good heed and beware of him, and thou shalt be unto him as if thou hadst wiped a lookingglass, and thou shalt know that his rust hath not been altogether wiped away.
 
 **[Genesis 15:13](/bible/genesis/15#v13)**  *[[16:33](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=993s)]*
 
@@ -198,13 +199,14 @@ Set the frame first: the only reason we are in this building is because of Jesus
 **[Numbers 13:1-3](/bible/numbers/13#v1)**  *[[45:26](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=2726s)]*
 
 > <sup>[1](/bible/numbers/13#v1)</sup> And the Lord spake unto Moses, saying,
->
+
+- The Lord spake unto Moses: send thou men, that they may search the land of Canaan, which I give unto the children of Israel. Which I give: the fight was already the Lord's, and the land already given.
+
+- The men sent were not regular brothers; every one a ruler among them, heads of the children of Israel, men of renown who could lead other men.
+
 > <sup>[2](/bible/numbers/13#v2)</sup> Send thou men, that they may search the land of Canaan, which I give unto the children of Israel: of every tribe of their fathers shall ye send a man, every one a ruler among them.
 >
 > <sup>[3](/bible/numbers/13#v3)</sup> And Moses by the commandment of the Lord sent them from the wilderness of Paran: all those men were heads of the children of Israel.
-
-- The Lord spake unto Moses: send thou men, that they may search the land of Canaan, which I give unto the children of Israel. Which I give: the fight was already the Lord's, and the land already given.
-- The men sent were not regular brothers; every one a ruler among them, heads of the children of Israel, men of renown who could lead other men.
 
 **[Numbers 13:25-33](/bible/numbers/13#v25)**  *[[47:20](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=2840s)]*
 
@@ -520,7 +522,9 @@ Set the frame first: the only reason we are in this building is because of Jesus
 > <sup>[1](/bible/hebrews/4#v1)</sup> Let us therefore fear, lest, a promise being left us of entering into his rest, any of you should seem to come short of it.
 >
 > <sup>[2](/bible/hebrews/4#v2)</sup> For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard it.
->
+
+- Let us therefore fear, lest, a promise being left us of entering into his rest, any of you should seem to come short of it. For unto us was the gospel preached, as well as unto them: the gospel did not begin in Matthew; it was preached to our forefathers, and it did not profit them, not being mixed with faith.
+
 > <sup>[3](/bible/hebrews/4#v3)</sup> For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world.
 >
 > <sup>[4](/bible/hebrews/4#v4)</sup> For he spake in a certain place of the seventh day on this wise, And God did rest the seventh day from all his works.
@@ -532,15 +536,9 @@ Set the frame first: the only reason we are in this building is because of Jesus
 > <sup>[7](/bible/hebrews/4#v7)</sup> Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts.
 >
 > <sup>[8](/bible/hebrews/4#v8)</sup> For if Jesus had given them rest, then would he not afterward have spoken of another day.
->
-> <sup>[9](/bible/hebrews/4#v9)</sup> There remaineth therefore a rest to the people of God.
->
-> <sup>[10](/bible/hebrews/4#v10)</sup> For he that is entered into his rest, he also hath ceased from his own works, as God did from his.
->
-> <sup>[11](/bible/hebrews/4#v11)</sup> Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief.
 
-- Let us therefore fear, lest, a promise being left us of entering into his rest, any of you should seem to come short of it. For unto us was the gospel preached, as well as unto them: the gospel did not begin in Matthew; it was preached to our forefathers, and it did not profit them, not being mixed with faith.
 - For if Jesus had given them rest: that Jesus is Joshua. Joshua was mighty and smote the nations of Canaan, but there were enemies on every side, so the land was not the true rest. There remaineth therefore a rest to the people of God: the seventh day Sabbath is the similitude, and the substance is the kingdom, reigning with Christ.
+
 - Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief. Rest is entered by labour; that is the paradox the wilderness generation never accepted.
 
   Precepts:
@@ -581,6 +579,12 @@ Set the frame first: the only reason we are in this building is because of Jesus
     > <sup>[4](/bible/revelation/20#v4)</sup> And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years.
 
     And they lived and reigned with Christ a thousand years. The seventh day Sabbath represents us resting and reigning with Christ; that is what every seventh day is rehearsing.
+
+> <sup>[9](/bible/hebrews/4#v9)</sup> There remaineth therefore a rest to the people of God.
+>
+> <sup>[10](/bible/hebrews/4#v10)</sup> For he that is entered into his rest, he also hath ceased from his own works, as God did from his.
+>
+> <sup>[11](/bible/hebrews/4#v11)</sup> Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief.
 
 **[2 Kings 5:10-14](/bible/2-kings/5#v10)**  *[[1:43:37](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=6217s)]*
 
@@ -965,16 +969,16 @@ Set the frame first: the only reason we are in this building is because of Jesus
 
 **[Daniel 9:24-27](/bible/daniel/9#v24)**  *[[2:35:12](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=9312s)]*
 
+- What is 70 times 7 in the math? Seventy weeks are determined upon thy people and upon thy holy city: 490 years, from the commandment to restore and build Jerusalem in Nehemiah's day unto the Messiah the Prince, to finish the transgression, to make an end of sins, to make reconciliation for iniquity, and to anoint the most Holy.
+
 > <sup>[24](/bible/daniel/9#v24)</sup> Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy.
 >
 > <sup>[25](/bible/daniel/9#v25)</sup> Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times.
 >
 > <sup>[26](/bible/daniel/9#v26)</sup> And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof shall be with a flood, and unto the end of the war desolations are determined.
->
-> <sup>[27](/bible/daniel/9#v27)</sup> And he shall confirm the covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make it desolate, even until the consummation, and that determined shall be poured upon the desolate.
 
-- What is 70 times 7 in the math? Seventy weeks are determined upon thy people and upon thy holy city: 490 years, from the commandment to restore and build Jerusalem in Nehemiah's day unto the Messiah the Prince, to finish the transgression, to make an end of sins, to make reconciliation for iniquity, and to anoint the most Holy.
 - After threescore and two weeks shall Messiah be cut off, but not for himself: cut off for the children of Israel. The people of the prince that shall come destroyed the city and the sanctuary: that is Titus and the Roman armies, 70 AD, the flood of desolation and the captivity that followed.
+
 - So Christ's seventy times seven is the 490: the prophecy completed, the perfection of mercy delivered exactly on schedule, because we could not sacrifice in our captivities and needed him.
 
   Precepts:
@@ -986,6 +990,8 @@ Set the frame first: the only reason we are in this building is because of Jesus
     > <sup>[20](/bible/luke/21#v20)</sup> And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh.
 
     And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh. The Roman armies: the desolation Daniel determined.
+
+> <sup>[27](/bible/daniel/9#v27)</sup> And he shall confirm the covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make it desolate, even until the consummation, and that determined shall be poured upon the desolate.
 
 **[Acts 5:29-31](/bible/acts/5#v29)**  *[[2:39:14](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=9554s)]*
 
@@ -1006,27 +1012,29 @@ Set the frame first: the only reason we are in this building is because of Jesus
 
 **[Hebrews 10:26-30](/bible/hebrews/10#v26)**  *[[2:40:45](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=9645s)]*
 
+- But do not take him for granted. If we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins, but a certain fearful looking for of judgment. Sinning wilfully is learning this truth and walking back into the world saying, put me back to sleep.
+
 > <sup>[26](/bible/hebrews/10#v26)</sup> For if we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins,
 >
 > <sup>[27](/bible/hebrews/10#v27)</sup> But a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries.
 >
 > <sup>[28](/bible/hebrews/10#v28)</sup> He that despised Moses’ law died without mercy under two or three witnesses:
->
+
+- He that despised Moses' law died without mercy under two or three witnesses: of how much sorer punishment shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant an unholy thing? Vengeance belongeth unto me, I will recompense, saith the Lord; the Lord shall judge his people.
+
 > <sup>[29](/bible/hebrews/10#v29)</sup> Of how much sorer punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace?
 >
 > <sup>[30](/bible/hebrews/10#v30)</sup> For we know him that hath said, Vengeance belongeth unto me, I will recompense, saith the Lord. And again, The Lord shall judge his people.
 
-- But do not take him for granted. If we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins, but a certain fearful looking for of judgment. Sinning wilfully is learning this truth and walking back into the world saying, put me back to sleep.
-- He that despised Moses' law died without mercy under two or three witnesses: of how much sorer punishment shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant an unholy thing? Vengeance belongeth unto me, I will recompense, saith the Lord; the Lord shall judge his people.
-
 **[2 Corinthians 5:14-15](/bible/2-corinthians/5#v14)**  *[[2:42:24](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=9744s)]*
 
 > <sup>[14](/bible/2-corinthians/5#v14)</sup> For the love of Christ constraineth us; because we thus judge, that if one died for all, then were all dead:
->
-> <sup>[15](/bible/2-corinthians/5#v15)</sup> And that he died for all, that they which live should not henceforth live unto themselves, but unto him which died for them, and rose again.
 
 - For the love of Christ constraineth us: it puts a brake on our impulses. He died for all, that they which live should not henceforth live unto themselves, but unto him which died for them, and rose again.
+
 - We owe Christ. We owe him a major price, brothers. That is the whole class in one line.
+
+> <sup>[15](/bible/2-corinthians/5#v15)</sup> And that he died for all, that they which live should not henceforth live unto themselves, but unto him which died for them, and rose again.
 
 ## In Closing
 

@@ -2,7 +2,7 @@
 title: "THE BOTTLE, THE BATTLE, AND THE BIBLE"
 slug: "2026/2026-06-20-the-bottle-the-battle-and-the-bible"
 date: "2026-06-20"
-teacher: ""
+teacher: "Captain Gad"
 description: "IUIC in the ClassRoom · 2026-06-20"
 tags: ["IUIC in the ClassRoom", "anger", "health", "mental-health", "repentance", "substance-abuse", "war"]
 ---
@@ -236,17 +236,17 @@ Video played from the Soft White Underbelly interviews: a man about 50 years old
 - How do you fall out of the truth right after the Carmelo Anthony incident, after seeing your people oppressed, after seeing the brothers in Africa stoned for teaching, after seeing our general go through what he went through and come out enlightened with more wisdom? Those men did not fall out after being hit with stones; a brother falls out because he was called fat, or because there is a brother over him he doesn't like.
 - Health reading on alcohol, weight, and nutrition: alcohol is high in calories, nearly the same calories per gram as fat; the body stores fat around the tummy, increasing risk of heart disease, high blood pressure, and type 2 diabetes; alcohol increases appetite and reduces the hormones that make you feel full, and it steers you to food high in fat and sugar. There is such a thing as a beer belly; it builds visceral fat around your organs. That is why you can't climb a flight of stairs.
 - The periodic table of booze was read: 120 to 125 calories in a glass of Chardonnay, 100 to 120 in a shot of whiskey, up to 200 per IPA, 200 to 500 in a margarita, 240 to 650 in a pina colada. And nobody takes one shot; you take four or five every drink. That is thousands of calories a week in liquor alone, and you wonder why you can't lose weight. Weight loss is calories in, calories out.
-- Deacon Yashua said you should be able to just drop it for six months. Drop the alcohol for six months and watch how fast you get in the green.
+- Deacon Yoshua said you should be able to just drop it for six months. Drop the alcohol for six months and watch how fast you get in the green.
 
 **[Psalms 73:26-28](/bible/psalms/73#v26)**  *[[1:57:52](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=7072s)]*
 
 > <sup>[26](/bible/psalms/73#v26)</sup> My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever.
->
+
+- My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever. They that are far from thee shall perish. But it is good for me to draw near to God: I have put my trust in the Lord God. Brothers, let the alcohol go. Sisters, let the alcohol go.
+
 > <sup>[27](/bible/psalms/73#v27)</sup> For, lo, they that are far from thee shall perish: thou hast destroyed all them that go a whoring from thee.
 >
 > <sup>[28](/bible/psalms/73#v28)</sup> But it is good for me to draw near to God: I have put my trust in the Lord God, that I may declare all thy works.
-
-- My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever. They that are far from thee shall perish. But it is good for me to draw near to God: I have put my trust in the Lord God. Brothers, let the alcohol go. Sisters, let the alcohol go.
 
 **[1 Kings 2:1-3](/bible/1-kings/2#v1)**  *[[1:58:57](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=7137s)]*
 

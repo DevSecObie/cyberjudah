@@ -2,7 +2,7 @@
 title: "Is Promotion In The Bible??"
 slug: "2025/2025-12-19-is-promotion-in-the-bible"
 date: "2025-12-19"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "15 Minutes w/ The Captains · 2025-12-19"
 tags: ["15 Minutes w/ The Captains", "leadership", "the-body"]
 ---
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "leadership", "the-body"]
 
 ## Introduction
 
-*[[0:18](https://www.youtube.com/watch?v=4lO97R50BuI&t=18s)]* Shalom. Most High in Christ bless. Welcome to another edition of 15 minutes with the captains. Today you got myself, Captain Emmanuel of IUIC Arkansas. And today's topic is: is promotion in the Bible? A lot of brothers and sisters, oftentimes, unfortunately, when they're butt hurt and they leave, and people just on the outside looking in that have never seen a movement such as this, one of their many criticisms is, yeah, they do promotions and they got ranking. The Bible ain't about ranking. We're all one in Christ Jesus. So we going to cover: is promotion in the Bible?
+*[[0:18](https://www.youtube.com/watch?v=4lO97R50BuI&t=18s)]* Shalom. Most High in Christ bless. Welcome to another edition of 15 minutes with the captains. Today you got myself, Captain Immanuel of IUIC Arkansas. And today's topic is: is promotion in the Bible? A lot of brothers and sisters, oftentimes, unfortunately, when they're butt hurt and they leave, and people just on the outside looking in that have never seen a movement such as this, one of their many criticisms is, yeah, they do promotions and they got ranking. The Bible ain't about ranking. We're all one in Christ Jesus. So we going to cover: is promotion in the Bible?
 
 ## Scriptures Opened
 
@@ -87,22 +87,22 @@ tags: ["15 Minutes w/ The Captains", "leadership", "the-body"]
 > <sup>[15](/bible/numbers/27#v15)</sup> And Moses spake unto the Lord, saying,
 >
 > <sup>[16](/bible/numbers/27#v16)</sup> Let the Lord, the God of the spirits of all flesh, set a man over the congregation,
->
-> <sup>[17](/bible/numbers/27#v17)</sup> Which may go out before them, and which may go in before them, and which may lead them out, and which may bring them in; that the congregation of the Lord be not as sheep which have no shepherd.
->
-> <sup>[18](/bible/numbers/27#v18)</sup> And the Lord said unto Moses, Take thee Joshua the son of Nun, a man in whom is the spirit, and lay thine hand upon him;
->
-> <sup>[19](/bible/numbers/27#v19)</sup> And set him before Eleazar the priest, and before all the congregation; and give him a charge in their sight.
->
-> <sup>[20](/bible/numbers/27#v20)</sup> And thou shalt put some of thine honour upon him, that all the congregation of the children of Israel may be obedient.
->
-> <sup>[21](/bible/numbers/27#v21)</sup> And he shall stand before Eleazar the priest, who shall ask counsel for him after the judgment of Urim before the Lord: at his word shall they go out, and at his word they shall come in, both he, and all the children of Israel with him, even all the congregation.
 
 - set a man over the congregation: so this is right after the Lord told Moses that he would not lead the children of Israel into the promised land. The Lord was going to take him from them, and a generation would have to continue into the promised land without him. So Moses made this request to the Lord. Set a man over the congregation.
 
+> <sup>[17](/bible/numbers/27#v17)</sup> Which may go out before them, and which may go in before them, and which may lead them out, and which may bring them in; that the congregation of the Lord be not as sheep which have no shepherd.
+>
+> <sup>[18](/bible/numbers/27#v18)</sup> And the Lord said unto Moses, Take thee Joshua the son of Nun, a man in whom is the spirit, and lay thine hand upon him;
+
 - Take thee Joshua the son of Nun: right? That's Oshea the son of Nun.
 
+> <sup>[19](/bible/numbers/27#v19)</sup> And set him before Eleazar the priest, and before all the congregation; and give him a charge in their sight.
+>
+> <sup>[20](/bible/numbers/27#v20)</sup> And thou shalt put some of thine honour upon him, that all the congregation of the children of Israel may be obedient.
+
 - that all the congregation of the children of Israel may be obedient: no, just the tribe of Ephraim? All 12 tribes. May be obedient to Joshua. So he was just the head of Ephraim. But now after Moses has to die, guess what? He's going to be promoted to the leader of the entire nation.
+
+> <sup>[21](/bible/numbers/27#v21)</sup> And he shall stand before Eleazar the priest, who shall ask counsel for him after the judgment of Urim before the Lord: at his word shall they go out, and at his word they shall come in, both he, and all the children of Israel with him, even all the congregation.
 
 - even all the congregation: even all the congregation, not just one tribe, like before time.
 
@@ -110,10 +110,10 @@ tags: ["15 Minutes w/ The Captains", "leadership", "the-body"]
 **[Numbers 34:17-18](/bible/numbers/34#v17)**  *[[6:53](https://www.youtube.com/watch?v=4lO97R50BuI&t=413s)]*
 
 > <sup>[17](/bible/numbers/34#v17)</sup> These are the names of the men which shall divide the land unto you: Eleazar the priest, and Joshua the son of Nun.
->
-> <sup>[18](/bible/numbers/34#v18)</sup> And ye shall take one prince of every tribe, to divide the land by inheritance.
 
 - Eleazar the priest, and Joshua the son of Nun: right. Eleazar the priest and Joshua the son of Nun.
+
+> <sup>[18](/bible/numbers/34#v18)</sup> And ye shall take one prince of every tribe, to divide the land by inheritance.
 
 
 **[Numbers 34:24](/bible/numbers/34#v24)**  *[[7:20](https://www.youtube.com/watch?v=4lO97R50BuI&t=440s)]*
@@ -190,14 +190,14 @@ tags: ["15 Minutes w/ The Captains", "leadership", "the-body"]
 > <sup>[1](/bible/2-samuel/5#v1)</sup> Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we are thy bone and thy flesh.
 >
 > <sup>[2](/bible/2-samuel/5#v2)</sup> Also in time past, when Saul was king over us, thou wast he that leddest out and broughtest in Israel: and the Lord said to thee, Thou shalt feed my people Israel, and thou shalt be a captain over Israel.
->
-> <sup>[3](/bible/2-samuel/5#v3)</sup> So all the elders of Israel came to the king to Hebron; and king David made a league with them in Hebron before the Lord: and they anointed David king over Israel.
 
 - when Saul was king over us, thou wast he that leddest out and broughtest in Israel: was really the leader all along.
 
 - and the Lord said to thee: the what? The Lord said to thee, David.
 
 - and thou shalt be a captain over Israel: in due time, I'mma raise you up, David.
+
+> <sup>[3](/bible/2-samuel/5#v3)</sup> So all the elders of Israel came to the king to Hebron; and king David made a league with them in Hebron before the Lord: and they anointed David king over Israel.
 
 - and they anointed David king over Israel: so what happened? The Lord put down one, which was Saul, and raiseth up another, which was David. That's promotion. That's promotion from God.
 
@@ -227,42 +227,42 @@ tags: ["15 Minutes w/ The Captains", "leadership", "the-body"]
 **[Acts 1:16-26](/bible/acts/1#v16)**  *[[14:43](https://www.youtube.com/watch?v=4lO97R50BuI&t=883s)]*
 
 > <sup>[16](/bible/acts/1#v16)</sup> Men and brethren, this scripture must needs have been fulfilled, which the Holy Ghost by the mouth of David spake before concerning Judas, which was guide to them that took Jesus.
->
-> <sup>[17](/bible/acts/1#v17)</sup> For he was numbered with us, and had obtained part of this ministry.
->
-> <sup>[18](/bible/acts/1#v18)</sup> Now this man purchased a field with the reward of iniquity; and falling headlong, he burst asunder in the midst, and all his bowels gushed out.
->
-> <sup>[19](/bible/acts/1#v19)</sup> And it was known unto all the dwellers at Jerusalem; insomuch as that field is called in their proper tongue, Aceldama, that is to say, The field of blood.
->
-> <sup>[20](/bible/acts/1#v20)</sup> For it is written in the book of Psalms, Let his habitation be desolate, and let no man dwell therein: and his bishoprick let another take.
->
-> <sup>[21](/bible/acts/1#v21)</sup> Wherefore of these men which have companied with us all the time that the Lord Jesus went in and out among us,
->
-> <sup>[22](/bible/acts/1#v22)</sup> Beginning from the baptism of John, unto that same day that he was taken up from us, must one be ordained to be a witness with us of his resurrection.
->
-> <sup>[23](/bible/acts/1#v23)</sup> And they appointed two, Joseph called Barsabas, who was surnamed Justus, and Matthias.
->
-> <sup>[24](/bible/acts/1#v24)</sup> And they prayed, and said, Thou, Lord, which knowest the hearts of all men, shew whether of these two thou hast chosen,
->
-> <sup>[25](/bible/acts/1#v25)</sup> That he may take part of this ministry and apostleship, from which Judas by transgression fell, that he might go to his own place.
->
-> <sup>[26](/bible/acts/1#v26)</sup> And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles.
 
 - concerning Judas: let's go to the New Testament, cuz we went over promotion in the Old Testament. And I know what you hating ass Christians is thinking. Yeah, y'all do Old Testament stuff. We're under Jesus. You going to learn today. Concerning who? Judas. He was one of the 12 disciples.
 
 - which was guide to them that took Jesus: he was the guide to them that captured Jesus, that arrested Jesus. He was like, Hey, the man who I kiss is who you going to arrest.
 
+> <sup>[17](/bible/acts/1#v17)</sup> For he was numbered with us, and had obtained part of this ministry.
+
 - For he was numbered with us: he was one of the 12 at first.
 
 - and had obtained part of this ministry: he was a leader.
 
+> <sup>[18](/bible/acts/1#v18)</sup> Now this man purchased a field with the reward of iniquity; and falling headlong, he burst asunder in the midst, and all his bowels gushed out.
+
 - and all his bowels gushed out: right. He hung himself.
+
+> <sup>[19](/bible/acts/1#v19)</sup> And it was known unto all the dwellers at Jerusalem; insomuch as that field is called in their proper tongue, Aceldama, that is to say, The field of blood.
+>
+> <sup>[20](/bible/acts/1#v20)</sup> For it is written in the book of Psalms, Let his habitation be desolate, and let no man dwell therein: and his bishoprick let another take.
 
 - and his bishoprick let another take: now you going to pull another precept. And his what? That's what we just read in Psalm 109. Let another man take his office. What was Judas's office? He was a bishop. That's what the 12 was. The Lord made them bishops. The Lord said, Let another man take his bishoprick, his bishop position, his bishop rank.
 
+> <sup>[21](/bible/acts/1#v21)</sup> Wherefore of these men which have companied with us all the time that the Lord Jesus went in and out among us,
+>
+> <sup>[22](/bible/acts/1#v22)</sup> Beginning from the baptism of John, unto that same day that he was taken up from us, must one be ordained to be a witness with us of his resurrection.
+
 - Beginning from the baptism of John: so men that have been around since the baptism of John.
 
+> <sup>[23](/bible/acts/1#v23)</sup> And they appointed two, Joseph called Barsabas, who was surnamed Justus, and Matthias.
+
 - And they appointed two, Joseph called Barsabas, who was surnamed Justus, and Matthias: so they took two men. And it came down to these two. These two men meet the criteria, but it's only one that we can choose.
+
+> <sup>[24](/bible/acts/1#v24)</sup> And they prayed, and said, Thou, Lord, which knowest the hearts of all men, shew whether of these two thou hast chosen,
+>
+> <sup>[25](/bible/acts/1#v25)</sup> That he may take part of this ministry and apostleship, from which Judas by transgression fell, that he might go to his own place.
+>
+> <sup>[26](/bible/acts/1#v26)</sup> And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles.
 
 - and the lot fell upon Matthias; and he was numbered with the eleven apostles: so what just happened? Matthias was promoted to a bishop.
 

@@ -1,6 +1,6 @@
 # Matthew. key | Name | forms | verses | type | description
 # The generation of Jesus Christ (1:1-17)
-jesus | Jesus | Jesus;Christ;Emmanuel;Nazarene | * | M | "Jesus Christ, the son of David, the son of Abraham"; born of Mary in Bethlehem of Judea, "conceived in her ... of the Holy Ghost"; called Emmanuel, "God with us"; "Thou art the Christ, the Son of the living God"; crucified under Pontius Pilate, and risen from the dead (Matthew 1:1, 1:18-23, 2:1, 16:16, 27:2, 27:35, 28:6)
+jesus | Jesus Christ | Jesus;Christ;Emmanuel;Nazarene | * | M | "Jesus Christ, the son of David, the son of Abraham"; the son of Joseph and Mary, born in Bethlehem of Judea: "Is not this the carpenter's son? is not his mother called Mary? and his brethren, James, and Joses, and Simon, and Judas? And his sisters, are they not all with us?"; "Thou art the Christ, the Son of the living God"; crucified under Pontius Pilate, and risen from the dead (Matthew 1:1, 1:16, 2:1, 13:55-56, 16:16, 27:2, 27:35, 28:6)
 david | | David | * | + |
 abraham | | Abraham | * | + |
 isaac | | Isaac | * | + |
@@ -47,7 +47,7 @@ eleazar-mt | Eleazar | Eleazar | * | M | The son of Eliud, father of Matthan, in
 matthan | Matthan | Matthan | * | M | The son of Eleazar, father of Jacob, in the generation of Jesus Christ (Matthew 1:15)
 jacob-m | Jacob | Jacob | 1:15,1:16 | M | The son of Matthan, who "begat Joseph the husband of Mary" (Matthew 1:15-16)
 joseph-m | Joseph | Joseph | 1:16,1:18,1:19,1:20,1:24,2:13,2:19 | M | "Joseph the husband of Mary, of whom was born Jesus"; "Joseph, thou son of David"; "a just man", who took Mary his wife and fled with the young child into Egypt (Matthew 1:16-25, 2:13-23)
-mary | Mary | Mary | 1:16,1:18,1:20,2:11,13:55 | F | The mother of Jesus, espoused to Joseph, who "was found with child of the Holy Ghost" (Matthew 1:16-25, 2:11, 13:55)
+mary | Mary | Mary | 1:16,1:18,1:20,2:11,13:55 | F | The wife of Joseph, and the mother of Jesus, of James, Joses, Simon and Judas, and of their sisters: "Joseph the husband of Mary, of whom was born Jesus"; "Is not his mother called Mary?" (Matthew 1:16, 1:24, 2:11, 13:55-56)
 # The birth and childhood
 beth-lehem | | Bethlehem | * | + |
 judea | | Judea | * | + |
@@ -152,6 +152,7 @@ sea-of-galilee | Sea of Galilee | sea of Galilee | * | P | "Jesus, walking by th
 olivet | | mount of Olives | * | + |
 
 # people the text describes but never names
+jesus-sisters | The sisters of Jesus |  | 13:56 | F | The daughters of Joseph and Mary, sisters of Jesus and of James, Joses, Simon and Judas; the text does not give their names: "And his sisters, are they not all with us?" (Matthew 13:56; Mark 6:3)
 sheba-q |  |  | 12:42 | + | 
 herodias-d | The daughter of Herodias |  | 14:6,14:8,14:11 | F | She "danced before them, and pleased Herod", and asked for John the Baptist's head in a charger (Matthew 14:6-11; Mark 6:22-28)
 peter-wm | Peter's wife's mother |  | 8:14,8:15 | F | "His wife's mother laid, and sick of a fever"; Jesus touched her hand, "and the fever left her" (Matthew 8:14-15; Mark 1:30-31; Luke 4:38-39)

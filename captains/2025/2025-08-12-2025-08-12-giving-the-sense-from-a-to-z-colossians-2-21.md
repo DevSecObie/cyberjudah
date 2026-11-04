@@ -33,13 +33,13 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "the-law
 
 **[Acts 8:30-31](/bible/acts/8#v30)**  *[[3:58](https://www.youtube.com/watch?v=PzXZKv_b8us&t=238s)]*
 
-> <sup>[30](/bible/acts/8#v30)</sup> And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou readest?
->
-> <sup>[31](/bible/acts/8#v31)</sup> And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him.
-
 - Acts chapter 8 verse 30: We'll deal with the Ethiopian eunuch, which was an Israelite, by the way. He's talking to the Apostle Philip. Let's see what the Apostle Philip said. Or what he said to Philip.
 
+> <sup>[30](/bible/acts/8#v30)</sup> And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou readest?
+
 - Understandest thou what thou readest?: Right, so he asked him, "Do you understand what you're reading?"
+
+> <sup>[31](/bible/acts/8#v31)</sup> And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him.
 
 - How can I except some man should guide me?: Right, he had enough wisdom to say, "How can I understand what I'm reading unless some man should guide me?" You have to be guided, all right, to get the understanding of the word of God. It don't just come to you. I hate when people say that. People be like, "Hey, how you learn you was Israel?" "Honest to God, nobody taught me. I didn't watch no videos. Did nobody give me no flyer. One day I was sitting on the end of my bed, and I opened up Deuteronomy 28, and I said, 'Man, I think we these people.'" No, you didn't. Stop the cap. Stop the cap. That did not happen, all right? You heard a video. You heard somebody speaking about it. You got a flyer. You know what I'm saying? You saw a video. Whatever the case may be. Somebody was conversing about it in a barber shop, and you said, "Hey, let me look into this real quick." But, you didn't just stumble upon this information on your own. Stop the cap.
 
@@ -71,24 +71,24 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "the-law
 **[Romans 6:2-6](/bible/romans/6#v2)**  *[[9:06](https://www.youtube.com/watch?v=PzXZKv_b8us&t=546s)]*
 
 > <sup>[2](/bible/romans/6#v2)</sup> God forbid. How shall we, that are dead to sin, live any longer therein?
->
-> <sup>[3](/bible/romans/6#v3)</sup> Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death?
->
-> <sup>[4](/bible/romans/6#v4)</sup> Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
->
-> <sup>[5](/bible/romans/6#v5)</sup> For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection:
->
-> <sup>[6](/bible/romans/6#v6)</sup> Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin.
 
 - How shall we, that are dead to sin, live any longer therein?: Right, when you come into the understanding of Christ, you're supposed to be dead to sin. Meaning you're not supposed to be willfully out here breaking God's commandments.
 
+> <sup>[3](/bible/romans/6#v3)</sup> Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death?
+
 - Baptized into his death: So now he's making an analogy. So when you become baptized and believe on Christ, you're baptized unto his death. Meaning your repentance is equivalent symbolically to Jesus Christ dying. You understand what I'm saying? He died and was resurrected as a new man, as not in the flesh anymore. We supposed to die when we enter into Christ and come back as a new man no longer in the flesh anymore. It's the same thing. We supposed to become new.
+
+> <sup>[4](/bible/romans/6#v4)</sup> Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
 
 - Even so we also should walk in newness of life: Right. So Christ died and was raised up, resurrected from the dead by the Father. A new body, no longer in the flesh, okay? Now when we come into Christ and are baptized unto his death, we're supposed to do the same thing. We're supposed to be resurrected as a new man walking in newness of life. Meaning you may have, you know, done much evil in the world. Whatever your sin or your vice or your lust was that you did in the world. When you come into Christ, you no longer do that. That's symbolic of his death and his resurrection. We also supposed to die. The old man supposed to die and be resurrected. Meaning you walk in newness of life.
 
 - That's why when you come into the truth and start keeping the commandments, to a lot of people you're unrecognizable. They like, "I don't recognize this brother." Like he's like, "Okay, you used to go to the club with me. Now you talking about you with the Israelites? Like you used to hit the blunt with me, but now you're saying that your body's a temple. Like this ain't you. I don't know you. Who is this person?" Well, it's because you resurrected. It's because you died with Christ and now you're resurrected and you're living unto him in a new life. That's what that's talking about.
 
+> <sup>[5](/bible/romans/6#v5)</sup> For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection:
+
 - We shall be also in the likeness of his resurrection: Right. For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection. If we were planted in the likeness of his death, meaning just like he died, your old man dies, just like his resurrection, you resurrect, your new man in Christ.
+
+> <sup>[6](/bible/romans/6#v6)</sup> Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin.
 
 - Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin: Right. So, it says, "Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin." Meaning, now moving forward, we no longer serve sin because we died and we were baptized unto Christ's burial, death, burial, resurrection. So, now right here, we live in newness of life, just like he was resurrected from the dead in a new body. It's the same thing.
 
@@ -103,12 +103,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "the-law
 **[Romans 6:14-15](/bible/romans/6#v14)**  *[[12:41](https://www.youtube.com/watch?v=PzXZKv_b8us&t=761s)]*
 
 > <sup>[14](/bible/romans/6#v14)</sup> For sin shall not have dominion over you: for ye are not under the law, but under grace.
->
-> <sup>[15](/bible/romans/6#v15)</sup> What then? shall we sin, because we are not under the law, but under grace? God forbid.
 
 - For ye are not under the law, but under grace: So, now we under grace. We no longer under the carnal ordinances of the temple, the temple law, okay? And those Talmudic laws that they were adding to the the scribes and Pharisees had different traditions and stuff that they would add to the commandments that was not ordained by God. It's just traditions that they brought forth as well. But now he's saying that sin don't have dominion over us for we are not under the law but under grace.
 
 - What that means is under the Old Testament if you committed adultery, there was no repentance. You died. If you were homosexual, there was no repentance. You died. Certain sins that you committed under the old covenant, under temple law, under the law of animal sacrifice, there was no opportunity to come back from that. You couldn't. You die without mercy under two or three witnesses. But now under Christ, which is grace, if you were doing any of those things that at one time you would have been stoned for or killed for, you now can repent. And that's only because we are under Christ now. And that's what he's explaining right here, the Apostle Paul.
+
+> <sup>[15](/bible/romans/6#v15)</sup> What then? shall we sin, because we are not under the law, but under grace? God forbid.
 
 - Shall we sin, because we are not under the law, but under grace? God forbid: Right. So, shall we sin because we are not under the law but under grace? God forbid. So, don't think just because Christ gave you that grace, don't think that that gives you now a license to sin because the Lord have commanded no man to do wickedly, neither have he given a license to sin. Christ is not a license to sin. He showed us how to live a perfect life so we will follow his steps, follow his example, but he also gave us grace to get it together cuz he understand that we in the flesh and we trying to come out of it. We trying to be baptized into his death, into his burial, okay?
 
@@ -157,10 +157,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "the-law
 > <sup>[9](/bible/numbers/28#v9)</sup> And on the sabbath day two lambs of the first year without spot, and two tenth deals of flour for a meat offering, mingled with oil, and the drink offering thereof:
 >
 > <sup>[10](/bible/numbers/28#v10)</sup> This is the burnt offering of every sabbath, beside the continual burnt offering, and his drink offering.
->
-> <sup>[11](/bible/numbers/28#v11)</sup> And in the beginnings of your months ye shall offer a burnt offering unto the Lord; two young bullocks, and one ram, seven lambs of the first year without spot;
 
 - This is the burnt offering of every Sabbath, beside the continual burnt offering: Right. So, on the Sabbath, we had a burnt offering, a continual burnt offering we had to bring forth.
+
+> <sup>[11](/bible/numbers/28#v11)</sup> And in the beginnings of your months ye shall offer a burnt offering unto the Lord; two young bullocks, and one ram, seven lambs of the first year without spot;
 
 - And in the beginnings of your months: I'm sorry. That's the new moon. The beginning of your months is the new moon.
 
@@ -191,16 +191,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "the-law
 **[Hebrews 10:1-4](/bible/hebrews/10#v1)**  *[[23:41](https://www.youtube.com/watch?v=PzXZKv_b8us&t=1421s)]*
 
 > <sup>[1](/bible/hebrews/10#v1)</sup> For the law having a shadow of good things to come, and not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect.
->
-> <sup>[2](/bible/hebrews/10#v2)</sup> For then would they not have ceased to be offered? because that the worshippers once purged should have had no more conscience of sins.
->
-> <sup>[3](/bible/hebrews/10#v3)</sup> But in those sacrifices there is a remembrance again made of sins every year.
->
-> <sup>[4](/bible/hebrews/10#v4)</sup> For it is not possible that the blood of bulls and of goats should take away sins.
 
 - For the law having a shadow of good things to come, and not the very image of the things: Right. So it said for the law having a shadow of good things to come and not the very image of the things. The good things to come is Christ's death. Christ died. You understand? To give us an opportunity at repentance. So it said that the law, meaning the law of animal sacrifice, when you was coming forth and you was bringing forth those lambs or those goats or whatever the case may be, that was all a shadow of Christ to come, which was the good thing. So it says for the law having a shadow of good things to come and not the very image of the things can never with those sacrifices which they offered year by year continually make the comers thereunto perfect. That's what made it weak and unprofitable. Because it can never make you perfect.
 
+> <sup>[2](/bible/hebrews/10#v2)</sup> For then would they not have ceased to be offered? because that the worshippers once purged should have had no more conscience of sins.
+
 - The worshippers once purged should have had no more conscience of sins: Right. Because if you offered a sacrifice, you shouldn't have no more conscious for sins, but yet we was making those same sins. We was committing those same sins year after year after year and having to bring the same sacrifices every year, proving that we were not made perfect. That's why he said it's weak and it's unprofitable.
+
+> <sup>[3](/bible/hebrews/10#v3)</sup> But in those sacrifices there is a remembrance again made of sins every year.
+>
+> <sup>[4](/bible/hebrews/10#v4)</sup> For it is not possible that the blood of bulls and of goats should take away sins.
 
 - For it is not possible that the blood of bulls and of goats should take away sins: Right. The blood of bulls and goats could never take away sins. Only Christ's death could take away sins. You understand? And when it say that the blood of bulls and goats can never take away sins, it's because we went back into those sins. But Christ, when he died, say for instance, Christ come on the scene. You broke the commandments. You did whatever you did. But now you accept Christ. You say, "Look, I'm going to keep the commandments with the faith in Christ." Now, all the evil that you did in time past have been eliminated from your life. Nobody can hold that against you. And it's on the day of judgment, long as you live for Christ the rest of your time.
 
@@ -228,7 +228,11 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "the-law
 **[1 Samuel 2:12-17](/bible/1-samuel/2#v12)**  *[[28:29](https://www.youtube.com/watch?v=PzXZKv_b8us&t=1709s)]*
 
 > <sup>[12](/bible/1-samuel/2#v12)</sup> Now the sons of Eli were sons of Belial; they knew not the Lord.
->
+
+- Now the sons of Eli were sons of Belial; they knew not the Lord: Right, they were wicked.
+
+- With a flesh hook of three teeth in his hand: Right, so they had the flesh hook with like three teeth and that's how they would dig people in there and pull that meat out.
+
 > <sup>[13](/bible/1-samuel/2#v13)</sup> And the priests’ custom with the people was, that, when any man offered sacrifice, the priest’s servant came, while the flesh was in seething, with a fleshhook of three teeth in his hand;
 >
 > <sup>[14](/bible/1-samuel/2#v14)</sup> And he struck it into the pan, or kettle, or caldron, or pot; all that the fleshhook brought up the priest took for himself. So they did in Shiloh unto all the Israelites that came thither.
@@ -236,16 +240,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "the-law
 > <sup>[15](/bible/1-samuel/2#v15)</sup> Also before they burnt the fat, the priest’s servant came, and said to the man that sacrificed, Give flesh to roast for the priest; for he will not have sodden flesh of thee, but raw.
 >
 > <sup>[16](/bible/1-samuel/2#v16)</sup> And if any man said unto him, Let them not fail to burn the fat presently, and then take as much as thy soul desireth; then he would answer him, Nay; but thou shalt give it me now: and if not, I will take it by force.
->
-> <sup>[17](/bible/1-samuel/2#v17)</sup> Wherefore the sin of the young men was very great before the Lord: for men abhorred the offering of the Lord.
-
-- Now the sons of Eli were sons of Belial; they knew not the Lord: Right, they were wicked.
-
-- With a flesh hook of three teeth in his hand: Right, so they had the flesh hook with like three teeth and that's how they would dig people in there and pull that meat out.
 
 - Let them not fail to burn the fat presently: They had to cook it all the way through, that meat. That's what that mean.
 
 - Nay; but thou shalt give it me now: and if not, I will take it by force: Right, so these brothers were doing wrong in that they were trying to force the people to give them the offering and it wasn't time for it. It still was in seething. They would come and say, "Give me the flesh right now." He said, "No, it's not time. We still got it." "No, I want it now." And they would take it from the people by force.
+
+> <sup>[17](/bible/1-samuel/2#v17)</sup> Wherefore the sin of the young men was very great before the Lord: for men abhorred the offering of the Lord.
 
 - For men abhorred the offering of the Lord: Right, people started to hate to go offer, make offerings unto the Lord because of these men.
 
@@ -253,10 +253,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "the-law
 **[Leviticus 7:15-16](/bible/leviticus/7#v15)**  *[[30:31](https://www.youtube.com/watch?v=PzXZKv_b8us&t=1831s)]*
 
 > <sup>[15](/bible/leviticus/7#v15)</sup> And the flesh of the sacrifice of his peace offerings for thanksgiving shall be eaten the same day that it is offered; he shall not leave any of it until the morning.
->
-> <sup>[16](/bible/leviticus/7#v16)</sup> But if the sacrifice of his offering be a vow, or a voluntary offering, it shall be eaten the same day that he offereth his sacrifice: and on the morrow also the remainder of it shall be eaten:
 
 - Shall be eaten the same day that it is offered: Right, they would have to eat it the same day. Watch this.
+
+> <sup>[16](/bible/leviticus/7#v16)</sup> But if the sacrifice of his offering be a vow, or a voluntary offering, it shall be eaten the same day that he offereth his sacrifice: and on the morrow also the remainder of it shall be eaten:
 
 - And on the morrow also the remainder of it shall be eaten: So the next day the remainder of it can be eaten. Okay? So I'm just showing you there's differences. When you get a chance, cuz I know some people get bored when they read Leviticus and stuff like that, but you can't because it's your history and you need to understand it. And if you don't understand the different offerings and what took place and what the priests were required to do, when you read Paul's writings, it's going to go over your head. You're going to be confused. You're going to say, "Well, why is he saying all that?" Well, if you go and read the Old Testament, you will understand why he's saying it. Okay?
 
@@ -280,18 +280,18 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "the-law
 > <sup>[5](/bible/isaiah/53#v5)</sup> But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.
 >
 > <sup>[6](/bible/isaiah/53#v6)</sup> All we like sheep have gone astray; we have turned every one to his own way; and the Lord hath laid on him the iniquity of us all.
->
-> <sup>[7](/bible/isaiah/53#v7)</sup> He was oppressed, and he was afflicted, yet he opened not his mouth: he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth.
->
-> <sup>[8](/bible/isaiah/53#v8)</sup> He was taken from prison and from judgment: and who shall declare his generation? for he was cut off out of the land of the living: for the transgression of my people was he stricken.
->
-> <sup>[9](/bible/isaiah/53#v9)</sup> And he made his grave with the wicked, and with the rich in his death; because he had done no violence, neither was any deceit in his mouth.
->
-> <sup>[10](/bible/isaiah/53#v10)</sup> Yet it pleased the Lord to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see his seed, he shall prolong his days, and the pleasure of the Lord shall prosper in his hand.
 
 - And the Lord hath laid on him the iniquity of us all: And the Lord have laid on him the iniquity of us all. That's why Christ is called the lamb of God here to take away the sins of the world. What world? The Israelites. Because Christ is symbolic of that lamb that had to take on the sins of the Israelites that the priest had to lay hands on. It's the same thing. So, it says all we, like sheep, have gone astray. We have turned everyone to his own way. And the Lord have laid on him the iniquity of us all.
 
+> <sup>[7](/bible/isaiah/53#v7)</sup> He was oppressed, and he was afflicted, yet he opened not his mouth: he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth.
+>
+> <sup>[8](/bible/isaiah/53#v8)</sup> He was taken from prison and from judgment: and who shall declare his generation? for he was cut off out of the land of the living: for the transgression of my people was he stricken.
+
 - For the transgression of my people was he stricken: So he became that lamb.
+
+> <sup>[9](/bible/isaiah/53#v9)</sup> And he made his grave with the wicked, and with the rich in his death; because he had done no violence, neither was any deceit in his mouth.
+>
+> <sup>[10](/bible/isaiah/53#v10)</sup> Yet it pleased the Lord to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see his seed, he shall prolong his days, and the pleasure of the Lord shall prosper in his hand.
 
 - When thou shalt make his soul an offering for sin: What? Whoa, whoa, whoa. When thou shall what? Right. Christ's soul was made an offering for sin.
 
@@ -313,15 +313,15 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "the-law
 
 **[Hebrews 10:10-12](/bible/hebrews/10#v10)**  *[[35:56](https://www.youtube.com/watch?v=PzXZKv_b8us&t=2156s)]*
 
+- Go to Hebrews 11:10. No, excuse me, Hebrews 10:11. Start at 10.
+
 > <sup>[10](/bible/hebrews/10#v10)</sup> By the which will we are sanctified through the offering of the body of Jesus Christ once for all.
 >
 > <sup>[11](/bible/hebrews/10#v11)</sup> And every priest standeth daily ministering and offering oftentimes the same sacrifices, which can never take away sins:
->
-> <sup>[12](/bible/hebrews/10#v12)</sup> But this man, after he had offered one sacrifice for sins for ever, sat down on the right hand of God;
-
-- Go to Hebrews 11:10. No, excuse me, Hebrews 10:11. Start at 10.
 
 - Which can never take away sins: Which can never take away sins. Which can never take away sins.
+
+> <sup>[12](/bible/hebrews/10#v12)</sup> But this man, after he had offered one sacrifice for sins for ever, sat down on the right hand of God;
 
 - Sat down on the right hand of God: Sat down on the right hand of God. So, Christ could take away sin. His sacrifice was the ultimate sacrifice. That's why Paul said, "If you dead with Christ, then why you trying to go back to the rudiments of the world?" Why you doing that? Touch not, taste not, handle not.
 
@@ -352,13 +352,13 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "the-law
 
 **[1 John 2:1-2](/bible/1-john/2#v1)**  *[[40:47](https://www.youtube.com/watch?v=PzXZKv_b8us&t=2447s)]*
 
-> <sup>[1](/bible/1-john/2#v1)</sup> My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:
->
-> <sup>[2](/bible/1-john/2#v2)</sup> And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world.
-
 - Go to 1 John 2:1. Let me go finish Colossians.
 
+> <sup>[1](/bible/1-john/2#v1)</sup> My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:
+
 - Jesus Christ the righteous: Jesus Christ the righteous.
+
+> <sup>[2](/bible/1-john/2#v2)</sup> And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world.
 
 - But also for the sins of the whole world: Right. So the apostle saying he ain't just die for the sins of the Israelites or the nation of Israel that knew him, he died for the sins of the whole world. The sins of the whole world meaning all the Israelites that have not yet heard of him. They have a chance at repentance through him. And that's our job.
 
@@ -393,28 +393,28 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "the-law
 > <sup>[1](/bible/matthew/15#v1)</sup> Then came to Jesus scribes and Pharisees, which were of Jerusalem, saying,
 >
 > <sup>[2](/bible/matthew/15#v2)</sup> Why do thy disciples transgress the tradition of the elders? for they wash not their hands when they eat bread.
->
+
+- Why do thy disciples transgress the tradition of the elders? for they wash not their hands when they eat bread: Right, that was a tradition of the elders. That wasn't in the Bible. That wasn't biblical. The Lord didn't command that.
+
 > <sup>[3](/bible/matthew/15#v3)</sup> But he answered and said unto them, Why do ye also transgress the commandment of God by your tradition?
->
+
+- Why do ye also transgress the commandment of God by your tradition?: Right, why you transgressing the commandments of God by your tradition?
+
 > <sup>[4](/bible/matthew/15#v4)</sup> For God commanded, saying, Honour thy father and mother: and, He that curseth father or mother, let him die the death.
 >
 > <sup>[5](/bible/matthew/15#v5)</sup> But ye say, Whosoever shall say to his father or his mother, It is a gift, by whatsoever thou mightest be profited by me;
->
+
+- It is a gift, by whatsoever thou mightest be profited by me: Right, that's emancipation that they were teaching.
+
 > <sup>[6](/bible/matthew/15#v6)</sup> And honour not his father or his mother, he shall be free. Thus have ye made the commandment of God of none effect by your tradition.
->
+
+- Thus have ye made the commandment of God of none effect by your tradition: See that? Thus have you made the commandment of God of none effect by your tradition. They would put traditions in that would contradict God's word, his commandment. The commandment say honor your father and your mother, but you say, "Hey, tell your mom and daddy whatever it is that you profit by me is a gift." That's wicked. That ain't in the scriptures. They were making things up.
+
 > <sup>[7](/bible/matthew/15#v7)</sup> Ye hypocrites, well did Esaias prophesy of you, saying,
 >
 > <sup>[8](/bible/matthew/15#v8)</sup> This people draweth nigh unto me with their mouth, and honoureth me with their lips; but their heart is far from me.
 >
 > <sup>[9](/bible/matthew/15#v9)</sup> But in vain they do worship me, teaching for doctrines the commandments of men.
-
-- Why do thy disciples transgress the tradition of the elders? for they wash not their hands when they eat bread: Right, that was a tradition of the elders. That wasn't in the Bible. That wasn't biblical. The Lord didn't command that.
-
-- Why do ye also transgress the commandment of God by your tradition?: Right, why you transgressing the commandments of God by your tradition?
-
-- It is a gift, by whatsoever thou mightest be profited by me: Right, that's emancipation that they were teaching.
-
-- Thus have ye made the commandment of God of none effect by your tradition: See that? Thus have you made the commandment of God of none effect by your tradition. They would put traditions in that would contradict God's word, his commandment. The commandment say honor your father and your mother, but you say, "Hey, tell your mom and daddy whatever it is that you profit by me is a gift." That's wicked. That ain't in the scriptures. They were making things up.
 
 - But in vain they do worship me, teaching for doctrines the commandments of men: See that? They were teaching for doctrine the commandments of men. Paul is correcting them on that.
 
@@ -463,10 +463,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "the-law
 **[Matthew 6:19-21](/bible/matthew/6#v19)**  *[[52:01](https://www.youtube.com/watch?v=PzXZKv_b8us&t=3121s)]*
 
 > <sup>[19](/bible/matthew/6#v19)</sup> Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:
->
-> <sup>[20](/bible/matthew/6#v20)</sup> But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:
->
-> <sup>[21](/bible/matthew/6#v21)</sup> For where your treasure is, there will your heart be also.
 
 - Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal: Right. That's hard in today's time because everything that's around us is about making money, making money, making money. Even to the points of where it's constantly your spirit is pulled upon because of where you live, or because you don't have money for a certain car, or you see people on social media doing well financially, at least you think they are. And it start to wear on your spirit. You start feeling like, "Man, damn, what I do wrong that I can't make no money? What I do wrong that I ain't hit 100,000 yet?" You know what I'm saying? But at the end of the day, the Bible says, lay not up for yourselves treasures upon earth. Why? Because moth and rust doth corrupt those things. And a thief can break through and steal.
 
@@ -474,7 +470,11 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "the-law
 
 - Like we living in a cyber age. The white man making it to the point to where there's a one-world currency. Eventually, if you don't do what he say do, he can press a button and shut your bank account down. You say ain't them white folks over there, ain't the Jews. Oh, really? Okay, press a button. Blink, you can't use your bank account. So Christ said your mind is supposed to be on things above, on the heavens, which is salvation. Get up out of here. Okay?
 
+> <sup>[20](/bible/matthew/6#v20)</sup> But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:
+
 - But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal: Yeah, a thief can't break through and steal your spiritual bank account. All the works you've been putting in for the Lord, you turning your life around and keeping the commandments. You out here struggling, putting your body on the line for the Lord. You constantly putting spiritual blessings in your spiritual bank account. You can't get caught up in the world. You putting things in your spiritual bank account every single day when you putting in this work for the Lord. You can't see it right now, but in due time, you going to receive it.
+
+> <sup>[21](/bible/matthew/6#v21)</sup> For where your treasure is, there will your heart be also.
 
 - For where your treasure is, there will your heart be also: Right. Wherever your treasure is, that's where your heart going to be. If your treasure's in heaven, that's where your heart going to be. If your treasure's on earth, that's where your heart going to be. Meaning what? You're not going to do the work. You're going to make excuses. You're not coming to Camp 101. You're not going to go out there teach. You're going to constantly have an excuse of why you can't get it done. Straight up.
 
@@ -482,10 +482,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "the-law
 **[Matthew 6:32-33](/bible/matthew/6#v32)**  *[[55:28](https://www.youtube.com/watch?v=PzXZKv_b8us&t=3328s)]*
 
 > <sup>[32](/bible/matthew/6#v32)</sup> (For after all these things do the Gentiles seek:) for your heavenly Father knoweth that ye have need of all these things.
->
-> <sup>[33](/bible/matthew/6#v33)</sup> But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.
 
 - For your heavenly Father knoweth that ye have need of all these things: The Lord know what we need. He going to open the door. It always happen. There's never a time where it don't happen. You struggle for a little while, but it always come through. The Most High make a way.
+
+> <sup>[33](/bible/matthew/6#v33)</sup> But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.
 
 - And all these things shall be added unto you: Right. All these things going to be added unto you.
 
@@ -495,10 +495,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "the-law
 > <sup>[1](/bible/colossians/3#v1)</sup> If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God.
 >
 > <sup>[2](/bible/colossians/3#v2)</sup> Set your affection on things above, not on things on the earth.
->
-> <sup>[3](/bible/colossians/3#v3)</sup> For ye are dead, and your life is hid with Christ in God.
 
 - Set your affection on things above, not on things on the earth: Right. Don't set your affection on things of the earth. The newest car, the biggest house. That's not where your affection should be. And a lot of women, covetous men for sure, but a lot of women deal with that. A lot of you sisters, you want to be comfortable all the time. And you're going to have times of discomfort if you serve God. It is what it is. There's going to be times of discomfort when you serve the Lord, but it is not forever. These trials come and go. Satan come and he leave. He come and he leave.
+
+> <sup>[3](/bible/colossians/3#v3)</sup> For ye are dead, and your life is hid with Christ in God.
 
 - For ye are dead, and your life is hid with Christ in God: Right. You can't write to somebody that's actually dead. Obviously, he's not writing to them and they dead. They're dead in Christ. Meaning what? They've changed their life. They put off the old man, crucified the old man and his deeds. Watch this.
 
@@ -512,10 +512,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "the-law
 **[Colossians 3:9-10](/bible/colossians/3#v9)**  *[[57:27](https://www.youtube.com/watch?v=PzXZKv_b8us&t=3447s)]*
 
 > <sup>[9](/bible/colossians/3#v9)</sup> Lie not one to another, seeing that ye have put off the old man with his deeds;
->
-> <sup>[10](/bible/colossians/3#v10)</sup> And have put on the new man, which is renewed in knowledge after the image of him that created him:
 
 - Seeing that ye have put off the old man with his deeds: Right, put off the old man with his deeds, meaning the way you thought, doing the things you did.
+
+> <sup>[10](/bible/colossians/3#v10)</sup> And have put on the new man, which is renewed in knowledge after the image of him that created him:
 
 - And have put on the new man, which is renewed in knowledge after the image of him that created him: Right, so when he said in verse 3, "For ye are dead and your life is hid with Christ in God," that's going back to verse 9 and verse 10 where it says, "You have put off the old man with his deeds and you are a new man which is renewed in knowledge after the image of him that created him." So, at the end of the day, we supposed to be focused on the things that are above and not the things that are on the earth, right?
 
@@ -523,10 +523,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "the-law
 **[Ephesians 4:22-23](/bible/ephesians/4#v22)**  *[[58:17](https://www.youtube.com/watch?v=PzXZKv_b8us&t=3497s)]*
 
 > <sup>[22](/bible/ephesians/4#v22)</sup> That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;
->
-> <sup>[23](/bible/ephesians/4#v23)</sup> And be renewed in the spirit of your mind;
 
 - Which is corrupt according to the deceitful lusts: Right, which is corrupt according to the deceitful lust. You put off the old man, which is corrupt according to the deceitful lust.
+
+> <sup>[23](/bible/ephesians/4#v23)</sup> And be renewed in the spirit of your mind;
 
 - And be renewed in the spirit of your mind: And be renewed in the spirit of your mind.
 
@@ -562,10 +562,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "the-law
 **[1 John 3:1-2](/bible/1-john/3#v1)**  *[[1:05:20](https://www.youtube.com/watch?v=PzXZKv_b8us&t=3920s)]*
 
 > <sup>[1](/bible/1-john/3#v1)</sup> Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.
->
-> <sup>[2](/bible/1-john/3#v2)</sup> Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.
 
 - Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not: Right. So, the scripture says that behold what manner of love the Father hath bestowed upon us that we should be called the sons of God. Therefore, the world knoweth us not because it knew him not.
+
+> <sup>[2](/bible/1-john/3#v2)</sup> Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.
 
 - But we know that, when he shall appear, we shall be like him; for we shall see him as he is: Right. So, when Christ come and be glorified in his glorified body, then we also going to appear for those of us that keep the commandments and the faith in him unto the end. We going to be seen with him and like him. Meaning we going to take on that angelic, celestial body that he has received. We going to receive the same thing. And he going to give us power over the nations cuz we are joint heirs with him. All right?
 

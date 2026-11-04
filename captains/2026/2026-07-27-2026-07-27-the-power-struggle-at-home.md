@@ -47,13 +47,13 @@ tags: ["15 Minutes w/ The Captains", "faith", "leadership", "marriage-family", "
 
 **[Ephesians 5:22-23](/bible/ephesians/5#v22)**  *[[4:36](https://www.youtube.com/watch?v=5fpjPosGgaE&t=276s)]*
 
-> <sup>[22](/bible/ephesians/5#v22)</sup> Wives, submit yourselves unto your own husbands, as unto the Lord.
->
-> <sup>[23](/bible/ephesians/5#v23)</sup> For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body.
-
 - Wives, submit yourselves unto your own husbands. Sisters have got to understand: submitting yourself to your own husband is obedience to God's structure.
 
+> <sup>[22](/bible/ephesians/5#v22)</sup> Wives, submit yourselves unto your own husbands, as unto the Lord.
+
 - As unto the Lord: you won't talk back to the Lord, so don't talk back to your husband. Don't do things to him that you won't do to the Lord. How hard is that to understand?
+
+> <sup>[23](/bible/ephesians/5#v23)</sup> For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body.
 
 - The husband is the head of the wife, even as Christ is the head of the church: the same thing we just read in Corinthians 11.
 

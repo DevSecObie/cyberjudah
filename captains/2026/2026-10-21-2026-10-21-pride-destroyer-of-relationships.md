@@ -2,7 +2,7 @@
 title: "PRIDE - Destroyer Of Relationships"
 slug: "2026/2026-10-21-pride-destroyer-of-relationships"
 date: "2026-10-21"
-teacher: "Captain Obadiah"
+teacher: "Captain Neariah"
 description: "15 Minutes w/ The Captains · 2026-10-21"
 tags: ["15 Minutes w/ The Captains", "anger", "discipline", "pride", "the-body", "unity"]
 ---

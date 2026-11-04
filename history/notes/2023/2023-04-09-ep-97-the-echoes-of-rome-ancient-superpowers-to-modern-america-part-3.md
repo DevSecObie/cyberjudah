@@ -18,8 +18,6 @@ tags: ["Our Hidden History", "america-babylon", "nations", "rome"]
 
 ## Introduction
 
-*[[9:30](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=570s)]* Radio show, and that's it. We in a building today. I don't know if I like that anymore; we're going to shoot with the natural, organic. I got some more stuff in line, just wait my turn.
-
 So like I said, we're going to do a continuation of The Echoes of Rome: Ancient Superpowers to Modern America. And going through this you're going to see how ancient times, Roman time, how it coincides with modernized American times. Everything that we're going through in terms of our persecution, from the slave trade, from us being released out of slavery, or given the false perception of us being free from slavery, it's the same thing that happened
 
 *[[10:15](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=615s)]* during the ancient Roman time period. So even with the ADL, the JDL, the SPLC, you have Jonathan Greenblatt, you have Hoover and some of these presidents that we experience or witness today, it's the same people that's regenerated. So that's why it's important, the things that happened in the past: to understand the past in order to understand our present as well as the future. Can we get Job chapter 8 verse 8. So the past is going to speak towards our future. It's going to give us understanding how to navigate and operate in this present time. So some people say, wait, what? Why are they coming against us? They did it in the past. There is nothing new under the sun. Read that, the book of Job chapter 8 and verse 8.
@@ -54,7 +52,7 @@ So like I said, we're going to do a continuation of The Echoes of Rome: Ancient 
 
 *[[14:50](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=890s)]* So indeed, now, we last left off at Spartacus. I know, I know: Spartacus, in terms of us being the gladiators. And a lot of people saw the show Spartacus and they thought that, oh, he was from
 
-*[[15:10](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=910s)]* the Gauls, right, or Thracian. So you have a lot of the gladiators were Thracians. If you can pull up the picture again, so people that weren't tuned in last week, they're going to see just a depiction of Spartacus and his negroid features. Pull that up.
+*[[15:10](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=910s)]* the Gauls, right, or Thracian. So you have a lot of the gladiators were Thracians. If you can pull up the picture again, so people that weren't tuned in last week, they're going to see just a depiction of Spartacus and his negroid features.
 
 <div class="reading">
 
@@ -62,13 +60,13 @@ Reading from the caption under a picture of Spartacus, printed in *Judea Tremble
 
 > This picture was taken from the book *Spartacus* by Howard Fast. It was printed in Hebrew, Tel Aviv, 1954.
 
-- Printed in Hebrew, Tel Aviv, 1954. Why is it printed in the Hebrew? Because these people have our records. Right. You can find this in a book, just in case anybody wants to know. It's very difficult to acquire. You might be able to write Rudolph R. Windsor himself. This is one of his books, *Judea Trembles
+- Printed in Hebrew, Tel Aviv, 1954. Why is it printed in the Hebrew? Because these people have our records. You can find this in a book, just in case anybody wants to know. It's very difficult to acquire. You might be able to write Rudolph R. Windsor himself. This is one of his books, *Judea Trembles
 
 - *[[16:03](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=963s)]* Under Rome*. Once again, you can find it; try to find it for yourself, *Judea Trembles Under Rome*, and try to write Rudolph Windsor, see if he has extra copies, because I know they took it out of print when we were just looking for it. And what do they have in it? They have records, informations, archaeology, things that we don't have access to. The Most High put the spirit on Rudolph R. Windsor in order to acquire this information.
 
 - So if you look at Spartacus, from his eyebrows, his hair texture, his ears, from his nose: negroid features without a doubt. Without a doubt. Look at them lips. Look at that, look at that nose. That's a black nose. Look at the lips. That's right, that's black lips. White people don't got lips
 
-- *[[16:48](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=1008s)]* like that. Come on. They call us monkeys or chimpanzees. If you look at them, if you really get a clear look at them, their lips look like that to me. That's just my perspective; it's not racism. They call us like we look like a monkey, but you don't got no lips. No lips. You got no lips like a monkey. Everything upside down.
+- *[[16:48](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=1008s)]* like that. They call us monkeys or chimpanzees. If you look at them, if you really get a clear look at them, their lips look like that to me. That's just my perspective; it's not racism. They call us like we look like a monkey, but you don't got no lips. No lips. You got no lips like a monkey. Everything upside down.
 
 - So Spartacus was a so-called black man, a warrior. Thracians, Gauls. Remember, northern kingdom: during the Assyrian captivity, we went over the book, Israel occupied those territories. We also went over that the Scythians were Israelites. We occupied Scythia, we occupied the Caucasus, we occupied
 
@@ -106,7 +104,7 @@ Reading from a book on slavery in Rome (the book isn't named on air), page 49 ·
 
 - *[[22:05](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=1325s)]* Africa was a safe haven. Anytime we have famine, Abraham went to where? Africa. When it was famine under, like I say, the twelve sons, Jacob and his twelve sons, where did he go? To Egypt, Africa. We always use Africa as a safe haven. We always fled into there.
 
-- Now, from beyond the rivers. Read that again. From beyond the rivers of Ethiopia my suppliants, even the daughter of my dispersed. So you have beyond the river of Ethiopia. Yes. So you have beyond that territory, all that point: you have Sudan, you have Kenya, South Sudan, you have Eritrea, Uganda. So you have Israelites living in all those different regions, in the different captivities. We migrated from the time we was in Egypt. Remember, we established different colonies and territories.
+- Now, from beyond the rivers. From beyond the rivers of Ethiopia my suppliants, even the daughter of my dispersed. So you have beyond the river of Ethiopia. Yes. So you have beyond that territory, all that point: you have Sudan, you have Kenya, South Sudan, you have Eritrea, Uganda. So you have Israelites living in all those different regions, in the different captivities. We migrated from the time we was in Egypt. Remember, we established different colonies and territories.
 
 - *[[23:01](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=1381s)]* That's why it said the daughter of my dispersed. Israel wasn't just one location. We always dwelt in the land of Ham. There's always colonies set up there. The bishop has been eloquently and distinctively going through the records and showing how we had colonies in Africa. Go back and watch the show, the Sabbath class two weeks ago, African Jews.
 
@@ -124,7 +122,7 @@ Reading from an online article, *Romans and sub-Saharan Africa* · read by a bro
 >
 > *[[23:52](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=1432s)]* century BC and the fourth century AD, several expeditions and explorations to Lake Chad and western Africa were conducted by groups of military and commercial units of Romans who moved across the Sahara and into the interior of Africa and its coast.
 
-- Go down, go down. Come back up.
+- Come back up.
 
 > … River area. However, some historians like Susan Raven believe that there was even another Roman expedition to sub-Saharan central Africa, the one of Valerius Festus, that could have reached equatorial Africa
 >
@@ -132,7 +130,7 @@ Reading from an online article, *Romans and sub-Saharan Africa* · read by a bro
 
 - So what happened was, Rome in the expedition. Remember they said they had the supply of slaves from Africa? They knew we was down in the interiors of Africa: Nigeria, Timbuktu. They came to those areas. All right, so they knew we was there. So they came to the area like Lake Chad, which is central Africa. Then they went all the way down towards the … River. Why? Because we were there. They understood we were there. Exactly, exactly.
 
-- Now get me Second Maccabees, chapter 1. Remember, we're in the Roman captivity. We're in the Roman captivity; prior to that, all the other captivities, the prophets spoke about us being in Africa. Read that.
+- Now get me Second Maccabees, chapter 1. Remember, we're in the Roman captivity. We're in the Roman captivity; prior to that, all the other captivities, the prophets spoke about us being in Africa.
 
 </div>
 
@@ -168,7 +166,7 @@ Reading from an online article, *Romans and sub-Saharan Africa* · read by a bro
 
 - Parts of Libya is northeast Africa as well. We migrated downwards: Tunisia, you have... And in parts of Libya about Cyrene. Cyrene also is in Africa. That's all I wanted. That's all I wanted. Now let's go back.
 
-- **Panel:** Just to back up that we always fled into Africa. Pull that up real quick. So it's a book called *West Africa and Its Peoples*.
+- **Panel:** Just to back up that we always fled into Africa. So it's a book called *West Africa and Its Peoples*.
 
 <div class="reading">
 
@@ -220,13 +218,13 @@ Reading from a book called *West Africa and Its Peoples* · read by a brother on
 
 > <sup>[11](/bible/isaiah/11#v11)</sup> And it shall come to pass in that day, that the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea.
 
-- **Panel:** So there's a remnant of his people in those areas. It's going to tell you. From Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea. Right. So Israel migrated in this area
+- **Panel:** So there's a remnant of his people in those areas. It's going to tell you. From Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea. So Israel migrated in this area
 
-- *[[34:46](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=2086s)]* during the time of slavery as well. Right. We were an omnipresent people, man. Scattered to the four corners of the earth.
+- *[[34:46](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=2086s)]* during the time of slavery as well. We were an omnipresent people, man. Scattered to the four corners of the earth.
 
-- **Deacon Eythan:** So I sent you something. If you can zoom in on that. Negro Land. All right, zoom in on the map, just to show you some of the different territories. Now we have another map going to the different Israelite colonies, but I want to go into this map, because it shows you some of the tribes before the scramble of Belgium. Zoom in. So right, the Gold Coast you have... It's going to be distorted. Yeah, it's a little bit distorted.
+- **Deacon Eythan:** So I sent you something. If you can zoom in on that. Negro Land. All right, zoom in on the map, just to show you some of the different territories. Now we have another map going to the different Israelite colonies, but I want to go into this map, because it shows you some of the tribes before the scramble of Belgium. So right, the Gold Coast you have... It's going to be distorted. Yeah, it's a little bit distorted.
 
-- *[[35:43](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=2143s)]* Stay there. Now go towards Kingdom of Judah and highlight that right there. Kingdom of Judah. That's right. Whydah. Whydah is Judah. The Slave Coast. Show you where they got the slaves from. What tribes were they taking? They knew who to capture. They knew where we were, where the tribes resided. The bishop brings out a map every single week. So this is the Kingdom of Judah, or Whydah, the Slave Coast, or the Gold Coast. Let's look up some other tribes. Go up. You got Timbuktu. We had a big presence in Timbuktu.
+- *[[35:43](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=2143s)]* Stay there. Now go towards Kingdom of Judah and highlight that right there. Kingdom of Judah. That's right. Whydah. Whydah is Judah. The Slave Coast. Show you where they got the slaves from. What tribes were they taking? They knew who to capture. They knew where we were, where the tribes resided. The bishop brings out a map every single week. So this is the Kingdom of Judah, or Whydah, the Slave Coast, or the Gold Coast. Let's look up some other tribes. You got Timbuktu. We had a big presence in Timbuktu.
 
 - *[[36:51](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=2211s)]* I sent you another page; pull that up. Right there. Now go down. Negro Judaism. Above, Gold Coast chief. What did it say about him? Go on.
 
@@ -236,13 +234,13 @@ Reading from a page headed *Negro Judaism*, the caption under a picture of a Gol
 
 > He came 100 miles to Accra on the coast to have his picture taken. His robe has Arabic and Hebrew charms.
 
-- Wow. It says the chief, Gold Coast chief, he came to Accra. Accra is in Ghana. It says his robe has Arabic and Hebrew charms. Go back up.
+- It says the chief, Gold Coast chief, he came to Accra. Accra is in Ghana. It says his robe has Arabic and Hebrew charms. Go back up.
 
 - **Panel:** Look like Benjamin right there, man.
 
 - **Deacon Eythan:** Yeah, it does. I'll send you another page. Hey, we knew who we were. Like I said, we still had some form of our customs that we still kept, but we became amalgamated. Started putting scars and stuff on our
 
-- *[[38:27](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=2307s)]* face, and then following these other heathen tribes. Go down.
+- *[[38:27](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=2307s)]* face, and then following these other heathen tribes.
 
 > Semitic, Galla and negroid elements all have some survivals of Judaism.
 
@@ -284,7 +282,7 @@ Reading from the book on slavery in Rome, continued · read by a brother on the 
 
 - So we just read that. It says Phrygians. In Egypt. And what? In Egypt. So that's what I wanted. So it shows you that a lot of these slaves that they was taken from were Israelites. I'll say it again: those were all Israelites they took as slaves. We just read it in the book of Acts chapter 2. Rome was taking us from all those different territories, because we
 
-- *[[43:05](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=2585s)]* have Israelite colonies set up there. Keep going.
+- *[[43:05](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=2585s)]* have Israelite colonies set up there.
 
 <div class="reading">
 
@@ -312,11 +310,11 @@ Reading from the book on slavery in Rome, continued · read by a brother on the 
 
 - So not only Rome, but
 
-- *[[45:24](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=2724s)]* Greece had us as slaves on auction blocks as well. Nothing new under the sun. Keep going.
+- *[[45:24](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=2724s)]* Greece had us as slaves on auction blocks as well. Nothing new under the sun.
 
 > they were conducted very much like those of our Southern cities.
 
-- Wait, what? Wait, wait, stop, stop. That's what it's talking about. It's talking about that in the present. Read it again.
+- Wait, what? Wait, wait, stop, stop. That's what it's talking about. It's talking about that in the present.
 
 - **Panel:** Yeah, he's saying it's the same. It's the same thing.
 
@@ -340,13 +338,13 @@ Reading from the book on slavery in Rome, continued · read by a brother on the 
 
 > Purchasers took care to have them stripped, for slave dealers had recourse to as many tricks to conceal personal defects as a horse jockey of modern times. Sometimes purchasers called in the advice of medical men.
 
-- *[[49:08](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=2948s)]* Right, right. Exactly. So let's try to pull up a picture to show you how they've done it in every captivity. And like I said, this time they disguised it under the name of sports. These are just high paid wage slaves. That's all they are. No matter how much money you make, it's just a delusion of you being free. You're still a slave. How do we know that? Anytime you try to speak up on any type of political arena, any type of political forum. Like you have Laura Ingraham; she said to LeBron James, shut up and dribble. What does that mean? Shut up, …. You're just a slave. You don't have a voice in society. Or you have Ice Cube, you have Nick Cannon, you have DeSean Jackson. DeSean Jackson.
+- *[[49:08](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=2948s)]* Exactly. So let's try to pull up a picture to show you how they've done it in every captivity. And like I said, this time they disguised it under the name of sports. These are just high paid wage slaves. That's all they are. No matter how much money you make, it's just a delusion of you being free. You're still a slave. How do we know that? Anytime you try to speak up on any type of political arena, any type of political forum. Like you have Laura Ingraham; she said to LeBron James, shut up and dribble. What does that mean? Shut up, …. You're just a slave. You don't have a voice in society. Or you have Ice Cube, you have Nick Cannon, you have DeSean Jackson. DeSean Jackson.
 
-- *[[50:08](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=3008s)]* So many brothers stood up, tried to stand up for some type of cultural ties, and they try to claim their identity. What happened? Kyrie Irving, Kanye West: shut up, …, and dribble. We hired you for one job and one only: to entertain us. Sing for me, …. Dance for me. I love how you tap your feet, boy, and make me laugh, boy. Shut up, …. Hey, I'm talking right now. This boy, shoot that basketball, boy. Dribble, …. Look at that. That's what you're worth. There you go. That's who you are to them: entertainment. Damn. When it comes to intellect, scholarly information, you don't have no value. You're meant to entertain, make them laugh, sing, fun. And get me that in Psalms. Yeah, Psalms. And
+- *[[50:08](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=3008s)]* So many brothers stood up, tried to stand up for some type of cultural ties, and they try to claim their identity. What happened? Kyrie Irving, Kanye West: shut up, …, and dribble. We hired you for one job and one only: to entertain us. Sing for me, …. Dance for me. I love how you tap your feet, boy, and make me laugh, boy. Shut up, …. Hey, I'm talking right now. This boy, shoot that basketball, boy. Dribble, …. Look at that. That's what you're worth. That's who you are to them: entertainment. Damn. When it comes to intellect, scholarly information, you don't have no value. You're meant to entertain, make them laugh, sing, fun. And get me that in Psalms. Yeah, Psalms. And
 
 - *[[51:07](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=3067s)]* go back to the images on the actual auction block. Not the literal auction block, but the modern day sports auction block.
 
-- And while you get that, cap, you also have Donald Sterling, who's a so-called Jew, who said, look, I clothe them and I feed them. Hey, can we get that? Pull that up, pull up that clip. They're Jewish. Jewish owners. All of them are Jewish owners. You're Herods, your Herodians. Jewish owners, your Antipaters. Jewish owners, no difference. They own a sports league. They own basketball, football. And like I said, Bishop Kani went into class so eloquently yesterday and revealed a lot of them changed their names. They changed their last names to give the
+- And while you get that, cap, you also have Donald Sterling, who's a so-called Jew, who said, look, I clothe them and I feed them. Hey, can we get that? They're Jewish. Jewish owners. All of them are Jewish owners. You're Herods, your Herodians. Jewish owners, your Antipaters. Jewish owners, no difference. They own a sports league. They own basketball, football. And like I said, Bishop Kani went into class so eloquently yesterday and revealed a lot of them changed their names. They changed their last names to give the
 
 - *[[51:55](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=3115s)]* perception that they're not Jewish. We just want that audio right there. Psalms 137. Read that for now. Psalms chapter 137 and verse 3.
 
@@ -366,13 +364,13 @@ Reading from an article on the Donald Sterling audio  *[[53:07](https://www.yout
 
 > More Donald Sterling audio has been released. This time you can hear the Clippers owner explaining that he doesn't think he's racist because he puts food on the tables of his black employees.
 
-- You see? I feed you, …. What's wrong? Why are you upset because I said a word? I feed you. Bishop Kani brought out yesterday, remember, you have the Jewish guy that opened
+- I feed you, …. What's wrong? Why are you upset because I said a word? I feed you. Bishop Kani brought out yesterday, remember, you have the Jewish guy that opened
 
 - *[[53:43](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=3223s)]* up all the 3,500 schools, black schools. Oh yeah, right. That was done out of fear. They don't do things for your benefit. They do things either for entertainment, to make money off you, or fear, to keep you occupied and busy.
 
 - **Panel:** If you look at it, if all the Clipper players quit, what does he have? Nothing.
 
-- **Deacon Eythan:** But we so emasculated, we don't see that, man. Exactly. And that's why Ice Cube, remember I was saying Ice Cube, he had a picture of... southern kingdom, northern kingdom, right under the Monopoly board, and the Jewish people was on the top of the board. They'll say, oh, that's anti-Semitism. Right. And he says, all you
+- **Deacon Eythan:** But we so emasculated, we don't see that, man. Exactly. And that's why Ice Cube, remember I was saying Ice Cube, he had a picture of... southern kingdom, northern kingdom, right under the Monopoly board, and the Jewish people was on the top of the board. They'll say, oh, that's anti-Semitism. And he says, all you
 
 - *[[54:33](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=3273s)]* gotta do is stand up all together, so just flip the table over.
 
@@ -380,7 +378,7 @@ Reading from an article on the Donald Sterling audio  *[[53:07](https://www.yout
 
 - *[[55:23](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=3323s)]* Look at that. But you don't even see what's happening on the table.
 
-- **Deacon Eythan:** Those are your elites. Everything that moves is on your back. We can't see anything. And you see how it's dark skin and light skin: southern kingdom and northern kingdom there. Right. All you have to do is stand up and the game is over. That's all we have to do: stand up collectively together. Two kingdoms, two sticks, one, united. That's why we have Israel United in Christ. We understand our power. If all the sports players with the millions of dollars was to pull out, take their money out, and guess what, invest in themselves, create their own. If they want to play ball, okay, you can play ball,
+- **Deacon Eythan:** Those are your elites. Everything that moves is on your back. We can't see anything. And you see how it's dark skin and light skin: southern kingdom and northern kingdom there. All you have to do is stand up and the game is over. That's all we have to do: stand up collectively together. Two kingdoms, two sticks, one, united. That's why we have Israel United in Christ. We understand our power. If all the sports players with the millions of dollars was to pull out, take their money out, and guess what, invest in themselves, create their own. If they want to play ball, okay, you can play ball,
 
 - *[[56:00](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=3360s)]* whatever, you know, control. Your high holy days and the Sabbath: shut it down, if you want to go that far, even though sports wasn't our thing. Guess what, cap: if they do that, the Messiah will stand for us as well.
 
@@ -408,7 +406,7 @@ Reading from an article on the Donald Sterling audio  *[[53:07](https://www.yout
 
 - **Panel:** I need one more week to really tap in. I need one more week to rest. I'm trying to wrap it up, man. I can't tap in yet, man. It's like the fatigue is holding it back. I'm so beat down, man. The spirit is willing, but the flesh
 
-- *[[59:24](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=3564s)]* is weak today. I was reading, right. Finish with that, and then read chapter 52. I said something on that board. Go ahead.
+- *[[59:24](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=3564s)]* is weak today. I was reading, right. Finish with that, and then read chapter 52. I said something on that board.
 
 **[Isaiah 52:1-2](/bible/isaiah/52#v1)**  *[[59:43](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=3583s)]*
 
@@ -436,7 +434,7 @@ Reading from the Donald Sterling audio, played on air  *[[1:00:30](https://www.y
 >
 > Sterling: You just... Do I know? I support them and give them food and clothes and cars and houses.
 
-- He said, I feed them. Damn. I clothe them, I feed them, I house them. Slavery. Where are you going to go? Right. But the master supplied us food. The master supplied us a house, clothes to cover shame. The master gave us all this: food, clothing, a house, covered shame. He gave us... Where are we going to go? He's a good old master. He's good to us. That's good to us.
+- He said, I feed them. Damn. I clothe them, I feed them, I house them. Slavery. Where are you going to go? But the master supplied us food. The master supplied us a house, clothes to cover shame. The master gave us all this: food, clothing, a house, covered shame. He gave us... Where are we going to go? He's a good old master. He's good to us. That's good to us.
 
 > Sterling: Who gives it to them? Does someone else give it to them? Do I know that I have... Who makes the game? Do I make the game, or do they make the game?
 
@@ -468,7 +466,7 @@ Reading from the book on slavery in Rome, pages 51 and 52 · read by a brother o
 
 > They joined their masters in offering up thanksgivings and prayer to the gods, and partook of their meals in common with their masters,
 
-- So we joined. Read it again. It says they joined their masters in offering up thanksgivings and prayer to the gods. So when you offer them, you join your masters and offer them thanksgivings and prayer to the gods. You're opening up your prayer and your Thanksgiving to their gods, not our God. That's what it says. Give
+- So we joined. It says they joined their masters in offering up thanksgivings and prayer to the gods. So when you offer them, you join your masters and offer them thanksgivings and prayer to the gods. You're opening up your prayer and your Thanksgiving to their gods, not our God. That's what it says. Give
 
 - *[[1:04:34](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=3874s)]* me that, First Corinthians chapter 10. No different: your Thanksgiving meals, your Christmas meals, your Easter meals. You got that in slavery. That was a tradition that was given to us, that they allowed us. I went over this before in the past. I went over this class before: how they allowed us on their holidays to get those days off. First Corinthians chapter 10 verse 21.
 
@@ -490,19 +488,19 @@ Reading from the book on slavery in Rome, page 52, continued · read by a brothe
 
 - And that's how we all became accustomed to celebrating Christmas, New Year's, Thanksgiving, Fourth of July, because these are the customs that they kept. So we took on the same holidays of our masters, worshipping their gods. Today it's been commercialized. It's been covered with the banner of
 
-- *[[1:06:06](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=3966s)]* Christianity. Back then it was obvious that we was worshipping other gods. Today they cover it with the covering of the Bible. That's why you don't know. It was under Constantine. He's the one that adopted the state church in the state. He brought together the pagans and the followers of Christ. So now that was the confusion. Back then there was no confusion. We knew the difference between the two. We understood that we were worshipping other gods. Right. Today you don't know, because of what Constantine did, how he adopted and assimilated the pagan customs into the Christian ideology. That's why you don't know. You think it's one and the same. Well, there's two separate entities. Christmas is pagan. Easter, today, like for
+- *[[1:06:06](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=3966s)]* Christianity. Back then it was obvious that we was worshipping other gods. Today they cover it with the covering of the Bible. That's why you don't know. It was under Constantine. He's the one that adopted the state church in the state. He brought together the pagans and the followers of Christ. So now that was the confusion. Back then there was no confusion. We knew the difference between the two. We understood that we were worshipping other gods. Today you don't know, because of what Constantine did, how he adopted and assimilated the pagan customs into the Christian ideology. That's why you don't know. You think it's one and the same. Well, there's two separate entities. Christmas is pagan. Easter, today, like for
 
 - *[[1:06:48](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=4008s)]* example, Easter Sunday: Easter is pagan, after the pagan god Eostre, or Ashtaroth, Ishtar, or the Queen of Heaven, Isis, Semiramis, the goddess of fertility. Go on, now keep reading.
 
 > A certain quantity of … allowed them, which was granted either monthly or daily. Their chief food was the grain called far, of which the allowance was about one quart per day. They also had an allowance of salt and oil. Meat seems to have been hardly ever given them.
 
-- Go down. Far is like, today, when we were in slavery, like grits.
+- Far is like, today, when we were in slavery, like grits.
 
 > Runaway slaves and thieves were branded on the forehead with a mark.
 
 - Wait: runaway slaves and thieves were what? Were branded on the forehead with a mark. Can we see that? What did they do to the runaway slaves
 
-- *[[1:07:37](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=4057s)]* and thieves? They branded them. In the American slave trade, on the forehead, with the mark. It's no different. The brand was R, for what? Runaway. Right.
+- *[[1:07:37](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=4057s)]* and thieves? They branded them. In the American slave trade, on the forehead, with the mark. It's no different. The brand was R, for what? Runaway.
 
 - **Panel:** And then maybe that's the reason why you see all these tattoos. That's branding. And sometimes, you know, in the policing world, one of the racial slurs that they use whenever they're going after a black perp, they say, we got a runner. They say, we got a runner; you know it's a black guy.
 
@@ -518,7 +516,7 @@ Reading from the book on slavery in Rome, page 52, continued · read by a brothe
 
 - *[[1:09:22](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=4162s)]* record these things. But this has always been going on. The people, they always been the same. Same spirits.
 
-- **Deacon Eythan:** Technology, so that it could be revealed. Right. Because remember, it says the man of sin must be revealed. Right. Internet, cell phone, body cam.
+- **Deacon Eythan:** Technology, so that it could be revealed. Because remember, it says the man of sin must be revealed. Internet, cell phone, body cam.
 
 - **Panel:** Yes sir. Just to show you that they don't change. What they did was they changed your mind. Your mind has been corrupted to believe in something that is not real. Second Corinthians chapter 11 and verse 3.
 
@@ -530,17 +528,17 @@ Reading from the book on slavery in Rome, page 52, continued · read by a brothe
 
 - **Panel:** Through his subtilty. That's the subtilty of the wise. He's using it against us, using smooth words. Like the scripture says, his words were smooth,
 
-- *[[1:10:30](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=4230s)]* but war was in his heart, to destroy you. Go ahead. So our mind has been corrupted to believe in something that is not real. Right. That's why they give us a white Jesus. So now you're praying with them. You're sitting at their table, and you're not even sitting at the table: they put you at the bench at their feet, like the animals. And then we are so happy just to be there, not seeing that they don't want you around. Go ahead. Is there more? Yes, verse 4.
+- *[[1:10:30](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=4230s)]* but war was in his heart, to destroy you. So our mind has been corrupted to believe in something that is not real. That's why they give us a white Jesus. So now you're praying with them. You're sitting at their table, and you're not even sitting at the table: they put you at the bench at their feet, like the animals. And then we are so happy just to be there, not seeing that they don't want you around. Is there more? Yes, verse 4.
 
 > <sup>[4](/bible/2-corinthians/11#v4)</sup> For if he that cometh preacheth another Jesus, whom we have not preached, or if ye receive another spirit, which ye have not received, or another gospel, which ye have not accepted, ye might well bear with him.
 
-- **Panel:** *[[1:11:19](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=4279s)]* So just like the Bishop's class yesterday: they bring a new image, comes with a new spirit, comes with a new gospel, a new message, that God is not a god of hate, it's all of love. Only because they know God hates them. You understand.
+- **Panel:** *[[1:11:19](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=4279s)]* So just like the Bishop's class yesterday: they bring a new image, comes with a new spirit, comes with a new gospel, a new message, that God is not a god of hate, it's all of love. Only because they know God hates them.
 
-- **Panel:** Hey, cap, we got time? Just so I could throw something in about the Jew presence in Africa. Pull up the one from Cambridge University Press.
+- **Panel:** Hey, cap, we got time? Just so I could throw something in about the Jew presence in Africa.
 
 - **Deacon Eythan:** Cambridge University, trying to bring us back to Africa. I got to bring it back to Africa. Let's take a break after this.
 
-- **Panel:** All right. So you might not like this connection right here, but
+- **Panel:** So you might not like this connection right here, but
 
 - *[[1:12:10](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=4330s)]* you'll appreciate it. This is very intriguing, of history of the Jew people all the way up to World War One. Greenblatt, he made a dumb remark in his statement on The Breakfast Club, stating that we're not the original Jews, we're not traditional Jews. That's stupid, after you read what the Cambridge press put together right here, also relating to our presence, the Jew presence in Africa.
 
@@ -564,25 +562,25 @@ Reading from *Black Jews: The Religious Challenge*, Cambridge University Press, 
 
 - Stop. So those Jews that were deported, that was mostly taken from the cities, from the Jew cities: they were educated people. They wasn't brutes. They wasn't barbarians. They were
 
-- *[[1:15:33](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=4533s)]* educated people. Go ahead.
+- *[[1:15:33](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=4533s)]* educated people.
 
 > They were good merchants, learned easily, and had a knowledge of Portuguese law and history. They were often employed as
 
-- Today we know we have a large Jewish and Israelite population in Rhode Island. They're from the island off the west coast of Africa: Cape Verdeans. They understood the Portuguese language. Go ahead.
+- Today we know we have a large Jewish and Israelite population in Rhode Island. They're from the island off the west coast of Africa: Cape Verdeans. They understood the Portuguese language.
 
 > They were often employed as clerks and writers for Livingstone. There was no doubt but that these people were the descendants of those who had been deported from Portugal in the 15th century. Other evidence supports his intuition. In *Savage Africa*, Winwood Reade writes of having met in Guinea blacks claiming to be
 >
 > *[[1:16:24](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=4584s)]* Portuguese, around 1864. Closer to our time, Dr. J. Kreple noted, some time after the First World War, that a large community of black Jews existed in the interior of Dahomey. These Jews had the five books of Moses written on an old parchment in Hebrew.
 
-- Damn. These Jews had the five books of Moses. Read on.
+- Damn. These Jews had the five books of Moses.
 
 > All these disparate elements are evidence of the permanent presence of Jewish tradition within African ethnic groups which had at one time been in contact with the Jews who came from the Mediterranean, were converted, and kept their faith in their way of life.
 
 - All right, real quick, go back to the map. Go back to the map.
 
-- *[[1:17:15](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=4635s)]* You know, I'm putting it all together. Zoom in again. Zoom in again. Now you see these two Levi cities. Go down. São Tomé: they must have came from here. Go to your right, my left. Keep going, all the way to Dahomey. Right here. All right. So what we just read: up to World War One you had Jews that was in Dahomey, practicing the laws, that had the five books of Moses. And I'm gonna get more literature. A lot of Levites came from slavery to the West Indies from Dahomey. Yeah. We outside, baby. We're outside. I know this is a hidden history show, so
+- *[[1:17:15](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=4635s)]* You know, I'm putting it all together. Zoom in again. Zoom in again. Now you see these two Levi cities. São Tomé: they must have came from here. Go to your right, my left. Keep going, all the way to Dahomey. So what we just read: up to World War One you had Jews that was in Dahomey, practicing the laws, that had the five books of Moses. And I'm gonna get more literature. A lot of Levites came from slavery to the West Indies from Dahomey. Yeah. We outside, baby. We're outside. I know this is a hidden history show, so
 
-- *[[1:18:19](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=4699s)]* it had to be unveiled. I love my Levi brothers and sisters. All praise to the Most High. And this is our history. One day we're going to have a Levi edition.
+- *[[1:18:19](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=4699s)]* it had to be unveiled. I love my Levi brothers and sisters. And this is our history. One day we're going to have a Levi edition.
 
 - **Deacon Eythan:** If you want to call in, call in 267-702-6121. Once again, call in 267-702-6121, or you can text. We'll be right back.
 
@@ -650,7 +648,7 @@ Reading from the book on slavery in Rome, page 52, continued after the break · 
 
 > special indulgences were granted to all slaves. This festival fell towards the end of December,
 
-- What? Wow. This festival fell towards the end of December. What festival falls towards the end of December? Christmas. Christmas. Go on.
+- What? This festival fell towards the end of December. What festival falls towards the end of December? Christmas. Christmas. Go on.
 
 > at the season when the agricultural labours of the year were fully completed. It was celebrated in ancient times
 >
@@ -676,17 +674,17 @@ Reading from the book on slavery in Rome, page 52, continued after the break · 
 
 > <sup>[3](/bible/jeremiah/10#v3)</sup> For the customs of the people are vain: for one cutteth a tree out of the forest, the work of the hands of the workman, with the axe.
 
-- The customs of the other nations are lies. Read. So one of the customs: one cuts a tree out of the forest, the work of the hands of the workman. Sorry, excuse me, tongue tied. Read it again. The work of the hands of the work-
+- The customs of the other nations are lies. So one of the customs: one cuts a tree out of the forest, the work of the hands of the workman. Sorry, excuse me, tongue tied. The work of the hands of the work-
 
-- *[[1:36:30](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=5790s)]* man. The work of the hands of the workman. Go on. With the axe. With the axe. Right.
+- *[[1:36:30](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=5790s)]* man. The work of the hands of the workman. Go on. With the axe. With the axe.
 
 > <sup>[4](/bible/jeremiah/10#v4)</sup> They deck it with silver and with gold; they fasten it with nails and with hammers, that it move not.
 
-- They deck it with silver and with gold. What do they do after they cut the tree out of the forest? They decorate it with silver and gold. That's your Merry Christmas. That's your ho ho ho, Merry Christmas. They decorate it with silver and gold. Go on. They fasten it with nails and with hammers: that's your tree stand. They fasten it with nails and hammers. Read. That it move not. Go on.
+- They deck it with silver and with gold. What do they do after they cut the tree out of the forest? They decorate it with silver and gold. That's your Merry Christmas. That's your ho ho ho, Merry Christmas. They decorate it with silver and gold. Go on. They fasten it with nails and with hammers: that's your tree stand. They fasten it with nails and hammers. That it move not. Go on.
 
 > <sup>[5](/bible/jeremiah/10#v5)</sup> They are upright as the palm tree, but speak not: they must needs be borne, because they cannot go. Be not afraid of them; for they cannot do evil, neither also is it in them to do good.
 
-- They are upright as the palm tree, because back then they used a palm tree, but today they use the evergreen tree. Read. But speak not. They speak not, because the Christmas, or the story behind it, was that Nimrod's
+- They are upright as the palm tree, because back then they used a palm tree, but today they use the evergreen tree. But speak not. They speak not, because the Christmas, or the story behind it, was that Nimrod's
 
 - *[[1:37:13](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=5833s)]* spirit inhabited the tree. Go on. They must needs be borne, they need to be carried, because they cannot go. Because they cannot go. There's no spirit within a tree. Nimrod never inhabited the tree. Now let's go back. That's it on that, cap.
 
@@ -699,8 +697,6 @@ Reading from *The Outline of History*, page 421, on the gladiatorial shows · re
 > In the course of the next two or three centuries, the gladiatorial shows of Rome grew to immense proportions. To begin with, while wars were frequent, the gladiators were prisoners of war. They came with their characteristic national weapons: tattooed Britons, Moors,
 >
 > *[[1:38:37](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=5917s)]* Scythians, Negroes.
-
-- Read it again. Read it again.
 
 > While wars were frequent, the gladiators were prisoners of war. They came with their characteristic national weapons: tattooed Britons,
 
@@ -720,13 +716,13 @@ Reading from *The Outline of History*, page 421, on the gladiatorial shows · re
 
 > and there was perhaps a military value in these exhibitions.
 
-- Right. Now jump down. So the gladiators, they were all Israelites. Get the end. Britons, Negroes,
+- Now jump down. So the gladiators, they were all Israelites. Get the end. Britons, Negroes,
 
 - *[[1:39:38](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=5978s)]* Moors: we were the gladiators. We got more too. Don't worry, we're going to prove all things. Go on.
 
 > A new use was found for gladiators as armed retainers. Rich men would buy a band and employ it as a bodyguard, or hire it out for profit at the shows.
 
-- Right. That's it on that. All right, now let's go to the Negro slave.
+- That's it on that. All right, now let's go to the Negro slave.
 
 </div>
 
@@ -736,7 +732,7 @@ Reading from a page titled *Negro Slave* (the book isn't named on air) · read b
 
 > The Roman economy depended on the cheap labour of slaves,
 
-- Now the title says Negro slave. So anytime it talks about slaves, it's referencing what? Negroes, or black people. Keep that in mind. Go on. The Roman economy depended on the cheap labour of what? Slaves. Cheap labour of what? Negro slaves. Read it again.
+- Now the title says Negro slave. So anytime it talks about slaves, it's referencing what? Negroes, or black people. Keep that in mind. Go on. The Roman economy depended on the cheap labour of what? Slaves. Cheap labour of what? Negro slaves.
 
 > The Roman economy depended
 >
@@ -788,7 +784,7 @@ Reading from a page titled *Negro Slave* (the book isn't named on air) · read b
 
 > Other slaves were forced to become gladiators, doomed to die in unequal contests and amphitheatre spectacles. It was a gladiator slave called Spartacus who, in 73 BC, led a huge slave revolt in Italy. The revolt was ferociously crushed three years later, and 6,000 slaves were crucified along the Appian Way.
 
-- Now notice that they mentioned Spartacus. Right. Notice the whole chapter, it goes to slaves in Rome. And it mentioned Britain, and it mentioned... But the top, it says what? Negro slaves. The author is telling that all these things, all these different types of people that are mentioned, Gaul,
+- Now notice that they mentioned Spartacus. Notice the whole chapter, it goes to slaves in Rome. And it mentioned Britain, and it mentioned... But the top, it says what? Negro slaves. The author is telling that all these things, all these different types of people that are mentioned, Gaul,
 
 - *[[1:45:44](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=6344s)]* Britain, Asia Minor, were all Negro slaves. Now give me the picture. No, give me the other one, for the book we just gave you today. *General History*.
 
@@ -808,7 +804,7 @@ Reading from *General History of Africa: Ancient Civilizations of Africa*, the p
 
 > Plate 7.3: Statue of a black gladiator.
 
-- Statue of a black... Look at it. Zoom in, please. Look at that. Come on now, man. Look at them lips. Come on now. Like Spartacus.
+- Statue of a black... Look at it. Zoom in, please. Look at that. Come on now, man. Look at them lips. Like Spartacus.
 
 - *[[1:48:38](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=6518s)]* Look at them. Look: the black lips, black nose. Bring it out, cap. Tap in, cap, tap in. So that looks like a Negro. Look at the nose, the lips, the cheeks, the eyes. Everything about it says nothing about Esau. Now let's go back out.
 
@@ -816,13 +812,13 @@ Reading from *General History of Africa: Ancient Civilizations of Africa*, the p
 
 - Double axe. Definitely a black dude right there. Kind of looked like a light-skinned Negro, you know.
 
-- *[[1:49:54](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=6594s)]* It looks like... yeah, it does. Right. The eyebrows. That's his hair right there. Look at that woolly, kinky hair. It's a warrior. Look at the lips, the nose. That's the Negro. Big old head right there. Go back down.
+- *[[1:49:54](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=6594s)]* It looks like... yeah, it does. The eyebrows. That's his hair right there. Look at that woolly, kinky hair. It's a warrior. Look at the lips, the nose. That's the Negro. Big old head right there. Go back down.
 
 > Earthenware tile: black figure kneeling and blowing a musical...
 
 - Look at the difference between a Jake and the
 
-- *[[1:51:05](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=6665s)]* Edomite. That's the Edomite right there. Zoom in. That's why you could never say that what we're bringing out is false. Look. Who's that on the back? Blue's Clues. So, the Blue's Clues: look at it. Look at the nose, the lips, the cheeks, the eyes. Make sure you brew my tea like this, with three leaves in it, Bob. Look at his eyes. Crazy, demonized. Serial killer eyes. Now go back up to the Jake, to show the difference. Look, come on, Negro. Look at that Negro, come on, man. Double axe. Look at that Negro.
+- *[[1:51:05](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=6665s)]* Edomite. That's the Edomite right there. That's why you could never say that what we're bringing out is false. Who's that on the back? Blue's Clues. So, the Blue's Clues: look at it. Look at the nose, the lips, the cheeks, the eyes. Make sure you brew my tea like this, with three leaves in it, Bob. Look at his eyes. Crazy, demonized. Serial killer eyes. Now go back up to the Jake, to show the difference. Look at that Negro, come on, man. Double axe. Look at that Negro.
 
 - *[[1:52:12](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=6732s)]* Now let's get some more. Let's go to the next one, the *Imperial Rome*, the black gladiators. So now don't let anybody fool you when you look at the movies, or look at the show Spartacus, when you look at the movie *Gladiator* with Maximus. We were the gladiators. That's right. That was our forefathers in the ring fighting. They were the champions that they made sports out of.
 
@@ -844,7 +840,7 @@ Reading from *Imperial Rome* by Time Life, on the games and the black gladiators
 
 > Gladiators often fought with mismatched weapons. Negroes, a rare sight in Rome...
 
-- Negroes what? Negroes what? Negroes. Read it again. Read it again.
+- Negroes what? Negroes what? Negroes.
 
 > Gladiators often fought with mismatched weapons. Negroes, a rare sight in Rome,
 
@@ -854,17 +850,17 @@ Reading from *Imperial Rome* by Time Life, on the games and the black gladiators
 
 > ... a dwarf might be pitted against a woman.
 
-- Now let's go see some of these Negroes, a rare sight in Rome. Go to the top real quick. Negro, Negro. Look at that. Look at the woolly hair. Now go up a little bit. Look, you can tell the difference, right? Look at the haircut. That's the Edomite. It's a Negro with the music, the music. All right, go down. Let's hurry. Louis Armstrong, doing the trumpet. Look at the beards, right? Woolly, woolly.
+- Now let's go see some of these Negroes, a rare sight in Rome. Go to the top real quick. Negro, Negro. Look at that. Look at the woolly hair. Now go up a little bit. Look, you can tell the difference, right? Look at the haircut. That's the Edomite. It's a Negro with the music, the music. Let's hurry. Louis Armstrong, doing the trumpet. Look at the beards, right? Woolly, woolly.
 
-- *[[1:55:31](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=6931s)]* Playing the trumpets. Instrumentalists, entertainers. Entertainers in the ring; entertain us out the ring: your musicians, your warriors, your boxers, your fighters. All right, go to the right. Zoom out, zoom out. So they pitted us against each other. Now let's go to the next page. Zoom in.
+- *[[1:55:31](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=6931s)]* Playing the trumpets. Instrumentalists, entertainers. Entertainers in the ring; entertain us out the ring: your musicians, your warriors, your boxers, your fighters. All right, go to the right. So they pitted us against each other. Now let's go to the next page.
 
 > A battle of gladiators is accompanied by a band of musicians, shown in this mosaic at far left, playing such instruments as the bronze horn and water organ. The gladiators, some in simple breechcloths, others in armour, fight with short swords, daggers, spears and harpoon-like tridents.
 
-- Zoom in. It says Negro. Where's the rare sight in
+- It says Negro. Where's the rare sight in
 
-- *[[1:56:35](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=6995s)]* Rome? These are all Negroes. The gladiators were prisoners of war, slaves and criminals. Look at that fro. Right. Look at that. Look at the beard. Now you can't see the hair texture of the gladiators, because they have the helmet on, but look at that brother right there. Look at the colour. Come on, look at the colour. Hey, look at the colour against the white garment. Exactly. Now you see they try to whitewash it on the inside. Now zoom out, and this is how you know they try whitewashing. Go to the other gladiators. Go back up. Zoom in. Look at the brown, and look how they try to whitewash it. Now go all the way to the right.
+- *[[1:56:35](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=6995s)]* Rome? These are all Negroes. The gladiators were prisoners of war, slaves and criminals. Look at that fro. Look at that. Look at the beard. Now you can't see the hair texture of the gladiators, because they have the helmet on, but look at that brother right there. Look at the colour. Come on, look at the colour. Hey, look at the colour against the white garment. Exactly. Now you see they try to whitewash it on the inside. Now zoom out, and this is how you know they try whitewashing. Go to the other gladiators. Go back up. Look at the brown, and look how they try to whitewash it. Now go all the way to the right.
 
-- *[[1:57:27](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=7047s)]* Look at that gladiator here. Look. Go down, go all the way. Zoom in. Come on. Wow. Look, look. Come on, man. Zoom out. Go up. Right there. You see the whitewashing right here? You see the whitewashing. Now go back to the other Edomite, to see how they try to whitewash. Go all the way to the top. Zoom in.
+- *[[1:57:27](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=7047s)]* Look at that gladiator here. Go down, go all the way. Right there. You see the whitewashing right here? You see the whitewashing. Now go back to the other Edomite, to see how they try to whitewash. Go all the way to the top.
 
 - **Panel:** Looks like an Edomite to me.
 
@@ -874,7 +870,7 @@ Reading from *Imperial Rome* by Time Life, on the games and the black gladiators
 
 - **Deacon Eythan:** Exactly. Now go to the other book.
 
-- *[[1:58:27](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=7107s)]* Now go to the bottom. Right there. Look at my man. Come on. Look, come on now. Zoom in. Looks like he was whooping the …. Negroes, black people, gladiators. Now if you notice that, now zoom out, you notice the animals. Now go to the other page, with the animals, the bears and lions and stuff like that. Now zoom in. You see how you got the animals. Now go down. Right there.
+- *[[1:58:27](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=7107s)]* Now go to the bottom. Right there. Look at my man. Looks like he was whooping the …. Negroes, black people, gladiators. Now if you notice that, now zoom out, you notice the animals. Now go to the other page, with the animals, the bears and lions and stuff like that. Now zoom in. You see how you got the animals. Now go down. Right there.
 
 > A battle of beasts features a whipper who forces a naked victim to separate a chained bear and a bull. The whipper holds another victim by the hair in preparation for the next event.
 
@@ -882,11 +878,11 @@ Reading from *Imperial Rome* by Time Life, on the games and the black gladiators
 
 - *[[1:59:37](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=7177s)]* me see if I have it. Now you can purchase this book. This book is called *Imperial Rome*, by Time Life. The bishop has brought this book out countless times. They always bring this book out. Very good book. But as you can see, we were never a rare sight in Rome. Never. Never a rare sight in Rome, man. We was always in Rome, if not the majority in Rome. Remember, in the one page that we read, it says a third were slaves in Rome. All right, so we was always there. I'm gonna send you a page real quick. Keep talking.
 
-- **Panel:** All right. Also, when we was also in Rome, we didn't get to it yet, we'll get to it next week, but when we was also in Rome, we was in the
+- **Panel:** Also, when we was also in Rome, we didn't get to it yet, we'll get to it next week, but when we was also in Rome, we was in the
 
 - *[[2:00:36](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=7236s)]* cities of Rome. As you know, we was always... We'll get to the page next time; I don't want to give it away. But we was in the hoods, just like we are right now, in Rome also.
 
-- **Deacon Eythan:** Oh, okay, that's out of the book too. If you could just flip that a little bit. Bring that up. So just going to the fights with the animals: that was constantly, that was always common. And get me Leviticus chapter 26, 22. Leviticus chapter 26 and verse 22.
+- **Deacon Eythan:** Oh, okay, that's out of the book too. If you could just flip that a little bit. So just going to the fights with the animals: that was constantly, that was always common. And get me Leviticus chapter 26, 22. Leviticus chapter 26 and verse 22.
 
 </div>
 
@@ -896,7 +892,7 @@ Reading from *Imperial Rome* by Time Life, on the games and the black gladiators
 
 - Now can you pull that up. It's on the screen; it's coming up
 
-- *[[2:01:42](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=7302s)]* here. All right. So we were put against wild beasts. This happened in Rome. Today the wild beasts go into the animals, or what do you have of your viruses today. It's called what?
+- *[[2:01:42](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=7302s)]* here. So we were put against wild beasts. This happened in Rome. Today the wild beasts go into the animals, or what do you have of your viruses today. It's called what?
 
 - **Panel:** Zoonosis.
 
@@ -918,9 +914,9 @@ Reading from *Imperial Rome* by Time Life, on the games and the black gladiators
 
 ## In Closing
 
-*[[2:03:56](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=7436s)]* All right, so yeah, we're gonna stop there today. All right, that's it for today. All praises. And that concludes the section on gladiators.
+*[[2:03:56](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=7436s)]* All right, so yeah, we're gonna stop there today. All right, that's it for today. And that concludes the section on gladiators.
 
-**Panel:** Hey, Israel, let's give another hand for the leadership for that class. All praise the Most High. A fire class.
+**Panel:** Hey, Israel, let's give another hand for the leadership for that class. A fire class.
 
 *[[2:05:20](https://www.youtube.com/watch?v=VTG1zu6wh3w&t=7520s)]* Have a blessed and safe week. Tune in to all the classes, to all the shows. We need to keep our spirits up. Pray three times a day. And with that, we say shalom.
 

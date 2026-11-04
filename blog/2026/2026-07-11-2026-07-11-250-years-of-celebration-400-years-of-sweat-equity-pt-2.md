@@ -27,24 +27,28 @@ Last week we opened Revelation 17 on the eighth head, which is of the seven. The
 
 **[Revelation 12:1-6](/bible/revelation/12#v1)**  *[[15:44](https://www.youtube.com/watch?v=C5q-raZJyNA&t=944s)]*
 
+- There appeared a great wonder in heaven, a woman clothed with the sun. This woman is the twelve tribes of Israel. The commandments are a lamp and the law is light, and that was only given to the Israelites. Upon her head a crown of twelve stars: the twelve tribes.
+
+- She being with child cried, travailing in birth, and pained to be delivered. The woman, the nation of Israel, was travailing to bring forth Christ to save us from the hand of the Romans, who had taken the kingdom of Israel by force. Pained to be delivered means we were persecuted.
+
 > <sup>[1](/bible/revelation/12#v1)</sup> And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:
 >
 > <sup>[2](/bible/revelation/12#v2)</sup> And she being with child cried, travailing in birth, and pained to be delivered.
 >
 > <sup>[3](/bible/revelation/12#v3)</sup> And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads.
->
+
+- And there appeared another wonder in heaven: our heaven. Behold, a great red dragon having seven heads and ten horns, and seven crowns upon his heads: seven different rulers among this beast, Greece, Rome, Spain, France, Germany, Russia, and Great Britain. The eighth head was not here yet at this point.
+
+- His tail drew the third part of the stars of heaven, and did cast them to the earth. The stars of heaven are the twelve tribes; the third part is mainly Judah, Benjamin, and Levi, with stragglers of the other tribes still in Jerusalem, like Anna of the tribe of Aser. By the time Rome came in, the bulk of the tribes had already gone; that is the counsel of the northern tribes under Cyrus that we read last week. Cast them to the earth: put them into captivity, going into 70 AD.
+
+- The dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born. Who was this dragon? Rome, the house of Herod. Herod was an Idumean; Idumea is a word for Edom, and that is in the history books. The same beast that was rebirthed into this beast here has the same mentality.
+
 > <sup>[4](/bible/revelation/12#v4)</sup> And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born.
 >
 > <sup>[5](/bible/revelation/12#v5)</sup> And she brought forth a man child, who was to rule all nations with a rod of iron: and her child was caught up unto God, and to his throne.
->
-> <sup>[6](/bible/revelation/12#v6)</sup> And the woman fled into the wilderness, where she hath a place prepared of God, that they should feed her there a thousand two hundred and threescore days.
 
-- There appeared a great wonder in heaven, a woman clothed with the sun. This woman is the twelve tribes of Israel. The commandments are a lamp and the law is light, and that was only given to the Israelites. Upon her head a crown of twelve stars: the twelve tribes.
-- She being with child cried, travailing in birth, and pained to be delivered. The woman, the nation of Israel, was travailing to bring forth Christ to save us from the hand of the Romans, who had taken the kingdom of Israel by force. Pained to be delivered means we were persecuted.
-- And there appeared another wonder in heaven: our heaven. Behold, a great red dragon having seven heads and ten horns, and seven crowns upon his heads: seven different rulers among this beast, Greece, Rome, Spain, France, Germany, Russia, and Great Britain. The eighth head was not here yet at this point.
-- His tail drew the third part of the stars of heaven, and did cast them to the earth. The stars of heaven are the twelve tribes; the third part is mainly Judah, Benjamin, and Levi, with stragglers of the other tribes still in Jerusalem, like Anna of the tribe of Aser. By the time Rome came in, the bulk of the tribes had already gone; that is the counsel of the northern tribes under Cyrus that we read last week. Cast them to the earth: put them into captivity, going into 70 AD.
-- The dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born. Who was this dragon? Rome, the house of Herod. Herod was an Idumean; Idumea is a word for Edom, and that is in the history books. The same beast that was rebirthed into this beast here has the same mentality.
 - She brought forth a man child, who was to rule all nations with a rod of iron: and her child was caught up unto God, and to his throne. He was transfigured, taken up.
+
 - The woman fled into the wilderness, where she hath a place prepared of God. The wilderness is Africa; we fled out of Jerusalem into Africa, the same place where Joseph took the young child and his mother. Then a place was prepared, which is the Americas. A thousand two hundred and threescore days: 1260 days, three and a half, the same period written as forty and two months and as a time, times, and the dividing of time in Daniel 7 and 8.
 
   Precepts:
@@ -100,6 +104,8 @@ Last week we opened Revelation 17 on the eighth head, which is of the seven. The
     > <sup>[11](/bible/revelation/11#v11)</sup> And after three days and an half the Spirit of life from God entered into them, and they stood upon their feet; and great fear fell upon them which saw them.
 
     Their dead bodies shall lie in the street of the great city, which spiritually is called Sodom and Egypt. This great city has both traits: you cannot find a place on earth with more sodomy in it than right here, and it mimics Egypt because the twelve tribes went into bondage here again, brought in with ships. Where also our Lord was crucified: Christ was not crucified here physically, but they gave us Christianity and destroyed the minds of our people. Dead bodies means mentally and spiritually dead: dead to who we are, because they said you are not the children of Israel. Three days and an half: 350 years. They shall not suffer their dead bodies to be put in graves, because we are not physically dead. They that dwell upon the earth shall rejoice over them, and make merry, and shall send gifts one to another: the nations are rejoicing and celebrating over our destruction. Because these two prophets tormented them that dwelt on the earth: they know our history and remember the power we once ruled with. And after three days and an half the spirit of life from God entered into them, and they stood upon their feet: after the 350 years, this goes into Ezekiel 37, the dead bones coming to life. That is how you are waking up to the truth. And great fear fell upon them which saw them: they know our God is coming back.
+
+> <sup>[6](/bible/revelation/12#v6)</sup> And the woman fled into the wilderness, where she hath a place prepared of God, that they should feed her there a thousand two hundred and threescore days.
 
 **[Revelation 12:14](/bible/revelation/12#v14)**  *[[52:43](https://www.youtube.com/watch?v=C5q-raZJyNA&t=3163s)]*
 
@@ -285,12 +291,18 @@ Reading from on-screen text on King Solomon and the star of Molech  *[[1:30:37](
 
 **[1 Kings 11:1-9](/bible/1-kings/11#v1)**  *[[1:32:28](https://www.youtube.com/watch?v=C5q-raZJyNA&t=5548s)]*
 
+- King Solomon loved many strange women, of the nations concerning which the Lord said, Ye shall not go in to them, neither shall they come in unto you: for surely they will turn away your heart after their gods. It did not say maybe; it said surely. That is why we are not supposed to be dealing with the other nations.
+
 > <sup>[1](/bible/1-kings/11#v1)</sup> But king Solomon loved many strange women, together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Zidonians, and Hittites;
 >
 > <sup>[2](/bible/1-kings/11#v2)</sup> Of the nations concerning which the Lord said unto the children of Israel, Ye shall not go in to them, neither shall they come in unto you: for surely they will turn away your heart after their gods: Solomon clave unto these in love.
 >
 > <sup>[3](/bible/1-kings/11#v3)</sup> And he had seven hundred wives, princesses, and three hundred concubines: and his wives turned away his heart.
->
+
+- He had seven hundred wives, princesses, and three hundred concubines: and his wives turned away his heart after other gods. Solomon went after Ashtoreth the goddess of the Zidonians: Ashtoreth is where Easter comes from, the goddess of fertility. Then did Solomon build an high place for Chemosh, the abomination of Moab, and for Molech, the abomination of the children of Ammon. That is where that star came in: the star of Remphan, the star of Molech, witchcraft. Solomon did evil in the sight of the Lord, and the Lord was angry with Solomon, because his heart was turned from the Lord God of Israel, which had appeared unto him twice.
+
+- Being that Solomon was into it, the navy was involved in it; that is the reason you see those symbols in some of the records of the people that came over. But that is not a symbol we are supposed to be dealing with. It is not the Star of David; that is not in the Bible.
+
 > <sup>[4](/bible/1-kings/11#v4)</sup> For it came to pass, when Solomon was old, that his wives turned away his heart after other gods: and his heart was not perfect with the Lord his God, as was the heart of David his father.
 >
 > <sup>[5](/bible/1-kings/11#v5)</sup> For Solomon went after Ashtoreth the goddess of the Zidonians, and after Milcom the abomination of the Ammonites.
@@ -302,10 +314,6 @@ Reading from on-screen text on King Solomon and the star of Molech  *[[1:30:37](
 > <sup>[8](/bible/1-kings/11#v8)</sup> And likewise did he for all his strange wives, which burnt incense and sacrificed unto their gods.
 >
 > <sup>[9](/bible/1-kings/11#v9)</sup> And the Lord was angry with Solomon, because his heart was turned from the Lord God of Israel, which had appeared unto him twice,
-
-- King Solomon loved many strange women, of the nations concerning which the Lord said, Ye shall not go in to them, neither shall they come in unto you: for surely they will turn away your heart after their gods. It did not say maybe; it said surely. That is why we are not supposed to be dealing with the other nations.
-- He had seven hundred wives, princesses, and three hundred concubines: and his wives turned away his heart after other gods. Solomon went after Ashtoreth the goddess of the Zidonians: Ashtoreth is where Easter comes from, the goddess of fertility. Then did Solomon build an high place for Chemosh, the abomination of Moab, and for Molech, the abomination of the children of Ammon. That is where that star came in: the star of Remphan, the star of Molech, witchcraft. Solomon did evil in the sight of the Lord, and the Lord was angry with Solomon, because his heart was turned from the Lord God of Israel, which had appeared unto him twice.
-- Being that Solomon was into it, the navy was involved in it; that is the reason you see those symbols in some of the records of the people that came over. But that is not a symbol we are supposed to be dealing with. It is not the Star of David; that is not in the Bible.
 
 **[Song of Solomon 8:6](/bible/song-of-solomon/8#v6)**  *[[1:39:05](https://www.youtube.com/watch?v=C5q-raZJyNA&t=5945s)]*
 

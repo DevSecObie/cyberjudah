@@ -2,7 +2,7 @@
 title: "Pay The Price: Pleasure Now Regret Later"
 slug: "2026/2026-05-23-pay-the-price-pleasure-now-regret-later"
 date: "2026-05-23"
-teacher: ""
+teacher: "Bishop Kani"
 description: "IUIC in the ClassRoom · 2026-05-23"
 tags: ["IUIC in the ClassRoom", "endurance", "sexual-purity", "the-word"]
 ---
@@ -57,10 +57,9 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 **[Proverbs 21:2-3](/bible/proverbs/21#v2)**  *[[20:12](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=1212s)]*
 
 > <sup>[2](/bible/proverbs/21#v2)</sup> Every way of a man is right in his own eyes: but the Lord pondereth the hearts.
->
-> <sup>[3](/bible/proverbs/21#v3)</sup> To do justice and judgment is more acceptable to the Lord than sacrifice.
 
 - Every way of a man is right in his own eyes: but the Lord pondereth the hearts. Some people have secret thoughts that nobody knows but them, and the Lord. A man walks in with the fringes, the beard, the precepts; he looks godly, he sounds godly. The Most High says, that man is not right. But in his own mind he doesn't want to see himself like that; he wants to see himself as a good man.
+
 - To do justice and judgment is more acceptable to the Lord than sacrifice. They thought sacrifice was going to absolve them. When we repent to the Lord and say we're sorry, and then go back and do the same thing again, we're not really sorry. We set up prayers and fasts and return to the same behavior; we really don't understand the fear of God. To know right and still do wrong is presumptuous sin, and when you keep doing the same thing over and over, you're getting further away from God.
 
   Precepts:
@@ -69,21 +68,25 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 
     The man that wandereth out of the way of understanding shall remain in the congregation of the dead. When you keep doing the same thing over and over and wonder why life is not working out for you, this is what spiritual men and women are supposed to examine: could it be that you have a secret life?
 
+> <sup>[3](/bible/proverbs/21#v3)</sup> To do justice and judgment is more acceptable to the Lord than sacrifice.
+
 **[1 Corinthians 15:22-26](/bible/1-corinthians/15#v22)**  *[[26:06](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=1566s)]*
+
+- As in Adam all die, even so in Christ shall all be made alive. Prior to this truth we were not spiritually alive; we were dead, following the course of this world.
 
 > <sup>[22](/bible/1-corinthians/15#v22)</sup> For as in Adam all die, even so in Christ shall all be made alive.
 >
 > <sup>[23](/bible/1-corinthians/15#v23)</sup> But every man in his own order: Christ the firstfruits; afterward they that are Christ’s at his coming.
->
+
+- Every man in his own order: Christ the firstfruits; afterward they that are Christ's at his coming. When you gave a firstfruit to God, you gave him the first of your crops, the first of your animals, without blemish. That's how we have to be. If we come before the Lord in that day still holding on to secret sins, we're not going to be accepted; the Lord only accepts firstfruits. Christ is the benchmark we measure ourselves against.
+
+- We have sinned in this body and we fall short, but that does not give us a license to continue in the same lifestyle and expect to obtain the kingdom. We need to be the example when the masses come: they have to see a singularity in the way we conduct ourselves, where we hold each other and our children accountable to the laws of God, so when people see us they know we are different.
+
 > <sup>[24](/bible/1-corinthians/15#v24)</sup> Then cometh the end, when he shall have delivered up the kingdom to God, even the Father; when he shall have put down all rule and all authority and power.
 >
 > <sup>[25](/bible/1-corinthians/15#v25)</sup> For he must reign, till he hath put all enemies under his feet.
 >
 > <sup>[26](/bible/1-corinthians/15#v26)</sup> The last enemy that shall be destroyed is death.
-
-- As in Adam all die, even so in Christ shall all be made alive. Prior to this truth we were not spiritually alive; we were dead, following the course of this world.
-- Every man in his own order: Christ the firstfruits; afterward they that are Christ's at his coming. When you gave a firstfruit to God, you gave him the first of your crops, the first of your animals, without blemish. That's how we have to be. If we come before the Lord in that day still holding on to secret sins, we're not going to be accepted; the Lord only accepts firstfruits. Christ is the benchmark we measure ourselves against.
-- We have sinned in this body and we fall short, but that does not give us a license to continue in the same lifestyle and expect to obtain the kingdom. We need to be the example when the masses come: they have to see a singularity in the way we conduct ourselves, where we hold each other and our children accountable to the laws of God, so when people see us they know we are different.
 
 **[1 Corinthians 15:50-54](/bible/1-corinthians/15#v50)**  *[[29:35](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=1775s)]*
 
@@ -129,31 +132,37 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 > <sup>[6](/bible/job/31#v6)</sup> Let me be weighed in an even balance, that God may know mine integrity.
 >
 > <sup>[7](/bible/job/31#v7)</sup> If my step hath turned out of the way, and mine heart walked after mine eyes, and if any blot hath cleaved to mine hands;
->
+
+- If my step hath turned out of the way, and mine heart walked after mine eyes: if my mind followed what I saw. What you ingest through your eyes affects how your mind thinks.
+
 > <sup>[8](/bible/job/31#v8)</sup> Then let me sow, and let another eat; yea, let my offspring be rooted out.
 >
 > <sup>[9](/bible/job/31#v9)</sup> If mine heart have been deceived by a woman, or if I have laid wait at my neighbour’s door;
->
+
+- If mine heart have been deceived by a woman: why are you deceived? Because you looked and did not turn away. A simple turn of the head could have saved you a world of problems. For this is an heinous crime; yea, it is an iniquity to be punished by the judges.
+
+- I made a covenant with mine eyes; why then should I think upon a maid? Job made an agreement with his eyes.
+
+- Doth not he see my ways, and count all my steps? The Lord knows what's in your mind, what you're looking at, how you think. You think nobody sees what you're doing; everything is being recorded. Because judgment is not executed speedily, people think they're getting away with it. In that day the book is opened and everything is measured against the book of your life. We're not going to escape this.
+
 > <sup>[10](/bible/job/31#v10)</sup> Then let my wife grind unto another, and let others bow down upon her.
 >
 > <sup>[11](/bible/job/31#v11)</sup> For this is an heinous crime; yea, it is an iniquity to be punished by the judges.
 
-- If my step hath turned out of the way, and mine heart walked after mine eyes: if my mind followed what I saw. What you ingest through your eyes affects how your mind thinks.
-- If mine heart have been deceived by a woman: why are you deceived? Because you looked and did not turn away. A simple turn of the head could have saved you a world of problems. For this is an heinous crime; yea, it is an iniquity to be punished by the judges.
-- I made a covenant with mine eyes; why then should I think upon a maid? Job made an agreement with his eyes.
-- Doth not he see my ways, and count all my steps? The Lord knows what's in your mind, what you're looking at, how you think. You think nobody sees what you're doing; everything is being recorded. Because judgment is not executed speedily, people think they're getting away with it. In that day the book is opened and everything is measured against the book of your life. We're not going to escape this.
-
 **[2 Peter 2:12-14](/bible/2-peter/2#v12)**  *[[40:05](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=2405s)]*
+
+- Having eyes full of adultery, and that cannot cease from sin. At this point you cannot cease from sin, because your eye, which is connected to your mind, is full of all manner of immorality. You cannot get off the porn site and you've got to go to work in the morning. When you can't stop doing something that you know is wrong, you have no control of that body, Christ does not dwell in you, and Satan is directing your path.
 
 > <sup>[12](/bible/2-peter/2#v12)</sup> But these, as natural brute beasts, made to be taken and destroyed, speak evil of the things that they understand not; and shall utterly perish in their own corruption;
 >
 > <sup>[13](/bible/2-peter/2#v13)</sup> And shall receive the reward of unrighteousness, as they that count it pleasure to riot in the day time. Spots they are and blemishes, sporting themselves with their own deceivings while they feast with you;
->
+
+- Spots they are and blemishes: another word for spot is a blot. They sit and feast with you, deceiving themselves.
+
 > <sup>[14](/bible/2-peter/2#v14)</sup> Having eyes full of adultery, and that cannot cease from sin; beguiling unstable souls: an heart they have exercised with covetous practices; cursed children:
 
-- Having eyes full of adultery, and that cannot cease from sin. At this point you cannot cease from sin, because your eye, which is connected to your mind, is full of all manner of immorality. You cannot get off the porn site and you've got to go to work in the morning. When you can't stop doing something that you know is wrong, you have no control of that body, Christ does not dwell in you, and Satan is directing your path.
-- Spots they are and blemishes: another word for spot is a blot. They sit and feast with you, deceiving themselves.
 - An heart they have exercised with covetous practices: they not only have the thought, they entertain it, they exercise it. When you exercise, you get stronger; they're strengthening those thoughts by entertaining them to the point they cannot cease, and the lust becomes stronger than whatever is left of the spiritual side.
+
 - Cautionary reports read to the school: a brother put out of the body for fornication downloaded a dating app while under judgment and discovered mid-date that the woman had just visited IUIC; his secret found him out and he called to confess. A 12 year old in the youth ministry was exposed when the images he had been viewing were shared to the youth channels; at 12 years old, that tells you about the checks and balances in that house. Watch your children; we have a responsibility to guide them. And a teenager brought before leadership over unclean viewing habits said plainly he did not want to change. Sidebar for the young people: the internet is a trap, and it isn't only porn. YouTube shorts and endless scrolling are brain rot: fifteen second clips training your mind to a short attention span, always hunting a quick dopamine hit, so you can't read a book or watch anything to the end. If you can finish a book even through the parts that aren't exciting, you endured. You're being trained out of the spirit of endurance, and in this truth there will be times when things are not at 100 percent and you have to endure. Satan is playing on a high level.
 
 **[Wisdom of Solomon 4:12](/bible/wisdom-of-solomon/4#v12)**  *[[1:02:40](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=3760s)]*
@@ -180,7 +189,17 @@ Reading from a definition of bewitching  *[[1:03:22](https://www.youtube.com/wat
 **[James 1:12-16](/bible/james/1#v12)**  *[[1:06:53](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=4013s)]*
 
 > <sup>[12](/bible/james/1#v12)</sup> Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.
->
+
+- Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life. Here's one way to endure temptation: turn away. Don't look.
+
+- Let no man say when he is tempted, I am tempted of God. God does not tempt you. When you're tempted, it's what's in you already. You're only tempted by the things that you like; if you don't like it, it has no pull on you. And we can train our minds to change what we like: that's called the renewing of your mind.
+
+- Every man is tempted, when he is drawn away of his own lust, and enticed. He entertains it, he exercises it, and it gets stronger and stronger. Then when lust hath conceived, it bringeth forth sin: you act on it. And sin, when it is finished, bringeth forth death.
+
+- Reports were recounted of men so far gone in lust that they spied in restrooms and rigged mirrors and cameras to violate women in public. That is predator mentality. If any man here does anything like that, stop now; that path ends in destruction.
+
+- Do not err, my beloved brethren. Some brothers hear this word, but they're not doers. It sounds good, but they really don't want to change; sisters too.
+
 > <sup>[13](/bible/james/1#v13)</sup> Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:
 >
 > <sup>[14](/bible/james/1#v14)</sup> But every man is tempted, when he is drawn away of his own lust, and enticed.
@@ -188,12 +207,6 @@ Reading from a definition of bewitching  *[[1:03:22](https://www.youtube.com/wat
 > <sup>[15](/bible/james/1#v15)</sup> Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.
 >
 > <sup>[16](/bible/james/1#v16)</sup> Do not err, my beloved brethren.
-
-- Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life. Here's one way to endure temptation: turn away. Don't look.
-- Let no man say when he is tempted, I am tempted of God. God does not tempt you. When you're tempted, it's what's in you already. You're only tempted by the things that you like; if you don't like it, it has no pull on you. And we can train our minds to change what we like: that's called the renewing of your mind.
-- Every man is tempted, when he is drawn away of his own lust, and enticed. He entertains it, he exercises it, and it gets stronger and stronger. Then when lust hath conceived, it bringeth forth sin: you act on it. And sin, when it is finished, bringeth forth death.
-- Reports were recounted of men so far gone in lust that they spied in restrooms and rigged mirrors and cameras to violate women in public. That is predator mentality. If any man here does anything like that, stop now; that path ends in destruction.
-- Do not err, my beloved brethren. Some brothers hear this word, but they're not doers. It sounds good, but they really don't want to change; sisters too.
 
 **[James 1:20-27](/bible/james/1#v20)**  *[[1:12:18](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=4338s)]*
 
@@ -282,15 +295,12 @@ Reading from a definition of engrafted  *[[1:14:00](https://www.youtube.com/watc
 
 **[1 Corinthians 10:12-15](/bible/1-corinthians/10#v12)**  *[[1:29:25](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=5365s)]*
 
+- Let him that thinketh he standeth take heed lest he fall. A man is wise in his own eyes; walk circumspectly.
+
 > <sup>[12](/bible/1-corinthians/10#v12)</sup> Wherefore let him that thinketh he standeth take heed lest he fall.
 >
 > <sup>[13](/bible/1-corinthians/10#v13)</sup> There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.
->
-> <sup>[14](/bible/1-corinthians/10#v14)</sup> Wherefore, my dearly beloved, flee from idolatry.
->
-> <sup>[15](/bible/1-corinthians/10#v15)</sup> I speak as to wise men; judge ye what I say.
 
-- Let him that thinketh he standeth take heed lest he fall. A man is wise in his own eyes; walk circumspectly.
 - There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape. The Lord will give you a way to escape: this book, beholding your face in the glass, and the people he sends into your life to instruct you. But some hear that and say, I don't want to escape; I want to stay in this same place, and still say I believe in God. Does that work? No.
 
   Precepts:
@@ -298,6 +308,10 @@ Reading from a definition of engrafted  *[[1:14:00](https://www.youtube.com/watc
     > <sup>[21](/bible/1-corinthians/10#v21)</sup> Ye cannot drink the cup of the Lord, and the cup of devils: ye cannot be partakers of the Lord’s table, and of the table of devils.
 
     Ye cannot drink the cup of the Lord, and the cup of devils. You cannot do both. If you're doing both, you're lukewarm, and the Lord said he'd rather you hot or cold; the lukewarm are not getting the kingdom.
+
+> <sup>[14](/bible/1-corinthians/10#v14)</sup> Wherefore, my dearly beloved, flee from idolatry.
+>
+> <sup>[15](/bible/1-corinthians/10#v15)</sup> I speak as to wise men; judge ye what I say.
 
 **[James 1:2-5](/bible/james/1#v2)**  *[[1:33:37](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=5617s)]*
 
@@ -315,11 +329,12 @@ Reading from a definition of engrafted  *[[1:14:00](https://www.youtube.com/watc
 **[Psalms 139:23-24](/bible/psalms/139#v23)**  *[[1:34:45](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=5685s)]*
 
 > <sup>[23](/bible/psalms/139#v23)</sup> Search me, O God, and know my heart: try me, and know my thoughts:
->
-> <sup>[24](/bible/psalms/139#v24)</sup> And see if there be any wicked way in me, and lead me in the way everlasting.
 
 - Search me, O God, and know my heart: try me, and know my thoughts. This is the prayer: Lord, search my heart, try me against your word, and see if there be any wicked way in me. Why does David ask that? Because he knows he cannot serve two masters. Show me, Lord, where I'm falling short, and lead me in the way everlasting.
+
 - How does that happen? Open the book: search the scriptures, for in them ye think ye have eternal life, and they are they which testify of me. He will also send prophets into your life to instruct you. A recent class reached a person who had been praying and fasting all week for an answer, and it was spot-on what they needed to do right; the Lord sent it. This class right now is for somebody in here or out there.
+
+> <sup>[24](/bible/psalms/139#v24)</sup> And see if there be any wicked way in me, and lead me in the way everlasting.
 
 **[James 1:18-19](/bible/james/1#v18)**  *[[1:37:57](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=5877s)]*
 
@@ -332,21 +347,23 @@ Reading from a definition of engrafted  *[[1:14:00](https://www.youtube.com/watc
 
 **[Wisdom of Solomon 7:25-30](/bible/wisdom-of-solomon/7#v25)**  *[[1:40:23](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=6023s)]*
 
+- It's not impossible, but we need the spirit of Christ. For she is the breath of the power of God, and a pure influence flowing from the glory of the Almighty: therefore can no defiled thing fall into her. She is the unspotted mirror of the power of God, and the image of his goodness; we follow Christ's example, who did no sin.
+
 > <sup>[25](/bible/wisdom-of-solomon/7#v25)</sup> For she is the breath of the power of God, and a pure influence flowing from the glory of the Almighty: therefore can no defiled thing fall into her.
 >
 > <sup>[26](/bible/wisdom-of-solomon/7#v26)</sup> For she is the brightness of the everlasting light, the unspotted mirror of the power of God, and the image of his goodness.
 >
 > <sup>[27](/bible/wisdom-of-solomon/7#v27)</sup> And being but one, she can do all things: and remaining in herself, she maketh all things new: and in all ages entering into holy souls, she maketh them friends of God, and prophets.
->
+
+- And being but one, she can do all things: it's only impossible when the Bible is shut, when we're not holding up our end. Remaining in herself, she maketh all things new: we become new creatures in Christ when we decide to repent and get our minds right. In all ages entering into holy souls, she maketh them friends of God; for God loveth none but him that dwelleth with wisdom.
+
+- Vice shall not prevail against wisdom. No matter what hang-up, what sin, what lust we have, no vice can overcome the wisdom of God.
+
 > <sup>[28](/bible/wisdom-of-solomon/7#v28)</sup> For God loveth none but him that dwelleth with wisdom.
 >
 > <sup>[29](/bible/wisdom-of-solomon/7#v29)</sup> For she is more beautiful than the sun, and above all the order of stars: being compared with the light, she is found before it.
 >
 > <sup>[30](/bible/wisdom-of-solomon/7#v30)</sup> For after this cometh night: but vice shall not prevail against wisdom.
-
-- It's not impossible, but we need the spirit of Christ. For she is the breath of the power of God, and a pure influence flowing from the glory of the Almighty: therefore can no defiled thing fall into her. She is the unspotted mirror of the power of God, and the image of his goodness; we follow Christ's example, who did no sin.
-- And being but one, she can do all things: it's only impossible when the Bible is shut, when we're not holding up our end. Remaining in herself, she maketh all things new: we become new creatures in Christ when we decide to repent and get our minds right. In all ages entering into holy souls, she maketh them friends of God; for God loveth none but him that dwelleth with wisdom.
-- Vice shall not prevail against wisdom. No matter what hang-up, what sin, what lust we have, no vice can overcome the wisdom of God.
 
 **[Romans 6:23](/bible/romans/6#v23)**  *[[1:43:06](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=6186s)]*
 
@@ -431,15 +448,11 @@ Reading from a definition of wiles  *[[1:54:22](https://www.youtube.com/watch?v=
 > <sup>[1](/bible/psalms/83#v1)</sup> Keep not thou silence, O God: hold not thy peace, and be not still, O God.
 >
 > <sup>[2](/bible/psalms/83#v2)</sup> For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.
->
-> <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
->
-> <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
->
-> <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
 
 - Thine enemies make a tumult: the enemies are the other nations, the heathen. They that hate thee have lifted up the head: the nations hate God because he chose us.
+
 - They have taken crafty counsel against thy people, and consulted against thy hidden ones. They have said, come, and let us cut them off from being a nation. They are confederate against thee: all the nations have come together with one consent. In this world, all we've got is us. They all have played a part in our demise; we have served captivity to all these nations, even when they warred against each other.
+
 - Today the pornography industry is one of those crafty counsels, in the hands of our enemies who understood: we are going to destroy the minds of the people. That's why our music in particular is so degraded: every video oversexualized, everything aimed at destroying the young people's minds. They said, if we can't get them in religion, we'll get them in the workforce; if not the workforce, gangs; if not gangs, porn; we'll turn them into criminals. Young ones, sit and watch porn all day and it will fry your brain, and then you act it out, and that's how predators are made.
 
   Precepts:
@@ -447,6 +460,12 @@ Reading from a definition of wiles  *[[1:54:22](https://www.youtube.com/watch?v=
     > <sup>[11](/bible/judith/5#v11)</sup> Therefore the king of Egypt rose up against them, and dealt subtilly with them, and brought them low with labouring in brick, and made them slaves.
 
     The king of Egypt dealt subtilly with them, and brought them low with labouring in brick, and made them slaves. That's one of the crafty counsels: work them to death. Today our people work two jobs, paycheck to paycheck, too poor to stop working. There was a time you could deliver milk or work at the post office and buy a home on one salary; now people with full-time jobs are living in storage units. The middle class is gone.
+
+> <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
+>
+> <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
+>
+> <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
 
 **[Numbers 31:16](/bible/numbers/31#v16)**  *[[2:09:26](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=7766s)]*
 

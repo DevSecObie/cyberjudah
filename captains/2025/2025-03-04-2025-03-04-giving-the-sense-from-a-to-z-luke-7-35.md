@@ -34,12 +34,12 @@ tags: ["15 Minutes w/ The Captains", "angels", "christ", "endurance", "mercy", "
 **[Luke 7:31-32](/bible/luke/7#v31)**  *[[2:54](https://www.youtube.com/watch?v=_c1vWvn8cz0&t=174s)]*
 
 > <sup>[31](/bible/luke/7#v31)</sup> And the Lord said, Whereunto then shall I liken the men of this generation? and to what are they like?
->
-> <sup>[32](/bible/luke/7#v32)</sup> They are like unto children sitting in the marketplace, and calling one to another, and saying, We have piped unto you, and ye have not danced; we have mourned to you, and ye have not wept.
 
 - Whereunto then shall I liken the men of this generation? and to what are they like?: So what are we reading about? We're reading about these grown men, like the scribes and the Pharisees, is who he's talking to. He's talking about that generation of men. But that generation of men is the generation of men today. We worried about sports, we worried about politics, we worried about everything other than getting right with God. We worried about Christianity, which has nothing to do with the Bible. I'll say it again: Christianity has nothing to do with the Bible.
 
 - The Christian is taught today... the apostles and the prophets of old would have mocked and laughed at this Christianity. It is ridiculous. They would have been flipping tables, whooping people with cords, laying hands on folks like Nehemiah. This Christianity that you understand, this religion that you following today, it is not of God, brothers and sisters. It's time for us to wake up and repent. It's not of God, okay? It's of the devil. All right, straight up, point blank, period.
+
+> <sup>[32](/bible/luke/7#v32)</sup> They are like unto children sitting in the marketplace, and calling one to another, and saying, We have piped unto you, and ye have not danced; we have mourned to you, and ye have not wept.
 
 - We have piped unto you, and ye have not danced: Okay, so he said we have piped unto you and you have not danced. Y'all want us to dance in y'all new dances. Y'all want us to follow y'all politics. Y'all want us to follow the things that you put in, that you deem to be worthy of follow. We ain't doing that. All right, we not doing that. Just like Christ wasn't tap dancing and cooning, we ain't doing that either. Some of y'all want to tap dance, and nobody got time for that. Sambos, we ain't got time for that. The Bible does not instruct us to do this.
 
@@ -49,18 +49,18 @@ tags: ["15 Minutes w/ The Captains", "angels", "christ", "endurance", "mercy", "
 **[Luke 7:33-35](/bible/luke/7#v33)**  *[[4:49](https://www.youtube.com/watch?v=_c1vWvn8cz0&t=289s)]*
 
 > <sup>[33](/bible/luke/7#v33)</sup> For John the Baptist came neither eating bread nor drinking wine; and ye say, He hath a devil.
->
-> <sup>[34](/bible/luke/7#v34)</sup> The Son of man is come eating and drinking; and ye say, Behold a gluttonous man, and a winebibber, a friend of publicans and sinners!
->
-> <sup>[35](/bible/luke/7#v35)</sup> But wisdom is justified of all her children.
 
 - For John the Baptist came neither eating bread nor drinking wine: Because he was fasting, or he was a Nazarite.
 
 - And ye say, He hath a devil: Y'all say he the devil. He don't... because he don't fast, or because, I mean excuse me, because he don't eat, because he don't drink wine, y'all say, oh well, he got a devil on him, he don't follow what we follow.
 
+> <sup>[34](/bible/luke/7#v34)</sup> The Son of man is come eating and drinking; and ye say, Behold a gluttonous man, and a winebibber, a friend of publicans and sinners!
+
 - The Son of man is come eating and drinking: But Christ would come, he would eat with the people, he would drink wine in moderation.
 
 - Behold a gluttonous man, and a winebibber, a friend of publicans and sinners!: They were mad at Christ for sitting down with what they perceived to be sinners.
+
+> <sup>[35](/bible/luke/7#v35)</sup> But wisdom is justified of all her children.
 
 - But wisdom is justified of all her children: All right, then it says but wisdom is justified of her children. You going to know who the children of God is based off the wisdom that they display, right? And you got to have some understanding now, 'cause they would get mad at Christ, say, why you sitting with publicans and why you sitting with sinners? Let's go back to chapter 5 real quick.
 
@@ -68,16 +68,16 @@ tags: ["15 Minutes w/ The Captains", "angels", "christ", "endurance", "mercy", "
 **[Luke 5:30-32](/bible/luke/5#v30)**  *[[6:10](https://www.youtube.com/watch?v=_c1vWvn8cz0&t=370s)]*
 
 > <sup>[30](/bible/luke/5#v30)</sup> But their scribes and Pharisees murmured against his disciples, saying, Why do ye eat and drink with publicans and sinners?
->
-> <sup>[31](/bible/luke/5#v31)</sup> And Jesus answering said unto them, They that are whole need not a physician; but they that are sick.
->
-> <sup>[32](/bible/luke/5#v32)</sup> I came not to call the righteous, but sinners to repentance.
 
 - Why do ye eat and drink with publicans and sinners?: Why are you eating and drinking with publicans and sinners, people that are perceived to be sinners? Why you drinking with them? Why you eating with them?
+
+> <sup>[31](/bible/luke/5#v31)</sup> And Jesus answering said unto them, They that are whole need not a physician; but they that are sick.
 
 - They that are whole need not a physician; but they that are sick: They didn't understand that. They didn't understand that their whole objective was to make money off Rome, to make money off their own people, to continue to keep their people in a destroyed estate. They were not for the benefiting of the people. They had been lost.
 
 - The original Pharisees, which was known as the aidans during the time of the Maccabees, those men stood up for the Bible. Those men stood up for the laws of God. Not these brothers. These brothers were full of pride, full of pump. They had got wealthy off of the people, they got glory from the people, the people feared them, and they loved the position of power and they abused it. I'm going say it again: they love the position of power and they abused it. That's what we reading.
+
+> <sup>[32](/bible/luke/5#v32)</sup> I came not to call the righteous, but sinners to repentance.
 
 - I came not to call the righteous, but sinners to repentance: So Christ said they that are whole need not a physician, but they that are sick. I came not to call the righteous but sinners to repentance. The Bible said that the Christ was made to come and call sinners to repentance, to wake our people up. And they was trying to... so he shouldn't be sitting with them, he should be sitting with us. Showing you the mindset they had. Showing you the mindset they had: they thought that they were better than their own people.
 
@@ -184,24 +184,24 @@ tags: ["15 Minutes w/ The Captains", "angels", "christ", "endurance", "mercy", "
 > <sup>[10](/bible/1-john/4#v10)</sup> Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins.
 >
 > <sup>[11](/bible/1-john/4#v11)</sup> Beloved, if God so loved us, we ought also to love one another.
->
+
+- Beloved, if God so loved us, we ought also to love one another: So he said, look, if God loved us enough to send his Son to die for us, not because we loved him but because he loved us, then why won't we show that same love to one another? That's some heavy stuff. God loved you enough to send his only begotten Son here to die for you, but yet you don't love your brother enough to forgive him of his sins. That's what Christ is saying here. That's what Christ is saying to that brother in Luke chapter 7. All right, I'mma keep reading verse 11.
+
 > <sup>[12](/bible/1-john/4#v12)</sup> No man hath seen God at any time. If we love one another, God dwelleth in us, and his love is perfected in us.
 >
 > <sup>[13](/bible/1-john/4#v13)</sup> Hereby know we that we dwell in him, and he in us, because he hath given us of his Spirit.
->
+
+- Hereby know we that we dwell in him, and he in us, because he hath given us of his Spirit: What's his Spirit? That we love our brothers, that we love our neighbors. If you don't love your brother, if you don't love your neighbor, it's because you don't have a love of God in you. That brother wasn't willing to see that that sister had needed to be forgiven, and she was forgiven, and that's why she loved Christ the way she did. She understood. She had enough wisdom... said wisdom is justified of her children. She had enough wisdom to understand who he was.
+
 > <sup>[14](/bible/1-john/4#v14)</sup> And we have seen and do testify that the Father sent the Son to be the Saviour of the world.
->
+
+- And we have seen and do testify that the Father sent the Son to be the Saviour of the world: The world of Israel.
+
 > <sup>[15](/bible/1-john/4#v15)</sup> Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God.
 >
 > <sup>[16](/bible/1-john/4#v16)</sup> And we have known and believed the love that God hath to us. God is love; and he that dwelleth in love dwelleth in God, and God in him.
 >
 > <sup>[17](/bible/1-john/4#v17)</sup> Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world.
-
-- Beloved, if God so loved us, we ought also to love one another: So he said, look, if God loved us enough to send his Son to die for us, not because we loved him but because he loved us, then why won't we show that same love to one another? That's some heavy stuff. God loved you enough to send his only begotten Son here to die for you, but yet you don't love your brother enough to forgive him of his sins. That's what Christ is saying here. That's what Christ is saying to that brother in Luke chapter 7. All right, I'mma keep reading verse 11.
-
-- Hereby know we that we dwell in him, and he in us, because he hath given us of his Spirit: What's his Spirit? That we love our brothers, that we love our neighbors. If you don't love your brother, if you don't love your neighbor, it's because you don't have a love of God in you. That brother wasn't willing to see that that sister had needed to be forgiven, and she was forgiven, and that's why she loved Christ the way she did. She understood. She had enough wisdom... said wisdom is justified of her children. She had enough wisdom to understand who he was.
-
-- And we have seen and do testify that the Father sent the Son to be the Saviour of the world: The world of Israel.
 
 - Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world: So we need to make sure that we love our neighbor as ourselves. Christ is teaching this brother a lesson.
 
@@ -253,7 +253,9 @@ tags: ["15 Minutes w/ The Captains", "angels", "christ", "endurance", "mercy", "
 > <sup>[5](/bible/mark/2#v5)</sup> When Jesus saw their faith, he said unto the sick of the palsy, Son, thy sins be forgiven thee.
 >
 > <sup>[6](/bible/mark/2#v6)</sup> But there were certain of the scribes sitting there, and reasoning in their hearts,
->
+
+- And reasoning in their hearts: Same thing you saw in Luke, where they was reasoning in their hearts.
+
 > <sup>[7](/bible/mark/2#v7)</sup> Why doth this man thus speak blasphemies? who can forgive sins but God only?
 >
 > <sup>[8](/bible/mark/2#v8)</sup> And immediately when Jesus perceived in his spirit that they so reasoned within themselves, he said unto them, Why reason ye these things in your hearts?
@@ -261,12 +263,10 @@ tags: ["15 Minutes w/ The Captains", "angels", "christ", "endurance", "mercy", "
 > <sup>[9](/bible/mark/2#v9)</sup> Whether is it easier to say to the sick of the palsy, Thy sins be forgiven thee; or to say, Arise, and take up thy bed, and walk?
 >
 > <sup>[10](/bible/mark/2#v10)</sup> But that ye may know that the Son of man hath power on earth to forgive sins, (he saith to the sick of the palsy,)
->
-> <sup>[11](/bible/mark/2#v11)</sup> I say unto thee, Arise, and take up thy bed, and go thy way into thine house.
-
-- And reasoning in their hearts: Same thing you saw in Luke, where they was reasoning in their hearts.
 
 - That ye may know that the Son of man hath power on earth to forgive sins: So he said you going to know the Son of man got power on this earth to forgive sin. Why did Christ have power on earth to forgive sins? Because Christ was the Son of God. That's why the Lord gave him that authority, gave him that power, and they couldn't understand that. It's like, man, this dude is blaspheming, he blaspheming the word of God. How you going to say that he can forgive sin? Who is this man? Son of God, that's who he was and is. Let's go to John 5, John chapter 5 real quick.
+
+> <sup>[11](/bible/mark/2#v11)</sup> I say unto thee, Arise, and take up thy bed, and go thy way into thine house.
 
 
 **[John 5:19-24](/bible/john/5#v19)**  *[[22:50](https://www.youtube.com/watch?v=_c1vWvn8cz0&t=1370s)]*
@@ -278,12 +278,12 @@ tags: ["15 Minutes w/ The Captains", "angels", "christ", "endurance", "mercy", "
 > <sup>[21](/bible/john/5#v21)</sup> For as the Father raiseth up the dead, and quickeneth them; even so the Son quickeneth whom he will.
 >
 > <sup>[22](/bible/john/5#v22)</sup> For the Father judgeth no man, but hath committed all judgment unto the Son:
->
+
+- For the Father judgeth no man, but hath committed all judgment unto the Son: You see that? Christ found it fit to forget that man for his sins. That's why... 'cause remember, your sins weigh you down. A lot of us is sick and got illnesses and stuff like that because of our sins. So now the Christ is saying right here, God gave me the power on earth to forgive those sins. He committed all judgment to me, that I can forgive it if I want, right?
+
 > <sup>[23](/bible/john/5#v23)</sup> That all men should honour the Son, even as they honour the Father. He that honoureth not the Son honoureth not the Father which hath sent him.
 >
 > <sup>[24](/bible/john/5#v24)</sup> Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life.
-
-- For the Father judgeth no man, but hath committed all judgment unto the Son: You see that? Christ found it fit to forget that man for his sins. That's why... 'cause remember, your sins weigh you down. A lot of us is sick and got illnesses and stuff like that because of our sins. So now the Christ is saying right here, God gave me the power on earth to forgive those sins. He committed all judgment to me, that I can forgive it if I want, right?
 
 - He that heareth my word, and believeth on him that sent me, hath everlasting life: So it's showing you that Christ has the authority on earth to forgive sins. The Lord said, this is my beloved Son, hear ye him. Hear ye him. Believe on the Son, that's what the Lord telling you. And guess what, they ain't taught you this in the church, right? That Christ had this power to do this, and why he had that power. Why was he endowed with that power? Because he's the Son of God.
 
@@ -351,24 +351,14 @@ tags: ["15 Minutes w/ The Captains", "angels", "christ", "endurance", "mercy", "
 **[Romans 7:18-25](/bible/romans/7#v18)**  *[[32:09](https://www.youtube.com/watch?v=_c1vWvn8cz0&t=1929s)]*
 
 > <sup>[18](/bible/romans/7#v18)</sup> For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but how to perform that which is good I find not.
->
-> <sup>[19](/bible/romans/7#v19)</sup> For the good that I would I do not: but the evil which I would not, that I do.
->
-> <sup>[20](/bible/romans/7#v20)</sup> Now if I do that I would not, it is no more I that do it, but sin that dwelleth in me.
->
-> <sup>[21](/bible/romans/7#v21)</sup> I find then a law, that, when I would do good, evil is present with me.
->
-> <sup>[22](/bible/romans/7#v22)</sup> For I delight in the law of God after the inward man:
->
-> <sup>[23](/bible/romans/7#v23)</sup> But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members.
->
-> <sup>[24](/bible/romans/7#v24)</sup> O wretched man that I am! who shall deliver me from the body of this death?
->
-> <sup>[25](/bible/romans/7#v25)</sup> I thank God through Jesus Christ our Lord. So then with the mind I myself serve the law of God; but with the flesh the law of sin.
 
 - For to will is present with me; but how to perform that which is good I find not: You hear that? It said to will is present with me, meaning I want to do right, I want to keep the commandments, I want this to be taken from me. That's what he asked in Second Corinthians: Lord, take this from me. He asked the Lord three times, take it from me. Paul saying, I know in my flesh dwelleth no good thing, right? For to will is present with me, I want to do right. It says but how to perform that which is good I find not. I don't know how to completely get rid of it. It's still there, it's still plaguing me, it's still on my heart, and still these evil thoughts is messing with my head. How do I overcome it?
 
+> <sup>[19](/bible/romans/7#v19)</sup> For the good that I would I do not: but the evil which I would not, that I do.
+
 - For the good that I would I do not: but the evil which I would not, that I do: He said the good that I want to do, which is follow the commandments, you know, to have these sober thoughts... I keep catching myself having evil thoughts and I don't know why. I don't know why these things keep plaguing me, man.
+
+> <sup>[20](/bible/romans/7#v20)</sup> Now if I do that I would not, it is no more I that do it, but sin that dwelleth in me.
 
 - It is no more I that do it, but sin that dwelleth in me: It's this mortal flesh that I'm in that keeps weighing me down. These thoughts, these evil desires and thoughts. I keep having these lustful thoughts that I keep messing with. This anger that I keep... keep boiling up in me. This hatred that I got for this brother, this hatred I got for this sister. Every time I'm around him it come up, it boil up in me. I don't know how to get rid of it. Lord, I want to get rid of it. That's what we all trying to do. We trying to get rid of that thing.
 
@@ -380,13 +370,23 @@ tags: ["15 Minutes w/ The Captains", "angels", "christ", "endurance", "mercy", "
 
 - It is no more I that do it, but sin that dwelleth in me: When that spirit come on you, when you last shout on somebody, it's sin that's still in you. When you catch yourself watching pornography and you know better, you know what the scriptures say, it's sin that still dwelleth in you. When you know that you did something and you know you weren't supposed to do it, and you lie about why you did, or you lie and say you didn't do it, that sin that dwelleth in you. It's that sin that's still boiling in your spirit, or boiling in your flesh, that you got to release. You got to let go. You got to fight, 'cause they keep trying to rise up on you. You got to fight that thing, brothers and sisters. You got to fight that thing. It's a war out here. It's a war. You understand? When you wake up in the morning, you at war with Satan.
 
+> <sup>[21](/bible/romans/7#v21)</sup> I find then a law, that, when I would do good, evil is present with me.
+>
+> <sup>[22](/bible/romans/7#v22)</sup> For I delight in the law of God after the inward man:
+>
+> <sup>[23](/bible/romans/7#v23)</sup> But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members.
+
 - But I see another law in my members, warring against the law of my mind: He said I keep fighting... I wake up in the morning and I want to do right. To will is present with me, I want to do the right thing, but my flesh don't play fair. My flesh want to eat extra, my flesh want to drink, my flesh want to smoke, my flesh want to fornicate, my flesh want to go into all my desire. My flesh want to lie, my flesh want to steal, my flesh want to covet. My flesh want to break the Sabbath, 'cause I want a little extra money on my check so I can buy that car that I wanted, I can buy that house that I wanted. It's the flesh, it's the flesh, it's the flesh. You constantly fighting the flesh every single day of your life. It is war. It is war out here.
 
 - And it's only when you understand these scriptures and you have faith in the Son of God and you apply the commandments that you able to overcome that flesh. You can overcome it, but it's going to be a fight, damn it. It's a fight. And the Christian church don't understand that. That's why they all out here in the midst of sin, because they don't understand they in war.
 
 - Bringing me into captivity to the law of sin which is in my members: Verse 2, I'm read again. My body don't play fair. My mind know I'm supposed to do right, but my body don't play fair, man.
 
+> <sup>[24](/bible/romans/7#v24)</sup> O wretched man that I am! who shall deliver me from the body of this death?
+
 - O wretched man that I am! who shall deliver me from the body of this death?: Verse 28. Who going to deliver me from this flesh? Who going to take me out of this? It's the Son of God.
+
+> <sup>[25](/bible/romans/7#v25)</sup> I thank God through Jesus Christ our Lord. So then with the mind I myself serve the law of God; but with the flesh the law of sin.
 
 - I thank God through Jesus Christ our Lord: I thank God for my Savior, Jesus the Christ. It's the only way I'mma overcome this. It's the only way I'mma overcome this. I got to repent and I got to have faith in the Son of God. This is what Paul battling with, so it's in all of us. So when you see that Christ took those spirits from Mary Magdalene, that is a representation that he can take the same thing from you. But you going to have to fight it. You got to go to war.
 
@@ -402,10 +402,10 @@ tags: ["15 Minutes w/ The Captains", "angels", "christ", "endurance", "mercy", "
 **[Luke 8:2-3](/bible/luke/8#v2)**  *[[40:10](https://www.youtube.com/watch?v=_c1vWvn8cz0&t=2410s)]*
 
 > <sup>[2](/bible/luke/8#v2)</sup> And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven devils,
->
-> <sup>[3](/bible/luke/8#v3)</sup> And Joanna the wife of Chuza Herod’s steward, and Susanna, and many others, which ministered unto him of their substance.
 
 - Mary called Magdalene, out of whom went seven devils: So that sister had seven devils on her, right? And the Lord took the spirits out.
+
+> <sup>[3](/bible/luke/8#v3)</sup> And Joanna the wife of Chuza Herod’s steward, and Susanna, and many others, which ministered unto him of their substance.
 
 - And many others, which ministered unto him of their substance: So women deal with a lot of spirits, y'all. They are the weaker vessel. They deal with a lot of spirits. These sisters, in documents that they had spirits on them, that Christ had to take out of them, and they believed. Showing you that women are faithful to this truth too. It's not just the men.
 
@@ -421,14 +421,14 @@ tags: ["15 Minutes w/ The Captains", "angels", "christ", "endurance", "mercy", "
 > <sup>[6](/bible/luke/8#v6)</sup> And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture.
 >
 > <sup>[7](/bible/luke/8#v7)</sup> And some fell among thorns; and the thorns sprang up with it, and choked it.
->
+
+- And some fell among thorns; and the thorns sprang up with it: Now he's speaking a parable.
+
 > <sup>[8](/bible/luke/8#v8)</sup> And other fell on good ground, and sprang up, and bare fruit an hundredfold. And when he had said these things, he cried, He that hath ears to hear, let him hear.
 >
 > <sup>[9](/bible/luke/8#v9)</sup> And his disciples asked him, saying, What might this parable be?
 >
 > <sup>[10](/bible/luke/8#v10)</sup> And he said, Unto you it is given to know the mysteries of the kingdom of God: but to others in parables; that seeing they might not see, and hearing they might not understand.
-
-- And some fell among thorns; and the thorns sprang up with it: Now he's speaking a parable.
 
 - That seeing they might not see, and hearing they might not understand: So Christ didn't want everybody to understand. That's why he spoke in parables. He knew it was people amongst him that didn't believe, so he wouldn't always speak directly to them. And also Christ had to set up the hierarchy. That's why leadership would give certain parables to certain men, and then it be to those certain men to teach others. But it's a reason for that.
 
@@ -438,12 +438,12 @@ tags: ["15 Minutes w/ The Captains", "angels", "christ", "endurance", "mercy", "
 > <sup>[11](/bible/luke/8#v11)</sup> Now the parable is this: The seed is the word of God.
 >
 > <sup>[12](/bible/luke/8#v12)</sup> Those by the way side are they that hear; then cometh the devil, and taketh away the word out of their hearts, lest they should believe and be saved.
->
-> <sup>[13](/bible/luke/8#v13)</sup> They on the rock are they, which, when they hear, receive the word with joy; and these have no root, which for a while believe, and in time of temptation fall away.
 
 - Then cometh the devil, and taketh away the word out of their hearts, lest they should believe and be saved: So we go over this parable in Mark chapter 4 all the time, but we don't go over it as much in Luke chapter 8, but it's the same parable. Christ is saying when you hear the word... I give you an example. We be on the street teaching, and a brother and a sister be listening. I'm talking about listening, hearing the word. And then all of a sudden, as they 15, 20 minutes into hearing the word, all of a sudden somebody come out of nowhere and start scoffing. We'll be talking to them about repentance, about marriage, and somebody come out of nowhere: these are a hate group, they teach that white people can't be saved, they're demons, they're this. And cause all kind of confusion, and the brother and sister are walk away. They'll walk away from the truth, and you be like, wait a minute, brother, hold on, don't leave. And they, no, I ain't for the contention, man, it seem like it's contention.
 
 - You like, that demon come and pull that word away from them. Brothers and sisters, we done seen it happen over and over and over and over again, multiple times a day while we at camp. We see that thing happening, and guess what? The Bible prophesied that it would. So now what do we have to do? We got to go and get an understanding of the scriptures according to the Bible and show our people, hey, don't leave, hear the word. But sometime they leave anyway. Go back to verse 12. So they come take that word from them.
+
+> <sup>[13](/bible/luke/8#v13)</sup> They on the rock are they, which, when they hear, receive the word with joy; and these have no root, which for a while believe, and in time of temptation fall away.
 
 - And these have no root, which for a while believe, and in time of temptation fall away: What is that root that they don't have? What is that root that they don't have? Remember what a root does. A root provides nutrients. A root provides nutrients and growth. Without a root you can't anchor down a tree. A tree can't anchor down without a root. That root got to take hold of the ground, of the soil, and it's got to be fed, it's got to be watered, so that it can be better, so it can grow. Luke chapter... I mean excuse me, Colossians 2, let's go to Colossians.
 
@@ -482,16 +482,16 @@ tags: ["15 Minutes w/ The Captains", "angels", "christ", "endurance", "mercy", "
 **[Psalms 112:6-8](/bible/psalms/112#v6)**  *[[48:11](https://www.youtube.com/watch?v=_c1vWvn8cz0&t=2891s)]*
 
 > <sup>[6](/bible/psalms/112#v6)</sup> Surely he shall not be moved for ever: the righteous shall be in everlasting remembrance.
->
-> <sup>[7](/bible/psalms/112#v7)</sup> He shall not be afraid of evil tidings: his heart is fixed, trusting in the Lord.
->
-> <sup>[8](/bible/psalms/112#v8)</sup> His heart is established, he shall not be afraid, until he see his desire upon his enemies.
 
 - Surely he shall not be moved for ever: Why? Because he delight greatly in the commandments.
+
+> <sup>[7](/bible/psalms/112#v7)</sup> He shall not be afraid of evil tidings: his heart is fixed, trusting in the Lord.
 
 - His heart is fixed, trusting in the LORD: You hear that? His heart is fixed. I give you an example. Say you got a contract, and your contract is not predicated on how many hours you work. The contract is just strictly on whatever you decide with the other person. It's like salary. Say salary, right? A person on salary, unless your job offers bonuses for commission, you gonna get paid that amount of money. So say you get paid $500 every week. $500 no matter how many hours you work. You know it's $500. No matter if you miss because you got stuff to do, no matter if you got to take care of some stuff at home, no matter what it is, $500 every single week. That's fixed. It can't be altered, changed, because you agreed to it. It's fixed.
 
 - So the Bible said this man that delighteth in the commandments of God, he shall not be moved forever. The righteous shall be an everlasting remembrance. He shall not be afraid of evil tidings. His heart is fixed, trusting in the Lord. It's a fixed contract. It can't move. You ain't going nowhere. No matter what you go through, the evil tidings that you endure, it don't matter. You ain't going nowhere. You going to fight to the end. And that's how we all got to be. No matter what come upon you, brothers and sisters, no matter what come upon us, you got to fight and endure until the end. If you want the kingdom, if you want the kingdom of God, if you want to be found worthy for the kingdom of God, you got to endure. You got to go through it.
+
+> <sup>[8](/bible/psalms/112#v8)</sup> His heart is established, he shall not be afraid, until he see his desire upon his enemies.
 
 - His heart is established, he shall not be afraid, until he see his desire upon his enemies: Verse 8, we in Psalms 112 verse 8. He said, I ain't going nowhere till I see my enemies destroyed like the Bible prophesies. I'mma fight. That's the spirit we all supposed to be rolling in. And if your faith ain't built up to that point yet, pray for that. Pray for the faith, that the Lord give you the spirit of endurance, that you can overcome the evil days.
 

@@ -2,7 +2,7 @@
 title: "Character & Integrity: The Hidden Strength Behind Wisdom"
 slug: "2026/2026-05-23-character-integrity-the-hidden-strength-behind-wisdom"
 date: "2026-05-23"
-teacher: ""
+teacher: "Captain Pallu"
 description: "IUIC in the ClassRoom · 2026-05-23"
 tags: ["IUIC in the ClassRoom", "betrayal", "gossip", "leadership", "money", "wisdom"]
 ---

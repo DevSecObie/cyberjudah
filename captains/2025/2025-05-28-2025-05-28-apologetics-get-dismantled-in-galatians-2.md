@@ -33,10 +33,10 @@ tags: ["15 Minutes w/ The Captains", "captivity", "christ", "faith", "salvation"
 **[Leviticus 25:39-40](/bible/leviticus/25#v39)**  *[[1:22](https://www.youtube.com/watch?v=OwFeR6ZKNlo&t=82s)]*
 
 > <sup>[39](/bible/leviticus/25#v39)</sup> And if thy brother that dwelleth by thee be waxen poor, and be sold unto thee; thou shalt not compel him to serve as a bondservant:
->
-> <sup>[40](/bible/leviticus/25#v40)</sup> But as an hired servant, and as a sojourner, he shall be with thee, and shall serve thee unto the year of jubile:
 
 - thou shalt not compel him to serve as a bondservant: But as an hired servant.
+
+> <sup>[40](/bible/leviticus/25#v40)</sup> But as an hired servant, and as a sojourner, he shall be with thee, and shall serve thee unto the year of jubile:
 
 - and shall serve thee unto the year of jubile: Okay. So now there will come times in our history where we had to be reminded: don't let your brother serve as a bond servant, or what? A slave, right? A labor worker. Let's get an instance on that.
 
@@ -44,10 +44,10 @@ tags: ["15 Minutes w/ The Captains", "captivity", "christ", "faith", "salvation"
 **[Nehemiah 5:8-9](/bible/nehemiah/5#v8)**  *[[2:17](https://www.youtube.com/watch?v=OwFeR6ZKNlo&t=137s)]*
 
 > <sup>[8](/bible/nehemiah/5#v8)</sup> And I said unto them, We after our ability have redeemed our brethren the Jews, which were sold unto the heathen; and will ye even sell your brethren? or shall they be sold unto us? Then held they their peace, and found nothing to answer.
->
-> <sup>[9](/bible/nehemiah/5#v9)</sup> Also I said, It is not good that ye do: ought ye not to walk in the fear of our God because of the reproach of the heathen our enemies?
 
 - and will ye even sell your brethren: So at one point in time, we sold our own brothers unto the heathen to be slaves.
+
+> <sup>[9](/bible/nehemiah/5#v9)</sup> Also I said, It is not good that ye do: ought ye not to walk in the fear of our God because of the reproach of the heathen our enemies?
 
 - because of the reproach of the heathen our enemies: Remember we read in Leviticus chapter 25, verse 40, it talked about that he shall be with thee and shall serve thee unto the year of jubile. Let's see what that was going into.
 
@@ -62,12 +62,12 @@ tags: ["15 Minutes w/ The Captains", "captivity", "christ", "faith", "salvation"
 **[Exodus 21:1-3](/bible/exodus/21#v1)**  *[[4:07](https://www.youtube.com/watch?v=OwFeR6ZKNlo&t=247s)]*
 
 > <sup>[1](/bible/exodus/21#v1)</sup> Now these are the judgments which thou shalt set before them.
->
+
+- Now these are the judgments which thou shalt set before them: So now you had many instances. You had many cases where we would make our people serve us. All right? So Christ, when we read, Christ died to relieve us of that servitude amongst one another.
+
 > <sup>[2](/bible/exodus/21#v2)</sup> If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing.
 >
 > <sup>[3](/bible/exodus/21#v3)</sup> If he came in by himself, he shall go out by himself: if he were married, then his wife shall go out with him.
-
-- Now these are the judgments which thou shalt set before them: So now you had many instances. You had many cases where we would make our people serve us. All right? So Christ, when we read, Christ died to relieve us of that servitude amongst one another.
 
 
 **[Exodus 21:7-8](/bible/exodus/21#v7)**  *[[4:51](https://www.youtube.com/watch?v=OwFeR6ZKNlo&t=291s)]*
@@ -179,10 +179,10 @@ tags: ["15 Minutes w/ The Captains", "captivity", "christ", "faith", "salvation"
 **[Sirach 46:10-11](/bible/sirach/46#v10)**  *[[15:50](https://www.youtube.com/watch?v=OwFeR6ZKNlo&t=950s)]*
 
 > <sup>[10](/bible/sirach/46#v10)</sup> That all the children of Israel might see that it is good to follow the Lord.
->
-> <sup>[11](/bible/sirach/46#v11)</sup> And concerning the judges, every one by name, whose heart went not a whoring, nor departed from the Lord, let their memory be blessed.
 
 - That all the children of Israel might see that it is good to follow the Lord: Let's get the all, the all. All the children of Israel, what? Might see that it is good to follow the Lord. So that it is good to follow the Lord.
+
+> <sup>[11](/bible/sirach/46#v11)</sup> And concerning the judges, every one by name, whose heart went not a whoring, nor departed from the Lord, let their memory be blessed.
 
 
 **[Galatians 3:28](/bible/galatians/3#v28)**  *[[16:30](https://www.youtube.com/watch?v=OwFeR6ZKNlo&t=990s)]*

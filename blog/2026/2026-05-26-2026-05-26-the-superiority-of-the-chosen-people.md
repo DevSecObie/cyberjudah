@@ -194,21 +194,13 @@ Reading from Josephus, on Abraham in Egypt  *[[31:11](https://www.youtube.com/wa
 
 **[Exodus 1:8-14](/bible/exodus/1#v8)**  *[[1:01:52](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=3712s)]*
 
+- A new king said the children of Israel are more and mightier than we; the Egyptians were tall and strong, so something had happened for them to say these Hebrews are mightier, and they could not destroy us head on.
+
 > <sup>[8](/bible/exodus/1#v8)</sup> Now there arose up a new king over Egypt, which knew not Joseph.
 >
 > <sup>[9](/bible/exodus/1#v9)</sup> And he said unto his people, Behold, the people of the children of Israel are more and mightier than we:
 >
 > <sup>[10](/bible/exodus/1#v10)</sup> Come on, let us deal wisely with them; lest they multiply, and it come to pass, that, when there falleth out any war, they join also unto our enemies, and fight against us, and so get them up out of the land.
->
-> <sup>[11](/bible/exodus/1#v11)</sup> Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses.
->
-> <sup>[12](/bible/exodus/1#v12)</sup> But the more they afflicted them, the more they multiplied and grew. And they were grieved because of the children of Israel.
->
-> <sup>[13](/bible/exodus/1#v13)</sup> And the Egyptians made the children of Israel to serve with rigour:
->
-> <sup>[14](/bible/exodus/1#v14)</sup> And they made their lives bitter with hard bondage, in morter, and in brick, and in all manner of service in the field: all their service, wherein they made them serve, was with rigour.
-
-- A new king said the children of Israel are more and mightier than we; the Egyptians were tall and strong, so something had happened for them to say these Hebrews are mightier, and they could not destroy us head on.
 
 - Let us deal wisely with them: not to be rid of us but to restrict our growth and keep us, a resource whose might they needed, so they set up institutions of oppression, and there is nothing new under the sun.
 
@@ -229,6 +221,14 @@ Reading from Josephus, on Abraham in Egypt  *[[31:11](https://www.youtube.com/wa
     > <sup>[34](/bible/genesis/46#v34)</sup> That ye shall say, Thy servants’ trade hath been about cattle from our youth even until now, both we, and also our fathers: that ye may dwell in the land of Goshen; for every shepherd is an abomination unto the Egyptians.
 
     Every shepherd is an abomination unto the Egyptians, so Israel was placed apart in Goshen: segregation and redlining, and no Egyptian blood among us in Goshen.
+
+> <sup>[11](/bible/exodus/1#v11)</sup> Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses.
+>
+> <sup>[12](/bible/exodus/1#v12)</sup> But the more they afflicted them, the more they multiplied and grew. And they were grieved because of the children of Israel.
+>
+> <sup>[13](/bible/exodus/1#v13)</sup> And the Egyptians made the children of Israel to serve with rigour:
+>
+> <sup>[14](/bible/exodus/1#v14)</sup> And they made their lives bitter with hard bondage, in morter, and in brick, and in all manner of service in the field: all their service, wherein they made them serve, was with rigour.
 
 
 *[[1:18:27](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=4707s)]* **In The News: A black man on video saying black people are godless, hopeless, broke, build nothing and own nothing** — That is the Oreo mind, white on the inside, that spiritual Egypt programs; and a lot of us think the same of ourselves.
@@ -1561,7 +1561,13 @@ Reading from *The Southern Literary Messenger*, 1860  *[[5:29:18](https://www.yo
 > <sup>[2](/bible/psalms/83#v2)</sup> For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.
 >
 > <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
->
+
+- They have taken crafty counsel against thy people and consulted against thy hidden ones: let us deal wisely with them, the think tanks, the order; we became the hidden ones once our identity was destroyed.
+
+- Come, let us cut them off from being a nation, that the name of Israel may be no more in remembrance; they consulted with one consent, confederate against God and his people.
+
+- Edom the white man, the Ishmaelites and Hagarenes the Arabs, Moab the Chinese, Amalek the Japanese, Gebal and Ammon, the Philistines with Tyre the Canaanites of Africa who gave us to the Arabs and the white man: the same nations as Joel 3, and today the United Nations.
+
 > <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
 >
 > <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
@@ -1569,12 +1575,6 @@ Reading from *The Southern Literary Messenger*, 1860  *[[5:29:18](https://www.yo
 > <sup>[6](/bible/psalms/83#v6)</sup> The tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes;
 >
 > <sup>[7](/bible/psalms/83#v7)</sup> Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;
-
-- They have taken crafty counsel against thy people and consulted against thy hidden ones: let us deal wisely with them, the think tanks, the order; we became the hidden ones once our identity was destroyed.
-
-- Come, let us cut them off from being a nation, that the name of Israel may be no more in remembrance; they consulted with one consent, confederate against God and his people.
-
-- Edom the white man, the Ishmaelites and Hagarenes the Arabs, Moab the Chinese, Amalek the Japanese, Gebal and Ammon, the Philistines with Tyre the Canaanites of Africa who gave us to the Arabs and the white man: the same nations as Joel 3, and today the United Nations.
 
 
 <div class="reading">
@@ -1612,7 +1612,11 @@ Reading from Wikipedia, on Henrietta Lacks  *[[5:40:28](https://www.youtube.com/
 **[Psalms 64:2-8](/bible/psalms/64#v2)**  *[[5:43:51](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=20631s)]*
 
 > <sup>[2](/bible/psalms/64#v2)</sup> Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:
->
+
+- Hide me from the secret counsel of the wicked: the order, the council of Psalm 83, whose tongue is a sword and whose arrows are bitter words, propaganda.
+
+- They commune of laying snares privily, and say who shall see them: secret societies, and education is the snare laid privately, the eugenics tree.
+
 > <sup>[3](/bible/psalms/64#v3)</sup> Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:
 >
 > <sup>[4](/bible/psalms/64#v4)</sup> That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.
@@ -1620,18 +1624,14 @@ Reading from Wikipedia, on Henrietta Lacks  *[[5:40:28](https://www.youtube.com/
 > <sup>[5](/bible/psalms/64#v5)</sup> They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?
 >
 > <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
->
-> <sup>[7](/bible/psalms/64#v7)</sup> But God shall shoot at them with an arrow; suddenly shall they be wounded.
->
-> <sup>[8](/bible/psalms/64#v8)</sup> So they shall make their own tongue to fall upon themselves: all that see them shall flee away.
-
-- Hide me from the secret counsel of the wicked: the order, the council of Psalm 83, whose tongue is a sword and whose arrows are bitter words, propaganda.
-
-- They commune of laying snares privily, and say who shall see them: secret societies, and education is the snare laid privately, the eugenics tree.
 
 - They search out iniquities, they accomplish a diligent search: research; they dug up Christmas, Easter, Valentine's, Sunday and birthdays, and they dig into cells, stem cells, cloning and GMOs, with contingency plans three hundred years ahead.
 
 - God shall shoot at them with an arrow; they shall make their own tongue to fall upon themselves, which is the whistleblower.
+
+> <sup>[7](/bible/psalms/64#v7)</sup> But God shall shoot at them with an arrow; suddenly shall they be wounded.
+>
+> <sup>[8](/bible/psalms/64#v8)</sup> So they shall make their own tongue to fall upon themselves: all that see them shall flee away.
 
 
 *[[5:46:15](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=20775s)]* **In The News: Peter Nygard at dinner with black women, describing the stem cell technology he invests in** — Take the egg of a young perfect woman specimen, remove the nucleus and put our DNA in it; black women from Africa have a monopoly on this genetic perfection and we want some of that, for a hundred dollars, then sixty thousand for eggs, placenta, umbilical cord and period blood; that is why they push interracial marriage and target sisters alone.

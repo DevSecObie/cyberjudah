@@ -2,7 +2,7 @@
 title: "LEAVEN: THE ROOT OF BITTERNESS"
 slug: "2026/2026-04-17-leaven-the-root-of-bitterness"
 date: "2026-04-17"
-teacher: ""
+teacher: "Deacon Malachiyah"
 description: "IUIC in the ClassRoom · 2026-04-17"
 tags: ["IUIC in the ClassRoom", "anger", "bitterness", "discipline", "passover-feasts", "satan", "sexual-purity"]
 ---
@@ -115,18 +115,22 @@ We are about to bring in the Sabbath, and we are also bringing in the second day
 
 **[Ezekiel 20:35-38](/bible/ezekiel/20#v35)**  *[[51:36](https://www.youtube.com/watch?v=3Qdksp7DVZI&t=3096s)]*
 
+- I will bring you into the wilderness of the people. This is prophecy: after the second exodus, after the Lord delivers us from this new Egypt, from America, he is taking us back into the wilderness. That is why Paul said do not be like our fathers; these things are for an example, because we will be going back into the wilderness again.
+
+- There will I plead with you face to face, like as I pleaded with your fathers in the wilderness of the land of Egypt. How did the Lord plead with us in the wilderness the first time? He got rid of the leaven; he killed everybody rebellious that was 20 years old and up. The same thing is going to happen again. A lot of us might make it out of Babylon, but you might not make it into the promised land.
+
+- Everything we learned here in America, the customs, the days named after their gods, all of it has to go. The Lord is going to change everything and teach us everything the right way, even the parts we are missing now. We do our best according to the moon to tell the feast days, but the sun and the moon both were given for signs and seasons; through slavery that wisdom was destroyed from amongst us, and the Lord will restore what we forgot.
+
 > <sup>[35](/bible/ezekiel/20#v35)</sup> And I will bring you into the wilderness of the people, and there will I plead with you face to face.
 >
 > <sup>[36](/bible/ezekiel/20#v36)</sup> Like as I pleaded with your fathers in the wilderness of the land of Egypt, so will I plead with you, saith the Lord God.
 >
 > <sup>[37](/bible/ezekiel/20#v37)</sup> And I will cause you to pass under the rod, and I will bring you into the bond of the covenant:
->
+
+- I will cause you to pass under the rod: the rod is correction. And I will bring you into the bond of the covenant.
+
 > <sup>[38](/bible/ezekiel/20#v38)</sup> And I will purge out from among you the rebels, and them that transgress against me: I will bring them forth out of the country where they sojourn, and they shall not enter into the land of Israel: and ye shall know that I am the Lord.
 
-- I will bring you into the wilderness of the people. This is prophecy: after the second exodus, after the Lord delivers us from this new Egypt, from America, he is taking us back into the wilderness. That is why Paul said do not be like our fathers; these things are for an example, because we will be going back into the wilderness again.
-- There will I plead with you face to face, like as I pleaded with your fathers in the wilderness of the land of Egypt. How did the Lord plead with us in the wilderness the first time? He got rid of the leaven; he killed everybody rebellious that was 20 years old and up. The same thing is going to happen again. A lot of us might make it out of Babylon, but you might not make it into the promised land.
-- Everything we learned here in America, the customs, the days named after their gods, all of it has to go. The Lord is going to change everything and teach us everything the right way, even the parts we are missing now. We do our best according to the moon to tell the feast days, but the sun and the moon both were given for signs and seasons; through slavery that wisdom was destroyed from amongst us, and the Lord will restore what we forgot.
-- I will cause you to pass under the rod: the rod is correction. And I will bring you into the bond of the covenant.
 - I will purge out from among you the rebels, and them that transgress against me: those that break God's laws, those that got leaven in them. I will bring them forth out of the country where they sojourn, and they shall not enter into the land of Israel. You will be delivered up out of that destruction, but the same way everybody was delivered up from Egypt and everybody did not make it into the promised land, there will be groups of people that will be delivered that will not make it into the promised land.
 
   Precepts:
@@ -225,15 +229,16 @@ We are about to bring in the Sabbath, and we are also bringing in the second day
 
 **[Matthew 16:21-23](/bible/matthew/16#v21)**  *[[1:39:36](https://www.youtube.com/watch?v=3Qdksp7DVZI&t=5976s)]*
 
+- Christ began to shew unto his disciples how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day. Was that a good thing or a bad thing? It was a good thing: he had to die to redeem the nation of Israel. It is hard to understand, like when we tell you some of us are going to be killed for teaching this truth; but Revelation 6 says the fellowservants must be killed as they were, and that has to be fulfilled.
+
 > <sup>[21](/bible/matthew/16#v21)</sup> From that time forth began Jesus to shew unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day.
 >
 > <sup>[22](/bible/matthew/16#v22)</sup> Then Peter took him, and began to rebuke him, saying, Be it far from thee, Lord: this shall not be unto thee.
->
-> <sup>[23](/bible/matthew/16#v23)</sup> But he turned, and said unto Peter, Get thee behind me, Satan: thou art an offence unto me: for thou savourest not the things that be of God, but those that be of men.
 
-- Christ began to shew unto his disciples how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day. Was that a good thing or a bad thing? It was a good thing: he had to die to redeem the nation of Israel. It is hard to understand, like when we tell you some of us are going to be killed for teaching this truth; but Revelation 6 says the fellowservants must be killed as they were, and that has to be fulfilled.
 - Then Peter took him, and began to rebuke him, saying, Be it far from thee, Lord: this shall not be unto thee. Peter looked at Christ's death as a bad thing.
+
 - But he turned, and said unto Peter, Get thee behind me, Satan. What happened there? Satan literally jumped on Peter. That was not Peter; that was Satan talking to Christ through Peter, and Christ was literally talking to Satan. That is why in another place Christ told Peter, Satan hath desired to have you, that he may sift you as wheat: but I have prayed for thee, that thy faith fail not.
+
 - Satan comes for all of us. He comes different ways to defile us and destroy us: for some it is money, for some it is sex, for some it is hatred. Satan only comes at you at your weakness. So examine yourself: what is my weakness? That is what I need to strengthen, because that is what Satan is going to try to destroy me with. The worst brothers and sisters are the ones that say they have no weakness, that they are perfect; those are the ones dealing with the heaviest demons and just hiding it. Everybody has weakness. The Lord told Paul, my strength is made perfect in weakness; Paul asked three times for his weakness to be removed, and the Lord said no, fight it and become strong.
 
   Precepts:
@@ -241,6 +246,8 @@ We are about to bring in the Sabbath, and we are also bringing in the second day
     > <sup>[13](/bible/luke/4#v13)</sup> And when the devil had ended all the temptation, he departed from him for a season.
 
     When the devil had ended all the temptation, he departed from him for a season. You think Satan stopped tempting Christ? He never stopped; he just left for a season and came back in different ways. When Christ was about to be crucified, Satan came back, and he came back by jumping on Peter.
+
+> <sup>[23](/bible/matthew/16#v23)</sup> But he turned, and said unto Peter, Get thee behind me, Satan: thou art an offence unto me: for thou savourest not the things that be of God, but those that be of men.
 
 **[Acts 5:3](/bible/acts/5#v3)**  *[[1:51:01](https://www.youtube.com/watch?v=3Qdksp7DVZI&t=6661s)]*
 
@@ -253,15 +260,15 @@ We are about to bring in the Sabbath, and we are also bringing in the second day
 **[James 1:13-15](/bible/james/1#v13)**  *[[1:56:28](https://www.youtube.com/watch?v=3Qdksp7DVZI&t=6988s)]*
 
 > <sup>[13](/bible/james/1#v13)</sup> Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:
->
-> <sup>[14](/bible/james/1#v14)</sup> But every man is tempted, when he is drawn away of his own lust, and enticed.
->
-> <sup>[15](/bible/james/1#v15)</sup> Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.
 
 - Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man. When you get wicked thoughts in your mind, that is not God; that is Satan.
+
 - But every man is tempted, when he is drawn away of his own lust, and enticed. What does Satan tempt you with? Your own lust, the things that you like. Your lusts and enticements are your weaknesses; that is what he is going to try to get you with. That is why you got to put on the whole armour and examine yourself to know your weakness. Do not ask anybody else what your weakness is; you know it. Figure out what you need to strengthen so Satan does not destroy you.
+
 - Then when lust hath conceived, it bringeth forth sin. Where is lust conceived? In your mind. The teacher put a picture of an immodestly dressed woman on the screen and asked the brothers one by one what they saw, to teach this: we all see beautiful women, but you have to train yourself to hate evil. It does not come naturally; you cannot come to the truth and all of a sudden hate what you see out there. You train your mind, when you see it, to reject it and turn away. The older brothers with experience have matured past it; the young brothers dealing with youthful lusts have to train. Sisters too: before you came to this truth a lot of you dressed the same way, and now you have changed how you dress. When Christ returns there will be a modesty law set up.
+
 - If the thought comes and you shake it off and rebuke it, lust is not conceived. But if you sit down and entertain it, it brings forth sin. That is why Christ said adultery does not start when you lie down with the woman; adultery starts in the mind.
+
 - And sin, when it is finished, bringeth forth death. Some of you say, I fornicated and I did not die. That death is talking about damnation, your soul being destroyed. God will judge you.
 
   Precepts:
@@ -269,6 +276,10 @@ We are about to bring in the Sabbath, and we are also bringing in the second day
     > <sup>[28](/bible/matthew/5#v28)</sup> But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.
 
     Whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart. That is exactly how lust is conceived: it starts with the look, and then the thought, in your heart, before anything physical ever happens.
+
+> <sup>[14](/bible/james/1#v14)</sup> But every man is tempted, when he is drawn away of his own lust, and enticed.
+>
+> <sup>[15](/bible/james/1#v15)</sup> Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.
 
 **[Mark 7:21-23](/bible/mark/7#v21)**  *[[2:14:57](https://www.youtube.com/watch?v=3Qdksp7DVZI&t=8097s)]*
 

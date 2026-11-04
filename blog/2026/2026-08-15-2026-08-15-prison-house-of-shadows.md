@@ -191,25 +191,21 @@ Reading from a page on systemic racism, the results of slavery · read by Captai
 
 **[Ezekiel 37:1-3](/bible/ezekiel/37#v1)**  *[[29:22](https://www.youtube.com/watch?v=maQroMAMqbw&t=1762s)]*
 
+- The hand of the Lord was upon me, and carried me out in the spirit of the Lord, and set me down in the midst of the valley which was full of bones. So this valley full of bones is Babylon the great.
+
 > <sup>[1](/bible/ezekiel/37#v1)</sup> The hand of the Lord was upon me, and carried me out in the spirit of the Lord, and set me down in the midst of the valley which was full of bones,
 >
 > <sup>[2](/bible/ezekiel/37#v2)</sup> And caused me to pass by them round about: and, behold, there were very many in the open valley; and, lo, they were very dry.
->
-> <sup>[3](/bible/ezekiel/37#v3)</sup> And he said unto me, Son of man, can these bones live? And I answered, O Lord God, thou knowest.
-
-- The hand of the Lord was upon me, and carried me out in the spirit of the Lord, and set me down in the midst of the valley which was full of bones. So this valley full of bones is Babylon the great.
 
 - And caused me to pass by them round about: and, behold, there were very many in the open valley; and, lo, they were very dry. Very dry.
 
 - And he said unto me, Son of man, can these bones live? And I answered, O Lord God, thou knowest.
 
+> <sup>[3](/bible/ezekiel/37#v3)</sup> And he said unto me, Son of man, can these bones live? And I answered, O Lord God, thou knowest.
+
 **[Ezekiel 37:8-10](/bible/ezekiel/37#v8)**  *[[30:17](https://www.youtube.com/watch?v=maQroMAMqbw&t=1817s)]*
 
 > <sup>[8](/bible/ezekiel/37#v8)</sup> And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but there was no breath in them.
->
-> <sup>[9](/bible/ezekiel/37#v9)</sup> Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord God; Come from the four winds, O breath, and breathe upon these slain, that they may live.
->
-> <sup>[10](/bible/ezekiel/37#v10)</sup> So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.
 
 - And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but there was no breath in them. This is what he prophesied to the dry bones. And the skin covered them above: we started to identify one with another. But there was no breath in them: we were not keeping God's laws at all.
 
@@ -217,15 +213,15 @@ Reading from a page on systemic racism, the results of slavery · read by Captai
 
 - So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.
 
+> <sup>[9](/bible/ezekiel/37#v9)</sup> Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord God; Come from the four winds, O breath, and breathe upon these slain, that they may live.
+>
+> <sup>[10](/bible/ezekiel/37#v10)</sup> So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.
+
 **[Ezekiel 37:11-13](/bible/ezekiel/37#v11)**  *[[31:03](https://www.youtube.com/watch?v=maQroMAMqbw&t=1863s)]*
 
-> <sup>[11](/bible/ezekiel/37#v11)</sup> Then he said unto me, Son of man, these bones are the whole house of Israel: behold, they say, Our bones are dried, and our hope is lost: we are cut off for our parts.
->
-> <sup>[12](/bible/ezekiel/37#v12)</sup> Therefore prophesy and say unto them, Thus saith the Lord God; Behold, O my people, I will open your graves, and cause you to come up out of your graves, and bring you into the land of Israel.
->
-> <sup>[13](/bible/ezekiel/37#v13)</sup> And ye shall know that I am the Lord, when I have opened your graves, O my people, and brought you up out of your graves,
-
 - Then he said unto me, Son of man, these bones are the whole house of Israel. So do not let a Christian try to fool you and say these are the church people. No, this is the whole house of Israel, the twelve tribes.
+
+> <sup>[11](/bible/ezekiel/37#v11)</sup> Then he said unto me, Son of man, these bones are the whole house of Israel: behold, they say, Our bones are dried, and our hope is lost: we are cut off for our parts.
 
 - Behold, they say, Our bones are dried, and our hope is lost: we are cut off for our parts.
 
@@ -233,15 +229,11 @@ Reading from a page on systemic racism, the results of slavery · read by Captai
 
 - And ye shall know that I am the Lord, when I have opened your graves, O my people, and brought you up out of your graves. So we are in some type of a grave. Like we read all those things about systematic racism, the psychological effects. Everybody in here has some type of a grave. Now, the fact that we are waking up to the truth that we are the Israelites, we are coming up out of these graves partially. Not 100 percent, but partially, because some of us are still suffering from depression, fear, mistrust, chronic stress, low self-esteem. It is still here among us. I heard a brother in New York years ago say, I do not want a sister who does not have a weave. We said, brother, you are still mentally destroyed. Now he is in here in borders and blue and fringes, but the fact that that is in his mind tells us he is still destroyed to a degree.
 
-**[Isaiah 28:15-18](/bible/isaiah/28#v15)**  *[[37:57](https://www.youtube.com/watch?v=maQroMAMqbw&t=2277s)]*
+> <sup>[12](/bible/ezekiel/37#v12)</sup> Therefore prophesy and say unto them, Thus saith the Lord God; Behold, O my people, I will open your graves, and cause you to come up out of your graves, and bring you into the land of Israel.
+>
+> <sup>[13](/bible/ezekiel/37#v13)</sup> And ye shall know that I am the Lord, when I have opened your graves, O my people, and brought you up out of your graves,
 
-> <sup>[15](/bible/isaiah/28#v15)</sup> Because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves:
->
-> <sup>[16](/bible/isaiah/28#v16)</sup> Therefore thus saith the Lord God, Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner stone, a sure foundation: he that believeth shall not make haste.
->
-> <sup>[17](/bible/isaiah/28#v17)</sup> Judgment also will I lay to the line, and righteousness to the plummet: and the hail shall sweep away the refuge of lies, and the waters shall overflow the hiding place.
->
-> <sup>[18](/bible/isaiah/28#v18)</sup> And your covenant with death shall be disannulled, and your agreement with hell shall not stand; when the overflowing scourge shall pass through, then ye shall be trodden down by it.
+**[Isaiah 28:15-18](/bible/isaiah/28#v15)**  *[[37:57](https://www.youtube.com/watch?v=maQroMAMqbw&t=2277s)]*
 
 - Because ye have said, We have made a covenant with death, and with hell are we at agreement. So our people made a covenant with death. The word covenant means agreement. The death that it is talking about is the white man and his philosophies. And with hell are we at agreement: the hell is our people, keeping us in a low state. That is why you hear people like Brandon Tatum, Jason Whitlock, Candace Owens say, I am not oppressed. Why? Because they make millions of dollars. Ball players, football players, rappers. I make millions of dollars. You are oppressed, because the same thing they do to the masses of your people, they will do to you if you step out of line.
 
@@ -249,7 +241,13 @@ Reading from a page on systemic racism, the results of slavery · read by Captai
 
 - For we have made lies our refuge, and under falsehood have we hid ourselves. We have made Christianity our refuge. We have made democracy our refuge.
 
+> <sup>[15](/bible/isaiah/28#v15)</sup> Because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves:
+>
+> <sup>[16](/bible/isaiah/28#v16)</sup> Therefore thus saith the Lord God, Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner stone, a sure foundation: he that believeth shall not make haste.
+
 - Therefore thus saith the Lord God, Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner stone, a sure foundation: he that believeth shall not make haste. Now this stone is Christ. He that believeth shall not make haste, meaning you will not be confounded. You will be delivered. You will be saved.
+
+> <sup>[17](/bible/isaiah/28#v17)</sup> Judgment also will I lay to the line, and righteousness to the plummet: and the hail shall sweep away the refuge of lies, and the waters shall overflow the hiding place.
 
 - Judgment also will I lay to the line, and righteousness to the plummet: and the hail shall sweep away the refuge of lies, and the waters shall overflow the hiding place. Talking about the second coming, the destruction, Armageddon.
 
@@ -264,6 +262,8 @@ Reading from a page on systemic racism, the results of slavery · read by Captai
     > <sup>[11](/bible/1-maccabees/1#v11)</sup> In those days went there out of Israel wicked men, who persuaded many, saying, Let us go and make a covenant with the heathen that are round about us: for since we departed from them we have had much sorrow.
 
     In those days went there out of Israel wicked men, who persuaded many, saying, Let us go and make a covenant with the heathen that are round about us: for since we departed from them we have had much sorrow. See that? You had wicked men saying, let us go and make a covenant, an agreement, with the heathen, meaning the other nations, the Greeks in this context. People often say the Bible has no relevance today. What we just read has all the relevance in the world for today, because the same thing that they did back then, making a covenant with the Greeks, our people are doing today, making a covenant with every white man or woman they can find.
+
+> <sup>[18](/bible/isaiah/28#v18)</sup> And your covenant with death shall be disannulled, and your agreement with hell shall not stand; when the overflowing scourge shall pass through, then ye shall be trodden down by it.
 
 **[Isaiah 8:9](/bible/isaiah/8#v9)**  *[[43:23](https://www.youtube.com/watch?v=maQroMAMqbw&t=2603s)]*
 
@@ -337,41 +337,37 @@ Reading from the on-screen text of a report on H. Rap Brown's case · read by Ca
 
 **[Lamentations 3:22-26](/bible/lamentations/3#v22)**  *[[55:03](https://www.youtube.com/watch?v=maQroMAMqbw&t=3303s)]*
 
+- It is of the Lord's mercies that we are not consumed, because his compassions fail not. That is the only reason we are all still here. It is not due to Martin Luther King Jr., it is not due to Malcolm X, or even H. Rap Brown. It is the Lord's compassion.
+
 > <sup>[22](/bible/lamentations/3#v22)</sup> It is of the Lord’s mercies that we are not consumed, because his compassions fail not.
 >
 > <sup>[23](/bible/lamentations/3#v23)</sup> They are new every morning: great is thy faithfulness.
->
+
+- They are new every morning: great is thy faithfulness. The Lord is my portion, saith my soul; therefore will I hope in him.
+
+- The Lord is good unto them that wait for him, to the soul that seeketh him. It is good that a man should both hope and quietly wait for the salvation of the Lord.
+
 > <sup>[24](/bible/lamentations/3#v24)</sup> The Lord is my portion, saith my soul; therefore will I hope in him.
 >
 > <sup>[25](/bible/lamentations/3#v25)</sup> The Lord is good unto them that wait for him, to the soul that seeketh him.
 >
 > <sup>[26](/bible/lamentations/3#v26)</sup> It is good that a man should both hope and quietly wait for the salvation of the Lord.
 
-- It is of the Lord's mercies that we are not consumed, because his compassions fail not. That is the only reason we are all still here. It is not due to Martin Luther King Jr., it is not due to Malcolm X, or even H. Rap Brown. It is the Lord's compassion.
-
-- They are new every morning: great is thy faithfulness. The Lord is my portion, saith my soul; therefore will I hope in him.
-
-- The Lord is good unto them that wait for him, to the soul that seeketh him. It is good that a man should both hope and quietly wait for the salvation of the Lord.
-
 **[Lamentations 3:40-45](/bible/lamentations/3#v40)**  *[[56:03](https://www.youtube.com/watch?v=maQroMAMqbw&t=3363s)]*
+
+- Let us search and try our ways, and turn again to the Lord. Now, right there, that part right there, let us search and try our ways. This is a lot of times what we as a people do not want to do: examine ourselves. What is wrong with me? What is wrong with you? Who raised you? Why do you act that way? Why do you do the things that you do?
+
+- Let us lift up our heart with our hands unto God in the heavens.
 
 > <sup>[40](/bible/lamentations/3#v40)</sup> Let us search and try our ways, and turn again to the Lord.
 >
 > <sup>[41](/bible/lamentations/3#v41)</sup> Let us lift up our heart with our hands unto God in the heavens.
 >
 > <sup>[42](/bible/lamentations/3#v42)</sup> We have transgressed and have rebelled: thou hast not pardoned.
->
-> <sup>[43](/bible/lamentations/3#v43)</sup> Thou hast covered with anger, and persecuted us: thou hast slain, thou hast not pitied.
->
-> <sup>[44](/bible/lamentations/3#v44)</sup> Thou hast covered thyself with a cloud, that our prayer should not pass through.
->
-> <sup>[45](/bible/lamentations/3#v45)</sup> Thou hast made us as the offscouring and refuse in the midst of the people.
-
-- Let us search and try our ways, and turn again to the Lord. Now, right there, that part right there, let us search and try our ways. This is a lot of times what we as a people do not want to do: examine ourselves. What is wrong with me? What is wrong with you? Who raised you? Why do you act that way? Why do you do the things that you do?
-
-- Let us lift up our heart with our hands unto God in the heavens.
 
 - We have transgressed and have rebelled: thou hast not pardoned. See that? That is why we are in this state, the condition we are in now.
+
+> <sup>[43](/bible/lamentations/3#v43)</sup> Thou hast covered with anger, and persecuted us: thou hast slain, thou hast not pitied.
 
 - Thou hast covered with anger, and persecuted us: thou hast slain, thou hast not pitied.
 
@@ -394,6 +390,10 @@ Reading from the on-screen text of a report on H. Rap Brown's case · read by Ca
     > <sup>[7](/bible/romans/7#v7)</sup> What shall we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet.
 
     What shall we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet. I would not know what sin is but by the law. I would not know what lust is. By studying the word of God you are able to self-examine. You are able to search and try your ways.
+
+> <sup>[44](/bible/lamentations/3#v44)</sup> Thou hast covered thyself with a cloud, that our prayer should not pass through.
+>
+> <sup>[45](/bible/lamentations/3#v45)</sup> Thou hast made us as the offscouring and refuse in the midst of the people.
 
 <div class="reading">
 
@@ -466,18 +466,18 @@ Reading from a definition of offscouring  *[[1:01:10](https://www.youtube.com/wa
 **[Lamentations 3:56-59](/bible/lamentations/3#v56)**  *[[1:03:52](https://www.youtube.com/watch?v=maQroMAMqbw&t=3832s)]*
 
 > <sup>[56](/bible/lamentations/3#v56)</sup> Thou hast heard my voice: hide not thine ear at my breathing, at my cry.
->
-> <sup>[57](/bible/lamentations/3#v57)</sup> Thou drewest near in the day that I called upon thee: thou saidst, Fear not.
->
-> <sup>[58](/bible/lamentations/3#v58)</sup> O Lord, thou hast pleaded the causes of my soul; thou hast redeemed my life.
->
-> <sup>[59](/bible/lamentations/3#v59)</sup> O Lord, thou hast seen my wrong: judge thou my cause.
 
 - Thou hast heard my voice: hide not thine ear at my breathing, at my cry. Then the Lord said, I heard his voice.
+
+> <sup>[57](/bible/lamentations/3#v57)</sup> Thou drewest near in the day that I called upon thee: thou saidst, Fear not.
 
 - Thou drewest near in the day that I called upon thee: thou saidst, Fear not.
 
 - O Lord, thou hast pleaded the causes of my soul; thou hast redeemed my life. Only God can plead our cause.
+
+> <sup>[58](/bible/lamentations/3#v58)</sup> O Lord, thou hast pleaded the causes of my soul; thou hast redeemed my life.
+>
+> <sup>[59](/bible/lamentations/3#v59)</sup> O Lord, thou hast seen my wrong: judge thou my cause.
 
 - O Lord, thou hast seen my wrong: judge thou my cause. Thou hast seen my wrong, my sin. Judge thou my cause.
 
@@ -556,16 +556,6 @@ Reading from a definition of offscouring  *[[1:01:10](https://www.youtube.com/wa
 **[Psalms 64:1-6](/bible/psalms/64#v1)**  *[[1:22:20](https://www.youtube.com/watch?v=maQroMAMqbw&t=4940s)]*
 
 > <sup>[1](/bible/psalms/64#v1)</sup> Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.
->
-> <sup>[2](/bible/psalms/64#v2)</sup> Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:
->
-> <sup>[3](/bible/psalms/64#v3)</sup> Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:
->
-> <sup>[4](/bible/psalms/64#v4)</sup> That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.
->
-> <sup>[5](/bible/psalms/64#v5)</sup> They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?
->
-> <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
 
 - Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.
 
@@ -573,9 +563,19 @@ Reading from a definition of offscouring  *[[1:01:10](https://www.youtube.com/wa
 
 - Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words. When it says who whet their tongue like a sword, meaning they speak evil, they manipulate, they are the accusers of the brethren. Bitter words like black-on-black crime, we are the worst thing on the planet. But wait a minute. I said this in the interview. Pooky and Ray Ray, black-on-black crime, that is a talking point to get black people to shut up in conversation. Let us say Pooky and Ray Ray kill 500 people. That is still not the genocide that Netanyahu is doing. That is still not the genocide that America has committed. It does not compare. So never let black-on-black crime be a talking point to get us to shut up. We are not going to shut up when it comes to genocide. You have murdered millions upon millions of people with your bombings. We have to bring it up.
 
+> <sup>[2](/bible/psalms/64#v2)</sup> Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:
+>
+> <sup>[3](/bible/psalms/64#v3)</sup> Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:
+>
+> <sup>[4](/bible/psalms/64#v4)</sup> That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.
+
 - That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not. We are the perfect. Our race is the perfect. I do not care how down we are, God says we are the perfect when we repent. And they do not fear when they shoot at us with those evil words against us.
 
+> <sup>[5](/bible/psalms/64#v5)</sup> They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?
+
 - They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them? A snare is a trap. They commune of laying traps secretly. Privily means secretly. They say, who shall see them? Meaning, who is going to consider we did this? We are Christians. We are Jewish. We are the good guys. You Negroes, you are the bad guys. Nobody is going to believe you. That is what they do.
+
+> <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
 
 **[Proverbs 26:27](/bible/proverbs/26#v27)**  *[[1:25:54](https://www.youtube.com/watch?v=maQroMAMqbw&t=5154s)]*
 
@@ -699,17 +699,13 @@ Reading from search results on what America sends to Jamaica and Trinidad · rea
 
 **[Isaiah 14:12-15](/bible/isaiah/14#v12)**  *[[1:45:18](https://www.youtube.com/watch?v=maQroMAMqbw&t=6318s)]*
 
-> <sup>[12](/bible/isaiah/14#v12)</sup> How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!
->
-> <sup>[13](/bible/isaiah/14#v13)</sup> For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north:
->
-> <sup>[14](/bible/isaiah/14#v14)</sup> I will ascend above the heights of the clouds; I will be like the most High.
->
-> <sup>[15](/bible/isaiah/14#v15)</sup> Yet thou shalt be brought down to hell, to the sides of the pit.
-
 - How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations! Now God is calling Babylon the great Lucifer. He has not changed the subject. He just changed the metaphor. He went from Babylon to Lucifer. Same thing.
 
 - Which didst weaken the nations. How did they weaken the nations? Through oppression. They control the international monetary funding. They are the ones that say Africa's money is worthless. They are the ones that say Jamaica's money is worthless.
+
+> <sup>[12](/bible/isaiah/14#v12)</sup> How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!
+>
+> <sup>[13](/bible/isaiah/14#v13)</sup> For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north:
 
 - For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north. I will exalt my throne above the stars of God: that is called space travel. I will sit also upon the mount of the congregation: that is called slavery. When you are sitting on somebody, you have conquered them, you beat them. In the sides of the north: that is North America.
 
@@ -726,6 +722,10 @@ Reading from search results on what America sends to Jamaica and Trinidad · rea
     > <sup>[47](/bible/exodus/12#v47)</sup> All the congregation of Israel shall keep it.
 
     All the congregation of Israel shall keep it. That is it right there. So the congregation is Israel. Is it the church, the Baptist church, the Catholic church? No.
+
+> <sup>[14](/bible/isaiah/14#v14)</sup> I will ascend above the heights of the clouds; I will be like the most High.
+>
+> <sup>[15](/bible/isaiah/14#v15)</sup> Yet thou shalt be brought down to hell, to the sides of the pit.
 
 <div class="reading">
 
@@ -862,8 +862,6 @@ Reading from *The Guardian*, *The 19 black radicals who are still in prison afte
 **[Zechariah 2:6-7](/bible/zechariah/2#v6)**  *[[2:11:47](https://www.youtube.com/watch?v=maQroMAMqbw&t=7907s)]*
 
 > <sup>[6](/bible/zechariah/2#v6)</sup> Ho, ho, come forth, and flee from the land of the north, saith the Lord: for I have spread you abroad as the four winds of the heaven, saith the Lord.
->
-> <sup>[7](/bible/zechariah/2#v7)</sup> Deliver thyself, O Zion, that dwellest with the daughter of Babylon.
 
 - Ho, ho, come forth, and flee from the land of the north, saith the Lord: for I have spread you abroad as the four winds of the heaven, saith the Lord. The north is North America. So we are scattered everywhere.
 
@@ -880,6 +878,8 @@ Reading from *The Guardian*, *The 19 black radicals who are still in prison afte
     > <sup>[8](/bible/psalms/137#v8)</sup> O daughter of Babylon, who art to be destroyed; happy shall he be, that rewardeth thee as thou hast served us.
 
     Remember, O Lord, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof. O daughter of Babylon, who art to be destroyed. The children of Edom, E-D-O-M, meaning red people. So Edom is called the daughter of Babylon.
+
+> <sup>[7](/bible/zechariah/2#v7)</sup> Deliver thyself, O Zion, that dwellest with the daughter of Babylon.
 
 **[Revelation 18:4-6](/bible/revelation/18#v4)**  *[[2:14:52](https://www.youtube.com/watch?v=maQroMAMqbw&t=8092s)]*
 
@@ -991,25 +991,25 @@ Reading from *The Guardian*, *The 19 black radicals who are still in prison afte
 
 **[Sirach 11:30-34](/bible/sirach/11#v30)**  *[[2:32:19](https://www.youtube.com/watch?v=maQroMAMqbw&t=9139s)]*
 
+- Like as a partridge taken and kept in a cage, so is the heart of the proud; and like as a spy, watcheth he for thy fall. He will watch for your demise, your fall.
+
+- For he lieth in wait, and turneth good into evil, and in things worthy praise will lay blame upon thee. He lies in wait. The good things that you say, he or she will turn into evil. That is what the Pharisees did with Christ. All the good that Christ was teaching. No, no, he said he is going to overthrow Rome, he is going to destroy the temple. And they are going to lay blame on you.
+
 > <sup>[30](/bible/sirach/11#v30)</sup> Like as a partridge taken and kept in a cage, so is the heart of the proud; and like as a spy, watcheth he for thy fall:
 >
 > <sup>[31](/bible/sirach/11#v31)</sup> For he lieth in wait, and turneth good into evil, and in things worthy praise will lay blame upon thee.
 >
 > <sup>[32](/bible/sirach/11#v32)</sup> Of a spark of fire a heap of coals is kindled: and a sinful man layeth wait for blood.
->
-> <sup>[33](/bible/sirach/11#v33)</sup> Take heed of a mischievous man, for he worketh wickedness; lest he bring upon thee a perpetual blot.
->
-> <sup>[34](/bible/sirach/11#v34)</sup> Receive a stranger into thine house, and he will disturb thee, and turn thee out of thine own.
-
-- Like as a partridge taken and kept in a cage, so is the heart of the proud; and like as a spy, watcheth he for thy fall. He will watch for your demise, your fall.
-
-- For he lieth in wait, and turneth good into evil, and in things worthy praise will lay blame upon thee. He lies in wait. The good things that you say, he or she will turn into evil. That is what the Pharisees did with Christ. All the good that Christ was teaching. No, no, he said he is going to overthrow Rome, he is going to destroy the temple. And they are going to lay blame on you.
 
 - Of a spark of fire a heap of coals is kindled: and a sinful man layeth wait for blood.
 
 - Take heed of a mischievous man, for he worketh wickedness; lest he bring upon thee a perpetual blot.
 
 - Receive a stranger into thine house, and he will disturb thee, and turn thee out of thine own. So I know brothers are inviting people over to their house to learn the scriptures. That is fine. But be mindful of that. You do not know all these brothers. You do not know their wife. You do not know their kids. You just know that brother's name is Shabazz or Hakeem or whatever. That is all you know. And you are bringing them over to your house with your wife and children. Be very careful. And for you simple brothers that go into a brother's house and bring in another brother that the brother whose house it is does not know, that is evil and stupid. You have to be wiser than that. You have to wait until you get to know him.
+
+> <sup>[33](/bible/sirach/11#v33)</sup> Take heed of a mischievous man, for he worketh wickedness; lest he bring upon thee a perpetual blot.
+>
+> <sup>[34](/bible/sirach/11#v34)</sup> Receive a stranger into thine house, and he will disturb thee, and turn thee out of thine own.
 
 **[Revelation 2:9-10](/bible/revelation/2#v9)**  *[[2:34:35](https://www.youtube.com/watch?v=maQroMAMqbw&t=9275s)]*
 
@@ -1071,31 +1071,29 @@ Reading from *The Guardian*, *The 19 black radicals who are still in prison afte
 
 **[Zechariah 9:11-13](/bible/zechariah/9#v11)**  *[[2:42:07](https://www.youtube.com/watch?v=maQroMAMqbw&t=9727s)]*
 
+- As for thee also, by the blood of thy covenant I have sent forth thy prisoners out of the pit wherein is no water. By the blood of the covenant: that is Christ dying on the cross. I have sent forth thy prisoners: that is you and me. Out of the pit: the pit is Babylon. Wherein is no water: there is no truth being taught here besides what we are teaching.
+
 > <sup>[11](/bible/zechariah/9#v11)</sup> As for thee also, by the blood of thy covenant I have sent forth thy prisoners out of the pit wherein is no water.
 >
 > <sup>[12](/bible/zechariah/9#v12)</sup> Turn you to the strong hold, ye prisoners of hope: even to day do I declare that I will render double unto thee;
->
-> <sup>[13](/bible/zechariah/9#v13)</sup> When I have bent Judah for me, filled the bow with Ephraim, and raised up thy sons, O Zion, against thy sons, O Greece, and made thee as the sword of a mighty man.
-
-- As for thee also, by the blood of thy covenant I have sent forth thy prisoners out of the pit wherein is no water. By the blood of the covenant: that is Christ dying on the cross. I have sent forth thy prisoners: that is you and me. Out of the pit: the pit is Babylon. Wherein is no water: there is no truth being taught here besides what we are teaching.
 
 - Turn you to the strong hold, ye prisoners of hope: even to day do I declare that I will render double unto thee. We are the prisoners of hope. God says, turn you to the stronghold. This is the stronghold, in the name of Christ. The commandments in the name of Christ. This is the stronghold.
 
 - When I have bent Judah for me, filled the bow with Ephraim, and raised up thy sons, O Zion, against thy sons, O Greece, and made thee as the sword of a mighty man. He said, I am going to bend the tribe of Judah. I am going to bend them to my will. And I am going to fill the bow with Ephraim. And raised up thy sons, O Zion: raised up the other ten tribes. Against thy sons, O Greece: against Esau, Edom, the so-called white man. And made thee as the sword of a mighty man: God said he is going to transform us into the sword of a mighty man. That means he is going to give us power.
 
+> <sup>[13](/bible/zechariah/9#v13)</sup> When I have bent Judah for me, filled the bow with Ephraim, and raised up thy sons, O Zion, against thy sons, O Greece, and made thee as the sword of a mighty man.
+
 **[Zechariah 9:14-17](/bible/zechariah/9#v14)**  *[[2:43:35](https://www.youtube.com/watch?v=maQroMAMqbw&t=9815s)]*
 
 > <sup>[14](/bible/zechariah/9#v14)</sup> And the Lord shall be seen over them, and his arrow shall go forth as the lightning: and the Lord God shall blow the trumpet, and shall go with whirlwinds of the south.
->
-> <sup>[15](/bible/zechariah/9#v15)</sup> The Lord of hosts shall defend them; and they shall devour, and subdue with sling stones; and they shall drink, and make a noise as through wine; and they shall be filled like bowls, and as the corners of the altar.
->
-> <sup>[16](/bible/zechariah/9#v16)</sup> And the Lord their God shall save them in that day as the flock of his people: for they shall be as the stones of a crown, lifted up as an ensign upon his land.
->
-> <sup>[17](/bible/zechariah/9#v17)</sup> For how great is his goodness, and how great is his beauty! corn shall make the young men cheerful, and new wine the maids.
 
 - And the Lord shall be seen over them, and his arrow shall go forth as the lightning: and the Lord God shall blow the trumpet, and shall go with whirlwinds of the south. And shall go with whirlwinds of the south: that is the chariots of God.
 
 - The Lord of hosts shall defend them; and they shall devour, and subdue with sling stones; and they shall drink, and make a noise as through wine; and they shall be filled like bowls, and as the corners of the altar. God said he shall defend us. And we shall devour the nations, and we shall subdue with sling stones. And we shall drink and make a noise as through wine. We are going to party like we have never partied before.
+
+> <sup>[15](/bible/zechariah/9#v15)</sup> The Lord of hosts shall defend them; and they shall devour, and subdue with sling stones; and they shall drink, and make a noise as through wine; and they shall be filled like bowls, and as the corners of the altar.
+>
+> <sup>[16](/bible/zechariah/9#v16)</sup> And the Lord their God shall save them in that day as the flock of his people: for they shall be as the stones of a crown, lifted up as an ensign upon his land.
 
 - And the Lord their God shall save them in that day as the flock of his people: for they shall be as the stones of a crown, lifted up as an ensign upon his land. So he is not saving all nations. He is only saving the twelve tribes.
 
@@ -1110,6 +1108,8 @@ Reading from *The Guardian*, *The 19 black radicals who are still in prison afte
     > <sup>[28](/bible/1-corinthians/11#v28)</sup> But let a man examine himself, and so let him eat of that bread, and drink of that cup.
 
     But let a man examine himself, and so let him eat of that bread, and drink of that cup. Read at the breaking of bread, and it is the same instruction we opened with in Lamentations 3: let us search and try our ways.
+
+> <sup>[17](/bible/zechariah/9#v17)</sup> For how great is his goodness, and how great is his beauty! corn shall make the young men cheerful, and new wine the maids.
 
 ## In Closing
 

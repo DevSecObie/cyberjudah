@@ -432,7 +432,19 @@ tags: ["IUIC in the ClassRoom", "leadership", "money", "the-law", "the-word", "w
 **[Sirach 44:1-15](/bible/sirach/44#v1)**  *[[1:48:37](https://www.youtube.com/watch?v=1qC2mwBgisM&t=6517s)]*
 
 > <sup>[1](/bible/sirach/44#v1)</sup> Let us now praise famous men, and our fathers that begat us.
->
+
+- Let us now praise famous men: men renowned for their power, giving counsel by their understanding and declaring prophecies. They used wisdom to give understanding, and their prophecy to you is that the time is short, so do not get caught slipping.
+
+- Leaders of the people by their counsel, wise and eloquent in their instructions, such as recited verses in writing. Rich men furnished with ability: rich in the word, as in Colossians 3, not in money.
+
+- These were honored in their generations and the glory of their time. We want to be the glory of this time, men whose name is spoken of as men of understanding, not men living in hypocrisy.
+
+- Some left a name behind; some have no memorial. That does not mean they did no mighty works. There are too many to name, like the 144,000 and the multitude no man can number, but these were merciful men whose righteousness is not forgotten by God.
+
+- Their seed remains a good inheritance and their children are within the covenant. Our legacy is our children continuing the mission when we are gone, breaking the generational curse instead of our granddaughters ending up twerking at the rodeo.
+
+- Their bodies are buried in peace, but their name liveth for evermore. The people will tell of their wisdom because they instructed the people without hypocrisy and deceit.
+
 > <sup>[2](/bible/sirach/44#v2)</sup> The Lord hath wrought great glory by them through his great power from the beginning.
 >
 > <sup>[3](/bible/sirach/44#v3)</sup> Such as did bear rule in their kingdoms, men renowned for their power, giving counsel by their understanding, and declaring prophecies:
@@ -460,18 +472,6 @@ tags: ["IUIC in the ClassRoom", "leadership", "money", "the-law", "the-word", "w
 > <sup>[14](/bible/sirach/44#v14)</sup> Their bodies are buried in peace; but their name liveth for evermore.
 >
 > <sup>[15](/bible/sirach/44#v15)</sup> The people will tell of their wisdom, and the congregation will shew forth their praise.
-
-- Let us now praise famous men: men renowned for their power, giving counsel by their understanding and declaring prophecies. They used wisdom to give understanding, and their prophecy to you is that the time is short, so do not get caught slipping.
-
-- Leaders of the people by their counsel, wise and eloquent in their instructions, such as recited verses in writing. Rich men furnished with ability: rich in the word, as in Colossians 3, not in money.
-
-- These were honored in their generations and the glory of their time. We want to be the glory of this time, men whose name is spoken of as men of understanding, not men living in hypocrisy.
-
-- Some left a name behind; some have no memorial. That does not mean they did no mighty works. There are too many to name, like the 144,000 and the multitude no man can number, but these were merciful men whose righteousness is not forgotten by God.
-
-- Their seed remains a good inheritance and their children are within the covenant. Our legacy is our children continuing the mission when we are gone, breaking the generational curse instead of our granddaughters ending up twerking at the rodeo.
-
-- Their bodies are buried in peace, but their name liveth for evermore. The people will tell of their wisdom because they instructed the people without hypocrisy and deceit.
 
 
 **[Sirach 44:16-23](/bible/sirach/44#v16)**  *[[1:53:21](https://www.youtube.com/watch?v=1qC2mwBgisM&t=6801s)]*

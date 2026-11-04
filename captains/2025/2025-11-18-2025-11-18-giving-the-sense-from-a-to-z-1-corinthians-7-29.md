@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 7:29"
 slug: "2025/2025-11-18-giving-the-sense-from-a-to-z-1-corinthians-7-29"
 date: "2025-11-18"
-teacher: "Captain Matt"
+teacher: "Captain Matthew"
 description: "Giving The Sense From A to Z · 2025-11-18"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "marriage-family", "women"]
@@ -71,10 +71,10 @@ tags: ["15 Minutes w/ The Captains", "marriage-family", "women"]
 **[Matthew 20:22-23](/bible/matthew/20#v22)**  *[[11:09](https://www.youtube.com/watch?v=RbO2eiX7Isc&t=669s)]*
 
 > <sup>[22](/bible/matthew/20#v22)</sup> But Jesus answered and said, Ye know not what ye ask. Are ye able to drink of the cup that I shall drink of, and to be baptized with the baptism that I am baptized with? They say unto him, We are able.
->
-> <sup>[23](/bible/matthew/20#v23)</sup> And he saith unto them, Ye shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: but to sit on my right hand, and on my left, is not mine to give, but it shall be given to them for whom it is prepared of my Father.
 
 - Are ye able to drink of the cup that I shall drink of: What was the cup that Christ had to drink from? Death. What was the baptism that he had to be baptized with? Death. Christ had to put his life on the line and die for his people. That's why he asked, “Okay, y'all want to sit on my right hand and on my left, but are you able to be baptized with the baptism that I'm baptized with? Are you able to drink from the cup that I shall drink from?” They said, just like many of us, “We are able.”
+
+> <sup>[23](/bible/matthew/20#v23)</sup> And he saith unto them, Ye shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: but to sit on my right hand, and on my left, is not mine to give, but it shall be given to them for whom it is prepared of my Father.
 
 - To sit on my right hand and on my left is not mine to give: So he said, look, I can't tell y'all that y'all are going to sit on my right hand or on my left, but what I can say is y'all are going to indeed drink of the cup that I'm going to drink of. Y'all are going to be baptized with the same baptism that I am baptized with. Meaning, you're going to have to go through the same things that Christ went through. And you can't do that if you can't let go of your wife at home. If it be the Lord's will, you'll make it back. But if not, then put your life on the line for the word of God. Put your life on the line for this gospel. This is what we called to do. This ain't no game. This is life and death. That's what this is for.
 
@@ -106,7 +106,9 @@ tags: ["15 Minutes w/ The Captains", "marriage-family", "women"]
 > <sup>[2](/bible/luke/16#v2)</sup> And he called him, and said unto him, How is it that I hear this of thee? give an account of thy stewardship; for thou mayest be no longer steward.
 >
 > <sup>[3](/bible/luke/16#v3)</sup> Then the steward said within himself, What shall I do? for my lord taketh away from me the stewardship: I cannot dig; to beg I am ashamed.
->
+
+- I cannot dig; to beg I am ashamed: So he was saying basically, look, I'm not fit to be out there on them streets. You know, I'm too weak to dig and I'm too ashamed to beg. Let's see what goes on.
+
 > <sup>[4](/bible/luke/16#v4)</sup> I am resolved what to do, that, when I am put out of the stewardship, they may receive me into their houses.
 >
 > <sup>[5](/bible/luke/16#v5)</sup> So he called every one of his lord’s debtors unto him, and said unto the first, How much owest thou unto my lord?
@@ -118,8 +120,6 @@ tags: ["15 Minutes w/ The Captains", "marriage-family", "women"]
 > <sup>[8](/bible/luke/16#v8)</sup> And the lord commended the unjust steward, because he had done wisely: for the children of this world are in their generation wiser than the children of light.
 >
 > <sup>[9](/bible/luke/16#v9)</sup> And I say unto you, Make to yourselves friends of the mammon of unrighteousness; that, when ye fail, they may receive you into everlasting habitations.
-
-- I cannot dig; to beg I am ashamed: So he was saying basically, look, I'm not fit to be out there on them streets. You know, I'm too weak to dig and I'm too ashamed to beg. Let's see what goes on.
 
 - Make to yourselves friends of the mammon of unrighteousness: So this is why you can't go around cursing everybody out. You can't go around cursing everybody out. This is not what the word of God is for. You bring the word of God to the people and pray that they repent. You're not supposed to go around. That's a lot of people, myself included. When I first came into the truth, it was like a kid with a gun. You was just going blasting, blasting, blasting, blasting. No, you're not supposed to do that.
 
@@ -204,24 +204,24 @@ tags: ["15 Minutes w/ The Captains", "marriage-family", "women"]
 **[1 Timothy 5:9-13](/bible/1-timothy/5#v9)**  *[[30:09](https://www.youtube.com/watch?v=RbO2eiX7Isc&t=1809s)]*
 
 > <sup>[9](/bible/1-timothy/5#v9)</sup> Let not a widow be taken into the number under threescore years old, having been the wife of one man,
->
-> <sup>[10](/bible/1-timothy/5#v10)</sup> Well reported of for good works; if she have brought up children, if she have lodged strangers, if she have washed the saints’ feet, if she have relieved the afflicted, if she have diligently followed every good work.
->
-> <sup>[11](/bible/1-timothy/5#v11)</sup> But the younger widows refuse: for when they have begun to wax wanton against Christ, they will marry;
->
-> <sup>[12](/bible/1-timothy/5#v12)</sup> Having damnation, because they have cast off their first faith.
->
-> <sup>[13](/bible/1-timothy/5#v13)</sup> And withal they learn to be idle, wandering about from house to house; and not only idle, but tattlers also and busybodies, speaking things which they ought not.
 
 - Let not a widow be taken into the number under threescore years old: So under threescore years old, you're not a widow indeed. That's 60 years old. Under 60, you still have the ability to go and get remarried, you know, get a job, take care of yourself. But above that, that's when you start to be taken care of by the people that are around you. Matter of fact, let me show you that, verse 4.
 
 - Let them learn first to shew piety at home: So the widows are supposed to be taken care of by their family members, those men in their family. If you got children or nephews, yes, you're supposed to take care of your auntie if she in this body and she's old and she's not able to take care of herself, if she's a widow. These are the things that, now, what would be wrong with teaching that? What would be wrong with showing that on the street, that we got to take care of the elders that are among us? And yet they call us a cult. And yet we don't know what we talking about. We're teaching hatred, but we're teaching to love your people and to take care of the widows. Jump down to verse 9 again.
 
+> <sup>[10](/bible/1-timothy/5#v10)</sup> Well reported of for good works; if she have brought up children, if she have lodged strangers, if she have washed the saints’ feet, if she have relieved the afflicted, if she have diligently followed every good work.
+
 - Well reported of for good works: That's why the widows are widows indeed, because not only are they above 60 years old, having been the wife of one man, they have a good report. They've been doing good works. You're not going to be a widow indeed and you've been around the club for the past 40 years. You one of them ladies in the ballroom and now you want people to take care of you. No, it's not how things work. Not biblically anyway.
+
+> <sup>[11](/bible/1-timothy/5#v11)</sup> But the younger widows refuse: for when they have begun to wax wanton against Christ, they will marry;
 
 - But the younger widows refuse: The younger widows refuse. Why? For when they have begun to wax wanton against Christ, they will marry. Wax wanton is they starting to get them urges. They starting to get them urges. They're a widow because their husband may have died, but they're still young enough to remarry. And that's what a lot of our sisters have to understand. When you're a certain age, yeah, you got to handle you. Once you get older, then all right, your family members, your nephews, and the church sometimes helps out. But other than that, when you young and of age, you have to be the one that's reading the Bible. When you start to wax wanton against, wax wanton is you're starting to get those urges that you don't want to be alone no more and you're going to marry again, which means you're going to be under the headship of somebody else. That's why I said those widows refuse.
 
+> <sup>[12](/bible/1-timothy/5#v12)</sup> Having damnation, because they have cast off their first faith.
+
 - Having damnation, because they have cast off their first faith: Their first faith is seeking to the Lord without distraction. You're going to get distracted if you're a young widow because you still young enough to go ahead and get it in. When you don't seek to the Lord without distraction, this is what happens. You start to cast off your first love.
+
+> <sup>[13](/bible/1-timothy/5#v13)</sup> And withal they learn to be idle, wandering about from house to house; and not only idle, but tattlers also and busybodies, speaking things which they ought not.
 
 - They learn to be idle, wandering about from house to house: That's why when you're unmarried, you have to care for the things of the Lord. You got to be busy. You cannot be idle because idleness teaches evil. And with women, it teaches a bunch of gossip and, you know, you in everybody business. You can't keep your mouth shut. You have to learn to attend upon the Lord without distraction.
 
@@ -280,12 +280,12 @@ tags: ["15 Minutes w/ The Captains", "marriage-family", "women"]
 **[Sirach 7:25-26](/bible/sirach/7#v25)**  *[[41:56](https://www.youtube.com/watch?v=RbO2eiX7Isc&t=2516s)]*
 
 > <sup>[25](/bible/sirach/7#v25)</sup> Marry thy daughter, and so shalt thou have performed a weighty matter: but give her to a man of understanding.
->
-> <sup>[26](/bible/sirach/7#v26)</sup> Hast thou a wife after thy mind? forsake her not: but give not thyself over to a light woman.
 
 - Marry thy daughter, and so shalt thou have performed a weighty matter: Why is it a weighty matter? Because look at what we just read. Men that have wives be as though they had none. Those that have wives, you got to care for the things of the world that you may please your wife. There's also a balance when it comes to the work of the Lord and the work inside of your house. If a man wants to betroth a woman but doesn't want to consummate the marriage until he feels like consummating the marriage, he didn't do anything wrong. There's no sin in that. All of that is a weighty matter. That's why he said when you marry your daughter off, that's a weighty matter.
 
 - But give her to a man of understanding: Give her to a man that you know is going to keep the commandments of God. And how you going to do that? Matter of fact, let's keep on reading.
+
+> <sup>[26](/bible/sirach/7#v26)</sup> Hast thou a wife after thy mind? forsake her not: but give not thyself over to a light woman.
 
 - Hast thou a wife after thy mind? forsake her not: So when you're picking, oh, you shouldn't be picking. Your father should pick or your leaders should pick for you. That's just plain and simple. That's just a shotgun blast for anybody listening. Your leaders or your father should pick your spouse. Period. They know better. If you think that they are spiritual men guided by the Most High God, you'll trust their judgment. But if you don't, you're not going to listen. So hast thou a wife after thy mind? Forsake her not. If you find a woman that thinks just like you, don't forsake her. Why? Because y'all are going to be on the same page, which is going to help. Hold that. Jump on over to Sirach chapter 25 and verse 1. If you have a wife after your mind, this is going to help establish this scripture right here.
 
@@ -347,10 +347,6 @@ tags: ["15 Minutes w/ The Captains", "marriage-family", "women"]
 **[Titus 2:3-5](/bible/titus/2#v3)**  *[[51:35](https://www.youtube.com/watch?v=RbO2eiX7Isc&t=3095s)]*
 
 > <sup>[3](/bible/titus/2#v3)</sup> The aged women likewise, that they be in behaviour as becometh holiness, not false accusers, not given to much wine, teachers of good things;
->
-> <sup>[4](/bible/titus/2#v4)</sup> That they may teach the young women to be sober, to love their husbands, to love their children,
->
-> <sup>[5](/bible/titus/2#v5)</sup> To be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed.
 
 - Teachers of good things: Because sometimes there needs to be another woman to tell a sister, sis, you not in the spirit. You tripping. “He came inside from work and I was dealing with the kids all day and he was mad because I didn't have dinner prepared. Now, was I wrong?” The aged woman should say, “Hell yeah, you was wrong. You should have had that man dinner prepared when he came in the door. What the hell wrong with you?”
 
@@ -358,9 +354,13 @@ tags: ["15 Minutes w/ The Captains", "marriage-family", "women"]
 
 - So when you're teaching these women that, you also got to bring that up, too. Cuz a lot of times our sisters tend to want this equality thing when it comes to responsibility. No, you don't have the same responsibility. So you don't receive the same perks. Yes, y'all got to breastfeed. Yes, y'all got to push the baby out. That ain't on us. That ain't how we was made. We was made to put the baby in you. We was made to go out and handle the world. We was made to fight everything to protect you. That's just what it is.
 
+> <sup>[4](/bible/titus/2#v4)</sup> That they may teach the young women to be sober, to love their husbands, to love their children,
+
 - To love their husbands: Our sisters have to be taught how to love their husbands. It doesn't come natural. It doesn't come natural. That's why there's this big divide online, what they call the gender wars, because now men are speaking up and starting to become wise to the games and the gimmicks that a lot of women have played over the years and decades. It is what it is. Brothers are starting to wise up, and now because of how things are, very little value was placed on marriage. Very little value was placed on being faithful. Very little value was placed on serving a husband. Very little value was placed on a man being in the house and taking care of things and making sure that his family is straight. Very little value was placed on that because of things that are going on in this world.
 
 - To love their children: So that they got to be sober, to love their husbands, to love their children. You have to be taught how to love your kids. I remember I was talking to this young sister. She had a daughter. She said, “Oh, I love my daughter. I love my daughter.” And I said, “Okay, does your daughter have a boyfriend?” She said, “Yes.” I said, “So, how do you love your daughter if you know she got a boyfriend and you know for a fact what little boys in their teenage years are trying to do? You know what they trying to do to your daughter and you still allow it to happen. You allow them to go out on dates. You allow them to hang together. You allow them to be on the phone all hours of the night. She got her own cell phone. They probably sexting each other, sending inappropriate pictures to one another. And you know that that stuff is possible, but you will still allow her to do it.” Oh well, cuz if I don't, then she going to find a way to do it anyway. No, she's not. Not if you put the fear of the Lord in her. And if she do, rebuke her behind. Foolishness is bound in the heart of a child. You got to remember these things. Just because Satan is alive and well and kicking and in everybody business and everybody life, he's doing his job. Let's do our job and teach our kids about what's out there. Don't hide it from them.
+
+> <sup>[5](/bible/titus/2#v5)</sup> To be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed.
 
 - To be discreet: Discreet means to yourself. You ain't got to be out there loud and boisterous like all of these other girls with your tongue hanging out.
 

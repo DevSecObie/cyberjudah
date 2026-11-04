@@ -2,7 +2,7 @@
 title: "Chronic Procrastination"
 slug: "2026/2026-03-27-chronic-procrastination"
 date: "2026-03-27"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "15 Minutes w/ The Captains · 2026-03-27"
 tags: ["15 Minutes w/ The Captains", "heaven-hell", "mental-health", "money"]
 ---
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "mental-health", "money"]
 
 ## Introduction
 
-*[[0:14](https://www.youtube.com/watch?v=Y6huD-Z1Mrw&t=14s)]* Today you got Captain Emmanuel and we talking about chronic procrastination. It is going to cut a lot of us. It is what it is.
+*[[0:14](https://www.youtube.com/watch?v=Y6huD-Z1Mrw&t=14s)]* Today you got Captain Immanuel and we talking about chronic procrastination. It is going to cut a lot of us. It is what it is.
 
 ## Scriptures Opened
 
@@ -68,29 +68,29 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "mental-health", "money"]
 
 **[Matthew 25:24-28](/bible/matthew/25#v24)**  *[[8:09](https://www.youtube.com/watch?v=Y6huD-Z1Mrw&t=489s)]*
 
-> <sup>[24](/bible/matthew/25#v24)</sup> Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed:
->
-> <sup>[25](/bible/matthew/25#v25)</sup> And I was afraid, and went and hid thy talent in the earth: lo, there thou hast that is thine.
->
-> <sup>[26](/bible/matthew/25#v26)</sup> His lord answered and said unto him, Thou wicked and slothful servant, thou knewest that I reap where I sowed not, and gather where I have not strawed:
->
-> <sup>[27](/bible/matthew/25#v27)</sup> Thou oughtest therefore to have put my money to the exchangers, and then at my coming I should have received mine own with usury.
->
-> <sup>[28](/bible/matthew/25#v28)</sup> Take therefore the talent from him, and give it unto him which hath ten talents.
-
 - Emotional avoidance or perfectionism. Let's see what the Lord said to the perfectionist.
+
+> <sup>[24](/bible/matthew/25#v24)</sup> Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed:
 
 - Then he which had received the one talent came: so the Lord gave him a talent for him to do something with it. By the time he returned, it needed to be something done with that talent.
 
 - Lord, I knew thee that thou art an hard man: so what is he doing? He coming with emotions. I felt like you hard. Like, you all stern. You don't play, Lord.
 
+> <sup>[25](/bible/matthew/25#v25)</sup> And I was afraid, and went and hid thy talent in the earth: lo, there thou hast that is thine.
+
 - And I was afraid: that's how you see it's emotional. I was scared. I was afraid.
 
 - And went and hid thy talent in the earth: I ain't want to mess it up. I ain't want to make a mistake. I ain't want to ruin the talent. So I made sure I hid it so that nothing happened to it. That's perfectionism. But it's really emotional avoidance. I was afraid.
 
+> <sup>[26](/bible/matthew/25#v26)</sup> His lord answered and said unto him, Thou wicked and slothful servant, thou knewest that I reap where I sowed not, and gather where I have not strawed:
+
 - Thou wicked and slothful servant: he don't give a damn about your emotions. Hell no. The Lord don't give a damn about your perfectionism. The hell, you wicked and you slothful.
 
+> <sup>[27](/bible/matthew/25#v27)</sup> Thou oughtest therefore to have put my money to the exchangers, and then at my coming I should have received mine own with usury.
+
 - Thou oughtest therefore to have put my money to the exchangers: so if you was afraid of how hard I am, for real for real, you would have at least put my money or my talent somewhere where it would have built interest. You won't just let it sit under a rock.
+
+> <sup>[28](/bible/matthew/25#v28)</sup> Take therefore the talent from him, and give it unto him which hath ten talents.
 
 - Take therefore the talent from him: so the talent was taken away from him, and that could be you, if you keep playing with chronic procrastination.
 
@@ -128,21 +128,21 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "mental-health", "money"]
 
 **[James 1:5-7](/bible/james/1#v5)**  *[[13:15](https://www.youtube.com/watch?v=Y6huD-Z1Mrw&t=795s)]*
 
-> <sup>[5](/bible/james/1#v5)</sup> If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
->
-> <sup>[6](/bible/james/1#v6)</sup> But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.
->
-> <sup>[7](/bible/james/1#v7)</sup> For let not that man think that he shall receive any thing of the Lord.
-
 - The wealth of wisdom that we got dealing with the leaders: the wisdom that come down through the bishops, deacons, and it flows through the captains, the officers, to pour throughout the members of the congregation. There are no excuses. The Bible is the book of life, and it is able to make wise the simple. It's able to convert whatever it is you lack into a strength. But there's work that you must do. And it starts here.
+
+> <sup>[5](/bible/james/1#v5)</sup> If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
 
 - If any of you lack wisdom, let him ask of God: so whatever you lack, go to God about it. I just can't. Okay, have you prayed for the Lord to turn your can't into can? Have you done that?
 
 - And it shall be given him: the Lord ain't got no problem giving you what you lack.
 
+> <sup>[6](/bible/james/1#v6)</sup> But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.
+
 - But let him ask in faith, nothing wavering: nah, cuz my whole life I ain't ever been able to... Shut up. Ain't you a new creature in Christ? Stop talking about when I was in the world. When the spirit come on you, you turn into another man. You turn into another woman. You don't believe that? Stop wavering.
 
 - For he that wavereth is like a wave of the sea: that's why you talk a good game. Oh yeah, I'm a do this and that. And then when it's the accountability check: man, I can't do nothing like that. He ain't lying.
+
+> <sup>[7](/bible/james/1#v7)</sup> For let not that man think that he shall receive any thing of the Lord.
 
 - For let not that man think that he shall receive any thing of the Lord: he ain't finna give you nothing. The Lord ain't finna improve you, cuz you don't want to improve your damn self.
 
@@ -176,18 +176,18 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "mental-health", "money"]
 > <sup>[30](/bible/proverbs/24#v30)</sup> I went by the field of the slothful, and by the vineyard of the man void of understanding;
 >
 > <sup>[31](/bible/proverbs/24#v31)</sup> And, lo, it was all grown over with thorns, and nettles had covered the face thereof, and the stone wall thereof was broken down.
->
-> <sup>[32](/bible/proverbs/24#v32)</sup> Then I saw, and considered it well: I looked upon it, and received instruction.
->
-> <sup>[33](/bible/proverbs/24#v33)</sup> Yet a little sleep, a little slumber, a little folding of the hands to sleep:
->
-> <sup>[34](/bible/proverbs/24#v34)</sup> So shall thy poverty come as one that travelleth; and thy want as an armed man.
 
 - And, lo, it was all grown over with thorns: you got to think, real estate is a value that is supposed to be impossible to depreciate. Why? Because the amount of land that's here is here. More and more people are being born, but land ain't being born. So the demand for land only gets higher as more people are born. So real estate, land, is never supposed to depreciate. But this slothful, lazy person that all they do is procrastinate, their land has depreciated in value, cuz they ain't did a damn thing with it.
 
+> <sup>[32](/bible/proverbs/24#v32)</sup> Then I saw, and considered it well: I looked upon it, and received instruction.
+
 - I looked upon it, and received instruction: that's what you brothers and sisters got to learn from, cuz a lot of mamas, aunties, uncles, that's what we witnessed growing up. The dead-end jobs, the BSing, talking about doing this and this and that, but you were in the same damn neighborhood all your damn life. Never moved on up. That should have instructed you, and now you got the scriptures, you supposed to multiply that times 10.
 
+> <sup>[33](/bible/proverbs/24#v33)</sup> Yet a little sleep, a little slumber, a little folding of the hands to sleep:
+
 - Yet a little sleep, a little slumber, a little folding of the hands to sleep: what is that? Procrastination.
+
+> <sup>[34](/bible/proverbs/24#v34)</sup> So shall thy poverty come as one that travelleth; and thy want as an armed man.
 
 - So shall thy poverty come as one that travelleth: you ain't going to have a damn thing. As a matter of fact, you're going to lose the little that you do got. Like the brother with one talent that was BSing.
 

@@ -108,19 +108,19 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "prayer"]
 
 **[Psalms 32:2-5](/bible/psalms/32#v2)**  *[[13:23](https://www.youtube.com/watch?v=P-O7dOeQECE&t=803s)]*
 
+- Blessed: It says what? It says blessed. Is a blessing a good thing or a bad thing? A blessing is a good thing. So, guess what? Blessings are for good people. You get it? Blessings are for good people. What is good? God's laws. Read the Bible again. Watch this.
+
 > <sup>[2](/bible/psalms/32#v2)</sup> Blessed is the man unto whom the Lord imputeth not iniquity, and in whose spirit there is no guile.
->
+
+- Blessed is the man unto whom the Lord imputeth not iniquity: See that? The Bible says blessed. So, you're blessed if God does not hold you guilty of your sins. That impute is going into charging you with that. Okay? It says imputeth not. Meaning what? He not holding you accountable for your sins. That means you're blessed. Meaning what? That means you forgave, you acknowledge your sins, and in return the Lord said, "All right, I'mma bless you and forgive you for your sins." Wow!
+
+- And in whose spirit there is no guile: And in whose spirit there is no guile, no deceit. Okay? You're not up here faking the funk, trying to look righteous, but you ain't. You understand? You ain't doing none of those things.
+
 > <sup>[3](/bible/psalms/32#v3)</sup> When I kept silence, my bones waxed old through my roaring all the day long.
 >
 > <sup>[4](/bible/psalms/32#v4)</sup> For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah.
 >
 > <sup>[5](/bible/psalms/32#v5)</sup> I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the Lord; and thou forgavest the iniquity of my sin. Selah.
-
-- Blessed: It says what? It says blessed. Is a blessing a good thing or a bad thing? A blessing is a good thing. So, guess what? Blessings are for good people. You get it? Blessings are for good people. What is good? God's laws. Read the Bible again. Watch this.
-
-- Blessed is the man unto whom the Lord imputeth not iniquity: See that? The Bible says blessed. So, you're blessed if God does not hold you guilty of your sins. That impute is going into charging you with that. Okay? It says imputeth not. Meaning what? He not holding you accountable for your sins. That means you're blessed. Meaning what? That means you forgave, you acknowledge your sins, and in return the Lord said, "All right, I'mma bless you and forgive you for your sins." Wow!
-
-- And in whose spirit there is no guile: And in whose spirit there is no guile, no deceit. Okay? You're not up here faking the funk, trying to look righteous, but you ain't. You understand? You ain't doing none of those things.
 
 - I acknowledged my sin: Did what? I acknowledge my sin unto brothers and sisters. We got to acknowledge our sin. You understand? We got to be real. The Lord is looking for a genuine spirits, honest, sincere. So, we got to be able to acknowledge our sin and not roll in the spirit of guile and deceit. Looking a certain way, but you're not it.
 
@@ -191,12 +191,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "prayer"]
 **[Luke 11:5-7](/bible/luke/11#v5)**  *[[23:16](https://www.youtube.com/watch?v=P-O7dOeQECE&t=1396s)]*
 
 > <sup>[5](/bible/luke/11#v5)</sup> And he said unto them, Which of you shall have a friend, and shall go unto him at midnight, and say unto him, Friend, lend me three loaves;
->
+
+- Friend, lend me three loaves: Right, so it says, all right, you got a friend, okay? You got a friend. It's late, wee hours of the morning. And you say, "Hey, I need three loaves of bread, man. I ain't got nothing. I got somebody coming in town. I need you to look out for me."
+
 > <sup>[6](/bible/luke/11#v6)</sup> For a friend of mine in his journey is come to me, and I have nothing to set before him?
 >
 > <sup>[7](/bible/luke/11#v7)</sup> And he from within shall answer and say, Trouble me not: the door is now shut, and my children are with me in bed; I cannot rise and give thee.
-
-- Friend, lend me three loaves: Right, so it says, all right, you got a friend, okay? You got a friend. It's late, wee hours of the morning. And you say, "Hey, I need three loaves of bread, man. I ain't got nothing. I got somebody coming in town. I need you to look out for me."
 
 - Trouble me not: the door is now shut: Right, so your friend said, "Bro, you see how late it is, man? My kids is sleep. Are you crazy?"
 
@@ -274,10 +274,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "prayer"]
 **[Luke 12:36-37](/bible/luke/12#v36)**  *[[31:43](https://www.youtube.com/watch?v=P-O7dOeQECE&t=1903s)]*
 
 > <sup>[36](/bible/luke/12#v36)</sup> And ye yourselves like unto men that wait for their lord, when he will return from the wedding; that when he cometh and knocketh, they may open unto him immediately.
->
-> <sup>[37](/bible/luke/12#v37)</sup> Blessed are those servants, whom the lord when he cometh shall find watching: verily I say unto you, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them.
 
 - Like unto men that wait for their lord: That do what? That wait for their Lord. That's the key. We got to be patient. All right? Pray according to his will, believing that he'll do what? That he'll answer our prayers.
+
+> <sup>[37](/bible/luke/12#v37)</sup> Blessed are those servants, whom the lord when he cometh shall find watching: verily I say unto you, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them.
 
 - He shall gird himself, and make them to sit down to meat, and will come forth and serve them: Right. That's a fitting one to close off on. So, the Lord is saying, "Hey, during this time, all right?" Because we will get to see our friend again, but in person. You understand? All we got to do is wait for... I mean, what? Stay in God's commandments. Hold fast till he come. All right? And we'll get to sup with our Lord and Savior, Jesus the Christ. And guess what? He is going to avenge us of our enemies.
 

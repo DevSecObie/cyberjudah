@@ -155,42 +155,50 @@ Reading from an article on Anna Paulina Luna  *[[13:04](https://www.youtube.com/
 **[Isaiah 30:9-13](/bible/isaiah/30#v9)**  *[[30:25](https://www.youtube.com/watch?v=o6lTUvedO-s&t=1825s)]*
 
 > <sup>[9](/bible/isaiah/30#v9)</sup> That this is a rebellious people, lying children, children that will not hear the law of the Lord:
->
+
+- This is a rebellious people, lying children: our people are rebellious; we don't want to follow the laws of the Lord. It seems like we're in competition with Esau: God called him the father of lies, but now our people are subdued in lies, ignorantly and also willfully.
+
 > <sup>[10](/bible/isaiah/30#v10)</sup> Which say to the seers, See not; and to the prophets, Prophesy not unto us right things, speak unto us smooth things, prophesy deceits:
->
+
+- Which say to the seers, See not: don't they say that to us every Sabbath day? Just like the young lady on the podcast: don't prophesy unto us right things about Deuteronomy 28.
+
+- Speak unto us smooth things, prophesy deceits: the laws are done away with; we don't have to keep the laws of God as long as we believe in Christ; it doesn't matter what color Christ is; there's nothing wrong with the chitlins, the pork, the shrimp, as long as you pray over it. That's Christianity for you: smooth lies.
+
 > <sup>[11](/bible/isaiah/30#v11)</sup> Get you out of the way, turn aside out of the path, cause the Holy One of Israel to cease from before us.
 >
 > <sup>[12](/bible/isaiah/30#v12)</sup> Wherefore thus saith the Holy One of Israel, Because ye despise this word, and trust in oppression and perverseness, and stay thereon:
->
-> <sup>[13](/bible/isaiah/30#v13)</sup> Therefore this iniquity shall be to you as a breach ready to fall, swelling out in a high wall, whose breaking cometh suddenly at an instant.
 
-- This is a rebellious people, lying children: our people are rebellious; we don't want to follow the laws of the Lord. It seems like we're in competition with Esau: God called him the father of lies, but now our people are subdued in lies, ignorantly and also willfully.
-- Which say to the seers, See not: don't they say that to us every Sabbath day? Just like the young lady on the podcast: don't prophesy unto us right things about Deuteronomy 28.
-- Speak unto us smooth things, prophesy deceits: the laws are done away with; we don't have to keep the laws of God as long as we believe in Christ; it doesn't matter what color Christ is; there's nothing wrong with the chitlins, the pork, the shrimp, as long as you pray over it. That's Christianity for you: smooth lies.
 - Because ye despise this word, and trust in oppression: trust in Esau, in the so-called white man's doctrines and philosophies, everything that comes out of the mouth of Babylon. Therefore this iniquity shall be to you as a breach ready to fall: you're going to die in your sins; he's going to give you up to your own delusions, and the breaking cometh suddenly at an instant.
+
+> <sup>[13](/bible/isaiah/30#v13)</sup> Therefore this iniquity shall be to you as a breach ready to fall, swelling out in a high wall, whose breaking cometh suddenly at an instant.
 
 **[Jeremiah 5:30-31](/bible/jeremiah/5#v30)**  *[[33:28](https://www.youtube.com/watch?v=o6lTUvedO-s&t=2008s)]*
 
 > <sup>[30](/bible/jeremiah/5#v30)</sup> A wonderful and horrible thing is committed in the land;
->
-> <sup>[31](/bible/jeremiah/5#v31)</sup> The prophets prophesy falsely, and the priests bear rule by their means; and my people love to have it so: and what will ye do in the end thereof?
 
 - A wonderful and horrible thing is committed in the land: the prophets prophesy falsely, and the priests bear rule by their means. In Jeremiah's time that was the prophets of our people, but bring it up to today prophetically: we have black pastors and priests prophesying lies to our people in these different churches. And who did they learn from? They went to the seminaries, the cemetery schools, to learn their theology from the so-called white man.
+
 - And my people love to have it so. That's what we just saw in the video with the apologist talking points, and now different black pastors are saying the chariots are demons and fallen angels. Whatever Esau utters, they repeat; they love the lies.
+
 - And what will ye do in the end thereof? There is nothing you can do but face the judgment when you are cast into that lake of fire.
+
+> <sup>[31](/bible/jeremiah/5#v31)</sup> The prophets prophesy falsely, and the priests bear rule by their means; and my people love to have it so: and what will ye do in the end thereof?
 
 **[Revelation 14:8-10](/bible/revelation/14#v8)**  *[[35:20](https://www.youtube.com/watch?v=o6lTUvedO-s&t=2120s)]*
 
 > <sup>[8](/bible/revelation/14#v8)</sup> And there followed another angel, saying, Babylon is fallen, is fallen, that great city, because she made all nations drink of the wine of the wrath of her fornication.
->
-> <sup>[9](/bible/revelation/14#v9)</sup> And the third angel followed them, saying with a loud voice, If any man worship the beast and his image, and receive his mark in his forehead, or in his hand,
->
-> <sup>[10](/bible/revelation/14#v10)</sup> The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb:
 
 - Babylon is fallen, is fallen, that great city: that's America, Babylon the great. She made all nations drink of the wine of the wrath of her fornication: with her policies, and her policies are orchestrated through communication, that great voice, that veil that covers the face of the whole earth.
+
+> <sup>[9](/bible/revelation/14#v9)</sup> And the third angel followed them, saying with a loud voice, If any man worship the beast and his image, and receive his mark in his forehead, or in his hand,
+
 - If any man worship the beast and his image: the image of the beast is Cesare Borgia, the white image of Jesus the Christ. And receive his mark in his forehead: it's in your mind. Or in his hand: you support it; that's what you use your hands for, to work in support of the system.
+
 - The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation. When you drink strong drink you might dilute it with water or chase it with juice; the Most High said no, you're going to drink the dregs of this cup at full strength, meaning you're going to reap the judgments in full. He isn't chasing anything and he isn't mixing anything.
+
 - And he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb. That's not only talking about the nations; that includes the two thirds of our people who continue in his mark, who support this system, who refuse to repent.
+
+> <sup>[10](/bible/revelation/14#v10)</sup> The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb:
 
 **[Revelation 16:13-14](/bible/revelation/16#v13)**  *[[38:49](https://www.youtube.com/watch?v=o6lTUvedO-s&t=2329s)]*
 
@@ -224,14 +232,15 @@ Reading from an article on Anna Paulina Luna  *[[13:04](https://www.youtube.com/
 
 **[2 Thessalonians 2:10-12](/bible/2-thessalonians/2#v10)**  *[[53:54](https://www.youtube.com/watch?v=o6lTUvedO-s&t=3234s)]*
 
+- Because they received not the love of the truth, that they might be saved, for this cause God shall send them strong delusion. Your strong delusion could be the apologists; your strong delusion is your device, because you don't want to study. Now you're confused: maybe Deuteronomy 28 doesn't belong to me.
+
 > <sup>[10](/bible/2-thessalonians/2#v10)</sup> And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved.
 >
 > <sup>[11](/bible/2-thessalonians/2#v11)</sup> And for this cause God shall send them strong delusion, that they should believe a lie:
->
-> <sup>[12](/bible/2-thessalonians/2#v12)</sup> That they all might be damned who believed not the truth, but had pleasure in unrighteousness.
 
-- Because they received not the love of the truth, that they might be saved, for this cause God shall send them strong delusion. Your strong delusion could be the apologists; your strong delusion is your device, because you don't want to study. Now you're confused: maybe Deuteronomy 28 doesn't belong to me.
 - That they should believe a lie: the white man's communication, which is lies. That they all might be damned who believed not the truth, but had pleasure in unrighteousness. You might say, I thought God wanted to save all Israel. He would like to, but two thirds don't want to repent.
+
+> <sup>[12](/bible/2-thessalonians/2#v12)</sup> That they all might be damned who believed not the truth, but had pleasure in unrighteousness.
 
 **[Revelation 18:23](/bible/revelation/18#v23)**  *[[55:36](https://www.youtube.com/watch?v=o6lTUvedO-s&t=3336s)]*
 
@@ -245,21 +254,25 @@ Reading from an article on Anna Paulina Luna  *[[13:04](https://www.youtube.com/
 **[Revelation 17:1-2](/bible/revelation/17#v1)**  *[[57:49](https://www.youtube.com/watch?v=o6lTUvedO-s&t=3469s)]*
 
 > <sup>[1](/bible/revelation/17#v1)</sup> And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters:
->
-> <sup>[2](/bible/revelation/17#v2)</sup> With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication.
 
 - The judgment of the great whore that sitteth upon many waters: that's America, and the waters are nations.
+
 - The kings of the earth have committed fornication with America because they accept America's policies and lies. You ever wonder why no nation on this earth stands up on their platforms and lets it be known globally that the so-called Negroes, Hispanics, and Native Indians are the twelve tribes of Israel? The Chinese aren't doing it; they know who was being enslaved in southern China and who the Israelites were during the Silk Road slave trade. Japan isn't doing it; India isn't doing it; Iran, Iraq, Turkey aren't doing it; the Hamites in Africa aren't doing it. No nation is standing up, because they're all in cahoots with America, laying in one bed fornicating.
+
+> <sup>[2](/bible/revelation/17#v2)</sup> With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication.
+
 - The inhabitants of the earth have been made drunk with the wine of her fornication: that wine is lies, and they love it; they walk around drunk on it.
 
 **[2 Corinthians 4:3-4](/bible/2-corinthians/4#v3)**  *[[1:00:18](https://www.youtube.com/watch?v=o6lTUvedO-s&t=3618s)]*
 
+- It's a war of the mind, brothers. It hasn't become physical yet; right now it's a spiritual battle, a battle for our minds.
+
 > <sup>[3](/bible/2-corinthians/4#v3)</sup> But if our gospel be hid, it is hid to them that are lost:
->
+
+- If our gospel be hid, it is hid to them that are lost: the truth of who we are has been out there for some time now, on every social media platform. The notion that we're the Israelites is out there. There's no excuse.
+
 > <sup>[4](/bible/2-corinthians/4#v4)</sup> In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them.
 
-- It's a war of the mind, brothers. It hasn't become physical yet; right now it's a spiritual battle, a battle for our minds.
-- If our gospel be hid, it is hid to them that are lost: the truth of who we are has been out there for some time now, on every social media platform. The notion that we're the Israelites is out there. There's no excuse.
 - The god of this world hath blinded the minds of them which believe not: the god of this world is Satan, Esau, the so-called white man, blinding minds through his sorcery and communication, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them. They're trying to block that light like the cherub with the flaming sword blocking the way into the garden; blocking it not physically but with lies, with deceit, with religion, with politics.
 
 **[Ephesians 6:12](/bible/ephesians/6#v12)**  *[[1:02:24](https://www.youtube.com/watch?v=o6lTUvedO-s&t=3744s)]*
@@ -272,11 +285,13 @@ Reading from an article on Anna Paulina Luna  *[[13:04](https://www.youtube.com/
 **[Romans 12:1-2](/bible/romans/12#v1)**  *[[1:04:26](https://www.youtube.com/watch?v=o6lTUvedO-s&t=3866s)]*
 
 > <sup>[1](/bible/romans/12#v1)</sup> I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.
->
-> <sup>[2](/bible/romans/12#v2)</sup> And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.
 
 - Present your bodies a living sacrifice: sacrifice the lusts that feed our flesh. It also goes into some of us actually being put to death: take up your cross, take up your death for Christ like he did for us. It is our reasonable service because he did it for us.
+
+> <sup>[2](/bible/romans/12#v2)</sup> And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.
+
 - Be not conformed to this world: the war of the mind; don't let somebody change your mind. But be ye transformed by the renewing of your mind. What renews our mind? God's laws.
+
 - That ye may prove what is that good, and acceptable, and perfect will of God: Psalms 19:7 tells you God's law is perfect. We are imperfect trying to get perfect, and we can only obtain that through the keeping of God's laws and the faith and blood of his Son.
 
 **[Ezekiel 1:13](/bible/ezekiel/1#v13)**  *[[1:09:12](https://www.youtube.com/watch?v=o6lTUvedO-s&t=4152s)]*
@@ -334,10 +349,11 @@ Reading from an article on Clark McClelland  *[[1:12:05](https://www.youtube.com
 **[2 Esdras 13:29-30](/bible/2-esdras/13#v29)**  *[[1:18:30](https://www.youtube.com/watch?v=o6lTUvedO-s&t=4710s)]*
 
 > <sup>[29](/bible/2-esdras/13#v29)</sup> Behold, the days come, when the most High will begin to deliver them that are upon the earth.
->
-> <sup>[30](/bible/2-esdras/13#v30)</sup> And he shall come to the astonishment of them that dwell on the earth.
 
 - Behold, the days come when the Most High will begin to deliver them that are upon the earth: that's the twelve tribes of Israel that repent, that endure to the end through all of this media propaganda and persuasion, that don't deny our Lord and Saviour when the heat gets turned up on us.
+
+> <sup>[30](/bible/2-esdras/13#v30)</sup> And he shall come to the astonishment of them that dwell on the earth.
+
 - And he shall come to the astonishment of them that dwell on the earth: to the carnal man all of this sounds crazy, but he is going to come back to the astonishment of those that don't believe. All of this is being revealed in the last days for a reason. Esau had our book before we were able to look at it, comprehend it, and understand it; we thought it was sci-fi entertainment, but it's actually the things that shall come to pass. Now we have the scriptures to back up the history, the photos, and the articles.
 
 <div class="reading">
@@ -383,7 +399,11 @@ Reading from an AI summary of Norman Bergrun's claims  *[[1:20:43](https://www.y
 **[Genesis 5:1-32](/bible/genesis/5#v1)**  *[[1:25:40](https://www.youtube.com/watch?v=o6lTUvedO-s&t=5140s)]*
 
 > <sup>[1](/bible/genesis/5#v1)</sup> This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;
->
+
+- This is the book of the generations of Adam: Adam begat a son in his own likeness, after his image. Adam was called the son of God, so his son was made in his image, meaning a son of God as well.
+
+- The chapter abbreviates to one named son in each generation for a reason: it is tracing the line of the sons of God, from Seth through Enos, Cainan, Mahalaleel, Jared, Enoch, Methuselah, Lamech, and Noah.
+
 > <sup>[2](/bible/genesis/5#v2)</sup> Male and female created he them; and blessed them, and called their name Adam, in the day when they were created.
 >
 > <sup>[3](/bible/genesis/5#v3)</sup> And Adam lived an hundred and thirty years, and begat a son in his own likeness, after his image; and called his name Seth:
@@ -429,7 +449,9 @@ Reading from an AI summary of Norman Bergrun's claims  *[[1:20:43](https://www.y
 > <sup>[23](/bible/genesis/5#v23)</sup> And all the days of Enoch were three hundred sixty and five years:
 >
 > <sup>[24](/bible/genesis/5#v24)</sup> And Enoch walked with God: and he was not; for God took him.
->
+
+- Enoch walked with God, and he was not, for God took him: God took him up in a chariot; he did not die like normal mortals die.
+
 > <sup>[25](/bible/genesis/5#v25)</sup> And Methuselah lived an hundred eighty and seven years, and begat Lamech:
 >
 > <sup>[26](/bible/genesis/5#v26)</sup> And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters:
@@ -446,23 +468,22 @@ Reading from an AI summary of Norman Bergrun's claims  *[[1:20:43](https://www.y
 >
 > <sup>[32](/bible/genesis/5#v32)</sup> And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth.
 
-- This is the book of the generations of Adam: Adam begat a son in his own likeness, after his image. Adam was called the son of God, so his son was made in his image, meaning a son of God as well.
-- The chapter abbreviates to one named son in each generation for a reason: it is tracing the line of the sons of God, from Seth through Enos, Cainan, Mahalaleel, Jared, Enoch, Methuselah, Lamech, and Noah.
-- Enoch walked with God, and he was not, for God took him: God took him up in a chariot; he did not die like normal mortals die.
-
 **[Genesis 6:1-4](/bible/genesis/6#v1)**  *[[1:30:02](https://www.youtube.com/watch?v=o6lTUvedO-s&t=5402s)]*
 
 > <sup>[1](/bible/genesis/6#v1)</sup> And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,
 >
 > <sup>[2](/bible/genesis/6#v2)</sup> That the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose.
->
-> <sup>[3](/bible/genesis/6#v3)</sup> And the Lord said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years.
->
-> <sup>[4](/bible/genesis/6#v4)</sup> There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown.
 
 - The sons of God saw the daughters of men: the sons of God are the lineage that was just traced in Genesis 5, and the daughters of men are the daughters of the other nations. These sons of God are not literal angels; the previous chapter elaborates and gives you the understanding.
+
+> <sup>[3](/bible/genesis/6#v3)</sup> And the Lord said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years.
+
 - My spirit shall not always strive with man, for that he also is flesh: flesh, men, not angels.
+
+> <sup>[4](/bible/genesis/6#v4)</sup> There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown.
+
 - There were giants in the earth in those days: because the sons of God, who had that DNA from being made in the image of God, took wives of the other nations, which was forbidden. The same became mighty men which were of old, men of renown. Remember that phrase, of old; Jude uses the same words.
+
 - After the Most High sent the flood, those same spirits came right back through the three sons, Shem, Ham, and Japheth. There is no new thing under the sun.
 
   Precepts:
@@ -502,21 +523,21 @@ Reading from an AI summary of Norman Bergrun's claims  *[[1:20:43](https://www.y
 > <sup>[2](/bible/jude/1#v2)</sup> Mercy unto you, and peace, and love, be multiplied.
 >
 > <sup>[3](/bible/jude/1#v3)</sup> Beloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort you that ye should earnestly contend for the faith which was once delivered unto the saints.
->
-> <sup>[4](/bible/jude/1#v4)</sup> For there are certain men crept in unawares, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ.
->
-> <sup>[5](/bible/jude/1#v5)</sup> I will therefore put you in remembrance, though ye once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not.
->
-> <sup>[6](/bible/jude/1#v6)</sup> And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day.
->
-> <sup>[7](/bible/jude/1#v7)</sup> Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire.
->
-> <sup>[8](/bible/jude/1#v8)</sup> Likewise also these filthy dreamers defile the flesh, despise dominion, and speak evil of dignities.
 
 - Earnestly contend for the faith which was once delivered unto the saints: that's what we're doing now, casting down Esau's lies.
+
+> <sup>[4](/bible/jude/1#v4)</sup> For there are certain men crept in unawares, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ.
+
 - There are certain men crept in unawares, who were before of old ordained to this condemnation: the same words as Genesis 6, of old. Turning the grace of our God into lasciviousness: in Jude's day that was the doctrine of the Nicolaitanes, who turned grace into fornication; we see the same today.
+
+> <sup>[5](/bible/jude/1#v5)</sup> I will therefore put you in remembrance, though ye once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not.
+
 - The Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not: the Israelites who rebelled in the wilderness were put to death. Paul covers the same history.
+
+> <sup>[6](/bible/jude/1#v6)</sup> And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day.
+
 - And the angels which kept not their first estate: this is where Esau gets his Nephilim and fallen angel doctrine from, and their understanding is supremely flawed. This is talking about the sons of God we just read of in Genesis 5 and 6, who left their own habitation. He hath reserved them in everlasting chains under darkness unto the judgment of the great day: has that great day come yet? No. Those spirits are still here today.
+
 - Even as Sodom and Gomorrha, giving themselves over to fornication, and going after strange flesh: other nations, and worse, as it is today. They are set forth for an example, suffering the vengeance of eternal fire: that lake of fire we read about in Revelation 14.
 
   Precepts:
@@ -561,12 +582,24 @@ Reading from an AI summary of Norman Bergrun's claims  *[[1:20:43](https://www.y
 
     For if God spared not the angels that sinned: this is not going into literal angels in the heavens sinning against God; they do God's will. It is going into the offspring of the sons of God, delivered into chains of darkness, to be reserved unto judgment: the same great day Jude talked about. And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, and turned the cities of Sodom and Gomorrha into ashes, making them an ensample unto those that after should live ungodly.
 
+> <sup>[7](/bible/jude/1#v7)</sup> Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire.
+>
+> <sup>[8](/bible/jude/1#v8)</sup> Likewise also these filthy dreamers defile the flesh, despise dominion, and speak evil of dignities.
+
 **[Isaiah 14:1-6](/bible/isaiah/14#v1)**  *[[1:54:44](https://www.youtube.com/watch?v=o6lTUvedO-s&t=6884s)]*
 
+- Esau mixes Jude with Isaiah 14 to come up with this fallen angel doctrine. So let's keep Isaiah 14 in context.
+
 > <sup>[1](/bible/isaiah/14#v1)</sup> For the Lord will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob.
->
+
+- The Lord will have mercy on Jacob, and will yet choose Israel, and set them in their own land: this is going into the kingdom. The strangers shall be joined with them, and they shall cleave to the house of Israel: the other nations are going to be joined to us and learn God's laws.
+
 > <sup>[2](/bible/isaiah/14#v2)</sup> And the people shall take them, and bring them to their place: and the house of Israel shall possess them in the land of the Lord for servants and handmaids: and they shall take them captives, whose captives they were; and they shall rule over their oppressors.
->
+
+- They shall take them captives, whose captives they were, and they shall rule over their oppressors: because we were their slaves, and now the roles are reversed.
+
+- Track who the subject is: in verse 2 the oppressor is the captive and the handmaid; in verse 4 he is the king of Babylon, and the golden city is America, Babylon the great; in verse 5 he is the wicked; in verse 6 he is he who smote the people in wrath with a continual stroke.
+
 > <sup>[3](/bible/isaiah/14#v3)</sup> And it shall come to pass in the day that the Lord shall give thee rest from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve,
 >
 > <sup>[4](/bible/isaiah/14#v4)</sup> That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased!
@@ -575,26 +608,16 @@ Reading from an AI summary of Norman Bergrun's claims  *[[1:20:43](https://www.y
 >
 > <sup>[6](/bible/isaiah/14#v6)</sup> He who smote the people in wrath with a continual stroke, he that ruled the nations in anger, is persecuted, and none hindereth.
 
-- Esau mixes Jude with Isaiah 14 to come up with this fallen angel doctrine. So let's keep Isaiah 14 in context.
-- The Lord will have mercy on Jacob, and will yet choose Israel, and set them in their own land: this is going into the kingdom. The strangers shall be joined with them, and they shall cleave to the house of Israel: the other nations are going to be joined to us and learn God's laws.
-- They shall take them captives, whose captives they were, and they shall rule over their oppressors: because we were their slaves, and now the roles are reversed.
-- Track who the subject is: in verse 2 the oppressor is the captive and the handmaid; in verse 4 he is the king of Babylon, and the golden city is America, Babylon the great; in verse 5 he is the wicked; in verse 6 he is he who smote the people in wrath with a continual stroke.
-
 **[Isaiah 14:12-16](/bible/isaiah/14#v12)**  *[[1:58:14](https://www.youtube.com/watch?v=o6lTUvedO-s&t=7094s)]*
 
 > <sup>[12](/bible/isaiah/14#v12)</sup> How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!
->
-> <sup>[13](/bible/isaiah/14#v13)</sup> For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north:
->
-> <sup>[14](/bible/isaiah/14#v14)</sup> I will ascend above the heights of the clouds; I will be like the most High.
->
-> <sup>[15](/bible/isaiah/14#v15)</sup> Yet thou shalt be brought down to hell, to the sides of the pit.
->
-> <sup>[16](/bible/isaiah/14#v16)</sup> They that see thee shall narrowly look upon thee, and consider thee, saying, Is this the man that made the earth to tremble, that did shake kingdoms;
 
 - How art thou fallen from heaven, O Lucifer, son of the morning: heaven here is rulership, dominion. Lucifer, the lightbearer: everybody thinks wisdom flows from him because of his communication; everybody looks at this man as god and all knowing.
+
 - Keep it in context: who is this Lucifer? He is the king of Babylon of verse 4, the oppressor, the man that smote the people. It is talking about a nation, this so-called white man, America.
+
 - I will ascend into heaven, I will exalt my throne above the stars of heaven, I will be like the Most High: yet thou shalt be brought down to hell, to the sides of the pit.
+
 - They that see thee shall narrowly look upon thee, and consider thee, saying, Is this the man? Not, is this the fallen angel; not the Nephilim. Is this the man that made the earth to tremble? What man made the earth to tremble by dropping atom bombs everywhere? He's the man, the oppressor, the king of Babylon that we read about in this chapter. It is not going into some angel, because all the angels take their directive from the Most High God.
 
   Precepts:
@@ -607,7 +630,17 @@ Reading from an AI summary of Norman Bergrun's claims  *[[1:20:43](https://www.y
 
     The kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the Most High: that's rulership.
 
+> <sup>[13](/bible/isaiah/14#v13)</sup> For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north:
+>
+> <sup>[14](/bible/isaiah/14#v14)</sup> I will ascend above the heights of the clouds; I will be like the most High.
+>
+> <sup>[15](/bible/isaiah/14#v15)</sup> Yet thou shalt be brought down to hell, to the sides of the pit.
+>
+> <sup>[16](/bible/isaiah/14#v16)</sup> They that see thee shall narrowly look upon thee, and consider thee, saying, Is this the man that made the earth to tremble, that did shake kingdoms;
+
 **[Job 1:1-12](/bible/job/1#v1)**  *[[2:02:40](https://www.youtube.com/watch?v=o6lTUvedO-s&t=7360s)]*
+
+- His sons went and feasted, every one his day: birthdays. Job said, It may be that my sons have sinned, and cursed God in their hearts. The only time we read about birthdays in the scriptures, the heathens kept them; that's for those of you still celebrating your date of birth on the low.
 
 > <sup>[1](/bible/job/1#v1)</sup> There was a man in the land of Uz, whose name was Job; and that man was perfect and upright, and one that feared God, and eschewed evil.
 >
@@ -620,21 +653,9 @@ Reading from an AI summary of Norman Bergrun's claims  *[[1:20:43](https://www.y
 > <sup>[5](/bible/job/1#v5)</sup> And it was so, when the days of their feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all: for Job said, It may be that my sons have sinned, and cursed God in their hearts. Thus did Job continually.
 >
 > <sup>[6](/bible/job/1#v6)</sup> Now there was a day when the sons of God came to present themselves before the Lord, and Satan came also among them.
->
-> <sup>[7](/bible/job/1#v7)</sup> And the Lord said unto Satan, Whence comest thou? Then Satan answered the Lord, and said, From going to and fro in the earth, and from walking up and down in it.
->
-> <sup>[8](/bible/job/1#v8)</sup> And the Lord said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?
->
-> <sup>[9](/bible/job/1#v9)</sup> Then Satan answered the Lord, and said, Doth Job fear God for nought?
->
-> <sup>[10](/bible/job/1#v10)</sup> Hast not thou made an hedge about him, and about his house, and about all that he hath on every side? thou hast blessed the work of his hands, and his substance is increased in the land.
->
-> <sup>[11](/bible/job/1#v11)</sup> But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face.
->
-> <sup>[12](/bible/job/1#v12)</sup> And the Lord said unto Satan, Behold, all that he hath is in thy power; only upon himself put not forth thine hand. So Satan went forth from the presence of the Lord.
 
-- His sons went and feasted, every one his day: birthdays. Job said, It may be that my sons have sinned, and cursed God in their hearts. The only time we read about birthdays in the scriptures, the heathens kept them; that's for those of you still celebrating your date of birth on the low.
 - Now there was a day when the sons of God came to present themselves before the Lord: the angels are also referred to as the sons of God, because God created them. And Satan came also among them, and the Lord said unto Satan, Whence comest thou? But I thought he got kicked out of heaven? No: he works for God. God created good angels and bad angels.
+
 - What is Satan's job? To tempt us, and he is only allowed to do what God allows. God gave him the authority over all that Job had, but said, upon himself put not forth thine hand.
 
   Precepts:
@@ -678,6 +699,18 @@ Reading from an AI summary of Norman Bergrun's claims  *[[1:20:43](https://www.y
     > <sup>[7](/bible/psalms/34#v7)</sup> The angel of the Lord encampeth round about them that fear him, and delivereth them.
 
     The angel of the Lord encampeth round about them that fear him, and delivereth them: the good angels deliver us from evil, like it says in the Lord's prayer.
+
+> <sup>[7](/bible/job/1#v7)</sup> And the Lord said unto Satan, Whence comest thou? Then Satan answered the Lord, and said, From going to and fro in the earth, and from walking up and down in it.
+>
+> <sup>[8](/bible/job/1#v8)</sup> And the Lord said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?
+>
+> <sup>[9](/bible/job/1#v9)</sup> Then Satan answered the Lord, and said, Doth Job fear God for nought?
+>
+> <sup>[10](/bible/job/1#v10)</sup> Hast not thou made an hedge about him, and about his house, and about all that he hath on every side? thou hast blessed the work of his hands, and his substance is increased in the land.
+>
+> <sup>[11](/bible/job/1#v11)</sup> But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face.
+>
+> <sup>[12](/bible/job/1#v12)</sup> And the Lord said unto Satan, Behold, all that he hath is in thy power; only upon himself put not forth thine hand. So Satan went forth from the presence of the Lord.
 
 **[Genesis 18:1-5](/bible/genesis/18#v1)**  *[[2:11:17](https://www.youtube.com/watch?v=o6lTUvedO-s&t=7877s)]*
 
@@ -731,6 +764,10 @@ Reading from an AI summary of Norman Bergrun's claims  *[[1:20:43](https://www.y
 
 **[Revelation 19:11-20](/bible/revelation/19#v11)**  *[[2:17:46](https://www.youtube.com/watch?v=o6lTUvedO-s&t=8266s)]*
 
+- The popular persuasions are set in place to gather people to fight against Christ. They call it demons; they call it fallen angels; that's what they are calling what is coming out of the heavens. Esau knows it is Christ and his army.
+
+- He that sat upon the white horse was called Faithful and True, and in righteousness he doth judge and make war: because God is a man of war; Exodus 15:3 tells you that. On his head were many crowns: he is going to take every crown, the ultimate King. He was clothed with a vesture dipped in blood: there is going to be a lot of bloodshed.
+
 > <sup>[11](/bible/revelation/19#v11)</sup> And I saw heaven opened, and behold a white horse; and he that sat upon him was called Faithful and True, and in righteousness he doth judge and make war.
 >
 > <sup>[12](/bible/revelation/19#v12)</sup> His eyes were as a flame of fire, and on his head were many crowns; and he had a name written, that no man knew, but he himself.
@@ -738,24 +775,15 @@ Reading from an AI summary of Norman Bergrun's claims  *[[1:20:43](https://www.y
 > <sup>[13](/bible/revelation/19#v13)</sup> And he was clothed with a vesture dipped in blood: and his name is called The Word of God.
 >
 > <sup>[14](/bible/revelation/19#v14)</sup> And the armies which were in heaven followed him upon white horses, clothed in fine linen, white and clean.
->
-> <sup>[15](/bible/revelation/19#v15)</sup> And out of his mouth goeth a sharp sword, that with it he should smite the nations: and he shall rule them with a rod of iron: and he treadeth the winepress of the fierceness and wrath of Almighty God.
->
-> <sup>[16](/bible/revelation/19#v16)</sup> And he hath on his vesture and on his thigh a name written, KING OF KINGS, AND LORD OF LORDS.
->
-> <sup>[17](/bible/revelation/19#v17)</sup> And I saw an angel standing in the sun; and he cried with a loud voice, saying to all the fowls that fly in the midst of heaven, Come and gather yourselves together unto the supper of the great God;
->
-> <sup>[18](/bible/revelation/19#v18)</sup> That ye may eat the flesh of kings, and the flesh of captains, and the flesh of mighty men, and the flesh of horses, and of them that sit on them, and the flesh of all men, both free and bond, both small and great.
->
-> <sup>[19](/bible/revelation/19#v19)</sup> And I saw the beast, and the kings of the earth, and their armies, gathered together to make war against him that sat on the horse, and against his army.
->
-> <sup>[20](/bible/revelation/19#v20)</sup> And the beast was taken, and with him the false prophet that wrought miracles before him, with which he deceived them that had received the mark of the beast, and them that worshipped his image. These both were cast alive into a lake of fire burning with brimstone.
 
-- The popular persuasions are set in place to gather people to fight against Christ. They call it demons; they call it fallen angels; that's what they are calling what is coming out of the heavens. Esau knows it is Christ and his army.
-- He that sat upon the white horse was called Faithful and True, and in righteousness he doth judge and make war: because God is a man of war; Exodus 15:3 tells you that. On his head were many crowns: he is going to take every crown, the ultimate King. He was clothed with a vesture dipped in blood: there is going to be a lot of bloodshed.
 - And the armies which were in heaven followed him: the same armies Ecclesiasticus 43 goes into when it speaks of the host on high. What do armies do? Invade and conquer. Clothed in fine linen, white and clean: that immortal body.
+
+> <sup>[15](/bible/revelation/19#v15)</sup> And out of his mouth goeth a sharp sword, that with it he should smite the nations: and he shall rule them with a rod of iron: and he treadeth the winepress of the fierceness and wrath of Almighty God.
+
 - Out of his mouth goeth a sharp sword: the laws of God, that with it he should smite the nations; and he shall rule them with a rod of iron.
+
 - The angel standing in the sun cried to the fowls, Come and gather yourselves together unto the supper of the great God, that ye may eat the flesh of kings and captains and mighty men. This is what Esau is afraid of.
+
 - And I saw the beast, and the kings of the earth, and their armies, gathered together to make war against him that sat on the horse, and against his army. There it is: gathered together, minds already persuaded. And the beast was taken, and with him the false prophet, and these both were cast alive into a lake of fire burning with brimstone.
 
   Precepts:
@@ -803,6 +831,16 @@ Reading from an AI summary of Norman Bergrun's claims  *[[1:20:43](https://www.y
     > <sup>[11](/bible/2-esdras/13#v11)</sup> And they were all mixed together; the blast of fire, the flaming breath, and the great tempest; and fell with violence upon the multitude which was prepared to fight, and burned them up every one, so that upon a sudden of an innumerable multitude nothing was to be perceived, but only dust and smell of smoke: when I saw this I was afraid.
 
     The man that came out of the sea is Christ: whensoever the voice went out of his mouth, all they burned that heard his voice, because they were guilty of that law. There was gathered together a multitude of men out of number from the four winds of heaven to subdue him: they will have one consent, because the Most High is going to harden them like he did Pharaoh, and the popular persuasion is already laying the groundwork: let's all come together and fight the demons coming from space. He neither lifted up his hand, nor held sword nor any instrument of war; but he sent out of his mouth as it had been a blast of fire, and it burnt them up every one, so that nothing was perceived but dust and smell of smoke.
+
+> <sup>[16](/bible/revelation/19#v16)</sup> And he hath on his vesture and on his thigh a name written, KING OF KINGS, AND LORD OF LORDS.
+>
+> <sup>[17](/bible/revelation/19#v17)</sup> And I saw an angel standing in the sun; and he cried with a loud voice, saying to all the fowls that fly in the midst of heaven, Come and gather yourselves together unto the supper of the great God;
+>
+> <sup>[18](/bible/revelation/19#v18)</sup> That ye may eat the flesh of kings, and the flesh of captains, and the flesh of mighty men, and the flesh of horses, and of them that sit on them, and the flesh of all men, both free and bond, both small and great.
+>
+> <sup>[19](/bible/revelation/19#v19)</sup> And I saw the beast, and the kings of the earth, and their armies, gathered together to make war against him that sat on the horse, and against his army.
+>
+> <sup>[20](/bible/revelation/19#v20)</sup> And the beast was taken, and with him the false prophet that wrought miracles before him, with which he deceived them that had received the mark of the beast, and them that worshipped his image. These both were cast alive into a lake of fire burning with brimstone.
 
 **[Revelation 17:12-14](/bible/revelation/17#v12)**  *[[2:27:48](https://www.youtube.com/watch?v=o6lTUvedO-s&t=8868s)]*
 

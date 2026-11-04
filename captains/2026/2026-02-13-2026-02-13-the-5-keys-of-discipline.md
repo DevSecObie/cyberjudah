@@ -2,7 +2,7 @@
 title: "The 5 Keys of Discipline"
 slug: "2026/2026-02-13-the-5-keys-of-discipline"
 date: "2026-02-13"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "15 Minutes w/ The Captains · 2026-02-13"
 tags: ["15 Minutes w/ The Captains", "discipline", "heaven-hell", "wisdom"]
 ---
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "discipline", "heaven-hell", "wisdom"]
 
 ## Introduction
 
-*[[0:14](https://www.youtube.com/watch?v=IRZrok8BO_Q&t=14s)]* Shalom most high. Christ bless. Welcome to another edition of 15 minutes with the captains. Today you got Captain Emmanuel of IUIC Arkansas. And today we going to talk about five keys of discipline. And I ain't saying these the only five, but these may be the top five.
+*[[0:14](https://www.youtube.com/watch?v=IRZrok8BO_Q&t=14s)]* Shalom most high. Christ bless. Welcome to another edition of 15 minutes with the captains. Today you got Captain Immanuel of IUIC Arkansas. And today we going to talk about five keys of discipline. And I ain't saying these the only five, but these may be the top five.
 
 ## Scriptures Opened
 
@@ -70,17 +70,17 @@ tags: ["15 Minutes w/ The Captains", "discipline", "heaven-hell", "wisdom"]
 
 **[Psalms 112:7-8](/bible/psalms/112#v7)**  *[[8:37](https://www.youtube.com/watch?v=IRZrok8BO_Q&t=517s)]*
 
-> <sup>[7](/bible/psalms/112#v7)</sup> He shall not be afraid of evil tidings: his heart is fixed, trusting in the Lord.
->
-> <sup>[8](/bible/psalms/112#v8)</sup> His heart is established, he shall not be afraid, until he see his desire upon his enemies.
-
 - A lot of time, brothers and sisters just be in limbo. You don't know what the hell you want to do. Your goals ain't clear. You don't have a true plan in sight. Your vision is not established. But the good man, according to the Bible in Psalms 112, is who it's talking about. Let's see how the good man or the good woman thinks.
+
+> <sup>[7](/bible/psalms/112#v7)</sup> He shall not be afraid of evil tidings: his heart is fixed, trusting in the Lord.
 
 - He shall not be afraid of evil tidings: you're not going to be afraid. Cuz every time you trying to do something good, it's always going to be some type of resistance. Somebody telling you, nah, I did that before, bro. I tried that. That ain't going to work. Nah, bro, that ain't the way to go. You can actually do this instead. They ain't even allowing that no more. You ain't going to be worried about that. Why?
 
 - His heart is fixed: you know what that mean? That's like fixed income. Somebody on fixed income, that amount that they get every month is the amount that they get every month. It's never changing. When your heart is fixed, that mean your mind is made up. You determine, what the hell nobody talking about, this is what the hell I'm going to do. Period. And I'm not taking no for an answer.
 
 - Trusting in the LORD: because you trust in the Lord.
+
+> <sup>[8](/bible/psalms/112#v8)</sup> His heart is established, he shall not be afraid, until he see his desire upon his enemies.
 
 - His heart is established: and that be a lot of our problem. I think I kind of want to do this, and I kind of, but yesterday I really, but now I... Your heart not established. The Lord said a good man heart is established.
 
@@ -92,16 +92,14 @@ tags: ["15 Minutes w/ The Captains", "discipline", "heaven-hell", "wisdom"]
 **[Haggai 1:4-7](/bible/haggai/1#v4)**  *[[11:45](https://www.youtube.com/watch?v=IRZrok8BO_Q&t=705s)]*
 
 > <sup>[4](/bible/haggai/1#v4)</sup> Is it time for you, O ye, to dwell in your cieled houses, and this house lie waste?
->
-> <sup>[5](/bible/haggai/1#v5)</sup> Now therefore thus saith the Lord of hosts; Consider your ways.
->
-> <sup>[6](/bible/haggai/1#v6)</sup> Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages to put it into a bag with holes.
->
-> <sup>[7](/bible/haggai/1#v7)</sup> Thus saith the Lord of hosts; Consider your ways.
 
 - Is it time for you, O ye, to dwell in your cieled houses, and this house lie waste: this house is talking about, in context, the temple of the Lord that was supposed to be being rebuilt by the remnant that was allowed to return to rebuild it. But what was that remnant doing? They ass was on vacation. They were chilling in the crib.
 
+> <sup>[5](/bible/haggai/1#v5)</sup> Now therefore thus saith the Lord of hosts; Consider your ways.
+
 - Consider your ways: cuz they had excuses. Well, a couple years ago, Darius, and a couple years ago they made a law that we couldn't, they stopped the funding. No. What about right now, today? Lord said, consider your ways.
+
+> <sup>[6](/bible/haggai/1#v6)</sup> Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages to put it into a bag with holes.
 
 - Ye have sown much, and bring in little: you work, but it ain't enough. You ain't bringing in enough. Ye eat, but ye have not enough: you not full, you should be. Ye clothe you, but there is none warm: you don't have enough clothing.
 
@@ -112,6 +110,8 @@ tags: ["15 Minutes w/ The Captains", "discipline", "heaven-hell", "wisdom"]
 - Consider your way. Track your actions and own your results. It's you. You the reason why you at the dead end job. You the reason why you still in an apartment and out the house. Take accountability. Consider your ways. What are you doing or not doing that can change your results? That's accountability, brothers and sisters. Major key of discipline.
 
 - And the final one we're going to deal with is structure. Structure in terms of discipline is creating routines and environments that support your goals.
+
+> <sup>[7](/bible/haggai/1#v7)</sup> Thus saith the Lord of hosts; Consider your ways.
 
 
 **[2 Esdras 13:55](/bible/2-esdras/13#v55)**  *[[14:55](https://www.youtube.com/watch?v=IRZrok8BO_Q&t=895s)]*

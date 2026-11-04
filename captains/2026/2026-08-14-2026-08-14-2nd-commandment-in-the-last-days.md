@@ -96,28 +96,28 @@ All right. So from there, we have got to start at the first scripture.
 **[John 5:45-47](/bible/john/5#v45)**  *[[6:17](https://www.youtube.com/watch?v=IjcHGVqFB9Q&t=377s)]*
 
 > <sup>[45](/bible/john/5#v45)</sup> Do not think that I will accuse you to the Father: there is one that accuseth you, even Moses, in whom ye trust.
->
-> <sup>[46](/bible/john/5#v46)</sup> For had ye believed Moses, ye would have believed me: for he wrote of me.
->
-> <sup>[47](/bible/john/5#v47)</sup> But if ye believe not his writings, how shall ye believe my words?
 
 - Do not think that I will accuse you to the Father: there is one that accuseth you, even Moses, in whom ye trust.
+
+> <sup>[46](/bible/john/5#v46)</sup> For had ye believed Moses, ye would have believed me: for he wrote of me.
 
 - For had ye believed Moses, ye would have believed me: for he wrote of me. And Moses also wrote that we would be in the midst of idolatry in the latter days, and that tribulation would come upon us.
 
 - But if ye believe not his writings, how shall ye believe my words? And we are going to read some of Christ's words, which you Christians often misconstrue.
 
+> <sup>[47](/bible/john/5#v47)</sup> But if ye believe not his writings, how shall ye believe my words?
+
 **[Matthew 5:17-18](/bible/matthew/5#v17)**  *[[7:00](https://www.youtube.com/watch?v=IjcHGVqFB9Q&t=420s)]*
 
-> <sup>[17](/bible/matthew/5#v17)</sup> Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.
->
-> <sup>[18](/bible/matthew/5#v18)</sup> For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled.
-
 - You still cannot get this right. The simplicity of Christ, you still cannot get right.
+
+> <sup>[17](/bible/matthew/5#v17)</sup> Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.
 
 - Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil. So what Moses wrote, he said he did not come to destroy that.
 
 - For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled. And all is not fulfilled yet, because we are not back in our land.
+
+> <sup>[18](/bible/matthew/5#v18)</sup> For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled.
 
 **[Exodus 20:3-6](/bible/exodus/20#v3)**  *[[7:47](https://www.youtube.com/watch?v=IjcHGVqFB9Q&t=467s)]*
 
@@ -143,21 +143,21 @@ All right. So from there, we have got to start at the first scripture.
 
 **[Psalms 83:2-5](/bible/psalms/83#v2)**  *[[9:22](https://www.youtube.com/watch?v=IjcHGVqFB9Q&t=562s)]*
 
-> <sup>[2](/bible/psalms/83#v2)</sup> For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.
->
-> <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
->
-> <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
->
-> <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
-
 - So now, how would we get to a point where we are practising religious syncretism, where we no longer truly understand who our God is, and now we begin to mix other religions into our religion — and now it is called Christianity?
+
+> <sup>[2](/bible/psalms/83#v2)</sup> For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.
 
 - For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.
 
 - They have taken crafty counsel against thy people, and consulted against thy hidden ones.
 
 - They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
+
+> <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
+>
+> <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
+>
+> <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
 
 - For they have consulted together with one consent: they are confederate against thee. So all the nations believe in this religion. They believe in Christianity. They believe in white man Jesus. And now they call us the Gentiles.
 

@@ -123,15 +123,15 @@ tags: ["IUIC in the ClassRoom", "angels", "christ", "heaven-hell", "the-americas
 
 **[Matthew 24:30-31](/bible/matthew/24#v30)**  *[[27:10](https://www.youtube.com/watch?v=1wTYfQtcyE4&t=1630s)]*
 
-> <sup>[30](/bible/matthew/24#v30)</sup> And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.
->
-> <sup>[31](/bible/matthew/24#v31)</sup> And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.
-
 - What is the sign of the Son of man? As birds flying, in v-formation.
 
 - All the tribes of Israel in the earth shall mourn when they see Christ coming in military formation.
 
+> <sup>[30](/bible/matthew/24#v30)</sup> And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.
+
 - They shall see the Son of man coming in the clouds of heaven: one of those clouds of heaven is the chariots of Israel; that's what they are.
+
+> <sup>[31](/bible/matthew/24#v31)</sup> And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.
 
 - He shall send his angels with a great sound of a trumpet: that's battle strategy right there. He's gonna give the order, give the command to the angels on the left flank and the right flank.
 

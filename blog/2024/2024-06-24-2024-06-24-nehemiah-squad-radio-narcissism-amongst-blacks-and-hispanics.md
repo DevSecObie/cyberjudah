@@ -141,25 +141,25 @@ tags: ["IUIC in the ClassRoom", "angels", "health", "mental-health", "prayer"]
 
 **[2 Timothy 3:1-5](/bible/2-timothy/3#v1)**  *[[1:12:33](https://www.youtube.com/watch?v=UH6mWzOzJ2s&t=4353s)]*
 
-> <sup>[1](/bible/2-timothy/3#v1)</sup> This know also, that in the last days perilous times shall come.
->
-> <sup>[2](/bible/2-timothy/3#v2)</sup> For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
->
-> <sup>[3](/bible/2-timothy/3#v3)</sup> Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,
->
-> <sup>[4](/bible/2-timothy/3#v4)</sup> Traitors, heady, highminded, lovers of pleasures more than lovers of God;
->
-> <sup>[5](/bible/2-timothy/3#v5)</sup> Having a form of godliness, but denying the power thereof: from such turn away.
-
 - Lovers of their own selves, to the point where you don't even care about your kids. We've got nothing but fathers in here; you can't even picture that.
 
 - Blasphemers: he said he didn't even believe in God, because in dealing with God you have to be held accountable. Unthankful: he said I never apologize, never.
 
 - Trucebreakers are those marriages, those covenants broken, because the person doesn't care about the marriage; he said he didn't care about getting caught cheating as long as his job was straight. False accusers: he went up in rank at the cost of other people.
 
+> <sup>[1](/bible/2-timothy/3#v1)</sup> This know also, that in the last days perilous times shall come.
+>
+> <sup>[2](/bible/2-timothy/3#v2)</sup> For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
+>
+> <sup>[3](/bible/2-timothy/3#v3)</sup> Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,
+
 - Despisers of those that are good: a lot of narcissists like church settings because they feel those people have a good heart and they can take advantage of them. Lovers of pleasures: the smoking, the porn, the drinking, the women.
 
 - These spirits they call personality disorders, and the Lord has the ointment for all of them.
+
+> <sup>[4](/bible/2-timothy/3#v4)</sup> Traitors, heady, highminded, lovers of pleasures more than lovers of God;
+>
+> <sup>[5](/bible/2-timothy/3#v5)</sup> Having a form of godliness, but denying the power thereof: from such turn away.
 
 
 **[1 Corinthians 6:9-11](/bible/1-corinthians/6#v9)**  *[[1:17:39](https://www.youtube.com/watch?v=UH6mWzOzJ2s&t=4659s)]*

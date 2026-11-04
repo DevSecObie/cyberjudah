@@ -494,17 +494,17 @@ Reading from a page on mourning in the Bible  *[[1:21:19](https://www.youtube.co
 
 **[Isaiah 30:19-21](/bible/isaiah/30#v19)**  *[[1:22:18](https://www.youtube.com/watch?v=JDW1q70sbhI&t=4938s)]*
 
-> <sup>[19](/bible/isaiah/30#v19)</sup> For the people shall dwell in Zion at Jerusalem: thou shalt weep no more: he will be very gracious unto thee at the voice of thy cry; when he shall hear it, he will answer thee.
->
-> <sup>[20](/bible/isaiah/30#v20)</sup> And though the Lord give you the bread of adversity, and the water of affliction, yet shall not thy teachers be removed into a corner any more, but thine eyes shall see thy teachers:
->
-> <sup>[21](/bible/isaiah/30#v21)</sup> And thine ears shall hear a word behind thee, saying, This is the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left.
-
 - Thou shalt weep no more is said of Zion, which tells you that until then we are a weeping people.
 
 - The bread of adversity is hardship; the waters of affliction are our tears for what we go through.
 
+> <sup>[19](/bible/isaiah/30#v19)</sup> For the people shall dwell in Zion at Jerusalem: thou shalt weep no more: he will be very gracious unto thee at the voice of thy cry; when he shall hear it, he will answer thee.
+>
+> <sup>[20](/bible/isaiah/30#v20)</sup> And though the Lord give you the bread of adversity, and the water of affliction, yet shall not thy teachers be removed into a corner any more, but thine eyes shall see thy teachers:
+
 - Thine eyes shall see thy teachers: that is why we hit the streets and hold classes seven days a week, three times a day.
+
+> <sup>[21](/bible/isaiah/30#v21)</sup> And thine ears shall hear a word behind thee, saying, This is the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left.
 
 
 **[Isaiah 61:3](/bible/isaiah/61#v3)**  *[[1:24:31](https://www.youtube.com/watch?v=JDW1q70sbhI&t=5071s)]*
@@ -572,19 +572,19 @@ Reading from a page on black political prisoners · read by Captain Uri  *[[1:28
 
 **[Matthew 11:11-14](/bible/matthew/11#v11)**  *[[1:34:54](https://www.youtube.com/watch?v=JDW1q70sbhI&t=5694s)]*
 
-> <sup>[11](/bible/matthew/11#v11)</sup> Verily I say unto you, Among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding he that is least in the kingdom of heaven is greater than he.
->
-> <sup>[12](/bible/matthew/11#v12)</sup> And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force.
->
-> <sup>[13](/bible/matthew/11#v13)</sup> For all the prophets and the law prophesied until John.
->
-> <sup>[14](/bible/matthew/11#v14)</sup> And if ye will receive it, this is Elias, which was for to come.
-
 - Christ said nobody is greater than John the Baptist, and anybody who thinks John was a wicked negro is on crack.
 
 - The kingdom of heaven suffering violence was not up in the sky. Rome took Jerusalem under General Pompey around 63 BC.
 
+> <sup>[11](/bible/matthew/11#v11)</sup> Verily I say unto you, Among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding he that is least in the kingdom of heaven is greater than he.
+>
+> <sup>[12](/bible/matthew/11#v12)</sup> And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force.
+
 - The violent take it by force: he is calling Rome the violent, and the white man is the violent man.
+
+> <sup>[13](/bible/matthew/11#v13)</sup> For all the prophets and the law prophesied until John.
+>
+> <sup>[14](/bible/matthew/11#v14)</sup> And if ye will receive it, this is Elias, which was for to come.
 
 - And if ye will receive it, this is Elias: John was Elijah.
 
@@ -681,10 +681,6 @@ Reading from a page on black political prisoners · read by Captain Uri  *[[1:28
 **[Luke 19:16-18](/bible/luke/19#v16)**  *[[1:48:29](https://www.youtube.com/watch?v=JDW1q70sbhI&t=6509s)]*
 
 > <sup>[16](/bible/luke/19#v16)</sup> Then came the first, saying, Lord, thy pound hath gained ten pounds.
->
-> <sup>[17](/bible/luke/19#v17)</sup> And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities.
->
-> <sup>[18](/bible/luke/19#v18)</sup> And the second came, saying, Lord, thy pound hath gained five pounds.
 
 - Thy pound hath gained ten pounds: well, thou good servant, because thou hast been faithful in a very little.
 
@@ -705,6 +701,10 @@ Reading from a page on black political prisoners · read by Captain Uri  *[[1:28
     > <sup>[27](/bible/revelation/2#v27)</sup> And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers: even as I received of my Father.
 
     Power over the nations, ruling with a rod of iron: the ones who buck have to be broken.
+
+> <sup>[17](/bible/luke/19#v17)</sup> And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities.
+>
+> <sup>[18](/bible/luke/19#v18)</sup> And the second came, saying, Lord, thy pound hath gained five pounds.
 
 
 **[Luke 19:20-22](/bible/luke/19#v20)**  *[[1:53:19](https://www.youtube.com/watch?v=JDW1q70sbhI&t=6799s)]*
@@ -794,19 +794,19 @@ Reading from a definition of austere  *[[1:56:06](https://www.youtube.com/watch?
 
 **[Romans 11:26-29](/bible/romans/11#v26)**  *[[2:07:15](https://www.youtube.com/watch?v=JDW1q70sbhI&t=7635s)]*
 
+- All Israel shall be saved, and the deliverer comes out of Zion and turns ungodliness from Jacob. That is Christ.
+
 > <sup>[26](/bible/romans/11#v26)</sup> And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:
 >
 > <sup>[27](/bible/romans/11#v27)</sup> For this is my covenant unto them, when I shall take away their sins.
 >
 > <sup>[28](/bible/romans/11#v28)</sup> As concerning the gospel, they are enemies for your sakes: but as touching the election, they are beloved for the fathers’ sakes.
->
-> <sup>[29](/bible/romans/11#v29)</sup> For the gifts and calling of God are without repentance.
-
-- All Israel shall be saved, and the deliverer comes out of Zion and turns ungodliness from Jacob. That is Christ.
 
 - As concerning the gospel they are enemies for your sakes: our own people in the other religions.
 
 - But as touching the election they are beloved, because they can repent. Paul was an enemy of the gospel and the Lord let him repent.
+
+> <sup>[29](/bible/romans/11#v29)</sup> For the gifts and calling of God are without repentance.
 
 
 <div class="reading">
@@ -1106,25 +1106,35 @@ Reading from a post on a noose pendant  *[[2:59:18](https://www.youtube.com/watc
 
 **[Isaiah 8:9-11](/bible/isaiah/8#v9)**  *[[2:59:54](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10794s)]*
 
+- Associate yourselves, O ye people, and ye shall be broken in pieces. It does not matter what these pastors do if they join with Amalek.
+
 > <sup>[9](/bible/isaiah/8#v9)</sup> Associate yourselves, O ye people, and ye shall be broken in pieces; and give ear, all ye of far countries: gird yourselves, and ye shall be broken in pieces; gird yourselves, and ye shall be broken in pieces.
 >
 > <sup>[10](/bible/isaiah/8#v10)</sup> Take counsel together, and it shall come to nought; speak the word, and it shall not stand: for God is with us.
->
-> <sup>[11](/bible/isaiah/8#v11)</sup> For the Lord spake thus to me with a strong hand, and instructed me that I should not walk in the way of this people, saying,
-
-- Associate yourselves, O ye people, and ye shall be broken in pieces. It does not matter what these pastors do if they join with Amalek.
 
 - Take counsel together: you went to Israel and took counsel with them. And it shall come to naught.
 
 - Speak the word and it shall not stand, for God is with us, because God is with the Israelites.
 
+> <sup>[11](/bible/isaiah/8#v11)</sup> For the Lord spake thus to me with a strong hand, and instructed me that I should not walk in the way of this people, saying,
+
 
 **[Isaiah 28:14-22](/bible/isaiah/28#v14)**  *[[3:02:00](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10920s)]*
+
+- The scornful men that rule this people are the pastors, because they have the ear of our community.
+
+- A covenant with death and an agreement with hell is what going over to Israel was about.
 
 > <sup>[14](/bible/isaiah/28#v14)</sup> Wherefore hear the word of the Lord, ye scornful men, that rule this people which is in Jerusalem.
 >
 > <sup>[15](/bible/isaiah/28#v15)</sup> Because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves:
->
+
+- We have made lies our refuge: that is Christian Zionism, and the hail sweeps that refuge away.
+
+- The tried stone laid in Zion is Christ. He that believeth shall not make haste, so when people leave this truth, they never believed.
+
+- His strange work is destroying the nations and delivering the twelve tribes that believe on him. Be ye not mockers.
+
 > <sup>[16](/bible/isaiah/28#v16)</sup> Therefore thus saith the Lord God, Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner stone, a sure foundation: he that believeth shall not make haste.
 >
 > <sup>[17](/bible/isaiah/28#v17)</sup> Judgment also will I lay to the line, and righteousness to the plummet: and the hail shall sweep away the refuge of lies, and the waters shall overflow the hiding place.
@@ -1138,16 +1148,6 @@ Reading from a post on a noose pendant  *[[2:59:18](https://www.youtube.com/watc
 > <sup>[21](/bible/isaiah/28#v21)</sup> For the Lord shall rise up as in mount Perazim, he shall be wroth as in the valley of Gibeon, that he may do his work, his strange work; and bring to pass his act, his strange act.
 >
 > <sup>[22](/bible/isaiah/28#v22)</sup> Now therefore be ye not mockers, lest your bands be made strong: for I have heard from the Lord God of hosts a consumption, even determined upon the whole earth.
-
-- The scornful men that rule this people are the pastors, because they have the ear of our community.
-
-- A covenant with death and an agreement with hell is what going over to Israel was about.
-
-- We have made lies our refuge: that is Christian Zionism, and the hail sweeps that refuge away.
-
-- The tried stone laid in Zion is Christ. He that believeth shall not make haste, so when people leave this truth, they never believed.
-
-- His strange work is destroying the nations and delivering the twelve tribes that believe on him. Be ye not mockers.
 
 
 **[Jeremiah 25:15-33](/bible/jeremiah/25#v15)**  *[[3:07:42](https://www.youtube.com/watch?v=JDW1q70sbhI&t=11262s)]*

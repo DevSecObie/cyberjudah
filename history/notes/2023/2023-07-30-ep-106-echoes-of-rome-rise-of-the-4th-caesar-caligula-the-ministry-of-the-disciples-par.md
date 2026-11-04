@@ -18,7 +18,7 @@ tags: ["Our Hidden History", "rome", "sabbath"]
 
 ## Introduction
 
-*[[5:16](https://www.youtube.com/watch?v=hLad_UgFhx4&t=316s)]* So let you know the spirits that we have dormant inside of us, and what we need to work on, how we need to examine ourselves. All right, and this truth, it's all praises for that thing. All right, that's one of those classes that we all need. I know you want the prophecies, the deep breakdowns and everything, but those type of classes, that's what we really need right there: how to deal with your spirit, how to deal with the things, the battles that we're going through. Okay. So also last week I dealt with Christ, and I think we still dealing with the rise of Tiberius. Now this week we're going to switch things up. Now we're getting into the fourth Caesar, which was Caligula.
+*[[5:16](https://www.youtube.com/watch?v=hLad_UgFhx4&t=316s)]* So also last week I dealt with Christ, and I think we still dealing with the rise of Tiberius. Now this week we're going to switch things up. Now we're getting into the fourth Caesar, which was Caligula.
 
 *[[5:56](https://www.youtube.com/watch?v=hLad_UgFhx4&t=356s)]* Caligula. All right, so remember we had Julius, Julius Caesar, which was the first Caesar. Then we dealt with Augustus, which was the longest reigning Caesar. We proved that according to Second Esdras chapter 12, who was part of the 12 feathers, the longest reigning Caesar of the 12 feathers. The third Caesar we dealt with was Tiberius. Tiberius was the Caesar of Christ's ministry. All right, the Caesar of Christ's ministry. Now we are on the fourth, Caligula. So I don't want y'all to forget how the episodes is going. What we're doing is that we're doing Roman captivity, which we call it the Echoes of Rome. What we're doing is following the 12 feathers, the 12 Caesars of Rome, and the life that we lived under those Caesars. Okay, the life that we lived under those Caesars.
 
@@ -36,7 +36,7 @@ Reading from *Caesar and Christ*, page 267, on Caligula (the author is not named
 
 > He accepted these in person on his palace terrace from all who came to give. He encouraged citizens to name him heir in their wills. He levied taxes...
 
-- Oh wait a minute, wait a minute. So listen, all the Caesars was crazy as hell. They keep getting worse as we go on. You understand? They keep getting worse. Now this dude, this particular emperor, was a maniac. He was a straight lunatic. All right, so what he was doing was he encouraged citizens to name him heir in their wills. So the wills that you were writing, he wanted you to name him the heir in your own personal will.
+- Oh wait a minute, wait a minute. So listen, all the Caesars was crazy as hell. They keep getting worse as we go on. They keep getting worse. Now this dude, this particular emperor, was a maniac. He was a straight lunatic. All right, so what he was doing was he encouraged citizens to name him heir in their wills. So the wills that you were writing, he wanted you to name him the heir in your own personal will.
 
 > He levied taxes upon everything...
 
@@ -86,7 +86,7 @@ Reading from *Caesar and Christ*, page 267, continued · read by an officer  *[[
 
 - **Officer:** Damn. I did the math on the gladiators. So a sesterce is 50 cents, so it's four and a half million dollars for the 13 gladiators, meaning each gladiator cost 346 thousand dollars.
 
-- **Deacon Eythan:** Damn. Okay. All right, all crazy. So that's what that meant when it said nine million sesterces. All right, so all praises. Go back to where he inflicted pain. The executioners were instructed to kill his victims by numerous slight wounds. So he instructed the victims to be killed by numerous slight wounds, so that they may feel that they are dying. So they what? Died a slow death. They died a slow death. So it was a torture.
+- **Deacon Eythan:** Damn. All right, all crazy. So that's what that meant when it said nine million sesterces. All right, so all praises. Go back to where he inflicted pain. The executioners were instructed to kill his victims by numerous slight wounds. So he instructed the victims to be killed by numerous slight wounds, so that they may feel that they are dying. So they what? Died a slow death. They died a slow death. So it was a torture.
 
 > If we may believe Dio Cassius, he forced his saintly grandmother Antonia to kill herself.
 
@@ -94,7 +94,7 @@ Reading from *Caesar and Christ*, page 267, continued · read by an officer  *[[
 
 > Suetonius recounts that when meat ran short for feeding the beasts kept for gladiatorial games, Caligula ordered all bald-headed prisoners to be fed to the animals for the public good.
 
-- Read that again. Bam. Read that again. If he was bald headed.
+- Bam. If he was bald headed.
 
 - So when meat ran short for feeding the beasts. Well listen, when meat ran short for feeding the lions and the tigers and the beasts that we had to fight against in the gladiatorial games, Caligula ordered all bald-headed prisoners to be fed to the animals for the public good. And guess what, them bald-headed prisoners, guess who that was? That was us. That was most likely us being fed to the lions and so forth, being fed to the animals. All right, so he said those bald-headed prisoners.
 
@@ -168,7 +168,7 @@ Reading from *Caesar and Christ*, page 267, continued · read by an officer  *[[
 
 - **Officer:** Hey, this guy was so crazy, that's why he got assassinated. They was so fed up with all these rules that he was pushing on his own people. The soldier assassinated him. I mean, come on now, he forcing the Senate to fight his gladiators. You must know you're going to die soon. They like, yo, we got to get rid of this guy.
 
-- **Deacon Eythan:** All right, read that. Start at the riots in Alexandria.
+- **Deacon Eythan:** Start at the riots in Alexandria.
 
 <div class="reading">
 
@@ -212,7 +212,7 @@ Reading from *History of the Jews* by Grayzel, pages 148 to 149, the riots in Al
 >
 > <sup>[2](/bible/acts/12#v2)</sup> And he killed James the brother of John with the sword.
 
-- So this Herod, when it says Herod. Remember, Herod had died already, Herod the Great. They all carried the name Herod. All right, so this is Herod Agrippa the First, the grandson of Herod the Great. Okay.
+- So this Herod, when it says Herod. Remember, Herod had died already, Herod the Great. They all carried the name Herod. All right, so this is Herod Agrippa the First, the grandson of Herod the Great.
 
 - And he killed James. So he put to death who? James. So he puts to death one of the disciples, James, brother of John.
 
@@ -256,7 +256,7 @@ Reading from *History of the Jews* by Grayzel, page 149, continued · read by an
 
 - **Officer:** At that time it was Antiochus.
 
-- **Deacon Eythan:** Yeah, Antiochus the Great, right? You know, the fourth? No, the Great. I think it was the Great at that time. Is it Great, that Second Maccabees 6? Yes, yeah, I think it was the Great. Okay.
+- **Deacon Eythan:** Yeah, Antiochus the Great, right? You know, the fourth? No, the Great. I think it was the Great at that time. Is it Great, that Second Maccabees 6? Yes, yeah, I think it was the Great.
 
 - Jupiter the defender of strangers, as they did desire that dwelt in the place. So yeah, just the same thing they were doing here: let's put the image of the emperor in their synagogues, that way they could show their fealty to Rome. The defender of strangers, Jupiter. So the same thing all over again. That was our loyalty to them.
 
@@ -278,7 +278,7 @@ Reading from *History of the Jews* by Grayzel, page 149, continued · read by an
 
 > Thus, instead of being punished, the mob found itself encouraged to do more mischief. They waited for no second invitation, but fell upon the homes of the wealthier Jews who lived outside of the Jewish districts and pillaged 400 of them.
 
-- You see that? So now this is persecution.
+- So now this is persecution.
 
 > The Jews were neither weaklings nor cowards.
 
@@ -302,11 +302,11 @@ Reading from *History of the Jews* by Grayzel, page 149, continued · read by an
 
 > ...was flattered by Apion's appeal to him as to a god whose statue the willful Jews refused to honor. He paid little attention to Philo, outside of asking him some foolish questions without even waiting for his answers. Having gained no satisfaction other than the recall of Flaccus, the Jewish delegation returned home, and the Jews waited for an opportunity to even the score with their enemies.
 
-- Now this same history always repeats itself, right? This same thing happened during the time of Daniel, remember, with the statue. Same thing during the Persian captivity. Same thing. Okay, now we here now in a Roman captivity dealing with the same thing. Okay. Go to more riots.
+- Now this same history always repeats itself, right? This same thing happened during the time of Daniel, remember, with the statue. Same thing during the Persian captivity. Same thing. Okay, now we here now in a Roman captivity dealing with the same thing. Go to more riots.
 
 > More riots. The opportunity came when Caligula was assassinated. The Jews had been storing up arms and gathering aid from the Jews of Syria, and in the ensuing riot the results were less one-sided than the previous one.
 
-- All right, you can drop that. Give me the next page. We're just touching on how Caligula dealt with us. *History of the Jews*, 183. Give me page 183. I didn't highlight anything, so we're just going to read starting from the top.
+- All right, you can drop that. We're just touching on how Caligula dealt with us. *History of the Jews*, 183. Give me page 183. I didn't highlight anything, so we're just going to read starting from the top.
 
 </div>
 
@@ -320,7 +320,7 @@ Reading from *History of the Jews* by Grayzel, page 183 · read by an officer  *
 
 > ...and upon their refusing to eat it they were cruelly tortured. Not satisfied with all these barbarities, Flaccus ordered his soldiers to search the houses of the Judeans for any weapons that might be concealed there, and they were told to leave not even the chambers of the modest maidens unsearched. This reign of terror continued until the middle of September.
 
-- Jump down. Jump down. Let me see. Go back, go back to that paragraph.
+- Jump down. Jump down. Go back, go back to that paragraph.
 
 > The emperor alone could have settled the vexed question as to whether the Judeans had the right of equal citizenship with the Greeks in Alexandria...
 
@@ -332,11 +332,11 @@ Reading from *History of the Jews* by Grayzel, page 183 · read by an officer  *
 
 > ...and of raising temples and statues to his own honor, even Greeks justly imagine that their cause against the Judeans was won. They restored the imperial statues in the Alexandrian synagogues, convinced that in the face of so great a sacrilege the Judeans will rebel, and thereby arouse the emperor's wrath. This was actually the cause of a fresh disturbance, for the new governor of Alexandria took part against the Judeans, courting in this way the imperial favor. He insisted that the unhappy people should show divine honors to the images of the emperor...
 
-- You see that? So he insisted that the unhappy people should show divine honors to his image. To his image.
+- So he insisted that the unhappy people should show divine honors to his image. To his image.
 
 > ...and when they refused, on the ground that such an act was contrary to their law...
 
-- Right. Idolatry.
+- Idolatry.
 
 > ...he forbade their observance of the Sabbath day.
 
@@ -352,7 +352,7 @@ Reading from *History of the Jews* by Grayzel, page 183 · read by an officer  *
 
 > But neither the rich nor the poor allowed themselves to be coerced by these words...
 
-- Right. So we stayed strong.
+- So we stayed strong.
 
 > At this time they remained true to their faith...
 
@@ -360,7 +360,7 @@ Reading from *History of the Jews* by Grayzel, page 183 · read by an officer  *
 
 > ...and prepared to undergo any penalties that might be inflicted upon them. Some few appear to have embraced paganism out of fear.
 
-- You see, there you go. Some of us. Read it again. Some few appear to have embraced paganism out of fear. Out of fear. So you still had some of us that was like... Go back to First Maccabees 1. The same thing happened during the Greek captivity. Nothing new under the sun. Y'all got anything to bring up from First Maccabees? Let's start from verse 41.
+- Some of us. Some few appear to have embraced paganism out of fear. Out of fear. So you still had some of us that was like... Go back to First Maccabees 1. The same thing happened during the Greek captivity. Nothing new under the sun. Y'all got anything to bring up from First Maccabees? Let's start from verse 41.
 
 </div>
 
@@ -446,7 +446,7 @@ Reading from *History of the Jews* by Grayzel, page 183 · read by an officer  *
 
 - **Officer:** Android too.
 
-- **Deacon Eythan:** Android. Very sinister. Go ahead.
+- **Deacon Eythan:** Android. Very sinister.
 
 - **Officer:** I was going to say, just like I was saying earlier, it's the same thing in the church. It's happening in the church. They don't keep the Sabbath, they eating unlawful things. So this happened already. And all the churches are supposed to be the churches of God; they serving another god, doing all these things. Don't they have the World Council of Churches, where they tell the churches what they should teach and do and so on and so forth? They already have that in place.
 
@@ -470,7 +470,7 @@ Reading from *History of the Jews* by Grayzel, page 183 · read by an officer  *
 
 - **Officer:** You know what's crazy with that? Ptolemy and Antiochus, they were at odds with each other, but yet they agreed together when it comes to coming against us.
 
-- **Deacon Eythan:** Yep. They all got one common enemy. That's us. They fight each other all day, bro. When it comes to being against us, they unite. They make sure, like, you know what, let's put our beef on pause right now, but we're going to come against these Jews. We're going to come against these …. Right. Verse 9.
+- **Deacon Eythan:** Yep. They all got one common enemy. That's us. They fight each other all day, bro. When it comes to being against us, they unite. They make sure, like, you know what, let's put our beef on pause right now, but we're going to come against these Jews. We're going to come against these …. Verse 9.
 
 > <sup>[9](/bible/2-maccabees/6#v9)</sup> And whoso would not conform themselves to the manners of the Gentiles should be put to death. Then might a man have seen the present misery.
 
@@ -540,7 +540,7 @@ Reading from *History of the Jews* by Grayzel, page 183 · read by an officer  *
 
 - **Officer:** It's the same thing you just read in Maccabees, right? You don't worship him, you're going to die. That's the same thing. And that's how we was forced into Christianity. If you didn't accept Christianity, you were killed. So out of fear our people was forced to accept the image of the beast.
 
-- **Deacon Eythan:** Right, right. Put that up. See that? Put himself as God. That's the same thing.
+- **Deacon Eythan:** See that? Put himself as God. That's the same thing.
 
 - **Officer:** Second Thessalonians chapter 2, verse 4.
 
@@ -556,7 +556,7 @@ Reading from *History of the Jews* by Grayzel, page 183 · read by an officer  *
 
 - **Officer:** That's right. The Bishop always says that the history is going to repeat itself again. Basically the same tactics. And that's why it says in Second Esdras that evil shall increase in the last days, because more power is given to Esau in the last days.
 
-- **Deacon Eythan:** Yup. Right. And during the Persian captivity...
+- **Deacon Eythan:** Yup. And during the Persian captivity...
 
 - **Officer:** Give me Esther 13 and 4, to back up what the officer is bringing out. Hey, it's heavy, what you just brought up. Because I was thinking that as he's bringing the scripture out: at the time that Caligula wanted us to worship him as a god, he had to force us. Now they dropped the atom bomb, and this time we willingly, like, oh …, everybody...
 
@@ -574,19 +574,17 @@ Reading from *History of the Jews* by Grayzel, page 183 · read by an officer  *
 
 - And we always was at that time despising the commandments of kings. God's laws is in opposition of the commandment of the kings.
 
-- You see that? So the other nations already in agreement with what the Persian king wanted to do, what Haman wanted to do. But the fact that we wasn't trying to hear that, that we was in opposition of everybody.
+- So the other nations already in agreement with what the Persian king wanted to do, what Haman wanted to do. But the fact that we wasn't trying to hear that, that we was in opposition of everybody.
 
 > <sup>[5](/bible/esther-greek/13#v5)</sup> Seeing then we understand that this people alone is continually in opposition unto all men, differing in the strange manner of their laws, and evil affected to our state, working all the mischief they can that our kingdom may not be firmly established:
 
 - Unto all men. Not some. We was in opposition to all men. Everybody. That's right.
 
-- You see that? Okay.
-
-- That our kingdom may not be firmly established. Right. So you see, working all the mischief. Because they got to make us sound like, you know, we the bad guys. He calls us a hate group.
+- That our kingdom may not be firmly established. So you see, working all the mischief. Because they got to make us sound like, you know, we the bad guys. He calls us a hate group.
 
 - **Officer:** That's like when it says in the scripture that to some it's the smell of death. Us keeping the law, to other nations, that's what they say: oh, that's mischief against all men.
 
-- **Deacon Eythan:** Yeah, we're about to lose our power. Right. All right, so all praises, all praises.
+- **Deacon Eythan:** Yeah, we're about to lose our power. All right, so all praises, all praises.
 
 *[[57:09](https://www.youtube.com/watch?v=hLad_UgFhx4&t=3429s)]* Hey, from there we're going to take a quick break. All right, just a quick break. Hey, if you want to call or text, 267-702-6121. All right, you can call, send a text. All right, the number is 267-702-6121. All right, so we're going to take a quick break real quick and we will be right back.
 
@@ -620,7 +618,7 @@ Reading from *History of the Jews* by Grayzel, page 183 · read by an officer  *
 
 > <sup>[9](/bible/2-thessalonians/2#v9)</sup> Even him, whose coming is after the working of Satan with all power and signs and lying wonders,
 
-- **Officer:** There you go. He's the devil in the scripture. He's working after the working of Satan. With all power and signs: dropping the bombs. And lying wonders. He's a liar.
+- **Officer:** He's the devil in the scripture. He's working after the working of Satan. With all power and signs: dropping the bombs. And lying wonders. He's a liar.
 
 - **Deacon Eythan:** Where it says the Most High let him... Read verse 7.
 
@@ -628,9 +626,9 @@ Reading from *History of the Jews* by Grayzel, page 183 · read by an officer  *
 
 - So the mystery of iniquity. Iniquity means sin. That already work. That was Rome at that time. Rome.
 
-- Because the Most High gave them an appointed time to rule. All right.
+- Because the Most High gave them an appointed time to rule.
 
-- So go back to verse 4 real quick. Who opposeth and exalteth himself above all that is called God, or that is worshipped. And who's doing it at this time? Who's the emperor at that time? Caligula was the emperor at that time. He was the one that wanted to set up his statues. He the one that deified himself as God. Now all the Caesars did the same thing, okay, because that was how they got down. All right, but at this time that Paul was writing, you had Caligula, you had Nero. Okay, those emperors at that time, crazy as hell, setting themselves up as God, who oppose God. Right. So that he as God sitteth in the temple of God, showing himself that he is God. Remember, remember the book said that he was talking to Jupiter, right? He would talk to Jupiter, like he was over Jupiter, which is their god. Verse 5.
+- So go back to verse 4 real quick. Who opposeth and exalteth himself above all that is called God, or that is worshipped. And who's doing it at this time? Who's the emperor at that time? Caligula was the emperor at that time. He was the one that wanted to set up his statues. He the one that deified himself as God. Now all the Caesars did the same thing, okay, because that was how they got down. All right, but at this time that Paul was writing, you had Caligula, you had Nero. Okay, those emperors at that time, crazy as hell, setting themselves up as God, who oppose God. So that he as God sitteth in the temple of God, showing himself that he is God. Remember, remember the book said that he was talking to Jupiter, right? He would talk to Jupiter, like he was over Jupiter, which is their god. Verse 5.
 
 > <sup>[5](/bible/2-thessalonians/2#v5)</sup> Remember ye not, that, when I was yet with you, I told you these things?
 >
@@ -666,7 +664,7 @@ Reading from a definition looked up on air, disciple · read by an officer  *[[1
 
 > A follower or student of a teacher, leader, or philosopher.
 
-- You see that? So disciple means a follower or student of a teacher, leader or philosopher. All right, get some of the synonyms.
+- So disciple means a follower or student of a teacher, leader or philosopher. All right, get some of the synonyms.
 
 > Follower, adherent, believer, admirer, devotee, acolyte, votary, pupil, student, protege, learner, upholder, supporter, advocate, proponent, apologist...
 
@@ -682,17 +680,17 @@ Reading from a definition looked up on air, disciple · read by an officer  *[[1
 
 > <sup>[40](/bible/john/1#v40)</sup> One of the two which heard John speak, and followed him, was Andrew, Simon Peter’s brother.
 
-- Right. So Peter and Andrew, obviously they followed John. All right, they followed John. Okay, so before they were disciples of Christ, they were first disciples of John. All right, give me John chapter 4. Let me show you something. You know John, John was baptizing, right?
+- So Peter and Andrew, obviously they followed John. All right, they followed John. Okay, so before they were disciples of Christ, they were first disciples of John. All right, give me John chapter 4. Let me show you something. You know John, John was baptizing, right?
 
 **[John 4:1-2](/bible/john/4#v1)**  *[[1:15:25](https://www.youtube.com/watch?v=hLad_UgFhx4&t=4525s)]*
 
 > <sup>[1](/bible/john/4#v1)</sup> When therefore the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John,
 
-- Read it again. Christ.
+- Christ.
 
 > <sup>[2](/bible/john/4#v2)</sup> (Though Jesus himself baptized not, but his disciples,)
 
-- Right. So Christ didn't baptize with water, but the disciples were still doing it. Why? Because who were they following? John. They were disciples of John before they became disciples of Christ. All right, but Christ did not baptize with water. All right, Christ baptized with the laws. All right, that was it. Baptized with the laws. All right, the disciples were still baptizing, though. Okay, from there, now give me *History of the Jews* real quick behind me, Grayzel. No, I want Samuel.
+- So Christ didn't baptize with water, but the disciples were still doing it. Why? Because who were they following? John. They were disciples of John before they became disciples of Christ. All right, but Christ did not baptize with water. All right, Christ baptized with the laws. All right, that was it. Baptized with the laws. All right, the disciples were still baptizing, though. Okay, from there, now give me *History of the Jews* real quick behind me, Grayzel. No, I want Samuel.
 
 - **Officer:** Were you about to say: the churches say don't keep the Old Testament law, but a lot of their traditions, like water baptism and tithing, are in the Old Testament.
 
@@ -716,7 +714,7 @@ Reading from a definition looked up on air, disciple · read by an officer  *[[1
 
 - **Officer:** Moses and Joshua.
 
-- **Deacon Eythan:** Yep. Read that.
+- **Deacon Eythan:** Yep.
 
 <div class="reading">
 
@@ -740,7 +738,7 @@ Reading from a book whose title is not named on air, Excursus H, on the schools 
 
 > ...where he is made the type of the old order.
 
-- Drop down. Jump down. Samuel. Yep. Samuel. Watch this.
+- Drop down. Jump down. Samuel. Yep. Samuel.
 
 > Samuel, however, was the true founder of the prophetic order.
 
@@ -756,11 +754,11 @@ Reading from a book whose title is not named on air, Excursus H, on the schools 
 
 > We must not, however, conclude that all, or that even a large portion, of the people trained in these schools of Samuel were prophets in the sense of being able to make predictions, or even to write or speak as inspired men. This divine gift, we must remember, was a gift of God, which he bestowed on whom he would...
 
-- So hold on, read that again. We must not, however, conclude that all, or that even a large portion, of the people trained in these schools of Samuel were prophets in the sense of being able to make predictions, or even to write or speak as inspired men. Why? Because a lot of the prophets had certain different gifts and so forth. So not everybody was able to make predictions, not everybody was able to write as inspired men. All right, but everybody had different gifts.
+- We must not, however, conclude that all, or that even a large portion, of the people trained in these schools of Samuel were prophets in the sense of being able to make predictions, or even to write or speak as inspired men. Why? Because a lot of the prophets had certain different gifts and so forth. So not everybody was able to make predictions, not everybody was able to write as inspired men. All right, but everybody had different gifts.
 
 - **Officer:** That's the same thing why it says in First Corinthians 12: are all prophets?
 
-- **Deacon Eythan:** Right. Paul said that. Yes.
+- **Deacon Eythan:** Paul said that. Yes.
 
 > This divine gift, we must remember, was a gift of God, which he bestowed on whom he would. He in his omniscience knew who among men were fitted for this grave and important office.
 
@@ -798,7 +796,7 @@ Reading from a book whose title is not named on air, Excursus H, on the schools 
 
 > <sup>[4](/bible/romans/15#v4)</sup> For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.
 
-- Right. That's the religious exercise.
+- That's the religious exercise.
 
 - **Officer:** Give me Judges 5 and 11. The religious exercise of the records of the past. Look what it says right after that.
 
@@ -812,7 +810,7 @@ Reading from a book whose title is not named on air, Excursus H, on the schools 
 
 - **Officer:** So, rehearse. We rehearsing today. Back then, the same thing. Rehearsing is a religious exercise that we're doing in the scriptures. Rehearsing the righteousness. It's just exercising. Same thing. Rehearsal, exercising, you practicing to get better. Progression. Strengthening your spirit.
 
-- **Deacon Eythan:** Right. In those religious... Go back, go back to the book.
+- **Deacon Eythan:** In those religious... Go back, go back to the book.
 
 <div class="reading">
 
@@ -820,7 +818,7 @@ Reading from the same book, Excursus H, continued  *[[1:27:00](https://www.youtu
 
 > The records of the past, we may be certain, were examined and copied with extreme care, and the materials out of which the divine records were in after days compiled were no doubt there arranged and classified. In Samuel's schools by Ramah, we may assume, were trained under their renowned master...
 
-- Hold on, hold on. Read that slow. Read it slow again.
+- Read that slow. Read it slow again.
 
 - In Samuel's schools by Ramah, we may assume, were trained under their renowned master: who? David. King David was a son of the prophet under Samuel.
 
@@ -836,11 +834,11 @@ Reading from the same book, Excursus H, continued  *[[1:27:00](https://www.youtu
 
 - **Officer:** Heman was one of David's counselors. He also wrote Psalms 88, and he was the grandson of Samuel.
 
-- **Deacon Eythan:** All right. Crazy.
+- **Deacon Eythan:** Crazy.
 
 - **Officer:** Yo, let's get First Samuel chapter 3, verse 1. And Samuel himself, remember, before, when he was born, his mom brought him to the temple to become a student of Eli. That was about, if they had a son, it would be the Lord's.
 
-- **Deacon Eythan:** Right. First Samuel 3, verse 1. Read that. I'm sorry, go back, First Samuel 2:26.
+- **Deacon Eythan:** First Samuel 3, verse 1. I'm sorry, go back, First Samuel 2:26.
 
 </div>
 
@@ -848,7 +846,7 @@ Reading from the same book, Excursus H, continued  *[[1:27:00](https://www.youtu
 
 > <sup>[26](/bible/1-samuel/2#v26)</sup> And the child Samuel grew on, and was in favour both with the Lord, and also with men.
 
-- Right. So he grew in the temple. And then the spirit of the Lord was on him, and he had favor both with the Lord and also with men. So go to chapter 3, verse 1.
+- So he grew in the temple. And then the spirit of the Lord was on him, and he had favor both with the Lord and also with men. So go to chapter 3, verse 1.
 
 **[1 Samuel 3:1,6-10](/bible/1-samuel/3#v1)**  *[[1:29:39](https://www.youtube.com/watch?v=hLad_UgFhx4&t=5379s)]*
 
@@ -872,13 +870,13 @@ Reading from the same book, Excursus H, continued  *[[1:27:00](https://www.youtu
 
 - So now he's giving him instruction. The schools of the prophets.
 
-- **Officer:** There you go. Bring it out.
+- **Officer:** Bring it out.
 
 - **Deacon Eythan:** And it shall be, if he call thee, that thou shalt say: this is how you deal with it.
 
 > <sup>[10](/bible/1-samuel/3#v10)</sup> And the Lord came, and stood, and called as at other times, Samuel, Samuel. Then Samuel answered, Speak; for thy servant heareth.
 
-- Boom. It said the Lord came and stood. And stood. That's bad. All praises.
+- Boom. It said the Lord came and stood. And stood. That's bad.
 
 - Hey, go back to the page real quick. Go back to the page. Hey, go back to when it says, in Samuel's schools by Ramah, we may assume, were trained under their renowned master David, Gad, Nathan, Heman, and others, whose names as writers, prophets and teachers subsequently became famous after the days of Samuel. Now get me First Chronicles chapter 25, and start at verse 1.
 
@@ -886,7 +884,7 @@ Reading from the same book, Excursus H, continued  *[[1:27:00](https://www.youtu
 
 > <sup>[1](/bible/1-chronicles/25#v1)</sup> Moreover David and the captains of the host separated to the service of the sons of Asaph, and of Heman, and of Jeduthun, who should prophesy with harps, with psalteries, and with cymbals: and the number of the workmen according to their service was:
 
-- They should do what? Should prophesy, with harps. You see that? They were prophesying through music. That's what we were reading earlier too.
+- They should do what? Should prophesy, with harps. They were prophesying through music. That's what we were reading earlier too.
 
 - **Officer:** Music.
 
@@ -898,7 +896,7 @@ Reading from the same book, Excursus H, continued  *[[1:27:00](https://www.youtu
 
 - The king's seer. Heman the king's seer. The prophet. Heman, remember, was under Samuel.
 
-- **Officer:** You showed us pictures, man. Put them up.
+- **Officer:** You showed us pictures, man.
 
 - **Deacon Eythan:** I don't know why they're not putting the pictures up. Hey listen, listen, hold on. If y'all have any pictures, bro, put them up. I know you're reading the books, but if we in the scriptures, put the pictures up that y'all bringing out.
 
@@ -918,11 +916,11 @@ Reading from the same book, Excursus H, continued  *[[1:27:00](https://www.youtu
 
 - **Officer:** Then Ethan the Ezrahite is Jeduthun, that we read in Chronicles. He was also called Ethan.
 
-- **Deacon Eythan:** Okay. All praises. The bottom part of verse 31. And his fame was in all nations round about. His fame was in all nations, for their wisdom and understanding.
+- **Deacon Eythan:** The bottom part of verse 31. And his fame was in all nations round about. His fame was in all nations, for their wisdom and understanding.
 
 - **Officer:** Deuteronomy 4 and 6: it shall be your wisdom.
 
-- **Deacon Eythan:** Right, right, right. You going to bring it up? So this is what they were saying about those men, they were famous in all nations. Deuteronomy 4.
+- **Deacon Eythan:** You going to bring it up? So this is what they were saying about those men, they were famous in all nations. Deuteronomy 4.
 
 **[Deuteronomy 4:6](/bible/deuteronomy/4#v6)**  *[[1:37:14](https://www.youtube.com/watch?v=hLad_UgFhx4&t=5834s)]*
 
@@ -956,11 +954,11 @@ Reading from a definition looked up on air, retinue · read by an officer  *[[1:
 
 - **Officer:** A more common term today would be called retainers.
 
-- **Deacon Eythan:** Right, right. Even entertainers, or the men, his advisors, his warriors that were with him at all times.
+- **Deacon Eythan:** Even entertainers, or the men, his advisors, his warriors that were with him at all times.
 
-- **Officer:** Right. And even when you look in the King James Bible in First Chronicles 25, it gives a number for those three men. It says the hands of the king. Just like we see in those movies, the Hand. Those three were his hands, right hand men.
+- **Officer:** And even when you look in the King James Bible in First Chronicles 25, it gives a number for those three men. It says the hands of the king. Just like we see in those movies, the Hand. Those three were his hands, right hand men.
 
-- **Deacon Eythan:** All praises for that. All praises. Give me the next page. So we just read up... let me see if there's any more on Samuel. Matter of fact, go to the next page.
+- **Deacon Eythan:** All praises for that. So we just read up... let me see if there's any more on Samuel. Matter of fact, go to the next page.
 
 </div>
 
@@ -970,7 +968,7 @@ Reading from the same book, the next page  *[[1:40:29](https://www.youtube.com/w
 
 > It is at the close of the period of the judges that the office of prophet first becomes not merely an occasional manifestation, but a fixed institution in the Jewish Church. Samuel is the true founder of...
 
-- I'm sorry, hold on. Hey, do y'all have that page I brought out in a Man Up Monday class? It's the *History of the Jews*, with King David. Remember, I brought out, with Saul, I was going over Saul, how he was trying to come after King David. Because Saul was also in the schools. He was there too, under Samuel. See if y'all have that page for me real quick. About King David. *History of the Jews*, Heinrich. Let me see, David and Saul. Nope, that's all you have. Hey, if you don't have it, don't worry about it. Go back to the other page. Bring it up later, don't take too much time.
+- Hey, do y'all have that page I brought out in a Man Up Monday class? It's the *History of the Jews*, with King David. Remember, I brought out, with Saul, I was going over Saul, how he was trying to come after King David. Because Saul was also in the schools. He was there too, under Samuel. See if y'all have that page for me real quick. About King David. *History of the Jews*, Heinrich. Let me see, David and Saul. Nope, that's all you have. Hey, if you don't have it, don't worry about it. Go back to the other page. Bring it up later, don't take too much time.
 
 > Samuel is the true founder of the order of the prophets.
 
@@ -1006,11 +1004,11 @@ Reading from the same book, the next page  *[[1:40:29](https://www.youtube.com/w
 
 - **Deacon Eythan:** Yes. I'm sorry, I apologize. I didn't have that scripture down. But that's when it says Saul among the prophets. But Saul was a generation, a couple generations before David.
 
-- **Officer:** Yeah. All right.
+- **Officer:** Yeah.
 
 > Among these there was certainly Gad, Nathan, David, Saul, and Heman, Samuel's grandson, amongst those who, if they were not actually educated by him, all marked the epoch of his appearance. Amongst these, Samuel, Gad and Heman, as if still belonging in a measure to the older state of things, are called seers, whereas Nathan and David bear without variation the new name of prophet.
 
-- New name of prophet. All right, and King David, he was a prophet himself, right? He was a prophet himself. From there, give me the next page. Let's go to Elijah. Let's do Elijah real quick.
+- New name of prophet. All right, and King David, he was a prophet himself, right? He was a prophet himself. Let's go to Elijah. Let's do Elijah real quick.
 
 - **Officer:** And you know David was familiar with Samuel and his grandson too, because when he was fleeing from Saul, he went and fled to Samuel to get covered at one point.
 
@@ -1036,7 +1034,7 @@ Reading from *History of the Jews* by Grayzel, volume one, pages 199 and 200, on
 
 > He would not have hesitated to offer his life for his creed.
 
-- You see that? He didn't hesitate to offer his life for the Most High.
+- He didn't hesitate to offer his life for the Most High.
 
 > He was considered by his successors as the incarnation of moral and religious zeal. Like a tempest he made his entry, like a tempest he thundered forth his execrations against the weak, woman-led Ahab, like a tempest he rushed away so that no one could seize him, and in a tempest he finally disappeared from his earthly scene of action. Elijah was imbued with the one thought: to save the belief in the God of Israel...
 
@@ -1050,7 +1048,7 @@ Reading from *History of the Jews* by Grayzel, volume one, pages 199 and 200, on
 
 > ...and to his service did his life belong, solely and exclusively. Elijah was outwardly distinguishable by his peculiar dress, in contradistinction to the effeminate, luxurious dress of the worshippers of Baal.
 
-- Hey, hold on, hold on, hold on. You got something? Go ahead. All right, read that again. Read it again.
+- Hey, hold on, hold on, hold on. You got something?
 
 - Elijah was outwardly distinguishable by his peculiar dress, in contradistinction to the effeminate, luxurious dress of the worshippers of Baal. Now we want to deal with the effeminate, luxurious dress of the worshippers of the devil.
 
@@ -1060,7 +1058,7 @@ Reading from *History of the Jews* by Grayzel, volume one, pages 199 and 200, on
 
 - **Officer:** And look what it says. It said he wore a leather belt. Brothers don't be wearing belts today.
 
-- **Deacon Eythan:** They don't use the belt correctly. But what we want to focus on, like the officer brought out, is the effeminate, luxurious dress. Because the way our people dress today, they think that's style. They think that's the trend. Right, right. No, that's effeminate dressing. They worshipping the devil, man. Damn, man.
+- **Deacon Eythan:** They don't use the belt correctly. But what we want to focus on, like the officer brought out, is the effeminate, luxurious dress. Because the way our people dress today, they think that's style. They think that's the trend. No, that's effeminate dressing. They worshipping the devil, man. Damn, man.
 
 - But Elijah was outwardly distinguishable by his peculiar dress. He had on something bad. A nice garment.
 
@@ -1070,11 +1068,11 @@ Reading from *History of the Jews* by Grayzel, volume one, pages 199 and 200, on
 
 > His undergarment was confined by a leather belt, and over it he wore a black, hairy cloak. He wore his hair long...
 
-- Throw it up. Braided up.
+- Braided up.
 
 > ...and touched no wine, and thus gave rise to the institution of Nazarites, who were not permitted to drink wine or to shave the hair of the head.
 
-- Here we go. Watch this.
+- Here we go.
 
 > In this costume and with these habits he appeared first in Gilead, and there announced the all-embracing creed: Jehovah alone is God. Here, where the Jordan offered a barrier against the swarms of the priests of Baal, where fear of Ahab and Jezebel could not paralyze the conscience, there were yet faithful adherents of the God of Israel.
 
@@ -1094,11 +1092,9 @@ Reading from *History of the Jews* by Grayzel, volume one, pages 199 and 200, on
 
 > In a short time a body of prophets or disciples had arisen, who were ready to give up their lives for their ancestral tenets.
 
-- Read it again. In a short time a body of prophets... in a short time. A body of prophets or disciples had arisen, who were ready to give up their lives for their ancestral tenets. So who were ready to give their lives for God's laws.
+- In a short time a body of prophets... in a short time. A body of prophets or disciples had arisen, who were ready to give up their lives for their ancestral tenets. So who were ready to give their lives for God's laws.
 
 - **Officer:** Loved not their lives unto death.
-
-- **Deacon Eythan:** There you go.
 
 - **Officer:** The ones God had in store, that would not bow down. Every generation, for a leader, took him up.
 
@@ -1112,8 +1108,6 @@ Reading from *History of the Jews* by Grayzel, volume one, pages 199 and 200, on
 
 - **Officer:** So basically you're saying that the ambassadors today that live in a luxury life are not the disciples of Christ.
 
-- **Deacon Eythan:** Right. Read it again.
-
 > They also followed Elijah's way of living and became Nazarites. The principles of this newly formed circle were to lead a simple life, not to dwell in cities where luxury and effeminacy ruled, but in village tents...
 
 - So the prophets was just simple. Yep, right. They just focus on the scriptures. On the scriptures. Because it was so much of effeminacy and so forth going on at that time. Just like today, you have to separate yourself, man.
@@ -1123,8 +1117,6 @@ Reading from *History of the Jews* by Grayzel, volume one, pages 199 and 200, on
 - **Deacon Eythan:** Yeah, the lust of the world, lust of the flesh.
 
 > ...not to drink wine, not to till vineyards, to avoid agriculture generally, but, like the patriarchs and the tribes in earlier times, to live by tending flocks.
-
-- Go down, go down. Let me see. Go down.
 
 > In this way Elijah not only aroused and inspired a band of defenders of the ancient law...
 
@@ -1182,11 +1174,11 @@ Reading from *History of the Jews* by Grayzel, volume one, pages 283 and 284, on
 
 > Happily there existed in Jerusalem a strong party who respected the law so despised and scoffed at the court faction. These formed a striking contrast to the representatives of idolatry...
 
-- Hold on. I said, these formed a striking contrast to the representatives of idolatry. You know those representatives of idolatry, those are false prophets. The effeminate. They were the representatives of idolatry.
+- I said, these formed a striking contrast to the representatives of idolatry. You know those representatives of idolatry, those are false prophets. The effeminate. They were the representatives of idolatry.
 
 > ...and were determined to seal their convictions even with their blood. These disciples of the Lord, whom Isaiah had taught and educated as his own children...
 
-- Read that again. These disciples of the Lord, whom Isaiah had taught and educated as his own children.
+- These disciples of the Lord, whom Isaiah had taught and educated as his own children.
 
 > ...were the long-suffering Anavim, so small in numbers and low in rank, whose determination, however, rendered them a strong power. They may be called the Anavites or prophetic party.
 
@@ -1206,7 +1198,7 @@ Reading from *History of the Jews* by Grayzel, volume one, pages 283 and 284, on
 
 *[[1:59:50](https://www.youtube.com/watch?v=hLad_UgFhx4&t=7190s)]* All right, so listen, I'm going to stop it there. I got more, so stay tuned. Next week we're going to go more. I got more on the sons of the prophets, and then we're going to start to get back into the disciples and how they were moving. All right, so let's give another hand for the excellent class. The excellent class that just came out.
 
-*[[2:02:00](https://www.youtube.com/watch?v=hLad_UgFhx4&t=7320s)]* So we got a video for you real quick. It's called The Prophets. Come on.
+*[[2:02:00](https://www.youtube.com/watch?v=hLad_UgFhx4&t=7320s)]* So we got a video for you real quick. It's called The Prophets.
 
 **Officer:** See, we got a couple young prophets too. There were some that were at Passover doing it.
 
@@ -1214,7 +1206,7 @@ Reading from *History of the Jews* by Grayzel, volume one, pages 283 and 284, on
 
 The song in the video: *On this road too long, I'm making my way back home. I was young, did a lot of things wrong, I'm making my way back home.*
 
-*[[2:03:29](https://www.youtube.com/watch?v=hLad_UgFhx4&t=7409s)]* Sons of the prophets. All right, all praise, all praise. So with that we're going to say shalom. Hey, I want to give a shout out to the sisters that made the breakfast. All praises. We always want to thank the sisters for the work they put in with the food. IT, y'all going to get better. All right. Hey, with that, stay tuned. Like I said, stay tuned next week. We're going to get more into the sons of the prophets, and also we're going into the rise and the ministry of the disciples. All right, with that we say shalom. Shalom.
+*[[2:03:29](https://www.youtube.com/watch?v=hLad_UgFhx4&t=7409s)]* Sons of the prophets. So with that we're going to say shalom. Hey, with that, stay tuned. Like I said, stay tuned next week. We're going to get more into the sons of the prophets, and also we're going into the rise and the ministry of the disciples. All right, with that we say shalom. Shalom.
 
 ## Announcements & References
 

@@ -44,10 +44,10 @@ tags: ["15 Minutes w/ The Captains", "angels", "christ", "false-religion", "the-
 **[2 Peter 3:15-16](/bible/2-peter/3#v15)**  *[[5:53](https://www.youtube.com/watch?v=GCqu8FdkKt8&t=353s)]*
 
 > <sup>[15](/bible/2-peter/3#v15)</sup> And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;
->
-> <sup>[16](/bible/2-peter/3#v16)</sup> As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction.
 
 - Even as our beloved brother Paul also according to the wisdom given unto him hath written unto you: So the apostle Peter who was left in charge is now discussing Paul's letters. He said Paul got wisdom, wisdom that was given unto him.
+
+> <sup>[16](/bible/2-peter/3#v16)</sup> As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction.
 
 - In which are some things hard to be understood: So the apostle Peter who Christ left in charge, I think y'all forget that Christ left the apostle Peter in charge. Okay. He is the one that the Lord said, you going to lead the church. But Peter was limited in being able to give understanding and speaking multiple languages. So the Apostle Paul comes into the picture. The Apostle Peter reads the Apostle Paul's letters and said it's some things in here that are going to be hard for people to understand. And who are the people that are going to misinterpret or not understand it? Keep reading.
 
@@ -147,10 +147,10 @@ tags: ["15 Minutes w/ The Captains", "angels", "christ", "false-religion", "the-
 **[Colossians 1:15-16](/bible/colossians/1#v15)**  *[[28:56](https://www.youtube.com/watch?v=GCqu8FdkKt8&t=1736s)]*
 
 > <sup>[15](/bible/colossians/1#v15)</sup> Who is the image of the invisible God, the firstborn of every creature:
->
-> <sup>[16](/bible/colossians/1#v16)</sup> For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:
 
 - Who is the image of the invisible God, the firstborn of every creature: So Christ is the image of the invisible God, the first born of every creature. How is Christ God the father and he was created? It said the firstborn of every creature. Meaning he's the first one God created. Why you think it calls him the only begotten son? The only begotten son, cuz he's the only thing God created. God then used him to create everything else. Watch. He's going to tell you that. Keep reading verse 16.
+
+> <sup>[16](/bible/colossians/1#v16)</sup> For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:
 
 - For by him were all things created: All things were created. Listen. All things were created by Christ. But Christ was created by the father. It's that simple. Christ was created by the father and then the father used Christ to create everything else. Keep reading.
 
@@ -270,12 +270,12 @@ tags: ["15 Minutes w/ The Captains", "angels", "christ", "false-religion", "the-
 **[John 1:1-2](/bible/john/1#v1)**  *[[50:07](https://www.youtube.com/watch?v=GCqu8FdkKt8&t=3007s)]*
 
 > <sup>[1](/bible/john/1#v1)</sup> In the beginning was the Word, and the Word was with God, and the Word was God.
->
-> <sup>[2](/bible/john/1#v2)</sup> The same was in the beginning with God.
 
 - In the beginning was the Word, and the Word was with God, and the Word was God: Go to John 1 and 1, because I saw somebody post that in the comments as if we weren't going to deal with it. Right? In the beginning was the word and the word was with God and the word was God. Why was the word God? Because God the father created it and used it to create everything else. The it is verse 14. Go to 14.
 
 - And the Word was God: And the word was God. Go ahead.
+
+> <sup>[2](/bible/john/1#v2)</sup> The same was in the beginning with God.
 
 - The same was in the beginning with God: The same was in the beginning with God. Why was he in the beginning with God? Because God created him first. In the beginning, God created him first. Go back to Colossians 1:15 again. Listen to the words. Go back to Colossians 1:15. Let's listen to the words. Here we go.
 
@@ -289,12 +289,12 @@ tags: ["15 Minutes w/ The Captains", "angels", "christ", "false-religion", "the-
 **[Colossians 1:15-16](/bible/colossians/1#v15)**  *[[52:54](https://www.youtube.com/watch?v=GCqu8FdkKt8&t=3174s)]*
 
 > <sup>[15](/bible/colossians/1#v15)</sup> Who is the image of the invisible God, the firstborn of every creature:
->
-> <sup>[16](/bible/colossians/1#v16)</sup> For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:
 
 - The firstborn of every creature: The first born of every creature. The first born of every creature. Oh, here we go.
 
 - Who is the image of the invisible God, the firstborn of every creature: He is the beginning of the creation of God. He was God's first creation. He is the only begotten. God created him and used him.
+
+> <sup>[16](/bible/colossians/1#v16)</sup> For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:
 
 - All things were created by him, and for him: Everything was created by him and for him. Why? So they can eventually be in subjection to him. Only thing that is not subject to Christ is God his father. He is the only thing that was not put under Christ, or that would not be put under Christ. Everybody else going to bow. You understand? But the father will not bow. Christ bows to his father. And I know that hurt a Christian soul. Go back to John 1 verse one and two again. John chapter 1, read verse one and read on down. We going to finish it out. I'm going put a nail in this coffin.
 
@@ -312,11 +312,15 @@ tags: ["15 Minutes w/ The Captains", "angels", "christ", "false-religion", "the-
 > <sup>[2](/bible/john/1#v2)</sup> The same was in the beginning with God.
 >
 > <sup>[3](/bible/john/1#v3)</sup> All things were made by him; and without him was not any thing made that was made.
->
+
+- Without him was not any thing made that was made: Right? Without him was not anything made that was made. Meaning Christ, because Christ created everything. The father created him and then he created everything else.
+
 > <sup>[4](/bible/john/1#v4)</sup> In him was life; and the life was the light of men.
 >
 > <sup>[5](/bible/john/1#v5)</sup> And the light shineth in darkness; and the darkness comprehended it not.
->
+
+- And the light shineth in darkness; and the darkness comprehended it not: That's Genesis chapter one. When it said the evening and the morning were the first day, and he say, created light. He saw that the light was good. That was Christ that he created.
+
 > <sup>[6](/bible/john/1#v6)</sup> There was a man sent from God, whose name was John.
 >
 > <sup>[7](/bible/john/1#v7)</sup> The same came for a witness, to bear witness of the Light, that all men through him might believe.
@@ -324,10 +328,6 @@ tags: ["15 Minutes w/ The Captains", "angels", "christ", "false-religion", "the-
 > <sup>[8](/bible/john/1#v8)</sup> He was not that Light, but was sent to bear witness of that Light.
 >
 > <sup>[9](/bible/john/1#v9)</sup> That was the true Light, which lighteth every man that cometh into the world.
-
-- Without him was not any thing made that was made: Right? Without him was not anything made that was made. Meaning Christ, because Christ created everything. The father created him and then he created everything else.
-
-- And the light shineth in darkness; and the darkness comprehended it not: That's Genesis chapter one. When it said the evening and the morning were the first day, and he say, created light. He saw that the light was good. That was Christ that he created.
 
 - That was the true Light: So this is talking about Jesus. That was the true light. The true light.
 
@@ -337,9 +337,15 @@ tags: ["15 Minutes w/ The Captains", "angels", "christ", "false-religion", "the-
 **[Proverbs 8:22-31](/bible/proverbs/8#v22)**  *[[57:42](https://www.youtube.com/watch?v=GCqu8FdkKt8&t=3462s)]*
 
 > <sup>[22](/bible/proverbs/8#v22)</sup> The Lord possessed me in the beginning of his way, before his works of old.
->
+
+- The Lord possessed me in the beginning of his way, before his works of old: So who is this talking? This is wisdom talking. So the Lord possessed me in the beginning of his way before his works of old.
+
 > <sup>[23](/bible/proverbs/8#v23)</sup> I was set up from everlasting, from the beginning, or ever the earth was.
->
+
+- I was set up from everlasting: I was here from everlasting.
+
+- From the beginning, or ever the earth was: Before there was an earth, I was here. That's what he's saying. Before there was an earth, I was here.
+
 > <sup>[24](/bible/proverbs/8#v24)</sup> When there were no depths, I was brought forth; when there were no fountains abounding with water.
 >
 > <sup>[25](/bible/proverbs/8#v25)</sup> Before the mountains were settled, before the hills was I brought forth:
@@ -347,22 +353,14 @@ tags: ["15 Minutes w/ The Captains", "angels", "christ", "false-religion", "the-
 > <sup>[26](/bible/proverbs/8#v26)</sup> While as yet he had not made the earth, nor the fields, nor the highest part of the dust of the world.
 >
 > <sup>[27](/bible/proverbs/8#v27)</sup> When he prepared the heavens, I was there: when he set a compass upon the face of the depth:
->
+
+- When he prepared the heavens, I was there: When he prepared the heavens, I was there.
+
 > <sup>[28](/bible/proverbs/8#v28)</sup> When he established the clouds above: when he strengthened the fountains of the deep:
 >
 > <sup>[29](/bible/proverbs/8#v29)</sup> When he gave to the sea his decree, that the waters should not pass his commandment: when he appointed the foundations of the earth:
 >
 > <sup>[30](/bible/proverbs/8#v30)</sup> Then I was by him, as one brought up with him: and I was daily his delight, rejoicing always before him;
->
-> <sup>[31](/bible/proverbs/8#v31)</sup> Rejoicing in the habitable part of his earth; and my delights were with the sons of men.
-
-- The Lord possessed me in the beginning of his way, before his works of old: So who is this talking? This is wisdom talking. So the Lord possessed me in the beginning of his way before his works of old.
-
-- I was set up from everlasting: I was here from everlasting.
-
-- From the beginning, or ever the earth was: Before there was an earth, I was here. That's what he's saying. Before there was an earth, I was here.
-
-- When he prepared the heavens, I was there: When he prepared the heavens, I was there.
 
 - Then I was by him, as one brought up with him: and I was daily his delight: Wait a minute. Then was I by him as one brought up with him. And I was daily his delight, rejoicing always before him, rejoicing in the habitable part of the earth, his earth. And my delights were in the sons of men. So wait a minute now. So Christ is saying, this is the spirit. This is wisdom right here speaking through King Solomon. That's the spirit of Christ speaking through Solomon to tell you, I was there in the beginning. How do we know it's Christ? How do we know that that's Christ speaking through him? Let's see.
 
@@ -371,6 +369,8 @@ tags: ["15 Minutes w/ The Captains", "angels", "christ", "false-religion", "the-
     > <sup>[24](/bible/1-corinthians/1#v24)</sup> But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God.
 
     Christ is the power of God and the wisdom of God. Christ is not God the father. Christ is God the son. The only begotten of the father that the father used to create all things. But Christ is in subjection to his father. Say it again. Christ is in subjection to his father. Thus sayeth the Lord, Christ does not supersede his father. He does not exel his father. He submits himself 100% fully to his father, God the father. And we submit ourselves unto Christ. And by submitting ourselves unto Christ, we submit ourselves to the father. Because if you don't believe on Christ, you cannot believe on his father, God, cuz God sent him. You understand?
+
+> <sup>[31](/bible/proverbs/8#v31)</sup> Rejoicing in the habitable part of his earth; and my delights were with the sons of men.
 
 
 ## In Closing

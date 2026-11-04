@@ -24,16 +24,16 @@ tags: ["15 Minutes w/ The Captains", "endurance", "mental-health", "the-word"]
 **[Sirach 40:1-4](/bible/sirach/40#v1)**  *[[0:36](https://www.youtube.com/watch?v=xYAx0fYIA4Y&t=36s)]*
 
 > <sup>[1](/bible/sirach/40#v1)</sup> Great travail is created for every man, and an heavy yoke is upon the sons of Adam, from the day that they go out of their mother’s womb, till the day that they return to the mother of all things.
->
-> <sup>[2](/bible/sirach/40#v2)</sup> Their imagination of things to come, and the day of death, trouble their thoughts, and cause fear of heart;
->
-> <sup>[3](/bible/sirach/40#v3)</sup> From him that sitteth on a throne of glory, unto him that is humbled in earth and ashes;
->
-> <sup>[4](/bible/sirach/40#v4)</sup> From him that weareth purple and a crown, unto him that is clothed with a linen frock.
 
 - Great travail is created for every man, and an heavy yoke is upon the sons of Adam: so that's something that we have to come to grips with. Life is not as easy as the movies and sitcoms and TV shows make it to be. Life is hard. That is what God has pronounced upon all of us.
 
+> <sup>[2](/bible/sirach/40#v2)</sup> Their imagination of things to come, and the day of death, trouble their thoughts, and cause fear of heart;
+>
+> <sup>[3](/bible/sirach/40#v3)</sup> From him that sitteth on a throne of glory, unto him that is humbled in earth and ashes;
+
 - From him that sitteth on a throne of glory, unto him that is humbled in earth and ashes: so that goes from the king down to the peasants. As it's been said before, more money, more problems. So it doesn't matter what status you are. God says that every man will go through great travail.
+
+> <sup>[4](/bible/sirach/40#v4)</sup> From him that weareth purple and a crown, unto him that is clothed with a linen frock.
 
 - Unto him that is clothed with a linen frock: with a linen frock.
 
@@ -41,10 +41,10 @@ tags: ["15 Minutes w/ The Captains", "endurance", "mental-health", "the-word"]
 **[Job 14:1-2](/bible/job/14#v1)**  *[[1:49](https://www.youtube.com/watch?v=xYAx0fYIA4Y&t=109s)]*
 
 > <sup>[1](/bible/job/14#v1)</sup> Man that is born of a woman is of few days, and full of trouble.
->
-> <sup>[2](/bible/job/14#v2)</sup> He cometh forth like a flower, and is cut down: he fleeth also as a shadow, and continueth not.
 
 - Man that is born of a woman is of few days, and full of trouble: that's what we just read in Sirach chapter 40. Full of trouble. The thoughts of death, the thoughts of despair, the thoughts of what we would call depression today, it will come upon all of us. And we all have to fight through it. That's our proving to God.
+
+> <sup>[2](/bible/job/14#v2)</sup> He cometh forth like a flower, and is cut down: he fleeth also as a shadow, and continueth not.
 
 - He fleeth also as a shadow, and continueth not: that means our time here upon earth is short.
 
@@ -64,32 +64,32 @@ Reading from World Health Organization, definition of depression  *[[2:44](https
 
 **[Sirach 23:1-3](/bible/sirach/23#v1)**  *[[3:33](https://www.youtube.com/watch?v=xYAx0fYIA4Y&t=213s)]*
 
-> <sup>[1](/bible/sirach/23#v1)</sup> O Lord, Father and Governor of all my whole life, leave me not to their counsels, and let me not fall by them.
->
-> <sup>[2](/bible/sirach/23#v2)</sup> Who will set scourges over my thoughts, and the discipline of wisdom over mine heart? that they spare me not for mine ignorances, and it pass not by my sins:
->
-> <sup>[3](/bible/sirach/23#v3)</sup> Lest mine ignorances increase, and my sins abound to my destruction, and I fall before mine adversaries, and mine enemy rejoice over me, whose hope is far from thy mercy.
-
 - Look what the book of Sirach says about those thoughts.
 
+> <sup>[1](/bible/sirach/23#v1)</sup> O Lord, Father and Governor of all my whole life, leave me not to their counsels, and let me not fall by them.
+
 - Leave me not to their counsels: now he's going to explain what he means by their counsels.
+
+> <sup>[2](/bible/sirach/23#v2)</sup> Who will set scourges over my thoughts, and the discipline of wisdom over mine heart? that they spare me not for mine ignorances, and it pass not by my sins:
 
 - Who will set scourges over my thoughts: not let me fall by my thoughts, cuz that's where all of the depression, that's where the loss of interest, the disturbed sleep or appetite, it starts here in the mind before anywhere else. It may be external extremities that cause things, but the mind is what makes the body react. So it says, don't let me fall by my thoughts. Set scourges over them. Don't let them overtake me.
 
 - And it pass not by my sins: so don't let your thoughts overcome you. Don't let the ignorance of your thoughts overtake you, that you have to have food to come up out of this mental state that you are in. This is going to make me feel better. It's only going to bring sin and bring about destruction to you in the physical form.
 
+> <sup>[3](/bible/sirach/23#v3)</sup> Lest mine ignorances increase, and my sins abound to my destruction, and I fall before mine adversaries, and mine enemy rejoice over me, whose hope is far from thy mercy.
+
 
 **[Sirach 30:21-23](/bible/sirach/30#v21)**  *[[5:00](https://www.youtube.com/watch?v=xYAx0fYIA4Y&t=300s)]*
 
 > <sup>[21](/bible/sirach/30#v21)</sup> Give not over thy mind to heaviness, and afflict not thyself in thine own counsel.
->
-> <sup>[22](/bible/sirach/30#v22)</sup> The gladness of the heart is the life of man, and the joyfulness of a man prolongeth his days.
->
-> <sup>[23](/bible/sirach/30#v23)</sup> Love thine own soul, and comfort thy heart, remove sorrow far from thee: for sorrow hath killed many, and there is no profit therein.
 
 - Give not over thy mind to heaviness, and afflict not thyself in thine own counsel: because it leads to the destroying of yourself. It leads to overeating. Don't give yourself over to the heaviness that is in your mind. Your thoughts.
 
+> <sup>[22](/bible/sirach/30#v22)</sup> The gladness of the heart is the life of man, and the joyfulness of a man prolongeth his days.
+
 - The joyfulness of a man prolongeth his days: it prolongs his days. And what does the depression do? It shortens the day. It's the opposite of joyfulness, cuz it's something in the body, it's called dopamine. When that is in the body, you feel better. Everything in your body feels much better. But on the opposite end of that, the depression, everything in your body feels down. When it feels heavy, you start thinking of the worst things in your life. That's why God says, give not over thy mind to heaviness. Cast it away from you.
+
+> <sup>[23](/bible/sirach/30#v23)</sup> Love thine own soul, and comfort thy heart, remove sorrow far from thee: for sorrow hath killed many, and there is no profit therein.
 
 - For sorrow hath killed many: that sorrow kills many.
 
@@ -112,8 +112,14 @@ Reading from World Health Organization, definition of depression  *[[2:44](https
 
 **[Psalms 119:97-103](/bible/psalms/119#v97)**  *[[7:38](https://www.youtube.com/watch?v=xYAx0fYIA4Y&t=458s)]*
 
+- Let's see what David, our forefather, who was a man after God's own heart, what did he do when he felt down?
+
 > <sup>[97](/bible/psalms/119#v97)</sup> O how love I thy law! it is my meditation all the day.
->
+
+- O how love I thy law: he loved the law of God. That's one thing that we all have to do. We have to come to the point of loving the laws of God.
+
+- It is my meditation all the day: that's what he did. Instead of comforting with food, he comforted himself in meditating upon the laws of God. Cuz the law of God is an oracle. It'll tell you what is and what is to come.
+
 > <sup>[98](/bible/psalms/119#v98)</sup> Thou through thy commandments hast made me wiser than mine enemies: for they are ever with me.
 >
 > <sup>[99](/bible/psalms/119#v99)</sup> I have more understanding than all my teachers: for thy testimonies are my meditation.
@@ -126,12 +132,6 @@ Reading from World Health Organization, definition of depression  *[[2:44](https
 >
 > <sup>[103](/bible/psalms/119#v103)</sup> How sweet are thy words unto my taste! yea, sweeter than honey to my mouth!
 
-- Let's see what David, our forefather, who was a man after God's own heart, what did he do when he felt down?
-
-- O how love I thy law: he loved the law of God. That's one thing that we all have to do. We have to come to the point of loving the laws of God.
-
-- It is my meditation all the day: that's what he did. Instead of comforting with food, he comforted himself in meditating upon the laws of God. Cuz the law of God is an oracle. It'll tell you what is and what is to come.
-
 - How sweet are thy words unto my taste: the word of God is sweeter than any kind of ice cream or candy or sweets or trinkets that you can take in to your physical body. This spiritual word of God will fill you and comfort you more than any food can.
 
 - Yea, sweeter than honey to my mouth: there you go. If you want to taste the honey, you need to meditate on this law. That's what this word of God is like.
@@ -140,14 +140,14 @@ Reading from World Health Organization, definition of depression  *[[2:44](https
 **[Psalms 19:7-10](/bible/psalms/19#v7)**  *[[9:16](https://www.youtube.com/watch?v=xYAx0fYIA4Y&t=556s)]*
 
 > <sup>[7](/bible/psalms/19#v7)</sup> The law of the Lord is perfect, converting the soul: the testimony of the Lord is sure, making wise the simple.
->
+
+- The law of the LORD is perfect, converting the soul: remember we read earlier about how the thoughts of heaviness will bring down the soul. The thoughts of depression will bring down the mind. But what God is saying through the mouth of David, that the law of God, when you delight in it, it will change that soul. It'll change the thoughts that are in you that are bringing you down, causing you to overeat.
+
 > <sup>[8](/bible/psalms/19#v8)</sup> The statutes of the Lord are right, rejoicing the heart: the commandment of the Lord is pure, enlightening the eyes.
 >
 > <sup>[9](/bible/psalms/19#v9)</sup> The fear of the Lord is clean, enduring for ever: the judgments of the Lord are true and righteous altogether.
 >
 > <sup>[10](/bible/psalms/19#v10)</sup> More to be desired are they than gold, yea, than much fine gold: sweeter also than honey and the honeycomb.
-
-- The law of the LORD is perfect, converting the soul: remember we read earlier about how the thoughts of heaviness will bring down the soul. The thoughts of depression will bring down the mind. But what God is saying through the mouth of David, that the law of God, when you delight in it, it will change that soul. It'll change the thoughts that are in you that are bringing you down, causing you to overeat.
 
 - Sweeter also than honey and the honeycomb: God says once again that word is sweet when you believe it. When you meditate on it, when they get down in your soul, it can convert it. It can change the thoughts so you don't eat your emotions and they overcome you.
 
@@ -178,15 +178,15 @@ Reading from World Health Organization, definition of depression  *[[2:44](https
 
 **[Matthew 11:28-29](/bible/matthew/11#v28)**  *[[12:43](https://www.youtube.com/watch?v=xYAx0fYIA4Y&t=763s)]*
 
-> <sup>[28](/bible/matthew/11#v28)</sup> Come unto me, all ye that labour and are heavy laden, and I will give you rest.
->
-> <sup>[29](/bible/matthew/11#v29)</sup> Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.
-
 - We can trust what Christ said in Matthew 4:4. We can meditate upon the word like David said and watch it change our soul.
+
+> <sup>[28](/bible/matthew/11#v28)</sup> Come unto me, all ye that labour and are heavy laden, and I will give you rest.
 
 - Come unto me, all ye that labour and are heavy laden: now heavy laden, that means you covered with sins. Whatever it might be that's bringing you down, it's on you heavy. It's weighing on your mind heavy.
 
 - And I will give you rest: Christ said, I'll give you rest. That's who we should turn to. That's who we send our prayers up to. He'll give us rest.
+
+> <sup>[29](/bible/matthew/11#v29)</sup> Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.
 
 - And ye shall find rest unto your souls: so when those thoughts get heavy on you, the thoughts of death, the thoughts of depression, the thoughts of disturbed sleep, it may be your children are out of order. It may be your wife out of order. It may be things that are not going right in your life. And your thoughts get to weigh down on you. Don't let them overcome you. Meditate on this word and let this comfort you, and not eat your emotions. Thus saith the Lord.
 

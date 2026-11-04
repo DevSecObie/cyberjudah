@@ -2,7 +2,7 @@
 title: "Social Media - Weapons of Mass Distraction"
 slug: "2026/2026-06-01-social-media-weapons-of-mass-distraction"
 date: "2026-06-01"
-teacher: "Captain Obadiah"
+teacher: "Captain Tobias"
 description: "15 Minutes w/ The Captains · 2026-06-01"
 tags: ["15 Minutes w/ The Captains", "media", "purpose", "the-law", "war", "wisdom"]
 ---
@@ -63,11 +63,9 @@ Reading from social media usage figures, on screen  *[[4:13](https://www.youtube
 
 **[Sirach 39:1-2](/bible/sirach/39#v1)**  *[[8:31](https://www.youtube.com/watch?v=P_B1XxQh7A0&t=511s)]*
 
-> <sup>[1](/bible/sirach/39#v1)</sup> But he that giveth his mind to the law of the most High, and is occupied in the meditation thereof, will seek out the wisdom of all the ancient, and be occupied in prophecies.
->
-> <sup>[2](/bible/sirach/39#v2)</sup> He will keep the sayings of the renowned men: and where subtil parables are, he will be there also.
-
 - This is the order in how you should start to read the Bible.
+
+> <sup>[1](/bible/sirach/39#v1)</sup> But he that giveth his mind to the law of the most High, and is occupied in the meditation thereof, will seek out the wisdom of all the ancient, and be occupied in prophecies.
 
 - But he that giveth his mind to the law of the most High: first, brothers and sisters, get off them social media and addict yourself to the law. Zakai say it all the time: you cannot understand the Bible if you don't understand where they getting it from. Why Christ said this, where did he get it from? The law. Why Paul says there's neither Jew nor Greek, or the law is done away with: he's clearly not saying you can commit adultery or do whatever you want with animals. But you don't understand what he's saying because you haven't gone first to the law.
 
@@ -78,6 +76,8 @@ Reading from social media usage figures, on screen  *[[4:13](https://www.youtube
 - And be occupied in prophecies: those are the most difficult ones. When Deacon Malachi and the Bishop start rattling off prophecies, you be like, golly. Why? Because they started with the law first, the milk first. If you've been in this truth long enough, you hear how brothers used to teach, then they're getting better, then all of a sudden fire mode. You cannot skip the process. If you got social media on your brain, you going to do the bare minimum just to get by.
 
 - And where subtle parables are, he will be there also: where brothers are talking about scriptures, sharpening your sword with the brother. There's brothers and sisters in some schools that when scriptures are going out, they're not at no leadership table asking questions or even listening. They all the way in the back dancing, outside giggling. There's brothers with high ranks that never is in the war room trying to listen to the parables. It baffles me.
+
+> <sup>[2](/bible/sirach/39#v2)</sup> He will keep the sayings of the renowned men: and where subtil parables are, he will be there also.
 
 
 **[1 Corinthians 15:33](/bible/1-corinthians/15#v33)**  *[[12:50](https://www.youtube.com/watch?v=P_B1XxQh7A0&t=770s)]*

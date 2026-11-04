@@ -56,3 +56,25 @@ test('a rank row with a third column names the man the class marked by another r
   assert.equal(namedTeacher('Elder', '6Zr0mBGRnyU', ranks), 'Elder');
   assert.throws(() => parseRankTeachers(`${RANK_HEADER}\n6Zr0mBGRnyU\tElder Labachaa\tOfficer\n`));
 });
+
+test('a recording takes its outline teacher, in our spelling, and its date when it has none', async () => {
+  const { parseNames, parseOutlineTeachers, outlinedClass } = await import('./class-metadata.mjs');
+  const names = parseNames('name\tvariants\tnote\nDeacon Yoshua\tDeacon Yeshua;Deacon Yashua\t\n');
+  const head = 'date\tfile_date\tvideo\tteacher\tsession\tlang\tscore\tr2_key';
+  const o = parseOutlineTeachers(`# note\n${head}\n2025-12-20\t\tAAAAAAAAAAA\tDeacon Yeshua\t\ten\t1\tk\n2025-12-21\t\tBBBBBBBBBBB\tBishop Kani\t\ten\t1\tk\n2025-12-21\t\tBBBBBBBBBBB\tBishop Yawasap\t\ten\t1\tk\n2025-12-22\t\tCCCCCCCCCCC\tCaptain Gad\t\ten\t1\tk\n2025-12-22\t\tCCCCCCCCCCC\tCaptain Gad\t\ten\t1\tk\n`, names);
+  assert.deepEqual(o.get('AAAAAAAAAAA'), { teacher: 'Deacon Yoshua', date: '2025-12-20' });
+  assert.equal(o.has('BBBBBBBBBBB'), false, 'a recording filed under two teachers is left out');
+  assert.equal(o.get('CCCCCCCCCCC').teacher, 'Captain Gad');
+  assert.deepEqual(outlinedClass({ title: 'T', date: '', teacher: 'Bishop from' }, o, 'AAAAAAAAAAA'), { title: 'T', date: '2025-12-20', teacher: 'Deacon Yoshua' });
+  assert.equal(outlinedClass({ title: 'T', date: '2025-12-19', teacher: '' }, o, 'AAAAAAAAAAA').date, '2025-12-19');
+  assert.deepEqual(outlinedClass({ title: 'T', date: '', teacher: 'x' }, o, 'ZZZZZZZZZZZ'), { title: 'T', date: '', teacher: 'x' });
+});
+
+test('a class can name its bare "Deacon" and its bare "Captain" passages separately', async () => {
+  const { parseRankTeachers, namedTeacher, RANK_HEADER } = await import('./class-metadata.mjs');
+  const ranks = parseRankTeachers(`${RANK_HEADER}\nxa6eyWlShws\tDeacon Malachiyah\nxa6eyWlShws\tDeacon Malachiyah\tCaptain\n`);
+  assert.equal(namedTeacher('Deacon', 'xa6eyWlShws', ranks), 'Deacon Malachiyah');
+  assert.equal(namedTeacher('Captain', 'xa6eyWlShws', ranks), 'Deacon Malachiyah');
+  assert.equal(namedTeacher('Bishop', 'xa6eyWlShws', ranks), 'Bishop');
+  assert.throws(() => parseRankTeachers(`${RANK_HEADER}\nxa6eyWlShws\tDeacon Malachiyah\nxa6eyWlShws\tDeacon Isaac\n`));
+});

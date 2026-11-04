@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 2:1"
 slug: "2025/2025-01-28-giving-the-sense-from-a-to-z-luke-2-1"
 date: "2025-01-28"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "Giving The Sense From A to Z · 2025-01-28"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "captivity", "rome"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-01-28 · Captain Emmanuel</p>
+<p class="taught">Giving The Sense From A to Z · 2025-01-28 · Captain Immanuel</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Luke 2](/bible/luke/2) · [2 Esdras 12](/bible/2-esdras/12) · [Acts 5](/bible/acts/5) · [Matt 17](/bible/matthew/17) · [Wis 7](/bible/wisdom-of-solomon/7)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "captivity", "rome"]
 
 ## Introduction
 
-*[[15:46](https://www.youtube.com/watch?v=zjL9F48C_Vg&t=946s)]* Shalom, Most High Christ bless. Welcome to another edition of Giving the Sense from A to Z. Today you got myself, Captain Emmanuel of Arkansas, and today we're going to continue in the Book of Luke, Luke chapter 2.
+*[[15:46](https://www.youtube.com/watch?v=zjL9F48C_Vg&t=946s)]* Shalom, Most High Christ bless. Welcome to another edition of Giving the Sense from A to Z. Today you got myself, Captain Immanuel of Arkansas, and today we're going to continue in the Book of Luke, Luke chapter 2.
 
 ## Scriptures Opened
 
@@ -43,24 +43,24 @@ tags: ["15 Minutes w/ The Captains", "captivity", "rome"]
 > <sup>[10](/bible/2-esdras/12#v10)</sup> And he said unto me, This is the interpretation of the vision:
 >
 > <sup>[11](/bible/2-esdras/12#v11)</sup> The eagle, whom thou sawest come up from the sea, is the kingdom which was seen in the vision of thy brother Daniel.
->
-> <sup>[12](/bible/2-esdras/12#v12)</sup> But it was not expounded unto him, therefore now I declare it unto thee.
->
-> <sup>[13](/bible/2-esdras/12#v13)</sup> Behold, the days will come, that there shall rise up a kingdom upon earth, and it shall be feared above all the kingdoms that were before it.
->
-> <sup>[14](/bible/2-esdras/12#v14)</sup> In the same shall twelve kings reign, one after another:
->
-> <sup>[15](/bible/2-esdras/12#v15)</sup> Whereof the second shall begin to reign, and shall have more time than any of the twelve.
 
 - The eagle, whom thou sawest come up from the sea: Right, so the eagle who the Lord showed Esdras.
 
 - Is the kingdom which was seen in the vision of thy brother Daniel: So he speaking about the vision that was shown to Daniel in Daniel chapter 2 and Daniel chapter 7. The Lord showed Daniel four kingdoms, right, and in Daniel 7 he used different animals or beasts to depict those kingdoms, except for the fourth one. There was never a beast that was used to describe that fourth one in terms of in the Book of Daniel. So the Lord is revealing to Esdras, he's giving him a caricature of an animal, and that animal is an eagle.
 
+> <sup>[12](/bible/2-esdras/12#v12)</sup> But it was not expounded unto him, therefore now I declare it unto thee.
+
 - But it was not expounded unto him: Right, so it was an exp counted that much unto Daniel, in terms of it being depicted as an eagle and going into depth of the reign of that kingdom, as he was unto Esdras.
+
+> <sup>[13](/bible/2-esdras/12#v13)</sup> Behold, the days will come, that there shall rise up a kingdom upon earth, and it shall be feared above all the kingdoms that were before it.
 
 - Behold, the days will come, that there shall rise up a kingdom upon earth, and it shall be feared above all the kingdoms that were before it: So this kingdom is talking about the Roman Empire, not the Roman Republic, cuz Julius Caesar, the first of the feathers which we about to read, is the one who basically transcended the Roman Republic to the Roman Empire. So this is talking about the Roman Empire.
 
+> <sup>[14](/bible/2-esdras/12#v14)</sup> In the same shall twelve kings reign, one after another:
+
 - In the same shall twelve kings reign, one after another: Right, so those 12 kings are the 12 Caesars of the Roman Empire.
+
+> <sup>[15](/bible/2-esdras/12#v15)</sup> Whereof the second shall begin to reign, and shall have more time than any of the twelve.
 
 - Whereof the second shall begin to reign, and shall have more time than any of the twelve: So the second king, or the second Caesar out of the 12 Caesars of the Roman Empire, the second one is going to have the longest reign. Now remember I said Julius Caesar was the first Caesar, he was the one that established the Roman Empire. So the second one would be Augustus Caesar, who we reading about in Luke chapter 2. So put that on the screen just to show y'all how real and accurate the prophets is. All right, the Bible said in 2 Esdras 12 the second king, or the second Caesar, shall begin a reign and shall have more time than any other 12.
 
@@ -181,14 +181,14 @@ Reading from On-screen text on Acts 5:37, "in the days of the census" (source no
 **[Matthew 17:24-26](/bible/matthew/17#v24)**  *[[38:05](https://www.youtube.com/watch?v=zjL9F48C_Vg&t=2285s)]*
 
 > <sup>[24](/bible/matthew/17#v24)</sup> And when they were come to Capernaum, they that received tribute money came to Peter, and said, Doth not your master pay tribute?
->
-> <sup>[25](/bible/matthew/17#v25)</sup> He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?
->
-> <sup>[26](/bible/matthew/17#v26)</sup> Peter saith unto him, Of strangers. Jesus saith unto him, Then are the children free.
 
 - They that received tribute money came to Peter: So tax collectors came to the disciples.
 
+> <sup>[25](/bible/matthew/17#v25)</sup> He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?
+
 - Of whom do the kings of the earth take custom or tribute: And who is the king of the earth at this time? Well, by the time Christ is walking around and teaching, it's Tiberius, but before him it was Augustus, right, the Roman Caesars. So of whom do the Caesars take custom or tribute?
+
+> <sup>[26](/bible/matthew/17#v26)</sup> Peter saith unto him, Of strangers. Jesus saith unto him, Then are the children free.
 
 - Peter saith unto him, Of strangers: Right, meaning people outside of their race.
 
@@ -231,16 +231,16 @@ Reading from On-screen text on Roman tax due dates (source not stated on air)  *
 > <sup>[1](/bible/wisdom-of-solomon/7#v1)</sup> I myself also am a mortal man, like to all, and the offspring of him that was first made of the earth,
 >
 > <sup>[2](/bible/wisdom-of-solomon/7#v2)</sup> And in my mother’s womb was fashioned to be flesh in the time of ten months, being compacted in blood, of the seed of man, and the pleasure that came with sleep.
->
-> <sup>[3](/bible/wisdom-of-solomon/7#v3)</sup> And when I was born, I drew in the common air, and fell upon the earth, which is of like nature, and the first voice which I uttered was crying, as all others do.
->
-> <sup>[4](/bible/wisdom-of-solomon/7#v4)</sup> I was nursed in swaddling clothes, and that with cares.
->
-> <sup>[5](/bible/wisdom-of-solomon/7#v5)</sup> For there is no king that had any other beginning of birth.
 
 - Of the seed of man: Of the what? Seed of man. The sperm of man.
 
+> <sup>[3](/bible/wisdom-of-solomon/7#v3)</sup> And when I was born, I drew in the common air, and fell upon the earth, which is of like nature, and the first voice which I uttered was crying, as all others do.
+>
+> <sup>[4](/bible/wisdom-of-solomon/7#v4)</sup> I was nursed in swaddling clothes, and that with cares.
+
 - I was nursed in swaddling clothes: I was what? Nursed in swaddling clothes. I was what? Nursed in swaddling clothes.
+
+> <sup>[5](/bible/wisdom-of-solomon/7#v5)</sup> For there is no king that had any other beginning of birth.
 
 - For there is no king that had any other beginning of birth: So as y'all see, Christ also fulfilled that. Luke 2:7 is a proof. She was born, he was born, and she r him in what? Swaddling clothes. You understand, it was no king that had any other beginning of birth. All right, so that smashes what they call virgin birth. Ain't that what it's called? Hit the bomb.
 

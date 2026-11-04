@@ -85,35 +85,35 @@ Reading from Definition of infirmity (on screen)  *[[10:27](https://www.youtube.
 
 **[Mark 1:21-27](/bible/mark/1#v21)**  *[[11:17](https://www.youtube.com/watch?v=9h3eh336JwE&t=677s)]*
 
-> <sup>[21](/bible/mark/1#v21)</sup> And they went into Capernaum; and straightway on the sabbath day he entered into the synagogue, and taught.
->
-> <sup>[22](/bible/mark/1#v22)</sup> And they were astonished at his doctrine: for he taught them as one that had authority, and not as the scribes.
->
-> <sup>[23](/bible/mark/1#v23)</sup> And there was in their synagogue a man with an unclean spirit; and he cried out,
->
-> <sup>[24](/bible/mark/1#v24)</sup> Saying, Let us alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art, the Holy One of God.
->
-> <sup>[25](/bible/mark/1#v25)</sup> And Jesus rebuked him, saying, Hold thy peace, and come out of him.
->
-> <sup>[26](/bible/mark/1#v26)</sup> And when the unclean spirit had torn him, and cried with a loud voice, he came out of him.
->
-> <sup>[27](/bible/mark/1#v27)</sup> And they were all amazed, insomuch that they questioned among themselves, saying, What thing is this? what new doctrine is this? for with authority commandeth he even the unclean spirits, and they do obey him.
-
 - Get that one in Mark right quick. I think it's Mark one where Christ was talking to the spirit and he told him to part. Said, "What you got to do with me?"
 
 - For he taught as one that had authority: He taught as one that had authority.
 
+> <sup>[21](/bible/mark/1#v21)</sup> And they went into Capernaum; and straightway on the sabbath day he entered into the synagogue, and taught.
+>
+> <sup>[22](/bible/mark/1#v22)</sup> And they were astonished at his doctrine: for he taught them as one that had authority, and not as the scribes.
+
 - And not as the scribes: And not as the scribes.
+
+> <sup>[23](/bible/mark/1#v23)</sup> And there was in their synagogue a man with an unclean spirit; and he cried out,
+>
+> <sup>[24](/bible/mark/1#v24)</sup> Saying, Let us alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art, the Holy One of God.
 
 - Let us alone. What have we to do with thee, thou Jesus of Nazareth? Art thou come to destroy us?: Damn. So the spirit identified Christ. He said, what you got to do with us, Jesus of Nazareth? You come to destroy us, destroy the spirits.
 
 - I know thee who thou art: He said, I know exactly who you are. This the spirit talking to Christ.
 
+> <sup>[25](/bible/mark/1#v25)</sup> And Jesus rebuked him, saying, Hold thy peace, and come out of him.
+
 - Hold thy peace and come out of him: And come out of him. Watch.
+
+> <sup>[26](/bible/mark/1#v26)</sup> And when the unclean spirit had torn him, and cried with a loud voice, he came out of him.
 
 - And when the unclean spirit had torn him: What'd he do? Torn him. You see how strong these spirits are? He said when the unclean spirit had torn the man. Meaning he didn't just come out. It was resistance. Damn. Here come Christ coming to destroy us before the time. He said, "I know who you are." The Lord said, "Man, hold your peace and come out this brother." So before the spirit let him go, he said, "I had to tear him." You understand? He got to feel it.
 
 - And cried with a loud voice, he came out of him: And he came out. Read verse 27.
+
+> <sup>[27](/bible/mark/1#v27)</sup> And they were all amazed, insomuch that they questioned among themselves, saying, What thing is this? what new doctrine is this? for with authority commandeth he even the unclean spirits, and they do obey him.
 
 - What thing is this?: He said, "What thing is this?"
 
@@ -144,12 +144,12 @@ Reading from Definition of infirmity (on screen)  *[[10:27](https://www.youtube.
 **[Luke 13:11-12](/bible/luke/13#v11)**  *[[17:09](https://www.youtube.com/watch?v=9h3eh336JwE&t=1029s)]*
 
 > <sup>[11](/bible/luke/13#v11)</sup> And, behold, there was a woman which had a spirit of infirmity eighteen years, and was bowed together, and could in no wise lift up herself.
->
-> <sup>[12](/bible/luke/13#v12)</sup> And when Jesus saw her, he called her to him, and said unto her, Woman, thou art loosed from thine infirmity.
 
 - And behold, there was a woman which had a spirit of infirmity: So she had this crippling spirit of infirmity.
 
 - Eighteen years: And it was for 18 years.
+
+> <sup>[12](/bible/luke/13#v12)</sup> And when Jesus saw her, he called her to him, and said unto her, Woman, thou art loosed from thine infirmity.
 
 - Woman, thou art loosed from thine infirmity: You see that? He went about relieving those or saving those. I forgot the word used in Acts, but it said healing those who were oppressed of the devil. So, when he spoke the word, remember this is what he was referring to.
 
@@ -175,12 +175,12 @@ Reading from Definition of infirmity (on screen)  *[[10:27](https://www.youtube.
 **[Luke 13:12-13](/bible/luke/13#v12)**  *[[20:47](https://www.youtube.com/watch?v=9h3eh336JwE&t=1247s)]*
 
 > <sup>[12](/bible/luke/13#v12)</sup> And when Jesus saw her, he called her to him, and said unto her, Woman, thou art loosed from thine infirmity.
->
-> <sup>[13](/bible/luke/13#v13)</sup> And he laid his hands on her: and immediately she was made straight, and glorified God.
 
 - He called her to him: He called her to him.
 
 - Woman, thou art loosed from thine infirmity: You are loose from your infirmities.
+
+> <sup>[13](/bible/luke/13#v13)</sup> And he laid his hands on her: and immediately she was made straight, and glorified God.
 
 - And immediately she was made straight, and glorified God: He said immediately she was made straight and she glorified God. She was all praises to the most high. You got to imagine being crippled for 18 years. You understand? And then all of a sudden boom you healed just like that. You going to be grateful.
 
@@ -196,12 +196,12 @@ Reading from Definition of infirmity (on screen)  *[[10:27](https://www.youtube.
 **[Luke 13:13-14](/bible/luke/13#v13)**  *[[23:35](https://www.youtube.com/watch?v=9h3eh336JwE&t=1415s)]*
 
 > <sup>[13](/bible/luke/13#v13)</sup> And he laid his hands on her: and immediately she was made straight, and glorified God.
->
-> <sup>[14](/bible/luke/13#v14)</sup> And the ruler of the synagogue answered with indignation, because that Jesus had healed on the sabbath day, and said unto the people, There are six days in which men ought to work: in them therefore come and be healed, and not on the sabbath day.
 
 - And immediately she was made straight: Immediately she was made straight.
 
 - And glorified God: And she glorified the God. All praises. You understand? Damn, I ain't crippled no more. All praises to the most high. Glorified him.
+
+> <sup>[14](/bible/luke/13#v14)</sup> And the ruler of the synagogue answered with indignation, because that Jesus had healed on the sabbath day, and said unto the people, There are six days in which men ought to work: in them therefore come and be healed, and not on the sabbath day.
 
 - And the ruler of the synagogue answered with indignation, because that Jesus had healed on the sabbath day: Now here you got the negro. Now, here come the negro mad, hating that healed her on the Sabbath day. Not that you didn't seen this woman for 18 years. You know, she crippled. You understand? Because Christ is in there healing. Now, you got to make a false accusation. Then, why are you healing on the Sabbath day? But I'm going to show you just how demonic these scribes and Pharisees are.
 
@@ -237,10 +237,10 @@ Reading from Definition of infirmity (on screen)  *[[10:27](https://www.youtube.
 **[Luke 13:14-15](/bible/luke/13#v14)**  *[[30:19](https://www.youtube.com/watch?v=9h3eh336JwE&t=1819s)]*
 
 > <sup>[14](/bible/luke/13#v14)</sup> And the ruler of the synagogue answered with indignation, because that Jesus had healed on the sabbath day, and said unto the people, There are six days in which men ought to work: in them therefore come and be healed, and not on the sabbath day.
->
-> <sup>[15](/bible/luke/13#v15)</sup> The Lord then answered him, and said, Thou hypocrite, doth not each one of you on the sabbath loose his ox or his ass from the stall, and lead him away to watering?
 
 - And not on the sabbath day: And not on the Sabbath day. Watch this.
+
+> <sup>[15](/bible/luke/13#v15)</sup> The Lord then answered him, and said, Thou hypocrite, doth not each one of you on the sabbath loose his ox or his ass from the stall, and lead him away to watering?
 
 - Thou hypocrite: Thou what? Thou hypocrite. That's the problem of the scribes and Pharisees during the time. They was hypocritical. Hypocritical. Because you sitting here making reference about the Sabbath day. Meanwhile, you defile the Sabbath day and you, but you blameless when you go in there. Give me that. You know where that script is? Matthew 5, I believe it is. Shooting from the hip. Matthew 5. Is it Matthew 5? No. Oh, when they go in and they defile the Sabbath and they are blameless. Matthew 12.
 
@@ -297,16 +297,16 @@ Reading from Definition of infirmity (on screen)  *[[10:27](https://www.youtube.
 **[Luke 13:15-17](/bible/luke/13#v15)**  *[[38:47](https://www.youtube.com/watch?v=9h3eh336JwE&t=2327s)]*
 
 > <sup>[15](/bible/luke/13#v15)</sup> The Lord then answered him, and said, Thou hypocrite, doth not each one of you on the sabbath loose his ox or his ass from the stall, and lead him away to watering?
->
-> <sup>[16](/bible/luke/13#v16)</sup> And ought not this woman, being a daughter of Abraham, whom Satan hath bound, lo, these eighteen years, be loosed from this bond on the sabbath day?
->
-> <sup>[17](/bible/luke/13#v17)</sup> And when he had said these things, all his adversaries were ashamed: and all the people rejoiced for all the glorious things that were done by him.
 
 - Thou hypocrite: That's hypocritical.
+
+> <sup>[16](/bible/luke/13#v16)</sup> And ought not this woman, being a daughter of Abraham, whom Satan hath bound, lo, these eighteen years, be loosed from this bond on the sabbath day?
 
 - And ought not this woman, being a daughter of Abraham, whom Satan hath bound: Y'all remember what we read earlier in Acts 10:37. Who Christ was anointed of the father went around healing those oppressed of the devil, oppressed of the devil, oppressed of Satan. He said, "Listen, this is a woman being a daughter of Abraham. This is your kinsman. This is a daughter. This ain't no damn dog. This a daughter of Abraham. This a daughter of Sarah that you talking about?"
 
 - Be loosed from this bond on the sabbath day: You mean to tell me she ain't supposed to be healed being a daughter of Abraham, being of the promises? But they talking about we hate women. We hate women. Christ right here, we rolling in the same spirit as Christ. Christ said, "Listen y'all," and cut this damn rulers of the synagogue. You mean to tell me that this beast is in more high regard in your mind than a daughter of Sarah being bound of Satan for 18 years crippled? He had to cut them, reason in their minds. Watch this.
+
+> <sup>[17](/bible/luke/13#v17)</sup> And when he had said these things, all his adversaries were ashamed: and all the people rejoiced for all the glorious things that were done by him.
 
 - All his adversaries were ashamed: He said they was all damn ashamed. Damn. All of them ashamed cuz they knew you was wrong. Pricked them in their mind. Go back to that Sirach 14 and 2. Blessed is the man whose conscience have not condemned him. At that moment right there, their conscience was condemned because they knew that they was going into the Sabbath making different sacrifices. They knew if on the Sabbath day, if they seen their neighbors oxen, ass, you understand, and they seen them going astray that they would help him. They would get him out the pit. They knew that they would even take their oxen and ass and they would take them to go feed him in water. So they was ashamed for the things, they conscious was pricked in the mind.
 
@@ -320,10 +320,10 @@ Reading from Definition of infirmity (on screen)  *[[10:27](https://www.youtube.
 **[Luke 13:18-19](/bible/luke/13#v18)**  *[[42:36](https://www.youtube.com/watch?v=9h3eh336JwE&t=2556s)]*
 
 > <sup>[18](/bible/luke/13#v18)</sup> Then said he, Unto what is the kingdom of God like? and whereunto shall I resemble it?
->
-> <sup>[19](/bible/luke/13#v19)</sup> It is like a grain of mustard seed, which a man took, and cast into his garden; and it grew, and waxed a great tree; and the fowls of the air lodged in the branches of it.
 
 - Unto what is the kingdom of God like?: Now he's saying, listen, what is the kingdom of God like? What is it compared to?
+
+> <sup>[19](/bible/luke/13#v19)</sup> It is like a grain of mustard seed, which a man took, and cast into his garden; and it grew, and waxed a great tree; and the fowls of the air lodged in the branches of it.
 
 - It is like a grain of mustard seed: All right, let's read Matthew 13 right quick. Matthew 13 says the same thing. It might be a little clear and help you.
 
@@ -331,8 +331,6 @@ Reading from Definition of infirmity (on screen)  *[[10:27](https://www.youtube.
 **[Matthew 13:31-32](/bible/matthew/13#v31)**  *[[43:26](https://www.youtube.com/watch?v=9h3eh336JwE&t=2606s)]*
 
 > <sup>[31](/bible/matthew/13#v31)</sup> Another parable put he forth unto them, saying, The kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field:
->
-> <sup>[32](/bible/matthew/13#v32)</sup> Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge in the branches thereof.
 
 - Another parable put he forth unto them: So in Luke, this is a parable that he put forth unto the people. Remember, he always spoke in parables to the disciples because it wasn't for everybody to understand what he was saying. So here you have another parable that he's putting forth.
 
@@ -347,6 +345,8 @@ Reading from Definition of infirmity (on screen)  *[[10:27](https://www.youtube.
 - Which a man took: Which a man took.
 
 - And sowed in his field: Which a man took and sowed in the world.
+
+> <sup>[32](/bible/matthew/13#v32)</sup> Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge in the branches thereof.
 
 - Which indeed is the least of all seeds: He said, which indeed it starts off as the least of all seeds. Now watch this. Hold that.
 
@@ -445,10 +445,10 @@ Reading from Definition of infirmity (on screen)  *[[10:27](https://www.youtube.
 > <sup>[19](/bible/luke/13#v19)</sup> It is like a grain of mustard seed, which a man took, and cast into his garden; and it grew, and waxed a great tree; and the fowls of the air lodged in the branches of it.
 >
 > <sup>[20](/bible/luke/13#v20)</sup> And again he said, Whereunto shall I liken the kingdom of God?
->
-> <sup>[21](/bible/luke/13#v21)</sup> It is like leaven, which a woman took and hid in three measures of meal, till the whole was leavened.
 
 - Whereunto shall I liken the kingdom of God?: He said, "Whereunto shall I liken the kingdom of God?" Another parable.
+
+> <sup>[21](/bible/luke/13#v21)</sup> It is like leaven, which a woman took and hid in three measures of meal, till the whole was leavened.
 
 - It is like leaven, which a woman took and hid in three measures of meal: Said it's just like leaven. So he's making basically the same analogy. You know leaven, it grows. It expands. He said it's like leaven that a woman took and put in a meal.
 
@@ -476,14 +476,14 @@ Reading from Definition of infirmity (on screen)  *[[10:27](https://www.youtube.
 **[Luke 13:21-24](/bible/luke/13#v21)**  *[[1:00:16](https://www.youtube.com/watch?v=9h3eh336JwE&t=3616s)]*
 
 > <sup>[21](/bible/luke/13#v21)</sup> It is like leaven, which a woman took and hid in three measures of meal, till the whole was leavened.
->
+
+- Till the whole was leavened: Till the whole was leaven.
+
 > <sup>[22](/bible/luke/13#v22)</sup> And he went through the cities and villages, teaching, and journeying toward Jerusalem.
 >
 > <sup>[23](/bible/luke/13#v23)</sup> Then said one unto him, Lord, are there few that be saved? And he said unto them,
 >
 > <sup>[24](/bible/luke/13#v24)</sup> Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able.
-
-- Till the whole was leavened: Till the whole was leaven.
 
 - Lord, are there few that be saved? And he said unto them, Strive to enter in at the strait gate: So he said, listen, are there few, just few that's going to be saved? And he said, listen, you just strive to enter in that strait gate. Hey, can you pull up that definition of strait and then you give me Matthew 7 for me? Matthew 7 and 13. Wrong straight. Wrong straight. S t r a i t. Put that on the screen.
 

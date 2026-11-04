@@ -159,12 +159,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "love", "media", "mercy", "wisdom
 **[Sirach 10:21-24](/bible/sirach/10#v21)**  *[[26:09](https://www.youtube.com/watch?v=3rJUx7PrCUM&t=1569s)]*
 
 > <sup>[21](/bible/sirach/10#v21)</sup> The fear of the Lord goeth before the obtaining of authority: but roughness and pride is the losing thereof.
->
-> <sup>[22](/bible/sirach/10#v22)</sup> Whether he be rich, noble, or poor, their glory is the fear of the Lord.
->
-> <sup>[23](/bible/sirach/10#v23)</sup> It is not meet to despise the poor man that hath understanding; neither is it convenient to magnify a sinful man.
->
-> <sup>[24](/bible/sirach/10#v24)</sup> Great men, and judges, and potentates, shall be honoured; yet is there none of them greater than he that feareth the Lord.
 
 - The fear of the Lord goeth before the obtaining of authority: Right. So the Bible says the fear of the Lord goeth before the obtaining of authority, but roughness and pride is the losing thereof. A leader, before they can become a leader, they have to showcase the fear of the Lord. Meaning not out openly to people, but even in their own life, personal life, when nobody's around. That's why Paul said not in my presence only, but also in my absence, work out your own salvation with fear and trembling. What that basically means is this. I can't just be showing a display in front of men, but meanwhile behind closed doors, I'm not what I say I am, or I'm not what I seem to be on social media.
 
@@ -176,13 +170,19 @@ tags: ["15 Minutes w/ The Captains", "christ", "love", "media", "mercy", "wisdom
 
 - But roughness and pride is the losing thereof: So the fear of the Lord goeth before the obtaining authority, but roughness and pride is the losing thereof. Meaning you have no charity. You're not a charitable person. People see it and say, "Look, you talk real good, but you ain't what you say you are."
 
+> <sup>[22](/bible/sirach/10#v22)</sup> Whether he be rich, noble, or poor, their glory is the fear of the Lord.
+
 - Whether he be rich, noble, or poor, their glory is the fear of the Lord: A man's glory is whether he fear God or not. It don't matter about his fame. It don't matter about his riches. It don't matter even if he poor. A man's true glory is if they fear God.
 
 - Your glory is in the fact that you fear God, and you know his ways.
 
+> <sup>[23](/bible/sirach/10#v23)</sup> It is not meet to despise the poor man that hath understanding; neither is it convenient to magnify a sinful man.
+
 - Neither is it convenient to magnify a sinful man: So this all going back to that charity that Paul dealing with. And it may seem like, "Oh no, it's just, it's clear. It's just right there on the table." No, when he talking about charity, there's levels to it. I know what somebody thinking. They like, "Man, you going a little too heavy into charity." No, you can't never go too heavy into charity.
 
 - It's not convenient to magnify a sinful man. He look good on the outside, but he evil. That's what it's telling you. But then you got a brother that don't have the financial backing as someone else, or have the financial status of someone else, or don't look the part in your mind, and you go against that man. Meanwhile, that man is a godly man that keep the commandments.
+
+> <sup>[24](/bible/sirach/10#v24)</sup> Great men, and judges, and potentates, shall be honoured; yet is there none of them greater than he that feareth the Lord.
 
 - Yet is there none of them greater than he that feareth the Lord: There's nobody greater than he that fear the Lord. No matter what position you in, no matter how much money you make, it don't matter. If you don't fear the Lord, if you claim to have all this wisdom and you have no charity, you just make noise. That's what Paul's saying. You just make noise. You sound real good. You sound real deep. Then somebody reach out to you for help. Somebody reach out to you for counsel, you ignore them. You ain't deep. You trying to sell stuff. We know you. We see you. And a lot of you, the Lord is allowing you to live so that you can be an example of what not to do for others.
 
@@ -248,25 +248,25 @@ tags: ["15 Minutes w/ The Captains", "christ", "love", "media", "mercy", "wisdom
 
 **[John 21:15-19](/bible/john/21#v15)**  *[[42:01](https://www.youtube.com/watch?v=3rJUx7PrCUM&t=2521s)]*
 
-> <sup>[15](/bible/john/21#v15)</sup> So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs.
->
-> <sup>[16](/bible/john/21#v16)</sup> He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep.
->
-> <sup>[17](/bible/john/21#v17)</sup> He saith unto him the third time, Simon, son of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep.
->
-> <sup>[18](/bible/john/21#v18)</sup> Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not.
->
-> <sup>[19](/bible/john/21#v19)</sup> This spake he, signifying by what death he should glorify God. And when he had spoken this, he saith unto him, Follow me.
-
 - Lovest thou me more than these? So Peter said, the Lord said, "Peter, you love me?" He said, "Yeah, I love you, Lord. You know I love you." "All right. Well, feed my sheep then."
 
 - He saith to him again the second time, Simon, son of Jonas, lovest thou me? Then he asked him again. So, think about it, me and John talking. I said, "Hey, John, did you put that chicken in the refrigerator?" "Yeah, yeah, I did. I did it before we left." "Okay." "Hey John, did you put that chicken in the refrigerator?" You looking like, "Bro, you just asked me that and I just told you that I did that." Now you start second guessing yourself like, "Wait a minute, did I put it in there?" So Christ asked him again.
+
+> <sup>[15](/bible/john/21#v15)</sup> So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs.
 
 - Yea, Lord; thou knowest that I love thee: You know, he didn't say it like he said the first time. You know, he said, "Yea, Lord, you know I love you." Like he just asked me that. "Yeah. Yeah, I love you." Like there got to be some type of curiosity that sparked now. Like, "Why he asked me that again? I just told him that."
 
 - Peter was grieved because he said unto him the third time, Lovest thou me? So now it said Peter grieved like, "Man, what is wrong with it? I just told you that twice. Why is he asking me a third time?"
 
+> <sup>[16](/bible/john/21#v16)</sup> He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep.
+>
+> <sup>[17](/bible/john/21#v17)</sup> He saith unto him the third time, Simon, son of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep.
+
 - Lord, thou knowest all things; thou knowest that I love thee: So he kind of got smart with Christ. "You know everything." Just saying. "You know everything. You know I love you." So he said it a third time, "Feed my sheep." Now watch what he about to say to him.
+
+> <sup>[18](/bible/john/21#v18)</sup> Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not.
+>
+> <sup>[19](/bible/john/21#v19)</sup> This spake he, signifying by what death he should glorify God. And when he had spoken this, he saith unto him, Follow me.
 
 - This spake he, signifying by what death he should glorify God: Hear that? Christ basically showed him, "This how you gonna die. That's why I told you to feed my sheep. That's your mission. Feed my sheep and then you going to die for my sheep." This some heavy stuff right here we reading. Christ basically let him know, "You say you love me, follow me to the end. Feed your brothers and sisters and then die for them and die for the Lord." That was Peter's mission.
 
@@ -290,8 +290,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "love", "media", "mercy", "wisdom
 **[1 Corinthians 13:4-5](/bible/1-corinthians/13#v4)**  *[[47:22](https://www.youtube.com/watch?v=3rJUx7PrCUM&t=2842s)]*
 
 > <sup>[4](/bible/1-corinthians/13#v4)</sup> Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,
->
-> <sup>[5](/bible/1-corinthians/13#v5)</sup> Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;
 
 - Charity suffereth long, and is kind: Right? So these are just some attributes of charity and we all got to learn to become these things. It says charity suffereth long. That goes back to that lovingkindness and that longsuffering that, when the Lord spoke to Jeremiah, he spoke about that lovingkindness.
 
@@ -324,6 +322,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "love", "media", "mercy", "wisdom
 - Wherefore God also hath highly exalted him, and given him a name which is above every name: If you not above me, you can't promote me. Let me say it again. No employee comes in and talk to their fellow machine operator, say, "Man, I just want to let you know, man, we promoting you." Where you read that at? Where you see that at? No two people on the same playing field in any profession can promote their fellow brother to a position that's above them. You can't do that. That don't make sense. You have to have authority over a person to promote a person. That's how it goes.
 
 - That at the name of Jesus every knee should bow: So wherefore God also hath highly exalted him and given him a name which is above every name, that at the name of Jesus every knee should bow, of things in heaven and things in the earth and things under the earth. So everybody got to bow to Christ. God gave him that authority. Hallelujah.
+
+> <sup>[5](/bible/1-corinthians/13#v5)</sup> Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;
 
 - Is not easily provoked, thinketh no evil: So a person with charity is not going to be easily provoked by what other people say or by somebody else being out the spirit. Watch this. I'mma show you.
 
@@ -407,8 +407,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "love", "media", "mercy", "wisdom
 **[1 Corinthians 13:6-7](/bible/1-corinthians/13#v6)**  *[[1:05:45](https://www.youtube.com/watch?v=3rJUx7PrCUM&t=3945s)]*
 
 > <sup>[6](/bible/1-corinthians/13#v6)</sup> Rejoiceth not in iniquity, but rejoiceth in the truth;
->
-> <sup>[7](/bible/1-corinthians/13#v7)</sup> Beareth all things, believeth all things, hopeth all things, endureth all things.
 
 - Rejoiceth not in iniquity: So it says, "Rejoiceth not in iniquity." My Bible got a precept here in Romans 1, but I don't want to use that one. When it says, "Rejoiceth not in iniquity," meaning when somebody else falls, you're happy about that. There's a scripture that say that.
 
@@ -436,22 +434,24 @@ tags: ["15 Minutes w/ The Captains", "christ", "love", "media", "mercy", "wisdom
 
     There's a scripture that say that. Proverbs 24, maybe 17. That's it. Start at 16. Go back. I want to go back to Proverb. This some good stuff. I'm edifying myself right now. Shoot. This some good stuff. Edifying myself, edifying you. This a two-edged sword. It cut both ways.
 
+> <sup>[7](/bible/1-corinthians/13#v7)</sup> Beareth all things, believeth all things, hopeth all things, endureth all things.
+
 
 **[Psalms 35:15-19](/bible/psalms/35#v15)**  *[[1:08:50](https://www.youtube.com/watch?v=3rJUx7PrCUM&t=4130s)]*
 
 > <sup>[15](/bible/psalms/35#v15)</sup> But in mine adversity they rejoiced, and gathered themselves together: yea, the abjects gathered themselves together against me, and I knew it not; they did tear me, and ceased not:
->
+
+- But in mine adversity they rejoiced: So David speaking, brothers and sisters, but that's Christ speaking through him, because that same thing happened to Christ. "But in my adversity they rejoice." When Christ got crucified, they said, "Crucify him. Crucify him." They mocked him. "Oh, tell us which one of us punched you, since you're the son of God." "If he the son of God, come down from there. You're the son of God. Come on down from there." They mocked him.
+
 > <sup>[16](/bible/psalms/35#v16)</sup> With hypocritical mockers in feasts, they gnashed upon me with their teeth.
->
+
+- With hypocritical mockers in feasts, they gnashed upon me with their teeth: Spoke evil to me. Mock me.
+
 > <sup>[17](/bible/psalms/35#v17)</sup> Lord, how long wilt thou look on? rescue my soul from their destructions, my darling from the lions.
 >
 > <sup>[18](/bible/psalms/35#v18)</sup> I will give thee thanks in the great congregation: I will praise thee among much people.
 >
 > <sup>[19](/bible/psalms/35#v19)</sup> Let not them that are mine enemies wrongfully rejoice over me: neither let them wink with the eye that hate me without a cause.
-
-- But in mine adversity they rejoiced: So David speaking, brothers and sisters, but that's Christ speaking through him, because that same thing happened to Christ. "But in my adversity they rejoice." When Christ got crucified, they said, "Crucify him. Crucify him." They mocked him. "Oh, tell us which one of us punched you, since you're the son of God." "If he the son of God, come down from there. You're the son of God. Come on down from there." They mocked him.
-
-- With hypocritical mockers in feasts, they gnashed upon me with their teeth: Spoke evil to me. Mock me.
 
 - Let not them that are mine enemies wrongfully rejoice over me: So wait a minute. So David is praying that no man be able to rejoice over him when he falls. Because remember David failed. Listen, we just reading the Bible. We reading one page to the next, one chapter to the next. But there's years in there. Remember David ruled for 33 years in Jerusalem. He was in Hebron, I think, for seven years and he was 33 years. So 40 years total that David ruled, and before that he already was a great man as a general in the army, basically.
 
@@ -463,30 +463,30 @@ tags: ["15 Minutes w/ The Captains", "christ", "love", "media", "mercy", "wisdom
 **[1 Corinthians 13:8-13](/bible/1-corinthians/13#v8)**  *[[1:14:59](https://www.youtube.com/watch?v=3rJUx7PrCUM&t=4499s)]*
 
 > <sup>[8](/bible/1-corinthians/13#v8)</sup> Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away.
->
-> <sup>[9](/bible/1-corinthians/13#v9)</sup> For we know in part, and we prophesy in part.
->
-> <sup>[10](/bible/1-corinthians/13#v10)</sup> But when that which is perfect is come, then that which is in part shall be done away.
->
-> <sup>[11](/bible/1-corinthians/13#v11)</sup> When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things.
->
-> <sup>[12](/bible/1-corinthians/13#v12)</sup> For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.
->
-> <sup>[13](/bible/1-corinthians/13#v13)</sup> And now abideth faith, hope, charity, these three; but the greatest of these is charity.
 
 - Whether there be prophecies, they shall fail: Right? So when it said prophecy shall fail, meaning they'll come to pass. Once it come to pass, it's no longer prophecy. It becomes history now. You understand? So that's what it mean, fail. Meaning it come to pass. Because the Bible said none of these shall fail. That don't contradict. That word fail in that particular instance just mean it comes to pass. It's gonna happen. It will happen.
 
+> <sup>[9](/bible/1-corinthians/13#v9)</sup> For we know in part, and we prophesy in part.
+>
+> <sup>[10](/bible/1-corinthians/13#v10)</sup> But when that which is perfect is come, then that which is in part shall be done away.
+
 - But when that which is perfect is come: When that which is perfect is come is Christ. When Christ come, that which is in part shall be done away.
+
+> <sup>[11](/bible/1-corinthians/13#v11)</sup> When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things.
 
 - When I was a child, I spake as a child: Meaning he had to learn a lot more about what he thought he knew regarding Christ and regarding the Old Testament. It was things that he didn't understand that Christ gave him the revelation of, like, "Hey, look, that's me right there. That's me. That sacrifice is about me. That's about me." So Paul like, "Damn, I thought I knew something." I spake as a child, I thought as a child when I was a child, meaning he didn't know Christ.
 
 - But when I became a man, I put away childish things: When he became a man, he grew in the spirit. He started to see himself. He started to see what he battled with. He started to see that he wasn't that perfect man that he thought he was. He was a Pharisee, the Pharisee indeed, but he wasn't walking with Christ. He persecuted the followers of Christ. So, he had to humble himself and become a man.
+
+> <sup>[12](/bible/1-corinthians/13#v12)</sup> For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.
 
 - For now we see through a glass, darkly: So the Bible is that glass. So it said we see through a glass darkly. I mean there's many mysteries in the Bible that have not been unlocked to us. There are many dark sayings in the Bible that we still trying to come into understanding of now. Remember when you read Ezekiel 47, they talk about the water rising, and leadership, you see that happening every year. Every year more and more understanding start coming out about Genesis, about different letters of Paul, history, all kind of stuff. More and more stuff come out as time go on. All praise to the most high. You understand? So that's what it mean when it say we see through a glass darkly.
 
 - But then face to face: So that's the face to face. We going to see Christ face to face.
 
 - Now I know in part; but then shall I know even as also I am known: Paul said, "I'm going to know who I really am in the spirit. I'm going to know who I am. I'm going to know who I was in the beginning and who I am now." Basically, "I'mma know myself." Basically, that's a deeper thing.
+
+> <sup>[13](/bible/1-corinthians/13#v13)</sup> And now abideth faith, hope, charity, these three; but the greatest of these is charity.
 
 - And now abideth faith, hope, charity, these three; but the greatest of these is charity: Which we touched on earlier. Charity is the greatest of them all, of faith, of hope, and charity. Charity is the greatest of them all. That's why in 1 Timothy 1, he wrote to Timothy that charity is the end of the commandment. The end of the commandment is charity, brothers and sisters.
 

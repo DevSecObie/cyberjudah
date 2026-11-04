@@ -18,7 +18,7 @@ tags: ["Our Hidden History", "edom-esau"]
 
 ## Introduction
 
-*[[16:40](https://www.youtube.com/watch?v=pkknj2TYfYA&t=1000s)]* Hey, shalom, shalom. Welcome back to another episode of Our Hidden History. You now tuned in to Our Hidden History radio show. Praises, all praises, all praises. So I'm Officer Jazz, filling in for the Deacon. So let's jump right into it.
+*[[16:40](https://www.youtube.com/watch?v=pkknj2TYfYA&t=1000s)]* You now tuned in to Our Hidden History radio show. So I'm Officer Jazz, filling in for the Deacon. So let's jump right into it.
 
 So this is part two. Remember what we went into last week: we dealt with the whole thing with Esau. They say we was inferior to them, so they had this whole, pretty much, a campaign of how we inferior. We gonna get into all that anyway, but we just showing the genius of our people through oppression. *[[17:55](https://www.youtube.com/watch?v=pkknj2TYfYA&t=1075s)]* The genius of our people through oppression, who we were even before that, that we always had that genius, that God genius mindset of ours.
 
@@ -38,7 +38,7 @@ And another thing about that is that Bishop Yawasap, he always try to instill th
 
 - **Officer Jazz:** No, I'm talking about the caller ID. It was a separate little box. You have to attach it to your phone, and it'll show up the number and the name that's associated with that number. A brother invented. Pull it up, click on that real quick. *[[20:19](https://www.youtube.com/watch?v=pkknj2TYfYA&t=1219s)]* The caller ID. These young guys don't know about it, man.
 
-- Let me see. Nah, there's a brother. Go back, go back out. There's a brother. We can't find it. No worry about it. Some of the things that we invented, man, with our genius. All right, click on that. That's a sister that came. Click on that. I seen a brother, it was like the whole blueprint of it and everything. Read that.
+- Nah, there's a brother. Go back, go back out. There's a brother. We can't find it. No worry about it. Some of the things that we invented, man, with our genius. All right, click on that. That's a sister that came. Click on that. I seen a brother, it was like the whole blueprint of it and everything.
 
 <div class="reading">
 
@@ -46,7 +46,7 @@ Reading from a web search on Dr. Shirley Ann Jackson, the African-American who w
 
 > Who is Shirley Ann Jackson? African-American who invented the technology responsible for the touch-tone phone.
 
-- You see that? Touch-tone phones. Go down.
+- Touch-tone phones.
 
 > Dr. Shirley Ann Jackson is a phenomenal woman with an amazing track record. She graduated with excellent grades in high school, then entered the popular Massachusetts Institute of Technology, MIT, as one of 20 African-American students there.
 
@@ -84,7 +84,7 @@ Reading from a web search on Dr. Shirley Ann Jackson, the African-American who w
 
 - **Officer Jazz:** Exactly. Damn. I know you was that smart, man. He know a lot, man, don't he? Isn't it the genius of the black man? That's right. That's what we talking about. You got it in you too. Congratulations. One day it'll come out.
 
-- All right, drop that, man. Hey, give me the book, *Before the Mayflower*. Bishop just went over this last Shout Out Tuesday. Make sure y'all check out the Shout Out Tuesdays, man. Make sure y'all check them out.
+- All right, drop that, man. Hey, give me the book, *Before the Mayflower*. Bishop just went over this last Shout Out Tuesday. Make sure y'all check them out.
 
 </div>
 
@@ -98,11 +98,11 @@ Reading from *Before the Mayflower* by Lerone Bennett Jr., on the first African-
 
 > and there are indications in the record that they were responsible for various innovations later credited to English immigrants.
 
-- You see that? So a lot of innovations was later credited to them. They took the credit. Damn. A lot of stuff that we, like for example, y'all remember the brother Philip Reid, the one that put the, it was called the Statue of Freedom on top of the Capitol. He didn't get no recognition for that. You just now finding out about that. His slave master was the one that got the recognition. His slave master was the one that was *[[25:18](https://www.youtube.com/watch?v=pkknj2TYfYA&t=1518s)]* getting the compensation for what he did.
+- So a lot of innovations was later credited to them. They took the credit. Damn. A lot of stuff that we, like for example, y'all remember the brother Philip Reid, the one that put the, it was called the Statue of Freedom on top of the Capitol. He didn't get no recognition for that. You just now finding out about that. His slave master was the one that got the recognition. His slave master was the one that was *[[25:18](https://www.youtube.com/watch?v=pkknj2TYfYA&t=1518s)]* getting the compensation for what he did.
 
 > An early example of this was reported in Virginia, where the governor ordered rice planted in 1648 on the advice of our Negroes,
 
-- Right. We taught them how to plant rice. They never know nothing about planting rice.
+- We taught them how to plant rice. They never know nothing about planting rice.
 
 > who told the whites that conditions in Virginia were as favorable to the production of the crop as in their country.
 
@@ -110,19 +110,17 @@ Reading from *Before the Mayflower* by Lerone Bennett Jr., on the first African-
 
 > There is, furthermore, the testimony of Washington Irving, who made the following observation in a contemporary satirical skit: These Negroes, like the monks of the Dark Ages, engross all the knowledge of the place, and being infinitely more adventurous and more knowing than their *[[26:10](https://www.youtube.com/watch?v=pkknj2TYfYA&t=1570s)]* masters, carry on all the foreign trade,
 
-- Right. We knew way more than what Esau knew. We taught them, okay? We taught them. What they did, they took from us, and then they said they did this and they did that.
+- We knew way more than what Esau knew. We taught them, okay? We taught them. What they did, they took from us, and then they said they did this and they did that.
 
 > making frequent voyages in canoes loaded with oysters, buttermilk and cabbages.
 
-- Watch this.
-
 > They are great astrologers, predicting the different changes of weather almost as accurately as an almanac.
 
-- Read that again. They are great astrologers. So astrology goes into studying the stars and so forth. So we was able to predict the changes of the weather and so forth because of studying the stars. Predicting the different changes of weather almost as accurately as an almanac. *[[27:03](https://www.youtube.com/watch?v=pkknj2TYfYA&t=1623s)]* And so we wasn't worshiping the stars. We were just able to look at the stars and be able to understand the weather, about how the stars was changing and so forth. And I'm going to show you that also with northern kingdom, with Issachar.
+- They are great astrologers. So astrology goes into studying the stars and so forth. So we was able to predict the changes of the weather and so forth because of studying the stars. Predicting the different changes of weather almost as accurately as an almanac. *[[27:03](https://www.youtube.com/watch?v=pkknj2TYfYA&t=1623s)]* And so we wasn't worshiping the stars. We were just able to look at the stars and be able to understand the weather, about how the stars was changing and so forth. And I'm going to show you that also with northern kingdom, with Issachar.
 
 > A large proportion of the first generation of African-Americans entered America with Spanish names, for reasons that are not readily apparent. Many black males were called Antonio, a name that quickly became Antony or Anthony. Other popular names of the period included Coello, Mingo, Pedro, Francisco, Jabina, Maria, Angola and Tony Congo.
 
-- Right. So those were our names before they enslaved us and changed our names. All right.
+- So those were our names before they enslaved us and changed our names.
 
 - **Officer:** *[[27:56](https://www.youtube.com/watch?v=pkknj2TYfYA&t=1676s)]* Hey, officer, you mind if I bring out a scripture concerning what you just read earlier, where it said they are great astrologers, predicting the different changes of weather? Christ understood that about our people even in his time. Can we get Matthew 16 really quick? So we was always known for knowing or telling the signs of the time, of what the weather would be like the next day. We always knew that. Matthew 16, and read verse two.
 
@@ -150,8 +148,6 @@ Reading from *Before the Mayflower* by Lerone Bennett Jr., on the first African-
 
 > <sup>[18](/bible/wisdom-of-solomon/7#v18)</sup> The beginning, ending, and midst of the times: the alterations of the turning of the sun, and the change of seasons:
 
-- Watch this.
-
 > <sup>[19](/bible/wisdom-of-solomon/7#v19)</sup> The circuits of years, and the positions of stars:
 
 - That's astrology. The circuits of years and the *[[30:13](https://www.youtube.com/watch?v=pkknj2TYfYA&t=1813s)]* position of the stars.
@@ -166,7 +162,7 @@ Reading from *Mysteries of the Ancient Americas*, on the celestial vision of the
 
 > The celestial vision of ancient Americans.
 
-- So this northern kingdom, this is the celestial vision of ancient Americans. Watch this.
+- So this northern kingdom, this is the celestial vision of ancient Americans.
 
 > Ancient Americans lived close to the heavens.
 
@@ -186,7 +182,7 @@ Reading from *Mysteries of the Ancient Americas*, on the celestial vision of the
 
 > The Maya, for example, who could successfully predict solar eclipses, determine the seasonal year to an equivalent of 365.2420 days.
 
-- Damn. Read that again. How you predict the solar eclipse? So they could predict the solar eclipse. They could determine the seasonal years to an equivalent of 365.2420 days. Watch this.
+- Damn. How you predict the solar eclipse? So they could predict the solar eclipse. They could determine the seasonal years to an equivalent of 365.2420 days.
 
 > Contemporary science
 
@@ -194,7 +190,7 @@ Reading from *Mysteries of the Ancient Americas*, on the celestial vision of the
 
 > calculates it as *[[33:16](https://www.youtube.com/watch?v=pkknj2TYfYA&t=1996s)]* 365.2422 days.
 
-- You see that? Same thing. They came out with the same thing. Remember when we read about the brother Thomas Fuller last week, how we was able to calculate in our head? We was doing the same thing on this side of the world as well. So we was able to calculate those type of numbers in our head. But you know, math and science and so forth, Esau got they own thing, putting it on paper, the devices they come up with to calculate. But it came out the same. We did it with our head, and it still comes out the same.
+- Same thing. They came out with the same thing. Remember when we read about the brother Thomas Fuller last week, how we was able to calculate in our head? We was doing the same thing on this side of the world as well. So we was able to calculate those type of numbers in our head. But you know, math and science and so forth, Esau got they own thing, putting it on paper, the devices they come up with to calculate. But it came out the same. We did it with our head, and it still comes out the same.
 
 > Such precision required years of collecting data and relatively sophisticated mathematics.
 
@@ -202,11 +198,11 @@ Reading from *Mysteries of the Ancient Americas*, on the celestial vision of the
 
 > Why this concentration upon the stars?
 
-- So why was this concentration upon the stars? Watch this.
+- So why was this concentration upon the stars?
 
 > The sightings, used to time planting and harvesting,
 
-- Read that again. The sightings used to time planting and harvesting. Right, we use the stars to time planting and harvesting. We did not worship the stars. We used it at this time to time planting and harvesting. That's scripture.
+- The sightings used to time planting and harvesting. Right, we use the stars to time planting and harvesting. We did not worship the stars. We used it at this time to time planting and harvesting. That's scripture.
 
 > were also incorporated into a formal, rigid religious system.
 
@@ -214,7 +210,7 @@ Reading from *Mysteries of the Ancient Americas*, on the celestial vision of the
 
 > Consequently, calendars kept time but also glorified the deities.
 
-- There you go. So now we start *[[34:51](https://www.youtube.com/watch?v=pkknj2TYfYA&t=2091s)]* glorifying the stars and so forth. Idolatry. That's what Bishop was bringing out this past Sabbath about idolatry: looking up to the sun, the moon and the stars, and bowing down to them and worshiping. That's what we ended up doing.
+- So now we start *[[34:51](https://www.youtube.com/watch?v=pkknj2TYfYA&t=2091s)]* glorifying the stars and so forth. Idolatry. That's what Bishop was bringing out this past Sabbath about idolatry: looking up to the sun, the moon and the stars, and bowing down to them and worshiping. That's what we ended up doing.
 
 > Required to offer incense to important stars after dusk, or about 3:00 a.m., and immediately before dawn. Most astronomical records from pre-Columbian times have been destroyed or lost, but evidence being compiled by the new discipline of archaeoastronomy indicates that man strove hard to live his life in harmony with the stars.
 
@@ -222,7 +218,7 @@ Reading from *Mysteries of the Ancient Americas*, on the celestial vision of the
 
 - **Officer:** Yeah, a map. They used it like a map or something like that.
 
-- **Another officer:** They looking up, or look down at the reflection of the stars. Right, so we was able to, instead of hurting your neck just looking up, you just look down in the water and do the calculations. Bring that back, because you saying that it takes years. Second paragraph. Their observations made with the naked eye and their calculations made by horizon sighting with simple cross-stick devices. Wait. A cross-stick device, like two sticks. *[[36:41](https://www.youtube.com/watch?v=pkknj2TYfYA&t=2201s)]* Were astonishingly accurate. Ah. The Maya, for example, who could successfully predict solar eclipses. Successfully. Determine the seasonal year to an equivalent of 365.2420 days. Contemporary science, like the officer was saying, modern science, calculates it as 365.2422 days. Okay. Such precision required years of... For them. It required years for them. But then with the stupid ones, right, it requires years, and then the above says they do it with naked eye, with just two sticks, and it was very accurate. That's crazy. Such precision required years of collecting data. Collecting data, *[[37:43](https://www.youtube.com/watch?v=pkknj2TYfYA&t=2263s)]* right. Years. That's Esau. That's Esau. And relatively sophisticated mathematics. And then they got a computer.
+- **Another officer:** They looking up, or look down at the reflection of the stars. Right, so we was able to, instead of hurting your neck just looking up, you just look down in the water and do the calculations. Bring that back, because you saying that it takes years. Second paragraph. Their observations made with the naked eye and their calculations made by horizon sighting with simple cross-stick devices. A cross-stick device, like two sticks. *[[36:41](https://www.youtube.com/watch?v=pkknj2TYfYA&t=2201s)]* Were astonishingly accurate. Ah. The Maya, for example, who could successfully predict solar eclipses. Successfully. Determine the seasonal year to an equivalent of 365.2420 days. Contemporary science, like the officer was saying, modern science, calculates it as 365.2422 days. Such precision required years of... For them. It required years for them. But then with the stupid ones, right, it requires years, and then the above says they do it with naked eye, with just two sticks, and it was very accurate. That's crazy. Such precision required years of collecting data. Collecting data, *[[37:43](https://www.youtube.com/watch?v=pkknj2TYfYA&t=2263s)]* right. Years. That's Esau. That's Esau. And relatively sophisticated mathematics. And then they got a computer.
 
 - **Officer Jazz:** For the computer, sophistication. Yeah, that's the sophistication. We are the computer.
 
@@ -250,7 +246,7 @@ Reading from *Mysteries of the Ancient Americas*, on the celestial vision of the
 
 > <sup>[28](/bible/1-maccabees/13#v28)</sup> Moreover he set up seven pyramids, one against another, for his father, and his mother, and his four brethren.
 
-- You see that? So Simon set up seven, the Levites, pyramids. Read on about them pyramids.
+- So Simon set up seven, the Levites, pyramids. Read on about them pyramids.
 
 > <sup>[29](/bible/1-maccabees/13#v29)</sup> And in these he made cunning devices, about the which he set great pillars, and upon the pillars he made all their armour for a perpetual memory, and by the armour ships carved, that they might be seen of all that sail on the sea.
 
@@ -288,13 +284,13 @@ Reading from *Mysteries of the Ancient Americas*, on the celestial vision of the
 
 - **Another officer:** Or loose the bands of what? Of Orion. So a lot of us might think, oh, those names of the constellations, all that stuff came from the heathen. But that came from our God, and we taught the nations that stuff, man. You got, like, Orion's Belt, all those different names and so forth. But it's a lot more listed. But yeah, we knew that stuff. You want that scripture in Chronicles, right?
 
-- **Officer Jazz:** Yeah, give me that. All praises, all praises.
+- **Officer Jazz:** Yeah, give me that.
 
 **[1 Chronicles 12:32](/bible/1-chronicles/12#v32)**  *[[42:58](https://www.youtube.com/watch?v=pkknj2TYfYA&t=2578s)]*
 
 > <sup>[32](/bible/1-chronicles/12#v32)</sup> And of the children of Issachar, which were men that had understanding of the times, to know what Israel ought to do; the heads of them were two hundred; and all their brethren were at their commandment.
 
-- You see that? So they had understanding of the times. Understanding of the times. Okay, so they had to study the stars. Even when we came over, I left the book, I left the book, but even when we came over here, I think it's called *Ancient Americans* or something like that. But even when we came over here, the Most High parted. Remember in Second Esdras how the Most High parted? He showed us signs coming over here. Where you think that all came from? So, navigation. We use the stars as far as navigation.
+- So they had understanding of the times. Understanding of the times. Okay, so they had to study the stars. Even when we came over, I left the book, I left the book, but even when we came over here, I think it's called *Ancient Americans* or something like that. But even when we came over here, the Most High parted. Remember in Second Esdras how the Most High parted? He showed us signs coming over here. Where you think that all came from? So, navigation. We use the stars as far as navigation.
 
 - *[[43:47](https://www.youtube.com/watch?v=pkknj2TYfYA&t=2627s)]* So they had understanding of the times. Understanding of the times. They came out with the Mayan, that we just reading about, the Mayan calendar and all of that.
 
@@ -302,13 +298,13 @@ Reading from *Mysteries of the Ancient Americas*, on the celestial vision of the
 
 - **Officer Jazz:** So northern kingdom came out with all of that. What happened? We started worshiping that stuff, instead of using it as a tool for navigation and just to know the times and whatnot. Now we started worshiping them, creating gods out of them and doing all that nonsense.
 
-- **Officer:** Right. And when it says times, it's talking *[[44:27](https://www.youtube.com/watch?v=pkknj2TYfYA&t=2667s)]* about constellation. Because we always think of time, we think of a watch, because we so disconnected from what we used to know. But it's talking about the sun and moon. That's what Sirach 43 goes into: the moon is a sign of time. I mean, the watch comes from a sundial.
+- **Officer:** And when it says times, it's talking *[[44:27](https://www.youtube.com/watch?v=pkknj2TYfYA&t=2667s)]* about constellation. Because we always think of time, we think of a watch, because we so disconnected from what we used to know. But it's talking about the sun and moon. That's what Sirach 43 goes into: the moon is a sign of time. I mean, the watch comes from a sundial.
 
 - **Officer Jazz:** Yes, exactly.
 
 - **Officer:** Which is a stick on the earth, and then depending on the shadow, it lets you know the time. And now we just got that on our wrists and on our phones and whatnot.
 
-- **Officer Jazz:** Right. Hey, get Deuteronomy 33 about Joseph. Deuteronomy 33, start at verse 13.
+- **Officer Jazz:** Hey, get Deuteronomy 33 about Joseph. Deuteronomy 33, start at verse 13.
 
 - **Officer:** Remember the North Star used to be called the Phoenician Star, because it was integral to our navigation when we were called *[[45:07](https://www.youtube.com/watch?v=pkknj2TYfYA&t=2707s)]* the Phoenicians by the Greeks.
 
@@ -318,7 +314,7 @@ Reading from *Mysteries of the Ancient Americas*, on the celestial vision of the
 
 > <sup>[13](/bible/deuteronomy/33#v13)</sup> And of Joseph he said, Blessed of the Lord be his land, for the precious things of heaven, for the dew, and for the deep that coucheth beneath,
 
-- Just going back to northern kingdom, and even us, we understood planting and harvesting by the stars. Watch this.
+- Just going back to northern kingdom, and even us, we understood planting and harvesting by the stars.
 
 > <sup>[14](/bible/deuteronomy/33#v14)</sup> And for the precious fruits brought forth by the sun, and for the precious things put forth by the moon,
 
@@ -328,11 +324,11 @@ Reading from *Mysteries of the Ancient Americas*, on the celestial vision of the
 
 - **Officer Jazz:** Damn. Yeah, the moon has a lot of effect on the earth. Even controls the tides.
 
-- **Officer:** The tides, all that. All praise, all praises. Esau used it as evil, saying that when the full moon, that's when the werewolf.
+- **Officer:** The tides, all that. Esau used it as evil, saying that when the full moon, that's when the werewolf.
 
 - **Officer Jazz:** Remember that movie with Jim Carrey? *Bruce Almighty*, right? And when he met God, supposedly, Morgan *[[46:45](https://www.youtube.com/watch?v=pkknj2TYfYA&t=2805s)]* Freeman, right, he said, oh, you think you could do better than me? I give you my power for one day. And then remember, he was having problem with his wife, so he pulled the moon closer to him, to arouse her. By him doing that, she got aroused, and then at the same time it was monsoon, everything was off, was destruction, monsoon, flood. And he was watching the news, and the people was like, yeah, the moon was bigger than normal, because he pulled it with his own power. Like to show you how much power the moon has, something to do with the effects of the earth.
 
-- **Another officer:** Jeremiah, if the moon and *[[47:39](https://www.youtube.com/watch?v=pkknj2TYfYA&t=2859s)]* the stars. Get 31:35. Because what happened is, remember, we are connected with the creation. The Lord says that the earth was created for our sake, right? So everything that is created was created for us. So we have a connection with the creation. Why? Because the scripture says we are gods, you understand. So when you read in Isaiah 59, it says our sins separate us from our power. So we lost that power. We lost our heritage. So that's part of our heritage. Read that.
+- **Another officer:** Jeremiah, if the moon and *[[47:39](https://www.youtube.com/watch?v=pkknj2TYfYA&t=2859s)]* the stars. Get 31:35. Because what happened is, remember, we are connected with the creation. The Lord says that the earth was created for our sake, right? So everything that is created was created for us. So we have a connection with the creation. Why? Because the scripture says we are gods, you understand. So when you read in Isaiah 59, it says our sins separate us from our power. So we lost that power. We lost our heritage. So that's part of our heritage.
 
 **[Jeremiah 31:35-36](/bible/jeremiah/31#v35)**  *[[47:58](https://www.youtube.com/watch?v=pkknj2TYfYA&t=2878s)]*
 
@@ -342,9 +338,9 @@ Reading from *Mysteries of the Ancient Americas*, on the celestial vision of the
 
 - **Another officer:** So see that, those things are in existence because of us. It was created for us. So the reason we was able to tell a lot of this understanding of the circuits of the stars and the moons and the wind is because we are connected directly to the Lord. So that's why when you read the scripture, it says the whole earth is out of course. Why? Because the sons of God are out of course.
 
-- **Officer:** Right. And even what you mentioned about the moon having effect on the seas, it's even saying that in that verse right there. It said the *[[49:22](https://www.youtube.com/watch?v=pkknj2TYfYA&t=2962s)]* stars for a light by night, which divideth the sea when the waves thereof roar. So they all connected, like you say.
+- **Officer:** And even what you mentioned about the moon having effect on the seas, it's even saying that in that verse right there. It said the *[[49:22](https://www.youtube.com/watch?v=pkknj2TYfYA&t=2962s)]* stars for a light by night, which divideth the sea when the waves thereof roar. So they all connected, like you say.
 
-- **Another officer:** Right, they connected. All praise. What's that scripture in the New Testament, it says the creature mourn? Romans 8. Let's get that. So because we out of touch with our God, meaning that we in sin, we break the Most High's law, so we lost that connection. And that's why everything is out of whack. Out of course. That's why the whole earth is defiled, because the owners of the earth are defiled. The people that the earth belongs to, out of course. So the whole earth is out of course. Romans 8:19.
+- **Another officer:** Right, they connected. What's that scripture in the New Testament, it says the creature mourn? Romans 8. Let's get that. So because we out of touch with our God, meaning that we in sin, we break the Most High's law, so we lost that connection. And that's why everything is out of whack. Out of course. That's why the whole earth is defiled, because the owners of the earth are defiled. The people that the earth belongs to, out of course. So the whole earth is out of course. Romans 8:19.
 
 **[Romans 8:19-20](/bible/romans/8#v19)**  *[[50:10](https://www.youtube.com/watch?v=pkknj2TYfYA&t=3010s)]*
 
@@ -354,9 +350,9 @@ Reading from *Mysteries of the Ancient Americas*, on the celestial vision of the
 
 > <sup>[20](/bible/romans/8#v20)</sup> For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope,
 
-- **Another officer:** Right. Good. On to something else.
+- **Another officer:** Good. On to something else.
 
-- **Officer Jazz:** All right, that's good. Yes, sir. All praise, all praises. So let's do a little recap now, because we brought out all these things that we was able to do, but guess what? Esau put his foot down on *[[50:59](https://www.youtube.com/watch?v=pkknj2TYfYA&t=3059s)]* our neck to try to suppress that genius inside of us. So go back to the page on the Telegram with the blue highlights. No, matter of fact, get that one the officer just posted, while I look for it. It's the last book he just posted.
+- **Officer Jazz:** All right, that's good. Yes, sir. So let's do a little recap now, because we brought out all these things that we was able to do, but guess what? Esau put his foot down on *[[50:59](https://www.youtube.com/watch?v=pkknj2TYfYA&t=3059s)]* our neck to try to suppress that genius inside of us. No, matter of fact, get that one the officer just posted, while I look for it. It's the last book he just posted.
 
 <div class="reading">
 
@@ -364,7 +360,7 @@ Reading from a book posted on the Telegram, on the Phoenician trade routes  *[[5
 
 > Phoenician trade routes. Navigation was another area where the Phoenicians developed huge innovation. On short journeys they used coastal navigation, which was made possible by the design of their trade ships. By keeping the coast in sight, Phoenicians could track progress and maintain a *[[52:09](https://www.youtube.com/watch?v=pkknj2TYfYA&t=3129s)]* sense of position. They were safer there too, due to the difficult-to-navigate, rockier terrain nearer the coast. The Phoenicians also made use of the night sky when navigating on longer journeys. In fact, the North Star was once called the Phoenician Star because of the star's role in their navigation. Celestial navigation would become one of the standard methods for deep sea navigation. It helped the Phoenicians safely explore the West Mediterranean and the Atlantic.
 
-- And the Atlantic. All praises, all praises. Hey, remember we were the Phoenicians. We were the Phoenicians, okay. Remember the ten tribes. Second Esdras 13, start at 40.
+- And the Atlantic. Hey, remember we were the Phoenicians. We were the Phoenicians, okay. Remember the ten tribes. Second Esdras 13, start at 40.
 
 </div>
 
@@ -388,9 +384,9 @@ Reading from a book posted on the Telegram, on the Phoenician trade routes  *[[5
 
 - **Officer:** Better than now.
 
-- **Officer Jazz:** Right, right, right. That's just like with the wise men *[[54:54](https://www.youtube.com/watch?v=pkknj2TYfYA&t=3294s)]* that was following to find Christ. They understood the, well, that was a different type of story, but they understood the constellations, all that stuff. But all praises, all praises.
+- **Officer Jazz:** That's just like with the wise men *[[54:54](https://www.youtube.com/watch?v=pkknj2TYfYA&t=3294s)]* that was following to find Christ. They understood the, well, that was a different type of story, but they understood the constellations, all that stuff. But all praises, all praises.
 
-- Hey, give me that page now. Let's not forget our genius in oppression. So we read about all those great things, that godlike genius mindset we had, right? But now we come into slavery for breaking God's laws, and this is what Esau was doing to us. Read that. We read this page last week. I'm just recapping, because you got to be repetitive. Being repetitive is good.
+- Hey, give me that page now. Let's not forget our genius in oppression. So we read about all those great things, that godlike genius mindset we had, right? But now we come into slavery for breaking God's laws, and this is what Esau was doing to us. We read this page last week. I'm just recapping, because you got to be repetitive. Being repetitive is good.
 
 <div class="reading">
 
@@ -434,7 +430,7 @@ Reading from a book read on the show the week before, on the field Negroes on th
 
 - **Officer:** Hey, Officer Jazz, it's funny you said that. When I was in high school, I wanted to go to school to be a pilot.
 
-- **Officer Jazz:** Hold up, hold up. Hey, listen. Remember, we need a pilot for the IUIC plane.
+- **Officer Jazz:** Hey, listen. Remember, we need a pilot for the IUIC plane.
 
 - **Officer:** Yes, sir. But I was in high school, and the teachers would ask, like, yo, what do you want to do when you get older? And I would say I want to be a pilot. And my teacher, every single *[[1:01:21](https://www.youtube.com/watch?v=pkknj2TYfYA&t=3681s)]* time I said it, it was a white guy, he would always discourage me and say, hey, I'm not saying you can't do it, but you know, it's a lot of math involved in that. Every time, he would say, yeah, you know, it's a lot of math. Because I was in the regular math class. He said, but you know, you're in the regular math class, and that's a lot of math. And I was like, oh, okay. But then when I got to college and was doing it, the math was all on calculators. It was all easy. But his point was to discourage me from doing that.
 
@@ -528,13 +524,13 @@ All right, now go out of that. Go back, finish up that: at the height of the cro
 
 - **Officer:** So the Lord is telling you the excuses of *[[1:15:20](https://www.youtube.com/watch?v=pkknj2TYfYA&t=4520s)]* our people, because we get so wrapped up in work, we don't take the time to seek the Lord. Whereas the Lord sees the opposite of how Esau sees. When you read in Exodus, Pharaoh called us idle because we wanted to seek the Lord. But in the New Testament, Christ said he went into the marketplace and saw others standing idle. So when you not seeking the Lord, he sees you as idle. So you got to choose what master are you going to serve. Are you going to make time to seek the Lord, or you going to make excuses, like he's talking about?
 
-- **Officer Jazz:** All praises, all praises. Hey, so Israel, we'll be back. We're going to take a quick break. You can call us. Put the number up. We got the meeting ID too, so you can *[[1:15:58](https://www.youtube.com/watch?v=pkknj2TYfYA&t=4558s)]* actually do Zoom now. You can call in at 267-262-6121. Call us at 267-262-6121. Or we have the meeting ID now, so you can actually Zoom in, at 864 863 07219. I'm going to say it again: meeting ID for Zoom, 864 863 07219.
+- **Officer Jazz:** Hey, so Israel, we'll be back. We're going to take a quick break. You can call us. We got the meeting ID too, so you can *[[1:15:58](https://www.youtube.com/watch?v=pkknj2TYfYA&t=4558s)]* actually do Zoom now. You can call in at 267-262-6121. Call us at 267-262-6121. Or we have the meeting ID now, so you can actually Zoom in, at 864 863 07219. I'm going to say it again: meeting ID for Zoom, 864 863 07219.
 
 - **Officer:** Is it possible to pin that, put the phone number and the meeting ID in the comment and pin it in the comment section?
 
 - **Officer Jazz:** Or you can text as well. The link is in the description for Zoom. If you go down and hit the description on Our Hidden History radio, you'll see the Zoom link. *[[1:16:53](https://www.youtube.com/watch?v=pkknj2TYfYA&t=4613s)]* All right, so we going to take a quick break. See you after the break.
 
-*[[1:16:53](https://www.youtube.com/watch?v=pkknj2TYfYA&t=4613s)]* The break: the music plays, and the reels from the camps. Subscribe to the Sons of the Prophets YouTube page; check them out on Instagram, Facebook and TikTok. Proverbs 22:6: train up a child in the way he should go. Isaiah 11 Ministry: the local Sabbath classes from the Bishops, Deacons and Captains will now be available in all languages, as it says in Isaiah 11:12, the Most High shall set up an ensign for the nations.
+*[[1:16:53](https://www.youtube.com/watch?v=pkknj2TYfYA&t=4613s)]* The break: the music plays, and the reels from the camps. Proverbs 22:6: train up a child in the way he should go. Isaiah 11 Ministry: the local Sabbath classes from the Bishops, Deacons and Captains will now be available in all languages, as it says in Isaiah 11:12, the Most High shall set up an ensign for the nations.
 
 *[[1:32:40](https://www.youtube.com/watch?v=pkknj2TYfYA&t=5560s)]* Hey, shalom. Back from the break. Back from the break. Took a little extended break, but nonetheless we're back. Hey, read that text real quick, man. We got a crazy text. I don't even know how to take it.
 
@@ -544,7 +540,7 @@ All right, now go out of that. Go back, finish up that: at the height of the cro
 
 **Officer:** *[[1:33:18](https://www.youtube.com/watch?v=pkknj2TYfYA&t=5598s)]* I have the same question for whoever sent that.
 
-**Officer Jazz:** It speak for itself, bro. Just answer that question, because I got a follow-up question after that. Why? Because the sister that we read about, that created caller ID, what, she had too much time on her hands, so her father wasn't in her life? What are you saying? Yes, a father was in her life. How about that? Come on, man. Can we ask sensible questions? Sensible questions. All the scriptures and the history, and: was her father in her life? Come on, man. Oh, …. All right, anyway, let's move on. The second question, though, this is good.
+**Officer Jazz:** It speak for itself, bro. Just answer that question, because I got a follow-up question after that. Why? Because the sister that we read about, that created caller ID, what, she had too much time on her hands, so her father wasn't in her life? What are you saying? Yes, a father was in her life. How about that? Can we ask sensible questions? Sensible questions. All the scriptures and the history, and: was her father in her life? Oh, …. All right, anyway, let's move on. The second question, though, this is good.
 
 **Text:** *[[1:34:02](https://www.youtube.com/watch?v=pkknj2TYfYA&t=5642s)]* Did King Solomon also have nautical knowledge to traverse the seas, so, like, understanding of the winds?
 
@@ -558,13 +554,11 @@ All right, now go out of that. Go back, finish up that: at the height of the cro
 
 Reading from *From Superman to Man* by J. A. Rogers, the porter Dixon answering the senator  *[[1:34:56](https://www.youtube.com/watch?v=pkknj2TYfYA&t=5696s)]*
 
-
-
 - Hey, hold on, let me give y'all a synopsis of *From Superman to Man*. So Bishop, the leadership, they brought this out way back, *From Superman to Man*. This is a book by J. A. Rogers. Y'all know him for *Nature Knows No Color-Line*. So this is another book that he got. That's a good book, called *From Superman to Man*. This book right here is a dialogue between a brother and an Edomite, which is a senator. The brother, his name is Dixon, and he works as a porter on a train, and the Edomite, the senator, is riding on the train, and he's just having a dialogue with the Edomite, going back and forth about our inferiority and so forth. Because this is *[[1:35:42](https://www.youtube.com/watch?v=pkknj2TYfYA&t=5742s)]* written back, I think, around the 30s or the 40s. So guess what? At that time was Jim Crow. So there's a back and forth conversation between them, and the brother is chopping Esau up. Chopping them up. Any nonsense that he came with about us, the brother firing back, and he was coming with evidence, you understand. So now go to the page.
 
 > Winwood Reade said that the Negroes on the western coast admired a very black skin more than one of a lighter tint.
 
-- Now, Winwood Reade, okay, we brought out one of his books, which is called *The Martyrdom of Man*. Winwood Reade wrote that book, *The Martyrdom of Man*. So this is another book he wrote, called *Savage Africa*, when he was *[[1:36:27](https://www.youtube.com/watch?v=pkknj2TYfYA&t=5787s)]* in Africa. Read that again. So we admired a very black skin more than one of a lighter tint.
+- Now, Winwood Reade, okay, we brought out one of his books, which is called *The Martyrdom of Man*. Winwood Reade wrote that book, *The Martyrdom of Man*. So this is another book he wrote, called *Savage Africa*, when he was *[[1:36:27](https://www.youtube.com/watch?v=pkknj2TYfYA&t=5787s)]* in Africa. So we admired a very black skin more than one of a lighter tint.
 
 > A West African scientist says in his paper before the Races Congress, here Dixon consulted his notebook,
 
@@ -608,7 +602,7 @@ Reading from *From Superman to Man* by J. A. Rogers, the porter Dixon answering 
 
 > The Yoruba word for a white man *[[1:38:56](https://www.youtube.com/watch?v=pkknj2TYfYA&t=5936s)]* is not complimentary.
 
-- Right. It's not a compliment. That's what he's saying.
+- It's not a compliment. That's what he's saying.
 
 > It means peeled man.
 
@@ -626,7 +620,7 @@ Reading from a dictionary definition of ghastly, read off the screen  *[[1:39:30
 
 > Ghastly: causing great horror or fear, frightful or macabre.
 
-- So when he went back to Europe, he *[[1:39:55](https://www.youtube.com/watch?v=pkknj2TYfYA&t=5995s)]* saw it caused great fear, and it was frightful to see a white man. Go down. Read those synonyms.
+- So when he went back to Europe, he *[[1:39:55](https://www.youtube.com/watch?v=pkknj2TYfYA&t=5995s)]* saw it caused great fear, and it was frightful to see a white man. Read those synonyms.
 
 > Terrible, frightful, horrible, grim, awful, dire, frightening, terrifying, horrifying, alarming, distressing, shocking, appalling, harrowing, dreadful, fearful, hideous, horrendous, monstrous.
 
@@ -646,7 +640,7 @@ Reading from a dictionary definition of ghastly, read off the screen  *[[1:39:30
 
 - **Officer:** You know, they always say you got a face only your mama could love. Even Rebecca ain't love him.
 
-- **Officer Jazz:** No, God had to tell her one of them is gonna look different. He had to tell her before it happened: I'm going to prepare you for this. *[[1:41:35](https://www.youtube.com/watch?v=pkknj2TYfYA&t=6095s)]* I'm going to warn you. All right. Oyinbo. Click on it.
+- **Officer Jazz:** No, God had to tell her one of them is gonna look different. He had to tell her before it happened: I'm going to prepare you for this. *[[1:41:35](https://www.youtube.com/watch?v=pkknj2TYfYA&t=6095s)]* I'm going to warn you. Oyinbo. Click on it.
 
 </div>
 
@@ -692,7 +686,7 @@ Reading from the Wikipedia article on oyinbo, read off the screen  *[[1:41:40](h
 
 > <sup>[7](/bible/exodus/4#v7)</sup> And he said, Put thine hand into thy bosom again. And he put his hand into his bosom again; and plucked it out of his bosom, and, behold, it was turned again as his other flesh.
 
-- **Another officer:** Right. His pigmentation, his melanin came back.
+- **Another officer:** His pigmentation, his melanin came back.
 
 - **Officer:** Hey, you know, man, *[[1:44:27](https://www.youtube.com/watch?v=pkknj2TYfYA&t=6267s)]* what's crazy with that: that oyinbo skin is referred to as death, right? But in Christ is life. So he's not going to have that skin. He's going to have that lively, dark bronze, shiny, bright, powerful, lively skin.
 
@@ -716,7 +710,7 @@ Reading from the Wikipedia article on oyinbo, read off the screen  *[[1:41:40](h
 
 - The beryl means what? A green garment.
 
-- So his arms and his feet *[[1:46:34](https://www.youtube.com/watch?v=pkknj2TYfYA&t=6394s)]* was like polished brass. Bronze. Polished. Black. And the voice of his words like the voice of a multitude. Right. So Christ was a black man.
+- So his arms and his feet *[[1:46:34](https://www.youtube.com/watch?v=pkknj2TYfYA&t=6394s)]* was like polished brass. Bronze. Polished. Black. And the voice of his words like the voice of a multitude. So Christ was a black man.
 
 - **Officer:** Hey, officer, we look like precious stones. Esau don't look like anything precious on the earth, but we look like the things that they trading. They look like a waste, wasted away.
 
@@ -742,7 +736,7 @@ Reading from the Wikipedia article on oyinbo, read off the screen  *[[1:41:40](h
 
 > <sup>[12](/bible/isaiah/13#v12)</sup> I will make a man more precious than fine gold; even a man than the golden wedge of Ophir.
 
-- You just quoted Isaiah 13:12. That's talking about the Israelite man. There you go. Damn.
+- You just quoted Isaiah 13:12. That's talking about the Israelite man. Damn.
 
 - *[[1:49:13](https://www.youtube.com/watch?v=pkknj2TYfYA&t=6553s)]* Hey, go to Song of Solomon 1:5 while you waiting. We got to get back to that love for ourselves. That's why, you know, our people today, we don't appreciate or love our dark skin. That's why you see our children bleaching their skin. And even the filters, those filters on Instagram that lighten your skin. They do that because they want to go away from how they actually look. That's what those filters are. If you love the way you look, you wouldn't need those filters. But you do it because, damn, something's wrong: why am I dark, why is my face black? You try to lighten yourself because of that. Read *[[1:49:58](https://www.youtube.com/watch?v=pkknj2TYfYA&t=6598s)]* that really quick.
 
@@ -766,9 +760,9 @@ Reading from the Wikipedia article on oyinbo, read off the screen  *[[1:41:40](h
 
 - **Officer:** Didn't they say the most expensive substance is melanin? And the average black person has, like, millions of dollars worth of melanin in their body. And probably that's why our sisters and brothers is missing.
 
-- **Officer Jazz:** Yep. They need that melanin. Not only *[[1:51:36](https://www.youtube.com/watch?v=pkknj2TYfYA&t=6696s)]* that. Remember, Deacon Isaac went over that: they need melanin now to go out to space. They realize, yo, we got to look like them …, we got to look like Negroes to go out to space. Shout outs to Officer Manny. Yo, you should be on the Space Force, bro.
+- **Officer Jazz:** Yep. They need that melanin. Not only *[[1:51:36](https://www.youtube.com/watch?v=pkknj2TYfYA&t=6696s)]* that. Remember, Deacon Isaac went over that: they need melanin now to go out to space. They realize, yo, we got to look like them …, we got to look like Negroes to go out to space. Yo, you should be on the Space Force, bro.
 
-- Hey, get that book, man. All right, who took this page? Come on, man, you got to do better. Come on, Officer Manny. Who did this? Damn. Who did this? Come on, bro. That's sloppy work. Spill the beans, bro. Who did this? That's sloppy work. Can the people see the page? Damn. Oh my goodness. Sloppy. Hurry up. Taking away from all the scriptures we *[[1:52:29](https://www.youtube.com/watch?v=pkknj2TYfYA&t=6749s)]* just brought out. Oh, get that Wisdom of Solomon chapter 2, verse 15.
+- Hey, get that book, man. All right, who took this page? Come on, man, you got to do better. Come on, Officer Manny. Who did this? Damn. Who did this? That's sloppy work. Spill the beans, bro. Who did this? That's sloppy work. Can the people see the page? Damn. Oh my goodness. Sloppy. Hurry up. Taking away from all the scriptures we *[[1:52:29](https://www.youtube.com/watch?v=pkknj2TYfYA&t=6749s)]* just brought out. Oh, get that Wisdom of Solomon chapter 2, verse 15.
 
 **[Wisdom of Solomon 2:15](/bible/wisdom-of-solomon/2#v15)**  *[[1:52:35](https://www.youtube.com/watch?v=pkknj2TYfYA&t=6755s)]*
 
@@ -776,7 +770,7 @@ Reading from the Wikipedia article on oyinbo, read off the screen  *[[1:41:40](h
 
 - Yo, Esau hate looking at us. Can't stand it. I remember one time, my boss at one of my old jobs, I was coming out the bathroom, he's coming in. Soon as he see me, he got real scared. Like, all right. Anyway. Yeah, get the page, man. But they hate seeing us, man. They hate it. They can't stand to look at us, bro.
 
-- He is grievous unto us even *[[1:53:35](https://www.youtube.com/watch?v=pkknj2TYfYA&t=6815s)]* to behold. Right, so they hate looking at us. They hate our skin. They hate everything about us. All right, watch this. Let me show you why. Read that. Negro. Bishop just brought this out. So these are synonyms. This is called the Roget's Thesaurus. *Roget's International Thesaurus*.
+- He is grievous unto us even *[[1:53:35](https://www.youtube.com/watch?v=pkknj2TYfYA&t=6815s)]* to behold. Right, so they hate looking at us. They hate our skin. They hate everything about us. Let me show you why. Negro. Bishop just brought this out. So these are synonyms. This is called the Roget's Thesaurus. *Roget's International Thesaurus*.
 
 <div class="reading">
 
@@ -784,7 +778,7 @@ Reading from *Roget's International Thesaurus*, the entry for Negro, which the B
 
 > Negro, colored person, black, blackamoor, Jim Crow (slang), darky, …, ebony, the image of God.
 
-- The image of God. They know we are the image of God. Damn. Now read Wisdom of Solomon 2:15 again. He is grievous unto us even to behold. Right. They can't stand to see us, because they know we are made in the image of God. They can't stand to look at us. All right, so that's *[[1:54:30](https://www.youtube.com/watch?v=pkknj2TYfYA&t=6870s)]* heavy right there.
+- The image of God. They know we are the image of God. Damn. Now read Wisdom of Solomon 2:15 again. He is grievous unto us even to behold. They can't stand to see us, because they know we are made in the image of God. They can't stand to look at us. All right, so that's *[[1:54:30](https://www.youtube.com/watch?v=pkknj2TYfYA&t=6870s)]* heavy right there.
 
 - **Another officer:** Can we get one more scripture? Get Psalms 50, verse two. Look what the Lord says about the children of Israel.
 
@@ -798,7 +792,7 @@ Reading from *Roget's International Thesaurus*, the entry for Negro, which the B
 
 - **Officer Jazz:** That's right. Hey, get that first author of beauty, man. *[[1:55:18](https://www.youtube.com/watch?v=pkknj2TYfYA&t=6918s)]* And then Psalms 82. We all over, man. Go have fun, and then we got to get back on topic. We got a text. We got another one. Got to screen the text, man. Make sure.
 
-- Oh, the brother's back. So the one that asked, was Dr. Jackson's father in her life, he says he meant that he had an important role. Okay. But you had a question mark. So this is a statement. What you meant was that of course the father was there, and he had an important role. The way you said it was a question. That's why we read it the way we read it. *[[1:56:09](https://www.youtube.com/watch?v=pkknj2TYfYA&t=6969s)]* So yes, of course the father definitely had an important role. Think about our sisters today that ain't got no fathers at home. Especially back then, where the black family was a lot more interconnected. It's not like what it is now. Right now you got a bunch of 304s running around, and single baby moms and so forth running around today. But back then it was more, before the 60s, before the welfare and all that started kicking in.
+- Oh, the brother's back. So the one that asked, was Dr. Jackson's father in her life, he says he meant that he had an important role. But you had a question mark. So this is a statement. What you meant was that of course the father was there, and he had an important role. The way you said it was a question. That's why we read it the way we read it. *[[1:56:09](https://www.youtube.com/watch?v=pkknj2TYfYA&t=6969s)]* So yes, of course the father definitely had an important role. Think about our sisters today that ain't got no fathers at home. Especially back then, where the black family was a lot more interconnected. It's not like what it is now. Right now you got a bunch of 304s running around, and single baby moms and so forth running around today. But back then it was more, before the 60s, before the welfare and all that started kicking in.
 
 - **Officer:** That's probably the reason why they broke up the family.
 
@@ -820,7 +814,7 @@ Reading from *Roget's International Thesaurus*, the entry for Negro, which the B
 
 > <sup>[3](/bible/wisdom-of-solomon/13#v3)</sup> With whose beauty if they being delighted took them to be gods; let them know how much better the Lord of them is: for the first author of beauty hath created them.
 
-- Right. And he's a black man. All praises to the Most High. That's right. And we're made in his image. All right, get that Psalms 82.
+- And he's a black man. That's right. And we're made in his image. All right, get that Psalms 82.
 
 **[Psalms 82:1,6](/bible/psalms/82#v1)**  *[[1:59:00](https://www.youtube.com/watch?v=pkknj2TYfYA&t=7140s)]*
 
@@ -830,9 +824,9 @@ Reading from *Roget's International Thesaurus*, the entry for Negro, which the B
 
 > <sup>[1](/bible/psalms/82#v1)</sup> God standeth in the congregation of the mighty; he judgeth among the gods.
 
-- So the Most High judges among the gods. We are the gods. Now jump to verse six. I have said, ye are gods, and all of you are the children of the Most High. That's right. We are direct children of the Most High God. We are his firstborn. The lineage. All right, the lineage. All praises.
+- So the Most High judges among the gods. We are the gods. Now jump to verse six. I have said, ye are gods, and all of you are the children of the Most High. That's right. We are direct children of the Most High God. We are his firstborn. The lineage. All right, the lineage.
 
-- All right, hey, now *[[1:59:53](https://www.youtube.com/watch?v=pkknj2TYfYA&t=7193s)]* give me the book, *The Negro Family*. We brought this out before. It's on the Telegram. I might have to pull it up for you. All right, go to the table of contents real quick, and click on the root of the problem. So this book is written in 1965. All right, 1965. So it's going into the issues that Judah was having, and so forth. We dealing with Jim Crow and all of that. It's pretty much a study on the issues that we were going through. Right there. Go down, go down. I want to get to the point on this. Go to the next page. *[[2:01:16](https://www.youtube.com/watch?v=pkknj2TYfYA&t=7276s)]* Go down to the bottom. Come on, come on, come on. All right, start at, extending this line of reasoning.
+- All right, hey, now *[[1:59:53](https://www.youtube.com/watch?v=pkknj2TYfYA&t=7193s)]* give me the book, *The Negro Family*. We brought this out before. I might have to pull it up for you. All right, go to the table of contents real quick, and click on the root of the problem. So this book is written in 1965. All right, 1965. So it's going into the issues that Judah was having, and so forth. We dealing with Jim Crow and all of that. It's pretty much a study on the issues that we were going through. Right there. I want to get to the point on this. Go to the next page. *[[2:01:16](https://www.youtube.com/watch?v=pkknj2TYfYA&t=7276s)]* Go down to the bottom. All right, start at, extending this line of reasoning.
 
 <div class="reading">
 
@@ -840,7 +834,7 @@ Reading from *The Negro Family* (1965), the chapter on the root of the problem  
 
 > Extending this line of reasoning, psychologists point out that slavery in all its forms sharply lowered the need for achievement in slaves.
 
-- Didn't we just read that? We read that in the other book. Slavery. Read it again. Extending this line of reasoning, psychologists point out that slavery in all its forms sharply lowered the need for achievement in slaves. Right. Remember, we was doing simple and monotonous jobs. They tired us out, which deadened our intellectual activity. So it lowered the need for any achievement.
+- Didn't we just read that? We read that in the other book. Slavery. Extending this line of reasoning, psychologists point out that slavery in all its forms sharply lowered the need for achievement in slaves. Remember, we was doing simple and monotonous jobs. They tired us out, which deadened our intellectual activity. So it lowered the need for any achievement.
 
 > Negroes in bondage, *[[2:02:06](https://www.youtube.com/watch?v=pkknj2TYfYA&t=7326s)]* stripped of their African heritage, were placed in a completely dependent role.
 
@@ -848,7 +842,7 @@ Reading from *The Negro Family* (1965), the chapter on the root of the problem  
 
 > All of the rewards came
 
-- Hold on, hold on. If you're in a dependent role, that means you don't think. If you're in a dependent role, what thinking are you doing, you understand? So they put more of that on the sisters. They made them independent. To become independent, you got to think. You got to organize. You got to do all that, set people in order. But if you dependent, you dependent on somebody else *[[2:02:47](https://www.youtube.com/watch?v=pkknj2TYfYA&t=7367s)]* to do the thinking for you.
+- If you're in a dependent role, that means you don't think. If you're in a dependent role, what thinking are you doing, you understand? So they put more of that on the sisters. They made them independent. To become independent, you got to think. You got to organize. You got to do all that, set people in order. But if you dependent, you dependent on somebody else *[[2:02:47](https://www.youtube.com/watch?v=pkknj2TYfYA&t=7367s)]* to do the thinking for you.
 
 > All of their rewards came not from individual initiative and enterprise,
 
@@ -860,15 +854,13 @@ Reading from *The Negro Family* (1965), the chapter on the root of the problem  
 
 > Most important of all, slavery vitiated family life.
 
-- Watch this.
-
 > Since many slave owners neither fostered Christian marriage among their slave couples nor hesitated to separate them on the auction block, the slave household *[[2:03:35](https://www.youtube.com/watch?v=pkknj2TYfYA&t=7415s)]* often developed a fatherless, matrifocal, mother-centered pattern.
 
 - So guess what? The father wasn't in the household during slavery. Damn. He was rarely in the household during slavery. And I have a book that says that Esau would take a slave woman to another plantation to sleep with one of the slaves, so she would be pregnant, but she would just go back to the other plantation. So the young slave would grow up, he'll know that he have a father, *[[2:04:23](https://www.youtube.com/watch?v=pkknj2TYfYA&t=7463s)]* but the father was never in the household. Go up to the top now. This is what I want.
 
 > The reconstruction. With the emancipation of the slaves, the Negro American family began to form in the United States on a widespread scale,
 
-- Right. So after we were freed, that's when we was able to gather our families and get married and so forth. Have more of a family structure.
+- So after we were freed, that's when we was able to gather our families and get married and so forth. Have more of a family structure.
 
 > but it did so in an atmosphere markedly different.
 
@@ -884,7 +876,7 @@ Reading from *The Negro Family* (1965), the chapter on the root of the problem  
 
 - **Officer:** Rosewood. Rosewood in Florida.
 
-- **Officer Jazz:** Okay. So we was using our mind. We kept our money. We circulating our own money. Had banks, airports, all of that.
+- **Officer Jazz:** So we was using our mind. We kept our money. We circulating our own money. Had banks, airports, all of that.
 
 - **Officer:** That's why they started making rules like, yo, there cannot be a group of black people without a white man present, because they know, once they start getting together, they're going to start thinking.
 
@@ -892,7 +884,7 @@ Reading from *The Negro Family* (1965), the chapter on the root of the problem  
 
 > The male was more likely to use public facilities, which rapidly *[[2:06:40](https://www.youtube.com/watch?v=pkknj2TYfYA&t=7600s)]* became segregated once the process began. And just as important, segregation, and the submissiveness it exacts, is surely more destructive to the male than to the female personality.
 
-- You see that? It was more destructive towards us. They wanted to keep us on the leash.
+- It was more destructive towards us. They wanted to keep us on the leash.
 
 > Keeping the Negro in his place
 
@@ -912,7 +904,7 @@ Reading from *The Negro Family* (1965), the chapter on the root of the problem  
 
 - **Officer:** Like, I ask you questions: you going to do that job? I mean, I've been doing it for years, of course I'm going to do it. Oh, you sassy, ain't you, boy?
 
-- **Officer Jazz:** Watch this. We got a smart … here. Got a smart … here. You got a … on the, he's a smarty one, huh? Watch this. You know what we call a smart …? A dead one. All right, read that, man. Sassy.
+- **Officer Jazz:** We got a smart … here. Got a smart … here. You got a … on the, he's a smarty one, huh? You know what we call a smart …? A dead one. All right, read that, man. Sassy.
 
 </div>
 
@@ -926,7 +918,7 @@ Reading from a dictionary definition of sassy, read off the screen  *[[2:09:30](
 
 - **Officer:** That's the slave mentality.
 
-- **Officer Jazz:** Hey, so before we end the show, we got like five minutes. Hey, give me the video of my brother, man, the Tuskegee Airman. We brought this out last week, about the first Top Gun. Remember the movie *Top Gun*, and then they came out with *Top Gun: Maverick*? All right, but the first ever Top Gun competition, which those movies are based off of, happened in 1949. We brought this out last week, and guess who *[[2:10:42](https://www.youtube.com/watch?v=pkknj2TYfYA&t=7842s)]* won it? We did. The Tuskegee Airmen. But I don't think we played the video last week. So this is the brother right here. He's a 100 years old man, and now he's on a campaign to get this truth out, that we were the ones that won the Top Gun competition in 1949. All right, go ahead.
+- **Officer Jazz:** Hey, so before we end the show, we got like five minutes. Hey, give me the video of my brother, man, the Tuskegee Airman. We brought this out last week, about the first Top Gun. Remember the movie *Top Gun*, and then they came out with *Top Gun: Maverick*? All right, but the first ever Top Gun competition, which those movies are based off of, happened in 1949. We brought this out last week, and guess who *[[2:10:42](https://www.youtube.com/watch?v=pkknj2TYfYA&t=7842s)]* won it? We did. The Tuskegee Airmen. But I don't think we played the video last week. So this is the brother right here. He's a 100 years old man, and now he's on a campaign to get this truth out, that we were the ones that won the Top Gun competition in 1949.
 
 </div>
 
@@ -968,7 +960,7 @@ Reading from a video of a Tuskegee Airman, a hundred years old, on the 332nd Fig
 
 - **Officer:** You got to see that movie, though. *Red Tails*. That's a good movie, man, about the Tuskegee Airmen.
 
-- **Officer Jazz:** He said Esau, when they was escorting the bombers, they were losing 46 bombers per mission, because they couldn't protect them. They was getting taught by the Germans. Watch this.
+- **Officer Jazz:** He said Esau, when they was escorting the bombers, they were losing 46 bombers per mission, because they couldn't protect them. They was getting taught by the Germans.
 
 > They were losing an average of *[[2:15:09](https://www.youtube.com/watch?v=pkknj2TYfYA&t=8109s)]* 46 bombers per mission. The fighters were not us. We lost 27 bombers total on seven different missions.
 
@@ -982,11 +974,11 @@ Reading from a video of a Tuskegee Airman, a hundred years old, on the 332nd Fig
 
 ## In Closing
 
-*[[2:16:09](https://www.youtube.com/watch?v=pkknj2TYfYA&t=8169s)]* All right, hey, so look, we going to end the show right there. So all praise the Most High. All right, so Lord's will, next week we're going to continue *[[2:17:05](https://www.youtube.com/watch?v=pkknj2TYfYA&t=8225s)]* with the Arabs. Next week, or in two weeks. I think next week will be the last one before Men's Conference. We got one more Sabbath before that, right? All right.
+*[[2:16:09](https://www.youtube.com/watch?v=pkknj2TYfYA&t=8169s)]* All right, hey, so look, we going to end the show right there. So all praise the Most High. All right, so Lord's will, next week we're going to continue *[[2:17:05](https://www.youtube.com/watch?v=pkknj2TYfYA&t=8225s)]* with the Arabs. Next week, or in two weeks. I think next week will be the last one before Men's Conference. We got one more Sabbath before that, right?
 
-**Officer:** Hey, Israel, let's give a hand for that class. All praise to the Most High. Great, great, great, great class. Much needed. Let's get to these announcements.
+**Officer:** Hey, Israel, let's give a hand for that class. Great, great, great, great class. Much needed. Let's get to these announcements.
 
-*[[2:19:20](https://www.youtube.com/watch?v=pkknj2TYfYA&t=8360s)]* **Officer Jazz:** Hey, want to give a shout out. Great job. All praises. And definitely want to give a *[[2:19:32](https://www.youtube.com/watch?v=pkknj2TYfYA&t=8372s)]* shout out to the sister that made that breakfast. All right, so all praise to the sisters as well. All right, so hey, Lord's will, we'll see y'all until next show. Shalom. Most High and Christ bless. Shalom, shalom.
+*[[2:19:20](https://www.youtube.com/watch?v=pkknj2TYfYA&t=8360s)]* **Officer Jazz:** Hey, want to give a shout out. Great job. And definitely want to give a *[[2:19:32](https://www.youtube.com/watch?v=pkknj2TYfYA&t=8372s)]* shout out to the sister that made that breakfast. All right, so all praise to the sisters as well. All right, so hey, Lord's will, we'll see y'all until next show. Shalom. Most High and Christ bless. Shalom, shalom.
 
 ## Announcements & References
 

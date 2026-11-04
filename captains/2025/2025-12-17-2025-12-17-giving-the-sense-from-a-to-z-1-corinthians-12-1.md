@@ -25,10 +25,10 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[1 Corinthians 12:1-2](/bible/1-corinthians/12#v1)**  *[[4:15](https://www.youtube.com/watch?v=sG0tTEtGuwI&t=255s)]*
 
 > <sup>[1](/bible/1-corinthians/12#v1)</sup> Now concerning spiritual gifts, brethren, I would not have you ignorant.
->
-> <sup>[2](/bible/1-corinthians/12#v2)</sup> Ye know that ye were Gentiles, carried away unto these dumb idols, even as ye were led.
 
 - Now concerning spiritual gifts, brethren, I would not have you ignorant: Notice Paul is always starting off with that, right? About not having somebody ignorant. Last time I was teaching was 1 Corinthians 10, right? He said the same thing. He says it a lot. Why? Because our people are ignorant. They don't understand. Same thing with them brothers. Right? They might think they doing a great work. They might actually think that. I don't know. But I'm going to tell you one thing. They're ignorant to what? The understanding of Paul's writings. So, we can't be ignorant. That's why Paul is coming out and doing what? He's letting them know, "Listen, I don't want you to be ignorant. I want you to understand." Right?
+
+> <sup>[2](/bible/1-corinthians/12#v2)</sup> Ye know that ye were Gentiles, carried away unto these dumb idols, even as ye were led.
 
 - Ye know that ye were Gentiles: Notice what he said. Ye were Gentiles, right? You used to be a Gentile. Now, how the hell can you used to be a Gentile? That's like saying you used to be an Israelite. Right? You have some people they leave the body. They leave IUIC or they leave some other school and they run around and they make videos and they say stuff like, "Oh, I used to be an Israelite." There's no used to be nothing. You either are or you are not. Whether you keeping the commandments, that's something else. Right? So, you are this. So, if you're a Gentile, meaning you're from another nation. You can't used to be that. So, we're going to get the understanding on what he's actually meaning by saying that. Right?
 
@@ -41,21 +41,19 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 
 **[Acts 10:1-4](/bible/acts/10#v1)**  *[[7:43](https://www.youtube.com/watch?v=sG0tTEtGuwI&t=463s)]*
 
-> <sup>[1](/bible/acts/10#v1)</sup> There was a certain man in Cesarea called Cornelius, a centurion of the band called the Italian band,
->
-> <sup>[2](/bible/acts/10#v2)</sup> A devout man, and one that feared God with all his house, which gave much alms to the people, and prayed to God alway.
->
-> <sup>[3](/bible/acts/10#v3)</sup> He saw in a vision evidently about the ninth hour of the day an angel of God coming in to him, and saying unto him, Cornelius.
->
-> <sup>[4](/bible/acts/10#v4)</sup> And when he looked on him, he was afraid, and said, What is it, Lord? And he said unto him, Thy prayers and thine alms are come up for a memorial before God.
-
 - There was a certain man in Caesarea called Cornelius: Right? So, Caesarea, right? This is a town, right? Or city that was in the northern part of Israel, right? Where the northern kingdom was at, right? Or when you hear Galilee and all of that, right? Caesarea was there. The name was changed to Caesarea by the Greeks when they took over. That's why it has that kind of name. So, when people see that name, they think, "Oh, this is Greece." No, it's not. That was Israel, but there was a place called Caesarea there, right?
+
+> <sup>[1](/bible/acts/10#v1)</sup> There was a certain man in Cesarea called Cornelius, a centurion of the band called the Italian band,
 
 - Called Cornelius: That was the brother. A centurion of the band called the Italian band: A band is like a platoon of soldiers and things like that, right? So, now you thinking Cornelius, he has a Greek name. Oh, he's Esau. No. Just to let y'all know, there was a time when a lot of the Israelites was teaching that Cornelius was an Edomite. Okay? Due to the fact of his name and the place and the name of the platoon, the Italian band. Oh, yeah, that's white people.
 
 - But we know from looking at the Dark Ages pictures, we know that the Italians, now, in Greece, yes, it was. But we know that if you want to really play games and submit on names, then we could do that all day because we know we have the Puccis who are Italian and we can get into all of that, but that's not the point here. This right here is talking about an Israelite who's what? Part of the Roman Empire. He's part of the soldiers. Like all of us today, some of us are police officers or soldiers. We're in the American army, the American navy, the NYPD, whatever city you at, the PD. That's what he's dealing with. Okay? So, just the name alone don't mean that he's a Greek. All right? That's what I want to get through to you. And a lot of our people are getting twisted on this cuz they don't understand, right? So, we going to take our time, man.
 
 - A devout man and one that feared God with all his house, which gave much alms to the people, and prayed to God always: And we're going to get back to that devout. All right, we're going to get back to that. Right?
+
+> <sup>[2](/bible/acts/10#v2)</sup> A devout man, and one that feared God with all his house, which gave much alms to the people, and prayed to God alway.
+>
+> <sup>[3](/bible/acts/10#v3)</sup> He saw in a vision evidently about the ninth hour of the day an angel of God coming in to him, and saying unto him, Cornelius.
 
 - He saw in a vision evidently about the ninth hour of the day: That's 3:00, y'all. 3:00 p.m. in the afternoon.
 
@@ -69,30 +67,30 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 
     Let's go to John chapter 9. All right, John chapter 9 verse 31. Right? So what is it telling you? That Cornelius was doing the will of God.
 
+> <sup>[4](/bible/acts/10#v4)</sup> And when he looked on him, he was afraid, and said, What is it, Lord? And he said unto him, Thy prayers and thine alms are come up for a memorial before God.
+
 
 **[Acts 10:5-12](/bible/acts/10#v5)**  *[[11:05](https://www.youtube.com/watch?v=sG0tTEtGuwI&t=665s)]*
 
 > <sup>[5](/bible/acts/10#v5)</sup> And now send men to Joppa, and call for one Simon, whose surname is Peter:
->
+
+- And now, send men to Joppa and call for one Simon whose surname is Peter: So the angel is telling Cornelius, send some men down to Joppa to go see Peter. Right?
+
 > <sup>[6](/bible/acts/10#v6)</sup> He lodgeth with one Simon a tanner, whose house is by the sea side: he shall tell thee what thou oughtest to do.
 >
 > <sup>[7](/bible/acts/10#v7)</sup> And when the angel which spake unto Cornelius was departed, he called two of his household servants, and a devout soldier of them that waited on him continually;
 >
 > <sup>[8](/bible/acts/10#v8)</sup> And when he had declared all these things unto them, he sent them to Joppa.
->
+
+- And when he had declared all these things unto them, he sent them to Joppa: Right? So now, Cornelius did what? He took the men that were with him in his house, men that he trusted, and a soldier, and sent them to Joppa to go look for Peter. Right?
+
+- Peter went up upon the house to pray about the sixth hour: Okay, sixth hour is noon. Okay?
+
 > <sup>[9](/bible/acts/10#v9)</sup> On the morrow, as they went on their journey, and drew nigh unto the city, Peter went up upon the housetop to pray about the sixth hour:
 >
 > <sup>[10](/bible/acts/10#v10)</sup> And he became very hungry, and would have eaten: but while they made ready, he fell into a trance,
 >
 > <sup>[11](/bible/acts/10#v11)</sup> And saw heaven opened, and a certain vessel descending unto him, as it had been a great sheet knit at the four corners, and let down to the earth:
->
-> <sup>[12](/bible/acts/10#v12)</sup> Wherein were all manner of fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air.
-
-- And now, send men to Joppa and call for one Simon whose surname is Peter: So the angel is telling Cornelius, send some men down to Joppa to go see Peter. Right?
-
-- And when he had declared all these things unto them, he sent them to Joppa: Right? So now, Cornelius did what? He took the men that were with him in his house, men that he trusted, and a soldier, and sent them to Joppa to go look for Peter. Right?
-
-- Peter went up upon the house to pray about the sixth hour: Okay, sixth hour is noon. Okay?
 
 - And saw heaven opened and a certain vessel descending: Now, we got to pay attention to this verse 11 right here. This verse 11 is very very important in Acts chapter 10, y'all. Okay? I'm going to read it again. And saw heaven opened and a certain vessel descending unto him, as it had been a great sheet knit at the four corners and let down to the earth.
 
@@ -118,6 +116,8 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 
     I said, I would scatter them into corners. All right, those are the four corners, meaning I would what? I would scatter them all over the earth into what? In slavery. That's what this is being made mention of. Right? I would make the remembrance of them to cease from among men. Right?
 
+> <sup>[12](/bible/acts/10#v12)</sup> Wherein were all manner of fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air.
+
 
 **[Acts 10:13-22](/bible/acts/10#v13)**  *[[17:14](https://www.youtube.com/watch?v=sG0tTEtGuwI&t=1034s)]*
 
@@ -126,7 +126,11 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 > <sup>[14](/bible/acts/10#v14)</sup> But Peter said, Not so, Lord; for I have never eaten any thing that is common or unclean.
 >
 > <sup>[15](/bible/acts/10#v15)</sup> And the voice spake unto him again the second time, What God hath cleansed, that call not thou common.
->
+
+- What God hath cleansed, that call not thou common: Right? So now it says what God has cleansed. What? God cleaned the pig? God cleaned the lobster and the shrimp? That ain't what it's talking about. Cleaning what? He's trying to let him know that this is something to come that who's becoming clean. Remember? Remember the scripture say, ye are clean. Let me get that. Hold on real quick. I'm just thinking about it now.
+
+- And the voice spake unto him again saying, what God hath cleansed, that call not thou common: So what? The Lord is saying, I'm cleaning these people up. I'm cleaning up the northern kingdom. That's what he's talking about. And the other southern kingdom brothers who were not keeping it. Meaning what? I'm bringing them back into the fold. Remember? The northern kingdom was cut off in the book of Isaiah chapter 7 and verse 8. Y'all can read that. Right? We ain't going to go to it now, but it says, I have made them not a people. He cut them off. That's why he's saying here that what? I'm calling them clean. You can't call them unclean. Peter is still not picking it up 100%. Okay, he's still not picking up on that. That's what we got to understand.
+
 > <sup>[16](/bible/acts/10#v16)</sup> This was done thrice: and the vessel was received up again into heaven.
 >
 > <sup>[17](/bible/acts/10#v17)</sup> Now while Peter doubted in himself what this vision which he had seen should mean, behold, the men which were sent from Cornelius had made enquiry for Simon’s house, and stood before the gate,
@@ -136,14 +140,6 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 > <sup>[19](/bible/acts/10#v19)</sup> While Peter thought on the vision, the Spirit said unto him, Behold, three men seek thee.
 >
 > <sup>[20](/bible/acts/10#v20)</sup> Arise therefore, and get thee down, and go with them, doubting nothing: for I have sent them.
->
-> <sup>[21](/bible/acts/10#v21)</sup> Then Peter went down to the men which were sent unto him from Cornelius; and said, Behold, I am he whom ye seek: what is the cause wherefore ye are come?
->
-> <sup>[22](/bible/acts/10#v22)</sup> And they said, Cornelius the centurion, a just man, and one that feareth God, and of good report among all the nation of the Jews, was warned from God by an holy angel to send for thee into his house, and to hear words of thee.
-
-- What God hath cleansed, that call not thou common: Right? So now it says what God has cleansed. What? God cleaned the pig? God cleaned the lobster and the shrimp? That ain't what it's talking about. Cleaning what? He's trying to let him know that this is something to come that who's becoming clean. Remember? Remember the scripture say, ye are clean. Let me get that. Hold on real quick. I'm just thinking about it now.
-
-- And the voice spake unto him again saying, what God hath cleansed, that call not thou common: So what? The Lord is saying, I'm cleaning these people up. I'm cleaning up the northern kingdom. That's what he's talking about. And the other southern kingdom brothers who were not keeping it. Meaning what? I'm bringing them back into the fold. Remember? The northern kingdom was cut off in the book of Isaiah chapter 7 and verse 8. Y'all can read that. Right? We ain't going to go to it now, but it says, I have made them not a people. He cut them off. That's why he's saying here that what? I'm calling them clean. You can't call them unclean. Peter is still not picking it up 100%. Okay, he's still not picking up on that. That's what we got to understand.
 
 - Arise therefore and get thee down and go with them, doubting nothing, for I have sent them: So, he said, "You got these men looking for you. Go down there. Don't worry about it. I sent them to you." Right? So, now he's getting this from the Spirit.
 
@@ -171,11 +167,19 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 
     Verse nine. Look at this. He is just. He shall surely live, saith the Lord God. You see that? That's the just keeping the laws of God.
 
+> <sup>[21](/bible/acts/10#v21)</sup> Then Peter went down to the men which were sent unto him from Cornelius; and said, Behold, I am he whom ye seek: what is the cause wherefore ye are come?
+>
+> <sup>[22](/bible/acts/10#v22)</sup> And they said, Cornelius the centurion, a just man, and one that feareth God, and of good report among all the nation of the Jews, was warned from God by an holy angel to send for thee into his house, and to hear words of thee.
+
 
 **[Acts 10:23-28](/bible/acts/10#v23)**  *[[21:44](https://www.youtube.com/watch?v=sG0tTEtGuwI&t=1304s)]*
 
 > <sup>[23](/bible/acts/10#v23)</sup> Then called he them in, and lodged them. And on the morrow Peter went away with them, and certain brethren from Joppa accompanied him.
->
+
+- And on the morrow, Peter went away with them and certain brethren from Joppa accompanied him: Right? So, Peter went with those brothers and he took some brothers with him to go see Cornelius. Right?
+
+- Ye know how that it is an unlawful thing for a man that is a Jew to keep company or come unto one of another nation. But God hath showed me that I should not call any man common or unclean: So, now Peter going there, he now understood. Okay, he's talking about. Why is he saying that? Because he know that these is Israelites. He knows that that's his people. He know that they are family, but they just got beef. See, let me tell y'all something. And we going to get to it right now. Right? We have to realize something, how long this beef was going on between the northern and the southern kingdom. This is not something that just kicked off. This is something. Listen. Let me just show y'all. I got to stop this talk. We going to get to it, y'all. Y'all know how I get down. I get a little excited about this stuff.
+
 > <sup>[24](/bible/acts/10#v24)</sup> And the morrow after they entered into Cesarea. And Cornelius waited for them, and had called together his kinsmen and near friends.
 >
 > <sup>[25](/bible/acts/10#v25)</sup> And as Peter was coming in, Cornelius met him, and fell down at his feet, and worshipped him.
@@ -185,10 +189,6 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 > <sup>[27](/bible/acts/10#v27)</sup> And as he talked with him, he went in, and found many that were come together.
 >
 > <sup>[28](/bible/acts/10#v28)</sup> And he said unto them, Ye know how that it is an unlawful thing for a man that is a Jew to keep company, or come unto one of another nation; but God hath shewed me that I should not call any man common or unclean.
-
-- And on the morrow, Peter went away with them and certain brethren from Joppa accompanied him: Right? So, Peter went with those brothers and he took some brothers with him to go see Cornelius. Right?
-
-- Ye know how that it is an unlawful thing for a man that is a Jew to keep company or come unto one of another nation. But God hath showed me that I should not call any man common or unclean: So, now Peter going there, he now understood. Okay, he's talking about. Why is he saying that? Because he know that these is Israelites. He knows that that's his people. He know that they are family, but they just got beef. See, let me tell y'all something. And we going to get to it right now. Right? We have to realize something, how long this beef was going on between the northern and the southern kingdom. This is not something that just kicked off. This is something. Listen. Let me just show y'all. I got to stop this talk. We going to get to it, y'all. Y'all know how I get down. I get a little excited about this stuff.
 
 - A Jew to keep company or come unto one of another nation: All right. So, now he said a Jew that should not deal with one of another nation. What? He just told me any nation, period? No, he's not talking about that. Because what? Everybody was doing business with each other. People were dealing with each other. Had nothing to do with just any nation. That's not what he was talking about. But let's get it. Ezekiel 37, y'all. Ezekiel 37.
 
@@ -215,6 +215,8 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 
 **[Ezekiel 37:16-22](/bible/ezekiel/37#v16)**  *[[25:22](https://www.youtube.com/watch?v=sG0tTEtGuwI&t=1522s)]*
 
+- And when the children of thy people shall speak unto thee saying, Wilt thou not show us what thou meanest by these?: Cuz the people going to say, "What that mean?" You got one stick with the southern kingdom on it. You got another stick with what? The northern kingdom on it. And now you putting it together. What does it mean? Right? Just like when we have the 12 tribes chart. That's what people do. Cuz that's what it is. That's why the background when you look at it, it looks like it's wood. It's doing this right here, right?
+
 > <sup>[16](/bible/ezekiel/37#v16)</sup> Moreover, thou son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and for all the house of Israel his companions:
 >
 > <sup>[17](/bible/ezekiel/37#v17)</sup> And join them one to another into one stick; and they shall become one in thine hand.
@@ -222,18 +224,16 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 > <sup>[18](/bible/ezekiel/37#v18)</sup> And when the children of thy people shall speak unto thee, saying, Wilt thou not shew us what thou meanest by these?
 >
 > <sup>[19](/bible/ezekiel/37#v19)</sup> Say unto them, Thus saith the Lord God; Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they shall be one in mine hand.
->
-> <sup>[20](/bible/ezekiel/37#v20)</sup> And the sticks whereon thou writest shall be in thine hand before their eyes.
->
-> <sup>[21](/bible/ezekiel/37#v21)</sup> And say unto them, Thus saith the Lord God; Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land:
->
-> <sup>[22](/bible/ezekiel/37#v22)</sup> And I will make them one nation in the land upon the mountains of Israel; and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all:
-
-- And when the children of thy people shall speak unto thee saying, Wilt thou not show us what thou meanest by these?: Cuz the people going to say, "What that mean?" You got one stick with the southern kingdom on it. You got another stick with what? The northern kingdom on it. And now you putting it together. What does it mean? Right? Just like when we have the 12 tribes chart. That's what people do. Cuz that's what it is. That's why the background when you look at it, it looks like it's wood. It's doing this right here, right?
 
 - Behold, I will take the stick of Joseph: That's the northern kingdom. Which is in the hand of Ephraim and the tribes of Israel his fellows and will put them with him, even with the stick of Judah: Southern kingdom.
 
+> <sup>[20](/bible/ezekiel/37#v20)</sup> And the sticks whereon thou writest shall be in thine hand before their eyes.
+>
+> <sup>[21](/bible/ezekiel/37#v21)</sup> And say unto them, Thus saith the Lord God; Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land:
+
 - Behold, I will take the children of Israel from among the heathen whither they be gone: That's what we read in Hosea 8 and 8. Right? The vessel that was what? Swallowed up by the Gentiles. Remember that. All right? The scriptures going to say the same thing. That's how come we know what we talking about, right?
+
+> <sup>[22](/bible/ezekiel/37#v22)</sup> And I will make them one nation in the land upon the mountains of Israel; and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all:
 
 - And one king shall be king to them all: That's Christ. And they shall be no more two nations: Y'all see that? No more two nations. Neither shall they be divided into two kingdoms anymore at all.
 
@@ -248,25 +248,21 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 
 **[John 4:5-11](/bible/john/4#v5)**  *[[28:47](https://www.youtube.com/watch?v=sG0tTEtGuwI&t=1727s)]*
 
-> <sup>[5](/bible/john/4#v5)</sup> Then cometh he to a city of Samaria, which is called Sychar, near to the parcel of ground that Jacob gave to his son Joseph.
->
-> <sup>[6](/bible/john/4#v6)</sup> Now Jacob’s well was there. Jesus therefore, being wearied with his journey, sat thus on the well: and it was about the sixth hour.
->
-> <sup>[7](/bible/john/4#v7)</sup> There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink.
->
-> <sup>[8](/bible/john/4#v8)</sup> (For his disciples were gone away unto the city to buy meat.)
->
-> <sup>[9](/bible/john/4#v9)</sup> Then saith the woman of Samaria unto him, How is it that thou, being a Jew, askest drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans.
->
-> <sup>[10](/bible/john/4#v10)</sup> Jesus answered and said unto her, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water.
->
-> <sup>[11](/bible/john/4#v11)</sup> The woman saith unto him, Sir, thou hast nothing to draw with, and the well is deep: from whence then hast thou that living water?
-
 - So, before Peter went in there, right? Christ went there first. Christ had told him, "Don't go into the cities of the Gentiles or the Samaritans," right? Because he was going to go first. It was about order, right? So, Christ went set it off with the woman at the well here in John chapter 4. Right? We're going to start in verse five real quick.
+
+> <sup>[5](/bible/john/4#v5)</sup> Then cometh he to a city of Samaria, which is called Sychar, near to the parcel of ground that Jacob gave to his son Joseph.
 
 - Near to the parcel of ground that Jacob gave to his son Joseph: Now, we just read that, right? That Joseph shall be the stick of Joseph. Now, we reading what? That they're on a parcel of land that was given to Joseph, the northern kingdom.
 
+> <sup>[6](/bible/john/4#v6)</sup> Now Jacob’s well was there. Jesus therefore, being wearied with his journey, sat thus on the well: and it was about the sixth hour.
+>
+> <sup>[7](/bible/john/4#v7)</sup> There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink.
+
 - There cometh a woman of Samaria to draw water. Jesus saith unto her, Give me to drink: So, a lot of people in the churches and so on and so forth believe that this woman is of another nation, that she's not an Israelite. Now, I know all of us supposed to know she's Israel, but I'm reading this again so y'all can put it together, right? Verse 7 again.
+
+> <sup>[8](/bible/john/4#v8)</sup> (For his disciples were gone away unto the city to buy meat.)
+>
+> <sup>[9](/bible/john/4#v9)</sup> Then saith the woman of Samaria unto him, How is it that thou, being a Jew, askest drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans.
 
 - How is it that thou being a Jew, askest drink of me, which am a woman of Samaria? For the Jews have no dealings with the Samaritans: Right? Remember, same thing Peter said to Cornelius. We not supposed to deal with another nation, but the Lord showed me that what? That no man is common or unclean, meaning no Israelite is uncommon and unclean, right? But again, let's go back. Verse 10.
 
@@ -275,6 +271,10 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 - Now, I want to get into the beef of the northern and southern kingdom, right? This is important. Let's go to 2 Kings. Once y'all write this down what I'm about to show y'all, okay? Write this stuff down, okay? This is important. Okay? We have to understand the northern and southern kingdom drama was nothing sweet and it was nothing light. It was very heavy.
 
 - Now, what we picking up? We're picking up after the split, okay? Y'all want to read about the split? 1 Kings chapter 12, okay? You're going to read about the split. We're picking up after the split, okay? Southern and northern kingdom ain't dealing with each other, okay? This is way after. Remember, that was during the time as soon as Solomon passed on, then his son came in, Rehoboam, and Jeroboam was over the northern kingdom and that's where the thing started, right?
+
+> <sup>[10](/bible/john/4#v10)</sup> Jesus answered and said unto her, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water.
+>
+> <sup>[11](/bible/john/4#v11)</sup> The woman saith unto him, Sir, thou hast nothing to draw with, and the well is deep: from whence then hast thou that living water?
 
 
 **[2 Kings 3:1](/bible/2-kings/3#v1)**  *[[32:25](https://www.youtube.com/watch?v=sG0tTEtGuwI&t=1945s)]*
@@ -287,16 +287,14 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[2 Kings 3:11-14](/bible/2-kings/3#v11)**  *[[32:25](https://www.youtube.com/watch?v=sG0tTEtGuwI&t=1945s)]*
 
 > <sup>[11](/bible/2-kings/3#v11)</sup> But Jehoshaphat said, Is there not here a prophet of the Lord, that we may enquire of the Lord by him? And one of the king of Israel’s servants answered and said, Here is Elisha the son of Shaphat, which poured water on the hands of Elijah.
->
-> <sup>[12](/bible/2-kings/3#v12)</sup> And Jehoshaphat said, The word of the Lord is with him. So the king of Israel and Jehoshaphat and the king of Edom went down to him.
->
-> <sup>[13](/bible/2-kings/3#v13)</sup> And Elisha said unto the king of Israel, What have I to do with thee? get thee to the prophets of thy father, and to the prophets of thy mother. And the king of Israel said unto him, Nay: for the Lord hath called these three kings together, to deliver them into the hand of Moab.
->
-> <sup>[14](/bible/2-kings/3#v14)</sup> And Elisha said, As the Lord of hosts liveth, before whom I stand, surely, were it not that I regard the presence of Jehoshaphat the king of Judah, I would not look toward thee, nor see thee.
 
 - But Jehoshaphat: Right? Now, Jehoshaphat is what? It says the king of Judah, okay? So, you had Ahab began to reign over what? Israel. He was the king of Samaria. Jehoshaphat was the king of Judah, okay?
 
 - Here is Elisha, the son of Shaphat, which poured water on the hands of Elijah: So, you talking about Elisha, who was Elijah's right-hand man, right? Remember, when Elijah got translated and taken up in a chariot, right? Cuz he ain't dead. The Lord took him. Elijah had asked, "Elisha, what can I leave for you, my son?" He said, "I want double your portion of spirit." Right? So, Elisha was known as a top-notch prophet. He had much understanding and he was sought after, right? So, this is what we looking at here. Which poured water on the hands of Elijah, meaning he was with him all the time, right? And was his servant, so to speak, right?
+
+> <sup>[12](/bible/2-kings/3#v12)</sup> And Jehoshaphat said, The word of the Lord is with him. So the king of Israel and Jehoshaphat and the king of Edom went down to him.
+>
+> <sup>[13](/bible/2-kings/3#v13)</sup> And Elisha said unto the king of Israel, What have I to do with thee? get thee to the prophets of thy father, and to the prophets of thy mother. And the king of Israel said unto him, Nay: for the Lord hath called these three kings together, to deliver them into the hand of Moab.
 
 - And Elisha said unto the king of Israel, What have I to do with thee?: You see that? Listen, it was three people there. The king of Judah, the king of Edom, and the king of Israel, and Elisha, a Judahite, looked at the Ephraimite or the king of Israel of the northern kingdom and said, "What I got to do with you?" This is where the beef is at, y'all. This is how heavy it is. I want y'all to understand. Watch this.
 
@@ -305,6 +303,8 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 - Surely were it not that I regard the presence of Jehoshaphat, king of Judah, I would not look toward thee, nor see thee: Y'all understand that? Elisha said, Yo, if it wasn't for this man right here, I wouldn't even be looking at you. Now, this is a prophet of God. He is in this beef as well. He don't want to have nothing to do with the northern kingdom, y'all. This is back then. Right? This is back then. Why? Because what? They were worshipping idols. They were going crazy. That's why he said, Yo, go inquire of your idols and your mother and father, man. Y'all wild. Go ahead. Go off with that. I don't even want to see you. He didn't even say nothing to Edom. He said nothing to Esau.
 
 - Y'all see how wild this is, man? You got to recognize I'm bringing it home like this so y'all can recognize the level of beef, the level of separation. Okay? The level of separation between the northern and southern kingdom. So, when Peter is now going over to deal with Cornelius, this is nothing small. This is not him just, okay, I'm bringing the word out to some other Judahites or the kingdom of Judah. No, this is a big thing, y'all. This is a big thing. Right?
+
+> <sup>[14](/bible/2-kings/3#v14)</sup> And Elisha said, As the Lord of hosts liveth, before whom I stand, surely, were it not that I regard the presence of Jehoshaphat the king of Judah, I would not look toward thee, nor see thee.
 
 
 **[Matthew 1:17](/bible/matthew/1#v17)**  *[[36:17](https://www.youtube.com/watch?v=sG0tTEtGuwI&t=2177s)]*
@@ -339,20 +339,20 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[1 Maccabees 1:28-32](/bible/1-maccabees/1#v28)**  *[[39:43](https://www.youtube.com/watch?v=sG0tTEtGuwI&t=2383s)]*
 
 > <sup>[28](/bible/1-maccabees/1#v28)</sup> The land also was moved for the inhabitants thereof, and all the house of Jacob was covered with confusion.
->
-> <sup>[29](/bible/1-maccabees/1#v29)</sup> And after two years fully expired the king sent his chief collector of tribute unto the cities of Juda, who came unto Jerusalem with a great multitude,
->
-> <sup>[30](/bible/1-maccabees/1#v30)</sup> And spake peaceable words unto them, but all was deceit: for when they had given him credence, he fell suddenly upon the city, and smote it very sore, and destroyed much people of Israel.
->
-> <sup>[31](/bible/1-maccabees/1#v31)</sup> And when he had taken the spoils of the city, he set it on fire, and pulled down the houses and walls thereof on every side.
->
-> <sup>[32](/bible/1-maccabees/1#v32)</sup> But the women and children took they captive, and possessed the cattle.
 
 - And all the house of Jacob was covered with confusion: Okay? We're going to read down to 32.
 
 - And spake peaceable words unto them, but it was all deceit: So, he took 2 years he was smashing Israel. Then after the 2 years he came and spoke peaceably, but it was all deceit, right? And he started taking taxes out of them and all of that.
 
+> <sup>[29](/bible/1-maccabees/1#v29)</sup> And after two years fully expired the king sent his chief collector of tribute unto the cities of Juda, who came unto Jerusalem with a great multitude,
+>
+> <sup>[30](/bible/1-maccabees/1#v30)</sup> And spake peaceable words unto them, but all was deceit: for when they had given him credence, he fell suddenly upon the city, and smote it very sore, and destroyed much people of Israel.
+>
+> <sup>[31](/bible/1-maccabees/1#v31)</sup> And when he had taken the spoils of the city, he set it on fire, and pulled down the houses and walls thereof on every side.
+
 - He set it on fire and pulled down the houses and walls thereof on every side: This is the Edomite demonic.
+
+> <sup>[32](/bible/1-maccabees/1#v32)</sup> But the women and children took they captive, and possessed the cattle.
 
 - But the women and children took they captive and possessed the cattle: So, he took the women, the sisters and the babies, took them hostage, right? Probably raped them, slept with them, did whatever he wanted to do, right? Why are we reading this? We have to get the full understanding of what our people were dealing with during this time. Okay? Cuz it's going to make us understand what's going on in a time of Cornelius and Peter and Christ and all of that, because this is what? I'm sorry, the Greeks coming in before the Romans jumped in there, right? Now, let's go to 41.
 
@@ -360,12 +360,12 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[1 Maccabees 1:41-43](/bible/1-maccabees/1#v41)**  *[[41:09](https://www.youtube.com/watch?v=sG0tTEtGuwI&t=2469s)]*
 
 > <sup>[41](/bible/1-maccabees/1#v41)</sup> Moreover king Antiochus wrote to his whole kingdom, that all should be one people,
->
+
+- Moreover, King Antiochus wrote to his whole kingdom that all should be one people: So, here we go. This is it right here, y'all, right?
+
 > <sup>[42](/bible/1-maccabees/1#v42)</sup> And every one should leave his laws: so all the heathen agreed according to the commandment of the king.
 >
 > <sup>[43](/bible/1-maccabees/1#v43)</sup> Yea, many also of the Israelites consented to his religion, and sacrificed unto idols, and profaned the sabbath.
-
-- Moreover, King Antiochus wrote to his whole kingdom that all should be one people: So, here we go. This is it right here, y'all, right?
 
 - Yea, many also of the Israelites consented to his religion: Meaning what? His politics, his democracy. And sacrificed unto idols and profaned the Sabbath: Right? Remember, he beat this into them by murder, captivity, rape over the last couple of years. So, now when he's coming and saying, "Listen, we should all be one." This is almost a no-brainer. People are like, "Oh, shoot. Look what happened. We have to do it." Okay?
 
@@ -380,6 +380,10 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 
 **[1 Maccabees 1:45-49](/bible/1-maccabees/1#v45)**  *[[42:37](https://www.youtube.com/watch?v=sG0tTEtGuwI&t=2557s)]*
 
+- And profane the Sabbath, and pollute the sanctuary: I want to jump down. Oh, you know what? Might as well read through 47.
+
+- Set up altars and groves and chapels of idols, and sacrificed swine's flesh and unclean beasts: Okay? This is stuff that Peter thought he was seeing in the vision.
+
 > <sup>[45](/bible/1-maccabees/1#v45)</sup> And forbid burnt offerings, and sacrifice, and drink offerings, in the temple; and that they should profane the sabbaths and festival days:
 >
 > <sup>[46](/bible/1-maccabees/1#v46)</sup> And pollute the sanctuary and holy people:
@@ -387,14 +391,10 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 > <sup>[47](/bible/1-maccabees/1#v47)</sup> Set up altars, and groves, and chapels of idols, and sacrifice swine’s flesh, and unclean beasts:
 >
 > <sup>[48](/bible/1-maccabees/1#v48)</sup> That they should also leave their children uncircumcised, and make their souls abominable with all manner of uncleanness and profanation:
->
-> <sup>[49](/bible/1-maccabees/1#v49)</sup> To the end they might forget the law, and change all the ordinances.
-
-- And profane the Sabbath, and pollute the sanctuary: I want to jump down. Oh, you know what? Might as well read through 47.
-
-- Set up altars and groves and chapels of idols, and sacrificed swine's flesh and unclean beasts: Okay? This is stuff that Peter thought he was seeing in the vision.
 
 - That they should also leave their children uncircumcised: And we're going to get around to that. There's something coming out later I'm going to show you. This is the beginning of what's known as being a Gentile.
+
+> <sup>[49](/bible/1-maccabees/1#v49)</sup> To the end they might forget the law, and change all the ordinances.
 
 - To the end they might forget the law and change all the ordinances: Here we go, y'all. Right? Because meaning to forget the law meaning we going to beat it out of them. It's not that they forget. You know how they forget? By it not being taught anymore. That's how you forget. It's not talking about that one person forgetting, it's talking about a nationality or a nation of people totally coming out of their heritage. That's why I'm trying to show you that when the northern kingdom and southern kingdom was seeing each other, it's like seeing a totally different race of people. They were like, "Yo, them guys is done." Right? But let's read on. Verse 50.
 
@@ -521,16 +521,16 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[Galatians 2:7-9](/bible/galatians/2#v7)**  *[[56:21](https://www.youtube.com/watch?v=sG0tTEtGuwI&t=3381s)]*
 
 > <sup>[7](/bible/galatians/2#v7)</sup> But contrariwise, when they saw that the gospel of the uncircumcision was committed unto me, as the gospel of the circumcision was unto Peter;
->
-> <sup>[8](/bible/galatians/2#v8)</sup> (For he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:)
->
-> <sup>[9](/bible/galatians/2#v9)</sup> And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given unto me, they gave to me and Barnabas the right hands of fellowship; that we should go unto the heathen, and they unto the circumcision.
 
 - But contrariwise, when they saw that the gospel of the uncircumcision was committed unto me: Remember what we read in Maccabees, that what? The children couldn't be circumcised anymore, right? And they had to be called what? Gentiles, right? They could no longer be called Jews, right? So, let's get this.
 
 - As the gospel of the circumcision was unto Peter: Right? So, Peter has what? The Southern Kingdom. That's the circumcision. The uncircumcision is what? The Gentiles, the Northern Kingdom, right? Let's read on, verse eight.
 
 - For he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me towards the Gentiles: See? Now, the uncircumcision is being called Gentiles. The first in verse seven, they called what? Uncircumcision. Verse eight Gentiles. Let's read on, verse nine.
+
+> <sup>[8](/bible/galatians/2#v8)</sup> (For he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:)
+>
+> <sup>[9](/bible/galatians/2#v9)</sup> And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given unto me, they gave to me and Barnabas the right hands of fellowship; that we should go unto the heathen, and they unto the circumcision.
 
 - That we should go unto the heathen and they unto the circumcision: You see that? So, they were called uncircumcision, Gentiles and heathen. We read all three of those today. Israel swallowed up amongst the Gentiles. They shall be brought out from amongst the heathen in Ezekiel 37 and all that, right? We're reading it and we understand that they're the uncircumcision in Maccabees. We're talking about the Israelites at all times, right?
 
@@ -551,8 +551,6 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[Romans 11:14-15](/bible/romans/11#v14)**  *[[58:47](https://www.youtube.com/watch?v=sG0tTEtGuwI&t=3527s)]*
 
 > <sup>[14](/bible/romans/11#v14)</sup> If by any means I may provoke to emulation them which are my flesh, and might save some of them.
->
-> <sup>[15](/bible/romans/11#v15)</sup> For if the casting away of them be the reconciling of the world, what shall the receiving of them be, but life from the dead?
 
 - If by any means I may provoke to emulation them which are my flesh: Now you understand why he's saying of my flesh? Cuz the Christian is saying, "Well, look what he's saying, of my flesh. If they was all Israel, then why would he be saying of my flesh? He's actually talking about some other people." No. Remember at this time they're not even looking at each other like they didn't see people no more. You talking about five to 800 years of no contact. No contact. We like to hell with them.
 
@@ -561,6 +559,8 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 - So, Paul said of my flesh meaning of the southern kingdom, y'all. That's what he's talking about. That's why, remember in verse one, he said I'm a Benjamite. He made sure to mention that in this chapter. He mentioned it in this chapter because it has everything to do with it. Contextually you have to understand what kingdom he's from in order to understand what the hell he's talking about. Okay?
 
 - If by any means I may provoke to emulation them which are my flesh: Meaning the southern kingdom, they have to start following Christ now and stop doing animal sacrifice, right? And might save some of them.
+
+> <sup>[15](/bible/romans/11#v15)</sup> For if the casting away of them be the reconciling of the world, what shall the receiving of them be, but life from the dead?
 
 - For if the casting away of them be the reconciling of the world, what shall the receiving of them be but life from the dead: Right? Let's go to Romans 5 and 10 real quick, y'all.
 
@@ -597,12 +597,12 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[Jeremiah 11:16-17](/bible/jeremiah/11#v16)**  *[[1:04:48](https://www.youtube.com/watch?v=sG0tTEtGuwI&t=3888s)]*
 
 > <sup>[16](/bible/jeremiah/11#v16)</sup> The Lord called thy name, A green olive tree, fair, and of goodly fruit: with the noise of a great tumult he hath kindled fire upon it, and the branches of it are broken.
->
-> <sup>[17](/bible/jeremiah/11#v17)</sup> For the Lord of hosts, that planted thee, hath pronounced evil against thee, for the evil of the house of Israel and of the house of Judah, which they have done against themselves to provoke me to anger in offering incense unto Baal.
 
 - The Lord called thy name a green olive tree: Who's he talking to? Israel.
 
 - With the noise of a great tumult, he hath kindled fire upon it, and the branches of it are broken: We just read that. If you be a wild olive tree and branches are broken off, right?
+
+> <sup>[17](/bible/jeremiah/11#v17)</sup> For the Lord of hosts, that planted thee, hath pronounced evil against thee, for the evil of the house of Israel and of the house of Judah, which they have done against themselves to provoke me to anger in offering incense unto Baal.
 
 - For the Lord of hosts that planted thee hath pronounced evil against thee for the evil of the house of Israel and of the house of Judah: What else do you want to hear? The house of Israel and the house of Judah are the olive trees. And the wild ones is what? The northern kingdom. As you move on in the understanding. It's not that Judah wasn't doing some foolishness, too. They were. But at least they still kept it. They still were doing sacrificing. They still kept it. Although they was off, too. But the point is the olive tree is talking about the entire nation of Israel. Not, "Oh, they're of some other tree." But they have no understanding. Because why? They're trying to make the scriptures fit what's in their minds. Right? They're trying to save mommy. They want to save their girl. You know, or whatever's going on. All right, y'all?
 
@@ -621,12 +621,12 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[Romans 11:25-26](/bible/romans/11#v25)**  *[[1:07:44](https://www.youtube.com/watch?v=sG0tTEtGuwI&t=4064s)]*
 
 > <sup>[25](/bible/romans/11#v25)</sup> For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in.
->
-> <sup>[26](/bible/romans/11#v26)</sup> And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:
 
 - For I would not, brethren, that ye should be ignorant of this mystery: So now again, Paul is talking about, "Don't be ignorant. I'm about to let you know what's going on."
 
 - That blindness in part is happened to Israel until the fullness of the Gentiles be come in: Meaning what? The blindness has come up and it's using the word Israel there because, remember, the Gentiles or the northern kingdom is not even considered Israel anymore amongst the Israelites, right? So now it's being called Israel here. Just for y'all to understand why he's using that term. And then saying, "Until the fullness of the Gentiles be come in." Meaning northern kingdom once they're grafted back in. Okay? So what? The southern kingdom people had to be what? Blinded. The leaders were blinded. Okay?
+
+> <sup>[26](/bible/romans/11#v26)</sup> And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:
 
 - And so all Israel shall be saved: It's letting you know who he's talking about the whole chapter. And so all Israel shall be saved. Look what it said up above. It said happened to Israel until the fullness of the Gentiles be come in. Then when the Gentiles are being brought in, and so all Israel, meaning what? The northern kingdom is now come back with the southern kingdom and you have all Israel, all 12 tribes. I hope y'all understand. I hope y'all understand that, right?
 
@@ -635,52 +635,52 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 
 **[Revelation 11:1-10](/bible/revelation/11#v1)**  *[[1:09:11](https://www.youtube.com/watch?v=sG0tTEtGuwI&t=4151s)]*
 
+- But now, let me show y'all this. Let's go to Revelation 11 real quick. Watch this, y'all. Again, we're going to deal with the olive trees. We're almost done. I just want to show y'all something else with the olive trees just in case anybody. Y'all might show this to one of your Christian friends, whatever. They'll be like, "No, no, no. You guys don't know what you're talking about," or whatever. No problem. Let's go to Revelation 11. Revelation chapter 11, verse 1.
+
 > <sup>[1](/bible/revelation/11#v1)</sup> And there was given me a reed like unto a rod: and the angel stood, saying, Rise, and measure the temple of God, and the altar, and them that worship therein.
 >
 > <sup>[2](/bible/revelation/11#v2)</sup> But the court which is without the temple leave out, and measure it not; for it is given unto the Gentiles: and the holy city shall they tread under foot forty and two months.
->
-> <sup>[3](/bible/revelation/11#v3)</sup> And I will give power unto my two witnesses, and they shall prophesy a thousand two hundred and threescore days, clothed in sackcloth.
->
-> <sup>[4](/bible/revelation/11#v4)</sup> These are the two olive trees, and the two candlesticks standing before the God of the earth.
->
-> <sup>[5](/bible/revelation/11#v5)</sup> And if any man will hurt them, fire proceedeth out of their mouth, and devoureth their enemies: and if any man will hurt them, he must in this manner be killed.
->
-> <sup>[6](/bible/revelation/11#v6)</sup> These have power to shut heaven, that it rain not in the days of their prophecy: and have power over waters to turn them to blood, and to smite the earth with all plagues, as often as they will.
->
-> <sup>[7](/bible/revelation/11#v7)</sup> And when they shall have finished their testimony, the beast that ascendeth out of the bottomless pit shall make war against them, and shall overcome them, and kill them.
->
-> <sup>[8](/bible/revelation/11#v8)</sup> And their dead bodies shall lie in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified.
->
-> <sup>[9](/bible/revelation/11#v9)</sup> And they of the people and kindreds and tongues and nations shall see their dead bodies three days and an half, and shall not suffer their dead bodies to be put in graves.
->
-> <sup>[10](/bible/revelation/11#v10)</sup> And they that dwell upon the earth shall rejoice over them, and make merry, and shall send gifts one to another; because these two prophets tormented them that dwelt on the earth.
-
-- But now, let me show y'all this. Let's go to Revelation 11 real quick. Watch this, y'all. Again, we're going to deal with the olive trees. We're almost done. I just want to show y'all something else with the olive trees just in case anybody. Y'all might show this to one of your Christian friends, whatever. They'll be like, "No, no, no. You guys don't know what you're talking about," or whatever. No problem. Let's go to Revelation 11. Revelation chapter 11, verse 1.
 
 - But the court which is without: Meaning the court which is outside of the temple, okay? The court which is outside of the temple, leave out, meaning getting rid of it. And measure it not for it is given unto the Gentiles and the holy city shall they tread under foot 42 months: That part right there, get rid of that because that's the nations. They're not involved in this. They're not involved in this. This Gentiles he is talking about the nations. How do we know? We're going to read down.
 
+> <sup>[3](/bible/revelation/11#v3)</sup> And I will give power unto my two witnesses, and they shall prophesy a thousand two hundred and threescore days, clothed in sackcloth.
+
 - And I will give power unto my two witnesses: Pay attention, y'all. These are the two olive trees, okay? The Lord calls them his two witnesses. Then he calls them the two olive trees and the two candlesticks standing before the God of the earth, right? Watch this.
+
+> <sup>[4](/bible/revelation/11#v4)</sup> These are the two olive trees, and the two candlesticks standing before the God of the earth.
+>
+> <sup>[5](/bible/revelation/11#v5)</sup> And if any man will hurt them, fire proceedeth out of their mouth, and devoureth their enemies: and if any man will hurt them, he must in this manner be killed.
 
 - And if any man will hurt them: Hurt who? The olive trees.
 
+> <sup>[6](/bible/revelation/11#v6)</sup> These have power to shut heaven, that it rain not in the days of their prophecy: and have power over waters to turn them to blood, and to smite the earth with all plagues, as often as they will.
+>
+> <sup>[7](/bible/revelation/11#v7)</sup> And when they shall have finished their testimony, the beast that ascendeth out of the bottomless pit shall make war against them, and shall overcome them, and kill them.
+
 - And when they shall have finished their testimony: Meaning the two olive trees. The beast that ascendeth out of the bottomless pit shall make war against them: Who's the them? The two olive trees. And shall overcome them and kill them: The two olive trees. And their dead bodies: Whose dead bodies? The two olive trees.
+
+> <sup>[8](/bible/revelation/11#v8)</sup> And their dead bodies shall lie in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified.
 
 - Shall lie in the street of the great city which spiritually is called Sodom and Egypt where also our Lord was crucified: Right? Their dead bodies are going to lie in the streets of the great city. Remember what we read in Ezekiel 37. These dead bones, these dry bones, how shall they live? That's what this is right here. Okay?
 
+> <sup>[9](/bible/revelation/11#v9)</sup> And they of the people and kindreds and tongues and nations shall see their dead bodies three days and an half, and shall not suffer their dead bodies to be put in graves.
+
 - And they of the people and kindreds and tongues and nations shall see their dead bodies: The two olive trees. 3 days and a half and shall not suffer their dead bodies to be put in a grave: Because they're not actually dead. They're dead to the understanding. Right? They're dead to the understanding.
+
+> <sup>[10](/bible/revelation/11#v10)</sup> And they that dwell upon the earth shall rejoice over them, and make merry, and shall send gifts one to another; because these two prophets tormented them that dwelt on the earth.
 
 - Because these two prophets tormented them that dwelt on the earth: So, who are these two prophets? These are the two olive trees. This is the nation of Israel, y'all, okay? This the nation of Israel. This is it, right? So, when people talk about the olive trees, no, no, no, no, no. We don't have to be confused. Revelation 11. Jeremiah 11. Romans 11. Notice all the 11s. Make it easy on yourself, y'all. Make it easy. Romans 11. Jeremiah 11. Revelation 11. Okay? That'll help you to remember all that. Romans 11. Jeremiah 11, Revelation 11. You going to get anything you want.
 
 
 **[2 Peter 3:15-16](/bible/2-peter/3#v15)**  *[[1:13:53](https://www.youtube.com/watch?v=sG0tTEtGuwI&t=4433s)]*
 
-> <sup>[15](/bible/2-peter/3#v15)</sup> And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;
->
-> <sup>[16](/bible/2-peter/3#v16)</sup> As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction.
-
 - Now, let's go to 2 Peter chapter 3. All right, we going to end it off here. All right? 2 Peter chapter 3, okay, and verse 15.
 
+> <sup>[15](/bible/2-peter/3#v15)</sup> And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;
+
 - Even as our beloved brother Paul also, according to the wisdom given unto him, hath written unto you: So, now Peter is writing about Paul. As also in all his epistles: All his letters.
+
+> <sup>[16](/bible/2-peter/3#v16)</sup> As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction.
 
 - In which are some things hard to be understood: Because all of this is hard to be understood. Y'all understand that? Hard to be understood because of the way Paul writes. Right?
 

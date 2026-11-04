@@ -25,12 +25,12 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell", "prayer", "salvatio
 **[Luke 17:11-13](/bible/luke/17#v11)**  *[[3:05](https://www.youtube.com/watch?v=HVsnoBYO2Ek&t=185s)]*
 
 > <sup>[11](/bible/luke/17#v11)</sup> And it came to pass, as he went to Jerusalem, that he passed through the midst of Samaria and Galilee.
->
+
+- And it came to pass as he went to Jerusalem that he passed through the midst of Samaria and Galilee: Mhm.
+
 > <sup>[12](/bible/luke/17#v12)</sup> And as he entered into a certain village, there met him ten men that were lepers, which stood afar off:
 >
 > <sup>[13](/bible/luke/17#v13)</sup> And they lifted up their voices, and said, Jesus, Master, have mercy on us.
-
-- And it came to pass as he went to Jerusalem that he passed through the midst of Samaria and Galilee: Mhm.
 
 - Jesus, master, have mercy on us: Jesus, master, have mercy on us. Now, this is not Christ's first time passing through Samaria. And it's very good. It's important that we deal with this because a lot of people will say that the people of Samaria were other nations. No, the people of Samaria were Israelites. I'm going to show you that. Go to John chapter 4. John chapter 4. And I want you to read John. Well, damn, I forgot to read Nehemiah 8:8. Read Nehemiah 8:8 real quick. Then we'll come right back to John 4.
 
@@ -73,9 +73,13 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell", "prayer", "salvatio
 **[John 4:4-9](/bible/john/4#v4)**  *[[8:52](https://www.youtube.com/watch?v=HVsnoBYO2Ek&t=532s)]*
 
 > <sup>[4](/bible/john/4#v4)</sup> And he must needs go through Samaria.
->
+
+- And he must needs go through Samaria: Now, let's go back. Let's go to John 4. So we were reading in Luke 17 how he passed through Samaria. Now who was in Samaria? John chapter 4 I want you to start at verse 4 and 5.
+
 > <sup>[5](/bible/john/4#v5)</sup> Then cometh he to a city of Samaria, which is called Sychar, near to the parcel of ground that Jacob gave to his son Joseph.
->
+
+- Then cometh he to a city of Samaria, which is called Sychar, near to the parcel of ground that Jacob gave to his son Joseph: Right. So it said then cometh he to a city of Samaria which is called Sychar near to the parcel of ground that Jacob gave to his son Joseph. So this parcel of ground was given to Joseph which was the son of Jacob. Okay. And it's in Samaria. All right. Keep read verse seven.
+
 > <sup>[6](/bible/john/4#v6)</sup> Now Jacob’s well was there. Jesus therefore, being wearied with his journey, sat thus on the well: and it was about the sixth hour.
 >
 > <sup>[7](/bible/john/4#v7)</sup> There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink.
@@ -83,10 +87,6 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell", "prayer", "salvatio
 > <sup>[8](/bible/john/4#v8)</sup> (For his disciples were gone away unto the city to buy meat.)
 >
 > <sup>[9](/bible/john/4#v9)</sup> Then saith the woman of Samaria unto him, How is it that thou, being a Jew, askest drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans.
-
-- And he must needs go through Samaria: Now, let's go back. Let's go to John 4. So we were reading in Luke 17 how he passed through Samaria. Now who was in Samaria? John chapter 4 I want you to start at verse 4 and 5.
-
-- Then cometh he to a city of Samaria, which is called Sychar, near to the parcel of ground that Jacob gave to his son Joseph: Right. So it said then cometh he to a city of Samaria which is called Sychar near to the parcel of ground that Jacob gave to his son Joseph. So this parcel of ground was given to Joseph which was the son of Jacob. Okay. And it's in Samaria. All right. Keep read verse seven.
 
 - For the Jews have no dealings with the Samaritans: Now wait a minute. So the Jews dealt with the Romans, but the Jews wouldn't have no dealing with the Samaritans. How that work? The Jews would deal with the Romans and the Ishraelites and all these other nations, but for some reason they had a problem with dealing with the Samaritans. So now there must be some history for us to be able to go back and find out what is it that the Jews had against the Samaritans. Give me that real quick. Isaiah 7 and 8.
 
@@ -158,16 +158,16 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell", "prayer", "salvatio
 **[Luke 17:16-19](/bible/luke/17#v16)**  *[[19:18](https://www.youtube.com/watch?v=HVsnoBYO2Ek&t=1158s)]*
 
 > <sup>[16](/bible/luke/17#v16)</sup> And fell down on his face at his feet, giving him thanks: and he was a Samaritan.
->
-> <sup>[17](/bible/luke/17#v17)</sup> And Jesus answering said, Were there not ten cleansed? but where are the nine?
->
-> <sup>[18](/bible/luke/17#v18)</sup> There are not found that returned to give glory to God, save this stranger.
->
-> <sup>[19](/bible/luke/17#v19)</sup> And he said unto him, Arise, go thy way: thy faith hath made thee whole.
 
 - And he was a Samaritan: And he was a Samaritan. Go ahead.
 
+> <sup>[17](/bible/luke/17#v17)</sup> And Jesus answering said, Were there not ten cleansed? but where are the nine?
+
 - Were there not ten cleansed? but where are the nine: Right? So Jesus said, "Wait a minute. I cleansed 10 of them." Where the nine? What other nine at? Only one of them turned back and bowed. Only one of them turned back and showed appreciation. Go ahead.
+
+> <sup>[18](/bible/luke/17#v18)</sup> There are not found that returned to give glory to God, save this stranger.
+>
+> <sup>[19](/bible/luke/17#v19)</sup> And he said unto him, Arise, go thy way: thy faith hath made thee whole.
 
 - Arise, go thy way: thy faith hath made thee whole: You hear that? He said, "Arise, go thy way. Thy faith have made thee whole." But notice what he said. They are not found that return to give glory to God save this stranger. Now, let me show you something. This goes back to what we were talking about. Well, we weren't talking about it, me and y'all, but I was going over this the other day on TikTok. This guy asked about Isaiah 56. Let's go to Isaiah 56 real quick. Isaiah chapter 56, and I want you to read verse 6.
 
@@ -202,13 +202,13 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell", "prayer", "salvatio
 
 **[Luke 17:17-18](/bible/luke/17#v17)**  *[[25:05](https://www.youtube.com/watch?v=HVsnoBYO2Ek&t=1505s)]*
 
-> <sup>[17](/bible/luke/17#v17)</sup> And Jesus answering said, Were there not ten cleansed? but where are the nine?
->
-> <sup>[18](/bible/luke/17#v18)</sup> There are not found that returned to give glory to God, save this stranger.
-
 - So, let's go back to where we was at. Luke 17. And I want you to read 17 and 18 again.
 
+> <sup>[17](/bible/luke/17#v17)</sup> And Jesus answering said, Were there not ten cleansed? but where are the nine?
+
 - Were there not ten cleansed? but where are the nine: He said, "Was not 10? I know that 10 was cleansed. Where other nine at?" Where are nine at? Go ahead.
+
+> <sup>[18](/bible/luke/17#v18)</sup> There are not found that returned to give glory to God, save this stranger.
 
 - Save this stranger: Save this stranger. This go right back to what we was just talking about in the book of Isaiah chapter 56 and 2 Chronicles chapter 15 where strangers out of Ephraim and Manasseh joined themselves into God's covenant to serve the Lord. Okay, that's what you're reading right here. This ain't talking about the strangers of the other nations. God was not dealing with the other nations. The Samaritans were Israelites. The Samaritans were Israelites. What Israelites were they? The tribe of Ephraim. The tribe of Ephraim. All right. Go back. Verse 19 now.
 
@@ -274,10 +274,10 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell", "prayer", "salvatio
 **[Luke 17:18-19](/bible/luke/17#v18)**  *[[34:34](https://www.youtube.com/watch?v=HVsnoBYO2Ek&t=2074s)]*
 
 > <sup>[18](/bible/luke/17#v18)</sup> There are not found that returned to give glory to God, save this stranger.
->
-> <sup>[19](/bible/luke/17#v19)</sup> And he said unto him, Arise, go thy way: thy faith hath made thee whole.
 
 - There are not found that returned to give glory to God, save this stranger: Save this stranger. Who is this stranger? This stranger is the Israelites of the elect, the northern kingdom of Israelites that believe on the son of God. Not those Israelites who were in fact the children of Abraham by blood, but spiritually they had no faith in the son of God. Therefore, they were not the children of Abraham. They were not the elect. Go ahead.
+
+> <sup>[19](/bible/luke/17#v19)</sup> And he said unto him, Arise, go thy way: thy faith hath made thee whole.
 
 - Arise, go thy way: thy faith hath made thee whole: Right? Arise, go thy way. Thy faith hath made thee whole. Wait a minute. Faith in what? What is faith? The other nations didn't have our Bible to understand our God to have faith in him in the first place. It was only a few times you read in the Bible about heathen that knew about our God and like, "Yeah, I believe that because I see the power that's with your God." But you don't read about the nations having faith in our God. They hated our God.
 
@@ -302,10 +302,10 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell", "prayer", "salvatio
 **[Luke 17:20-21](/bible/luke/17#v20)**  *[[37:49](https://www.youtube.com/watch?v=HVsnoBYO2Ek&t=2269s)]*
 
 > <sup>[20](/bible/luke/17#v20)</sup> And when he was demanded of the Pharisees, when the kingdom of God should come, he answered them and said, The kingdom of God cometh not with observation:
->
-> <sup>[21](/bible/luke/17#v21)</sup> Neither shall they say, Lo here! or, lo there! for, behold, the kingdom of God is within you.
 
 - The kingdom of God cometh not with observation: The kingdom of God cometh not with observation. Go ahead.
+
+> <sup>[21](/bible/luke/17#v21)</sup> Neither shall they say, Lo here! or, lo there! for, behold, the kingdom of God is within you.
 
 - For, behold, the kingdom of God is within you: For the kingdom of God is within you. The kingdom of God is within you. It's within you. It's in you. It's yours to lose. That's basically what it is. The Lord already done put everything you need for the kingdom. He done gave it to you through these words. All you got to do is apply the words and believe the words. And the kingdom of God is within you for real though. But a lot of you, you listening to these that don't believe the Bible, that only want to save their master, that say, "Oh yeah, well you can't do nothing. It's the gift of God." The gift of God is the grace that you've been given to get your together. If you deny the grace that Christ gave you, you going to burn.
 
@@ -315,12 +315,12 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell", "prayer", "salvatio
 **[Revelation 22:14-15](/bible/revelation/22#v14)**  *[[40:12](https://www.youtube.com/watch?v=HVsnoBYO2Ek&t=2412s)]*
 
 > <sup>[14](/bible/revelation/22#v14)</sup> Blessed are they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city.
->
-> <sup>[15](/bible/revelation/22#v15)</sup> For without are dogs, and sorcerers, and whoremongers, and murderers, and idolaters, and whosoever loveth and maketh a lie.
 
 - Blessed are they that do his commandments: Right? The Bible said, "Blessed are they that do his commandments." That do his commandments. Do his commandments. You got to do something. Do is an action word. You got to do something. Stop listening to these fools. You better put some bricks in for God's kingdom or sit your black behind down and burn. One or the other. "Oh my god. That's legalistic." Shut the hell up. Your job is legalistic. Come to your job not wearing a uniform. Don't pass a piss test at your job. Take too long on your break. Leave a site without telling them you leaving. Forget your badge. Don't clock in or out. You going to see some legalistic stuff. Then the hell is this? I hate that word legalistic. Shoot.
 
 - That's why black men killing black men in Memphis, Tennessee right now. So now the FBI director say, "Look, we got to send the National Guard down there. We got to send the Coast Guard down there. We got to send FBI agents down there because black men down there don't know how to act and they killing one another." When the Bible say, "Thou shall not kill. Wherein shall a young man cleanse his way by taking heed thereto according to thy word." That's easy. Read again. Verse 15. Oh, verse 14 again.
+
+> <sup>[15](/bible/revelation/22#v15)</sup> For without are dogs, and sorcerers, and whoremongers, and murderers, and idolaters, and whosoever loveth and maketh a lie.
 
 - For without are dogs, and sorcerers, and whoremongers: Outside the kingdom, dogs and sorcerers. And those that practice sorcery and whoremongers, men, these men that just make women and these that make men. Go ahead. And murderers. And idolaters. That's your Christian church. That's your Buddhism. That's your Hinduism. That's your Nation of Islam. All of that. All that stuff idolatry, man. Anything go against this Bible and what it say is an idol. Anything that cause you to take your eyes off these words and you put that before this Bible is idolatry.
 
@@ -333,31 +333,31 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell", "prayer", "salvatio
 
 **[2 Esdras 7:6-12](/bible/2-esdras/7#v6)**  *[[44:21](https://www.youtube.com/watch?v=HVsnoBYO2Ek&t=2661s)]*
 
+- Now go to 2 Esdras chapter 7, 11 real quick. We still talking about the kingdom and getting the kingdom. Christ said the kingdom is within you. Let me show you that. 2 Esdras 7:1. 2 Esdras chapter 7. Excuse me. Start at 6.
+
 > <sup>[6](/bible/2-esdras/7#v6)</sup> There is also another thing; A city is builded, and set upon a broad field, and is full of all good things:
 >
 > <sup>[7](/bible/2-esdras/7#v7)</sup> The entrance thereof is narrow, and is set in a dangerous place to fall, like as if there were a fire on the right hand, and on the left a deep water:
 >
 > <sup>[8](/bible/2-esdras/7#v8)</sup> And one only path between them both, even between the fire and the water, so small that there could but one man go there at once.
->
-> <sup>[9](/bible/2-esdras/7#v9)</sup> If this city now were given unto a man for an inheritance, if he never shall pass the danger set before it, how shall he receive this inheritance?
->
-> <sup>[10](/bible/2-esdras/7#v10)</sup> And I said, It is so, Lord. Then said he unto me, Even so also is Israel’s portion.
->
-> <sup>[11](/bible/2-esdras/7#v11)</sup> Because for their sakes I made the world: and when Adam transgressed my statutes, then was decreed that now is done.
->
-> <sup>[12](/bible/2-esdras/7#v12)</sup> Then were the entrances of this world made narrow, full of sorrow and travail: they are but few and evil, full of perils and very painful.
-
-- Now go to 2 Esdras chapter 7, 11 real quick. We still talking about the kingdom and getting the kingdom. Christ said the kingdom is within you. Let me show you that. 2 Esdras 7:1. 2 Esdras chapter 7. Excuse me. Start at 6.
 
 - So small, that there could but one man go there at once: You hear that? So small there could be only one man go there at once. That's what he mean. The kingdom of heaven is within you. It's yours to lose. You the only one that can get you there. You going to overcome by the blood of the lamb, obviously, but you got to put in work. You got to keep the commandments. And it's only for you. Can't nobody else get you in. Your mama can't get you in. I can't get my wife and children in the kingdom. They got to put in work for themselves. Brothers got to put in work for themselves. None of us can get each other in the kingdom. That's impossible. We can't do that. Only thing you can do is give a brother the scriptures and encourage them to follow the scriptures. That's it. That's all you can do. Nothing other than that.
 
 - It's within us. It's ours to lose. If we decide that we don't want it because we don't want to put the bricks in, we don't want to have faith in the son of God, then it is what it is. But if you decide you want to do this and you love the Lord and you gonna keep the commandments, then it's yours. It's up for you. It's yours for the taking. That's what the Bible's talking about. And anybody that say otherwise kick rocks. Keep reading. Verse 9.
 
+> <sup>[9](/bible/2-esdras/7#v9)</sup> If this city now were given unto a man for an inheritance, if he never shall pass the danger set before it, how shall he receive this inheritance?
+
 - If he never shall pass the danger set before it, how shall he receive this inheritance: Right? If you don't go through something, that's what that's telling you. You got to go through something. It says, "If this city now were given unto a man for an inheritance, if he never shall pass the danger set before it, how shall he receive the inheritance?" Watch this verse 10.
+
+> <sup>[10](/bible/2-esdras/7#v10)</sup> And I said, It is so, Lord. Then said he unto me, Even so also is Israel’s portion.
 
 - Even so also is Israel's portion: Even so also is Israel's portion. Watch this. Go ahead.
 
+> <sup>[11](/bible/2-esdras/7#v11)</sup> Because for their sakes I made the world: and when Adam transgressed my statutes, then was decreed that now is done.
+
 - Because for their sakes I made the world: I made the world for them. Go ahead.
+
+> <sup>[12](/bible/2-esdras/7#v12)</sup> Then were the entrances of this world made narrow, full of sorrow and travail: they are but few and evil, full of perils and very painful.
 
 - Then were the entrances of this world made narrow: When Adam sinned, the entrances of this new world were made narrow. This everlasting kingdom, this heavenly kingdom, it became narrow. Now it was open. It was wide open for us. It was ours. The Lord said, "Uh-uh. Your forefather sin. Now you going to have to work for it." Then somebody come and say, "Well, you ain't got to work for it. Christ died, so you didn't have to work." No, no, no, no. That goes against what Christ said. Christ said it's within you. Meaning you got to put in bricks.
 
@@ -380,11 +380,9 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell", "prayer", "salvatio
 
 **[Matthew 7:13-14](/bible/matthew/7#v13)**  *[[50:45](https://www.youtube.com/watch?v=HVsnoBYO2Ek&t=3045s)]*
 
-> <sup>[13](/bible/matthew/7#v13)</sup> Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat:
->
-> <sup>[14](/bible/matthew/7#v14)</sup> Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.
-
 - Let's see if Christ said what Ezra said. Because maybe when Christ said the kingdom of heaven is within you, maybe he just meant, you know, it is what it is. You can't lose it. No, no, no, no.
+
+> <sup>[13](/bible/matthew/7#v13)</sup> Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat:
 
 - And many there be which go in thereat: And many there be which go in thereat. That's what we just read in 2 Esdras 7 when he said when Adam transgressed the way into this world became narrow, full of travail and sorrow, and he said he gave you straight commandments. S-T-R-A-I-T straight, not straight S-T-R-A-I-G-H-T. No, not that straight, meaning a straight path. No, this means strict. He gave you strict commandments so you can get through them gates because this world full of evil, full of travail, full of peril, full of trials, full of sin. And you got to get past all of that through this narrow gate. You got to go through this narrow gate, this small gate to get to the other side.
 
@@ -392,16 +390,14 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell", "prayer", "salvatio
 
 - And many there be which go in thereat (read again): Many there be which go in thereat. Many going to take that easy path, that path of least resistance. No resistance, just whatever. "I do whatever. Okay. I ain't got to push. I ain't got to keep no commandments. I ain't got to do nothing. I want the least resistance possible." Everybody want that. It's just at your job. I got people at my job right now, they want to sit on their ass and make a check. I got people at my job right now that just want to sit back and not do nothing and get a promotion. They had audacity to say, "Hey, why you overlook me for the promotion?" Uh, you mean the same person I got to constantly call to come to work? You mean the same person we always catching in the break room but not doing nothing? You mean the person that's on his last write up? One more write up and you done. You want a promotion? Oh, you want to be supervised? You want to be manager? You crazy. You crazy. That don't even work. That don't work nowhere. Even Warren Buffett said, "I ain't leaving none of my money to my kids. They wicked as hell." Come on, man. You got to put in some work. Watch this. Verse 14.
 
+> <sup>[14](/bible/matthew/7#v14)</sup> Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.
+
 - And few there be that find it: And only a few people going to find it. Watch this. Go to 2 Esdras 8 and 1. We done got away from Luke but we still in Luke. Listen what the Bible say.
 
 
 **[2 Esdras 8:1-3](/bible/2-esdras/8#v1)**  *[[53:44](https://www.youtube.com/watch?v=HVsnoBYO2Ek&t=3224s)]*
 
 > <sup>[1](/bible/2-esdras/8#v1)</sup> And he answered me, saying, The most High hath made this world for many, but the world to come for few.
->
-> <sup>[2](/bible/2-esdras/8#v2)</sup> I will tell thee a similitude, Esdras; As when thou askest the earth, it shall say unto thee, that it giveth much mould whereof earthen vessels are made, but little dust that gold cometh of: even so is the course of this present world.
->
-> <sup>[3](/bible/2-esdras/8#v3)</sup> There be many created, but few shall be saved.
 
 - The most High hath made this world for many: Whoa. He made this world for many. Go ahead.
 
@@ -409,9 +405,13 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell", "prayer", "salvatio
 
 - You could be a Sexyy Red just talking about coochie and shaking your booty and camel toe and STDs. Just talk about that. And look, you can be a star. You can be a former stripper star. You can brag about having STDs. Star. You can have a lipstick and lip gloss line with all debaucherous titles, star. But soon as you say, "We the children of Israel, we got to keep the commandments and we got to do what God say in the Bible." Oh, nope. Nope. Get him out of here. That's because the world's only made for a few people. This new world, this world to come. Read again. 2 Esdras 8:1.
 
+> <sup>[2](/bible/2-esdras/8#v2)</sup> I will tell thee a similitude, Esdras; As when thou askest the earth, it shall say unto thee, that it giveth much mould whereof earthen vessels are made, but little dust that gold cometh of: even so is the course of this present world.
+
 - I will tell thee a similitude, Esdras; As when thou askest the earth, it shall say unto thee, that it giveth much mould whereof earthen vessels are made, but little dust that gold cometh of: Now let's examine this. That mean dirt, clay. There's many dirt, a lot of dirt and clay. And that's what earthen vessels are made from. It says, "But little dust that gold cometh of." It said, "But only a little dust that gold cometh of." There's only a few types of minerals in the ground that gold can come of. It's only certain dust that you going to find the gold in. You understand? But you can find plenty of earth and plenty of clay to make any type of earthen vessels because it's plenty of that. But it ain't that much gold. Go ahead. Verse three.
 
 - Even so is the course of this present world: Just like you can find plenty of clay and plenty of dirt and plenty of mould to make many different vessels and you can't find that much gold dust for the gold. It said the same as this present world. Watch this.
+
+> <sup>[3](/bible/2-esdras/8#v3)</sup> There be many created, but few shall be saved.
 
 - There be many created, but few shall be saved: It's only a few going to be saved. It's many people created on this earth, but only a few going to be saved. And who is those few? That's the elect of the Israelites. And the Bible still says that's an innumerable multitude. You can't even number them. Damn. Go back to Luke 17. I had to just deal with that. What time is it? Okay. All right. Here we go. Let's finish out Luke to the best of our ability. Luke 17 and I want you to go verse 21 one more time.
 
@@ -419,16 +419,16 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell", "prayer", "salvatio
 **[Luke 17:21-24](/bible/luke/17#v21)**  *[[57:36](https://www.youtube.com/watch?v=HVsnoBYO2Ek&t=3456s)]*
 
 > <sup>[21](/bible/luke/17#v21)</sup> Neither shall they say, Lo here! or, lo there! for, behold, the kingdom of God is within you.
->
-> <sup>[22](/bible/luke/17#v22)</sup> And he said unto the disciples, The days will come, when ye shall desire to see one of the days of the Son of man, and ye shall not see it.
->
-> <sup>[23](/bible/luke/17#v23)</sup> And they shall say to you, See here; or, see there: go not after them, nor follow them.
->
-> <sup>[24](/bible/luke/17#v24)</sup> For as the lightning, that lighteneth out of the one part under heaven, shineth unto the other part under heaven; so shall also the Son of man be in his day.
 
 - For, behold, the kingdom of God is within you: Right? Neither shall they say lo here or lo there. For behold the kingdom of God is within you. The kingdom of God is within you. We just went over that. Go ahead.
 
+> <sup>[22](/bible/luke/17#v22)</sup> And he said unto the disciples, The days will come, when ye shall desire to see one of the days of the Son of man, and ye shall not see it.
+>
+> <sup>[23](/bible/luke/17#v23)</sup> And they shall say to you, See here; or, see there: go not after them, nor follow them.
+
 - And they shall say to you, See here; or, see there: go not after them, nor follow them: Right? It's going to come a day where they going to say, "Well, Christ is here, and Christ is there. Christ over here." No, no, no. Don't believe that. Don't believe that. Just like you got these movies, now they got holograms. You can make holograms and you can see all kind of different stuff. AI technology and stuff like that. Christ ain't in none of that. Christ ain't in none of that. The King of Kings, the Lord of Lords is going to be shown through the apostles, through the prophets in these last days teaching his word. And then he's going to literally crack that sky again. And everybody is going to see him. Everybody's going to see him. Go ahead.
+
+> <sup>[24](/bible/luke/17#v24)</sup> For as the lightning, that lighteneth out of the one part under heaven, shineth unto the other part under heaven; so shall also the Son of man be in his day.
 
 - For as the lightning, that lighteneth out of the one part under heaven, shineth unto the other part under heaven; so shall also the Son of man be in his day: That's how Christ going to move. He going to move like the lightning streaking across the sky. That's how fast he going to move. Cuz watch this. Isaiah 47 and 3. He ain't coming back as no regular man. You had your chance. You had your chance to put him on a cross. You had your chance to kill him. You had your chance to do all that. But when he come back, he not coming back as that same man that you pierced. Watch this. Go ahead.
 
@@ -442,33 +442,33 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell", "prayer", "salvatio
 **[Habakkuk 3:7-9](/bible/habakkuk/3#v7)**  *[[1:00:41](https://www.youtube.com/watch?v=HVsnoBYO2Ek&t=3641s)]*
 
 > <sup>[7](/bible/habakkuk/3#v7)</sup> I saw the tents of Cushan in affliction: and the curtains of the land of Midian did tremble.
->
-> <sup>[8](/bible/habakkuk/3#v8)</sup> Was the Lord displeased against the rivers? was thine anger against the rivers? was thy wrath against the sea, that thou didst ride upon thine horses and thy chariots of salvation?
->
-> <sup>[9](/bible/habakkuk/3#v9)</sup> Thy bow was made quite naked, according to the oaths of the tribes, even thy word. Selah. Thou didst cleave the earth with rivers.
 
 - I saw the tents of Cushan in affliction: and the curtains of the land of Midian did tremble: Mhm.
 
+> <sup>[8](/bible/habakkuk/3#v8)</sup> Was the Lord displeased against the rivers? was thine anger against the rivers? was thy wrath against the sea, that thou didst ride upon thine horses and thy chariots of salvation?
+
 - That thou didst ride upon thine horses and thy chariots of salvation: Mhm. Thy bow was made. Watch this. Skip up to verse three.
+
+> <sup>[9](/bible/habakkuk/3#v9)</sup> Thy bow was made quite naked, according to the oaths of the tribes, even thy word. Selah. Thou didst cleave the earth with rivers.
 
 
 **[Habakkuk 3:3-6](/bible/habakkuk/3#v3)**  *[[1:01:30](https://www.youtube.com/watch?v=HVsnoBYO2Ek&t=3690s)]*
 
 > <sup>[3](/bible/habakkuk/3#v3)</sup> God came from Teman, and the Holy One from mount Paran. Selah. His glory covered the heavens, and the earth was full of his praise.
->
-> <sup>[4](/bible/habakkuk/3#v4)</sup> And his brightness was as the light; he had horns coming out of his hand: and there was the hiding of his power.
->
-> <sup>[5](/bible/habakkuk/3#v5)</sup> Before him went the pestilence, and burning coals went forth at his feet.
->
-> <sup>[6](/bible/habakkuk/3#v6)</sup> He stood, and measured the earth: he beheld, and drove asunder the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways are everlasting.
 
 - His glory covered the heavens, and the earth was full of his praise: His glory covered the heavens and the earth was full of his praise. They go back to what we read in Luke 17:4. For as the lightning that lighteneth out of the one part under heaven shineth unto the other part under heaven, so shall also the son of man be in his day. In his day, in his day, meaning the day that he returned. And back in chapter 3:3, it says, "God came from Teman and the holy one from Mount Paran. Selah. His glory covered the heavens and his earth was full of his praise." Go ahead.
+
+> <sup>[4](/bible/habakkuk/3#v4)</sup> And his brightness was as the light; he had horns coming out of his hand: and there was the hiding of his power.
 
 - And his brightness was as the light: And his brightness was as the light. Go ahead.
 
 - He had horns coming out of his hand: and there was the hiding of his power: It say he had horns coming out of his hand, meaning beams, laser beams coming out of his hand and that was the hiding of his power. So when you watch Dragon Ball Z and you see them throwing spirit bombs and all this different stuff, opening their hands up, doing all that. They got that from the Bible. They got that from the holy scriptures. That's the Lord of heaven, the King of Kings, the Lord of Lords, the he of heaven and earth, Jesus the Christ, the black Messiah. It say he hid his power there. Meaning, watch that. Let me see where it say. Keep reading verse five.
 
+> <sup>[5](/bible/habakkuk/3#v5)</sup> Before him went the pestilence, and burning coals went forth at his feet.
+
 - And burning coals went forth at his feet: Every time he take a step the earth clave in under him. That's what it mean. The fire at his feet. When he take a step it burned up under him like an earthquake. Go ahead.
+
+> <sup>[6](/bible/habakkuk/3#v6)</sup> He stood, and measured the earth: he beheld, and drove asunder the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways are everlasting.
 
 - His ways are everlasting: His ways are everlasting. He been here from the beginning. That's what they're saying. His ways are everlasting. He been here from the beginning.
 
@@ -484,10 +484,10 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell", "prayer", "salvatio
 **[Matthew 26:14-15](/bible/matthew/26#v14)**  *[[1:05:13](https://www.youtube.com/watch?v=HVsnoBYO2Ek&t=3913s)]*
 
 > <sup>[14](/bible/matthew/26#v14)</sup> Then one of the twelve, called Judas Iscariot, went unto the chief priests,
->
-> <sup>[15](/bible/matthew/26#v15)</sup> And said unto them, What will ye give me, and I will deliver him unto you? And they covenanted with him for thirty pieces of silver.
 
 - Then one of the twelve, called Judas Iscariot: Say it again.
+
+> <sup>[15](/bible/matthew/26#v15)</sup> And said unto them, What will ye give me, and I will deliver him unto you? And they covenanted with him for thirty pieces of silver.
 
 - And they covenanted with him for thirty pieces of silver: And they covenanted with him for 30 pieces of silver. So Judas said, "Give me what? What will you give me, and I'll betray him." Skip down to verse 21.
 
@@ -507,34 +507,34 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell", "prayer", "salvatio
 **[Psalms 55:8-15](/bible/psalms/55#v8)**  *[[1:07:46](https://www.youtube.com/watch?v=HVsnoBYO2Ek&t=4066s)]*
 
 > <sup>[8](/bible/psalms/55#v8)</sup> I would hasten my escape from the windy storm and tempest.
->
-> <sup>[9](/bible/psalms/55#v9)</sup> Destroy, O Lord, and divide their tongues: for I have seen violence and strife in the city.
->
-> <sup>[10](/bible/psalms/55#v10)</sup> Day and night they go about it upon the walls thereof: mischief also and sorrow are in the midst of it.
->
-> <sup>[11](/bible/psalms/55#v11)</sup> Wickedness is in the midst thereof: deceit and guile depart not from her streets.
->
-> <sup>[12](/bible/psalms/55#v12)</sup> For it was not an enemy that reproached me; then I could have borne it: neither was it he that hated me that did magnify himself against me; then I would have hid myself from him:
->
-> <sup>[13](/bible/psalms/55#v13)</sup> But it was thou, a man mine equal, my guide, and mine acquaintance.
->
-> <sup>[14](/bible/psalms/55#v14)</sup> We took sweet counsel together, and walked unto the house of God in company.
->
-> <sup>[15](/bible/psalms/55#v15)</sup> Let death seize upon them, and let them go down quick into hell: for wickedness is in their dwellings, and among them.
 
 - I would hasten my escape from the windy storm and tempest: Mhm.
 
+> <sup>[9](/bible/psalms/55#v9)</sup> Destroy, O Lord, and divide their tongues: for I have seen violence and strife in the city.
+
 - Destroy, O Lord, and divide their tongues: for I have seen violence and strife in the city: Wait a minute. What the King David pray for? Destroy, O Lord, and divide their tongues. For I have seen violence and strife in the city. Mhm.
 
+> <sup>[10](/bible/psalms/55#v10)</sup> Day and night they go about it upon the walls thereof: mischief also and sorrow are in the midst of it.
+
 - Mischief also and sorrow are in the midst of it: He talking about the city. Mischief and sorrow in the city. Go ahead. Read. Watch this.
+
+> <sup>[11](/bible/psalms/55#v11)</sup> Wickedness is in the midst thereof: deceit and guile depart not from her streets.
+>
+> <sup>[12](/bible/psalms/55#v12)</sup> For it was not an enemy that reproached me; then I could have borne it: neither was it he that hated me that did magnify himself against me; then I would have hid myself from him:
 
 - For it was not an enemy that reproached me; then I could have borne it: It wasn't my enemies. It wasn't the other nations that reproach me. Go ahead. Cuz then I could have understood it because the nations is our enemies. They're our natural born enemies. So maybe, okay, I can understand the nations doing that. Go ahead.
 
 - Neither was it he that hated me that did magnify himself against me: Neither was it he that hated me. Go ahead. Read. Watch this.
 
+> <sup>[13](/bible/psalms/55#v13)</sup> But it was thou, a man mine equal, my guide, and mine acquaintance.
+
 - But it was thou, a man mine equal, my guide, and mine acquaintance: You hear that? That's another Israelite. That's another Israelite. He said if it was the other nations then I can understand because they hate us anyway. But this one that did this evil to me, this was another Israelite. This was my familiar friend, my equal, my guide, and my acquaintance. Go ahead.
 
+> <sup>[14](/bible/psalms/55#v14)</sup> We took sweet counsel together, and walked unto the house of God in company.
+
 - We took sweet counsel together, and walked unto the house of God in company: We used to go to church together. We used to learn the Bible together. Go ahead.
+
+> <sup>[15](/bible/psalms/55#v15)</sup> Let death seize upon them, and let them go down quick into hell: for wickedness is in their dwellings, and among them.
 
 - Let death seize upon them: What the Bible say? Let death seize upon them. "You know, that's wrong to pray for that. That's wrong to pray for that." Read again. Let death seize upon them. Read.
 
@@ -550,18 +550,18 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell", "prayer", "salvatio
 **[Luke 17:25-29](/bible/luke/17#v25)**  *[[1:11:54](https://www.youtube.com/watch?v=HVsnoBYO2Ek&t=4314s)]*
 
 > <sup>[25](/bible/luke/17#v25)</sup> But first must he suffer many things, and be rejected of this generation.
->
-> <sup>[26](/bible/luke/17#v26)</sup> And as it was in the days of Noe, so shall it be also in the days of the Son of man.
->
-> <sup>[27](/bible/luke/17#v27)</sup> They did eat, they drank, they married wives, they were given in marriage, until the day that Noe entered into the ark, and the flood came, and destroyed them all.
->
-> <sup>[28](/bible/luke/17#v28)</sup> Likewise also as it was in the days of Lot; they did eat, they drank, they bought, they sold, they planted, they builded;
->
-> <sup>[29](/bible/luke/17#v29)</sup> But the same day that Lot went out of Sodom it rained fire and brimstone from heaven, and destroyed them all.
 
 - But first must he suffer many things, and be rejected of this generation: Mhm.
 
+> <sup>[26](/bible/luke/17#v26)</sup> And as it was in the days of Noe, so shall it be also in the days of the Son of man.
+>
+> <sup>[27](/bible/luke/17#v27)</sup> They did eat, they drank, they married wives, they were given in marriage, until the day that Noe entered into the ark, and the flood came, and destroyed them all.
+
 - They did eat, they drank, they married wives, they were given in marriage, until the day that Noe entered into the ark, and the flood came, and destroyed them all: Hey, that show you that in Genesis chapter 6, there was no damn Nephilims. That was talking about man. It was man that was doing that. Not no Nephilims marrying man. Not no fallen angels marrying women. No, that's talking about man and woman getting married. For the dumb dums out there, they run with that rhetoric. The sons of God in that context was the lineage of Adam through Seth. Those were the sons of God and they were marrying the daughters of men. Go ahead, verse 28.
+
+> <sup>[28](/bible/luke/17#v28)</sup> Likewise also as it was in the days of Lot; they did eat, they drank, they bought, they sold, they planted, they builded;
+>
+> <sup>[29](/bible/luke/17#v29)</sup> But the same day that Lot went out of Sodom it rained fire and brimstone from heaven, and destroyed them all.
 
 - But the same day that Lot went out of Sodom it rained fire and brimstone from heaven, and destroyed them all: The Lord said, "It's going to be the same way." Watch this. 2 Peter 3:10. The Lord said just like during the time of Sodom and Gomorrah when everybody was buying and selling and drinking and fornicating and committing idolatry and adultery and transgenderism was played plain as day and men were dressing like women and men with men and women with women, that was going on during Sodom. It wasn't just sexual immorality in the sense of just fornication, man and woman. No, it was man and man, woman and woman. Remember the men wanted to sleep with the angels. So it's much evil going on. Watch this.
 
@@ -581,9 +581,13 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell", "prayer", "salvatio
 > <sup>[31](/bible/luke/17#v31)</sup> In that day, he which shall be upon the housetop, and his stuff in the house, let him not come down to take it away: and he that is in the field, let him likewise not return back.
 >
 > <sup>[32](/bible/luke/17#v32)</sup> Remember Lot’s wife.
->
+
+- Remember Lot's wife: Remember Lot's wife, meaning don't look back. Don't get so attached to anything in this earth that will cause you to fall away from God. That's not your wife, not your children, not your possessions, your house, your clothes, your money, your job. Don't get so attached to nothing in this world that when Christ bringing destruction, you say, "But Lord, what about..." No, you ain't fit for the kingdom. Remember Lot's wife. Go ahead.
+
 > <sup>[33](/bible/luke/17#v33)</sup> Whosoever shall seek to save his life shall lose it; and whosoever shall lose his life shall preserve it.
->
+
+- Whosoever shall lose his life shall preserve it: Right? Whosoever lose his life shall preserve it. Meaning what? You kill that old man, you willing to die for the Lord and not for this world. You going to gain your life. You going to preserve your life. Go ahead.
+
 > <sup>[34](/bible/luke/17#v34)</sup> I tell you, in that night there shall be two men in one bed; the one shall be taken, and the other shall be left.
 >
 > <sup>[35](/bible/luke/17#v35)</sup> Two women shall be grinding together; the one shall be taken, and the other left.
@@ -591,10 +595,6 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell", "prayer", "salvatio
 > <sup>[36](/bible/luke/17#v36)</sup> Two men shall be in the field; the one shall be taken, and the other left.
 >
 > <sup>[37](/bible/luke/17#v37)</sup> And they answered and said unto him, Where, Lord? And he said unto them, Wheresoever the body is, thither will the eagles be gathered together.
-
-- Remember Lot's wife: Remember Lot's wife, meaning don't look back. Don't get so attached to anything in this earth that will cause you to fall away from God. That's not your wife, not your children, not your possessions, your house, your clothes, your money, your job. Don't get so attached to nothing in this world that when Christ bringing destruction, you say, "But Lord, what about..." No, you ain't fit for the kingdom. Remember Lot's wife. Go ahead.
-
-- Whosoever shall lose his life shall preserve it: Right? Whosoever lose his life shall preserve it. Meaning what? You kill that old man, you willing to die for the Lord and not for this world. You going to gain your life. You going to preserve your life. Go ahead.
 
 - Wheresoever the body is, thither will the eagles be gathered together: Right? Let me deal with that one taken and one left and then let me deal with the eagle real quick. Go to 2 Esdras chapter 13. And I want you to read verse 22 and 23. Start at 21.
 
@@ -604,12 +604,12 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell", "prayer", "salvatio
 > <sup>[21](/bible/2-esdras/13#v21)</sup> The interpretation of the vision shall I shew thee, and I will open unto thee the thing that thou hast required.
 >
 > <sup>[22](/bible/2-esdras/13#v22)</sup> Whereas thou hast spoken of them that are left behind, this is the interpretation:
->
+
+- Whereas thou hast spoken of them that are left behind, this is the interpretation: So you going to deal with those that are left behind. Hear the interpretation. Go ahead.
+
 > <sup>[23](/bible/2-esdras/13#v23)</sup> He that shall endure the peril in that time hath kept himself: they that be fallen into danger are such as have works, and faith toward the Almighty.
 >
 > <sup>[24](/bible/2-esdras/13#v24)</sup> Know this therefore, that they which be left behind are more blessed than they that be dead.
-
-- Whereas thou hast spoken of them that are left behind, this is the interpretation: So you going to deal with those that are left behind. Hear the interpretation. Go ahead.
 
 - They which be left behind are more blessed than they that be dead: And they that be what? Dead. So what it mean to be taken? Meaning dead. That's what it mean to be taken. Destroyed. But to be left behind is to be preserved. That's what Christ was saying. You will be preserved. But the two thirds, they gonna get it. Zechariah chapter 13 and 8.
 

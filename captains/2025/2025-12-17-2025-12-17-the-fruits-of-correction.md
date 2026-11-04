@@ -2,7 +2,7 @@
 title: "The Fruits Of Correction"
 slug: "2025/2025-12-17-the-fruits-of-correction"
 date: "2025-12-17"
-teacher: "Captain Yahoshua"
+teacher: "Captain Yehoshua"
 description: "15 Minutes w/ The Captains · 2025-12-17"
 tags: ["15 Minutes w/ The Captains", "angels", "discipline", "sabbath", "the-law", "the-word"]
 ---
@@ -17,21 +17,21 @@ tags: ["15 Minutes w/ The Captains", "angels", "discipline", "sabbath", "the-law
 
 ## Introduction
 
-*[[0:01](https://www.youtube.com/watch?v=X4XZbXWL7w0&t=1s)]* Hey, shalom Israel. Most High in Christ bless. This is Captain Yahoshua with another episode of 15 minutes with the captains. That's right. Now, today's lesson is entitled the fruit of correction. And what we're going to do is we're going to draw some parallels between how we wanted our land to be fruitful before we got kicked out, but how now we want our spirits to be fruitful.
+*[[0:01](https://www.youtube.com/watch?v=X4XZbXWL7w0&t=1s)]* Hey, shalom Israel. Most High in Christ bless. This is Captain Yehoshua with another episode of 15 minutes with the captains. That's right. Now, today's lesson is entitled the fruit of correction. And what we're going to do is we're going to draw some parallels between how we wanted our land to be fruitful before we got kicked out, but how now we want our spirits to be fruitful.
 
 ## Scriptures Opened
 
 **[Leviticus 25:18-19](/bible/leviticus/25#v18)**  *[[0:36](https://www.youtube.com/watch?v=X4XZbXWL7w0&t=36s)]*
 
 > <sup>[18](/bible/leviticus/25#v18)</sup> Wherefore ye shall do my statutes, and keep my judgments, and do them; and ye shall dwell in the land in safety.
->
-> <sup>[19](/bible/leviticus/25#v19)</sup> And the land shall yield her fruit, and ye shall eat your fill, and dwell therein in safety.
 
 - Wherefore ye shall do my statutes: so the Lord said we must do his statutes.
 
 - and keep my judgments, and do them: and keep his judgments, and do them.
 
 - and ye shall dwell in the land in safety: so that was our key to dwelling or living in our own land in safety. But we didn't do the statutes. We didn't do the judgments. And what happened? We got kicked out.
+
+> <sup>[19](/bible/leviticus/25#v19)</sup> And the land shall yield her fruit, and ye shall eat your fill, and dwell therein in safety.
 
 - And the land shall yield her fruit: so if we kept those commandments, those statutes, those judgments, then the land would have been fruitful, right?
 
@@ -41,14 +41,14 @@ tags: ["15 Minutes w/ The Captains", "angels", "discipline", "sabbath", "the-law
 **[Leviticus 25:2-3](/bible/leviticus/25#v2)**  *[[1:40](https://www.youtube.com/watch?v=X4XZbXWL7w0&t=100s)]*
 
 > <sup>[2](/bible/leviticus/25#v2)</sup> Speak unto the children of Israel, and say unto them, When ye come into the land which I give you, then shall the land keep a sabbath unto the Lord.
->
-> <sup>[3](/bible/leviticus/25#v3)</sup> Six years thou shalt sow thy field, and six years thou shalt prune thy vineyard, and gather in the fruit thereof;
 
 - Speak unto the children of Israel: so these are the instructions that the Lord told Moses to give to us, the children of Israel, so-called blacks, Hispanics, natives here in America and scattered to the four corners of the earth. That's right.
 
 - When ye come into the land which I give you: so this was to prepare us before we went into the land, so we didn't get caught off guard. Before we went in the land, Moses said, All right, do this, do that, don't do this, don't do that, and you're going to be good.
 
 - then shall the land keep a sabbath unto the Lord: so the land had to keep a Sabbath. That's part of the land being fruitful. The land had to keep a Sabbath.
+
+> <sup>[3](/bible/leviticus/25#v3)</sup> Six years thou shalt sow thy field, and six years thou shalt prune thy vineyard, and gather in the fruit thereof;
 
 - Six years thou shalt sow thy field: so one of the things that we had to do, for 6 years we had to sow continuously.
 
@@ -143,7 +143,7 @@ tags: ["15 Minutes w/ The Captains", "angels", "discipline", "sabbath", "the-law
 
 ## In Closing
 
-*[[17:21](https://www.youtube.com/watch?v=X4XZbXWL7w0&t=1041s)]* So brothers and sisters, don't be emotional when correction come, cuz correction is going to separate the wheat from the tares. I'm Captain Yahoshua. Subscribe to IUIC Virginia in the classroom, and make sure you download IUIC TV. Until next time, shalom. Most High Christ bless you all.
+*[[17:21](https://www.youtube.com/watch?v=X4XZbXWL7w0&t=1041s)]* So brothers and sisters, don't be emotional when correction come, cuz correction is going to separate the wheat from the tares. I'm Captain Yehoshua. Subscribe to IUIC Virginia in the classroom, and make sure you download IUIC TV. Until next time, shalom. Most High Christ bless you all.
 
 ---
 

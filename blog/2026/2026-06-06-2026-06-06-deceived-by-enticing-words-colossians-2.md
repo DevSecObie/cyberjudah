@@ -2,7 +2,7 @@
 title: "DECEIVED BY ENTICING WORDS: COLOSSIANS 2"
 slug: "2026/2026-06-06-deceived-by-enticing-words-colossians-2"
 date: "2026-06-06"
-teacher: ""
+teacher: "Bishop Nathanyel"
 description: "IUIC in the ClassRoom · 2026-06-06"
 tags: ["IUIC in the ClassRoom", "christ", "deceit", "false-religion", "purpose", "wisdom"]
 ---
@@ -68,6 +68,10 @@ Books read to open the class:
 
 **[Colossians 1:24-29](/bible/colossians/1#v24)**  *[[37:22](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=2242s)]*
 
+- Paul caught a lot of afflictions for getting this gospel out: who now rejoice in my sufferings for you, for his body's sake, which is the church.
+
+- Even the mystery which hath been hid from ages and from generations, but now is made manifest to his saints. A lot of times when you pull up these key words, it will shut Christians down.
+
 > <sup>[24](/bible/colossians/1#v24)</sup> Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body’s sake, which is the church:
 >
 > <sup>[25](/bible/colossians/1#v25)</sup> Whereof I am made a minister, according to the dispensation of God which is given to me for you, to fulfil the word of God;
@@ -75,14 +79,11 @@ Books read to open the class:
 > <sup>[26](/bible/colossians/1#v26)</sup> Even the mystery which hath been hid from ages and from generations, but now is made manifest to his saints:
 >
 > <sup>[27](/bible/colossians/1#v27)</sup> To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:
->
-> <sup>[28](/bible/colossians/1#v28)</sup> Whom we preach, warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus:
->
-> <sup>[29](/bible/colossians/1#v29)</sup> Whereunto I also labour, striving according to his working, which worketh in me mightily.
 
-- Paul caught a lot of afflictions for getting this gospel out: who now rejoice in my sufferings for you, for his body's sake, which is the church.
-- Even the mystery which hath been hid from ages and from generations, but now is made manifest to his saints. A lot of times when you pull up these key words, it will shut Christians down.
 - To whom God would make known what is the riches of the glory of this mystery among the Gentiles: now you get to that word Gentiles and they think they have got you. No. These Gentiles are the outcasts of Israel and the dispersed of Judah.
+
+> <sup>[28](/bible/colossians/1#v28)</sup> Whom we preach, warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus:
+
 - Whom we preach, warning every man, and teaching every man in all wisdom, that we may present every man perfect in Christ Jesus: every man of the children of Israel. That is what Paul was laboring for; that is why he was getting afflicted.
 
   Precepts:
@@ -116,6 +117,8 @@ Books read to open the class:
     > <sup>[18](/bible/leviticus/19#v18)</sup> Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord.
 
     Thou shalt not hate thy brother in thine heart; thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself. Love your neighbor as you love yourself, which are the children of your people: that is the children of your race. You have never been taught that in church. We will love any other race before we love each other.
+
+> <sup>[29](/bible/colossians/1#v29)</sup> Whereunto I also labour, striving according to his working, which worketh in me mightily.
 
 **[Colossians 2:3](/bible/colossians/2#v3)**  *[[45:48](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=2748s)]*
 
@@ -241,10 +244,11 @@ Books read to open the class:
 **[Colossians 2:6-7](/bible/colossians/2#v6)**  *[[1:32:30](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=5550s)]*
 
 > <sup>[6](/bible/colossians/2#v6)</sup> As ye have therefore received Christ Jesus the Lord, so walk ye in him:
->
-> <sup>[7](/bible/colossians/2#v7)</sup> Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving.
 
 - As ye have therefore received Christ Jesus the Lord, so walk ye in him: rooted and built up in him, established in the faith, as ye have been taught. We must be rooted in Christ. In order to be rooted, you have to be studying, and if you are studying, you better be applying, because you will be tested.
+
+> <sup>[7](/bible/colossians/2#v7)</sup> Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving.
+
 - As ye have been taught: some of the leadership from the old school went off, and the doctrine became that everything they taught was wrong, so throw it away and go back to Christianity. Did King Solomon go off? Do we rip out the book of Proverbs? Did King David go off? Do we rip out the book of Psalms? Men make mistakes, men do fall, but when they were in their prime they were teaching properly. You do not throw the baby away with the bath water.
 
   Precepts:
@@ -350,10 +354,9 @@ Books read to open the class:
 **[Colossians 2:13-14](/bible/colossians/2#v13)**  *[[1:59:48](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=7188s)]*
 
 > <sup>[13](/bible/colossians/2#v13)</sup> And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses;
->
-> <sup>[14](/bible/colossians/2#v14)</sup> Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross;
 
 - And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him: quickened means changed, transformed. Having forgiven you all trespasses: when we come into this truth, everything we have done is forgiven. A new slate.
+
 - Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross. The subject has not changed: they were beguiling Israel to go back to animal sacrifice, and they did not understand that animal sacrifice was a symbol of what Christ would do for us.
 
   Precepts:
@@ -401,6 +404,8 @@ Books read to open the class:
     > <sup>[39](/bible/acts/13#v39)</sup> And by him all that believe are justified from all things, from which ye could not be justified by the law of Moses.
 
     Through this man is preached unto you the forgiveness of sins: and by him all that believe are justified from all things, from which ye could not be justified by the law of Moses. There were sins that had no sacrifice under Moses, like witchcraft: the penalty was death. But under Christ, all that believe are justified from all things.
+
+> <sup>[14](/bible/colossians/2#v14)</sup> Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross;
 
 **[Colossians 2:15](/bible/colossians/2#v15)**  *[[2:11:06](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=7866s)]*
 
@@ -501,12 +506,15 @@ Books read to open the class:
 **[Colossians 2:18-19](/bible/colossians/2#v18)**  *[[2:29:08](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=8948s)]*
 
 > <sup>[18](/bible/colossians/2#v18)</sup> Let no man beguile you of your reward in a voluntary humility and worshipping of angels, intruding into those things which he hath not seen, vainly puffed up by his fleshly mind,
->
-> <sup>[19](/bible/colossians/2#v19)</sup> And not holding the Head, from which all the body by joints and bands having nourishment ministered, and knit together, increaseth with the increase of God.
 
 - Let no man beguile you of your reward in a voluntary humility and worshipping of angels: this goes back to verses 4 and 8; he is not changing the subject. The worshipping of angels is the worshipping of men, humbling yourself to men that speak so well, with the enticing words and the wisdom of this world we read about earlier.
+
+> <sup>[19](/bible/colossians/2#v19)</sup> And not holding the Head, from which all the body by joints and bands having nourishment ministered, and knit together, increaseth with the increase of God.
+
 - Intruding into those things which he hath not seen, vainly puffed up by his fleshly mind, and not holding the Head: not holding Christ as the head. They were putting Moses over Christ, animal sacrifice over the sacrifice of Christ.
+
 - From which all the body by joints and bands having nourishment ministered: we are the body of Christ; we get our nourishment through Christ. And knit together: honoring one another, preferring one another. Increaseth with the increase of God: one man plants, another waters, but God gives the increase.
+
 - How do you go about not being beguiled? If you study, you do not willingly give yourself over to men that will deceive you by handling the word of God deceitfully. Study to shew thyself approved, that you will be able to withstand these men.
 
   Precepts:

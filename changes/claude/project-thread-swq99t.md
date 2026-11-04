@@ -1,0 +1,4 @@
+- 15 Minutes w/ The Captains: Obie's answers from the Captain Name Check page (2026-11-02), data only.
+  - Captain Matthew and Captain Matt are different men: 22 episodes whose thumbnail or lower third says "Captain Matthew" now say Captain Matthew (including the 5 that #782 set to Captain Matt).
+  - 2026-06-01 Social Media is Captain Tobias; 2026-01-09 What Did Christ Fulfill? is Captain Nahshon; 2026-10-21 PRIDE is Captain Neariah; 2026-10-26 How To Prove Part 1 is Captain Yadayah; 2020-08-06 Centurion Contradiction is Deacon Isaac.
+  - Spellings follow his thumbnails: Captain Yehoshua (was Yahoshua) and Captain Immanuel (was Emmanuel) in every note and data file (two precept passes follow in their own PRs, as CI requires); names.tsv now lists Immanuel first.

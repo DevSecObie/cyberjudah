@@ -163,23 +163,24 @@ Reading from an on-screen definition of replacement theology  *[[41:58](https://
 
 **[Jeremiah 31:31-37](/bible/jeremiah/31#v31)**  *[[44:18](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=2658s)]*
 
+- Behold, the days come that I will make a new covenant with the house of Israel and with the house of Judah: cuz there was a split; that's why he separates us like that. Not according to the covenant that I made with their fathers: that was the old covenant, animal sacrifice. Because the 12 tribes, we're the bride; God is the husband.
+
 > <sup>[31](/bible/jeremiah/31#v31)</sup> Behold, the days come, saith the Lord, that I will make a new covenant with the house of Israel, and with the house of Judah:
 >
 > <sup>[32](/bible/jeremiah/31#v32)</sup> Not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which my covenant they brake, although I was an husband unto them, saith the Lord:
 >
 > <sup>[33](/bible/jeremiah/31#v33)</sup> But this shall be the covenant that I will make with the house of Israel; After those days, saith the Lord, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people.
->
+
+- I will put my law in their inward parts, and write it in their hearts: this is the kingdom it's talking about. So this is the answer to replacement theology. This is the answer to supersessionism.
+
 > <sup>[34](/bible/jeremiah/31#v34)</sup> And they shall teach no more every man his neighbour, and every man his brother, saying, Know the Lord: for they shall all know me, from the least of them unto the greatest of them, saith the Lord: for I will forgive their iniquity, and I will remember their sin no more.
 >
 > <sup>[35](/bible/jeremiah/31#v35)</sup> Thus saith the Lord, which giveth the sun for a light by day, and the ordinances of the moon and of the stars for a light by night, which divideth the sea when the waves thereof roar; The Lord of hosts is his name:
 >
 > <sup>[36](/bible/jeremiah/31#v36)</sup> If those ordinances depart from before me, saith the Lord, then the seed of Israel also shall cease from being a nation before me for ever.
->
-> <sup>[37](/bible/jeremiah/31#v37)</sup> Thus saith the Lord; If heaven above can be measured, and the foundations of the earth searched out beneath, I will also cast off all the seed of Israel for all that they have done, saith the Lord.
 
-- Behold, the days come that I will make a new covenant with the house of Israel and with the house of Judah: cuz there was a split; that's why he separates us like that. Not according to the covenant that I made with their fathers: that was the old covenant, animal sacrifice. Because the 12 tribes, we're the bride; God is the husband.
-- I will put my law in their inward parts, and write it in their hearts: this is the kingdom it's talking about. So this is the answer to replacement theology. This is the answer to supersessionism.
 - If those ordinances depart from before me: the ordinance of the sun, the moon, and the stars. If you can destroy them, then the seed of Israel also shall cease from being a nation before me for ever. So what does that prove? That the 12 tribes of Israel are still here to this day. Even during the time of Paul, the 12 tribes of Israel was there. But Christians cannot point them out in the New Testament. They go, oh no, nobody knows where they're at, they're lost. Why? Because of that replacement theology. Everything is quote unquote the church. No. Stop. It's all a lie.
+
 - If heaven above can be measured, and the foundations of the earth searched out beneath, I will also cast off all the seed of Israel. Nobody can measure heaven or search out all the places of the earth. So this is where Paul was getting it from.
 
   Precepts:
@@ -197,27 +198,32 @@ Reading from an on-screen definition of replacement theology  *[[41:58](https://
 
     Bring the books: the books meaning the books of Isaiah, the books of Jeremiah, the books of Micah. It's not talking about books about how to braid your hair. But especially the parchments: parchments are writing papers. So he would read the Old Testament books and base his epistles on those writings.
 
+> <sup>[37](/bible/jeremiah/31#v37)</sup> Thus saith the Lord; If heaven above can be measured, and the foundations of the earth searched out beneath, I will also cast off all the seed of Israel for all that they have done, saith the Lord.
+
 **[Jeremiah 33:24-26](/bible/jeremiah/33#v24)**  *[[50:14](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=3014s)]*
+
+- The two families is Judah and Israel. He hath even cast them off: that was the thought; that's why it got a question mark there. Thus they have despised my people: because the doctrine started to come up even back then. God has destroyed the two kingdoms, God has destroyed the 12 tribes of Israel. This supersessionism, replacement theology.
 
 > <sup>[24](/bible/jeremiah/33#v24)</sup> Considerest thou not what this people have spoken, saying, The two families which the Lord hath chosen, he hath even cast them off? thus they have despised my people, that they should be no more a nation before them.
 >
 > <sup>[25](/bible/jeremiah/33#v25)</sup> Thus saith the Lord; If my covenant be not with day and night, and if I have not appointed the ordinances of heaven and earth;
->
+
+- If my covenant be not with day and night: because day and night is still here, the ordinances of heaven and earth is still here. Then and only then will I cast away the seed of Jacob, and David my servant, so that I will not take any of his seed to be rulers over the seed of Abraham, Isaac, and Jacob. You know who comes out of that seed? Christ. So then there'd be no need for Christ. But there was a need; Christ did come, which means the 12 tribes are still here today.
+
 > <sup>[26](/bible/jeremiah/33#v26)</sup> Then will I cast away the seed of Jacob, and David my servant, so that I will not take any of his seed to be rulers over the seed of Abraham, Isaac, and Jacob: for I will cause their captivity to return, and have mercy on them.
 
-- The two families is Judah and Israel. He hath even cast them off: that was the thought; that's why it got a question mark there. Thus they have despised my people: because the doctrine started to come up even back then. God has destroyed the two kingdoms, God has destroyed the 12 tribes of Israel. This supersessionism, replacement theology.
-- If my covenant be not with day and night: because day and night is still here, the ordinances of heaven and earth is still here. Then and only then will I cast away the seed of Jacob, and David my servant, so that I will not take any of his seed to be rulers over the seed of Abraham, Isaac, and Jacob. You know who comes out of that seed? Christ. So then there'd be no need for Christ. But there was a need; Christ did come, which means the 12 tribes are still here today.
 - For I will cause their captivity to return: meaning he's going to bring us back to the land out of this misery we in. The way it sounds like he's going to put us back in slavery; that's not what he's saying. Return where? To our homeland, and have mercy. He's just calling us the captivity, not that he's going to put us back in the captivity.
 
 **[Romans 8:29-30](/bible/romans/8#v29)**  *[[50:14](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=3014s)]*
 
-> <sup>[29](/bible/romans/8#v29)</sup> For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren.
->
-> <sup>[30](/bible/romans/8#v30)</sup> Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.
-
 - Now Paul could have easily said Judah and Israel like he said in the book of Hebrews, like he said in Romans 9, but in many of his epistles he uses other words for the 12 tribes.
+
+> <sup>[29](/bible/romans/8#v29)</sup> For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren.
+
 - For whom he did foreknow: foreknow mean knew from the past. Who did God know from the past? Everybody? The church? No. And you got to stress that, especially on the street. They're so brainwashed with supersessionism, replacement theology: foreknow means everybody in the church. No. No. No.
+
 - He also did predestinate: and they love to say there's no such thing in the Bible as predestination. Yes, there is. For the 12 tribes of Israel, there is. We were his people in the past, we going to be his people today and forevermore. We are predestined to be his chosen forever. Now, whether we as individuals make it or not, that's up to each individual in here.
+
 - To be conformed to the image of his Son: he's going to transform us, the 12 tribes, into the image of his Son Christ, that he might be the firstborn among many brethren.
 
   Precepts:
@@ -236,26 +242,28 @@ Reading from an on-screen definition of replacement theology  *[[41:58](https://
 
     Hearken unto me, O Jacob and Israel, my called. So he's not calling all nations on the planet Earth. He's only calling Israel. He's not calling Catholics, Jehovah's Witnesses, Baptists. All that goes back to replacement theology, which came about through the Catholic church, then the Protestant church that many of us grew up in, that teach the same thing.
 
+> <sup>[30](/bible/romans/8#v30)</sup> Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.
+
 **[Ephesians 1:1-7](/bible/ephesians/1#v1)**  *[[54:17](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=3257s)]*
+
+- When they try to hem you up with Ephesians 2, before you get to Ephesians 2, we got to deal with Ephesians 1 and 1. Who are the saints that he's addressing? One brother here got hemmed up in Ephesians 2; he better not ever let that happen again. The Chinese lady was dancing for joy in the name of White Jesus.
 
 > <sup>[1](/bible/ephesians/1#v1)</sup> Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:
 >
 > <sup>[2](/bible/ephesians/1#v2)</sup> Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ.
 >
 > <sup>[3](/bible/ephesians/1#v3)</sup> Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:
->
-> <sup>[4](/bible/ephesians/1#v4)</sup> According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:
->
-> <sup>[5](/bible/ephesians/1#v5)</sup> Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,
->
-> <sup>[6](/bible/ephesians/1#v6)</sup> To the praise of the glory of his grace, wherein he hath made us accepted in the beloved.
->
-> <sup>[7](/bible/ephesians/1#v7)</sup> In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;
 
-- When they try to hem you up with Ephesians 2, before you get to Ephesians 2, we got to deal with Ephesians 1 and 1. Who are the saints that he's addressing? One brother here got hemmed up in Ephesians 2; he better not ever let that happen again. The Chinese lady was dancing for joy in the name of White Jesus.
 - Who hath blessed us with all spiritual blessings in heavenly places in Christ: that's some heavy stuff. We could spend a whole class on that.
+
+> <sup>[4](/bible/ephesians/1#v4)</sup> According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:
+
 - According as he hath chosen us in him before the foundation of the world: that's predestination. He chose us before the earth was made.
+
 - That we should be holy: that's difficult for blacks and Latinos. We are the most ratchet race on the planet, if you think about it. I know that might hurt some of y'all feelings. So when a white man be talking about us, I don't get mad; I sit back and chuckle, because when they put the videos up of the Carnival cruise line, who's fighting on the boats? Who's on cop cars twerking? Black man open a restaurant, here come the black woman, she got to twerk in the restaurant. And when the brother says, can you get off the furniture, me and my wife did not open this for y'all to do this, they had that brother shut down. You don't like our ratchetness? We go. We got hood tendencies.
+
+> <sup>[5](/bible/ephesians/1#v5)</sup> Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,
+
 - Having predestinated us: there it go again, before the foundation of the world. Unto the adoption of children by Jesus Christ to himself. In whom we, the saints, have redemption through his blood, the forgiveness of sins, according to the riches of his grace.
 
   Precepts:
@@ -271,6 +279,10 @@ Reading from an on-screen definition of replacement theology  *[[41:58](https://
     > <sup>[12](/bible/romans/7#v12)</sup> Wherefore the law is holy, and the commandment holy, and just, and good.
 
     The law is holy, and the commandment holy, and just, and good. In order for us to be the holy people that God destines us to be, we must study the law, we must apply the law. And no, we're not talking about animal sacrifice, cuz Christians get stupid. We're talking about laws of morality, laws of civility, laws of ceremony, laws of diet. That's what's holy.
+
+> <sup>[6](/bible/ephesians/1#v6)</sup> To the praise of the glory of his grace, wherein he hath made us accepted in the beloved.
+>
+> <sup>[7](/bible/ephesians/1#v7)</sup> In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;
 
 **[Romans 11:1-6, 26](/bible/romans/11#v1)**  *[[1:02:44](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=3764s)]*
 
@@ -297,7 +309,9 @@ Reading from an on-screen definition of replacement theology  *[[41:58](https://
 **[Amos 6:1-8](/bible/amos/6#v1)**  *[[1:06:50](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=4010s)]*
 
 > <sup>[1](/bible/amos/6#v1)</sup> Woe to them that are at ease in Zion, and trust in the mountain of Samaria, which are named chief of the nations, to whom the house of Israel came!
->
+
+- Woe to them that are at ease in Zion: that's the southern kingdom. And trust in the mountain of Samaria: that's the northern kingdom.
+
 > <sup>[2](/bible/amos/6#v2)</sup> Pass ye unto Calneh, and see; and from thence go ye to Hamath the great: then go down to Gath of the Philistines: be they better than these kingdoms? or their border greater than your border?
 >
 > <sup>[3](/bible/amos/6#v3)</sup> Ye that put far away the evil day, and cause the seat of violence to come near;
@@ -307,13 +321,9 @@ Reading from an on-screen definition of replacement theology  *[[41:58](https://
 > <sup>[5](/bible/amos/6#v5)</sup> That chant to the sound of the viol, and invent to themselves instruments of musick, like David;
 >
 > <sup>[6](/bible/amos/6#v6)</sup> That drink wine in bowls, and anoint themselves with the chief ointments: but they are not grieved for the affliction of Joseph.
->
-> <sup>[7](/bible/amos/6#v7)</sup> Therefore now shall they go captive with the first that go captive, and the banquet of them that stretched themselves shall be removed.
->
-> <sup>[8](/bible/amos/6#v8)</sup> The Lord God hath sworn by himself, saith the Lord the God of hosts, I abhor the excellency of Jacob, and hate his palaces: therefore will I deliver up the city with all that is therein.
 
-- Woe to them that are at ease in Zion: that's the southern kingdom. And trust in the mountain of Samaria: that's the northern kingdom.
 - They are not grieved for the affliction of Joseph: the affliction of Joseph was the destruction of the northern kingdom. Therefore now shall they go captive with the first that go captive: remember Assyria was going to come take the northern kingdom.
+
 - The Lord God hath sworn by himself, I abhor the excellency of Jacob: because all 12 tribes was going off. Therefore will I deliver up the city with all that is therein. So the southern kingdom was going to get it, and the northern kingdom.
 
   Precepts:
@@ -339,7 +349,15 @@ Reading from an on-screen definition of replacement theology  *[[41:58](https://
 
     In Judah is God known. That's why Christ came out of Judah. Salvation comes from Judah. He ain't tribe hopping.
 
+> <sup>[7](/bible/amos/6#v7)</sup> Therefore now shall they go captive with the first that go captive, and the banquet of them that stretched themselves shall be removed.
+>
+> <sup>[8](/bible/amos/6#v8)</sup> The Lord God hath sworn by himself, saith the Lord the God of hosts, I abhor the excellency of Jacob, and hate his palaces: therefore will I deliver up the city with all that is therein.
+
 **[Amos 7:7-17](/bible/amos/7#v7)**  *[[1:14:59](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=4499s)]*
+
+- A plumb line is used for measuring. Behold, I will set a plumbline in the midst of my people Israel: I will not again pass by them any more; I'mma cut them off. The high places of Isaac shall be desolate: that's the southern kingdom. And the sanctuaries of Israel shall be laid waste: northern kingdom. And I will rise against the house of Jeroboam with the sword.
+
+- Amaziah the priest of Bethel: he's complaining about Amos prophesying. The land is not able to bear all his words: the land can't take the prophecies of Amos. Amos was telling the northern kingdom, y'all going into slavery soon.
 
 > <sup>[7](/bible/amos/7#v7)</sup> Thus he shewed me: and, behold, the Lord stood upon a wall made by a plumbline, with a plumbline in his hand.
 >
@@ -352,7 +370,9 @@ Reading from an on-screen definition of replacement theology  *[[41:58](https://
 > <sup>[11](/bible/amos/7#v11)</sup> For thus Amos saith, Jeroboam shall die by the sword, and Israel shall surely be led away captive out of their own land.
 >
 > <sup>[12](/bible/amos/7#v12)</sup> Also Amaziah said unto Amos, O thou seer, go, flee thee away into the land of Judah, and there eat bread, and prophesy there:
->
+
+- O thou seer, go, flee thee away into the land of Judah, and there eat bread, and prophesy there: get out of here and go talk to Judah. Take your prophecies over there. But prophesy not again any more at Bethel: we northern kingdom, we don't want to hear your crap. Shut your black lips.
+
 > <sup>[13](/bible/amos/7#v13)</sup> But prophesy not again any more at Beth–el: for it is the king’s chapel, and it is the king’s court.
 >
 > <sup>[14](/bible/amos/7#v14)</sup> Then answered Amos, and said to Amaziah, I was no prophet, neither was I a prophet’s son; but I was an herdman, and a gatherer of sycomore fruit:
@@ -363,42 +383,38 @@ Reading from an on-screen definition of replacement theology  *[[41:58](https://
 >
 > <sup>[17](/bible/amos/7#v17)</sup> Therefore thus saith the Lord; Thy wife shall be an harlot in the city, and thy sons and thy daughters shall fall by the sword, and thy land shall be divided by line; and thou shalt die in a polluted land: and Israel shall surely go into captivity forth of his land.
 
-- A plumb line is used for measuring. Behold, I will set a plumbline in the midst of my people Israel: I will not again pass by them any more; I'mma cut them off. The high places of Isaac shall be desolate: that's the southern kingdom. And the sanctuaries of Israel shall be laid waste: northern kingdom. And I will rise against the house of Jeroboam with the sword.
-- Amaziah the priest of Bethel: he's complaining about Amos prophesying. The land is not able to bear all his words: the land can't take the prophecies of Amos. Amos was telling the northern kingdom, y'all going into slavery soon.
-- O thou seer, go, flee thee away into the land of Judah, and there eat bread, and prophesy there: get out of here and go talk to Judah. Take your prophecies over there. But prophesy not again any more at Bethel: we northern kingdom, we don't want to hear your crap. Shut your black lips.
-
 **[Amos 8:4-10](/bible/amos/8#v4)**  *[[1:14:59](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=4499s)]*
+
+- When will the new moon be gone, that we may sell corn? Because they couldn't stand when the holy days came. People said, how do you know on a new moon we can't buy and sell? Right here. And the sabbath, that we may set forth wheat: we want to do business, buying and selling. Making the ephah small: we want to mess with the measurements. And falsifying the balances by deceit.
 
 > <sup>[4](/bible/amos/8#v4)</sup> Hear this, O ye that swallow up the needy, even to make the poor of the land to fail,
 >
 > <sup>[5](/bible/amos/8#v5)</sup> Saying, When will the new moon be gone, that we may sell corn? and the sabbath, that we may set forth wheat, making the ephah small, and the shekel great, and falsifying the balances by deceit?
 >
 > <sup>[6](/bible/amos/8#v6)</sup> That we may buy the poor for silver, and the needy for a pair of shoes; yea, and sell the refuse of the wheat?
->
+
+- That we may buy the poor for silver, and the needy for a pair of shoes: you see how bad it was? We want to buy the poor Israelites for silver, the needy for a pair of shoes.
+
 > <sup>[7](/bible/amos/8#v7)</sup> The Lord hath sworn by the excellency of Jacob, Surely I will never forget any of their works.
 >
 > <sup>[8](/bible/amos/8#v8)</sup> Shall not the land tremble for this, and every one mourn that dwelleth therein? and it shall rise up wholly as a flood; and it shall be cast out and drowned, as by the flood of Egypt.
->
+
+- It shall rise up wholly as a flood, and it shall be cast out and drowned, as by the flood of Egypt: so the same way Egypt destroyed us, he said, I'mma have Assyria do the same thing to y'all. And I will turn your feasts into mourning, and all your songs into lamentation. So judgment was coming on all 12 tribes, but it started with the northern kingdom.
+
 > <sup>[9](/bible/amos/8#v9)</sup> And it shall come to pass in that day, saith the Lord God, that I will cause the sun to go down at noon, and I will darken the earth in the clear day:
 >
 > <sup>[10](/bible/amos/8#v10)</sup> And I will turn your feasts into mourning, and all your songs into lamentation; and I will bring up sackcloth upon all loins, and baldness upon every head; and I will make it as the mourning of an only son, and the end thereof as a bitter day.
 
-- When will the new moon be gone, that we may sell corn? Because they couldn't stand when the holy days came. People said, how do you know on a new moon we can't buy and sell? Right here. And the sabbath, that we may set forth wheat: we want to do business, buying and selling. Making the ephah small: we want to mess with the measurements. And falsifying the balances by deceit.
-- That we may buy the poor for silver, and the needy for a pair of shoes: you see how bad it was? We want to buy the poor Israelites for silver, the needy for a pair of shoes.
-- It shall rise up wholly as a flood, and it shall be cast out and drowned, as by the flood of Egypt: so the same way Egypt destroyed us, he said, I'mma have Assyria do the same thing to y'all. And I will turn your feasts into mourning, and all your songs into lamentation. So judgment was coming on all 12 tribes, but it started with the northern kingdom.
-
 **[Amos 9:8-11](/bible/amos/9#v8)**  *[[1:19:09](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=4749s)]*
+
+- Now he calls us the sinful kingdom. I know brothers be bringing this out for America; let's talk about wicked Israel. Saving that I will not utterly destroy the house of Jacob: although I'm going to wipe y'all out, I'm not going to destroy all the Israelites. The northern kingdom would be taken out the land; the southern kingdom would be taken out the land.
 
 > <sup>[8](/bible/amos/9#v8)</sup> Behold, the eyes of the Lord God are upon the sinful kingdom, and I will destroy it from off the face of the earth; saving that I will not utterly destroy the house of Jacob, saith the Lord.
 >
 > <sup>[9](/bible/amos/9#v9)</sup> For, lo, I will command, and I will sift the house of Israel among all nations, like as corn is sifted in a sieve, yet shall not the least grain fall upon the earth.
->
-> <sup>[10](/bible/amos/9#v10)</sup> All the sinners of my people shall die by the sword, which say, The evil shall not overtake nor prevent us.
->
-> <sup>[11](/bible/amos/9#v11)</sup> In that day will I raise up the tabernacle of David that is fallen, and close up the breaches thereof; and I will raise up his ruins, and I will build it as in the days of old:
 
-- Now he calls us the sinful kingdom. I know brothers be bringing this out for America; let's talk about wicked Israel. Saving that I will not utterly destroy the house of Jacob: although I'm going to wipe y'all out, I'm not going to destroy all the Israelites. The northern kingdom would be taken out the land; the southern kingdom would be taken out the land.
 - And I will sift the house of Israel among all nations: once he got all of us out the land, we were sifted everywhere. That's Deuteronomy 28:64. Yet shall not the least grain fall upon the earth: the least of us won't be lost. All the sinners of my people shall die by the sword, which say, the evil shall not overtake nor prevent us: that's just like Christianity. Ain't nothing going to happen to us; we good in White Jesus name.
+
 - Verse 11 is where we wanted to get to: in that day will I raise up the tabernacle of David that is fallen. Notice the chronology: Israel destroyed in verse 8, sifted and scattered in verse 9, the sinners die, now verse 11. He's already letting us know God's plan, his purpose. Why? Because we are predestined; because he foreknew us from before the foundation of the earth. That is fallen: what happened? The 12 tribes were split into two kingdoms. And I will build it as in the days of old: he said, I'm going to rebuild this whole thing as in the days of old.
 
   Precepts:
@@ -406,6 +422,10 @@ Reading from an on-screen definition of replacement theology  *[[41:58](https://
     > <sup>[8](/bible/revelation/11#v8)</sup> And their dead bodies shall lie in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified.
 
     If you choose to use the sinful kingdom for America, let me give you the precept. The great city is Babylon the great, which spiritually, that's the key word you want to highlight, is called Sodom and Egypt: a spiritual Sodom, a spiritual Egypt. Where also our Lord was crucified: Christ was crucified in Jerusalem, so what is it saying? America is a spiritual Jerusalem. Just like they hated Christ in real Jerusalem, they hate the true Christ and his teachings here as well.
+
+> <sup>[10](/bible/amos/9#v10)</sup> All the sinners of my people shall die by the sword, which say, The evil shall not overtake nor prevent us.
+>
+> <sup>[11](/bible/amos/9#v11)</sup> In that day will I raise up the tabernacle of David that is fallen, and close up the breaches thereof; and I will raise up his ruins, and I will build it as in the days of old:
 
 **[1 Kings 11:9-13, 27-31](/bible/1-kings/11#v9)**  *[[1:23:25](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=5005s)]*
 
@@ -425,6 +445,8 @@ Reading from an on-screen definition of replacement theology  *[[41:58](https://
 
 **[1 Kings 12:1-19](/bible/1-kings/12#v1)**  *[[1:27:26](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=5246s)]*
 
+- Now, in order to understand the New Testament, you should be fully aware of what happened to the 12 tribes.
+
 > <sup>[1](/bible/1-kings/12#v1)</sup> And Rehoboam went to Shechem: for all Israel were come to Shechem to make him king.
 >
 > <sup>[2](/bible/1-kings/12#v2)</sup> And it came to pass, when Jeroboam the son of Nebat, who was yet in Egypt, heard of it, (for he was fled from the presence of king Solomon, and Jeroboam dwelt in Egypt;)
@@ -432,11 +454,40 @@ Reading from an on-screen definition of replacement theology  *[[41:58](https://
 > <sup>[3](/bible/1-kings/12#v3)</sup> That they sent and called him. And Jeroboam and all the congregation of Israel came, and spake unto Rehoboam, saying,
 >
 > <sup>[4](/bible/1-kings/12#v4)</sup> Thy father made our yoke grievous: now therefore make thou the grievous service of thy father, and his heavy yoke which he put upon us, lighter, and we will serve thee.
->
+
+- Thy father made our yoke grievous: with the temple we had to pay tribute money, but when Solomon created those houses of worship for his wives, he forced Israel to pay tribute to those gods. Israel is saying, get rid of all those taxes he put on us for those false gods, and we will serve thee.
+
 > <sup>[5](/bible/1-kings/12#v5)</sup> And he said unto them, Depart yet for three days, then come again to me. And the people departed.
 >
 > <sup>[6](/bible/1-kings/12#v6)</sup> And king Rehoboam consulted with the old men, that stood before Solomon his father while he yet lived, and said, How do ye advise that I may answer this people?
->
+
+- Rehoboam consulted with the old men that stood before Solomon his father: how do ye advise that I may answer this people? But he forsook the counsel of the old men, which they had given him, and consulted with the young men that were grown up with him: those are his peers. Notice the difference: to the old men, how do you advise that I may answer this people; to the young men, what counsel give ye that we may answer this people? Meaning we all together, y'all my peers, we running this thing.
+
+- My little finger shall be thicker than my father's loins. My father chastised you with whips, but I will chastise you with scorpions: I'mma be worse than my father. Notice they're showing you the character of Solomon when he got old: what was Solomon doing when people didn't want to pay taxes? He had them forced.
+
+- What portion have we in David? To your tents, O Israel: talking to the 10 tribes. Now see to thine own house, David: see to your own house, Judah. So Israel departed unto their tents.
+
+- King Rehoboam sent Adoram, who was over the tribute, and all Israel stoned him with stones, that he died., you came in to collect money? We ain't giving you nothing. And Rehoboam made speed to get him up to his chariot to flee to Jerusalem; he said, they going to kill me next. So Israel rebelled against the house of David unto this day.
+
+  Precepts:
+  - **[Ecclesiasticus 30:4-6](/bible/sirach/30#v4)**
+
+    > <sup>[4](/bible/sirach/30#v4)</sup> Though his father die, yet he is as though he were not dead: for he hath left one behind him that is like himself.
+    >
+    > <sup>[5](/bible/sirach/30#v5)</sup> While he lived, he saw and rejoiced in him: and when he died, he was not sorrowful.
+    >
+    > <sup>[6](/bible/sirach/30#v6)</sup> He left behind him an avenger against his enemies, and one that shall requite kindness to his friends.
+
+    Though his father die, yet he is as though he were not dead: for he hath left one behind him that is like himself. When you die, your son should be in your image. He left behind him an avenger against his enemies, and one that shall requite kindness unto his friends: meaning your son will look after your father's friends.
+  - **[1 Timothy 3:6](/bible/1-timothy/3#v6)**
+    > <sup>[6](/bible/1-timothy/3#v6)</sup> Not a novice, lest being lifted up with pride he fall into the condemnation of the devil.
+
+    Not a novice: a novice means a beginner, a newbie, a neophyte. Lest being lifted up with pride he fall into the condemnation of the devil: I know all the precepts. His head gets big cuz he thinks he knows it all. That's young men, and this type of spirit will destroy himself. So that's who Rehoboam looked to. Some of y'all in here make that same mistake.
+  - **[Ecclesiasticus 10:21](/bible/sirach/10#v21)**
+    > <sup>[21](/bible/sirach/10#v21)</sup> The fear of the Lord goeth before the obtaining of authority: but roughness and pride is the losing thereof.
+
+    The fear of the Lord goeth before the obtaining of authority, but roughness and pride is the losing thereof. You rule people with roughness and pride, you going to lose your position. We just had a case like that in Cali; we have many cases in the states, New York, Texas, where brothers felt, in order to be a leader of the sanctuary, I got to rule the people with roughness and pride, and they was taking advantage of the brothers and sisters out there. No, we had to remove you.
+
 > <sup>[7](/bible/1-kings/12#v7)</sup> And they spake unto him, saying, If thou wilt be a servant unto this people this day, and wilt serve them, and answer them, and speak good words to them, then they will be thy servants for ever.
 >
 > <sup>[8](/bible/1-kings/12#v8)</sup> But he forsook the counsel of the old men, which they had given him, and consulted with the young men that were grown up with him, and which stood before him:
@@ -463,32 +514,6 @@ Reading from an on-screen definition of replacement theology  *[[41:58](https://
 >
 > <sup>[19](/bible/1-kings/12#v19)</sup> So Israel rebelled against the house of David unto this day.
 
-- Now, in order to understand the New Testament, you should be fully aware of what happened to the 12 tribes.
-- Thy father made our yoke grievous: with the temple we had to pay tribute money, but when Solomon created those houses of worship for his wives, he forced Israel to pay tribute to those gods. Israel is saying, get rid of all those taxes he put on us for those false gods, and we will serve thee.
-- Rehoboam consulted with the old men that stood before Solomon his father: how do ye advise that I may answer this people? But he forsook the counsel of the old men, which they had given him, and consulted with the young men that were grown up with him: those are his peers. Notice the difference: to the old men, how do you advise that I may answer this people; to the young men, what counsel give ye that we may answer this people? Meaning we all together, y'all my peers, we running this thing.
-- My little finger shall be thicker than my father's loins. My father chastised you with whips, but I will chastise you with scorpions: I'mma be worse than my father. Notice they're showing you the character of Solomon when he got old: what was Solomon doing when people didn't want to pay taxes? He had them forced.
-- What portion have we in David? To your tents, O Israel: talking to the 10 tribes. Now see to thine own house, David: see to your own house, Judah. So Israel departed unto their tents.
-- King Rehoboam sent Adoram, who was over the tribute, and all Israel stoned him with stones, that he died., you came in to collect money? We ain't giving you nothing. And Rehoboam made speed to get him up to his chariot to flee to Jerusalem; he said, they going to kill me next. So Israel rebelled against the house of David unto this day.
-
-  Precepts:
-  - **[Ecclesiasticus 30:4-6](/bible/sirach/30#v4)**
-
-    > <sup>[4](/bible/sirach/30#v4)</sup> Though his father die, yet he is as though he were not dead: for he hath left one behind him that is like himself.
-    >
-    > <sup>[5](/bible/sirach/30#v5)</sup> While he lived, he saw and rejoiced in him: and when he died, he was not sorrowful.
-    >
-    > <sup>[6](/bible/sirach/30#v6)</sup> He left behind him an avenger against his enemies, and one that shall requite kindness to his friends.
-
-    Though his father die, yet he is as though he were not dead: for he hath left one behind him that is like himself. When you die, your son should be in your image. He left behind him an avenger against his enemies, and one that shall requite kindness unto his friends: meaning your son will look after your father's friends.
-  - **[1 Timothy 3:6](/bible/1-timothy/3#v6)**
-    > <sup>[6](/bible/1-timothy/3#v6)</sup> Not a novice, lest being lifted up with pride he fall into the condemnation of the devil.
-
-    Not a novice: a novice means a beginner, a newbie, a neophyte. Lest being lifted up with pride he fall into the condemnation of the devil: I know all the precepts. His head gets big cuz he thinks he knows it all. That's young men, and this type of spirit will destroy himself. So that's who Rehoboam looked to. Some of y'all in here make that same mistake.
-  - **[Ecclesiasticus 10:21](/bible/sirach/10#v21)**
-    > <sup>[21](/bible/sirach/10#v21)</sup> The fear of the Lord goeth before the obtaining of authority: but roughness and pride is the losing thereof.
-
-    The fear of the Lord goeth before the obtaining of authority, but roughness and pride is the losing thereof. You rule people with roughness and pride, you going to lose your position. We just had a case like that in Cali; we have many cases in the states, New York, Texas, where brothers felt, in order to be a leader of the sanctuary, I got to rule the people with roughness and pride, and they was taking advantage of the brothers and sisters out there. No, we had to remove you.
-
 **[2 Chronicles 15:9](/bible/2-chronicles/15#v9)**  *[[1:39:42](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=5982s)]*
 
 > <sup>[9](/bible/2-chronicles/15#v9)</sup> And he gathered all Judah and Benjamin, and the strangers with them out of Ephraim and Manasseh, and out of Simeon: for they fell to him out of Israel in abundance, when they saw that the Lord his God was with him.
@@ -503,39 +528,43 @@ Reading from an on-screen definition of replacement theology  *[[41:58](https://
 
 **[2 Chronicles 11:12-16](/bible/2-chronicles/11#v12)**  *[[1:39:42](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=5982s)]*
 
+- Remember the Levites were scattered throughout all 12 tribes. The ones that lived with the kingdom of Judah were fine, but the ones that lived with the northern kingdom were not, because when the high holy days would come about, Levi's job was to tell everybody, especially in them three top holidays, we have to go up to Jerusalem to worship. Remember what the woman of Samaria said: you Jews say that in Jerusalem is where men ought to worship.
+
 > <sup>[12](/bible/2-chronicles/11#v12)</sup> And in every several city he put shields and spears, and made them exceeding strong, having Judah and Benjamin on his side.
 >
 > <sup>[13](/bible/2-chronicles/11#v13)</sup> And the priests and the Levites that were in all Israel resorted to him out of all their coasts.
 >
 > <sup>[14](/bible/2-chronicles/11#v14)</sup> For the Levites left their suburbs and their possession, and came to Judah and Jerusalem: for Jeroboam and his sons had cast them off from executing the priest’s office unto the Lord:
->
+
+- For Jeroboam and his sons had cast them off from executing the priest's office: they kicked Levi out. We don't want y'all here, cuz y'all trying to get us to do what God says. No, we want to worship idols. And Jeroboam ordained him priests for the high places, and for the devils, and for the calves which he had made.
+
+- Look at verse 16: all the northern kingdom was not idolatrous. After them, out of all the tribes of Israel, such as set their hearts to seek the Lord God of Israel came to Jerusalem, like Tobit. A remnant of them did join with the southern kingdom. This is why we read in 2 Chronicles 15:9 where Ephraim, Manasseh, and Simeon, the strangers, some of them went with the kingdom of Judah.
+
 > <sup>[15](/bible/2-chronicles/11#v15)</sup> And he ordained him priests for the high places, and for the devils, and for the calves which he had made.
 >
 > <sup>[16](/bible/2-chronicles/11#v16)</sup> And after them out of all the tribes of Israel such as set their hearts to seek the Lord God of Israel came to Jerusalem, to sacrifice unto the Lord God of their fathers.
 
-- Remember the Levites were scattered throughout all 12 tribes. The ones that lived with the kingdom of Judah were fine, but the ones that lived with the northern kingdom were not, because when the high holy days would come about, Levi's job was to tell everybody, especially in them three top holidays, we have to go up to Jerusalem to worship. Remember what the woman of Samaria said: you Jews say that in Jerusalem is where men ought to worship.
-- For Jeroboam and his sons had cast them off from executing the priest's office: they kicked Levi out. We don't want y'all here, cuz y'all trying to get us to do what God says. No, we want to worship idols. And Jeroboam ordained him priests for the high places, and for the devils, and for the calves which he had made.
-- Look at verse 16: all the northern kingdom was not idolatrous. After them, out of all the tribes of Israel, such as set their hearts to seek the Lord God of Israel came to Jerusalem, like Tobit. A remnant of them did join with the southern kingdom. This is why we read in 2 Chronicles 15:9 where Ephraim, Manasseh, and Simeon, the strangers, some of them went with the kingdom of Judah.
-
 **[2 Kings 17:18-24](/bible/2-kings/17#v18)**  *[[1:44:20](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=6260s)]*
 
 > <sup>[18](/bible/2-kings/17#v18)</sup> Therefore the Lord was very angry with Israel, and removed them out of his sight: there was none left but the tribe of Judah only.
->
+
+- Therefore the Lord was very angry with Israel, and removed them out of his sight: that's the 10 tribes. Also Judah kept not the commandments of the Lord their God: Judah was messing up too, but walked in the statutes of Israel which they made. We were doing the same thing the northern kingdom was doing.
+
 > <sup>[19](/bible/2-kings/17#v19)</sup> Also Judah kept not the commandments of the Lord their God, but walked in the statutes of Israel which they made.
 >
 > <sup>[20](/bible/2-kings/17#v20)</sup> And the Lord rejected all the seed of Israel, and afflicted them, and delivered them into the hand of spoilers, until he had cast them out of his sight.
->
+
+- And the Lord rejected all the seed of Israel: see that? All 12 tribes God was pissed at now.
+
 > <sup>[21](/bible/2-kings/17#v21)</sup> For he rent Israel from the house of David; and they made Jeroboam the son of Nebat king: and Jeroboam drave Israel from following the Lord, and made them sin a great sin.
 >
 > <sup>[22](/bible/2-kings/17#v22)</sup> For the children of Israel walked in all the sins of Jeroboam which he did; they departed not from them;
 >
 > <sup>[23](/bible/2-kings/17#v23)</sup> Until the Lord removed Israel out of his sight, as he had said by all his servants the prophets. So was Israel carried away out of their own land to Assyria unto this day.
->
-> <sup>[24](/bible/2-kings/17#v24)</sup> And the king of Assyria brought men from Babylon, and from Cuthah, and from Ava, and from Hamath, and from Sepharvaim, and placed them in the cities of Samaria instead of the children of Israel: and they possessed Samaria, and dwelt in the cities thereof.
 
-- Therefore the Lord was very angry with Israel, and removed them out of his sight: that's the 10 tribes. Also Judah kept not the commandments of the Lord their God: Judah was messing up too, but walked in the statutes of Israel which they made. We were doing the same thing the northern kingdom was doing.
-- And the Lord rejected all the seed of Israel: see that? All 12 tribes God was pissed at now.
 - So was Israel carried away out of their own land to Assyria unto this day: that's what Amos was telling them was going to happen. They didn't want to hear it, but it happened. And the king of Assyria brought men from Babylon and from Cuthah and placed them in the cities of Samaria instead of the children of Israel.
+
+> <sup>[24](/bible/2-kings/17#v24)</sup> And the king of Assyria brought men from Babylon, and from Cuthah, and from Ava, and from Hamath, and from Sepharvaim, and placed them in the cities of Samaria instead of the children of Israel: and they possessed Samaria, and dwelt in the cities thereof.
 
 **[2 Kings 18:9-12](/bible/2-kings/18#v9)**  *[[1:44:20](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=6260s)]*
 
@@ -551,16 +580,17 @@ Reading from an on-screen definition of replacement theology  *[[41:58](https://
 
 **[2 Kings 24:1-4](/bible/2-kings/24#v1)**  *[[1:48:28](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=6508s)]*
 
+- Now, what happened with Judah? Jehoiakim became the servant of Nebuchadnezzar; he was set up in authority, supposed to pay tribute and obey Nebuchadnezzar, and he started to rebel. So the Lord sent against him bands of the Chaldees, according to the word of the Lord which he spake by his servants the prophets. So now Judah's getting removed out of the Lord's sight.
+
 > <sup>[1](/bible/2-kings/24#v1)</sup> In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant three years: then he turned and rebelled against him.
 >
 > <sup>[2](/bible/2-kings/24#v2)</sup> And the Lord sent against him bands of the Chaldees, and bands of the Syrians, and bands of the Moabites, and bands of the children of Ammon, and sent them against Judah to destroy it, according to the word of the Lord, which he spake by his servants the prophets.
 >
 > <sup>[3](/bible/2-kings/24#v3)</sup> Surely at the commandment of the Lord came this upon Judah, to remove them out of his sight, for the sins of Manasseh, according to all that he did;
->
-> <sup>[4](/bible/2-kings/24#v4)</sup> And also for the innocent blood that he shed: for he filled Jerusalem with innocent blood; which the Lord would not pardon.
 
-- Now, what happened with Judah? Jehoiakim became the servant of Nebuchadnezzar; he was set up in authority, supposed to pay tribute and obey Nebuchadnezzar, and he started to rebel. So the Lord sent against him bands of the Chaldees, according to the word of the Lord which he spake by his servants the prophets. So now Judah's getting removed out of the Lord's sight.
 - For the sins of Manasseh: King Manasseh, when y'all read about him, that was an evil brother right there. But he did repent. And also for the innocent blood that he shed, which the Lord would not pardon. So both kingdoms went into captivity: Assyrian captivity, Babylonian captivity.
+
+> <sup>[4](/bible/2-kings/24#v4)</sup> And also for the innocent blood that he shed: for he filled Jerusalem with innocent blood; which the Lord would not pardon.
 
 **[Matthew 1:17, 21](/bible/matthew/1#v17)**  *[[1:48:28](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=6508s)]*
 
@@ -593,25 +623,29 @@ Reading from an on-screen definition of replacement theology  *[[41:58](https://
 
 **[2 Esdras 13:40-46](/bible/2-esdras/13#v40)**  *[[1:57:03](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=7023s)]*
 
+- This is the same Ezra; it's written Esdras, the Greek translation of his name.
+
 > <sup>[40](/bible/2-esdras/13#v40)</sup> Those are the ten tribes, which were carried away prisoners out of their own land in the time of Osea the king, whom Salmanasar the king of Assyria led away captive, and he carried them over the waters, and so came they into another land.
->
+
+- He carried them over the waters: in order to be carried over the waters, you got to be in what? A ship. So the 10 tribes did go into captivity on ships.
+
 > <sup>[41](/bible/2-esdras/13#v41)</sup> But they took this counsel among themselves, that they would leave the multitude of the heathen, and go forth into a further country, where never mankind dwelt,
->
+
+- But they took this counsel among themselves: it was during the time of Cyrus, when he said, I'm giving you all liberty. That they would leave the multitude of the heathen, and go forth into a further country, where never mankind dwelt: on the street you want to highlight that part, where never mankind dwelt, cuz you got this new thing: oh, before the American Indians, there was already races living here. No. Stop the lies. This is around 529 BC.
+
 > <sup>[42](/bible/2-esdras/13#v42)</sup> That they might there keep their statutes, which they never kept in their own land.
 >
 > <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow places of the river.
->
+
+- That they might there keep their statutes, which they never kept in their own land. And they entered into Euphrates by the narrow passages of the river: for the Most High then shewed signs for them, and held still the flood, till they were passed over. For through that country there was a great way to go, namely of a year and a half: if you're traveling for a year and a half, it's men, women, and children; you have to stop for victuals, food and supplies. That's why it's very important to know this history.
+
+- Map shown on screen tracing the route into the Euphrates and over: you see the red line? This is where they went.
+
 > <sup>[44](/bible/2-esdras/13#v44)</sup> For the most High then shewed signs for them, and held still the flood, till they were passed over.
 >
 > <sup>[45](/bible/2-esdras/13#v45)</sup> For through that country there was a great way to go, namely, of a year and a half: and the same region is called Arsareth.
 >
 > <sup>[46](/bible/2-esdras/13#v46)</sup> Then dwelt they there until the latter time; and now when they shall begin to come,
-
-- This is the same Ezra; it's written Esdras, the Greek translation of his name.
-- He carried them over the waters: in order to be carried over the waters, you got to be in what? A ship. So the 10 tribes did go into captivity on ships.
-- But they took this counsel among themselves: it was during the time of Cyrus, when he said, I'm giving you all liberty. That they would leave the multitude of the heathen, and go forth into a further country, where never mankind dwelt: on the street you want to highlight that part, where never mankind dwelt, cuz you got this new thing: oh, before the American Indians, there was already races living here. No. Stop the lies. This is around 529 BC.
-- That they might there keep their statutes, which they never kept in their own land. And they entered into Euphrates by the narrow passages of the river: for the Most High then shewed signs for them, and held still the flood, till they were passed over. For through that country there was a great way to go, namely of a year and a half: if you're traveling for a year and a half, it's men, women, and children; you have to stop for victuals, food and supplies. That's why it's very important to know this history.
-- Map shown on screen tracing the route into the Euphrates and over: you see the red line? This is where they went.
 
 <div class="reading">
 
@@ -696,10 +730,14 @@ Reading from an on-screen entry on Arzareth by Morris Jastrow Jr. and Kaufmann K
 
 **[Acts 10:1-36](/bible/acts/10#v1)**  *[[2:17:51](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=8271s)]*
 
+- Write this down: Caesarea is in the land of Israel; it is in the land of West Manasseh, right beside Samaria. Map shown on screen. Deacon: Peter lived in Joppa, the seaport there; he sailed up north to visit Cornelius. Christ was raised further up, Galilee, so he was raised around them in that area. And that place Scythopolis means city of the Scythians; Scythians is northern kingdom also. That's who Paul wrote to in Colossians 3:11.
+
 > <sup>[1](/bible/acts/10#v1)</sup> There was a certain man in Cesarea called Cornelius, a centurion of the band called the Italian band,
 >
 > <sup>[2](/bible/acts/10#v2)</sup> A devout man, and one that feared God with all his house, which gave much alms to the people, and prayed to God alway.
->
+
+- A devout man: how do you become a devout man? People go, yeah, he was another nation, but he was devout. No, no, no. He was a devout man according to the law, one that feared God, which gave much alms to the people, and prayed to God alway. Then how was he a devout man according to the law? How did he fear God? How did he know how to pray to God? He had to know the law. So yes, Cornelius is an Israelite, northern kingdom.
+
 > <sup>[3](/bible/acts/10#v3)</sup> He saw in a vision evidently about the ninth hour of the day an angel of God coming in to him, and saying unto him, Cornelius.
 >
 > <sup>[4](/bible/acts/10#v4)</sup> And when he looked on him, he was afraid, and said, What is it, Lord? And he said unto him, Thy prayers and thine alms are come up for a memorial before God.
@@ -713,7 +751,40 @@ Reading from an on-screen entry on Arzareth by Morris Jastrow Jr. and Kaufmann K
 > <sup>[8](/bible/acts/10#v8)</sup> And when he had declared all these things unto them, he sent them to Joppa.
 >
 > <sup>[9](/bible/acts/10#v9)</sup> On the morrow, as they went on their journey, and drew nigh unto the city, Peter went up upon the housetop to pray about the sixth hour:
->
+
+- Peter went up upon the housetop to pray about the sixth hour: this is the noonday prayer. Remember in Psalms 55:17 it says pray three times, evening, morning, and noon.
+
+- Rise, Peter; kill, and eat. But Peter said, Not so, Lord. And the voice spake unto him again the second time, What God hath cleansed, that call not thou common. So what does God cleanse? Does he cleanse Esau? I never read that one.
+
+- Verse 28 is where he breaks down the dream: God hath shewed me that I should not call any man common or unclean. Any man. It's not talking about roaches or ants or eating unclean pig. The dream was about man. What man? The Israelites being cleansed; the northern kingdom being cleansed.
+
+- Then Peter opened his mouth, and said, Of a truth I perceive that God is no respecter of persons. Now this is where Christians get you: they'll read verse 34 and 35. But the next verse explains Cornelius: the word which God sent unto the children of Israel. So Acts 10 is telling you that this was for the children of Israel. But because of supersessionism, replacement theology, we go, oh, God accepts everybody; this Cornelius was a white man, an Italian man, a Roman. That's replacement theology.
+
+- If y'all wasn't in Bishop Kani's class, it's called Acts 10 Reloaded: Call No Man Common, maybe two months ago. He goes really slow on it and it's excellent.
+
+  Precepts:
+  - **[Acts 22:12](/bible/acts/22#v12)**
+    > <sup>[12](/bible/acts/22#v12)</sup> And one Ananias, a devout man according to the law, having a good report of all the Jews which dwelt there,
+
+    And one Ananias, a devout man according to the law. You see? A devout man according to the law. The other nations didn't have the law.
+  - **[Acts 21:16](/bible/acts/21#v16)**
+    > <sup>[16](/bible/acts/21#v16)</sup> There went with us also certain of the disciples of Cesarea, and brought with them one Mnason of Cyprus, an old disciple, with whom we should lodge.
+
+    There went with us also certain of the disciples of Caesarea. I just wanted to show you: you had some disciples that came from Caesarea as well, the same place Cornelius is from.
+  - **[Hosea 8:8](/bible/hosea/8#v8)**
+    > <sup>[8](/bible/hosea/8#v8)</sup> Israel is swallowed up: now shall they be among the Gentiles as a vessel wherein is no pleasure.
+
+    Israel is swallowed up: now shall they be among the Gentiles as a vessel wherein is no pleasure. This goes with the certain vessel descending in the dream.
+  - **[Ezekiel 37:21-23](/bible/ezekiel/37#v21)**
+
+    > <sup>[21](/bible/ezekiel/37#v21)</sup> And say unto them, Thus saith the Lord God; Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land:
+    >
+    > <sup>[22](/bible/ezekiel/37#v22)</sup> And I will make them one nation in the land upon the mountains of Israel; and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all:
+    >
+    > <sup>[23](/bible/ezekiel/37#v23)</sup> Neither shall they defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions: but I will save them out of all their dwellingplaces, wherein they have sinned, and will cleanse them: so shall they be my people, and I will be their God.
+
+    What has God cleansed? I will take the children of Israel from among the heathen; they shall be no more two nations, neither shall they be divided into two kingdoms any more at all. But I will save them out of all their dwelling places, wherein they have sinned, and will cleanse them. So God say he's going to cleanse us, the 12 tribes.
+
 > <sup>[10](/bible/acts/10#v10)</sup> And he became very hungry, and would have eaten: but while they made ready, he fell into a trance,
 >
 > <sup>[11](/bible/acts/10#v11)</sup> And saw heaven opened, and a certain vessel descending unto him, as it had been a great sheet knit at the four corners, and let down to the earth:
@@ -768,48 +839,20 @@ Reading from an on-screen entry on Arzareth by Morris Jastrow Jr. and Kaufmann K
 >
 > <sup>[36](/bible/acts/10#v36)</sup> The word which God sent unto the children of Israel, preaching peace by Jesus Christ: (he is Lord of all:)
 
-- Write this down: Caesarea is in the land of Israel; it is in the land of West Manasseh, right beside Samaria. Map shown on screen. Deacon: Peter lived in Joppa, the seaport there; he sailed up north to visit Cornelius. Christ was raised further up, Galilee, so he was raised around them in that area. And that place Scythopolis means city of the Scythians; Scythians is northern kingdom also. That's who Paul wrote to in Colossians 3:11.
-- A devout man: how do you become a devout man? People go, yeah, he was another nation, but he was devout. No, no, no. He was a devout man according to the law, one that feared God, which gave much alms to the people, and prayed to God alway. Then how was he a devout man according to the law? How did he fear God? How did he know how to pray to God? He had to know the law. So yes, Cornelius is an Israelite, northern kingdom.
-- Peter went up upon the housetop to pray about the sixth hour: this is the noonday prayer. Remember in Psalms 55:17 it says pray three times, evening, morning, and noon.
-- Rise, Peter; kill, and eat. But Peter said, Not so, Lord. And the voice spake unto him again the second time, What God hath cleansed, that call not thou common. So what does God cleanse? Does he cleanse Esau? I never read that one.
-- Verse 28 is where he breaks down the dream: God hath shewed me that I should not call any man common or unclean. Any man. It's not talking about roaches or ants or eating unclean pig. The dream was about man. What man? The Israelites being cleansed; the northern kingdom being cleansed.
-- Then Peter opened his mouth, and said, Of a truth I perceive that God is no respecter of persons. Now this is where Christians get you: they'll read verse 34 and 35. But the next verse explains Cornelius: the word which God sent unto the children of Israel. So Acts 10 is telling you that this was for the children of Israel. But because of supersessionism, replacement theology, we go, oh, God accepts everybody; this Cornelius was a white man, an Italian man, a Roman. That's replacement theology.
-- If y'all wasn't in Bishop Kani's class, it's called Acts 10 Reloaded: Call No Man Common, maybe two months ago. He goes really slow on it and it's excellent.
-
-  Precepts:
-  - **[Acts 22:12](/bible/acts/22#v12)**
-    > <sup>[12](/bible/acts/22#v12)</sup> And one Ananias, a devout man according to the law, having a good report of all the Jews which dwelt there,
-
-    And one Ananias, a devout man according to the law. You see? A devout man according to the law. The other nations didn't have the law.
-  - **[Acts 21:16](/bible/acts/21#v16)**
-    > <sup>[16](/bible/acts/21#v16)</sup> There went with us also certain of the disciples of Cesarea, and brought with them one Mnason of Cyprus, an old disciple, with whom we should lodge.
-
-    There went with us also certain of the disciples of Caesarea. I just wanted to show you: you had some disciples that came from Caesarea as well, the same place Cornelius is from.
-  - **[Hosea 8:8](/bible/hosea/8#v8)**
-    > <sup>[8](/bible/hosea/8#v8)</sup> Israel is swallowed up: now shall they be among the Gentiles as a vessel wherein is no pleasure.
-
-    Israel is swallowed up: now shall they be among the Gentiles as a vessel wherein is no pleasure. This goes with the certain vessel descending in the dream.
-  - **[Ezekiel 37:21-23](/bible/ezekiel/37#v21)**
-
-    > <sup>[21](/bible/ezekiel/37#v21)</sup> And say unto them, Thus saith the Lord God; Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land:
-    >
-    > <sup>[22](/bible/ezekiel/37#v22)</sup> And I will make them one nation in the land upon the mountains of Israel; and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all:
-    >
-    > <sup>[23](/bible/ezekiel/37#v23)</sup> Neither shall they defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions: but I will save them out of all their dwellingplaces, wherein they have sinned, and will cleanse them: so shall they be my people, and I will be their God.
-
-    What has God cleansed? I will take the children of Israel from among the heathen; they shall be no more two nations, neither shall they be divided into two kingdoms any more at all. But I will save them out of all their dwelling places, wherein they have sinned, and will cleanse them. So God say he's going to cleanse us, the 12 tribes.
-
 **[Acts 13:45-47](/bible/acts/13#v45)**  *[[2:34:29](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=9269s)]*
 
 > <sup>[45](/bible/acts/13#v45)</sup> But when the Jews saw the multitudes, they were filled with envy, and spake against those things which were spoken by Paul, contradicting and blaspheming.
 >
 > <sup>[46](/bible/acts/13#v46)</sup> Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing ye put it from you, and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles.
->
-> <sup>[47](/bible/acts/13#v47)</sup> For so hath the Lord commanded us, saying, I have set thee to be a light of the Gentiles, that thou shouldest be for salvation unto the ends of the earth.
 
 - It was necessary that the word of God should first have been spoken to you: the reader has to stress first. You who? The Jews, the kingdom of Judah. That goes back to Zechariah 12:7: the Lord also shall save the tents of Judah first.
+
+> <sup>[47](/bible/acts/13#v47)</sup> For so hath the Lord commanded us, saying, I have set thee to be a light of the Gentiles, that thou shouldest be for salvation unto the ends of the earth.
+
 - But seeing ye put it from you, and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles. For so hath the Lord commanded us, saying, I have set thee to be a light of the Gentiles: we forgot already? Matthew 4:15: Galilee of the Gentiles. Those Gentiles are the northern kingdom.
+
 - That's why when y'all hear us teaching online, we always speak about context. You can't just assume because it says Gentiles it means the other nations. That's why I always go to the Zondervan Bible dictionary, where it says usually it means a non-Israelite people; meaning it don't always mean that. There's times when you see the word Gentiles and it's referring to the Israelites in a Gentile state of mind, because God cut them off from being his people in Hosea chapter 1.
+
 - The interview with Captain OC: the Christian guy said, back in the day you guys only taught black Americans, but now you're saying the Hispanics and Latinos are the Israelites; what changed? Remember what we read in Zechariah 12:7: I will save who first? Judah. Judah would get the gospel first. It's always been that. Picture shown from the early 80s: Ahrayah with the 12 tribes sign. Prior to this, everybody was primarily just teaching the kingdom of Judah; then the Most High showed Ahrayah about the other tribes.
 
   Precepts:
@@ -854,17 +897,17 @@ Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew Histo
 **[Romans 11:17-21](/bible/romans/11#v17)**  *[[2:47:16](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=10036s)]*
 
 > <sup>[17](/bible/romans/11#v17)</sup> And if some of the branches be broken off, and thou, being a wild olive tree, wert graffed in among them, and with them partakest of the root and fatness of the olive tree;
->
+
+- And if some of the branches be broken off: that's Judah broken off. And thou, being a wild olive tree, wert graffed in among them: that's what we just read in Ezekiel 37.
+
 > <sup>[18](/bible/romans/11#v18)</sup> Boast not against the branches. But if thou boast, thou bearest not the root, but the root thee.
->
+
+- Boast not against the branches: don't boast against Judah. But if thou boast, thou bearest not the root, but the root thee: the root is Christ. Christ is the one that keeps the northern kingdom graffed in with Judah.
+
 > <sup>[19](/bible/romans/11#v19)</sup> Thou wilt say then, The branches were broken off, that I might be graffed in.
 >
 > <sup>[20](/bible/romans/11#v20)</sup> Well; because of unbelief they were broken off, and thou standest by faith. Be not highminded, but fear:
->
-> <sup>[21](/bible/romans/11#v21)</sup> For if God spared not the natural branches, take heed lest he also spare not thee.
 
-- And if some of the branches be broken off: that's Judah broken off. And thou, being a wild olive tree, wert graffed in among them: that's what we just read in Ezekiel 37.
-- Boast not against the branches: don't boast against Judah. But if thou boast, thou bearest not the root, but the root thee: the root is Christ. Christ is the one that keeps the northern kingdom graffed in with Judah.
 - Thou wilt say then, The branches were broken off, that I might be graffed in. Well; because of unbelief they were broken off: Judah's unbelief caused them to be broken off. And thou standest by faith. Be not highminded, but fear. Where did we read that? Zechariah 12:7: that they do not magnify themselves against Judah. That magnify is telling you: don't be highminded. Don't boast.
 
   Precepts:
@@ -879,6 +922,8 @@ Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew Histo
 
     Take thee one stick, and write upon it, For Judah; then take another stick, and write upon it, For Joseph, the stick of Ephraim; and join them one to another into one stick. That's the grafting: and they shall become one in thine hand.
 
+> <sup>[21](/bible/romans/11#v21)</sup> For if God spared not the natural branches, take heed lest he also spare not thee.
+
 **[Revelation 7:1-8](/bible/revelation/7#v1)**  *[[2:51:23](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=10283s)]*
 
 > <sup>[1](/bible/revelation/7#v1)</sup> And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree.
@@ -886,18 +931,11 @@ Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew Histo
 > <sup>[2](/bible/revelation/7#v2)</sup> And I saw another angel ascending from the east, having the seal of the living God: and he cried with a loud voice to the four angels, to whom it was given to hurt the earth and the sea,
 >
 > <sup>[3](/bible/revelation/7#v3)</sup> Saying, Hurt not the earth, neither the sea, nor the trees, till we have sealed the servants of our God in their foreheads.
->
-> <sup>[4](/bible/revelation/7#v4)</sup> And I heard the number of them which were sealed: and there were sealed an hundred and forty and four thousand of all the tribes of the children of Israel.
->
-> <sup>[5](/bible/revelation/7#v5)</sup> Of the tribe of Juda were sealed twelve thousand. Of the tribe of Reuben were sealed twelve thousand. Of the tribe of Gad were sealed twelve thousand.
->
-> <sup>[6](/bible/revelation/7#v6)</sup> Of the tribe of Aser were sealed twelve thousand. Of the tribe of Nepthalim were sealed twelve thousand. Of the tribe of Manasses were sealed twelve thousand.
->
-> <sup>[7](/bible/revelation/7#v7)</sup> Of the tribe of Simeon were sealed twelve thousand. Of the tribe of Levi were sealed twelve thousand. Of the tribe of Issachar were sealed twelve thousand.
->
-> <sup>[8](/bible/revelation/7#v8)</sup> Of the tribe of Zabulon were sealed twelve thousand. Of the tribe of Joseph were sealed twelve thousand. Of the tribe of Benjamin were sealed twelve thousand.
 
 - Hurt not the earth, neither the sea, nor the trees, till we have sealed the servants of our God in their foreheads: don't let war pop off to the max until the servants of God are sealed with the law of God in Christ.
+
+> <sup>[4](/bible/revelation/7#v4)</sup> And I heard the number of them which were sealed: and there were sealed an hundred and forty and four thousand of all the tribes of the children of Israel.
+
 - And there were sealed an hundred and forty and four thousand of all the tribes of the children of Israel: these are the leaders here; 144,000 is just the leading men. In order for them to be sealed, they got to know who they are, at least to some extent. So how you going to read that and be confused about the 12 tribes? You just read all of the tribes there. You can't make this stuff up.
 
   Precepts:
@@ -909,6 +947,14 @@ Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew Histo
     > <sup>[16](/bible/isaiah/8#v16)</sup> Bind up the testimony, seal the law among my disciples.
 
     Bind up the testimony, seal the law among my disciples. That's the seal of the living God.
+
+> <sup>[5](/bible/revelation/7#v5)</sup> Of the tribe of Juda were sealed twelve thousand. Of the tribe of Reuben were sealed twelve thousand. Of the tribe of Gad were sealed twelve thousand.
+>
+> <sup>[6](/bible/revelation/7#v6)</sup> Of the tribe of Aser were sealed twelve thousand. Of the tribe of Nepthalim were sealed twelve thousand. Of the tribe of Manasses were sealed twelve thousand.
+>
+> <sup>[7](/bible/revelation/7#v7)</sup> Of the tribe of Simeon were sealed twelve thousand. Of the tribe of Levi were sealed twelve thousand. Of the tribe of Issachar were sealed twelve thousand.
+>
+> <sup>[8](/bible/revelation/7#v8)</sup> Of the tribe of Zabulon were sealed twelve thousand. Of the tribe of Joseph were sealed twelve thousand. Of the tribe of Benjamin were sealed twelve thousand.
 
 **[Psalms 122:1-6](/bible/psalms/122#v1)**  *[[2:55:28](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=10528s)]*
 
@@ -1002,20 +1048,23 @@ Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew Histo
 
 **[Isaiah 11:10-14](/bible/isaiah/11#v10)**  *[[3:07:58](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=11278s)]*
 
+- In that day there shall be a root of Jesse, which shall stand for an ensign of the people; to it shall the Gentiles seek. So Christ is that ensign, and the Gentiles shall seek to Christ. This is a good scripture to explain Gentiles in conjunction with Matthew 4:15.
+
+- The Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria (that's Turkey), and from Egypt (that's in Africa), and from Pathros (Sudan), and from Cush (Ethiopia), and from Elam (Iran, Pakistan), and from Shinar (Iraq), and from Hamath (Syria), and from the islands of the sea (Puerto Rico, Haiti, the Pacific Islands).
+
 > <sup>[10](/bible/isaiah/11#v10)</sup> And in that day there shall be a root of Jesse, which shall stand for an ensign of the people; to it shall the Gentiles seek: and his rest shall be glorious.
 >
 > <sup>[11](/bible/isaiah/11#v11)</sup> And it shall come to pass in that day, that the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea.
 >
 > <sup>[12](/bible/isaiah/11#v12)</sup> And he shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.
->
-> <sup>[13](/bible/isaiah/11#v13)</sup> The envy also of Ephraim shall depart, and the adversaries of Judah shall be cut off: Ephraim shall not envy Judah, and Judah shall not vex Ephraim.
->
-> <sup>[14](/bible/isaiah/11#v14)</sup> But they shall fly upon the shoulders of the Philistines toward the west; they shall spoil them of the east together: they shall lay their hand upon Edom and Moab; and the children of Ammon shall obey them.
 
-- In that day there shall be a root of Jesse, which shall stand for an ensign of the people; to it shall the Gentiles seek. So Christ is that ensign, and the Gentiles shall seek to Christ. This is a good scripture to explain Gentiles in conjunction with Matthew 4:15.
-- The Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria (that's Turkey), and from Egypt (that's in Africa), and from Pathros (Sudan), and from Cush (Ethiopia), and from Elam (Iran, Pakistan), and from Shinar (Iraq), and from Hamath (Syria), and from the islands of the sea (Puerto Rico, Haiti, the Pacific Islands).
 - And shall assemble the outcasts of Israel: notice what he's calling the Gentiles, the outcasts of Israel. And gather together the dispersed of Judah from the four corners of the earth.
+
+> <sup>[13](/bible/isaiah/11#v13)</sup> The envy also of Ephraim shall depart, and the adversaries of Judah shall be cut off: Ephraim shall not envy Judah, and Judah shall not vex Ephraim.
+
 - The envy also of Ephraim shall depart: nobody's going to be saved if you got a hateful spirit for your brother. Ephraim shall not envy Judah, and Judah shall not vex Ephraim. All right, brothers. That's it. 12 tribes. 12 tribes. 12 tribes.
+
+> <sup>[14](/bible/isaiah/11#v14)</sup> But they shall fly upon the shoulders of the Philistines toward the west; they shall spoil them of the east together: they shall lay their hand upon Edom and Moab; and the children of Ammon shall obey them.
 
 ## In Closing
 

@@ -2,7 +2,7 @@
 title: "Before The End Comes"
 slug: "2026/2026-07-15-before-the-end-comes"
 date: "2026-07-15"
-teacher: "Captain Yahoshua"
+teacher: "Captain Yehoshua"
 description: "15 Minutes w/ The Captains · 2026-07-15"
 tags: ["15 Minutes w/ The Captains", "adversity", "christ", "heaven-hell", "prophecy", "war"]
 ---
@@ -33,16 +33,16 @@ tags: ["15 Minutes w/ The Captains", "adversity", "christ", "heaven-hell", "prop
 **[Matthew 24:6-8](/bible/matthew/24#v6)**  *[[1:21](https://www.youtube.com/watch?v=dOgX2d7Zncw&t=81s)]*
 
 > <sup>[6](/bible/matthew/24#v6)</sup> And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.
->
-> <sup>[7](/bible/matthew/24#v7)</sup> For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.
->
-> <sup>[8](/bible/matthew/24#v8)</sup> All these are the beginning of sorrows.
 
 - Ye shall hear of wars and rumours of wars: that's what we're hearing about right now. Russia, Ukraine, China, Taiwan, America and Israel versus Iran.
 
 - See that ye be not troubled: for all these things must come to pass, but the end is not yet.
 
+> <sup>[7](/bible/matthew/24#v7)</sup> For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.
+
 - Famines, and pestilences: sicknesses. And earthquakes, in divers places: all over the world.
+
+> <sup>[8](/bible/matthew/24#v8)</sup> All these are the beginning of sorrows.
 
 - All these are the beginning of sorrows: this is the beginning of the end, not the end of the end. What Christ is describing in Matthew 24 are the events that lead up to his return. The wars, rumours of wars and pestilence all go into the fourth seal.
 
@@ -74,12 +74,12 @@ tags: ["15 Minutes w/ The Captains", "adversity", "christ", "heaven-hell", "prop
 **[Matthew 24:21-22](/bible/matthew/24#v21)**  *[[4:26](https://www.youtube.com/watch?v=dOgX2d7Zncw&t=266s)]*
 
 > <sup>[21](/bible/matthew/24#v21)</sup> For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be.
->
-> <sup>[22](/bible/matthew/24#v22)</sup> And except those days should be shortened, there should no flesh be saved: but for the elect’s sake those days shall be shortened.
 
 - Then shall be great tribulation: that's what Christ tells us we must go through. It will come upon our people.
 
 - Such as was not since the beginning of the world to this time, no, nor ever shall be: Christ tells us in red letters there's going to be a time on earth worse than any time in the past. The affliction we went through in Assyria, the oppression of the Egyptians, the way they hunted us down during the time of the Greeks, the way they lynched our brothers in the Roman captivity like they did Christ, the time of slavery: it's going to be worse than that.
+
+> <sup>[22](/bible/matthew/24#v22)</sup> And except those days should be shortened, there should no flesh be saved: but for the elect’s sake those days shall be shortened.
 
 - But for the elect's sake: and Israel is the elect. Those days shall be shortened: it's going to be so bad on the earth that the Lord is going to have to intervene to shorten the days. So if we think ICE is bad, ICE is just the tip of the iceberg.
 
@@ -89,14 +89,14 @@ tags: ["15 Minutes w/ The Captains", "adversity", "christ", "heaven-hell", "prop
 **[Revelation 6:9-11](/bible/revelation/6#v9)**  *[[5:43](https://www.youtube.com/watch?v=dOgX2d7Zncw&t=343s)]*
 
 > <sup>[9](/bible/revelation/6#v9)</sup> And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held:
->
-> <sup>[10](/bible/revelation/6#v10)</sup> And they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth?
->
-> <sup>[11](/bible/revelation/6#v11)</sup> And white robes were given unto every one of them; and it was said unto them, that they should rest yet for a little season, until their fellowservants also and their brethren, that should be killed as they were, should be fulfilled.
 
 - The souls of them that were slain for the word of God: brothers and sisters that were martyred, killed for the word of God. These days have not come upon the earth as yet.
 
 - How long, O Lord, dost thou not judge and avenge our blood: those that were martyred are asking the Lord, when are you going to avenge us? They did us wrong. When are you going to go back and get our brothers so we can rebuild our kingdom?
+
+> <sup>[10](/bible/revelation/6#v10)</sup> And they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth?
+>
+> <sup>[11](/bible/revelation/6#v11)</sup> And white robes were given unto every one of them; and it was said unto them, that they should rest yet for a little season, until their fellowservants also and their brethren, that should be killed as they were, should be fulfilled.
 
 - White robes were given unto every one of them: white robes are our glorified angelic bodies. That they should rest yet for a little season: they're going to stay in paradise for a little bit of time.
 
@@ -150,14 +150,14 @@ tags: ["15 Minutes w/ The Captains", "adversity", "christ", "heaven-hell", "prop
 **[Revelation 6:12-14](/bible/revelation/6#v12)**  *[[10:48](https://www.youtube.com/watch?v=dOgX2d7Zncw&t=648s)]*
 
 > <sup>[12](/bible/revelation/6#v12)</sup> And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood;
->
-> <sup>[13](/bible/revelation/6#v13)</sup> And the stars of heaven fell unto the earth, even as a fig tree casteth her untimely figs, when she is shaken of a mighty wind.
->
-> <sup>[14](/bible/revelation/6#v14)</sup> And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places.
 
 - There was a great earthquake: an earthquake from what? From bombs on the earth.
 
 - The sun became black as sackcloth of hair, and the moon became as blood: the same thing Christ just described, issues with the sun and the moon, from bombs dropping all throughout the earth. And the stars of heaven fell unto the earth: bombs falling on the earth.
+
+> <sup>[13](/bible/revelation/6#v13)</sup> And the stars of heaven fell unto the earth, even as a fig tree casteth her untimely figs, when she is shaken of a mighty wind.
+>
+> <sup>[14](/bible/revelation/6#v14)</sup> And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places.
 
 - The heaven departed as a scroll: going in the twofold, the heaven is talking about the people in rulership. What's going to happen to the people in rulership? Bombs will drop, those mushroom clouds will come up, and these empires will be destroyed.
 

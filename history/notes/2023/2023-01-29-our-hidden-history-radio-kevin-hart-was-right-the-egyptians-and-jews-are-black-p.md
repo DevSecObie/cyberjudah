@@ -42,7 +42,7 @@ Reading from an article, *Kevin Hart Criticized for Allegedly Saying Egyptians W
 
 - They search out iniquities, they accomplish a diligent search. So they have the finances, they have the institutions to train up people to search out iniquities. That's why America is a conglomerate of all ancient civilizations packed together in one package called United States: of all countries, all nations, all religions, all worship and idols of different gods.
 
-- Read that again. They search out iniquities, they accomplish a diligent search. They search out iniquities: they went all the way back to ancient Babylon, they went back to ancient Egypt, Assyria. They adopt their policies, their customs.
+- They search out iniquities, they accomplish a diligent search. They search out iniquities: they went all the way back to ancient Babylon, they went back to ancient Egypt, Assyria. They adopt their policies, their customs.
 
 - Both the inward thought of every one of them, and the heart, is deep. So they search out iniquities, they do a diligent search. That's your archaeologists, your scholars. They go into these books, they go into these different fields, and they travel to Egypt, they go to the tombs. You have one prominent individual named François Champollion; he was hired in order to translate the Rosetta Stone, and from there they was able to decipher all the ancient Egyptian artifacts and the wall paintings, as well as the writings on the wall. So they do a diligent search. They take their time in searching out iniquity, to keep us in darkness. So now let's go back to the article.
 
@@ -56,7 +56,7 @@ Reading from an article, *Kevin Hart Criticized for Allegedly Saying Egyptians W
 
 > Kevin Hart may have found himself in the crosshairs of cancel culture again. The comedy box office star is currently globetrotting on his Reality Check Comedy Tour. On December 9th he announced that he will be bringing the show to Cairo, Egypt. The performance is scheduled to take place at the Cairo Indoor Stadium on February 21st. It will mark the comedian's first time doing stand-up in the ancient city known as the home of the Pyramids of Giza. While Hart is finishing up the North American leg of the junket, he is already being slammed by fans in Africa for an alleged joke.
 
-- Wait, can we read that part? He's being slammed by fans where? In Africa. Wait a minute. In Africa? So I thought Africa was a black continent. The hell is this? Keep going.
+- Wait, can we read that part? He's being slammed by fans where? In Africa. Wait a minute. In Africa? So I thought Africa was a black continent. The hell is this?
 
 > According to the Middle East Eye, the entertainment mogul is accused of saying that the ancient Egyptians were black.
 
@@ -76,7 +76,7 @@ Reading from an article, *Kevin Hart Criticized for Allegedly Saying Egyptians W
 
 - So the books and records that we pull up, that we reference, is white eyes only. Meaning it was constructed by white people and written by white scholars, based upon their research. They did a work, they went and traveled and they documented. And a lot of the books that you buy, it says: to Charles, to Billy Thornton, to Billy Graham, whatever the name are. It was written as gifts to each other. And you know why they sent it to each other? So that they can properly educate their children, further the next generation, so the children know how to deal with us, how to deal with the information, and to know what they know.
 
-- Read it again. For the truth is fled far away, and leasing is hard at hand: for now hasteth the vision to come, which thou hast seen. Get me Isaiah 29:21.
+- For the truth is fled far away, and leasing is hard at hand: for now hasteth the vision to come, which thou hast seen. Get me Isaiah 29:21.
 
 **[Isaiah 29:21](/bible/isaiah/29#v21)**  *[[14:30](https://www.youtube.com/watch?v=zeCthlblAcg&t=870s)]*
 
@@ -88,7 +88,7 @@ Reading from an article, *Kevin Hart Criticized for Allegedly Saying Egyptians W
 
 - But you have people spending money, you have people going all the way out their way, for people that they deem to be nobodies, to be irrelevant. If we're a cult, why put so much attention into us? Why invest so much money into us? Why develop a task force based upon us? Why have meetings based upon us? Because he knows the truth, and the truth is coming out.
 
-- Now read it again. That make a man an offender for a word. So just based upon us saying that the Israelites are black, they deem it anti-Semitic or hate speech. For Kevin Hart saying the very simple fact that the ancient Egyptians were African, are Africans, they're threatening to cancel his show in Cairo, Egypt. Now if I was him, I'd say the hell with this show, I got enough money as well as investments, and I don't need to joke. Because the black man has a voice only to entertain, that's it. Give me Psalm chapter 137.
+- That make a man an offender for a word. So just based upon us saying that the Israelites are black, they deem it anti-Semitic or hate speech. For Kevin Hart saying the very simple fact that the ancient Egyptians were African, are Africans, they're threatening to cancel his show in Cairo, Egypt. Now if I was him, I'd say the hell with this show, I got enough money as well as investments, and I don't need to joke. Because the black man has a voice only to entertain, that's it. Give me Psalm chapter 137.
 
 - **Officer:** That's all we good for, cap. Don't speak truth, don't speak knowledge. It's imprisonment, because our identity is stuck in a television screen. So you're in a box. The only time you get light is when you in that box. Outside of that box you cannot speak your mind. So it's still a trap. You're still in prison, even though you think you have a voice.
 
@@ -168,7 +168,7 @@ Reading from an article, *Kevin Hart Criticized for Allegedly Saying Egyptians W
 
 > Kevin Hart is not welcome in Egypt. You aren't welcome to Egypt.
 
-- Wow. So Kevin Hart is not welcome in Egypt, they said. Like I said before: you're not welcome to Egypt. You were given the Arab countries in the so-called Middle East. That was your blessing, Ishmael. So go back there. You were given that; God blessed you with those regions. God gave you your own place. He divides the nations and gave it according to the bounds of the children of Israel.
+- So Kevin Hart is not welcome in Egypt, they said. Like I said before: you're not welcome to Egypt. You were given the Arab countries in the so-called Middle East. That was your blessing, Ishmael. So go back there. You were given that; God blessed you with those regions. God gave you your own place. He divides the nations and gave it according to the bounds of the children of Israel.
 
 > Egyptians aren't Africans. We're the real builders.
 
@@ -208,11 +208,11 @@ Reading from an article, *Kevin Hart Criticized for Allegedly Saying Egyptians W
 
 > You aren't welcome to Egypt. Egyptians aren't Africans. We're the real builders of the civilization, no one else. The Afrocentric is just a lie.
 
-- Wow. That's why we read the scripture earlier: leasing is hard at hand.
+- That's why we read the scripture earlier: leasing is hard at hand.
 
 > Dear liars, Egypt is our land, not the Africans.
 
-- The boldness of these people. Wow. So they're a lie? So history is a lie?
+- The boldness of these people. So they're a lie? So history is a lie?
 
 - Now go down. For the Afrocentric people, right there, says a lot. There's no such thing. No proof, huh? We have all the proof. We're showing them, but they just say it's a lie and we're supposed to believe it.
 
@@ -222,7 +222,7 @@ Reading from an article, *Kevin Hart Criticized for Allegedly Saying Egyptians W
 
 > Egyptians are black. Kevin Hart is right.
 
-- Okay. Is there anything else on that? Go down. So people are promoted and shown evidence, facts.
+- Is there anything else on that? So people are promoted and shown evidence, facts.
 
 > Neither Hart, 43, nor his team have publicly addressed the matter at the time.
 
@@ -308,7 +308,7 @@ Reading from Wikipedia, *18th Dynasty of Egypt*  *[[44:26](https://www.youtube.c
 
 - **Deacon Eythan:** Yeah, exactly. Like America. And that's why they didn't want to let their prisoners go. Why don't they want to let us go? Because we bless them. And now when we get delivered, guess what happens? It crumbles, it falls. We're like Miracle-Gro: everything we touch, it grows, it flourishes.
 
-- Now go down, let's go to these different kings. Actually, go through some of the pictures. I want to show you something before we go. Go up, go up. And this is just Wikipedia. Can you zoom in on some of these pictures? Now I didn't have this, but zoom in. Yeah, just zoom in on the screen, you can just click on them. Damn, look: these are black people. What? And this is on the World Wide Web, on Wikipedia. Go to the next image. Black people. Where's the Arabs? Where's the Caucasian? Go to the next image.
+- Now go down, let's go to these different kings. Actually, go through some of the pictures. I want to show you something before we go. And this is just Wikipedia. Can you zoom in on some of these pictures? Now I didn't have this, but zoom in. Yeah, just zoom in on the screen, you can just click on them. Damn, look: these are black people. What? And this is on the World Wide Web, on Wikipedia. Go to the next image. Black people. Where's the Arabs? Where's the Caucasian? Go to the next image.
 
 - **Officer:** Hey cap, somebody in the comments, they say: I don't see the Egyptians wearing turbans.
 
@@ -326,11 +326,11 @@ Reading from Wikipedia, *18th Dynasty of Egypt*  *[[44:26](https://www.youtube.c
 
 - **Officer:** Years ago I was able to prove and show the genetic lineage of all the US presidents, to show that they were related to each other one way or the other. Like King George or something. Hey, see if you can find that real quick. It was a YouTube video, showing that every single one was interconnected, from Obama: that one of his cousins was interconnected with...
 
-- **Deacon Eythan:** So all of them keep it within the family line. Even when you go back into the Medici family that ruled over Rome, all the popes, I'll say it again, all of the popes of the Medici family, they were all family. All the cardinals, the popes, all of them were ruled within the same family. Esau believes in intermarriage, to marry within each other, or what is it called? What do they call that again? Incest. Thank you. They keep it in the family. Just like you have your Rothschilds, your Rockefellers, and all of them. They married their cousins. They keep it in the family. That's always been a common practice of the elites, to marry within the families.
+- **Deacon Eythan:** So all of them keep it within the family line. Even when you go back into the Medici family that ruled over Rome, all the popes, I'll say it again, all of the popes of the Medici family, they were all family. All the cardinals, the popes, all of them were ruled within the same family. Esau believes in intermarriage, to marry within each other, or what is it called? What do they call that again? Incest. They keep it in the family. Just like you have your Rothschilds, your Rockefellers, and all of them. They married their cousins. They keep it in the family. That's always been a common practice of the elites, to marry within the families.
 
 - **Officer:** That's why the Most High, when he gave us the laws, he said do not after the customs of these Egyptians. That's why he gave us the law on fornication, because they were prominent in incest, in doing these things. Homosexuality and all that.
 
-- **Deacon Eythan:** Oh, you found the video? About the presidents? Okay. Can we read that real quick? Leviticus 18.
+- **Deacon Eythan:** Oh, you found the video? About the presidents? Can we read that real quick? Leviticus 18.
 
 - **Officer:** That's the reason why the Most High said that, and that's where they get that from. Remember, Esau is heavy into studying Egypt. He took all their customs.
 
@@ -346,13 +346,11 @@ Reading from Wikipedia, *18th Dynasty of Egypt*  *[[44:26](https://www.youtube.c
 >
 > <sup>[3](/bible/leviticus/18#v3)</sup> After the doings of the land of Egypt, wherein ye dwelt, shall ye not do: and after the doings of the land of Canaan, whither I bring you, shall ye not do: neither shall ye walk in their ordinances.
 
-- Right. So that's what the Egyptians was doing. So the Lord says, you coming out of those dynasties, don't follow and don't do the same thing that they did. Jump to verse 9.
+- So that's what the Egyptians was doing. So the Lord says, you coming out of those dynasties, don't follow and don't do the same thing that they did. Jump to verse 9.
 
 **[Leviticus 18:9-11](/bible/leviticus/18#v9)**  *[[52:47](https://www.youtube.com/watch?v=zeCthlblAcg&t=3167s)]*
 
 > <sup>[9](/bible/leviticus/18#v9)</sup> The nakedness of thy sister, the daughter of thy father, or daughter of thy mother, whether she be born at home, or born abroad, even their nakedness thou shalt not uncover.
-
-- Right.
 
 > <sup>[10](/bible/leviticus/18#v10)</sup> The nakedness of thy son’s daughter, or of thy daughter’s daughter, even their nakedness thou shalt not uncover: for theirs is thine own nakedness.
 
@@ -364,11 +362,11 @@ Reading from Wikipedia, *18th Dynasty of Egypt*  *[[44:26](https://www.youtube.c
 
 - **Officer:** Cesare Borgia did the same thing, having sex with Lucretia Borgia.
 
-- **Deacon Eythan:** Right, right. The hell is this? Incest, common practice.
+- **Deacon Eythan:** The hell is this? Incest, common practice.
 
 - **Officer:** And Captain, even during the Roman Empire, you had Nero married his mom.
 
-- **Deacon Eythan:** Oh shoot, yeah. Herod. I'm telling you, there's a filth going on with these other nations. You got the video? Play it.
+- **Deacon Eythan:** Oh shoot, yeah. Herod. I'm telling you, there's a filth going on with these other nations. You got the video?
 
 <div class="reading">
 
@@ -410,7 +408,7 @@ Reading from a news clip played on air, on a girl who traced the presidents' fam
 
 - **Deacon Eythan:** Yeah. Now give me the article, Pharaohs in the Bible. No, you don't need that. Look how big he was. Get me *The Negro*. So we're going to touch that too. Notice how all of them were towering over everybody else. So let's get the book *The Negro*.
 
-- **Officer:** Oh, okay. You about to go to that, cap?
+- **Officer:** You about to go to that, cap?
 
 - **Deacon Eythan:** Yeah, we about to go there. We about to go in.
 
@@ -418,11 +416,11 @@ Reading from a news clip played on air, on a girl who traced the presidents' fam
 
 - **Deacon Eythan:** So this is *The Negro* by W.E.B. Du Bois. Let's get to the first page: Ethiopia, Egypt. Another black scholar. Another black scholar. We're going to touch your white scholars too, don't worry about that. We haven't forgot about your white man.
 
-- **Officer:** Right, right. We understand that black scholars' information ain't the same. It's not the same. You know, their ice is not colder than the white man's ice. This sugar is not sweet, it's the white man's sugar. So that's always the thought process.
+- **Officer:** We understand that black scholars' information ain't the same. It's not the same. You know, their ice is not colder than the white man's ice. This sugar is not sweet, it's the white man's sugar. So that's always the thought process.
 
 - **Deacon Eythan:** And I think somebody did say that. They said, oh, where'd you get that book from? Well, that's a black scholar, we don't accept that information. So you notice how, we have a lot more evidence or books that we can go into, but we purposely touch books prior to the 1860s by white scholars, because we understand the mentality and the mindset of a Negro: that they'll only accept information that comes from the white man.
 
-- **Officer:** Right. You need a white man's validation.
+- **Officer:** You need a white man's validation.
 
 - **Deacon Eythan:** Exactly. White man's validation.
 
@@ -430,7 +428,7 @@ Reading from a news clip played on air, on a girl who traced the presidents' fam
 
 - **Deacon Eythan:** Exactly. But we got something for you too.
 
-- **Officer:** Okay, okay. All right, all right. Bring it out. Bring out the serve.
+- **Officer:** Bring it out. Bring out the serve.
 
 - **Deacon Eythan:** All right, let's go now. So let's go down. Right there.
 
@@ -446,11 +444,9 @@ Reading from *The Negro* by W.E.B. Du Bois, on Ethiopia and Egypt  *[[1:02:20](h
 
 - **Officer:** A video of a kid riding a bike: the kid was talking junk to the kid, went, took his bike, he ran off. He turned around, then he did like a Ghost Rider, knocked the kid out and got right back on the bike. That's what we're going to do. We're going to turn it right back around, do the Ghost Ride, knock you out and get right back on the bike.
 
-- **Deacon Eythan:** Right.
-
 - **Officer:** And that's what's being done too. You know, we dealing with Esau. Want to put his mouth in our business. So you got to slap him up and get back on track. Mind your business.
 
-- **Deacon Eythan:** So now let's go on. Keep reading.
+- **Deacon Eythan:** So now let's go on.
 
 > despite strong influences from all parts of Asia.
 
@@ -486,13 +482,13 @@ Reading from *The Negro* by W.E.B. Du Bois, on Ethiopia and Egypt  *[[1:02:20](h
 
 > <sup>[19](/bible/exodus/2#v19)</sup> And they said, An Egyptian delivered us out of the hand of the shepherds, and also drew water enough for us, and watered the flock.
 
-- So they said an Egyptian delivered us from the hand of the shepherds. You got the Moses image? He sent it to them. Read that again. And they said, an Egyptian delivered us out of the hand of the shepherds. So, an Egyptian. So evidently, obviously, Moses was mistaken as an Egyptian. Read, come on.
+- So they said an Egyptian delivered us from the hand of the shepherds. You got the Moses image? He sent it to them. And they said, an Egyptian delivered us out of the hand of the shepherds. So, an Egyptian. So evidently, obviously, Moses was mistaken as an Egyptian.
 
 - So now we have a book called *The Icons*. Go back to the front of the book so they see this. *The Icons*, so everybody can see. Those of you that don't have it, I don't know how much it costs right now, but I got that book a long time ago for like 38 or something like that. It's probably in the hundreds now, even if you could find it.
 
 - **Officer:** I paid nearly 200 for that one, about seven years ago.
 
-- **Deacon Eythan:** That's your fault. But if you're able to obtain this book, man, by any means, grab it. A lot of gems. Now let's go to Moses. That's not it. Come on. Right there. Go back. Right there. Let's enlarge that. Let's go to the bottom, let's go to the words.
+- **Deacon Eythan:** That's your fault. But if you're able to obtain this book, man, by any means, grab it. A lot of gems. Now let's go to Moses. That's not it. Right there. Go back. Right there. Let's enlarge that. Let's go to the bottom, let's go to the words.
 
 <div class="reading">
 
@@ -528,7 +524,7 @@ Reading from *The Negro* by W.E.B. Du Bois, on Ethiopia and Egypt, continued  *[
 
 > Egyptian monuments show distinctly Negro and mulatto faces.
 
-- What? Read it again. The Egyptian monuments show distinctly, I'll say it again, show distinctly Negro and mulatto faces. Go on.
+- What? The Egyptian monuments show distinctly, I'll say it again, show distinctly Negro and mulatto faces. Go on.
 
 > Herodotus, in an incontrovertible passage, alludes to the Egyptians as black and curly haired,
 
@@ -550,7 +546,7 @@ Reading from *The Negro* by W.E.B. Du Bois, on Ethiopia and Egypt, continued  *[
 
 - **Deacon Eythan:** Do what you got to do.
 
-- **Officer:** Now let's just prove to this bastard son: got to know your daddy was black. Yo daddy was black. Give me Wisdom of Solomon 1 and 5. Let's prove to this bastard. You got to watch what you say. I know you don't respect your daddy. Why? Because he was black. You got mouth right now. Read that.
+- **Officer:** Now let's just prove to this bastard son: got to know your daddy was black. Yo daddy was black. Give me Wisdom of Solomon 1 and 5. Let's prove to this bastard. You got to watch what you say. I know you don't respect your daddy. Why? Because he was black. You got mouth right now.
 
 </div>
 
@@ -558,7 +554,7 @@ Reading from *The Negro* by W.E.B. Du Bois, on Ethiopia and Egypt, continued  *[
 
 > <sup>[5](/bible/wisdom-of-solomon/1#v5)</sup> For the holy spirit of discipline will flee deceit, and remove from thoughts that are without understanding, and will not abide when unrighteousness cometh in.
 
-- I'm sorry, I'm sorry. Song of Solomon. Song of Solomon chapter 1 verse 5. Bring it out.
+- Song of Solomon. Song of Solomon chapter 1 verse 5. Bring it out.
 
 **[Song of Solomon 1:5](/bible/song-of-solomon/1#v5)**  *[[1:15:10](https://www.youtube.com/watch?v=zeCthlblAcg&t=4510s)]*
 
@@ -576,7 +572,7 @@ Reading from search results read on air, on Hagar and on the meaning of Kedar  *
 
 > Hagar, a handmaiden of Sarah, then known as Sarai, whom Sarah gave to her own husband Abram, later renamed Abraham, as a wife to bear him a child. Abraham's firstborn son through Hagar, Ishmael, became the progenitor of the Ishmaelites, generally taken to be the Arabs.
 
-- Generally taken to be the Arabs, right. So the Arabs: now your forefather is Abraham, a black man. Right. Let's go further. Give me the other one I sent you. Let's go to the meaning of Kedar, because Kedar is ancient Arabia, where the Arabs dwell. Let's look at what it says. Blow it up some more.
+- Generally taken to be the Arabs, right. So the Arabs: now your forefather is Abraham, a black man. Let's go further. Give me the other one I sent you. Let's go to the meaning of Kedar, because Kedar is ancient Arabia, where the Arabs dwell. Let's look at what it says. Blow it up some more.
 
 > Kedar, meaning dark.
 
@@ -598,7 +594,7 @@ Reading from search results read on air, on Hagar and on the meaning of Kedar  *
 
 ## In Closing
 
-*[[1:18:56](https://www.youtube.com/watch?v=zeCthlblAcg&t=4736s)]* That's it. That's exactly. So we're going to go to a commercial break. We're going to go to a quick commercial break and we're going to come back. And we're going to open the phone lines. So we're going to take a five minute break. Five minute break. So if you want to call in, you can call in at 267-702-6121 once we get back. If you want to call in, you can call in at 267-702-6121. All right.
+*[[1:18:56](https://www.youtube.com/watch?v=zeCthlblAcg&t=4736s)]* That's it. That's exactly. So we're going to go to a commercial break. We're going to go to a quick commercial break and we're going to come back. And we're going to open the phone lines. So we're going to take a five minute break. Five minute break. So if you want to call in, you can call in at 267-702-6121 once we get back. If you want to call in, you can call in at 267-702-6121.
 
 <div class="reading">
 

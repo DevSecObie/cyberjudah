@@ -45,21 +45,21 @@ tags: ["15 Minutes w/ The Captains", "faith", "mental-health", "prayer"]
 
 **[Psalms 13:1-4](/bible/psalms/13#v1)**  *[[3:20](https://www.youtube.com/watch?v=9L4-Sdtalio&t=200s)]*
 
-> <sup>[1](/bible/psalms/13#v1)</sup> How long wilt thou forget me, O Lord? for ever? how long wilt thou hide thy face from me?
->
-> <sup>[2](/bible/psalms/13#v2)</sup> How long shall I take counsel in my soul, having sorrow in my heart daily? how long shall mine enemy be exalted over me?
->
-> <sup>[3](/bible/psalms/13#v3)</sup> Consider and hear me, O Lord my God: lighten mine eyes, lest I sleep the sleep of death;
->
-> <sup>[4](/bible/psalms/13#v4)</sup> Lest mine enemy say, I have prevailed against him; and those that trouble me rejoice when I am moved.
-
 - Let's go to David.
+
+> <sup>[1](/bible/psalms/13#v1)</sup> How long wilt thou forget me, O Lord? for ever? how long wilt thou hide thy face from me?
 
 - How long wilt thou forget me, O LORD: you see what David prayed? David said, how long are you going to forget me, God? How many of us have said that?
 
 - How long wilt thou hide thy face from me: how long you going to hide your face from me, God? I'm going through so much. I don't know what to do.
 
 - So David felt unheard.
+
+> <sup>[2](/bible/psalms/13#v2)</sup> How long shall I take counsel in my soul, having sorrow in my heart daily? how long shall mine enemy be exalted over me?
+>
+> <sup>[3](/bible/psalms/13#v3)</sup> Consider and hear me, O Lord my God: lighten mine eyes, lest I sleep the sleep of death;
+>
+> <sup>[4](/bible/psalms/13#v4)</sup> Lest mine enemy say, I have prevailed against him; and those that trouble me rejoice when I am moved.
 
 
 **[Job 30:20-21](/bible/job/30#v20)**  *[[4:31](https://www.youtube.com/watch?v=9L4-Sdtalio&t=271s)]*
@@ -77,10 +77,14 @@ tags: ["15 Minutes w/ The Captains", "faith", "mental-health", "prayer"]
 
 **[Lamentations 3:1-8](/bible/lamentations/3#v1)**  *[[5:50](https://www.youtube.com/watch?v=9L4-Sdtalio&t=350s)]*
 
+- Let's see what Jeremiah said. Let's see if Jeremiah felt those same thoughts that we feel today. We feel like our prayer is pointless.
+
 > <sup>[1](/bible/lamentations/3#v1)</sup> I am the man that hath seen affliction by the rod of his wrath.
 >
 > <sup>[2](/bible/lamentations/3#v2)</sup> He hath led me, and brought me into darkness, but not into light.
->
+
+- He hath led me, and brought me into darkness, but not into light: Jeremiah said, he has led me into darkness.
+
 > <sup>[3](/bible/lamentations/3#v3)</sup> Surely against me is he turned; he turneth his hand against me all the day.
 >
 > <sup>[4](/bible/lamentations/3#v4)</sup> My flesh and my skin hath he made old; he hath broken my bones.
@@ -93,10 +97,6 @@ tags: ["15 Minutes w/ The Captains", "faith", "mental-health", "prayer"]
 >
 > <sup>[8](/bible/lamentations/3#v8)</sup> Also when I cry and shout, he shutteth out my prayer.
 
-- Let's see what Jeremiah said. Let's see if Jeremiah felt those same thoughts that we feel today. We feel like our prayer is pointless.
-
-- He hath led me, and brought me into darkness, but not into light: Jeremiah said, he has led me into darkness.
-
 - Also when I cry and shout, he shutteth out my prayer: you hear what Jeremiah say? Jeremiah say God ain't hearing us. Jeremiah seeing all this affliction. He send his people in captivity. God ain't hearing us.
 
 
@@ -105,10 +105,6 @@ tags: ["15 Minutes w/ The Captains", "faith", "mental-health", "prayer"]
 > <sup>[13](/bible/psalms/88#v13)</sup> But unto thee have I cried, O Lord; and in the morning shall my prayer prevent thee.
 >
 > <sup>[14](/bible/psalms/88#v14)</sup> Lord, why castest thou off my soul? why hidest thou thy face from me?
->
-> <sup>[15](/bible/psalms/88#v15)</sup> I am afflicted and ready to die from my youth up: while I suffer thy terrors I am distracted.
->
-> <sup>[16](/bible/psalms/88#v16)</sup> Thy fierce wrath goeth over me; thy terrors have cut me off.
 
 - LORD, why castest thou off my soul: y'all hear what he's saying? That's how we feel. Why you cast us off?
 
@@ -116,14 +112,16 @@ tags: ["15 Minutes w/ The Captains", "faith", "mental-health", "prayer"]
 
 - So that's how we feel and pray. We feel like that. Our forefathers felt like that. But what should we do?
 
+> <sup>[15](/bible/psalms/88#v15)</sup> I am afflicted and ready to die from my youth up: while I suffer thy terrors I am distracted.
+>
+> <sup>[16](/bible/psalms/88#v16)</sup> Thy fierce wrath goeth over me; thy terrors have cut me off.
+
 
 **[Psalms 13:5-6](/bible/psalms/13#v5)**  *[[7:51](https://www.youtube.com/watch?v=9L4-Sdtalio&t=471s)]*
 
-> <sup>[5](/bible/psalms/13#v5)</sup> But I have trusted in thy mercy; my heart shall rejoice in thy salvation.
->
-> <sup>[6](/bible/psalms/13#v6)</sup> I will sing unto the Lord, because he hath dealt bountifully with me.
-
 - Now we going to catch the flip side. We caught the first emotions, those carnal emotions. Now we're going to go throughout those same prophets and hear the flip side of those carnal emotions.
+
+> <sup>[5](/bible/psalms/13#v5)</sup> But I have trusted in thy mercy; my heart shall rejoice in thy salvation.
 
 - But I have trusted in thy mercy: what did David do? You got to trust in the Lord. Even in the midst of those feelings, even in the midst of you feeling God ain't hearing you, you got to trust in God.
 
@@ -131,16 +129,18 @@ tags: ["15 Minutes w/ The Captains", "faith", "mental-health", "prayer"]
 
 - You hear what David said? Right after David said he felt unheard, then in verse five he said he did what? Trust in God.
 
+> <sup>[6](/bible/psalms/13#v6)</sup> I will sing unto the Lord, because he hath dealt bountifully with me.
+
 
 **[Job 1:21-22](/bible/job/1#v21)**  *[[8:59](https://www.youtube.com/watch?v=9L4-Sdtalio&t=539s)]*
 
-> <sup>[21](/bible/job/1#v21)</sup> And said, Naked came I out of my mother’s womb, and naked shall I return thither: the Lord gave, and the Lord hath taken away; blessed be the name of the Lord.
->
-> <sup>[22](/bible/job/1#v22)</sup> In all this Job sinned not, nor charged God foolishly.
-
 - Go back to Job. Remember Job questioned God in Job the 30th chapter.
 
+> <sup>[21](/bible/job/1#v21)</sup> And said, Naked came I out of my mother’s womb, and naked shall I return thither: the Lord gave, and the Lord hath taken away; blessed be the name of the Lord.
+
 - Blessed be the name of the LORD: Job blessed the Lord.
+
+> <sup>[22](/bible/job/1#v22)</sup> In all this Job sinned not, nor charged God foolishly.
 
 - In all this Job sinned not: Job did not sin in the midst of affliction. Job did not sin in the midst of oppression. Job did not sin in the midst of him being judged, of him being tried. Job did not sin.
 
@@ -154,15 +154,15 @@ tags: ["15 Minutes w/ The Captains", "faith", "mental-health", "prayer"]
 
 **[Lamentations 3:31-33](/bible/lamentations/3#v31)**  *[[10:03](https://www.youtube.com/watch?v=9L4-Sdtalio&t=603s)]*
 
+- We're going to go back to Jeremiah. The same prophet that said, well, I'm going through these things, God hear me, the same prophet said, I will never stop trusting in God.
+
 > <sup>[31](/bible/lamentations/3#v31)</sup> For the Lord will not cast off for ever:
->
+
+- For the Lord will not cast off for ever: the Lord will not cast off forever.
+
 > <sup>[32](/bible/lamentations/3#v32)</sup> But though he cause grief, yet will he have compassion according to the multitude of his mercies.
 >
 > <sup>[33](/bible/lamentations/3#v33)</sup> For he doth not afflict willingly nor grieve the children of men.
-
-- We're going to go back to Jeremiah. The same prophet that said, well, I'm going through these things, God hear me, the same prophet said, I will never stop trusting in God.
-
-- For the Lord will not cast off for ever: the Lord will not cast off forever.
 
 - For he doth not afflict willingly nor grieve the children of men: he don't afflict willingly, nor grieve the children of men.
 
@@ -172,12 +172,12 @@ tags: ["15 Minutes w/ The Captains", "faith", "mental-health", "prayer"]
 > <sup>[55](/bible/lamentations/3#v55)</sup> I called upon thy name, O Lord, out of the low dungeon.
 >
 > <sup>[56](/bible/lamentations/3#v56)</sup> Thou hast heard my voice: hide not thine ear at my breathing, at my cry.
->
+
+- Thou hast heard my voice: the Lord has heard us.
+
 > <sup>[57](/bible/lamentations/3#v57)</sup> Thou drewest near in the day that I called upon thee: thou saidst, Fear not.
 >
 > <sup>[58](/bible/lamentations/3#v58)</sup> O Lord, thou hast pleaded the causes of my soul; thou hast redeemed my life.
-
-- Thou hast heard my voice: the Lord has heard us.
 
 
 **[Jeremiah 17:7-8](/bible/jeremiah/17#v7)**  *[[11:14](https://www.youtube.com/watch?v=9L4-Sdtalio&t=674s)]*
@@ -208,15 +208,15 @@ tags: ["15 Minutes w/ The Captains", "faith", "mental-health", "prayer"]
 
 **[Isaiah 59:1-2](/bible/isaiah/59#v1)**  *[[14:14](https://www.youtube.com/watch?v=9L4-Sdtalio&t=854s)]*
 
-> <sup>[1](/bible/isaiah/59#v1)</sup> Behold, the Lord’s hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:
->
-> <sup>[2](/bible/isaiah/59#v2)</sup> But your iniquities have separated between you and your God, and your sins have hid his face from you, that he will not hear.
-
 - So all our forefathers, they never stopped trusting the Lord. Never stopped trusting in the Lord. Always reverted back to staying in the spirit. Yeah, you feeling like, damn, I lost my job. My kids going crazy, my husband going crazy, my wife going crazy, whatever the case may be. But what should you never stop doing? Never stop trusting. Never stop praying.
+
+> <sup>[1](/bible/isaiah/59#v1)</sup> Behold, the Lord’s hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:
 
 - Behold, the LORD's hand is not shortened, that it cannot save: the Lord hand ain't short. The Lord say it ain't hard to save you. It ain't hard to stop you from going through troubles. It ain't hard for me.
 
 - Neither his ear heavy, that it cannot hear: ain't nothing cloaking up my ears that I can't hear you cry, that I can't hear you pray. Let's see what's stopping you.
+
+> <sup>[2](/bible/isaiah/59#v2)</sup> But your iniquities have separated between you and your God, and your sins have hid his face from you, that he will not hear.
 
 - But your iniquities have separated between you and your God: your iniquity, your sins. God ain't hearing you because you in sin. God ain't hear you because you really don't trust him. You really don't believe. God ain't hearing you because you still dealing with old things that you says you put away, or you ain't put away yet.
 

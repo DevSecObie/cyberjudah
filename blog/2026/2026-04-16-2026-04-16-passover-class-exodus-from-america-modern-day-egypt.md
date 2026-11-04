@@ -2,7 +2,7 @@
 title: "Passover Class: Exodus From America Modern Day Egypt"
 slug: "2026/2026-04-16-passover-class-exodus-from-america-modern-day-egypt"
 date: "2026-04-16"
-teacher: ""
+teacher: "Deacon Malachiyah"
 description: "IUIC in the ClassRoom · 2026-04-16"
 tags: ["IUIC in the ClassRoom", "adversity", "america-babylon", "captivity", "egypt", "passover-feasts"]
 ---
@@ -103,6 +103,12 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 
 **[Exodus 12:1-17](/bible/exodus/12#v1)**  *[[22:59](https://www.youtube.com/watch?v=VyDEbsxgcas&t=1379s)]*
 
+- This month shall be unto you the beginning of months. In the tenth day of this month they shall take to them every man a lamb, a lamb for an house, a male of the first year, without blemish, and keep it up until the fourteenth day; and the whole assembly of the congregation of Israel shall kill it in the evening. The evening of the fourteenth day is the fifteenth: that is the Passover, and that is what we are celebrating tonight.
+
+- Take of the blood, and strike it on the two side posts and on the upper door post of the houses. Do we do that today? No, and later in the class you will see why; there are brothers on the internet killing lambs and putting the blood on their doorposts today, and we do not do that.
+
+- Eat the flesh in that night, roast with fire, and unleavened bread; and with bitter herbs they shall eat it. The bitter herbs represent that captivity, the bitter bondage and all the evil we went through in ancient Egypt. The unleavened bread represents being without sin.
+
 > <sup>[1](/bible/exodus/12#v1)</sup> And the Lord spake unto Moses and Aaron in the land of Egypt, saying,
 >
 > <sup>[2](/bible/exodus/12#v2)</sup> This month shall be unto you the beginning of months: it shall be the first month of the year to you.
@@ -124,11 +130,21 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 > <sup>[10](/bible/exodus/12#v10)</sup> And ye shall let nothing of it remain until the morning; and that which remaineth of it until the morning ye shall burn with fire.
 >
 > <sup>[11](/bible/exodus/12#v11)</sup> And thus shall ye eat it; with your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste: it is the Lord’s passover.
->
+
+- Eat it with your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste: it is the Lord's passover. You are eating ready to make moves, because the Lord is about to pass over Egypt, smite the Egyptians, and deliver you out of captivity.
+
+- For I will pass through the land of Egypt this night, and will smite all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgment. Imagine that night: every firstborn in the land dropping dead, the whole land screaming. Imagine every firstborn in America dropping dead in one night; that is the picture.
+
 > <sup>[12](/bible/exodus/12#v12)</sup> For I will pass through the land of Egypt this night, and will smite all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgment: I am the Lord.
 >
 > <sup>[13](/bible/exodus/12#v13)</sup> And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy you, when I smite the land of Egypt.
->
+
+- The blood shall be to you for a token: when I see the blood, I will pass over you. Even this is symbolic; that blood is going into something much heavier. Putting the blood over your doorpost showed you believed the Lord. A Hebrew that refused would have been killed along with the Egyptians.
+
+- This day shall be unto you for a memorial; and ye shall keep it a feast to the Lord throughout your generations; ye shall keep it a feast by an ordinance for ever. That is why we are here today: we keep it as a feast throughout all our generations.
+
+- Seven days shall ye eat unleavened bread; whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel. In the first day there shall be an holy convocation: no manner of work shall be done. Those of you that have it in your power, get that day off; put it on the calendar and let the boss know.
+
 > <sup>[14](/bible/exodus/12#v14)</sup> And this day shall be unto you for a memorial; and ye shall keep it a feast to the Lord throughout your generations; ye shall keep it a feast by an ordinance for ever.
 >
 > <sup>[15](/bible/exodus/12#v15)</sup> Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel.
@@ -136,15 +152,6 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 > <sup>[16](/bible/exodus/12#v16)</sup> And in the first day there shall be an holy convocation, and in the seventh day there shall be an holy convocation to you; no manner of work shall be done in them, save that which every man must eat, that only may be done of you.
 >
 > <sup>[17](/bible/exodus/12#v17)</sup> And ye shall observe the feast of unleavened bread; for in this selfsame day have I brought your armies out of the land of Egypt: therefore shall ye observe this day in your generations by an ordinance for ever.
-
-- This month shall be unto you the beginning of months. In the tenth day of this month they shall take to them every man a lamb, a lamb for an house, a male of the first year, without blemish, and keep it up until the fourteenth day; and the whole assembly of the congregation of Israel shall kill it in the evening. The evening of the fourteenth day is the fifteenth: that is the Passover, and that is what we are celebrating tonight.
-- Take of the blood, and strike it on the two side posts and on the upper door post of the houses. Do we do that today? No, and later in the class you will see why; there are brothers on the internet killing lambs and putting the blood on their doorposts today, and we do not do that.
-- Eat the flesh in that night, roast with fire, and unleavened bread; and with bitter herbs they shall eat it. The bitter herbs represent that captivity, the bitter bondage and all the evil we went through in ancient Egypt. The unleavened bread represents being without sin.
-- Eat it with your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste: it is the Lord's passover. You are eating ready to make moves, because the Lord is about to pass over Egypt, smite the Egyptians, and deliver you out of captivity.
-- For I will pass through the land of Egypt this night, and will smite all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgment. Imagine that night: every firstborn in the land dropping dead, the whole land screaming. Imagine every firstborn in America dropping dead in one night; that is the picture.
-- The blood shall be to you for a token: when I see the blood, I will pass over you. Even this is symbolic; that blood is going into something much heavier. Putting the blood over your doorpost showed you believed the Lord. A Hebrew that refused would have been killed along with the Egyptians.
-- This day shall be unto you for a memorial; and ye shall keep it a feast to the Lord throughout your generations; ye shall keep it a feast by an ordinance for ever. That is why we are here today: we keep it as a feast throughout all our generations.
-- Seven days shall ye eat unleavened bread; whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel. In the first day there shall be an holy convocation: no manner of work shall be done. Those of you that have it in your power, get that day off; put it on the calendar and let the boss know.
 
 **[Deuteronomy 26:8-9](/bible/deuteronomy/26#v8)**  *[[33:52](https://www.youtube.com/watch?v=VyDEbsxgcas&t=2032s)]*
 
@@ -222,13 +229,14 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 **[2 Esdras 14:3-5](/bible/2-esdras/14#v3)**  *[[48:06](https://www.youtube.com/watch?v=VyDEbsxgcas&t=2886s)]*
 
 > <sup>[3](/bible/2-esdras/14#v3)</sup> Then said he unto me, In the bush I did manifestly reveal myself unto Moses, and talked with him, when my people served in Egypt:
->
+
+- In the bush I did manifestly reveal myself unto Moses, and talked with him, when my people served in Egypt: and I sent him, and led my people out of Egypt, and brought him up to the mount of Sinai, where I held him by me a long season. That long season was forty days and forty nights.
+
+- And told him many wondrous things, and shewed him the secrets of the times, and the end. Moses understood the secrets of the times: that is why Moses could write Genesis, in the beginning; God showed him those secrets. And Moses saw the end. He saw America; he saw the transatlantic slave trade; he saw his people as slaves here; and he saw America being destroyed, and he wrote about it.
+
 > <sup>[4](/bible/2-esdras/14#v4)</sup> And I sent him and led my people out of Egypt, and brought him up to the mount of where I held him by me a long season,
 >
 > <sup>[5](/bible/2-esdras/14#v5)</sup> And told him many wondrous things, and shewed him the secrets of the times, and the end; and commanded him, saying,
-
-- In the bush I did manifestly reveal myself unto Moses, and talked with him, when my people served in Egypt: and I sent him, and led my people out of Egypt, and brought him up to the mount of Sinai, where I held him by me a long season. That long season was forty days and forty nights.
-- And told him many wondrous things, and shewed him the secrets of the times, and the end. Moses understood the secrets of the times: that is why Moses could write Genesis, in the beginning; God showed him those secrets. And Moses saw the end. He saw America; he saw the transatlantic slave trade; he saw his people as slaves here; and he saw America being destroyed, and he wrote about it.
 
 **[Deuteronomy 28:68](/bible/deuteronomy/28#v68)**  *[[50:22](https://www.youtube.com/watch?v=VyDEbsxgcas&t=3022s)]*
 
@@ -305,21 +313,27 @@ Reading from a definition of Egypt  *[[54:52](https://www.youtube.com/watch?v=Vy
 > <sup>[9](/bible/exodus/1#v9)</sup> And he said unto his people, Behold, the people of the children of Israel are more and mightier than we:
 >
 > <sup>[10](/bible/exodus/1#v10)</sup> Come on, let us deal wisely with them; lest they multiply, and it come to pass, that, when there falleth out any war, they join also unto our enemies, and fight against us, and so get them up out of the land.
->
+
+- Come on, let us deal wisely with them: that is institutional slavery being set up right there. Let us enslave them, make them servants, keep them down in society, set up institutions where they cannot own this and cannot do that. What they did to us in ancient Egypt is what they did to us in America; that is why this place is spiritually called Egypt.
+
+- Therefore they did set over them taskmasters to afflict them with their burdens. The taskmasters today are the governors, the politicians, the police officers, the agents: people to keep us in check and keep us in order. They set up institutional laws to keep us low, like Jim Crow and the black codes. On the plantation, the taskmaster was the overseer in the field making sure the slaves did the work; today your taskmaster is your boss.
+
+- And they built for Pharaoh treasure cities, Pithom and Raamses. We built cities in ancient Egypt, and we did not dwell in them. Video played in class: construction of the White House began in 1792, built by hundreds of enslaved people rented from plantation owners, who quarried the stone, cut the timber, and laid the bricks, unpaid and unnamed in the records; when it was finished in 1800 the enslaved workers were sent back to the plantations, and for the next 65 years more enslaved people worked there. Some of you thought the white man built that.
+
 > <sup>[11](/bible/exodus/1#v11)</sup> Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses.
 >
 > <sup>[12](/bible/exodus/1#v12)</sup> But the more they afflicted them, the more they multiplied and grew. And they were grieved because of the children of Israel.
->
+
+- And they were grieved because of the children of Israel: they hated us. The same way the ancient Egyptians hated us, the same hatred met us when we were brought here as slaves.
+
 > <sup>[13](/bible/exodus/1#v13)</sup> And the Egyptians made the children of Israel to serve with rigour:
->
+
+- And the Egyptians made the children of Israel to serve with rigour: hard bondage. They ruled over us with rigour, and it was the same here: the whippings, the lynchings, the runaways caught and beaten.
+
+- And they made their lives bitter with hard bondage, in morter, and in brick, and in all manner of service in the field. Remember the bitter herbs we eat tonight: they represent our lives being bitter in Egypt. We were in the fields in ancient Egypt; we were not just building pyramids. And here we were cursed in the cotton field, the sugar cane field, the tobacco field, with five year olds picking cotton.
+
 > <sup>[14](/bible/exodus/1#v14)</sup> And they made their lives bitter with hard bondage, in morter, and in brick, and in all manner of service in the field: all their service, wherein they made them serve, was with rigour.
 
-- Come on, let us deal wisely with them: that is institutional slavery being set up right there. Let us enslave them, make them servants, keep them down in society, set up institutions where they cannot own this and cannot do that. What they did to us in ancient Egypt is what they did to us in America; that is why this place is spiritually called Egypt.
-- Therefore they did set over them taskmasters to afflict them with their burdens. The taskmasters today are the governors, the politicians, the police officers, the agents: people to keep us in check and keep us in order. They set up institutional laws to keep us low, like Jim Crow and the black codes. On the plantation, the taskmaster was the overseer in the field making sure the slaves did the work; today your taskmaster is your boss.
-- And they built for Pharaoh treasure cities, Pithom and Raamses. We built cities in ancient Egypt, and we did not dwell in them. Video played in class: construction of the White House began in 1792, built by hundreds of enslaved people rented from plantation owners, who quarried the stone, cut the timber, and laid the bricks, unpaid and unnamed in the records; when it was finished in 1800 the enslaved workers were sent back to the plantations, and for the next 65 years more enslaved people worked there. Some of you thought the white man built that.
-- And they were grieved because of the children of Israel: they hated us. The same way the ancient Egyptians hated us, the same hatred met us when we were brought here as slaves.
-- And the Egyptians made the children of Israel to serve with rigour: hard bondage. They ruled over us with rigour, and it was the same here: the whippings, the lynchings, the runaways caught and beaten.
-- And they made their lives bitter with hard bondage, in morter, and in brick, and in all manner of service in the field. Remember the bitter herbs we eat tonight: they represent our lives being bitter in Egypt. We were in the fields in ancient Egypt; we were not just building pyramids. And here we were cursed in the cotton field, the sugar cane field, the tobacco field, with five year olds picking cotton.
 - All manner of service: we were their servants, cooking their food, watching their kids, entertaining them, singing for them. Sing us one of the songs of Zion. It is the same in America: the service jobs, the entertainment. We are kings and priests; we are not supposed to serve any nation. Our job is to serve God. But we have been slaves so long we got comfortable with the jobs they give us to do.
 
   Precepts:
@@ -449,7 +463,11 @@ Reading from a definition of Egypt  *[[54:52](https://www.youtube.com/watch?v=Vy
 **[Deuteronomy 29:10-15](/bible/deuteronomy/29#v10)**  *[[2:01:23](https://www.youtube.com/watch?v=VyDEbsxgcas&t=7283s)]*
 
 > <sup>[10](/bible/deuteronomy/29#v10)</sup> Ye stand this day all of you before the Lord your God; your captains of your tribes, your elders, and your officers, with all the men of Israel,
->
+
+- Ye stand this day all of you before the Lord your God: your captains, your elders, your officers, your little ones, your wives, from the hewer of thy wood unto the drawer of thy water; that thou shouldest enter into covenant with the Lord thy God.
+
+- Neither with you only do I make this covenant and this oath; but also with him that is not here with us this day. Who is that talking about? Us, in the future. You cannot say, Moses, I was not there when the covenant was made. Moses said the covenant is not just for those standing before me; it is for your descendants, those that are not with us today.
+
 > <sup>[11](/bible/deuteronomy/29#v11)</sup> Your little ones, your wives, and thy stranger that is in thy camp, from the hewer of thy wood unto the drawer of thy water:
 >
 > <sup>[12](/bible/deuteronomy/29#v12)</sup> That thou shouldest enter into covenant with the Lord thy God, and into his oath, which the Lord thy God maketh with thee this day:
@@ -460,9 +478,6 @@ Reading from a definition of Egypt  *[[54:52](https://www.youtube.com/watch?v=Vy
 >
 > <sup>[15](/bible/deuteronomy/29#v15)</sup> But with him that standeth here with us this day before the Lord our God, and also with him that is not here with us this day:
 
-- Ye stand this day all of you before the Lord your God: your captains, your elders, your officers, your little ones, your wives, from the hewer of thy wood unto the drawer of thy water; that thou shouldest enter into covenant with the Lord thy God.
-- Neither with you only do I make this covenant and this oath; but also with him that is not here with us this day. Who is that talking about? Us, in the future. You cannot say, Moses, I was not there when the covenant was made. Moses said the covenant is not just for those standing before me; it is for your descendants, those that are not with us today.
-
 **[Deuteronomy 29:16-21](/bible/deuteronomy/29#v16)**  *[[2:03:17](https://www.youtube.com/watch?v=VyDEbsxgcas&t=7397s)]*
 
 > <sup>[16](/bible/deuteronomy/29#v16)</sup> (For ye know how we have dwelt in the land of Egypt; and how we came through the nations which ye passed by;
@@ -470,20 +485,30 @@ Reading from a definition of Egypt  *[[54:52](https://www.youtube.com/watch?v=Vy
 > <sup>[17](/bible/deuteronomy/29#v17)</sup> And ye have seen their abominations, and their idols, wood and stone, silver and gold, which were among them:)
 >
 > <sup>[18](/bible/deuteronomy/29#v18)</sup> Lest there should be among you man, or woman, or family, or tribe, whose heart turneth away this day from the Lord our God, to go and serve the gods of these nations; lest there should be among you a root that beareth gall and wormwood;
->
+
+- Lest there should be among you man, or woman, or family, or tribe, whose heart turneth away this day from the Lord our God, to go and serve the gods of these nations: you go serve Christianity, you call yourself a Muslim.
+
+- And it come to pass, when he heareth the words of this curse. The curse was taught to them back then; so why does it say when he heareth? It is prophetic: it goes to those who would come after, hearing this truth in the future. We are on the street teaching right now; at one point of time we all heard this truth.
+
+- That he bless himself in his heart, saying, I shall have peace, though I walk in the imagination of mine heart. I am good being a Christian, I am good being a Muslim, what are these Israelites talking about? You imagine that Christ is a white man and you follow that; you are walking in the imagination of your heart while you are hearing the teaching that you are the Israelites and the curses of God came upon you.
+
+- The Lord will not spare him, but then the anger of the Lord and his jealousy shall smoke against that man, and all the curses that are written in this book shall lie upon him, and the Lord shall blot out his name from under heaven. Any of our people that hear the words of this covenant and reject it, the Lord says he will blot their name out of the book.
+
+- And the Lord shall separate him unto evil out of all the tribes of Israel. This is something heavy: this is talking about judgment in the future.
+
 > <sup>[19](/bible/deuteronomy/29#v19)</sup> And it come to pass, when he heareth the words of this curse, that he bless himself in his heart, saying, I shall have peace, though I walk in the imagination of mine heart, to add drunkenness to thirst:
 >
 > <sup>[20](/bible/deuteronomy/29#v20)</sup> The Lord will not spare him, but then the anger of the Lord and his jealousy shall smoke against that man, and all the curses that are written in this book shall lie upon him, and the Lord shall blot out his name from under heaven.
 >
 > <sup>[21](/bible/deuteronomy/29#v21)</sup> And the Lord shall separate him unto evil out of all the tribes of Israel, according to all the curses of the covenant that are written in this book of the law:
 
-- Lest there should be among you man, or woman, or family, or tribe, whose heart turneth away this day from the Lord our God, to go and serve the gods of these nations: you go serve Christianity, you call yourself a Muslim.
-- And it come to pass, when he heareth the words of this curse. The curse was taught to them back then; so why does it say when he heareth? It is prophetic: it goes to those who would come after, hearing this truth in the future. We are on the street teaching right now; at one point of time we all heard this truth.
-- That he bless himself in his heart, saying, I shall have peace, though I walk in the imagination of mine heart. I am good being a Christian, I am good being a Muslim, what are these Israelites talking about? You imagine that Christ is a white man and you follow that; you are walking in the imagination of your heart while you are hearing the teaching that you are the Israelites and the curses of God came upon you.
-- The Lord will not spare him, but then the anger of the Lord and his jealousy shall smoke against that man, and all the curses that are written in this book shall lie upon him, and the Lord shall blot out his name from under heaven. Any of our people that hear the words of this covenant and reject it, the Lord says he will blot their name out of the book.
-- And the Lord shall separate him unto evil out of all the tribes of Israel. This is something heavy: this is talking about judgment in the future.
-
 **[Deuteronomy 29:22-29](/bible/deuteronomy/29#v22)**  *[[2:10:16](https://www.youtube.com/watch?v=VyDEbsxgcas&t=7816s)]*
+
+- So that the generation to come of your children that shall rise up after you, and the stranger that shall come from a far land, shall say, when they see the plagues of that land. What land? Some of you think Moses is talking about the land of Israel. No: he is talking about spiritual Egypt, America. Moses saw America being destroyed and recorded it here.
+
+- And that the whole land thereof is brimstone, and salt, and burning, that it is not sown, nor beareth, nor any grass groweth therein, like the overthrow of Sodom, and Gomorrah. Remember, this place is spiritually called Sodom: the same way Sodom and Gomorrah were destroyed with fire, this place will be destroyed with fire when Christ returns in the new Passover.
+
+- Even all nations shall say, Wherefore hath the Lord done thus unto this land? what meaneth the heat of this great anger? The nations left in the future will look on America and ask that; it is the same picture as Isaiah 66. Then men shall say, Because they have forsaken the covenant of the Lord God of their fathers, which he made with them when he brought them forth out of the land of Egypt. When we came out of Egypt the Lord made a covenant with us, and we broke it.
 
 > <sup>[22](/bible/deuteronomy/29#v22)</sup> So that the generation to come of your children that shall rise up after you, and the stranger that shall come from a far land, shall say, when they see the plagues of that land, and the sicknesses which the Lord hath laid upon it;
 >
@@ -498,13 +523,11 @@ Reading from a definition of Egypt  *[[54:52](https://www.youtube.com/watch?v=Vy
 > <sup>[27](/bible/deuteronomy/29#v27)</sup> And the anger of the Lord was kindled against this land, to bring upon it all the curses that are written in this book:
 >
 > <sup>[28](/bible/deuteronomy/29#v28)</sup> And the Lord rooted them out of their land in anger, and in wrath, and in great indignation, and cast them into another land, as it is this day.
->
+
+- And the Lord rooted them out of their land in anger, and in wrath, and in great indignation: that is the land of Israel, 70 AD; and cast them into another land, as it is this day. That other land is the land of Deuteronomy 28:68, the land that burns in the verses above.
+
 > <sup>[29](/bible/deuteronomy/29#v29)</sup> The secret things belong unto the Lord our God: but those things which are revealed belong unto us and to our children for ever, that we may do all the words of this law.
 
-- So that the generation to come of your children that shall rise up after you, and the stranger that shall come from a far land, shall say, when they see the plagues of that land. What land? Some of you think Moses is talking about the land of Israel. No: he is talking about spiritual Egypt, America. Moses saw America being destroyed and recorded it here.
-- And that the whole land thereof is brimstone, and salt, and burning, that it is not sown, nor beareth, nor any grass groweth therein, like the overthrow of Sodom, and Gomorrah. Remember, this place is spiritually called Sodom: the same way Sodom and Gomorrah were destroyed with fire, this place will be destroyed with fire when Christ returns in the new Passover.
-- Even all nations shall say, Wherefore hath the Lord done thus unto this land? what meaneth the heat of this great anger? The nations left in the future will look on America and ask that; it is the same picture as Isaiah 66. Then men shall say, Because they have forsaken the covenant of the Lord God of their fathers, which he made with them when he brought them forth out of the land of Egypt. When we came out of Egypt the Lord made a covenant with us, and we broke it.
-- And the Lord rooted them out of their land in anger, and in wrath, and in great indignation: that is the land of Israel, 70 AD; and cast them into another land, as it is this day. That other land is the land of Deuteronomy 28:68, the land that burns in the verses above.
 - The secret things belong unto the Lord our God: but those things which are revealed belong unto us. What was just went over is a secret thing that Moses understood: he understood we would be brought into spiritual Egypt, into America, and he saw America destroyed.
 
   Precepts:
@@ -584,22 +607,30 @@ Reading from a definition of Egypt  *[[54:52](https://www.youtube.com/watch?v=Vy
 **[Isaiah 19:18-22](/bible/isaiah/19#v18)**  *[[2:34:08](https://www.youtube.com/watch?v=VyDEbsxgcas&t=9248s)]*
 
 > <sup>[18](/bible/isaiah/19#v18)</sup> In that day shall five cities in the land of Egypt speak the language of Canaan, and swear to the Lord of hosts; one shall be called, The city of destruction.
->
+
+- In that day shall five cities in the land of Egypt speak the language of Canaan: that is us prophesying, teaching the word of God. Five cities going hard teaching the word of God; and one shall be called, The city of destruction: much destruction and persecution taking place.
+
+- In that day shall there be an altar to the Lord in the midst of the land of Egypt. That altar goes into affliction: brothers dying for this truth. Remember why we went here: in your affliction you will seek me. What has to happen for us to turn to God with all our heart, soul, and mind? We have to cry out the same way we cried out in Exodus.
+
 > <sup>[19](/bible/isaiah/19#v19)</sup> In that day shall there be an altar to the Lord in the midst of the land of Egypt, and a pillar at the border thereof to the Lord.
 >
 > <sup>[20](/bible/isaiah/19#v20)</sup> And it shall be for a sign and for a witness unto the Lord of hosts in the land of Egypt: for they shall cry unto the Lord because of the oppressors, and he shall send them a saviour, and a great one, and he shall deliver them.
->
+
+- For they shall cry unto the Lord because of the oppressors: because of what the oppressors, the government, are doing to us, we will cry unto the Lord, the same way the Lord said in Exodus, I have heard the cries of the children of Israel.
+
+- And he shall send them a saviour, and a great one, and he shall deliver them. He is going to send Christ. Christ is coming back to this earth to deliver us from spiritual Egypt. That is why we read earlier: it shall no more be said, The Lord liveth that delivered the children of Israel from the land of Egypt, because the children of Israel will be delivered from mystery Babylon the great.
+
 > <sup>[21](/bible/isaiah/19#v21)</sup> And the Lord shall be known to Egypt, and the Egyptians shall know the Lord in that day, and shall do sacrifice and oblation; yea, they shall vow a vow unto the Lord, and perform it.
 >
 > <sup>[22](/bible/isaiah/19#v22)</sup> And the Lord shall smite Egypt: he shall smite and heal it: and they shall return even to the Lord, and he shall be intreated of them, and shall heal them.
 
-- In that day shall five cities in the land of Egypt speak the language of Canaan: that is us prophesying, teaching the word of God. Five cities going hard teaching the word of God; and one shall be called, The city of destruction: much destruction and persecution taking place.
-- In that day shall there be an altar to the Lord in the midst of the land of Egypt. That altar goes into affliction: brothers dying for this truth. Remember why we went here: in your affliction you will seek me. What has to happen for us to turn to God with all our heart, soul, and mind? We have to cry out the same way we cried out in Exodus.
-- For they shall cry unto the Lord because of the oppressors: because of what the oppressors, the government, are doing to us, we will cry unto the Lord, the same way the Lord said in Exodus, I have heard the cries of the children of Israel.
-- And he shall send them a saviour, and a great one, and he shall deliver them. He is going to send Christ. Christ is coming back to this earth to deliver us from spiritual Egypt. That is why we read earlier: it shall no more be said, The Lord liveth that delivered the children of Israel from the land of Egypt, because the children of Israel will be delivered from mystery Babylon the great.
 - And the Lord shall smite Egypt: he shall smite and heal it. The smiting goes into the affliction; the healing is because we are going to change. As God brings the plagues on Babylon, a lot of our people will change.
 
 **[2 Esdras 15:5-12](/bible/2-esdras/15#v5)**  *[[2:38:26](https://www.youtube.com/watch?v=VyDEbsxgcas&t=9506s)]*
+
+- Behold, saith the Lord, I will bring plagues upon the world; the sword, famine, death, and destruction. For wickedness hath exceedingly polluted the whole earth, and their hurtful works are fulfilled. All the hurtful works are fulfilled; therefore the Lord says, I will hold my tongue no more.
+
+- Behold, the innocent and righteous blood crieth unto me, and the souls of the just complain continually. A lot of blood is going to be shed here in Babylon, crying out to the Lord the same way we cried out in ancient Egypt. And therefore, saith the Lord, I will surely avenge them: God says, I will take vengeance for you.
 
 > <sup>[5](/bible/2-esdras/15#v5)</sup> Behold, saith the Lord, I will bring plagues upon the world; the sword, famine, death, and destruction.
 >
@@ -612,18 +643,24 @@ Reading from a definition of Egypt  *[[54:52](https://www.youtube.com/watch?v=Vy
 > <sup>[9](/bible/2-esdras/15#v9)</sup> And therefore, saith the Lord, I will surely avenge them, and receive unto me all the innocent blood from among them.
 >
 > <sup>[10](/bible/2-esdras/15#v10)</sup> Behold, my people is led as a flock to the slaughter: I will not suffer them now to dwell in the land of Egypt:
->
+
+- Behold, my people is led as a flock to the slaughter: I will not suffer them now to dwell in the land of Egypt. Which Egypt is this? America. The Lord says, I am not going to allow them to dwell in the land of Egypt anymore.
+
+- But I will bring them with a mighty hand and a stretched out arm, and smite Egypt with plagues, as before. As before: letting you know this is not ancient Egypt. The same way I destroyed ancient Egypt and smote them with plagues, I am going to do the same thing to this spiritual Egypt that my people were slaves in. This is the new Exodus.
+
+- And will destroy all the land thereof. Ancient Egypt's land was not destroyed; this is mystery Babylon. Egypt shall mourn, and the foundation of it shall be smitten with the plague and punishment that God shall bring upon it.
+
 > <sup>[11](/bible/2-esdras/15#v11)</sup> But I will bring them with a mighty hand and a stretched out arm, and smite Egypt with plagues, as before, and will destroy all the land thereof.
 >
 > <sup>[12](/bible/2-esdras/15#v12)</sup> Egypt shall mourn, and the foundation of it shall be smitten with the plague and punishment that God shall bring upon it.
 
-- Behold, saith the Lord, I will bring plagues upon the world; the sword, famine, death, and destruction. For wickedness hath exceedingly polluted the whole earth, and their hurtful works are fulfilled. All the hurtful works are fulfilled; therefore the Lord says, I will hold my tongue no more.
-- Behold, the innocent and righteous blood crieth unto me, and the souls of the just complain continually. A lot of blood is going to be shed here in Babylon, crying out to the Lord the same way we cried out in ancient Egypt. And therefore, saith the Lord, I will surely avenge them: God says, I will take vengeance for you.
-- Behold, my people is led as a flock to the slaughter: I will not suffer them now to dwell in the land of Egypt. Which Egypt is this? America. The Lord says, I am not going to allow them to dwell in the land of Egypt anymore.
-- But I will bring them with a mighty hand and a stretched out arm, and smite Egypt with plagues, as before. As before: letting you know this is not ancient Egypt. The same way I destroyed ancient Egypt and smote them with plagues, I am going to do the same thing to this spiritual Egypt that my people were slaves in. This is the new Exodus.
-- And will destroy all the land thereof. Ancient Egypt's land was not destroyed; this is mystery Babylon. Egypt shall mourn, and the foundation of it shall be smitten with the plague and punishment that God shall bring upon it.
-
 **[Baruch 4:25-37](/bible/baruch/4#v25)**  *[[2:42:56](https://www.youtube.com/watch?v=VyDEbsxgcas&t=9776s)]*
+
+- My children, suffer patiently the wrath that is come upon you from God. The wrath that came upon us from God is slavery, the curses of Deuteronomy 28. The Bible says suffer it patiently, for thine enemy hath persecuted thee.
+
+- But shortly thou shalt see his destruction, and shalt tread upon his neck. We are going to see our enemies destroyed. Some of you do not want to see that; some of you want to take your enemies into the kingdom of heaven with you. No. There is no salvation unless your enemies are destroyed. When they afflict you, when they put you in prison for things you did not do, when they lie on you and bring up charges against you for the word of God's sake, remember that: shortly thou shalt see his destruction. Even if you die today or tomorrow, you are going to see it, because the Lord is going to bring you back. This new Passover has a resurrection taking place too: the Lord is not just coming to destroy, he is bringing souls back with him.
+
+- Be of good comfort, O my children, and cry unto God. Jerusalem is speaking here. You see what God wants us to do: cry unto him. You all have not started crying yet, because you are not being afflicted yet. You were crying in the 1800s, you were crying during the Jim Crow era, you were crying when we were being lynched; but the false sense of comfort of the last 60 years quieted the crying. Affliction is going to be turned up on our people under this administration and the ones after it, and we will cry.
 
 > <sup>[25](/bible/baruch/4#v25)</sup> My children, suffer patiently the wrath that is come upon you from God: for thine enemy hath persecuted thee; but shortly thou shalt see his destruction, and shalt tread upon his neck.
 >
@@ -632,13 +669,17 @@ Reading from a definition of Egypt  *[[54:52](https://www.youtube.com/watch?v=Vy
 > <sup>[27](/bible/baruch/4#v27)</sup> Be of good comfort, O my children, and cry unto God: for ye shall be remembered of him that brought these things upon you.
 >
 > <sup>[28](/bible/baruch/4#v28)</sup> For as it was your mind to go astray from God: so, being returned, seek him ten times more.
->
+
+- For as it was your mind to go astray from God: so, being returned, seek him ten times more. And he that hath brought these plagues upon you shall bring you everlasting joy again with your salvation.
+
 > <sup>[29](/bible/baruch/4#v29)</sup> For he that hath brought these plagues upon you shall bring you everlasting joy with your salvation.
 >
 > <sup>[30](/bible/baruch/4#v30)</sup> Take a good heart, O Jerusalem: for he that gave thee that name will comfort thee.
 >
 > <sup>[31](/bible/baruch/4#v31)</sup> Miserable are they that afflicted thee, and rejoiced at thy fall.
->
+
+- Miserable are they that afflicted thee, and rejoiced at thy fall: everyone that afflicted us and took us as slaves. Miserable are the cities which thy children served: every city we served hard bondage in, misery is coming to every last one of them, including this one. Miserable is she that received thy sons: for as she rejoiced at thy ruin, so shall she be grieved for her own desolation. Her pride shall be turned into mourning, for fire shall come upon her from the Everlasting, long to endure, and she shall be inhabited of devils for a great time.
+
 > <sup>[32](/bible/baruch/4#v32)</sup> Miserable are the cities which thy children served: miserable is she that received thy sons.
 >
 > <sup>[33](/bible/baruch/4#v33)</sup> For as she rejoiced at thy ruin, and was glad of thy fall: so shall she be grieved for her own desolation.
@@ -651,11 +692,6 @@ Reading from a definition of Egypt  *[[54:52](https://www.youtube.com/watch?v=Vy
 >
 > <sup>[37](/bible/baruch/4#v37)</sup> Lo, thy sons come, whom thou sentest away, they come gathered together from the east to the west by the word of the Holy One, rejoicing in the glory of God.
 
-- My children, suffer patiently the wrath that is come upon you from God. The wrath that came upon us from God is slavery, the curses of Deuteronomy 28. The Bible says suffer it patiently, for thine enemy hath persecuted thee.
-- But shortly thou shalt see his destruction, and shalt tread upon his neck. We are going to see our enemies destroyed. Some of you do not want to see that; some of you want to take your enemies into the kingdom of heaven with you. No. There is no salvation unless your enemies are destroyed. When they afflict you, when they put you in prison for things you did not do, when they lie on you and bring up charges against you for the word of God's sake, remember that: shortly thou shalt see his destruction. Even if you die today or tomorrow, you are going to see it, because the Lord is going to bring you back. This new Passover has a resurrection taking place too: the Lord is not just coming to destroy, he is bringing souls back with him.
-- Be of good comfort, O my children, and cry unto God. Jerusalem is speaking here. You see what God wants us to do: cry unto him. You all have not started crying yet, because you are not being afflicted yet. You were crying in the 1800s, you were crying during the Jim Crow era, you were crying when we were being lynched; but the false sense of comfort of the last 60 years quieted the crying. Affliction is going to be turned up on our people under this administration and the ones after it, and we will cry.
-- For as it was your mind to go astray from God: so, being returned, seek him ten times more. And he that hath brought these plagues upon you shall bring you everlasting joy again with your salvation.
-- Miserable are they that afflicted thee, and rejoiced at thy fall: everyone that afflicted us and took us as slaves. Miserable are the cities which thy children served: every city we served hard bondage in, misery is coming to every last one of them, including this one. Miserable is she that received thy sons: for as she rejoiced at thy ruin, so shall she be grieved for her own desolation. Her pride shall be turned into mourning, for fire shall come upon her from the Everlasting, long to endure, and she shall be inhabited of devils for a great time.
 - O Jerusalem, look about thee toward the east, and behold the joy that cometh unto thee from God. Lo, thy sons come, whom thou sentest away: they come gathered together from the east to the west, rejoicing in the glory of God.
 
 **[Romans 10:14-15](/bible/romans/10#v14)**  *[[3:04:20](https://www.youtube.com/watch?v=VyDEbsxgcas&t=11060s)]*

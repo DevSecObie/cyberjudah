@@ -24,16 +24,16 @@ tags: ["15 Minutes w/ The Captains", "christ"]
 **[Sirach 7:29-31](/bible/sirach/7#v29)**  *[[2:07](https://www.youtube.com/watch?v=if3t9f3KWWg&t=127s)]*
 
 > <sup>[29](/bible/sirach/7#v29)</sup> Fear the Lord with all thy soul, and reverence his priests.
->
-> <sup>[30](/bible/sirach/7#v30)</sup> Love him that made thee with all thy strength, and forsake not his ministers.
->
-> <sup>[31](/bible/sirach/7#v31)</sup> Fear the Lord, and honor the priest; and give him his portion, as it is commanded thee; the firstfruits, and the trespass offering, and the gift of the shoulders, and the sacrifice of sanctification, and the firstfruits of the holy things.
 
 - And reverence his priests: because at that time, when the temple was still standing, we gave sacrifices to the priests. So the Lord said, honor those men.
+
+> <sup>[30](/bible/sirach/7#v30)</sup> Love him that made thee with all thy strength, and forsake not his ministers.
 
 - And forsake not his ministers: don't forsake his ministers that go before the Lord on your behalf.
 
 - So why would you bring that, Cap, cuz there's no priest today, there's no temple, there's no sacrifices? I get that. I full well understand that there's no temple. So who are these priests that are being referenced today? Remember, God's judgments are like a ring. There's nothing new under the sun.
+
+> <sup>[31](/bible/sirach/7#v31)</sup> Fear the Lord, and honor the priest; and give him his portion, as it is commanded thee; the firstfruits, and the trespass offering, and the gift of the shoulders, and the sacrifice of sanctification, and the firstfruits of the holy things.
 
 
 **[Revelation 1:5-6](/bible/revelation/1#v5)**  *[[3:12](https://www.youtube.com/watch?v=if3t9f3KWWg&t=192s)]*
@@ -69,12 +69,12 @@ tags: ["15 Minutes w/ The Captains", "christ"]
 **[Wisdom of Solomon 4:8-9](/bible/wisdom-of-solomon/4#v8)**  *[[9:23](https://www.youtube.com/watch?v=if3t9f3KWWg&t=563s)]*
 
 > <sup>[8](/bible/wisdom-of-solomon/4#v8)</sup> For honourable age is not that which standeth in length of time, nor that is measured by number of years.
->
-> <sup>[9](/bible/wisdom-of-solomon/4#v9)</sup> But wisdom is the gray hair unto men, and an unspotted life is old age.
 
 - For honourable age is not that which standeth in length of time: being reverenced as an elder is not just because you're 60 years old. You 60 years old, so now you an elder? No. Cuz that's what you got with some other camps. He's 60 years old, so he an elder. He got a head and a beard full of gray, so he an elder. No.
 
 - Nor that is measured by number of years: not measured by your age.
+
+> <sup>[9](/bible/wisdom-of-solomon/4#v9)</sup> But wisdom is the gray hair unto men, and an unspotted life is old age.
 
 - But wisdom is the gray hair unto men, and an unspotted life is old age: as they have gained experience and years in this truth, laboring in this truth, traveling in this truth, they have gained the title of elders. Not just because they've been on the earth for 40, 50, 60 years. Because they have gained wisdom and experience in their time in the truth.
 
@@ -83,13 +83,13 @@ tags: ["15 Minutes w/ The Captains", "christ"]
 
 **[1 Timothy 5:1-2](/bible/1-timothy/5#v1)**  *[[11:13](https://www.youtube.com/watch?v=if3t9f3KWWg&t=673s)]*
 
-> <sup>[1](/bible/1-timothy/5#v1)</sup> Rebuke not an elder, but intreat him as a father; and the younger men as brethren;
->
-> <sup>[2](/bible/1-timothy/5#v2)</sup> The elder women as mothers; the younger as sisters, with all purity.
-
 - Let's get some more attributes of the elders. Rebuke not an elder: or disrespect an elder.
 
+> <sup>[1](/bible/1-timothy/5#v1)</sup> Rebuke not an elder, but intreat him as a father; and the younger men as brethren;
+
 - But intreat him as a father: hey, what it do, pops? You don't do that to your earthly father. At least you shouldn't. So why do it in this truth, when you are supposed to be entreating them as fathers? Who are laying down their lives for their children day in and day out. Losing sleep for their children day in and day out. Losing time with their blood families for the family of Israel, day in and day out.
+
+> <sup>[2](/bible/1-timothy/5#v2)</sup> The elder women as mothers; the younger as sisters, with all purity.
 
 - The elder women as mothers: you honor them as well, for their labor, their sacrifices in this truth. Shalom, Mama, Most High Christ bless. That's how you show reverence, respect for the elder women. Hey, what up, moms? What it do, moms? What up, my dukes? What up, G Mama? No. That's not how you show respect or honor.
 

@@ -2,7 +2,7 @@
 title: "Religious Accommodation"
 slug: "2026/2026-06-05-religious-accommodation"
 date: "2026-06-05"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "15 Minutes w/ The Captains · 2026-06-05"
 tags: ["15 Minutes w/ The Captains", "faith", "prayer", "the-law"]
 ---
@@ -123,27 +123,27 @@ Reading from a definition of religious accommodations, on screen  *[[3:42](https
 
 **[Nehemiah 2:1-6](/bible/nehemiah/2#v1)**  *[[11:45](https://www.youtube.com/watch?v=JMcCF9Sr6pY&t=705s)]*
 
-> <sup>[1](/bible/nehemiah/2#v1)</sup> And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, that wine was before him: and I took up the wine, and gave it unto the king. Now I had not been beforetime sad in his presence.
->
-> <sup>[2](/bible/nehemiah/2#v2)</sup> Wherefore the king said unto me, Why is thy countenance sad, seeing thou art not sick? this is nothing else but sorrow of heart. Then I was very sore afraid,
->
-> <sup>[3](/bible/nehemiah/2#v3)</sup> And said unto the king, Let the king live for ever: why should not my countenance be sad, when the city, the place of my fathers’ sepulchres, lieth waste, and the gates thereof are consumed with fire?
->
-> <sup>[4](/bible/nehemiah/2#v4)</sup> Then the king said unto me, For what dost thou make request? So I prayed to the God of heaven.
->
-> <sup>[5](/bible/nehemiah/2#v5)</sup> And I said unto the king, If it please the king, and if thy servant have found favour in thy sight, that thou wouldest send me unto Judah, unto the city of my fathers’ sepulchres, that I may build it.
->
-> <sup>[6](/bible/nehemiah/2#v6)</sup> And the king said unto me, (the queen also sitting by him,) For how long shall thy journey be? and when wilt thou return? So it pleased the king to send me; and I set him a time.
-
 - We was in a Persian captivity, and this is Nehemiah, an Israelite, speaking first person. I took up the wine, and gave it unto the king: that was his occupation. He was the king's cupbearer.
+
+> <sup>[1](/bible/nehemiah/2#v1)</sup> And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, that wine was before him: and I took up the wine, and gave it unto the king. Now I had not been beforetime sad in his presence.
 
 - Now I had not been beforetime sad in his presence: it shows you he was a good worker on the job, enthusiastic, optimistic. The purpose of the cupbearer was to pre-taste whatever the king drink, just in case someone tried to poison him. He putting his life on the line every day for a damn heathen king. You think he was in love with that job? No, but he wasn't a slouch. So that one day his countenance was off, it stood out.
 
 - Why is thy countenance sad, seeing thou art not sick? The king was able to discern something was terribly wrong. That's how you want to be, brothers and sisters: notable to your employers. The peculiar commandments pertain to integrity and diligence. We're commanded not to be slothful, not with eyeservice but as unto the Lord, whatsoever thy hand findeth to do, do it with thy might. Then your manager is going to take interest in whether you're in a good working condition, because they value your contribution.
 
+> <sup>[2](/bible/nehemiah/2#v2)</sup> Wherefore the king said unto me, Why is thy countenance sad, seeing thou art not sick? this is nothing else but sorrow of heart. Then I was very sore afraid,
+>
+> <sup>[3](/bible/nehemiah/2#v3)</sup> And said unto the king, Let the king live for ever: why should not my countenance be sad, when the city, the place of my fathers’ sepulchres, lieth waste, and the gates thereof are consumed with fire?
+
 - Why should not my countenance be sad, when the city, the place of my fathers' sepulchres, lieth waste: in chapter 1 you read about Nehemiah praying and fasting to the Lord. This is how the Lord answers our prayers: he put the spirit on the king to inquire what it is that you request.
 
+> <sup>[4](/bible/nehemiah/2#v4)</sup> Then the king said unto me, For what dost thou make request? So I prayed to the God of heaven.
+
 - For what dost thou make request? So I prayed to the God of heaven: that thou wouldest send me unto Judah, that I may build it. That's a hell of a leave of absence right there. That ain't one day off. That's another reason it's important not to be down: the worst that can be said is no. Sometimes you got to go for the gusto. Have faith.
+
+> <sup>[5](/bible/nehemiah/2#v5)</sup> And I said unto the king, If it please the king, and if thy servant have found favour in thy sight, that thou wouldest send me unto Judah, unto the city of my fathers’ sepulchres, that I may build it.
+>
+> <sup>[6](/bible/nehemiah/2#v6)</sup> And the king said unto me, (the queen also sitting by him,) For how long shall thy journey be? and when wilt thou return? So it pleased the king to send me; and I set him a time.
 
 - So it pleased the king to send me; and I set him a time: he put everything in order, got his paperwork straight, and got his leave of absence. He went and got the walls built, and the king continued to have favor upon him and allowed him to do the work for his people. He had religious accommodations.
 

@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: 2 Corinthians 1:12"
 slug: "2026/2026-03-09-giving-the-sense-from-a-to-z-2-corinthians-1-12"
 date: "2026-03-09"
-teacher: "Captain Matt"
+teacher: "Captain Matthew"
 description: "Giving The Sense From A to Z · 2026-03-09"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "wisdom"]
@@ -63,10 +63,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "wisdom"]
 **[1 Corinthians 2:4-5](/bible/1-corinthians/2#v4)**  *[[7:51](https://www.youtube.com/watch?v=F2xbCrcvy2M&t=471s)]*
 
 > <sup>[4](/bible/1-corinthians/2#v4)</sup> And my speech and my preaching was not with enticing words of man’s wisdom, but in demonstration of the Spirit and of power:
->
-> <sup>[5](/bible/1-corinthians/2#v5)</sup> That your faith should not stand in the wisdom of men, but in the power of God.
 
 - My speech and my preaching was not with enticing words of man's wisdom: So, Paul wasn't up there trying to use big fancy words like you see a lot of these so-called Christians do today. A lot of them on TikTok doing thousand-part series on what an apostle is and what a prophet is and they're using all of these huge words and half of their listeners don't know what those words mean. They just found out what those words mean. And yet they're using them to entice the people to, "Oh, he knows these five- and six-syllable words. Man, he must be deep. He must have knowledge because of all of the words and his vernacular is off the..." No. No. When he was among them, he didn't use enticing words of man's wisdom, but he used a demonstration in the power of God.
+
+> <sup>[5](/bible/1-corinthians/2#v5)</sup> That your faith should not stand in the wisdom of men, but in the power of God.
 
 - That your faith should not stand in the wisdom of men, but in the power of God: And he was grateful that when he went to the church of Corinth, he used words that they knew and simplicity that they knew to help them understand the grace of Christ. To help them understand that we're no longer giving animal sacrifice, that now we are depending on the sacrifice of Christ to get us into the kingdom of heaven. That's what he was making sure that they understood. And it was done in simplicity. Simplicity. That's why later on in Corinth chapter 11, let's just jump forward a little bit.
 
@@ -87,12 +87,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "wisdom"]
 **[1 Corinthians 1:18-19](/bible/1-corinthians/1#v18)**  *[[10:44](https://www.youtube.com/watch?v=F2xbCrcvy2M&t=644s)]*
 
 > <sup>[18](/bible/1-corinthians/1#v18)</sup> For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God.
->
-> <sup>[19](/bible/1-corinthians/1#v19)</sup> For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent.
 
 - For the preaching of the cross is to them that perish foolishness: So, it didn't matter how you phrased it, how you framed it, when you use the word of God, not enticing words of man's wisdom, people that were destined to die, destined to perish, everlasting fire, those that were destined for that, the word of God is going to be foolishness to them. It's going to be foolish that Christ only came for the Israelites. It's going to be foolish that there was a split in the nation of Israel and now they're coming back under Christ. It's going to be foolish that all people can't be saved. It's going to be foolish that God don't love everybody. It's going to be foolish that Christ is a black man. All of that stuff is going to be foolish to them that perish.
 
 - But unto us which are saved it is the power of God: When he says saved, he's talking about in the future. It is the power of God. Cuz we're not saved yet, cuz we're still under the hand of our enemies. But if we continue on, we will be saved in the end.
+
+> <sup>[19](/bible/1-corinthians/1#v19)</sup> For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent.
 
 - I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent: Why? Because you have pastors, reverends, bishops, you have all of these men that have theology degrees, that have all of this high wisdom, PhDs and all of that stuff. They're being confounded by men that didn't go to theology school. By men that may only have a high school diploma. Which a lot of us have bachelor's and master's degrees. But you will be confounded by the ones that didn't go to school to be taught this Bible. We didn't go to theology schools to be taught this Bible. We didn't go to seminary schools to be taught this Bible. The spirit of God was on our leaders and our elders. And they taught them, and then our elders taught us. That's just how it goes. This is why in the book of Acts, watch this. This is the same thing that happened with Peter and the other apostles. Watch this.
 
@@ -109,10 +109,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "wisdom"]
 **[2 Corinthians 1:13-14](/bible/2-corinthians/1#v13)**  *[[15:26](https://www.youtube.com/watch?v=F2xbCrcvy2M&t=926s)]*
 
 > <sup>[13](/bible/2-corinthians/1#v13)</sup> For we write none other things unto you, than what ye read or acknowledge; and I trust ye shall acknowledge even to the end;
->
-> <sup>[14](/bible/2-corinthians/1#v14)</sup> As also ye have acknowledged us in part, that we are your rejoicing, even as ye also are ours in the day of the Lord Jesus.
 
 - For we write none other things unto you, than what ye read or acknowledge; and I trust ye shall acknowledge even to the end: What is he talking about? Let's go to 1 Corinthians chapter 3. That's why 13 and 14 goes together.
+
+> <sup>[14](/bible/2-corinthians/1#v14)</sup> As also ye have acknowledged us in part, that we are your rejoicing, even as ye also are ours in the day of the Lord Jesus.
 
 - As also ye have acknowledged us in part, that we are your rejoicing: So, they acknowledge the apostles, the apostles acknowledge them. They acknowledged what? Let's go to 1 Corinthians chapter 3.
 
@@ -122,34 +122,34 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "wisdom"]
 > <sup>[5](/bible/1-corinthians/3#v5)</sup> Who then is Paul, and who is Apollos, but ministers by whom ye believed, even as the Lord gave to every man?
 >
 > <sup>[6](/bible/1-corinthians/3#v6)</sup> I have planted, Apollos watered; but God gave the increase.
->
+
+- I have planted, Apollos watered; but God gave the increase: That planting is us. The elders teaching us. That's the planting. The increase is the understanding that we gain. And God gives that.
+
 > <sup>[7](/bible/1-corinthians/3#v7)</sup> So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase.
 >
 > <sup>[8](/bible/1-corinthians/3#v8)</sup> Now he that planteth and he that watereth are one: and every man shall receive his own reward according to his own labour.
 >
 > <sup>[9](/bible/1-corinthians/3#v9)</sup> For we are labourers together with God: ye are God’s husbandry, ye are God’s building.
->
-> <sup>[10](/bible/1-corinthians/3#v10)</sup> According to the grace of God which is given unto me, as a wise masterbuilder, I have laid the foundation, and another buildeth thereon. But let every man take heed how he buildeth thereupon.
->
-> <sup>[11](/bible/1-corinthians/3#v11)</sup> For other foundation can no man lay than that is laid, which is Jesus Christ.
->
-> <sup>[12](/bible/1-corinthians/3#v12)</sup> Now if any man build upon this foundation gold, silver, precious stones, wood, hay, stubble;
->
-> <sup>[13](/bible/1-corinthians/3#v13)</sup> Every man’s work shall be made manifest: for the day shall declare it, because it shall be revealed by fire; and the fire shall try every man’s work of what sort it is.
->
-> <sup>[14](/bible/1-corinthians/3#v14)</sup> If any man’s work abide which he hath built thereupon, he shall receive a reward.
->
-> <sup>[15](/bible/1-corinthians/3#v15)</sup> If any man’s work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire.
-
-- I have planted, Apollos watered; but God gave the increase: That planting is us. The elders teaching us. That's the planting. The increase is the understanding that we gain. And God gives that.
 
 - Ye are God's husbandry, ye are God's building: When it says, "Ye are God's husbandry," meaning we are the work of the Lord. We are his tender plant, we are his delicate flower, we are his planting, we are his vineyard, we are his husbandry. Husbandry goes into farming, and we are the plants of the Lord. So, a lot of times, that's the allegory. Faith as a mustard seed. Grow up as a tender plant. The vineyard of the Lord of hosts is the house of Israel. All of that stuff goes together.
 
+> <sup>[10](/bible/1-corinthians/3#v10)</sup> According to the grace of God which is given unto me, as a wise masterbuilder, I have laid the foundation, and another buildeth thereon. But let every man take heed how he buildeth thereupon.
+
 - But let every man take heed how he buildeth thereupon: Why? Goes back to 2 Corinthians chapter 1 verse 13, for I write none other things unto you than what you have read or acknowledged, and I trust you shall acknowledge even unto the end. As also ye have acknowledged us in part that we are your rejoicing, even as ye are ours in the day of the Lord. What are they going to rejoice on? Let's go back to 1 Corinthians chapter 3. What are they going to rejoice? He said he laid the foundation, and that foundation is Christ.
+
+> <sup>[11](/bible/1-corinthians/3#v11)</sup> For other foundation can no man lay than that is laid, which is Jesus Christ.
+>
+> <sup>[12](/bible/1-corinthians/3#v12)</sup> Now if any man build upon this foundation gold, silver, precious stones, wood, hay, stubble;
 
 - Gold, silver, precious stones, wood, hay, stubble: That's us. We are the gold, the silver, the precious stones. We are also the wood, the hay, and the stubble, depending on your work.
 
+> <sup>[13](/bible/1-corinthians/3#v13)</sup> Every man’s work shall be made manifest: for the day shall declare it, because it shall be revealed by fire; and the fire shall try every man’s work of what sort it is.
+
 - The fire shall try every man's work of what sort it is: So, every teacher that teaches his student or every elder that teaches their students, their students have to apply what's being taught. If you're not applying what's being taught, you're going to be wood, hay, and stubble. If you're going to apply what's being taught, you're going to be gold, silver, and precious stones. Why? Cuz you're going to withstand the fire of that trial. You're not going to give up. You're not going to go away with the wind. You're going to stand firm.
+
+> <sup>[14](/bible/1-corinthians/3#v14)</sup> If any man’s work abide which he hath built thereupon, he shall receive a reward.
+>
+> <sup>[15](/bible/1-corinthians/3#v15)</sup> If any man’s work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire.
 
 - If any man's work shall be burned, he shall suffer loss: but he himself shall be saved: So, if the brothers and sisters that you teach, if they fall out this thing, you're going to suffer loss. That's a loss to us. But, we ourselves are going to be saved. Why? Because we taught them the right way. They just didn't apply anything. But, if the work abide in the day of that fire, then we got a reward. Cuz not only is it us being saved, but also our work being saved, which is the brothers and sisters in this truth.
 
@@ -240,10 +240,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "wisdom"]
 > <sup>[18](/bible/2-corinthians/1#v18)</sup> But as God is true, our word toward you was not yea and nay.
 >
 > <sup>[19](/bible/2-corinthians/1#v19)</sup> For the Son of God, Jesus Christ, who was preached among you by us, even by me and Silvanus and Timotheus, was not yea and nay, but in him was yea.
->
-> <sup>[20](/bible/2-corinthians/1#v20)</sup> For all the promises of God in him are yea, and in him Amen, unto the glory of God by us.
 
 - Was not yea and nay, but in him was yea: Meaning we kept our word exactly what it was. We told you about the promises, and we didn't sow doubt in y'all.
+
+> <sup>[20](/bible/2-corinthians/1#v20)</sup> For all the promises of God in him are yea, and in him Amen, unto the glory of God by us.
 
 - For all the promises of God in him are yea, and in him Amen: So, everything that's in Christ, that's the promises. And that's what we taught you. The promises did not involve animal sacrifice. Had it involved animal sacrifice, they would have taught that. But it didn't involve that. Matter fact, we went over it before. Go to Galatians chapter 3.
 
@@ -258,19 +258,19 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "wisdom"]
 **[Genesis 22:17-18](/bible/genesis/22#v17)**  *[[31:13](https://www.youtube.com/watch?v=F2xbCrcvy2M&t=1873s)]*
 
 > <sup>[17](/bible/genesis/22#v17)</sup> That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore; and thy seed shall possess the gate of his enemies;
->
-> <sup>[18](/bible/genesis/22#v18)</sup> And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.
 
 - Thy seed shall possess the gate of his enemies: He said, "Thy seed, which is Christ, shall possess the gate of his enemies." How can all nations be saved if Christ is going to possess his enemies? That's impossible. That promise went from Abraham, Isaac, Jacob to Christ. Christ is going to possess the gate of his enemies. This is what 1 Corinthians 15 was going into. All of this stuff connects.
+
+> <sup>[18](/bible/genesis/22#v18)</sup> And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.
 
 
 **[Galatians 3:16-17](/bible/galatians/3#v16)**  *[[32:17](https://www.youtube.com/watch?v=F2xbCrcvy2M&t=1937s)]*
 
 > <sup>[16](/bible/galatians/3#v16)</sup> Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ.
->
-> <sup>[17](/bible/galatians/3#v17)</sup> And this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect.
 
 - He saith not, And to seeds, as of many; but as of one: Back to Galatians chapter 3 and verse 16. So that promise that Abraham got was ultimately going to be given to Christ.
+
+> <sup>[17](/bible/galatians/3#v17)</sup> And this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect.
 
 - The law, which was four hundred and thirty years after: Meaning the law of sacrifice came 430 years after. We came out of Egypt, we was introduced again to sacrifice.
 
@@ -327,10 +327,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "wisdom"]
 **[Ephesians 1:13-14](/bible/ephesians/1#v13)**  *[[40:11](https://www.youtube.com/watch?v=F2xbCrcvy2M&t=2411s)]*
 
 > <sup>[13](/bible/ephesians/1#v13)</sup> In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,
->
-> <sup>[14](/bible/ephesians/1#v14)</sup> Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.
 
 - Ye were sealed with that holy Spirit of promise: We were sealed with that Holy Spirit of promise. That same promise that was yea, yea. I hope this is making sense.
+
+> <sup>[14](/bible/ephesians/1#v14)</sup> Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.
 
 - Until the redemption of the purchased possession: We are the purchased possession. The church. He purchased it with his own blood.
 
@@ -359,18 +359,18 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "wisdom"]
 **[1 Corinthians 4:18-21](/bible/1-corinthians/4#v18)**  *[[43:30](https://www.youtube.com/watch?v=F2xbCrcvy2M&t=2610s)]*
 
 > <sup>[18](/bible/1-corinthians/4#v18)</sup> Now some are puffed up, as though I would not come to you.
->
-> <sup>[19](/bible/1-corinthians/4#v19)</sup> But I will come to you shortly, if the Lord will, and will know, not the speech of them which are puffed up, but the power.
->
-> <sup>[20](/bible/1-corinthians/4#v20)</sup> For the kingdom of God is not in word, but in power.
->
-> <sup>[21](/bible/1-corinthians/4#v21)</sup> What will ye? shall I come unto you with a rod, or in love, and in the spirit of meekness?
 
 - Now some are puffed up, as though I would not come to you: Cuz see, Paul's first stop wasn't to just go to Corinth. But there was evil going on in the congregation and people thought that he wasn't ever going to show up.
 
+> <sup>[19](/bible/1-corinthians/4#v19)</sup> But I will come to you shortly, if the Lord will, and will know, not the speech of them which are puffed up, but the power.
+
 - And will know, not the speech of them which are puffed up, but the power: Now I'm going to test you. Now I'm going to see exactly how much you really think you know. Cuz in chapter 1, chapter 2, and chapter 3 he was getting on them because they had divisions among them. They was putting the teachers above other teachers. Oh, I'm of Apollos. I'm of Paul. I'm of Cephas. I'm of Christ. They was all in competition with one another. Puffed up because of the knowledge that they gained. But Paul was like, "Look, I'm going to come to you. But some of y'all thinking that I'm not going to show up, but I am."
 
+> <sup>[20](/bible/1-corinthians/4#v20)</sup> For the kingdom of God is not in word, but in power.
+
 - For the kingdom of God is not in word, but in power: It doesn't matter how many precepts you memorize. It doesn't matter how many scriptures you think you got down pat. What's important is the power of God being shown. The charity. Loving your neighbor as you love yourself. Making sure that there's no division. Making sure that when there's evil in the body, you judge it. And you judge it correctly.
+
+> <sup>[21](/bible/1-corinthians/4#v21)</sup> What will ye? shall I come unto you with a rod, or in love, and in the spirit of meekness?
 
 - Shall I come unto you with a rod, or in love, and in the spirit of meekness: Cuz he was coming to rebuke them. Paul was coming to Corinth to rebuke them. But he didn't show up as fast as everybody thought that he would. So they thought, oh, he's not coming at all. He said, but I'm going to come to you. And when I do come, shall I come with correction or shall I come in the spirit of meekness? Now, what was it that Corinth was doing that had Paul so amped up like this? Let's keep on reading.
 
@@ -387,10 +387,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "wisdom"]
 **[1 Corinthians 6:4-5](/bible/1-corinthians/6#v4)**  *[[47:20](https://www.youtube.com/watch?v=F2xbCrcvy2M&t=2840s)]*
 
 > <sup>[4](/bible/1-corinthians/6#v4)</sup> If then ye have judgments of things pertaining to this life, set them to judge who are least esteemed in the church.
->
-> <sup>[5](/bible/1-corinthians/6#v5)</sup> I speak to your shame. Is it so, that there is not a wise man among you? no, not one that shall be able to judge between his brethren?
 
 - Set them to judge who are least esteemed in the church: Those that are least esteemed in the church are the young men. Since you leaders can't judge this matter and know that it's wrong for you to sleep with your father's wife according to Leviticus the 18th chapter, we know that in Leviticus 18 it says, "Don't sleep with your father's wife." This man is sleeping with his father's wife, and y'all can't judge that, but y'all bickering about who's more wise than the other person. Let the young man judge that. Let the young man tell you how wrong this is. Let them tell you then.
+
+> <sup>[5](/bible/1-corinthians/6#v5)</sup> I speak to your shame. Is it so, that there is not a wise man among you? no, not one that shall be able to judge between his brethren?
 
 - I speak to your shame. Is it so, that there is not a wise man among you: That's why he said, "I speak this to your shame." I thought y'all was so smart. I thought y'all had the wisdom. I thought y'all had the knowledge and understanding. But none of y'all are able to judge.
 
@@ -429,10 +429,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "wisdom"]
 **[2 Corinthians 7:8-9](/bible/2-corinthians/7#v8)**  *[[52:47](https://www.youtube.com/watch?v=F2xbCrcvy2M&t=3167s)]*
 
 > <sup>[8](/bible/2-corinthians/7#v8)</sup> For though I made you sorry with a letter, I do not repent, though I did repent: for I perceive that the same epistle hath made you sorry, though it were but for a season.
->
-> <sup>[9](/bible/2-corinthians/7#v9)</sup> Now I rejoice, not that ye were made sorry, but that ye sorrowed to repentance: for ye were made sorry after a godly manner, that ye might receive damage by us in nothing.
 
 - For though I made you sorry with a letter, I do not repent: Meaning he put them on blast and they felt bad and ashamed, which very well should have. They felt ashamed. So, he said, "I know that that letter made you sorry. And I'm not sorry for it. But I did consider."
+
+> <sup>[9](/bible/2-corinthians/7#v9)</sup> Now I rejoice, not that ye were made sorry, but that ye sorrowed to repentance: for ye were made sorry after a godly manner, that ye might receive damage by us in nothing.
 
 - But that ye sorrowed to repentance: So, that was his rejoicing, that y'all actually acknowledge your sins. Y'all acknowledge your sins. Y'all acknowledge, "Okay, we was wrong." And y'all had godly sorrow. Meaning you repented and you didn't do it again. So, when they acknowledge that, that gave a spirit of rejoicing in them. Why? Because as leaders, that's what you want to have happen.
 
@@ -449,10 +449,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "wisdom"]
 **[2 Peter 3:15-16](/bible/2-peter/3#v15)**  *[[56:13](https://www.youtube.com/watch?v=F2xbCrcvy2M&t=3373s)]*
 
 > <sup>[15](/bible/2-peter/3#v15)</sup> And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;
->
-> <sup>[16](/bible/2-peter/3#v16)</sup> As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction.
 
 - Hath written unto you: Written what? Those epistles or letters.
+
+> <sup>[16](/bible/2-peter/3#v16)</sup> As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction.
 
 - Which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction: People will argue you about pants. People will argue you about multiple wives. People will argue you about the color of Christ. People will argue you about the historic account of how northern kingdom or the nation of Israel became split and one were the Jews and the other were Gentiles or uncircumcised or called heathen. They will argue you down with those things. They're not going to understand the letters of Paul. Their understanding is going to be based on whatever Esau told them. They're not going to have the understanding of the letters of Paul.
 

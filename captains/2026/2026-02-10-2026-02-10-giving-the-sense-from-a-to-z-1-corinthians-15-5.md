@@ -108,32 +108,32 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion", "perse
 > <sup>[12](/bible/luke/24#v12)</sup> Then arose Peter, and ran unto the sepulchre; and stooping down, he beheld the linen clothes laid by themselves, and departed, wondering in himself at that which was come to pass.
 >
 > <sup>[13](/bible/luke/24#v13)</sup> And, behold, two of them went that same day to a village called Emmaus, which was from Jerusalem about threescore furlongs.
->
+
+- And, behold, two of them went that same day to a village called Emmaus: So all right, they're walking on the way to Emmaus. So they're walking on the way to Emmaus, another city. All right. Two of them that were at the sepulchre. They took off. All right. And started walking to Emmaus.
+
 > <sup>[14](/bible/luke/24#v14)</sup> And they talked together of all these things which had happened.
->
+
+- And they talked together of all these things which had happened: Right. There's like, "Wow, we've showed up at the sepulchre. Christ ain't there. His linen clothes are there, but his body's not there." So they're talking about it how they're in unbelief. They're excited.
+
 > <sup>[15](/bible/luke/24#v15)</sup> And it came to pass, that, while they communed together and reasoned, Jesus himself drew near, and went with them.
->
+
+- Jesus himself drew near, and went with them: You see that? So they're reasoning amongst each other. They just talking. It is saying that Christ draws himself unto them out of nowhere and he disappears. Okay, read some more.
+
 > <sup>[16](/bible/luke/24#v16)</sup> But their eyes were holden that they should not know him.
->
+
+- But their eyes were holden that they should not know him: So he's with them walking. All right. But he's in another form. You understand? He's not in his actual form where they're able to recognize him.
+
 > <sup>[17](/bible/luke/24#v17)</sup> And he said unto them, What manner of communications are these that ye have one to another, as ye walk, and are sad?
 >
 > <sup>[18](/bible/luke/24#v18)</sup> And the one of them, whose name was Cleopas, answering said unto him, Art thou only a stranger in Jerusalem, and hast not known the things which are come to pass there in these days?
->
+
+- And the one of them, whose name was Cleopas: Cleopas. So that's one of the two. Okay.
+
 > <sup>[19](/bible/luke/24#v19)</sup> And he said unto them, What things? And they said unto him, Concerning Jesus of Nazareth, which was a prophet mighty in deed and word before God and all the people:
 >
 > <sup>[20](/bible/luke/24#v20)</sup> And how the chief priests and our rulers delivered him to be condemned to death, and have crucified him.
 >
 > <sup>[21](/bible/luke/24#v21)</sup> But we trusted that it had been he which should have redeemed Israel: and beside all this, to day is the third day since these things were done.
-
-- And, behold, two of them went that same day to a village called Emmaus: So all right, they're walking on the way to Emmaus. So they're walking on the way to Emmaus, another city. All right. Two of them that were at the sepulchre. They took off. All right. And started walking to Emmaus.
-
-- And they talked together of all these things which had happened: Right. There's like, "Wow, we've showed up at the sepulchre. Christ ain't there. His linen clothes are there, but his body's not there." So they're talking about it how they're in unbelief. They're excited.
-
-- Jesus himself drew near, and went with them: You see that? So they're reasoning amongst each other. They just talking. It is saying that Christ draws himself unto them out of nowhere and he disappears. Okay, read some more.
-
-- But their eyes were holden that they should not know him: So he's with them walking. All right. But he's in another form. You understand? He's not in his actual form where they're able to recognize him.
-
-- And the one of them, whose name was Cleopas: Cleopas. So that's one of the two. Okay.
 
 - But we trusted that it had been he which should have redeemed Israel: Y'all see that thing right there? It says, "But we trusted that it had been he which should have redeemed Israel." So what is all the confusion about? You understand? THINK ABOUT IT. WHY? WHY do Christians teach all nations are going to be redeemed or saved? The Israelites never thought that. As you can see, these were Israelites right here. You understand? They didn't say that we trusted that it had been he would should have redeemed every nation, kindred and tongue.
 
@@ -156,10 +156,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion", "perse
 **[Acts 12:3-4](/bible/acts/12#v3)**  *[[19:06](https://www.youtube.com/watch?v=hHHwx9bvOFI&t=1146s)]*
 
 > <sup>[3](/bible/acts/12#v3)</sup> And because he saw it pleased the Jews, he proceeded further to take Peter also. (Then were the days of unleavened bread.)
->
-> <sup>[4](/bible/acts/12#v4)</sup> And when he had apprehended him, he put him in prison, and delivered him to four quaternions of soldiers to keep him; intending after Easter to bring him forth to the people.
 
 - He proceeded further to take Peter also: Right? So they took Peter after they killed James the brother of John. All right? And they intended to keep Peter locked up and then bring him to the people and execute him. All right? Because they saw it pleased the Jews.
+
+> <sup>[4](/bible/acts/12#v4)</sup> And when he had apprehended him, he put him in prison, and delivered him to four quaternions of soldiers to keep him; intending after Easter to bring him forth to the people.
 
 
 **[Acts 12:6-8](/bible/acts/12#v6)**  *[[19:59](https://www.youtube.com/watch?v=hHHwx9bvOFI&t=1199s)]*
@@ -178,20 +178,20 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion", "perse
 > <sup>[11](/bible/acts/12#v11)</sup> And when Peter was come to himself, he said, Now I know of a surety, that the Lord hath sent his angel, and hath delivered me out of the hand of Herod, and from all the expectation of the people of the Jews.
 >
 > <sup>[12](/bible/acts/12#v12)</sup> And when he had considered the thing, he came to the house of Mary the mother of John, whose surname was Mark; where many were gathered together praying.
->
-> <sup>[13](/bible/acts/12#v13)</sup> And as Peter knocked at the door of the gate, a damsel came to hearken, named Rhoda.
->
-> <sup>[14](/bible/acts/12#v14)</sup> And when she knew Peter’s voice, she opened not the gate for gladness, but ran in, and told how Peter stood before the gate.
->
-> <sup>[15](/bible/acts/12#v15)</sup> And they said unto her, Thou art mad. But she constantly affirmed that it was even so. Then said they, It is his angel.
->
-> <sup>[16](/bible/acts/12#v16)</sup> But Peter continued knocking: and when they had opened the door, and saw him, they were astonished.
 
 - He came to the house of Mary the mother of John: So after he broke out of prison, he came to the house of Mary.
 
 - Where many were gathered together praying: Right. So this is a safe house. All right. Remember during this time the followers of Christ were getting persecuted. All right.
 
+> <sup>[13](/bible/acts/12#v13)</sup> And as Peter knocked at the door of the gate, a damsel came to hearken, named Rhoda.
+>
+> <sup>[14](/bible/acts/12#v14)</sup> And when she knew Peter’s voice, she opened not the gate for gladness, but ran in, and told how Peter stood before the gate.
+>
+> <sup>[15](/bible/acts/12#v15)</sup> And they said unto her, Thou art mad. But she constantly affirmed that it was even so. Then said they, It is his angel.
+
 - Then said they, It is his angel: It is his what? Cuz they THOUGHT PETER WAS A GONER. They thought he was dead. So they was like, "Hey, that's his spirit right there."
+
+> <sup>[16](/bible/acts/12#v16)</sup> But Peter continued knocking: and when they had opened the door, and saw him, they were astonished.
 
 - And when they had opened the door, and saw him, they were astonished: They were astonished cuz they couldn't believe it. It's like, "Hey, you're supposed to be dead, man." Hey, watch this one, too. Our forefathers had what they would call alien encounters, but we call them what? Angelic encounters. You understand? Go to Luke. I know I'm not even, I apologize. I'mma get back to it. I'mma get back to it.
 
@@ -203,16 +203,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion", "perse
 > <sup>[8](/bible/luke/1#v8)</sup> And it came to pass, that while he executed the priest’s office before God in the order of his course,
 >
 > <sup>[9](/bible/luke/1#v9)</sup> According to the custom of the priest’s office, his lot was to burn incense when he went into the temple of the Lord.
->
-> <sup>[10](/bible/luke/1#v10)</sup> And the whole multitude of the people were praying without at the time of incense.
->
-> <sup>[11](/bible/luke/1#v11)</sup> And there appeared unto him an angel of the Lord standing on the right side of the altar of incense.
->
-> <sup>[12](/bible/luke/1#v12)</sup> And when Zacharias saw him, he was troubled, and fear fell upon him.
 
 - According to the custom of the priest's office, his lot was to burn incense: Right? So, this is the father of John. All right? Zacharias, he's a priest. Okay?
 
+> <sup>[10](/bible/luke/1#v10)</sup> And the whole multitude of the people were praying without at the time of incense.
+>
+> <sup>[11](/bible/luke/1#v11)</sup> And there appeared unto him an angel of the Lord standing on the right side of the altar of incense.
+
 - And there appeared unto him an angel of the Lord: Right. So, while he's doing his priestly duties, an angel of the Lord appears unto Zacharias.
+
+> <sup>[12](/bible/luke/1#v12)</sup> And when Zacharias saw him, he was troubled, and fear fell upon him.
 
 - He was troubled, and fear fell upon him: You see that? He was troubled and fear fell upon him cuz he just appeared. He walked upon him and now he's there. All right. There's a lot more other encounters. I just wanted to touch those real quick. All right. So, go back to Luke 24.
 
@@ -220,14 +220,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion", "perse
 **[Luke 24:37-39](/bible/luke/24#v37)**  *[[23:37](https://www.youtube.com/watch?v=hHHwx9bvOFI&t=1417s)]*
 
 > <sup>[37](/bible/luke/24#v37)</sup> But they were terrified and affrighted, and supposed that they had seen a spirit.
->
-> <sup>[38](/bible/luke/24#v38)</sup> And he said unto them, Why are ye troubled? and why do thoughts arise in your hearts?
->
-> <sup>[39](/bible/luke/24#v39)</sup> Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have.
 
 - And supposed that they had seen a spirit: They would call that what? A ghost.
 
+> <sup>[38](/bible/luke/24#v38)</sup> And he said unto them, Why are ye troubled? and why do thoughts arise in your hearts?
+
 - Why are ye troubled? and why do thoughts arise in your hearts?: So Christ is like, "Why are you troubled?" And remember, he's reading everybody's minds. He knows what you thinking. So he's like, "Why are y'all troubled? Didn't I tell y'all I was going to rise on the third day? What's wrong with y'all? Y'all faith is small."
+
+> <sup>[39](/bible/luke/24#v39)</sup> Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have.
 
 - For a spirit hath not flesh and bones, as ye see me have: Right? So it's showing you it's actually him. He came in that form. Remember before he was walking with them, but he had a different form. So he was able to do what they call it what? Shape-shifting and all of that stuff like that. He has all of those abilities.
 
@@ -256,12 +256,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion", "perse
 > <sup>[34](/bible/acts/10#v34)</sup> Then Peter opened his mouth, and said, Of a truth I perceive that God is no respecter of persons:
 >
 > <sup>[35](/bible/acts/10#v35)</sup> But in every nation he that feareth him, and worketh righteousness, is accepted with him.
->
-> <sup>[36](/bible/acts/10#v36)</sup> The word which God sent unto the children of Israel, preaching peace by Jesus Christ: (he is Lord of all:)
 
 - But in every nation he that feareth him: Right? In every nation says, "In every nation he that feareth him." Well, go to Acts chapter 2:5. All right? Because instead of cherrypicking scriptures you would actually want to have the contextual understanding, reading in context. All right. So this is the book of Acts. We're in Acts 10. So we're going to go to Acts 2 and 5 to show you what that every nation is talking about.
 
 - And worketh righteousness: So that's in every nation. All of those Jews that fear the Lord and work righteousness, is accepted with him.
+
+> <sup>[36](/bible/acts/10#v36)</sup> The word which God sent unto the children of Israel, preaching peace by Jesus Christ: (he is Lord of all:)
 
 - The word which God sent unto the children of Israel: Just in case you was confused who he was talking to in every nation, he says right there in verse 36, read it again.
 
@@ -276,15 +276,11 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion", "perse
 
 **[Ephesians 2:11-14](/bible/ephesians/2#v11)**  *[[28:46](https://www.youtube.com/watch?v=hHHwx9bvOFI&t=1726s)]*
 
+- And the flesh made by hands: So literal circumcision.
+
 > <sup>[11](/bible/ephesians/2#v11)</sup> Wherefore remember, that ye being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;
 >
 > <sup>[12](/bible/ephesians/2#v12)</sup> That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:
->
-> <sup>[13](/bible/ephesians/2#v13)</sup> But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ.
->
-> <sup>[14](/bible/ephesians/2#v14)</sup> For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us;
-
-- And the flesh made by hands: So literal circumcision.
 
 - Being aliens from the commonwealth of Israel: So these Israelites, all right, who went up into idolatry, were without Christ. All right. And they were not part of the commonwealth. You know what the root word of commonwealth is? Common, which is going into what? Community. The community of Israel.
 
@@ -292,7 +288,11 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion", "perse
 
 - Having no hope, and without God in the world: Having no hope. Why? Because they were without Christ. All right. Christ is our hope.
 
+> <sup>[13](/bible/ephesians/2#v13)</sup> But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ.
+
 - Are made nigh by the blood of Christ: Right. And now you're made nigh. You're brought back into the fold because Christ died for all Israel, both southern and northern kingdom.
+
+> <sup>[14](/bible/ephesians/2#v14)</sup> For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us;
 
 - For he is our peace: For he is OUR WHAT? OUR PEACE. HE IS OUR WHAT? OUR PEACE.
 
@@ -335,16 +335,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion", "perse
 > <sup>[38](/bible/acts/10#v38)</sup> How God anointed Jesus of Nazareth with the Holy Ghost and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him.
 >
 > <sup>[39](/bible/acts/10#v39)</sup> And we are witnesses of all things which he did both in the land of the Jews, and in Jerusalem; whom they slew and hanged on a tree:
->
-> <sup>[40](/bible/acts/10#v40)</sup> Him God raised up the third day, and shewed him openly;
->
-> <sup>[41](/bible/acts/10#v41)</sup> Not to all the people, but unto witnesses chosen before of God, even to us, who did eat and drink with him after he rose from the dead.
 
 - And we are witnesses of all things which he did both in the land of the Jews, and in Jerusalem: Right? So, Simon Peter, Cephas, he's mentioning that his audience, all right? And obviously the rest of the apostles, the 12, he's letting it be known that they were witness of all of the miracles, all of the great works that the son of God, Jesus the Christ, performed.
 
 - Whom they slew and hanged on a tree: Right? Who they slew and hanged on a tree. Remember he was crucified. All right. So the Lord, he was beaten. All right. And then he died on the crucifix which was made of what? Wood.
 
+> <sup>[40](/bible/acts/10#v40)</sup> Him God raised up the third day, and shewed him openly;
+
 - Him God raised up the third day, and shewed him openly: Right. So the Lord did what? The Lord raised him up on the third day and showed him openly. Why do you think the Lord would do that? Watch this. This is why the Lord would do that. Because there's a such thing as a negro. You understand? There's a such thing as a negro. Go to Matthew 28.
+
+> <sup>[41](/bible/acts/10#v41)</sup> Not to all the people, but unto witnesses chosen before of God, even to us, who did eat and drink with him after he rose from the dead.
 
 
 **[Matthew 28:11](/bible/matthew/28#v11)**  *[[33:17](https://www.youtube.com/watch?v=hHHwx9bvOFI&t=1997s)]*
@@ -359,16 +359,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion", "perse
 > <sup>[1](/bible/matthew/28#v1)</sup> In the end of the sabbath, as it began to dawn toward the first day of the week, came Mary Magdalene and the other Mary to see the sepulchre.
 >
 > <sup>[2](/bible/matthew/28#v2)</sup> And, behold, there was a great earthquake: for the angel of the Lord descended from heaven, and came and rolled back the stone from the door, and sat upon it.
->
+
+- And rolled back the stone from the door, and sat upon it: Right. And read verse 5.
+
+- He is not here: He is what? So the angel let it be known and said, "Hey, he is not here. He did what? He rose on the third day." Now, the reason why the Lord allowed Christ to be shown to many is because of this right here. Read verse 11 and 12.
+
 > <sup>[3](/bible/matthew/28#v3)</sup> His countenance was like lightning, and his raiment white as snow:
 >
 > <sup>[4](/bible/matthew/28#v4)</sup> And for fear of him the keepers did shake, and became as dead men.
 >
 > <sup>[5](/bible/matthew/28#v5)</sup> And the angel answered and said unto the women, Fear not ye: for I know that ye seek Jesus, which was crucified.
-
-- And rolled back the stone from the door, and sat upon it: Right. And read verse 5.
-
-- He is not here: He is what? So the angel let it be known and said, "Hey, he is not here. He did what? He rose on the third day." Now, the reason why the Lord allowed Christ to be shown to many is because of this right here. Read verse 11 and 12.
 
 
 **[Matthew 28:11-13](/bible/matthew/28#v11)**  *[[34:44](https://www.youtube.com/watch?v=hHHwx9bvOFI&t=2084s)]*
@@ -448,10 +448,6 @@ Reading from Definition of "infallible" (on screen)  *[[38:39](https://www.youtu
 **[1 Corinthians 15:6-8](/bible/1-corinthians/15#v6)**  *[[39:28](https://www.youtube.com/watch?v=hHHwx9bvOFI&t=2368s)]*
 
 > <sup>[6](/bible/1-corinthians/15#v6)</sup> After that, he was seen of above five hundred brethren at once; of whom the greater part remain unto this present, but some are fallen asleep.
->
-> <sup>[7](/bible/1-corinthians/15#v7)</sup> After that, he was seen of James; then of all the apostles.
->
-> <sup>[8](/bible/1-corinthians/15#v8)</sup> And last of all he was seen of me also, as of one born out of due time.
 
 - He was seen of above five hundred brethren at once: You see that? It was why it was on purpose. Why? Cuz you had the Pharisees and the scribes, the chief priests, they were trying to do what? Cast doubt in the people. They were trying to cast doubt and show that he was not the Christ. Why? Because they respected their daddy, the white man, more than their Lord and Savior, Jesus Christ.
 
@@ -461,9 +457,13 @@ Reading from Definition of "infallible" (on screen)  *[[38:39](https://www.youtu
 
 - But some are fallen asleep: So, majority of those 500 were alive to tell their eyewitness account, and some have passed away since the time when he wrote this epistle. Read verse 7. And watch this.
 
+> <sup>[7](/bible/1-corinthians/15#v7)</sup> After that, he was seen of James; then of all the apostles.
+
 - After that, he was seen of James: Right. After that, he was seen of James. Who is that? That's the brother of Christ.
 
 - Then of all the apostles: Then of all the apostles.
+
+> <sup>[8](/bible/1-corinthians/15#v8)</sup> And last of all he was seen of me also, as of one born out of due time.
 
 - And last of all he was seen of me also, as of one born out of due time: Right. As of one born out of due time. So he was seen of who? The Apostle Paul. When was that? Let's go to Acts 9.
 
@@ -473,18 +473,18 @@ Reading from Definition of "infallible" (on screen)  *[[38:39](https://www.youtu
 > <sup>[1](/bible/acts/9#v1)</sup> And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest,
 >
 > <sup>[2](/bible/acts/9#v2)</sup> And desired of him letters to Damascus to the synagogues, that if he found any of this way, whether they were men or women, he might bring them bound unto Jerusalem.
->
-> <sup>[3](/bible/acts/9#v3)</sup> And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:
->
-> <sup>[4](/bible/acts/9#v4)</sup> And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me?
->
-> <sup>[5](/bible/acts/9#v5)</sup> And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks.
 
 - Desired of him letters to Damascus: Right? So, Paul, whose name was Saul, he wanted letters to go to Damascus to hunt down Christians. All right. That's what he was set out to do because he persecuted the church in his former life.
 
 - That if he found any of this way: Of this what? Give me John 14:6. All right. So, you have an understanding what it's referring to when he says find any of this way.
 
 - He might bring them bound unto Jerusalem: All right. So he said he was looking for anyone who was following Jesus of Nazareth. All right? Anybody that was following Christ, he wanted to arrest them. All right? He was a bounty hunter.
+
+> <sup>[3](/bible/acts/9#v3)</sup> And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:
+>
+> <sup>[4](/bible/acts/9#v4)</sup> And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me?
+>
+> <sup>[5](/bible/acts/9#v5)</sup> And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks.
 
 - I am Jesus whom thou persecutest: You see that? Christ made it known who he was. All right. After his death. Okay, so Christ appeared to Paul and Paul was also one of those chosen witnesses. How do we know? Let's line this up.
 
@@ -543,10 +543,10 @@ Reading from Definition of "infallible" (on screen)  *[[38:39](https://www.youtu
 > <sup>[11](/bible/galatians/1#v11)</sup> But I certify you, brethren, that the gospel which was preached of me is not after man.
 >
 > <sup>[12](/bible/galatians/1#v12)</sup> For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ.
->
-> <sup>[13](/bible/galatians/1#v13)</sup> For ye have heard of my conversation in time past in the Jews’ religion, how that beyond measure I persecuted the church of God, and wasted it:
 
 - But by the revelation of Jesus Christ: Remember the root word of revelation is to reveal. All right? Remember Christ revealed himself unto Paul in Acts 9.
+
+> <sup>[13](/bible/galatians/1#v13)</sup> For ye have heard of my conversation in time past in the Jews’ religion, how that beyond measure I persecuted the church of God, and wasted it:
 
 - In the Jews' religion: In the what? Go back to the Acts 26. But give me verse 5. We need to figure out what the Jews religion is. What is Paul talking about right here?
 
@@ -604,22 +604,12 @@ Reading from Definition of "infallible" (on screen)  *[[38:39](https://www.youtu
 > <sup>[13](/bible/galatians/1#v13)</sup> For ye have heard of my conversation in time past in the Jews’ religion, how that beyond measure I persecuted the church of God, and wasted it:
 >
 > <sup>[14](/bible/galatians/1#v14)</sup> And profited in the Jews’ religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.
->
+
+- Being more exceedingly zealous of the traditions of my fathers: Right? So nobody could touch Paul when he talking about he was mad in Acts 26 persecuting the church. It was bad. He was zealous. He believed it wholeheartedly. He went harder than anybody else.
+
 > <sup>[15](/bible/galatians/1#v15)</sup> But when it pleased God, who separated me from my mother’s womb, and called me by his grace,
 >
 > <sup>[16](/bible/galatians/1#v16)</sup> To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:
->
-> <sup>[17](/bible/galatians/1#v17)</sup> Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus.
->
-> <sup>[18](/bible/galatians/1#v18)</sup> Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days.
->
-> <sup>[19](/bible/galatians/1#v19)</sup> But other of the apostles saw I none, save James the Lord’s brother.
->
-> <sup>[20](/bible/galatians/1#v20)</sup> Now the things which I write unto you, behold, before God, I lie not.
->
-> <sup>[21](/bible/galatians/1#v21)</sup> Afterwards I came into the regions of Syria and Cilicia;
-
-- Being more exceedingly zealous of the traditions of my fathers: Right? So nobody could touch Paul when he talking about he was mad in Acts 26 persecuting the church. It was bad. He was zealous. He believed it wholeheartedly. He went harder than anybody else.
 
 - To reveal his Son in me: See that? That's twofold because Christ revealed himself in Acts 9. But then, all right, Paul was able to see everything clearly. Now, he understood why he had all of that knowledge before. You understand why he was the top of his class? Why he was more zealous? Because as soon as Christ revealed the proper understanding, all the dots connected. The Pharisees, they were known as what? Doctors of the law. So once he realizes that Christ revealed himself unto him, he understood that Christ, he comes in the volume of the book. All right? All of the high holy days, the tabernacles, Christ's tabernacle, he's the first fruits. He's the sacrificial lamb. You understand? Paul understood all of that.
 
@@ -627,13 +617,23 @@ Reading from Definition of "infallible" (on screen)  *[[38:39](https://www.youtu
 
 - Immediately I conferred not with flesh and blood: So he didn't have to check with man. He understood, hey, Christ chose me. I'm a chosen vessel. All right. To be a witness of the Lord.
 
+> <sup>[17](/bible/galatians/1#v17)</sup> Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus.
+
 - Neither went I up to Jerusalem to them which were apostles before me: Right. Apostles before Paul, talking Peter, James, John, the rest of the apostles. All right. So, he went straight to Arabia.
+
+> <sup>[18](/bible/galatians/1#v18)</sup> Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days.
 
 - Then after three years I went up to Jerusalem to see Peter: Right. So after 3 years, he went up to Jerusalem to see Cephas, Simon Peter.
 
 - And abode with him fifteen days: And abode with him for 15 days. Why would Peter allow him to abode with him? Because he understood that Paul had the same understanding. Remember Acts 10, you know how it was revealed through Cornelius to Simon Peter. Why else would Simon Peter or Cephas allow Paul to stay with him? Remember Paul is notorious for killing Christians, right? So why would he allow him to stay with him? Because they both had that understanding about Christ first and foremost and they had that understanding about the northern kingdom coming back into the fold.
 
+> <sup>[19](/bible/galatians/1#v19)</sup> But other of the apostles saw I none, save James the Lord’s brother.
+
 - Save James the Lord's brother: And here's another account to show you what he saw. James, the brother of Christ, and they were able to talk about the same thing. All right? Because it was witnessed unto James as well. We read that in 1 Corinthians 15.
+
+> <sup>[20](/bible/galatians/1#v20)</sup> Now the things which I write unto you, behold, before God, I lie not.
+>
+> <sup>[21](/bible/galatians/1#v21)</sup> Afterwards I came into the regions of Syria and Cilicia;
 
 - Afterwards I came into the regions of Syria and Cilicia: All right. That's all I want on that. Showing you why Paul referred to himself as the least of the apostles. Why? Because he persecuted the church. Give me one more in Timothy. 1 Timothy 1.
 
@@ -641,18 +641,18 @@ Reading from Definition of "infallible" (on screen)  *[[38:39](https://www.youtu
 **[1 Timothy 1:11-15](/bible/1-timothy/1#v11)**  *[[59:34](https://www.youtube.com/watch?v=hHHwx9bvOFI&t=3574s)]*
 
 > <sup>[11](/bible/1-timothy/1#v11)</sup> According to the glorious gospel of the blessed God, which was committed to my trust.
->
+
+- Which was committed to my trust: Right. Which was committed to Paul's trust. We read that in Acts 9.
+
 > <sup>[12](/bible/1-timothy/1#v12)</sup> And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry;
->
+
+- For that he counted me faithful: He counted him what? Counted me faithful.
+
 > <sup>[13](/bible/1-timothy/1#v13)</sup> Who was before a blasphemer, and a persecutor, and injurious: but I obtained mercy, because I did it ignorantly in unbelief.
 >
 > <sup>[14](/bible/1-timothy/1#v14)</sup> And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus.
 >
 > <sup>[15](/bible/1-timothy/1#v15)</sup> This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief.
-
-- Which was committed to my trust: Right. Which was committed to Paul's trust. We read that in Acts 9.
-
-- For that he counted me faithful: He counted him what? Counted me faithful.
 
 - Christ Jesus came into the world to save sinners; of whom I am chief: Right? Of whom Paul is chief. All right? Of whom Paul is chief. You know, a lot of people, you Christians out there, I know you're always waiting for that opportunity to include everybody. Well, Israel is the only nation capable of sinning. Okay? Because the laws are not given to everybody.
 
@@ -686,24 +686,24 @@ Reading from Definition of "infallible" (on screen)  *[[38:39](https://www.youtu
 > <sup>[9](/bible/1-corinthians/15#v9)</sup> For I am the least of the apostles, that am not meet to be called an apostle, because I persecuted the church of God.
 >
 > <sup>[10](/bible/1-corinthians/15#v10)</sup> But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me.
->
-> <sup>[11](/bible/1-corinthians/15#v11)</sup> Therefore whether it were I or they, so we preach, and so ye believed.
->
-> <sup>[12](/bible/1-corinthians/15#v12)</sup> Now if Christ be preached that he rose from the dead, how say some among you that there is no resurrection of the dead?
->
-> <sup>[13](/bible/1-corinthians/15#v13)</sup> But if there be no resurrection of the dead, then is Christ not risen:
->
-> <sup>[14](/bible/1-corinthians/15#v14)</sup> And if Christ be not risen, then is our preaching vain, and your faith is also vain.
 
 - And his grace which was bestowed upon me was not in vain: Right? So Paul is saying, hey, he's very, very appreciative about what the Lord did for him. And he made sure that the Lord choosing him to carry his name and to spread it throughout the Gentiles and to the rest of Israel, that it wasn't going to be in vain, to the point where when you read the New Testament it's majority Paul. And remember Paul's epistles were used for the gospels. You understand? They were used for the gospels to be written. You understand? So Paul really put his brick in when it came to the New Testament.
 
 - Yet not I, but the grace of God which was with me: Right. But the spirit of the Lord that was with the Apostle Paul.
 
+> <sup>[11](/bible/1-corinthians/15#v11)</sup> Therefore whether it were I or they, so we preach, and so ye believed.
+
 - Therefore whether it were I or they, so we preach, and so ye believed: Right. So whether it was Paul or the rest of those who saw Christ, at the end of the day, it's for your belief. It's for your faith. Paul's not the one trying to get all the glory for himself.
+
+> <sup>[12](/bible/1-corinthians/15#v12)</sup> Now if Christ be preached that he rose from the dead, how say some among you that there is no resurrection of the dead?
 
 - How say some among you that there is no resurrection of the dead?: You see that? So Christ already, he let it be known that he was going to rise on the third day. Okay. So, why would someone say different? Where's that belief system coming from?
 
+> <sup>[13](/bible/1-corinthians/15#v13)</sup> But if there be no resurrection of the dead, then is Christ not risen:
+
 - But if there be no resurrection of the dead, then is Christ not risen: So, if there be no resurrection of the dead, you mean to tell me that Christ did not rise? So, that's a contradiction. Obviously, we know he rose because Peter saw him, James saw him, the apostles, and 500 saw him at once. So for someone to teach contrary to that, we know that there's an issue. So Paul's saying, well, if there is no resurrection, are you telling me that Christ did not rise?
+
+> <sup>[14](/bible/1-corinthians/15#v14)</sup> And if Christ be not risen, then is our preaching vain, and your faith is also vain.
 
 - And if Christ be not risen, then is our preaching vain: So if Christ didn't rise. Yeah. I mean, it would be in vain. Why? Because our faith is based off of that, that he would die on the cross for the sins of Israel and rise again to have victory over death. So if that's the case, WHY ARE WE SERVING CHRIST? THAT would be of no profit. So he's posing that question. Why? Because that was a heresy that was in the church at Corinth. You understand?
 
@@ -776,13 +776,9 @@ Reading from Definition of "infallible" (on screen)  *[[38:39](https://www.youtu
 
 **[Hebrews 6:1-3](/bible/hebrews/6#v1)**  *[[1:13:28](https://www.youtube.com/watch?v=hHHwx9bvOFI&t=4408s)]*
 
-> <sup>[1](/bible/hebrews/6#v1)</sup> Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,
->
-> <sup>[2](/bible/hebrews/6#v2)</sup> Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.
->
-> <sup>[3](/bible/hebrews/6#v3)</sup> And this will we do, if God permit.
-
 - I need you to read this slow. Don't zoom past this one.
+
+> <sup>[1](/bible/hebrews/6#v1)</sup> Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,
 
 - Therefore leaving the principles of the doctrine of Christ: Right. You see that says leaving the principles. All right. What is the principle doctrine? What came before the law of sacrifice? Remember that? Give me that one in Galatians 3. 24. The school master. Give me that real quick.
 
@@ -794,11 +790,15 @@ Reading from Definition of "infallible" (on screen)  *[[38:39](https://www.youtu
 
 - And of faith toward God: Leave the animal sacrifice behind and press towards the mark, towards Jesus Christ.
 
+> <sup>[2](/bible/hebrews/6#v2)</sup> Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.
+
 - Of the doctrine of baptisms: Of the doctrines of baptisms. Why? Because that was going into what? The cleanliness of the law of sacrifice. You understand? But now we're baptized in Christ, putting off the old man. And now we live in a walk in the newness of life.
 
 - And of resurrection of the dead: AND OF WHAT? Right. The resurrection is not going to come from what? Animal sacrifice. It's going to come through what? Christ Jesus. Becoming that new man. All right? And literal resurrection of the dead like you read later on in 1 Corinthians the 15th chapter, when we put on, this mortal put on immortality. You understand?
 
 - And of eternal judgment: And of eternal judgment.
+
+> <sup>[3](/bible/hebrews/6#v3)</sup> And this will we do, if God permit.
 
 - And this will we do, if God permit: Right. If God permit. All right. Just drop that right there. I ain't going to go too much into that. So let's go back to Acts 23 and 6. Just to show you that the Pharisees had the same belief, but based off of what? Animal sacrifice.
 
@@ -827,26 +827,26 @@ Reading from Definition of "infallible" (on screen)  *[[38:39](https://www.youtu
 **[1 Corinthians 15:14-18](/bible/1-corinthians/15#v14)**  *[[1:17:58](https://www.youtube.com/watch?v=hHHwx9bvOFI&t=4678s)]*
 
 > <sup>[14](/bible/1-corinthians/15#v14)</sup> And if Christ be not risen, then is our preaching vain, and your faith is also vain.
->
-> <sup>[15](/bible/1-corinthians/15#v15)</sup> Yea, and we are found false witnesses of God; because we have testified of God that he raised up Christ: whom he raised not up, if so be that the dead rise not.
->
-> <sup>[16](/bible/1-corinthians/15#v16)</sup> For if the dead rise not, then is not Christ raised:
->
-> <sup>[17](/bible/1-corinthians/15#v17)</sup> And if Christ be not raised, your faith is vain; ye are yet in your sins.
->
-> <sup>[18](/bible/1-corinthians/15#v18)</sup> Then they also which are fallen asleep in Christ are perished.
 
 - And your faith is also vain: Right. And your faith is also vain. Let's read some more.
 
+> <sup>[15](/bible/1-corinthians/15#v15)</sup> Yea, and we are found false witnesses of God; because we have testified of God that he raised up Christ: whom he raised not up, if so be that the dead rise not.
+
 - Yea, and we are found false witnesses of God: So Paul is making it very, very plain. So, you mean to tell me there's some of you within the church at Corinth who believe that there's no resurrection? So, what you're saying is that Paul and the rest of the apostles are now false prophets, false witnesses. Because according to you, if there's no resurrection, everything that we've taught you and have taught to this land and that land is all a lie. That's what Paul the Apostle is saying right there.
 
+> <sup>[16](/bible/1-corinthians/15#v16)</sup> For if the dead rise not, then is not Christ raised:
+
 - For if the dead rise not, then is not Christ raised: It says, for if the dead rise not, so if there is no resurrection of the dead, Christ is not risen.
+
+> <sup>[17](/bible/1-corinthians/15#v17)</sup> And if Christ be not raised, your faith is vain; ye are yet in your sins.
 
 - And if Christ be not raised, your faith is vain: Right? Your faith is in vain. Your faith is in vain.
 
 - Ye are yet in your sins: There you go. There you go. There you go. Because if Christ did not die and rise again, our sins are still counted. You understand? Give me that one in Acts 13 and 38. You understand? Because what the law of sacrifice could not do, that's what Christ was able to do when he died on that cross and rose again and got victory over sin and death.
 
 - Ye are yet in your sins: You're still in your sins.
+
+> <sup>[18](/bible/1-corinthians/15#v18)</sup> Then they also which are fallen asleep in Christ are perished.
 
 - Then they also which are fallen asleep in Christ are perished: You see that? It says, "All of those who fell asleep in Christ, now they're dead and they never come back." Do you know? Watch this. Go to Hebrews. Let's go to Hebrews 11.
 
@@ -881,10 +881,10 @@ Reading from Definition of "infallible" (on screen)  *[[38:39](https://www.youtu
 > <sup>[7](/bible/hebrews/11#v7)</sup> By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he condemned the world, and became heir of the righteousness which is by faith.
 >
 > <sup>[8](/bible/hebrews/11#v8)</sup> By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went.
->
-> <sup>[9](/bible/hebrews/11#v9)</sup> By faith he sojourned in the land of promise, as in a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise:
 
 - By faith Abraham: Right? So, we going to do all these examples to show by faith. By faith in who? By faith in Christ. Abel believed in Christ. Noah believed in Christ. Abraham believed in Christ. Moses, Jacob, Joseph, all of the forefathers and the foremothers who believed in Christ. All right? They will all come back. You understand? They will all come back.
+
+> <sup>[9](/bible/hebrews/11#v9)</sup> By faith he sojourned in the land of promise, as in a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise:
 
 
 **[Hebrews 11:38-40](/bible/hebrews/11#v38)**  *[[1:22:55](https://www.youtube.com/watch?v=hHHwx9bvOFI&t=4975s)]*
@@ -892,14 +892,14 @@ Reading from Definition of "infallible" (on screen)  *[[38:39](https://www.youtu
 > <sup>[38](/bible/hebrews/11#v38)</sup> (Of whom the world was not worthy:) they wandered in deserts, and in mountains, and in dens and caves of the earth.
 >
 > <sup>[39](/bible/hebrews/11#v39)</sup> And these all, having obtained a good report through faith, received not the promise:
->
-> <sup>[40](/bible/hebrews/11#v40)</sup> God having provided some better thing for us, that they without us should not be made perfect.
 
 - And these all: So everybody mentioned before, all right, everybody mentioned before, it went through a lot of different examples. We didn't go through it for the sake of time, but it says, "And these all."
 
 - Having obtained a good report through faith: Through faith.
 
 - Received not the promise: They didn't receive the promise yet. So, they're waiting to receive the promise. But according to that heresy, what they're saying is that once you die, that's it. No, no, no, no, no, no, no. Once you die, we are going to be resurrected.
+
+> <sup>[40](/bible/hebrews/11#v40)</sup> God having provided some better thing for us, that they without us should not be made perfect.
 
 - That they without us should not be made perfect: Now go to that in First Thessalonians chapter 4.
 

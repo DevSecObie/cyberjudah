@@ -411,16 +411,16 @@ Spiritual wickedness in high places.
 **[Psalms 140:11-13](/bible/psalms/140#v11)**  *[[1:07:52](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=4072s)]*
 
 > <sup>[11](/bible/psalms/140#v11)</sup> Let not an evil speaker be established in the earth: evil shall hunt the violent man to overthrow him.
->
-> <sup>[12](/bible/psalms/140#v12)</sup> I know that the Lord will maintain the cause of the afflicted, and the right of the poor.
->
-> <sup>[13](/bible/psalms/140#v13)</sup> Surely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence.
 
 - Let not an evil speaker be established in the earth: evil shall hunt the violent man to overthrow him. You see, the Bible prophesies what is going to happen to this white man. Evil shall hunt the violent man to overthrow him.
 
 - I know that the Lord will maintain the cause of the afflicted. We are the afflicted. He is going to maintain our cause. That is why Christ said, pray for vengeance. Pray for vengeance.
 
 - And the right of the poor. We are the poor in spirit. That is us.
+
+> <sup>[12](/bible/psalms/140#v12)</sup> I know that the Lord will maintain the cause of the afflicted, and the right of the poor.
+>
+> <sup>[13](/bible/psalms/140#v13)</sup> Surely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence.
 
 - Surely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence.
 
@@ -510,22 +510,6 @@ Spiritual wickedness in high places.
 
 **[Psalms 44:19-26](/bible/psalms/44#v19)**  *[[1:26:25](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=5185s)]*
 
-> <sup>[19](/bible/psalms/44#v19)</sup> Though thou hast sore broken us in the place of dragons, and covered us with the shadow of death.
->
-> <sup>[20](/bible/psalms/44#v20)</sup> If we have forgotten the name of our God, or stretched out our hands to a strange god;
->
-> <sup>[21](/bible/psalms/44#v21)</sup> Shall not God search this out? for he knoweth the secrets of the heart.
->
-> <sup>[22](/bible/psalms/44#v22)</sup> Yea, for thy sake are we killed all the day long; we are counted as sheep for the slaughter.
->
-> <sup>[23](/bible/psalms/44#v23)</sup> Awake, why sleepest thou, O Lord? arise, cast us not off for ever.
->
-> <sup>[24](/bible/psalms/44#v24)</sup> Wherefore hidest thou thy face, and forgettest our affliction and our oppression?
->
-> <sup>[25](/bible/psalms/44#v25)</sup> For our soul is bowed down to the dust: our belly cleaveth unto the earth.
->
-> <sup>[26](/bible/psalms/44#v26)</sup> Arise for our help, and redeem us for thy mercies’ sake.
-
 - This is where Paul got that from. This is why Paul would often tell Timothy, bring the books and bring the parchments so I can write.
 
 - Though thou hast sore broken us in the place of dragons. That place of dragons are the seven heads. Remember the great red dragon with seven heads and their lands. You have got Greece, Rome, Spain, France, Germany, Russia and Great Britain, and the eighth head is America.
@@ -540,6 +524,20 @@ Spiritual wickedness in high places.
 
 - Awake, why sleepest thou, O Lord? arise, cast us not off for ever. Wherefore hidest thou thy face? You see that. We want the Lord to intervene now. But the Lord said, no, y'all have got to get yourselves together. You men, you women, get yourselves right according to my word.
 
+> <sup>[19](/bible/psalms/44#v19)</sup> Though thou hast sore broken us in the place of dragons, and covered us with the shadow of death.
+>
+> <sup>[20](/bible/psalms/44#v20)</sup> If we have forgotten the name of our God, or stretched out our hands to a strange god;
+>
+> <sup>[21](/bible/psalms/44#v21)</sup> Shall not God search this out? for he knoweth the secrets of the heart.
+>
+> <sup>[22](/bible/psalms/44#v22)</sup> Yea, for thy sake are we killed all the day long; we are counted as sheep for the slaughter.
+>
+> <sup>[23](/bible/psalms/44#v23)</sup> Awake, why sleepest thou, O Lord? arise, cast us not off for ever.
+>
+> <sup>[24](/bible/psalms/44#v24)</sup> Wherefore hidest thou thy face, and forgettest our affliction and our oppression?
+>
+> <sup>[25](/bible/psalms/44#v25)</sup> For our soul is bowed down to the dust: our belly cleaveth unto the earth.
+
 - And forgettest our affliction and our oppression? For our soul is bowed down to the dust: our belly cleaveth unto the earth.
 
 - Arise for our help, and redeem us for thy mercies' sake.
@@ -549,6 +547,8 @@ Spiritual wickedness in high places.
     > <sup>[39](/bible/daniel/11#v39)</sup> Thus shall he do in the most strong holds with a strange god, whom he shall acknowledge and increase with glory: and he shall cause them to rule over many, and shall divide the land for gain.
 
     Thus shall he do in the most strong holds with a strange god. That is the white man, starting with the Greeks all the way up to today. Here in our captivity we have stretched out our hands to their strange god that you think is Jesus. Whom he shall acknowledge and increase with glory. Robbed everything. And he shall cause them to rule over many. He caused his European allies to rule over many. And shall divide the land for gain. They divided the land of Israel and the land of Africa during the Berlin Conference for gain. That is what they did.
+
+> <sup>[26](/bible/psalms/44#v26)</sup> Arise for our help, and redeem us for thy mercies’ sake.
 
 **[Deuteronomy 32:16](/bible/deuteronomy/32#v16)**  *[[1:31:15](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=5475s)]*
 
@@ -612,10 +612,20 @@ Spiritual wickedness in high places.
 
 **[Genesis 9:11-17](/bible/genesis/9#v11)**  *[[1:37:23](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=5843s)]*
 
+- And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth.
+
 > <sup>[11](/bible/genesis/9#v11)</sup> And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth.
 >
 > <sup>[12](/bible/genesis/9#v12)</sup> And God said, This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations:
->
+
+- And God said, This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations: I do set my bow in the cloud. The bow is the rainbow.
+
+- And it shall be for a token of a covenant between me and the earth. And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud. The rainbow shall be seen in the cloud.
+
+- And I will remember my covenant, which is between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh.
+
+- And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that is upon the earth. And God said unto Noah, This is the token of the covenant, which I have established between me and all flesh that is upon the earth.
+
 > <sup>[13](/bible/genesis/9#v13)</sup> I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth.
 >
 > <sup>[14](/bible/genesis/9#v14)</sup> And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud:
@@ -626,33 +636,7 @@ Spiritual wickedness in high places.
 >
 > <sup>[17](/bible/genesis/9#v17)</sup> And God said unto Noah, This is the token of the covenant, which I have established between me and all flesh that is upon the earth.
 
-- And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth.
-
-- And God said, This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations: I do set my bow in the cloud. The bow is the rainbow.
-
-- And it shall be for a token of a covenant between me and the earth. And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud. The rainbow shall be seen in the cloud.
-
-- And I will remember my covenant, which is between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh.
-
-- And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that is upon the earth. And God said unto Noah, This is the token of the covenant, which I have established between me and all flesh that is upon the earth.
-
 **[Matthew 24:37-44](/bible/matthew/24#v37)**  *[[1:38:58](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=5938s)]*
-
-> <sup>[37](/bible/matthew/24#v37)</sup> But as the days of Noe were, so shall also the coming of the Son of man be.
->
-> <sup>[38](/bible/matthew/24#v38)</sup> For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,
->
-> <sup>[39](/bible/matthew/24#v39)</sup> And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be.
->
-> <sup>[40](/bible/matthew/24#v40)</sup> Then shall two be in the field; the one shall be taken, and the other left.
->
-> <sup>[41](/bible/matthew/24#v41)</sup> Two women shall be grinding at the mill; the one shall be taken, and the other left.
->
-> <sup>[42](/bible/matthew/24#v42)</sup> Watch therefore: for ye know not what hour your Lord doth come.
->
-> <sup>[43](/bible/matthew/24#v43)</sup> But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up.
->
-> <sup>[44](/bible/matthew/24#v44)</sup> Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh.
 
 - But as the days of Noe were. That is the Greek, by the way. N-o-e is still Noah. So shall also the coming of the Son of man be. Meaning Christ.
 
@@ -667,6 +651,18 @@ Spiritual wickedness in high places.
 - Then shall two be in the field; the one shall be taken. Taken where, brothers? Into destruction. And the other left. That is the righteous.
 
 - Two women shall be grinding at the mill. Two women shall be working at the mill. The one shall be taken. Taken where, brothers? To destruction. And the other left.
+
+> <sup>[37](/bible/matthew/24#v37)</sup> But as the days of Noe were, so shall also the coming of the Son of man be.
+>
+> <sup>[38](/bible/matthew/24#v38)</sup> For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,
+>
+> <sup>[39](/bible/matthew/24#v39)</sup> And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be.
+>
+> <sup>[40](/bible/matthew/24#v40)</sup> Then shall two be in the field; the one shall be taken, and the other left.
+>
+> <sup>[41](/bible/matthew/24#v41)</sup> Two women shall be grinding at the mill; the one shall be taken, and the other left.
+>
+> <sup>[42](/bible/matthew/24#v42)</sup> Watch therefore: for ye know not what hour your Lord doth come.
 
 - Watch therefore: for ye know not what hour your Lord doth come.
 
@@ -689,6 +685,10 @@ Spiritual wickedness in high places.
     > <sup>[76](/bible/2-esdras/16#v76)</sup> And the guide of them who keep my commandments and precepts, saith the Lord God: let not your sins weigh you down, and let not your iniquities lift up themselves.
 
     Hear, O ye my beloved, saith the Lord: behold, the days of trouble are at hand, but I will deliver you from the same. Be ye not afraid neither doubt; for God is your guide, and the guide of them who keep my commandments and precepts, saith the Lord God: let not your sins weigh you down, and let not your iniquities lift up themselves. So this is the same thing Noah was preaching back then, but nobody listened. Everybody mocked him.
+
+> <sup>[43](/bible/matthew/24#v43)</sup> But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up.
+>
+> <sup>[44](/bible/matthew/24#v44)</sup> Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh.
 
 **[Isaiah 54:10-13](/bible/isaiah/54#v10)**  *[[1:43:58](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=6238s)]*
 
@@ -827,28 +827,6 @@ Spiritual wickedness in high places.
 **[2 Peter 3:1-12](/bible/2-peter/3#v1)**  *[[2:05:42](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=7542s)]*
 
 > <sup>[1](/bible/2-peter/3#v1)</sup> This second epistle, beloved, I now write unto you; in both which I stir up your pure minds by way of remembrance:
->
-> <sup>[2](/bible/2-peter/3#v2)</sup> That ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour:
->
-> <sup>[3](/bible/2-peter/3#v3)</sup> Knowing this first, that there shall come in the last days scoffers, walking after their own lusts,
->
-> <sup>[4](/bible/2-peter/3#v4)</sup> And saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as they were from the beginning of the creation.
->
-> <sup>[5](/bible/2-peter/3#v5)</sup> For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water:
->
-> <sup>[6](/bible/2-peter/3#v6)</sup> Whereby the world that then was, being overflowed with water, perished:
->
-> <sup>[7](/bible/2-peter/3#v7)</sup> But the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men.
->
-> <sup>[8](/bible/2-peter/3#v8)</sup> But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day.
->
-> <sup>[9](/bible/2-peter/3#v9)</sup> The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.
->
-> <sup>[10](/bible/2-peter/3#v10)</sup> But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up.
->
-> <sup>[11](/bible/2-peter/3#v11)</sup> Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conversation and godliness,
->
-> <sup>[12](/bible/2-peter/3#v12)</sup> Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat?
 
 - This second epistle, beloved, I now write unto you; in both which I stir up your pure minds by way of remembrance: that ye may be mindful of the words which were spoken before by the holy prophets. Remember what the prophets said. That is why you need the Old Testament. How are you going to remember what the prophets said and you do not read the Old Testament?
 
@@ -861,6 +839,14 @@ Spiritual wickedness in high places.
 - For since the fathers fell asleep. Abraham, Isaac and Jacob died. All things continue as they were from the beginning of the creation. Everything continued as it was. Everything is the same.
 
 - For this they willingly are ignorant of. What are they willingly ignorant of? The flood. Because from the creation all the way up, there was a major flood that killed everybody on the planet.
+
+> <sup>[2](/bible/2-peter/3#v2)</sup> That ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour:
+>
+> <sup>[3](/bible/2-peter/3#v3)</sup> Knowing this first, that there shall come in the last days scoffers, walking after their own lusts,
+>
+> <sup>[4](/bible/2-peter/3#v4)</sup> And saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as they were from the beginning of the creation.
+>
+> <sup>[5](/bible/2-peter/3#v5)</sup> For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water:
 
 - That by the word of God the heavens were of old, and the earth standing out of the water and in the water: whereby the world that then was, being overflowed with water, perished. Everybody on the planet died. Christians forget about that. God is an all-loving God, he just loves, loves, loves, nothing bad happens under his watch. Are you serious? Did he not kill everybody on the planet except Noah and his family and those animals? What Bible are you not reading? He is the same yesterday, today and forever. That is what the Bible says.
 
@@ -882,31 +868,37 @@ Spiritual wickedness in high places.
 
 - Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat. The heavens, the nations, shall be on fire. That is the heavens. You have got some of our people that do not believe that. Although you see nations warring together, they still are willingly ignorant of this thing.
 
-**[Psalms 91:1-8](/bible/psalms/91#v1)**  *[[2:13:06](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=7986s)]*
+> <sup>[6](/bible/2-peter/3#v6)</sup> Whereby the world that then was, being overflowed with water, perished:
+>
+> <sup>[7](/bible/2-peter/3#v7)</sup> But the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men.
+>
+> <sup>[8](/bible/2-peter/3#v8)</sup> But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day.
+>
+> <sup>[9](/bible/2-peter/3#v9)</sup> The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.
+>
+> <sup>[10](/bible/2-peter/3#v10)</sup> But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up.
+>
+> <sup>[11](/bible/2-peter/3#v11)</sup> Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conversation and godliness,
+>
+> <sup>[12](/bible/2-peter/3#v12)</sup> Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat?
 
-> <sup>[1](/bible/psalms/91#v1)</sup> He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.
->
-> <sup>[2](/bible/psalms/91#v2)</sup> I will say of the Lord, He is my refuge and my fortress: my God; in him will I trust.
->
-> <sup>[3](/bible/psalms/91#v3)</sup> Surely he shall deliver thee from the snare of the fowler, and from the noisome pestilence.
->
-> <sup>[4](/bible/psalms/91#v4)</sup> He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler.
->
-> <sup>[5](/bible/psalms/91#v5)</sup> Thou shalt not be afraid for the terror by night; nor for the arrow that flieth by day;
->
-> <sup>[6](/bible/psalms/91#v6)</sup> Nor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noonday.
->
-> <sup>[7](/bible/psalms/91#v7)</sup> A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee.
->
-> <sup>[8](/bible/psalms/91#v8)</sup> Only with thine eyes shalt thou behold and see the reward of the wicked.
+**[Psalms 91:1-8](/bible/psalms/91#v1)**  *[[2:13:06](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=7986s)]*
 
 - He that dwelleth in the secret place of the most High. The secret place of the Most High is the Bible. His laws.
 
 - Shall abide under the shadow of the Almighty. Meaning protection. His shadow means his protection.
 
+> <sup>[1](/bible/psalms/91#v1)</sup> He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.
+>
+> <sup>[2](/bible/psalms/91#v2)</sup> I will say of the Lord, He is my refuge and my fortress: my God; in him will I trust.
+
 - I will say of the Lord, He is my refuge and my fortress: my God; in him will I trust.
 
 - Surely he shall deliver thee from the snare of the fowler, and from the noisome pestilence.
+
+> <sup>[3](/bible/psalms/91#v3)</sup> Surely he shall deliver thee from the snare of the fowler, and from the noisome pestilence.
+>
+> <sup>[4](/bible/psalms/91#v4)</sup> He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler.
 
 - He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler.
 
@@ -919,6 +911,14 @@ Spiritual wickedness in high places.
 - And ten thousand at thy right hand. You are going to see ten thousand people drop dead, get incinerated, at our right hand. But it shall not come nigh thee. But those brothers and sisters who are alive at that time, it says it shall not come near thee.
 
 - Only with thine eyes shalt thou behold and see the reward of the wicked.
+
+> <sup>[5](/bible/psalms/91#v5)</sup> Thou shalt not be afraid for the terror by night; nor for the arrow that flieth by day;
+>
+> <sup>[6](/bible/psalms/91#v6)</sup> Nor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noonday.
+>
+> <sup>[7](/bible/psalms/91#v7)</sup> A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee.
+>
+> <sup>[8](/bible/psalms/91#v8)</sup> Only with thine eyes shalt thou behold and see the reward of the wicked.
 
 **[Zechariah 14:12](/bible/zechariah/14#v12)**  *[[2:14:39](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=8079s)]*
 
@@ -1024,15 +1024,9 @@ Spiritual wickedness in high places.
 
 **[Jeremiah 50:6-9](/bible/jeremiah/50#v6)**  *[[2:33:35](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=9215s)]*
 
-> <sup>[6](/bible/jeremiah/50#v6)</sup> My people hath been lost sheep: their shepherds have caused them to go astray, they have turned them away on the mountains: they have gone from mountain to hill, they have forgotten their restingplace.
->
-> <sup>[7](/bible/jeremiah/50#v7)</sup> All that found them have devoured them: and their adversaries said, We offend not, because they have sinned against the Lord, the habitation of justice, even the Lord, the hope of their fathers.
->
-> <sup>[8](/bible/jeremiah/50#v8)</sup> Remove out of the midst of Babylon, and go forth out of the land of the Chaldeans, and be as the he goats before the flocks.
->
-> <sup>[9](/bible/jeremiah/50#v9)</sup> For, lo, I will raise and cause to come up against Babylon an assembly of great nations from the north country: and they shall set themselves in array against her; from thence she shall be taken: their arrows shall be as of a mighty expert man; none shall return in vain.
-
 - So listen, if you are teaching and you want vengeance and you want justice, and your enemy hears that, what would they label you? They are going to say you are hateful. That was in the past, like what they do today. So you men have got to understand what comes with teaching the gospel, with teaching that you want justice, you want vengeance, you want payback. What comes with that is affliction. So you brothers must understand that and program your mind with that kind of thinking. Do not think you are going to teach that the white man is evil and the wicked of the earth and he is going to leave you alone.
+
+> <sup>[6](/bible/jeremiah/50#v6)</sup> My people hath been lost sheep: their shepherds have caused them to go astray, they have turned them away on the mountains: they have gone from mountain to hill, they have forgotten their restingplace.
 
 - My people hath been lost sheep: their shepherds have caused them to go astray. The preachers are not telling them anything. Christianity is not teaching our people anything. And our people are being destroyed every day.
 
@@ -1051,6 +1045,12 @@ Spiritual wickedness in high places.
 - And go forth out of the land of the Chaldeans. Go forth out of Babylon the great, the mentality that we are subjected to. And be as the he goats before the flocks.
 
 - For, lo, I will raise and cause to come up against Babylon an assembly of great nations. When Bishop was going over and showing you how the Most High caused a smith to build the weapons, we are thinking that this man is all powerful and we have forgotten the power of the Most High. The Most High causes man to create the weapon to his own destruction. Understand what I just said. He caused him to build the weapon that is going to take him out. So what power does he really have? The Most High said, I created the smith that bloweth the coals in the fire, and I have created the waster to destroy. He made them build it and he made them create the button that they are going to press. But I do not want to press the button. You are going to press the button, because I am going to make you press it.
+
+> <sup>[7](/bible/jeremiah/50#v7)</sup> All that found them have devoured them: and their adversaries said, We offend not, because they have sinned against the Lord, the habitation of justice, even the Lord, the hope of their fathers.
+>
+> <sup>[8](/bible/jeremiah/50#v8)</sup> Remove out of the midst of Babylon, and go forth out of the land of the Chaldeans, and be as the he goats before the flocks.
+>
+> <sup>[9](/bible/jeremiah/50#v9)</sup> For, lo, I will raise and cause to come up against Babylon an assembly of great nations from the north country: and they shall set themselves in array against her; from thence she shall be taken: their arrows shall be as of a mighty expert man; none shall return in vain.
 
 - From the north country: and they shall set themselves in array against her. All of these nations have got missile warfare ready to press the button. They are going to set themselves up in array around Babylon the great.
 

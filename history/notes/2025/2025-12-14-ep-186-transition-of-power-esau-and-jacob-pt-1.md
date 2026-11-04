@@ -198,10 +198,6 @@ Reading from an article on Athrwys of Gwent and the search for the real King Art
 
 **[Psalms 64:5-6](/bible/psalms/64#v5)**  *[[30:58](https://www.youtube.com/watch?v=fziNo8Jk6E0&t=1858s)]*
 
-> <sup>[5](/bible/psalms/64#v5)</sup> They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?
->
-> <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
-
 - Verse 6 first: and the heart of them, the wicked, is deep. Why? Because when they realize, okay, these … are free now, they're going to learn to read, we got to figure out a way to come behind what we wrote back then and clean it up. Because they have contingency. They think ahead: okay, if they read this, they're going to know that they ruled. We can't allow that to happen. We have to erase that. Come back and clean all that up. Because remember, these books that we're going over, they shared among themselves in their small circles.
 
 - Remember that dude who sat with the Bishop. The Bishop had a book that we have in our possession, which was very, very hard to come by, but we have it. And the book was laying flat on the table, and the guy was like, I see you got a rare book there. The book wasn't open, but he knew what it was. It was closed and he kept focusing. He kept saying, how do you know where to go when you travel to teach people? The spirit. He told the Bishop, I work for a group of scholars. But he's sitting down talking to our Bishop about what books we're having and how we came across it and where we have it. We know exactly what we're talking about. We know what we're doing over here.
@@ -216,6 +212,8 @@ Reading from an article on Athrwys of Gwent and the search for the real King Art
 
 - So read verse 5.
 
+> <sup>[5](/bible/psalms/64#v5)</sup> They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?
+
 - They encourage themselves in an evil matter. They commune of laying snares privily: they communicate on laying traps, privy, secretly. Let's change this book. Let's revise the Bible. Let's change that. Have a modern scholar come behind and say that's the wrong information. That's misinformation. That's folklore. That's not backed up by any data. That's what they do. It's damage control.
 
 - They say, who shall see them? And they say, who's going to figure this out? We will.
@@ -223,6 +221,8 @@ Reading from an article on Athrwys of Gwent and the search for the real King Art
 - They search out iniquities. That's how they bring out Christmas, New Year's. Where they learn that? Where that custom come from? It's of antiquity. Where's New Year's from? It's of antiquity. The months of the year, antiquity. The days of the week, antiquity. The names of the planets, antiquity. They search these things out. You're going to worship Rome one way or the other, because they search out iniquities. New Year's, Mother's Day, Father's Day, Valentine's Day, birthdays: antiquity. They search it out and they incorporate it into their system. And you stupid ass … will go by and you celebrate it.
 
 - They accomplish a diligent search, both the inward thought of every one of them, and the heart is deep. Because they think 10 steps ahead. Contingency plan A. Contingency plan B. C, Deac, E, F. So if A fails, they got B in place. If C fails, they got D in place. Damn. So I don't expect you stupid black apologists to think that far ahead. You're not on that level. We are, though. We know what they're doing. We know what they've done. Now let's go back to the article.
+
+> <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
 
 <div class="reading">
 

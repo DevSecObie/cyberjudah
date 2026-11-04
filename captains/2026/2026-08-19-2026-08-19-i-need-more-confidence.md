@@ -2,7 +2,7 @@
 title: "I Need More Confidence"
 slug: "2026/2026-08-19-i-need-more-confidence"
 date: "2026-08-19"
-teacher: "Captain Yahoshua"
+teacher: "Captain Yehoshua"
 description: "15 Minutes w/ The Captains · 2026-08-19"
 tags: ["15 Minutes w/ The Captains", "christ", "discipline", "health", "the-word"]
 ---
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "discipline", "health", "the-word
 
 ## Introduction
 
-Shalom Israel. Most High and Christ bless. It is Captain Yahoshua with another edition of 15 Minutes with the Captains.
+Shalom Israel. Most High and Christ bless. It is Captain Yehoshua with another edition of 15 Minutes with the Captains.
 
 **Today's lesson is entitled: I need more confidence.**
 
@@ -169,7 +169,7 @@ So if you need more confidence, which we all do, the first thing we need to do i
 
 All praise to the Most High.
 
-Captain Yahoshua. Most High Christ bless.
+Captain Yehoshua. Most High Christ bless.
 
 ---
 

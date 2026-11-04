@@ -2,7 +2,7 @@
 title: "The Madmen Of China And Their Hatred For Black People"
 slug: "2026/2026-06-20-the-madmen-of-china-and-their-hatred-for-black-people"
 date: "2026-06-20"
-teacher: ""
+teacher: "Bishop Nathanyel"
 description: "IUIC in the ClassRoom · 2026-06-20"
 tags: ["IUIC in the ClassRoom", "captivity", "nations", "pride", "prophecy"]
 ---
@@ -116,6 +116,8 @@ Reading from on-screen text on the primary countries and territories of East Asi
 
 **[Genesis 19:29-38](/bible/genesis/19#v29)**  *[[42:01](https://www.youtube.com/watch?v=6XyhSewrzz0&t=2521s)]*
 
+- Sodom and Gomorrah have just been destroyed, and Lot dwells in a cave with his two daughters. They think everybody on the planet is dead: our father is old, and there is not a man in the earth to come in unto us after the manner of all the earth. Both the daughters of Lot were with child by their father.
+
 > <sup>[29](/bible/genesis/19#v29)</sup> And it came to pass, when God destroyed the cities of the plain, that God remembered Abraham, and sent Lot out of the midst of the overthrow, when he overthrew the cities in the which Lot dwelt.
 >
 > <sup>[30](/bible/genesis/19#v30)</sup> And Lot went up out of Zoar, and dwelt in the mountain, and his two daughters with him; for he feared to dwell in Zoar: and he dwelt in a cave, he and his two daughters.
@@ -133,12 +135,12 @@ Reading from on-screen text on the primary countries and territories of East Asi
 > <sup>[36](/bible/genesis/19#v36)</sup> Thus were both the daughters of Lot with child by their father.
 >
 > <sup>[37](/bible/genesis/19#v37)</sup> And the firstborn bare a son, and called his name Moab: the same is the father of the Moabites unto this day.
->
-> <sup>[38](/bible/genesis/19#v38)</sup> And the younger, she also bare a son, and called his name Ben–ammi: the same is the father of the children of Ammon unto this day.
 
-- Sodom and Gomorrah have just been destroyed, and Lot dwells in a cave with his two daughters. They think everybody on the planet is dead: our father is old, and there is not a man in the earth to come in unto us after the manner of all the earth. Both the daughters of Lot were with child by their father.
 - And the firstborn bare a son, and called his name Moab: the same is the father of the Moabites unto this day. And the younger bare a son, and called his name Benammi: the same is the father of the children of Ammon unto this day.
+
 - When I came into this truth in the nineties, our elders already taught us that Moab is the Chinese and Ammon is the Japanese. It was not until recently that we found the books.
+
+> <sup>[38](/bible/genesis/19#v38)</sup> And the younger, she also bare a son, and called his name Ben–ammi: the same is the father of the children of Ammon unto this day.
 
 <div class="reading">
 
@@ -222,7 +224,11 @@ Reading from on-screen text on head shaving in Chinese religions  *[[51:44](http
 **[Isaiah 16:1-5](/bible/isaiah/16#v1)**  *[[52:23](https://www.youtube.com/watch?v=6XyhSewrzz0&t=3143s)]*
 
 > <sup>[1](/bible/isaiah/16#v1)</sup> Send ye the lamb to the ruler of the land from Sela to the wilderness, unto the mount of the daughter of Zion.
->
+
+- Send ye the lamb to the ruler of the land from Sela: Sela is Petra, that is Edom. Unto the mount of the daughter of Zion.
+
+- Hide the outcasts; bewray not him that wandereth. The outcast is us, the Israelites. During the time of Nebuchadnezzar many Israelites fled and hid amongst Moab: let mine outcasts dwell with thee, Moab; be thou a covert to them from the face of the spoiler. The spoiler was Nebuchadnezzar.
+
 > <sup>[2](/bible/isaiah/16#v2)</sup> For it shall be, that, as a wandering bird cast out of the nest, so the daughters of Moab shall be at the fords of Arnon.
 >
 > <sup>[3](/bible/isaiah/16#v3)</sup> Take counsel, execute judgment; make thy shadow as the night in the midst of the noonday; hide the outcasts; bewray not him that wandereth.
@@ -231,8 +237,6 @@ Reading from on-screen text on head shaving in Chinese religions  *[[51:44](http
 >
 > <sup>[5](/bible/isaiah/16#v5)</sup> And in mercy shall the throne be established: and he shall sit upon it in truth in the tabernacle of David, judging, and seeking judgment, and hasting righteousness.
 
-- Send ye the lamb to the ruler of the land from Sela: Sela is Petra, that is Edom. Unto the mount of the daughter of Zion.
-- Hide the outcasts; bewray not him that wandereth. The outcast is us, the Israelites. During the time of Nebuchadnezzar many Israelites fled and hid amongst Moab: let mine outcasts dwell with thee, Moab; be thou a covert to them from the face of the spoiler. The spoiler was Nebuchadnezzar.
 - And in mercy shall the throne be established: and he shall sit upon it in truth in the tabernacle of David, judging, and seeking judgment, and hasting righteousness. The throne that is going to be established is the throne of Christ.
 
   Precepts:
@@ -261,6 +265,10 @@ Reading from on-screen text on head shaving in Chinese religions  *[[51:44](http
 
 **[Jeremiah 48:1-9](/bible/jeremiah/48#v1)**  *[[1:01:31](https://www.youtube.com/watch?v=6XyhSewrzz0&t=3691s)]*
 
+- There shall be no more praise of Moab. You know how black people praise Moab: everybody was kung fu fighting; we love those Chinese movies. We will praise Moab quick, but Moab does not have that same love for us. Even today people say the next world superpower is going to be China; the prophecy says there shall be no more praise of Moab.
+
+- Also thou shalt be cut down, O Madmen. See what God calls Moab: madmen. That is the class title. When you read the history of Moab, they hated and despised our people; I will show you that.
+
 > <sup>[1](/bible/jeremiah/48#v1)</sup> Against Moab thus saith the Lord of hosts, the God of Israel; Woe unto Nebo! for it is spoiled: Kiriathaim is confounded and taken: Misgab is confounded and dismayed.
 >
 > <sup>[2](/bible/jeremiah/48#v2)</sup> There shall be no more praise of Moab: in Heshbon they have devised evil against it; come, and let us cut it off from being a nation. Also thou shalt be cut down, O Madmen; the sword shall pursue thee.
@@ -274,16 +282,16 @@ Reading from on-screen text on head shaving in Chinese religions  *[[51:44](http
 > <sup>[6](/bible/jeremiah/48#v6)</sup> Flee, save your lives, and be like the heath in the wilderness.
 >
 > <sup>[7](/bible/jeremiah/48#v7)</sup> For because thou hast trusted in thy works and in thy treasures, thou shalt also be taken: and Chemosh shall go forth into captivity with his priests and his princes together.
->
+
+- For because thou hast trusted in thy works and in thy treasures, thou shalt also be taken: captivity, prisoners of war. And Chemosh shall go forth into captivity with his priests and his princes together. Chemosh was the favorite idol god of Moab.
+
+- The spoiler shall come upon every city, and no city shall escape. Nebuchadnezzar destroyed Moab then; Jeremiah's prophecy carries the duality, because Moab today, China, is a world superpower, and they will be destroyed once again. This goes with 2 Esdras 15:46-63 on the destruction of Asia and Babylon.
+
+- Give wings unto Moab, that it may flee and get away. When Nebuchadnezzar came through, a lot of them fled far east. Some got caught; some did not.
+
 > <sup>[8](/bible/jeremiah/48#v8)</sup> And the spoiler shall come upon every city, and no city shall escape: the valley also shall perish, and the plain shall be destroyed, as the Lord hath spoken.
 >
 > <sup>[9](/bible/jeremiah/48#v9)</sup> Give wings unto Moab, that it may flee and get away: for the cities thereof shall be desolate, without any to dwell therein.
-
-- There shall be no more praise of Moab. You know how black people praise Moab: everybody was kung fu fighting; we love those Chinese movies. We will praise Moab quick, but Moab does not have that same love for us. Even today people say the next world superpower is going to be China; the prophecy says there shall be no more praise of Moab.
-- Also thou shalt be cut down, O Madmen. See what God calls Moab: madmen. That is the class title. When you read the history of Moab, they hated and despised our people; I will show you that.
-- For because thou hast trusted in thy works and in thy treasures, thou shalt also be taken: captivity, prisoners of war. And Chemosh shall go forth into captivity with his priests and his princes together. Chemosh was the favorite idol god of Moab.
-- The spoiler shall come upon every city, and no city shall escape. Nebuchadnezzar destroyed Moab then; Jeremiah's prophecy carries the duality, because Moab today, China, is a world superpower, and they will be destroyed once again. This goes with 2 Esdras 15:46-63 on the destruction of Asia and Babylon.
-- Give wings unto Moab, that it may flee and get away. When Nebuchadnezzar came through, a lot of them fled far east. Some got caught; some did not.
 
 **[Daniel 11:41](/bible/daniel/11#v41)**  *[[1:07:48](https://www.youtube.com/watch?v=6XyhSewrzz0&t=4068s)]*
 
@@ -654,7 +662,15 @@ Reading from *The Ancient Jewish Diaspora in Japan, the Tribe of Hada: Their Rel
 **[2 Esdras 15:46-53](/bible/2-esdras/15#v46)**  *[[1:58:32](https://www.youtube.com/watch?v=6XyhSewrzz0&t=7112s)]*
 
 > <sup>[46](/bible/2-esdras/15#v46)</sup> And thou, Asia, that art partaker of the hope of Babylon, and art the glory of her person:
->
+
+- And thou, Asia, that art partaker of the hope of Babylon: woe be unto thee, thou wretch, because thou hast made thyself like unto her. Asia has made herself like Babylon the great, decking her daughters in whoredom to please and glory in her lovers: that is the corporations, the fornication of Revelation 17 and 18, the business deals with all nations.
+
+- Thou hast followed her that is hated in all her works and inventions. This is how you know it is China and Japan: in all of America's works and inventions, China either reverse engineered it or stole the technology.
+
+- Therefore saith God, I will send plagues upon thee; widowhood, poverty, famine, sword, and pestilence, to waste thy houses with destruction and death. This is prophecy; it has not occurred yet.
+
+- If thou hadst not always slain my chosen, exalting the stroke of thine hands, and saying over their dead, when thou wast drunken. This is why you do not see the descendants of all those black slaves over in China and Japan today: they were always killing us. Remember, they said we had great physical strength; they could not take the strong men one on one, so they waited until the drinking feasts, when everybody was drunk, and then they would slaughter our people. That is what God is answering.
+
 > <sup>[47](/bible/2-esdras/15#v47)</sup> Woe be unto thee, thou wretch, because thou hast made thyself like unto her; and hast decked thy daughters in whoredom, that they might please and glory in thy lovers, which have always desired to commit whoredom with thee.
 >
 > <sup>[48](/bible/2-esdras/15#v48)</sup> Thou hast followed her that is hated in all her works and inventions: therefore saith God,
@@ -668,11 +684,6 @@ Reading from *The Ancient Jewish Diaspora in Japan, the Tribe of Hada: Their Rel
 > <sup>[52](/bible/2-esdras/15#v52)</sup> Would I with jealousy have so proceeded against thee, saith the Lord,
 >
 > <sup>[53](/bible/2-esdras/15#v53)</sup> If thou hadst not always slain my chosen, exalting the stroke of thine hands, and saying over their dead, when thou wast drunken,
-
-- And thou, Asia, that art partaker of the hope of Babylon: woe be unto thee, thou wretch, because thou hast made thyself like unto her. Asia has made herself like Babylon the great, decking her daughters in whoredom to please and glory in her lovers: that is the corporations, the fornication of Revelation 17 and 18, the business deals with all nations.
-- Thou hast followed her that is hated in all her works and inventions. This is how you know it is China and Japan: in all of America's works and inventions, China either reverse engineered it or stole the technology.
-- Therefore saith God, I will send plagues upon thee; widowhood, poverty, famine, sword, and pestilence, to waste thy houses with destruction and death. This is prophecy; it has not occurred yet.
-- If thou hadst not always slain my chosen, exalting the stroke of thine hands, and saying over their dead, when thou wast drunken. This is why you do not see the descendants of all those black slaves over in China and Japan today: they were always killing us. Remember, they said we had great physical strength; they could not take the strong men one on one, so they waited until the drinking feasts, when everybody was drunk, and then they would slaughter our people. That is what God is answering.
 
 **[Jeremiah 48:10-13](/bible/jeremiah/48#v10)**  *[[2:02:57](https://www.youtube.com/watch?v=6XyhSewrzz0&t=7377s)]*
 
@@ -754,7 +765,15 @@ Reading from an article from the Guardian  *[[2:08:22](https://www.youtube.com/w
 > <sup>[25](/bible/jeremiah/48#v25)</sup> The horn of Moab is cut off, and his arm is broken, saith the Lord.
 >
 > <sup>[26](/bible/jeremiah/48#v26)</sup> Make ye him drunken: for he magnified himself against the Lord: Moab also shall wallow in his vomit, and he also shall be in derision.
->
+
+- Make ye him drunken: for he magnified himself against the Lord. Notice why God says make Moab drunk: that is what they did to us. Moab also shall wallow in his vomit, and he also shall be in derision. For was not Israel a derision unto thee? You danced when you slaughtered us; you skipped for joy when we fell. So now they are going to get judged the same way.
+
+- Commercial played in class: the Chinese laundry detergent ad in which a black man is stuffed into a washing machine and comes out a fair-skinned Chinese man. This is how they mock us. And some black people see nothing wrong with that; they still want to date them, marry them, have kids by them.
+
+- O ye that dwell in Moab, leave the cities, and dwell in the rock. Images shown in class: China's bunkers in the mountains, little bunkers, big bunkers, all kinds of bunkers. The prophecy already saw it.
+
+- I know his wrath, saith the Lord; but it shall not be so; his lies shall not so effect it. Video played in class: a Chinese commentator boasting that China will not fire the first shot but will never allow a second, describing an ICBM carrying dozens of warheads that can reach any corner of the world in under twenty minutes, and promising that whoever wants to destroy China will be destroyed. Now that is some pride right there. Whatever China says, God says it shall not be so: his lies will not affect the outcome of what God says is going to happen to him.
+
 > <sup>[27](/bible/jeremiah/48#v27)</sup> For was not Israel a derision unto thee? was he found among thieves? for since thou spakest of him, thou skippedst for joy.
 >
 > <sup>[28](/bible/jeremiah/48#v28)</sup> O ye that dwell in Moab, leave the cities, and dwell in the rock, and be like the dove that maketh her nest in the sides of the hole’s mouth.
@@ -763,31 +782,18 @@ Reading from an article from the Guardian  *[[2:08:22](https://www.youtube.com/w
 >
 > <sup>[30](/bible/jeremiah/48#v30)</sup> I know his wrath, saith the Lord; but it shall not be so; his lies shall not so effect it.
 
-- Make ye him drunken: for he magnified himself against the Lord. Notice why God says make Moab drunk: that is what they did to us. Moab also shall wallow in his vomit, and he also shall be in derision. For was not Israel a derision unto thee? You danced when you slaughtered us; you skipped for joy when we fell. So now they are going to get judged the same way.
-- Commercial played in class: the Chinese laundry detergent ad in which a black man is stuffed into a washing machine and comes out a fair-skinned Chinese man. This is how they mock us. And some black people see nothing wrong with that; they still want to date them, marry them, have kids by them.
-- O ye that dwell in Moab, leave the cities, and dwell in the rock. Images shown in class: China's bunkers in the mountains, little bunkers, big bunkers, all kinds of bunkers. The prophecy already saw it.
-- I know his wrath, saith the Lord; but it shall not be so; his lies shall not so effect it. Video played in class: a Chinese commentator boasting that China will not fire the first shot but will never allow a second, describing an ICBM carrying dozens of warheads that can reach any corner of the world in under twenty minutes, and promising that whoever wants to destroy China will be destroyed. Now that is some pride right there. Whatever China says, God says it shall not be so: his lies will not affect the outcome of what God says is going to happen to him.
-
 **[Jeremiah 48:35-42](/bible/jeremiah/48#v35)**  *[[2:15:20](https://www.youtube.com/watch?v=6XyhSewrzz0&t=8120s)]*
+
+- I will cause to cease in Moab, saith the Lord, him that offereth in the high places, and him that burneth incense to his gods. Video played in class: the incense counts of Chinese devotion, 108 sticks to the Buddhas, 32 to the devas of the four directions, 21 praying to one's father, sticks for every deity and ancestor. China is known for burning incense to its gods; more proof of who Moab is.
 
 > <sup>[35](/bible/jeremiah/48#v35)</sup> Moreover I will cause to cease in Moab, saith the Lord, him that offereth in the high places, and him that burneth incense to his gods.
 >
 > <sup>[36](/bible/jeremiah/48#v36)</sup> Therefore mine heart shall sound for Moab like pipes, and mine heart shall sound like pipes for the men of Kir–heres: because the riches that he hath gotten are perished.
 >
 > <sup>[37](/bible/jeremiah/48#v37)</sup> For every head shall be bald, and every beard clipped: upon all the hands shall be cuttings, and upon the loins sackcloth.
->
-> <sup>[38](/bible/jeremiah/48#v38)</sup> There shall be lamentation generally upon all the housetops of Moab, and in the streets thereof: for I have broken Moab like a vessel wherein is no pleasure, saith the Lord.
->
-> <sup>[39](/bible/jeremiah/48#v39)</sup> They shall howl, saying, How is it broken down! how hath Moab turned the back with shame! so shall Moab be a derision and a dismaying to all them about him.
->
-> <sup>[40](/bible/jeremiah/48#v40)</sup> For thus saith the Lord; Behold, he shall fly as an eagle, and shall spread his wings over Moab.
->
-> <sup>[41](/bible/jeremiah/48#v41)</sup> Kerioth is taken, and the strong holds are surprised, and the mighty men’s hearts in Moab at that day shall be as the heart of a woman in her pangs.
->
-> <sup>[42](/bible/jeremiah/48#v42)</sup> And Moab shall be destroyed from being a people, because he hath magnified himself against the Lord.
 
-- I will cause to cease in Moab, saith the Lord, him that offereth in the high places, and him that burneth incense to his gods. Video played in class: the incense counts of Chinese devotion, 108 sticks to the Buddhas, 32 to the devas of the four directions, 21 praying to one's father, sticks for every deity and ancestor. China is known for burning incense to its gods; more proof of who Moab is.
 - Every head shall be bald, and every beard clipped: the mourning of Moab returns. For I have broken Moab like a vessel wherein is no pleasure, saith the Lord.
+
 - For thus saith the Lord; Behold, he shall fly as an eagle, and shall spread his wings over Moab. Whose symbol is the eagle? America. The eagle spreads his wings over Moab, and Moab shall be destroyed from being a people, because he hath magnified himself against the Lord.
 
   Precepts:
@@ -810,6 +816,16 @@ Reading from an article from the Guardian  *[[2:08:22](https://www.youtube.com/w
     > <sup>[63](/bible/2-esdras/15#v63)</sup> Thy children shall they carry away captive, and, look, what thou hast, they shall spoil it, and mar the beauty of thy face.
 
     Like as thou hast done unto my chosen, saith the Lord, even so shall God do unto thee. Thy children shall die of hunger, thy cities shall be broken down, and they that be in the mountains shall die of hunger and eat their own flesh: everybody thinks they have a plan for when Armageddon takes place, we will go into the bunkers and survive there; no, that is not going to happen. And in the passage they shall rush on the idle city, and shall destroy some portion of thy land, and shall return to Babylon that was destroyed. Although the country of Babylon the great is wiped out, her military is not finished; that is why America keeps over 800 military bases worldwide, which no other nation has, not Russia, not China. That is how they reach Moab even after the homeland is destroyed. Thy children shall they carry away captive, and look, what thou hast, they shall spoil it, and mar the beauty of thy face.
+
+> <sup>[38](/bible/jeremiah/48#v38)</sup> There shall be lamentation generally upon all the housetops of Moab, and in the streets thereof: for I have broken Moab like a vessel wherein is no pleasure, saith the Lord.
+>
+> <sup>[39](/bible/jeremiah/48#v39)</sup> They shall howl, saying, How is it broken down! how hath Moab turned the back with shame! so shall Moab be a derision and a dismaying to all them about him.
+>
+> <sup>[40](/bible/jeremiah/48#v40)</sup> For thus saith the Lord; Behold, he shall fly as an eagle, and shall spread his wings over Moab.
+>
+> <sup>[41](/bible/jeremiah/48#v41)</sup> Kerioth is taken, and the strong holds are surprised, and the mighty men’s hearts in Moab at that day shall be as the heart of a woman in her pangs.
+>
+> <sup>[42](/bible/jeremiah/48#v42)</sup> And Moab shall be destroyed from being a people, because he hath magnified himself against the Lord.
 
 **[Jeremiah 48:43-47](/bible/jeremiah/48#v43)**  *[[2:25:17](https://www.youtube.com/watch?v=6XyhSewrzz0&t=8717s)]*
 
@@ -847,7 +863,13 @@ Reading from on-screen text on the hidden metropolis beneath Beijing  *[[2:25:31
 **[2 Corinthians 6:14-18](/bible/2-corinthians/6#v14)**  *[[2:28:40](https://www.youtube.com/watch?v=6XyhSewrzz0&t=8920s)]*
 
 > <sup>[14](/bible/2-corinthians/6#v14)</sup> Be ye not unequally yoked together with unbelievers: for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness?
->
+
+- Be ye not unequally yoked together with unbelievers: for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness? That goes for you men and women: do not be marrying these other nations.
+
+- For ye are the temple of the living God; as God hath said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people.
+
+- Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you, and will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty. So why are we always trying to mingle and integrate? God says be separate. And for those of you who came up of mixed parentage: fine; but find yourself an Israelite woman or an Israelite man, and do not do this any more.
+
 > <sup>[15](/bible/2-corinthians/6#v15)</sup> And what concord hath Christ with Belial? or what part hath he that believeth with an infidel?
 >
 > <sup>[16](/bible/2-corinthians/6#v16)</sup> And what agreement hath the temple of God with idols? for ye are the temple of the living God; as God hath said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people.
@@ -855,10 +877,6 @@ Reading from on-screen text on the hidden metropolis beneath Beijing  *[[2:25:31
 > <sup>[17](/bible/2-corinthians/6#v17)</sup> Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you,
 >
 > <sup>[18](/bible/2-corinthians/6#v18)</sup> And will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty.
-
-- Be ye not unequally yoked together with unbelievers: for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness? That goes for you men and women: do not be marrying these other nations.
-- For ye are the temple of the living God; as God hath said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people.
-- Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you, and will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty. So why are we always trying to mingle and integrate? God says be separate. And for those of you who came up of mixed parentage: fine; but find yourself an Israelite woman or an Israelite man, and do not do this any more.
 
 **[Psalms 108:9](/bible/psalms/108#v9)**  *[[2:31:02](https://www.youtube.com/watch?v=6XyhSewrzz0&t=9062s)]*
 

@@ -405,14 +405,16 @@ Reading from a sign on man-made religions, continued  *[[1:08:58](https://www.yo
 **[Ecclesiasticus 12:10-12](/bible/sirach/12#v10)**  *[[1:12:49](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=4369s)]*
 
 > <sup>[10](/bible/sirach/12#v10)</sup> Never trust thine enemy: for like as iron rusteth, so is his wickedness.
->
+
+- Never trust thine enemy: for like as iron rusteth, so is his wickedness. When the conquistadors and the priests came with that religion, we were not supposed to trust them.
+
+- Though he humble himself and go crouching, though he come bearing gifts in the name of Christianity, take good heed and beware of him. They come now with smiles and docile ways, but the wickedness is still there.
+
+- Pictures shown of the baptism of the Tainos by the Catholic priests, and of our people in Puerto Rico kneeling with rosary beads to a white image of the Virgin Mary and the baby Jesus with white saints behind them. That is what happens when you accept the white man's religion: you become docile, you become a slave in your mind.
+
 > <sup>[11](/bible/sirach/12#v11)</sup> Though he humble himself, and go crouching, yet take good heed and beware of him, and thou shalt be unto him as if thou hadst wiped a lookingglass, and thou shalt know that his rust hath not been altogether wiped away.
 >
 > <sup>[12](/bible/sirach/12#v12)</sup> Set him not by thee, lest, when he hath overthrown thee, he stand up in thy place; neither let him sit at thy right hand, lest he seek to take thy seat, and thou at the last remember my words, and be pricked therewith.
-
-- Never trust thine enemy: for like as iron rusteth, so is his wickedness. When the conquistadors and the priests came with that religion, we were not supposed to trust them.
-- Though he humble himself and go crouching, though he come bearing gifts in the name of Christianity, take good heed and beware of him. They come now with smiles and docile ways, but the wickedness is still there.
-- Pictures shown of the baptism of the Tainos by the Catholic priests, and of our people in Puerto Rico kneeling with rosary beads to a white image of the Virgin Mary and the baby Jesus with white saints behind them. That is what happens when you accept the white man's religion: you become docile, you become a slave in your mind.
 
 <div class="reading">
 
@@ -597,6 +599,8 @@ Reading from a Wikipedia passage on European slave traders and African ethniciti
 
 **[Genesis 48:11-20](/bible/genesis/48#v11)**  *[[1:44:53](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=6293s)]*
 
+- Israel thought he would never see Joseph's face, and God showed him his seed also. Joseph set Ephraim toward Israel's left hand and Manasseh toward his right, so the firstborn would get the right hand blessing; and Israel crossed his hands wittingly, guiding them knowingly, laying his right hand on Ephraim the younger.
+
 > <sup>[11](/bible/genesis/48#v11)</sup> And Israel said unto Joseph, I had not thought to see thy face: and, lo, God hath shewed me also thy seed.
 >
 > <sup>[12](/bible/genesis/48#v12)</sup> And Joseph brought them out from between his knees, and he bowed himself with his face to the earth.
@@ -608,7 +612,11 @@ Reading from a Wikipedia passage on European slave traders and African ethniciti
 > <sup>[15](/bible/genesis/48#v15)</sup> And he blessed Joseph, and said, God, before whom my fathers Abraham and Isaac did walk, the God which fed me all my life long unto this day,
 >
 > <sup>[16](/bible/genesis/48#v16)</sup> The Angel which redeemed me from all evil, bless the lads; and let my name be named on them, and the name of my fathers Abraham and Isaac; and let them grow into a multitude in the midst of the earth.
->
+
+- Let my name be named on them: this is why Ephraim and Manasseh are counted in the twelve tribes even though they are Joseph's children.
+
+- Joseph was displeased and tried to move his father's hand, and Israel refused: I know it, my son, I know it. Manasseh also shall become a people, and he also shall be great; but truly his younger brother shall be greater than he, and his seed shall become a multitude of nations. And he set Ephraim before Manasseh: Ephraim is the head tribe of the northern kingdom.
+
 > <sup>[17](/bible/genesis/48#v17)</sup> And when Joseph saw that his father laid his right hand upon the head of Ephraim, it displeased him: and he held up his father’s hand, to remove it from Ephraim’s head unto Manasseh’s head.
 >
 > <sup>[18](/bible/genesis/48#v18)</sup> And Joseph said unto his father, Not so, my father: for this is the firstborn; put thy right hand upon his head.
@@ -616,10 +624,6 @@ Reading from a Wikipedia passage on European slave traders and African ethniciti
 > <sup>[19](/bible/genesis/48#v19)</sup> And his father refused, and said, I know it, my son, I know it: he also shall become a people, and he also shall be great: but truly his younger brother shall be greater than he, and his seed shall become a multitude of nations.
 >
 > <sup>[20](/bible/genesis/48#v20)</sup> And he blessed them that day, saying, In thee shall Israel bless, saying, God make thee as Ephraim and as Manasseh: and he set Ephraim before Manasseh.
-
-- Israel thought he would never see Joseph's face, and God showed him his seed also. Joseph set Ephraim toward Israel's left hand and Manasseh toward his right, so the firstborn would get the right hand blessing; and Israel crossed his hands wittingly, guiding them knowingly, laying his right hand on Ephraim the younger.
-- Let my name be named on them: this is why Ephraim and Manasseh are counted in the twelve tribes even though they are Joseph's children.
-- Joseph was displeased and tried to move his father's hand, and Israel refused: I know it, my son, I know it. Manasseh also shall become a people, and he also shall be great; but truly his younger brother shall be greater than he, and his seed shall become a multitude of nations. And he set Ephraim before Manasseh: Ephraim is the head tribe of the northern kingdom.
 
 <div class="reading">
 

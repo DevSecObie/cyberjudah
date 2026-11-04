@@ -90,37 +90,37 @@ tags: ["15 Minutes w/ The Captains", "angels", "discipline", "wisdom"]
 
 **[2 Esdras 15:24-30](/bible/2-esdras/15#v24)**  *[[9:07](https://www.youtube.com/watch?v=Qn7omLEQfHQ&t=547s)]*
 
-> <sup>[24](/bible/2-esdras/15#v24)</sup> Woe to them that sin, and keep not my commandments! saith the Lord.
->
-> <sup>[25](/bible/2-esdras/15#v25)</sup> I will not spare them: go your way, ye children, from the power, defile not my sanctuary.
->
-> <sup>[26](/bible/2-esdras/15#v26)</sup> For the Lord knoweth all them that sin against him, and therefore delivereth he them unto death and destruction.
->
-> <sup>[27](/bible/2-esdras/15#v27)</sup> For now are the plagues come upon the whole earth and ye shall remain in them: for God shall not deliver you, because ye have sinned against him.
->
-> <sup>[28](/bible/2-esdras/15#v28)</sup> Behold an horrible vision, and the appearance thereof from the east:
->
-> <sup>[29](/bible/2-esdras/15#v29)</sup> Where the nations of the dragons of Arabia shall come out with many chariots, and the multitude of them shall be carried as the wind upon earth, that all they which hear them may fear and tremble.
->
-> <sup>[30](/bible/2-esdras/15#v30)</sup> Also the Carmanians raging in wrath shall go forth as the wild boars of the wood, and with great power shall they come, and join battle with them, and shall waste a portion of the land of the Assyrians.
-
 - The angel told Esdras the same thing. I want y'all to pay attention.
 
+> <sup>[24](/bible/2-esdras/15#v24)</sup> Woe to them that sin, and keep not my commandments! saith the Lord.
+
 - Woe to them that sin, and keep not my commandments: listen to what the Lord is saying. Woe to them that sin, that are bound, that are holding in their cords, that have created this wall of "defense" or protection in their mind around them. It says woe, destruction unto you. You don't want to keep the commandment. You don't want to keep the counsel. The scripture is saying destruction unto you.
+
+> <sup>[25](/bible/2-esdras/15#v25)</sup> I will not spare them: go your way, ye children, from the power, defile not my sanctuary.
 
 - I will not spare them: he said, listen, I'm not going to spare you. It's better that you remove yourself. That's why he said you're going to inherit the wind.
 
 - Defile not my sanctuary: listen what the counsel is. For those who are continually wrapped up in your sin, you often reproved, the scripture is saying, listen, go your way. Don't defile my sanctuary. Because if you trouble your own house, it's natural you're going to inherit the wind.
 
+> <sup>[26](/bible/2-esdras/15#v26)</sup> For the Lord knoweth all them that sin against him, and therefore delivereth he them unto death and destruction.
+
 - And therefore delivereth he them unto death and destruction: and this is what we're trying to avoid, man. That's why we got to get out that woe is me spirit. Because you catch yourself in that and you never recover. The Lord said he's not going to spare us, man. And he's going to lead us straight into death and destruction. That's what you got coming for you.
+
+> <sup>[27](/bible/2-esdras/15#v27)</sup> For now are the plagues come upon the whole earth and ye shall remain in them: for God shall not deliver you, because ye have sinned against him.
 
 - For now are the plagues come upon the whole earth and ye shall remain in them: this is like a warning that the Lord is giving to those who are bound in your sin. Listen, the plagues, we see the plagues coming up on our whole earth now. You had the COVID, you had that pandemic that came through. You seeing wars on top of wars, the rumors of wars. These plagues are now coming up on the earth. You should pay attention.
 
 - For God shall not deliver you, because ye have sinned against him: those are the ones that are bound in your sins. He said the Lord is not going to deliver you.
 
+> <sup>[28](/bible/2-esdras/15#v28)</sup> Behold an horrible vision, and the appearance thereof from the east:
+>
+> <sup>[29](/bible/2-esdras/15#v29)</sup> Where the nations of the dragons of Arabia shall come out with many chariots, and the multitude of them shall be carried as the wind upon earth, that all they which hear them may fear and tremble.
+
 - The nations of the dragons of Arabia shall come out with many chariots: think, okay, what the hell does this got to do with anything? But notice what the angel is telling Esdras. Woe to you that sin. The plagues are coming. I'm about to give you a sign, hopefully to save yourself. To tear down this damn wall of bondage that you have created. Look at the plagues around you. Look at the dragons of Arabia gearing up.
 
 - Now we're seeing the angel is letting Esdras know, listen, woe unto them that sin, that's bound in they sins. I'm going to destroy them. I'm sending plagues. And one of the visions that you need to pay attention, pay attention to the east. And we seeing this is going to come to a point where the scriptures says the dragons of Arabia, all around Iran, are his brothers. So the US about to do Iran so bad that his brothers are going to take witness to this. Hold on, man. This is enough. We got to help our people. We got to defend our people. And the angel was telling Esdras, bro, you brothers that's bound in your sins, you better pay attention.
+
+> <sup>[30](/bible/2-esdras/15#v30)</sup> Also the Carmanians raging in wrath shall go forth as the wild boars of the wood, and with great power shall they come, and join battle with them, and shall waste a portion of the land of the Assyrians.
 
 - Also the Carmanians raging in wrath shall go forth as the wild boars of the wood: the Iranians. This is what's going on.
 
@@ -138,30 +138,30 @@ tags: ["15 Minutes w/ The Captains", "angels", "discipline", "wisdom"]
 
 **[Proverbs 24:3-4](/bible/proverbs/24#v3)**  *[[16:14](https://www.youtube.com/watch?v=Qn7omLEQfHQ&t=974s)]*
 
-> <sup>[3](/bible/proverbs/24#v3)</sup> Through wisdom is an house builded; and by understanding it is established:
->
-> <sup>[4](/bible/proverbs/24#v4)</sup> And by knowledge shall the chambers be filled with all precious and pleasant riches.
-
 - How do we fix it? Cuz we got to fix it before this is over.
+
+> <sup>[3](/bible/proverbs/24#v3)</sup> Through wisdom is an house builded; and by understanding it is established:
 
 - Through wisdom is an house builded: so it says through wisdom, this is how you going to build your house. Now you got to forget what's behind you, cuz you can't change it. Now you got to start to having those patterns of good works. Through wisdom now you can start to rebuild your name. Don't worry about what's going on around you. Control what you can control. Have that pattern of good works and start to build your house back up.
 
 - And by understanding it is established: and by understanding, you understand the prophecies that's unfolding. Now you establishing. Hey, it's a greater good in this correction. Maybe the Lord is trying to save my life. My brothers is trying to save my life. They showing love. My sister showing love to me. By understanding now, you establishing your mind. Now you could build those patterns of good works.
 
+> <sup>[4](/bible/proverbs/24#v4)</sup> And by knowledge shall the chambers be filled with all precious and pleasant riches.
+
 
 **[Sirach 30:21-23](/bible/sirach/30#v21)**  *[[17:34](https://www.youtube.com/watch?v=Qn7omLEQfHQ&t=1054s)]*
 
 > <sup>[21](/bible/sirach/30#v21)</sup> Give not over thy mind to heaviness, and afflict not thyself in thine own counsel.
->
-> <sup>[22](/bible/sirach/30#v22)</sup> The gladness of the heart is the life of man, and the joyfulness of a man prolongeth his days.
->
-> <sup>[23](/bible/sirach/30#v23)</sup> Love thine own soul, and comfort thy heart, remove sorrow far from thee: for sorrow hath killed many, and there is no profit therein.
 
 - Give not over thy mind to heaviness, and afflict not thyself in thine own counsel: don't give your mind over to heaviness, and don't afflict yourself in your own counsel. Leaning on your own understanding. In correction, the last person that you want to listen to is yourself.
+
+> <sup>[22](/bible/sirach/30#v22)</sup> The gladness of the heart is the life of man, and the joyfulness of a man prolongeth his days.
 
 - The gladness of the heart is the life of man: you got to find some joy in it. Be happy to be around to have that correction. Remember the scripture says, let the righteous smite me. You got to find joy in that thing.
 
 - And the joyfulness of a man prolongeth his days: because the joyfulness of a man, it prolongeth your days on earth. It prolongeth your days in the body.
+
+> <sup>[23](/bible/sirach/30#v23)</sup> Love thine own soul, and comfort thy heart, remove sorrow far from thee: for sorrow hath killed many, and there is no profit therein.
 
 - Love thine own soul, and comfort thy heart: love yourself. Stop looking in the mirror and being damn discouraged. Some people, man, the first thing they look in the mirror, they hate what they see. So you already at a disadvantage before you even walk out the house. How you going to affect any type of relationships outside of that? The scripture says, love your soul. Understand who you are. The Holy Spirit don't deal with everybody. The Lord called you into this thing to get right. You could have been a damn Hamite, a Moabite.
 
@@ -173,7 +173,9 @@ tags: ["15 Minutes w/ The Captains", "angels", "discipline", "wisdom"]
 **[Psalms 18:20-24](/bible/psalms/18#v20)**  *[[20:07](https://www.youtube.com/watch?v=Qn7omLEQfHQ&t=1207s)]*
 
 > <sup>[20](/bible/psalms/18#v20)</sup> The Lord rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me.
->
+
+- The LORD rewarded me according to my righteousness: the Lord said he's going to reward us according to our righteousness. This is why you just do what you can control. Put your pattern of good works together because the Lord is going to reward you according to your own righteousness.
+
 > <sup>[21](/bible/psalms/18#v21)</sup> For I have kept the ways of the Lord, and have not wickedly departed from my God.
 >
 > <sup>[22](/bible/psalms/18#v22)</sup> For all his judgments were before me, and I did not put away his statutes from me.
@@ -181,8 +183,6 @@ tags: ["15 Minutes w/ The Captains", "angels", "discipline", "wisdom"]
 > <sup>[23](/bible/psalms/18#v23)</sup> I was also upright before him, and I kept myself from mine iniquity.
 >
 > <sup>[24](/bible/psalms/18#v24)</sup> Therefore hath the Lord recompensed me according to my righteousness, according to the cleanness of my hands in his eyesight.
-
-- The LORD rewarded me according to my righteousness: the Lord said he's going to reward us according to our righteousness. This is why you just do what you can control. Put your pattern of good works together because the Lord is going to reward you according to your own righteousness.
 
 - According to the cleanness of my hands in his eyesight: a lot of times we be trying to please men, but the Lord said, listen, do what's right according to his eyesight. Be acceptable to him. And that will resonate around with the rest of men. But do according to his eyesight. Have that pattern of good works with him. And he's going to reward you according to your righteousness.
 

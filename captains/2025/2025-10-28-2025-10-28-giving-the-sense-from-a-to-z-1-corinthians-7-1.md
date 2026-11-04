@@ -43,12 +43,12 @@ tags: ["15 Minutes w/ The Captains", "marriage-family", "prayer", "sexual-purity
 **[1 Corinthians 6:9-11](/bible/1-corinthians/6#v9)**  *[[12:24](https://www.youtube.com/watch?v=ZspA_MWtqQ4&t=744s)]*
 
 > <sup>[9](/bible/1-corinthians/6#v9)</sup> Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,
->
+
+- Nor effeminate, nor abusers of themselves with mankind: Right? Notice it says idolaters, adulterers, effeminate, abusers of themselves with mankind.
+
 > <sup>[10](/bible/1-corinthians/6#v10)</sup> Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God.
 >
 > <sup>[11](/bible/1-corinthians/6#v11)</sup> And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God.
-
-- Nor effeminate, nor abusers of themselves with mankind: Right? Notice it says idolaters, adulterers, effeminate, abusers of themselves with mankind.
 
 - And such were some of you: And what? Hear what Paul says? And such were some of you. A lot of the brothers, a lot of the sisters that came into the congregation, just like now, it's the same thing now. It says y'all were fornicators, idolaters, adulterers, effeminate, abusers of yourselves with mankind, thieves, covetous, drunkards. Bunch of wickedness going on in the church of Corinth.
 
@@ -77,16 +77,16 @@ tags: ["15 Minutes w/ The Captains", "marriage-family", "prayer", "sexual-purity
 **[Matthew 19:10-12](/bible/matthew/19#v10)**  *[[16:03](https://www.youtube.com/watch?v=ZspA_MWtqQ4&t=963s)]*
 
 > <sup>[10](/bible/matthew/19#v10)</sup> His disciples say unto him, If the case of the man be so with his wife, it is not good to marry.
->
-> <sup>[11](/bible/matthew/19#v11)</sup> But he said unto them, All men cannot receive this saying, save they to whom it is given.
->
-> <sup>[12](/bible/matthew/19#v12)</sup> For there are some eunuchs, which were so born from their mother’s womb: and there are some eunuchs, which were made eunuchs of men: and there be eunuchs, which have made themselves eunuchs for the kingdom of heaven’s sake. He that is able to receive it, let him receive it.
 
 - If the case of the man be so with his wife, it is not good to marry: So they're responding to Christ saying, "You can't put away your wife except it be for fornication." Okay? If you do that, you commit adultery. So like, remember before it was like, "You can put her away for whatever." Christ says, "No, it's got to be for fornication. That's it."
 
 - So damn, if I can only put away for fornication, it's better to not even get married. Why are they saying that? And y'all got to think about this. This is first century AD, right? We're in the year 2025. Over 2,000 years ago is what we're reading about here. And now the world is getting worse and worse and worse. We know that based on the prophecies, based on the things that we see around us. But somehow sisters think they just got it all together. But the brothers back then said, "Listen, these sisters ain't right. If I can only put them away for fornication, it's good not to marry." We love y'all. You know, we love y'all.
 
+> <sup>[11](/bible/matthew/19#v11)</sup> But he said unto them, All men cannot receive this saying, save they to whom it is given.
+
 - All men cannot receive this saying, save they to whom it is given: So Christ says, yeah, I get that. It's good not to marry. He says, all men cannot receive this saying, save they to whom it is given. Meaning everybody cannot endure in this truth without having a partner. You understand? Everybody cannot receive that.
+
+> <sup>[12](/bible/matthew/19#v12)</sup> For there are some eunuchs, which were so born from their mother’s womb: and there are some eunuchs, which were made eunuchs of men: and there be eunuchs, which have made themselves eunuchs for the kingdom of heaven’s sake. He that is able to receive it, let him receive it.
 
 - There are some eunuchs, which were so born from their mother's womb: Some brothers or sisters were born eunuchs from their mother's womb.
 
@@ -122,24 +122,24 @@ tags: ["15 Minutes w/ The Captains", "marriage-family", "prayer", "sexual-purity
 > <sup>[22](/bible/2-corinthians/11#v22)</sup> Are they Hebrews? so am I. Are they Israelites? so am I. Are they the seed of Abraham? so am I.
 >
 > <sup>[23](/bible/2-corinthians/11#v23)</sup> Are they ministers of Christ? (I speak as a fool) I am more; in labours more abundant, in stripes above measure, in prisons more frequent, in deaths oft.
->
-> <sup>[24](/bible/2-corinthians/11#v24)</sup> Of the Jews five times received I forty stripes save one.
->
-> <sup>[25](/bible/2-corinthians/11#v25)</sup> Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck, a night and a day I have been in the deep;
->
-> <sup>[26](/bible/2-corinthians/11#v26)</sup> In journeyings often, in perils of waters, in perils of robbers, in perils by mine own countrymen, in perils by the heathen, in perils in the city, in perils in the wilderness, in perils in the sea, in perils among false brethren;
->
-> <sup>[27](/bible/2-corinthians/11#v27)</sup> In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness.
->
-> <sup>[28](/bible/2-corinthians/11#v28)</sup> Beside those things that are without, that which cometh upon me daily, the care of all the churches.
 
 - Are they ministers of Christ? (I speak as a fool): Meaning he was going to get carnal for it. When he says I speak as a fool, he had to get carnal. He had to boast himself a little bit, you know, against these young men in the congregation.
 
 - I am more; in labours more abundant: So, he's boasting now. In labors more abundant. In stripes above measure. And deaths often.
 
+> <sup>[24](/bible/2-corinthians/11#v24)</sup> Of the Jews five times received I forty stripes save one.
+
 - Of the Jews five times received I forty stripes save one: Why are we going through this? This is the present distress. Okay, there was a lot of persecution at this time against the church, against the followers of Christ. And guess what? It's going to happen again.
 
+> <sup>[25](/bible/2-corinthians/11#v25)</sup> Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck, a night and a day I have been in the deep;
+>
+> <sup>[26](/bible/2-corinthians/11#v26)</sup> In journeyings often, in perils of waters, in perils of robbers, in perils by mine own countrymen, in perils by the heathen, in perils in the city, in perils in the wilderness, in perils in the sea, in perils among false brethren;
+
 - In perils by mine own countrymen, in perils by the heathen: So by your own people and the heathen.
+
+> <sup>[27](/bible/2-corinthians/11#v27)</sup> In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness.
+>
+> <sup>[28](/bible/2-corinthians/11#v28)</sup> Beside those things that are without, that which cometh upon me daily, the care of all the churches.
 
 - That which cometh upon me daily, the care of all the churches: So out of all the stuff that Paul had to go through for doing the work, going out teaching the gospel, he went through all the stuff that was listed. He says, "Besides all that, I got to focus on the church. I got to focus on the church of Corinth, Galatia." Okay? Dealing with the Hebrews, the southern kingdom, the scattered Israelites, the Gentiles, quote unquote. All my personal stuff I got to deal with, but the most important thing is the church.
 
@@ -184,10 +184,10 @@ Reading from Aphrodite (on-screen text; source not named on air) · read by Offi
 > <sup>[26](/bible/genesis/1#v26)</sup> And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
 >
 > <sup>[27](/bible/genesis/1#v27)</sup> So God created man in his own image, in the image of God created he him; male and female created he them.
->
-> <sup>[28](/bible/genesis/1#v28)</sup> And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.
 
 - Male and female created he them: See, it says male and female created he them.
+
+> <sup>[28](/bible/genesis/1#v28)</sup> And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.
 
 - And God blessed them, and God said unto them, Be fruitful, and multiply: Male and female. Not male and female of all kind. This is primarily talking about Adam and Eve. God blessed them and said what?
 
@@ -234,10 +234,10 @@ Reading from Blue Letter (as named on air): fornication · read by Officer John 
 **[1 Corinthians 7:2-3](/bible/1-corinthians/7#v2)**  *[[36:11](https://www.youtube.com/watch?v=ZspA_MWtqQ4&t=2171s)]*
 
 > <sup>[2](/bible/1-corinthians/7#v2)</sup> Nevertheless, to avoid fornication, let every man have his own wife, and let every woman have her own husband.
->
-> <sup>[3](/bible/1-corinthians/7#v3)</sup> Let the husband render unto the wife due benevolence: and likewise also the wife unto the husband.
 
 - Nevertheless, to avoid fornication, let every man have his own wife: So it's the same thing. Brothers in here talking about, "Yeah, I'm gonna do Paul," this, that, and the third. But meanwhile, you on the internet every night, every other night, typing in stuff, looking at stuff you're not supposed to. To avoid that, Paul says, "Get a wife." Sisters, to avoid that, get a husband.
+
+> <sup>[3](/bible/1-corinthians/7#v3)</sup> Let the husband render unto the wife due benevolence: and likewise also the wife unto the husband.
 
 - Let the husband render unto the wife due benevolence: It says, "Let the husband render unto the wife due benevolence, and likewise the wife unto the husband." I want to pull this up, man. I wish I had a better definition of this.
 
@@ -271,10 +271,10 @@ Reading from Definition of benevolence (source not named on air) · read by Offi
 **[Proverbs 30:18-19](/bible/proverbs/30#v18)**  *[[40:00](https://www.youtube.com/watch?v=ZspA_MWtqQ4&t=2400s)]*
 
 > <sup>[18](/bible/proverbs/30#v18)</sup> There be three things which are too wonderful for me, yea, four which I know not:
->
-> <sup>[19](/bible/proverbs/30#v19)</sup> The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid.
 
 - There be three things which are too wonderful for me, yea, four which I know not: So, three things are too wonderful for me. And the fourth, I don't even know it. Watch this.
+
+> <sup>[19](/bible/proverbs/30#v19)</sup> The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid.
 
 - The way of an eagle in the air: So, that's a thing that's wonderful. How an eagle flies in the air. How do they stay up there? Okay, that's wonderful.
 
@@ -290,10 +290,10 @@ Reading from Definition of benevolence (source not named on air) · read by Offi
 **[Proverbs 5:18-19](/bible/proverbs/5#v18)**  *[[42:32](https://www.youtube.com/watch?v=ZspA_MWtqQ4&t=2552s)]*
 
 > <sup>[18](/bible/proverbs/5#v18)</sup> Let thy fountain be blessed: and rejoice with the wife of thy youth.
->
-> <sup>[19](/bible/proverbs/5#v19)</sup> Let her be as the loving hind and pleasant roe; let her breasts satisfy thee at all times; and be thou ravished always with her love.
 
 - Let thy fountain be blessed: and rejoice with the wife of thy youth: That's right. It says, "Let thy fountain be blessed" and what? "Rejoice with the wife of thy youth." Right? Singular. Rejoice with the wife of, meaning, have a good time with your wife. It's crazy. It says, "Let thy fountain be blessed." Y'all know that's going to what? Be fruitful and multiply. Watch the next part.
+
+> <sup>[19](/bible/proverbs/5#v19)</sup> Let her be as the loving hind and pleasant roe; let her breasts satisfy thee at all times; and be thou ravished always with her love.
 
 - Let her be as the loving hind and pleasant roe: Let her be as a loving hind and as a pleasant roe. Watch this. Let her breast be useful. Have some life about it, sisters. Don't just be laying there like a damn rock. You understand?
 
@@ -305,10 +305,10 @@ Reading from Definition of benevolence (source not named on air) · read by Offi
 **[1 Corinthians 7:3-4](/bible/1-corinthians/7#v3)**  *[[44:16](https://www.youtube.com/watch?v=ZspA_MWtqQ4&t=2656s)]*
 
 > <sup>[3](/bible/1-corinthians/7#v3)</sup> Let the husband render unto the wife due benevolence: and likewise also the wife unto the husband.
->
-> <sup>[4](/bible/1-corinthians/7#v4)</sup> The wife hath not power of her own body, but the husband: and likewise also the husband hath not power of his own body, but the wife.
 
 - Let the husband render unto the wife due benevolence: and likewise also the wife unto the husband: You hear what it says? And correlate that with Proverbs 5:18 and 19. Okay, y'all have a good time. Enjoy each other.
+
+> <sup>[4](/bible/1-corinthians/7#v4)</sup> The wife hath not power of her own body, but the husband: and likewise also the husband hath not power of his own body, but the wife.
 
 - The wife hath not power of her own body, but the husband: and likewise also the husband hath not power of his own body, but the wife: Meaning what? If the spirit jump on the sister, brother, and she needs due benevolence, you got to make it happen. You got to put time aside. Okay? You can't just be focusing on the work. You always want to be with the brothers, this, that and the third. Go home, live joyfully with your wife, like Proverbs 5 says.
 
@@ -324,10 +324,10 @@ Reading from Definition of benevolence (source not named on air) · read by Offi
 **[Colossians 3:18-19](/bible/colossians/3#v18)**  *[[48:35](https://www.youtube.com/watch?v=ZspA_MWtqQ4&t=2915s)]*
 
 > <sup>[18](/bible/colossians/3#v18)</sup> Wives, submit yourselves unto your own husbands, as it is fit in the Lord.
->
-> <sup>[19](/bible/colossians/3#v19)</sup> Husbands, love your wives, and be not bitter against them.
 
 - Wives, submit yourselves unto your own husbands, as it is fit in the Lord: Right? And primarily we're dealing with due benevolence. When your lord want it, you got to submit. Okay? Make it happen.
+
+> <sup>[19](/bible/colossians/3#v19)</sup> Husbands, love your wives, and be not bitter against them.
 
 - Husbands, love your wives, and be not bitter against them: And be not bitter against them. Because what can happen oftentimes is there's a spirit of rendering evil for evil. The sister, "Oh, I'm tired," this, that, and third, "I got a headache," blah, blah, blah. So now the brother, whenever the coin has flipped and now she's interested, he's bitter, and now he want to withhold. Don't do that. Be not bitter against them. Remember the scripture says, how does Christ work? He says, as you would that men do unto you, do ye likewise unto them.
 
@@ -392,16 +392,16 @@ Reading from Definition of incontinency (source not named on air)  *[[54:18](htt
 **[1 Timothy 5:9-11](/bible/1-timothy/5#v9)**  *[[56:09](https://www.youtube.com/watch?v=ZspA_MWtqQ4&t=3369s)]*
 
 > <sup>[9](/bible/1-timothy/5#v9)</sup> Let not a widow be taken into the number under threescore years old, having been the wife of one man,
->
-> <sup>[10](/bible/1-timothy/5#v10)</sup> Well reported of for good works; if she have brought up children, if she have lodged strangers, if she have washed the saints’ feet, if she have relieved the afflicted, if she have diligently followed every good work.
->
-> <sup>[11](/bible/1-timothy/5#v11)</sup> But the younger widows refuse: for when they have begun to wax wanton against Christ, they will marry;
 
 - Let not a widow be taken into the number under threescore years old: Now, what is this talking about? Let not a widow be taken into the number under threescore years old. I had heard a brother one time say, there was an older woman in the congregation, she lost her husband, so obviously she became a widow. He told her that, "Yeah, so you can't get married based on the scripture." That ain't what this is saying. Okay. He says let not the widow be taken into the number under threescore years old. So he told her she couldn't get married because she was over this certain age. That ain't what this is talking about. Taken means taken care of. Meaning the church is now going to support this particular sister.
 
 - Having been the wife of one man: So if she's under 60 years old, the congregation is not to take care of her. Watch this.
 
+> <sup>[10](/bible/1-timothy/5#v10)</sup> Well reported of for good works; if she have brought up children, if she have lodged strangers, if she have washed the saints’ feet, if she have relieved the afflicted, if she have diligently followed every good work.
+
 - Well reported of for good works; if she have brought up children, if she have lodged strangers, if she have washed the saints' feet: I've also heard the flip side, where older women alike will come into the congregation that don't have a husband, and they'll think automatically that somehow we supposed to take care of them. No, that ain't what this is saying. It says, "Well reported of good works, brought up children, lodged strangers, washed the saints' feet," okay? "Relieved the afflicted, and diligently followed every good work." Meaning what? This is time. Time in the truth. We ain't just coming in the truth. You've been in six months, a year, whatever the case. You saying, "Hey, you know, everybody's supposed to take care of me." No, we're not.
+
+> <sup>[11](/bible/1-timothy/5#v11)</sup> But the younger widows refuse: for when they have begun to wax wanton against Christ, they will marry;
 
 - But the younger widows refuse: for when they have begun to wax wanton against Christ, they will marry: You see what it says? Meaning what? That desire is going to come back on them. Okay? That incontinency is going to come back. That spirit, that urge is going to come back. What is the younger woman here in this context? Any age under 60. That's what it's saying. So 59 years old. Okay. 59 and under, it's saying that that spirit could potentially come back.
 
@@ -411,14 +411,14 @@ Reading from Definition of incontinency (source not named on air)  *[[54:18](htt
 **[1 Corinthians 7:5-7](/bible/1-corinthians/7#v5)**  *[[59:33](https://www.youtube.com/watch?v=ZspA_MWtqQ4&t=3573s)]*
 
 > <sup>[5](/bible/1-corinthians/7#v5)</sup> Defraud ye not one the other, except it be with consent for a time, that ye may give yourselves to fasting and prayer; and come together again, that Satan tempt you not for your incontinency.
->
-> <sup>[6](/bible/1-corinthians/7#v6)</sup> But I speak this by permission, and not of commandment.
->
-> <sup>[7](/bible/1-corinthians/7#v7)</sup> For I would that all men were even as I myself. But every man hath his proper gift of God, one after this manner, and another after that.
 
 - That Satan tempt you not for your incontinency: Right? For your lack of self-control.
 
+> <sup>[6](/bible/1-corinthians/7#v6)</sup> But I speak this by permission, and not of commandment.
+
 - But I speak this by permission, and not of commandment: Now Paul is saying, "But I speak this by permission and not of a commandment." Watch this. Why did he say that? Because of the next part right here.
+
+> <sup>[7](/bible/1-corinthians/7#v7)</sup> For I would that all men were even as I myself. But every man hath his proper gift of God, one after this manner, and another after that.
 
 - For I would that all men were even as I myself: Meaning it's not a commandment for brothers to be single. Okay? So he's speaking this by permission. If you can endure in this truth, like we just read, without a wife, without a husband, that's good. That's okay.
 
@@ -467,10 +467,10 @@ Reading from Definition of incontinency (source not named on air)  *[[54:18](htt
 **[1 Corinthians 7:7-8](/bible/1-corinthians/7#v7)**  *[[1:07:36](https://www.youtube.com/watch?v=ZspA_MWtqQ4&t=4056s)]*
 
 > <sup>[7](/bible/1-corinthians/7#v7)</sup> For I would that all men were even as I myself. But every man hath his proper gift of God, one after this manner, and another after that.
->
-> <sup>[8](/bible/1-corinthians/7#v8)</sup> I say therefore to the unmarried and widows, It is good for them if they abide even as I.
 
 - But every man hath his proper gift of God, one after this manner, and another after that: Right? So if you can focus on doing the work solely, that's a good thing. But every man hath his proper gift of God, one after this manner, one after that.
+
+> <sup>[8](/bible/1-corinthians/7#v8)</sup> I say therefore to the unmarried and widows, It is good for them if they abide even as I.
 
 - I say therefore to the unmarried and widows, It is good for them if they abide even as I: Right? So he said it again. I say therefore unto the unmarried and widows, it is good for them to abide even as I. If you can focus on doing the work and not have the urges of sexual desires. Okay. And again, that's why I went to 1 Timothy 5, about that age range. Okay? Oftentimes when you're over 60, that spirit may not be on you anymore. You know, you get older, as they say, your libido and whatnot has went down.
 

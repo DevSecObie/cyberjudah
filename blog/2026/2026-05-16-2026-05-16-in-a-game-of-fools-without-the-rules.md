@@ -2,7 +2,7 @@
 title: "In a Game of Fools Without The Rules"
 slug: "2026/2026-05-16-in-a-game-of-fools-without-the-rules"
 date: "2026-05-16"
-teacher: ""
+teacher: "Bishop Yawasap"
 description: "IUIC in the ClassRoom · 2026-05-16"
 tags: ["IUIC in the ClassRoom", "justice", "marriage-family", "obedience", "reparations", "youth"]
 ---
@@ -243,34 +243,38 @@ Sentencing videos played in class: Alicia Andrews, 22 when convicted of manslaug
 > <sup>[1](/bible/ephesians/6#v1)</sup> Children, obey your parents in the Lord: for this is right.
 >
 > <sup>[2](/bible/ephesians/6#v2)</sup> Honour thy father and mother; (which is the first commandment with promise;)
->
+
+- Children, obey your parents in the Lord, for this is right. Honour thy father and mother, which is the first commandment with promise: that it may be well with thee, and thou mayest live long on the earth. The Most High means that.
+
+- And, ye fathers, provoke not your children to wrath. This is how fathers provoke their children to wrath: by coddling them, by covering for them when they do evil. Let that judgment roll. If you get in the way of it and coddle them, you're going to embolden them, and they will ultimately put you to death. Bring them up in the nurture and admonition of the Lord: the warnings of the Lord.
+
 > <sup>[3](/bible/ephesians/6#v3)</sup> That it may be well with thee, and thou mayest live long on the earth.
 >
 > <sup>[4](/bible/ephesians/6#v4)</sup> And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.
 
-- Children, obey your parents in the Lord, for this is right. Honour thy father and mother, which is the first commandment with promise: that it may be well with thee, and thou mayest live long on the earth. The Most High means that.
-- And, ye fathers, provoke not your children to wrath. This is how fathers provoke their children to wrath: by coddling them, by covering for them when they do evil. Let that judgment roll. If you get in the way of it and coddle them, you're going to embolden them, and they will ultimately put you to death. Bring them up in the nurture and admonition of the Lord: the warnings of the Lord.
-
 **[Proverbs 1:10-16](/bible/proverbs/1#v10)**  *[[3:00:51](https://www.youtube.com/watch?v=H5r5CisviT8&t=10851s)]*
+
+- My son, if sinners entice thee, consent thou not. That sister was enticed to follow that evil; those brothers were enticed to follow that evil. Don't agree with it; be strong enough to walk away from so-called peer pressure. I'm talking to you young men of valor and you young sisters.
 
 > <sup>[10](/bible/proverbs/1#v10)</sup> My son, if sinners entice thee, consent thou not.
 >
 > <sup>[11](/bible/proverbs/1#v11)</sup> If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:
 >
 > <sup>[12](/bible/proverbs/1#v12)</sup> Let us swallow them up alive as the grave; and whole, as those that go down into the pit:
->
+
+- If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause, let us swallow them up alive as the grave: that is what they did when they hunted that young man down. They plotted together. Cast in thy lot among us; let us all have one purse: let's all get paid together. Smash and grabs.
+
 > <sup>[13](/bible/proverbs/1#v13)</sup> We shall find all precious substance, we shall fill our houses with spoil:
 >
 > <sup>[14](/bible/proverbs/1#v14)</sup> Cast in thy lot among us; let us all have one purse:
 >
 > <sup>[15](/bible/proverbs/1#v15)</sup> My son, walk not thou in the way with them; refrain thy foot from their path:
->
-> <sup>[16](/bible/proverbs/1#v16)</sup> For their feet run to evil, and make haste to shed blood.
 
-- My son, if sinners entice thee, consent thou not. That sister was enticed to follow that evil; those brothers were enticed to follow that evil. Don't agree with it; be strong enough to walk away from so-called peer pressure. I'm talking to you young men of valor and you young sisters.
-- If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause, let us swallow them up alive as the grave: that is what they did when they hunted that young man down. They plotted together. Cast in thy lot among us; let us all have one purse: let's all get paid together. Smash and grabs.
 - My son, walk not thou in the way with them; refrain thy foot from their path: for their feet run to evil, and make haste to shed blood. That's what you parents are trying to tell them.
+
 - If you hear evil being plotted, especially if it's coming from inside the congregation, tell on them. The Bible tells you to tell. You're saving their life; they would rather be dealt with by us than by the penal system.
+
+> <sup>[16](/bible/proverbs/1#v16)</sup> For their feet run to evil, and make haste to shed blood.
 
 **[Habakkuk 2:15](/bible/habakkuk/2#v15)**  *[[3:04:23](https://www.youtube.com/watch?v=H5r5CisviT8&t=11063s)]*
 

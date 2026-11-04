@@ -32,22 +32,22 @@ The trip: Deacon Abio spoke and said he was coming out here, and I told him I am
 **[Isaiah 1:2-6](/bible/isaiah/1#v2)**  *[[11:50](https://www.youtube.com/watch?v=RyRdIO615fU&t=710s)]*
 
 > <sup>[2](/bible/isaiah/1#v2)</sup> Hear, O heavens, and give ear, O earth: for the Lord hath spoken, I have nourished and brought up children, and they have rebelled against me.
->
-> <sup>[3](/bible/isaiah/1#v3)</sup> The ox knoweth his owner, and the ass his master’s crib: but Israel doth not know, my people doth not consider.
->
-> <sup>[4](/bible/isaiah/1#v4)</sup> Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the Lord, they have provoked the Holy One of Israel unto anger, they are gone away backward.
->
-> <sup>[5](/bible/isaiah/1#v5)</sup> Why should ye be stricken any more? ye will revolt more and more: the whole head is sick, and the whole heart faint.
->
-> <sup>[6](/bible/isaiah/1#v6)</sup> From the sole of the foot even unto the head there is no soundness in it; but wounds, and bruises, and putrifying sores: they have not been closed, neither bound up, neither mollified with ointment.
 
 - Hear, O heavens, and give ear, O earth: for the Lord hath spoken, I have nourished and brought up children, and they have rebelled against me. The ox knoweth his owner, and the ass his master's crib: but Israel doth not know, my people doth not consider.
 
 - What I want out of that is the consider part. We do not consider the power we have with God. We do not consider the responsibility given to us, or the opportunity of repentance given to us.
 
+> <sup>[3](/bible/isaiah/1#v3)</sup> The ox knoweth his owner, and the ass his master’s crib: but Israel doth not know, my people doth not consider.
+>
+> <sup>[4](/bible/isaiah/1#v4)</sup> Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the Lord, they have provoked the Holy One of Israel unto anger, they are gone away backward.
+
 - Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the Lord, they have provoked the Holy One of Israel unto anger, they are gone away backward.
 
+> <sup>[5](/bible/isaiah/1#v5)</sup> Why should ye be stricken any more? ye will revolt more and more: the whole head is sick, and the whole heart faint.
+
 - Why should ye be stricken any more? ye will revolt more and more: the whole head is sick, and the whole heart faint. Stop right there. From the top of this congregation, or any congregation, or nation: if their head is not right, the rest of the body will fall apart. They need to see the example, because everybody comes in and they really do not know what to do. So they look towards the leadership to set the pace. And a lot of times it is not even what you say, it is what you do in your life. How do you operate? How do you move as leaders? Our job is to mold you to become better versions of yourselves. But if the head is corrupt, guess what is going to happen? The men behind him are going to follow, and then we are going to hit that ceiling, or you are going to hit a ceiling.
+
+> <sup>[6](/bible/isaiah/1#v6)</sup> From the sole of the foot even unto the head there is no soundness in it; but wounds, and bruises, and putrifying sores: they have not been closed, neither bound up, neither mollified with ointment.
 
 - From the sole of the foot even unto the head there is no soundness in it; but wounds, and bruises, and putrifying sores: they have not been closed, neither bound up, neither mollified with ointment.
 
@@ -68,16 +68,16 @@ The trip: Deacon Abio spoke and said he was coming out here, and I told him I am
 **[Hosea 6:1-3](/bible/hosea/6#v1)**  *[[17:23](https://www.youtube.com/watch?v=RyRdIO615fU&t=1043s)]*
 
 > <sup>[1](/bible/hosea/6#v1)</sup> Come, and let us return unto the Lord: for he hath torn, and he will heal us; he hath smitten, and he will bind us up.
->
-> <sup>[2](/bible/hosea/6#v2)</sup> After two days will he revive us: in the third day he will raise us up, and we shall live in his sight.
->
-> <sup>[3](/bible/hosea/6#v3)</sup> Then shall we know, if we follow on to know the Lord: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth.
 
 - Come, and let us return unto the Lord: for he hath torn, and he will heal us; he hath smitten, and he will bind us up. One word. Let us return unto the Lord. We were torn how? Captivity. We went into slavery, and he will heal us, meaning he will redeem us out of this situation.
 
 - I always say this: the prophets always spoke about impending danger, things that were happening in their current time and in the future, and in many cases in the future they spoke about a redemption. So it gives us a benchmark, or something to look for in changing. The Lord will heal us. He will bind us back up.
 
+> <sup>[2](/bible/hosea/6#v2)</sup> After two days will he revive us: in the third day he will raise us up, and we shall live in his sight.
+
 - After two days will he revive us: in the third day he will raise us up, and we shall live in his sight. The two days, when you precept it with Peter, goes into two thousand years. And in the third day he will raise us up: when we got raised up in the sixties we started to learn who we are. The third day is raising us up to who we are, to our identity.
+
+> <sup>[3](/bible/hosea/6#v3)</sup> Then shall we know, if we follow on to know the Lord: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth.
 
 - Then shall we know, if we follow on to know the Lord: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth. Then shall we experience this if we follow on to apply what God tells us to do. Then shall we know, then shall we be bound up, then shall we be healed, if we follow on the instruction God has left for us.
 
@@ -104,14 +104,14 @@ The trip: Deacon Abio spoke and said he was coming out here, and I told him I am
 **[John 4:23-24](/bible/john/4#v23)**  *[[23:07](https://www.youtube.com/watch?v=RyRdIO615fU&t=1387s)]*
 
 > <sup>[23](/bible/john/4#v23)</sup> But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him.
->
-> <sup>[24](/bible/john/4#v24)</sup> God is a Spirit: and they that worship him must worship him in spirit and in truth.
 
 - But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him. So I have a question for you. Where in the New Testament do we read a scripture that explains that the children of Israel will return and seek the Lord? Right there.
 
 - The hour cometh when the true worshippers are going to worship the Father in spirit and in truth, as it is written. That is us. That is us reviving in this time. What you are part of, and what you are experiencing, is the resurrection of God's Christ's kingdom. And in that kingdom, righteousness must reign.
 
 - The Father seeketh such to worship him. The Father is going to try us to see if we are going to worship him according to spirit and truth.
+
+> <sup>[24](/bible/john/4#v24)</sup> God is a Spirit: and they that worship him must worship him in spirit and in truth.
 
 - God is a Spirit: and they that worship him must worship him in spirit and in truth. There is one word there I want you to emphasise. Must. There is no other way to do it. You must worship him in spirit and truth, which is the application of God's laws.
 
@@ -124,10 +124,6 @@ The trip: Deacon Abio spoke and said he was coming out here, and I told him I am
 **[Hosea 4:1-3](/bible/hosea/4#v1)**  *[[25:20](https://www.youtube.com/watch?v=RyRdIO615fU&t=1520s)]*
 
 > <sup>[1](/bible/hosea/4#v1)</sup> Hear the word of the Lord, ye children of Israel: for the Lord hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land.
->
-> <sup>[2](/bible/hosea/4#v2)</sup> By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood.
->
-> <sup>[3](/bible/hosea/4#v3)</sup> Therefore shall the land mourn, and every one that dwelleth therein shall languish, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also shall be taken away.
 
 - Hear the word of the Lord, ye children of Israel: for the Lord hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land. Because there is no truth: the application of God's law is not being applied. There is no mercy being shown, nor knowledge of God in the land. Our people have no knowledge of God, so it is our job to bring them back. There is no knowledge of God because the laws of God are not being taught, or enforced.
 
@@ -152,6 +148,10 @@ The trip: Deacon Abio spoke and said he was coming out here, and I told him I am
     > <sup>[3](/bible/amos/3#v3)</sup> Can two walk together, except they be agreed?
 
     Can two walk together, except they be agreed? That is the answer to congregating with somebody who has been put out of the body.
+
+> <sup>[2](/bible/hosea/4#v2)</sup> By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood.
+>
+> <sup>[3](/bible/hosea/4#v3)</sup> Therefore shall the land mourn, and every one that dwelleth therein shall languish, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also shall be taken away.
 
 **[Sirach 10:1-3](/bible/sirach/10#v1)**  *[[33:47](https://www.youtube.com/watch?v=RyRdIO615fU&t=2027s)]*
 
@@ -198,22 +198,22 @@ The trip: Deacon Abio spoke and said he was coming out here, and I told him I am
 **[Matthew 23:2-6](/bible/matthew/23#v2)**  *[[42:18](https://www.youtube.com/watch?v=RyRdIO615fU&t=2538s)]*
 
 > <sup>[2](/bible/matthew/23#v2)</sup> Saying, The scribes and the Pharisees sit in Moses’ seat:
->
-> <sup>[3](/bible/matthew/23#v3)</sup> All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not.
->
-> <sup>[4](/bible/matthew/23#v4)</sup> For they bind heavy burdens and grievous to be borne, and lay them on men’s shoulders; but they themselves will not move them with one of their fingers.
->
-> <sup>[5](/bible/matthew/23#v5)</sup> But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments,
->
-> <sup>[6](/bible/matthew/23#v6)</sup> And love the uppermost rooms at feasts, and the chief seats in the synagogues,
 
 - The scribes and the Pharisees sit in Moses' seat: all therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not. Hypocrites.
 
 - For they bind heavy burdens and grievous to be borne, and lay them on men's shoulders; but they themselves will not move them with one of their fingers. With one of their fingers.
 
+> <sup>[3](/bible/matthew/23#v3)</sup> All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not.
+>
+> <sup>[4](/bible/matthew/23#v4)</sup> For they bind heavy burdens and grievous to be borne, and lay them on men’s shoulders; but they themselves will not move them with one of their fingers.
+>
+> <sup>[5](/bible/matthew/23#v5)</sup> But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments,
+
 - But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments, and love the uppermost rooms at feasts, and the chief seats in the synagogues, and greetings in the markets, and to be called of men, Rabbi, Rabbi. They like the preeminence.
 
 - A story from twenty-something years ago. I forgot what it was you bought, but you broke it or whatever, and I told you, just put it back in the box and take it back. And he looked at me and said, So you are telling me to be dishonest? I said, Uh, nah. So you are the devil. It always stuck with me. It looked simple to just put it back in the box, but I was giving counsel to do something dishonest. When you hear stuff like that it makes you understand: okay, we are moving different. Come out of that old mentality. How many of us did that before?
+
+> <sup>[6](/bible/matthew/23#v6)</sup> And love the uppermost rooms at feasts, and the chief seats in the synagogues,
 
 **[Sirach 1:29-30](/bible/sirach/1#v29)**  *[[46:41](https://www.youtube.com/watch?v=RyRdIO615fU&t=2801s)]*
 
@@ -239,25 +239,25 @@ The trip: Deacon Abio spoke and said he was coming out here, and I told him I am
 
 **[2 Thessalonians 3:6-10](/bible/2-thessalonians/3#v6)**  *[[50:18](https://www.youtube.com/watch?v=RyRdIO615fU&t=3018s)]*
 
-> <sup>[6](/bible/2-thessalonians/3#v6)</sup> Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us.
->
-> <sup>[7](/bible/2-thessalonians/3#v7)</sup> For yourselves know how ye ought to follow us: for we behaved not ourselves disorderly among you;
->
-> <sup>[8](/bible/2-thessalonians/3#v8)</sup> Neither did we eat any man’s bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you:
->
-> <sup>[9](/bible/2-thessalonians/3#v9)</sup> Not because we have not power, but to make ourselves an ensample unto you to follow us.
->
-> <sup>[10](/bible/2-thessalonians/3#v10)</sup> For even when we were with you, this we commanded you, that if any would not work, neither should he eat.
-
 - Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us.
 
 - And that we may be delivered from unreasonable and wicked men: for all men have not faith. Not all men. Some men are wicked and unreasonable men. They do not have faith.
+
+> <sup>[6](/bible/2-thessalonians/3#v6)</sup> Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us.
+>
+> <sup>[7](/bible/2-thessalonians/3#v7)</sup> For yourselves know how ye ought to follow us: for we behaved not ourselves disorderly among you;
 
 - For yourselves know how ye ought to follow us: for we behaved not ourselves disorderly among you; neither did we eat any man's bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you.
 
 - Not because we have not power, but to make ourselves an ensample unto you to follow us. That is the point. Not that we do not have power, but we want to make an example for you, so you can see how we move. We work. We are not looking to the people.
 
 - For even when we were with you, this we commanded you, that if any would not work, neither should he eat. If a man does not work, he should not eat. He must labour. So again, as a leader, if you want to have the people's trust, if you want to have the people's respect, if you want to heal the nation, as a leader you have to work. You have to hold a job. How can you instruct the people and show them how we are going to build a nation, if the head man himself and the men under him are unemployed, meaning they refuse to work and take care of themselves?
+
+> <sup>[8](/bible/2-thessalonians/3#v8)</sup> Neither did we eat any man’s bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you:
+>
+> <sup>[9](/bible/2-thessalonians/3#v9)</sup> Not because we have not power, but to make ourselves an ensample unto you to follow us.
+>
+> <sup>[10](/bible/2-thessalonians/3#v10)</sup> For even when we were with you, this we commanded you, that if any would not work, neither should he eat.
 
 **[2 Thessalonians 3:11-14](/bible/2-thessalonians/3#v11)**  *[[53:13](https://www.youtube.com/watch?v=RyRdIO615fU&t=3193s)]*
 
@@ -323,17 +323,11 @@ The trip: Deacon Abio spoke and said he was coming out here, and I told him I am
 
 **[Titus 2:6-10](/bible/titus/2#v6)**  *[[1:05:56](https://www.youtube.com/watch?v=RyRdIO615fU&t=3956s)]*
 
+- Young men likewise exhort to be sober minded. You teach the young men behind you to be likewise sober minded.
+
 > <sup>[6](/bible/titus/2#v6)</sup> Young men likewise exhort to be sober minded.
 >
 > <sup>[7](/bible/titus/2#v7)</sup> In all things shewing thyself a pattern of good works: in doctrine shewing uncorruptness, gravity, sincerity,
->
-> <sup>[8](/bible/titus/2#v8)</sup> Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.
->
-> <sup>[9](/bible/titus/2#v9)</sup> Exhort servants to be obedient unto their own masters, and to please them well in all things; not answering again;
->
-> <sup>[10](/bible/titus/2#v10)</sup> Not purloining, but shewing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.
-
-- Young men likewise exhort to be sober minded. You teach the young men behind you to be likewise sober minded.
 
 - In all things shewing thyself a pattern of good works: in doctrine shewing uncorruptness, gravity, sincerity. Sincerity, not fake. You are sincere about this.
 
@@ -345,17 +339,23 @@ The trip: Deacon Abio spoke and said he was coming out here, and I told him I am
 
 - The congregation must see the principles being taught demonstrated in your lives, so the people can follow. The word of God must have free course in your life, and people see that and they will fall right in. They will do the same thing. But it must be the word of God being taught, and it must be applied, and that is how you gain the trust. So you leaders here, you want the trust of the people, let your life be the example to them on how to move.
 
+> <sup>[8](/bible/titus/2#v8)</sup> Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.
+>
+> <sup>[9](/bible/titus/2#v9)</sup> Exhort servants to be obedient unto their own masters, and to please them well in all things; not answering again;
+>
+> <sup>[10](/bible/titus/2#v10)</sup> Not purloining, but shewing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.
+
 **[1 Samuel 12:3-4](/bible/1-samuel/12#v3)**  *[[1:09:56](https://www.youtube.com/watch?v=RyRdIO615fU&t=4196s)]*
 
 > <sup>[3](/bible/1-samuel/12#v3)</sup> Behold, here I am: witness against me before the Lord, and before his anointed: whose ox have I taken? or whose ass have I taken? or whom have I defrauded? whom have I oppressed? or of whose hand have I received any bribe to blind mine eyes therewith? and I will restore it you.
->
-> <sup>[4](/bible/1-samuel/12#v4)</sup> And they said, Thou hast not defrauded us, nor oppressed us, neither hast thou taken ought of any man’s hand.
 
 - Behold, here I am: witness against me before the Lord, and before his anointed: whose ox have I taken? or whose ass have I taken? or whom have I defrauded? whom have I oppressed? or of whose hand have I received any bribe to blind mine eyes therewith? and I will restore it you.
 
 - And they said, Thou hast not defrauded us, nor oppressed us, neither hast thou taken ought of any man's hand. Samuel gave an example right there where he allowed himself to be examined by the people. From whom did I take, whom did I defraud, show me that I might restore to them. Show me. That is a man you could follow. You could trust.
 
 - Transparency as a leader is golden. It is not a secret. Show me where I am in error with anybody. I have not taken from anybody, I have not taken advantage of them. But as a leader you do have that power. It is ungodly, but you do have it. And that means you do not believe this truth. You do not believe that this is about building Christ's kingdom back up.
+
+> <sup>[4](/bible/1-samuel/12#v4)</sup> And they said, Thou hast not defrauded us, nor oppressed us, neither hast thou taken ought of any man’s hand.
 
 **[Proverbs 28:13](/bible/proverbs/28#v13)**  *[[1:11:05](https://www.youtube.com/watch?v=RyRdIO615fU&t=4265s)]*
 
@@ -495,21 +495,21 @@ The trip: Deacon Abio spoke and said he was coming out here, and I told him I am
 
 **[Ezekiel 34:1-5](/bible/ezekiel/34#v1)**  *[[1:41:44](https://www.youtube.com/watch?v=RyRdIO615fU&t=6104s)]*
 
+- And the word of the Lord came unto me, saying, Son of man, prophesy against the shepherds of Israel, prophesy, and say unto them, Thus saith the Lord God unto the shepherds; Woe be to the shepherds of Israel that do feed themselves! should not the shepherds feed the flocks?
+
 > <sup>[1](/bible/ezekiel/34#v1)</sup> And the word of the Lord came unto me, saying,
 >
 > <sup>[2](/bible/ezekiel/34#v2)</sup> Son of man, prophesy against the shepherds of Israel, prophesy, and say unto them, Thus saith the Lord God unto the shepherds; Woe be to the shepherds of Israel that do feed themselves! should not the shepherds feed the flocks?
 >
 > <sup>[3](/bible/ezekiel/34#v3)</sup> Ye eat the fat, and ye clothe you with the wool, ye kill them that are fed: but ye feed not the flock.
->
-> <sup>[4](/bible/ezekiel/34#v4)</sup> The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up that which was broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them.
->
-> <sup>[5](/bible/ezekiel/34#v5)</sup> And they were scattered, because there is no shepherd: and they became meat to all the beasts of the field, when they were scattered.
-
-- And the word of the Lord came unto me, saying, Son of man, prophesy against the shepherds of Israel, prophesy, and say unto them, Thus saith the Lord God unto the shepherds; Woe be to the shepherds of Israel that do feed themselves! should not the shepherds feed the flocks?
 
 - Ye eat the fat, and ye clothe you with the wool, ye kill them that are fed: but ye feed not the flock. You receive the benefits of being the lead, the head. You walk in, they make you eat first and all that stuff. Should not the shepherds serve the people? We are servants to you. As we sit here as leaders, this really means nothing unless you all come to learn what we are teaching. The strength is when we move collectively as a body. But us as teachers means nothing if there is not a congregation to teach. Our job is to serve you. For those that seek learning, we are supposed to sacrifice our time and ourselves to teach you. And it cannot be for money. And it cannot be for opportunity. It cannot be so we can get a bishop on deck. That is not what we are doing it for. And if that is a brother's purpose, because he wants to lord over people, you have the wrong idea. Christ gave his life for us, to give us the opportunity of repentance, and he was without sin. So for us that have lived a life that has sinned against God, and now we come in here and we lord over you, we take advantage of you, you might as well stay back in the world. Come here for what?
 
 - The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up that which was broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them. With force and with cruelty you have ruled over them. You have not healed them. You have not taught them. You have not made them whole with God, but with cruelty and force you abuse God's people. It should not be named amongst us as leaders that we do not instruct the people. You take care of us and then we deal with you unjustly, disrespectfully. I have heard reports of brothers getting cursed out, brothers being threatened, brothers threatening to beat other brothers up. When I heard that I said, is this the truth? Are you serious? We are talking about fighting, over what?
+
+> <sup>[4](/bible/ezekiel/34#v4)</sup> The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up that which was broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them.
+>
+> <sup>[5](/bible/ezekiel/34#v5)</sup> And they were scattered, because there is no shepherd: and they became meat to all the beasts of the field, when they were scattered.
 
 - And they were scattered, because there is no shepherd: and they became meat to all the beasts of the field, when they were scattered. They have not learned, because there was no shepherd to instruct them.
 
@@ -526,10 +526,10 @@ The trip: Deacon Abio spoke and said he was coming out here, and I told him I am
 **[Isaiah 58:11-12](/bible/isaiah/58#v11)**  *[[1:47:39](https://www.youtube.com/watch?v=RyRdIO615fU&t=6459s)]*
 
 > <sup>[11](/bible/isaiah/58#v11)</sup> And the Lord shall guide thee continually, and satisfy thy soul in drought, and make fat thy bones: and thou shalt be like a watered garden, and like a spring of water, whose waters fail not.
->
-> <sup>[12](/bible/isaiah/58#v12)</sup> And they that shall be of thee shall build the old waste places: thou shalt raise up the foundations of many generations; and thou shalt be called, The repairer of the breach, The restorer of paths to dwell in.
 
 - And the Lord shall guide thee continually, and satisfy thy soul in drought, and make fat thy bones: and thou shalt be like a watered garden, and like a spring of water, whose waters fail not. Guide who continually? Those that take delight in approaching to God.
+
+> <sup>[12](/bible/isaiah/58#v12)</sup> And they that shall be of thee shall build the old waste places: thou shalt raise up the foundations of many generations; and thou shalt be called, The repairer of the breach, The restorer of paths to dwell in.
 
 - And they that shall be of thee shall build the old waste places: thou shalt raise up the foundations of many generations; and thou shalt be called, The repairer of the breach, The restorer of paths to dwell in. That is what you want to be. You want to be called a restorer of the paths to dwell in. You want to lead people back to the laws of God. You want to show mercy and kindness. You want to show austerity concerning God's laws. There is no wiggle room. There is no plying in God's laws.
 
@@ -537,29 +537,29 @@ The trip: Deacon Abio spoke and said he was coming out here, and I told him I am
 
 **[Ezekiel 22:27-30](/bible/ezekiel/22#v27)**  *[[1:49:30](https://www.youtube.com/watch?v=RyRdIO615fU&t=6570s)]*
 
+- Her princes in the midst thereof are like wolves ravening the prey, to shed blood, and to destroy souls, to get dishonest gain.
+
+- And her prophets have daubed them with untempered morter, seeing vanity, and divining lies unto them, saying, Thus saith the Lord God, when the Lord hath not spoken. What is untempered morter? When you temper a piece of metal you heat it up, you put it in water, you bang it, you heat it up, and it strengthens it. So untempered morter is morter that is not strengthened. It cannot hold up anything. So her prophets have daubed them with vanities, with false things, things that cannot hold any weight. It is not going to survive the test of time.
+
 > <sup>[27](/bible/ezekiel/22#v27)</sup> Her princes in the midst thereof are like wolves ravening the prey, to shed blood, and to destroy souls, to get dishonest gain.
 >
 > <sup>[28](/bible/ezekiel/22#v28)</sup> And her prophets have daubed them with untempered morter, seeing vanity, and divining lies unto them, saying, Thus saith the Lord God, when the Lord hath not spoken.
 >
 > <sup>[29](/bible/ezekiel/22#v29)</sup> The people of the land have used oppression, and exercised robbery, and have vexed the poor and needy: yea, they have oppressed the stranger wrongfully.
->
-> <sup>[30](/bible/ezekiel/22#v30)</sup> And I sought for a man among them, that should make up the hedge, and stand in the gap before me for the land, that I should not destroy it: but I found none.
-
-- Her princes in the midst thereof are like wolves ravening the prey, to shed blood, and to destroy souls, to get dishonest gain.
-
-- And her prophets have daubed them with untempered morter, seeing vanity, and divining lies unto them, saying, Thus saith the Lord God, when the Lord hath not spoken. What is untempered morter? When you temper a piece of metal you heat it up, you put it in water, you bang it, you heat it up, and it strengthens it. So untempered morter is morter that is not strengthened. It cannot hold up anything. So her prophets have daubed them with vanities, with false things, things that cannot hold any weight. It is not going to survive the test of time.
 
 - The people of the land have used oppression, and exercised robbery, and have vexed the poor and needy: yea, they have oppressed the stranger wrongfully.
+
+> <sup>[30](/bible/ezekiel/22#v30)</sup> And I sought for a man among them, that should make up the hedge, and stand in the gap before me for the land, that I should not destroy it: but I found none.
 
 - And I sought for a man among them, that should make up the hedge, and stand in the gap before me for the land, that I should not destroy it: but I found none. The hedges are the laws that are supposed to guide them. He was looking for a man to stand up for the laws of God and guide the people. He said, I did not find any man like that. Well, guess what? We are supposed to be those people. We are supposed to be that hedge, to protect the people, to show them the right way, to guide them down the path on what to do. As leaders we cannot just take on the title of leader and not be a protector to the people, not be the safeguard to them, not be the ones they can trust to do the right thing. They do not know better. They come in here not knowing better. We are supposed to show them a better way on how to live. Be the example to them so they can say, you know what, I want to mimic this. So when destruction comes, they are tempered. The laws of God have been struck in. Thou shalt not steal. Thou shalt not covet. Like the example I gave with Bishop, when he told me about returning the package. Okay, now I have learned. Be different. Be that example, so when the next person comes you can be that example to them.
 
 **[Proverbs 12:18-19](/bible/proverbs/12#v18)**  *[[1:56:40](https://www.youtube.com/watch?v=RyRdIO615fU&t=7000s)]*
 
 > <sup>[18](/bible/proverbs/12#v18)</sup> There is that speaketh like the piercings of a sword: but the tongue of the wise is health.
->
-> <sup>[19](/bible/proverbs/12#v19)</sup> The lip of truth shall be established for ever: but a lying tongue is but for a moment.
 
 - There is that speaketh like the piercings of a sword: but the tongue of the wise is health.
+
+> <sup>[19](/bible/proverbs/12#v19)</sup> The lip of truth shall be established for ever: but a lying tongue is but for a moment.
 
 - The lip of truth shall be established for ever: but a lying tongue is but for a moment. The lip that teaches the law is going to be established for ever, for generations. So when the next leaders come, they will follow the same pattern.
 
@@ -570,10 +570,6 @@ The trip: Deacon Abio spoke and said he was coming out here, and I told him I am
 **[Ephesians 4:28-30](/bible/ephesians/4#v28)**  *[[2:01:43](https://www.youtube.com/watch?v=RyRdIO615fU&t=7303s)]*
 
 > <sup>[28](/bible/ephesians/4#v28)</sup> Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needeth.
->
-> <sup>[29](/bible/ephesians/4#v29)</sup> Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.
->
-> <sup>[30](/bible/ephesians/4#v30)</sup> And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.
 
 - Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needeth.
 
@@ -582,6 +578,10 @@ The trip: Deacon Abio spoke and said he was coming out here, and I told him I am
 - And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption. At the end of it, you are grieving the Holy Spirit when you lie and you steal from God's people.
 
 - This ties back to what we read: wherefore putting away lying, speak every man truth with his neighbour, for we are members one of another. Because your lying affects the body. Your stealing affects the body.
+
+> <sup>[29](/bible/ephesians/4#v29)</sup> Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.
+>
+> <sup>[30](/bible/ephesians/4#v30)</sup> And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.
 
 **[Ephesians 4:1-2](/bible/ephesians/4#v1)**  *[[2:03:37](https://www.youtube.com/watch?v=RyRdIO615fU&t=7417s)]*
 
@@ -608,10 +608,6 @@ The trip: Deacon Abio spoke and said he was coming out here, and I told him I am
 **[Matthew 20:26-28](/bible/matthew/20#v26)**  *[[2:09:14](https://www.youtube.com/watch?v=RyRdIO615fU&t=7754s)]*
 
 > <sup>[26](/bible/matthew/20#v26)</sup> But it shall not be so among you: but whosoever will be great among you, let him be your minister;
->
-> <sup>[27](/bible/matthew/20#v27)</sup> And whosoever will be chief among you, let him be your servant:
->
-> <sup>[28](/bible/matthew/20#v28)</sup> Even as the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.
 
 - But it shall not be so among you: but whosoever will be great among you, let him be your minister. Whoever is great among you, let him be your minister.
 
@@ -622,6 +618,10 @@ The trip: Deacon Abio spoke and said he was coming out here, and I told him I am
 - Leadership does not exist to build, guide, correct and serve God's people without sacrifice, without putting your life on the line. As I said before, there is nothing that is asked of you that we will not do, or have not done. There is no corner that we will send you on that we will not stand on. There is no financial commitment we ask people to help with that we will not do. If that is the case, it is called hypocrisy. There is none of us that do not hold jobs, that do not take care of ourselves, and then ask you to sit back and just keep on sending offerings while we fly around the world. Some of these camps over the years were saying we were going to take the money. Foolishness. Yet you see us building schools all around the world. The money is going back to building. It is not lining our pockets.
 
 - The principle: authority without service produces fear. Authority combined with charity produces respect and trust. Some men want that authority, but it comes with fear tactics. That is called old pimp foolishness.
+
+> <sup>[27](/bible/matthew/20#v27)</sup> And whosoever will be chief among you, let him be your servant:
+>
+> <sup>[28](/bible/matthew/20#v28)</sup> Even as the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.
 
 **[1 Corinthians 13:1-8](/bible/1-corinthians/13#v1)**  *[[2:14:14](https://www.youtube.com/watch?v=RyRdIO615fU&t=8054s)]*
 
@@ -661,17 +661,15 @@ The trip: Deacon Abio spoke and said he was coming out here, and I told him I am
 
 **[1 Corinthians 13:9-12](/bible/1-corinthians/13#v9)**  *[[2:22:26](https://www.youtube.com/watch?v=RyRdIO615fU&t=8546s)]*
 
+- For we know in part, and we prophesy in part. When he comes back and says we know in part, we prophesy in part: you do not know as much as you think you know. God has given all of us a dispensation of this. But we have what is needful for salvation. There are parts of this Bible that we do not fully understand, not concerning salvation, but he is trying to humble us, to let you know you are not as great as you think you are. And this is Paul, who God showed incredible revelations to, that he did not show to many of the other apostles.
+
+- But when that which is perfect is come, then that which is in part shall be done away. That which is perfect is Christ.
+
 > <sup>[9](/bible/1-corinthians/13#v9)</sup> For we know in part, and we prophesy in part.
 >
 > <sup>[10](/bible/1-corinthians/13#v10)</sup> But when that which is perfect is come, then that which is in part shall be done away.
 >
 > <sup>[11](/bible/1-corinthians/13#v11)</sup> When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things.
->
-> <sup>[12](/bible/1-corinthians/13#v12)</sup> For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.
-
-- For we know in part, and we prophesy in part. When he comes back and says we know in part, we prophesy in part: you do not know as much as you think you know. God has given all of us a dispensation of this. But we have what is needful for salvation. There are parts of this Bible that we do not fully understand, not concerning salvation, but he is trying to humble us, to let you know you are not as great as you think you are. And this is Paul, who God showed incredible revelations to, that he did not show to many of the other apostles.
-
-- But when that which is perfect is come, then that which is in part shall be done away. That which is perfect is Christ.
 
 - When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things. What are the childish things you put away, based on what we just talked about? Exactly. We put those things away. We are renewed in the mind.
 
@@ -691,6 +689,8 @@ The trip: Deacon Abio spoke and said he was coming out here, and I told him I am
 
     Having the understanding darkened, being alienated from the life of God through the ignorance that is in them. That is what it means when it says we see through a glass darkly. We do not have the full understanding of all these scriptures.
 
+> <sup>[12](/bible/1-corinthians/13#v12)</sup> For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.
+
 **[1 Corinthians 13:13](/bible/1-corinthians/13#v13)**  *[[2:26:30](https://www.youtube.com/watch?v=RyRdIO615fU&t=8790s)]*
 
 > <sup>[13](/bible/1-corinthians/13#v13)</sup> And now abideth faith, hope, charity, these three; but the greatest of these is charity.
@@ -699,19 +699,19 @@ The trip: Deacon Abio spoke and said he was coming out here, and I told him I am
 
 **[Colossians 3:12-14](/bible/colossians/3#v12)**  *[[2:27:18](https://www.youtube.com/watch?v=RyRdIO615fU&t=8838s)]*
 
+- Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering. And these are the fruits of the Spirit also.
+
 > <sup>[12](/bible/colossians/3#v12)</sup> Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering;
 >
 > <sup>[13](/bible/colossians/3#v13)</sup> Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.
->
-> <sup>[14](/bible/colossians/3#v14)</sup> And above all these things put on charity, which is the bond of perfectness.
-
-- Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering. And these are the fruits of the Spirit also.
 
 - Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.
 
 - And above all these things put on charity, which is the bond of perfectness. Charity is the bond that holds this whole thing together. Why? Because people come in here sick. They are not right. Show mercy to them. Guide them. Instruct them in the laws of God. Consider thyself. But roughness is the losing of authority.
 
 - Now, let me preface this. That does not mean being weak. That does not mean not speaking or being stern. Because some people you have to deal with harshly, because they are ignorant. Some brothers we deal with harshly because you have been around too long to be doing certain things. Some young brothers you kind of wink at some of the stuff. So do not go too far now. But the point of it is, above all these put on charity, which is the bond of perfectness. Perfectness, in other words, is to be complete and whole. That we all measure up to the full stature of Christ.
+
+> <sup>[14](/bible/colossians/3#v14)</sup> And above all these things put on charity, which is the bond of perfectness.
 
 **[1 Peter 3:8](/bible/1-peter/3#v8)**  *[[2:29:20](https://www.youtube.com/watch?v=RyRdIO615fU&t=8960s)]*
 
@@ -741,25 +741,15 @@ The trip: Deacon Abio spoke and said he was coming out here, and I told him I am
 
 **[1 Corinthians 11:23-30](/bible/1-corinthians/11#v23)**  *[[3:10:14](https://www.youtube.com/watch?v=RyRdIO615fU&t=11414s)]*
 
+- Read at the breaking of bread. For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread.
+
 > <sup>[23](/bible/1-corinthians/11#v23)</sup> For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread:
 >
 > <sup>[24](/bible/1-corinthians/11#v24)</sup> And when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me.
->
-> <sup>[25](/bible/1-corinthians/11#v25)</sup> After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me.
->
-> <sup>[26](/bible/1-corinthians/11#v26)</sup> For as often as ye eat this bread, and drink this cup, ye do shew the Lord’s death till he come.
->
-> <sup>[27](/bible/1-corinthians/11#v27)</sup> Wherefore whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord.
->
-> <sup>[28](/bible/1-corinthians/11#v28)</sup> But let a man examine himself, and so let him eat of that bread, and drink of that cup.
->
-> <sup>[29](/bible/1-corinthians/11#v29)</sup> For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord’s body.
->
-> <sup>[30](/bible/1-corinthians/11#v30)</sup> For this cause many are weak and sickly among you, and many sleep.
-
-- Read at the breaking of bread. For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread.
 
 - And when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me.
+
+> <sup>[25](/bible/1-corinthians/11#v25)</sup> After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me.
 
 - After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me.
 
@@ -772,6 +762,16 @@ The trip: Deacon Abio spoke and said he was coming out here, and I told him I am
 - For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord's body.
 
 - For this cause many are weak and sickly among you, and many sleep.
+
+> <sup>[26](/bible/1-corinthians/11#v26)</sup> For as often as ye eat this bread, and drink this cup, ye do shew the Lord’s death till he come.
+>
+> <sup>[27](/bible/1-corinthians/11#v27)</sup> Wherefore whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord.
+>
+> <sup>[28](/bible/1-corinthians/11#v28)</sup> But let a man examine himself, and so let him eat of that bread, and drink of that cup.
+>
+> <sup>[29](/bible/1-corinthians/11#v29)</sup> For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord’s body.
+>
+> <sup>[30](/bible/1-corinthians/11#v30)</sup> For this cause many are weak and sickly among you, and many sleep.
 
 ## In Closing
 

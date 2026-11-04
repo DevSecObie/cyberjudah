@@ -18,7 +18,7 @@ tags: ["Our Hidden History", "false-religion", "idolatry", "islam-arabs"]
 
 ## Introduction
 
-*[[6:40](https://www.youtube.com/watch?v=1PjTWJ0FRuM&t=400s)]* Hey, hey, welcome, welcome back. Welcome back, Our Hidden History is back. We're back on this week, all praises. You are now tuned into Our Hidden History radio show. We back.
+*[[6:40](https://www.youtube.com/watch?v=1PjTWJ0FRuM&t=400s)]* You are now tuned into Our Hidden History radio show.
 
 Starting off with, done with Islam. Some of y'all who may very well be involved in that religion, I want you to understand that this is not a personal thing. This is my vendetta against Ishmael. I do not like Ishmael at all, to be perfectly honest, because of what they're doing, what they have done to us and what they are still doing to us, covertly, under the eyes of the European Union. Our people are currently, listen to me very carefully, currently in the enslavement of the sex trafficking, slave trafficking, sex trafficking in areas of Egypt, Mauritania, Libya, and where else? Mauritania, Libya, Tunisia. That's where they're at. The whole North Africa, pretty much the whole north and northeast of Africa. Northwest Africa and northeast Africa, there's a heavy slave trade going on involving these Muslims, or Arabs.
 
@@ -33,7 +33,6 @@ Starting off with, done with Islam. Some of y'all who may very well be involved 
 *[[10:30](https://www.youtube.com/watch?v=1PjTWJ0FRuM&t=630s)]* Let's get *Foundations of Islam*. *Foundations of Islam: The Making of a World Faith* by Benjamin Walker. I'll show this book because it's a pretty new book. It's common, but those of y'all are interested in the book, you can get it: *Foundations of Islam* by Benjamin Walker. We have many other books on Islam, but this one is the most modern one we have. Some of y'all might say, oh, that's the new one. We have older ones too, I assure you, way older. But I like the details of this book, so I like to use it. We're going to start at page 46. I said 15; that's page 15 later on. There's a lot on 15 too. Page 46, and we're going to end at, I guess, the whole page.
 
 ## Readings and Scriptures
-
 
 <div class="reading">
 
@@ -54,7 +53,7 @@ Reading from *Foundations of Islam: The Making of a World Faith* by Benjamin Wal
 > <sup>[17](/bible/deuteronomy/4#v17)</sup> The likeness of any beast that is on the earth, the likeness of any winged fowl that flieth in the air,
 >
 > <sup>[18](/bible/deuteronomy/4#v18)</sup> The likeness of any thing that creepeth on the ground, the likeness of any fish that is in the waters beneath the earth:
-
+>
 > <sup>[19](/bible/deuteronomy/4#v19)</sup> And lest thou lift up thine eyes unto heaven, and when thou seest the sun, and the moon, and the stars, even all the host of heaven, shouldest be driven to worship them, and serve them, which the Lord thy God hath divided unto all nations under the whole heaven.
 
 - The sun and the moon: heavenly bodies. And the stars: heavenly bodies. Even all the host of heaven, that's the heavenly bodies in total.
@@ -89,11 +88,11 @@ Reading from *Foundations of Islam: The Making of a World Faith* by Benjamin Wal
 
 - They are upright as the palm tree, but speak not. Yo. So the trees, the well, the moon and so forth, they speak not. The stone, the cobblestone, they don't speak, they don't move, they can't go nowhere, they can't help you.
 
-- They must needs be borne. They got to be carried. What's the picture someone showed last week, where they was carrying the idols? India. We put that on the screen. Read that part again. They must needs be borne: you have to carry them. How you got to save your idol that's supposed to protect you?
+- They must needs be borne. They got to be carried. What's the picture someone showed last week, where they was carrying the idols? India. We put that on the screen. They must needs be borne: you have to carry them. How you got to save your idol that's supposed to protect you?
 
 - They must needs be borne because they cannot go. They cannot go on their own.
 
-- Be not afraid of them, for they cannot do evil. They can't do anything to you. Neither also is it in them to do good. Right, they can't do evil or they can't do good, because they're nothing. All right.
+- Be not afraid of them, for they cannot do evil. They can't do anything to you. Neither also is it in them to do good. Right, they can't do evil or they can't do good, because they're nothing.
 
 - Give me Baruch 1:19. No, hold on, hold on. It says Letter of Jeremiah. This app is weird. Letter of Jeremiah chapter 6, I'm sorry, 6:19. Baruch chapter 6 and verse 19.
 
@@ -247,7 +246,7 @@ Reading from the Quran, Surah 53:49, looked up on air  *[[31:51](https://www.you
 >
 > And that he is the Lord of Sirius, the brightest star at night.
 
-- Wow. All right. So the moon... all right, so let's go back.
+- So the moon... all right, so let's go back.
 
 - **Officer:** Hey Deacon, and just to show, how you always talk about they worship the same God: Sirius is the same god that they worship in Greek mythology.
 
@@ -297,11 +296,11 @@ Reading from the Quran, Surah Al-Ma'idah 5:68, looked up on air  *[[39:28](https
 
 > Say to them,
 
-- Say to them. Watch this.
+- Say to them.
 
 > People of the Book,
 
-- People of the Book: Israelites, Christians, Jews. The black people that was there, that they enslaved. He's talking to us. Watch this.
+- People of the Book: Israelites, Christians, Jews. The black people that was there, that they enslaved. He's talking to us.
 
 > you have no solid ground to stand on
 
@@ -377,7 +376,7 @@ Reading from the Wikipedia article on Hubal, read on air  *[[45:23](https://www.
 
 > The god's idol was a human figure,
 
-- Wait, wait. The god's idol was a what? A human figure. Means he was molded or sketched or etched into looking like a human.
+- The god's idol was a what? A human figure. Means he was molded or sketched or etched into looking like a human.
 
 > believed to control acts of divination, which was performed by tossing arrows before the statue.
 
@@ -387,11 +386,9 @@ Reading from the Wikipedia article on Hubal, read on air  *[[45:23](https://www.
 
 > Hubal and the Kaaba. Hubal most prominently appeared at Mecca, where an image of him was worshiped at the Kaaba. According to Karen Armstrong, the sanctuary was dedicated to Hubal, who was worshiped as the greatest of the 360 idols the Kaaba contained,
 
-- Watch this. So they had a god for each day of the year, but Hubal was the top god of the pantheon of all those gods. He's like the Zeus of all the rocks. He's the bigger Pokemon, Onix.
+- So they had a god for each day of the year, but Hubal was the top god of the pantheon of all those gods. He's like the Zeus of all the rocks. He's the bigger Pokemon, Onix.
 
 > which probably represented the days of the year.
-
-- There you go.
 
 > Hisham ibn al-Kalbi's Book of Idols
 
@@ -407,7 +404,7 @@ Reading from the Wikipedia article on Hubal, read on air  *[[45:23](https://www.
 
 > in cases of death, virginity and marriage.
 
-- It says seven arrows. Hold that. Type in: how many stones are thrown at the devil in Islam? I'm trying to see something. How many stones are thrown at the devil in Islam? They throw seven. It's going to blow my mind. This is just a shot in the dark. I'm just taking a guess here. Wow. I'm disgusted. I didn't even know they throw... Read that, please. I'm telling you, they threw seven arrows back then; now it's what? Read that.
+- It says seven arrows. Type in: how many stones are thrown at the devil in Islam? I'm trying to see something. How many stones are thrown at the devil in Islam? They throw seven. It's going to blow my mind. This is just a shot in the dark. I'm just taking a guess here. I'm disgusted. I didn't even know they throw... Read that, please. I'm telling you, they threw seven arrows back then; now it's what?
 
 </div>
 
@@ -423,7 +420,7 @@ Reading from a search result read on air, on the stoning of the pillars at the H
 
 > not to sacrifice his son Ishmael. For the next three days pilgrims pelt each of the three stone pillars with seven stones.
 
-- Dang. Wow. Go back to the book please. I didn't even know that. I just guessed it then. Come on. Just nothing new under the sun. Nothing new under the sun. Man. Geez.
+- Dang. Go back to the book please. I didn't even know that. I just guessed it then. Just nothing new under the sun. Nothing new under the sun. Man. Geez.
 
 </div>
 
@@ -433,7 +430,7 @@ Reading from the Wikipedia article on Hubal, continued  *[[49:58](https://www.yo
 
 > But another tradition, recorded by Ibn Ishaq, holds that Amr ibn Luhayy, a leader of the Khuza'a tribe, put an image of Hubal into the Kaaba,
 
-- Wow. Into the cube.
+- Into the cube.
 
 > where it was worshiped as one of the chief deities of the tribe. The date for Amr is disputed,
 
@@ -443,7 +440,7 @@ Reading from the Wikipedia article on Hubal, continued  *[[49:58](https://www.yo
 
 - Stop. What is quite sure, that the Quraysh later... Later, why? Because the Joktanites were worshiping it first, before the Ishmaelites arrived there. Then the Ishmaelites learned from them, and learned that doctrine.
 
-- Real quick, go to Khuza'a real fast. Click that. Go up to the top, right there. Click Khuza'a. Let me see it. Read that.
+- Real quick, go to Khuza'a real fast. Click that. Go up to the top, right there. Click Khuza'a. Let me see it.
 
 </div>
 
@@ -474,8 +471,6 @@ Reading from the Wikipedia article on Hubal, continued  *[[52:43](https://www.yo
 - That's when he fought against... Muhammad went to war and start fighting against the pagans of his own people.
 
 > Abu Sufyan ibn Harb, leader of the Quraysh army, is said to have called on Hubal for support to gain victory in their next battle, saying, Show your superiority, Hubal.
-
-- Wow.
 
 > When Muhammad conquered Mecca in 630, he removed the statue of Hubal, along with the other 360 images at the Kaaba, and dedicated the structure to the Abrahamic God.
 
@@ -555,7 +550,7 @@ Reading from *Foundations of Islam: The Making of a World Faith* by Benjamin Wal
 
 > On his way to the mount of sacrifice, Satan appeared before him and tried to hinder him from his purpose, but the patriarch drove him off by pelting him with stones.
 
-- With seven stones, or seven arrows. Okay.
+- With seven stones, or seven arrows.
 
 > Abraham proceeded to Mount Thabir, near Mina, in the hills east of Mecca, to carry out the sacrifice, but at the last moment divine intervention miraculously provided a sheep to replace his son.
 
@@ -583,9 +578,7 @@ Reading from *Foundations of Islam: The Making of a World Faith* by Benjamin Wal
 
 *[[1:03:53](https://www.youtube.com/watch?v=1PjTWJ0FRuM&t=3833s)]* The break plays the IUIC reels. To the twelve tribes which are scattered abroad, greetings. So the same mission the disciples had is our mission today. Our mission is unlike any other mission throughout the world. There's no group on earth who has undertaken the true mission of the disciples of Christ: to resurrect and gather the twelve tribes of Israel, which have been scattered abroad. You may call it the diaspora for today; the Bible uses other words, the scattered. Our people, people who suffered during the time of colonialization, forced migration, sub-Saharan slave trade, transatlantic slave trade. It seems like our people have been forgotten, but you are not forgotten. There will come a time when black people wake up and become intellectually independent enough to think for themselves, and then the black man will feel for other black people, and this new thinking and feeling will cause black people to stick together, and when you attack one black man you are attacking all black men. Jesus Christ is not a white man; Jesus Christ is a black man. In the basilica reel, a black brother deceived by the false image got mad and tried to attack Deacon Malachi when he told him, you know Jesus ain't white, right. Then Deacon Isaac, with Captain Joel, from the grand opening of the new IUIC school in India, on the way to Goa to spread the gospel: keep us in your prayers; his head and his hairs were white like wool. And the Passover Boom Cards: the ideal tool to teach our princes and princesses the biblical history of Passover, in English and Spanish.
 
-
 *[[1:12:20](https://www.youtube.com/watch?v=1PjTWJ0FRuM&t=4340s)]* All right, we're back. We're back from the break. Hope you guys got a chance to use the bathroom, get your stuff together, your libations. Libations, Bishop says. So now let's get into Deuteronomy 33:29. That these guys just make up legends: Abraham went to Mecca and fought Satan.
-
 
 **[Deuteronomy 33:29](/bible/deuteronomy/33#v29)**  *[[1:14:08](https://www.youtube.com/watch?v=1PjTWJ0FRuM&t=4448s)]*
 
@@ -597,11 +590,9 @@ Reading from *Foundations of Islam: The Making of a World Faith* by Benjamin Wal
 
 **Text:** Did Islam have their version of Immaculate Conception or not?
 
-
 **Deacon Eythan:** No. Islam does have Immaculate Conception. They learned that from the pagan Christians in Saudi Arabia. When Israel fled out of Jerusalem, a lot of them who embraced the pagan Christianity lived in Saudi Arabia, and they taught Muhammad that doctrine. He came across it. Jews and Christians, pagan Christians and Christians alike, push that doctrine that Mary was... Mary's the only woman that's named by name in the Quran, because they hold her as the most special woman that God made, that Allah created. Mary, they call Maryam. And they teach according to their Quran that the angel Gabriel visited her, lifted up her dress and blew on her farj. Farj means her vagina. Now you're pregnant. Stop the cap. That's what they believe. I kid you not. In the Arabic it says the angel blew in her vagina and she got pregnant. I kid you not.
 
 So they believe in the... not Immaculate Conception. Well, you can say that, but the Immaculate Conception is Mary being born without sin. That's the doctrine. The Immaculate Conception is not talking about Christ being born through a virgin. The Immaculate Conception is Mary was born without sin. She was immaculately born without sin, and so she was a vessel that was best to bring forth the virgin birth. So virgin birth is the Messiah, and Immaculate Conception is Mary's perfection. Okay, so in Islam the angel Gabriel blows on coochies. You can't make this up, man. You can't make it up. I don't understand. It's like some weird angelic porn. I don't know what's happening. Anyway, 2 Maccabees 15:9. I hope that answers your question. I'm sorry to have to answer it that way, but that's just what it is.
-
 
 **[2 Maccabees 15:9-10](/bible/2-maccabees/15#v9)**  *[[1:17:34](https://www.youtube.com/watch?v=1PjTWJ0FRuM&t=4654s)]*
 
@@ -611,7 +602,7 @@ So they believe in the... not Immaculate Conception. Well, you can say that, but
 
 > <sup>[10](/bible/2-maccabees/15#v10)</sup> And when he had stirred up their minds, he gave them their charge, shewing them therewithal the falsehood of the heathen, and the breach of oaths.
 
-- Watch this: shewing them therewithal the falsehood of the heathen. He showed them the falsehood of the heathen, and the breach of oaths. The breach of oaths means the breach of contracts we made with them, when they would go against us. So Maccabeus, he showed our people the falsehoods of the heathen with the words of God. That's what we're doing. That's why I said, back in Deuteronomy 33:29, we must reveal the lies of the nations. Their lies and their fables. Okay, they make things up. They push doctrines that make no sense. Angels blowing on vaginas. Rocks absorbing sins. It's just madness, man. Adam got kicked out of paradise and they gave him a white rock. Come on, man. Abraham threw a rock? Come on. What could a stone do to an angel? Abraham said get out of here, Satan. Satan was like, ah, the rocks, they hurt. Ow. And seven, you got seven rocks? Oh no. Oh, the seventh one did it. Come on, man. Please stop. I'll save you, I'll save you, stop. Yeah, please stop with the fifth one. The fifth one's enough. Ow. Two more. Oh, come on, man. The number of completion. Yeah, that's complete: seven. Sabbath stones. Come on, man. Give me page 16, *Foundations of Islam*. Flintstones or something. Ridiculous. This is madness to me. No, page 15. Go to the bottom, you'll be right there.
+- Watch this: shewing them therewithal the falsehood of the heathen. He showed them the falsehood of the heathen, and the breach of oaths. The breach of oaths means the breach of contracts we made with them, when they would go against us. So Maccabeus, he showed our people the falsehoods of the heathen with the words of God. That's what we're doing. That's why I said, back in Deuteronomy 33:29, we must reveal the lies of the nations. Their lies and their fables. Okay, they make things up. They push doctrines that make no sense. Angels blowing on vaginas. Rocks absorbing sins. It's just madness, man. Adam got kicked out of paradise and they gave him a white rock. Abraham threw a rock? What could a stone do to an angel? Abraham said get out of here, Satan. Satan was like, ah, the rocks, they hurt. Ow. And seven, you got seven rocks? Oh no. Oh, the seventh one did it. Please stop. I'll save you, I'll save you, stop. Yeah, please stop with the fifth one. The fifth one's enough. Ow. Two more. The number of completion. Yeah, that's complete: seven. Sabbath stones. Give me page 16, *Foundations of Islam*. Flintstones or something. Ridiculous. This is madness to me. No, page 15. Go to the bottom, you'll be right there.
 
 <div class="reading">
 
@@ -643,7 +634,7 @@ Reading from *Foundations of Islam: The Making of a World Faith* by Benjamin Wal
 
 > In modern times, the Egyptian scholar and statesman Taha Hussein, much to the displeasure of the authorities, questioned whether Abraham had even been in Mecca. 1983, page 156.
 
-- Wow. There's this question regarding if he was even there at all. He wasn't there at all. They just made this up. Where we at? Is that Arabia? I went further than that. Okay, no, I'm sorry, end at Mecca. We ended at Mecca, right? Okay, I'm mixing things up. That's fine, that's good. Go to page 30 now. Page 30, the Qahtan. We're going to end at Arabia. There we go, that's it.
+- There's this question regarding if he was even there at all. He wasn't there at all. They just made this up. Where we at? Is that Arabia? I went further than that. Okay, no, I'm sorry, end at Mecca. We ended at Mecca, right? Okay, I'm mixing things up. That's fine, that's good. Go to page 30 now. Page 30, the Qahtan. We're going to end at Arabia. There we go, that's it.
 
 </div>
 
@@ -669,7 +660,7 @@ Reading from *Foundations of Islam: The Making of a World Faith* by Benjamin Wal
 
 > and to be able to trace one's ancestry to a family from the southern region of Arabia.
 
-- That's all I want. So the Joktanites, or Peleg's brother, or Eber, I mean, Eber was black too. Shem was black too. Abraham was black too. All … is black, right? All of them are black. Yes, sir. Had to be blacky black in order to be pure. And if you anything lighter than that, you something wrong with you. You light, you get... You smiling too hard. Stop, stop, stop. Anybody got something on that? No. Page 38. We'll come back to that later. You lightskins are impure. Read on. Got too light. I'm dark. The lights is off. When the lights is off, you good. Page 38, the Kaaba. We're going to end at worship.
+- That's all I want. So the Joktanites, or Peleg's brother, or Eber, I mean, Eber was black too. Shem was black too. Abraham was black too. All … is black, right? All of them are black. Yes, sir. Had to be blacky black in order to be pure. And if you anything lighter than that, you something wrong with you. You light, you get... You smiling too hard. Stop, stop, stop. Anybody got something on that? No. Page 38. We'll come back to that later. You lightskins are impure. Got too light. I'm dark. The lights is off. When the lights is off, you good. Page 38, the Kaaba. We're going to end at worship.
 
 </div>
 
@@ -681,7 +672,7 @@ Reading from *Foundations of Islam: The Making of a World Faith* by Benjamin Wal
 
 > In order to remove its many pagan associations, Muslim writers have given the Kaaba a history of their own.
 
-- What? Read it again. In order to remove its many pagan associations: the seven arrows, seven stones, they're walking around the Kaaba. Muslim writers have given the Kaaba a history of their own. They made things up.
+- What? In order to remove its many pagan associations: the seven arrows, seven stones, they're walking around the Kaaba. Muslim writers have given the Kaaba a history of their own. They made things up.
 
 > It was said to have been built by Adam,
 
@@ -705,11 +696,11 @@ Reading from *Foundations of Islam: The Making of a World Faith* by Benjamin Wal
 
 > and even before the advent of Islam, the Kaaba was known as the house of Allah.
 
-- Before Muhammad was even born, the temple, that place, was called the house of Allah. Read on.
+- Before Muhammad was even born, the temple, that place, was called the house of Allah.
 
 > The Kaaba remained a pagan pantheon till 630 AD, when Muhammad destroyed the images, but it continued to be Arabia's holiest shrine and the focus of Muslim unity, and it remains the point towards which Muslims turn to worship.
 
-- Get Baruch again. Baruch 3. Got to read it again. Making things up. Baruch chapter 3, verse 21.
+- Get Baruch again. Baruch 3. Making things up. Baruch chapter 3, verse 21.
 
 </div>
 
@@ -751,15 +742,11 @@ Reading from *Foundations of Islam: The Making of a World Faith* by Benjamin Wal
 
 > and at the time of its descent it was whiter than milk,
 
-- There you go.
-
 > but the sins of men who touched and kissed it caused it to become black.
 
 - That's the fable.
 
 > According to an old tradition of the Persians, the stone was allegedly the emblem of Saturn,
-
-- Wow.
 
 > and one of the relics left in the Kaaba by their hero Mahabad. Western scholars believe that the Black Stone was a meteorite that fell from the skies in prehistoric times,
 
@@ -777,11 +764,9 @@ Reading from *Foundations of Islam: The Making of a World Faith* by Benjamin Wal
 
 > The Kaaba was first erected to provide a suitable sanctuary for the Black Stone, which is believed to have been a token of the Great Goddess. The name Kaaba itself, traditionally said to be derived from a word for cube, may more actually be traced back to the ancient word kaab, meaning virgin,
 
-- Wow.
-
 > cognate with the old Semitic root qaba, meaning female pudenda.
 
-- Qaba. Q-B. Sorry. Qaba, meaning female pudenda: vagina. That's why Bishop always said, like a vagina. That little big hole they had there, put the head in there. That's a qaba. Kaaba is a vagina. Yeah, that's what it is. That's what it is. Big old box. The perversion: put their face in a box. Eating stone box. Go back. Where you at? Go back. I'm sorry, children are watching. I'm sorry. Read it again, the old Semitic root.
+- Qaba. Q-B. Sorry. Qaba, meaning female pudenda: vagina. That's why Bishop always said, like a vagina. That little big hole they had there, put the head in there. That's a qaba. Kaaba is a vagina. Yeah, that's what it is. That's what it is. Big old box. The perversion: put their face in a box. Eating stone box. Go back. Where you at? Go back. I'm sorry, children are watching.
 
 > Even today the border surrounding the Black Stone is shaped like the vulva,
 
@@ -947,11 +932,7 @@ Reading from a book on the black Jews, named on air as "Black Jews" ("religious 
 
 > Were there black slaves who were Jewish through religion, who maintained the faith of their ancestors after they had been forcibly transported to America?
 
-- Watch this.
-
 > Only through an analysis of the mythology of the Jewish African origins of the black Hebrews will this become clear.
-
-- Watch this.
 
 > The following are the major sources that need to be considered in such an analysis.
 
@@ -959,7 +940,7 @@ Reading from a book on the black Jews, named on air as "Black Jews" ("religious 
 
 > A. Witnesses: tales of the explorers who mention the existence of communities of black Jews on the African continent, and particularly in the areas where the slave ships picked up the black slaves.
 
-- Read it again, please. Witnesses: their tales, of the explorers who mention the existence of the communities of the black Jews on the African continent. And so these black Jews were found particularly in areas where what? Where the slave ships picked up the black slaves. So the areas where ships were docked to bring us over here were the same areas where black Jews were found. Damn. That's not in the Quran. That's not in the Talmud. That's not in the Catholic catechism. It's not in there. Not in the Kabbalah. It's not in there. There's no Shabazz here. There's no we're-all-sons-of-God here. It's not there. That's right.
+- Witnesses: their tales, of the explorers who mention the existence of the communities of the black Jews on the African continent. And so these black Jews were found particularly in areas where what? Where the slave ships picked up the black slaves. So the areas where ships were docked to bring us over here were the same areas where black Jews were found. Damn. That's not in the Quran. That's not in the Talmud. That's not in the Catholic catechism. It's not in there. Not in the Kabbalah. It's not in there. There's no Shabazz here. There's no we're-all-sons-of-God here. It's not there. That's right.
 
 > B. Rites and customs which have more or less explicit analogies with those of Judaism.
 
@@ -975,7 +956,7 @@ Reading from a book on the black Jews, named on air as "Black Jews" ("religious 
 
 - Here for you stupid ass Negroes that say, oh, we no ships. Y'all piss me off more than the white folks do. Your ignorance angers me, because you are ashamed of your history. You're ashamed of it. Oh, we were always in America. You were always stupid in America. That's you. You always stupid here. And you and your stupid dumbass … portals. You came over here on the Magic … School Bus. You just arrived here out of nowhere. There was no ships. Where the ships at? Now y'all are really stupid to me.
 
-- Let's just go. I'm trying not to use the vulgarities, but y'all, that ignorance to that scale bothers me. I understand, you know, brothers going to be deep, I get it. But to insult our ancestors like that offends me. It's really stupid, it's really ignorant. You doing yourself and your mothers and fathers, who were brought over here enslaved, and toiled in that hot ass sun for hours, a disservice when you spit on them and say they weren't brought through that turmoil on them ships. You're doing yourself a disservice by saying that. You should be ashamed of yourselves. The Lord's will, in time, I'm going to sidebar and pull out all of the evidence of people who were on the ships, and their experience on the ships, so y'all can just stop this nonsense talk that you're talking. Read that.
+- Let's just go. I'm trying not to use the vulgarities, but y'all, that ignorance to that scale bothers me. I understand, you know, brothers going to be deep, I get it. But to insult our ancestors like that offends me. It's really stupid, it's really ignorant. You doing yourself and your mothers and fathers, who were brought over here enslaved, and toiled in that hot ass sun for hours, a disservice when you spit on them and say they weren't brought through that turmoil on them ships. You're doing yourself a disservice by saying that. You should be ashamed of yourselves. The Lord's will, in time, I'm going to sidebar and pull out all of the evidence of people who were on the ships, and their experience on the ships, so y'all can just stop this nonsense talk that you're talking.
 
 > It is well known that 1,500 years before Islam, Judaism was present in Africa.
 
@@ -983,11 +964,9 @@ Reading from a book on the black Jews, named on air as "Black Jews" ("religious 
 
 > Travelers' tales and the stories of journeys across North Africa, the Sahara and the Sudan provide considerable evidence of the existence of Jewish communities on the African continent.
 
-- Come on.
-
 > We know that from the time of St. Jerome, 340 to 420, a chain of Jewish commercial towns stretched almost uninterrupted from Mauritania to India.
 
-- From Mauritania to India. There was Jewish towns all throughout there, and today they have them as slaves. In Mauritania, the people over there today who are slaves, in low conditions, they're referred to as Haratin. H-A-R-A-T-I-N. They're called Haratin, and they're in the worst... they're in the ghettos over there, as we are over here, under the Arabs. Read.
+- From Mauritania to India. There was Jewish towns all throughout there, and today they have them as slaves. In Mauritania, the people over there today who are slaves, in low conditions, they're referred to as Haratin. H-A-R-A-T-I-N. They're called Haratin, and they're in the worst... they're in the ghettos over there, as we are over here, under the Arabs.
 
 > These groups went as far as the southern Sahara, and according to the chronicles of the Sudan, the dynasty of the kings of Ghana originated in this group.
 
@@ -998,8 +977,6 @@ Reading from a book on the black Jews, named on air as "Black Jews" ("religious 
 - The reason why you had Arab geographers is because they were running around doing slave raids. Before you capture and stalk your prey, you got to study where they're at first. Know where they live, know how they stationed. Then you go in and you raid, and take over the land, and depopulate the area through your slave raids, which they refer to as jihad. I'll deal with that later on. Some of you know what jihad means: holy war. Jihads were pretty much religiously sanctioned slave raids of Arabs. That's what they started off as. Jihads were religious slave raids. We'll deal with that later. I don't have time today, but we'll get there.
 
 > who stated that the routes of the trans-Saharan trade, in which Jewish caravans and interpreters were involved, culminated in Ghana
-
-- Come on.
 
 > and in the lower valley of the Senegal River. In the 12th century, the Andalusian geographer cited the Hebrew colony of Lamlam,
 
@@ -1015,7 +992,7 @@ Reading from a book on the black Jews, named on air as "Black Jews" ("religious 
 
 > But what about the south of this margin of Saharan contacts? In the reign of John II of Portugal, nearly 700 Jews were taken from their kin and deported to the island of São Tomé.
 
-- During the Spanish Inquisition, the Spanish and Portuguese deported us out of their lands, and they brought us to an island called São Tomé, or St. Thomas Island. They called it the island of hell. That's what it was called. They took our children from there, and it became a plantation island, and white folks could not live there. It was so hot, white folks couldn't live past 50 years old there, because it was too hot. So you … just stay over there, and we'll come over here and pick up the cotton from you. That's it. Read that.
+- During the Spanish Inquisition, the Spanish and Portuguese deported us out of their lands, and they brought us to an island called São Tomé, or St. Thomas Island. They called it the island of hell. That's what it was called. They took our children from there, and it became a plantation island, and white folks could not live there. It was so hot, white folks couldn't live past 50 years old there, because it was too hot. So you … just stay over there, and we'll come over here and pick up the cotton from you. That's it.
 
 > This island is close to Nigeria, Cameroon and Gabon. Escaping from São Tomé, the Jews immigrated to the coast of Angola between 1484 and 1499.
 
@@ -1031,11 +1008,11 @@ Reading from a book on the black Jews, named on air as "Black Jews" ("religious 
 
 > discovered a group of educated blacks living in the interior, some 200 miles from the coast.
 
-- So this guy, in 1847, during this year he's doing his studies. Where are we? We're in slavery during this time. So he's in Africa doing his research. He's exploring, men like him and Mungo Park. Okay, read on.
+- So this guy, in 1847, during this year he's doing his studies. Where are we? We're in slavery during this time. So he's in Africa doing his research. He's exploring, men like him and Mungo Park.
 
 > These blacks were called the Jews of Angola. They were good merchants,
 
-- Because remember, it says that we fled into Angola from St. Thomas Island around 1484 and 1499. He arrives about 300 plus years later, and he visits the same blacks. Watch this.
+- Because remember, it says that we fled into Angola from St. Thomas Island around 1484 and 1499. He arrives about 300 plus years later, and he visits the same blacks.
 
 > they were good merchants, learned easily, and had a knowledge of Portuguese law
 
@@ -1055,7 +1032,7 @@ Reading from a book on the black Jews, named on air as "Black Jews" ("religious 
 
 > Closer to our time, Dr. J. … noted sometime after the First World War that a large community of black Jews existed in the interior of Dahomey, West Africa. These Jews had the five books of Moses written on an old parchment in Hebrew. All these disparate elements or evidence of the permanent presence of a Jewish tradition within African ethnic groups, which had at one time been in contact with the Jews
 
-- Now he's going to throw it off now. No, no, they weren't in contact with them. They were them. Right. He starts off saying we are them, then he goes, oh, they were in contact, to try to throw you off, like there's something different. No, no, they didn't come in contact with nothing. They were them.
+- Now he's going to throw it off now. No, no, they weren't in contact with them. They were them. He starts off saying we are them, then he goes, oh, they were in contact, to try to throw you off, like there's something different. No, no, they didn't come in contact with nothing. They were them.
 
 > who came from the Mediterranean, were converted, and had kept their faith and their way of life.
 
@@ -1065,9 +1042,9 @@ Reading from a book on the black Jews, named on air as "Black Jews" ("religious 
 
 ## In Closing
 
-*[[2:03:18](https://www.youtube.com/watch?v=1PjTWJ0FRuM&t=7398s)]* So now, what time is it? Yeah, so I'm going to wrap it up with that. Lord's will, we're going to revisit some more information. Hope you guys enjoyed the class, the lesson. We'll see you, Lord's will, not this next week, but two weeks. We're traveling. So, Lord's will, we'll see y'all in two weeks. I have some more good stuff for y'all. So just, you know, watch the class, digest it, take your time. I don't think I went too deep. So just take your time, watch the class again, and I hope you guys got some understanding. Try to share with your family, your friends. Let them watch it as well, let them be edified as well, to learn these things. And all praise to the Most High. Thank you. Shalom.
+*[[2:03:18](https://www.youtube.com/watch?v=1PjTWJ0FRuM&t=7398s)]* So now, what time is it? Yeah, so I'm going to wrap it up with that. Lord's will, we're going to revisit some more information. Hope you guys enjoyed the class, the lesson. We'll see you, Lord's will, not this next week, but two weeks. We're traveling. So, Lord's will, we'll see y'all in two weeks. I have some more good stuff for y'all. So just, you know, watch the class, digest it, take your time. I don't think I went too deep. So just take your time, watch the class again, and I hope you guys got some understanding. Try to share with your family, your friends. Let them watch it as well, let them be edified as well, to learn these things. And all praise to the Most High. Shalom.
 
-*[[2:04:01](https://www.youtube.com/watch?v=1PjTWJ0FRuM&t=7441s)]* **Officer:** All right, Israel, let's give a hand for the Deacon. All praise to the Most High. Great class. Fire.
+*[[2:04:01](https://www.youtube.com/watch?v=1PjTWJ0FRuM&t=7441s)]* **Officer:** All right, Israel, let's give a hand for the Deacon. Great class. Fire.
 
 *[[2:05:56](https://www.youtube.com/watch?v=1PjTWJ0FRuM&t=7556s)]* **Officer:** You can turn on the camera; you can probably put a face to the name. Officer Manuel, he's on the show. Give it up for Officer Manuel. All praises to the Lord. You know, if anything does go wrong now, you know who it was.
 
@@ -1077,7 +1054,7 @@ Reading from a book on the black Jews, named on air as "Black Jews" ("religious 
 
 **Deacon Eythan:** Well, congratulations, because your reading was special last week. It had to be addressed, early and later.
 
-**Officer:** Wow. I apologize. Not really. But anyway, I pray for you, pray for me.
+**Officer:** I apologize. Not really. But anyway, I pray for you, pray for me.
 
 **Officer:** All right, well, hope you enjoyed the show. Until then, we'll see you in two weeks.
 

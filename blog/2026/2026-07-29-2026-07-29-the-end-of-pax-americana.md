@@ -2,7 +2,7 @@
 title: "The End Of PAX Americana"
 slug: "2026/2026-07-29-the-end-of-pax-americana"
 date: "2026-07-29"
-teacher: ""
+teacher: "Deacon Malachiyah"
 description: "IUIC in the ClassRoom · 2026-07-29"
 tags: ["IUIC in the ClassRoom", "america-babylon", "deceit", "europe-dark-ages", "greece", "prophecy", "war"]
 ---
@@ -36,15 +36,19 @@ Tonight's topic is the end of PAX Americana. Some of you all might be hearing th
 **[Ecclesiasticus 43:6-8](/bible/sirach/43#v6)**  *[[13:29](https://www.youtube.com/watch?v=stGojnrSmJA&t=809s)]*
 
 > <sup>[6](/bible/sirach/43#v6)</sup> He made the moon also to serve in her season for a declaration of times, and a sign of the world.
->
-> <sup>[7](/bible/sirach/43#v7)</sup> From the moon is the sign of feasts, a light that decreaseth in her perfection.
->
-> <sup>[8](/bible/sirach/43#v8)</sup> The month is called after her name, increasing wonderfully in her changing, being an instrument of the armies above, shining in the firmament of heaven;
 
 - He made the moon also to serve in her season: the moon lets us know seasons, for a declaration of times; that is how we can tell time, by the moon.
+
+> <sup>[7](/bible/sirach/43#v7)</sup> From the moon is the sign of feasts, a light that decreaseth in her perfection.
+
 - From the moon is the sign of feasts: this is how you know when the feast days come, by the moon, because we have some feasts that are seasonal.
+
 - A light that decreaseth in her perfection: when God created the moon, it was a light. When it is perfect is when it is a light, when it is new; after it is new, then it decreases. Tonight when you look up in the sky and see a bright light, that is the new moon.
+
 - Esau got things backwards: they say the new moon is when it is dark, and we used to celebrate it like that at one point in time. No. This is the right way, and this is the way everybody on the earth is going to celebrate it when Christ returns, whether you all believe what we say or not. That next couple years could be 10, 15, 20; you don't know.
+
+> <sup>[8](/bible/sirach/43#v8)</sup> The month is called after her name, increasing wonderfully in her changing, being an instrument of the armies above, shining in the firmament of heaven;
+
 - The month is called after her name: the word month derives from the word moon. Increasing wonderfully in her changing: after it decreases, it increases. Being an instrument of the armies above, shining in the firmament of heaven.
 
 **[Isaiah 29:11](/bible/isaiah/29#v11)**  *[[21:29](https://www.youtube.com/watch?v=stGojnrSmJA&t=1289s)]*
@@ -67,15 +71,18 @@ Tonight's topic is the end of PAX Americana. Some of you all might be hearing th
 
 **[1 Corinthians 2:9-11](/bible/1-corinthians/2#v9)**  *[[24:33](https://www.youtube.com/watch?v=stGojnrSmJA&t=1473s)]*
 
+- Once you can understand this Bible, that makes you a prophet. But how are you able to understand it?
+
+- But God hath revealed them unto us by his Spirit. At that time "us" was the apostles and the believers in Christ: the visions of Jeremiah, of Isaiah, of Daniel were revealed to our forefathers back in that time, the same way they are revealed to us today.
+
 > <sup>[9](/bible/1-corinthians/2#v9)</sup> But as it is written, Eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love him.
 >
 > <sup>[10](/bible/1-corinthians/2#v10)</sup> But God hath revealed them unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God.
->
+
+- For the Spirit searcheth all things, yea, the deep things of God: those deep things, those parables, those dark sentences, the spirit searches out and shows to us.
+
 > <sup>[11](/bible/1-corinthians/2#v11)</sup> For what man knoweth the things of a man, save the spirit of man which is in him? even so the things of God knoweth no man, but the Spirit of God.
 
-- Once you can understand this Bible, that makes you a prophet. But how are you able to understand it?
-- But God hath revealed them unto us by his Spirit. At that time "us" was the apostles and the believers in Christ: the visions of Jeremiah, of Isaiah, of Daniel were revealed to our forefathers back in that time, the same way they are revealed to us today.
-- For the Spirit searcheth all things, yea, the deep things of God: those deep things, those parables, those dark sentences, the spirit searches out and shows to us.
 - The things of God knoweth no man, but the Spirit of God: the Spirit of God understands the things of God and reveals them to us; God's plan for the future, what is going to happen on this earth. The prophets wrote what is going to happen in these last days, and the things you see taking place on this earth, the prophets wrote about. Only the sons of God, the Israelites, can understand these visions, because we have the Spirit of God dwelling in us.
 
 <div class="reading">
@@ -180,54 +187,70 @@ Videos played in class:
 
 **[Revelation 17:1-7](/bible/revelation/17#v1)**  *[[45:51](https://www.youtube.com/watch?v=stGojnrSmJA&t=2751s)]*
 
+- Now I am going to show you all American peace, Pax Americana, in the scripture. The judgment of the great whore: that great … is America.
+
 > <sup>[1](/bible/revelation/17#v1)</sup> And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters:
->
+
+- That sitteth upon many waters: meaning rules many nations. With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication: that wine of fornication is also going into falsehood, lies, oppression.
+
 > <sup>[2](/bible/revelation/17#v2)</sup> With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication.
 >
 > <sup>[3](/bible/revelation/17#v3)</sup> So he carried me away in the spirit into the wilderness: and I saw a woman sit upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns.
->
+
+- A woman sit upon a scarlet coloured beast: the woman sitting upon the scarlet coloured beast is America; the scarlet coloured beast is Europe, the European Union, NATO.
+
+- Full of names of blasphemy: they call themselves Jews, they call themselves Christians, they call themselves the people of God. It is blasphemy to say you are a Jew and you are not a Jew.
+
+- Having seven heads and ten horns: this is the same seven heads and ten horns in Daniel.
+
 > <sup>[4](/bible/revelation/17#v4)</sup> And the woman was arrayed in purple and scarlet colour, and decked with gold and precious stones and pearls, having a golden cup in her hand full of abominations and filthiness of her fornication:
->
+
+- Arrayed in purple and scarlet colour, and decked with gold and precious stones and pearls: meaning this country is rich. Having a golden cup in her hand full of abominations and filthiness of her fornication.
+
+- Upon her forehead a name written, MYSTERY, BABYLON THE GREAT: this is not ancient Babylon; it says mystery because a lot of you all don't understand that this place is spiritual Babylon, the mother of harlots and abominations of the earth.
+
+- I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus. Wherefore didst thou marvel? I will tell thee the mystery of the woman, and of the beast that carrieth her.
+
 > <sup>[5](/bible/revelation/17#v5)</sup> And upon her forehead was a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH.
 >
 > <sup>[6](/bible/revelation/17#v6)</sup> And I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus: and when I saw her, I wondered with great admiration.
 >
 > <sup>[7](/bible/revelation/17#v7)</sup> And the angel said unto me, Wherefore didst thou marvel? I will tell thee the mystery of the woman, and of the beast that carrieth her, which hath the seven heads and ten horns.
 
-- Now I am going to show you all American peace, Pax Americana, in the scripture. The judgment of the great whore: that great … is America.
-- That sitteth upon many waters: meaning rules many nations. With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication: that wine of fornication is also going into falsehood, lies, oppression.
-- A woman sit upon a scarlet coloured beast: the woman sitting upon the scarlet coloured beast is America; the scarlet coloured beast is Europe, the European Union, NATO.
-- Full of names of blasphemy: they call themselves Jews, they call themselves Christians, they call themselves the people of God. It is blasphemy to say you are a Jew and you are not a Jew.
-- Having seven heads and ten horns: this is the same seven heads and ten horns in Daniel.
-- Arrayed in purple and scarlet colour, and decked with gold and precious stones and pearls: meaning this country is rich. Having a golden cup in her hand full of abominations and filthiness of her fornication.
-- Upon her forehead a name written, MYSTERY, BABYLON THE GREAT: this is not ancient Babylon; it says mystery because a lot of you all don't understand that this place is spiritual Babylon, the mother of harlots and abominations of the earth.
-- I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus. Wherefore didst thou marvel? I will tell thee the mystery of the woman, and of the beast that carrieth her.
-
 **[Revelation 17:11-17](/bible/revelation/17#v11)**  *[[50:12](https://www.youtube.com/watch?v=stGojnrSmJA&t=3012s)]*
 
 > <sup>[11](/bible/revelation/17#v11)</sup> And the beast that was, and is not, even he is the eighth, and is of the seven, and goeth into perdition.
->
+
+- The beast that was, and is not, even he is the eighth: Bishop went over this Saturday. The eighth is that harlot we read about, mystery Babylon.
+
+- And is of the seven: the seven is Britain. America came from Britain; they fought Britain for their independence. And goeth into perdition, meaning destruction: she will be destroyed.
+
+- The ten horns are ten kings: going into the European Union. Today it is twenty-something, thirty-something nations, but in the beginning it was ten. Which have received no kingdom as yet: because the European Union was not set up as yet.
+
 > <sup>[12](/bible/revelation/17#v12)</sup> And the ten horns which thou sawest are ten kings, which have received no kingdom as yet; but receive power as kings one hour with the beast.
->
+
+- But receive power as kings one hour with the beast: they receive power for a time with America. That time began after World War II.
+
 > <sup>[13](/bible/revelation/17#v13)</sup> These have one mind, and shall give their power and strength unto the beast.
->
+
+- These have one mind, and shall give their power and strength unto the beast: they gave their military strength and their economic strength to America. They formed the NATO alliance, they formed the UN, they formed the IMF, the International Monetary Fund. All these institutions ruling the earth today came about in 1945, Europe and America. This is when the American peace began after World War II: they said we need to set up a form of peace, so they set up these institutions, and those institutions were set up to oppress the poor and for America and Europe to retain control over the world. When Europe gave their power to America, that was the beginning of Pax Americana.
+
 > <sup>[14](/bible/revelation/17#v14)</sup> These shall make war with the Lamb, and the Lamb shall overcome them: for he is Lord of lords, and King of kings: and they that are with him are called, and chosen, and faithful.
->
+
+- These shall make war with the Lamb: when Christ returns, Europe and America will fight against Christ; Christ is the Lamb. And the Lamb shall overcome them: Christ is going to destroy America and Europe, for he is Lord of lords and King of kings. They that are with him are called, and chosen, and faithful: that is the 144,000.
+
+- The waters which thou sawest are peoples, and multitudes, and nations, and tongues: this is proving that America and Europe are ruling over all nations.
+
+- The ten horns shall hate the whore: the ten horns that were carrying her are going to end up hating her. This is what you see taking place today. They gave their power unto America for a time, over 70 years, and that time is up. Trump came into office and started disrespecting Europe; there was free trade between Europe and America, and now he says you all have to start paying tariffs, you have been using us for 70 years. Right now there is a rift between the whore and the ten horns, and that is all by design.
+
 > <sup>[15](/bible/revelation/17#v15)</sup> And he saith unto me, The waters which thou sawest, where the whore sitteth, are peoples, and multitudes, and nations, and tongues.
 >
 > <sup>[16](/bible/revelation/17#v16)</sup> And the ten horns which thou sawest upon the beast, these shall hate the whore, and shall make her desolate and naked, and shall eat her flesh, and burn her with fire.
->
+
+- And shall make her desolate, and naked, and shall eat her flesh, and burn her with fire: America will be destroyed with nuclear bombs. NATO, along with Russia, Iran, all of them, are going to play a big role in destroying Babylon.
+
 > <sup>[17](/bible/revelation/17#v17)</sup> For God hath put in their hearts to fulfil his will, and to agree, and give their kingdom unto the beast, until the words of God shall be fulfilled.
 
-- The beast that was, and is not, even he is the eighth: Bishop went over this Saturday. The eighth is that harlot we read about, mystery Babylon.
-- And is of the seven: the seven is Britain. America came from Britain; they fought Britain for their independence. And goeth into perdition, meaning destruction: she will be destroyed.
-- The ten horns are ten kings: going into the European Union. Today it is twenty-something, thirty-something nations, but in the beginning it was ten. Which have received no kingdom as yet: because the European Union was not set up as yet.
-- But receive power as kings one hour with the beast: they receive power for a time with America. That time began after World War II.
-- These have one mind, and shall give their power and strength unto the beast: they gave their military strength and their economic strength to America. They formed the NATO alliance, they formed the UN, they formed the IMF, the International Monetary Fund. All these institutions ruling the earth today came about in 1945, Europe and America. This is when the American peace began after World War II: they said we need to set up a form of peace, so they set up these institutions, and those institutions were set up to oppress the poor and for America and Europe to retain control over the world. When Europe gave their power to America, that was the beginning of Pax Americana.
-- These shall make war with the Lamb: when Christ returns, Europe and America will fight against Christ; Christ is the Lamb. And the Lamb shall overcome them: Christ is going to destroy America and Europe, for he is Lord of lords and King of kings. They that are with him are called, and chosen, and faithful: that is the 144,000.
-- The waters which thou sawest are peoples, and multitudes, and nations, and tongues: this is proving that America and Europe are ruling over all nations.
-- The ten horns shall hate the whore: the ten horns that were carrying her are going to end up hating her. This is what you see taking place today. They gave their power unto America for a time, over 70 years, and that time is up. Trump came into office and started disrespecting Europe; there was free trade between Europe and America, and now he says you all have to start paying tariffs, you have been using us for 70 years. Right now there is a rift between the whore and the ten horns, and that is all by design.
-- And shall make her desolate, and naked, and shall eat her flesh, and burn her with fire: America will be destroyed with nuclear bombs. NATO, along with Russia, Iran, all of them, are going to play a big role in destroying Babylon.
 - For God hath put in their hearts to fulfil his will: God put it in the Europeans' heart. What Europe and America are doing, they are fulfilling God's will. When they formed the NATO alliance and the European Union, they were fulfilling prophecy. For 70 years they agreed and gave their kingdom unto the beast, until the words of God shall be fulfilled. That is what you see right now: that separation, that division taking place. The word of God that has to be fulfilled is that they are going to hate the whore and burn her with fire.
 
 **[Leviticus 21:9](/bible/leviticus/21#v9)**  *[[1:00:48](https://www.youtube.com/watch?v=stGojnrSmJA&t=3648s)]*
@@ -271,42 +294,53 @@ Video played in class, on Sir John Glubb's study of empires:
 **[Daniel 8:23-25](/bible/daniel/8#v23)**  *[[1:12:49](https://www.youtube.com/watch?v=stGojnrSmJA&t=4369s)]*
 
 > <sup>[23](/bible/daniel/8#v23)</sup> And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up.
->
-> <sup>[24](/bible/daniel/8#v24)</sup> And his power shall be mighty, but not by his own power: and he shall destroy wonderfully, and shall prosper, and practise, and shall destroy the mighty and the holy people.
->
-> <sup>[25](/bible/daniel/8#v25)</sup> And through his policy also he shall cause craft to prosper in his hand; and he shall magnify himself in his heart, and by peace shall destroy many: he shall also stand up against the Prince of princes; but he shall be broken without hand.
 
 - And in the latter time of their kingdom: the last days, the time we are living in right now.
+
 - A king of fierce countenance, and understanding dark sentences, shall stand up: when you go into the history, this goes into Antiochus. But this scripture is twofold; it is not just talking about Antiochus, and I am going to show you all that.
+
+> <sup>[24](/bible/daniel/8#v24)</sup> And his power shall be mighty, but not by his own power: and he shall destroy wonderfully, and shall prosper, and practise, and shall destroy the mighty and the holy people.
+
 - And his power shall be mighty, but not by his own power: that king is talking about that system; it is talking about America. Their power is going into their technology; how did they get that power? We answer that in Revelation 13.
+
 - And he shall destroy wonderfully, and shall prosper, and practise, and shall destroy the mighty and the holy people: we know Antiochus did that in the past, and America did the same thing to the holy people. America enslaved us, destroyed the North American Indians, destroyed us over here on this side of the world. And it is not just what they did to us, but what they are going to do.
+
+> <sup>[25](/bible/daniel/8#v25)</sup> And through his policy also he shall cause craft to prosper in his hand; and he shall magnify himself in his heart, and by peace shall destroy many: he shall also stand up against the Prince of princes; but he shall be broken without hand.
+
 - And through his policy also he shall cause craft to prosper in his hand: so I'm going to show you all the policy and the crafts, what Antio did, and I'm going to show you all the same thing America have done.
+
 - And by peace shall destroy many: remember what we are going over. Pax means peace; Pax Americana, American peace. Through peace he shall destroy many. To understand that we have to go to the history in 1 Maccabees.
+
 - He shall also stand up against the prince of princes: did Antiochus stand up against the Prince of princes? Antiochus did not fight against Christ, so this is letting you know it is twofold: the same thing is going to be done again in these last days. It is the same thing we just read in Revelation 17: they going to make war with the Lamb, and the Lamb shall overcome them.
+
 - But he shall be broken without hands: that goes back into Daniel, where he saw the statue and the feet broken by a stone cut without hands.
 
 **[Acts 5:30-31](/bible/acts/5#v30)**  *[[1:16:12](https://www.youtube.com/watch?v=stGojnrSmJA&t=4572s)]*
 
 > <sup>[30](/bible/acts/5#v30)</sup> The God of our fathers raised up Jesus, whom ye slew and hanged on a tree.
->
-> <sup>[31](/bible/acts/5#v31)</sup> Him hath God exalted with his right hand to be a Prince and a Saviour, for to give repentance to Israel, and forgiveness of sins.
 
 - The God of our fathers raised up Jesus, whom ye slew and hanged on a tree: the Romans killed him.
+
 - Him hath God exalted with his right hand to be a Prince and a Saviour, for to give repentance to Israel. So who is the Prince of princes that he is going to stand up against? Christ is that prince.
+
+> <sup>[31](/bible/acts/5#v31)</sup> Him hath God exalted with his right hand to be a Prince and a Saviour, for to give repentance to Israel, and forgiveness of sins.
 
 **[Revelation 13:1-4](/bible/revelation/13#v1)**  *[[1:18:22](https://www.youtube.com/watch?v=stGojnrSmJA&t=4702s)]*
 
 > <sup>[1](/bible/revelation/13#v1)</sup> And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
->
+
+- A beast rise up out of the sea, having seven heads and ten horns: the same seven heads and ten horns we read in Revelation 17. Upon his heads the name of blasphemy: this is the fourth beast, going into Europe, the European Union.
+
 > <sup>[2](/bible/revelation/13#v2)</sup> And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority.
 >
 > <sup>[3](/bible/revelation/13#v3)</sup> And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast.
->
+
+- I saw one of his heads as it were wounded to death: that was Rome; Rome fell. And his deadly wound was healed: Rome came back as America in 1776.
+
+- And all the world wondered after the beast.
+
 > <sup>[4](/bible/revelation/13#v4)</sup> And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who is like unto the beast? who is able to make war with him?
 
-- A beast rise up out of the sea, having seven heads and ten horns: the same seven heads and ten horns we read in Revelation 17. Upon his heads the name of blasphemy: this is the fourth beast, going into Europe, the European Union.
-- I saw one of his heads as it were wounded to death: that was Rome; Rome fell. And his deadly wound was healed: Rome came back as America in 1776.
-- And all the world wondered after the beast.
 - And they worshipped the dragon which gave power unto the beast: who is the dragon that gave power unto the beast? Satan. So when you worship the beast's god, who are you worshiping? Do not think he just has all this power because he is so smart. He was able to come up with all these technologies and advances because Satan gave him that power. That is Daniel 8: his power shall be mighty, but not by his own power.
 
 **[Daniel 7:25](/bible/daniel/7#v25)**  *[[1:21:20](https://www.youtube.com/watch?v=stGojnrSmJA&t=4880s)]*
@@ -407,19 +441,26 @@ Videos played in class, on how the peace was enforced:
 
 **[Daniel 8:23-25](/bible/daniel/8#v23)**  *[[2:03:16](https://www.youtube.com/watch?v=stGojnrSmJA&t=7396s)]*  (closing reading)
 
+- A king of fierce countenance shall stand up: that is Antiochus, and it is America. It is twofold.
+
 > <sup>[23](/bible/daniel/8#v23)</sup> And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up.
 >
 > <sup>[24](/bible/daniel/8#v24)</sup> And his power shall be mighty, but not by his own power: and he shall destroy wonderfully, and shall prosper, and practise, and shall destroy the mighty and the holy people.
->
+
+- And he shall destroy wonderfully, and shall prosper and practise: all the evil this man is doing, he is going to prosper in it and keep practicing it. You see how he is destroying wonderfully, bombing all over the place.
+
+- And shall destroy the mighty and the holy people: the twelve tribes of Israel.
+
 > <sup>[25](/bible/daniel/8#v25)</sup> And through his policy also he shall cause craft to prosper in his hand; and he shall magnify himself in his heart, and by peace shall destroy many: he shall also stand up against the Prince of princes; but he shall be broken without hand.
 
-- A king of fierce countenance shall stand up: that is Antiochus, and it is America. It is twofold.
-- And he shall destroy wonderfully, and shall prosper and practise: all the evil this man is doing, he is going to prosper in it and keep practicing it. You see how he is destroying wonderfully, bombing all over the place.
-- And shall destroy the mighty and the holy people: the twelve tribes of Israel.
 - And through his policy also he shall cause craft to prosper in his hand: the craft is the deceit and the lies. The deceit goes into the IMF, into his religion, into his trade and economics; all of that prospered in his hand. He is taking from nations, setting tariffs on nations, telling you how much your money is worth, sending the CIA into your country; he is prospering in these things.
+
 - And he shall magnify himself in his heart: the same way Antiochus set himself up as God. Let me tell you all something: there is a new Christianity 2.0 coming with these white Christian nationalists. You are going to see what is going to happen.
+
 - And by peace shall destroy many: the same way Antiochus said, let us all be one people, America came with democracy after World War II, after 80 million people were killed, and said, let us have peace now, and pushed democracy, which is western values, on everybody on the earth: set up your government the same way we set up our government. And establishing that Pax Americana, a lot of countries were destroyed, a lot of leaders were destroyed, a lot of countries overthrown by the CIA and by war: Iraq, Afghanistan, North Korea, where people are still being born with deformities because of the chemicals dropped on the population.
+
 - There will be another form of peace that they will try to set up, which goes into the Abraham Accords, that one religion and that one world order. And they are going to persecute those of us that do not follow it, the same way.
+
 - He shall also stand up against the Prince of princes: America and Europe will stand up against Christ; Christ is the Prince of princes. But he shall be broken.
 
 ## In Closing

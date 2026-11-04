@@ -18,11 +18,7 @@ tags: ["Our Hidden History", "edom-esau", "egypt", "islam-arabs"]
 
 ## Introduction
 
-*[[16:22](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=982s)]* Blitz successful. Mission out there, all praise to the Most High for that. You are now tuned in to Our Hidden History radio show. Yeah, man, we're back, man. So it's a long ride back. We made it. So sorry for the delay. Successful mission was accomplished out there. Can we get an applause? Can we get applause? Thank you, thank you, thank you. It's only the work of the Apostles; it's not a big deal. Anyways, all praise to the Most High for that. We managed to have a successful trip out there in Milwaukee. Shout outs to the captains, the ATL captains. There's too many brothers out there. All praises.
-
-*[[17:12](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=1032s)]* Shout out on our wonderful journey in the wilderness. Thank you, brother. Our wonderful wandering in the wilderness. Oh man, I'll leave it at that, I'll be nice. But we managed to go out there and reach the people. People came out the houses. It's not like the city; it's more like the Midwest, whatever, Southwest. So people had to come; you have to kind of fish. People come out their house and start coming to us. So people were very receptive. Of course, once they hear the military marching through there, people come out the house and on their porch.
-
-*[[17:54](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=1074s)]* Definitely left an impression out there, Lord's will. That's right. Those people are thirsty for that. We didn't have too many people bucking up against the word. Not really. We had some nonsense out there, but for the most part I would say it was a mission well done, a mission accomplished, and all praises for that, man. Greatness. You got more blitzes to come, so all praise for that. So let's just keep up the good work, keep doing what we're doing.
+*[[16:22](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=982s)]* You are now tuned in to Our Hidden History radio show.
 
 All right, so let's begin, let's begin, let's begin. We still got our foot on the neck. I'm not going to stop. I'm going to continue to ravage this doctrine of the Ishmaelites, Islam. *[[18:36](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=1116s)]* As I said before, and I say again as a disclaimer: I do not have any hatred of any kind, or any personal beef with the Nation of Islam. Those are my brothers. Those are my brothers and so forth. I love my people, but I despise the ideology that they have decided to adopt, only because of the history behind the people of the ideology. I'm going to attack the man and I'm going to attack the nation behind the ideology. The people I love; they don't know any better, they don't understand. Or if they do know and choose not to know, that's on them. That is on you. But I am going to attack the man, I'm going to attack the ideology, and I'm going to attack the man and the nation he is associated with, *[[19:19](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=1159s)]* because according to the Bible they are our enemies. According to the Bible.
 
@@ -30,7 +26,7 @@ So I'm going to make it clear that this is not a personal hatred that I have tow
 
 ## Readings and Scriptures
 
-*[[19:59](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=1199s)]* So real quick, let's touch on where I want to go. Where do I want to go? See where am I at. We're going to go to the Geographic. Volume four. I don't have it on me; I wish I had it on me. Here we go. It's an old book. Let me see, do we have the year it was published? Oh yeah, we do. 1714. *[[20:41](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=1241s)]* You know where you were, right, black folks? You should have an idea as to where you were when this book was being put together, when it was published. You should have an idea as to where we *[[20:52](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=1252s)]* were on this side of the world during this time. All right, 1714. Now let's go to the next pages I have. It mentions Ishmael burning the Bibles. Go back, go back; it should be in the beginning pages. Go to the one that's circled. Blow it up. It should be underlined. Yes, I underlined it. All praises.
+*[[19:59](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=1199s)]* So real quick, let's touch on where I want to go. Where do I want to go? See where am I at. We're going to go to the Geographic. Volume four. I don't have it on me; I wish I had it on me. Here we go. It's an old book. Let me see, do we have the year it was published? Oh yeah, we do. 1714. *[[20:41](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=1241s)]* You know where you were, right, black folks? You should have an idea as to where you were when this book was being put together, when it was published. You should have an idea as to where we *[[20:52](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=1252s)]* were on this side of the world during this time. All right, 1714. Now let's go to the next pages I have. It mentions Ishmael burning the Bibles. Go back, go back; it should be in the beginning pages. Go to the one that's circled. Blow it up. It should be underlined. Yes, I underlined it.
 
 <div class="reading">
 
@@ -146,11 +142,11 @@ Reading from *The Jew a Negro*, 1910, pages 58 to 60 · read by an officer  *[[2
 
 > who, being barren herself, counseled Abraham to beget his long promised offspring of Hagar, and they both looked to this intercourse to produce the long expected descendancy of Abraham
 
-- Right. Sarah encouraged Abraham to take Hagar, to raise up children for him.
+- Sarah encouraged Abraham to take Hagar, to raise up children for him.
 
 > for an heir. Surely, if Abraham had not been himself Negro,
 
-- Oh gosh. Read it again.
+- Oh gosh.
 
 - **Officer:** Surely, if Abraham had not been himself Negro,
 
@@ -164,11 +160,9 @@ Reading from *The Jew a Negro*, 1910, pages 58 to 60 · read by an officer  *[[2
 
 > The next important intermarital event in the Jewish early epic, of which history speaks, is that of Joseph, although we must not regard these as the solitary instances of such interlock. They serve to establish the proofs of the relationship which existed between the Jews and that nation which we now know to have been Negro, and determine the contention of the author by irrefutable proofs.
 
-- Come on.
-
 > Joseph is regarded by many as the real starting point of Jewish history, and his relation to the *[[32:23](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=1943s)]* Messianic prophecy
 
-- Okay. He was, we know, the most prominent of the sons of Israel, Jacob.
+- He was, we know, the most prominent of the sons of Israel, Jacob.
 
 > Pharaoh, in his endeavor to honor Joseph, gave him
 
@@ -216,13 +210,13 @@ Reading from *The Jew a Negro*, page 60, on Joseph's Egyptian wife · read by an
 
 > as they considered white people in common with the devil,
 
-- Damn. I knew I was in this page. All praises, all praises, *[[34:40](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=2080s)]* all praises. I know. Read that again. Read it again.
+- Damn. I knew I was in this page. All praises, all praises, *[[34:40](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=2080s)]* all praises. I know.
 
 - **Officer:** As they considered white people in common with the devil,
 
 > and thus painted all their symbols of the wicked one
 
-- Damn. Wow. Good page. That's right.
+- Damn. Good page. That's right.
 
 > If Joseph had not been of identical or relative color with the Egyptians,
 
@@ -234,7 +228,7 @@ Reading from *The Jew a Negro*, page 60, on Joseph's Egyptian wife · read by an
 
 > However, even admitting this may not have been the case, the intermarriage established a racial relationship, *[[35:27](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=2127s)]* beginning at that time. Jacob, Israel, publicly recognized the two sons born to Joseph from his Egyptian wedlock, and proclaimed them as his own children, thus to confer on them the right to be known as Israelites.
 
-- Right. Based on the father.
+- Based on the father.
 
 > And now thy two sons, Ephraim and Manasseh, which were born unto thee in the land of Egypt,
 
@@ -266,7 +260,7 @@ Reading from *The Jew a Negro*, page 60, on Joseph's Egyptian wife · read by an
 
 - Talking about Joseph. This happened to us because what we did to Joseph. This is karma, because they're saying, what we did to our brother, bad things happen to us. Now see, I told you guys you shouldn't hurt Joseph.
 
-- So they're saying this to each other in Hebrew, speaking in Hebrew. Watch this.
+- So they're saying this to each other in Hebrew, speaking in Hebrew.
 
 > <sup>[23](/bible/genesis/42#v23)</sup> And they knew not that Joseph understood them; for he spake unto them by an interpreter.
 
@@ -292,7 +286,7 @@ Reading from *The Jew a Negro*, pages 101 and 102, on the old Greeks, Shem and H
 
 > The old Greek amphorae have a remarkable tendency to depict women with white skins, while all the other people are shown as very dark.
 
-- Right. The other men were dark. The ancient Greeks are dark.
+- The other men were dark. The ancient Greeks are dark.
 
 > The author mentions this because the Greeks descended from Japheth, and were Aryans; thus it deduces a further proof that to Shem and Ham was conveyed the burden of jointly producing the black races of the world.
 
@@ -306,7 +300,7 @@ Reading from *The Jew a Negro*, pages 101 and 102, on the old Greeks, Shem and H
 
 - That's all I want. *[[42:46](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=2566s)]* All I want was the black, the Shem: black races of the world. Get page 102.
 
-- Wait, wait, wait, go back to 101 again. Go back to the bottom. Let me see. Homer's characters were tall, chestnut haired, apparently Teutons. That was us too. Teutons is Japheth too. Teutonic.
+- Wait, wait, wait, go back to 101 again. Go back to the bottom. Homer's characters were tall, chestnut haired, apparently Teutons. That was us too. Teutons is Japheth too. Teutonic.
 
 - **Officer:** That was us. Yeah, we brought out books on that.
 
@@ -316,11 +310,11 @@ Reading from *The Jew a Negro*, pages 101 and 102, on the old Greeks, Shem and H
 
 > The modern Greek, by his intermarriage, has become more Jewish in his cast than the ancient Greek was.
 
-- Okay. This is self-evident.
+- This is self-evident.
 
 > The present king of Greece is a Dane.
 
-- Okay. Now, the present king of Greece is a Dane. The Danes are Japheth also. But this is earlier on; this is way before that. We'll see what happens. Go back. I'm going to read that bottom in conjunction; I'm going to try to read it all together.
+- Now, the present king of Greece is a Dane. The Danes are Japheth also. But this is earlier on; this is way before that. We'll see what happens. Go back. I'm going to read that bottom in conjunction; I'm going to try to read it all together.
 
 > The present king of Greece is a Dane. The modern Greeks indicate that they are of Negro blood and Jewish cast.
 
@@ -354,7 +348,7 @@ Reading from *The Jew a Negro*, pages 101 and 102, on the old Greeks, Shem and H
 
 > Dr. Maurice Fishberg
 
-- You know how racist this is? Because it says the aesthetic development: meaning the Negro is not developed, so as he develops he becomes whiter, and he becomes better because he's white. So as you become better looking, you turn white. That's what he's saying. That's what they say. It's 1910, so you know what's going on here. Read on.
+- You know how racist this is? Because it says the aesthetic development: meaning the Negro is not developed, so as he develops he becomes whiter, and he becomes better because he's white. So as you become better looking, you turn white. That's what he's saying. That's what they say. It's 1910, so you know what's going on here.
 
 - Dr. Maurice Fishberg. Now stop. *[[47:59](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=2879s)]* This author here: it's called *The Jew*. Maurice Fishberg. The study of races. A lot of authors reference this guy here, Maurice Fishberg, in regards to anthropological studies on Jews. So a lot of people reference this guy here, Maurice Fishberg. He has a book called *The Jew*. The Bishop uses it all the time on Tuesdays. It's called *The Jew*, by Maurice Fishberg. It's a white book with a brown cover, whatever, and he always goes to page 62 and 63, or 60 and up.
 
@@ -386,7 +380,7 @@ Reading from *The Jew a Negro*, pages 101 and 102, on the old Greeks, Shem and H
 
 > with the unintellectual, slightly animal expression of the Negro.
 
-- Wow. So these people, I tell you. Slightly animal *[[50:14](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=3014s)]* expression. You can't make this stuff up, bro. You can't make it up. They put the truth: they say, yeah, they're Israelites, they were Jews. But then they're not Jews.
+- So these people, I tell you. Slightly animal *[[50:14](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=3014s)]* expression. You can't make this stuff up, bro. You can't make it up. They put the truth: they say, yeah, they're Israelites, they were Jews. But then they're not Jews.
 
 - **Officer:** Yeah. You dumb. Throw them off the trail.
 
@@ -450,7 +444,7 @@ Reading from *The Jew a Negro*, pages 101 and 102, on the old Greeks, Shem and H
 
 - Abortions today.
 
-- All right. Now let's get Jeremiah 2:11. You got that book? Pull up the book with the Negro races, highlighted in blue, page three, page four. You know what I'm talking about?
+- Now let's get Jeremiah 2:11. You got that book? Pull up the book with the Negro races, highlighted in blue, page three, page four. You know what I'm talking about?
 
 - **Officer:** Yes, sir. Yeah. *[[54:55](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=3295s)]* Jeremiah 2:11?
 
@@ -476,7 +470,7 @@ Reading from *The Jew a Negro*, pages 101 and 102, on the old Greeks, Shem and H
 
 - Same thing today with Islam.
 
-*[[56:30](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=3390s)]* Now get me that page. Let me see it. Blow it up. You're passing from, I believe, relations of inferiority. Page two, okay, good. That's good too. I'm trying to find a part. Do you have four? No, no, it's on this page. Oh, okay. Let me get page one real quick. Go up. Wasting too much time. Scroll down, please, slowly.
+*[[56:30](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=3390s)]* Now get me that page. Let me see it. Blow it up. You're passing from, I believe, relations of inferiority. Page two, okay, good. That's good too. I'm trying to find a part. Do you have four? No, no, it's on this page. Let me get page one real quick. Wasting too much time. Scroll down, please, slowly.
 
 *[[57:45](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=3465s)]* That's something right there. This goes to show, man, that these other nations, they know who we are.
 
@@ -498,9 +492,9 @@ Reading from *The Jew a Negro*, pages 101 and 102, on the old Greeks, Shem and H
 
 - But if there be no iniquity in their nation, if there's no sin amongst them, let my lord now pass by. You think they don't know that either? You think they don't know, once they come back together in unity under the Most High God: we finished, we're done, that's it for us? Like Elon Musk said: look, there's another Dark Age coming. Why? Because they see the unity that's coming back amongst us.
 
-- Right. So understand: they must study who they have in captivity. All right. So that's *[[1:00:02](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=3602s)]* what all these history books are about. That's why we find these books like, damn, we didn't know that was in there. This is what they do: they pass it amongst themselves. But all praise the Most High, now we're able to get these books, because we can read now.
+- So understand: they must study who they have in captivity. So that's *[[1:00:02](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=3602s)]* what all these history books are about. That's why we find these books like, damn, we didn't know that was in there. This is what they do: they pass it amongst themselves. But all praise the Most High, now we're able to get these books, because we can read now.
 
-*[[1:00:15](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=3615s)]* What page is this? Okay, go back to page one. Go back to page two again. Watch this. Blow it up. I'm not going to read the whole thing; I don't want to take us off the topic. Go down, go down, go up, go up some. Start from "in these processions", then we're going to skip down to the highlighted blue part.
+*[[1:00:15](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=3615s)]* What page is this? Okay, go back to page one. Go back to page two again. Blow it up. I'm not going to read the whole thing; I don't want to take us off the topic. Go down, go down, go up, go up some. Start from "in these processions", then we're going to skip down to the highlighted blue part.
 
 <div class="reading">
 
@@ -542,7 +536,7 @@ Reading from a book published in 1860 on the Negro races, pages one to three, hi
 
 - Amongst the Hamites that were there already.
 
-- What page is this? Go over. Is there any more highlights on there? Go to page three. Get to the topic. I ain't get to the topic yet. Page three. That's okay; it's the spirit taking us there. Page three. Blow it up. Let me see. Passing from the monumental. No, go down. Right there. Read that.
+- What page is this? Go over. Is there any more highlights on there? Go to page three. Get to the topic. I ain't get to the topic yet. Page three. That's okay; it's the spirit taking us there. Page three. Blow it up. Passing from the monumental. No, go down. Right there.
 
 > I believe, in relations of inferiority to those with whom they are found, and not only of inferiority, but even more distinctly of slavery.
 
@@ -686,7 +680,7 @@ Reading from the 1860 book on the Negro races, continued · read by an officer  
 
 - Serve other ideologies, and not God.
 
-- Now jump down real fast. When I say slavery— Read. When I say— Damn. Read. I'm trying to avoid this page. Read on.
+- Now jump down real fast. When I say slavery— Read. When I say— Damn. I'm trying to avoid this page.
 
 <div class="reading">
 
@@ -698,11 +692,11 @@ Reading from the 1860 book on the Negro races, on the history of the race · rea
 
 > If they ever had a history, all memorial of it has long since perished from the earth.
 
-- Stop. Damn. Stop. Read it again. If they ever had a history. If they ever even had a history.
+- Stop. Damn. Stop. If they ever had a history. If they ever even had a history.
 
 > all memorial of it has long since perished from the earth.
 
-- Deuteronomy 32:26. That history, you know, it's always slavery. Yeah. Now all of a sudden, if they had one. Come on now. Even when we ask them on the street, we say, hey, do you know your history? Their history only goes as far as slavery. Read that, Deuteronomy 32:26.
+- Deuteronomy 32:26. That history, you know, it's always slavery. Yeah. Now all of a sudden, if they had one. Even when we ask them on the street, we say, hey, do you know your history? Their history only goes as far as slavery. Read that, Deuteronomy 32:26.
 
 </div>
 
@@ -712,7 +706,7 @@ Reading from the 1860 book on the Negro races, on the history of the race · rea
 
 - Perish from the earth. Perish from the earth.
 
-- I got a theme song now. Yo, that's Street Fighter. What's wrong with y'all, brothers, man? I'm just playing. That's all right. Oh, where we at? Let's go down, go down. If the whole matter— the Negro race. Let me see. Go down some. Oh, here we go. In the long duration of Negro life. Read that there. Matter of fact, read the insult. Read the wholly destitute. This *[[1:11:06](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=4266s)]* is crazy.
+- I got a theme song now. Yo, that's Street Fighter. What's wrong with y'all, brothers, man? I'm just playing. That's all right. Oh, where we at? Let's go down, go down. If the whole matter— the Negro race. Go down some. Oh, here we go. In the long duration of Negro life. Read that there. Matter of fact, read the insult. Read the wholly destitute. This *[[1:11:06](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=4266s)]* is crazy.
 
 <div class="reading">
 
@@ -728,8 +722,6 @@ Reading from the 1860 book on the Negro races, on the long duration of Negro lif
 
 > and in the long duration of Negro life not one single ray of civilization has appeared to lighten this gloomy past.
 
-- Wow.
-
 > On the other hand, highly imitative,
 
 - Stop. On the other hand, he says these guys are highly imitative. They copy everybody. Follow everybody.
@@ -737,8 +729,6 @@ Reading from the 1860 book on the Negro races, on the long duration of Negro lif
 > they seem capable,
 
 > when brought in contact with superior races,
-
-- Wow.
 
 > of adopting their culture up to a certain point.
 
@@ -750,11 +740,11 @@ Reading from the 1860 book on the Negro races, on the long duration of Negro lif
 
 </div>
 
-*[[1:12:40](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=4360s)]* Damn. All right, what we got? How much *[[1:12:45](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=4365s)]* time we got left? Take a break, take a break, take a break. Been an hour. I went on a rant. I didn't start the class. I didn't even start the topic yet. But the spirit took us somewhere else. You may text us at this time today. Text us only, text only, for today. Text us, text only, for now. We have to have a Zoom call event; we have to start bringing Zoom calls in, so people see people from now on, rather than them hiding on the phone calls. Okay, we'll have a Zoom call; we'll set that up. So for now, text only. Text us with some comments regarding the class and we'll get to it. All right, so we're going to take a break real quick. Be right back with the topic, *[[1:13:32](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=4412s)]* Lord's will. The spirit took us somewhere else where it had to go, but Lord, stay with us. All right. Shalom.
+*[[1:12:40](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=4360s)]* Damn. All right, what we got? How much *[[1:12:45](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=4365s)]* time we got left? Take a break, take a break, take a break. Been an hour. I went on a rant. I didn't start the class. I didn't even start the topic yet. But the spirit took us somewhere else. You may text us at this time today. Text us only, text only, for today. Text us, text only, for now. We have to have a Zoom call event; we have to start bringing Zoom calls in, so people see people from now on, rather than them hiding on the phone calls. Okay, we'll have a Zoom call; we'll set that up. So for now, text only. Text us with some comments regarding the class and we'll get to it. All right, so we're going to take a break real quick. Be right back with the topic, *[[1:13:32](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=4412s)]* Lord's will. The spirit took us somewhere else where it had to go, but Lord, stay with us. Shalom.
 
 *[[1:13:36](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=4416s)]* The break: a prayer, "Oh Father, anoint us with thy holy spirit that we may reach your sons and daughters. Oh Father, remember the covenant that you made with our ancestors. Father, while people are in the midst of famine, please, oh Father, bring them food. Our people that are in the midst of drought, please bring them rain. Father, people that are in the midst of war, bring them safety. Oh Father, let your spirit cover the earth, and bring your sons and daughters in, oh Father, in repentance, and open doors of utterance, oh Father, and bring down judgment and vengeance on our enemies, your enemies, oh Lord, that plot against your sons and daughters, that plot against your word being taught. In Christ's name we praise your name. Amen." Then the Quest 7 reel: "This is Bishop Nathanyel. We're out here in Antigua. We have done six islands in six days: the maximum amount of work in a minimum amount of time. Welcome to Quest 7. I came to make history; I did not come to make friends. The Bible is playing in front of their eyes." "Hey Israel, get your passports. See you at the next Quest." "The twelve tribes of the nation of Israel, which are scattered on the island of St. Martin." "And there ye shall be sold unto your enemies for bondmen and bondwomen." "We don't fear no man. We ain't going to stop. Israel United in Christ. We've been throughout the four corners of the earth, and when I say the four corners of the earth, I mean from the Americas, where we're from, to St. Martin, to Antigua. We are here teaching the so-called Blacks, Hispanics and Native Americans that you are the children of Israel according to the Bible, God's chosen people." "When we were in Haiti, we got footage, we got the documentary. We spoke to Barbecue. Barbecue is not a game. Barbecue is a revolutionary man right now in Haiti; he's fighting European oppression. When the brother spoke to him, he said, can we help you? What can we do? He didn't ask for guns, he didn't ask for money. He asked for help to educate these children. And that's something that everybody in Christ can do and support. We're going to support them with this Bible too, to truly educate them on what their true nationality is, who they are, why they're in these conditions, and how the Bible says they can get out of these conditions." "Your job is bigger than what you imagine, because the Disciples of Christ understood: this truth is more than just about reading the scriptures. This truth is about action. This truth is about doing. Your job, brothers, black man, is to look out after your brothers and sisters that have need. If they have need, you as a leader is to fulfill the need. If they have no food, what is reading a scripture to them going to do? If they have no clothes to wear, what is reading a scripture going to do for them? We have to do those things necessary for them to survive." "I'm Officer Ron from IUIC Jamaica, and we have here Officer Malachi from Portland. We are here with our brothers and sisters from Haiti. They fled here because of the violence. So we are here to show our support, whether it be in food, kind, or to share the gospel as well. So Israel, just continue to pray that the Most High will deliver Israel, twelve tribes worldwide." "Some of you call me the general, and I appreciate that. The gospel hasn't been preached everywhere as yet. There's much work to be done. As we know, the twelve tribes of Israel, like James 1:1 said, were scattered throughout all nations. I need some volunteers. I need some of you mighty men to stand up: you deacons, captains, officers, soldiers, stand up. I need volunteers to go on this mission." "Israel in Christ, from the corners of the countries, gathering the twelve tribes of Israel. We're going to take the world."
 
-*[[1:22:08](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=4928s)]* All right, we're back, we're back, we're back. We're back from the break. We're going to jump right into it, jump right into it. We're going to jump into the dark secrets of Islam. The topic entails— we're going to go to Britannica real quick. Go to the top. Go fast. Britannica: you know I didn't make it up, I didn't type it *[[1:22:27](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=4947s)]* myself. Britannica. Other early gods. Philosophy and religion. Syrian and Palestinian religion: gods, mythology and worldview. Other early gods in Syrian and Palestinian religion. We want to jump down to Chemosh. Go to the top real fast. Wait, wait, wait, go up. Right here: developments of the first millennium BC. Okay, go down. So Chemosh. We're going to start at Chemosh and work our way down.
+*[[1:22:08](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=4928s)]* All right, we're back, we're back, we're back. We're back from the break. We're going to jump right into it, jump right into it. We're going to jump into the dark secrets of Islam. The topic entails— we're going to go to Britannica real quick. Go to the top. Go fast. Britannica: you know I didn't make it up, I didn't type it *[[1:22:27](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=4947s)]* myself. Britannica. Other early gods. Philosophy and religion. Syrian and Palestinian religion: gods, mythology and worldview. Other early gods in Syrian and Palestinian religion. We want to jump down to Chemosh. Go to the top real fast. Right here: developments of the first millennium BC. So Chemosh. We're going to start at Chemosh and work our way down.
 
 <div class="reading">
 
@@ -780,7 +770,7 @@ Reading from Britannica, Syrian and Palestinian religion, other early gods: Chem
 
 - He built the high place for all his wives.
 
-- That's all I want. So now read this here. So this is a god of Moab. Read on.
+- That's all I want. So now read this here. So this is a god of Moab.
 
 <div class="reading">
 
@@ -800,7 +790,7 @@ Reading from Britannica, Syrian and Palestinian religion, continued: Chemosh, Mi
 
 - The Ammonites also had respect to Chemosh as well.
 
-- We got a text? Okay, hold on.
+- We got a text?
 
 > Milcom,
 
@@ -832,7 +822,7 @@ Reading from Wikipedia, "Qos (deity)" · read by an officer  *[[1:26:58](https:/
 
 > The name occurs only twice in the Old Testament
 
-- Go down to Origins and meaning. Right there. Read that. We're going to start at Quzah and the Arabic gods. Type in Quzah and the Arabic gods. Q-U-Z-A-H. No, try to put Arabic gods. Try Arabic gods. Let me see something there; I thought I saw it. Do you see Arabic anywhere? Try Arabic gods; type in pantheon. Who are— right here. Is it Q-U-Z-A-H? Yeah, yeah, yeah. Is it in there? Put Q-U-Z-A-H. That's what I said. Oh, they put a K. *[[1:28:38](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=5318s)]* Okay, okay, okay. All right. Okay, so here we go. Start from the top.
+- Go down to Origins and meaning. Right there. We're going to start at Quzah and the Arabic gods. Type in Quzah and the Arabic gods. Q-U-Z-A-H. No, try to put Arabic gods. Try Arabic gods. Let me see something there; I thought I saw it. Do you see Arabic anywhere? Try Arabic gods; type in pantheon. Who are— right here. Is it Q-U-Z-A-H? Yeah, yeah, yeah. Is it in there? Put Q-U-Z-A-H. That's what I said. Oh, they put a K. *[[1:28:38](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=5318s)]* Okay, okay, okay. Okay, so here we go. Start from the top.
 
 > The word Qaus: the word is never used on its own in the Tanakh;
 
@@ -862,7 +852,7 @@ Reading from Wikipedia, "Qos (deity)", continued · read by an officer  *[[1:29:
 
 > worshipped both as a mountain and a weather god. The similarity of the name would have permitted an assimilation of Qaus to the Arabian god of the rainbow,
 
-- Qaus, Quzah. So so so so. So Qaus, Edomite god, and Ishmael, their gods merged. They worshipped the same god, intertwined, because they were neighbors. Give me the map. Ancient map of Edom. And put Nabataea and Edom. Nabataea: just open another window. N-A-B-A-T-E-*[[1:30:28](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=5428s)]*A. And then put Edom map. Click that first one. We see it: it just showed that they're neighbors. Blow it up. Bring it down. You see the top? You see Moab on top. Arabu: Arabu is Arab tribes. Kingdom of Edom next door. And Nabatu: that's Ishmael. All neighbors. And Ammon should be up top. Ammon's up top. They all shared common gods, different names. All nations have the same god; they have no God. So all their gods are pretty much the same: the devil, with different names. But these two particular, the Arabu or Nabatu, and Edom, are all intermingled. That's where your Turks come from: Edom primarily, and Ishmael, make up your Turks. Brown …. That's pretty much what they are, *[[1:31:24](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=5484s)]* for the most part, your Turks.
+- Qaus, Quzah. So so so so. So Qaus, Edomite god, and Ishmael, their gods merged. They worshipped the same god, intertwined, because they were neighbors. Give me the map. Ancient map of Edom. And put Nabataea and Edom. Nabataea: just open another window. N-A-B-A-T-E-*[[1:30:28](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=5428s)]*A. And then put Edom map. Click that first one. We see it: it just showed that they're neighbors. Blow it up. You see the top? You see Moab on top. Arabu: Arabu is Arab tribes. Kingdom of Edom next door. And Nabatu: that's Ishmael. All neighbors. And Ammon should be up top. Ammon's up top. They all shared common gods, different names. All nations have the same god; they have no God. So all their gods are pretty much the same: the devil, with different names. But these two particular, the Arabu or Nabatu, and Edom, are all intermingled. That's where your Turks come from: Edom primarily, and Ishmael, make up your Turks. Brown …. That's pretty much what they are, *[[1:31:24](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=5484s)]* for the most part, your Turks.
 
 - Now go back. Go back to where we at. It says the archer, right? Right there. Keep reading down there. The worship.
 
@@ -878,7 +868,7 @@ Reading from Wikipedia, "Qos (deity)", continued · read by an officer  *[[1:29:
 
 > early Egyptian records reference a place called Yahweh in the land of Shasu, and the former then overlaid the latter and assumed supremacy there when the Edomites lost their autonomy under Persian rule, perhaps compensating for the destruction of national independence, a mechanism similar to that of the strengthening of Yahweh worship after the fall of the Jewish kingdom.
 
-- Okay. Once Israel fell, they started doing their own thing.
+- Once Israel fell, they started doing their own thing.
 
 > Qaus is described as a king, is associated with light,
 
@@ -926,7 +916,7 @@ Reading from Wikipedia, "Simeon Bekbulatovich" · read by an officer  *[[1:36:40
 
 > Simeon Bekbulatovich was a Russian statesman of Tatar origin, who briefly *[[1:37:03](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=5823s)]* served as the figurehead ruler of Russia from 1575 to 1576.
 
-- What was he? He was a descendant of Genghis Khan. He was a descendant of Genghis Khan. What was Genghis Khan? He was a Moabite, mixed with Edom. Moab. Read it again. What's his name? Where was he born? No. Read the top. Above that. You're skipping it. Oh, there. Read his name again, the top.
+- What was he? He was a descendant of Genghis Khan. He was a descendant of Genghis Khan. What was Genghis Khan? He was a Moabite, mixed with Edom. Moab. What's his name? Where was he born? No. Read the top. Above that. You're skipping it. Oh, there. Read his name again, the top.
 
 > Simeon Bekbulatovich, born
 
@@ -942,7 +932,7 @@ Reading from Wikipedia, "Simeon Bekbulatovich" · read by an officer  *[[1:36:40
 
 - It grieved him exceedingly, because Nehemiah began to rebuild the homes and the walls of Jerusalem, and these nations, or these people of these nations, got angry.
 
-- Yeah. Nehemiah. Now *[[1:39:04](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=5944s)]* this is Sanballat the Horonite. What was he? Some of y'all read that over time. I know who Sanballat is. What nation was he from? Jeremiah 48, verse 1. He was a Horonite. Read that.
+- Yeah. Nehemiah. Now *[[1:39:04](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=5944s)]* this is Sanballat the Horonite. What was he? Some of y'all read that over time. I know who Sanballat is. What nation was he from? Jeremiah 48, verse 1. He was a Horonite.
 
 **[Jeremiah 48:1-3](/bible/jeremiah/48#v1)**  *[[1:39:16](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=5956s)]*
 
@@ -952,13 +942,13 @@ Reading from Wikipedia, "Simeon Bekbulatovich" · read by an officer  *[[1:36:40
 
 > <sup>[2](/bible/jeremiah/48#v2)</sup> There shall be no more praise of Moab: in Heshbon they have devised evil against it; come, and let us cut it off from being a nation. Also thou shalt be cut down, O Madmen; the sword shall pursue thee.
 
-- Come on. It'll be destroyed.
+- It'll be destroyed.
 
 - Verse three.
 
 > <sup>[3](/bible/jeremiah/48#v3)</sup> A voice of crying shall be from Horonaim, spoiling and great destruction.
 
-- *[[1:40:00](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=6000s)]* Horonaim. Horonaim is Horonite, right? You are from Horonaim, you're a Horonite. This Sanballat was a Moabite. Genghis Khan was a Moabite mingled with Edom. He was very, very pale. Edom and Moab mingled. Guess why they're all light now. Remember we read earlier that Shem and Ham produced black races. Moab was always black, but when Edom got over there, the Tatars over there, they began to mingle with them heavily, and Genghis Khan was the one that did so. So he was a descendant of Genghis Khan. But you had Moabites, and them all mingled together. They called them Huns: white Huns. You had black Huns and you had white Huns. White Huns were Edom and Moab mingled together, and black Huns was us. That's Northern Kingdom living *[[1:40:51](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=6051s)]* over there at the time, called Scythians. Tartary. A bunch of names, but that was us there as well. Okay. You also call them black Khazars. The black Khazars was us too. They were enslaved by the white ones, the Edomite ones.
+- *[[1:40:00](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=6000s)]* Horonaim. Horonaim is Horonite, right? You are from Horonaim, you're a Horonite. This Sanballat was a Moabite. Genghis Khan was a Moabite mingled with Edom. He was very, very pale. Edom and Moab mingled. Guess why they're all light now. Remember we read earlier that Shem and Ham produced black races. Moab was always black, but when Edom got over there, the Tatars over there, they began to mingle with them heavily, and Genghis Khan was the one that did so. So he was a descendant of Genghis Khan. But you had Moabites, and them all mingled together. They called them Huns: white Huns. You had black Huns and you had white Huns. White Huns were Edom and Moab mingled together, and black Huns was us. That's Northern Kingdom living *[[1:40:51](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=6051s)]* over there at the time, called Scythians. Tartary. A bunch of names, but that was us there as well. You also call them black Khazars. The black Khazars was us too. They were enslaved by the white ones, the Edomite ones.
 
 **Text:** Did Solomon cause Israel to sin when he went into sin?
 
@@ -978,11 +968,11 @@ Reading from Wikipedia, "Simeon Bekbulatovich" · read by an officer  *[[1:36:40
 
 - They always conspire together. Always. Moab and Ishmael here conspire together. Going back to Psalms 83. Same there. Always the *[[1:42:45](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=6165s)]* Big Three. Here, there's two here, but it's always those three. Always there in some way or another. Now if not the three, it's the two.
 
-*[[1:42:55](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=6175s)]* Now get me Wikipedia again. I want you to type in Qasim. Remember Quzah. Q-A-S-I-M. Remember, they're always together. Q-A-S-I-M, Wikipedia. Qasim. Yep, click that. We're going to start at khan. Go down. Let's just say khan. Go down. No, go back to— what's his name? Simeon. Go back. Yeah, it's right here. Click that. He was born— Yeah, click that. Let me see that. Okay. Hold on. Qasim Khan. Okay, hold on a second. Kazan. Hold on. Oh yeah, Qasim Khanate. Hold on. Look, go down to the list of khanates. Let me see if they have a list of *[[1:44:02](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=6242s)]* khanates. Go down. Yeah, click Qasim Khanate. Click that. Yes, there we go. You should see Kazan pop up. Go down. Go up some.
+*[[1:42:55](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=6175s)]* Now get me Wikipedia again. I want you to type in Qasim. Remember Quzah. Q-A-S-I-M. Remember, they're always together. Q-A-S-I-M, Wikipedia. Qasim. Yep, click that. We're going to start at khan. Let's just say khan. No, go back to— what's his name? Simeon. Go back. Yeah, it's right here. Click that. He was born— Yeah, click that. Let me see that. Qasim Khan. Kazan. Oh yeah, Qasim Khanate. Look, go down to the list of khanates. Let me see if they have a list of *[[1:44:02](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=6242s)]* khanates. Yeah, click Qasim Khanate. Click that. Yes, there we go. You should see Kazan pop up. Go up some.
 
-Okay, you see here it says Kazan Khan, like Genghis Khan. Like that same thing. Khanate, Genghis's khanate, is the same thing. Go down here. Scroll down. Qasim, Qasim. Remember Quzah, Qaus: it's the same god. Qasim ibn Ulugh Muhammad. Where'd Muhammad come from? Because Ishmael got over there. Islam made its way over there. That's why I said earlier about Simeon; I'm going to show you he was raised in it. It says Qasim ibn Muhammad. He was the first khan. Qasim ibn, son of, Muhammad. Why is that there? Because Ishmael, Islam, made its way over there. Because it's always those three. Always *[[1:45:12](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=6312s)]* them.
+Okay, you see here it says Kazan Khan, like Genghis Khan. Like that same thing. Khanate, Genghis's khanate, is the same thing. Go down here. Qasim, Qasim. Remember Quzah, Qaus: it's the same god. Qasim ibn Ulugh Muhammad. Where'd Muhammad come from? Because Ishmael got over there. Islam made its way over there. That's why I said earlier about Simeon; I'm going to show you he was raised in it. It says Qasim ibn Muhammad. He was the first khan. Qasim ibn, son of, Muhammad. Why is that there? Because Ishmael, Islam, made its way over there. Because it's always those three. Always *[[1:45:12](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=6312s)]* them.
 
-Go down. You see? Look, see: Sain-Bulat ibn Bekbulat. That's him from earlier. He's in that line. Go down. Khan, sultan. Ibn. Because Ishmael got over there. Go down. Then you got Feodor, Tsar of Russia. Ulugh Muhammad. Khanate of Kazan. Click that, the bottom right there. Let me see it. I'm trying to find Kazan. Type in Kazan. Click that. Go to history of Kazan. History, right there. See: cauldron. Tatar, Turkish. Turk, Tatar: it's the same people. Bulgars. This is Edom. That's who this is. Now go to history of Kazan. *[[1:46:32](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=6392s)]* The History section here, in Kazan. Just go down, scroll down to the History section. It should say after the Mongols. Right here. Right there. We're going to end at the population. Read that.
+Look, see: Sain-Bulat ibn Bekbulat. That's him from earlier. He's in that line. Khan, sultan. Ibn. Because Ishmael got over there. Then you got Feodor, Tsar of Russia. Ulugh Muhammad. Khanate of Kazan. Click that, the bottom right there. Let me see it. I'm trying to find Kazan. Type in Kazan. Click that. Go to history of Kazan. History, right there. See: cauldron. Tatar, Turkish. Turk, Tatar: it's the same people. Bulgars. This is Edom. That's who this is. Now go to history of Kazan. *[[1:46:32](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=6392s)]* The History section here, in Kazan. Just go down, scroll down to the History section. It should say after the Mongols. Right there. We're going to end at the population.
 
 <div class="reading">
 
@@ -994,7 +984,7 @@ Reading from Wikipedia, "Kazan", History · read by an officer  *[[1:46:56](http
 
 > in the 13th century the surviving Bulgars recovered in numbers, and a small number of Kipchaks were assimilated, from which they adopted their language. The Bulgars and Kipchaks mixed to create the modern Kazan Tatar population.
 
-- Click Kipchaks, please. Click that. I think there's more too. I'm shooting from the hip. Kipchaks. Let me see. Turkic nomads. Oh, that's Edom too. Turk. Khaganate. Kagan. Edom too. Go back to Edom: Turks, … same thing. Caucasus Mountains. Same people. Go back.
+- Click Kipchaks, please. Click that. I think there's more too. I'm shooting from the hip. Kipchaks. Turkic nomads. Oh, that's Edom too. Turk. Khaganate. Kagan. Edom too. Go back to Edom: Turks, … same thing. Caucasus Mountains. Same people. Go back.
 
 > Some Tatars also went to Lithuania. Kazan became the center of the principality, which was dependent on the Golden Horde. In the 13th and 14th centuries Kazan was growing, becoming an important trade and political center within the Golden Horde. The growth of the city was also promoted by the successful geographical location at the intersection of major trade routes connecting East and West.
 
@@ -1006,7 +996,7 @@ Reading from Wikipedia, "Kazan", History · read by an officer  *[[1:46:56](http
 
 - **Officer:** Yeah.
 
-- **Deacon Eythan:** That's all I wanted. Go to as a result. Where's as a result at? Right here. Go down there. We're going to end at the ruined. The Russian Tsardom period. Watch.
+- **Deacon Eythan:** That's all I wanted. Go to as a result. Where's as a result at? Go down there. We're going to end at the ruined. The Russian Tsardom period. Watch.
 
 > Russian Tsardom period. As a result of the siege of Kazan in 1552, Tsar Ivan the Terrible conquered the city.
 
@@ -1024,7 +1014,7 @@ Reading from Wikipedia, "Kazan", History · read by an officer  *[[1:46:56](http
 
 - **Officer:** Netanyahu might pop up.
 
-- **Deacon Eythan:** Yeah, Netanyahu should pop up. Let me see. Looking for the early ones. Go down. Conversion to Judaism. See, but that's not what I want though. It should *[[1:52:00](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=6720s)]* be— hold on. List of Khazar rulers, Wikipedia. It should have early Khazar rulers. Go up. Wasting time. Right there. Right there, second one. There we go. Name: early, early, early Khazar rulers. Read what it says there.
+- **Deacon Eythan:** Yeah, Netanyahu should pop up. Looking for the early ones. Conversion to Judaism. See, but that's not what I want though. It should *[[1:52:00](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=6720s)]* be— hold on. List of Khazar rulers, Wikipedia. It should have early Khazar rulers. Wasting time. Right there. Right there, second one. There we go. Name: early, early, early Khazar rulers. Read what it says there.
 
 </div>
 
@@ -1040,11 +1030,11 @@ Reading from Wikipedia, "List of Khazar rulers", early Khazar rulers · read by 
 
 - That's why that guy Simeon Bekbulatovich is all pale too. Genghis Khan, the same reason: they all mingled together. They called it Kazan, khaganate, Khazar. It's all the same people ruling together, mingled together, mingled up somewhat.
 
-- Now get me— go back to Wikipedia again. Type Qasim. Q-A-S-I-M. Go back to it again, Wikipedia. We're going to end at Muhammad. It should end at Muhammad. Where were we at before? Go back to that guy, Simeon. Then it was Qasim Khan or something, *[[1:54:04](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=6844s)]* right? Yeah, Qasim. Q-A-S-I-M. Let me see if it has it by itself. It should say, ending at Muhammad. Let me see. Go look for ending at Muhammad. That's that.
+- Now get me— go back to Wikipedia again. Type Qasim. Q-A-S-I-M. Go back to it again, Wikipedia. We're going to end at Muhammad. It should end at Muhammad. Where were we at before? Go back to that guy, Simeon. Then it was Qasim Khan or something, *[[1:54:04](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=6844s)]* right? Yeah, Qasim. Q-A-S-I-M. Let me see if it has it by itself. It should say, ending at Muhammad. Go look for ending at Muhammad. That's that.
 
 - **Officer:** We got a text too, D.
 
-- **Deacon Eythan:** Okay, hold on. It should end at Muhammad. Just type it in. Type Muhammad. M-U-H. I need that part too. They don't have it? Muhammad. Go with it again. Let me see. Click list. Click Khanate of Qasim again. Click that again. Trying to find Qasim by itself. The word by itself. Try it again. Qasim again. Q-A-S-I-M. I want the word by itself. Is the ending at Muhammad anywhere? I don't see it. Boy, boy, I need that part. Q-A-S-I-M. Go down, go down. Try name. Try Qasim, name. *[[1:55:46](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=6946s)]* Name. Go down. Oh, there it is. There we go. Okay, there we go. All right, we go start from there, the top. Qasim. Remember, go back to Edom: Qaus.
+- **Deacon Eythan:** It should end at Muhammad. Just type it in. Type Muhammad. M-U-H. I need that part too. They don't have it? Muhammad. Go with it again. Click list. Click Khanate of Qasim again. Click that again. Trying to find Qasim by itself. The word by itself. Try it again. Qasim again. Q-A-S-I-M. I want the word by itself. Is the ending at Muhammad anywhere? I don't see it. Boy, boy, I need that part. Q-A-S-I-M. Try name. Try Qasim, name. *[[1:55:46](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=6946s)]* Name. There we go. Okay, there we go. All right, we go start from there, the top. Qasim. Remember, go back to Edom: Qaus.
 
 </div>
 
@@ -1064,7 +1054,7 @@ Reading from Wikipedia, "Qasim (name)" · read by an officer  *[[1:55:56](https:
 
 - **Officer:** So this dude Muhammad, who's supposed to be a prophet of Allah, is naming his son after another god.
 
-- **Deacon Eythan:** Yep. Okay. That's crazy.
+- **Deacon Eythan:** Yep. That's crazy.
 
 - Now type in Google, last name. Last name K-W. Oh, K-W, I'm sorry. Google, last name. Type in Poland. P-O-L-A-N-D. So read that. Read that right there.
 
@@ -1096,11 +1086,11 @@ Reading from a surname search, the origin, popularity and meaning of the name Kw
 
 **Officer:** We have to also remember, during the transpacific slave trade, when they brought us from China.
 
-**Deacon Eythan:** Yeah, we'll get to that later on. The coolies. The Chino. Yeah, but we'll delve into that. That goes into Ishmael bringing us over as well. *[[1:59:26](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=7166s)]* We'll get into that later on. That'll answer more of this question, when we delve deeper into the trans-Saharan slave trade regarding that. So just stay tuned; we'll delve into that. We'll keep that text in mind. Thank you. But yes, that is why. And also, they were neighbors. Remember, Moab and Ammon were neighbors, next to Reuben, and they were neighbors of Northern Kingdom. They took us over to the east.
+**Deacon Eythan:** Yeah, we'll get to that later on. The coolies. The Chino. Yeah, but we'll delve into that. That goes into Ishmael bringing us over as well. *[[1:59:26](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=7166s)]* We'll get into that later on. That'll answer more of this question, when we delve deeper into the trans-Saharan slave trade regarding that. So just stay tuned; we'll delve into that. We'll keep that text in mind. But yes, that is why. And also, they were neighbors. Remember, Moab and Ammon were neighbors, next to Reuben, and they were neighbors of Northern Kingdom. They took us over to the east.
 
 **Officer:** Over to the east. He was talking about the samurai, that also.
 
-**Deacon Eythan:** Right. So where we at? Psalms 83 again. Verse 2.
+**Deacon Eythan:** So where we at? Psalms 83 again. Verse 2.
 
 **[Psalms 83:2-7](/bible/psalms/83#v2)**  *[[1:59:54](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=7194s)]*
 
@@ -1136,7 +1126,7 @@ Reading from a surname search, the origin, popularity and meaning of the name Kw
 
 - **Officer:** I got an article for you, after you.
 
-- **Deacon Eythan:** Okay. Second Maccabees 6, verse 1.
+- **Deacon Eythan:** Second Maccabees 6, verse 1.
 
 **[2 Maccabees 6:1-2](/bible/2-maccabees/6#v1)**  *[[2:02:46](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=7366s)]*
 
@@ -1150,13 +1140,13 @@ Reading from a surname search, the origin, popularity and meaning of the name Kw
 
 - Took our land. Took our land from us. These people have a history of taking our land over and building their own temples and so forth. What we got here?
 
-**Officer:** So this is an article going back to what Deacon was bringing out, Psalms 83, the Big Three. You got Edom, Ishmael and China; they're both in Africa, right? Watch this. About *[[2:03:42](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=7422s)]* Ishmael. It says tens of billions of dollars in gold flows illegally out of Africa each year, a new report says.
+**Officer:** So this is an article going back to what Deacon was bringing out, Psalms 83, the Big Three. You got Edom, Ishmael and China; they're both in Africa, right? About *[[2:03:42](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=7422s)]* Ishmael. It says tens of billions of dollars in gold flows illegally out of Africa each year, a new report says.
 
-**Deacon Eythan:** Go down. Oh boy. What year is this? This is old.
+**Deacon Eythan:** Oh boy. What year is this? This is old.
 
-**Officer:** This is old. Okay, go down. Still happening, though. The updated, 2024.
+**Officer:** This is old. Still happening, though. The updated, 2024.
 
-**Deacon Eythan:** Oh, 2024. Go down. That's new. Yeah, months ago. Read this right here.
+**Deacon Eythan:** Oh, 2024. That's new. Yeah, months ago.
 
 **Officer:** You want me to read it?
 
@@ -1172,7 +1162,7 @@ Reading from a news article on the gold smuggled out of Africa, updated 2024 · 
 
 - **Officer:** The Porta Potty.
 
-- **Deacon Eythan:** Yeah. They're getting the gold from Africa. Yep. Smuggling it illegally. They steal the gold from us, then *[[2:04:38](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=7478s)]* we got to go and get pooped on to get it back. Yeah. Damn. Wow. Damn. Read on.
+- **Deacon Eythan:** Yeah. They're getting the gold from Africa. Yep. Smuggling it illegally. They steal the gold from us, then *[[2:04:38](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=7478s)]* we got to go and get pooped on to get it back. Yeah. Damn. Damn.
 
 - Start from the top, man.
 
@@ -1206,8 +1196,6 @@ Reading from a news article on the gold smuggled out of Africa, updated 2024 · 
 
 > The report found that between 32% and 41% of gold produced in Africa was not declared
 
-- Wow.
-
 > in 2022.
 
 - It's not accounting for that. That's a lot.
@@ -1224,11 +1212,11 @@ Reading from a news article on the gold smuggled out of Africa, updated 2024 · 
 
 </div>
 
-*[[2:07:27](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=7647s)]* Get *History of the Jews* by Hannah Adams. Page 154. You got that book? I want *History of the Jews* by Hannah Adams, on page 154 and 155. Then we're going to pretty much wrap up from there. These guys are the worst, man. These three. It's always them. *[[2:08:05](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=7685s)]* I'm not saying it's just them, but it's always these three. They find their way together. They share gods together. They share the same titles together. It's always the three. That's why you know that the Chinese is Moab. That's how you know it's them. Sain-Bulat: what are the odds, right? A descendant of Genghis Khan named Sain-Bulat? Come on, man. It's not a coincidence. It's not a coincidence. That's why I pulled Second Maccabees 6: to show that these guys take over the land and build on top of it, rename it, defile the land, take it over, give it new names. The Temple Mount, Solomon's Temple: they built the mosque on that, the golden dome. That's *[[2:08:52](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=7732s)]* Solomon's Temple. They built on top of it. That big temple you see, that big golden dome over there: that's where Solomon's Temple stood. They built on top of there.
+*[[2:07:27](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=7647s)]* Get *History of the Jews* by Hannah Adams. Page 154. You got that book? I want *History of the Jews* by Hannah Adams, on page 154 and 155. Then we're going to pretty much wrap up from there. These guys are the worst, man. These three. It's always them. *[[2:08:05](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=7685s)]* I'm not saying it's just them, but it's always these three. They find their way together. They share gods together. They share the same titles together. It's always the three. That's why you know that the Chinese is Moab. That's how you know it's them. Sain-Bulat: what are the odds, right? A descendant of Genghis Khan named Sain-Bulat? It's not a coincidence. It's not a coincidence. That's why I pulled Second Maccabees 6: to show that these guys take over the land and build on top of it, rename it, defile the land, take it over, give it new names. The Temple Mount, Solomon's Temple: they built the mosque on that, the golden dome. That's *[[2:08:52](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=7732s)]* Solomon's Temple. They built on top of it. That big temple you see, that big golden dome over there: that's where Solomon's Temple stood. They built on top of there.
 
 **Officer:** While they're looking for that: I think it was Ghana too, where Esau came in, the British. They came in and they took our artifacts and so forth that we had over in Africa. I think from Ghana, the Ashantis. The Ashanti artifacts. You see that in *Black Panther*, right? So they took the artifacts; they took them back to their museum in Britain. So now Ghana is saying, look, we want our stuff back, because y'all stole it. So Esau said, yeah, we'll give it back, but on a loan. We'll lend it to you. So even the stuff they stole from us, they're going to give us a loan to *[[2:09:43](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=7783s)]* take our stuff back. So now we got to retrieve our stuff that they stole, on a loan. They said, look, we'll lend it to you for a couple years.
 
-**Deacon Eythan:** Wow. Mean it's not yours no more. It's just a wrap. It's the same thing when we went into captivity in Babylon. Remember Nebuchadnezzar: he went into our Temple and took all of our things. And then Persia and Media: we had to go to Cyrus to get our things.
+**Deacon Eythan:** Mean it's not yours no more. It's just a wrap. It's the same thing when we went into captivity in Babylon. Remember Nebuchadnezzar: he went into our Temple and took all of our things. And then Persia and Media: we had to go to Cyrus to get our things.
 
 **Officer:** They passed on.
 
@@ -1240,7 +1228,7 @@ Reading from a news article on the gold smuggled out of Africa, updated 2024 · 
 
 **Officer:** Hey Deac, while we're waiting for that too: just another example of Moab and Esau coming together against us. In Judith, when Holofernes wanted to go through the small passages to get to Jerusalem, it was Moab and Edom that said, no, don't do that. Surround and besiege the city; that will work better to defeat them. So they always come together.
 
-**Deacon Eythan:** You got that? Yeah. Judith 7 and 8. Read that.
+**Deacon Eythan:** You got that? Yeah. Judith 7 and 8.
 
 **[Judith 7:7-13](/bible/judith/7#v7)**  *[[2:11:23](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=7883s)]*
 
@@ -1256,7 +1244,7 @@ Reading from a news article on the gold smuggled out of Africa, updated 2024 · 
 >
 > <sup>[12](/bible/judith/7#v12)</sup> Remain in thy camp, and keep all the men of thine army, and let thy servants get into their hands the fountain of water, which issueth forth of the foot of the mountain:
 
-- Wow. Meaning, man, cut off our water supply. Starve us out. Wow. Man, these guys are the worst.
+- Meaning, man, cut off our water supply. Starve us out. Man, these guys are the worst.
 
 - **Officer:** You got it?
 
@@ -1265,8 +1253,6 @@ Reading from a news article on the gold smuggled out of Africa, updated 2024 · 
 - **Officer:** Verse 13. Read verse 13.
 
 > <sup>[13](/bible/judith/7#v13)</sup> For all the inhabitants of Bethulia have their water thence; so shall thirst kill them, and they shall give up their city, and we and our people shall go up to the tops of the mountains that are near, and will camp upon them, to watch that none go out of the city.
-
-- Wow.
 
 - And help them *[[2:13:04](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=7984s)]* overthrow us. Edom and Moab. You can't make it up, man. You cannot make this up.
 
@@ -1324,7 +1310,7 @@ Reading from *History of the Jews* by Hannah Adams, pages 154 and 155, on Muhamm
 
 > The conqueror would not allow them to be deprived of their churches; but by his command the ground where Solomon's Temple stood
 
-- The ground where the Greeks took over and built Jupiter Olympus, right? What did the Arabs do? Read.
+- The ground where the Greeks took over and built Jupiter Olympus, right? What did the Arabs do?
 
 > But by his command the ground where Solomon's Temple stood
 
@@ -1342,7 +1328,7 @@ Reading from *History of the Jews* by Hannah Adams, pages 154 and 155, on Muhamm
 
 - **Deacon Eythan:** Yeah. Not allow them. So why are we feeling sorry for them?
 
-- Right. It says the conqueror would not allow them to be deprived. Meaning, when Islam conquered the Holy Roman Empire, the Christians out of Jerusalem, *[[2:16:26](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=8186s)]* they allowed them to still keep their Christian churches. That's what they did here. That's what it's saying. They let the churches stay up regardless, because remember, Islam is a religion of adaptation. It goes with the flow. Like, okay, if you're a Christian, okay, be Christian, but still under Islam. It's madness. That's why you see women walk around with a hijab on their head, on their face, with tight-ass pants on. It's an ideology of compromise. That's what it does. These guys walking out with their faces clean shaven, with three-piece suits on. It's compromised. It *[[2:17:06](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=8226s)]* mixes with the world. Read on.
+- It says the conqueror would not allow them to be deprived. Meaning, when Islam conquered the Holy Roman Empire, the Christians out of Jerusalem, *[[2:16:26](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=8186s)]* they allowed them to still keep their Christian churches. That's what they did here. That's what it's saying. They let the churches stay up regardless, because remember, Islam is a religion of adaptation. It goes with the flow. Like, okay, if you're a Christian, okay, be Christian, but still under Islam. It's madness. That's why you see women walk around with a hijab on their head, on their face, with tight-ass pants on. It's an ideology of compromise. That's what it does. These guys walking out with their faces clean shaven, with three-piece suits on. It's compromised. It *[[2:17:06](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=8226s)]* mixes with the world.
 
 > When Persia submitted to the victorious Saracens,
 
@@ -1358,19 +1344,19 @@ Reading from *History of the Jews* by Hannah Adams, pages 154 and 155, on Muhamm
 
 ## In Closing
 
-*[[2:19:08](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=8348s)]* All right, so with that, hope you guys enjoyed the lesson. We going to wrap it up. All praise to the Most High.
+*[[2:19:08](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=8348s)]* All right, so with that, hope you guys enjoyed the lesson. We going to wrap it up.
 
 **Officer:** Hey Israel, let's give another hand for the leadership for that class. The Deacon is back.
 
-**Deacon Eythan:** Oh, we *[[2:19:34](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=8374s)]* back. Been some months. All praise the Most High.
+**Deacon Eythan:** Oh, we *[[2:19:34](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=8374s)]* back. Been some months.
 
-**Officer:** Hey, we want to welcome back Deacon and Cap from the Quest. All praise the Most High. Did excellent work out there. Returned back, then went to the Blitz. 13 hours away. All praise the Most High.
+**Officer:** Hey, we want to welcome back Deacon and Cap from the Quest. Did excellent work out there. Returned back, then went to the Blitz. 13 hours away.
 
 **Deacon Eythan:** Yeah, man. A lot of work getting done. A lot of work was being done. That 13 hours was crazy. 13 hours is crazy long. But all praise to the Most High, the work got done. It was worth it. It was all worth it. The word's being spread. While these nations out here are fighting a war over lands that don't belong to them, we are here building the nation. So it is what it is. Let the distractions continue while we are here doing the work, until we can't no more. Labor to bring forth.
 
-**Officer:** Yep. Right. All praise the Most High.
+**Officer:** Yep.
 
-*[[2:24:34](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=8674s)]* All right. Well, that's on a pretty bad note. With that, we're going to say shalom, and Lord's will, we'll see y'all next week. Stay tuned. Shalom.
+*[[2:24:34](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=8674s)]* Well, that's on a pretty bad note. With that, we're going to say shalom, and Lord's will, we'll see y'all next week. Stay tuned. Shalom.
 
 ## Announcements & References
 

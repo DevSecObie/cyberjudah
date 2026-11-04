@@ -1,0 +1,1 @@
+- Quotation marks: 117 places in 9 recent class notes where a quote was opened (his voicing of someone, or a verse he says aloud) and never closed are now closed where that speech ends. Words unchanged; every class note now has balanced quotes.

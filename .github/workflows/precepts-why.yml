@@ -21,9 +21,10 @@ concurrency:
 jobs:
   write:
     runs-on: ubuntu-latest
+    environment: automation
     timeout-minutes: 180
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262  # v4.4.0
         with:
           ref: main
       - run: python3 -m pip install --upgrade anthropic

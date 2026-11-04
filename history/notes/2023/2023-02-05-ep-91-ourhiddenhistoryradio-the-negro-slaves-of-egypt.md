@@ -16,17 +16,15 @@ tags: ["Our Hidden History", "captivity", "egypt"]
 
 <div class="class-video-mount" data-video-id="GXNEH-m-9gc"></div>
 
-
 ## Introduction
 
-*[[7:23](https://www.youtube.com/watch?v=GXNEH-m-9gc&t=443s)]* All praises to the Most High. All praise to the Most High. So if you've been tuned in with us, we've been going over Negro history in Egypt, or even, who are the ancient Egyptians. Like I said, this first started off with Kevin Hart making a statement saying that the original Egyptians, or the ancient Egyptians, are black, and there's been a media outcry with the Arabs in Egypt saying that the Egyptians were never black and never will be black. You even have some people, some communities, argue that the ancient Egyptians are Caucasian, because of whitewashing, or iconoclasm. They play it in your movies: you have *The Ten Commandments* with Charlton Heston. They show Moses to not only be white, but also the ancient Egyptians to be white.
+*[[7:23](https://www.youtube.com/watch?v=GXNEH-m-9gc&t=443s)]* So if you've been tuned in with us, we've been going over Negro history in Egypt, or even, who are the ancient Egyptians. Like I said, this first started off with Kevin Hart making a statement saying that the original Egyptians, or the ancient Egyptians, are black, and there's been a media outcry with the Arabs in Egypt saying that the Egyptians were never black and never will be black. You even have some people, some communities, argue that the ancient Egyptians are Caucasian, because of whitewashing, or iconoclasm. They play it in your movies: you have *The Ten Commandments* with Charlton Heston. They show Moses to not only be white, but also the ancient Egyptians to be white.
 
-*[[8:08](https://www.youtube.com/watch?v=GXNEH-m-9gc&t=488s)]* So this is one of the deceptions that's been being portrayed in the earth, and that's why, like I said, anytime we see any lies, or anybody trying to stand up for some type of truth, even though we don't agree with everything they teach or what they believe in or what they represent, we stand for truth. Right. So that's what we're going to touch in, and today we're going to journey into Negro history in ancient Egypt.
+*[[8:08](https://www.youtube.com/watch?v=GXNEH-m-9gc&t=488s)]* So this is one of the deceptions that's been being portrayed in the earth, and that's why, like I said, anytime we see any lies, or anybody trying to stand up for some type of truth, even though we don't agree with everything they teach or what they believe in or what they represent, we stand for truth. So that's what we're going to touch in, and today we're going to journey into Negro history in ancient Egypt.
 
 So let's start Exodus chapter 11 verse 7 real quick, because the misconception is, you have a lot of people within the community, or Egyptologists, will say that the original Negroes were Egyptian, and they glorify King Tut, Moses, or Nefertiti, all of these Egyptian pharaohs. Because black people, when you don't have a sense of identity, you have a tendency to take on the identity of anybody that has some type of relevance or importance, because of what society has portrayed us as. So that's what black people are looking for. We're looking for a sense of identity, something that's to encourage us and empower us. But they're looking in the wrong direction, where the Bible gives us our identity, our empowerment, as well as our culture. That's right. All right, so Exodus 11 verse 7.
 
 ## Readings and Scriptures
-
 
 **[Exodus 11:7](/bible/exodus/11#v7)**  *[[9:30](https://www.youtube.com/watch?v=GXNEH-m-9gc&t=570s)]*
 
@@ -96,7 +94,7 @@ Reading from *Southern Literary Messenger*, 1860, a lecture on the Negro races (
 
 > Indeed we are told that were we to judge from the drones alone, we might suppose them to have been delineated but yesterday. And moreover, as if to enforce the distinction of race by direct contrast, the Negro is placed side by side with people of Caucasian features. The first question which naturally suggests itself in connection with these monumental evidences is, can we glean anything from them illustrating the social position of the Negro in these remote ages?
 
-- So evidently, obviously, he says, wait a minute. Okay. Remember, a picture, a painting, speaks a thousand words. They always say this, sir: art imitates life. Based upon the war relics, the hieroglyphs, and ancient Egyptian art, it always tells a story. They have different shapes, figures and symbols that told the story. That's how they documented their records back during that time period. Now today we have records, or they have scrolls, or they have books, and they document the records of each nation. But the Egyptians, the way they documented was on hieroglyphs. That's why you have somebody called Francois, during Napoleon's time period, he went and translated the Rosetta Stone, which was pretty much the catalyst in order to decipher all the hieroglyphs. And that's why they can speak on these things. It was a French decipherer. Go on.
+- So evidently, obviously, he says, wait a minute. Remember, a picture, a painting, speaks a thousand words. They always say this, sir: art imitates life. Based upon the war relics, the hieroglyphs, and ancient Egyptian art, it always tells a story. They have different shapes, figures and symbols that told the story. That's how they documented their records back during that time period. Now today we have records, or they have scrolls, or they have books, and they document the records of each nation. But the Egyptians, the way they documented was on hieroglyphs. That's why you have somebody called Francois, during Napoleon's time period, he went and translated the Rosetta Stone, which was pretty much the catalyst in order to decipher all the hieroglyphs. And that's why they can speak on these things. It was a French decipherer. Go on.
 
 > Their position relatively to the other races in the times of the Pharaohs? Upon this point I feel I am authorized to say that the proofs are both abundant and conclusive. Detail here would be out of place. The result, as established by the best authority, to which the monumental evidence invariably tend, is that the social position of the Negro race in Egypt 3,500 years ago was substantially the same that it is now in the United States.
 
@@ -134,7 +132,7 @@ Reading from a dictionary definition of the word ghetto, brought on screen by a 
 
 > An isolated group. A situation that resembles a ghetto, especially in conferring inferior status or limiting opportunity.
 
-- Which is us. We never have equal rights. We were always fighting for justice. Keep going.
+- Which is us. We never have equal rights. We were always fighting for justice.
 
 > Of, relating to, or being characteristic of a ghetto. See ghetto, entry one, sense two: the people who live there, ghetto youth, music, ghetto neighborhoods. Features that, according to E. Jones, are often shamed and seen as ugly, ghetto or unprofessional when on black people, but suddenly become desirable and attractive when on a white person.
 
@@ -166,7 +164,7 @@ Reading from a dictionary definition of the word ghetto, brought on screen by a 
 
 > <sup>[17](/bible/isaiah/14#v17)</sup> That made the world as a wilderness, and destroyed the cities thereof; that opened not the house of his prisoners?
 
-- So the so-called white man did not want to open the house of his prisoners. We are prisoners in America. They don't want to open our house, because why? We make America great. Think about it. They said, let's make America great again. The only time period America was so-called great in white eyes is when they had us in chattel slavery. Right. Because why? We made America the world's superpower, the economic machine that it is today, off of free slave labor. Europe. We made America, we made Europe rich. Everywhere we went we made that a prospering nation, and anytime we left, it fell as a nation.
+- So the so-called white man did not want to open the house of his prisoners. We are prisoners in America. They don't want to open our house, because why? We make America great. Think about it. They said, let's make America great again. The only time period America was so-called great in white eyes is when they had us in chattel slavery. Because why? We made America the world's superpower, the economic machine that it is today, off of free slave labor. Europe. We made America, we made Europe rich. Everywhere we went we made that a prospering nation, and anytime we left, it fell as a nation.
 
 - Now let's go back to the book. Let's pick back up.
 
@@ -180,7 +178,7 @@ Reading from *Southern Literary Messenger*, 1860, continued · read by a brother
 
 > In these processions Negroes frequently appear, and whenever they do, always I believe in relations of inferiority to other races, whether Caucasian, Semitic or Nilotic...
 
-- In these processions, says what? Read it again. Negroes. I want to show you something real quick. In these processions Negroes frequently appear doing what? Always in relations of inferiority to other races. Get me Second Maccabees chapter 6 verse 7. So it says in these processions Negroes frequently appear, always in a position of servitude.
+- In these processions, says what? Negroes. I want to show you something real quick. In these processions Negroes frequently appear doing what? Always in relations of inferiority to other races. Get me Second Maccabees chapter 6 verse 7. So it says in these processions Negroes frequently appear, always in a position of servitude.
 
 </div>
 
@@ -200,7 +198,7 @@ Reading from *Southern Literary Messenger*, 1860, continued · read by a brother
 
 > ...and led as captives in the trains of victorious generals returning from the wars, at others in established relations of slavery. We're told that the Negro was a stranger in Egypt.
 
-- We were told that what? The Negro was a stranger in Egypt. Just bring it back out again. Let's get Genesis chapter 15. Wow. We were told that the Negro was a stranger in Egypt. Who else was called a stranger in Egypt? Who was prophesied of this? That's what we tell you. We know who we are. We could go into the books. We got the books, we got the records, we got the archaeology. We have everything to prove what we're saying. Go on. Genesis chapter 15 verse 13.
+- We were told that what? The Negro was a stranger in Egypt. Just bring it back out again. Let's get Genesis chapter 15. We were told that the Negro was a stranger in Egypt. Who else was called a stranger in Egypt? Who was prophesied of this? That's what we tell you. We know who we are. We could go into the books. We got the books, we got the records, we got the archaeology. We have everything to prove what we're saying. Go on. Genesis chapter 15 verse 13.
 
 </div>
 
@@ -210,13 +208,13 @@ Reading from *Southern Literary Messenger*, 1860, continued · read by a brother
 
 - So know of a surety that thy seed, Abraham, shall be a stranger in a land that is not theirs. What was the land? The land of Egypt, in which we were strangers. So read that again: we are told that the Negro was a stranger in Egypt. That the Israelites, I'll say it again, not the Negroes but the Israelites, were strangers in Egypt. And you notice how this scholar was able to do this much research and point out that he sees the Negroes on all the war relics. If you look at the histories parallel to each other, the Israelites were the only group of people that was referenced as being in slavery in Egypt. That's the story of the Exodus. That's what they pushed in your Hollywood, in your movies. Everybody has known it worldwide, globally, and the Passover is based upon the deliverance of the Israelites out of ancient Egypt.
 
-- **A brother:** You know what, I got a book. Check this out. I got another book I want to show you. Hey, get Deuteronomy 23 and 7. Bishop just brought this out last night. Saying the same thing.
+- **A brother:** You know what, I got a book. I got another book I want to show you. Hey, get Deuteronomy 23 and 7. Bishop just brought this out last night. Saying the same thing.
 
 **[Deuteronomy 23:7](/bible/deuteronomy/23#v7)**  *[[35:40](https://www.youtube.com/watch?v=GXNEH-m-9gc&t=2140s)]*
 
 > <sup>[7](/bible/deuteronomy/23#v7)</sup> Thou shalt not abhor an Edomite; for he is thy brother: thou shalt not abhor an Egyptian; because thou wast a stranger in his land.
 
-- **A brother:** You see that? Saying the same exact thing that this Edomite is bringing out in this book here, letting you know we were the strangers. The Israelites were the strangers in Egypt, which was us. He's just saying Negroes, but we know that was us, the Israelites. And that's what we're bringing out to y'all.
+- **A brother:** Saying the same exact thing that this Edomite is bringing out in this book here, letting you know we were the strangers. The Israelites were the strangers in Egypt, which was us. He's just saying Negroes, but we know that was us, the Israelites. And that's what we're bringing out to y'all.
 
 - **A brother:** Let's go Psalms 107. You just said they were always bound in what? In chains. Psalms chapter 107 verse 10.
 
@@ -226,7 +224,7 @@ Reading from *Southern Literary Messenger*, 1860, continued · read by a brother
 
 - **A brother:** So the darkness is, the Bishop said, America. In the shadow of death, which is also America. Being bound in affliction and iron, and that's the same thing we just read there: wherever the Israelites are at, there was affliction and iron. And in darkness. Right now we're in gross darkness. We don't know who we are. But in the other captivities at least we knew our identity. We knew who we was. But this time we don't know who we are. We totally lost, in darkness, gross darkness. We lost who we were once Esau came into power, because Esau tried to erase your whole existence.
 
-- **The captain:** Hey listen, like I said, if we were here for another, I'll say, hundreds of years: what you see Esau doing today is what they've done in every culture throughout history. What they do, they conquer you, they enslave you, they indoctrinate you, and the little bit of piece of information of your history that you have left, they start to take bits and pieces of it away from you. And they say that's offensive to our society, and they remove it out of the system, the school system, the educational institutions. They remove it and say that's critical race theory. Right. They say that's the 1619 Project. Oh no, little Jimmy's offended by that. They remove it, and after they remove it, guess what, they start putting out there and start retelling your history. As they're retelling your history, they start to insert little portions and pieces of information pertaining to them being those people. And that's how they did it throughout the process of time. They did it with classical music, right. They did it with rock and roll. They did it with all types of music. Hip-hop later is going to be white owned. That's why they're buying their catalogs. Martin Luther King as well as Malcolm X is going to be white.
+- **The captain:** Hey listen, like I said, if we were here for another, I'll say, hundreds of years: what you see Esau doing today is what they've done in every culture throughout history. What they do, they conquer you, they enslave you, they indoctrinate you, and the little bit of piece of information of your history that you have left, they start to take bits and pieces of it away from you. And they say that's offensive to our society, and they remove it out of the system, the school system, the educational institutions. They remove it and say that's critical race theory. They say that's the 1619 Project. Oh no, little Jimmy's offended by that. They remove it, and after they remove it, guess what, they start putting out there and start retelling your history. As they're retelling your history, they start to insert little portions and pieces of information pertaining to them being those people. And that's how they did it throughout the process of time. They did it with classical music, right. They did it with rock and roll. They did it with all types of music. Hip-hop later is going to be white owned. That's why they're buying their catalogs. Martin Luther King as well as Malcolm X is going to be white.
 
 - And check this out, they did it right before you, you don't even know it. X-Men. What do you think X-Men is about? X-Men is about Martin Luther King and Magneto. So the whole blueprint, the structure behind X-Men, was based upon, I'll say it again, Professor X was Martin Luther King, and Magneto was Malcolm X. And the mutants was what? That's why they call them the mutants. It happened in America. They was fighting against society. Oppression. The Civil Rights Movement, that's what they're fighting. If you notice how every hero, every single character or hero that was created, whether it be Superman, whether it be Spider-Man, Wonder Woman, notice it was all created during the time period of World War II, of America fighting against Nazis. They always create superheroes that fight against their enemies. But when it came to X-Men, they fought internally, showing that their fight was our fight, was the Civil Rights Movement. But what they do? They put white heroes. So they whitewashed our story and made it a movie.
 
@@ -260,7 +258,7 @@ Reading from *The Story of the Negro*, chapter one (author not named)  *[[40:00]
 
 - **A brother:** Even with *The Lion King* too. Same thing. The father came to him: remember who you are.
 
-- **The captain:** Yeah. So when King Arthur took the sword, the first thing that happened, he remembered his father. And not only remembered his father, he remembered his enemies. Right. And he kept getting the visions, and kept on getting visions, and became stronger and stronger and stronger. The same thing when we took to the Bible: there's a connection that brings us back to the memories of our fathers. And then what happens first? What they always do: we always revolt. Nat Turner, right. He's starting to remember. Something clicked. He started to remember. What was the first thing he did? He revolted. Gabriel Prosser, what was the first thing he did? He revolted. Denmark Vesey, first thing he did, he revolted. Even Haiti.
+- **The captain:** Yeah. So when King Arthur took the sword, the first thing that happened, he remembered his father. And not only remembered his father, he remembered his enemies. And he kept getting the visions, and kept on getting visions, and became stronger and stronger and stronger. The same thing when we took to the Bible: there's a connection that brings us back to the memories of our fathers. And then what happens first? What they always do: we always revolt. Nat Turner, right. He's starting to remember. Something clicked. He started to remember. What was the first thing he did? He revolted. Gabriel Prosser, what was the first thing he did? He revolted. Denmark Vesey, first thing he did, he revolted. Even Haiti.
 
 - **Another brother:** Even in Haiti. Well, I don't know. I just don't want to reveal certain things that I haven't put out yet. But before all that, there was this guy named Boukman. Some people say that he had the book, that's why they call him Boukman. And some people twist the story, saying that he had the Quran in his hand, and some people say he was reading the Bible, and that's how they was able to start learning how to revolt. But then they twist everything and say that they'll do some voodoo, whatever, that's how they was able to overcome. But that's why a lot of stories say it started with him, the guy called Boukman, because he was reading a book. But nobody ever could tell exactly what book he was reading. Some people say it was the Quran, some people say it was the Bible. So just to show you, it could have been the Bible he read, because I thought he was taught how to read, and he started reading that book, and that's how they started organizing themselves to revolt.
 
@@ -342,7 +340,7 @@ Reading from *The Story of the Negro*, chapter one, continued  *[[52:40](https:/
 
 - **A brother:** Yep, exactly. So he controls what we put out.
 
-- **The captain:** Read that. What I want: Job chapter 11 verse 6.
+- **The captain:** What I want: Job chapter 11 verse 6.
 
 </div>
 
@@ -358,7 +356,7 @@ Reading from *The Story of the Negro*, chapter one, continued  *[[55:10](https:/
 
 > This faith was the source of the old freedom songs, which always had for the slaves a double meaning, and so woven with the religious sentiment and meanings there was always the expression of a desire and a hope not alone for freedom in the world to come, but of freedom in this world as well.
 
-- That's it. So now, you got the *Hell on Wheels*? Oh, you didn't look for it. Cap, you sent this book, what, *The Negroes and the Jews*? Did you just send that? No? That's going to back up what we just read. Okay. I guess the IT is thinking today. Check them out. All right, you want to bring that up? Bring it up.
+- That's it. So now, you got the *Hell on Wheels*? Oh, you didn't look for it. Cap, you sent this book, what, *The Negroes and the Jews*? Did you just send that? No? That's going to back up what we just read. I guess the IT is thinking today. Check them out. All right, you want to bring that up?
 
 </div>
 
@@ -384,7 +382,7 @@ Reading from a book Bishop always referenced on the Shout Out Tuesdays (its titl
 
 > <sup>[10](/bible/luke/8#v10)</sup> And he said, Unto you it is given to know the mysteries of the kingdom of God: but to others in parables; that seeing they might not see, and hearing they might not understand.
 
-- **A brother:** Just like cap said with the music that Israel is creating right now: other people are going to listen to it, and they don't even know. They listen to it like gospel music. But us, that know the scriptures, that are awakened, we know there's a message behind this music. Go ahead.
+- **A brother:** Just like cap said with the music that Israel is creating right now: other people are going to listen to it, and they don't even know. They listen to it like gospel music. But us, that know the scriptures, that are awakened, we know there's a message behind this music.
 
 - **A brother:** Because the slave owners knew this book is for us. We're connected with the book. Hence what they portray in *Avatar*, the Tree of Life. To us the Tree of Life is the Bible. They don't want us connected to that thing. Baruch 4:1 says the same thing: this is the book of life. They don't want us to be connected with that book.
 
@@ -424,7 +422,7 @@ Reading from *Southern Literary Messenger*, 1860, continued · read by a brother
 
 > Passing from the monumental to the historic period, we obtain precisely the same result. The presence of the Negro in the ancient world is a fact which meets us everywhere. The Greek and Roman writers make frequent mention of them. We find them in Asia and Africa, at Thebes, Memphis, Carthage, Tyre, Antioch, Athens and Rome.
 
-- So the scholar, the writer, is saying that the Negro was found in every ancient text and hieroglyph, or wall mosaics, war relics. We're everywhere. It can't be argued or refuted. And the only people that you read about that was in every single captivity was the Israelites. Now let's go to the next page. Go down.
+- So the scholar, the writer, is saying that the Negro was found in every ancient text and hieroglyph, or wall mosaics, war relics. We're everywhere. It can't be argued or refuted. And the only people that you read about that was in every single captivity was the Israelites. Now let's go to the next page.
 
 > ...always I believe in relations of inferiority to those with whom they are found, and not only of inferiority, but even more distinctly of slavery. Upon this point the proofs are full and clear, and we are at liberty to speak with confidence. In respect to the monumental period, the proofs are all strong in the same direction. When the Negro races first made their appearance on the monuments of Egypt, it is in the relations of slavery: sometimes indeed of captivity, but more commonly of established slavery. This, until we came down to our own times, was therefore the universal status.
 
@@ -450,7 +448,7 @@ Reading from *Southern Literary Messenger*, 1860, continued · read by a brother
 
 > Slaves in Thebes...
 
-- Slaves in Thebes, going back to the Theban kings in Egypt. Read.
+- Slaves in Thebes, going back to the Theban kings in Egypt.
 
 > ...and Memphis...
 
@@ -488,11 +486,11 @@ Reading from *Southern Literary Messenger*, 1860, continued · read by a brother
 
 > Slaves in Thebes and Memphis, at Babylon and Nineveh, at Rome and Athens...
 
-- And what? Athens. And Greece. Read.
+- And what? Athens. And Greece.
 
 > ...at Carthage and Constantinople...
 
-- At Carthage as well as Constantinople. Read.
+- At Carthage as well as Constantinople.
 
 > ...at Havana and Richmond...
 
@@ -536,7 +534,7 @@ Reading from an image from *Jewish Civilization*: a model of an Egyptian bakery 
 
 > <sup>[1](/bible/ezekiel/5#v1)</sup> And thou, son of man, take thee a sharp knife, take thee a barber’s razor, and cause it to pass upon thine head and upon thy beard: then take thee balances to weigh, and divide the hair.
 
-- So this is the ancient Egyptian barbershop of Negroes getting a haircut. Look at your man's waiting, right. Look at them waiting. Let's get the next one. We're going to show you the aftermath of the cut. See my man sitting down, he getting his cut. Watch this. Cut the fro off, man. Check them out. Smooth.
+- So this is the ancient Egyptian barbershop of Negroes getting a haircut. Look at your man's waiting, right. Look at them waiting. Let's get the next one. We're going to show you the aftermath of the cut. See my man sitting down, he getting his cut. Cut the fro off, man. Check them out. Smooth.
 
 <div class="reading">
 
@@ -548,9 +546,9 @@ Reading from the description under an image: an Egyptian figurine of a slave  *[
 
 - **A brother:** Exactly. They'll throw you off if you don't know the real meaning of being a Shemite.
 
-- **The captain:** Look at the cut, man. Zoom in a little bit. Look at the beard. Look at the shape up. That's Judah, bro. That's Judah, man. Ain't no African out there like that with a cut.
+- **The captain:** Look at the cut, man. Look at the beard. Look at the shape up. That's Judah, bro. That's Judah, man. Ain't no African out there like that with a cut.
 
-- **A brother:** Whoa, wait a minute. Look at that beard. Hold on. No, that's a Jew. Ain't no way.
+- **A brother:** Whoa, wait a minute. Look at that beard. No, that's a Jew. Ain't no way.
 
 - **Another brother:** I'm a humble servant, I ain't going to go against that. The only thing I'm going to say is he just needs a new barber, then, if that's the case.
 
@@ -570,7 +568,7 @@ Reading from the description under an image: Negro slaves at Thebes loading grai
 
 > Painting from a tomb at Thebes...
 
-- Wait, didn't it say Negro slaves in Thebes? Right. So that's what it said: the Negroes were slaves in Thebes. So this is the painting of Negro slaves in Thebes. Go on.
+- Wait, didn't it say Negro slaves in Thebes? So that's what it said: the Negroes were slaves in Thebes. So this is the painting of Negro slaves in Thebes. Go on.
 
 > Painting from a tomb at Thebes from the period of the 18th Dynasty...
 
@@ -618,7 +616,7 @@ Reading from a book of Egyptian images (the book isn't named for this reading), 
 
 > The thousands of war captives who were transformed into slaves made it possible for the Egyptian kings to implement their feats of engineering. Chained captives are shown on these painted clay faience plaques from a building erected by Ramses II in honor of the king's brave warriors, from the period of the 19th Dynasty.
 
-- This was Ramses the Second, the Pharaoh of the Exodus. I'll say it again: this is Ramses the Second, the Pharaoh of the Exodus. Now let's look at these war relics. How do they look? Come on, man. And notice, I want you to look at the distinction. Now we're going to examine this a little bit more clearly. Look at the different clothing. It says there becomes a new type of black, or Negro type, stylized. Look at their garments. That's not ancient Egyptian garment. They didn't wear that type of fabric, or even the head wrap. That's a beautiful garment these sisters have on.
+- This was Ramses the Second, the Pharaoh of the Exodus. I'll say it again: this is Ramses the Second, the Pharaoh of the Exodus. Now let's look at these war relics. How do they look? And notice, I want you to look at the distinction. Now we're going to examine this a little bit more clearly. Look at the different clothing. It says there becomes a new type of black, or Negro type, stylized. Look at their garments. That's not ancient Egyptian garment. They didn't wear that type of fabric, or even the head wrap. That's a beautiful garment these sisters have on.
 
 - **A brother:** Cap, what's on the neck?
 
@@ -630,7 +628,7 @@ Reading from a book of Egyptian images (the book isn't named for this reading), 
 
 - **A brother:** There's a brother, the one that have the yoke of iron around his neck. He has a name. I forgot his name. We just seen it two days ago.
 
-- **The captain:** Yep, do it side by side if you can. There you go. Look at that. All the way down to the features, the nose and the lip. Exactly. Now let's get the next image, that dates back some dynasties prior.
+- **The captain:** Yep, do it side by side if you can. Look at that. All the way down to the features, the nose and the lip. Exactly. Now let's get the next image, that dates back some dynasties prior.
 
 - **A brother:** That's crazy. Stylized. Oh wow, stylized. Look at the garment, man. Yokes of iron upon thy neck. Hey, cap, are you able to get what the Egyptians was wearing? I see fringes on the garment on the left. I don't want to throw y'all off, but side by side with what the Egyptians had on, compared to what these sisters got on right here. We can get Deuteronomy 28:48 real quick, and … description. Yeah, not new, and …
 
@@ -638,7 +636,7 @@ Reading from a book of Egyptian images (the book isn't named for this reading), 
 
 - **A brother:** Damn, different, different stuff.
 
-- **The captain:** Completely different style. Look at that. Look at the jewels, the studs and the stones. Is that right? Come on now, dog. Come on, man. All right, now let's get to the next one.
+- **The captain:** Completely different style. Look at that. Look at the jewels, the studs and the stones. Is that right? Come on now, dog. All right, now let's get to the next one.
 
 > Kneeling black captive. Detail of the pillar of Ramses the Third, Dynasty 20, 1198 to 1166 BC.
 
@@ -704,15 +702,15 @@ Reading from the descriptions of Egyptian tomb paintings, read off the images on
 
 > Offering of gold. From Thebes, tomb of Sobekhotep. 18th Dynasty.
 
-- The same dynasty. Now let's go to the next art. Look at that: Negroes right there. Those are Negroes, straight Negroes, right there. Undeniable evidence. Let's go to the next one. Zoom in a little bit. Now you have the taskmaster in the back, and then you have the Negro slaves right in front of them. Look at what they're wearing. It looks like women with babies. Women with babies, children. Basket in the back.
+- The same dynasty. Now let's go to the next art. Look at that: Negroes right there. Those are Negroes, straight Negroes, right there. Undeniable evidence. Let's go to the next one. Now you have the taskmaster in the back, and then you have the Negro slaves right in front of them. Look at what they're wearing. It looks like women with babies. Women with babies, children. Basket in the back.
 
 - **A brother:** Their attire changed too.
 
-- **The captain:** Exactly. That's like, if you look at the difference: they became another Negro type, and it's stylized. Their dress attire changed altogether. Look at the difference between how the ancient Egyptians used to dress, as well as the Israelites. Read that.
+- **The captain:** Exactly. That's like, if you look at the difference: they became another Negro type, and it's stylized. Their dress attire changed altogether. Look at the difference between how the ancient Egyptians used to dress, as well as the Israelites.
 
 > Tribute scene: African women with children. 18th Dynasty. Mural painting, Thebes, necropolis of Sheikh Abd el-Qurna.
 
-- So all of these are from the 18th Dynasty, the dynasty of the Israelites. Our sisters, with the children, the babies. All right, let's go to the next one. Go down a little bit. I want to go to the writing, because it's going to explain. Go to where it says, so in the neighborhood.
+- So all of these are from the 18th Dynasty, the dynasty of the Israelites. Our sisters, with the children, the babies. All right, let's go to the next one. I want to go to the writing, because it's going to explain. Go to where it says, so in the neighborhood.
 
 > So in the neighborhood of 1400 BC, the iconography of the black took shape. From then on, the Egyptian artist depicted the African as dark skinned, with short hair whose kinky curls are frequently indicated by parallel bands. His nose is flattened, his lips are thick.
 
@@ -728,11 +726,11 @@ Reading from the descriptions of Egyptian tomb paintings, read off the images on
 
 - **A brother:** And also, the Most High said that in that time period, due to the fact that later on it was going to change, you know, that's in the future episodes, but you're going to see the change. There's a difference. They're all Negroid. You got the Hamitic dark skin, and you got the Negroes, which are the Israelites. Both dark in complexion, but there is a difference. Even in the captivities, you see the difference with the clothing, with the hairstyles. There is a clear, distinctive difference.
 
-- **The captain:** Exactly. Let's go to the next image. Let's go down. Read that.
+- **The captain:** Exactly. Let's go to the next image. Let's go down.
 
 > The servants carrying golden bars and leopard skins and a giraffe's tail are of a well-defined Negro type. They wear a sort of striped skullcap which has been compared to the wigs worn at present by the Bantus.
 
-- Now let's go to the next one. Wow. So these are all on the Egyptian walls, within the pyramids, of Negro slaves, all over. But they'll never bring this out. All right, let's go to the next one. I think it's the last one. Go to the description.
+- Now let's go to the next one. So these are all on the Egyptian walls, within the pyramids, of Negro slaves, all over. But they'll never bring this out. All right, let's go to the next one. I think it's the last one. Go to the description.
 
 - **A brother:** I think there's something behind that skullcap, but that's something we have to dig into. Because they always had us with a skullcap, and in the Greek captivity. That's where your do-rags came from.
 
@@ -746,7 +744,7 @@ Reading from the descriptions of Egyptian tomb paintings, read off the images on
 
 - **Another brother:** I do have something I want to bring out after you finish.
 
-- **The captain:** Give me Deuteronomy 28:48. And I want you to bring up the image of the two sisters with the yokes of iron. I want to show you the image that's showing the same captivity that we experienced in ancient Egypt. It's the same captivity that we experience in America. Now Moses had to reintroduce some of the curses, right. Some of these curses that we already experienced. Moses said, listen, this is going to come to pass, this is going to happen in the future: the future Egypt. Read that.
+- **The captain:** Give me Deuteronomy 28:48. And I want you to bring up the image of the two sisters with the yokes of iron. I want to show you the image that's showing the same captivity that we experienced in ancient Egypt. It's the same captivity that we experience in America. Now Moses had to reintroduce some of the curses, right. Some of these curses that we already experienced. Moses said, listen, this is going to come to pass, this is going to happen in the future: the future Egypt.
 
 </div>
 
@@ -754,9 +752,9 @@ Reading from the descriptions of Egyptian tomb paintings, read off the images on
 
 > <sup>[48](/bible/deuteronomy/28#v48)</sup> Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
 
-- And he shall put a yoke of iron upon thy neck. We just showed you countless depictions and evidence, images of our ancestors having yokes of iron upon our neck. Can you bring that back up again? That's why we're living in the days of ancient Egypt all over again. This is the spiritual Egypt. Go back to the picture. It's the yoke of iron upon thy neck. And he shall put a what? Read that again. And he shall put a yoke of iron upon thy neck. Give me another image of the yokes of iron upon our neck, and let's read it again. And he shall put a yoke of iron upon thy neck.
+- And he shall put a yoke of iron upon thy neck. We just showed you countless depictions and evidence, images of our ancestors having yokes of iron upon our neck. Can you bring that back up again? That's why we're living in the days of ancient Egypt all over again. This is the spiritual Egypt. Go back to the picture. It's the yoke of iron upon thy neck. And he shall put a what? And he shall put a yoke of iron upon thy neck. Give me another image of the yokes of iron upon our neck, and let's read it again. And he shall put a yoke of iron upon thy neck.
 
-- So now I want you to show me today's images of yokes of iron upon our neck, to show you the parallel between both Egypt. That's why God says this is spiritually Sodom as well as Egypt. Now, yokes of iron upon thy neck. Come on. Enlarge that. Go back, in the bottom far left. Go to the left. Right there. Thank you. You're going to be all right, brothers. Read it again: and he shall put a yoke of iron upon thy neck until he have destroyed them.
+- So now I want you to show me today's images of yokes of iron upon our neck, to show you the parallel between both Egypt. That's why God says this is spiritually Sodom as well as Egypt. Now, yokes of iron upon thy neck. Enlarge that. Go back, in the bottom far left. Go to the left. Right there. You're going to be all right, brothers. Read it again: and he shall put a yoke of iron upon thy neck until he have destroyed them.
 
 - Now you might think that when I say Negroes in Egypt, you think I'm talking about just African Americans alone. Get me the video. So that's why the scholar says that the Negroes were relegated to the same position in ancient Egypt as they are in America. And when we say Negro, it's encompassing all twelve tribes, because we all experienced the same type of servitude in each captivity. Now play that video.
 
@@ -794,7 +792,7 @@ Reading from a video on the Newark Earthworks in Ohio, played on air  *[[1:58:20
 
 > <sup>[1](/bible/isaiah/19#v1)</sup> The burden of Egypt. Behold, the Lord rideth upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it.
 
-- So this is talking about not ancient Egypt, but this is actually talking about the new Egypt, which is America. Read it again. The burden of Egypt: behold, the Lord rideth upon a swift cloud. That's talking about Christ. He rideth upon a swift chariot. Go on. And shall come into Egypt: shall come into America. Go on. And the idols of Egypt shall be moved at his presence: at Christ's coming, in his presence.
+- So this is talking about not ancient Egypt, but this is actually talking about the new Egypt, which is America. The burden of Egypt: behold, the Lord rideth upon a swift cloud. That's talking about Christ. He rideth upon a swift chariot. Go on. And shall come into Egypt: shall come into America. Go on. And the idols of Egypt shall be moved at his presence: at Christ's coming, in his presence.
 
 - Give me Zechariah chapter 13 verse 2. Because Bishop made a statement during Passover last year that America has more gods, and worships more gods, than they of ancient Egypt. They made a god out of everything. They made a god out of a bull. They made a god out of a frog. You have the crocodile god. They made a god out of Mother Nature. Isis, Horus and Set. Everything in Egypt was made as a god. America did the same thing. So when America says In God We Trust, it's not the God of you and I. It's not the God of Abraham, Isaac and Jacob. It's the god of the idols. Get me Zechariah chapter 13.
 
@@ -820,21 +818,19 @@ Reading from an article, "The 30 Best Brands with Greek Mythology Logos and Name
 
 > Would it be crazy to believe that brands inspired by Greek mythology use Greek mythology logos and names in the hope that they will summon the power of the Greek gods?
 
-- Wait, wait, read that again. Come on, let's read that again slowly.
-
 - In the hope that they will summon the power of the Greek gods. That's the whole purpose of naming these Greek, I'll say it: inspired by Greek mythology, use Greek mythology logos and names to summon the power of the Greek gods. That's what all the gods of the nations are: idols. When Christ comes back on the scene, he's going to destroy all of their idols. He's going to remove them out of the way, just like he did in ancient Egypt. And he's doing it today. He's making a mockery by these plagues, and destroying their gods in their mind. Go on.
 
 > Money, prestige and fame will then follow. Well, if you find that hard to believe, you will most likely have a change of opinion after you see all of these amazing brands. Greek myth based brands can be found everywhere, from small businesses to large companies, from consumer products to famous car companies. Some of the most famous brands in the world today have taken their name straight out of Greek mythology: car companies, computer companies, food businesses, and on and on. There are brands named after the Greek gods, and brands linked to various names in Greek mythology. Businesses and products use Greek mythology logos to attract attention even without having a name associated with Greek mythology. For example, the logo could be a trident, such as the striking logo used on Maserati luxurious vehicles. A trident even appears on labels for sauce bottles, as you will soon see.
 
-- But we go by our everyday living not paying attention to these things. Because why? We've been assimilating to Greek culture, or America, ancient Egyptian culture, and we turn a blind side. Because now we're coming to the truth, our eyes being opened to the truth of things. But think about it: we're just coming across certain things that we've been accustomed to. It's been a part of our social norm, and it's been normalized in society, that we don't even think to do some research. Man, wait a minute, let me see what association does it have with ancient Egyptian history. Remember, America is a conglomerate of all ancient cultures packaged in one, called the United States. Right. That's what America is, the United States. United States of Babylon. Babylon the great, the land of great confusion, bringing all nations and cultures and languages together as one, bringing all gods and customs and laws together as one. Right. That's how they're able to have you in a trick bag. You think you found one Caesar? Oh no, they said, we got ten different, a hundred other different gods that you're worshipping that you don't even know. Your cell phone, the shows you watch, the heroes that you look at. Go on.
+- But we go by our everyday living not paying attention to these things. Because why? We've been assimilating to Greek culture, or America, ancient Egyptian culture, and we turn a blind side. Because now we're coming to the truth, our eyes being opened to the truth of things. But think about it: we're just coming across certain things that we've been accustomed to. It's been a part of our social norm, and it's been normalized in society, that we don't even think to do some research. Man, wait a minute, let me see what association does it have with ancient Egyptian history. Remember, America is a conglomerate of all ancient cultures packaged in one, called the United States. That's what America is, the United States. United States of Babylon. Babylon the great, the land of great confusion, bringing all nations and cultures and languages together as one, bringing all gods and customs and laws together as one. That's how they're able to have you in a trick bag. You think you found one Caesar? Oh no, they said, we got ten different, a hundred other different gods that you're worshipping that you don't even know. Your cell phone, the shows you watch, the heroes that you look at. Go on.
 
 > Some of the best companies in the world make use of Greek mythology. The big one, of course, is Nike.
 
-- The big one, of course, is Nike. Go down.
+- The big one, of course, is Nike.
 
 > Number one, Goodyear. The winged foot logo you can see between Goodyear is actually the winged foot of Hermes, the Greek god of travelers, to represent the entire company.
 
-- Oh, your Goodyear tires. You never knew that. You just thought you was buying tires. Dang. Goodyear, the Greek god Hermes. Go on. Go down.
+- Oh, your Goodyear tires. You never knew that. You just thought you was buying tires. Dang. Goodyear, the Greek god Hermes. Go on.
 
 > Number two, Ajax. Ajax was one of the heroes in Greek mythology who took part in the Trojan War. He was considered second only to the Greek hero Achilles in strength and bravery.
 
@@ -848,11 +844,7 @@ Reading from an article, "The 30 Best Brands with Greek Mythology Logos and Name
 
 > Number three, Golden Fleece. Jason and the Argonauts went in search of the mysterious golden fleece in Greek mythology.
 
-- Go down.
-
 > Venus. Having a brand name after a Greek goddess is a no-brainer. So a useful product named after Venus, the goddess of love and beauty, is going to attract quite a bit of attention, especially from women.
-
-- Go down.
 
 > Pegasus. Pegasus is the flying horse from Greek mythology.
 
@@ -860,7 +852,7 @@ Reading from an article, "The 30 Best Brands with Greek Mythology Logos and Name
 
 > Pandora. Pandora is the all-gifted woman in Greek mythology. She also happens to be the first human woman created by Hephaestus on the instructions of Zeus.
 
-- The music that you listen to, Pandora. Go down.
+- The music that you listen to, Pandora.
 
 > Olympic Games. The Olympic Games began in ancient Greece, so the Olympic flame lighting ceremony always starts at the archaeological site at Olympia, in the western part of the Peloponnese.
 
@@ -876,11 +868,9 @@ Reading from an article, "The 30 Best Brands with Greek Mythology Logos and Name
 
 > The Trojan War had it all, including Helen of Troy, a wooden horse and Cassandra. The condom brand is obviously trying to keep a Trojan safe behind a wall of rubber, or could it be that the consumer product brand is doing his best to stop the Greeks from getting inside the impenetrable walls?
 
-- Go down.
-
 > Mercury car. Hermes, otherwise known as Mercury, is a Greek and Roman god.
 
-- Mercury car, the Grand Marquis. Go down.
+- Mercury car, the Grand Marquis.
 
 - **A brother:** Y'all love that car too. Damn. I worked with the Grand Marquis. We got to push that in the river.
 
@@ -888,19 +878,13 @@ Reading from an article, "The 30 Best Brands with Greek Mythology Logos and Name
 
 > Nike. The most famous sporting brand of all time is named after Nike, the Greek goddess of victory. Just do it. Phil Knight founded Nike in the '60s. Incredibly, the famous logo is one of the cheapest designs of all time, considering the huge payback, as he only paid 35 dollars for the famous Nike swoosh logo.
 
-- Only 35, but he makes billions. Jesus. He went to a college student. But what did they do? They conjured up the ancient gods. And he was inspired to name it that because he had went to Greece and visited the temple. Wow. A temple of Nike. So he conjured his gods, his ancestors. Go on.
+- Only 35, but he makes billions. Jesus. He went to a college student. But what did they do? They conjured up the ancient gods. And he was inspired to name it that because he had went to Greece and visited the temple. A temple of Nike. So he conjured his gods, his ancestors. Go on.
 
 > Before Nike, it was called Blue Ribbon Sports, which proves that rebranding to the name of a Greek goddess can perform miracles.
 
-- Wow. Go down.
-
 > Olympus camera. The 12 Greek gods were said to live on Mount Olympus, the highest mountain in Greece. This is where a lot of the magic happened.
 
-- Go down.
-
 > NASA Apollo 13 mission. The Apollo 13 commander, Jim Lovell, sketched the Greek god Apollo driving his chariot across the sky while dragging the sun. He then gave the ideal to another artist, who came up with the three horse design. It symbolized Apollo riding across the sky towards the moon.
-
-- Go down.
 
 > Versace, Medusa. Medusa was the snake-haired Gorgon who turned anyone who dared to look at her...
 
@@ -908,7 +892,7 @@ Reading from an article, "The 30 Best Brands with Greek Mythology Logos and Name
 
 > Atlassian. That's a famous computer software program. Atlas, the Titan, held up the heavens in Greek mythology.
 
-- Now go down. Look at this logo. Go to the logo. Wow. Go up.
+- Now go down. Look at this logo. Go to the logo.
 
 > Starbucks. Sirens from Greek mythology lured sailors to their death. The Starbucks logo has been confirmed as a siren by Starbucks. Details about the siren logo have been taken from Starbucks Stories and News website. Here's an extract.
 
@@ -916,11 +900,9 @@ Reading from an article, "The 30 Best Brands with Greek Mythology Logos and Name
 
 - **A brother:** I said I want to get some Hebrew Israelite … I talk about mermaids, some books about mermaids' existence. Sirens. Yeah, I heard about that.
 
-- **The captain:** Go down.
-
 > Greek mythology medical logo. The symbol of medicine, the caduceus, is in the staff of Mercury, the Roman god of liars.
 
-- Damn. Wow. Wait, wait, read it again. Read it again. Give me Job 13:6. Read it again slowly. I want to show you something.
+- Damn. Give me Job 13:6. I want to show you something.
 
 - The caduceus is in the staff of Mercury, the Roman god of liars. Let's read that, Job chapter 13 verse 6.
 
@@ -958,15 +940,15 @@ Reading from "The 30 Best Brands with Greek Mythology Logos and Names", continue
 
 - **A brother:** That's why our wives are always having their packages in the Amazon basket every day. Shopping cart every single day.
 
-- **The captain:** Now Hermes. Okay, I've never heard of that. Keep going.
+- **The captain:** Now Hermes. Okay, I've never heard of that.
 
 > Prometheus Entertainment. Agree that this entertainment brand is based on the Greek myth of Prometheus. You can even see a flame rising above the letter M. Prometheus gave fire to the people, whereas this brand brought entertainment to the people.
 
-- Go down. What the hell? Read it.
+- What the hell?
 
 > Believe it or not, Asus is derived from Pegasus, the wings, from Greek mythology.
 
-- Wow. So Asus derives from Pegasus. Go down.
+- So Asus derives from Pegasus.
 
 > The Asus logo is even meant to be shaped like Pegasus. In Greek mythology, Pegasus symbolized wisdom and knowledge.
 
@@ -982,7 +964,7 @@ Reading from "The 30 Best Brands with Greek Mythology Logos and Names", continue
 
 > Perseus. Perseus Books Group.
 
-- Okay, go down. Nobody reads that. Nobody cares about that. That's it. All right. Now go to the superheroes. We're just about done.
+- Nobody reads that. Nobody cares about that. That's it. Now go to the superheroes. We're just about done.
 
 > Top 15 superheroes inspired from Greek mythology and comics.
 
@@ -990,11 +972,9 @@ Reading from "The 30 Best Brands with Greek Mythology Logos and Names", continue
 
 - **A brother:** Can I say one thing? I apologize. The majority of these kids coming here in the school with a Spider-Man figurine and other so-called superheroes. We're training them to worship these guys, and they're playing with them in the school. So maybe we need to make some toys of King David. That's what we need to do. I can't do it, I don't have the skill set, but that's a message for those of you brothers and sisters that have a skill set.
 
-- **The captain:** So he made a suggestion: our kids aspire, or look up, to these superheroes that are actually ancient Greek or Egyptian gods. So rather than our kids. Now I understand kids like to be entertained. They like stuff like that, superheroes and things like that. Even us, we watch it. *Justice League*, we watch Superman, because it's entertaining. Right. So what we can do is, little by little, in increments, start introducing, like you said, these toys. King David. Black dolls. And we're starting to do it. So we understand. It takes time, and it's a process. So little by little, those that got that talent, that artistic ability, see if you could do it. Let's aspire to make brands to shape them after our biblical forefathers. Right. So that kids think, oh, I got King David.
+- **The captain:** So he made a suggestion: our kids aspire, or look up, to these superheroes that are actually ancient Greek or Egyptian gods. So rather than our kids. Now I understand kids like to be entertained. They like stuff like that, superheroes and things like that. Even us, we watch it. *Justice League*, we watch Superman, because it's entertaining. So what we can do is, little by little, in increments, start introducing, like you said, these toys. King David. Black dolls. And we're starting to do it. So we understand. It takes time, and it's a process. So little by little, those that got that talent, that artistic ability, see if you could do it. Let's aspire to make brands to shape them after our biblical forefathers. So that kids think, oh, I got King David.
 
 - **A brother:** Oh yeah. And the young girls going to have Judith dolls.
-
-- **The captain:** Wow.
 
 - **Another brother:** We got to have one of Christ. The first one got to be of Christ.
 
@@ -1002,7 +982,7 @@ Reading from "The 30 Best Brands with Greek Mythology Logos and Names", continue
 
 - **A brother:** Remember, images mean a lot, and that's how you know we worship them. There's a barbershop I went to around my way, and on their walls they have hundreds and hundreds of toy figures of the Justice League and all that. They got posters. I'm looking, I'm like, why is it all on the wall? All around, four corners of the wall, hundreds of toys of these superheroes. Those are the guys that they worship, and they put it on their wall.
 
-- **The captain:** Damn. Go on. Let's see the superheroes. Go down.
+- **The captain:** Damn. Go on. Let's see the superheroes.
 
 > The top 15 superheroes inspired from Greek mythology and comics: Aphrodite, Artemis, Hippolyta, Hercules, Ares, Iron Man, Iron Man, Hades, Poseidon, Nike, Zeus, Wonder Woman, Superman, Aquaman, Thor and Black Bolt. And also you have Batman.
 
@@ -1016,9 +996,9 @@ Reading from "The 30 Best Brands with Greek Mythology Logos and Names", continue
 
 *[[2:32:20](https://www.youtube.com/watch?v=GXNEH-m-9gc&t=9140s)]* So we're going to end it on that note. All right, Israel. So that's actually going to conclude a chapter of Negro history in ancient Greece. So if you didn't know, if you didn't understand, if you weren't inclined to this type of information, now you know. So you can present it to any Egyptologist, as well as anybody within the community. You could bring up these books, show them the Bible, the scripture: that the Israelites, or Negroes, were always slaves, subjugated to a position of servitude. But they weren't the pharaohs. They weren't your King Tuts. They weren't your Ramses. They weren't your Moses. They weren't your Nefertiti. These are not our forefathers and foremothers. These were our slave owners, and we were the slaves, placed in the same position. So it's important, it's imperative, brothers and sisters, that we study to read. That's why Our Hidden History show is to reveal the lies and the mystery of our history.
 
-**The host:** All right. Hey, let's give cap a round of applause for an excellent class. Shout out to the cast. Shout out to IT. The kitchen team, thank you, sisters. Leadership giving hiccups during the class, that's how you know the meal was good. All right, so we're going to get into the announcements.
+**The host:** Hey, let's give cap a round of applause for an excellent class. The kitchen team, thank you, sisters. Leadership giving hiccups during the class, that's how you know the meal was good. All right, so we're going to get into the announcements.
 
-*[[2:35:52](https://www.youtube.com/watch?v=GXNEH-m-9gc&t=9352s)]* **The host:** I'll give a shout out to the recording artist. All right, that's it, Israel. We say shalom. See you next week.
+*[[2:35:52](https://www.youtube.com/watch?v=GXNEH-m-9gc&t=9352s)]* **The host:** All right, that's it, Israel. We say shalom. See you next week.
 
 ## Announcements & References
 

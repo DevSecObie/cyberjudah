@@ -92,12 +92,12 @@ The scholars on Revelation.
 **[Matthew 24:7-8](/bible/matthew/24#v7)**  *[[25:57](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=1557s)]*
 
 > <sup>[7](/bible/matthew/24#v7)</sup> For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.
->
-> <sup>[8](/bible/matthew/24#v8)</sup> All these are the beginning of sorrows.
 
 - For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places. So we see these things happening. Nations rising up against nations. Kingdoms rising up against kingdoms. That is what you see taking place right now. And earthquakes. Where? In divers places. Different places, all over. So Christ said, before I return, one of the signs you have to look for is there will be wars. And guess what, there will be a lot of earthquakes taking place.
 
 - All these are the beginning of sorrows. Brothers and sisters, the time we are living in, you see the earthquakes taking place in divers places, we are living in the beginning of sorrows. There are much sorrows coming on this earth. Much plagues and disaster and destruction and death is coming to this earth, and the time we are living in is the beginning of it. What does it mean by the beginning? It means that it is going to get worse, and it is going to intensify. The earthquakes, the wars, the pestilence, the famine, it is going to increase and it is going to get worse. That is why it says we are living in the beginning of it. Do not be in la la land.
+
+> <sup>[8](/bible/matthew/24#v8)</sup> All these are the beginning of sorrows.
 
 **[2 Peter 1:20-21](/bible/2-peter/1#v20)**  *[[40:20](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=2420s)]*
 
@@ -114,8 +114,6 @@ The scholars on Revelation.
 **[1 John 2:18-19](/bible/1-john/2#v18)**  *[[43:06](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=2586s)]*
 
 > <sup>[18](/bible/1-john/2#v18)</sup> Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time.
->
-> <sup>[19](/bible/1-john/2#v19)</sup> They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us: but they went out, that they might be made manifest that they were not all of us.
 
 - Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time. So John said that the antichrist shall come. Right now John is the only person that refers to an entity as the antichrist. Peter did not call anyone the antichrist. None of the prophets mention antichrist. When you go into the Bible, John is the only one that you are going to read about that mentions a system or a person and calls him the antichrist.
 
@@ -130,6 +128,8 @@ The scholars on Revelation.
     > <sup>[5](/bible/acts/15#v5)</sup> But there rose up certain of the sect of the Pharisees which believed, saying, That it was needful to circumcise them, and to command them to keep the law of Moses.
 
     But there rose up certain of the sect of the Pharisees which believed, saying, That it was needful to circumcise them, and to command them to keep the law of Moses. That is the history it goes back to.
+
+> <sup>[19](/bible/1-john/2#v19)</sup> They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us: but they went out, that they might be made manifest that they were not all of us.
 
 **[Acts 4:23-29](/bible/acts/4#v23)**  *[[46:50](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=2810s)]*
 
@@ -190,14 +190,14 @@ The scholars on Revelation.
 **[1 John 4:1-3](/bible/1-john/4#v1)**  *[[1:08:14](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=4094s)]*
 
 > <sup>[1](/bible/1-john/4#v1)</sup> Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.
->
-> <sup>[2](/bible/1-john/4#v2)</sup> Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God:
->
-> <sup>[3](/bible/1-john/4#v3)</sup> And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof ye have heard that it should come; and even now already is it in the world.
 
 - Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world. Do not believe every spirit. Try the spirits to see if they are of God. There are many false prophets in this world.
 
+> <sup>[2](/bible/1-john/4#v2)</sup> Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God:
+
 - Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God.
+
+> <sup>[3](/bible/1-john/4#v3)</sup> And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof ye have heard that it should come; and even now already is it in the world.
 
 - And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof ye have heard that it should come; and even now already is it in the world. If you do not confess that Jesus Christ came in the flesh, you are not of God.
 
@@ -387,23 +387,15 @@ The scholars on Revelation.
 
 **[Revelation 13:1-7](/bible/revelation/13#v1)**  *[[2:02:54](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=7374s)]*
 
+- And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy. This beast is the same beast we keep reading about. If anybody worships the beast and his image, it is talking about Europe. It is talking about white people. They are the fourth beast. The last kingdom to rule this earth is that antichrist, and that last kingdom is going to fight against Christ when he returns. Europe and America are against Christ, and they will fight against him, and he will destroy them.
+
+- The seven heads and ten horns goes into its governments, different nations that rose up amongst them. And upon his heads the name of blasphemy: every one of his heads blasphemed God. Portugal, all of them push that Western Christian garbage. Jesus Christ is white. They all colonised us and enslaved us. So it says on all of their heads is blasphemy, meaning lies.
+
 > <sup>[1](/bible/revelation/13#v1)</sup> And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
 >
 > <sup>[2](/bible/revelation/13#v2)</sup> And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority.
 >
 > <sup>[3](/bible/revelation/13#v3)</sup> And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast.
->
-> <sup>[4](/bible/revelation/13#v4)</sup> And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who is like unto the beast? who is able to make war with him?
->
-> <sup>[5](/bible/revelation/13#v5)</sup> And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months.
->
-> <sup>[6](/bible/revelation/13#v6)</sup> And he opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven.
->
-> <sup>[7](/bible/revelation/13#v7)</sup> And it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations.
-
-- And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy. This beast is the same beast we keep reading about. If anybody worships the beast and his image, it is talking about Europe. It is talking about white people. They are the fourth beast. The last kingdom to rule this earth is that antichrist, and that last kingdom is going to fight against Christ when he returns. Europe and America are against Christ, and they will fight against him, and he will destroy them.
-
-- The seven heads and ten horns goes into its governments, different nations that rose up amongst them. And upon his heads the name of blasphemy: every one of his heads blasphemed God. Portugal, all of them push that Western Christian garbage. Jesus Christ is white. They all colonised us and enslaved us. So it says on all of their heads is blasphemy, meaning lies.
 
 - And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast. His deadly wound was healed: it is talking about Rome. Rome came back in the 1400s. Rome fell and Rome came back in the 1400s. That is the wound being healed. And when Rome came back into power, they started conquering, they started erasing all the dark images, and they started enslaving the Israelites and destroying our nationality, our history of who we are.
 
@@ -412,6 +404,14 @@ The scholars on Revelation.
 - And they worshipped the beast, saying, Who is like unto the beast? who is able to make war with him? There is nobody like the white man. Why is nobody able to make war with him? Because Satan gave him power to create guns and weapons where nobody could fight against the white man. He will drop an atomic bomb and destroy you.
 
 - And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months. And he opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven. And he blasphemed those of us that dwell in heaven, the angels.
+
+> <sup>[4](/bible/revelation/13#v4)</sup> And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who is like unto the beast? who is able to make war with him?
+>
+> <sup>[5](/bible/revelation/13#v5)</sup> And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months.
+>
+> <sup>[6](/bible/revelation/13#v6)</sup> And he opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven.
+>
+> <sup>[7](/bible/revelation/13#v7)</sup> And it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations.
 
 - And it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations. So he made war with us and he overcame us. This is going into colonisation and slavery. That is the war that he made with us. He came and he conquered us and enslaved us and started pushing his Christianity lies on the earth. He had to conquer us, make war with us, before he could push that lie that he is a Jew and he is the people of God and he is Christian. Slavery was not a coincidence. Slavery was war.
 
@@ -552,10 +552,10 @@ Reading from *Bible Hub*, the translations of Isaiah 14:12  *[[2:19:10](https://
 **[Isaiah 14:9-10](/bible/isaiah/14#v9)**  *[[2:31:23](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=9083s)]*
 
 > <sup>[9](/bible/isaiah/14#v9)</sup> Hell from beneath is moved for thee to meet thee at thy coming: it stirreth up the dead for thee, even all the chief ones of the earth; it hath raised up from their thrones all the kings of the nations.
->
-> <sup>[10](/bible/isaiah/14#v10)</sup> All they shall speak and say unto thee, Art thou also become weak as we? art thou become like unto us?
 
 - Hell from beneath is moved for thee to meet thee at thy coming: it stirreth up the dead for thee, even all the chief ones of the earth; it hath raised up from their thrones all the kings of the nations. This is letting you know how Lucifer is going to be destroyed. How is America going to be cut down to the ground? It stirreth up the dead for thee, even all the chief ones of the earth, the chief ones of the earth is talking about the kings of the earth. It hath raised up from their thrones all the kings of the nations. So all the kings of the nations are going to rise up against Lucifer to destroy him. Lucifer is who? America. Which is who? The antichrist. The fourth beast. The son of perdition.
+
+> <sup>[10](/bible/isaiah/14#v10)</sup> All they shall speak and say unto thee, Art thou also become weak as we? art thou become like unto us?
 
 **[Daniel 12:1](/bible/daniel/12#v1)**  *[[2:33:02](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=9182s)]*
 
@@ -566,14 +566,14 @@ Reading from *Bible Hub*, the translations of Isaiah 14:12  *[[2:19:10](https://
 **[Revelation 12:7-9](/bible/revelation/12#v7)**  *[[2:33:54](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=9234s)]*
 
 > <sup>[7](/bible/revelation/12#v7)</sup> And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels,
->
-> <sup>[8](/bible/revelation/12#v8)</sup> And prevailed not; neither was their place found any more in heaven.
->
-> <sup>[9](/bible/revelation/12#v9)</sup> And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.
 
 - And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels. So when it says there was war in heaven, it is talking about war where? It is not talking about war in the sky. That is what Christians use to say, oh, Lucifer was fighting with God and his angels. No. It is going into all nations fighting with each other. This is the time of trouble. This is Daniel, the same thing we just read. Michael and his angels fought against the dragon. Who is the dragon that is fighting? It is talking about Lucifer. It is talking about America and Europe. And his angels, meaning his armies.
 
 - And prevailed not; neither was their place found any more in heaven. They did not win against Michael and the angels. When Christ returns, Michael and the angels are going to fight against the white man and his army. Neither was their place found any more in heaven: they did not have any rulership any more on this earth. That is what it is going into. Not that they are fighting up in the sky.
+
+> <sup>[8](/bible/revelation/12#v8)</sup> And prevailed not; neither was their place found any more in heaven.
+>
+> <sup>[9](/bible/revelation/12#v9)</sup> And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.
 
 - And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him. Who deceived the world is not just a spiritual demon. This is his children. The white man, Edom, Lucifer, that transformed himself into an angel of light.
 
@@ -598,20 +598,20 @@ Reading from *Bible Hub*, the translations of Isaiah 14:12  *[[2:19:10](https://
 **[Isaiah 34:1-5](/bible/isaiah/34#v1)**  *[[2:38:12](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=9492s)]*
 
 > <sup>[1](/bible/isaiah/34#v1)</sup> Come near, ye nations, to hear; and hearken, ye people: let the earth hear, and all that is therein; the world, and all things that come forth of it.
->
-> <sup>[2](/bible/isaiah/34#v2)</sup> For the indignation of the Lord is upon all nations, and his fury upon all their armies: he hath utterly destroyed them, he hath delivered them to the slaughter.
->
-> <sup>[3](/bible/isaiah/34#v3)</sup> Their slain also shall be cast out, and their stink shall come up out of their carcases, and the mountains shall be melted with their blood.
->
-> <sup>[4](/bible/isaiah/34#v4)</sup> And all the host of heaven shall be dissolved, and the heavens shall be rolled together as a scroll: and all their host shall fall down, as the leaf falleth off from the vine, and as a falling fig from the fig tree.
->
-> <sup>[5](/bible/isaiah/34#v5)</sup> For my sword shall be bathed in heaven: behold, it shall come down upon Idumea, and upon the people of my curse, to judgment.
 
 - Come near, ye nations, to hear; and hearken, ye people: let the earth hear, and all that is therein; the world, and all things that come forth of it. For the indignation of the Lord is upon all nations, and his fury upon all their armies: he hath utterly destroyed them, he hath delivered them to the slaughter. The indignation, the anger of the Lord, is upon all nations. And his fury upon all their armies. Their armies goes into Revelation. It is called their armies, but their angels. The Lord will utterly destroy them. He is going to slaughter them.
 
 - Their slain also shall be cast out, and their stink shall come up out of their carcases, and the mountains shall be melted with their blood.
 
+> <sup>[2](/bible/isaiah/34#v2)</sup> For the indignation of the Lord is upon all nations, and his fury upon all their armies: he hath utterly destroyed them, he hath delivered them to the slaughter.
+>
+> <sup>[3](/bible/isaiah/34#v3)</sup> Their slain also shall be cast out, and their stink shall come up out of their carcases, and the mountains shall be melted with their blood.
+>
+> <sup>[4](/bible/isaiah/34#v4)</sup> And all the host of heaven shall be dissolved, and the heavens shall be rolled together as a scroll: and all their host shall fall down, as the leaf falleth off from the vine, and as a falling fig from the fig tree.
+
 - And all the host of heaven shall be dissolved, and the heavens shall be rolled together as a scroll: and all their host shall fall down, as the leaf falleth off from the vine, and as a falling fig from the fig tree.
+
+> <sup>[5](/bible/isaiah/34#v5)</sup> For my sword shall be bathed in heaven: behold, it shall come down upon Idumea, and upon the people of my curse, to judgment.
 
 - For my sword shall be bathed in heaven: behold, it shall come down upon Idumea, and upon the people of my curse, to judgment. So God says his sword shall be bathed in heaven. Is this heaven talking about paradise? No. This heaven is talking about the governments of this world. So he says my sword shall be bathed in heaven, and it is going to be distinct and let you know who the heaven is and who the dragon is that we are reading about in Revelation 12. Behold, it shall come down upon Idumea, and upon the people of my curse. The people of his curse, meaning the son of perdition, the sons of destruction.
 

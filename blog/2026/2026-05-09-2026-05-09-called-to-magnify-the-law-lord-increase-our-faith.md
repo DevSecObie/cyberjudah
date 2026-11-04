@@ -2,7 +2,7 @@
 title: "CALLED TO MAGNIFY THE LAW: LORD INCREASE OUR FAITH"
 slug: "2026/2026-05-09-called-to-magnify-the-law-lord-increase-our-faith"
 date: "2026-05-09"
-teacher: ""
+teacher: "Captain Tazayawan"
 description: "IUIC in the ClassRoom · 2026-05-09"
 tags: ["IUIC in the ClassRoom", "endurance", "faith", "prayer", "the-law", "the-word"]
 ---
@@ -24,19 +24,23 @@ The topic of today's class is going into faith. But not just faith: why we are c
 **[2 Corinthians 13:1-5](/bible/2-corinthians/13#v1)**  *[[07:41](https://www.youtube.com/watch?v=WzA8Ub2DhXk&t=461s)]*
 
 > <sup>[1](/bible/2-corinthians/13#v1)</sup> This is the third time I am coming to you. In the mouth of two or three witnesses shall every word be established.
->
+
+- In the mouth of two or three witnesses shall every word be established: which is the law. Paul was in the spirit of Christ, explaining that all the things he speaks of, he is strong in Christ, strong in the power of the Lord.
+
 > <sup>[2](/bible/2-corinthians/13#v2)</sup> I told you before, and foretell you, as if I were present, the second time; and being absent now I write to them which heretofore have sinned, and to all other, that, if I come again, I will not spare:
 >
 > <sup>[3](/bible/2-corinthians/13#v3)</sup> Since ye seek a proof of Christ speaking in me, which to you-ward is not weak, but is mighty in you.
 >
 > <sup>[4](/bible/2-corinthians/13#v4)</sup> For though he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you.
->
+
+- For we also are weak in him: this mortal body has down times. We are not immortal yet, so Christ is here to maintain and build our faith. When we are at our weakest, that is when Christ is strong within us. As times get hard, we have an advocate with the Father, Jesus Christ the righteous. Paul understood that Christ is his source.
+
+- Examine yourselves, whether ye be in the faith; prove your own selves. We always have to look at that man or that sister in the mirror and measure your mind and your spirit against the scriptures. Teaching this class, I know I have a lot to work on; we all do. Take the oversight in the spirit of humility, because we must prepare our souls for the temptation to come. The Lord did not call you by mistake; he chose you. So when we are called, we must prove God to be right on the earth.
+
 > <sup>[5](/bible/2-corinthians/13#v5)</sup> Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?
 
-- In the mouth of two or three witnesses shall every word be established: which is the law. Paul was in the spirit of Christ, explaining that all the things he speaks of, he is strong in Christ, strong in the power of the Lord.
-- For we also are weak in him: this mortal body has down times. We are not immortal yet, so Christ is here to maintain and build our faith. When we are at our weakest, that is when Christ is strong within us. As times get hard, we have an advocate with the Father, Jesus Christ the righteous. Paul understood that Christ is his source.
-- Examine yourselves, whether ye be in the faith; prove your own selves. We always have to look at that man or that sister in the mirror and measure your mind and your spirit against the scriptures. Teaching this class, I know I have a lot to work on; we all do. Take the oversight in the spirit of humility, because we must prepare our souls for the temptation to come. The Lord did not call you by mistake; he chose you. So when we are called, we must prove God to be right on the earth.
 - Prove your own selves: a lot of times we have self-doubt, but there is a level of confidence we must build to endure until the end. If you are in sin, just repent. If you are feeling depressed and down and out, the cure is not going out or only talking to a friend; the cure is building your spirit up in the face of these words.
+
 - How can you be in the truth and deny the truth? How can you be in the truth and want to continue as a whoremonger, a thief, a liar, deceitful? The truth is supposed to expose those things within us so we can examine ourselves and be closer to God. No temptation that we go through is uncommon to man, but the Lord is going to give you a way to escape.
 
 **[Romans 10:17](/bible/romans/10#v17)**  *[[13:49](https://www.youtube.com/watch?v=WzA8Ub2DhXk&t=829s)]*
@@ -49,11 +53,12 @@ The topic of today's class is going into faith. But not just faith: why we are c
 **[2 Esdras 7:69-70](/bible/2-esdras/7#v69)**  *[[16:02](https://www.youtube.com/watch?v=WzA8Ub2DhXk&t=962s)]*
 
 > <sup>[69](/bible/2-esdras/7#v69)</sup> And being judge, if he should not forgive them that are cured with his word, and put out the multitude of contentions,
->
-> <sup>[70](/bible/2-esdras/7#v70)</sup> There should be very few left peradventure in an innumerable multitude.
 
 - Them that are cured with his word: what cures our depression? His word. What cures our anger? His word. What cures our unbelief, or us not thinking we have a purpose in life? His word.
+
 - When we compare and examine our spirit with this Bible, you see yourself: I am right there in Isaiah, I am right there in Jeremiah, I am going through that. How do I overcome it? That builds your spirit up to endure and overcome. The Most High is genius enough to write your history and your life in this book, and only you are going to understand it. Being called to magnify God's law is no coincidence; the Lord chose you to make sure the earth knows that God is real.
+
+> <sup>[70](/bible/2-esdras/7#v70)</sup> There should be very few left peradventure in an innumerable multitude.
 
 **[Ecclesiasticus 21:11](/bible/sirach/21#v11)**  *[[19:21](https://www.youtube.com/watch?v=WzA8Ub2DhXk&t=1161s)]*
 
@@ -83,6 +88,10 @@ The topic of today's class is going into faith. But not just faith: why we are c
 
 **[Psalms 19:1-7](/bible/psalms/19#v1)**  *[[26:32](https://www.youtube.com/watch?v=WzA8Ub2DhXk&t=1592s)]*
 
+- The heavens declare the glory of God, and the firmament sheweth his handywork. You have the sun, the moon, the stars; outside the firmament you cannot breathe. How does the sun stay ablaze permanently where there is no oxygen? There must be a God. Nobody on this earth can make a star; you cannot even reach it, but people want to worship it. And with all this, if you know God is real, how much more should you realize him in your conversation and your actions of not sinning?
+
+- There is no speech nor language where their voice is not heard. From Genesis, when languages were confused, God's laws were not negated. In Acts 2, Israel and the nations heard in the languages of the lands, and God's laws remained the same. Thou shalt not kill means the same thing in every language and in every place; we just came from Malawi, and the commandment is the same in Chichewa. God's laws are magnified in all places, and the Lord opened our ears for us to go out and preach his gospel throughout the whole planet earth. We are fulfilling those things we read in the scriptures right now.
+
 > <sup>[1](/bible/psalms/19#v1)</sup> The heavens declare the glory of God; and the firmament sheweth his handywork.
 >
 > <sup>[2](/bible/psalms/19#v2)</sup> Day unto day uttereth speech, and night unto night sheweth knowledge.
@@ -90,18 +99,18 @@ The topic of today's class is going into faith. But not just faith: why we are c
 > <sup>[3](/bible/psalms/19#v3)</sup> There is no speech nor language, where their voice is not heard.
 >
 > <sup>[4](/bible/psalms/19#v4)</sup> Their line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun,
->
+
+- Their line is gone out through all the earth: our line, our lineage, our legacy, your teaching, the works that you put in for this gospel's sake.
+
+- In them hath he set a tabernacle for the sun, which is as a bridegroom coming out of his chamber, and rejoiceth as a strong man to run a race. That is when the Lord says, well done, my good and faithful servant: you are a vessel made for honor, because you fulfilled the purpose he created you for.
+
+- The law of the Lord is perfect, converting the soul. Why is the law perfect? Because God's laws are his ways, his habits, and he gave them unto his children. Converting us from darkness into light, from the power of Satan unto the power of God, for the salvation and redemption of our souls. The testimony of the Lord is sure, making wise the simple: we were simple, and now we have come back to understanding that we are Israel.
+
 > <sup>[5](/bible/psalms/19#v5)</sup> Which is as a bridegroom coming out of his chamber, and rejoiceth as a strong man to run a race.
 >
 > <sup>[6](/bible/psalms/19#v6)</sup> His going forth is from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof.
 >
 > <sup>[7](/bible/psalms/19#v7)</sup> The law of the Lord is perfect, converting the soul: the testimony of the Lord is sure, making wise the simple.
-
-- The heavens declare the glory of God, and the firmament sheweth his handywork. You have the sun, the moon, the stars; outside the firmament you cannot breathe. How does the sun stay ablaze permanently where there is no oxygen? There must be a God. Nobody on this earth can make a star; you cannot even reach it, but people want to worship it. And with all this, if you know God is real, how much more should you realize him in your conversation and your actions of not sinning?
-- There is no speech nor language where their voice is not heard. From Genesis, when languages were confused, God's laws were not negated. In Acts 2, Israel and the nations heard in the languages of the lands, and God's laws remained the same. Thou shalt not kill means the same thing in every language and in every place; we just came from Malawi, and the commandment is the same in Chichewa. God's laws are magnified in all places, and the Lord opened our ears for us to go out and preach his gospel throughout the whole planet earth. We are fulfilling those things we read in the scriptures right now.
-- Their line is gone out through all the earth: our line, our lineage, our legacy, your teaching, the works that you put in for this gospel's sake.
-- In them hath he set a tabernacle for the sun, which is as a bridegroom coming out of his chamber, and rejoiceth as a strong man to run a race. That is when the Lord says, well done, my good and faithful servant: you are a vessel made for honor, because you fulfilled the purpose he created you for.
-- The law of the Lord is perfect, converting the soul. Why is the law perfect? Because God's laws are his ways, his habits, and he gave them unto his children. Converting us from darkness into light, from the power of Satan unto the power of God, for the salvation and redemption of our souls. The testimony of the Lord is sure, making wise the simple: we were simple, and now we have come back to understanding that we are Israel.
 
 **[Job 36:6](/bible/job/36#v6)**  *[[35:58](https://www.youtube.com/watch?v=WzA8Ub2DhXk&t=2158s)]*
 
@@ -228,6 +237,7 @@ The topic of today's class is going into faith. But not just faith: why we are c
 > <sup>[21](/bible/job/1#v21)</sup> And said, Naked came I out of my mother’s womb, and naked shall I return thither: the Lord gave, and the Lord hath taken away; blessed be the name of the Lord.
 
 - Naked came I out of my mother's womb, and naked shall I return thither: the Lord gave, and the Lord hath taken away; blessed be the name of the Lord. In all this Job sinned not, nor charged God foolishly.
+
 - Job lost children, lost wealth, had boils and sickness upon him, and he endured all of it to glorify and magnify the Lord. Job was called to prove that God is real. That is the mindset we must have in the process of building our faith.
 
 **[Romans 5:3-5](/bible/romans/5#v3)**  *[[1:31:34](https://www.youtube.com/watch?v=WzA8Ub2DhXk&t=5494s)]*
@@ -292,15 +302,18 @@ The topic of today's class is going into faith. But not just faith: why we are c
 **[Hebrews 11:8-10](/bible/hebrews/11#v8)**  *[[1:48:40](https://www.youtube.com/watch?v=WzA8Ub2DhXk&t=6520s)]*
 
 > <sup>[8](/bible/hebrews/11#v8)</sup> By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went.
->
+
+- By faith Abraham, when he was called: Abraham was requested of God to go out into a place which he should after receive for an inheritance. He obeyed, and obedience is an action; and he went out, not knowing whither he went, trusting in the Lord.
+
+- By faith he sojourned in the land of promise, as in a strange country, dwelling in tabernacles with Isaac and Jacob. He had wealth and camels, but no roof over his head; he dwelt in tents, as was common in our culture. If we do not sleep one night in our own house, we begin to lose faith; Abraham showed the example of integrity through hard times.
+
+- We are going to have to get back to the point of being able to sojourn and dwell outside our comfortability: plans and preparation for when things pop off, having those conversations with your children and building up your wife now, so she is not confused or afraid. The time is now.
+
+- For he looked for a city which hath foundations, whose builder and maker is God.
+
 > <sup>[9](/bible/hebrews/11#v9)</sup> By faith he sojourned in the land of promise, as in a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise:
 >
 > <sup>[10](/bible/hebrews/11#v10)</sup> For he looked for a city which hath foundations, whose builder and maker is God.
-
-- By faith Abraham, when he was called: Abraham was requested of God to go out into a place which he should after receive for an inheritance. He obeyed, and obedience is an action; and he went out, not knowing whither he went, trusting in the Lord.
-- By faith he sojourned in the land of promise, as in a strange country, dwelling in tabernacles with Isaac and Jacob. He had wealth and camels, but no roof over his head; he dwelt in tents, as was common in our culture. If we do not sleep one night in our own house, we begin to lose faith; Abraham showed the example of integrity through hard times.
-- We are going to have to get back to the point of being able to sojourn and dwell outside our comfortability: plans and preparation for when things pop off, having those conversations with your children and building up your wife now, so she is not confused or afraid. The time is now.
-- For he looked for a city which hath foundations, whose builder and maker is God.
 
 **[1 Peter 3:14](/bible/1-peter/3#v14)**  *[[1:53:08](https://www.youtube.com/watch?v=WzA8Ub2DhXk&t=6788s)]*
 
@@ -322,16 +335,19 @@ The topic of today's class is going into faith. But not just faith: why we are c
 **[1 Maccabees 1:11-14](/bible/1-maccabees/1#v11)**  *[[1:56:30](https://www.youtube.com/watch?v=WzA8Ub2DhXk&t=6990s)]*
 
 > <sup>[11](/bible/1-maccabees/1#v11)</sup> In those days went there out of Israel wicked men, who persuaded many, saying, Let us go and make a covenant with the heathen that are round about us: for since we departed from them we have had much sorrow.
->
+
+- In those days went there out of Israel wicked men, who persuaded many, saying, Let us go and make a covenant with the heathen that are round about us: for since we departed from them we have had much sorrow. Out of our own people come forth the wicked of our nation; the enemy uses our own people to turn our people back to the evil. It is the same thing they said in the wilderness: let us go back to Egypt and enjoy the melons and the cucumbers; Egypt took care of us.
+
+- Then certain of the people went to the king, who gave them licence to do after the ordinances of the heathen. They asked to be part of the government, the system, to be assimilated: to call themselves Antiochians then, or in this day, I just want to be an American. We were robbed and spoiled of our nation, we became poor, so we groped toward the closest thing we thought would bring comfort, and forgot our one true God.
+
 > <sup>[12](/bible/1-maccabees/1#v12)</sup> So this device pleased them well.
 >
 > <sup>[13](/bible/1-maccabees/1#v13)</sup> Then certain of the people were so forward herein, that they went to the king, who gave them licence to do after the ordinances of the heathen:
 >
 > <sup>[14](/bible/1-maccabees/1#v14)</sup> Whereupon they built a place of exercise at Jerusalem according to the customs of the heathen:
 
-- In those days went there out of Israel wicked men, who persuaded many, saying, Let us go and make a covenant with the heathen that are round about us: for since we departed from them we have had much sorrow. Out of our own people come forth the wicked of our nation; the enemy uses our own people to turn our people back to the evil. It is the same thing they said in the wilderness: let us go back to Egypt and enjoy the melons and the cucumbers; Egypt took care of us.
-- Then certain of the people went to the king, who gave them licence to do after the ordinances of the heathen. They asked to be part of the government, the system, to be assimilated: to call themselves Antiochians then, or in this day, I just want to be an American. We were robbed and spoiled of our nation, we became poor, so we groped toward the closest thing we thought would bring comfort, and forgot our one true God.
 - Whereupon they built a place of exercise at Jerusalem according to the customs of the heathen: they began to be like them. How do we make a covenant with the heathen today? When we facilitate ourselves in their politics, their religion, their government, the gifts that destroy the heart.
+
 - This is the most easy time of our generation compared to what came before: before this was Jim Crow and the black codes, before that slavery, and our ancestors endured through all of it. We learn from those times what is coming back around.
 
 **[Revelation 13:5-6](/bible/revelation/13#v5)**  *[[1:59:51](https://www.youtube.com/watch?v=WzA8Ub2DhXk&t=7191s)]*
@@ -355,10 +371,11 @@ The topic of today's class is going into faith. But not just faith: why we are c
 **[Proverbs 3:31-32](/bible/proverbs/3#v31)**  *[[2:10:30](https://www.youtube.com/watch?v=WzA8Ub2DhXk&t=7830s)]*
 
 > <sup>[31](/bible/proverbs/3#v31)</sup> Envy thou not the oppressor, and choose none of his ways.
->
-> <sup>[32](/bible/proverbs/3#v32)</sup> For the froward is abomination to the Lord: but his secret is with the righteous.
 
 - Envy thou not the oppressor, and choose none of his ways: not his religion, not his way of thinking, not his economics, not his way of life. We have to bethink how we need to be, and use this world as not abusing it, so we do not lose our souls.
+
+> <sup>[32](/bible/proverbs/3#v32)</sup> For the froward is abomination to the Lord: but his secret is with the righteous.
+
 - For the froward is abomination to the Lord: but his secret is with the righteous. The first step in building up your faith is to read and search the scriptures.
 
 **[John 5:39](/bible/john/5#v39)**  *[[2:12:44](https://www.youtube.com/watch?v=WzA8Ub2DhXk&t=7964s)]*
@@ -413,7 +430,11 @@ The topic of today's class is going into faith. But not just faith: why we are c
 **[Job 5:12-17](/bible/job/5#v12)**  *[[2:23:18](https://www.youtube.com/watch?v=WzA8Ub2DhXk&t=8598s)]*
 
 > <sup>[12](/bible/job/5#v12)</sup> He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise.
->
+
+- He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise: what they plan in their secret chambers and think tanks. He taketh the wise in their own craftiness: their own tongue falls upon themselves. One of the organizations that long marked this nation as a hate group got caught up in its own scandal; and if another one comes, so what? All we do is promote righteous marriage and family. We just held an event honoring righteous marriage: husband and wife, as the Bible shows with Adam and Eve, Abraham and Sarah, Joseph and Mary.
+
+- But he saveth the poor from the sword, from their mouth, and from the hand of the mighty. So the poor hath hope, and iniquity stoppeth her mouth. Though the times get hard, we will have deliverance and peace in those trying times if we endure and continue in this faith.
+
 > <sup>[13](/bible/job/5#v13)</sup> He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong.
 >
 > <sup>[14](/bible/job/5#v14)</sup> They meet with darkness in the daytime, and grope in the noonday as in the night.
@@ -424,9 +445,8 @@ The topic of today's class is going into faith. But not just faith: why we are c
 >
 > <sup>[17](/bible/job/5#v17)</sup> Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty:
 
-- He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise: what they plan in their secret chambers and think tanks. He taketh the wise in their own craftiness: their own tongue falls upon themselves. One of the organizations that long marked this nation as a hate group got caught up in its own scandal; and if another one comes, so what? All we do is promote righteous marriage and family. We just held an event honoring righteous marriage: husband and wife, as the Bible shows with Adam and Eve, Abraham and Sarah, Joseph and Mary.
-- But he saveth the poor from the sword, from their mouth, and from the hand of the mighty. So the poor hath hope, and iniquity stoppeth her mouth. Though the times get hard, we will have deliverance and peace in those trying times if we endure and continue in this faith.
 - Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty. Nothing is more pure and more rewarding than being corrected for your sins before the Lord and continuing to endure and perfect your soul. No matter what you are going through, at least you are preparing and building up your soul.
+
 - Every time you pass out a flyer, brother, sister, child, that is fulfilling prophecy; that is the next generation. They esteem us as evil, but world peace does not come until the righteous are in rulership, when Christ returns; the people mourn when the wicked bear rule, and rejoice when the righteous are in authority.
 
 **[1 Thessalonians 5:23](/bible/1-thessalonians/5#v23)**  *[[2:26:36](https://www.youtube.com/watch?v=WzA8Ub2DhXk&t=8796s)]*
@@ -450,18 +470,16 @@ The topic of today's class is going into faith. But not just faith: why we are c
 
 **[Romans 12:9-13](/bible/romans/12#v9)**  *[[2:34:26](https://www.youtube.com/watch?v=WzA8Ub2DhXk&t=9266s)]*
 
+- Let love be without dissimulation. Abhor that which is evil; cleave to that which is good. Come home, family.
+
+- Be kindly affectioned one to another with brotherly love; in honour preferring one another. The Lord wants us to get our spirit right for the kingdom: honoring one another within our marriages, our relationships, and our nation.
+
 > <sup>[9](/bible/romans/12#v9)</sup> Let love be without dissimulation. Abhor that which is evil; cleave to that which is good.
 >
 > <sup>[10](/bible/romans/12#v10)</sup> Be kindly affectioned one to another with brotherly love; in honour preferring one another;
 >
 > <sup>[11](/bible/romans/12#v11)</sup> Not slothful in business; fervent in spirit; serving the Lord;
->
-> <sup>[12](/bible/romans/12#v12)</sup> Rejoicing in hope; patient in tribulation; continuing instant in prayer;
->
-> <sup>[13](/bible/romans/12#v13)</sup> Distributing to the necessity of saints; given to hospitality.
 
-- Let love be without dissimulation. Abhor that which is evil; cleave to that which is good. Come home, family.
-- Be kindly affectioned one to another with brotherly love; in honour preferring one another. The Lord wants us to get our spirit right for the kingdom: honoring one another within our marriages, our relationships, and our nation.
 - Not slothful in business: our business is that we are called by God to magnify the law and increase our faith. Fervent in spirit; serving the Lord by doing the work and helping your people. Rejoicing in hope; patient in tribulation; continuing instant in prayer; distributing to the necessity of saints. What better life to live than to help your people?
 
   Precepts:
@@ -469,6 +487,10 @@ The topic of today's class is going into faith. But not just faith: why we are c
     > <sup>[21](/bible/romans/12#v21)</sup> Be not overcome of evil, but overcome evil with good.
 
     Be not overcome of evil, but overcome evil with good. Do not let this world destroy your faith; with the good of these commandments and the faith of Christ, knowing who you are, you overcome that evil with the good of this Bible.
+
+> <sup>[12](/bible/romans/12#v12)</sup> Rejoicing in hope; patient in tribulation; continuing instant in prayer;
+>
+> <sup>[13](/bible/romans/12#v13)</sup> Distributing to the necessity of saints; given to hospitality.
 
 ## In Closing
 

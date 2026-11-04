@@ -355,11 +355,9 @@ tags: ["IUIC in the ClassRoom", "mercy", "repentance", "sexual-purity", "substan
 
 **[1 Peter 4:3-4](/bible/1-peter/4#v3)**  *[[43:09](https://www.youtube.com/watch?v=7UmR0A--9WM&t=2589s)]*
 
-> <sup>[3](/bible/1-peter/4#v3)</sup> For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:
->
-> <sup>[4](/bible/1-peter/4#v4)</sup> Wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of you:
-
 - The apostle Peter said something very heavy for us.
+
+> <sup>[3](/bible/1-peter/4#v3)</sup> For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:
 
 - For the time past of our life may suffice us to have wrought the will of the Gentiles: meaning there came a time when we lived like the nations, because the word Gentiles means nations. We lived like them, we wanted to be like them; particularly in this day and age we wanted to be like the so-called white man, just like during Peter's time we wanted to live like the Romans.
 
@@ -370,6 +368,8 @@ tags: ["IUIC in the ClassRoom", "mercy", "repentance", "sexual-purity", "substan
 - Abominable idolatries goes into idol worship and those type of things.
 
 - Wherein they think it strange that ye run not with them to the same excess of riot, meaning riotous living, speaking evil of you: the friends you used to run with in the world, or it might be your wife or your mother or father, now they speak evil against you because you decide not to live like that no more. These are the strivings we must go through in this truth; this is what new brothers and sisters who are trying to get their lives right must understand.
+
+> <sup>[4](/bible/1-peter/4#v4)</sup> Wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of you:
 
 
 <div class="reading">
@@ -474,21 +474,21 @@ Reading from a dictionary, on the words of 1 Peter 4:3  *[[44:12](https://www.yo
 
 **[2 Peter 2:20-22](/bible/2-peter/2#v20)**  *[[1:00:07](https://www.youtube.com/watch?v=7UmR0A--9WM&t=3607s)]*
 
-> <sup>[20](/bible/2-peter/2#v20)</sup> For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled therein, and overcome, the latter end is worse with them than the beginning.
->
-> <sup>[21](/bible/2-peter/2#v21)</sup> For it had been better for them not to have known the way of righteousness, than, after they have known it, to turn from the holy commandment delivered unto them.
->
-> <sup>[22](/bible/2-peter/2#v22)</sup> But it is happened unto them according to the true proverb, The dog is turned to his own vomit again; and the sow that was washed to her wallowing in the mire.
-
 - **Host:** In the past times there's a saying, once saved, saved forever: you know you belong to the church, you may be tempted to do all kinds of things, but in your mind, once you have professed with your mouth, that is all. **Bishop Nathanyel:** That's so wrong. This destroys the stupid teaching once saved always saved; that's false.
 
 - The pollutions of the world are the world's religions, political groups, and sins in terms of sexuality, in terms of excess of wine, in terms of revelings, in terms of hatred.
+
+> <sup>[20](/bible/2-peter/2#v20)</sup> For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled therein, and overcome, the latter end is worse with them than the beginning.
 
 - They are again entangled therein and overcome: there may come a time where we struggle; a righteous man falleth seven times but gets back up. But overcome means you're not getting back up again; you're overcome with the sins of the world. The latter end is worse with them than the beginning, meaning you are worse now than when you first came into the truth.
 
 - So what do you mean, once saved always saved? That's a lie. Peter said it had been better for you never to have known the way of righteousness than, after you have known it, to turn from the holy commandment delivered unto you.
 
 - The sow is a pig: you wash the pig off clean, then the pig goes right back to the mud again. Peter is getting on Israelites who come into the truth then return to their vomit, their filth, their sin, comparing the Israelite who is entangled and overcome in their sin to the dog and to the pig.
+
+> <sup>[21](/bible/2-peter/2#v21)</sup> For it had been better for them not to have known the way of righteousness, than, after they have known it, to turn from the holy commandment delivered unto them.
+>
+> <sup>[22](/bible/2-peter/2#v22)</sup> But it is happened unto them according to the true proverb, The dog is turned to his own vomit again; and the sow that was washed to her wallowing in the mire.
 
 
 **[Hebrews 6:4-6](/bible/hebrews/6#v4)**  *[[1:02:59](https://www.youtube.com/watch?v=7UmR0A--9WM&t=3779s)]*

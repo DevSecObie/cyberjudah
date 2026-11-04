@@ -35,16 +35,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "salvation", "the-americ
 **[Matthew 15:22-27](/bible/matthew/15#v22)**  *[[2:02](https://www.youtube.com/watch?v=rCY2LnPnb4g&t=122s)]*
 
 > <sup>[22](/bible/matthew/15#v22)</sup> And, behold, a woman of Canaan came out of the same coasts, and cried unto him, saying, Have mercy on me, O Lord, thou Son of David; my daughter is grievously vexed with a devil.
->
-> <sup>[23](/bible/matthew/15#v23)</sup> But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us.
->
-> <sup>[24](/bible/matthew/15#v24)</sup> But he answered and said, I am not sent but unto the lost sheep of the house of Israel.
->
-> <sup>[25](/bible/matthew/15#v25)</sup> Then came she and worshipped him, saying, Lord, help me.
->
-> <sup>[26](/bible/matthew/15#v26)</sup> But he answered and said, It is not meet to take the children’s bread, and to cast it to dogs.
->
-> <sup>[27](/bible/matthew/15#v27)</sup> And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters’ table.
 
 - And, behold, a woman of Canaan: a woman of Canaan. Right there, you see it. This is not an Israelite woman. This is a woman of Canaan, another nation.
 
@@ -52,15 +42,25 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "salvation", "the-americ
 
 - My daughter is grievously vexed with a devil: a Canaanite woman coming to Christ saying her daughter is vexed from the devil.
 
+> <sup>[23](/bible/matthew/15#v23)</sup> But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us.
+
 - But he answered her not a word: he didn't say not one word to the woman. I thought Christ was here to save everybody. Why would he not answer her?
 
 - And his disciples came and besought him, saying, Send her away; for she crieth after us: you even see this right here. Look, the disciples are telling him to send this woman away. She's bothering us. She's nagging us. She's annoying us. If Christ was for all nations, why are his own disciples saying to send her away? Why would Christ ignore her? Why would he not even answer her? You got to ask yourself that question. If Christ was for everybody, why in this initial situation he's not even acknowledged this Canaanite woman who's crying after him? Remember, he's going all around the town right now healing people, talking to people. But who is he healing? Who is he talking to? He's only talking to the Israelites.
 
+> <sup>[24](/bible/matthew/15#v24)</sup> But he answered and said, I am not sent but unto the lost sheep of the house of Israel.
+
 - I am not sent but unto the lost sheep of the house of Israel: now look what he said. The first time he does answer, he says he was only sent for the lost sheep of the house of Israel. Now who sent him? His heavenly father, the most high, sent him down. He got impregnated from Joseph to Mary and he had Christ. Who sent Christ? As we know, the most high.
+
+> <sup>[25](/bible/matthew/15#v25)</sup> Then came she and worshipped him, saying, Lord, help me.
 
 - Then came she and worshipped him, saying, Lord, help me: now she's crying after him. He already said to her, I'm only sent for the lost sheep of the house of Israel.
 
+> <sup>[26](/bible/matthew/15#v26)</sup> But he answered and said, It is not meet to take the children’s bread, and to cast it to dogs.
+
 - It is not meet to take the children's bread, and to cast it to dogs: so look what he says to her. He said that I'm not going to give the children's bread and cast it to a dog. He's calling a female a dog right now. This is what he's saying to this woman who's crying after him, who's saying she need this help. You Christians say he's all loving. He's all for everybody. Clearly right here, he's showing you that he's not for everybody. He just called her a dog.
+
+> <sup>[27](/bible/matthew/15#v27)</sup> And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters’ table.
 
 - And she said, Truth, Lord: now look, she acknowledged that. Yeah, true. She is a dog. You never see the Israelites in the scriptures calling themselves dogs. You never see them doing anything like that.
 
@@ -79,10 +79,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "salvation", "the-americ
 **[Matthew 15:27-28](/bible/matthew/15#v27)**  *[[7:47](https://www.youtube.com/watch?v=rCY2LnPnb4g&t=467s)]*
 
 > <sup>[27](/bible/matthew/15#v27)</sup> And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters’ table.
->
-> <sup>[28](/bible/matthew/15#v28)</sup> Then Jesus answered and said unto her, O woman, great is thy faith: be it unto thee even as thou wilt. And her daughter was made whole from that very hour.
 
 - Yet the dogs eat of the crumbs which fall from their masters' table: so the woman is saying that she's a dog, and the dogs eat from the crumbs from the master's table. Are they getting the full meal? No. They're getting crumbs. A dog, you throw crumbs from the table. They're not getting the full meal. They're not getting everything that's good in your house. They getting the crumbs, the scraps.
+
+> <sup>[28](/bible/matthew/15#v28)</sup> Then Jesus answered and said unto her, O woman, great is thy faith: be it unto thee even as thou wilt. And her daughter was made whole from that very hour.
 
 - O woman, great is thy faith: great is thy faith in what? Great is thy faith that the Israelites are the masters. Christ is a master, and she is a dog.
 
@@ -92,14 +92,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "salvation", "the-americ
 **[Isaiah 40:15-17](/bible/isaiah/40#v15)**  *[[9:14](https://www.youtube.com/watch?v=rCY2LnPnb4g&t=554s)]*
 
 > <sup>[15](/bible/isaiah/40#v15)</sup> Behold, the nations are as a drop of a bucket, and are counted as the small dust of the balance: behold, he taketh up the isles as a very little thing.
->
-> <sup>[16](/bible/isaiah/40#v16)</sup> And Lebanon is not sufficient to burn, nor the beasts thereof sufficient for a burnt offering.
->
-> <sup>[17](/bible/isaiah/40#v17)</sup> All nations before him are as nothing; and they are counted to him less than nothing, and vanity.
 
 - Behold, the nations are as a drop of a bucket: a drop in the bucket, a crumb. The nations, like to a whole meal, the nations are like a crumb. They a drop in a bucket.
 
 - And are counted as the small dust of the balance: a small dust. That's what the woman is asking. She's asking for a small dust. She's asking for a small crumb. That's all she deserved. She's counted as nothing.
+
+> <sup>[16](/bible/isaiah/40#v16)</sup> And Lebanon is not sufficient to burn, nor the beasts thereof sufficient for a burnt offering.
+>
+> <sup>[17](/bible/isaiah/40#v17)</sup> All nations before him are as nothing; and they are counted to him less than nothing, and vanity.
 
 - All nations before him are as nothing: all the nations before him are as nothing. Canaanite woman before Christ was as nothing.
 
@@ -118,10 +118,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "salvation", "the-americ
 **[John 4:6-7](/bible/john/4#v6)**  *[[11:21](https://www.youtube.com/watch?v=rCY2LnPnb4g&t=681s)]*
 
 > <sup>[6](/bible/john/4#v6)</sup> Now Jacob’s well was there. Jesus therefore, being wearied with his journey, sat thus on the well: and it was about the sixth hour.
->
-> <sup>[7](/bible/john/4#v7)</sup> There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink.
 
 - Jesus therefore, being wearied with his journey, sat thus on the well: he was tired. So Christ is like a man just like all of us. He got tired too. So he sat down at the well.
+
+> <sup>[7](/bible/john/4#v7)</sup> There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink.
 
 - There cometh a woman of Samaria: the woman of Samaria. Let's just get who Samaria is real quick. Because right now in your mind, Christians, you thinking that the Samaritan woman is from another nation.
 
@@ -129,10 +129,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "salvation", "the-americ
 **[Isaiah 7:8-9](/bible/isaiah/7#v8)**  *[[12:02](https://www.youtube.com/watch?v=rCY2LnPnb4g&t=722s)]*
 
 > <sup>[8](/bible/isaiah/7#v8)</sup> For the head of Syria is Damascus, and the head of Damascus is Rezin; and within threescore and five years shall Ephraim be broken, that it be not a people.
->
-> <sup>[9](/bible/isaiah/7#v9)</sup> And the head of Ephraim is Samaria, and the head of Samaria is Remaliah’s son. If ye will not believe, surely ye shall not be established.
 
 - And within threescore and five years shall Ephraim be broken, that it be not a people: and you read it also, that Ephraim be broken, or be not a people. They were considered to God not a people at that time cuz what? They went into idolatry. They were breaking the commandments.
+
+> <sup>[9](/bible/isaiah/7#v9)</sup> And the head of Ephraim is Samaria, and the head of Samaria is Remaliah’s son. If ye will not believe, surely ye shall not be established.
 
 - And the head of Ephraim is Samaria: the head of Ephraim is Samaria. You people, you Christians, Christianity people, go back and read the split back in Kings with Solomon, Jeroboam, and Rehoboam. The northern kingdom will be not a people. You see right there, Ephraim is the head of Samaria. A lot of the Ephraimite northern kingdom, they lived in Samaria. So this Samaritan woman right now was from the northern kingdom.
 
@@ -142,22 +142,20 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "salvation", "the-americ
 **[John 4:7-11](/bible/john/4#v7)**  *[[13:19](https://www.youtube.com/watch?v=rCY2LnPnb4g&t=799s)]*
 
 > <sup>[7](/bible/john/4#v7)</sup> There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink.
->
+
+- Jesus saith unto her, Give me to drink: he said, give me a drink. For his disciples were gone away unto the city to buy meat: they went to get some food, went to buy some meat.
+
 > <sup>[8](/bible/john/4#v8)</sup> (For his disciples were gone away unto the city to buy meat.)
 >
 > <sup>[9](/bible/john/4#v9)</sup> Then saith the woman of Samaria unto him, How is it that thou, being a Jew, askest drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans.
->
-> <sup>[10](/bible/john/4#v10)</sup> Jesus answered and said unto her, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water.
->
-> <sup>[11](/bible/john/4#v11)</sup> The woman saith unto him, Sir, thou hast nothing to draw with, and the well is deep: from whence then hast thou that living water?
-
-- Jesus saith unto her, Give me to drink: he said, give me a drink. For his disciples were gone away unto the city to buy meat: they went to get some food, went to buy some meat.
 
 - How is it that thou, being a Jew: so she know he's a Jew. She see his fringes. She see how he's dressed.
 
 - Askest drink of me, which am a woman of Samaria: a woman of Samaria, meaning the northern kingdom. A lot of the northern kingdom was living in Samaria. Ephraim, we just read it, Ephraim is the head of Samaria. So she's saying, why are you, a Jew, asking me for a drink from the northern kingdom? They are both Israelites. But the verse is going to explain itself.
 
 - For the Jews have no dealings with the Samaritans: so the Jews at that time had no dealings with the northern kingdom. Hence when we read about Christ, he said, like we just read before, I am not sent but unto the lost sheep of the house of Israel. Not just the Jews, all 12 tribes.
+
+> <sup>[10](/bible/john/4#v10)</sup> Jesus answered and said unto her, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water.
 
 - If thou knewest the gift of God: he's not talking to her the same at all like the other woman. Christ knows she's an Israelite. Why is he talking about God to her already? He didn't say that to the other woman, to the Canaanite woman. He said, you a dog. He said it is not meet for me to give anything from the Israelites to the dogs, the children's bread, children of Israel, to the dog, the Canaanite woman, another nation, the heathens. You can see already there's a difference. Totally different. Two different women, two different nations, and two different choices that Christ has given them.
 
@@ -166,6 +164,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "salvation", "the-americ
 - Art thou greater than our father Jacob: our father Jacob. What is she saying? They come from the same lineage. Abraham, Isaac, Jacob. That was Jacob's well for all the 12 tribes to drink from. The other woman didn't say nothing like that. Other woman didn't say, our father Jacob got promised a Messiah, can you please heal me? None of that. The Canaanite woman knew she was a dog. Knew she was a heathen. But she knew Christ was the master too.
 
 - And that day is coming back again. Well, all the heathens are going to understand who we are. When we start keeping the commandments and Christ comes back, that day is coming. Well, they will have to bow their knee to us and beg for that same thing. Maybe throw him a crumb. Maybe, maybe not. But we'll see in that day.
+
+> <sup>[11](/bible/john/4#v11)</sup> The woman saith unto him, Sir, thou hast nothing to draw with, and the well is deep: from whence then hast thou that living water?
 
 
 **[Romans 12:18](/bible/romans/12#v18)**  *[[18:55](https://www.youtube.com/watch?v=rCY2LnPnb4g&t=1135s)]*
@@ -186,14 +186,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "salvation", "the-americ
 **[John 4:12-14](/bible/john/4#v12)**  *[[20:14](https://www.youtube.com/watch?v=rCY2LnPnb4g&t=1214s)]*
 
 > <sup>[12](/bible/john/4#v12)</sup> Art thou greater than our father Jacob, which gave us the well, and drank thereof himself, and his children, and his cattle?
->
-> <sup>[13](/bible/john/4#v13)</sup> Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again:
->
-> <sup>[14](/bible/john/4#v14)</sup> But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life.
 
 - Which gave us the well: gave us the well. 12 tribes.
 
+> <sup>[13](/bible/john/4#v13)</sup> Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again:
+
 - Whosoever drinketh of this water shall thirst again: talking about that regular water. He's saying whoever drink that water from the well, yeah, you going to thirst again. Let's see what he offers her. Let's see what choice he gives her.
+
+> <sup>[14](/bible/john/4#v14)</sup> But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life.
 
 - But whosoever drinketh of the water that I shall give him: he's going to give. He didn't offer the other woman nothing like this. Shall never thirst.
 

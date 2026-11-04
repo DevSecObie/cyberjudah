@@ -2,7 +2,7 @@
 title: "They Say We Hate White People"
 slug: "2026/2026-05-23-they-say-we-hate-white-people"
 date: "2026-05-23"
-teacher: ""
+teacher: "Deacon Malachiyah"
 description: "IUIC in the ClassRoom · 2026-05-23"
 tags: ["IUIC in the ClassRoom", "leadership"]
 ---
@@ -157,15 +157,17 @@ Videos shown before the topic, on South Africa and Nigeria:
 
 **[Malachi 1:2-4](/bible/malachi/1#v2)**  *[[1:59:49](https://www.youtube.com/watch?v=xa6eyWlShws&t=7189s)]*
 
+- I have loved you, saith the Lord. Yet ye say, Wherein hast thou loved us? Why would we say that? Because we catch hell all the time and it does not feel like God loves us. But God says: it does not matter that you live in the ghetto, it does not matter that you are descendants of slaves, I love you.
+
 > <sup>[2](/bible/malachi/1#v2)</sup> I have loved you, saith the Lord. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob’s brother? saith the Lord: yet I loved Jacob,
->
+
+- Was not Esau Jacob's brother? saith the Lord: yet I loved Jacob, and I hated Esau. Edom said, We are impoverished, but we will return and build the desolate places; that is the Renaissance, the rebirth of that rule. The Lord of hosts said, They shall build, but I will throw down; and they shall be called the border of wickedness, and the people against whom the Lord hath indignation for ever. Indignation means righteous anger.
+
+- So do not ask us whether we hate anybody. When we read this, we are reading what God said. We are not the judge; we are the witnesses reading the charge.
+
 > <sup>[3](/bible/malachi/1#v3)</sup> And I hated Esau, and laid his mountains and his heritage waste for the dragons of the wilderness.
 >
 > <sup>[4](/bible/malachi/1#v4)</sup> Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the Lord of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the Lord hath indignation for ever.
-
-- I have loved you, saith the Lord. Yet ye say, Wherein hast thou loved us? Why would we say that? Because we catch hell all the time and it does not feel like God loves us. But God says: it does not matter that you live in the ghetto, it does not matter that you are descendants of slaves, I love you.
-- Was not Esau Jacob's brother? saith the Lord: yet I loved Jacob, and I hated Esau. Edom said, We are impoverished, but we will return and build the desolate places; that is the Renaissance, the rebirth of that rule. The Lord of hosts said, They shall build, but I will throw down; and they shall be called the border of wickedness, and the people against whom the Lord hath indignation for ever. Indignation means righteous anger.
-- So do not ask us whether we hate anybody. When we read this, we are reading what God said. We are not the judge; we are the witnesses reading the charge.
 
 **[Ecclesiasticus 33:10-15](/bible/sirach/33#v10)**  *[[2:03:42](https://www.youtube.com/watch?v=xa6eyWlShws&t=7422s)]*
 
@@ -278,11 +280,12 @@ Videos shown before the topic, on South Africa and Nigeria:
 **[2 Corinthians 2:15-16](/bible/2-corinthians/2#v15)**  *[[2:48:43](https://www.youtube.com/watch?v=xa6eyWlShws&t=10123s)]*
 
 > <sup>[15](/bible/2-corinthians/2#v15)</sup> For we are unto God a sweet savour of Christ, in them that are saved, and in them that perish:
->
-> <sup>[16](/bible/2-corinthians/2#v16)</sup> To the one we are the savour of death unto death; and to the other the savour of life unto life. And who is sufficient for these things?
 
 - For we are unto God a sweet savour of Christ, in them that are saved, and in them that perish: to the one we are the savour of death unto death, and to the other the savour of life unto life.
+
 - Some people hear this gospel, that the Israelites are being redeemed, and they rejoice. Others hear the very same words and smell death, because the same book that opens the prison to the captive reads out the sentence on the oppressor. That is why the same teaching gets called good news on one side of the room and hate on the other.
+
+> <sup>[16](/bible/2-corinthians/2#v16)</sup> To the one we are the savour of death unto death; and to the other the savour of life unto life. And who is sufficient for these things?
 
 **[Isaiah 61:1-2](/bible/isaiah/61#v1)**  *[[2:50:37](https://www.youtube.com/watch?v=xa6eyWlShws&t=10237s)]*
 
@@ -302,19 +305,21 @@ Videos shown before the topic, on South Africa and Nigeria:
 
 **[Ezekiel 35:11-15](/bible/ezekiel/35#v11)**  *[[2:56:04](https://www.youtube.com/watch?v=xa6eyWlShws&t=10564s)]*
 
+- Therefore, as I live, saith the Lord God, I will even do according to thine anger, and according to thine envy which thou hast used out of thy hatred against them. God says the envy and the hatred are theirs, and he will answer according to them.
+
+- On the envy: a clip was discussed where our sisters were offered large money for their genetic material and told plainly that they carry an advantage that others desire to cultivate. In our lowest state we are still what God made us; that is the envy the scripture is speaking of.
+
 > <sup>[11](/bible/ezekiel/35#v11)</sup> Therefore, as I live, saith the Lord God, I will even do according to thine anger, and according to thine envy which thou hast used out of thy hatred against them; and I will make myself known among them, when I have judged thee.
 >
 > <sup>[12](/bible/ezekiel/35#v12)</sup> And thou shalt know that I am the Lord, and that I have heard all thy blasphemies which thou hast spoken against the mountains of Israel, saying, They are laid desolate, they are given us to consume.
 >
 > <sup>[13](/bible/ezekiel/35#v13)</sup> Thus with your mouth ye have boasted against me, and have multiplied your words against me: I have heard them.
->
+
+- Thus with your mouth ye have boasted against me, and have multiplied your words against me: I have heard them. When they speak against this people, they speak against our God, and he takes it personally. When the whole earth rejoiceth, I will make thee desolate; and they shall know that I am the Lord. That is the Lord's own closing signature on the matter.
+
 > <sup>[14](/bible/ezekiel/35#v14)</sup> Thus saith the Lord God; When the whole earth rejoiceth, I will make thee desolate.
 >
 > <sup>[15](/bible/ezekiel/35#v15)</sup> As thou didst rejoice at the inheritance of the house of Israel, because it was desolate, so will I do unto thee: thou shalt be desolate, O mount Seir, and all Idumea, even all of it: and they shall know that I am the Lord.
-
-- Therefore, as I live, saith the Lord God, I will even do according to thine anger, and according to thine envy which thou hast used out of thy hatred against them. God says the envy and the hatred are theirs, and he will answer according to them.
-- On the envy: a clip was discussed where our sisters were offered large money for their genetic material and told plainly that they carry an advantage that others desire to cultivate. In our lowest state we are still what God made us; that is the envy the scripture is speaking of.
-- Thus with your mouth ye have boasted against me, and have multiplied your words against me: I have heard them. When they speak against this people, they speak against our God, and he takes it personally. When the whole earth rejoiceth, I will make thee desolate; and they shall know that I am the Lord. That is the Lord's own closing signature on the matter.
 
 **[Micah 2:6](/bible/micah/2#v6)**  *[[3:08:07](https://www.youtube.com/watch?v=xa6eyWlShws&t=11287s)]*
 
