@@ -177,3 +177,8 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 - Revelation 10:1 (2024-10-16, Captain Mattathias, heard as "Captain Matas"), 9:13 (2024-10-15, host never names himself, Raleigh, left blank), 9:7 (2024-10-10, host never names himself, left blank), 10:1 (2024-09-26, Captain Immanuel; he took chapter 10 while Captain Matthew of DC was still in chapter 9), 9:1 (2024-09-25, Captain Matthew, as he names himself) and 8:1 (2024-09-23, Captain Immanuel of IUIC Arkansas).
 - Revelation 10:1-2 is taught twice, on 2024-09-26 and 2024-10-16; both are separate classes, so each has a note.
 - These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
+
+## Batch 29
+
+- Revelation 7:4 (2024-09-19, Captain Azariah), 6:12 (2024-09-18, Zakai of IUIC Sacramento), 6:7 (2024-09-17, host heard only as "cap G", left blank), 6:1 (2024-09-11, Captain Mattathias), 5:1 (2024-09-05, host heard as "Captain AZ", left blank) and 4:1 (2024-09-03, Captain Gedaliah).
+- These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
