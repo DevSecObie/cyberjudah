@@ -342,7 +342,7 @@ def commit_and_push(root, fdir, tdir, nocap, agegate, meta_all, added, nosub, fe
     print("push: ok", flush=True)
 
 
-# Obie's rule: Bishop and Deacon classes come first. A flat channel listing knows only the
+# Bishop and Deacon classes come first. A flat channel listing knows only the
 # title, so a title that names a Bishop or a Deacon goes to the front of a run's fetches.
 FIRST = re.compile(r"\b(bishops?|deacons?|elder\s+nathanyel)\b", re.I)
 

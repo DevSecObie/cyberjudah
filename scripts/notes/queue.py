@@ -20,8 +20,8 @@ Sabbath class to the Sunday. Where a video appears in more than one listing the 
 wins; where only a relative age is known the date is marked ~ so it can be checked.
 
 `backlog` lists every harvested class (blog/transcripts) that no note cites yet, Bishops
-first, then Deacons, then Captains, then the rest, newest first within each rank. Obie's rule
-(2026-11-04): Bishop and Deacon classes take precedence. `plan` keeps the same order. The
+first, then Deacons, then Captains, then the rest, newest first within each rank: Bishop and Deacon classes take precedence. `plan` keeps the
+same order. The
 teacher comes from data/sources/class-teachers.tsv, then the class records
 (data/precepts/readings/videos.json), then a rank named in the title; Elder Nathanyel is
 Bishop Nathanyel.
