@@ -108,7 +108,7 @@ const strongsTags = (slug) => {
 
 /* ---------------- api: scripture and concordance ---------------- */
 // Every moment a class read a verse aloud, straight from the transcripts
-// (scripts/precepts/readings.py): per book, chapter and verse, [video, second]. A class with a
+// (scripts/precepts/readings.py): per book, chapter and verse, [video, second, verse second]. A class with a
 // note lends the note's title, date, teacher and url; the rest carry what the transcript says.
 const READINGS = path.join(ROOT, "data", "precepts", "readings");
 const readVideos = fs.existsSync(path.join(READINGS, "videos.json")) ? JSON.parse(fs.readFileSync(path.join(READINGS, "videos.json"), "utf8")) : {};
@@ -127,9 +127,10 @@ function readingsOf(slug) {
   for (const [c, vs] of Object.entries(raw)) {
     out[c] = {};
     for (const [v, rows] of Object.entries(vs)) {
-      out[c][v] = rows.map(([video, t]) => {
+      out[c][v] = rows.map(([video, t, vt]) => {
         const meta = readVideos[video] ?? {}, note = noteByVideo.get(video);
-        return { video, t, ts: hms(t), title: note?.title || meta.title || "Class", date: note?.date || meta.date || "", teacher: note?.teacher || meta.teacher || "", ...(note ? { url: note.url } : {}) };
+        // `t` is where the reading was called for; `vt`, when the captions show it, where this verse itself is read.
+        return { video, t, ts: hms(t), ...(vt != null ? { vt } : {}), title: note?.title || meta.title || "Class", date: note?.date || meta.date || "", teacher: note?.teacher || meta.teacher || "", ...(note ? { url: note.url } : {}) };
       }).sort((a, b) => teacherRank(a.teacher) - teacherRank(b.teacher) || (b.date || "").localeCompare(a.date || ""));
     }
   }
