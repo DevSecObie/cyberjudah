@@ -1,0 +1,2 @@
+- Class note: God of War (Bishop Nathanyel, 2025-08-23), the whole class in his words, verse by verse.
+- Transcript F_nhaOAeXoQ dated 2025-08-23.
