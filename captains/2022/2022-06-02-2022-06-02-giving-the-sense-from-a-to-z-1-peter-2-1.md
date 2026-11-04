@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Peter 2:1"
 slug: "2022/2022-06-02-giving-the-sense-from-a-to-z-1-peter-2-1"
 date: "2022-06-02"
-teacher: ""
-description: "Giving The Sense From A to Z · 2022-06-02"
+teacher: "Captain Gedaliah"
+description: "Giving The Sense From A to Z · 2022-06-02 · Captain Gedaliah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "false-religion", "purpose"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2022-06-02</p>
+<p class="taught">Giving The Sense From A to Z · 2022-06-02 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Acts 8](/bible/acts/8) · [1 Pet 2](/bible/1-peter/2) · [Deut 6](/bible/deuteronomy/6) · [Matt 16](/bible/matthew/16) · [Rom 12](/bible/romans/12) · [Matt 21](/bible/matthew/21) · [Acts 13](/bible/acts/13) · [Ps 22](/bible/psalms/22) · [Isa 56](/bible/isaiah/56) · [John 9](/bible/john/9)</span>
 

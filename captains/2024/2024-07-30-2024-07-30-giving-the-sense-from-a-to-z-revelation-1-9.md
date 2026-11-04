@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Revelation 1:9"
 slug: "2024/2024-07-30-giving-the-sense-from-a-to-z-revelation-1-9"
 date: "2024-07-30"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-07-30"
+teacher: "Captain Gedaliah"
+description: "Giving The Sense From A to Z · 2024-07-30 · Captain Gedaliah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "adversity", "christ", "deceit", "faith", "heaven-hell"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-07-30</p>
+<p class="taught">Giving The Sense From A to Z · 2024-07-30 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Rev 1](/bible/revelation/1) · [Matt 24](/bible/matthew/24) · [2 Cor 11](/bible/2-corinthians/11) · [Luke 4](/bible/luke/4)</span>
 

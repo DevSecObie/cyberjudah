@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Ephesians 1:8"
 slug: "2023/2023-07-25-giving-the-sense-from-a-to-z-ephesians-1-8"
 date: "2023-07-25"
-teacher: ""
-description: "Giving The Sense From A to Z · 2023-07-25"
+teacher: "Captain Horeb"
+description: "Giving The Sense From A to Z · 2023-07-25 · Captain Horeb"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "mercy", "nations", "purpose"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2023-07-25</p>
+<p class="taught">Giving The Sense From A to Z · 2023-07-25 · Captain Horeb</p>
 
 <span class="opens"><b>Opens</b> [Eph 1](/bible/ephesians/1) · [Ps 148](/bible/psalms/148) · [Matt 17](/bible/matthew/17) · [Eph 2](/bible/ephesians/2) · [Acts 11](/bible/acts/11) · [Heb 9](/bible/hebrews/9) · [Deut 28](/bible/deuteronomy/28) · [Rom 12](/bible/romans/12) · [Rom 3](/bible/romans/3) · [Amos 3](/bible/amos/3) · [2 Macc 6](/bible/2-maccabees/6) · [Heb 12](/bible/hebrews/12) · [Sir 18](/bible/sirach/18) · [Heb 10](/bible/hebrews/10) · [John 1](/bible/john/1) · [Deut 32](/bible/deuteronomy/32) · <i>and 18 more below</i></span>
 

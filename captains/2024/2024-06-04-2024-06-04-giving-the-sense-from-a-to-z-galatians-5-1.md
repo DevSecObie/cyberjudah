@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Galatians 5:1"
 slug: "2024/2024-06-04-giving-the-sense-from-a-to-z-galatians-5-1"
 date: "2024-06-04"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-06-04"
+teacher: "Captain Gedaliah"
+description: "Giving The Sense From A to Z · 2024-06-04 · Captain Gedaliah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "captivity", "christ", "faith", "purpose", "the-law"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-06-04</p>
+<p class="taught">Giving The Sense From A to Z · 2024-06-04 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Acts 8](/bible/acts/8) · [Heb 1](/bible/hebrews/1) · [2 Pet 3](/bible/2-peter/3) · [Gal 1](/bible/galatians/1) · [Acts 14](/bible/acts/14) · [Gal 5](/bible/galatians/5) · [Lev 18](/bible/leviticus/18) · [Deut 27](/bible/deuteronomy/27) · [Heb 10](/bible/hebrews/10) · [Rev 12](/bible/revelation/12) · [Heb 2](/bible/hebrews/2) · [1 Pet 2](/bible/1-peter/2) · [Luke 2](/bible/luke/2) · [Gal 4](/bible/galatians/4) · [Gal 6](/bible/galatians/6) · <i>and 3 more below</i></span>
 

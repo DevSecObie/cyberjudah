@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 John 2:4"
 slug: "2022/2022-07-28-giving-the-sense-from-a-to-z-1-john-2-4"
 date: "2022-07-28"
-teacher: ""
-description: "Giving The Sense From A to Z · 2022-07-28"
+teacher: "Captain Mattathias"
+description: "Giving The Sense From A to Z · 2022-07-28 · Captain Mattathias"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "faith", "idolatry"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2022-07-28</p>
+<p class="taught">Giving The Sense From A to Z · 2022-07-28 · Captain Mattathias</p>
 
 <span class="opens"><b>Opens</b> [1 John 2](/bible/1-john/2) · [1 Cor 12](/bible/1-corinthians/12) · [Hos 4](/bible/hosea/4) · [Acts 10](/bible/acts/10) · [1 Cor 10](/bible/1-corinthians/10) · [Gal 2](/bible/galatians/2) · [Acts 24](/bible/acts/24) · [John 1](/bible/john/1) · [John 7](/bible/john/7) · [1 John 1](/bible/1-john/1) · [Luke 24](/bible/luke/24) · [Acts 20](/bible/acts/20) · [Matt 28](/bible/matthew/28)</span>
 

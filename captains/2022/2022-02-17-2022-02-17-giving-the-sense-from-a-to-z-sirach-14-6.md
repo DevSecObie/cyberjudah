@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Sirach 14:6"
 slug: "2022/2022-02-17-giving-the-sense-from-a-to-z-sirach-14-6"
 date: "2022-02-17"
-teacher: ""
-description: "Giving The Sense From A to Z · 2022-02-17"
+teacher: "Captain Gedaliah"
+description: "Giving The Sense From A to Z · 2022-02-17 · Captain Gedaliah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "money", "the-body", "the-word", "wisdom"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2022-02-17</p>
+<p class="taught">Giving The Sense From A to Z · 2022-02-17 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Sir 14](/bible/sirach/14)</span>
 

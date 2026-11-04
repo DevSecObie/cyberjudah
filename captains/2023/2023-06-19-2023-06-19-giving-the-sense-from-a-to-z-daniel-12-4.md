@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Daniel 12:4"
 slug: "2023/2023-06-19-giving-the-sense-from-a-to-z-daniel-12-4"
 date: "2023-06-19"
-teacher: ""
-description: "Giving The Sense From A to Z · 2023-06-19"
+teacher: "Captain Zakar"
+description: "Giving The Sense From A to Z · 2023-06-19 · Captain Zakar"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "prophecy", "the-law", "wisdom"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2023-06-19</p>
+<p class="taught">Giving The Sense From A to Z · 2023-06-19 · Captain Zakar</p>
 
 <span class="opens"><b>Opens</b> [Dan 12](/bible/daniel/12) · [Isa 29](/bible/isaiah/29) · [1 Sam 2](/bible/1-samuel/2) · [Job 23](/bible/job/23) · [Sir 39](/bible/sirach/39) · [2 Esdras 9](/bible/2-esdras/9) · [Matt 16](/bible/matthew/16) · [Amos 8](/bible/amos/8) · [Ezek 12](/bible/ezekiel/12) · [Prov 15](/bible/proverbs/15) · [Wis 1](/bible/wisdom-of-solomon/1) · [1 Tim 6](/bible/1-timothy/6) · [Lev 19](/bible/leviticus/19) · [Deut 33](/bible/deuteronomy/33) · [Ezek 37](/bible/ezekiel/37) · [Rev 11](/bible/revelation/11) · <i>and 8 more below</i></span>
 

@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Jeremiah 1:1"
 slug: "2023/2023-06-20-giving-the-sense-from-a-to-z-jeremiah-1-1"
 date: "2023-06-20"
-teacher: ""
-description: "Giving The Sense From A to Z · 2023-06-20"
+teacher: "Captain Immanuel"
+description: "Giving The Sense From A to Z · 2023-06-20 · Captain Immanuel"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "idolatry", "prophecy", "the-word"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2023-06-20</p>
+<p class="taught">Giving The Sense From A to Z · 2023-06-20 · Captain Immanuel</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Jer 1](/bible/jeremiah/1) · [Jer 20](/bible/jeremiah/20) · [Sir 51](/bible/sirach/51)</span>
 

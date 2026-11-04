@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 John 2:28"
 slug: "2022/2022-08-04-giving-the-sense-from-a-to-z-1-john-2-28"
 date: "2022-08-04"
-teacher: ""
-description: "Giving The Sense From A to Z · 2022-08-04"
+teacher: "Captain Mattathias"
+description: "Giving The Sense From A to Z · 2022-08-04 · Captain Mattathias"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "salvation", "the-law"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2022-08-04</p>
+<p class="taught">Giving The Sense From A to Z · 2022-08-04 · Captain Mattathias</p>
 
 <span class="opens"><b>Opens</b> [1 John 2](/bible/1-john/2) · [1 John 3](/bible/1-john/3) · [John 1](/bible/john/1) · [Rom 9](/bible/romans/9) · [Heb 2](/bible/hebrews/2) · [Isa 47](/bible/isaiah/47) · [Rom 3](/bible/romans/3) · [Matt 7](/bible/matthew/7) · [Sir 17](/bible/sirach/17)</span>
 

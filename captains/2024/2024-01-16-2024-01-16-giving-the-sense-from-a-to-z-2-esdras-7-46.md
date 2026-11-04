@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 2 Esdras 7:46"
 slug: "2024/2024-01-16-giving-the-sense-from-a-to-z-2-esdras-7-46"
 date: "2024-01-16"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-01-16"
+teacher: "Captain Gedaliah"
+description: "Giving The Sense From A to Z · 2024-01-16 · Captain Gedaliah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "justice", "mercy"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-01-16</p>
+<p class="taught">Giving The Sense From A to Z · 2024-01-16 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [2 Esdras 7](/bible/2-esdras/7) · [Sir 40](/bible/sirach/40) · [Dan 12](/bible/daniel/12) · [Luke 16](/bible/luke/16)</span>
 

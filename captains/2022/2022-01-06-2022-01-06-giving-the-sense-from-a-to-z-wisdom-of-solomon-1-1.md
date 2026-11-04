@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Wisdom of Solomon 1:1"
 slug: "2022/2022-01-06-giving-the-sense-from-a-to-z-wisdom-of-solomon-1-1"
 date: "2022-01-06"
-teacher: ""
-description: "Giving The Sense From A to Z · 2022-01-06"
+teacher: "Captain Zakar"
+description: "Giving The Sense From A to Z · 2022-01-06 · Captain Zakar"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "justice", "the-law", "wisdom"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2022-01-06</p>
+<p class="taught">Giving The Sense From A to Z · 2022-01-06 · Captain Zakar</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Wis 1](/bible/wisdom-of-solomon/1) · [Deut 1](/bible/deuteronomy/1) · [Lev 19](/bible/leviticus/19) · [2 Esdras 11](/bible/2-esdras/11) · [Wis 6](/bible/wisdom-of-solomon/6) · [2 Chr 33](/bible/2-chronicles/33) · [Ps 82](/bible/psalms/82) · [Prov 6](/bible/proverbs/6) · [Rev 3](/bible/revelation/3) · [John 14](/bible/john/14) · [Job 38](/bible/job/38) · [Dan 4](/bible/daniel/4) · [Mark 7](/bible/mark/7)</span>
 

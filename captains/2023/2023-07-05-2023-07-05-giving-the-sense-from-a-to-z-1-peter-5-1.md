@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Peter 5:1"
 slug: "2023/2023-07-05-giving-the-sense-from-a-to-z-1-peter-5-1"
 date: "2023-07-05"
-teacher: ""
-description: "Giving The Sense From A to Z · 2023-07-05"
+teacher: "Captain Gedaliah"
+description: "Giving The Sense From A to Z · 2023-07-05 · Captain Gedaliah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "adversity", "endurance", "leadership"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2023-07-05</p>
+<p class="taught">Giving The Sense From A to Z · 2023-07-05 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Acts 8](/bible/acts/8) · [1 Pet 5](/bible/1-peter/5) · [Titus 1](/bible/titus/1) · [Sir 6](/bible/sirach/6) · [Matt 19](/bible/matthew/19) · [Rev 21](/bible/revelation/21) · [Matt 23](/bible/matthew/23) · [Mark 10](/bible/mark/10) · [John 10](/bible/john/10) · [Heb 13](/bible/hebrews/13) · [John 20](/bible/john/20) · [Matt 4](/bible/matthew/4) · [Job 1](/bible/job/1) · [John 16](/bible/john/16) · [1 Cor 5](/bible/1-corinthians/5) · <i>and 2 more below</i></span>
 

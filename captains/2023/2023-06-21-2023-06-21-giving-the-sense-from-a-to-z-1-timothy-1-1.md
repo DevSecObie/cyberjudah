@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Timothy 1:1"
 slug: "2023/2023-06-21-giving-the-sense-from-a-to-z-1-timothy-1-1"
 date: "2023-06-21"
-teacher: ""
-description: "Giving The Sense From A to Z · 2023-06-21"
+teacher: "Captain Mattathias"
+description: "Giving The Sense From A to Z · 2023-06-21 · Captain Mattathias"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "faith", "salvation"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2023-06-21</p>
+<p class="taught">Giving The Sense From A to Z · 2023-06-21 · Captain Mattathias</p>
 
 <span class="opens"><b>Opens</b> [1 Tim 1](/bible/1-timothy/1) · [Acts 16](/bible/acts/16) · [Acts 14](/bible/acts/14) · [2 Tim 1](/bible/2-timothy/1) · [Phil 2](/bible/philippians/2) · [Acts 20](/bible/acts/20) · [1 Cor 16](/bible/1-corinthians/16) · [1 Thess 3](/bible/1-thessalonians/3) · [Acts 19](/bible/acts/19) · [2 Tim 3](/bible/2-timothy/3) · [1 John 2](/bible/1-john/2) · [1 Tim 3](/bible/1-timothy/3) · [Heb 5](/bible/hebrews/5) · [Matt 9](/bible/matthew/9) · [Matt 5](/bible/matthew/5) · [Acts 9](/bible/acts/9) · <i>and 5 more below</i></span>
 

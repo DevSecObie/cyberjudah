@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Ephesians 4:1"
 slug: "2023/2023-12-07-giving-the-sense-from-a-to-z-ephesians-4-1"
 date: "2023-12-07"
-teacher: ""
-description: "Giving The Sense From A to Z · 2023-12-07"
+teacher: "Captain Horeb"
+description: "Giving The Sense From A to Z · 2023-12-07 · Captain Horeb"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "prophecy", "unity", "wisdom"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2023-12-07</p>
+<p class="taught">Giving The Sense From A to Z · 2023-12-07 · Captain Horeb</p>
 
 <span class="opens"><b>Opens</b> [Eph 3](/bible/ephesians/3) · [Eph 4](/bible/ephesians/4) · [Sir 6](/bible/sirach/6)</span>
 

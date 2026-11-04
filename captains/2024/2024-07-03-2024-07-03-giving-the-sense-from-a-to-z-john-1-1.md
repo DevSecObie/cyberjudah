@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: John 1:1"
 slug: "2024/2024-07-03-giving-the-sense-from-a-to-z-john-1-1"
 date: "2024-07-03"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-07-03"
+teacher: "Captain Mattathias"
+description: "Giving The Sense From A to Z · 2024-07-03 · Captain Mattathias"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "angels", "christ", "the-word", "wisdom"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-07-03</p>
+<p class="taught">Giving The Sense From A to Z · 2024-07-03 · Captain Mattathias</p>
 
 <span class="opens"><b>Opens</b> [John 1](/bible/john/1)</span>
 

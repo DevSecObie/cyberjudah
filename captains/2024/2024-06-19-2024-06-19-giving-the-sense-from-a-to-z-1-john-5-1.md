@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 John 5:1"
 slug: "2024/2024-06-19-giving-the-sense-from-a-to-z-1-john-5-1"
 date: "2024-06-19"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-06-19"
+teacher: "Captain Mattathias"
+description: "Giving The Sense From A to Z · 2024-06-19 · Captain Mattathias"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "faith", "prayer", "salvation", "the-word"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-06-19</p>
+<p class="taught">Giving The Sense From A to Z · 2024-06-19 · Captain Mattathias</p>
 
 <span class="opens"><b>Opens</b> [1 John 5](/bible/1-john/5) · [John 1](/bible/john/1) · [1 John 3](/bible/1-john/3) · [Esth (Gk) 16](/bible/esther-greek/16) · [John 11](/bible/john/11) · [John 14](/bible/john/14) · [John 15](/bible/john/15) · [John 17](/bible/john/17) · [John 5](/bible/john/5)</span>
 

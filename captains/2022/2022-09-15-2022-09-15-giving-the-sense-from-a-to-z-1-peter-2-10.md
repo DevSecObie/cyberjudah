@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Peter 2:10"
 slug: "2022/2022-09-15-giving-the-sense-from-a-to-z-1-peter-2-10"
 date: "2022-09-15"
-teacher: ""
-description: "Giving The Sense From A to Z · 2022-09-15"
+teacher: "Captain Gedaliah"
+description: "Giving The Sense From A to Z · 2022-09-15 · Captain Gedaliah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "prophecy", "the-law"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2022-09-15</p>
+<p class="taught">Giving The Sense From A to Z · 2022-09-15 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [1 Pet 2](/bible/1-peter/2) · [Isa 53](/bible/isaiah/53) · [Neh 8](/bible/nehemiah/8)</span>
 

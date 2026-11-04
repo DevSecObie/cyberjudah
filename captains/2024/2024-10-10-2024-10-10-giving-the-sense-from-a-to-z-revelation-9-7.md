@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Revelation 9:7"
 slug: "2024/2024-10-10-giving-the-sense-from-a-to-z-revelation-9-7"
 date: "2024-10-10"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-10-10"
+teacher: "Captain Zakar"
+description: "Giving The Sense From A to Z · 2024-10-10 · Captain Zakar"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "angels", "anger", "war"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-10-10</p>
+<p class="taught">Giving The Sense From A to Z · 2024-10-10 · Captain Zakar</p>
 
 <span class="opens"><b>Opens</b> [Rom 15](/bible/romans/15) · [Isa 60](/bible/isaiah/60) · [Isa 54](/bible/isaiah/54) · [Isa 34](/bible/isaiah/34) · [Rev 9](/bible/revelation/9) · [Sir 34](/bible/sirach/34) · [Rev 11](/bible/revelation/11) · [Ps 111](/bible/psalms/111) · [Sir 1](/bible/sirach/1) · [Sir 6](/bible/sirach/6) · [Rev 16](/bible/revelation/16)</span>
 

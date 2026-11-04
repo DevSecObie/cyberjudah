@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Hebrews 1:1"
 slug: "2023/2023-05-04-giving-the-sense-from-a-to-z-hebrews-1-1"
 date: "2023-05-04"
-teacher: ""
-description: "Giving The Sense From A to Z · 2023-05-04"
+teacher: "Captain Azariah"
+description: "Giving The Sense From A to Z · 2023-05-04 · Captain Azariah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "angels", "christ", "leadership", "salvation"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2023-05-04</p>
+<p class="taught">Giving The Sense From A to Z · 2023-05-04 · Captain Azariah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Acts 6](/bible/acts/6) · [Acts 15](/bible/acts/15) · [Heb 1](/bible/hebrews/1) · [Heb 2](/bible/hebrews/2)</span>
 

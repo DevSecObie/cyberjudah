@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Revelation 2:1"
 slug: "2024/2024-07-31-giving-the-sense-from-a-to-z-revelation-2-1"
 date: "2024-07-31"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-07-31"
+teacher: "Captain Zakar"
+description: "Giving The Sense From A to Z · 2024-07-31 · Captain Zakar"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "angels", "repentance", "satan", "the-law", "the-word"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-07-31</p>
+<p class="taught">Giving The Sense From A to Z · 2024-07-31 · Captain Zakar</p>
 
 <span class="opens"><b>Opens</b> [Rev 2](/bible/revelation/2) · [Matt 4](/bible/matthew/4) · [Ezek 18](/bible/ezekiel/18)</span>
 

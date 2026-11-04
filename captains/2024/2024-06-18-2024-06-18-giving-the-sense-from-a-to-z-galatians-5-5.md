@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Galatians 5:5"
 slug: "2024/2024-06-18-giving-the-sense-from-a-to-z-galatians-5-5"
 date: "2024-06-18"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-06-18"
+teacher: "Captain Gedaliah"
+description: "Giving The Sense From A to Z · 2024-06-18 · Captain Gedaliah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "sexual-purity", "the-law"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-06-18</p>
+<p class="taught">Giving The Sense From A to Z · 2024-06-18 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Gal 5](/bible/galatians/5) · [Acts 21](/bible/acts/21) · [Isa 1](/bible/isaiah/1) · [Acts 24](/bible/acts/24) · [John 8](/bible/john/8) · [1 Cor 7](/bible/1-corinthians/7) · [Heb 10](/bible/hebrews/10) · [Gal 2](/bible/galatians/2)</span>
 

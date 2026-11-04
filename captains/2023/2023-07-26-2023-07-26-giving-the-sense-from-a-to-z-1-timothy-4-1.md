@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Timothy 4:1"
 slug: "2023/2023-07-26-giving-the-sense-from-a-to-z-1-timothy-4-1"
 date: "2023-07-26"
-teacher: ""
-description: "Giving The Sense From A to Z · 2023-07-26"
+teacher: "Captain Mattathias"
+description: "Giving The Sense From A to Z · 2023-07-26 · Captain Mattathias"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "angels", "idolatry", "wisdom"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2023-07-26</p>
+<p class="taught">Giving The Sense From A to Z · 2023-07-26 · Captain Mattathias</p>
 
 <span class="opens"><b>Opens</b> [1 Tim 4](/bible/1-timothy/4) · [Acts 20](/bible/acts/20) · [Rev 11](/bible/revelation/11) · [Dan 7](/bible/daniel/7) · [Rev 13](/bible/revelation/13) · [John 16](/bible/john/16) · [Wis 8](/bible/wisdom-of-solomon/8) · [Prov 8](/bible/proverbs/8) · [1 John 2](/bible/1-john/2) · [John 8](/bible/john/8) · [Matt 23](/bible/matthew/23) · [Acts 15](/bible/acts/15) · [Deut 28](/bible/deuteronomy/28) · [Jer 23](/bible/jeremiah/23) · [Jer 17](/bible/jeremiah/17) · [1 Pet 2](/bible/1-peter/2) · <i>and 15 more below</i></span>
 

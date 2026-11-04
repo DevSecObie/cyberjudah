@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Revelation 15:1"
 slug: "2024/2024-11-19-giving-the-sense-from-a-to-z-revelation-15-1"
 date: "2024-11-19"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-11-19"
+teacher: "Captain Gedaliah"
+description: "Giving The Sense From A to Z · 2024-11-19 · Captain Gedaliah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "angels", "the-word"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-11-19</p>
+<p class="taught">Giving The Sense From A to Z · 2024-11-19 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Rev 15](/bible/revelation/15) · [2 Sam 24](/bible/2-samuel/24) · [Sir 39](/bible/sirach/39) · [Hos 12](/bible/hosea/12) · [Ps 78](/bible/psalms/78) · [Matt 13](/bible/matthew/13) · [2 Thess 2](/bible/2-thessalonians/2) · [James 1](/bible/james/1) · [1 Cor 13](/bible/1-corinthians/13) · [Ezek 47](/bible/ezekiel/47) · [Jer 5](/bible/jeremiah/5) · [2 Esdras 13](/bible/2-esdras/13) · [1 John 5](/bible/1-john/5) · [1 Cor 15](/bible/1-corinthians/15) · [Rev 12](/bible/revelation/12) · <i>and 13 more below</i></span>
 

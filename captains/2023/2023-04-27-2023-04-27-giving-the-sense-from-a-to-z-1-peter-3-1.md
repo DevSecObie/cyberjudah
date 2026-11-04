@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Peter 3:1"
 slug: "2023/2023-04-27-giving-the-sense-from-a-to-z-1-peter-3-1"
 date: "2023-04-27"
-teacher: ""
-description: "Giving The Sense From A to Z · 2023-04-27"
+teacher: "Captain Gedaliah"
+description: "Giving The Sense From A to Z · 2023-04-27 · Captain Gedaliah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "marriage-family", "obedience", "women"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2023-04-27</p>
+<p class="taught">Giving The Sense From A to Z · 2023-04-27 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Acts 8](/bible/acts/8) · [1 Pet 1](/bible/1-peter/1) · [1 Pet 2](/bible/1-peter/2) · [Hos 2](/bible/hosea/2) · [Hos 1](/bible/hosea/1) · [1 Pet 3](/bible/1-peter/3) · [Gen 18](/bible/genesis/18)</span>
 

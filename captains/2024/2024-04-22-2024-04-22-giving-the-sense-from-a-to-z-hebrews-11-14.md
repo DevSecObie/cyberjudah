@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Hebrews 11:14"
 slug: "2024/2024-04-22-giving-the-sense-from-a-to-z-hebrews-11-14"
 date: "2024-04-22"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-04-22"
+teacher: "Captain Azariah"
+description: "Giving The Sense From A to Z · 2024-04-22 · Captain Azariah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "egypt", "faith"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-04-22</p>
+<p class="taught">Giving The Sense From A to Z · 2024-04-22 · Captain Azariah</p>
 
 <span class="opens"><b>Opens</b> [Heb 11](/bible/hebrews/11) · [Ezek 34](/bible/ezekiel/34) · [Gen 22](/bible/genesis/22) · [Gen 27](/bible/genesis/27) · [Gen 48](/bible/genesis/48) · [Gen 50](/bible/genesis/50) · [Exod 2](/bible/exodus/2) · [Josh 6](/bible/joshua/6) · [Mark 7](/bible/mark/7) · [Judg 14](/bible/judges/14) · [1 Sam 20](/bible/1-samuel/20) · [1 Kgs 17](/bible/1-kings/17) · [2 Macc 7](/bible/2-maccabees/7) · [Jer 37](/bible/jeremiah/37) · [Acts 7](/bible/acts/7) · [Heb 12](/bible/hebrews/12)</span>
 

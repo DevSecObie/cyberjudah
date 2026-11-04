@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Timothy 6:1"
 slug: "2024/2024-01-08-giving-the-sense-from-a-to-z-1-timothy-6-1"
 date: "2024-01-08"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-01-08"
+teacher: "Captain Mattathias"
+description: "Giving The Sense From A to Z · 2024-01-08 · Captain Mattathias"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "faith", "leadership", "money", "the-law", "unity"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-01-08</p>
+<p class="taught">Giving The Sense From A to Z · 2024-01-08 · Captain Mattathias</p>
 
 <span class="opens"><b>Opens</b> [1 Tim 6](/bible/1-timothy/6) · [Phil 4](/bible/philippians/4) · [Sir 11](/bible/sirach/11)</span>
 

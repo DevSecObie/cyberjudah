@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: John 8:12"
 slug: "2023/2023-05-18-giving-the-sense-from-a-to-z-john-8-12"
 date: "2023-05-18"
-teacher: ""
-description: "Giving The Sense From A to Z · 2023-05-18"
+teacher: "Captain Horeb"
+description: "Giving The Sense From A to Z · 2023-05-18 · Captain Horeb"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "the-body"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2023-05-18</p>
+<p class="taught">Giving The Sense From A to Z · 2023-05-18 · Captain Horeb</p>
 
 <span class="opens"><b>Opens</b> [Prov 4](/bible/proverbs/4) · [John 8](/bible/john/8) · [Eph 5](/bible/ephesians/5)</span>
 

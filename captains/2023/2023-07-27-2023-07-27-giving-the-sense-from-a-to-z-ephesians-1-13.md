@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Ephesians 1:13"
 slug: "2023/2023-07-27-giving-the-sense-from-a-to-z-ephesians-1-13"
 date: "2023-07-27"
-teacher: ""
-description: "Giving The Sense From A to Z · 2023-07-27"
+teacher: "Captain Horeb"
+description: "Giving The Sense From A to Z · 2023-07-27 · Captain Horeb"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "false-religion", "money", "purpose", "salvation", "wisdom"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2023-07-27</p>
+<p class="taught">Giving The Sense From A to Z · 2023-07-27 · Captain Horeb</p>
 
 <span class="opens"><b>Opens</b> [Eph 1](/bible/ephesians/1) · [Eph 2](/bible/ephesians/2) · [Lev 12](/bible/leviticus/12) · [Luke 2](/bible/luke/2) · [1 Macc 1](/bible/1-maccabees/1) · [Rom 10](/bible/romans/10) · [Isa 52](/bible/isaiah/52) · [Sir 6](/bible/sirach/6) · [Esth (Gk) 13](/bible/esther-greek/13) · [Acts 10](/bible/acts/10) · [Rom 11](/bible/romans/11) · [1 Tim 1](/bible/1-timothy/1) · [1 Cor 1](/bible/1-corinthians/1) · [2 Cor 11](/bible/2-corinthians/11) · [Prov 20](/bible/proverbs/20) · [Ps 119](/bible/psalms/119) · <i>and 8 more below</i></span>
 

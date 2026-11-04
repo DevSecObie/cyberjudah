@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Hebrews 2:1"
 slug: "2023/2023-06-08-giving-the-sense-from-a-to-z-hebrews-2-1"
 date: "2023-06-08"
-teacher: ""
-description: "Giving The Sense From A to Z · 2023-06-08"
+teacher: "Captain Azariah"
+description: "Giving The Sense From A to Z · 2023-06-08 · Captain Azariah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "angels", "christ", "faith", "repentance", "salvation"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2023-06-08</p>
+<p class="taught">Giving The Sense From A to Z · 2023-06-08 · Captain Azariah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Heb 2](/bible/hebrews/2) · [Mark 1](/bible/mark/1) · [Luke 1](/bible/luke/1) · [1 Pet 1](/bible/1-peter/1) · [Jer 23](/bible/jeremiah/23) · [2 Cor 8](/bible/2-corinthians/8) · [John 1](/bible/john/1) · [John 17](/bible/john/17) · [Acts 13](/bible/acts/13) · [Heb 4](/bible/hebrews/4)</span>
 

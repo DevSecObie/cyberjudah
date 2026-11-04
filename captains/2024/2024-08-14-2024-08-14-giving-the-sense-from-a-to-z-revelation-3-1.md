@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Revelation 3:1"
 slug: "2024/2024-08-14-giving-the-sense-from-a-to-z-revelation-3-1"
 date: "2024-08-14"
-teacher: ""
-description: "Giving The Sense From A to Z · 2024-08-14"
+teacher: "Captain Mattathias"
+description: "Giving The Sense From A to Z · 2024-08-14 · Captain Mattathias"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "angels", "leadership", "love", "salvation", "the-body"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2024-08-14</p>
+<p class="taught">Giving The Sense From A to Z · 2024-08-14 · Captain Mattathias</p>
 
 <span class="opens"><b>Opens</b> [Rev 3](/bible/revelation/3) · [Rev 1](/bible/revelation/1) · [2 Esdras 1](/bible/2-esdras/1) · [Jude 1](/bible/jude/1) · [Mark 4](/bible/mark/4) · [Rom 6](/bible/romans/6)</span>
 

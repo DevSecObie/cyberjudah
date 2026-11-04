@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Peter 4:1"
 slug: "2023/2023-06-22-giving-the-sense-from-a-to-z-1-peter-4-1"
 date: "2023-06-22"
-teacher: ""
-description: "Giving The Sense From A to Z · 2023-06-22"
+teacher: "Captain Gedaliah"
+description: "Giving The Sense From A to Z · 2023-06-22 · Captain Gedaliah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "justice", "persecution"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2023-06-22</p>
+<p class="taught">Giving The Sense From A to Z · 2023-06-22 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [1 Pet 4](/bible/1-peter/4) · [Wis 2](/bible/wisdom-of-solomon/2) · [Sir 2](/bible/sirach/2) · [2 Thess 1](/bible/2-thessalonians/1) · [Acts 17](/bible/acts/17) · [2 Tim 2](/bible/2-timothy/2) · [Ezek 9](/bible/ezekiel/9) · [Rom 12](/bible/romans/12)</span>
 
