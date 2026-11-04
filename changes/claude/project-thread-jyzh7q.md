@@ -277,3 +277,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Batch 50
 
 - Giving The Sense From A to Z notes for six 2022 classes, 2022-02-24 to 2022-04-14: Romans 4:1, Isaiah 47:1, James 4:1, 1 Peter 1:1, Wisdom of Solomon 5:1 and Psalms 81:1. Teachers whose names were not clear are left blank.
+
+## Batch 51
+
+- Last Giving The Sense From A to Z notes, seven 2022 classes from 2022-01-06 to 2022-02-17: Wisdom of Solomon 1:1 and 1:5 (two parts), James 1:1, Sirach 14:1 and 14:6 (two parts), Isaiah 47:1 and James 2:1. Teachers whose names were not clear are left blank.
