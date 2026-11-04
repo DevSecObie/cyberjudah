@@ -60,17 +60,34 @@ ALIAS = {
     "canticles": "Song of Solomon", "apocalypse": "Revelation",
     "esdras": "1 Esdras", "wisdom": "Wisdom of Solomon",
     "solomon": "Wisdom of Solomon", "jeremy": "Epistle of Jeremiah",
+    # Caption mishearings counted in the transcripts (scripts/transcripts/corrections.py).
+    "villa cos": "Leviticus", "villa cus": "Leviticus", "sirac": "Sirach",
+    "ecclesiastic us": "Sirach",
 }
 ORD = {"first": "1", "second": "2", "third": "3", "1st": "1", "2nd": "2", "3rd": "3",
-       "i": "1", "ii": "2", "iii": "3", "one": "1", "two": "2"}
+       "i": "1", "ii": "2", "iii": "3", "one": "1", "two": "2", "1": "1", "2": "2", "3": "3"}
 # Books that exist only once numbered, under a different name. "Second Ezra" is 2 Esdras:
 # there is no 2 Ezra in the canon, so an ordinal in front of Ezra can only mean Esdras.
 # Bare "Ezra" is left alone -- that book is real and is asked for by name.
-ORD_ALIAS = {"ezra": "Esdras", "ezras": "Esdras", "esdra": "Esdras"}
+ORD_ALIAS = {"ezra": "Esdras", "ezras": "Esdras", "esdra": "Esdras",
+             # The captions hear Esdras as "edges" (636 times "second edges" in the transcripts).
+             "edges": "Esdras", "edge": "Esdras"}
 WORDNUM = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "seven": 7,
            "eight": 8, "nine": 9, "ten": 10, "eleven": 11, "twelve": 12, "thirteen": 13,
            "fourteen": 14, "fifteen": 15, "sixteen": 16, "seventeen": 17, "eighteen": 18,
            "nineteen": 19, "twenty": 20}
+# Spoken tens, "twenty-three" / "twenty three" up to ninety-nine, so a spelled-out number
+# resolves like a digit. ORDNUM holds the ordinals ("the fourteenth verse").
+_TENS = {"twenty": 20, "thirty": 30, "forty": 40, "fifty": 50, "sixty": 60, "seventy": 70, "eighty": 80, "ninety": 90}
+_UNITS = {k: v for k, v in WORDNUM.items() if v < 10}
+for _t, _tv in _TENS.items():
+    WORDNUM[_t] = _tv
+    for _u, _uv in _UNITS.items():
+        WORDNUM[f"{_t}-{_u}"] = WORDNUM[f"{_t} {_u}"] = _tv + _uv
+ORDNUM = {"first": 1, "second": 2, "third": 3, "fourth": 4, "fifth": 5, "sixth": 6, "seventh": 7,
+          "eighth": 8, "ninth": 9, "tenth": 10, "eleventh": 11, "twelfth": 12, "thirteenth": 13,
+          "fourteenth": 14, "fifteenth": 15, "sixteenth": 16, "seventeenth": 17,
+          "eighteenth": 18, "nineteenth": 19, "twentieth": 20, "thirtieth": 30}
 
 def _norm(s):
     s = unicodedata.normalize("NFKD", s.lower()).replace("’", "'")
@@ -119,7 +136,7 @@ def _resolve_exact(n):
         if n.startswith(word + " "):
             rest = n[len(word) + 1:]
             for cand, book in _LOOKUP.items():
-                if cand == rest and re.match(r"^[123] ", book):
+                if cand == rest and re.match(r"^[123] ", book) and f"{digit} {book.split(' ', 1)[1]}" in SLUG:
                     return f"{digit} {book.split(' ', 1)[1]}"
             if rest in ORD_ALIAS and f"{digit} {ORD_ALIAS[rest]}" in SLUG:
                 return f"{digit} {ORD_ALIAS[rest]}"
@@ -138,9 +155,10 @@ def chapter(book, ch):
     return _chap[book].get(str(ch))
 
 # ---------------------------------------------------------------- extraction
-NUM = r"(?:\d{1,3}|" + "|".join(WORDNUM) + r")"
+# Longest first, so "twenty three" is taken whole before "twenty".
+NUM = r"(?:\d{1,3}|" + "|".join(sorted((re.escape(w).replace("\\ ", r"\s+") for w in WORDNUM), key=len, reverse=True)) + r")"
 def _n(tok):
-    tok = tok.strip().lower()
+    tok = re.sub(r"\s+", " ", tok.strip().lower())
     return int(tok) if tok.isdigit() else WORDNUM.get(tok)
 
 BOOKPAT = r"([1-3]?\s?[A-Za-z][A-Za-z'’]*(?:\s+of\s+(?:the\s+)?[A-Za-z]+)?(?:\s+[A-Za-z][A-Za-z'’]*)?)"

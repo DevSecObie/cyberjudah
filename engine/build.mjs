@@ -120,17 +120,23 @@ writeJson(path.join(API, "classes", "broadcasts.json"), loadClassBroadcasts(ROOT
 const noteByVideo = new Map(L.notes.filter((n) => n.videoId).map((n) => [n.videoId, n]));
 const hms = (s) => { const h = Math.floor(s / 3600), m = Math.floor((s % 3600) / 60), x = s % 60; return h ? `${h}:${String(m).padStart(2, "0")}:${String(x).padStart(2, "0")}` : `${m}:${String(x).padStart(2, "0")}`; };
 const teacherRank = (t) => (/^bishop\b/i.test(t ?? "") ? 0 : /^deacon\b/i.test(t ?? "") ? 1 : 2);
+// How a verse was found (readings.py): called for by book, chapter and verse; read on past the
+// verses called for; or called for by verse alone while the chapter was open.
+const HOW = { "": "called", f: "followed", x: "verse" };
 function readingsOf(slug) {
   const f = path.join(READINGS, `${slug}.json`);
   if (!fs.existsSync(f)) return {};
+  const callsFile = path.join(READINGS, "calls", `${slug}.json`);
+  const calls = fs.existsSync(callsFile) ? JSON.parse(fs.readFileSync(callsFile, "utf8")) : {};
   const raw = JSON.parse(fs.readFileSync(f, "utf8")), out = {};
   for (const [c, vs] of Object.entries(raw)) {
     out[c] = {};
     for (const [v, rows] of Object.entries(vs)) {
-      out[c][v] = rows.map(([video, t, vt]) => {
-        const meta = readVideos[video] ?? {}, note = noteByVideo.get(video);
-        // `t` is where the reading was called for; `vt`, when the captions show it, where this verse itself is read.
-        return { video, t, ts: hms(t), ...(vt != null ? { vt } : {}), title: note?.title || meta.title || "Class", date: note?.date || meta.date || "", teacher: note?.teacher || meta.teacher || "", ...(note ? { url: note.url } : {}) };
+      out[c][v] = rows.map(([video, t, vt, how = ""]) => {
+        const meta = readVideos[video] ?? {}, note = noteByVideo.get(video), said = calls[`${video}@${t}`];
+        // `t` is where the reading was called for; `vt`, when the captions show it, where this verse itself is read;
+        // `said`, the caption words where the reference was called for.
+        return { video, t, ts: hms(t), ...(vt != null ? { vt } : {}), how: HOW[how] ?? "called", ...(said ? { said } : {}), feed: meta.feed || "", title: note?.title || meta.title || "Class", date: note?.date || meta.date || "", teacher: note?.teacher || meta.teacher || "", ...(note ? { url: note.url } : {}) };
       }).sort((a, b) => teacherRank(a.teacher) - teacherRank(b.teacher) || (b.date || "").localeCompare(a.date || ""));
     }
   }
