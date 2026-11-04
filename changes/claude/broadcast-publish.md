@@ -1,0 +1,1 @@
+- Publish the data set after each class broadcast backfill, so new start times reach the app the same day.
