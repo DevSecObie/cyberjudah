@@ -106,7 +106,7 @@ def read_names(book, VERSES, recs, errs):
 
 
 # A record whose shown name changed keeps the id it was built with, so links, portraits and
-# saved studies that use the id still work. Jesus is shown as "Jesus Christ" (Obie, 2026-11-03).
+# saved studies that use the id still work. Jesus is shown as "Jesus Christ" (2026-11-03).
 ID_NAMES = {'jesus': 'Jesus'}
 
 

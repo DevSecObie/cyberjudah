@@ -1,6 +1,6 @@
 # 19 more topics from the classes
 
-Obie (2026-10-30): "i know we go over many different topics so there could be more added".
+2026-10-30: "i know we go over many different topics so there could be more added".
 
 - `data/topics.tsv`: 19 new topics for subjects the classes teach often that had none: Rome and the
   Caesars, Greece and the Greeks, Persia and the Medes, Egypt, Africa and the Moors, Spain and the

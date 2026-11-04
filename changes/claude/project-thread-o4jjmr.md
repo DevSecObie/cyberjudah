@@ -3,7 +3,7 @@
 The People relationships now follow the King James text. Family links that the KJV does not state were taken out of `data/people/people.json` (120 links, both sides of each). Matthew 1:15's "Matthan begat Jacob" now reads as written.
 
 ## Why
-Obie asked that the relations follow the KJV 1611 Bible and its lines. The family links come from STEPBible's TIPNR. TIPNR fills some gaps from tradition and from scholars' guesses, such as Naamah as Noah's wife or Zeresh as the mother of Haman's ten sons. The app then showed those guesses as Bible facts on each person's Relationships graph.
+The relations follow the KJV 1611 Bible and its lines. The family links come from STEPBible's TIPNR. TIPNR fills some gaps from tradition and from scholars' guesses, such as Naamah as Noah's wife or Zeresh as the mother of Haman's ten sons. The app then showed those guesses as Bible facts on each person's Relationships graph.
 
 ## How it was checked
 Every one of the 4,790 links in the catalog was checked against the KJV text in `data/bible/`:

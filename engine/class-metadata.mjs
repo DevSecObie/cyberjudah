@@ -48,7 +48,7 @@ export function parseRankTeachers(text) {
   const rows = new Map();
   for (const [i, line] of lines.entries()) {
     // An optional third column names the bare rank the class wrote when it differs from the
-    // teacher's own title (Obie: the "Deacon" of 6Zr0mBGRnyU is Elder Labachaa). A class may have
+    // teacher's own title (the "Deacon" of 6Zr0mBGRnyU is Elder Labachaa). A class may have
     // one row per bare rank (its "Deacon" and its "Captain" passages), never two for the same rank.
     const cells = line.split('\t'), [video, teacher, rank] = cells;
     if (cells.length < 2 || cells.length > 3 || !/^[\w-]{11}$/.test(video) || !/^(Bishop|Deacon|Captain|Elder) \S.{0,100}$/.test(teacher ?? '') || (cells.length === 3 && !RANK.test(rank))) throw new Error(`rank-teachers.tsv row ${i + 1}: invalid row`);
@@ -80,7 +80,7 @@ export function parseNames(text) {
 }
 export const officialName = (names, name) => names.get(String(name ?? '').trim().toLowerCase()) ?? name;
 /** Who taught a recording, and when, by the class outlines in the sabbath-classes-images R2 bucket:
- * data/sources/r2-class-teachers.tsv (date, file_date, video, teacher, ...). Obie 2026-11-02: the
+ * data/sources/r2-class-teachers.tsv (date, file_date, video, teacher, ...). 2026-11-02: the
  * outline names and dates are accurate. A recording filed under two teachers is left out. */
 export function parseOutlineTeachers(text, names = new Map()) {
   const lines = text.replace(/^﻿/, '').replace(/\r\n/g, '\n').split('\n').filter(l => l && !l.startsWith('#'));

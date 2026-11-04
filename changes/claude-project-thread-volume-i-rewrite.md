@@ -1,6 +1,6 @@
 # Volume I case studies: the rewritten text
 
-Obie (2026-11-01): "These updates need to go to the database/apps".
+2026-11-01: "These updates need to go to the database/apps".
 
 - `data/cases.json`: the 233 Volume I cases (C001–C233) take the rewritten text that follows
   the classes, notes and transcripts: charge, verdict, headnote summary, the offense/obedience and

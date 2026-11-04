@@ -71,7 +71,7 @@ def names():
 
 
 NAMES = names()
-# A leader data/names.tsv spells with no title (Zakai, Obie 2026-10-31: no longer a captain) is
+# A leader data/names.tsv spells with no title (Zakai, 2026-10-31: no longer a captain) is
 # written that way on purpose; browse sorts an untitled teacher after the ranked ones.
 UNTITLED = {n for n, _ in NAMES if not n.startswith(TITLES)}
 
