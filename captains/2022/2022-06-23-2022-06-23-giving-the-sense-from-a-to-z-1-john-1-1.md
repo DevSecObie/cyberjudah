@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: 1 John 1:1"
 slug: "2022/2022-06-23-giving-the-sense-from-a-to-z-1-john-1-1"
 date: "2022-06-23"
-teacher: "Captain Matthias"
+teacher: ""
 description: "Giving The Sense From A to Z · 2022-06-23"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "deceit", "repentance", "the-body", "the-law"]

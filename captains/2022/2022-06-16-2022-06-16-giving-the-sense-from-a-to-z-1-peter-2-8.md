@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Peter 2:8"
 slug: "2022/2022-06-16-giving-the-sense-from-a-to-z-1-peter-2-8"
 date: "2022-06-16"
-teacher: ""
-description: "Giving The Sense From A to Z · 2022-06-16"
+teacher: "Captain Gedaliah"
+description: "Giving The Sense From A to Z · 2022-06-16 · Captain Gedaliah"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "the-law"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2022-06-16</p>
+<p class="taught">Giving The Sense From A to Z · 2022-06-16 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [1 Pet 2](/bible/1-peter/2) · [Isa 8](/bible/isaiah/8) · [Isa 53](/bible/isaiah/53) · [Isa 5](/bible/isaiah/5) · [Luke 19](/bible/luke/19) · [1 Cor 1](/bible/1-corinthians/1) · [Matt 12](/bible/matthew/12) · [Matt 27](/bible/matthew/27) · [John 11](/bible/john/11) · [Acts 5](/bible/acts/5) · [2 Esdras 9](/bible/2-esdras/9) · [Zech 13](/bible/zechariah/13) · [Rom 9](/bible/romans/9) · [Luke 1](/bible/luke/1) · [Rom 1](/bible/romans/1) · <i>and 6 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "the-law"]
 
 ## Introduction
 
-*[[5:07](https://www.youtube.com/watch?v=Cltc3WRTRrE&t=307s)]* All praises to the Most High, all praises to the Most High God. Shalom, shalom, shalom family, Most High in Christ bless. Welcome to another edition of Giving the Sense From A to Z. I'm today's host, captain get a lie, and today I have reading for me... Don't be nervous, it's gonna be great. We're gonna jump right back into where we left off. Yes, we still got our new moon decor up, yes, cause we party late here in Jackson, so we left late, and we also in 100 days of camp, so we didn't get a chance to do it yet. So yep, our new moon decor is still up, but it will be down before the Sabbath anyway. We're gonna jump back into First Peter chapter two. Last time was two weeks ago, we left off at First Peter chapter two and verse seven, so we're gonna pick up at First Peter chapter two and verse eight. But before we do that, let's get Nehemiah chapter eight verse eight, because this is Giving the Sense From A to Z.
+*[[5:07](https://www.youtube.com/watch?v=Cltc3WRTRrE&t=307s)]* All praises to the Most High, all praises to the Most High God. Shalom, shalom, shalom family, Most High in Christ bless. Welcome to another edition of Giving the Sense From A to Z. I'm today's host, Captain Gedaliah, and today I have reading for me... Don't be nervous, it's gonna be great. We're gonna jump right back into where we left off. Yes, we still got our new moon decor up, yes, cause we party late here in Jackson, so we left late, and we also in 100 days of camp, so we didn't get a chance to do it yet. So yep, our new moon decor is still up, but it will be down before the Sabbath anyway. We're gonna jump back into First Peter chapter two. Last time was two weeks ago, we left off at First Peter chapter two and verse seven, so we're gonna pick up at First Peter chapter two and verse eight. But before we do that, let's get Nehemiah chapter eight verse eight, because this is Giving the Sense From A to Z.
 
 ## Scriptures Opened
 

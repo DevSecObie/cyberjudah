@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: 1 John 2:4"
 slug: "2022/2022-07-28-giving-the-sense-from-a-to-z-1-john-2-4"
 date: "2022-07-28"
-teacher: "Captain Matthias"
+teacher: ""
 description: "Giving The Sense From A to Z · 2022-07-28"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "faith", "idolatry"]
