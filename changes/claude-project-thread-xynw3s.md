@@ -1,2 +1,3 @@
-- Class note: God of War (Bishop Nathanyel, 2025-08-23), the whole class in his words, verse by verse.
-- Transcript F_nhaOAeXoQ dated 2025-08-23.
+- Class notes (Bishop Nathanyel): From Covenants to Colonization to Catastrophe (2025-05-24), The Trial Of God's Servants (2025-04-19), Project Esther (2025-03-15), each the whole class in his words, verse by verse, from his greeting.
+- God of War note: other speakers' lines removed so the note holds only the teacher's words.
+- Transcripts WaIcuHYexGs, g604eNCOyGI and v3tjeiEEpFg dated.
