@@ -47,6 +47,12 @@ jobs:
           # Then the IUIC channels, largest audience first (data/sources/iuic-channels.tsv): the next
           # channel without a completion marker, up to 200 transcripts an hour, until each is done.
           python3 scripts/history/channel_queue.py status
+          # Bishop and Deacon classes first: search the next ten channels in the queue for
+          # them and fetch those before the channel order reaches them. Only channels the
+          # queue will harvest anyway, and the vault check skips any class already held.
+          python3 scripts/history/channel_queue.py next --n 10 | while IFS=$'\t' read -r handle feed; do
+            python3 scripts/history/harvest.py --feed "$feed" --channel "$handle" --backend transcriptapi --listing-backend yt-dlp --search bishop,deacon --limit 30 --push --recheck-nocaption-days -1 || echo "::warning::Bishop/Deacon search for $handle failed"
+          done
           python3 scripts/history/channel_queue.py next --n 1 | while IFS=$'\t' read -r handle feed; do
             python3 scripts/history/harvest.py --feed "$feed" --channel "$handle" --backend transcriptapi --listing-backend yt-dlp --limit 200 --push --recheck-nocaption-days -1 --completion-marker "dashboard/completed-sources/$handle.json"
           done
