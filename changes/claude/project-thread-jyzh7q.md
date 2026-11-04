@@ -207,3 +207,8 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 - Colossians 1:1 (2024-05-09, Captain Josiah), 1 John 4:1 (2024-05-08, host heard as "Captain mat th", left blank), Romans 2:1 (2024-05-07, host of IUIC New Orleans says both "Captain Matt" and "Captain Matthew", left blank), Hebrews 12:1 (2024-05-06, Captain Azariah, as he names himself), 1 Corinthians 7:1 (2024-05-02, Captain Horeb) and Sirach 25:1 (2024-04-24, Captain Gedaliah).
 - These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
+
+## Batch 35
+
+- Hebrews 11:14 (2024-04-22, host heard as "Captain Aiah", left blank), 2 Timothy 4:1 (2024-03-27, host says only "Captain M", left blank), Isaiah 14:12 (2024-03-26, host never names himself, left blank), Philemon 1:12 (2024-03-21, Captain Josiah of IUIC Raleigh, as he names himself), Ezra 2:1 (2024-03-18, Captain Matthew, as he names himself) and Ephesians 6:1 (2024-03-14, Captain Horeb of Kansas City).
+- These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
