@@ -62,7 +62,7 @@ A link stays when the KJV states it, or when it follows from what the KJV states
   - Lot's daughters as his "wives".
   - Jerimoth as one of David's sons born of the Jerusalem wives.
 
-## Left for the owner
+## Left open
 These records join two or more KJV names into one person: Abiel with Jehiel and Ner; Jeaterai with Ethni; Jahath with Jehiel. The links inside each record follow from that joining. Splitting them is a separate change. The daughter of Herodias is named "Salome" only outside the KJV, and her record carries no name.
 
 `node engine/check.mjs` (with `PEOPLE_BASE` set to main) passes, and so do `node --test engine/people-*.test.mjs` (28 tests).

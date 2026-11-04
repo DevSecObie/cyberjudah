@@ -27,7 +27,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Captain Uri and Captain Zakai
 
 - "Captain Uri not Yuri". New `data/names.tsv` row Captain Uri (variants Captain Yuri, Captain Yurie); 140 spots respelled.
-- Decision card: the IUIC Sacramento captain is Captain Zakai. New row Captain Zakai (variants Captain Zacchaeus, Captain Zakar, Captain Zachariah, Captain Zechariah); 44 spots respelled.
+- The IUIC Sacramento captain is Captain Zakai. New row Captain Zakai (variants Captain Zacchaeus, Captain Zakar, Captain Zachariah, Captain Zechariah); 44 spots respelled.
 
 ## Batch 6
 
