@@ -52,5 +52,22 @@ class BackfillTests(unittest.TestCase):
             self.assertEqual(found, {"aaaaaaaaaaa": {"date": "20230105", "duration": "1234", "views": "4140"}})
 
 
+
+class YouTubeBackendTests(unittest.TestCase):
+    def test_lengths_views_and_pacific_dates_fifty_a_request(self):
+        calls = []
+        def fetch(url):
+            calls.append(url)
+            return {"items": [
+                {"id": "aaaaaaaaaaa", "snippet": {"publishedAt": "2019-01-05T03:00:00Z"},
+                 "contentDetails": {"duration": "PT1H2M3S"}, "statistics": {"viewCount": "1234"}},
+                {"id": "bbbbbbbbbbb", "contentDetails": {"duration": "P0D"}}]}
+        ids = ["aaaaaaaaaaa", "bbbbbbbbbbb"] + [f"c{i:010d}" for i in range(60)]
+        found = backfill_meta.youtube(ids, key="k", fetch=fetch)
+        self.assertEqual(len(calls), 2)
+        self.assertEqual(found["aaaaaaaaaaa"], {"date": "20190104", "duration": "3723", "views": "1234"})
+        self.assertEqual(found["bbbbbbbbbbb"], {"date": "", "duration": "", "views": ""})
+        self.assertNotIn("c0000000000", found)
+
 if __name__ == "__main__":
     unittest.main()

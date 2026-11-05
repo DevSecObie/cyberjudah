@@ -1,0 +1,1 @@
+- Metadata backfill: `--backend youtube` reads dates, lengths and views from the YouTube Data API, and `--lengths` fills transcripts that have a date but no length (in channel-meta.tsv and the transcript file). The workflow uses it, with no yt-dlp.
