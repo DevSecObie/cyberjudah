@@ -19,6 +19,11 @@ def page(**changes):
 class BroadcastTests(unittest.TestCase):
     def setUp(self):
         broadcasts._refused_in_a_row = 0
+        env = patch.dict("os.environ")
+        env.start()
+        self.addCleanup(env.stop)
+        import os
+        os.environ.pop("YOUTUBE_API_KEY", None)
 
     def test_actual_start_not_upload_or_end(self):
         self.assertEqual(parse_broadcast(page(), VIDEO, "2026-10-03"), {"date": "2026-10-03", "broadcastAt": "2026-10-03T21:56:00Z"})

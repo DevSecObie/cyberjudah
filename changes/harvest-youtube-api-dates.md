@@ -1,0 +1,1 @@
+- Harvest: when a new video has no date, the date comes from the YouTube Data API (free) when `YOUTUBE_API_KEY` is set, instead of a TranscriptAPI metadata call.
