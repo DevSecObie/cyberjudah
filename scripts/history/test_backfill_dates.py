@@ -92,5 +92,18 @@ class Backfill(unittest.TestCase):
         self.assertEqual(len(calls), 1)
 
 
+class YouTubeApiDatesTest(unittest.TestCase):
+    def test_dates_are_youtubes_pacific_day_and_fifty_videos_a_request(self):
+        calls = []
+        def fetch(url):
+            calls.append(url)
+            return {"items": [{"id": "AAAAAAAAAAA", "snippet": {"publishedAt": "2019-01-05T03:00:00Z"}}, {"id": "CCCCCCCCCCC", "snippet": {}}]}
+        ids = ["AAAAAAAAAAA", "CCCCCCCCCCC"] + [f"B{i:010d}" for i in range(60)]
+        self.assertEqual(backfill_dates.youtube_api_dates(ids, "k", fetch), {"AAAAAAAAAAA": "2019-01-04"})
+        self.assertEqual(len(calls), 2)
+        self.assertEqual(backfill_dates.pacific_date("2020-05-25T12:00:11Z"), "2020-05-25")
+        self.assertIsNone(backfill_dates.pacific_date("not a date"))
+
+
 if __name__ == "__main__":
     unittest.main()

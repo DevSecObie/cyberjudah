@@ -17,6 +17,14 @@ on:
         required: true
         default: "200"
         type: string
+      source:
+        description: Where the publish date is read (youtube = the free YouTube Data API, no TranscriptAPI credits)
+        required: true
+        default: youtube
+        type: choice
+        options:
+          - youtube
+          - transcriptapi
       dry_run:
         description: Look up dates but write nothing
         required: true
@@ -41,12 +49,14 @@ jobs:
 
       - name: Backfill undated transcripts from the video's own publish date
         env:
-          TRANSCRIPTAPI_KEY: ${{ secrets.TRANSCRIPTAPI_KEY }}
+          TRANSCRIPTAPI_KEY: ${{ inputs.source == 'transcriptapi' && secrets.TRANSCRIPTAPI_KEY || '' }}
+          YOUTUBE_API_KEY: ${{ inputs.source == 'youtube' && secrets.YOUTUBE_API_KEY || '' }}
+          SOURCE: ${{ inputs.source }}
           FEED: ${{ inputs.feed }}
           LIMIT: ${{ inputs.limit }}
           DRY_RUN: ${{ inputs.dry_run }}
         run: |
-          ARGS=(--feed "$FEED" --limit "$LIMIT")
+          ARGS=(--feed "$FEED" --limit "$LIMIT" --source "$SOURCE")
           if [[ "$DRY_RUN" == "true" ]]; then
             ARGS+=(--dry-run)
           fi
