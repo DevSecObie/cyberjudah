@@ -126,5 +126,36 @@ class BroadcastTests(unittest.TestCase):
         fetch.assert_called_once()
 
 
+
+class ApiTests(unittest.TestCase):
+    def setUp(self):
+        broadcasts._api_answers.clear()
+        self.addCleanup(broadcasts._api_answers.clear)
+
+    def test_api_start_end_and_missing_videos(self):
+        calls = []
+        def fetch(url):
+            calls.append(url)
+            return {"items": [
+                {"id": VIDEO, "liveStreamingDetails": {"actualStartTime": "2026-10-03T21:56:00Z", "actualEndTime": "2026-10-04T01:46:53Z"}},
+                {"id": "notlive0000"}]}
+        found = broadcasts.api_details([VIDEO, "notlive0000", "gone0000000"] + [f"x{i:010d}" for i in range(60)], "k", fetch)
+        self.assertEqual(len(calls), 2)
+        self.assertEqual(broadcasts.parse_api(found[VIDEO], "2026-10-03"), ({"date": "2026-10-03", "broadcastAt": "2026-10-03T21:56:00Z"}, None))
+        self.assertEqual(broadcasts.parse_api(found["notlive0000"], "2026-10-03")[1], "not a livestream")
+        self.assertIn("deleted or private", broadcasts.parse_api(found.get("gone0000000"), "2026-10-03")[1])
+        self.assertEqual(broadcasts.parse_api({"actualStartTime": "2026-10-03T21:56:00Z"}, "2026-10-03")[1], "the broadcast has not ended")
+        self.assertIn("not the class's date", broadcasts.parse_api(found[VIDEO], "2026-09-20")[1])
+
+    def test_key_set_uses_api_not_page_or_ytdlp(self):
+        details = {VIDEO: {"actualStartTime": "2026-10-03T21:56:00Z", "actualEndTime": "2026-10-04T01:46:53Z"}}
+        with tempfile.TemporaryDirectory() as root, \
+             patch.dict("os.environ", {"YOUTUBE_API_KEY": "k"}), \
+             patch("broadcasts.api_details", return_value=details), \
+             patch("broadcasts.subprocess.run", side_effect=AssertionError("no page or yt-dlp")):
+            self.assertTrue(record_broadcast(root, VIDEO, "2026-10-03"))
+            rows = json.loads((Path(root) / RELATIVE_PATH).read_text())
+            self.assertEqual(rows[VIDEO]["broadcastAt"], "2026-10-03T21:56:00Z")
+
 if __name__ == "__main__":
     unittest.main()
