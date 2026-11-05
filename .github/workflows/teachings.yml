@@ -18,9 +18,10 @@ jobs:
       - run: python3 scripts/corpus/build.py
       - run: python3 scripts/corpus/index.py
       - run: npm ci --prefix site --no-audit --no-fund
+      # Blue-green: a spare copy is loaded and checked beside the live tables, then switched in
+      # one step, so /teachings and the bot's teachings never pause and a bad load never goes live.
       - name: Load teaching passages
-        working-directory: site
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-        run: npx wrangler d1 execute cyberjudah --remote --file ../dist/teachings.sql -y
+        run: node .github/scripts/load-search-d1.mjs dist/teachings.sql cyberjudah teachings
