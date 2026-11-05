@@ -1,0 +1,1 @@
+- Verse readings data rebuilt so recordings dated by the YouTube Data API backfill show their dates (2 recordings stay undated).
