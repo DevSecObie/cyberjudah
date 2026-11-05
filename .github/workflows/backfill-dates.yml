@@ -63,7 +63,7 @@ jobs:
           python3 scripts/history/backfill_dates.py "${ARGS[@]}"
 
       - name: Commit backfilled dates
-        if: ${{ inputs.dry_run == 'false' }}
+        if: ${{ !inputs.dry_run }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           FEED: ${{ inputs.feed }}
