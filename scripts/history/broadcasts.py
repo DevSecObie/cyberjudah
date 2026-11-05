@@ -6,6 +6,8 @@ import random
 import re
 import subprocess
 import sys
+import urllib.parse
+import urllib.request
 from collections import Counter
 from datetime import date, datetime, timezone
 from pathlib import Path
@@ -15,6 +17,10 @@ ROOT = Path(__file__).resolve().parents[2]
 # yt-dlp reads this cookies file when it is set, so a lookup can pass YouTube's sign-in check
 # ("confirm you're not a bot"), which YouTube puts in front of GitHub's runners.
 COOKIES_ENV = "BROADCASTS_COOKIES"
+# With this key set, starts come from the YouTube Data API (videos.list, liveStreamingDetails),
+# 50 videos a request, and the watch page and yt-dlp are not used.
+API_KEY_ENV = "YOUTUBE_API_KEY"
+_api_answers = {}
 
 
 def parse_broadcast(html, video, teaching_date):
@@ -110,6 +116,56 @@ def fetch_ytdlp(video, teaching_date):
     return {"date": day, "broadcastAt": start.isoformat().replace("+00:00", "Z")}, None
 
 
+def api_details(video_ids, key, fetch=None):
+    """{video: liveStreamingDetails, or {} when the video was never live}; a video the API
+    doesn't return (deleted, private) is left out."""
+    def get(url):
+        with urllib.request.urlopen(url, timeout=30) as r:
+            return json.load(r)
+    fetch = fetch or get
+    out = {}
+    for i in range(0, len(video_ids), 50):
+        ids = ",".join(video_ids[i:i + 50])
+        data = fetch("https://www.googleapis.com/youtube/v3/videos?" + urllib.parse.urlencode({
+            "part": "liveStreamingDetails", "id": ids, "key": key,
+            "fields": "items(id,liveStreamingDetails(actualStartTime,actualEndTime))"}))
+        for item in data.get("items", []):
+            out[item["id"]] = item.get("liveStreamingDetails") or {}
+    return out
+
+
+def parse_api(details, teaching_date):
+    """The start from the API's liveStreamingDetails, or None and the reason."""
+    try:
+        day = date.fromisoformat(teaching_date).isoformat()
+    except (TypeError, ValueError):
+        return None, "the class has no valid date"
+    if details is None:
+        return None, "the API did not return the video (deleted or private)"
+    if not details.get("actualStartTime"):
+        return None, "not a livestream"
+    if not details.get("actualEndTime"):
+        return None, "the broadcast has not ended"
+    try:
+        start = datetime.fromisoformat(details["actualStartTime"].replace("Z", "+00:00")).astimezone(timezone.utc)
+    except (ValueError, AttributeError):
+        return None, "the API gave no readable broadcast start"
+    if abs((start.date() - date.fromisoformat(day)).days) > 1:
+        return None, f"the broadcast start ({start.date()}) is not the class's date"
+    return {"date": day, "broadcastAt": start.isoformat().replace("+00:00", "Z")}, None
+
+
+def prefetch(video_ids):
+    """Ask the API about many videos at once, so each lookup after this costs nothing."""
+    key = os.environ.get(API_KEY_ENV)
+    wanted = [v for v in video_ids if v not in _api_answers]
+    if not key or not wanted:
+        return
+    found = api_details(wanted, key)
+    for video in wanted:
+        _api_answers[video] = found.get(video)
+
+
 # After this many lookups in a row that YouTube refused outright, a run stops asking: the
 # rest would be refused too, and each costs a page fetch and a yt-dlp call.
 REFUSED_LIMIT = 5
@@ -123,8 +179,15 @@ def _refused(reason):
 
 
 def lookup(video, teaching_date):
-    """The start from the watch page, then from yt-dlp; or None and why both missed."""
+    """The start from the API when its key is set; otherwise from the watch page, then from
+    yt-dlp; or None and why both missed."""
     global _refused_in_a_row
+    if os.environ.get(API_KEY_ENV):
+        try:
+            prefetch([video])
+        except (OSError, ValueError) as exc:
+            return None, f"the YouTube API could not be reached ({str(exc)[:120]})"
+        return parse_api(_api_answers.get(video), teaching_date)
     if _refused_in_a_row >= REFUSED_LIMIT:
         return None, f"not tried: YouTube refused the last {REFUSED_LIMIT} lookups this run"
     row, page_reason = fetch_page(video, teaching_date)
@@ -194,6 +257,10 @@ def backfill(root, tdir, since, tries=20, reasons=None):
     picked = dated[:newest] + random.sample(dated[newest:], min(tries - newest, len(dated[newest:])))
     recorded = []
     reasons = Counter() if reasons is None else reasons
+    try:
+        prefetch([video for _, video in picked])
+    except (OSError, ValueError) as exc:
+        print(f"YouTube API batch lookup failed ({str(exc)[:120]}); looking up one at a time", flush=True)
     for day, video in picked:
         if record_broadcast(root, video, day, reasons):
             recorded.append(video)

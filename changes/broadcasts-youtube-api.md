@@ -1,0 +1,1 @@
+- Broadcast starts come from the YouTube Data API (`liveStreamingDetails`, 50 videos a request) when `YOUTUBE_API_KEY` is set. The nightly backfill no longer fetches watch pages or uses cookies, and the harvest's own broadcast lookups use the API too.
