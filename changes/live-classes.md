@@ -1,0 +1,1 @@
+- Live and upcoming classes: every 15 minutes `scripts/history/upcoming.py` lists the classes scheduled or live on the main class channels in `data/sources/live-classes.json`, from the YouTube Data API, and publishes the data set when the list changes.

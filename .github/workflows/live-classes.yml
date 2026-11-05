@@ -1,0 +1,59 @@
+name: Live and upcoming classes
+
+# Every 15 minutes, lists the classes scheduled or live on the main class channels in
+# data/sources/live-classes.json, from the YouTube Data API (YOUTUBE_API_KEY, about 5 units a
+# run, under 500 a day). When the list changes it is committed and the data set is published,
+# so the new-class alert can go out when a class starts.
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: live-classes
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    environment: automation
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+        with:
+          fetch-depth: 1
+          ref: main
+          persist-credentials: false
+
+      - name: Check the class channels
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python3 scripts/history/upcoming.py | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit and publish when the list changed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [[ -z "$(git status --porcelain -- data/sources/live-classes.json)" ]]; then
+            echo "No change."
+            exit 0
+          fi
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -- data/sources/live-classes.json
+          git commit -m "data: live and upcoming classes [skip ci]"
+          for attempt in 1 2 3; do
+            if git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main; then
+              gh workflow run data.yml --ref main --repo "$GITHUB_REPOSITORY"
+              exit 0
+            fi
+            git pull --rebase "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" main
+            sleep $((attempt * 5))
+          done
+          echo "Push failed after 3 attempts." >&2
+          exit 1
