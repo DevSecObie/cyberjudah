@@ -1,3 +1,5 @@
+import io
+import json
 import os
 import sys
 import unittest
@@ -60,9 +62,36 @@ class ParsePublishDate(unittest.TestCase):
         self.assertNotEqual(result, "")
 
 
+class YouTubeKeyPublishDate(unittest.TestCase):
+    def test_key_set_uses_youtube_api_not_transcriptapi(self):
+        body = json.dumps({"items": [{"id": "abc12345678", "snippet": {"publishedAt": "2019-01-05T03:00:00Z"}}]}).encode()
+        class Resp(io.BytesIO):
+            def __enter__(self): return self
+            def __exit__(self, *a): return False
+        with patch.dict(os.environ, {"YOUTUBE_API_KEY": "k"}), \
+             patch.object(harvest, "urlopen", return_value=Resp(body)), \
+             patch.object(harvest, "api_get", side_effect=AssertionError("no TranscriptAPI call")):
+            self.assertEqual(harvest.video_publish_date("abc12345678"), "2019-01-04")
+
+    def test_video_missing_from_api_is_undated(self):
+        class Resp(io.BytesIO):
+            def __enter__(self): return self
+            def __exit__(self, *a): return False
+        with patch.dict(os.environ, {"YOUTUBE_API_KEY": "k"}), \
+             patch.object(harvest, "urlopen", return_value=Resp(b'{"items": []}')), \
+             patch.object(harvest, "api_get", side_effect=AssertionError("no TranscriptAPI call")):
+            self.assertIsNone(harvest.video_publish_date("abc12345678"))
+
+
 class VideoPublishDate(unittest.TestCase):
     """The fallback the harvester now takes when the channel listing has no date:
     ask /youtube/video/metadata for the video's own publish date."""
+
+    def setUp(self):
+        env = patch.dict(os.environ)
+        env.start()
+        self.addCleanup(env.stop)
+        os.environ.pop("YOUTUBE_API_KEY", None)
 
     def test_extracts_date_from_the_metadata_endpoint(self):
         payload = {"content": {"videoId": "abc12345678", "publishDate": "Premiered Nov 15, 2019"}}

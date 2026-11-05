@@ -281,14 +281,43 @@ def fetch_transcript(video_id):
     return api_get("/youtube/transcript", params, timeout=60, retries=5)
 
 
+YOUTUBE_KEY_ENV = "YOUTUBE_API_KEY"
+
+
+def youtube_publish_date(video_id, key):
+    """The publish date from the YouTube Data API (free quota, no TranscriptAPI credit),
+    as YouTube's own Pacific-time day; None when the API doesn't return the video."""
+    from zoneinfo import ZoneInfo
+    url = "https://www.googleapis.com/youtube/v3/videos?" + urlencode({
+        "part": "snippet", "id": video_id, "key": key, "fields": "items(id,snippet/publishedAt)"})
+    try:
+        with urlopen(url, timeout=20) as r:
+            items = json.load(r).get("items", [])
+    except (HTTPError, URLError, OSError, ValueError):
+        return None
+    for item in items:
+        if item.get("id") == video_id:
+            try:
+                stamp = datetime.fromisoformat(item["snippet"]["publishedAt"].replace("Z", "+00:00"))
+            except (KeyError, TypeError, ValueError, AttributeError):
+                return None
+            return stamp.astimezone(ZoneInfo("America/Los_Angeles")).date().isoformat()
+    return None
+
+
 def video_publish_date(video_id):
     """The video's own publish date, for when the channel listing carries none.
+
+    With YOUTUBE_API_KEY set the YouTube Data API answers and no TranscriptAPI credit is spent.
 
     The `/videos` tab listing (yt-dlp's --flat-playlist, used as --listing-backend for
     every classes workflow) never carries a date at all; the transcript endpoint's
     `send_metadata` is oEmbed-only (title, author, thumbnail, no date either). Only
     /youtube/video/metadata's `publishDate` has it.
     """
+    key = os.environ.get(YOUTUBE_KEY_ENV)
+    if key:
+        return youtube_publish_date(video_id, key)
     code, payload, _ = api_get("/youtube/video/metadata", {"video_url": video_id}, timeout=20, retries=2)
     if code != 200:
         return None
