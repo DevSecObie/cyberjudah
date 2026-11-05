@@ -1,0 +1,1 @@
+- classes.py: `next --book` works again with readings rows that carry an end time; it unpacks only the class id.
