@@ -79,6 +79,18 @@ export function parseNames(text) {
   return map;
 }
 export const officialName = (names, name) => names.get(String(name ?? '').trim().toLowerCase()) ?? name;
+/** data/names.tsv as a variant -> official spelling map (empty when the file is absent). */
+export function loadLeaderNames(root) {
+  const file = path.join(root, 'data/names.tsv');
+  return fs.existsSync(file) ? parseNames(fs.readFileSync(file, 'utf8')) : new Map();
+}
+/** The teacher a passage is credited to: a bare rank resolved by data/sources/rank-teachers.tsv,
+ * then spelled as data/names.tsv spells the leader, so a caption spelling ("Deacon Yashua") never
+ * reaches a verse as a different name from the class page ("Deacon Yoshua"). */
+export function passageTeacher(teacher, video, ranks, names) {
+  const named = namedTeacher(teacher, video, ranks);
+  return named ? officialName(names, named) : named;
+}
 /** Who taught a recording, and when, by the class outlines in the sabbath-classes-images R2 bucket:
  * data/sources/r2-class-teachers.tsv (date, file_date, video, teacher, ...). 2026-11-02: the
  * outline names and dates are accurate. A recording filed under two teachers is left out. */
