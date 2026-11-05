@@ -77,7 +77,8 @@ jobs:
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        # Blue-green: a spare copy is loaded and checked beside the live index, then switched in
+        # one step, so site search never pauses and a bad load never goes live.
         run: |
           .github/scripts/d1-id.sh cyberjudah > /dev/null
-          gunzip -kf dist/search.sql.gz
-          npx --yes wrangler@4 d1 execute cyberjudah --remote --file dist/search.sql -y 2>&1 | tail -5; test ${PIPESTATUS[0]} -eq 0
+          node .github/scripts/load-search-d1.mjs dist/search.sql.gz cyberjudah

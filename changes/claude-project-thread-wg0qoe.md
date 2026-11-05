@@ -1,0 +1,1 @@
+- Site search no longer pauses when the data set is published: the search index is loaded blue-green (a spare copy is built and checked beside the live one, then switched in one step; the previous copy is kept for rollback). Before, each publish dropped the live index and locked the database for a minute or two.
