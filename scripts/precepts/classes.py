@@ -193,7 +193,7 @@ def next_classes(n, book=None):
     count = {}
     for vs in json.load(open(f)).values():
         for rows in vs.values():
-            for vid, _ in rows:
+            for vid, *_ in rows:
                 count[vid] = count.get(vid, 0) + 1
     ranked = sorted((c for c in queue if count.get(c["videoId"])), key=lambda c: (-count[c["videoId"]], c.get("date") or ""))
     for c in ranked:
