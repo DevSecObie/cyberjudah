@@ -1,0 +1,1 @@
+- Backfill Transcript Dates can read each undated video's publish date from the official YouTube Data API (source: youtube, 50 videos a request, no TranscriptAPI credits), using the YOUTUBE_API_KEY secret.
