@@ -4,6 +4,11 @@
     python3 scripts/corpus/backfill_meta.py --report                  # what is missing
     python3 scripts/corpus/backfill_meta.py --backend yt-dlp --limit 500
     python3 scripts/corpus/backfill_meta.py --from-tsv found.tsv      # id<TAB>date[<TAB>duration<TAB>views]
+    YOUTUBE_API_KEY=... python3 scripts/corpus/backfill_meta.py --backend youtube --lengths
+
+`--backend youtube` reads the YouTube Data API (free quota, 50 videos a request) instead of
+yt-dlp. `--lengths` also looks up transcripts that are dated but have no length, and writes
+the length into the transcript file as well as channel-meta.tsv.
 
 Only transcripts that would otherwise have no date are looked up. Existing values are never
 overwritten: a blank cell is filled, a filled cell is left alone. Rows keep their order and
@@ -19,8 +24,11 @@ import hashlib
 import os
 import re
 import shutil
+import json
 import subprocess
 import sys
+import urllib.parse
+import urllib.request
 from datetime import date
 from pathlib import Path
 
@@ -82,6 +90,87 @@ def undated(feed):
             continue
         missing[video_id] = str(record.get("title") or meta.get(video_id, {}).get("title") or "")
     return missing
+
+
+def lengthless(feed):
+    """{video_id: title} for transcripts in `feed` with no length in the file or channel-meta.tsv."""
+    meta = sources.channel_meta(sources.FEEDS[feed])
+    missing = {}
+    for path in sources.transcript_files(feed):
+        record, problem = sources.read_transcript(path)
+        if problem:
+            continue
+        video_id = str(record.get("videoId") or path.stem)
+        if record.get("duration") or meta.get(video_id, {}).get("duration"):
+            continue
+        missing[video_id] = str(record.get("title") or meta.get(video_id, {}).get("title") or "")
+    return missing
+
+
+def write_lengths(feed, found):
+    """Put a found length into each transcript file that has none; return files changed."""
+    changed = 0
+    for path in sources.transcript_files(feed):
+        values = found.get(path.stem)
+        if not values or not values.get("duration"):
+            continue
+        record, problem = sources.read_transcript(path)
+        if problem or record.get("duration"):
+            continue
+        record["duration"] = float(values["duration"])
+        temporary = path.with_suffix(".json.tmp")
+        with open(temporary, "w", encoding="utf-8") as handle:
+            json.dump(record, handle, ensure_ascii=False, separators=(",", ":"))
+        os.replace(temporary, path)
+        changed += 1
+    return changed
+
+
+ISO_DURATION = re.compile(r"P(?:(\d+)D)?T?(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?$")
+
+
+def iso_seconds(value):
+    """'PT1H2M3S' -> '3723'; '' when unknown or zero (a live stream still running)."""
+    match = ISO_DURATION.fullmatch(str(value or ""))
+    if not match or not any(match.groups()):
+        return ""
+    days, hours, minutes, seconds = (int(g or 0) for g in match.groups())
+    total = ((days * 24 + hours) * 60 + minutes) * 60 + seconds
+    return str(total) if total else ""
+
+
+def youtube(ids, key=None, fetch=None, batch=50):
+    """{id: {date, duration, views}} from the YouTube Data API; a video it doesn't return is left out."""
+    from zoneinfo import ZoneInfo
+    from datetime import datetime
+    key = key or os.environ.get("YOUTUBE_API_KEY")
+    if not key:
+        raise SystemExit("--backend youtube needs YOUTUBE_API_KEY")
+
+    def get(url):
+        with urllib.request.urlopen(url, timeout=30) as response:
+            return json.load(response)
+    fetch = fetch or get
+    found = {}
+    for start in range(0, len(ids), batch):
+        chunk = ids[start:start + batch]
+        data = fetch("https://www.googleapis.com/youtube/v3/videos?" + urllib.parse.urlencode({
+            "part": "snippet,contentDetails,statistics", "id": ",".join(chunk), "key": key,
+            "fields": "items(id,snippet/publishedAt,contentDetails/duration,statistics/viewCount)"}))
+        for item in data.get("items", []):
+            published = (item.get("snippet") or {}).get("publishedAt")
+            day = ""
+            try:
+                day = datetime.fromisoformat(published.replace("Z", "+00:00")).astimezone(ZoneInfo("America/Los_Angeles")).strftime("%Y%m%d")
+            except (AttributeError, ValueError):
+                pass
+            found[item["id"]] = {
+                "date": day,
+                "duration": iso_seconds((item.get("contentDetails") or {}).get("duration")),
+                "views": clean_number((item.get("statistics") or {}).get("viewCount"), integer=True),
+            }
+        print(f"youtube: {min(start + batch, len(ids))}/{len(ids)} looked up, {len(found)} found", flush=True)
+    return found
 
 
 def apply(feed_dir, found, titles):
@@ -163,7 +252,8 @@ def ytdlp(ids, batch=50):
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--feeds", nargs="+", choices=sorted(sources.FEEDS), default=sorted(sources.FEEDS))
-    parser.add_argument("--backend", choices=("yt-dlp",), help="look the missing dates up")
+    parser.add_argument("--backend", choices=("yt-dlp", "youtube"), help="look the missing dates up")
+    parser.add_argument("--lengths", action="store_true", help="also look up transcripts with no length")
     parser.add_argument("--from-tsv", type=Path, help="apply dates found elsewhere")
     parser.add_argument("--limit", type=int, help="look up at most N videos in total")
     parser.add_argument("--report", action="store_true", help="list what is missing and change nothing")
@@ -178,11 +268,13 @@ def main(argv=None):
     all_ids = []
     for feed in args.feeds:
         missing = undated(feed)
+        if args.lengths:
+            missing = {**lengthless(feed), **missing}
         total_missing += len(missing)
         ids = sorted(missing)
         all_ids += ids
         if args.report:
-            print(f"{feed}: {len(ids)} transcripts without a date")
+            print(f"{feed}: {len(ids)} transcripts without a date" + (" or length" if args.lengths else ""))
             continue
         found = {i: supplied[i] for i in ids if i in supplied}
         if args.backend:
@@ -191,14 +283,16 @@ def main(argv=None):
             todo = sorted((i for i in ids if i not in found), key=lambda i: hashlib.sha256(f"{today}{i}".encode()).hexdigest())
             if budget is not None:
                 todo, budget = todo[:budget], budget - len(todo[:budget])
-            found.update(ytdlp(todo))
+            found.update(youtube(todo) if args.backend == "youtube" else ytdlp(todo))
         filled = apply(sources.FEEDS[feed], found, missing)
+        if args.lengths:
+            filled += write_lengths(feed, found)
         dated = sum(1 for v in found.values() if v.get("date"))
         total_filled += filled
         print(f"{feed}: {len(ids)} undated, {dated} dates found, {filled} cells filled")
     if args.report and args.ids_out:
         args.ids_out.write_text("".join(i + "\n" for i in all_ids), encoding="utf-8")
-    print(f"total: {total_missing} undated transcripts" + ("" if args.report else f", {total_filled} cells filled"))
+    print(f"total: {total_missing} transcripts missing a date" + (" or length" if args.lengths else "") + ("" if args.report else f", {total_filled} cells filled"))
 
 
 if __name__ == "__main__":

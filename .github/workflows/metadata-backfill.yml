@@ -1,11 +1,8 @@
 name: Backfill transcript metadata
 
-# Fills blank upload dates, durations and views in each feed's channel-meta.tsv for
-# transcripts that no source dates. Existing values are never overwritten.
-#
-# The hourly harvest cannot date what it collects: it lists channels with yt-dlp's flat
-# listing (no dates) and TranscriptAPI's transcript metadata carries none. Run this on demand;
-# add a schedule once the lookups are known to work from GitHub's runners.
+# Fills blank upload dates, lengths and views in each feed's channel-meta.tsv, and blank
+# lengths in transcript files, from the YouTube Data API (YOUTUBE_API_KEY, free quota).
+# Existing values are never overwritten. Run on demand.
 on:
   workflow_dispatch:
     inputs:
@@ -25,6 +22,7 @@ concurrency:
 jobs:
   backfill:
     runs-on: ubuntu-latest
+    environment: automation
     timeout-minutes: 300
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
@@ -32,28 +30,27 @@ jobs:
           fetch-depth: 1
           ref: main
 
-      - run: python3 -m pip install --upgrade yt-dlp
-
       - name: Look up missing metadata
         env:
           LIMIT: ${{ inputs.limit }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: |
-          python3 scripts/corpus/backfill_meta.py --report
-          python3 scripts/corpus/backfill_meta.py --backend yt-dlp --limit "$LIMIT"
-          python3 scripts/corpus/backfill_meta.py --report | tee -a "$GITHUB_STEP_SUMMARY"
+          python3 scripts/corpus/backfill_meta.py --report --lengths
+          python3 scripts/corpus/backfill_meta.py --backend youtube --lengths --limit "$LIMIT"
+          python3 scripts/corpus/backfill_meta.py --report --lengths | tee -a "$GITHUB_STEP_SUMMARY"
 
       - name: Commit
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          if [[ -z "$(git status --porcelain -- '*/channel-meta.tsv')" ]]; then
+          if [[ -z "$(git status --porcelain -- '*/channel-meta.tsv' '*/transcripts/*.json')" ]]; then
             echo "No metadata found."
             exit 0
           fi
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add -- '*/channel-meta.tsv'
-          git commit -m "metadata: backfill upload dates [skip ci]"
+          git add -- '*/channel-meta.tsv' '*/transcripts/*.json'
+          git commit -m "metadata: backfill dates and lengths [skip ci]"
           for attempt in 1 2 3; do
             if git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main; then
               exit 0
