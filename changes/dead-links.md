@@ -1,0 +1,1 @@
+- Weekly dead-link check: `scripts/history/dead_links.py` lists class videos YouTube no longer serves in `data/sources/unavailable-videos.json`, using the YouTube Data API. Nothing is hidden.

@@ -1,0 +1,56 @@
+name: Weekly dead-link check
+
+# Lists class videos YouTube no longer serves (deleted, private or failed) in
+# data/sources/unavailable-videos.json, from the YouTube Data API (YOUTUBE_API_KEY, about 340
+# units of the free daily quota). Nothing is hidden; the list is for review.
+on:
+  schedule:
+    - cron: "41 7 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  # Shares the harvest's group so the two never push at the same time.
+  group: transcript-harvest
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    environment: automation
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+        with:
+          fetch-depth: 1
+          ref: main
+          persist-credentials: false
+
+      - name: Check every class video
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python3 scripts/history/dead_links.py | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [[ -z "$(git status --porcelain -- data/sources/unavailable-videos.json)" ]]; then
+            echo "No change."
+            exit 0
+          fi
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -- data/sources/unavailable-videos.json
+          git commit -m "data: unavailable class videos [skip ci]"
+          for attempt in 1 2 3; do
+            if git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main; then
+              exit 0
+            fi
+            git pull --rebase "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" main
+            sleep $((attempt * 5))
+          done
+          echo "Push failed after 3 attempts." >&2
+          exit 1
