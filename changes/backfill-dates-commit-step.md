@@ -1,0 +1,2 @@
+- Backfill Transcript Dates: the commit step now runs whenever dry run is off. The boolean input never equalled the string 'false', so confirmed dates were looked up but never saved.
+- readings.py: cached readings pick up a transcript's date when it is filled in later, so the verse index shows backfilled dates.
