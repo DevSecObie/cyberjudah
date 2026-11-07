@@ -1,2 +1,1 @@
 - Class notes (Bishop Nathanyel): Israel On The Islands Of The Sea (2024-09-01), Americas New State Of Hate Policies (2024-07-20), The Prophecy of Balaam (2024-07-06), Nephilim And The Warnings Of Jude (2024-06-29), A Battle Against STDs (2024-06-15), Recon To Ephesus & Smyrna (2024-05-25): the teacher's words, verse by verse, from his greeting.
-- Transcripts xq2_FUAs2XE, uL_FmbE6qKA, p07mRoV4BYo, zyQd-HkqjwQ and wvcimtOtuBI dated.
