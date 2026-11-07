@@ -1,0 +1,14 @@
+# Findings Gitleaks may ignore, by fingerprint (commit:file:rule:line). No secret values are stored here.
+# Reviewed by Data Security on 2026-11-07 against the full history. Add a line only for a value that
+# is not a secret, one that is already revoked, or someone else's credential in old history that only
+# its owner can revoke; say which in a comment. A CyberJudah secret is revoked and replaced, never
+# listed here. Pull requests are scanned with this file as it is on their base branch, so a new line
+# here must merge on its own first.
+
+# Quartz site template history (author Jacky Zhao, 2022): the template's demo key for the Operand
+# search service, which no longer exists. Not CyberJudah's and not in the current tree.
+5ef9aad501f17b57107a35508a093211ecf2dbd8:content/notes/config.md:generic-api-key:62
+5ef9aad501f17b57107a35508a093211ecf2dbd8:data/config.yaml:generic-api-key:16
+b10b23a47bb822bc3eee671d24fd954ec8d74a7d:content/notes/search.md:generic-api-key:39
+e9aa6ae9e7ec1792b11ebcb6cac606c47ae3cf7d:content/notes/search.md:generic-api-key:33
+e9aa6ae9e7ec1792b11ebcb6cac606c47ae3cf7d:data/config.yaml:generic-api-key:19
