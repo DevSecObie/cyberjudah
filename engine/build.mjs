@@ -651,6 +651,17 @@ const noteByVideo = new Map();
     writeJson(path.join(API, "library", "class-books.json"), classBooks);
     console.error(`library: ${classBooks.length} class books on the shelf`);
   }
+  // The Wikipedia pages the classes put on screen and read (data/library/class-wikipedia.json),
+  // each with the class moments that read it, linked to the class's note when it has one.
+  const classWikiFile = path.join(LIB, "class-wikipedia.json");
+  if (fs.existsSync(classWikiFile)) {
+    const pages = JSON.parse(fs.readFileSync(classWikiFile, "utf8")).map((p) => ({
+      ...p,
+      moments: p.moments.map((m) => { const n = noteByVideo.get(m.video.toLowerCase()); return { ...m, title: n?.title ?? m.title, date: n?.date ?? m.date ?? null, teacher: n?.teacher ?? "", url: n?.url ?? null, said: m.said ?? "" }; }),
+    }));
+    writeJson(path.join(API, "library", "class-wikipedia.json"), pages);
+    console.error(`library: ${pages.length} Wikipedia pages the classes read`);
+  }
 }
 writeJson(path.join(API, "library", "index.json"), libraryIndex);
 console.error(`library: ${libraryIndex.length} book(s), ${libraryIndex.reduce((a, b) => a + b.reads, 0)} class readings, ${libraryIndex.reduce((a, b) => a + b.figures, 0)} pictures`);
