@@ -26,10 +26,14 @@ readings remain a different data set.
 Build both totals and complete lists from the same corpus:
 
 ```sh
-python3 scripts/corpus/build.py --out /tmp/class-books-corpus
+python3 scripts/corpus/build.py --skip-scriptures --out /tmp/class-books-corpus
 python3 scripts/library/class_books.py --corpus /tmp/class-books-corpus --out data/library/class-books.json
 node engine/build.mjs --out dist --site https://cyberjudah.io
 ```
+
+Scripture annotation is omitted from this temporary corpus: book counts use caption-name
+matches, dates and the existing speech/duplicate exclusions. The selected quoted moments
+still come verbatim from those recordings. The regular corpus and search builds are unchanged.
 
 The data publication workflow performs these steps together. The PR data-assets check builds
 the real lists, publishes them to an in-memory bucket, and reads every list through the data

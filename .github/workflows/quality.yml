@@ -18,7 +18,7 @@ jobs:
       - run: npm ci --prefix site --no-audit --no-fund
       - name: Build complete class-book lists from the counted corpus
         run: |
-          python3 scripts/corpus/build.py --out "$RUNNER_TEMP/class-books-corpus"
+          python3 scripts/corpus/build.py --skip-scriptures --out "$RUNNER_TEMP/class-books-corpus"
           python3 scripts/library/class_books.py --corpus "$RUNNER_TEMP/class-books-corpus" --out data/library/class-books.json
       - name: Build, publish to an in-memory bucket and serve through the data Worker, without deploying
         run: node --test engine/data-assets.test.mjs
