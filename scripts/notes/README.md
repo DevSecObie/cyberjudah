@@ -17,6 +17,30 @@ Run them from the repo root. `CJ_ROOT` overrides the repo location if you need i
 | `prep-corpus.py` | Score `prep.py`'s reference extraction against every finished note, ~2,600 references. Measure, change one pattern, measure again. |
 | `video.py` | List the notes with no recording; attach one with `video.py set <slug> <url>`. |
 
+## Rules every note follows
+
+Read these before writing any note. They hold for every writer, every series, every class.
+
+1. **Only the teacher's words.** The note is his class: never an officer, deacon, host or
+   reader, never a line labelled `An officer:` or `Deacon:`. It starts at his greeting.
+   Verbatim: stutters and filler can go, but a word is never reworded, guessed or swapped.
+2. **The note follows the class, start to finish.** Every scripture, reading and clip sits at
+   the moment the class came to it. Clips (`In The News`) go exactly where they were played,
+   before anything the class did after them. A reading is timed by its own `Reading from`
+   line. Run `python3 scripts/notes/class_order.py <note>` and then `--check`; it must report 0
+   notes out of order.
+3. **The teacher comes from the class thumbnail.** The artwork names who taught it; use that
+   name in `teacher`, spelled as `data/names.tsv` has it (Bishop Nathanyel, not Nathaniel).
+   When the thumbnail names no one, leave `teacher` out and ask.
+4. **People and places come from the scriptures.** The app shows "People in this class" and
+   "Places" at the top of a note, and each scripture's people and places under its card,
+   from the references in its scripture blocks. So every scripture he opens gets its own
+   block with the exact reference (through `lib.py`/`v.py`, never typed), or its people and
+   places are missing from the note.
+5. **The note is made for the mobile app.** Check it as the app lays it out (the app's own
+   class-notes parser), with its people and places, before it is merged. The website page is
+   not the reference.
+
 ## The note is a study guide, not a transcript
 
 This is the part that matters most, and the one that drifted. The transcript already holds
@@ -125,7 +149,7 @@ current corpus -- its own mechanical PR, not a side effect of writing one note -
 ### Who taught it
 
 `teacher` is the name with its own title: `Captain Noah`, `Deacon Malachi`,
-`Bishop Nathaniel`, `Officer Uzziah`. The browse pages derive the rank from that
+`Bishop Nathanyel`, `Officer Uzziah`. The browse pages derive the rank from that
 leading word and group the filter chips by it. Leave the field out rather than
 guessing; an unattributed note simply shows no chip.
 
