@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "repository": "DevSecObie/cyberjudah-telegram",
+  "commit": "fa13ff21422c11b06e195f8ac9a8d031646fb7f6",
+  "path": "app/src/data/timeline.json",
+  "sha256": "c0a1baf3c7198c74bcaf0a9692ebafd84900115350e8458925a72dbcdc0f1da4",
+  "licensePath": "app/scripts/timeline/bible-strong-LICENSE",
+  "licenseSha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+  "creditsPath": "app/src/lib/credits.ts",
+  "creditsSha256": "16a5d3ee64457c39e03259a698fb9cf7ce49778f8d183ec9e57ec243d8962260"
+}

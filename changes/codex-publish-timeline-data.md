@@ -1,0 +1,1 @@
+- Publish the app's complete 17-period Timeline as public data, preserving its source bytes and Bible Strong licence attribution.

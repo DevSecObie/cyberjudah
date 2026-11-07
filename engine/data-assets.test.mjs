@@ -57,6 +57,23 @@ test("the JSON the front ends read is served", async () => {
   const api = await (await get("/api/index.json")).json();
   assert.equal(api.search.sqlite, "/library.sqlite.gz");
   assert.equal(api.downloads.vault, "/downloads/vault.zip");
+  assert.equal(api.timeline, "/api/timeline/index.json");
+  assert.equal(api.timelineAttribution, "/api/timeline/attribution.json");
+  assert.equal(api.timelineLicense, "/api/timeline/license.txt");
+});
+
+test("the complete data build publishes all 17 Timeline periods exactly as the pinned app source", async () => {
+  const source = fs.readFileSync(path.join(root, "data/timeline/timeline.json"));
+  const response = await get("/api/timeline/index.json");
+  assert.equal(response.status, 200);
+  assert.equal(response.headers.get("access-control-allow-origin"), "*");
+  assert.equal(response.headers.get("cache-control"), "public, max-age=300");
+  const bytes = Buffer.from(await response.arrayBuffer());
+  assert.ok(bytes.equals(source));
+  assert.equal(JSON.parse(bytes).sections.length, 17);
+  assert.equal((await get("/api/timeline/attribution.json")).status, 200);
+  const license = Buffer.from(await (await get("/api/timeline/license.txt")).arrayBuffer());
+  assert.ok(license.equals(fs.readFileSync(path.join(root, "data/timeline/bible-strong-LICENSE"))));
 });
 
 test('complete class-book lists expose every counted recording through the published Worker', async () => {

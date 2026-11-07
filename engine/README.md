@@ -23,6 +23,7 @@ not needed.
 | `captains/<year>/*.md` | 15 Minutes w/ The Captains |
 | `data/bible/*.json` | the KJV text with the Apocrypha |
 | `data/people-kjv/people.json`, `data/places-kjv/places.json` | the people and places of the Bible, rebuilt from the KJV with Apocrypha by `scripts/people-kjv/build.py` from the hand lists in `data/people-kjv/sources/`; map pins are exact Wikidata items |
+| `data/timeline/timeline.json`, `source.json`, `bible-strong-LICENSE` | a byte-for-byte, commit-pinned snapshot of `cyberjudah-telegram/app/src/data/timeline.json`, with source hashes and the original licence |
 | `data/handbook.json` | the handbook of Bible law |
 | `data/precepts.json` | the precept index |
 | `data/doctrine.json` | the Doctrine section: each false doctrine and the pass breakdowns that answer it, by pointer (`engine/doctrine.mjs`) |
@@ -43,6 +44,8 @@ JSON shape, existing fields are not removed or renamed without a note here.
 | Path | Shape |
 |---|---|
 | `api/index.json` | every endpoint below |
+| `api/timeline/index.json` | original app Timeline JSON: `source`, `reigns`, 17 `sections` with their nested `events`, and `finalCaptivity`; bytes, order, wording and fields unchanged |
+| `api/timeline/attribution.json`, `api/timeline/license.txt` | pinned source commit/path/SHA-256, corresponding-source links, the site's original Bible Strong Timeline credit (GNU GPL v3, sections 1–12), and the full unchanged licence |
 | `api/stats.json` | counts, plus `recent`: the newest classes and episodes |
 | `api/kjv/books.json` | `[{book, slug, chapters, verses, testament, url, chapterIds}]` |
 | `api/kjv/<book-slug>/index.json` | one book |
@@ -100,6 +103,29 @@ Run `node --test engine/strongs-pages.test.mjs` for coverage using the real H430
 tagged corpus, including occurrences beyond 600 and exact page boundaries.
 
 ## Where it is published
+
+### Refreshing the Timeline source
+
+The Timeline source remains `app/src/data/timeline.json` in
+`DevSecObie/cyberjudah-telegram`. Import a reviewed full commit from a local checkout:
+
+```sh
+node scripts/timeline/sync.mjs --repo /path/to/cyberjudah-telegram --ref <40-character-reviewed-commit>
+node scripts/timeline/sync.mjs --check --repo /path/to/cyberjudah-telegram --ref <40-character-reviewed-commit>
+node --test engine/timeline-data.test.mjs
+```
+
+The importer reads Git blobs, including the upstream licence and attribution, rather than
+uncommitted working files. Commit all three `data/timeline/` files together. Normal builds
+verify the pinned hashes and copy the JSON bytes without fetching, regenerating teaching,
+rewriting JSON or adding per-event files. The current index is about 191 KB, including all
+17 periods and their events. Consumers should read the separate attribution endpoint and
+retain the Bible Strong credit and GPL v3 licence for sections 1–12.
+
+The Timeline uses the existing data publisher and Worker: public GET/HEAD/OPTIONS, CORS `*`,
+`Cache-Control: public, max-age=300`, and content-hash ETags. No extra Worker or binding is needed.
+
+### Data release
 
 `.github/workflows/data.yml` runs the engine on every push to `main` that touches the
 vault, then `engine/publish.mjs` publishes `dist/` to the R2 bucket `cyberjudah-data`, and the
