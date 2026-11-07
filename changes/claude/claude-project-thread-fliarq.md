@@ -1,0 +1,4 @@
+- Class notes for classes centered on Genesis, the whole class in order, verse by verse:
+  - Africa and the Garden of Eden, Parts One to Three (2019-01-22, 01-23, 01-25, Bishop Nathanyel): Genesis 2 and the four rivers, Genesis 10 and the sons of Ham, Genesis 9 and the blessing of Shem.
+  - Black Woman in the Garden of Eden, Part 1 (2018-04-26, Bishop Nathanyel): Eve and the serpent in Genesis 3, with Ezekiel 31.
+- Precept breakdowns (data/precepts/why.json) and verse placements (data/precepts/at.json) for these notes' precepts.
