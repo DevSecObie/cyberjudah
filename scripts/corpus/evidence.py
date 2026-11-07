@@ -177,7 +177,7 @@ def pack(corpus, term, aliases, excerpts, verses):
     return pack_many(corpus, [(term, aliases)], excerpts, verses)[0]
 
 
-def pack_many(corpus, terms, excerpts, verses):
+def pack_many(corpus, terms, excerpts, verses, all_recordings=False):
     """Evidence packs for several (term, aliases) at once, reading the corpus a single time."""
     patterns = [term_pattern([t, *a]) for t, a in terms]
     # One pass: a single pattern of every form of every term, each form mapped back to its term.
@@ -202,11 +202,11 @@ def pack_many(corpus, terms, excerpts, verses):
         refs = [f"{r['book']} {r['chapter']}" for r in passage.get("scripture_references") or [] if r.get("verified")]
         for i in found:
             related[i].update(refs)
-    return [_assemble(term, aliases, patterns[i], per_recording[i], related[i], documents, excerpts, verses)
+    return [_assemble(term, aliases, patterns[i], per_recording[i], related[i], documents, excerpts, verses, all_recordings)
             for i, (term, aliases) in enumerate(terms)]
 
 
-def _assemble(term, aliases, pattern, per_recording, related, documents, excerpts, verses):
+def _assemble(term, aliases, pattern, per_recording, related, documents, excerpts, verses, all_recordings=False):
     feeds, years = Counter(), Counter()
     for doc_id in per_recording:
         doc = documents[doc_id]
@@ -224,12 +224,24 @@ def _assemble(term, aliases, pattern, per_recording, related, documents, excerpt
             len(group) + 3 * bool(group[0][0].get("scripture_references")), -group[0][0]["segment_index"]))
 
     ranked = sorted(per_recording, key=lambda d: (-len(per_recording[d]), documents[d]["date"] or "", d))
-    chosen = []
-    for doc_id in ranked[:excerpts]:
+    chosen, complete = [], []
+    for index, doc_id in enumerate(ranked if all_recordings else ranked[:excerpts]):
         group = teaching_passage(per_recording[doc_id])
         passage, m = group[len(group) // 2]
         doc = documents[doc_id]
         at = seconds_at(passage, m.start())
+        if all_recordings:
+            # A contiguous slice of the original captions, without added ellipses or rewritten words.
+            original = passage.get("text_original", passage["text_normalized"])
+            named = pattern.search(original)
+            normalized_name = pattern.search(passage["text_normalized"])
+            complete_at = seconds_at(passage, normalized_name.start() if normalized_name else m.start())
+            start = max(0, (named.start() if named else 0) - 80)
+            complete.append({"video": doc["video_id"], "t": int(complete_at), "title": doc["title"],
+                             "date": doc["date"], "teacher": "", "url": f"https://www.youtube.com/watch?v={doc['video_id']}&t={int(complete_at)}s",
+                             "said": original[start:start + 300].strip()})
+        if index >= excerpts:
+            continue
         chosen.append({
             "id": f"E{len(chosen) + 1}",
             "title": doc["title"],
@@ -253,6 +265,7 @@ def _assemble(term, aliases, pattern, per_recording, related, documents, excerpt
         "kjv_verses": sample,
         "taught_alongside": [{"chapter": c, "passages": n} for c, n in related.most_common(15)],
         "excerpts": chosen,
+        **({"all_recordings": complete} if all_recordings else {}),
     }
 
 

@@ -59,6 +59,22 @@ test("the JSON the front ends read is served", async () => {
   assert.equal(api.downloads.vault, "/downloads/vault.zip");
 });
 
+test('complete class-book lists expose every counted recording through the published Worker', async () => {
+  const shelf = await (await get('/api/library/class-books.json')).json();
+  assert.ok(shelf.some(row => row.recordings > 8), 'the real corpus must exercise a list larger than its sample');
+  for (const row of shelf) {
+    assert.match(row.key, /^[A-Za-z0-9][A-Za-z0-9._-]{0,199}$/);
+    const response = await get(`/api/library/class-books/${encodeURIComponent(row.key)}.json`);
+    assert.equal(response.status, 200);
+    const list = await response.json();
+    assert.equal(list.key, row.key);
+    assert.equal(list.total, row.recordings);
+    assert.equal(list.moments.length, list.total);
+    assert.equal(new Set(list.moments.map(moment => moment.video)).size, list.total);
+    assert.ok(list.moments.every(moment => [...moment.said].length <= 300));
+  }
+});
+
 test("people and places are built from the KJV, with evidence and verses", async () => {
   const people = JSON.parse(fs.readFileSync(path.join(root, "data/people-kjv/people.json"))).people;
   const pick = (list) => list.map(({ id, verses }) => ({ id, verses })).sort((a, b) => a.id.localeCompare(b.id));

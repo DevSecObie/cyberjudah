@@ -3,6 +3,7 @@
 
     python3 scripts/corpus/build.py && python3 scripts/corpus/books.py --moments 8
     python3 scripts/library/class_books.py          # writes data/library/class-books.json
+    python3 scripts/library/class_books.py --corpus dist/corpus  # also writes every counted recording
 
 For each book in data/books.tsv (except the lost books and the teachers' own), it writes
 where the book can be read in full and the moments the classes spoke about it:
@@ -14,12 +15,17 @@ where the book can be read in full and the moments the classes spoke about it:
   none           no copy found yet; the classes' words only
 
 The sources come from data/library-sources.tsv; the moments from dist/books.json.
+With --corpus, totals and complete lists are assembled together from the same spoken matches.
+These are mentions of a book, not a claim that its pages were read in every recording.
 """
 import argparse
+import hashlib
 import html
 import json
 import re
 import sys
+import unicodedata
+from collections import Counter, defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -78,8 +84,27 @@ def moment(m):
     return {"video": hit.group(1), "t": int(hit.group(2) or 0), "title": html.unescape(m.get("title") or ""), "date": m.get("date"), "said": text}
 
 
-def build(heard_path, held_dirs=LIBRARY):
-    heard = {(b["title"], b["author"]): b for b in json.loads(Path(heard_path).read_text(encoding="utf-8"))}
+def title_key(title):
+    folded = unicodedata.normalize("NFKD", title).encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z0-9]+", "-", folded).strip("-")[:170] or "book"
+
+
+def add_keys(rows):
+    bases = [row.get("slug") or row.get("archive") or title_key(row["title"]) for row in rows]
+    repeated = Counter(bases)
+    for row, base in zip(rows, bases):
+        if not row.get("slug") and not row.get("archive") and repeated[base] > 1:
+            identity = f"{row['title']}\0{row['author']}".encode()
+            base += "-" + hashlib.sha256(identity).hexdigest()[:8]
+        if not ID.fullmatch(base):
+            raise ValueError(f"Invalid class-book key: {base!r}")
+        row["key"] = base
+
+
+def build(heard_path, held_dirs=LIBRARY, heard_rows=None):
+    if heard_rows is None:
+        heard_rows = json.loads(Path(heard_path).read_text(encoding="utf-8"))
+    heard = {(b["title"], b["author"]): b for b in heard_rows}
     where = sources()
     held = {slug for slug in HELD.values() if (Path(held_dirs) / slug / "book.json").exists()}
     known = {(b["title"], b["author"]) for b in catalog_books.catalog()}
@@ -107,18 +132,64 @@ def build(heard_path, held_dirs=LIBRARY):
     # Shelves in the catalog's order (history first), the most spoken-about books first on each.
     shelf = {k: n for n, k in enumerate(catalog_books.KINDS)}
     rows.sort(key=lambda r: (shelf[r["kind"]], -r["recordings"], r["title"]))
+    add_keys(rows)
     return rows
+
+
+def full_lists(rows, heard_rows):
+    """The exact recordings behind each count, coalesced when catalog aliases name one book."""
+    heard = {(row["title"], row["author"]): row for row in heard_rows}
+    grouped = defaultdict(list)
+    for row in rows:
+        grouped[row["key"]].append(row)
+    result = {}
+    for key, members in grouped.items():
+        recordings, incomplete = {}, False
+        for row in members:
+            evidence = heard.get((row["title"], row["author"]), {})
+            complete = evidence.get("all_recordings")
+            if complete is None:
+                if evidence.get("recordings", 0):
+                    incomplete = True
+                continue
+            unique = {moment["video"] for moment in complete}
+            if len(unique) != evidence.get("recordings", 0):
+                raise ValueError(f"{row['title']}: complete list does not match its recording count")
+            for moment in complete:
+                old = recordings.get(moment["video"])
+                if old is None or moment["t"] < old["t"]:
+                    recordings[moment["video"]] = moment
+        if incomplete:
+            continue  # An eight-sample file can never stand in for a complete list.
+        moments = sorted(recordings.values(), key=lambda m: (m.get("date") or "", m["video"]), reverse=True)
+        years = sorted({m["date"][:4] for m in moments if m.get("date")})
+        for row in members:
+            row["recordings"] = len(moments)
+            row["first_year"] = years[0] if years else None
+            row["last_year"] = years[-1] if years else None
+        result[key] = {"key": key, "title": members[0]["title"], "total": len(moments), "moments": moments}
+    return result
 
 
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--books", type=Path, default=ROOT / "dist" / "books.json", help="scripts/corpus/books.py's output")
     parser.add_argument("--out", type=Path, default=OUT)
+    parser.add_argument("--corpus", type=Path, help="built corpus: retain every counted recording, as well as the eight samples")
     args = parser.parse_args(argv)
-    rows = build(args.books)
+    heard = catalog_books.count(args.corpus, catalog_books.catalog(), 8, all_recordings=True) if args.corpus else json.loads(args.books.read_text(encoding="utf-8"))
+    rows = build(args.books, heard_rows=heard)
+    complete = full_lists(rows, heard)
+    shelf = {kind: number for number, kind in enumerate(catalog_books.KINDS)}
+    rows.sort(key=lambda row: (shelf[row['kind']], -row['recordings'], row['title']))
+    args.out.parent.mkdir(parents=True, exist_ok=True)
+    for key, feed in complete.items():
+        target = args.out.parent / "class-books" / f"{key}.json"
+        target.parent.mkdir(parents=True, exist_ok=True)
+        target.write_text(json.dumps(feed, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     args.out.write_text(json.dumps(rows, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     counts = {s: sum(r["status"] == s for r in rows) for s in ("library", "public-domain", "borrow", "none")}
-    print(f"{len(rows)} class books -> {args.out.relative_to(ROOT)}: {counts}")
+    print(f"{len(rows)} class books -> {args.out}: {counts}; {len(complete)} complete class lists")
 
 
 if __name__ == "__main__":

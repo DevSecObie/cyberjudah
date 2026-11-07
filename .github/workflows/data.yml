@@ -14,6 +14,8 @@ on:
       - "data/**"
       - "history/**"
       - "engine/**"
+      - "scripts/corpus/**"
+      - "scripts/library/class_books.py"
       - ".github/workflows/data.yml"
       - "!**/transcripts/**"
       - "!**/no-captions.tsv"
@@ -58,6 +60,10 @@ jobs:
         env:
           PEOPLE_BASE: ${{ github.event.before }}
         run: node engine/check.mjs --allow-case-errors
+      - name: Build complete class-book evidence from the same counted recordings
+        run: |
+          python3 scripts/corpus/build.py --out "$RUNNER_TEMP/class-books-corpus"
+          python3 scripts/library/class_books.py --corpus "$RUNNER_TEMP/class-books-corpus" --out data/library/class-books.json
       - name: Build the data set
         run: node engine/build.mjs --out dist --site https://cyberjudah.io
       # Bucket-scoped R2 keys (Object Read & Write on cyberjudah-data only), not the account token.

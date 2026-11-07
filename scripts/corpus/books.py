@@ -51,10 +51,10 @@ def catalog(path=CATALOG):
     return rows
 
 
-def count(corpus, books, moments):
+def count(corpus, books, moments, all_recordings=False):
     # Search by the catalog's phrases only: a title such as "The Israelites" is too common to
     # search for by itself.
-    packs = evidence.pack_many(corpus, [(b["forms"][0], b["forms"][1:]) for b in books], moments, 0)
+    packs = evidence.pack_many(corpus, [(b["forms"][0], b["forms"][1:]) for b in books], moments, 0, all_recordings=all_recordings)
     results = []
     for book, pack in zip(books, packs):
         years = {y: n for y, n in pack["by_year"].items() if y != "undated"}
@@ -67,6 +67,7 @@ def count(corpus, books, moments):
             "last_year": max(years) if years else None,
             "undated_recordings": pack["by_year"].get("undated", 0),
             "moments": [{k: e[k] for k in ("title", "date", "url", "text")} for e in pack["excerpts"]],
+            **({"all_recordings": pack["all_recordings"]} if all_recordings else {}),
         })
     return sorted(results, key=lambda r: (-r["recordings"], r["title"]))
 
