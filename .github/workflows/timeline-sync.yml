@@ -1,0 +1,47 @@
+name: Check Timeline source drift
+
+on:
+  schedule:
+    - cron: "41 12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: timeline-source-check
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: DevSecObie/cyberjudah-telegram
+          ref: main
+          path: .timeline-upstream
+          persist-credentials: false
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            app/src/data/timeline.json
+            app/scripts/timeline/bible-strong-LICENSE
+            app/src/lib/credits.ts
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: 22
+      - name: Warn if the reviewed snapshot differs from Telegram main
+        env:
+          TIMELINE_REPO: ${{ github.workspace }}/.timeline-upstream
+        run: |
+          timeline_head=$(git -C "$TIMELINE_REPO" rev-parse HEAD)
+          if ! node scripts/timeline/sync.mjs --repo "$TIMELINE_REPO" --ref "$timeline_head" --check; then
+            echo "::warning title=Timeline source drift::The reviewed Timeline snapshot differs from Telegram main. Refresh it through a reviewed data PR; this check does not publish."
+            echo "Timeline source drift detected. Refresh the reviewed snapshot before its next data release; no publication was performed." >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi
+          echo "Timeline source and licence match Telegram main. The reviewed source pin is unchanged; no publication was performed." >> "$GITHUB_STEP_SUMMARY"

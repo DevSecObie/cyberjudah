@@ -4,8 +4,9 @@ import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { spawnSync } from "node:child_process";
 import { writeTimelineData, sha256, TIMELINE_CREDIT } from "./timeline-data.mjs";
-import { syncTimeline } from "../scripts/timeline/sync.mjs";
+import { syncTimeline, checkTimelineSnapshot } from "../scripts/timeline/sync.mjs";
 import { publish } from "./publish.mjs";
 import { memoryStore, r2Binding, memoryCache } from "./r2-memory.mjs";
 import worker, { forget } from "./worker/index.mjs";
@@ -84,4 +85,34 @@ test("refreshing a snapshot requires an immutable commit from the correct source
   assert.throws(() => syncTimeline({ repo: root, ref: "main", destination }), /40-character commit/);
   assert.throws(() => syncTimeline({ repo: root, ref: "0".repeat(40), destination }), /source checkout must be/);
   assert.equal(fs.existsSync(destination), false);
+});
+
+test("checking Telegram main detects content drift but permits unrelated commits and credits edits", t => {
+  const dir = fixture(t);
+  fs.cpSync(path.join(root, "data/timeline"), dir, { recursive: true });
+  const pinned = JSON.parse(fs.readFileSync(path.join(dir, "source.json")));
+  const incoming = { ...pinned, commit: "f".repeat(40), creditsSha256: "e".repeat(64) };
+  assert.deepEqual(checkTimelineSnapshot(dir, source, license, incoming), pinned);
+  assert.deepEqual(JSON.parse(fs.readFileSync(path.join(dir, "source.json"))), pinned, "checking never changes the reviewed pin");
+  assert.throws(() => checkTimelineSnapshot(dir, Buffer.concat([source, Buffer.from(" ")]), license, incoming), /timeline.json/);
+  assert.throws(() => checkTimelineSnapshot(dir, source, Buffer.concat([license, Buffer.from(" ")]), incoming), /bible-strong-LICENSE/);
+});
+
+test("the scheduled drift check warns and fails on mismatch without publishing or refreshing the snapshot", t => {
+  const workflow = fs.readFileSync(path.join(root, ".github/workflows/timeline-sync.yml"), "utf8");
+  assert.match(workflow, /permissions:\n  contents: read/);
+  assert.match(workflow, /repository: DevSecObie\/cyberjudah-telegram\n          ref: main/);
+  const script = workflow.split("        run: |\n")[1].split("\n").map(line => line.replace(/^          /, "")).join("\n");
+  const dir = fixture(t), bin = path.join(dir, "bin"); fs.mkdirSync(bin);
+  fs.writeFileSync(path.join(bin, "git"), '#!/bin/sh\nprintf "%s\\n" ffffffffffffffffffffffffffffffffffffffff\n', { mode: 0o755 });
+  fs.writeFileSync(path.join(bin, "node"), '#!/bin/sh\nexit "$CHECK_RC"\n', { mode: 0o755 });
+  for (const code of [0, 1]) {
+    const summary = path.join(dir, `summary-${code}`);
+    const result = spawnSync("bash", ["-e", "-c", script], { encoding: "utf8", env: { ...process.env, PATH: `${bin}:${process.env.PATH}`, CHECK_RC: String(code), TIMELINE_REPO: dir, GITHUB_STEP_SUMMARY: summary } });
+    assert.equal(result.status, code);
+    assert.equal(result.stdout.includes("::warning"), code === 1);
+    assert.match(fs.readFileSync(summary, "utf8"), /no publication|does not publish/);
+  }
+  assert.doesNotMatch(script, /publish\.mjs|wrangler|git (?:push|commit)/);
+  assert.match(script, /--check/);
 });

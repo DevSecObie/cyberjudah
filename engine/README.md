@@ -125,6 +125,13 @@ retain the Bible Strong credit and GPL v3 licence for sections 1–12.
 The Timeline uses the existing data publisher and Worker: public GET/HEAD/OPTIONS, CORS `*`,
 `Cache-Control: public, max-age=300`, and content-hash ETags. No extra Worker or binding is needed.
 
+`Check Timeline source drift` runs daily and on manual dispatch. It sparsely checks out the
+public Telegram repository's main branch and runs `sync.mjs --check` at its resolved commit.
+Different Timeline/licence bytes or a changed Timeline credit emit a warning and fail that
+read-only check with a step summary. Unrelated upstream commits or other credit edits do not
+warn or change the reviewed source pin. This separate workflow never refreshes data, commits,
+publishes or deploys; a mismatch needs a reviewed snapshot-refresh PR.
+
 ### Data release
 
 `.github/workflows/data.yml` runs the engine on every push to `main` that touches the

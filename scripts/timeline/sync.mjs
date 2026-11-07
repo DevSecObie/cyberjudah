@@ -6,6 +6,20 @@ import { fileURLToPath } from "node:url";
 import { execFileSync } from "node:child_process";
 import { TIMELINE_REPOSITORY, TIMELINE_PATH, TIMELINE_LICENSE_PATH, TIMELINE_CREDITS_PATH, TIMELINE_CREDIT, sha256, validateTimeline } from "../../engine/timeline-data.mjs";
 
+/** Compare contents against a newer commit without treating unrelated commits/credits as drift. */
+export function checkTimelineSnapshot(destination, bytes, license, provenance) {
+  for (const [file, content] of [["timeline.json", bytes], ["bible-strong-LICENSE", license]]) {
+    const target = path.join(destination, file);
+    if (!fs.existsSync(target) || !fs.readFileSync(target).equals(content)) throw new Error(`Timeline snapshot mismatch: ${file}`);
+  }
+  const stored = JSON.parse(fs.readFileSync(path.join(destination, "source.json"), "utf8"));
+  for (const key of ["version", "repository", "path", "sha256", "licensePath", "licenseSha256", "creditsPath"]) {
+    if (stored[key] !== provenance[key]) throw new Error(`Timeline snapshot provenance mismatch: ${key}`);
+  }
+  if (!/^[a-f0-9]{40}$/.test(stored.commit) || !/^[a-f0-9]{64}$/.test(stored.creditsSha256)) throw new Error("Invalid Timeline snapshot provenance");
+  return stored;
+}
+
 export function syncTimeline({ repo, ref, destination, check = false }) {
   if (!repo || !/^[a-f0-9]{40}$/i.test(ref ?? "")) throw new Error("Supply --repo <local Telegram checkout> and --ref <reviewed 40-character commit>");
   const git = args => execFileSync("git", ["-C", repo, ...args], { maxBuffer: 8 * 1024 * 1024, stdio: ["ignore", "pipe", "pipe"] });
@@ -22,13 +36,11 @@ export function syncTimeline({ repo, ref, destination, check = false }) {
   }
   if (!credits.toString().includes(`const GPL = ${JSON.stringify(TIMELINE_CREDIT.licenseUrl)}`)) throw new Error("The upstream Timeline licence URL changed");
   const provenance = { version: 1, repository: TIMELINE_REPOSITORY, commit, path: TIMELINE_PATH, sha256: sha256(bytes), licensePath: TIMELINE_LICENSE_PATH, licenseSha256: sha256(license), creditsPath: TIMELINE_CREDITS_PATH, creditsSha256: sha256(credits) };
+  if (check) { checkTimelineSnapshot(destination, bytes, license, provenance); return provenance; }
   const files = new Map([["timeline.json", bytes], ["bible-strong-LICENSE", license], ["source.json", Buffer.from(JSON.stringify(provenance, null, 2) + "\n")]]);
-  if (!check) fs.mkdirSync(destination, { recursive: true });
+  fs.mkdirSync(destination, { recursive: true });
   for (const [file, content] of files) {
-    const target = path.join(destination, file);
-    if (check) {
-      if (!fs.existsSync(target) || !fs.readFileSync(target).equals(content)) throw new Error(`Timeline snapshot mismatch: ${file}`);
-    } else fs.writeFileSync(target, content);
+    fs.writeFileSync(path.join(destination, file), content);
   }
   return provenance;
 }
