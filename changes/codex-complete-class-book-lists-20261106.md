@@ -1,0 +1,1 @@
+- Class-book shelves expose a stable key and a complete list of the counted recordings, newest first, with short verbatim excerpts and the library's class metadata.

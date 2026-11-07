@@ -31,6 +31,7 @@ import { strongsPages } from "./strongs-pages.mjs";
 import { loadLibrary, plain, VERDICT, versesOf, firstVerse } from "./library.mjs";
 import { loadShows, showOf } from "./shows.mjs";
 import { loadDoctrine } from "./doctrine.mjs";
+import { classBookKeys, classBookList } from "./class-books.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const args = process.argv.slice(2);
@@ -634,10 +635,19 @@ const noteByVideo = new Map();
   // and the moments the classes spoke about it, linked to the class's note when it has one.
   const classBooksFile = path.join(LIB, "class-books.json");
   if (fs.existsSync(classBooksFile)) {
-    const classBooks = JSON.parse(fs.readFileSync(classBooksFile, "utf8")).map((b) => ({
+    const shelf = JSON.parse(fs.readFileSync(classBooksFile, "utf8"));
+    const keys = classBookKeys(shelf);
+    const classBooks = shelf.map((b, index) => ({
       ...b,
+      key: keys[index],
       moments: b.moments.map((m) => { const n = noteByVideo.get(m.video.toLowerCase()); return { ...m, title: n?.title ?? m.title, date: n?.date ?? m.date ?? null, teacher: n?.teacher ?? "", url: n?.url ?? null }; }),
     }));
+    for (const row of classBooks) {
+      const file = path.join(LIB, 'class-books', `${row.key}.json`);
+      if (!fs.existsSync(file)) continue;
+      const complete = classBookList(row, JSON.parse(fs.readFileSync(file, 'utf8')), noteByVideo);
+      writeJson(path.join(API, 'library', 'class-books', `${row.key}.json`), complete);
+    }
     writeJson(path.join(API, "library", "class-books.json"), classBooks);
     console.error(`library: ${classBooks.length} class books on the shelf`);
   }

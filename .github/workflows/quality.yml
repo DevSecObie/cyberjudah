@@ -16,6 +16,10 @@ jobs:
             site/package-lock.json
       - run: npm ci --prefix engine --no-audit --no-fund
       - run: npm ci --prefix site --no-audit --no-fund
+      - name: Build complete class-book lists from the counted corpus
+        run: |
+          python3 scripts/corpus/build.py --skip-scriptures --out "$RUNNER_TEMP/class-books-corpus"
+          python3 scripts/library/class_books.py --corpus "$RUNNER_TEMP/class-books-corpus" --out data/library/class-books.json
       - name: Build, publish to an in-memory bucket and serve through the data Worker, without deploying
         run: node --test engine/data-assets.test.mjs
   validate:
@@ -39,7 +43,7 @@ jobs:
         env:
           PEOPLE_BASE: ${{ github.event.pull_request.base.sha || github.event.before }}
         run: node engine/check.mjs
-      - run: node --test engine/publish.test.mjs engine/strongs-pages.test.mjs engine/class-metadata.test.mjs engine/people-kjv.test.mjs
+      - run: node --test engine/publish.test.mjs engine/strongs-pages.test.mjs engine/class-metadata.test.mjs engine/people-kjv.test.mjs engine/class-books.test.mjs
       - run: python3 -m unittest discover -s scripts/audio -p 'test_*.py'
       - run: python3 scripts/audio/recordings.py check
       - run: npm test --prefix site
