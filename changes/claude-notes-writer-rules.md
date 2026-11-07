@@ -1,0 +1,1 @@
+Notes README: "Rules every note follows" at the top (only the teacher's words, class order for clips and readings, teacher from the thumbnail, people and places from the scripture blocks, checked in the app layout).
