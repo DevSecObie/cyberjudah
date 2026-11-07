@@ -138,6 +138,8 @@ Reading from an article on the mission to Haiti  *[[31:59](https://www.youtube.c
 - The end result is the gathering: through these sanctuaries the Lord will eventually deliver his people from captivity.
 
 
+*[[34:05](https://www.youtube.com/watch?v=wSzqf-nAr98&t=2045s)]* **In The News: Haitian press saying the group came seeking security from the commissioner** — The papers lie. That did not happen: we actually met with Barbecue.
+
 <div class="reading">
 
 Reading from the mission's posts from Haiti  *[[35:15](https://www.youtube.com/watch?v=wSzqf-nAr98&t=2115s)]*
@@ -153,8 +155,6 @@ Reading from the mission's posts from Haiti  *[[35:15](https://www.youtube.com/w
 - Our mission when we get there and have the opportunity to meet these dignitaries or meet the gang leaders, our duty is to make sure we warn them, and remind them: listen, you are from the tribe of Levi.
 
 </div>
-
-*[[34:05](https://www.youtube.com/watch?v=wSzqf-nAr98&t=2045s)]* **In The News: Haitian press saying the group came seeking security from the commissioner** — The papers lie. That did not happen: we actually met with Barbecue.
 
 **[Isaiah 8:20](/bible/isaiah/8#v20)**  *[[37:23](https://www.youtube.com/watch?v=wSzqf-nAr98&t=2243s)]*
 
@@ -192,6 +192,8 @@ Reading from the mission's posts from Haiti  *[[35:15](https://www.youtube.com/w
     Esau dwelt in mount Seir and Esau is Edom, so Ezekiel 35 is spoken against Edom.
 
 
+*[[40:44](https://www.youtube.com/watch?v=wSzqf-nAr98&t=2444s)]* **In The News: Article and photo claiming the group met a senator** — As soon as the work is done, Satan's devices try to implicate us with the oppressors; the meetings were recorded, so we have the evidence.
+
 <div class="reading">
 
 Reading from an article, *Haiti, the Puppet Master's Coronation*  *[[42:27](https://www.youtube.com/watch?v=wSzqf-nAr98&t=2547s)]*
@@ -221,8 +223,6 @@ Reading from a picture of Haiti's hidden rulers  *[[43:08](https://www.youtube.c
 - This is the bam bam. This is Haiti's hidden rulers. This brings a scripture to life, where it talks about where we wrestle not with flesh and blood.
 
 </div>
-
-*[[40:44](https://www.youtube.com/watch?v=wSzqf-nAr98&t=2444s)]* **In The News: Article and photo claiming the group met a senator** — As soon as the work is done, Satan's devices try to implicate us with the oppressors; the meetings were recorded, so we have the evidence.
 
 **[Ephesians 6:12](/bible/ephesians/6#v12)**  *[[44:34](https://www.youtube.com/watch?v=wSzqf-nAr98&t=2674s)]*
 
@@ -472,6 +472,8 @@ Reading from a picture of the American eagle  *[[1:23:28](https://www.youtube.co
 
 </div>
 
+*[[1:25:06](https://www.youtube.com/watch?v=wSzqf-nAr98&t=5106s)]* **In The News: Pastor Joel's ministry in Haiti** — Smooth words: he wants the people in the villages to be comfortable with their poverty. That is part of their smooth words, the Jesuit's job.
+
 <div class="reading">
 
 Reading from a profile of Pastor Joel in Haiti  *[[1:28:27](https://www.youtube.com/watch?v=wSzqf-nAr98&t=5307s)]*
@@ -528,6 +530,8 @@ Reading from an article on a missionary in Haiti  *[[1:32:52](https://www.youtub
 
 </div>
 
+*[[1:33:00](https://www.youtube.com/watch?v=wSzqf-nAr98&t=5580s)]* **In The News: News report: a former Ohio missionary facing federal charges for child exploitation crimes in Haiti** — They throw around these numbers for judgment, but judgment is slack; he's probably back in Haiti again. They learn the Creole language, and all they doing is infiltrating slowly.
+
 <div class="reading">
 
 Reading from an article on a missionary in Haiti  *[[1:34:32](https://www.youtube.com/watch?v=wSzqf-nAr98&t=5672s)]*
@@ -542,6 +546,8 @@ Reading from an article on a missionary in Haiti  *[[1:34:32](https://www.youtub
 
 </div>
 
+*[[1:35:40](https://www.youtube.com/watch?v=wSzqf-nAr98&t=5740s)]* **In The News: Two Texas men indicted for plotting to take a Haitian island, murder the men and enslave the women and children** — The raw uncut Edomite: that is the real hate group, and the one to stop him is the Lord.
+
 <div class="reading">
 
 Reading from a news report on two Texas men  *[[1:35:57](https://www.youtube.com/watch?v=wSzqf-nAr98&t=5757s)]*
@@ -551,12 +557,6 @@ Reading from a news report on two Texas men  *[[1:35:57](https://www.youtube.com
 - That's the raw uncut form right here. Esau, Edom, Idumean, all rolled in one.
 
 </div>
-
-*[[1:25:06](https://www.youtube.com/watch?v=wSzqf-nAr98&t=5106s)]* **In The News: Pastor Joel's ministry in Haiti** — Smooth words: he wants the people in the villages to be comfortable with their poverty. That is part of their smooth words, the Jesuit's job.
-
-*[[1:33:00](https://www.youtube.com/watch?v=wSzqf-nAr98&t=5580s)]* **In The News: News report: a former Ohio missionary facing federal charges for child exploitation crimes in Haiti** — They throw around these numbers for judgment, but judgment is slack; he's probably back in Haiti again. They learn the Creole language, and all they doing is infiltrating slowly.
-
-*[[1:35:40](https://www.youtube.com/watch?v=wSzqf-nAr98&t=5740s)]* **In The News: Two Texas men indicted for plotting to take a Haitian island, murder the men and enslave the women and children** — The raw uncut Edomite: that is the real hate group, and the one to stop him is the Lord.
 
 **[Psalms 94:16](/bible/psalms/94#v16)**  *[[1:38:16](https://www.youtube.com/watch?v=wSzqf-nAr98&t=5896s)]*
 

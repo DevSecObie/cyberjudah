@@ -22,6 +22,8 @@ tags: ["IUIC in the ClassRoom", "leadership", "money", "nations", "so-called-jew
 
 ## Scriptures Opened
 
+*[[1:49](https://www.youtube.com/watch?v=ImeHZKJwobA&t=109s)]* **In The News: Pictures from IUIC's missing persons outreach in Cleveland, Ohio the past weekend** — Thousands of our people, black, Hispanic and Native American, are going missing and nobody is doing anything. Those are Israelites missing, God's chosen people, and the men in purple and gold are going to do the job.
+
 <div class="reading">
 
 Reading from An article: Malawi slammed for secretly exporting labour to Israel amid war on Gaza  *[[5:05](https://www.youtube.com/watch?v=ImeHZKJwobA&t=305s)]*
@@ -38,8 +40,6 @@ Reading from An article: Malawi slammed for secretly exporting labour to Israel 
 
 </div>
 
-
-*[[1:49](https://www.youtube.com/watch?v=ImeHZKJwobA&t=109s)]* **In The News: Pictures from IUIC's missing persons outreach in Cleveland, Ohio the past weekend** — Thousands of our people, black, Hispanic and Native American, are going missing and nobody is doing anything. Those are Israelites missing, God's chosen people, and the men in purple and gold are going to do the job.
 
 **[Isaiah 28:15](/bible/isaiah/28#v15)**  *[[7:55](https://www.youtube.com/watch?v=ImeHZKJwobA&t=475s)]*
 

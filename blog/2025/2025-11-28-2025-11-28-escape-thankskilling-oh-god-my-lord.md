@@ -69,6 +69,8 @@ tags: ["IUIC in the ClassRoom", "angels", "christ", "salvation", "wisdom"]
 
 - Brothers are trying to be discreet and slick about it rather than say outright what they are teaching, but this is not new and it has been seen before.
 
+*[[25:39](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=1539s)]* **In The News: a video the Bishop brought out years ago on the origin of the Israelite schools and their successors, with the photographs of the school at 1 West 125th Street, room 211** — Played to show that the men in the room sat with those elders and have the photographs, while the men pushing the new doctrine are going off a book.
+
 <div class="reading">
 
 Reading from the old website's history of the schools, shown in a video the Bishop brought out years ago on the origin of the Israelite schools  *[[27:56](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=1676s)]*
@@ -87,8 +89,6 @@ Reading from the old website's history of the schools, shown in a video the Bish
 
 </div>
 
-
-*[[25:39](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=1539s)]* **In The News: a video the Bishop brought out years ago on the origin of the Israelite schools and their successors, with the photographs of the school at 1 West 125th Street, room 211** — Played to show that the men in the room sat with those elders and have the photographs, while the men pushing the new doctrine are going off a book.
 
 **[Isaiah 28:9-10](/bible/isaiah/28#v9)**  *[[42:47](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=2567s)]*
 

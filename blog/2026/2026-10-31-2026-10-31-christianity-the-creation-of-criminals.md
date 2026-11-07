@@ -644,6 +644,14 @@ Reading from *The Negro Church* by E. Franklin Frazier, p. 63 (as stated on air)
 - Remember it said the diseased? Our people are sick. That's what the Bible says. This is what sickness produces. This is what Christianity produces.
 
 
+*[[1:45:53](https://www.youtube.com/watch?v=4PNO1JAtOv4&t=6353s)]* **In The News: News: a 15-year-old shot in the Bronx** — This happened just a few days ago. And guess what they are? Christians. This is what we mean by you produce criminals.
+
+*[[1:47:48](https://www.youtube.com/watch?v=4PNO1JAtOv4&t=6468s)]* **In The News: News: a child raped in a stairwell in the Soundview projects, Bronx** — Our people are sick. And guess what they are? Christians.
+
+*[[1:48:37](https://www.youtube.com/watch?v=4PNO1JAtOv4&t=6517s)]* **In The News: A rap video** — In the Christian church, did you learn to change? Was there enforcement of God's law? No. These are your Christians.
+
+*[[1:50:27](https://www.youtube.com/watch?v=4PNO1JAtOv4&t=6627s)]* **In The News: New York City's gang war mapped** — This is what I saw in high school; this is what your kids saw in high school. All of them will say they believe in Jesus. This is what we have to clean up.
+
 <div class="reading">
 
 Reading from On-screen map: "Five Bronx churches and nearby recent 2026 crime indicators"  *[[1:51:23](https://www.youtube.com/watch?v=4PNO1JAtOv4&t=6683s)]*
@@ -658,14 +666,6 @@ Reading from On-screen map: "Five Bronx churches and nearby recent 2026 crime in
 
 </div>
 
-
-*[[1:45:53](https://www.youtube.com/watch?v=4PNO1JAtOv4&t=6353s)]* **In The News: News: a 15-year-old shot in the Bronx** — This happened just a few days ago. And guess what they are? Christians. This is what we mean by you produce criminals.
-
-*[[1:47:48](https://www.youtube.com/watch?v=4PNO1JAtOv4&t=6468s)]* **In The News: News: a child raped in a stairwell in the Soundview projects, Bronx** — Our people are sick. And guess what they are? Christians.
-
-*[[1:48:37](https://www.youtube.com/watch?v=4PNO1JAtOv4&t=6517s)]* **In The News: A rap video** — In the Christian church, did you learn to change? Was there enforcement of God's law? No. These are your Christians.
-
-*[[1:50:27](https://www.youtube.com/watch?v=4PNO1JAtOv4&t=6627s)]* **In The News: New York City's gang war mapped** — This is what I saw in high school; this is what your kids saw in high school. All of them will say they believe in Jesus. This is what we have to clean up.
 
 **[Leviticus 19:29](/bible/leviticus/19#v29)**  *[[1:54:12](https://www.youtube.com/watch?v=4PNO1JAtOv4&t=6852s)]*
 

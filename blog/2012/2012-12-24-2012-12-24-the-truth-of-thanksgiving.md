@@ -162,6 +162,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "endurance", "eu
 - Google Thanksgiving genocide, or genocide Thanksgiving: they give you a list of the actual truth behind Thanksgiving.
 
 
+*[[14:08](https://www.youtube.com/watch?v=OfeSju75iMY&t=848s)]* **In The News: A clip from Goodbye Uncle Tom** — They show you American Indians beside the Negroes sold into slavery.
+
 <div class="reading">
 
 Reading from a printout by Glen Ford, printed November 27th, 2006, on the truth behind Thanksgiving (the highlighted parts) · read by Deacon Asaph  *[[14:48](https://www.youtube.com/watch?v=OfeSju75iMY&t=888s)]*
@@ -184,8 +186,6 @@ Reading from a printout by Glen Ford, printed November 27th, 2006, on the truth 
 
 </div>
 
-
-*[[14:08](https://www.youtube.com/watch?v=OfeSju75iMY&t=848s)]* **In The News: A clip from Goodbye Uncle Tom** — They show you American Indians beside the Negroes sold into slavery.
 
 **[Deuteronomy 28:32](/bible/deuteronomy/28#v32)**  *[[17:05](https://www.youtube.com/watch?v=OfeSju75iMY&t=1025s)]*
 

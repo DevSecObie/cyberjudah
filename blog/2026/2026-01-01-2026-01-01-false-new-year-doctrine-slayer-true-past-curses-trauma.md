@@ -21,6 +21,8 @@ tags: ["IUIC in the ClassRoom", "captivity", "egypt", "islam-arabs", "mental-hea
 
 ## Scriptures Opened
 
+*[[0:07](https://www.youtube.com/watch?v=UWI2pcKI1hA&t=7s)]* **In The News: A scene from Roots in which an enslaved girl is told white folks are naturally smarter.** — Israel was the gift sent one to another, from one generation to the next.
+
 <div class="reading">
 
 Reading from *Lest We Forget*, page 14  *[[2:31](https://www.youtube.com/watch?v=UWI2pcKI1hA&t=151s)]*
@@ -36,8 +38,6 @@ Reading from *Lest We Forget*, page 14  *[[2:31](https://www.youtube.com/watch?v
 - Revelation 11 and 10, giving us gifts.
 
 </div>
-
-*[[0:07](https://www.youtube.com/watch?v=UWI2pcKI1hA&t=7s)]* **In The News: A scene from Roots in which an enslaved girl is told white folks are naturally smarter.** — Israel was the gift sent one to another, from one generation to the next.
 
 **[Revelation 11:10](/bible/revelation/11#v10)**  *[[3:37](https://www.youtube.com/watch?v=UWI2pcKI1hA&t=217s)]*
 
@@ -1583,6 +1583,8 @@ Reading from Candace Owens's posts on Twitter, quoting the *Jewish Encyclopedia*
     Two women who circumcised their children were led about with the babes hanging at their breasts.
 
 
+*[[5:33:37](https://www.youtube.com/watch?v=UWI2pcKI1hA&t=20017s)]* **In The News: Photographs from Without Sanctuary of lynchings of men, women, children and a mother and son.** — Thy life shall hang in doubt before thee, and princes are hanged up by their hand.
+
 <div class="reading">
 
 Reading from an account of the lynching of Mary Turner, on screen  *[[5:38:14](https://www.youtube.com/watch?v=UWI2pcKI1hA&t=20294s)]*
@@ -1596,8 +1598,6 @@ Reading from an account of the lynching of Mary Turner, on screen  *[[5:38:14](h
 - So they hung her up first. They doused her in gasoline. They cut her womb open. Baby falls out. The baby starts to cry when it falls out, and as it's crying, he steps on its head. And then they set her on fire, and then they shoot her full of holes after they set her on fire. That's in that book.
 
 </div>
-
-*[[5:33:37](https://www.youtube.com/watch?v=UWI2pcKI1hA&t=20017s)]* **In The News: Photographs from Without Sanctuary of lynchings of men, women, children and a mother and son.** — Thy life shall hang in doubt before thee, and princes are hanged up by their hand.
 
 **[Galatians 3:13](/bible/galatians/3#v13)**  *[[5:45:51](https://www.youtube.com/watch?v=UWI2pcKI1hA&t=20751s)]*
 
@@ -1624,6 +1624,8 @@ Reading from an account of the lynching of Mary Turner, on screen  *[[5:38:14](h
 
 - The officers set over them, their own people, were beaten and turned against Moses and Aaron.
 
+
+*[[6:00:25](https://www.youtube.com/watch?v=UWI2pcKI1hA&t=21625s)]* **In The News: The cotton-weighing scene from 12 Years a Slave in which men are whipped for picking less than the quota.** — The same quotas and cries of 'lazy' that Israel heard in Egypt.
 
 <div class="reading">
 
@@ -1678,8 +1680,6 @@ Reading from an article on Egypt's brick-making quota  *[[6:10:51](https://www.y
 - So the other nations that were there, Egyptians, got their days off, but we asked for our days off, it's a problem.
 
 </div>
-
-*[[6:00:25](https://www.youtube.com/watch?v=UWI2pcKI1hA&t=21625s)]* **In The News: The cotton-weighing scene from 12 Years a Slave in which men are whipped for picking less than the quota.** — The same quotas and cries of 'lazy' that Israel heard in Egypt.
 
 **[Deuteronomy 28:34](/bible/deuteronomy/28#v34)**  *[[6:22:36](https://www.youtube.com/watch?v=UWI2pcKI1hA&t=22956s)]*
 

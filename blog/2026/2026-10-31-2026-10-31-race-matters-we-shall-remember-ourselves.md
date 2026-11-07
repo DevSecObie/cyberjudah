@@ -254,6 +254,8 @@ So, when you make your race important, you become an idolater. So now knowing yo
 - But I will utterly take them away: I will take them away by who? The Assyrians.
 
 
+*[[55:21](https://www.youtube.com/watch?v=1L2IOu7pA84&t=3321s)]* **In The News: Clip of a podcast where the guest (he names him "Satan Malone" and later "Mark") sits down with an Israelite and argues that no one in the Old Testament thought Israel would lose her identity, that Israelites are "a rewriting of your entire history" and "a new and false religion"** — So he's arguing that we're going to lose our identity and it'll be restored. Watch this. He said this stupidness boldly, that no one in the Old Testament thought that they were going to lose their identity. There's no scripture that shows we were going to lose our identity in the Old Testament by the prophets? We made that up. How was Israel able to prepare for a curse? If God pronounced it against you, what can you prepare for other than to receive it? If God pronounces it against you, it will happen inevitably. God said we're going to be conquered and enslaved. You can't prepare now. All you can do is accept it. So he's saying it's a new and false religion. It's not new. It's not new because I have many books. I have a book that's older than this country that shows that Israel is black. So that's not new, sir. It's not new. This is what happens when you want to be black so bad and we won't accept you. You'll say we're not Jews.
+
 <div class="reading">
 
 Reading from On-screen text on the Assyrian policy of deportation and assimilation  *[[1:00:12](https://www.youtube.com/watch?v=1L2IOu7pA84&t=3612s)]*
@@ -424,8 +426,6 @@ Reading from On-screen text on the Assyrian policy of deportation and assimilati
 
 </div>
 
-
-*[[55:21](https://www.youtube.com/watch?v=1L2IOu7pA84&t=3321s)]* **In The News: Clip of a podcast where the guest (he names him "Satan Malone" and later "Mark") sits down with an Israelite and argues that no one in the Old Testament thought Israel would lose her identity, that Israelites are "a rewriting of your entire history" and "a new and false religion"** — So he's arguing that we're going to lose our identity and it'll be restored. Watch this. He said this stupidness boldly, that no one in the Old Testament thought that they were going to lose their identity. There's no scripture that shows we were going to lose our identity in the Old Testament by the prophets? We made that up. How was Israel able to prepare for a curse? If God pronounced it against you, what can you prepare for other than to receive it? If God pronounces it against you, it will happen inevitably. God said we're going to be conquered and enslaved. You can't prepare now. All you can do is accept it. So he's saying it's a new and false religion. It's not new. It's not new because I have many books. I have a book that's older than this country that shows that Israel is black. So that's not new, sir. It's not new. This is what happens when you want to be black so bad and we won't accept you. You'll say we're not Jews.
 
 **[Hosea 1:6-9](/bible/hosea/1#v6)**  *[[1:14:12](https://www.youtube.com/watch?v=1L2IOu7pA84&t=4452s)]*
 

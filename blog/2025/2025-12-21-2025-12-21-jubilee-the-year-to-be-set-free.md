@@ -210,6 +210,8 @@ Reading from the on-screen note on Leviticus 27:19, again · read by Cap  *[[58:
     In pride is destruction, and lewdness is the mother of famine.
 
 
+*[[1:04:09](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=3849s)]* **In The News: A tennis champion whose father skipped her wedding.** — Take a wife of thy father's tribe, and the seed shall inherit the land (Tobit 4:12).
+
 <div class="reading">
 
 Reading from an article on Halle Berry's child support · read by Bishop  *[[1:04:36](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=3876s)]*
@@ -263,8 +265,6 @@ Reading from an on-screen text on the seventh year of release and the year of Ju
 > Significance, the Jubilee has profound implications for family heritage and social structure in Israelite society, while the seven-year release is primarily about debt release.
 
 </div>
-
-*[[1:04:09](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=3849s)]* **In The News: A tennis champion whose father skipped her wedding.** — Take a wife of thy father's tribe, and the seed shall inherit the land (Tobit 4:12).
 
 **[Exodus 21:1](/bible/exodus/21#v1)**  *[[1:13:37](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=4417s)]*
 

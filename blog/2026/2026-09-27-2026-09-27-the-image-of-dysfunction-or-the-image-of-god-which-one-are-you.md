@@ -278,6 +278,8 @@ Reading from *When Trauma Speaks* by Captain Gedaliah, chapter 10, "Created vers
 
 </div>
 
+*[[1:15:47](https://www.youtube.com/watch?v=lTjnCZsWsng&t=4547s)]* **In The News: A picture of a man holding a sign in front of his face.** — The conditioned self is the sign we show the world; the real soul is hidden behind it and scared. When the Bishop talks to our people he is usually talking to the mask, the representative, not the real them. The real you has not surfaced yet and must be encouraged to come forward.
+
 <div class="reading">
 
 Reading from *When Trauma Speaks* by Captain Gedaliah, chapter 10, "Created versus Conditioned", pp. 112-113  *[[1:16:36](https://www.youtube.com/watch?v=lTjnCZsWsng&t=4596s)]*
@@ -359,8 +361,6 @@ Reading from *When Trauma Speaks* by Captain Gedaliah, chapter 10, "Created vers
 - We are made in the image of God. That's what that part is telling you. We were made connected to the nature and intent of the power, the Most High, who formed us.
 
 </div>
-
-*[[1:15:47](https://www.youtube.com/watch?v=lTjnCZsWsng&t=4547s)]* **In The News: A picture of a man holding a sign in front of his face.** — The conditioned self is the sign we show the world; the real soul is hidden behind it and scared. When the Bishop talks to our people he is usually talking to the mask, the representative, not the real them. The real you has not surfaced yet and must be encouraged to come forward.
 
 **[Jeremiah 1:4-5](/bible/jeremiah/1#v4)**  *[[1:27:29](https://www.youtube.com/watch?v=lTjnCZsWsng&t=5249s)]*
 
@@ -583,6 +583,8 @@ Reading from a flyer from the old school  *[[2:08:56](https://www.youtube.com/wa
 
 </div>
 
+*[[2:11:20](https://www.youtube.com/watch?v=lTjnCZsWsng&t=7880s)]* **In The News: A commentator: keep him in destructive mode, do not let him think about anything serious, because then he becomes a danger; produce an image of comfort, which is false.** — That is exactly why we are pushed toward sports, entertainment, and dancing. Frolic means to play about in a carefree way. The white mother buys her son a model plane to build over days; the black family buys it assembled, from the book Black Men by Haki Madhubuti. One family raises rulers, the other raises consumers.
+
 <div class="reading">
 
 Reading from a definition of frolic  *[[2:12:48](https://www.youtube.com/watch?v=lTjnCZsWsng&t=7968s)]*
@@ -637,6 +639,8 @@ Reading from *Lest We Forget: The Passage from Africa to Slavery and Emancipatio
 
 </div>
 
+*[[2:22:45](https://www.youtube.com/watch?v=lTjnCZsWsng&t=8565s)]* **In The News: A viral video of a man dancing on a table for white executives, trying to get a record deal.** — On the slave ships they made us dance so we looked healthy at market and so we looked happy. If we look happy they can present us as well treated. That is a betraying comfort, and it teaches a young son that this is what to aspire to.
+
 <div class="reading">
 
 Reading from *Lest We Forget: The Passage from Africa to Slavery and Emancipation* by Velma Maia Thomas, "To Make a Slave", continued  *[[2:24:48](https://www.youtube.com/watch?v=lTjnCZsWsng&t=8688s)]*
@@ -662,10 +666,6 @@ Reading from *Lest We Forget: The Passage from Africa to Slavery and Emancipatio
 - They would have to change our mindset. That's a heavy statement right there. As a man thinketh, he becomes that. But in the reality of his soul, the real him is buried up underneath that psychological shell, that psychological tarp of what they made out of us. The real us have not even surfaced.
 
 </div>
-
-*[[2:11:20](https://www.youtube.com/watch?v=lTjnCZsWsng&t=7880s)]* **In The News: A commentator: keep him in destructive mode, do not let him think about anything serious, because then he becomes a danger; produce an image of comfort, which is false.** — That is exactly why we are pushed toward sports, entertainment, and dancing. Frolic means to play about in a carefree way. The white mother buys her son a model plane to build over days; the black family buys it assembled, from the book Black Men by Haki Madhubuti. One family raises rulers, the other raises consumers.
-
-*[[2:22:45](https://www.youtube.com/watch?v=lTjnCZsWsng&t=8565s)]* **In The News: A viral video of a man dancing on a table for white executives, trying to get a record deal.** — On the slave ships they made us dance so we looked healthy at market and so we looked happy. If we look happy they can present us as well treated. That is a betraying comfort, and it teaches a young son that this is what to aspire to.
 
 *[[2:27:46](https://www.youtube.com/watch?v=lTjnCZsWsng&t=8866s)]* **In The News: An old clip of the Bishop in a New York YouTube studio with Officer Jonah, from the series The Truth Shall Make You Free, titled Painkillers: Christianity, like a painkiller, kills the pain for a moment but never treats the cause, so the homes stay broken and the men keep going to jail.** — Drugs, alcohol, sitcoms, cell phones, and social media are painkillers too, a kaleidoscope of foolishness that never asks who we really are. You have to go to the source of the pain and the real image of yourself to fix it; the church just gets high on the drums and the Hammond organ.
 

@@ -137,6 +137,18 @@ tags: ["IUIC in the ClassRoom", "faith", "media", "purpose", "the-body", "unity"
 - Because ye say that I cast out devils through Beelzebub: So now, if Satan cannot divide against itself, that's confusion. So now if the white man kingdom cannot be divided, why are we divided? Why are we divided? Cuz we supposed to be one body, one mind, one spirit. Christ is not divided. Then why are we divided then? I'm going to show you why.
 
 
+*[[35:39](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=2139s)]* **In The News: Video number one: Donald Trump saying African-American, Hispanic American and Native American poverty rates are "the highest and the best numbers ever recorded by far," and the crowd clapping** — Why he named those three: those are the Israelite, and some of us still think these people love us.
+
+*[[36:47](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=2207s)]* He said the African-American poverty, the Hispanic poverty, the native poverty, he say is, in other words, is the worst ever. And you hear the people clapping. Now, why he mentioned those three? Why he didn't say the Arab? Why he didn't say the Pakistanian? Why he didn't say the East Indian? Why he didn't say them? Why he didn't say the Chinese, the Korean? Why he said the African-American, the Hispanic, and the Native American Indian? Why mention those three? Those are the Israelite. They know those are the Israelite. They know those are the chosen people. They know. He know that. And I know what some people say right now: it's a slip of the tongue. No, it's not. He know exactly what he's saying. He know exactly what he's saying. I'm playing this for those of you thinking these people love us.
+
+*[[38:07](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=2287s)]* Listen, let me something by you. Some of you continue underestimate white people. White America did not vote for Donald Trump because they know Donald Trump was going to make their life better. That's not what they vote for Donald Trump. MAGA, that's not what MAGA stand for. MAGA did not stand for, "I'm going to vote MAGA because he can make my life better." That's not what white people vote for. This is why white people vote for. This is why white America vote for. They vote for because they know. They say, listen, if you can make these people life miserable, it doesn't matter about my life. You see, again, you underestimate white society, white supremacy. Underestimate white supremacy. Everything Donald Trump is doing right now, Donald Trump told them he was going to do it.
+
+*[[39:37](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=2377s)]* **In The News: Video number seven: a black woman asked to leave a Ken Paxton campaign event in San Antonio, and a follow-up clip where she still has no answer why** — Some of us still think these people love us; insanity, not understanding reality.
+
+*[[39:44](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=2384s)]* This is the black woman. Hey, listen to the black woman. My mouth is wide open. She drove 2 hours. Two hours. And she still do not understand why they ask her to leave. She's clueless. "Why they ask me to leave? I thought they love us." Listen, some of us, you might think she's the only one. Oh, no. She's not the only one. She is not the only one. You got Mayweather, Mike Tyson, Holyfield. Listen, listen. She's not the only one.
+
+*[[41:38](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=2498s)]* Because you're black. Because you are black. You are a negro. What do you mean you don't get it? What the … She don't understand why they exited to leave. I'm showing you, I'm showing you what type of time we in. Some of us still think these people love us. Oh, it's not over yet. What you notice about her hair? Blonde hair. I'm tell some of us, listen. Hey, give me the definition of insanity.
+
 <div class="reading">
 
 Reading from Definition of insanity (read on screen)  *[[42:44](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=2564s)]*
@@ -159,18 +171,6 @@ Reading from Definition of insanity (read on screen)  *[[42:44](https://www.yout
 
 </div>
 
-
-*[[35:39](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=2139s)]* **In The News: Video number one: Donald Trump saying African-American, Hispanic American and Native American poverty rates are "the highest and the best numbers ever recorded by far," and the crowd clapping** — Why he named those three: those are the Israelite, and some of us still think these people love us.
-
-*[[36:47](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=2207s)]* He said the African-American poverty, the Hispanic poverty, the native poverty, he say is, in other words, is the worst ever. And you hear the people clapping. Now, why he mentioned those three? Why he didn't say the Arab? Why he didn't say the Pakistanian? Why he didn't say the East Indian? Why he didn't say them? Why he didn't say the Chinese, the Korean? Why he said the African-American, the Hispanic, and the Native American Indian? Why mention those three? Those are the Israelite. They know those are the Israelite. They know those are the chosen people. They know. He know that. And I know what some people say right now: it's a slip of the tongue. No, it's not. He know exactly what he's saying. He know exactly what he's saying. I'm playing this for those of you thinking these people love us.
-
-*[[38:07](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=2287s)]* Listen, let me something by you. Some of you continue underestimate white people. White America did not vote for Donald Trump because they know Donald Trump was going to make their life better. That's not what they vote for Donald Trump. MAGA, that's not what MAGA stand for. MAGA did not stand for, "I'm going to vote MAGA because he can make my life better." That's not what white people vote for. This is why white people vote for. This is why white America vote for. They vote for because they know. They say, listen, if you can make these people life miserable, it doesn't matter about my life. You see, again, you underestimate white society, white supremacy. Underestimate white supremacy. Everything Donald Trump is doing right now, Donald Trump told them he was going to do it.
-
-*[[39:37](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=2377s)]* **In The News: Video number seven: a black woman asked to leave a Ken Paxton campaign event in San Antonio, and a follow-up clip where she still has no answer why** — Some of us still think these people love us; insanity, not understanding reality.
-
-*[[39:44](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=2384s)]* This is the black woman. Hey, listen to the black woman. My mouth is wide open. She drove 2 hours. Two hours. And she still do not understand why they ask her to leave. She's clueless. "Why they ask me to leave? I thought they love us." Listen, some of us, you might think she's the only one. Oh, no. She's not the only one. She is not the only one. You got Mayweather, Mike Tyson, Holyfield. Listen, listen. She's not the only one.
-
-*[[41:38](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=2498s)]* Because you're black. Because you are black. You are a negro. What do you mean you don't get it? What the … She don't understand why they exited to leave. I'm showing you, I'm showing you what type of time we in. Some of us still think these people love us. Oh, it's not over yet. What you notice about her hair? Blonde hair. I'm tell some of us, listen. Hey, give me the definition of insanity.
 
 **[Proverbs 3:31](/bible/proverbs/3#v31)**  *[[46:30](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=2790s)]*
 
@@ -196,6 +196,12 @@ Reading from Definition of insanity (read on screen)  *[[42:44](https://www.yout
 - Were oppressed together: They were what? Oppressed together. They were oppressed together.
 
 
+*[[50:53](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=3053s)]* **In The News: Video number 10: a black woman from Memphis at her first MAGA rally saying she is among her people and "we don't think about color"** — Insanity: she does not understand reality; this country was built on color.
+
+*[[51:14](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=3074s)]* She ended up getting fired in her job for thanking President Trump.
+
+*[[52:51](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=3171s)]* I don't mean to curse, but where the f she been for the past 400 years? She said they don't think about color. Let me tell you guys something. This country was built based on color.
+
 <div class="reading">
 
 Reading from Definition of insanity, read again (on screen)  *[[53:14](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=3194s)]*
@@ -208,12 +214,6 @@ Reading from Definition of insanity, read again (on screen)  *[[53:14](https://w
 
 </div>
 
-
-*[[50:53](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=3053s)]* **In The News: Video number 10: a black woman from Memphis at her first MAGA rally saying she is among her people and "we don't think about color"** — Insanity: she does not understand reality; this country was built on color.
-
-*[[51:14](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=3074s)]* She ended up getting fired in her job for thanking President Trump.
-
-*[[52:51](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=3171s)]* I don't mean to curse, but where the f she been for the past 400 years? She said they don't think about color. Let me tell you guys something. This country was built based on color.
 
 **[Lamentations 4:17](/bible/lamentations/4#v17)**  *[[55:38](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=3338s)]*
 
@@ -274,15 +274,6 @@ Reading from Definition of insanity, read again (on screen)  *[[53:14](https://w
 - And by their secret plots, and popular persuasions: They watching what we pushing. They notice there can be a thousand of us in one spot: the so-called Hispanic, the so-called American Indian, the so-called blacks. Guess what? There's not one fight, not one argument. They say, "Whoa, we got to stop this. We got to stop this." So brothers, be very mindful. Don't think what you teaching, there is no backlash. There will be backlash. There is backlash already. Eventually, when they try everything to stop this, guess what's going to happen? They will start killing some of us. That's where this, that's what, I'm just preparing you for what's coming. That's where this is going.
 
 
-<div class="reading">
-
-Reading from Quote on J. Edgar Hoover (read on screen)  *[[1:18:32](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=4712s)]*
-
-> When FBI Director J. Edgar Hoover was asked what in his opinion was the single greatest threat to the United States of America, he responded, "Negro unity." Take a moment to let that sink in.
-
-</div>
-
-
 *[[1:09:55](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=4195s)]* **In The News: Video number three: a sister saying the entire civilization is built on keeping the black man and the black woman apart, and how she was fought for saying it back in 1990** — The Israelite are closing that gap, and they are watching it.
 
 *[[1:10:15](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=4215s)]* She said the entire civilization is built on keeping us apart. So guess what the Israelite is doing now? The Israelite is bringing us back together. The Israelite is closing that gap. They seeing this. I'm telling you, they're seeing, they're watching this. They're watching it. They like, "Listen, we got to do something about this." They're watching it.
@@ -300,6 +291,15 @@ Reading from Quote on J. Edgar Hoover (read on screen)  *[[1:18:32](https://www.
 *[[1:16:26](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=4586s)]* You see, this class is not about being a black man. That's not what this class is about. This class is about unity. We should work together as one. One body, one mission. Do you realize, brothers? Do you realize the whole world hate black men? The whole world hate the black man. There's a video Bishop was playing last night. How the blood was saying how America dropped two bomb, one in Yoshima, one in Nagasaki. Guess what? Guess what the Japanese do? The Japanese love white people, but they hate black people. We did not drop bomb on nobody. We didn't drop bomb on nobody, but they hate us. Listen, nobody got more hate than the black men in America.
 
 *[[1:17:41](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=4661s)]* And you thinking they only hate you here? Oh, okay. Some of you haven't been to Europe yet, huh? You haven't been to Europe yet. We been hate all over the world. They hate us. All over the world, we got hate. And I'm not talking about all black woman. This is not about black women hate. No, that's not what it's about. I'm showing you how Esau is pushing, as we teaching come together. Love your wife. Sisters, get a husband. Stop slipping around. Brothers, stop slipping around. Get a wife. Taking care of your kids. Brother, you got to take care of your kids. You got to get a job. As a matter of fact, you cannot be around us if you don't have a job. As we pushing that, the enemy is also pushing contrary to what you're pushing. The enemy said, "No, we cannot allow that to happen. We got to keep them. We got to keep them separate."
+
+<div class="reading">
+
+Reading from Quote on J. Edgar Hoover (read on screen)  *[[1:18:32](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=4712s)]*
+
+> When FBI Director J. Edgar Hoover was asked what in his opinion was the single greatest threat to the United States of America, he responded, "Negro unity." Take a moment to let that sink in.
+
+</div>
+
 
 *[[1:19:47](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=4787s)]* Bishop sent me the video. Thank you, Bishop. I want you to listen to what this young man say.
 

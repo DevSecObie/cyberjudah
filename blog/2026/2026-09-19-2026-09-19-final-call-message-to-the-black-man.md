@@ -321,6 +321,8 @@ Reading from Reading from *From Babylon to Timbuktu*, on Islam and Judaism  *[[3
 
 *[[1:11:10](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4270s)]* So Bishop said, "You should read Malcolm X's book. I read it. I said, "Wow, this book is excellent. So now let's show pictures of Malcolm X. So Malcolm X was in prison, right, from 46 to 52. He learned Islam. He learned Islam while in prison. Malcolm X put in a lot of work. Lot of work. So let's give a round of applause to those that see the transition of what Malcolm X was doing and what IUIC is doing today. Y'all have seen the transition. You got to think about it. Our people at this time, they really thought this was the way.
 
+*[[1:13:12](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4392s)]* **In The News: A scene from the film Malcolm X: "We wouldn't have a racial problem if..."** — Now, Malcolm X made Islam extremely popular. The Lord blessed him with the gift of oratory. He was a great orator.
+
 <div class="reading">
 
 Reading from Reading from *The Autobiography of Malcolm X  *[[1:13:45](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4425s)]*
@@ -343,8 +345,6 @@ Reading from Reading from *The Autobiography of Malcolm X  *[[1:13:45](https://w
 
 </div>
 
-
-*[[1:13:12](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4392s)]* **In The News: A scene from the film Malcolm X: "We wouldn't have a racial problem if..."** — Now, Malcolm X made Islam extremely popular. The Lord blessed him with the gift of oratory. He was a great orator.
 
 **[Isaiah 51:20](/bible/isaiah/51#v20)**  *[[1:15:34](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4534s)]*
 
@@ -543,6 +543,8 @@ Reading from Reading from a snapshot on Khalid Muhammad  *[[1:52:55](https://www
 </div>
 
 
+*[[1:53:26](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=6806s)]* **In The News: Louis Farrakhan: "There are people in America like the children of Israel. Who are those people?"** — He said, "Who? And the crowd said, "We are. Another famous leader of the Nation of Islam, quoting the Bible. The Quran cannot be the book. The two most popular leaders and speakers of the Nation of Islam resorted to the Bible. This is the source. So now the two leaders, these great leaders, quoted the Bible. So why not we go to that book that they quoted? That book says we're the Jews. We're the Israelites. So we should be following the source. Remember, Muhammad copied what he saw the Israelites doing. The source always goes back to the Bible.
+
 <div class="reading">
 
 Reading from Reading from a snapshot on Khalid Muhammad  *[[1:55:00](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=6900s)]*
@@ -557,8 +559,6 @@ Reading from Reading from a snapshot on Khalid Muhammad  *[[1:55:00](https://www
 
 </div>
 
-
-*[[1:53:26](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=6806s)]* **In The News: Louis Farrakhan: "There are people in America like the children of Israel. Who are those people?"** — He said, "Who? And the crowd said, "We are. Another famous leader of the Nation of Islam, quoting the Bible. The Quran cannot be the book. The two most popular leaders and speakers of the Nation of Islam resorted to the Bible. This is the source. So now the two leaders, these great leaders, quoted the Bible. So why not we go to that book that they quoted? That book says we're the Jews. We're the Israelites. So we should be following the source. Remember, Muhammad copied what he saw the Israelites doing. The source always goes back to the Bible.
 
 **[Revelation 2:9](/bible/revelation/2#v9)**  *[[1:56:15](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=6975s)]*
 

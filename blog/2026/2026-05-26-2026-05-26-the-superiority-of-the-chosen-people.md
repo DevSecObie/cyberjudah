@@ -280,6 +280,8 @@ Reading from an article on time.com  *[[1:32:02](https://www.youtube.com/watch?v
 
 </div>
 
+*[[1:38:50](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=5930s)]* **In The News: How ancient Egypt tested pregnancy and the child's sex with urine on barley and wheat** — Barley first meant a boy; so the Egyptians knew the sex before birth, which is why the midwives were told to kill on the stools.
+
 <div class="reading">
 
 Reading from the article on time.com, continued  *[[1:40:59](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=6059s)]*
@@ -459,8 +461,6 @@ Reading from *The New Order of Barbarians*  *[[2:06:01](https://www.youtube.com/
 - Daniel chapter 7 verse 25.
 
 </div>
-
-*[[1:38:50](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=5930s)]* **In The News: How ancient Egypt tested pregnancy and the child's sex with urine on barley and wheat** — Barley first meant a boy; so the Egyptians knew the sex before birth, which is why the midwives were told to kill on the stools.
 
 **[Daniel 7:25](/bible/daniel/7#v25)**  *[[2:07:15](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=7635s)]*
 
@@ -715,6 +715,8 @@ Reading from the AI chat on C-sections, continued  *[[2:56:08](https://www.youtu
 
 </div>
 
+*[[2:59:13](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=10753s)]* **In The News: La Operacion: the sterilization of Puerto Rican women from 1930** — By 1970 almost forty percent of childbearing women in Puerto Rico were sterilized for industrialists who wanted workers with no families; deal wisely with them.
+
 <div class="reading">
 
 Reading from *The Guardian*  *[[3:00:41](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=10841s)]*
@@ -736,8 +738,6 @@ Reading from *The Guardian*  *[[3:00:41](https://www.youtube.com/watch?v=xHfm0T2
 - Madness. Dealing wisely with them. That's what they did to the southern kingdom, Judah. Same thing all over.
 
 </div>
-
-*[[2:59:13](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=10753s)]* **In The News: La Operacion: the sterilization of Puerto Rican women from 1930** — By 1970 almost forty percent of childbearing women in Puerto Rico were sterilized for industrialists who wanted workers with no families; deal wisely with them.
 
 **[Deuteronomy 7:6](/bible/deuteronomy/7#v6)**  *[[3:01:42](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=10902s)]*
 
@@ -827,6 +827,10 @@ Reading from *The Guardian*  *[[3:00:41](https://www.youtube.com/watch?v=xHfm0T2
 
 - In Zanzibar this Passover our brothers and sisters, heavily Islamic, did not know the Arabs had depopulated their island through its slave market; Zanj means black people.
 
+
+*[[4:09:29](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=14969s)]* **In The News: Africans diving for pearls in the Persian Gulf: Zanzibar under the Sultan of Oman, thirty to fifty thousand a year through its market, the dhow, the diver with a stone on his ankle, forty to fifty dives a day** — Dominion over our bodies on the east side of Africa, and the Zanj rebellion of 869 was one of the largest slave revolts in history; the Arab trade never stopped.
+
+*[[4:18:29](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=15509s)]* **In The News: African slaves pearl diving off Venezuela and Colombia for the Spanish from the 1500s** — The white man did on the west side what the Arab did on the east.
 
 <div class="reading">
 
@@ -973,10 +977,6 @@ Reading from the article on Benjamin Banneker, continued  *[[4:31:20](https://ww
 - Remember Benjamin Banneker was very, very knowledgeable in astronomy and mathematics. Most of the elite officials of the US capital were masons. They were heavily rooted, knowledgeable of mathematics and astrology and astronomy. So they utilized Benjamin Banneker's genius to engineer how to build the US capital in the most satanic fashion possible, with the triangle. Whether he knew it or not, I don't know. But what I do know is that these men made sure to use one of our people to help engineer this satanic symbolism here to build their capital. Cuz they used our mind to build their evil here. This big old pentagram right here. But I cannot deny the genius of Benjamin Banneker.
 
 </div>
-
-*[[4:09:29](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=14969s)]* **In The News: Africans diving for pearls in the Persian Gulf: Zanzibar under the Sultan of Oman, thirty to fifty thousand a year through its market, the dhow, the diver with a stone on his ankle, forty to fifty dives a day** — Dominion over our bodies on the east side of Africa, and the Zanj rebellion of 869 was one of the largest slave revolts in history; the Arab trade never stopped.
-
-*[[4:18:29](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=15509s)]* **In The News: African slaves pearl diving off Venezuela and Colombia for the Spanish from the 1500s** — The white man did on the west side what the Arab did on the east.
 
 **[Daniel 1:3-6](/bible/daniel/1#v3)**  *[[4:36:47](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=16607s)]*
 
@@ -1237,6 +1237,8 @@ Reading from Wikipedia, on Thomas Fuller  *[[4:53:43](https://www.youtube.com/wa
     Then wrought Bezaleel and Aholiab and every wise hearted man in whom the Lord put wisdom and understanding; the two led a team whose hearts stirred them up to come unto the work.
 
 
+*[[5:11:35](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=18695s)]* **In The News: A speaker on eugenics born in America to eliminate the tribe of Judah in the African-American community** — When we say Judah is the African-Americans, we know exactly what we are talking about; it is David's seed they are trying to get rid of.
+
 <div class="reading">
 
 Reading from the 1969 hearings of the Subcommittee on Constitutional Rights, on civil rights  *[[5:14:02](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=18842s)]*
@@ -1256,8 +1258,6 @@ Reading from the 1969 hearings of the Subcommittee on Constitutional Rights, on 
 - Telling you superiority. They know that Judah is the essential worker of liberation for the black people globally. That's why they said, we got to destroy Judah among the African-American community. We're going to use education. We're going to revise those Bibles. Contraceptions, autism. We're going to use all we can to destroy these Negroes.
 
 </div>
-
-*[[5:11:35](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=18695s)]* **In The News: A speaker on eugenics born in America to eliminate the tribe of Judah in the African-American community** — When we say Judah is the African-Americans, we know exactly what we are talking about; it is David's seed they are trying to get rid of.
 
 **[Genesis 49:8-12](/bible/genesis/49#v8)**  *[[5:16:03](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=18963s)]*
 

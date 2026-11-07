@@ -62,6 +62,8 @@ tags: ["15 Minutes w/ The Captains", "deceit", "prophecy", "wisdom"]
 - So, brothers and sisters, that is not what was heard. All right. That's not what they heard. Okay. That's what you just hear out of that is actually called glossolalia. Glossolalia is the actual term for what you hear in Christianity today.
 
 
+*[[8:34](https://www.youtube.com/watch?v=TesftQCyhag&t=514s)]* **In The News: Clip of a church service speaking in tongues ("One more time. I couldn't hear you.")** — So that's not what it was talking about. This is not what they heard. That's what you just hear out of that is actually called glossolalia.
+
 <div class="reading">
 
 Reading from Definition of glossolalia, shown and read on air (source not named)  *[[10:14](https://www.youtube.com/watch?v=TesftQCyhag&t=614s)]*
@@ -76,8 +78,6 @@ Reading from Definition of glossolalia, shown and read on air (source not named)
 
 </div>
 
-
-*[[8:34](https://www.youtube.com/watch?v=TesftQCyhag&t=514s)]* **In The News: Clip of a church service speaking in tongues ("One more time. I couldn't hear you.")** — So that's not what it was talking about. This is not what they heard. That's what you just hear out of that is actually called glossolalia.
 
 **[1 Corinthians 14:1-2](/bible/1-corinthians/14#v1)**  *[[12:20](https://www.youtube.com/watch?v=TesftQCyhag&t=740s)]*
 

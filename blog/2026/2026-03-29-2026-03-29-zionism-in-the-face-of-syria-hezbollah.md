@@ -271,6 +271,8 @@ Reading from *Chosen People from the Caucasus*, p. 232  *[[29:30](https://www.yo
     Solomon sat upon the throne of the kingdom of the Lord over Israel: Israel is the kingdom of heaven.
 
 
+*[[42:44](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=2564s)]* **In The News: A New York rabbi saying not six million, not even three million Jews died in the Holocaust** — From his own mouth, not ours.
+
 <div class="reading">
 
 Reading from a headline on a New York rabbi, on the screen  *[[43:01](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=2581s)]*
@@ -281,8 +283,6 @@ Reading from a headline on a New York rabbi, on the screen  *[[43:01](https://ww
 
 </div>
 
-
-*[[42:44](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=2564s)]* **In The News: A New York rabbi saying not six million, not even three million Jews died in the Holocaust** — From his own mouth, not ours.
 
 **[Psalms 50:16-17](/bible/psalms/50#v16)**  *[[43:35](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=2615s)]*
 
@@ -344,6 +344,8 @@ Reading from Wikipedia, on Kwame Ture  *[[49:42](https://www.youtube.com/watch?v
 </div>
 
 
+*[[50:32](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3032s)]* **In The News: Kwame Ture, Stokely Carmichael, on Zionism** — Zionism is a political philosophy with nothing to do with religion, organised in Basel in 1897 by Theodor Herzl, an atheist who set out to found the state God promised; a satanic, imperialist, racist movement that took the Palestinians' land by terror while America sent billions with millions homeless. He knew in the sixties, and he knew Africa gave Judaism to the world.
+
 <div class="reading">
 
 Reading from *Atlas Geographicus, or a Complete System of Geography, Ancient and Modern, for Africa*, 1714  *[[52:55](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3175s)]*
@@ -392,8 +394,6 @@ Reading from definitions of Zionism, Zionists' use of Judaism, and Judaism and t
 </div>
 
 
-*[[50:32](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3032s)]* **In The News: Kwame Ture, Stokely Carmichael, on Zionism** — Zionism is a political philosophy with nothing to do with religion, organised in Basel in 1897 by Theodor Herzl, an atheist who set out to found the state God promised; a satanic, imperialist, racist movement that took the Palestinians' land by terror while America sent billions with millions homeless. He knew in the sixties, and he knew Africa gave Judaism to the world.
-
 *[[56:48](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3408s)]* **In The News: A 2020 Supreme Court filing on Ashkenazi communities, the Talmud's rules on children, metzitzah b'peh and herpes deaths in New York, and the passage on giving seed to Moloch** — Screenshot it and fact-check it; this is the law the Israelis Trump supports live by.
 
 *[[59:33](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3573s)]* **In The News: Trump saying we have to bring religion back, and that the bullet changed him** — Their god is not the God of the Bible; he supports people who follow the Talmud, which allows pedophilia and the worship of Moloch.
@@ -404,6 +404,8 @@ Reading from definitions of Zionism, Zionists' use of Judaism, and Judaism and t
 
 - The beast out of the earth is America; two horns like a lamb is the bipartisan system of a nation that calls itself Christian; and he speaks as a dragon: we will hunt you down and kill you.
 
+
+*[[1:01:16](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3676s)]* **In The News: The Secretary of War announcing Operation Epic Fury against Iran: forty-seven years, the forty-seventh president, we will hunt you down and kill you** — That is a beast speaking as a dragon: plant your spies and bases in a country, call its retaliation a war on America.
 
 <div class="reading">
 
@@ -419,8 +421,6 @@ Reading from a definition of the number 47, on the screen  *[[1:04:40](https://w
 
 </div>
 
-
-*[[1:01:16](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3676s)]* **In The News: The Secretary of War announcing Operation Epic Fury against Iran: forty-seven years, the forty-seventh president, we will hunt you down and kill you** — That is a beast speaking as a dragon: plant your spies and bases in a country, call its retaliation a war on America.
 
 **[Habakkuk 1:10-11](/bible/habakkuk/1#v10)**  *[[1:04:56](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3896s)]*
 
@@ -521,6 +521,8 @@ Reading from *In the Pillory: The Tale of the Borgia Pope*  *[[1:09:34](https://
 - Go up, O Elam, besiege, O Media: Elam is Iran, Pakistan, India and the Kurds. When God raises Elam and Media against the treacherous dealer all the sighing ceases, and Iran is saying come, we have been waiting all our life.
 
 
+*[[1:21:46](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=4906s)]* **In The News: Iran mocking Trump's five-day pause: no direct talks, no indirect talks, another defeat for the devil** — Iran says the pause is fear of the strait closing and the bases and Gulf energy being hit; and Trump wanted NATO to step in because America cannot spend all her weapons with other enemies watching.
+
 <div class="reading">
 
 Reading from the headline of a news video on Iran  *[[1:22:16](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=4936s)]*
@@ -529,8 +531,6 @@ Reading from the headline of a news video on Iran  *[[1:22:16](https://www.youtu
 
 </div>
 
-
-*[[1:21:46](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=4906s)]* **In The News: Iran mocking Trump's five-day pause: no direct talks, no indirect talks, another defeat for the devil** — Iran says the pause is fear of the strait closing and the bases and Gulf energy being hit; and Trump wanted NATO to step in because America cannot spend all her weapons with other enemies watching.
 
 **[Proverbs 4:14-17](/bible/proverbs/4#v14)**  *[[1:25:23](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=5123s)]*
 

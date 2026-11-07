@@ -214,6 +214,8 @@ Reading from the definition of *profane*, then its meaning in the Bible, pulled 
     Shall I count them pure with the wicked balances and the bag of deceitful weights? The rich men thereof are full of violence, and the inhabitants have spoken lies. The descendants justify their ancestors' evil because they benefit from it.
 
 
+*[[38:54](https://www.youtube.com/watch?v=QNTH14obhzs&t=2334s)]* **In The News: A painting of a Black Mary and a Black infant Christ set beside the adult white Jesus.** — The baby grows up and somehow becomes a white man, and nobody sees anything wrong with it. That is the wicked covering the faces of the judges.
+
 <div class="reading">
 
 Reading from the 50 Cent *Get Rich or Die Trying* cover  *[[42:08](https://www.youtube.com/watch?v=QNTH14obhzs&t=2528s)]*
@@ -233,6 +235,8 @@ Reading from an on-screen list of the ten richest men in the world · read by Ca
 - So those are the top 10 billionaires in the world. And people see this and they get envious. I'm talking about our people. We see this and we get envious.
 
 </div>
+
+*[[44:37](https://www.youtube.com/watch?v=QNTH14obhzs&t=2677s)]* **In The News: A collage of Black men, women and children killed by police and vigilantes.** — Violence covers him as a garment. Christians could care less about these people; we talk about them.
 
 <div class="reading">
 
@@ -273,10 +277,6 @@ Reading from an on-screen report on US bombing in 2016  *[[50:10](https://www.yo
 - They should be a hate group. So this goes into them speaking loftily.
 
 </div>
-
-*[[38:54](https://www.youtube.com/watch?v=QNTH14obhzs&t=2334s)]* **In The News: A painting of a Black Mary and a Black infant Christ set beside the adult white Jesus.** — The baby grows up and somehow becomes a white man, and nobody sees anything wrong with it. That is the wicked covering the faces of the judges.
-
-*[[44:37](https://www.youtube.com/watch?v=QNTH14obhzs&t=2677s)]* **In The News: A collage of Black men, women and children killed by police and vigilantes.** — Violence covers him as a garment. Christians could care less about these people; we talk about them.
 
 *[[51:53](https://www.youtube.com/watch?v=QNTH14obhzs&t=3113s)]* **In The News: A young white commentator asks why anyone celebrates Martin Luther King Day, citing FBI files alleging affairs, orgies and King laughing while a pastor assaulted a woman.** — This is how they speak loftily concerning oppression. Decades after his death they open FBI files, which of course never lie, to besmirch the man Black people look up to, and Black Christians join the song and dance.
 

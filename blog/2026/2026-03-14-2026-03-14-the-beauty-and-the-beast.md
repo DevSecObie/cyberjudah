@@ -21,6 +21,8 @@ tags: ["IUIC in the ClassRoom", "bitterness", "discipline", "europe-dark-ages", 
 
 ## Scriptures Opened
 
+*[[6:45](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=405s)]* **In The News: The thumbnail animation: this is the vision, the beast with ten horns and seven heads; keep walking, redemption is nigh.** — Shout out to the thumbnail team.
+
 <div class="reading">
 
 Reading from a news report on Iran's new supreme leader, on the screen  *[[8:21](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=501s)]*
@@ -52,8 +54,6 @@ Reading from a news report on Iran's new supreme leader, on the screen  *[[8:21]
 - Don't listen for 1 second to these liars. It's like it says in Psalms 58 and 3, they come out of the womb lying. That's all they do. We all understand what type of tech that America has. So does the Bible. The Bible prophesied of this thing.
 
 </div>
-
-*[[6:45](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=405s)]* **In The News: The thumbnail animation: this is the vision, the beast with ten horns and seven heads; keep walking, redemption is nigh.** — Shout out to the thumbnail team.
 
 **[Revelation 13:1-6](/bible/revelation/13#v1)**  *[[15:46](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=946s)]*
 
@@ -153,6 +153,8 @@ Reading from a news report on Iran's new supreme leader, on the screen  *[[8:21]
     The Lord is not slack concerning his promise but longsuffering, not willing that any should perish but that all come to repentance; still the day of the Lord will come as a thief, the heavens pass away with a great noise, and the elements melt with fervent heat, nuclear fire. Seeing all these things shall be dissolved, what manner of persons ought ye to be? Popcorn is not a sin, but if watching is all you do without applying, now is the time to work like never before.
 
 
+*[[25:42](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=1542s)]* **In The News: A short history of NATO and the Warsaw Pact: twelve nations signed the North Atlantic Treaty in Washington in 1949 with Article 5 making an attack on one an attack on all, Greece, Turkey, and West Germany joined, the Soviets answered with the Warsaw Pact in 1955, and the pact dissolved in 1991.** — Revelation 17:12-13: ten kings receiving power one hour with the beast, of one mind, giving their strength to it. The Bible is prophetic and comes to life over time.
+
 <div class="reading">
 
 Reading from a news video on Europe negotiating with Iran over the Strait of Hormuz, on the screen  *[[30:00](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=1800s)]*
@@ -207,6 +209,8 @@ Reading from a news video on the Iran war dividing NATO, on the screen  *[[32:30
 
 </div>
 
+*[[36:56](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=2216s)]* **In The News: A Greek clip.**
+
 <div class="reading">
 
 Reading from a Reuters article on Spain and Israel, on the screen  *[[37:37](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=2257s)]*
@@ -220,10 +224,6 @@ Reading from a Reuters article on Spain and Israel, on the screen  *[[37:37](htt
 - So you see Spain is also, so you got with Greece, Spain, Germany, like all of Europe, yeah, Italy, France, in negotiations with Iran in regards to the oil.
 
 </div>
-
-*[[25:42](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=1542s)]* **In The News: A short history of NATO and the Warsaw Pact: twelve nations signed the North Atlantic Treaty in Washington in 1949 with Article 5 making an attack on one an attack on all, Greece, Turkey, and West Germany joined, the Soviets answered with the Warsaw Pact in 1955, and the pact dissolved in 1991.** — Revelation 17:12-13: ten kings receiving power one hour with the beast, of one mind, giving their strength to it. The Bible is prophetic and comes to life over time.
-
-*[[36:56](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=2216s)]* **In The News: A Greek clip.**
 
 *[[46:24](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=2784s)]* **In The News: Netanyahu announcing the offensive on Iran two days before Purim, invoking Persia rising against the Jews 2,500 years ago, and the next day calling Tehran Amalek.** — Purim is Esther and Mordecai against Haman the Amalekite, Esau Edom, who wanted to eradicate all of us; Esther, married to the Persian king, moved his heart to kill Haman. Now the man pretending to be us calls the Persians Amalek. If the Persians are Amalek, who are the Persians? Netanyahu and his crew are the Amalekites.
 
@@ -494,6 +494,8 @@ Reading from a definition of purge, on the screen  *[[1:25:02](https://www.youtu
     So shall righteousness hate iniquity when she decketh herself, and shall accuse her to her face; the Lord defends him that diligently searcheth out every sin. Discipline your mind to hate iniquity. Wisdom of Solomon 5:13-15: the hope of the ungodly is dust blown away and the remembrance of a guest that tarrieth but a day, but the righteous live for evermore and their reward is with the Lord. Do the homework and you live forever while the instant feelings pass.
 
 
+*[[1:53:55](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=6835s)]* **In The News: A sitcom scene of a man starting a fight over chicken for dinner so he can storm out to get some duck.** — Sirach 32:17, the sinful man finds an excuse according to his will. Bishop's coworker started fights with one woman to go see the other. You blame everybody else when really you want to go to your pleasure and your lust.
+
 <div class="reading">
 
 Reading from the Bishop's graphic, on the screen  *[[1:55:34](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=6934s)]*
@@ -503,8 +505,6 @@ Reading from the Bishop's graphic, on the screen  *[[1:55:34](https://www.youtub
 - You see that thing right there? That's very very dangerous.
 
 </div>
-
-*[[1:53:55](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=6835s)]* **In The News: A sitcom scene of a man starting a fight over chicken for dinner so he can storm out to get some duck.** — Sirach 32:17, the sinful man finds an excuse according to his will. Bishop's coworker started fights with one woman to go see the other. You blame everybody else when really you want to go to your pleasure and your lust.
 
 *[[1:58:19](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=7099s)]* **In The News: A psychiatrist explains why a child with ADHD can play video games for hours but not do homework: the game gives continuous immediate consequences and the homework's consequences are delayed; put such a person where there are no consequences and failure is guaranteed because he cannot self-motivate.** — Keeping the commandments has delayed gratification, the kingdom, while sin gives instant dopamine, so a deceived man stops seeing any reason to keep the law. In this truth you must self-motivate; nobody is coming to give you a pep talk. Wisdom raineth down skill.
 

@@ -90,6 +90,8 @@ Reading from A definition of a social media influencer, put on the screen  *[[17
 </div>
 
 
+*[[21:19](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=1279s)]* **In The News: A video on who Kai Cenat is: the AMP collective, jumping in the pool, 24-hour sub-a-thons with celebrities, a 30-day stream** — He's the class clown, the life of the party, and he opened the door for a new generation who will aspire to have his life: fun, money and no cares, not to be doctors or lawyers.
+
 <div class="reading">
 
 Reading from A video on Kai Cenat's rise  *[[28:24](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=1704s)]*
@@ -100,8 +102,6 @@ Reading from A video on Kai Cenat's rise  *[[28:24](https://www.youtube.com/watc
 
 </div>
 
-
-*[[21:19](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=1279s)]* **In The News: A video on who Kai Cenat is: the AMP collective, jumping in the pool, 24-hour sub-a-thons with celebrities, a 30-day stream** — He's the class clown, the life of the party, and he opened the door for a new generation who will aspire to have his life: fun, money and no cares, not to be doctors or lawyers.
 
 **[Luke 7:31-32](/bible/luke/7#v31)**  *[[29:54](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=1794s)]*
 
@@ -136,6 +136,8 @@ Reading from A video on Kai Cenat's rise  *[[28:24](https://www.youtube.com/watc
 - That's why he's the top streamer in the world, leading the new generation. On the carnal side he's entertaining, but from a biblical standpoint he's a young clown, not fit to lead our up-and-coming generation, yet he is. That's folly set in great dignity.
 
 
+*[[34:35](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=2075s)]* **In The News: TikTok clips of young influencers saying they're famous for social media** — To hell with college: this is the new wave.
+
 <div class="reading">
 
 Reading from A video on TikTok  *[[35:43](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=2143s)]*
@@ -146,8 +148,6 @@ Reading from A video on TikTok  *[[35:43](https://www.youtube.com/watch?v=tNrmPZ
 
 </div>
 
-
-*[[34:35](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=2075s)]* **In The News: TikTok clips of young influencers saying they're famous for social media** — To hell with college: this is the new wave.
 
 *[[39:34](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=2374s)]* **In The News: CBS: a father asks his 11-year-old daughter about her TikTok use** — She said more than eight hours a day: about 480 TikToks a day. That is worse than any drug; crackheads don't make 480 transactions a day. And when the next one isn't entertaining, it takes your joy.
 

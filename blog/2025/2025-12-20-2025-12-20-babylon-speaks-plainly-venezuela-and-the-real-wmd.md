@@ -72,6 +72,8 @@ Reading from an AI summary on whether Larry Ellison is a Zionist  *[[19:16](http
     To Israel pertain the adoption, the glory, the covenants and the promises.
 
 
+*[[26:56](https://www.youtube.com/watch?v=ExR7Cd5rqyQ&t=1616s)]* **In The News: A senator saying, after a classified briefing, that the strikes on boats off Venezuela have no legal justification and most of the cocaine does not go to the United States.** — The drug war is a pretext, like the weapons claim before Iraq.
+
 <div class="reading">
 
 Reading from a news article on the fentanyl order  *[[30:47](https://www.youtube.com/watch?v=ExR7Cd5rqyQ&t=1847s)]*
@@ -81,8 +83,6 @@ Reading from a news article on the fentanyl order  *[[30:47](https://www.youtube
 - So, I'm not going to read the whole thing. I just wanted the headline so you can see what's going on here.
 
 </div>
-
-*[[26:56](https://www.youtube.com/watch?v=ExR7Cd5rqyQ&t=1616s)]* **In The News: A senator saying, after a classified briefing, that the strikes on boats off Venezuela have no legal justification and most of the cocaine does not go to the United States.** — The drug war is a pretext, like the weapons claim before Iraq.
 
 **[Habakkuk 2:1](/bible/habakkuk/2#v1)**  *[[31:18](https://www.youtube.com/watch?v=ExR7Cd5rqyQ&t=1878s)]*
 
@@ -94,6 +94,8 @@ Reading from a news article on the fentanyl order  *[[30:47](https://www.youtube
 
 - He enlarges his desire as hell, cannot be satisfied, and gathers all nations to himself.
 
+
+*[[36:11](https://www.youtube.com/watch?v=ExR7Cd5rqyQ&t=2171s)]* **In The News: The president signing an order classifying fentanyl as a weapon of mass destruction.** — A new label opens the door to preemptive war.
 
 <div class="reading">
 
@@ -114,8 +116,6 @@ Reading from a post by Donald J. Trump on Venezuela  *[[39:10](https://www.youtu
 - He says that they need to return all of the oil, land, and other assets that they previously stole.
 
 </div>
-
-*[[36:11](https://www.youtube.com/watch?v=ExR7Cd5rqyQ&t=2171s)]* **In The News: The president signing an order classifying fentanyl as a weapon of mass destruction.** — A new label opens the door to preemptive war.
 
 **[Obadiah 1:5](/bible/obadiah/1#v5)**  *[[40:24](https://www.youtube.com/watch?v=ExR7Cd5rqyQ&t=2424s)]*
 

@@ -69,5 +69,36 @@ class ClassOrder(unittest.TestCase):
         self.assertNotIn("## In The News", class_order.reorder(note))
 
 
+    def test_times_a_reading_by_its_own_moment(self):
+        # A clip played before an article read on screen goes before the article, though the
+        # article follows a scripture opened earlier still.
+        note = f"""---
+title: "A CLASS"
+---
+
+## Scriptures Opened
+
+**[Genesis 1:1](/bible/genesis/1#v1)**  *[[2:00]({V}120s)]*
+
+- A point.
+
+<div class="reading">
+
+Reading from An article  *[[9:00]({V}540s)]*
+
+> What it said.
+
+</div>
+
+*[[5:00]({V}300s)]* **In The News: A clip** — its point.
+
+---
+
+[Class Notes Index](/classes)
+"""
+        out = class_order.reorder(note)
+        order = [out.index(x) for x in ("Genesis 1:1]", "In The News: A clip", "Reading from An article")]
+        self.assertEqual(order, sorted(order))
+
 if __name__ == "__main__":
     unittest.main()
