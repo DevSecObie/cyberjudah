@@ -162,6 +162,15 @@ Reading from *The Cambridge History of Judaism: The Early Modern World, 1500-181
 
 </div>
 
+**[Numbers 31:15-16](/bible/numbers/31#v15)**  *[[46:21](https://www.youtube.com/watch?v=AEtwteuLiy4&t=2781s)]*
+
+> <sup>[15](/bible/numbers/31#v15)</sup> And Moses said unto them, Have ye saved all the women alive?
+>
+> <sup>[16](/bible/numbers/31#v16)</sup> Behold, these caused the children of Israel, through the counsel of Balaam, to commit trespass against the Lord in the matter of Peor, and there was a plague among the congregation of the Lord.
+
+- In case you don't understand the history: this witch Balaam said, God will not allow me to curse the twelve tribes, I cannot curse them, but I do have a plan. If you can convince the women of Moab to get amongst these Israelite men, those women can cause those men to worship their gods; then you have a chance to defeat them. That's what happened. This is why Moses said, have ye saved all the women alive? These are the women that got us to sin.
+- So y'all be happy with Jamie Foxx. You see all these black actors getting a non-black or some kind of exotic; racially ambiguous, you don't know what they are. But when they open their mouth, they are certain they ain't black. Watch out for them people. They will do you dirty. So marriage is political; I don't care what nobody say. It determines where your allegiance is to.
+
 <div class="reading">
 
 Reading from posts shown on screen, on celebrities  *[[46:48](https://www.youtube.com/watch?v=AEtwteuLiy4&t=2808s)]*
@@ -177,15 +186,6 @@ Reading from posts shown on screen, on celebrities  *[[46:48](https://www.youtub
 - You know, there's an expression, well, I like to say it: marriage is political, and it generally reveals who your allegiance is to.
 
 </div>
-
-**[Numbers 31:15-16](/bible/numbers/31#v15)**  *[[46:21](https://www.youtube.com/watch?v=AEtwteuLiy4&t=2781s)]*
-
-> <sup>[15](/bible/numbers/31#v15)</sup> And Moses said unto them, Have ye saved all the women alive?
->
-> <sup>[16](/bible/numbers/31#v16)</sup> Behold, these caused the children of Israel, through the counsel of Balaam, to commit trespass against the Lord in the matter of Peor, and there was a plague among the congregation of the Lord.
-
-- In case you don't understand the history: this witch Balaam said, God will not allow me to curse the twelve tribes, I cannot curse them, but I do have a plan. If you can convince the women of Moab to get amongst these Israelite men, those women can cause those men to worship their gods; then you have a chance to defeat them. That's what happened. This is why Moses said, have ye saved all the women alive? These are the women that got us to sin.
-- So y'all be happy with Jamie Foxx. You see all these black actors getting a non-black or some kind of exotic; racially ambiguous, you don't know what they are. But when they open their mouth, they are certain they ain't black. Watch out for them people. They will do you dirty. So marriage is political; I don't care what nobody say. It determines where your allegiance is to.
 
 <div class="reading">
 
@@ -354,6 +354,17 @@ Reading from a definition of hireling  *[[54:33](https://www.youtube.com/watch?v
 
 > <sup>[15](/bible/jeremiah/23#v15)</sup> Therefore thus saith the Lord of hosts concerning the prophets; Behold, I will feed them with wormwood, and make them drink the water of gall: for from the prophets of Jerusalem is profaneness gone forth into all the land.
 
+**[Matthew 19:16-17](/bible/matthew/19#v16)**  *[[1:07:35](https://www.youtube.com/watch?v=AEtwteuLiy4&t=4055s)]*
+
+> <sup>[16](/bible/matthew/19#v16)</sup> And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life?
+>
+> <sup>[17](/bible/matthew/19#v17)</sup> And he said unto him, Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments.
+
+- From the sit down: the pastors said he was born in the sin, and kept saying not through the law, not through the law. Captain: "That's what I'm saying. We could do this all day, but I'm worried about saving the souls of my people. We should be asking this question: how do we get eternal life?"
+- And behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life? Christ saying, why are you calling me good? There is none good but one, that is, God.
+- But if thou wilt enter into life, keep the commandments. That's what we should be discussing.
+- You could tell that they purposely try to get away from the point. They go to other words in the sentence, knowing damn well where the main point is. Them was some evil demons, man. The Most High going to tear they behind up when the time come.
+
 <div class="reading">
 
 Reading from a headline on a pastor  *[[1:09:13](https://www.youtube.com/watch?v=AEtwteuLiy4&t=4153s)]*
@@ -367,17 +378,6 @@ Reading from a headline on a pastor  *[[1:09:13](https://www.youtube.com/watch?v
 - Video played. From the clip: "You came from West Coast Canada. You drove 7 days to get here. You moved here to join this church. We sold everything. Two girls and two dogs. I want you to stay when this is over. We're going to give out two checks today: $50,000 for you." And the people shouting, "Don't block my blessing." Anybody ever see that movie called Leap of Faith? You know how they have people planted in the audience? How dumb and stupid can people be? This is an insult to anybody's intelligence. Where's that in the scriptures, when you drive to the church and they handing you out money? Did not Peter say, silver and gold have I none? And they don't do that for black people, by the way. We'll say, hey, we drove from Jamaica; all right, sit right over there. You ain't giving us no $50,000.
 - That none doth return from his wickedness. They are all of them unto me as Sodom, and the inhabitants thereof as Gomorrah. Videos played: a pastor saying, "I'm always inspired by my husband. We celebrated 20 years this year, and we got married at a time where we could not legally get married, and we stood on the shores of Hilton Head, South Carolina, and we tied the knot. Select you a good man and hang in there." And the Atlanta church clip: what is this filth? That was a … in a dress. These black churches got to go. Bishop: remember the white man said the black church need to be broken down.
 - Therefore thus saith the Lord of hosts concerning the prophets: behold, I will feed them with wormwood, destruction, death, and make them drink the water of gall: poison. For from the prophets of Jerusalem is profaneness gone forth into all the land. It's talking about our people.
-
-**[Matthew 19:16-17](/bible/matthew/19#v16)**  *[[1:07:35](https://www.youtube.com/watch?v=AEtwteuLiy4&t=4055s)]*
-
-> <sup>[16](/bible/matthew/19#v16)</sup> And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life?
->
-> <sup>[17](/bible/matthew/19#v17)</sup> And he said unto him, Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments.
-
-- From the sit down: the pastors said he was born in the sin, and kept saying not through the law, not through the law. Captain: "That's what I'm saying. We could do this all day, but I'm worried about saving the souls of my people. We should be asking this question: how do we get eternal life?"
-- And behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life? Christ saying, why are you calling me good? There is none good but one, that is, God.
-- But if thou wilt enter into life, keep the commandments. That's what we should be discussing.
-- You could tell that they purposely try to get away from the point. They go to other words in the sentence, knowing damn well where the main point is. Them was some evil demons, man. The Most High going to tear they behind up when the time come.
 
 **[Jeremiah 23:16-20](/bible/jeremiah/23#v16)**  *[[1:16:26](https://www.youtube.com/watch?v=AEtwteuLiy4&t=4586s)]*
 
@@ -406,6 +406,40 @@ Reading from a headline on a pastor  *[[1:09:13](https://www.youtube.com/watch?v
 - Sometime you think it's only the men they going after. Oh no, they getting the black woman too. So all you independent women, you just get ready. I love everybody, I don't see color; well, guess what? Color sees you.
 
 > <sup>[20](/bible/jeremiah/23#v20)</sup> The anger of the Lord shall not return, until he have executed, and till he have performed the thoughts of his heart: in the latter days ye shall consider it perfectly.
+
+**[Jeremiah 23:21-32](/bible/jeremiah/23#v21)**  *[[1:25:02](https://www.youtube.com/watch?v=AEtwteuLiy4&t=5102s)]*
+
+> <sup>[21](/bible/jeremiah/23#v21)</sup> I have not sent these prophets, yet they ran: I have not spoken to them, yet they prophesied.
+
+- I have not sent these prophets: he didn't send these pastors, these Christian reverends. Yet they ran: I'm going to build a church here. I have not spoken to them: when they say God spoke to me, it's a lie. Yet they prophesied.
+
+- If they had stood in my counsel, stayed in the Bible, and had caused my people to hear my words, then they should have turned them from their evil way. With the word of God you could turn the people from their evil way. That's what the captains was doing on that sit down: let's turn the minds of the people around. You can only transform them with the Bible, the commandments of God.
+
+- And you know that sit down's going to hit millions. Just let it sit there a year. We going to see them people that trusted in Fred Price and them other three stooges; they going to be like, our pastors don't know a damn thing.
+
+- I have heard what the prophets said, that prophesy lies in my name, saying, I have dreamed, I have dreamed. Y'all know where it come from: Martin Luther King. But did it really come from Martin Luther King?
+
+> <sup>[22](/bible/jeremiah/23#v22)</sup> But if they had stood in my counsel, and had caused my people to hear my words, then they should have turned them from their evil way, and from the evil of their doings.
+>
+> <sup>[23](/bible/jeremiah/23#v23)</sup> Am I a God at hand, saith the Lord, and not a God afar off?
+>
+> <sup>[24](/bible/jeremiah/23#v24)</sup> Can any hide himself in secret places that I shall not see him? saith the Lord. Do not I fill heaven and earth? saith the Lord.
+>
+> <sup>[25](/bible/jeremiah/23#v25)</sup> I have heard what the prophets said, that prophesy lies in my name, saying, I have dreamed, I have dreamed.
+>
+> <sup>[26](/bible/jeremiah/23#v26)</sup> How long shall this be in the heart of the prophets that prophesy lies? yea, they are prophets of the deceit of their own heart;
+>
+> <sup>[27](/bible/jeremiah/23#v27)</sup> Which think to cause my people to forget my name by their dreams which they tell every man to his neighbour, as their fathers have forgotten my name for Baal.
+>
+> <sup>[28](/bible/jeremiah/23#v28)</sup> The prophet that hath a dream, let him tell a dream; and he that hath my word, let him speak my word faithfully. What is the chaff to the wheat? saith the Lord.
+>
+> <sup>[29](/bible/jeremiah/23#v29)</sup> Is not my word like as a fire? saith the Lord; and like a hammer that breaketh the rock in pieces?
+>
+> <sup>[30](/bible/jeremiah/23#v30)</sup> Therefore, behold, I am against the prophets, saith the Lord, that steal my words every one from his neighbour.
+>
+> <sup>[31](/bible/jeremiah/23#v31)</sup> Behold, I am against the prophets, saith the Lord, that use their tongues, and say, He saith.
+>
+> <sup>[32](/bible/jeremiah/23#v32)</sup> Behold, I am against them that prophesy false dreams, saith the Lord, and do tell them, and cause my people to err by their lies, and by their lightness; yet I sent them not, nor commanded them: therefore they shall not profit this people at all, saith the Lord.
 
 <div class="reading">
 
@@ -451,40 +485,6 @@ Reading from an image on two found hanging  *[[1:26:24](https://www.youtube.com/
 
     The entrances of the elder world were wide and sure, and brought immortal fruit; the elder world was during the time of Adam. Nevertheless the righteous shall suffer strait things, that's tribulation, and hope for the wide. All Israel is going to go through tribulation: the righteous and the unrighteous. What we are seeing on the news, with death after death after death, is just the beginning. Oh, it's going to escalate. They're not going to go, hey, what God do you serve? No: you're in the image of God, we're going to kill all of you, all you melanated brothers and sisters.
 
-**[Jeremiah 23:21-32](/bible/jeremiah/23#v21)**  *[[1:25:02](https://www.youtube.com/watch?v=AEtwteuLiy4&t=5102s)]*
-
-> <sup>[21](/bible/jeremiah/23#v21)</sup> I have not sent these prophets, yet they ran: I have not spoken to them, yet they prophesied.
-
-- I have not sent these prophets: he didn't send these pastors, these Christian reverends. Yet they ran: I'm going to build a church here. I have not spoken to them: when they say God spoke to me, it's a lie. Yet they prophesied.
-
-- If they had stood in my counsel, stayed in the Bible, and had caused my people to hear my words, then they should have turned them from their evil way. With the word of God you could turn the people from their evil way. That's what the captains was doing on that sit down: let's turn the minds of the people around. You can only transform them with the Bible, the commandments of God.
-
-- And you know that sit down's going to hit millions. Just let it sit there a year. We going to see them people that trusted in Fred Price and them other three stooges; they going to be like, our pastors don't know a damn thing.
-
-- I have heard what the prophets said, that prophesy lies in my name, saying, I have dreamed, I have dreamed. Y'all know where it come from: Martin Luther King. But did it really come from Martin Luther King?
-
-> <sup>[22](/bible/jeremiah/23#v22)</sup> But if they had stood in my counsel, and had caused my people to hear my words, then they should have turned them from their evil way, and from the evil of their doings.
->
-> <sup>[23](/bible/jeremiah/23#v23)</sup> Am I a God at hand, saith the Lord, and not a God afar off?
->
-> <sup>[24](/bible/jeremiah/23#v24)</sup> Can any hide himself in secret places that I shall not see him? saith the Lord. Do not I fill heaven and earth? saith the Lord.
->
-> <sup>[25](/bible/jeremiah/23#v25)</sup> I have heard what the prophets said, that prophesy lies in my name, saying, I have dreamed, I have dreamed.
->
-> <sup>[26](/bible/jeremiah/23#v26)</sup> How long shall this be in the heart of the prophets that prophesy lies? yea, they are prophets of the deceit of their own heart;
->
-> <sup>[27](/bible/jeremiah/23#v27)</sup> Which think to cause my people to forget my name by their dreams which they tell every man to his neighbour, as their fathers have forgotten my name for Baal.
->
-> <sup>[28](/bible/jeremiah/23#v28)</sup> The prophet that hath a dream, let him tell a dream; and he that hath my word, let him speak my word faithfully. What is the chaff to the wheat? saith the Lord.
->
-> <sup>[29](/bible/jeremiah/23#v29)</sup> Is not my word like as a fire? saith the Lord; and like a hammer that breaketh the rock in pieces?
->
-> <sup>[30](/bible/jeremiah/23#v30)</sup> Therefore, behold, I am against the prophets, saith the Lord, that steal my words every one from his neighbour.
->
-> <sup>[31](/bible/jeremiah/23#v31)</sup> Behold, I am against the prophets, saith the Lord, that use their tongues, and say, He saith.
->
-> <sup>[32](/bible/jeremiah/23#v32)</sup> Behold, I am against them that prophesy false dreams, saith the Lord, and do tell them, and cause my people to err by their lies, and by their lightness; yet I sent them not, nor commanded them: therefore they shall not profit this people at all, saith the Lord.
-
 <div class="reading">
 
 Reading from a post on Stanley Levison  *[[1:31:52](https://www.youtube.com/watch?v=AEtwteuLiy4&t=5512s)]*
@@ -501,6 +501,19 @@ Reading from a post on Stanley Levison  *[[1:31:52](https://www.youtube.com/watc
 - Discussion: nine days before Martin Luther King was assassinated, he had a meeting with the American Jewish Congress, the American Jewish Committee, and a number of these liberal Zionist backers that made up his entire entourage. He says to them in their faces, the slum lords in New York are turning people against their very cause. He also had opened up channels to talk to the PLO and recognize Palestinian liberation; Martin Luther King and Yasser Arafat were supposed to meet, and it never happened because he was assassinated. Both him and Malcolm X had their police protection pulled the day they were assassinated. Martin Luther King renounced the war in Vietnam, and all of his backers flipped out; they all stopped giving him money when he spoke against the war. He was completely controlled by US financiers until he wasn't.
 - Photos shown: you see these pictures, oh, white people are supporting you. Those were Zionist backers behind them manipulating everything. Even that dream, I have a dream: that was Amalek that helped write that speech. We shall overcome. Stop being fooled. They didn't love us; they were manipulating everything.
 - Deacon: Dr. King, in his heart he wanted to do right by his people, but that's the only information he had, because Dr. King is not on the level where we are in terms of this truth. Back in those times, you can go outside at any moment and get lynched, get beat on, spit on. The law was against you. So he had to dance with the devil, so to speak. All of the people around him was trying to set him up, and he had to somewhat play with them just to get a little bit of liberty. That's a tight rope that he had to walk. Bishop: no doubt, but the cracker still wrote I Have a Dream.
+
+**[2 Corinthians 6:17](/bible/2-corinthians/6#v17)**  *[[1:37:35](https://www.youtube.com/watch?v=AEtwteuLiy4&t=5855s)]*
+
+> <sup>[17](/bible/2-corinthians/6#v17)</sup> Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you,
+
+- Wherefore come out from among them, and be ye separate, saith the Lord. God is telling us to separate from these nations, these unbelievers. And touch not the unclean thing: don't follow their customs, their religions, their holidays, their politics. And I will receive you: only then will God receive us, and will be a Father unto you, and ye shall be my sons and daughters.
+- What Paul instructed us in Corinthians is not nothing new. Your churches just have never taught you that. They want to integrate; all churches want to integrate. Remember Philip Anthony: this is not a black church. That was so moving? No, you sound like the devil now. He didn't have to dance with the devil.
+
+  Precepts:
+  - **[Nehemiah 9:2](/bible/nehemiah/9#v2)**
+    > <sup>[2](/bible/nehemiah/9#v2)</sup> And the seed of Israel separated themselves from all strangers, and stood and confessed their sins, and the iniquities of their fathers.
+
+    And the seed of Israel separated themselves from all strangers, and stood and confessed their sins. This is where it came from: God instructed the twelve tribes to separate from these other nations, stop following the customs and traditions of these other nations.
 
 <div class="reading">
 
@@ -524,19 +537,6 @@ Reading from a quote on integration, shown on screen  *[[1:39:36](https://www.yo
     > <sup>[8](/bible/numbers/12#v8)</sup> With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the similitude of the Lord shall he behold: wherefore then were ye not afraid to speak against my servant Moses?
 
     If there be a prophet among you, I the Lord will make myself known unto him in a vision, and will speak unto him in a dream. My servant Moses is not so: with him will I speak mouth to mouth, even apparently, and not in dark speeches. The only one the Lord spoke with mouth to mouth was Moses. When you hear black women go, God told me: God tell you nothing. Stop lying. The Lord spoke to me this morning, his voice was so clear: that's a lie. But people be believing this crap. Miriam said God spoke to me too, and she was a prophet; wherefore then were ye not afraid to speak against my servant Moses?
-
-**[2 Corinthians 6:17](/bible/2-corinthians/6#v17)**  *[[1:37:35](https://www.youtube.com/watch?v=AEtwteuLiy4&t=5855s)]*
-
-> <sup>[17](/bible/2-corinthians/6#v17)</sup> Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you,
-
-- Wherefore come out from among them, and be ye separate, saith the Lord. God is telling us to separate from these nations, these unbelievers. And touch not the unclean thing: don't follow their customs, their religions, their holidays, their politics. And I will receive you: only then will God receive us, and will be a Father unto you, and ye shall be my sons and daughters.
-- What Paul instructed us in Corinthians is not nothing new. Your churches just have never taught you that. They want to integrate; all churches want to integrate. Remember Philip Anthony: this is not a black church. That was so moving? No, you sound like the devil now. He didn't have to dance with the devil.
-
-  Precepts:
-  - **[Nehemiah 9:2](/bible/nehemiah/9#v2)**
-    > <sup>[2](/bible/nehemiah/9#v2)</sup> And the seed of Israel separated themselves from all strangers, and stood and confessed their sins, and the iniquities of their fathers.
-
-    And the seed of Israel separated themselves from all strangers, and stood and confessed their sins. This is where it came from: God instructed the twelve tribes to separate from these other nations, stop following the customs and traditions of these other nations.
 
 **[Ezekiel 34:1-6](/bible/ezekiel/34#v1)**  *[[1:41:36](https://www.youtube.com/watch?v=AEtwteuLiy4&t=6096s)]*
 

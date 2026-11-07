@@ -258,6 +258,8 @@ Reading from *The Modern Part of an Universal History, from the Earliest Account
 </div>
 
 
+*[[54:08](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=3248s)]* **In The News: A series of European paintings of Moors in royal dress and armour from the time they ruled Spain.** — The Moors of Spain were Black men in power before the Christian kingdoms drove them out.
+
 <div class="reading">
 
 Reading from a Google search, "When did the Dark Ages end?" · read by Captain Uri  *[[1:02:49](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=3769s)]*
@@ -280,6 +282,8 @@ Reading from a Google search, "When did the Dark Ages end?" · read by Captain U
 
 </div>
 
+
+*[[1:06:16](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=3976s)]* **In The News: A video on Black Pete, followed by a review of the Christian slave trade.** — The trade that began in Iberia was run by men who called themselves Christian.
 
 <div class="reading">
 
@@ -465,10 +469,6 @@ Reading from *The Image of the Black in Western Art* · read by Captain Uri  *[[
 
 </div>
 
-
-*[[54:08](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=3248s)]* **In The News: A series of European paintings of Moors in royal dress and armour from the time they ruled Spain.** — The Moors of Spain were Black men in power before the Christian kingdoms drove them out.
-
-*[[1:06:16](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=3976s)]* **In The News: A video on Black Pete, followed by a review of the Christian slave trade.** — The trade that began in Iberia was run by men who called themselves Christian.
 
 **[Revelation 11:10](/bible/revelation/11#v10)**  *[[1:22:53](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=4973s)]*
 

@@ -245,23 +245,6 @@ tags: ["15 Minutes w/ The Captains", "idolatry", "prophecy", "the-word"]
     So the Lord instilled this in us, right. It was our destiny to become what we are.
 
 
-<div class="reading">
-
-Reading from *Who's Who in the Bible*, p. 199  *[[34:59](https://www.youtube.com/watch?v=VkiBm_JS2c8&t=2099s)]*
-
-> Jeremiah's father Hilkiah
->
-> and the boy was no doubt reared in a devout and quiet home
->
-> at about 18
->
-> he felt the call to follow the vocation of a prophet
-
-- At about what? 18. Right, so what I mean, his birth was around 645 BC, because the word of the Lord came in 627 approximately, right, the 13th year of Josiah's reign. So he was 18 years old. 18 years old. Now think about it.
-
-</div>
-
-
 **[Jeremiah 1:6](/bible/jeremiah/1#v6)**  *[[34:04](https://www.youtube.com/watch?v=VkiBm_JS2c8&t=2044s)]*
 
 > <sup>[6](/bible/jeremiah/1#v6)</sup> Then said I, Ah, Lord God! behold, I cannot speak: for I am a child.
@@ -285,6 +268,23 @@ Reading from *Who's Who in the Bible*, p. 199  *[[34:59](https://www.youtube.com
     > <sup>[45](/bible/susanna/1#v45)</sup> Therefore when she was led to be put to death, the Lord raised up the holy spirit of a young youth, whose name was Daniel:
 
     So the Lord put the spirit on Daniel at age 16.
+
+
+<div class="reading">
+
+Reading from *Who's Who in the Bible*, p. 199  *[[34:59](https://www.youtube.com/watch?v=VkiBm_JS2c8&t=2099s)]*
+
+> Jeremiah's father Hilkiah
+>
+> and the boy was no doubt reared in a devout and quiet home
+>
+> at about 18
+>
+> he felt the call to follow the vocation of a prophet
+
+- At about what? 18. Right, so what I mean, his birth was around 645 BC, because the word of the Lord came in 627 approximately, right, the 13th year of Josiah's reign. So he was 18 years old. 18 years old. Now think about it.
+
+</div>
 
 
 **[Jeremiah 1:7-8](/bible/jeremiah/1#v7)**  *[[37:53](https://www.youtube.com/watch?v=VkiBm_JS2c8&t=2273s)]*

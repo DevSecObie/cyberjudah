@@ -275,6 +275,8 @@ Reading from Definition of unction (read on screen)  *[[22:06](https://www.youtu
 - And speaking vanity: And speaking vanity.
 
 
+*[[54:40](https://www.youtube.com/watch?v=82pXYTvNmkU&t=3280s)]* **In The News: Video of a woman showing an 1856 Smithsonian book ("Smithsonian contributions to knowledge", volume 8) on the Israelitish origin of the Americans and the lost tribes in America** — Hey, real quick. I want you to play that video of that Edomite real quick. The reason why I want this up is just to show you. Okay. This truth started off small, right? All right. And then obviously we have our mighty general, Bishop Nathanyel, who has taught us. But now when you look at this truth, we're everywhere. We're worldwide. And this video right here is just a seal, a sign to show you how far this truth is spread. Don't think for one second that this white girl just figured this out on herself. No, no. It's a result of the teachings that have been going out. But this is just to show you how big this truth is, that it's doing damage to the point where Esau's trying to get ahead of it, but it AIN'T GOING TO WORK. ... And here's how crazy this is, not crazy. We've been saying this. This ain't new. This ain't new knowledge. Y'all hit it now. Now y'all seen our people waking up. So now you trying to get ahead of it and regulate it and still going to try to include yourself. That's what they do. ... So, GIVE THE MOST HIGH ROUND OF APPLAUSE for that thing. So, as you can see, cuz, you know, some black people don't believe it until a white person says it. All right? So, as you can see, this is obviously biblical fact. It's prophetic, but it's historically accurate. It's right there, and they knew the whole time. But you don't want to be around at this time. You understand? You got to think about that. You don't want to be around. You have hatred. You thinking about turning on the brother. You thinking about giving us up at this time. That's crazy.
+
 <div class="reading">
 
 Reading from Definition of avoidance coping (read on screen)  *[[1:02:00](https://www.youtube.com/watch?v=82pXYTvNmkU&t=3720s)]*
@@ -304,8 +306,6 @@ Reading from Graphic on avoidance (read on screen)  *[[1:02:44](https://www.yout
 
 </div>
 
-
-*[[54:40](https://www.youtube.com/watch?v=82pXYTvNmkU&t=3280s)]* **In The News: Video of a woman showing an 1856 Smithsonian book ("Smithsonian contributions to knowledge", volume 8) on the Israelitish origin of the Americans and the lost tribes in America** — Hey, real quick. I want you to play that video of that Edomite real quick. The reason why I want this up is just to show you. Okay. This truth started off small, right? All right. And then obviously we have our mighty general, Bishop Nathanyel, who has taught us. But now when you look at this truth, we're everywhere. We're worldwide. And this video right here is just a seal, a sign to show you how far this truth is spread. Don't think for one second that this white girl just figured this out on herself. No, no. It's a result of the teachings that have been going out. But this is just to show you how big this truth is, that it's doing damage to the point where Esau's trying to get ahead of it, but it AIN'T GOING TO WORK. ... And here's how crazy this is, not crazy. We've been saying this. This ain't new. This ain't new knowledge. Y'all hit it now. Now y'all seen our people waking up. So now you trying to get ahead of it and regulate it and still going to try to include yourself. That's what they do. ... So, GIVE THE MOST HIGH ROUND OF APPLAUSE for that thing. So, as you can see, cuz, you know, some black people don't believe it until a white person says it. All right? So, as you can see, this is obviously biblical fact. It's prophetic, but it's historically accurate. It's right there, and they knew the whole time. But you don't want to be around at this time. You understand? You got to think about that. You don't want to be around. You have hatred. You thinking about turning on the brother. You thinking about giving us up at this time. That's crazy.
 
 **[2 Corinthians 2:11](/bible/2-corinthians/2#v11)**  *[[1:03:30](https://www.youtube.com/watch?v=82pXYTvNmkU&t=3810s)]*
 
@@ -492,6 +492,8 @@ Reading from Graphic on self-isolating (read on screen)  *[[1:10:46](https://www
 - And in thy book all my members were written: See that? In his book all your members were written. He know everything about you. Remember in Matthew talked about he know how many hairs you got.
 
 
+*[[1:24:52](https://www.youtube.com/watch?v=82pXYTvNmkU&t=5092s)]* **In The News: The conflict-avoidance video, rewound: "the monster isn't in them, it's in you," and "that's the kind of grace it's going to require"** — See, he's saying just be honest with yourself. So, for example, it's that toxic defense or coping mechanism, right? I don't want to be hurt, but like he just sprung out, in retrospect, you are hurt already. So why not just try to build or work through or battle through the situation instead of what? Fleeing and running. Right. That was good what he just said. ... Right. So those who be standoffish and want to do the videos about why I left IUIC, it was really you. It was really you at the end of the day.
+
 <div class="reading">
 
 Reading from Definition of learned helplessness (read on screen)  *[[1:27:02](https://www.youtube.com/watch?v=82pXYTvNmkU&t=5222s)]*
@@ -506,8 +508,6 @@ Reading from Definition of learned helplessness (read on screen)  *[[1:27:02](ht
 
 </div>
 
-
-*[[1:24:52](https://www.youtube.com/watch?v=82pXYTvNmkU&t=5092s)]* **In The News: The conflict-avoidance video, rewound: "the monster isn't in them, it's in you," and "that's the kind of grace it's going to require"** — See, he's saying just be honest with yourself. So, for example, it's that toxic defense or coping mechanism, right? I don't want to be hurt, but like he just sprung out, in retrospect, you are hurt already. So why not just try to build or work through or battle through the situation instead of what? Fleeing and running. Right. That was good what he just said. ... Right. So those who be standoffish and want to do the videos about why I left IUIC, it was really you. It was really you at the end of the day.
 
 **[2 Timothy 2:3-5](/bible/2-timothy/2#v3)**  *[[1:27:51](https://www.youtube.com/watch?v=82pXYTvNmkU&t=5271s)]*
 

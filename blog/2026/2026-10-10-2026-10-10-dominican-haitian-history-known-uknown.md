@@ -133,6 +133,8 @@ Reading from *In the Pillory: Tale of the Borgia Pope* by John Bond  *[[18:03](h
     No witchcraft can touch us if we keep God's commandments; it only affects those who believe in it and identify as Haitian or Dominican.
 
 
+*[[24:30](https://www.youtube.com/watch?v=oEsR_0bKJww&t=1470s)]* **In The News: A Dominican voodoo ceremony, and a high priestess explaining 21 Divisions** — 21 Divisions is a branch of voodoo from the Dominican Republic: Simeon practises the same witchcraft Levi is known for.
+
 <div class="reading">
 
 Reading from a book on the Inquisition  *[[40:35](https://www.youtube.com/watch?v=oEsR_0bKJww&t=2435s)]*
@@ -154,6 +156,10 @@ Reading from a book on the Inquisition  *[[40:35](https://www.youtube.com/watch?
 - These are some of the practices that they did. They tore our children in half. They hung our women with the babies on their side, and then they baptized the dead baby. They fed the baby to the dogs. Those are the real dogs of the Lord. Or dogs of Satan, actually. We're not Dominicans. We are the tribe of Simeon from the nation of Israel.
 
 </div>
+
+*[[45:49](https://www.youtube.com/watch?v=oEsR_0bKJww&t=2749s)]* **In The News: A border-town woman carrying a baby goat and declaring that it is a person** — That is what witchcraft does to our people when they are not keeping God's commandments.
+
+*[[53:51](https://www.youtube.com/watch?v=oEsR_0bKJww&t=3231s)]* **In The News: A visitor's video of the La Vega carnival with its devil masks** — Our people practise carnival as their own culture, not knowing it was given to them in slavery.
 
 <div class="reading">
 
@@ -212,12 +218,6 @@ Reading from a definition of carnival  *[[57:46](https://www.youtube.com/watch?v
 - Bacchus. Social reversal: idolatry, fornication, and feasting.
 
 </div>
-
-*[[24:30](https://www.youtube.com/watch?v=oEsR_0bKJww&t=1470s)]* **In The News: A Dominican voodoo ceremony, and a high priestess explaining 21 Divisions** — 21 Divisions is a branch of voodoo from the Dominican Republic: Simeon practises the same witchcraft Levi is known for.
-
-*[[45:49](https://www.youtube.com/watch?v=oEsR_0bKJww&t=2749s)]* **In The News: A border-town woman carrying a baby goat and declaring that it is a person** — That is what witchcraft does to our people when they are not keeping God's commandments.
-
-*[[53:51](https://www.youtube.com/watch?v=oEsR_0bKJww&t=3231s)]* **In The News: A visitor's video of the La Vega carnival with its devil masks** — Our people practise carnival as their own culture, not knowing it was given to them in slavery.
 
 **[2 Maccabees 6:6-9](/bible/2-maccabees/6#v6)**  *[[1:02:28](https://www.youtube.com/watch?v=oEsR_0bKJww&t=3748s)]*
 
@@ -398,6 +398,8 @@ Reading from *A Treatise on Physical Geography*, 1850  *[[1:20:38](https://www.y
 - Napoleon's movie never showed his defeat at the hands of Levi; we need more Toussaint Louvertures and Jean-Jacques Dessalines.
 
 
+*[[1:28:56](https://www.youtube.com/watch?v=oEsR_0bKJww&t=5336s)]* **In The News: Scenes from the Toussaint Louverture miniseries: his imprisonment in France and his army defeating the French** — Esau's movie of Napoleon never showed his defeat at the hands of Levi; our people need that imagery of the mighty works of the tribe of Levi.
+
 <div class="reading">
 
 Reading from the subtitles of the *Toussaint Louverture* miniseries  *[[1:33:52](https://www.youtube.com/watch?v=oEsR_0bKJww&t=5632s)]*
@@ -471,8 +473,6 @@ Reading from Toussaint Louverture's proclamation of 1801  *[[1:39:32](https://ww
 - So he still was believing in the French Republic. That was his downfall.
 
 </div>
-
-*[[1:28:56](https://www.youtube.com/watch?v=oEsR_0bKJww&t=5336s)]* **In The News: Scenes from the Toussaint Louverture miniseries: his imprisonment in France and his army defeating the French** — Esau's movie of Napoleon never showed his defeat at the hands of Levi; our people need that imagery of the mighty works of the tribe of Levi.
 
 **[Sirach 12:10](/bible/sirach/12#v10)**  *[[1:40:34](https://www.youtube.com/watch?v=oEsR_0bKJww&t=6034s)]*
 
@@ -752,6 +752,8 @@ Reading from a text on how Haiti helped abolish slavery  *[[2:08:39](https://www
 
 </div>
 
+*[[2:13:28](https://www.youtube.com/watch?v=oEsR_0bKJww&t=8008s)]* **In The News: A Dominican historian on the names of the island and the Dominican letter asking Haiti for help in the Restoration War** — The whole island was called Haiti; the name Quisqueya was taken up to cut the island in half, and the Dominicans themselves wrote that we all live on the island of Haiti.
+
 <div class="reading">
 
 Reading from *Defectors: The Rise of the Latino Far Right and What It Means for America* by Paola Ramos  *[[2:17:36](https://www.youtube.com/watch?v=oEsR_0bKJww&t=8256s)]*
@@ -848,6 +850,8 @@ Reading from *Black Indians: A Hidden Heritage* by William Loren Katz  *[[2:25:0
 
 </div>
 
+*[[2:27:29](https://www.youtube.com/watch?v=oEsR_0bKJww&t=8849s)]* **In The News: A video comparing ICE shooting a Dominican man in the Bronx with Dominican authorities killing a Haitian man, and a news report on the Bronx shooting** — Black people killing black people: if you are angry about the brother in the Bronx you must be angry about the Levi brothers killed by their own brother, because we are the same people.
+
 <div class="reading">
 
 Reading from an article on neo-Nazis in the Dominican Republic  *[[2:29:57](https://www.youtube.com/watch?v=oEsR_0bKJww&t=8997s)]*
@@ -901,10 +905,6 @@ Reading from an answer from artificial intelligence on what unifies a people  *[
 - That's what's going to put internal differences aside.
 
 </div>
-
-*[[2:13:28](https://www.youtube.com/watch?v=oEsR_0bKJww&t=8008s)]* **In The News: A Dominican historian on the names of the island and the Dominican letter asking Haiti for help in the Restoration War** — The whole island was called Haiti; the name Quisqueya was taken up to cut the island in half, and the Dominicans themselves wrote that we all live on the island of Haiti.
-
-*[[2:27:29](https://www.youtube.com/watch?v=oEsR_0bKJww&t=8849s)]* **In The News: A video comparing ICE shooting a Dominican man in the Bronx with Dominican authorities killing a Haitian man, and a news report on the Bronx shooting** — Black people killing black people: if you are angry about the brother in the Bronx you must be angry about the Levi brothers killed by their own brother, because we are the same people.
 
 **[Job 36:15](/bible/job/36#v15)**  *[[2:36:31](https://www.youtube.com/watch?v=oEsR_0bKJww&t=9391s)]*
 

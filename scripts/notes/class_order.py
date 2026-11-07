@@ -116,6 +116,17 @@ def units(section):
     return lead, out
 
 
+def unit_head(unit):
+    """The line that carries a passage's moment. A reading opens with `<div class="reading">`,
+    which has none; its moment is on the `Reading from ...` line inside it. Timing a reading by
+    the passage before it put the news played before the reading after it."""
+    if unit[0].startswith('<div class="reading">'):
+        for line in unit[1:]:
+            if line.strip():
+                return line
+    return unit[0]
+
+
 def reorder(text):
     m = re.match(r"^(---\n.*?\n---\n)(.*)$", text, re.S)
     if not m:
@@ -151,7 +162,7 @@ def reorder(text):
     timed = []
     last = -1
     for index, unit in enumerate(passages):
-        s = seconds_of(unit[0])
+        s = seconds_of(unit_head(unit))
         if s is not None:
             last = s
         timed.append((last, 0, index, unit))

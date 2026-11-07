@@ -21,6 +21,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "idolatry", "med
 
 ## Scriptures Opened
 
+*[[8:06](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=486s)]* **In The News: Iranian crowds burn a statue of Baal with the American and Israeli flags mounted in front of it, commemorating the February 11, 1979 revolution.** — Baal is the devil. Contrary to Western news, the Iranians know who the devil is on the earth and who his people are, which is why they call America the Great Satan and Israel the Little Satan.
+
 <div class="reading">
 
 Reading from an on-screen entry on Little Satan  *[[12:50](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=770s)]*
@@ -30,6 +32,8 @@ Reading from an on-screen entry on Little Satan  *[[12:50](https://www.youtube.c
 - Is Great Satan. How do they know this? How do they know this? Well, remember they are the ones who are feeling the wrath of the United States of America.
 
 </div>
+
+*[[13:13](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=793s)]* **In The News: Rallies marking 47 years since the Islamic Revolution, weeks after the regime killed thousands of protesters; the president apologizes for government failings and blames America and Europe for inciting the unrest.** — The riots came from economic turmoil the United States caused. Trump threatened to come over if Iran did not get it under control, when America was the one that destabilized it.
 
 <div class="reading">
 
@@ -54,10 +58,6 @@ Reading from a wiki on the Iranian Revolution  *[[16:32](https://www.youtube.com
 - Aka they put up a puppet leader for America's cause. Happened in 1953. So this is why the Iranian revolution in 1979 is so important.
 
 </div>
-
-*[[8:06](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=486s)]* **In The News: Iranian crowds burn a statue of Baal with the American and Israeli flags mounted in front of it, commemorating the February 11, 1979 revolution.** — Baal is the devil. Contrary to Western news, the Iranians know who the devil is on the earth and who his people are, which is why they call America the Great Satan and Israel the Little Satan.
-
-*[[13:13](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=793s)]* **In The News: Rallies marking 47 years since the Islamic Revolution, weeks after the regime killed thousands of protesters; the president apologizes for government failings and blames America and Europe for inciting the unrest.** — The riots came from economic turmoil the United States caused. Trump threatened to come over if Iran did not get it under control, when America was the one that destabilized it.
 
 *[[17:19](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=1039s)]* **In The News: A short on Operation Ajax: the 1953 CIA and MI6 coup that overthrew Prime Minister Mossadegh after he nationalized the Anglo-Persian Oil Company, reinstated the Shah, and handed 40 percent of Iran's oil to US companies.** — Nothing has changed: Trump just took the president of Venezuela and the oil.
 
@@ -84,6 +84,8 @@ Reading from an on-screen entry on the Iran hostage crisis  *[[22:21](https://ww
 
 </div>
 
+*[[23:52](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=1432s)]* **In The News: A trailer for the film Argo, the fake sci-fi movie the CIA used to smuggle six Americans out as Canadian filmmakers.** — Esau is crafty.
+
 <div class="reading">
 
 Reading from an on-screen entry on the Algiers Accords  *[[26:05](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=1565s)]*
@@ -93,8 +95,6 @@ Reading from an on-screen entry on the Algiers Accords  *[[26:05](https://www.yo
 - If I'm not mistaken, that's like the day Reagan took office, if I'm not mistaken. Somebody fact check me. I think that is correct, though. So yeah, we're going through some history.
 
 </div>
-
-*[[23:52](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=1432s)]* **In The News: A trailer for the film Argo, the fake sci-fi movie the CIA used to smuggle six Americans out as Canadian filmmakers.** — Esau is crafty.
 
 *[[26:51](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=1611s)]* **In The News: A giant poster in Revolution Square, Tehran, warning the Trump administration: if you sow the wind, you will reap the whirlwind.** — Isaiah 21 opens with whirlwinds in the south passing through and calls on Media to besiege. The Iranians are speaking the Bible's own words because God made them say it.
 
@@ -359,6 +359,8 @@ Reading from an article, *When did Persia become Iran and why?*  *[[57:12](https
 
 </div>
 
+*[[59:14](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=3554s)]* **In The News: Iranians burn bull-headed statues bearing the Star of David.** — The hexagram is not the Star of David; it is the star of Remphan and Chiun, an occult sign. The man of sin is being revealed, and the nations recognize the synagogue of Satan.
+
 <div class="reading">
 
 Reading from a news video on the Houthis and the burning of Baal idols, read off the screen  *[[59:26](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=3566s)]*
@@ -378,8 +380,6 @@ Reading from a news video on the Houthis and the burning of Baal idols, read off
 - Stop. Keep that up on the screen. That image.
 
 </div>
-
-*[[59:14](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=3554s)]* **In The News: Iranians burn bull-headed statues bearing the Star of David.** — The hexagram is not the Star of David; it is the star of Remphan and Chiun, an occult sign. The man of sin is being revealed, and the nations recognize the synagogue of Satan.
 
 **[Revelation 2:9](/bible/revelation/2#v9)**  *[[1:00:08](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=3608s)]*
 
@@ -408,6 +408,8 @@ Reading from a news video on the Houthis and the burning of Baal idols, read off
 
     Ye have borne the tabernacle of your Moloch and Chiun your images, the star of your god, which ye made to yourselves. It is idolatry. God never gave us that star; Solomon picked it up dabbling in witchcraft.
 
+
+*[[1:03:55](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=3835s)]* **In The News: The 1933 Chicago World's Fair 'Romance of a People' Jewish Day celebration with a bull's-head statue set aflame, and the giant mechanical bull at the 2022 Birmingham Commonwealth Games.** — America and Israel are Baal worshippers in the open. The same bull imagery shows up in the Marvel character Rintrah.
 
 <div class="reading">
 
@@ -440,8 +442,6 @@ Reading from an on-screen article, *The King of Demons*  *[[1:08:21](https://www
 - Right? That's all I want. They've taken on so many different names over the ages.
 
 </div>
-
-*[[1:03:55](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=3835s)]* **In The News: The 1933 Chicago World's Fair 'Romance of a People' Jewish Day celebration with a bull's-head statue set aflame, and the giant mechanical bull at the 2022 Birmingham Commonwealth Games.** — America and Israel are Baal worshippers in the open. The same bull imagery shows up in the Marvel character Rintrah.
 
 **[Judges 2:11-13](/bible/judges/2#v11)**  *[[1:08:43](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=4123s)]*
 
@@ -664,6 +664,8 @@ Reading from *Lost Tribes and Promised Lands*, p. 364  *[[1:28:19](https://www.y
     Art not thou it that remainest of the four beasts, whom I made to reign in my world, that the end of their times might come through them? The fourth beast overcame all with much wicked oppression over the whole compass of the earth.
 
 
+*[[1:39:42](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=5982s)]* **In The News: Trump on Truth Social: no more oil or money going to Cuba, zero; and an earlier clip calling Venezuela and Colombia 'sick neighbors' and pressing Mexico on the cartels.** — It is the same playbook used on Iran. The fourth beast has power over the whole compass of the earth with much wicked oppression.
+
 <div class="reading">
 
 Reading from an on-screen entry on Ashtoreth  *[[1:42:52](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=6172s)]*
@@ -681,8 +683,6 @@ Reading from an on-screen entry on Ephesus  *[[1:43:29](https://www.youtube.com/
 - So we about to read about Diana. We're about to read about good old wicked Diana.
 
 </div>
-
-*[[1:39:42](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=5982s)]* **In The News: Trump on Truth Social: no more oil or money going to Cuba, zero; and an earlier clip calling Venezuela and Colombia 'sick neighbors' and pressing Mexico on the cartels.** — It is the same playbook used on Iran. The fourth beast has power over the whole compass of the earth with much wicked oppression.
 
 **[Acts 19:18-24](/bible/acts/19#v18)**  *[[1:44:08](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=6248s)]*
 

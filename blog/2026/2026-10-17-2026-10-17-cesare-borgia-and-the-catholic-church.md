@@ -379,6 +379,8 @@ Reading from an article posted by Captain Zeph  *[[1:04:57](https://www.youtube.
 
 </div>
 
+*[[1:05:48](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=3948s)]* **In The News: The Columbus lighthouse and statue in the Dominican Republic, with a naked Taino woman crawling up to Christopher Columbus** — **Captain Zeph:** That is how they want us to remember our history, conquered by Columbus; but our history goes further: we were speaking Hebrew and keeping our high holy days on Hispaniola.
+
 <div class="reading">
 
 Reading from *Lost Tribes and Promised Lands*, p. 91  *[[1:10:33](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=4233s)]*
@@ -402,8 +404,6 @@ Reading from *Lost Tribes and Promised Lands*, p. 91  *[[1:10:33](https://www.yo
 - Specifically as an interpreter. Why? Because he wanted to destroy.
 
 </div>
-
-*[[1:05:48](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=3948s)]* **In The News: The Columbus lighthouse and statue in the Dominican Republic, with a naked Taino woman crawling up to Christopher Columbus** — **Captain Zeph:** That is how they want us to remember our history, conquered by Columbus; but our history goes further: we were speaking Hebrew and keeping our high holy days on Hispaniola.
 
 **[Isaiah 5:20](/bible/isaiah/5#v20)**  *[[1:12:06](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=4326s)]*
 
@@ -637,6 +637,12 @@ Reading from a page on Cesare Borgia's life, “How their lives intersected”  
 - The Catholic Church does not teach our people to keep God's commandments; this is why a lot of our brothers are adulterers and fornicators.
 
 
+*[[1:40:03](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6003s)]* **In The News: A news report: local Catholics call on Pope Leo XIV to address clergy sex abuse, with the Archbishop of New Orleans calling it one of the major issues** — Forbidding to marry: the Catholic Church does not teach our people God's commandments, and this is why so many end up in a life of sin.
+
+*[[1:41:46](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6106s)]* **In The News: A news report: an Iowa church covered up a priest's abuse of 50 boys; the Diocese of Sioux City let Father Jerome Coyle live with the Ortiz family in New Mexico** — They always cover it up. **Captain Zeph:** In the background sits an image of Cesare Borgia; they still believe in the white man Jesus while the church molests their children. Why is the Catholic Church not called a hate group?
+
+*[[1:45:55](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6355s)]* **In The News: A still from the movie Spotlight** — When you watch Spotlight, it goes into the Catholic Church and how they cover up sex abuse, the big scandals, and how they pay it out in settlements. An excellent movie.
+
 <div class="reading">
 
 Reading from a report on Catholic sex abuse settlements  *[[1:46:46](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6406s)]*
@@ -648,12 +654,6 @@ Reading from a report on Catholic sex abuse settlements  *[[1:46:46](https://www
 - Think about how many of us been hearing about abuse coming out of a Catholic church. We always been hearing that. Why it don't make it to the ADL, the SPLC? Why the Catholic Church ain't number one? It's getting paid. It's all BS.
 
 </div>
-
-*[[1:40:03](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6003s)]* **In The News: A news report: local Catholics call on Pope Leo XIV to address clergy sex abuse, with the Archbishop of New Orleans calling it one of the major issues** — Forbidding to marry: the Catholic Church does not teach our people God's commandments, and this is why so many end up in a life of sin.
-
-*[[1:41:46](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6106s)]* **In The News: A news report: an Iowa church covered up a priest's abuse of 50 boys; the Diocese of Sioux City let Father Jerome Coyle live with the Ortiz family in New Mexico** — They always cover it up. **Captain Zeph:** In the background sits an image of Cesare Borgia; they still believe in the white man Jesus while the church molests their children. Why is the Catholic Church not called a hate group?
-
-*[[1:45:55](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6355s)]* **In The News: A still from the movie Spotlight** — When you watch Spotlight, it goes into the Catholic Church and how they cover up sex abuse, the big scandals, and how they pay it out in settlements. An excellent movie.
 
 *[[1:47:55](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6475s)]* **In The News: A video of people lining up to shake Pope Leo's hand** — Look how Esau feels about you: everybody happy to shake the white man's hand, and look at his face when they do.
 

@@ -547,6 +547,10 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "edom-esau", "war"]
 - Now do me a favor, pull up colonization. Pull up colonization, we're going to read it again and close it out. Skip the foreign policy. All right, so read that colonialism.
 
 
+*[[51:55](https://www.youtube.com/watch?v=F90z98cfPXU&t=3115s)]* **In The News: Video: the International Monetary Fund (IMF) and the World Bank explained in one minute** — Played for Revelation 6:5-6, the pair of balances: after the war their mind would change, and these institutions were meant to gain dominion.
+
+*[[53:22](https://www.youtube.com/watch?v=F90z98cfPXU&t=3202s)]* **In The News: Video: a sister speaking on how the IMF and the World Bank make African countries jump through hoops with high interest rates** — Played to show it ain't help, it's not help at all.
+
 <div class="reading">
 
 Reading from colonialism (definition shown on screen) · read by Officer James  *[[54:50](https://www.youtube.com/watch?v=F90z98cfPXU&t=3290s)]*
@@ -557,10 +561,6 @@ Reading from colonialism (definition shown on screen) · read by Officer James  
 
 </div>
 
-
-*[[51:55](https://www.youtube.com/watch?v=F90z98cfPXU&t=3115s)]* **In The News: Video: the International Monetary Fund (IMF) and the World Bank explained in one minute** — Played for Revelation 6:5-6, the pair of balances: after the war their mind would change, and these institutions were meant to gain dominion.
-
-*[[53:22](https://www.youtube.com/watch?v=F90z98cfPXU&t=3202s)]* **In The News: Video: a sister speaking on how the IMF and the World Bank make African countries jump through hoops with high interest rates** — Played to show it ain't help, it's not help at all.
 
 **[Revelation 6:5-6](/bible/revelation/6#v5)**  *[[54:50](https://www.youtube.com/watch?v=F90z98cfPXU&t=3290s)]*
 

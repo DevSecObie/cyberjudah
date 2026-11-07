@@ -21,6 +21,8 @@ tags: ["IUIC in the ClassRoom", "europe-dark-ages", "false-religion", "youth"]
 
 ## Scriptures Opened
 
+*[[13:59](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=839s)]* **In The News: A young man in a church service saying he is tired of the church** — How a lot of young people feel. The church is a hustle, and there is no connect left.
+
 <div class="reading">
 
 Reading from a definition of radicalization  *[[15:41](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=941s)]*
@@ -30,8 +32,6 @@ Reading from a definition of radicalization  *[[15:41](https://www.youtube.com/w
 - People use it as a violent term. So now, the part we're pulling out of that is some start to believe or support extreme views. Yes, we do not condone terrorist acts. We're not picking up guns. If anybody knows of a crime being committed, you need to alert the authorities.
 
 </div>
-
-*[[13:59](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=839s)]* **In The News: A young man in a church service saying he is tired of the church** — How a lot of young people feel. The church is a hustle, and there is no connect left.
 
 *[[19:24](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=1164s)]* **In The News: A clip from the 1970s of a young man answering a preacher** — He would die standing rather than on his knees, and it would take young boys like him to win a revolution. It is a plot to keep the young men today passive.
 

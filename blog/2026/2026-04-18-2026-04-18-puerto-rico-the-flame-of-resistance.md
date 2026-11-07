@@ -656,36 +656,6 @@ Reading from a diagram on the Puerto Rican diaspora  *[[1:48:56](https://www.you
 
     So he found additional confirmation in the Bible. The story of Hosea. That's where you read it at, Hosea 1 and 10.
 
-<div class="reading">
-
-Reading from *Lost Tribes and Promised Lands* by Ronald Sanders  *[[1:58:41](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=7121s)]*
-
-> Lost Tribes and Promised Lands by Ronald Sanders.
-
-- This is another historian. This book was written in 1978. The bishops were bringing it out. His elders were bringing it out in the early 90s. This ain't no information. It's nothing new. But guess what? We have to refresh our memories.
-
-> Here then is another milestone in the early history of the noble savage.
-
-- The noble savage. That's what they called the tribe of Ephraim, the northern kingdom.
-
-> Columbus, who gave to the peaceable multitude
-
-- The 10 tribes of the northern kingdom.
-
-> of the islands the name Indios,
-
-- Indios. He called them Indios.
-
-> because he considered their habitation to be the Indies,
-
-- Their habitat to be the Indies. So that's why he called them Indios. But watch this.
-
-> of course. But perhaps also because he thought of them as living in God,
-
-- In God. And that's what it translate to in Spanish. En Dios. So a lot of times we say indios means savages, right? They called us noble savages, but our writer is saying perhaps because he thought of them as living in God. Remember the scriptures called them a peaceable multitude. Columbus was reading the book of Esdras. En Dios. I prefer that better than savages. In God. So, that's another gem right there in the book Lost Tribes and Promised Lands.
-
-</div>
-
 **[2 Esdras 13:39-45](/bible/2-esdras/13#v39)**  *[[1:57:30](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=7050s)]*
 
 > <sup>[39](/bible/2-esdras/13#v39)</sup> And whereas thou sawest that he gathered another peaceable multitude unto him;
@@ -719,6 +689,36 @@ Reading from *Lost Tribes and Promised Lands* by Ronald Sanders  *[[1:58:41](htt
     > <sup>[4](/bible/ezra/1#v4)</sup> And whosoever remaineth in any place where he sojourneth, let the men of his place help him with silver, and with gold, and with goods, and with beasts, beside the freewill offering for the house of God that is in Jerusalem.
 
     The Most High stirred up the spirit of Cyrus king of Persia in 539 BC, that the word of the Lord by the mouth of Jeremiah might be fulfilled. Who is there among you of all his people? His God be with him, and let him go up to Jerusalem and build the house of the Lord God of Israel. Cyrus gave us freedom to go back; the ten tribes instead took counsel to go into a further country.
+
+<div class="reading">
+
+Reading from *Lost Tribes and Promised Lands* by Ronald Sanders  *[[1:58:41](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=7121s)]*
+
+> Lost Tribes and Promised Lands by Ronald Sanders.
+
+- This is another historian. This book was written in 1978. The bishops were bringing it out. His elders were bringing it out in the early 90s. This ain't no information. It's nothing new. But guess what? We have to refresh our memories.
+
+> Here then is another milestone in the early history of the noble savage.
+
+- The noble savage. That's what they called the tribe of Ephraim, the northern kingdom.
+
+> Columbus, who gave to the peaceable multitude
+
+- The 10 tribes of the northern kingdom.
+
+> of the islands the name Indios,
+
+- Indios. He called them Indios.
+
+> because he considered their habitation to be the Indies,
+
+- Their habitat to be the Indies. So that's why he called them Indios. But watch this.
+
+> of course. But perhaps also because he thought of them as living in God,
+
+- In God. And that's what it translate to in Spanish. En Dios. So a lot of times we say indios means savages, right? They called us noble savages, but our writer is saying perhaps because he thought of them as living in God. Remember the scriptures called them a peaceable multitude. Columbus was reading the book of Esdras. En Dios. I prefer that better than savages. In God. So, that's another gem right there in the book Lost Tribes and Promised Lands.
+
+</div>
 
 <div class="reading">
 

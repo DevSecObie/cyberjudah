@@ -347,6 +347,12 @@ Reading from on-screen notes on Nero · read by Captain Uri  *[[46:40](https://w
 
 - Paul said, I stand at Caesar's judgment seat, where I ought to be judged. If I be an offender, or have committed anything worthy of death, I refuse not to die; but if there be none of these things whereof these accuse me, no man may deliver me unto them. I appeal unto Caesar. Festus answered, Hast thou appealed unto Caesar? Unto Caesar shalt thou go. So Paul found it better to be judged by the Romans than by the wicked Israelites, because those Pharisees wanted Paul put to death.
 
+**[Acts 28:30](/bible/acts/28#v30)**  *[[49:30](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2970s)]*
+
+> <sup>[30](/bible/acts/28#v30)</sup> And Paul dwelt two whole years in his own hired house, and received all that came in unto him,
+
+- Paul dwelt two whole years in his own hired house in Rome and received all that came in unto him. This takes place under Nero. Nero burning Rome: they would burn CDs; it was called Nero, and that was the symbol they used, Rome on fire.
+
 <div class="reading">
 
 Reading from on-screen notes on Nero · read by Captain Uri  *[[49:38](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2978s)]*
@@ -354,12 +360,6 @@ Reading from on-screen notes on Nero · read by Captain Uri  *[[49:38](https://w
 > Context. Nero was emperor when Paul was in prison in Rome, Acts chapter 28 verse 30, and is believed to have been reigning.
 
 </div>
-
-**[Acts 28:30](/bible/acts/28#v30)**  *[[49:30](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2970s)]*
-
-> <sup>[30](/bible/acts/28#v30)</sup> And Paul dwelt two whole years in his own hired house, and received all that came in unto him,
-
-- Paul dwelt two whole years in his own hired house in Rome and received all that came in unto him. This takes place under Nero. Nero burning Rome: they would burn CDs; it was called Nero, and that was the symbol they used, Rome on fire.
 
 <div class="reading">
 

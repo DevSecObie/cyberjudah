@@ -86,6 +86,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "christ", "edom-esau", "false
 - As many as would not worship the image should be killed, as under the conquistadors.
 
 
+*[[39:22](https://www.youtube.com/watch?v=e51lFpTuIds&t=2362s)]* **In The News: Leonardo da Vinci's sketches of Caesar Borgia as the Renaissance Jesus.** — America made an image to the beast that had the wound by a sword and did live, and gave it life in films and churches.
+
 <div class="reading">
 
 Reading from *In the Pillory: Tale of the Borgia Pope* · read by Captain Uri  *[[40:15](https://www.youtube.com/watch?v=e51lFpTuIds&t=2415s)]*
@@ -122,8 +124,6 @@ Reading from the Wikipedia article *Head of Christ* · read by Captain Uri  *[[4
 
 </div>
 
-*[[39:22](https://www.youtube.com/watch?v=e51lFpTuIds&t=2362s)]* **In The News: Leonardo da Vinci's sketches of Caesar Borgia as the Renaissance Jesus.** — America made an image to the beast that had the wound by a sword and did live, and gave it life in films and churches.
-
 **[Revelation 13:16](/bible/revelation/13#v16)**  *[[48:29](https://www.youtube.com/watch?v=e51lFpTuIds&t=2909s)]*
 
 > <sup>[16](/bible/revelation/13#v16)</sup> And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads:
@@ -143,6 +143,8 @@ Reading from the Wikipedia article *Head of Christ* · read by Captain Uri  *[[4
     The king wrote that all should be one people and forsake their laws, sacrifice unto idols and profane the Sabbath.
 
 
+*[[50:19](https://www.youtube.com/watch?v=e51lFpTuIds&t=3019s)]* **In The News: Commentators warn that central bank digital currencies would let governments shut off anyone's money.** — No man might buy or sell save he that had the mark. They already cut off those who speak against the synagogue of Satan.
+
 <div class="reading">
 
 Reading from an article, "US sanctions on special reporter Francesca Albanese threatened human rights system: UN experts" · read by Captain Uri  *[[54:00](https://www.youtube.com/watch?v=e51lFpTuIds&t=3240s)]*
@@ -154,8 +156,6 @@ Reading from an article, "US sanctions on special reporter Francesca Albanese th
 - The members of the International Criminal Court, ICC, they put sanctions on all them for speaking against Israel. So you think we ain't in that time? We pushing Revelation 2:9, Revelation 3:9. You don't think one of them is going to go, you know what? Let's shut his bank account down. That'll shut them up.
 
 </div>
-
-*[[50:19](https://www.youtube.com/watch?v=e51lFpTuIds&t=3019s)]* **In The News: Commentators warn that central bank digital currencies would let governments shut off anyone's money.** — No man might buy or sell save he that had the mark. They already cut off those who speak against the synagogue of Satan.
 
 **[Acts 4:18](/bible/acts/4#v18)**  *[[56:38](https://www.youtube.com/watch?v=e51lFpTuIds&t=3398s)]*
 
@@ -504,6 +504,8 @@ Reading from a Google search on the Euphrates River drying up  *[[2:06:48](https
 
 </div>
 
+*[[2:10:20](https://www.youtube.com/watch?v=e51lFpTuIds&t=7820s)]* **In The News: A video on Brazil's order to trade outside the US dollar and SWIFT.** — Venezuela sold oil outside the dollar and was attacked. The kings of the east are preparing, as the Euphrates dries up.
+
 <div class="reading">
 
 Reading from an on-screen explainer on the BRICS Bridge · read by Captain Uri  *[[2:11:01](https://www.youtube.com/watch?v=e51lFpTuIds&t=7861s)]*
@@ -533,8 +535,6 @@ Reading from the title of a video on the BRICS Bridge · read by Captain Uri  *[
 - The news is not telling you what's going on now.
 
 </div>
-
-*[[2:10:20](https://www.youtube.com/watch?v=e51lFpTuIds&t=7820s)]* **In The News: A video on Brazil's order to trade outside the US dollar and SWIFT.** — Venezuela sold oil outside the dollar and was attacked. The kings of the east are preparing, as the Euphrates dries up.
 
 **[Isaiah 47:1](/bible/isaiah/47#v1)**  *[[2:19:09](https://www.youtube.com/watch?v=e51lFpTuIds&t=8349s)]*
 

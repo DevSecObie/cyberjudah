@@ -426,6 +426,20 @@ Reading from *In the Pillory: The Tale of the Borgia Pope, in nine crowded chapt
 - When you read verse 4: take up this proverb against the king of Babylon; that's Babylon the great. Thou shalt not be joined with them in burial: Babylon, Edom shall not be joined with the other nations in burial. Because thou hast destroyed thy land: they allowed 9/11 to happen, they allowed COVID to happen. And slain thy people: they're the ones that slay their own people.
 - See that? The seed of evildoers shall never be renowned.
 
+**[2 Thessalonians 2:8](/bible/2-thessalonians/2#v8)**  *[[1:49:38](https://www.youtube.com/watch?v=ND_RbWngH9I&t=6578s)]*
+
+> <sup>[8](/bible/2-thessalonians/2#v8)</sup> And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:
+
+- And then shall that wicked be revealed. The wicked is not going to be revealed on their own; the prophets must reveal them. People think he's going to be revealed through osmosis, or Professor X is going to use his telepathy and tell everybody on the planet the white man is the devil. That ain't going to happen. There's no Professor X.
+
+  Precepts:
+  - **[Isaiah 13:2-3](/bible/isaiah/13#v2)**
+    > <sup>[2](/bible/isaiah/13#v2)</sup> Lift ye up a banner upon the high mountain, exalt the voice unto them, shake the hand, that they may go into the gates of the nobles.
+    >
+    > <sup>[3](/bible/isaiah/13#v3)</sup> I have commanded my sanctified ones, I have also called my mighty ones for mine anger, even them that rejoice in my highness.
+
+    Lift ye up a banner upon the high mountain: the banner is the Bible. Exalt your voice unto them; shake the hand: reprove them, correct them. That they may go into the gates of the nobles: that they may go to the Edomites; it ain't black people, the nobles is white folks. I have commanded my sanctified ones: that's us. I have also called my mighty ones for mine anger: the mighty ones is the angels.
+
 <div class="reading">
 
 Reading from a definition of renown  *[[1:52:25](https://www.youtube.com/watch?v=ND_RbWngH9I&t=6745s)]*
@@ -451,20 +465,6 @@ Reading from a definition of renown  *[[1:52:25](https://www.youtube.com/watch?v
 - They ain't going to be respected no more. Right now, they are held in such high esteem, especially amongst black women. You got some black men in the church that holds them to high esteem. What's that Brandon Tatum? That dude simple as hell.
 
 </div>
-
-**[2 Thessalonians 2:8](/bible/2-thessalonians/2#v8)**  *[[1:49:38](https://www.youtube.com/watch?v=ND_RbWngH9I&t=6578s)]*
-
-> <sup>[8](/bible/2-thessalonians/2#v8)</sup> And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:
-
-- And then shall that wicked be revealed. The wicked is not going to be revealed on their own; the prophets must reveal them. People think he's going to be revealed through osmosis, or Professor X is going to use his telepathy and tell everybody on the planet the white man is the devil. That ain't going to happen. There's no Professor X.
-
-  Precepts:
-  - **[Isaiah 13:2-3](/bible/isaiah/13#v2)**
-    > <sup>[2](/bible/isaiah/13#v2)</sup> Lift ye up a banner upon the high mountain, exalt the voice unto them, shake the hand, that they may go into the gates of the nobles.
-    >
-    > <sup>[3](/bible/isaiah/13#v3)</sup> I have commanded my sanctified ones, I have also called my mighty ones for mine anger, even them that rejoice in my highness.
-
-    Lift ye up a banner upon the high mountain: the banner is the Bible. Exalt your voice unto them; shake the hand: reprove them, correct them. That they may go into the gates of the nobles: that they may go to the Edomites; it ain't black people, the nobles is white folks. I have commanded my sanctified ones: that's us. I have also called my mighty ones for mine anger: the mighty ones is the angels.
 
 **[Hebrews 10:32-39](/bible/hebrews/10#v32)**  *[[1:53:48](https://www.youtube.com/watch?v=ND_RbWngH9I&t=6828s)]*
 

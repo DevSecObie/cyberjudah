@@ -738,6 +738,12 @@ Reading from the *LA Times*  *[[2:25:20](https://www.youtube.com/watch?v=pZs5reA
 
 - The Bible shows that the oppressed have no comforter, but the oppressors have power.
 
+**[Deuteronomy 28:33](/bible/deuteronomy/28#v33)**  *[[2:27:00](https://www.youtube.com/watch?v=pZs5reAzxi4&t=8820s)]*
+
+> <sup>[33](/bible/deuteronomy/28#v33)</sup> The fruit of thy land, and all thy labours, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed alway:
+
+- The Bible prophesies that the Israelites will be oppressed and crushed by other nations.
+
 <div class="reading">
 
 Reading from a summary on Haiti's mineral resources  *[[2:28:07](https://www.youtube.com/watch?v=pZs5reAzxi4&t=8887s)]*
@@ -830,12 +836,6 @@ Reading from a text on Jean Baptiste Point du Sable  *[[2:42:12](https://www.you
 
 </div>
 
-**[Deuteronomy 28:33](/bible/deuteronomy/28#v33)**  *[[2:27:00](https://www.youtube.com/watch?v=pZs5reAzxi4&t=8820s)]*
-
-> <sup>[33](/bible/deuteronomy/28#v33)</sup> The fruit of thy land, and all thy labours, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed alway:
-
-- The Bible prophesies that the Israelites will be oppressed and crushed by other nations.
-
 **[Jeremiah 50:33](/bible/jeremiah/50#v33)**  *[[2:43:04](https://www.youtube.com/watch?v=pZs5reAzxi4&t=9784s)]*
 
 > <sup>[33](/bible/jeremiah/50#v33)</sup> Thus saith the Lord of hosts; The children of Israel and the children of Judah were oppressed together: and all that took them captives held them fast; they refused to let them go.
@@ -914,6 +914,12 @@ Reading from an article on a Haitian student's suicide  *[[2:58:28](https://www.
 
 </div>
 
+**[Leviticus 19:17](/bible/leviticus/19#v17)**  *[[2:59:15](https://www.youtube.com/watch?v=pZs5reAzxi4&t=10755s)]*
+
+> <sup>[17](/bible/leviticus/19#v17)</sup> Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
+
+- The Bible instructs not to hate your brother in your heart, but to rebuke your neighbor and not suffer sin upon him.
+
 <div class="reading">
 
 Reading from a headline on white South African refugees  *[[2:59:28](https://www.youtube.com/watch?v=pZs5reAzxi4&t=10768s)]*
@@ -925,12 +931,6 @@ Reading from a headline on white South African refugees  *[[2:59:28](https://www
 - So, Esau sticks together. Our people, the children of Jacob, we don't stick together. We must learn to come together as one.
 
 </div>
-
-**[Leviticus 19:17](/bible/leviticus/19#v17)**  *[[2:59:15](https://www.youtube.com/watch?v=pZs5reAzxi4&t=10755s)]*
-
-> <sup>[17](/bible/leviticus/19#v17)</sup> Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
-
-- The Bible instructs not to hate your brother in your heart, but to rebuke your neighbor and not suffer sin upon him.
 
 **[Ephesians 4:3](/bible/ephesians/4#v3)**  *[[3:00:09](https://www.youtube.com/watch?v=pZs5reAzxi4&t=10809s)]*
 

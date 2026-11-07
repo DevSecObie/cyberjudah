@@ -87,6 +87,8 @@ Reading from a post by Max Blumenthal  *[[35:06](https://www.youtube.com/watch?v
 </div>
 
 
+*[[37:46](https://www.youtube.com/watch?v=36emQd9wjts&t=2266s)]* **In The News: A 1993 60 Minutes segment shows a former DEA head saying the CIA and a Venezuelan general moved a ton of cocaine into the United States.** — The pattern is to criminalize a leader with a drug narrative. The only cartel by that name was the CIA's own operation.
+
 <div class="reading">
 
 Reading from an article on the US strikes on Venezuela's air defenses  *[[46:14](https://www.youtube.com/watch?v=36emQd9wjts&t=2774s)]*
@@ -117,6 +119,8 @@ Reading from an article on the US strikes on Venezuela's air defenses  *[[46:14]
 
 </div>
 
+
+*[[51:43](https://www.youtube.com/watch?v=36emQd9wjts&t=3103s)]* **In The News: Trump says the lights of Caracas were turned off by 'a certain expertise.'** — No nation can stand against this power. Only God will bring it down.
 
 <div class="reading">
 
@@ -171,10 +175,6 @@ Reading from two screen grabs on General Dan Caine's nickname  *[[56:33](https:/
 
 </div>
 
-
-*[[37:46](https://www.youtube.com/watch?v=36emQd9wjts&t=2266s)]* **In The News: A 1993 60 Minutes segment shows a former DEA head saying the CIA and a Venezuelan general moved a ton of cocaine into the United States.** — The pattern is to criminalize a leader with a drug narrative. The only cartel by that name was the CIA's own operation.
-
-*[[51:43](https://www.youtube.com/watch?v=36emQd9wjts&t=3103s)]* **In The News: Trump says the lights of Caracas were turned off by 'a certain expertise.'** — No nation can stand against this power. Only God will bring it down.
 
 **[Genesis 4:3](/bible/genesis/4#v3)**  *[[1:00:33](https://www.youtube.com/watch?v=36emQd9wjts&t=3633s)]*
 
@@ -408,6 +408,8 @@ Reading from a report on Venezuela's vice president  *[[2:18:46](https://www.you
 </div>
 
 
+*[[2:28:43](https://www.youtube.com/watch?v=36emQd9wjts&t=8923s)]* **In The News: María Corina Machado promises to move Venezuela's embassy to Jerusalem and later gives Trump her Nobel Peace Prize.** — They know where the power lies. They oppress a man and his heritage, taking identity as well as resources.
+
 <div class="reading">
 
 Reading from a news report on fires in the Argentinian Patagonia  *[[2:37:39](https://www.youtube.com/watch?v=36emQd9wjts&t=9459s)]*
@@ -420,8 +422,6 @@ Reading from a news report on fires in the Argentinian Patagonia  *[[2:37:39](ht
 
 </div>
 
-
-*[[2:28:43](https://www.youtube.com/watch?v=36emQd9wjts&t=8923s)]* **In The News: María Corina Machado promises to move Venezuela's embassy to Jerusalem and later gives Trump her Nobel Peace Prize.** — They know where the power lies. They oppress a man and his heritage, taking identity as well as resources.
 
 *[[2:39:15](https://www.youtube.com/watch?v=36emQd9wjts&t=9555s)]* **In The News: A guest on a political show complains that most of Congress takes money from AIPAC for a country with no resources.** — Those who say they are Jews and are not need America's power to keep up the lie and take the land.
 

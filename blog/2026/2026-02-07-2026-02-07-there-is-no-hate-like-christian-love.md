@@ -215,6 +215,14 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "false-religion", "unity"
     What shall it profit a man, if he shall gain the whole world, and lose his own soul? What do the celebrities give in exchange for their souls? Their bodies, to Amalek.
 
 
+*[[48:34](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=2914s)]* **In The News: Images of Black conservatives at Trump's inauguration, the Diamond and Silk duo, and Kanye West, alongside the AI video Trump posted of the Obamas as monkeys.** — Now we love the people who enslaved us. Kanye knew what these people were, which is why you cannot trust all Black or Hispanic people; they will sell you out.
+
+*[[50:24](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3024s)]* **In The News: A Black Christian asked whether he claims Black people answers that he is a Christian first and that Black is a construct.** — Tell the white man Black is a construct. He put your ancestors in chains and did not do it to his own; it was not a construct then.
+
+*[[51:26](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3086s)]* **In The News: A Black man says he loads his gun every day for Black people, not white or Mexican men; and a comparison of Antoine Daniels berating a Black man to his face while asking a white man's permission to speak.** — We turn up on each other and show teeth and mercy to other races. That is the fruit of Christian love.
+
+*[[53:36](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3216s)]* **In The News: A young woman recalls letting a white boy in high school call her the N-word and 'my little slave baby' while she called him master, only to learn she was a joke among his friends.** — Desperate for validation from the oppressor. Envy thou not the oppressor and choose none of his ways.
+
 <div class="reading">
 
 Reading from a news report on a South Fulton father, on the screen  *[[55:02](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3302s)]*
@@ -228,6 +236,10 @@ Reading from a news report on a South Fulton father, on the screen  *[[55:02](ht
 - The results of being with Esau for 400 years. These are the results of being good black Christians. And there's no law. Laws are done away with.
 
 </div>
+
+*[[56:09](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3369s)]* **In The News: A retired athlete's co-host says that for a hundred million dollars you can have his soul.** — That is a dangerous man, and he only said aloud what most Black celebrities, rappers and singers think. What shall it profit a man to gain the whole world and lose his soul? They give up their bodies to Amalek to receive.
+
+*[[59:31](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3571s)]* **In The News: A woman on Clubhouse says she supports aborting Black male babies because the community's problems come from male pathology.** — Brothers, the women whose minds are captured are not on your team. There are Black women who follow every anti-family, anti-boy slogan of the far left.
 
 <div class="reading">
 
@@ -246,18 +258,6 @@ Reading from a write-up on Dum Diversas, on the screen  *[[1:01:59](https://www.
 - Christians! Christians did this to us, y'all. Now we revel in it. Now we reverence them. Now we follow their laws and their ways of life.
 
 </div>
-
-*[[48:34](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=2914s)]* **In The News: Images of Black conservatives at Trump's inauguration, the Diamond and Silk duo, and Kanye West, alongside the AI video Trump posted of the Obamas as monkeys.** — Now we love the people who enslaved us. Kanye knew what these people were, which is why you cannot trust all Black or Hispanic people; they will sell you out.
-
-*[[50:24](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3024s)]* **In The News: A Black Christian asked whether he claims Black people answers that he is a Christian first and that Black is a construct.** — Tell the white man Black is a construct. He put your ancestors in chains and did not do it to his own; it was not a construct then.
-
-*[[51:26](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3086s)]* **In The News: A Black man says he loads his gun every day for Black people, not white or Mexican men; and a comparison of Antoine Daniels berating a Black man to his face while asking a white man's permission to speak.** — We turn up on each other and show teeth and mercy to other races. That is the fruit of Christian love.
-
-*[[53:36](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3216s)]* **In The News: A young woman recalls letting a white boy in high school call her the N-word and 'my little slave baby' while she called him master, only to learn she was a joke among his friends.** — Desperate for validation from the oppressor. Envy thou not the oppressor and choose none of his ways.
-
-*[[56:09](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3369s)]* **In The News: A retired athlete's co-host says that for a hundred million dollars you can have his soul.** — That is a dangerous man, and he only said aloud what most Black celebrities, rappers and singers think. What shall it profit a man to gain the whole world and lose his soul? They give up their bodies to Amalek to receive.
-
-*[[59:31](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3571s)]* **In The News: A woman on Clubhouse says she supports aborting Black male babies because the community's problems come from male pathology.** — Brothers, the women whose minds are captured are not on your team. There are Black women who follow every anti-family, anti-boy slogan of the far left.
 
 *[[1:05:16](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3916s)]* **In The News: A white minister crowns Eddie Long, declaring him raised from a commoner to kingship while holding the microphone and directing the ceremony.** — Even with the Black pastor on the throne, the white man holds the mic and is in charge. And what does 'no longer a commoner' say about everyone else in that church? Eddie Long later flew boys out of the country.
 

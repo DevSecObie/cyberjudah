@@ -62,6 +62,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "betrayal", "false-religion",
 
 - We wrestle not against flesh and blood, but against principalities, powers, the rulers of the darkness of this world, and spiritual wickedness in high places. Sometimes the carnal mind says if we organize we can overthrow the system; no. The governments on this earth are set up by Satan, and God allows it: Daniel 4:17, the most High ruleth in the kingdom of men and setteth up over it the basest of men.
 
+*[[32:07](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=1927s)]* **In The News: A pyramid of the world's power structure: Satan and the fallen angels, the Rothschilds and Rockefellers and thirteen super-rich families, secret societies, world leaders, the Vatican and policy makers, religious leaders and politicians, Hollywood and the music industry, law enforcement and the IRS, and the common population at the bottom.** — That is the gates of hell of Matthew 16:18 and the spiritual wickedness in high places of Ephesians 6:12. To overthrow the system you would have to go through all of that, and only God can.
+
 <div class="reading">
 
 Reading from an on-screen chart of the world's power structure  *[[33:20](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=2000s)]*
@@ -114,8 +116,6 @@ Reading from an on-screen chart of the world's power structure  *[[33:20](https:
 
     Woe to the bloody city: America spilled the blood of Gad, Reuben, and Issachar to steal this country and built churches, courthouses, and schools on it. Full of lies and robbery; the prey departeth not; the noise of the whip, the rattling wheels, the prancing horses, and the jumping chariots move through time from stagecoaches to helicopters; a multitude of slain and none end of their corpses. Because of the multitude of the whoredoms of the wellfavoured harlot, everybody wants to live in America and kisses the ground, the mistress of witchcrafts, that selleth nations, the two kingdoms of Judah and Ephraim, and families through her witchcrafts.
 
-
-*[[32:07](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=1927s)]* **In The News: A pyramid of the world's power structure: Satan and the fallen angels, the Rothschilds and Rockefellers and thirteen super-rich families, secret societies, world leaders, the Vatican and policy makers, religious leaders and politicians, Hollywood and the music industry, law enforcement and the IRS, and the common population at the bottom.** — That is the gates of hell of Matthew 16:18 and the spiritual wickedness in high places of Ephesians 6:12. To overthrow the system you would have to go through all of that, and only God can.
 
 **[Isaiah 47:1-15](/bible/isaiah/47#v1)**  *[[42:36](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=2556s)]*
 
@@ -177,6 +177,12 @@ Reading from an on-screen chart of the world's power structure  *[[33:20](https:
 - I brought you into a plentiful country, Canaan, but when ye entered ye defiled my land and made mine heritage an abomination. The priests said not, Where is the Lord; they that handle the law knew me not; the pastors also transgressed against me, and the prophets prophesied by Baal, and walked after things that do not profit. It is no different today: Pastor Pam and the pork, and the black church that Du Bois and Booker T. Washington already called unfit, that never challenges white supremacy.
 
 
+*[[54:32](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=3272s)]* **In The News: Pastor Pam saying nothing that goes in you defiles you, bless your food and eat the pork, and a Christian teacher answering that Jesus never called the pig clean and no writer from Genesis to Revelation eats anything unclean.** — The prophets prophesy by Baal, Jeremiah 2:8.
+
+*[[55:26](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=3326s)]* **In The News: A commentator on why black men left the black church: name one major thing it has done for the community in sixty years; we are in on the hustle; no man worth his salt will let you elevate a pastor to God status over him; churches full of 300-pounders working out only for a thirst trap; not one school board or governor fears the black church; you have become modern-day Pharisees.** — Sixty years is 1965 to 2025, and now it is going back to before 1965. In Christianity women put the pastor above their husbands, and sisters here have tried to use us as a whipping stick against their husbands; sit down. The churches breed weak beta males who need to get their manhood back from their wife's pocketbook.
+
+*[[1:03:51](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=3831s)]* **In The News: A black church congregation doing a lewd dance during service.** — Total foolishness. That is why black women fill the churches.
+
 <div class="reading">
 
 Reading from *African Americans: A Concise History*, third edition, read in a video commentary  *[[1:05:07](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=3907s)]*
@@ -194,12 +200,6 @@ Reading from *African Americans: A Concise History*, third edition, read in a vi
 - It's right here in the book. I'm not making it up. It's right here in the book. You all been sold a bill of goods.
 
 </div>
-
-*[[54:32](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=3272s)]* **In The News: Pastor Pam saying nothing that goes in you defiles you, bless your food and eat the pork, and a Christian teacher answering that Jesus never called the pig clean and no writer from Genesis to Revelation eats anything unclean.** — The prophets prophesy by Baal, Jeremiah 2:8.
-
-*[[55:26](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=3326s)]* **In The News: A commentator on why black men left the black church: name one major thing it has done for the community in sixty years; we are in on the hustle; no man worth his salt will let you elevate a pastor to God status over him; churches full of 300-pounders working out only for a thirst trap; not one school board or governor fears the black church; you have become modern-day Pharisees.** — Sixty years is 1965 to 2025, and now it is going back to before 1965. In Christianity women put the pastor above their husbands, and sisters here have tried to use us as a whipping stick against their husbands; sit down. The churches breed weak beta males who need to get their manhood back from their wife's pocketbook.
-
-*[[1:03:51](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=3831s)]* **In The News: A black church congregation doing a lewd dance during service.** — Total foolishness. That is why black women fill the churches.
 
 **[Jeremiah 50:1-20](/bible/jeremiah/50#v1)**  *[[1:07:39](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=4059s)]*
 
@@ -338,6 +338,10 @@ Reading from *African Americans: A Concise History*, third edition, read in a vi
 
 - Hear ye the counsel of the Lord against Babylon and the land of the Chaldeans: surely the least of the flock shall draw them out. The Israelis are that tiny speck among the brown and black nations; they attack Qatar during peace talks, cry for help, and America comes to their rescue, and its military gets destroyed over there, as the destroyers sailed for Iran after Netanyahu's Washington visit. Surely he shall make their habitation desolate with them; at the noise of the taking of Babylon the earth is moved, and the cry is heard among the nations.
 
+*[[1:40:16](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=6016s)]* **In The News: A report on Operation Midnight Hammer: seven B-2 bombers, 125 warplanes, 75 precision weapons, fourteen bunker-busting MOPs dropped on Natanz and Fordow in 25 minutes, with satellite images suggesting Iran moved its enriched uranium and equipment first.** — They named it the Midnight Hammer because their scholars know exactly who they are: the hammer of the whole earth, Jeremiah 50:23. It is the church down here that is clueless.
+
+*[[1:51:35](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=6695s)]* **In The News: A map of American military bases around the world.** — When the country is destroyed, like Olympus Has Fallen, the military is still in full effect from its bases. That is why no chosen man can be appointed over her, and the Lord himself must step in.
+
 <div class="reading">
 
 Reading from an article from *The Guardian*  *[[1:55:39](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=6939s)]*
@@ -384,10 +388,6 @@ Reading from an article from *The Guardian*  *[[1:55:39](https://www.youtube.com
 
     How is Sheshach, another name for Babylon, taken, and the praise of the whole earth surprised! God bless America is the praise of the whole earth. The sea is come up upon Babylon, the nations as waves, Ezekiel 26:3; her cities are a desolation wherein no man dwelleth, yet to come. I will punish Bel, Cesare Borgia, and the nations shall not flow together any more unto him, ending the mix of nations in Daniel 2. My people, go ye out of the midst of her, Revelation 18:4, come out of her Christmas, Easter, Kwanzaa, and Memorial Day, or partake of her plagues. A rumour shall come one year, and in another year violence, ruler against ruler: World War III and Armageddon are the rumour now, Matthew 24:6. Then the heaven and the earth shall sing for Babylon, as the whole earth breaks forth into singing in Isaiah 14:7, for the spoilers from the north, and as Babylon caused the slain of Israel to fall, so at Babylon shall fall the slain of all the earth, Revelation 18:24.
 
-
-*[[1:40:16](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=6016s)]* **In The News: A report on Operation Midnight Hammer: seven B-2 bombers, 125 warplanes, 75 precision weapons, fourteen bunker-busting MOPs dropped on Natanz and Fordow in 25 minutes, with satellite images suggesting Iran moved its enriched uranium and equipment first.** — They named it the Midnight Hammer because their scholars know exactly who they are: the hammer of the whole earth, Jeremiah 50:23. It is the church down here that is clueless.
-
-*[[1:51:35](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=6695s)]* **In The News: A map of American military bases around the world.** — When the country is destroyed, like Olympus Has Fallen, the military is still in full effect from its bases. That is why no chosen man can be appointed over her, and the Lord himself must step in.
 
 *[[1:58:42](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=7122s)]* **In The News: An Israeli official: Turkey is the new Iran; Erdogan seeks to encircle Israel, Turkey and Qatar nourish the Islamic Brotherhood, and Turkey is trying to flip Saudi Arabia and establish a hostile Sunni axis with nuclear Pakistan.** — Turkey is north of Israel. Countries from the north are coming down against these people.
 

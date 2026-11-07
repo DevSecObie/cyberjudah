@@ -138,6 +138,14 @@ Reading from the article *Racism over reality: five times white America chose to
 </div>
 
 
+*[[26:45](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=1605s)]* **In The News: A video on COINTELPRO and the Black Panthers' free medical clinics** — Federal agents posed as medical volunteers in Chicago and Oakland and replaced the medicine with poisoned alternatives; sick children and elderly people took it and the deaths were written down as natural causes. That is how far they will go to destroy us, even when we are minding our own business and serving our own community.
+
+*[[28:34](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=1714s)]* **In The News: A video on Israel buying up answers about the history of Christianity on ChatGPT and other AI systems** — Ninety million dollars to change ancient names to Israel and emphasize Jewish culture in the Bible, because Christian support for Israel in America is declining — and the administration you think loves you signed off on it.
+
+*[[30:22](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=1822s)]* **In The News: A video naming black women killed by white boyfriends and white husbands** — This is what happens when you hate your own people. They were not killed by white cops. When you sleep with the pig you wake up with fleas.
+
+*[[34:25](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=2065s)]* **In The News: A video on black women who leave the black man for the white man** — They leave the weaves, the lashes, the makeup and the loud mouth behind, because they know that man will not take any of it — they have to be the best kind of women to get the lowest white man.
+
 <div class="reading">
 
 Reading from the article *Abortion is killing the black community: this is not health care*  *[[36:08](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=2168s)]*
@@ -154,14 +162,6 @@ Reading from the article *Abortion is killing the black community: this is not h
 
 </div>
 
-
-*[[26:45](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=1605s)]* **In The News: A video on COINTELPRO and the Black Panthers' free medical clinics** — Federal agents posed as medical volunteers in Chicago and Oakland and replaced the medicine with poisoned alternatives; sick children and elderly people took it and the deaths were written down as natural causes. That is how far they will go to destroy us, even when we are minding our own business and serving our own community.
-
-*[[28:34](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=1714s)]* **In The News: A video on Israel buying up answers about the history of Christianity on ChatGPT and other AI systems** — Ninety million dollars to change ancient names to Israel and emphasize Jewish culture in the Bible, because Christian support for Israel in America is declining — and the administration you think loves you signed off on it.
-
-*[[30:22](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=1822s)]* **In The News: A video naming black women killed by white boyfriends and white husbands** — This is what happens when you hate your own people. They were not killed by white cops. When you sleep with the pig you wake up with fleas.
-
-*[[34:25](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=2065s)]* **In The News: A video on black women who leave the black man for the white man** — They leave the weaves, the lashes, the makeup and the loud mouth behind, because they know that man will not take any of it — they have to be the best kind of women to get the lowest white man.
 
 **[Matthew 18:3](/bible/matthew/18#v3)**  *[[39:08](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=2348s)]*
 

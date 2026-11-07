@@ -821,6 +821,10 @@ Reading from a book published in 1920, on the bust of the saviour posed for by C
 > <sup>[33](/bible/deuteronomy/28#v33)</sup> The fruit of thy land, and all thy labours, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed alway:
 
 
+*[[2:19:06](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=8346s)]* **In The News: A news report on Trey Reed, the 21-year-old found hanging from a tree at Delta State on September 15** — The independent examination paid for after the sheriff called it suicide found the back of his head broken in; not one black Christian mourned him.
+
+*[[2:20:56](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=8456s)]* **In The News: An Instagram clip of the FBI director, Kash Patel, saying black people should not mourn Assata Shakur** — Nobody outside our nation tells us who our heroes are or who we mourn.
+
 <div class="reading">
 
 Reading from FBI Director Kash Patel's statement on Assata Shakur  *[[2:21:51](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=8511s)]*
@@ -848,6 +852,10 @@ Reading from a statement of the Cancillería de Cuba  *[[2:22:30](https://www.yo
 > On September 25th, 2025, the U.S. citizen JoAnne Deborah Byron Assata Shakur passed away in Havana, Cuba as a consequence of health ailments and her advanced age.
 
 </div>
+
+*[[2:27:14](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=8834s)]* **In The News: Images and a news conference on Rasheem Carter, the electrician who named the white men who threatened him** — They said an animal opened his skull; only the two-legged animal kills like that, and no Christian said a word about him.
+
+*[[2:32:42](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=9162s)]* **In The News: A report on Donna Mack, turned away from First Baptist of Forrest City in Arkansas because the members had 'had coloreds here before'** — The pastor called it a miscommunication and never denounced his member; the most segregated hour in America is still eleven o'clock on Sunday.
 
 <div class="reading">
 
@@ -905,14 +913,6 @@ Reading from *Encyclopedia of the Jewish Diaspora: Origins, Experiences, and Cul
 
 </div>
 
-
-*[[2:19:06](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=8346s)]* **In The News: A news report on Trey Reed, the 21-year-old found hanging from a tree at Delta State on September 15** — The independent examination paid for after the sheriff called it suicide found the back of his head broken in; not one black Christian mourned him.
-
-*[[2:20:56](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=8456s)]* **In The News: An Instagram clip of the FBI director, Kash Patel, saying black people should not mourn Assata Shakur** — Nobody outside our nation tells us who our heroes are or who we mourn.
-
-*[[2:27:14](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=8834s)]* **In The News: Images and a news conference on Rasheem Carter, the electrician who named the white men who threatened him** — They said an animal opened his skull; only the two-legged animal kills like that, and no Christian said a word about him.
-
-*[[2:32:42](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=9162s)]* **In The News: A report on Donna Mack, turned away from First Baptist of Forrest City in Arkansas because the members had 'had coloreds here before'** — The pastor called it a miscommunication and never denounced his member; the most segregated hour in America is still eleven o'clock on Sunday.
 
 **[Matthew 4:15](/bible/matthew/4#v15)**  *[[2:44:27](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=9867s)]*
 
@@ -1172,6 +1172,8 @@ Reading from *A Treatise on Physical Geography*, published 1850, page 318 · rea
 
 </div>
 
+*[[3:17:44](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=11864s)]* **In The News: Videos on the revival of Hebrew by Eliezer Ben Yehuda, a Russian Ashkenazi linguist whose own language was Yiddish** — The language black Israelites argue over is 150 years old, overlaid with Yiddish, Russian, Polish and German pronunciation, and it was made by the white man.
+
 <div class="reading">
 
 Reading from an on-screen quote of Eliezer Ben Yehuda  *[[3:21:22](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=12082s)]*
@@ -1182,8 +1184,6 @@ Reading from an on-screen quote of Eliezer Ben Yehuda  *[[3:21:22](https://www.y
 
 </div>
 
-
-*[[3:17:44](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=11864s)]* **In The News: Videos on the revival of Hebrew by Eliezer Ben Yehuda, a Russian Ashkenazi linguist whose own language was Yiddish** — The language black Israelites argue over is 150 years old, overlaid with Yiddish, Russian, Polish and German pronunciation, and it was made by the white man.
 
 **[Isaiah 28:11](/bible/isaiah/28#v11)**  *[[3:21:51](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=12111s)]*
 

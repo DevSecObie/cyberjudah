@@ -409,6 +409,10 @@ Reading from Definition of Egypt, out of a dictionary, p. 183 (read on screen)  
 - Or shall the thing framed say of him that framed it, He had no understanding?: So we cannot change how God is going to do things. So we don't have to question what the Lord going to do. The Most High is going to mold us back into the way we need to be. And that's a beautiful thing to behold and a beautiful thing to know.
 
 
+*[[1:28:45](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=5325s)]* **No such thing as racist questions** — We must be extremely mindful that there is no such thing as racist questions. No such thing as racist questions. Now I'm going to show you something. When I say there's no such thing as racist questions, I had a question about something when I was living in New York, y'all. All right. I've been there many years. I used to work downtown. There was an electronic store that I used to work on, on Fifth Avenue. And I used to ride the 7th Avenue line. That's the IRT number two. And when the train got to 96th Street, those who are from New York, you're going to know what I'm talking about. The next stop after 96th Street on the IRT is 110th Street, where it has to go around that sharp turn underground and it comes out on 110th Street. But at the 96th Street train station, whether you on the number one, whether you're on the number two train, whether you're on the four train, you got the other side, too, the four, five, and the six. 96th Street was the street where you just seen a demographic change right there on the train.
+
+*[[1:30:19](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=5419s)]* **When you got to 96th Street** — Who in here is from New York? When you got to 96th Street, you see all the … get off. All the white folks get off. I had a question about that. Y'all all right? I think I was like 20. It was in the '80s. But it never stopped. It never stopped. This is my question. Now I said racist question because there's no such thing as a racist question. This is an honest question. "Oh, you're a racist for asking that question." No, I ain't, because this is what I experienced. Y'all understand what I'm saying? This is me writing this and waiting for an AI response. So, that's what's happening here. This is my writing. This is my question.
+
 <div class="reading">
 
 Reading from His question on the subway at 96th Street, and the answer (read on screen)  *[[1:31:03](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=5463s)]*
@@ -503,6 +507,8 @@ Reading from Why the Metro North train goes underground at 96th Street and Park 
 </div>
 
 
+*[[1:37:54](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=5874s)]* **In The News: A still and a short clip from the movie Léon: The Professional, filmed on 97th Street and Park Avenue** — I wanted to focus on what you see in the scene. The movie was literally filmed on 97th Street and Park Avenue. Zoom in on the rail that you see right there. You notice how steep it goes down? That's what caused me to ask the question.
+
 <div class="reading">
 
 Reading from Residential demographics, north versus south of 96th Street (read on screen)  *[[1:46:03](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=6363s)]*
@@ -531,6 +537,18 @@ Reading from Residential demographics, north versus south of 96th Street (read o
 
 </div>
 
+
+*[[1:53:50](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=6830s)]* We know about certain train stations in relationship to the buildings. So, we know about Tremont Avenue, where that train takes a sharp turn. Y'all ever heard how these trains sound when they're trying to go around a curve? They are loud, because the wheels are scraping up against the... Can you imagine what that sounds like all day and all night long with multiple trains going by all the time?
+
+*[[1:53:58](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=6838s)]* **In The News: Short clips of subway trains screeching around the curve at Tremont Avenue, right by people's homes** — Look how close the trains come to where people live and where they sleep. If you work that night and you trying to come home to get sleep, you ain't get no sleep. Just imagine trying to sleep when you're hearing this. This is all day, all night long.
+
+*[[1:55:42](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=6942s)]* Cuz some people can't escape this. They can't even handle two minutes of it. You get this all the time. Philly, Chicago got the same thing going on.
+
+*[[1:56:30](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=6990s)]* That's the Simpson Street train station. Sharp turn, but notice a shadow of the house is on the train.
+
+*[[1:56:39](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=6999s)]* **In The News: A clip of the train at the Simpson Street station, its sharp turn and the shadow of a house on the train** — So there's people sleeping there. The people's windows is right there. They hearing what we heard earlier all night. Babies can't sleep. Could you imagine? You wonder why people in New York is crazy.
+
+*[[1:57:07](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=7027s)]* You wonder why in the hospital, me and Asaph had to deal with brothers and sisters that be wrecked when they come to the hospital, because of stuff like this here, y'all. So, what's the cost of all this noise? That's the question.
 
 <div class="reading">
 
@@ -680,24 +698,6 @@ Reading from Persistent environmental noise and sleep (read on screen)  *[[2:10:
 
 </div>
 
-
-*[[1:28:45](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=5325s)]* **No such thing as racist questions** — We must be extremely mindful that there is no such thing as racist questions. No such thing as racist questions. Now I'm going to show you something. When I say there's no such thing as racist questions, I had a question about something when I was living in New York, y'all. All right. I've been there many years. I used to work downtown. There was an electronic store that I used to work on, on Fifth Avenue. And I used to ride the 7th Avenue line. That's the IRT number two. And when the train got to 96th Street, those who are from New York, you're going to know what I'm talking about. The next stop after 96th Street on the IRT is 110th Street, where it has to go around that sharp turn underground and it comes out on 110th Street. But at the 96th Street train station, whether you on the number one, whether you're on the number two train, whether you're on the four train, you got the other side, too, the four, five, and the six. 96th Street was the street where you just seen a demographic change right there on the train.
-
-*[[1:30:19](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=5419s)]* **When you got to 96th Street** — Who in here is from New York? When you got to 96th Street, you see all the … get off. All the white folks get off. I had a question about that. Y'all all right? I think I was like 20. It was in the '80s. But it never stopped. It never stopped. This is my question. Now I said racist question because there's no such thing as a racist question. This is an honest question. "Oh, you're a racist for asking that question." No, I ain't, because this is what I experienced. Y'all understand what I'm saying? This is me writing this and waiting for an AI response. So, that's what's happening here. This is my writing. This is my question.
-
-*[[1:37:54](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=5874s)]* **In The News: A still and a short clip from the movie Léon: The Professional, filmed on 97th Street and Park Avenue** — I wanted to focus on what you see in the scene. The movie was literally filmed on 97th Street and Park Avenue. Zoom in on the rail that you see right there. You notice how steep it goes down? That's what caused me to ask the question.
-
-*[[1:53:50](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=6830s)]* We know about certain train stations in relationship to the buildings. So, we know about Tremont Avenue, where that train takes a sharp turn. Y'all ever heard how these trains sound when they're trying to go around a curve? They are loud, because the wheels are scraping up against the... Can you imagine what that sounds like all day and all night long with multiple trains going by all the time?
-
-*[[1:53:58](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=6838s)]* **In The News: Short clips of subway trains screeching around the curve at Tremont Avenue, right by people's homes** — Look how close the trains come to where people live and where they sleep. If you work that night and you trying to come home to get sleep, you ain't get no sleep. Just imagine trying to sleep when you're hearing this. This is all day, all night long.
-
-*[[1:55:42](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=6942s)]* Cuz some people can't escape this. They can't even handle two minutes of it. You get this all the time. Philly, Chicago got the same thing going on.
-
-*[[1:56:30](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=6990s)]* That's the Simpson Street train station. Sharp turn, but notice a shadow of the house is on the train.
-
-*[[1:56:39](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=6999s)]* **In The News: A clip of the train at the Simpson Street station, its sharp turn and the shadow of a house on the train** — So there's people sleeping there. The people's windows is right there. They hearing what we heard earlier all night. Babies can't sleep. Could you imagine? You wonder why people in New York is crazy.
-
-*[[1:57:07](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=7027s)]* You wonder why in the hospital, me and Asaph had to deal with brothers and sisters that be wrecked when they come to the hospital, because of stuff like this here, y'all. So, what's the cost of all this noise? That's the question.
 
 **[Ecclesiastes 5:12](/bible/ecclesiastes/5#v12)**  *[[2:16:40](https://www.youtube.com/watch?v=Am3Q1G6jmk4&t=8200s)]*
 

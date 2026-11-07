@@ -523,6 +523,8 @@ Reading from an on-screen tree of the Roman Catholic church  *[[1:53:34](https:/
 
 </div>
 
+*[[1:54:22](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=6862s)]* **In The News: The World Council of Churches founded in 1937 with Rockefeller money and Freemasons, speed-running the one-world religion** — The mother church dictates what verses mean, which is why they all say John 3:16, and every one of them worships the Borgia image.
+
 <div class="reading">
 
 Reading from *The Pillory: The Tale of the Borgia Pope in Nine Crowded Chapters* by John Bond, published in 1920  *[[1:58:29](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=7109s)]*
@@ -538,6 +540,8 @@ Reading from *The Pillory: The Tale of the Borgia Pope in Nine Crowded Chapters*
 - That's it. Everybody's Jesus. That's him, the Savior.
 
 </div>
+
+*[[1:59:39](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=7179s)]* **In The News: Pastor William Wolfe: we are going to impose it upon you, and Doug Wilson leading a Christian nationalist service at the Pentagon under Hegseth** — They are telling you Christianity will be imposed on the country; that is what Ezra prophesied about being fed with things offered to idols.
 
 <div class="reading">
 
@@ -583,10 +587,6 @@ Reading from an on-screen note on Pastor William Wolfe  *[[1:59:47](https://www.
 
     The dragon was wroth with the woman and went to make war, physical war, with the remnant of her seed which keep the commandments and have the testimony of Jesus: France already says shut down IUIC for teaching a black Jesus.
 
-
-*[[1:54:22](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=6862s)]* **In The News: The World Council of Churches founded in 1937 with Rockefeller money and Freemasons, speed-running the one-world religion** — The mother church dictates what verses mean, which is why they all say John 3:16, and every one of them worships the Borgia image.
-
-*[[1:59:39](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=7179s)]* **In The News: Pastor William Wolfe: we are going to impose it upon you, and Doug Wilson leading a Christian nationalist service at the Pentagon under Hegseth** — They are telling you Christianity will be imposed on the country; that is what Ezra prophesied about being fed with things offered to idols.
 
 **[2 Esdras 16:71-78](/bible/2-esdras/16#v71)**  *[[2:07:47](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=7667s)]*
 

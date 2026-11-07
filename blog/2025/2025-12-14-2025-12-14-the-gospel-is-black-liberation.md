@@ -518,6 +518,8 @@ Reading from a page on mourning in the Bible  *[[1:21:19](https://www.youtube.co
 - Beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness.
 
 
+*[[1:25:27](https://www.youtube.com/watch?v=JDW1q70sbhI&t=5127s)]* **In The News: Photographs of Sonya Massey, Rasheem Carter and Trey Reed, then a screen-long list of names** — This is why we mourn in Zion, and 90% of these never make the news
+
 <div class="reading">
 
 Reading from a page on black political prisoners · read by Captain Uri  *[[1:28:42](https://www.youtube.com/watch?v=JDW1q70sbhI&t=5322s)]*
@@ -533,8 +535,6 @@ Reading from a page on black political prisoners · read by Captain Uri  *[[1:28
 - And our people will see our brothers like this and forget about them. The rights that many of us have today to run our black gums is because of these brothers and sisters that are still incarcerated to this day. To this day, and they die in prison. And black Christians who always run their black gums don't give a damn.
 
 </div>
-
-*[[1:25:27](https://www.youtube.com/watch?v=JDW1q70sbhI&t=5127s)]* **In The News: Photographs of Sonya Massey, Rasheem Carter and Trey Reed, then a screen-long list of names** — This is why we mourn in Zion, and 90% of these never make the news
 
 **[Luke 19:11](/bible/luke/19#v11)**  *[[1:30:21](https://www.youtube.com/watch?v=JDW1q70sbhI&t=5421s)]*
 
@@ -1037,6 +1037,10 @@ Reading from *Pillory: The Tale of the Borgia Pope, in Nine Crowded Chapters* by
     Prepare slaughter for his children for the iniquity of their fathers. That is not what we said; that is what God said.
 
 
+*[[2:46:59](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10019s)]* **In The News: A report on the Friends of Zion Ambassador Institute summit, over a thousand American pastors in Israel with Israel's Ministry of Foreign Affairs** — Wined, dined, funded and commissioned as ambassadors, trained to fight what they now call Jewish derangement syndrome, and sent back against Israelites
+
+*[[2:54:38](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10478s)]* **In The News: The 2026 campaign to reach a million pastors in a million churches** — A funded ideological war, with our own people standing in the pictures agreeing to 200,000 dead Palestinians
+
 <div class="reading">
 
 Reading from a page on the key details of the mission · read by Captain Uri  *[[2:54:52](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10492s)]*
@@ -1060,10 +1064,6 @@ Reading from a breaking news post  *[[2:56:27](https://www.youtube.com/watch?v=J
 - That's what the guy was talking about in the film. You can't make this stuff up.
 
 </div>
-
-*[[2:46:59](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10019s)]* **In The News: A report on the Friends of Zion Ambassador Institute summit, over a thousand American pastors in Israel with Israel's Ministry of Foreign Affairs** — Wined, dined, funded and commissioned as ambassadors, trained to fight what they now call Jewish derangement syndrome, and sent back against Israelites
-
-*[[2:54:38](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10478s)]* **In The News: The 2026 campaign to reach a million pastors in a million churches** — A funded ideological war, with our own people standing in the pictures agreeing to 200,000 dead Palestinians
 
 **[Daniel 11:14](/bible/daniel/11#v14)**  *[[2:56:45](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10605s)]*
 
@@ -1090,6 +1090,8 @@ Reading from a page on drapetomania  *[[2:57:40](https://www.youtube.com/watch?v
 
 </div>
 
+*[[2:58:09](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10689s)]* **In The News: A pastor back from Israel announcing that Jesus was not a black man but an ethnic Jew** — He went to Israel, got the bag, and came back fighting against Israel
+
 <div class="reading">
 
 Reading from a post on a noose pendant  *[[2:59:18](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10758s)]*
@@ -1101,8 +1103,6 @@ Reading from a post on a noose pendant  *[[2:59:18](https://www.youtube.com/watc
 - So they're wearing this pendant of a noose. These are your friendly Jewish people. Oh, we hate hatred. No, they're all for it. You can't make this stuff up.
 
 </div>
-
-*[[2:58:09](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10689s)]* **In The News: A pastor back from Israel announcing that Jesus was not a black man but an ethnic Jew** — He went to Israel, got the bag, and came back fighting against Israel
 
 **[Isaiah 8:9-11](/bible/isaiah/8#v9)**  *[[2:59:54](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10794s)]*
 

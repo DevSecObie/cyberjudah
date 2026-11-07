@@ -309,6 +309,12 @@ Reading from On-screen: ChatGPT answer on Ebony magazine, March 1969, "The Quest
     The men of thy kindred. And all the house of Israel. You could have closed the book right there. Christianity is garbage. It is a gutter religion. And they're filled with lies. Filled with lies.
 
 
+*[[52:39](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=3159s)]* **In The News: Video of an African man saying that in Africa his own people, his mom, dad, uncles, community and teachers, told him the whites are superior, and a black American woman responding to it** — I want to talk about Africans right now for just for a second. Africans worship the white man. Now, I'm going to let an African speak for himself.
+
+*[[1:00:07](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=3607s)]* **In The News: Video of an African man saying "the colonizers left too early" and a sister questioning him** — Africans say the colonizer left too early. They said the white man left too early. The reason why the sister says she's confused: she don't understand it because what she's communicating with, when the colonizers left, they took him, they took his mind and left the negro. She's talking to a byproduct of what white man left. That's not even the real soul of him. How the hell you come to my damn land and take everything from me, and I'm talking about, why don't you stay longer? The real man is gone. When the colonizers left, his soul left with him. That's just a shell of a being that was left there. That's what the sister's talking to. But I'm glad she had some sense. The brother had no sense. He lost his mind.
+
+*[[1:02:32](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=3752s)]* **In The News: Video of a missionary baptizing an unreached tribe in the desert in a dug hole lined with plastic** — But you might think it's over with Africa, right? Not only she got to go, but the … that translated for her, he got to go, too. If it was up to this water, I want to go to hell. That's a dull ass water. It's like she's dealing with them like he's a perfectly tamed animal. 'Okay, I can get close to him now because I've stripped him of everything that's essence to him.'
+
 <div class="reading">
 
 Reading from *Chosen People from the Caucasus* by Michael Bradley, p. 197  *[[1:04:10](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=3850s)]*
@@ -355,12 +361,6 @@ Reading from *Chosen People from the Caucasus* by Michael Bradley, p. 197  *[[1:
 
 </div>
 
-
-*[[52:39](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=3159s)]* **In The News: Video of an African man saying that in Africa his own people, his mom, dad, uncles, community and teachers, told him the whites are superior, and a black American woman responding to it** — I want to talk about Africans right now for just for a second. Africans worship the white man. Now, I'm going to let an African speak for himself.
-
-*[[1:00:07](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=3607s)]* **In The News: Video of an African man saying "the colonizers left too early" and a sister questioning him** — Africans say the colonizer left too early. They said the white man left too early. The reason why the sister says she's confused: she don't understand it because what she's communicating with, when the colonizers left, they took him, they took his mind and left the negro. She's talking to a byproduct of what white man left. That's not even the real soul of him. How the hell you come to my damn land and take everything from me, and I'm talking about, why don't you stay longer? The real man is gone. When the colonizers left, his soul left with him. That's just a shell of a being that was left there. That's what the sister's talking to. But I'm glad she had some sense. The brother had no sense. He lost his mind.
-
-*[[1:02:32](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=3752s)]* **In The News: Video of a missionary baptizing an unreached tribe in the desert in a dug hole lined with plastic** — But you might think it's over with Africa, right? Not only she got to go, but the … that translated for her, he got to go, too. If it was up to this water, I want to go to hell. That's a dull ass water. It's like she's dealing with them like he's a perfectly tamed animal. 'Okay, I can get close to him now because I've stripped him of everything that's essence to him.'
 
 *[[1:12:40](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=4360s)]* So, what are we going to do now? Christianity teaches us self-hate. It does. Modern day Judaism teaches us self-hate, meaning we're always on the bottom. They will never say hate yourself. They don't say that. But by the images of a European, a Caucasian Jesus, a white god, all that foolishness, it leads to self-hate. It teaches us to be blind to the truth.
 
@@ -430,6 +430,10 @@ Reading from *Chosen People from the Caucasus* by Michael Bradley, p. 197  *[[1:
 - Speaking oppression and revolt: That part right there. This is the new one. Black lives ma... Make America great again. The Republican party. We go from one oppressive system to the next. Our people have got to be the dumbest on earth right now. Only the Bible can shake and break the spell of stupidity. Only the Bible can do it. Nothing else can do it.
 
 
+*[[1:19:08](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=4748s)]* **In The News: Video of a black man telling how white kids on his second day of kindergarten yelled "Run, run, here comes the …", and how his big brother told him he was it** — So hate is taught. Hate is taught. Do y'all see that? He took his anger out on his brother for telling him, 'You're the … that they're talking about.' He turned on his brother. That's Christianity. We're telling black Christians, 'Hey, this is white supremacy.' And they hate us. They throw rocks at us. They curse us. They threaten us for telling them the truth. All cuz they want a pat from the white man on the head. So, black and browns, black and Latinos, our people, we want the white man's white membership card so bad that our people will … for a crumb.
+
+*[[1:22:19](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=4939s)]* **In The News: Video of a Latino man speaking to Latinos and African Americans for Trump: "you're never going to be accepted", "you're auditioning for it"** — See what he says. Listen.
+
 <div class="reading">
 
 Reading from On-screen: definition of "cuck" · read by Captain Uri  *[[1:24:47](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=5087s)]*
@@ -444,10 +448,6 @@ Reading from On-screen: definition of "cuck" · read by Captain Uri  *[[1:24:47]
 
 </div>
 
-
-*[[1:19:08](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=4748s)]* **In The News: Video of a black man telling how white kids on his second day of kindergarten yelled "Run, run, here comes the …", and how his big brother told him he was it** — So hate is taught. Hate is taught. Do y'all see that? He took his anger out on his brother for telling him, 'You're the … that they're talking about.' He turned on his brother. That's Christianity. We're telling black Christians, 'Hey, this is white supremacy.' And they hate us. They throw rocks at us. They curse us. They threaten us for telling them the truth. All cuz they want a pat from the white man on the head. So, black and browns, black and Latinos, our people, we want the white man's white membership card so bad that our people will … for a crumb.
-
-*[[1:22:19](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=4939s)]* **In The News: Video of a Latino man speaking to Latinos and African Americans for Trump: "you're never going to be accepted", "you're auditioning for it"** — See what he says. Listen.
 
 **[1 Maccabees 11:21](/bible/1-maccabees/11#v21)**  *[[1:26:36](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=5196s)]*
 
@@ -493,6 +493,12 @@ Reading from On-screen: definition of "cuck" · read by Captain Uri  *[[1:24:47]
 - Because of their trespass that they have trespassed against thee: Because of our sins.
 
 
+*[[1:30:19](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=5419s)]* **In The News: News feature on the black church in Memphis turning toward Trump and MAGA, "what happens to its political power"** — So the black church is dying for imagined political power. Look, you got black people in the Senate. They ain't passing no bills for us. They're not doing nothing for us. They just sit there and talk. No political power. It's imagined political power. That's what I was talking about.
+
+*[[1:30:49](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=5449s)]* **Daniel 10:5-6** — When they say people have made God out of color, that's all Daniel 7:9, Daniel 10:5 and 6, there's color attributed to God. We just read Revelation 4:2 and 3, color, the jasper stone and the sardine stone, attributing color to God. But that's evil to them. That is evil to these dumb evil cucks.
+
+*[[1:33:53](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=5633s)]* **In The News: Video of a prayer to Satan given as the invocation at a city council meeting, with a commentator reacting** — So the black church believes that their god is the white man's god. But let me tell you something: when the white man talks about Jesus, God, Jehovah, and all that, it is not the God of Abraham, Isaac, and Jacob in the Holy Bible. It's not. Let's just tell the truth.' See, y'all thought following the white man's God is the same God of the Bible. It's not. It's not at all.
+
 <div class="reading">
 
 Reading from On-screen: the KKK and Christianity · read by Captain Uri  *[[1:35:13](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=5713s)]*
@@ -505,12 +511,6 @@ Reading from On-screen: the KKK and Christianity · read by Captain Uri  *[[1:35
 
 </div>
 
-
-*[[1:30:19](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=5419s)]* **In The News: News feature on the black church in Memphis turning toward Trump and MAGA, "what happens to its political power"** — So the black church is dying for imagined political power. Look, you got black people in the Senate. They ain't passing no bills for us. They're not doing nothing for us. They just sit there and talk. No political power. It's imagined political power. That's what I was talking about.
-
-*[[1:30:49](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=5449s)]* **Daniel 10:5-6** — When they say people have made God out of color, that's all Daniel 7:9, Daniel 10:5 and 6, there's color attributed to God. We just read Revelation 4:2 and 3, color, the jasper stone and the sardine stone, attributing color to God. But that's evil to them. That is evil to these dumb evil cucks.
-
-*[[1:33:53](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=5633s)]* **In The News: Video of a prayer to Satan given as the invocation at a city council meeting, with a commentator reacting** — So the black church believes that their god is the white man's god. But let me tell you something: when the white man talks about Jesus, God, Jehovah, and all that, it is not the God of Abraham, Isaac, and Jacob in the Holy Bible. It's not. Let's just tell the truth.' See, y'all thought following the white man's God is the same God of the Bible. It's not. It's not at all.
 
 *[[1:36:25](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=5785s)]* This is why it's paramount. All we can do is warn our people. We can't force them to leave the gut of religion. Cuz if they don't believe what God says, they ain't going to believe us.
 
@@ -1021,6 +1021,17 @@ Reading from On-screen: NBC News on the 2016 US bombings, and a search on Presid
 - Because the carnal mind is enmity against God: The word carnal mind is sinful mind. The carnal mind is the sinful mind. This is Christianity right here. I'm speaking of these religions. Christianity. Islam. Yes. Islam too.
 
 
+<div class="reading">
+
+Reading from On-screen: definition of "enmity" · read by Captain Uri  *[[2:32:59](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=9179s)]*
+
+> Enmity is a deep-seated, often mutual feeling of intense hatred, ill will or active hostility toward a person, group, or nation.
+
+- Intense hatred.
+
+</div>
+
+
 **[Romans 8:7-8](/bible/romans/8#v7)**  *[[2:33:10](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=9190s)]*
 
 > <sup>[7](/bible/romans/8#v7)</sup> Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be.
@@ -1036,17 +1047,6 @@ Reading from On-screen: NBC News on the 2016 US bombings, and a search on Presid
 > <sup>[8](/bible/romans/8#v8)</sup> So then they that are in the flesh cannot please God.
 
 - So then they that are in the flesh cannot please God: So then they that are in the flesh cannot please God.
-
-
-<div class="reading">
-
-Reading from On-screen: definition of "enmity" · read by Captain Uri  *[[2:32:59](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=9179s)]*
-
-> Enmity is a deep-seated, often mutual feeling of intense hatred, ill will or active hostility toward a person, group, or nation.
-
-- Intense hatred.
-
-</div>
 
 
 **[Romans 8:14-19](/bible/romans/8#v14)**  *[[2:33:59](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=9239s)]*
