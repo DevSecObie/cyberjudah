@@ -2,3 +2,4 @@
 - Fixes: "Chosen People of the Caucasus" is Michael Bradley's The Chosen People from the Caucasus (the classes' wording now counts); new search forms for the Encyclopedia of the Jewish Diaspora and the Destruction of the Indies.
 - data/library-sources.tsv: 53 more archive.org copies (public-domain scans published before 1931, and archive.org lending for books in copyright). Unofficial uploads of books still in copyright are left out.
 - data/library/class-books.json rebuilt: 283 books (8 in our library, 73 free scans, 104 to borrow, 98 with the classes' words only).
+- Library: the Wikipedia pages the classes put on screen and read (data/library/class-wikipedia.json, 86 pages), each with the class moments that read it; every match checked against the page's opening lines. Published at /api/library/class-wikipedia.json.
