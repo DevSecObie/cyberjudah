@@ -1,5 +1,6 @@
 import { renderErrorPage } from "./lib/error-page";
 import { applySecurityHeaders } from "./lib/security-headers.server";
+import { frontDoorUrl } from "./lib/front-door.mjs";
 import { launchPath } from "./lib/telegram-links.mjs";
 
 type ServerEntry = { fetch: (request: Request, env: unknown, ctx: unknown) => Promise<Response> | Response };
@@ -30,6 +31,13 @@ export default {
     if (start && (url.pathname === "/" || url.pathname === "/app")) {
       const target = launchPath(start);
       if (target !== url.pathname) return new Response(null, { status: 302, headers: { location: target, "cache-control": "no-store" } });
+    }
+    // The front door: with APP_FRONT_DOOR on, the home page and Bible chapters open in the web app
+    // (web.cyberjudah.io); every other page stays here. A 302, so turning it off (or rolling this
+    // Worker back) leaves no redirect cached in browsers or search engines.
+    if ((env as { APP_FRONT_DOOR?: string } | undefined)?.APP_FRONT_DOOR === "on" && (request.method === "GET" || request.method === "HEAD")) {
+      const target = frontDoorUrl(url.pathname);
+      if (target) return new Response(null, { status: 302, headers: { location: target + url.search, "cache-control": "no-store" } });
     }
     try {
       const handler = await getServerEntry();

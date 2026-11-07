@@ -59,6 +59,18 @@ test("the JSON the front ends read is served", async () => {
   assert.equal(api.downloads.vault, "/downloads/vault.zip");
 });
 
+test("each chapter's people and places are served from the complete build", async () => {
+  const api = await (await get("/api/index.json")).json();
+  assert.equal(api.peopleByChapter, "/api/people/by-chapter/<book-slug>/<chapter>.json");
+  assert.equal(api.placesByChapter, "/api/places/by-chapter/<book-slug>/<chapter>.json");
+  const people = await get("/api/people/by-chapter/genesis/2.json");
+  assert.equal(people.status, 200);
+  assert.equal(people.headers.get("access-control-allow-origin"), "*");
+  assert.ok((await people.json()).some((p) => p.id === "adam-gen-2-19" && p.verses.includes(19)));
+  assert.ok((await (await get("/api/places/by-chapter/genesis/50.json")).json()).some((p) => p.name === "Egypt"));
+  assert.ok(Array.isArray(await (await get("/api/places/by-chapter/obadiah/1.json")).json()), "every chapter has a file");
+});
+
 test('complete class-book lists expose every counted recording through the published Worker', async () => {
   const shelf = await (await get('/api/library/class-books.json')).json();
   assert.ok(shelf.some(row => row.recordings > 8), 'the real corpus must exercise a list larger than its sample');
