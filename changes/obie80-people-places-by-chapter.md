@@ -1,0 +1,1 @@
+- Publish who and where each Bible chapter names: `api/people/by-chapter/<book>/<chapter>.json` and `api/places/by-chapter/<book>/<chapter>.json`, copied from each person's and place's own record, so a reader fetches one small file per chapter.
