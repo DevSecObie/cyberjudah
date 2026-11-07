@@ -13,6 +13,9 @@
   // engine's search.sql on every publish. The id is filled in by the deploy workflow from
   // `wrangler d1 list`, so nothing account-specific is committed.
   "d1_databases": [{ "binding": "DB", "database_name": "cyberjudah", "database_id": "4cad355d-256e-4d2c-805c-2b9ecb1aaccd" }],
+  // "on": the home page and Bible chapters open in the web app at web.cyberjudah.io
+  // (src/server.ts). "off" is the rollback.
+  "vars": { "APP_FRONT_DOOR": "on" },
   "routes": [
     { "pattern": "cyberjudah.io", "custom_domain": true },
     { "pattern": "www.cyberjudah.io", "custom_domain": true }
