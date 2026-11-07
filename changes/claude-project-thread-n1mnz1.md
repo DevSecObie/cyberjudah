@@ -1,0 +1,4 @@
+- Class books: 72 more books the classes name (44 named in several classes, 28 named once), found by a sweep of every transcript and checked where each is named. The teachers' own book Island of Deception is catalogued as a class book.
+- Fixes: "Chosen People of the Caucasus" is Michael Bradley's The Chosen People from the Caucasus (the classes' wording now counts); new search forms for the Encyclopedia of the Jewish Diaspora and the Destruction of the Indies.
+- data/library-sources.tsv: 53 more archive.org copies (public-domain scans published before 1931, and archive.org lending for books in copyright). Unofficial uploads of books still in copyright are left out.
+- data/library/class-books.json rebuilt: 283 books (8 in our library, 73 free scans, 104 to borrow, 98 with the classes' words only).
