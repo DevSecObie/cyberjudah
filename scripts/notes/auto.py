@@ -37,9 +37,7 @@ MIN_WORDS = 2500
 
 # Video ids to hold out of the queue regardless of what GitHub says, each commented with the
 # PR that justifies it. Remove the line once that PR lands.
-HOLD = {
-    "EBEwdiVcsTg": 41,  # copilot/add-class-notes-for-spiritual-uprising
-}
+HOLD: dict[str, int] = {}
 
 SPEC = """You write the class notes of CyberJudah, a library of the King James Bible (with the Apocrypha) \
 and the teaching given from it in the Sabbath classes of IUIC. You are given the captions of one class, \
