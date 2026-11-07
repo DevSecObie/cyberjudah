@@ -1,0 +1,1 @@
+- The search and teachings loads take a lease on their tables in D1 and wait for any load already writing them, so two loads at once no longer drop each other's spare tables. A lease left by a crashed load expires after 10 minutes.
