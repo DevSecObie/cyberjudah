@@ -1,3 +1,1 @@
-- Class notes (Bishop Nathanyel): From Covenants to Colonization to Catastrophe (2025-05-24), The Trial Of God's Servants (2025-04-19), Project Esther (2025-03-15), each the whole class in his words, verse by verse, from his greeting.
-- God of War note: other speakers' lines removed so the note holds only the teacher's words.
-- Transcripts WaIcuHYexGs, g604eNCOyGI and v3tjeiEEpFg dated.
+- Class notes (Bishop Nathanyel): Israel On The Islands Of The Sea (2024-09-01), Americas New State Of Hate Policies (2024-07-20), The Prophecy of Balaam (2024-07-06), Nephilim And The Warnings Of Jude (2024-06-29), A Battle Against STDs (2024-06-15), Recon To Ephesus & Smyrna (2024-05-25): the teacher's words, verse by verse, from his greeting.
