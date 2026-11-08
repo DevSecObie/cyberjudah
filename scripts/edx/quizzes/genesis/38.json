@@ -1,0 +1,54 @@
+{
+  "chapter": "Genesis 38",
+  "status": "draft: drafted from docs/study/genesis/38.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "What was Onan's sin, according to the class?",
+      "choices": [
+        "Marrying a Canaanite",
+        "Breaking the Sabbath",
+        "Lying to Judah",
+        "Refusing to raise up seed to his brother"
+      ],
+      "answer": 3,
+      "explain": "Do not build a doctrine on the wrong point; the brother's duty later became law (Deuteronomy 25:5-9).",
+      "ref": "Genesis 38:8-10; Deuteronomy 25:5-9"
+    },
+    {
+      "q": "Why did Judah think Tamar was a harlot?",
+      "choices": [
+        "Because of where she lived",
+        "Because she asked for silver",
+        "Because of her attire",
+        "Because she was a stranger"
+      ],
+      "answer": 2,
+      "explain": "A harlot was known by her dress (Proverbs 7:10).",
+      "ref": "Genesis 38:14-15; Proverbs 7:10"
+    },
+    {
+      "q": "What did Judah say when Tamar produced his signet, bracelets and staff?",
+      "choices": [
+        "Let her be burnt",
+        "These are not mine",
+        "Give her to Shelah now",
+        "She hath been more righteous than I"
+      ],
+      "answer": 3,
+      "explain": "Because that I gave her not to Shelah my son.",
+      "ref": "Genesis 38:25-26"
+    },
+    {
+      "q": "Which twin broke forth first?",
+      "choices": [
+        "Pharez",
+        "Zarah",
+        "Shelah",
+        "Er"
+      ],
+      "answer": 0,
+      "explain": "The midwife bound a scarlet thread on Zarah's hand, but his brother broke forth first.",
+      "ref": "Genesis 38:27-30"
+    }
+  ]
+}

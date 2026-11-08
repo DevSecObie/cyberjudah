@@ -1,0 +1,66 @@
+{
+  "chapter": "Genesis 26",
+  "status": "draft: drafted from docs/study/genesis/26.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "Why was the oath sworn to Abraham performed unto Isaac?",
+      "choices": [
+        "Because Abraham obeyed and kept the commandments, statutes and laws",
+        "Because Isaac was rich",
+        "Because Isaac went down to Egypt",
+        "Because Abimelech asked for it"
+      ],
+      "answer": 0,
+      "explain": "Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws.",
+      "ref": "Genesis 26:1-5"
+    },
+    {
+      "q": "Who is the seed in 'in thy seed shall all nations be blessed' (Galatians 3:16)?",
+      "choices": [
+        "Every nation",
+        "Christ",
+        "Ishmael",
+        "The Philistines"
+      ],
+      "answer": 1,
+      "explain": "Through Christ scattered Israel in all kindreds of the earth receives repentance.",
+      "ref": "Genesis 26:1-5; Galatians 3:16"
+    },
+    {
+      "q": "Why did the Philistines stop Isaac's wells?",
+      "choices": [
+        "They envied his prosperity",
+        "The water was bitter",
+        "Isaac had stolen them",
+        "Abimelech commanded it for a feast"
+      ],
+      "answer": 0,
+      "explain": "The nations envy the prosperity of Israel; the blessing itself is what is hated.",
+      "ref": "Genesis 26:12-16"
+    },
+    {
+      "q": "What did Isaac call the well the herdmen did not strive over?",
+      "choices": [
+        "Esek",
+        "Sitnah",
+        "Rehoboth: for now the Lord hath made room for us",
+        "Beersheba"
+      ],
+      "answer": 2,
+      "explain": "He removed from Esek and Sitnah and digged Rehoboth.",
+      "ref": "Genesis 26:17-22"
+    },
+    {
+      "q": "Why were Esau's wives a grief of mind to Isaac and Rebekah?",
+      "choices": [
+        "They were too young",
+        "They were barren",
+        "They were Hittites, against the fathers' law of marrying within the kindred",
+        "They refused to live in tents"
+      ],
+      "answer": 2,
+      "explain": "That is the nature of the vessel.",
+      "ref": "Genesis 26:34-35"
+    }
+  ]
+}

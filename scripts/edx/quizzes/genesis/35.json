@@ -1,0 +1,66 @@
+{
+  "chapter": "Genesis 35",
+  "status": "draft: drafted from docs/study/genesis/35.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "What did Jacob tell his household before going up to Bethel?",
+      "choices": [
+        "Put away the strange gods that are among you, and be clean",
+        "Prepare a feast",
+        "Arm yourselves",
+        "Send gifts to Esau"
+      ],
+      "answer": 0,
+      "explain": "The strange gods were Laban's images that Rachel had stolen and hidden.",
+      "ref": "Genesis 35:2-4; Genesis 31:19"
+    },
+    {
+      "q": "Why did the cities round about not pursue the sons of Jacob after Shechem?",
+      "choices": [
+        "They were at war with Egypt",
+        "Esau protected Jacob",
+        "The terror of God was upon them",
+        "They had no weapons"
+      ],
+      "answer": 2,
+      "explain": "The angel of the Lord encampeth round about them that fear Him (Psalms 34:7).",
+      "ref": "Genesis 35:5; Psalms 34:7"
+    },
+    {
+      "q": "What did God promise would come out of Israel's loins?",
+      "choices": [
+        "Priests only",
+        "Strangers and sojourners",
+        "A nation, a company of nations, and kings",
+        "Nothing more than Abraham had"
+      ],
+      "answer": 2,
+      "explain": "Christ hath made us kings and priests unto God (Revelation 1:5-6).",
+      "ref": "Genesis 35:11; Revelation 1:5-6"
+    },
+    {
+      "q": "What does Benjamin's name mean?",
+      "choices": [
+        "Son of the right hand",
+        "Son of my sorrow",
+        "Increase",
+        "God has heard"
+      ],
+      "answer": 0,
+      "explain": "Rachel called him Benoni as she died; his father called him Benjamin, the twelfth son.",
+      "ref": "Genesis 35:16-19"
+    },
+    {
+      "q": "Why did Reuben lose the birthright?",
+      "choices": [
+        "He sold Joseph",
+        "He married a Canaanite",
+        "He refused to go to Egypt",
+        "He defiled his father's bed with Bilhah"
+      ],
+      "answer": 3,
+      "explain": "His birthright was given unto the sons of Joseph (1 Chronicles 5:1).",
+      "ref": "Genesis 35:22; 1 Chronicles 5:1"
+    }
+  ]
+}

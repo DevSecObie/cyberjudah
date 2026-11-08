@@ -1,0 +1,66 @@
+{
+  "chapter": "Genesis 22",
+  "status": "draft: drafted from docs/study/genesis/22.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "Why did the Most High call Isaac Abraham's 'only son' when Ishmael was alive?",
+      "choices": [
+        "Ishmael had died",
+        "Ishmael was adopted",
+        "Isaac was the firstborn",
+        "Isaac was the child of the promise; Ishmael was born of the flesh"
+      ],
+      "answer": 3,
+      "explain": "Ishmael came of a plan the Lord never spoke; Isaac was the child of the promise.",
+      "ref": "Genesis 22:1-3"
+    },
+    {
+      "q": "How is the fear of God proved, according to the class?",
+      "choices": [
+        "In obedience",
+        "In crying out loud",
+        "In building altars",
+        "In giving tithes"
+      ],
+      "answer": 0,
+      "explain": "They that fear the Lord will not disobey His word (Ecclesiasticus 2:15). Now I know that thou fearest God.",
+      "ref": "Genesis 22:9-12; Ecclesiasticus 2:15"
+    },
+    {
+      "q": "What did Abraham account that God was able to do with Isaac?",
+      "choices": [
+        "Replace him with another son",
+        "Hide him from the knife",
+        "Raise him up, even from the dead",
+        "Make him a priest"
+      ],
+      "answer": 2,
+      "explain": "By faith Abraham offered up Isaac (Hebrews 11:17-19). Faith and the commandments go together.",
+      "ref": "Genesis 22:9-12; Hebrews 11:17-19"
+    },
+    {
+      "q": "What did God provide in the stead of Isaac?",
+      "choices": [
+        "A lamb from Abraham's flock",
+        "A dove",
+        "A heifer",
+        "A ram caught in a thicket by his horns"
+      ],
+      "answer": 3,
+      "explain": "Abraham called the place Jehovahjireh: in the mount of the Lord it shall be seen.",
+      "ref": "Genesis 22:13-14"
+    },
+    {
+      "q": "What does 'thy seed shall possess the gate of his enemies' show about the covenant?",
+      "choices": [
+        "Israel possesses its enemies, so all nations cannot be inside this covenant",
+        "All nations share the land equally",
+        "Abraham's seed will serve Edom",
+        "The covenant ended with Isaac"
+      ],
+      "answer": 0,
+      "explain": "The seed of Jacob shall possess the remnant of Edom and of all the heathen (Amos 9:11-12; Numbers 24:17-18).",
+      "ref": "Genesis 22:15-18"
+    }
+  ]
+}

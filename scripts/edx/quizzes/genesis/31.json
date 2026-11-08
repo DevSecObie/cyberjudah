@@ -1,0 +1,42 @@
+{
+  "chapter": "Genesis 31",
+  "status": "draft: drafted from docs/study/genesis/31.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "What did the Lord tell Jacob when Laban's countenance changed toward him?",
+      "choices": [
+        "Stay and serve seven more years",
+        "Flee to Egypt",
+        "Fight Laban's sons",
+        "Return unto the land of thy fathers, and I will be with thee"
+      ],
+      "answer": 3,
+      "explain": "The command to go home came with the promise of the Most High's presence.",
+      "ref": "Genesis 31:1-3"
+    },
+    {
+      "q": "What did Rachel steal from her father?",
+      "choices": [
+        "His images, his gods",
+        "His gold",
+        "His flocks",
+        "His birthright"
+      ],
+      "answer": 0,
+      "explain": "Yes, she was fine, but she was a thief (Proverbs 31:30).",
+      "ref": "Genesis 31:19"
+    },
+    {
+      "q": "What does Laban's question 'Wherefore hast thou stolen my gods?' show?",
+      "choices": [
+        "Laban was a priest of the Most High",
+        "Laban was an idolater, like his fathers beyond the flood",
+        "Laban had lost his faith",
+        "Laban worshipped the God of Abraham only"
+      ],
+      "answer": 1,
+      "explain": "Terah and Nachor served other gods (Joshua 24:2); that is why Abram was told to leave his kindred.",
+      "ref": "Genesis 31:30; Joshua 24:2"
+    }
+  ]
+}

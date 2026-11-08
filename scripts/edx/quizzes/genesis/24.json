@@ -1,0 +1,54 @@
+{
+  "chapter": "Genesis 24",
+  "status": "draft: drafted from docs/study/genesis/24.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "What did Abraham make his servant swear about a wife for Isaac?",
+      "choices": [
+        "To find the richest woman in Canaan",
+        "To bring a wife from Egypt",
+        "Not to take one of the daughters of the Canaanites, but from Abraham's kindred",
+        "To let Isaac choose for himself"
+      ],
+      "answer": 2,
+      "explain": "Take a wife of the seed of thy fathers (Tobit 4:12); the custom was kept from the beginning, before Moses.",
+      "ref": "Genesis 24:1-4; Tobit 4:12"
+    },
+    {
+      "q": "What sign did the servant ask for at the well?",
+      "choices": [
+        "A damsel wearing gold",
+        "The damsel who offers to draw for his camels also",
+        "A voice from heaven",
+        "Rain on the well"
+      ],
+      "answer": 1,
+      "explain": "Before he had done speaking, Rebekah came out: very fair, a virgin, and kind.",
+      "ref": "Genesis 24:12-20"
+    },
+    {
+      "q": "What did Rebekah do when she saw Isaac?",
+      "choices": [
+        "She ran to greet him",
+        "She returned to her father",
+        "She bowed to the ground",
+        "She took a vail and covered herself"
+      ],
+      "answer": 3,
+      "explain": "The four mothers covered their heads as a sign of submission; that is the custom 1 Corinthians 11 goes into.",
+      "ref": "Genesis 24:63-65"
+    },
+    {
+      "q": "Why must the chosen not marry into the other nations, according to the law?",
+      "choices": [
+        "It costs too much dowry",
+        "The languages differ",
+        "Only kings may marry strangers",
+        "They will turn away thy son from following the Most High to serve other gods"
+      ],
+      "answer": 3,
+      "explain": "Solomon is the prime example: he loved women of the other nations and went into their gods (Deuteronomy 7:3-4).",
+      "ref": "Genesis 24:3-4; Deuteronomy 7:3-4"
+    }
+  ]
+}

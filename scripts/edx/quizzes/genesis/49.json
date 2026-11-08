@@ -1,0 +1,66 @@
+{
+  "chapter": "Genesis 49",
+  "status": "draft: drafted from docs/study/genesis/49.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "What are Jacob's blessings over his sons in Genesis 49?",
+      "choices": [
+        "What would befall each tribe in their day and in the last days",
+        "Only blessings for their lifetime",
+        "Curses on Egypt",
+        "A list of their wives"
+      ],
+      "answer": 0,
+      "explain": "They help determine who the tribes are and where they would be found today.",
+      "ref": "Genesis 49:1"
+    },
+    {
+      "q": "Why would Reuben not excel?",
+      "choices": [
+        "He sold Joseph",
+        "He married a Hittite",
+        "He was the youngest",
+        "He went up to his father's couch"
+      ],
+      "answer": 3,
+      "explain": "His birthright was given unto the sons of Joseph (1 Chronicles 5:1).",
+      "ref": "Genesis 49:3-4"
+    },
+    {
+      "q": "Who is Shiloh in 'The sceptre shall not depart from Judah... until Shiloh come'?",
+      "choices": [
+        "Christ, the peaceful one, of the tribe of Judah",
+        "King David",
+        "Moses",
+        "Joseph"
+      ],
+      "answer": 0,
+      "explain": "Unto him shall the gathering of the people be.",
+      "ref": "Genesis 49:10"
+    },
+    {
+      "q": "Which tribe 'shall dwell at the haven of the sea'?",
+      "choices": [
+        "Issachar",
+        "Asher",
+        "Zebulun",
+        "Dan"
+      ],
+      "answer": 2,
+      "explain": "In this teaching, the so-called Mayan Indians, with the Panama Canal in their land.",
+      "ref": "Genesis 49:13"
+    },
+    {
+      "q": "Of which tribe is it said 'a troop shall overcome him: but he shall overcome at the last'?",
+      "choices": [
+        "Gad",
+        "Benjamin",
+        "Naphtali",
+        "Simeon"
+      ],
+      "answer": 0,
+      "explain": "In this teaching, the so-called North American Indian, rising back up in the last days.",
+      "ref": "Genesis 49:19"
+    }
+  ]
+}

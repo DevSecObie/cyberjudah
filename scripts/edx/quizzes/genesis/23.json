@@ -1,0 +1,30 @@
+{
+  "chapter": "Genesis 23",
+  "status": "draft: drafted from docs/study/genesis/23.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "How old was Sarah when she died?",
+      "choices": [
+        "Ninety years",
+        "An hundred and seven and twenty years",
+        "An hundred years",
+        "An hundred and seventy-five years"
+      ],
+      "answer": 1,
+      "explain": "She died in Kirjatharba, the same is Hebron, in the land of Canaan.",
+      "ref": "Genesis 23:1-2"
+    },
+    {
+      "q": "How did Abraham get the field of Machpelah?",
+      "choices": [
+        "Ephron gave it to him free",
+        "He won it in battle",
+        "He insisted on paying, four hundred shekels of silver",
+        "Abimelech gave it as a gift"
+      ],
+      "answer": 2,
+      "explain": "The field and its cave were made sure unto Abraham for a possession of a buryingplace.",
+      "ref": "Genesis 23:14-20"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "chapter": "Genesis 42",
+  "status": "draft: drafted from docs/study/genesis/42.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "Why did Jacob not send Benjamin with his brethren?",
+      "choices": [
+        "He was too young to travel",
+        "Benjamin was sick",
+        "Lest mischief befall him; he was Rachel's last son",
+        "Joseph had asked for him"
+      ],
+      "answer": 2,
+      "explain": "With Joseph presumed dead, Benjamin was the last son Jacob had of his beloved wife.",
+      "ref": "Genesis 42:4; Genesis 35:16-19"
+    },
+    {
+      "q": "Why did Joseph's brethren not know him?",
+      "choices": [
+        "Time had passed, and he blended in among the Egyptians",
+        "He wore a mask",
+        "He was in another city",
+        "They never saw his face"
+      ],
+      "answer": 0,
+      "explain": "All twelve tribes looked like the people of Egypt (Genesis 50:10-11).",
+      "ref": "Genesis 42:8; Genesis 50:10-11"
+    },
+    {
+      "q": "What did the brothers say among themselves, not knowing Joseph understood?",
+      "choices": [
+        "This Egyptian is unjust",
+        "Benjamin must stay home",
+        "We are verily guilty concerning our brother",
+        "We should flee"
+      ],
+      "answer": 2,
+      "explain": "Their conscience was activated; he spake unto them by an interpreter.",
+      "ref": "Genesis 42:21-23"
+    },
+    {
+      "q": "Which brother did Joseph bind and keep?",
+      "choices": [
+        "Reuben",
+        "Judah",
+        "Simeon",
+        "Levi"
+      ],
+      "answer": 2,
+      "explain": "He took from them Simeon, and bound him before their eyes.",
+      "ref": "Genesis 42:24"
+    }
+  ]
+}

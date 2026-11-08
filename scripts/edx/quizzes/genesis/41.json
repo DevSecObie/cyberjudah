@@ -1,0 +1,66 @@
+{
+  "chapter": "Genesis 41",
+  "status": "draft: drafted from docs/study/genesis/41.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "Why was Pharaoh's dream doubled?",
+      "choices": [
+        "Pharaoh slept twice",
+        "Two magicians saw it",
+        "The thing is established by God, and God will shortly bring it to pass",
+        "It was two different prophecies"
+      ],
+      "answer": 2,
+      "explain": "Seven kine and seven ears: seven years of plenty and seven of famine.",
+      "ref": "Genesis 41:32"
+    },
+    {
+      "q": "To whom did Joseph give the praise for interpreting the dream?",
+      "choices": [
+        "Himself",
+        "The butler",
+        "Pharaoh's magicians",
+        "God: it is not in me"
+      ],
+      "answer": 3,
+      "explain": "The secret of the Lord is with them that fear him (Psalm 25:14).",
+      "ref": "Genesis 41:16; Psalm 25:14"
+    },
+    {
+      "q": "What counsel did Joseph give Pharaoh?",
+      "choices": [
+        "Store up the fifth part of the land in the plenteous years",
+        "Go to war with Canaan",
+        "Build pyramids",
+        "Trade gold for corn"
+      ],
+      "answer": 0,
+      "explain": "A prudent man foreseeth the evil (Proverbs 22:3).",
+      "ref": "Genesis 41:33-36; Proverbs 22:3"
+    },
+    {
+      "q": "Which of Joseph's sons received the greater blessing from Jacob?",
+      "choices": [
+        "Ephraim, the younger",
+        "Manasseh, the firstborn",
+        "Both equally",
+        "Neither"
+      ],
+      "answer": 0,
+      "explain": "Jacob set Ephraim before Manasseh (Genesis 48:17-20); Jeroboam, the first king of the north, was of Ephraim.",
+      "ref": "Genesis 41:51-52; Genesis 48:17-20"
+    },
+    {
+      "q": "What does it show that Pharaoh changed Joseph's name to Zaphnathpaaneah?",
+      "choices": [
+        "The heathen like to change our names, as spiritual Egypt does today",
+        "Joseph became an Egyptian",
+        "Joseph forgot his God",
+        "Pharaoh adopted him as a son"
+      ],
+      "answer": 0,
+      "explain": "That is one reason America is called spiritual Egypt.",
+      "ref": "Genesis 41:45"
+    }
+  ]
+}

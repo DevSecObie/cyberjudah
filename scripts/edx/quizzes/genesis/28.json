@@ -1,0 +1,42 @@
+{
+  "chapter": "Genesis 28",
+  "status": "draft: drafted from docs/study/genesis/28.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "What charge did Isaac give Jacob?",
+      "choices": [
+        "To fight Esau",
+        "To go down to Egypt",
+        "To build a city",
+        "Not to take a wife of the daughters of Canaan, but of Laban's daughters"
+      ],
+      "answer": 3,
+      "explain": "The fathers from the beginning married wives of their own kindred (Tobit 4:12).",
+      "ref": "Genesis 28:1-2; Tobit 4:12"
+    },
+    {
+      "q": "How did Esau answer his father's grief over the daughters of Canaan?",
+      "choices": [
+        "He sent his wives away",
+        "He went to Ishmael and took another wife, doing his own thing",
+        "He followed Jacob to Padanaram",
+        "He asked Isaac to choose a wife"
+      ],
+      "answer": 1,
+      "explain": "That is the spirit of the wicked, who hate instruction and cast the words of the Most High behind them (Psalms 50:16-17).",
+      "ref": "Genesis 28:6-9; Psalms 50:16-17"
+    },
+    {
+      "q": "What did Jacob vow at Bethel?",
+      "choices": [
+        "To never return to Canaan",
+        "To serve Laban fourteen years",
+        "The Lord shall be my God, and I will surely give the tenth unto thee",
+        "To build a temple in Haran"
+      ],
+      "answer": 2,
+      "explain": "Better not to vow than to vow and not pay (Ecclesiastes 5:4-6). Jacob paid his vow.",
+      "ref": "Genesis 28:20-22; Ecclesiastes 5:4-6"
+    }
+  ]
+}

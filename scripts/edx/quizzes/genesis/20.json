@@ -1,0 +1,54 @@
+{
+  "chapter": "Genesis 20",
+  "status": "draft: drafted from docs/study/genesis/20.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "What does Genesis 20 show about adultery before Exodus 20:14?",
+      "choices": [
+        "It was already sin; the Most High said, I withheld thee from sinning against me",
+        "It was allowed for kings",
+        "It was only a custom",
+        "It was not yet known"
+      ],
+      "answer": 0,
+      "explain": "God came to Abimelech in a dream: thou art but a dead man, for the woman is a man's wife.",
+      "ref": "Genesis 20:3-7"
+    },
+    {
+      "q": "What did the Most High call Abraham when speaking to Abimelech?",
+      "choices": [
+        "A prophet, who shall pray for thee",
+        "A stranger",
+        "A priest of Salem",
+        "A king"
+      ],
+      "answer": 0,
+      "explain": "Restore the man his wife, for he is a prophet, and he shall pray for thee.",
+      "ref": "Genesis 20:7"
+    },
+    {
+      "q": "In what way was Sarah truly Abraham's sister?",
+      "choices": [
+        "She was the daughter of his father but not of his mother",
+        "She was his cousin",
+        "She was adopted by Terah",
+        "She was not his sister at all"
+      ],
+      "answer": 0,
+      "explain": "The sister saying was their agreement in every strange land.",
+      "ref": "Genesis 20:12-13"
+    },
+    {
+      "q": "What did the Lord do to the house of Abimelech because of Sarah?",
+      "choices": [
+        "Burned his fields",
+        "Fast closed up all the wombs, until Abraham prayed",
+        "Sent a famine",
+        "Struck him blind"
+      ],
+      "answer": 1,
+      "explain": "The Most High plagues a household over the prophet's wife, as He did Pharaoh (Genesis 12:17).",
+      "ref": "Genesis 20:17-18"
+    }
+  ]
+}

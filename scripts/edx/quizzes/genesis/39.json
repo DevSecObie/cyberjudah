@@ -1,0 +1,54 @@
+{
+  "chapter": "Genesis 39",
+  "status": "draft: drafted from docs/study/genesis/39.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "Why did Potiphar's house prosper?",
+      "choices": [
+        "The Lord blessed the Egyptian's house for Joseph's sake",
+        "Potiphar was wise",
+        "Pharaoh gave him gifts",
+        "Joseph stole for him"
+      ],
+      "answer": 0,
+      "explain": "The Most High gives His people compassion before them who carried them captive (1 Kings 8:50).",
+      "ref": "Genesis 39:2-5"
+    },
+    {
+      "q": "What did Joseph say to his master's wife?",
+      "choices": [
+        "Wait until your husband leaves",
+        "How then can I do this great wickedness, and sin against God?",
+        "I am a stranger here",
+        "I will tell Pharaoh"
+      ],
+      "answer": 1,
+      "explain": "Adultery was known as sin from the beginning, long before Sinai.",
+      "ref": "Genesis 39:7-9"
+    },
+    {
+      "q": "What example does Joseph leaving his garment and fleeing give?",
+      "choices": [
+        "Always keep a spare garment",
+        "Never work in a rich house",
+        "Flee from sin as from the face of a serpent",
+        "Answer every accusation"
+      ],
+      "answer": 2,
+      "explain": "If thou comest too near it, it will bite thee (Ecclesiasticus 21:1-2).",
+      "ref": "Genesis 39:12; Ecclesiasticus 21:1-2"
+    },
+    {
+      "q": "Why could no plea reach Potiphar?",
+      "choices": [
+        "Joseph did not speak",
+        "Potiphar was away",
+        "Jealousy is the rage of a man; he will not spare in the day of vengeance",
+        "The wife had witnesses"
+      ],
+      "answer": 2,
+      "explain": "He did not seek understanding (Proverbs 6:32-35).",
+      "ref": "Genesis 39:19-20; Proverbs 6:32-35"
+    }
+  ]
+}

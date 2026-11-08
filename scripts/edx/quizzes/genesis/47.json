@@ -1,0 +1,54 @@
+{
+  "chapter": "Genesis 47",
+  "status": "draft: drafted from docs/study/genesis/47.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "Goshen is the same place as which land?",
+      "choices": [
+        "The land of Nod",
+        "Canaan",
+        "The land of Rameses",
+        "Padanaram"
+      ],
+      "answer": 2,
+      "explain": "Moses wrote the place under the name of his own day.",
+      "ref": "Genesis 47:11"
+    },
+    {
+      "q": "What law did Joseph make over Egypt?",
+      "choices": [
+        "Give a tenth to the priests",
+        "All land belongs to the people",
+        "No one may store corn",
+        "Give the fifth part unto Pharaoh; four parts are your own"
+      ],
+      "answer": 3,
+      "explain": "Pay the fifth part, and lay up for the years of trouble.",
+      "ref": "Genesis 47:23-26"
+    },
+    {
+      "q": "How old was Jacob when he died?",
+      "choices": [
+        "An hundred and ten",
+        "An hundred and eighty",
+        "Ninety-nine",
+        "An hundred forty and seven years"
+      ],
+      "answer": 3,
+      "explain": "Jacob lived in Egypt seventeen years.",
+      "ref": "Genesis 47:28"
+    },
+    {
+      "q": "What did Jacob make Joseph swear?",
+      "choices": [
+        "To bury him in the burying place of his fathers",
+        "To return to Canaan at once",
+        "To make Ephraim king",
+        "To never forgive his brothers"
+      ],
+      "answer": 0,
+      "explain": "By faith Jacob blessed the sons of Joseph (Hebrews 11:21).",
+      "ref": "Genesis 47:29-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "chapter": "Genesis 45",
+  "status": "draft: drafted from docs/study/genesis/45.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "Why could Joseph's brethren not recognize him?",
+      "choices": [
+        "He was grown, and clothed in the customs and dress of Egypt",
+        "He was hidden behind a curtain",
+        "He spoke Hebrew to them",
+        "They had never seen him"
+      ],
+      "answer": 0,
+      "explain": "He shaved, changed his raiment, and spoke by an interpreter.",
+      "ref": "Genesis 45:3; Genesis 41:14"
+    },
+    {
+      "q": "Who did Joseph say sent him into Egypt?",
+      "choices": [
+        "His brothers alone",
+        "Pharaoh",
+        "God, to preserve life",
+        "The Ishmaelites"
+      ],
+      "answer": 2,
+      "explain": "It was not you that sent me hither, but God.",
+      "ref": "Genesis 45:5-8"
+    },
+    {
+      "q": "What law did Joseph keep with his brethren?",
+      "choices": [
+        "An eye for an eye",
+        "The law of the tithe",
+        "Forgiveness: until seventy times seven",
+        "The law of the firstborn"
+      ],
+      "answer": 2,
+      "explain": "His own brothers sold him into slavery, and he forgave them.",
+      "ref": "Genesis 45:4-15; Matthew 18:22"
+    },
+    {
+      "q": "What does 'better is the end of a thing than the beginning thereof' teach from Joseph's life?",
+      "choices": [
+        "Never start anything new",
+        "Sold and imprisoned at the beginning, governor of Egypt at the end",
+        "The end of the world is near",
+        "Joseph's brothers ended well"
+      ],
+      "answer": 1,
+      "explain": "Be patient in spirit; there is no other way into the kingdom but through tribulation.",
+      "ref": "Genesis 45:8; Ecclesiastes 7:8"
+    }
+  ]
+}

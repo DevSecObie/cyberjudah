@@ -1,0 +1,54 @@
+{
+  "chapter": "Genesis 40",
+  "status": "draft: drafted from docs/study/genesis/40.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "What did Joseph say when the butler and baker said there was no interpreter?",
+      "choices": [
+        "Ask the magicians",
+        "I have dreamed the same",
+        "Do not interpretations belong to God?",
+        "Dreams mean nothing"
+      ],
+      "answer": 2,
+      "explain": "Daniel stood in the same understanding: God is a revealer of secrets (Daniel 2:47).",
+      "ref": "Genesis 40:8; Daniel 2:47"
+    },
+    {
+      "q": "What did the three branches and the three baskets stand for?",
+      "choices": [
+        "Three days",
+        "Three years",
+        "Three kings",
+        "Three sons"
+      ],
+      "answer": 0,
+      "explain": "The vision of dreams is the resemblance of one thing to another (Ecclesiasticus 34:3).",
+      "ref": "Genesis 40:12-19"
+    },
+    {
+      "q": "On whose birthday was the chief baker hanged?",
+      "choices": [
+        "Joseph's",
+        "The butler's",
+        "Potiphar's",
+        "Pharaoh's"
+      ],
+      "answer": 3,
+      "explain": "Birthdays are heathen customs; on Herod's birthday John the Baptist was beheaded (Matthew 14:6-8).",
+      "ref": "Genesis 40:20-22"
+    },
+    {
+      "q": "What did the chief butler do once he was restored?",
+      "choices": [
+        "He freed Joseph at once",
+        "He forgat Joseph",
+        "He told Pharaoh about Joseph that day",
+        "He gave Joseph silver"
+      ],
+      "answer": 1,
+      "explain": "Yet did not the chief butler remember Joseph, but forgat him.",
+      "ref": "Genesis 40:23"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "chapter": "Genesis 29",
+  "status": "draft: drafted from docs/study/genesis/29.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "What does 'thou art my bone and my flesh' mean?",
+      "choices": [
+        "We made a covenant",
+        "You are my servant",
+        "We are family",
+        "You are my heir"
+      ],
+      "answer": 2,
+      "explain": "Abimelech used the same phrase with his mother's brethren (Judges 9:1-2).",
+      "ref": "Genesis 29:14; Judges 9:1-2"
+    },
+    {
+      "q": "How long did Jacob serve Laban in all for his wives?",
+      "choices": [
+        "Fourteen years",
+        "Seven years",
+        "Twenty years",
+        "Forty years"
+      ],
+      "answer": 0,
+      "explain": "Seven years for Rachel seemed but a few days; deceived, he served another seven (1 Esdras 4:25-26).",
+      "ref": "Genesis 29:20-30"
+    },
+    {
+      "q": "What lesson does the class draw from Jacob favouring Rachel for her beauty?",
+      "choices": [
+        "Always marry the more beautiful sister",
+        "Beauty is a sign of righteousness",
+        "Favour is deceitful and beauty is vain; a woman that feareth the Lord shall be praised",
+        "The firstborn must marry first"
+      ],
+      "answer": 2,
+      "explain": "Do not be hasty to credit somebody for their outward appearance (Ecclesiasticus 11:2; Proverbs 31:30).",
+      "ref": "Genesis 29:17-30; Proverbs 31:30"
+    },
+    {
+      "q": "When the Lord saw Leah was hated, what did He do?",
+      "choices": [
+        "He opened her womb",
+        "He sent her home",
+        "He made her beautiful",
+        "He gave her to another man"
+      ],
+      "answer": 0,
+      "explain": "But Rachel was barren.",
+      "ref": "Genesis 29:31"
+    }
+  ]
+}
