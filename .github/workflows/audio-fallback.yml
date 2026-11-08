@@ -55,7 +55,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y ffmpeg
-          python3 -m pip install --upgrade "yt-dlp[default]" faster-whisper bgutil-ytdlp-pot-provider
+          python3 -m pip install --upgrade "yt-dlp[default]" faster-whisper "av<19" bgutil-ytdlp-pot-provider
           git clone --depth 1 --branch 2.0.0 https://github.com/Brainicism/bgutil-ytdlp-pot-provider.git /tmp/bgutil-ytdlp-pot-provider
           cd /tmp/bgutil-ytdlp-pot-provider/server
           npm ci
