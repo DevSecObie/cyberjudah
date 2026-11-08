@@ -21,8 +21,8 @@ It writes `dist/edx/<book>.tar.gz` and needs nothing but Python 3.9+.
 | Unit          | the introduction, then each verse block     | Genesis 1:1-2                             |
 | Graded quiz   | `quizzes/<book>/<chapter>.json`, if present | Genesis 1: Check your understanding       |
 
-Every scripture link points back to cyberjudah.io, so a student can open the full chapter,
-the precepts and the classes from any lesson.
+Students stay inside the course: the only links that lead out are YouTube videos. Every other
+link in a note (scripture references, the website) is kept as plain text.
 
 ## Quizzes
 

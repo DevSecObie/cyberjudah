@@ -24,7 +24,6 @@ Standard library only, so it runs anywhere Python 3.9+ does.
 import argparse, html, io, json, os, re, sys, tarfile
 
 ROOT = os.environ.get("CJ_ROOT") or os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-SITE = "https://cyberjudah.io"
 QUIZZES = os.path.join(ROOT, "scripts", "edx", "quizzes")
 ORG = "CyberJudah"
 PER_SECTION = 4  # chapters per reading session, as in 4 Chapters a Day
@@ -36,14 +35,21 @@ LINK = re.compile(r"\[([^\]]+)\]\(([^)\s]+)\)")
 BOLD = re.compile(r"\*\*(.+?)\*\*")
 
 
-def href(url):
-    return SITE + url if url.startswith("/") else url
+YOUTUBE = re.compile(r"^https?://(www\.|m\.)?(youtube\.com|youtu\.be)/")
+
+
+def link(m):
+    """Only YouTube links leave the course; every other link keeps just its text."""
+    text, url = m.group(1), m.group(2)
+    if YOUTUBE.match(url):
+        return f'<a href="{html.escape(url)}" target="_blank" rel="noopener">{text}</a>'
+    return text
 
 
 def inline(text):
     out = html.escape(text, quote=False)
     out = out.replace("&lt;sup&gt;", "<sup>").replace("&lt;/sup&gt;", "</sup>")
-    out = LINK.sub(lambda m: f'<a href="{html.escape(href(m.group(2)))}" target="_blank" rel="noopener">{m.group(1)}</a>', out)
+    out = LINK.sub(link, out)
     return BOLD.sub(r"<strong>\1</strong>", out)
 
 
@@ -110,7 +116,8 @@ BLOCK = re.compile(r"^\*\*\[([^\]]+)\]\([^)]+\)\*\*\s*$")
 
 def units(body):
     """Split a note into its introduction and one unit per verse block."""
-    lines = body.splitlines()
+    # "Read the chapter -> [Genesis 1](...)" only points at the website
+    lines = [l for l in body.splitlines() if not l.startswith("Read the chapter")]
     starts = [i for i, l in enumerate(lines) if BLOCK.match(l)]
     out = []
     intro = lines[: starts[0]] if starts else lines
