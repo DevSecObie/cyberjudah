@@ -478,7 +478,7 @@ def build(book, chapters, run="2026"):
                     files[f"problem/{pid}.xml"] = problem_xml(q, n)
                     probs.append(pid)
                 files[f"vertical/{qid}.xml"] = (
-                    f'<vertical display_name="Check your understanding">\n'
+                    f'<vertical display_name="Check your understanding" discussion_enabled="false">\n'
                     + "".join(f'  <problem url_name="{p}"/>\n' for p in probs)
                     + "</vertical>\n"
                 )
@@ -515,7 +515,7 @@ def build(book, chapters, run="2026"):
                  'behind it once you submit.</p>')
         files["html/final-about.html"] = olx.page(about) + "\n"
         files["html/final-about.xml"] = '<html filename="final-about" display_name="Before you begin"/>\n'
-        files["vertical/final-about.xml"] = '<vertical display_name="Before you begin">\n  <html url_name="final-about"/>\n</vertical>\n'
+        files["vertical/final-about.xml"] = '<vertical display_name="Before you begin" discussion_enabled="false">\n  <html url_name="final-about"/>\n</vertical>\n'
         verts = ["final-about"]
         for start in range(0, len(final), 10):
             part = final[start:start + 10]
@@ -526,7 +526,7 @@ def build(book, chapters, run="2026"):
                 files[f"problem/{pid}.xml"] = problem_xml(q, n, max_attempts=1)
                 probs.append(pid)
             files[f"vertical/{vid}.xml"] = (
-                f'<vertical display_name="Questions {start + 1}-{start + len(part)}">\n'
+                f'<vertical display_name="Questions {start + 1}-{start + len(part)}" discussion_enabled="false">\n'
                 + "".join(f'  <problem url_name="{p}"/>\n' for p in probs) + "</vertical>\n")
             verts.append(vid)
         files["sequential/final-exam.xml"] = (
@@ -542,14 +542,27 @@ def build(book, chapters, run="2026"):
         + "</course>\n"
     )
     # custom pages in the course menu (docs.openedx.org, "Create Course Tabs in OLX")
-    tabs = [{"type": "courseware", "name": "Course"}, {"type": "progress", "name": "Progress"}]
+    tabs = [{"type": "courseware", "name": "Course"}, {"type": "progress", "name": "Progress"},
+            {"type": "discussion", "name": "Discussion"}]
     people = people_page(book, name)
     if people:
         files["tabs/people.html"] = people + "\n"
         tabs.append({"course_staff_only": False, "name": f"People of {name}", "type": "static_tab", "url_slug": "people"})
+    tabs.append({"type": "edxnotes", "name": "Notes"})
     files[f"policies/{run}/policy.json"] = json.dumps(
         {f"course/{run}": {"display_name": name, "language": "en", "start": "2026-01-01T00:00:00Z",
-                           "self_paced": True, "tabs": tabs}},
+                           "self_paced": True, "tabs": tabs,
+                           # a discussion on every lesson page, none on the quizzes (discussion_enabled below);
+                           # the chapters are graded, so graded units must allow it
+                           "discussions_settings": {"enable_graded_units": True, "enable_in_context": True,
+                                                    "provider_type": "openedx", "unit_level_visibility": True},
+                           "edxnotes": True,
+                           # a certificate of completion as soon as a learner passes (70%)
+                           "cert_html_view_enabled": True,
+                           "certificates_display_behavior": "early_no_info",
+                           "certificates": {"certificates": [{
+                               "id": 1, "version": 1, "is_active": True, "name": name, "course_title": name,
+                               "description": f"Certificate of completion for {name}", "signatories": []}]}}},
         indent=2) + "\n"
     grader = [{"type": "Quiz", "short_label": "Q", "min_count": 1, "drop_count": 0, "weight": 0.4 if final else 1.0}]
     if final:
