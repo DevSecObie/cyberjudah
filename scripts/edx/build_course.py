@@ -244,6 +244,14 @@ def build(book, chapters, run="2026"):
         {"GRADER": [{"type": "Quiz", "short_label": "Q", "min_count": 1, "drop_count": 0, "weight": 1.0}],
          "GRADE_CUTTERS": {"Pass": 0.7}}, indent=2) + "\n"
     files["policies/assets.json"] = "{}\n"
+    # our own About page, so Open edX's default (with its outside links) is not used
+    files["about/overview.html"] = (
+        f"<section class=\"about\"><h2>About this course</h2>\n"
+        f"<p>Read the book of {html.escape(name)} in the King James Version, chapter by chapter, with the "
+        f"study notes from the 4 Chapters a Day readings. Each chapter opens with the whole text, then "
+        f"walks through it verse block by verse block, and ends with a short quiz.</p></section>\n"
+    )
+    files["about/short_description.html"] = f"Read {html.escape(name)} in the KJV with the 4 Chapters a Day study notes.\n"
     return files
 
 

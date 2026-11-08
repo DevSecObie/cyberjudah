@@ -17,6 +17,7 @@ class BuildCourse(unittest.TestCase):
         # the chapter itself comes first, all 31 verses
         self.assertIn('display_name="Read Genesis 1"', files["vertical/genesis-1-01.xml"])
         self.assertEqual(files["html/genesis-1-01.html"].count("<p><sup>"), 31)
+        self.assertIn("about/overview.html", files)
 
     def test_every_quiz_parses(self):
         for path in glob.glob(os.path.join(b.QUIZZES, "*", "*.json")):
