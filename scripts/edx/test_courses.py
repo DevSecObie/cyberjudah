@@ -44,6 +44,14 @@ class Courses(unittest.TestCase):
         self.assertIn('<choice correct="true">Curse:', probs[0])
         self.assertEqual(probs[0].count('correct="true"'), 1)
 
+    def test_bible_lessons_get_their_class_clip(self):
+        import build_course
+        sources = {build_course.bullet_key("A point taught."): {"video": "abc", "t": 100, "ts": "1:40",
+                                                                 "title": "A class", "date": "2025-01-01"}}
+        body = "**[Genesis 1:1](x)**\n\n> In the beginning\n\n- A point taught.\n"
+        units = build_course.units(body, sources)
+        self.assertEqual(units[-1][2], ("abc", 90, 220))
+
     def test_scripture_lookup(self):
         self.assertEqual(build_topics.verses("Genesis", 1, "1")[0][1][:23], "In the beginning God cr")
         self.assertEqual(len(build_topics.verses("Genesis", 2, "7-9")), 3)

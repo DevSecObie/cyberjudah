@@ -235,7 +235,7 @@ def units(body, sources=None):
 def clip_for(block_lines, sources):
     """The moment of the class that taught most of this block: from the first point taught there
     to two minutes past the last."""
-    found = [sources.get(bullet_key(l[2:])) for l in block_lines if l.startswith("- ")]
+    found = [sources.get(bullet_key(SOURCE_MARK.sub("", l[2:]))) for l in block_lines if l.startswith("- ")]
     found = [f for f in found if f and f.get("video") and f.get("t") is not None]
     if not found:
         return None
