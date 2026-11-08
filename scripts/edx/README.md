@@ -9,7 +9,37 @@ python3 scripts/edx/build_course.py genesis --chapters 1-4   # the first reading
 python3 scripts/edx/build_course.py genesis                  # every chapter with a note
 ```
 
-It writes `dist/edx/<book>.tar.gz` and needs nothing but Python 3.9+.
+It writes `dist/edx/<book>.tar.gz` and needs nothing but Python 3.9+ (Pillow, if installed,
+adds a course card image).
+
+## Every course
+
+```
+python3 scripts/edx/build_all.py                 # all 105 courses, plus dist/edx/manifest.tsv
+python3 scripts/edx/build_all.py --only classes  # or books, cases, topics
+```
+
+| Kind | Builder | Courses |
+|---|---|---|
+| Books | `build_course.py` | one per book of the Bible, Apocrypha included (81) |
+| Classes | `build_series.py` | one per series or show: IUIC in the ClassRoom, Our Hidden History, 15 Minutes w/ The Captains, Giving The Sense From A to Z, and the rest (20) |
+| Case Studies | `build_cases.py` | one course, a section per era, a subsection per case (337) |
+| Topics | `build_topics.py` | The Law (handbook), Encyclopedia, Precepts |
+
+All of them are plain OLX as described in the Open edX docs
+([course structure](https://docs.openedx.org/en/latest/educators/olx/organizing-course/course-xml-file.html),
+[video components](https://docs.openedx.org/en/latest/educators/olx/components/video-components.html),
+[course policies](https://docs.openedx.org/en/latest/educators/olx/policies/course.html),
+[grading policy](https://docs.openedx.org/en/latest/educators/olx/policies/grading.html)).
+The lesson pages are plain text, headings and lists with no colours or styles of their own, so
+they take the platform's theme, light or dark.
+
+**Clips of a class.** A class unit plays only its part of the class: the video component's
+`start_time` and `end_time`, taken from the timestamp where that scripture is opened in the note
+to where the next one starts. The video stays on YouTube; nothing is downloaded or hosted.
+
+`olx.check()` (run by `test_courses.py` on every course) makes sure each XML file parses, each
+`url_name` points at a file that exists, and the only links are YouTube.
 
 ## How a book becomes a course
 

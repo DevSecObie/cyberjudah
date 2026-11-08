@@ -40,6 +40,8 @@ class BuildCourse(unittest.TestCase):
         self.assertEqual(b.inline("[x](https://example.com)"), "x")
         files = b.build("genesis", [1])
         for name, text in files.items():
+            if isinstance(text, bytes):  # the course card image
+                continue
             for url in re.findall(r'href="([^"]+)"', text):
                 self.assertRegex(url, b.YOUTUBE, name)
 

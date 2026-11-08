@@ -23,7 +23,11 @@ chapter without a study note yet still gets its "Read" unit with the full text.
 
 Standard library only, so it runs anywhere Python 3.9+ does.
 """
-import argparse, html, io, json, os, re, sys, tarfile
+import argparse, html, json, os, re, sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import olx  # noqa: E402
+from olx import write_tar  # noqa: E402,F401  (kept importable from here)
 
 ROOT = os.environ.get("CJ_ROOT") or os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 QUIZZES = os.path.join(ROOT, "scripts", "edx", "quizzes")
@@ -33,8 +37,9 @@ PER_SECTION = 4  # chapters per reading session, as in 4 Chapters a Day
 
 # ---------------------------------------------------------------- markdown (the subset the notes use)
 
-LINK = re.compile(r"\[([^\]]+)\]\(([^)\s]+)\)")
-BOLD = re.compile(r"\*\*(.+?)\*\*")
+LINK = re.compile(r"\[([^\[\]]+)\]\(([^)\s]+)\)")
+BOLD = re.compile(r"\*\*((?:[^*]|\*[^*\s][^*]*\*)+?)\*\*")  # may hold an *italic* inside
+ITALIC = re.compile(r"(?<![*\w])\*(?![*\s])(.+?)(?<![*\s])\*(?![*\w])")
 
 
 YOUTUBE = re.compile(r"^https?://(www\.|m\.)?(youtube\.com|youtu\.be)/")
@@ -44,7 +49,8 @@ def link(m):
     """Only YouTube links leave the course; every other link keeps just its text."""
     text, url = m.group(1), m.group(2)
     if YOUTUBE.match(url):
-        return f'<a href="{html.escape(url)}" target="_blank" rel="noopener">{text}</a>'
+        # inline() has escaped the whole line already, url included
+        return f'<a href="{url}" target="_blank" rel="noopener">{text}</a>'
     return text
 
 
@@ -52,7 +58,11 @@ def inline(text):
     out = html.escape(text, quote=False)
     out = out.replace("&lt;sup&gt;", "<sup>").replace("&lt;/sup&gt;", "</sup>")
     out = LINK.sub(link, out)
-    return BOLD.sub(r"<strong>\1</strong>", out)
+    return ITALIC.sub(r"<em>\1</em>", BOLD.sub(r"<strong>\1</strong>", out))
+
+
+# the website's own markup in a note (video mounts, wrappers, figures): not course content
+SITE_HTML = re.compile(r"<!--|</?(div|span|p|figure|img|iframe|script)\b")
 
 
 def indent(line):
@@ -65,7 +75,8 @@ def render(lines):
     while i < len(lines):
         line = lines[i]
         s = line.strip()
-        if not s:
+        if not s or SITE_HTML.match(s):
+            # blank, or the site's own html (video mounts, figures, wrappers): not course content
             i += 1
         elif s.startswith("#"):
             level = min(len(s) - len(s.lstrip("#")) + 1, 6)
@@ -79,18 +90,20 @@ def render(lines):
             out.append(f"<blockquote>{render(body)}</blockquote>")
         elif s.startswith("- "):
             items = []
-            while i < len(lines) and lines[i].startswith("- "):
-                item = [lines[i][2:]]
+            base = indent(line)
+            while i < len(lines) and indent(lines[i]) == base and lines[i].strip().startswith("- "):
+                item = [lines[i].strip()[2:]]
                 i += 1
-                # an item runs on while lines are indented, blank lines included
-                while i < len(lines) and (not lines[i].strip() or indent(lines[i]) >= 2):
-                    item.append(lines[i][2:] if lines[i].strip() else "")
+                # an item runs on while lines are indented further, blank lines included
+                while i < len(lines) and (not lines[i].strip() or indent(lines[i]) >= base + 2):
+                    item.append(lines[i][base + 2:] if lines[i].strip() else "")
                     i += 1
                 items.append(item)
             out.append("<ul>" + "".join(f"<li>{render(it)}</li>" for it in items) + "</ul>")
         else:
             para = []
-            while i < len(lines) and lines[i].strip() and not re.match(r"\s*(#|>|- )", lines[i]):
+            while i < len(lines) and lines[i].strip() and not re.match(r"\s*(#|>|- )", lines[i]) \
+                    and not SITE_HTML.match(lines[i].strip()):
                 para.append(lines[i].strip())
                 i += 1
             out.append(f"<p>{inline(' '.join(para))}</p>")
@@ -113,7 +126,7 @@ def read_note(book, chapter):
     return meta, body.strip("\n")
 
 
-BLOCK = re.compile(r"^\*\*\[([^\]]+)\]\([^)]+\)\*\*\s*$")
+BLOCK = re.compile(r"^\*\*\[([^\]]+)\]\([^)]+\)\*\*(\s+\*\[\[[^\]]+\]\([^)]+\)\]\*)?\s*$")
 
 
 def units(body):
@@ -168,7 +181,7 @@ def build(book, chapters, run="2026"):
         sys.exit(f"unknown book: {book}")
     name = index[book]["book"]
     files = {}  # path inside the course folder -> text
-    code = re.sub(r"[^A-Za-z0-9]", "", name)[:12].upper()
+    code = re.sub(r"[^A-Za-z0-9]", "", name).upper()
 
     sections = {}
     for ch in chapters:
@@ -246,8 +259,14 @@ def build(book, chapters, run="2026"):
         indent=2) + "\n"
     files[f"policies/{run}/grading_policy.json"] = json.dumps(
         {"GRADER": [{"type": "Quiz", "short_label": "Q", "min_count": 1, "drop_count": 0, "weight": 1.0}],
-         "GRADE_CUTTERS": {"Pass": 0.7}}, indent=2) + "\n"
+         "GRADE_CUTOFFS": {"Pass": 0.7}}, indent=2) + "\n"
     files["policies/assets.json"] = "{}\n"
+    card = olx.card_png(name, "The Books", "book")
+    if card:
+        files["static/course_card.png"] = card
+        policy = json.loads(files[f"policies/{run}/policy.json"])
+        policy[f"course/{run}"]["course_image"] = "course_card.png"
+        files[f"policies/{run}/policy.json"] = json.dumps(policy, indent=2) + "\n"
     # our own About page, so Open edX's default (with its outside links) is not used
     files["about/overview.html"] = (
         f"<section class=\"about\"><h2>About this course</h2>\n"
@@ -257,17 +276,6 @@ def build(book, chapters, run="2026"):
     )
     files["about/short_description.html"] = f"Read {html.escape(name)} in the KJV with the 4 Chapters a Day study notes.\n"
     return files
-
-
-def write_tar(files, path):
-    os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
-    with tarfile.open(path, "w:gz") as tar:
-        for name in sorted(files):
-            data = files[name].encode("utf-8")
-            info = tarfile.TarInfo(f"course/{name}")
-            info.size = len(data)
-            info.mtime = 0
-            tar.addfile(info, io.BytesIO(data))
 
 
 def parse_chapters(spec, book):
