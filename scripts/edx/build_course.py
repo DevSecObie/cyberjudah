@@ -1,6 +1,6 @@
 """Build an Open edX course (OLX) from the 4 Chapters a Day study notes.
 
-    build_course.py genesis                     every chapter of Genesis that has a note
+    build_course.py genesis                     every chapter of Genesis
     build_course.py genesis --chapters 1        just Genesis 1 (the pilot)
     build_course.py genesis --chapters 1-4      a range
     build_course.py genesis --out /some/dir     where the .tar.gz goes (default: dist/edx)
@@ -18,7 +18,8 @@ How a book maps onto a course:
 
 The notes stay the source. Rebuild and re-import after a note changes; Studio replaces the
 course content in place. Quizzes come from scripts/edx/quizzes/<book>/<chapter>.json, drafted
-from the note and reviewed by hand. A chapter without a quiz file simply has no quiz.
+from the note and reviewed by hand. A chapter without a quiz file simply has no quiz, and a
+chapter without a study note yet still gets its "Read" unit with the full text.
 
 Standard library only, so it runs anywhere Python 3.9+ does.
 """
@@ -171,7 +172,10 @@ def build(book, chapters, run="2026"):
 
     sections = {}
     for ch in chapters:
+        # a chapter with no study note yet is still there to read
         note = read_note(book, ch)
+        if not note and chapter_text(book, ch):
+            note = ({"title": f"{name} {ch}"}, "")
         if note:
             sections.setdefault((ch - 1) // PER_SECTION, []).append((ch, note))
     if not sections:
@@ -266,9 +270,11 @@ def write_tar(files, path):
             tar.addfile(info, io.BytesIO(data))
 
 
-def parse_chapters(spec, total):
+def parse_chapters(spec, book):
     if not spec:
-        return list(range(1, total + 1))
+        # not always 1..n: Greek Esther exists only as chapters 10-16
+        chapters = json.load(open(os.path.join(ROOT, "data", "bible", f"{book}.json"), encoding="utf-8"))["chapters"]
+        return sorted(int(c) for c in chapters)
     out = []
     for part in spec.split(","):
         a, _, b = part.partition("-")
@@ -286,7 +292,7 @@ def main():
     books = {b["slug"]: b for b in json.load(open(os.path.join(ROOT, "data", "bible", "index.json")))}
     if a.book not in books:
         sys.exit(f"unknown book: {a.book}")
-    files = build(a.book, parse_chapters(a.chapters, books[a.book]["chapters"]), a.run)
+    files = build(a.book, parse_chapters(a.chapters, a.book), a.run)
     path = os.path.join(a.out, f"{a.book}.tar.gz")
     write_tar(files, path)
     print(f"{path}: {sum(1 for f in files if f.startswith('vertical/'))} units, "
