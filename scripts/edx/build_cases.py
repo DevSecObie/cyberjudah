@@ -26,6 +26,11 @@ def paras(items):
     return "\n".join(f"<p>{html.escape(p, quote=False)}</p>" for p in items if p)
 
 
+def refs_text(refs):
+    return "; ".join(html.escape(f"{r['book']} {r['chapter']}" + (f":{r['verses']}" if r.get("verses") else ""))
+                     for r in refs or [])
+
+
 def refs_line(refs):
     if not refs:
         return ""
@@ -40,16 +45,10 @@ def verdict_problem(case, verdicts):
     others = sorted((k for k in keys if k != right),
                     key=lambda k: hashlib.sha1(f"{case['slug']}:{k}".encode()).hexdigest())[:3]
     choices = sorted([right] + others, key=keys.index)
-    opts = "".join(
-        f'<choice correct="{"true" if k == right else "false"}">{html.escape(k.capitalize())}: '
-        f'{html.escape(verdicts[k])}</choice>' for k in choices)
-    why = paras(case.get("judgmentFull") or case.get("judgment") or "")
-    return (
-        f'<problem display_name="The verdict" max_attempts="1" weight="0" showanswer="finished">\n'
-        f'<multiplechoiceresponse>\n<label>By the law, what was the verdict on {html.escape(case["name"])}?</label>\n'
-        f'<choicegroup type="MultipleChoice">{opts}</choicegroup>\n</multiplechoiceresponse>\n'
-        f'<solution><div class="detailed-solution"><p>What scripture records: {html.escape(right.capitalize())}</p>'
-        f'{why}</div></solution>\n</problem>\n')
+    why = f"<p>What scripture records: {html.escape(right.capitalize())}, {html.escape(verdicts[right])}.</p>"
+    return olx.single_select("Your verdict", f"By the law, what was the verdict on {case['name']}?",
+                             [f"{k.capitalize()}: {verdicts[k]}" for k in choices], choices.index(right), why,
+                             max_attempts=1, weight=0, shuffle=False)
 
 
 def build():
@@ -78,17 +77,23 @@ def build():
         sec = c.section(era, uid=f"era-{n:02d}")
         for case in cases:
             sub = sec.subsection(f"{case['code']} {case['name']}", uid=f"case-{case['code'].lower()}")
-            charge = (f"<h3>The charge</h3>\n{paras(case['charge'])}\n<h3>The offense</h3>\n"
-                      f"{paras(case.get('offenseFull') or case.get('offense'))}\n{refs_line(case.get('refs'))}")
-            sub.unit("The charge", html=charge)
-            sub.unit("The verdict", problems=[verdict_problem(case, verdicts)])
+            facts = (f'<ul class="facts"><li><b>Case</b>{html.escape(case["code"])}</li>'
+                     f'<li><b>Era</b>{html.escape(case["era"])}</li>'
+                     + f'<li><b>Scriptures</b>{len(case.get("refs") or [])} passages</li></ul>')
+            charge = (f'{facts}\n<h3>The charge</h3>\n<p class="lead">{html.escape(case["charge"], quote=False)}</p>\n'
+                      f'<h3>The offense</h3>\n{paras(case.get("offenseFull") or case.get("offense"))}\n'
+                      + (f'<h3>Read</h3>\n<p class="note">{refs_text(case.get("refs"))}</p>\n' if case.get("refs") else "")
+                      + '<p class="lead">Judge it by the law, then give your verdict below.</p>')
+            sub.unit("The case", html=olx.page(charge), problems=[verdict_problem(case, verdicts)])
             v = case["verdict"]
-            record = (f"<h3>{html.escape(v.capitalize())}</h3>\n<p><em>{html.escape(verdicts.get(v, ''))}</em></p>\n"
-                      f"{paras(case.get('judgmentFull') or case.get('judgment'))}\n"
-                      f"<h3>Summary</h3>\n{paras(case.get('summary'))}")
+            record = (f'<div class="verdict"><p class="label">The verdict</p><p class="name">{html.escape(v.capitalize())}</p>'
+                      f'<p class="note">{html.escape(verdicts.get(v, ""))}</p></div>\n'
+                      f'<h3>What scripture records</h3>\n{paras(case.get("judgmentFull") or case.get("judgment"))}\n'
+                      f'<h3>Summary</h3>\n{paras(case.get("summary"))}')
             if case.get("laws"):
-                record += "\n<p><strong>The law:</strong> " + ", ".join(html.escape(str(x)) for x in case["laws"]) + \
-                          " (see The Law handbook course)</p>"
+                record += ('\n<h3>The law</h3>\n<p>' + ", ".join(html.escape(str(x)) for x in case["laws"])
+                           + ' <span class="note">(numbered as in The Law course)</span></p>')
+            record = olx.page(record)
             sub.unit("What scripture records", html=record)
     return c
 

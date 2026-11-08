@@ -1,0 +1,54 @@
+{
+  "chapter": "Genesis 13",
+  "status": "draft: drafted from docs/study/genesis/13.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "When scripture speaks of Abram being rich, what kind of wealth is it?",
+      "choices": [
+        "Carnal riches to show off",
+        "Livestock, land and what takes care of a family",
+        "Wealth he would give away",
+        "Money from trade with Babylon"
+      ],
+      "answer": 1,
+      "explain": "Build houses, plant gardens and eat the fruit of them (Jeremiah 29:5); that is true wealth.",
+      "ref": "Genesis 13:1-2; Jeremiah 29:5"
+    },
+    {
+      "q": "What spirit did Abram show when the herdmen strove?",
+      "choices": [
+        "He drove Lot away by force",
+        "He asked Pharaoh to judge",
+        "A peacemaker's: let there be no strife, for we be brethren",
+        "He took the best land for himself"
+      ],
+      "answer": 2,
+      "explain": "Blessed are the peacemakers, for they shall be called the children of God (Matthew 5:9).",
+      "ref": "Genesis 13:8-9; Matthew 5:9"
+    },
+    {
+      "q": "Where did Lot pitch his tent, and where did it lead?",
+      "choices": [
+        "Toward Sodom, and he ended up dwelling in Sodom",
+        "Toward Egypt, and he went down to Egypt",
+        "Toward Hebron, beside Abram",
+        "Toward Ur, back to his father's house"
+      ],
+      "answer": 0,
+      "explain": "Toward Sodom became in Sodom; Genesis 14:12 shows Lot dwelt in Sodom.",
+      "ref": "Genesis 13:10-13; Genesis 14:12"
+    },
+    {
+      "q": "What was Lot to Abram?",
+      "choices": [
+        "His brother",
+        "His nephew, the son of Haran",
+        "His servant",
+        "His son by Hagar"
+      ],
+      "answer": 1,
+      "explain": "Terah begat Abram, Nahor and Haran, and Haran begat Lot.",
+      "ref": "Genesis 13:5-7; Genesis 11:27"
+    }
+  ]
+}

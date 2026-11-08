@@ -26,7 +26,7 @@ import argparse, collections, glob, json, os, re, sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import olx  # noqa: E402
-from build_course import ROOT, BLOCK, render, chapter_text  # noqa: E402
+from build_course import ROOT, BLOCK, lesson_html, chapter_text  # noqa: E402
 
 SOURCES = ["blog", "captains", os.path.join("history", "notes")]
 PER_SECTION = 30
@@ -116,7 +116,7 @@ def add_class(sec, meta, body):
         about.append(f"<p><strong>{olx.html.escape(meta['teacher'])}</strong></p>")
     if meta.get("description"):
         about.append(f"<p>{olx.html.escape(meta['description'])}</p>")
-    sub.unit("Watch the class", html="\n".join(about) or None, video=vid)
+    sub.unit("Watch the class", html=olx.page("\n".join(about)) if about else None, video=vid)
     parts = lessons(body)
     stamps = [first_stamp(ls) for _, ls in parts]
     for n, (t, ls) in enumerate(parts):
@@ -125,7 +125,8 @@ def add_class(sec, meta, body):
         clip = (vid, start, end) if vid and start is not None else None
         # the heading line of a scripture block is the unit title already
         body_lines = ls[1:] if ls and BLOCK.match(ls[0].strip()) else ls
-        sub.unit(t, html=render(body_lines) or None, video=clip)
+        body_html = lesson_html(body_lines)
+        sub.unit(t, html=olx.page(body_html) if body_html.strip() else None, video=clip)
     return sub
 
 

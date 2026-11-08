@@ -61,8 +61,10 @@ class Section:
 
 
 class Course:
-    def __init__(self, code, name, about="", short="", kind="book", subtitle=""):
+    def __init__(self, code, name, about="", short="", kind="book", subtitle="", outcomes=(), prerequisites="",
+                 staff=()):
         self.code, self.name, self.about, self.short, self.kind = code, name, about, short, kind
+        self.outcomes, self.prerequisites, self.staff = list(outcomes), prerequisites, list(staff)
         self.subtitle = subtitle
         self.sections = []
         self.extra = {}  # more files, e.g. from a builder that writes its own
@@ -128,21 +130,96 @@ class Course:
         f[f"policies/{RUN}/grading_policy.json"] = json.dumps(
             {"GRADER": [{"type": "Quiz", "short_label": "Q", "min_count": 1, "drop_count": 0, "weight": 1.0}]
              if graded else [], "GRADE_CUTOFFS": {"Pass": 0.7}}, indent=2) + "\n"
-        f["policies/assets.json"] = "{}\n"
-        f["about/overview.html"] = (f'<section class="about"><h2>About this course</h2>\n'
-                                    f"<p>{html.escape(self.about)}</p></section>\n")
+        add_static(f, self.code)
+        f["about/overview.html"] = overview_html(self.about, self.outcomes, self.prerequisites, self.staff)
         f["about/short_description.html"] = html.escape(self.short or self.about) + "\n"
         return f
 
 
-def intro_html(welcome, steps, closing=""):
-    """Plain html for an Introduction unit: a welcome paragraph, then how the course works."""
-    out = [f"<p>{html.escape(welcome, quote=False)}</p>", "<h3>How this course works</h3>", "<ul>"]
-    out += [f"<li><strong>{html.escape(k, quote=False)}</strong> {html.escape(v, quote=False)}</li>" for k, v in steps]
-    out.append("</ul>")
+CSS = "cjlearn.css"
+CSS_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "static", CSS)
+
+
+def page(body_html, cls=""):
+    """A Text component's html: the course stylesheet, then the content in one styled block."""
+    c = f"cj {cls}".strip()
+    return f'<link rel="stylesheet" type="text/css" href="/static/{CSS}"/>\n<div class="{c}">\n{body_html}\n</div>'
+
+
+def add_static(files, code):
+    """The stylesheet into static/, and every static file in policies/assets.json, as the docs ask
+    ("Create Course Assets and Textbooks in OLX")."""
+    files[f"static/{CSS}"] = open(CSS_PATH, encoding="utf-8").read()
+    types = {".png": "image/png", ".css": "text/css", ".jpg": "image/jpeg"}
+    assets = {}
+    for name in sorted(k for k in files if k.startswith("static/")):
+        fn = name[len("static/"):]
+        assets[fn] = {"contentType": types.get(os.path.splitext(fn)[1], "application/octet-stream"),
+                      "content_son": {"category": "asset", "course": code, "name": fn, "org": ORG,
+                                      "revision": None, "run": RUN, "tag": "c4x"},
+                      "displayname": fn, "filename": f"/c4x/{ORG}/{code}/asset/{fn}", "import_path": None,
+                      "locked": False, "thumbnail_location": None}
+    files["policies/assets.json"] = json.dumps(assets, indent=2) + "\n"
+
+
+def esc(t):
+    return html.escape(t, quote=False)
+
+
+def intro_html(welcome, steps, closing="", outcomes=()):
+    """Plain html for an Introduction unit: a welcome paragraph, what you will learn, then how the
+    course works. Headings start at h3: the page around a component already uses h1 and h2
+    (docs.openedx.org, Accessibility Best Practices Checklist, "Use Best Practices for HTML Markup")."""
+    out = [f'<p class="lead">{esc(welcome)}</p>']
+    if outcomes:
+        out += ["<h3>What you will learn</h3>", "<ul>"] + [f"<li>{esc(o)}</li>" for o in outcomes] + ["</ul>"]
+    out += ["<h3>How this course works</h3>", '<ol class="steps">']
+    out += [f"<li><strong>{esc(k.rstrip('.'))}</strong> {esc(v)}</li>" for k, v in steps]
+    out.append("</ol>")
     if closing:
-        out.append(f"<p>{html.escape(closing, quote=False)}</p>")
-    return "\n".join(out)
+        out.append(f'<p class="note">{esc(closing)}</p>')
+    return page("\n".join(out))
+
+
+def overview_html(about, outcomes=(), prerequisites="", staff=()):
+    """about/overview.html as in the docs' template (docs.openedx.org, "Create Course Overview in
+    OLX"): an about section, then prerequisites and the course team."""
+    paras = [about] if isinstance(about, str) else list(about)
+    out = ['<section class="about">', "  <h2>About This Course</h2>"]
+    out += [f"  <p>{esc(p)}</p>" for p in paras if p]
+    if outcomes:
+        out += ["  <h3>What you will learn</h3>", "  <ul>"] + [f"    <li>{esc(o)}</li>" for o in outcomes] + ["  </ul>"]
+    out.append("</section>")
+    out += ['<section class="prerequisites">', "  <h2>Prerequisites</h2>",
+            f"  <p>{esc(prerequisites or 'None. Bring a King James Bible with the Apocrypha, or read it here in the course.')}</p>",
+            "</section>"]
+    if staff:
+        out += ['<section class="course-staff">', "  <h2>Course Team</h2>"]
+        for name, bio in staff:
+            out += ['  <article class="teacher">', f"    <h3>{esc(name)}</h3>", f"    <p>{esc(bio)}</p>", "  </article>"]
+        out.append("</section>")
+    return "\n".join(out) + "\n"
+
+
+def single_select(display_name, label, choices, correct, explain_html="", max_attempts=2, weight=1,
+                  shuffle=True, showanswer="finished"):
+    """A single select problem in the documented OLX shape (docs.openedx.org, "Single Select Problem
+    XML"): label, choices, feedback on the right choice saying why it is right, and the explanation
+    in a solution inside the response."""
+    opts = []
+    for j, c in enumerate(choices):
+        hint = ""
+        if j == correct and explain_html:  # the docs' choicehint is plain text
+            hint = "<choicehint>" + esc(" ".join(html.unescape(re.sub(r"<[^>]+>", " ", explain_html)).split())) + "</choicehint>"
+        opts.append(f'      <choice correct="{"true" if j == correct else "false"}">{esc(c)}{hint}</choice>')
+    solution = (f'    <solution>\n      <div class="detailed-solution">\n        <p>Explanation</p>\n'
+                f"        {explain_html}\n      </div>\n    </solution>\n") if explain_html else ""
+    return (f'<problem display_name="{attr(display_name)}" max_attempts="{max_attempts}" weight="{weight}" '
+            f'showanswer="{showanswer}">\n'
+            f"  <multiplechoiceresponse>\n    <label>{esc(label)}</label>\n"
+            f'    <choicegroup type="MultipleChoice"{" shuffle=\"true\"" if shuffle else ""}>\n'
+            + "\n".join(opts) + "\n    </choicegroup>\n" + solution
+            + "  </multiplechoiceresponse>\n</problem>\n")
 
 
 # ---------------------------------------------------------------- course card
@@ -245,7 +322,7 @@ def check(files):
                     errs.append(f"{name}: missing {child.tag}/{ref}.xml")
         if isinstance(data, str) and name.endswith((".html", ".xml")):
             for url in HREF.findall(data):
-                if not YOUTUBE_URL.match(html.unescape(url)):
+                if not YOUTUBE_URL.match(html.unescape(url)) and not url.startswith("/static/"):
                     errs.append(f"{name}: link outside the course: {url}")
         if name.startswith("html/") and name.endswith(".html"):
             try:

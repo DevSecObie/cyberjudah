@@ -13,7 +13,7 @@ import argparse, collections, glob, html, json, os, re, sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import olx  # noqa: E402
-from build_course import ROOT, render  # noqa: E402
+from build_course import ROOT, render, lesson_html  # noqa: E402
 
 _BOOKS, _TEXT = None, {}
 
@@ -27,7 +27,8 @@ def verses(book, chapter, spec):
     if not slug:
         return []
     if slug not in _TEXT:
-        _TEXT[slug] = json.load(open(os.path.join(ROOT, "data", "bible", f"{slug}.json"), encoding="utf-8"))["chapters"]
+        with open(os.path.join(ROOT, "data", "bible", f"{slug}.json"), encoding="utf-8") as fh:
+            _TEXT[slug] = json.load(fh)["chapters"]
     vs = _TEXT[slug].get(str(chapter)) or []
     want = []
     for part in str(spec or "").replace(" ", "").split(","):
@@ -48,8 +49,12 @@ def ref_name(r):
 def passage(r):
     vs = verses(r["book"], r["chapter"], r.get("verses"))
     body = " ".join(f"<sup>{n}</sup> {html.escape(t, quote=False)}" for n, t in vs)
-    return f"<p><strong>{html.escape(ref_name(r))}</strong></p>\n<blockquote><p>{body}</p></blockquote>" if body else \
-           f"<p><strong>{html.escape(ref_name(r))}</strong></p>"
+    head = f'<span class="ref">{html.escape(ref_name(r))}</span>'
+    return f"<li>{head}<blockquote><p>{body}</p></blockquote></li>" if body else f"<li>{head}</li>"
+
+
+def cards(items):
+    return '<ul class="cards">\n' + "\n".join(items) + "\n</ul>"
 
 
 # ---------------------------------------------------------------- The Law
@@ -76,15 +81,15 @@ def build_law():
             rows = []
             for e in s["entries"]:
                 cite = f' <em>({html.escape(e["citation"])})</em>' if e.get("citation") else ""
-                rows.append(f"<li><strong>{s['id']}.{e['n']}</strong> {html.escape(e['text'], quote=False)}{cite}</li>")
-            sub.unit(s["title"], html="<ul>\n" + "\n".join(rows) + "\n</ul>")
+                rows.append(f'<li><span class="ref">{s["id"]}.{e["n"]}</span>{html.escape(e["text"], quote=False)}{cite}</li>')
+            sub.unit(s["title"], html=olx.page(f"<h3>{html.escape(s['title'])}</h3>\n" + cards(rows)))
             # the scripture behind each law, in full, on its own page
             scripture = []
             for e in s["entries"]:
                 for r in e.get("refs") or []:
                     scripture.append(passage(r))
             if scripture:
-                sub.unit("The scripture", html="\n".join(dict.fromkeys(scripture)))
+                sub.unit("The scripture", html=olx.page("<h3>The scripture</h3>\n" + cards(dict.fromkeys(scripture))))
     return c
 
 
@@ -130,10 +135,10 @@ def build_encyclopedia():
         for book, items in units.items():
             sub = sec.subsection(book, uid=f"enc-{n:02d}-{olx.slug(book)}")
             if first and any(l.strip() for l in intro):
-                sub.unit("Introduction", html=render(intro))
+                sub.unit("Introduction", html=olx.page(lesson_html(intro)))
                 first = False
             for title, ls in items:
-                sub.unit(title, html=render(ls))
+                sub.unit(title, html=olx.page(lesson_html(ls)))
     return c
 
 
@@ -171,7 +176,8 @@ def build_precepts():
             sub = sec.subsection(t["title"], uid=f"pre-{olx.slug(t['slug'])}")
             key = [r for r in t["refs"] if r.get("key")]
             rest = [r for r in t["refs"] if not r.get("key")]
-            sub.unit(t["title"], html="\n".join(passage(r) for r in key + rest))
+            sub.unit(t["title"], html=olx.page(f"<h3>{html.escape(t['title'])}: the scriptures</h3>\n"
+                                               + cards([passage(r) for r in key + rest])))
     return c
 
 

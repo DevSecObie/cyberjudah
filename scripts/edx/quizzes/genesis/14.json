@@ -1,0 +1,54 @@
+{
+  "chapter": "Genesis 14",
+  "status": "draft: drafted from docs/study/genesis/14.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "How many trained servants did Abram arm to rescue Lot?",
+      "choices": [
+        "Seventy",
+        "Twelve thousand",
+        "Forty",
+        "Three hundred and eighteen"
+      ],
+      "answer": 3,
+      "explain": "He divided his men and moved by night; with them and his confederates he smote four kingdoms. Abram was a warrior.",
+      "ref": "Genesis 14:12-16"
+    },
+    {
+      "q": "Where does the victory of battle come from, according to the precepts read?",
+      "choices": [
+        "From the size of the army",
+        "From heaven; the battle is not yours but God's",
+        "From alliances with other kings",
+        "From iron chariots"
+      ],
+      "answer": 1,
+      "explain": "The victory of battle standeth not in the multitude of an host (1 Maccabees 3:18-19); the battle is God's (2 Chronicles 20:15).",
+      "ref": "Genesis 14:12-16; 1 Maccabees 3:18-19"
+    },
+    {
+      "q": "Who was Melchizedek?",
+      "choices": [
+        "A king of Sodom",
+        "One of the four Mesopotamian kings",
+        "A Levite priest",
+        "King of Salem, the king of peace, and priest of the Most High God"
+      ],
+      "answer": 3,
+      "explain": "Abram paid tithes to him, way before the Levitical priesthood.",
+      "ref": "Genesis 14:18-20"
+    },
+    {
+      "q": "Why did Abram refuse the goods the king of Sodom offered?",
+      "choices": [
+        "The goods were unclean",
+        "He had taken a vow of poverty",
+        "He gave them all to Melchizedek",
+        "Lest the king of Sodom say, I have made Abram rich"
+      ],
+      "answer": 3,
+      "explain": "He refused from a thread even to a shoelatchet; the young men who fought still took their portion.",
+      "ref": "Genesis 14:21-24"
+    }
+  ]
+}

@@ -43,7 +43,8 @@ class BuildCourse(unittest.TestCase):
             if isinstance(text, bytes):  # the course card image
                 continue
             for url in re.findall(r'href="([^"]+)"', text):
-                self.assertRegex(url, b.YOUTUBE, name)
+                if not url.startswith("/static/"):  # the course's own stylesheet
+                    self.assertRegex(url, b.YOUTUBE, name)
 
     def test_chapter_without_note_is_still_readable(self):
         self.assertFalse(os.path.exists(os.path.join(b.ROOT, "docs", "study", "2-john", "1.md")))

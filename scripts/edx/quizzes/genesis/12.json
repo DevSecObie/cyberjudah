@@ -1,0 +1,54 @@
+{
+  "chapter": "Genesis 12",
+  "status": "draft: drafted from docs/study/genesis/12.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "What did the Most High call Abram to leave?",
+      "choices": [
+        "Only the city of Ur",
+        "His wife Sarai",
+        "His country, his kindred and his father's house",
+        "His cattle and his gold"
+      ],
+      "answer": 2,
+      "explain": "He called Abraham alone, and blessed him, and increased him (Isaiah 51:2). Do not let your kindred hold you back.",
+      "ref": "Genesis 12:1; Isaiah 51:2"
+    },
+    {
+      "q": "Who are the 'families of the earth' blessed in Abraham's seed, according to the class?",
+      "choices": [
+        "Every person on earth",
+        "Only the Egyptians",
+        "The sons of Lot",
+        "Scattered Israel, the children of the prophets and of the covenant, in all nations"
+      ],
+      "answer": 3,
+      "explain": "Ye are the children of the prophets and of the covenant (Acts 3:25-26); Israel would be scattered into all nations.",
+      "ref": "Genesis 12:2-3; Acts 3:25-26"
+    },
+    {
+      "q": "How old was Abram when he departed into Canaan?",
+      "choices": [
+        "Ninety and nine",
+        "A hundred",
+        "Forty",
+        "Seventy and five years old"
+      ],
+      "answer": 3,
+      "explain": "Abram departed at seventy and five years old, with Sarai and Lot, into the land of Canaan.",
+      "ref": "Genesis 12:4-5"
+    },
+    {
+      "q": "Why did the Lord plague Pharaoh and his house?",
+      "choices": [
+        "Because Pharaoh refused to let Israel go",
+        "Because of a famine",
+        "Because Pharaoh worshipped idols",
+        "Because of Sarai, Abram's wife"
+      ],
+      "answer": 3,
+      "explain": "The Most High protected the household of Abram in Egypt.",
+      "ref": "Genesis 12:17-20"
+    }
+  ]
+}

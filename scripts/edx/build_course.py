@@ -23,7 +23,7 @@ chapter without a study note yet still gets its "Read" unit with the full text.
 
 Standard library only, so it runs anywhere Python 3.9+ does.
 """
-import argparse, html, json, os, re, sys
+import argparse, hashlib, html, json, os, re, sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import olx  # noqa: E402
@@ -71,6 +71,11 @@ def indent(line):
 
 def render(lines):
     """Paragraphs, headings, blockquotes and nested lists: everything a study note contains."""
+    return "\n".join(render_parts(lines))
+
+
+def render_parts(lines):
+    """render(), as a list of its top-level blocks."""
     out, i = [], 0
     while i < len(lines):
         line = lines[i]
@@ -79,7 +84,8 @@ def render(lines):
             # blank, or the site's own html (video mounts, figures, wrappers): not course content
             i += 1
         elif s.startswith("#"):
-            level = min(len(s) - len(s.lstrip("#")) + 1, 6)
+            # components may use only h3-h6; the page already uses h1 and h2 (Open edX accessibility docs)
+            level = min(len(s) - len(s.lstrip("#")) + 2, 6)
             out.append(f"<h{level}>{inline(s.lstrip('#').strip())}</h{level}>")
             i += 1
         elif s.startswith(">"):
@@ -106,8 +112,12 @@ def render(lines):
                     and not SITE_HTML.match(lines[i].strip()):
                 para.append(lines[i].strip())
                 i += 1
-            out.append(f"<p>{inline(' '.join(para))}</p>")
-    return "\n".join(out)
+            text = " ".join(para)
+            if text == "Precepts:":
+                out.append('<p class="label">Precepts</p>')
+            else:
+                out.append(f"<p>{inline(text)}</p>")
+    return out
 
 
 # ---------------------------------------------------------------- notes
@@ -129,19 +139,109 @@ def read_note(book, chapter):
 BLOCK = re.compile(r"^\*\*\[([^\]]+)\]\([^)]+\)\*\*(\s+\*\[\[[^\]]+\]\([^)]+\)\]\*)?\s*$")
 
 
-def units(body):
-    """Split a note into its introduction and one unit per verse block."""
+SOURCE_MARK = re.compile(r"\{\{source:(\d+)\}\}")
+_SOURCES = []
+_SOURCE_FILE = os.path.join(ROOT, "data", "study", "sources.json")
+_SOURCE_DATA = None
+
+
+def note_sources(book, chapter):
+    """{bullet key: source} for a study note, from data/study/sources.json (scripts/study/sources.py):
+    the class, teacher and moment each point of the note was taught in, where it was found."""
+    global _SOURCE_DATA
+    if _SOURCE_DATA is None:
+        _SOURCE_DATA = json.load(open(_SOURCE_FILE, encoding="utf-8")) if os.path.exists(_SOURCE_FILE) else {}
+    return _SOURCE_DATA.get(f"/study/{book}/{chapter}", {})
+
+
+def bullet_key(text):
+    return hashlib.sha1(text.strip().encode("utf-8")).hexdigest()[:12]
+
+
+def youtube(video, t):
+    return f"https://www.youtube.com/watch?v={video}&t={int(t)}s"
+
+
+def class_title(t):
+    """A class's title without channel tags: '#IUIC || 15 Minutes W/ The Captains || Is Divorce Of Man
+    or God?' reads 'Is Divorce Of Man or God?'."""
+    t = " ".join(w for w in (t or "").split() if not w.startswith("#"))
+    if "||" in t:
+        t = [p for p in t.split("||") if p.strip()][-1]
+    t = ", ".join(p.strip() for p in t.split("|") if p.strip())
+    return t.strip() or "a class"
+
+
+def source_line(src):
+    """'Taught in <class> · <teacher> · <date> · [12:34]', the time a YouTube link to that moment."""
+    bits = [html.escape(class_title(src.get("title")), quote=False)]
+    if src.get("teacher"):
+        bits.append(html.escape(src["teacher"], quote=False))
+    if src.get("date"):
+        bits.append(src["date"])
+    t = src.get("t") or 0
+    bits.append(f'<a href="{html.escape(youtube(src["video"], t))}" target="_blank" rel="noopener">'
+                f'{html.escape(src.get("ts") or "watch", quote=False)}</a>')
+    return '<span class="source">Taught in ' + " · ".join(bits) + "</span>"
+
+
+def lesson_html(lines):
+    """One verse block laid out for reading: the verses set apart, then the teaching point by point
+    with where each was taught, then the precepts as cards."""
+    parts = render_parts(lines)
+    out, taught = [], False
+    for part in parts:
+        if part.startswith("<blockquote>") and not taught:
+            out.append(part.replace("<blockquote>", '<blockquote class="scripture">', 1))
+        elif part.startswith("<ul>"):
+            if not taught:
+                out.append("<h3>The teaching</h3>")
+                taught = True
+            out.append(part.replace("<ul>", '<ul class="teaching">', 1))
+        else:
+            out.append(part)
+    # where each point was taught, under the point (marked by units())
+    return SOURCE_MARK.sub(lambda m: _SOURCES[int(m.group(1))], "\n".join(out))
+
+
+def units(body, sources=None):
+    """Split a note into its introduction and one unit per verse block:
+    [(title, html, clip)], clip being (video, start, end) of the class that taught it, or None."""
+    sources = sources or {}
     # "Read the chapter -> [Genesis 1](...)" only points at the website
     lines = [l for l in body.splitlines() if not l.startswith("Read the chapter")]
+    # under each point of the note, where it was taught
+    marked = []
+    for l in lines:
+        if l.startswith("- "):
+            src = sources.get(bullet_key(l[2:]))
+            if src and src.get("video"):
+                _SOURCES.append(source_line(src))
+                l += f" {{{{source:{len(_SOURCES) - 1}}}}}"
+        marked.append(l)
+    lines = marked
     starts = [i for i, l in enumerate(lines) if BLOCK.match(l)]
     out = []
     intro = lines[: starts[0]] if starts else lines
     if any(l.strip() for l in intro):
-        out.append(("Introduction", render(intro)))
+        out.append(("Introduction", olx.page(lesson_html(intro)), None))
     for n, s in enumerate(starts):
         end = starts[n + 1] if n + 1 < len(starts) else len(lines)
-        out.append((BLOCK.match(lines[s]).group(1), render(lines[s + 1 : end])))
+        block = lines[s + 1: end]
+        out.append((BLOCK.match(lines[s]).group(1), olx.page(lesson_html(block)), clip_for(lines[s:end], sources)))
     return out
+
+
+def clip_for(block_lines, sources):
+    """The moment of the class that taught most of this block: from the first point taught there
+    to two minutes past the last."""
+    found = [sources.get(bullet_key(l[2:])) for l in block_lines if l.startswith("- ")]
+    found = [f for f in found if f and f.get("video") and f.get("t") is not None]
+    if not found:
+        return None
+    video = max({f["video"] for f in found}, key=lambda v: sum(f["video"] == v for f in found))
+    ts = sorted(f["t"] for f in found if f["video"] == video)
+    return video, max(0, ts[0] - 10), ts[-1] + 120
 
 
 def chapter_text(book, chapter):
@@ -149,7 +249,8 @@ def chapter_text(book, chapter):
     verses = json.load(open(os.path.join(ROOT, "data", "bible", f"{book}.json"), encoding="utf-8"))["chapters"].get(str(chapter))
     if not verses:
         return None
-    return "\n".join(f"<p><sup>{n}</sup> {html.escape(v, quote=False)}</p>" for n, v in enumerate(verses, 1))
+    return olx.page("\n".join(f"<p><sup>{n}</sup> {html.escape(v, quote=False)}</p>"
+                              for n, v in enumerate(verses, 1)), "chapter")
 
 
 # ---------------------------------------------------------------- OLX
@@ -159,20 +260,16 @@ def attr(v):
 
 
 def problem_xml(q, n):
-    choices = "".join(
-        f'<choice correct="{"true" if j == q["answer"] else "false"}">{html.escape(c)}</choice>'
-        for j, c in enumerate(q["choices"])
-    )
     why = f'<p>{inline(q["explain"])}</p>' if q.get("explain") else ""
     ref = f'<p>See {inline(q["ref"])}.</p>' if q.get("ref") else ""
-    return (
-        f'<problem display_name="Question {n}" max_attempts="2" weight="1" showanswer="finished">\n'
-        f'<multiplechoiceresponse>\n<label>{html.escape(q["q"])}</label>\n'
-        f'<choicegroup type="MultipleChoice" shuffle="true">{choices}</choicegroup>\n'
-        f'</multiplechoiceresponse>\n'
-        f'<solution><div class="detailed-solution"><p>Explanation</p>{why}{ref}</div></solution>\n'
-        f'</problem>\n'
-    )
+    return olx.single_select(f"Question {n}", q["q"], q["choices"], q["answer"], why + ref)
+
+
+def book_outcomes(name):
+    return [f"Read the whole book of {name} in the King James Version",
+            f"Explain what was taught on each passage of {name}, and the precepts that go with it",
+            "Connect each passage to the scriptures that explain it, precept upon precept",
+            "Check your understanding of every chapter with a short quiz"]
 
 
 def build(book, chapters, run="2026"):
@@ -209,7 +306,7 @@ def build(book, chapters, run="2026"):
                                        "The quizzes make up your grade, and 70% passes.") if has_quiz else
          ("Check your understanding.", "Short quizzes after each chapter are being added."),
          ("Your progress.", "The Progress tab shows what you have finished and your quiz scores.")],
-        "Take it at your own pace. A chapter a day, or four, as you are able.")
+        "Take it at your own pace. A chapter a day, or four, as you are able.", book_outcomes(name))
     files["html/intro-about.html"] = intro + "\n"
     files["html/intro-about.xml"] = '<html filename="intro-about" display_name="What this course does"/>\n'
     files["vertical/intro-about.xml"] = '<vertical display_name="What this course does">\n  <html url_name="intro-about"/>\n</vertical>\n'
@@ -224,15 +321,24 @@ def build(book, chapters, run="2026"):
         for ch, (meta, body) in items:
             seq_id = f"{book}-{ch}"
             verts = []
-            lessons = units(body)
+            lessons = units(body, note_sources(book, ch))
             text = chapter_text(book, ch)
             if text:
-                lessons.insert(0, (f"Read {name} {ch}", text))
-            for n, (title, content) in enumerate(lessons, 1):
+                lessons.insert(0, (f"Read {name} {ch}", text, None))
+            for n, (title, content, clip) in enumerate(lessons, 1):
                 vid = f"{seq_id}-{n:02d}"
                 files[f"html/{vid}.html"] = content + "\n"
                 files[f"html/{vid}.xml"] = f'<html filename="{vid}" display_name="{attr(title)}"/>\n'
-                files[f"vertical/{vid}.xml"] = f'<vertical display_name="{attr(title)}">\n  <html url_name="{vid}"/>\n</vertical>\n'
+                children = f'  <html url_name="{vid}"/>\n'
+                if clip:
+                    # the class teaching these verses: a clip of the YouTube class (start_time/end_time)
+                    v, a, b = clip
+                    files[f"video/{vid}-v.xml"] = (
+                        f'<video display_name="Watch it taught in the class" youtube_id_1_0="{attr(v)}" '
+                        f'youtube="1.00:{attr(v)}" start_time="{olx.hms(a)}" end_time="{olx.hms(b)}" '
+                        f'download_video="false"/>\n')
+                    children += f'  <video url_name="{vid}-v"/>\n'
+                files[f"vertical/{vid}.xml"] = f'<vertical display_name="{attr(title)}">\n{children}</vertical>\n'
                 verts.append(vid)
             files[f"sequential/{seq_id}.xml"] = (
                 f'<sequential display_name="{attr(meta.get("title", f"{name} {ch}"))}">\n'
@@ -281,20 +387,23 @@ def build(book, chapters, run="2026"):
     files[f"policies/{run}/grading_policy.json"] = json.dumps(
         {"GRADER": [{"type": "Quiz", "short_label": "Q", "min_count": 1, "drop_count": 0, "weight": 1.0}],
          "GRADE_CUTOFFS": {"Pass": 0.7}}, indent=2) + "\n"
-    files["policies/assets.json"] = "{}\n"
     card = olx.card_png(name, "The Books", "book")
     if card:
         files["static/course_card.png"] = card
         policy = json.loads(files[f"policies/{run}/policy.json"])
         policy[f"course/{run}"]["course_image"] = "course_card.png"
         files[f"policies/{run}/policy.json"] = json.dumps(policy, indent=2) + "\n"
+    olx.add_static(files, code)
     # our own About page, so Open edX's default (with its outside links) is not used
-    files["about/overview.html"] = (
-        f"<section class=\"about\"><h2>About this course</h2>\n"
-        f"<p>Read the book of {html.escape(name)} in the King James Version, chapter by chapter, with the "
-        f"study notes from the 4 Chapters a Day readings. Each chapter opens with the whole text, then "
-        f"walks through it verse block by verse block, and ends with a short quiz.</p></section>\n"
-    )
+    files["about/overview.html"] = olx.overview_html(
+        [f"Read the book of {name} in the King James Version, chapter by chapter, together with what was "
+         f"taught on it in the 4 Chapters a Day readings. Each chapter opens with the whole chapter to read. "
+         f"Then it is opened block by block: the verses set apart, the teaching point by point with the class "
+         f"each point was taught in, and the precepts, the scriptures that go with it. Where a class taught "
+         f"those verses, the lesson plays that moment of the class.",
+         f"After each chapter a short quiz checks your understanding, with the scripture behind every answer. "
+         f"The course is self paced: read a chapter a day, or four, and the Progress page keeps your place."],
+        book_outcomes(name))
     files["about/short_description.html"] = f"Read {html.escape(name)} in the KJV with the 4 Chapters a Day study notes.\n"
     return files
 
