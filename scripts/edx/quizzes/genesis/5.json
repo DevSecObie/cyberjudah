@@ -1,0 +1,54 @@
+{
+  "chapter": "Genesis 5",
+  "status": "draft: drafted from docs/study/genesis/5.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "In Genesis 5:1-2, who are the 'male and female' that the Most High called Adam?",
+      "choices": [
+        "The other people on the earth",
+        "Adam and Eve only",
+        "The angels",
+        "Cain and his wife"
+      ],
+      "answer": 0,
+      "explain": "Made he him is the first Adam; male and female created he them are the other people on the earth.",
+      "ref": "Genesis 5:1-2; Genesis 1:26-27"
+    },
+    {
+      "q": "Whose lineage is laid out in Genesis 5?",
+      "choices": [
+        "Adam's, the sons of God",
+        "Cain's",
+        "Ham's",
+        "The giants'"
+      ],
+      "answer": 0,
+      "explain": "Chapter 5 is the direct lineage of Adam, the sons of God of chapter 6. Luke 3 runs Christ's lineage back through Seth to Adam.",
+      "ref": "Genesis 5; Luke 3:36-38"
+    },
+    {
+      "q": "What does 'Enoch was not; for God took him' mean?",
+      "choices": [
+        "Enoch was taken up and did not taste death, like Elijah",
+        "Enoch died young",
+        "Enoch was carried captive",
+        "Enoch left the line of Adam"
+      ],
+      "answer": 0,
+      "explain": "The Most High took him up; Elijah was likewise taken up by a whirlwind (2 Kings 2:11).",
+      "ref": "Genesis 5:24; 2 Kings 2:9-11"
+    },
+    {
+      "q": "About how long did Noah preach before the flood?",
+      "choices": [
+        "Seven days",
+        "Forty years",
+        "Nine hundred years",
+        "Around a hundred years"
+      ],
+      "answer": 3,
+      "explain": "Noah was five hundred years old here and six hundred when the flood came.",
+      "ref": "Genesis 5:32; Genesis 7:6"
+    }
+  ]
+}

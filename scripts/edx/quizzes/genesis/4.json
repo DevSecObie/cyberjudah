@@ -1,0 +1,66 @@
+{
+  "chapter": "Genesis 4",
+  "status": "draft: drafted from docs/study/genesis/4.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "Why did the Most High call Cain to repent (Genesis 4:7)?",
+      "choices": [
+        "Cain knew the Most High required animal sacrifice and did not bring it",
+        "Cain had not tilled the ground well",
+        "Cain had married a stranger",
+        "Cain had broken the Sabbath"
+      ],
+      "answer": 0,
+      "explain": "Cain knew the Most High required animal sacrifice, because the sacrificial law was ordained at Genesis 3:21.",
+      "ref": "Genesis 4:7"
+    },
+    {
+      "q": "What does Matthew 23:35 show about Abel?",
+      "choices": [
+        "Abel was a king",
+        "Abel was a priest of Melchizedek",
+        "Abel was a prophet",
+        "Abel was a son of Cain"
+      ],
+      "answer": 2,
+      "explain": "Christ counts righteous Abel with the blood of the prophets; Abel was trying to get Cain to repent.",
+      "ref": "Genesis 4:8-9; Matthew 23:35"
+    },
+    {
+      "q": "What do Cain's words 'every one that findeth me shall slay me' and his city show?",
+      "choices": [
+        "Cain had many brothers",
+        "The angels lived on the earth",
+        "There were more people on the earth than Adam's household",
+        "Abel had sons"
+      ],
+      "answer": 2,
+      "explain": "That is proof there were more people on the earth than Adam's household; you do not build a city for three people.",
+      "ref": "Genesis 4:14-17"
+    },
+    {
+      "q": "Who were the first to take multiple wives?",
+      "choices": [
+        "The sons of God",
+        "The sons of the wicked, in the line of Cain",
+        "Noah's sons",
+        "Seth's sons"
+      ],
+      "answer": 1,
+      "explain": "Lamech took two wives; it is the sons of the wicked who did it. In the beginning it was one wife.",
+      "ref": "Genesis 4:19"
+    },
+    {
+      "q": "Why did the Most High choose the line of Seth?",
+      "choices": [
+        "Seth was the firstborn",
+        "Seth built the first city",
+        "In his line men began to call upon the name of the Lord and keep the commandments",
+        "Seth made the first weapons"
+      ],
+      "answer": 2,
+      "explain": "Through Seth men began to call upon the name of the Lord, while the line of Cain went on in wickedness.",
+      "ref": "Genesis 4:25-26"
+    }
+  ]
+}

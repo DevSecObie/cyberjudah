@@ -61,6 +61,14 @@ def build_law():
                    about=(f"The laws, statutes and commandments of the Most High, gathered by subject into "
                           f"{len(h['parts'])} parts, each with the scripture it is written in."),
                    short="The commandments, statutes and judgments, by subject, with their scripture.")
+    c.introduction(olx.intro_html(
+        f"Welcome to The Law. This course sets out the laws, statutes and commandments of the Most High, "
+        f"{total} in all, gathered by subject into {len(h['parts'])} parts, so you can learn what the law says "
+        f"and where it is written.",
+        [("Parts.", "Each section is one part of the law, beginning with the Ten Commandments."),
+         ("The laws.", "Each subject lists its laws, numbered, each with its scripture reference."),
+         ("The scripture.", "After the list, the scriptures behind those laws are printed in full."),
+         ("Your progress.", "The Progress tab shows which parts you have finished.")]))
     for p in h["parts"]:
         sec = c.section(f"{p['n']}. {p['title']}", uid=f"law-{p['n']:02d}")
         for s in p["sections"]:
@@ -91,6 +99,12 @@ def build_encyclopedia():
                    about=("The great subjects of scripture, followed through the Bible book by book: every "
                           "passage on the subject with what was taught on it in the classes."),
                    short="Subjects of scripture followed book by book, with the teaching on each passage.")
+    c.introduction(olx.intro_html(
+        f"Welcome to the Encyclopedia. This course follows {len(paths)} great subjects of scripture, such as "
+        "the Sabbath, the covenant and the feasts, through the Bible book by book.",
+        [("Subjects.", "Each section is one subject."),
+         ("Book by book.", "Within a subject, each book of the Bible where it appears is a lesson."),
+         ("Passages.", "Each passage is its own page with what was taught on it in the classes.")]))
     for n, path in enumerate(paths, 1):
         meta, body = read_note_path(path)
         sec = c.section(meta.get("title", os.path.basename(path)[:-3]), uid=f"enc-{n:02d}")
@@ -145,6 +159,12 @@ def build_precepts():
     by_letter = collections.OrderedDict()
     for t in sorted(topics, key=lambda t: t["title"].lower()):
         by_letter.setdefault(t["title"][0].upper(), []).append(t)
+    c.introduction(olx.intro_html(
+        f"Welcome to Precepts. Precept upon precept: this course gathers {len(topics)} topics, each with the "
+        "scriptures that go together on it, so you can read them side by side and let scripture explain scripture.",
+        [("A to Z.", "The topics run in alphabetical order, one section per letter."),
+         ("The scriptures.", "Each topic prints its scriptures in full in the King James Version, with the "
+                             "key scriptures first.")]))
     for letter, ts in by_letter.items():
         sec = c.section(letter, uid=f"pre-{olx.slug(letter) if letter.isalnum() else 'other'}")
         for t in ts:

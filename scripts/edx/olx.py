@@ -67,6 +67,13 @@ class Course:
         self.sections = []
         self.extra = {}  # more files, e.g. from a builder that writes its own
 
+    def introduction(self, body_html):
+        """The course's opening section, the first thing a student sees: what the course does and how."""
+        sec = Section("intro", "Introduction")
+        sec.subsection("About this course", uid="intro-about").unit("What this course does", html=body_html)
+        self.sections.insert(0, sec)
+        return sec
+
     def section(self, title, uid=None):
         s = Section(uid or f"s{len(self.sections) + 1:03d}", title)
         self.sections.append(s)
@@ -126,6 +133,16 @@ class Course:
                                     f"<p>{html.escape(self.about)}</p></section>\n")
         f["about/short_description.html"] = html.escape(self.short or self.about) + "\n"
         return f
+
+
+def intro_html(welcome, steps, closing=""):
+    """Plain html for an Introduction unit: a welcome paragraph, then how the course works."""
+    out = [f"<p>{html.escape(welcome, quote=False)}</p>", "<h3>How this course works</h3>", "<ul>"]
+    out += [f"<li><strong>{html.escape(k, quote=False)}</strong> {html.escape(v, quote=False)}</li>" for k, v in steps]
+    out.append("</ul>")
+    if closing:
+        out.append(f"<p>{html.escape(closing, quote=False)}</p>")
+    return "\n".join(out)
 
 
 # ---------------------------------------------------------------- course card

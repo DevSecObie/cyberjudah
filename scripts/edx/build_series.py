@@ -165,6 +165,15 @@ def build_series(name, items):
         about += " Taught by " + ", ".join(teachers[:6]) + ("." if len(teachers) <= 6 else " and others.")
     c = olx.Course(code_for(name), name, about=about, kind="class", subtitle=f"Classes · {span}",
                    short=f"{len(items)} classes from {name}, with notes and video clips.")
+    c.introduction(olx.intro_html(
+        f"Welcome to {name}. This course gathers the {name} classes, {len(items)} in all ({span}), so you "
+        f"can study each class scripture by scripture instead of searching through hours of video.",
+        [("Sections.", "The classes are grouped by year, oldest first."),
+         ("Watch the class.", "Each class opens with the whole class video, who taught it and when."),
+         ("Study it.", "Then every scripture opened in the class is its own lesson: the verses, the notes on "
+                       "what was taught, and a video that plays only that part of the class."),
+         ("Your progress.", "The Progress tab shows which classes you have finished.")],
+        "Watch, read along with the scriptures, and take your time with each one."))
     by_year = collections.OrderedDict()
     for meta, body in items:
         by_year.setdefault(meta["date"][:4], []).append((meta, body))
@@ -186,6 +195,12 @@ def build_revelation():
                    about="The class series on the book of Revelation, one class per chapter, with the whole "
                          "chapter to read alongside it.",
                    short="One class per chapter of Revelation, with the chapter text.")
+    c.introduction(olx.intro_html(
+        "Welcome to Revelation, Chapter by Chapter. This course goes through the book of Revelation one class "
+        "at a time, so you hear each chapter opened and can read it alongside.",
+        [("One class per chapter.", "Each lesson is the class on that chapter of Revelation."),
+         ("Read the chapter.", "Under each class is the whole chapter in the King James Version."),
+         ("Your progress.", "The Progress tab shows which chapters you have finished.")]))
     sec = c.section("Revelation", uid="rev")
     for n, r in enumerate(rows, 1):
         ch = int(float(r["order"]))  # 9.2 is a second class on chapter 9

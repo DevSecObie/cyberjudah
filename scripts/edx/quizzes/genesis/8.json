@@ -1,0 +1,42 @@
+{
+  "chapter": "Genesis 8",
+  "status": "draft: drafted from docs/study/genesis/8.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "What did Noah offer when he came out of the ark?",
+      "choices": [
+        "Fruit of the ground",
+        "A tenth of all he had",
+        "Burnt offerings of every clean beast and every clean fowl",
+        "Incense only"
+      ],
+      "answer": 2,
+      "explain": "The Most High smelled a sweet savour and said He would not curse the ground any more for man's sake.",
+      "ref": "Genesis 8:20-22"
+    },
+    {
+      "q": "The covenant says all flesh will perish no more by a flood. What does the class say comes next time?",
+      "choices": [
+        "Water again",
+        "Famine",
+        "Nothing more",
+        "Fire"
+      ],
+      "answer": 3,
+      "explain": "Before it was water; the next time it is going to be fire.",
+      "ref": "Genesis 8:20-22"
+    },
+    {
+      "q": "What does Genesis 8:2 show the windows of heaven refer to?",
+      "choices": [
+        "The sun",
+        "The rain",
+        "The angels",
+        "The firmament's stars"
+      ],
+      "answer": 1,
+      "explain": "The windows of heaven being stopped and the rain restrained shows the windows of heaven refer to the rain.",
+      "ref": "Genesis 8:2"
+    }
+  ]
+}

@@ -60,6 +60,17 @@ def build():
                           "with what, what the law says, and what judgment scripture records. Read the charge, "
                           "give your verdict, then see what was recorded, with every scripture cited."),
                    short="Judge each case by the law, then read what scripture records.")
+    c.introduction(olx.intro_html(
+        f"Welcome to Case Studies. Here you judge {len(d['cases'])} cases from scripture by the law of the "
+        "Most High, then see what judgment scripture records, so you learn the law by seeing it applied.",
+        [("Eras.", f"The cases run in order through {len(d['eras'])} eras, from the Primeval era on."),
+         ("The charge.", "Each case opens with who was charged, with what, and the offense in full, with the "
+                         "scriptures cited."),
+         ("The verdict.", "Then you give your verdict: by the law, what was the judgment? You get one try. "
+                          "These questions are practice and do not count toward a grade."),
+         ("What scripture records.", "Last, the judgment as scripture records it, a summary of the case, and "
+                                     "the laws it touches in The Law course.")],
+        "Read each case carefully and judge it by the law before you look at the answer."))
     for n, era in enumerate(d["eras"], 1):
         cases = [x for x in d["cases"] if x["era"] == era]
         if not cases:

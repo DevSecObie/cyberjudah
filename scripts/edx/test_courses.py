@@ -16,6 +16,9 @@ class Courses(unittest.TestCase):
                     keys.add(key)
                     self.assertEqual(olx.check(files), [])
                     self.assertIn("course.xml", files)
+                    # the Introduction is the first thing a student sees
+                    run = [k for k in files if k.startswith("course/")][0]
+                    self.assertIn('<chapter url_name="intro"/>', files[run].splitlines()[1])
         self.assertGreaterEqual(len(keys), 100)
 
     def test_clips_play_one_part_of_the_class(self):

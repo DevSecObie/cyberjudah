@@ -1,0 +1,66 @@
+{
+  "chapter": "Genesis 10",
+  "status": "draft: drafted from docs/study/genesis/10.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "Which son of Noah settled what became Europe?",
+      "choices": [
+        "Ham",
+        "Shem",
+        "Canaan",
+        "Japheth"
+      ],
+      "answer": 3,
+      "explain": "Ashkenaz is Germany, Tarshish Spain, Kittim Rome, Javan Greece: the isles of the Gentiles.",
+      "ref": "Genesis 10:1-5"
+    },
+    {
+      "q": "Who is Mizraim?",
+      "choices": [
+        "Ethiopia",
+        "Egypt",
+        "Libya",
+        "Assyria"
+      ],
+      "answer": 1,
+      "explain": "Cush is Ethiopia; Mizraim is Egypt; Phut is Libya; Canaan is the land where Jerusalem sits.",
+      "ref": "Genesis 10:6-7"
+    },
+    {
+      "q": "The Israelites descend from which son of Noah?",
+      "choices": [
+        "Ham",
+        "Shem",
+        "Japheth",
+        "Canaan"
+      ],
+      "answer": 1,
+      "explain": "The children of Israel are Shemites scattered among the children of Ham in Africa.",
+      "ref": "Genesis 10:6-7; Genesis 10:21"
+    },
+    {
+      "q": "Who was the first king of Nineveh and the first mortal deified at his death?",
+      "choices": [
+        "Asshur",
+        "Cush",
+        "Nimrod",
+        "Eber"
+      ],
+      "answer": 2,
+      "explain": "Nimrod, Semiramis and Tammuz became the first pagan trinity, worshipped under many names.",
+      "ref": "Genesis 10:8-11"
+    },
+    {
+      "q": "Where does the name Hebrew come from?",
+      "choices": [
+        "Heber the Kenite",
+        "Hebron",
+        "Eber",
+        "Abraham"
+      ],
+      "answer": 2,
+      "explain": "Shem is the father of all the children of Eber, and Eber is where the name Hebrew comes from.",
+      "ref": "Genesis 10:21"
+    }
+  ]
+}

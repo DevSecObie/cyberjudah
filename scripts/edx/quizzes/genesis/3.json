@@ -1,0 +1,66 @@
+{
+  "chapter": "Genesis 3",
+  "status": "draft: drafted from docs/study/genesis/3.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "Who is the serpent in Genesis 3?",
+      "choices": [
+        "A literal snake",
+        "One of the beasts of the field Adam named",
+        "Satan, the deceiver",
+        "An angel of the Most High"
+      ],
+      "answer": 2,
+      "explain": "This is not a literal snake; another word for serpent is deceiver, and serpents do not speak. Satan transforms himself (2 Corinthians 11:14).",
+      "ref": "Genesis 3:1; 2 Corinthians 11:14"
+    },
+    {
+      "q": "What was the fruit Eve ate?",
+      "choices": [
+        "An apple",
+        "The lies she was taught",
+        "A fig",
+        "The fruit of the tree of life"
+      ],
+      "answer": 1,
+      "explain": "The fruit she ate was the lies; the fruit of lies is eaten (Hosea 10:13).",
+      "ref": "Genesis 3:6; Hosea 10:13"
+    },
+    {
+      "q": "What does the nakedness of Adam and Eve represent (Genesis 3:7)?",
+      "choices": [
+        "Innocence",
+        "Poverty",
+        "Sin",
+        "Shame before the nations"
+      ],
+      "answer": 2,
+      "explain": "They were not literally naked; nakedness represents sin. Jerusalem sinned and her nakedness was seen (Lamentations 1:8).",
+      "ref": "Genesis 3:7; Lamentations 1:8"
+    },
+    {
+      "q": "In the prophecy of Genesis 3:15, who is the woman?",
+      "choices": [
+        "Eve only",
+        "The nation of Israel",
+        "The serpent's wife",
+        "The church of Rome"
+      ],
+      "answer": 1,
+      "explain": "It is not talking about the serpent and Eve; the woman is the nation of Israel. Revelation 12 explains this verse.",
+      "ref": "Genesis 3:15; Jeremiah 3:2"
+    },
+    {
+      "q": "What did the coats of skins in Genesis 3:21 begin?",
+      "choices": [
+        "Animal sacrifice to cover sin, a lamb that also represents Christ",
+        "The making of clothing for trade",
+        "The priesthood of Levi",
+        "The feast of tabernacles"
+      ],
+      "answer": 0,
+      "explain": "This is where the Most High ordained the sacrificial law. The lamb slain represents Christ, slain from the foundation of the world (Revelation 13:8).",
+      "ref": "Genesis 3:21; Revelation 13:8"
+    }
+  ]
+}

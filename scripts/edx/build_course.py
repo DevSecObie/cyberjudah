@@ -194,7 +194,28 @@ def build(book, chapters, run="2026"):
     if not sections:
         sys.exit(f"no study notes for {name} {chapters[0]}-{chapters[-1]}")
 
-    chapter_refs = []
+    # the first thing a student sees: what the course does and how it works
+    has_quiz = any(os.path.exists(os.path.join(QUIZZES, book, f"{ch}.json")) for ch in chapters)
+    intro = olx.intro_html(
+        f"Welcome to {name}. In this course you read the book of {name} in the King James Version, "
+        f"chapter by chapter, together with what was taught on it in the 4 Chapters a Day readings. "
+        f"By the end you will have read the whole book and studied it verse by verse, precept upon precept.",
+        [("Readings.", f"Each section is one reading session of up to {PER_SECTION} chapters, as in 4 Chapters a Day."),
+         ("Read the chapter.", "Every chapter opens with the whole chapter to read, verse by verse."),
+         ("Study it.", "Then the chapter is opened block by block: the verses, what was taught on them, "
+                       "and the precepts, the scriptures that go with them."),
+         ("Check your understanding.", "After each chapter there is a short quiz from what was taught. "
+                                       "You get two tries at each question, and the answer shows the scripture. "
+                                       "The quizzes make up your grade, and 70% passes.") if has_quiz else
+         ("Check your understanding.", "Short quizzes after each chapter are being added."),
+         ("Your progress.", "The Progress tab shows what you have finished and your quiz scores.")],
+        "Take it at your own pace. A chapter a day, or four, as you are able.")
+    files["html/intro-about.html"] = intro + "\n"
+    files["html/intro-about.xml"] = '<html filename="intro-about" display_name="What this course does"/>\n'
+    files["vertical/intro-about.xml"] = '<vertical display_name="What this course does">\n  <html url_name="intro-about"/>\n</vertical>\n'
+    files["sequential/intro-about.xml"] = '<sequential display_name="About this course">\n  <vertical url_name="intro-about"/>\n</sequential>\n'
+    files["chapter/intro.xml"] = '<chapter display_name="Introduction">\n  <sequential url_name="intro-about"/>\n</chapter>\n'
+    chapter_refs = ["intro"]
     for s, items in sorted(sections.items()):
         first, last = s * PER_SECTION + 1, min((s + 1) * PER_SECTION, index[book]["chapters"])
         sec_id = f"{book}-reading-{s + 1}"

@@ -1,0 +1,66 @@
+{
+  "chapter": "Genesis 2",
+  "status": "draft: drafted from docs/study/genesis/2.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "What is the breath of life that the Most High breathed into Adam (Genesis 2:7)?",
+      "choices": [
+        "The commandments",
+        "The Holy Ghost",
+        "Air alone",
+        "The light of the first day"
+      ],
+      "answer": 0,
+      "explain": "The breath of life is talking about the commandments. This is Adam, the chosen.",
+      "ref": "Genesis 2:7"
+    },
+    {
+      "q": "Which river compasses the whole land of Ethiopia (Genesis 2:13)?",
+      "choices": [
+        "Gihon, the Blue Nile",
+        "Euphrates",
+        "Hiddekel",
+        "Pison"
+      ],
+      "answer": 0,
+      "explain": "The river Gihon is the Blue Nile; it compasses the whole land of Ethiopia.",
+      "ref": "Genesis 2:8-14"
+    },
+    {
+      "q": "What does the class say some of the trees of the garden represent?",
+      "choices": [
+        "Angels",
+        "The commandments",
+        "The nations' gods",
+        "Men"
+      ],
+      "answer": 3,
+      "explain": "Some of these trees are literal trees, and some represent men. Scripture uses trees to represent men (Mark 8:24).",
+      "ref": "Genesis 2:16-17; Mark 8:24"
+    },
+    {
+      "q": "What does it show that there was no help meet right for Adam among the women on the earth (Genesis 2:18-20)?",
+      "choices": [
+        "There were more people on the earth than Adam alone",
+        "Adam was the only man ever created",
+        "Women were made after the animals",
+        "Adam had refused a wife"
+      ],
+      "answer": 0,
+      "explain": "The Most High looked at the women on the earth and there was no help meet right for Adam; there were more people on the earth than Adam alone.",
+      "ref": "Genesis 2:18-20"
+    },
+    {
+      "q": "What does Genesis 2:1-3 record for the first time in scripture?",
+      "choices": [
+        "The first sacrifice",
+        "The Sabbath: the Most High blessed the seventh day and sanctified it",
+        "The first covenant with Israel",
+        "The first rain"
+      ],
+      "answer": 1,
+      "explain": "This is the first Sabbath you read about in the scriptures.",
+      "ref": "Genesis 2:1-3"
+    }
+  ]
+}
