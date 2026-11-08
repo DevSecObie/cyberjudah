@@ -46,11 +46,17 @@ to where the next one starts. The video stays on YouTube; nothing is downloaded 
 | Open edX      | From the notes                              | Example                                   |
 |---------------|---------------------------------------------|-------------------------------------------|
 | Course        | one book                                    | Genesis                                   |
-| Section       | one reading session of four chapters        | Reading 1: Genesis 1-4                    |
-| Subsection    | one chapter                                 | Genesis 1: The Creation of Light and Mankind |
-| Unit          | the whole chapter (KJV) to read first       | Read Genesis 1                            |
-| Unit          | the introduction, then each verse block     | Genesis 1:1-2                             |
-| Graded quiz   | `quizzes/<book>/<chapter>.json`, if present | Genesis 1: Check your understanding       |
+| Section       | one reading session of four chapters        | Genesis 1-4                               |
+| Subsection    | first in each section                       | About this reading                        |
+| Subsection    | one chapter, graded when it has a quiz      | Genesis 1: The Creation of Light and Mankind |
+| Unit          | what the chapter covers                     | Overview                                  |
+| Unit          | the whole chapter (KJV)                     | Read Genesis 1                            |
+| Unit          | each verse block, with its class clip       | Genesis 1:1-2                             |
+| Unit          | `quizzes/<book>/<chapter>.json`, last       | Check your understanding                  |
+
+Every chapter has the same units in the same order, as the docs' accessibility checklist asks
+("Make Your Course Easy to Navigate"). A unit shows a camera icon in the outline when it has a
+class clip; Open edX picks the icon from what is in the unit.
 
 Students stay inside the course: the only links that lead out are YouTube videos. Every other
 link in a note (scripture references, the website) is kept as plain text.

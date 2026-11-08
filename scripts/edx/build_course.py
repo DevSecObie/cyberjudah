@@ -10,18 +10,20 @@ The result is <out>/<book>.tar.gz, which Studio imports under Tools > Import.
 How a book maps onto a course:
 
     course       the book                        Genesis
-    section      one reading session (4 ch.)     Reading 1: Genesis 1-4
-    subsection   one chapter                     Genesis 1: The Creation of Light and Mankind
-    unit         the whole chapter (KJV), then   Read Genesis 1
-                 one per verse block from note   Genesis 1:1-2
-    quiz         one graded subsection/chapter   Genesis 1: Check your understanding
+    section      one reading session (4 ch.)     Genesis 1-4
+                 first, About this reading       its chapters and the note's introduction
+    subsection   one chapter, always in order:   Genesis 1: The Creation of Light and Mankind
+    unit           what the chapter covers       Overview
+                   the whole chapter (KJV)       Read Genesis 1
+                   one per verse block           Genesis 1:1-2
+                   the quiz, last (graded)       Check your understanding
 
 The notes stay the source. Rebuild and re-import after a note changes; Studio replaces the
 course content in place. Quizzes come from scripts/edx/quizzes/<book>/<chapter>.json, drafted
 from the note and reviewed by hand. A chapter without a quiz file simply has no quiz, and a
 chapter without a study note yet still gets its "Read" unit with the full text.
 
-Standard library only, so it runs anywhere Python 3.9+ does.
+Needs Python 3.12 or newer (macOS's own python3 is 3.9: use Homebrew's).
 """
 import argparse, hashlib, html, json, os, re, sys
 
@@ -232,6 +234,43 @@ def units(body, sources=None):
     return out
 
 
+def chapter_overview(name, ch, title, lessons, text, quiz):
+    """The first unit of every chapter: what the chapter covers and the steps through it, always in
+    the same order."""
+    clips = sum(1 for _, _, c in lessons if c)
+    passages = ", ".join(t for t, _, _ in lessons)
+    steps = []
+    if text:
+        steps.append(("Read", f"the whole of {name} {ch} in the King James Version."))
+    if lessons:
+        steps.append(("Study", f"{len(lessons)} passage{'s' if len(lessons) != 1 else ''}, one page each: "
+                               "the verses, what was taught on them, and the precepts."
+                               + (f" {clips} of them play the moment of the class that taught them." if clips else "")))
+    if quiz:
+        steps.append(("Check your understanding", f"{len(quiz['questions'])} questions from what was taught."))
+    out = [f'<p class="lead">{olx.esc(title)}</p>', "<h3>In this chapter</h3>", '<ol class="steps">']
+    out += [f"<li><strong>{olx.esc(k)}</strong> {olx.esc(v)}</li>" for k, v in steps]
+    out.append("</ol>")
+    if passages:
+        out.append(f'<p class="note">Passages: {olx.esc(passages)}</p>')
+    return olx.page("\n".join(out))
+
+
+def reading_about(name, span, titles, intros):
+    """The first page of every reading: its chapters, then what the notes say about the reading."""
+    out = [f'<p class="lead">{olx.esc(name)} {olx.esc(span)}. Each chapter in this reading is one lesson: '
+           "an overview, the chapter to read, its passages one page each, then a short check of your "
+           "understanding.</p>", "<h3>The chapters</h3>", '<ol class="steps">']
+    out += [f"<li>{olx.esc(t)}</li>" for t in titles]
+    out.append("</ol>")
+    for intro in intros:
+        # the note's own introduction, without its wrapper and its "Introduction" heading
+        inner = re.sub(r"^.*?<div[^>]*>\n?|\n?</div>\s*$", "", intro, flags=re.S)
+        inner = re.sub(r"<h\d>Introduction</h\d>\n?", "", inner)
+        out.append(inner)
+    return olx.page("\n".join(out))
+
+
 def clip_for(block_lines, sources):
     """The moment of the class that taught most of this block: from the first point taught there
     to two minutes past the last."""
@@ -318,17 +357,30 @@ def build(book, chapters, run="2026"):
         sec_id = f"{book}-reading-{s + 1}"
         span = f"{first}" if first == last else f"{first}-{last}"
         seqs = []
+        reading_intros, chapter_titles = [], []
         for ch, (meta, body) in items:
             seq_id = f"{book}-{ch}"
             verts = []
+            # every chapter is laid out the same way, in the same order (docs.openedx.org, Accessibility
+            # Best Practices Checklist, "Make Your Course Easy to Navigate"):
+            #   Overview / Read <Book> <ch> / one unit per passage / Check your understanding
             lessons = units(body, note_sources(book, ch))
+            intro = lessons.pop(0)[1] if lessons and lessons[0][0] == "Introduction" else None
             text = chapter_text(book, ch)
+            quiz_path = os.path.join(QUIZZES, book, f"{ch}.json")
+            quiz = json.load(open(quiz_path, encoding="utf-8")) if os.path.exists(quiz_path) else None
+            title = meta.get("title", f"{name} {ch}")
+            ordered = [("Overview", chapter_overview(name, ch, title, lessons, text, quiz), None)]
+            if intro:
+                reading_intros.append(intro)
+            chapter_titles.append(title)
             if text:
-                lessons.insert(0, (f"Read {name} {ch}", text, None))
-            for n, (title, content, clip) in enumerate(lessons, 1):
+                ordered.append((f"Read {name} {ch}", text, None))
+            ordered += lessons
+            for n, (utitle, content, clip) in enumerate(ordered, 1):
                 vid = f"{seq_id}-{n:02d}"
                 files[f"html/{vid}.html"] = content + "\n"
-                files[f"html/{vid}.xml"] = f'<html filename="{vid}" display_name="{attr(title)}"/>\n'
+                files[f"html/{vid}.xml"] = f'<html filename="{vid}" display_name="{attr(utitle)}"/>\n'
                 children = f'  <html url_name="{vid}"/>\n'
                 if clip:
                     # the class teaching these verses: a clip of the YouTube class (start_time/end_time)
@@ -338,18 +390,10 @@ def build(book, chapters, run="2026"):
                         f'youtube="1.00:{attr(v)}" start_time="{olx.hms(a)}" end_time="{olx.hms(b)}" '
                         f'download_video="false"/>\n')
                     children += f'  <video url_name="{vid}-v"/>\n'
-                files[f"vertical/{vid}.xml"] = f'<vertical display_name="{attr(title)}">\n{children}</vertical>\n'
+                files[f"vertical/{vid}.xml"] = f'<vertical display_name="{attr(utitle)}">\n{children}</vertical>\n'
                 verts.append(vid)
-            files[f"sequential/{seq_id}.xml"] = (
-                f'<sequential display_name="{attr(meta.get("title", f"{name} {ch}"))}">\n'
-                + "".join(f'  <vertical url_name="{v}"/>\n' for v in verts)
-                + "</sequential>\n"
-            )
-            seqs.append(seq_id)
-
-            quiz_path = os.path.join(QUIZZES, book, f"{ch}.json")
-            if os.path.exists(quiz_path):
-                quiz = json.load(open(quiz_path, encoding="utf-8"))
+            if quiz:
+                # the last unit of the chapter, so the chapter is one lesson from start to finish
                 qid = f"{seq_id}-quiz"
                 probs = []
                 for n, q in enumerate(quiz["questions"], 1):
@@ -361,13 +405,23 @@ def build(book, chapters, run="2026"):
                     + "".join(f'  <problem url_name="{p}"/>\n' for p in probs)
                     + "</vertical>\n"
                 )
-                files[f"sequential/{qid}.xml"] = (
-                    f'<sequential display_name="{attr(f"{name} {ch}: Check your understanding")}" '
-                    f'graded="true" format="Quiz">\n  <vertical url_name="{qid}"/>\n</sequential>\n'
-                )
-                seqs.append(qid)
+                verts.append(qid)
+            graded = ' graded="true" format="Quiz"' if quiz else ""
+            files[f"sequential/{seq_id}.xml"] = (
+                f'<sequential display_name="{attr(title)}"{graded}>\n'
+                + "".join(f'  <vertical url_name="{v}"/>\n' for v in verts)
+                + "</sequential>\n"
+            )
+            seqs.append(seq_id)
+        # the first lesson of every reading: what it covers, once, at the top
+        about = f"{sec_id}-about"
+        files[f"html/{about}.html"] = reading_about(name, span, chapter_titles, reading_intros) + "\n"
+        files[f"html/{about}.xml"] = f'<html filename="{about}" display_name="About this reading"/>\n'
+        files[f"vertical/{about}.xml"] = f'<vertical display_name="About this reading">\n  <html url_name="{about}"/>\n</vertical>\n'
+        files[f"sequential/{about}.xml"] = f'<sequential display_name="About this reading">\n  <vertical url_name="{about}"/>\n</sequential>\n'
+        seqs.insert(0, about)
         files[f"chapter/{sec_id}.xml"] = (
-            f'<chapter display_name="{attr(f"Reading {s + 1}: {name} {span}")}">\n'
+            f'<chapter display_name="{attr(f"{name} {span}")}">\n'
             + "".join(f'  <sequential url_name="{q}"/>\n' for q in seqs)
             + "</chapter>\n"
         )

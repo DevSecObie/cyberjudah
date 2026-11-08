@@ -13,10 +13,17 @@ class BuildCourse(unittest.TestCase):
             elif name.endswith(".html"):
                 xml.dom.minidom.parseString(f"<div>{text}</div>")
         self.assertIn("sequential/genesis-1.xml", files)
-        self.assertIn("Reading 1: Genesis 1-4", files["chapter/genesis-reading-1.xml"])
-        # the chapter itself comes first, all 31 verses
-        self.assertIn('display_name="Read Genesis 1"', files["vertical/genesis-1-01.xml"])
-        self.assertEqual(files["html/genesis-1-01.html"].count("<p><sup>"), 31)
+        self.assertIn('display_name="Genesis 1-4"', files["chapter/genesis-reading-1.xml"])
+        # every reading opens with "About this reading"
+        self.assertIn('url_name="genesis-reading-1-about"', files["chapter/genesis-reading-1.xml"].splitlines()[1])
+        # every chapter: Overview, the chapter (all 31 verses), the passages, then the quiz last
+        self.assertIn('display_name="Overview"', files["vertical/genesis-1-01.xml"])
+        self.assertIn('display_name="Read Genesis 1"', files["vertical/genesis-1-02.xml"])
+        self.assertEqual(files["html/genesis-1-02.html"].count("<p><sup>"), 31)
+        seq = files["sequential/genesis-1.xml"]
+        self.assertIn('format="Quiz"', seq)
+        self.assertIn('url_name="genesis-1-quiz"', seq.splitlines()[-2])
+        self.assertNotIn("<h4>Introduction</h4>", "".join(v for k, v in files.items() if k.endswith(".html")))
         self.assertIn("about/overview.html", files)
 
     def test_every_quiz_parses(self):
@@ -49,7 +56,7 @@ class BuildCourse(unittest.TestCase):
     def test_chapter_without_note_is_still_readable(self):
         self.assertFalse(os.path.exists(os.path.join(b.ROOT, "docs", "study", "2-john", "1.md")))
         files = b.build("2-john", b.parse_chapters(None, "2-john"))
-        self.assertIn('display_name="Read 2 John 1"', files["vertical/2-john-1-01.xml"])
+        self.assertIn('display_name="Read 2 John 1"', files["vertical/2-john-1-02.xml"])
         self.assertEqual(b.parse_chapters(None, "esther-greek")[0], 10)
 
 
