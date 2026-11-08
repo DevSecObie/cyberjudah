@@ -1,0 +1,102 @@
+{
+  "chapter": "Genesis 1",
+  "status": "draft: drafted from docs/study/genesis/1.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "According to the class, what was the darkness upon the face of the deep in Genesis 1:2?",
+      "choices": [
+        "Real darkness: in the beginning everything was black",
+        "A symbol for sin",
+        "A cloud covering the earth",
+        "The absence of the Spirit of God"
+      ],
+      "answer": 0,
+      "explain": "This darkness is not a symbol for sin; it is real darkness. In the beginning everything was black.",
+      "ref": "[Genesis 1:2](/bible/genesis/1#v2)"
+    },
+    {
+      "q": "The light of the first day (Genesis 1:3) was made before which of these?",
+      "choices": [
+        "The sun, the moon and the stars",
+        "The heaven and the earth",
+        "The waters",
+        "The Spirit of God"
+      ],
+      "answer": 0,
+      "explain": "This light came before the sun, the moon, and the stars, which were not made until the fourth day. It is the light you see in the morning sky before the sun comes up.",
+      "ref": "[Genesis 1:3](/bible/genesis/1#v3)"
+    },
+    {
+      "q": "Which precept did the class read with Genesis 1:3, showing that the Most High commanded a fair light so that His work might appear?",
+      "choices": [
+        "2 Esdras 6:38-40",
+        "John 1:4-5",
+        "Psalms 104:2",
+        "Isaiah 45:7"
+      ],
+      "answer": 0,
+      "explain": "Then commandedst thou a fair light to come forth of thy treasures, that thy work might appear (2 Esdras 6:40).",
+      "ref": "[2 Esdras 6:38-40](/bible/2-esdras/6#v38)"
+    },
+    {
+      "q": "From Genesis 1:5, when does the day begin?",
+      "choices": [
+        "In the evening, when it is dark",
+        "At sunrise",
+        "At noon",
+        "At midnight"
+      ],
+      "answer": 0,
+      "explain": "And the evening and the morning were the first day. The day begins when it is dark and it ends when it is dark.",
+      "ref": "[Genesis 1:5](/bible/genesis/1#v5)"
+    },
+    {
+      "q": "What is the firmament in Genesis 1:6-8?",
+      "choices": [
+        "The sky, dividing the waters below from the waters above",
+        "The dry land",
+        "The sea",
+        "The sun"
+      ],
+      "answer": 0,
+      "explain": "The firmament is the sky. It divides the waters below from the waters above; space is water up there.",
+      "ref": "[Genesis 1:6-8](/bible/genesis/1#v6)"
+    },
+    {
+      "q": "On which day were the sun, the moon and the stars made?",
+      "choices": [
+        "The fourth day",
+        "The first day",
+        "The second day",
+        "The sixth day"
+      ],
+      "answer": 0,
+      "explain": "On the fourth day the Most High created the sun, the moon, and the stars. The sun is the greater light, made brighter than the light of the first day, which is how it rules over the day.",
+      "ref": "[Genesis 1:14-19](/bible/genesis/1#v14)"
+    },
+    {
+      "q": "In Genesis 1:26, \"let them have dominion\" shows that the man spoken of there is:",
+      "choices": [
+        "Mankind, not just one man",
+        "Adam alone",
+        "The angels",
+        "The beasts of the field"
+      ],
+      "answer": 0,
+      "explain": "Notice it says let them have dominion. The Most High did not create just one man; the man spoken of here is mankind. The words created he him point to a particular person, described in Genesis 2.",
+      "ref": "[Genesis 1:26-27](/bible/genesis/1#v26)"
+    },
+    {
+      "q": "In Genesis 1:29, the herb was given \"for meat\". What does that mean?",
+      "choices": [
+        "For food",
+        "For animal flesh",
+        "For sacrifice",
+        "For medicine"
+      ],
+      "answer": 0,
+      "explain": "The herb was created for meat, that is, for food.",
+      "ref": "[Genesis 1:29](/bible/genesis/1#v29)"
+    }
+  ]
+}
