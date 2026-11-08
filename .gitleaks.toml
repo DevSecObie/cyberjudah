@@ -1,0 +1,8 @@
+# Gitleaks settings for the Secret scan workflow (.github/workflows/secret-scan.yml).
+# The default rules all stay on, with no allowlist. Add one only for a value that is public by
+# design, matched by the whole line, and merge it on its own before the pull request that needs it.
+# Old findings that were reviewed are listed by fingerprint in .gitleaksignore. A CyberJudah secret
+# never goes in either file: revoke and replace it, then remove it.
+
+[extend]
+useDefault = true
