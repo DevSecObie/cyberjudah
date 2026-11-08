@@ -258,7 +258,7 @@ def chapter_overview(name, ch, title, lessons, text, quiz, plan=None):
     if text:
         steps.append(("Read", f"the whole of {name} {ch} in the King James Version."))
     if lessons:
-        steps.append(("Study", f"{len(lessons)} passage{'s' if len(lessons) != 1 else ''}, one page each: "
+        steps.append(("Study", f"{len(lessons)} scripture{'s' if len(lessons) != 1 else ''}, one page each: "
                                "the verses, what was taught on them, and the precepts."
                                + (f" {clips} of them play the moment of the class that taught them." if clips else "")))
     if plan and plan.get("takeaways"):
@@ -267,7 +267,7 @@ def chapter_overview(name, ch, title, lessons, text, quiz, plan=None):
         steps.append(("Check your understanding", f"{len(quiz['questions'])} questions from what was taught."))
     out = [f'<p class="lead">{olx.esc(title)}</p>',
            f'<ul class="facts"><li><b>Time</b>About {minutes(text, lessons, quiz)} minutes</li>'
-           f'<li><b>Passages</b>{len(lessons)}</li><li><b>Class clips</b>{clips}</li>'
+           f'<li><b>Scriptures</b>{len(lessons)}</li><li><b>Class clips</b>{clips}</li>'
            f'<li><b>Questions</b>{len(quiz["questions"]) if quiz else 0}</li></ul>']
     if plan and plan.get("objectives"):
         out += ["<h3>What you will learn</h3>", '<ul class="teaching">']
@@ -277,7 +277,7 @@ def chapter_overview(name, ch, title, lessons, text, quiz, plan=None):
     out += [f"<li><strong>{olx.esc(k)}</strong> {olx.esc(v)}</li>" for k, v in steps]
     out.append("</ol>")
     if passages:
-        out.append(f'<p class="note">Passages: {olx.esc(passages)}</p>')
+        out.append(f'<p class="note">Scriptures: {olx.esc(passages)}</p>')
     return olx.page("\n".join(out))
 
 
@@ -291,7 +291,7 @@ def takeaways_page(name, ch, plan):
 def reading_about(name, span, titles, intros):
     """The first page of every reading: its chapters, then what the notes say about the reading."""
     out = [f'<p class="lead">{olx.esc(name)} {olx.esc(span)}. Each chapter in this reading is one lesson: '
-           "an overview, the chapter to read, its passages one page each, then a short check of your "
+           "an overview, the chapter to read, its scriptures one page each, then a short check of your "
            "understanding.</p>", "<h3>The chapters</h3>", '<ol class="steps">']
     out += [f"<li>{olx.esc(t)}</li>" for t in titles]
     out.append("</ol>")
@@ -372,8 +372,8 @@ def people_page(book, name):
 
 def book_outcomes(name):
     return [f"Read the whole book of {name} in the King James Version",
-            f"Explain what was taught on each passage of {name}, and the precepts that go with it",
-            "Connect each passage to the scriptures that explain it, precept upon precept",
+            f"Explain what was taught on each scripture of {name}, and the precepts that go with it",
+            "Connect each scripture to the precepts that explain it, precept upon precept",
             "Check your understanding of every chapter with a short quiz"]
 
 
