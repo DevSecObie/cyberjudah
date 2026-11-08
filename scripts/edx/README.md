@@ -52,7 +52,15 @@ to where the next one starts. The video stays on YouTube; nothing is downloaded 
 | Unit          | what the chapter covers                     | Overview                                  |
 | Unit          | the whole chapter (KJV)                     | Read Genesis 1                            |
 | Unit          | each verse block, with its class clip       | Genesis 1:1-2                             |
+| Unit          | `lessons/<book>/<chapter>.json` takeaways   | Key takeaways                             |
 | Unit          | `quizzes/<book>/<chapter>.json`, last       | Check your understanding                  |
+| Section       | last: one question from every chapter quiz  | Final assessment (Final Exam)             |
+| Custom page   | `data/people-kjv/people.json`               | People of Genesis                         |
+
+The Overview of each chapter shows what you will learn (the objectives in
+`lessons/<book>/<chapter>.json`) and about how long the chapter takes. Grading: chapter
+quizzes 40%, the final 60%, 70% to pass. The certificate is set up in Studio
+(Settings > Certificates), as the docs describe.
 
 Every chapter has the same units in the same order, as the docs' accessibility checklist asks
 ("Make Your Course Easy to Navigate"). A unit shows a camera icon in the outline when it has a

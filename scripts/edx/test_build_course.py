@@ -26,6 +26,30 @@ class BuildCourse(unittest.TestCase):
         self.assertNotIn("<h4>Introduction</h4>", "".join(v for k, v in files.items() if k.endswith(".html")))
         self.assertIn("about/overview.html", files)
 
+    def test_genesis_is_a_full_course(self):
+        files = b.build("genesis", b.parse_chapters(None, "genesis"))
+        # objectives and time on every Overview, key takeaways before every quiz
+        self.assertIn("What you will learn", files["html/genesis-1-01.html"])
+        self.assertIn("About ", files["html/genesis-1-01.html"])
+        seq = files["sequential/genesis-1.xml"].splitlines()
+        takeaways = [v for v in seq if "url_name" in v][-2].split('"')[1]
+        self.assertIn('display_name="Key takeaways"', files[f"vertical/{takeaways}.xml"])
+        # a final, graded as Final Exam, one question per chapter, one try each
+        self.assertIn('format="Final Exam"', files["sequential/final-exam.xml"])
+        self.assertEqual(sum(1 for k in files if k.startswith("problem/final-")), 50)
+        self.assertIn('max_attempts="1"', files["problem/final-1-01.xml"])
+        grading = json.loads(files["policies/2026/grading_policy.json"])
+        self.assertEqual(sum(g["weight"] for g in grading["GRADER"]), 1.0)
+        # the People page is in the course menu
+        policy = json.loads(files["policies/2026/policy.json"])["course/2026"]
+        self.assertIn("people", [t.get("url_slug") for t in policy["tabs"]])
+        self.assertIn("Abraham", files["tabs/people.html"])
+
+    def test_every_lesson_plan_parses(self):
+        for path in glob.glob(os.path.join(b.LESSONS, "*", "*.json")):
+            plan = json.load(open(path, encoding="utf-8"))
+            self.assertTrue(plan["objectives"] and plan["takeaways"], path)
+
     def test_every_quiz_parses(self):
         for path in glob.glob(os.path.join(b.QUIZZES, "*", "*.json")):
             quiz = json.load(open(path, encoding="utf-8"))

@@ -16,10 +16,14 @@ How a book maps onto a course:
     unit           what the chapter covers       Overview
                    the whole chapter (KJV)       Read Genesis 1
                    one per verse block           Genesis 1:1-2
+                   the main points               Key takeaways
                    the quiz, last (graded)       Check your understanding
+    section      last, one question per chapter  Final assessment (Final Exam, 60% of the grade)
+    page         in the course menu              People of Genesis
 
 The notes stay the source. Rebuild and re-import after a note changes; Studio replaces the
-course content in place. Quizzes come from scripts/edx/quizzes/<book>/<chapter>.json, drafted
+course content in place. Quizzes come from scripts/edx/quizzes/<book>/<chapter>.json, and each
+chapter's objectives and key takeaways from scripts/edx/lessons/<book>/<chapter>.json, both drafted
 from the note and reviewed by hand. A chapter without a quiz file simply has no quiz, and a
 chapter without a study note yet still gets its "Read" unit with the full text.
 
@@ -33,6 +37,8 @@ from olx import write_tar  # noqa: E402,F401  (kept importable from here)
 
 ROOT = os.environ.get("CJ_ROOT") or os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 QUIZZES = os.path.join(ROOT, "scripts", "edx", "quizzes")
+# per chapter: learning objectives and key takeaways, drafted from the note and reviewed by hand
+LESSONS = os.path.join(ROOT, "scripts", "edx", "lessons")
 ORG = "CyberJudah"
 PER_SECTION = 4  # chapters per reading session, as in 4 Chapters a Day
 
@@ -234,9 +240,18 @@ def units(body, sources=None):
     return out
 
 
-def chapter_overview(name, ch, title, lessons, text, quiz):
-    """The first unit of every chapter: what the chapter covers and the steps through it, always in
-    the same order."""
+def minutes(text, lessons, quiz):
+    """About how long a chapter takes: reading at 200 words a minute, two minutes a passage, the clips,
+    and a minute a question, to the nearest five minutes."""
+    words = len(re.sub(r"<[^>]+>", " ", text or "").split())
+    clips = sum((c[2] - c[1]) for _, _, c in lessons if c) / 60
+    total = words / 200 + 2 * len(lessons) + clips + (len(quiz["questions"]) if quiz else 0)
+    return max(5, int(round(total / 5.0)) * 5)
+
+
+def chapter_overview(name, ch, title, lessons, text, quiz, plan=None):
+    """The first unit of every chapter: what you will learn, how long it takes, and the steps through
+    it, always in the same order."""
     clips = sum(1 for _, _, c in lessons if c)
     passages = ", ".join(t for t, _, _ in lessons)
     steps = []
@@ -246,13 +261,30 @@ def chapter_overview(name, ch, title, lessons, text, quiz):
         steps.append(("Study", f"{len(lessons)} passage{'s' if len(lessons) != 1 else ''}, one page each: "
                                "the verses, what was taught on them, and the precepts."
                                + (f" {clips} of them play the moment of the class that taught them." if clips else "")))
+    if plan and plan.get("takeaways"):
+        steps.append(("Key takeaways", "the main points of the chapter on one page."))
     if quiz:
         steps.append(("Check your understanding", f"{len(quiz['questions'])} questions from what was taught."))
-    out = [f'<p class="lead">{olx.esc(title)}</p>', "<h3>In this chapter</h3>", '<ol class="steps">']
+    out = [f'<p class="lead">{olx.esc(title)}</p>',
+           f'<ul class="facts"><li><b>Time</b>About {minutes(text, lessons, quiz)} minutes</li>'
+           f'<li><b>Passages</b>{len(lessons)}</li><li><b>Class clips</b>{clips}</li>'
+           f'<li><b>Questions</b>{len(quiz["questions"]) if quiz else 0}</li></ul>']
+    if plan and plan.get("objectives"):
+        out += ["<h3>What you will learn</h3>", '<ul class="teaching">']
+        out += [f"<li>{olx.esc(o)}</li>" for o in plan["objectives"]]
+        out.append("</ul>")
+    out += ["<h3>In this chapter</h3>", '<ol class="steps">']
     out += [f"<li><strong>{olx.esc(k)}</strong> {olx.esc(v)}</li>" for k, v in steps]
     out.append("</ol>")
     if passages:
         out.append(f'<p class="note">Passages: {olx.esc(passages)}</p>')
+    return olx.page("\n".join(out))
+
+
+def takeaways_page(name, ch, plan):
+    """The page before the quiz: the chapter's main points, as the classes taught them."""
+    out = [f'<p class="lead">The main points of {olx.esc(name)} {ch}. Read them over, then check your understanding.</p>',
+           '<ol class="steps">'] + [f"<li>{olx.esc(t)}</li>" for t in plan["takeaways"]] + ["</ol>"]
     return olx.page("\n".join(out))
 
 
@@ -298,10 +330,44 @@ def attr(v):
     return html.escape(str(v), quote=True)
 
 
-def problem_xml(q, n):
+def problem_xml(q, n, **kw):
     why = f'<p>{inline(q["explain"])}</p>' if q.get("explain") else ""
     ref = f'<p>See {inline(q["ref"])}.</p>' if q.get("ref") else ""
-    return olx.single_select(f"Question {n}", q["q"], q["choices"], q["answer"], why + ref)
+    return olx.single_select(f"Question {n}", q["q"], q["choices"], q["answer"], why + ref, **kw)
+
+
+def final_questions(book, quizzes):
+    """One question from every chapter's quiz for the final, the same one on every build."""
+    out = []
+    for ch, quiz in sorted(quizzes.items()):
+        qs = quiz["questions"]
+        i = int(hashlib.sha1(f"{book}:{ch}:final".encode()).hexdigest(), 16) % len(qs)
+        out.append((ch, qs[i]))
+    return out
+
+
+def people_page(book, name):
+    """A custom page: the people of the book who appear in five verses or more, in order of first
+    appearance, from data/people-kjv/people.json."""
+    path = os.path.join(ROOT, "data", "people-kjv", "people.json")
+    if not os.path.exists(path):
+        return None
+    rows = []
+    for p in json.load(open(path, encoding="utf-8"))["people"]:
+        vs = [v for v in p["verses"] if v.split("/")[0] == book]
+        if len(vs) < 5 or p.get("type") == "Unknown":
+            continue
+        first = min(vs, key=lambda v: tuple(int(x) for x in v.split("/")[1:3]))
+        c, v = first.split("/")[1:3]
+        rows.append(((int(c), int(v)), p["name"], p.get("description", ""), f"{name} {c}:{v}", len(vs)))
+    if not rows:
+        return None
+    rows.sort()
+    items = [f'<li><span class="ref">{olx.esc(n)}</span><p>{olx.esc(d)}</p>'
+             f'<p class="note">First named in {olx.esc(r)} · in {k} verses of {olx.esc(name)}</p></li>'
+             for _, n, d, r, k in rows]
+    return olx.page(f'<p class="lead">The people of {olx.esc(name)}, in the order they first appear, '
+                    f'{len(rows)} in all.</p>\n<ul class="cards">\n' + "\n".join(items) + "\n</ul>")
 
 
 def book_outcomes(name):
@@ -340,11 +406,13 @@ def build(book, chapters, run="2026"):
          ("Read the chapter.", "Every chapter opens with the whole chapter to read, verse by verse."),
          ("Study it.", "Then the chapter is opened block by block: the verses, what was taught on them, "
                        "and the precepts, the scriptures that go with them."),
-         ("Check your understanding.", "After each chapter there is a short quiz from what was taught. "
-                                       "You get two tries at each question, and the answer shows the scripture. "
-                                       "The quizzes make up your grade, and 70% passes.") if has_quiz else
+         ("Key takeaways.", "Each chapter closes with its main points on one page, to review before the quiz."),
+         ("Check your understanding.", "Then a short quiz from what was taught. You get two tries at each "
+                                       "question, and the answer shows the scripture.") if has_quiz else
          ("Check your understanding.", "Short quizzes after each chapter are being added."),
-         ("Your progress.", "The Progress tab shows what you have finished and your quiz scores.")],
+         ("Final assessment.", "At the end, one question from every chapter, one try each. The chapter quizzes "
+                               "count 40% of your grade and the final 60%; 70% passes and earns the certificate."),
+         ("Your progress.", "The Progress tab shows what you have finished and your scores.")],
         "Take it at your own pace. A chapter a day, or four, as you are able.", book_outcomes(name))
     files["html/intro-about.html"] = intro + "\n"
     files["html/intro-about.xml"] = '<html filename="intro-about" display_name="What this course does"/>\n'
@@ -352,6 +420,8 @@ def build(book, chapters, run="2026"):
     files["sequential/intro-about.xml"] = '<sequential display_name="About this course">\n  <vertical url_name="intro-about"/>\n</sequential>\n'
     files["chapter/intro.xml"] = '<chapter display_name="Introduction">\n  <sequential url_name="intro-about"/>\n</chapter>\n'
     chapter_refs = ["intro"]
+    quizzes = {}
+    total_minutes = 0
     for s, items in sorted(sections.items()):
         first, last = s * PER_SECTION + 1, min((s + 1) * PER_SECTION, index[book]["chapters"])
         sec_id = f"{book}-reading-{s + 1}"
@@ -370,13 +440,20 @@ def build(book, chapters, run="2026"):
             quiz_path = os.path.join(QUIZZES, book, f"{ch}.json")
             quiz = json.load(open(quiz_path, encoding="utf-8")) if os.path.exists(quiz_path) else None
             title = meta.get("title", f"{name} {ch}")
-            ordered = [("Overview", chapter_overview(name, ch, title, lessons, text, quiz), None)]
+            plan_path = os.path.join(LESSONS, book, f"{ch}.json")
+            plan = json.load(open(plan_path, encoding="utf-8")) if os.path.exists(plan_path) else None
+            if quiz:
+                quizzes[ch] = quiz
+            total_minutes += minutes(text, lessons, quiz)
+            ordered = [("Overview", chapter_overview(name, ch, title, lessons, text, quiz, plan), None)]
             if intro:
                 reading_intros.append(intro)
             chapter_titles.append(title)
             if text:
                 ordered.append((f"Read {name} {ch}", text, None))
             ordered += lessons
+            if plan and plan.get("takeaways"):
+                ordered.append(("Key takeaways", takeaways_page(name, ch, plan), None))
             for n, (utitle, content, clip) in enumerate(ordered, 1):
                 vid = f"{seq_id}-{n:02d}"
                 files[f"html/{vid}.html"] = content + "\n"
@@ -427,20 +504,58 @@ def build(book, chapters, run="2026"):
         )
         chapter_refs.append(sec_id)
 
+    # the final assessment: one question from every chapter, one try each
+    final = final_questions(book, quizzes) if len(quizzes) >= 5 else []
+    if final:
+        about = ('<p class="lead">The final assessment covers the whole book: one question from every chapter, '
+                 f'{len(final)} in all.</p>\n<ul class="facts"><li><b>Questions</b>{len(final)}</li>'
+                 f'<li><b>Tries</b>One per question</li><li><b>Weight</b>60% of your grade</li>'
+                 f'<li><b>To pass</b>70% overall</li></ul>\n'
+                 '<p>Review the key takeaways of each chapter before you begin. Each answer shows the scripture '
+                 'behind it once you submit.</p>')
+        files["html/final-about.html"] = olx.page(about) + "\n"
+        files["html/final-about.xml"] = '<html filename="final-about" display_name="Before you begin"/>\n'
+        files["vertical/final-about.xml"] = '<vertical display_name="Before you begin">\n  <html url_name="final-about"/>\n</vertical>\n'
+        verts = ["final-about"]
+        for start in range(0, len(final), 10):
+            part = final[start:start + 10]
+            vid = f"final-{start // 10 + 1}"
+            probs = []
+            for n, (ch, q) in enumerate(part, start + 1):
+                pid = f"{vid}-{n:02d}"
+                files[f"problem/{pid}.xml"] = problem_xml(q, n, max_attempts=1)
+                probs.append(pid)
+            files[f"vertical/{vid}.xml"] = (
+                f'<vertical display_name="Questions {start + 1}-{start + len(part)}">\n'
+                + "".join(f'  <problem url_name="{p}"/>\n' for p in probs) + "</vertical>\n")
+            verts.append(vid)
+        files["sequential/final-exam.xml"] = (
+            f'<sequential display_name="{attr(f"{name}: Final assessment")}" graded="true" format="Final Exam">\n'
+            + "".join(f'  <vertical url_name="{v}"/>\n' for v in verts) + "</sequential>\n")
+        files["chapter/final.xml"] = '<chapter display_name="Final assessment">\n  <sequential url_name="final-exam"/>\n</chapter>\n'
+        chapter_refs.append("final")
+
     files["course.xml"] = f'<course url_name="{run}" org="{ORG}" course="{code}"/>\n'
     files[f"course/{run}.xml"] = (
         f'<course display_name="{attr(name)}" language="en" start="2026-01-01T00:00:00Z">\n'
         + "".join(f'  <chapter url_name="{c}"/>\n' for c in chapter_refs)
         + "</course>\n"
     )
+    # custom pages in the course menu (docs.openedx.org, "Create Course Tabs in OLX")
+    tabs = [{"type": "courseware", "name": "Course"}, {"type": "progress", "name": "Progress"}]
+    people = people_page(book, name)
+    if people:
+        files["tabs/people.html"] = people + "\n"
+        tabs.append({"course_staff_only": False, "name": f"People of {name}", "type": "static_tab", "url_slug": "people"})
     files[f"policies/{run}/policy.json"] = json.dumps(
         {f"course/{run}": {"display_name": name, "language": "en", "start": "2026-01-01T00:00:00Z",
-                           "self_paced": True, "tabs": [{"type": "courseware", "name": "Course"},
-                                                         {"type": "progress", "name": "Progress"}]}},
+                           "self_paced": True, "tabs": tabs}},
         indent=2) + "\n"
+    grader = [{"type": "Quiz", "short_label": "Q", "min_count": 1, "drop_count": 0, "weight": 0.4 if final else 1.0}]
+    if final:
+        grader.append({"type": "Final Exam", "short_label": "Final", "min_count": 1, "drop_count": 0, "weight": 0.6})
     files[f"policies/{run}/grading_policy.json"] = json.dumps(
-        {"GRADER": [{"type": "Quiz", "short_label": "Q", "min_count": 1, "drop_count": 0, "weight": 1.0}],
-         "GRADE_CUTOFFS": {"Pass": 0.7}}, indent=2) + "\n"
+        {"GRADER": grader, "GRADE_CUTOFFS": {"Pass": 0.7}}, indent=2) + "\n"
     card = olx.card_png(name, "The Books", "book")
     if card:
         files["static/course_card.png"] = card
@@ -455,8 +570,12 @@ def build(book, chapters, run="2026"):
          f"Then it is opened block by block: the verses set apart, the teaching point by point with the class "
          f"each point was taught in, and the precepts, the scriptures that go with it. Where a class taught "
          f"those verses, the lesson plays that moment of the class.",
-         f"After each chapter a short quiz checks your understanding, with the scripture behind every answer. "
-         f"The course is self paced: read a chapter a day, or four, and the Progress page keeps your place."],
+         f"Each chapter closes with its key takeaways and a short quiz that checks your understanding, with the "
+         f"scripture behind every answer."
+         + (f" A final assessment covers the whole book, and passing the course (70%) earns a certificate."
+            if final else ""),
+         f"About {max(1, round(total_minutes / 60))} hours in all, self paced: read a chapter a day, or four, "
+         f"and the Progress page keeps your place."],
         book_outcomes(name))
     files["about/short_description.html"] = f"Read {html.escape(name)} in the KJV with the 4 Chapters a Day study notes.\n"
     return files
