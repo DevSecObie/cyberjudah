@@ -14,6 +14,9 @@ class BuildCourse(unittest.TestCase):
                 xml.dom.minidom.parseString(f"<div>{text}</div>")
         self.assertIn("sequential/genesis-1.xml", files)
         self.assertIn("Reading 1: Genesis 1-4", files["chapter/genesis-reading-1.xml"])
+        # the chapter itself comes first, all 31 verses
+        self.assertIn('display_name="Read Genesis 1"', files["vertical/genesis-1-01.xml"])
+        self.assertEqual(files["html/genesis-1-01.html"].count("<p><sup>"), 31)
 
     def test_every_quiz_parses(self):
         for path in glob.glob(os.path.join(b.QUIZZES, "*", "*.json")):

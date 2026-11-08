@@ -12,7 +12,8 @@ How a book maps onto a course:
     course       the book                        Genesis
     section      one reading session (4 ch.)     Reading 1: Genesis 1-4
     subsection   one chapter                     Genesis 1: The Creation of Light and Mankind
-    unit         one verse block from the note   Genesis 1:1-2
+    unit         the whole chapter (KJV), then   Read Genesis 1
+                 one per verse block from note   Genesis 1:1-2
     quiz         one graded subsection/chapter   Genesis 1: Check your understanding
 
 The notes stay the source. Rebuild and re-import after a note changes; Studio replaces the
@@ -129,6 +130,14 @@ def units(body):
     return out
 
 
+def chapter_text(book, chapter):
+    """The whole KJV chapter, one paragraph per verse, from data/bible/<book>.json."""
+    verses = json.load(open(os.path.join(ROOT, "data", "bible", f"{book}.json"), encoding="utf-8"))["chapters"].get(str(chapter))
+    if not verses:
+        return None
+    return "\n".join(f"<p><sup>{n}</sup> {html.escape(v, quote=False)}</p>" for n, v in enumerate(verses, 1))
+
+
 # ---------------------------------------------------------------- OLX
 
 def attr(v):
@@ -177,7 +186,11 @@ def build(book, chapters, run="2026"):
         for ch, (meta, body) in items:
             seq_id = f"{book}-{ch}"
             verts = []
-            for n, (title, content) in enumerate(units(body), 1):
+            lessons = units(body)
+            text = chapter_text(book, ch)
+            if text:
+                lessons.insert(0, (f"Read {name} {ch}", text))
+            for n, (title, content) in enumerate(lessons, 1):
                 vid = f"{seq_id}-{n:02d}"
                 files[f"html/{vid}.html"] = content + "\n"
                 files[f"html/{vid}.xml"] = f'<html filename="{vid}" display_name="{attr(title)}"/>\n'

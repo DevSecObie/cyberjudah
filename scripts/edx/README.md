@@ -18,6 +18,7 @@ It writes `dist/edx/<book>.tar.gz` and needs nothing but Python 3.9+.
 | Course        | one book                                    | Genesis                                   |
 | Section       | one reading session of four chapters        | Reading 1: Genesis 1-4                    |
 | Subsection    | one chapter                                 | Genesis 1: The Creation of Light and Mankind |
+| Unit          | the whole chapter (KJV) to read first       | Read Genesis 1                            |
 | Unit          | the introduction, then each verse block     | Genesis 1:1-2                             |
 | Graded quiz   | `quizzes/<book>/<chapter>.json`, if present | Genesis 1: Check your understanding       |
 
