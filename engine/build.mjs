@@ -28,6 +28,7 @@ import * as pagefind from "pagefind";
 
 import { fetchBoard, findVisuals, placeFrames } from "./frames.mjs";
 import { teachingDate } from "./timeline.mjs";
+import { writeTimelineData } from "./timeline-data.mjs";
 import { strongsPages } from "./strongs-pages.mjs";
 import { loadLibrary, plain, VERDICT, versesOf, firstVerse } from "./library.mjs";
 import { loadShows, showOf } from "./shows.mjs";
@@ -50,6 +51,7 @@ fs.rmSync(OUT, { recursive: true, force: true });
 fs.mkdirSync(OUT, { recursive: true });
 const API = path.join(OUT, "api");
 const SEARCH = path.join(OUT, "search");
+writeTimelineData(ROOT, API);
 
 const L = loadLibrary(ROOT);
 const { BOOKS, CHAPTERS, bible, bookSlug, testament, chapterUrl, bookUrl, handbook, sectionUrl, partUrl, sortedPrecepts, preceptUrl, cases, ERAS, caseUrl, isBlessing, notes, classNotes, captainNotes, cited, uniqueCitations, linked, moments, commentary, redOf } = L;
@@ -902,6 +904,7 @@ const stats = {
 };
 writeJson(path.join(API, "stats.json"), stats);
 writeJson(path.join(API, "index.json"), {
+  timeline: "/api/timeline/index.json", timelineAttribution: "/api/timeline/attribution.json", timelineLicense: "/api/timeline/license.txt",
   kjv: "/api/kjv/books.json", chapter: "/api/kjv/<book-slug>/<chapter>.json", concordance: "/api/concordance/<book-slug>/<chapter>.json",
   notes: "/api/notes/index.json", note: "/api/notes/<site-path>.json", laws: "/api/laws/index.json", law: "/api/laws/<SECTION>.json",
   precepts: "/api/precepts/index.json", precept: "/api/precepts/<slug>.json", doctrine: "/api/doctrine/index.json", doctrineEntry: "/api/doctrine/<slug>.json", cases: "/api/cases/index.json", case: "/api/cases/<slug>.json",
