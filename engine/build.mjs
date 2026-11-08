@@ -1,4 +1,5 @@
 import { loadKjvPeople, validateKjvPeople, validateKjvPlaces, EVIDENCE } from "./people-kjv.mjs";
+import { chapterIndex, writeByChapter, BY_CHAPTER_BUDGET } from "./by-chapter.mjs";
 
 import { correctedClass, classCatalog, loadClassBroadcasts, loadOutlineTeachers, outlinedClass } from "./class-metadata.mjs";
 // The CyberJudah content engine.
@@ -472,6 +473,16 @@ for (const p of placesDoc.places) {
   placesIndex.push({ id: p.id, name: p.name, names: p.names, description: p.description, region: "", verses: p.verses.length, first: p.verses[0] });
 }
 writeJson(path.join(API, "places", "index.json"), placesIndex);
+// Who and where each chapter names, one small file per chapter (an empty list where none).
+{
+  const books = BOOKS.map((b) => [bookSlug[b], Object.keys(bible[b]).map(Number).sort((x, y) => x - y)]);
+  const sizes = {
+    people: writeByChapter(path.join(API, "people", "by-chapter"), books, chapterIndex(peopleDoc.people)),
+    places: writeByChapter(path.join(API, "places", "by-chapter"), books, chapterIndex(placesDoc.places)),
+  };
+  const kib = (n) => `${(n / 1024).toFixed(1)} KiB`;
+  for (const [kind, r] of Object.entries(sizes)) console.log(`by-chapter: ${kind} ${r.files} files, ${kib(r.bytes)} of ${kib(BY_CHAPTER_BUDGET.total)}; largest ${r.largest.key} ${kib(r.largest.bytes)} of ${kib(BY_CHAPTER_BUDGET.file)}`);
+}
 
 /* ---------------- api: encyclopedia, topics ---------------- */
 writeJson(path.join(API, "encyclopedia", "index.json"), L.encNotes.map((n) => ({ slug: n.slug, title: n.title, url: n.url, summary: n.summary ?? "" })));
@@ -899,6 +910,7 @@ writeJson(path.join(API, "index.json"), {
   precepts: "/api/precepts/index.json", precept: "/api/precepts/<slug>.json", doctrine: "/api/doctrine/index.json", doctrineEntry: "/api/doctrine/<slug>.json", cases: "/api/cases/index.json", case: "/api/cases/<slug>.json",
   concordanceIndex: "/api/concordance/index.json", concordanceTeachers: "/api/concordance/teachers.json", glossary: "/api/glossary/index.json", concordanceBook: "/api/concordance/<book-slug>.json", encyclopedia: "/api/encyclopedia/index.json",
   topics: "/api/topics/index.json", topic: "/api/topics/<slug>.json", byBook: "/api/by-book.json",
+  peopleByChapter: "/api/people/by-chapter/<book-slug>/<chapter>.json", placesByChapter: "/api/places/by-chapter/<book-slug>/<chapter>.json",
   history: "/api/history/index.json", shows: "/api/shows/index.json", strongs: "/api/strongs/<number>.json", strongsIndex: "/api/strongs/index.json", library: "/api/library/index.json", libraryBook: "/api/library/<slug>/book.json", libraryChapter: "/api/library/<slug>/chapter/<k>.json", xref: "/api/xref/<book-slug>/<chapter>.json", stats: "/api/stats.json",
   search: { classes: "/search/classes.json", captains: "/search/captains.json", topics: "/search/topics.json", books: "/search/books.json", laws: "/search/laws.json", precepts: "/search/precepts.json", doctrine: "/search/doctrine.json", cases: "/search/cases.json", pagefind: "/pagefind/pagefind.js", sqlite: "/library.sqlite.gz" },
   downloads: { vault: "/downloads/vault.zip" },

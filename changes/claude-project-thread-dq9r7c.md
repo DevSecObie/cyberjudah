@@ -1,0 +1,1 @@
+- cyberjudah.io opens the CyberJudah app: the home page and Bible chapters go to the web app at web.cyberjudah.io. About, Teachings, Shows, Giving the Sense, Downloads and the other site pages stay on the site. Turning `APP_FRONT_DOOR` off in `site/wrangler.jsonc` undoes it.

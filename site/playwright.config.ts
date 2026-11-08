@@ -12,8 +12,10 @@ export default defineConfig({
   projects: [390, 880, 1280, 1600].map((width) => ({
     name: `chromium-${width}`, use: { browserName: "chromium", viewport: { width, height: 900 } },
   })),
+  // The site's own pages are tested with the front door off (it sends / and Bible chapters to
+  // web.cyberjudah.io in production; tests/front-door.test.mjs covers that).
   webServer: {
-    command: "npx wrangler d1 execute cyberjudah --local --persist-to .wrangler/e2e --file e2e/search.sql && npm run preview -- --local --port 33359 --persist-to .wrangler/e2e",
+    command: "npx wrangler d1 execute cyberjudah --local --persist-to .wrangler/e2e --file e2e/search.sql && npm run preview -- --local --port 33359 --persist-to .wrangler/e2e --var APP_FRONT_DOOR:off",
     url: "http://127.0.0.1:33359/search",
     reuseExistingServer: false,
     timeout: 120_000,
