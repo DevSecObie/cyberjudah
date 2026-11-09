@@ -341,6 +341,7 @@ def render(t, d, feed):
             walk = [([x.strip() for x in w.get("read", []) if x.strip()], [x.strip() for x in w.get("notes", []) if x.strip()])
                     for w in p.get("walk", [])]
             if any(r for r, _ in walk): out += [lib.R(p["reading"].strip(), p.get("ts"), walk, reader=p.get("reader")), ""]
+            if p.get("strongs"): out += [lib.strongs_block(p["strongs"]), ""]
             continue
         if p.get("said"):
             # teaching that opened no scripture, in its place in the class
