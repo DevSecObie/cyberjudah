@@ -72,6 +72,34 @@ def W(ref, ts=None, walk=()):
     if missing: raise SystemExit(f"{ref}: verses {missing} in the heading but not walked")
     return "\n".join(parts)
 
+_STRONGS = {}
+
+
+def strongs_block(codes):
+    """The Strong's entries for the Hebrew or Greek words a class explained, shown right after
+    the reading that named them. It is a study aid from data/strongs, so it carries no timestamp
+    and no commentary: the class's own words stay in the reading above it."""
+    rows = []
+    for code in codes:
+        code = code.strip().upper()
+        lang = {"H": "hebrew", "G": "greek"}.get(code[:1])
+        if not lang or not code[1:].isdigit():
+            raise SystemExit(f"strongs: {code!r} is not a Strong's number (H5251, G3794)")
+        if lang not in _STRONGS:
+            with open(os.path.join(ROOT, "data", "strongs", f"{lang}.json"), encoding="utf-8") as f:
+                _STRONGS[lang] = json.load(f)
+        e = _STRONGS[lang].get(code)
+        if not e:
+            raise SystemExit(f"strongs: {code} is not in data/strongs/{lang}.json")
+        line = f"> **{e['lemma']}** {e.get('xlit', '')} ({code}): {e['def'].strip().rstrip('.;')}."
+        if e.get("kjv"):
+            line += f" KJV: {e['kjv'].strip()}"
+        rows.append(line)
+    head = "Strong's Hebrew and Greek dictionaries" if len({c.strip()[:1].upper() for c in codes}) > 1 else \
+        f"Strong's {'Hebrew' if codes[0].strip()[:1].upper() == 'H' else 'Greek'} dictionary"
+    return "\n".join(['<div class="reading">', "", head, "", "\n>\n".join(rows), "", "</div>", ""])
+
+
 def R(source, ts=None, walk=(), reader=None):
     """A reading from a book, article or clip: the source line, then each stretch read as a
     blockquote followed at once by the commentary on it. source is the citation as stated on

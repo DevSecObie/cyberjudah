@@ -172,6 +172,17 @@ Reading from On-screen definition: ensign in the Bible  *[[45:25](https://www.yo
 
 <div class="reading">
 
+Strong's Hebrew dictionary
+
+> **נֵס** nêç (H5251): a flag; also a sail; by implication, a flagstaff; generally a signal; figuratively, a token. KJV: banner, pole, sail, (en-) sign, standard.
+>
+> **אוֹת** ʼôwth (H226): a signal (literally or figuratively), as a flag, beacon, monument, omen, prodigy, evidence, etc. KJV: mark, miracle, (en-) sign, token.
+
+</div>
+
+
+<div class="reading">
+
 Reading from On-screen definition: a standard in the Bible  *[[47:14](https://www.youtube.com/watch?v=hGBBZ9s9MMw&t=2834s)]*
 
 > In the Bible, a standard carries both a physical military meaning and a spiritual/moral meaning. Literal and military meaning: banner or flag.
@@ -185,6 +196,15 @@ Reading from On-screen definition: a standard in the Bible  *[[47:14](https://ww
 > And Degel, a military banner or tribal standard.
 
 - A military banner or tribal standard.
+
+</div>
+
+
+<div class="reading">
+
+Strong's Hebrew dictionary
+
+> **דֶּגֶל** degel (H1714): a flag. KJV: banner, standard.
 
 </div>
 
@@ -224,6 +244,15 @@ Reading from The note on Jehovah-nissi  *[[52:44](https://www.youtube.com/watch?
 > Jehovah-nissi ... means the Lord is my banner.
 
 - So you all see what Jehovah-nissi mean? That altar that he build and he call it Jehovah-nissi, it mean the Lord is my banner. What does that mean? The Lord is my banner. When you go back to the history, when you read further up, it told you when we was warring with Amalek, what did Moses do? Remember, a banner is a sign, but it's also a pole. And what you do with it? You lift it up.
+
+</div>
+
+
+<div class="reading">
+
+Strong's Hebrew dictionary
+
+> **יְהֹוָה נִסִּי** Yᵉhôvâh niççîy (H3071): Jehovah-Nissi, a symbolical name of an altar in the Desert. KJV: Jehovah-nissi.
 
 </div>
 
