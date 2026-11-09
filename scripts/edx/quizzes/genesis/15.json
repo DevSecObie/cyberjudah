@@ -1,0 +1,54 @@
+{
+  "chapter": "Genesis 15",
+  "status": "draft: drafted from docs/study/genesis/15.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "What was counted to Abram for righteousness?",
+      "choices": [
+        "His wealth",
+        "His circumcision",
+        "His age",
+        "He believed the Lord, and his faith showed itself in his works"
+      ],
+      "answer": 3,
+      "explain": "It shall be our righteousness if we observe to do all these commandments (Deuteronomy 6:25).",
+      "ref": "Genesis 15:5-6; Deuteronomy 6:25"
+    },
+    {
+      "q": "Where was the prophecy of Genesis 15:13 (a stranger in a land not theirs, four hundred years) fulfilled?",
+      "choices": [
+        "In America in 1619",
+        "In Babylon",
+        "In Rome",
+        "In Egypt, at the Exodus"
+      ],
+      "answer": 3,
+      "explain": "The sojourning of Israel in Egypt was four hundred and thirty years, and it ended the selfsame day (Exodus 12:40-41).",
+      "ref": "Genesis 15:13-16; Exodus 12:40-41"
+    },
+    {
+      "q": "How did Israel come out 'with great substance'?",
+      "choices": [
+        "They found gold in the wilderness",
+        "They required silver, gold and raiment of the Egyptians and spoiled Egypt",
+        "Pharaoh paid them wages",
+        "They traded cattle along the way"
+      ],
+      "answer": 1,
+      "explain": "The Lord gave the people favour, and they spoiled the Egyptians (Exodus 12:33-36).",
+      "ref": "Genesis 15:13-16; Exodus 12:33-36"
+    },
+    {
+      "q": "What was the deep sleep and horror of great darkness that fell on Abram?",
+      "choices": [
+        "He was sick",
+        "An attack of the enemy",
+        "The sun had set on the sacrifice",
+        "He was about to receive a vision of future prophecy"
+      ],
+      "answer": 3,
+      "explain": "In a dream, in a vision of the night, He openeth the ears of men (Job 33:15-16).",
+      "ref": "Genesis 15:9-12; Amos 3:7"
+    }
+  ]
+}

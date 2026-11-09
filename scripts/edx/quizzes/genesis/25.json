@@ -1,0 +1,66 @@
+{
+  "chapter": "Genesis 25",
+  "status": "draft: drafted from docs/study/genesis/25.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "Who received all that Abraham had?",
+      "choices": [
+        "Isaac",
+        "Ishmael",
+        "The sons of Keturah",
+        "Eliezer of Damascus"
+      ],
+      "answer": 0,
+      "explain": "To the sons of the concubines he gave gifts and sent them away; the inheritance followed the child of the promise.",
+      "ref": "Genesis 25:1-6"
+    },
+    {
+      "q": "What prophecy did Rebekah receive when the children struggled within her?",
+      "choices": [
+        "Both sons will be kings",
+        "The younger shall serve the elder",
+        "One son will die in the wilderness",
+        "Two nations are in thy womb, and the elder shall serve the younger"
+      ],
+      "answer": 3,
+      "explain": "Good is set against evil and the godly against the sinner (Ecclesiasticus 33:14-15).",
+      "ref": "Genesis 25:22-23"
+    },
+    {
+      "q": "What does Jacob's hand holding Esau's heel mean, according to 2 Esdras 6?",
+      "choices": [
+        "Jacob tried to stop Esau's birth",
+        "They were born at the same moment",
+        "Jacob would serve Esau",
+        "Esau is the end of the world and Jacob the beginning of the one that follows"
+      ],
+      "answer": 3,
+      "explain": "When Esau's rulership is done, Jacob comes into power; that is how we know the times.",
+      "ref": "Genesis 25:24-26; 2 Esdras 6:7-9"
+    },
+    {
+      "q": "For what did Esau sell his birthright?",
+      "choices": [
+        "Thirty pieces of silver",
+        "His father's blessing",
+        "A field",
+        "Red pottage"
+      ],
+      "answer": 3,
+      "explain": "Therefore was his name called Edom, red. Thus Esau despised his birthright.",
+      "ref": "Genesis 25:29-34"
+    },
+    {
+      "q": "How old was Isaac when he took Rebekah to wife?",
+      "choices": [
+        "Twenty",
+        "Forty",
+        "Sixty",
+        "A hundred"
+      ],
+      "answer": 1,
+      "explain": "Brothers waiting on a wife, be patient and stay virtuous; the Most High had the right sister appointed.",
+      "ref": "Genesis 25:20-21"
+    }
+  ]
+}

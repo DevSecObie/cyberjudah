@@ -1,0 +1,66 @@
+{
+  "chapter": "Genesis 30",
+  "status": "draft: drafted from docs/study/genesis/30.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "When Rachel said 'Give me children, or else I die,' what did Jacob answer?",
+      "choices": [
+        "Take Leah's mandrakes",
+        "Go to your father",
+        "Am I in God's stead, who hath withheld from thee the fruit of the womb?",
+        "Pray at Bethel"
+      ],
+      "answer": 2,
+      "explain": "They that marry shall have trouble in the flesh (1 Corinthians 7:28).",
+      "ref": "Genesis 30:1-2; 1 Corinthians 7:28"
+    },
+    {
+      "q": "Who opened Rachel's womb so she bare Joseph?",
+      "choices": [
+        "The mandrakes",
+        "Laban's household gods",
+        "Bilhah",
+        "God, who remembered her; not the mandrakes"
+      ],
+      "answer": 3,
+      "explain": "He maketh the barren woman to keep house and to be a joyful mother of children (Psalms 113:9).",
+      "ref": "Genesis 30:22-24; Psalms 113:9"
+    },
+    {
+      "q": "What did Laban learn by experience?",
+      "choices": [
+        "The Lord had blessed him for Jacob's sake",
+        "Jacob was stealing from him",
+        "His gods protected his flock",
+        "Rachel was his favourite"
+      ],
+      "answer": 0,
+      "explain": "With Jacob in his household Laban was increasing.",
+      "ref": "Genesis 30:27"
+    },
+    {
+      "q": "What did Jacob ask Laban for as wages?",
+      "choices": [
+        "Half the flock",
+        "Nothing given: only the speckled, spotted and brown cattle from then on",
+        "Rachel's dowry back",
+        "Silver and gold"
+      ],
+      "answer": 1,
+      "explain": "Thou shalt not give me any thing. That is the spirit of the forefathers: provide for your own house, for the Most High provides.",
+      "ref": "Genesis 30:31-33"
+    },
+    {
+      "q": "What did Jacob mean by 'so shall my righteousness answer for me'?",
+      "choices": [
+        "God will hide my faults",
+        "Laban's sons will speak for me",
+        "Judge me on my works: terms set in the open that anyone could check",
+        "My vow at Bethel protects me"
+      ],
+      "answer": 2,
+      "explain": "He knew they were going to have something bad to say about his increase.",
+      "ref": "Genesis 30:33"
+    }
+  ]
+}

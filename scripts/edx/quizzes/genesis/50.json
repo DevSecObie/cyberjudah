@@ -1,0 +1,54 @@
+{
+  "chapter": "Genesis 50",
+  "status": "draft: drafted from docs/study/genesis/50.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "What does Abelmizraim mean?",
+      "choices": [
+        "The field of Ephron",
+        "The well of the oath",
+        "God has heard",
+        "The mourning of the Egyptians"
+      ],
+      "answer": 3,
+      "explain": "The Canaanites took the mourning company of Israel for Egyptians.",
+      "ref": "Genesis 50:10-11"
+    },
+    {
+      "q": "What did Joseph answer when his brothers feared he would requite them?",
+      "choices": [
+        "Now you will be my servants",
+        "Go back to Canaan",
+        "Fear not: am I in the place of God? Ye thought evil, but God meant it unto good",
+        "Leave Egypt at once"
+      ],
+      "answer": 2,
+      "explain": "He comforted them and spake kindly unto them; always keep that spirit of forgiveness.",
+      "ref": "Genesis 50:15-21"
+    },
+    {
+      "q": "How long did Joseph live?",
+      "choices": [
+        "An hundred forty and seven",
+        "Ninety",
+        "An hundred and ten years",
+        "An hundred and twenty"
+      ],
+      "answer": 2,
+      "explain": "He saw the children of Ephraim of the third generation.",
+      "ref": "Genesis 50:22-23"
+    },
+    {
+      "q": "Why can no one show the mummy of Joseph?",
+      "choices": [
+        "It was stolen by robbers",
+        "Israel carried his bones out of Egypt, according to his oath",
+        "He was buried at sea",
+        "He was burned"
+      ],
+      "answer": 1,
+      "explain": "Moses took the bones of Joseph with him (Exodus 13:19).",
+      "ref": "Genesis 50:24-26; Exodus 13:19"
+    }
+  ]
+}

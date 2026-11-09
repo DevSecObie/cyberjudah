@@ -1,0 +1,66 @@
+{
+  "chapter": "Genesis 17",
+  "status": "draft: drafted from docs/study/genesis/17.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "What does it mean to be perfect, as Abram was commanded at ninety and nine?",
+      "choices": [
+        "To walk in His statutes and keep His commandments",
+        "To never make a mistake",
+        "To be circumcised",
+        "To be old and wise"
+      ],
+      "answer": 0,
+      "explain": "A perfect heart walks in His statutes and keeps His commandments (1 Kings 8:61).",
+      "ref": "Genesis 17:1; 1 Kings 8:61"
+    },
+    {
+      "q": "With whom is the covenant established, according to Genesis 17:7?",
+      "choices": [
+        "Everyone who believes, whatever their nation",
+        "Abraham and his literal seed after him",
+        "Ishmael's sons",
+        "The Egyptians"
+      ],
+      "answer": 1,
+      "explain": "Seed is literal offspring, not a spiritual metaphor. Israel is the seed of Abraham (Isaiah 41:8).",
+      "ref": "Genesis 17:7; Isaiah 41:8"
+    },
+    {
+      "q": "What is the token of the covenant in Genesis 17?",
+      "choices": [
+        "The rainbow",
+        "Circumcision of every man child at eight days",
+        "The Sabbath",
+        "Tithes"
+      ],
+      "answer": 1,
+      "explain": "It still has to be done; circumcision is one of the laws within the covenant.",
+      "ref": "Genesis 17:10-14; Romans 4:11"
+    },
+    {
+      "q": "Through which son is the covenant established?",
+      "choices": [
+        "Ishmael",
+        "Both equally",
+        "Isaac",
+        "Eliezer of Damascus"
+      ],
+      "answer": 2,
+      "explain": "In Isaac shall thy seed be called; the children of the promise are counted for the seed (Romans 9:7-9).",
+      "ref": "Genesis 17:20-21; Romans 9:7-9"
+    },
+    {
+      "q": "When did Abraham circumcise the males of his house?",
+      "choices": [
+        "Eight days later",
+        "When Isaac was born",
+        "After he moved to Hebron",
+        "The selfsame day he received the commandment"
+      ],
+      "answer": 3,
+      "explain": "That is the righteous example: he received the commandment and performed it the same day.",
+      "ref": "Genesis 17:23-27"
+    }
+  ]
+}

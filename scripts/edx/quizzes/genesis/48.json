@@ -1,0 +1,42 @@
+{
+  "chapter": "Genesis 48",
+  "status": "draft: drafted from docs/study/genesis/48.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "What did Jacob mean by 'Ephraim and Manasseh, as Reuben and Simeon, they shall be mine'?",
+      "choices": [
+        "They would serve Reuben and Simeon",
+        "They would live in Canaan",
+        "He took Joseph's sons as his own, partakers of the same promises",
+        "They lost their inheritance"
+      ],
+      "answer": 2,
+      "explain": "They became children of Israel.",
+      "ref": "Genesis 48:5"
+    },
+    {
+      "q": "On whose head did Israel lay his right hand?",
+      "choices": [
+        "Manasseh, the firstborn",
+        "Ephraim, the younger",
+        "Joseph",
+        "Benjamin"
+      ],
+      "answer": 1,
+      "explain": "Guiding his hands wittingly, for Manasseh was the firstborn.",
+      "ref": "Genesis 48:14"
+    },
+    {
+      "q": "Why was Ephraim set above Manasseh?",
+      "choices": [
+        "Ephraim was taller",
+        "Manasseh had sinned",
+        "Ephraim became the head of the Northern Kingdom of Israel",
+        "Joseph asked for it"
+      ],
+      "answer": 2,
+      "explain": "Truly his younger brother shall be greater than he.",
+      "ref": "Genesis 48:17-20"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "chapter": "Genesis 27",
+  "status": "draft: drafted from docs/study/genesis/27.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "Why did Rebekah move for Jacob to receive the blessing?",
+      "choices": [
+        "She disliked Esau's wives only",
+        "Isaac asked her to",
+        "She carried the word from the Lord: the elder shall serve the younger",
+        "Jacob begged her"
+      ],
+      "answer": 2,
+      "explain": "She knew the blessing belonged to Jacob by prophecy, and she took the curse upon herself.",
+      "ref": "Genesis 27:5-13; Genesis 25:23"
+    },
+    {
+      "q": "What is the blessing Jacob received?",
+      "choices": [
+        "Rulership: nations bow to thee, be lord over thy brethren",
+        "Long life only",
+        "A wife from Haran",
+        "The land of Seir"
+      ],
+      "answer": 0,
+      "explain": "The dew of heaven, the fatness of the earth, let people serve thee; cursed be every one that curseth thee.",
+      "ref": "Genesis 27:27-29"
+    },
+    {
+      "q": "Why did Esau find no place of repentance, though he sought it with tears?",
+      "choices": [
+        "Isaac could not hear him",
+        "Jacob refused to forgive him",
+        "He came too late in the day",
+        "He had despised his birthright for one morsel of meat"
+      ],
+      "answer": 3,
+      "explain": "He that despised the birthright was rejected when he would have inherited the blessing (Hebrews 12:16-17).",
+      "ref": "Genesis 27:34-38; Hebrews 12:16-17"
+    },
+    {
+      "q": "By what does Esau live, according to his blessing?",
+      "choices": [
+        "By the fatness of Jacob",
+        "By trade",
+        "By the dew alone",
+        "By his sword"
+      ],
+      "answer": 3,
+      "explain": "Esau's kingdoms have gotten what they have through war, by ever more advanced weaponry.",
+      "ref": "Genesis 27:39-40"
+    },
+    {
+      "q": "What will happen when Esau's dominion is done?",
+      "choices": [
+        "Esau will rule forever",
+        "Both will rule together",
+        "Jacob comes into power; Esau rules first, then Jacob",
+        "The earth will be empty"
+      ],
+      "answer": 2,
+      "explain": "This is the time period now, where Esau has the dominion.",
+      "ref": "Genesis 27:40"
+    }
+  ]
+}

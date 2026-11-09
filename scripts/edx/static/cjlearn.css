@@ -1,0 +1,62 @@
+/* CyberJudah Learn: the look of the lesson pages.
+   Loaded from each Text component as /static/cjlearn.css (a course asset, see the Open edX docs,
+   "Create Course Assets in OLX"). Text colour is never set here: it comes from the platform's
+   theme, so every page reads in light and in dark. Colours below are tints and accents that
+   work on both. Sizes are relative so pages scale from phones to large screens. */
+
+.cj { --gold: #a87a22; --tint: rgba(168, 122, 34, .10); --line: rgba(127, 127, 127, .32);
+      --soft: rgba(127, 127, 127, .06); --ink-soft: .72;
+      font-size: 1rem; line-height: 1.65; max-width: 46em; }
+.cj > :first-child { margin-top: 0; }
+
+/* section labels */
+.cj h3 { font-size: .78em; font-weight: 700; letter-spacing: .09em; text-transform: uppercase;
+         margin: 2em 0 .7em; opacity: .8; }
+.cj h4 { font-size: 1em; font-weight: 700; margin: 1.4em 0 .4em; }
+.cj .label { font-size: .78em; font-weight: 700; letter-spacing: .09em; text-transform: uppercase;
+             margin: 1em 0 .5em; opacity: .75; }
+.cj .lead { font-size: 1.12em; }
+
+/* scripture: the verses, set apart and easy to read */
+.cj .scripture, .cj .chapter { font-family: Georgia, "Times New Roman", serif; font-size: 1.14em;
+                               line-height: 1.75; }
+.cj .scripture { margin: 0 0 1.4em; padding: 1em 1.25em; background: var(--tint);
+                 border-left: .25em solid var(--gold); border-radius: 0 .6em .6em 0; }
+.cj .scripture p, .cj .chapter p { margin: .35em 0; }
+.cj .ref { display: block; font-family: system-ui, sans-serif; font-size: .72em; font-weight: 700;
+           letter-spacing: .06em; text-transform: uppercase; color: var(--gold); margin-bottom: .4em; }
+.cj sup { color: var(--gold); font-family: system-ui, sans-serif; font-size: .62em; font-weight: 700;
+          margin-right: .25em; vertical-align: super; }
+.cj sup a { color: inherit; text-decoration: none; }
+
+/* the teaching: one clear point per line */
+.cj .teaching { padding-left: 1.2em; margin: 0; }
+.cj .teaching > li { margin: .75em 0; padding-left: .2em; }
+.cj .teaching > li::marker { color: var(--gold); }
+.cj .source { display: block; margin-top: .3em; font-size: .82em; opacity: var(--ink-soft); }
+
+/* precepts: each scripture that goes with it, as a card */
+.cj .teaching ul, .cj .cards { list-style: none; padding: 0; margin: .6em 0 0; display: grid; gap: .6em; }
+.cj .teaching ul > li, .cj .cards > li, .cj .card { border: 1px solid var(--line); border-radius: .6em;
+                                                    padding: .75em 1em; background: var(--soft); }
+.cj .teaching ul blockquote, .cj .card blockquote { margin: .4em 0; padding: 0 0 0 .8em;
+    border-left: .2em solid var(--gold); font-family: Georgia, "Times New Roman", serif; }
+.cj .teaching ul p, .cj .card p { margin: .3em 0; }
+
+/* plain blockquotes elsewhere (class notes) */
+.cj blockquote { margin: .8em 0; padding: .6em 1em; background: var(--tint);
+                 border-left: .2em solid var(--gold); border-radius: 0 .4em .4em 0;
+                 font-family: Georgia, "Times New Roman", serif; }
+.cj blockquote p { margin: .3em 0; }
+
+/* steps and facts on introduction and case pages */
+.cj .steps { list-style: none; padding: 0; margin: 0; display: grid; gap: .6em; }
+.cj .steps > li { border-left: .25em solid var(--gold); padding: .2em 0 .2em .9em; }
+.cj .steps strong { display: block; }
+.cj .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(12em, 1fr)); gap: .6em;
+             margin: 0 0 1.2em; padding: 0; list-style: none; }
+.cj .facts > li { border: 1px solid var(--line); border-radius: .6em; padding: .6em .9em; background: var(--soft); }
+.cj .facts b { display: block; font-size: .75em; letter-spacing: .08em; text-transform: uppercase; opacity: .7; }
+.cj .verdict { border: 2px solid var(--gold); border-radius: .7em; padding: 1em 1.2em; margin: 0 0 1.2em; }
+.cj .verdict .name { font-size: 1.3em; font-weight: 700; margin: 0; }
+.cj .note { font-size: .88em; opacity: var(--ink-soft); }

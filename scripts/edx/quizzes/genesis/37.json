@@ -1,0 +1,66 @@
+{
+  "chapter": "Genesis 37",
+  "status": "draft: drafted from docs/study/genesis/37.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "Was Joseph's evil report of his brethren tale bearing?",
+      "choices": [
+        "Yes, and he was punished for it",
+        "Yes, it was envy",
+        "No; it was the law: a witness that does not utter what he saw bears iniquity",
+        "It was Reuben's report, not Joseph's"
+      ],
+      "answer": 2,
+      "explain": "The law was already around, and Joseph kept it (Leviticus 5:1).",
+      "ref": "Genesis 37:2; Leviticus 5:1"
+    },
+    {
+      "q": "In Joseph's second dream, what did the sun, moon and eleven stars stand for?",
+      "choices": [
+        "Egypt's rulers",
+        "The twelve months",
+        "The angels",
+        "His father, his mother and his brethren"
+      ],
+      "answer": 3,
+      "explain": "The woman with a crown of twelve stars figures Israel and her tribes (Revelation 12:1).",
+      "ref": "Genesis 37:9-10; Revelation 12:1"
+    },
+    {
+      "q": "What does the class say about whoever hateth his brother?",
+      "choices": [
+        "He will repent later",
+        "He is a murderer",
+        "He is only jealous",
+        "He is a prophet"
+      ],
+      "answer": 1,
+      "explain": "Inner hatred, given room, plots death (1 John 3:15).",
+      "ref": "Genesis 37:18-20; 1 John 3:15"
+    },
+    {
+      "q": "For how much was Joseph sold to the Ishmaelites?",
+      "choices": [
+        "Thirty pieces of silver",
+        "A coat of many colours",
+        "Twenty pieces of silver",
+        "Ten shekels of gold"
+      ],
+      "answer": 2,
+      "explain": "Judah said, What profit is it if we slay our brother?",
+      "ref": "Genesis 37:26-28"
+    },
+    {
+      "q": "What did Joseph later say of what his brothers did?",
+      "choices": [
+        "I will repay you",
+        "You were right to sell me",
+        "Reuben alone was guilty",
+        "Ye thought evil against me, but God meant it unto good"
+      ],
+      "answer": 3,
+      "explain": "Had Joseph never gone down to Egypt, the whole house of Israel would have died in the famine (Genesis 50:20).",
+      "ref": "Genesis 37; Genesis 50:20"
+    }
+  ]
+}

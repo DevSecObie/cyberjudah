@@ -1,0 +1,54 @@
+{
+  "chapter": "Genesis 11",
+  "status": "draft: drafted from docs/study/genesis/11.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "Why did the Most High confound the language at Babel?",
+      "choices": [
+        "They spoke too many languages already",
+        "The people being one was not going to produce righteousness; nothing would be restrained from their evil imaginations",
+        "They refused to build the tower",
+        "They had forgotten the Sabbath"
+      ],
+      "answer": 1,
+      "explain": "There has never been a doctrine of all nations holding hands as one in the scriptures.",
+      "ref": "Genesis 11:5-9"
+    },
+    {
+      "q": "By what number did the Most High set the bounds of the people (Deuteronomy 32:8)?",
+      "choices": [
+        "The number of the children of Israel",
+        "The number of the sons of Noah",
+        "The number of the stars",
+        "The number of the languages"
+      ],
+      "answer": 0,
+      "explain": "The Most High divided the nations their inheritance and separated the sons of Adam; Jacob is His portion.",
+      "ref": "Genesis 11:5-9; Deuteronomy 32:7-9"
+    },
+    {
+      "q": "What do the shrinking lifespans in the generations of Shem show?",
+      "choices": [
+        "That Shem's line was cursed",
+        "That the flood changed the calendar",
+        "That the scribes miscounted",
+        "The word of Genesis 6:3 taking hold on man's days"
+      ],
+      "answer": 3,
+      "explain": "Five hundred years, then four hundred, then two hundred, then down past one hundred and nineteen with Nahor.",
+      "ref": "Genesis 11:10-13; Genesis 6:3"
+    },
+    {
+      "q": "What does it mean that Lot was a just man?",
+      "choices": [
+        "He was a judge of Sodom",
+        "He was a priest",
+        "He did that which is lawful and right: a commandment keeper",
+        "He was rich"
+      ],
+      "answer": 2,
+      "explain": "A just man is one that does that which is lawful and right (Ezekiel 18:5); righteous Lot was vexed by the wicked (2 Peter 2:7-9).",
+      "ref": "Genesis 11:27-32; Ezekiel 18:5"
+    }
+  ]
+}

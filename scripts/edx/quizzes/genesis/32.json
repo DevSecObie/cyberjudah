@@ -1,0 +1,66 @@
+{
+  "chapter": "Genesis 32",
+  "status": "draft: drafted from docs/study/genesis/32.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "What are the hosts in 'the Lord of hosts'?",
+      "choices": [
+        "The armies of angels that stand before Him",
+        "The tribes of Israel",
+        "The stars",
+        "The kings of the earth"
+      ],
+      "answer": 0,
+      "explain": "Jacob called the place Mahanaim, two hosts or camps (2 Esdras 8:21).",
+      "ref": "Genesis 32:1-2"
+    },
+    {
+      "q": "How did Jacob pray when he heard Esau was coming with four hundred men?",
+      "choices": [
+        "He did not pray",
+        "Humbly, pleading the covenant made to his fathers",
+        "He prayed for Esau's death",
+        "He asked Laban to pray"
+      ],
+      "answer": 1,
+      "explain": "That is the pattern for our prayers: plead the promise made to the fathers.",
+      "ref": "Genesis 32:9-12"
+    },
+    {
+      "q": "Why did Jacob send droves ahead as a present?",
+      "choices": [
+        "To pay a debt",
+        "To lighten his load",
+        "As a tithe",
+        "A man's gift maketh room for him: to appease Esau before they met"
+      ],
+      "answer": 3,
+      "explain": "He moved strategically (Proverbs 18:16).",
+      "ref": "Genesis 32:13-20; Proverbs 18:16"
+    },
+    {
+      "q": "What does the name Israel mean?",
+      "choices": [
+        "Supplanter",
+        "God has heard",
+        "A prince that has power with God",
+        "Laughter"
+      ],
+      "answer": 2,
+      "explain": "As a prince hast thou power with God and with men, and hast prevailed.",
+      "ref": "Genesis 32:28"
+    },
+    {
+      "q": "Who did Jacob wrestle with at Peniel?",
+      "choices": [
+        "An angel",
+        "Esau",
+        "Laban",
+        "A Canaanite"
+      ],
+      "answer": 0,
+      "explain": "He had power over the angel, and prevailed (Hosea 12:3-4).",
+      "ref": "Genesis 32:24-30; Hosea 12:3-4"
+    }
+  ]
+}

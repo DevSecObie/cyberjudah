@@ -1,0 +1,42 @@
+{
+  "chapter": "Genesis 33",
+  "status": "draft: drafted from docs/study/genesis/33.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "Why did Esau embrace Jacob rather than attack him?",
+      "choices": [
+        "Esau's hatred was gone forever",
+        "When a man's ways please the Lord, He maketh even his enemies to be at peace with him",
+        "Jacob paid him the birthright back",
+        "Isaac commanded it"
+      ],
+      "answer": 1,
+      "explain": "The embrace is not proof the hatred was gone; the Most High put that peace on Esau in that moment (Proverbs 16:7).",
+      "ref": "Genesis 33:4; Proverbs 16:7"
+    },
+    {
+      "q": "Why did Jacob decline to travel with Esau?",
+      "choices": [
+        "He was angry with Esau",
+        "Esau's men were sick",
+        "He wanted to go to Egypt",
+        "He stayed wise and kept his distance, pleading the tender children and flocks"
+      ],
+      "answer": 3,
+      "explain": "Esau returned that day to Seir.",
+      "ref": "Genesis 33:12-16"
+    },
+    {
+      "q": "What did Jacob call the altar he erected at Shalem?",
+      "choices": [
+        "Bethel",
+        "Elelohe-Israel: God, the God of Israel",
+        "Peniel",
+        "Jehovahjireh"
+      ],
+      "answer": 1,
+      "explain": "He bought a parcel of a field for an hundred pieces of money.",
+      "ref": "Genesis 33:18-20"
+    }
+  ]
+}

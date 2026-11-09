@@ -1,0 +1,54 @@
+{
+  "chapter": "Genesis 34",
+  "status": "draft: drafted from docs/study/genesis/34.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "What lesson does the class draw from Dinah going out to see the daughters of the land?",
+      "choices": [
+        "Keep watch over the daughters; give not overmuch liberty",
+        "Daughters should marry outside the family",
+        "Daughters should live in the city",
+        "It was Dinah's fault alone"
+      ],
+      "answer": 0,
+      "explain": "The father waketh for the daughter (Ecclesiasticus 42:9-11).",
+      "ref": "Genesis 34:1-2; Ecclesiasticus 7:24"
+    },
+    {
+      "q": "What did Hamor propose, the opposite of the law?",
+      "choices": [
+        "Pay a dowry and leave",
+        "Serve as their servants",
+        "Make marriages with us and become one people",
+        "Move to another land"
+      ],
+      "answer": 2,
+      "explain": "Assimilation and intermarriage is the offer the nations always make, and the law forbids it.",
+      "ref": "Genesis 34:8-10"
+    },
+    {
+      "q": "According to Judith 9:2-4, who gave Simeon the sword against Shechem?",
+      "choices": [
+        "Jacob",
+        "Levi",
+        "Hamor",
+        "The Lord God, to take vengeance of the strangers who defiled the maid"
+      ],
+      "answer": 3,
+      "explain": "They were moved with the zeal of the Most High.",
+      "ref": "Genesis 34:25-26; Judith 9:2-4"
+    },
+    {
+      "q": "What did the brothers answer Jacob?",
+      "choices": [
+        "We did it for the wealth",
+        "Should he deal with our sister as with an harlot?",
+        "Shechem deserved to marry her",
+        "We were afraid"
+      ],
+      "answer": 1,
+      "explain": "There shall be no whore of the daughters of Israel (Deuteronomy 23:17).",
+      "ref": "Genesis 34:31; Deuteronomy 23:17"
+    }
+  ]
+}

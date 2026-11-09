@@ -1,0 +1,66 @@
+{
+  "chapter": "Genesis 6",
+  "status": "draft: drafted from docs/study/genesis/6.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "Who are the sons of God in Genesis 6:2?",
+      "choices": [
+        "The lineage of Adam laid out in chapter 5",
+        "Angels from heaven",
+        "The giants",
+        "The sons of Cain"
+      ],
+      "answer": 0,
+      "explain": "The sons of God are the lineage of Adam; the daughters of men were of the other nations.",
+      "ref": "Genesis 6:1-2"
+    },
+    {
+      "q": "What law does Genesis 6:1-2 show was known from the beginning?",
+      "choices": [
+        "The law of the tithe",
+        "The law of the Passover",
+        "The law of the king",
+        "The law against marrying into the other nations"
+      ],
+      "answer": 3,
+      "explain": "Moses had to reiterate that same law to the children of Israel (Deuteronomy 7:3).",
+      "ref": "Genesis 6:1-2; Deuteronomy 7:3"
+    },
+    {
+      "q": "How long did the Most High shorten man's lifespan to in Genesis 6:3?",
+      "choices": [
+        "Seventy years",
+        "A hundred and twenty years",
+        "Nine hundred years",
+        "Forty years"
+      ],
+      "answer": 1,
+      "explain": "In chapter 5 the forefathers lived seven, eight and nine hundred years.",
+      "ref": "Genesis 6:3"
+    },
+    {
+      "q": "Who are the angels which kept not their first estate (Jude 1:6)?",
+      "choices": [
+        "Men from the lineage of Adam whose first estate was sons of God",
+        "Fallen spirits from heaven",
+        "The serpent's seed",
+        "The sons of Ham"
+      ],
+      "answer": 0,
+      "explain": "Another word for angel is messenger; they came from the lineage of Adam and mixed with the other nations.",
+      "ref": "Genesis 6:4; Jude 1:6"
+    },
+    {
+      "q": "Why did it take faith for Noah to build the ark?",
+      "choices": [
+        "Rain had never been seen until then",
+        "The ark was too big to float",
+        "His sons refused to help",
+        "Gopher wood could not be found"
+      ],
+      "answer": 0,
+      "explain": "Faith is the evidence of things not seen; with Noah the thing not seen was rain (Hebrews 11:1, 7).",
+      "ref": "Genesis 6:22; Hebrews 11:1-7"
+    }
+  ]
+}

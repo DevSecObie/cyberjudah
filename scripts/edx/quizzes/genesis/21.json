@@ -1,0 +1,54 @@
+{
+  "chapter": "Genesis 21",
+  "status": "draft: drafted from docs/study/genesis/21.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "What was the great feast the day Isaac was weaned?",
+      "choices": [
+        "Isaac's birthday",
+        "The feast of Passover",
+        "Isaac's circumcision",
+        "A celebration of Isaac coming off the breast at about three years old"
+      ],
+      "answer": 3,
+      "explain": "The mothers gave their sons suck three years (2 Maccabees 7:27). It was not a birthday celebration.",
+      "ref": "Genesis 21:8; 2 Maccabees 7:27"
+    },
+    {
+      "q": "Why did God tell Abraham to hearken to Sarah about Hagar and Ishmael?",
+      "choices": [
+        "Ishmael had sinned against God",
+        "Hagar wanted to return to Egypt",
+        "Abraham did not love Ishmael",
+        "In Isaac shall thy seed be called"
+      ],
+      "answer": 3,
+      "explain": "Sarah was on point; Isaac is the child of the promise. Ishmael would still be made a nation.",
+      "ref": "Genesis 21:9-13"
+    },
+    {
+      "q": "Why could Ishmael not die of thirst in the wilderness?",
+      "choices": [
+        "Hagar carried enough water",
+        "The prophecy that he would become a great nation stood over him",
+        "Abraham sent servants after them",
+        "Ishmael found the well himself"
+      ],
+      "answer": 1,
+      "explain": "God heard the voice of the lad and opened Hagar's eyes to a well of water.",
+      "ref": "Genesis 21:14-19"
+    },
+    {
+      "q": "What does Beersheba mean?",
+      "choices": [
+        "The house of bread",
+        "The place of seven kings",
+        "The well of the living",
+        "The well of the oath"
+      ],
+      "answer": 3,
+      "explain": "There Abraham and Abimelech sware both of them; the seven ewe lambs were a witness that Abraham digged the well.",
+      "ref": "Genesis 21:22-32"
+    }
+  ]
+}

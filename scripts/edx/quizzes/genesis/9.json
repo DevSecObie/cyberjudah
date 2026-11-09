@@ -1,0 +1,66 @@
+{
+  "chapter": "Genesis 9",
+  "status": "draft: drafted from docs/study/genesis/9.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "According to the class, when was man introduced to eating meat?",
+      "choices": [
+        "In the garden of Eden",
+        "At Mount Sinai",
+        "After the flood, in Genesis 9:3",
+        "In the days of Enoch"
+      ],
+      "answer": 2,
+      "explain": "This is the introduction of man eating meat; before it the animals and man were vegetarian.",
+      "ref": "Genesis 9:3"
+    },
+    {
+      "q": "What does 'whoso sheddeth man's blood, by man shall his blood be shed' show about the law?",
+      "choices": [
+        "It was given only to Noah's sons",
+        "It was done away with by Christ",
+        "It stood long before Moses, so it cannot be dismissed as the law of Moses",
+        "It applies only to strangers"
+      ],
+      "answer": 2,
+      "explain": "Christ came not to destroy the law but to fulfil (Matthew 5:17-18).",
+      "ref": "Genesis 9:6; Matthew 5:17-18"
+    },
+    {
+      "q": "What is the token of the covenant between the Most High and the earth?",
+      "choices": [
+        "The Sabbath",
+        "The bow in the cloud, the rainbow",
+        "Circumcision",
+        "The ark"
+      ],
+      "answer": 1,
+      "explain": "His hands bended it (Ecclesiasticus 43:11-12).",
+      "ref": "Genesis 9:12-13"
+    },
+    {
+      "q": "Where did Ham dwell after the flood?",
+      "choices": [
+        "In what is called Africa",
+        "In Europe",
+        "In the land toward Arabia",
+        "In Shinar"
+      ],
+      "answer": 0,
+      "explain": "Ham dwelt in Africa, Shem toward Arabia, Japheth in Europe. Canaan, Ham's son, dwelt in the land later called Israel.",
+      "ref": "Genesis 9:18-19"
+    },
+    {
+      "q": "How did Noah know what Ham had done while he slept?",
+      "choices": [
+        "Shem told him",
+        "He saw it in the morning",
+        "Ham confessed",
+        "The Most High revealed it to him, as He reveals His secrets to His prophets"
+      ],
+      "answer": 3,
+      "explain": "God speaks in a dream, in a vision of the night (Job 33:14-16); He reveals His secret unto His servants the prophets (Amos 3:7).",
+      "ref": "Genesis 9:24-27"
+    }
+  ]
+}

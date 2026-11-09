@@ -1,0 +1,54 @@
+{
+  "chapter": "Genesis 43",
+  "status": "draft: drafted from docs/study/genesis/43.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "What did Judah offer his father so that Benjamin could go down to Egypt?",
+      "choices": [
+        "To leave his own sons as hostages",
+        "To stand surety for the lad and bear the blame for ever",
+        "To pay double silver",
+        "To go alone"
+      ],
+      "answer": 1,
+      "explain": "Of my hand shalt thou require him.",
+      "ref": "Genesis 43:8-9"
+    },
+    {
+      "q": "Why did Jacob tell his sons to carry back the money found in their sacks?",
+      "choices": [
+        "To bribe the governor",
+        "To buy more corn",
+        "He would not keep what was not his; peradventure it was an oversight",
+        "Because it was Egyptian money"
+      ],
+      "answer": 2,
+      "explain": "Return it and be guiltless.",
+      "ref": "Genesis 43:12"
+    },
+    {
+      "q": "Why would the Egyptians not eat bread with the Hebrews?",
+      "choices": [
+        "The Hebrews were unclean",
+        "Joseph forbade it",
+        "It was an abomination unto the Egyptians",
+        "It was a fast day"
+      ],
+      "answer": 2,
+      "explain": "The same thing showed up in America: colored only and whites only; they fashioned themselves after ancient Egypt.",
+      "ref": "Genesis 43:32"
+    },
+    {
+      "q": "How much more was Benjamin's mess than his brothers'?",
+      "choices": [
+        "Twice as much",
+        "Ten times as much",
+        "Five times so much",
+        "The same"
+      ],
+      "answer": 2,
+      "explain": "Joseph made sure his baby brother, his mother's son, was well taken care of.",
+      "ref": "Genesis 43:34"
+    }
+  ]
+}

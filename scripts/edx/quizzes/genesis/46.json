@@ -1,0 +1,30 @@
+{
+  "chapter": "Genesis 46",
+  "status": "draft: drafted from docs/study/genesis/46.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "How many souls of the house of Jacob came into Egypt?",
+      "choices": [
+        "Twelve",
+        "Threescore and ten: seventy",
+        "Six hundred thousand",
+        "Forty"
+      ],
+      "answer": 1,
+      "explain": "A score is twenty; three score is sixty, and ten more makes seventy.",
+      "ref": "Genesis 46:27"
+    },
+    {
+      "q": "Why did Joseph tell his brethren to say they were shepherds?",
+      "choices": [
+        "To get work for Pharaoh",
+        "To hide that they were his brothers",
+        "Shepherds paid no tribute",
+        "Every shepherd is an abomination to the Egyptians, so they would dwell apart in Goshen"
+      ],
+      "answer": 3,
+      "explain": "The Hyksos shepherd kings had ruled Egypt; naming their trade set Israel apart in fertile Goshen.",
+      "ref": "Genesis 46:33-34"
+    }
+  ]
+}

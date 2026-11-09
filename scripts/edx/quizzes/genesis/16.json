@@ -1,0 +1,54 @@
+{
+  "chapter": "Genesis 16",
+  "status": "draft: drafted from docs/study/genesis/16.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "Where did Hagar come from?",
+      "choices": [
+        "She was a Canaanite princess",
+        "She was Lot's daughter",
+        "She was an Egyptian handmaid, from the servants Pharaoh gave Abram",
+        "She was from Ur of the Chaldees"
+      ],
+      "answer": 2,
+      "explain": "Pharaoh gave Abram menservants and maidservants (Genesis 12:16).",
+      "ref": "Genesis 16:1-2; Genesis 12:16"
+    },
+    {
+      "q": "What did the angel of the Lord tell Hagar at the fountain?",
+      "choices": [
+        "Go down to Egypt",
+        "Return to thy mistress, and submit thyself under her hands",
+        "Flee to the wilderness of Paran",
+        "Take your son and go to Abram"
+      ],
+      "answer": 1,
+      "explain": "Humble yourself and go back.",
+      "ref": "Genesis 16:7-9"
+    },
+    {
+      "q": "According to the class, should this account be used to justify taking multiple wives?",
+      "choices": [
+        "No; Abram's purpose was the promised seed, and he kept the laws",
+        "Yes; Abram set the example",
+        "Only for kings",
+        "Only if the first wife agrees"
+      ],
+      "answer": 0,
+      "explain": "Abram said, thy maid is in thy hand; he had no attachment to Hagar. His sole purpose was the seed.",
+      "ref": "Genesis 16:3-6"
+    },
+    {
+      "q": "Who did Ishmael become the ancestor of?",
+      "choices": [
+        "The desert tribes from Sinai to southern Jordan; the Arabs venerate him as their forefather",
+        "The twelve tribes of Israel",
+        "The Egyptians",
+        "The Edomites"
+      ],
+      "answer": 0,
+      "explain": "Ishmael was Abram's firstborn, but the covenant goes through the twelve tribes of Israel.",
+      "ref": "Genesis 16:10-16"
+    }
+  ]
+}

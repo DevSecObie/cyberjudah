@@ -1,0 +1,42 @@
+{
+  "chapter": "Genesis 44",
+  "status": "draft: drafted from docs/study/genesis/44.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "Why did Joseph have his silver cup put in Benjamin's sack?",
+      "choices": [
+        "To punish Benjamin",
+        "To keep the cup safe",
+        "To test the steward",
+        "To hold Benjamin a while and draw out word of his father"
+      ],
+      "answer": 3,
+      "explain": "He was not seeking harm; it set the stage for Judah to speak the whole history.",
+      "ref": "Genesis 44:1-2"
+    },
+    {
+      "q": "What did Jacob fear losing Benjamin would do to him?",
+      "choices": [
+        "Make him poor",
+        "Anger Pharaoh",
+        "Break the covenant",
+        "Bring down his gray hairs with sorrow to the grave"
+      ],
+      "answer": 3,
+      "explain": "Remove sorrow far from thee, for sorrow hath killed many.",
+      "ref": "Genesis 44:29-31"
+    },
+    {
+      "q": "What did Judah offer Joseph?",
+      "choices": [
+        "All their silver",
+        "Their father's blessing",
+        "To abide as a bondman instead of the lad",
+        "To fight Joseph's guards"
+      ],
+      "answer": 2,
+      "explain": "He knew his father's life was bound up in the lad's life.",
+      "ref": "Genesis 44:32-34"
+    }
+  ]
+}

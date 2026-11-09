@@ -1,0 +1,54 @@
+{
+  "chapter": "Genesis 7",
+  "status": "draft: drafted from docs/study/genesis/7.md, not yet reviewed",
+  "questions": [
+    {
+      "q": "What does Genesis 7:2-3 show about clean and unclean beasts?",
+      "choices": [
+        "The Most High defined them back in Genesis, before Moses",
+        "They were first named by Moses",
+        "There was no difference before the flood",
+        "Noah decided which were clean"
+      ],
+      "answer": 0,
+      "explain": "The dietary law was not yet instituted, but clean and unclean were already defined; Moses reiterated that law (Leviticus 11:45-47).",
+      "ref": "Genesis 7:2-3; Leviticus 11:45-47"
+    },
+    {
+      "q": "How was the ground watered before the flood?",
+      "choices": [
+        "It rained every Sabbath",
+        "By rivers only",
+        "A mist went up from the earth",
+        "By dew from heaven"
+      ],
+      "answer": 2,
+      "explain": "Up until this point it had never rained on the earth (Genesis 2:5-6).",
+      "ref": "Genesis 7:4; Genesis 2:5-6"
+    },
+    {
+      "q": "What are the windows of heaven opened in Genesis 7:11?",
+      "choices": [
+        "Doors in the throne room",
+        "The stars falling",
+        "The fountains of the deep",
+        "The sky, and their opening is the rain"
+      ],
+      "answer": 3,
+      "explain": "The great deep is the seas, rivers and oceans; the windows of heaven are the sky, and their opening is the rain.",
+      "ref": "Genesis 7:11"
+    },
+    {
+      "q": "According to 2 Esdras 3, why did the flood come?",
+      "choices": [
+        "Because the earth was too full",
+        "Because Noah prayed for it",
+        "Because they despised the commandments",
+        "Because the giants fought the angels"
+      ],
+      "answer": 2,
+      "explain": "Destruction came because of sin; only Noah and his household were left, of whom came all righteous men.",
+      "ref": "Genesis 7:21-23; 2 Esdras 3:8-11"
+    }
+  ]
+}
