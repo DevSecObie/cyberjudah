@@ -63,7 +63,7 @@ tags: ["Our Hidden History", "america-babylon", "europe-dark-ages", "greece", "r
 
 - The end thereof, the end of the sanctuary and people, will be with a flood. The flood is a military. A war. The flood is the war.
 
-- Desolations. The land will be desolate of its people, and impostors would take their place. Israelis will take their place. And prior to that, the Turks: the Ottoman Turks, which are still mingled with Arabs. I call them Edom Arabs. That's what Turks are. They were one of the biggest haters of Jews. They were our mortal enemy.
+- Desolations. The land will be desolate of its people, and impostors would take their place. Israelis will take their place. And prior to that, the Turks. Prior to that, the Ishmaelites would take their place: Ishmaelites first and foremost under Muhammad. And then of course later on the Ottoman Turks, which are still mingled around with Arabs. I call them Edom Arabs. That's what Turks are. They are whitewashed Greek babies that later lay down with Ishmael's babies. White Arabs, that's what the Turks are. They were one of the biggest haters of Jews. They hated Jews. They were our mortal enemy. They couldn't stand us, the Turks.
 
 - We've been to Turkey; we have members in Turkey. We visited Ephesus. When that prayer alarm goes off, them Turks ain't doing nothing about what the Quran says to do. They're not real Arabs really. They're primarily mixed.
 

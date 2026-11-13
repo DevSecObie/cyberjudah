@@ -710,4 +710,4 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "leadership", "unity", "
 
 ---
 
-[15 Minutes Index](/captains) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=lNgx4Kb9Jhk)
+[15 Minutes Index](/captains) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=lNgx4Kb9Jhk)
