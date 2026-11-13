@@ -2,7 +2,7 @@
 title: "Mindset Of A Leader, Actions Of A King"
 slug: "2026/2026-11-05-mindset-of-a-leader-actions-of-a-king"
 date: "2026-11-05"
-teacher: ""
+teacher: "Captain Osee"
 description: "Captains in the Classroom · 2026-11-05"
 collection: "Captains in the Classroom"
 tags: ["15 Minutes w/ The Captains", "america-babylon", "leadership", "unity", "war"]
