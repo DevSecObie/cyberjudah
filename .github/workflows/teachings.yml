@@ -1,5 +1,9 @@
 name: Build teaching search index
 on:
+  # Daily, so the classes harvested each hour reach the teachings search and the chapters'
+  # "Taught" lists without anyone starting it (it went unrun for weeks when it was manual only).
+  schedule:
+    - cron: "41 6 * * *"
   workflow_dispatch:
 permissions:
   contents: read

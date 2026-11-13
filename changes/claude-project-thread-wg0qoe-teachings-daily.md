@@ -1,0 +1,1 @@
+- The teachings index (said-in-class search and each chapter's classes) loads again: the loader reads its file line by line, as it is too large to read whole. It now rebuilds daily instead of only when started by hand.
