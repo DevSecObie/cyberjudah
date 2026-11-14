@@ -17,7 +17,7 @@ tags: ["IUIC in the ClassRoom", "christ", "satan"]
 
 ## Introduction
 
-*[[15:58](https://www.youtube.com/watch?v=6jbwtWZnF8U&t=958s)]* All right. Hey, all praises to the most high, man. Want to say happy Sabbath to everybody out there in what they call the radio land. The metaverse. So, look, man. Y'all, we gonna jump right into the topic, because y'all know it goes by pretty fast. We in IUIC Nashville, man. We got a full house today. So, we're going to go into some kind of like some futuristic type stuff that's going on that's going to be playing out in America. And to throw my disclaimer out there: not saying all of this stuff is true, what we may be showing you, but we do know the scriptures are true. And we are here to fulfill the prophecies that's going on. So when I play the videos and stuff, I'm not saying all of it is true. It's all allegedly. I'll put it like that. The scriptures tell us to watch and pray. Watch who? The damn news. Watch the damn devil and pray, because he gonna be on your ass. Hey, they are watching us. They know the signs of the time through us. Don't think that they're not watching our classes and understanding. They know the signs of time. They know that their time is very short. And this is what this class going into: them against us, good against evil. And the name of this class is The Antichrist and His Omnipresence. We gonna go into who the sons of God are and who's the antichrist and his omnipresence. These people want to control everything.
+*[[17:11](https://www.youtube.com/watch?v=6jbwtWZnF8U&t=1031s)]* So, we're going to go into some kind of like some futuristic type stuff that's going on, that's going to be playing out in America. They know the signs of time. They know that their time is very short. And this is what this class going into: them against us, good against evil. And the name of this class is The Antichrist and His Omnipresence. We gonna go into who the sons of God are and who's the antichrist and his omnipresence. These people want to control everything.
 
 
 ## Scriptures Opened
@@ -32,7 +32,7 @@ Reading from the definition on the screen: omnipresence  *[[19:58](https://www.y
 
 - He wants to be God. He wants to play God. Why? He wants full control. Because if he can get full control through his artificial intelligence. It's artificial, meaning that it's fake. Y'all had them artificial Christmas trees in your house. It wasn't real. Or you got that artificial hair in your head and your eyelashes. Artificial: fake. That's what this intelligent system they're coming up with is. Fake. That's them trying to play God.
 
-- Because the real intelligence is the most high. The real omnipresence is the most high. But these people trying to be everywhere at the same time, and they want everybody on the same page, because the devil is out seeking whom he can destroy. This their last swing, y'all.
+- Because the real intelligence is the Most High. The real omnipresence is the Most High. But these people trying to be everywhere at the same time, and they want everybody on the same page, because the devil is out seeking whom he can destroy. This their last swing, y'all.
 
 </div>
 
@@ -40,11 +40,11 @@ Reading from the definition on the screen: omnipresence  *[[19:58](https://www.y
 
 Reading from the class thumbnail video  *[[23:01](https://www.youtube.com/watch?v=6jbwtWZnF8U&t=1381s)]*
 
-> Imagine a city where every journey leaves a record. Artificial intelligence connects the patterns. Digital identity opens the doors and someone is always watching. A license plate, a route, a destination. Piece by piece, a life becomes a profile. The ambition is older than the technology. To see all, to command all, to stand in the place of God.
+> **The thumbnail video:** Imagine a city where every journey leaves a record. Artificial intelligence connects the patterns. Digital identity opens the doors and someone is always watching. A license plate, a route, a destination. Piece by piece, a life becomes a profile. The ambition is older than the technology. To see all, to command all, to stand in the place of God.
 >
-> An eye is scanned. A door opens. A payment clears. Each act feels ordinary until the system decides that ordinary life requires its permission. Then comes a simple encounter. A brother extends his hand. And the scriptures call a man to remember who he is. The cameras record the meeting. The encounter becomes part of his profile. A quiet exchange becomes a reason to tighten its grip. Permission denied.
+> **The thumbnail video:** An eye is scanned. A door opens. A payment clears. Each act feels ordinary until the system decides that ordinary life requires its permission. Then comes a simple encounter. A brother extends his hand. And the scriptures call a man to remember who he is. The cameras record the meeting. The encounter becomes part of his profile. A quiet exchange becomes a reason to tighten its grip. Permission denied.
 >
-> He knows what the warning means. Compliance brings access. Resistance brings consequences. But the scriptures give another warning. Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues. Come out of the ways of Babylon. America, repent before Christ returns, and she shall be utterly burned with fire. For strong is the Lord God who judgeth her. He watches their gathering while the Most High watches him. The Antichrist and His Omnipresence.
+> **The thumbnail video:** He knows what the warning means. Compliance brings access. Resistance brings consequences. But the scriptures give another warning. Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues. Come out of the ways of Babylon. America, repent before Christ returns, and she shall be utterly burned with fire. For strong is the Lord God who judgeth her. He watches their gathering while the Most High watches him. The Antichrist and His Omnipresence.
 
 - *[[25:57](https://www.youtube.com/watch?v=6jbwtWZnF8U&t=1557s)]* That's a fire thumbnail, man. It's a lot going on in that thumbnail, y'all, but everything going on in that thumbnail, it's going to come to pass. And this is why I want to gear the people up that's here, especially within our congregation, or the others who may be listening, who watch us: everything you seen in that thumbnail is going to come to pass. This artificial intelligence is to fight the anointed one, the Christ. The anointed ones, the Israelites. The sons of God.
 
@@ -84,6 +84,14 @@ Reading from the definition on the screen: anti  *[[32:19](https://www.youtube.c
 
 <div class="reading">
 
+Strong's Greek dictionary
+
+> **ἀντί**  (G473): opposite, i.e. instead or because of (rarely in addition to). KJV: for, in the room of
+
+</div>
+
+<div class="reading">
+
 Reading from the definition on the screen: Christ  *[[35:22](https://www.youtube.com/watch?v=6jbwtWZnF8U&t=2122s)]*
 
 > In the Bible, Christ is not a surname or last name. It is a title that means anointed one.
@@ -96,6 +104,14 @@ Reading from the definition on the screen: Christ  *[[35:22](https://www.youtube
 
 </div>
 
+<div class="reading">
+
+Strong's Greek dictionary
+
+> **Χριστός**  (G5547): anointed, i.e. the Messiah, an epithet of Jesus. KJV: Christ
+
+</div>
+
 *[[38:56](https://www.youtube.com/watch?v=6jbwtWZnF8U&t=2336s)]* They love darkness. They hate the light. We are the light. That's why they hate us, because they want to rule the earth in darkness. If they can make the whole world just be happy, be free, you can be gay, you can eat what you want to eat, you can just do what you want to do. That's what they want. They want to live in a lawless world. And they have trained Negroes to want to live in a lawless world, too.
 
 **[Genesis 1:1-4](/bible/genesis/1#v1)**  *[[39:40](https://www.youtube.com/watch?v=6jbwtWZnF8U&t=2380s)]*
@@ -104,7 +120,7 @@ Reading from the definition on the screen: Christ  *[[35:22](https://www.youtube
 >
 > <sup>[2](/bible/genesis/1#v2)</sup> And the earth was without form and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
 
-- The earth was without form and void. Nothing there. And darkness was upon the face of the deep. So it was dark.
+- Nothing there. So it was dark.
 
 - The spirit of God is the Holy Ghost. It moved upon the face of the water.
 
@@ -142,8 +158,6 @@ Reading from the definition on the screen: Christ  *[[35:22](https://www.youtube
 >
 > <sup>[2](/bible/john/1#v2)</sup> The same was in the beginning with God.
 
-- In the beginning was the word, and that word, it was there with God. That word was God. That same word was in the beginning with God.
-
 > <sup>[3](/bible/john/1#v3)</sup> All things were made by him; and without him was not any thing made that was made.
 
 - All things were made by him. By who? Christ. So without him wasn't anything made that was made.
@@ -154,7 +168,7 @@ Reading from the definition on the screen: Christ  *[[35:22](https://www.youtube
 
 > <sup>[4](/bible/john/1#v4)</sup> In him was life; and the life was the light of men.
 
-- In him was life. And the life was the light of men. Remember, he saw the light and the light was good. That light was the light of men.
+- Remember, he saw the light and the light was good. That light was the light of men.
 
 > <sup>[5](/bible/john/1#v5)</sup> And the light shineth in darkness; and the darkness comprehended it not.
 
@@ -204,7 +218,7 @@ Reading from the definition on the screen: Christ  *[[35:22](https://www.youtube
 
 - So as time go, as time come, as prophecies are being fulfilled, he might gather together in one all things in Christ. That's world domination under the Father and the Son and the Israelites ruling the earth. That's what it's about.
 
-- The 12 tribes coming back together and us ruling the earth in righteousness, because the earth was made for our sakes. It was us that was with the most high, Christ. We was the angels. We was there.
+- The 12 tribes coming back together and us ruling the earth in righteousness, because the earth was made for our sakes. It was us that was with the Most High, Christ. We was the angels. We was there.
 
 > <sup>[11](/bible/ephesians/1#v11)</sup> In whom also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will:
 
@@ -226,7 +240,7 @@ Reading from the definition on the screen: Christ  *[[35:22](https://www.youtube
 
 - He knew thee in the spiritual world, before you was formed in the belly. He knew you before you got here. That's what Jeremiah is telling them. The same message Paul is giving them: that we are the sons of God. We was there in the beginning.
 
-- We was the first obedient to Christ. Christ was the first obedient to the most high God. That's why he was the only begotten son. He was obedient, and then we were obedient.
+- We was the first obedient to Christ. Christ was the first obedient to the Most High God. That's why he was the only begotten son. He was obedient, and then we were obedient.
 
 - He said, before we came out the womb, we were sanctified. Sanctified: we were set apart. We was different. We was holy.
 
@@ -236,7 +250,7 @@ Reading from the definition on the screen: Christ  *[[35:22](https://www.youtube
 
 - He sanctify us through his word, through his truth. We are the sanctified ones. Not your grandma that's running around the church: I'm saved and I'm sanctified, Holy Ghost filled. No, she's the antichrist. She's opposed to. She's against. She's with the damn white man.
 
-*[[1:01:35](https://www.youtube.com/watch?v=6jbwtWZnF8U&t=3695s)]* So let's go to Romans 11 and 1, showing y'all we are the sons of God. We was there for the most high during this time of the creation in the book of Genesis. But along the way, we lost our way when we came onto this earth and we became flesh. He sent Christ, become flesh. Christ did no sin. We not Christ. Christ was obedient to the father. We became hardheaded and we followed our flesh. When we came to the flesh, we messed up, because we are not the only begotten son. We are the sons of God. And these sons of God, we went off. But now we're getting back on track. We're getting back where we need to be.
+*[[1:01:35](https://www.youtube.com/watch?v=6jbwtWZnF8U&t=3695s)]* So let's go to Romans 11 and 1, showing y'all we are the sons of God. We was there for the Most High during this time of the creation in the book of Genesis. But along the way, we lost our way when we came onto this earth and we became flesh. He sent Christ, become flesh. Christ did no sin. We not Christ. Christ was obedient to the father. We became hardheaded and we followed our flesh. When we came to the flesh, we messed up, because we are not the only begotten son. We are the sons of God. And these sons of God, we went off. But now we're getting back on track. We're getting back where we need to be.
 
 **[Romans 11:1-3](/bible/romans/11#v1)**  *[[1:02:56](https://www.youtube.com/watch?v=6jbwtWZnF8U&t=3776s)]*
 
@@ -308,7 +322,7 @@ Reading from the definition on the screen: Christ  *[[35:22](https://www.youtube
 
 - That line getting longer and longer every year, and they don't like that. You look real close in the back, you see the little ones back there, 8, 9, 10, 11 years old, walking on the side. They don't like that we building. Why they constantly trying to cut the light out. They don't like that light shining.
 
-*[[1:18:05](https://www.youtube.com/watch?v=6jbwtWZnF8U&t=4685s)]* This is Esau speaking. I'm not saying that this is true, but the scripture tell us to watch and pray. You watch what this devil say, and pray. Not saying what he's saying is 100% true. All we know is what the Bible say. But they coming for the sons of God. This is the antichrist speaking.
+*[[1:18:00](https://www.youtube.com/watch?v=6jbwtWZnF8U&t=4680s)]* **In The News: The 2030 agenda video: "Our world is being prepared for this shift in what many people are now calling the event."** — This is Esau speaking. I'm not saying that this is true, but the scripture tell us to watch and pray. You watch what this devil say, and pray. Not saying what he's saying is 100% true. All we know is what the Bible say. But they coming for the sons of God. This is the antichrist speaking.
 
 *[[1:19:06](https://www.youtube.com/watch?v=6jbwtWZnF8U&t=4746s)]* **In The News: The 2030 agenda video: "2019 the WEF signed formal documents with the United Nations and the sustainable development goals SDG 2030, the 17 goals that they want to have developed by the year 2030."** — So they got 17 goals that they want to have developed. This is world international goals by 2030. These organizations are the antichrist. They are against us and they're against God's people. They're against everything.
 
@@ -340,7 +354,7 @@ Reading from the definition on the screen: Christ  *[[35:22](https://www.youtube
 
 - Whosoever: talking about of the Israelites, the scribes, the Pharisees, the Sadducees, the chief priests, the elders, those who did not believe in Christ.
 
-- If you do not righteousness, follow God's laws, you are not of God. So if you hate your brother, if you covetous, if you're an adulterer, adulteress, idolater, you do not love the most high God. You are not the sons of God.
+- If you do not righteousness, follow God's laws, you are not of God. So if you hate your brother, if you covetous, if you're an adulterer, adulteress, idolater, you do not love the Most High God. You are not the sons of God.
 
 **[1 John 2:19-21](/bible/1-john/2#v19)**  *[[1:28:44](https://www.youtube.com/watch?v=6jbwtWZnF8U&t=5324s)]*
 
@@ -351,8 +365,6 @@ Reading from the definition on the screen: Christ  *[[35:22](https://www.youtube
 > <sup>[20](/bible/1-john/2#v20)</sup> But ye have an unction from the Holy One, and ye know all things.
 >
 > <sup>[21](/bible/1-john/2#v21)</sup> I have not written unto you because ye know not the truth, but because ye know it, and that no lie is of the truth.
-
-- Because ye know the truth. You know and understand. And no lie is of the truth.
 
 **[1 John 2:22](/bible/1-john/2#v22)**  *[[1:29:49](https://www.youtube.com/watch?v=6jbwtWZnF8U&t=5389s)]*
 
@@ -376,7 +388,7 @@ Reading from the definition on the screen: Christ  *[[35:22](https://www.youtube
 
 > <sup>[4](/bible/1-john/4#v4)</sup> Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world.
 
-- Ye are of God, little children. You was there in the beginning, little children. Ye are of God, not of the devil.
+- You was there in the beginning, little children.
 
 - So you got to understand that the antichrist is here. They are opposed of God. These people are here.
 
@@ -392,7 +404,7 @@ Reading from the definition on the screen: Christ  *[[35:22](https://www.youtube
 
 > <sup>[4](/bible/2-thessalonians/2#v4)</sup> Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God.
 
-- He opposeth and exalteth himself above all that is called God. He have come up with an artificial intelligence, a fake intelligence, to try to play as if it's God's intelligence.
+- He have come up with an artificial intelligence, a fake intelligence, to try to play as if it's God's intelligence.
 
 - The antichrist want to be worshiped as God. He wants to be omnipresent like God. And he is showing himself that he is God. This is what the Antichrist does. And we got to reveal him. So we got to understand the battle we fighting right here.
 
@@ -442,7 +454,7 @@ Reading from the definition on the screen: Christ  *[[35:22](https://www.youtube
 
 > <sup>[1](/bible/revelation/13#v1)</sup> And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
 
-- A beast rise up out of the sea. That's the Antichrist. It's the damn white man.
+- That's the Antichrist. It's the damn white man.
 
 - And he got seven heads and 10 horns. That's the EU. They are going to be in cahoots with this one digital ID.
 
@@ -498,7 +510,7 @@ Reading from the definition on the screen: Christ  *[[35:22](https://www.youtube
 
 > <sup>[36](/bible/romans/8#v36)</sup> As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.
 
-- We are killed all the day long, y'all. We got to really understand that. For his sake, we are killed all the day long.
+- We got to really understand that.
 
 > <sup>[37](/bible/romans/8#v37)</sup> Nay, in all these things we are more than conquerors through him that loved us.
 
@@ -507,7 +519,7 @@ Reading from the definition on the screen: Christ  *[[35:22](https://www.youtube
 
 ## In Closing
 
-*[[2:12:58](https://www.youtube.com/watch?v=6jbwtWZnF8U&t=7978s)]* I hope y'all enjoyed that class, man. I had some more, but y'all know we got to shut it down at a certain time. Pay attention to what the thumbnail is really saying. Do you really love God, or you going to let something separate you from the love of God? It's going to be a test. Are you really going to endure to the end? Or you just in this because you look good in the purple and gold? You really think you look good, or are you in it to win it? Shalom. Most high Christ bless.
+*[[2:12:58](https://www.youtube.com/watch?v=6jbwtWZnF8U&t=7978s)]* I hope y'all enjoyed that class, man. I had some more, but y'all know we got to shut it down at a certain time. Pay attention to what the thumbnail is really saying. Do you really love God, or you going to let something separate you from the love of God? It's going to be a test. Are you really going to endure to the end? Or you just in this because you look good in the purple and gold? You really think you look good, or are you in it to win it? Shalom. Most High Christ bless.
 
 
 ---
