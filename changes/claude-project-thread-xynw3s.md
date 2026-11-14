@@ -1,3 +1,4 @@
 - Class notes for the 2026-11-07 Sabbath classes: Power Is Not Given, but Remembered and Exposing the Deadbeat Lie.
 - Class notes for two 2026-11-07 classes: Mystery Babylon: Lifting Up the Banner on the High Mountain (Deacon Malachiyah) and Man Up Jacob (Deacon Abbayael), with the precept breakdown for Psalms 111:10.
 - Notes can show the Strong's entry for a Hebrew or Greek word a class explains (`"strongs"` on a reading item); Mystery Babylon carries nes, oth, degel and Jehovah-nissi.
+- Class note for the 2026-11-14 class The Anti Christ and His Omnipresence (Captain Benzion), with the Strong's entries for anti (G473) and Christ (G5547).
