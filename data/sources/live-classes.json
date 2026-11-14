@@ -1,16 +1,16 @@
 {
-  "1pPuO_cLRXQ": {
-    "channel": "IUICintheClassRoom",
-    "title": "Integrity In The Midst Of Chaos",
-    "status": "live",
-    "scheduledStart": "2026-11-14T18:57:55Z",
-    "actualStart": "2026-11-14T18:58:15Z"
-  },
   "V9GRApCfZcU": {
     "channel": "iuicintheclassroom2",
     "title": "TEST | Close Caption",
     "status": "upcoming",
     "scheduledStart": "",
     "actualStart": ""
+  },
+  "xrc2lO8Ttnk": {
+    "channel": "IUICintheClassRoom",
+    "title": "THE GOSPEL OF SOCIAL ACCEPTANCE",
+    "status": "live",
+    "scheduledStart": "2026-11-14T21:50:48Z",
+    "actualStart": "2026-11-14T21:51:05Z"
   }
 }
