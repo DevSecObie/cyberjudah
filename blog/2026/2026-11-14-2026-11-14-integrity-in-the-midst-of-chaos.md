@@ -17,8 +17,6 @@ tags: ["IUIC in the ClassRoom", "justice", "prayer", "prophecy", "war", "wisdom"
 
 ## Introduction
 
-*[[7:41](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=461s)]* All praises. All praise to the Father. We back in the building. Good to see everybody's face. Before we get started, let's put that up for the people to see so we can see today's title.
-
 <div class="reading">
 
 Reading from the class thumbnail video  *[[8:41](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=521s)]*
@@ -37,15 +35,15 @@ Reading from the class thumbnail video  *[[8:41](https://www.youtube.com/watch?v
 
 > <sup>[5](/bible/genesis/6#v5)</sup> And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.
 
-- The wickedness of man began to get worse and worse and worse, to the point it was great in the earth. And we're starting to see the same exact thing play out in these days: all types of evil, debauchery, murders, secret plots, commotions. A lot of these things are orchestrated behind closed doors.
+- *[[11:24](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=684s)]* The wickedness of man began to get worse and worse and worse, to the point it was great in the earth. And we're starting to see the same exact thing play out in these days: all types of evil, debauchery, murders, secret plots, commotions. A lot of these things are orchestrated behind closed doors.
 
-- But we want to get to the root. What caused the Lord to see that the wickedness of man was great in the earth?
+- *[[12:01](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=721s)]* But we want to get to the root. What caused the Lord to see that the wickedness of man was great in the earth?
 
 **[Genesis 4:8](/bible/genesis/4#v8)**  *[[12:19](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=739s)]*
 
 > <sup>[8](/bible/genesis/4#v8)</sup> And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.
 
-- The first murder to take place in the Bible. And this came through Cain.
+- *[[12:38](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=758s)]* The first murder to take place in the Bible. And this came through Cain.
 
 **[Genesis 4:17-24](/bible/genesis/4#v17)**  *[[12:52](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=772s)]*
 
@@ -83,7 +81,7 @@ Reading from the class thumbnail video  *[[8:41](https://www.youtube.com/watch?v
 >
 > <sup>[4](/bible/wisdom-of-solomon/10#v4)</sup> For whose cause the earth being drowned with the flood, wisdom again preserved it, and directed the course of the righteous in a piece of wood of small value.
 
-- She preserved the first formed father of the world. That she right there is going into wisdom.
+- *[[15:27](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=927s)]* She preserved the first formed father of the world. That she right there is going into wisdom.
 
   Precepts:
   - **[1 Corinthians 1:24](/bible/1-corinthians/1#v24)**
@@ -189,13 +187,15 @@ Reading from the class thumbnail video  *[[8:41](https://www.youtube.com/watch?v
 
 - *[[33:04](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1984s)]* Understand who's behind the evil: the Greeks, the Romans, the Ottomans, the French, the Germans, America, and Amalek. You had Cain to do it first, and the Lord brought judgment against the earth with the flood. And then you have this seed that's actively doing it right now. So the Lord going to bring judgment again.
 
+- *[[33:55](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2035s)]* It's always a plot against the righteous. It's always a battle between good and evil, and that's what we seeing play out.
+
+- *[[34:14](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2054s)]* A lot of our people, including Philip Anthony Mitchell, all he know is warfare. He thinks that the war is against them. No. They're just repeating history. Remember, you had the Crusades before you had the Inquisition.
+
   Precepts:
   - **[Sirach 33:14](/bible/sirach/33#v14)**
     > <sup>[14](/bible/sirach/33#v14)</sup> Good is set against evil, and life against death: so is the godly against the sinner, and the sinner against the godly.
 
-    It's always a battle between good and evil, and that's what we seeing play out.
-
-- *[[34:14](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2054s)]* A lot of our people, including Philip Anthony Mitchell, all he know is warfare. He thinks that the war is against them. No. They're just repeating history. Remember, you had the Crusades before you had the Inquisition.
+    Good is set against evil and life against death. And vice versa.
 
 - *[[36:00](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2160s)]* Only the Lord knows what they truly want to do. Haman wanted to exterminate all Israel. That's the same thing Hoover wanted to do with COINTELPRO. That's the spirit that's in them.
 
@@ -213,7 +213,7 @@ Reading from the quote on the screen  *[[37:45](https://www.youtube.com/watch?v=
 
 > Now I am become death, the destroyer of worlds. J. Robert Oppenheimer, father of the atomic bomb, after witnessing the first test.
 
-- These are those people.
+- *[[37:57](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2277s)]* These are those people.
 
 </div>
 
@@ -351,7 +351,7 @@ Reading from the definition on the screen: perplexity  *[[1:00:39](https://www.y
 
 > <sup>[48](/bible/deuteronomy/28#v48)</sup> Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
 
-- Because of our disobedience, the Lord gave us into the hands of our enemies.
+- *[[1:01:09](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3669s)]* Because of our disobedience, the Lord gave us into the hands of our enemies.
 
 - *[[1:01:46](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3706s)]* If we want electricity, who do we get that from? We get that from our enemies. The enemies that created something called the grid. But they're telling us that the grid is about to go down.
 
@@ -365,17 +365,17 @@ Reading from the definition on the screen: perplexity  *[[1:00:39](https://www.y
 
 - *[[1:04:20](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3860s)]* The decree is the day of the Lord, the Lord's judgment. We hearing wars and rumors of wars every day. We seeing the commotions, the chaos, the perplexity. We're living in those times. So we should be gathering together.
 
-**[Romans 15:4](/bible/romans/15#v4)**  *[[1:05:35](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3935s)]*
+**[Romans 15:4](/bible/romans/15#v4)**  *[[1:05:25](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3925s)]*
 
 > <sup>[4](/bible/romans/15#v4)</sup> For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.
 
-- If we don't have the scriptures, we have no direction. Our forefathers and foremothers went through famines before.
+- *[[1:05:35](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3935s)]* If we don't have the scriptures, we have no direction. Our forefathers and foremothers went through famines before.
 
-**[Isaiah 13:4](/bible/isaiah/13#v4)**  *[[1:06:40](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4000s)]*
+**[Isaiah 13:4](/bible/isaiah/13#v4)**  *[[1:06:25](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3985s)]*
 
 > <sup>[4](/bible/isaiah/13#v4)</sup> The noise of a multitude in the mountains, like as of a great people; a tumultuous noise of the kingdoms of nations gathered together: the Lord of hosts mustereth the host of the battle.
 
-- The Lord knows everything that's taking place, cause he's the one who wrote the script.
+- *[[1:06:28](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3988s)]* The Lord knows everything that's taking place, cause he's the one who wrote the script.
 
 <div class="reading">
 
@@ -387,7 +387,7 @@ Reading from the definition on the screen: tumult  *[[1:07:04](https://www.youtu
 
 </div>
 
-*[[1:08:32](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4112s)]* The officer asked me a question: do you think the Lord trying to wait for us to get right? I said, absolutely. Because it's always been in their mind to destroy us, eradicate us, exterminate us. So absolutely, the only reason that things have not gotten to the point of no return yet is because the Lord loves us.
+*[[1:08:32](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4112s)]* The officer asked me a question: Cap, it's crazy, the FAA grounded all of the flights, the 90 days without power and all of this. Do you think the Lord trying to wait for us to get right? I said, absolutely. Because it's always been in their mind to destroy us, eradicate us, exterminate us. So absolutely, the only reason that things have not gotten to the point of no return yet is because the Lord loves us.
 
 **[Lamentations 3:22](/bible/lamentations/3#v22)**  *[[1:09:39](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4179s)]*
 
@@ -399,7 +399,7 @@ Reading from the definition on the screen: tumult  *[[1:07:04](https://www.youtu
 
 > <sup>[4](/bible/sirach/10#v4)</sup> The power of the earth is in the hand of the Lord, and in due time he will set over it one that is profitable.
 
-- The power of the earth is in the hand of the Lord. Don't forget that.
+- *[[1:10:55](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4255s)]* The power of the earth is in the hand of the Lord. Don't forget that.
 
   Precepts:
   - **[Job 9:24](/bible/job/9#v24)**
@@ -417,13 +417,13 @@ Reading from the definition on the screen: tumult  *[[1:07:04](https://www.youtu
 
 > <sup>[1](/bible/revelation/7#v1)</sup> And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree.
 
-- Holding the four winds of the earth: still answering that question that was asked.
+- *[[1:12:51](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4371s)]* What are these winds that the angels are holding back?
 
   Precepts:
   - **[2 Esdras 13:5](/bible/2-esdras/13#v5)**
     > <sup>[5](/bible/2-esdras/13#v5)</sup> And after this I beheld, and, lo, there was gathered together a multitude of men, out of number, from the four winds of the heaven, to subdue the man that came out of the sea.
 
-    This multitude of men out of number from the four winds: these are going into armies.
+    These multitudes of men is going into armies.
 
 - *[[1:13:42](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4422s)]* Holding back the armies, holding back Armageddon. The nations act like they want to pop off today. But the Lord's like, not yet. So the Lord has given us time to get our minds right.
 
@@ -448,6 +448,12 @@ Reading from the definition on the screen: tumult  *[[1:07:04](https://www.youtu
 > <sup>[10](/bible/2-kings/25#v10)</sup> And all the army of the Chaldees, that were with the captain of the guard, brake down the walls of Jerusalem round about.
 
 - *[[1:16:37](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4597s)]* So you see what happened in the fifth month.
+
+**[Zechariah 7:5](/bible/zechariah/7#v5)**  *[[1:16:40](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4600s)]*
+
+> <sup>[5](/bible/zechariah/7#v5)</sup> Speak unto all the people of the land, and to the priests, saying, When ye fasted and mourned in the fifth and seventh month, even those seventy years, did ye at all fast unto me, even to me?
+
+- *[[1:16:55](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4615s)]* So we just read about the fifth. And now it says the seventh.
 
 **[2 Kings 25:22-25](/bible/2-kings/25#v22)**  *[[1:16:59](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4619s)]*
 
@@ -615,13 +621,13 @@ Reading from the fasting and martyrdom graphic on the screen  *[[1:31:36](https:
 
 > <sup>[5](/bible/job/27#v5)</sup> God forbid that I should justify you: till I die I will not remove mine integrity from me.
 
-- Job's life is a metaphor for the nation of Israel. So throughout all of our slavery, captivities, trials, affliction, torture, we have to keep our integrity.
+- *[[1:42:36](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6156s)]* Job's life is a metaphor for the nation of Israel. So throughout all of our slavery, captivities, trials, affliction, torture, we have to keep our integrity.
 
 **[Psalms 25:21](/bible/psalms/25#v21)**  *[[1:43:13](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6193s)]*
 
 > <sup>[21](/bible/psalms/25#v21)</sup> Let integrity and uprightness preserve me; for I wait on thee.
 
-- Don't be lying. Don't be dealing falsely. Walk upright in this captivity. Deal right with the congregations. Do right to your brothers and your sisters.
+- *[[1:43:16](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6196s)]* Don't be lying. Don't be dealing falsely. Walk upright in this captivity. Deal right with the congregations. Do right to your brothers and your sisters.
 
   Precepts:
   - **[2 Esdras 9:7-8](/bible/2-esdras/9#v7)**
