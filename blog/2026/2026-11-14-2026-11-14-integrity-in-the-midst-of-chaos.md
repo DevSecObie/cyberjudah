@@ -181,6 +181,10 @@ Reading from the class thumbnail video  *[[8:41](https://www.youtube.com/watch?v
 
     Her sins have reached unto heaven. Whose sins? Babylon. Esau, Edom, the evil seed. All of the evil that they've been multiplying, century after century, the Lord says he's going to remember all of it.
 
+**[Daniel 11:36](/bible/daniel/11#v36)**  *[[32:20](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1940s)]*
+
+> <sup>[36](/bible/daniel/11#v36)</sup> And the king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak marvellous things against the God of gods, and shall prosper till the indignation be accomplished: for that that is determined shall be done.
+
 - *[[32:46](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1966s)]* The Lord's determination is against the nations, that they're going to get their reward, which is going to be the judgment, his fierce anger.
 
 **[1 Maccabees 3:52](/bible/1-maccabees/3#v52)**  *[[33:01](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1981s)]*
@@ -298,6 +302,10 @@ Reading from the quote on the screen  *[[37:45](https://www.youtube.com/watch?v=
 - *[[53:14](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3194s)]* We shouldn't be able to see what's going on on the news, social media, and be shocked and surprised. The Lord already told us.
 
 - *[[53:48](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3228s)]* So the scripture is telling us, don't hit the snooze button. Sober in doctrine, sober in mind.
+
+**[Isaiah 33:6](/bible/isaiah/33#v6)**  *[[54:41](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3281s)]*
+
+> <sup>[6](/bible/isaiah/33#v6)</sup> And wisdom and knowledge shall be the stability of thy times, and strength of salvation: the fear of the Lord is his treasure.
 
 *[[55:12](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3312s)]* They were trying to push diaspora wars, to pit us against each other, the so-called African immigrants against the black Americans. But the Lord fixed that thing.
 
@@ -565,13 +573,17 @@ Reading from the fasting and martyrdom graphic on the screen  *[[1:31:36](https:
 
 - *[[1:31:57](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5517s)]* I call it the three Bs. Someone who cannot abstain from food would be known today as a big back. So if a big back finds it difficult to offer their life, they will betray. Big backs will betray. So we got to get right and start training. Our leaders, they've been on it. So we ain't got no excuse.
 
+> It is able to endure the hardships of imprisonment and the pain of torture.
+
 - *[[1:33:53](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5633s)]* The Lord can give you peace while you being tortured. Think about the fiery furnace. There was a fourth person that showed up: the Son of God, Christ. The three holy children was not burned, cause Christ was there.
 
 - *[[1:34:33](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5673s)]* Christ said we shouldn't fast when he right there with us, cause he's our strength. So when he not with us, in order to tap into that power, we got to fast.
 
+- *[[1:35:06](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5706s)]* They wasn't begging the oppressor for their life. They just said, all right. Just like Paul: it's time.
+
 </div>
 
-**[Zechariah 8:16](/bible/zechariah/8#v16)**  *[[1:36:13](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5773s)]*
+**[Zechariah 8:16](/bible/zechariah/8#v16)**  *[[1:36:29](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5789s)]*
 
 > <sup>[16](/bible/zechariah/8#v16)</sup> These are the things that ye shall do; Speak ye every man the truth to his neighbour; execute the judgment of truth and peace in your gates:
 
@@ -705,11 +717,15 @@ Reading from the fasting and martyrdom graphic on the screen  *[[1:31:36](https:
 
 - *[[1:53:21](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6801s)]* And I have walked in thy truth. The Bible said to love truth and peace.
 
-*[[1:53:54](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6834s)]* **In The News: A clip on a dramatic increase in cyber attacks on hospitals, the electric network, banks** — Did y'all hear that?
+*[[1:54:20](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6860s)]* **In The News: A clip on a dramatic increase in cyber attacks on hospitals, the electric network, banks: "Pandemics. That one didn't work the way I expected."** — So he just said the pandemic did not work the way he expected it to work. Did y'all hear that?
 
-> **The speaker, in the clip:** Pandemics. That one didn't work the way I expected. So over the next several years, certainly in the cyber domain, cause there's a business model there, you will see a lot of attacks.
+> *[[1:54:36](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6876s)]* **The speaker, in the clip:** Pandemics. That one didn't work the way I expected. So over the next several years, certainly in the cyber domain, cause there's a business model there, you will see a lot of attacks.
 
-*[[1:54:24](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6864s)]* So he just said the pandemic did not work the way he expected it to work. So this next one, he going to make it more simple. If you can't eat, you can't live.
+*[[1:54:47](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6887s)]* So he say the pandemic ain't kill enough people.
+
+*[[1:55:10](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6910s)]* They're saying in America 1.2 million, worldwide 7.1 million.
+
+*[[1:55:47](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6947s)]* So he's telling you that one didn't work like we wanted. So this next one, he going to make it more simple. If you can't eat, you can't live.
 
 *[[1:56:27](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6987s)]* If hospitals lose power, because they all operate off the grid, if that shut down, that's going to be real bad. All those things he's saying is going to happen. Why? Cause that's how they roll.
 
