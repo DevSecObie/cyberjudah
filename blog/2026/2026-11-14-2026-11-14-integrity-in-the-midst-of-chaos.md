@@ -25,10 +25,6 @@ Reading from the class thumbnail video  *[[8:41](https://www.youtube.com/watch?v
 
 > **The thumbnail video:** It's easy to speak about faith when the windows aren't shaking. But when the war reaches your door, when you're hungry, when you're afraid, when doing right could cost you everything, will you still obey? War does not rewrite his commandments.
 >
-> **The thumbnail video:** Show me the right way. That I may rejoice in the day of Christ, that I may rejoice greatly.
->
-> **The thumbnail video:** You see that? That's what their mission is to do, is to kill us at the masses.
->
 > **The thumbnail video:** Lord, when everything around me falls, keep me from falling away. Let me be found faithful. Integrity in the midst of chaos.
 
 </div>
@@ -51,17 +47,9 @@ Reading from the class thumbnail video  *[[8:41](https://www.youtube.com/watch?v
 
 - The first murder to take place in the Bible. And this came through Cain.
 
-**[Genesis 4:17-24](/bible/genesis/4#v17)**  *[[12:52](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=772s)]*
+**[Genesis 4:19,22-24](/bible/genesis/4#v19)**  *[[12:52](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=772s)]*
 
-> <sup>[17](/bible/genesis/4#v17)</sup> And Cain knew his wife; and she conceived, and bare Enoch: and he builded a city, and called the name of the city, after the name of his son, Enoch.
->
-> <sup>[18](/bible/genesis/4#v18)</sup> And unto Enoch was born Irad: and Irad begat Mehujael: and Mehujael begat Methusael: and Methusael begat Lamech.
->
 > <sup>[19](/bible/genesis/4#v19)</sup> And Lamech took unto him two wives: the name of the one was Adah, and the name of the other Zillah.
->
-> <sup>[20](/bible/genesis/4#v20)</sup> And Adah bare Jabal: he was the father of such as dwell in tents, and of such as have cattle.
->
-> <sup>[21](/bible/genesis/4#v21)</sup> And his brother’s name was Jubal: he was the father of all such as handle the harp and organ.
 >
 > <sup>[22](/bible/genesis/4#v22)</sup> And Zillah, she also bare Tubal–cain, an instructer of every artificer in brass and iron: and the sister of Tubal–cain was Naamah.
 >
@@ -119,14 +107,8 @@ Reading from the class thumbnail video  *[[8:41](https://www.youtube.com/watch?v
 
 - *[[21:19](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1279s)]* A piece of wood of small value: Noah's ark right there.
 
-**[1 Maccabees 1:1,6-9](/bible/1-maccabees/1#v1)**  *[[21:31](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1291s)]*
+**[1 Maccabees 1:8-9](/bible/1-maccabees/1#v8)**  *[[21:31](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1291s)]*
 
-> <sup>[1](/bible/1-maccabees/1#v1)</sup> And it happened, after that Alexander son of Philip, the Macedonian, who came out of the land of Chettiim, had smitten Darius king of the Persians and Medes, that he reigned in his stead, the first over Greece,
->
-> <sup>[6](/bible/1-maccabees/1#v6)</sup> Wherefore he called his servants, such as were honourable, and had been brought up with him from his youth, and parted his kingdom among them, while he was yet alive.
->
-> <sup>[7](/bible/1-maccabees/1#v7)</sup> So Alexander reigned twelve years, and then died.
->
 > <sup>[8](/bible/1-maccabees/1#v8)</sup> And his servants bare rule every one in his place.
 >
 > <sup>[9](/bible/1-maccabees/1#v9)</sup> And after his death they all put crowns upon themselves; so did their sons after them many years: and evils were multiplied in the earth.
@@ -135,14 +117,8 @@ Reading from the class thumbnail video  *[[8:41](https://www.youtube.com/watch?v
 
 - *[[23:25](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1405s)]* And evils were multiplied in the earth. So the Lord is letting us know that pure evil, that wickedness, is coming from this particular lineage or seed: the Greeks, who are the Romans, the Europeans, the Americans, and the Israelis, Israel Amalek today. They are the ones who multiplied the evil in this day and time.
 
-**[Daniel 11:1-3,36](/bible/daniel/11#v1)**  *[[24:02](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1442s)]*
+**[Daniel 11:36](/bible/daniel/11#v36)**  *[[24:02](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1442s)]*
 
-> <sup>[1](/bible/daniel/11#v1)</sup> Also I in the first year of Darius the Mede, even I, stood to confirm and to strengthen him.
->
-> <sup>[2](/bible/daniel/11#v2)</sup> And now will I shew thee the truth. Behold, there shall stand up yet three kings in Persia; and the fourth shall be far richer than they all: and by his strength through his riches he shall stir up all against the realm of Grecia.
->
-> <sup>[3](/bible/daniel/11#v3)</sup> And a mighty king shall stand up, that shall rule with great dominion, and do according to his will.
->
 > <sup>[36](/bible/daniel/11#v36)</sup> And the king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak marvellous things against the God of gods, and shall prosper till the indignation be accomplished: for that that is determined shall be done.
 
 - *[[25:18](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1518s)]* He shall magnify himself above every god. Whose name actually says that? Antiochus Epiphanes, which means God manifest on earth.
@@ -159,13 +135,11 @@ Reading from the class thumbnail video  *[[8:41](https://www.youtube.com/watch?v
 
 - *[[26:34](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1594s)]* Not by his own power: cause he has Satan that's literally using him, that's guiding him and directing him.
 
-- *[[26:51](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1611s)]* He shall destroy wonderfully and shall prosper. He'll go to this land: rape, rob, murder, colonize, enslave, take it for his own. That's the difference between their seed and us. When we do wicked, the Lord makes sure that we get judged for it. This man has never paid for his crimes. But his day is coming.
+- *[[27:05](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1625s)]* When we do wicked, the Lord makes sure that we get judged for it. This man has never paid for his crimes. But his day is coming.
 
-- *[[27:50](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1670s)]* And shall destroy the mighty and the holy people. Ain't that the same thing that Cain did to Abel? Abel was righteous, and Cain couldn't stand that. Now you see the seed of Edom, Esau. They can't stand Jacob's kids, the so-called blacks, Hispanics, and Native Americans. So they conjure up plots behind closed doors, to afflict the poor secretly.
+- *[[27:50](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1670s)]* And shall destroy the mighty and the holy people. Ain't that the same thing that Cain did to Abel? Now you see the seed of Edom, Esau. They can't stand Jacob's kids, the so-called blacks, Hispanics, and Native Americans. So they conjure up plots behind closed doors, to afflict the poor secretly.
 
-- *[[28:25](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1705s)]* Through his policy: they call it democracy, which he spreads to other nations outside of America, even though they don't want them there. After World War II, you had the United States of America elect the Sallman Head painting as the official image of Christ.
-
-- *[[29:47](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1787s)]* By peace shall destroy many. They say they're spreading peace. But they go around from country to country spreading destabilization, so they could put their leaders in place. All of those coups d'état are not by accident. And all of these occurrences that y'all seen in America today, that ain't by accident or coincidence either.
+- *[[29:47](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1787s)]* By peace shall destroy many. They say they're spreading peace. But they go around from country to country spreading destabilization, so they could put their leaders in place.
 
 - *[[30:38](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1838s)]* But he shall be broken without hand. These are the vessels fit for destruction.
 
@@ -187,9 +161,7 @@ Reading from the class thumbnail video  *[[8:41](https://www.youtube.com/watch?v
 
 > <sup>[52](/bible/1-maccabees/3#v52)</sup> And, lo, the heathen are assembled together against us to destroy us: what things they imagine against us, thou knowest.
 
-- *[[33:04](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1984s)]* Understand who's behind the evil: the Greeks, the Romans, the Ottomans, the French, the Germans, America, and Amalek, Netanyahu and his people over there. You had Cain to do it first, and the Lord brought judgment against the earth with the flood. And then you have this seed that's actively doing it right now. So the Lord going to bring judgment again.
-
-- *[[33:55](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2035s)]* It's always a plot against the righteous. It's always a battle between good and evil, and that's what we seeing play out.
+- *[[33:04](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1984s)]* Understand who's behind the evil: the Greeks, the Romans, the Ottomans, the French, the Germans, America, and Amalek. You had Cain to do it first, and the Lord brought judgment against the earth with the flood. And then you have this seed that's actively doing it right now. So the Lord going to bring judgment again.
 
   Precepts:
   - **[Sirach 33:14](/bible/sirach/33#v14)**
@@ -239,25 +211,19 @@ Reading from the quote on the screen  *[[37:45](https://www.youtube.com/watch?v=
 
 - *[[40:35](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2435s)]* When the nations saw America drop the atomic bomb on Hiroshima and Nagasaki, that was never done before in the earth, and they saw it as a miracle. So they said, who can make war with these people?
 
-**[2 Esdras 11:39](/bible/2-esdras/11#v39)**  *[[40:43](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2443s)]*
-
-> <sup>[39](/bible/2-esdras/11#v39)</sup> Art not thou it that remainest of the four beasts, whom I made to reign in my world, that the end of their times might come through them?
-
-- *[[41:15](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2475s)]* Just like it was the end of the world at that time with the flood, guess what, they're going to have their end the same way. Tubal-cain created the weaponry, and evils multiplied, murders, killings multiplied. Same thing with this nation.
-
 **[Isaiah 54:16-17](/bible/isaiah/54#v16)**  *[[41:48](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2508s)]*
 
 > <sup>[16](/bible/isaiah/54#v16)</sup> Behold, I have created the smith that bloweth the coals in the fire, and that bringeth forth an instrument for his work; and I have created the waster to destroy.
 >
 > <sup>[17](/bible/isaiah/54#v17)</sup> No weapon that is formed against thee shall prosper; and every tongue that shall rise against thee in judgment thou shalt condemn. This is the heritage of the servants of the Lord, and their righteousness is of me, saith the Lord.
 
-- *[[41:48](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2508s)]* These are the people that are causing all of the chaos. These are the war mongers, going from nation to nation destabilizing countries in the name of white Jesus. Christian dominionism, Christian nationalism is at an all-time high right now.
+- *[[41:48](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2508s)]* These are the war mongers, going from nation to nation destabilizing countries in the name of white Jesus.
 
-- *[[42:23](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2543s)]* The Lord created all nations and kindreds and tongues to fulfill his purpose. So he has Esau create these weapons for him. But it's still the Lord's spirit behind it. This is how I wrote the script, and you going to be the ones to carry it out.
+- *[[42:23](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2543s)]* The Lord created all nations and kindreds and tongues to fulfill his purpose. So he has Esau create these weapons for him. But it's still the Lord's spirit behind it.
 
-- *[[42:57](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2577s)]* The waster: that's going into those nukes, those ICBMs, to destroy, to annihilate. But the Lord is saying, guess what? The righteous of his people, we ain't got nothing to worry about.
+- *[[43:21](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2601s)]* But the Lord is saying, guess what? The righteous of his people, we ain't got nothing to worry about.
 
-*[[43:36](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2616s)]* **In The News: What on earth is happening: a global outage, a nationwide ground stop, nationwide communication issues** — They've been warning us about cyber attacks. Who's feeding this to you? So don't think it's farfetched if they're the ones causing it, and then the ones coming up with the solution.
+*[[43:36](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2616s)]* **In The News: What on earth is happening: a global outage, a nationwide ground stop, nationwide communication issues** — Don't think it's farfetched if they're the ones causing it, and then the ones coming up with the solution.
 
 **[2 Maccabees 4:16](/bible/2-maccabees/4#v16)**  *[[44:29](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2669s)]*
 
@@ -297,13 +263,11 @@ Reading from the quote on the screen  *[[37:45](https://www.youtube.com/watch?v=
 >
 > <sup>[7](/bible/1-thessalonians/5#v7)</sup> For they that sleep sleep in the night; and they that be drunken are drunken in the night.
 
-- *[[52:35](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3155s)]* Not in darkness: we shouldn't be walking in the midst of sin. Sin darkens your spirit. It blinds your eyes. You may have understood a scripture one day, but now you're in the midst of sin, you can't see the scriptures the same no more. You just want to work at your job instead of keeping the Sabbath.
+- *[[52:35](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3155s)]* Not in darkness: we shouldn't be walking in the midst of sin. Sin darkens your spirit. It blinds your eyes. You just want to work at your job instead of keeping the Sabbath.
 
 - *[[53:14](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3194s)]* We shouldn't be able to see what's going on on the news, social media, and be shocked and surprised. The Lord already told us.
 
-- *[[53:30](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3210s)]* Children of light: Christ is that light. Wisdom is that light. The law is light.
-
-- *[[53:48](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3228s)]* So the scripture is telling us, don't hit the snooze button. Sober in doctrine, sober in mind. Making sure we in the spirit, not in secret sin.
+- *[[53:48](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3228s)]* So the scripture is telling us, don't hit the snooze button. Sober in doctrine, sober in mind.
 
 **[Jeremiah 10:22](/bible/jeremiah/10#v22)**  *[[55:04](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3304s)]*
 
@@ -331,9 +295,7 @@ Reading from the definition on the screen: commotion  *[[56:50](https://www.yout
 
 > <sup>[22](/bible/jeremiah/10#v22)</sup> Behold, the noise of the bruit is come, and a great commotion out of the north country, to make the cities of Judah desolate, and a den of dragons.
 
-- *[[58:02](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3482s)]* All of this chaos, all of this commotion is being stirred up to come against us. And very soon it's going to be very plain in the media who they are against. Right now they do it secretly.
-
-- *[[58:41](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3521s)]* It's the American Christians, the conservatives, versus the Muslims right now. They say that Muslims are terrorists. I think the Caucasian Christians, they're terrorists too. How did they get this land? How did they get Israel? But right now they're trying to paint the narrative that all Arabs are evil, because it threatens their territory.
+- *[[58:02](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3482s)]* All of this chaos, all of this commotion is being stirred up to come against us. And very soon it's going to be very plain in the media who they are against.
 
 - *[[59:35](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3575s)]* To make our land desolate. We're not even in our land today. Meaning they succeeded.
 
@@ -361,9 +323,9 @@ Reading from the definition on the screen: perplexity  *[[1:00:39](https://www.y
 
 > <sup>[48](/bible/deuteronomy/28#v48)</sup> Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
 
-- Because of our sins, because of our disobedience, the Lord gave us into the hands of our enemies. Most of us don't have our own livestock, vegetation, our reservoirs.
+- Because of our disobedience, the Lord gave us into the hands of our enemies.
 
-- *[[1:01:46](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3706s)]* In want of all things. If we want electricity, who do we get that from? We get that from our enemies. If we want water, we go to the grocery store to get water. Certain food items, clothes, all of that, we go to our enemies. The enemies that created something called the grid, and we're all connected to it. But they're telling us that the grid is about to go down.
+- *[[1:01:46](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3706s)]* If we want electricity, who do we get that from? We get that from our enemies. The enemies that created something called the grid. But they're telling us that the grid is about to go down.
 
 **[Zephaniah 2:1-2](/bible/zephaniah/2#v1)**  *[[1:02:03](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3723s)]*
 
@@ -451,27 +413,17 @@ Reading from the definition on the screen: tumult  *[[1:07:04](https://www.youtu
 
 - *[[1:15:33](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4533s)]* Jerusalem was besieged by the Babylonians, and in our captivity we had certain tragedies that happened. So we started fasting certain months, that the Lord have mercy on us so it don't happen again.
 
-**[2 Kings 25:8-10](/bible/2-kings/25#v8)**  *[[1:16:05](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4565s)]*
+**[2 Kings 25:8-9](/bible/2-kings/25#v8)**  *[[1:16:05](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4565s)]*
 
 > <sup>[8](/bible/2-kings/25#v8)</sup> And in the fifth month, on the seventh day of the month, which is the nineteenth year of king Nebuchadnezzar king of Babylon, came Nebuzar–adan, captain of the guard, a servant of the king of Babylon, unto Jerusalem:
 >
 > <sup>[9](/bible/2-kings/25#v9)</sup> And he burnt the house of the Lord, and the king’s house, and all the houses of Jerusalem, and every great man’s house burnt he with fire.
->
-> <sup>[10](/bible/2-kings/25#v10)</sup> And all the army of the Chaldees, that were with the captain of the guard, brake down the walls of Jerusalem round about.
 
 - *[[1:16:37](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4597s)]* So you see what happened in the fifth month.
 
-**[2 Kings 25:22-25](/bible/2-kings/25#v22)**  *[[1:16:59](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4619s)]*
+**[2 Kings 25:25](/bible/2-kings/25#v25)**  *[[1:16:59](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4619s)]*
 
-> <sup>[22](/bible/2-kings/25#v22)</sup> And as for the people that remained in the land of Judah, whom Nebuchadnezzar king of Babylon had left, even over them he made Gedaliah the son of Ahikam, the son of Shaphan, ruler.
->
-> <sup>[23](/bible/2-kings/25#v23)</sup> And when all the captains of the armies, they and their men, heard that the king of Babylon had made Gedaliah governor, there came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, and Johanan the son of Careah, and Seraiah the son of Tanhumeth the Netophathite, and Jaazaniah the son of a Maachathite, they and their men.
->
-> <sup>[24](/bible/2-kings/25#v24)</sup> And Gedaliah sware to them, and to their men, and said unto them, Fear not to be the servants of the Chaldees: dwell in the land, and serve the king of Babylon; and it shall be well with you.
->
 > <sup>[25](/bible/2-kings/25#v25)</sup> But it came to pass in the seventh month, that Ishmael the son of Nethaniah, the son of Elishama, of the seed royal, came, and ten men with him, and smote Gedaliah, that he died, and the Jews and the Chaldees that were with him at Mizpah.
-
-- *[[1:17:59](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4679s)]* Dwell in the land and serve the king of Babylon: that was the commandment. Jeremiah said, you got to stay in your captivity. This is judgment that came upon us.
 
 **[Zechariah 7:5](/bible/zechariah/7#v5)**  *[[1:18:21](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4701s)]*
 
@@ -511,21 +463,11 @@ Reading from the definition on the screen: tumult  *[[1:07:04](https://www.youtu
 
     In the day of prosperity there's forgetfulness of affliction. Jeshurun waxed fat and kicked. Jeshurun's the upright ones. That's us. When we got our own land, we cast God behind our backs. So the Lord asking us: are you really fasting to me, or are you just doing that because I'm bringing forth judgment? You want it to stop?
 
-**[Zechariah 8:1-3,12-15](/bible/zechariah/8#v1)**  *[[1:25:08](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5108s)]*
+**[Zechariah 8:12-13](/bible/zechariah/8#v12)**  *[[1:25:08](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5108s)]*
 
-> <sup>[1](/bible/zechariah/8#v1)</sup> Again the word of the Lord of hosts came to me, saying,
->
-> <sup>[2](/bible/zechariah/8#v2)</sup> Thus saith the Lord of hosts; I was jealous for Zion with great jealousy, and I was jealous for her with great fury.
->
-> <sup>[3](/bible/zechariah/8#v3)</sup> Thus saith the Lord; I am returned unto Zion, and will dwell in the midst of Jerusalem: and Jerusalem shall be called a city of truth; and the mountain of the Lord of hosts the holy mountain.
->
 > <sup>[12](/bible/zechariah/8#v12)</sup> For the seed shall be prosperous; the vine shall give her fruit, and the ground shall give her increase, and the heavens shall give their dew; and I will cause the remnant of this people to possess all these things.
 >
 > <sup>[13](/bible/zechariah/8#v13)</sup> And it shall come to pass, that as ye were a curse among the heathen, O house of Judah, and house of Israel; so will I save you, and ye shall be a blessing: fear not, but let your hands be strong.
->
-> <sup>[14](/bible/zechariah/8#v14)</sup> For thus saith the Lord of hosts; As I thought to punish you, when your fathers provoked me to wrath, saith the Lord of hosts, and I repented not:
->
-> <sup>[15](/bible/zechariah/8#v15)</sup> So again have I thought in these days to do well unto Jerusalem and to the house of Judah: fear ye not.
 
 - *[[1:26:16](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5176s)]* The Lord is eventually going to turn our captivity. But don't forget chapter 7: he's looking to see if we're coming in sincerity and truth, if we have integrity.
 
@@ -577,19 +519,9 @@ Reading from the fasting and martyrdom graphic on the screen  *[[1:31:36](https:
 
 - *[[1:34:33](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5673s)]* Christ said we shouldn't fast when he right there with us, cause he's our strength. So when he not with us, in order to tap into that power, we got to fast.
 
-> These people were able, through God's grace, to offer their bodies up to death at the time of martyrdom.
-
-- *[[1:35:06](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5706s)]* They wasn't begging the oppressor for their life. Just like Paul: it's time.
-
-> Thus fasting became the training of the spiritual school of martyrs, not only in the physical sense but also from the spirituality gained in fasting. Days of fasting are not only for our spiritual deeds, repentance and coming closer to God, but they also help evoke our love for eternity with him.
->
 > Man therefore harbors no fear when faced with death, since he is prepared for it.
 
 </div>
-
-**[Zechariah 8:16](/bible/zechariah/8#v16)**  *[[1:36:13](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5773s)]*
-
-> <sup>[16](/bible/zechariah/8#v16)</sup> These are the things that ye shall do; Speak ye every man the truth to his neighbour; execute the judgment of truth and peace in your gates:
 
 **[2 Corinthians 8:21](/bible/2-corinthians/8#v21)**  *[[1:36:47](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5807s)]*
 
@@ -605,11 +537,9 @@ Reading from the fasting and martyrdom graphic on the screen  *[[1:31:36](https:
 
 > <sup>[11](/bible/2-peter/3#v11)</sup> Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conversation and godliness,
 
-- *[[1:38:02](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5882s)]* Knowing that the impending judgment is coming, what manner of brother, what manner of sister ought we to be in these last days?
+- *[[1:38:23](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5903s)]* What type of Israelite have I been? Have you been that brother or sister that's there for each other?
 
-- *[[1:38:23](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5903s)]* What type of Israelite have I been? Have I been that mysterious Israelite? Don't nobody know nothing about you except on the Sabbath. Have you been that brother or sister that's there for each other?
-
-- *[[1:38:55](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5935s)]* As long as you still got breath in your body, blood in your veins, you got a chance to make it right. So let's get it right, Israel. Let's get right and go home.
+- *[[1:38:55](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5935s)]* As long as you still got breath in your body, you got a chance to make it right. So let's get it right, Israel. Let's get right and go home.
 
 **[Romans 12:10-11](/bible/romans/12#v10)**  *[[1:39:13](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5953s)]*
 
@@ -617,17 +547,9 @@ Reading from the fasting and martyrdom graphic on the screen  *[[1:31:36](https:
 >
 > <sup>[11](/bible/romans/12#v11)</sup> Not slothful in business; fervent in spirit; serving the Lord;
 
-**[Job 2:1-5](/bible/job/2#v1)**  *[[1:39:44](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5984s)]*
+**[Job 2:3](/bible/job/2#v3)**  *[[1:39:44](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5984s)]*
 
-> <sup>[1](/bible/job/2#v1)</sup> Again there was a day when the sons of God came to present themselves before the Lord, and Satan came also among them to present himself before the Lord.
->
-> <sup>[2](/bible/job/2#v2)</sup> And the Lord said unto Satan, From whence comest thou? And Satan answered the Lord, and said, From going to and fro in the earth, and from walking up and down in it.
->
 > <sup>[3](/bible/job/2#v3)</sup> And the Lord said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause.
->
-> <sup>[4](/bible/job/2#v4)</sup> And Satan answered the Lord, and said, Skin for skin, yea, all that a man hath will he give for his life.
->
-> <sup>[5](/bible/job/2#v5)</sup> But put forth thine hand now, and touch his bone and his flesh, and he will curse thee to thy face.
 
 - *[[1:40:46](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6046s)]* And still he holdeth fast his integrity.
 
@@ -667,13 +589,11 @@ Reading from the fasting and martyrdom graphic on the screen  *[[1:31:36](https:
 
 - *[[1:46:03](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6363s)]* Everybody in here, except those children that were born in the truth, was groomed. We grew up by what we saw here in Babylon, America, or our various captivities.
 
-**[Isaiah 19:14,20-22](/bible/isaiah/19#v14)**  *[[1:46:16](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6376s)]*
+**[Isaiah 19:14,20,22](/bible/isaiah/19#v14)**  *[[1:46:16](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6376s)]*
 
 > <sup>[14](/bible/isaiah/19#v14)</sup> The Lord hath mingled a perverse spirit in the midst thereof: and they have caused Egypt to err in every work thereof, as a drunken man staggereth in his vomit.
 >
 > <sup>[20](/bible/isaiah/19#v20)</sup> And it shall be for a sign and for a witness unto the Lord of hosts in the land of Egypt: for they shall cry unto the Lord because of the oppressors, and he shall send them a saviour, and a great one, and he shall deliver them.
->
-> <sup>[21](/bible/isaiah/19#v21)</sup> And the Lord shall be known to Egypt, and the Egyptians shall know the Lord in that day, and shall do sacrifice and oblation; yea, they shall vow a vow unto the Lord, and perform it.
 >
 > <sup>[22](/bible/isaiah/19#v22)</sup> And the Lord shall smite Egypt: he shall smite and heal it: and they shall return even to the Lord, and he shall be intreated of them, and shall heal them.
 
@@ -684,24 +604,18 @@ Reading from the fasting and martyrdom graphic on the screen  *[[1:31:36](https:
 - *[[1:47:50](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6470s)]* The Lord shall smite Egypt: through the torture, the evils, the perilous times to come, the famines to come.
 
   Precepts:
-  - **[Hosea 6:1-3](/bible/hosea/6#v1)**
+  - **[Hosea 6:1](/bible/hosea/6#v1)**
     > <sup>[1](/bible/hosea/6#v1)</sup> Come, and let us return unto the Lord: for he hath torn, and he will heal us; he hath smitten, and he will bind us up.
-    >
-    > <sup>[2](/bible/hosea/6#v2)</sup> After two days will he revive us: in the third day he will raise us up, and we shall live in his sight.
-    >
-    > <sup>[3](/bible/hosea/6#v3)</sup> Then shall we know, if we follow on to know the Lord: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth.
 
-    This is talking about the nation of Israel: everything going to be restored to us. But we got to go through the trouble first.
+    This is talking about the nation of Israel. We got to go through the trouble first.
 
 - *[[1:49:05](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6545s)]* They shall return even to the Lord. The heathen, they never knew the Lord. So how they going to return to the Lord? So those Egyptians ain't talking about the heathens. It's talking about the Israelites. Even though we grow up in perverseness, debauchery, the Lord says we going to go through the affliction, but we're going to make it out.
 
-**[Zechariah 8:16-19](/bible/zechariah/8#v16)**  *[[1:49:41](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6581s)]*
+**[Zechariah 8:16-17,19](/bible/zechariah/8#v16)**  *[[1:49:41](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6581s)]*
 
 > <sup>[16](/bible/zechariah/8#v16)</sup> These are the things that ye shall do; Speak ye every man the truth to his neighbour; execute the judgment of truth and peace in your gates:
 >
 > <sup>[17](/bible/zechariah/8#v17)</sup> And let none of you imagine evil in your hearts against his neighbour; and love no false oath: for all these are things that I hate, saith the Lord.
->
-> <sup>[18](/bible/zechariah/8#v18)</sup> And the word of the Lord of hosts came unto me, saying,
 >
 > <sup>[19](/bible/zechariah/8#v19)</sup> Thus saith the Lord of hosts; The fast of the fourth month, and the fast of the fifth, and the fast of the seventh, and the fast of the tenth, shall be to the house of Judah joy and gladness, and cheerful feasts; therefore love the truth and peace.
 
@@ -751,21 +665,17 @@ Reading from the fasting and martyrdom graphic on the screen  *[[1:31:36](https:
 
 *[[1:58:29](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=7109s)]* **In The News: Bill Gates on lowering the population through new vaccines, healthcare and reproductive health services** — They putting it right there in front of you.
 
-*[[2:00:17](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=7217s)]* **In The News: COINTELPRO: Hoover deciding the Black Panthers were the most dangerous organization in the United States, and the FBI setting out to neutralize them** — As the sons of God continue to wake up, they too are going to realize the same thing, and they're going to go back to their roots. COINTELPRO is alive today, in all of our sanctuaries. Eventually they're going to start doing exactly what they did to the Panthers, to Martin Luther King, Malcolm X. What does neutralize mean? To kill. To eradicate.
+*[[2:00:17](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=7217s)]* **In The News: COINTELPRO and the FBI setting out to neutralize the Black Panther Party** — COINTELPRO is alive today, in all of our sanctuaries.
 
 <div class="reading">
 
 Reading from the COINTELPRO slides on the screen  *[[2:03:20](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=7400s)]*
 
-> From 1956 to 1971, the FBI ran a classified operation called COINTELPRO. Its mission was not to fight foreign enemies. It was to surveil, infiltrate, discredit, and destroy American citizens the government decided were too dangerous to exist.
-
-- *[[2:03:49](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=7429s)]* And that was us: blacks, Hispanics, the American Indian Movement, Black Panthers. That was us who they deemed dangerous.
-
 > The tactics used were not improvised: forged documents, fake media stories, anonymous threatening phone calls, IRS audits deployed as weapons, letters designed to turn allies against each other.
 
-- *[[2:04:41](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=7481s)]* Y'all don't think they're going to do that again? They're going to use these measures all over again. But some of y'all sleep. Remember 1 Thessalonians 5: we the children of light, we shouldn't be sleep. There's something here that you love more than God.
+- *[[2:04:41](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=7481s)]* They're going to use these measures all over again.
 
-- *[[2:05:33](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=7533s)]* This class is about keeping your integrity in the midst of chaos. Because when they really start coming for us, a lot are going to say: I knew he wasn't who he said he was. I've been waiting for him to fall. But you don't even realize that's the enemy putting that stuff out there.
+- *[[2:05:33](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=7533s)]* This class is about keeping your integrity in the midst of chaos. When they really start coming for us, a lot are going to say: I knew he wasn't who he said he was. But you don't even realize that's the enemy putting that stuff out there.
 
 </div>
 
@@ -803,8 +713,6 @@ Reading from the COINTELPRO slides on the screen  *[[2:03:20](https://www.youtub
 
 *[[2:16:38](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=8198s)]* Now is the age of AI technology. If they want your voice on something, that's very, very easy. But a lot of our people, because they was never with us in the first place, or they allowed that grudge or that hatred to grow: these things are going to happen, cause COINTELPRO is alive and well today. It's going to be worse in these days. Will you be able to keep your integrity when they really come against us? Or you going to let grudges get in between? You know what, I'm actually glad to see their downfall. But really, that was a test for you.
 
-*[[2:17:38](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=8258s)]* **In The News: A clip showing a product video that is 100% AI, the person and the voice included** — Y'all seeing it.
-
 **[Matthew 10:21](/bible/matthew/10#v21)**  *[[2:18:40](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=8320s)]*
 
 > <sup>[21](/bible/matthew/10#v21)</sup> And the brother shall deliver up the brother to death, and the father the child: and the children shall rise up against their parents, and cause them to be put to death.
@@ -815,33 +723,17 @@ Reading from the COINTELPRO slides on the screen  *[[2:03:20](https://www.youtub
 
 Reading from the slides on the Crusades and the Inquisition  *[[2:19:39](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=8379s)]*
 
-> The Crusades began in the late 11th century, the traditional starting point in 1095, when Pope Urban II called upon Western European Christians to launch a military expedition to the East. Several developments contributed to this: the expansion of Muslim powers.
-
-- *[[2:19:57](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=8397s)]* What do y'all see today when it comes to Islam? Y'all see them gaining steam. You see a lot of these pastors, politicians always talking about the rise of Islam.
-
 > Land, wealth, power, and political influence. Religion was not the only motivation.
 
-- *[[2:20:54](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=8454s)]* You see Trump trying to grab different lands in these last days. It wasn't just about pushing religion.
+- *[[2:20:54](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=8454s)]* You see Trump trying to grab different lands in these last days.
 
-> A major development occurred in 1184, when Pope Lucius III issued a decree called Ad abolendam. This strengthened the church's efforts to identify and suppress heresy.
-
-- *[[2:21:43](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=8503s)]* After the Crusades, you had the Inquisition, to see if you believed in heresies outside of what they taught. So right now they are trying to stop the rise of Islam. But ultimately they want to rid the world of anybody who thinks differently than them. This is the Christian nationalism. Like the Crusades before, like the Inquisition before, we're living in those days all over again.
-
-> In some periods, torture was authorized to obtain confessions. Punishments could include imprisonment, confiscation of property, and execution by secular authorities.
->
 > In 1492, Ferdinand and Isabella issued an edict requiring Jews in their territories to convert to Christianity or leave Spain.
 
 - *[[2:23:24](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=8604s)]* That's us. That's the real Jews.
 
-> An auto-da-fé, from Portuguese auto da fé or Spanish auto de fe, meaning act of faith, was a ritualized public penance carried out between the 15th and 19th centuries in condemnation of heretics.
-
-- *[[2:24:50](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=8690s)]* According to mainstream Christianity, what color is Christ? A white man. That's what they believe. They believe all nations can be saved. They believe in the Trinity. Is that what we believe? No. So they would consider us a heretic.
+- *[[2:24:50](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=8690s)]* According to mainstream Christianity, what color is Christ? A white man. So they would consider us a heretic.
 
 </div>
-
-**[2 Esdras 16:70](/bible/2-esdras/16#v70)**  *[[2:25:14](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=8714s)]*
-
-> <sup>[70](/bible/2-esdras/16#v70)</sup> For there shall be in every place, and in the next cities, a great insurrection upon those that fear the Lord.
 
 <div class="reading">
 
