@@ -3,3 +3,4 @@
 - Notes can show the Strong's entry for a Hebrew or Greek word a class explains (`"strongs"` on a reading item); Mystery Babylon carries nes, oth, degel and Jehovah-nissi.
 - Class note for the 2026-11-14 class The Anti Christ and His Omnipresence (Captain Benzion), with the Strong's entries for anti (G473) and Christ (G5547).
 - Class note: Integrity In The Midst Of Chaos (Captain Mattathias, 2026-11-14), with its transcript.
+- Class note: The Gospel of Social Acceptance (Bishop Nathanyel, 2026-11-14), with its transcript and precept breakdowns.
