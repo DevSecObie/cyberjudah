@@ -4,7 +4,7 @@ slug: "2026/2026-11-14-integrity-in-the-midst-of-chaos"
 date: "2026-11-14"
 teacher: "Captain Mattathias"
 description: "IUIC in the ClassRoom · 2026-11-14"
-tags: ["IUIC in the ClassRoom", "prayer", "prophecy", "unity", "war", "wisdom"]
+tags: ["IUIC in the ClassRoom", "justice", "prayer", "prophecy", "war", "wisdom"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-11-14</p>
@@ -103,13 +103,13 @@ Reading from the class thumbnail video  *[[8:41](https://www.youtube.com/watch?v
   - **[Genesis 2:7](/bible/genesis/2#v7)**
     > <sup>[7](/bible/genesis/2#v7)</sup> And the Lord God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
 
-    The first formed man was Adam, and the Lord breathed forth the breath of life into Adam. The breath of life is the laws of God, the commandments.
+    The first formed man was Adam, and the Lord breathed forth the breath of life into Adam. What is the breath of life?
   - **[Proverbs 7:2](/bible/proverbs/7#v2)**
     > <sup>[2](/bible/proverbs/7#v2)</sup> Keep my commandments, and live; and my law as the apple of thine eye.
 
-    How do we come to life? By keeping God's commandments.
+    Keep my commandments and live. So how do we come to life? That is life. That is the breath of life. If you didn't have it, write it down.
 
-- *[[19:48](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1188s)]* Who's the unrighteous in verse three? Cain, because he committed the first murder.
+- *[[19:48](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1188s)]* Who's the unrighteous right here in verse three? He committed the first murder.
 
 - *[[20:20](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1220s)]* For whose cause the earth being drowned with the flood. Whose cause would be Cain's cause. When he committed that first murder, that introduced that evil, that corruption to the rest of the world. That's why Noah had to build his ark.
 
@@ -139,7 +139,7 @@ Reading from the class thumbnail video  *[[8:41](https://www.youtube.com/watch?v
 >
 > <sup>[36](/bible/daniel/11#v36)</sup> And the king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak marvellous things against the God of gods, and shall prosper till the indignation be accomplished: for that that is determined shall be done.
 
-- *[[25:18](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1518s)]* He shall magnify himself above every god. Whose name actually says that? Antiochus Epiphanes, which means God manifest on earth.
+- *[[25:18](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1518s)]* He shall exalt himself and magnify himself above every god. So the question would be, whose name actually says that he's above every god?
 
 - *[[25:57](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1557s)]* You see those traits in Trump. You see those traits in presidents prior to Donald Trump. It's not just talking about Antiochus. It's talking about that seed, that lineage. Remember, those evils were multiplied in the earth.
 
@@ -157,6 +157,8 @@ Reading from the class thumbnail video  *[[8:41](https://www.youtube.com/watch?v
 
 - *[[27:50](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1670s)]* And shall destroy the mighty and the holy people. Ain't that the same thing that Cain did to Abel? Now you see the seed of Edom, Esau. They can't stand Jacob's kids, the so-called blacks, Hispanics, and Native Americans. So they conjure up plots behind closed doors, to afflict the poor secretly.
 
+- *[[28:39](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1719s)]* Antiochus Epiphanes: God manifest on earth.
+
 - *[[29:47](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1787s)]* By peace shall destroy many. They say they're spreading peace. But they go around from country to country spreading destabilization, so they could put their leaders in place.
 
 - *[[30:38](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1838s)]* But he shall be broken without hand. These are the vessels fit for destruction.
@@ -164,6 +166,8 @@ Reading from the class thumbnail video  *[[8:41](https://www.youtube.com/watch?v
 **[Daniel 11:36](/bible/daniel/11#v36)**  *[[30:56](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1856s)]*
 
 > <sup>[36](/bible/daniel/11#v36)</sup> And the king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak marvellous things against the God of gods, and shall prosper till the indignation be accomplished: for that that is determined shall be done.
+
+- *[[31:20](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1880s)]* He shall prosper until the indignation be accomplished. What is that talking about?
 
   Precepts:
   - **[Revelation 18:5-6](/bible/revelation/18#v5)**
@@ -227,6 +231,12 @@ Reading from the quote on the screen  *[[37:45](https://www.youtube.com/watch?v=
 
 - *[[40:35](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2435s)]* When the nations saw America drop the atomic bomb on Hiroshima and Nagasaki, that was never done before in the earth, and they saw it as a miracle. So they said, who can make war with these people?
 
+**[2 Esdras 11:39](/bible/2-esdras/11#v39)**  *[[40:43](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2443s)]*
+
+> <sup>[39](/bible/2-esdras/11#v39)</sup> Art not thou it that remainest of the four beasts, whom I made to reign in my world, that the end of their times might come through them?
+
+- *[[41:15](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2475s)]* Just like it was the end of the world at that time with the flood, guess what, they're going to have their end the same way. Tubal-cain created the weaponry, and evils multiplied, murders, killings multiplied. Same thing with this nation.
+
 **[Isaiah 54:16-17](/bible/isaiah/54#v16)**  *[[41:48](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2508s)]*
 
 > <sup>[16](/bible/isaiah/54#v16)</sup> Behold, I have created the smith that bloweth the coals in the fire, and that bringeth forth an instrument for his work; and I have created the waster to destroy.
@@ -239,7 +249,7 @@ Reading from the quote on the screen  *[[37:45](https://www.youtube.com/watch?v=
 
 - *[[43:21](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2601s)]* But the Lord is saying, guess what? The righteous of his people, we ain't got nothing to worry about.
 
-*[[43:36](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2616s)]* **In The News: What on earth is happening: a global outage, a nationwide ground stop, nationwide communication issues** — Don't think it's farfetched if they're the ones causing it, and then the ones coming up with the solution.
+*[[43:36](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2616s)]* **In The News: What on earth is happening: a global outage, a nationwide ground stop, nationwide communication issues** — Remember, they've been warning us about cyber attacks. Who's feeding this to you? Where is this coming from? So don't think it's farfetched if they're the ones causing it, and then the ones coming up with the solution.
 
 **[2 Maccabees 4:16](/bible/2-maccabees/4#v16)**  *[[44:29](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2669s)]*
 
@@ -445,6 +455,8 @@ Reading from the definition on the screen: tumult  *[[1:07:04](https://www.youtu
 >
 > <sup>[25](/bible/2-kings/25#v25)</sup> But it came to pass in the seventh month, that Ishmael the son of Nethaniah, the son of Elishama, of the seed royal, came, and ten men with him, and smote Gedaliah, that he died, and the Jews and the Chaldees that were with him at Mizpah.
 
+- *[[1:17:59](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4679s)]* Dwell in the land and serve the king of Babylon: that was the commandment. Jeremiah said, you got to stay in your captivity. This is judgment that came upon us.
+
 **[Zechariah 7:5](/bible/zechariah/7#v5)**  *[[1:18:21](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4701s)]*
 
 > <sup>[5](/bible/zechariah/7#v5)</sup> Speak unto all the people of the land, and to the priests, saying, When ye fasted and mourned in the fifth and seventh month, even those seventy years, did ye at all fast unto me, even to me?
@@ -462,6 +474,8 @@ Reading from the definition on the screen: tumult  *[[1:07:04](https://www.youtu
 **[Daniel 9:2](/bible/daniel/9#v2)**  *[[1:20:45](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4845s)]*
 
 > <sup>[2](/bible/daniel/9#v2)</sup> In the first year of his reign I Daniel understood by books the number of the years, whereof the word of the Lord came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem.
+
+- *[[1:21:06](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4866s)]* What book did Daniel understand?
 
   Precepts:
   - **[Jeremiah 25:12](/bible/jeremiah/25#v12)**
@@ -574,6 +588,8 @@ Reading from the fasting and martyrdom graphic on the screen  *[[1:31:36](https:
 > <sup>[10](/bible/romans/12#v10)</sup> Be kindly affectioned one to another with brotherly love; in honour preferring one another;
 >
 > <sup>[11](/bible/romans/12#v11)</sup> Not slothful in business; fervent in spirit; serving the Lord;
+
+- *[[1:39:46](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5986s)]* So thinking about what the Lord told us, these are the things we got to do. He's telling us to have brotherly love. He's telling us not to lie one to another. Speak truth, love one another.
 
 **[Job 2:1-5](/bible/job/2#v1)**  *[[1:39:44](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5984s)]*
 
@@ -774,6 +790,8 @@ Reading from the slides on the Crusades and the Inquisition  *[[2:19:39](https:/
 **[2 Esdras 16:70](/bible/2-esdras/16#v70)**  *[[2:25:14](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=8714s)]*
 
 > <sup>[70](/bible/2-esdras/16#v70)</sup> For there shall be in every place, and in the next cities, a great insurrection upon those that fear the Lord.
+
+- *[[2:25:38](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=8738s)]* So it's saying that it's prophesying of a great insurrection.
 
 <div class="reading">
 
