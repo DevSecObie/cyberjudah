@@ -673,6 +673,10 @@ Reading from the fasting and martyrdom graphic on the screen  *[[1:31:36](https:
 
 - *[[1:46:58](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6418s)]* They shall cry unto the Lord because of the oppressors. That's us in these last days.
 
+- *[[1:47:25](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6445s)]* Those Egyptians right there are Israelites.
+
+- *[[1:47:50](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6470s)]* He shall smite and heal it. How is he going to smite us in our captivity? Through the torture, the evils, the perilous times to come.
+
   Precepts:
   - **[Hosea 6:1-3](/bible/hosea/6#v1)**
     > <sup>[1](/bible/hosea/6#v1)</sup> Come, and let us return unto the Lord: for he hath torn, and he will heal us; he hath smitten, and he will bind us up.
