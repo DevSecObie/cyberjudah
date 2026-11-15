@@ -17,11 +17,17 @@ tags: ["IUIC in the ClassRoom", "justice", "prayer", "prophecy", "war", "wisdom"
 
 ## Introduction
 
+*[[7:41](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=461s)]* All praises. All praise to the Father. We back in the building. We are back in the building. Good to see everybody's face. Before we get started, let's put that up for the people to see so we can see today's title.
+
 <div class="reading">
 
 Reading from the class thumbnail video  *[[8:41](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=521s)]*
 
 > **The thumbnail video:** It's easy to speak about faith when the windows aren't shaking. But when the war reaches your door, when you're hungry, when you're afraid, when doing right could cost you everything, will you still obey? War does not rewrite his commandments.
+>
+> **The thumbnail video:** Show me the right way. That I may rejoice in the day of Christ, that I may rejoice greatly.
+>
+> **The thumbnail video:** You see that? That's what their mission is to do, is to kill us at the masses.
 >
 > **The thumbnail video:** Lord, when everything around me falls, keep me from falling away. Let me be found faithful. Integrity in the midst of chaos.
 
@@ -35,9 +41,7 @@ Reading from the class thumbnail video  *[[8:41](https://www.youtube.com/watch?v
 
 > <sup>[5](/bible/genesis/6#v5)</sup> And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.
 
-- *[[11:24](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=684s)]* The wickedness of man began to get worse and worse and worse, to the point it was great in the earth. And we're starting to see the same exact thing play out in these days: all types of evil, debauchery, murders, secret plots, commotions. A lot of these things are orchestrated behind closed doors.
-
-- *[[12:01](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=721s)]* But we want to get to the root. What caused the Lord to see that the wickedness of man was great in the earth?
+- *[[11:24](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=684s)]* The wickedness of man began to get worse and worse and worse, to the point it was great in the earth. And we're starting to see the same exact thing play out in these days: all types of evil, debauchery, murders, secret plots, commotions. A lot of these things are orchestrated behind closed doors. But we want to get to the root of Genesis 6 and 5.
 
 **[Genesis 4:8](/bible/genesis/4#v8)**  *[[12:19](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=739s)]*
 
@@ -141,9 +145,7 @@ Reading from the class thumbnail video  *[[8:41](https://www.youtube.com/watch?v
 >
 > <sup>[36](/bible/daniel/11#v36)</sup> And the king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak marvellous things against the God of gods, and shall prosper till the indignation be accomplished: for that that is determined shall be done.
 
-- *[[25:18](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1518s)]* He shall exalt himself and magnify himself above every god. So the question would be, whose name actually says that he's above every god?
-
-- *[[25:57](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1557s)]* You see those traits in Trump. You see those traits in presidents prior to Donald Trump. It's not just talking about Antiochus. It's talking about that seed, that lineage. Remember, those evils were multiplied in the earth.
+- *[[25:18](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1518s)]* He shall exalt himself and magnify himself above every god. You see those traits in Trump. You see those traits in presidents prior to Donald Trump. It's not just talking about Antiochus. It's talking about that seed, that lineage. Remember, those evils were multiplied in the earth.
 
 **[Daniel 8:23-25](/bible/daniel/8#v23)**  *[[26:19](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1579s)]*
 
@@ -169,7 +171,7 @@ Reading from the class thumbnail video  *[[8:41](https://www.youtube.com/watch?v
 
 > <sup>[36](/bible/daniel/11#v36)</sup> And the king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak marvellous things against the God of gods, and shall prosper till the indignation be accomplished: for that that is determined shall be done.
 
-- *[[31:20](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1880s)]* He shall prosper until the indignation be accomplished. What is that talking about?
+- *[[31:20](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1880s)]* He shall prosper until the indignation be accomplished: till the sins reach the heaven, till the Lord had enough.
 
   Precepts:
   - **[Revelation 18:5-6](/bible/revelation/18#v5)**
@@ -179,7 +181,7 @@ Reading from the class thumbnail video  *[[8:41](https://www.youtube.com/watch?v
 
     Her sins have reached unto heaven. Whose sins? Babylon. Esau, Edom, the evil seed. All of the evil that they've been multiplying, century after century, the Lord says he's going to remember all of it.
 
-- *[[32:40](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1960s)]* Till the indignation be accomplished: till the sins reach the heaven, till the Lord had enough. The Lord's determination is against the nations, that they're going to get their reward, which is going to be the judgment, his fierce anger.
+- *[[32:46](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1966s)]* The Lord's determination is against the nations, that they're going to get their reward, which is going to be the judgment, his fierce anger.
 
 **[1 Maccabees 3:52](/bible/1-maccabees/3#v52)**  *[[33:01](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1981s)]*
 
@@ -417,7 +419,7 @@ Reading from the definition on the screen: tumult  *[[1:07:04](https://www.youtu
 
 > <sup>[1](/bible/revelation/7#v1)</sup> And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree.
 
-- *[[1:12:51](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4371s)]* What are these winds that the angels are holding back?
+- *[[1:12:51](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4371s)]* What are these winds that the angels are holding back? Armies.
 
   Precepts:
   - **[2 Esdras 13:5](/bible/2-esdras/13#v5)**
@@ -485,7 +487,7 @@ Reading from the definition on the screen: tumult  *[[1:07:04](https://www.youtu
 
 > <sup>[2](/bible/daniel/9#v2)</sup> In the first year of his reign I Daniel understood by books the number of the years, whereof the word of the Lord came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem.
 
-- *[[1:21:06](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4866s)]* What book did Daniel understand?
+- *[[1:21:06](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=4866s)]* What book did Daniel understand? Jeremiah chapter 25.
 
   Precepts:
   - **[Jeremiah 25:12](/bible/jeremiah/25#v12)**
@@ -561,13 +563,9 @@ Reading from the fasting and martyrdom graphic on the screen  *[[1:31:36](https:
 
 - *[[1:31:57](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5517s)]* I call it the three Bs. Someone who cannot abstain from food would be known today as a big back. So if a big back finds it difficult to offer their life, they will betray. Big backs will betray. So we got to get right and start training. Our leaders, they've been on it. So we ain't got no excuse.
 
-> Through continuous training and negligence for the bodily needs, a courageous soul is trained to endure hunger and thirst, bring the body into subjection, to conquer the desires and lust of the body. It is able to endure the hardships of imprisonment and the pain of torture.
-
 - *[[1:33:53](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5633s)]* The Lord can give you peace while you being tortured. Think about the fiery furnace. There was a fourth person that showed up: the Son of God, Christ. The three holy children was not burned, cause Christ was there.
 
 - *[[1:34:33](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5673s)]* Christ said we shouldn't fast when he right there with us, cause he's our strength. So when he not with us, in order to tap into that power, we got to fast.
-
-> Man therefore harbors no fear when faced with death, since he is prepared for it.
 
 </div>
 
@@ -843,15 +841,15 @@ Reading from the definition on the screen: insurrection  *[[2:25:48](https://www
 
 *[[2:33:01](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=9181s)]* Is that not the same thing the Crusades was about?
 
-*[[2:34:04](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=9244s)]* So, we seen the Crusades all over again. And after the Crusades came the Inquisition. So, brothers and sisters, we pray that you got something from today's class on how to keep your integrity in the midst of chaos.
+## In Closing
+
+*[[2:34:04](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=9244s)]* So, we seen the Crusades all over again. And after the Crusades came the Inquisition. So, brothers and sisters, we pray that you got something from today's class on how to keep your integrity in the midst of chaos. And we're going to end with this scripture right here.
 
 **[Psalms 41:12](/bible/psalms/41#v12)**  *[[2:34:24](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=9264s)]*
 
 > <sup>[12](/bible/psalms/41#v12)</sup> And as for me, thou upholdest me in mine integrity, and settest me before thy face for ever.
 
 - *[[2:34:34](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=9274s)]* For how long? Forever. We want the Lord to deliver us so we can get out of this godforsaken place. But in order for that to take place, we must keep our integrity.
-
-## In Closing
 
 *[[2:34:44](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=9284s)]* So, all praise to the Most High. Happy Sabbath, family. Let's get ready for Bishop Nathanyel. With that, we say shalom.
 
