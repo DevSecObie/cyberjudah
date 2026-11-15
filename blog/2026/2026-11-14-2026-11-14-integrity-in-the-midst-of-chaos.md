@@ -719,7 +719,7 @@ Reading from the fasting and martyrdom graphic on the screen  *[[1:31:36](https:
 
 *[[1:54:20](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6860s)]* **In The News: A clip on a dramatic increase in cyber attacks on hospitals, the electric network, banks: "Pandemics. That one didn't work the way I expected."** — So he just said the pandemic did not work the way he expected it to work. Did y'all hear that?
 
-> *[[1:54:36](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6876s)]* **The speaker, in the clip:** Pandemics. That one didn't work the way I expected. So over the next several years, certainly in the cyber domain, cause there's a business model there, you will see a lot of attacks.
+> **The speaker, in the clip:** So over the next several years, certainly in the cyber domain, cause there's a business model there, you will see a lot of attacks.
 
 *[[1:54:47](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6887s)]* So he say the pandemic ain't kill enough people.
 
