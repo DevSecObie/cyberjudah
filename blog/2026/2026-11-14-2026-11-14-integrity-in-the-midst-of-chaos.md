@@ -100,10 +100,14 @@ Reading from the class thumbnail video  *[[8:41](https://www.youtube.com/watch?v
     > <sup>[20](/bible/sirach/19#v20)</sup> The fear of the Lord is all wisdom; and in all wisdom is the performance of the law, and the knowledge of his omnipotency.
 
     What is wisdom? The performance of God's laws.
+
+- *[[18:05](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1085s)]* So the first formed man: the Lord breathed forth the breath of life into Adam.
+
+  Precepts:
   - **[Genesis 2:7](/bible/genesis/2#v7)**
     > <sup>[7](/bible/genesis/2#v7)</sup> And the Lord God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
 
-    The first formed man was Adam, and the Lord breathed forth the breath of life into Adam. What is the breath of life?
+    What is the breath of life?
   - **[Proverbs 7:2](/bible/proverbs/7#v2)**
     > <sup>[2](/bible/proverbs/7#v2)</sup> Keep my commandments, and live; and my law as the apple of thine eye.
 
@@ -157,7 +161,7 @@ Reading from the class thumbnail video  *[[8:41](https://www.youtube.com/watch?v
 
 - *[[27:50](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1670s)]* And shall destroy the mighty and the holy people. Ain't that the same thing that Cain did to Abel? Now you see the seed of Edom, Esau. They can't stand Jacob's kids, the so-called blacks, Hispanics, and Native Americans. So they conjure up plots behind closed doors, to afflict the poor secretly.
 
-- *[[28:39](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1719s)]* Antiochus Epiphanes: God manifest on earth.
+- *[[29:01](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1741s)]* Antiochus Epiphanes: God manifest on earth.
 
 - *[[29:47](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=1787s)]* By peace shall destroy many. They say they're spreading peace. But they go around from country to country spreading destabilization, so they could put their leaders in place.
 
@@ -231,13 +235,13 @@ Reading from the quote on the screen  *[[37:45](https://www.youtube.com/watch?v=
 
 - *[[40:35](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2435s)]* When the nations saw America drop the atomic bomb on Hiroshima and Nagasaki, that was never done before in the earth, and they saw it as a miracle. So they said, who can make war with these people?
 
-**[2 Esdras 11:39](/bible/2-esdras/11#v39)**  *[[40:43](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2443s)]*
+**[2 Esdras 11:39](/bible/2-esdras/11#v39)**  *[[41:00](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2460s)]*
 
 > <sup>[39](/bible/2-esdras/11#v39)</sup> Art not thou it that remainest of the four beasts, whom I made to reign in my world, that the end of their times might come through them?
 
 - *[[41:15](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2475s)]* Just like it was the end of the world at that time with the flood, guess what, they're going to have their end the same way. Tubal-cain created the weaponry, and evils multiplied, murders, killings multiplied. Same thing with this nation.
 
-**[Isaiah 54:16-17](/bible/isaiah/54#v16)**  *[[41:48](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2508s)]*
+**[Isaiah 54:16-17](/bible/isaiah/54#v16)**  *[[41:41](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=2501s)]*
 
 > <sup>[16](/bible/isaiah/54#v16)</sup> Behold, I have created the smith that bloweth the coals in the fire, and that bringeth forth an instrument for his work; and I have created the waster to destroy.
 >
@@ -591,7 +595,7 @@ Reading from the fasting and martyrdom graphic on the screen  *[[1:31:36](https:
 
 - *[[1:39:46](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5986s)]* So thinking about what the Lord told us, these are the things we got to do. He's telling us to have brotherly love. He's telling us not to lie one to another. Speak truth, love one another.
 
-**[Job 2:1-5](/bible/job/2#v1)**  *[[1:39:44](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=5984s)]*
+**[Job 2:1-5](/bible/job/2#v1)**  *[[1:40:00](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6000s)]*
 
 > <sup>[1](/bible/job/2#v1)</sup> Again there was a day when the sons of God came to present themselves before the Lord, and Satan came also among them to present himself before the Lord.
 >
