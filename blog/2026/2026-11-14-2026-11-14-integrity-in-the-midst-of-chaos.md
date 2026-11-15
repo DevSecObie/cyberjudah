@@ -299,13 +299,15 @@ Reading from the quote on the screen  *[[37:45](https://www.youtube.com/watch?v=
 
 - *[[53:48](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3228s)]* So the scripture is telling us, don't hit the snooze button. Sober in doctrine, sober in mind.
 
-**[Jeremiah 10:22](/bible/jeremiah/10#v22)**  *[[55:04](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3304s)]*
+*[[55:12](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3312s)]* They were trying to push diaspora wars, to pit us against each other, the so-called African immigrants against the black Americans. But the Lord fixed that thing.
+
+*[[55:52](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3352s)]* The Lord has already let us know there's going to be famines, food shortages, water shortages. So we got to make sure we plan accordingly.
+
+**[Jeremiah 10:22](/bible/jeremiah/10#v22)**  *[[56:24](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3384s)]*
 
 > <sup>[22](/bible/jeremiah/10#v22)</sup> Behold, the noise of the bruit is come, and a great commotion out of the north country, to make the cities of Judah desolate, and a den of dragons.
 
-- *[[55:12](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3312s)]* They were trying to push diaspora wars, to pit us against each other, the so-called African immigrants against the black Americans. But the Lord fixed that thing.
-
-- *[[55:52](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3352s)]* The Lord has already let us know there's going to be famines, food shortages, water shortages. So we got to make sure we plan accordingly.
+- *[[56:32](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=3392s)]* And a great commotion out of the north country. Give me the definition of commotion.
 
 <div class="reading">
 
@@ -667,7 +669,7 @@ Reading from the fasting and martyrdom graphic on the screen  *[[1:31:36](https:
     >
     > <sup>[3](/bible/hosea/6#v3)</sup> Then shall we know, if we follow on to know the Lord: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth.
 
-    This is talking about the nation of Israel.
+    This is talking about the nation of Israel. Meaning everything going to be restored to us. But we got to go through the trouble first.
 
 - *[[1:49:05](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6545s)]* The heathen, they never knew the Lord. So how they going to return to the Lord? It's talking about the Israelites.
 
