@@ -689,7 +689,17 @@ Reading from the fasting and martyrdom graphic on the screen  *[[1:31:36](https:
 
 - *[[1:49:05](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6545s)]* The heathen, they never knew the Lord. So how they going to return to the Lord? It's talking about the Israelites.
 
-**[Zechariah 8:16-19](/bible/zechariah/8#v16)**  *[[1:49:41](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6581s)]*
+**[Isaiah 19:14](/bible/isaiah/19#v14)**  *[[1:49:16](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6556s)]*
+
+> <sup>[14](/bible/isaiah/19#v14)</sup> The Lord hath mingled a perverse spirit in the midst thereof: and they have caused Egypt to err in every work thereof, as a drunken man staggereth in his vomit.
+
+- *[[1:49:24](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6564s)]* Even though we grow up in perverseness, debauchery, all types of evil, the Lord says, guess what? We're going to go through the affliction, but we're going to make it out.
+
+**[Proverbs 11:3](/bible/proverbs/11#v3)**  *[[1:49:36](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6576s)]*
+
+> <sup>[3](/bible/proverbs/11#v3)</sup> The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them.
+
+**[Zechariah 8:16-19](/bible/zechariah/8#v16)**  *[[1:49:51](https://www.youtube.com/watch?v=1pPuO_cLRXQ&t=6591s)]*
 
 > <sup>[16](/bible/zechariah/8#v16)</sup> These are the things that ye shall do; Speak ye every man the truth to his neighbour; execute the judgment of truth and peace in your gates:
 >
