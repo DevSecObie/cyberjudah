@@ -1,0 +1,1 @@
+- The blue-green loader drops the older copy in a step of its own before the switch, so the switch is only renames and a retry of the drop is harmless.
