@@ -347,6 +347,7 @@ def render(t, d, feed):
             # teaching that opened no scripture, in its place in the class
             label = f"**{p['label'].strip()}** — " if p.get("label") else ""
             out += [f"*[{p.get('ts', '')}]* {label}{p['said'].strip()}", ""]
+            if p.get("strongs"): out += [lib.strongs_block(p["strongs"]), ""]
             continue
         s = block(p.get("ref", ""), p.get("ts"), [x if isinstance(x, dict) else x.strip() for x in p.get("points", [])
                                                  if isinstance(x, dict) or x.strip()], p.get("precepts"))
