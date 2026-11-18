@@ -39,8 +39,8 @@ Read these before writing any note. They hold for every writer, every series, ev
    places are missing from the note.
 5. **A Hebrew or Greek word the class explains gets its Strong's entry.** When the teacher
    (or what he reads on screen) breaks down a Hebrew or Greek word, add `"strongs": ["H5251"]`
-   to that reading item in the spec. The entry from `data/strongs` is shown right after the
-   reading, with no timestamp, as a study aid; the class's own words stay as he said them.
+   to that reading or "said" item in the spec. The entry from `data/strongs` is shown right
+   after it, with no timestamp, as a study aid; the class's own words stay as he said them.
 6. **The note is made for the mobile app.** Check it as the app lays it out (the app's own
    class-notes parser), with its people and places, before it is merged. The website page is
    not the reference.
