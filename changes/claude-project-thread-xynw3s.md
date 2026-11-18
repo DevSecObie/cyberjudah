@@ -4,3 +4,5 @@
 - Class note for the 2026-11-14 class The Anti Christ and His Omnipresence (Captain Benzion), with the Strong's entries for anti (G473) and Christ (G5547).
 - Class note: Integrity In The Midst Of Chaos (Captain Mattathias, 2026-11-14), with its transcript.
 - Class note: The Gospel of Social Acceptance (Bishop Nathanyel, 2026-11-14), with its transcript and precept breakdowns.
+- Class notes: Blackbirders Delivered Israelites To Fiji As Slaves, The Hidden Meaning Of Vanuatu & New Hebrides, The Scattered Jews Of Melanesia (Captain Yehoshua, IUIC Oceania) and Blackbirding: The Pacific Slave Trade (IUIC Hawaii), with their transcripts.
+- Notes: a "said" item can carry a Strong's entry too (README rule 5).
