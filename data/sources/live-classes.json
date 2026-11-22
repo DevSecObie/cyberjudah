@@ -13,18 +13,18 @@
     "scheduledStart": "",
     "actualStart": ""
   },
-  "fQK5Ze1VKCY": {
-    "channel": "IUICintheClassRoom",
-    "title": "RUMORS OF WARS AND THE CHILDREN IN THE MARKETPLACE",
-    "status": "live",
-    "scheduledStart": "2026-11-21T18:52:45Z",
-    "actualStart": "2026-11-21T18:53:00Z"
-  },
   "m5CxL7rZ9qk": {
     "channel": "IUICRaleigh",
     "title": "Men Were Never Meant To Be This Weak",
     "status": "upcoming",
     "scheduledStart": "2026-11-24T21:30:00Z",
     "actualStart": ""
+  },
+  "rZik9UiFyCo": {
+    "channel": "IUICintheClassRoom",
+    "title": "THE PULPIT AND THE POLITICS OF LOST IDENTITY",
+    "status": "live",
+    "scheduledStart": "2026-11-21T21:56:01Z",
+    "actualStart": "2026-11-21T21:56:16Z"
   }
 }
